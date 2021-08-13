@@ -1,0 +1,4 @@
+baseURL = "http://guides.ffxivresources.com/"
+languageCode = "en-us"
+title = "Balance Guides"
+theme = "hermit"
