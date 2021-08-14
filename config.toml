@@ -1,4 +1,4 @@
-baseURL = "http://guides.xivresources.com/"
+baseURL = "https://guides.xivresources.com/"
 languageCode = "en-us"
 title = "Balance Guides"
 theme = "hermit"
