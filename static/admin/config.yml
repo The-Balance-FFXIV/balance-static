@@ -1,0 +1,22 @@
+backend:
+  name: github
+  repo: The-Balance-FFXIV/balance-static
+  branch: main # Branch to update (optional; defaults to master)
+  site_domain: guides.xivresources.com
+publish_mode: editorial_workflow
+media_folder: static/img
+public_folder: /img
+site_url: https://guides.xivresources.com
+show_preview_links: true
+collections:
+  - name: 'job'
+    label: 'Job'
+    folder: 'content/job'
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'job/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
