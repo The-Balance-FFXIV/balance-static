@@ -2,7 +2,9 @@ backend:
   name: github
   repo: The-Balance-FFXIV/balance-static
   branch: main # Branch to update (optional; defaults to master)
+  base_url: https://auth.xivresources.com
   site_domain: guides.xivresources.com
+  cms_label_prefix: cms/
 publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
