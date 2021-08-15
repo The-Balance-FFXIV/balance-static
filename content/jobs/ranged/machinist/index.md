@@ -1,4 +1,4 @@
 ---
-title: index
+title: _index
 ---
 Index page for machinists
