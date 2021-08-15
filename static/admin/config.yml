@@ -19,12 +19,43 @@ collections:
   ##
   # Warrior
   - name: 'war-guides'
-    label: 'War'
+    label: 'war'
     description: "Warrior Guides"
     folder: 'content/jobs/tanks/warrior'
     create: true
     slug: '{{slug}}'
     preview_path: 'jobs/tanks/warrior/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  ##
+  # Job guides - ranged section
+  ##
+  # Machinist
+  - name: 'mch-guides'
+    label: 'mch'
+    description: "Machinist Guides"
+    folder: 'content/jobs/ranged/machinist'
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'jobs/ranged/machinist/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  ##
+  # Job guides - caster section
+  ##
+  - name: 'blm-guides'
+    label: 'blm'
+    description: "Black Mage Guides"
+    folder: 'content/jobs/casters/black-mage'
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'jobs/casters/black-mage/{{slug}}'
     editor:
       preview: true
     fields:
