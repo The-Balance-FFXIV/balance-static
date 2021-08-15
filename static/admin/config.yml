@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: The-Balance-FFXIV/balance-static
-  branch: main # Branch to update (optional; defaults to master)
+  branch: main
   base_url: https://auth.xivresources.com
   site_domain: guides.xivresources.com
   cms_label_prefix: cms/
@@ -10,13 +10,21 @@ media_folder: static/img
 public_folder: /img
 site_url: https://guides.xivresources.com
 show_preview_links: true
+###
+# Be careful in editing this; discuss in website channels first!
+##
 collections:
-  - name: 'job'
-    label: 'Job'
-    folder: 'content/job'
+  ##
+  # Job guides - tanks section
+  ##
+  # Warrior
+  - name: 'war-guides'
+    label: 'War'
+    description: "Warrior Guides"
+    folder: 'content/jobs/tanks/warrior'
     create: true
     slug: '{{slug}}'
-    preview_path: 'job/{{slug}}'
+    preview_path: 'jobs/tanks/warrior/{{slug}}'
     editor:
       preview: true
     fields:
