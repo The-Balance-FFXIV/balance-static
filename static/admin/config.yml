@@ -74,6 +74,19 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  # Samurai
+  - name: 'sam-guides'
+    label: 'sam'
+    description: "Samurai Guides"
+    folder: 'content/jobs/melee/samurai'
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'jobs/melee/samurai/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   ##
   # Job guides - ranged section
   ##
