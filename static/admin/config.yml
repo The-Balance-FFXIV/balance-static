@@ -31,6 +31,22 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   ##
+  # Job guides - melee section
+  ##
+  # Reaper
+  - name: 'rpr-guides'
+    label: 'rpr'
+    description: "Reaper Guides"
+    folder: 'content/jobs/melee/reaper'
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'jobs/melee/reaper/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  ##
   # Job guides - ranged section
   ##
   # Machinist
@@ -49,6 +65,7 @@ collections:
   ##
   # Job guides - caster section
   ##
+  # Black Mage
   - name: 'blm-guides'
     label: 'blm'
     description: "Black Mage Guides"
