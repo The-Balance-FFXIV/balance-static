@@ -15,6 +15,21 @@ show_preview_links: true
 ##
 collections:
   ##
+  # Regular guides
+  ##
+  - name: 'guides'
+    label: 'guide'
+    description: "General Guides"
+    folder: 'content/guide'
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'guide/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  ##
   # Job guides - tanks section
   ##
   # Warrior
