@@ -145,3 +145,25 @@ Track dangerous mobs in order to acquire materia for your endgame gear as well a
 * Hunts reward a currency which can be used to purchase gear, materia, and upgrade items. Hunts will also drop Tomestones.
 
 <!--EndFragment-->
+
+<!--StartFragment-->
+
+### Endgame Content
+
+Raids
+
+Trials
+
+Content Unlocks by Item Level
+
+Gearsets by Item Level
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+## Gearing
+
+tbd
+
+<!--EndFragment-->
