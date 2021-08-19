@@ -33,6 +33,19 @@ collections:
   ##
   # Job guides - melee section
   ##
+  # Dragoon
+  - name: 'drg-guides'
+    label: 'drg'
+    description: "Dragoon Guides"
+    folder: 'content/jobs/melee/dragoon'
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'jobs/melee/dragoon/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   # Reaper
   - name: 'rpr-guides'
     label: 'rpr'
