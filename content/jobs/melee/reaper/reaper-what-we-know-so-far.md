@@ -17,16 +17,10 @@ The animation at :24 in the video is the first GCD we see. I'd take a wager and 
 
 This may not be indicative of much, but from what we can tell the first two GCDs do not seem to apply a status to the user or the mob. That doesn't mean these skills won't, it just means that when they made this video they didn't.
 
-
-
-They go on to repeat the 1-2 Combo a few times but at different angles. We don't actually see a new ability until around :33. We also don't get much insight about this ability until around :41 were we see it being used at almost the same time as the number 2 hit in the combo. I think we can safely assume that this is going to an oGCD.
+They go on to repeat the 1-2 Combo a few times but at different angles. We don't actually see a new ability until around :33. We also don't get much insight about this ability until around :41 where we see it being used at almost the same time as the number 2 hit in the combo. I think we can safely assume that this is going to an oGCD.
 
 Lastly we see the Reaper use a buff or a stance at :44. This stance seems to either change or give access to a GCD that now has a red hue tied it. It's hard to tell if all three hits belong to them same GCD but since the delay is consistent on each usage, we can probably assume its a single GCD.
 
-
-
 My best guess is that the new stance will change how your GCD's function and give them a new animation.
-
-
 
 Well that is about it. There really is nothing much to speculate here until we have more information. Expect this page to have more depth, detail and insight when we get more than a few crumbs worth of content!
