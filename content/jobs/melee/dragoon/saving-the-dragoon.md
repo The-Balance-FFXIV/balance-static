@@ -4,8 +4,10 @@ title: Saving The Dragoon
 ## <div style="text-align:center">Overview</div>
 Dragoon is a very static **melee dps** Job. You have strict, long combos to execute and timers within those combos that need to be maintained. Unlike other Jobs - especially other melee - which rely upon a priority system for their basic GCD rotation, Dragoon instead has static buttons to press in a specific order with very little variance. **Shadowbringers** brings with it a new reliance on hitting proper positionals to trigger new skills.
 ***
+
+
 ## <div style="text-align:center">The Brains Behind the Operation</div>
-**Eve Malqir** (Balmung) - the primary writer of this guide and Dragoon Mentor from [The Balance](https://discord.gg/thebalanceffxiv "The Balance Discord").\
+**Eve Malqir** (Balmung) - the primary writer of this guide and Dragoon Mentor from [The Balance](https://discord.gg/thebalanceffxiv "The Balance Discord")\
 Always open to answering questions! Please don't hesitate to contact me! :)\
 Contact: **Evie#1153** on Discord | [Twitch](https://www.twitch.tv/evemalqir)
 
@@ -16,9 +18,13 @@ Contact: **Xiu Ye#0560** on Discord | [Youtube](https://www.youtube.com/channel/
 Available to field any questions in French!\
 Contact: **Cyane#6811** on Discord | [Youtube](https://www.youtube.com/channel/UCvUJhjEM4tP_mAu-VoOirsg/videos?view_as=subscriber) | [Twitch](https://www.twitch.tv/cyanexiv)
 ***
+
+
 ## <div style="text-align:center">Support the Creator</div>
 I wrote a book! If anyone feels particularly generous and wants to support me (Eve), you can find said book for sale on [Amazon](https://www.amazon.com/dp/1702412768).
 ***
+
+
 ## <div style="text-align:center">Resources</div>
 - [Gear Comparison Tool](http://bit.ly/DRG-Gear-Accurate)\
 Allows you to fill in your current [Level 80] gear and melds and figure out roughly which set will perform better.
@@ -30,12 +36,18 @@ A simple guide to setting up your controller to play this Job. Old setups are li
 An incredibly useful tool that you can use to see which member of your party is the proper tether target. You just inject your fflogs link to the fight in question and it’ll tell you who you tethered and show you who was the best target.
 ***
 
+
+
 ## <div style="text-align:center">Global Cooldown (GCD) Actions</div>
 The bread-and-butter of your rotation, so to speak, these are the buttons you press most frequently. They're broken down into several **combo** chains with various effects and uses.
+
+
 ### <div style="text-align:center">The Chaos Thrust Combo</div>
 <div style="text-align:center"><img src="https://cdn.discordapp.com/emojis/354787229111156746.png?v=1" alt="True Thrust"> <img src="https://cdn.discordapp.com/emojis/354787228485943297.png?v=1" alt="Disembowel"> <img src="https://cdn.discordapp.com/emojis/354787228259713024.png?v=" alt="Chaos Thrust"> <img src="https://cdn.discordapp.com/emojis/354787229027139587.png?v=1" alt="Wheeling Thrust"> <img src="https://cdn.discordapp.com/emojis/354787228683075584.png?v=1" alt="Fang and Claw"></div>
 
 This combo has our basic damage buff in **Disembowel** alongside our damage-over-time skill, **Chaos Thrust**. These two effects are essential to dishing out proper amounts of damage.
+
+
 
 ### <div style="text-align:center">The Full Thrust Combo</div>
 <div style="text-align:center"><img src="https://cdn.discordapp.com/emojis/354787229111156746.png?v=1" alt="True Thrust"> <img src="https://cdn.discordapp.com/emojis/354787229073145877.png?v=1" alt="Vorpal Thrust"> <img src="https://cdn.discordapp.com/emojis/354787228649652235.png?v=1" alt="Full Thrust"> <img src="https://cdn.discordapp.com/emojis/354787228683075584.png?v=1" alt="Fang and Claw"> <img src="https://cdn.discordapp.com/emojis/354787229027139587.png?v=1" alt="Wheeling Thrust"></div>
@@ -52,10 +64,14 @@ This action functions as a direct upgrade to **True Thrust** after you’ve succ
 
 Our new and freshly upgraded area-of-effect combo now packs **Coerthan Torment** as a third hit finisher! This is primarily used when dealing with a group of enemies numbering **3** or more.
 
+
+
 ### <div style="text-align:center">Basic Rotation</div>
 <div style="text-align:center"><img src="https://cdn.discordapp.com/emojis/600745843791888384.png?v=1" alt="Raiden Thrust"> <img src="https://cdn.discordapp.com/emojis/354787228485943297.png?v=1" alt="Disembowel"> <img src="https://cdn.discordapp.com/emojis/354787228259713024.png?v=" alt="Chaos Thrust"> <img src="https://cdn.discordapp.com/emojis/354787229027139587.png?v=1" alt="Wheeling Thrust"> <img src="https://cdn.discordapp.com/emojis/354787228683075584.png?v=1" alt="Fang and Claw"> <img src="https://cdn.discordapp.com/emojis/600745843791888384.png?v=1" alt="Raiden Thrust"> <img src="https://cdn.discordapp.com/emojis/354787229073145877.png?v=1" alt="Vorpal Thrust"> <img src="https://cdn.discordapp.com/emojis/354787228649652235.png?v=1" alt="Full Thrust"> <img src="https://cdn.discordapp.com/emojis/354787228683075584.png?v=1" alt="Fang and Claw"> <img src="https://cdn.discordapp.com/emojis/354787229027139587.png?v=1" alt="Wheeling Thrust"></div>
 
 Putting all of this together with the timers, we come out with one single string of actions. In general, under normal circumstances, we want to maintain this sequence of GCDs for as long as we are capable!
+
+
 
 ### <div style="text-align:center">The Other Guy</div>
 <div style="text-align:center"><img src="https://i.imgur.com/VzHAlvT.png" alt="Piercing Talon"></div>
@@ -63,8 +79,12 @@ Putting all of this together with the timers, we come out with one single string
 Currently not used. You are safe to unmap it from your bar. With us having two 5-hit combo chains and this button breaking either combo at any stage and the longer runoff for combo maintenance, there is almost no way that this skill will ever find use. If it does, this section will add those niche cases.
 
 ***
+
+
 ## <div style="text-align:center">Positionals</div>
 Several actions in the kit deal more damage from the **Side** of a boss, and several deal more from the **Rear**. You want to be sure to set up to hit these for extra damage whenever possible.
+
+
 
 ### How do I know if I'm at the **Side** or **Rear** of a target?
 <img src="https://i.imgur.com/1kWTX9G.png" alt="Positionals" style="float:left;">
@@ -80,15 +100,21 @@ At the bottom of the image, there’s a gap between the two **Sides** of the tar
 
 Some enemies will have the **Side** mark wrapping their entire hitbox, with no arrow to indicate a **Front**. These target rings are special, in that you will get positional bonuses from every action without needing to worry about where you attack from. All the enemies in the Palace of the Dead, for example, have this special targeting ring.
 
+
+
 ### Side Positionals
 
 <img src="https://cdn.discordapp.com/emojis/354787228683075584.png?v=1" alt="Fang and Claw" align = "center"> **Fang and Claw** deals 40 more potency from the **Side**.
+
+
 
 
 ### Rear Positionals
 
 
 <img src="https://cdn.discordapp.com/emojis/354787228259713024.png?v=" alt="Chaos Thrust" align = "center"> <img src="https://cdn.discordapp.com/emojis/354787229027139587.png?v=1" alt="Wheeling Thrust" align = "center"> **Chaos Thrust** and **Wheeling Thrust** deal 40 more potency from the **Rear**.
+
+
 
 ### Positional Parity
 The DPS disparity between landing every single positional and **missing** every single positional is approximately 4%. Meaning, if you would do 10,000 dps while hitting every positional, then you would only deal 9,600 if you missed every single one.
@@ -107,9 +133,14 @@ Never let your GCD stop spinning in order to make it to a position for your flan
 This is **okay.**\
 **It is not the end of the world if your group stacks on the face of the boss.
 The DPS loss is not worth causing wipes over.**
+
 ***
+
+
 ## <div style="text-align:center">Off-GCD Actions</div>
 These actions have individual recast timers, allowing you to so-called “weave” them in-between your GCDs.
+
+
 
 ### Dragon Spaghetti
 <div style="text-align:center"><img src="https://i.imgur.com/xnjzK8F.png" alt="Dragon Gauge"></div>
