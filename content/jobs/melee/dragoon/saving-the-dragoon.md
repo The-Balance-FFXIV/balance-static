@@ -64,7 +64,15 @@ Currently not used. You are safe to unmap it from your bar. With us having two 5
 Several actions in the kit deal more damage from the **Side** of a boss, and several deal more from the **Rear**. You want to be sure to set up to hit these for extra damage whenever possible.
 
 ### How do I know if I'm at the **Side** or **Rear** of a target?
-<div>
-<img src="https://i.imgur.com/1kWTX9G.png" alt="Positionals" align="top">
+<img src="https://i.imgur.com/1kWTX9G.png" alt="Positionals" style="float:left;">
+<br>
+
 The arrow at the top is the **Front** of the target. You get no special bonuses by attacking here, other than lots of bonus deaths for standing in tank busters and cleaves.
-</div>
+
+On the left and right, you will find the **Sides** of the target. They account for 90o of the target on either side, but you will generally want to stand near the base of the visible line.
+
+At the bottom of the image, there’s a gap between the two **Sides** of the target. This empty space is the **Rear**. When standing at the base of one **Side**, it becomes easy to decipher between the two positions - you either attack the empty space, or the line.
+
+<br>
+
+Some enemies will have the **Side** mark wrapping their entire hitbox, with no arrow to indicate a **Front**. These target rings are special, in that you will get positional bonuses from every action without needing to worry about where you attack from. All the enemies in the Palace of the Dead, for example, have this special targeting ring.
