@@ -3,7 +3,7 @@ title: 5.X BLM Guide
 ---
 # Table of contents
 
-1. [General Info](#generalinfo)
+1. [General Info](#general-info)
 2. Openers
 3. Single Target Rotation
 4. Recovery and Reopeners
