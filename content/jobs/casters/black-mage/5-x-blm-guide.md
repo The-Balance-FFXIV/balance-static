@@ -83,7 +83,7 @@ With all openers being very close in estimated output over the course of the ent
 
 <div align="center">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u6HBt-b7yrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube u6HBt-b7yrw >}}
 
 </div>
 
