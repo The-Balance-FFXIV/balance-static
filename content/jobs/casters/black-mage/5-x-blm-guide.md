@@ -30,11 +30,11 @@ My IGN is Caro Kann, and I’m a BLM main (now SCH (AND NOW AST) :pepega:) and t
 
 </div>
 
-<heading1>
+<span style="color:#674ea7">
 
 # General Info
 
-</heading1>
+</span>
 
 - - -
 
