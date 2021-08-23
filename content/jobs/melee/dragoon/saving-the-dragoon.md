@@ -110,7 +110,8 @@ Some enemies will have the **Side** mark wrapping their entire hitbox, with no a
 
 ### Side Positionals
 
-<img src="https://cdn.discordapp.com/emojis/354787228683075584.png?v=1" alt="Fang and Claw" align = "center"> **Fang and Claw** deals 40 more potency from the **Side**.
+<img src="https://i.imgur.com/YRld0Py.png" alt="Fang and Claw" height="50px" style="float:left;"> **Fang and Claw** deals 40 more potency from the **Side**.<br>
+<br>
 
 
 
@@ -118,7 +119,9 @@ Some enemies will have the **Side** mark wrapping their entire hitbox, with no a
 ### Rear Positionals
 
 
-<img src="https://cdn.discordapp.com/emojis/354787228259713024.png?v=" alt="Chaos Thrust" align = "center"> <img src="https://cdn.discordapp.com/emojis/354787229027139587.png?v=1" alt="Wheeling Thrust" align = "center"> **Chaos Thrust** and **Wheeling Thrust** deal 40 more potency from the **Rear**.
+<img src="https://i.imgur.com/kGe82sl.png" alt="Chaos Thrust" height="50px" style="float:left;"> <img src="https://i.imgur.com/Ua0rHxx.png" alt="Wheeling Thrust" height="50px" style="float:left;"> **Chaos Thrust** and **Wheeling Thrust** deal 40 more potency from the **Rear**.<br>
+<br>
+<br>
 
 
 
