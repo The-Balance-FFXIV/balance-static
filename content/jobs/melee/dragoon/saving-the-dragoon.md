@@ -1,6 +1,8 @@
 ---
-title: Saving The Dragoon
+title: Dragoon Guide
 ---
+# <div style="text-align:center">Saving The Dragoon</div>
+
 ## <div style="text-align:center">Overview</div>
 Dragoon is a very static **melee dps** Job. You have strict, long combos to execute and timers within those combos that need to be maintained. Unlike other Jobs - especially other melee - which rely upon a priority system for their basic GCD rotation, Dragoon instead has static buttons to press in a specific order with very little variance. **Shadowbringers** brings with it a new reliance on hitting proper positionals to trigger new skills.
 ***
