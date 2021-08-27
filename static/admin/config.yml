@@ -45,6 +45,19 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  # Gunbreaker
+  - name: 'gnb-guides'
+    label: 'gnb'
+    description: "Gunbreaker Guides"
+    folder: 'content/jobs/tanks/gunbreaker'
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'jobs/tanks/gunbreaker/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   ##
   # Job guides - melee section
   ##
