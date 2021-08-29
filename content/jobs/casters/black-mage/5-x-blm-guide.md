@@ -1029,11 +1029,7 @@ Big thank you to Caro Kann of Exodus of Primal of Earth, CaroKann#1234 on Discor
 
 Special thanks to Laqi Thish for making the original 4.X BLM guide and providing resources to improve on BLM play. Without him, I would not be the player I am today. Also, I shamelessly stole his doc as a baseline for this one. Further thanks to Fürst Blumier for helping with the mathematical calculations and being an all-around bro.
 
-Shoutout to every BLM on the Balance Discord.<style>
-  heading1{
-    color:#674ea7";
-  }
-</style>
+Shoutout to every BLM on the Balance Discord.
 
 Last updated: October 26, 2019
 
@@ -1489,9 +1485,9 @@ The biggest takeaway is that as long as your gear is max iLvl and fully melded, 
 
 ![](/img/no_xone_or_t3.png)
 
-A possible line if you enter UI with no Xeno **and** over ~12s on your DoT[^1]. Avoid hardcasting T3 in AF if choosing this line. May lead to a DPS loss if you do not have Xeno or T3P for the next UI.
+A possible line if you enter UI with no Xeno **and** over ~12s on your DoT. This is not a prescription to overwrite thunder under 12s in UI. This ~12s rule only applies to this particular line. If interested in this playstyle, see my [5.X Hypermeme Rotation Guide](https://drive.google.com/open?id=1SBU4HpqBenHAXFr6V-gwAKggkfBgJ2IR9FEbMtT3YRw). Avoid hardcasting T3 in AF if choosing this line. May lead to a DPS loss if you do not have Xeno or T3P for the next UI.
 
-[^1]: This is not a prescription to overwrite thunder under 12s in UI. This ~12s rule only applies to this particular line. If interested in this playstyle, see my [5.X Hypermeme Rotation Guide](https://drive.google.com/open?id=1SBU4HpqBenHAXFr6V-gwAKggkfBgJ2IR9FEbMtT3YRw).
+This is not a prescription to overwrite thunder under 12s in UI. This ~12s rule only applies to this particular line. If interested in this playstyle, see my [5.X Hypermeme Rotation Guide](https://drive.google.com/open?id=1SBU4HpqBenHAXFr6V-gwAKggkfBgJ2IR9FEbMtT3YRw).
 
 If you have a T3P that will fall off before the next UI, use the proc and leverage Triple or Swift to complete the rotation. If Triple and Swift are unavailable in this scenario, it would have been better to do the aforementioned No Xeno or T3 filler.
 
@@ -1511,27 +1507,38 @@ Under Ley Lines, you may opt to skip B4 and F1 in your rotation. This requires ~
 
 July 14, 2019
 * Doc is done but I must hide my powers :dab:.
+
 July 15
 * Changed rotation figures to reflect filler and proc icons. Laqi-senpai and Furst-san helping edit now uwu.
+
 July 17
 * Added Appendix.
 * Fix ToC, condense Weaving, Clipping, Appendix sections, move footnotes into main text, misc.
+
 July 22
 * Added bold to empty GCD text.
+
 August 8
 * Added Ley Lines Optimizations to Appendix.
+
 August 29
 * Edited Appendix.
+
 September 13
 * Change Weaving and Clipping link.
+
 September 28
 * Remove text implying overwriting T3 for ice filler is good.
+
 October 8
 * Added period to the end of Xenoglossy paragraph.
+
 October 26
 * Remove line in AOE section saying to Hot Flare with Swift.
+
 April 5, 2020
 * Added a macro section
+
 April 15, 2020
 * Added a leveling rotations section
 
