@@ -45,6 +45,32 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  # Paladin
+  - name: 'pld-guides'
+    label: 'pld'
+    description: "Paladin Guides"
+    folder: 'content/jobs/tanks/paladin'
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'jobs/tanks/paladin/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  # Dark Knight
+  - name: 'drk-guides'
+    label: 'drk'
+    description: "Dark Knight Guides"
+    folder: 'content/jobs/tanks/dark-knight'
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'jobs/tanks/dark-knight/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   # Gunbreaker
   - name: 'gnb-guides'
     label: 'gnb'
@@ -100,6 +126,32 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  # Monk
+  - name: 'mnk-guides'
+    label: 'mnk'
+    description: "Monk Guides"
+    folder: 'content/jobs/melee/monk'
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'jobs/melee/monk/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  # Ninja
+  - name: 'nin-guides'
+    label: 'nin'
+    description: "Ninja Guides"
+    folder: 'content/jobs/melee/ninja'
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'jobs/melee/ninja/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   ##
   # Job guides - ranged section
   ##
@@ -116,6 +168,32 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  # Dancer
+  - name: 'dnc-guides'
+    label: 'dnc'
+    description: "Dancer Guides"
+    folder: 'content/jobs/ranged/dancer'
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'jobs/ranged/dancer/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  # Bard
+  - name: 'brd-guides'
+    label: 'brd'
+    description: "Bard Guides"
+    folder: 'content/jobs/ranged/bard'
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'jobs/ranged/bard/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   ##
   # Job guides - caster section
   ##
@@ -127,6 +205,87 @@ collections:
     create: true
     slug: '{{slug}}'
     preview_path: 'jobs/casters/black-mage/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  # Red Mage
+  - name: 'rdm-guides'
+    label: 'rdm'
+    description: "Red Mage Guides"
+    folder: 'content/jobs/casters/red-mage'
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'jobs/casters/red-mage/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  # Summoner
+  - name: 'smn-guides'
+    label: 'smn'
+    description: "Summoner Guides"
+    folder: 'content/jobs/casters/summoner'
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'jobs/casters/summoner/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  ##
+  # Job guides - healer section
+  ##
+  # White Mage
+  - name: 'whm-guides'
+    label: 'whm'
+    description: "White Mage Guides"
+    folder: 'content/jobs/healers/white-mage'
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'jobs/healers/white-mage/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  # Scholar
+  - name: 'sch-guides'
+    label: 'sch'
+    description: "Scholar Guides"
+    folder: 'content/jobs/healers/scholar'
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'jobs/healers/scholar/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  # Astrologian
+  - name: 'ast-guides'
+    label: 'ast'
+    description: "Astrologian Guides"
+    folder: 'content/jobs/healers/astrologian'
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'jobs/healers/astrologian/{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  # Sage
+  - name: 'sge-guides'
+    label: 'sge'
+    description: "Sage Guides"
+    folder: 'content/jobs/healers/sage'
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'jobs/healers/sage/{{slug}}'
     editor:
       preview: true
     fields:
