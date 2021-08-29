@@ -1,12 +1,6 @@
 ---
 title: 5.X BLM Guide
 ---
-<style>
-  heading1{
-    color:#674ea7";
-  }
-</style>
-
 Last updated: October 26, 2019
 
 1. [General Info](#general-info)
@@ -30,11 +24,7 @@ My IGN is Caro Kann, and I’m a BLM main (now SCH (AND NOW AST) :pepega:) and t
 
 </div>
 
-<span style="color:#674ea7">
-
 # General Info
-
-</span>
 
 - - -
 
@@ -463,9 +453,9 @@ The biggest takeaway is that as long as your gear is max iLvl and fully melded, 
 
 A possible line if you enter UI with no Xeno **and** over ~12s on your DoT. This is not a prescription to overwrite thunder under 12s in UI. This ~12s rule only applies to this particular line. If interested in this playstyle, see my [5.X Hypermeme Rotation Guide](https://drive.google.com/open?id=1SBU4HpqBenHAXFr6V-gwAKggkfBgJ2IR9FEbMtT3YRw). Avoid hardcasting T3 in AF if choosing this line. May lead to a DPS loss if you do not have Xeno or T3P for the next UI.
 
-If you have a T3P that will fall off before the next UI, use the proc and leverage Triple or Swift to complete the rotation. If Triple and Swift are unavailable in this scenario, it would have been better to do the aforementioned No Xeno or T3 filler.
+If you have a T3P that will fall off before the next UI, use the proc and leverage Triple or Swift to complete the rotation. If Triple and Swift are unavailable in this scenario, it would have been better to do the aforementioned [No Xeno or T3 filler](#examples).
 
-This can be used after the [No B4 Opener](##no-b4-opener) to save Xeno for later movement or raid buffs.
+This can be used after the [No B4 Opener](#no-b4-opener) to save Xeno for later movement or raid buffs.
 
 ## Ley Lines Optimization
 
