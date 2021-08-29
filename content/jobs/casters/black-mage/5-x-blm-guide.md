@@ -1,12 +1,6 @@
 ---
 title: 5.X BLM Guide
 ---
-<style>
-  heading1{
-    color:#674ea7";
-  }
-</style>
-
 Last updated: October 26, 2019
 
 1. [General Info](#general-info)
@@ -30,11 +24,7 @@ My IGN is Caro Kann, and I’m a BLM main (now SCH (AND NOW AST) :pepega:) and t
 
 </div>
 
-<span style="color:#674ea7">
-
 # General Info
-
-</span>
 
 - - -
 
