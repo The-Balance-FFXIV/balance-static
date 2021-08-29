@@ -173,6 +173,8 @@ Do not precast Swift or Triple. This puts you behind a GCD, due to waiting for t
 
 # Single Target Rotation
 
+![](/img/st.png)
+
 # Recovery and Reopeners
 
 # AoE Rotation (3+ Targets)
