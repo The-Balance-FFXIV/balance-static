@@ -13,6 +13,9 @@ Gunbreaker (GNB) is the 4th tank added to Final Fantasy XIV in the Shadowbringer
   - [Defensive Off Global Cool Down Abilities](#defensive-off-global-cool-down-abilities)
   - [Utility Off Global Cool Down Abilities](#utility-off-global-cool-down-abilities)
 - [Combos](#combos)
+  - [**Keen Edge -> Brutal Shell -> Solid Barrel**](#keen-edge---brutal-shell---solid-barrel)
+  - [**Demon Slice -> Demon Slaughter**](#demon-slice---demon-slaughter)
+  - [**Gnashing Fang -> Jugular Rip -> Savage Claw -> Abdomen Tear -> Wicked Talon -> Eye Gouge**](#gnashing-fang---jugular-rip---savage-claw---abdomen-tear---wicked-talon---eye-gouge)
   - [What Does/Doesn’t Break Combos](#what-doesdoesnt-break-combos)
   - [AoE or Single Target](#aoe-or-single-target)
   - [No Mercy Windows](#no-mercy-windows)
@@ -268,6 +271,7 @@ If you are unfamiliar with combo based classes in FFXIV, the game has a handy sy
 ![KeenEdge](/static/img/jobs/tanks/gunbreaker/Keen_Edge.png)![BrutalShell](/static/img/jobs/tanks/gunbreaker/Brutal_Shell.png)![SolidBarrel](/static/img/jobs/tanks/gunbreaker/Solid_Barrel.png)
 
 **Keen Edge -> Brutal Shell -> Solid Barrel**
+---
 
 Solid Barrel combo is our single target combo. Builds 1 Cartridge.
 
@@ -275,15 +279,15 @@ Solid Barrel combo is our single target combo. Builds 1 Cartridge.
 ![DemonSlice](/static/img/jobs/tanks/gunbreaker/Demon_Slice.png)![DemonSlaughter](/static/img/jobs/tanks/gunbreaker/Demon_Slaughter.png)
 
 **Demon Slice -> Demon Slaughter**
+---
 
 Demon Slaughter combo is our 2+ target AoE combo. Builds 1 Cartridge.
-
-
 We will talk about when to use Solid Barrel combo vs Demon Slaughter combo in the next section. 
 
 ![GnashingFangCombo](/static/img/jobs/tanks/gunbreaker/Gnashing_Fang_Combo.png)
 
 **Gnashing Fang -> Jugular Rip -> Savage Claw -> Abdomen Tear -> Wicked Talon -> Eye Gouge**
+---
 
 Gnashing Fang combo is our Cartridge spender combo. It does high damage and is a very important part of our burst. Note: Jugular Rip, Abdomen Tear, and Eye Gouge must be used after Gnashing Fang, Savage Claw, and Wicked Talon respectively or the buff that lets them be used will be lost. 
 ## What Does/Doesn’t Break Combos
