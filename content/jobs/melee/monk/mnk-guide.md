@@ -11,13 +11,21 @@ Rough outline for my own sake to remember what I want to do;
 
 Brief introduction
 
-GCDs
+Positional overview
+
+Forms overview, leading into:
+
+Single target GCDs
 
 oGCDs
 
 Core Gameplay Loop
 
 Opener
+
+Introduce AoE skills, apply previous knowledge and reasoning
+
+Utility/Situational Skills and how to use them
 
 Links to useful plugins\
 Link to video guide
