@@ -45,42 +45,42 @@ The bread-and-butter of your rotation, so to speak, these are the buttons you pr
 
 
 ### <div style="text-align:center">The Chaos Thrust Combo</div>
-<div style="text-align:center"><img src="https://i.imgur.com/RD97Mkn.png" alt="True Thrust" height="50px"> <img src="https://i.imgur.com/IQ7HLEL.png" alt="Disembowel" height="50px"> <img src="https://i.imgur.com/kGe82sl.png" alt="Chaos Thrust" height="50px"> <img src="https://i.imgur.com/Ua0rHxx.png" alt="Wheeling Thrust" height="50px"> <img src="https://i.imgur.com/YRld0Py.png" alt="Fang and Claw" height="50px"></div>
+<div style="text-align:center"><img src="/img/tt.png" alt="True Thrust" height="50px"> <img src="/img/de.png" alt="Disembowel" height="50px"> <img src="/img/ct.png" alt="Chaos Thrust" height="50px"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px"> <img src="/img/fc.png" alt="Fang and Claw" height="50px"></div>
 
 This combo has our basic damage buff in **Disembowel** alongside our damage-over-time skill, **Chaos Thrust**. These two effects are essential to dishing out proper amounts of damage.
 
 
 
 ### <div style="text-align:center">The Full Thrust Combo</div>
-<div style="text-align:center"><img src="https://i.imgur.com/RD97Mkn.png" alt="True Thrust" height="50px"> <img src="https://i.imgur.com/39xyrSo.png" alt="Vorpal Thrust" height="50px"> <img src="https://i.imgur.com/ZKinwn9.png" alt="Full Thrust" height="50px"> <img src="https://i.imgur.com/YRld0Py.png" alt="Fang and Claw" height="50px"> <img src="https://i.imgur.com/Ua0rHxx.png" alt="Wheeling Thrust" height="50px"></div>
+<div style="text-align:center"><img src="/img/tt.png" alt="True Thrust" height="50px"> <img src="/img/vt.png" alt="Vorpal Thrust" height="50px"> <img src="/img/ft.png" alt="Full Thrust" height="50px"> <img src="/img/fc.png" alt="Fang and Claw" height="50px"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px"></div>
 
 This combo uses our strongest weaponskill, **Full Thrust**, and that’s about it. It’s essentially just a filler combo whenever the aforementioned effects are active.
 
 
 
 ### <div style="text-align:center">Raiden Thrust</div>
-<div style="text-align:center"><img src="https://i.imgur.com/2Td5j4g.png" alt="Raiden Thrust" height="50px"></div>
+<div style="text-align:center"><img src="/img/rt.png" alt="Raiden Thrust" height="50px"></div>
 
 This action functions as a direct upgrade to **True Thrust** after you’ve successfully completed one of the above combos. If you land your proper positional on the **final/fifth hit**, **True Thrust** upgrades to **Raiden Thrust**!
 
 
 
 ### <div style="text-align:center">The Coerthan Torment Combo</div>
-<div style="text-align:center"><img src="https://i.imgur.com/UU3eWZ4.png" alt="Doom Spike" height="50px"> <img src="https://i.imgur.com/q5Gfo5V.png" alt="Sonic Thrust" height="50px"> <img src="https://i.imgur.com/pldaVSj.png" alt="Coerthan Torment" height="50px"></div>
+<div style="text-align:center"><img src="/img/dos.png" alt="Doom Spike" height="50px"> <img src="/img/sot.png" alt="Sonic Thrust" height="50px"> <img src="/img/cot.png" alt="Coerthan Torment" height="50px"></div>
 
 Our new and freshly upgraded area-of-effect combo now packs **Coerthan Torment** as a third hit finisher! This is primarily used when dealing with a group of enemies numbering **3** or more.
 
 
 
 ### <div style="text-align:center">Basic Rotation</div>
-<div style="text-align:center"><img src="https://i.imgur.com/2Td5j4g.png" alt="Raiden Thrust" height="50px"> <img src="https://i.imgur.com/IQ7HLEL.png" alt="Disembowel" height="50px"> <img src="https://i.imgur.com/kGe82sl.png" alt="Chaos Thrust" height="50px"> <img src="https://i.imgur.com/Ua0rHxx.png" alt="Wheeling Thrust" height="50px"> <img src="https://i.imgur.com/YRld0Py.png" alt="Fang and Claw" height="50px"> <img src="https://i.imgur.com/2Td5j4g.png" alt="Raiden Thrust" height="50px"> <img src="https://i.imgur.com/39xyrSo.png" alt="Vorpal Thrust" height="50px"> <img src="https://i.imgur.com/ZKinwn9.png" alt="Full Thrust" height="50px"> <img src="https://i.imgur.com/YRld0Py.png" alt="Fang and Claw" height="50px"> <img src="https://i.imgur.com/Ua0rHxx.png" alt="Wheeling Thrust" height="50px"></div>
+<div style="text-align:center"><img src="/img/tt.png" alt="Raiden Thrust" height="50px"> <img src="/img/de.png" alt="Disembowel" height="50px"> <img src="/img/ct.png" alt="Chaos Thrust" height="50px"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px"> <img src="/img/fc.png" alt="Fang and Claw" height="50px"> <img src="/img/rt.png" alt="Raiden Thrust" height="50px"> <img src="/img/vt.png" alt="Vorpal Thrust" height="50px"> <img src="/img/ft.png" alt="Full Thrust" height="50px"> <img src="/img/fc.png" alt="Fang and Claw" height="50px"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px"></div>
 
 Putting all of this together with the timers, we come out with one single string of actions. In general, under normal circumstances, we want to maintain this sequence of GCDs for as long as we are capable!
 
 
 
 ### <div style="text-align:center">The Other Guy</div>
-<div style="text-align:center"><img src="https://i.imgur.com/VzHAlvT.png" alt="Piercing Talon" height="50px"></div>
+<div style="text-align:center"><img src="/img/pt.png" alt="Piercing Talon" height="50px"></div>
 
 Currently not used. You are safe to unmap it from your bar. With us having two 5-hit combo chains and this button breaking either combo at any stage and the longer runoff for combo maintenance, there is almost no way that this skill will ever find use. If it does, this section will add those niche cases.
 
@@ -93,9 +93,7 @@ Several actions in the kit deal more damage from the **Side** of a boss, and sev
 
 
 ### How do I know if I'm at the **Side** or **Rear** of a target?
-<img src="https://i.imgur.com/1kWTX9G.png" alt="Positionals" style="float:left;">
-<br>
-
+<img src="/img/pos.png" alt="Positionals" style="float:left;" height="220px">\
 The arrow at the top is the **Front** of the target. You get no special bonuses by attacking here, other than lots of bonus deaths for standing in tank busters and cleaves.
 
 On the left and right, you will find the **Sides** of the target. They account for 90o of the target on either side, but you will generally want to stand near the base of the visible line.
@@ -110,8 +108,7 @@ Some enemies will have the **Side** mark wrapping their entire hitbox, with no a
 
 ### Side Positionals
 
-<img src="https://i.imgur.com/YRld0Py.png" alt="Fang and Claw" height="50px" style="float:left;"> **Fang and Claw** deals 40 more potency from the **Side**.<br>
-<br>
+<img src="/img/fc.png" alt="Fang and Claw" height="50px" style="float:left;"> **Fang and Claw** deals 40 more potency from the **Side**.\
 
 
 
@@ -119,7 +116,7 @@ Some enemies will have the **Side** mark wrapping their entire hitbox, with no a
 ### Rear Positionals
 
 
-<img src="https://i.imgur.com/kGe82sl.png" alt="Chaos Thrust" height="50px" style="float:left;"> <img src="https://i.imgur.com/Ua0rHxx.png" alt="Wheeling Thrust" height="50px" style="float:left;"> **Chaos Thrust** and **Wheeling Thrust** deal 40 more potency from the **Rear**.<br>
+<img src="/img/ct.png" alt="Chaos Thrust" height="50px" style="float:left;"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px" style="float:left;"> **Chaos Thrust** and **Wheeling Thrust** deal 40 more potency from the **Rear**.\
 <br>
 <br>
 
@@ -152,9 +149,9 @@ These actions have individual recast timers, allowing you to so-called “weave�
 
 
 ### Dragon Spaghetti
-<div style="text-align:center"><img src="https://i.imgur.com/xnjzK8F.png" alt="Dragon Gauge"></div>
+<div style="text-align:center"><img src="/img/blood.png" alt="Dragon Gauge"></div>
 
-<img src="https://i.imgur.com/R4fIFZB.png" alt="Blood of the Dragon" height="50px" style="float:left;"> **Blood of the Dragon** is our primary mechanic.\
+<img src="/img/botd.png" alt="Blood of the Dragon" height="50px" style="float:left;"> **Blood of the Dragon** is our primary mechanic.\
 Under normal circumstances, it should never fall off.
 
 
@@ -164,21 +161,21 @@ Under normal circumstances, it should never fall off.
 
 
 
-<img src="https://i.imgur.com/NDJ4MMl.png" alt="Mirage Dive" height="50px" style="float:left;"> **Mirage Dive** helps us gain **Dragon Eyes** to build toward **Life of the Dragon**.\
+<img src="/img/md.png" alt="Mirage Dive" height="50px" style="float:left;"> **Mirage Dive** helps us gain **Dragon Eyes** to build toward **Life of the Dragon**.\
 **Eyes** only open when **Blood of the Dragon** or **Life of the Dragon** is active.
 
-<img src="https://i.imgur.com/BpzXsQ6.png" alt="Geirskogul" height="50px" style="float:left;"> **Geirskogul** can only be used under **Blood of the Dragon**, and when you press it with\
+<img src="/img/gsk.png" alt="Geirskogul" height="50px" style="float:left;"> **Geirskogul** can only be used under **Blood of the Dragon**, and when you press it with\
  **2 Dragon Eyes** open, we enter **Life of the Dragon**.
 
 
 
-<div style="text-align:center"><img src="https://i.imgur.com/3E0WdH9.png" alt="Life of the Dragon"></div>
+<div style="text-align:center"><img src="/img/life.png" alt="Life of the Dragon"></div>
 
-<img src="https://i.imgur.com/qRb6NSR.png" alt="Nastrond" height="50px" style="float:left;"> Under **Life of the Dragon**, **Geirskogul** becomes **Nastrond**.\
+<img src="/img/nas.png" alt="Nastrond" height="50px" style="float:left;"> Under **Life of the Dragon**, **Geirskogul** becomes **Nastrond**.\
 Ideally, you want to press **3 Nastrond** before your **Life** timer runs out.\
 When the **Life** timer hits 0, you return to **Blood** with 30 seconds remaining.
 
-<img src="https://i.imgur.com/FOsFhJn.png" alt="Stardiver" height="50px" style="float:left;"> Additionally, we can utilize **Stardiver** while under the effects of **Life of the Dragon**.\
+<img src="/img/std.png" alt="Stardiver" height="50px" style="float:left;"> Additionally, we can utilize **Stardiver** while under the effects of **Life of the Dragon**.\
 We will always use exactly **1 Stardiver** in each sequence.
 <br>
 <br>
@@ -188,35 +185,36 @@ We will always use exactly **1 Stardiver** in each sequence.
 
 
 
-<img src="https://i.imgur.com/pHpuylK.png" alt="Jump" style="float:left;" height="50px"> <img src="https://i.imgur.com/SfrvUGU.png" alt="High Jump" style="float:left;" height="50px"> Jump and its big brother High Jump are our most important actions. Using it gives us the Dive Ready buff, which grants access to Mirage Dive. Without these friends, Life would be a distant dream.<br>
+<img src="/img/jump.png" alt="Jump" style="float:left;" height="50px"> <img src="/img/hj.png" alt="High Jump" style="float:left;" height="50px"> Jump and its big brother High Jump are our most important actions. Using it gives us the Dive Ready buff, which grants access to Mirage Dive. Without these friends, Life would be a distant dream.<br>
 
 
 
 
-<img src="https://i.imgur.com/vDsaOnA.png" alt="Spineshatter Dive" style="float:left;" height="50px">Spineshatter Dive crosses gaps and saves lives. Don’t hold it for doing those things, though, because it does do a decent chunk of damage on its own!<br>
+
+<img src="/img/ssd.png" alt="Spineshatter Dive" style="float:left;" height="50px">Spineshatter Dive crosses gaps and saves lives. Don’t hold it for doing those things, though, because it does do a decent chunk of damage on its own! 
 
 
 
 
-<img src="https://i.imgur.com/AjSRXOj.png" alt="Dragonfire Dive" style="float:left;" height="50px">Dragonfire Dive also closes gaps and explodes damage on everybody.
-It should be used whenever available, except in the rare case where you will want to hit multiple targets before it’s back again.<br>
+<img src="/img/dfd.png" alt="Dragonfire Dive" style="float:left;" height="50px">Dragonfire Dive also closes gaps and explodes damage on everybody.
+It should be used whenever available, except in the rare case where you will want to hit multiple targets before it’s back again.
 
 
 
 
-<img src="https://i.imgur.com/7NcRp84.png" alt="Stardiver" style="float:left;" height="50px">The new kid on the block, Stardiver (STD for short) has a 30 second window in which to use it, each time it’s available. Your job is to decide when in that time is the best time to orbital strike some coward(s).<br>
+<img src="/img/std.png" alt="Stardiver" style="float:left;" height="50px">The new kid on the block, Stardiver (STD for short) has a 30 second window in which to use it, each time it’s available. Your job is to decide when in that time is the best time to orbital strike some coward(s).
 
 
-**Note that High Jump, Spineshatter Dive, Dragonfire Dive, and Stardiver all have long animation lock, meaning you should never pair them with any other actions in one spin of the GCD.**<br>
-
-
-
-Stardiver in particular has a **significant** animation lock. When using it, be sure to press it as soon as possible after your GCD. Even with good ping **and** early pressing, you might encounter clipping if your GCD is anywhere below 2.35. Please hear our prayers, Yoshi-P.<br>
+**Note that High Jump, Spineshatter Dive, Dragonfire Dive, and Stardiver all have long animation lock, meaning you should never pair them with any other actions in one spin of the GCD.**
 
 
 
+Stardiver in particular has a **significant** animation lock. When using it, be sure to press it as soon as possible after your GCD. Even with good ping **and** early pressing, you might encounter clipping if your GCD is anywhere below 2.35. Please hear our prayers, Yoshi-P.
 
-<img src="https://i.imgur.com/RghLO9V.png" alt="Elusive Jump" style="float:left;" height="50px">Elusive Jump does no damage, so it has just one purpose: traveling long distances quickly, either to escape or to get back to the boss.<br>
+
+
+
+<img src="/img/ej.png" alt="Elusive Jump" style="float:left;" height="50px">Elusive Jump does no damage, so it has just one purpose: traveling long distances quickly, either to escape or to get back to the boss.
 
 
 <br>
@@ -224,21 +222,21 @@ Stardiver in particular has a **significant** animation lock. When using it, be 
 
 ### Do-more Damage Buttons
 
-<img src="https://i.imgur.com/NASHTyE.png" alt="Lance Charge" style="float:left;" height="50px">Lance Charge is the strongest buff in your arsenal.<br>
-You should always press this button as soon as it’s available.<br>
+<img src="/img/lc.png" alt="Lance Charge" style="float:left;" height="50px">Lance Charge is the strongest buff in your arsenal.\
+You should always press this button as soon as it’s available.
 
 
-<img src="https://i.imgur.com/UthmaJM.png" alt="Dragon Sight" style="float:left;" height="50px">Dragon Sight should always buff High Jump, Spineshatter Dive, Dragonfire Dive, and the associated Mirage Dive. This skill requires a target in order for its full effect to activate. In a later section, we have included some helpful tips for using this. You can activate the skill without a target, but you lose the second effect entirely.<br>
+<img src="/img/ds.png" alt="Dragon Sight" style="float:left;" height="50px">Dragon Sight should always buff High Jump, Spineshatter Dive, Dragonfire Dive, and the associated Mirage Dive. This skill requires a target in order for its full effect to activate. In a later section, we have included some helpful tips for using this. You can activate the skill without a target, but you lose the second effect entirely.
 
 
-<img src="https://i.imgur.com/Dtt2XN8.png" alt="Battle Litany" style="float:left;" height="50px">Battle Litany is pretty much just used when it’s ready. There are times where holding it becomes beneficial.<br>
+<img src="/img/bl.png" alt="Battle Litany" style="float:left;" height="50px">Battle Litany is pretty much just used when it’s ready. There are times where holding it becomes beneficial.\
 <br>
 
 
-<img src="https://i.imgur.com/oQVHYw2.png" alt="Life Surge" style="float:left;" height="50px">Life Surge doesn’t affect the damage-over-time effect of our strongest Weaponskill, Chaos Thrust, so it should always be paired with Full Thrust, where it does affect the whole damage amount.<br>
+<img src="/img/ls.png" alt="Life Surge" style="float:left;" height="50px">Life Surge doesn’t affect the damage-over-time effect of our strongest Weaponskill, Chaos Thrust, so it should always be paired with Full Thrust, where it does affect the whole damage amount.
 
 
-<img src="https://i.imgur.com/svs4TcA.png" alt="Potion" style="float:left;" height="50px">**Potions or Tinctures of Strength** are consumable items that boost your outgoing damage by increasing your base Strength score temporarily. In general, these items are optional. Groups may suggest or ask that you use “**Pots**” when running higher-end content.<br>
+<img src="/img/pot.png" alt="Potion" style="float:left;" height="50px">**Potions or Tinctures of Strength** are consumable items that boost your outgoing damage by increasing your base Strength score temporarily. In general, these items are optional. Groups may suggest or ask that you use “**Pots**” when running higher-end content.
 
 
 #### Basic Buff Rotation
@@ -247,7 +245,7 @@ Our buffs fall on timers that function pretty well together in the duration of a
 
 <div align="center">
 
-|Time|<img src="https://i.imgur.com/NASHTyE.png" height="20px">|<img src="https://i.imgur.com/UthmaJM.png" height="20px">|<img src="https://i.imgur.com/Dtt2XN8.png" height="20px">|
+|Time|<img src="/img/lc.png" height="20px">|<img src="/img/ds.png" height="20px">|<img src="/img/bl.png" height="20px">|
 |:---:|:---:|:---:|:---:|
 |0s|x|x|x|
 |90s|x|||
@@ -260,56 +258,57 @@ Our buffs fall on timers that function pretty well together in the duration of a
 
 #### Buff Duration and Optimal Placement
 
-If you have decent practice properly delaying your buffs within the gcd, you should, ideally, be able to get 9 gcd actions under each cast of Lance Charge, Dragon Sight, and Battle Litany, assuming your gcd is in our ideal Skill Speed window. Otherwise, you will get 8.<br>
+If you have decent practice properly delaying your buffs within the gcd, you should, ideally, be able to get 9 gcd actions under each cast of Lance Charge, Dragon Sight, and Battle Litany, assuming your gcd is in our ideal Skill Speed window. Otherwise, you will get 8.
 
-As our rotation is now 10 GCDs and our buffs last 8 or 9, we want to ideally miss only the weakest actions in our rotation with them - Disembowel or Raiden Thrust - while making sure first that we catch both finishers - Chaos Thrust and Full Thrust - and then that we catch both 4th and 5th hits - Wheeling Thrust and Fang and Claw. That said, below is a graph.<br>
+As our rotation is now 10 GCDs and our buffs last 8 or 9, we want to ideally miss only the weakest actions in our rotation with them - Disembowel or Raiden Thrust - while making sure first that we catch both finishers - Chaos Thrust and Full Thrust - and then that we catch both 4th and 5th hits - Wheeling Thrust and Fang and Claw. That said, below is a graph.
 
-The two rows beneath the GCDs show the total potency gain for using Lance Charge after the above GCD and catching the amount of GCDs listed in the left column. Color coded to show the trends. These values shift if you’re using Life Surge on your Full Thrust. The numbers beneath it would shift in favor of covering that Full Thrust quite significantly.<br>
+The two rows beneath the GCDs show the total potency gain for using Lance Charge after the above GCD and catching the amount of GCDs listed in the left column. Color coded to show the trends. These values shift if you’re using Life Surge on your Full Thrust. The numbers beneath it would shift in favor of covering that Full Thrust quite significantly.
 
-<div style="text-align:center"><img src="https://i.imgur.com/lOEvtEa.png" alt="Ideal Buffs" ></div>
-Using any buffs after the red spaces will cause you to suffer substantial losses.<br>
-The yellow spaces are reasonably good enough in comparison to red.<br>
-The green spaces guarantee maximum output of your buffs.<br>
+<div style="text-align:center"><img src="/img/buff_opti.png" alt="Ideal Buffs" ></div>
+
+Using any buffs after the red spaces will cause you to suffer substantial losses.\
+The yellow spaces are reasonably good enough in comparison to red.\
+The green spaces guarantee maximum output of your buffs.
 
 ***
 
 ## <div style="text-align:center"> Multiple Target Situations </div>
 
-We will be operating under the assumption that the fact that our multi-target combo does not extend Disembowel buff is an oversight. We’re the only melee that doesn’t get that benefit, so it’s likely a mistake. Someday, based Yoshida will notice us and fix it. Maybe.<br>
+We will be operating under the assumption that the fact that our multi-target combo does not extend Disembowel buff is an oversight. We’re the only melee that doesn’t get that benefit, so it’s likely a mistake. Someday, based Yoshida will notice us and fix it. Maybe.
 
 ### Two Targets
 
-When up against two targets, you’ll get more gains out of simply spreading your Chaos Thrust damage over time effect to both targets and keeping them both active. This is done by a simple modification to our basic rotation:<br>
-<div style="text-align:center"> <img src="https://i.imgur.com/2Td5j4g.png" alt="Raiden Thrust" height="50px"> <img src="https://i.imgur.com/IQ7HLEL.png" alt="Disembowel" height="50px"> <img src="https://i.imgur.com/kGe82sl.png" alt="Chaos Thrust" height="50px"> <img src="https://i.imgur.com/Ua0rHxx.png" alt="Wheeling Thrust" height="50px"> <img src="https://i.imgur.com/YRld0Py.png" alt="Fang and Claw" height="50px"> <img src="https://i.imgur.com/2Td5j4g.png" alt="Raiden Thrust" height="50px"> <img src="https://i.imgur.com/IQ7HLEL.png" alt="Disembowel" height="50px"> <img src="https://i.imgur.com/kGe82sl.png" alt="Chaos Thrust" height="50px"> <img src="https://i.imgur.com/Ua0rHxx.png" alt="Wheeling Thrust" height="50px"> <img src="https://i.imgur.com/YRld0Py.png" alt="Fang and Claw" height="50px"></div>
+When up against two targets, you’ll get more gains out of simply spreading your Chaos Thrust damage over time effect to both targets and keeping them both active. This is done by a simple modification to our basic rotation:
+<div style="text-align:center"> <img src="/img/rt.png" alt="Raiden Thrust" height="50px"> <img src="/img/de.png" alt="Disembowel" height="50px"> <img src="/img/ct.png" alt="Chaos Thrust" height="50px"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px"> <img src="/img/fc.png" alt="Fang and Claw" height="50px"> <img src="/img/rt.png" alt="Raiden Thrust" height="50px"> <img src="/img/de.png" alt="Disembowel" height="50px"> <img src="/img/ct.png" alt="Chaos Thrust" height="50px"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px"> <img src="/img/fc.png" alt="Fang and Claw" height="50px"></div>
 
-When alternating back and forth for an extended period of time, be sure to use your Life Surge on the Fang and Claw hits, here. It becomes your strongest option in these situations, and it’s far better than just never pressing the button.<br>
+When alternating back and forth for an extended period of time, be sure to use your Life Surge on the Fang and Claw hits, here. It becomes your strongest option in these situations, and it’s far better than just never pressing the button.
 
 ### Three or More Targets
 
-<div style="text-align:center"> <img src="https://i.imgur.com/UU3eWZ4.png" alt="Doom Spike" height="50px"> <img src="https://i.imgur.com/q5Gfo5V.png" alt="Sonic Thrust" height="50px"> <img src="https://i.imgur.com/pldaVSj.png" alt="Coerthan Torment" height="50px"></div>
+<div style="text-align:center"> <img src="/img/dos.png" alt="Doom Spike" height="50px"> <img src="/img/sot.png" alt="Sonic Thrust" height="50px"> <img src="/img/cot.png" alt="Coerthan Torment" height="50px"></div>
 
 When dealing with any more than two targets, we want to roll into our Coerthan Torment Combo. You want to keep pressing High Jump, Mirage Dive, and all of the other buttons, especially Dragonfire Dive and Geirskogul, as they also hit multiple targets. Once you get your 2 Dragon Eyes, you can roll into Life and drop Nastrond and Stardiver to unleash destruction on a level where only **Black Mage** can compete. Be sure not to forget to weave Life Surge before the Coerthan Torment hit! The automatic critical hit affects all targets hit.
 
 ### Should I use Disembowel?
 
-The answer to this question is kinda **complicated**. When you decide to use Disembowel during trash pulls, you sacrifice the potency of the above combo for two GCDs to apply a 10% damage buff to the subsequent four combos. The question of whether or not this is a gain is a very valid one.<br>
+The answer to this question is kinda **complicated**. When you decide to use Disembowel during trash pulls, you sacrifice the potency of the above combo for two GCDs to apply a 10% damage buff to the subsequent four combos. The question of whether or not this is a gain is a very valid one.
 
 
 
-The short answer is **yes**, you should be using Disembowel during trash.<br>
+The short answer is **yes**, you should be using Disembowel during trash.
 
 
 
-The long answer is that using it causes you to lose potency overall if you’re hitting 4 or more enemies with the above combo, but that potency is **very easily made up** by any of our various off-gcd area-of-effect actions - Geirskogul, Nastrond, Stardiver, and Dragonfire Dive.<br>
+The long answer is that using it causes you to lose potency overall if you’re hitting 4 or more enemies with the above combo, but that potency is **very easily made up** by any of our various off-gcd area-of-effect actions - Geirskogul, Nastrond, Stardiver, and Dragonfire Dive.
 
 
 
-Applying Disembowel is 290+320 = 610 potency<br>
-Coerthan Torment combo is 200 potency per gcd per mob - 400 over 2 gcds<br>
+Applying Disembowel is 290+320 = 610 potency\
+Coerthan Torment combo is 200 potency per gcd per mob - 400 over 2 gcds
 
 <div align="center">
 
-|Enemies|CoT ppgcd|Pot loss for<br> applying DE|Pot gain from<br> applied DE|Total loss<br> from DE|Potency needed<br> to break even|Potency needed<br> per enemy|Stardiver pot<br> per enemy|
+|Enemies|CoT ppgcd|Pot loss for applying DE|Pot gain from<br> applied DE|Total loss<br> from DE|Potency needed<br> to break even|Potency needed<br> per enemy|Stardiver pot<br> per enemy|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |3 |600 |590 |720 |-130|-1300|-433.33|480.00|
 |4 |800 |990 |960 |30  |300  |75.00  |465.00|
@@ -327,16 +326,16 @@ Coerthan Torment combo is 200 potency per gcd per mob - 400 over 2 gcds<br>
 </div>
 
 
-Essentially: if, sometime during the duration of Disembowel, you will press off-gcds that sum together to equal the potency needed to break even (AoE skills only need to hit the potency per enemy column) then you should apply it.<br>
+Essentially: if, sometime during the duration of Disembowel, you will press off-gcds that sum together to equal the potency needed to break even (AoE skills only need to hit the potency per enemy column) then you should apply it.
 
 
 
 At 3, it is **always a gain**. At 4, you just need 75 potency! Geirskogul alone is 270. Of note is even at 15, you still need less than 1200 - the potency of 3 Nastronds.
-This table also assumes that monsters will last the full (or most of the full) Disembowel duration.<br>
+This table also assumes that monsters will last the full (or most of the full) Disembowel duration.
 
 
 
-The formula to directly generate the potency needed per enemy column, knowing the amount of enemies (n) is:<br>
+The formula to directly generate the potency needed per enemy column, knowing the amount of enemies (n) is:
 
 
 
@@ -346,24 +345,24 @@ The formula to directly generate the potency needed per enemy column, knowing th
 
 </div>
 
-Because of the nature of this formula, it has an absolute maximum value of **1600** - meaning that, no matter how many enemies you are facing, if you have over 1600 in per-target area-of-effect off gcd actions available to use in those 30 seconds, Disembowel is **always** worth using.<br>
+Because of the nature of this formula, it has an absolute maximum value of **1600** - meaning that, no matter how many enemies you are facing, if you have over 1600 in per-target area-of-effect off gcd actions available to use in those 30 seconds, Disembowel is **always** worth using.
 
 ***
 
 ## <div style="text-align:center"> The Opener </div>
 
-I know a lot of you have skipped ahead to this section, since you feel like you have a solid grasp on the fundamentals, and I think that’s great! The primary use of the Opener is to prepare your cooldown alignment for the rest of the encounter. With our new Job design, it’s possible that we’ll actually have fight-specific openers down the stretch, and they’ll all be added here!<br>
+I know a lot of you have skipped ahead to this section, since you feel like you have a solid grasp on the fundamentals, and I think that’s great! The primary use of the Opener is to prepare your cooldown alignment for the rest of the encounter. With our new Job design, it’s possible that we’ll actually have fight-specific openers down the stretch, and they’ll all be added here!
 
 
 
-These openers have not been too thoroughly tested as of yet, so please take them with a grain of salt, and if you discover anything that flies counter to what we have listed here, please don’t hesitate to ask!<br>
+These openers have not been too thoroughly tested as of yet, so please take them with a grain of salt, and if you discover anything that flies counter to what we have listed here, please don’t hesitate to ask!
 
 
 ### Standard Opener
 
-The backbone of 10 GCDs in sequence will - in general - never be changed, but the two blocks of skills (**Buffs** and **Attacks**) can be shuffled around within their respective slots if necessary to accommodate specific encounter timings.<br>
+The backbone of 10 GCDs in sequence will - in general - never be changed, but the two blocks of skills (**Buffs** and **Attacks**) can be shuffled around within their respective slots if necessary to accommodate specific encounter timings.
 
-<div style="text-align:center"> <img src="https://i.imgur.com/jkcFEUF.png" alt="Opener" height="250px"> </div>
+<div style="text-align:center"> <img src="/img/opener.png" alt="Opener" height="250px"> </div>
 
 The default order for the **Attacks** puts Spineshatter Dive as a buffer skill between High Jump and Geirskogul in order to try and prevent future situations where the two are ready at the exact same time.
 
@@ -373,15 +372,23 @@ The default order for the **Attacks** puts Spineshatter Dive as a buffer skill b
 
 ### GCD Rotation
 
-Disengaging from the target can cause your rotation to get forcibly shifted around. When re-engaging (be it after forced disengages or because you felt like taking a lap around the arena), you always only have two options for what you will lead with. Nothing particularly changes, either way, since your ten-GCD sequence will never actually shift.<br>
+Disengaging from the target can cause your rotation to get forcibly shifted around. When re-engaging (be it after forced disengages or because you felt like taking a lap around the arena), you always only have two options for what you will lead with. Nothing particularly changes, either way, since your ten-GCD sequence will never actually shift.
 
-1. Disembowel has less than 10 seconds remaining<br>
-<img src="https://i.imgur.com/2Td5j4g.png" alt="Raiden Thrust" height="30px"> <img src="https://i.imgur.com/IQ7HLEL.png" alt="Disembowel" height="30px"> <img src="https://i.imgur.com/kGe82sl.png" alt="Chaos Thrust" height="30px"> <img src="https://i.imgur.com/Ua0rHxx.png" alt="Wheeling Thrust" height="30px"> <img src="https://i.imgur.com/YRld0Py.png" alt="Fang and Claw" height="30px">
+1. Disembowel has less than 10 seconds remaining
+<img src="/img/rt.png" alt="Raiden Thrust" height="30px"> 
+<img src="/img/de.png" alt="Disembowel" height="30px"> 
+<img src="/img/ct.png" alt="Chaos Thrust" height="30px"> 
+<img src="/img/wt.png" alt="Wheeling Thrust" height="30px"> 
+<img src="/img/fc.png" alt="Fang and Claw" height="30px">
 
-2. Disembowel has more than 10 seconds remaining<br>
-<img src="https://i.imgur.com/2Td5j4g.png" alt="Raiden Thrust" height="30px"> <img src="https://i.imgur.com/39xyrSo.png" alt="Vorpal Thrust" height="30px"> <img src="https://i.imgur.com/ZKinwn9.png" alt="Full Thrust" height="30px"> <img src="https://i.imgur.com/YRld0Py.png" alt="Fang and Claw" height="30px"> <img src="https://i.imgur.com/Ua0rHxx.png" alt="Wheeling Thrust" height="30px"> 
+2. Disembowel has more than 10 seconds remaining
+<img src="/img/rt.png" alt="Raiden Thrust" height="30px"> 
+<img src="/img/vt.png" alt="Vorpal Thrust" height="30px"> 
+<img src="/img/ft.png" alt="Full Thrust" height="30px"> 
+<img src="/img/fc.png" alt="Fang and Claw" height="30px"> 
+<img src="/img/wt.png" alt="Wheeling Thrust" height="30px"> 
 
-That’s, honestly, all there is to discuss, here. This is more of a judgment call, honestly - anything up to around 12 seconds remaining could be clipped, but 10 is the basic cutoff for getting all 5 hits of your Full Thrust Combo with Disembowel’s buff before it falls off. You would lose the buff on Raiden Thrust and Disembowel after the fact, but that can be overcome.<br>
+That’s, honestly, all there is to discuss, here. This is more of a judgment call, honestly - anything up to around 12 seconds remaining could be clipped, but 10 is the basic cutoff for getting all 5 hits of your Full Thrust Combo with Disembowel’s buff before it falls off. You would lose the buff on Raiden Thrust and Disembowel after the fact, but that can be overcome.
 
 
 
@@ -389,20 +396,20 @@ The only exception to this rule is if you are going to hit an off-GCD action in 
 
 ### Action specifics
 
-#### <img src="https://i.imgur.com/BpzXsQ6.png" alt="Geirskogul" height="20px">Geirskogul<img src="https://i.imgur.com/BpzXsQ6.png" alt="Geirskogul" height="20px"> and <img src="https://i.imgur.com/qRb6NSR.png" alt="Nastrond" height="20px">Nastrond<img src="https://i.imgur.com/qRb6NSR.png" alt="Nastrond" height="20px">
+#### <img src="/img/gsk.png" alt="Geirskogul" height="20px">Geirskogul<img src="/img/gsk.png" alt="Geirskogul" height="20px"> and <img src="/img/nas.png" alt="Nastrond" height="20px">Nastrond<img src="/img/nas.png" alt="Nastrond" height="20px">
 
-The general cycle for Life of the Dragon is very straightforward:<br>
+The general cycle for Life of the Dragon is very straightforward:
 
 <div align="center">
 
-|<img src="https://i.imgur.com/SfrvUGU.png" alt="High Jump" height="30px">|<img src="https://i.imgur.com/BpzXsQ6.png" alt="Geirskogul" height="30px">|<img src="https://i.imgur.com/NDJ4MMl.png" alt="Mirage Dive" height="30px">|>30s>|<img src="https://i.imgur.com/SfrvUGU.png" alt="High Jump" height="30px">|<img src="https://i.imgur.com/NDJ4MMl.png" alt="Mirage Dive" height="30px">|<img src="https://i.imgur.com/BpzXsQ6.png" alt="Geirskogul" height="30px">|<img src="https://i.imgur.com/qRb6NSR.png" alt="Nastrond" height="30px">|<img src="https://i.imgur.com/7NcRp84.png" alt="Stardiver" height="30px">|>10s>|<img src="https://i.imgur.com/qRb6NSR.png" alt="Nastrond" height="30px">|>10s>|<img src="https://i.imgur.com/qRb6NSR.png" alt="Nastrond" height="30px">|repeat|
+|<img src="/img/hj.png" alt="High Jump" height="30px">|<img src="/img/gsk.png" alt="Geirskogul" height="30px">|<img src="/img/md.png" alt="Mirage Dive" height="30px">|>30s>|<img src="/img/hj.png" alt="High Jump" height="30px">|<img src="/img/md.png" alt="Mirage Dive" height="30px">|<img src="/img/gsk.png" alt="Geirskogul" height="30px">|<img src="/img/nas.png" alt="Nastrond" height="30px">|<img src="/img/std.png" alt="Stardiver" height="30px">|>10s>|<img src="/img/nas.png" alt="Nastrond" height="30px">|>10s>|<img src="/img/nas.png" alt="Nastrond" height="30px">|repeat|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |     |     |1    |     |     |2    |Life |     |     |     |     |     |     |     |
 
 
 </div>
 
-Not so obviously, following this rotation is **not** always optimal. If you do follow this throughout the encounter, your output will, in general, be just fine. It’s just that there are some cases where you will want to **delay** your Life cycle by a single Geirskogul cast.<br>
+Not so obviously, following this rotation is **not** always optimal. If you do follow this throughout the encounter, your output will, in general, be just fine. It’s just that there are some cases where you will want to **delay** your Life cycle by a single Geirskogul cast.
 
 
 
@@ -412,50 +419,50 @@ The basic idea is to choose between pressing Mirage Dive before or after Geirsko
 
 |Assuming you already have 1 Eye and High Jump is coming up soon:|
 |---:|:---:|
-|If Lance Charge has less than 18 seconds until it's ready, **enter**|<img src="https://i.imgur.com/SfrvUGU.png" alt="High Jump" height="20px"> <img src="https://i.imgur.com/NDJ4MMl.png" alt="Mirage Dive" height="20px"> <img src="https://i.imgur.com/BpzXsQ6.png" alt="Geirskogul" height="20px">|
-|If, instead, Lance Charge has more than 23 seconds until it's ready, **delay**|<img src="https://i.imgur.com/SfrvUGU.png" alt="High Jump" height="20px"> <img src="https://i.imgur.com/BpzXsQ6.png" alt="Geirskogul" height="20px"> <img src="https://i.imgur.com/NDJ4MMl.png" alt="Mirage Dive" height="20px">|
-|If,instead, Dragon Sight has less than 18 seconds until it's ready, **enter**|<img src="https://i.imgur.com/SfrvUGU.png" alt="High Jump" height="20px"> <img src="https://i.imgur.com/NDJ4MMl.png" alt="Mirage Dive" height="20px"> <img src="https://i.imgur.com/BpzXsQ6.png" alt="Geirskogul" height="20px">|
-|If, instead, Dragon Sight has more than 23 seconds until it's ready, **delay**|<img src="https://i.imgur.com/SfrvUGU.png" alt="High Jump" height="20px"> <img src="https://i.imgur.com/BpzXsQ6.png" alt="Geirskogul" height="20px"> <img src="https://i.imgur.com/NDJ4MMl.png" alt="Mirage Dive" height="20px">
-|Otherwise, **enter**|<img src="https://i.imgur.com/SfrvUGU.png" alt="High Jump" height="20px"> <img src="https://i.imgur.com/NDJ4MMl.png" alt="Mirage Dive" height="20px"> <img src="https://i.imgur.com/BpzXsQ6.png" alt="Geirskogul" height="20px">|
+|If Lance Charge has less than 18 seconds until it's ready, **enter**|<img src="/img/hj.png" alt="High Jump" height="20px"> <img src="/img/md.png" alt="Mirage Dive" height="20px"> <img src="/img/gsk.png" alt="Geirskogul" height="20px">|
+|If, instead, Lance Charge has more than 23 seconds until it's ready, **delay**|<img src="/img/hj.png" alt="High Jump" height="20px"> <img src="/img/gsk.png" alt="Geirskogul" height="20px"> <img src="/img/md.png" alt="Mirage Dive" height="20px">|
+|If,instead, Dragon Sight has less than 18 seconds until it's ready, **enter**|<img src="/img/hj.png" alt="High Jump" height="20px"> <img src="/img/md.png" alt="Mirage Dive" height="20px"> <img src="/img/gsk.png" alt="Geirskogul" height="20px">|
+|If, instead, Dragon Sight has more than 23 seconds until it's ready, **delay**|<img src="/img/hj.png" alt="High Jump" height="20px"> <img src="/img/gsk.png" alt="Geirskogul" height="20px"> <img src="/img/md.png" alt="Mirage Dive" height="20px">
+|Otherwise, **enter**|<img src="/img/hj.png" alt="High Jump" height="20px"> <img src="/img/md.png" alt="Mirage Dive" height="20px"> <img src="/img/gsk.png" alt="Geirskogul" height="20px">|
 
 </div>
 
 #### Delayed First Life
 
-Activating your first Life of the Dragon window as early as possible (on your second Geirskogul) feels nice on paper, but, in practice, it is rarely optimal. Generally, we want to **delay** that first entry, to push it back toward our second cast of Lance Charge. Using the above as a guide, you’ll see that, at the time of second Geirskogul, we fall into the second category. The way this ends up shaking out in practice (ignoring the main Combo strings) is:<br>
+Activating your first Life of the Dragon window as early as possible (on your second Geirskogul) feels nice on paper, but, in practice, it is rarely optimal. Generally, we want to **delay** that first entry, to push it back toward our second cast of Lance Charge. Using the above as a guide, you’ll see that, at the time of second Geirskogul, we fall into the second category. The way this ends up shaking out in practice (ignoring the main Combo strings) is:
 
 
 <div align="center">
 
-<img src="https://i.imgur.com/SfrvUGU.png" alt="High Jump" height="20px"> 
-<img src="https://i.imgur.com/BpzXsQ6.png" alt="Geirskogul" height="20px"> 
-<img src="https://i.imgur.com/NDJ4MMl.png" alt="Mirage Dive" height="20px"> 
-<img src="https://i.imgur.com/SfrvUGU.png" alt="High Jump" height="20px"> 
-<img src="https://i.imgur.com/BpzXsQ6.png" alt="Geirskogul" height="20px"> 
-<img src="https://i.imgur.com/NDJ4MMl.png" alt="Mirage Dive" height="20px"> 
-<img src="https://i.imgur.com/SfrvUGU.png" alt="High Jump" height="20px"> 
-<img src="https://i.imgur.com/BpzXsQ6.png" alt="Geirskogul" height="20px"> 
-<img src="https://i.imgur.com/qRb6NSR.png" alt="Nastrond" height="20px"> 
-<img src="https://i.imgur.com/NDJ4MMl.png" alt="Mirage Dive" height="20px"> 
-<img src="https://i.imgur.com/qRb6NSR.png" alt="Nastrond" height="20px"> 
-<img src="https://i.imgur.com/NASHTyE.png" alt="Lance Charge" height="20px"> 
-<img src="https://i.imgur.com/SfrvUGU.png" alt="High Jump" height="20px"> 
-<img src="https://i.imgur.com/7NcRp84.png" alt="Stardiver" height="20px">
-<img src="https://i.imgur.com/qRb6NSR.png" alt="Nastrond" height="20px"> 
-<img src="https://i.imgur.com/NDJ4MMl.png" alt="Mirage Dive" height="20px"> 
-<img src="https://i.imgur.com/BpzXsQ6.png" alt="Geirskogul" height="20px"> 
-<img src="https://i.imgur.com/qRb6NSR.png" alt="Nastrond" height="20px"> 
-<img src="https://i.imgur.com/UthmaJM.png" alt="Dragon Sight" height="20px">
-<img src="https://i.imgur.com/qRb6NSR.png" alt="Nastrond" height="20px"> 
-<img src="https://i.imgur.com/SfrvUGU.png" alt="High Jump" height="20px"> 
-<img src="https://i.imgur.com/7NcRp84.png" alt="Stardiver" height="20px">
-<img src="https://i.imgur.com/qRb6NSR.png" alt="Nastrond" height="20px"> 
-<img src="https://i.imgur.com/BpzXsQ6.png" alt="Geirskogul" height="20px">
-<img src="https://i.imgur.com/NDJ4MMl.png" alt="Mirage Dive" height="20px"> 
+<img src="/img/hj.png" alt="High Jump" height="20px"> 
+<img src="/img/gsk.png" alt="Geirskogul" height="20px"> 
+<img src="/img/md.png" alt="Mirage Dive" height="20px"> 
+<img src="/img/hj.png" alt="High Jump" height="20px"> 
+<img src="/img/gsk.png" alt="Geirskogul" height="20px"> 
+<img src="/img/md.png" alt="Mirage Dive" height="20px"> 
+<img src="/img/hj.png" alt="High Jump" height="20px"> 
+<img src="/img/gsk.png" alt="Geirskogul" height="20px"> 
+<img src="/img/nas.png" alt="Nastrond" height="20px"> 
+<img src="/img/md.png" alt="Mirage Dive" height="20px"> 
+<img src="/img/nas.png" alt="Nastrond" height="20px"> 
+<img src="/img/lc.png" alt="Lance Charge" height="20px"> 
+<img src="/img/hj.png" alt="High Jump" height="20px"> 
+<img src="/img/std.png" alt="Stardiver" height="20px">
+<img src="/img/nas.png" alt="Nastrond" height="20px"> 
+<img src="/img/md.png" alt="Mirage Dive" height="20px"> 
+<img src="/img/gsk.png" alt="Geirskogul" height="20px"> 
+<img src="/img/nas.png" alt="Nastrond" height="20px"> 
+<img src="/img/ds.png" alt="Dragon Sight" height="20px">
+<img src="/img/nas.png" alt="Nastrond" height="20px"> 
+<img src="/img/hj.png" alt="High Jump" height="20px"> 
+<img src="/img/std.png" alt="Stardiver" height="20px">
+<img src="/img/nas.png" alt="Nastrond" height="20px"> 
+<img src="/img/gsk.png" alt="Geirskogul" height="20px">
+<img src="/img/md.png" alt="Mirage Dive" height="20px"> 
 
 </div>
 
-As you can see, we just keep shooting off Geirskogul before Mirage Dive until entering our first Life around 20s ahead of our second Lance Charge usage, so we get 1 Nastrond and Stardiver under it. Entering the next one asap (by using Mirage Dive before Geirskogul this time) allows us to get a second Nastrond under that Lance Charge and then 2 under the subsequent Dragon Sight (along with the Stardiver).<br>
+As you can see, we just keep shooting off Geirskogul before Mirage Dive until entering our first Life around 20s ahead of our second Lance Charge usage, so we get 1 Nastrond and Stardiver under it. Entering the next one asap (by using Mirage Dive before Geirskogul this time) allows us to get a second Nastrond under that Lance Charge and then 2 under the subsequent Dragon Sight (along with the Stardiver).
 
 
 
@@ -463,29 +470,29 @@ In **most** cases, this is the optimal way to handle the first two cycles. Below
 
 #### Nastrond and Buffs
 
-Because our buff actions fall into a rather static rotation (as seen above), we can extrapolate these concepts over the course of six minutes and get a general “Life of the Dragon Rotation” so to speak, which shows us when we hold it and when we don’t. This will **only** hold true if we have **six minutes** of continuous uptime - that is, we **can** land every one of the High Jump, Geirskogul, Mirage Dive, Nastrond, and Stardiver hits listed in this visual representation, while ideally dropping zero gcds in that same window. As such, it is very rarely ever going to be the optimal approach, and the above chart will serve you better in most situations.<br>
+Because our buff actions fall into a rather static rotation (as seen above), we can extrapolate these concepts over the course of six minutes and get a general “Life of the Dragon Rotation” so to speak, which shows us when we hold it and when we don’t. This will **only** hold true if we have **six minutes** of continuous uptime - that is, we **can** land every one of the High Jump, Geirskogul, Mirage Dive, Nastrond, and Stardiver hits listed in this visual representation, while ideally dropping zero gcds in that same window. As such, it is very rarely ever going to be the optimal approach, and the above chart will serve you better in most situations.
 
 <div align="center">
-<img src="https://i.imgur.com/M1bHjq2.png" alt="Life Rotation"><br>
+<img src="/img/life_rota.png" alt="Life Rotation"><br>
 After the final buff window, the rotation repeats from the 30s column, quite obviously.
 </div>
 
-As you can see, the only place we currently even employ this strategy is for our very first Life entry. After that, we just let the skills fall where they may and they naturally align neatly with buff windows. Keep in mind that this could change if a boss jumps out of the arena at an odd time, so you should still learn the general idea behind the priority system!<br>
+As you can see, the only place we currently even employ this strategy is for our very first Life entry. After that, we just let the skills fall where they may and they naturally align neatly with buff windows. Keep in mind that this could change if a boss jumps out of the arena at an odd time, so you should still learn the general idea behind the priority system!
 
-#### <img src="https://i.imgur.com/UthmaJM.png" alt="Dragon Sight" height="20px">Dragon Sight<img src="https://i.imgur.com/UthmaJM.png" alt="Dragon Sight" height="20px">
+#### <img src="/img/ds.png" alt="Dragon Sight" height="20px">Dragon Sight<img src="/img/ds.png" alt="Dragon Sight" height="20px">
 
-You need to be close to the target of your affections to properly give them a buff. If **the target** moves away from you, however, **you will retain your buff**. So it’s really only their loss. You can usually just worry about activating the skill and then stop worrying about whether or not it stays on your target. As of this expansion, you can now activate the skill **without a target**, though this is **NOT RECOMMENDED**, because you will only receive the 10% damage buff, and the 5% buff will be lost for that use, completely. No one gets it.<br>
-
-
-
-This skill is notoriously hard to use, already. Optimal handling:<br>
-**Mouseover (\<mo>) macro** if you play mouse and keyboard.<br>
-
-**Soft targeting (up/down on d-pad) without a macro** if you play with a controller.<br>
+You need to be close to the target of your affections to properly give them a buff. If **the target** moves away from you, however, **you will retain your buff**. So it’s really only their loss. You can usually just worry about activating the skill and then stop worrying about whether or not it stays on your target. As of this expansion, you can now activate the skill **without a target**, though this is **NOT RECOMMENDED**, because you will only receive the 10% damage buff, and the 5% buff will be lost for that use, completely. No one gets it.
 
 
 
-Different options are listed below, with varying degrees of usefulness/ease of use.<br>
+This skill is notoriously hard to use, already. Optimal handling:\
+**Mouseover (\<mo>) macro** if you play mouse and keyboard.
+
+**Soft targeting (up/down on d-pad) without a macro** if you play with a controller.
+
+
+
+Different options are listed below, with varying degrees of usefulness/ease of use.
 
 <div align="center">
 
@@ -499,7 +506,7 @@ Different options are listed below, with varying degrees of usefulness/ease of u
 </div>
 
 For controller, I recommend learning to soft-target and dropping all reliance on macros.
-For keyboard/mouse, I recommend 1-3 specific ally macros for reliable friends and a mouseover as a backup (or primary, your call).<br>
+For keyboard/mouse, I recommend 1-3 specific ally macros for reliable friends and a mouseover as a backup (or primary, your call).
 
 
 ***
@@ -508,9 +515,9 @@ For keyboard/mouse, I recommend 1-3 specific ally macros for reliable friends an
 
 As things appear to be right now, our stat priority has not changed!
 Critical Hit Rate > Direct Hit Rate > Determination > Skill Speed
-I recommend you use the gear comparison tool in the resources section to actually get a better idea of how melds affect your DPS!<br>
+I recommend you use the gear comparison tool in the resources section to actually get a better idea of how melds affect your DPS!
 
-Just meld (with 6’s; 8’s have a 40% removal chance and you will want to save those for bis!) and wear highest item level gear, for now!<br>
+Just meld (with 6’s; 8’s have a 40% removal chance and you will want to save those for bis!) and wear highest item level gear, for now!
 
 
 ### Best Sets Available
@@ -524,29 +531,29 @@ Just meld (with 6’s; 8’s have a 40% removal chance and you will want to save
 
 </div>
 
-The 2.46 set provides a comfortable GCD speed and will, in general, supply the highest damage throughput in content, on average, across the sets. Getting 9 GCDs under buffs at this speed can be rather difficult, but it is still doable.<br>
+The 2.46 set provides a comfortable GCD speed and will, in general, supply the highest damage throughput in content, on average, across the sets. Getting 9 GCDs under buffs at this speed can be rather difficult, but it is still doable.
 
 
 
-The 2.50 set provides you with a particularly slow GCD speed, which is favored quite substantially in fights with large quantities of time where you are pushed off the boss. You are also incapable of getting 9 GCDs (still unable to get fewer than 8, as well, assuming you don’t delay any GCD) under your buff actions at this speed, so if you’re feeling lazy about trying to push as hard as you can, it’s a very good alternative.<br>
+The 2.50 set provides you with a particularly slow GCD speed, which is favored quite substantially in fights with large quantities of time where you are pushed off the boss. You are also incapable of getting 9 GCDs (still unable to get fewer than 8, as well, assuming you don’t delay any GCD) under your buff actions at this speed, so if you’re feeling lazy about trying to push as hard as you can, it’s a very good alternative.
 
 
 
 #### DPS Comparison Between Sets
 
-Below is a graph comparing the total DPS of each of the three above sets over time. I’ve clipped out the opener to avoid having a super zoomed out graph to show the peaks (which are around 30,000, in case you were curious). Please note that the Y-Axis only shows values from 18,250 to 20,500 which results in seeing huge gaps between the mins and maxes which make the variation appear to be much larger than it actually is.<br>
+Below is a graph comparing the total DPS of each of the three above sets over time. I’ve clipped out the opener to avoid having a super zoomed out graph to show the peaks (which are around 30,000, in case you were curious). Please note that the Y-Axis only shows values from 18,250 to 20,500 which results in seeing huge gaps between the mins and maxes which make the variation appear to be much larger than it actually is.
 
 
-<div style="text-align:center"><img src="https://i.imgur.com/ATvrRi2.png" alt="DPS Graph" height="400px"></div>
+<div style="text-align:center"><img src="/img/graph.png" alt="DPS Graph" height="400px"></div>
 
 ### How Fast Can We Go?
 
-Our sweet spot for GCD appears to be somewhere between 2.25 and 2.47.<br>
+Our sweet spot for GCD appears to be somewhere between 2.25 and 2.47.
 
 
 
-Life Surge’s 45s cooldown means that once we go faster than 2.25, we’ll start to severely delay it if we want to keep it on Full Thrust.<br>
+Life Surge’s 45s cooldown means that once we go faster than 2.25, we’ll start to severely delay it if we want to keep it on Full Thrust.
 
 
 
-Chaos Thrust having a 24s duration means that if we go slower than 2.47, we will see noticeable dot dropping, between recasts. This, in general, will not be a significant issue, but it is worth noting. We really do not care about this one, for what it’s worth.<br>
+Chaos Thrust having a 24s duration means that if we go slower than 2.47, we will see noticeable dot dropping, between recasts. This, in general, will not be a significant issue, but it is worth noting. We really do not care about this one, for what it’s worth.
