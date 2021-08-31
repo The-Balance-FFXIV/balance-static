@@ -2,11 +2,6 @@
 title: Gunbreaker guide
 ---
 
-# Introduction to Gunbreaker
-Torael Valdis | Jenova (NA) | Torael_Valdis#8120
----
-Gunbreaker (GNB) is the 4th tank added to Final Fantasy XIV in the Shadowbringers expansion. It features high damage output and high casts-per-minute. GNB also features a strong defensive kit that, when used properly, can bring a lot of mitigation to the table. Let’s get started with a brief overview of the skills and abilities available to GNB.
-
 - [Introduction to Gunbreaker](#introduction-to-gunbreaker)
   - [Torael Valdis | Jenova (NA) | Torael_Valdis#8120](#torael-valdis--jenova-na--torael_valdis8120)
 - [Skills and Abilities](#skills-and-abilities)
@@ -32,6 +27,10 @@ Gunbreaker (GNB) is the 4th tank added to Final Fantasy XIV in the Shadowbringer
   - [Maximizing Skill Uses](#maximizing-skill-uses)
   - [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
   - [Special Thanks](#special-thanks)
+# Introduction to Gunbreaker
+Torael Valdis | Jenova (NA) | Torael_Valdis#8120
+---
+Gunbreaker (GNB) is the 4th tank added to Final Fantasy XIV in the Shadowbringers expansion. It features high damage output and high casts-per-minute. GNB also features a strong defensive kit that, when used properly, can bring a lot of mitigation to the table. Let’s get started with a brief overview of the skills and abilities available to GNB.
 
 # Skills and Abilities
 
