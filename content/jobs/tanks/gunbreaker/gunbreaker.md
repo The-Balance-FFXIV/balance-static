@@ -193,6 +193,7 @@ If you are unfamiliar with combo based classes in FFXIV, the game has a handy sy
 
 
 ![KeenEdge](/static/img/jobs/tanks/gunbreaker/Keen_Edge.png)![BrutalShell](/static/img/jobs/tanks/gunbreaker/Brutal_Shell.png)![SolidBarrel](/static/img/jobs/tanks/gunbreaker/Solid_Barrel.png)
+
 **Keen Edge -> Brutal Shell -> Solid Barrel**
 
 Solid Barrel combo is our single target combo. Builds 1 Cartridge.
