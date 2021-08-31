@@ -23,9 +23,9 @@ Opener
 
 Core Gameplay Loop, including RoFs
 
-Introduce AoE skills, apply previous knowledge and reasoning
-
 Utility/Situational Skills and how to use them
+
+Introduce AoE skills, apply previous knowledge and reasoning
 
 Links to useful plugins\
 Link to video guide
