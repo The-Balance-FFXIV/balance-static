@@ -77,7 +77,7 @@ The final skill of our basic combo. 400 potency when used after Brutal Shell. Ge
 650 potency attack that can only be used following Savage Claw. Triggers Ready To Gouge.
 
 
-![alt text][SonicBreak]
+![SonicBreak](/static/img/jobs/tanks/gunbreaker/Sonic_Break.png)
 **Sonic Break**
 
 300 potency attack that applies a 90 potency Damage over Time (DoT) for 30 seconds (900 potency total from the DoT). 60 second base cooldown that is reduced by skill speed (discussed later).
