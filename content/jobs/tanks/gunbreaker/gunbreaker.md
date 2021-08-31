@@ -34,12 +34,12 @@ Gunbreaker (GNB) is the 4th tank added to Final Fantasy XIV in the Shadowbringer
 
 ## Offensive On Global Cool Down Abilities
 
-**Keen Edge**
 ![KeenEdge](/static/img/jobs/tanks/gunbreaker/Keen_Edge.png)
+**Keen Edge**
 The first skill of our basic combo. 200 potency.
 
-**Brutal Shell**
 ![BrutalShell](/static/img/jobs/tanks/gunbreaker/Brutal_Shell.png)
+**Brutal Shell**
 The second skill of our basic combo. 300 potency when used after Keen Edge. Heals for 200 potency and gives a shield equal to the amount healed. 
 
 **Solid Barrel**
