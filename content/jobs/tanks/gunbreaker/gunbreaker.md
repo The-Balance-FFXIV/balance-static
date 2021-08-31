@@ -36,6 +36,7 @@ Gunbreaker (GNB) is the 4th tank added to Final Fantasy XIV in the Shadowbringer
 
 ![KeenEdge](/static/img/jobs/tanks/gunbreaker/Keen_Edge.png)
 **Keen Edge**
+
 The first skill of our basic combo. 200 potency.
 
 ![BrutalShell](/static/img/jobs/tanks/gunbreaker/Brutal_Shell.png)
