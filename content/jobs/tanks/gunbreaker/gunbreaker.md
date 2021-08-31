@@ -1,11 +1,12 @@
 
 
 # Introduction to Gunbreaker
----
 Torael Valdis | Jenova (NA) | Torael_Valdis#8120
 ---
 Gunbreaker (GNB) is the 4th tank added to Final Fantasy XIV in the Shadowbringers expansion. It features high damage output and high casts-per-minute. GNB also features a strong defensive kit that, when used properly, can bring a lot of mitigation to the table. Let’s get started with a brief overview of the skills and abilities available to GNB.
 
+- [Introduction to Gunbreaker](#introduction-to-gunbreaker)
+  - [Torael Valdis | Jenova (NA) | Torael_Valdis#8120](#torael-valdis--jenova-na--torael_valdis8120)
 - [Skills and Abilities](#skills-and-abilities)
   - [Offensive On Global Cool Down Abilities](#offensive-on-global-cool-down-abilities)
   - [Offensive Off Global Cooldown Abilities](#offensive-off-global-cooldown-abilities)
@@ -187,7 +188,7 @@ Reduces damage taken by 10% for 20 seconds. Gives +50% parry rate (for a total o
 Reduces damage taken by 30% for 15 seconds. 120 second cooldown.
 
 
-![HeartOfStone](/static/img/jobs/tanks/gunbreaker/Heart_Of_Stone.png)
+![HeartOfStone](/static/img/jobs/tanks/gunbreaker/Heart_of_Stone.png)
 **Heart of Stone**
 
 Reduces damage taken by 15% for 7 seconds. Can be used on self or a target party member in a 30y range. If used on a party member, any existing Brutal Shell shield will be copied onto them. [i.e. if you have 4000 shield from Brutal Shell when you use it on them, they now have 4000 shield as well.]
@@ -205,7 +206,7 @@ Sets your HP to 1 and makes you unable to take damage from most attacks for 8 se
 Role action. Reduces damage taken by 20% for 20 seconds. 90 second cooldown.
 
 
-![ArmsLength](/static/img/jobs/tanks/gunbreaker/Arm's_Length.png)
+![ArmsLength](/static/img/jobs/tanks/gunbreaker/Arms_Length.png)
 **Arm’s Length**
 
 Role action. Makes you immune to most knockback or draw-in effects for 6 seconds. Applies a 20% slow to enemies that attack you while Arm’s Length is active (This means enemies will attack you 20% slower, very useful for dungeons!). 120s cooldown.
@@ -213,7 +214,7 @@ Role action. Makes you immune to most knockback or draw-in effects for 6 seconds
 
 ## Utility Off Global Cool Down Abilities
 
-![HeartOfLight](/static/img/jobs/tanks/gunbreaker/Heart_Of_Light.png)
+![HeartOfLight](/static/img/jobs/tanks/gunbreaker/Heart_of_Light.png)
 **Heart of Light**
 
 Reduces magic damage taken by 10% for self and party members in a 15y radius around you for 15 seconds. 90 second cooldown. 
@@ -272,6 +273,7 @@ Solid Barrel combo is our single target combo. Builds 1 Cartridge.
 
 
 ![DemonSlice](/static/img/jobs/tanks/gunbreaker/Demon_Slice.png)![DemonSlaughter](/static/img/jobs/tanks/gunbreaker/Demon_Slaughter.png)
+
 **Demon Slice -> Demon Slaughter**
 
 Demon Slaughter combo is our 2+ target AoE combo. Builds 1 Cartridge.
