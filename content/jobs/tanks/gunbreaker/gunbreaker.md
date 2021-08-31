@@ -397,7 +397,7 @@ A: See this [section](#bloodfest).
 This guide would not be possible without the advice and peer review of Hopps, Rin, Ari, Sila, and the other members of the Balance tank community who took the time to read this and give feedback. 
 
 <!-- Media -->
-[4thGcdNoMercy]: /static/img/jobs/tanks/gunbreaker/4th_Gcd_No_Mercy.png "4thGcdNoMercy"
+[4thGcdNoMercy](/static/img/jobs/tanks/gunbreaker/4th_Gcd_No_Mercy.png)
 [AbdomenTear]: /static/img/jobs/tanks/gunbreaker/Abdomen_Tear.png "AbdomenTear"
 [ArmsLength]: /static/img/jobs/tanks/gunbreaker/Arm's_Length.png "ArmsLength"
 [Aurora]: /static/img/jobs/tanks/gunbreaker/Aurora.png "Aurora"
