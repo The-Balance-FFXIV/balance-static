@@ -3,7 +3,7 @@ title: Gunbreaker guide
 ---
 
 - [Introduction to Gunbreaker](#introduction-to-gunbreaker)
-  - [Torael Valdis | Jenova (NA) | Torael_Valdis#8120](#torael-valdis--jenova-na--torael_valdis8120)
+  - [Author](#author)
 - [Skills and Abilities](#skills-and-abilities)
   - [Offensive On Global Cool Down Abilities](#offensive-on-global-cool-down-abilities)
   - [Offensive Off Global Cooldown Abilities](#offensive-off-global-cooldown-abilities)
@@ -28,8 +28,9 @@ title: Gunbreaker guide
   - [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
   - [Special Thanks](#special-thanks)
 # Introduction to Gunbreaker
+## Author
 Torael Valdis | Jenova (NA) | Torael_Valdis#8120
----
+
 Gunbreaker (GNB) is the 4th tank added to Final Fantasy XIV in the Shadowbringers expansion. It features high damage output and high casts-per-minute. GNB also features a strong defensive kit that, when used properly, can bring a lot of mitigation to the table. Let’s get started with a brief overview of the skills and abilities available to GNB.
 
 # Skills and Abilities
