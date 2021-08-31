@@ -19,9 +19,9 @@ Single target GCDs
 
 oGCDs
 
-Core Gameplay Loop
-
 Opener
+
+Core Gameplay Loop, including RoFs
 
 Introduce AoE skills, apply previous knowledge and reasoning
 
