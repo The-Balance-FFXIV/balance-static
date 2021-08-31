@@ -39,49 +39,72 @@ Gunbreaker (GNB) is the 4th tank added to Final Fantasy XIV in the Shadowbringer
 
 The first skill of our basic combo. 200 potency.
 
+
 ![BrutalShell](/static/img/jobs/tanks/gunbreaker/Brutal_Shell.png)
 **Brutal Shell**
+
 The second skill of our basic combo. 300 potency when used after Keen Edge. Heals for 200 potency and gives a shield equal to the amount healed. 
 
-**Solid Barrel**
+
 ![SolidBarrel](/static/img/jobs/tanks/gunbreaker/Solid_Barrel.png)
+**Solid Barrel**
+
 The final skill of our basic combo. 400 potency when used after Brutal Shell. Generates 1 Cartridge in the Powder Gauge. 
 
-**Burst Strike**
+
 ![BurstStrike](/static/img/jobs/tanks/gunbreaker/Burst_Strike.png)
+**Burst Strike**
+
 500 potency attack that consumes 1 Cartridge.
 
-**Gnashing Fang**
+
 ![GnashingFang](/static/img/jobs/tanks/gunbreaker/Gnashing_Fang.png)
+**Gnashing Fang**
+
 450 potency attack that consumes 1 Cartridge. 30 second base cooldown that is reduced by skill speed (discussed later). Triggers Ready To Rip.
 
-**Savage Claw**
+
 ![SavageClaw](/static/img/jobs/tanks/gunbreaker/Savage_Claw.png)
+**Savage Claw**
+
 550 potency attack that can only be used following Gnashing Fang. Triggers Ready To Tear.
 
-**Wicked Talon**
+
 ![WickedTalon](/static/img/jobs/tanks/gunbreaker/Wicked_Talon.png)
+**Wicked Talon**
+
 650 potency attack that can only be used following Savage Claw. Triggers Ready To Gouge.
 
-**Sonic Break**
+
 ![alt text][SonicBreak]
+**Sonic Break**
+
 300 potency attack that applies a 90 potency Damage over Time (DoT) for 30 seconds (900 potency total from the DoT). 60 second base cooldown that is reduced by skill speed (discussed later).
 
-**Lightning Shot**
+
 ![LightingShot](/static/img/jobs/tanks/gunbreaker/Lightning_Shot.png)
+**Lightning Shot**
+
 Ranged attack skill with a potency of 150 and a range of 15y. 
 
-**Demon Slice**
+
 ![DemonSlice](/static/img/jobs/tanks/gunbreaker/Demon_Slice.png)
+**Demon Slice**
+
 First skill of our Area of Effect (AoE) combo. 150 potency to all targets in a 5y circle centered around you.
 
-**Demon Slaughter**
+
 ![DemonSlaughter](/static/img/jobs/tanks/gunbreaker/Demon_Slaughter.png)
+**Demon Slaughter**
+
 Second skill of our AoE combo. 250 potency to all targets in a 5y circle around you when used after Demon Slice. Generates one Cartridge in the Powder Gauge. 
 
-**Fated Circle**
+
 ![FatedCircle](/static/img/jobs/tanks/gunbreaker/Fated_Circle.png)
+**Fated Circle**
+
 Consumes 1 Cartridge. 320 potency to all targets in a 5y circle around you. 
+
 
 ## Offensive Off Global Cooldown Abilities
 
