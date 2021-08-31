@@ -108,111 +108,159 @@ Consumes 1 Cartridge. 320 potency to all targets in a 5y circle around you.
 
 ## Offensive Off Global Cooldown Abilities
 
-**Continuation**
 ![Continuation](/static/img/jobs/tanks/gunbreaker/Continuation.png)
+**Continuation**
+
 Turns into Jugular Rip, Abdomen Tear, or Eye Gouge when under the effect of Ready To Rip, Ready To Tear, or Ready To Gouge respectively. 
 
-**Jugular Rip**
+
 ![JugularRip](/static/img/jobs/tanks/gunbreaker/Jugular_Rip.png)
+**Jugular Rip**
+
 260 potency attack. Can only be used under Ready To Rip triggered by Gnashing Fang. 
 
-**Abdomen Tear**
 ![AbdomenTear](/static/img/jobs/tanks/gunbreaker/Abdomen_Tear.png)
+**Abdomen Tear**
+
 280 potency attack. Can only be used under Ready To Tear triggered by Savage Claw.
 
-**Eye Gouge**
+
 ![EyeGouge](/static/img/jobs/tanks/gunbreaker/Eye_Gouge.png)
+**Eye Gouge**
+
 300 potency attack. Can only be used under Ready To Gouge triggered by Wicked Talon.
 
-**Danger Zone**
+
 ![DangerZone](/static/img/jobs/tanks/gunbreaker/Danger_Zone.png)
+**Danger Zone**
+
 350 potency attack with a 30 second cooldown. Becomes Blasting Zone at level 80.
 
-**Blasting Zone**
+
 ![BlastingZone](/static/img/jobs/tanks/gunbreaker/Blasting_Zone.png)
+**Blasting Zone**
+
 800 potency attack with a 30 second cooldown.
 
-**Bow Shock**
+
 ![BowShock](/static/img/jobs/tanks/gunbreaker/Bow_Shock.png)
+**Bow Shock**
+
 200 potency attack to all targets in a 5y circle around you. Also applies a 90 potency DoT for 15s to all targets hit by the initial attack (for a total of 450 potency per target from the DoT).
 
-**Rough Divide**
+
 ![RoughDivide](/static/img/jobs/tanks/gunbreaker/Rough_Divide.png)
+**Rough Divide**
+
 200 potency attack that dashes you to the target. Has 2 charges that regenerate at a rate of 1 charge every 30 seconds. 15y range. 
 
-**No Mercy**
+
 ![NoMercy](/static/img/jobs/tanks/gunbreaker/No_Mercy.png)
+**No Mercy**
+
 20% damage increase for 20 seconds. 60 second cooldown.
 
-**Bloodfest**
+
 ![Bloodfest](/static/img/jobs/tanks/gunbreaker/Bloodfest.png)
+**Bloodfest**
+
 Immediately gives 2 Cartridges in the Powder Gauge. 90 second cooldown.
+
 
 ## Defensive Off Global Cool Down Abilities
 
-**Aurora**
 ![Aurora](/static/img/jobs/tanks/gunbreaker/Aurora.png)
+**Aurora**
+
 200 potency Heal over Time (HoT) for 18 seconds. 1200 potency heal total. 60 second cooldown. Can be used on self or a target party member in a 30y range. 
 
-**Camouflage**
+
 ![Camouflage](/static/img/jobs/tanks/gunbreaker/Camouflage.png)
+**Camouflage**
+
 Reduces damage taken by 10% for 20 seconds. Gives +50% parry rate (for a total of 60% parry rate) for 20 seconds. Parry only works on physical damage and reduces damage by 15% when it applies. [The 10% damage reduction applies regardless of if the attack is physical or magical.]
 
-**Nebula**
+
 ![Nebula](/static/img/jobs/tanks/gunbreaker/Nebula.png)
+**Nebula**
+
 Reduces damage taken by 30% for 15 seconds. 120 second cooldown.
 
-**Heart of Stone**
+
 ![HeartOfStone](/static/img/jobs/tanks/gunbreaker/Heart_Of_Stone.png)
+**Heart of Stone**
+
 Reduces damage taken by 15% for 7 seconds. Can be used on self or a target party member in a 30y range. If used on a party member, any existing Brutal Shell shield will be copied onto them. [i.e. if you have 4000 shield from Brutal Shell when you use it on them, they now have 4000 shield as well.]
 
-**Superbolide**
+
 ![Superbolide](/static/img/jobs/tanks/gunbreaker/Superbolide.png)
+**Superbolide**
+
 Sets your HP to 1 and makes you unable to take damage from most attacks for 8 seconds. 360 second cooldown. 
 
-**Rampart**
+
 ![Rampart](/static/img/jobs/tanks/gunbreaker/Rampart.png)
+**Rampart**
+
 Role action. Reduces damage taken by 20% for 20 seconds. 90 second cooldown.
 
-**Arm’s Length**
+
 ![ArmsLength](/static/img/jobs/tanks/gunbreaker/Arm's_Length.png)
+**Arm’s Length**
+
 Role action. Makes you immune to most knockback or draw-in effects for 6 seconds. Applies a 20% slow to enemies that attack you while Arm’s Length is active (This means enemies will attack you 20% slower, very useful for dungeons!). 120s cooldown.
+
 
 ## Utility Off Global Cool Down Abilities
 
-**Heart of Light**
 ![HeartOfLight](/static/img/jobs/tanks/gunbreaker/Heart_Of_Light.png)
+**Heart of Light**
+
 Reduces magic damage taken by 10% for self and party members in a 15y radius around you for 15 seconds. 90 second cooldown. 
 
-**Reprisal**
+
 ![Reprisal](/static/img/jobs/tanks/gunbreaker/Reprisal.png)
+**Reprisal**
+
 Role action. Reduces damage dealt by all enemies in a 5y circle around you by 10% for 10 seconds. 60 second cooldown.
 
-**Low Blow**
+
 ![LowBlow](/static/img/jobs/tanks/gunbreaker/Low_Blow.png)
+**Low Blow**
+
 Role action. Stuns a target for 5 seconds. Enemies that get stunned repeatedly will develop stun immunity. 25s cooldown.
 
-**Interject**
+
 ![Interject](/static/img/jobs/tanks/gunbreaker/Interject.png)
+**Interject**
+
 Role action. Cancels a target's cast (if it is an interruptible cast). 30 second cooldown.
 
-**Royal Guard**
+
 ![RoyalGuard](/static/img/jobs/tanks/gunbreaker/Royal_Guard.png)
+**Royal Guard**
+
 Tank stance. While toggled on, applies a 10x enmity modifier to all abilities.
 
-**Provoke**
+
 ![Provoke](/static/img/jobs/tanks/gunbreaker/Provoke.png)
+**Provoke**
+
 Role action. Puts you at the top of the enmity list and gives 2000 potency worth of additional enmity (20,000 if Royal Guard is active).
 
-**Shirk**
+
 ![Shirk](/static/img/jobs/tanks/gunbreaker/Shirk.png)
+**Shirk**
+
 Role action. Transfers 25% of your enmity to a target party member. This effect applies to all enemies on your aggro table.
+
 
 # Combos
 
 GNB has 3 combos. The **Solid Barrel** combo, **Demon Slaughter** combo, and **Gnashing Fang** combo. 
 
 ![SolidBarrelCombo](/static/img/jobs/tanks/gunbreaker/Solid_Barrel_Combo.png)
+
 If you are unfamiliar with combo based classes in FFXIV, the game has a handy system to show you what combo skill to hit next. A dotted yellow outline will appear around the next skill in the combo. You have 15 seconds (or about 5 GCDs) to hit the next combo action before the combo deactivates (breaks). Using any other GCD ability will break combos as well, with some exceptions. 
 
 
@@ -228,10 +276,11 @@ Solid Barrel combo is our single target combo. Builds 1 Cartridge.
 
 Demon Slaughter combo is our 2+ target AoE combo. Builds 1 Cartridge.
 
+
 We will talk about when to use Solid Barrel combo vs Demon Slaughter combo in the next section. 
 
+![GnashingFangCombo](/static/img/jobs/tanks/gunbreaker/Gnashing_Fang_Combo.png)
 
-![GnashingFang](/static/img/jobs/tanks/gunbreaker/Gnashing_Fang.png)![JugularRip](/static/img/jobs/tanks/gunbreaker/Jugular_Rip.png)![SavageClaw](/static/img/jobs/tanks/gunbreaker/Savage_Claw.png)![AbdomenTear](/static/img/jobs/tanks/gunbreaker/Abdomen_Tear.png)![WickedTalon](/static/img/jobs/tanks/gunbreaker/Wicked_Talon.png)![EyeGouge](/static/img/jobs/tanks/gunbreaker/Eye_Gouge.png)
 **Gnashing Fang -> Jugular Rip -> Savage Claw -> Abdomen Tear -> Wicked Talon -> Eye Gouge**
 
 Gnashing Fang combo is our Cartridge spender combo. It does high damage and is a very important part of our burst. Note: Jugular Rip, Abdomen Tear, and Eye Gouge must be used after Gnashing Fang, Savage Claw, and Wicked Talon respectively or the buff that lets them be used will be lost. 
@@ -293,7 +342,9 @@ oGCDs:
 
 Getting 4 **Burst Strikes** in **No Mercy** is only possible if **No Mercy** is ready after **Brutal Shell**, and you already have 2 Cartridges ready to go. Do not hold **No Mercy** until after **Brutal Shell** to force a 4 **Burst Strike** **No Mercy** window! Doing so will cause you to misalign from raid buffs, which over time will be a much bigger loss than the gain of getting 4 **Burst Strikes** instead of 3. 
 
-If you are unable to fit 9 GCDs in **No Mercy**, make sure that you are pressing **No Mercy** at approximately ⅔’s of the way into the GCD clock as shown here:![SolidBarrelCombo](/static/img/jobs/tanks/gunbreaker/Solid_Barrel_Combo.png)
+If you are unable to fit 9 GCDs in **No Mercy**, make sure that you are pressing **No Mercy** at approximately ⅔’s of the way into the GCD clock as shown here:
+
+![SolidBarrelCombo](/static/img/jobs/tanks/gunbreaker/Solid_Barrel_Combo.png)
 
 ## Bloodfest
 **Bloodfest** should not be held for the next **No Mercy** window. Because it has a cooldown of 90s and **No Mercy** has a cooldown of 60s, **Bloodfest** will naturally be inside **No Mercy** every 3 minutes. As **Bloodfest**’s cooldown is getting close to finishing, spend Cartridges to avoid delaying **Bloodfest** or overcapping on Cartridges. 
@@ -375,7 +426,7 @@ Devotion (Summoner)
 Increases damage dealt by 5% for 15s. 180s cooldown.
 
 Chain Stratagem (Scholar)
-![ChainStrategem](/static/img/jobs/tanks/gunbreaker/Chain_Strategem.png)
+![ChainStratagem](/static/img/jobs/tanks/gunbreaker/Chain_Stratagem.png)
 Increases Critical Hit rate against the affected target by 10% for 15s. 120s cooldown.
 
 Divination (Astrologian)
