@@ -1,6 +1,31 @@
 ---
 title: Ninja Guide
 ---
+- [Introduction to Ninja](#introduction-to-ninja)
+- [What is Ninja?](#what-is-ninja)
+- [Skills and Abilities](#skills-and-abilities)
+  - [Weaponskills (Commonly referred to as GCDs)](#weaponskills-commonly-referred-to-as-gcds)
+  - [Ninjutsus/Mudras](#ninjutsusmudras)
+  - [Regular Abilities(oGCDs)](#regular-abilitiesogcds)
+  - [Ninki](#ninki)
+  - [Utility Abilities](#utility-abilities)
+  - [Traits](#traits)
+- [Rotation](#rotation)
+  - [Base Combo](#base-combo)
+  - [Ninki Usage](#ninki-usage)
+  - [Ninjutsu Usage](#ninjutsu-usage)
+  - [oGCD Usage](#ogcd-usage)
+  - [Trick Attack Rotation](#trick-attack-rotation)
+  - [Ten Chi Jin (TCJ) Usage](#ten-chi-jin-tcj-usage)
+  - [Multi-Target Rotation](#multi-target-rotation)
+- [BIS](#bis)
+- [Optimization](#optimization)
+  - [Optimizing Around Kill Times](#optimizing-around-kill-times)
+  - [Optimizing Around Downtime](#optimizing-around-downtime)
+  - [Niche Optimizations](#niche-optimizations)
+- [Thanks](#thanks)
+  - [Contacting Me](#contacting-me)
+
 # Introduction to Ninja
 
 ![Banner1](/img/jobs/melee/ninja/Banner1.png)
