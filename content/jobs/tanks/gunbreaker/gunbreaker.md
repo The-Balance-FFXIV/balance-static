@@ -2,13 +2,8 @@
 title: Gunbreaker guide
 ---
 
-# Introduction to Gunbreaker
-Torael Valdis | Jenova (NA) | Torael_Valdis#8120
----
-Gunbreaker (GNB) is the 4th tank added to Final Fantasy XIV in the Shadowbringers expansion. It features high damage output and high casts-per-minute. GNB also features a strong defensive kit that, when used properly, can bring a lot of mitigation to the table. Let’s get started with a brief overview of the skills and abilities available to GNB.
-
 - [Introduction to Gunbreaker](#introduction-to-gunbreaker)
-  - [Torael Valdis | Jenova (NA) | Torael_Valdis#8120](#torael-valdis--jenova-na--torael_valdis8120)
+  - [Author](#author)
 - [Skills and Abilities](#skills-and-abilities)
   - [Offensive On Global Cool Down Abilities](#offensive-on-global-cool-down-abilities)
   - [Offensive Off Global Cooldown Abilities](#offensive-off-global-cooldown-abilities)
@@ -32,78 +27,83 @@ Gunbreaker (GNB) is the 4th tank added to Final Fantasy XIV in the Shadowbringer
   - [Maximizing Skill Uses](#maximizing-skill-uses)
   - [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
   - [Special Thanks](#special-thanks)
+# Introduction to Gunbreaker
+## Author
+Torael Valdis | Jenova (NA) | Torael_Valdis#8120
+
+Gunbreaker (GNB) is the 4th tank added to Final Fantasy XIV in the Shadowbringers expansion. It features high damage output and high casts-per-minute. GNB also features a strong defensive kit that, when used properly, can bring a lot of mitigation to the table. Let’s get started with a brief overview of the skills and abilities available to GNB.
 
 # Skills and Abilities
 
 ## Offensive On Global Cool Down Abilities
 
-![KeenEdge](/static/img/jobs/tanks/gunbreaker/Keen_Edge.png)
+![KeenEdge](/img/jobs/tanks/gunbreaker/Keen_Edge.png)
 **Keen Edge**
 
 The first skill of our basic combo. 200 potency.
 
 
-![BrutalShell](/static/img/jobs/tanks/gunbreaker/Brutal_Shell.png)
+![BrutalShell](/img/jobs/tanks/gunbreaker/Brutal_Shell.png)
 **Brutal Shell**
 
 The second skill of our basic combo. 300 potency when used after Keen Edge. Heals for 200 potency and gives a shield equal to the amount healed. 
 
 
-![SolidBarrel](/static/img/jobs/tanks/gunbreaker/Solid_Barrel.png)
+![SolidBarrel](/img/jobs/tanks/gunbreaker/Solid_Barrel.png)
 **Solid Barrel**
 
 The final skill of our basic combo. 400 potency when used after Brutal Shell. Generates 1 Cartridge in the Powder Gauge. 
 
 
-![BurstStrike](/static/img/jobs/tanks/gunbreaker/Burst_Strike.png)
+![BurstStrike](/img/jobs/tanks/gunbreaker/Burst_Strike.png)
 **Burst Strike**
 
 500 potency attack that consumes 1 Cartridge.
 
 
-![GnashingFang](/static/img/jobs/tanks/gunbreaker/Gnashing_Fang.png)
+![GnashingFang](/img/jobs/tanks/gunbreaker/Gnashing_Fang.png)
 **Gnashing Fang**
 
 450 potency attack that consumes 1 Cartridge. 30 second base cooldown that is reduced by skill speed (discussed later). Triggers Ready To Rip.
 
 
-![SavageClaw](/static/img/jobs/tanks/gunbreaker/Savage_Claw.png)
+![SavageClaw](/img/jobs/tanks/gunbreaker/Savage_Claw.png)
 **Savage Claw**
 
 550 potency attack that can only be used following Gnashing Fang. Triggers Ready To Tear.
 
 
-![WickedTalon](/static/img/jobs/tanks/gunbreaker/Wicked_Talon.png)
+![WickedTalon](/img/jobs/tanks/gunbreaker/Wicked_Talon.png)
 **Wicked Talon**
 
 650 potency attack that can only be used following Savage Claw. Triggers Ready To Gouge.
 
 
-![SonicBreak](/static/img/jobs/tanks/gunbreaker/Sonic_Break.png)
+![SonicBreak](/img/jobs/tanks/gunbreaker/Sonic_Break.png)
 **Sonic Break**
 
 300 potency attack that applies a 90 potency Damage over Time (DoT) for 30 seconds (900 potency total from the DoT). 60 second base cooldown that is reduced by skill speed (discussed later).
 
 
-![LightingShot](/static/img/jobs/tanks/gunbreaker/Lightning_Shot.png)
+![LightingShot](/img/jobs/tanks/gunbreaker/Lightning_Shot.png)
 **Lightning Shot**
 
 Ranged attack skill with a potency of 150 and a range of 15y. 
 
 
-![DemonSlice](/static/img/jobs/tanks/gunbreaker/Demon_Slice.png)
+![DemonSlice](/img/jobs/tanks/gunbreaker/Demon_Slice.png)
 **Demon Slice**
 
 First skill of our Area of Effect (AoE) combo. 150 potency to all targets in a 5y circle centered around you.
 
 
-![DemonSlaughter](/static/img/jobs/tanks/gunbreaker/Demon_Slaughter.png)
+![DemonSlaughter](/img/jobs/tanks/gunbreaker/Demon_Slaughter.png)
 **Demon Slaughter**
 
 Second skill of our AoE combo. 250 potency to all targets in a 5y circle around you when used after Demon Slice. Generates one Cartridge in the Powder Gauge. 
 
 
-![FatedCircle](/static/img/jobs/tanks/gunbreaker/Fated_Circle.png)
+![FatedCircle](/img/jobs/tanks/gunbreaker/Fated_Circle.png)
 **Fated Circle**
 
 Consumes 1 Cartridge. 320 potency to all targets in a 5y circle around you. 
@@ -111,60 +111,60 @@ Consumes 1 Cartridge. 320 potency to all targets in a 5y circle around you.
 
 ## Offensive Off Global Cooldown Abilities
 
-![Continuation](/static/img/jobs/tanks/gunbreaker/Continuation.png)
+![Continuation](/img/jobs/tanks/gunbreaker/Continuation.png)
 **Continuation**
 
 Turns into Jugular Rip, Abdomen Tear, or Eye Gouge when under the effect of Ready To Rip, Ready To Tear, or Ready To Gouge respectively. 
 
 
-![JugularRip](/static/img/jobs/tanks/gunbreaker/Jugular_Rip.png)
+![JugularRip](/img/jobs/tanks/gunbreaker/Jugular_Rip.png)
 **Jugular Rip**
 
 260 potency attack. Can only be used under Ready To Rip triggered by Gnashing Fang. 
 
-![AbdomenTear](/static/img/jobs/tanks/gunbreaker/Abdomen_Tear.png)
+![AbdomenTear](/img/jobs/tanks/gunbreaker/Abdomen_Tear.png)
 **Abdomen Tear**
 
 280 potency attack. Can only be used under Ready To Tear triggered by Savage Claw.
 
 
-![EyeGouge](/static/img/jobs/tanks/gunbreaker/Eye_Gouge.png)
+![EyeGouge](/img/jobs/tanks/gunbreaker/Eye_Gouge.png)
 **Eye Gouge**
 
 300 potency attack. Can only be used under Ready To Gouge triggered by Wicked Talon.
 
 
-![DangerZone](/static/img/jobs/tanks/gunbreaker/Danger_Zone.png)
+![DangerZone](/img/jobs/tanks/gunbreaker/Danger_Zone.png)
 **Danger Zone**
 
 350 potency attack with a 30 second cooldown. Becomes Blasting Zone at level 80.
 
 
-![BlastingZone](/static/img/jobs/tanks/gunbreaker/Blasting_Zone.png)
+![BlastingZone](/img/jobs/tanks/gunbreaker/Blasting_Zone.png)
 **Blasting Zone**
 
 800 potency attack with a 30 second cooldown.
 
 
-![BowShock](/static/img/jobs/tanks/gunbreaker/Bow_Shock.png)
+![BowShock](/img/jobs/tanks/gunbreaker/Bow_Shock.png)
 **Bow Shock**
 
 200 potency attack to all targets in a 5y circle around you. Also applies a 90 potency DoT for 15s to all targets hit by the initial attack (for a total of 450 potency per target from the DoT).
 
 
-![RoughDivide](/static/img/jobs/tanks/gunbreaker/Rough_Divide.png)
+![RoughDivide](/img/jobs/tanks/gunbreaker/Rough_Divide.png)
 **Rough Divide**
 
 200 potency attack that dashes you to the target. Has 2 charges that regenerate at a rate of 1 charge every 30 seconds. 15y range. 
 
 
-![NoMercy](/static/img/jobs/tanks/gunbreaker/No_Mercy.png)
+![NoMercy](/img/jobs/tanks/gunbreaker/No_Mercy.png)
 **No Mercy**
 
 20% damage increase for 20 seconds. 60 second cooldown.
 
 
-![Bloodfest](/static/img/jobs/tanks/gunbreaker/Bloodfest.png)
+![Bloodfest](/img/jobs/tanks/gunbreaker/Bloodfest.png)
 **Bloodfest**
 
 Immediately gives 2 Cartridges in the Powder Gauge. 90 second cooldown.
@@ -172,43 +172,43 @@ Immediately gives 2 Cartridges in the Powder Gauge. 90 second cooldown.
 
 ## Defensive Off Global Cool Down Abilities
 
-![Aurora](/static/img/jobs/tanks/gunbreaker/Aurora.png)
+![Aurora](/img/jobs/tanks/gunbreaker/Aurora.png)
 **Aurora**
 
 200 potency Heal over Time (HoT) for 18 seconds. 1200 potency heal total. 60 second cooldown. Can be used on self or a target party member in a 30y range. 
 
 
-![Camouflage](/static/img/jobs/tanks/gunbreaker/Camouflage.png)
+![Camouflage](/img/jobs/tanks/gunbreaker/Camouflage.png)
 **Camouflage**
 
 Reduces damage taken by 10% for 20 seconds. Gives +50% parry rate (for a total of 60% parry rate) for 20 seconds. Parry only works on physical damage and reduces damage by 15% when it applies. [The 10% damage reduction applies regardless of if the attack is physical or magical.]
 
 
-![Nebula](/static/img/jobs/tanks/gunbreaker/Nebula.png)
+![Nebula](/img/jobs/tanks/gunbreaker/Nebula.png)
 **Nebula**
 
 Reduces damage taken by 30% for 15 seconds. 120 second cooldown.
 
 
-![HeartOfStone](/static/img/jobs/tanks/gunbreaker/Heart_of_Stone.png)
+![HeartOfStone](/img/jobs/tanks/gunbreaker/Heart_of_Stone.png)
 **Heart of Stone**
 
 Reduces damage taken by 15% for 7 seconds. Can be used on self or a target party member in a 30y range. If used on a party member, any existing Brutal Shell shield will be copied onto them. [i.e. if you have 4000 shield from Brutal Shell when you use it on them, they now have 4000 shield as well.]
 
 
-![Superbolide](/static/img/jobs/tanks/gunbreaker/Superbolide.png)
+![Superbolide](/img/jobs/tanks/gunbreaker/Superbolide.png)
 **Superbolide**
 
 Sets your HP to 1 and makes you unable to take damage from most attacks for 8 seconds. 360 second cooldown. 
 
 
-![Rampart](/static/img/jobs/tanks/gunbreaker/Rampart.png)
+![Rampart](/img/jobs/tanks/gunbreaker/Rampart.png)
 **Rampart**
 
 Role action. Reduces damage taken by 20% for 20 seconds. 90 second cooldown.
 
 
-![ArmsLength](/static/img/jobs/tanks/gunbreaker/Arms_Length.png)
+![ArmsLength](/img/jobs/tanks/gunbreaker/Arms_Length.png)
 **Arm’s Length**
 
 Role action. Makes you immune to most knockback or draw-in effects for 6 seconds. Applies a 20% slow to enemies that attack you while Arm’s Length is active (This means enemies will attack you 20% slower, very useful for dungeons!). 120s cooldown.
@@ -216,43 +216,43 @@ Role action. Makes you immune to most knockback or draw-in effects for 6 seconds
 
 ## Utility Off Global Cool Down Abilities
 
-![HeartOfLight](/static/img/jobs/tanks/gunbreaker/Heart_of_Light.png)
+![HeartOfLight](/img/jobs/tanks/gunbreaker/Heart_of_Light.png)
 **Heart of Light**
 
 Reduces magic damage taken by 10% for self and party members in a 15y radius around you for 15 seconds. 90 second cooldown. 
 
 
-![Reprisal](/static/img/jobs/tanks/gunbreaker/Reprisal.png)
+![Reprisal](/img/jobs/tanks/gunbreaker/Reprisal.png)
 **Reprisal**
 
 Role action. Reduces damage dealt by all enemies in a 5y circle around you by 10% for 10 seconds. 60 second cooldown.
 
 
-![LowBlow](/static/img/jobs/tanks/gunbreaker/Low_Blow.png)
+![LowBlow](/img/jobs/tanks/gunbreaker/Low_Blow.png)
 **Low Blow**
 
 Role action. Stuns a target for 5 seconds. Enemies that get stunned repeatedly will develop stun immunity. 25s cooldown.
 
 
-![Interject](/static/img/jobs/tanks/gunbreaker/Interject.png)
+![Interject](/img/jobs/tanks/gunbreaker/Interject.png)
 **Interject**
 
 Role action. Cancels a target's cast (if it is an interruptible cast). 30 second cooldown.
 
 
-![RoyalGuard](/static/img/jobs/tanks/gunbreaker/Royal_Guard.png)
+![RoyalGuard](/img/jobs/tanks/gunbreaker/Royal_Guard.png)
 **Royal Guard**
 
 Tank stance. While toggled on, applies a 10x enmity modifier to all abilities.
 
 
-![Provoke](/static/img/jobs/tanks/gunbreaker/Provoke.png)
+![Provoke](/img/jobs/tanks/gunbreaker/Provoke.png)
 **Provoke**
 
 Role action. Puts you at the top of the enmity list and gives 2000 potency worth of additional enmity (20,000 if Royal Guard is active).
 
 
-![Shirk](/static/img/jobs/tanks/gunbreaker/Shirk.png)
+![Shirk](/img/jobs/tanks/gunbreaker/Shirk.png)
 **Shirk**
 
 Role action. Transfers 25% of your enmity to a target party member. This effect applies to all enemies on your aggro table.
@@ -262,26 +262,26 @@ Role action. Transfers 25% of your enmity to a target party member. This effect 
 
 GNB has 3 combos. The **Solid Barrel** combo, **Demon Slaughter** combo, and **Gnashing Fang** combo. 
 
-![SolidBarrelCombo](/static/img/jobs/tanks/gunbreaker/Solid_Barrel_Combo.png)
+![SolidBarrelCombo](/img/jobs/tanks/gunbreaker/Solid_Barrel_Combo.png)
 
 If you are unfamiliar with combo based classes in FFXIV, the game has a handy system to show you what combo skill to hit next. A dotted yellow outline will appear around the next skill in the combo. You have 15 seconds (or about 5 GCDs) to hit the next combo action before the combo deactivates (breaks). Using any other GCD ability will break combos as well, with some exceptions. 
 
 
-![KeenEdge](/static/img/jobs/tanks/gunbreaker/Keen_Edge.png)![BrutalShell](/static/img/jobs/tanks/gunbreaker/Brutal_Shell.png)![SolidBarrel](/static/img/jobs/tanks/gunbreaker/Solid_Barrel.png)
+![KeenEdge](/img/jobs/tanks/gunbreaker/Keen_Edge.png)![BrutalShell](/img/jobs/tanks/gunbreaker/Brutal_Shell.png)![SolidBarrel](/img/jobs/tanks/gunbreaker/Solid_Barrel.png)
 
 **Keen Edge -> Brutal Shell -> Solid Barrel**
 
 Solid Barrel combo is our single target combo. Builds 1 Cartridge.
 
 
-![DemonSlice](/static/img/jobs/tanks/gunbreaker/Demon_Slice.png)![DemonSlaughter](/static/img/jobs/tanks/gunbreaker/Demon_Slaughter.png)
+![DemonSlice](/img/jobs/tanks/gunbreaker/Demon_Slice.png)![DemonSlaughter](/img/jobs/tanks/gunbreaker/Demon_Slaughter.png)
 
 **Demon Slice -> Demon Slaughter**
 
 Demon Slaughter combo is our 2+ target AoE combo. Builds 1 Cartridge.
 We will talk about when to use Solid Barrel combo vs Demon Slaughter combo in the next section. 
 
-![GnashingFangCombo](/static/img/jobs/tanks/gunbreaker/Gnashing_Fang_Combo.png)
+![GnashingFangCombo](/img/jobs/tanks/gunbreaker/Gnashing_Fang_Combo.png)
 
 **Gnashing Fang -> Jugular Rip -> Savage Claw -> Abdomen Tear -> Wicked Talon -> Eye Gouge**
 
@@ -296,8 +296,8 @@ The **Gnashing Fang** combo does not interrupt any other combos. However, using 
 
 The following images are a visual representation of the previous paragraph, made by Rin Karigani. Please note **Keen Edge** combo and **Solid Barrel** combo are two names for the same thing. 
 
-![WillXBreak1](/static/img/jobs/tanks/gunbreaker/Will_X_Break_1.png)
-![WillXBreak2](/static/img/jobs/tanks/gunbreaker/Will_X_Break_2.png)
+![WillXBreak1](/img/jobs/tanks/gunbreaker/Will_X_Break_1.png)
+![WillXBreak2](/img/jobs/tanks/gunbreaker/Will_X_Break_2.png)
 
 ## AoE or Single Target
 
@@ -346,7 +346,7 @@ Getting 4 **Burst Strikes** in **No Mercy** is only possible if **No Mercy** is 
 
 If you are unable to fit 9 GCDs in **No Mercy**, make sure that you are pressing **No Mercy** at approximately ⅔’s of the way into the GCD clock as shown here:
 
-![SolidBarrelCombo](/static/img/jobs/tanks/gunbreaker/Solid_Barrel_Combo.png)
+![SolidBarrelCombo](/img/jobs/tanks/gunbreaker/Solid_Barrel_Combo.png)
 
 ## Bloodfest
 **Bloodfest** should not be held for the next **No Mercy** window. Because it has a cooldown of 90s and **No Mercy** has a cooldown of 60s, **Bloodfest** will naturally be inside **No Mercy** every 3 minutes. As **Bloodfest**’s cooldown is getting close to finishing, spend Cartridges to avoid delaying **Bloodfest** or overcapping on Cartridges. 
@@ -360,7 +360,7 @@ Openers are designed to do a few very important things:
 2. Get strong abilities under raid buffs. This helps to maximize damage done. More damage is always better, especially when it's free!
 3. Set up our rotation for the rest of the fight (or until a transition/extended period of downtime). This is especially important for fight specific optimizations and using the right opener may gain a use of important abilities like the **Gnashing Fang** combo.
 
-The theoretical standard opener for a full-uptime encounter is the 4th GCD **No Mercy** opener: (Graphic by Rin Karigani)![4thGcdNoMercy](/static/img/jobs/tanks/gunbreaker/4th_Gcd_No_Mercy.png)
+The theoretical standard opener for a full-uptime encounter is the 4th GCD **No Mercy** opener: (Graphic by Rin Karigani)![4thGcdNoMercy](/img/jobs/tanks/gunbreaker/4th_Gcd_No_Mercy.png)
 
 At higher levels of gameplay, you can and should adjust your opener based on your group composition and the specifics of the fight. 
 
@@ -411,55 +411,55 @@ Our basic priority system for materia melding is Critical Hit, then Skill Speed 
 # What’s Next After The Basics?
 ## Raid Buffs
 
-![Brotherhood](/static/img/jobs/tanks/gunbreaker/Brotherhood.png)
+![Brotherhood](/img/jobs/tanks/gunbreaker/Brotherhood.png)
 Brotherhood (Monk)
 
 Increases damage dealt by 5% for 15s. 90s cooldown.
 
 
-![BattleLitany](/static/img/jobs/tanks/gunbreaker/Battle_Litany.png)
+![BattleLitany](/img/jobs/tanks/gunbreaker/Battle_Litany.png)
 Battle Litany (Dragoon)
 
 Increases Critical Hit rate by 10% for 20s. 180s cooldown.
 
 
-![BattleVoice](/static/img/jobs/tanks/gunbreaker/Battle_Voice.png)
+![BattleVoice](/img/jobs/tanks/gunbreaker/Battle_Voice.png)
 Battle Voice (Bard)
 
 Increases Direct Hit rate by 20% for 20s. 180s cooldown. 
 
 
-![Devotion](/static/img/jobs/tanks/gunbreaker/Devotion.png)
+![Devotion](/img/jobs/tanks/gunbreaker/Devotion.png)
 Devotion (Summoner)
 
 Increases damage dealt by 5% for 15s. 180s cooldown.
 
 
-![ChainStratagem](/static/img/jobs/tanks/gunbreaker/Chain_Stratagem.png)
+![ChainStratagem](/img/jobs/tanks/gunbreaker/Chain_Stratagem.png)
 Chain Stratagem (Scholar)
 
 Increases Critical Hit rate against the affected target by 10% for 15s. 120s cooldown.
 
 
-![Divination](/static/img/jobs/tanks/gunbreaker/Divination.png)
+![Divination](/img/jobs/tanks/gunbreaker/Divination.png)
 Divination (Astrologian)
 
 Increases damage dealt by 4, 5, or 6% (determined by how many different seals the AST has before using Divination) for 15s. 120s cooldown.
 
 
-![TechnicalFinish](/static/img/jobs/tanks/gunbreaker/Technical_Finish.png)
+![TechnicalFinish](/img/jobs/tanks/gunbreaker/Technical_Finish.png)
 Technical Finish (Dancer)
 
 Increases damage dealt by 5% for 20s. 120s cooldown.
 
 
-![TrickAttack](/static/img/jobs/tanks/gunbreaker/Trick_Attack.png)
+![TrickAttack](/img/jobs/tanks/gunbreaker/Trick_Attack.png)
 Trick Attack (Ninja)
 
 Increases damage dealt against the affected target by 5% for 15s. 60s cooldown.
 
 
-![Embolden](/static/img/jobs/tanks/gunbreaker/Embolden.png)
+![Embolden](/img/jobs/tanks/gunbreaker/Embolden.png)
 Embolden (Red Mage)
 
 Increases physical damage dealt by 10/8/6/4/2% for 20s. Starts at 10% and decreases by 2% every 4s. 120s cooldown.
