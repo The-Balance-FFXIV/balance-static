@@ -7,3 +7,6 @@
 hugo.exe
 hugo.darwin
 hugo.linux
+
+# MacOS
+**/.DS_Store
