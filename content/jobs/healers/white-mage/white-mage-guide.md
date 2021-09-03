@@ -3,8 +3,7 @@ title: White Mage Guide
 ---
 - Basic formatting has been done
 - Images need to be added for rotations
-  - Will create graphics for them
-- Needs a bit of overhaul - lots of links to SaltedXIV still in here, particularly at the end.
+- Needs a bit of overhaul 
 - Unsure what to do with regards to tooltips
    - Have added screenshots of tooltips to show how the guide was intended; not sure if I should continue with screenshots, or if the API can be pulled directly? (I have 0 API experience!)
 
