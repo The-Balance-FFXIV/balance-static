@@ -2,8 +2,8 @@
 title: Astrologian Guide
 ---
 Notes;
-- Currently working on formatting the "Opener" section.
-   - Opener Flowchart needs graphic
+ - Opener Flowchart needs graphic
+ - Source info: https://docs.google.com/document/d/1DtB6WBzufUTEG5-ManJ9wYUsawgvcUQgkN6bGjFsq6o/edit#
 
 --- 
 
@@ -292,33 +292,36 @@ This is neatly illustrated by this flowchart, which also displays the probabilit
 
 For accessibility purposes, here is a text version, excluding most pre-pull actions detailed above:
 
-\-30	Draw
--3	Mind Potion
--1.5	Precast Malefic
-		Weave 1 - Lightspeed
-1	Combust
-		Weave 1 - Play card from pre-pull
-		Weave 2 - Draw
-3.4	Malefic
-		Weave 1 - Play
-		Weave 2 - Sleeve Draw
-5.8	Malefic
-		Weave 1 - Play
-8.2	Malefic
-		Weave 1 - Divination
+- **-30	Draw**
+- **-3	Mind Potion**
+- **-1.5	Precast Malefic**
+   - Weave 1 - Lightspeed
+- **1	Combust**
+   - Weave 1 - Play card from pre-pull
+   - Weave 2 - Draw
+- **3.4	Malefic**
+   - Weave 1 - Play
+   - Weave 2 - Sleeve Draw
+- **5.8	Malefic**
+   - Weave 1 - Play
+- **8.2	Malefic**
+   - Weave 1 - Divination
 
 This is the basic framework of the opener. If you Draw a duplicate Seal, you simply replace the subsequent oGCD windows with Redraws as many times as necessary until you get a new Seal. Once you have your second Seal, you are free to use Sleeve Draw to guarantee the third Seal, then Play the card and use Divination.
 
 Note that in the scenario above, where no Redraws are required, you could use Divination as early as around 6 seconds, which may be too early for many party comps, which is why it’s delayed here until the next GCD. This also means that some Redraws are tolerated without delaying Divination from this timing, but even if it is delayed a further GCD to 10.6 seconds, that’s usually fine. The optimal timing will vary depending on your party composition and burst timings.
-Outdated Opener for Posterity
+
+## Outdated Opener for Posterity
 
 This is the opener from before the 5.3 rework of Sleeve Draw. It is no longer relevant. I am leaving it here as a testament to a fallen behemoth, so that future generations of Astrologians can look back into the abyss at the Lovecraftian nightmare with which we wrestled even in the deepest recesses of our minds, in our waking hours and in the inner sanctuaries of our dreams.
 
 If you ever feel that the modern opener is too complex… gaze into the abyss herein, and from it, summon your strength. Steel your resolve and steal your determination from its unfathomable depths. Then, walk once more under the light of the heavens, and carry us into a brighter future still.
-The Abyss
+
+### The Abyss
+
 This is where things start to look very complicated. It's unrealistic to accurately present how to handle cards in the opener entirely through text, so I've composed a visual representation. Instead of trying to spell out an opener, I'll just explain the principles behind the flowchart so that hopefully you can see the method to the madness.
 
-\[Here is a link to the OLD opener flowchart]
+[Here is a link to the OLD opener flowchart](https://i.imgur.com/4yO9zGZ.png)
 
 The sequence of the opener branches depending on if/when you draw duplicate seals. The guiding principles that determine how the sequence changes are as follows:
 
@@ -334,27 +337,34 @@ The rest of the time, MA is used as a backup Redraw to be weaved immediately aft
 
 Redraw can't give you the same card you have in hand, so it has slightly better odds than MA, which simply forces the next card and can give you the same card you just had. This is why Redraw is prioritized before MA for fishing for seals, because getting the right seal earlier means you're more likely to finish the entire opener earlier, which is better for rDPS altogether. It's important to keep in mind, however, that you may only use a maximum of 2 MAs during the opener, because you need 3 seals in order to use Divination at all.
 
-TL;DR - Play cards with needed seals, Redraw cards with duplicate seals. If you Redraw into another duplicate seal, you can immediately double weave MA if the oGCD grouping lines up that way. For example:
+**TL;DR** - Play cards with needed seals, Redraw cards with duplicate seals. If you Redraw into another duplicate seal, you can immediately double weave MA if the oGCD grouping lines up that way. For example:
 
-Grouping which enables MA usage:
-Sleeve Draw (bad seal appears) > Malefic > Redraw (bad seal appears) + MA: (bad seal appears) > Malefic > Redraw (good seal appears) + Play
+- Grouping which enables MA usage:
+   - Sleeve Draw (bad seal appears) > Malefic > Redraw (bad seal appears) + MA: (bad seal appears) > Malefic > Redraw (good seal appears) + Play
+- Grouping which does not enable MA usage:
+    - Sleeve Draw (good seal appears) > Malefic > Play (bad seal appears) + Redraw (bad seal appears) > Malefic > Redraw (good seal appears) + Play
 
-Grouping which does not enable MA usage:
-Sleeve Draw (good seal appears) > Malefic > Play (bad seal appears) + Redraw (bad seal appears) > Malefic > Redraw (good seal appears) + Play
-Miscellaneous Stuff You Should Know
+---
+
+# Miscellaneous Stuff You Should Know
+
 Astrologian has a few quirks that you kiiiind of have to know in order to play the job to its fullest potential. Some of them are nice little tricks that will only come in handy every once in a while, but others are somewhat vital to your success.
-Strange Interactions
-Earthly Star is technically a pet. It counts as a unique, separate entity from ourselves, but it scales with our stats as a pet would. Somewhere in the spaghetti code, they’ve made the Earthly Star “pet” closely match player scaling, so the numbers you see match up with the listed potencies as though they were player potencies, unlike the reduced pet scaling observed with actual pets. This doesn’t currently have any pragmatic effect on us, and we hope it stays that way, but it has in the past.
-Essential Dignity calculates its heal value based on the missing health of the target at the beginning of the skill, rather than at the end, when the animation completes and the heal is delivered. This can be a good or a bad thing.
-If you cast Benefic II and seamlessly follow it up with Essential Dignity, the Essential Dignity calculates its heal potency based on the health the target had before the Benefic II landed, because Essential Dignity’s execution began just before the heal from Benefic II was registered. This can be somewhat finicky based on your connection, and it is less reliable with Aspected Benefic due to the difference in animations.
-On the flip side, if you press Essential Dignity simultaneously as a tank buster is going through, even though the animation delay causes the heal to land after the tank buster, Essential Dignity will calculate its heal potency based on the HP the tank had before he took the hit, potentially leaving you with a \~500 potency heal instead of an \~800+ potency heal.
-Playing a non-Minor Arcana card immediately after your first hit that puts you in combat will sometimes not grant you the appropriate seal, because the game has not registered you as being in combat yet due to animation and threat table update speed shenanigans.
-Choosing a Sect
-I touched on this briefly in the general healing guide, but let me spell it out here. Regens. Are. Better. Than. Shields. It is simply a fact of the game design. Regens are inherently more MP efficient and more GCD efficient than shields. The purpose of shields is not to be efficient, but rather to do something that regens can’t do: increase your maximum effective hit points (eHP).
+
+## Strange Interactions
+
+1. Earthly Star is technically a pet. It counts as a unique, separate entity from ourselves, but it scales with our stats as a pet would. Somewhere in the spaghetti code, they’ve made the Earthly Star “pet” closely match player scaling, so the numbers you see match up with the listed potencies as though they were player potencies, unlike the reduced pet scaling observed with actual pets. This doesn’t currently have any pragmatic effect on us, and we hope it stays that way, but it has in the past.
+2. Essential Dignity calculates its heal value based on the missing health of the target at the beginning of the skill, rather than at the end, when the animation completes and the heal is delivered. This can be a good or a bad thing.
+   - If you cast Benefic II and seamlessly follow it up with Essential Dignity, the Essential Dignity calculates its heal potency based on the health the target had before the Benefic II landed, because Essential Dignity’s execution began just before the heal from Benefic II was registered. This can be somewhat finicky based on your connection, and it is less reliable with Aspected Benefic due to the difference in animations.
+   - On the flip side, if you press Essential Dignity simultaneously as a tank buster is going through, even though the animation delay causes the heal to land after the tank buster, Essential Dignity will calculate its heal potency based on the HP the tank had before he took the hit, potentially leaving you with a \~500 potency heal instead of an \~800+ potency heal.
+3. Playing a non-Minor Arcana card immediately after your first hit that puts you in combat will sometimes not grant you the appropriate seal, because the game has not registered you as being in combat yet due to animation and threat table update speed shenanigans.
+
+## Choosing a Sect
+
+I touched on this briefly in the general healing guide, but let me spell it out here. **Regens. Are. Better. Than. Shields.** It is simply a fact of the game design. Regens are inherently more MP efficient *and* more GCD efficient than shields. The purpose of shields is not to be efficient, but rather to do something that regens can’t do: increase your maximum effective hit points (eHP).
 
 This is primarily used as a safety net for learning to be able to cover for mistakes with upfront, brute force healing and mitigation, and to allow the group to meet HP checks during progression when you don’t have enough gear to comfortably survive unavoidable damage without the shields. (Those of you who are thinking, “what about shields for Limit Break cheese?” We’re just not going to talk about it. It’s bad, and Square Enix should feel bad that it exists to this extent.)
 
-Shields may not be aiming to be efficient, but we sure as hell are, and we have free access to more efficient regens in the form of Diurnal Sect. Therefore, we generally only use Nocturnal Sect when shields are genuinely necessary. If nothing in the fight hits so hard that you legitimately need shields in order to survive it, you’re better off just sticking with Diurnal Sect and saving yourself the MP and GCDs so that you and your cohealer can contribute more damage to the group.
+Shields may not be aiming to be efficient, *but we sure as hell are*, and we have free access to more efficient regens in the form of Diurnal Sect. Therefore, we generally only use Nocturnal Sect when shields are genuinely necessary. If nothing in the fight hits so hard that you legitimately need shields in order to survive it, you’re better off just sticking with Diurnal Sect and saving yourself the MP and GCDs so that you and your cohealer can contribute more damage to the group.
 
 In fact, now that Celestial Intersection and Neutral Sect exist, even a Diurnal Astrologian has limited access to powerful shields. In most encounters, shields aren’t genuinely necessary with so much frequency that you need access to on-demand shielding throughout the fight, and tanks and ranged physical DPS have plenty of access to party mitigation. Even White Mage has access to party mitigation through Temperance, so having many sources of limited access to party mitigation may often prove more than enough to negate the need for on-demand shields from Nocturnal Sect in a decently coordinated group or a fight that doesn’t have frequent lethal raid damage that requires mitigation.
 
@@ -362,36 +372,41 @@ Shields are inherently situational. Regens are inherently efficient, making them
 
 Diurnal remains generally very efficient, but thanks to Celestial Opposition and Celestial Intersection, Nocturnal Sect’s reliance on GCD healing is reduced (which is where Nocturnal Sect primarily falls short of Diurnal). And frankly, Nocturnal Celestial Intersection is very strong. The gap in overall efficiency between Diurnal and Nocturnal Sect is still quite significant, but that shouldn't put you off of using Nocturnal Sect when the situation calls for it.
 
-Prog with a WHM cohealer is a situation that calls for it. Numerical efficiency is lovely and all, but the safety and margin for error provided by having access to on-demand shielding in prog cannot be overstated. Living through more things more often means seeing more of the fight more often, which means learning the fight faster. That's worth far and away more than a few GCDs you might theoretically save by going Diurnal if the shields aren't completely necessary, so please, in the name of Yoshi-p, just go Noct if you're progging with a WHM.
+**Prog with a WHM cohealer is a situation that calls for it.** Numerical efficiency is lovely and all, but the safety and margin for error provided by having access to on-demand shielding in prog cannot be overstated. Living through more things more often means seeing more of the fight more often, which means learning the fight faster. That's worth far and away more than a few GCDs you might theoretically save by going Diurnal if the shields aren't completely necessary, so please, in the name of Yoshi-p, just go Noct if you're progging with a WHM.
 
 To put some numbers to it:
 
-Diurnal Aspected Benefic is 1200 total potency for 500 MP.
-Nocturnal Aspected Benefic is 700 total potency for 900 MP.
-Diurnal Aspected Helios (and Celestial Opposition) is 700 total potency.
-Nocturnal Aspected Helios (and Celestial Opposition) is 450 total potency.
-Diurnal Celestial Intersection is 600 total potency.
-Nocturnal Celestial Intersection is 950 total potency.
+- Diurnal Aspected Benefic is 1200 total potency for 500 MP.
+- Nocturnal Aspected Benefic is 700 total potency for 900 MP.
+- Diurnal Aspected Helios (and Celestial Opposition) is 700 total potency.
+- Nocturnal Aspected Helios (and Celestial Opposition) is 450 total potency.
+- Diurnal Celestial Intersection is 600 total potency.
+- Nocturnal Celestial Intersection is 950 total potency.
 
 Notably, Nocturnal Aspected Benefic and Benefic II are both 700 total potency for 900 MP. The only difference is that Aspected Benefic is an instant cast and part of it is a shield, so it can be used to create an additional buffer on top of someone’s max HP.
 
 Of course, if you happen to be in a party with another Astrologian (my condolences), your regens and shields don’t stack if you’re in the same sect, so one of you will have to use Nocturnal Sect. Similarly, your Nocturnal GCD shields will not stack with Scholar shields, as Nocturnal Field will always overwrite Galvanize, and vice versa, regardless of the strength or duration of either shield. Don’t be that guy who stays in Nocturnal Sect with a Scholar. Don’t do it. Do not.
-Sect Swapping/Stance Dancing
-In dungeons, you can swap to Nocturnal Sect just as the last enemy in a pull dies, apply a shield to the tank in preparation for the next pull, and then swap back to Diurnal Sect. This gives you a nice buffer for the tank’s HP while he gathers the mobs, giving you more time to DPS or do whatever else before you need to heal the tank.
-\[Updated] Secondary Stats
-The most up to date Astrologian best-in-slot (BiS) set(s) can always be found in the #ast_resources channel on The Balance Discord.
 
-Secondaries for Astrologian follow the same convoluted explanation given in the general healing guide. TL;DR crit is usually king, determination and direct hit are basically interchangeable, and spell speed is… its own beast. There are no relevant stats that are especially bad on Astrologian, really.
+### Sect Swapping/Stance Dancing
+
+In dungeons, you can swap to Nocturnal Sect just as the last enemy in a pull dies, apply a shield to the tank in preparation for the next pull, and then swap back to Diurnal Sect. This gives you a nice buffer for the tank’s HP while he gathers the mobs, giving you more time to DPS or do whatever else before you need to heal the tank.
+
+## Secondary Stats
+The most up to date Astrologian best-in-slot (BiS) set(s) can always be found in the #ast_resources channel on [The Balance Discord.](https://discord.gg/thebalanceffxiv)
+
+Secondaries for Astrologian follow the same convoluted explanation given in the [general healing guide.](http://bit.ly/FFXIVHealerGuide) TL;DR crit is usually king, determination and direct hit are basically interchangeable, and spell speed is… its own beast. There are no relevant stats that are especially bad on Astrologian, really.
 
 Things have taken quite the turn for Astrologian since Patch 5.3, when Draw and Sleeve Draw were changed to restore 800 MP on use. For quite some time, we struggled significantly with MP compared to White Mage and Scholar, which meant we needed a combination of more piety and less spell speed than what they could get away with. Those days are now behind us.
 
-Astrologian is now a seemingly limitless font of MP, at least compared to what it used to be. We still need some piety, but rather than being concerned with how to gain it, we often find ourselves concerned with how to drop excess piety in the most efficient ways.
+Astrologian is now a seemingly limitless font of MP, at least compared to what it used to be. We still need some piety, but rather than being concerned with how to gain it, we often find ourselves concerned with how to *drop* excess piety in the most efficient ways.
 
 It’s not necessarily the most efficient thing to simply avoid all piety on gear. That approach often loses out to taking advantage of large amounts of spell speed in order to leverage the amount of piety we have. You see, more spell speed means more spells cast in the same amount of time, which means more MP spent. It’s a damage gain with a cost. And in many cases, it ends up being more efficient to simply spend more MP than trying to have less of it in the first place.
 
 This is why you’ll often see very fast Astrologian gearsets. Crit is usually still the focus, but we leverage quite a lot of spell speed as well to get value out of our generous MP engine. The caveat to this is that if you play with relatively high latency, probably 100+, you may need to test for yourself whether you can effectively utilize certain faster gearsets without your latency causing you to clip your GCD when you single weave on Malefics. Sets as fast as 2.30s or even 2.26s GCDs might be unfeasible depending on your connection, so we will usually try to have competitive options that aren’t quite so fast.
 
-As always, try it out for yourself, and if you’re testing to see if you clip at a certain speed, make sure you test inside an instance. Instance servers are significantly more responsive than overworld servers, and you will likely get noticeably different results between the two.
+As always, try it out for yourself, and **if you’re testing to see if you clip at a certain speed, make sure you test inside an instance.** Instance servers are significantly more responsive than overworld servers, and you will likely get noticeably different results between the two.
 
-Contact Stuff
+--- 
+
+# Contact Stuff
 I’m Zyrkhan Dar’locke on Gilgamesh. You can find me as Zyrk#8529 on The Balance Discord, as an admin and Astrologian mentor, for feedback, questions, comments, etc. Feel free to contact me directly for things relating to the guide, but as always, The Balance Discord is open for gameplay questions, guidance, and discussion.
