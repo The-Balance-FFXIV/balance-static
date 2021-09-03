@@ -43,10 +43,10 @@ Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge whi
 
 | - | - | - | - | 
 | --- | --- | --- | --- |
-| - | Bioblaster | Conal AoE that applies a DoT to enemies. Shares recast with Drill. | 360 Potency GCD (60p upfront + 60p DoT/15s) |
-| - | Spread Shot | Standard conal AoE. | 180 Potency GCD <br> +5 Heat <br>
-| - | Auto Crossbow | Conal AoE. Can only be used while in Hypercharge. GCD recast set to 1.5s. | 180 Potency GCD | 
-| - | Flamethrower | A channeled ability. Deals 100 potency once per second for ten seconds. Moving while channeling the skill will end its duration. Even though it’s an ability, it still resets the GCD timer. | GCD <br> 100p/10s + initial tick <br> Max 1100 potency on all enemies in a cone. |
+| ![Bioblaster](https://i.imgur.com/8sCjrwr.png) | Bioblaster | Conal AoE that applies a DoT to enemies. Shares recast with Drill. | 360 Potency GCD (60p upfront + 60p DoT/15s) |
+| ![Spread shot](https://i.imgur.com/FShMADQ.png) | Spread Shot | Standard conal AoE. | 180 Potency GCD <br> +5 Heat <br>
+| ![Auto Crossbow](https://i.imgur.com/R4QrmeH.png) | Auto Crossbow | Conal AoE. Can only be used while in Hypercharge. GCD recast set to 1.5s. | 180 Potency GCD | 
+| ![Flamethrower](https://i.imgur.com/MbskRdc.png) | Flamethrower | A channeled ability. Deals 100 potency once per second for ten seconds. Moving while channeling the skill will end its duration. Even though it’s an ability, it still resets the GCD timer. | GCD <br> 100p/10s + initial tick <br> Max 1100 potency on all enemies in a cone. |
 
 
 
