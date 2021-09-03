@@ -1,7 +1,7 @@
 ---
 title: Astrologian Guide
 ---
-Note to self;
+Notes;
 - Currently working on formatting the "Opener" section.
    - Opener Flowchart needs graphic
 
