@@ -486,9 +486,9 @@ With the exception of Embrace, all fairy skills should be weaved as if they are 
 
 Having the fairy following the scholar has the potential to lead her out of range of healing the rest of the party for some mechanics. To the best of our knowledge, the fairy heals on a mixed priority system. She seems to prioritize healing the person closest to her, so keeping her placed on the tank is good practice. Health percentage may play a role, but based on testing, it seems the distance of a party member to the fairy is extremely important. Generally, when placed on top of a tank she should be able to heal just about anyone, unless a player is out of range due to a mechanic. Placing her on the tank should make the majority of her embraces go to the Tank. 
 
-You can use this macro to place the fairy on the tank: /pac "Place" <2> <wait.3>
+You can use this macro to place the fairy on the tank: /pac "Place" `<2>` `<wait.3>`
 
-You do not have to weave this, you can use it during your GCDs at no loss. Remember though that the fairy does not heal while moving, so use it cautiously. Adjust the “2” with whatever number in your party list is currently the main tank Or use <t> and select the tank from the party list as you normally would target them to heal. You can also manually place. 
+You do not have to weave this, you can use it during your GCDs at no loss. Remember though that the fairy does not heal while moving, so use it cautiously. Adjust the “2” with whatever number in your party list is currently the main tank Or use `<t>` and select the tank from the party list as you normally would target them to heal. You can also manually place. 
 
 > **DO NOT MACRO FAIRY SKILLS TO YOUR GCDs.**
 
@@ -935,7 +935,7 @@ Since Determination affects healing potency, and Direct Hit does not, many heale
 
 Generally, macros are frowned upon. Macros are not handled well in FFXIV. If you macro your healing/DPS spells they cannot be queued. This means there is an extra delay before the next cast, which will add up to a DPS loss. However, there are a few useful macros that improve quality of life. Repeated lines in macros will improve responsiveness. No macro is mandatory, but they can make life easier.
 
-There are a few different types of Macros. <tt> will target whatever has aggro on what you have selected, “target of target.” <t> will target whatever you have targeted. Mouseover <mo> will go on whatever you are hovering your mouse over.
+There are a few different types of Macros. `<tt>` will target whatever has aggro on what you have selected, “target of target.” `<t>` will target whatever you have targeted. Mouseover `<mo>` will go on whatever you are hovering your mouse over.
 
 Macros are only really used for very niche things, such as mouseover macros for using oGCD heals while not tabbing off the boss. It can also help controller players place ground targeted skills, like Sacred Soil, a bit more quickly.
 
