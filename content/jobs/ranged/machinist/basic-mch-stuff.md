@@ -31,6 +31,12 @@ Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge whi
 | - | Drill | Shares recast timer with Bioblaster. | 700 Potency GCD |
 | - | Reassemble | Ensures next weapon skill is a critical direct hit. | oGCD <br> 55s cooldown |
 | - | Hypercharge | Enables the usage of Heat Blast. Buffs weapon skills used for the next 8s. | oGCD <br> 20 Potency added to all non-pet weapon skills. <br> -50 Heat |
+| - | Heat Blast | Only usable during Hypercharge. GCD timer set to 1.5s when using this skill. Each use reduces the recast timer of Gauss Round and Ricochet. | 220 Potency GCD <br> 15s reduction on both Gauss Round and Ricochet per use. | 
+| - | Air Anchor | 40s GCD. | 700 Potency GCD <br> +20 Battery |
+| - | Ricochet | Flexible AoE oGCD. Can hold a max of three charges. | 150 Potency oGCD with fall off damage after the first enemy | 
+| - | Gauss Round | Flexible single target oGCD. Can hold a max of three charges. | 150 Potency oGCD | 
+| - | Wildfire | Places a debuff on a single enemy that deals 200 potency per weapon skill.  Detonates after 10s. <br> Two minute cooldown. | oGCD <br> When paired with a Hypercharge window, it allows for six weapon skills inside the 10s buff timer. <br> 1200 Potency | 
+| - | Barrel Stabilizer | Generates 50 heat. <br> Two minute cooldown. | oGCD <br> +50 Heat |
 
 
 ## AoE Actions
