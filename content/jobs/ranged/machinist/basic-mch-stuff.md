@@ -31,44 +31,70 @@ Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge whi
 | ![Drill](https://i.imgur.com/ADsMPA4.png) | Drill | Shares recast timer with Bioblaster. | 700 Potency GCD |
 | ![Reassemble](https://i.imgur.com/gd8sg4A.png) | Reassemble | Ensures next weapon skill is a critical direct hit. | oGCD <br> 55s cooldown |
 | ![Hypercharge](https://i.imgur.com/RIyPuHs.png) | Hypercharge | Enables the usage of Heat Blast. Buffs weapon skills used for the next 8s. | oGCD <br> 20 Potency added to all non-pet weapon skills. <br> -50 Heat |
-| - | Heat Blast | Only usable during Hypercharge. GCD timer set to 1.5s when using this skill. Each use reduces the recast timer of Gauss Round and Ricochet. | 220 Potency GCD <br> 15s reduction on both Gauss Round and Ricochet per use. | 
-| - | Air Anchor | 40s GCD. | 700 Potency GCD <br> +20 Battery |
-| - | Ricochet | Flexible AoE oGCD. Can hold a max of three charges. | 150 Potency oGCD with fall off damage after the first enemy | 
-| - | Gauss Round | Flexible single target oGCD. Can hold a max of three charges. | 150 Potency oGCD | 
-| - | Wildfire | Places a debuff on a single enemy that deals 200 potency per weapon skill.  Detonates after 10s. <br> Two minute cooldown. | oGCD <br> When paired with a Hypercharge window, it allows for six weapon skills inside the 10s buff timer. <br> 1200 Potency | 
-| - | Barrel Stabilizer | Generates 50 heat. <br> Two minute cooldown. | oGCD <br> +50 Heat |
+| ![Heat Blast](https://i.imgur.com/ne8MkbK.png) | Heat Blast | Only usable during Hypercharge. GCD timer set to 1.5s when using this skill. Each use reduces the recast timer of Gauss Round and Ricochet. | 220 Potency GCD <br> 15s reduction on both Gauss Round and Ricochet per use. | 
+| ![Air Anchor](https://i.imgur.com/xfoo577.png) | Air Anchor | 40s GCD. | 700 Potency GCD <br> +20 Battery |
+| ![Ricochet](https://i.imgur.com/aZ3IDCA.png) | Ricochet | Flexible AoE oGCD. Can hold a max of three charges. | 150 Potency oGCD with fall off damage after the first enemy | 
+| ![Gauss Round](https://i.imgur.com/dgWfKkf.png) | Gauss Round | Flexible single target oGCD. Can hold a max of three charges. | 150 Potency oGCD | 
+| ![Wildfire](https://i.imgur.com/qHKWbfX.png) | Wildfire | Places a debuff on a single enemy that deals 200 potency per weapon skill.  Detonates after 10s. <br> Two minute cooldown. | oGCD <br> When paired with a Hypercharge window, it allows for six weapon skills inside the 10s buff timer. <br> 1200 Potency | 
+| ![Barrell Stabilizer](https://i.imgur.com/0Ue2ejN.png) | Barrel Stabilizer | Generates 50 heat. <br> Two minute cooldown. | oGCD <br> +50 Heat |
 
 
 ## AoE Actions
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+| - | - | - | - | 
+| --- | --- | --- | --- |
+| - | Bioblaster | Conal AoE that applies a DoT to enemies. Shares recast with Drill. | 360 Potency GCD (60p upfront + 60p DoT/15s) |
+| - | Spread Shot | Standard conal AoE. | 180 Potency GCD <br> +5 Heat <br>
+| - | Auto Crossbow | Conal AoE. Can only be used while in Hypercharge. GCD recast set to 1.5s. | 180 Potency GCD | 
+| - | Flamethrower | A channeled ability. Deals 100 potency once per second for ten seconds. Moving while channeling the skill will end its duration. Even though it’s an ability, it still resets the GCD timer. | GCD <br> 100p/10s + initial tick <br> Max 1100 potency on all enemies in a cone. |
+
+
 
 ## Pet Actions
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+| - | - | - | - | 
+| --- | --- | --- | --- | 
+| - | Automaton Queen | Summons your robot. While active, Queen will deal damage in the form of Arm Punch, Roller Dash and Pilebunker. Timer is based on Battery gauge. | oGCD <br> Minimum 1150 Potency <br> Maximum 2300 Potency | 
+| - | Automaton Overdrive | Commands Automaton Queen to perform Pile Bunker before Battery timer reaches zero. | oGCD <br> Variable damage based on Battery Gauge. | 
+| - | Arm Punch | Melee distance GCD used by Queen Automaton. 1.5s recast. | Pet GCD <br> 150 Potency | 
+| - | Roller Dash | Gap closer used by Queen Automaton. 3s recast. | Pet GCD <br> 300 Potency | 
+| - | Pilebunker | Queen Automaton’s finisher. | Pet GCD <br> Variable damage based on Battery Gauge. | 
+
+
 
 ## Role Abilities/Support
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+Tactician
+
+Reduces damage taken by you and all party members. Two minute recast.
+10% damage reduction for 15s. Cannot be stacked with Troubadour or Shield Samba.
+Leg Graze
+
+Can be resisted by enemies. 30s recast.
+40% Heavy for 10s.
+
+
+Foot Graze
+
+Can be resisted by enemies. 30s recast.
+Bind for 10s.
+Head Graze
+
+Only interrupts cast bars that are “blinking”. 30s recast.
+Cast Interruption.
+Second Wind
+
+Restores own HP. Two minute recast.
+500 Potency
+Arm’s Length 
+
+Nullifies most knockback or draw-in effects. Two minute recast.
+20% slow if attacked by physical damage.
+Peloton
+
+Can not be used in combat. Increases movement speed for self and all party members.
+Ends if you enter combat.
+
 
 <!--EndFragment-->
 
