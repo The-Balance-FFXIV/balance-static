@@ -8,6 +8,8 @@ title: White Mage Guide
 - Unsure what to do with regards to tooltips
    - Have added screenshots of tooltips to show how the guide was intended; not sure if I should continue with screenshots, or if the API can be pulled directly? (I have 0 API experience!)
 
+Source info: https://saltedxiv.com/guides/whm
+
 --- 
 
 - [First and Foremost](#first-and-foremost)
