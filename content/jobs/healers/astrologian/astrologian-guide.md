@@ -1,6 +1,12 @@
 ---
 title: Astrologian Guide
 ---
+Note to self;
+- Currently working on formatting the "Opener" section.
+   - Opener Flowchart needs graphic
+
+--- 
+
 # Intro to Astrologian
 
 ## Who Needs MP When You’re This Pretty?
