@@ -54,11 +54,11 @@ Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge whi
 
 | - | - | - | - | 
 | --- | --- | --- | --- | 
-| - | Automaton Queen | Summons your robot. While active, Queen will deal damage in the form of Arm Punch, Roller Dash and Pilebunker. Timer is based on Battery gauge. | oGCD <br> Minimum 1150 Potency <br> Maximum 2300 Potency | 
-| - | Automaton Overdrive | Commands Automaton Queen to perform Pile Bunker before Battery timer reaches zero. | oGCD <br> Variable damage based on Battery Gauge. | 
-| - | Arm Punch | Melee distance GCD used by Queen Automaton. 1.5s recast. | Pet GCD <br> 150 Potency | 
-| - | Roller Dash | Gap closer used by Queen Automaton. 3s recast. | Pet GCD <br> 300 Potency | 
-| - | Pilebunker | Queen Automaton’s finisher. | Pet GCD <br> Variable damage based on Battery Gauge. | 
+| ![Automaton Queen](https://i.imgur.com/tOCiffb.png) | Automaton Queen | Summons your robot. While active, Queen will deal damage in the form of Arm Punch, Roller Dash and Pilebunker. Timer is based on Battery gauge. | oGCD <br> Minimum 1150 Potency <br> Maximum 2300 Potency | 
+| ![Automaton Overdrive](https://i.imgur.com/FQEtUTM.png) | Automaton Overdrive | Commands Automaton Queen to perform Pile Bunker before Battery timer reaches zero. | oGCD <br> Variable damage based on Battery Gauge. | 
+| ![Arm Punch](https://i.imgur.com/sc2e0WC.png) | Arm Punch | Melee distance GCD used by Queen Automaton. 1.5s recast. | Pet GCD <br> 150 Potency | 
+| ![Roller Dash](https://i.imgur.com/HnfT5qg.png) | Roller Dash | Gap closer used by Queen Automaton. 3s recast. | Pet GCD <br> 300 Potency | 
+| ![Pile Bunker](https://i.imgur.com/1c1y102.png) | Pile Bunker | Queen Automaton’s finisher. | Pet GCD <br> Variable damage based on Battery Gauge. | 
 
 
 
