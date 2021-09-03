@@ -21,20 +21,17 @@ Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge whi
 
 <!--StartFragment-->
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
+## Single Target Rotation
+
+| Icon | Ability | - | - |
+| --- | --- | --- | --- | 
+| - | Heated Split Shot | The first skill in your main combo. | 220 Potency GCD <br> +5 Heat |
+| - | Heated Slug Shot | The second skill in your main combo. | 330 Combo Potency GCD <br> +5 Heat |
+| - | Heated Clean Shot | The final skill in your main combo. | 440 Combo Potency GCD <br> +5 Heat <br> +10 Battery |
+| - | Drill | Shares recast timer with Bioblaster. | 700 Potency GCD |
+| - | Reassemble | Ensures next weapon skill is a critical direct hit. | oGCD <br> 55s cooldown |
+| - | Hypercharge | Enables the usage of Heat Blast. Buffs weapon skills used for the next 8s. | oGCD <br> 20 Potency added to all non-pet weapon skills. <br> -50 Heat |
+
 
 ## AoE Actions
 
