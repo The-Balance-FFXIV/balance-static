@@ -23,7 +23,7 @@ Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge whi
 
 ## Single Target Rotation
 
-| Icon | Ability | - | - |
+|  |  |  |  |
 | --- | --- | --- | --- | 
 | ![Heated Split Shot](https://i.imgur.com/E2ex2Mk.png) | Heated Split Shot | The first skill in your main combo. | 220 Potency GCD <br> +5 Heat |
 | ![Heated Slug Shot](https://i.imgur.com/mK8LIWB.png) | Heated Slug Shot | The second skill in your main combo. | 330 Combo Potency GCD <br> +5 Heat |
@@ -41,7 +41,7 @@ Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge whi
 
 ## AoE Actions
 
-| - | - | - | - | 
+|  |  |  |  | 
 | --- | --- | --- | --- |
 | ![Bioblaster](https://i.imgur.com/8sCjrwr.png) | Bioblaster | Conal AoE that applies a DoT to enemies. Shares recast with Drill. | 360 Potency GCD (60p upfront + 60p DoT/15s) |
 | ![Spread shot](https://i.imgur.com/FShMADQ.png) | Spread Shot | Standard conal AoE. | 180 Potency GCD <br> +5 Heat <br>
@@ -52,7 +52,7 @@ Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge whi
 
 ## Pet Actions
 
-| - | - | - | - | 
+|  |  |  |  | 
 | --- | --- | --- | --- | 
 | ![Automaton Queen](https://i.imgur.com/tOCiffb.png) | Automaton Queen | Summons your robot. While active, Queen will deal damage in the form of Arm Punch, Roller Dash and Pilebunker. Timer is based on Battery gauge. | oGCD <br> Minimum 1150 Potency <br> Maximum 2300 Potency | 
 | ![Automaton Overdrive](https://i.imgur.com/FQEtUTM.png) | Automaton Overdrive | Commands Automaton Queen to perform Pile Bunker before Battery timer reaches zero. | oGCD <br> Variable damage based on Battery Gauge. | 
@@ -64,17 +64,15 @@ Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge whi
 
 ## Role Abilities/Support
 
-| - | - | - | - |
+|  |  |  |  |
 | --- | --- | --- | --- |
-| - | Tactician | Reduces damage taken by you and all party members. Two minute recast. | 10% damage reduction for 15s. Cannot be stacked with Troubadour or Shield Samba. | 
-| - | Leg Graze | Can be resisted by enemies. 30s recast. | 40% Heavy for 10s. | 
-
-
-| - | Foot Graze | Can be resisted by enemies. 30s recast. | Bind for 10s. | 
-| - | Head Graze | Only interrupts cast bars that are “blinking”. 30s recast. | Cast Interruption. | 
-| - | Second Wind | Restores own HP. Two minute recast. | 500 Potency | 
-| - | Arm’s Length | Nullifies most knockback or draw-in effects. Two minute recast. | 20% slow if attacked by physical damage. | 
-| - | Peloton | Can not be used in combat. Increases movement speed for self and all party members. | Ends if you enter combat. | 
+| ![Tactician](https://i.imgur.com/8Ss9E1g.png) | Tactician | Reduces damage taken by you and all party members. Two minute recast. | 10% damage reduction for 15s. Cannot be stacked with Troubadour or Shield Samba. | 
+| ![Leg Graze](https://i.imgur.com/SYg1Q1Z.png) | Leg Graze | Can be resisted by enemies. 30s recast. | 40% Heavy for 10s. | 
+| ![Foot Graze](https://i.imgur.com/3hHvY0j.png) | Foot Graze | Can be resisted by enemies. 30s recast. | Bind for 10s. | 
+| ![Head Graze](https://i.imgur.com/tZfCWJ3.png) | Head Graze | Only interrupts cast bars that are “blinking”. 30s recast. | Cast Interruption. | 
+| ![Second Wind](https://i.imgur.com/YuAmy9n.png) | Second Wind | Restores own HP. Two minute recast. | 500 Potency | 
+| ![Arm's Length](https://i.imgur.com/ButTAZk.png) | Arm’s Length | Nullifies most knockback or draw-in effects. Two minute recast. | 20% slow if attacked by physical damage. | 
+| ![Peloton](https://i.imgur.com/bEQe3Og.png) | Peloton | Can not be used in combat. Increases movement speed for self and all party members. | Ends if you enter combat. | 
 
 
 <!--EndFragment-->
