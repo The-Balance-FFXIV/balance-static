@@ -1,6 +1,8 @@
 ---
 title: White Mage Guide
 ---
+Notes;
+- 1-1 port from guide linked in #whm_resources
 - Basic formatting has been done
 - Images need to be added for Opener section 
 - Unsure what to do with regards to tooltips
