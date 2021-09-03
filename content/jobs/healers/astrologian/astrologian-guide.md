@@ -2,8 +2,9 @@
 title: Astrologian Guide
 ---
 Notes;
- - Opener Flowchart needs a graphic
- - Source info: https://docs.google.com/document/d/1DtB6WBzufUTEG5-ManJ9wYUsawgvcUQgkN6bGjFsq6o/edit#
+- 1-1 port from guide linked in #ast_resources
+- Opener Flowchart needs a graphic
+- Source info: https://docs.google.com/document/d/1DtB6WBzufUTEG5-ManJ9wYUsawgvcUQgkN6bGjFsq6o/edit#
 
 --- 
 
