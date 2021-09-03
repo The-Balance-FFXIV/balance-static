@@ -144,8 +144,8 @@ Deals water damage with a potency of 600. In addition this grants the effect of 
 
 Deals fire damage with a potency of 750 to target and any other enemies nearby the target. This does damage to all targets in a 5 yalm radius around the target. This is achieved by any 2-mudra combination that ends with Ten. So Chi>Ten or Jin>Ten. Has a range of 15 yalms. In addition, this is only usable under the effects of Kassatsu and is a replacement for Katon when under the effects of Kassatsu. Because of the boost from Kassatsu, the true potency is 975.
 
-![HyoshoRanryu](/img/jobs/melee/ninja/Hosho_Ranryu.png)
-**Hyoso Ranryu**
+![HyoshoRanryu](/img/jobs/melee/ninja/Hyosho_Ranryu.png)
+**Hyosho Ranryu**
 
 Deals ice damage with a potency of 1200. This is achieved with any 2-mudra combination that ends with Jin. So Ten>Jin or Chi>Jin. Has a range of 25 yalms. In addition, this is only usable under the effects of Kassatsu and is a replacement for Hyoton when under the effects of Kassatsu.Because of the boost from Kassatsu, the true potency is 1560.
 
