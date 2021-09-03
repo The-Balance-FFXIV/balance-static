@@ -2,7 +2,7 @@
 title: Astrologian Guide
 ---
 Notes;
- - Opener Flowchart needs graphic
+ - Opener Flowchart needs a graphic
  - Source info: https://docs.google.com/document/d/1DtB6WBzufUTEG5-ManJ9wYUsawgvcUQgkN6bGjFsq6o/edit#
 
 --- 
