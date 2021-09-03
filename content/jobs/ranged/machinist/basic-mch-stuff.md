@@ -64,36 +64,17 @@ Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge whi
 
 ## Role Abilities/Support
 
-Tactician
-
-Reduces damage taken by you and all party members. Two minute recast.
-10% damage reduction for 15s. Cannot be stacked with Troubadour or Shield Samba.
-Leg Graze
-
-Can be resisted by enemies. 30s recast.
-40% Heavy for 10s.
+| - | - | - | - |
+| --- | --- | --- | --- |
+| - | Tactician | Reduces damage taken by you and all party members. Two minute recast. | 10% damage reduction for 15s. Cannot be stacked with Troubadour or Shield Samba. | 
+| - | Leg Graze | Can be resisted by enemies. 30s recast. | 40% Heavy for 10s. | 
 
 
-Foot Graze
-
-Can be resisted by enemies. 30s recast.
-Bind for 10s.
-Head Graze
-
-Only interrupts cast bars that are “blinking”. 30s recast.
-Cast Interruption.
-Second Wind
-
-Restores own HP. Two minute recast.
-500 Potency
-Arm’s Length 
-
-Nullifies most knockback or draw-in effects. Two minute recast.
-20% slow if attacked by physical damage.
-Peloton
-
-Can not be used in combat. Increases movement speed for self and all party members.
-Ends if you enter combat.
+| - | Foot Graze | Can be resisted by enemies. 30s recast. | Bind for 10s. | 
+| - | Head Graze | Only interrupts cast bars that are “blinking”. 30s recast. | Cast Interruption. | 
+| - | Second Wind | Restores own HP. Two minute recast. | 500 Potency | 
+| - | Arm’s Length | Nullifies most knockback or draw-in effects. Two minute recast. | 20% slow if attacked by physical damage. | 
+| - | Peloton | Can not be used in combat. Increases movement speed for self and all party members. | Ends if you enter combat. | 
 
 
 <!--EndFragment-->
