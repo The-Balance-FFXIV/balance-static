@@ -2,7 +2,7 @@
 title: Zyrk's Bullshit Guide to the Principles of Healing
 ---
 Notes; 
-- Current progress: Table of Contents
+- Current progress: Table of Contents / An Overview of Stats
 - Source info: https://docs.google.com/document/d/1yoq1zU2VgMJQ53PaJHaUtwA3S2aSz1C69qkLDaOmZY8/edit#
 
 --- 
@@ -648,16 +648,25 @@ This is the setting where most of the optimization and efficiency concerns truly
 This is where the hardcore optimization happens. This type of party is where you truly test the boundaries of playing efficiently “within reason.” This is where you find out exactly how little healing you can get away with. This is where you probably wipe a lot to testing the bare minimum healing required. If farm parties are where you play efficiently within reason, speedkill parties are where you play downright risky. Because it doesn’t really matter how many times you fail. You only have to succeed once.
 
 I encourage people who are skeptical of how little healing is actually required to examine speedkill logs and videos. Many of the fastest kills on FFLogs for any given fight will have a single digit number of GCD heals cast between both healers combined, sometimes even zero on low damage fights. These parties are where you push everything to their absolute limits. Razor thin HP margins, zero room for mistakes.
-An Overview of Stats
-TL;DR - Secondaries make a really small difference for healers compared to how drastically even small changes in your play can affect your output. Don’t sweat them too much if you’re not into it or if you just have a personal preference for one stat. It barely matters at all.
 
-To preface this section, I’d like to explain that secondary stats on healers make such a small difference in your overall output that you would have to intentionally choose the worst possible secondary stat spread in order to measure a significant difference when compared to a well thought out BiS (Best in Slot). We’re talking a few percent difference at most, assuming similar amounts of piety between sets. A small enough difference that it’s massively eclipsed by much more important areas for optimization, namely playing better.
+--- 
+
+# An Overview of Stats
+
+*TL;DR - Secondaries make a **really** small difference for healers compared to how drastically even small changes in your play can affect your output. Don’t sweat them too much if you’re not into it or if you just have a personal preference for one stat. It barely matters at all.*
+
+
+To preface this section, I’d like to explain that secondary stats on healers make such a small difference in your overall output that you would have to intentionally choose the worst possible secondary stat spread in order to measure a significant difference when compared to a well thought out **BiS** (**B**est **i**n **S**lot). We’re talking a few percent difference at most, assuming similar amounts of piety between sets. A small enough difference that it’s massively eclipsed by much more important areas for optimization, namely playing better.
 
 If you would like to directly compare gearsets and gear swaps, the Relative Damage Calculator spreadsheets can be used to make direct comparisons of your expected output with different stats (these are the main sheets used for healers on The Balance, and they’re updated every patch):
 
-		AST				WHM				SCH
-Magic Damage and Main Stat
-TL;DR - Your weapon and main stat are, like, really important. Sometimes, gaining a large amount of secondaries can make a lower ilvl piece better than a higher ilvl piece with very poor secondaries (usually excess piety).
+- AST
+- WHM
+- SCH
+
+## Magic Damage and Main Stat
+
+*TL;DR - Your weapon and main stat are, like, really important. Sometimes, gaining a large amount of secondaries can make a lower ilvl piece better than a higher ilvl piece with very poor secondaries (usually excess piety).*
 
 The absolute most important factors for your output as a healer are the Magic Damage on your weapon, and your main stat, Mind (MND). Magic Damage far outweighs MND, and MND outweighs secondaries. This means that the weapon upgrade almost always outweighs any other upgrade, unless it’s a small jump in ilvl on the weapon compared to a very large jump in ilvl on another large piece like the chest or pants. It’s also possible that a lower ilvl weapon could potentially be better than a higher ilvl weapon with 1 more Magic Damage, if the lower ilvl weapon in question did not have piety, and the higher ilvl weapon did have piety. If you were looking to drop piety and couldn’t drop it from any other piece of gear, it might theoretically be worth using the lower ilvl weapon.
 
