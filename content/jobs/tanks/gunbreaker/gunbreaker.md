@@ -35,7 +35,7 @@ title: Gunbreaker guide
 
 # Introduction to Gunbreaker
 
-Gunbreaker (GNB) is the 4th tank added to Final Fantasy XIV in the Shadowbringers expansion. It features high damage output and high casts-per-minute. GNB also features a strong defensive kit that, when used properly, can bring a lot of mitigation to the table. Let’s get started with a brief overview of the skills and abilities available to GNB.
+Gunbreaker (GNB) is the fourth tank added to Final Fantasy XIV in the Shadowbringers expansion. It features high damage output and high casts-per-minute. GNB also features a strong defensive kit that, when used properly, can bring a lot of mitigation to the table. Let’s get started with a brief overview of the skills and abilities available to GNB.
 
 ## Author
 
@@ -58,17 +58,17 @@ The second skill of our basic combo. 300 potency when used after Keen Edge. Heal
 ![SolidBarrel](/img/jobs/tanks/gunbreaker/Solid_Barrel.png)
 **Solid Barrel**
 
-The final skill of our basic combo. 400 potency when used after Brutal Shell. Generates 1 Cartridge in the Powder Gauge. 
+The final skill of our basic combo. 400 potency when used after Brutal Shell. Generates one Cartridge in the Powder Gauge. 
 
 ![BurstStrike](/img/jobs/tanks/gunbreaker/Burst_Strike.png)
 **Burst Strike**
 
-500 potency attack that consumes 1 Cartridge.
+500 potency attack that consumes one Cartridge.
 
 ![GnashingFang](/img/jobs/tanks/gunbreaker/Gnashing_Fang.png)
 **Gnashing Fang**
 
-450 potency attack that consumes 1 Cartridge. 30 second base cooldown that is reduced by skill speed (discussed later). Triggers Ready To Rip.
+450 potency attack that consumes one Cartridge. 30 second base cooldown that is reduced by skill speed (discussed later). Triggers Ready To Rip.
 
 ![SavageClaw](/img/jobs/tanks/gunbreaker/Savage_Claw.png)
 **Savage Claw**
@@ -103,7 +103,7 @@ Second skill of our AoE combo. 250 potency to all targets in a 5y circle around 
 ![FatedCircle](/img/jobs/tanks/gunbreaker/Fated_Circle.png)
 **Fated Circle**
 
-Consumes 1 Cartridge. 320 potency to all targets in a 5y circle around you. 
+Consumes one Cartridge. 320 potency to all targets in a 5y circle around you. 
 
 ## Offensive Off Global Cooldown Abilities
 
@@ -177,7 +177,7 @@ Reduces damage taken by 30% for 15 seconds. 120 second cooldown.
 ![HeartOfStone](/img/jobs/tanks/gunbreaker/Heart_of_Stone.png)
 **Heart of Stone**
 
-Reduces damage taken by 15% for 7 seconds. Can be used on self or a target party member in a 30y range. If used on a party member, any existing Brutal Shell shield will be copied onto them. \[i.e. if you have 4000 shield from Brutal Shell when you use it on them, they now have 4000 shield as well.]
+Reduces damage taken by 15% for seven seconds. Can be used on self or a target party member in a 30y range. If used on a party member, any existing Brutal Shell shield will be copied onto them. (i.e. if you have 4000 shield from Brutal Shell when you use it on them, they now have 4000 shield as well.)
 
 ![Superbolide](/img/jobs/tanks/gunbreaker/Superbolide.png)
 **Superbolide**
@@ -209,7 +209,7 @@ Role action. Reduces damage dealt by all enemies in a 5y circle around you by 10
 ![LowBlow](/img/jobs/tanks/gunbreaker/Low_Blow.png)
 **Low Blow**
 
-Role action. Stuns a target for 5 seconds. Enemies that get stunned repeatedly will develop stun immunity. 25s cooldown.
+Role action. Stuns a target for five seconds. Enemies that get stunned repeatedly will develop stun immunity. 25s cooldown.
 
 ![Interject](/img/jobs/tanks/gunbreaker/Interject.png)
 **Interject**
@@ -233,7 +233,7 @@ Role action. Transfers 25% of your enmity to a target party member. This effect 
 
 # Combos
 
-GNB has 3 combos. The **Solid Barrel** combo, **Demon Slaughter** combo, and **Gnashing Fang** combo. 
+GNB has three combos. The **Solid Barrel** combo, **Demon Slaughter** combo, and **Gnashing Fang** combo. 
 
 ![SolidBarrelCombo](/img/jobs/tanks/gunbreaker/Solid_Barrel_Combo.png)
 
@@ -243,13 +243,13 @@ If you are unfamiliar with combo based classes in FFXIV, the game has a handy sy
 
 **Keen Edge -> Brutal Shell -> Solid Barrel**
 
-Solid Barrel combo is our single target combo. Builds 1 Cartridge.
+Solid Barrel combo is our single target combo. Builds one Cartridge.
 
 ![DemonSlice](/img/jobs/tanks/gunbreaker/Demon_Slice.png)![DemonSlaughter](/img/jobs/tanks/gunbreaker/Demon_Slaughter.png)
 
 **Demon Slice -> Demon Slaughter**
 
-Demon Slaughter combo is our 2+ target AoE combo. Builds 1 Cartridge.
+Demon Slaughter combo is our 2+ target AoE combo. Builds one Cartridge.
 We will talk about when to use Solid Barrel combo vs Demon Slaughter combo in the next section. 
 
 ![GnashingFangCombo](/img/jobs/tanks/gunbreaker/Gnashing_Fang_Combo.png)
@@ -275,7 +275,7 @@ The following images are a visual representation of the previous paragraph, made
 
 This section will only talk about AoE vs Single Target at level 80. If you are not yet level 80, use the faq command “!faq gnblvl” in #bot_spam for a breakdown of what you should do at each level bracket. 
 
-For 1 target present, we use **Solid Barrel** combo and **Burst Strike**.
+For one target present, we use **Solid Barrel** combo and **Burst Strike**.
 For 2+ targets: **Demon Slaughter** combo and **Fated Circle**.
 
 Continue to use the **Gnashing Fang** combo on cooldown until there are 4+ targets. At 4+ you should ignore the **Gnashing Fang** combo and only use the **Demon Slaughter** combo and **Fated Circle**. 
@@ -284,7 +284,7 @@ Use **No Mercy** on cooldown regardless of how many targets you have. Whether or
 
 ## No Mercy Windows
 
-Always try to enter **No Mercy** with 2 Cartridges ready when possible. At any normal skill speed, there should always be 9 GCDs within the **No Mercy** buff. These buff windows should look similar to the opener and should always contain the following skills:
+Always try to enter **No Mercy** with two Cartridges ready when possible. At any normal skill speed, there should always be nine GCDs within the **No Mercy** buff. These buff windows should look similar to the opener and should always contain the following skills:
 
 GCDs:
 
@@ -300,36 +300,36 @@ oGCDs:
 * **2 Rough Divides**
 * **Jugular Rip, Abdomen Tear, Eye Gouge**
 
-When **Bloodfest** is ready inside **No Mercy**, it creates an opportunity for a stronger burst window that will occur every 3 minutes, allowing for 3 or 4 **Burst Strikes** instead of only 2. Since we get more **Burst Strikes**, but we can only fit 9 GCDs under the buff still, we have 1 or 2 fewer **Solid Barrel** combo GCDs compared to a regular **No Mercy** window. This means the following skills are in No Mercy when **Bloodfest** is ready:
+When **Bloodfest** is ready inside **No Mercy**, it creates an opportunity for a stronger burst window that will occur every three minutes, allowing for three or four **Burst Strikes** instead of only two. Since we get more **Burst Strikes**, but we can only fit nine GCDs under the buff still, we have one or two fewer **Solid Barrel** combo GCDs compared to a regular **No Mercy** window. This means the following skills are in No Mercy when **Bloodfest** is ready:
 
 GCDs:
 Sonic Break
 
 * **Gnashing Fang, Savage Claw, Wicked Talon**
-* 2 **Solid Barrel** combo GCDs and 3 **Burst Strikes** OR
-* 1 **Solid Barrel** combo GCDs and 4 **Burst Strikes**
+* **Two** **Solid Barrel** combo GCDs and three **Burst Strikes** OR
+* One **Solid Barrel** combo GCDs and four **Burst Strikes**
 
 oGCDs:
 
 * **Blasting Zone**
 * **Bow Shock**
-* **2 Rough Divides**
+* **Two Rough Divides**
 * **Jugular Rip, Abdomen Tear, Eye Gouge**
 * **Bloodfest**
 
-Getting 4 **Burst Strikes** in **No Mercy** is only possible if **No Mercy** is ready after **Brutal Shell**, and you already have 2 Cartridges ready to go. Do not hold **No Mercy** until after **Brutal Shell** to force a 4 **Burst Strike** **No Mercy** window! Doing so will cause you to misalign from raid buffs, which over time will be a much bigger loss than the gain of getting 4 **Burst Strikes** instead of 3. 
+Getting four **Burst Strikes** in **No Mercy** is only possible if **No Mercy** is ready after **Brutal Shell**, and you already have two Cartridges ready to go. Do not hold **No Mercy** until after **Brutal Shell** to force a four **Burst Strike** **No Mercy** window! Doing so will cause you to misalign from raid buffs, which over time will be a much bigger loss than the gain of getting four **Burst Strikes** instead of three. 
 
-If you are unable to fit 9 GCDs in **No Mercy**, make sure that you are pressing **No Mercy** at approximately ⅔’s of the way into the GCD clock as shown here:
+If you are unable to fit nine GCDs in **No Mercy**, make sure that you are pressing **No Mercy** at approximately ⅔’s of the way into the GCD clock as shown here:
 
 ![SolidBarrelCombo](/img/jobs/tanks/gunbreaker/Solid_Barrel_Combo.png)
 
 ## Bloodfest
 
-**Bloodfest** should not be held for the next **No Mercy** window. Because it has a cooldown of 90s and **No Mercy** has a cooldown of 60s, **Bloodfest** will naturally be inside **No Mercy** every 3 minutes. As **Bloodfest**’s cooldown is getting close to finishing, spend Cartridges to avoid delaying **Bloodfest** or overcapping on Cartridges. 
+**Bloodfest** should not be held for the next **No Mercy** window. Because it has a cooldown of 90s and **No Mercy** has a cooldown of 60s, **Bloodfest** will naturally be inside **No Mercy** every three minutes. As **Bloodfest**’s cooldown is getting close to finishing, spend Cartridges to avoid delaying **Bloodfest** or overcapping on Cartridges. 
 
 ## Cartridge Usage
 
-Cartridges should generally not be used outside of **No Mercy** unless they are being used for **Gnashing Fang**, if you would otherwise overcap on Cartridges, or fight specific optimizations such as hitting multiple targets with **Fated Circle**. Doing this helps to ensure that **No Mercy** is entered with 2 Cartridges ready. 
+Cartridges should generally not be used outside of **No Mercy** unless they are being used for **Gnashing Fang**, if you would otherwise overcap on Cartridges, or fight specific optimizations such as hitting multiple targets with **Fated Circle**. Doing this helps to ensure that **No Mercy** is entered with two Cartridges ready. 
 
 # Openers
 
@@ -349,7 +349,7 @@ Because openers will change tier-to-tier and fight-to-fight, please refer to the
 
 ## Priority System
 
-Previous GNB guides have thought of the rotation in terms of a 60s/3minute loop. In practice, the GNB rotation is much less a loop and more of a priority system. GNB is more accurately an “if X is ready, do X, else do Y” class. Therefore, after the opener the rotation priority is as follows (with one caveat, mentioned following the priority list):
+Previous GNB guides have thought of the rotation in terms of a 60s/three minute loop. In practice, the GNB rotation is much less a loop and more of a priority system. GNB is more accurately an “if X is ready, do X, else do Y” class. Therefore, after the opener the rotation priority is as follows (with one caveat, mentioned following the priority list):
 
 1. Use **No Mercy** on cooldown.
 2. Use **Gnashing Fang**, **Sonic Break**, **Blasting Zone**, **Bow Shock**, **Bloodfest** on cooldown. 
@@ -358,7 +358,7 @@ Previous GNB guides have thought of the rotation in terms of a 60s/3minute loop.
 5. Outside of **No Mercy**, only spend Cartridges on **Gnashing Fang** or if you would otherwise overcap on Cartridges.
 6. Use **Solid Barrel** combo on 1 target, **Demon Slaughter** combo on 2+ targets if nothing higher on the priority is available. 
 
-* Since **Gnashing Fang** and **Sonic Break** have their cooldown reduced by skill speed, we need to delay them by 1 GCD every minute by adding a filler GCD. Otherwise they will end up being before No Mercy which is a significant loss. 
+* Since **Gnashing Fang** and **Sonic Break** have their cooldown reduced by skill speed, we need to delay them by one GCD every minute by adding a filler GCD. Otherwise they will end up being before No Mercy which is a significant loss. 
 
 Because GNB is more of a priority system than a strict rotation, the rotation is very flexible and can be adjusted to the needs of the encounter and group composition.
 
@@ -441,11 +441,11 @@ Embolden (Red Mage)
 
 Increases physical damage dealt by 10/8/6/4/2% for 20s. Starts at 10% and decreases by 2% every 4s. 120s cooldown.
 
-GNB has a damage toolkit that is very well suited for aligning with most raid buffs. With a 1 minute burst cycle, our **No Mercy** window should fit cleanly into every use of every non-**Brotherhood** raid buff, assuming that buffs aren’t being drifted due to player error or downtime/phase transitions. 
+GNB has a damage toolkit that is very well suited for aligning with most raid buffs. With a one minute burst cycle, our **No Mercy** window should fit cleanly into every use of every non-**Brotherhood** raid buff, assuming that buffs aren’t being drifted due to player error or downtime/phase transitions. 
 
 Because our toolkit is extremely flexible, we should change the order of our skills based on what buff composition we have. For example, if Red Mage is present, we try to put **Sonic Break**, **Blasting Zone**, and **Bow Shock** under the maximum **Embolden**. Because raid buffs interact multiplicatively and not additively, we also try to get our strongest abilities under the maximum number of raid buffs active at the same time, and should carefully consider how to fit our biggest potency skills into the most raid buffs. 
 
-Because **Brotherhood** is on a 90s cycle, only every other one will align with our **No Mercy** windows. However, we should still aim to use the **Gnashing Fang** combo, **Blasting Zone**, and **Burst Strike** under **Brotherhood**. Since **Brotherhood** and **Bloodfest** are the same cooldown, we can use **Bloodfest** to get 2 **Burst Strikes** in **Brotherhood**, while still having 2 Cartridges ready for the next **No Mercy** window. 
+Because **Brotherhood** is on a 90s cycle, only every other one will align with our **No Mercy** windows. However, we should still aim to use the **Gnashing Fang** combo, **Blasting Zone**, and **Burst Strike** under **Brotherhood**. Since **Brotherhood** and **Bloodfest** are the same cooldown, we can use **Bloodfest** to get two **Burst Strikes** in **Brotherhood**, while still having two Cartridges ready for the next **No Mercy** window. 
 
 With this said, we do not hold our abilities for long amounts of time to compensate for a player not using their raid buff on time. This can cause us to misalign from the rest of the raid buffs, or cause us to lose uses of our skills. Some fights require us to think critically about whether or not we use skills outside of raid buffs in order to get more uses or DoT ticks. In general, more uses or DoT ticks are worth more than getting something under raid buffs, but this is going to be a fight-specific optimization to look at and will depend strongly on what raid buffs your group has.
 
