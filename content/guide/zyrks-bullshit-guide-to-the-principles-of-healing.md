@@ -93,9 +93,9 @@ Orinx for his excellent work on the healer DH thread.
   - [Damage/Healing Variance](#damage-healing-variance)
 - [The Purpose of a Healer](#the-purpose-of-a-healer)
   - [Keeping the Party Alive](#keeping-the-party-alive)
-  - [Dealing Damage]
-- [Healer Identities and Their Roles in the Meta]
-  - [The Forced Dichotomy of Healer Design]
+  - [Dealing Damage](#dealing-damage)
+- [Healer Identities and Their Roles in the Meta](#healer-identities-and-their-roles-in-the-meta)
+  - [The Forced Dichotomy of Healer Design](#the-forced-dichotomy-of-healer-design)
   - [WHM]
   - [SCH]
   - [AST]
