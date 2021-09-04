@@ -7,6 +7,8 @@ Notes;
    - Elleiana can make one; but need confirmation on info first!
 - Source info: https://docs.google.com/document/d/1DtB6WBzufUTEG5-ManJ9wYUsawgvcUQgkN6bGjFsq6o/edit#
 
+<!-- TODO: link proper healing guide later, so it doesnt go to the gdoc! -->
+
 --- 
 
 # Intro to Astrologian
