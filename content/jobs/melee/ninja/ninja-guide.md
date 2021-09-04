@@ -413,7 +413,9 @@ Can use other pieces; needs the following all above ilvl 470:
 ## The Epic of Alexander Best In Slot
 <https://etro.gg/gearset/a25fcb8e-7f1a-432f-a627-bbf6eabfe77c>
 
-![Banner5](/img/jobs/melee/ninja/Banner5.png)
+
+<!-- TODO: link proper image later, so its not discord hosted -->
+![Banner5](https://cdn.discordapp.com/attachments/458951851610734595/883853789474467873/unknown.png)
 
 # Optimization
 
