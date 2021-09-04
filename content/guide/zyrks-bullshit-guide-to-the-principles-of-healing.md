@@ -80,19 +80,19 @@ Orinx for his excellent work on the healer DH thread.
 
 - [The Scope of this Guide](#the-scope-of-this-guide)
 - [Core Concepts and Mechanics](#core-concepts-and-mechanics)
-  - [GCDs/Spells]
-  - [oGCDs/Abilities]
-  - [GCD Clipping/Animation Lock]
-  - [Heal Delay]
-  - [Server/Entity Ticks]
-  - [eHP/Mitigation]
-  - [Buff/Debuff Snapshotting]
-  - [Enmity/Threat]
-  - [Macros and Skill Queueing]
-  - [Stat Tiers]
-  - [Damage/Healing Variance]
-- [The Purpose of a Healer]
-  - [Keeping the Party Alive]
+  - [GCDs/Spells](#gcds-spells)
+  - [oGCDs/Abilities](#ogcds-abilities)
+  - [GCD Clipping/Animation Lock](#gcd-clipping-animation-lock)
+  - [Heal Delay](#heal-delay)
+  - [Server/Entity Ticks](#server-entity-ticks)
+  - [eHP/Mitigation](#ehp-mitigation)
+  - [Buff/Debuff Snapshotting](#buff-debuff-snapshotting)
+  - [Enmity/Threat](#enmity-threat)
+  - [Macros and Skill Queueing](#macros-and-skill-queueing) 
+  - [Stat Tiers](#stat-tiers)
+  - [Damage/Healing Variance](#damage-healing-variance)
+- [The Purpose of a Healer](#the-purpose-of-a-healer)
+  - [Keeping the Party Alive](#keeping-the-party-alive)
   - [Dealing Damage]
 - [Healer Identities and Their Roles in the Meta]
   - [The Forced Dichotomy of Healer Design]
