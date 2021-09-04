@@ -96,20 +96,20 @@ Orinx for his excellent work on the healer DH thread.
   - [Dealing Damage](#dealing-damage)
 - [Healer Identities and Their Roles in the Meta](#healer-identities-and-their-roles-in-the-meta)
   - [The Forced Dichotomy of Healer Design](#the-forced-dichotomy-of-healer-design)
-  - [WHM]
-  - [SCH]
-  - [AST]
-- [Encounter Design]
-  - [What the Encounter is Asking of You]
-  - [Damage Sources]
-  - [Damage Types]
-- [Healing Practices]
-  - [Always. Be. Casting.]
-  - [Being Prepared]
-  - [Triage]
-  - [Choosing the Right Tool for the Job]
-  - [Healing Preemptively]
-  - [Proper Usage of Lucid Dreaming]
+  - [WHM](#whm)
+  - [SCH](#sch)
+  - [AST](#ast)
+- [Encounter Design](#encounter-design)
+  - [What the Encounter is Asking of You](#what-the-encounter-is-asking-of-you)
+  - [Damage Sources](#damage-sources)
+  - [Damage Types](#damage-types)
+- [Healing Practices](#healing-practices)
+  - [Always. Be. Casting.](#always-be-casting)
+  - [Being Prepared](#being-prepared)
+  - [Triage](#triage)
+  - [Choosing the Right Tool for the Job](#choosing-the-right-tool-for-the-job)
+  - [Healing Preemptively](#healing-preemptively)
+  - [Proper Usage of Lucid Dreaming](#proper-usage-of-lucid-dreaming)
 - [Maximizing Efficiency]
   - [The “Cost” of an Action]
   - [GCD Efficiency]
