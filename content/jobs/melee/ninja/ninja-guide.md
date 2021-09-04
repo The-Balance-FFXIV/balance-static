@@ -400,7 +400,7 @@ Meld priority for non BIS pieces: Crit>>>>DH>DET>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>SK
 <https://etro.gg/gearset/a6f033eb-2d74-4a2a-bd08-f7823d415fc3>
 
 
-## UWU BIS(Credit to Io)
+## UWU BIS (Credit to Io)
 <https://etro.gg/gearset/74be6ffe-4d39-4513-96fb-be800c372592>
 
 Can use other pieces; needs the following all above ilvl 470:
