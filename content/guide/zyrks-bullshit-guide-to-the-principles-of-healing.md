@@ -574,7 +574,7 @@ Don’t sit on your abilities. Make use of them. Don’t hold Tetragrammaton, As
 Particularly with oGCDs, most of those abilities have only the opportunity cost of putting them on cooldown, and if you’re just holding them “just in case” to begin with, that opportunity cost is irrelevant because you weren’t using it most of the time in the first place. Default to using these abilities as much as possible, and then if you run into a situation where you realize that you need it more somewhere else, you can go from there. But don’t just let them sit there, untouched.
 
 # Working With Your Cohealer
-> ## It’s a group effort
+### It’s a group effort
 
 *TL;DR - The main heal/off heal mentality is incredibly inefficient and you’ll both contribute more to the party if you learn to work together, leveraging the strongest parts of both kits.*
 
@@ -611,7 +611,7 @@ The same goes for SCH’s Aetherflow. The opportunity cost of using an Aetherflo
 
 # Healing Mentality
 
-## Context is everything
+### Context is everything
 
 *TL;DR - All this knowledge is great, but you have to know how to apply it based on the context in which you’re playing.*
 
@@ -663,16 +663,21 @@ If you would like to directly compare gearsets and gear swaps, the Relative Dama
 - AST
 - WHM
 - SCH
+<!-- TODO: link proper guides later! -->
 
 ## Magic Damage and Main Stat
 
 *TL;DR - Your weapon and main stat are, like, really important. Sometimes, gaining a large amount of secondaries can make a lower ilvl piece better than a higher ilvl piece with very poor secondaries (usually excess piety).*
 
+
 The absolute most important factors for your output as a healer are the Magic Damage on your weapon, and your main stat, Mind (MND). Magic Damage far outweighs MND, and MND outweighs secondaries. This means that the weapon upgrade almost always outweighs any other upgrade, unless it’s a small jump in ilvl on the weapon compared to a very large jump in ilvl on another large piece like the chest or pants. It’s also possible that a lower ilvl weapon could potentially be better than a higher ilvl weapon with 1 more Magic Damage, if the lower ilvl weapon in question did not have piety, and the higher ilvl weapon did have piety. If you were looking to drop piety and couldn’t drop it from any other piece of gear, it might theoretically be worth using the lower ilvl weapon.
 
 Similarly, though MND is worth many times more than any secondary stat, large sums of secondaries can make up for this if you are using a lower ilvl piece of gear that does not have piety, compared to a higher ilvl piece of gear that does have unwanted piety, and/or if you are using a pentamelded crafted accessory.
-Piety
-TL;DR - This is a moving target. You need enough to get through the fight safely, but anything extra does nothing for you. Dropping unnecessary piety to gain other secondaries has a much larger effect than basically any other change you can make with your secondaries.
+
+## Piety
+
+*TL;DR - This is a moving target. You need enough to get through the fight safely, but anything extra does nothing for you. Dropping unnecessary piety to gain other secondaries has a much larger effect than basically any other change you can make with your secondaries.*
+
 
 Piety is the role stat for healers. Base MP regen 200 per tick (every 3 seconds). Every ~22 points of piety (beyond the base piety) increases our natural MP regen by 1 per tick. Over the course of a fight, ~220 additional piety works out to 200 extra MP per minute, or an extra damage spell every 2 minutes. It’s really not impressive or exciting, but it’s a necessity.
 
@@ -683,18 +688,23 @@ The thing about piety is that if you have too little, your performance will suff
 Suffice it to say, if you’re maintaining your uptime properly and you’re still finding yourself never getting low on MP, you have more piety than you need, and you could increase your throughput by changing some of your gear out to have less piety and more crit/det/spell speed. Gaining those stats by cutting excess piety will have a much larger effect on your throughput than changing between crit/det/spell speed/direct hit.
 
 
-Relative Value
-TL;DR - the actual value of a stat changes based on all your current stats, and this is an important concept to consider when choosing how you prioritize your stats.
+
+## Relative Value
+
+*TL;DR - the actual value of a stat changes based on all your current stats, and this is an important concept to consider when choosing how you prioritize your stats.*
+
 
 Relative value is a concept that I need to explain in order for any of the nitty gritty details of secondaries to make sense. It’s a concept that’s often overlooked and widely misunderstood, and it’s absolutely integral to how we think of secondary stats. When we talk about the value of secondary stats, we are usually referencing their relative value. That refers to their effect on your output relative to current output with your current stat totals, or as a comparison to other stats you could have in place of the stat in question.
 
-If you’re interested in the math behind the explanations and assertions that I’m going to make in the next few sections about substats, the rest of this section is for you. If numbers don’t get your rocks off, feel free to skip ahead to the next section.
+
+> *If you’re interested in the math behind the explanations and assertions that I’m going to make in the next few sections about substats, the rest of this section is for you. If numbers don’t get your rocks off, feel free to skip ahead to the next section.*
+
 
 To examine these relative values and compare them to one another, we can convert each stat into an expected value, which is a representation of the percent increase a certain amount of a stat should give us. The formula we use is as follows:
 
-1 + (chance * multiplier) = expected value
+> 1 + (chance * multiplier) = expected value
 
-Using this formula, we can assign expected values to any stat simply by plugging in the numbers from the stat tier page (yes I’m plugging it again, it’s important, dammit). In fact, the page already does this for us, but I’ll demonstrate it here for the sake of explanation.
+Using this formula, we can assign expected values to any stat simply by plugging in the numbers from the [stat tier page](https://www.akhmorning.com/allagan-studies/stats/) (yes I’m plugging it again, it’s important, dammit). In fact, the page already does this for us, but I’ll demonstrate it here for the sake of explanation.
 
 Determination’s expected value simplifies to 1 + x, where x = the percentage increase of your current determination tier, expressed as a decimal. For every tier, you gain .001.
 
@@ -704,7 +714,7 @@ Crit’s expected value can be expressed as 1 + (x * y), where x = your crit cha
 
 As you can see, det and DH have one scaling variable. Crit, on the other hand, has two variables that increase simultaneously as you go up in tiers, which is why it scales harder past certain values, even though it starts at a lower point on the graph, so to speak. It just needs some numbers pumped into it in order to really get going.
 
-Now, we can use these expected values to get a clearer picture of relative values by comparing the expected value of the next tier to the total expected value of the previous tier, and adjusting that for how many points it took to reach that tier to find a point-for-point representation of the relative value of a stat at a given stat total.
+Now, we can use these *expected values* to get a clearer picture of relative values by comparing the expected value of the next tier to the total expected value of the previous tier, and adjusting that for how many points it took to reach that tier to find a point-for-point representation of the relative value of a stat *at a given stat total.*
 
 Using determination as an example for simplicity’s sake, if determination tiers are 26 points apart (they’re not exactly, but this will suffice for the demonstration), 26 bonus determination beyond your base amount is worth .001 / 26 =  .0000385 per point. The previous tier is simply 1 (no bonus det), so the relative value is equal to the expected value when we compare it to the previous tier. As we go up in tiers, the relative value per point will diminish as we compare the expected value of one tier to the previous.
 
@@ -713,8 +723,10 @@ If you had 1524 bonus det, your expected value for that tier would be 1.06. We�
 To give a more straightforward example, if you’re doing 1,000 DPS with no determination from gear or food, and you add ~260 determination, that’s a 1% increase, which is a 10 DPS gain. Purely for demonstration, let’s say you have so much determination that you’re doing double your base DPS, so you’re doing 2,000 DPS. Adding another ~260 determination is still a “1%” increase (expected value), but it’s 1% of your base damage, which means it’s still +10 DPS, which is only a 0.5% increase relative to your current output (relative value).
 
 We apply this method to find a relative point value of each stat at each tier, and then compare the relative values of each stat to each other to determine their efficacy at a given amount in relation to one another.
-Critical Hit
-TL;DR - Crit scales better than det and DH in large amounts, increases the mileage you get from crit buffs like Battle Litany, Chain Stratagem, and BRD songs, and crit heals can free up healing GCDs to be spent on damage. To get the most of it, you should stack as much as you can to take advantage of the way it scales.
+
+## Critical Hit
+*TL;DR - Crit scales better than det and DH in large amounts, increases the mileage you get from crit buffs like Battle Litany, Chain Stratagem, and BRD songs, and crit heals can free up healing GCDs to be spent on damage. To get the most of it, you should stack as much as you can to take advantage of the way it scales.*
+
 
 Crit scales both crit chance and crit multiplier. Because of this, it scales quadratically, which is essentially to say that every point of crit is worth more than the last. It scales better the more you have. Crit starts outperforming other stats quite significantly when you stack large enough amounts of it. The threshold where the relative value of crit surpasses an equal amount of det is fairly low, because det has linear scaling, and its relative value per point therefore decreases as you get more of it.
 
@@ -725,14 +737,20 @@ Another consideration is that crit affects everything you do unconditionally, an
 Some people will argue that crit heals will just result in overhealing and won’t be useful, but that shouldn’t be the case the vast majority of the time, because your tank will likely be missing more HP than a crit heal. Unless you’re topping him off for an upcoming tankbuster, you should usually be aiming for your heal to put the tank at around 80% HP, so as not to waste any ticks on the regen that he has, or waste the healing if you crit. If the tank is missing so little HP that a crit heal would go to waste, you likely shouldn’t be healing him right now.
 
 Crit heals are just a bonus in the first place, because you don’t plan your heals around crits. Worst case scenario, the heal crits and overheals and has no effect beyond exactly what you planned on it doing.
-Determination
-TL;DR - Det is a simple 0.1% increase to everything every ~26 points. Its relative value decreases as you get more of it, so it’s not advised as a primary focus, but it makes a good stat to fill in gear where you can’t get more crit.
+
+## Determination
+
+*TL;DR - Det is a simple 0.1% increase to everything every ~26 points. Its relative value decreases as you get more of it, so it’s not advised as a primary focus, but it makes a good stat to fill in gear where you can’t get more crit.*
+
 
 Determination is quite simple. It increases all your healing and damage. It has linear scaling, so it’s not as good as other stats in large amounts. It’s another unconditional bonus that affects everything you do, but without the RNG aspect of crit. Because it’s reliable and unconditional, it’s still an attractive stat to focus on wherever you can’t get any more crit. It’s good to meld when a piece of gear is already capped on crit, and it’s a decent stat to take on a piece of gear if there’s no crit option for that gear slot.
-Spell Speed
-TL;DR - Spell speed looks good on paper, but the gains can be difficult to replicate in real fights, and it comes at the cost of increased MP consumption. The relative value also scales better the more you have like crit, but it’s not generally recommended as a primary focus due to its conditional nature and increased MP consumption, resulting in a “piety tax.”
 
-Spell speed reduces your GCD timer and scales your DoT and HoT effects. Its scaling improves the more you stack, like crit, because the actual numerical scaling is linear. The tiers are the same distance apart, but .01s is a larger portion of your GCD the faster your GCD is, which means it’s a larger relative increase. It’s a reliable increase in that it’s not random, but it is also unreliable in that its effect on your throughput is conditional. In order for spell speed to do much, you need to be chaining casts very consistently for extended periods of time. This is all well and good on a training dummy, and in fact, spell speed can sometimes actually outperform crit on a dummy with infinite MP. However, replicating this level of success in a real fight is challenging at best, and downright unrealistic at worst.
+## Spell Speed
+
+*TL;DR - Spell speed looks good on paper, but the gains can be difficult to replicate in real fights, and it comes at the cost of increased MP consumption. The relative value also scales better the more you have like crit, but it’s not generally recommended as a primary focus due to its conditional nature and increased MP consumption, resulting in a “piety tax.”*
+
+
+Spell speed reduces your GCD timer and scales your DoT and HoT effects. Its scaling improves the more you stack, like crit, because the actual numerical scaling is linear. The tiers are the same distance apart, but .01s is a larger portion of your GCD the faster your GCD is, which means it’s a larger relative increase. It’s a reliable increase in that it’s not random, but it is also *unreliable* in that its effect on your throughput is conditional. In order for spell speed to do much, you need to be chaining casts very consistently for extended periods of time. This is all well and good on a training dummy, and in fact, spell speed can sometimes actually outperform crit on a dummy with infinite MP. However, replicating this level of success in a real fight is challenging at best, and downright unrealistic at worst.
 
 Spell speed is sort of all or nothing, unfortunately. Either you gained an entire extra cast compared to a non-spell speed build, or you didn’t get the extra cast, and your spell speed didn’t gain you anything. The more casts you chain consecutively, the more likely you are to have gained a GCD over the non-spell speed build when interrupted, all the way up until you’ve chained enough casts to gain an entire guaranteed GCD. And the larger the spell speed difference between the builds, the fewer casts it will take to build that lead. Fight interruptions can happen at any point during your GCD, so it’s possible for you to gain a GCD even without building a large lead, but it’s entirely dependent on your exact GCD alignment relative to the interruptions of a specific encounter.
 
@@ -742,54 +760,77 @@ It’s theoretically possible to fine tune your exact GCD speed based on each in
 
 There are also a number of other drawbacks to spell speed compared to other secondaries, and it’s quite close to crit on a dummy, so it is generally accepted to be the less optimal choice as a primary focus for healers. Spell speed’s bonus is reliant on chaining casts properly, which means it will do practically nothing for a healer who’s dropping a lot of casts or pausing between casts. You have to play well in this regard for it to do anything. It also increases MP consumption to fuel your extra casts, which can result in you needing more piety at the expense of other stats, while other stats don’t have a cost attached to them.
 
-It’s also commonly said that spell speed lets you get out your heals sooner, but this is largely irrelevant. As stated previously, you shouldn’t be waiting until after damage has happened and then reacting to heal it. You should already know the damage is coming and you should be precasting and timing your heals appropriately. The speed of your cast should make no difference unless you’re reacting to something, which should not be the case with GCD heals.
+It’s also commonly said that spell speed lets you get out your heals sooner, but this is largely irrelevant. As stated previously, you shouldn’t be waiting until after damage has happened and then *reacting* to heal it. You should already know the damage is coming and you should be precasting and timing your heals appropriately. The speed of your cast should make no difference unless you’re *reacting* to something, which should not be the case with GCD heals.
 
 So, that’s why we don’t usually focus on spell speed as our highest priority. But, you speed demons will be happy to hear, that’s not the end of the story. When a healing job has an excellent MP economy, spell speed gains another dimension. When MP is tight, spell speed can be a liability because it comes with a “piety tax,” but when you have more than enough MP, it becomes an incredibly attractive option to leverage that excess MP and turn it into a damage gain. That’s why you will sometimes see best in slot lists with quite a lot of spell speed, depending on the job and the patch. If a healer literally has more MP than it knows what to do with, it usually ends up being leveraged to take advantage of the excellent scaling that spell speed offers on paper.
 
-As I said before, the difference between these stats is incredibly small, so don’t feel bad if you prefer spell speed. There’s honest to goodness nothing wrong with that. If you like going fast and you strive to play around your faster GCD to maximize your extra casts, more power to you. The most important thing about spell speed is to pay attention to your spell speed tier. Check the spell speed tiers and try to configure your gear to hit a GCD tier while wasting as few stats as possible. The tiers are very far apart, so it’s easy to waste significant amounts of stats in spell speed if you’re not paying attention to the tiers.
-Direct Hit
-TL;DR - DH doesn’t affect healing, and is an incredibly miniscule gain over det for damage (less than auto attacking on SCH, seriously, it’s miniscule). If you’re going for the top parse on FFLogs or looking to get a lucky run, go for it, but there are a ton of better ways to optimize your damage that don’t come at the cost of healing potency.
+As I said before, the difference between these stats is incredibly small, so don’t feel bad if you prefer spell speed. There’s honest to goodness nothing wrong with that. If you like going fast and you strive to play around your faster GCD to maximize your extra casts, more power to you. **The most important thing about spell speed is to pay attention to your spell speed tier.** [Check the spell speed tiers](https://www.akhmorning.com/allagan-studies/stats/speed/) and try to configure your gear to hit a GCD tier while wasting as few stats as possible. The tiers are very far apart, so it’s easy to waste significant amounts of stats in spell speed if you’re not paying attention to the tiers.
 
-Direct hit increases your chance to score direct hits, which have a flat 25% damage increase. Basically a mini crit. Heals cannot direct hit. The multiplier does not scale like crit multiplier does. Because of that, DH’s point for point value relative to other stats decreases as you get more DH.  This means that DH is technically worth more per point when you have less of it. This statement has been propagated and misconstrued into the idea that since healers have no DH on their gear, they should meld DH, because it’s worth the most when you have none.
+## Direct Hit
+
+*TL;DR - DH doesn’t affect healing, and is an incredibly miniscule gain over det for damage (less than auto attacking on SCH, seriously, it’s miniscule). If you’re going for the top parse on FFLogs or looking to get a lucky run, go for it, but there are a ton of better ways to optimize your damage that don’t come at the cost of healing potency.*
+
+
+Direct hit increases your chance to score direct hits, which have a flat 25% damage increase. Basically a mini crit. *Heals cannot direct hit.* The multiplier does not scale like crit multiplier does. Because of that, DH’s point for point value relative to other stats decreases as you get more DH.  This means that DH is technically worth more per point when you have less of it. This statement has been propagated and misconstrued into the idea that since healers have no DH on their gear, they should meld DH, because it’s worth the most when you have none.
 However, just because it’s worth more when you have smaller amounts, that doesn’t mean it’s worth more than other stats. Stacking crit in particular already outweighs DH even in a vacuum where you only DPS, and crit has the benefit of sometimes saving GCDs through crit heals. Even if you do meld DH, it should still only be melded where you can’t meld crit, from a purely mathematical standpoint.
 
 That leaves us with the comparison of DH to other non-crit filler stats like det. There’s a lot of math involved, but as of Patch 5.4, the difference between melding det and DH can be anywhere from +0.31% DPS for the cost of -1.85% healing, to +0.53% DPS for -3.14% healing, depending on the amount of det/DH swing. That amount of healing won’t realistically change what heals you cast or save you a GCD, but it is still a marginal amount of a safety net for the party’s eHP. It’s not impressive, but it’s not nothing. People live with less than 2-3% of their max HP now and then, and 2-3% healing can be worth even more than that amount of their HP depending on the circumstances, so it can occasionally prevent deaths or wipes by very small margins.
 
 DH is an extremely miniscule damage boost over det (literally less than the occasional SCH auto attack), and 2-3% healing is a small extra safety net that has a chance to prevent a death here and there in your healing career. It’s up to you which one you value more, but DH is far from some kind of god stat for healers.
 
-For more details on the math behind this, and an exploration of additional DH heavy setups, you can take a look at this reddit post.
+
+[For more details on the math behind this, and an exploration of additional DH heavy setups, you can take a look at this reddit post.](https://www.reddit.com/r/ffxiv/comments/7l22nr/only_moon_cats_healers_should_be_melding_direct/)
 
 
-Common Pitfalls
+
+--- 
+
+# Common Pitfalls
+
 I’d like to dedicate a section to pointing out bad habits, traps that new healers often fall into, and common mistakes to be aware of and avoid.
-Dropping Casts
-TL;DR - You can’t contribute if you’re not doing anything. Press your buttons.
 
-Standing around not casting something is the single worst mistake you can make. It’s the fastest way to tank your contribution to the party. Any time you’re not casting something useful, you’re bleeding value. Just pissing it away. Don’t do that. Cast something. Standing around casting a Cure II every 30s is not a “playstyle choice,” it’s non-participation. Should be obvious, but you should play the game. Press your buttons. Do stuff. Please.
+## Dropping Casts
 
-That’s an extreme example, but the principle extends to any time you spend doing nothing without a very good reason. Even if you’re just spamming Cure nonstop, that’s at least better than being AFK for 90% of the fight. All that extra healing will at least occasionally have value. A broken clock is right twice a day…
-Unnecessary Healing
-TL;DR - Most people think they need to do way more healing than is actually necessary. Pay attention to that, but especially don’t be the guy who spams nothing but heals all the time.
+*TL;DR - You can’t contribute if you’re not doing anything. Press your buttons.*
+
+
+Standing around not casting something is the single worst mistake you can make. It’s the fastest way to tank your contribution to the party. Any time you’re not casting something useful, you’re bleeding value. Just pissing it away. Don’t do that. Cast something. Standing around casting a Cure II every 30s is not a “playstyle choice,” it’s non-participation. Should be obvious, but you should *play the game.* Press your buttons. Do stuff. Please.
+
+That’s an extreme example, but the principle extends to any time you spend doing nothing without a *very* good reason. Even if you’re just spamming Cure nonstop, that’s at least better than being AFK for 90% of the fight. All that extra healing will at least occasionally have value. A broken clock is right twice a day…
+
+## Unnecessary Healing
+
+*TL;DR - Most people think they need to do way more healing than is actually necessary. Pay attention to that, but especially don’t be the guy who spams nothing but heals all the time.*
+
 
 A lot of healers are under the mistaken impression that they need to keep everyone at 100% HP all the time. As we’ve discussed thoroughly, this is simply not the case. It doesn’t leave room for you to utilize your most efficient tools like HoTs. When a regen will cover the damage, don’t waste your time casting Medica on top of it. You don’t need to be Curebot Heal’spam, the honest healer with an addiction to casting Cure. Don’t panic, heal what needs to be healed, and don’t overdo it.
 
 
-Unnecessary Shielding
-TL;DR - Don’t pre-shield for every bit of damage just because you can. It’s very often inefficient. Ask yourself if you need the shields, and if you’re getting value out of the initial heal as well.
 
-This is very similar to unnecessary healing, some healers are under the impression that you should pre-shield for everything. Just because you can, that doesn’t mean you should. Because oGCDs and regens are so powerful compared to shields, it is always better to heal the damage after it’s been done than to shield beforehand (this refers to GCD shields, not free oGCD shields like Divine Veil and Shake it Off).
+## Unnecessary Shielding
+
+*TL;DR - Don’t pre-shield for every bit of damage just because you can. It’s very often inefficient. Ask yourself if you need the shields, and if you’re getting value out of the initial heal as well.*
+
+
+This is very similar to unnecessary healing, some healers are under the impression that you should pre-shield for everything. Just because you *can*, that doesn’t mean you *should*. Because oGCDs and regens are so powerful compared to shields, it is always better to heal the damage after it’s been done than to shield beforehand (this refers to GCD shields, not free oGCD shields like Divine Veil and Shake it Off).
 
 You don’t need to shield everything, or even most things. The only time you need to shield is to prevent lethal damage, whether it’s a buffer for consecutive hits, or a single big hit. Otherwise, you have more efficient tools between the two healers to heal the damage afterward. When pre-shielding, the party is also likely already at full HP, which means you’re not getting value from the healing portion of Succor or Nocturnal Aspected Helios, making it even less efficient.
-Playing Scared
-TL;DR - Don’t play like you’re constantly in fear of the worst case scenario. There’s no point in worrying that the Earth is going to be spontaneously hit by a massive gamma-ray burst from thousands of light years away and planning your whole life around some minute possibility. Don’t be the healing equivalent of a doomsday prepper.
 
-There’s a difference between being cautious and playing scared. The former is wisdom, while the latter is cowardice. You don’t usually want to play it fast and loose. You don’t want to gamble with the party’s survival. But you also don’t want to live your entire life in fear of the worst case scenario. You can’t play ultra conservatively all the time just in case some crazy thing comes up. Quite frankly, it’s not your job to be able to fix everything.
+## Playing Scared
+
+*TL;DR - Don’t play like you’re constantly in fear of the worst case scenario. There’s no point in worrying that the Earth is going to be spontaneously hit by a massive gamma-ray burst from thousands of light years away and planning your whole life around some minute possibility. Don’t be the healing equivalent of a doomsday prepper.*
+
+
+There’s a difference between being cautious and playing scared. The former is wisdom, while the latter is cowardice. You don’t usually want to play it fast and loose. You don’t want to gamble with the party’s survival. But you also don’t want to live your entire life in fear of the worst case scenario. You can’t play ultra conservatively all the time just in case some crazy thing comes up. Quite frankly, it’s not your job to be able to fix *everything.*
 
 You want to be prepared for minor mistakes during progression, but there’s a point where you shouldn’t need to limit yourself in order to plan for every little possibility. It’s like refusing to go outside because of the tiny possibility that you could be struck by lightning or hit by a bus. You can’t sacrifice your normal play just so you can be more prepared for that one run once in a blue moon where everything goes tits up. There comes a time when it’s not your job to wipe everyone’s ass anymore.
-Misplacing Blame
-TL;DR - It’s important to examine a lot of contributing factors when you’re trying to determine what went wrong. Learning to identify and recognize when the blame does or doesn’t lie with you can allow you to have both confidence and humility, and can help you tremendously on your path of improvement. Don’t just point fingers at whatever might seem obvious.
 
-Expanding on the last topic, you are not responsible for everyone’s mistakes. A lot of wipes often look like a lack of healing, and sometimes that’s genuinely the case. But not always. Say your party needs about 80,000 HP to survive the incoming raid damage, because you’re mitigating it with Reprisal and Addle. You’ve prepared the party for the damage by healing everyone up to just over 80,000 HP, and HoTs are ticking on them to continue topping them off and to heal up the damage afterward. The party dies because someone didn’t use Reprisal or Addle.
+## Misplacing Blame
+
+*TL;DR - It’s important to examine a lot of contributing factors when you’re trying to determine what went wrong. Learning to identify and recognize when the blame does or doesn’t lie with you can allow you to have both confidence and humility, and can help you tremendously on your path of improvement. Don’t just point fingers at whatever might **seem** obvious.*
+
+
+Expanding on the last topic, you are not responsible for everyone’s mistakes. A lot of wipes often *look* like a lack of healing, and sometimes that’s genuinely the case. But not always. Say your party needs about 80,000 HP to survive the incoming raid damage, because you’re mitigating it with Reprisal and Addle. You’ve prepared the party for the damage by healing everyone up to just over 80,000 HP, and HoTs are ticking on them to continue topping them off and to heal up the damage afterward. The party dies because someone didn’t use Reprisal or Addle.
 
 A lot of people in this situation will say that the wipe was your fault because you didn’t top the party off, but it was actually the fault of the person who failed to mitigate it like they were supposed to. You held up your end of the bargain, you made sure the party had enough HP to survive the amount of damage they were supposed to take, and you took more damage than you were supposed to, through no fault of your own. You were just doing your job efficiently.
 
@@ -798,35 +839,58 @@ Could you have theoretically prevented this wipe by being psychic and predicting
 It’s also somewhat common for healers to blame other healers when misinterpreting the situation. A lot of healers will become irritated with their cohealer because they feel like they’re doing all the healing while their cohealer just DPSes. But, there is a strong tendency among less experienced healers to heal very inefficiently, and heal far more than necessary. And if one healer is already healing far more than is necessary, there’s no point in the other healer adding even more healing on top of it. Perhaps the other healer wants to use their most efficient tools like Medica II, or maybe Indomitability. But a healer who’s already taking it upon themselves to spam Medica and Cure II to inefficiently keep the party topped off at all times doesn’t leave any room for an efficient Medica II or Indomitability from the cohealer. A lot of times, when one healer seems to be healing very little compared to the other healer, it’s because they’re trying to be efficient and the other healer isn’t leaving them anything to heal because they’re healing inefficiently.
 
 This is both a warning against being too judgmental and a warning that you may find yourself feeling like you’re not doing any healing if you’re trying to be efficient. Don’t worry. It’s simply the natural conclusion you’ll arrive at if you’re trying not to do unnecessary healing and your cohealer seems to have taped down their Medica hotkey. If you do find yourself annoyed that a cohealer isn’t healing much, I encourage you to consider whether or not you’re leaving them anything to heal.
-Failing to Adapt
-TL;DR - Don’t be too rigid. You might want to play a certain way, but sometimes the success of the party dictates that you just need to bite the bullet and play it safe. It might even require that you play a little riskier because the group needs the extra DPS. Your purpose is to facilitate the success of the party at the end of the day (within reason), even if it’s not always pretty.
 
-On the other side of the coin, sometimes you need to adapt your play to compensate for things that aren’t your fault. One size does not fit all. Some groups are better or more reliable at mitigation. Some groups can’t even remember that they have mitigation. It’s not efficient, but it’s also not necessarily within your control. And at the end of the day, it’s your job to try to get the party through the encounter. Sometimes, that means playing safer. Maybe it means putting up shields that are usually unnecessary, maybe it means putting on more piety gear to compensate for having to cast a lot of Raises. You’re still a healer, and you should still try your best to perform to the best of your ability in whatever environment you find yourself in. Don’t be that guy who just keeps saying “Well, this is how we do it in my group and it’s fine!” This isn’t that group. Suck it up. Adaptability is the mark of a great healer.
+## Failing to Adapt
+
+*TL;DR - Don’t be too rigid. You might want to play a certain way, but sometimes the success of the party dictates that you just need to bite the bullet and play it safe. It might even require that you play a little riskier because the group needs the extra DPS. Your purpose is to facilitate the success of the party at the end of the day (within reason), even if it’s not always pretty.*
 
 
-Learning and Improvement
+On the other side of the coin, sometimes you need to adapt your play to compensate for things that aren’t your fault. One size does not fit all. Some groups are better or more reliable at mitigation. Some groups can’t even remember that they have mitigation. It’s not efficient, but it’s also not necessarily within your control. And at the end of the day, it’s your job to try to get the party through the encounter. Sometimes, that means playing safer. Maybe it means putting up shields that are usually unnecessary, maybe it means putting on more piety gear to compensate for having to cast a lot of Raises. You’re still a healer, and you should still try your best to perform to the best of your ability in whatever environment you find yourself in. Don’t be *that guy* who just keeps saying “Well, this is how we do it in *my* group and it’s fine!” This isn’t that group. Suck it up. Adaptability is the mark of a great healer.
+
+
+
+--- 
+
+# Learning and Improvement
+
 Learning is an ongoing process. It is neverending. If you ever think you have nothing left to learn, you’re wrong, full stop. The game is always changing, and we must grow and change with it. You should never stop learning, because as a healer, there is almost always something you can do better, regardless of your level of play. You can always improve.
-Learning Tools
+
+## Learning Tools
+
 Advanced Combat Tracker (ACT) is a parser. It reads the information your game client is sending and receiving and spits it all out to you in a way that you can easily read. Most people simply use it to measure DPS, but it contains a huge wealth of information beyond that.
 
 FFLogs is a website to which people can upload ACT logs. FFLogs further organizes the data from ACT and gives you all kinds of freedom and tools to delve into combat logs in a much more user friendly and accessible way. It can be used to easily check all kinds of important information. Basically anything you can think of, you can see it on FFLogs. FFLogs also has DPS and clear time leaderboards, but that’s another matter entirely. The true beauty of FFLogs is in making data accessible. It’s an excellent learning tool. Trying to learn and improve without all this information is like trying to teach yourself to paint without ever looking at the canvas.
-Identifying Areas for Improvement
+
+## Identifying Areas for Improvement
+
 One of the most helpful things you can do with FFLogs is examine other people’s logs. If you’re uncertain about how to handle a certain part of a fight, you can simply go look at other people’s logs to see how they handled it. Find a good clear with the same healer comp as your group, and look at what they did to get an idea of how you can handle it. This is also great for optimization, because you can compare your own methods to other people’s methods. In that case, you’ll either decide that their method is more efficient and you’ll have a new, more efficient way of doing something, or you’ll decide that you prefer your own method for your group, and you can be more confident that you’re doing the right thing after having considered the alternatives.
 
-Another incredible learning tool is xivanalysis. When provided with an FFLogs URL, this tool goes through it and attempts to identify mistakes, pointing out things like incorrect oGCD weaving, Aetherflow stack management, cooldown usage, DoT uptime, etc. It’s not perfect, and may never be, but it’s an amazing tool that can instantly give you a lot of information about your play, from big picture mistakes to small optimizations. It’s always undergoing changes and development to make its analysis even more robust, and I highly recommend that you try it out.
-Interpreting FFLogs Data
-Seriously, context is everything
-TL;DR - If you’re examining healer logs, you’ve really got to dive deep to get the full picture.
+Another incredible learning tool is [xivanalysis](https://xivanalysis.com/). When provided with an FFLogs URL, this tool goes through it and attempts to identify mistakes, pointing out things like incorrect oGCD weaving, Aetherflow stack management, cooldown usage, DoT uptime, etc. It’s not perfect, and may never be, but it’s an amazing tool that can instantly give you a lot of information about your play, from big picture mistakes to small optimizations. It’s always undergoing changes and development to make its analysis even more robust, and I highly recommend that you try it out.
+
+--- 
+
+# Interpreting FFLogs Data
+
+### Seriously, context is everything
+
+*TL;DR - If you’re examining healer logs, you’ve really got to dive deep to get the full picture.*
+
 
 Delving further into your own logs, you can closely examine your own play and potentially identify things you could be doing better. Here, I’ll outline how to properly inspect and interpret logs to identify areas for improvement or potential problems. It might seem like overkill, but healer logs can be very easy to misinterpret, because you have to look at so many different things to see enough of the picture to make a sound judgment.
-Summary
-TL;DR - The Summary tab doesn’t really say anything meaningful on its own. We have to go deeper.
+
+## Summary
+
+*TL;DR - The Summary tab doesn’t really say anything meaningful on its own. We have to go deeper.*
+
 
 On the Summary tab, you’ll see a brief, simplified overview of some key information. It’ll display every party member’s damage dealt and healing done, the total damage taken by the group by each ability, and a list of deaths with timestamps. On its own, this page says very little. It’s good for seeing DPS and taking note of any deaths in the run, but the healing metric on its own doesn’t mean much at all.
-Casts
-TL;DR - Check the Casts tab to see if it sets off any alarms that imply the healer might be spending a lot of time doing nothing (sub 20 CPM is definitely a red flag for most fights). Also see if it looks like they’re casting a huge amount of GCD heals or underusing oGCDs. But this still doesn’t tell us everything. We have to go deeper.
 
-On the Casts tab, you’ll find a very important metric. This page displays everyone’s number of casts, active time (as a percentage), and CPM (casts per minute). When inspecting someone’s logs, this is usually the first page I check, because standing around not casting is one of the most common and worst offenders when it comes to poor healing performance. A “good” CPM varies by fight and circumstances, but you can compare your CPM to other healers with fast clear times or high DPS rankings to get an idea of what you should be aiming for under ideal circumstances.
+## Casts
+
+*TL;DR - Check the Casts tab to see if it sets off any alarms that imply the healer might be spending a lot of time doing nothing (sub 20 CPM is definitely a red flag for most fights). Also see if it looks like they’re casting a huge amount of GCD heals or underusing oGCDs. But this still doesn’t tell us everything. **We have to go deeper**.*
+
+
+On the Casts tab, you’ll find a very important metric. This page displays everyone’s number of casts, active time (as a percentage), and **CPM** (**c**asts **p**er **m**inute). When inspecting someone’s logs, this is usually the first page I check, because standing around not casting is one of the most common and worst offenders when it comes to poor healing performance. A “good” CPM varies by fight and circumstances, but you can compare your CPM to other healers with fast clear times or high DPS rankings to get an idea of what you should be aiming for under ideal circumstances.
 
 
 
@@ -835,8 +899,11 @@ Again, this isn’t a hard rule, but it’s something to look at. If there’s a
 On the Casts tab, you’ll also see some dropdown menus. By selecting the healer in question from the dropdown menu that’s set to “All Friendlies” by default and selecting “Cast By Spell” from the menu set to “Cast By Source” by default, you can see how many times that healer cast each spell. By examining this page and comparing your number of casts of certain spells to another healer’s log, you can get an idea as to where you may be casting more heals than necessary, or not using certain oGCDs and cooldowns enough times.
 
 By selecting “Timelines” at the top, you can also view an exact timeline of someone’s actions to see the exact sequence of their casts, or you can select “Events” to see it listed chronologically in a text format with more details and exact timestamps.
-Overheal
-TL;DR - You can look at Overheal and Overheal by Ability to check for big red flags like massive overheal % (>50% or something crazy) or high overheal on GCD heals that might be unnecessary casts. This can point you in the right direction to look at other things, but isn’t a good metric on its own. We have to go deeper.
+
+## Overheal
+
+*TL;DR - You can look at Overheal and Overheal by Ability to check for big red flags like massive overheal % (>50% or something crazy) or high overheal on GCD heals that might be unnecessary casts. This can point you in the right direction to look at other things, but isn’t a good metric on its own. **We have to go deeper**.*
+
 
 The basic Healing tab says more about your healing than the Summary tab, but it still doesn’t tell you a whole lot. It displays your total effective healing (not counting overhealing, unless you check “Raw Healing” above the graph), how much of that was shields, your HPS, your active time spent healing (as a percentage), and what percentage of your total healing was overhealing. It’s a start, but it doesn’t give the full picture.
 
@@ -844,28 +911,37 @@ Overheal on its own isn’t a very useful metric at all. If it’s some crazy fi
 
 Even with GCD heals, there are times when you’ll have to put up shields while the party is already topped off, which may be an efficient thing to do in certain circumstances, but is overhealing on the initial heal. Maybe 4 targets need to be healed. It’s more efficient to use AoE heals to take care of that than to heal them individually, and those AoE heals can result in more overheal.
 
-What you’re really interested in is “Overheal by Ability.” Selecting “Done By Ability” from the dropdown menu will show you how much healing and overhealing was done by each ability. This still doesn’t tell the entire story, because as I said, sometimes overhealing is efficient. However, it's a good place to check for red flags. If something stands out, it may bear further investigation. If you have a lot of overheal from things like Earthly Star, it’s probably not much cause for concern, but if you’ve got a lot of overheal from upfront GCD heals like Cure II or Medica, you should probably look into it, because you’re probably casting those more than you need to.
+What you’re really interested in is “Overheal by Ability.” Selecting “Done By Ability” from the dropdown menu will show you how much healing and overhealing was done by each ability. This *still* doesn’t tell the entire story, because as I said, sometimes overhealing is efficient. However, it's a good place to check for red flags. If something stands out, it may bear further investigation. If you have a lot of overheal from things like Earthly Star, it’s probably not much cause for concern, but if you’ve got a lot of overheal from upfront GCD heals like Cure II or Medica, you should probably look into it, because you’re probably casting those more than you need to.
 
 Overhealing with single target heals is fairly straightforward, but In order to investigate something like overhealing from Medica, you’ll need to look a little deeper. If you select Events view at the top, you’ll be able to see how much healing each individual cast did on each individual target. You can also narrow it down by source player, target player, or ability with the other dropdown menus. This page will display healing line by line, formatted like so:
 
-Zyrkhan Dar'locke Helios Zyrkhan Dar'locke +6518 (O: 1321)
+> Zyrkhan Dar'locke Helios Zyrkhan Dar'locke +6518 (O: 1321)
 
-The number displayed as +____ is the actual HP restored, and (O: ____) is the amount of overheal on top of that. To determine whether certain AoE heals are unnecessary, you can check to see whether the overheal is coming from efficient uses or if the whole cast is mostly overheal.
-Mitigation
-TL;DR - Check the casts or buffs/debuffs tabs to see if the party is properly utilizing their available mitigation, or if a lack of mitigation might be necessitating that the healer babysit the group at the cost of their own performance. You can also sometimes compare damage taken from an ability with another group’s logs to see if there’s a large gap in mitigation between the groups. Again, this doesn’t tell the whole story. You’ll probably HAVE TO GO DEE— sorry.
+The number displayed as +_ is the actual HP restored, and (O: ____) is the amount of overheal on top of that. To determine whether certain AoE heals are unnecessary, you can check to see whether the overheal is coming from efficient uses or if the whole cast is mostly overheal.
+
+## Mitigation
+
+*TL;DR - Check the casts or buffs/debuffs tabs to see if the party is properly utilizing their available mitigation, or if a lack of mitigation might be necessitating that the healer babysit the group at the cost of their own performance. You can also sometimes compare damage taken from an ability with another group’s logs to see if there’s a large gap in mitigation between the groups. Again, this doesn’t tell the whole story. You’ll probably HAVE TO GO DEE— sorry.*
+
 
 A healer’s performance also depends quite heavily on how well their tanks mitigate incoming damage with efficient use of cooldowns and tank swaps, and how well the party as a whole mitigates incoming raid damage. By checking the Buffs tab and selecting the relevant tank(s) from the dropdown menu, you can determine whether the tanks are mitigating damage properly to enable their healers to contribute more. By selecting the Debuffs tab and selecting Enemies, you can also note how well mitigation debuffs like Reprisal, Tactician, Troubadour, Shield Samba, Feint, Addle, etc. were used.
 
 In addition to this, you can poke around in the Damage Taken tab and compare logs with other groups to examine damage taken per second and total damage taken by each attack, which may give you an idea of how well a group is mitigating damage from certain hard hitting attacks, or mitigating damage as a whole.
-Putting it All in Context
-TL;DR - Nothing tells the whole story on its own. You have to consider basically every part of the picture before you can hope to understand the reasons behind any one facet of a healer’s log, and it can be a bit of an investigative undertaking. But you can certainly check for red flags in a few places and make sure there aren’t any glaring problems that need addressing.
+
+## Putting it All in Context
+
+*TL;DR - Nothing tells the whole story on its own. You have to consider basically every part of the picture before you can hope to understand the reasons behind any one facet of a healer’s log, and it can be a bit of an investigative undertaking. But you can certainly check for red flags in a few places and make sure there aren’t any glaring problems that need addressing.*
+
 
 In order to accurately gauge a healer’s performance, you have to consider aaaaaall these factors and more. There are a ton of different aspects of healing performance to improve and optimize, and FFLogs can empower you with all the numbers and information you could need to identify ways you can improve. It’s an endless wealth of knowledge, and if you’re thorough and you use that knowledge well, you’re well on your way to becoming an excellent healer and having an excellent understanding of the game. Just be mindful of the context, because the performance of a healer is directly influenced by a virtually immeasurable number of internal and external factors.
 
-That’s All, Folks
+
+--- 
+
+# That’s All, Folks
 That’s… that’s it. That’s all I’ve got right now. It’s finally over. If you somehow suffered through this monstrosity with me, I just want to say thank you. Thank you for caring enough to seek information, thank you for wanting to improve, thank you for being the best kind of player. You deserve a fucking medal. I hope this at least helps somebody. Because it sure didn’t help my RSI. Best of luck to you. Keep fighting the good fight. Keep seeking knowledge. There’s always something to learn.
 
--Zyrk
+> -Zyrk
 
 
 
