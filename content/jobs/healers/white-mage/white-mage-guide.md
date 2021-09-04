@@ -3,12 +3,13 @@ title: White Mage Guide
 ---
 Notes;
 - 1-1 port from guide linked in #whm_resources
-- Basic formatting has been done
 - Rotation graphics need to be added for Opener section 
   - Elleiana can make one; but need confirmation on info first!
 - Unsure what to do with regards to tooltips
    - Have added screenshots of tooltips to show how the guide was intended; not sure if I should continue with screenshots, or if the API can be pulled directly instead.
 - Source info: https://saltedxiv.com/guides/whm
+
+<!-- TODO: link proper healing guide later, so it doesnt go to the gdoc! -->
 
 --- 
 
