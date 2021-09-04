@@ -78,8 +78,8 @@ Orinx for his excellent work on the healer DH thread.
 # Table of Contents
 *(for you PDF nerds)*
 
-- [The Scope of this Guide]
-- [Core Concepts and Mechanics]
+- [The Scope of this Guide](#the-scope-of-this-guide)
+- [Core Concepts and Mechanics](#core-concepts-and-mechanics)
   - [GCDs/Spells]
   - [oGCDs/Abilities]
   - [GCD Clipping/Animation Lock]
@@ -150,7 +150,8 @@ Orinx for his excellent work on the healer DH thread.
 
 --- 
 
-The Scope of this Guide
+# The Scope of this Guide
+
 I’ve said before that I feel like it’s difficult to adequately present a concise job guide for a healer, because any single topic would require an extensive explanation of caveats, edge cases, and exceptions in order to be much more than a general guideline. And many people may misconstrue that guideline because they don’t understand the reasoning behind it, and therefore don’t understand what situations would necessitate a deviation from said guideline.
 
 It is with this in mind that I wanted to undertake the construction of a resource that would attempt to set people up with an understanding of the fundamental principles of healing, the thought processes that lead us to arrive at a given conclusion, the tools to think through problems or questions on their own, the ability to apply their knowledge to any variety of unique and unfamiliar situations and adapt to them, and the foundation and perspective to analyze and scrutinize information to determine sound or flawed reasoning.
@@ -163,83 +164,118 @@ I’ve attempted to write a TL;DR at the beginning of most sections to make it m
 
 Without further ado… let’s teach a man to fish.
 
-Core Concepts and Mechanics
+
+--- 
+
+# Core Concepts and Mechanics
+
 There’s a lot going on behind the scenes in this game that many players may be partially or even completely unaware of. Some things are more apparent, while others are virtually undetectable through normal gameplay. A lot of guides mention some of these mechanics where they are relevant to healing, but I wanted to compile an explanation of them here, as it’s important to understand them.
-GCDs/Spells
-TL;DR - GCDs are actions that activate the global base recast timer of 2.5s, and scale with skill/spell speed and attack speed buffs. GCD heals are affected by healing buffs and debuffs.
 
-A GCD is a Global Cooldown. It’s the recast time on all your normal actions. The base GCD is 2.5s, and this is reduced by attack speed buffs, as well as skill/spell speed. All spells display a cast and recast time. These times may or may not be the same. For instance, Esuna has a cast time of 1.5s, and it is a GCD spell, which means it has a base recast of 2.5s. You are finished casting the spell after the cast time is finished, but cannot cast another GCD spell until after the recast timer is finished. Some spells (like Raises) have a longer cast time than the GCD.
+## GCDs/Spells
 
-Understanding the difference between spells and abilities is important, because outgoing healing buffs only affect spells, which specifically refers to actions that are on the GCD. So, buffs like Temperance, Fey Illumination, and Dissipation that buff outgoing healing only affect spells like Cure, Medica, Medica II and Regen’s HoT effects, etc. In the tooltip, an outgoing healing buff will use the wording, “increases healing magic potency...”
+*TL;DR - GCDs are actions that activate the global base recast timer of 2.5s, and scale with skill/spell speed and attack speed buffs. GCD heals are affected by healing buffs and debuffs.*
+
+A **GCD** is a **G**lobal **C**ool**d**own. It’s the recast time on all your normal actions. The base GCD is 2.5s, and this is reduced by attack speed buffs, as well as skill/spell speed. All spells display a cast and recast time. These times may or may not be the same. For instance, Esuna has a cast time of 1.5s, and it is a GCD spell, which means it has a base recast of 2.5s. You are finished casting the spell after the cast time is finished, but cannot cast another GCD spell until after the recast timer is finished. Some spells (like Raises) have a longer cast time than the GCD.
+
+Understanding the difference between spells and abilities is important, because outgoing healing buffs only affect spells, which specifically refers to actions that are on the GCD. So, buffs like Temperance, Fey Illumination, and Dissipation that buff outgoing healing only affect spells like Cure, Medica, Medica II and Regen’s HoT effects, etc. In the tooltip, an outgoing healing buff will use the wording, **“increases healing magic potency...”**
 
 (Embrace and Seraphic Veil are also considered spells, even though they’re not tied to your own GCD, but Aetherpact, Whispering Dawn, Angel’s Whisper, and Consolation are considered abilities rather than spells, and are therefore not affected by outgoing healing buffs.)
 
 
-oGCDs/Abilities
-TL;DR - oGCDs are abilities that do not activate the global base recast timer of 2.5s. They are actions that typically have cooldowns, and oGCD heals are not affected by healing buffs and debuffs.
 
-Actions that are not tied to the GCD are referred to as oGCDs (off Global Cooldown), and these are generally classified as abilities. These include actions such as Tetragrammaton, Lustrate, Essential Dignity, Assize, Indomitability, Earthly Star, etc. These are not affected by outgoing healing buffs, because they are abilities, not spells. That said, they are also not affected by healing debuffs like Infirmity, and will heal for their full value even when the target is receiving reduced healing.
+## oGCDs/Abilities
 
-However, they are affected by incoming healing buffs like Mantra, Nature’s Minne, and Asylum, which work on all healing, including abilities. In the tooltip, an incoming healing buff will use the wording, “increases HP recovery via healing actions...”
+
+*TL;DR - oGCDs are abilities that do not activate the global base recast timer of 2.5s. They are actions that typically have cooldowns, and oGCD heals are not affected by healing buffs and debuffs.*
+
+
+Actions that are not tied to the GCD are referred to as **oGCDs** (**o**ff **G**lobal **C**ool**d**own), and these are generally classified as abilities. These include actions such as Tetragrammaton, Lustrate, Essential Dignity, Assize, Indomitability, Earthly Star, etc. These are not affected by outgoing healing buffs, because they are abilities, not spells. That said, they are also not affected by healing debuffs like Infirmity, and will heal for their full value even when the target is receiving reduced healing.
+
+However, they are affected by incoming healing buffs like Mantra, Nature’s Minne, and Asylum, which work on all healing, including abilities. In the tooltip, an incoming healing buff will use the wording, **“increases HP recovery via healing actions...”**
 
 Both spells and abilities are affected by your stats, which means they will scale with your gear, are affected by stat buffs such as Mind potions, and are affected by Weakness and Brink of Death.
-GCD Clipping/Animation Lock
-TL;DR - Executing any action has an animation lock. oGCD animation locks can eat into your GCD uptime and reduce your total output. To avoid this, you can use oGCDs after an instant GCD.
 
-Every action has an animation lock, including GCDs. The animation lock on GCDs is typically not too important, because the GCD recast timer is much longer than the animation lock. However, this becomes important when using instant oGCDs, because they can cut into your next GCD, reducing the amount of time you spend actually casting spells, thereby reducing your total output. This is called clipping. It seems like a small difference, but it adds up very quickly. For instance, if you’re casting Glare back to back, and you use Tetragrammaton between casts, you inserted a delay between your casts. Do that enough times, and it quickly adds up to many lost casts over the course of a fight.
+## GCD Clipping/Animation Lock
 
-The way we address this is by trying to use oGCDs during the remaining recast timer after using an instant GCD, such as Regen, Aero 2, etc. This allows us to use those oGCDs without sacrificing GCD uptime, because the oGCD was used during the GCD timer, instead of between two GCD timers. This is called weaving.
+*TL;DR - Executing any action has an animation lock. oGCD animation locks can eat into your GCD uptime and reduce your total output. To avoid this, you can use oGCDs after an instant GCD.*
+
+
+
+Every action has an animation lock, including GCDs. The animation lock on GCDs is typically not too important, because the GCD recast timer is much longer than the animation lock. However, this becomes important when using instant oGCDs, because they can cut into your next GCD, reducing the amount of time you spend actually casting spells, thereby reducing your total output. This is called **clipping**. It seems like a small difference, but it adds up very quickly. For instance, if you’re casting Glare back to back, and you use Tetragrammaton between casts, you inserted a delay between your casts. Do that enough times, and it quickly adds up to many lost casts over the course of a fight.
+
+The way we address this is by trying to use oGCDs during the remaining recast timer after using an instant GCD, such as Regen, Aero 2, etc. This allows us to use those oGCDs without sacrificing GCD uptime, because the oGCD was used during the GCD timer, instead of between two GCD timers. This is called **weaving**.
 The animation lock on most actions is roughly .65s, and this is not affected by attack speed buffs or skill/spell speed. This is also true for GCDs. For instance, if you cast Regen, the animation lock of the GCD itself is .65s. After that animation lock is finished, you can use an oGCD like Tetragrammaton, which is another .65s animation lock. Depending on how fast or slow your GCD timer is (as in how much skill/spell speed you have, and attack speed buffs), you should be able to use a second oGCD before your GCD is up again, while clipping into your next GCD very little, if at all.
 
 Utilizing these instant cast windows to weave oGCDs is very important for maximizing your throughput, and most job guides should address the specifics of this as it applies to each healer. To simplify, you can look at it as each time you clip your GCD with an oGCD, you lost ~33% of the potency of your DPS filler, because you lost ~33% of a GCD worth of uptime. Some amount of clipping may be unavoidable, but it is something to be mindful of.
-Caster Tax
-TL;DR - Any spell with a cast time equal to or greater than its recast time has an unwritten ~0.12s animation between perfectly chained casts. If the cast is shorter than the recast, this does not apply.
+
+## Caster Tax
+
+*TL;DR - Any spell with a cast time equal to or greater than its recast time has an unwritten ~0.12s animation between perfectly chained casts. If the cast is shorter than the recast, this does not apply.*
+
 
 Spells with full cast times, meaning the cast time is equal to or greater than the recast (GCD), are subject to an unwritten animation lock that takes up roughly a flat 120ms. For example, if your GCD is the full 2.5s and you’re chain casting Glare, which has a full 2.5s cast time, it’s actually about 2.62s between casts because of that extra animation lock that occurs after the spell completes.
 
 However, with a spell that has a shorter cast time than the GCD, like any instant cast or spell with a fast cast time like Esuna or Malefic IV (1.5s), that short animation lock is eaten by the recast time, so you would have the true 2.5s between casts if you were chain casting spells like that.
 
 This is mostly relevant for Astrologian, because their main damage spell has a shorter cast time than the GCD, so they are virtually completely exempt from the caster tax, which can add up to several extra casts over a full fight (and slightly more MP spent, by extension).
-Heal Delay
-TL;DR - There’s a small delay between the end of a cast and the application of damage or healing. AoE effects also roll on one target at a time, making that delay more pronounced on some targets. Keep this delay in mind and play accordingly.
+
+## Heal Delay
+
+*TL;DR - There’s a small delay between the end of a cast and the application of damage or healing. AoE effects also roll on one target at a time, making that delay more pronounced on some targets. Keep this delay in mind and play accordingly.*
+
+
 
 This is a pesky mechanic of the game, but one that can be accounted for and even used to your advantage, to a degree. I’m sure everyone knows the Benediction meme about how it’s “instant” except it isn’t. We’ve all been there, whether it’s Benediction, or Cure II, or whatever, where you see the pretty green numbers pop up above your tank’s corpse even though you finished the cast before he died. That’s just the way it is. Nothing to be done about it, so get familiar with it, get used to it, and learn to work around it. As you learn to predict damage, and familiarize yourself with the timings, you can do all sorts of neat things like casting Benediction right before someone takes damage, only to have Benediction actually heal them immediately after the damage goes through.
 
 This delay also applies to buffs, as any tank will tell you. There is an animation delay before the buff shows up on the target’s buff bar, and then yet another small delay before the game actually registers the effects of the buff. The way the game calculates damage also factors into this delay, but suffice it to say that it’s very possible for tanks to die with Hallowed Ground on their buff bar, or take damage while they have a shield up. Buffs, including shields, need to be used slightly more in advance than it may appear.
 
 The real kicker here is that there’s a much more significant delay on AoE heals (and damage). If you’ve ever cast Holy, you’ve probably noticed that there can be a pretty large gap between when the first enemy gets stunned and when the last enemy gets stunned. This is because AoEs roll on one target at a time. This can lead to situations where an AoE heal rolls on some targets too late, and they don’t get healed in time for raid damage, so you’ll want to account for that when timing your heals.
-Server/Entity Ticks
-TL;DR - DoTs and HoTs “tick” every 3 seconds. Most ground effects also tick every 3 seconds for the purpose of applying the effects of the ground AoE, so for position-based buff effects like Sacred Soil, Collective Unconscious, and Passage of Arms, you may need to use the skill up to 3 seconds before damage is calculated in order for the effect to apply in time.
 
-While we’re on the subject of delays, let’s talk about server/entity ticks. It’s a phenomenon commonly referred to as server ticks, but the more accurate term may be entity ticks. Many aspects of the game operate in intervals of 3 seconds, most notably HoTs and DoTs, as well as passive HP and MP regeneration, which “tick” every 3s. The timing of the entity tick is determined when each entity is spawned in, which is why everyone’s ticks usually line up in an instance, since every entity should be created simultaneously.
+## Server/Entity Ticks
+
+*TL;DR - DoTs and HoTs “tick” every 3 seconds. Most ground effects also tick every 3 seconds for the purpose of applying the effects of the ground AoE, so for position-based buff effects like Sacred Soil, Collective Unconscious, and Passage of Arms, you may need to use the skill up to 3 seconds before damage is calculated in order for the effect to apply in time.*
+
+
+While we’re on the subject of delays, let’s talk about **server/entity ticks.** It’s a phenomenon commonly referred to as server ticks, but the more accurate term may be entity ticks. Many aspects of the game operate in intervals of 3 seconds, most notably HoTs and DoTs, as well as passive HP and MP regeneration, which “tick” every 3s. The timing of the entity tick is determined when each entity is spawned in, which is why everyone’s ticks usually line up in an instance, since every entity should be created simultaneously.
 
 The part where this becomes quite significant is when you look at persistent ground effects. Asylum, Collective Unconscious, and Sacred Soil (and Shadow Flare) are all persistent ground effects. Previously, these effects could take up to 3 seconds after being placed before their effect would trigger, as they worked on an independent server tick. As of patch 4.4, ground effects such as these apply their effect immediately upon being placed.
 
 The first “tick” on the initial cast is entirely independent from the actual 3 second tick intervals, so the first two “ticks” can be anywhere from 0-3 seconds apart. The remaining ticks will happen in 3s intervals following the second tick. The important thing here is that they still only refresh their effects in 3 second intervals, so if someone isn’t within the effect when it’s placed, they will not receive the buff as soon as they walk into the area. They can only receive the buff on a refresh “tick.”
 
-This means that, if you want the damage reduction from Collective Unconscious or Sacred Soil, you need to use the ability before the incoming damage is calculated. And damage is calculated at a different time for lots of different abilities. Usually, the calculation is made right at or just before the end of the cast of the ability, which is typically shortly before the damage hits. However, there are some instances where the damage is calculated long before you take the damage. Susano’s phase transition comes to mind, where the damage is calculated almost right when you destroy the sword, and if you put up shields after that, the damage of his phase transition will go right through them.
+This means that, if you want the damage reduction from Collective Unconscious or Sacred Soil, you need to use the ability before the incoming damage is *calculated*. And damage is calculated at a different time for lots of different abilities. Usually, the calculation is made right at or just before the end of the cast of the ability, which is typically shortly before the damage hits. However, there are some instances where the damage is calculated long before you take the damage. Susano’s phase transition comes to mind, where the damage is calculated almost right when you destroy the sword, and if you put up shields after that, the damage of his phase transition will go right through them.
 
-The change in patch 4.4 actually caused Asylum to have 1 additional tick, because its first tick occurs immediately upon placement. It may be important to note that Collective Unconscious doesn’t benefit in the same way. The distinction is that Asylum is a ground effect that heals, so its ticks are calculated as a ground effect. Collective Unconscious is a ground effect that applies a HoT (and damage reduction). The HoT still functions the same as a normal HoT, with its ticks falling on the independent server/entity tick.
-eHP/Mitigation
-TL;DR - Everyone needs to use their mitigation tools. Coordinate mitigation with your group if possible, Reprisal is not an optional role skill. Addle is not for your Wyrmwave if it can be used to save a healer GCD instead.
+The change in patch 4.4 actually caused Asylum to have 1 additional tick, because its first tick occurs immediately upon placement. It may be important to note that Collective Unconscious doesn’t benefit in the same way. The distinction is that Asylum is a ground effect that heals, so its ticks are calculated as a ground effect. Collective Unconscious is a ground effect *that applies a HoT* (and damage reduction). The HoT still functions the same as a normal HoT, with its ticks falling on the independent server/entity tick.
 
-First and foremost, mitigation is a group effort. We don’t have Virus or Disable anymore, and they redistributed our wealth of on-demand mitigation to other roles. The upside is that we now have more total mitigation potential across the whole party than ever before. Tanks have a flat 10% reduction every 60s from Reprisal. Each ranged physical DPS has 10% reduction every 120s. Melee and casters have Feint and Addle for 10% physical or magic damage reduction, respectively. The mitigation potential is insane. Use it.
+## eHP/Mitigation
 
-eHP (effective Hit Points) is a term used to describe, well… a person’s effective hit points. This accounts for current or max HP, shields, and damage reduction buffs and debuffs. Not typically discussed as a hard number, but as a concept that you need to make sure the party has enough eHP to survive the incoming damage. You only need enough eHP to consistently survive the incoming damage, so you don’t necessarily need to overmitigate, but you do want to make the most of your available mitigation tools. If you don’t need to mitigate something else before the mitigation tool would come back off cooldown, use it. If you’ll get more value by using it for something else, you may want to hold it for that. Plan your mitigation and discuss it as a group if at all possible.
+*TL;DR - **Everyone needs to use their mitigation tools.** Coordinate mitigation with your group if possible, Reprisal is not an optional role skill. Addle is not for your Wyrmwave if it can be used to save a healer GCD instead.* 
+
+
+First and foremost, ***mitigation is a group effort.*** We don’t have Virus or Disable anymore, and they redistributed our wealth of on-demand mitigation to other roles. The upside is that we now have more total mitigation potential across the whole party than ever before. Tanks have a flat 10% reduction every 60s from Reprisal. Each ranged physical DPS has 10% reduction every 120s. Melee and casters have Feint and Addle for 10% physical or magic damage reduction, respectively. The mitigation potential is insane. *Use it.*
+
+**eHP** (**e**ffective **H**it **P**oints) is a term used to describe, well… a person’s effective hit points. This accounts for current or max HP, shields, and damage reduction buffs and debuffs. Not typically discussed as a hard number, but as a concept that you need to make sure the party has enough eHP to survive the incoming damage. You *only* need enough eHP to consistently survive the incoming damage, so you don’t necessarily need to overmitigate, but you do want to make the most of your available mitigation tools. If you don’t need to mitigate something else before the mitigation tool would come back off cooldown, use it. If you’ll get more value by using it for something else, you may want to hold it for that. Plan your mitigation and discuss it as a group if at all possible.
 
 Something to note is that damage reduction works multiplicatively. If the unmitigated damage is 10,000, using Reprisal will take it down to 9,000. Using Addle/Feint on top of that would reduce it by 10% again, which would take it down to 8,100. Say you use Sacred Soil, then it becomes 7,290. If you threw in Collective Unconscious, then it’s 6,561. The first cooldown used reduces the damage by 1,000. We’ll call that 100% efficacy of the mitigation. The fourth cooldown only reduced it by an additional 729, compared to the 10,000 unmitigated base. You could think of that as being 72.9% efficacy. Stacking mitigation can be incredibly powerful, but stacking too much can be less efficient if it costs you something, like an opportunity to use one of those cooldowns at full strength on something else, or an Aetherflow stack in the case of SCH.
 
 
-Buff/Debuff Snapshotting
-TL;DR - Damage is calculated for each attack at a specific instant, usually slightly before the damage occurs. For the purposes of damage modifiers, the buff/debuff needs to be in place when the damage is calculated. For DoTs and HoTs, all buffs and debuffs on the target the instant the DoT/HoT is applied affect the entire duration of the DoT/HoT.
 
-While talking about server/entity ticks, I mentioned “when the damage is calculated.” That ties into this. Snapshotting refers to how an action’s effect is calculated at one particular instant before the action’s effect applies. This has a special interaction with DoT and HoT effects. The entire duration of the DoT/HoT is affected by whatever buffs and debuffs were in effect when the DoT/HoT was applied. This means that if you apply a DoT right before Trick Attack wears off, every tick for the entire duration of the DoT will be dealing extra damage, because the DoT was snapshot under Trick Attack. HoT effects (spells only, remember) also interact the same way with healing buffs. This means that you can use Temperance, cast Regen on the tank, and then refresh Regen right before Temperance wears off, and you’ll get a lot of buffed Regen time.
+## Buff/Debuff Snapshotting
+
+*TL;DR - Damage is calculated for each attack at a specific instant, usually slightly before the damage occurs. For the purposes of damage modifiers, the buff/debuff needs to be in place when the damage is calculated. For DoTs and HoTs, all buffs and debuffs on the target the instant the DoT/HoT is applied affect the entire duration of the DoT/HoT.*
+
+
+
+While talking about server/entity ticks, I mentioned “when the damage is *calculated.*” That ties into this. **Snapshotting** refers to how an action’s effect is calculated at one particular instant before the action’s effect applies. This has a special interaction with DoT and HoT effects. The entire duration of the DoT/HoT is affected by whatever buffs and debuffs were in effect when the DoT/HoT was applied. This means that if you apply a DoT right before Trick Attack wears off, every tick for the entire duration of the DoT will be dealing extra damage, because the DoT was snapshot under Trick Attack. HoT effects (spells only, remember) also interact the same way with healing buffs. This means that you can use Temperance, cast Regen on the tank, and then refresh Regen right before Temperance wears off, and you’ll get a lot of buffed Regen time.
 
 The exception to this is persistent ground effects. These DoTs/HoTs snapshot buffs on the player, but calculate each tick individually against targets and do not snapshot enemy debuffs (except Collective Unconscious, because the field applies a persistent HoT buff, which snapshots).
-Enmity/Threat
-TL;DR - Damage generates enmity equal to 100% of damage dealt. Healing any target that is in combat generates enmity equal to 50% of healing done, divided evenly between all enemies the target is in combat with. Overhealing does generate enmity, but not at an increased rate.
 
-Enmity/threat isn’t something we usually have to pay too much attention to as healers, because the game just isn’t designed for it to be our problem, for the most part. However, it’s still important to understand how it works for the situations where it is our problem due to fight mechanics or other extraneous circumstances.
+## Enmity/Threat
+
+*TL;DR - Damage generates enmity equal to 100% of damage dealt. Healing any target that is in combat generates enmity equal to 50% of healing done, divided evenly between all enemies the target is in combat with. Overhealing does generate enmity, but not at an increased rate.*
+
+
+
+Enmity/threat isn’t something we usually have to pay too much attention to as healers, because the game just isn’t designed for it to be our problem, for the most part. However, it’s still important to understand how it works for the situations where it *is* our problem due to fight mechanics or other extraneous circumstances.
 
 Healing a target that is in combat generates enmity against all enemies the recipient of the healing is in combat with. This enmity is equal to 50% of the amount of HP restored, including overhealing, and that enmity is divided evenly between all enemies in combat with the recipient of the heal (200 healing = 100 enmity, if there are 2 enemies, that’s 50 enmity each). Overhealing does not generate enmity at an increased rate, but does still generate the normal amount of enmity. Normal enmity generation is simply a 100% conversion of the amount of damage dealt, with tanks having various enmity multipliers on their tank stances and certain skills, which causes them to generate enmity equal to several times the amount of damage they deal.
 
@@ -248,90 +284,130 @@ Applying buffs also generates a small, superficial amount of enmity, so if your 
 Not using HoTs before/during dungeon pulls is a general guideline and a courtesy thing, but it is potentially a gain. Every tank will feel differently about it, though, and unless you know your tank and know they’re okay with it, chances are good that most pug tanks will simply find it annoying, which is more trouble than it’s worth. You could explain to the tank that the regens are intentional and that you know you’re not in any danger by taking a few hits in the process when you bring the stragglers to the tanks at the end of the pull so he can pick them up. But, any time you lose by explaining this or having the tank slow down to question it or complain is going to be far more time than you could ever save by saving one GCD here and there over the whole dungeon.
 
 The exception to this is on pulls with only a single target, as the first thing that’s going to happen is your tank hitting that target, which will generate far more threat than a single tick of your HoT. Some fights even benefit from having an AoE HoT up before you pull if there is raidwide damage very early in the fight, but this applies more to AST, since their sects offer a permanent 25% reduced enmity generated. It should likely be discussed with your tank ahead of time, and if it requires the tank to do an additional threat combo, it is generally not worth it. If you have a NIN for Shadewalker/Smokescreen, it should be a complete nonissue.
-Macros and Skill Queueing
-TL;DR - Macros insert a small delay between actions because they do not use the skill queueing system, so they’re subject to input delay and latency. This decreases your output, so macros for commonly used GCDs are highly discouraged. Some oGCD macros are more acceptable, but they will still create delays, so you should understand the cost and benefit and have a good justification for them.
 
-Skill queueing is the system that allows you to queue your next skill before your current action is entirely finished. When you give the command to execute an action within a little less than 1 second of the end of your current action, the game will queue up that action to start immediately when your current action finishes. This mitigates input and latency delays between your actions in order to allow for smoother gameplay.
+## Macros and Skill Queueing
 
-Macros, however, are unable to use the skill queueing system. They will not begin executing the action until after the first time you press the key after your current action is finished. Even if you spam the key at inhuman speeds and issue the command the exact moment your current action is finished, you’re still subject to latency delay while the game receives that command. This causes a small delay between actions whenever you’re using macros, which can add up very quickly to a lot of lost time over the course of a fight. Ultimately, macros reduce your total output the more you use them, which should be avoided whenever possible.
+*TL;DR - Macros insert a small delay between actions because they do not use the skill queueing system, so they’re subject to input delay and latency. This decreases your output, so macros for commonly used GCDs are highly discouraged. Some oGCD macros are more acceptable, but they will still create delays, so you should understand the cost and benefit and have a good justification for them.*
+
+**Skill queueing** is the system that allows you to queue your next skill before your current action is entirely finished. When you give the command to execute an action within a little less than 1 second of the end of your current action, the game will queue up that action to start immediately when your current action finishes. This mitigates input and latency delays between your actions in order to allow for smoother gameplay.
+
+Macros, however, are unable to use the skill queueing system. They will not begin executing the action until *after* the first time you press the key after your current action is finished. Even if you spam the key at inhuman speeds and issue the command the exact moment your current action is finished, you’re still subject to latency delay while the game receives that command. This causes a small delay between actions whenever you’re using macros, which can add up very quickly to a lot of lost time over the course of a fight. Ultimately, macros reduce your total output the more you use them, which should be avoided whenever possible.
 
 Macros for your GCDs are the most egregious offenders, especially commonly used GCDs. Macros for oGCDs aren’t nearly as bad, and can situationally be quite helpful, but they will likely still result in additional clipping. GCD macros are highly discouraged, as you have plenty of time between GCDs to change to your next target. You already have to decide your next cast in the span of one GCD, so it shouldn’t require any additional thought to decide what you should be targeting as well. There is a case for mouseover macros for instant oGCD heals, because those are sometimes used as emergency spot heals, where you cannot pre-select your target and are forced to react as quickly as possible, but do yourself a favor and avoid GCD macros like the plague and get used to targeting manually.
 
-The other exception to this lies in the phrase “commonly used GCDs.” Some healers strongly prefer using targeting macros for single target GCD heals (Cure II, Regen, and equivalents), including some of the most talented and successful healers at the highest levels of play. The thing is, at those high levels of play, they can “get away with it,” you could say, because their healing is so optimized that they might cast a single digit number of those spells in an entire fight, so the total effect of that small delay is minimized to the point of being entirely negligible.
+The other exception to this lies in the phrase *“commonly used GCDs.”* Some healers strongly prefer using targeting macros for single target GCD heals (Cure II, Regen, and equivalents), including some of the most talented and successful healers at the highest levels of play. The thing is, at those high levels of play, they can “get away with it,” you could say, because their healing is so optimized that they might cast a single digit number of those spells in an entire fight, so the total effect of that small delay is minimized to the point of being entirely negligible.
 
-The bottom line remains, however. It’s fundamentally, principally less efficient. There is still a delay, and that can matter, even if it doesn’t result in any lost GCDs over the fight. Even the smallest delay increases the amount of time over which you are dealing damage, and even though you are doing the same amount of damage, if it takes you 0.5s longer to deal that damage, you have increased the S portion of DPS, thereby reducing your DPS. Macros such as these are permissible when you are playing efficiently enough that you cast very few single target heals, but they should be off limits for anyone who finds themselves leaning heavily on these single target GCD heals, and I aim to encourage building the best habits from the start.
-Stat Tiers
-TL;DR - All stats in the game operate in discrete tiers. You will gain no benefit from a stat point unless that stat point pushes you to the next tier. Check the stat tiers here.
+The bottom line remains, however. It’s fundamentally, principally less efficient. There is still a delay, and that can matter, even if it doesn’t result in any lost GCDs over the fight. Even the smallest delay increases the amount of time over which you are dealing damage, and even though you are doing the same amount of damage, if it takes you 0.5s longer to deal that damage, you have increased the ***S*** portion of DPS, thereby reducing your DPS. Macros such as these are permissible when you are playing efficiently enough that you cast very few single target heals, but they should be off limits for anyone who finds themselves leaning heavily on these single target GCD heals, and I aim to encourage building the best habits from the start.
 
-Stat tiers are probably the most obfuscated thing in the entire game. Everything in the game is tiered off at set intervals. Your GCD is tiered every .01s, your crit chance is tiered every .1%, your increased damage and healing from determination is tiered every .1%. Your physical and magic defense are tiered. Your main stat is tiered. Your attack power and magic attack power are tiered. Everything. Is. Tiered. (Check the stat tiers here)
+## Stat Tiers
+
+*TL;DR - All stats in the game operate in discrete tiers. You will gain no benefit from a stat point unless that stat point pushes you to the next tier. [Check the stat tiers here.](https://www.akhmorning.com/allagan-studies/stats/)*
+
+
+
+Stat tiers are probably the most obfuscated thing in the entire game. Everything in the game is tiered off at set intervals. Your GCD is tiered every .01s, your crit chance is tiered every .1%, your increased damage and healing from determination is tiered every .1%. Your physical and magic defense are tiered. Your main stat is tiered. Your attack power and magic attack power are tiered. [Everything. Is. Tiered. (Check the stat tiers here)](https://www.akhmorning.com/allagan-studies/stats/)
 
 For example, skill/spell speed tiers are over 60 points apart. 715 spell speed is a GCD of 2.44s. Your GCD does not change at all until you get to the next tier at 782 spell speed. You could have 781 spell speed and your GCD would be exactly the same as if you had 715. Your GCD is the only easily observable example of this, and the tiers are very far apart for skill/spell speed, so the potential for wasting stats is the highest for that stat. If you’re worried about your secondary stats, that should be one of the first things you look at. Don’t waste stats.
 
 Other secondary stats are also tiered, but their tiers are much closer together, so the maximum amount of points you can waste in those stats is much smaller, but it’s still something to consider. No point in melding an extra Savage Might V in your crafted accessory if the determination tiers are 17 points apart and you won’t hit the next tier with that +12.
-Damage/Healing Variance
-TL;DR - All damage and healing with a potency value is subject to the game’s potency variance of a uniformly distributed +/-5%. Pay attention and don’t cut things too close.
+
+## Damage/Healing Variance
+
+*TL;DR - All damage and healing with a potency value is subject to the game’s potency variance of a uniformly distributed +/-5%. Pay attention and don’t cut things too close.*
 
 All potency-based damage and healing (as opposed to percent-based) is subject to the game’s potency variance of a uniformly distributed +/-5%. This means that non-percent-based damage and healing can roll for as low as 95% of the listed potency and as high as 105% of the listed potency, and it is equally likely to roll any number within that range.
 
 Sometimes, a tank will get high-rolled on several incoming hits in a row and take noticeably more damage than usual, or your heals might roll low, which could leave them too low for upcoming damage if you don’t take notice and compensate for it. Or if people are just barely surviving raid damage, it’s very possible that a high roll could kill them. Just because no one has died yet, that doesn’t mean your current setup is sufficient.
 
 You don’t want to cut it too close and risk having random deaths due to standard variance. Sometimes, you just get unlucky. Your HoTs don’t crit, the ticks roll low, damage rolls high, and suddenly you’ve got a tank who’s missing 20% more HP than usual before a tank buster.
-The Purpose of a Healer
-Keeping the Party Alive
-TL;DR - We heal to keep the party alive so we can kill the boss. But the objective is ultimately to maximize the effectiveness of the party to give the party the best chance at success. This means we do a lot more than just heal.
+
+--- 
+
+# The Purpose of a Healer
+
+
+## Keeping the Party Alive
+
+*TL;DR - We heal to keep the party alive so we can kill the boss. But the objective is ultimately to maximize the effectiveness of the party to give the party the best chance at success. This means we do a lot more than just heal.*
+
 
 Simple, right? The healer’s job is to heal, to keep the party alive. On the surface, this is true. As most of you are aware, that’s not all we do as healers, but we’ll get to that. First, I want to briefly explore this idea. We keep the party alive. We respond to whatever the fight throws at us in order to get the party through the entire encounter so that we can kill the boss. This is our most important function, and is always priority #1. That’s why we need healers. That’s why we keep the party alive. To kill the boss. It shouldn’t require an explanation, but you’d be surprised. The takeaway here is that the goal is to kill the boss. We need people alive so they can deal damage. It doesn’t matter if they’re at 100% HP or 5% HP, as long as they’re not going to die. That’s where the next bit comes in.
-Dealing Damage
-TL;DR - DPS is just as much a part of our job as healing. We contribute as much as we can to the success of the party. Optimizing our play means optimizing healing and damage. Optimizing healing serves no purpose if it doesn’t result in an overall damage gain in some way.
 
-The point of healing the party is that we need them to deal damage in order to kill the boss. Conveniently, we also have a pretty decent damage kit as healers. The goal is to kill the boss, you have to do damage to kill the boss, we can do damage. Simple concept. Whenever we don’t need to be healing, we can and should be doing damage. This is not a debate, it is not a conversation, it is not a suggestion. It is a fact. DPSing isn’t something you start doing when there’s nothing for you to heal. It should be something you stop doing when the fight requires you to heal. There may be times when you legitimately do need to do so much healing that you have almost no opportunities to DPS, but I can promise you that those situations are much rarer than most people think.
+## Dealing Damage
+
+*TL;DR - DPS is just as much a part of our job as healing. We contribute as much as we can to the success of the party. Optimizing our play means optimizing healing and damage. Optimizing healing serves no purpose if it doesn’t result in an overall damage gain in some way.*
+
+
+The point of healing the party is that we need them to deal damage in order to kill the boss. Conveniently, we also have a pretty decent damage kit as healers. The goal is to kill the boss, you have to do damage to kill the boss, we can do damage. Simple concept. Whenever we don’t need to be healing, we can and should be doing damage. This is not a debate, it is not a conversation, it is not a suggestion. It is a fact. **DPSing isn’t something you *start* doing when there’s nothing for you to heal. It should be something you *stop* doing when the fight requires you to heal.** There may be times when you legitimately do need to do so much healing that you have almost no opportunities to DPS, but I can promise you that those situations are much rarer than most people think.
 
 Much of optimizing healing in this game revolves around optimizing damage. Optimizing healing means healing as efficiently as possible in order to give yourself as much time as possible to do damage. Your DPS is far from the only measure of a good healer, but it is a vital part of the picture. If this is a fact that you refuse to accept, I encourage you to reconsider, but I’m going to proceed under the assumption that we’re on the same page, here. I’m not going to try to teach a man to fish when he insists on starving himself to death.
-Healer Identities and Their Roles in the Meta
-The Forced Dichotomy of Healer Design
-TL;DR - Shields are inherently less efficient on their own than equivalent upfront heals and/or regens, because shields are able to do something unique, which is increase the party’s maximum eHP. If you don’t need shields to prevent lethal damage, don’t be afraid to use Diurnal Sect if you’re partied with a WHM. It’s the more efficient Sect. You don’t need the shields just for the sake of themselves.
+
+--- 
+
+# Healer Identities and Their Roles in the Meta
+
+## The Forced Dichotomy of Healer Design
+
+*TL;DR - Shields are inherently less efficient on their own than equivalent upfront heals and/or regens, because shields are able to do something unique, which is increase the party’s maximum eHP. If you don’t need shields to prevent lethal damage, don’t be afraid to use Diurnal Sect if you’re partied with a WHM. It’s the more efficient Sect. You don’t need the shields just for the sake of themselves.*
+
 
 SE currently has this strange obsession with this healing dichotomy. It seems they’ve designed themselves into a corner, and now every healer has to have regens or shields. With that in mind, it’s important to understand how they’ve designed regens and shields. Regens are extremely GCD and MP efficient. They’re very potent because the entire effect isn’t instantaneous. Shields have a very powerful upfront effect, and have the ability to increase eHP and prevent otherwise lethal damage. Shields ease HP checks. SE has factored this heavily into the power budget of shields, generally giving shields high MP costs and lower total potency than upfront heals, because they can be used to increase the party’s maximum eHP.
 
-By nature, because shields are generally less GCD and MP efficient than upfront heals and regens, it is almost always more efficient to heal up the damage than to prevent it with shields. The only time you need shields is when you are preventing someone from dying from full HP. That isn’t to say you won’t cast shields, because you will often do so whenever you do not have alternatives. For a Nocturnal AST, Aspected Helios is simply more potent than Helios as long as the shield is consumed before it falls off. For SCH, if you don’t have Indomitability or Whispering Dawn to handle the AoE healing, you’ll cast Succor. But, when you’re choosing between the two, it’s almost always better to heal the damage afterward than to expend more resources to mitigate it.
+By nature, because shields are generally less GCD and MP efficient than upfront heals and regens, it is almost always more efficient to heal up the damage than to prevent it with shields. The only time you *need* shields is when you are preventing someone from dying from full HP. That isn’t to say you won’t cast shields, because you will often do so whenever you do not have alternatives. For a Nocturnal AST, Aspected Helios is simply more potent than Helios as long as the shield is consumed before it falls off. For SCH, if you don’t have Indomitability or Whispering Dawn to handle the AoE healing, you’ll cast Succor. But, when you’re choosing between the two, it’s almost always better to heal the damage afterward than to expend more resources to mitigate it.
 
-Most notably, as an AST, you’ll choose between Diurnal Sect (regens) and Nocturnal Sect (shields). Unless you absolutely need shields to prevent deaths, regens are inherently much more efficient. Don’t be afraid of running double regens if you’re WHM+AST and there are no mechanics that require shields. You’ll spend less MP and fewer GCDs running double regens than running regens + shields just because people think you have to have one of each. Diurnal Sect’s regens are inherently more potent. It’s simply the better sect, unless the fight forces you to have shields.
+Most notably, as an AST, you’ll choose between Diurnal Sect (regens) and Nocturnal Sect (shields). Unless you absolutely *need* shields to prevent deaths, regens are inherently much more efficient. Don’t be afraid of running double regens if you’re WHM+AST and there are no mechanics that *require* shields. You’ll spend less MP and fewer GCDs running double regens than running regens + shields just because people think you have to have one of each. Diurnal Sect’s regens are inherently more potent. It’s simply the better sect, unless the fight forces you to have shields.
+
 All this said… in the Shadowbringers expansion, SE pivoted heavily on healer design. The regen/shield dichotomy still exists, but it’s significantly diminished due to the increased accessibility to both kinds of tools even “outside of the job’s role.” WHM has limited access to mitigation (though not a shield) through Temperance. AST has limited access to the opposite sect’s effects with Celestial Intersection and Neutral Sect. SCH got new raw healing and regen abilities like Consolation and Sacred Soil getting a powerful HoT effect.
 
 In addition to that, ranged physical DPS have all been given access to raidwide mitigation, and tanks have been given more tools to improve the survivability of the rest of the party across the board. Together, these changes reduce the game’s focus on whether each healer primarily has access to regens or shields, because everyone has a little of everything. So the dichotomy exists, it’s just much less important.
-WHM
-TL;DR - WHM has excellent on demand and sustained healing, providing superior brute force healing and recovery potential, as well as brute force DPS, and it has a solid spot in many groups because of this, especially during progression.
+
+## WHM
+
+*TL;DR - WHM has excellent on demand and sustained healing, providing superior brute force healing and recovery potential, as well as brute force DPS, and it has a solid spot in many groups because of this, especially during progression.*
+
 
 White Mage boasts the most powerful sustained AoE healing of the three healers in the form of Cure III. It’s incredibly potent and MP efficient as an AoE heal. Honestly, this is half the reason you would want a WHM in your group. It’s an amazing tool for brute forcing AoE healing, picking up slack in an emergency, and recovering from HP deficits very quickly. WHM also has an impressive suite of oGCD heals, which offer a lot of value without having to lean heavily on GCD heals, as well as additional burst healing and recovery potential. WHM also has ridiculously good MP economy between Lucid Dreaming, Thin Air, Assize, and Lily spells. These factors combine to make it an excellent choice for progression or in less coordinated play in general.
 
 In addition to its healing kit, WHM has the highest potency DPS filler. This is important to consider when coordinating healing GCDs, because the WHM’s DPS GCD is more valuable than AST’s or SCH’s.
-SCH
-TL;DR - SCH is the king of oGCD healing and on demand mitigation. They reign supreme in the sheer number of oGCDs they have access to, which allows them to fulfill their job fantasy of being the battlefield tactician with a tool for every job and a contingency for every possible scenario.
+
+## SCH
+
+*TL;DR - SCH is the king of oGCD healing and on demand mitigation. They reign supreme in the sheer number of oGCDs they have access to, which allows them to fulfill their job fantasy of being the battlefield tactician with a tool for every job and a contingency for every possible scenario.*
+
 
 Disclaimer: in this section, I’m going to use some questionable terminology. This terminology does not necessarily reflect the common uses of these terms and does not necessarily transfer perfectly to common lingo. However, within the confines of this guide, it is important for the sake of clarity that I’m able to clearly refer to different portions of a healer’s DPS contribution as separate entities. These terms are as follows:
 
-pDPS - Personal DPS. This is how much DPS you do directly with your damaging spells and abilities.
-rDPS - Raid DPS. In this context, I’m using this to describe how much DPS you contribute by increasing the DPS of the rest of the raid through buffs and debuffs (card buffs, Chain Stratagem).
-tDPS- Total DPS. pDPS + rDPS. I’m going to use this to refer to all the DPS you’re contributing to the group with your entire kit.
+- **pDPS** - Personal DPS. This is how much DPS you do directly with your damaging spells and abilities.
+- **rDPS** - Raid DPS. In this context, I’m using this to describe how much DPS you contribute by increasing the DPS of the rest of the raid through buffs and debuffs (card buffs, Chain Stratagem).
+- **tDPS**- Total DPS. pDPS + rDPS. I’m going to use this to refer to all the DPS you’re contributing to the group with your entire kit.
 
 Scholar is the king of oGCD healing. It boasts several of the most powerful oGCD abilities in the entire game, as well as a fairy that contributes quite frankly a disgusting amount of healing and utility to the party. SCH has, at the time of this writing (Patch 5.4), less personal DPS (pDPS) than WHM but more than AST, and they bring a very nice raid DPS (rDPS) cooldown in the form of Chain Stratagem. From patch to patch, the balance of the healers’ total DPS (tDPS) can shift frequently. Currently, SCH is in a somewhat awkward place because so much of its contribution to the party is in the form of highly efficient oGCD heals, which has the potential to enable significantly increased cohealer DPS in the right situation.
 
 However, this isn’t always the case in practice, because that amount of healing doesn’t enable any additional cohealer DPS if the group already has enough free healing that you can’t create additional DPS opportunities by bringing a SCH. For that reason, a good SCH can be absolutely incredible in progression and less optimized play because of the raw numerical power of its kit, but the job can fall in and out of favor in speedruns depending on the exact balance of the other healers’ kits and the healing requirements in any given encounter.
 
 Notice that I haven’t even mentioned shields. That’s because SCH’s strength, its identity, is not its shields. Once upon a time, that was its identity. That time has long since passed. SCH has shields, but that’s more of a formality at this point. Sometimes, they’re necessary to get the party through HP checks. To that end, SCH and AST have the capacity to shield the party. But this simply is not the core design focus of either job, nor should it be.
-AST
-TL;DR - AST has a full suite of very powerful tools, and its overall DPS contribution to a party makes it virtually always competitive at the highest levels of play. Primarily, the ceiling on its potential DPS contribution is quite high. Because of that, it’s usually the go-to choice for speedkills, and its baseline power is high enough that it’s a desirable healer for general play as well.
 
-Astrologian’s identity is perhaps a bit confused at the moment. To be perfectly honest, it seems like SE isn’t sure how to address the corner they’ve designed themselves into with healers, and AST has become the victim of that uncertainty. As discussed earlier, they’ve been maintaining this dichotomous design that dictates the only healing mechanics as regens or shields, with the rest of the healing kit being basically identical. Because of the way HP checks exist in the game, shields are either mandatory or largely pointless. As a result, they needed to give AST shields in order to avoid SCH being mandatory (as opposed to simply optimal or preferred) as the only healer who can meet HP checks for the party, and they also needed to give it the capacity to heal effectively alongside a SCH to avoid making WHM mandatory. As a result, AST attempts to fulfill both roles and compete with both slots, which is… troublesome to balance, to say the least.
+## AST
 
-AST boasts some very strong GCD heals, good potential rDPS contribution through cards, and a handful of very powerful abilities. Essential Dignity is very potent and has two charges on a low cooldown, making it very abusable. Celestial Intersection is incredibly potent and spammable for tank upkeep. Earthly Star is also the highest potency AoE heal in the game by a longshot, and it’s only on a 60s cooldown. Neutral Sect is hands down the single most powerful healing cooldown in the entire game. If Benediction is the healer’s equivalent to Hallowed Ground, Neutral Sect is the healer’s equivalent to tank LB3. It is a button that allows you to Just Say No™ to damage for about 15 seconds. Quite frankly, it’s overkill for basically every normal situation.
+*TL;DR - AST has a full suite of very powerful tools, and its overall DPS contribution to a party makes it virtually always competitive at the highest levels of play. Primarily, the ceiling on its potential DPS contribution is quite high. Because of that, it’s usually the go-to choice for speedkills, and its baseline power is high enough that it’s a desirable healer for general play as well.*
+
+
+Astrologian’s identity is perhaps a bit confused at the moment. To be perfectly honest, it seems like SE isn’t sure how to address the corner they’ve designed themselves into with healers, and AST has become the victim of that uncertainty. As discussed earlier, they’ve been maintaining this dichotomous design that dictates the only healing mechanics as regens or shields, with the rest of the healing kit being basically identical. Because of the way HP checks exist in the game, shields are either mandatory or largely pointless. As a result, they needed to give AST shields in order to avoid SCH being *mandatory* (as opposed to simply optimal or preferred) as the only healer who can meet HP checks for the party, and they also needed to give it the capacity to heal effectively alongside a SCH to avoid making WHM mandatory. As a result, AST attempts to fulfill both roles and compete with both slots, which is… troublesome to balance, to say the least.
+
+AST boasts some very strong GCD heals, good potential rDPS contribution through cards, and a handful of *very* powerful abilities. Essential Dignity is very potent and has two charges on a low cooldown, making it very abusable. Celestial Intersection is incredibly potent and spammable for tank upkeep. Earthly Star is also the highest potency AoE heal in the game by a longshot, and it’s only on a 60s cooldown. Neutral Sect is hands down the single most powerful healing cooldown in the entire game. If Benediction is the healer’s equivalent to Hallowed Ground, Neutral Sect is the healer’s equivalent to tank LB3. It is a button that allows you to Just Say No™ to damage for about 15 seconds. Quite frankly, it’s overkill for basically every normal situation.
 
 That’s all very well, but AST’s identity is not actually about healing. It’s about providing rDPS through cards, and its pDPS is comparatively quite low in exchange, placing a strong emphasis on optimizing the use of your raid buffs to improve your contribution.
 
 After the card system rework in Shadowbringers, the thing that truly sets AST apart is the focus on paying attention to how best to use your cards. Between uses of Divination (your raidwide damage buff on a two minute cooldown), you manipulate cards to set up your job gauge for Divination, and you carefully decide exactly how and when to distribute them, and to whom, to get the most damage out of them. Optimally, this means taking notice of when each party member is doing the most damage in their own rotation, so that you can buff their highest damage spikes instead of their low damage valleys. At the highest levels of play, your gameplay largely revolves around paying attention to these kinds of details to maximize your damage contribution.
-Encounter Design
-What the Encounter is Asking of You
-TL;DR - In order to determine the best course of action, you should often closely examine exactly what the encounter is asking of you. What are the requirements of this mechanic, and why? How did the devs intend you to handle it when they designed the encounter, and are there other solutions? If you’re ever lost or confused, try considering these questions.
+
+--- 
+
+# Encounter Design
+
+## What the Encounter is Asking of You
+
+*TL;DR - In order to determine the best course of action, you should often closely examine exactly what the encounter is asking of you. What are the requirements of this mechanic, and why? How did the devs intend you to handle it when they designed the encounter, and are there other solutions? If you’re ever lost or confused, try considering these questions.*
+
 
 As healers, it’s critical that we understand the ins and outs of an encounter, because the encounter is primarily what determines what we do and how we play. We observe and understand an encounter in order to formulate a plan of action and respond to its healing, mitigation, and damage requirements. To that end, we must ask ourselves what the encounter is asking of us. What did the devs want me to do when they designed this fight? FFXIV raiding is a dance, and as healers, we have to reverse engineer our half of the dance by observing our dance partner and adapting our steps to match.
 
@@ -339,74 +415,101 @@ On the surface level, it’s simple. The boss deals 40,000 raid damage, the enco
 
 Perhaps the boss is dealing 50,000 raid damage 4 times in a row, roughly 5 seconds apart. Well, my party only has 100,000 max HP. The encounter is asking me to heal consecutively. However, it’s not asking me to heal the 4th AoE immediately. I just need to heal up the damage from the first 3 AoEs and make sure the party has over 50,000 eHP when the last AoE hits, and then I can let regens do the rest.
 
-Asking yourself what the encounter does and doesn’t require from you is both how you learn to heal a fight and how you optimize your healing. Focus on doing everything it asks first, and then you can worry more about what it isn’t asking. Clean up those dance steps. Eliminate unnecessary, messy steps so it looks nice. Okay, the dancing metaphor has gone on long enough.
-Damage Sources
-TL;DR - Paying attention to when damage is happening and where it’s coming from will better inform your decisions on how to efficiently respond to the damage.
+Asking yourself what the encounter does and doesn’t require from you is both how you learn to heal a fight and how you optimize your healing. Focus on doing everything it asks first, and then you can worry more about what it *isn’t* asking. Clean up those dance steps. Eliminate unnecessary, messy steps so it looks nice. Okay, the dancing metaphor has gone on long enough.
 
-A big part of understanding an encounter is understanding where the damage is coming from. It comes from the boss, right? Well, usually, sure. But you need to understand how much damage is coming from different parts of the fight, from different abilities and mechanics. In some fights, the boss’s regular auto attacks hit like a truck. In others, they may barely even be noticeable, or the boss might not even have auto attacks. Some bosses do almost all of their damage with tank busters, some are mostly raid damage. Understanding where the damage is coming from will allow you to make more informed decisions about how you’re going to heal an encounter.
+## Damage Sources
+
+*TL;DR - Paying attention to when damage is happening and where it’s coming from will better inform your decisions on how to efficiently respond to the damage.*
+
+
+A big part of understanding an encounter is understanding where the damage is coming from. It comes from the boss, right? Well, usually, sure. But you need to understand how much damage is coming from different parts of the fight, from different abilities and mechanics. In some fights, the boss’s regular auto attacks hit like a truck. In others, they may barely even be noticeable, or the boss might not even *have* auto attacks. Some bosses do almost all of their damage with tank busters, some are mostly raid damage. Understanding where the damage is coming from will allow you to make more informed decisions about how you’re going to heal an encounter.
 
 For instance, if I know that the boss’s auto attacks hurt a lot, that means that I’m going to have to pay more attention to the tank during portions of the fight where the boss is auto attacking freely. If the boss doesn’t auto attack at all, I may well ignore the tank after a tank buster that drops him to 10% HP, because he’s not going to take any more damage. Most bosses also auto attack while they’re in the middle of a cast bar, which can result in tanks taking a very surprising amount of damage during what appears to just be raid damage.
 
 It’s also important to understand where the damage is coming from in a more literal sense. Historically, there have been some times where damage originates from an entity that is separate from the boss. It should be obvious, but that means your debuffs on the boss don’t affect the attack that’s being cast by something else. And that something else might not be targetable. In some fights, there were a few instances where an untargetable entity cast attacks that rendered our debuff mitigation tools useless (skills like Reprisal or Addle), forcing us to rely entirely on shields and player buffs (like Temperance) to mitigate them.
 
 
-Damage Types
-TL;DR - Knowing whether an attack deals physical, magic, or darkness damage will help inform your decisions on how to mitigate that attack. Damage types can be seen using ACT or FFLogs.
+
+## Damage Types
+
+*TL;DR - Knowing whether an attack deals physical, magic, or darkness damage will help inform your decisions on how to mitigate that attack. Damage types can be seen using ACT or FFLogs.*
+
 
 Damage types are difficult to see, but can be relevant to us (damage types can be readily identified in ACT and FFLogs, but observing it in the heat of battle is impractical at best). Primarily, there’s physical damage and magic damage. The distinction between the two is relevant for varied physical and magic defense between jobs, and for some abilities that only reduce physical or magic damage, like Feint and Addle.
 
-However, there also exists a third type of damage, typically referred to as darkness damage. This damage is not reduced by your physical or magic defense, and it is not reduced by stat debuffs such as the old Feint or Addle, which reduced STR/DEX and INT/MND, respectively. (Players do not currently have access to any kind of stat reduction debuffs.) Only percent reductions like Reprisal, Dismantle, Passage of Arms, Sacred Soil, and Collective Unconscious work on darkness damage.
+However, there also exists a third type of damage, typically referred to as darkness damage. This damage is not reduced by your physical or magic defense, and it is not reduced by stat debuffs such as the *old* Feint or Addle, which reduced STR/DEX and INT/MND, respectively. (Players do not currently have access to any kind of stat reduction debuffs.) Only percent reductions like Reprisal, Dismantle, Passage of Arms, Sacred Soil, and Collective Unconscious work on darkness damage.
 
-There’s also another type of damage which has shown up a few times: HP removal. The examples that come to mind are Folio in O3S (deals exactly 55% of your max HP) and critical HP mechanics like Charybdis and Hell Wind (reduces HP to 1), but there have been plenty more since then. These are unaffected by any buffs or debuffs, and this damage goes through shields (ignores, bypasses shields, leaving the shield still on even though you take damage).
+There’s *also* another type of damage which has shown up a few times: HP removal. The examples that come to mind are Folio in O3S (deals exactly 55% of your max HP) and critical HP mechanics like Charybdis and Hell Wind (reduces HP to 1), but there have been plenty more since then. These are unaffected by any buffs or debuffs, and this damage goes through shields (ignores, bypasses shields, leaving the shield still on even though you take damage).
 
 In ACT, viewing an attack under Incoming Damage or Outgoing Damage should display its damage type as Magic, Piercing, Slashing, or Blunt. It will also sometimes display the elemental aspect of damage, but this is rarely relevant (just in the case of mechanics that involve a buff or debuff relating to an element, and these mechanics are self explanatory, so there’s not really a need to look it up). Both physical and magical damage can have an elemental aspect.
 
-In FFLogs, the names of all attacks are color coded. Physical damage is orange, magical damage is blue, and darkness damage is purple. There is also another color for special cases where ACT/FFLogs is unable to read the damage type data from the skill. To my knowledge, this is only the case with incoming DoTs, because they do not technically have a damage type due to the roundabout way they’re coded. Incoming DoT effects are still mitigated by mitigating the initial hit, however, and since they snapshot buffs and debuffs just like everything else, they usually function as though they were the same damage type as the attack that applied the DoT for the purposes of mitigation.
+
+In FFLogs, the names of all attacks are color coded; Physical damage is orange. Magical damage is blue. Darkness damage is purple. There is also another color for special cases where ACT/FFLogs is unable to read the damage type data from the skill. To my knowledge, this is only the case with incoming DoTs, because they do not technically *have* a damage type due to the roundabout way they’re coded. Incoming DoT effects are still mitigated by mitigating the initial hit, however, and since they snapshot buffs and debuffs just like everything else, they usually *function* as though they were the same damage type as the attack that applied the DoT for the purposes of mitigation.
 
 DoTs are basically spaghetti code in this game, so there’s plenty of potential for weird interactions when it comes to incoming DoTs and mitigation. We may never perfectly understand the way they function, so don’t be too surprised if certain instances don’t align with expectations.
-Healing Practices
-Here, I wanted to mention several key practices for healing, good habits to build, and general gameplay tips to form the foundation that applies to healing universally.
-Always. Be. Casting.
-TL;DR - Always be doing something. Always be contributing. Don’t just stand there. This is probably the single most important concept in the entire game.
 
-This right here is the single most important rule. You should always be doing something. When you need to heal, you should be healing, and when you don’t, you should be doing damage. Any amount of time you spend not casting something useful is lost value, even if it’s just a fraction of a second of delay between your casts while you think, or a delay because you’re not skill queueing properly. Those delays add up fast. Either it’s lost damage, which is bad, or it’s lost healing. Even if that healing isn’t the most efficient thing to do, even if it’s not entirely necessary, it’s better than doing nothing as long as you’re actually restoring someone’s missing HP. At least if you’re healing unnecessarily instead of sitting on your hands, you’re potentially enabling your cohealer to DPS more, even if it’s not the best use of your time.
+# Healing Practices
+
+Here, I wanted to mention several key practices for healing, good habits to build, and general gameplay tips to form the foundation that applies to healing universally.
+
+## Always. Be. Casting.
+
+***TL;DR - Always be doing something. Always be contributing. Don’t just stand there. This is probably the single most important concept in the entire game.***
+
+
+This right here is the single most important rule. You should always be doing something. When you *need* to heal, you should be healing, and when you don’t, you should be doing damage. Any amount of time you spend not casting something useful is lost value, even if it’s just a fraction of a second of delay between your casts while you think, or a delay because you’re not skill queueing properly. Those delays add up fast. Either it’s lost damage, which is bad, or it’s lost healing. Even if that healing isn’t the most efficient thing to do, even if it’s not entirely necessary, it’s better than doing nothing as long as you’re actually restoring someone’s missing HP. At least if you’re healing unnecessarily instead of sitting on your hands, you’re potentially enabling your cohealer to DPS more, even if it’s not the best use of your time.
 
 Nobody would stand for it if the tank just spammed Flash until he had threat on all the enemies and then took his hands off the keyboard until someone was about to rip threat off of him. Nobody would stand for a DPS just not hitting the enemies, just absentmindedly dodging attacks without contributing anything. It’s not any different for us just because our icons are green.
-Being Prepared
-TL;DR - As a healer, you need to familiarize yourself with the fight most of all. It’s important to be prepared for damage ahead of time so you’re never caught off guard and scrambling to catch up.
+
+## Being Prepared
+
+*TL;DR - As a healer, you need to familiarize yourself with the fight most of all. It’s important to be prepared for damage ahead of time so you’re never caught off guard and scrambling to catch up.*
+
 
 As healers, we’re very directly responsible for the survival of the party and the success of the duty. As discussed earlier, it’s important for us to be familiar with the fight in order to do what the fight requires from us to keep the party alive. Healers can very easily become the limiting factor on a group’s rate of progression or the group’s success as a whole. Healer deaths are much more difficult to recover from, and healer mistakes can easily result in deaths or wipes. That’s why it’s even more important for healers to know the fight inside and out. If we forget about a mechanic, or we forget to prepare the party for raid damage, or we forget to prepare the tank for a tank buster, everything is likely to go downhill very quickly.
-Triage
-TL;DR - Being prepared for upcoming damage and understanding the immediate requirements for survival will allow you to prioritize your heals efficiently. It’s never as simple as “who’s the lowest HP?” You have to choose who to heal based on the threat at hand.
+
+## Triage
+
+*TL;DR - Being prepared for upcoming damage and understanding the immediate requirements for survival will allow you to prioritize your heals efficiently. It’s never as simple as “who’s the lowest HP?” You have to choose who to heal based on the threat at hand.*
+
 
 Triage refers to assigning a degree of urgency to several problems being presented at once. It’s important to keep a level head so that you can address these problems in the correct order. We’ve already touched on this a couple times, but it’s a concept that bears stating explicitly. Depending on what’s going on, you’ll have a different priority system for who needs to be healed the most urgently. In its simplest form, you have to prioritize the survival of the most crucial party members. Usually, that’s yourself, followed by the tank, followed by everyone else. Some circumstances may dictate that the survival of a DPS is momentarily more vital to the success of the party than your own survival or that of the tank, like a long enrage cast where the boss isn’t doing damage and you need to meet the DPS check. Maybe you’ll prioritize the other healer’s survival because they have far more MP than you right now, and if they live, they’re more able to stabilize the party and recover than you are.
 
-To take it a step farther, you have to consider not only the importance of each party member’s survival, but what is happening in the fight, and what is about to happen. For instance, in O1S, the boss reduces everyone to 1 HP by casting Charybdis. Then, he follows up with either raid damage or a split tank buster. It always happens at the same points in the fight, in the same order. Knowing what he’s going to do next allows you to address the most immediate concern. If he’s going to do raid damage, you need to be AoE healing and/or mitigating. If he’s going to do the split tank buster, you can safely leave the rest of the party at 1 HP until after you’ve healed up both tanks for the buster.
+To take it a step farther, you have to consider not only the importance of each party member’s survival, but what is happening in the fight, and what is *about* to happen. For instance, in O1S, the boss reduces everyone to 1 HP by casting Charybdis. Then, he follows up with either raid damage or a split tank buster. It always happens at the same points in the fight, in the same order. Knowing what he’s going to do next allows you to address the most immediate concern. If he’s going to do raid damage, you need to be AoE healing and/or mitigating. If he’s going to do the split tank buster, you can safely leave the rest of the party at 1 HP until after you’ve healed up both tanks for the buster.
 
 To bring up regens again, if you know you have time for regens to heal the party before you take more raid damage, you should be using regens because they’re more efficient. Efficient use of regens is a huge factor in efficient healing, and it relies on your ability to assess the current situation and your knowledge of when damage is going to happen in a fight to determine when the party doesn’t need to be healed up immediately.
 
 
-Choosing the Right Tool for the Job
-TL;DR - Just like you have to choose who to heal based on the threat at hand, you have to choose the best heal to respond to a given threat. Consider where you specifically need burst healing or instant healing, and when you can rely on regens.
+
+## Choosing the Right Tool for the Job
+
+*TL;DR - Just like you have to choose who to heal based on the threat at hand, you have to choose the best heal to respond to a given threat. Consider where you specifically need burst healing or instant healing, and when you can rely on regens.*
+
 
 As a healer, you have a variety of spells and abilities that make up your healing toolkit. It’s important to be able to identify the best tool for your current situation. The best tool depends on the urgency of the healing, as well as several things we’ll expand upon later, such as MP efficiency, GCD efficiency, and opportunity cost. You want to consider these factors when deciding what spells and abilities to use for any given situation.
 
 As a general rule, you want to prioritize using oGCD abilities first, because they don’t take an entire GCD and they cost no MP, making them by far the most efficient part of your kit. In addition to that, you want to prioritize using HoTs over upfront heals, because they are far more GCD and MP efficient. And lastly, you want to only use upfront GCD heals whenever they’re absolutely necessary, because they are both the simplest and the least efficient tools in your kit.
 
 Of course, there are times when the healing has to be immediate, so HoTs won’t cut it. There are times when you specifically need an instant heal for a mechanic, because maybe you’re moving, or maybe you can’t heal until the last second because the fight forces everyone to be spread out, so maybe it’s more efficient to hold one of your oGCDs for that. It’s important to understand and recognize these scenarios and adapt to the situation at hand.
-Healing Preemptively
-TL;DR - There’s no such thing as a reactive healer. If you’re ever reacting to damage, you’re already behind on responding to it. Try to know ahead of time when damage is happening and how you’re going to respond to it.
+
+## Healing Preemptively
+
+*TL;DR - There’s no such thing as a reactive healer. If you’re ever reacting to damage, you’re already behind on responding to it. Try to know ahead of time when damage is happening and how you’re going to respond to it.*
+
 
 It’s commonly said that shield healers (SCH and Noct AST) are preemptive healers, while non-shield healers (WHM and Diurnal AST) are reactive. This is a very misleading way of wording it, because you should never be healing reactively. It’s true, in a way, that they are “reactive” in that you can’t heal damage until it’s been done, but you shouldn’t be reacting to the damage in the traditional sense. You should already know the damage is coming ahead of time. When, from where, how much, and what kind. Outside of progression, you should never be caught by surprise and have to react to scripted damage. And even in progression, one of the most important things for you to do is learn to predict the damage.
 All damage is predictable, including people getting hit by things they shouldn’t. Getting familiar with a fight isn’t just memorizing the scripted damage. It’s also understanding everything else that’s going on so that you can be prepared to a degree for various ways things could go wrong, finding a balance between preventing those possibilities to whatever degree is reasonable, and being prepared to quickly address various problems, should they arise. Your contingencies have contingencies.
 
-If you wait until after damage has happened to even start addressing it, you’re going to suffer through a lot of wipes that you could have prevented. Precast your heals to land just after damage occurs to minimize the amount of time people spend at low HP, and thus the risk of them dying to any additional damage. Especially the tank, since he can take auto attacks during and immediately after hard hitting attacks. This game’s healing isn’t whack-a-mole. It’s not just filling people’s HP bars after they take damage. Healing in FFXIV is about preparing your party for what is about to happen. The party doesn’t always have to be full HP. If the party has full HP for the vast majority of the fight, you’re probably not getting as much value out of regens as you could be, which means you’re overusing less efficient heals and spending more MP and GCDs on healing than you need to.
+If you wait until after damage has happened to even start addressing it, you’re going to suffer through a lot of wipes that you could have prevented. **Precast** your heals to land just after damage occurs to minimize the amount of time people spend at low HP, and thus the risk of them dying to any additional damage. Especially the tank, since he can take auto attacks during and immediately after hard hitting attacks. This game’s healing isn’t whack-a-mole. It’s not just filling people’s HP bars after they take damage. **Healing in FFXIV is about preparing your party for what is about to happen.** The party doesn’t always have to be full HP. If the party has full HP for the vast majority of the fight, you’re probably not getting as much value out of regens as you could be, which means you’re overusing less efficient heals and spending more MP and GCDs on healing than you need to.
 
 Your job is not to keep everyone’s HP at or near 100%, it’s to get the party through the fight. Sometimes, that means everyone needs to be topped off. Most of the time, it doesn’t. If you’ll excuse another shitty metaphor, healing is a lot like a strategy game. Risk, for example. In Risk, you bolster your defenses in key strategic locations that can be attacked and require defending. You don’t amass an army and keep them all in a territory that can’t even be attacked. You’d just be wasting resources doing nothing. You also wouldn’t want to wait until someone starts attacking you to even begin defending yourself. In Risk, you set up your defenses in preparation for what is going to happen. You’re setting yourself up to weather whatever the other players may throw at you.
 
 Similarly, in FFXIV, you are setting your party up to survive whatever is going to happen next. You are putting your party in a position to succeed, not wasting resources trying to keep every single territory equally defended at all times. If you spread yourself too thin that way, at best, you’re being inefficient and costing your party DPS. At worst, your defenses will buckle and you’ll wipe because you didn’t have enough resources available for the key points the boss is attacking.
-Proper Usage of Lucid Dreaming
-TL;DR - Use Lucid Dreaming as early as possible without it overflowing your MP. Lucid Dreaming will restore 35% of your max MP over 21 seconds, but because you are constantly spending MP, you should use it long before you are missing 35% of your MP.
+
+## Proper Usage of Lucid Dreaming
+
+*TL;DR - Use Lucid Dreaming as early as possible without it overflowing your MP. Lucid Dreaming will restore 35% of your max MP over 21 seconds, but because you are constantly spending MP, you should use it long before you are missing 35% of your MP.*
+
 
 Lucid Dreaming gets its own special section because it’s an exceptionally important skill. It is your primary tool for MP management, and it is vital to your success. Lucid Dreaming restores 500 MP per tick, and ticks 7 times in its 21s duration, for a total of 3,500 MP. That’s 35% of your max MP every minute. It’s very important that you understand how to use this efficiently so that you can maximize your available resources.
 
@@ -418,87 +521,129 @@ Because healers are generally MP-negative (we spend far more MP than we can gene
 
 For this reason, you want to use Lucid Dreaming as early in the fight as possible without overflowing your MP, so that it comes back up earlier. Don’t hold it until you’re missing the entire amount of MP it restores, and definitely don’t hold it until you’re super low on MP. It’s not an emergency tool. It’s a maintenance tool.
 
-It’s not a 401k. You’re not going to retire on it, it’s not accruing interest. It’s more like money on a conveyor belt being dumped into an active volcano. Take it while you can or you’re never going to see it again.
-Maximizing Efficiency
-Healing efficiency can be summarized as contributing as much to the party as you can. This boils down to ensuring the safety of the party as efficiently as possible, in order to give yourself as much room as you can to contribute other things to the party. Namely damage. It seems counterintuitive, but the name of the game is finding how to do the bare minimum amount of healing required for the safety of the party in order to spend as much time as possible contributing damage.
-The “Cost” of an Action
-TL;DR - All actions have an opportunity cost. A healing GCD could have been a damaging GCD. An Energy Drain could have been a GCD-saving heal + a higher potency damaging GCD in its place. Understanding efficiency involves weighing the value of an action against its opportunity cost.
 
-Every action has a cost. MP is the most obvious cost. But things get much more interesting when you consider the other costs of an action. They also have a time cost. In the case of a GCD, the time cost is equal to the GCD length. In the case of an oGCD, the time cost is the animation lock, which can cause clipping. And even for oGCDs, there is yet another cost. An opportunity cost. Opportunity cost is a way to say that taking a certain action costs you a certain opportunity. It shuts some doors to potential courses of action that are mutually exclusive with the action in question. You can’t eat your cake and have it, too.
+*It’s not a 401k. You’re not going to retire on it, it’s not accruing interest. It’s more like money on a conveyor belt being dumped into an active volcano. Take it while you can or you’re never going to see it again.*
+
+
+--- 
+
+# Maximizing Efficiency
+
+Healing efficiency can be summarized as *contributing as much to the party as you can.* This boils down to ensuring the safety of the party as efficiently as possible, in order to give yourself as much room as you can to contribute other things to the party. Namely damage. It seems counterintuitive, but the name of the game is finding how to do the bare minimum amount of healing required for the safety of the party in order to spend as much time as possible contributing damage.
+
+## The “Cost” of an Action
+
+*TL;DR - All actions have an opportunity cost. A healing GCD could have been a damaging GCD. An Energy Drain could have been a GCD-saving heal + a higher potency damaging GCD in its place. Understanding efficiency involves weighing the value of an action against its opportunity cost.*
+
+
+Every action has a cost. MP is the most obvious cost. But things get much more interesting when you consider the other costs of an action. They also have a time cost. In the case of a GCD, the time cost is equal to the GCD length. In the case of an oGCD, the time cost is the animation lock, which can cause clipping. And even for oGCDs, there is yet another cost. An opportunity cost. **Opportunity cost** is a way to say that taking a certain action costs you a certain opportunity. It shuts some doors to potential courses of action that are mutually exclusive with the action in question. You can’t eat your cake and have it, too.
 
 If you use Benediction right now, the opportunity cost is that you won’t be able to use it for several minutes while it’s on cooldown. The actual value of that opportunity depends on the context. Maybe you want to use Benediction right now, but that means it won’t be available to heal the DRK’s Living Dead in 2 minutes when he uses it for a tank buster, so you’ll have to devote several GCDs to healing it up manually. That’s a significant opportunity cost, so you’d better have a very good reason for using Benediction right now, like saving someone’s life.
 
 SCH’s Aetherflow mechanic is also an excellent example of opportunity cost, because Aetherflow stacks have an inherent opportunity cost. If you use one stack on Energy Drain, it has an opportunity cost of one potential Aetherflow ability. That Energy Drain could have been an Indomitability or Sacred Soil at best, or simply a Lustrate at worst. But even Lustrate has a higher value than an Energy Drain (Lustrate + Broil III is better than Adlo + Energy Drain if you’re going to have to heal), so this opportunity cost is something that SCHs have to be very aware of.
-GCD Efficiency
-TL;DR - GCDs are your most valuable resource for doing damage. Try to only use healing GCDs when you absolutely have to. Prioritize your oGCDs, then your most efficient GCDs like HoTs, and resort to upfront GCD heals like Cure II/Medica when you’re out of better options.
+
+## GCD Efficiency
+
+*TL;DR - GCDs are your most valuable resource for doing damage. Try to only use healing GCDs when you absolutely have to. Prioritize your oGCDs, then your most efficient GCDs like HoTs, and resort to upfront GCD heals like Cure II/Medica when you’re out of better options.*
+
 
 GCD efficiency is an important metric, because the best way to get more damage is to spend more GCDs dealing damage. This means you need to spend fewer GCDs on healing in order to free up GCDs for damage. As discussed earlier, oGCDs are obviously the most GCD efficient because they’re not even on the GCD. They’re as free as it gets. Use and abuse them. Looking at GCDs, HoTs are allowed to be more GCD efficient because they’re not immediate. Then we have upfront GCDs. Cure II is more GCD efficient than Cure. Cure III is more GCD efficient than Medica. When possible, use the most efficient tools before you resort to less efficient tools.
 
 Of course, there are circumstances that alter the importance of GCD efficiency. When the boss is untargetable, the value of GCD efficiency during that time changes. You don’t have to worry about freeing up GCDs to DPS while the boss is untargetable, so your GCD efficiency only matters in relation to the task at hand. For instance, the boss may be untargetable while several instances of raid damage happen. Even though you have instant oGCD heals available, you’re not actually getting the proper value out of them by using them while the boss is untargetable.
 
 The biggest reason oGCDs are so efficient is because they prevent you from having to use a GCD heal, which allows you to spend that GCD doing damage. You’re currently unable to do damage to the boss, so using that oGCD heal is much less valuable. You would be better off covering the healing with GCD heals because you’re currently not punished for using GCD heals, since you’re not losing DPS by doing so. That way, you have the oGCD heals available when the boss is targetable, so that you can use them to save GCDs when it actually matters. In this example, the opportunity cost of having those oGCDs on cooldown outweighs the diminished benefit you would get from using them when saving GCDs doesn’t matter.
-MP Efficiency
-TL;DR - Properly utilizing your most efficient tools like oGCDs and regens will improve your MP longevity significantly.
+
+## MP Efficiency
+
+*TL;DR - Properly utilizing your most efficient tools like oGCDs and regens will improve your MP longevity significantly.*
+
 
 MP efficiency is quite simple. oGCDs are free, which means they save you quite a bit of MP by replacing their costly GCD counterparts. Utilizing free oGCDs is a vital part of managing your MP. This is part of why some of SCH’s MP costs are higher than the other healers’. Much of SCH’s power budget is packed into its oGCDs and the fairy. In order for it to not be an issue that some of SCH’s MP costs are slightly higher, a SCH needs to properly leverage the core of their kit. SCH has some higher MP costs, but they need to cast far fewer GCD heals.
 
 Regens are very MP efficient. Cure III is more MP efficient and more potent than Medica, and your basic tier one heal (Cure, Benefic, Physick) is more MP efficient than your tier two heal (Cure II, Benefic II, Adloquium), but less GCD efficient. MP management is not nearly as big of an issue as it used to be, especially if you properly utilize oGCDs, but there are still times that you’ll have to pay attention to your MP. GCD efficiency is almost always more important than MP efficiency, except sometimes during downtime (when you can’t hit the boss), and when you’re in serious danger of running out of MP.
-Making the Most of Your Kit
-TL;DR - Pay attention to every tool in your kit, and understand their uses. Leveraging every available asset is essential for maximizing your contribution to the party. Don’t just ignore half of your kit, and don’t let free cooldowns sit unused if you can get value out of them.
+
+## Making the Most of Your Kit
+
+*TL;DR - Pay attention to every tool in your kit, and understand their uses. Leveraging every available asset is essential for maximizing your contribution to the party. Don’t just ignore half of your kit, and don’t let free cooldowns sit unused if you can get value out of them.*
+
 
 Your kit has an awful lot of buttons, and I promise you that nearly all of them have a use (not Repose though, don’t know why this still exists… Eureka I guess). There’s a ton of value spread around through all your different tools, and playing efficiently means wringing every last drop of value out of your entire kit. Can you get through a duty casting nothing but Cure II, Regen, and Medica? Probably. But the rest of your kit has so much value that will allow you to contribute more to your group.
 
 Don’t sit on your abilities. Make use of them. Don’t hold Tetragrammaton, Assize, etc. “just in case.” These abilities are on fairly short cooldowns, and you should abuse all that free value. As a SCH, don’t sit on your Aetherflow stacks. Aetherflow should always be on cooldown. You get 3 stacks every minute. You can save them for a little while, but they’d better all be spent by the time Aetherflow comes back up. As an AST, don’t sit on Essential Dignity. It’s very powerful, with a very short cooldown, and it will save you loads of GCDs when you use it frequently. Damage in this game isn’t so unpredictable that you need to always have it available “just in case.”
 
 Particularly with oGCDs, most of those abilities have only the opportunity cost of putting them on cooldown, and if you’re just holding them “just in case” to begin with, that opportunity cost is irrelevant because you weren’t using it most of the time in the first place. Default to using these abilities as much as possible, and then if you run into a situation where you realize that you need it more somewhere else, you can go from there. But don’t just let them sit there, untouched.
-Working With Your Cohealer
-It’s a group effort
-TL;DR - The main heal/off heal mentality is incredibly inefficient and you’ll both contribute more to the party if you learn to work together, leveraging the strongest parts of both kits.
 
-Before I delve into this topic, let’s clear something up. There is no such thing as a “main healer” or “off healer.” There are two cohealers. You work together to leverage the best parts of both of your kits in order to maximize your combined contribution to the party. One healer should not be defaulting to healing, and one healer should not be defaulting to DPSing. Both healers should be defaulting to using their most efficient tools in conjunction with one another in order to minimize the amount that either healer has to fall back on less efficient tools like upfront GCD heals.
+# Working With Your Cohealer
+> ## It’s a group effort
 
-Yes, every fight can be solo healed by any of the 3 healers while the other one strictly DPSes. But the solo healer is going to have a lot of gaps to fill in between their efficient tools, and without the cooperation of a cohealer, they’re going to have to fill those gaps with the least efficient parts of their kit, instead of filling them with the most efficient parts of the cohealer’s kit.
+*TL;DR - The main heal/off heal mentality is incredibly inefficient and you’ll both contribute more to the party if you learn to work together, leveraging the strongest parts of both kits.*
+
+
+Before I delve into this topic, let’s clear something up. There is no such thing as a “main healer” or “off healer.” There are *two cohealers*. You work together to leverage the best parts of both of your kits in order to maximize your combined contribution to the party. One healer should not be defaulting to healing, and one healer should not be defaulting to DPSing. *Both* healers should be defaulting to using their most efficient tools in conjunction with one another in order to minimize the amount that *either* healer has to fall back on less efficient tools like upfront GCD heals.
+
+Yes, every fight can be solo healed by any of the 3 healers while the other one strictly DPSes. But the solo healer is going to have a *lot* of gaps to fill in between their efficient tools, and without the cooperation of a cohealer, they’re going to have to fill those gaps with the least efficient parts of their kit, instead of filling them with the most efficient parts of the cohealer’s kit.
 
 Disclaimer: Yes, I know some people just use “main healer” and “off healer” to refer to “regen healer” and “shield healer.” But, as I said earlier, this is a false dichotomy. You don’t have to have one of each, and it’s a huge misconception that you do. It encourages a narrow minded, unadaptive mindset. The actual main heal/off heal mentality is alive and well in some dark corners of the game, and the phrasing isn’t doing the community any favors. It’s archaic, and it hasn’t been true since ARR. Do the community a favor and delete these words from your vocabulary.
 
 
-You Have One Combined Healing Kit
-TL;DR - It’s important to understand how your heals stack up to each other so that you can choose the most efficient tool for the job from your combined healing kit. This can save you a lot of GCDs overall and significantly improve your contribution.
+
+## You Have One Combined Healing Kit
+
+*TL;DR - It’s important to understand how your heals stack up to each other so that you can choose the most efficient tool for the job from your combined healing kit. This can save you a lot of GCDs overall and significantly improve your contribution.*
+
 
 So far, I’ve made several comparisons of spells and abilities within each healer’s individual kit. However, in a raid, there are two healers. So you have to consider not only what’s efficient for you, but also what’s efficient for your cohealer, and how the efficiency of your various tools compares to each other. For instance, Tetragrammaton and Essential Dignity are more efficient than Lustrate/Excogitation, because those cost an Aetherflow stack. Once you have already used Tetragrammaton or Essential Dignity, if you need more healing, you should prioritize using the SCH’s Aetherflow abilities before resorting to GCD heals.
 
 If you need to use a GCD heal because you’ve exhausted your oGCDs and your regens are already up, Benefic II and Cure II are slightly more potent than Adloquium.
 
 If you need to do ~500 potency of AoE healing and you don’t have oGCDs to do it, it’s much better for the WHM to cast Medica II or Cure III and cover it in a single GCD than it is for both healers to cast Medica/Helios/Succor/Aspected Helios and spend 2 GCDs in total, so the WHM should cover it if possible.
-You Have One Combined Damage Kit
-TL;DR - You also have to consider how the opportunity cost of a GCD compares between you and your cohealer so you understand whose damage GCD is more valuable when both healers have equally efficient responses to damage.
 
-This concept extends to dealing damage, as well. When resorting to GCD heals, you also have to factor in the opportunity cost of that GCD. For instance, Cure II might be more potent than Adloquium, but a WHM loses out on more damage by casting a heal than a SCH does. WHM’s filler is 300 potency, SCH’s is 290, and AST’s is 250. It may not seem like a big difference, but I’m sure you’re noticing a pattern: it adds up. If both healers could sufficiently cover the healing in the same amount of GCDs, you’re better off having the healer with the lower potency DPS filler do the healing.
+## You Have One Combined Damage Kit
+
+*TL;DR - You also have to consider how the opportunity cost of a GCD compares between you and your cohealer so you understand whose damage GCD is more valuable when both healers have equally efficient responses to damage.*
+
+
+This concept extends to dealing damage, as well. When resorting to GCD heals, you also have to factor in the opportunity cost of that GCD. For instance, Cure II might be more potent than Adloquium, but a WHM loses out on more damage by casting a heal than a SCH does. WHM’s filler is 300 potency, SCH’s is 290, and AST’s is 250. It may not seem like a big difference, but I’m sure you’re noticing a pattern: *it adds up.* If both healers could sufficiently cover the healing in the same amount of GCDs, you’re better off having the healer with the lower potency DPS filler do the healing.
 
 The same goes for SCH’s Aetherflow. The opportunity cost of using an Aetherflow stack on a heal is a 150 potency Energy Drain, so it’s a much lower opportunity cost than any GCD heal, but if the healing can be covered by non-Aetherflow oGCDs, you should usually do so.
-Healing Mentality
-Context is everything
-TL;DR - All this knowledge is great, but you have to know how to apply it based on the context in which you’re playing.
+
+--- 
+
+# Healing Mentality
+
+## Context is everything
+
+*TL;DR - All this knowledge is great, but you have to know how to apply it based on the context in which you’re playing.*
+
 
 These concepts are all well and good, but healing is about balance and flexibility as much as it is about efficiency and optimization. The way we approach healing and the way we apply these concepts depend on the context of the group and the content, just like our heals depend on what the fight is throwing at us. At the end of the day, as much as we do want to optimize and play efficiently, our primary function is getting the party through the encounter. That requires varying degrees of safety and margins for error. If you play like you’re in a coordinated speedkill group while you’re in a random PF group, you’re going to be disappointed, and you probably won’t even be playing very well in the context of that group.
-Progression
-TL;DR - When you’re unable to predict where damage is going to happen, you have to play much more conservatively in order to be prepared to cover damage as it happens, allowing your group to see more of the fight. Focus on familiarizing yourself with the fight so that you can recognize the windows you have for DPS to contribute as much as you can to the party.
 
-In a way, there are two types of progression. The first type is blind progression. This is when the content is very new, and there isn’t much readily available information about the fights, or if your group is explicitly doing blind progression for fun/challenge. There’s no way for you to know what’s going to happen next, so you need to play much more cautiously when you’re seeing things for the first time and have no way to specifically prepare for them. There are still opportunities to DPS, but you’ll be much more conservative about doing so. You’ll use your game sense to anticipate when it seems like something should be happening soon, but aside from that, you just need to be ready to respond to the best of your ability to a wide variety of events.
+## Progression
+
+*TL;DR - When you’re unable to predict where damage is going to happen, you have to play much more conservatively in order to be prepared to cover damage as it happens, allowing your group to see more of the fight. Focus on familiarizing yourself with the fight so that you can recognize the windows you have for DPS to contribute as much as you can to the party.*
+
+
+In a way, there are two types of progression. The first type is blind progression. This is when the content is very new, and there isn’t much readily available information about the fights, or if your group is explicitly doing blind progression for fun/challenge. There’s no way for you to know what’s going to happen next, so you need to play much more cautiously when you’re seeing things for the first time and have no way to specifically prepare for them. There are still opportunities to DPS, but you’ll be much more conservative about doing so. You’ll use your game sense to anticipate when it seems like something *should* be happening soon, but aside from that, you just need to be ready to respond to the best of your ability to a wide variety of events.
 
 When the fight is no longer new, when you can research the encounter and familiarize yourself with what’s going to happen, and when you’re in parts of the fight you’ve seen before but maybe haven’t executed correctly, this is simply normal progression. You’ll be constantly optimizing and planning, because you’re familiar with parts you’ve seen before, and you can be prepared for parts you haven’t gotten to, because you’ve done your research.
 
 
 
 You don’t have to be nearly as conservative with your play, but you may still want to leave a little more room for error, since everyone will be much more prone to making mistakes, which you will have to fix. You don’t want to heal unnecessarily, but you don’t want to play it risky, either. You might want the party topped off before certain avoidable damage if they can survive it with full HP. Even though they’re not supposed to get hit by it, they still might, and if you can prevent that death by playing it a little safe, it’s often worth it to do so while you’re still progressing.
-Farm
-TL;DR - It’s not your job to hold everyone’s hand anymore. You’re not expecting everyone to make silly mistakes all the time that you’ll have to cover for, nor should you be. If someone makes a mistake, then address it, but you typically shouldn’t need to play ultra safe (unless your group is ultra special). Be efficient within reason, but don’t be scared.
+
+## Farm
+
+*TL;DR - It’s not your job to hold everyone’s hand anymore. You’re not expecting everyone to make silly mistakes all the time that you’ll have to cover for, nor should you be. If someone makes a mistake, then address it, but you typically shouldn’t need to play ultra safe (unless your group is ultra special). Be efficient within reason, but don’t be scared.*
+
 
 If a group can clear the content reliably, and has the fight “on farm,” you shouldn’t need to play too cautiously. You don’t need to keep everyone at full HP all the time “just in case they mess up,” because they really shouldn’t be messing up, and even if they do, the rest of the group should be solid enough that it doesn’t snowball into a wipe after a single random death. In this type of group, everyone should be performing to a reasonable standard, so you shouldn’t need to hold their hands. If they do need you to play ultra conservatively and hold their hands in order to clear the fight, I’m afraid that means you’re not in a farm party, but a carry party.
 
 This is the setting where most of the optimization and efficiency concerns truly become relevant. We’re not making exceptions due to people’s unfamiliarity with the fight, and we’re not coddling anyone. We’re trying to play as efficiently as we can, within reason.
-Speedkill
-TL;DR - This is where you test the limits. You play somewhat risky to see exactly what you can get away with. This is not representative of most groups or most play.
+
+## Speedkill
+
+*TL;DR - This is where you test the limits. You play somewhat risky to see exactly what you can get away with. This is not representative of most groups or most play.*
+
 
 This is where the hardcore optimization happens. This type of party is where you truly test the boundaries of playing efficiently “within reason.” This is where you find out exactly how little healing you can get away with. This is where you probably wipe a lot to testing the bare minimum healing required. If farm parties are where you play efficiently within reason, speedkill parties are where you play downright risky. Because it doesn’t really matter how many times you fail. You only have to succeed once.
 
