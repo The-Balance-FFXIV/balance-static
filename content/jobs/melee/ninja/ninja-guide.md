@@ -20,7 +20,7 @@ title: Ninja Guide
   * [Trick Attack Rotation](#trick-attack-rotation)
   * [Ten Chi Jin (TCJ) Usage](#ten-chi-jin-tcj-usage)
   * [Multi-Target Rotation](#multi-target-rotation)
-* [BIS](#bis)
+* [Best-In-Slot (BiS)](#best-in-slot-bis)
 * [Optimization](#optimization)
 
   * [Optimizing Around Kill Times](#optimizing-around-kill-times)
