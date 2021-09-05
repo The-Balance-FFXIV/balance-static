@@ -1,7 +1,7 @@
 ---
 title: "Expert: The Shadowbringers Samurai Compendium"
 ---
-https://docs.google.com/document/d/17Clg3WAeXZRu18gn4OHT-Pw-Fi0zZPPTwKHM3OzeBLw/edit
+-- https://docs.google.com/document/d/17Clg3WAeXZRu18gn4OHT-Pw-Fi0zZPPTwKHM3OzeBLw/edit
 
 ---
 
@@ -369,14 +369,9 @@ Valynn#9029 has recorded the two main rotations for those of you who prefer vide
 **Viable GCD/SKS tiers (with Shifu) for Looping:**
 
 
-| Vible GCD Tiers <br>for Looping | Viable Skill <br>Speed Range | 60s Loop <br> GCD Count | 
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-|  |  |  | 
-| ---- | ---- | ---- | ---- |
-| 2.16 < 2.15 > 2.14 | 457 to 811 | 28 | 2 | 
+| Vible GCD Tiers <br>for Looping | Viable Skill <br>Speed Range | 60s Loop <br> GCD Count | Required <br>Filler GCDs |
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| 2.16 < 2.15 > 2.14 | 457 to 811 | 28 | 2
 | 2.08 < 2.07 > 2.06 | 1,370 to 1,725 | 29 | 3 | 
 | 2.01 < 2.00 > 1.99 | 2,208 to 2,537 | 30 | 4 | 
 
@@ -385,17 +380,24 @@ Valynn#9029 has recorded the two main rotations for those of you who prefer vide
 
 If you find your SkS to not be in any of those ranges, you want to either meld more SkS or lose SkS without equipping lower ilvl pieces.
 
-Filler Options:
 
- Yaten-Enpi 			1 Filler GCD
- Yukikaze-Hagakure 		2 Filler GCDs
- Gekko/Kasha-Hagakure  	3 Filler GCDs
+**Filler Options:**
+
+1. Yaten-Enpi = 1 Filler GCD
+2. Yukikaze-Hagakure = 2 Filler GCDs
+3. Gekko/Kasha-Hagakure = 3 Filler GCDs
+
 
 Avoid using Yaten-Enpi as filler unless necessary for boss mechanics or when only a single filler GCD is needed.
 
-General Q & A
-Is Kaeshi: Higanbana Worth Using?
-Short Answer: No. Never.
+
+--- 
+
+# General Q & A
+
+## Is Kaeshi: Higanbana Worth Using?
+
+**Short Answer: No. Never.**
 
 It is important to note that the DOT from Kaeshi: Higanbana does not stack with the DOT from regular Higanbana. This makes it obvious from even a cursory glance at the tooltip that it has no use case in single target situations. What might not be obvious though is that, in fact, Kaeshi: Higanbana has no use case in any situation - ever.
 
@@ -409,134 +411,137 @@ Each line is a GCD. Yellow numbers indicate where total damage at that GCD is eq
 
 
 
-Changelog
 
-07-Jun-2019
-Primer created
-Skill Changes
-Slashing / Yukikaze added, completed
-Jinpu / Shifu added, completed
-Potency changes added
+--- 
 
-08-Jun-2019
-Skill Changes
-Potency changes completed
+# Changelog
 
-10-Jun-2019
-Skill Changes -> Combat Changes
-Meikyo added, completed
-Hagakure, Ikishoten added, completed
-Senei added, completed
-Tsubame added, completed
-AOE Stuff added, completed
-TP added, completed
+- 07-Jun-2019
+  - Primer created
+  - Skill Changes
+    - Slashing / Yukikaze added, completed
+    - Jinpu / Shifu added, completed
+    - Potency changes added
 
-13-Jun-2019
-Reordered sub sections.
+- 08-Jun-2019
+  - Skill Changes
+    - Potency changes completed
 
-17-Jun-2019
-Tsubame added, completed.
-Shiha added, completed
-Different kind of Samurai added
-Normalised cooldown added
+- 10-Jun-2019
+  - Skill Changes -> Combat Changes
+    - Meikyo added, completed
+    - Hagakure, Ikishoten added, completed
+    - Senei added, completed
+    - Tsubame added, completed
+    - AOE Stuff added, completed
+    - TP added, completed
 
-26-Jun-2019
-Tsubame added, edited.
-Playstyle changes, edited.
-Normalised cooldowns, completed.
+- 13-Jun-2019
+  - Reordered sub sections.
 
-27-Jun-2019
-Openers and rotations explained.
-Added Kaeshi: Setsugekka vs Kaeshi: Higanbana
-First draft complete.
+- 17-Jun-2019
+  - Tsubame added, completed.
+  - Shiha added, completed
+  - Different kind of Samurai added
+  - Normalised cooldown added
 
-27-Jun-2019 Update 2
-Slight changes based on launch tooltip changes. No real implications to the primer.
-How good is our new stuff? Section added.
-KaeshiBana vs KaeshiDare added, complete.
-Shoha Meditate added, complete.
-Yukikaze added, complete.
-Downtime section added, complete.
-Added high speed rotation cycle example.
+- 26-Jun-2019
+  - Tsubame added, edited.
+  - Playstyle changes, edited.
+  - Normalised cooldowns, completed.
 
-28-Jun-2019
-Re-worded various sections to reflect that the game is now live!
-Removed optional rotation GCD count math section.
+- 27-Jun-2019
+  - Openers and rotations explained.
+  - Added Kaeshi: Setsugekka vs Kaeshi: Higanbana
+  - First draft complete.
 
-03-Jul-2019
-Yukikaze / Enpi section added, completed.
-Enpi Swapping tech rotation section added, completed.
+- 27-Jun-2019 Update 2
+  - Slight changes based on launch tooltip changes. No real implications to the primer.
+  - How good is our new stuff? Section added.
+    - KaeshiBana vs KaeshiDare added, complete.
+    - Shoha Meditate added, complete.
+    - Yukikaze added, complete.
+  - Downtime section added, complete.
+  - Added high speed rotation cycle example.
 
-07-Jul-2019
-Reworded some sections
-Switched section order to flow better
-Yukikaze Swap section added, completed
-Yukikaze Swap examples - to do
+- 28-Jun-2019
+  - Re-worded various sections to reflect that the game is now live!
+  - Removed optional rotation GCD count math section.
 
+- 03-Jul-2019
+  - Yukikaze / Enpi section added, completed.
+  - Enpi Swapping tech rotation section added, completed.
 
-08-Jul-2019
-Reorganised Swap tech sections
-Expanded Yuki and Enpi swap explainers
-Expanded “Are they good” section
-Rewrote “Our New Rotation” section to account for changed GCD
-To-do: Re-do rotation examples.
-
-09-Jul-2019
-Added new rotation examples to fit the new GCD requirements
-Reformatted how rotations are displayed, including more info in the tables.
-Removed visible page breaks. Document should flow better.
-Removed Enpi Swap detailed break down. Section mostly unnecessary.
-
-11-Jul-2019
-Tweaked introduction & Our New Rotation section.
+- 07-Jul-2019
+  - Reworded some sections
+  - Switched section order to flow better
+  - Yukikaze Swap section added, completed
+  - Yukikaze Swap examples - to do
 
 
-26-Jul-2019
-Moved downtime section
-Re-worded downtime section
+- 08-Jul-2019
+  - Reorganised Swap tech sections
+  - Expanded Yuki and Enpi swap explainers
+  - Expanded “Are they good” section
+  - Rewrote “Our New Rotation” section to account for changed GCD
+  - To-do: Re-do rotation examples.
 
-06-Aug-2019
-Big re-formatting. 
-Removed “primer” style sections (this isn’t post update any more!)
-Reorganised the entire thing to flow more guidelike
+- 09-Jul-2019
+  - Added new rotation examples to fit the new GCD requirements
+  - Reformatted how rotations are displayed, including more info in the tables.
+  - Removed visible page breaks. Document should flow better.
+  - Removed Enpi Swap detailed break down. Section mostly unnecessary.
 
-06-Aug-2019
-Gekko as a filler combo added.
+- 11-Jul-2019
+  - Tweaked introduction & Our New Rotation section.
 
-29-Aug-2019
-Opener recommendations tweaked for 5.08
 
-03-Sept-2019
-Fixed Higanbana 1st opener Meditate & Ikishoten placement
-Fixed Higanbana 1st 2.13 loop filler placement
-Make your own loop quick reference section added
+- 26-Jul-2019
+  - Moved downtime section
+  - Re-worded downtime section
 
-08-Oct-2019
-Reworded ad hoc section
-Added cheat sheet link to rotation section
-Fixed footer for standard layout (don’t use standard layout)
+- 06-Aug-2019
+  - Big re-formatting. 
+  - Removed “primer” style sections (this isn’t post update any more!)
+  - Reorganised the entire thing to flow more guidelike
 
-01-Nov-2019
-Reworked many different sections for 5.1
+- 06-Aug-2019
+  - Gekko as a filler combo added.
 
-06-Nov-2019
-Minor corrections and clarification to Fillers section regarding 5.1 changes
-Updated Yuki vs Gekko PPGCD table to show Sen and Meditation value separately.
-Kaeshi Bana comparison table updated with 5.1 potencies.
+- 29-Aug-2019
+  - Opener recommendations tweaked for 5.08
 
-09-Apr-2020
-Fixed an error on the SKS listed for 2.15 GCD
-Updated the Cheat Sheet and added a high-quality imgur link
+- 03-Sept-2019
+  - Fixed Higanbana 1st opener Meditate & Ikishoten placement
+  - Fixed Higanbana 1st 2.13 loop filler placement
+  - Make your own loop quick reference section added
 
-17-Apr-2020
-Added rotation videos by Valynn.
-Slightly reworded Enpi as a Filler section.
+- 08-Oct-2019
+  - Reworded ad hoc section
+  - Added cheat sheet link to rotation section
+  - Fixed footer for standard layout (don’t use standard layout)
 
-11-May-2020
-Made the base loop warning big a f.
-Rewrote the build a loop reference section.
+- 01-Nov-2019
+  - Reworked many different sections for 5.1
 
-28-Aug-2020
-Added heavy mechanics encounter caveat to ad hoc explainer.
-Updated cheat sheet to revision 6.
+- 06-Nov-2019
+  - Minor corrections and clarification to Fillers section regarding 5.1 changes
+  - Updated Yuki vs Gekko PPGCD table to show Sen and Meditation value separately.
+  - Kaeshi Bana comparison table updated with 5.1 potencies.
+
+- 09-Apr-2020
+  - Fixed an error on the SKS listed for 2.15 GCD
+  - Updated the Cheat Sheet and added a high-quality imgur link
+
+- 17-Apr-2020
+  - Added rotation videos by Valynn.
+  - Slightly reworded Enpi as a Filler section.
+
+- 11-May-2020
+  - Made the base loop warning big a f.
+  - Rewrote the build a loop reference section.
+
+- 28-Aug-2020
+  - Added heavy mechanics encounter caveat to ad hoc explainer.
+  - Updated cheat sheet to revision 6.
 
