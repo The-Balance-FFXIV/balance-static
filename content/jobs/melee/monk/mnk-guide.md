@@ -39,7 +39,7 @@ Section 3: Building the Rotation
 
 Single target GCDs
 
-oGCDs
+oGCDs + Chakra explainer
 
 Opener
 
