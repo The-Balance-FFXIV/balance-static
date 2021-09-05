@@ -54,8 +54,6 @@ title: Scholar Guide
 
 # Indomitable, A Thourough Guide to Scholar
 
-![Blob1](/img/jobs/healers/scholar/Blob1.png)
-![Blob2](/img/jobs/healers/scholar/Blob2.png)
 ## Author
 **Tobio Okuma**
 
@@ -79,7 +77,6 @@ Huge thank you to Ahri for their help with the guide in general. They did the op
 
 Thanks to Zyrkhan Dar’locke for his help in translating my ramblings into English and proof reading my spreadsheets. His AST guide was also a great guideline into how I could approach writing this kind of guide.
 
-![Blob3](/img/jobs/healers/scholar/Blob3.png)
 Alevia Rohan for proofreading and editing. She was a big help in doing corrections to make the guide more legible. Without her, the guide would not look as nice as it does. Also she puts up with my booli. Check out her [Twitch](https://www.twitch.tv/saltedlevity/). 
 
 The Theory Jerks for their spreadsheets. Everything we know is because of the hard work you do theorycrafting. Math is hard, but you make it semi-understandable.
