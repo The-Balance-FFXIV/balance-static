@@ -8,49 +8,55 @@ https://docs.google.com/document/d/17Clg3WAeXZRu18gn4OHT-Pw-Fi0zZPPTwKHM3OzeBLw/
 
 
 
-The Shadowbringers
-Samurai Compendium
-An Exploration of
-5.0 Samurai Mechanics
-By Jahaudant @ The Balance & DPS Tools Discords
-Last Updated 17th April 2020
-
-
-Turn OFF Print Layout Mode for best viewing
+# The Shadowbringers Samurai Compendium
+## An Exploration of 5.0 Samurai Mechanics
+### By Jahaudant @ The Balance & DPS Tools Discords
+*Last Updated 17th April 2020*
 
 
 
 
-Table of contents
-Table of contents
-Introduction
-The 5.0 Samurai Rotation Changes
-Tsubame Gaeshi is Restrictive and Inflexible
-The Crumbs: Normalised Cooldown Times
-The Solution: A Rotation Loop
-Optimising Potency
-Maximising Yukikaze Combo Usage
-Maintaining GCD Count
-Filler GCDs
-Hagakure
-Enpi as a Filler
-Yukikaze as a Filler
-Gekko/Kasha as a Filler
-Downtime
-Ad Hoc / Freestyle Samurai
-The Effectiveness of Ad Hoc Style
-Why This Compendium Won’t Cover it in Depth
-Openers and Rotations
-Cheat Sheet
-Videos
-Constructing a Looping Rotation - Reference
-General Q & A
-Is Kaeshi: Higanbana Worth Using?
-Changelog
 
 
 
-Introduction
+
+
+--- 
+
+# Table of Contents
+- [Table of Contents]
+- [Introduction]
+- [The 5.0 Samurai Rotation Changes]
+  - [Tsubame Gaeshi is Restrictive and Inflexible]
+  - [The Crumbs: Normalised Cooldown Times]
+  - [The Solution: A Rotation Loop]
+- [Optimising Potency]
+  - [Maximising Yukikaze Combo Usage]
+- [Maintaining GCD Count]
+  - [Filler GCDs]
+  - [Hagakure]
+  - [Enpi as a Filler]
+  - [Yukikaze as a Filler]
+  - [Gekko/Kasha as a Filler]
+- [Downtime]
+- [Ad Hoc / Freestyle Samurai]
+  - [The Effectiveness of Ad Hoc Style]
+  - [Why This Compendium Won’t Cover it in Depth]
+- [Openers and Rotations]
+  - [Cheat Sheet]
+  - [Videos]
+- [Constructing a Looping Rotation - Reference]
+- [General Q & A]
+  - [Is Kaeshi: Higanbana Worth Using?]
+- [Changelog]
+
+
+
+
+--- 
+
+# Introduction
+
 Final Fantasy XIV Version 5.0: Shadowbringers has arrived and with it a plethora of job and balance changes for Samurai many of which have significant implications on how we should be playing the job optimally.
 
 Before we get started it is important to note that this document is not intended to act as a traditional guide. It will be of little to no help to a new Samurai, or someone unfamiliar with the fundamentals. Instead, it is written to serve one main purpose; to document and explain various aspects of Samurai 5.0 playstyle and theory in a way that anyone can read and understand.
