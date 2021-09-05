@@ -110,21 +110,21 @@ Orinx for his excellent work on the healer DH thread.
   - [Choosing the Right Tool for the Job](#choosing-the-right-tool-for-the-job)
   - [Healing Preemptively](#healing-preemptively)
   - [Proper Usage of Lucid Dreaming](#proper-usage-of-lucid-dreaming)
-- [Maximizing Efficiency]
-  - [The “Cost” of an Action]
-  - [GCD Efficiency]
-  - [MP Efficiency]
-  - [Making the Most of Your Kit]
-- [Working With Your Cohealer]
-  - [You Have One Combined Healing Kit]
-  - [You Have One Combined Damage Kit]
-- [Healing Mentality]
-  - [Progression]
-  - [Farm]
-  - [Speedkill]
-- [An Overview of Stats]
-  - [Magic Damage and Main Stat]
-  - [Piety]
+- [Maximizing Efficiency](#maximizing-efficiency)
+  - [The “Cost” of an Action](#the-cost-of-an-action)
+  - [GCD Efficiency](#gcd-efficiency)
+  - [MP Efficiency](#mp-efficiency)
+  - [Making the Most of Your Kit](#making-the-most-of-your-kit)
+- [Working With Your Cohealer](#working-with-your-cohealer)
+  - [You Have One Combined Healing Kit](#you-have-one-combined-healing-kit)
+  - [You Have One Combined Damage Kit](#you-have-one-combined-damage-kit)
+- [Healing Mentality](#healing-mentality)
+  - [Progression](#progression)
+  - [Farm](#farm)
+  - [Speedkill](#speedkill)
+- [An Overview of Stats](#an-overview-of-stats)
+  - [Magic Damage and Main Stat](#magic-damage-and-main-stat)
+  - [Piety](#piety)
   - [Relative Value]
   - [Critical Hit]
   - [Determination]
