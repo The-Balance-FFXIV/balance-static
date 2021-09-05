@@ -125,27 +125,27 @@ Orinx for his excellent work on the healer DH thread.
 - [An Overview of Stats](#an-overview-of-stats)
   - [Magic Damage and Main Stat](#magic-damage-and-main-stat)
   - [Piety](#piety)
-  - [Relative Value]
-  - [Critical Hit]
-  - [Determination]
-  - [Spell Speed]
-  - [Direct Hit]
-- [Common Pitfalls]
-  - [Dropping Casts]
-  - [Unnecessary Healing]
-  - [Unnecessary Shielding]
-  - [[Playing Scared]
-  - [Misplacing Blame]
-  - [Failing to Adapt]
-- [Learning and Improvement]
-  - [Learning Tools]
-  - [Identifying Areas for Improvement]
-- [Interpreting FFLogs Data]
-  - [Summary]
-  - [Casts]
-  - [Overheal]
-  - [Mitigation]
-  - [Putting it All in Context]
+  - [Relative Value](#relative-value)
+  - [Critical Hit](#critical-hit)
+  - [Determination](#determination)
+  - [Spell Speed](#spell-speed)
+  - [Direct Hit](#direct-hit)
+- [Common Pitfalls](#common-pitfalls)
+  - [Dropping Casts](#dropping-casts)
+  - [Unnecessary Healing](#unnecessary-healing)
+  - [Unnecessary Shielding](#unnecessary-shielding)
+  - [Playing Scared](#playing-scared)
+  - [Misplacing Blame](#misplacing-blame)
+  - [Failing to Adapt](#failing-to-adapt)
+- [Learning and Improvement](#learning-and-improvement)
+  - [Learning Tools](#learning-tools)
+  - [Identifying Areas for Improvement](#identifying-areas-for-improvement)
+- [Interpreting FFLogs Data](#interpreting-fflogs-data)
+  - [Summary](#summary)
+  - [Casts](#casts)
+  - [Overheal](#overheal)
+  - [Mitigation](#mitigation)
+  - [Putting it All in Context](#putting-it-all-in-context)
 
 
 --- 
