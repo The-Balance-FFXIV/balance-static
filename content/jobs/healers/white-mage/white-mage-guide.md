@@ -3,7 +3,7 @@ title: White Mage Guide
 ---
 Notes;
 - Unsure what to do with regards to tooltips
-   - Have added screenshots of tooltips to show how the guide was intended; not sure if I should continue with screenshots, or if the API can be pulled directly instead.
+   - Have added some screenshots of tooltips to show how the guide was intended; not sure if I should continue with screenshots, or if the API can be pulled directly instead.
 
 <!-- TODO: link proper healing guide later, so it doesnt go to the gdoc! -->
 
