@@ -7,6 +7,8 @@ introduction
 
 Hello and welcome to Monkey, I am Perfect Balance and I am going to feed you the information you need to punch and kick at a decent level in the patch of our lord and saviour 5.58. I'm not one for lengthy introductions so let's get to feeding.
 
+
+
 Section 2: Basics
 
 Positionals
@@ -30,6 +32,10 @@ You have 3 forms; Opo-Opo, Raptor, and Coeurl.
 
 
 Uptime - both in the normal sense and wrong positional sense
+
+
+
+Section 3: Building the Rotation
 
 Single target GCDs
 
