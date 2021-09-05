@@ -1,7 +1,9 @@
 ---
 title: "Expert: The Shadowbringers Samurai Compendium"
 ---
--- https://docs.google.com/document/d/17Clg3WAeXZRu18gn4OHT-Pw-Fi0zZPPTwKHM3OzeBLw/edit
+Notes;
+- Formatting is done; just needs images added.
+- https://docs.google.com/document/d/17Clg3WAeXZRu18gn4OHT-Pw-Fi0zZPPTwKHM3OzeBLw/edit
 
 ---
 
