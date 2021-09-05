@@ -2,12 +2,8 @@
 title: White Mage Guide
 ---
 Notes;
-- 1-1 port from guide linked in #whm_resources
-- Rotation graphics need to be added for Opener section 
-  - Elleiana can make one; but need confirmation on info first!
 - Unsure what to do with regards to tooltips
    - Have added screenshots of tooltips to show how the guide was intended; not sure if I should continue with screenshots, or if the API can be pulled directly instead.
-- Source info: https://saltedxiv.com/guides/whm
 
 <!-- TODO: link proper healing guide later, so it doesnt go to the gdoc! -->
 
@@ -1017,14 +1013,15 @@ There’s two considerations to make when executing Presence of Mind: 1) how bad
 
 The go-to opener to use in almost all cases.
 
-[image needed]
+
+![opener 1](https://cdn.discordapp.com/attachments/844973814488236052/884176693542125589/whm-opener-1.png)
 
 
 **"I need an extra oGCD weave" Opener**
 
 For fights where you need an extra oGCD woven early on, here’s how to do so without clipping. Temperance is used, as that will be the likely use case, but any oGCD could take it’s spot.
 
-[image needed]
+![opener 2](https://cdn.discordapp.com/attachments/844973814488236052/884176691138818068/whm-opener-2.png)
 
 
 
@@ -1034,7 +1031,7 @@ For fights where you need an extra oGCD woven early on, here’s how to do so wi
 This opener only checks out if you have a Dragoon in the party who is using Battle Litany early enough that it applies on you before you cast Assize. It’s a bit wishy-washy to begin with, but notably it doesn’t inherently gain you anything, it’s only to get the slightly higher chance to crit the Assize.
 
 
-[image needed]
+![opener 3](https://cdn.discordapp.com/attachments/844973814488236052/884176689528201246/whm-opener-3.png)
 
 **DoT Re-snap Optimization Opener**
 
@@ -1046,10 +1043,10 @@ RISKY note: if you know your kill time won’t lose you an assize you could cons
 Opener below is shown with the DRG modefication above, but this doesn’t have to be used.
 
 
-[image needed]
+![opener 4](https://cdn.discordapp.com/attachments/844973814488236052/884176687384891422/whm-opener-4.png)
 
 
-Overwrite this Dia   when there’s about 9s remaining on its duration, at the end of the raid buff window. Glare until the next natural Dia application 30s later and then weave Assize with this third dia.
+> Overwrite highlighted Dia   when there’s about 9s remaining on its duration, at the end of the raid buff window. Glare until the next natural Dia application 30s later and then weave Assize with this third dia.
 
 ---
 
