@@ -1,11 +1,6 @@
 ---
 title: Zyrk's Bullshit Guide to the Principles of Healing
 ---
-Notes; 
-- Source info: https://docs.google.com/document/d/1yoq1zU2VgMJQ53PaJHaUtwA3S2aSz1C69qkLDaOmZY8/edit#
-
---- 
-
 # Zyrk’s FFXIV Shadowbringers Healing Guide
 
 ## Learn how to hate your party, the game, and yourself
