@@ -2,7 +2,6 @@
 title: Zyrk's Bullshit Guide to the Principles of Healing
 ---
 Notes; 
-- Still need to finish Table of Contents, but otherwise done!
 - Source info: https://docs.google.com/document/d/1yoq1zU2VgMJQ53PaJHaUtwA3S2aSz1C69qkLDaOmZY8/edit#
 
 --- 
