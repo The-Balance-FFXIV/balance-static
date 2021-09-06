@@ -76,15 +76,9 @@ For those of you who struggle to learn from simply reading a big wall of text, [
 
 Click [here](https://www.akhmorning.com/allagan-studies/stats/) to see stat breakpoints if you want to check what you should be melding on a current set as you progress to bis, or simply want to understand the numbers a little better
 
-
-
 Somewhat similarly, [these](https://i.imgur.com/4IIF3ey.png) are the Sks thresholds for your GCD at GL4.
 
-
-
 [Here](http://bit.ly/Gear-Planner) is a gear planner from Jahadaunt that you can use to figure out the best gear set for your situation as you gear up.
-
-
 
 ## Section 2: Basics
 
