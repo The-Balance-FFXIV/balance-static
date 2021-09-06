@@ -3,8 +3,6 @@ title: The Correct Way to Kick an Eldritch Horror in the Jaw
 ---
 ## **A Monk Guide by Perfect Balance**
 
-
-
 ### Introduction
 
 Hello and welcome to Monkey, I am Perfect Balance and I am going to feed you the information you need to punch and kick at a decent level in the patch of our lord and saviour 5.58. You can get in touch with me on discord at wulf#8419, or on twitter. at [@RiddleOfFire](https://twitter.com/RiddleOfFire). I'm not one for lengthy introductions so let's get to feeding.
@@ -90,8 +88,6 @@ oGCD - Off-Global Cooldown
 DoT - Damage over Time
 
 AoE - Area of Effect
-
-
 
 ## Complementary Materials
 
