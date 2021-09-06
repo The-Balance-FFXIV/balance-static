@@ -22,7 +22,7 @@ Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge whi
 <!--StartFragment-->
 
 ## Single Target Rotation
-
+| ![Heated Split Shot](https://i.imgur.com/E2ex2Mk.png)
 |  |  |  |  |
 | --- | --- | --- | --- | 
 | ![Heated Split Shot](https://i.imgur.com/E2ex2Mk.png) | **Heated Split Shot** | The first skill in your main combo. | 220 Potency GCD <br> +5 Heat |
