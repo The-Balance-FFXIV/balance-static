@@ -11,7 +11,7 @@ title: Zyrk's Bullshit Guide to the Principles of Healing
 
 Hi, I’m Zyrkhan Dar’locke. My name is blue on The Balance, and that’s basically all I have to say for myself. You may also know me as “what?” and “literally who.” I’m here to talk about healing and stuff, because I guess I like it or something, mostly because I don’t respect myself. If you also would like to learn about healing, or just hate yourself enough to listen to me ramble about it for the next 48 pages, here’s a thing I guess.
 
-![Are you prepared to suffer?](https://imgur.com/DuwsD7v)
+![Are you prepared to suffer?](https://i.imgur.com/DuwsD7v.png)
 
 # Credits
 
