@@ -1,15 +1,41 @@
 ---
 title: The Correct Way to Kick an Eldritch Horror in the Jaw
 ---
-**A Monk Guide by Perfect Balance**
+## **A Monk Guide by Perfect Balance**
 
-# Section 1
 
-Introduction
+
+### Introduction
 
 Hello and welcome to Monkey, I am Perfect Balance and I am going to feed you the information you need to punch and kick at a decent level in the patch of our lord and saviour 5.58. You can get in touch with me on discord at wulf#8419, or on twitter. at [@RiddleOfFire](https://twitter.com/RiddleOfFire). I'm not one for lengthy introductions so let's get to feeding.
 
-Acronyms and abbreviations
+# Contents
+
+* Section 1 - Introduction
+
+  * Acronyms and abbreviations
+  * Complementary Materials
+* Section 2 - Basics
+
+  * Positionals
+  * Forms
+  * Uptime
+* Section 3 - Building the Rotation
+
+  * Single target GCDs
+  * Opening your inner Chakra
+  * oGCDs
+  * Openers
+  * Core gameplay loop
+  * Utility/Situational Skills and how to use them
+  * How to Effect Areas
+* Section 4
+
+  * FAQ
+
+# Section 1 - Introduction
+
+## Acronyms and abbreviations
 
 When discussing jobs typing out full skills names all the time is very time consuming, so for your reference here are all the Monk related acronyms and abbreviations currently in use.
 
@@ -65,7 +91,9 @@ DoT - Damage over Time
 
 AoE - Area of Effect
 
-Complementary Materials
+
+
+## Complementary Materials
 
 Links to useful plugins
 
@@ -80,9 +108,9 @@ Somewhat similarly, [these](https://i.imgur.com/4IIF3ey.png) are the Sks thresho
 
 [Here](http://bit.ly/Gear-Planner) is a gear planner from Jahadaunt that you can use to figure out the best gear set for your situation as you gear up.
 
-## Section 2: Basics
+# Section 2: Basics
 
-Positionals
+## Positionals
 
 It's unlikely that you've made the decision to play Monk while remaining unaware of the P word, but in case you've not come across it before, a "positional" is a skill that only gains maximum effect when used at a specific part of an enemies' hitbox, typically flank or rear. All 6 GCD in Monks core single target rotation has a positional effect, so it's important you know which is which.
 
@@ -92,9 +120,9 @@ Dragon Kick, Twin Snakes, and Snap Punch on the other hand are best used from an
 
 This might sound like a lot of movement back and forth from the enemies rear to side and back again, but in reality you can simply stand near the borderline of where the enemy hitbox crosses from side to rear and step back and forth between that line as needed. The image below illustrates which part of the hitbox is classified as flank/rear, and also indicates which area to ideally stand for minimal required movement.
 
-![](/img/positional-thing.png)
+![](/img/positional-thing.png "Positional box thing")
 
-Forms
+## Forms
 
 Forms are a concept unique to Monk, and is what seperates it from standard combo based melee jobs. Unlike other jobs that simply have combos that trigger each other in a static manner, you can combo any GCD into any other GCD - providing that you're progressing your form forward. Each GCD also gains a bonus effect when used in the correct form, meaning you want to keep your forms advancing forwards and not break your combo, else you'll drop your form and your damage will suffer.
 
@@ -106,7 +134,7 @@ In Raptor form, True Strike, Twin Snakes, and Four-point Fury gain additional ef
 
 In Coeurl form, Demolish, Snap Punch, and Rockbreaker gain additional effects.
 
-Uptime
+## Uptime
 
 Uptime is absolutely king, and 99% of the time when people come asking for help as to why they're doing low DPS, it's because they have poor uptime.
 
@@ -114,9 +142,9 @@ Now I mean this in two different senses of the word. First and foremost is what 
 
 Second is keeping your GCD rolling in general. Some people will choose to prioritise positionals more than rolling their GCDs, and so will stop hitting the boss for a second or so in order to make sure they're in position to continue hitting. This is really bad and you shouldn't do this. If you're unable to hit a positional, keep your GCD rolling anyway, as the amount of time wasted waiting for the positional to become available will add up to an incredible amount of potential missed GCDs over a fight, which is far more punishing that missing the positional is.
 
-### Section 3: Building the Rotation
+# Section 3 - Building the Rotation
 
-Single target GCDs
+## Single target GCDs
 
 As previously mentioned, Monk has 6 core single target GCDs.
 
@@ -136,7 +164,7 @@ Form Shift is a unique GCD, as it's not directly a part of our rotation, but it 
 
 There are a couple of minor things to keep in mind here. First is that at every form you have 2 options for which GCD to use. Second, is that all positionals are worth 30 potency except for Bootshine, where you instead lose the guaranteed crit effect if you miss the positional. Therefore Bootshine is the most important positional to land, as it's potentially the biggest loss.
 
-Opening your inner Chakra
+## Opening your inner Chakra
 
 Chakra is Monk's job gauge, which stacks up to 5 times. At 5 stacks of Chakra we can spend them to execute either The Forbidden Chakra, a strong single target oGCD, or Enlightenment, a weaker AoE oGCD.
 
@@ -148,7 +176,7 @@ We then have 2 traits; Deep Meditation I & II. Deep Meditation I grants an 80% c
 
 Finally we have Brotherhood. Brotherhood has multiple effects, but in this section we'll just talk about the effect pertaining to Chakra generation. Upon execution, party members within 15 yalms will gain the effect of Meditative Brotherhood for 15 seconds. While this buff is active on an ally, every time they execute a weaponskill or a spell there is a 20% chance that you will gain a stack of chakra.
 
-oGCDs
+## oGCDs
 
 In terms of oGCDs Monk is somewhat simple.
 
@@ -174,7 +202,7 @@ Enlightenment, a 1 second cooldown that deals 200 potency to all enemies in a st
 
 We never hold any of our oGCDs, you'll notice that every skills cooldown is a multiple of 90; this means that if we press them all exactly when they come back up, they will realign perfectly every time.
 
-Opener
+## Openers
 
 Standard
 
@@ -192,7 +220,7 @@ You'll notice that the Early opener is practically the same, with 2 minor adjust
 
 \*Reasoning behind this is explained in the FAQs section.
 
-Core Gameplay Loop, including RoFs
+## Core Gameplay Loop
 
 Now that we've covered the core GCDs and oGCDs we can piece together what our rotation is going to look like following the opener.
 
@@ -216,7 +244,7 @@ Now you may wonder what do you do when your buffs come back up, and the answer i
 
 Your Opo-Opo GCDs flipping doesn't just effect your burst though, it also effects your rotation. As a result you'll find that every 90 seconds your rotation flips between the 2 images previously shown. Eventually you will build muscle memory to the point of not having to consciously consider which GCDs to be using when, you will simply press the right buttons at the right time.
 
-Utility/Situational Skills and how to use them
+## Utility/Situational Skills and how to use them
 
 Monk has a number of utility skills that range from very useful to almost entirely useless.
 
@@ -239,7 +267,7 @@ Bloodbath, another 90 second cooldown. For 20 seconds you'll heal for a portion 
 
 Second Wind, a 120 second cooldown that instantly heals you for 500 potency. See description of Bloodbath.
 
-How to Effect Areas
+## How to Effect Areas
 
 Now that we've covered how Monk works and its single target rotation, how to AoE will hopefully be much easier to understand.
 
@@ -259,9 +287,9 @@ At 3 targets, Arm of the Destroyer replaces Dragon Kick/Bootshine, Four-point Fu
 
 At 4+ enemies you shift to entirely using only your 3 AoE GCDs.
 
-#### Section 4
+# Section 4
 
-FAQ
+## FAQ
 
 "RoF is coming up too early in my rotation, what do?"
 
