@@ -1,13 +1,13 @@
 ---
-title: Mnk guide
+title: The Correct Way to Kick an Eldritch Horror in the Jaw
 ---
-Section 1
+**A Monk Guide by Perfect Balance**
+
+# Section 1
 
 Introduction
 
 Hello and welcome to Monkey, I am Perfect Balance and I am going to feed you the information you need to punch and kick at a decent level in the patch of our lord and saviour 5.58. I'm not one for lengthy introductions so let's get to feeding.
-
-
 
 Acronyms and abbreviations
 
@@ -65,28 +65,20 @@ DoT - Damage over Time
 
 AoE - Area of Effect
 
-
-
 Complementary Materials
 
 Links to useful plugins
 
 \
-For those of you who struggle to learn from simply reading a big wall of text, here's a video guide I produced with Valith Steiner
-
-https://youtu.be/sz8laGlhSTg
+For those of you who struggle to learn from simply reading a big wall of text, [here](https://youtu.be/sz8laGlhSTg) is a video guide I produced with Valith Steiner
 
 
 
-The following website shows stat breakpoints if you want to check what you should be melding on a current set as you progress to bis, or simply want to understand the numbers a little better
-
-https://www.akhmorning.com/allagan-studies/stats/
+Click [here](https://www.akhmorning.com/allagan-studies/stats/) to see stat breakpoints if you want to check what you should be melding on a current set as you progress to bis, or simply want to understand the numbers a little better
 
 
 
-Somewhat similarly, these are the Sks thresholds for your GCD at GL4.
-
-https://i.imgur.com/4IIF3ey.png
+Somewhat similarly, [these](https://i.imgur.com/4IIF3ey.png) are the Sks thresholds for your GCD at GL4.
 
 
 
@@ -94,9 +86,7 @@ The following is a gear planner from Jahadaunt that you can use to figure out th
 
 http://bit.ly/Gear-Planner
 
-
-
-Section 2: Basics
+## Section 2: Basics
 
 Positionals
 
@@ -120,8 +110,6 @@ In Raptor form, True Strike, Twin Snakes, and Four-point Fury gain additional ef
 
 In Coeurl form, Demolish, Snap Punch, and Rockbreaker gain additional effects.
 
-
-
 Uptime
 
 Uptime is absolutely king, and 99% of the time when people come asking for help as to why they're doing low DPS, it's because they have poor uptime.
@@ -130,15 +118,11 @@ Now I mean this in two different senses of the word. First and foremost is what 
 
 Second is keeping your GCD rolling in general. Some people will choose to prioritise positionals more than rolling their GCDs, and so will stop hitting the boss for a second or so in order to make sure they're in position to continue hitting. This is really bad and you shouldn't do this. If you're unable to hit a positional, keep your GCD rolling anyway, as the amount of time wasted waiting for the positional to become available will add up to an incredible amount of potential missed GCDs over a fight, which is far more punishing that missing the positional is.
 
-
-
-Section 3: Building the Rotation
+### Section 3: Building the Rotation
 
 Single target GCDs
 
 As previously mentioned, Monk has 6 core single target GCDs.
-
-
 
 Bootshine has a potency of 200, or 370 when you have Leaden Fist. When in Opo-Opo form, Bootshine will always crit if executed from the rear of an enemy.
 
@@ -156,8 +140,6 @@ Form Shift is a unique GCD, as it's not directly a part of our rotation, but it 
 
 There are a couple of minor things to keep in mind here. First is that at every form you have 2 options for which GCD to use. Second, is that all positionals are worth 30 potency except for Bootshine, where you instead lose the guaranteed crit effect if you miss the positional. Therefore Bootshine is the most important positional to land, as it's potentially the biggest loss.
 
-
-
 Opening your inner Chakra
 
 Chakra is Monk's job gauge, which stacks up to 5 times. At 5 stacks of Chakra we can spend them to execute either The Forbidden Chakra, a strong single target oGCD, or Enlightenment, a weaker AoE oGCD.
@@ -169,8 +151,6 @@ First is Meditation, a GCD with a 1 second cooldown that opens a single chakra u
 We then have 2 traits; Deep Meditation I & II. Deep Meditation I grants an 80% chance of generating a chakra upon landing a critical weaponskill. Deep Meditation II turns that 80% chance into a 100% chance.
 
 Finally we have Brotherhood. Brotherhood has multiple effects, but in this section we'll just talk about the effect pertaining to Chakra generation. Upon execution, party members within 15 yalms will gain the effect of Meditative Brotherhood for 15 seconds. While this buff is active on an ally, every time they execute a weaponskill or a spell there is a 20% chance that you will gain a stack of chakra.
-
-
 
 oGCDs
 
@@ -184,8 +164,6 @@ Brotherhood, a 15 second duration buff that applies 2 effects to you and all par
 
 Perfect Balance, a buff with a 15 second duration/6 stacks that enables the use of any GCD as if you have its form bonus.
 
-
-
 We have 5 damaging oGCDs at our disposal.
 
 Elixir Field, a 30 second cooldown that deals 250 potency to all enemies in a 5 yalm radius around the user.
@@ -198,11 +176,7 @@ The Forbidden Chakra, a 1 second cooldown that deals 340 potency to a single tar
 
 Enlightenment, a 1 second cooldown that deals 200 potency to all enemies in a straight line in front of you. Enlightenment also has a cost of 5 chakra.
 
-
-
 We never hold any of our oGCDs, you'll notice that every skills cooldown is a multiple of 90; this means that if we press them all exactly when they come back up, they will realign perfectly every time.
-
-
 
 Opener
 
@@ -214,8 +188,6 @@ Early
 
 \[Insert picture of opener here]
 
-
-
 We currently have 2 different openers, the Standard and the Early opener. Generally you're better off using the standard opener, the early opener is better for specific situations based on fight/phase length where you're able to get an additional use of oGCDs, extra time on a buff, or better buff timings for your group.
 
 The reason the openers work the way they do is as follows; Form Shift prepull so we don't have to do a non-form GCD. Leaden Fist is the single most important buff to gain as it grants an additional 170 potency to our guaranteed crit Bootshine, so we want to get that ASAP. Twin Snakes following this because its a 10% damage buff and we want that up as our next priority. Riddle of Fire next because Demolish is our highest potency GCD and by applying it as our first GCD in Riddle of Fire means we can do a 2nd Demolish as our final GCD under the buff. Following Demolish is The Forbidden Chakra so we don't overcap on chakras and waste any potential stacks, as our next Bootshine is a guaranteed crit so would otherwise be wasted. After the Bootshine we use Perfect Balance, which allows us to alternate between Dragon Kick/Bootshine for 6 GCDs. This is simply the most damage efficient way of spending our 6 PB stacks. Once Perfect Balance falls off you should always use Dragon Kick*, reapply Twin Snakes, and finally end with a Demolish.
@@ -223,8 +195,6 @@ The reason the openers work the way they do is as follows; Form Shift prepull so
 You'll notice that the Early opener is practically the same, with 2 minor adjustments. First, everything is 1 GCD sooner because we started on Twin Snakes instead of Dragon Kick. Second, as a result of this all of our Opo-Opo GCDs invert, so Bootshines become Dragon Kicks and vice-versa.
 
 \*Reasoning behind this is explained in the FAQs section.
-
-
 
 Core Gameplay Loop, including RoFs
 
@@ -250,8 +220,6 @@ Now you may wonder what do you do when your buffs come back up, and the answer i
 
 Your Opo-Opo GCDs flipping doesn't just effect your burst though, it also effects your rotation. As a result you'll find that every 90 seconds your rotation flips between the 2 images previously shown. Eventually you will build muscle memory to the point of not having to consciously consider which GCDs to be using when, you will simply press the right buttons at the right time.
 
- 
-
 Utility/Situational Skills and how to use them
 
 Monk has a number of utility skills that range from very useful to almost entirely useless.
@@ -266,8 +234,6 @@ Riddle of Earth is effectively a mini True North, with 3 charges and a 30 second
 
 Arms Length is a 120 second cooldown that nullifies knockbacks, it doesn't apply to \*all\* knockbacks but it should cover most of them. Very nice skill to have, as it makes sure you don't get knocked away from the boss so you can keep punching.
 
-
-
 We also have a couple of skills that help our friends in the party out, and they're as follows:\
 Mantra, a 90 second cooldown that increases healing received by 10% on yourself and anyone nearby at the time you pressed it. Generally best to confer with your healers as to when they want it, but if for whatever reason there's no communication going on there just use it before big aoe damage comes out on the group.
 
@@ -276,8 +242,6 @@ Feint, another 90 second cooldown that lowers the targets strength and dex by 10
 Bloodbath, another 90 second cooldown. For 20 seconds you'll heal for a portion of your damage dealt, nice if your healer is struggling or if you took some single target damage.
 
 Second Wind, a 120 second cooldown that instantly heals you for 500 potency. See description of Bloodbath.
-
-
 
 How to Effect Areas
 
@@ -299,21 +263,13 @@ At 3 targets, Arm of the Destroyer replaces Dragon Kick/Bootshine, Four-point Fu
 
 At 4+ enemies you shift to entirely using only your 3 AoE GCDs.
 
-
-
-
-
-Section 4
+#### Section 4
 
 FAQ
-
-
 
 "RoF is coming up too early in my rotation, what do?"
 
 This likely means your GCD is too fast, and should naturally fix itself when you reach the desired GCD threshold of 1.96. In the meantime, you can fix this by doing an additional uncomboed Dragon Kick following a previous Dragon Kick. This will slow you down by 1 GCD and should realign RoF with Demolish.
-
-
 
 "Why are there 2 Dragon Kicks in the opener?"\
 "Why don't I get Leaden Fist after using PB?"
@@ -324,8 +280,6 @@ So these are kind of the same question with more or less the same answer. You ma
 
 No, as this would be a waste of the Leaden Fist proc. You want all of your Bootshines to be guaranteed crits, so you would stick to the rule of "Always DK after PB" to make sure the Leaden isn't eaten by an uncomboed Boot. Remember, we're not 'wasting'/'overcapping' on Leaden stacks here as the DK is uncomboed.
 
-
-
 "What should I meld on X"
 
 "What stats are the best"
@@ -333,8 +287,6 @@ No, as this would be a waste of the Leaden Fist proc. You want all of your Boots
 For Monk we want Crit > DH > Det.
 
 Current BIS sets can be found here: https://etro.gg/gearset/388e7ee7-2919-49bf-b1d8-75fcfae73ce5 (No relic) and here https://etro.gg/gearset/2a0fbde0-fa6f-47b6-aa0d-9b7d240c6e19 (Relic)
-
-
 
 "Twin Snakes falls off in my opener, is that normal?"\
 Yep, Twin Snakes will fall off for a little but during PB.
