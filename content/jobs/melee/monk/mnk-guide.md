@@ -82,9 +82,9 @@ Somewhat similarly, [these](https://i.imgur.com/4IIF3ey.png) are the Sks thresho
 
 
 
-The following is a gear planner from Jahadaunt that you can use to figure out the best gear set for your situation as you gear up.
+[Here](http://bit.ly/Gear-Planner) is a gear planner from Jahadaunt that you can use to figure out the best gear set for your situation as you gear up.
 
-http://bit.ly/Gear-Planner
+
 
 ## Section 2: Basics
 
