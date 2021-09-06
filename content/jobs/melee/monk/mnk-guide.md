@@ -7,7 +7,7 @@ title: The Correct Way to Kick an Eldritch Horror in the Jaw
 
 Introduction
 
-Hello and welcome to Monkey, I am Perfect Balance and I am going to feed you the information you need to punch and kick at a decent level in the patch of our lord and saviour 5.58. You can get in touch with me on discord at wulf#8419, or on twitter. at [@RiddleOfFire](https://twitter.com/RiddleOfFire) I'm not one for lengthy introductions so let's get to feeding.
+Hello and welcome to Monkey, I am Perfect Balance and I am going to feed you the information you need to punch and kick at a decent level in the patch of our lord and saviour 5.58. You can get in touch with me on discord at wulf#8419, or on twitter. at [@RiddleOfFire](https://twitter.com/RiddleOfFire). I'm not one for lengthy introductions so let's get to feeding.
 
 Acronyms and abbreviations
 
@@ -72,7 +72,7 @@ Links to useful plugins
 \
 For those of you who struggle to learn from simply reading a big wall of text, [here](https://youtu.be/sz8laGlhSTg) is a video guide I produced with Valith Steiner
 
-
+{{< youtube sz8laGlhSTg >}}
 
 Click [here](https://www.akhmorning.com/allagan-studies/stats/) to see stat breakpoints if you want to check what you should be melding on a current set as you progress to bis, or simply want to understand the numbers a little better
 
@@ -96,7 +96,9 @@ Bootshine, True Strike, and Demolish all deal maximum damage when executed from 
 
 Dragon Kick, Twin Snakes, and Snap Punch on the other hand are best used from an enemies' flank (side).
 
-This might sound like a lot of movement back and forth from the enemies rear to side and back again, but in reality you can simply stand near the borderline of where the enemy hitbox crosses from side to rear and step back and forth between that line as needed. The image below illustrates which part of the hitbox is classified as flank/rear, and also shows which area to ideally stand for minimal required movement.
+This might sound like a lot of movement back and forth from the enemies rear to side and back again, but in reality you can simply stand near the borderline of where the enemy hitbox crosses from side to rear and step back and forth between that line as needed. The image below illustrates which part of the hitbox is classified as flank/rear, and also indicates which area to ideally stand for minimal required movement.
+
+![](/img/positional-thing.png)
 
 Forms
 
