@@ -1,8 +1,6 @@
 ---
 title: An In-Depth Guide To Guns and Robots v5.5
 ---
-![Heated Split Shot](https://i.imgur.com/E2ex2Mk.png)
-
 <!--StartFragment-->
 
 # Job Overview
