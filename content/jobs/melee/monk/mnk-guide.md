@@ -25,6 +25,7 @@ Hello and welcome to Monkey, I am Perfect Balance and I am going to feed you the
   * oGCDs
   * Openers
   * Core gameplay loop
+  * Drifting 101
   * Utility/Situational Skills and how to use them
   * How to Effect Areas
 * Section 4
@@ -108,7 +109,7 @@ Somewhat similarly, [these](https://i.imgur.com/4IIF3ey.png) are the Sks thresho
 
 ## Positionals
 
-It's unlikely that you've made the decision to play Monk while remaining unaware of the P word, but in case you've not come across it before, a "positional" is a skill that only gains maximum effect when used at a specific part of an enemies' hitbox, typically flank or rear. All 6 GCD in Monks core single target rotation has a positional effect, so it's important you know which is which.
+It's unlikely that you've made the decision to play Monk while remaining unaware of the P word, but in case you've not come across it before, a "positional" is a skill that only gains maximum effect when used at a specific part of an enemies' hitbox, typically flank or rear. All 6 GCD in Monks core single target rotation have a positional effect, so it's important you know which is which.
 
 Bootshine, True Strike, and Demolish all deal maximum damage when executed from behind an enemy.
 
@@ -196,7 +197,7 @@ The Forbidden Chakra, a 1 second cooldown that deals 340 potency to a single tar
 
 Enlightenment, a 1 second cooldown that deals 200 potency to all enemies in a straight line in front of you. Enlightenment also has a cost of 5 chakra.
 
-We never hold any of our oGCDs, you'll notice that every skills cooldown is a multiple of 90; this means that if we press them all exactly when they come back up, they will realign perfectly every time.
+We never hold any of our oGCDs. You'll notice that every skills cooldown is a multiple of 90; this means that if we press them all exactly when they come back up, they will realign perfectly every time.
 
 ## Openers
 
@@ -239,6 +240,10 @@ Depending on the opener you used, your ensuing rotation will end up looking like
 Now you may wonder what do you do when your buffs come back up, and the answer is thankfully quite simple - you simply redo your opener. Now when I say redo I don't mean *exactly* redo it, as you'll notice that your Opo-Opo GCDs have naturally flipped since the opener. This means that if you started the fight with the Standard opener, your first RoF usage will look exactly like the Early opener. If you started with the Early opener, you'll end up doing the Standard opener. This continues to alternate throughout the fight. 
 
 Your Opo-Opo GCDs flipping doesn't just effect your burst though, it also effects your rotation. As a result you'll find that every 90 seconds your rotation flips between the 2 images previously shown. Eventually you will build muscle memory to the point of not having to consciously consider which GCDs to be using when, you will simply press the right buttons at the right time.
+
+## Drifting 101
+
+\[Write about Chakra drift here.]
 
 ## Utility/Situational Skills and how to use them
 
