@@ -1,7 +1,7 @@
 ---
 title: An In-Depth Guide To Guns and Robots v5.5
 ---
-
+![Heated Split Shot](https://i.imgur.com/E2ex2Mk.png)
 
 <!--StartFragment-->
 
@@ -18,7 +18,7 @@ If you’re new to the job and would just like a basic overview of Machinist dur
 ## Job Gauge 
 
 Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge which costs 50 Heat. The Battery Gauge (bottom) is used to summon your Automaton Queen to fight alongside you for a specified amount of time based on the amount of Battery you had at the time of summoning. You must accrue at least 50 Heat or Battery to use their respective abilities, and neither should be allowed to overcap if possible.<div align="center">![](https://lh4.googleusercontent.com/QsQSG5c79EfLZe3wXkwZWsagFAlYmyeyZY0wC_ksPDFeXCjSY8Nr8g80biSCUpKrFhZLK1PSJbjY9lvhao3vGgi4mGbZUZCOf7kzXyc8ybUQnO6dPRPtdD5CMEyO5PpBz80hQntS)</div>
-![Heated Split Shot](https://i.imgur.com/E2ex2Mk.png)
+
 <!--StartFragment-->
 
 ## Single Target Rotation
