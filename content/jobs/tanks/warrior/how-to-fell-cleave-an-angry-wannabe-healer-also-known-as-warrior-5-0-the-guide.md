@@ -13,6 +13,8 @@ title: How to Fell Cleave - An Angry Wannabe-Healer, also known as Warrior 5.0 -
 
 --- 
 
+## A comprehensive guide on Warrior’s gameplay, current info and theory
+
 - [Introduction]
 - [Job Overview]
 - [tl;dr]
@@ -36,27 +38,30 @@ title: How to Fell Cleave - An Angry Wannabe-Healer, also known as Warrior 5.0 -
 - [Acknowledgment]
 - [Changelog]
 
+
+
+
+
 --- 
 
+# Introduction
 
-
-A comprehensive guide on Warrior’s gameplay, current info and theory
-Introduction
 
 
 Hello, fellow axe wielders, we are Warruru Bros from The Balance discord:
 
-Mox Xinmagar
-Glu Kos
-Sizzy Twintails
+- Mox Xinmagar
+- Glu Kos
+- Sizzy Twintails
 
 
 
-With this guide we hope to provide everyone with an in-depth view on one of the FINAL FANTASY XIV tanks, Warrior. As such, this guide is dedicated to people already familiar with the basics of Tank role. 
+
+With this guide we hope to provide everyone with an *in-depth view* on one of the FINAL FANTASY XIV tanks, Warrior. As such, this guide is dedicated to people already familiar with the basics of Tank role. 
 
 For those new to Tank role as a whole, we must first refer you to this beginner tank guide, where you’ll be introduced to the basics, such as, defensive cooldowns for each tank, enmity control, tank swaps and positioning:
 
-So You Want To Be A Tank? 
+[So You Want To Be A Tank?](https://goo.gl/nYzAnq)
 
 If you know the basics and want to push the limits of Warrior gameplay, carry on reading.
 
@@ -69,19 +74,30 @@ If you know the basics and want to push the limits of Warrior gameplay, carry on
 
 
 
-Job Overview
 
-On the northernmost edge of Abalathia's Spine exists a mountain tribe renowned for producing fearsome mercenaries. Wielding great axes and known as Warriors, these men and women learn to harness their inner-beasts and translate that power to unbridled savagery on the battlefield.
+--- 
+
+# Job Overview
+
+
+> *On the northernmost edge of Abalathia's Spine exists a mountain tribe renowned for producing fearsome mercenaries. Wielding great axes and known as 
+
+Warriors, these men and women learn to harness their inner-beasts and translate that power to unbridled savagery on the battlefield.*
 
 Warrior is a powerhouse combining both very unique defence and offence kits. 
 
+
 In general, Warrior’s gameplay revolves around filling the Beast Gauge using basic combos and spending the Beast Gauge on powerful abilities. It’s a minigame of sorts where you are balancing between 0 and 100. Go too far and you’ll waste the precious Beast Gauge. Go too low and you won’t have enough Beast Gauge to use the ability when you need it.
 
-At the same time you will have another minigame. You will pay attention to the 30-60 seconds of Storm's Eye buff timer. Losing on some Beast Gauge if you reapply the buff too early or losing damage if you forget to reapply it at all.
 
-Don’t be afraid, there will be some time to relax during Inner Release, while doing massive damage with those powerful abilities mentioned earlier.
+At the same time you will have another minigame. You will pay attention to the 30-60 seconds of Storm's **Eye** buff timer. Losing on some Beast Gauge if you reapply the buff too early or losing damage if you forget to reapply it at all.
 
-While other tanks rely on knowing what happens next, Warrior charges into battle without a second thought. Self mitigation combined with insane self HP recovery tools are the biggest strengths of Warrior, allowing us to quickly react and adjust to unexpected situations. A healer suddenly died and you’re all by itself with low health? No problem! We have 2 instant heals to use, we heal ourselves during Storm’s Path combo and, on top of that, we also can heal ourselves or a party member by the portion of the damage we’ve dealt to the enemy!
+
+Don’t be afraid, there will be some time to relax during **Inner Release**, while doing massive damage with those powerful abilities mentioned earlier.
+
+
+While other tanks rely on knowing what happens next, Warrior charges into battle without a second thought. Self mitigation combined with insane self HP recovery tools are the biggest strengths of Warrior, allowing us to quickly react and adjust to unexpected situations. A healer suddenly died and you’re all by itself with low health? No problem! We have 2 instant heals to use, we heal ourselves during **Storm’s Path** combo and, on top of that, we also can heal ourselves or a party member by the portion of the damage we’ve dealt to the enemy!
+
 
 Remember, no man can win every battle, but no man should fall without a struggle!
 
@@ -94,38 +110,54 @@ Remember, no man can win every battle, but no man should fall without a struggle
 
 
 
-tl;dr
-Also known as “I’m here for the quickest tips”. No explanation, just take them and run.
-IC IR IC IC Opener
+
+--- 
+
+# tl;dr
+
+*Also known as “I’m here for the quickest tips”. No explanation, just take them and run.*
+
+## IC IR IC IC Opener
+
 
 Nascent Flash is free to be moved around depending on damage taken. Here it is used to teach people to use Inner Release on the 2nd oGCD slot.
-Rotation (is a priority now)
-Keep Storm’s Eye up and refresh it below 15 seconds.
-Keep Upheaval on cooldown.
-Keep Inner Release on cooldown (fight-dependent).
-Don’t overcap Beast Gauge.
-As a rule of thumb, use Fell Cleave only after 70 Beast Gauge.
-Use Storm’s Path to gain as much Beast Gauge as possible.
-Aim to use Infuriate and Inner Chaoses inside party buffs.
-Aim to keep Infuriate below 2 stacks at all times.
-Stat Priority
+
+## Rotation (is a priority now)
+- Keep Storm’s Eye up and refresh it below 15 seconds.
+- Keep Upheaval on cooldown.
+- Keep Inner Release on cooldown (fight-dependent).
+- Don’t overcap Beast Gauge.
+- As a rule of thumb, use Fell Cleave only after 70 Beast Gauge.
+- Use Storm’s Path to gain as much Beast Gauge as possible.
+- Aim to use Infuriate and Inner Chaoses inside party buffs.
+- Aim to keep Infuriate below 2 stacks at all times.
+
+## Stat Priority
 Crit > Comfy SkS > Det > Ten    
-Skill Speed Tiers
+
+## Skill Speed Tiers
+
 37 GCDs per 90s
-1015 for 2.43 GCD - Highest DPS, but requires some planning
-1117 for 2.42 GCD - Some breathing room compared to the one above
+- 1015 for 2.43 GCD - Highest DPS, but requires some planning
+- 1117 for 2.42 GCD - Some breathing room compared to the one above
 
 38 GCDs per 90s
-1523 for 2.38 GCD - Your average Warrior skill speed
-1624 for 2.37 GCD - Some breathing room for mechs and clipping
-1726 for 2.36 GCD - "Greeding Mechanics" levels of comfy
-BiS Lists 
-Refer to The Balance discord server #warrior_resources
+- 1523 for 2.38 GCD - Your average Warrior skill speed
+- 1624 for 2.37 GCD - Some breathing room for mechs and clipping
+- 1726 for 2.36 GCD - "Greeding Mechanics" levels of comfy
 
-Abilities Preview
+## BiS Lists 
+Refer to [The Balance discord](https://discord.gg/thebalanceffxiv) server [#warrior_resources](https://discordapp.com/channels/277897135515762698/580300071061553182/593937173569601538)
+
+
+--- 
+
+# Abilities Preview
+
 
 Abilities will be presented in a tabular format for easy reading.
-Single Target
+
+## Single Target
 
 Heavy Swing
 Standard basic attack to initiate both the Storm’s Eye Combo and the Storm’s Path Combo, consisting of Heavy Swing, Maim, Storm’s Eye and Heavy Swing, Maim, Storm’s Path respectively.
@@ -649,14 +681,22 @@ Interrupts the use of enemy actions highlighted with red-blinking cast bar.
 
 Low Blow
 Stuns the target for 5 seconds. DOES NOT interrupt the use of enemy actions highlighted with red-blinking cast bar.
-The Openers and Rotation
+
+--- 
+
+# The Openers and Rotation
+
 
 All right, now let’s use all this knowledge we’ve gathered and discuss how, when and why to use the abilities we have.
 
-Opener Optimization
+
+## Opener Optimization
+
 At present there is only a single worthy opener for Warriors, mainly because we want to get Inner Release on cooldown as soon as possible to maximize its usage, and because we can fit an extra Fell Cleave inside the potion by abusing Inner Release’s +15s Eye extension mechanics.
 
-IC IR IC IC Opener
+
+### IC IR IC IC Opener
+
 
 IC IR IC IC opener takes advantage of the potion’s whole duration, landing in 3 Inner Chaos, 2 combo finishers, a Fell Cleave and all the important oGCDs.
 
@@ -670,7 +710,8 @@ Equilibrium and Provoke can be used during the opener for a flat increase in enm
 
 
 
-Rotation Optimization
+
+## Rotation Optimization
 
 The basic rotation in a 100% uptime scenario is generously put a priority list:
 
