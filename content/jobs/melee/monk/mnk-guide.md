@@ -234,7 +234,7 @@ You'll notice that when applying this system, the rotation actually falls into a
 
 Depending on the opener you used, your ensuing rotation will end up looking like one of the 2 following images;
 
-\[Insert image here]
+![](/img/rotation-loop-thing.png)
 
 Now you may wonder what do you do when your buffs come back up, and the answer is thankfully quite simple - you simply redo your opener. Now when I say redo I don't mean \*exactly\* redo it, as you'll notice that your Opo-Opo GCDs have naturally flipped since the opener. This means that if you started the fight with the Standard opener, your first RoF usage will look exactly like the Early opener. If you started with the Early opener, you'll end up doing the Standard opener. This continues to alternate throughout the fight. 
 
