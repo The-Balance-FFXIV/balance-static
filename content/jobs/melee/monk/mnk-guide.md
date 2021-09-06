@@ -55,6 +55,8 @@ FoE - Fists of Earth
 
 FoW - Fists of Wind
 
+GL - Greased Lightning
+
 GCD - Global Cooldown
 
 oGCD - Off-Global Cooldown
@@ -62,6 +64,35 @@ oGCD - Off-Global Cooldown
 DoT - Damage over Time
 
 AoE - Area of Effect
+
+
+
+Complementary Materials
+
+Links to useful plugins
+
+\
+For those of you who struggle to learn from simply reading a big wall of text, here's a video guide I produced with Valith Steiner
+
+https://youtu.be/sz8laGlhSTg
+
+
+
+The following website shows stat breakpoints if you want to check what you should be melding on a current set as you progress to bis, or simply want to understand the numbers a little better
+
+https://www.akhmorning.com/allagan-studies/stats/
+
+
+
+Somewhat similarly, these are the Sks thresholds for your GCD at GL4.
+
+https://i.imgur.com/4IIF3ey.png
+
+
+
+The following is a gear planner from Jahadaunt that you can use to figure out the best gear set for your situation as you gear up.
+
+http://bit.ly/Gear-Planner
 
 
 
@@ -89,7 +120,15 @@ In Raptor form, True Strike, Twin Snakes, and Four-point Fury gain additional ef
 
 In Coeurl form, Demolish, Snap Punch, and Rockbreaker gain additional effects.
 
-Uptime - both in the normal sense and wrong positional sense
+
+
+Uptime
+
+Uptime is absolutely king, and 99% of the time when people come asking for help as to why they're doing low DPS, it's because they have poor uptime.
+
+Now I mean this in two different senses of the word. First and foremost is what you may be thinking of already when you hear the word "uptime", and that's simply making sure you're in melee range as much as possible so you can continue to hit the boss. It's okay to have poor uptime as you're learning a fight, since you won't know the timings on mechanics or the ranges on certain boss aoes. As time progresses however, you will start to learn these things, and you want to minimise downtime by only running out barely beyond the danger zone on an aoe so that you can get back in quicker, as well as simply running back in quicker once you know that damage has resolved and the aoe is now gone. This is where most people falter; they "respect" aoes too much, they run away too far and for too long.
+
+Second is keeping your GCD rolling in general. Some people will choose to prioritise positionals more than rolling their GCDs, and so will stop hitting the boss for a second or so in order to make sure they're in position to continue hitting. This is really bad and you shouldn't do this. If you're unable to hit a positional, keep your GCD rolling anyway, as the amount of time wasted waiting for the positional to become available will add up to an incredible amount of potential missed GCDs over a fight, which is far more punishing that missing the positional is.
 
 
 
@@ -266,15 +305,36 @@ At 4+ enemies you shift to entirely using only your 3 AoE GCDs.
 
 Section 4
 
-Complementary Materials
-
-Links to useful plugins\
-Link to video guide
-
 FAQ
 
 
 
 "RoF is coming up too early in my rotation, what do?"
 
-This likely means your GCD is too fast, and should naturally fix itself when you reach the desired GCD threshold of 1.96. In the meantime,
+This likely means your GCD is too fast, and should naturally fix itself when you reach the desired GCD threshold of 1.96. In the meantime, you can fix this by doing an additional uncomboed Dragon Kick following a previous Dragon Kick. This will slow you down by 1 GCD and should realign RoF with Demolish.
+
+
+
+"Why are there 2 Dragon Kicks in the opener?"\
+"Why don't I get Leaden Fist after using PB?"
+
+So these are kind of the same question with more or less the same answer. You may have noticed that after Perfect Balance we don't have any form, so we \*have\* to do a single GCD without form. We always want this formless GCD to be a Dragon Kick, as it's stronger than an uncomboed Bootshine. 
+
+"If I end PB with Leaden Fist, should I not do an uncomboed Bootshine instead?"
+
+No, as this would be a waste of the Leaden Fist proc. You want all of your Bootshines to be guaranteed crits, so you would stick to the rule of "Always DK after PB" to make sure the Leaden isn't eaten by an uncomboed Boot. Remember, we're not 'wasting'/'overcapping' on Leaden stacks here as the DK is uncomboed.
+
+
+
+"What should I meld on X"
+
+"What stats are the best"
+
+For Monk we want Crit > DH > Det.
+
+Current BIS sets can be found here: https://etro.gg/gearset/388e7ee7-2919-49bf-b1d8-75fcfae73ce5 (No relic) and here https://etro.gg/gearset/2a0fbde0-fa6f-47b6-aa0d-9b7d240c6e19 (Relic)
+
+
+
+"Twin Snakes falls off in my opener, is that normal?"\
+Yep, Twin Snakes will fall off for a little but during PB.
