@@ -236,7 +236,7 @@ Depending on the opener you used, your ensuing rotation will end up looking like
 
 ![](/img/rotation-loop-thing.png)
 
-Now you may wonder what do you do when your buffs come back up, and the answer is thankfully quite simple - you simply redo your opener. Now when I say redo I don't mean \*exactly\* redo it, as you'll notice that your Opo-Opo GCDs have naturally flipped since the opener. This means that if you started the fight with the Standard opener, your first RoF usage will look exactly like the Early opener. If you started with the Early opener, you'll end up doing the Standard opener. This continues to alternate throughout the fight. 
+Now you may wonder what do you do when your buffs come back up, and the answer is thankfully quite simple - you simply redo your opener. Now when I say redo I don't mean *exactly* redo it, as you'll notice that your Opo-Opo GCDs have naturally flipped since the opener. This means that if you started the fight with the Standard opener, your first RoF usage will look exactly like the Early opener. If you started with the Early opener, you'll end up doing the Standard opener. This continues to alternate throughout the fight. 
 
 Your Opo-Opo GCDs flipping doesn't just effect your burst though, it also effects your rotation. As a result you'll find that every 90 seconds your rotation flips between the 2 images previously shown. Eventually you will build muscle memory to the point of not having to consciously consider which GCDs to be using when, you will simply press the right buttons at the right time.
 
@@ -244,7 +244,7 @@ Your Opo-Opo GCDs flipping doesn't just effect your burst though, it also effect
 
 Monk has a number of utility skills that range from very useful to almost entirely useless.
 
-First is Six-Sided Star, a GCD with a potency of 540. It also grants a movement speed buff for 5 seconds, isn't locked to a form, and has no positional. At first glance this move seems very strong and like something you'd want to use frequently, however it's unique in that its GCD is twice as long as any other GCD, 5 seconds at base. Simply put, using 2 GCDs is always better than using 1 SSS, so you will only ever use SSS in scenarios where you \*cannot\* use 2 GCDs. This means before a boss goes invulnerable, as the last GCD before an enemy dies, as the last GCD before you have to disengage from an enemy, or before using a Limit Break.
+First is Six-Sided Star, a GCD with a potency of 540. It also grants a movement speed buff for 5 seconds, isn't locked to a form, and has no positional. At first glance this move seems very strong and like something you'd want to use frequently, however it's unique in that its GCD is twice as long as any other GCD, 5 seconds at base. Simply put, using 2 GCDs is always better than using 1 SSS, so you will only ever use SSS in scenarios where you *cannot* use 2 GCDs. This means before a boss goes invulnerable, as the last GCD before an enemy dies, as the last GCD before you have to disengage from an enemy, or before using a Limit Break.
 
 We then have Anatman, which is basically useless. Anatman is a skill on the GCD, which when used puts you in a channel state that will be broken if you move, use any other skill, or even just turn your character. Upon use your Twin Snakes buff will be refreshed to 15 seconds, and will remain there for the duration of the channel. If this sounds useless its because it is. At its absolute best it will gain you 50~ potency.
 
@@ -252,7 +252,7 @@ True North is one of our best friends. It's a 45 second cooldown with 2 charges,
 
 Riddle of Earth is effectively a mini True North, with 3 charges and a 30 second cooldown. Upon activation you gain 3 stacks of Riddle of Earth, each of which provides 10% mitigation and nullifies the positional of a single GCD. This should primarily be used for its positional nullification, but in emergencies can be used for its mitigation.
 
-Arms Length is a 120 second cooldown that nullifies knockbacks, it doesn't apply to \*all\* knockbacks but it should cover most of them. Very nice skill to have, as it makes sure you don't get knocked away from the boss so you can keep punching.
+Arms Length is a 120 second cooldown that nullifies knockbacks, it doesn't apply to *all* knockbacks but it should cover most of them. Very nice skill to have, as it makes sure you don't get knocked away from the boss so you can keep punching.
 
 We also have a couple of skills that help our friends in the party out, and they're as follows:\
 Mantra, a 90 second cooldown that increases healing received by 10% on yourself and anyone nearby at the time you pressed it. Generally best to confer with your healers as to when they want it, but if for whatever reason there's no communication going on there just use it before big aoe damage comes out on the group.
@@ -273,7 +273,7 @@ Opo-Opo form has Arm of the Destroyer, a circle AoE around you with a 110 potenc
 
 Raptor form has Four-point Fury, another circle AoE around you with a 140 potency which also extendes Twin Snakes by 10 seconds.
 
-Coeurl form has Rockbreaker, \*another\* circle AoE around you with 150 potency.
+Coeurl form has Rockbreaker, *another* circle AoE around you with 150 potency.
 
 To AoE, you start by applying Twin Snakes and then simply begin using your AoE gcds instead of single target, based on the amount of enemies.
 
@@ -294,7 +294,7 @@ This likely means your GCD is too fast, and should naturally fix itself when you
 "Why are there 2 Dragon Kicks in the opener?"\
 "Why don't I get Leaden Fist after using PB?"
 
-So these are kind of the same question with more or less the same answer. You may have noticed that after Perfect Balance we don't have any form, so we \*have\* to do a single GCD without form. We always want this formless GCD to be a Dragon Kick, as it's stronger than an uncomboed Bootshine. 
+So these are kind of the same question with more or less the same answer. You may have noticed that after Perfect Balance we don't have any form, so we *have* to do a single GCD without form. We always want this formless GCD to be a Dragon Kick, as it's stronger than an uncomboed Bootshine. 
 
 "If I end PB with Leaden Fist, should I not do an uncomboed Bootshine instead?"
 
