@@ -32,21 +32,21 @@ Disclaimer
   - [Raiding - Cooldowns, Mitigation, and You](#raiding-cooldowns-mitigation-and-you)	
   - [Assisting Your Team - Secondary Tank and Raid Mitigation](#assisting-your-team-secondary-tank-and-raid-mitigation)	
   - [Cross Role Actions](#cross-role-actions)	
-- Part 4: Offensive Optimization Tips	
-  - Dungeons and Spamming	
-  - Edge of Shadow	
-  - Delirium and Bloodspiller	
-  - Living Shadow	
-  - Raid Buffs and how to use them	
-- Part 5: Openers and Substats	
-  - Openers	
-  - 5.0 BiS	
-  - Stats, and Reasoning	
-- Frequently Asked Questions, and Fight Optimization	
-  - F.A.Q.	
-  - Fight Specific Optimization and Tips	
-- Credits	
-  - Change/Editlog	
+- [Part 4: Offensive Optimization Tips](#part-4)	
+  - [Dungeons and Spamming](#dungeons-and-spamming)	
+  - [Edge of Shadow](#edge-of-shadow)	
+  - [Delirium and Bloodspiller](#delirium-and-bloodspiller)	
+  - [Living Shadow](#living-shadow)	
+  - [Raid Buffs and how to use them](#raid-buffs-and-how-to-use-them)	
+- [Part 5: Openers and Substats](#part-5)	
+  - [Openers](#openers)	
+  - [5.0 BiS](#5-0-bis)	
+  - [Stats, and Reasoning](#stats-and-reasoning)	
+- [Frequently Asked Questions, and Fight Optimization](#frequently-asked-questions-and-fight-optimization)	
+  - [F.A.Q.](#faq)	
+  - [Fight Specific Optimization and Tips](#fight-specific-optimization-and-tips)	
+- [Credits](#credits)	
+  - [Change/Editlog](#change-editlog)	
 
 
 
