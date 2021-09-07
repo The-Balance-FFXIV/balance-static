@@ -194,129 +194,21 @@ Abilities will be presented in a tabular format for easy reading.
 | --- | --- | --- | --- | 
 | icon| Inner release | Guarantees all of your attacks  are Critical and Direct hit. <br>Extends existing Storm’s Eye buff by +15 seconds (up to 60s). <br>Makes all of your attacks cost 0 Beast Gauge. <br>Nullifies most draw-in and knockback effects. 10 seconds duration. | +Crit Dhit <br>90s CD <br>oGCD <br>
 | icon | Defiance | Toggleable effect that significantly increases enmity generation. | + 900% Enmity <br>10s CD  <br>oGCD
-
-Provoke
-Places you on top of the enmity list and adds additional fixed amount on top of that
-30s CD
-oGCD
-+Enmity
-
-Shirk
-Redirects 25% of your current enmity onto a party member of your choice
-120s CD
-oGCD
--25%Enmity
-Holmgang
-Prevents most attacks from reducing your HP below 1 hp
-
-Binds your target
-8 seconds duration
-
-
-8s dur.
-240s CD
-oGCD
-Vengeance
-Reduces damage taken by 30%.
-Deals 55 potency every time you take physical damage
-
-
-15s dur. 
-120s CD
-oGCD
-
-Rampart
-Reduces damage taken by 20%.
-
-
-
-20s dur. 
-90s CD
-oGCD
-
-Thrill of Battle
-Increases maximum HP by 20% and restores the amount increased
-Increase HP recovery by healing actions on self by 20%
-10 seconds duration
-10s dur.
-90s CD
-oGCD
-
-Equilibrium
-Heals self for 1200 potency.
-60 seconds cooldown.
-1200p
-60s CD
-oGCD
-
-Raw Intuition
-Reduces damage taken by 20%
-Shares a recast timer with Nascent Flash.
-6 seconds duration.
-6s dur. 
-25s CD
-oGCD
-
-Nascent Flash
-Grants Nascent Flash to yourself and Nascent Glint to a party member
-Nascent Flash: Absorbs ~48% of damage dealt as HP.
-Nascent Glint: Reduces damage taken by 10% and restores 50% of hp absorbed by Nascent Flash.
-6 seconds duration.
-Shares a recast timer with Raw Intuition.
-
-
-6s dur. 
-25s CD
-oGCD
-
-Shake It Off
-Gives a party wide, 15% of targets hp, shield.
-Dispels Vengeance, Raw Intuition, Thrill of Battle and increases shield by 2% for each effect absorbed.
-15 seconds duration.
-15s dur. 
-90s CD
-oGCD
-
-Reprisal
-Reduces targets’ damage dealt by 10%.
-Does an AoE around the tank, hitting multiple targets.
-
-
-
-10s dur. 
-60s CD
-oGCD
-
-Arm’s Length (knockback)
-Negates majority of Knockback effects.
-
-
-Certain attacks cannot be negated.
-6s dur. 
-120s CD
-oGCD
-
-Arm’s Length
-(Slow)
-Applies a Slow +20% debuff on the targets around you, increasing enemy’s cast time, attack time and auto-attack delay.
-15s dur. 
-120s CD
-oGCD
-
-Interject 
-Interrupts the use of some (highlighted) enemy actions.
-30s CD
-oGCD
-
-Low Blow
-Stuns target.
-
-Certain targets cannot be stunned.
-
-
-5s dur. 
-25s CD
-oGCD
+| icon | Provoke | Places you on top of the enmity list and adds additional fixed amount on top of that | 30s CD <br> oGCD <br> +Enmity
+| icon | Shirk | Redirects 25% of your current enmity onto a party member of your choice | 120s CD <br>oGCD <br>-25% Enmity |
+| icon | Holmgang | Prevents most attacks from reducing your HP below 1 hp <br>Binds your target <br>8 seconds duration | 8s dur. <Br>240s CD <br>oGCD
+| icon | Vengeance | Reduces damage taken by 30%. <br>Deals 55 potency every time you take physical damage | 15s dur. <br>120s CD <br>oGCD | 
+| icon | Rampart | Reduces damage taken by 20%. | 20s dur. <br>90s CD <br> oGCD | 
+| icon | Thrill of Battle | Increases maximum HP by 20% and restores the amount increased <br> Increase HP recovery by healing actions on self by 20% <br>10 seconds duration | 10s dur. <br> 90s CD <br>oGCD | 
+| icon | Equilibrium | Heals self for 1200 potency. <br>60 seconds cooldown. | 1200p <br>60s CD <br> oGCD | 
+| icon | Raw Intuition | Reduces damage taken by 20% <br>Shares a recast timer with Nascent Flash. <br>6 seconds duration. | 6s dur. <br>25s CD <br>oGCD |
+| icon | Nascent Flash | Grants Nascent Flash to yourself and Nascent Glint to a party member <br>Nascent Flash: Absorbs ~48% of damage dealt as HP. <br>Nascent Glint: Reduces damage taken by 10% and restores 50% of hp absorbed by Nascent Flash. <br>6 seconds duration. <br>Shares a recast timer with Raw Intuition. | 6s dur. <br>25s CD <br>oGCD | 
+| icon | Shake It Off | Gives a party wide, 15% of targets hp, shield. <br> Dispels Vengeance, Raw Intuition, Thrill of Battle and increases shield by 2% for each effect absorbed. <br>15 seconds duration. | 15s dur. <br>90s CD <br>oGCD | 
+| icon | Reprisal | Reduces targets’ damage dealt by 10%. <br>Does an AoE around the tank, hitting multiple targets. | 10s dur. <br>60s CD <br>oGCD 
+| icon | Arm’s Length <br>(knockback) | Negates majority of Knockback effects. <br>Certain attacks cannot be negated. | 6s dur. <br>120s CD <br>oGCD | 
+| icon | Arm’s Length <br>(Slow) | Applies a Slow +20% debuff on the targets around you, increasing enemy’s cast time, attack time and auto-attack delay. | 15s dur. <br>120s CD <br>oGCD | 
+| icon | Interject | Interrupts the use of some (highlighted) enemy actions. | 30s CD <br>oGCD |
+| icon| Low Blow | Stuns target. <br>Certain targets cannot be stunned. | 5s dur. <br>25s CD <br>oGCD |
 
 
 
