@@ -56,21 +56,27 @@ Disclaimer
 
 --- 
 
-Part 1: The Changes from Stormblood to Shadowbringers
+![Part 1](https://cdn.discordapp.com/attachments/752334526449057853/884865369368588308/unknown.png)
+
+# Part 1: The Changes from Stormblood to Shadowbringers
 With the release of the expansion, Dark Knight has radically changed. The playstyle has shifted from an oGCD active, speed oriented class, to a high-potency heavy hitter, focused on Burst potential as opposed to consistent damage. Here’s a description of the major changes that have happened to the job.
-Here is a link to the Official Job Guide released by Square-Enix. It has basic potencies listed, as well as information on combo rotations.
-Enmity combos have been removed. Instead, Grit now has a raw threat modifier of 10x damage. Provoke has also changed to a raw 2000p threat on top of being placed first on the threat table.
-Dark Arts and Dark Passenger - In their base essence, they have been removed. However, both abilities have been replaced with Edge of (Darkness)Shadow and Flood of (Darkness)Shadow respectively. Edge of Shadow is used similarly to how Dark Arts was used, however its damage is no longer tied to the GCD. It also deals a significantly larger amount of damage, and you will no longer be using it as often as you used to. Flood of Shadow can also be used as an AoE cleave with the frequency of Edge of Shadow. Of note, this means that all abilities which previous interacted with Dark Arts no longer have that requirement. 
-Blood Weapon - Blood Weapon has lost the haste component of the skill, and is purely for mana/blood generation. It also only lasts for 10 seconds (5 GCDs).
-Delirium - No longer costs blood, or augments Blood Weapon. Delirium is now a 90s cooldown which allows for free uses of Bloodspiller or Quietus for 10 seconds (or 5 GCDs). 
-Shown: The GCD “Sweetspot” of when you should activate BW or Delirium in order to attain all 5 GCDs.
-The Blackest Night - Increased to 25%, and more importantly, the use on others is also 25%, instead of 10%. A massive boost to its use potential. In addition, the blood gain aspect has been removed, and instead grants a “free” use of EoS/FoS. The shield has also changed to target’s HP, instead of only your own.
-Plunge - At 78, Plunge gains an additional “Charge” - meaning that you can potentially store 2 uses of the ability for offensive purposes, or save and use them as necessary.
-Salted Earth - The cooldown has been doubled, and the ability only does 60pot/15s (360 potency with the Ground AoE change). A massive nerf to the ability, lessening the burden of ensuring timely, efficient uses.
-Abyssal Drain has been changed to an oGCD aoe move and heal. In its place are the new AoE combo moves of Unleash into Stalwart Soul (72).
-Sole Survivor has been removed.
+
+[Here is a link to the Official Job Guide released by Square-Enix.](https://na.finalfantasyxiv.com/jobguide/darkknight/) It has basic potencies listed, as well as information on combo rotations.
+1. **Enmity combos have been removed.** Instead, Grit now has a raw threat modifier of 10x damage. Provoke has also changed to a raw 2000p threat on top of being placed first on the threat table.
+2. **Dark Arts and Dark Passenger** - In their base essence, they have been removed. However, both abilities have been replaced with **Edge of (Darkness)Shadow** and **Flood of (Darkness)Shadow** respectively. Edge of Shadow is used similarly to how Dark Arts was used, however its damage is no longer tied to the GCD. It also deals a significantly larger amount of damage, and you will no longer be using it as often as you used to. Flood of Shadow can also be used as an AoE cleave with the frequency of Edge of Shadow. Of note, this means that all abilities which previous interacted with Dark Arts no longer have that requirement. 
+3. **Blood Weapon** - Blood Weapon has lost the haste component of the skill, and is purely for mana/blood generation. It also only lasts for 10 seconds (5 GCDs).
+4. **Delirium** - No longer costs blood, or augments Blood Weapon. Delirium is now a 90s cooldown which allows for free uses of Bloodspiller or Quietus for 10 seconds (or 5 GCDs). 
+5. Shown: The GCD “Sweetspot” of when you should activate BW or Delirium in order to attain all 5 GCDs.
+6. **The Blackest Night** - Increased to 25%, and more importantly, the use on others is also 25%, instead of 10%. A massive boost to its use potential. In addition, the blood gain aspect has been removed, and instead grants a “free” use of EoS/FoS. The shield has also changed to target’s HP, instead of only your own.
+7. **Plunge** - At 78, Plunge gains an additional “Charge” - meaning that you can potentially store 2 uses of the ability for offensive purposes, or save and use them as necessary.
+8. **Salted Earth** - The cooldown has been doubled, and the ability only does 60pot/15s (360 potency with the Ground AoE change). A massive nerf to the ability, lessening the burden of ensuring timely, efficient uses.
+9. **Abyssal Drain** has been changed to an oGCD aoe move and heal. In its place are the new AoE combo moves of Unleash into Stalwart Soul (72).
+10. **Sole Survivor** has been removed.
+
 Dark Knight still maintains the general feel that it used to from Stormblood, however it has lost the haste that it once had with Blood Weapon. Casts per minute has gone down from an average of 45 to 37, hopefully alleviating some of the issues that many people faced in the past. The general progression of GCDs still remains, with Souleater combos and filler Bloodspillers whenever available.
+
 The change of Dark Arts to Edge/Flood of Shadow is an interesting quality of life change for many - instead of a small addition to our GCDs, we get a huge oGCD potency. The main difference people will see from Stormblood to Shadowbringers is a severe hit to our mana resource generation - what was once a fast spam class, has turned into a pure pool then dump concept, as your mana regeneration is fickle, even during Blood Weapon windows.
+
 Hopefully players will be able to adjust accordingly, and enjoy the class to its fullest!
 
 
@@ -80,7 +86,13 @@ Hopefully players will be able to adjust accordingly, and enjoy the class to its
 
 
 
-Part 2: The Basics - General Tips and Tricks
+
+--- 
+
+![Part2](https://cdn.discordapp.com/attachments/752334526449057853/884866057796472852/unknown.png)
+
+# Part 2: The Basics - General Tips and Tricks
+
 General rundown for anyone somewhat new to Dark Knight. If you’ve played the class to 80, you should have a general idea of what to do.
 Offensive - 
 Always be casting. The most important rule for any job is to ensure that your GCD is always rolling, and your character always attacking. GCDs will be your primary source of damage and resource generation.
