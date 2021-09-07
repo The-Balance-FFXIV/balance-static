@@ -381,12 +381,12 @@ Shield: 25% target’s max. HP
 <br>Interruptible actions are denoted by red flashing castbars
 
 
-  Normal castbar: ![Castbar](https://cdn.discordapp.com/attachments/752334526449057853/884898838979154030/unknown.png)
+  Normal castbar: ![Castbar](https://lh6.googleusercontent.com/U4mWjDQYc0q4mqE4yjC13PqJid1zVD6yryLhQcFWUFjSAaXIrm7DypFKuseKmO6qGKt5zvJy8YN9O8fMd_yWNMQ_v54EJmDqRjhoMhv_Xenogc5OI3U0NFdeGW-rAxURAl_q-cSH=s0)
 
 
 
 
-  Interruptible castbar: ![Interruptable Castbar](https://cdn.discordapp.com/attachments/752334526449057853/884898862895071242/unknown.png)
+  Interruptible castbar: ![Interruptable Castbar](https://lh6.googleusercontent.com/inBdTlS1HaoY8A6RoddjXjWKCc_UhA16nEbD7Svp_XGQR5KI9cvHteAKZfwO8T-xTiEP541rye-mAc7x-79dU1a7wKLha8bUcCUJPp1N6nNOB5LKqftMUxueiuY5L-327Hdszal1=s0)
 
 
 
@@ -439,6 +439,7 @@ Dark Knight’s rotation is deceptively simple, and follows these simple princip
 - Use offensive abilities (such as Abyssal Drain, Salted Earth, Blood Weapon, and Delirium) when available.
 - Fill remaining GCDs with Souleater combo.
 
+![Blood Weapon and Delirium](https://lh3.googleusercontent.com/0sINCR_AVAV3PHXz0Wc7lR1ziR1ZHlqxH6d-T7kYV8DPJU1ZKcScHwcqF7iE3Q9Y-qWn7oYgyYNz4jYqJsy0XuJv1GYBommNH5wpzfDU1ILERnTU-cuECpleMujWFiYw9vRgA9cC=s0)
 ## Using Blood Weapon and Delirium
 
 
@@ -681,25 +682,30 @@ Living Dead has some synergy with White Mages, as their Benediction can fully he
 
 
 
-On any number of targets, prioritize spending Blood on Living Shadow
+
+![AOE Priority](https://lh6.googleusercontent.com/DKjax_f1Kk-IJrU9YdnHGLXxOOL2oCqDD6JkngawU4fwiY__zyUW74xS664K6TosLnaSAExnPi3nwTzGW1BYUo8e6GYTNy_jfJhlvLdPOXSk76ObN_b8-IU64xfLMr__Vrb0bCyT=s0) 
+<br> On any number of targets, prioritize spending Blood on Living Shadow
 
 
 
 
 
-On 2+ targets, replace Souleater combo and Edge of Shadow/Darkness with Stalwart Soul Combo and Flood of Shadow/Darkness
+![2 target](https://lh5.googleusercontent.com/je8u42LVxCMC4a2qHgEwjNHOuFNng5tvWD_Vl-r-IspjuXKoUq091qE2kA24aE_g19LmOEtxqKKx6iz9mMHa95Dzru1oK2lJfo6-fjwgYzRCHAi0o8a4deheL5zW8nhGXetcFPWv=s0) ![2target 2](https://lh6.googleusercontent.com/QXWUuYy7BBdBNo51JQjI20dfFVoxMThHIGkYEW376YDH6w1HsfVhXzwC27j8OyQlO85t8EtI46ZI2Q27rSELupUfhcQ12LbgKkocZhsB8gRy1Rv-hhoOrLbnu0BfK1-S1iwPSg16=s0)
+<br>On 2+ targets, replace Souleater combo and Edge of Shadow/Darkness with Stalwart Soul Combo and Flood of Shadow/Darkness
 
 
 
 
 
-On 3+ targets, replace Bloodspiller with Quietus
+![3 targets](https://lh3.googleusercontent.com/kpxcMMzdmTBcdwK0upDws_tzb4Fp4CCfPRtvfP-KLuFi9abH9GiJ-bLAvmJ2epSO0jM9bEh8BRAdXUrdmvsRYBwvw9QEn_TP0jy9nYPqbKhz0aa_9iEr_wWzzrqVjCChnAay7Hus=s0)
+<br>On 3+ targets, replace Bloodspiller with Quietus
 
 
 
 
 
-Try to maximize AoE with Salted Earth and Abyssal Drain
+![aoe 1](https://lh4.googleusercontent.com/RVzpcFuEas91IqZHJRjI-lSj70urqNF7Bg_xl8n1y96zIeXlOrZ81wlaILjc5Gj3X2uOUJdqGaCxR5oe0ioygq0aA9B6TuJWAsR4dX9rroodCwiYlUZiO41VxUoMhxoLaOLe63Js=s0) ![aoe2](https://lh3.googleusercontent.com/IqgiYLYvy2whmfx7LTqjDR-MHQRFbIhtMqwzTHjGUtOTSvCFO7C9-QpAGGFN_R3aNX0IyWn7JsFl_1zaTgQQB_N1ABKlvQLhP2XwKjnVRaKkFDYu6o9or-bsnnaqPwRODecz0Mkp=s0)
+<br>Try to maximize AoE with Salted Earth and Abyssal Drain
 
 
 --- 
@@ -744,15 +750,15 @@ However, since most parties also possess 2-minute raid buffs, it is beneficial t
 
 | Job | Icon | Name | Effect | Cooldown |
 |---|---|---|---|---|
-| NIN | icon | Trick Attack | Target takes 5% more damage <br>15s duration | 60s | 
-| DRG | icon | Battle Litany | Critical rate increased by 10% <br>20s duration | 180s | 
-| MNK | icon | Brotherhood | 5% damage increase <br>15s duration | 90s | 
-| DNC | icon | Technical Finish | 5% damage increase <br>20s duration | 120s | 
-| BRD | icon | Battle Voice | Direct hit rate increased by 20% <br>20s duration | 180s |
-| SMN | icon | Devotion | 5% damage increase <br>15s duration | 180s | 
-| RDM | icon | Embolden | Increases physical damage by 10% <br>Decays over 20s | 120s | 
-| SCH | icon | Chain Stratagem | +10% critical rate on target <br>15s duration | 120s | 
-| AST | icon | Divination | ~6% damage increase <br>15s duration | 120s | 
+| NIN | ![icon](https://lh4.googleusercontent.com/fhywjH6Ffu1PIMEM4vrmM5jMG5WwN_R3fyMCpIDgYUnW3nBzY4Qvt1Wlc2mw2WsigbXYHmDI-VBvZjxj9LaiQ-j8K39beNcFjkFNtZnMDI14mLHRQTgL94fvTowvn5cT_0ruTo8M=s0) | Trick Attack | Target takes 5% more damage <br>15s duration | 60s | 
+| DRG | ![icon](https://lh4.googleusercontent.com/43glM46Ua0yHLOlC6qkXaw7GgDgl2RDKZIYK42V2_UAX0CgAn81znynCvR3RyLcqKV138HiJiX8PMKtqrZLzP8YGw_qJqacHsMb2jACE3p52emu7n4YutpE9uC7cABoKG8aglDLs=s0) | Battle Litany | Critical rate increased by 10% <br>20s duration | 180s | 
+| MNK | ![icon](https://lh5.googleusercontent.com/sSRU845Yta2km4d7zh9aja5YLgLtX8IUUWknJeo-j0UzZge8GxVZkc3128LDEYEnzdPvodVLi5ooj1I1ADnIWCFVb62_zl9AFvUl26Lqzb7KguP4I6p_dgIIH_jpaVgzq4ps0jCZ=s0) | Brotherhood | 5% damage increase <br>15s duration | 90s | 
+| DNC | ![icon](https://lh3.googleusercontent.com/4RIou7VbngMCuxroN-jhS0iw2mYZPnbboqRipx6opRUJy-lJSqOV42BlB1_FhhaJFHpw70-1Q1G9qWayNmlbzKWtpNHBZApsHt-fQpn0THCDFdqBGWglPpgg6cKSrKNnAk9TrjFQ=s0) | Technical Finish | 5% damage increase <br>20s duration | 120s | 
+| BRD | ![icon](https://lh5.googleusercontent.com/faonK87QmXIqddtP2WGk2UcVbGbxDDcTrzTMxezt0_TrU4iR3WYZYl6GCjhJp2XOWjyJvA-58dNZrQ2H2AHYDYsRMQZkzbBfHjvP7rXRm5LYEddPObzxeiNOC7PPwD3vMiZ0FZK8=s0) | Battle Voice | Direct hit rate increased by 20% <br>20s duration | 180s |
+| SMN | ![icon](https://lh4.googleusercontent.com/VQcl9Q2zmMwLOLZZ5CT9Aav_Y9PQvxkbSNDhgM1wCANg3FGpekRyEB-HjxMqZggesaKHPrFRcv9oR3YGsj06bhBvkJ3yNZJdbcgfwjR8CHYP4DPZjQCbAy9sBFU9X8v1wJ14zTtI=s0) | Devotion | 5% damage increase <br>15s duration | 180s | 
+| RDM | ![icon](https://lh4.googleusercontent.com/ebXGOdXOLv7jiAEDE59XNd3mrdjBKlvrGY8x5pfGO2xyGS_G7_6LFTpk_O-ZeFCDVBqJxaWoJElvhtjcUEr93DnU4nCQpxdoOggXfgnC1ImMKGu3CICQSoJAkDr0MEj6pWbDCsJN=s0) | Embolden | Increases physical damage by 10% <br>Decays over 20s | 120s | 
+| SCH | ![icon](https://lh6.googleusercontent.com/XX6YM0qZtlP8hx16kIaFNA4rY0HGtIs3NRhus9sDiw6tKFu_aiHdEuACi8VI004FuJz-5RDue0R8XowAgRAiuB6kpLh8rq8wnvbmew26Q1h00zKFTgUlCEtNWhGP4hQQWId_goeT=s0) | Chain Stratagem | +10% critical rate on target <br>15s duration | 120s | 
+| AST | ![icon](https://lh4.googleusercontent.com/CI8Lp1OwN867gAwtNthrCG8YAP5F1esXFuFfE2BdRXgbBeQay989XQMuTUF9h3P4Qe13NdR2VWdCB_U0hvB31nbO5yJKDLG1yQvR52qypjghHsrdBpu0GIJlTHaX9nc5jpdd-86a=s0) | Divination | ~6% damage increase <br>15s duration | 120s | 
 | AST | Various | Cards | Target gets ~6% damage increase <br>15s duration | 30s |
 
 
