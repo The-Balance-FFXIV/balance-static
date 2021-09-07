@@ -7,7 +7,6 @@ title: Introduction to Dark Knight
 
 
 --- 
-
 - [Introduction](#introduction)
 - [Skills and Abilities Overview](#skills-and-abilities-overview)
 
