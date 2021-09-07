@@ -181,57 +181,19 @@ Abilities will be presented in a tabular format for easy reading.
 
 ## oGCD
 
-
-Upheaval
-This is a single oGCD that deals 450 potency damage.
-
-Consumes 20 Beast Gauge.
-450p
-30s CD
-oGCD
--20 Gauge
-
-Onslaught
-
-
-Warrior’s gap-closer. 
-
-Consumes 20 Beast Gauge.
-100p
-10s CD
-oGCD
--20 Gauge
-Infuriate
-Increases Beast Gauge by 50
-Grants Nascent Chaos
-30 seconds duration
-Stacks up to 2 times
-60s CD
-oGCD
-+50 Gauge
-+NC
+| | | | |
+| --- | --- | --- | --- | 
+| icon | Upheaval | This is a single oGCD that deals 450 potency damage. <br>Consumes 20 Beast Gauge. | 450p <br>30s CD <br>oGCD <br>-20 Gauge
+| icon | Onslaught | Warrior’s gap-closer. <br>Consumes 20 Beast Gauge. | 100p <br>10s CD <br>oGCD <br>-20 Gauge | 
+| icon | Infuriate | Increases Beast Gauge by 50 <br>Grants Nascent Chaos <br>30 seconds duration <br>Stacks up to 2 times | 60s CD <br>oGCD <br>+50 Gauge <br>+NC | 
 
 
 ## Utility
 
-
-Inner release
-Guarantees all of your attacks  are Critical and Direct hit.
-
-Extends existing Storm’s Eye buff by +15 seconds (up to 60s).
-
-Makes all of your attacks cost 0 Beast Gauge.
-Nullifies most draw-in and knockback effects
-10 seconds duration.
-+Crit Dhit
-90s CD
-oGCD
-
-Defiance
-Toggleable effect that significantly increases enmity generation. 
-+ 900% Enmity
-10s CD 
-oGCD
+| | | | |
+| --- | --- | --- | --- | 
+| icon| Inner release | Guarantees all of your attacks  are Critical and Direct hit. <br>Extends existing Storm’s Eye buff by +15 seconds (up to 60s). <br>Makes all of your attacks cost 0 Beast Gauge. <br>Nullifies most draw-in and knockback effects. 10 seconds duration. | +Crit Dhit <br>90s CD <br>oGCD <br>
+| icon | Defiance | Toggleable effect that significantly increases enmity generation. | + 900% Enmity <br>10s CD  <br>oGCD
 
 Provoke
 Places you on top of the enmity list and adds additional fixed amount on top of that
