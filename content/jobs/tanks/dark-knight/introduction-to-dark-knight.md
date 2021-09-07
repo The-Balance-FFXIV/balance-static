@@ -452,6 +452,8 @@ Goals for DRK openers include:
 
 
 
+![4th GCD Delirium Opener](https://cdn.discordapp.com/attachments/872701089873530890/872701612257333278/drk4thgcd.png)
+
 > Text version: Prepull The Blackest Night > Prepull Blood Weapon just before pull > Hard Slash + Edge of Shadow > Syphon Strike + Potion > Souleater + Living Shadow + Plunge > Hard Slash + Salted Earth + Delirium > Bloodspiller + Edge of Shadow + Carve and Spit > Bloodspiller + Edge of Shadow + Plunge > Bloodspiller + Edge of Shadow + Abyssal Drain > Bloodspiller + Edge of Shadow > Bloodspiller > Syphon Strike > Souleater
 
 
@@ -710,7 +712,8 @@ There are a variety of ways to ensure you pull all of the mobs in a pack quickly
 Try to position the mobs so that they are in a tight clump: this lets you, your dps, and your healers use their AoE damage more effectively. Pull melee enemies onto ranged enemies so that the ranged enemies are also in the clump. Alternatively, drag mobs around a corner so the ranged enemies are forced to run next to you in order to attack.
 
 
-Mitigation
+
+## Mitigation
 
 Cycle through your mitigation on trash pulls (they hurt more than bosses). Rather than using it all at once, keeping something up at all times can help your healer keep you alive more easily. More powerful mitigation cooldowns like Rampart, Shadow Wall, and Arm’s Length can be paired with weaker ones like Reprisal. The Blackest Night is one of your most powerful mitigation tools and can be used liberally (at least once per mob pack) once unlocked.
 
@@ -721,11 +724,13 @@ With a skilled healer, Living Dead can be one of your most powerful dungeon miti
 Living Dead has some synergy with White Mages, as their Benediction can fully heal your Walking Dead on its own.
 
 
-AoE Priority
+
+## AoE Priority
 
 
 
 On any number of targets, prioritize spending Blood on Living Shadow
+
 
 
 
@@ -735,7 +740,9 @@ On 2+ targets, replace Souleater combo and Edge of Shadow/Darkness with Stalwart
 
 
 
+
 On 3+ targets, replace Bloodspiller with Quietus
+
 
 
 
@@ -746,17 +753,20 @@ Try to maximize AoE with Salted Earth and Abyssal Drain
 --- 
 
 # Frequently Asked Questions
-Why can’t I fit 5 GCDs in Blood Weapon (or Delirium)?
+
+## Why can’t I fit 5 GCDs in Blood Weapon (or Delirium)?
 
 The single most likely reason is that you aren’t weaving Blood Weapon late into the GCD. As long as you are weaving Blood Weapon late and keeping the GCD rolling during it, 5 GCDs in Blood Weapon should be very consistent. With high latency (100+ ms), double weaves can cause the last GCD to fall out of Blood Weapon. It is possible to mitigate some latency by using a gaming VPN (for example, Mudfish or PingZapper).
 
 
-I’m disengaging from the boss, should I use Unmend?
+
+## I’m disengaging from the boss, should I use Unmend?
 
 Generally no. Breaking a combo by using Unmend in the middle of it is a bigger loss than waiting to get back to the boss. You can safely Unmend if you are leaving the boss for long enough that your combo would drop anyway (15s or ~6 GCDs), or if you are between combos and disengaging for at least one full GCD.
 
 
-Should I hold Blood Weapon for Delirium? Should I hold Delirium for Blood Weapon?
+
+## Should I hold Blood Weapon for Delirium? Should I hold Delirium for Blood Weapon?
 
 No. There is no inherent synergy between Blood Weapon and Delirium—Blood Weapon will always give 3000 MP and 50 Blood, regardless of if you use Delirium at the same time. Unless you know your kill-time and that holding one or the other will not lose a usage, do not hold either Blood Weapon or Delirium.
 
@@ -777,145 +787,31 @@ Upon delaying the second Blood Weapon, the standard rotation allows 4 Edges of S
 However, since most parties also possess 2-minute raid buffs, it is beneficial to only spend 3 Edges of Shadow in odd-minute buff windows and use The Blackest Night to proc Dark Arts afterwards, which allows 5 Edges of Shadow to be used in the next even-minute buff window without overcapping MP.
 
 
-List of raid buffs
 
-Job
+### List of raid buffs
 
-Icon
+| Job | Icon | Name | Effect | Cooldown |
+|---|---|---|---|---|
+| NIN | icon | Trick Attack | Target takes 5% more damage <br>15s duration | 60s | 
+| DRG | icon | Battle Litany | Critical rate increased by 10% <br>20s duration | 180s | 
+| MNK | icon | Brotherhood | 5% damage increase <br>15s duration | 90s | 
+| DNC | icon | Technical Finish | 5% damage increase <br>20s duration | 120s | 
+| BRD | icon | Battle Voice | Direct hit rate increased by 20% <br>20s duration | 180s |
+| SMN | icon | Devotion | 5% damage increase <br>15s duration | 180s | 
+| RDM | icon | Embolden | Increases physical damage by 10% <br>Decays over 20s | 120s | 
+| SCH | icon | Chain Stratagem | +10% critical rate on target <br>15s duration | 120s | 
+| AST | icon | Divination | ~6% damage increase <br>15s duration | 120s | 
+| AST | Various | Cards | Target gets ~6% damage increase <br>15s duration | 30s |
 
-Name
 
-Effect
+## Alternative Opener - 3rd GCD Delirium
 
-Cooldown
 
-NIN
 
-
-
-Trick Attack
-
-Target takes 5% more damage
-
-15s duration
-
-60s
-
-DRG
-
-
-
-Battle Litany
-
-Critical rate increased by 10%
-
-20s duration
-
-180s
-
-MNK
-
-
-
-Brotherhood
-
-5% damage increase
-
-15s duration
-
-90s
-
-DNC
-
-
-
-Technical Finish
-
-5% damage increase
-
-20s duration
-
-120s
-
-BRD
-
-
-
-Battle Voice
-
-Direct hit rate increased by 20%
-
-20s duration
-
-180s
-
-SMN
-
-
-
-Devotion
-
-5% damage increase
-
-15s duration
-
-180s
-
-RDM
-
-
-
-Embolden
-
-Increases physical damage by 10%
-
-Decays over 20s
-
-120s
-
-SCH
-
-
-
-Chain Stratagem
-
-+10% critical rate on target
-
-15s duration
-
-120s
-
-AST
-
-
-
-Divination
-
-~6% damage increase
-
-15s duration
-
-120s
-
-AST
-
-Various
-
-Cards
-
-Target gets ~6% damage increase
-
-15s duration
-
-30s
-
-
-## Alternative Opener -- 3rd GCD Delirium
-
-
-
+![3rd GCD Delirium](https://cdn.discordapp.com/attachments/872701089873530890/872701687889002536/drk3rdgcdversion3.png)
 Sometimes useful if a fight benefits from a slightly earlier Delirium due to downtime or phasing.
 
 
 ## Fight-specific optimization
+
 For discussion around fight-specific optimization, please visit the #drk_encounter channel in the Balance discord and view the pins to see any up-to-date information on current encounters.
