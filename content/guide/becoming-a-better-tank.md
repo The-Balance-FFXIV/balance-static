@@ -9,6 +9,20 @@ title: Becoming A Better Tank
 This guide is written with the intention to be hosted on The Balance Discord and should not be hosted elsewhere without consent of the owner.
 
 
+--- 
+
+# Table of Contents
+- [Introduction](#intro)
+- [Mindset](#mindset)
+- [Mitigation](#mitigation)
+    - [Mitigating As The Off Tank](#mitigating-as-the-off-tank)
+- [Facilitating Party Uptime](#facilitating-party-uptime)
+- [Damage](#damage)
+- [Consistency and Adaptability](#consistency-and-adaptability)
+- [Closing Thoughts](#closing-thoughts)
+  - [Special Thanks](#special-thanks)
+  - [Changelog](#changelog)
+
 ---
 
 # Intro
@@ -182,6 +196,8 @@ While not exclusive to all aspects that can help a tank be a great tank, the ide
 
 
 ---
+
+## Changelog
 
 | Version Number | Change Log |
 | --- | --- | 
