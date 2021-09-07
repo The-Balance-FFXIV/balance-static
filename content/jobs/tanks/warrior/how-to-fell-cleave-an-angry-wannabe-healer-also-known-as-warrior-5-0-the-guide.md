@@ -159,87 +159,24 @@ Abilities will be presented in a tabular format for easy reading.
 
 ## Single Target
 
-| - | - | - | - |
+| | | | |
 | --- | --- | --- | --- | 
 | icon | Heavy Swing | Standard basic attack to initiate both the Storm’s Eye Combo and the Storm’s Path Combo, consisting of Heavy Swing, Maim, Storm’s Eye and Heavy Swing, Maim, Storm’s Path respectively. | 200p <br>**GCD**
 | icon | Maim | 320 potency if combo’d after Heavy Swing. Adds 10 Beast Gauge | 100p <br>(320p combo) <br>**GCD** <br>+10 Gauge | 
 | icon | Storm’s Eye | 420 potency if combo’d after Maim. <br>Adds 10 Beast Gauge. <br>Grants a 10% damage buff for 30s. <br>Extend any existing Storm’s Eye buff by +30 seconds, up to 60s. | 100p <br>(420p combo) <br>**GCD** <br>+10 Gauge <br>+10% damage buff | 
-
-Storm’s Path
-420 potency if combo’d after Maim.
-
-Adds 20 Beast Bauge.
-100p (420p combo)
-GCD
-+20 Gauge
-
-Fell Cleave
-A big 590p hit, your main damage source.
-
-Consumes 50 Beast Gauge.
-Reduces Infuriate’s cooldown by 5s.
-590p
-GCD
--50 Gauge
-
-Inner Chaos
-Costs 1 stack of Nascent Chaos.
-
-
-Replaces Fell Cleave on your hotbar when you have 1 stack of Nascent Chaos.
-Delivers a Critical Direct hit.
-Consumes 50 Beast Gauge.
-Reduces Infuriate’s cooldown by 5s.
-920p
-Dhit crit
-GCD
--NC
--50 Gauge
-
-Tomahawk
-Ranged attack with increased enmity.
-
-
-140p
-GCD
+| icon | Storm’s Path | 420 potency if combo’d after Maim. <br> Adds 20 Beast Bauge. | 100p (420p combo) <br> **GCD** <br> +20 Gauge | 
+| icon | Fell Cleave | A big 590p hit, your main damage source. <br>Consumes 50 Beast Gauge. <br>Reduces Infuriate’s cooldown by 5s. | 590p <br>**GCD** <br>-50 Gauge
+| icon| Inner Chaos | Costs 1 stack of Nascent Chaos. <br>Replaces Fell Cleave on your hotbar when you have 1 stack of Nascent Chaos. <br>Delivers a Critical Direct hit. <br>Consumes 50 Beast Gauge. <br>Reduces Infuriate’s cooldown by 5s. | 920p <br>Dhit crit <br>**GCD** <br>-NC <br>-50 Gauge | 
+| icon | Tomahawk | Ranged attack with increased enmity. | 140p <br> **GCD** |
 
 
 ## Area of Effect 
-
-Overpower
-130 potency to enemies in a cone in front of you. Radius 8 yalms.
-130p
-GCD
-
-Mythril Tempest
-200 potency to all enemies nearby you, if used after Overpower.
-Radius 5 yalms.
-
-Extends Storm’s Eye buff by 30s (up to 60s) and adds 20 Beast Gauge.
-100p
-(200p combo)
-GCD
-+20 Gauge
-
-Decimate
-A big AOE hit, 250 potency per target.
-Radius 5 yalms.
-Consumes 50 Beast gauge.
-Reduces Infuriate’s cooldown by 5s.
-250p
-GCD
--50 Gauge
-
-Chaotic Cyclone
-Costs 1 stack of Nascent Chaos.
-Replaces Decimate on your hotbar when you have 1 stack of Nascent Chaos.
-Guaranteed Critical Direct hit.
-Consumes 50 Beast gauge.
-Reduces Infuriate’s cooldown by 5s.
-400p 
-GCD
--50 Gauge
--NC
+| | | | |
+| --- | --- | --- | --- | 
+| icon | Overpower | 130 potency to enemies in a cone in front of you. <br>Radius 8 yalms. | 130p <br>GCD | 
+| icon | Mythril Tempest | 200 potency to all enemies nearby you, if used after Overpower. <br>Radius 5 yalms. <br>Extends Storm’s Eye buff by 30s (up to 60s) and adds 20 Beast Gauge. | 100p <br>(200p combo) <br>**GCD** <br> +20 Gauge| 
+|icon| Decimate | A big AOE hit, 250 potency per target. <br>Radius 5 yalms. <br>Consumes 50 Beast gauge. <br>Reduces Infuriate’s cooldown by 5s. | 250p <br>**GCD** <br>-50 Gauge
+| icon | Chaotic Cyclone | Costs 1 stack of Nascent Chaos. <br>Replaces Decimate on your hotbar when you have 1 stack of Nascent Chaos. <br>Guaranteed Critical Direct hit. <br>Consumes 50 Beast gauge. <br>Reduces Infuriate’s cooldown by 5s. | 400p  <br>**GCD** <br>-50 Gauge <br>-NC
 
 
 ## oGCD
@@ -1064,7 +1001,7 @@ For the original layout of GNB guide which had its contents gutted multiple time
 - 2020-02-19
    - Added a BLURB for the looping rotation. Big explanation about 1-2-3 path phases. Also adjusted some Onslaught text to answer questions like “When should I use it?”
 - 2020-07-06
- - Added IC IR IC IC opener and a bit about EpppEpppE rotato.
+  - Added IC IR IC IC opener and a bit about EpppEpppE rotato.
 - 2020-07-18
   - Fixed some skill descriptions FINALLY (Holm, Raw, Veng)
 - 2020-08-13
