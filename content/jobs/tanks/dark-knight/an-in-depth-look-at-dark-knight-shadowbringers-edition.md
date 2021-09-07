@@ -66,7 +66,7 @@ With the release of the expansion, Dark Knight has radically changed. The playst
 2. **Dark Arts and Dark Passenger** - In their base essence, they have been removed. However, both abilities have been replaced with **Edge of (Darkness)Shadow** and **Flood of (Darkness)Shadow** respectively. Edge of Shadow is used similarly to how Dark Arts was used, however its damage is no longer tied to the GCD. It also deals a significantly larger amount of damage, and you will no longer be using it as often as you used to. Flood of Shadow can also be used as an AoE cleave with the frequency of Edge of Shadow. Of note, this means that all abilities which previous interacted with Dark Arts no longer have that requirement. 
 3. **Blood Weapon** - Blood Weapon has lost the haste component of the skill, and is purely for mana/blood generation. It also only lasts for 10 seconds (5 GCDs).
 4. **Delirium** - No longer costs blood, or augments Blood Weapon. Delirium is now a 90s cooldown which allows for free uses of Bloodspiller or Quietus for 10 seconds (or 5 GCDs). 
-5. Shown: The GCD “Sweetspot” of when you should activate BW or Delirium in order to attain all 5 GCDs.
+5. ![sweetspot](https://cdn.discordapp.com/attachments/752334526449057853/884870342013763584/unknown.png) Shown: The GCD “Sweetspot” of when you should activate BW or Delirium in order to attain all 5 GCDs.
 6. **The Blackest Night** - Increased to 25%, and more importantly, the use on others is also 25%, instead of 10%. A massive boost to its use potential. In addition, the blood gain aspect has been removed, and instead grants a “free” use of EoS/FoS. The shield has also changed to target’s HP, instead of only your own.
 7. **Plunge** - At 78, Plunge gains an additional “Charge” - meaning that you can potentially store 2 uses of the ability for offensive purposes, or save and use them as necessary.
 8. **Salted Earth** - The cooldown has been doubled, and the ability only does 60pot/15s (360 potency with the Ground AoE change). A massive nerf to the ability, lessening the burden of ensuring timely, efficient uses.
@@ -94,25 +94,28 @@ Hopefully players will be able to adjust accordingly, and enjoy the class to its
 # Part 2: The Basics - General Tips and Tricks
 
 General rundown for anyone somewhat new to Dark Knight. If you’ve played the class to 80, you should have a general idea of what to do.
-Offensive - 
-Always be casting. The most important rule for any job is to ensure that your GCD is always rolling, and your character always attacking. GCDs will be your primary source of damage and resource generation.
-Use all offensive OGCDs on cooldown (Plunge, Blood Weapon (BW), Delirium, C&S, Salted Earth, Living Shadow). Ensure that Blood and Mana will not cap while using Blood Weapon or Delirium.
-Never allow either your Mana or Blood Gauge to cap out (10000 Mana, or 100 Blood respectively). Prevent Mana capping by utilizing E/FoS or TBN; Blood capping by using BS or Quietus, depending on single or AoE targeting.
-Use Flood/Edge of Shadow as soon as possible, to ensure that all of your future attacks have the Darkside self buff. Use these abilities accordingly in order to maintain this buff.
-Cleave Damage (2 targets)
-At 2 targets, Unleash > Stalwart Soul becomes more DPS than your 1-2-3 combo, both in Potency per GCD (PPGCD) and resource generation. For Blood, you will still be using Bloodspiller, however for Mana, Flood of Shadow is more effective than Edge.
-AoE Priority (3+ targets)
-TBN for the shield, and to enable free Flood of Shadow Casts. TBN used on AoE is explicitly a DPS gain due to relieving healer burden and allowing them more DPS GCDs.
-Living Shadow for efficient Blood Gauge use - Abyssal, Flood, and Quietus are all AOE moves from the LS, and are more potency than your own personal Quietus.
-Unleash > Stalwart Soul combo to build mana and Blood.
-Salted Earth when your group has settled, and Abyssal Drain for added damage / healing potency. Abyssal is a minor potency gain, so it may be best to use it purely for the heal to ease the healing burden.
-Delirium > Quietus spam
-Flood of Shadow(2+ targets) - always save mana for TBN.
-Defensive -
-If Main/Primary tanking, ensure that Grit is on at all times. Since the damage penalty has been removed, there is no reason to not have it on (unless threat manipulation is necessary).
-Ensure that you always have a cooldown prepared for a tank buster. Shadow Wall is the typical “Buster Fodder” cooldown, but Dark Mind can also be used on magical busters to allow for more tank busters to be taken.
-While learning (and for hard hitting content), always use The Blackest Night in addition to the defensive you have already used. Ensure that you save mana for its use.
-Dark Missionary for Magical AoE damage to the raid.
+
+## Offensive - 
+1. **Always be casting.** The most important rule for any job is to ensure that your GCD is always rolling, and your character always attacking. GCDs will be your primary source of damage and resource generation.
+2. Use all offensive OGCDs **on cooldown** (Plunge, Blood Weapon (BW), Delirium, C&S, Salted Earth, Living Shadow). Ensure that Blood and Mana will not cap while using Blood Weapon or Delirium.
+3. **Never** allow either your Mana or Blood Gauge to cap out (10000 Mana, or 100 Blood respectively). Prevent Mana capping by utilizing E/FoS or TBN; Blood capping by using BS or Quietus, depending on single or AoE targeting.
+4. Use **Flood/Edge of Shadow** as soon as possible, to ensure that all of your future attacks have the **Darkside** self buff. Use these abilities accordingly in order to maintain this buff.
+5. **Cleave Damage** (2 targets)
+   - At 2 targets, Unleash > Stalwart Soul becomes more DPS than your 1-2-3 combo, both in Potency per GCD (PPGCD) and resource generation. For Blood, you will still be using Bloodspiller, however for Mana, Flood of Shadow is more effective than Edge.
+6. **AoE Priority** (3+ targets)
+   - TBN for the shield, and to enable free Flood of Shadow Casts. TBN used on AoE is explicitly a DPS gain due to relieving healer burden and allowing them more DPS GCDs.
+   - **Living Shadow** for efficient Blood Gauge use - Abyssal, Flood, and Quietus are all AOE moves from the LS, and are more potency than your own personal Quietus.
+   - Unleash > Stalwart Soul combo to build mana and Blood.
+   - Salted Earth when your group has settled, and Abyssal Drain for added damage / healing potency. Abyssal is a minor potency gain, so it may be best to use it purely for the heal to ease the healing burden.
+   - Delirium > Quietus spam
+   - Flood of Shadow(2+ targets) - always save mana for TBN.
+
+## Defensive -
+1. If Main/Primary tanking, ensure that **Grit** is on at all times. Since the damage penalty has been removed, there is no reason to not have it on (unless threat manipulation is necessary).
+2. Ensure that you **always have a cooldown** prepared for a tank buster. Shadow Wall is the typical “Buster Fodder” cooldown, but Dark Mind can also be used on magical busters to allow for more tank busters to be taken.
+3. While learning (and for hard hitting content), always use **The Blackest Night** in addition to the defensive you have already used. Ensure that you save mana for its use.
+4. **Dark Missionary** for Magical AoE damage to the raid.
+
 Note that this list is a generic quick-list guide, and is not meant for optimization. This list will simply ensure that you go into any sort of content with a general understanding of how to play Dark Knight efficiently.
 
 
@@ -126,105 +129,171 @@ Note that this list is a generic quick-list guide, and is not meant for optimiza
 
 
 
-Part 3: Map Your Cooldowns - Defensive utilization
+
+--- 
+
+![Part 3](https://cdn.discordapp.com/attachments/752334526449057853/884868128201388092/unknown.png)
+
+# Part 3: Map Your Cooldowns - Defensive utilization
+
 Defensive cooldowns can be interestingly utilized, and for the most part, are completely variable based on the fight, your co-tank, and what is best for your raid group. One static progressing through a fight will have a completely different skill rotation used compared to yours, and it may be just as viable. Work with your team in order to find out what works best for you.
-Dungeons and Grinding
+
+## Dungeons and Grinding
+
 With the loss of the cross-role “filler” cooldowns, we have a few less tools for defensive optimization when it comes to AoE packs in dungeon runs, as they are typically more dangerous than the bosses throughout dungeons. The core concept of efficient dungeon pulling is to always have cooldowns available for the next pull. Here’s some general tips in order to ensure that you don’t overburden your group.
-Use the first pull to gauge your DPS and healers. I usually at least pull 2 packs of enemies in order to see what type of group I have. If this proves to be too much for the group, you’re struggling, or things are taking too long, then you can use this information for the rest of the dungeon.
-Lead the fight with The Blackest Night. This allows your healer some breathing room, and spreads out your own personal mitigation tools. TBN should always be on cooldown when tanking packs of enemies - it will almost always break, and significantly reduces healer load.
-Rarely stack two cooldowns (not counting TBN). Fights in dungeons are about long-term mitigation as opposed to burst mitigation, and having more overall duration of cooldowns is typically better than instant burst of safety. If you have a planned large pull that will take coordinated healing and mitigation, stack cooldowns as you and your group feel is necessary.
-Use Abyssal Drain to recover in between cooldown lulls. Depending on the group, Abyssal can easily heal half of your health pool in one sitting - make sure not to waste the timing of a use on strictly damage.
-The Blackest Night
-The Blackest Night, when used effectively, has a significant impact on the damage you receive from Tank Busters, or spots where healers cannot heal you effectively. It is a 25% HP shield that is taken into effect after other mitigation has been applied, meaning it gets stronger when used with other cooldowns. Cleverly used, this can help a great deal in reducing the amount of incoming healing required on you. Play with effective usage of TBN, and see how your healers can use the shield effectively, if at all. 
+1. **Use the first pull** to gauge your DPS and healers. I usually at least pull 2 packs of enemies in order to see what type of group I have. If this proves to be too much for the group, you’re struggling, or things are taking too long, then you can use this information for the rest of the dungeon.
+2. Lead the fight with **The Blackest Night.** This allows your healer some breathing room, and spreads out your own personal mitigation tools. TBN should always be on cooldown when tanking packs of enemies - it will almost always break, and significantly reduces healer load.
+3. **Rarely stack two cooldowns** (not counting TBN). Fights in dungeons are about long-term mitigation as opposed to burst mitigation, and having more overall duration of cooldowns is typically better than instant burst of safety. If you have a planned large pull that will take coordinated healing and mitigation, stack cooldowns as you and your group feel is necessary.
+4. Use **Abyssal Drain** to recover in between cooldown lulls. Depending on the group, Abyssal can easily heal half of your health pool in one sitting - make sure not to waste the timing of a use on strictly damage.
+
+## The Blackest Night
+
+**The Blackest Night**, when used effectively, has a significant impact on the damage you receive from Tank Busters, or spots where healers cannot heal you effectively. It is a 25% HP shield that is taken into effect *after other mitigation has been applied*, meaning it gets stronger when used with other cooldowns. Cleverly used, this can help a great deal in reducing the amount of incoming healing required on you. Play with effective usage of TBN, and see how your healers can use the shield effectively, if at all. 
+
 Over time, TBN use on cooldown can have both effects, however damage intake as well as healer output needs to be gauged in order to judge this properly. 
-Progression vs. Optimization
+
+### Progression vs. Optimization
+
 Progression and Optimization are two different beasts entirely with regards to how this game plays, and should be treated as such. In progression, safety and learning mechanics is the goal. The Blackest Night will have extensive use in progression, as it is a massive boon to safety on multiple occasions. Be it mitigating raidwides or times when healers are distracted, extensive use of TBN can be plentiful.
+
 Used on cooldown can be incredibly helpful for progression, however the primary argument with regard to TBN and optimization has always been twofold:
-Does this save my life?
-Does this use prevent healing GCDs from being used?
-Over time, TBN use on cooldown can have both effects, however damage intake as well as healer output needs to be gauged in order to judge this properly. In optimization, the tertiary effect of TBN must be analyzed - the loss of Edge of Shadow uses within raid buffs.
+1. Does this save my life?
+2. Does this use prevent healing GCDs from being used?
+
+Over time, TBN use on cooldown can have both effects, however damage intake as well as healer output needs to be gauged in order to judge this properly. In optimization, the tertiary effect of TBN must be analyzed - *the loss of Edge of Shadow uses within raid buffs.*
+
 The current situation with TBN with optimization is to “save” a use of Edge of Shadow within Trick/Burst windows, as Dark Knight generates about 12000-13000 mana per minute. Saving this use will allow you to maximize your potential in raid buffs.
-Dark Knight currently does 277 Potency per Second (a simplified measure of Damage per Second). Using one TBN to force an E/FoS outside of a Trick Attack window, you only lose 0.83 PPS, or about a 0.3% DPS loss for that minute alone. This is negligible to the point of ignorable. 
-TLDR: TBN should always be used defensively before offensively. Plan your cooldowns according to the needs of the fight. Optimization of DPS is secondary to raid survival.
-Raiding - Cooldowns, Mitigation, and You
+
+Dark Knight currently does 277 Potency per Second (a simplified measure of Damage per Second). Using one TBN to force an E/FoS outside of a Trick Attack window, you only lose 0.83 PPS, or about a **0.3% DPS loss for that minute alone.** This is negligible to the point of ignorable. 
+
+TLDR: **TBN should always be used defensively before offensively.** Plan your cooldowns according to the needs of the fight. Optimization of DPS is secondary to raid survival.
+
+## Raiding - Cooldowns, Mitigation, and You
+
 A tank’s primary role will always be the defensive, and how to mitigate your incoming damage. It’s important to plan, learn, and optimize their use in order to improve the success of your raid group and support them to the best of your ability. 
-Your primary tools for tank buster mitigation fall within planning and use of Shadow Wall and Dark Mind. Ensure that you always know what type of damage is incoming in order to utilize Dark Mind to its fullest potential Typically, I prioritize Shadow Wall > Dark Mind for Magical Tank Busters, then AoE damage, then fluff damage, allowing for Rampart to be used otherwise. Rampart can be used as a backup tank buster cooldown if the fight is majority physical damage.
-A powerful tool in your arsenal would be to develop a Cooldown Map, which can be used to effectively plan your cooldowns throughout an encounter in order to best plan your defenses, as well as properly support your team.  Understanding the damage that is incoming in a fight, when to use cooldowns, tank swap, and what cooldowns are best utilized where are signs of a good tanking team. A good tank uses their cooldowns effectively so that their healers are able to learn the encounter, and perform their best. Here’s some additional tips with regard to using your personal defenses to the best of your ability.
-Mitigating damage isn’t only about mitigating Tank Busters. While they are the highest single-instance sources of damage, they are not the only damage that is present within a raid. The constant threat of auto-attacks and AoEs also pose a significant threat to tank survival, just not an immediate one. Make your healer’s lives easier, and mitigate some auto-attacks as well. Mitigation around high-spike damage (spam AoEs and autoattacks) also has incredible value.
-Living Dead is, in effect, up to 8-10 seconds of invulnerability when used properly. While the initial buff is active, your healers can completely ignore you. So long as you “die” within the 10s timeframe, you require no healing until Walking Dead, where a few healer GCD+OGCDs can typically bring you to full (Or, Benediction). A strong benefit to the ability is that it activates when you “die,” as opposed to when the skill is activated, allowing for slight flexibility with its use. A panic Living Dead can be a pain to healers - make sure your uses are planned and communicated properly.
-Delete the thought of always Main Tank and Off Tank. Both tanks in an optimized setting will share equal burden. Main Tank and Off Tank terms should be used as a “Who is currently tanking the boss,” similar to how other languages use “First Tank” and “Second Tank.” 
-Shirk can be thought of also as a defensive tool, and not just for tank swapping. Sharing the tanking burden will allow for both tanks to effectively use their cooldowns, making the lives of your raid and the healing requirements easier. Optimize your tank swapping, and cooldowns with your group in order to get their maximum effectiveness.
-An additional option for tank swapping would be the manipulation of Tank Stances. Simply having the current MT turn off tank stance and turning yours on before a provoke swap will allow you to easily overtake them in threat, while maintaining close threat to each other should the need arise.
-Your DPS have mitigation abilities as well. All Melees have Feint (-10% phys), Ranged have a Troubadour variant (-10% DMG), Bards have Nature’s Minne(+20% healing), and Casters have Addle(-10% magic). Discuss mitigation options with your raid group for optimal play.
-Assisting Your Team - Secondary Tank and Raid Mitigation
-Shadowbringers brings two valuable tools to a Dark Knight’s “Raid Mitigation” arsenal - The Blackest Night received a massive buff to it’s alternate-target use (also being 25%), as well as the addition of Dark Missionary, a raid-wide damage mitigation cooldown.
-For Secondary-Tank use, TBN can be used similarly to using it on yourself (either on-cooldown, or optimized as discussed in the TBN Section. It has exactly the same effect on your personal DPS whether used on yourself when primary tank, or your co-tank. 
+
+Your primary tools for tank buster mitigation fall within planning and use of **Shadow Wall and Dark Mind.** Ensure that you always know what type of damage is incoming in order to utilize Dark Mind to its fullest potential Typically, I prioritize Shadow Wall > Dark Mind for Magical Tank Busters, then AoE damage, then fluff damage, allowing for Rampart to be used otherwise. Rampart can be used as a backup tank buster cooldown if the fight is majority physical damage.
+
+A powerful tool in your arsenal would be to develop a **Cooldown Map**, which can be used to effectively plan your cooldowns throughout an encounter in order to best plan your defenses, as well as properly support your team.  Understanding the damage that is incoming in a fight, when to use cooldowns, tank swap, and what cooldowns are best utilized where are signs of a good tanking team. A good tank uses their cooldowns effectively so that their healers are able to learn the encounter, and perform their best. 
+
+Here’s some additional tips with regard to using your personal defenses to the best of your ability.
+1. Mitigating damage isn’t only about mitigating Tank Busters. While they are the highest single-instance sources of damage, they are not the only damage that is present within a raid. The constant threat of **auto-attacks and AoEs** also pose a significant threat to tank survival, just not an immediate one. Make your healer’s lives easier, and mitigate some auto-attacks as well. Mitigation around high-spike damage (spam AoEs and autoattacks) also has incredible value.
+2. **Living Dead** is, in effect, up to 8-10 seconds of invulnerability when used properly. While the initial buff is active, your healers can completely ignore you. So long as you “die” within the 10s timeframe, you require no healing until Walking Dead, where a few healer GCD+OGCDs can typically bring you to full (Or, Benediction). A strong benefit to the ability is that it activates when you “die,” as opposed to when the skill is activated, allowing for slight flexibility with its use. A panic Living Dead can be a pain to healers - make sure your uses are planned and communicated properly.
+3. **Delete the thought of always Main Tank and Off Tank. Both tanks in an optimized setting will share equal burden.** Main Tank and Off Tank terms should be used as a “Who is currently tanking the boss,” similar to how other languages use “First Tank” and “Second Tank.” 
+4. **Shirk** can be thought of also as a defensive tool, and not just for tank swapping. Sharing the tanking burden will allow for both tanks to effectively use their cooldowns, making the lives of your raid and the healing requirements easier. Optimize your tank swapping, and cooldowns with your group in order to get their maximum effectiveness.
+5. An additional option for tank swapping would be the manipulation of **Tank Stances**. Simply having the current MT turn off tank stance and turning yours on before a provoke swap will allow you to easily overtake them in threat, while maintaining close threat to each other should the need arise.
+6. **Your DPS have mitigation abilities as well.** All Melees have Feint (-10% phys), Ranged have a Troubadour variant (-10% DMG), Bards have Nature’s Minne(+20% healing), and Casters have Addle(-10% magic). Discuss mitigation options with your raid group for optimal play.
+
+## Assisting Your Team - Secondary Tank and Raid Mitigation
+
+Shadowbringers brings two valuable tools to a Dark Knight’s “Raid Mitigation” arsenal - **The Blackest Night** received a massive buff to it’s alternate-target use (also being 25%), as well as the addition of **Dark Missionary**, a raid-wide damage mitigation cooldown.
+
+For Secondary-Tank use, TBN can be used similarly to using it on yourself (either on-cooldown, or optimized as discussed in [the TBN Section](#the-blackest-night). It has exactly the same effect on your personal DPS whether used on yourself when primary tank, or your co-tank. 
+
 Dark Missionary should be planned along with your raid group for optimal use. Develop a map along with the rest of your raid group in order to get the best use of this skill. Depending on the fight, multiple uses of small cooldowns may be better than stacking them, in order to spread out the safety of the encounter. 
-Cross Role Actions
-Rampart is a raw self-damage reduction as it has always been. Rampart is best used as a Tertiary cooldown after ShadowWall and Dark Mind have been mapped, in order to either fill in gaps in defenses, or allow for additional mitigation in extra parts of an encounter.
-Reprisal with it’s short duration, single target limitation, and longer cooldown is best used for Tank Busters, or Raidwide damage. With both tanks having access to them, you effectively have two uses per minute which you can plan with your raid group.
-Arm’s Length should be the default cooldown for knockbacks, as it allows Plunge to be used more offensively. It also comes with an added Slow effect on targets that are susceptible to it, allowing for a small cooldown for dungeon packs, should you be inclined to use it.
+
+## Cross Role Actions
+
+**Rampart** is a raw self-damage reduction as it has always been. Rampart is best used as a Tertiary cooldown after ShadowWall and Dark Mind have been mapped, in order to either fill in gaps in defenses, or allow for additional mitigation in extra parts of an encounter.
+
+**Reprisal** with it’s short duration, single target limitation, and longer cooldown is best used for Tank Busters, or Raidwide damage. With both tanks having access to them, you effectively have two uses per minute which you can plan with your raid group.
+
+**Arm’s Length** should be the default cooldown for knockbacks, as it allows Plunge to be used more offensively. It also comes with an added Slow effect on targets that are susceptible to it, allowing for a small cooldown for dungeon packs, should you be inclined to use it.
 
 
 
 
-Part 4: Offensive Optimization Tips
+
+--- 
+
+# Part 4: Offensive Optimization Tips
+
 Dark Knight joins a niche similar to Warrior, with the changes to Delirium allowing for multiple gauge-spenders to be used freely. With both pooling and spending resources in raid buffs, and the use of Delirium granted Bloodspillers, Dark Knight leans more towards Burst Damage Offense.
+
 The most important part of ensuring that you are able to perform well on Dark Knight is the proper pooling and dumping of your resources. A Dark Knight will generate 12000-13000 mana per minute, and ideally, all of this mana will be used when you are able to abuse raid buffs. Edge of Shadow and Bloodspiller are both incredibly high potency in relation to the rest of your kit, and should be maintained and manipulated appropriately in order to make the best of your new damage role in the raid. Here’s some optimization tips which should be able to help you perform to the best of your ability.
-Dungeons and Spamming
-Much has been changed sofar as the AoE game with regards to Dark Knight. While the resource management and adjustment is gone, there’s still some interesting ways to maximize your DPS in a dungeon encounter, and ensure you contribute more than simply keeping threat.
-Using The Blackest Night on cooldown allows you both to mitigate damage and allow your healer to DPS, as well as give you “free” uses of Flood of Shadow. Two birds with one stone.
-Blood Weapon is slightly unique with AoE, as it is slightly more difficult to perform all 5 hits while using Unleash and Stalwart Soul (they are spells, unaffected by Skill Speed). In order to combat this, you have a few options available to you in order to get maximum effectiveness -
-Utilize Blood Weapon with Delirium-Quietus spam, allowing for at least 4 hits to be physical-based.
-Pre-build 100 blood and then activate Blood Weapon -
-Quietus x 2
-Unleash, Stalwart
-Quietus
-Ensure that you do not over-spend mana on Flood of Shadow, as it will limit the amount of TBN uses you have in a set encounter. Being without an available cooldown in a dungeon pack is typically worse than squeezing that extra DPS out - especially if your targets are still very much alive.
+
+## Dungeons and Spamming
+
+Much has been changed so far as the AoE game with regards to Dark Knight. While the resource management and adjustment is gone, there’s still some interesting ways to maximize your DPS in a dungeon encounter, and ensure you contribute more than simply keeping threat.
+1. Using The Blackest Night on cooldown allows you both to mitigate damage and allow your healer to DPS, as well as give you “free” uses of Flood of Shadow. Two birds with one stone.
+2. Blood Weapon is slightly unique with AoE, as it is slightly more difficult to perform all 5 hits while using Unleash and Stalwart Soul (they are spells, unaffected by Skill Speed). In order to combat this, you have a few options available to you in order to get maximum effectiveness -
+   - Utilize Blood Weapon with Delirium-Quietus spam, allowing for at least 4 hits to be physical-based.
+   - Pre-build 100 blood and then activate Blood Weapon
+     - Quietus x 2
+     - Unleash, Stalwart
+     - Quietus
+3. Ensure that you do not over-spend mana on Flood of Shadow, as it will limit the amount of TBN uses you have in a set encounter. Being without an available cooldown in a dungeon pack is typically worse than squeezing that extra DPS out - especially if your targets are still very much alive.
+
 A successful dungeon run does not only rely on the DPS to dish out the damage - it relies on everyone to do their part. After you’ve mitigated what damage you can, ensure that you’re supporting your team with added damage.
 
 
-Edge of Shadow
-Your only uses of Mana in fights is Edge/Flood of Shadow, and The Blackest Night. As stated before, Dark Knight only generates 12000~ mana, meaning that you are able to use E/FoS only 4 times per minute. Ideally, these uses will all be in Trick Attack, or other raid buffs. This is possible for two reasons -
-Darkside lasts for 60 seconds, meaning that your first cast in Trick, and your prior cast in the previous Trick are only 50 seconds apart.
-TBN can effectively “store” one use of Edge of Shadow to be used in Trick Attack.
+
+## Edge of Shadow
+
+![edge of shadow](https://cdn.discordapp.com/attachments/752334526449057853/884870227958059058/unknown.png)
+
+Your only uses of Mana in fights is Edge/Flood of Shadow, and The Blackest Night. As stated before, Dark Knight only generates 12000~ mana, meaning that you are able to use E/FoS only 4 times per minute. Ideally, these uses will all be in **Trick Attack, or other raid buffs.** This is possible for two reasons -
+1. Darkside lasts for 60 seconds, meaning that your first cast in Trick, and your prior cast in the previous Trick are only 50 seconds apart.
+2. TBN can effectively “store” one use of Edge of Shadow to be used in Trick Attack.
+
 FoS being 300 potency means that it should always be used on 2 or more targets instead of EoS, even if targeted buffs are on your main target.
-Should you not have Trick Attack in your raid group, your resources are only limited to the 2m/3m raid buff timers, and you will need to cast E/FoS outside of raid buffs more often. The downside to the current build of Dark Knight is that it only allows one TBN use per minute before it is technically a DPS loss (with a ninja). Luckily, the DPS loss is incredibly minor, as spoken about in the defensive section here - The Blackest Night
-Delirium and Bloodspiller
+
+Should you not have Trick Attack in your raid group, your resources are only limited to the 2m/3m raid buff timers, and you will need to cast E/FoS outside of raid buffs more often. The downside to the current build of Dark Knight is that it only allows one TBN use per minute before it is technically a DPS loss (with a ninja). Luckily, the DPS loss is incredibly minor, as spoken about in the defensive section here - [The Blackest Night](#the-blackest-night)
+
+## Delirium and Bloodspiller
+
 Delirium’s change allows for Dark Knight to have two distinct burst windows - Trick Attack, and Delirium. While these windows sometimes overlap, they are for the most part separate. The larger peaks are Trick Attack windows, with Delirium acting as a sort of DPS smoothing effect over time. 
-As an added bonus that is useful for maintaining cooldowns used effectively, Shadowbringers extended the combo upkeep timer (Combo maintenance - if you stop attacking an enemy, your combo holds for 15 seconds, instead of 12 seconds). Because of this, it is technically possible to pause your current combo with Delirium and suffer no loss. If you have higher ping, this may be an issue as the window is actually fairly tight. If you are having trouble, don’t worry - simply finish your current combo and then Delirium.
-As always, with self-buffs, ensure that you’re using them at the tail end of your oGCD window, in the “2nd slot,” shown here.
+
+As an added bonus that is useful for maintaining cooldowns used effectively, Shadowbringers extended the combo upkeep timer (Combo maintenance - if you stop attacking an enemy, your combo holds for 15 seconds, instead of 12 seconds). Because of this, it is technically possible to **pause your current combo with Delirium and suffer no loss.** If you have higher ping, this may be an issue as the window is actually fairly tight. If you are having trouble, don’t worry - simply finish your current combo and then Delirium.
+
+As always, with self-buffs, ensure that you’re using them at the **tail end of your oGCD window, in the “2nd slot,” shown here.**
 
 
-Living Shadow
+![tailend](https://cdn.discordapp.com/attachments/752334526449057853/884870696864456704/unknown.png)
+
+## Living Shadow
+
+
+![living shadow](https://cdn.discordapp.com/attachments/752334526449057853/884870856600350720/unknown.png)
+
 In order to effectively use Living Shadow, we must understand how Living Shadow works. Initially, it appears to act independently of you, using random attacks on the enemy target. However, what the ability actually does is act autonomously, attacking your target with the same potency 7 times. 
-The abilities that Living Shadow uses are mimics of your own, but with a static potency.
-Abyssal Drain, E/FoS are magic damage. All others are Physical.
-Abyssal, FoS, and Quietus are AoE damage. All others are single target. Because of this, Living shadow is the most valuable Blood Gauge expenditure in AoE packs as well - 3 AoE moves around 350~ potency vs. your Quietus, which is only 210.
-All buffs will the corresponding abilities - Embolden/Brotherhood will buff physical damage.
-The Living Shadow copies all of your buffs actively throughout its duration. If you gain a buff while LS is active, it too will gain the buff (It does not gain Darkside).
-LS’s attacks all react properly with enemy debuffs, such as Trick Attack. 
-LS currently acts as a pet, and has awkward scaling with AP on how powerful it is. Currently myself and my fellow friends in The Theoryjerks are working on nailing the equations down for your use. TLDR: LS scales better than you do with STR.
-The ideal time to summon LS is before raid buffs are applied, as Living Shadow has a 6 second “Activation delay” before it starts attacking, The secondary goal is to activate before Trick Attack/Chain Stratagem. Achieving this dynamic can be difficult, but in general using Living Shadow before raid buffs activate should be your priority. If there is a disconnect between your raid buffs, adjust accordingly.
-Raid Buffs and how to use them
-Here’s a brief display of raid buffs which will affect your damage. Plan your uses of E/FoS and oGCDs accordingly. It is important to remember what parts of our kit are what types of damage so we do not use wrong abilities accordingly. 
-Magic Damage - 
-Edge/Flood of Shadow
-Abyssal Drain
-Salted Earth
 
-All Damage - 
-Divination(AST)  - 4-6% damage, 15s duration, 120s CD
-Trick Attack(NIN) - 5% Damage, 15s duration, 60s CD
-Technical Finish(DNC) - 5% Damage, 20s duration, 120s CD
-Devotion(SMN) - 5% Damage, 15s duration, 180s CD
-Critical/DH Rates - 
-Chain Stratagem(SCH) - 10% Crit rate on target, 15s duration, 120s CD
-Battle Litany(DRG) - 10% Crit rate, 20s duration, 180s CD
-Battle Voice(BRD) - 20% DH rate, 20s duration, 180s CD
-Physical Damage - 
-Embolden(RDM) - 10%-2% Physical damage (drops 2% per stack), 20s duration, 2m CD
-Brotherhood(MNK) - 5% Physical Damage, 15s duration, 90s CD
+1. The abilities that Living Shadow uses are mimics of your own, but with a static potency.
+   - Abyssal Drain, E/FoS are **magic damage**. All others are Physical.
+   - Abyssal, FoS, and Quietus are **AoE damage**. All others are single target. Because of this, Living shadow is the most valuable Blood Gauge expenditure in AoE packs as well - 3 AoE moves around 350~ potency vs. your Quietus, which is only 210.
+   - All buffs will the corresponding abilities - Embolden/Brotherhood will buff physical damage.
+2. The Living Shadow copies all of your buffs actively throughout its duration. If you gain a buff while LS is active, it too will gain the buff (It does not gain Darkside).
+3. LS’s attacks all react properly with enemy debuffs, such as Trick Attack. 
+4. LS currently acts as a pet, and has awkward scaling with AP on how powerful it is. 
+
+Currently myself and my fellow friends in The Theoryjerks are working on nailing the equations down for your use. TLDR: LS scales better than you do with STR.
+The ideal time to summon LS is before raid buffs are applied, as Living Shadow has a 6 second “Activation delay” before it starts attacking, The secondary goal is to activate before Trick Attack/Chain Stratagem. Achieving this dynamic can be difficult, but in general **using Living Shadow before raid buffs activate** should be your priority. If there is a disconnect between your raid buffs, adjust accordingly.
+
+## Raid Buffs and how to use them
+
+Here’s a brief display of raid buffs which will affect your damage. Plan your uses of E/FoS and oGCDs accordingly. It is important to remember what parts of our kit are what types of damage so we do not use wrong abilities accordingly. 
+
+### Magic Damage - 
+- Edge/Flood of Shadow
+- Abyssal Drain
+- Salted Earth
+
+
+### All Damage - 
+- Divination(AST)  - 4-6% damage, 15s duration, 120s CD
+- Trick Attack(NIN) - 5% Damage, 15s duration, 60s CD
+- Technical Finish(DNC) - 5% Damage, 20s duration, 120s CD
+- Devotion(SMN) - 5% Damage, 15s duration, 180s CD
+
+### Critical/DH Rates - 
+- Chain Stratagem(SCH) - 10% Crit rate on target, 15s duration, 120s CD
+- Battle Litany(DRG) - 10% Crit rate, 20s duration, 180s CD
+- Battle Voice(BRD) - 20% DH rate, 20s duration, 180s CD
+
+### Physical Damage - 
+- Embolden(RDM) - 10%-2% Physical damage (drops 2% per stack), 20s duration, 2m CD
+- Brotherhood(MNK) - 5% Physical Damage, 15s duration, 90s CD
+
 As you can tell, not everything will line up perfectly, but there are some windows you can focus on for pooling mana and blood effectively to increase damage output.
 Opener (10-15s) - Openers will be listed in a future section, but are designed around maximizing all buffs, potions, and setting you up for success.
 (60s) Trick Attack window - Flat 10% increase 10s, every minute. This should land 4 GCDs at a minimum, and ideally 4 E/FoS, Abyssal Drain, Carve and Spit, and 2 Plunges. 
@@ -234,7 +303,10 @@ Opener (10-15s) - Openers will be listed in a future section, but are designed a
 
 
 
-Part 5: Openers and Substats
+
+--- 
+
+# Part 5: Openers and Substats
 Openers (updated 08/08/19)
 The opener listed here is fairly good for all content currently, however, you may wish to alter your opener to the fight and your raid buffs. This Tank Opener Calculator is designed to help you alter your opener as you see fit, with options for pull timings, buff timings, and different raid groups.
 This opener is designed around two concepts - Maximizing the use of Living Shadow, and maximizing the Trick Attack windows (In this image, it is active at 10.62 seconds). Note - this image has not been updated for 5.2 Ninja, but Living Shadow activation is the same. 
