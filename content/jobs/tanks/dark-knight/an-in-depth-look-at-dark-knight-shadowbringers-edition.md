@@ -21,17 +21,17 @@ Disclaimer
 
 # Table of Contents
 
-- Part 1: The Changes from Stormblood to Shadowbringers	
-- Part 2: The Basics - General Tips and Tricks	
-  - Offensive -	
-  - Defensive -	
-- Part 3: Map Your Cooldowns - Defensive utilization	
-  - Dungeons and Grinding	
-  - The Blackest Night	
-  - Progression vs. Optimization	
-  - Raiding - Cooldowns, Mitigation, and You	
-  - Assisting Your Team - Secondary Tank and Raid Mitigation	
-  - Cross Role Actions	
+- [Part 1: The Changes from Stormblood to Shadowbringers](#Part-1)
+- [Part 2: The Basics - General Tips and Tricks](#part-2)	
+  - [Offensive](#offensive)
+  - [Defensive](#defensive)
+- [Part 3: Map Your Cooldowns - Defensive utilization](#part-3)	
+  - [Dungeons and Grinding](#dungeons-and-grinding)
+  - [The Blackest Night](#the-blackest-night)	
+  - [Progression vs. Optimization](#progress-vs-optimization)	
+  - [Raiding - Cooldowns, Mitigation, and You](#raiding-cooldowns-mitigation-and-you)	
+  - [Assisting Your Team - Secondary Tank and Raid Mitigation](#assisting-your-team-secondary-tank-and-raid-mitigation)	
+  - [Cross Role Actions](#cross-role-actions)	
 - Part 4: Offensive Optimization Tips	
   - Dungeons and Spamming	
   - Edge of Shadow	
