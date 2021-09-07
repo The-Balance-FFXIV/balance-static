@@ -69,70 +69,50 @@ The purpose of this guide is to give an overview of Dark Knight’s abilities an
 
 
 ## Tank Stance
-
-**Grit**
-
+![Grit](https://xivapi.com/i/003000/003070.png) <br> **Grit**
 
 
-- Toggle
-- 10s cooldown after toggling on • no cooldown for toggling off
 
-- Multiplies enmity (aggro, hate, etc) generation by 10
+- Toggle - 10s cooldown after toggling on • no cooldown for toggling off
+ - Multiplies enmity (aggro, hate, etc) generation by 10
 - Keep this on in dungeons or as the current maintank (in content with more than one tank)
 
 
 ## Single Target GCDs
 
-**Souleater Combo**
-
-
-
--   200 > 300 > 400 potency
-
+![Hard Slash](https://xivapi.com/i/003000/003051.png) ![Syphon Strike](https://xivapi.com/i/003000/003054.png) ![Souleater](https://xivapi.com/i/003000/003055.png) <br> **Souleater Combo**
+- 200 > 300 > 400 potency
     1. Hard Slash
-
     2. Syphon Strike: +600 MP
 
     3. Souleater: +20 Blood, 300p heal
 
 
-**Bloodspiller**
+![Bloodspiller](https://xivapi.com/i/003000/003080.png) <br>**Bloodspiller**
 
 
 
-- 600 potency
-
-- Costs 50 Blood
+- 600 potency - Costs 50 Blood
 
 
 ## Abilities (oGCDs)
 
 ### Buffs
 
+![Blood Weapon](https://xivapi.com/i/003000/003071.png)
 #### Blood Weapon
 
 
 
-60s cooldown • 10s duration
-
-Weaponskills and Spells (all GCDs) restore 600 MP and 10 Blood
+60s cooldown • 10s duration <br> Weaponskills and Spells (all GCDs) restore 600 MP and 10 Blood <br> By using Blood Weapon late into the GCD (just before the next GCD), it is possible to fit 5 GCDs into the buff window
 
 
-By using Blood Weapon late into the GCD (just before the next GCD), it is possible to fit 5 GCDs into the buff window
-
-
+![Delirium](https://xivapi.com/i/003000/003078.png)
 #### Delirium
-
-
-
 90s cooldown • 10s duration
-
-Allows Bloodspiller and Quietus to be used without a Blood cost, and makes them generate MP on use:
-
-
-Bloodspiller: +200 MP
-
-Quietus: +500 MP
+<br> Allows Bloodspiller and Quietus to be used without a Blood cost, and makes them generate MP on use: 
+- Bloodspiller: +200 MP
+- Quietus: +500 MP
 
 
 By using Delirium *late into the GCD* (just before the next GCD), it is possible to fit 5 Blood Gauge spenders into the buff window
@@ -140,53 +120,45 @@ By using Delirium *late into the GCD* (just before the next GCD), it is possible
 
 ### Offensive
 
-#### Edge of Shadow (upgraded from Edge of Darkness)
-
-
-
+![Edge of Shadow](https://xivapi.com/i/003000/003086.png)
+#### Edge of Shadow (upgraded from Edge of Darkness) 
 500 potency • 2s cooldown
-
-Costs 3000 MP
-
-Applies *Darkside* (10% damage buff) for 30s, or extends it by 30s, up to a maximum of 60s.
+<br>Costs 3000 MP
+<br>Applies *Darkside* (10% damage buff) for 30s, or extends it by 30s, up to a maximum of 60s.
 
 
+![Living Shadow](https://xivapi.com/i/003000/003088.png)
 #### Living Shadow
 
 
 
 ~2500 potency • 120s cooldown
-
-Summons a pet that attacks 7 times, each for 300 pet potency (~360 actual potency)
-
-Has a ~7s spawn animation
-
-The seven attacks are a mix of Area of Effect (AoE) attacks and single target attacks
+<br>Summons a pet that attacks 7 times, each for 300 pet potency (~360 actual potency)
+<br>Has a ~7s spawn animation
+<br>The seven attacks are a mix of Area of Effect (AoE) attacks and single target attacks
 
 
 
+![Abyssal Drain](https://xivapi.com/i/003000/003064.png)
 #### Abyssal Drain
 
 
 
 200 potency • 60s cooldown
-
-AoE centered on target
-
-200 potency heal  for each target hit
+<br>AoE centered on target
+<br>200 potency heal  for each target hit
 
 
+![Salted Earth](https://xivapi.com/i/003000/003066.png)
 #### Salted Earth
 
 
 
 60 potency per tick • 90s cooldown
+<br>15s duration
+<br>Places a puddle on the ground that periodically deals damage to all enemies inside
+<br>Ticks once on placement and also independently 5 times on a 3s timer
 
-15s duration
-
-Places a puddle on the ground that periodically deals damage to all enemies inside
-
-Ticks once on placement and also independently 5 times on a 3s timer
 
 
 #### Carve and Spit
