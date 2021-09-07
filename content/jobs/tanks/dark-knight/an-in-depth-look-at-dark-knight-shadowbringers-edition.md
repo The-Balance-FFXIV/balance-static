@@ -356,41 +356,66 @@ If you wish to see what your current gear can do for your personal DPS, [this Ta
 [https://ffxiv.ariyala.com/1A7T8](https://ffxiv.ariyala.com/1A7T8) <br>**AVG DPS - 9856.73 / 300s**
 
 This set will be your goto for all gearing options. This set is built slow, running at a 2.43 speed, which may be tricky for some for Delirium, and more notably Blood Weapon. If it’s tricky for you, you can do a number of things in order to augment your GCD tier. 
-Swap the chestpiece - If you remove the SKS melds from the weapon, you’ll drop down to 2.40, a very comfy GCD for universal use on Gunbreaker as well as Dark Knight. 
-Couple the above change with keeping the SKS melds, and using Popoto Salad, landing you in the 2.38 GCD tier which would be more comfortable for the faster build Paladins, and Warriors alike.
-A few additional gear choices can be found here (they are focused on Paladin, however they can be used for Dark Knight as well), however, most changes can be made to personal preference based on gear and melding choices. Play around with the DPS calculator, and meld what you want to meld!
+- Swap the chestpiece - If you remove the SKS melds from the weapon, you’ll drop down to 2.40, a very comfy GCD for universal use on Gunbreaker as well as Dark Knight. 
+- Couple the above change with keeping the SKS melds, and using Popoto Salad, landing you in the 2.38 GCD tier which would be more comfortable for the faster build Paladins, and Warriors alike.
 
-Stats, and Reasoning
-For the most part, Square-Enix has worked hard balancing the playstyles to adapt to different SKS tiers. Across the board, the variables on substats have been greatly altered in order to incentivize a greater “Gear how you want” style between substats. With an increased effect of Materia melding and their share on the substat amount, having a choice in your gear has greatly changed from Stormblood. If you wish to see what changes of substats will do for you personally you can use this Gear Calculator to give you a fairly accurate read on any changes you may make.
+A few additional gear choices [can be found here](https://docs.google.com/spreadsheets/d/1rN9Mrs2BqkhH7-tAi_JH6sDkGrnu0J0HqeQzktfVRvE/edit#gid=392554910) (they are focused on Paladin, however they can be used for Dark Knight as well), however, most changes can be made to personal preference based on gear and melding choices. Play around with the DPS calculator, and meld what you want to meld!
+
+
+## Stats, and Reasoning
+
+For the most part, Square-Enix has worked hard balancing the playstyles to adapt to different SKS tiers. Across the board, the variables on substats have been greatly altered in order to incentivize a greater “Gear how you want” style between substats. With an increased effect of Materia melding and their share on the substat amount, having a choice in your gear has greatly changed from Stormblood. If you wish to see what changes of substats will do for you personally you can use [this Gear Calculator](https://docs.google.com/spreadsheets/d/1MTZ2oYyLo2P6NEVj3LuLo1aL88f2cPr_4wnxYWygVSA/edit?usp=sharing) to give you a fairly accurate read on any changes you may make.
+
 Should your goal be optimization instead of adjusting your playstyle to your own choices, the substats can be “ranked” in this manner - 
-Comfy Speed Tier > Crit >= DH > Det = SKS > Ten
-What is “Comfy Speed?” - Comfy speed is simply that - the speed tier at which you are the most comfortable with playing the class. It’s a completely subjective gauge, and no one will ever have the right answer. Personally, I value a speed around 2.38, as it is a solid speed at which to ensure Delirium and Blood Weapon always have 5-hits. However, your mileage may vary. Experiment with different tiers, your ability to manipulate self buffs, and how they interact with cooldowns in order to make a personal judgment call.
+
+> **Comfy Speed Tier > Crit >= DH > Det = SKS > Ten**
+
+**What is “Comfy Speed?”** - Comfy speed is simply that - the speed tier at which you are the most comfortable with playing the class. It’s a completely subjective gauge, and no one will ever have the right answer. Personally, I value a speed around 2.38, as it is a solid speed at which to ensure Delirium and Blood Weapon always have 5-hits. However, your mileage may vary. Experiment with different tiers, your ability to manipulate self buffs, and how they interact with cooldowns in order to make a personal judgment call.
+
 There is also the argument of a fight-per-fight basis for comfortable speeds. What may be possible in some fights at a certain skill speed, may not be possible otherwise - such as greeding that extra GCD before a mechanic forces a disengage. If you find some mechanics tricky to maintain uptime, try changing up your speed levels and see if they are more comfortable.
-Crit is back? - On the initial release of Shadowbringers, Crit was lagging behind Direct Hit as far as DPS optimization. However with the release of Savage (and most notably, having the option for Critical Hit on every single piece of gear), we are able to meld Crit wherever we can for a minor DPS gain. If you’re still stuck in Direct Hit land (I know I am), you will not lose much DPS at all by simply melding Direct Hit instead. The difference is only a few tens of DPS. However, you get more !!s in your combat log. Whatever floats your boat.
-Why not Tenacity Stack? - Tenacity is an efficient stat for what it is, both increasing damage and mitigation at a nominal rate. Tenacity is currently regarded as a progression stat, in a similar vein to Vitality melds of old - helpful on occasion and can save your life, but not enough to warrant continuous, future use. The gain of Tenacity is not in reducing healer load. The gain is in the “insurance policy.” Tenacity could be useful. It could save your life. But you won’t see tangible benefit from Tenacity until that moment where you almost die.
-That being said, if you like Tenacity, then by all means, meld it. You will lose a bit of damage. but there are some pulls where you’ll survive. (Granted, I was going to die anyways, but my health here is a direct result of Tenacity).
-SKS buff, and Speed tiers- Skill Speed has always been a tricky stat to wrap your head around. With the increased AA potency, as well as our rotation not being locked specifically to rotational buffs, it has garnered some merit of thought. However, the same issues lie with SKS as they always have -
-What GCDs are gained, if any, throughout the fight?
-Does a fight have a large amount of downtime?
-How badly will we clip our GCD with double-weaving OGCDs?
-Does SKS allow me too land Blood Weapon or Delirium more consistently?
-SKS will not affect the amount of GCDs used for Delirium.
-SKS does not affect a large portion of our burst damage - Edge/Flood, or Living Shadow
+
+**Crit is back?** - On the initial release of Shadowbringers, Crit was lagging behind Direct Hit as far as DPS optimization. However with the release of Savage (and most notably, having the option for Critical Hit on every single piece of gear), we are able to meld Crit wherever we can for a minor DPS gain. If you’re still stuck in Direct Hit land (I know I am), you will not lose much DPS at all by simply melding Direct Hit instead. The difference is only a few tens of DPS. However, you get more !!s in your combat log. Whatever floats your boat.
+
+**Why not Tenacity Stack?** - Tenacity is an efficient stat for what it is, both increasing damage and mitigation at a nominal rate. Tenacity is currently regarded as a progression stat, in a similar vein to Vitality melds of old - helpful on occasion and can save your life, but not enough to warrant continuous, future use. The gain of Tenacity is not in reducing healer load. The gain is in the “insurance policy.” Tenacity could be useful. It could save your life. But you won’t see tangible benefit from Tenacity until that moment where you almost die.
+
+That being said, if you like Tenacity, then by all means, meld it. You will lose a bit of damage. [But there are some pulls where you’ll survive.](https://clips.twitch.tv/TrustworthyMoistMagePRChase) (Granted, I was going to die anyways, but my health here is a direct result of Tenacity).
+
+**SKS buff, and Speed tiers**- Skill Speed has always been a tricky stat to wrap your head around. With the increased AA potency, as well as our rotation not being locked specifically to rotational buffs, it has garnered some merit of thought. However, the same issues lie with SKS as they always have -
+1. What GCDs are gained, if any, throughout the fight?
+2. Does a fight have a large amount of downtime?
+3. How badly will we clip our GCD with double-weaving OGCDs?
+4. Does SKS allow me too land Blood Weapon or Delirium more consistently?
+5. SKS will not affect the amount of GCDs used for Delirium.
+6. SKS does not affect a large portion of our burst damage - Edge/Flood, or Living Shadow
+
 TL;DR - It’s tricky to put a proper weight on SKS. Gained GCDs are always huge, but if the extra GCD is not hit with increased SKS, then half of the value has been completely lost. Gaining an extra GCD within a phase or jump transition is huge, but not gaining that GCD means that the extra SKS was potentially wasted. Equip and gear SKS at your discretion. I personally would not recommend melding for SKS past your personal comfort level of play, however, if you enjoy playing fast, then by all means, play fast!
 
 
-Frequently Asked Questions, and Fight Optimization
-F.A.Q.
-- Should I hold Plunge or use it on Cooldown?
+
+--- 
+
+# Frequently Asked Questions, and Fight Optimization
+
+## F.A.Q.
+
+### Should I hold Plunge or use it on Cooldown?
+
 With the change to how Plunge works in Shadowbringers, we now have Charges of plunge, instead of a raw cooldown. There are now two use-cases for Plunge for competent use
-DPS Optimal - two plunges every Trick Attack.
-Whenever saving a use would allow you to maintain uptime (Any GCD gained is more valuable than a use in raid buffs).
-An important question to ask yourself as well is whether Arm’s Length do the same job, or do you need a gap closer specifically. If Arm’s Length is sufficient, then you are free to use Plunge optimally.
-- How can I effectively use Salted Earth?
+1. **DPS Optimal** - two plunges every Trick Attack.
+2. Whenever saving a use would allow you to maintain uptime (Any GCD gained is more valuable than a use in raid buffs).
+
+An important question to ask yourself as well is whether **Arm’s Length** do the same job, or do you need a gap closer specifically. If Arm’s Length is sufficient, then you are free to use Plunge optimally.
+
+### How can I effectively use Salted Earth?
+
 A common misconception with using Salted Earth effectively is assuming extra casts mean more DPS. What you should be looking at moreso, is do I gain additional ticks. The cast count itself does not matter, but whether or not you used the casts effectively. Poor positioning or poor timing can lose you ticks that you could have gained by either waiting a few moments, or adjusting your cast. Salted Earth by itself is worth 360 Potency. Use it well.
+
 Because of the heightened cooldown in Shadowbringers, coupled with the smaller potency, efficient uses of Salted Earth as not nearly as valuable as they were before. 
+
 Macros can be effective for Salted Earth usage if you are unable to target place it properly. Personally, I use both a target and a self target macro in order to more effectively place salted while moving, while double weaving or other issues. Self target macros are more effective when the boss is large and fixated (Leviathan and Titan Savage for example).
+
 Examples of the macros I use are below.
+```
 /ac "Salted Earth" <t>
 /ac "Salted Earth" <t>
 /ac "Salted Earth" <t>
@@ -406,88 +431,117 @@ Examples of the macros I use are below.
 /ac "Salted Earth" <t>
 /micon "Salted Earth"
 /merror off
-Simply replace the <t> with <me> should you desire to make a self-targeting macro. “/micon” is used to see the cooldown on the macro itself, and “/merror off” prevents you from being spammed with the macro errors, should it not go off. The multiple lines are due to FFXIV’s unique programming which sends a line per frame rendered (and only that frame), meaning that macro skills cannot be queued. The lines help to ensure that Salted will always go off.
-- Who should pull in my party comp?
+```
+Simply replace the `<t>` with `<me>` should you desire to make a self-targeting macro. “/micon” is used to see the cooldown on the macro itself, and “/merror off” prevents you from being spammed with the macro errors, should it not go off. The multiple lines are due to FFXIV’s unique programming which sends a line per frame rendered (and only that frame), meaning that macro skills cannot be queued. The lines help to ensure that Salted will always go off.
+
+### Who should pull in my party comp?
+
 There is no definite answer to this one in Shadowbringers. Due to the removal of Tank Stance and threat combos as a damage loss, any tank can effectively pull. Choose whichever is more comfortable for the fight, and your raid group.
+
 Dark Knight ideally is on the last of the tier of pulling, as its skillset requires Blood Weapon to be used before Hard Slash for Living Shadow manipulation. If you need to pull for your group, an honest face-pull scenario might be best for your personal DPS output.
-I can’t land the 5th hit in Blood Weapon/Delirium! Help!
+
+### I can’t land the 5th hit in Blood Weapon/Delirium! Help!
+
 There are two potential reasons that you’re unable to land those hits - 
-You’re not activating BW/Delirium on the “2nd oGCD slot” as shown here
-You don’t have enough comfy SKS to perform the rotation adequately.
-Some light testing has shown that Blood Weapon does not have the same leeway as other buffs, meaning that it does not last that extra bit of give that similar buff timings such as Delirium or Inner Release have (this needs to be verified and might take a while to be accurate, however personal testing across multiple people has shown this to be the case). The good news is that losing a hit on Blood Weapon is not as damaging as losing Delirium, however, multiple uses throughout the fight can add up to lost potency. If you’re having issues, a light investment in Skill Speed might be the way to go.
+1. You’re not activating BW/Delirium on the “2nd oGCD slot” as shown here
+2. You don’t have enough comfy SKS to perform the rotation adequately.
 
-Fight Specific Optimization and Tips
-Eden Savage
-Eden Prime
-Eden’s Gravity and Dimensional Shift appear to be percentile based damage, and not raw magical damage, based on logs. The Blackest Night and healer shielding is effective on this damage. Dark Missionary does not see a lot of play in this fight, however you can use it on the shared Tank Busters for double effectiveness. Otherwise, you can save it for a strong use during Delta Attack for the Fire 3 damage. (A very strong use can be found in Phase 2, for the Fire + Thunder 3 busters).
-Vice and Virtue is Magical, and Spear is Physical. Will be spending the next few attempts in Eden to verify if the transferred Healer Prey is magical, but it appears to be affected by Dark Mind. Personally, my cooldown suite for the first tank buster gamut was as follows:
-Early pop TBN, Rampart for Vice (Cotank Reprisal)
-Sentinel, Reprisal for Spear
-Early pop TBN, Dark Mind and Dark Missionary for the Prey
-If your healers are having difficulty, you can use a third TBN to soak bleed damage later, as it will absorb bleed damage ticks.
-The Jump which precedes Pure Light can be baited, similar to how Umbra Smash was baited in O9S (He jumps to the farthest corner). When pulling Eden, pull her slightly off center in order to ensure she goes to your prefered corner. 
-The adds in the fight do not tether together, however, they do cleave. Position yourself with your co-tank in a manner which allows you to stack both, and allow your group to do cleave damage to the enemy.
-If your killtime is over 9 minutes (a slower pace), save your second Living Shadow cast for the adds, and summon it as the dropdown markers appear. The first Abyssal cast from Esteem should land on both targets, as well as the rest of his AoE. Similar to Salted use of old, ensure that Esteem gets more hits over the encounter, as opposed to the more useful cleave hits here. Adjust your uses depending on killtimes throughout progression and farming in the future.
-Voidwallker
-All of Voidwalker’s tank busters are Magical. Dark Mind will be available for every buster, and you can swap between ShadowWall and Rampart for added mitigation, should you wish. There are a few spots where he only spams auto-attacks, should you wish to drop the Rampart uses elsewhere.
-Doomvoid Cleaver is Physical. All other AoE damage is Magical. Dark Missionary can see a lot of play here if cleverly timed and used throughout the fight.
-There are only 2-3 autoattacks before the first mechanic cast, which may cause The Blackest Night to not pop. Personally as the first tank, I shifted to using Unmend instead of facepulling in order to ensure I would be the first one hit for TBN, as well as ensuring both autoattacks would land on me. 
-Another option would be to allow your cotank to pull, should they used ranged attacks.
-You can also use the no-pop opener adjustment listed in the openers section, should you still have difficulty. It is a small potency loss, but overall more comfortable.
-If you are off-tanking, remember that you aren’t taking autos after tank busters happen. Make sure that you use TBN on your cotank, as opposed to yourself (so long as you are using your other cooldowns appropriately).
-Leviathan
-Rip Current is Magical. Most groups will use invulnerabilities in order to bypass the shared nature of the tank buster; do what’s best for your group. At least one cast will have to be shared in the fight.
-Because of the nature of a fixed boss, Unmend/ranged pulling is normally not done. Because of this, you’ve probably noticed your TBN doesn’t always pop before Leviathan starts casting his AoE. There’s a few options in order to still perform your opener effectively - 
-The No-TBN pop listed earlier in this guide
-Placing TBN on a hard-opening DPS (such as Machinist, which opens with Reassemble > Drill), which typically guarantees an easy pop on the first auto-attack.
-Rampart usage for this fight is essentially free, so make sure that you use them in the most effective places that you can. Personally I try to pair them with Tidal waves/rages. Tsunami isn’t terribly effective, as it is only one hit, and the boss stops autoattacking during the mechanics.
-Titan
-The only sources of Physical Damage throughout the fight are Stonecrusher, Megalith, and Titan’s autoattacks in Phase 1 and 3. All other damage is Magical, and will allow you to use Dark Mind to the best of its ability.
-Orange markers have their damage snapshotted slightly earlier than Yellow markers in this fight. You can use this too your advantage in some scenarios where movement is necessary (such as following Titan during his Car movement). Be careful that you don’t interrupt melees attempting to do the same!
-TBN will pop with every Y/O/B marker explosion, and will take two autoattacks to pop otherwise. Make sure you’re using your TBNs effectively throughout the encounter to reduce your healing load. 
-Titan’s hit box is quite large in Phase 2. Because of this, if you are attacking the forward healer gaol, you can cleave the gaol and the boss with Flood of Shadow and Unleash>Stalwart combos for more overall damage for the fight (if your healer isn’t in danger, of course!)
-Extreme Trials
-Titania
-The opener will be incredibly tight at slower speeds in order to execute properly, as she begins casting Rune during your Delirium window. You have a few options on how to deal with this - 
-Change your opener to Delirium 1 GCD early. This will allow for the greeded GCD to be Syphon > Souleater, instead of Bloodspiller > Syphon, no longer risking losing your combo.
-Equip more Skill Speed in order to greed the extra GCD before disengage, allowing you to finish Souleater beforehand.
-Simply allow the Souleater to drop (loses some DPS overall but not as painful as the lost Delirium).
-All of Titania’s busters are Magical. The adds later in the fight are Physical. 
-With clever positioning, you can use Flood of Shadow on the adds while they are giant in order to hit two of them at the same time for some bonus damage. You can also place Salted Earth in between them.
-Your Third Living Shadow will come up just before Titania summons her adds. Hold this summon until just before she leaves, in order to get maximum uptime on the adds.
-Remember that Living Shadow has AoE moves as well - you can attempt to position yourself in between your tank target and another in order to benefit from this.
-Innocence
-All of Innocence’s attacks are Magical. Dark Mind can be utilized for Auto-attacks or magical AoEs here, and Shadow Wall can be saved for the busters alone. Rampart can also be used liberally.
-If you’re really feeling randy, Beatific Vision (the room split > distance AoE) does around 140,000 damage raw. If mitigation is used on yourself, you can take this to the face and maintain uptime. I highly don’t recommend doing this if you’re actively tanking, as he has a tendency to also auto-attack at the same time, despite being temporarily untargetable.
+Some light testing has shown that **Blood Weapon does not have the same leeway as other buffs**, meaning that it does not last that extra bit of give that similar buff timings such as Delirium or Inner Release have (this needs to be verified and might take a while to be accurate, however personal testing across multiple people has shown this to be the case). The good news is that losing a hit on Blood Weapon is not as damaging as losing Delirium, however, multiple uses throughout the fight can add up to lost potency. If you’re having issues, a light investment in Skill Speed might be the way to go.
 
 
+## Fight Specific Optimization and Tips
 
-Credits
-Emiin Vanih - Lodestone || FFLogs || Twitch || Twitter || Discord - Emiin#0178 
-Find me on my Discord Server!
-Feel free to message me for any questions on this guide, or things you’d like added.
+### Eden Savage
 
-Paladin Guide
+#### Eden Prime
+
+- Eden’s Gravity and Dimensional Shift appear to be percentile based damage, and not raw magical damage, based on logs. **The Blackest Night** and healer shielding is effective on this damage. **Dark Missionary** does not see a lot of play in this fight, however you can use it on the shared Tank Busters for double effectiveness. Otherwise, you can save it for a strong use during Delta Attack for the Fire 3 damage. (A very strong use can be found in Phase 2, for the Fire + Thunder 3 busters).
+- Vice and Virtue is **Magical**, and Spear is **Physical**. Will be spending the next few attempts in Eden to verify if the transferred Healer Prey is magical, but it appears to be affected by Dark Mind. Personally, my cooldown suite for the first tank buster gamut was as follows:
+  - Early pop TBN, Rampart for Vice (Cotank Reprisal)
+  - Sentinel, Reprisal for Spear
+  - Early pop TBN, Dark Mind and Dark Missionary for the Prey
+  - If your healers are having difficulty, you can use a **third TBN** to soak bleed damage later, as it will absorb bleed damage ticks.
+- The Jump which precedes Pure Light **can be baited**, similar to how Umbra Smash was baited in O9S (He jumps to the farthest corner). When pulling Eden, pull her slightly off center in order to ensure she goes to your prefered corner. 
+- The adds in the fight do not tether together, however, they do cleave. Position yourself with your co-tank in a manner which allows you to stack both, and allow your group to do cleave damage to the enemy.
+  - If your killtime is over 9 minutes (a slower pace), save your second **Living Shadow** cast for the adds, and summon it as the dropdown markers appear. The first Abyssal cast from Esteem should land on both targets, as well as the rest of his AoE. Similar to Salted use of old, ensure that Esteem gets more hits over the encounter, as opposed to the more useful cleave hits here. Adjust your uses depending on killtimes throughout progression and farming in the future.
+
+#### Voidwallker
+
+- All of Voidwalker’s tank busters are **Magical**. Dark Mind will be available for every buster, and you can swap between ShadowWall and Rampart for added mitigation, should you wish. There are a few spots where he only spams auto-attacks, should you wish to drop the Rampart uses elsewhere.
+- **Doomvoid Cleaver** is **Physical**. All other AoE damage is **Magical**. Dark Missionary can see a lot of play here if cleverly timed and used throughout the fight.
+- There are only 2-3 autoattacks before the first mechanic cast, which may cause The Blackest Night to not pop. Personally as the first tank, I shifted to using Unmend instead of facepulling in order to ensure I would be the first one hit for TBN, as well as ensuring both autoattacks would land on me. 
+    - Another option would be to allow your cotank to pull, should they used ranged attacks.
+    - You can also use the no-pop opener adjustment listed in the openers section, should you still have difficulty. It is a small potency loss, but overall more comfortable.
+- If you are off-tanking, remember that you aren’t taking autos after tank busters happen. Make sure that you use TBN on your cotank, as opposed to yourself (so long as you are using your other cooldowns appropriately).
+
+#### Leviathan
+
+- Rip Current is **Magical**. Most groups will use invulnerabilities in order to bypass the shared nature of the tank buster; do what’s best for your group. At least one cast will have to be shared in the fight.
+- Because of the nature of a fixed boss, Unmend/ranged pulling is normally not done. Because of this, you’ve probably noticed your TBN doesn’t always pop before Leviathan starts casting his AoE. There’s a few options in order to still perform your opener effectively - 
+  - The No-TBN pop listed earlier in this guide
+  - Placing TBN on a hard-opening DPS (such as Machinist, which opens with Reassemble > Drill), which typically guarantees an easy pop on the first auto-attack.
+- Rampart usage for this fight is essentially free, so make sure that you use them in the most effective places that you can. Personally I try to pair them with Tidal waves/rages. Tsunami isn’t terribly effective, as it is only one hit, and the boss stops autoattacking during the mechanics.
+
+#### Titan
+
+- The only sources of Physical Damage throughout the fight are Stonecrusher, Megalith, and Titan’s autoattacks in Phase 1 and 3. All other damage is Magical, and will allow you to use Dark Mind to the best of its ability.
+- Orange markers have their damage snapshotted slightly earlier than Yellow markers in this fight. You can use this too your advantage in some scenarios where movement is necessary (such as following Titan during his Car movement). Be careful that you don’t interrupt melees attempting to do the same!
+- TBN will pop with every Y/O/B marker explosion, and will take two autoattacks to pop otherwise. Make sure you’re using your TBNs effectively throughout the encounter to reduce your healing load. 
+- Titan’s hit box is quite large in Phase 2. Because of this, if you are attacking the forward healer gaol, you can cleave the gaol and the boss with Flood of Shadow and Unleash>Stalwart combos for more overall damage for the fight (if your healer isn’t in danger, of course!)
+
+### Extreme Trials
+
+#### Titania
+
+- The opener will be incredibly tight at slower speeds in order to execute properly, as she begins casting Rune during your Delirium window. You have a few options on how to deal with this - 
+   - Change your opener to Delirium 1 GCD early. This will allow for the greeded GCD to be Syphon > Souleater, instead of Bloodspiller > Syphon, no longer risking losing your combo.
+   - Equip more Skill Speed in order to greed the extra GCD before disengage, allowing you to finish Souleater beforehand.
+   - Simply allow the Souleater to drop (loses some DPS overall but not as painful as the lost Delirium).
+- All of Titania’s busters are **Magical**. The adds later in the fight are **Physical**. 
+- With clever positioning, you can use **Flood of Shadow** on the adds while they are giant in order to hit two of them at the same time for some bonus damage. You can also place **Salted Earth** in between them.
+- Your Third Living Shadow will come up just before Titania summons her adds. Hold this summon until just before she leaves, in order to get maximum uptime on the adds.
+   - Remember that **Living Shadow** has AoE moves as well - you can attempt to position yourself in between your tank target and another in order to benefit from this.
+
+#### Innocence
+- All of Innocence’s attacks are **Magical**. Dark Mind can be utilized for Auto-attacks or magical AoEs here, and Shadow Wall can be saved for the busters alone. Rampart can also be used liberally.
+- If you’re really feeling randy, Beatific Vision (the room split > distance AoE) does around 140,000 damage raw. If mitigation is used on yourself, you can take this to the face and maintain uptime. I highly don’t recommend doing this if you’re actively tanking, as he has a tendency to also auto-attack at the same time, despite being temporarily untargetable.
+
+
+
+
+--- 
+
+# Credits
+Emiin Vanih - [Lodestone](http://na.finalfantasyxiv.com/lodestone/character/7965813/) || [FFLogs](https://www.fflogs.com/character/id/53181) || [Twitch](https://www.twitch.tv/emiinv) || [Twitter](https://twitter.com/emiin_v) || Discord - Emiin#0178 
+<br>Find me on my [Discord Server!](https://discord.gg/7Nb2JZ2)
+<br>Feel free to message me for any questions on this guide, or things you’d like added.
+
+
+[Paladin Guide](https://docs.google.com/document/d/1csUMEsnV5kiWQeHgw9bQVrEGr5ISR3ycssHIE3j7Etg/edit#)
+
 Tofurkey Meepers [Lamia] (Co-tank buddies4lyf)
-Raffter Senpai [Ragnarok]
-Voxfall Valerie [Ragnarok]
-Layla Bell [Gilgamesh]
-Mox Xinmagar [Ragnarok]
-Ny Cro [Gilgamesh]
-Sarangerel Ura [Ragnarok]
-Nemekh / Velinas Dar'Korsalar [Exodus]
-Chrono Rising [Gilgamesh]
-Nalar Demon [Ragnarok]
-Reverie Shirokami [Ragnarok]
-Images obtained and used with permission from the following:
-Sugu Sugu [Sargatanas]
-Udra Virias [Faerie]
-Tessan Twintails [Phoenix]
-Eleanor Havok [Phoenix]
+<br>Raffter Senpai [Ragnarok]
+<br>Voxfall Valerie [Ragnarok]
+<br>Layla Bell [Gilgamesh]
 
-Change/Editlog
-11/09/2019 - E3S, E4S added. Additional information on Salted Earth added. 
-08/08/2019 - E1S updated, E2S added. BiS added.
-11/07/2019 - Primals added.
-06/07/2019 - Additional information added, public release to The Balance.
-27/06/2019 - Original release (Not public)
+Mox Xinmagar [Ragnarok]
+<br>Ny Cro [Gilgamesh]
+<br>Sarangerel Ura [Ragnarok]
+<br>Nemekh / Velinas Dar'Korsalar [Exodus]
+<br>Chrono Rising [Gilgamesh]
+<br>Nalar Demon [Ragnarok]
+<br>Reverie Shirokami [Ragnarok]
+
+Images obtained and used with permission from the following:
+<br>Sugu Sugu [Sargatanas]
+<br>Udra Virias [Faerie]
+<br>Tessan Twintails [Phoenix]
+<br>Eleanor Havok [Phoenix]
+
+
+## Change/Editlog
+- 11/09/2019 - E3S, E4S added. Additional information on Salted Earth added. 
+- 08/08/2019 - E1S updated, E2S added. BiS added.
+- 11/07/2019 - Primals added.
+- 06/07/2019 - Additional information added, public release to The Balance.
+- 27/06/2019 - Original release (Not public)
