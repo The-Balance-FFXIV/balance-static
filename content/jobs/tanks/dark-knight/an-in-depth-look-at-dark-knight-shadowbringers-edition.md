@@ -1,50 +1,60 @@
 ---
 title: An In Depth look at Dark Knight - Shadowbringers Edition
 ---
-An In Depth look at Dark Knight - Shadowbringers Edition
+# An In Depth look at Dark Knight - Shadowbringers Edition
 
-An advanced guide to the class
-Last Update: 11/09/2019 - E3S, E4S added. Additional information on Salted Earth added.
+## An advanced guide to the class
+
+*Last Update: 11/09/2019 - E3S, E4S added. Additional information on Salted Earth added.*
+
 Hi! Emiin Vanih [Lamia] here. Myself and my companions have developed a compendium of information that will hopefully help you take your Dark Knight playstyle to a new level. While tanking is easy to learn, with the right know-how, you can excel at the role, and lead your group to victory.
+
 Available Translations:
-Chinese from 包子皓的爸爸———摩杜那
+[Chinese](http://ngabbs.com/read.php?tid=17901690&rand=684) from 包子皓的爸爸———摩杜那
+
 Disclaimer
-This guide will talk about Dark Knight at raiding (Level 80, 8-man) level. Some topics will be addressed that will spread towards other avenues of play within FFXIV, but raiding will be the primary focus.
-Tooltips and basic skill potencies will not be addressed unless mathematically necessary. I expect anyone reading this guide to be able to understand how to read tooltips.
-Potencies listed do not include the Darkside modifier, to simplify the math therein. 
-Table of Contents
+1. This guide will talk about Dark Knight at raiding (Level 80, 8-man) level. Some topics will be addressed that will spread towards other avenues of play within FFXIV, but raiding will be the primary focus.
+2. Tooltips and basic skill potencies will not be addressed unless mathematically necessary. I expect anyone reading this guide to be able to understand how to read tooltips.
+3. Potencies listed do not include the Darkside modifier, to simplify the math therein. 
 
-Part 1: The Changes from Stormblood to Shadowbringers	
-Part 2: The Basics - General Tips and Tricks	
-Offensive -	
-Defensive -	
-Part 3: Map Your Cooldowns - Defensive utilization	
-Dungeons and Grinding	
-The Blackest Night	
-Progression vs. Optimization	
-Raiding - Cooldowns, Mitigation, and You	
-Assisting Your Team - Secondary Tank and Raid Mitigation	
-Cross Role Actions	
-Part 4: Offensive Optimization Tips	
-Dungeons and Spamming	
-Edge of Shadow	
-Delirium and Bloodspiller	
-Living Shadow	
-Raid Buffs and how to use them	
-Part 5: Openers and Substats	
-Openers	
-5.0 BiS	
-Stats, and Reasoning	
-Frequently Asked Questions, and Fight Optimization	
-F.A.Q.	
-Fight Specific Optimization and Tips	
-Credits	
-Change/Editlog	
+--- 
+
+# Table of Contents
+
+- Part 1: The Changes from Stormblood to Shadowbringers	
+- Part 2: The Basics - General Tips and Tricks	
+  - Offensive -	
+  - Defensive -	
+- Part 3: Map Your Cooldowns - Defensive utilization	
+  - Dungeons and Grinding	
+  - The Blackest Night	
+  - Progression vs. Optimization	
+  - Raiding - Cooldowns, Mitigation, and You	
+  - Assisting Your Team - Secondary Tank and Raid Mitigation	
+  - Cross Role Actions	
+- Part 4: Offensive Optimization Tips	
+  - Dungeons and Spamming	
+  - Edge of Shadow	
+  - Delirium and Bloodspiller	
+  - Living Shadow	
+  - Raid Buffs and how to use them	
+- Part 5: Openers and Substats	
+  - Openers	
+  - 5.0 BiS	
+  - Stats, and Reasoning	
+- Frequently Asked Questions, and Fight Optimization	
+  - F.A.Q.	
+  - Fight Specific Optimization and Tips	
+- Credits	
+  - Change/Editlog	
 
 
 
 
 
+
+
+--- 
 
 Part 1: The Changes from Stormblood to Shadowbringers
 With the release of the expansion, Dark Knight has radically changed. The playstyle has shifted from an oGCD active, speed oriented class, to a high-potency heavy hitter, focused on Burst potential as opposed to consistent damage. Here’s a description of the major changes that have happened to the job.
