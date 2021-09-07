@@ -13,45 +13,45 @@ title: Introduction to Dark Knight
 
   - [Tank Stance](#tank-stance)
 
-  - [Single Target GCDs]
+  - [Single Target GCDs](#single-target-gcds)
 
-  - [Abilities (oGCDs)]
+  - [Abilities (oGCDs)](#abilities-ogcds)
 
-    - [Buffs]
+    - [Buffs](#buffs)
 
-    - [Offensive]
+    - [Offensive](#offensive)
 
-    - [Defensive or Utility]
+    - [Defensive or Utility](#defensive-or-utility)
 
-  - [AoE]
+  - [AoE](#aoe)
 
-  - [Other Actions (Infrequently Used)]
+  - [Other Actions (Infrequently Used)](#other-actions-infrequently-used)
 
-- [Opener]
+- [Opener](#opener)
 
-- [Rotation]
+- [Rotation](#rotation)
 
-  - [Using Blood Weapon and Delirium]
+  - [Using Blood Weapon and Delirium](#using-blood-weapon-and-delirium)
 
-  - [Pooling Resources for Raid Buffs]
+  - [Pooling Resources for Raid Buffs](#pooling-resources-for-raid-buffs)
 
-- [Helpful Macros]
+- [Helpful Macros](#helpful-macros)
 
-- [Stats and Itemization]
+- [Stats and Itemization](#stats-and-itemization)
 
-  - [Choosing your skill speed]
+  - [Choosing your skill speed](#choosing-your-skill-speed)
 
-- [Dungeons]
+- [Dungeons](#dungeon)
 
-- [Frequently Asked Questions]
+- [Frequently Asked Questions](#frequently-asked-questions)
 
-- [Advanced Gameplay]
+- [Advanced Gameplay](#advanced-gameplay)
 
-  - [Optimizing Raid Buffs Further]
+  - [Optimizing Raid Buffs Further](#optimizing-raid-buffs)
 
-  - [Alternative Opener - 3rd GCD Delirium]
+  - [Alternative Opener - 3rd GCD Delirium](#alternative-opener-3rd-gcd-delirium)
 
-  - [Fight-specific optimization]
+  - [Fight-specific optimization](#fight-specific-optimisation)
 
 
 --- 
