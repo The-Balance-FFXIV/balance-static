@@ -161,7 +161,7 @@ Abilities will be presented in a tabular format for easy reading.
 
 | | | | |
 | --- | --- | --- | --- | 
-| icon | Heavy Swing | Standard basic attack to initiate both the Storm’s Eye Combo and the Storm’s Path Combo, consisting of Heavy Swing, Maim, Storm’s Eye and Heavy Swing, Maim, Storm’s Path respectively. | 200p <br>**GCD**
+| ![Heavy Swing](https://xivapi.com/i/000000/000260_hr1.png) | Heavy Swing | Standard basic attack to initiate both the Storm’s Eye Combo and the Storm’s Path Combo, consisting of Heavy Swing, Maim, Storm’s Eye and Heavy Swing, Maim, Storm’s Path respectively. | 200p <br>**GCD**
 | icon | Maim | 320 potency if combo’d after Heavy Swing. Adds 10 Beast Gauge | 100p <br>(320p combo) <br>**GCD** <br>+10 Gauge | 
 | icon | Storm’s Eye | 420 potency if combo’d after Maim. <br>Adds 10 Beast Gauge. <br>Grants a 10% damage buff for 30s. <br>Extend any existing Storm’s Eye buff by +30 seconds, up to 60s. | 100p <br>(420p combo) <br>**GCD** <br>+10 Gauge <br>+10% damage buff | 
 | icon | Storm’s Path | 420 potency if combo’d after Maim. <br> Adds 20 Beast Bauge. | 100p (420p combo) <br> **GCD** <br> +20 Gauge | 
