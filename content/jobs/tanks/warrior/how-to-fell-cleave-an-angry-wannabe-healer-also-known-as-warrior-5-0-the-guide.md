@@ -715,7 +715,7 @@ Raw Intuition is a -20% mitigation tool for 6 seconds. As opposed to Stormblood 
 Nascent Flash heals the Warrior for ~50% of the damage dealt, and the party member for 25%. It also reduces damage taken by a party member by +10%. The healing is not affected by Thrill of Battle. Very much overpowered in AoE pulls in dungeons where you can land AoE damage on multiple targets, and can be a heal well over 40k in total. However, it does share the recast timer with Raw Intuition, so you can’t have both active at the same time. See optimization section on “Nascent Flash vs Raw Intuition”.
 Here is a handy macro to activate Nascent Flash:
 
-
+```
 /merror off
 /ac "Nascent Flash" <mo>
 /ac "Nascent Flash" <mo>
@@ -731,23 +731,33 @@ Here is a handy macro to activate Nascent Flash:
 /ac "Nascent Flash" <me>
 /ac "Nascent Flash" <me>
 /micon "Nascent Flash"
-The macro runs through 4 lines of “mouse-over”, targeting anyone under your cursor. If there’s no one under your cursor, it will pass these lines. The next lines (<2>) target the second person in YOUR party list, which is 99% of the time your co-tank (or a healer in non-2-tank content). If the second party member is dead, these lines will pass without actions. The last 2 lines attempt to cast the skill on yourself to avoid skipping using the skill altogether. 
-Nascent Glint buff on that party member. If you don’t have a party member under your mouse, it will apply Nascent Glint buff on the second member of your party list (usually the 2nd tank). This does not apply to Chocobos, for some reason… Use /ac "Nascent Flash" <b> instead, if you want to help your loyal fighting buddy!
+```
 
-Shake It Off
-Shake It Off is the party-shielding tool for Warriors. Using Shake It Off consumes any active Thrill of Battle, Vengeance or Raw Intuition buffs. The base value of the shield is 12% of the party member’s maximum health, with +2% additional shielding for each buff consumed. At most, the shield can be 18% of the party member’s maximum health. There are times when buffing Shake It Off is a good idea, but consuming defensive cooldowns just to buff a 15 second shield by +6% isn’t usually worth it.
-Reprisal
+
+The macro runs through 4 lines of “mouse-over”, targeting anyone under your cursor. If there’s no one under your cursor, it will pass these lines. The next lines (<2>) target the second person in YOUR party list, which is 99% of the time your co-tank (or a healer in non-2-tank content). If the second party member is dead, these lines will pass without actions. The last 2 lines attempt to cast the skill on yourself to avoid skipping using the skill altogether. 
+
+Nascent Glint buff on that party member. If you don’t have a party member under your mouse, it will apply Nascent Glint buff on the second member of your party list (usually the 2nd tank). This does not apply to Chocobos, for some reason… Use `/ac "Nascent Flash" <b>` instead, if you want to help your loyal fighting buddy!
+
+
+#### Shake It Off
+
+Shake It Off is the party-shielding tool for Warriors. Using Shake It Off consumes any active Thrill of Battle, Vengeance or Raw Intuition buffs. The base value of the shield is 12% of the party member’s maximum health, with +2% additional shielding for each buff consumed. At most, the shield can be 18% of the party member’s maximum health. There are times when buffing Shake It Off is a good idea, but **consuming defensive cooldowns just to buff a 15 second shield by +6% isn’t usually worth it.**
+
+#### Reprisal
 Reprisal is simply a wide mitigation tool, which lowers the targets’ damage dealt by 10% for the next 10 seconds at 60 seconds recast timer. Good for raid-wide damage or additional tank buster mitigation, if there’s no better use for it in the next 60 seconds. It’s also an AoE skill, meaning that you can Reprisal multiple targets at once!
-Arm’s Length
+
+#### Arm’s Length
 Arm’s Length is a tricky one. Its main purpose is to prevent a single knock-back in the 6 seconds it is active, but when used in AoE pulls in dungeons, it increases cast time, recast time and auto-attack delay of any monster by 20% for 15 seconds when hit. Great for slowing down the incoming damage from multiple targets.
 
-Cast Interruptions
 
-Interject
+### Cast Interruptions
+
+
+#### Interject
 Interrupts the use of enemy actions highlighted with red-blinking cast bar.
 
-Low Blow
-Stuns the target for 5 seconds. DOES NOT interrupt the use of enemy actions highlighted with red-blinking cast bar.
+#### Low Blow
+Stuns the target for 5 seconds. **DOES NOT** interrupt the use of enemy actions highlighted with red-blinking cast bar.
 
 --- 
 
@@ -765,11 +775,16 @@ At present there is only a single worthy opener for Warriors, mainly because we 
 ### IC IR IC IC Opener
 
 
+![IC IR IC IC Opener](https://cdn.discordapp.com/attachments/752334526449057853/884760228699189309/unknown.png)
+
 IC IR IC IC opener takes advantage of the potion’s whole duration, landing in 3 Inner Chaos, 2 combo finishers, a Fell Cleave and all the important oGCDs.
+
 
 Nascent Flash makes sure that you’re using Inner Release in the 2nd oGCD slot between GCDs, and that it lines up with Upheaval. You can use Nascent Flash later on if you wish to cover any fight damage that comes up a few GCDs later compared to the opener.
 
+
 If you are facepulling, move the Infuriate forward by a GCD, right after Heavy Swing.
+
 
 Defiance and Tomahawk is enough to keep an enmity lead if you are Main tanking. 
 
@@ -780,39 +795,54 @@ Equilibrium and Provoke can be used during the opener for a flat increase in enm
 
 ## Rotation Optimization
 
+
 The basic rotation in a 100% uptime scenario is generously put a priority list:
 
-Keep Storm’s Eye up and refresh it below 15 seconds.
-Keep Upheaval on cooldown.
-Keep Inner Release on cooldown (fight-dependent).
-Hit 5 Fell Cleaves, 1 Upheaval and 1 Onslaught inside every Inner Release
-Don’t overcap the Beast Gauge.
-As a rule of thumb, use Fell Cleave only after 70 Beast Gauge.
-Use Storm’s Path to gain as much Beast Gauge as possible.
-Aim to use Infuriate and Inner Chaoses inside party buffs.
-Aim to keep Infuriate below 2 stacks at all times.
+- Keep Storm’s Eye up and refresh it below 15 seconds.
+-  Keep Upheaval on cooldown.
+- Keep Inner Release on cooldown (fight-dependent).
+- Hit 5 Fell Cleaves, 1 Upheaval and 1 Onslaught inside every Inner Release
+- Don’t overcap the Beast Gauge.
+- As a rule of thumb, use Fell Cleave only after 70 Beast Gauge.
+- Use Storm’s Path to gain as much Beast Gauge as possible.
+- Aim to use Infuriate and Inner Chaoses inside party buffs.
+- Aim to keep Infuriate below 2 stacks at all times.
+
 
 The main goal for your rotation should be to maximize Storm’s Path casts and Storm’s Eye uptime.
 
+
 With the combo timer being extended to 15 seconds, combos can carry over Inner Release. This means that after using Heavy Swing or Maim, it is possible to fit 5 Fell Cleaves before continuing the combo. However it is easy to drop the combo by using Inner Chaos or an extra Fell Cleave right before or after Inner Release.
 
-Why Fell Cleave only after 70 gauge?
+
+### Why Fell Cleave only after 70 gauge?
+
 This rule is mostly for new Warriors, to ensure that they always have enough Beast Gauge for Upheavals. After you get a hang of the basics and party buffs, feel free to burn that gauge inside buffs. Hitting 0 Beast Gauge is bad practice only if it delays Upheaval or it was spent in vain.
-Upheaval
+
+### Upheaval
+
 Upheaval should be used inside Inner Release, and twice outside of Inner Release. The general rule regarding Upheaval usage is that you should NOT use it if Inner Release’s cooldown is at 22 seconds or below, as it would not fit inside the buff. In these cases, replace the Upheaval with an Onslaught to keep your Beast Gauge on track. A good visual cue for using Upheaval is looking at Inner Release’s cooldown timer: it should be used between 59-53 and 29-22 seconds. 
+
+
+![Upheaval image](https://cdn.discordapp.com/attachments/752334526449057853/884761036014645308/unknown.png)
 
 In reality Upheaval often lands between 58-53 and 28-22 seconds because the first second of Inner Release is used by Fell Cleave, and at times Upheaval lines up with a GCD so it has to be delayed a bit, making it drift.
 
-Onslaught
+
+### Onslaught
+
 The tool to manage our gauge amidst fight mechanics and timings. 
 A general rule for Onslaught usage is to use it when you would miss GCDs otherwise due to mechanics forcing you to disengage.
 
-Infuriate
+
+### Infuriate
+
 Infuriate should rarely hit 2 stacks. To ensure as many casts as possible, we want to take advantage of the Infuriate’s cooldown timer by keeping it ticking constantly. There are exceptions to this rule, such as pushing as much gauge as possible into Trick Attacks and thus saving the stacks, but in general the stacks should hover between 0 and 1, and the timer should stay active.
 
 Another thing to avoid completely is using Infuriate right before Inner Release, or during it. Infuriate activates Nascent Chaos, which opens up Inner Chaos and Chaotic Cyclone, they always Crit Direct Hit, and using those skills inside Inner Release is a waste, because using GCD spenders inside the buff consumes Nascent Chaos. If necessary, delay Inner Release by a GCD and consume the Nascent Chaos through Inner Chaos or Chaotic Cyclone, then use Inner Release. There are exceptions to this, but they’re all fight-dependent (for example, Perfect Alexander opener to maximize your damage before taking a jail).
 
-Nascent Flash vs Raw Intuition
+
+### Nascent Flash vs Raw Intuition
 Assuming that one potency is 29 damage and NFlash heals us for 48%, and the co-tank is healed for 50% of that initial 48%. Leaving Onslaught out of the normal windows, but including it in IR windows.
 
 Worst case is a single combo without buffs, and a single auto-attack.
@@ -820,8 +850,11 @@ Best case scenario is Eye-buffed 2x Inner Chaos, Fell Cleaves, Upheaval and 2 au
 Usual scenario is Eye-buffed Maim, a /combo-finisher, Upheaval, Fell Cleaves and a single auto-attack.
 Inner Release window is Eye-buffed Upheaval, Onslaught and 3x Fell Cleaves.
 
-Spreadsheet used for the results below can be found here.
+Spreadsheet used for the results below can be found [here.](https://bit.ly/XIV530Nascent)
 
+
+
+![Spreadsheet](https://cdn.discordapp.com/attachments/752334526449057853/884760633256583220/unknown.png)
 
 As the table above shows, Raw Intuition has to either cover you from a certain death or mitigate ~54k damage on its own to be worth more than Nascent Flash in the usual scenario.
 
@@ -829,58 +862,63 @@ As the table above shows, Raw Intuition has to either cover you from a certain d
 
 
 
-Stats, Itemisation and BiS Theory
 
-With access to the information we know now, utilizing community tools such as the current Tank DPS calculator allows us to more accurately determine what gear and melds should be used.
-For Stat Tiers, refer to TheoryJerks/AkhMorning’s website.
+--- 
 
-Melding priority
+# Stats, Itemisation and BiS Theory
+
+
+With access to the information we know now, utilizing community tools such as the current [Tank DPS calculator](https://bit.ly/TankDPSCalc520) allows us to more accurately determine what gear and melds should be used.
+
+For Stat Tiers, refer to [TheoryJerks/AkhMorning’s website.](http://theoryjerks.akhmorning.com/stats/speed/)
+
+
+## Melding priority
 Crit > Comfy SkS > Det > Ten
+
 
 Direct Hit is avoided altogether because of how Inner Chaos and Inner Release work: Direct Hit has no effect in either of those.
 
-Currently “Supported” Skill Speed Tiers
 
-1015 for 2.43 GCD - Highest DPS, but requires some planning
-1117 for 2.42 GCD - Some breathing room compared to the one above
+Currently “Supported” **Skill Speed Tiers**
 
-1523 for 2.38 GCD - Your average Warrior skill speed
-1624 for 2.37 GCD - Some breathing room for mechs and clipping
-1726 for 2.36 GCD - "Greeding Mechanics" levels of comfy
+- 1015 for 2.43 GCD - Highest DPS, but requires some planning
+- 1117 for 2.42 GCD - Some breathing room compared to the one above
+
+- 1523 for 2.38 GCD - Your average Warrior skill speed
+- 1624 for 2.37 GCD - Some breathing room for mechs and clipping
+- 1726 for 2.36 GCD - "Greeding Mechanics" levels of comfy
 
 The difference between 2.43 GCD and 2.38 GCD is a single weapon skill between Inner Releases:
 
-Inner Release’s recast: 90 seconds
-Weapon skill timer: 2.43 seconds or 2.38 seconds
+
+Inner Release’s recast: 90 seconds <br> Weapon skill timer: 2.43 seconds or 2.38 seconds
+
 
 Total amount of Weapon skills per 90 seconds:
 
-90s / 2.43 = 37.037… which translates into 37 full Weapon skills
-90s / 2.38 = 37.815… which translates into 38 full Weapon skills
-
-
-
-Raid Tips and Tricks
-Eden
-http://bit.ly/WAR_E1-4s_tips 
-
-The Epic of Alexander
-http://bit.ly/WAR_TEA_Notes 
-
-VOD of Perfect Alexander opener by Ramza
-https://www.twitch.tv/videos/547866534 
-This opener is optimal assuming you get Stillness first
+90s / 2.43 = 37.037… which translates into 37 full Weapon skills <br> 90s / 2.38 = 37.815… which translates into 38 full Weapon skills
 
 
 
 
+--- 
+
+# Raid Tips and Tricks
+
+## Eden
+
+[http://bit.ly/WAR_E1-4s_tips ](http://bit.ly/WAR_E1-4s_tips)
 
 
+## The Epic of Alexander
+
+[http://bit.ly/WAR_TEA_Notes](http://bit.ly/WAR_TEA_Notes)
 
 
-
-
-
+### VOD of Perfect Alexander opener by Ramza
+[https://www.twitch.tv/videos/547866534](https://www.twitch.tv/videos/547866534) 
+<br> This opener is optimal assuming you get Stillness first
 
 
 
@@ -888,49 +926,79 @@ This opener is optimal assuming you get Stillness first
 
 
 
-Additional Resources
-
-Guides:
-
-Beginner's Tank Guide
-Visit for basics of tanking. 
-
-Paladin Primer v4.58
-Visit for shield wielding tips. 
-
-Gunbreaker Primer v5.00
-Visit for gunpowder blasting tips. 
 
 
-Websites:
-
-The Balance Discord
-Visit for chat and questions. 
-
-TheoryJerks/AkhMorning
-Visit for stat intervals and formulas. 
 
 
-Miscellaneous:
 
-How do Macros work?
+
+
+
+
+
+
+
+--- 
+
+# Additional Resources
+
+
+## Guides:
+
+[Beginner's Tank Guide](https://docs.google.com/document/d/1cLIQbPzzWg-IWxo_Myom-_9aSqf7xO4vxmhk6QaLPkM)
+<br> Visit for basics of tanking. 
+
+
+[Paladin Primer v4.58](https://docs.google.com/document/d/1JY2t2GvNaNnQhZ5Isp-HIso2JgGMY6WXk5IGAY2v8AU)
+<br> Visit for shield wielding tips. 
+
+
+[Gunbreaker Primer v5.00](https://docs.google.com/document/d/1gfsMbHP55N5e0UKyc9zfpAdL_uVco40YdBlVNGvyJ0k)
+<br> Visit for gunpowder blasting tips. 
+
+
+
+## Websites:
+
+
+[The Balance Discord](https://discord.gg/thebalanceffxiv)
+<br>Visit for chat and questions. 
+
+
+[TheoryJerks/AkhMorning](http://theoryjerks.akhmorning.com/stats/speed/)
+<br>Visit for stat intervals and formulas. 
+
+
+
+## Miscellaneous:
+
+
+### How do Macros work?
+
 
 Filling up all the slots with repeating lines sort of simulates queuing.
-The real reasoning is that macros read one line per each in-game frame. If the macro tries to execute an action while in animation lock (from another action, for example), it has no effect.
+The real reasoning is that *macros read one line per each in-game frame.* If the macro tries to execute an action while in animation lock (from another action, for example), it has no effect.
 
-Frame 1: /merror off
-Frame 2: /ac "Nascent Flash" <2>
-Frame 3: /ac "Nascent Flash" <2>
-Frame N: ...
+
+- Frame 1: /merror off
+- Frame 2: /ac "Nascent Flash" <2>
+- Frame 3: /ac "Nascent Flash" <2>
+- Frame N: ...
+
 
 So when you repeat the action inside the macro, you stretch the action activation window. Instead of a macro that has a single frame where it attempts to use an action, you have a macro with 13 frames of attempts. This gets around the issue of "Animation Lock vs Macros" where you might not be able to use a skill because of the Animation Lock.
 
+
 Macro targets:
-https://ffxiv.consolegameswiki.com/wiki/Macro#Targeting_Placeholders 
+[https://ffxiv.consolegameswiki.com/wiki/Macro#Targeting_Placeholders](https://ffxiv.consolegameswiki.com/wiki/Macro#Targeting_Placeholders)
 
-Acknowledgment
 
-Authors:
+--- 
+
+# Acknowledgment
+
+
+## Authors:
 
 Mox Xinmagar 	(Mox#0007)
 
@@ -941,13 +1009,14 @@ Sizzy Twintails	(Sizouney#4484)
 
 
 
-Special thanks to:
+
+## Special thanks to:
 
 Levi			(Alevia#1270)
-For Warrior blobs. Visit Levi’s Discord for more!
+For Warrior blobs. Visit [Levi’s Discord](https://discord.gg/hvN7JHA) for more!
 
 Aletin Ves’ser 	(Aletin#3164)
-For the PLD guide that was cloned, slaughtered and modified to make this guide.
+For the [PLD guide](https://docs.google.com/document/d/1JY2t2GvNaNnQhZ5Isp-HIso2JgGMY6WXk5IGAY2v8AU) that was cloned, slaughtered and modified to make this guide.
 
 Sierra Lindfeldt 	(kat#0069)
 For the original layout of GNB guide which had its contents gutted multiple times.
@@ -958,46 +1027,49 @@ For the original layout of GNB guide which had its contents gutted multiple time
 
 
 
-Changelog
+
+--- 
+
+# Changelog
 
 
-2019-07-04 
-Initial Release for 5.0
-2019-07-05
-Colorful
-2019-07-06
-Public Release for The Balance
-2019-07-08
-Updates for Visuals, Job overview, Abilities Overview, Opener Optimization, Additional Resources, Acknowledgment sections
-2019-07-09
-SkS tiers, BiS, Low Blow, Equilibrium edits
-2019-07-11
-Updated Enmity Table
-2019-07-13
-Added a note about side/rear hits no longer critting under Raw Intuition. Added a note about Nascent Flash being a 40k+ heal.
-2019-07-14
-Added the AoE table back
-2019-07-15
-Raid Tips and Tricks for Trials. Simplified AoE table.
-2019-07-31
-Changed the Meld priorities and some wording. Added BIS for E1-4s.
-2019-08-01
-BIS lists adjusted.
-2019-09-11
-More BIS list adjustments, melding priority fixes (removed the Det-heavy priority)
-2019-11-22
-Added a section for Nascent Flash vs Raw Intuition
-2019-12-11
-Fixed some typos and brainfarts
-2020-02-19
-Added a BLURB for the looping rotation. Big explanation about 1-2-3 path phases. Also adjusted some Onslaught text to answer questions like “When should I use it?”
-2020-07-06
-Added IC IR IC IC opener and a bit about EpppEpppE rotato.
-2020-07-18
-Fixed some skill descriptions FINALLY (Holm, Raw, Veng)
-2020-08-13
-Some Patch 5.30 shenanigans. Didn’t fix the rotation yet.
-2020-11-27
-Fixed things for Patch 5.3 shenanigans. Lots of changes
-2021-08-14
-We still good!
+- 2019-07-04 
+  - Initial Release for 5.0
+- 2019-07-05
+  - Colorful
+- 2019-07-06
+  - Public Release for The Balance
+- 2019-07-08
+  - Updates for Visuals, Job overview, Abilities Overview, Opener Optimization, Additional Resources, Acknowledgment sections
+- 2019-07-09
+  - SkS tiers, BiS, Low Blow, Equilibrium edits
+- 2019-07-11
+  - Updated Enmity Table
+- 2019-07-13
+  - Added a note about side/rear hits no longer critting under Raw Intuition. Added a note about Nascent Flash being a 40k+ heal.
+- 2019-07-14
+  - Added the AoE table back
+- 2019-07-15
+  - Raid Tips and Tricks for Trials. Simplified AoE table.
+- 2019-07-31
+  - Changed the Meld priorities and some wording. Added BIS for E1-4s.
+- 2019-08-01
+  - BIS lists adjusted.
+- 2019-09-11
+  - More BIS list adjustments, melding priority fixes (removed the Det-heavy priority)
+- 2019-11-22
+  - Added a section for Nascent Flash vs Raw Intuition
+- 2019-12-11
+  - Fixed some typos and brainfarts
+- 2020-02-19
+   - Added a BLURB for the looping rotation. Big explanation about 1-2-3 path phases. Also adjusted some Onslaught text to answer questions like “When should I use it?”
+- 2020-07-06
+ - Added IC IR IC IC opener and a bit about EpppEpppE rotato.
+- 2020-07-18
+  - Fixed some skill descriptions FINALLY (Holm, Raw, Veng)
+- 2020-08-13
+  - Some Patch 5.30 shenanigans. Didn’t fix the rotation yet.
+- 2020-11-27
+  - Fixed things for Patch 5.3 shenanigans. Lots of changes
+- 2021-08-14
+  - We still good!
