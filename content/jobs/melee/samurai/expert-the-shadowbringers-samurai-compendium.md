@@ -113,12 +113,17 @@ Therefore, a **base** cyclical 60 second rotation with 28 GCDs would look someth
 ### Opener / Burst Phase
 
 
+
+![Opener/burst](https://cdn.discordapp.com/attachments/752334526449057853/884902545238130738/unknown.png)
+
 ### Cooldown Phase
 
 
 
 
+![cooldown phase](https://cdn.discordapp.com/attachments/752334526449057853/884902579371376680/unknown.png)
 
+![cooldown table](https://cdn.discordapp.com/attachments/752334526449057853/884902781109022782/unknown.png)
 The sequence of 28 GCDs can be repeated infinitely and, as described above, will maintain 60.21 seconds between each cycles Tsubame, Meikyo and Higanbana applications when performed with 2.15 GCD.
 
 
@@ -133,12 +138,13 @@ Yukikaze Combo, when examined in a vacuum, is slightly weaker than Gekko or Kash
 
 
 
-Potency-per-GCD Comparison for Yukikaze and Gekko/Kasha combos.
+![Potency-per-GCD Comparison for Yukikaze and Gekko/Kasha combos.](https://cdn.discordapp.com/attachments/752334526449057853/884902896284602458/unknown.png)
+<br>*Potency-per-GCD Comparison for Yukikaze and Gekko/Kasha combos.*
 
 
 
-
-Potency-per-GCD Comparison for Yukikaze and Gekko/Kasha combos with the raw value of 1 Sen included. 
+![Potency-per-GCD Comparison for Yukikaze and Gekko/Kasha combos with the raw value of 1 Sen included.](https://cdn.discordapp.com/attachments/752334526449057853/884902916366954556/unknown.png)
+<br>*Potency-per-GCD Comparison for Yukikaze and Gekko/Kasha combos with the raw value of 1 Sen included.*
 
 
 This means you’ll want to prioritise Yukikaze in most cases where we’re given the option, including;
@@ -264,6 +270,8 @@ For example, when going from 2.15 GCD to 2.07 GCD  we need an additional filler 
 The difference between option 2 and 3 effectively boils down to the difference between the following 2 sets of GCDs which I have laid out with effective potencies so that we can see the difference.
 
 
+
+![Gekko Filler](https://cdn.discordapp.com/attachments/752334526449057853/884903296513499158/unknown.png)
 
 Gekko filler wins!
 
@@ -407,6 +415,7 @@ Each line is a GCD. Yellow numbers indicate where total damage at that GCD is eq
 
 
 
+![Is Kaehi: Higibana Worth Using?](https://cdn.discordapp.com/attachments/752334526449057853/884903581537427466/unknown.png)
 
 --- 
 
