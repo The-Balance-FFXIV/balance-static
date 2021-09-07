@@ -295,11 +295,11 @@ Here’s a brief display of raid buffs which will affect your damage. Plan your 
 - Brotherhood(MNK) - 5% Physical Damage, 15s duration, 90s CD
 
 As you can tell, not everything will line up perfectly, but there are some windows you can focus on for pooling mana and blood effectively to increase damage output.
-Opener (10-15s) - Openers will be listed in a future section, but are designed around maximizing all buffs, potions, and setting you up for success.
-(60s) Trick Attack window - Flat 10% increase 10s, every minute. This should land 4 GCDs at a minimum, and ideally 4 E/FoS, Abyssal Drain, Carve and Spit, and 2 Plunges. 
-(90s) Brotherhood - As it is only 5%, our focus can be spent here, however in 30s, Trick Attack will be back.
-(2m) “Second” opener - Trick, Embolden, Technical Finish, Divination, and Chain Stratagem will be active for this window.
-(3m) - Trick, Battle Voice, Battle Litany, Brotherhood, Devotion.
+1. Opener (10-15s) - Openers will be listed in a future section, but are designed around maximizing all buffs, potions, and setting you up for success.
+2. (60s) Trick Attack window - Flat 10% increase 10s, every minute. This should land 4 GCDs at a minimum, and ideally 4 E/FoS, Abyssal Drain, Carve and Spit, and 2 Plunges. 
+3. (90s) Brotherhood - As it is only 5%, our focus can be spent here, however in 30s, Trick Attack will be back.
+4. (2m) “Second” opener - Trick, Embolden, Technical Finish, Divination, and Chain Stratagem will be active for this window.
+5. (3m) - Trick, Battle Voice, Battle Litany, Brotherhood, Devotion.
 
 
 
@@ -307,15 +307,28 @@ Opener (10-15s) - Openers will be listed in a future section, but are designed a
 --- 
 
 # Part 5: Openers and Substats
-Openers (updated 08/08/19)
+
+## Openers (updated 08/08/19)
+
 The opener listed here is fairly good for all content currently, however, you may wish to alter your opener to the fight and your raid buffs. This Tank Opener Calculator is designed to help you alter your opener as you see fit, with options for pull timings, buff timings, and different raid groups.
-This opener is designed around two concepts - Maximizing the use of Living Shadow, and maximizing the Trick Attack windows (In this image, it is active at 10.62 seconds). Note - this image has not been updated for 5.2 Ninja, but Living Shadow activation is the same. 
+
+![Opener](https://cdn.discordapp.com/attachments/752334526449057853/884871728298336256/unknown.png)
+![opener text](https://cdn.discordapp.com/attachments/752334526449057853/884871913523007508/unknown.png)
+
+This opener is designed around two concepts - Maximizing the use of Living Shadow, and maximizing the Trick Attack windows (In this image, it is active at 10.62 seconds). **Note - this image has not been updated for 5.2 Ninja, but Living Shadow activation is the same.** 
+
 Living Shadow requiring 6 seconds of “setup” means that we have to activate it as close to 5 seconds on the pull as possible. The only way to do this is to get 50 blood in 3 GCDs - which is only possible with the setup listed in these images. Ideally, this means that LS will get up to 4 hits in Trick Attack, and all of its initial physical damaging abilities will get the best use of Embolden, etc.
+
 The secondary concept is the proper utilization of Trick Attack. As Dark Knight is now a class centered around the 60 second window, it is important that we make the most of it, and utilize our own skills to maximize output. The opener listed attempts to alleviate some of the burden of future alignment with Trick Attack specifically.
+
 As we have three different cooldowns which focus on the 60s cooldown, we have to finagle our skills as best as we can in order to ensure they will continue to line up in future buff windows, and not only the opener.
+
 Carve and Spit should be your primary goal in Trick alignment throughout the fight. Plunge and Abyssal are secondary - if you need to drop one from a window, then by all means, they should be the first to go. In this opener image, the initial Plunge has been shifted to the left of Trick Attack in order to allow for (less) mana overcapping in the opener. There will be a tick or two stray, but it’s much better to lose the extra 20~potency on Plunge, over a portion of a future Edge cast.
+
 In the near future I’ll add additional openers to this list - Optimized Main Tank openers, Single weave/High Ping openers, and other options. For now, this opener proves to be the most universally optimal. If Main Tanking, simply throw a provoke before the Blood Weapon.
+
 Currently, with only primals and dungeon content, it may prove tricky to get your TBN to pop successfully. The adjustments on the right table should allow you to do similar DPS in most standard compositions.
+
 
 Salted earth is moved earlier to allow for Edge of Shadow usage to prevent overcapping, as well as land in potentially more buffs within our opener window. The overall difference is minimal, so you shouldn’t have to worry too much about your opener lagging behind.
 
@@ -330,11 +343,18 @@ Salted earth is moved earlier to allow for Edge of Shadow usage to prevent overc
 
 
 
-5.05 BiS
-If you wish to see what your current gear can do for your personal DPS, this Tank DPS Calculator tool will be able to help you with any gear or melding decisions. 
-All sets are simulated with NIN/DRG, BRD, SMN, WHM/SCH. Different party compositions may have different effects on gearing options.
-Maximum DPS set - Credits to Layla Bell and Raffter Senpai for this build
-https://ffxiv.ariyala.com/1A7T8		AVG DPS - 9856.73 / 300s
+
+![spreadsheet](https://cdn.discordapp.com/attachments/752334526449057853/884872133459726376/unknown.png)
+![spreadsheet 2](https://cdn.discordapp.com/attachments/752334526449057853/884872172831649792/unknown.png)
+
+## 5.05 BiS
+
+If you wish to see what your current gear can do for your personal DPS, [this Tank DPS Calculator tool](https://bit.ly/2Xw6F6G) will be able to help you with any gear or melding decisions. 
+- All sets are simulated with NIN/DRG, BRD, SMN, WHM/SCH. Different party compositions may have different effects on gearing options.
+
+### Maximum DPS set - Credits to Layla Bell and Raffter Senpai for this build
+[https://ffxiv.ariyala.com/1A7T8](https://ffxiv.ariyala.com/1A7T8) <br>**AVG DPS - 9856.73 / 300s**
+
 This set will be your goto for all gearing options. This set is built slow, running at a 2.43 speed, which may be tricky for some for Delirium, and more notably Blood Weapon. If it’s tricky for you, you can do a number of things in order to augment your GCD tier. 
 Swap the chestpiece - If you remove the SKS melds from the weapon, you’ll drop down to 2.40, a very comfy GCD for universal use on Gunbreaker as well as Dark Knight. 
 Couple the above change with keeping the SKS melds, and using Popoto Salad, landing you in the 2.38 GCD tier which would be more comfortable for the faster build Paladins, and Warriors alike.
