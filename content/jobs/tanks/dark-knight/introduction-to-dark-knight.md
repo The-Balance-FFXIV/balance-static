@@ -1,64 +1,75 @@
 ---
 title: Introduction to Dark Knight
 ---
-Introduction to Dark Knight
-the useless pre-Endwalker guide by nikroulah#1605
+# Introduction to Dark Knight
+## the useless pre-Endwalker guide by nikroulah#1605
 
 
-Introduction
 
-Skills and Abilities Overview
+--- 
 
-Tank Stance
+- [Introduction](#introduction)
+- [Skills and Abilities Overview](#skills-and-abilities-overview)
 
-Single Target GCDs
+  - [Tank Stance](#tank-stance)
 
-Abilities (oGCDs)
+  - [Single Target GCDs]
 
-Buffs
+  - [Abilities (oGCDs)]
 
-Offensive
+    - [Buffs]
 
-Defensive or Utility
+    - [Offensive]
 
-AoE
+    - [Defensive or Utility]
 
-Other Actions (Infrequently Used)
+  - [AoE]
 
-Opener
+  - [Other Actions (Infrequently Used)]
 
-Rotation
+- [Opener]
 
-Using Blood Weapon and Delirium
+- [Rotation]
 
-Pooling Resources for Raid Buffs
+  - [Using Blood Weapon and Delirium]
 
-Helpful Macros
+  - [Pooling Resources for Raid Buffs]
 
-Stats and Itemization
+- [Helpful Macros]
 
-Choosing your skill speed
+- [Stats and Itemization]
 
-Dungeons
+  - [Choosing your skill speed]
 
-Frequently Asked Questions
+- [Dungeons]
 
-Advanced Gameplay
+- [Frequently Asked Questions]
 
-Optimizing Raid Buffs Further
+- [Advanced Gameplay]
 
-Alternative Opener -- 3rd GCD Delirium
+  - [Optimizing Raid Buffs Further]
 
-Fight-specific optimization
+  - [Alternative Opener - 3rd GCD Delirium]
 
-Introduction
+  - [Fight-specific optimization]
+
+
+--- 
+
+# Introduction
+
 Dark Knight (DRK) is one of the 4 tanks available in Final Fantasy XIV: Shadowbringers. Its rotation features large bursts of damage, accompanied by spikes in APM and requires managing both MP and a Blood Gauge, putting many hard-hitting attacks into party raid buff windows. It also has access to one of the most powerful single-target mitigation abilities available in The Blackest Night (TBN).
 
 
 The purpose of this guide is to give an overview of Dark Knight’s abilities and to allow you to hit the ground running when picking up Dark Knight, as well as giving a peek into optimization in high-end content.
 
-Skills and Abilities Overview
-Tank Stance
+
+--- 
+
+# Skills and Abilities Overview
+
+
+## Tank Stance
 Grit
 
 
