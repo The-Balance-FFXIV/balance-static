@@ -278,7 +278,7 @@ This increases the amount of healing from healing spells (GCDs only) done by tho
 
 This ability doesn’t buff many heals in the SCH’s kit, but is very useful for buffing your cohealers GCD heals, and it will buff your Fairy’s auto heal, Embrace or Seraphic Veil. Communicate the best usages of Fey Illumination with your team to maximize its benefit. It can be stacked with other heal increases such as Mantra for a multiplicatively powerful shield or regen. Under high pressure of lethal AOE damage, this ability will be very useful to boost your succor or adloquium values, while also providing a small amount of additional mitigation.
 
-![SeraphicVeil](/img/jobs/healers/scholar/SeraphicVeil.png)
+![SeraphicVeil](/img/jobs/healers/scholar/Seraphic_Veil.png)
 **Seraphic Veil**
 
 Seraphic Veil replaces Embrace when Seraph is active. It is a 200 potency heal with a shield that equals the amount healed. Due to pet potency, the actual value of the heal is around 128. This means that the total combined potency per Seraphic Veil is 256. The shield from this spell does stack with Galvanize and Catalyze but NOT with Consolation. 
