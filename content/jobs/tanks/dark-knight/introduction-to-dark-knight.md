@@ -160,45 +160,38 @@ By using Delirium *late into the GCD* (just before the next GCD), it is possible
 <br>Ticks once on placement and also independently 5 times on a 3s timer
 
 
-
+![Carve and Spit](https://xivapi.com/i/003000/003058.png)
 #### Carve and Spit
 
 
 
 450 potency • 60s cooldown
+<br>+600 MP
 
-+600 MP
 
-
+![Plunge](https://xivapi.com/i/003000/003061.png)
 #### Plunge
 
 
 
 200 potency • 2 charges
-
-30s charge time
+<br>30s charge time
 
 
 
 ### Defensive or Utility
 
+![Blackest Night](https://xivapi.com/i/003000/003081.png)
 #### The Blackest Night
 
 
 
 Shield: 25% target’s max. HP
-
-7s duration • 15s cooldown
-
-Costs 3000 MP
-
-Can be used on self or a party member
-
-
-Grants *Dark Arts* when shield breaks
-
-
-*Dark Arts* - Next use of Edge of Shadow or Flood of Shadow is free (lasts until used)
+<br>7s duration • 15s cooldown
+<Br>Costs 3000 MP
+<br>Can be used on self or a party member
+<br>Grants *Dark Arts* when shield breaks
+<br>*Dark Arts* - Next use of Edge of Shadow or Flood of Shadow is free (lasts until used)
 
 
 
@@ -206,46 +199,45 @@ Grants *Dark Arts* when shield breaks
 
 
 
+![Reprisal](https://xivapi.com/i/000000/000806.png)
 #### Reprisal
 
 
 
 10% damage down to nearby enemies
-
-10s duration • 60s cooldown
-
+<br>10s duration • 60s cooldown
 
 
+
+![Dark Missionary](https://xivapi.com/i/003000/003087.png)
 #### Dark Missionary
 
 
 
 10% magic damage reduction to party
-
-15s duration • 90s cooldown
+<br>15s duration • 90s cooldown
 
 ### Personal
 
 
 
+![Rampart](https://xivapi.com/i/000000/000801.png)
 #### Rampart
 
 
 
 20% damage reduction
-
-20s duration • 90s cooldown
-
+<br>20s duration • 90s cooldown
 
 
+
+![Shadow Wall](https://xivapi.com/i/003000/003075.png)
 #### Shadow Wall
 
 
 
 30% damage reduction
-
-15s duration • 120s cooldown
-
+<br>15s duration • 120s cooldown
 
 
 
@@ -256,26 +248,25 @@ Grants *Dark Arts* when shield breaks
 
 
 
+
+![Dark Mind](https://xivapi.com/i/003000/003076.png)
 #### Dark Mind
 
 
 
 20% magic damage reduction
-
-10s duration • 60s cooldown
-
+<br>10s duration • 60s cooldown
 
 
+
+![Living Dead](https://xivapi.com/i/003000/003077.png)
 #### Living Dead
 
 
 
 10s duration
-
-If you would die with *Living Dead* active, you instead don’t die and gain *Walking Dead* for 10 seconds.
-
-
-*Walking Dead* - Can’t be reduced below one HP for the duration. Die after Walking Dead runs out unless healed for 100% of your HP, dispelling Walking Dead.
+<br>If you would die with *Living Dead* active, you instead don’t die and gain *Walking Dead* for 10 seconds.
+<br>*Walking Dead* - Can’t be reduced below one HP for the duration. Die after Walking Dead runs out unless healed for 100% of your HP, dispelling Walking Dead.
 
 
 
@@ -283,44 +274,40 @@ If you would die with *Living Dead* active, you instead don’t die and gain *Wa
 ### Utility
 
 
+![Provoke](https://xivapi.com/i/000000/000803.png)
 #### Provoke
 
 
 
 30s cooldown
-
-
-Instantly gives you top enmity on the target with a significant enmity lead (this enmity lead is affected by Grit)
+<br>Instantly gives you top enmity on the target with a significant enmity lead (this enmity lead is affected by Grit)
 
 
 
+![Shirk](https://xivapi.com/i/000000/000810.png)
 #### Shirk
 
 
 
 120s cooldown
-
-
-Takes 25% of your enmity and gives it to target party member
-
-Affects everything on the enemy list
+<br>Takes 25% of your enmity and gives it to target party member
+<Br>Affects everything on the enemy list
 
 
 
+![Arm's Length](https://xivapi.com/i/000000/000822.png)
 #### Arm’s Length
 
 
 
 6s duration • 120s cooldown
-
-
-Become immune to most knockbacks
-
-Applies a 20% auto-attack and cast slow for 15s to enemies that attack you (resisted by most bosses)
+<br>Become immune to most knockbacks
+<br>Applies a 20% auto-attack and cast slow for 15s to enemies that attack you (resisted by most bosses)
 
 
 ## AoE
 
+![Unleash](https://xivapi.com/i/003000/003063.png) ![Stalwart Soul](https://xivapi.com/i/003000/003084.png)
 ### Stalwart Soul Combo (GCD)
 
 
@@ -334,12 +321,12 @@ Applies a 20% auto-attack and cast slow for 15s to enemies that attack you (resi
 - Replaces Souleater combo at 2+ enemies
 
 
+![Quietus](https://xivapi.com/i/003000/003079.png)
 ### Quietus (GCD)
 
 
 
 210 potency
-
 - Circle AoE centered on self
 
 
@@ -349,6 +336,7 @@ Applies a 20% auto-attack and cast slow for 15s to enemies that attack you (resi
 
 
 
+![Flood of Shadow](https://xivapi.com/i/003000/003085.png)
 ### Flood of Shadow (oGCD, upgrades from Flood of Darkness)
 
 
@@ -366,46 +354,39 @@ Applies a 20% auto-attack and cast slow for 15s to enemies that attack you (resi
 ## Other Actions (Infrequently Used)
 
 
+![Unmend](https://xivapi.com/i/003000/003062.png)
 ### Unmend (GCD)
-
-
-
 150 potency
-
-5x enmity multiplier
-
-Ranged attack
+<br>5x enmity multiplier
+<br>Ranged attack
 
 
 
+![Low Blow](https://xivapi.com/i/000000/000802.png)
 ### Low Blow (oGCD)
 
 
 
 25s cooldown
+<BR>5s stun
 
-5s stun
 
-
+![Interject](https://xivapi.com/i/000000/000808.png)
 ### Interject (oGCD)
 
 
 
 30s cooldown
+<br>Interrupts target’s action
+<br>Interruptible actions are denoted by red flashing castbars
 
 
-Interrupts target’s action
-
-
-Interruptible actions are denoted by red flashing castbars
-
-
-  Normal castbar:
+  Normal castbar: ![Castbar](https://cdn.discordapp.com/attachments/752334526449057853/884898838979154030/unknown.png)
 
 
 
 
-  Interruptible castbar:
+  Interruptible castbar: ![Interruptable Castbar](https://cdn.discordapp.com/attachments/752334526449057853/884898862895071242/unknown.png)
 
 
 
