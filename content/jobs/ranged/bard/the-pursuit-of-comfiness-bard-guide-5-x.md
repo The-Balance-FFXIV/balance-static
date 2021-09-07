@@ -2,6 +2,7 @@
 title: The Pursuit of Comfiness - Bard Guide 5.X
 ---
 
+
 # The Pursuit of Comfiness - Bard Guide 5.X
 ## by Verzell Varion [Adamantoise]
 ### with contributions from Im’hotep Rah [Goblin], Sana Cetonis [Sargatanas], Ellunavi Sevald [Sargatanas], Yumiya Nagatsuki [Behemoth], Elya Kura [Ragnarok]
@@ -102,497 +103,606 @@ If you’re an experienced Bard, or looking for optimization advice…
 
 ---
 
-Glossary
-AA/Apex
-Apex Arrow
-AP
-Army’s Paeon
-BL
-Bloodletter
-BS
-Burst Shot
-BV
-Battle Voice
-CB
-Caustic Bite
-DoT
-Damage over Time (for Bard, inflicted by Caustic Bite and Stormbite)
-EA
-Empyreal Arrow
-GCD
-Global Cooldown (for Bard, this means Weaponskills)
-IJ
-Iron Jaws
-MB
-Mage’s Ballad
-oGCD
-off-Global Cooldown (for Bard, this means Abilities and Spells)
-PP
-Pitch Perfect
-Proc
-Originally short for “special process”, it’s an MMO term that refers to events with a random chance of happening. For Bard, this means Straight Shot Ready and Repertoire.
-RA
-Refulgent Arrow
-RoD
-Rain of Death
-RS
-Raging Strikes
-QN
-Quick Nock
-SB
-Stormbite
-Snap
-Short for snapshot, refers to capturing buffs onto DoTs using Iron Jaws.
-SW
-Sidewinder
-Troub
-Troubadour
-Weave
-Using oGCDs in between GCDs. Using two of them in a single window is called double weaving.
-WM
-Wanderer’s Minuet
+# Glossary
 
-Basic Gameplay
-The three most characteristic qualities of Bard gameplay are that it uses a priority system, it’s reactive, and it’s flexible. I’ll explain what those mean:
-
-Priority system: In FFXIV, there are some classes which have very static rotations. What that means is that you can map out exactly when to press buttons over a couple-minute duration, and the rotation is just a loop of that exact sequence. Bard is the exact opposite of those classes. Its different skills are loosely interconnected, rather than strictly ordered like combo-based classes. In fact, Bard has no GCD combos at all! Instead, as a Bard, you’ll be managing uptime on songs and damage over time skills while responding to procs. This also means you can learn Bard in steps. I’ve heard Bard described as an onion, with layers of complexity.
+| | |
+|---|---|
+| AA/Apex | Apex Arrow |
+|AP|Army’s Paeon|
+|BL|Bloodletter|
+|BS|Burst Shot|
+|BV | Battle Voice |
+| CB | Caustic Bite |
+| DoT | Damage over Time (for Bard, inflicted by Caustic Bite and Stormbite) | 
+| EA | Empyreal Arrow|
+| GCD | Global Cooldown (for Bard, this means Weaponskills)|
+| IJ | Iron Jaws|
+| MB | Mage’s Ballad
+|oGCD|off-Global Cooldown (for Bard, this means Abilities and Spells)
+|PP|Pitch Perfect
+|Proc|Originally short for “special process”, it’s an MMO term that refers to events with a random chance of happening. For Bard, this means Straight Shot Ready and Repertoire.
+RA | Refulgent Arrow
+RoD | Rain of Death
+RS | Raging Strikes
+QN | Quick Nock
+SB | Stormbite
+Snap | Short for snapshot, refers to capturing buffs onto DoTs using Iron Jaws.
+SW | Sidewinder
+Troub | Troubadour
+Weave | Using oGCDs in between GCDs. Using two of them in a single window is called double weaving.
+WM | Wanderer’s Minuet
 
 
-Reactive play: Arguably more than any other class (only Dancer and Black Mage are even in the question), Bard’s priority system is heavily shaped by RNG. It’s one of the classes that makes the most choices during the fight. Even on the same fight, every pull will feel just a bit different.
 
 
-Flexibility: There are really few hard and fast rules of Bard gameplay. As you gain expertise, you’ll get a better sense of what guidelines/priorities you can break. The priority system can be molded to fit fights with adds phases, downtime, etc. as needed.
+---
+
+# Basic Gameplay
+
+The three most characteristic qualities of Bard gameplay are that it uses a **priority system**, it’s **reactive**, and it’s **flexible**. I’ll explain what those mean:
+
+
+- **Priority system:** In FFXIV, there are some classes which have very static rotations. What that means is that you can map out exactly when to press buttons over a couple-minute duration, and the rotation is just a loop of that exact sequence. Bard is the *exact opposite* of those classes. Its different skills are loosely interconnected, rather than strictly ordered like combo-based classes. In fact, Bard has no GCD combos at all! Instead, as a Bard, you’ll be managing uptime on songs and damage over time skills while responding to procs. This also means you can learn Bard in steps. I’ve heard Bard described as an onion, with layers of complexity.
+
+
+
+- **Reactive play:** Arguably more than any other class (only Dancer and Black Mage are even in the question), Bard’s priority system is heavily shaped by RNG. It’s one of the classes that makes the most choices during the fight. Even on the same fight, every pull will feel just a bit different.
+
+
+
+- **Flexibility:** There are really few hard and fast rules of Bard gameplay. As you gain expertise, you’ll get a better sense of what guidelines/priorities you can break. The priority system can be molded to fit fights with adds phases, downtime, etc. as needed.
 
 This section will cover the basics of playing Bard on a single-target fight.
-Priority System Overview
-If this seems daunting, don’t worry about taking it in all at once! Bard is meant to be learned in steps, which are explained below. You can think of this more like a cheatsheet. These are not hard and fast rules! It’s a general guide.
 
+## Priority System Overview
 
-GCD Priority - keep your GCD rolling!
-
-DoTs not up? If not, Stormbite → Caustic Bite. 
-DoTs about to run out (<3s left)? Iron Jaws.
-Apex Arrow gauge maxed? Use it.
-Straight Shot Ready? Refulgent Arrow.
-GCD up, and nothing else to do? Burst Shot.
+If this seems daunting, don’t worry about taking it in all at once! Bard is meant to be learned in steps, which are explained below. You can think of this more like a cheatsheet. **These are not hard and fast rules!** It’s a general guide.
 
 
 
-oGCD Priority - do between GCDs
+### GCD Priority - keep your GCD rolling!
 
-Do you have a song playing? If not:
-Wanderer’s Minuet.
-WM on cooldown? Mage’s Ballad.
-WM and MB on cooldown? Army’s Paeon.
-Pitch Perfect at 3 stacks? Use it.
-Bloodletter up in Mage’s Ballad? Use it.
-Empyreal Arrow up? Use it, and be ready to weave a proc.
-Bloodletter up? Use it.
-In Wanderer’s Minuet? Use Raging Strikes.
-In Raging Strikes, Barrage up, and not Straight Shot Ready? Use Barrage.
-Sidewinder up? Use it.
-Always Be Casting + Basics of Weaving 
+1. DoTs not up? If not, **Stormbite → Caustic Bite**. 
+2. DoTs about to run out (<3s left)? **Iron Jaws**.
+3. **Apex Arrow** gauge maxed? Use it.
+4. Straight Shot Ready? **Refulgent Arrow**.
+5. GCD up, and nothing else to do? **Burst Shot**.
+
+
+
+
+### oGCD Priority - do between GCDs
+
+6. Do you have a song playing? If not:
+   - **Wanderer’s Minuet.**
+   - WM on cooldown? **Mage’s Ballad.**
+   - WM and MB on cooldown? **Army’s Paeon.**
+7. **Pitch Perfect** at 3 stacks? Use it.
+8. **Bloodletter** up in **Mage’s Ballad**? Use it.
+9. **Empyreal Arrow** up? Use it, and be ready to weave a proc.
+10. **Bloodletter** up? Use it.
+11. In Wanderer’s Minuet? Use **Raging Strikes**.
+12. In **Raging Strikes**, **Barrage** up, and not Straight Shot Ready? Use Barrage.
+13. **Sidewinder** up? Use it.
+
+## Always Be Casting + Basics of Weaving 
+
 One of the strictest rules of Bard is also one of the most important rules of playing FFXIV classes well in general. Always be casting! Pressing buttons in the wrong order is usually better than pressing nothing. This is doubly true on Bard, which doesn’t have combos and instead has a powerful filler GCD in the form of Burst Shot!
 
-GCD stands for Global Cooldown, and refers to weaponskills. For Bard, all these skills share the same cooldown, which is 2.5s and drops as you acquire Skill Speed. Bard’s skills do not have cast times, so in between using GCDs, you can usually use 1 or 2 oGCDs (off-GCDs), which are skills that are not weaponskills. This is called weaving.
 
-It’s important to keep your GCD rolling. If a GCD is available, you should be pressing something, and you should avoid pressing oGCDs if your GCD is about to come up in <0.7 seconds. This is called clipping, and you’ll notice it because even if you mash your GCD after, it won’t be used immediately when it comes off of cooldown. Using more than 2 oGCDs between two GCDs will almost always cause clipping.  Don’t do it.  Depending on how good your internet is, you may not even be able to use 2 during Army’s Paeon or Army’s Muse, so in these cases you should generally pick the lower priority oGCD and delay it.
+**GCD** stands for Global Cooldown, and refers to weaponskills. For Bard, all these skills share the same cooldown, which is 2.5s and drops as you acquire Skill Speed. Bard’s skills do not have cast times, so in between using GCDs, you can usually use 1 or 2 **oGCDs** (off-GCDs), which are skills that are not weaponskills. This is called **weaving**.
 
-Your filler GCDs, which you press if you don’t need to use any other GCDs, are Burst Shot (BS) and Refulgent Arrow (RA). Use RA if you have Straight Shot Ready, and BS if not.
-DoTs 
-Just about everything else in Bard’s kit is built on top of your two damage over time skills.  These two are Stormbite (SB) and Caustic Bite (CB).  Together, they contribute a major amount of Bard’s damage, in addition to unlocking the song procs (foreshadowing!)  Against a single target enemy, it’s almost always best to have both always up.  Most of the time, you will lead off on targets with SB into CB.
 
-After initially applying DoTs to an enemy, instead of manually reapplying them, use Iron Jaws (IJ) to refresh the timer as it gets low (<3s or so).  Even though IJ seems weaker, it only costs 1 GCD.  IJ → BS is stronger than SB → CB.
+It’s important to keep your GCD rolling. If a GCD is available, you should be pressing something, and you should avoid pressing oGCDs if your GCD is about to come up in <0.7 seconds. This is called **clipping**, and you’ll notice it because even if you mash your GCD after, it won’t be used immediately when it comes off of cooldown. Using more than 2 oGCDs between two GCDs will almost always cause clipping.  Don’t do it.  Depending on how good your internet is, you may not even be able to use 2 during Army’s Paeon or Army’s Muse, so in these cases you should generally pick the lower priority oGCD and delay it.
+
+
+Your filler GCDs, which you press if you don’t need to use any other GCDs, are **Burst Shot (BS)** and **Refulgent Arrow (RA)**. Use RA if you have Straight Shot Ready, and BS if not.
+
+
+## DoTs 
+![caustic bite](https://xivapi.com/i/002000/002613.png)
+![iron jaws](https://xivapi.com/i/002000/002608.png)
+![stormbite](https://xivapi.com/i/002000/002614.png)
+
+Just about everything else in Bard’s kit is built on top of your two damage over time skills.  These two are **Stormbite (SB)** and **Caustic Bite (CB)**.  Together, they contribute a major amount of Bard’s damage, in addition to unlocking the song procs (foreshadowing!)  Against a single target enemy, it’s almost always best to have both always up.  Most of the time, you will lead off on targets with SB into CB.
+
+
+After initially applying DoTs to an enemy, instead of manually reapplying them, use **Iron Jaws (IJ)** to refresh the timer as it gets low (<3s or so).  Even though IJ seems weaker, it only costs 1 GCD.  IJ → BS is stronger than SB → CB.
+
 
 One additional thing to know about DoT skills is that the damage over time calculates damage based on the buffs & debuffs on you and the target when the DoTs were applied or reapplied.  So when you use IJ (or SB or CB), the buffs (Raging Strikes, Resistance Up...), and debuffs (Vulnerability Up, Weakness...), both on you and your target get "snapshotted". These snapshotted buffs and debuffs affect the DoTs for their entire duration until they run out or are reapplied. This makes IJ very powerful when you have raid buffs stacked up.
 
+
 Note that all three of these skills can also proc Straight Shot Ready, so be watchful of your buff bar or RA button!
-Song Rotation + Procs 
+
+## Song Rotation + Procs 
+
 Next, we get to the lifeblood of Bard - songs. Bard has 3 songs, which have different effects (Repertoire) that have a 40% chance to trigger every time a DoT deals damage to a target. All DoTs in the game deal damage every 3 seconds, so you have 2 proc chances every 3 seconds on a single target. All song skills and their procs are oGCDs.
 
 
-Wanderer’s Minuet (WM) is the strongest single-target song. It stores up to 3 procs, which can be expended on a powerful oGCD called Pitch Perfect (PP). Use PP only at 3 stacks, unless your WM is about to run out. It plays a noise when it hits 3, so you don’t even have to watch it.
+
+![WM icon](https://xivapi.com/i/002000/002607.png) ![Wanderer's Minuet](https://img.finalfantasyxiv.com/lds/promo/h/2/zIhfAHktEHJDMVyF6loNl0p7Kw.png)
+<BR> **Wanderer’s Minuet (WM)** is the strongest single-target song. It stores up to 3 procs, which can be expended on a powerful oGCD called **Pitch Perfect (PP)**. Use PP only at 3 stacks, unless your WM is about to run out. It plays a noise when it hits 3, so you don’t even have to watch it.
 
 
 
-Mage’s Ballad (MB) is the next-strongest. It doesn’t store anything. Instead, when a proc happens, the cooldown of Bloodletter (BL) is reset. It’s normal to mash BL during MB, but take care not to mash BL when your GCD is coming up, or you will clip!
+
+![mb icon](https://xivapi.com/i/002000/002602.png) ![Mage's Ballad](https://img.finalfantasyxiv.com/lds/promo/h/C/6UAuuGF_bnfRwSST-dCBUBh2Zw.png)
+<BR> **Mage’s Ballad (MB)** is the next-strongest. It doesn’t store anything. Instead, when a proc happens, the cooldown of **Bloodletter (BL)** is reset. It’s normal to mash BL during MB, but take care not to mash BL when your GCD is coming up, or you will clip!
 
 
 
-Army’s Paeon (AP) is the weakest. It stacks up to 4, and as you accumulate stacks, your GCD time speeds up. It also grants a buff when you switch out of it, depending on how many stacks you had.
 
-The order of using songs is WM for 30s → MB for 30s → AP for 20s (cutting it short to begin the next WM). This is the 80s cycle, and is the only part of Bard that you could really call a rotation. Note that starting from the 3rd WM, the cooldown reduction from AP will cause WM to come off cooldown earlier.  You should stay in AP for 20s.  If you use WM the moment it comes off cd, you will end up songless later.  You should always have a song going, as they provide a lot of Bard’s damage.
+![AP icon](https://xivapi.com/i/002000/002603.png) ![army's paeon](https://img.finalfantasyxiv.com/lds/promo/h/0/QnR7fHYkAr_3AQFpbtW0dwhsJk.png)
+<bR> **Army’s Paeon (AP)** is the weakest. It stacks up to 4, and as you accumulate stacks, your GCD time speeds up. It also grants a buff when you switch out of it, depending on how many stacks you had.
 
-Empyreal Arrow (EA) grants a single Repertoire proc. It should be used more or less off cooldown. Note that it can cause clipping, because it may make your other oGCDs available. It’s better to delay EA by a GCD to avoid this, than to clip.
 
-Wanderer’s Minuet + Raging Strikes + Barrage Alignment 
-Barrage is our most powerful single oGCD, transforming our next filler GCD into a triple-damage RA. Raging Strikes (RS) is our only self-buff. WM is our most powerful song. Conveniently, all three have a cooldown of 80 seconds, so we use them all together.
+The order of using songs is **WM for 30s → MB for 30s → AP for 20s** (cutting it short to begin the next WM). This is the **80s cycle**, and is the only part of Bard that you could really call a rotation. 
+**Note that starting from the 3rd WM, the cooldown reduction from AP will cause WM to come off cooldown earlier.  You should stay in AP for 20s.  If you use WM the moment it comes off cd, you will end up songless later.**  You should always have a song going, as they provide a lot of Bard’s damage.
+
+
+![empyreal arrow](https://xivapi.com/i/002000/002606.png)
+<br> **Empyreal Arrow (EA)** grants a single Repertoire proc. It should be used more or less off cooldown. Note that it can cause clipping, because it may make your other oGCDs available. It’s better to delay EA by a GCD to avoid this, than to clip.
+
+
+## Wanderer’s Minuet + Raging Strikes + Barrage Alignment 
+
+![WM icon](https://xivapi.com/i/002000/002607.png) 
+![raging strikes](https://xivapi.com/i/000000/000352.png)
+![barrage](https://xivapi.com/i/000000/000353.png)
+
+**Barrage** is our most powerful single oGCD, transforming our next filler GCD into a triple-damage RA. **Raging Strikes (RS)** is our only self-buff. WM is our most powerful song. Conveniently, all three have a cooldown of 80 seconds, so we use them all together.
+
 
 When entering WM, you should also use RS (more advanced usage is discussed later in the guide). Use Barrage as soon as possible within this window, taking care not to use it when you already have Straight Shot Ready. Note that other single-target GCDs (not Apex Arrow) can consume Barrage, so you have to use RA as your next GCD.
-(watermark: this guide is written by Verzell Varion et al. for The Balance.  If you see it without attribution, it was likely stolen for profit, and you should let me know at infinitestory#6021 on di
-Other Offensive Skills 
-
-Apex Arrow should be used at 100 Soul Voice, or dumped if the fight is imminently ending and you have more than 45 Soul Voice. It will fill every 60 seconds on average if you keep your DoTs and songs up and use EA on cooldown.
-
-Bloodletter (BL) should be used on cooldown when not in MB. Don’t use Rain of Death against a single target.
-
-Sidewinder (SW) should be used on cooldown to maximize uses. Don’t use Shadowbite against a single target. If you have a good Ninja, it will naturally align with Trick Attack after the opener in this guide. Note that DoTs have a bit of a delay before they are counted by Sidewinder and Shadowbite, so wait a moment between using your second DoT and using Sidewinder/Shadowbite.
-
-Battle Voice (BV) should be used on cooldown to maximize uses.
 
 
-Changes from Stormblood
+## Other Offensive Skills 
+
+
+![apex arrow](https://xivapi.com/i/002000/002619.png)
+<br> **Apex Arrow** should be used at 100 Soul Voice, or dumped if the fight is imminently ending and you have more than 45 Soul Voice. It will fill every 60 seconds on average if you keep your DoTs and songs up and use EA on cooldown.
+
+![bloodletter](https://xivapi.com/i/000000/000361.png)
+<br> **Bloodletter (BL)** should be used on cooldown when not in MB. Don’t use Rain of Death against a single target.
+
+
+![sidewinder](https://xivapi.com/i/002000/002610.png)
+<br> **Sidewinder (SW)** should be used on cooldown to maximize uses. Don’t use Shadowbite against a single target. If you have a good Ninja, it will naturally align with Trick Attack after the opener in this guide. Note that DoTs have a bit of a delay before they are counted by Sidewinder and Shadowbite, so wait a moment between using your second DoT and using Sidewinder/Shadowbite.
+
+
+![battle voice](https://xivapi.com/i/002000/002601.png)
+<br> **Battle Voice (BV)** should be used on cooldown to maximize uses.
+
+
+
+---
+
+# Changes from Stormblood
+
 In roughly decreasing order of importance:
 
-The big one. Song procs are no longer dependent on crit, rather having a fixed 40% proc rate per DoT. This means we are no longer thirsty for every possible source of crit. It won’t be nearly as necessary to party with a SCH or DRG, our gear won’t come down to “pick the crit piece”, and it’s much less valuable to snap crit buffs.
+- The big one. **Song procs are no longer dependent on crit**, rather having a fixed 40% proc rate per DoT. This means we are no longer thirsty for every possible source of crit. It won’t be nearly as necessary to party with a SCH or DRG, our gear won’t come down to “pick the crit piece”, and it’s much less valuable to snap crit buffs.
 
 
-Barrage grants a free guaranteed RA proc, so there’s no more need to hold EA for barrage backup. EA should be used on cooldown whenever possible!
+- **Barrage grants a free guaranteed RA proc**, so there’s no more need to hold EA for barrage backup. **EA should be used on cooldown whenever possible!**
 
 
-All single-target GCDs have a 35% chance to proc RA, except for RA itself. This includes SB, CB, IJ, BS. There’s never been a better time to stick a double-size RA button in the center of your screen.
+- All single-target **GCDs have a 35% chance to proc RA**, except for RA itself. This includes SB, CB, IJ, BS. There’s never been a better time to stick a double-size RA button in the center of your screen.
 
 
-The filler GCD has become stronger, with HS → BS being 150 → 240 potency and old RA → new RA being 300 → 340 potency. So the cost of snapping is higher, and it’s much less valuable to double snap. It’s also a bigger loss to clip.
+- The filler GCD has become stronger, with HS → BS being 150 → 240 potency and old RA → new RA being 300 → 340 potency. So **the cost of snapping is higher**, and it’s much less valuable to double snap. It’s also **a bigger loss to clip**.
 
 
-Straight Shot is no longer a self buff, which changes the opener and removes one thing to manage. It’s basically a mini RA now.
+- **Straight Shot is no longer a self buff**, which changes the opener and removes one thing to manage. It’s basically a mini RA now.
 
 
-Apex Arrow has been added. The tooltip is misleading, it only hits 600 potency at max gauge, so it gives 6 potency per gauge spent. As a rule of thumb, use it at max gauge (can be OK to delay or use early 1-2 ticks in order to hit a buff window).
+- Apex Arrow has been added. The tooltip is misleading, it only hits **600 potency at max** gauge, so it gives 6 potency per gauge spent. As a rule of thumb, use it at max gauge (can be OK to delay or use early 1-2 ticks in order to hit a buff window).
 
-Army’s Paeon now grants a lingering speed buff for 10 seconds after switching into the next song. In practice, this is a “flat” bonus that doesn’t scale that hard with how long we’ve spent in AP, so it reinforces the 30-30-20 song cycle that we know and love.
+- Army’s Paeon now grants a lingering speed buff for 10 seconds after switching into the next song. In practice, this is a “flat” bonus that doesn’t scale that hard with how long we’ve spent in AP, so it reinforces the 30-30-20 song cycle that we know and love.
 
 
-EA is no longer a weaponskill, so its cooldown isn’t reduced by SKS or Army’s Paeon.
+- **EA is no longer a weaponskill**, so its cooldown isn’t reduced by SKS or Army’s Paeon.
 
 
-Foe Requiem and Refresh have been removed entirely. :( Battle Voice now gives 20% DH chance, which is a consolation prize.
+- Foe Requiem and Refresh have been removed entirely. :( Battle Voice now gives 20% DH chance, which is a consolation prize.
 
 
-Certain potencies have been updated. BL 130 → 150, RoD 100 → 130, SB (initial use) 120 → 100, SB (dot) 55 → 50, CB (initial use) 120 → 150, CB (dot) 45 → 40, QN 110 → 150, RA 300 → 330, PP2 240 → 250, PP3 420 → 450.
+- Certain potencies have been updated. BL 130 → 150, RoD 100 → 130, SB (initial use) 120 → 100, SB (dot) 55 → 50, CB (initial use) 120 → 150, CB (dot) 45 → 40, QN 110 → 150, RA 300 → 330, PP2 240 → 250, PP3 420 → 450.
 
 
-Troubadour’s duration has been halved to 15s, but now doesn’t require a song and reduces all damage by 10%. Minne’s cooldown has been doubled to 90s, but now affects oGCD healing.
+- Troubadour’s duration has been halved to 15s, but now doesn’t require a song and reduces all damage by 10%. Minne’s cooldown has been doubled to 90s, but now affects oGCD healing.
 
 
-Arm’s Length has been added.
+- Arm’s Length has been added.
 
 
-Lots of new AoE skills and traits, QN can reset BL in any song, AoE sidewinder, Apex Arrow.
+- Lots of new AoE skills and traits, QN can reset BL in any song, AoE sidewinder, Apex Arrow.
 
-Changes during Shadowbringers
-5.1: Song buffs return.  WM gives 2% crit chance, MB gives 1% damage, and AP gives 3% DH chance.  This doesn’t change the song order at all.
 
+---
 
-5.1: Potency adjustments.  RA 340 → 330, SB (dot) 60 → 50, CB (dot) 50 → 40, SW 260 → 300, Apex (max) 500 → 600.
+# Changes during Shadowbringers
 
+- 5.1: Song buffs return.  WM gives 2% crit chance, MB gives 1% damage, and AP gives 3% DH chance.  This doesn’t change the song order at all.
 
-5.1: Troubadour cooldown buffed from 180s to 120s.
 
-5.3: Potency buffs.  SW 300 → 350, RA 330 → 340, BS 230 → 240
+- 5.1: Potency adjustments.  RA 340 → 330, SB (dot) 60 → 50, CB (dot) 50 → 40, SW 260 → 300, Apex (max) 500 → 600.
 
-5.4: Burst Shot potency buff.  BS 240 → 250
 
+- 5.1: Troubadour cooldown buffed from 180s to 120s.
 
-The above changes do not substantially change the gameplay.  Early DoT snapshotting should be a little less aggressive, and Apex use/holding around adds should be more aggressive.
-Opener
-Prepull RS (recommended)
+- 5.3: Potency buffs.  SW 300 → 350, RA 330 → 340, BS 230 → 240
 
-Opener comparison:
+- 5.4: Burst Shot potency buff.  BS 240 → 250
 
-Strongest opener in general.
 
-This opener may not be usable at very high skill speed, since the BL and end-of-song timers will collide with the GCD timer as the first WM ends. It may also not be usable at high ping (see the note about the triple weave). Try it out!
+- The above changes do not substantially change the gameplay.  Early DoT snapshotting should be a little less aggressive, and Apex use/holding around adds should be more aggressive.
 
+--- 
 
-Is slightly harder to pull off.
+# Opener
 
+## Prepull RS (recommended)
 
-Things to note:
 
+![prepull](https://cdn.discordapp.com/attachments/458951851610734595/884943142154014740/unknown.png)
 
-RS should be used prepull (slightly after the 1 appears in the countdown), so that the SB can be used exactly when the countdown hits 0.
+###  Opener comparison:
 
-I recommend delaying the WM by a fraction of a second. At the end of the opener WM, if you have PP stacks and your DoT tick is slightly after the end of WM, you will likely be triple weaving BL PP MB in order to keep song and EA rolling as quickly as possible. You should test and make sure that you can actually pull off the PP in the middle there. If not (likely for ping reasons), you can instead do PP BL and then MB the next GCD. For those that can pull off the BL PP, it has a hidden benefit of letting you use up all your WM stacks even with a last-minute tick.
+- Strongest opener in general.
 
-If you have a potion, use it before RS (a bit before the 2 appears in the countdown)
+- This opener may not be usable at very high skill speed, since the BL and end-of-song timers will collide with the GCD timer as the first WM ends. It may also not be usable at high ping (see the note about the triple weave). Try it out!
 
 
-All Burst Shots are filler. If you get an RA proc, use RA instead of BS.
+- Is slightly harder to pull off.
 
 
-Do not use RA in between SB and CB if you get a RA proc from the SB. Just let it go.
 
+**Things to note**:
 
-If you have an RA proc when it’s time to IJ, you should still IJ. Let the RA proc go.
 
-If you have an RA proc ready when you would be using Barrage, instead use RA → Barrage → SW → RA → BL → IJ → EA etc. Do not use a BS between the Barraged RA and IJ in this case.
+- RS should be used prepull (slightly after the 1 appears in the countdown), so that the SB can be used exactly when the countdown hits 0.
 
-Prioritize getting the 2nd BL on cooldown when it’s available (i.e. if you have a PP3 on that GCD, use the BL first unless you could lose a proc)
+- I recommend delaying the WM by a fraction of a second. At the end of the opener WM, if you have PP stacks and your DoT tick is slightly after the end of WM, you will likely be triple weaving BL PP MB in order to keep song and EA rolling as quickly as possible. You should test and make sure that you can actually pull off the PP in the middle there. If not (likely for ping reasons), you can instead do PP BL and then MB the next GCD. For those that can pull off the BL PP, it has a hidden benefit of letting you use up all your WM stacks even with a last-minute tick.
 
+- If you have a potion, use it before RS (a bit before the 2 appears in the countdown)
 
 
+- All Burst Shots are filler. If you get an RA proc, use RA instead of BS.
 
 
-Barrage timing can be flexibly moved earlier depending on party buffs. It’s important to catch all the raid buffs, but the earlier the better within that window. The timing in the opener is set to catch Brotherhood/Divi, but if you don’t have any buffs that go up that late, it can be done earlier with no harm. The IJ should not be moved earlier unless you have prepull cards, in which case you may need to do it before Barraging. The Barrage and IJ cannot be safely moved later without potentially causing the IJ to fall outside RS.
+- Do not use RA in between SB and CB if you get a RA proc from the SB. Just let it go.
 
 
-Sidewinder cooldown can be moved earlier for the same reasons.  Shift it around to accommodate PP3, BL, and Barrage usage.
+- If you have an RA proc when it’s time to IJ, you should still IJ. Let the RA proc go.
 
+- If you have an RA proc ready when you would be using Barrage, instead use RA → Barrage → SW → RA → BL → IJ → EA etc. Do not use a BS between the Barraged RA and IJ in this case.
 
-Battle Voice cooldown is flexible if the party has classes that burst later.
+- Prioritize getting the 2nd BL on cooldown when it’s available (i.e. if you have a PP3 on that GCD, use the BL first unless you could lose a proc)
 
 
-Prepull RS (ping-friendly)
 
-Opener comparison: 
 
-A prepull opener variant that is a tad weaker, but more compatible with higher SKS and more forgiving on ping.
 
+- Barrage timing can be flexibly moved earlier depending on party buffs. It’s important to catch all the raid buffs, but the earlier the better within that window. The timing in the opener is set to catch Brotherhood/Divi, but if you don’t have any buffs that go up that late, it can be done earlier with no harm. The IJ should not be moved earlier unless you have prepull cards, in which case you may need to do it before Barraging. The Barrage and IJ cannot be safely moved later without potentially causing the IJ to fall outside RS.
 
-More familiar to those who played in Stormblood.
 
+- Sidewinder cooldown can be moved earlier for the same reasons.  Shift it around to accommodate PP3, BL, and Barrage usage.
 
-Things to note:
 
+- Battle Voice cooldown is flexible if the party has classes that burst later.
 
-If you have a potion, use it prepull (a bit before the 2 appears in the countdown).
 
 
-All Burst Shots are filler. If you get an RA proc, use RA instead of BS.
+## Prepull RS (ping-friendly)
 
 
-Do not use RA in between SB and CB if you get a RA proc from the SB. Just let it go.
+![prepull ping friendly](https://cdn.discordapp.com/attachments/458951851610734595/884943576000245820/unknown.png)
 
+### Opener comparison: 
 
-If you have an RA proc when it’s time to IJ, you should still IJ. Let the RA proc go.
+- A prepull opener variant that is a tad weaker, but more compatible with higher SKS and more forgiving on ping.
 
 
-If you have an RA proc ready when you would be using Barrage, instead use RA → Barrage → SW → RA → BL → IJ → EA etc. Do not use a BS between the Barraged RA and IJ in this case.
+- More familiar to those who played in Stormblood.
 
-Bloodletter cooldown is more forgiving in this opener, so if you have a PP3 when your 2nd BL comes off cooldown, use the PP3 first.
 
 
-Barrage timing can be flexibly moved earlier depending on party buffs. It’s important to catch all the raid buffs, but the earlier the better within that window. The timing in the opener is set to catch Brotherhood/Divi, but if you don’t have any buffs that go up that late, it can be done earlier with no harm. The IJ should not be moved earlier unless you have prepull cards, in which case you may need to do it before Barraging. The Barrage and IJ cannot be safely moved later without potentially causing the IJ to fall outside RS.
+**Things to note:**
 
 
-Sidewinder cooldown can be moved earlier for the same reasons.  Shift it around to accommodate PP3, BL, and Barrage usage.
+- If you have a potion, use it prepull (a bit before the 2 appears in the countdown).
 
-Battle Voice cooldown is flexible if the party has classes that burst later. If you use BV later, move the first EA forward to double weave with WM.
-Utility Cooldowns
-Battle Voice: Unless otherwise mapped out, it’s best to use this on cooldown and together with the final burst.
 
-Troubadour: As of Shadowbringers, Troubadour no longer requires any particular song. It always gives 10% dmg reduction, but only for 15s. Due to its long cooldown (120s) and very powerful effect, it’s useful to map out this skill with your healers. Ask them where they want it.
+- All Burst Shots are filler. If you get an RA proc, use RA instead of BS.
 
-Nature’s Minne: As of Shadowbringers, Minne now works on oGCD healing in addition to GCD healing. It’s still excellent for powering up deploy Adloquium, but can also be used in a pinch when a tank is about to eat several repeated hits.
 
-Second Wind: Its heal amount is thankfully not based on our MND, so it actually heals for a decent amount. Great for healing up while doing long-range baited mechanics (e.g. Liquid Hell in Twintania).
+- Do not use RA in between SB and CB if you get a RA proc from the SB. Just let it go.
 
-Arm’s Length: It has a bit of an activation delay, so be sure to use it slightly before the knockback hits. Doesn’t work on all knockbacks.
 
-Warden’s Paean: Debuffs that can be cleansed by Warden’s Paean have a glowing blue bar above the debuff icon. They’re not very common in higher level content, but keep an eye out for them. You should be first priority on cleansing debuffs because Warden’s is free to weave, compared to Esuna which is a GCD.
+- If you have an RA proc when it’s time to IJ, you should still IJ. Let the RA proc go.
 
-Head Graze: Anything that can be interrupted will have a pulsing red castbar.
 
+- If you have an RA proc ready when you would be using Barrage, instead use RA → Barrage → SW → RA → BL → IJ → EA etc. Do not use a BS between the Barraged RA and IJ in this case.
 
-Advanced Gameplay
-RS Alignment Choice
+- Bloodletter cooldown is more forgiving in this opener, so if you have a PP3 when your 2nd BL comes off cooldown, use the PP3 first.
+
+
+- Barrage timing can be flexibly moved earlier depending on party buffs. It’s important to catch all the raid buffs, but the earlier the better within that window. The timing in the opener is set to catch Brotherhood/Divi, but if you don’t have any buffs that go up that late, it can be done earlier with no harm. The IJ should not be moved earlier unless you have prepull cards, in which case you may need to do it before Barraging. The Barrage and IJ cannot be safely moved later without potentially causing the IJ to fall outside RS.
+
+
+- Sidewinder cooldown can be moved earlier for the same reasons.  Shift it around to accommodate PP3, BL, and Barrage usage.
+
+- Battle Voice cooldown is flexible if the party has classes that burst later. If you use BV later, move the first EA forward to double weave with WM.
+
+--- 
+
+# Utility Cooldowns
+
+![battle voice](https://xivapi.com/i/002000/002601.png)
+<br> **Battle Voice**: Unless otherwise mapped out, it’s best to use this on cooldown and together with the final burst.
+
+![troub](https://xivapi.com/i/002000/002612.png)
+<br> **Troubadour**: As of Shadowbringers, Troubadour no longer requires any particular song. It always gives 10% dmg reduction, but only for 15s. Due to its long cooldown (120s) and very powerful effect, it’s useful to map out this skill with your healers. Ask them where they want it.
+
+
+![NM](https://xivapi.com/i/002000/002615.png)
+<br> **Nature’s Minne**: As of Shadowbringers, Minne now works on oGCD healing in addition to GCD healing. It’s still excellent for powering up deploy Adloquium, but can also be used in a pinch when a tank is about to eat several repeated hits.
+
+
+![SW](https://xivapi.com/i/000000/000821.png)
+<br> **Second Wind**: Its heal amount is thankfully not based on our MND, so it actually heals for a decent amount. Great for healing up while doing long-range baited mechanics (e.g. Liquid Hell in Twintania).
+
+
+![AL](https://xivapi.com/i/000000/000822.png)
+<br> **Arm’s Length**: It has a bit of an activation delay, so be sure to use it slightly before the knockback hits. Doesn’t work on all knockbacks.
+
+
+![WP](https://xivapi.com/i/002000/002609.png)
+<br> **Warden’s Paean**: Debuffs that can be cleansed by Warden’s Paean have a glowing blue bar above the debuff icon. They’re not very common in higher level content, but keep an eye out for them. You should be first priority on cleansing debuffs because Warden’s is free to weave, compared to Esuna which is a GCD.
+
+
+![hg](https://xivapi.com/i/000000/000848.png)
+<br> **Head Graze**: Anything that can be interrupted will have a pulsing red castbar.
+
+
+
+---
+
+# Advanced Gameplay
+
+## RS Alignment Choice
+
+![raging strikes](https://xivapi.com/i/000000/000352.png)
 
 After the opener (i.e. starting from the 2nd RS), you can elect to either align RS with the beginning of WM or the end. The tradeoff is that WM tends to have back-loaded damage, but Army’s Muse makes it easier to deal 9 GCDs under RS.
 
-Aligning RS with the beginning of WM is the easiest choice, but is slightly worse for damage. It ensures that you get 9 GCDs under RS without needing any special delays, due to the speed buff from Army’s Muse. In particular, this plan is probably a good choice at low skill speeds. It’s also the easiest to remember.
+
+Aligning RS with the beginning of WM is the **easiest choice, but is slightly worse for damage**. It ensures that you get 9 GCDs under RS without needing any special delays, due to the speed buff from Army’s Muse. In particular, this plan is probably a good choice at low skill speeds. It’s also the easiest to remember.
 
 
-You can float RS, using it 2 GCDs into WM and letting it slide farther back if your Barrage is forced back by natural RA procs. I recommend this option. It’s still pretty easy but is a significant gain over using it at the very start of WM, and is almost as good as the hardmode option. This catches some of the more valuable time of WM, while still easily hitting 9 GCDs in RS due to partial help from Army’s Muse. You will still need to delay RS within the GCD.
 
-Aligning RS with the ending of WM is the hardest and riskiest choice, also requiring some minimum skill speed. The end of WM, especially with the very last DoT tick, tends to have more PP usages, and you can also catch the 100 potency cast of MB itself. To do this, you use RS about 12 seconds into WM (around when it has 18 seconds remaining), in the second oGCD window of a GCD. If you do it early within the GCD, you risk missing the 9th GCD under RS, and if you do it late, you risk clipping. If either happens, you wipe out most if not all of the gains. Also, if you lose significant RS time at the end of the fight, that wipes out all the gains as well. Based on some early logs of mine, it seems that RS now applies to self faster, making it extremely hard/impossible to get 9 GCDs under RS at 2.47 or slower GCD without the help of Muse. If this is the case for you, you should choose another option.
+You can float RS, using it 2 GCDs into WM and letting it slide farther back if your Barrage is forced back by natural RA procs. **I recommend this option. It’s still pretty easy but is a significant gain over using it at the very start of WM, and is almost as good as the hardmode option.** This catches some of the more valuable time of WM, while still easily hitting 9 GCDs in RS due to partial help from Army’s Muse. You will still need to delay RS within the GCD.
+
+
+Aligning RS with the ending of WM is the **hardest and riskiest choice, also requiring some minimum skill speed.** The end of WM, especially with the very last DoT tick, tends to have more PP usages, and you can also catch the 100 potency cast of MB itself. To do this, you use RS about 12 seconds into WM (around when it has 18 seconds remaining), in the second oGCD window of a GCD. If you do it early within the GCD, you risk missing the 9th GCD under RS, and if you do it late, you risk clipping. If either happens, you wipe out most if not all of the gains. Also, if you lose significant RS time at the end of the fight, that wipes out all the gains as well. Based on some early logs of mine, **it seems that RS now applies to self faster, making it extremely hard/impossible to get 9 GCDs under RS at 2.47 or slower GCD** without the help of Muse. If this is the case for you, you should choose another option.
+
 
 Late RS also has some less obvious tradeoffs with respect to buff alignment. It potentially makes the 4 minute alignment worse, especially if you drift your song rotation. However, it makes the 3 minute alignment better, since 3 minutes is 20s into the 3rd WM. Also, if you have a NIN, doing 2nd RS late gives you a tight window to snap the 2nd and 3rd tricks, whereas 2nd RS early means you will probably early snap as the 2nd RS is falling off and miss 3rd trick.
-(watermark: this guide is written by Verzell Varion et al. for The Balance.  If you see it without attribution, it was likely stolen for profit, and you should let me know at infinitestory#6021 on discord.)
-Iron Jaws
-
-With the added chance to proc RA, there is now a choice of when to use IJ. If you plan to always use it on the last possible GCD, you risk wasting a RA proc chance. If you plan to use it on the second-to-last GCD, you end up using more IJs over the course of the fight. It turns out these two plans are almost exactly equal in DPS in a vacuum, but using IJ as late as possible keeps better alignment with party buffs. So, if you know that an early snap is coming in the future, you should plan to IJ on the second-to-last GCD of DoTs, and if you want to extend DoTs as much as possible to hit a buff window, you should plan to IJ on the last GCD of DoTs.
-
-Deciding whether to snap buffs is a tradeoff between buffing DoTs, which tick for 900 potency over 30 seconds, and using additional IJs, which cost slightly more than 130 potency each (because you lose a buffed BS). These are general guidelines, and could vary depending on what buffs are coming up later and what buffs are already on your DoTs:
-
-Early DoT snapping depends significantly on whether you’re ending the buff window with an RA proc or not.
-If you DON’T have an RA proc (IJ replacing a BS): if your DoTs aren’t already buffed, and there are no buffs coming soon, for every 1% of buffs that are about to fall off you can snap your dots 1.5s early.  So, for example, Brotherhood can be safely snapped for a gain just before it falls off if your DoTs have ~7s or less left on them.  The less time your DoTs have left, the bigger the gain.  If your DoTs already have buffs on them, or there are new buffs coming up soon, it’s less of a gain to early snap.
-If you DO have an RA proc (IJ replacing a RA): don’t early snap 5% of buffs, but 10% of buffs can be early snapped by about 10 seconds.
-
-If your DoTs don’t already have any buffs on them, you should almost always snap 10% damage buffs or pairs of damage buffs once.  Do this naturally (as your DoTs are falling off) or as the buffs are falling off.
 
 
-Even if your DoTs have ~5s left on them when RS goes up, double snapping RS is basically not a gain, partly because you’d be expending two RS-buffed GCD slots that could be BS or even RA. Even if this only causes an extra half an IJ over the fight, it’s about even with adding 6 ticks of RS (compared to single snapping RS). If you have a natural IJ (from DoTs ending) right after RS goes up, and there are no other buffs at all, it’s a small gain to snap RS again just before it goes down.
+## Iron Jaws
+
+![ij](https://xivapi.com/i/002000/002608.png)
+
+With the added chance to proc RA, there is now a choice of when to use IJ. If you plan to always use it on the last possible GCD, you risk wasting a RA proc chance. If you plan to use it on the second-to-last GCD, you end up using more IJs over the course of the fight. **It turns out these two plans are almost exactly equal in DPS in a vacuum, but using IJ as late as possible keeps better alignment with party buffs.** So, if you know that an early snap is coming in the future, you should plan to IJ on the second-to-last GCD of DoTs, and if you want to extend DoTs as much as possible to hit a buff window, you should plan to IJ on the last GCD of DoTs.
 
 
-Crit buffs can be approximated as being about .5% damage for every 1% crit chance.  So Chain and Litany are roughly as good as 5% damage buffs.
+Deciding whether to snap buffs is a tradeoff between buffing DoTs, which tick for 900 potency over 30 seconds, and using additional IJs, which cost slightly more than 130 potency each (because you lose a buffed BS). **These are general guidelines, and could vary depending on what buffs are coming up later and what buffs are already on your DoTs**:
+
+
+- Early DoT snapping depends significantly on whether you’re ending the buff window with an RA proc or not.
+   - If you DON’T have an RA proc (IJ replacing a BS): **if your DoTs aren’t already buffed, and there are no buffs coming soon, for every 1% of buffs that are about to fall off you can snap your dots 1.5s early.**  So, for example, Brotherhood can be safely snapped for a gain just before it falls off if your DoTs have ~7s or less left on them.  The less time your DoTs have left, the bigger the gain.  If your DoTs already have buffs on them, or there are new buffs coming up soon, it’s less of a gain to early snap.
+   - If you DO have an RA proc (IJ replacing a RA): **don’t early snap 5% of buffs, but 10% of buffs can be early snapped by about 10 seconds.**
+
+
+
+- If your DoTs don’t already have any buffs on them, you should almost always snap 10% damage buffs or pairs of damage buffs once.  Do this naturally (as your DoTs are falling off) or as the buffs are falling off.
+
+
+- Even if your DoTs have ~5s left on them when RS goes up, double snapping RS is basically not a gain, partly because you’d be expending two RS-buffed GCD slots that could be BS or even RA. Even if this only causes an extra half an IJ over the fight, it’s about even with adding 6 ticks of RS (compared to single snapping RS). If you have a natural IJ (from DoTs ending) right after RS goes up, and there are no other buffs at all, it’s a small gain to snap RS again just before it goes down.
+
+
+- Crit buffs can be approximated as being about .5% damage for every 1% crit chance.  So Chain and Litany are roughly as good as 5% damage buffs.
+
 
 As a minor note, the devs seem to like putting 25s+ downtimes in fights. In such cases, if you have an RA proc going into the last GCD before downtime, it’s better to RA and then manually reapply DoTs after downtime. Otherwise, IJ on both ends.
-Procs in WM
 
-Unlike in Stormblood, there’s no way to raise the proc chance above 60%, so in general you should use Pitch Perfect at 3 stacks. Like in SB, use PP2 early if you know you have an EA coming up next GCD concurrently with the DoT tick, or if the song is imminently ending. This is especially important if your 2nd EA in WM is in the last few seconds, so you have PP available to make use of the guaranteed proc. If you are using EA very close to on cooldown, this will happen during your second WM! Be ready to use a PP2 at ~5s left on that second WM.
+## Procs in WM
+
+![wm](https://xivapi.com/i/002000/002607.png)
+![pp](https://xivapi.com/i/002000/002611.png)
+
+Unlike in Stormblood, there’s no way to raise the proc chance above 60%, so in general you should use Pitch Perfect at 3 stacks. Like in SB, **use PP2 early if you know you have an EA coming up next GCD concurrently with the DoT tick, or if the song is imminently ending.** This is especially important if your 2nd EA in WM is in the last few seconds, so you have PP available to make use of the guaranteed proc. If you are using EA very close to on cooldown, this will happen during your second WM! Be ready to use a PP2 at ~5s left on that second WM.
+
 
 Note that because EA should be used on cooldown in every song, the EA timer will not be at the same time during every WM. If you would use an EA <1s before transitioning from AP to WM, instead hold it for after the WM. This is to prevent you from getting a guaranteed proc and being unable to use it at the end of the song.
 
+
 There’s no longer a need to triple weave Barrage EA PP. Avoid that triple weave by delaying EA in general, or delaying Barrage if you’re near the end of the fight (it risks delaying twice and messing up alignment due to the chance of a RA proc).
 
-Procs in MB
 
-MB is a delicate dance between not losing procs, using EA on cooldown, and not clipping. At the very least, it’s important to understand how the DoT timer works relative to the GCD timer.
+## Procs in MB
+
+![mb](https://xivapi.com/i/002000/002602.png)
+![bloodletter](https://xivapi.com/i/000000/000361.png)
+
+MB is a delicate dance between not losing procs, using EA on cooldown, and not clipping. At the very least, **it’s important to understand how the DoT timer works relative to the GCD timer.**
+
 
 DoT ticks happen every 3 seconds, and the GCD timer is 2.5s or slightly less, so you can think of the tick as happening 0.5s “later” within the GCD every GCD, until it skips one entirely. It’s useful to learn to keep track of where the DoT timer is, relative to the GCD. If possible, try to do this through the WM to MB transition.
 
+
 Make sure not to mash BL during the last ~1s of a GCD to avoid clipping. If a BL proc were to come up that late, the next GCD may not have a DoT tick at all, so it is perfectly safe to delay the BL to the start of the next GCD.
 
+
 Using EA in MB can be tricky if you want to avoid losing procs. Here’s where it can be extremely valuable to know the DoT timer. If it’s early, it’s fine to use BL EA BL triple weaved (this is one of the only acceptable triple weaves). If it’s extremely late, you can mash EA BL fast enough that the DoT tick happens later. If the DoT timer is in the middle of the GCD, it’s acceptable to wait up to 3 GCDs for the DoT timer to move later. You shouldn’t need to wait more, even 2 GCDs is almost always enough, and the less you have to wait the better. Don’t wait on the first EA in MB if it would push it past the midpoint (i.e. if you would only get 1 EA in that MB).
-Song Transitions 
+
+## Song Transitions 
+
+![WM icon](https://xivapi.com/i/002000/002607.png) 
+![mb icon](https://xivapi.com/i/002000/002602.png)
+![AP icon](https://xivapi.com/i/002000/002603.png)
 
 Due to the addition of Soul Voice, it’s more important than ever to minimize the amount of songless time, and avoid letting DoT ticks fall in songless time.
 
-WM to MB transition: If the DoT tick timer is very close (<.5s) to the end of the song, or you use a PP3 less than 3 seconds before the song ends, you can transition into MB early if it’s available. This is ping dependent, and at low ping it can be easier to make use of the last DoT tick in WM.
 
-MB to AP transition: Unlike the WM to MB transition, MB procs (BL) can be used after the song ends, so avoid cutting it short if there would be a DoT tick at the very end of MB. Other than that, just try to minimize songless time without clipping.
+### WM to MB transition:
+If the DoT tick timer is very close (<.5s) to the end of the song, or you use a PP3 less than 3 seconds before the song ends, you can transition into MB early if it’s available. This is ping dependent, and at low ping it can be easier to make use of the last DoT tick in WM.
 
-AP to WM transition: Weave BS → WM → BS → RS → BS… if you’re doing early RS, or just BS → WM → BS if you’re doing late RS. In either case, do the transition when your MB cooldown is 30s or less, and your AP cooldown is 60s or less. Wait at least 0.25s between the BS and WM to ensure you get 5 GCDs in Muse. At low skill speed (~2.47 or slower GCD), ideally wait even longer, up to half a second. This should set up nicely for a PP MB double weave 12 GCDs later on the WM to MB transition, assuming full stacks of Army’s Muse. 
+
+### MB to AP transition:
+Unlike the WM to MB transition, MB procs (BL) can be used after the song ends, so avoid cutting it short if there would be a DoT tick at the very end of MB. Other than that, just try to minimize songless time without clipping.
+
+
+### AP to WM transition:
+Weave BS → WM → BS → RS → BS… if you’re doing early RS, or just BS → WM → BS if you’re doing late RS. In either case, do the transition when your MB cooldown is 30s or less, and your AP cooldown is 60s or less. **Wait at least 0.25s between the BS and WM to ensure you get 5 GCDs in Muse. At low skill speed (~2.47 or slower GCD), ideally wait even longer, up to half a second.** This should set up nicely for a PP MB double weave 12 GCDs later on the WM to MB transition, assuming full stacks of Army’s Muse. 
+
 
 Be careful about double weaving during Army’s Muse.  Depending on your ping, it can cause clipping and cost you GCDs under Muse or GCDs under RS.
 
 
+
 To reiterate from above, if you have an EA very close to this transition, save it for after the transition.
-Extending AP
 
-This overlaps somewhat with the Fight Mapping section, but since this is the most common way to manipulate the song rotation, I wanted to spend some extra time on it.
+## Extending AP
 
-Extending AP beyond 20s can be used to push back WM/RS/Barrage phases to line up with bursts. You can think of it as pulling song time from the end of the fight/phase and moving it into the current AP. You will also effectively move EAs into AP (where they are weakest). If you would end the fight in AP, you can usually do this mostly for free, potentially costing yourself some portion of Muse. Pulling time out of MB is acceptable if it gets you better alignment or some other gain (see below). I do not recommend losing WM/RS time unless you have a very good reason.
+![AP icon](https://xivapi.com/i/002000/002603.png)
+
+This overlaps somewhat with the [Fight Mapping](#fight-mapping) section, but since this is the most common way to manipulate the song rotation, I wanted to spend some extra time on it.
+
+Extending AP beyond 20s can be used to push back WM/RS/Barrage phases to line up with bursts. **You can think of it as pulling song time from the end of the fight/phase and moving it into the current AP.** You will also effectively move EAs into AP (where they are weakest). If you would end the fight in AP, you can usually do this mostly for free, potentially costing yourself some portion of Muse. Pulling time out of MB is acceptable if it gets you better alignment or some other gain (see below). I do not recommend losing WM/RS time unless you have a very good reason.
+
 
 
 As an example, consider a fight that lasts around 7:45. Your party may elect to use 3-minute buffs at 0:10, 4:10, 7:10 and 2-minute buffs at 0:10, 2:10, 4:10, 7:10. In this case, you would want to line up WM with both the 4:10 and 7:10 bursts. You can do this by extending AP to the full 30s between 4 and 7 minutes. At the cost of some MB time, you align your last WM/RS/Barrage with a powerful potion window.
 
+
 Aside from alignment, there are other unplanned reasons to want to extend AP:
 
-Your BL timer is ~2-3s when you would enter WM. This will cause you to also have a BL timer of ~2-3s when you enter the next MB. But if you extend AP by ~4s to use BL before WM, you can buy yourself almost an entire Bloodletter.
+- Your BL timer is ~2-3s when you would enter WM. This will cause you to also have a BL timer of ~2-3s when you enter the next MB. But if you extend AP by ~4s to use BL before WM, you can buy yourself almost an entire Bloodletter.
 
-You aren’t at 4 stacks of AP at 20s in. The difference between a 4 stack Army’s Muse and 3 stack Army’s Muse can be over 100 potency, or even more if it causes you to lose a GCD under RS.
-
-
-Your EA comes off cooldown ~19s into AP. You would have to delay EA to avoid having an unusable PP proc. Delaying AP instead can cause you to make the PP usable.
+- You aren’t at 4 stacks of AP at 20s in. The difference between a 4 stack Army’s Muse and 3 stack Army’s Muse can be over 100 potency, or even more if it causes you to lose a GCD under RS.
 
 
-Your Barrage/RS has somehow drifted very far back within WM.
+- Your EA comes off cooldown ~19s into AP. You would have to delay EA to avoid having an unusable PP proc. Delaying AP instead can cause you to make the PP usable.
 
 
-Note that if you planned your song alignment around raid buffs, extending AP could skew it slightly. But if multiple of the above cases are true, especially the first two (those are much bigger), it can be worth it to sacrifice some alignment.
-Refulgent Arrow Procs
+- Your Barrage/RS has somehow drifted very far back within WM.
+
+
+
+Note that if you planned your song alignment around raid buffs, extending AP could skew it slightly. But if multiple of the above cases are true, especially the first two (those are much bigger), **it can be worth it to sacrifice some alignment.**
+
+## Refulgent Arrow Procs
+
+![ra](https://xivapi.com/i/002000/002616.png)
 
 Don’t hold RA procs for even a single GCD to catch upcoming buffs. The difference between a buffed RA and a buffed BS is too small. 
 
+
 If you have an RA proc as Barrage comes up, delay the Barrage unless it would fall outside of Raging Strikes. With proper gameplay, this shouldn’t happen on a fight of reasonable duration.
 
+
 While manually applying DoTs, if you get a RA proc from CB, save it and use it after SB.
-Apex Arrow 
+
+## Apex Arrow 
+
+
+![aa](https://xivapi.com/i/002000/002619.png)
 
 Apex Arrow charges to full roughly every 60s (20 DoT ticks, average 4 gauge per DoT tick from both DoTs combined, plus 20 gauge from 4 EA).
 
+
 While in general, it’s best to use Apex Arrow at 100 gauge, there is some flexibility in its usage. It’s a gain to use early at 90 gauge to hit a 10% buff, or to delay up to two DoT ticks (2 GCDs if you’re not sure) to hit a 10% buff.  This will most commonly occur around Raging Strikes.  Against multiple targets, you can and should use Apex Arrow earlier because of the greater risk of overcapping: at 95 gauge for 2 targets, 90 gauge for 3 targets, or 85 for 4+ targets.
+
 
 Also, if you’re on the last Apex Arrow of the fight (under ~30s left in the fight, so not long enough to charge a worthwhile Apex Arrow), you can delay as long as you like in order to fit it into buff windows.
 
+
 If a multi-target phase is coming up within ~20s and your Apex Arrow hits full, save it for the start of the phase. As a multi-target phase is ending, use Apex Arrow if you are at more than ~40 gauge (beware of overkill!). These numbers have a LOT of dependence on the wait time, number of adds, lifetime of adds, and the duration of the fight after the adds phase ends. Optimally, it should be mapped out on a per-fight basis. Test it yourself - if you notice yourself waiting nearly long durations and then dumping a low-gauge Apex Arrow at the end of the adds phase, consider burning the Apex Arrow instead of waiting.
 
+
 Some rules of thumb for applying DoTs vs using Apex at the start of a multi-target phase: If you enter a 2-target phase with 100 gauge, apply DoTs first and then use the Apex Arrow. With ~3-5 targets, apply a single DoT to each and then Apex. On multi-target phases with a large number of targets, Apex Arrow first, then DoTs. Again, this is fight-dependent, and especially dependent on the duration of the phase.
-Fight Mapping
+
+## Fight Mapping
+
 Mapping a fight involves coming up with song timings and IJ timings to fit downtime, adds phases, and party burst phases. Things to consider:
 
-In general, the priorities are to avoid going songless, then maximize the amount of time spent in WM, and then maximize the amount of time spent in MB.  If you would end the fight during AP or near the beginning of WM, just go into WM as soon as it comes off cooldown during the last AP.
+
+- In general, the priorities are to avoid going songless, then maximize the amount of time spent in WM, and then maximize the amount of time spent in MB.  If you would end the fight during AP or near the beginning of WM, just go into WM as soon as it comes off cooldown during the last AP.
 
 
-The most straightforward way to adjust the song rotation is by extending AP beyond 20s duration. See the Extending AP section.
+- The most straightforward way to adjust the song rotation is by extending AP beyond 20s duration. See the Extending AP section.
 
 
-MB (and to a lesser extent, AP) should be lined up with adds phases that have at least 3 targets. WM and MB should be lined up with adds phases that have 2 total targets.
+- MB (and to a lesser extent, AP) should be lined up with adds phases that have at least 3 targets. WM and MB should be lined up with adds phases that have 2 total targets.
 
 
-If you’re playing in a static that is optimizing, you can usually set all buffs except AST cards to happen at fixed times. This allows you to plan the entirety of your IJs out for the fight.
+- If you’re playing in a static that is optimizing, you can usually set all buffs except AST cards to happen at fixed times. This allows you to plan the entirety of your IJs out for the fight.
 
 
-If you could gain an extra Barrage by misaligning RS from WM on a short fight (e.g. Kefaust), it’s usually good to do so.
+- If you could gain an extra Barrage by misaligning RS from WM on a short fight (e.g. Kefaust), it’s usually good to do so.
 
 
-If at all possible, ensure that 2nd (and 3rd) potions, which will likely be on raid buff windows, line up with both WM and Barrage, unless it costs a use of WM/Barrage.
+- If at all possible, ensure that 2nd (and 3rd) potions, which will likely be on raid buff windows, line up with both WM and Barrage, unless it costs a use of WM/Barrage.
 
 
-AoE
+
+--- 
+
+# AoE
+
 Against 2 targets, the relative song strength is WM > MB > AP. Against 3-6 targets, the song strength order is MB > WM > AP. Against >6 targets, the song strength order is MB > AP > WM. This isn’t necessarily the order you should use your songs in dungeons, it depends on the pull sizes.
+
 
 In dungeons, in MB, double DoT just about everything that will live for nearly the full DoT duration. Mix in Apex Arrows as gauge gets above 90 in pulls of about 3 mobs, above 85 in larger pulls. Once enemies are too low to get most (more than ~24s) of a DoT duration, switch to QN as filler.
 
+
 In AP/WM, double DoT pulls of up to 6 mobs. With larger pulls, apply just a few DoTs instead (including double DoTs on the center mob for Shadowbite) and go straight to spamming QN.
 
+
 If you’re doing a multi-pack pull, it’s best to double DoT everything while walking. Make sure you have a song up while this is happening, preferably AP or WM, so you can generate Soul Voice.
+
 
 Shadowbite is a potency gain starting at 2 targets.  Don’t forget that there’s a bit of a delay after you use your second DoT before it gets counted by Shadowbite, so wait a moment before using it.
 
 
 
 
-Clarified Tooltip Reference
+
+--- 
+
+# Clarified Tooltip Reference
+
 Tooltips here are rewritten from the official translations to clarify some portions that aren’t obvious in the official job guide.
-GCDs
- 
-Burst Shot (BS)
-Delivers an attack with a potency of 250.
+
+### GCDs
+| | | |
+|---|---|---|
+| ![bs](https://xivapi.com/i/002000/002618.png) | Burst Shot (BS) | Delivers an attack with a potency of 250. <br> Additional Effect: 35% chance of becoming Straight Shot Ready for 10s. |
+| ![ra](https://xivapi.com/i/002000/002616.png) | Refulgent Arrow (RA) | Delivers an attack with a potency of 340. <br> Can only be executed when Straight Shot Ready. |
+| ![stormbite](https://xivapi.com/i/002000/002614.png) | Stormbite (SB) | Deals wind damage with a potency of 100. <br> Additional Effect: Deals wind damage over time, with a potency of 50 every 3s for 30s. <br> Additional Effect: 35% chance of becoming Straight Shot Ready for 10s. | 
+| ![caustic bite](https://xivapi.com/i/002000/002613.png) | Caustic Bite (CB) | Delivers an attack with a potency of 150. <br> Additional Effect: Deals damage over time, with a potency of 40 every 3s for 30s. <br> Additional Effect: 35% chance of becoming Straight Shot Ready for 10s. | 
+| icon | Iron Jaws (IJ) | Delivers an attack with a potency of 100. <br> Additional Effect: If the target is suffering from a Caustic Bite or Stormbite effect inflicted by you, the effect duration is reset to 30s. <br> Additional Effect: 35% chance of becoming Straight Shot Ready for 10s.
+| icon | Apex Arrow | Consumes all Soul Voice to deliver an attack with a potency of 6 per Soul Voice expended (up to 600) to all enemies in a straight line before you. 25y range. <br> Minimum Soul Voice Gauge Cost: 20.
+| icon | Quick Nock (QN) | Delivers an attack with a potency of 150 to all enemies in a cone before you. <br> Additional Effect: 30% chance the recast timer for Bloodletter and Rain of Death will be reset
 
 
-Additional Effect: 35% chance of becoming Straight Shot Ready for 10s.
-
-Refulgent Arrow (RA)
-Delivers an attack with a potency of 340.
 
 
-Can only be executed when Straight Shot Ready.
-
-Stormbite (SB)
-Deals wind damage with a potency of 100.
-
-
-Additional Effect: Deals wind damage over time, with a potency of 50 every 3s for 30s.
-
-
-Additional Effect: 35% chance of becoming Straight Shot Ready for 10s.
-
-Caustic Bite (CB)
-Delivers an attack with a potency of 150.
-
-
-Additional Effect: Deals damage over time, with a potency of 40 every 3s for 30s.
-
-
-Additional Effect: 35% chance of becoming Straight Shot Ready for 10s.
-
-Iron Jaws (IJ)
-Delivers an attack with a potency of 100.
-
-
-Additional Effect: If the target is suffering from a Caustic Bite or Stormbite effect inflicted by you, the effect duration is reset to 30s.
-
-
-Additional Effect: 35% chance of becoming Straight Shot Ready for 10s.
-
-Apex Arrow
-Consumes all Soul Voice to deliver an attack with a potency of 6 per Soul Voice expended (up to 600) to all enemies in a straight line before you. 25y range.
-
-
-Minimum Soul Voice Gauge Cost: 20.
-
-Quick Nock (QN)
-Delivers an attack with a potency of 150 to all enemies in a cone before you.
-
-
-Additional Effect: 30% chance the recast timer for Bloodletter and Rain of Death will be reset
-
-
-Songs + Repertoire
+### Songs + Repertoire
 
 Wanderer’s Minuet (WM)
 Deals unaspected damage with a potency of 100.
