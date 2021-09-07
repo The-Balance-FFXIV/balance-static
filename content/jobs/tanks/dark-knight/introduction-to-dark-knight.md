@@ -70,39 +70,47 @@ The purpose of this guide is to give an overview of Dark Knight’s abilities an
 
 
 ## Tank Stance
-Grit
+
+**Grit**
 
 
 
-Toggle • 10s cooldown after toggling on • no cooldown for toggling off
+- Toggle
+- 10s cooldown after toggling on • no cooldown for toggling off
 
-Multiplies enmity (aggro, hate, etc) generation by 10
-Keep this on in dungeons or as the current maintank (in content with more than one tank)
-
-Single Target GCDs
-Souleater Combo
+- Multiplies enmity (aggro, hate, etc) generation by 10
+- Keep this on in dungeons or as the current maintank (in content with more than one tank)
 
 
+## Single Target GCDs
 
-200 > 300 > 400 potency
-
-1. Hard Slash
-
-2. Syphon Strike: +600 MP
-
-3. Souleater: +20 Blood, 300p heal
-
-Bloodspiller
+**Souleater Combo**
 
 
 
-600 potency
+-   200 > 300 > 400 potency
 
-Costs 50 Blood
+    1. Hard Slash
 
-Abilities (oGCDs)
-Buffs
-Blood Weapon
+    2. Syphon Strike: +600 MP
+
+    3. Souleater: +20 Blood, 300p heal
+
+
+**Bloodspiller**
+
+
+
+- 600 potency
+
+- Costs 50 Blood
+
+
+## Abilities (oGCDs)
+
+### Buffs
+
+#### Blood Weapon
 
 
 
@@ -113,7 +121,8 @@ Weaponskills and Spells (all GCDs) restore 600 MP and 10 Blood
 
 By using Blood Weapon late into the GCD (just before the next GCD), it is possible to fit 5 GCDs into the buff window
 
-Delirium
+
+#### Delirium
 
 
 
@@ -127,10 +136,12 @@ Bloodspiller: +200 MP
 Quietus: +500 MP
 
 
-By using Delirium late into the GCD (just before the next GCD), it is possible to fit 5 Blood Gauge spenders into the buff window
+By using Delirium *late into the GCD* (just before the next GCD), it is possible to fit 5 Blood Gauge spenders into the buff window
 
-Offensive
-Edge of Shadow (upgraded from Edge of Darkness)
+
+### Offensive
+
+#### Edge of Shadow (upgraded from Edge of Darkness)
 
 
 
@@ -138,9 +149,10 @@ Edge of Shadow (upgraded from Edge of Darkness)
 
 Costs 3000 MP
 
-Applies Darkside (10% damage buff) for 30s, or extends it by 30s, up to a maximum of 60s.
+Applies *Darkside* (10% damage buff) for 30s, or extends it by 30s, up to a maximum of 60s.
 
-Living Shadow
+
+#### Living Shadow
 
 
 
@@ -153,7 +165,8 @@ Has a ~7s spawn animation
 The seven attacks are a mix of Area of Effect (AoE) attacks and single target attacks
 
 
-Abyssal Drain
+
+#### Abyssal Drain
 
 
 
@@ -163,7 +176,8 @@ AoE centered on target
 
 200 potency heal  for each target hit
 
-Salted Earth
+
+#### Salted Earth
 
 
 
@@ -175,7 +189,8 @@ Places a puddle on the ground that periodically deals damage to all enemies insi
 
 Ticks once on placement and also independently 5 times on a 3s timer
 
-Carve and Spit
+
+#### Carve and Spit
 
 
 
@@ -183,7 +198,8 @@ Carve and Spit
 
 +600 MP
 
-Plunge
+
+#### Plunge
 
 
 
@@ -192,8 +208,10 @@ Plunge
 30s charge time
 
 
-Defensive or Utility
-The Blackest Night
+
+### Defensive or Utility
+
+#### The Blackest Night
 
 
 
@@ -206,16 +224,18 @@ Costs 3000 MP
 Can be used on self or a party member
 
 
-Grants Dark Arts when shield breaks
+Grants *Dark Arts* when shield breaks
 
 
-Dark Arts - Next use of Edge of Shadow or Flood of Shadow is free (lasts until used)
+*Dark Arts* - Next use of Edge of Shadow or Flood of Shadow is free (lasts until used)
 
 
-Party
+
+### Party
 
 
-Reprisal
+
+#### Reprisal
 
 
 
@@ -224,10 +244,20 @@ Reprisal
 10s duration • 60s cooldown
 
 
-Personal
+
+#### Dark Missionary
 
 
-Rampart
+
+10% magic damage reduction to party
+
+15s duration • 90s cooldown
+
+### Personal
+
+
+
+#### Rampart
 
 
 
@@ -236,7 +266,8 @@ Rampart
 20s duration • 90s cooldown
 
 
-Shadow Wall
+
+#### Shadow Wall
 
 
 
@@ -248,18 +279,13 @@ Shadow Wall
 
 
 
-Dark Missionary
-
-
-
-10% magic damage reduction to party
-
-15s duration • 90s cooldown
 
 
 
 
-Dark Mind
+
+
+#### Dark Mind
 
 
 
@@ -268,22 +294,25 @@ Dark Mind
 10s duration • 60s cooldown
 
 
-Living Dead
+
+#### Living Dead
 
 
 
 10s duration
 
-If you would die with Living Dead active, you instead don’t die and gain Walking Dead for 10 seconds.
+If you would die with *Living Dead* active, you instead don’t die and gain *Walking Dead* for 10 seconds.
 
 
-Walking Dead - Can’t be reduced below one HP for the duration. Die after Walking Dead runs out unless healed for 100% of your HP, dispelling Walking Dead.
+*Walking Dead* - Can’t be reduced below one HP for the duration. Die after Walking Dead runs out unless healed for 100% of your HP, dispelling Walking Dead.
 
 
 
-Utility
 
-Provoke
+### Utility
+
+
+#### Provoke
 
 
 
@@ -293,7 +322,8 @@ Provoke
 Instantly gives you top enmity on the target with a significant enmity lead (this enmity lead is affected by Grit)
 
 
-Shirk
+
+#### Shirk
 
 
 
@@ -305,7 +335,8 @@ Takes 25% of your enmity and gives it to target party member
 Affects everything on the enemy list
 
 
-Arm’s Length
+
+#### Arm’s Length
 
 
 
@@ -316,51 +347,55 @@ Become immune to most knockbacks
 
 Applies a 20% auto-attack and cast slow for 15s to enemies that attack you (resisted by most bosses)
 
-AoE
-Stalwart Soul Combo (GCD)
+
+## AoE
+
+### Stalwart Soul Combo (GCD)
 
 
 
 150 > 160 potency
 1. Unleash
 
-2. Stalwart Soul: +600 MP, +20 Blood
-
-Circle AoE centered on self
+2. Stalwart Soul: +600 MP, +20 Blood Circle AoE centered on self
 
 
-Replaces Souleater combo at 2+ enemies
+- Replaces Souleater combo at 2+ enemies
 
-Quietus (GCD)
+
+### Quietus (GCD)
 
 
 
 210 potency
 
-Circle AoE centered on self
+- Circle AoE centered on self
 
 
 
 
-Replaces Bloodspiller at 3+ enemies
+- Replaces Bloodspiller at 3+ enemies
 
 
-Flood of Shadow (oGCD, upgrades from Flood of Darkness)
+
+### Flood of Shadow (oGCD, upgrades from Flood of Darkness)
 
 
 
 300 potency • 2s cooldown
 
-Costs 3000 MP
+- Costs 3000 MP
 
-Applies Darkside (10% damage buff) for 30s, or extends it by 30s, up to a maximum of 60s
+- Applies *Darkside* (10% damage buff) for 30s, or extends it by 30s, up to a maximum of 60s
 
 
-Replaces Edge of Shadow at 2+ enemies
+- Replaces Edge of Shadow at 2+ enemies
 
-Other Actions (Infrequently Used)
 
-Unmend (GCD)
+## Other Actions (Infrequently Used)
+
+
+### Unmend (GCD)
 
 
 
@@ -371,7 +406,8 @@ Unmend (GCD)
 Ranged attack
 
 
-Low Blow (oGCD)
+
+### Low Blow (oGCD)
 
 
 
@@ -379,7 +415,8 @@ Low Blow (oGCD)
 
 5s stun
 
-Interject (oGCD)
+
+### Interject (oGCD)
 
 
 
@@ -401,40 +438,54 @@ Interruptible actions are denoted by red flashing castbars
 
 
 
-Opener
+
+--- 
+
+# Opener
+
 Goals for DRK openers include:
 
-Get Living Shadow out ASAP; the long spawn animation means any delays will push some hits out of raid buffs
-Get buffs like Blood Weapon and Delirium, and damaging abilities like Carve and Spit and Salted Earth on cooldown early
-Use as many big hits and spend as much mana as possible inside potion and raid buff windows (which typically come up around the 4th or 5th GCD)
+
+- Get Living Shadow out ASAP; the long spawn animation means any delays will push some hits out of raid buffs
+- Get buffs like Blood Weapon and Delirium, and damaging abilities like Carve and Spit and Salted Earth on cooldown early
+- Use as many big hits and spend as much mana as possible inside potion and raid buff windows (which typically come up around the 4th or 5th GCD)
 
 
-Text version: Prepull The Blackest Night > Prepull Blood Weapon just before pull > Hard Slash + Edge of Shadow > Syphon Strike + Potion > Souleater + Living Shadow + Plunge > Hard Slash + Salted Earth + Delirium > Bloodspiller + Edge of Shadow + Carve and Spit > Bloodspiller + Edge of Shadow + Plunge > Bloodspiller + Edge of Shadow + Abyssal Drain > Bloodspiller + Edge of Shadow > Bloodspiller > Syphon Strike > Souleater
+
+> Text version: Prepull The Blackest Night > Prepull Blood Weapon just before pull > Hard Slash + Edge of Shadow > Syphon Strike + Potion > Souleater + Living Shadow + Plunge > Hard Slash + Salted Earth + Delirium > Bloodspiller + Edge of Shadow + Carve and Spit > Bloodspiller + Edge of Shadow + Plunge > Bloodspiller + Edge of Shadow + Abyssal Drain > Bloodspiller + Edge of Shadow > Bloodspiller > Syphon Strike > Souleater
+
 
 
 The potion used is whatever the current tier’s Strength potion is (as of the time of writing, and until Endwalker release, it is the Grade 4 Tincture of Strength HQ).
 
 
-High Latency Adjustments:
+
+## High Latency Adjustments:
+
 
 At high latency (>100ms), consider using an opener that sticks to single weaves inside Blood Weapon and Delirium in order to ensure 5 GCDs land in each.
 
-Example: https://cdn.discordapp.com/attachments/872701089873530890/872701819292373052/drksingleweave.png
+Example: ![High latency adjustment](https://cdn.discordapp.com/attachments/872701089873530890/872701819292373052/drksingleweave.png)
+
 
 
 Opener notes:
 
-Blood Weapon is used prepull to ensure that Living Shadow is used as soon as possible. Any later and a hit will get pushed out of raid buffs.
-The prepull TBN is used to prevent MP overcap from the first Hard Slash under Blood Weapon, since if it breaks it refunds the MP cost in the form of a free Edge of Shadow.
-If the prepull TBN will not break, then simply omit it and overcap 600-800 MP before your first Edge of Shadow
-Try to avoid pulling with Unmend, as doing so will delay Living Shadow. If you need to start with aggro, consider having your co-tank pull with stance on and use Provoke after your opener.
-Rotation
+- Blood Weapon is used prepull to ensure that Living Shadow is used as soon as possible. Any later and a hit will get pushed out of raid buffs.
+- The prepull TBN is used to prevent MP overcap from the first Hard Slash under Blood Weapon, since if it breaks it refunds the MP cost in the form of a free Edge of Shadow.
+    - If the prepull TBN will not break, then simply omit it and overcap 600-800 MP before your first Edge of Shadow
+- Try to avoid pulling with Unmend, as doing so will delay Living Shadow. If you need to start with aggro, consider having your co-tank pull with stance on and use Provoke after your opener.
+
+--- 
+
+# Rotation
 Dark Knight’s rotation is deceptively simple, and follows these simple principles:
 
-Avoid overcapping on MP or blood by using Edge of Shadow and Bloodspiller, respectively.
-Use offensive abilities (such as Abyssal Drain, Salted Earth, Blood Weapon, and Delirium) when available.
-Fill remaining GCDs with Souleater combo.
-Using Blood Weapon and Delirium
+- Avoid overcapping on MP or blood by using Edge of Shadow and Bloodspiller, respectively.
+- Use offensive abilities (such as Abyssal Drain, Salted Earth, Blood Weapon, and Delirium) when available.
+- Fill remaining GCDs with Souleater combo.
+
+## Using Blood Weapon and Delirium
 
 
 Blood Weapon and Delirium should be weaved at least two-thirds of the way into the GCD roll in order to cover 5 GCDs.
@@ -448,7 +499,8 @@ The second Blood Weapon in the fight can (and should) be delayed by ~3 GCDs to a
 
 Because spells (e.g. Unleash) have a longer recast time than weaponskills due to skill speed, it can be much harder to get 5 GCDs in Blood Weapon while using AoE. Try to save Blood Gauge for Blood Weapon so that 2-3 Blood Gauge spending GCDs (Bloodspiller/Quietus) can be used during Blood Weapon for the shorter recast. For example, with 100 Blood, use Blood Weapon after Unleash and then use Quietus, Quietus, Stalwart Soul, Quietus, Unleash.
 
-Pooling Resources for Raid Buffs
+
+## Pooling Resources for Raid Buffs
 Edge of Shadow and Bloodspiller can be delayed without loss, as long as MP and Blood do not overcap. Dark Knight is thus uniquely able to pool a massive amount of potency for use during party raid buff windows, which typically come in multiples of 60 seconds.
 
 
@@ -457,20 +509,14 @@ Dark Knight generates around 12000 MP per minute, from a combination of Blood We
 
 Similarly, try to use 3 Blood Gauge spenders (i.e. Living Shadow, Bloodspiller) during every 1-minute raid buff window.
 
-Helpful Macros
-Salted Earth
 
-(on self)
+--- 
 
-The Blackest Night
+# Helpful Macros
 
-(mouseover)
+## Salted Earth (on self) 
 
-Shirk
-
-(assumes party slot 2)
-
-/merror off
+```/merror off
 
 /ac "Salted Earth" <me>
 
@@ -500,7 +546,12 @@ Shirk
 
 /micon "Salted Earth"
 
+```
+
+## The Blackest Night (mouseover)
+```
 /merror off
+
 
 /ac "The Blackest Night" <mo>
 
@@ -530,6 +581,10 @@ Shirk
 
 /micon "The Blackest Night"
 
+```
+
+## Shirk (assumes party slot 2)
+```
 /merror off
 
 /ac "Shirk" <2>
@@ -558,66 +613,74 @@ Shirk
 
 /ac "Shirk" <2>
 
-/micon "Shirk"
+/micon "Shirk" 
+```
 
 
-Why are there so many repeated lines?
+
+## Why are there so many repeated lines?
 
 FFXIV macros do not queue, so hitting a macro while in animation lock from another action will cause the macro to not go off. Since macros execute lines sequentially at around 1 line per frame, repeating the /action lines simulates mashing the ability every frame for ~15 frames and gives the macro a semblance of queuing.
 
 
-Mouseover? <2>?
+
+## Mouseover? <2>?
 <mo> will attempt to target whatever your mouse cursor is currently hovering over when that macro line is reached, whether it be their physical model or a name on your party list.
 
 
 <2> targets the 2nd player on your party list, which is the other tank by default in 8-man content.
 
-Stats and Itemization
+
+--- 
+
+# Stats and Itemization
 Before obtaining best-in-slot gear, pick gear and meld according to stat priority on each piece of gear. Best-in-slot sets can be found on the Balance discord.
 
 
-Because of stat tiering, the Tank Gear Calc is the best tool to directly compare specific gear pieces (https://bit.ly/TankDPSCalc520).
+Because of stat tiering, the Tank Gear Calc is the best tool to directly compare specific gear pieces [https://bit.ly/TankDPSCalc520](https://bit.ly/TankDPSCalc520).
 
 
-Highest priority
 
--------------------------
+**Highest priority**
 
-Weapon damage (main-hand weapon only)
 
-Significantly affects all damage dealt
-Proportional to item level
-Strength
 
-Affects all damage dealt
-Proportional to item level
-Critical Hit
+- Weapon damage (main-hand weapon only)
 
-Affects critical chance + critical damage
-Often naturally capped on BiS gear pieces
-Priority meld on all gear (unless number turns red when melding)
-Skill Speed
+  - Significantly affects all damage dealt
+  - Proportional to item level
+- Strength
 
-Reduces weaponskill recast time
-Meld only to reach preferred GCD speed (commonly anywhere from 2.38s to 2.43s)
+  - Affects all damage dealt
+  - Proportional to item level
+- Critical Hit
+
+  - Affects critical chance + critical damage
+  - Often naturally capped on BiS gear pieces
+  - Priority meld on all gear (unless number turns red when melding)
+- Skill Speed
+
+  - Reduces weaponskill recast time
+  - Meld only to reach preferred GCD speed (commonly anywhere from 2.38s to 2.43s)
 (see https://www.akhmorning.com/allagan-studies/stats/speed/ for precise skill speed tiers)
-Direct Hit
+- Direct Hit
 
-Affects only direct hit chance
-Meld remaining slots (filler stat)
-Determination
+  - Affects only direct hit chance
+  - Meld remaining slots (filler stat)
+- Determination
 
-Increases damage dealt
-Sometimes used in 1 slot due to stat tiering
-Tenacity
+  - Increases damage dealt
+  - Sometimes used in 1 slot due to stat tiering
+- Tenacity
 
-Increases damage dealt and reduces damage taken
-Rarely melded due to weak scaling and minimal mitigation
--------------------------
+  - Increases damage dealt and reduces damage taken
+  - Rarely melded due to weak scaling and minimal mitigation
 
-Lowest priority
 
-Choosing your skill speed
+**Lowest priority**
+
+
+## Choosing your skill speed
 The Dark Knight rotation is functional at almost all skill speeds. The only requirement is a minimum level of skill speed in order to fit 5 GCDs in Blood Weapon, which is possible at virtually any realistic recast speed (less than 2.45). In optimization, common recast speeds can be anywhere from 2.38 to 2.43.
 
 
@@ -626,18 +689,23 @@ Outside of high-end optimization, choice of skill speed has little impact on the
 
 In optimization, each encounter must be considered separately to determine what GCDs are gained or lost by different skill speeds, as well as lining up the GCD with any melee disengages. In general, the slowest speed that doesn’t lose any major GCDs within a phase will be the strongest choice.
 
-Dungeons
-Keeping Aggro
+
+---
+
+# Dungeons
+
+## Keeping Aggro
 
 Turn on Grit and never turn it off. As long as you keep hitting the mobs, you will have aggro on them. In multi-target situations, use AoE so that you can keep aggro on all mobs.
 
 
-Pulling Mobs
+
+## Pulling Mobs
 
 There are a variety of ways to ensure you pull all of the mobs in a pack quickly and reliably, without stopping on your way to the next pack of mobs:
 
-Run up to the mobs so they see and run to you and use an AoE combo GCD once they are in range to secure aggro
-Tab through the mobs and use Unmend while weaving any damaging oGCDs or Provoke.
+- Run up to the mobs so they see and run to you and use an AoE combo GCD once they are in range to secure aggro
+- Tab through the mobs and use Unmend while weaving any damaging oGCDs or Provoke.
 
 Try to position the mobs so that they are in a tight clump: this lets you, your dps, and your healers use their AoE damage more effectively. Pull melee enemies onto ranged enemies so that the ranged enemies are also in the clump. Alternatively, drag mobs around a corner so the ranged enemies are forced to run next to you in order to attack.
 
@@ -674,7 +742,10 @@ On 3+ targets, replace Bloodspiller with Quietus
 
 Try to maximize AoE with Salted Earth and Abyssal Drain
 
-Frequently Asked Questions
+
+--- 
+
+# Frequently Asked Questions
 Why can’t I fit 5 GCDs in Blood Weapon (or Delirium)?
 
 The single most likely reason is that you aren’t weaving Blood Weapon late into the GCD. As long as you are weaving Blood Weapon late and keeping the GCD rolling during it, 5 GCDs in Blood Weapon should be very consistent. With high latency (100+ ms), double weaves can cause the last GCD to fall out of Blood Weapon. It is possible to mitigate some latency by using a gaming VPN (for example, Mudfish or PingZapper).
@@ -689,10 +760,14 @@ Should I hold Blood Weapon for Delirium? Should I hold Delirium for Blood Weapon
 
 No. There is no inherent synergy between Blood Weapon and Delirium—Blood Weapon will always give 3000 MP and 50 Blood, regardless of if you use Delirium at the same time. Unless you know your kill-time and that holding one or the other will not lose a usage, do not hold either Blood Weapon or Delirium.
 
-Advanced Gameplay
+
+---
+
+# Advanced Gameplay
 This section assumes that you are comfortable with the entirety of the Dark Knight kit as well as the basic rotation outlined above. If you blindly try to do these optimizations without grasping the fundamentals, it is likely to be detrimental to your play, rather than improve it.
 
-Optimizing Raid Buffs Further
+
+## Optimizing Raid Buffs Further
 Moving Mana with The Blackest Night
 
 
@@ -834,11 +909,13 @@ Target gets ~6% damage increase
 
 30s
 
-Alternative Opener -- 3rd GCD Delirium
+
+## Alternative Opener -- 3rd GCD Delirium
 
 
 
 Sometimes useful if a fight benefits from a slightly earlier Delirium due to downtime or phasing.
 
-Fight-specific optimization
+
+## Fight-specific optimization
 For discussion around fight-specific optimization, please visit the #drk_encounter channel in the Balance discord and view the pins to see any up-to-date information on current encounters.
