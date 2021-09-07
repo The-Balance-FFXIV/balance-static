@@ -15,28 +15,28 @@ title: How to Fell Cleave - An Angry Wannabe-Healer, also known as Warrior 5.0 -
 
 ## A comprehensive guide on Warrior’s gameplay, current info and theory
 
-- [Introduction]
-- [Job Overview]
-- [tl;dr]
-- [Abilities Preview]
-- [Single Target]
-- [Area of Effect]
-- [oGCD]
-- [Utility]
-- [The Beast Gauge]
-- [Abilities In-Depth Overview]
-- [Single Target]
-- [Area of Effect]
-- [oGCD]
-- [Utility]
-- [The Openers and Rotation]
-- [For Dummies]
-- [For Warruru Bros]
-- [Stats, Itemisation and BiS Theory]
-- [Raid Tips and Tricks]
-- [Additional Resources]
-- [Acknowledgment]
-- [Changelog]
+- [Introduction](#introduction)
+- [Job Overview](#job-overview)
+- [tl;dr](#tl;dr)
+- [Abilities Preview](#abilities-preview)
+  - [Single Target](#single-target)
+  - [Area of Effect](#area-of-effect)
+  - [oGCD](#ogcd)
+  - [Utility](#utility)
+  - [The Beast Gauge](#the-beast-gauge)
+- [Abilities In-Depth Overview](#abilities-in-depth-overview)
+  - [Single Target](#single-target)
+  - [Area of Effect](#area-of-effect)
+  - [oGCD](#ogcd)
+  - [Utility](#utility)
+- [The Openers and Rotation](#the-openers-and-rotation)
+  - [Opener Optimisation](#opener-optimisation)
+  - [Rotation Optimisation](#rotation-optimisation)
+- [Stats, Itemisation and BiS Theory](#stats-itemisation-and-bis-theory)
+- [Raid Tips and Tricks](#raid-tips-and-tricks)
+- [Additional Resources](#additional-resources)
+- [Acknowledgment](#acknowledgment)
+- [Changelog](#changelog)
 
 
 
