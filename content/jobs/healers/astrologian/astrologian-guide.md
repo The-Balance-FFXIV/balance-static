@@ -1,8 +1,6 @@
 ---
 title: Astrologian Guide
 ---
-<!-- TODO: link proper healing guide later, so it doesnt go to the gdoc! -->
-
 # Intro to Astrologian
 
 ## Who Needs MP When You’re This Pretty?
@@ -22,73 +20,87 @@ The guide will **not**, however, list and explain your tooltips for you, except 
 
 For more in-depth AST discussion and questions beyond the scope of this guide, please direct your attention to [The Balance Discord](https://discord.gg/thebalanceffxiv), where there are plenty of skilled ASTs who are more than happy to answer questions and work with you.
 
----
+- - -
 
 # Changelog
 
-- 8/4/19 - Released for patch 5.05\
-- 11/12/19 - Updated for patch 5.1
-  - Updated due to gameplay changes:
-    -  Collective Unconscious - Updated for skill rework
-    -  Lightspeed - Updated to reflect shifting usage priority away from Sleeve Draw due to 5.1 Minor Arcana change
-    -  Minor Arcana - Included explanation of 5.1 change and how it works now
-    -  Opener - Reworked into is own section
-      -  Pre-pull - New section
-      -  The pull - New opener, including flowchart and explanation
-  -  Minor updates that don’t change gameplay:
-     -  Essential Dignity - Potency updated to reflect minor buff in 5.1
-  -  Non-patch related updates:
-     -  Neutral Sect - Included more relevant information about buff stacking and overwriting
--  12/15/20 - Updated for patch 5.4
-   -  Updated due to gameplay changes:
-     -  Horoscope - Updated to reflect automatic activation after 5.3
-     -  Lightspeed - Updated to reflect removal of MP cost reduction effect in 5.3
-     -  Draw - Updated to reflect restoring MP on use after 5.3
-     -  Sleeve Draw - Updated to reflect skill rework in 5.3
-     -  Opener - Updated to reflect new opener after 5.3 changes
-       -  Outdated Opener given its own section for posterity
-     -  Secondary Stats - Updated to reflect shift in stat focus due to better MP economy after 5.3 changes
+* 8/4/19 - Released for patch 5.05
+* 11/12/19 - Updated for patch 5.1
+
+  * Updated due to gameplay changes:
+
+    * Collective Unconscious - Updated for skill rework
+    * Lightspeed - Updated to reflect shifting usage priority away from Sleeve Draw due to 5.1 Minor Arcana change
+    * Minor Arcana - Included explanation of 5.1 change and how it works now
+    * Opener - Reworked into is own section
+    * Pre-pull - New section
+    * The pull - New opener, including flowchart and explanation
+  * Minor updates that don’t change gameplay:
+
+    * Essential Dignity - Potency updated to reflect minor buff in 5.1
+  * Non-patch related updates:
+
+    * Neutral Sect - Included more relevant information about buff stacking and overwriting
+* 12/15/20 - Updated for patch 5.4
+
+  * Updated due to gameplay changes:
+  * Horoscope - Updated to reflect automatic activation after 5.3
+  * Lightspeed - Updated to reflect removal of MP cost reduction effect in 5.3
+  * Draw - Updated to reflect restoring MP on use after 5.3
+  * Sleeve Draw - Updated to reflect skill rework in 5.3
+  * Opener - Updated to reflect new opener after 5.3 changes
+
+    * Outdated Opener given its own section for posterity
+  * Secondary Stats - Updated to reflect shift in stat focus due to better MP economy after 5.3 changes
 
 # To-Do
-- Nothing, yet?
 
----
+* Nothing, yet?
+
+- - -
 
 # Table of Contents
-- [The Scope of this Guide](#the-scope-of-this-guide)
-- [Changelog](#changelog)
-- [Table of Contents](#table-of-contents)
-- [What Makes Us Special?](#what-makes-us-special)
-  - [Mobility](#mobility)
-  - [Astrologian’s oGCDs](#astrologian-ogcds)
-    - [Earthly Star (ES)](#earthly-star-es)
-    - [Essential Dignity (ED)](#essential-dignity-ed)
-    - [Celestial Intersection (CI)](#celestial-intersection-ci)
-    - [Celestial Opposition (CO/COpp)](#celestial-opposition-cocopp)
-    - [Neutral Sect (NS)](#neutral-sect-ns)
-    - [Horoscope](#horoscope)
-    - [Collective Unconscious (CU)](#collective-unconcious-cu)
-    - [Synastry](#synastry)
-    - [Lightspeed (LS)](#lightspeed-ls)
-  - [Cards and Divination](#cards-and-divination)
-    - [Draw/Play](#draw-play)
-    - [Seals](#seals)
-    - [Divination](#divination)
-    - [Minor Arcana (MA)](#minor-arcana-ma)
-    - [Redraw](#redraw)
-    - [Sleeve Draw](#sleeve-draw) 
-    - [How Your Buffs Work Together](#how-your-buffs-work-together)
-- [Opener](#opener)
-  - [Pre-pull](#pre-pull)
-  - [The Pull](#the-pull)
-- [Miscellaneous Stuff You Should Know](#miscellaneous-stuff-you-should-know)
-  - [Strange Interactions](#strange-interactions)
-  - [Choosing a Sect](#choosing-a-sect)
-    - [Sect Swapping/Stance Dancing](#sect-swapping-stance-dancing)
-  - [Secondary Stats](#secondary-stats)
-- [Contact Stuff](#contact-stuff)
 
----
+* [The Scope of this Guide](#the-scope-of-this-guide)
+* [Changelog](#changelog)
+* [Table of Contents](#table-of-contents)
+* [What Makes Us Special?](#what-makes-us-special)
+
+  * [Mobility](#mobility)
+  * [Astrologian’s oGCDs](#astrologian-ogcds)
+
+    * [Earthly Star (ES)](#earthly-star-es)
+    * [Essential Dignity (ED)](#essential-dignity-ed)
+    * [Celestial Intersection (CI)](#celestial-intersection-ci)
+    * [Celestial Opposition (CO/COpp)](#celestial-opposition-cocopp)
+    * [Neutral Sect (NS)](#neutral-sect-ns)
+    * [Horoscope](#horoscope)
+    * [Collective Unconscious (CU)](#collective-unconcious-cu)
+    * [Synastry](#synastry)
+    * [Lightspeed (LS)](#lightspeed-ls)
+  * [Cards and Divination](#cards-and-divination)
+
+    * [Draw/Play](#draw-play)
+    * [Seals](#seals)
+    * [Divination](#divination)
+    * [Minor Arcana (MA)](#minor-arcana-ma)
+    * [Redraw](#redraw)
+    * [Sleeve Draw](#sleeve-draw) 
+    * [How Your Buffs Work Together](#how-your-buffs-work-together)
+* [Opener](#opener)
+
+  * [Pre-pull](#pre-pull)
+  * [The Pull](#the-pull)
+* [Miscellaneous Stuff You Should Know](#miscellaneous-stuff-you-should-know)
+
+  * [Strange Interactions](#strange-interactions)
+  * [Choosing a Sect](#choosing-a-sect)
+
+    * [Sect Swapping/Stance Dancing](#sect-swapping-stance-dancing)
+  * [Secondary Stats](#secondary-stats)
+* [Contact Stuff](#contact-stuff)
+
+- - -
 
 # What Makes Us Special?
 
@@ -97,12 +109,12 @@ The way the game is currently designed, the primary goal of the entire raid is t
 
 How about a trite little pros and cons list? Really it’s just an excuse for me to give an overview of the big highs and lows when it comes to Astrologian gameplay and the Astrologian job fantasy.
 
-| Pros | ~~Cons~~ Oops! All Pros! |
-| ----------- | ----------- |
-| Being pretty | Who's "oom"? idk her |
-| Stuffing people full of buffs | *Fastro* |
+| Pros                           | ~~Cons~~ Oops! All Pros!                 |
+| ------------------------------ | ---------------------------------------- |
+| Being pretty                   | Who's "oom"? idk her                     |
+| Stuffing people full of buffs  | *Fastro*                                 |
 | Feeling like a concert pianist | Cards will give uplander many brainhurts |
-| Being *very* pretty   | (Trust me, this is a pro) |
+| Being *very* pretty            | (Trust me, this is a pro)                |
 
 It may come as a surprise that cards aren’t the only thing Astrologian has going for it. We have quite a few unique strengths, actually, though not all of them are widely recognized—particularly mobility. We’ll begin with the simpler ones and work our way up to the lengthier explanations.
 
@@ -118,9 +130,9 @@ Astrologians have some incredibly powerful oGCD abilities and cooldowns that off
 
 ### Earthly Star (ES)
 
-Earthly Star is a potent AoE oGCD heal that also deals damage. Cure 3 has the advantage of being on-demand and not limited by pesky cooldowns, but it has a hefty MP cost, and you have to spend a GCD casting it (which means you’re losing a potential damage GCD). Because Earthly Star is an oGCD, it has no MP cost and does not take a GCD to use. You don’t sacrifice damage to use it (you actually gain damage since the skill itself does damage).
+Earthly Star is a potent AoE oGCD heal that also deals damage. Cure III has the advantage of being on-demand and not limited by pesky cooldowns, but it has a hefty MP cost, and you have to spend a GCD casting it (which means you’re losing a potential damage GCD). Because Earthly Star is an oGCD, it has no MP cost and does not take a GCD to use. You don’t sacrifice damage to use it (you actually gain damage since the skill itself does damage).
 
-The caveat is that it’s on a cooldown and it *requires* preemptive placement. If at all possible, Earthly Star should *always* charge for 10 seconds to become a Giant Dominance so that you get the full damage and healing potencies. The only time you would detonate it before it has charged is if you have *absolutely no choice* in order to prevent deaths, or if the damage would otherwise be wasted due to the enemy becoming untargetable or dying.
+The caveat is that it’s on a cooldown and it *requires* preemptive placement. If at all possible, Earthly Star should *always* charge for ten seconds to become a Giant Dominance so that you get the full damage and healing potencies. The only time you would detonate it before it has charged is if you have *absolutely no choice* in order to prevent deaths, or if the damage would otherwise be wasted due to the enemy becoming untargetable or dying.
 
 This is the single highest base potency upfront AoE heal in the game, short of limit breaks. It’s also a very potent source of damage in any multi-target situation due to the fact that the damage has no falloff for multiple targets. It’s one of the most important buttons in your entire kit. **Use it and abuse it.** As a general guideline, place it every time it’s available, and then adjust the timings of your placements from there.
 
@@ -164,7 +176,7 @@ This also applies if you swap sects yourself, as you might in some encounters to
 
 ### Horoscope
 
-Horoscope’s description has proven to be a little confusing for players. Upon the initial activation, Horoscope places a buff on all party members in range. This buff lasts 10 seconds. Any party member with the Horoscope buff that is hit by your Helios or Aspected Helios has their Horoscope buff upgraded to Horoscope Helios, which lasts for 30 seconds. If you reactivate Horoscope, any party member in range with the buff receives a 200 potency heal for unupgraded Horoscope, or a 400 potency heal for Horoscope Helios. If you don’t reactivate Horoscope before the buff runs out, it goes off automatically like Scholar’s Excogitation.
+Horoscope’s description has proven to be a little confusing for players. Upon the initial activation, Horoscope places a buff on all party members in range. This buff lasts ten seconds. Any party member with the Horoscope buff that is hit by your Helios or Aspected Helios has their Horoscope buff upgraded to Horoscope Helios, which lasts for 30 seconds. If you reactivate Horoscope, any party member in range with the buff receives a 200 potency heal for unupgraded Horoscope, or a 400 potency heal for Horoscope Helios. If you don’t reactivate Horoscope before the buff runs out, it goes off automatically like Scholar’s Excogitation.
 
 This ability is on a fairly short cooldown, so don’t be afraid to use it just for the base 200 potency freebie heal. Don’t cast an unnecessary Helios or Aspected Helios simply on principle to upgrade Horoscope. Either use it as a supplementary freebie heal or think of it more like a “buff my next Helios/Aspected Helios by 400 potency” skill. The nice thing is that the extra potency doesn’t have to come out immediately, and the upgraded buff lasts a very long time, so you can prepare it far in advance. Use Horoscope now and an Aspected Helios for this hit, and then pop the upgraded Horoscope heal after the next raid damage in another 20 seconds.
 
@@ -178,7 +190,7 @@ Both effects apply instantly when the ability is first activated. You can press 
 
 In Diurnal Sect, the channeled mitigation lingers for a couple seconds after you stop channeling, so you will get a few seconds of mitigation even if you simply flash the ability for an instant. Since the mitigation snapshots (for the explanation of snapshotting as a mechanic, see [general healing guide](http://bit.ly/FFXIVHealerGuide)), you can still cover raid damage with it by briefly flashing the ability shortly before the incoming damage is going to snapshot (often at the end of the cast bar, or 1-3 seconds before you receive the damage if there’s no visible cast bar).
 
-In Nocturnal Sect, you immediately get 1 free tick of the HoT when you activate the skill, even if you don’t channel it. However, unlike Diurnal Sect’s briefly lingering mitigation, the HoT in Nocturnal Sect drops off immediately when you stop channeling. Curiously, you can potentially get 2 ticks of the HoT by briefly flashing the ability if it aligns closely with a server tick, as you can get the instant “forced” tick on activation and the first natural server tick at the same time.
+In Nocturnal Sect, you immediately get one free tick of the HoT when you activate the skill, even if you don’t channel it. However, unlike Diurnal Sect’s briefly lingering mitigation, the HoT in Nocturnal Sect drops off immediately when you stop channeling. Curiously, you can potentially get two ticks of the HoT by briefly flashing the ability if it aligns closely with a server tick, as you can get the instant “forced” tick on activation and the first natural server tick at the same time.
 
 In Diurnal Sect, CU functions primarily as a low cooldown oGCD HoT with a side of mitigation that you can take advantage of whenever the timing of the fight works out. It’s a solid source of free healing on a low cooldown, so you should usually be using it quite frequently to reduce reliance on GCD heals rather than holding it too long to play around the mitigation.
 
@@ -253,11 +265,12 @@ Because card buffs only last 15 seconds, we also want to do this on a smaller sc
 
 Optimizing your card usage like this can be daunting, and it’s not the most important thing about playing Astrologian by a long shot, but it’s definitely something to be aware of. The value of your card buffs can vary hugely (literally double in some cases) depending on whether you’re giving out cards during people’s individual burst or if you’re giving people cards when they’re in the lower DPS valleys of their cycles. For instance, you don’t want to give a Summoner a card right after they’ve refreshed their DoTs and are just going to be spamming Ruin for the next 15 seconds; you want to give them a card when they’re going to refresh their DoTs with the card active or when they’re going into Trance.
 
-Sleeve Draw and Divination align in the opener and at the 6 minute mark in the fight. In the opener, we use Sleeve Draw to get Seals for Divination quickly so we can have Divination and multiple single target cards out during opening raid burst. At the 6 minute burst, it’s essentially the same thing, but less hectic since you should have seals ready for Divination ahead of time. But all the same, you want to be dishing out several cards quickly and overlapping them with Divination and other raid burst as well as you can manage. You may even hold the card from your 5:30 Draw to have an additional card partially overlapping with the 6 minute burst. In that case, you’d optimally use Draw at 5:30, Play/Minor Arcana your held card around 5:55, Draw again, Play/Minor Arcana that card on someone, activate Divination when it comes up, and then dish out another with Sleeve Draw.
+Sleeve Draw and Divination align in the opener and at the 6 minute mark in the fight. In the opener, we use Sleeve Draw to get Seals for Divination quickly so we can have Divination and multiple single target cards out during opening raid burst. At the 6 minute burst, it’s essentially the same thing, but less hectic since you should have seals ready for Divination ahead of time. But all the same, you want to be dishing out several cards quickly and overlapping them with Divination and other raid burst as well as you can manage. You may even hold the card from your 5:30 Draw to have an additional card partially overlapping with the six minute burst. In that case, you’d optimally use Draw at 5:30, Play/Minor Arcana your held card around 5:55, Draw again, Play/Minor Arcana that card on someone, activate Divination when it comes up, and then dish out another with Sleeve Draw.
 
---- 
+- - -
 
 # Opener
+
 The most up to date Astrologian opener(s) can always be found in the #ast_resources channel on The Balance Discord. Keep in mind that Astrologian openers are extremely flexible and depend almost entirely on the circumstances of the fight, the timings of the planned raid DPS bursts, and party composition. Any premade Astrologian opener is a generic framework, not a universally optimal opener.
 
 We've taken a lot of care to evaluate as many of the variables as we reasonably can and identify the core methodology of the most statistically successful opener with regard to when most DPS jobs burst the hardest and when other raid buffs should be coming out, assuming everyone is doing a proper opener. The framework is as follows, with the caveat that the card manipulation skills you use (Redraw, Minor Arcana) will depend on what you draw and when.
@@ -268,15 +281,15 @@ We've taken a lot of care to evaluate as many of the variables as we reasonably 
 
 ![Atro Opener Simple](https://saltedxiv.com/wp-content/uploads/2020/09/Astro_Opener_simple_1_03-1536x310.png)
 
-- Pre-pull Earthly Star (up to -20s depending on fight; -12s to -8s optimal for damage)
-- **-30	- Draw** (opener assumes you pull with a card in hand and Draw ready)
-- -20	- Nocturnal Sect, Neutral Sect, Horoscope
-- **-12.5	- (Nocturnal) Aspected Helios**
-- **-10	- (Nocturnal) Aspected Benefic, Diurnal Sect**
-- -7.5	- (Diurnal) Aspected Helios
-- **-5	- (Diurnal) Aspected Benefic, (Diurnal) Celestial Intersection**
-- **-3	- Mind Potion**
-- **-1.5 - Malefic precast**
+* Pre-pull Earthly Star (up to -20s depending on fight; -12s to -8s optimal for damage)
+* **\-30	- Draw** (opener assumes you pull with a card in hand and Draw ready)
+* \-20	- Nocturnal Sect, Neutral Sect, Horoscope
+* **\-12.5	- (Nocturnal) Aspected Helios**
+* **\-10	- (Nocturnal) Aspected Benefic, Diurnal Sect**
+* \-7.5	- (Diurnal) Aspected Helios
+* **\-5	- (Diurnal) Aspected Benefic, (Diurnal) Celestial Intersection**
+* **\-3	- Mind Potion**
+* **\-1.5 - Malefic precast**
 
 The bolded sections are considered fairly standard. The rest, especially using cooldowns like Neutral Sect and Horoscope pre-pull, are entirely situational depending on whether that much heal/shield prep has any actual value that early in the fight. Realistically, just the regular GCD shields along with Earthly Star are usually overkill for what damage is coming out near the start of the fight. This is just to illustrate some options that you have in the event that there’s a fight that has a large amount of damage coming out in the first 20-30 seconds.
 
@@ -290,20 +303,25 @@ This is neatly illustrated by this flowchart, which also displays the probabilit
 
 For accessibility purposes, here is a text version, excluding most pre-pull actions detailed above:
 
-- **-30	Draw**
-- **-3	Mind Potion**
-- **-1.5	Precast Malefic**
-   - Weave 1 - Lightspeed
-- **1	Combust**
-   - Weave 1 - Play card from pre-pull
-   - Weave 2 - Draw
-- **3.4	Malefic**
-   - Weave 1 - Play
-   - Weave 2 - Sleeve Draw
-- **5.8	Malefic**
-   - Weave 1 - Play
-- **8.2	Malefic**
-   - Weave 1 - Divination
+* **\-30	Draw**
+* **\-3	Mind Potion**
+* **\-1.5	Precast Malefic**
+
+  * Weave 1 - Lightspeed
+* **1	Combust**
+
+  * Weave 1 - Play card from pre-pull
+  * Weave 2 - Draw
+* **3.4	Malefic**
+
+  * Weave 1 - Play
+  * Weave 2 - Sleeve Draw
+* **5.8	Malefic**
+
+  * Weave 1 - Play
+* **8.2	Malefic**
+
+  * Weave 1 - Divination
 
 This is the basic framework of the opener. If you Draw a duplicate Seal, you simply replace the subsequent oGCD windows with Redraws as many times as necessary until you get a new Seal. Once you have your second Seal, you are free to use Sleeve Draw to guarantee the third Seal, then Play the card and use Divination.
 
@@ -337,12 +355,14 @@ Redraw can't give you the same card you have in hand, so it has slightly better 
 
 **TL;DR** - Play cards with needed seals, Redraw cards with duplicate seals. If you Redraw into another duplicate seal, you can immediately double weave MA if the oGCD grouping lines up that way. For example:
 
-- Grouping which enables MA usage:
-   - Sleeve Draw (bad seal appears) > Malefic > Redraw (bad seal appears) + MA: (bad seal appears) > Malefic > Redraw (good seal appears) + Play
-- Grouping which does not enable MA usage:
-    - Sleeve Draw (good seal appears) > Malefic > Play (bad seal appears) + Redraw (bad seal appears) > Malefic > Redraw (good seal appears) + Play
+* Grouping which enables MA usage:
 
----
+  * Sleeve Draw (bad seal appears) > Malefic > Redraw (bad seal appears) + MA: (bad seal appears) > Malefic > Redraw (good seal appears) + Play
+* Grouping which does not enable MA usage:
+
+  * Sleeve Draw (good seal appears) > Malefic > Play (bad seal appears) + Redraw (bad seal appears) > Malefic > Redraw (good seal appears) + Play
+
+- - -
 
 # Miscellaneous Stuff You Should Know
 
@@ -352,8 +372,9 @@ Astrologian has a few quirks that you kiiiind of have to know in order to play t
 
 1. Earthly Star is technically a pet. It counts as a unique, separate entity from ourselves, but it scales with our stats as a pet would. Somewhere in the spaghetti code, they’ve made the Earthly Star “pet” closely match player scaling, so the numbers you see match up with the listed potencies as though they were player potencies, unlike the reduced pet scaling observed with actual pets. This doesn’t currently have any pragmatic effect on us, and we hope it stays that way, but it has in the past.
 2. Essential Dignity calculates its heal value based on the missing health of the target at the beginning of the skill, rather than at the end, when the animation completes and the heal is delivered. This can be a good or a bad thing.
-   - If you cast Benefic II and seamlessly follow it up with Essential Dignity, the Essential Dignity calculates its heal potency based on the health the target had before the Benefic II landed, because Essential Dignity’s execution began just before the heal from Benefic II was registered. This can be somewhat finicky based on your connection, and it is less reliable with Aspected Benefic due to the difference in animations.
-   - On the flip side, if you press Essential Dignity simultaneously as a tank buster is going through, even though the animation delay causes the heal to land after the tank buster, Essential Dignity will calculate its heal potency based on the HP the tank had before he took the hit, potentially leaving you with a \~500 potency heal instead of an \~800+ potency heal.
+
+   * If you cast Benefic II and seamlessly follow it up with Essential Dignity, the Essential Dignity calculates its heal potency based on the health the target had before the Benefic II landed, because Essential Dignity’s execution began just before the heal from Benefic II was registered. This can be somewhat finicky based on your connection, and it is less reliable with Aspected Benefic due to the difference in animations.
+   * On the flip side, if you press Essential Dignity simultaneously as a tank buster is going through, even though the animation delay causes the heal to land after the tank buster, Essential Dignity will calculate its heal potency based on the HP the tank had before he took the hit, potentially leaving you with a \~500 potency heal instead of an \~800+ potency heal.
 3. Playing a non-Minor Arcana card immediately after your first hit that puts you in combat will sometimes not grant you the appropriate seal, because the game has not registered you as being in combat yet due to animation and threat table update speed shenanigans.
 
 ## Choosing a Sect
@@ -374,12 +395,12 @@ Diurnal remains generally very efficient, but thanks to Celestial Opposition and
 
 To put some numbers to it:
 
-- Diurnal Aspected Benefic is 1200 total potency for 500 MP.
-- Nocturnal Aspected Benefic is 700 total potency for 900 MP.
-- Diurnal Aspected Helios (and Celestial Opposition) is 700 total potency.
-- Nocturnal Aspected Helios (and Celestial Opposition) is 450 total potency.
-- Diurnal Celestial Intersection is 600 total potency.
-- Nocturnal Celestial Intersection is 950 total potency.
+* Diurnal Aspected Benefic is 1200 total potency for 500 MP.
+* Nocturnal Aspected Benefic is 700 total potency for 900 MP.
+* Diurnal Aspected Helios (and Celestial Opposition) is 700 total potency.
+* Nocturnal Aspected Helios (and Celestial Opposition) is 450 total potency.
+* Diurnal Celestial Intersection is 600 total potency.
+* Nocturnal Celestial Intersection is 950 total potency.
 
 Notably, Nocturnal Aspected Benefic and Benefic II are both 700 total potency for 900 MP. The only difference is that Aspected Benefic is an instant cast and part of it is a shield, so it can be used to create an additional buffer on top of someone’s max HP.
 
@@ -390,6 +411,7 @@ Of course, if you happen to be in a party with another Astrologian (my condolenc
 In dungeons, you can swap to Nocturnal Sect just as the last enemy in a pull dies, apply a shield to the tank in preparation for the next pull, and then swap back to Diurnal Sect. This gives you a nice buffer for the tank’s HP while he gathers the mobs, giving you more time to DPS or do whatever else before you need to heal the tank.
 
 ## Secondary Stats
+
 The most up to date Astrologian best-in-slot (BiS) set(s) can always be found in the #ast_resources channel on [The Balance Discord.](https://discord.gg/thebalanceffxiv)
 
 Secondaries for Astrologian follow the same convoluted explanation given in the [general healing guide.](http://bit.ly/FFXIVHealerGuide) TL;DR crit is usually king, determination and direct hit are basically interchangeable, and spell speed is… its own beast. There are no relevant stats that are especially bad on Astrologian, really.
@@ -404,7 +426,8 @@ This is why you’ll often see very fast Astrologian gearsets. Crit is usually s
 
 As always, try it out for yourself, and **if you’re testing to see if you clip at a certain speed, make sure you test inside an instance.** Instance servers are significantly more responsive than overworld servers, and you will likely get noticeably different results between the two.
 
---- 
+- - -
 
 # Contact Stuff
+
 I’m Zyrkhan Dar’locke on Gilgamesh. You can find me as Zyrk#8529 on The Balance Discord, as an admin and Astrologian mentor, for feedback, questions, comments, etc. Feel free to contact me directly for things relating to the guide, but as always, The Balance Discord is open for gameplay questions, guidance, and discussion.
