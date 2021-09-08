@@ -29,6 +29,8 @@ Hello and welcome to Monkey, I am Perfect Balance and I am going to feed you the
     * Double Dragon
     * Drifting 101
   * Core gameplay loop
+
+    * Post-opener RoFs
   * Utility/Situational Skills and how to use them
   * How to Effect Areas
 * Section 4
@@ -246,15 +248,15 @@ When in Opo-Opo form, you check if you have Leaden Fist active. If you do, use B
 
 When in Raptor form you check the duration of your Twin Snakes. If its at 9 seconds remaining or more, press True Strike, if less, reapply Twin Snakes.
 
-When in Coeurl form, check the duration of your Demolish. If its' at 2 seconds remaining or less reapply Demolish, else press Snap Punch.
+When in Coeurl form, check the duration of your Demolish. If it's at 2 seconds remaining or less reapply Demolish, else press Snap Punch.
 
-Now on the face of it this might seem really confusing and like you're constantly having to check things, but in reality it's very simple.
-
-You'll notice that when applying this system, the rotation actually falls into a very repetetive pattern. Your Opo-Opo GCDs will always alternate between Bootshine and Dragon Kick. Your Raptor GCDs will always alternate between True Strike and Twin Snakes. Your Coeurl GCDs will always have 2 Snap Punches inbetween every Demolish.
+Now on the face of it this might seem really confusing and like you're constantly having to check things, but in reality it's very simple. You'll notice that when applying this system, the rotation actually falls into a very repetetive pattern. Your Opo-Opo GCDs will always alternate between Bootshine and Dragon Kick. Your Raptor GCDs will always alternate between True Strike and Twin Snakes. Your Coeurl GCDs will always have 2 Snap Punches inbetween every Demolish.
 
 Depending on the opener you used, your ensuing rotation will end up looking like one of the 2 following images;
 
 ![](/img/rotation-loop-thing.png)
+
+### Post-Opener RoFs
 
 Now you may wonder what do you do when your buffs come back up, and the answer is thankfully quite simple - you simply redo your opener. Now when I say redo I don't mean *exactly* redo it, as you'll notice that your Opo-Opo GCDs have naturally flipped since the opener. This means that if you started the fight with the Standard opener, your first RoF usage will look exactly like the Early opener. If you started with the Early opener, you'll end up doing the Standard opener. This continues to alternate throughout the fight. 
 
@@ -289,7 +291,7 @@ Second Wind, a 120 second cooldown that instantly heals you for 500 potency. See
 
 Now that we've covered how Monk works and its single target rotation, how to AoE will hopefully be much easier to understand.
 
-Monk actually has a third GCD option on each of its forms, these are our AoE GCDs.
+Monk has a third GCD option on each of its forms, these are our AoE GCDs.
 
 Opo-Opo form has Arm of the Destroyer, a circle AoE around you with a 110 potency, or 140 with form bonus.
 
