@@ -64,7 +64,7 @@ If you know the basics and want to push the limits of Warrior gameplay, carry on
 
 > \*On the northernmost edge of Abalathia's Spine exists a mountain tribe renowned for producing fearsome mercenaries. Wielding great axes and known as 
 
-Warriors, these men and women learn to harness their inner-beasts and translate that power to unbridled savagery on the battlefield.*
+Warriors, these men and women learn to harness their inner-beasts and translate that power to unbridled savagery on the battlefield.
 
 Warrior is a powerhouse combining both very unique defensive and offensive kits. 
 
