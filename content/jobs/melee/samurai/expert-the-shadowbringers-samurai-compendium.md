@@ -17,7 +17,7 @@ title: "Expert: The Shadowbringers Samurai Compendium"
 * Introduction
 * The 5.0 Samurai Rotation Changes
 
-  * [Tsubame Gaeshi is Restrictive and Inflexible](#tsubame-gaeshi-is-restrictve-and-inflexible)
+  * Tsubame Gaeshi is Restrictive and Inflexible
   * \[The Crumbs: Normalised Cooldown Times]
   * \[The Solution: A Rotation Loop]
 * \[Optimising Potency]
