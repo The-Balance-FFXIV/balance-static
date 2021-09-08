@@ -206,7 +206,7 @@ We never hold any of our oGCDs. You'll notice that every skills cooldown is a mu
 
 ![](/img/mnk-openers.png)
 
-We currently have 2 different openers, the Standard and the Early opener. Generally you're better off using the standard opener, the early opener is better for specific situations based on fight/phase length where you're able to get an additional use of oGCDs, extra time on a buff, or better buff timings for your group. If you have the ability to double weave without clipping your GCD this allows you to consolidate your Brotherhood and Perfect Balance into a double weave, freeing up an oGCD slot for potential Forbidden Chakra procs. This can be done for both the standard and early opener, however it will change your Brotherhood timing so you may wish to let your group know in case they were planning around your Brotherhood.
+We currently have 2 different openers, the Standard and the Early opener. Generally you're better off using the standard opener, the early opener is better for specific situations based on fight/phase length where you're able to get an additional use of oGCDs, extra time on a buff, or better buff timings for your group. If you have the ability to double weave without clipping your GCD this allows you to consolidate your Brotherhood and Perfect Balance into a double weave, freeing up an oGCD slot for potential Forbidden Chakra procs. This can be done for both the standard and early opener, however it will change your Brotherhood timing so you may wish to let your group know in case anyone was planning around your Brotherhood.
 
 The reason the openers work the way they do is as follows; Form Shift prepull so we don't have to do a non-form GCD. Leaden Fist is the single most important buff to gain as it grants an additional 170 potency to our guaranteed crit Bootshine, so we want to get that ASAP. Twin Snakes following this because its a 10% damage buff and we want that up as our next priority. Riddle of Fire next because Demolish is our highest potency GCD and by applying it as our first GCD in Riddle of Fire means we can do a 2nd Demolish as our final GCD under the buff. Following Demolish is The Forbidden Chakra so we don't overcap on chakras and waste any potential stacks, as our next Bootshine is a guaranteed crit so would otherwise be wasted. After the Bootshine we use Perfect Balance, which allows us to alternate between Dragon Kick/Bootshine for 6 GCDs. This is simply the most damage efficient way of spending our 6 PB stacks. Once Perfect Balance falls off you should always use Dragon Kick, reapply Twin Snakes, and finally end with a Demolish.
 
@@ -309,26 +309,30 @@ At 4+ enemies you shift to entirely using only your 3 AoE GCDs.
 
 ## FAQ
 
-"RoF is coming up too early in my rotation, what do?"
+* "RoF is coming up too early in my rotation, what do?"
 
 This likely means your GCD is too fast, and should naturally fix itself when you reach the desired GCD threshold of 1.96. In the meantime, you can fix this by doing an additional uncomboed Dragon Kick following a previous Dragon Kick. This will slow you down by 1 GCD and should realign RoF with Demolish.
 
-"Why are there 2 Dragon Kicks in the opener?"\
-"Why don't I get Leaden Fist after using PB?"
+* "Why don't I get Leaden Fist after using PB?"
 
-So these are kind of the same question with more or less the same answer. You may have noticed that after Perfect Balance we don't have any form, so we *have* to do a single GCD without form. We always want this formless GCD to be a Dragon Kick, as it's stronger than an uncomboed Bootshine. 
+As mentioned, your first GCD after PB is formless so will not grant you a Leaden Fist. This is totally fine and normal.
 
-"If I end PB with Leaden Fist, should I not do an uncomboed Bootshine instead?"
+* "If I end PB with Leaden Fist, should I not do an uncomboed Bootshine instead?"
 
 No, as this would be a waste of the Leaden Fist proc. You want all of your Bootshines to be guaranteed crits, so you would stick to the rule of "Always DK after PB" to make sure the Leaden isn't eaten by an uncomboed Boot. Remember, we're not 'wasting'/'overcapping' on Leaden stacks here as the DK is uncomboed.
 
-"What should I meld on X"
-
-"What stats are the best"
+* "What should I meld on X"
 
 For Monk we want Crit > DH > Det.
 
-Current BIS sets can be found here: https://etro.gg/gearset/388e7ee7-2919-49bf-b1d8-75fcfae73ce5 (No relic) and here https://etro.gg/gearset/2a0fbde0-fa6f-47b6-aa0d-9b7d240c6e19 (Relic)
+* "What's bis"/"What stats should I put on my relic)
 
-"Twin Snakes falls off in my opener, is that normal?"\
-Yep, Twin Snakes will fall off for a little but during PB.
+Current BIS sets can be found here:
+
+[No relic bis](https://etro.gg/gearset/388e7ee7-2919-49bf-b1d8-75fcfae73ce5)
+
+[Relic](https://etro.gg/gearset/2a0fbde0-fa6f-47b6-aa0d-9b7d240c6e19)
+
+* "Twin Snakes falls off in my opener, is that normal?"
+
+Yep, Twin Snakes will fall off for a little bit during PB.
