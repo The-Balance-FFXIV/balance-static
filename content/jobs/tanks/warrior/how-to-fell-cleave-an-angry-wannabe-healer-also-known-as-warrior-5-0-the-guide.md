@@ -86,6 +86,8 @@ Remember, no man can win every battle, but no man should fall without a struggle
 
 ## IC IR IC IC Opener
 
+![Opener](https://i.imgur.com/WB2SEtL.png)
+
 Nascent Flash is free to be moved around depending on damage taken. Here it is used to teach people to use Inner Release on the second oGCD slot.
 
 ## Rotation (is a priority now)
@@ -181,8 +183,8 @@ Abilities will be presented in a tabular format for easy reading.
 
 The Beast Gauge will be the main resource you will have to manage when playing Warrior. You will naturally accumulate the Beast Gauge during your rotation and will be able to spend it on specific skills. **IT DOESN’T INCREASE CRIT ANYMORE.**
 
-![Gauge 1](https://ffxiv.consolegameswiki.com/mediawiki/images/5/5d/Beast_gauge_pvp1.png)
-![Gauge 2](https://ffxiv.consolegameswiki.com/mediawiki/images/8/89/Beast_gauge_pvp_simple_mode1.png)
+![Gauge 1](https://img.finalfantasyxiv.com/lds/promo/h/G/8mnBmkrAJdhB7ZPLG812UiFhxk.png)
+![Gauge 2](https://img.finalfantasyxiv.com/lds/promo/h/k/3GHiS3XIjitdQYTykl4K02V_Kw.png)
 
 Several actions will increase the Beast Gauge:
 
@@ -691,7 +693,6 @@ For the original layout of GNB guide which had its contents gutted multiple time
 
   * Fixed some typos and brainfarts
 * 2020-02-19
-
   * Added a BLURB for the looping rotation. Big explanation about 1-2-3 path phases. Also adjusted some Onslaught text to answer questions like “When should I use it?”
 * 2020-07-06
 
