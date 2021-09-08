@@ -358,31 +358,18 @@ Similarly, try to use three Blood Gauge spenders (i.e. Living Shadow, Bloodspill
 
 ```/merror
 /ac "Salted Earth" <me>
-
 /ac "Salted Earth" <me>
-
 /ac "Salted Earth" <me>
-
 /ac "Salted Earth" <me>
-
 /ac "Salted Earth" <me>
-
 /ac "Salted Earth" <me>
-
 /ac "Salted Earth" <me>
-
 /ac "Salted Earth" <me>
-
 /ac "Salted Earth" <me>
-
 /ac "Salted Earth" <me>
-
 /ac "Salted Earth" <me>
-
 /ac "Salted Earth" <me>
-
 /ac "Salted Earth" <me>
-
 /micon "Salted Earth"
 ```
 
@@ -390,34 +377,19 @@ Similarly, try to use three Blood Gauge spenders (i.e. Living Shadow, Bloodspill
 
 ```
 /merror off
-
-
 /ac "The Blackest Night" <mo>
-
 /ac "The Blackest Night" <mo>
-
 /ac "The Blackest Night" <mo>
-
 /ac "The Blackest Night" <mo>
-
 /ac "The Blackest Night" <mo>
-
 /ac "The Blackest Night" <mo>
-
 /ac "The Blackest Night" <mo>
-
 /ac "The Blackest Night" <mo>
-
 /ac "The Blackest Night" <mo>
-
 /ac "The Blackest Night" <mo>
-
 /ac "The Blackest Night" <mo>
-
 /ac "The Blackest Night" <mo>
-
 /ac "The Blackest Night" <mo>
-
 /micon "The Blackest Night"
 ```
 
@@ -425,33 +397,19 @@ Similarly, try to use three Blood Gauge spenders (i.e. Living Shadow, Bloodspill
 
 ```
 /merror off
-
 /ac "Shirk" <2>
-
 /ac "Shirk" <2>
-
 /ac "Shirk" <2>
-
 /ac "Shirk" <2>
-
 /ac "Shirk" <2>
-
 /ac "Shirk" <2>
-
 /ac "Shirk" <2>
-
 /ac "Shirk" <2>
-
 /ac "Shirk" <2>
-
 /ac "Shirk" <2>
-
 /ac "Shirk" <2>
-
 /ac "Shirk" <2>
-
 /ac "Shirk" <2>
-
 /micon "Shirk" 
 ```
 
