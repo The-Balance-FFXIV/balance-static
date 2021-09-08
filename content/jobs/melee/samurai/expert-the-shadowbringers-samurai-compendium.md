@@ -13,9 +13,9 @@ title: "Expert: The Shadowbringers Samurai Compendium"
 
 # Table of Contents
 
-* [Table of Contents](#table-of-contents)
-* [Introduction](#introduction)
-* [The 5.0 Samurai Rotation Changes](#the-5.0-samurai-rotation-changes)
+* Table of Contents
+* Introduction
+* The 5.0 Samurai Rotation Changes
 
   * [Tsubame Gaeshi is Restrictive and Inflexible](#tsubame-gaeshi-is-restrictve-and-inflexible)
   * \[The Crumbs: Normalised Cooldown Times]
