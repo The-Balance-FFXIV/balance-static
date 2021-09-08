@@ -695,205 +695,82 @@ Tooltips here are rewritten from the official translations to clarify some porti
 | ![ra](https://xivapi.com/i/002000/002616.png) | Refulgent Arrow (RA) | Delivers an attack with a potency of 340. <br> Can only be executed when Straight Shot Ready. |
 | ![stormbite](https://xivapi.com/i/002000/002614.png) | Stormbite (SB) | Deals wind damage with a potency of 100. <br> Additional Effect: Deals wind damage over time, with a potency of 50 every 3s for 30s. <br> Additional Effect: 35% chance of becoming Straight Shot Ready for 10s. | 
 | ![caustic bite](https://xivapi.com/i/002000/002613.png) | Caustic Bite (CB) | Delivers an attack with a potency of 150. <br> Additional Effect: Deals damage over time, with a potency of 40 every 3s for 30s. <br> Additional Effect: 35% chance of becoming Straight Shot Ready for 10s. | 
-| icon | Iron Jaws (IJ) | Delivers an attack with a potency of 100. <br> Additional Effect: If the target is suffering from a Caustic Bite or Stormbite effect inflicted by you, the effect duration is reset to 30s. <br> Additional Effect: 35% chance of becoming Straight Shot Ready for 10s.
-| icon | Apex Arrow | Consumes all Soul Voice to deliver an attack with a potency of 6 per Soul Voice expended (up to 600) to all enemies in a straight line before you. 25y range. <br> Minimum Soul Voice Gauge Cost: 20.
-| icon | Quick Nock (QN) | Delivers an attack with a potency of 150 to all enemies in a cone before you. <br> Additional Effect: 30% chance the recast timer for Bloodletter and Rain of Death will be reset
+| ![iron jaws](https://xivapi.com/i/002000/002608.png) | Iron Jaws (IJ) | Delivers an attack with a potency of 100. <br> Additional Effect: If the target is suffering from a Caustic Bite or Stormbite effect inflicted by you, the effect duration is reset to 30s. <br> Additional Effect: 35% chance of becoming Straight Shot Ready for 10s.
+| ![apex arrow](https://xivapi.com/i/002000/002619.png) | Apex Arrow | Consumes all Soul Voice to deliver an attack with a potency of 6 per Soul Voice expended (up to 600) to all enemies in a straight line before you. 25y range. <br> Minimum Soul Voice Gauge Cost: 20.
+| ![QN](https://xivapi.com/i/000000/000360.png) | Quick Nock (QN) | Delivers an attack with a potency of 150 to all enemies in a cone before you. <br> Additional Effect: 30% chance the recast timer for Bloodletter and Rain of Death will be reset
 
 
 
 
 ### Songs + Repertoire
 
-Wanderer’s Minuet (WM)
-Deals unaspected damage with a potency of 100.
 
+| | | |
+|---|---|---|
+| ![WM icon](https://xivapi.com/i/002000/002607.png) | Wanderer’s Minuet (WM) | Deals unaspected damage with a potency of 100. <br> Additional Effect: For the next 30s or until another song is used, 40% chance to grant Repertoire when damage over time is dealt by Caustic Bite or Stormbite. <br>Repertoire Effect: Allows execution of Pitch Perfect. <br>Can be stacked up to 3 times. <br>Additional Effect: Nearby party members get +2% to critical strike chance. <br>Range: 30y <br>Recast time: 80s
+| ![pp](https://xivapi.com/i/002000/002611.png) | Pitch Perfect (PP) | Delivers an attack with a potency of 100 when Repertoire stack is 1, 250 when Repertoire stack is 2, and 450 when Repertoire stack is 3. <br> Can only be executed when the Wanderer's Minuet is active. Consumes all Repertoire. <br> Recast time: 3s
+| ![mb icon](https://xivapi.com/i/002000/002602.png) | Mage’s Ballad (MB) | Deals unaspected damage with a potency of 100. <br> Additional Effect: For the next 30s or until another song is used, 40% chance to grant Repertoire when damage over time is dealt by Caustic Bite or Stormbite. <br>Repertoire Effect: Resets the recast timer of Bloodletter and Rain of Death. <br>Additional Effect: Nearby party members deal 1% increased damage. <br>Range: 30y <br>Recast time: 80s
+| ![bloodletter](https://xivapi.com/i/000000/000361.png) | Bloodletter (BL) | Delivers an attack with a potency of 150. <br>Shares a recast timer with Rain of Death. <br>Recast time: 15s
+| ![ROD](https://xivapi.com/i/002000/002605.png) | Rain of Death (RoD) | Delivers an attack with a potency of 130 to target and all enemies nearby it. <br>Shares a recast timer with Bloodletter. <br>Recast time: 15s. 
+| ![AP icon](https://xivapi.com/i/002000/002603.png) | Army’s Paeon (AP) | Deals unaspected damage with a potency of 100. | Additional Effect: For the next 30s or until another song is used, 40% chance to grant Repertoire when damage over time is dealt by Caustic Bite or Stormbite. <br>Repertoire Effect: Reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay by 4% <br>Can be stacked up to 4 times. <br>Additional Effect: Nearby party members get +3% to direct hit chance. <br>Range: 30y <br>Recast time: 80s | 
+| ![EAP](https://xivapi.com/i/005000/005314.png) | Enhanced Army’s Paeon | During Army’s Paeon or within 30 seconds of Army’s Paeon ending, using the Wanderer’s Minuet or Mage’s Ballad will grant Army’s Muse for 10s. Army’s Muse reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay, depending on the number of Repertoire stacks in the previous Army’s Paeon. <br>1 Repertoire: 1% <br>2 Repertoire: 2% <br>3 Repertoire: 4% <br>4 Repertoire: 12%
+| ![empyreal arrow](https://xivapi.com/i/002000/002606.png) | Empyreal Arrow (EA) | Delivers an attack with a potency of 230. Grants the effect of Repertoire if used during the Wanderer’s Minuet, Mage’s Ballad, or Army’s Paeon. <br>Recast time: 15s | 
 
-Additional Effect: For the next 30s or until another song is used, 40% chance to grant Repertoire when damage over time is dealt by Caustic Bite or Stormbite
-Repertoire Effect: Allows execution of Pitch Perfect.
-Can be stacked up to 3 times.
 
+### Other oGCDs
 
-Additional Effect: Nearby party members get +2% to critical strike chance.
-Range: 30y
 
-Recast time: 80s
+| | | |
+|---|---|---|
+| ![barrage](https://xivapi.com/i/000000/000353.png) | Barrage | Triples the number of strikes for the next single-target weaponskill used within 10s. Additional effects are not tripled. <br>Additional Effect: Grants Straight Shot Ready for 10s. <br>Recast time: 80s
+| ![raging strikes](https://xivapi.com/i/000000/000352.png) | Raging Strikes (RS) | Increases damage dealt by 10% for 20s. <br>Recast time: 80s
+| ![sidewinder](https://xivapi.com/i/002000/002610.png) | Sidewinder (SW) | Delivers an attack with a potency of 100. <br>Additional Effect: If the target is suffering from a Caustic Bite or Stormbite effect inflicted by you, Sidewinder potency is increased to 200 for one effect, or 350 for both. <br>Shares a recast timer with Shadowbite. <br>Recast time: 60s 
+| ![SHADBITE](https://xivapi.com/i/002000/002617.png) | Shadowbite | Delivers an attack with a potency of 100 to target and all enemies nearby it. <br> Additional Effect: If the primary target is suffering from a Caustic Bite or Stormbite effect inflicted by you, Shadowbite potency on all targets is increased to 160 for one effect, or 220 for both. <br>Shares a recast timer with Sidewinder. <br>Recast time: 60s
 
-Pitch Perfect (PP)
-Delivers an attack with a potency of 100 when Repertoire stack is 1, 250 when Repertoire stack is 2, and 450 when Repertoire stack is 3.
 
 
-Can only be executed when the Wanderer's Minuet is active. Consumes all Repertoire.
 
-Recast time: 3s
+### Utility
 
+| | | |
+|---|---|---|
+| ![battle voice](https://xivapi.com/i/002000/002601.png) | Battle Voice (BV) | Increases direct hit rate of all nearby party members by 20% for 20s. Does not affect the user. <br> Can only be executed while singing Mage's Ballad, Army's Paeon, or the Wanderer's Minuet. <br>Recast time: 180s
+| ![troub](https://xivapi.com/i/002000/002612.png) | Troubadour (Troub) | Reduces damage taken by self and nearby party members by 10% for 15s. <br>Effect cannot be stacked with Machinist's Tactician or Dancer's Shield Samba. <br>Recast time: 120s 
+| ![NM](https://xivapi.com/i/002000/002615.png) | Nature’s Minne | Increases HP recovery via healing actions for self or the target party member by 20% for 15s. <br>Recast time: 90s 
+| ![SW](https://xivapi.com/i/000000/000821.png) | Second Wind | Instantly restores own HP. <br>Cure Potency: 500 <br>Recast time: 120s
+| ![AL](https://xivapi.com/i/000000/000822.png) | Arm’s Length | Creates a barrier nullifying most knockback and draw-in effects for 6s. <br>Additional Effect: Slow +20% for 15s when barrier is struck. <br>Recast time: 120s			
+| ![hg](https://xivapi.com/i/000000/000848.png) | Head Graze | Interrupts the use of a target's interruptible action. <br>Recast time: 30s 
+| ![REPELL SHOT](https://xivapi.com/i/000000/000366.png) | Repelling Shot | Jump 10 yalms away from current target. 5y range. <br>Cannot be executed while bound. <br>Recast time: 30s
+| ![WP](https://xivapi.com/i/002000/002609.png) | The Warden’s Paean| Removes one cleansable detrimental effect from self or target party member. If there are no such effects, instead adds a barrier that absorbs the next cleansable detrimental effect within 30s. <br> Recast time: 45s
 
 
-Mage’s Ballad (MB)
-Deals unaspected damage with a potency of 100.
 
 
-Additional Effect: For the next 30s or until another song is used, 40% chance to grant Repertoire when damage over time is dealt by Caustic Bite or Stormbite
-Repertoire Effect: Resets the recast timer of Bloodletter and Rain of Death
+--- 
 
-Additional Effect: Nearby party members deal 1% increased damage.
-Range: 30y
+# Credits
+Visit us on [The Balance Discord](https://discordapp.com/invite/thebalanceffxiv)!
 
-Recast time: 80s
+- Verzell Varion [Adamantoise] - Discord: infinitestory#6021 - main guide author
 
-Bloodletter (BL)
-Delivers an attack with a potency of 150.
 
+- Im’hotep Rah [Goblin] - Discord: nerdler33#2017 - contributor, theorycrafter
 
-Shares a recast timer with Rain of Death.
 
-Recast time: 15s
+- Sana Cetonis [Sargatanas] - contributor, theorycrafter
 
-Rain of Death (RoD)
-Delivers an attack with a potency of 130 to target and all enemies nearby it.
 
+- Ellunavi Sevald [Sargatanas] - simulator writer
 
-Shares a recast timer with Bloodletter.
 
-Recast time: 15s
+- Yumiya Nagatsuki [Behemoth] - reviewer, theorycrafter
 
-Army’s Paeon (AP)
-Deals unaspected damage with a potency of 100.
 
+- Elya Kura [Ragnarok] - reviewer, styling + graphics
 
-Additional Effect: For the next 30s or until another song is used, 40% chance to grant Repertoire when damage over time is dealt by Caustic Bite or Stormbite
-Repertoire Effect: Reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay by 4%
-Can be stacked up to 4 times.
 
-Additional Effect: Nearby party members get +3% to direct hit chance.
-Range: 30y
 
-Recast time: 80s
 
-Enhanced Army’s Paeon
-During Army’s Paeon or within 30 seconds of Army’s Paeon ending, using the Wanderer’s Minuet or Mage’s Ballad will grant Army’s Muse for 10s. Army’s Muse reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay, depending on the number of Repertoire stacks in the previous Army’s Paeon.
-
-1 Repertoire: 1%
-2 Repertoire: 2%
-3 Repertoire: 4%
-4 Repertoire: 12%
-
-Empyreal Arrow (EA)
-Delivers an attack with a potency of 230. Grants the effect of Repertoire if used during the Wanderer’s Minuet, Mage’s Ballad, or Army’s Paeon.
-
-Recast time: 15s
-
-Other oGCDs
-
-Barrage
-Triples the number of strikes for the next single-target weaponskill used within 10s. Additional effects are not tripled.
-
-
-Additional Effect: Grants Straight Shot Ready for 10s.
-
-Recast time: 80s
-
-Raging Strikes (RS)
-Increases damage dealt by 10% for 20s.
-
-Recast time: 80s
-
-Sidewinder (SW)
-Delivers an attack with a potency of 100.
-Additional Effect: If the target is suffering from a Caustic Bite or Stormbite effect inflicted by you, Sidewinder potency is increased to 200 for one effect, or 350 for both
-
-
-Shares a recast timer with Shadowbite.
-
-Recast time: 60s
-
-Shadowbite
-Delivers an attack with a potency of 100 to target and all enemies nearby it.
-Additional Effect: If the primary target is suffering from a Caustic Bite or Stormbite effect inflicted by you, Shadowbite potency on all targets is increased to 160 for one effect, or 220 for both
-
-
-Shares a recast timer with Sidewinder.
-
-Recast time: 60s
-
-
-Utility
-
-Battle Voice (BV)
-Increases direct hit rate of all nearby party members by 20% for 20s. Does not affect the user.
-
-
-Can only be executed while singing Mage's Ballad, Army's Paeon, or the Wanderer's Minuet.
-
-Recast time: 180s
-
-Troubadour (Troub)
-Reduces damage taken by self and nearby party members by 10% for 15s.
-
-
-Effect cannot be stacked with Machinist's Tactician or Dancer's Shield Samba.
-
-Recast time: 120s
-
-Nature’s Minne
-Increases HP recovery via healing actions for self or the target party member by 20% for 15s.
-
-Recast time: 90s
-
-Second Wind
-Instantly restores own HP.
-
-
-Cure Potency: 500
-
-Recast time: 120s
-
-Arm’s Length
-Creates a barrier nullifying most knockback and draw-in effects for 6s.
-
-
-Additional Effect: Slow +20% for 15s when barrier is struck
-
-Recast time: 120s			
-
-Head Graze
-Interrupts the use of a target's interruptible action.
-
-Recast time: 30s
-
-Repelling Shot
-Jump 10 yalms away from current target. 5y range.
-
-
-Cannot be executed while bound.
-
-Recast time: 30s
-
-The Warden’s Paean
-Removes one cleansable detrimental effect from self or target party member. If there are no such effects, instead adds a barrier that absorbs the next cleansable detrimental effect within 30s.
-
-Recast time: 45s
-
-
-
-Credits
-Visit us on The Balance Discord!
-
-Verzell Varion [Adamantoise] - Discord: infinitestory#6021 - main guide author
-
-
-Im’hotep Rah [Goblin] - Discord: nerdler33#2017 - contributor, theorycrafter
-
-
-Sana Cetonis [Sargatanas] - contributor, theorycrafter
-
-
-Ellunavi Sevald [Sargatanas] - simulator writer
-
-
-Yumiya Nagatsuki [Behemoth] - reviewer, theorycrafter
-
-
-Elya Kura [Ragnarok] - reviewer, styling + graphics
 
 
 
