@@ -23,11 +23,11 @@ If you have any questions, corrections, or suggestions, please come visit us on 
 
 # Table of Contents
 
-- [Foreword]
-- [How to Use this Guide]
-- [Changelog]
-- [Glossary]
-- [Basic Gameplay]
+- [Foreword](#foreword)
+- [How to Use this Guide](#how-to-use-this-guide)
+- [Changelog](#changelog)
+- [Glossary](#glossary)
+- [Basic Gameplay](#basic-gameplay)
   - [Priority System Overview]
   - [Always Be Casting + Basics of Weaving]
   - [DoTs]
