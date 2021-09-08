@@ -4,8 +4,9 @@ title: The Pursuit of Comfiness - Bard Guide 5.X
 
 
 # The Pursuit of Comfiness - Bard Guide 5.X
-## by Verzell Varion [Adamantoise]
-### with contributions from Im’hotep Rah [Goblin], Sana Cetonis [Sargatanas], Ellunavi Sevald [Sargatanas], Yumiya Nagatsuki [Behemoth], Elya Kura [Ragnarok]
+## Authors
+by **Verzell Varion [Adamantoise]**
+**with contributions from Im’hotep Rah [Goblin], Sana Cetonis [Sargatanas], Ellunavi Sevald [Sargatanas], Yumiya Nagatsuki [Behemoth], Elya Kura [Ragnarok]**
 
 --- 
 
@@ -23,41 +24,50 @@ If you have any questions, corrections, or suggestions, please come visit us on 
 
 # Table of Contents
 
+- [The Pursuit of Comfiness - Bard Guide 5.X](#the-pursuit-of-comfiness---bard-guide-5x)
+  - [Authors](#authors)
 - [Foreword](#foreword)
+- [Table of Contents](#table-of-contents)
 - [How to Use this Guide](#how-to-use-this-guide)
 - [Changelog](#changelog)
 - [Glossary](#glossary)
 - [Basic Gameplay](#basic-gameplay)
-  - [Priority System Overview]
-  - [Always Be Casting + Basics of Weaving]
-  - [DoTs]
-  - [Song Rotation + Procs]
-  - [Wanderer’s Minuet + Raging Strikes + Barrage Alignment]
-  - [Other Offensive Skills]
-- [Changes from Stormblood]
-- [Changes during Shadowbringers]
-- [Opener]
-  - [Prepull RS (recommended)]
-  - [Prepull RS (ping-friendly)]
-- [Utility Cooldowns]
-- [Advanced Gameplay]
-  - [RS Alignment Choice]
-  - [Iron Jaws]
-  - [Procs in WM]
-  - [Procs in MB]
-  - [Song Transitions]
-  - [Extending AP]
-  - [Refulgent Arrow Procs]
-  - [Apex Arrow]
-  - [Fight Mapping]
-- [AoE]
-- [Clarified Tooltip Reference]
-  - [GCDs]
-  - [Songs + Repertoire]
-  - [Other oGCDs]
-  - [Utility]
-- [Credits]
-
+  - [Priority System Overview](#priority-system-overview)
+    - [GCD Priority - keep your GCD rolling!](#gcd-priority---keep-your-gcd-rolling)
+    - [oGCD Priority - do between GCDs](#ogcd-priority---do-between-gcds)
+  - [Always Be Casting + Basics of Weaving](#always-be-casting--basics-of-weaving)
+  - [DoTs](#dots)
+  - [Song Rotation + Procs](#song-rotation--procs)
+  - [Wanderer’s Minuet + Raging Strikes + Barrage Alignment](#wanderers-minuet--raging-strikes--barrage-alignment)
+  - [Other Offensive Skills](#other-offensive-skills)
+- [Changes from Stormblood](#changes-from-stormblood)
+- [Changes during Shadowbringers](#changes-during-shadowbringers)
+- [Opener](#opener)
+  - [Prepull RS (recommended)](#prepull-rs-recommended)
+    - [Opener comparison:](#opener-comparison)
+  - [Prepull RS (ping-friendly)](#prepull-rs-ping-friendly)
+    - [Opener comparison:](#opener-comparison-1)
+- [Utility Cooldowns](#utility-cooldowns)
+- [Advanced Gameplay](#advanced-gameplay)
+  - [RS Alignment Choice](#rs-alignment-choice)
+  - [Iron Jaws](#iron-jaws)
+  - [Procs in WM](#procs-in-wm)
+  - [Procs in MB](#procs-in-mb)
+  - [Song Transitions](#song-transitions)
+    - [WM to MB transition:](#wm-to-mb-transition)
+    - [MB to AP transition:](#mb-to-ap-transition)
+    - [AP to WM transition:](#ap-to-wm-transition)
+  - [Extending AP](#extending-ap)
+  - [Refulgent Arrow Procs](#refulgent-arrow-procs)
+  - [Apex Arrow](#apex-arrow)
+  - [Fight Mapping](#fight-mapping)
+- [AoE](#aoe)
+- [Clarified Tooltip Reference](#clarified-tooltip-reference)
+    - [GCDs](#gcds)
+    - [Songs + Repertoire](#songs--repertoire)
+    - [Other oGCDs](#other-ogcds)
+    - [Utility](#utility)
+- [Credits](#credits)
 
 --- 
 
