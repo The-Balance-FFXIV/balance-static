@@ -24,8 +24,11 @@ Hello and welcome to Monkey, I am Perfect Balance and I am going to feed you the
   * Opening your inner Chakra
   * oGCDs
   * Openers
+
+    * Weaving
+    * Double Dragon
+    * Drifting 101
   * Core gameplay loop
-  * Drifting 101
   * Utility/Situational Skills and how to use them
   * How to Effect Areas
 * Section 4
@@ -201,21 +204,37 @@ We never hold any of our oGCDs. You'll notice that every skills cooldown is a mu
 
 ## Openers
 
-Standard
+![](/img/mnk-openers.png)
 
-\[Insert picture of opener here]
+We currently have 2 different openers, the Standard and the Early opener. Generally you're better off using the standard opener, the early opener is better for specific situations based on fight/phase length where you're able to get an additional use of oGCDs, extra time on a buff, or better buff timings for your group. If you have the ability to double weave without clipping your GCD this allows you to consolidate your Brotherhood and Perfect Balance into a double weave, freeing up an oGCD slot for potential Forbidden Chakra procs. This can be done for both the standard and early opener, however it will change your Brotherhood timing so you may wish to let your group know in case they were planning around your Brotherhood.
 
-Early
-
-\[Insert picture of opener here]
-
-We currently have 2 different openers, the Standard and the Early opener. Generally you're better off using the standard opener, the early opener is better for specific situations based on fight/phase length where you're able to get an additional use of oGCDs, extra time on a buff, or better buff timings for your group.
-
-The reason the openers work the way they do is as follows; Form Shift prepull so we don't have to do a non-form GCD. Leaden Fist is the single most important buff to gain as it grants an additional 170 potency to our guaranteed crit Bootshine, so we want to get that ASAP. Twin Snakes following this because its a 10% damage buff and we want that up as our next priority. Riddle of Fire next because Demolish is our highest potency GCD and by applying it as our first GCD in Riddle of Fire means we can do a 2nd Demolish as our final GCD under the buff. Following Demolish is The Forbidden Chakra so we don't overcap on chakras and waste any potential stacks, as our next Bootshine is a guaranteed crit so would otherwise be wasted. After the Bootshine we use Perfect Balance, which allows us to alternate between Dragon Kick/Bootshine for 6 GCDs. This is simply the most damage efficient way of spending our 6 PB stacks. Once Perfect Balance falls off you should always use Dragon Kick*, reapply Twin Snakes, and finally end with a Demolish.
+The reason the openers work the way they do is as follows; Form Shift prepull so we don't have to do a non-form GCD. Leaden Fist is the single most important buff to gain as it grants an additional 170 potency to our guaranteed crit Bootshine, so we want to get that ASAP. Twin Snakes following this because its a 10% damage buff and we want that up as our next priority. Riddle of Fire next because Demolish is our highest potency GCD and by applying it as our first GCD in Riddle of Fire means we can do a 2nd Demolish as our final GCD under the buff. Following Demolish is The Forbidden Chakra so we don't overcap on chakras and waste any potential stacks, as our next Bootshine is a guaranteed crit so would otherwise be wasted. After the Bootshine we use Perfect Balance, which allows us to alternate between Dragon Kick/Bootshine for 6 GCDs. This is simply the most damage efficient way of spending our 6 PB stacks. Once Perfect Balance falls off you should always use Dragon Kick, reapply Twin Snakes, and finally end with a Demolish.
 
 You'll notice that the Early opener is practically the same, with 2 minor adjustments. First, everything is 1 GCD sooner because we started on Twin Snakes instead of Dragon Kick. Second, as a result of this all of our Opo-Opo GCDs invert, so Bootshines become Dragon Kicks and vice-versa.
 
-\*Reasoning behind this is explained in the FAQs section.
+### Weaving
+
+When weaving Riddle of Fire and Brotherhood, their placement in the oGCD window matters a lot. Riddle of Fire should be late-weaved, meaning you press it when the GCD roll is about 70% complete. This ensures that it will last long enough to cover your final Demolish cast.
+
+Brotherhood on the other hand has such a long application time you want to weave it as early as possible in the GCD roll to ensure that it's actually on you before your next GCD happens.
+
+### Double Dragon
+
+As previously mentioned, your first GCD after a Perfect Balance should always be a Dragon Kick. This is because when Perfect Balance falls off, you no longer have any form and so are forced into doing a formless GCD. If your final PB GCD was a Bootshine, then you'll be coming out of PB without any Leaden Fist stacks. In this instance, an uncomboed Dragon Kick is higher potency than an uncomboed Bootshine, so you would use Dragon Kick.
+
+If your final PB GCD was a Dragon Kick then you *will* have a Leaden Fist stack, but you don't want to spend it on an uncomboed Bootshine as it won't be a guaranteed crit, hence you do the Dragon Kick so as not to waste the Leaden Fist. In very niche, finely optimised scenarios, it may be okay to do an uncomboed Leaden Boot here insteaed, but in 99% of scenarios you should just use Dragon Kick and keep your Leaden Fist for your next Bootshine.
+
+This means that following a Perfect Balance window you will always do a double Dragon Kick. If the PB window ended on a DK the double DK is instant, as you'll be doing DK - DK -TwS - Demo - Boot.
+
+If the PB window ended on a Boot, then it's a "delayed" double DK, where instead you do Boot - DK - TwS - Demo - DK.
+
+### Drifting 101
+
+You'll also notice that only 1 Forbidden Chakra is included in the image, yet you'll be using between 3-4 of them during each RoF window. This is because the procs are entirely random, and so we can't assign any them to any particular spot as they may not be available where planned. The general rule of thumb is that Forbidden Chakra has the highest priority of our oGCDs, as overcapping on chakras could lose us multiple uses of Forbidden Chakra throughout a fight. However, if you're in a situation where you're getting a lot of chakra procs, you may notice that your other oGCDs begin drifting further and further back in your Riddle of Fire window until it reaches a point where they're entirely misaligned from your buff window. I'll preface this by saying that if you're able to double weave without clipping your GCD, this is entirely a non-issue as you can just weave your oGCDs with your chakra as they proc. If you can't double weave however, you'll have to begin making concessions and changing your priorities. In this case, you prioritise Forbidden Chakra until you reach a point where delaying Elixir Field or Tornado Kick any further is going to push either one of them out of your Riddle of Fire window - when you reach this point EF and TK become your new highest priority oGCDs.
+
+While in a vacuum getting 2 Shoulder Tackle charges in each Riddle of Fire window is optimal, they're such low potency that it's okay to let them drop out of RoF in exchange for a Forbidden Chakra.
+
+
 
 ## Core Gameplay Loop
 
@@ -241,9 +260,7 @@ Now you may wonder what do you do when your buffs come back up, and the answer i
 
 Your Opo-Opo GCDs flipping doesn't just effect your burst though, it also effects your rotation. As a result you'll find that every 90 seconds your rotation flips between the 2 images previously shown. Eventually you will build muscle memory to the point of not having to consciously consider which GCDs to be using when, you will simply press the right buttons at the right time.
 
-## Drifting 101
 
-\[Write about Chakra drift here.]
 
 ## Utility/Situational Skills and how to use them
 
