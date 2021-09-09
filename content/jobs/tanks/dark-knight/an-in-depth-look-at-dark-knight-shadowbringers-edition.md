@@ -68,15 +68,16 @@ With the release of the expansion, Dark Knight has radically changed. The playst
 1. **Enmity combos have been removed.** Instead, Grit now has a raw threat modifier of 10x damage. Provoke has also changed to a raw 2000p threat on top of being placed first on the threat table.
 2. **Dark Arts and Dark Passenger** - In their base essence, they have been removed. However, both abilities have been replaced with **Edge of (Darkness)Shadow** and **Flood of (Darkness)Shadow** respectively. Edge of Shadow is used similarly to how Dark Arts was used, however its damage is no longer tied to the GCD. It also deals a significantly larger amount of damage, and you will no longer be using it as often as you used to. Flood of Shadow can also be used as an AoE cleave with the frequency of Edge of Shadow. Of note, this means that all abilities which previous interacted with Dark Arts no longer have that requirement. 
 3. **Blood Weapon** - Blood Weapon has lost the haste component of the skill, and is purely for mana/blood generation. It also only lasts for ten seconds (five GCDs).
-4. **Delirium** - No longer costs blood, or augments Blood Weapon. Delirium is now a 90s cooldown which allows for free uses of Bloodspiller or Quietus for ten seconds (or five GCDs). 
-5.  Shown: The GCD “Sweetspot” of when you should activate BW or Delirium in order to attain all five GCDs.<br/><br/>![sweetspot](https://cdn.discordapp.com/attachments/752334526449057853/884870342013763584/unknown.png)
+4. **Delirium** - No longer costs blood, or augments Blood Weapon. Delirium is now a 90s cooldown which allows for free uses of Bloodspiller or Quietus for ten seconds (or five GCDs). <br/>
+
+   Shown: The GCD “Sweetspot” of when you should activate BW or Delirium in order to attain all five GCDs.<br/><br/>![sweetspot](https://cdn.discordapp.com/attachments/752334526449057853/884870342013763584/unknown.png)
 
 
-6. **The Blackest Night** - Increased to 25%, and more importantly, the use on others is also 25%, instead of 10%. A massive boost to its use potential. In addition, the blood gain aspect has been removed, and instead grants a “free” use of EoS/FoS. The shield has also changed to target’s HP, instead of only your own.
-7. **Plunge** - At 78, Plunge gains an additional “Charge” - meaning that you can potentially store two uses of the ability for offensive purposes, or save and use them as necessary.
-8. **Salted Earth** - The cooldown has been doubled, and the ability only does 60pot/15s (360 potency with the Ground AoE change). A massive nerf to the ability, lessening the burden of ensuring timely, efficient uses.
-9. **Abyssal Drain** has been changed to an oGCD AoE move and heal. In its place are the new AoE combo moves of Unleash into Stalwart Soul (72).
-10. **Sole Survivor** has been removed.
+5. **The Blackest Night** - Increased to 25%, and more importantly, the use on others is also 25%, instead of 10%. A massive boost to its use potential. In addition, the blood gain aspect has been removed, and instead grants a “free” use of EoS/FoS. The shield has also changed to target’s HP, instead of only your own.
+6. **Plunge** - At 78, Plunge gains an additional “Charge” - meaning that you can potentially store two uses of the ability for offensive purposes, or save and use them as necessary.
+7. **Salted Earth** - The cooldown has been doubled, and the ability only does 60pot/15s (360 potency with the Ground AoE change). A massive nerf to the ability, lessening the burden of ensuring timely, efficient uses.
+8. **Abyssal Drain** has been changed to an oGCD AoE move and heal. In its place are the new AoE combo moves of Unleash into Stalwart Soul (72).
+9. **Sole Survivor** has been removed.
 
 Dark Knight still maintains the general feel that it used to from Stormblood, however it has lost the haste that it once had with Blood Weapon. Casts per minute has gone down from an average of 45 to 37, hopefully alleviating some of the issues that many people faced in the past. The general progression of GCDs still remains, with Souleater combos and filler Bloodspillers whenever available.
 
@@ -302,7 +303,7 @@ As you can tell, not everything will line up perfectly, but there are some windo
 
 The opener listed here is fairly good for all content currently, however, you may wish to alter your opener to the fight and your raid buffs. This Tank Opener Calculator is designed to help you alter your opener as you see fit, with options for pull timings, buff timings, and different raid groups.
 
-![Opener](https://cdn.discordapp.com/attachments/752334526449057853/884871728298336256/unknown.png)
+![Opener](https://cdn.discordapp.com/attachments/752334526449057853/884871728298336256/unknown.png)<br/>
 ![opener text](https://cdn.discordapp.com/attachments/752334526449057853/884871913523007508/unknown.png)
 
 This opener is designed around two concepts - Maximizing the use of Living Shadow, and maximizing the Trick Attack windows (In this image, it is active at 10.62 seconds). **Note - this image has not been updated for 5.2 Ninja, but Living Shadow activation is the same.** 
