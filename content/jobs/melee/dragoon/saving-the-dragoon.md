@@ -426,15 +426,65 @@ This skill is notoriously hard to use, already. Optimal handling:\
 
 Different options are listed below, with varying degrees of usefulness/ease of use.
 
-<div align="center"><code>
+##### Mouseover Macro
 
-| Mouseover Macro                                                                                                                                                                                                                                                                                                                                                                                                   | Mixed Macro                                                                                                                                                                                                                                                                                                                                                                                                | One Specific Ally                                                                                                                                                                                                                                                                                                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| /merror off<br/>/ac "Dragon Sight" <mo><br/>/ac "Dragon Sight" <mo><br/>/ac "Dragon Sight" <mo><br/>/ac "Dragon Sight" <mo><br/>/ac "Dragon Sight" <mo><br/>/ac "Dragon Sight" <mo><br/>/ac "Dragon Sight" <mo><br/>/ac "Dragon Sight" <mo><br/>/ac "Dragon Sight" <mo><br/>/ac "Dragon Sight" <mo><br/>/ac "Dragon Sight" <mo><br/>/ac "Dragon Sight" <mo><br/>/ac "Dragon Sight" <mo><br/>/micon "Dragon Sight" | /merror off<br/>/ac "Dragon Sight" <mo><br/>/ac "Dragon Sight" <mo><br/>/ac "Dragon Sight" <mo><br/>/ac "Dragon Sight" <mo><br/>/ac "Dragon Sight" <mo><br/>/ac "Dragon Sight" <mo><br/>/ac "Dragon Sight" <mo><br/>/ac "Dragon Sight" <2><br/>/ac "Dragon Sight" <2><br/>/ac "Dragon Sight" <2><br>/ac "Dragon Sight" <2><br/>/ac "Dragon Sight" <2><br/>/ac "Dragon Sight" <2><br/>/micon "Dragon Sight" | /merror off<br/>/ac "Dragon Sight" <2><br/>/ac "Dragon Sight" <2><br/>/ac "Dragon Sight" <2><br/>/ac "Dragon Sight" <2><br/>/ac "Dragon Sight" <2><br/>/ac "Dragon Sight" <2><br/>/ac "Dragon Sight" <2><br/>/ac "Dragon Sight" <2><br/>/ac "Dragon Sight" <2><br/>/ac "Dragon Sight" <2><br/>/ac "Dragon Sight" <2><br/>/ac "Dragon Sight" <2><br/>/ac "Dragon Sight" <2><br/>/micon "Dragon Sight" |
-|                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Will simply place the tether onto<br> your mouseover target. Just hover<br> your mouse over the proper player<br> in the party list and press the button<br> and you cast it on the proper player.<br> Optimal macro to use with mouse<br> and keyboard.                                                                                                                                                          | Mixes left with right to create a<br> macro that would prioritize your<br> mouseover target, but default to<br> your preferred party list<br> position/member. Useful if you don’t<br> trust your ability to mouseover, but<br> you should really just practice that<br> and shift to the mouseover one<br> instead, eventually.                                                                           | Specifically targets whoever is at<br> position two. The number or party list<br> can be altered as needed. Rather<br> inflexible in use, but very consistent<br> in execution.                                                                                                                                                                                                                      |
+```
+/merror off
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/micon "Dragon Sight"
+```
 
-</code></div>
+##### Mixed Macro
+
+```
+/merror off
+/ac "Dragon Sight"
+/ac "Dragon Sight"
+/ac "Dragon Sight"
+/ac "Dragon Sight"
+/ac "Dragon Sight"
+/ac "Dragon Sight"
+/ac "Dragon Sight"
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/micon "Dragon Sight"
+```
+
+##### One Specific Ally
+
+```
+/merror off
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/micon "Dragon Sight"
+```
 
 For controller, I recommend learning to soft-target and dropping all reliance on macros.
 For keyboard/mouse, I recommend  one to three specific ally macros for reliable friends and a mouseover as a backup (or primary, your call).
