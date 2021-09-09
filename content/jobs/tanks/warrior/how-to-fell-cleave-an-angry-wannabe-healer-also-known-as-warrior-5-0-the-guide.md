@@ -133,7 +133,7 @@ Abilities will be presented in a tabular format for easy reading.
 |                                                             |              |                                                                                                                                                                                                                              |                                                                      |
 | ----------------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | ![Heavy Swing](https://xivapi.com/i/000000/000260_hr1.png)  | Heavy Swing  | Standard basic attack to initiate both the Storm’s Eye Combo and the Storm’s Path Combo, consisting of Heavy Swing, Maim, Storm’s Eye and Heavy Swing, Maim, Storm’s Path respectively.                                      | 200p <br>**GCD**                                                     |
-| ![Maim](https://xivapi.com/i/000000/000255_hr1.png)         | Maim         | 320 potency if combo’d after Heavy Swing. Adds ten Beast Gauge                                                                                                                                                               | 100p <br>(320p combo) <br>**GCD** <br>+10 Gauge                      |
+| ![Maim](https://xivapi.com/i/000000/000255_hr1.png)         | Maim         | 320 potency if combo’d after Heavy Swing. Adds 10 Beast Gauge                                                                                                                                                                | 100p <br>(320p combo) <br>**GCD** <br>+10 Gauge                      |
 | ![Storm's Eye](https://xivapi.com/i/000000/000264_hr1.png)  | Storm’s Eye  | 420 potency if combo’d after Maim. <br>Adds 10 Beast Gauge. <br>Grants a 10% damage buff for 30s. <br>Extend any existing Storm’s Eye buff by +30 seconds, up to 60s.                                                        | 100p <br>(420p combo) <br>**GCD** <br>+10 Gauge <br>+10% damage buff |
 | ![Storm's Path](https://xivapi.com/i/000000/000258_hr1.png) | Storm’s Path | 420 potency if combo’d after Maim. <br> Adds 20 Beast Bauge.                                                                                                                                                                 | 100p (420p combo) <br> **GCD** <br> +20 Gauge                        |
 | ![Fell Cleave](https://xivapi.com/i/002000/002557_hr1.png)  | Fell Cleave  | A big 590p hit, your main damage source. <br>Consumes 50 Beast Gauge. <br>Reduces Infuriate’s cooldown by 5s.                                                                                                                | 590p <br>**GCD** <br>-50 Gauge                                       |
@@ -188,7 +188,7 @@ The Beast Gauge will be the main resource you will have to manage when playing W
 
 Several actions will increase the Beast Gauge:
 
-* Maim and Storm’s Eye will increase by ten
+* Maim and Storm’s Eye will increase by 10.
 * Storm’s Path and Mythril Tempest will increase by 20
 * Infuriate will increase by 50
 
@@ -214,14 +214,14 @@ Depending on the fight, you won’t get your full burst in every trick window, b
 
 Heavy Swing -> Maim -> Storm’s Eye
 
-One of your 1-2-3 combos. The goal of Warrior is to make sure Storm’s Eye is up as much as possible. Lovely 10% damage increase. Also generates 20 points of Beast Gauge (Ten from Maim and ten from Storm’s Eye).
+One of your 1-2-3 combos. The goal of Warrior is to make sure Storm’s Eye is up as much as possible. Lovely 10% damage increase. Also generates 20 points of Beast Gauge (10 from Maim and 10 from Storm’s Eye).
 Basic Rule is “if Storm’s Eye has less than 15 seconds left, then re-apply Storm’s Eye“. This will make sure that you don’t lose the buff. To maximize Storm’s Eye effectiveness though, it is possible to delay the application by using gauge spenders, such as Fell Cleave or Inner Chaos as a filler.
 
 ### Storm’s Path Combo
 
 Heavy Swing -> Maim -> Storm’s Path
 
-Your second standard 1-2-3 combo that generates 30 Beast Gauge (Ten from Maim and 20 from Storm’s Path). The Warrior rotation aims to maximize gauge generation and minimize Storm’s Eye refreshes. As such this will be the most used combo for you.
+Your second standard 1-2-3 combo that generates 30 Beast Gauge (10 from Maim and 20 from Storm’s Path). The Warrior rotation aims to maximize gauge generation and minimize Storm’s Eye refreshes. As such this will be the most used combo for you.
 
 ### Fell Cleave
 
@@ -693,6 +693,7 @@ For the original layout of GNB guide which had its contents gutted multiple time
 
   * Fixed some typos and brainfarts
 * 2020-02-19
+
   * Added a BLURB for the looping rotation. Big explanation about 1-2-3 path phases. Also adjusted some Onslaught text to answer questions like “When should I use it?”
 * 2020-07-06
 
