@@ -103,57 +103,43 @@ The potion for tanks and other strength based jobs.
 ### Demon Slaughter Combo (AoE)
 This is your AoE bread and butter. Use this on 2 or more targets instead of the Solid Barrel combo.
 Use Demon Slaughter combo to add 1 cartridge. You may hold a maximum of 2 cartridges.
-:blank::Gnashing_Fang: :Savage_Claw: :Wicked_Talon:
-:blank: :Gnashing_Fang: Gnashing Fang Combo (Single Target)
-:Gnashing_Fang:  Gnashing Fang takes priority over :Burst_Strike: Burst Strike always.
-:Gnashing_Fang: Gnashing Fang takes priority over :Fated_Circle: Fated Circle on 1-3 targets.
-Use on Cooldown.
-Delay Gnashing Fang 1 GCD per minute to align with No Mercy if your GCD is faster than 2.45(i.e. 2.41).
-Costs 1 cartridge.
-:blank::Burst_Strike: :Fated_Circle:
-:blank: :Burst_Strike: Burst Strike
-:Burst_Strike: Burst Strike is your single target Cartridge gauge spender.
-:Gnashing_Fang: Gnashing Fang takes priority over :Burst_Strike: Burst Strike always.
-:Fated_Circle: Fated Circle takes priority over :Burst_Strike: Burst Strike on 2 or more targets.
-Costs 1 cartridge.
-:blank: 
-:blank: :Fated_Circle: Fated Circle
-:Fated_Circle: Fated Circle is your AoE spender.
-:Gnashing_Fang: Gnashing Fang takes priority over :Fated_Circle: Fated Circle on 1-3 targets.
-:Fated_Circle: Fated Circle takes priority over :Gnashing_Fang: Gnashing Fang on 4+ targets.
-:Fated_Circle: Fated Circle takes priority over :Burst_Strike: Burst Strike on 2 or more targets.
-Costs 1 cartridge.
-:blank::Sonic_Break:
-:blank::Sonic_Break: Sonic Break (Single Target)
-:Sonic_Break:  is your strongest GCD after 4 DoT ticks, and at full value has a potency of 1200 versus Wicked Talon at 650(950 with continuation). 
-Always use this inside :no_mercy: No Mercy .
-:blank::Blasting_Zone: :Bowshock: :Rough_Divide:
-:blank::Blasting_Zone: Blasting Zone (Single Target)
-Use :Blasting_Zone: Blasting Zone on cooldown. Every other use will be in :no_mercy: No Mercy.
 
-:blank: :Bowshock: Bow Shock (AoE)
-Use :Bowshock: Bow Shock on cooldown. Every use will be in :no_mercy: No Mercy.
 
-:blank: :Rough_Divide: Rough Divide (Single target. 2 charges)
-Save :Rough_Divide: Rough Divide charges for :no_mercy: No Mercy unless needed for utility.
-:blank:
-:blank:
-:blank::FFXIV_Gunbreaker_Icon: Rotation F.A.Q. :FFXIV_Gunbreaker_Icon:
-:regional_indicator_q:  What if I misaligned my :Gnashing_Fang: Gnashing Fang from :no_mercy: No Mercy because of Downtime/user error?
-:a:  Don't worry! This happens. It's going to happen to all of us. Follow this flow:
-:blank:  Less than 17s on :no_mercy: No Mercy? Hold :Gnashing_Fang: Gnashing Fang or it will be pushed out of :no_mercy: No Mercy.
-:blank:  More than 17s on :no_mercy: No Mercy? Don't hold :Gnashing_Fang: Gnashing Fang because it will come up during the latter half of :no_mercy: No Mercy.
-:blank:
-:regional_indicator_q:  Am I using No Mercy too early?
-:a:  Weave it like so:
-https://i.imgur.com/VEV9uhQ.png
+### Gnashing Fang Combo (Single Target)
+Gnashing Fang takes priority over Burst Strike always.
+<br> Gnashing Fang takes priority over Fated Circle on 1-3 targets.
+<br> Use on Cooldown.
+<br> Delay Gnashing Fang 1 GCD per minute to align with No Mercy if your GCD is faster than 2.45(i.e. 2.41).
+<br> **Costs 1 cartridge.**
 
-:blank:
-:regional_indicator_q: Why is my combo breaking? OR Can I use X during my rotation?
+### Burst Strike
+Burst Strike is your single target Cartridge gauge spender.
+<br> Gnashing Fang takes priority over Burst Strike always.
+<br> Fated Circle takes priority over Burst Strike on 2 or more targets.
+<br> **Costs 1 cartridge.**
 
-:a:
- https://i.imgur.com/4Ksivi3.png
-https://i.imgur.com/lLLoVMB.png
+### Fated Circle
+Fated Circle is your AoE spender.
+<br> Gnashing Fang takes priority over Fated Circle on 1-3 targets.
+<br> Fated Circle takes priority over Gnashing Fang on 4+ targets.
+<br> Fated Circle takes priority over Burst Strike on 2 or more targets.
+<br> **Costs 1 cartridge.**
+
+### Sonic Break (Single Target)
+Sonic Break is your strongest GCD after 4 DoT ticks, and at full value has a potency of 1200 versus Wicked Talon at 650(950 with continuation). 
+<br> Always use this inside No Mercy .
+
+### Blasting Zone (Single Target)
+Use Blasting Zone on cooldown. Every other use will be in No Mercy.
+
+
+### Bow Shock (AoE)
+Use :Bow Shock on cooldown. Every use will be in No Mercy.
+
+
+### Rough Divide (Single target. 2 charges)
+Save Rough Divide charges for No Mercy unless needed for utility.
+
 
 --- 
 
