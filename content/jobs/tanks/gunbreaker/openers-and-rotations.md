@@ -12,25 +12,25 @@ Openers are designed to do a few very important things:
 
 The theoretical standard opener for a full-uptime encounter is the 4th GCD No Mercy opener (below). At higher levels of gameplay, you can and should adjust your opener based on your group composition and the specifics of the fight.
 
-## 4th GCD No Mercy:
-Standard Raid Buff Opener
-**Keen Edge** > **Brutal Shell** > Tincture > **Solid Barrel Keen Edge** > No Mercy  > **Gnashing Fang** > Jugular Rip > **Sonic Break **> Blasting Zone + Bow Shock > **Savage Claw** > Abdomen Tear + Bloodfest > **Wicked Talon** > Rough Divide + Eye Gouge > **Burst Strike** > Rough Divide > **Brutal Shell** > **Burst Strike** > **Solid Barrel** > **Burst Strike** > **Keen Edge** > **Brutal Shell** > ...
+## 4th GCD No Mercy
+*Standard Raid Buff Opener*
+<br>**Keen Edge** > **Brutal Shell** > Tincture > **Solid Barrel Keen Edge** > No Mercy  > **Gnashing Fang** > Jugular Rip > **Sonic Break **> Blasting Zone + Bow Shock > **Savage Claw** > Abdomen Tear + Bloodfest > **Wicked Talon** > Rough Divide + Eye Gouge > **Burst Strike** > Rough Divide > **Brutal Shell** > **Burst Strike** > **Solid Barrel** > **Burst Strike** > **Keen Edge** > **Brutal Shell** > ...
 
 
 ## (E11s) Fatebreaker Opener
-Prepull No Mercy > Sonic Break into Raidbuffs
-Tincture -3.5s to Pull > No Mercy -1s to Pull > Sonic Break > Bloodfest > Keen Edge > Brutal Shell > Burst Strike > Rough Divide > Gnashing Fang > Bow Shock + Jugular Rip > Savage Claw > Blasting Zone + Abdomen Tear > Wicked Talon > Eye Gouge > Solid Barrel > Rough Divide > Burst Strike > Keen Edge > Brutal Shell > Solid Barrel > ...
+*Prepull No Mercy > Sonic Break into Raidbuffs*
+<br> Tincture **-3.5s to Pull** > No Mercy **-1s to Pull** > **Sonic Break** > Bloodfest > **Keen Edge** > **Brutal Shell** > **Burst Strike** > Rough Divide > **Gnashing Fang** > Bow Shock + Jugular Rip > **Savage Claw** > Blasting Zone + Abdomen Tear > **Wicked Talon** > Eye Gouge > **Solid Barrel** > Rough Divide > **Burst Strike** > **Keen Edge** > **Brutal Shell** > **Solid Barrel** > ...
 
 
 ## (E12s) - Oracle of Darkness Savage Opener:
-Prepull No Mercy Instant Burst
--3s Potion > -1s No Mercy > Keen Edge > Blasting Zone + Bloodfest > Gnashing Fang > Rough Divide + Jugular Rip > Burst Strike > 2nd oGCD Slot Heart of Light > Sonic Break > Bow Shock + Rough Divide + Savage Claw > Abdomen Tear > Wicked Talon > Eye Gouge > Brutal Shell > Solid Barrel > Keen Edge > Gnashing Fang > Jugular Rip > Savage Claw > Abdomen Tear > Wicked Talon > Eye Gouge...
+*Prepull No Mercy Instant Burst*
+<br> -3s Potion > -1s No Mercy > **Keen Edge** > Blasting Zone + Bloodfest > **Gnashing Fang** > Rough Divide + Jugular Rip > **Burst Strike** > 2nd oGCD Slot Heart of Light > **Sonic Break** > Bow Shock + Rough Divide + **Savage Claw** > Abdomen Tear > **Wicked Talon** > Eye Gouge > **Brutal Shell** > **Solid Barrel** > **Keen Edge** > **Gnashing Fang** > Jugular Rip > **Savage Claw** > Abdomen Tear > **Wicked Talon** > Eye Gouge...
 
 
 ![GNB Openers 5.58](https://cdn.discordapp.com/attachments/879783273973309460/879787244028842014/GNBOpenersGraphic558.png)
 
 ## Single-Weave Only Opener:
-Lightning Shot > Bloodfest > Keen Edge > No Mercy > Brutal Shell > Potion > Gnashing Fang > Jugular Rip > Burst Strike > Blasting Zone > Sonic Break > Bow Shock > Savage Claw > Abdomen Tear > Wicked Talon > Eye Gouge > Solid Barrel > Rough Divide > Burst Strike > Rough Divide > Keen Edge > Brutal Shell > Solid Barrel > ...
+**Lightning Shot** > Bloodfest > **Keen Edge** > No Mercy > **Brutal Shell** > Potion > **Gnashing Fang** > Jugular Rip > **Burst Strike** > Blasting Zone > **Sonic Break** > Bow Shock > **Savage Claw** > Abdomen Tear > **Wicked Talon** > Eye Gouge > **Solid Barrel** > Rough Divide > **Burst Strike** > Rough Divide > **Keen Edge** > **Brutal Shell** > **Solid Barrel** > ...
 
 ![Single Weave](https://i.imgur.com/xTzMNct.png)
 
@@ -73,6 +73,7 @@ How you approach this will largely be personal preference as well as fight speci
 
 ## Rotations
 
+![No Mercy](https://xivapi.com/i/003000/003402.png)
 ### No Mercy (Buff)
 No Mercy is your steroid. 
 <br> Damage is increased by 20% for 20 seconds.
@@ -80,6 +81,7 @@ No Mercy is your steroid.
 <br> Every No Mercy should contain 9 GCDs which will be shown later.
 <br> Try your best not to drift this or it will be misaligned with raidbuffs from the party.
 
+![Bloodfest](https://xivapi.com/i/003000/003428.png)
 
 ### Bloodfest (Free cartridges!)
 Bloodfest grants 2 cartridges for free!
@@ -87,6 +89,7 @@ Bloodfest grants 2 cartridges for free!
 <br> Use Bloodfest on cooldown and you have 0 cartridges. If you do not have 0 cartridges when Bloodfest is available, please refer to the Gnashing Fang, Burst Strike, and Fated Circle sections to determine how to best spend your carts before popping Bloodfest.
 <br>Every other use of Bloodfest will be inside No Mercy. Do not hold a use of Bloodfest for 30 seconds for No Mercy unless heavily optimizing a fight and understanding when that is a gain. If you are learning, do not attempt to hold under any situation unless specifically instructed.
 
+![Tincture](https://xivapi.com/i/020000/020710.png)
 
 ### Grade 4 Tincture of Strength (Strength Pot)
 The potion for tanks and other strength based jobs.
@@ -94,16 +97,25 @@ The potion for tanks and other strength based jobs.
 <br> Fight duration between 9:10 and 11:00 - 2nd @ ~4:30, 3rd @ ~9m
 <br> Fight duration less than 9:10 OR more than 11:00 - 2nd @ ~6:00, 3rd on final burst
 
+![Keen Edge](https://xivapi.com/i/003000/003401.png)
+![Brutal Shell](https://xivapi.com/i/003000/003403.png)
+![Solid Barrel](https://xivapi.com/i/003000/003409.png)
 
 ### Solid Barrel Combo (Single Target)
-<br> This is your bread and butter filler GCDs. They generate Ammo Cartridges.
+This is your bread and butter filler GCDs. They generate Ammo Cartridges.
+<br> Keen Edge > Brutal Shell > Solid Barrel
 <br> Use Solid Barrel combo to **add 1 cartridge.** You may hold a maximum of 2 cartridges.
 
 
+![Demon Slice](https://xivapi.com/i/003000/003405.png)
+![Demon Slaughter](https://xivapi.com/i/003000/003413.png)
 ### Demon Slaughter Combo (AoE)
 This is your AoE bread and butter. Use this on 2 or more targets instead of the Solid Barrel combo.
-Use Demon Slaughter combo to add 1 cartridge. You may hold a maximum of 2 cartridges.
+<br>Use Demon Slaughter combo to add 1 cartridge. You may hold a maximum of 2 cartridges.
 
+![Gnashing Fang](https://xivapi.com/i/003000/003410.png)
+![Savage Claw](https://xivapi.com/i/003000/003411.png)
+![Wicked Talon](https://xivapi.com/i/003000/003414.png)
 
 ### Gnashing Fang Combo (Single Target)
 Gnashing Fang takes priority over Burst Strike always.
@@ -112,12 +124,14 @@ Gnashing Fang takes priority over Burst Strike always.
 <br> Delay Gnashing Fang 1 GCD per minute to align with No Mercy if your GCD is faster than 2.45(i.e. 2.41).
 <br> **Costs 1 cartridge.**
 
+![Burst Strike](https://xivapi.com/i/003000/003426.png)
 ### Burst Strike
 Burst Strike is your single target Cartridge gauge spender.
 <br> Gnashing Fang takes priority over Burst Strike always.
 <br> Fated Circle takes priority over Burst Strike on 2 or more targets.
 <br> **Costs 1 cartridge.**
 
+![Fated Circle](https://xivapi.com/i/003000/003427.png)
 ### Fated Circle
 Fated Circle is your AoE spender.
 <br> Gnashing Fang takes priority over Fated Circle on 1-3 targets.
@@ -125,18 +139,22 @@ Fated Circle is your AoE spender.
 <br> Fated Circle takes priority over Burst Strike on 2 or more targets.
 <br> **Costs 1 cartridge.**
 
+![Sonic Break](https://xivapi.com/i/003000/003417.png)
 ### Sonic Break (Single Target)
 Sonic Break is your strongest GCD after 4 DoT ticks, and at full value has a potency of 1200 versus Wicked Talon at 650(950 with continuation). 
 <br> Always use this inside No Mercy .
 
+![Blasting Zone](https://xivapi.com/i/003000/003429.png)
 ### Blasting Zone (Single Target)
 Use Blasting Zone on cooldown. Every other use will be in No Mercy.
 
 
+![Bow Shock](https://xivapi.com/i/003000/003423.png)
 ### Bow Shock (AoE)
-Use :Bow Shock on cooldown. Every use will be in No Mercy.
+Use Bow Shock on cooldown. Every use will be in No Mercy.
 
 
+![Rough Divide](https://xivapi.com/i/003000/003418.png)
 ### Rough Divide (Single target. 2 charges)
 Save Rough Divide charges for No Mercy unless needed for utility.
 
@@ -148,8 +166,8 @@ Save Rough Divide charges for No Mercy unless needed for utility.
 > *What if I misaligned my Gnashing Fang from No Mercy because of Downtime/user error?*
 
 Don't worry! This happens. It's going to happen to all of us. Follow this flow:
-- Less than 17s on :no_mercy: No Mercy? Hold :Gnashing_Fang: Gnashing Fang or it will be pushed out of :no_mercy: No Mercy.
--  More than 17s on :no_mercy: No Mercy? Don't hold :Gnashing_Fang: Gnashing Fang because it will come up during the latter half of :no_mercy: No Mercy.
+- Less than 17s on No Mercy? Hold Gnashing Fang or it will be pushed out of No Mercy.
+-  More than 17s on No Mercy? Don't hold Gnashing Fang because it will come up during the latter half of No Mercy.
 
 
 > *Am I using No Mercy too early?*
