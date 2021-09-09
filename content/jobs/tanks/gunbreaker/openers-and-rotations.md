@@ -34,9 +34,7 @@ The theoretical standard opener for a full-uptime encounter is the 4th GCD No Me
 
 ![Single Weave](https://i.imgur.com/xTzMNct.png)
 
-
 --- 
-
 
 # Rotations and Priorities
 
