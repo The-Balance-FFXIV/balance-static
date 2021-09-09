@@ -5,6 +5,13 @@ title: Openers and Rotations
 
 # Openers
 
+Openers are designed to do a few very important things:
+1. Get abilities on cooldown as soon as possible. This keeps us from sitting on skills that are ready which could potentially cause lost uses.
+2. Get strong abilities under raid buffs. This helps to maximize damage done. More damage is always better, especially when it's free!
+3. Set up our rotation for the rest of the fight (or until a transition/extended period of downtime). This is especially important for fight specific optimizations and using the right opener may gain a use of important abilities like the Gnashing Fang combo.
+
+The theoretical standard opener for a full-uptime encounter is the 4th GCD No Mercy opener (below). At higher levels of gameplay, you can and should adjust your opener based on your group composition and the specifics of the fight.
+
 ## 4th GCD No Mercy:
 Standard Raid Buff Opener
 **Keen Edge** > **Brutal Shell** > Tincture > **Solid Barrel Keen Edge** > No Mercy  > **Gnashing Fang** > Jugular Rip > **Sonic Break **> Blasting Zone + Bow Shock > **Savage Claw** > Abdomen Tear + Bloodfest > **Wicked Talon** > Rough Divide + Eye Gouge > **Burst Strike** > Rough Divide > **Brutal Shell** > **Burst Strike** > **Solid Barrel** > **Burst Strike** > **Keen Edge** > **Brutal Shell** > ...
@@ -33,32 +40,69 @@ Lightning Shot > Bloodfest > Keen Edge > No Mercy > Brutal Shell > Potion > Gnas
 
 # Rotations and Priorities
 
-No Mercy (Buff)
-:no_mercy: No Mercy is your steroid. 
-Damage is increased by 20% for 20 seconds.
-60 second recast.
-Every No Mercy should contain 9 GCDs which will be shown later.
-Try your best not to drift this or it will be misaligned with raidbuffs from the party.
-:blank: 
-:blank: :Bloodfest: Bloodfest (Free cartridges!)
-:Bloodfest: Bloodfest grants 2 cartridges for free!
-90 second recast.
-Use :Bloodfest: Bloodfest on cooldown and you have 0 cartridges. If you do not have 0 cartridges when :Bloodfest: is available, please refer to the :Gnashing_Fang: Gnashing Fang, :Burst_Strike: Burst Strike, and :Fated_Circle: Fated Circle sections to determine how to best spend your carts before popping :Bloodfest: Bloodfest.
-Every other use of :Bloodfest: Bloodfest will be inside :no_mercy: No Mercy. Do not hold a use of :Bloodfest: Bloodfest for 30 seconds for :no_mercy: No Mercy unless heavily optimizing a fight and understanding when that is a gain. If you are learning, do not attempt to hold under any situation unless specifically instructed.
- :blank: 
-:blank: :Tincture_of_Strength: Grade 4 Tincture of Strength (Strength Pot)
+## Priority System
+
+Previous GNB guides have thought of the rotation in terms of a 60s/three minute loop. In practice, the GNB rotation is much less a loop and more of a priority system. GNB is more accurately an “if X is ready, do X, else do Y” class. Therefore, after the opener the rotation priority is as follows (with one caveat, mentioned following the priority list):
+
+1. Use **No Mercy** on cooldown.
+2. Use **Gnashing Fang**, **Sonic Break**, **Blasting Zone**, **Bow Shock**, **Bloodfest** on cooldown. 
+3. Spend all Cartridges inside **No Mercy** where possible. 
+4. Use **Rough Divide** twice inside **No Mercy** (unless a use is needed for uptime)
+5. Outside of **No Mercy**, only spend Cartridges on **Gnashing Fang** or if you would otherwise overcap on Cartridges.
+6. Use **Solid Barrel** combo on 1 target, **Demon Slaughter** combo on 2+ targets if nothing higher on the priority is available. 
+
+* Since **Gnashing Fang** and **Sonic Break** have their cooldown reduced by skill speed, we need to delay them by one GCD every minute by adding a filler GCD. Otherwise they will end up being before No Mercy which is a significant loss. 
+
+Because GNB is more of a priority system than a strict rotation, the rotation is very flexible and can be adjusted to the needs of the encounter and group composition.
+
+## GCD Uptime
+
+GCD uptime refers to pressing your weapon skills (GCDs) as soon as they are available. If there are spaces between when your GCD is ready and when you press the next one, you will lose a significant amount of damage. As such, we aim to keep our GCDs rolling as much as possible. Please note, this only refers to when an enemy is present. It is possible to achieve a minimum of 96% uptime in every fight. Anything lower than that is almost guaranteed to be caused by not playing correctly. How to increase this number around mechanics that normally seem like they should cause downtime is a fight specific optimization and will vary fight to fight. Even if you are making mistakes, it is almost always better to keep your GCD rolling than to just not do anything. 
+
+A big part of GCD uptime for GNB comes from being able to move bosses during heavy burst windows. Since the **Gnashing Fang** combo must be followed by **Continuation**, which is a melee range skill, it can make moving the boss during this window frustrating. Some common ways to alleviate this frustration are:
+
+1. Sprint! The faster you move, the faster the boss moves to you. Just be careful not to go too fast so you don’t rip the boss out of the range of melee dps. 
+2. Take advantage of the ability to use **Burst Strike** between **Gnashing** combo GCDs. This will give you an extra GCD with no required weaves to move faster. 
+3. Press the GCD, move out, then move back in before the next GCD is ready so you have enough time to use **Continuation** without delaying the next GCD. There are two ways to do this. For example, you could:
+
+**Gnashing Fang**, run out, run back in, **Jugular Rip**, **Savage Claw**, run out, run back in, **Abdomen Tear**, **Wicked Talon**, run out, run back in, **Eye Gouge**, etc. 
+Or
+**Gnashing Fang**, **Jugular Rip**, run out, run back in, **Savage Claw**, **Abdomen Tear**, run out, run back in, **Wicked Talon**, **Eye Gouge**, run out, run back in, etc.
+
+How you approach this will largely be personal preference as well as fight specific optimization. Do what gets the best results for you. You should also ask your co-tank if they can handle moving the boss if it makes it easier on you, and doesn’t make it harder on everyone else!
+
+## Rotations
+
+### No Mercy (Buff)
+No Mercy is your steroid. 
+<br> Damage is increased by 20% for 20 seconds.
+<br> 60 second recast.
+<br> Every No Mercy should contain 9 GCDs which will be shown later.
+<br> Try your best not to drift this or it will be misaligned with raidbuffs from the party.
+
+
+### Bloodfest (Free cartridges!)
+Bloodfest grants 2 cartridges for free!
+<br> 90 second recast.
+<br> Use Bloodfest on cooldown and you have 0 cartridges. If you do not have 0 cartridges when Bloodfest is available, please refer to the Gnashing Fang, Burst Strike, and Fated Circle sections to determine how to best spend your carts before popping Bloodfest.
+<br>Every other use of Bloodfest will be inside No Mercy. Do not hold a use of Bloodfest for 30 seconds for No Mercy unless heavily optimizing a fight and understanding when that is a gain. If you are learning, do not attempt to hold under any situation unless specifically instructed.
+
+
+### Grade 4 Tincture of Strength (Strength Pot)
 The potion for tanks and other strength based jobs.
-First use during the opener.
-Fight duration between 9:10 and 11:00 - 2nd :Tincture_of_Strength: @ ~4:30, 3rd :Tincture_of_Strength: @ ~9m
-Fight duration less than 9:10 OR more than 11:00 - 2nd :Tincture_of_Strength: @ ~6:00, 3rd :Tincture_of_Strength:  on final burst
-:blank::Keen_edge: :Brutal_Shell: :Solid_Barrel::blank: :blank: :Demon_Slice: :Demon_Slaughter:
-:blank: :Solid_Barrel:  Solid Barrel Combo (Single Target)
-This is your bread and butter filler GCDs. They generate Ammo Cartridges.
-Use Solid Barrel combo to add 1 cartridge. You may hold a maximum of 2 cartridges.
-:blank: 
-:blank: :Demon_Slaughter: Demon Slaughter Combo (AoE)
-This is your AoE bread and butter. Use this on 2 or more targets instead of the :Solid_Barrel: Solid Barrel combo.
-Use :Demon_Slaughter: Demon Slaughter combo to add 1 cartridge. You may hold a maximum of 2 cartridges.
+<br> First use during the opener.
+<br> Fight duration between 9:10 and 11:00 - 2nd @ ~4:30, 3rd @ ~9m
+<br> Fight duration less than 9:10 OR more than 11:00 - 2nd @ ~6:00, 3rd on final burst
+
+
+### Solid Barrel Combo (Single Target)
+<br> This is your bread and butter filler GCDs. They generate Ammo Cartridges.
+<br> Use Solid Barrel combo to **add 1 cartridge.** You may hold a maximum of 2 cartridges.
+
+
+### Demon Slaughter Combo (AoE)
+This is your AoE bread and butter. Use this on 2 or more targets instead of the Solid Barrel combo.
+Use Demon Slaughter combo to add 1 cartridge. You may hold a maximum of 2 cartridges.
 :blank::Gnashing_Fang: :Savage_Claw: :Wicked_Talon:
 :blank: :Gnashing_Fang: Gnashing Fang Combo (Single Target)
 :Gnashing_Fang:  Gnashing Fang takes priority over :Burst_Strike: Burst Strike always.
@@ -110,3 +154,27 @@ https://i.imgur.com/VEV9uhQ.png
 :a:
  https://i.imgur.com/4Ksivi3.png
 https://i.imgur.com/lLLoVMB.png
+
+--- 
+
+# Rotation FAQ
+
+> *What if I misaligned my Gnashing Fang from No Mercy because of Downtime/user error?*
+
+Don't worry! This happens. It's going to happen to all of us. Follow this flow:
+- Less than 17s on :no_mercy: No Mercy? Hold :Gnashing_Fang: Gnashing Fang or it will be pushed out of :no_mercy: No Mercy.
+-  More than 17s on :no_mercy: No Mercy? Don't hold :Gnashing_Fang: Gnashing Fang because it will come up during the latter half of :no_mercy: No Mercy.
+
+
+> *Am I using No Mercy too early?*
+
+Weave it like so:
+<br> ![No Mercy Weave](https://i.imgur.com/VEV9uhQ.png)
+
+
+
+> *Why is my combo breaking? OR Can I use X during my rotation?*
+
+
+![Combo Break 1](https://i.imgur.com/4Ksivi3.png)
+![Combo Break 2](https://i.imgur.com/lLLoVMB.png)
