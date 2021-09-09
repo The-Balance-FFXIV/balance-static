@@ -53,7 +53,7 @@ UWU i515 Relic Bis
 
 
 
-### TEA 2.4 NON-Relic
+## TEA 2.4 NON-Relic
 *Less DPS than relic as an alternative if you're not getting a relic *
 <br><https://etro.gg/gearset/f6631658-1d31-4472-8ff6-56ab2d9073e8>
 
