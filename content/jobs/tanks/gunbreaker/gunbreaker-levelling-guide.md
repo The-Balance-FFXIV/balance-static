@@ -19,7 +19,8 @@ Single target: Burst Strike > Solid Barrel ST combo
 
 
 ## Levels 40-59
-*(Sonic_Break at 54+)*
+*(Sonic Break at 54+)*
+
 <br> Single target: Sonic Break > Burst Strike > Solid Barrel ST combo
 <br> 2 targets: Sonic Break > Burst Strike > Demon Slaughter AoE combo
 <br> 3 or more targets: Sonic Break > Demon Slaughter AoE combo
