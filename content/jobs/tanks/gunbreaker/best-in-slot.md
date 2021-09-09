@@ -5,9 +5,7 @@ title: Best in Slot
 
 
 ## 5.58 BiS Compendium: 
-** Damage is within negligible variance. Choose the set that best suits your comfort level. Fight specific recommendations to come at a later date.*
-
---- 
+**Damage is within negligible variance. Choose the set that best suits your comfort level. Fight specific recommendations to come at a later date.*
 
 ## Savage
 
@@ -15,13 +13,14 @@ title: Best in Slot
 ### Relic BIS
 
 **5.58 Relic i530 BiS**
-<br>2.41 <https://etro.gg/gearset/724fb635-aee3-43d0-beb2-9ac285445e14> 13892.9 dps*
-<br>2.43 <https://etro.gg/gearset/ec8a3fa3-4f6e-46df-9fe7-7127bfc0607d> 13850.0 dps*
+<br>2.41 <https://etro.gg/gearset/724fb635-aee3-43d0-beb2-9ac285445e14> 13892.9 dps * 
+
+<br>2.43 <https://etro.gg/gearset/ec8a3fa3-4f6e-46df-9fe7-7127bfc0607d> 13850.0 dps *
 
 
 ### Non-Relic BiS
 i530 2.41 - Food: Chicken Fettuccine
-<br><https://etro.gg/gearset/3a00ff65-fd0d-45b0-adc1-f4f1a6a2b69a> 13,808.7*
+<br><https://etro.gg/gearset/3a00ff65-fd0d-45b0-adc1-f4f1a6a2b69a> 13,808.7 *
 
 --- 
 
