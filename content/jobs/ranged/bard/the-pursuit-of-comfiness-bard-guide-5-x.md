@@ -122,32 +122,32 @@ If you’re an experienced Bard, or looking for optimization advice…
 
 # Glossary
 
-|         |                                                                                                                                                                            |
-| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| AA/Apex | Apex Arrow                                                                                                                                                                 |
-| AP      | Army’s Paeon                                                                                                                                                               |
-| BL      | Bloodletter                                                                                                                                                                |
-| BS      | Burst Shot                                                                                                                                                                 |
-| BV      | Battle Voice                                                                                                                                                               |
-| CB      | Caustic Bite                                                                                                                                                               |
-| DoT     | Damage over Time (for Bard, inflicted by Caustic Bite and Stormbite)                                                                                                       |
-| EA      | Empyreal Arrow                                                                                                                                                             |
-| GCD     | Global Cooldown (for Bard, this means Weaponskills)                                                                                                                        |
-| IJ      | Iron Jaws                                                                                                                                                                  |
-| MB      | Mage’s Ballad                                                                                                                                                              |
-| oGCD    | off-Global Cooldown (for Bard, this means Abilities and Spells)                                                                                                            |
-| PP      | Pitch Perfect                                                                                                                                                              |
-| Proc    | Originally short for “special process”, it’s an MMO term that refers to events with a random chance of happening. For Bard, this means Straight Shot Ready and Repertoire. |
-| RA      | Refulgent Arrow                                                                                                                                                            |
-| RoD     | Rain of Death                                                                                                                                                              |
-| RS      | Raging Strikes                                                                                                                                                             |
-| QN      | Quick Nock                                                                                                                                                                 |
-| SB      | Stormbite                                                                                                                                                                  |
-| Snap    | Short for snapshot, refers to capturing buffs onto DoTs using Iron Jaws.                                                                                                   |
-| SW      | Sidewinder                                                                                                                                                                 |
-| Troub   | Troubadour                                                                                                                                                                 |
-| Weave   | Using oGCDs in between GCDs. Using two of them in a single window is called double weaving.                                                                                |
-| WM      | Wanderer’s Minuet                                                                                                                                                          |
+|       |                                                                                                                                                                            |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AA    | Apex Arrow                                                                                                                                                                 |
+| AP    | Army’s Paeon                                                                                                                                                               |
+| BL    | Bloodletter                                                                                                                                                                |
+| BS    | Burst Shot                                                                                                                                                                 |
+| BV    | Battle Voice                                                                                                                                                               |
+| CB    | Caustic Bite                                                                                                                                                               |
+| DoT   | Damage over Time (for Bard, inflicted by Caustic Bite and Stormbite)                                                                                                       |
+| EA    | Empyreal Arrow                                                                                                                                                             |
+| GCD   | Global Cooldown (for Bard, this means Weaponskills)                                                                                                                        |
+| IJ    | Iron Jaws                                                                                                                                                                  |
+| MB    | Mage’s Ballad                                                                                                                                                              |
+| oGCD  | off-Global Cooldown (for Bard, this means Abilities and Spells)                                                                                                            |
+| PP    | Pitch Perfect                                                                                                                                                              |
+| Proc  | Originally short for “special process”, it’s an MMO term that refers to events with a random chance of happening. For Bard, this means Straight Shot Ready and Repertoire. |
+| RA    | Refulgent Arrow                                                                                                                                                            |
+| RoD   | Rain of Death                                                                                                                                                              |
+| RS    | Raging Strikes                                                                                                                                                             |
+| QN    | Quick Nock                                                                                                                                                                 |
+| SB    | Stormbite                                                                                                                                                                  |
+| Snap  | Short for snapshot, refers to capturing buffs onto DoTs using Iron Jaws.                                                                                                   |
+| SW    | Sidewinder                                                                                                                                                                 |
+| Troub | Troubadour                                                                                                                                                                 |
+| Weave | Using oGCDs in between GCDs. Using two of them in a single window is called double weaving.                                                                                |
+| WM    | Wanderer’s Minuet                                                                                                                                                          |
 
 - - -
 
