@@ -7,6 +7,20 @@ title: Ultimate Raids
 
 # Table of Contents
 
+- [A Note Regarding Ultimates](#A-note-regarding-ultimates)
+- [Level 70 Ultimates](#level-70-ultimates)
+   - [The Unending Coils of Bahamut](#the-unending-coils-of-bahamut)
+   - [The Weapon's Refrain](#the-weapons-refrain)
+   - [Openers](#openers)
+   - [Best in Slot](#best-in-slot)
+   - [Points of View](#points-of-view)
+- [Level 80 Ultimates](#level-80-ultimates)
+    - [The Epic of Alexander](#the-epic-of-alexander)
+    - [Opener](#opener)
+    - [Best in Slot](#best-in-slot)
+    - [Points of View](#points-of-view)
+- [FAQ](#faq)
+
 ---
 
 # A Note Regarding Ultimates:
