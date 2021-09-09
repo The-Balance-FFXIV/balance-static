@@ -1,7 +1,7 @@
 ---
 title: Best in Slot
 ---
-#Gunbreaker Best in Slot
+# Gunbreaker Best in Slot
 
 
 ## 5.58 BiS Compendium: 
