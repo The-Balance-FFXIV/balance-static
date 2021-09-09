@@ -161,6 +161,40 @@ Save Rough Divide charges for No Mercy unless needed for utility.
 
 # Rotation FAQ
 
+> *Do I save Bloodfest for No Mercy?*
+
+Use bloodfest on cooldown. It should naturally align with No Mercy every 3 minutes for a 4x Burst Strike in No Mercy opportunity 
+
+
+> *Do I hold No Mercy/Gnashing Fang combo for one another?*
+
+Generally speaking if you mess up, using them on cooldown is more damage. However when you have strong raid cooldowns such as Trick attack, then you want to keep yourself aligned with them. This is especially true if you messed up early in the fight. You also want to hit buttons where you were supposed to rather than adjust on the fly for practice purposes. Basically there's no correct answer to this and you should look for ways to avoid messing up in the first place instead 
+
+
+> *When do I AoE?*
+
+2+ targets for general AoE. At 3 targets and under you still want to use Gnashing Fang combo and Sonic Break on cooldown.
+
+
+> *Help! I'm clipping my GCDs!*
+
+If you're not losing a GCD in No Mercy, then it's acceptable to clip during that window. Outside of No Mercy, find ways to pre-emptively hit defensive cooldowns in order to not clip. Clipping Blasting Zone to prevent drift is acceptable.
+
+> *What GCD should I have?*
+
+The Gunbreaker Rotation works off a 2.4 GCD. This is the minimum that you need. Any more will not affect your dps output strongly. Any less and you lose a lot of dps due to abilities not lining up with No Mercy.
+
+
+> *My ping is x and my GCD is y!! Can I do etc.?! Should I go faster to compensate?!*
+
+
+Realistically you can succeed with any of the Skill speed tiers regardless of ping unless you're playing from a different continent. Skill speed is more related to fight design tbh. 2.4 GCD will give you the best results if you're a perfect human being, 2.38 will let you get away with being monkey every now then.
+
+
+> *About SSS or La-*
+
+SSS or Lawns are in no way any indication of your ability to succeed or your actual dps output.
+
 > *What if I misaligned my Gnashing Fang from No Mercy because of Downtime/user error?*
 
 Don't worry! This happens. It's going to happen to all of us. Follow this flow:
@@ -180,3 +214,10 @@ Weave it like so:
 
 ![Combo Break 1](https://i.imgur.com/4Ksivi3.png)
 ![Combo Break 2](https://i.imgur.com/lLLoVMB.png)
+
+> *What should my No Mercy window look like?*
+
+![No Mercy](https://media.discordapp.net/attachments/626602979595649033/671190364232876085/RinbreakerNoMercies2.png?)
+
+
+
