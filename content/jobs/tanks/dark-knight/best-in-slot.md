@@ -84,21 +84,27 @@ Ultimate BiS sets can be found below.
 
 ### The Epic of Alexander
 
-2.43	non-relic				
-	relic	https://etro.gg/gearset/9519a72a-362f-42ca-9bcb-086f5d16862e	patch 5.55+		
-2.41	non-relic				
-	relic	https://cdn.discordapp.com/attachments/583964695266983944/823317836624953414/unknown.png	-		
-2.40	non-relic	https://etro.gg/gearset/7c5e6086-dec6-4feb-8648-f283fd37f60e			
-	relic	https://etro.gg/gearset/9190d3b3-55b9-4ec6-8364-42dc8f13cf00	patch 5.55+		
-2.38	non-relic	https://etro.gg/gearset/4f771c14-319a-45bd-8640-e502b8abdeaf			
-	relic	https://etro.gg/gearset/fb582812-87f3-4dbc-8566-07bfbb52ead0	patch 5.55+		
+2.43 non-relic - 	
+<br>2.43 relic - <https://etro.gg/gearset/9519a72a-362f-42ca-9bcb-086f5d16862e>	
+
+2.41 non-relic - 			
+<br>2.41 relic - <https://cdn.discordapp.com/attachments/583964695266983944/823317836624953414/unknown.png>
+
+2.40 non-relic - <https://etro.gg/gearset/7c5e6086-dec6-4feb-8648-f283fd37f60e>
+<br>2.40 relic - <https://etro.gg/gearset/9190d3b3-55b9-4ec6-8364-42dc8f13cf00>
+
+2.38 non-relic - <https://etro.gg/gearset/4f771c14-319a-45bd-8640-e502b8abdeaf>			
+<br>2.38 relic - <https://etro.gg/gearset/fb582812-87f3-4dbc-8566-07bfbb52ead0>
 
 ### Eden Verse
 
-2.43		No Relic	https://etro.gg/gearset/872cc0a2-b515-4c0e-a1c1-72ae8abb713d				Relic Helm & Boots		https://etro.gg/gearset/7dffab98-02a3-4bff-bde0-156f0b721b71			
-												
-2.41		No Relic	https://etro.gg/gearset/744ca6b2-d002-4931-ab3b-8cb5ef4934b6 				Relic Helm		https://etro.gg/gearset/1e972d54-8bde-4c0f-9101-c54edb91918d			
-												
-2.40							Relic Helm		https://etro.gg/gearset/ae93bc72-5d1b-41d8-b36b-84018a985434			
-												
-2.38		No Relic	https://etro.gg/gearset/eeb87f10-5f63-4d00-9bf3-3e29fe898d0c 				Relic Helm		https://etro.gg/gearset/465886a7-664b-4a7b-983a-27d5337c93cc			
+2.43 No Relic - <https://etro.gg/gearset/872cc0a2-b515-4c0e-a1c1-72ae8abb713d>
+<br>2.43 Relic Helm & Boots - <https://etro.gg/gearset/7dffab98-02a3-4bff-bde0-156f0b721b71>	
+
+2.41 No Relic - <https://etro.gg/gearset/744ca6b2-d002-4931-ab3b-8cb5ef4934b6>
+<br>2.41 Relic Helm - <https://etro.gg/gearset/1e972d54-8bde-4c0f-9101-c54edb91918d>			
+
+2.40 Relic Helm - <https://etro.gg/gearset/ae93bc72-5d1b-41d8-b36b-84018a985434>			
+
+2.38 No Relic - <https://etro.gg/gearset/eeb87f10-5f63-4d00-9bf3-3e29fe898d0c>
+<br>2.38 Relic Helm - <https://etro.gg/gearset/465886a7-664b-4a7b-983a-27d5337c93cc>			
