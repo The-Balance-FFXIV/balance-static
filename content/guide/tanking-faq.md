@@ -4,8 +4,8 @@ title: Tanking FAQ
 # Tanking FAQ
 
 ## What Food / Potion do tanks use?
-Grade 4 Tincture of Strength
-Chicken Fettuccine OR Smoked Chicken
+- Grade 4 Tincture of Strength
+- Chicken Fettuccine OR Smoked Chicken
 
 
 ## What do I meld?
