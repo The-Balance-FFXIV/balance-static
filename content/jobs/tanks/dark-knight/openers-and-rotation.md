@@ -1,7 +1,7 @@
 ---
 title: Openers and Rotation
 ---
-# Gunbreaker Openers and Rotation
+# Dark Knight Openers and Rotation
 
 # Openers
 DRK has a several different options for openers, not all of which are listed here.
