@@ -70,6 +70,9 @@ title: Levelling Guide
 <br> **4 or more targets**: Sonic Break > Demon Slaughter AoE combo
 
 
+From Level 60 onward, you should always save a Cartridge for Gnashing Fang instead of using it for Burst Strike/Fated Circle when Gnashing Fang has 10s or less on its cooldown.
+From Level 70 onward, Gnashing Fang, Savage Claw, and Wicked Talon should always be followed by their respective Continuation actions (Jugular Rip, Abdomen Tear, and Eye Gouge respectively).
+
 ## Levels 72+
 
 ![Sonic Break](https://xivapi.com/i/003000/003417.png) >
