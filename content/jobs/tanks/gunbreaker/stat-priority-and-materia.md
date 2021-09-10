@@ -1,5 +1,5 @@
 ---
-title: Stat Priority and Materia
+title: Stats and Materia
 ---
 # Meld Priority
 
