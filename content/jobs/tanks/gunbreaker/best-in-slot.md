@@ -13,9 +13,7 @@ title: Best in Slot (BiS)
 
 ## Relic BiS
 
-**5.58 Relic i530 BiS**
-
-
+#### **5.58 Relic i530 BiS**
 
 <br>[2.41 - 13,892.9 DPS](https://etro.gg/gearset/724fb635-aee3-43d0-beb2-9ac285445e14) <br/>
 
@@ -23,9 +21,9 @@ title: Best in Slot (BiS)
 
 ## Non-Relic BiS
 
-**Food: Chicken Fettuccine**
+**Food: Chicken Fettuccine<br>**
 
-
+**<br>**
 
 [i530 2.41 - 13,808.7 DPS](https://etro.gg/gearset/3a00ff65-fd0d-45b0-adc1-f4f1a6a2b69a)
 
@@ -40,7 +38,9 @@ title: Best in Slot (BiS)
 
 ## The Weapon's Refrain (UWU) BiS
 
-[UWU i515 Relic BiS](https://etro.gg/gearset/85d6d8db-dbe3-4024-a55d-4496d5303ade)
+[UWU i515 Relic BiS](https://etro.gg/gearset/85d6d8db-dbe3-4024-a55d-4496d5303ade) <br>
+
+<br/>
 <br>* *Keep note that these stats are for specific tiering. Please adhere to them best you can!*
 
 - - -
@@ -49,18 +49,18 @@ title: Best in Slot (BiS)
 
 ## 5.55 The Epic of Alexander (TEA) BiS
 
-*(This can be done with EITHER the 535 or the 515 relic. if using the 515 relic, put 15 less skill speed in than shown)*
-<br><https://etro.gg/gearset/75cb96cc-9e8e-4228-93f8-53152b288ceb>
+*(This can be done with EITHER the 535 or the 515 relic. if using the 515 relic, put 15 less skill speed in than shown)<br/>*
+<br/><https://etro.gg/gearset/75cb96cc-9e8e-4228-93f8-53152b288ceb>
 
 ## 5.58 TEA Alternative
 
-*Unlucky dungeon drops? No headpiece? Try this!*
-<BR><https://etro.gg/gearset/38c0c312-fb2d-47e2-af58-33b9acfab97e>
+*Unlucky dungeon drops? No headpiece? Try this!<br/>*
+<BR/><https://etro.gg/gearset/38c0c312-fb2d-47e2-af58-33b9acfab97e>
 
 ## TEA 2.4 NON-Relic
 
-*Less DPS than relic as an alternative if you're not getting a relic* 
-<br><https://etro.gg/gearset/f6631658-1d31-4472-8ff6-56ab2d9073e8>
+*Less DPS than relic as an alternative if you're not getting a relic* <br/>
+<br/><https://etro.gg/gearset/f6631658-1d31-4472-8ff6-56ab2d9073e8>
 
 - - -
 
