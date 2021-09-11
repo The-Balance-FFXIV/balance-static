@@ -320,7 +320,7 @@ As mentioned, your first GCD after PB is formless so will not grant you a Leaden
 
 * "If I end PB with Leaden Fist, should I not do an uncomboed Bootshine instead?"
 
-No, as this would be a waste of the Leaden Fist proc. You want all of your Bootshines to be guaranteed crits, so you would stick to the rule of "Always DK after PB" to make sure the Leaden isn't eaten by an uncomboed Boot. Remember, we're not 'wasting'/'overcapping' on Leaden stacks here as the DK is uncomboed.
+No, as this would be a waste of the Leaden Fist proc. You want all of your Bootshines to be guaranteed crits, so you would stick to the rule of "Always DK after PB" to make sure the Leaden isn't eaten by an uncomboed Boot. Remember, we're not 'wasting' / 'overcapping' on Leaden stacks here as the DK is uncomboed.
 
 * "What should I meld on X"
 
