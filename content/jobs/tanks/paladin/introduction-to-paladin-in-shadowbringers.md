@@ -1,6 +1,8 @@
 ---
 title: Introduction to Paladin in Shadowbringers
 ---
+> the useless pre-Endwalker guide update by [nikroulah#1605](https://www.fflogs.com/character/na/adamantoise/nikroulah%20skysdotter)
+
 ## Skills and Abilities Overview
 
 ## Opener
