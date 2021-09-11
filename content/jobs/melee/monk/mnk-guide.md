@@ -43,59 +43,35 @@ Hello and welcome to Monkey, I am Perfect Balance and I am going to feed you the
 
 When discussing jobs typing out full skills names all the time is very time consuming, so for your reference here are all the Monk related acronyms and abbreviations currently in use.
 
-Boot/BS - Bootshine
-
-DK - Dragon Kick
-
-TS - True Strike
-
-Twin/TwS - Twin Snakes
-
-Demo - Demolish
-
-Snap/SP - Snap Punch
-
-AotD - Arm of the Destroyer
-
-FPF - Four-point Fury
-
-RB - Rockbreaker
-
-SSS- Six-sided Star
-
-RoF - Riddle of Fire
-
-BH - Brotherhood
-
-PB - Perfect Balance
-
-TK - Tornado Kick
-
-EF - Elixir Field
-
-FBC/TFC - The Forbidden Chakra
-
-RoE - Riddle of Earth
-
-TN - True North
-
-FoF - Fists of Fire
-
-FoE - Fists of Earth
-
-FoW - Fists of Wind
-
-GL - Greased Lightning
-
-GCD - Global Cooldown
-
-oGCD - Off-Global Cooldown
-
-DoT - Damage over Time
-
-AoE - Area of Effect
-
-BiS - Best in Slot
+| | | |
+| --- | --- | --- |
+|Boot/BS | - | Bootshine|
+|DK | - | Dragon Kick|
+|TS | - | True Strike|
+|Twin/TwS | - | Twin Snakes|
+|Demo | - | Demolish|
+|Snap/SP | - | Snap Punch|
+| AotD | - | Arm of the Destroyer|
+|FPF | - | Four-point Fury|
+|RB | - | Rockbreaker|
+|SSS | - | Six-sided Star|
+| RoF | - | Riddle of Fire|
+| BH | - | Brotherhood|
+| PB | - | Perfect Balance|
+| TK | - | Tornado Kick|
+|EF | - | Elixir Field|
+|FBC/TFC | - | The Forbidden Chakra|
+|RoE | - | Riddle of Earth|
+|TN | - | True North|
+|FoF | - | Fists of Fire|
+|FoE | - | Fists of Earth|
+|FoW | - | Fists of Wind|
+|GL | - | Greased Lightning|
+|GCD  |- | Global Cooldown|
+|oGCD | - | Off-Global Cooldown|
+|DoT | - | Damage over Time|
+|AoE | - | Area of Effect|
+|BiS | - |Best in Slot|
 
 ## Complementary Materials
 
