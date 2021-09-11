@@ -59,7 +59,7 @@ Ultima Reopener should hold a cartridge to end on a Burst Strike before Predatio
 
 UCoB i515 Relic Bis  
 <https://etro.gg/gearset/20f5754b-faf7-48a5-9b75-99c98939ee27>
-![image](https://i.imgur.com/opcbpMJ.png)
+!
 
 ### UWU Best in Slot
 
