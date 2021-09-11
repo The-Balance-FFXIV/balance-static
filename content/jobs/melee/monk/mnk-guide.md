@@ -292,11 +292,11 @@ Now that we've  broadly covered how Monk works and looked at the single target r
 
 Monk has a third GCD option on each of its forms, these are our AoE GCDs.
 
-Opo-Opo form has Arm of the Destroyer, a circle AoE around you with a 110 potency, or 140 with form bonus.
-
-Raptor form has Four-point Fury, another circle AoE around you with a 140 potency which also extendes Twin Snakes by 10 seconds.
-
-Coeurl form has Rockbreaker, *another* circle AoE around you with 150 potency.
+| | |
+| --- | --- |
+| ![](https://xivapi.com/i/000000/000215.png) |Opo-Opo form has Arm of the Destroyer, a circle AoE around you with a 110 potency, or 140 with form bonus.|
+|![](https://xivapi.com/i/002000/002544.png)| Raptor form has Four-point Fury, another circle AoE around you with a 140 potency which also extendes Twin Snakes by 10 seconds. |
+| ![](https://xivapi.com/i/002000/002529.png)| Coeurl form has Rockbreaker, *another* circle AoE around you with 150 potency.|
 
 To AoE, you start by applying Twin Snakes and then simply begin using your AoE gcds instead of single target, based on the amount of enemies.
 
