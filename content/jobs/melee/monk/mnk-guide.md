@@ -95,6 +95,8 @@ DoT - Damage over Time
 
 AoE - Area of Effect
 
+BiS - Best in Slot
+
 ## Complementary Materials
 
 \[Links to useful plugins]
@@ -108,7 +110,7 @@ Click [here](https://www.akhmorning.com/allagan-studies/stats/) to see stat brea
 
 Somewhat similarly, [these](https://i.imgur.com/4IIF3ey.png) are the Sks thresholds for your GCD at GL4.
 
-[Here](http://bit.ly/Gear-Planner) is a gear planner from Jahadaunt that you can use to figure out the best gear set for your situation as you gear up.
+[Here](http://bit.ly/Gear-Planner) is a gear planner from Jahadaunt that you can use to figure out the best gear set for your situation as you gear up towards BiS.
 
 # Section 2: Basics
 
@@ -136,6 +138,8 @@ In Raptor form, True Strike, Twin Snakes, and Four-point Fury gain additional ef
 
 In Coeurl form, Demolish, Snap Punch, and Rockbreaker gain additional effects.
 
+![Form GCDs](/img/forms-thing.png)
+
 ## Uptime
 
 Uptime is absolutely king, and 99% of the time when people come asking for help as to why they're doing low DPS, it's because they have poor uptime.
@@ -147,6 +151,8 @@ Second is keeping your GCD rolling in general. Some people will choose to priori
 # Section 3 - Building the Rotation
 
 ## Single target GCDs
+
+
 
 As previously mentioned, Monk has 6 core single target GCDs.
 
@@ -236,8 +242,6 @@ You'll also notice that only 1 Forbidden Chakra is included in the image, yet yo
 
 While in a vacuum getting 2 Shoulder Tackle charges in each Riddle of Fire window is optimal, they're such low potency that it's okay to let them drop out of RoF in exchange for a Forbidden Chakra.
 
-
-
 ## Core Gameplay Loop
 
 Now that we've covered the core GCDs and oGCDs we can piece together what our rotation is going to look like following the opener.
@@ -261,8 +265,6 @@ Depending on the opener you used, your ensuing rotation will end up looking like
 Now you may wonder what do you do when your buffs come back up, and the answer is thankfully quite simple - you simply redo your opener. Now when I say redo I don't mean *exactly* redo it, as you'll notice that your Opo-Opo GCDs have naturally flipped since the opener. This means that if you started the fight with the Standard opener, your first RoF usage will look exactly like the Early opener. If you started with the Early opener, you'll end up doing the Standard opener. This continues to alternate throughout the fight. 
 
 Your Opo-Opo GCDs flipping doesn't just effect your burst though, it also effects your rotation. As a result you'll find that every 90 seconds your rotation flips between the 2 images previously shown. Eventually you will build muscle memory to the point of not having to consciously consider which GCDs to be using when, you will simply press the right buttons at the right time.
-
-
 
 ## Utility/Situational Skills and how to use them
 
