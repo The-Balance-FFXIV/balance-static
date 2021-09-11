@@ -116,13 +116,13 @@ Somewhat similarly, [these](https://i.imgur.com/4IIF3ey.png) are the Sks thresho
 
 ## Positionals
 
-It's unlikely that you've made the decision to play Monk while remaining unaware of the P word, but in case you've not come across it before, a "positional" is a skill that only gains maximum effect when used at a specific part of an enemies' hitbox, typically flank or rear. All 6 GCD in Monks core single target rotation have a positional effect, so it's important you know which is which.
+It's unlikely that you've made the decision to play Monk while remaining unaware of the P word, but in case you've not come across it before; a "positional" is a skill that only gains maximum effect when used at a specific part of an enemies' hitbox, in Monk's case either flank or rear. All 6 GCD in Monks core single target rotation have a positional effect, so it's important you know which is which.
 
 Bootshine, True Strike, and Demolish all deal maximum damage when executed from behind an enemy.
 
 Dragon Kick, Twin Snakes, and Snap Punch on the other hand are best used from an enemies' flank (side).
 
-This might sound like a lot of movement back and forth from the enemies rear to side and back again, but in reality you can simply stand near the borderline of where the enemy hitbox crosses from side to rear and step back and forth between that line as needed. The image below illustrates which part of the hitbox is classified as flank/rear, and also indicates which area to ideally stand for minimal required movement.
+This might sound like a lot of movement back and forth from the enemies rear to side and back again, but in reality you can simply stand near the borderline of where the enemy hitbox crosses from side to rear and step back and forth between that line as needed. The image below illustrates which part of the hitbox is classified as flank/rear, and also indicates with a red arrow which area to ideally stand for minimal required movement.
 
 ![](/img/positional-thing.png "Positional box thing")
 
