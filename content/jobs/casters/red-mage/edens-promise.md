@@ -89,7 +89,7 @@ When your second potion comes off cooldown around the 4:30 mark, you should use 
 
 On RDM, there are many ways this potion window can be handled. It is extremely tight, if not impossible to catch two full combos under your potion here without heavily overcapping mana, which is not recommended. A reasonable compromise if you are unsure what to do with this potion window is to delay your Manafication that you are already holding by a few extra GCDs, lining it up so that your potion can be weaved in between Enchanted Redoublement and your first finisher, allowing you to catch a Manafication buffed Verflare/Verholy and Scorch under potion. An example of this can be seen in the below clip:
 
-{{< youtube QiL1B-9jkn4 >}}
+{{< youtube LFhMMBWtfU0 >}}
 
 ## Third Potion Window
 
