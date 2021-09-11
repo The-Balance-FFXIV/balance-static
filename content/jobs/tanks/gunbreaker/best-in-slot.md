@@ -13,15 +13,21 @@ title: Best in Slot (BiS)
 
 ## Relic BiS
 
-**5.58 Relic i530 BiS<br/>**
-<br/>[2.41 - 13,892.9 DPS](https://etro.gg/gearset/724fb635-aee3-43d0-beb2-9ac285445e14) <br/>
+**5.58 Relic i530 BiS**
+
+
+
+<br>[2.41 - 13,892.9 DPS](https://etro.gg/gearset/724fb635-aee3-43d0-beb2-9ac285445e14) <br/>
 
 <br> [2.43 - 13,850.0 DPS](https://etro.gg/gearset/ec8a3fa3-4f6e-46df-9fe7-7127bfc0607d) <br/>
 
 ## Non-Relic BiS
 
-**Food: Chicken Fettuccine<br/>**
-[i530 2.41 - 13,808.7 DP](https://etro.gg/gearset/3a00ff65-fd0d-45b0-adc1-f4f1a6a2b69a)
+**Food: Chicken Fettuccine**
+
+
+
+[i530 2.41 - 13,808.7 DPS](https://etro.gg/gearset/3a00ff65-fd0d-45b0-adc1-f4f1a6a2b69a)
 
 - - -
 
