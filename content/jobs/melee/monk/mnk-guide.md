@@ -186,11 +186,12 @@ In terms of oGCDs Monk is somewhat simple.
 
 We have 3 buffs:
 
-Riddle of Fire, a 20 second duration buff that increases damage dealt by 25%. It has a 90 second cooldown.
+|                                                                                                  |                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://xivapi.com/i/002000/002541.png) | Riddle of Fire, a 20 second duration buff that increases damage dealt by 25%. It has a 90 second cooldown.                                                  |
+| ![](https://xivapi.com/i/002000/002542.png)                                                                                            | Brotherhood, a 15 second duration buff that applies 2 effects to you and all party members within 15 yalms. The first is a 5% damage increase, the second is Meditative Brotherhood, which helps generate chakra.                                                                          |
+| ![](https://xivapi.com/i/000000/000217.png) | Perfect Balance, a buff with a 15 second duration/6 stacks that enables the use of any GCD as if you have its form bonus. |
 
-Brotherhood, a 15 second duration buff that applies 2 effects to you and all party members within 15 yalms. The first is a 5% damage increase, the second is Meditative Brotherhood, which helps generate chakra.
-
-Perfect Balance, a buff with a 15 second duration/6 stacks that enables the use of any GCD as if you have its form bonus.
 
 We have 5 damaging oGCDs at our disposal.
 
