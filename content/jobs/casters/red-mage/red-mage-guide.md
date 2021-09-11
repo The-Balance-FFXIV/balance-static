@@ -294,16 +294,17 @@ The openers are designed to set up for a 4x Engagement cycle, which allows 1-2 o
 * Gets more of the opener melee combo under buffs.
 * Due to the lack of weaving windows for this opener, it requires using Engagement over Displacement, accepting the potency loss in order to gain potency from other places.
 
+![Opener3-8](/img/jobs/casters/redmage/Opener_3-8.png)
 ![Opener5-8](/img/jobs/casters/redmage/Opener_5-8.png)
-![Opener5-10](/img/jobs/casters/redmage/Opener_5-10.png)
+
 
 ## x-10 Openers
 
 * These openers are modified versions of the 5.x standard opener, maximizing mana generation and cooldown usage. 
 * The extra mana generated due to an extra Dualcast pair being doubled by Manafication allows for more uses of Reprise per cycle, as well as accelerating your mana generation towards the second combo.
 
-![Opener3-8](/img/jobs/casters/redmage/Opener_3-8.png)
 ![Opener3-10](/img/jobs/casters/redmage/Opener_3-10.png)
+![Opener5-10](/img/jobs/casters/redmage/Opener_5-10.png)
 
 ## Addle Openers
 
