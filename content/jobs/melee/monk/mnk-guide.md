@@ -25,9 +25,9 @@ Hello and welcome to Monkey, I am Perfect Balance and I am going to feed you the
   * [oGCDs](#oGCDs)
   * [Openers](#Openers)
 
-    * Weaving
-    * Double Dragon
-    * Drifting 101
+    * [Weaving](#Weaving)
+    * [Double Dragon](#Double-Dragon)
+    * [Drifting 101](#Drifting-101)
   * Core gameplay loop
 
     * Post-opener RoFs
