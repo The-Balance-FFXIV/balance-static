@@ -188,7 +188,7 @@ We have 3 buffs:
 
 |  Icon | Name  | Cooldown | Duration | Effect |
 | --- | --- | --- | --- | --- |
-| ![](https://xivapi.com/i/002000/002541.png) | Riddle of Fire | 90s | 20s | increases damage dealt by 25%. It has a 90 second cooldown.                                                  |
+| ![](https://xivapi.com/i/002000/002541.png) | Riddle of Fire | 90s | 20s | increases damage dealt by 25%.                                                 |
 | ![](https://xivapi.com/i/002000/002542.png)                                                                                            | Brotherhood | 90s | 15s | applies 2 effects to you and all party members within 15 yalms. The first is a 5% damage increase, the second is Meditative Brotherhood, which helps generate chakra.                                                                          |
 | ![](https://xivapi.com/i/000000/000217.png) | Perfect Balance | 90s | 10s / 6 stacks |  enables the use of any GCD as if you have its form bonus. |
 
