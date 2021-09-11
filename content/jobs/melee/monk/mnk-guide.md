@@ -49,7 +49,7 @@ DK - Dragon Kick
 
 TS - True Strike
 
-TwS - Twin Snakes
+Twin/TwS - Twin Snakes
 
 Demo - Demolish
 
