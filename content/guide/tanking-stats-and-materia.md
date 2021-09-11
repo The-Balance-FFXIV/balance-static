@@ -11,14 +11,14 @@ title: Tanking Stats and Materia
 3. Substats
 
 
-- There are no "Stat Weights".
-- Weapon Damage almost always comes with Main stat increase.
-- Higher item level almost always comes with Main stat increase.
+- There are no "Stat weights".
+- Weapon Damage almost always comes with main stat increase.
+- Higher item level almost always comes with main stat increase.
 
 - Upgrade your gear as often as possible
 
 
-## Skill Speed (at lv 80)
+## Skill Speed (at level 80)
 - 2.43s GCD - 1015 SkS
 - 2.42s GCD - 1117 SkS
 - 2.41s GCD - 1218 SkS
@@ -34,16 +34,16 @@ For any other speed, use #bot_spam and the following command:
 
 
 ## Stat specifics
-In general, 3 out of 4 tanks can use the same melds.
+In general, three out of four tanks can use the same melds.
 
 
 ## Why no DH on WAR?
 Warrior is the odd job that avoids Direct Hit due to how Inner Release and Inner Chaos work.
 
 ## Why Det melds when DH has priority?
-Due to how the stat tiers work, sometimes melding Det is a dps increase
+Due to how the stat tiers work, sometimes melding Det is a DPS increase
 
-## Why Tnc melds when Det has priority?
+## Why Tenacity melds when Det has priority?
 Sometimes there's nothing else to meld. 
 Also stat tiering.
 
@@ -52,7 +52,7 @@ The difference between each substat's effect on output is very small. For exampl
 
 In fact, this difference is so small that with the considerable damage variance in the game (+/- 5% RNG, crit/dh rates), we would not even know it exists had we not reverse engineered the exact damage formula!
 
-**But what's the point of BIS then!?**
+**But what's the point of BiS then!?**
 
 Optimizing our damage is desirable, and changing gear or melds is a free and easy way to make minor gains. The idea is simply to highlight that blaming your substat spread is not an alternative to the pursuit of personal growth. It is an excuse that will only serve to hold you back.
 
