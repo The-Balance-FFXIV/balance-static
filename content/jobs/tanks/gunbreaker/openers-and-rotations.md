@@ -19,12 +19,12 @@ The theoretical standard opener for a full-uptime encounter is the 4th GCD No Me
 <br>**Keen Edge** > **Brutal Shell** > Tincture > **Solid Barrel Keen Edge** > No Mercy  > **Gnashing Fang** > Jugular Rip > **Sonic Break** > 
 Blasting Zone + Bow Shock > **Savage Claw** > Abdomen Tear + Bloodfest > **Wicked Talon** > Rough Divide + Eye Gouge > **Burst Strike** > Rough Divide > **Brutal Shell** > **Burst Strike** > **Solid Barrel** > **Burst Strike** > **Keen Edge** > **Brutal Shell** > ...
 
-## (E11s) Fatebreaker Opener
+## (E11S) Fatebreaker Opener
 
 *Prepull No Mercy > Sonic Break into Raidbuffs*
 <br> Tincture **\-3.5s to Pull** > No Mercy **\-1s to Pull** > **Sonic Break** > Bloodfest > **Keen Edge** > **Brutal Shell** > **Burst Strike** > Rough Divide > **Gnashing Fang** > Bow Shock + Jugular Rip > **Savage Claw** > Blasting Zone + Abdomen Tear > **Wicked Talon** > Eye Gouge > **Solid Barrel** > Rough Divide > **Burst Strike** > **Keen Edge** > **Brutal Shell** > **Solid Barrel** > ...
 
-## (E12s) - Oracle of Darkness Savage Opener:
+## (E12S) - Oracle of Darkness Savage Opener:
 
 *Prepull No Mercy Instant Burst*
 <br> -3s Potion > -1s No Mercy > **Keen Edge** > Blasting Zone + Bloodfest > **Gnashing Fang** > Rough Divide + Jugular Rip > **Burst Strike** > 2nd oGCD Slot Heart of Light > **Sonic Break** > Bow Shock + Rough Divide + **Savage Claw** > Abdomen Tear > **Wicked Talon** > Eye Gouge > **Brutal Shell** > **Solid Barrel** > **Keen Edge** > **Gnashing Fang** > Jugular Rip > **Savage Claw** > Abdomen Tear > **Wicked Talon** > Eye Gouge...
