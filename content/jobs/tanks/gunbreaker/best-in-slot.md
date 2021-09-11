@@ -13,7 +13,7 @@ title: Best in Slot (BiS)
 
 ## Relic BiS
 
-#### **5.58 Relic i530 BiS**
+### **5.58 Relic i530 BiS**
 
 \
 <br>[2.41 - 13,892.9 DPS](https://etro.gg/gearset/724fb635-aee3-43d0-beb2-9ac285445e14) <br/>
