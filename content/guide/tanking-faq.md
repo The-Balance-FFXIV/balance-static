@@ -48,7 +48,7 @@ Tenacity allows the whole party to make some mistakes in raid progression.
 Missed a Feint or Addle? Shields? Cooldown dropped a second too early?
 Tenacity's got it.
 
-E4s shared buster sends its regards
+E4S shared buster sends its regards
 <BR><https://youtu.be/TLSc5QiCQMs?t=309>
 <br>![Buster](https://cdn.discordapp.com/attachments/396721085791338497/631391223474683915/unknown.png)
 
@@ -70,19 +70,19 @@ Using two 20% cooldowns:
 ## How do the tanks stack up?
 ## Is X tank bad?
 
-Tank balance has never been better. Everyone can do everything and the only differences are like a 1-2% dps disparity and each tanks individual mitigation specialties. 
+Tank balance has never been better. Everyone can do everything and the only differences are like a 1-2% DPS disparity and each tanks individual mitigation specialties. 
 
 No tank is bad and you should just play what you like and have fun with.
 
 Here's Mox's WAR-biased writeup:
-- Warrior: My personal one-trick job. Very little double-weaves, pretty straight-forward gameplay. Bursts every 90 seconds for 10~12 seconds by pressing one button for the most part, does very sleepy damage between bursts. Gameplay is mostly "Keep this one buff up and maximize Gauge gains".
-Has pretty strong mitigation and self-healing tools and is known as the Third Healer of the party. Invulnerability skill could be better (targeting makes it awkward) but if it was any better, the job would be overpowered.
+- Warrior: My personal one-trick job. Very little double-weaves, pretty straight-forward gameplay. Bursts every 90 seconds for 10~12 seconds by pressing one button for the most part, does very sleepy damage between bursts. Gameplay is mostly "keep this one buff up and maximize Gauge gains".
+Has pretty strong mitigation and self-healing tools and is known as the third healer of the party. Invulnerability skill could be better (targeting makes it awkward) but if it was any better, the job would be overpowered.
 
-- Gunbreaker: My next choice of tanks. Bursts every 60 seconds and a bit more after 30 seconds, but has quite a few double-weaves to keep maximum efficiency. One main combo, one combo for bursts.  A bit less well-off when it comes to self-heals and cooldowns, and the invulnerability skill puts your health to 1 which makes healers shit their pants.
+- Gunbreaker: My next choice of tanks. Bursts every 60 seconds and a bit more after 30 seconds, but has quite a few double-weaves to keep maximum efficiency. One main combo, one combo for bursts.  A bit less well-off when it comes to self-heals and cooldowns, and the invulnerability skill puts your health to 1, which makes healers shit their pants.
 
 - Dark Knight: Comfy-but-double-weavy. You have to manage two resources, Gauge and Mana, without overcapping either of them. If you do overcap, your efficiency drops a bit but it's not the end of the world. One combo to build your resources, some off-global skills to keep your buffs up. Bursts every 90 and 60 seconds when played well. Invulnerability skill lasts the longest but also requires healers' help to stay alive.
 
-- Paladin: Very comfy and static. Two combos, two bigger damage buffs, a couple of bigger damage buttons. The only (damage) resource is mana, which hits the 10000 cap if you do your rotato right. The actual Gauge is used for party mitigation. Lacks a self-cooldown compared to the other tanks but makes up for it by having an extra party mitigation tool.
+- Paladin: Very comfy and static. Two combos, two bigger damage buffs, a couple of bigger damage buttons. The only (damage) resource is mana, which hits the 10000 cap if you do your rotation right. The actual Gauge is used for party mitigation. Lacks a self-cooldown compared to the other tanks but makes up for it by having an extra party mitigation tool.
 
 > If I had to order the tanks in terms of "Easy to pick up", I'd list them WAR > PLD > DRK > GNB
 
