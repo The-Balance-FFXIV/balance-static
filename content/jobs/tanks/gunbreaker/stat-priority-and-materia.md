@@ -27,11 +27,11 @@ Gunbreaker meld priority is fairly simple:
 
 # FAQ
 
-> **Help! I don't have X piece for UCoB BiS?!**
+> **Help! I don't have X piece for Unending Coil of Bahamut (UCoB) BiS?!**
 
 That's okay! Substats on gear cap at iLvl 418 in UCoB. Simply use any piece of gear iLvl 418 or higher that has the same substats. They'll be the same when synced!
 
-> **Help! I don't have X piece for UWU BiS?!**
+> **Help! I don't have X piece for The Weapon's Refrain (UWU) BiS?!**
 
 That's okay! Substats on gear cap at iLvl 470 in UWU. Simply use any piece of gear iLvl 470 or higher that has the same substats. They'll be the same when synced!
 
