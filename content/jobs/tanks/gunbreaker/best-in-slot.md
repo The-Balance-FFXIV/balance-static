@@ -15,15 +15,16 @@ title: Best in Slot (BiS)
 
 #### **5.58 Relic i530 BiS**
 
+</br>\
 <br>[2.41 - 13,892.9 DPS](https://etro.gg/gearset/724fb635-aee3-43d0-beb2-9ac285445e14) <br/>
 
 <br> [2.43 - 13,850.0 DPS](https://etro.gg/gearset/ec8a3fa3-4f6e-46df-9fe7-7127bfc0607d) <br/>
 
 ## Non-Relic BiS
 
-**Food: Chicken Fettuccine<br>**
+**Food: Chicken Fettuccine<br/>**
 
-**<br>**
+**<br/>**
 
 [i530 2.41 - 13,808.7 DPS](https://etro.gg/gearset/3a00ff65-fd0d-45b0-adc1-f4f1a6a2b69a)
 
@@ -41,7 +42,7 @@ title: Best in Slot (BiS)
 [UWU i515 Relic BiS](https://etro.gg/gearset/85d6d8db-dbe3-4024-a55d-4496d5303ade) <br>
 
 <br/>
-<br>* *Keep note that these stats are for specific tiering. Please adhere to them best you can!*
+<br>\* \*Keep note that these stats are for specific tiering. Please adhere to them best you can!*
 
 - - -
 
@@ -54,12 +55,14 @@ title: Best in Slot (BiS)
 
 ## 5.58 TEA Alternative
 
-*Unlucky dungeon drops? No headpiece? Try this!<br/>*
-<BR/><https://etro.gg/gearset/38c0c312-fb2d-47e2-af58-33b9acfab97e>
+*Unlucky dungeon drops? No headpiece? Try this!*\
+*<br/>*
+<br/><https://etro.gg/gearset/38c0c312-fb2d-47e2-af58-33b9acfab97e>
 
 ## TEA 2.4 NON-Relic
 
-*Less DPS than relic as an alternative if you're not getting a relic* <br/>
+*Less DPS than relic as an alternative if you're not getting a relic* \
+<br/>
 <br/><https://etro.gg/gearset/f6631658-1d31-4472-8ff6-56ab2d9073e8>
 
 - - -
