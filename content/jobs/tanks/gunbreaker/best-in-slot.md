@@ -7,34 +7,35 @@ title: Best in Slot (BiS)
 
 \**Damage is within negligible variance. Choose the set that best suits your comfort level. Fight specific recommendations to come at a later date.*
 
-## Savage
+- - -
 
-### Relic BIS
+# Savage
 
-**5.58 Relic i530 BiS**
-<br>2.41 <https://etro.gg/gearset/724fb635-aee3-43d0-beb2-9ac285445e14> 13892.9 dps * 
+## Relic BiS
 
-<br>2.43 <https://etro.gg/gearset/ec8a3fa3-4f6e-46df-9fe7-7127bfc0607d> 13850.0 dps *
+**5.58 Relic i530 BiS<br/>**
+<br/>[2.41 - 13,892.9 DPS](https://etro.gg/gearset/724fb635-aee3-43d0-beb2-9ac285445e14) <br/>
 
-### Non-Relic BiS
+<br> [2.43 - 13,850.0 DPS](https://etro.gg/gearset/ec8a3fa3-4f6e-46df-9fe7-7127bfc0607d) <br/>
 
-i530 2.41 - Food: Chicken Fettuccine
-<br><https://etro.gg/gearset/3a00ff65-fd0d-45b0-adc1-f4f1a6a2b69a> 13,808.7 *
+## Non-Relic BiS
+
+**Food: Chicken Fettuccine<br/>**
+[i530 2.41 - 13,808.7 DP](https://etro.gg/gearset/3a00ff65-fd0d-45b0-adc1-f4f1a6a2b69a)
 
 - - -
 
 # Level 70 Ultimates
 
-## Unending Coil of Bahamut (UCoB) Best in Slot
+## Unending Coil of Bahamut (UCoB) BiS
 
-UCoB i515 Relic Bis
-<br><https://etro.gg/gearset/20f5754b-faf7-48a5-9b75-99c98939ee27>
+[UCoB i515 Relic BiS](https://etro.gg/gearset/20f5754b-faf7-48a5-9b75-99c98939ee27)
+<br/>
 
-## The Weapon's Refrain (UWU) Best in Slot
+## The Weapon's Refrain (UWU) BiS
 
-UWU i515 Relic Bis
+[UWU i515 Relic BiS](https://etro.gg/gearset/85d6d8db-dbe3-4024-a55d-4496d5303ade)
 <br>* *Keep note that these stats are for specific tiering. Please adhere to them best you can!*
-<br><https://etro.gg/gearset/85d6d8db-dbe3-4024-a55d-4496d5303ade>
 
 - - -
 
@@ -42,7 +43,7 @@ UWU i515 Relic Bis
 
 ## 5.55 The Epic of Alexander (TEA) BiS
 
-*(this can be done with EITHER the 535 or the 515 relic. if using the 515 relic, put 15 less sks in than shown)*
+*(This can be done with EITHER the 535 or the 515 relic. if using the 515 relic, put 15 less skill speed in than shown)*
 <br><https://etro.gg/gearset/75cb96cc-9e8e-4228-93f8-53152b288ceb>
 
 ## 5.58 TEA Alternative
