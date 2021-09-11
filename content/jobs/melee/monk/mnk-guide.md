@@ -186,22 +186,22 @@ In terms of oGCDs Monk is somewhat simple.
 
 We have 3 buffs:
 
-|                                                                                                  |                                                                                                                                                                                                            |
-| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002541.png) | Riddle of Fire, a 20 second duration buff that increases damage dealt by 25%. It has a 90 second cooldown.                                                  |
-| ![](https://xivapi.com/i/002000/002542.png)                                                                                            | Brotherhood, a 15 second duration buff that applies 2 effects to you and all party members within 15 yalms. The first is a 5% damage increase, the second is Meditative Brotherhood, which helps generate chakra.                                                                          |
-| ![](https://xivapi.com/i/000000/000217.png) | Perfect Balance, a buff with a 15 second duration/6 stacks that enables the use of any GCD as if you have its form bonus. |
+|  Icon | Name  | Cooldown | Duration | Effect |
+| --- | --- | --- | --- | --- |
+| ![](https://xivapi.com/i/002000/002541.png) | Riddle of Fire | 90s | 20s | increases damage dealt by 25%. It has a 90 second cooldown.                                                  |
+| ![](https://xivapi.com/i/002000/002542.png)                                                                                            | Brotherhood | 90s | 15s | applies 2 effects to you and all party members within 15 yalms. The first is a 5% damage increase, the second is Meditative Brotherhood, which helps generate chakra.                                                                          |
+| ![](https://xivapi.com/i/000000/000217.png) | Perfect Balance | 90s | 10s / 6 stacks |  enables the use of any GCD as if you have its form bonus. |
 
 
 We have 5 damaging oGCDs at our disposal.
 
-| | |
-| --- | --- |
-| ![](https://xivapi.com/i/002000/002533.png) | Elixir Field, a 30 second cooldown that deals 250 potency to all enemies in a 5 yalm radius around the user. |
-| ![](https://xivapi.com/i/002000/002531.png) | Tornado Kick, a 45 second cooldown that deals 400 potency to a single target. |
-| ![](https://xivapi.com/i/002000/002526.png) | Shoulder Tackle, a 30 second cooldown with 2 charges that deals 100 potency to a single target. This is also our gapcloser, and so should be used to traverse long distances quickly as opposed to walking across a room and wasting time. |
-| ![](https://xivapi.com/i/002000/002535.png) | The Forbidden Chakra, a 1 second cooldown that deals 340 potency to a single target. As previously mentioned, The Forbidden Chakra costs 5 stacks of chakra to use. |
-| ![](https://xivapi.com/i/002000/002545.png) | Enlightenment, a 1 second cooldown that deals 200 potency to all enemies in a straight line in front of you. Enlightenment also has a cost of 5 chakra. |
+| Icon | Name | Cooldown | Effect |
+| --- | --- | --- | --- |
+| ![](https://xivapi.com/i/002000/002533.png) | Elixir Field | 30s | deals 250 potency to all enemies in a 5 yalm radius around the user. |
+| ![](https://xivapi.com/i/002000/002531.png) | Tornado Kick | 45s | deals 400 potency to a single target. |
+| ![](https://xivapi.com/i/002000/002526.png) | Shoulder Tackle | 30s | deals 100 potency to a single target, with 2 charges. This is also our gapcloser, and so should be used to traverse long distances quickly as opposed to walking across a room and wasting time. |
+| ![](https://xivapi.com/i/002000/002535.png) | The Forbidden Chakra | 1s | deals 340 potency to a single target. As previously mentioned, The Forbidden Chakra costs 5 stacks of chakra to use. |
+| ![](https://xivapi.com/i/002000/002545.png) | Enlightenment | 1s | deals 200 potency to all enemies in a straight line in front of you. Enlightenment also has a cost of 5 chakra. |
 
 
 
