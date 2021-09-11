@@ -28,14 +28,14 @@ Hello and welcome to Monkey, I am Perfect Balance and I am going to feed you the
     * [Weaving](#Weaving)
     * [Double Dragon](#Double-Dragon)
     * [Drifting 101](#Drifting-101)
-  * Core gameplay loop
+  * [Core gameplay loop](#Core-gameplay-loop)
 
-    * Post-opener RoFs
-  * Utility/Situational Skills and how to use them
-  * How to Effect Areas
-* Section 4
+    * [Post-opener RoFs](#Post-opener-RoFs)
+  * [Utility/Situational skills and how to use them](#Utility/Situational-skills-and-how-to-use-them)
+  * [How to Effect Areas](#How-to-Effect-Areas)
+* [Section 4](#Section-4)
 
-  * FAQ
+  * [FAQ](#FAQ)
 
 # Section 1 - Introduction
 
