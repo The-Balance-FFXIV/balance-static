@@ -189,7 +189,7 @@ We have 3 buffs:
 |  Icon | Name  | Cooldown | Duration | Effect |
 | --- | --- | --- | --- | --- |
 | ![](https://xivapi.com/i/002000/002541.png) | Riddle of Fire | 90s | 20s | increases damage dealt by 25%.                                                 |
-| ![](https://xivapi.com/i/002000/002542.png)                                                                                            | Brotherhood | 90s | 15s | applies 2 effects to you and all party members within 15 yalms. The first is a 5% damage increase, the second is Meditative Brotherhood, which helps generate chakra.                                                                          |
+| ![](https://xivapi.com/i/002000/002542.png)                                                                                            | Brotherhood | 90s | 15s | applies 2 effects to you and all party members within 15 yalms. The first is a 5% damage increase. The second is Meditative Brotherhood, which helps generate chakra.                                                                          |
 | ![](https://xivapi.com/i/000000/000217.png) | Perfect Balance | 90s | 10s / 6 stacks |  enables the use of any GCD as if you have its form bonus. |
 
 
@@ -269,24 +269,25 @@ Your Opo-Opo GCDs flipping doesn't just effect your burst though, it also effect
 
 Monk has a number of utility skills that range from very useful to almost entirely useless.
 
-First is Six-Sided Star, a GCD with a potency of 540. It also grants a movement speed buff for 5 seconds, isn't locked to a form, and has no positional. At first glance this move seems very strong and like something you'd want to use frequently, however it's unique in that its GCD is twice as long as any other GCD, 5 seconds at base. Simply put, using 2 GCDs is always better than using 1 SSS, so you will only ever use SSS in scenarios where you *cannot* use 2 GCDs. This means before a boss goes invulnerable, as the last GCD before an enemy dies, as the last GCD before you have to disengage from an enemy, or before using a Limit Break.
+![](https://xivapi.com/i/002000/002547.png) First is Six-Sided Star, a GCD with a potency of 540. It also grants a movement speed buff for 5 seconds, isn't locked to a form, and has no positional. At first glance this move seems very strong and like something you'd want to use frequently, however it's unique in that its GCD is twice as long as any other GCD, 5 seconds at base. Simply put, using 2 GCDs is always better than using 1 SSS, so you will only ever use SSS in scenarios where you *cannot* use 2 GCDs. This means before a boss goes invulnerable, as the last GCD before an enemy dies, as the last GCD before you have to disengage from an enemy, or before using a Limit Break.
 
-We then have Anatman, which is basically useless. Anatman is a skill on the GCD, which when used puts you in a channel state that will be broken if you move, use any other skill, or even just turn your character. Upon use your Twin Snakes buff will be refreshed to 15 seconds, and will remain there for the duration of the channel. If this sounds useless its because it is. At its absolute best it will gain you 50~ potency.
+![](https://xivapi.com/i/002000/002546.png) We then have Anatman, which is basically useless. Anatman is a skill on the GCD, which when used puts you in a channel state that will be broken if you move, use any other skill, or even just turn your character. Upon use your Twin Snakes buff will be refreshed to 15 seconds, and will remain there for the duration of the channel. If this sounds useless its because it is. At its absolute best it will gain you 50~ potency.
 
-True North is one of our best friends. It's a 45 second cooldown with 2 charges, and nullifies positional requirements for 10 seconds. This is incredible for those situations where for whatever reason you're not able to get behind/to the side of an enemy, and will save you a lot of lost damage when used correctly.
+![](https://xivapi.com/i/000000/000830.png)True North is one of our best friends. It's a 45 second cooldown with 2 charges, and nullifies positional requirements for 10 seconds. This is incredible for those situations where for whatever reason you're not able to get behind/to the side of an enemy, and will save you a lot of lost damage when used correctly.
 
-Riddle of Earth is effectively a mini True North, with 3 charges and a 30 second cooldown. Upon activation you gain 3 stacks of Riddle of Earth, each of which provides 10% mitigation and nullifies the positional of a single GCD. This should primarily be used for its positional nullification, but in emergencies can be used for its mitigation.
+![](https://xivapi.com/i/002000/002537.png) Riddle of Earth is effectively a mini True North, with 3 charges and a 30 second cooldown. Upon activation you gain 3 stacks of Riddle of Earth, each of which provides 10% mitigation and nullifies the positional of a single GCD. This should primarily be used for its positional nullification, but in emergencies can be used for its mitigation.
 
-Arms Length is a 120 second cooldown that nullifies knockbacks, it doesn't apply to *all* knockbacks but it should cover most of them. Very nice skill to have, as it makes sure you don't get knocked away from the boss so you can keep punching.
+![](https://xivapi.com/i/000000/000822.png) Arms Length is a 120 second cooldown that nullifies knockbacks, it doesn't apply to *all* knockbacks but it should cover most of them. Very nice skill to have, as it makes sure you don't get knocked away from the boss so you can keep punching.
 
 We also have a couple of skills that help our friends in the party out, and they're as follows:\
-Mantra, a 90 second cooldown that increases healing received by 10% on yourself and anyone nearby at the time you pressed it. Generally best to confer with your healers as to when they want it, but if for whatever reason there's no communication going on there just use it before big aoe damage comes out on the group.
 
-Feint, another 90 second cooldown that lowers the targets strength and dex by 10% for 10 seconds. Useful on enemies that deal physical damage, again its best to ask the tanks or healers when they want you to use this skill, but in general do it for big physical hits. Be careful not to overwrite a Feint another melee dps has already applied.
+![](https://xivapi.com/i/000000/000216.png) Mantra, a 90 second cooldown that increases healing received by 10% on yourself and anyone nearby at the time you pressed it. Generally best to confer with your healers as to when they want it, but if for whatever reason there's no communication going on there just use it before big aoe damage comes out on the group.
 
-Bloodbath, another 90 second cooldown. For 20 seconds you'll heal for a portion of your damage dealt, nice if your healer is struggling or if you took some single target damage.
+![](https://xivapi.com/i/000000/000828.png) Feint, another 90 second cooldown that lowers the targets strength and dex by 10% for 10 seconds. Useful on enemies that deal physical damage, again its best to ask the tanks or healers when they want you to use this skill, but in general do it for big physical hits. Be careful not to overwrite a Feint another melee dps has already applied.
 
-Second Wind, a 120 second cooldown that instantly heals you for 500 potency. See description of Bloodbath.
+![](https://xivapi.com/i/000000/000823.png) Bloodbath, another 90 second cooldown. For 20 seconds you'll heal for a portion of your damage dealt, nice if your healer is struggling or if you took some single target damage.
+
+![](https://xivapi.com/i/000000/000821.png) Second Wind, a 120 second cooldown that instantly heals you for 500 potency. See description of Bloodbath.
 
 ## How to Effect Areas
 
