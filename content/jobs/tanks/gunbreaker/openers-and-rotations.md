@@ -72,109 +72,105 @@ Or
 
 How you approach this will largely be personal preference as well as fight specific optimization. Do what gets the best results for you. You should also ask your co-tank if they can handle moving the boss if it makes it easier on you, and doesn’t make it harder on everyone else!
 
-## Rotations
+## Combos
 
-![No Mercy](https://xivapi.com/i/003000/003402.png)
+GNB has three combos. The **Solid Barrel** combo, **Demon Slaughter** combo, and **Gnashing Fang** combo. 
 
-### No Mercy (Buff)
+![SolidBarrelCombo](/img/jobs/tanks/gunbreaker/Solid_Barrel_Combo.png)
 
-No Mercy is your steroid. 
-<br> Damage is increased by 20% for 20 seconds.
-<br> 60 second recast.
-<br> Every No Mercy should contain 9 GCDs which will be shown later.
-<br> Try your best not to drift this or it will be misaligned with raidbuffs from the party.
+If you are unfamiliar with combo based classes in FFXIV, the game has a handy system to show you what combo skill to hit next. A dotted yellow outline will appear around the next skill in the combo. You have 15 seconds (or about 5 GCDs) to hit the next combo action before the combo deactivates (breaks). Using any other GCD ability will break combos as well, with some exceptions. 
 
-![Bloodfest](https://xivapi.com/i/003000/003428.png)
+![KeenEdge](/img/jobs/tanks/gunbreaker/Keen_Edge.png)![BrutalShell](/img/jobs/tanks/gunbreaker/Brutal_Shell.png)![SolidBarrel](/img/jobs/tanks/gunbreaker/Solid_Barrel.png)
 
-### Bloodfest (Free cartridges!)
+**Keen Edge -> Brutal Shell -> Solid Barrel**
 
-Bloodfest grants 2 cartridges for free!
-<br> 90 second recast.
-<br> Use Bloodfest on cooldown and you have 0 cartridges. If you do not have 0 cartridges when Bloodfest is available, please refer to the Gnashing Fang, Burst Strike, and Fated Circle sections to determine how to best spend your carts before popping Bloodfest.
-<br>Every other use of Bloodfest will be inside No Mercy. Do not hold a use of Bloodfest for 30 seconds for No Mercy unless heavily optimizing a fight and understanding when that is a gain. If you are learning, do not attempt to hold under any situation unless specifically instructed.
+Solid Barrel combo is our single target combo. Builds one Cartridge.
 
-![Tincture](https://xivapi.com/i/020000/020710.png)
+![DemonSlice](/img/jobs/tanks/gunbreaker/Demon_Slice.png)![DemonSlaughter](/img/jobs/tanks/gunbreaker/Demon_Slaughter.png)
 
-### Grade 4 Tincture of Strength (Strength Pot)
+**Demon Slice -> Demon Slaughter**
 
-The potion for tanks and other strength based jobs.
-<br> First use during the opener.
-<br> Fight duration between 9:10 and 11:00 - 2nd @ \~4:30, 3rd @ \~9m
-<br> Fight duration less than 9:10 OR more than 11:00 - 2nd @ ~6:00, 3rd on final burst
+Demon Slaughter combo is our 2+ target AoE combo. Builds one Cartridge.
+We will talk about when to use Solid Barrel combo vs Demon Slaughter combo in the next section. 
 
-![Keen Edge](https://xivapi.com/i/003000/003401.png)
-![Brutal Shell](https://xivapi.com/i/003000/003403.png)
-![Solid Barrel](https://xivapi.com/i/003000/003409.png)
+![GnashingFangCombo](/img/jobs/tanks/gunbreaker/Gnashing_Fang_Combo.png)
 
-### Solid Barrel Combo (Single Target)
+**Gnashing Fang -> Jugular Rip -> Savage Claw -> Abdomen Tear -> Wicked Talon -> Eye Gouge**
 
-This is your bread and butter filler GCDs. They generate Ammo Cartridges.
-<br> Keen Edge > Brutal Shell > Solid Barrel
-<br> Use Solid Barrel combo to **add 1 cartridge.** You may hold a maximum of 2 cartridges.
+Gnashing Fang combo is our Cartridge spender combo. It does high damage and is a very important part of our burst. Note: Jugular Rip, Abdomen Tear, and Eye Gouge must be used after Gnashing Fang, Savage Claw, and Wicked Talon respectively or the buff that lets them be used will be lost. 
 
-![Demon Slice](https://xivapi.com/i/003000/003405.png)
-![Demon Slaughter](https://xivapi.com/i/003000/003413.png)
+## What Does/Doesn’t Break Combos
 
-### Demon Slaughter Combo (AoE)
+Combos are broken when using non-combo GCDs before the combo is finished. However, there are several skills on GNB that do not interrupt combos. 
 
-This is your AoE bread and butter. Use this on 2 or more targets instead of the Solid Barrel combo.
-<br>Use Demon Slaughter combo to add 1 cartridge. You may hold a maximum of 2 cartridges.
+The **Gnashing Fang** combo does not interrupt any other combos. However, using any **Solid Barrel** or **Demon Slaughter** combo GCDs will interrupt the **Gnashing Fang** combo. 
 
-![Gnashing Fang](https://xivapi.com/i/003000/003410.png)
-![Savage Claw](https://xivapi.com/i/003000/003411.png)
-![Wicked Talon](https://xivapi.com/i/003000/003414.png)
+**Burst Strike**, **Fated Circle**, and **Sonic Break** do not interrupt any combos. **Lightning Shot** interrupts all three of our combos. 
 
-### Gnashing Fang Combo (Single Target)
+The following images are a visual representation of the previous paragraph, made by Rin Karigani. Please note **Keen Edge** combo and **Solid Barrel** combo are two names for the same thing. 
 
-Gnashing Fang takes priority over Burst Strike always.
-<br> Gnashing Fang takes priority over Fated Circle on 1-3 targets.
-<br> Use on Cooldown.
-<br> Delay Gnashing Fang 1 GCD per minute to align with No Mercy if your GCD is faster than 2.45(i.e. 2.41).
-<br> **Costs 1 cartridge.**
+![WillXBreak1](/img/jobs/tanks/gunbreaker/Will_X_Break_1.png)
+![WillXBreak2](/img/jobs/tanks/gunbreaker/Will_X_Break_2.png)
 
-![Burst Strike](https://xivapi.com/i/003000/003426.png)
+## AoE or Single Target
 
-### Burst Strike
+This section will only talk about AoE vs Single Target at level 80. If you are not yet level 80, use the faq command “!faq gnblvl” in #bot_spam for a breakdown of what you should do at each level bracket. 
 
-Burst Strike is your single target Cartridge gauge spender.
-<br> Gnashing Fang takes priority over Burst Strike always.
-<br> Fated Circle takes priority over Burst Strike on 2 or more targets.
-<br> **Costs 1 cartridge.**
+For one target present, we use **Solid Barrel** combo and **Burst Strike**.
+For 2+ targets: **Demon Slaughter** combo and **Fated Circle**.
 
-![Fated Circle](https://xivapi.com/i/003000/003427.png)
+Continue to use the **Gnashing Fang** combo on cooldown until there are 4+ targets. At 4+ you should ignore the **Gnashing Fang** combo and only use the **Demon Slaughter** combo and **Fated Circle**. 
 
-### Fated Circle
+Use **No Mercy** on cooldown regardless of how many targets you have. Whether or not **Sonic Break** is useful in multi-target fights will depend on how long it will be on the target as well as the number of targets. Whether or not to use it will be a case-by-case basis. At somewhere around 5+ targets, it likely will be a loss to use regardless.
 
-Fated Circle is your AoE spender.
-<br> Gnashing Fang takes priority over Fated Circle on 1-3 targets.
-<br> Fated Circle takes priority over Gnashing Fang on 4+ targets.
-<br> Fated Circle takes priority over Burst Strike on 2 or more targets.
-<br> **Costs 1 cartridge.**
+## No Mercy Windows
 
-![Sonic Break](https://xivapi.com/i/003000/003417.png)
+Always try to enter **No Mercy** with two Cartridges ready when possible. At any normal skill speed, there should always be nine GCDs within the **No Mercy** buff. These buff windows should look similar to the opener and should always contain the following skills:
 
-### Sonic Break (Single Target)
+GCDs:
 
-Sonic Break is your strongest GCD after 4 DoT ticks, and at full value has a potency of 1200 versus Wicked Talon at 650(950 with continuation). 
-<br> Always use this inside No Mercy .
+* **Sonic Break**
+* **Gnashing Fang, Savage Claw, Wicked Talon**
+* **2 Burst Strikes**
+* **Keen Edge, Brutal Shell, and Solid Barrel**
 
-![Blasting Zone](https://xivapi.com/i/003000/003429.png)
+oGCDs:
 
-### Blasting Zone (Single Target)
+* **Blasting Zone**
+* **Bow Shock**
+* **2 Rough Divides**
+* **Jugular Rip, Abdomen Tear, Eye Gouge**
 
-Use Blasting Zone on cooldown. Every other use will be in No Mercy.
+When **Bloodfest** is ready inside **No Mercy**, it creates an opportunity for a stronger burst window that will occur every three minutes, allowing for three or four **Burst Strikes** instead of only two. Since we get more **Burst Strikes**, but we can only fit nine GCDs under the buff still, we have one or two fewer **Solid Barrel** combo GCDs compared to a regular **No Mercy** window. This means the following skills are in No Mercy when **Bloodfest** is ready:
 
-![Bow Shock](https://xivapi.com/i/003000/003423.png)
+GCDs:
+Sonic Break
 
-### Bow Shock (AoE)
+* **Gnashing Fang, Savage Claw, Wicked Talon**
+* **Two** **Solid Barrel** combo GCDs and three **Burst Strikes** OR
+* One **Solid Barrel** combo GCDs and four **Burst Strikes**
 
-Use Bow Shock on cooldown. Every use will be in No Mercy.
+oGCDs:
 
-![Rough Divide](https://xivapi.com/i/003000/003418.png)
+* **Blasting Zone**
+* **Bow Shock**
+* **Two Rough Divides**
+* **Jugular Rip, Abdomen Tear, Eye Gouge**
+* **Bloodfest**
 
-### Rough Divide (Single target. 2 charges)
+Getting four **Burst Strikes** in **No Mercy** is only possible if **No Mercy** is ready after **Brutal Shell**, and you already have two Cartridges ready to go. Do not hold **No Mercy** until after **Brutal Shell** to force a four **Burst Strike** **No Mercy** window! Doing so will cause you to misalign from raid buffs, which over time will be a much bigger loss than the gain of getting four **Burst Strikes** instead of three. 
 
-Save Rough Divide charges for No Mercy unless needed for utility.
+If you are unable to fit nine GCDs in **No Mercy**, make sure that you are pressing **No Mercy** at approximately ⅔’s of the way into the GCD clock as shown here:
+
+![SolidBarrelCombo](/img/jobs/tanks/gunbreaker/Solid_Barrel_Combo.png)
+
+## Bloodfest
+
+**Bloodfest** should not be held for the next **No Mercy** window. Because it has a cooldown of 90s and **No Mercy** has a cooldown of 60s, **Bloodfest** will naturally be inside **No Mercy** every three minutes. As **Bloodfest**’s cooldown is getting close to finishing, spend Cartridges to avoid delaying **Bloodfest** or overcapping on Cartridges. 
+
+## Cartridge Usage
+
+Cartridges should generally not be used outside of **No Mercy** unless they are being used for **Gnashing Fang**, if you would otherwise overcap on Cartridges, or fight specific optimizations such as hitting multiple targets with **Fated Circle**. Doing this helps to ensure that **No Mercy** is entered with two Cartridges ready. 
 
 - - -
 
@@ -191,18 +187,6 @@ Generally speaking if you mess up, using them on cooldown is more damage. Howeve
 > *When do I AoE?*
 
 2+ targets for general AoE. At 3 targets and under you still want to use Gnashing Fang combo and Sonic Break on cooldown.
-
-> *Help! I'm clipping my GCDs!*
-
-If you're not losing a GCD in No Mercy, then it's acceptable to clip during that window. Outside of No Mercy, find ways to pre-emptively hit defensive cooldowns in order to not clip. Clipping Blasting Zone to prevent drift is acceptable.
-
-> *What GCD should I have?*
-
-The Gunbreaker Rotation works off a 2.4s GCD. This is the minimum that you need. Any more will not affect your dps output strongly. Any less and you lose a lot of dps due to abilities not lining up with No Mercy.
-
-> *My ping is x and my GCD is y!! Can I do etc.?! Should I go faster to compensate?!*
-
-Realistically you can succeed with any of the Skill speed tiers regardless of ping unless you're playing from a different continent. Skill speed is more related to fight design tbh. A 2.4s GCD will give you the best results if you're a perfect human being, while 2.38s will let you get away with being monkey every now then.
 
 > *About SSS or La-*
 
@@ -227,4 +211,3 @@ Weave it like so:
 
 > *What should my No Mercy window look like?*
 
-![No Mercy](https://media.discordapp.net/attachments/626602979595649033/671190364232876085/RinbreakerNoMercies2.png?)
