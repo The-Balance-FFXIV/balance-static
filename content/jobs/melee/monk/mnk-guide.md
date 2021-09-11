@@ -195,15 +195,17 @@ We have 3 buffs:
 
 We have 5 damaging oGCDs at our disposal.
 
-Elixir Field, a 30 second cooldown that deals 250 potency to all enemies in a 5 yalm radius around the user.
+| | |
+| --- | --- |
+| ![](https://xivapi.com/i/002000/002533.png) | Elixir Field, a 30 second cooldown that deals 250 potency to all enemies in a 5 yalm radius around the user. |
+| ![](https://xivapi.com/i/002000/002531.png) | Tornado Kick, a 45 second cooldown that deals 400 potency to a single target. |
+| ![](https://xivapi.com/i/002000/002526.png) | Shoulder Tackle, a 30 second cooldown with 2 charges that deals 100 potency to a single target. This is also our gapcloser, and so should be used to traverse long distances quickly as opposed to walking across a room and wasting time. |
+| ![](https://xivapi.com/i/002000/002535.png) | The Forbidden Chakra, a 1 second cooldown that deals 340 potency to a single target. As previously mentioned, The Forbidden Chakra costs 5 stacks of chakra to use. |
+| ![](https://xivapi.com/i/002000/002545.png) | Enlightenment, a 1 second cooldown that deals 200 potency to all enemies in a straight line in front of you. Enlightenment also has a cost of 5 chakra. |
 
-Tornado Kick, a 45 second cooldown that deals 400 potency to a single target.
 
-Shoulder Tackle, a 30 second cooldown with 2 charges that deals 100 potency to a single target. This is also our gapcloser, and so should be used to traverse long distances quickly as opposed to walking across a room and wasting time.
 
-The Forbidden Chakra, a 1 second cooldown that deals 340 potency to a single target. As previously mentioned, The Forbidden Chakra costs 5 stacks of chakra to use.
 
-Enlightenment, a 1 second cooldown that deals 200 potency to all enemies in a straight line in front of you. Enlightenment also has a cost of 5 chakra.
 
 We never hold any of our oGCDs. You'll notice that every skills cooldown is a multiple of 90; this means that if we press them all exactly when they come back up, they will realign perfectly every time.
 
