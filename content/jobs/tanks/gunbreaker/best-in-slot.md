@@ -42,7 +42,7 @@ title: Best in Slot (BiS)
 [UWU i515 Relic BiS](https://etro.gg/gearset/85d6d8db-dbe3-4024-a55d-4496d5303ade) <br>
 
 <br/>
-<br>\* \*Keep note that these stats are for specific tiering. Please adhere to them best you can!*
+<br>Keep note that these stats are for specific tiering. Please adhere to them best you can!
 
 - - -
 
