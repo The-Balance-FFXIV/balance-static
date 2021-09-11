@@ -10,7 +10,7 @@ title: Red Mage Guide
   * [Acceleration](#acceleration)
   * [Engagement](#engagement)
   * [Impact](#impact)
-  * [AOE rotation](#aoe-rotation)
+  * [AoE rotation](#aoe-rotation)
 * [Balancing your Mana](#balancing-your-mana)
 * [Red Mage Damage Types](#red-mage-damage-types)
 * [Red Mage Cheat Sheet (TL;DR)](#red-mage-cheat-sheet-tldr)
@@ -30,7 +30,7 @@ title: Red Mage Guide
     * [Acceleration Usage on Finishers](#acceleration-usage-on-finishers)
 * [Potion Usage and Double Melee Windows](#potion-usage-and-double-melee-windows)
 * [Embolden Usage](#embolden-usage)
-* [AOE Rotation](#aoe-rotation-1)
+* [AoE Rotation](#aoe-rotation-1)
 * [Openers](#openers)
 
   * [x-8 Openers](#x-8-openers)
@@ -77,11 +77,11 @@ Engagement is essentially a weaker alternative to Displacement that doesn’t mo
 
 ## Impact
 
-Impact is now a **5s cast AOE spell, upgraded from Scatter** and therefore no longer part of the single target rotation. As a result, casting Jolt II will no longer proc Impactful, and you may find yourself casting Jolt II a bit more often in Shadowbringers. However, Jolt II’s potency has been boosted to compensate for the loss of Impactful. 
+Impact is now a **5s cast AoE spell, upgraded from Scatter** and therefore no longer part of the single target rotation. As a result, casting Jolt II will no longer proc Impactful, and you may find yourself casting Jolt II a bit more often in Shadowbringers. However, Jolt II’s potency has been boosted to compensate for the loss of Impactful. 
 
-## AOE rotation
+## AoE rotation
 
-Our AOE rotation has changed significantly with the introduction of Veraero II and Verthunder II, as well as changes to Scatter and Impact’s cast time. Contrary to our single target rotation, Veraero II and Verthunder II are our short cast time spells meant to be hardcasted to proc Dualcast, while Scatter(later upgraded to Impact) have a base cast time of five seconds and should be Dualcasted/Swiftcasted. 
+Our AoE rotation has changed significantly with the introduction of Veraero II and Verthunder II, as well as changes to Scatter and Impact’s cast time. Contrary to our single target rotation, Veraero II and Verthunder II are our short cast time spells meant to be hardcasted to proc Dualcast, while Scatter(later upgraded to Impact) have a base cast time of five seconds and should be Dualcasted/Swiftcasted. 
 
 Enchanted Moulinet had its mana cost reduced to 20|20, allowing us to chain five of them with a full mana gauge (7x if using Manafication in between). 
 
@@ -249,7 +249,7 @@ Fleche has a 25s cooldown, meaning you can fit it twice inside a 30 second potio
 
 Your own melee combo will not align particularly well with Embolden unless you are intentionally delaying Manafication for a given cycle, but you will want to use Embolden on cooldown to line up with raid buffs such as Trick Attack, Technical Finish, Divination, etc. In order to ensure everything lines up well, coordinate with your raid members on what point of the fight you want to all simultaneously use your buffs. In the opener, certain jobs prefer 3rd GCD Embolden, while others might prefer 5th GCD. We offer both options in the opener section.
 
-# AOE Rotation
+# AoE Rotation
 
 4+ Targets: Use Veraero II/Vethunder II, followed by Impact, while weaving your direct damage oGCDs in as necessary (ideally target the highest health or most threatening mobs of the pack). If you have Manafication or Embolden ready or coming off cooldown soon, endeavor to maximize value for these abilities, if you think the pack will last long enough.
 
@@ -259,7 +259,7 @@ If you are going for maximum efficiency, do not sit on Embolden or Manafication 
 
 Three Targets: When facing three targets, Moulinet’s value consideration changes enough that rather than use it whenever it is ready, you should hold it until you are near to capping your gauge (above 90|90), and only use it to keep from overcapping, or if you have buffs such as Embolden or Manafication up.
 
-Two Targets: Against two targets, Jolt II is minorly more powerful than using your shortcast AOEs. Alternate between Jolt II and Impact (consuming any Verstone and Verfire procs you started with if available) and use melee combo when at sufficient mana levels. 
+Two Targets: Against two targets, Jolt II is minorly more powerful than using your shortcast AoEs. Alternate between Jolt II and Impact (consuming any Verstone and Verfire procs you started with if available) and use melee combo when at sufficient mana levels. 
 
 # Openers
 
