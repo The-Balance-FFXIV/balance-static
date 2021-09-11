@@ -37,29 +37,25 @@ title: Skill Overview
 
 ## Offensive Off Global Cooldown Abilities
 
-|                                                               |                   |                                                                                                                                                                                                   |
-| ------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Continuation](/img/jobs/tanks/gunbreaker/Continuation.png)  | **Continuation**  | Turns into Jugular Rip, Abdomen Tear, or Eye Gouge when under the effect of Ready To Rip, Ready To Tear, or Ready To Gouge respectively.                                                          |
-| ![JugularRip](/img/jobs/tanks/gunbreaker/Jugular_Rip.png)     | **Jugular Rip**   | 260 potency attack. Can only be used under Ready To Rip triggered by Gnashing Fang.                                                                                                               |
-| ![AbdomenTear](/img/jobs/tanks/gunbreaker/Abdomen_Tear.png)   | **Abdomen Tear**  | 280 potency attack. Can only be used under Ready To Tear triggered by Savage Claw.                                                                                                                |
-| ![EyeGouge](/img/jobs/tanks/gunbreaker/Eye_Gouge.png)         | **Eye Gouge**     | 300 potency attack. Can only be used under Ready To Gouge triggered by Wicked Talon.                                                                                                              |
-| ![DangerZone](/img/jobs/tanks/gunbreaker/Danger_Zone.png)     | **Danger Zone**   | 350 potency attack with a 30 second cooldown. Becomes Blasting Zone at level 80.                                                                                                                  |
-| ![BlastingZone](/img/jobs/tanks/gunbreaker/Blasting_Zone.png) | **Blasting Zone** | 800 potency attack with a 30 second cooldown.                                                                                                                                                     |
-| ![BowShock](/img/jobs/tanks/gunbreaker/Bow_Shock.png)         | **Bow Shock**     | 200 potency attack to all targets in a 5y circle around you. Also applies a 90 potency DoT for 15s to all targets hit by the initial attack (for a total of 450 potency per target from the DoT). |
-| ![RoughDivide](/img/jobs/tanks/gunbreaker/Rough_Divide.png)   | **Rough Divide**  | 200 potency attack that dashes you to the target. Has 2 charges that regenerate at a rate of 1 charge every 30 seconds. 15y range.                                                                |
-| ![NoMercy](/img/jobs/tanks/gunbreaker/No_Mercy.png)           | **No Mercy**      | 20% damage increase for 20 seconds. 60 second cooldown.                                                                                                                                           |
-| ![Bloodfest](/img/jobs/tanks/gunbreaker/Bloodfest.png)        | **Bloodfest**     | Immediately gives 2 Cartridges in the Powder Gauge. 90 second cooldown.                                                                                                                           |
+|                     |               |     |
+| ------------------- | ------------- | --- |
+| ![Fleche]() | Fleche        |     |
+| ![ContreSixte]()   | Contre Sixte  |     |
+| ![CorpsACorps]()  | Corps-A-Corps |     |
+| ![Displacement]()     | Displacement  |     |
+| ![Engagement]()   | Engagement    |     |
+| ![Embolden]() | Embolden      |     |
+| ![Manafication]()     | Manafication  |     |
+| ![Acceleration]()  | Acceleration  |     |
+| ![Swiftcast]()      | Swiftcast     |     |
 
 ## Utility Off Global Cool Down Abilities
 
 |                                                                |                    |                                                                                                                                          |
 | -------------------------------------------------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| ![HeartOfLight](/img/jobs/tanks/gunbreaker/Heart_of_Light.png) | **Heart of Light** | Reduces magic damage taken by 10% for self and party members in a 15y radius around you for 15 seconds. 90 second cooldown.              |
-| ![Reprisal](/img/jobs/tanks/gunbreaker/Reprisal.png)           | **Reprisal**       | Role action. Reduces damage dealt by all enemies in a 5y circle around you by 10% for 10 seconds. 60 second cooldown.                    |
-| ![LowBlow](/img/jobs/tanks/gunbreaker/Low_Blow.png)            | **Low Blow**       | Role action. Stuns a target for five seconds. Enemies that get stunned repeatedly will develop stun immunity. 25s cooldown.              |
-| ![Interject](/img/jobs/tanks/gunbreaker/Interject.png)         | **Interject**      | Role action. Cancels a target's cast (if it is an interruptible cast). 30 second cooldown.                                               |
-| ![RoyalGuard](/img/jobs/tanks/gunbreaker/Royal_Guard.png)      | **Royal Guard**    | Tank stance. While toggled on, applies a 10x enmity modifier to all abilities.                                                           |
-| ![Provoke](/img/jobs/tanks/gunbreaker/Provoke.png)             | **Provoke**        | Role action. Puts you at the top of the enmity list and gives 2000 potency worth of additional enmity (20,000 if Royal Guard is active). |
-| ![Shirk](/img/jobs/tanks/gunbreaker/Shirk.png)                 | **Shirk**          | Role action. Transfers 25% of your enmity to a target party member. This effect applies to all enemies on your aggro table.              |
+| ![Addle]() | **Addle** |               |
+| ![LucidDreaming]()           | **Lucid Dreaming**       |                     |
+| ![Surecast]()            | **Surecast**       |               |
+
 
 <!--EndFragment-->
