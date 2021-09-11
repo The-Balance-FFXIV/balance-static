@@ -288,7 +288,7 @@ We also have a couple of skills that help our friends in the party out, and they
 
 ## How to Effect Areas
 
-Now that we've covered how Monk works and its single target rotation, how to AoE will hopefully be much easier to understand.
+Now that we've  broadly covered how Monk works and looked at the single target rotation, how to AoE will hopefully be much easier to understand.
 
 Monk has a third GCD option on each of its forms, these are our AoE GCDs.
 
