@@ -1,8 +1,6 @@
 ---
-title: Eden's Promise
+title: "RDM Fight Tips: Eden's Promise"
 ---
-# RDM Fight Specific Advice
-
 - - -
 
 # Table of Contents
