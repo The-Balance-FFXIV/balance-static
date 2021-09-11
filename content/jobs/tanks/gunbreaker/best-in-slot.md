@@ -1,9 +1,9 @@
 ---
-title: Best in Slot
+title: Best in Slot (BiS)
 ---
 # Gunbreaker Best in Slot
 
-# 5.58 BiS Compendium:
+# 5.58 Best in Slot (BiS) Compendium:
 
 \**Damage is within negligible variance. Choose the set that best suits your comfort level. Fight specific recommendations to come at a later date.*
 
@@ -29,7 +29,6 @@ i530 2.41 - Food: Chicken Fettuccine
 
 UCoB i515 Relic Bis
 <br><https://etro.gg/gearset/20f5754b-faf7-48a5-9b75-99c98939ee27>
-
 
 ## The Weapon's Refrain (UWU) Best in Slot
 
