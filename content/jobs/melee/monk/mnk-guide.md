@@ -99,9 +99,6 @@ BiS - Best in Slot
 
 ## Complementary Materials
 
-\[Links to useful plugins]
-
-\
 For those of you who struggle to learn from simply reading a big wall of text, [here](https://youtu.be/sz8laGlhSTg) is a video guide I produced with Valith Steiner.
 
 {{< youtube sz8laGlhSTg >}}
