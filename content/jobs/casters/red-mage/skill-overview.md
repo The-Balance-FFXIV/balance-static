@@ -39,23 +39,23 @@ title: Skill Overview
 
 |                     |               |     |
 | ------------------- | ------------- | --- |
-| ![Fleche]() | Fleche        |     |
-| ![ContreSixte]()   | Contre Sixte  |     |
-| ![CorpsACorps]()  | Corps-A-Corps |     |
-| ![Displacement]()     | Displacement  |     |
-| ![Engagement]()   | Engagement    |     |
-| ![Embolden]() | Embolden      |     |
-| ![Manafication]()     | Manafication  |     |
-| ![Acceleration]()  | Acceleration  |     |
-| ![Swiftcast]()      | Swiftcast     |     |
+| ![Fleche](https://xivapi.com/i/003000/003212_hr1.png) | Fleche        |     |
+| ![ContreSixte](https://xivapi.com/i/003000/003217_hr1.png)   | Contre Sixte  |     |
+| ![CorpsACorps](https://xivapi.com/i/003000/003204_hr1.png)  | Corps-A-Corps |     |
+| ![Displacement](https://xivapi.com/i/003000/003211_hr1.png)     | Displacement  |     |
+| ![Engagement](https://xivapi.com/i/003000/003231_hr1.png)   | Engagement    |     |
+| ![Embolden](https://xivapi.com/i/003000/003218_hr1.png) | Embolden      |     |
+| ![Manafication](https://xivapi.com/i/003000/003219_hr1.png)     | Manafication  |     |
+| ![Acceleration](https://xivapi.com/i/003000/003214_hr1.png)  | Acceleration  |     |
+| ![Swiftcast](https://xivapi.com/i/000000/000866_hr1.png)      | Swiftcast     |     |
 
 ## Utility Off Global Cool Down Abilities
 
 |                                                                |                    |                                                                                                                                          |
 | -------------------------------------------------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Addle]() | **Addle** |               |
-| ![LucidDreaming]()           | **Lucid Dreaming**       |                     |
-| ![Surecast]()            | **Surecast**       |               |
+| ![Addle](https://xivapi.com/i/000000/000861_hr1.png) | **Addle** |               |
+| ![LucidDreaming](https://xivapi.com/i/000000/000865_hr1.png)           | **Lucid Dreaming**       |                     |
+| ![Surecast](https://xivapi.com/i/000000/000869_hr1.png)            | **Surecast**       |               |
 
 
 <!--EndFragment-->
