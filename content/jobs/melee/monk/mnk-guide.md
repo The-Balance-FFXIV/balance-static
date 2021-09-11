@@ -156,7 +156,7 @@ As previously mentioned, Monk has 6 core single target GCDs.
 
 |                         |                                                                                                                                                                                                            |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](/img/bootshine.png) | Bootshine has a potency of 200, or 370 when you have Leaden Fist. When in Opo-Opo form, Bootshine will always crit if executed from the rear of an enemy.                                                  |
+| ![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Bootshine") | Bootshine has a potency of 200, or 370 when you have Leaden Fist. When in Opo-Opo form, Bootshine will always crit if executed from the rear of an enemy.                                                  |
 | Image                   | Dragon Kick has a potency of 230, or 260 when executed from the flank. When in Opo-Opo form, it will grant the Leaden Fist buff.                                                                           |
 | Image                   | True Strike has a potency of 270, or 300 when executed from the rear. It can only be executed from Raptor form.                                                                                            |
 | Image                   | Twin Snakes has a potency of 230, or 260 when executed from the flank. It also grants a 10% damage increase buff that lasts for 15 seconds, and can only be executed from Raptor form.                     |
