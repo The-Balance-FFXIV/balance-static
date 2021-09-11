@@ -79,6 +79,10 @@ When your Manafication around the four minute mark comes off cooldown during the
 
 During the downtime of Shifting Sky, prepare a Dualcast using Vercure to use when the boss becomes targetable. After doing this, you should hold your Swiftcast until after the first Light Elemental Break, and use it before the first Light Burnt Strike. This allows your dualcast windows to line up with movement necessary for these mechanics, such as stacking with your group for the Light proteans. An example can be seen here. 
 
+
+{{< youtube QiL1B-9jkn4 >}}
+
+
 ## Second Potion Window
 
 When your second potion comes off cooldown around the 4:30 mark, you should use it immediately on cooldown to ensure it is up quickly after Prismatic Deception later in the fight. Because of downtime, your group can also consider delaying the four minute buff window to 4:30, as this will not cost a use or cause you to drift buff later into the fight. 
@@ -100,38 +104,42 @@ Your third potion will be used on cooldown after Prismatic Deception. Under this
 In order to keep full uptime during Diamond Dust, you should use your melee combo to your advantage. At 2.5 GCD, you should start your melee combo immediately after the Diamond Dust cast ends. Doing so will have your Scorch line up with the appearance of the ice floor, allowing you to use Scorch before sliding to keep your GCD rolling. You can then perform a Dualcast combo, sliding into place after your instant cast. If you need to slide a second time, a Swiftcast can be used here as well. Manafication can be used on cooldown here to keep uptime during icicles. An example can be seen below:
 
 {{< youtube A6T_e5oU84U >}}
- 
 
 ## Manafication Usage
+
 When your four minute Manafication comes up, you may already be very close to a regular combo. If you are above ~65|65 Black and White mana, you can consider holding this Manafication. This will affect your combo timings during Lions later in the fight, so it may be worthwhile to try both and see which lines up better with your group’s strategy. 
 
 ## Potion and Double Melee Timings
+
 Your second potion will be using either during or after the Lions mechanic. If you’re  not already pushing enrage, your group may want to hold buffs until after lions. Despite this, you may have to do your first melee combo if you do not want to overcap during the mechanic. In this scenario, you can use your potion and do your first melee combo during Lions, and use your Manafication combo along with Embolden after the mechanic ends. 
 
 - - -
 
-# E12S: Oracle of Darkness 
-
+# E12S: Oracle of Darkness
 
 ## First Swiftcast
+
 You may want to consider holding the first Swiftcast slightly to avoid a scenario where because of incorrect mana levels, you can not finish your melee combo before the first Darkest Dance knockback. You can still use this Swiftcast early, but keep a close eye on your mana levels as you do so. 
 
 ## Buffs After Relativities
+
 Both your Manafication and Embolden should be held until after every relativity mechanic resolves, to align each with party buffs consistently. 
-## Single Apocalypse 
+
+## Single Apocalypse
+
 During Single Apocalypse, you will likely have enough mana for a melee combo after the large jump AOE. You can safely dualcast your way through the center here and perform a melee combo on the boss before the rotating AOEs begin, as seen in this clip. 
 
 {{< youtube h1XNY9VYqQw >}}
 
 ## Potion and Double Melee Timings
+
 Aim to cap both of your gauges at 100|100 Black and White mana heading into Advanced Relativity to perform a double combo afterwards. After the mechanic resolves, there will be a moment where the boss is still untargetable. Use this chance to prepare a Dualcast using Vercure, allowing you to instantly cast a Verthunder or Veraero and weave your pot before starting your two melee combos. 
 
 ## Triple Apocalypse Uptime
+
 Full uptime can be kept during Triple Apocalypse with proper Swiftcast Usage:
 
 {{< youtube C7nv425-rk4 >}}
-
-
 
 Additionally, depending on where your tank baits the initial jump, a safe spot may exist that does not require you to move back center:
 
