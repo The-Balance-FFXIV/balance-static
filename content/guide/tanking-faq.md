@@ -84,8 +84,8 @@ Has pretty strong mitigation and self-healing tools and is known as the third he
 
 - Paladin: Very comfy and static. Two combos, two bigger damage buffs, a couple of bigger damage buttons. The only (damage) resource is mana, which hits the 10000 cap if you do your rotation right. The actual Gauge is used for party mitigation. Lacks a self-cooldown compared to the other tanks but makes up for it by having an extra party mitigation tool.
 
-> If I had to order the tanks in terms of "Easy to pick up", I'd list them WAR > PLD > DRK > GNB
+If I had to order the tanks in terms of "Easy to pick up", I'd list them WAR > PLD > DRK > GNB
 
-> And to order them in terms of "Hardest to optimize", I'd go for PLD > GNB > DRK > WAR
+And to order them in terms of "Hardest to optimize", I'd go for PLD > GNB > DRK > WAR
 
 (Unless you do speedruns. In which case you did not need to read this.)
