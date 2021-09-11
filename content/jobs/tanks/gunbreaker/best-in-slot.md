@@ -25,13 +25,13 @@ i530 2.41 - Food: Chicken Fettuccine
 
 # Level 70 Ultimates
 
-## UCoB Best in Slot
+## Unending Coil of Bahamut (UCoB) Best in Slot
 
 UCoB i515 Relic Bis
 <br><https://etro.gg/gearset/20f5754b-faf7-48a5-9b75-99c98939ee27>
-![image](https://i.imgur.com/opcbpMJ.png)
 
-## UWU Best in Slot
+
+## The Weapon's Refrain (UWU) Best in Slot
 
 UWU i515 Relic Bis
 <br>* *Keep note that these stats are for specific tiering. Please adhere to them best you can!*
@@ -41,12 +41,12 @@ UWU i515 Relic Bis
 
 # Level 80 Ultimates
 
-## 5.55 TEA BiS
+## 5.55 The Epic of Alexander (TEA) BiS
 
 *(this can be done with EITHER the 535 or the 515 relic. if using the 515 relic, put 15 less sks in than shown)*
 <br><https://etro.gg/gearset/75cb96cc-9e8e-4228-93f8-53152b288ceb>
 
-## 5.58 Tea Alternative
+## 5.58 TEA Alternative
 
 *Unlucky dungeon drops? No headpiece? Try this!*
 <BR><https://etro.gg/gearset/38c0c312-fb2d-47e2-af58-33b9acfab97e>
