@@ -1,5 +1,5 @@
 ---
-title: Levelling Guide
+title: Leveling Guide
 ---
 # Gunbreaker Levelling Rotations
 
