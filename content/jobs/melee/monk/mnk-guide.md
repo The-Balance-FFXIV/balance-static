@@ -175,7 +175,7 @@ There are multiple ways that we generate chakra.
 | | |
 | --- | --- |
 | ![](https://xivapi.com/i/002000/002534.png) |First is Meditation, a GCD with a 1 second cooldown that opens a single chakra upon being pressed. When outside of combat it generates 5 stacks of chakra instantly.|
-| ![](https://ffxiv.gamerescape.com/w/images/thumb/5/5d/Deep_Meditation_Icon.png/48px-Deep_Meditation_Icon.png) | We then have 2 traits; Deep Meditation I & II. Deep Meditation I grants an 80% chance of generating a chakra upon landing a critical weaponskill. Deep Meditation II turns that 80% chance into a 100% chance.|
+| ![](https://ffxiv.gamerescape.com/w/images/thumb/7/73/Deep_Meditation_II_Icon.png/48px-Deep_Meditation_II_Icon.png) | We then have 2 traits; Deep Meditation I & II. Deep Meditation I grants an 80% chance of generating a chakra upon landing a critical weaponskill. Deep Meditation II turns that 80% chance into a 100% chance.|
 |![](https://xivapi.com/i/002000/002542.png) |Finally we have Brotherhood. Brotherhood has multiple effects, but in this section we'll just talk about the effect pertaining to Chakra generation. Upon execution, party members within 15 yalms will gain the effect of Meditative Brotherhood for 15 seconds. While this buff is active on an ally, every time they execute a weaponskill or a spell there is a 20% chance that you will gain a stack of chakra.|
 
 ## oGCDs
