@@ -279,13 +279,12 @@ Monk has a number of utility skills that range from very useful to almost entire
 
 We also have a couple of skills that help our friends in the party out, and they're as follows:\
 
-![](https://xivapi.com/i/000000/000216.png) Mantra, a 90 second cooldown that increases healing received by 10% on yourself and anyone nearby at the time you pressed it. Generally best to confer with your healers as to when they want it, but if for whatever reason there's no communication going on there just use it before big aoe damage comes out on the group.
-
-![](https://xivapi.com/i/000000/000828.png) Feint, another 90 second cooldown that lowers the targets strength and dex by 10% for 10 seconds. Useful on enemies that deal physical damage, again its best to ask the tanks or healers when they want you to use this skill, but in general do it for big physical hits. Be careful not to overwrite a Feint another melee dps has already applied.
-
-![](https://xivapi.com/i/000000/000823.png) Bloodbath, another 90 second cooldown. For 20 seconds you'll heal for a portion of your damage dealt, nice if your healer is struggling or if you took some single target damage.
-
-![](https://xivapi.com/i/000000/000821.png) Second Wind, a 120 second cooldown that instantly heals you for 500 potency. See description of Bloodbath.
+| | |
+| --- | --- |
+| ![](https://xivapi.com/i/000000/000216.png) | Mantra, a 90 second cooldown that increases healing received by 10% on yourself and anyone nearby at the time you pressed it. Generally best to confer with your healers as to when they want it, but if for whatever reason there's no communication going on there just use it before big aoe damage comes out on the group. |
+| ![](https://xivapi.com/i/000000/000828.png) | Feint, another 90 second cooldown that lowers the targets strength and dex by 10% for 10 seconds. Useful on enemies that deal physical damage, again its best to ask the tanks or healers when they want you to use this skill, but in general do it for big physical hits. Be careful not to overwrite a Feint another melee dps has already applied. |
+|![](https://xivapi.com/i/000000/000823.png) | Bloodbath, another 90 second cooldown. For 20 seconds you'll heal for a portion of your damage dealt, nice if your healer is struggling or if you took some single target damage.|
+|![](https://xivapi.com/i/000000/000821.png) | Second Wind, a 120 second cooldown that instantly heals you for 500 potency. See description of Bloodbath.|
 
 ## How to Effect Areas
 
