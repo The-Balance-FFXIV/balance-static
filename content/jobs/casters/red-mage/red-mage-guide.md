@@ -91,12 +91,12 @@ Taken from https://na.finalfantasyxiv.com/jobguide/redmage/
 
 The Balance Gauge displays the current amount of Black Mana and White Mana a Red Mage has accumulated. Black Mana is accumulated by casting Verfire, Verthunder, Verthunder II and Verflare, while White Mana is accumulated by casting Verstone, Veraero, Veraero II and Verholy. Jolt (II), Scatter, Impact and Scorch will generate both Black and White Mana.
 
-![ManaBalanced](/img/jobs/caster/redmage/Mana_Balanced.png)
+![ManaBalanced](/img/jobs/casters/redmage/Mana_Balanced.png)
 
 If the gap between Black and White Mana accumulation grows too large, the crystal at the top of the gauge will change color, and it will become more difficult to accumulate the lesser of the two.  This happens when the gap is at 31 Mana and more.  With that in mind, you’re going to want to try and keep your Mana as close to each other as possible.
 
-![ManaBlack](/img/jobs/caster/redmage/Mana_Black.png)
-![ManaWhite](/img/jobs/caster/redmage/Mana_White.png)
+![ManaBlack](/img/jobs/casters/redmage/Mana_Black.png)
+![ManaWhite](/img/jobs/casters/redmage/Mana_White.png)
 
 Your general rotation is very simple.  If you have any procs (Verstone, or Verfire), hardcast them and then Dualcast the Mana you have lower of (Veraero for White Mana and Verthunder for Black Mana).  Do NOT Dualcast a Mana if you already have a proc for that Mana (don’t use Verstone->Verthunder if you already have Verfire, don’t use Verfire->Veraero if you already have Verstone).  It is okay to Dualcast a higher Mana in this way so long as the distance between the two Manas does not exceed 30 and cause you go to unbalanced.  When you run out of procs, use Jolt II.  Once you have 80|80 Mana (80 White Mana and 80 Black Mana) you can then perform your melee combo.  Finish your melee combo with a finisher that correlates with the Mana you have lower of (Verholy when White Mana is lower and Verflare when Black Mana is lower), then use Scorch right after.
 
@@ -294,20 +294,20 @@ The openers are designed to set up for a 4x Engagement cycle, which allows 1-2 o
 * Gets more of the opener melee combo under buffs.
 * Due to the lack of weaving windows for this opener, it requires using Engagement over Displacement, accepting the potency loss in order to gain potency from other places.
 
-![Opener5-8](/img/jobs/caster/redmage/Opener_5-8.png)
-![Opener5-10](/img/jobs/caster/redmage/Opener_5-10.png)
+![Opener5-8](/img/jobs/casters/redmage/Opener_5-8.png)
+![Opener5-10](/img/jobs/casters/redmage/Opener_5-10.png)
 
 ## x-10 Openers
 
 * These openers are modified versions of the 5.x standard opener, maximizing mana generation and cooldown usage. 
 * The extra mana generated due to an extra Dualcast pair being doubled by Manafication allows for more uses of Reprise per cycle, as well as accelerating your mana generation towards the second combo.
 
-![Opener3-8](/img/jobs/caster/redmage/Opener_3-8.png)
-![Opener3-10](/img/jobs/caster/redmage/Opener_3-10.png)
+![Opener3-8](/img/jobs/casters/redmage/Opener_3-8.png)
+![Opener3-10](/img/jobs/casters/redmage/Opener_3-10.png)
 
 ## Addle Openers
 
 All Eden’s Verse savage fights start with a heavy magical raidwide during our opener, and you may be asked by your healers to Addle it. In which case, use one of the modified 3-10 or 5-10 openers below that delays your initial Corps-a-Corps usage in favor of fitting Addle. This is especially crucial when progging E8S at low ilvls, as the opening Absolute Zero hits for around 140k unmitigated on physical DPS. 
 
-![Opener3-10Addle](/img/jobs/caster/redmage/Opener_3-10_Addle.png)
-![Opener5-10Addle](/img/jobs/caster/redmage/Opener_5-10_Addle.png)
+![Opener3-10Addle](/img/jobs/casters/redmage/Opener_3-10_Addle.png)
+![Opener5-10Addle](/img/jobs/casters/redmage/Opener_5-10_Addle.png)
