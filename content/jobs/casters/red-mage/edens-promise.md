@@ -7,11 +7,11 @@ title: Eden's Promise
 
 # Table of Contents
 
-* [E9S](#E9S)
-* [E10S](#E10S)
-* [E11S](#E11S)
-* [E12S: Door Boss](#E12S:-Door-Boss)
-* [E12S: Oracle of Darkness](#E12S:-Oracle-Of-Darkness)
+* [E9S](#e9s)
+* [E10S](#e10s)
+* [E11S](#e11s)
+* [E12S: Door Boss](#e12s-door-boss)
+* [E12S: Oracle of Darkness](#e12s-oracle-of-darkness)
 
 - - -
 
