@@ -9,21 +9,21 @@ Hello and welcome to Monkey, I am Perfect Balance and I am going to feed you the
 
 # Contents
 
-* Section 1 - Introduction
+* [Section 1 - Introduction](#Section-1---Introduction)
 
-  * Acronyms and abbreviations
-  * Complementary Materials
-* Section 2 - Basics
+  * [Acronyms and abbreviations](#Acronyms-and-abbreviations)
+  * [Complementary Materials](#Complementary-Materials)
+* [Section 2 - Basics](#Section-2---Basics)
 
-  * Positionals
-  * Forms
-  * Uptime
-* Section 3 - Building the Rotation
+  * [Positionals](#Positionals)
+  * [Forms](#Forms)
+  * [Uptime](#Uptime)
+* [Section 3 - Building the Rotation](#Section-3---Building-the-Rotation)
 
-  * Single target GCDs
-  * Opening your inner Chakra
-  * oGCDs
-  * Openers
+  * [Single target GCDs](#Single-target-GCDs)
+  * [Opening your inner Chakra](#Opening-your-inner-Chakra)
+  * [oGCDs](#oGCDs)
+  * [Openers](#Openers)
 
     * Weaving
     * Double Dragon
