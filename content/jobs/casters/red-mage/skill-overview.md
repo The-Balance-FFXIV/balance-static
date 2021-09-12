@@ -1,9 +1,9 @@
 ---
-title: Skill Overview
+title: RDM Skill Overview
 ---
 <!--StartFragment-->
 
-# Red Mage Skills Overview
+# Red Mage Skill Overview
 
 ### All skills are listed with their level 80 effects and potencies.
 
