@@ -16,12 +16,6 @@ title: "RDM Fight Tips: The Weapon's Refrain (UWU)"
 
 - - -
 
-# Credits
-
-Written in bulk by Laille Ormesaing, with thanks to Lana White and Verdandi Schwartz for co-writing and editing, as well as Meru Lucis for graphical contributions and editing. With additional information, checking and theorycrafting from Argen Yin, Hinoka Shirasagi and Mazz Maryoku.
-
-- - -
-
 # General Fight Tips
 
 ## Managing Resources
@@ -191,3 +185,8 @@ Lana White - [Log 1](https://www.fflogs.com/reports/4gQHycfnLvwGMZmr#fight=23&ty
 Mazz Maryoku - [Log 1](https://www.fflogs.com/reports/3TPvLbNyMZ26CnFc#fight=6&type=damage-done) - [Log 2](https://www.fflogs.com/reports/jkg4tRybcmZBLv16#fight=7&type=damage-done) - [Log 3](https://www.fflogs.com/reports/KdMNxkzrLtV9aGWq#fight=10&type=damage-done)  
 Verdandi Schwartz - [Log 1](https://www.fflogs.com/reports/mp6bVxFMLYAGdNv1#fight=10&type=damage-done) - [Log 2](https://www.fflogs.com/reports/mp6bVxFMLYAGdNv1#fight=17&type=damage-done) - [Log 3](https://www.fflogs.com/reports/mp6bVxFMLYAGdNv1#fight=14&type=damage-done)  
 A'pileof Cats - [Log with six clears](https://www.fflogs.com/reports/PdaHJthXGM9c4xYK)
+
+- - - 
+# Credits
+
+Written in bulk by Laille Ormesaing, with thanks to Lana White and Verdandi Schwartz for co-writing and editing, as well as Meru Lucis for graphical contributions and editing. With additional information, checking and theorycrafting from Argen Yin, Hinoka Shirasagi and Mazz Maryoku.
