@@ -273,7 +273,7 @@ The following images are a visual representation of the previous paragraph, made
 
 ## AoE or Single Target
 
-This section will only talk about AoE vs Single Target at level 80. If you are not yet level 80, use the faq command “!faq gnblvl” in #bot_spam for a breakdown of what you should do at each level bracket. 
+This section will only talk about AoE vs Single Target at level 80. If you are not yet level 80, please refer to the Leveling Guide for a breakdown of what you should be doing at each level bracket. 
 
 For one target present, we use **Solid Barrel** combo and **Burst Strike**.
 For 2+ targets: **Demon Slaughter** combo and **Fated Circle**.
