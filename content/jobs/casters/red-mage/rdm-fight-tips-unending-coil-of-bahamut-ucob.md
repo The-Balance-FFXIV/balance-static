@@ -198,6 +198,6 @@ If you have 2 casters and it is your job to mitigate the 2nd and the 4th Morn Af
 
 # Clear Logs
 
-Lana White's Clear - [Log](https://www.fflogs.com/reports/qy1PzBR3mWKrx2XL#fight=7&type=damage-done)  
-Hinoka Shirasagi's Clear - [Log](https://www.fflogs.com/reports/JYxC7WtvF6qkVzGg#fight=2&type=damage-done)  
-Laille Ormesaing's Clear - [Log 1](https://www.fflogs.com/reports/wRcA73HVvtXy42Yb#fight=12&type=damage-done) - [Log 2](https://www.fflogs.com/reports/AhZjndDy86Kwrxc4#fight=14&type=damage-done)
+Lana White - [Log](https://www.fflogs.com/reports/qy1PzBR3mWKrx2XL#fight=7&type=damage-done)  
+Hinoka Shirasagi - [Log](https://www.fflogs.com/reports/JYxC7WtvF6qkVzGg#fight=2&type=damage-done)  
+Laille Ormesaing - [Log 1](https://www.fflogs.com/reports/wRcA73HVvtXy42Yb#fight=12&type=damage-done) - [Log 2](https://www.fflogs.com/reports/AhZjndDy86Kwrxc4#fight=14&type=damage-done)
