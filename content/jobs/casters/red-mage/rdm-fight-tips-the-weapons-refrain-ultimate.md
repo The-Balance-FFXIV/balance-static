@@ -1,5 +1,5 @@
 ---
-title: "RDM Fight Tips: The Weapon's Refrain (UwU)"
+title: "RDM Fight Tips: The Weapon's Refrain (UWU)"
 ---
 - - -
 
