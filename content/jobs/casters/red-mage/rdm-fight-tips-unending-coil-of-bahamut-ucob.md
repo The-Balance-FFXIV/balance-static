@@ -15,11 +15,6 @@ title: "RDM Fight Tips: Unending Coil of Bahamut (UCoB)"
 * [Clear PoVs](#clear-povs)
 * [Clear Logs](#clear-logs)
 
-- - -
-
-# Credits
-
-Written in bulk by Lana White with additional information, checking & theorycrafting from Phoebe No’Saa, Hinoka Shirasagi and Laille Ormesaing.
 
 ---
 # General Fight Tips
@@ -211,3 +206,9 @@ If you have 2 casters and it is your job to mitigate the 2nd and the 4th Morn Af
 Lana White - [Log](https://www.fflogs.com/reports/qy1PzBR3mWKrx2XL#fight=7&type=damage-done)  
 Hinoka Shirasagi - [Log](https://www.fflogs.com/reports/JYxC7WtvF6qkVzGg#fight=2&type=damage-done)  
 Laille Ormesaing - [Log 1](https://www.fflogs.com/reports/wRcA73HVvtXy42Yb#fight=12&type=damage-done) - [Log 2](https://www.fflogs.com/reports/AhZjndDy86Kwrxc4#fight=14&type=damage-done)
+
+- - -
+
+# Credits
+
+Written in bulk by Lana White with additional information, checking & theorycrafting from Phoebe No’Saa, Hinoka Shirasagi and Laille Ormesaing.
