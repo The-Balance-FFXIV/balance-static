@@ -5,14 +5,15 @@ title: "RDM Fight Tips: Unending Coil of Bahamut (UCoB)"
 
 # Table of Contents
 
-* Credits
-* General Fight Tips
-* Phase 1: Twintania
-* Phase 2: Nael Van Darnus
-* Phase 3: Bahamut Prime
-* Phase 4: Adds Phase
-* Phase 5: Golden Bahamut
-* Clear PoVs
+* [Credits](#credits)
+* [General Fight Tips](#general-fight-tips)
+* [Phase 1: Twintania](#phase-1-twintania)
+* [Phase 2: Nael Van Darnus](#phase-2-nael-van-darnus)
+* [Phase 3: Bahamut Prime](#phase-3-bahamut-prime)
+* [Phase 4: Adds Phase](#phase-4-adds-phase)
+* [Phase 5: Golden Bahamut](#phase-5-golden-bahamut)
+* [Clear PoVs](#clear-povs)
+* [Clear Logs](#clear-logs)
 
 - - -
 
@@ -182,17 +183,21 @@ If you have 2 casters and it is your job to mitigate the 2nd and the 4th Morn Af
 
 {{< youtube 1y-6wvw1oJU >}}
 
-Lana White's Clear - [Log](https://www.fflogs.com/reports/qy1PzBR3mWKrx2XL#fight=7&type=damage-done)
+
 
 ### Hinoka Shirasagi
 
 {{< youtube hp6Oz67IwWI >}}
 
-Hinoka Shirasagi's Clear - [Log](https://www.fflogs.com/reports/JYxC7WtvF6qkVzGg#fight=2&type=damage-done)
+
 
 ### Laille Ormesaing
 
 {{< youtube PZQ5AQnM2h4 >}}
 
-Laille Ormesaing's Clear - [Log 1](https://www.fflogs.com/reports/wRcA73HVvtXy42Yb#fight=12&type=damage-done) - [Log 2](https://www.fflogs.com/reports/AhZjndDy86Kwrxc4#fight=14&type=damage-done)
 
+# Clear Logs
+
+Lana White's Clear - [Log](https://www.fflogs.com/reports/qy1PzBR3mWKrx2XL#fight=7&type=damage-done)  
+Hinoka Shirasagi's Clear - [Log](https://www.fflogs.com/reports/JYxC7WtvF6qkVzGg#fight=2&type=damage-done)  
+Laille Ormesaing's Clear - [Log 1](https://www.fflogs.com/reports/wRcA73HVvtXy42Yb#fight=12&type=damage-done) - [Log 2](https://www.fflogs.com/reports/AhZjndDy86Kwrxc4#fight=14&type=damage-done)
