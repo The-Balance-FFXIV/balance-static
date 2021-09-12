@@ -3,7 +3,7 @@ title: Best in Slot
 ---
 # Dark Knight Best In Slot
 
-Day 1 prog set(s) will be listed immediately when a new tier is released, but pre-BiS sets will otherwise not be maintained on this page. Use the Tank Gear Manager (<https://bit.ly/TankDPSCalc520>) to make your own gearing decisions based on what gear is available to you. Prioritizing item level over substats is generally recommended while learning new encounters.
+Day one prog set(s) will be listed immediately when a new tier is released, but pre-BiS sets will otherwise not be maintained on this page. Use the Tank Gear Manager (<https://bit.ly/TankDPSCalc520>) to make your own gearing decisions based on what gear is available to you. Prioritizing item level over substats is generally recommended while learning new encounters.
 
 > Note: Early progression gear will often provide very different skill speed values from BiS. If your (not-yet BiS) set is too fast for personal preference, it is usually best to simply play around it until better gear is available, instead of using lower item level gear to reach a preferred speed. If a set is too slow, however, it may be useful to meld skill speed to reach a preferred speed, as this allows for more consistent play without sacrificing primary stats.
  
@@ -50,7 +50,7 @@ These are examples of sets that were suggested in 5.4 for early progression on t
 
 When gear is item level synced, stats get capped at the stat cap for the synced item level (for substats, this is the higher substat on any HQ, dungeon, or blue gear at that item level). For example, the Bonewicca Ring of Fending has 84 crit (the low stat) and 120 det (the high stat). This means that any ring being synced down to i345 will have 120 of its high stat and the minimum of its low stat amount and 120 of the low stat.
 
-Many pieces of gear are BiS when synced down. The 'low' stat on the higher ilvl gear will reach the stat cap on the lower ilvl gear, which outweighs the melds that you lose in some cases, and in others is only a few points of stats behind. The 515 (Augmented Law's Order) and 535 (Blade's) Relics offer customizable substats, which makes them BiS for all SB and ShB ultimates. 535 Relics will provide 15 more substats in UWU and TEA vs 515 Relics, but no extra benefit in UCoB (as the 515 already caps all 4 stats).
+Many pieces of gear are BiS when synced down. The 'low' stat on the higher ilvl gear will reach the stat cap on the lower ilvl gear, which outweighs the melds that you lose in some cases, and in others is only a few points of stats behind. The 515 (Augmented Law's Order) and 535 (Blade's) Relics offer customizable substats, which makes them BiS for all SB and ShB ultimates. 535 Relics will provide 15 more substats in UWU and TEA vs 515 Relics, but no extra benefit in UCoB (as the 515 already caps all four stats).
  
 Ultimate BiS sets can be found below.
 
