@@ -7,7 +7,8 @@ title: Introduction to Paladin Shadowbringers Edition
 
 ### Buffs
 
-**Iron Will**![](https://xiv.sleepyshiba.com/pld/assets/skill-ironwill.png)
+**Iron Will**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-ironwill.png)
 
 Toggle • 10s cooldown after toggling on • no cooldown for toggling off
 
@@ -15,7 +16,8 @@ Increases enmity generation by 10x (Enmity is also known as aggro, hate, etc.)
 
 Keep this on in dungeons or as the main tank (in content with more than one tank)
 
-**Fight or Flight**![](https://xiv.sleepyshiba.com/pld/assets/skill-fightorflight.png)
+**Fight or Flight**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-fightorflight.png)
 
 60s cooldown
 
@@ -23,7 +25,8 @@ Keep this on in dungeons or as the main tank (in content with more than one tank
 
 By using Fight or Flight late into the GCD (just before the next GCD), it is possible to fit 11 physical GCDs into the buff window.
 
-**Requiescat**![](https://xiv.sleepyshiba.com/pld/assets/skill-requiescat.png)
+**Requiescat**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-requiescat.png)
 
 60s cooldown
 
