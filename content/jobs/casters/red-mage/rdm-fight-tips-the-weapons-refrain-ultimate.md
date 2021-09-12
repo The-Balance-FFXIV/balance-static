@@ -130,16 +130,6 @@ You should take advantage of the intermission to build as much guage as you can.
 
 For consistency's sake, a macro can be used to LB the Magitek Bits more easily while standing in the center of the arena:
 
-> <!--StartFragment-->
->
-> /ac "Limit Break" \<me>
->
-> /micon "Limit Break"
->
->
->
-> <!--EndFragment-->
-
 ## Reopener
 
 You should use your potion before Ultima becomes targetable. You only have a few seconds of a window in order to potion and not lose the buff on the final Fleche. You can use your potion about a second after the white light disappears. Additionally, using Swiftcast early in your opener ensures it is available when it is needed later in the fight. 
@@ -164,4 +154,27 @@ Addles in this phase will be used for Homing Lasers, Tank Purge, or Ultima’s m
 
 As a disclaimer, it is possible for your group to use too much mitigation during this phase, causing them to not have LB for the Ultima cast. Many groups will choose to use strategies that avoid this, but keep in mind you may need to discuss dropping Addle with your healers if this becomes an issue. 
 
-\# Clear PoVs
+# Clear PoVs
+
+### Laille Ormesaing
+
+{{< youtube _8FLwMABYyY >}}
+
+
+### Lana White
+
+{{< youtube svGXw5ZJ6zs >}}
+
+
+### A'pileof Cats
+
+
+{{< youtube I15IS_QUJ2Q >}}
+
+# Fight Logs
+
+Laille Ormesaing - [Log 1](https://www.fflogs.com/reports/2JxqrQDYm6c8kwaT#fight=12&type=damage-done) - [Log 2](https://www.fflogs.com/reports/pxcGyTd3JLtZkDM6#fight=12&type=damage-done) - [Log 3](https://www.fflogs.com/reports/k1mNzRj2dP7fVDXc#fight=12&type=damage-done)  
+Lana White - [Log 1](https://www.fflogs.com/reports/4gQHycfnLvwGMZmr#fight=23&type=damage-done) - [Log 2](https://www.fflogs.com/reports/cL1GTBVDyMpWrNba#fight=8&type=damage-done)  
+Mazz Maryoku - [Log 1](https://www.fflogs.com/reports/3TPvLbNyMZ26CnFc#fight=6&type=damage-done) - [Log 2](https://www.fflogs.com/reports/jkg4tRybcmZBLv16#fight=7&type=damage-done) - [Log 3](https://www.fflogs.com/reports/KdMNxkzrLtV9aGWq#fight=10&type=damage-done)  
+Verdandi Schwartz - [Log 1](https://www.fflogs.com/reports/mp6bVxFMLYAGdNv1#fight=10&type=damage-done) - [Log 2](https://www.fflogs.com/reports/mp6bVxFMLYAGdNv1#fight=17&type=damage-done) - [Log 3](https://www.fflogs.com/reports/mp6bVxFMLYAGdNv1#fight=14&type=damage-done)  
+A'pileof Cats - [Log with six clears](https://www.fflogs.com/reports/PdaHJthXGM9c4xYK)
