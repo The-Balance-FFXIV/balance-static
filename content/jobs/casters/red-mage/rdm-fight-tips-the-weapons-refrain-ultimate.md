@@ -18,7 +18,7 @@ title: "RDM Fight Tips: The Weapon's Refrain (UwU)"
 
 # Credits
 
-Written in bulk by Laille Ormesaing, with thanks to Lana White and Verdandi Schwartz for co-writing and editing, as well as Meru Lucis for graphical contributions and editing. With additional information, checking and theorycrafting from Argen Yin, Hinoka Shirasagi and Mazz Maryoku."
+Written in bulk by Laille Ormesaing, with thanks to Lana White and Verdandi Schwartz for co-writing and editing, as well as Meru Lucis for graphical contributions and editing. With additional information, checking and theorycrafting from Argen Yin, Hinoka Shirasagi and Mazz Maryoku.
 
 - - -
 
