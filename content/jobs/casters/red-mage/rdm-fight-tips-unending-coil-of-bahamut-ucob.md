@@ -83,6 +83,8 @@ Most push timings will generally want to use 2nd set of 120s raid buff cooldowns
 
 Addle in this phase will be used to mitigate the Fireball stacks from Twintania. While you should discuss with your healers which should be addled, common ones to addle are the second Fireball before the first Neurolink drop if it is not skipped, and the Fireball during random Liquid Hell baits after the second Neurolink drop. You should avoid Addling the first Fireball to generate extra Limit Break Gauge. 
 
+---
+
 # Phase 2: Nael Van Darnus
 
 ## Reopener
@@ -106,6 +108,8 @@ Something you can also consider doing is holding Displacement towards the middle
 
 Addle in this phase will be used to mitigate Thermionic Beam. The most common mitigated with Addle is the Thermionic Beam in the beginning of the second quote, while another option is the Thermionic Beam after Divebombs if the quote is for a stack instead of a spread.
 
+---
+
 # Phase 3: Bahamut Prime
 
 ## Reopener
@@ -127,6 +131,8 @@ You will only be able to use one Contre Sixte per damage window, so aim to use t
 
 Addle in this phase will be used to mitigate the raid-wide damage from Gigaflare. After every Trio, Bahamut will cast a Gigaflare, and a total of 2 (per caster) can be Addled throughout the phase.
 Your second Addle usage in this phase will depend on your first one. If you are using Addle on the Gigaflare after Blackfire Trio, you can also Addle either the Gigaflare after Heavensfall Trio or the Gigaflare after Tenstrike Trio. If you Addle the Gigaflare after Fellruin Trio, your second Addle must be on the Gigaflare after Tenstrike Trio.
+
+---
 
 # Phase 4: Adds Phase
 
@@ -151,6 +157,8 @@ While it is important to keep uptime on the bosses whenever possible, be wary of
 ## Addle Mitigation
 
 Addle in this phase will be used on one of the Megaflare casts from Nael. It is generally advised to Addle the first Megaflare cast as Addling the second one may cause you to not have Addle back in time for the first Morn Afah in Golden Bahamut.
+
+---
 
 # Phase 5: Golden Bahamut
 
@@ -177,6 +185,8 @@ Addle in this phase will be used to mitigate the Morn Afah stacks. You should di
 Using 90s mitigations (Addle included) on the odd Morn Afahs will give you 3 total uses, so you should be using it on 1, 3, and 5 if you have 1 caster.
 If you have 2 casters and it is your job to mitigate the 2nd and the 4th Morn Afah, do consider the timing of where you use addle for the 2nd Morn Afah. You have to use it a few seconds before the cast for Morn Afah begins, or it will be late for the 4th one.
 
+---
+
 # Clear PoVs
 
 ### Lana White
@@ -195,7 +205,7 @@ If you have 2 casters and it is your job to mitigate the 2nd and the 4th Morn Af
 
 {{< youtube PZQ5AQnM2h4 >}}
 
-
+---
 # Clear Logs
 
 Lana White - [Log](https://www.fflogs.com/reports/qy1PzBR3mWKrx2XL#fight=7&type=damage-done)  
