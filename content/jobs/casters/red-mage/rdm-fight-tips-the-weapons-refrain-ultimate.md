@@ -56,6 +56,8 @@ Embolden should be aligned to where the rest of your group is using their raid b
 
 As with other fights in the game, Vercure can be used during downtime in-between phases in order to prepare a Dualcast for when the boss becomes targetable again. In addition to this, in phases where the boss isn’t targetable and heavy raid damage is going out, Vercure can be used to assist your healers with healing wherever it may be needed.  
 
+---
+
 # Phase 1: Garuda
 
 ## Opener and Feathers
@@ -77,6 +79,8 @@ When Garuda becomes targetable after the Feather Rain following Friction and cle
 ## Addle Mitigation
 
 Addle in this phase will be used on either Friction or Aerial Blast. With only one caster, Addle is higher value on Friction as it will cover the cleanses being done as well, but it is up to your healers to decide where it is wanted most. 
+
+---
 
 # Phase 2: Ifrit
 
@@ -100,6 +104,8 @@ For the Eruption baits following Nails, it is strongly advisable to have the hea
 
 The main use for Addle in this phase will be for Hellfire. If you have a second caster, their Addle can be used on the Flaming Crush stack, although this will usually not be necessary.
 
+---
+
 # Phase 3: Titan
 
 ## Weight of the Lands
@@ -121,6 +127,8 @@ The arena during Titan becomes smaller as the phase progresses, making it more d
 ## Addle Mitigation
 
 Addle in this phase should mainly be used on Tumults. The most common one to Addle is the first Tumult, as a healer being Gaoled can make this harder to heal, but all three Tumults are very high value to Addle, and should be discussed with healers. It is also possible to Addle Earthen Fury, although this is usually not as high priority as Tumults.
+
+---
 
 # Phase 4: Ultima Weapon
 
@@ -154,6 +162,8 @@ Addles in this phase will be used for Homing Lasers, Tank Purge, or Ultima’s m
 
 As a disclaimer, it is possible for your group to use too much mitigation during this phase, causing them to not have LB for the Ultima cast. Many groups will choose to use strategies that avoid this, but keep in mind you may need to discuss dropping Addle with your healers if this becomes an issue. 
 
+---
+
 # Clear PoVs
 
 ### Laille Ormesaing
@@ -170,6 +180,8 @@ As a disclaimer, it is possible for your group to use too much mitigation during
 
 
 {{< youtube I15IS_QUJ2Q >}}
+
+---
 
 # Fight Logs
 
