@@ -92,7 +92,8 @@ As mentioned earlier in the guide, some groups may choose to potion during Ifrit
 
 Ideally, your physical ranged and healer without Searing Wind will bait the Eruptions during Nails, as Red Mage GCDs are much higher potency than healer GCDs. Some groups, however, may still make the Red Mage bait. In those situations, it’s advisable to hold your Swiftcast and use your melee combo during the baits to keep as much uptime as possible. Using Manafication during the Ifrit transition allows you to use your melee combo on nails to achieve full uptime. 
 
-[Example of melee combo during Eruption baits](https://www.twitch.tv/lanhickory/clip/SaltyWanderingSaladYee-A0O5sU7emxvfeTlx)
+Example of melee combo during Eruption baits:  
+{{< youtube PoS2UeI-J4 >}}
 
 In the scenario that you are baiting and your melee combo does not align with Eruptions, it is possible to keep full uptime in between baits while hardcasting. This requires Sprint and is a very tight window, but it is still possible.
 
