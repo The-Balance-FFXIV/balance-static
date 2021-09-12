@@ -16,12 +16,6 @@ title: "RDM Fight Tips: The Epic of Alexander (TEA)"
 
 - - -
 
-# Credits
-
-Written in bulk by Lana White, with additional information, checking & theorycrafting from  Hinoka Shirasagi, Laille Ormesaing, and Velox Vulpes.
-
-- - -
-
 # General Fight Tips
 
 ## Managing Resources
@@ -195,3 +189,9 @@ Lana White - [Log](https://www.fflogs.com/reports/Nd6GfRtj8Avh7L1J#fight=9&type=
 Velox Vulpes - [Log](https://www.fflogs.com/reports/kxYAHba7TjdK4ZhC#fight=12&type=damage-done)\
 Hinoka Shirasagi - [Log](https://www.fflogs.com/reports/Y1FDKQrZXCWxVbz6#fight=3&type=damage-done)\
 Laille Ormesaing - [Log](https://www.fflogs.com/reports/GTvrD6KRNJba4XFh#fight=11&type=damage-done)
+
+- - -
+
+# Credits
+
+Written in bulk by Lana White, with additional information, checking & theorycrafting from  Hinoka Shirasagi, Laille Ormesaing, and Velox Vulpes.
