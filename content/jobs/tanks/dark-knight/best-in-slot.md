@@ -56,10 +56,10 @@ Ultimate BiS sets can be found below.
 
 ### The Unending Coil of Bahamut
 
-2.43 non-relic - <https://ffxiv.ariyala.com/1E0RZ>  
-2.43 relic - <https://cdn.discordapp.com/attachments/277962264001380354/814588601471729724/unknown.png>
+2.43 non-relic - [](https://ffxiv.ariyala.com/1E0RZ)  
+2.43 relic - [](https://cdn.discordapp.com/attachments/277962264001380354/814588601471729724/unknown.png)
 
-2.41 non-relic - <https://ffxiv.ariyala.com/1D5R1>  
+2.41 non-relic - [](https://ffxiv.ariyala.com/1D5R1)  
 2.41 relic - <https://cdn.discordapp.com/attachments/277962264001380354/814588620240453662/unknown.png>
 
 2.40 non-relic - <https://ffxiv.ariyala.com/1D5R5>  
