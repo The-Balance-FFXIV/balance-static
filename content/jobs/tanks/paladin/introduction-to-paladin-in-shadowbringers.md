@@ -42,7 +42,8 @@ If used with at least 8,000 MP, provides a 12 second buff:
 
 ### Single Target GCDs
 
-**Goring Blade Combo**![](https://xiv.sleepyshiba.com/pld/assets/skill-fastblade.png)![](https://xiv.sleepyshiba.com/pld/assets/skill-riotblade.png)![](https://xiv.sleepyshiba.com/pld/assets/skill-goringblade.png)
+**Goring Blade Combo**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-fastblade.png)![](https://xiv.sleepyshiba.com/pld/assets/skill-riotblade.png)![](https://xiv.sleepyshiba.com/pld/assets/skill-goringblade.png)
 
 200 > 300 > 390 potency + 595 potency DoT over 21 seconds (physical)
 
@@ -50,7 +51,8 @@ The DoT portion snapshots buffs and debuffs when Goring Blade is cast
 
 +1000 MP from Riot Blade
 
-**Royal Authority Combo**![](https://xiv.sleepyshiba.com/pld/assets/skill-fastblade.png)![](https://xiv.sleepyshiba.com/pld/assets/skill-riotblade.png)![](https://xiv.sleepyshiba.com/pld/assets/skill-goringblade.png)
+**Royal Authority Combo**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-fastblade.png)![](https://xiv.sleepyshiba.com/pld/assets/skill-riotblade.png)![](https://xiv.sleepyshiba.com/pld/assets/skill-goringblade.png)
 
 200 > 300 > 550 potency (physical)
 
@@ -60,7 +62,8 @@ The DoT portion snapshots buffs and debuffs when Goring Blade is cast
 
 (Upgrades from Rage of Halone)
 
-**Atonement**![](https://xiv.sleepyshiba.com/pld/assets/skill-atonement.png)
+**Atonement**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-atonement.png)
 
 550 potency (physical)
 
@@ -68,13 +71,15 @@ Costs one Sword Oath
 
 +400 MP
 
-**Holy Spirit**![](https://xiv.sleepyshiba.com/pld/assets/skill-holyspirit.png)
+**Holy Spirit**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-holyspirit.png)
 
 350 potency (magical) • 1.5s cast time
 
 Costs 2000 MP
 
-**Confiteor**![](https://xiv.sleepyshiba.com/pld/assets/skill-confiteor.png)
+**Confiteor**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-confiteor.png)
 
 800 potency (magical)
 
@@ -86,7 +91,8 @@ Requires and consumes Requiescat buff
 
 ### Offensive Abilities (oGCDs)
 
-**Spirits Within**![](https://xiv.sleepyshiba.com/pld/assets/skill-spiritswithin.png)
+**Spirits Within**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-spiritswithin.png)
 
 100-370 potency depending on current HP (physical) • 30s cooldown
 
@@ -94,13 +100,15 @@ Scales linearly from 100 potency at 1 HP to 370 potency at max HP
 
 +500 MP
 
-**Circle of Scorn**![](https://xiv.sleepyshiba.com/pld/assets/skill-circleofscorn.png)
+**Circle of Scorn**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-circleofscorn.png)
 
 120 potency + 175 potency DoT over 15 seconds (physical) • 25s cooldown
 
 AoE centered on self
 
-**Intervene**![](https://xiv.sleepyshiba.com/pld/assets/skill-intervene.png)
+**Intervene**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-intervene.png)
 
 200 potency (physical) • 2 charges
 
@@ -108,19 +116,22 @@ AoE centered on self
 
 ### Defensive and Utility Abilities
 
-**Rampart**![](https://xiv.sleepyshiba.com/pld/assets/skill-rampart.png)
+**Rampart**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-rampart.png)
 
 20% damage reduction
 
 20s duration • 90s cooldown
 
-**Sentinel**![](https://xiv.sleepyshiba.com/pld/assets/skill-sentinel.png)
+**Sentinel**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-sentinel.png)
 
 30% damage reduction
 
 15s duration • 120s cooldown
 
-**Sheltron**![](https://xiv.sleepyshiba.com/pld/assets/skill-sheltron.png)
+**Sheltron**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-sheltron.png)
 
 Guarantees blocks
 
@@ -130,7 +141,8 @@ Guarantees blocks
 
 Costs 50 Oath Gauge, which is generated at a rate of 50 in ~23s
 
-**Passage of Arms**![](https://xiv.sleepyshiba.com/pld/assets/skill-passageofarms.png)
+**Passage of Arms**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-passageofarms.png)
 
 Channel for up to 18 seconds
 
@@ -142,19 +154,22 @@ Provides 15% damage reduction to party members behind you (lasts at least 5s, se
 
 Cancelled by taking any action (including turning your character)
 
-**Divine Veil**![](https://xiv.sleepyshiba.com/pld/assets/skill-divineveil.png)
+**Divine Veil**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-divineveil.png)
 
 If you receive a GCD heal from anybody in the next 30s, party members near you get a shield for 10% of your HP
 
 Shield duration: 30s • 90s cooldown
 
-**Reprisal**![](https://xiv.sleepyshiba.com/pld/assets/skill-reprisal.png)
+**Reprisal**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-reprisal.png)
 
 10% damage down to nearby enemies
 
 10s duration • 60s cooldown
 
-**Intervention**![](https://xiv.sleepyshiba.com/pld/assets/skill-intervention.png)
+**Intervention**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-intervention.png)
 
 10% damage reduction
 
@@ -162,7 +177,8 @@ Shield duration: 30s • 90s cooldown
 
 If either Rampart or Sentinel are active on you *when you cast Intervention*, damage reduction is increased to 20% or 25% respectively, or 35% if both are active.
 
-**Cover**![](https://xiv.sleepyshiba.com/pld/assets/skill-cover.png)
+**Cover**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-cover.png)
 
 Tether to target party member as long as they are within 10y
 
@@ -172,11 +188,13 @@ Redirect most damage and knockbacks on the covered target to you (exceptions exi
 
 Uses your buffs/debuffs (except Hallowed Ground) to calculate damage and ignores the covered target's
 
-**Provoke**![](https://xiv.sleepyshiba.com/pld/assets/skill-provoke.png)
+**Provoke**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-provoke.png)
 
 Instantly gives you top enmity on the target with a significant enmity lead (this enmity lead is affected by Iron Will)
 
-**Shirk**![](https://xiv.sleepyshiba.com/pld/assets/skill-shirk.png)
+**Shirk**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-shirk.png)
 
 120s cooldown
 
@@ -184,7 +202,8 @@ Takes 25% of your enmity and gives it to target party member
 
 Affects everything on the enemy list
 
-**Arm's Length**![](https://xiv.sleepyshiba.com/pld/assets/skill-armslength.png)
+**Arm's Length**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-armslength.png)
 
 6s duration • 120s cooldown
 
@@ -194,7 +213,8 @@ Applies a 20% auto-attack and cast slow for 15s to enemies that attack you (resi
 
 ### AoE GCDs
 
-**Prominence Combo**![](https://xiv.sleepyshiba.com/pld/assets/skill-totaleclipse.png)![](https://xiv.sleepyshiba.com/pld/assets/skill-prominence.png)
+**Prominence Combo**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-totaleclipse.png)![](https://xiv.sleepyshiba.com/pld/assets/skill-prominence.png)
 
 120 > 220 potency (physical)
 
@@ -204,7 +224,8 @@ Circle AoE centered on self
 
 Replaces single target combos at 3+ enemies
 
-**Holy Circle**![](https://xiv.sleepyshiba.com/pld/assets/skill-holycircle.png)
+**Holy Circle**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-holycircle.png)
 
 250 potency (magical)
 
@@ -216,7 +237,8 @@ Replaces Holy Spirit at 3+ enemies
 
 #### GCDs
 
-**Clemency**![](https://xiv.sleepyshiba.com/pld/assets/skill-clemency.png)
+**Clemency**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-clemency.png)
 
 1200 potency heal on target
 
@@ -224,7 +246,8 @@ Replaces Holy Spirit at 3+ enemies
 
 When used on another target, also heals you for half as much
 
-**Shield Lob**![](https://xiv.sleepyshiba.com/pld/assets/skill-shieldlob.png)
+**Shield Lob**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-shieldlob.png)
 
 120 potency (physical)
 
@@ -232,7 +255,8 @@ When used on another target, also heals you for half as much
 
 Ranged attack
 
-**Shield Bash**![](https://xiv.sleepyshiba.com/pld/assets/skill-shieldbash.png)
+**Shield Bash**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-shieldbash.png)
 
 110 potency (physical)
 
@@ -240,13 +264,15 @@ Ranged attack
 
 #### oGCDs
 
-**Low Blow**![](https://xiv.sleepyshiba.com/pld/assets/skill-lowblow.png)
+**Low Blow**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-lowblow.png)
 
 25s cooldown
 
 5s stun
 
-**Interject**![](https://xiv.sleepyshiba.com/pld/assets/skill-interject.png)
+**Interject**  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-interject.png)
 
 30s cooldown
 
@@ -254,9 +280,11 @@ Interrupts target's action
 
 Interruptible actions are denoted by red flashing castbars
 
-Normal castbar:![](https://xiv.sleepyshiba.com/pld/assets/cast-normal.png)
+Normal castbar:  
+![](https://xiv.sleepyshiba.com/pld/assets/cast-normal.png)
 
-Interruptible castbar:![](https://xiv.sleepyshiba.com/pld/assets/cast-interrupt.gif)
+Interruptible castbar:  
+![](https://xiv.sleepyshiba.com/pld/assets/cast-interrupt.gif)
 
 ## Opener
 
@@ -266,11 +294,12 @@ Goals for PLD openers include:
 * Get important abilities like Fight or Flight and Requiescat on cooldown early
 * Use damaging oGCDs inside raid buff and potion windows (which typically come up around the 4th or 5th GCD)
 
-![](https://xiv.sleepyshiba.com/pld/assets/rotation-opener.png)
+![](https://xiv.sleepyshiba.com/pld/assets/rotation-opener.png)  
 
 > Text version: -2s prepull Holy Spirit > Fast Blade + Circle of Scorn + Fight or Flight > Riot Blade > Goring Blade > Fast Blade > Strength Tincture (halfway through GCD) > Riot Blade + Spirits Within + Intervene > Royal Authority + Intervene > Atonement > Atonement > Atonement > Fast Blade > Riot Blade + Circle of Scorn > Goring Blade + Requiescat > Holy Spirit > Holy Spirit > Holy Spirit > Holy Spirit > Confiteor + Spirits Within
 
-![](https://xiv.sleepyshiba.com/pld/assets/tincture.png) The potion used is whatever the current tier's Strength potion is (as of the time of writing, and until Endwalker release, it is the Grade 4 Tincture of Strength HQ).
+![](https://xiv.sleepyshiba.com/pld/assets/tincture.png)  
+The potion used is whatever the current tier's Strength potion is (as of the time of writing, and until Endwalker release, it is the Grade 4 Tincture of Strength HQ).
 
 **High Latency Adjustments:**\
 At high latency (>100ms), it can be be beneficial to move around oGCDs (not Fight or Flight or Requiescat) in order to avoid any clipping (delaying your next GCD) caused by double weaving. Additionally, move the tincture to before the first Goring Blade.
@@ -298,17 +327,17 @@ The basic rotation can be thought of as *a loop starting after the previous cast
 
 Damaging oGCDs should be used on cooldown, with two charges of Intervene being pooled for Fight or Flight windows.
 
-![](https://xiv.sleepyshiba.com/pld/assets/rotation-loop.png)
+![](https://xiv.sleepyshiba.com/pld/assets/rotation-loop.png)  
 
 > Text Version: Loop start > Fast Blade > Riot Blade > Goring Blade > Fast Blade > Riot Blade > Royal Authority > Atonement > Atonement > Atonement > Fast Blade + Fight or Flight > Riot Blade > Goring Blade > Fast Blade > Riot Blade > Royal Authority > Atonement > Atonement > Atonement > Fast Blade > Riot Blade > Goring Blade + Requiescat > Holy Spirit > Holy Spirit > Holy Spirit > Holy Spirit > Confiteor > Loop end
 
 ### Using Fight or Flight
 
-![](https://xiv.sleepyshiba.com/pld/assets/fofgcd.png)
+![](https://xiv.sleepyshiba.com/pld/assets/fofgcd.png)  
 
 Fight or Flight should be weaved approximately two-thirds of the way into the GCD roll in order to cover 11 physical GCDs, which will typically be a Royal Authority combo, 3 Atonements, a Goring Blade combo, and an extra Riot Blade and Goring Blade.
 
-![](https://xiv.sleepyshiba.com/pld/assets/usingfof.png)
+![](https://xiv.sleepyshiba.com/pld/assets/usingfof.png)  
 
 Each Fight or Flight should also ideally have 1 Circle of Scorn, 1 Spirits Within, and 2 Intervenes.
 
@@ -353,15 +382,15 @@ Whenever downtime is involved, case-by-case adjustments to the rotation are reco
 
 Paladin's rotation is deceptively easy to recover. As a general rule, the rotation can be fully reset by each Requiescat window as long as Fight or Flight and Requiescat don't drift apart (even if they must be used sub-optimally). Losses cannot be reversed, but *ensuring personal buff windows do not desync from each other* will prevent problems from compounding for the rest of the encounter.
 
-![](https://xiv.sleepyshiba.com/pld/assets/skill-atonement-no.png)\
+![](https://xiv.sleepyshiba.com/pld/assets/skill-atonement-no.png)  
 For unexpected single-GCD losses, the solution is simple: drop an Atonement so FoF and Requiescat don't get delayed. If the loss occurs during the FoF window, dropping an Atonement will also ensure that the next Goring Blade is still buffed by FoF. The leftover Atonement should then replace a Holy Spirit during the Requiescat window, if possible, due to its higher potency and shorter recast time.
 
-![](https://xiv.sleepyshiba.com/pld/assets/rotation-adjustment1.png)
+![](https://xiv.sleepyshiba.com/pld/assets/rotation-adjustment1.png)  
 
-![](https://xiv.sleepyshiba.com/pld/assets/skill-goringblade-no.png)\
+![](https://xiv.sleepyshiba.com/pld/assets/skill-goringblade-no.png)  
 For multiple-GCD losses (broken combos or long disengagements), the solution is to drop a Goring Blade combo at some point before the next Requiescat, because 3 Atonement/Holy Spirit usages are worth more than a full Goring Blade combo, if 3 GCDs must be sacrificed to prevent buff delays. Alternatively, dropping multiple Atonements (or forcing multiple Atonements into Requiescat) with standard Goring Blade timing still works, but is less efficient.
 
-![](https://xiv.sleepyshiba.com/pld/assets/rotation-adjustment2.png)
+![](https://xiv.sleepyshiba.com/pld/assets/rotation-adjustment2.png)  
 
 ## Helpful Macros
 
