@@ -1,5 +1,5 @@
 ---
-title: Best in Slot
+title: Best in Slot (BiS)
 ---
 # Dark Knight Best In Slot
 
