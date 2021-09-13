@@ -3,13 +3,20 @@ title: Opener and Rotation
 ---
 # Dragoon Opener and Rotation
 
-The Dragoon opener has a backbone of GCD actions that never changes, but the two different chunks of off-global skills (:pot::ds::bl::lc: and :hj::ssd::dfd::gsk::md:) can be shuffled within their respective “slots” in the opener if necessary for encounter-related timings.
 
-Just keep in mind you should still never double weave with :pot:, :hj:, :ssd:, :dfd:, or :std: ever, opener or otherwise.
+The primary use of the Opener is to prepare your cooldown alignment for the rest of the encounter. With our new Job design, it’s possible that we’ll actually have fight-specific openers down the stretch, and they’ll all be added here!
 
+These openers have not been too thoroughly tested as of yet, so please take them with a grain of salt, and if you discover anything that flies counter to what we have listed here, please don’t hesitate to ask!
+
+## Standard Opener
+
+The backbone of ten GCDs in sequence will - in general - never be changed, but the two blocks of skills (**Buffs** and **Attacks**) can be shuffled around within their respective slots if necessary to accommodate specific encounter timings.
 
 ![](https://i.imgur.com/bNh6e0x.png)
 
+The default order for the **Attacks** puts Spineshatter Dive as a buffer skill between High Jump and Geirskogul in order to try and prevent future situations where the two are ready at the exact same time.
+
+## Levelling
 
 The basic GCD backbone of the rotation does change as you level:  
 64-80: :rt::de::ct::wt::fc:-:rt::vt::ft::fc::wt:  
@@ -20,8 +27,8 @@ The basic GCD backbone of the rotation does change as you level:
 18-25: :tt::de:-(:tt::vt:)x6  
 
 For more specific considerations about how this rotation and the opener change on a specific encounter basis, please check the drg_encounter channel.
-https://discordapp.com/channels/277897135515762698/627667896860147714/627896513481277440
+<https://discordapp.com/channels/277897135515762698/627667896860147714/627896513481277440>
 
 
-This video has a full 6 minute rotation at a 2.50 GCD, using the opener above.
+This video has a full 6 minute rotation at a 2.50 GCD, using the opener above.  
 <https://www.youtube.com/watch?v=15PNRbwXctw>
