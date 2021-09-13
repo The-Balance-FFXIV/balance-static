@@ -211,4 +211,4 @@ Laille Ormesaing - [Log 1](https://www.fflogs.com/reports/wRcA73HVvtXy42Yb#fight
 
 # Credits
 
-Written in bulk by Lana White with additional information, checking & theorycrafting from Phoebe No’Saa, Hinoka Shirasagi and Laille Ormesaing.
+Written in bulk by Lana White with additional information, checking & theorycrafting from Hinoka Shirasagi and Laille Ormesaing.
