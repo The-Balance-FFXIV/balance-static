@@ -5,15 +5,19 @@ title: Skills Overview
 
 ## Tank Stance
 
-![Grit](https://xivapi.com/i/003000/003070.png) <br> **Grit**
+![Grit](https://xivapi.com/i/003000/003070.png)   
 
-* Toggle - Ten second cooldown after toggling on • no cooldown for toggling off
+**Grit**
+
+* Toggle - Ten second cooldown after toggling on • No cooldown for toggling off
 * Multiplies enmity (aggro, hate, etc) generation by ten
 * Keep this on in dungeons or as the current maintank (in content with more than one tank)
 
 ## Single Target GCDs
 
-![Hard Slash](https://xivapi.com/i/003000/003051.png) ![Syphon Strike](https://xivapi.com/i/003000/003054.png) ![Souleater](https://xivapi.com/i/003000/003055.png) <br> **Souleater Combo**
+![Hard Slash](https://xivapi.com/i/003000/003051.png) ![Syphon Strike](https://xivapi.com/i/003000/003054.png) ![Souleater](https://xivapi.com/i/003000/003055.png)   
+
+**Souleater Combo**
 
 * 200 > 300 > 400 potency
 
@@ -21,7 +25,9 @@ title: Skills Overview
   2. Syphon Strike: +600 MP
   3. Souleater: +20 Blood, 300p heal
 
-![Bloodspiller](https://xivapi.com/i/003000/003080.png) <br>**Bloodspiller**
+![Bloodspiller](https://xivapi.com/i/003000/003080.png)   
+
+**Bloodspiller**
 
 * 600 potency
 * Costs 50 Blood
@@ -237,9 +243,9 @@ Shield: 25% target’s max. HP
 
 ### Interject (oGCD)
 
-30s cooldown
-<br>Interrupts target’s action
-<br>Interruptible actions are denoted by red flashing castbars
+30s cooldown  
+Interrupts target’s action  
+nterruptible actions are denoted by red flashing castbars
 
   Normal castbar: ![Castbar](https://lh6.googleusercontent.com/U4mWjDQYc0q4mqE4yjC13PqJid1zVD6yryLhQcFWUFjSAaXIrm7DypFKuseKmO6qGKt5zvJy8YN9O8fMd_yWNMQ_v54EJmDqRjhoMhv_Xenogc5OI3U0NFdeGW-rAxURAl_q-cSH=s0)
 
