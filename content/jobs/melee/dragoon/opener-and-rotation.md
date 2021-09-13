@@ -11,13 +11,13 @@ Just keep in mind you should still never double weave with :pot:, :hj:, :ssd:, :
 ![](https://i.imgur.com/bNh6e0x.png)
 
 
-The basic GCD backbone of the rotation does change as you level:
-64-80: :rt::de::ct::wt::fc:-:rt::vt::ft::fc::wt:
-58-63: :tt::de::ct::wt:-(:tt::vt::ft::fc:)x2
-56-57: :tt::de::ct:-(:tt::vt::ft::fc:)x2
-50-55: :tt::de::ct:-(:tt::vt::ft:)x3
-26-49: :tt::de:-(:tt::vt::ft:)x4
-18-25: :tt::de:-(:tt::vt:)x6
+The basic GCD backbone of the rotation does change as you level:  
+64-80: :rt::de::ct::wt::fc:-:rt::vt::ft::fc::wt:  
+58-63: :tt::de::ct::wt:-(:tt::vt::ft::fc:)x2  
+56-57: :tt::de::ct:-(:tt::vt::ft::fc:)x2  
+50-55: :tt::de::ct:-(:tt::vt::ft:)x3  
+26-49: :tt::de:-(:tt::vt::ft:)x4  
+18-25: :tt::de:-(:tt::vt:)x6  
 
 For more specific considerations about how this rotation and the opener change on a specific encounter basis, please check the drg_encounter channel.
 https://discordapp.com/channels/277897135515762698/627667896860147714/627896513481277440
