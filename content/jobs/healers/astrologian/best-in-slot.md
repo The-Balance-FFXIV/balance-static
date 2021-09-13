@@ -17,15 +17,15 @@ FAQs at the bottom. As always, keep an eye on food in the sets.
 
 > **Max (Reasonable) Damage Set**  
 
-(crafted) "Fastro" <https://etro.gg/gearset/f76ddad7-1cf5-4b03-946b-cd63598157b0>\
-(tome) "Almost too Fastro" <https://etro.gg/gearset/d9ba9190-5e9d-424c-ab35-617cb3101550>
+(Crafted) "Fastro" <https://etro.gg/gearset/f76ddad7-1cf5-4b03-946b-cd63598157b0>\
+(Tome) "Almost too Fastro" <https://etro.gg/gearset/d9ba9190-5e9d-424c-ab35-617cb3101550>
 
-It's fast. Quite fast. But this level of Piety:SpS has been tested and is very viable for all fights this tier at a high level of play. *Please bring ethers with this if things go under
+It's fast. Quite fast. But this level of Piety:SpS has been tested and is very viable for all fights this tier at a high level of play. Please bring ethers with this if things go under
 
 > **Safer but still fairly fast**  
 
-(crafted) "Need for SpellSpeed" <https://etro.gg/gearset/614d5891-6f03-4894-9802-05f0430134e6>\
-(tome) "Bring home the pie" <https://etro.gg/gearset/f88f544d-eb84-4add-81b4-0bb815288054>
+(Crafted) "Need for SpellSpeed" <https://etro.gg/gearset/614d5891-6f03-4894-9802-05f0430134e6>\
+(Tome) "Bring home the pie" <https://etro.gg/gearset/f88f544d-eb84-4add-81b4-0bb815288054>
 
 This makes MP significantly more reasonable than the above, but still has very high damage. Bring this to situations you need a bit more MP.
 
@@ -35,9 +35,9 @@ This makes MP significantly more reasonable than the above, but still has very h
 
 Best in Sloth, while not quite as high damage as the faster sets, is a safer option while still maintaining reasonbly high damage. It is for those who have high ping and find it hard to not clip with faster GCDs, or just want to be have some extra leeway for mana during weekly reclears.
 
---- 
+- - -
 
-# What about TEA BiS?  
+# What about TEA BiS?
 
 This honestly isn't a big deal, you can use your current gear and just go grab your Titan Savage weapon, if you can. You lose melds, sure, but it honestly isn't as bad as you'd think with new food and pots.
 
@@ -76,4 +76,4 @@ Scroll up! The writeup is still word-for-word valid. Bring a bit more Piety thou
 > *What about the Do Not Even Look in Here set?*
 
 Did I stutter?
-(no i did not)
+(No, I did not.)
