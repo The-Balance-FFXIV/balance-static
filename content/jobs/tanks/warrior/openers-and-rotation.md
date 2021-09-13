@@ -38,3 +38,7 @@ The basic rotation in a 100% uptime scenario is generously put a priority list:
 The main goal for your rotation should be to maximize Storm’s Path casts and Storm’s Eye uptime.
 
 With the combo timer being extended to 15 seconds, combos can carry over Inner Release. This means that after using Heavy Swing or Maim, it is possible to fit five Fell Cleaves before continuing the combo. However, it is easy to drop the combo by using Inner Chaos or an extra Fell Cleave right before or after Inner Release.
+
+## Further Reading
+
+For more help regarding Warrior rotations; please check out the Warrior Guide [here]
