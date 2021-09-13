@@ -1,5 +1,5 @@
 ---
-title: Reaper - What We Know So Far
+title: "Reaper: What We Know So Far"
 ---
 Reaper will be a new job coming to Final Fantasy XIV in the Endwalker expansion. As of September of 2021, we only know a few things about Reaper, and as we learn more we will update this page.
 
