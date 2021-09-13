@@ -5,7 +5,7 @@ title: Best in Slot
 
 ## Gear Priority and Pre-BiS
 
-Day 1 prog set(s) will be listed immediately when a new tier is released, but pre-BiS will otherwise not be maintained on this page. Use the Tank Gear Manager (https://bit.ly/TankDPSCalc520) to make your own gearing decisions based on personal loot availability. Prioritizing item level over substats is encouraged while learning new encounters.
+Day one prog set(s) will be listed immediately when a new tier is released, but pre-BiS will otherwise not be maintained on this page. Use the Tank Gear Manager (https://bit.ly/TankDPSCalc520) to make your own gearing decisions based on personal loot availability. Prioritizing item level over substats is encouraged while learning new encounters.
 
 Note: Early progression gear will often provide very different skill speed values from BiS. If a prog set is too fast for personal preference, it is usually best to simply play around it until better gear is available, instead of using lower item level gear to reach a preferred speed.
 
