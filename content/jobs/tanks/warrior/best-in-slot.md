@@ -56,41 +56,70 @@ Fully upgraded relic - 9164.7 dps
 
 ilv 470
 
-	Relic	dps
-2.43	https://cdn.discordapp.com/attachments/277962749630349312/812773915998945380/c41ce057c0f007ed5e692a1bdf0f4827.png	-
-		-
-2.38	https://cdn.discordapp.com/attachments/277962749630349312/812785102458585178/UWU.png	-
-		-
-2.37	https://cdn.discordapp.com/attachments/436621844838088748/862677161127444530/unknown.png	-
-	(if you had 7 leftover stats put them in tnc)	
+> **Relic**
 
-	Non-Relic	dps
-2.43	https://cdn.discordapp.com/attachments/277962749630349312/812784510365073468/unknown.png	-
-alternative	https://cdn.discordapp.com/attachments/277962749630349312/813101107009814593/unknown.png	-
-2.38	https://cdn.discordapp.com/attachments/277962749630349312/812788739033137163/6d264f425badb3d750bbba330bbfca65.png	-
-alternative	https://cdn.discordapp.com/attachments/277962749630349312/812787762453282866/unknown.png	-
-2.37	https://cdn.discordapp.com/attachments/277962749630349312/812787389931061278/963a5fd438079a138fd805d5746fc0f6.png	-
-alternative	https://cdn.discordapp.com/attachments/277962749630349312/812786563422748692/unknown.png	-
+2.43  
+![](https://cdn.discordapp.com/attachments/277962749630349312/812773915998945380/c41ce057c0f007ed5e692a1bdf0f4827.png)
+
+
+2.38  
+![](https://cdn.discordapp.com/attachments/277962749630349312/812785102458585178/UWU.png)
+
+
+2.37  
+![](https://cdn.discordapp.com/attachments/436621844838088748/862677161127444530/unknown.png)
+(if you had 7 leftover stats put them in tnc)	
+
+> **Non-Relic**
+
+ 
+2.43  
+![](https://cdn.discordapp.com/attachments/277962749630349312/812784510365073468/unknown.png)  
+alternative  
+![](https://cdn.discordapp.com/attachments/277962749630349312/813101107009814593/unknown.png)
+
+2.38  
+![](https://cdn.discordapp.com/attachments/277962749630349312/812788739033137163/6d264f425badb3d750bbba330bbfca65.png)  
+alternative
+![](https://cdn.discordapp.com/attachments/277962749630349312/812787762453282866/unknown.png	)
+
+2.37  
+![](https://cdn.discordapp.com/attachments/277962749630349312/812787389931061278/963a5fd438079a138fd805d5746fc0f6.png)  
+alternative  
+![](https://cdn.discordapp.com/attachments/277962749630349312/812786563422748692/unknown.png)
 
 ### The Unending Coil of Bahamut (Ultimate)
 
 ilv 418
 
-	Relic	dps
-2.43	https://cdn.discordapp.com/attachments/277962749630349312/812776896550666300/efa0a1e59b2981fd846500284d7290c5.png	-
-		-
-2.38	https://cdn.discordapp.com/attachments/277962749630349312/812780934101205052/unknown.png	-
-		-
-2.37	https://cdn.discordapp.com/attachments/277962749630349312/848790796135170048/unknown.png	-
-alternative, no-eureka	https://cdn.discordapp.com/attachments/821271250663505930/821272004291330078/unknown.png	-
+> **Relic**
 
-	Non-Relic	dps
-2.43	https://cdn.discordapp.com/attachments/277962749630349312/812782632117993502/unknown.png	-
-alternative	https://cdn.discordapp.com/attachments/277962749630349312/812782897983127623/unknown.png	-
-2.38	https://cdn.discordapp.com/attachments/277962749630349312/813100658202378240/unknown.png	-
-		-
-2.37	https://cdn.discordapp.com/attachments/277962749630349312/812782499834232832/unknown.png	-
-		-
+2.43  
+![](https://cdn.discordapp.com/attachments/277962749630349312/812776896550666300/efa0a1e59b2981fd846500284d7290c5.png)
+
+2.38  
+![](https://cdn.discordapp.com/attachments/277962749630349312/812780934101205052/unknown.png	)
+
+2.37  
+![](https://cdn.discordapp.com/attachments/277962749630349312/848790796135170048/unknown.png)
+
+alternative, no-eureka  
+![](https://cdn.discordapp.com/attachments/821271250663505930/821272004291330078/unknown.png	)
+
+> **Non-Relic**
+
+2.43  
+![](https://cdn.discordapp.com/attachments/277962749630349312/812782632117993502/unknown.png)  
+
+alternative  
+![](https://cdn.discordapp.com/attachments/277962749630349312/812782897983127623/unknown.png)
+
+2.38  
+![](https://cdn.discordapp.com/attachments/277962749630349312/813100658202378240/unknown.png)
+
+2.37  
+![](https://cdn.discordapp.com/attachments/277962749630349312/812782499834232832/unknown.png	)
+
 --- 
 
 ## What is the **BiS** for 5.4+?  
