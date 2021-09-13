@@ -1,67 +1,77 @@
 ---
 title: Scholar Guide
 ---
-- [Indomitable, A Thourough Guide to Scholar](#indomitable-a-thourough-guide-to-scholar)
-  - [Author](#author)
-- [Acknowledgements](#acknowledgements)
-- [What Does Scholar Do?](#what-does-scholar-do)
-- [Actions](#actions)
-  - [DPS GCDs](#dps-gcds)
-  - [DPS oGCDs](#dps-ogcds)
-  - [Healing GCDs](#healing-gcds)
-  - [Healing oGCDs](#healing-ogcds)
-  - [Utility Spells/Abilities](#utility-spellsabilities)
-  - [Fairy Abillities](#fairy-abillities)
-  - [Other Abilities](#other-abilities)
-  - [Role Actions](#role-actions)
-- [All About DPS](#all-about-dps)
-  - [Opener](#opener)
-  - [How DoT's Work](#how-dots-work)
-- [The GCD and Weaving](#the-gcd-and-weaving)
-- [How the Fairy Works](#how-the-fairy-works)
-  - [Problems With The Fairy](#problems-with-the-fairy)
-- [Opportunity Costs](#opportunity-costs)
-  - [Opportunity Costs for CoHealers](#opportunity-costs-for-cohealers)
-  - [Single Target Healing Priority](#single-target-healing-priority)
-  - [AoE Healing Priority](#aoe-healing-priority)
-- [Healing with White Mage](#healing-with-white-mage)
-- [Healing with AST](#healing-with-ast)
-- [How Shielding Works](#how-shielding-works)
-  - [When to Shield](#when-to-shield)
-- [How Healing Buffs Work](#how-healing-buffs-work)
-- [Deployment Tactics](#deployment-tactics)
-- [Summon Seraph](#summon-seraph)
-- [Recitation](#recitation)
-- [Dissipation](#dissipation)
-- [MP Management](#mp-management)
-- [Movement](#movement)
-- [How Mitigation Works](#how-mitigation-works)
-- [Party Mitigations](#party-mitigations)
-- [Raid Buffs](#raid-buffs)
-  - [Buff Alignment](#buff-alignment)
-- [Stat Priorities](#stat-priorities)
-  - [Weapon Damage](#weapon-damage)
-  - [Main Stat](#main-stat)
-  - [Piety (PIE)](#piety-pie)
-  - [Critical Hit (Crit)](#critical-hit-crit)
-  - [Spell Speed (SPS)](#spell-speed-sps)
-  - [Determination (DET)](#determination-det)
-  - [Direct Hit (DH)](#direct-hit-dh)
-    - [Determination Vs. Direct Hit](#determination-vs-direct-hit)
-- [Macros](#macros)
-- [General Tips](#general-tips)
-- [Additional Resources](#additional-resources)
+* [Indomitable, A Thourough Guide to Scholar](#indomitable-a-thourough-guide-to-scholar)
+
+  * [Author](#author)
+* [Acknowledgements](#acknowledgements)
+* [What Does Scholar Do?](#what-does-scholar-do)
+* [Actions](#actions)
+
+  * [DPS GCDs](#dps-gcds)
+  * [DPS oGCDs](#dps-ogcds)
+  * [Healing GCDs](#healing-gcds)
+  * [Healing oGCDs](#healing-ogcds)
+  * [Utility Spells/Abilities](#utility-spellsabilities)
+  * [Fairy Abillities](#fairy-abillities)
+  * [Other Abilities](#other-abilities)
+  * [Role Actions](#role-actions)
+* [All About DPS](#all-about-dps)
+
+  * [Opener](#opener)
+  * [How DoT's Work](#how-dots-work)
+* [The GCD and Weaving](#the-gcd-and-weaving)
+* [How the Fairy Works](#how-the-fairy-works)
+
+  * [Problems With The Fairy](#problems-with-the-fairy)
+* [Opportunity Costs](#opportunity-costs)
+
+  * [Opportunity Costs for CoHealers](#opportunity-costs-for-cohealers)
+  * [Single Target Healing Priority](#single-target-healing-priority)
+  * [AoE Healing Priority](#aoe-healing-priority)
+* [Healing with White Mage](#healing-with-white-mage)
+* [Healing with AST](#healing-with-ast)
+* [How Shielding Works](#how-shielding-works)
+
+  * [When to Shield](#when-to-shield)
+* [How Healing Buffs Work](#how-healing-buffs-work)
+* [Deployment Tactics](#deployment-tactics)
+* [Summon Seraph](#summon-seraph)
+* [Recitation](#recitation)
+* [Dissipation](#dissipation)
+* [MP Management](#mp-management)
+* [Movement](#movement)
+* [How Mitigation Works](#how-mitigation-works)
+* [Party Mitigations](#party-mitigations)
+* [Raid Buffs](#raid-buffs)
+
+  * [Buff Alignment](#buff-alignment)
+* [Stat Priorities](#stat-priorities)
+
+  * [Weapon Damage](#weapon-damage)
+  * [Main Stat](#main-stat)
+  * [Piety (PIE)](#piety-pie)
+  * [Critical Hit (Crit)](#critical-hit-crit)
+  * [Spell Speed (SPS)](#spell-speed-sps)
+  * [Determination (DET)](#determination-det)
+  * [Direct Hit (DH)](#direct-hit-dh)
+
+    * [Determination Vs. Direct Hit](#determination-vs-direct-hit)
+* [Macros](#macros)
+* [General Tips](#general-tips)
+* [Additional Resources](#additional-resources)
 
 # Indomitable, A Thourough Guide to Scholar
 
 ## Author
+
 **Tobio Okuma**
 
 This is a guide for the Scholar (SCH) Job in FFXIV. The goal of this guide is to give insight into how the job is operating in our current raid environment. I will go over all of the job’s skills and describe their usage, as well as break down how Scholar interacts with other healers. I will go through small optimizations, useful macros, and more. This guide is oriented towards people of any level of play.
 
 Of course there will be some general “how to heal” in this guide, as it is vital to point out the style that SCH uses in its healing. This guide will also cover some in depth healing things. A lot of this will be assuming you are in an organized group and can coordinate with your cohealer.
 
-I will also be addressing certain inefficiencies in Scholar gameplay in hopes that they will allow people to avoid common mistakes.I will include sections on useful tips/tricks that can improve your overall experience playing Scholar. 
+I will also be addressing certain inefficiencies in Scholar gameplay in hopes that they will allow people to avoid common mistakes.  I will include sections on useful tips/tricks that can improve your overall experience playing Scholar. 
 This guide will have a LOT of information in it. Feel free to jump around it as necessary to things that are relevant to you. The table of contents will be color coded for easier navigation, as a document this size can be overwhelming.
 This guide will continue to be updated through 5.0.
 
@@ -73,9 +83,9 @@ A massive thanks to Snes Ambros’ia for the work they put in to make this guide
 
 A special thanks to Momo Sama for his help, especially on the section regarding raid buff alignment and opportunity costs. He also made the graph of party mitigation. On top of that, he also proofread this behemoth of a document. Check out his [Twitch](https://www.twitch.tv/ffxivmomo) and [YouTube](https://www.youtube.com/user/JebasuFX).
 
-Huge thank you to Ahri for their help with the guide in general. They did the opener section particularly. Big fan of all their hard work helping out, big fan!
+Huge thank you to Ahri for their help with the guide in general. They did the opener section particularly. Big fan, of all their hard work helping out, big fan!
 
-Thanks to Zyrkhan Dar’locke for his help in translating my ramblings into English and proof reading my spreadsheets. His AST guide was also a great guideline into how I could approach writing this kind of guide.
+Thanks to Zyrkhan Dar’locke for his help in translating my ramblings into English and proofreading my spreadsheets. His AST guide was also a great guideline into how I could approach writing this kind of guide.
 
 Alevia Rohan for proofreading and editing. She was a big help in doing corrections to make the guide more legible. Without her, the guide would not look as nice as it does. Also she puts up with my booli. Check out her [Twitch](https://www.twitch.tv/saltedlevity/). 
 
@@ -87,13 +97,11 @@ Thanks to all the groups and people I’ve run with who have made me the player 
 
 Everyone on [The Balance](https://discord.gg/thebalanceffxiv) for teaching me what I know and helping me to get better at the game. Without you I would be nowhere near where I am today.
 
-
-
 # What Does Scholar Do?
 
 At first glance, Scholar appears to be a hard job, especially for people who are just attempting to get into healing for the first time. Scholar hotbars are often extremely full and give off the impression of being an overly complicated job. In reality, many of them do not see much use in current content.
 
-Scholar’s main identity revolves around the usage of it’s fairy, which has two forms:Selene and Eos The fairy passively heals in what is essentially a mini-regen, which  enables Scholars to pump out incredible damage. On top of this, Scholar has many tools that allow them to quickly heal incoming damage, most of which are off the global cooldown. This enables their cohealer to do their maximum possible damage at minimal loss.
+Scholar’s main identity revolves around the usage of its fairy, which has two forms: Selene and Eos. The fairy passively heals in what is essentially a mini-regen, which enables Scholars to pump out incredible damage. On top of this, Scholar has many tools that allow them to quickly heal incoming damage, most of which are off the global cooldown. This enables their cohealer to do their maximum possible damage at minimal loss.
 
 As a Scholar, you will be juggling a resource known as “Aetherflow”. You get three stacks every 60s, and they give you access to your most powerful abilities. These are your bread and butter abilities that will cover the overwhelming majority of your healing in raids. Each Aetherflow ability we use grants 10 Fairy Gauge, which can then be used to execute extra fairy abilities.
 
@@ -107,22 +115,22 @@ Basically, this job is absolutely bonkers when played properly. And getting good
 
 ## DPS GCDs
 
-![Broil3](/img/jobs/healers/scholar/Broil3.png)
+![Broil3](/img/jobs/healers/scholar/Broil3.png)  
 **Broil III**
 
 This is your predominant spell that you will cast most often during any given encounter. This is your filler DPS spell that you cast when your DoT is already ticking and nothing else needs to be done.
 
-![ArtOfWar](/img/jobs/healers/scholar/Art_Of_War.png)
+![ArtOfWar](/img/jobs/healers/scholar/Art_Of_War.png)  
 **Art Of War**
 
 This is the spell for AOE DPS. It has a base potency of 160.This is better than Broil III if there are two or more targets. It is instant, which gives you a little less than 2.5s to throw in things like Sacred Soil or Excogitation. Be wary of the MP cost associated with this though, as it adds up fairly quickly.
 
-![Ruin2](/img/jobs/healers/scholar/Ruin2.png)
+![Ruin2](/img/jobs/healers/scholar/Ruin2.png)  
 **Ruin II**
 
 Ruin II is your primary tool for weaving. It is an instant cast GCD, which means that you can use it to weave oGCDs. Generally, this gets used if we are forced to do extended movement away from the boss, or if oGCD skills need to be used that don’t align with our DoT reapplication. Using this instead of a Broil III cast is an 90 potency loss, so ideally we only use it to weave if the oGCD weaved saves a GCD heal for us or our cohealer. If you are going to Ruin II for the sake of a healing oGCD, it is good to try to also weave an Energy Drain in that specific GCD as this helps negate some of DPS loss.
 
-![Biolysis](/img/jobs/healers/scholar/Biolysis.png)
+![Biolysis](/img/jobs/healers/scholar/Biolysis.png)  
 **Biolysis**
 
 This is SCH’s DoT skill. The net potency of this over 30s is 700. It should be almost always ticking on the boss, with a few exceptions (more on this later). It is instant cast, which means the cast of it can be used to reposition yourself for incoming mechanics, and to weave. This must tick for 15s to have done more damage than a Broil III. For the sake of movement, clipping this DoT early at that 15s point can, in theory, be a gain, but it is preferred to allow it to tick for its full duration whenever possible. Every missed tick is 70 potency lost. Clipping it too many times can result in more than a Broil III lost in potency over a fight.
@@ -257,6 +265,7 @@ This skill is fairly self explanatory. This increases the rate at which the boss
 This action summons Seraph while removing Eos or Selene for the duration Sereph is on the field for. It is primarily used for Consolation, which can be used to replace Succor casts. Sereph also has a more powerful version of Embrace called Seraphic Veil. At the end of the duration, Seraph leaves and Eos/Selene return without having to be resummoned.
 
 ## Fairy Abillities
+
 **Note that all Fairy abilities originate from the Fairy, but must be command as an oGCD from the Scholar.**
 
 ![Embrace](/img/jobs/healers/scholar/Embrace.png)
@@ -416,9 +425,9 @@ If you are not comfortable using Dissipation, there is an opener that does not u
 
 The first is eloquently labeled as “Prepull Stuff”. There are three key actions to keep in mind for prepull preparations:
 
-- Recitation
-- Seraph
-- Mind boosting Potion/Infusion/Tincture
+* Recitation
+* Seraph
+* Mind boosting Potion/Infusion/Tincture
 
 Recitation allows us to use either a prepull crit Excog (since Recitation allows the use of the action without Aetherflow to spare it), or a prepull crit Adlo which we can then Deploy. Which one provides more gains is usually dependent on your group’s cooldown usage and the encounter, but just be wary that using Recitation prepull also means it will not be available for the first 75-80 seconds of a fight, depending on how snappy you are using it. Also keep in mind that using a Deploy prepull does NOT require a crit Adlo, and very frequently it is a better idea to simply Deploy prepull with some small crit fishing so that Recit is still up for a later damage intake within the first 80 seconds.
 
@@ -436,7 +445,7 @@ FFXIV revolves entirely around server ticks. Every 3 seconds the game will apply
 
 If the boss is about to leave the arena, it can be more beneficial to allow your DoTs to fall off.There are a few exceptions to this, such as O5s, but for the most part this is a consistent rule.
 
-- Biolysis must tick for 15s for it to be worth more than a Broil III.
+* Biolysis must tick for 15s for it to be worth more than a Broil III.
 
 This means that if your DoT can not get 15s duration before the boss leaves, it is not worth it to refresh. If you can’t get that time, then opt into pure Broil III spam. This is a small thing, but it adds up, especially when there are numerous times during an encounter when the boss leaves the arena.
 
@@ -710,12 +719,14 @@ The problem with Recitation is that it costs an oGCD slot to use in the first pl
 
 The preferred usage of Recitation is as follows-
 
-- Single Target
-  - Excogitation
-  - Adloquium
-- AOE
-  - Indomitability
-  - Succor
+* Single Target
+
+  * Excogitation
+  * Adloquium
+* AOE
+
+  * Indomitability
+  * Succor
 
 This is, of course, unless you need the shielding from Succor or Adlo to survive, in which case they take precedence. In terms of prepull, you get more healing value out of Recite Excog over Recite Adloquium. You can readily fish for a critlo prepull, too. Furthermore, because you don’t get the value out of the base heal on Adlo prepull, Excog ends with ~60 potency more value.
 
@@ -812,6 +823,7 @@ Raid buffs, like most other % increases, scale multiplicatively. This means that
 Scholar has one raid buff. Chain Stratagem increases the rate at which the target takes critical strikes by 10% for 15s.
 
 ![RaidCDsSheet](/img/jobs/healers/scholar/Raid_CDs_Sheet.png)
+
 > Image Courtesy of Jahadaunt
 
 ## Buff Alignment
@@ -863,6 +875,7 @@ The fourth and final instance of holding raid buffs is easier. If you are not go
 If this pull ends at 9:20-9:59, there is no possible way to gain another Chain Stratagem during the course of the encounter. The final Chain used only falls under Trick Attack. Holding this Chain an additional minute to get it with Battle Voice and Litany will result in higher damage overall than if it was used properly on cooldown with trick attack.
 
 Again, these changes need to be communicated with the party, as a delayed Chain will not be as effective if the party does not know that it is happening. This can be especially important for BRD, which wants to snapshot its DoTs in raid buffs.
+
 # Stat Priorities
 
 Your priority as you attempt to gear up is always going to go something like this:
@@ -979,4 +992,4 @@ A video of Momo going through two encounters from Omega: Alphascape speed runs a
 
 [Healer spreadsheets](https://docs.google.com/spreadsheets/d/1zHEUN5WXReg9FC9MOzt0DV5kjT6OVyVmR0UBZX2Mw64/edit?usp=sharing)
 
-My spreadsheets that were used in the process of making this guide. 
+My spreadsheets that were used in the process of making this guide.
