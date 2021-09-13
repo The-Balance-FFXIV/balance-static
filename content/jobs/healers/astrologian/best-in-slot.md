@@ -35,6 +35,18 @@ This makes MP significantly more reasonable than the above, but still has very h
 
 Best in Sloth, while not quite as high damage as the faster sets, is a safer option while still maintaining reasonbly high damage. It is for those who have high ping and find it hard to not clip with faster GCDs, or just want to be have some extra leeway for mana during weekly reclears.
 
+--- 
+
+# What about TEA BiS?  
+
+This honestly isn't a big deal, you can use your current gear and just go grab your Titan Savage weapon, if you can. You lose melds, sure, but it honestly isn't as bad as you'd think with new food and pots.
+
+But if you really do care and you think every little bit will help (which is a valid concern), then go into the spreadsheet (<https://docs.google.com/spreadsheets/d/1mRqbJtOESUzx-hblK_CZW3Qy7MWGupD1-fbka7BJSPI/edit#gid=566495409>) and go to the Patch 5.0 tab. Pick either of the non-Speedkill BiS's you like. You don't need too too much Piety for TEA - especially after 5.3 - but your Bruiser phase will like you better if you take some extra Piety. If you're feeling spicy you can take a speedkill-level BiS and probably be okay, but the DPS check in TEA is really not that tight and it's much better to play it safe for these kinds of encounters.
+
+Of also great note, certain pieces from The Heroes' Gauntlet are also valid pieces to take into account for your TEA BiS. The head, hands, pants, earring, and ring are all great pieces. You can mix and match as you see fit.
+
+And as always, take some super-ethers.
+
 - - -
 
 # FAQ
@@ -59,7 +71,7 @@ Read Zyrk's post :arrow_up: on melding, or read the AST guide on melding. Piety 
 
 > *What about TEA BiS?*
 
-Check out [this link]. The writeup is still word-for-word valid. Bring a bit more Piety though than the Max Damage BiS has this tier for prog, Bruiser phase is very painful on MP during progression.
+Scroll up! The writeup is still word-for-word valid. Bring a bit more Piety though than the Max Damage BiS has this tier for prog, Bruiser phase is very painful on MP during progression.
 
 > *What about the Do Not Even Look in Here set?*
 
