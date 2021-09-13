@@ -8,7 +8,7 @@ title: Skills Overview
 **Iron Will**  
 ![](https://xiv.sleepyshiba.com/pld/assets/skill-ironwill.png)
 
-Toggle • 10s cooldown after toggling on • no cooldown for toggling off
+Toggle • 10s cooldown after toggling on • No cooldown for toggling off
 
 Increases enmity generation by 10x (Enmity is also known as aggro, hate, etc.)
 
