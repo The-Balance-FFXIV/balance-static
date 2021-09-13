@@ -123,12 +123,12 @@ This is your predominant spell that you will cast most often during any given en
 ![ArtOfWar](/img/jobs/healers/scholar/Art_Of_War.png)  
 **Art Of War**
 
-This is the spell for AOE DPS. It has a base potency of 160.This is better than Broil III if there are two or more targets. It is instant, which gives you a little less than 2.5s to throw in things like Sacred Soil or Excogitation. Be wary of the MP cost associated with this though, as it adds up fairly quickly.
+This is the spell for AOE DPS. It has a base potency of 160. This is better than Broil III if there are two or more targets. It is instant, which gives you a little less than 2.5s to throw in things like Sacred Soil or Excogitation. Be wary of the MP cost associated with this though, as it adds up fairly quickly.
 
 ![Ruin2](/img/jobs/healers/scholar/Ruin2.png)  
 **Ruin II**
 
-Ruin II is your primary tool for weaving. It is an instant cast GCD, which means that you can use it to weave oGCDs. Generally, this gets used if we are forced to do extended movement away from the boss, or if oGCD skills need to be used that don’t align with our DoT reapplication. Using this instead of a Broil III cast is an 90 potency loss, so ideally we only use it to weave if the oGCD weaved saves a GCD heal for us or our cohealer. If you are going to Ruin II for the sake of a healing oGCD, it is good to try to also weave an Energy Drain in that specific GCD as this helps negate some of DPS loss.
+Ruin II is your primary tool for weaving. It is an instant cast GCD, which means that you can use it to weave oGCDs. Generally, this gets used if we are forced to do extended movement away from the boss, or if oGCD skills need to be used that don’t align with our DoT reapplication. Using this instead of a Broil III cast is a 90 potency loss, so ideally we only use it to weave if the oGCD weaved saves a GCD heal for us or our cohealer. If you are going to Ruin II for the sake of a healing oGCD, it is good to try to also weave an Energy Drain in that specific GCD as this helps negate some of the  DPS loss.
 
 ![Biolysis](/img/jobs/healers/scholar/Biolysis.png)  
 **Biolysis**
@@ -137,10 +137,10 @@ This is SCH’s DoT skill. The net potency of this over 30s is 700. It should be
 
 ## DPS oGCDs
 
-![EnergyDrain](/img/jobs/healers/scholar/Energy_Drain.png)
+![EnergyDrain](/img/jobs/healers/scholar/Energy_Drain.png)  
 **Energy Drain**
 
-Energy Drain is our primary tool for "dumping" excess Aetherflow stacks; we trade them in for damage and mana. As our only offensive oGCD, maximizing DPS means using this as often as you safely can in between instant cast spells like Biolysis or Ruin II. Givie priority to non-Aetherflow cooldowns when possible to reduce your Aetherflow usage. 
+Energy Drain is our primary tool for "dumping" excess Aetherflow stacks; we trade them in for damage and mana. As our only offensive oGCD, maximizing DPS means using this as often as you safely can in between instant cast spells like Biolysis or Ruin II. Give priority to non-Aetherflow cooldowns when possible to reduce your Aetherflow usage. 
 Any stacks that are not used on NECESSARY healing should be used on Energy Drain to maximize possible damage. Losing an Energy Drain for an Indom that saves you or your cohealer a GCD based heal is an absolute gain.
 
 ## Healing GCDs
@@ -148,33 +148,33 @@ Any stacks that are not used on NECESSARY healing should be used on Energy Drain
 ![Physick](/img/jobs/healers/scholar/Physick.png)
 **Physick**
 
-This is your first heal, a carry over from being an Arcanist. This is probably the worst heal in the Scholar kit and should be avoided if at all possible. The only time this should be used is when you don’t have other options available at the given time, and you’re out of MP. It has a 1.5s cast time, which means that it also allows one oGCD to be weaved after it with no loss or GCD clip.
+This is your first heal, a carry over from being an Arcanist. This is probably the worst heal in the Scholar kit and should be avoided, if at all possible. The only time this should be used is when you don’t have other options available at the given time, and you’re out of MP. It has a 1.5s cast time, which means that it also allows one oGCD to be weaved after it with no loss or GCD clip.
 
-![Adloquium](/img/jobs/healers/scholar/Adloquium.png)
+![Adloquium](/img/jobs/healers/scholar/Adloquium.png)  
 **Adloquium**
 
-Often referred to as “Adlo,” this is one of the most influential abilities Scholar has. This spell heals the target for 300 potency, then adds a shield, called Galvanize, equaling 125% of the amount healed (so, 375 shield potency). A critical Adloquium will then also apply an additional shield, called Catalyze, which is equal to an additional 125% of the value healed (thus, another 375 potency). In total, a critical Adlo does 300 healing potency and 750 shield potency. The Galvanize shield can be deployed to the entire party, while the Catalyze shield can not. It is generally not worth fishing for a critical Adloquium.
+Often referred to as “Adlo,” this is one of the most influential abilities Scholar has. This spell heals the target for 300 potency, then adds a shield, called Galvanize, equaling 125% of the amount healed (so, 375 shield potency). A critical Adloquium will then also apply an additional shield, called Catalyze, which is equal to an additional 125% of the value healed (thus, another 375 potency). In total, a critical Adlo does 300 healing potency and 750 shield potency. The Galvanize shield can be deployed to the entire party, while the Catalyze shield cannot. It is generally not worth fishing for a critical Adloquium.
 
-MP wise, this ability is pretty pricey. Notably, the Galvanize shield does not stack with Astrologian’s Nocturnal Field, however the Catalyze shield does. If you have a 10,000 hp Galvanize shield, it will be overwritten by a 500 hp Nocturnal shield applied after it. The Catalyze will remain untouched, however.
+MP wise, this ability is pretty pricey. Notably, the Galvanize shield does not stack with Astrologian’s Nocturnal Field, however, the Catalyze shield does. If you have a 10,000 hp Galvanize shield, it will be overwritten by a 500 hp Nocturnal shield applied after it. The Catalyze will remain untouched, however.
 
 There are specific circumstances that using Adlo is fantastic, but generally we attempt to avoid using this skill if at all possible. It is harsh on our MP, and generally the mitigation from shields is not required for survival, making it a total loss.
 
-In progression, it can be used to cushion tank busters, especially before tanks have their cooldowns properly mapped out. Other than that, its generally only used as a tool with Deployment Tactics. Rarely, spreading an Adlo can be used to “cheese” mechanics that your party would otherwise die from. Even in this case, fishing for a Critlo CAN be done, but it is generally not advised, as it results in a lot of lost damage and costs a ton of MP. 
+In progression, it can be used to cushion tank busters, especially before tanks have their cooldowns properly mapped out. Other than that, its generally only used as a tool with Deployment Tactics. Rarely, spreading an Adlo can be used to “cheese” mechanics that your party would otherwise die from. Even in this case, fishing for a crit Adlo (Critlo) CAN be done, but it is generally not advised, as it results in a lot of lost damage and costs a ton of MP. 
 
 Recitation can be used to force a critical Adloquium, which can then in turn be used to deploying the larger Galvanize. However, forcing a critical Adlo requires not only casting a GCD heal instead of a Broil, but also requires the two oGCD weaves, Recitation and Deployment tactics, to be executed in two separate weave windows.
 
-![Succor](/img/jobs/healers/scholar/Succor.png)
+![Succor](/img/jobs/healers/scholar/Succor.png)  
 **Succor**
 
-This is Scholar’s only GCD heal for AOE healing. It is also a fairly weak heal, with only 180 raw healing potency. That said, it provides a 225 potency shield on top of its raw healing. In total Succor provides 405 potency of healing, and when used with Emergency Tactics it becomes 405 potency of raw healing. Spamming this too often is extremely taxing on both your MP and DPS. 
+This is Scholar’s only GCD heal for AoE healing. It is also a fairly weak heal, with only 180 raw healing potency. That said, it provides a 225 potency shield on top of its raw healing. In total Succor provides 405 potency of healing, and when used with Emergency Tactics it becomes 405 potency of raw healing. Spamming this too often is extremely taxing on both your MP and DPS. 
 
-Ideally, Succor should be avoided in favor of other less costly options, such as Indomitability. However, there are times where shielding is necessary. Some examples of this are when the party won’t survive without shielding, or when the party has to be at 100% HP. It also is beneficial mechanics that drop players to one hp, as those do not eat shields like they do player hp. 
+Ideally, Succor should be avoided in favor of other less costly options, such as Indomitability. However, there are times where shielding is necessary. Some examples of this are when the party won’t survive without shielding, or when the party has to be at 100% HP. It also is beneficial for mechanics that drop players to one HP, as those do not eat shields like they do player HP. 
 
 As of Shadowbringers, with the addition of Seraph we now have an oGCD option that can potentially replace Succor. And, with this current state of the job, there are many options that are outright better than Succor, such as Consolation or Sacred Soil. Both of these are comparatively only an 90 potency loss (This loss is from using a Ruin II to weave, instead of a Broil III). This beats out the cost of using Succor, which loses the Scholar 290 potency from losing an entire Broil III.
 
 ## Healing oGCDs
 
-![Lustrate](/img/jobs/healers/scholar/Lustrate.png)
+![Lustrate](/img/jobs/healers/scholar/Lustrate.png)  
 **Lustrate**
 
 This is a single target heal that is off the global cooldown. It increases your fairy gauge by 10, as using any Aetherflow abilities does. This is a 600 potency heal which is fairly powerful. This only heals a single target, but has more potency than any of your GCD based single target heals. However, generally it is preferred that Excogitation be used over Lustrate as Excogitation has a greater potency. Lustrate is still a powerful button in case someone takes an unnecessary hit, or you need some emergency tank healing when alternatives are on cooldown. 
