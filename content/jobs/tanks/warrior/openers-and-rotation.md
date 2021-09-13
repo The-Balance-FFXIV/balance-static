@@ -1,11 +1,11 @@
 ---
 title: Openers and Rotation
 ---
-# Warrior Openers and Rotation
+https://guides.xivresources.com/jobs/tanks/warrior/how-to-fell-cleave-an-angry-wannabe-healer-also-known-as-warrior-5-0-the-guide/https://guides.xivresources.com/jobs/tanks/warrior/how-to-fell-cleave-an-angry-wannabe-healer-also-known-as-warrior-5-0-the-guide/# Warrior Openers and Rotation
 
 ## Opener Optimization
 
-At present there is only a single worthy opener for Warriors, mainly because we want to get Inner Release on cooldown as soon as possible to maximize its usage, and because we can fit an extra Fell Cleave inside the potion by abusing Inner Release’s +15s Eye extension mechanics.
+At present, there is only a single worthy opener for Warriors, mainly because we want to get Inner Release on cooldown as soon as possible to maximize its usage, and because we can fit an extra Fell Cleave inside the potion by abusing Inner Release’s +15s Eye extension mechanics.
 
 ### IC IR IC IC Opener
 
@@ -19,11 +19,11 @@ If you are facepulling, move the Infuriate forward by a GCD, right after Heavy S
 
 Defiance and Tomahawk is enough to keep an enmity lead if you are main tanking. 
 
-Equilibrium and Provoke can be used during the opener for a flat increase in enmity if you are pulling the boss and will keep Main tanking the boss after the pull. As mentioned earlier, as of patch 5.0 Defiance and Tomahawk provides enough enmity and it is better to use Equilibrium for healing and Provoke for tank swaps.
+Equilibrium and Provoke can be used during the opener for a flat increase in enmity if you are pulling the boss and will keep Main tanking the boss after the pull. As mentioned earlier, as of patch 5.0, Defiance and Tomahawk provides enough enmity and it is better to use Equilibrium for healing and Provoke for tank swaps.
 
 ## Rotation Optimization
 
-The basic rotation in a 100% uptime scenario is generously put a priority list:
+The basic rotation in a 100% uptime scenario is, generously put, a priority list:
 
 * Keep Storm’s Eye up and refresh it below 15 seconds.
 * Keep Upheaval on cooldown.
@@ -41,4 +41,4 @@ With the combo timer being extended to 15 seconds, combos can carry over Inner R
 
 ## Further Reading
 
-For more help regarding Warrior rotations; please check out the Warrior Guide [here]
+For more help regarding Warrior rotations; please check out the Warrior Guide [he<https://guides.xivresources.com/jobs/tanks/warrior/how-to-fell-cleave-an-angry-wannabe-healer-also-known-as-warrior-5-0-the-guide/>re]
