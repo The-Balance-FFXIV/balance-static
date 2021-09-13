@@ -115,29 +115,29 @@ Basically, this job is absolutely bonkers when played properly. And getting good
 
 ## DPS GCDs
 
-![Broil3](/img/jobs/healers/scholar/Broil3.png)  
+![Broil3](/img/jobs/healers/scholar/Broil3.png)\
 **Broil III**
 
 This is your predominant spell that you will cast most often during any given encounter. This is your filler DPS spell that you cast when your DoT is already ticking and nothing else needs to be done.
 
-![ArtOfWar](/img/jobs/healers/scholar/Art_Of_War.png)  
+![ArtOfWar](/img/jobs/healers/scholar/Art_Of_War.png)\
 **Art Of War**
 
 This is the spell for AOE DPS. It has a base potency of 160. This is better than Broil III if there are two or more targets. It is instant, which gives you a little less than 2.5s to throw in things like Sacred Soil or Excogitation. Be wary of the MP cost associated with this though, as it adds up fairly quickly.
 
-![Ruin2](/img/jobs/healers/scholar/Ruin2.png)  
+![Ruin2](/img/jobs/healers/scholar/Ruin2.png)\
 **Ruin II**
 
 Ruin II is your primary tool for weaving. It is an instant cast GCD, which means that you can use it to weave oGCDs. Generally, this gets used if we are forced to do extended movement away from the boss, or if oGCD skills need to be used that don’t align with our DoT reapplication. Using this instead of a Broil III cast is a 90 potency loss, so ideally we only use it to weave if the oGCD weaved saves a GCD heal for us or our cohealer. If you are going to Ruin II for the sake of a healing oGCD, it is good to try to also weave an Energy Drain in that specific GCD as this helps negate some of the  DPS loss.
 
-![Biolysis](/img/jobs/healers/scholar/Biolysis.png)  
+![Biolysis](/img/jobs/healers/scholar/Biolysis.png)\
 **Biolysis**
 
 This is SCH’s DoT skill. The net potency of this over 30s is 700. It should be almost always ticking on the boss, with a few exceptions (more on this later). It is instant cast, which means the cast of it can be used to reposition yourself for incoming mechanics, and to weave. This must tick for 15s to have done more damage than a Broil III. For the sake of movement, clipping this DoT early at that 15s point can, in theory, be a gain, but it is preferred to allow it to tick for its full duration whenever possible. Every missed tick is 70 potency lost. Clipping it too many times can result in more than a Broil III lost in potency over a fight.
 
 ## DPS oGCDs
 
-![EnergyDrain](/img/jobs/healers/scholar/Energy_Drain.png)  
+![EnergyDrain](/img/jobs/healers/scholar/Energy_Drain.png)\
 **Energy Drain**
 
 Energy Drain is our primary tool for "dumping" excess Aetherflow stacks; we trade them in for damage and mana. As our only offensive oGCD, maximizing DPS means using this as often as you safely can in between instant cast spells like Biolysis or Ruin II. Give priority to non-Aetherflow cooldowns when possible to reduce your Aetherflow usage. 
@@ -150,7 +150,7 @@ Any stacks that are not used on NECESSARY healing should be used on Energy Drain
 
 This is your first heal, a carry over from being an Arcanist. This is probably the worst heal in the Scholar kit and should be avoided, if at all possible. The only time this should be used is when you don’t have other options available at the given time, and you’re out of MP. It has a 1.5s cast time, which means that it also allows one oGCD to be weaved after it with no loss or GCD clip.
 
-![Adloquium](/img/jobs/healers/scholar/Adloquium.png)  
+![Adloquium](/img/jobs/healers/scholar/Adloquium.png)\
 **Adloquium**
 
 Often referred to as “Adlo,” this is one of the most influential abilities Scholar has. This spell heals the target for 300 potency, then adds a shield, called Galvanize, equaling 125% of the amount healed (so, 375 shield potency). A critical Adloquium will then also apply an additional shield, called Catalyze, which is equal to an additional 125% of the value healed (thus, another 375 potency). In total, a critical Adlo does 300 healing potency and 750 shield potency. The Galvanize shield can be deployed to the entire party, while the Catalyze shield cannot. It is generally not worth fishing for a critical Adloquium.
@@ -163,7 +163,7 @@ In progression, it can be used to cushion tank busters, especially before tanks 
 
 Recitation can be used to force a critical Adloquium, which can then in turn be used to deploying the larger Galvanize. However, forcing a critical Adlo requires not only casting a GCD heal instead of a Broil, but also requires the two oGCD weaves, Recitation and Deployment tactics, to be executed in two separate weave windows.
 
-![Succor](/img/jobs/healers/scholar/Succor.png)  
+![Succor](/img/jobs/healers/scholar/Succor.png)\
 **Succor**
 
 This is Scholar’s only GCD heal for AoE healing. It is also a fairly weak heal, with only 180 raw healing potency. That said, it provides a 225 potency shield on top of its raw healing. In total Succor provides 405 potency of healing, and when used with Emergency Tactics it becomes 405 potency of raw healing. Spamming this too often is extremely taxing on both your MP and DPS. 
@@ -174,7 +174,7 @@ As of Shadowbringers, with the addition of Seraph, we now have an oGCD option th
 
 ## Healing oGCDs
 
-![Lustrate](/img/jobs/healers/scholar/Lustrate.png)  
+![Lustrate](/img/jobs/healers/scholar/Lustrate.png)\
 **Lustrate**
 
 This is a single target heal that is off the global cooldown. It increases your fairy gauge by 10, as using any Aetherflow ability does. This is a 600 potency heal, which is fairly powerful. This only heals a single target, but has more potency than any of your GCD-based single target heals. However, generally it is preferred that Excogitation be used over Lustrate, as Excogitation has a greater potency. Lustrate is still a powerful button in case someone takes an unnecessary hit, or you need some emergency tank healing when alternatives are on cooldown. 
@@ -183,15 +183,14 @@ Lustrate is still very useful. It has the added benefit of a 1.00s recast, which
 
 This is also the go-to button for burning unnecessary Aetherflow stacks during downtime for free gauge. 
 
-![Indomitability](/img/jobs/healers/scholar/Indomitability.png)  
+![Indomitability](/img/jobs/healers/scholar/Indomitability.png)\
 **Indomitability**
 
 This skill is one of the reasons why Scholar is such a powerful job. It increases your fairy gauge by 10, and it costs an Aetherflow stack to use. The net heal from this is 3,200 potency across an entire entire person party -- 400 raw healing potency done per person. This is extremely powerful, and with a short 30s cooldown, it is available for most raidwide hits. 
 
-
 This is your strongest source of AOE burst healing. It is vastly superior to casting Succor. As an oGCDs it only needs to be weaved with Ruin II or clipped into Broil for minimal DPS loss. Since Indom is instant, when the skill is weaved, it allows you to heal while moving. You still lose potency from not using Energy Drain with that Aetherflow stack, but that becomes a gain if it saves a GCD heal from either healer.
 
-![Excogitation](/img/jobs/healers/scholar/Excogitation.png)  
+![Excogitation](/img/jobs/healers/scholar/Excogitation.png)\
 **Excogitation**
 
 Excogitation, or Excog for short, is one of the most powerful single target heals in Scholar’s entire kit. As another aetherflow-tied heal, it again increases your fairy gauge by 10 when used. This ability heals for 800 potency when procced, and the proc occurs when your target drops below 50% of their health, or automatically heals them if the timer runs out. This is an incredibly useful tool and virtually foolproof. Unless the tank is full health, you will ALWAYS get something out of Excog. This is useful for healing tanks out of Holmgang or Living Dead, as well as immediate healing after a large tank buster. If a tank is at low health, Excog can be used to quickly give a large burst of HP. 
@@ -200,7 +199,7 @@ Excogitation is interesting in that it can be used pre-emptively to heal somethi
 
 It is also worth noting that this will not proc and heal someone through a hit that will kill them, a “one shot.” If they have 51% health and take a tank buster that is more than 51% of health, Excog will not stop their death. In such a case, opt to use Lustrate beforehand to get their health up. 
 
-![EmergencyTactics](/img/jobs/healers/scholar/Emergency_Tactics.png)  
+![EmergencyTactics](/img/jobs/healers/scholar/Emergency_Tactics.png)\
 **Emergency Tactics**
 
 Emergency Tactics has a worse reputation than it deserves. This skill turns your next cast of Succor or Adlo into a completely raw heal. The healing potency that would have cone to the shield becomes direct healing, as long as it is cast within the 15s duration of this buff. This means that it essentially turns Adlo into a 675 potency heal and Succor into a 405 potency heal. This is fairly useful if your cohealer dies during progression and you need to utilize back to back succors - the first one can be a normal succor, while you use ET on the second to get the full potency of the heal without losing any potency to shielding that already exists on the party. Paired with Adlo, it can be used to assist in breaking a Dark Knight out of Walking Dead.
@@ -209,7 +208,7 @@ Another added benefit of Emergency Tactics is that by turning the shield into a 
 
 This is also extremely good for instances of mechanics that bring the party to one hp; it can be combined with an Indom for a rather insane burst heal. This and Indom are the primary methods of burst AOE healing for Scholar. The name really describes this skill; it is used in emergencies for a burst heal.
 
-![AetherpactFeyUnion](/img/jobs/healers/scholar/Aetherpact_&_Fey_Union.png)  
+![AetherpactFeyUnion](/img/jobs/healers/scholar/Aetherpact_&_Fey_Union.png)\
 **Aetherpact & Fey Union**
 
 These two go together because they are quite literally the same ability. Aetherpact is the command from the Scholar and Fey Union is the ability executed by the Fairy. This will tether Eos/Selene onto your target, funneling a powerful heal over time onto them while draining 10 gauge every three seconds. While it’s listed as 400 potency, this heal is subject to pet scaling, which means it’s actually worth about 256 potency per tick. 
@@ -218,7 +217,7 @@ This is a useful tool that can be used to greatly cut down on healer GCDs that a
 
 Note that using any of the fairy’s other abilities will break the tether. Another way to cancel Fey Union early is to cast Aetherpact again. Aetherpact is subject to an oGCD slot. Notably, the fairy cannot move while casting this ability, but if it is cast on a target that is out of range, the fairy will move into range to execute this skill.
 
-![FeyBlessing](/img/jobs/healers/scholar/Fey_Blessing.png)  
+![FeyBlessing](/img/jobs/healers/scholar/Fey_Blessing.png)\
 **Fey Blessing**
 
 Fey blessing has a resource lock similar to Fey Union, as it costs 10 fairy gauge. It heals for approximately 224 potency in a 20y area around the fairy. (224 potency is the adjusted pet scaling potency). While seemingly weak, it’s very effective due to its lower opportunity cost. If you need an AOE burst heal for fast healing, pairing this with Indomitability will be strong. It will also be useful if Indom is on cooldown. Outside of that, this isn’t a major priority. 
@@ -227,7 +226,7 @@ Blessing also has the advantage of a massive range. At 20y, it can hit everyone 
 
 Think of Fey Blessing as a supplementary heal. Its best usages are when paired with other oGCD options. It is useful if you need to save something like Sacred or Whispering Dawn for later. 
 
-![Consolation](/img/jobs/healers/scholar/Consolation.png)  
+![Consolation](/img/jobs/healers/scholar/Consolation.png)\
 **Consolation**
 
 This is an ability for Seraph. It is cast by the Scholar in much the same way that Fey Blessing and Fey Union are. Its adjusted potency is actually 192 due to pet scaling, while listed as 300 listed potency. This action will also erect a barrier equaling the amount of HP restored. (192 potency). Thus, the total heal potency of the skill is 384. This barrier is different from Galvanize and Catalyze, and thus stacks with other shields, including shields from Astrologian.
@@ -238,30 +237,30 @@ This action is useful for saving a GCD that would have otherwise been a Succor. 
 
 ## Utility Spells/Abilities
 
-![Resurrection](/img/jobs/healers/scholar/Resurrection.png)  
+![Resurrection](/img/jobs/healers/scholar/Resurrection.png)\
 **Resurrection**
 
 Fairly self explanatory, the function of this action is something possessed by every healer as well as Red Mage and Summoner. Generally, you want to avoid slow casting Resurrection if at all possible, instead pair with Swiftcast to minimize the cast time loss. That said, don’t leave a DPS down for a significant portion of your time waiting for your swiftcast to come back. 
 MP wise this is also really pricey. If you have a RDM/SMN, see if they can get the raise first, especially in progression settings, as it really snowballs your MP to cast raises.
 
-![SacredSoil](/img/jobs/healers/scholar/Sacred_Soil.png)  
+![SacredSoil](/img/jobs/healers/scholar/Sacred_Soil.png)\
 **Sacred Soil**
 
 Sacred Soil is another use for your Aetherflow stacks. Using it increases your fairy gauge by 10. This skill was massively reworked in terms of use and effectiveness in Shadowbringers. It now provides 600 potency of healing over time, including the 100p initial tick and a 10% mitigation for 15s. Plus, it’s recast time is a very short 30s. This means that you could, in theory, have 50% uptime on a powerful HoT and damage mitigation skill. This ability is also useful to use on duo tank busters for mitigation and maintenance afterwards. 
 
 Sacred Soil in Shadowbringers now is just really good. That said, there are still a few downsides to using it. For example, if the party is going to have to leave the radius of the bubble, you would have been better off using other tools, such as Whispering Dawn. However, it’s also not worth it to go out of your way to use it on cooldown. If you have a free oGCD slot, the only downside to throwing out a sacred is losing an Energy Drain. The potency of this ability outweighs that of Whispering Dawn, which is pretty bonkers.
 
-![DeploymentTactics](/img/jobs/healers/scholar/Deployment_Tactics.png)  
+![DeploymentTactics](/img/jobs/healers/scholar/Deployment_Tactics.png)\
 **Deployment Tactics**
 
 This is one of the strongest tools in Scholar’s kit. This can be used to spread the effect of a Galvanize from one target to the rest of the party. (Assuming they are within a 10y radius of the target). I will not spread a Catalyze buff. This skill is used to heavily mitigate incoming damage, usually by casting an Adlo onto someone like a tank with healing up buffs, or a DPS or yourself, and then sending it to the entire party.
 
-![ChainStratagem](/img/jobs/healers/scholar/Chain_Stratagem.png)  
+![ChainStratagem](/img/jobs/healers/scholar/Chain_Stratagem.png)\
 **Chain Stratagem**
 
 This skill is fairly self explanatory. This increases the rate at which the boss will take crits from your entire party (or alliance) by 10%. This is another aspect of Scholar’s kit that makes it so powerful. This skill gets used in the opener, and then is used on cooldown, with rare exceptions. With a 120s cooldown, it lines up naturally with Trick Attack and every other major raid buff. Be sure to communicate with your team when this skill is coming up. There are some niche times that Chain gets delayed, which will be discussed later. It should be noted that this increases the rate at which you have a chance to crit, but it does not affect the multiplier on critical hit damage.
 
-![SummonSeraph](/img/jobs/healers/scholar/Summon_Seraph.png)  
+![SummonSeraph](/img/jobs/healers/scholar/Summon_Seraph.png)\
 **Summon Seraph**
 
 This action summons Seraph while removing Eos or Selene for the duration Seraph is on the field for. It is primarily used for Consolation, which can be used to replace Succor casts. Seraph also has a more powerful version of Embrace called Seraphic Veil. At the end of the duration, Seraph leaves and Eos/Selene return without having to be resummoned.
@@ -270,38 +269,38 @@ This action summons Seraph while removing Eos or Selene for the duration Seraph 
 
 **Note that all Fairy abilities originate from the Fairy, but must be command as an oGCD from the Scholar.**
 
-![Embrace](/img/jobs/healers/scholar/Embrace.png)  
+![Embrace](/img/jobs/healers/scholar/Embrace.png)\
 **Embrace**
 
 This is your pet’s primary ability. Embrace got a fairly significant potency reduction this expansion, making it much less effective healing wise. The fairy is programmed to spam this ability every 3s on anyone below 100% health.  It will prioritize the Scholar over anyone else, as their death kills the fairy. This ability is subject to pet scaling. The actual potency on this ability is around 96. 
 
-![WhisperingDawn](/img/jobs/healers/scholar/Whispering_Dawn.png)  
+![WhisperingDawn](/img/jobs/healers/scholar/Whispering_Dawn.png)\
 **Whispering Dawn**
 
 This ability is a very useful AOE heal over time action. It has seven ticks of 120 potency over 21s, for a total of 840 potency. This is subject to fairy scaling though, which means it has an actual potency of 537.6. This is useful for healing the party during mechanic lulls if there is no raid damage coming. 
 
 Whispering Dawn is now considered an oGCD for the Scholar, which means that it must be weaved.. Because other AOE healing options cost an Energy Drain, Whispering Dawn is the “Free-est” AOE heal that Scholar has. It costs 90 potency from a Ruin II weave, but that can be negated when you can weave it in a Biolysis window. Whispering Dawn will likely be the go to choice if other options are down and/or the party is required to move for mechanics as the buff stays on party members regardless of their location, unlike sacred soil.
 
-![FeyIllumination](/img/jobs/healers/scholar/Fey_Illumination.png)  
+![FeyIllumination](/img/jobs/healers/scholar/Fey_Illumination.png)\
 **Fey Illumination**
 
 This increases the amount of healing from healing spells (GCDs only) done by those who receive this buff. Having the fairy execute this action will buff all eight party members AND the fairy. However as said, this does not buff oGCD heals so it does not affect abilities such as Lustrate, Excog, Fey Union, or Indom. It also reduced party magic damage taken by 5%.
 
 This ability doesn’t buff many heals in the SCH’s kit, but is very useful for buffing your cohealers GCD heals, and it will buff your Fairy’s auto heal, Embrace or Seraphic Veil. Communicate the best usages of Fey Illumination with your team to maximize its benefit. It can be stacked with other heal increases such as Mantra for a multiplicatively powerful shield or regen. Under high pressure of lethal AOE damage, this ability will be very useful to boost your succor or adloquium values, while also providing a small amount of additional mitigation.
 
-![SeraphicVeil](/img/jobs/healers/scholar/Seraphic_Veil.png)  
+![SeraphicVeil](/img/jobs/healers/scholar/Seraphic_Veil.png)\
 **Seraphic Veil**
 
 Seraphic Veil replaces Embrace when Seraph is active. It is a 200 potency heal with a shield that equals the amount healed. Due to pet potency, the actual value of the heal is around 128. This means that the total combined potency per Seraphic Veil is 256. The shield from this spell does stack with Galvanize and Catalyze but NOT with Consolation. 
 
 You can somewhat think of Seraphic Veil as a temporarily buffed embrace. However, the main problem with Seraphic Veil is the same as the one with Embrace; you can not choose who she uses Seraphic Veil on. This means that after a raid wide hit, she may choose anyone to Veil, even if the previous shield isn’t used.
 
-![AngelsWhisper](/img/jobs/healers/scholar/Angels_Whisper.png)  
+![AngelsWhisper](/img/jobs/healers/scholar/Angels_Whisper.png)\
 **Angel’s Whisper**
 
 This is literally the same as Whispering Dawn.
 
-![SeraphicIllumination](/img/jobs/healers/scholar/Seraphic_Illumination.png)  
+![SeraphicIllumination](/img/jobs/healers/scholar/Seraphic_Illumination.png)\
 **Seraphic Illumination**
 
 This is literally the same as Fey Illumination.
@@ -310,18 +309,18 @@ Note that the reason why they are of the same value is to give accessibility to 
 
 ## Other Abilities
 
-![Aetherflow](/img/jobs/healers/scholar/Seraphic_Illumination.png)  
+![Aetherflow](/img/jobs/healers/scholar/Seraphic_Illumination.png)\
 **Aetherflow**
 
 This ability does not heal or DPS directly, but enables your entire kit to function by giving you stacks of Aetherflow. This also restores 1000 MP, so it also functions as an MP management tool. All stacks should be used before recasting Aetherflow. This ability should always be on cooldown as holding onto it for too long becomes a DPS loss.
 
 ![SummonEos](/img/jobs/healers/scholar/Summon_Eos.png)
-![SummonSelene](/img/jobs/healers/scholar/Summon_Selene.png)  
+![SummonSelene](/img/jobs/healers/scholar/Summon_Selene.png)\
 **Summon Eos / Selene**
 
 This spell summons the fairy to your side, in either her Selene or Eos stance. Both do exactly the same thing. Choose whichever you think looks prettier.
 
-![Dissipation](/img/jobs/healers/scholar/Dissipation.png)  
+![Dissipation](/img/jobs/healers/scholar/Dissipation.png)\
 **Dissipation**
 
 Dissipation functions as the way Scholars can increase the healing on their GCD heals. It will also grant three stacks of Aetherflow. Once Dissipation is cast, you will not have access to the Fairy for 30s, but will have 20% higher healing on your GCD based heals. After 30s, the fairy will automatically return to your side. If you need a strong Adlo or Succor barrier, Dissipation will be the primary way that scholars are able to buff it.  
@@ -330,7 +329,7 @@ However, losing the fairy can be detrimental. At most, you can lose 1,050 potenc
 
 The fairy returning automatically after 30s also means that this works as a DPS tool.  Dissipation can be cast almost on cooldown for damage.
 
-![Recitation](/img/jobs/healers/scholar/Recitation.png)  
+![Recitation](/img/jobs/healers/scholar/Recitation.png)\
 **Recitation**
 
 Recitation is a new ability from Shadowbringers. Using this oGCD will guarantee that your net Succor, Adloquium, Excogitation, or Indom will land as a crit. This ability also guarantees that they will consume no resources, neither mp nor Aetherflow stacks. 
@@ -343,32 +342,32 @@ Recitation does take up an oGCD slot to use. Ideally to use it, aim to weave it 
 
 ## Role Actions
 
-![Repose](/img/jobs/healers/scholar/Repose.png)  
+![Repose](/img/jobs/healers/scholar/Repose.png)\
 **Repose**
 
 This puts an enemy to sleep. It does not work on any notable bosses, and enemies are awakened after a single hit. This can be safely removed to free hotbar space. The only time this is really applicable is in Eureka or in overworld content.
 
-![Esuna](/img/jobs/healers/scholar/Esuna.png)  
+![Esuna](/img/jobs/healers/scholar/Esuna.png)\
 **Esuna**
 
 This has usages inside of dungeons more than anything. It can be used to cleanse certain debuffs that have a white bar with the debuff icon. This is relatively niche in a raid setting, used only for key mechanics.
 
-![LucidDreaming](/img/jobs/healers/scholar/Lucid_Dreaming.png)  
+![LucidDreaming](/img/jobs/healers/scholar/Lucid_Dreaming.png)\
 **Lucid Dreaming**
 
 This is your primary way of regenerating MP. It will slowly tick up mana over its duration. MP will tick every 3s, on the server tick. Use it on cooldown with your second Biolysis refresh and on cooldown afterwards. Remember that Ruin 2 and Broil 3 do consume your MP as often as your other spells do. Under heavy healing with Succors and Adloquiums, this ability needs to be on cooldown to minimize the lack of MP or the need to meld Piety.
 
-![Swiftcast](/img/jobs/healers/scholar/Swiftcast.png)  
+![Swiftcast](/img/jobs/healers/scholar/Swiftcast.png)\
 **Swiftcast**
 
 Swiftcast is one of your most important role actions. This allows you to instantly cast the next spell. This is a tool for movement, and weaving. Using it after a Ruin II for long movement allows you to avoid using a second Ruin II. It is also used to create even more opportunities to weave. If used after Ruin II, the next Broil  cast can also allow for a double weave. Potentially, this action can save a Ruin II use. It should also be used to quickly revive a fallen ally and can be used to quickly get a heal out before a coming mechanic.
 
-![Surecast](/img/jobs/healers/scholar/Surecast.png)  
+![Surecast](/img/jobs/healers/scholar/Surecast.png)\
 **Surecast**
 
 Surecast can be used to prevent most knockback and pull effects. This will prevent you from being interrupted  during most knockback mechanics. (Or prevents you from having to use Ruin II as you get knocked back to minimize the loss).
 
-![Rescue](/img/jobs/healers/scholar/Rescue.png)  
+![Rescue](/img/jobs/healers/scholar/Rescue.png)\
 **Rescue**
 
 This is an interesting role action. There are some fight strategies designed to require it, such as Unreal Hello, World in Final Omega. This will pull the target party member to your position. There are a few more usages for this skill that will be touched upon later. 
@@ -475,7 +474,7 @@ Clipping Broil can be better than single weaving with Ruin II depending on your 
 
 Biolysis allows you to weave, but it’s a lot less flexible than these other options. Weave with it when you’re naturally applying the DoT. You should generally never hold it to give yourself an opportunity to weave. However, when it is going to fall off of the boss and needs to be renewed, it takes first priority for weaving.
 
-Swiftcasting Broil III can be used to give yourself an extra slot to weave. Doing Ruin II (any abil itdy   +Swiftcast)-> Broil III (any ability+any ability)) is extremely useful for maximizing your potential damage. It effectively turns a double weave into a chance to weave three oGCDs between those two skills.
+Swiftcasting Broil III can be used to give yourself an extra slot to weave. Doing Ruin II (any ability + Swiftcast)-> Broil III (any ability + any ability) is extremely useful for maximizing your potential damage. It effectively turns a double weave into a chance to weave three oGCDs between those two skills.
 
 # How the Fairy Works
 
@@ -515,7 +514,7 @@ It is not uncommon for Fey Blessing to ghost when weaved with Fey Illumination o
 
 The fairy will wait to finish movement before she casts the ability you commanded. This usually isn’t too much of a problem if you place her. If you don’t, it can cause a few seconds delay before she executes the action you commanded her to do.
 
-If you double weave fairy actions, the second can take a long time to execute. This can be used in your favor but is often just an annoyance. There are times when you double weave where the second action will take upwards of four seconds to execute. 
+If you double weave fairy actions, the second can take a long time to execute. This can be used in your favor, but is often just an annoyance. There are times when you double weave where the second action will take upwards of four seconds to execute. 
 
 # Opportunity Costs
 
@@ -543,7 +542,7 @@ It is important for you as a Scholar to understand some of the basics of your co
 
 Both healers should be working together to maximize the overall contribution to raid DPS. This means using whatever has the lowest opportunity cost to benefit you and your cohealer. Taking a potency loss from using an Indom can result in a net gain if it prevented your cohealer from casting a GCD to heal.
 
-If forced to do a Ruin II weaved Aetherflow heal, a Scholar loses 190 potency, a very sizable amount. This is 90 potency from Ruin II and 100 from losing Energy Drain.That being said, it is still better to do this if it saves an AST a GCD heal, as gaining a whole malefic is a 60 potency swing in their favor. (250 potency Malefic-190 Ruin II+Indom).
+If forced to do a Ruin II weaved Aetherflow heal, a Scholar loses 190 potency, a very sizable amount. This is 90 potency from Ruin II and 100 from losing Energy Drain. That being said, it is still better to do this if it saves an AST a GCD heal, as gaining a whole malefic is a 60 potency swing in their favor. (250 potency Malefic-190 Ruin II+Indom).
 
 Healing is all about minimizing losses. On Scholar, eating the 100 potency loss from Energy Drain can result in a gain for your cohealer, which in turn is a gain for overall raid DPS. With both healers minimizing losses, the increase in raid DPS is massive. This results in much better kill times and more comfortable clears. 
 
@@ -613,13 +612,13 @@ Shielding in its most basic sense acts as an extension of our own health. This m
 
 For Scholar, we have several methods of shielding. Adloquium heals for 300 potency and then provides a shield equalling 125% the amount healed. If it crits, an additional shield is applied for an extra 125% of what was healed. Succor shields for 125% of the value healed, so a 180 heal and a 225 potency shield. A succor that heals for 4,500 will have a 5,625 shield, whereas an Adloquium that heals for 10,000 will only have a 12,500 shield, unless it crits. Consolation and Seraphic Veil each apply shields equaling their respective values.
 
-Shielding has a few interesting aspects to note. One of which is the delay before a shield actually applies to party members. This can be to both the Scholar’s benefit or their detriment. If Succor is cast too late, the delay on the shield may mean that it won’t take effect until after damage has already happened. For extremely hard hitting mechanics such as Ion Efflux in O12s, a shield can be life or death for the survival of the party. Heals and shielding do not apply at once They roll out based on the distance of the target from the Scholar. This can result in server ticks killing people when the last person to get the shield doesn’t have it registered when the raidwide happens. This can result in a death, so make sure your shields are applied early enough for outgoing damage.
+Shielding has a few interesting aspects to note. One of which is the delay before a shield actually applies to party members. This can be to both the Scholar’s benefit or their detriment. If Succor is cast too late, the delay on the shield may mean that it won’t take effect until after damage has already happened. For extremely hard hitting mechanics such as Ion Efflux in O12S, a shield can be life or death for the survival of the party. Heals and shielding do not apply at once They roll out based on the distance of the target from the Scholar. This can result in server ticks killing people when the last person to get the shield doesn’t have it registered when the raidwide happens. This can result in a death, so make sure your shields are applied early enough for outgoing damage.
 
 This delay in itself is not always a hindrance. If there are two back-to-back raid wide instances of damage, it is possible to time a Succor so that the heal will get the party before the first hit, and the shield will register after the damage. Heals apply as soon as the cast completes (though they do not hit everyone at once). 
 
 > **Aspected AST Shields override SCH shields, they do not stack.**
 
-This is important because you could have a 50,000 shield on someone and a 500 NOCT shield would override it. It is extremely frustrating that	this interaction exists, but it has been like this AST’s addition to the game. Unlike when overwriting your own Galvanize shield, the shield size is irrelevant when it comes to Noct and Galvanize overwriting. NOCT/SCH don’t go well together unless the group has a set plan for shielding that prevents this interaction from happening.
+This is important because you could have a 50,000 shield on someone and a 500 Noct shield would override it. It is extremely frustrating that this interaction exists, but it has been like this AST’s addition to the game. Unlike when overwriting your own Galvanize shield, the shield size is irrelevant when it comes to Noct and Galvanize overwriting. NOCT/SCH don’t go well together unless the group has a set plan for shielding that prevents this interaction from happening.
 
 **Conversely, Celestial Intersection, Celestial Opposition, and Neutral Sect shields all stack with Scholar’s Galvanize/Veil. They are not nocturnal fields.  These can all be stacked for massive shielding on the party.**
 
@@ -639,7 +638,7 @@ The third scenario ideally never happens. Casting Succor or Adloquium to cover n
 
 # How Healing Buffs Work
 
-Healing buffs, such as Dissipation and Fey Illumination, increasing the amount your healing spells will heal. Scholars do not have a buff in their own kit to buff the potency of healing oGCDs.If the ability says that it increases healing received “via healing actions,” it will increase the healing received by both GCD heals and oGCD heals. If it specifies “healing magic potency,” it will only increase healing that comes from GCD based heals. Both Fey Illumination and Dissimation’s buff has the latter phrasing.
+Healing buffs, such as Dissipation and Fey Illumination, increasing the amount your healing spells will heal. Scholars do not have a buff in their own kit to buff the potency of healing oGCDs. If the ability says that it increases healing received “via healing actions,” it will increase the healing received by both GCD heals and oGCD heals. If it specifies “healing magic potency,” it will only increase healing that comes from GCD based heals. Both Fey Illumination and Dissipation’s buff has the latter phrasing.
 
 Healing Buffs that affect only GCD heals-
 
@@ -672,7 +671,7 @@ If we decide to add in Nature’s Minne from a Bard, another 20% increase, then 
 
 It is important to know the difference between them being additive and multiplicative. If they WERE additive, the potency would have been 420. The more percentage increases you add, the more the math begins to stray from the actual value. 
 
-This is all important because this also scales into how you can address certain mechanics. Your shields will scale based on how much you heal. This means that stacking Mantra, Dissipation, Nature’s minne, and Thrill can result in an Adloquium with a potency of 622.08. This Adlo has a higher healing potency than your Lustrate, and provides a shield equalling 125% of that value. This shield being Deployed to the entire party can negate entire mechanics.
+This is all important because this also scales into how you can address certain mechanics. Your shields will scale based on how much you heal. This means that stacking Mantra, Dissipation, Nature’s Minne, and Thrill can result in an Adloquium with a potency of 622.08. This Adlo has a higher healing potency than your Lustrate, and provides a shield equalling 125% of that value. This shield being Deployed to the entire party can negate entire mechanics.
 
 The loss from casting this Adloquium is still 290, the lost Broil III, and potentially an additional 90 from weaving the deploy. That being said, this shield can prevent another heal from having to be used, negating that loss entirely.
 
@@ -680,7 +679,7 @@ Being able to stack these healing increases results in some insane numbers in te
 
 # Deployment Tactics
 
-Deployment Tactics at face value is fairly simple. It will deploy the effect of Galvanize off of the target and spread it to anyone in a 10 yalms. This does not deploy Catalyze. When reading the tool tip, the general idea behind this skill is obvious. You cast a shield, such as Adloquium, then spread the strong shield to the party. 
+Deployment Tactics at face value is fairly simple. It will deploy the effect of Galvanize off of the target and spread it to anyone in a ten yalms. This does not deploy Catalyze. When reading the tool tip, the general idea behind this skill is obvious. You cast a shield, such as Adloquium, then spread the strong shield to the party. 
 
 This will spread the current value of the shield to the party. This is important to note. If you put a shield on the tank and that tank then gets hit by an auto attack, the shield will be smaller by the amount of damage done from that auto. A surprising amount of Scholars make the mistake of casting an Adlo onto the main tank and deploying a weaker shield because of autos. Generally, you’ll try to deploy off of the tank that is not tanking the boss at the time, or yourself if you know you’ll be safe and properly positioned.. 
 
@@ -717,7 +716,7 @@ The main draw of Recitation is to save Aetherflow stacks that can in turn be use
 
 If you need to force strong shields for mitigation, a crit Adlo for deployment is very strong, and a crit Succor is still fairly high value. In terms of burst healing, Recitation Succor is a lot of healing, though it does come at the cost of a GCD used for the heal and an oGCD weave for Recitation. 
 
-The problem with Recitation is that it costs an oGCD slot to use in the first place. If you need AOE healing, you’re better off using Indom+Whispering Dawn in terms of raw healing potency. However, you do lose 100 potency from doing Indom instead of Energy Drain for this. It can also be used in downtime to negate the oGCD slot loss, but that also assumes that you’ll need to use a stack within the next ~15s anyway. 
+The problem with Recitation is that it costs an oGCD slot to use in the first place. If you need AOE healing, you’re better off using Indom + Whispering Dawn in terms of raw healing potency. However, you do lose 100 potency from doing Indom instead of Energy Drain for this. It can also be used in downtime to negate the oGCD slot loss, but that also assumes that you’ll need to use a stack within the next ~15s anyway. 
 
 The preferred usage of Recitation is as follows-
 
@@ -736,7 +735,7 @@ This is, of course, unless you need the shielding from Succor or Adlo to survive
 
 Dissipation is an interesting ability. It sacrifices your pet fills your Aetherflow gauge with three stacks. It also grants a 20% increase to healing spells for 30s. During this 30s you can not resummon Eos or Selene. The healing increase buff from this cannot be clicked off. 
 
-Dissipation more than anything is a DPS tool. It is used in the optimal opener and also aligns with every three minute raid buff window if used on cooldown. The three Energy Drains gained from Dissipation aren’t massive towards DPS, but it is DPS positive to use it. Each Energy Drain, even when weaved with Ruin II, is a 10 potency gain. (100 from Energy Drain-90 From a Ruin II weave). 
+Dissipation more than anything is a DPS tool. It is used in the optimal opener and also aligns with every three minute raid buff window if used on cooldown. The three Energy Drains gained from Dissipation aren’t massive towards DPS, but it is DPS positive to use it. Each Energy Drain, even when weaved with Ruin II, is a 10 potency gain. (100 from Energy Drain - 90 From a Ruin II weave). 
 
 Dissipation can be held for specific situations, as long as you aren’t losing a usage of it. For example, if you need to do extended movement, holding dissipation and being able to weave Energy Drain on your forced Ruin II weaves is an acceptable plan. If the 20% healing increase can save a GCD heal, it is better to hold it for that instead of using it on cooldown. This again assumes you do not lose a usage. This will be an extremely rare occurrence, but there are mechanics that this could come into play for.
 
@@ -752,7 +751,7 @@ MP management isn’t the worst on Scholar. We have a lot of options to regenera
 
 Aetherflow should be used as soon as it comes up. Each stack that goes into Energy Drain is a returned 500 MP, which makes up for more than a Broil/Ruin II in MP. It ends up being MP positive for every stack used on Energy Drain. It is also MP positive to use your stacks on Healing instead of GCD healing
 
-There isn’t particularly an “optimal” time to use Lucid Dreaming, as its really dependant on how you’re healing a fight. Depending on differing strategies, different people could need it at various places. With that being said, don’t hold Lucid for half of an encounter. Ideally you would want to get as many uses out of it as possible, while holding it when it is needed for a specific portion of the encounter. If you get an open spot to weave it, feel free. It’s really dependant on a person-to-person basis.
+There isn’t particularly an “optimal” time to use Lucid Dreaming, as its really dependent on how you’re healing a fight. Depending on differing strategies, different people could need it at various places. With that being said, don’t hold Lucid for half of an encounter. Ideally you would want to get as many uses out of it as possible, while holding it when it is needed for a specific portion of the encounter. If you get an open spot to weave it, feel free. It’s really dependent on a person-to-person basis.
 
 Having problems regarding MP is often due to too many Succors. Succor is not very MP efficient, which is yet another reason to avoid using it if at all possible. The 1,300 MP cost is extremely significant especially if it is being spammed for AOE healing. 
 
@@ -778,7 +777,7 @@ Mitigation is one of the most important aspects to raiding. Reducing the damage 
 
 Mitigation buffs, similar to % healing increase buffs, scale multiplicatively downward. This means that they are subject to diminishing returns. Each % mitigation you stack reduces incoming damage by less than the last used. 
 
-For example.If the party is going to take a 100,000 hit, a PLD using Reprisal will reduce the damage of this by 10%, or 10,000. 
+For example, if the party is going to take a 100,000 hit, a PLD using Reprisal will reduce the damage of this by 10%, or 10,000. 
 
 (100,000-(100,000*.1))=90,000
 
@@ -804,7 +803,7 @@ It is important to map out everyone’s mitigations to maximize the effectivenes
 
 Everyone in your party now has some form of party mitigation tool. This was a change made from Heavensward (3.0) into Stormblood (4.0). The developers wanted to take some of the responsibility off of the healers, and give a bit more responsibility to the rest of the party. Because of this, every job now has something they can use to reduce incoming damage taken.
 
-If a tank drops dead after a buster, it is worthwhile to check and make sure that these mitigation tools were present. Especially in fights like O10s, Feint can make a MASSIVE difference in the damage that a tank will take from the tank buster.
+If a tank drops dead after a buster, it is worthwhile to check and make sure that these mitigation tools were present. Especially in fights like O10S, Feint can make a MASSIVE difference in the damage that a tank will take from the tank buster.
 
 Make SURE your DPS are using their mitigation tools. This is important for all healers, including Scholar, as your party members using their tools is essential for you to maximize your potential damage output. Proper usage of these tools can result in a fairly significant gain for healer DPS.
 
@@ -818,7 +817,7 @@ Ask your DPS where they are using these skills, and if you think there is a bett
 
 # Raid Buffs
 
-Raid buffs are one of the most important aspects of raiding in FFXIV. The meta of XIV revolves around stacking raid buffs for massive burst windows. Most DPS jobs, bar Samurai and Black Mage, have an ability that increases DPS for the party. Tanks lack direct raid DPS increases, as WHM does as well.These raid buffs are always on cooldowns with multiples of 30s, which means they will all eventually line up if used properly on cooldown.
+Raid buffs are one of the most important aspects of raiding in FFXIV. The meta of XIV revolves around stacking raid buffs for massive burst windows. Most DPS jobs, bar Samurai and Black Mage, have an ability that increases DPS for the party. Tanks lack direct raid DPS increases, as WHM does as well. These raid buffs are always on cooldowns with multiples of 30s, which means they will all eventually line up if used properly on cooldown.
 
 Raid buffs, like most other % increases, scale multiplicatively. This means that a Broil III under Trick Attack (10%) and Divination (6%) is around 326 potency. Stacking these is the best way to maximize their benefits. Again, notice that all of them are on a multiple of thirty second cooldown. This means that when they are used properly, they will naturally align, causing strong burst windows that will be your biggest DPS phases. These burst windows are critical for maximizing party raid DPS to increase damage and speed up kill times.
 
@@ -862,7 +861,7 @@ The fourth scenario also happens frequently, and mainly involves instances where
 
 ![RaidBuffs8](/img/jobs/healers/scholar/Raid_Buffs8.png)
 
-Take for instance, this eight minute pull. If the boss dies at 8:00-8:10, you aren’t getting the full value out of the final Chain. In this instance, you will be getting four full usages of all two minute raid buff cooldowns, and three full usages of three minute raid buff cooldowns. Because you’re not going to get the full value out of the last Chain, it is worthwhile to hold earlier usages for different alignment. This results in one less Chain over the course of the encounter, but it allows for three full burst windows with Trick+Chain+Litany. The lost chain isn’t that much of a loss due to how gimped it was going to be anyway. This does require the DRG to hold their second Litany for 60s as well.
+Take for instance, this eight minute pull. If the boss dies at 8:00-8:10, you aren’t getting the full value out of the final Chain. In this instance, you will be getting four full usages of all two minute raid buff cooldowns, and three full usages of three minute raid buff cooldowns. Because you’re not going to get the full value out of the last Chain, it is worthwhile to hold earlier usages for different alignment. This results in one less Chain over the course of the encounter, but it allows for three full burst windows with Trick + Chain + Litany. The lost chain isn’t that much of a loss due to how gimped it was going to be anyway. This does require the DRG to hold their second Litany for 60s as well.
 
 ![RaidBuffs8DRGHold](/img/jobs/healers/scholar/Raid_Buffs8_DRG_Hold.png)
 
@@ -916,7 +915,7 @@ Piety increases the amount of mana regenerated naturally in battle.  A certain v
 
 Critical Hit is our most influential stat when it comes to DPS and healing. The more of this stat that you get, the more crits will happen, and the harder they will scale. Because of this, crit scales quadratically. The more of it we stack, the greater returns. 
 
-While crit is the best substat, there are a few rare times that we opt out of gear that has Critical Hit on it. This mostly happens when the gear is Crit+Piety with more Piety than there is Crit on the piece.
+While crit is the best substat, there are a few rare times that we opt out of gear that has Critical Hit on it. This mostly happens when the gear is Crit + Piety with more Piety than there is Crit on the piece.
 
 ## Spell Speed (SPS)
 
@@ -988,7 +987,7 @@ Large spreadsheets done by Nemekh and Allagan Studies (formerlly known as the Th
 
 Useful healing guide for new players looking to do dungeons.
 
-Healing Analysis:[O9S](https://youtu.be/3WLq8c8tg00) [O10S](https://youtu.be/GUeuoDza84E) [O11s](https://youtu.be/hXfVOg047GQ)
+Healing Analysis: [O9S](https://youtu.be/3WLq8c8tg00) [O10S](https://youtu.be/GUeuoDza84E) [O11S](https://youtu.be/hXfVOg047GQ)
 
 A video of Momo going through two encounters from Omega: Alphascape speed runs and analyzing their healing strategies. Very useful if you want to see the mentality and thought process behind high level healers. The information is a bit dated, given the potency values have changed since Stormblood, but the idea behind the optimization is very much the same.
 
