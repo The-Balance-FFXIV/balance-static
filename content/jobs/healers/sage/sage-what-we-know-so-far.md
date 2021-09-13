@@ -1,7 +1,7 @@
 ---
 title: "Sage: What We Know So Far"
 ---
-# Sage - What We Know So Far
+# Sage: What We Know So Far
 
 > "The nation of Sharlayan is the cradle of knowledge, and the Studium its foremost institution of learning. Yet more so than its incomparable library and formidable assemblage of Archons, this prestigious academy is famed for blending traditionally distinct fields to produce revolutionary new disciplines. Among these, perhaps the most distinguished is an altruistic art which draws upon the wisdom of aetherology, sorcery, and medicine. Dubbed somanoutics, the art seeks to heal and protect by manipulating corporeal aether through the use of nouliths, a flying array of foci. Practitioners are dedicated to the betterment of mankind, and for their wisdom and compassion, eventually came to be known simply as sages."
 
