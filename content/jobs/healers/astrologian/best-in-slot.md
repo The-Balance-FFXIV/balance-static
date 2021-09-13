@@ -33,7 +33,7 @@ This makes MP significantly more reasonable than the above, but still has very h
 
 "Best in Sloth" <https://etro.gg/gearset/88397043-c634-4a8a-80ab-8c140244ad44>  
 
-Best in Sloth, while not quite as high damage as the faster sets, is a safer option while still maintaining reasonbly high damage. It is for those who have high ping and find it hard to not clip with faster GCDs, or just want to be have some extra leeway for mana during weekly reclears.
+Best in Sloth, while not quite as high damage as the faster sets, is a safer option while still maintaining reasonably high damage. It is for those who have high ping and find it hard to not clip with faster GCDs, or just want to be have some extra leeway for mana during weekly re-clears.
 
 - - -
 
