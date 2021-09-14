@@ -3,6 +3,7 @@ title: Levelling Guide
 ---
 # A guide for Bards that aren’t level 80 yet :)
 
+
 While the main Balance guide is focused on level 80 gameplay, I thought it’d be nice to have something people can follow as they level. 
 
 Leveling content may not be tough enough to really need to optimize, but it’s still nice to not feel completely lost.
@@ -13,7 +14,8 @@ If anything is confusing, feel free to ping Sana Cetonis (Cetonis#8918) on The B
 
 
 
-Level 1-29
+
+# Level 1-29
 
 You’ll move through the Archer levels fairly quickly, but even by level 6 you have a couple important concepts introduced.
 
@@ -78,7 +80,8 @@ With Foot Graze, one cute trick is to know that DoT ticks don’t break the bind
 
 
 
-Level 30-44
+
+# Level 30-44
 
 
 
@@ -152,7 +155,8 @@ Quick Nock is still going to be your go-to for large groups of mobs. But, if you
 It’s tough to place an exact number value on Bloodletter or Army’s procs in an AoE (area of effect, shorthand for fighting a pack of enemies) situation because there are lots of factors, but it’s not a bad dynamic to get used to. Because level 45 brings a notable change…
 
 
-Level 45-51
+
+# Level 45-51
 
 
 
@@ -171,7 +175,8 @@ You also learn Battle Voice at level 50, which is a solid group buff. Until you 
 
 
 
-Level 52-63
+
+# Level 52-63
 
 Note that your level 52, 54 and 56 skills require doing Heavensward job quests. You need to be on the 3.0+ main story quests to unlock them.
 
@@ -251,7 +256,8 @@ p.s. Don’t forget to use future Ragings a couple GCDs into WM, to raise the od
 
 
 
-Level 64-79
+
+# Level 64-79
 
 By now, you’ve learned all the fundamentals of the Bard kit. The main additions from here on out turn up the dial on how often you’ll be getting various procs:
 
@@ -315,11 +321,11 @@ Enhanced Army’s Paeon has a huge tooltip for a small effect - basically, it ca
 
 
 
-Level 80 - Congrats! You’ll learn Apex Arrow here; in short, just use it when the bar is full.
 
-But you can get more fine details on Apex and other endgame Bard play in the full guide here - 
+# Level 80 
+Congrats! You’ll learn Apex Arrow here; in short, just use it when the bar is full.
 
-https://docs.google.com/document/d/1oAy_ZGB9XdWENlnMmAnURfBEyGUKqeOqARdYGnhV-CE
+But you can get more fine details on Apex and other endgame Bard play in the full guide here - <link>
 
 
 
