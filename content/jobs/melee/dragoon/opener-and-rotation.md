@@ -19,12 +19,12 @@ The default order for the **Attacks** puts Spineshatter Dive as a buffer skill b
 ## Levelling
 
 The basic GCD backbone of the rotation does change as you level:  
-64-80: :rt::de::ct::wt::fc:-:rt::vt::ft::fc::wt:  
-58-63: :tt::de::ct::wt:-(:tt::vt::ft::fc:)x2  
-56-57: :tt::de::ct:-(:tt::vt::ft::fc:)x2  
-50-55: :tt::de::ct:-(:tt::vt::ft:)x3  
-26-49: :tt::de:-(:tt::vt::ft:)x4  
-18-25: :tt::de:-(:tt::vt:)x6  
+`64-80`: Raiden Thrust Disembowel Chaos Thrust Wheeling Thrust Fang and Claw-Raiden Thrust Vorpal Thrust Full Thrust Fang and Claw Wheeling Thrust  
+`58-63`: True Thrust Disembowel Chaos Thrust Wheeling Thrust-(True Thrust Vorpal Thrust Full Thrust Fang and Claw)x2  
+`56-57`: True Thrust Disembowel Chaos Thrust-(True Thrust Vorpal Thrust Full Thrust Fang and Claw)x2  
+`50-55`: True Thrust Disembowel Chaos Thrust-(True Thrust Vorpal Thrust Full Thrust)x3  
+`26-49`: True Thrust Disembowel-(True Thrust Vorpal Thrust Full Thrust)x4  
+`18-25`: True Thrust Disembowel-(True Thrust Vorpal Thrust)x6  
 
 For more specific considerations about how this rotation and the opener change on a specific encounter basis, please check the drg_encounter channel.
 <https://discordapp.com/channels/277897135515762698/627667896860147714/627896513481277440>
