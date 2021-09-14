@@ -73,11 +73,9 @@ All of this is tasty and positive, assuming your delayed first Life (or the subs
 Every time you come up on Geirskogul at the same time as you come up on your second Eye from Mirage Dive, you can make the choice to activate it or delay it. You can make this choice by following this handy flowchart, based on the time remaining on your two primary buff actions, Lance Charge and Dragon Sight:
 
 
-If Lance Charge < 18s remaining: Mirage DiveGeirskogul (enter)  
-else, if Lance Charge > 23s: Geirskogul - Mirage Dive (delay)  
-else, if Dragon Sight < 18s: Mirage Dive - Geirskogul (enter)  
-else, if Dragon Sight > 23s: Geirskogul - Mirage Dive (delay)  
-else: Mirage Dive - Geirskogul (enter)  
+If Lance Charge and Dragon Sight >23s and at least one <57s: Geirskogul - Mirage Dive (delay)\
+else: Mirage Dive - Geirskogul (enter)
+
 
 
 Following this general outline will allow you to maximize the number of Nastrond and Stardiver that you land under buffs (Lance Charge / Dragon Sight / Battle Litany) throughout an encounter. We don't need to look at Battle Litany timings up above, since it should always coincide with every other Lance Charge. If it somehow de-syncs, prioritize Lance Charge and Dragon Sight over Battle Litany.
