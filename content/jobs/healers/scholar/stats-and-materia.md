@@ -6,7 +6,7 @@ General stat priority pre-BiS:
 1. Piety to comfort (read below)
 2. Spell Speed (until 1015 for 2.43 GCD)
 3. Critical Hit
-4. Direct Hit / Determination
+4. Direct Hit = Determination
 5. Spell Speed
 
 
