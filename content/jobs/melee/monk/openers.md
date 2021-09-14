@@ -7,4 +7,4 @@ title: Openers
 
 
 # Early Buffing:
-![](https://imgur.com/qdHxosA)
+![](https://imgur.com/qdHxosA.jpg)
