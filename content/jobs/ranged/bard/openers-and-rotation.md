@@ -93,7 +93,7 @@ If you have a little skill speed, you can set up a clean last-moment WM to MB tr
 Burst Shot - Pitch Perfect - Mage's Ballad - Burst Shot
 
 To do this, you MUST wait to press WM until late in the weaving window, AND avoid any GCD delays while in Minuet. Normally, your transition will look like:  
-Burst Shot  .. Wanderer's Minuet - Burst Shot - Burst Shot - Raging Strikes - Burst Shot
+Burst Shot **...** Wanderer's Minuet - Burst Shot - Burst Shot - Raging Strikes - Burst Shot
 
 
 
