@@ -51,6 +51,8 @@ Use Edengrace Bastard Sword (475) with 1 less direct hit meld and Edenmorn Scutu
 Etro mirror
 
 
+--- 
+
 # The Weapon's Refrain (Ultimate)
 For level 70 ultimates, simply sync any level 80 gear with critical hit + determination and enough skill speed for personal preference at or above ilvl 418 (UCoB) or ilvl 470 (Ultima). Melds on synced gear are ignored, but built-in stats will be capped if the gear's original item level is high enough.
 
@@ -90,6 +92,8 @@ Etro mirror
 
 
 Etro mirror
+
+--- 
 
 # The Unending Coil of Bahamut (Ultimate)
 For level 70 ultimates, simply sync any level 80 gear with critical hit + determination and enough skill speed for personal preference at or above ilvl 418 (UCoB) or ilvl 470 (Ultima). Melds on synced gear are ignored, but built-in stats will be capped if the gear's original item level is high enough.
