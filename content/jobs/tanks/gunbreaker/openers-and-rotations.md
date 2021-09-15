@@ -203,11 +203,3 @@ Don't worry! This happens. It's going to happen to all of us. Follow this flow:
 
 Weave it like so:
 <br> ![No Mercy Weave](https://i.imgur.com/VEV9uhQ.png)
-
-> *Why is my combo breaking? OR Can I use X during my rotation?*
-
-![Combo Break 1](https://i.imgur.com/4Ksivi3.png)
-![Combo Break 2](https://i.imgur.com/lLLoVMB.png)
-
-> *What should my No Mercy window look like?*
-
