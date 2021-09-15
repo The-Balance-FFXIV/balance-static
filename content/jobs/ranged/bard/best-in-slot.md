@@ -1,5 +1,5 @@
 ---
-title: Best in Slot
+title: Bard Best in Slot
 ---
 # 5.5x Best In Slot
 
