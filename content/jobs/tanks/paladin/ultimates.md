@@ -1,6 +1,8 @@
 ---
 title: Ultimates
 ---
+< Needs BiS added, then complete > 
+
 # The Epic of Alexander (TEA)
 
 ## Phase optimization
