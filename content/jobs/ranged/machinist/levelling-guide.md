@@ -1,9 +1,9 @@
 ---
-title: Levelling Guide
+title: Leveling Guide
 ---
 # Simple Pointers for New Machinists
 
-Unlocking new jobs can be daunting, so to alleviate some of the stress of all of the new actions, here’s some tips to help out the new Machinists understand their rotation while leveling and gain some insight into how everything comes together!  Reference the weaponskills and abilities at the [beginning of the guide](https://docs.google.com/document/d/1niBGupiPQoFhoJ_6B9CHwkOe1n0mKjUE4IFCt7wEUJg/edit#heading=h.dyvx6r55itmd) if you forget exactly what things do. 
+Unlocking new jobs can be daunting, so to alleviate some of the stress of all of the new actions, here’s some tips to help the new Machinists understand their rotation while leveling and gain some insight into how everything comes together!  Reference the weaponskills and abilities at the [beginning of the guide](https://docs.google.com/document/d/1niBGupiPQoFhoJ_6B9CHwkOe1n0mKjUE4IFCt7wEUJg/edit#heading=h.dyvx6r55itmd) if you forget exactly what things do. 
 
 For clarity purposes:
 
@@ -16,7 +16,7 @@ For clarity purposes:
   * Spread Shot should be used for any encounter where you have two or more mobs. It’s also the priority for using Reassemble if you’re fighting multiple enemies.
   * Gauss Round is an expendable oGCD that should be used as much as possible for extra damage.
 * Level 35
-* * You will gain access to Heat Blast. This weaponskill is super important. The only time you can use it is during your Hypercharge windows, but the recast time on it is exceptionally low, at only 1.5 seconds. You should never be double weaving between Heat Blast; there’s not enough time to do so. Each Heat Blast reduces the cooldown on Gauss Round, so you should be single weaving a Gauss Round in between your Heat Blast’s when you’re able to. This skill changes what you have been doing for the past five levels; from here on out, you’ll never use other GCDs inside of Hypercharge. Every Hypercharge window you should be getting 5 Heat Blasts.
+* * You will gain access to Heat Blast. This weaponskill is super important. The only time you can use it is during your Hypercharge windows, but the recast time on it is exceptionally low, at only 1.5 seconds. You should never be double weaving between Heat Blast; there’s not enough time to do so. Each Heat Blast reduces the cooldown on Gauss Round, so you should be single weaving a Gauss Round in between your Heat Blast’s when you’re able to. This skill changes what you have been doing for the past five levels; from here on out, you’ll never use other GCDs inside of Hypercharge. Every Hypercharge window you should be getting five Heat Blasts.
 * Level 40
 * * You will gain access to Rook Auto-Turret. This unlocks a new gauge, Battery. Every time you use Hot Shot or finish a full combo segment with Clean Shot, you will gain Battery which can then be used to summon Rook. If you are preventing the Battery gauge from overcapping, you’re using it correctly. Rook Overdrive does not need to be pressed; it will happen at the end of the summons timer.
 * Level 45
