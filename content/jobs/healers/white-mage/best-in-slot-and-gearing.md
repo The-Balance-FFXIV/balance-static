@@ -75,3 +75,16 @@ As of patch 5.55:
 535 Relic > Edenmorn Cane > Augmented Cryptlurker Cane >= Diamond Zeta Cane >= 515 Relic Cane > Emerald Cane > 510 relic cane >= Cryptlurker Cane >= Augmented Exarchic Cane
 
 Still not sure what to grab? Use the [gear calculator](#gear-calculator)!
+
+---
+
+# Relic FAQ
+
+Just to quickly answer the various questions that have been popping up, let's get into it:
+
+## What stats should I put in the 515 Relic?
+Generally, follow the same stat priority as always. So Crit > Det > SpS for 510 crit/det, 147 sps.
+It's not bis, so if you're going for EXACT tiering things, use etro / the gear calc with your current gear as I won't be working out sets around this relic step.
+
+## What stats should I put in the 535 Relic?
+The BiS sets listed above have relic stats allocated!  If you're not quite bis yet, simply follow the standard stat priority of Crit > Det > SpS, or use the relic stats of the BiS set you're shooting for.
