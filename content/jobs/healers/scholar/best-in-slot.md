@@ -1,7 +1,7 @@
 ---
 title: SCH Best in Slot
 ---
-# SCH BiS & Gear Options
+# SCH BiS and Gear Options
 
 ## 5.55 Savage Sets
 
