@@ -6,7 +6,7 @@ title: Ultimates
 ## Phase optimization
 
 ### P1 - Living Liquid & Liquid Hand
-Phase GCD spreadsheet
+[Phase GCD spreadsheet](https://xiv.sleepyshiba.com/pld/sheets/tea1.png)
 
 Delayed opener is optimal for this phase, but fast pushes may require a standard opener to ensure buffs and MP are available for phase 2. Paladin should pull Liquid Hand, but does not necessarily need to hold the Hand all phase.
 
