@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Machinist FAQ
 ---
 # Frequently Asked Questions
 
