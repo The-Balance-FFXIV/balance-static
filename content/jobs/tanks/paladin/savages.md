@@ -60,7 +60,15 @@ Etro mirror
 ## No-Relic Gearsets
 Deprecated 5.4 Savage BiS sets if Blade's weapon (i535) is not available:
 
-2.43 - Smoked Chicken - Gearset with simulated DPS (Etro mirror)  
-2.42 - Chicken Fettuccine - Gearset with simulated DPS (Etro mirror)  
-2.41 - Chicken Fettuccine - Gearset with simulated DPS (Etro mirror)  
-2.40 - Chicken Fettuccine - Gearset with simulated DPS (Etro mirror)  
+- 2.43 - Smoked Chicken - Gearset with simulated DPS [(Etro mirror)](https://etro.gg/gearset/fba098d3-31d9-4cb5-aefe-0e1aa2d8909c)  
+
+![](https://xiv.sleepyshiba.com/pld/sets/530sc43.png)
+
+- 2.42 - Chicken Fettuccine - Gearset with simulated DPS [(Etro mirror)](https://etro.gg/gearset/1a57097a-23a1-4423-affd-223937d90a51)  
+![](https://xiv.sleepyshiba.com/pld/sets/530cf42.png)
+
+- 2.41 - Chicken Fettuccine - Gearset with simulated DPS [(Etro mirror)](https://etro.gg/gearset/a96250be-bc40-48e5-8a14-62e1867c3d2f)  
+![](https://xiv.sleepyshiba.com/pld/sets/530cf41.png)
+
+- 2.40 - Chicken Fettuccine - Gearset with simulated DPS [(Etro mirror)](https://etro.gg/gearset/993cfaea-ba08-4bab-92c7-93a5c345d862)
+![](https://xiv.sleepyshiba.com/pld/sets/530cf40.png)
