@@ -3,7 +3,7 @@ title: Leveling Guide
 ---
 # Simple Pointers for New Machinists
 
-Unlocking new jobs can be daunting, so to alleviate some of the stress of all of the new actions, here’s some tips to help the new Machinists understand their rotation while leveling and gain some insight into how everything comes together!  Reference the weaponskills and abilities at the [beginning of the guide](https://docs.google.com/document/d/1niBGupiPQoFhoJ_6B9CHwkOe1n0mKjUE4IFCt7wEUJg/edit#heading=h.dyvx6r55itmd) if you forget exactly what things do. 
+Unlocking new jobs can be daunting, so to alleviate some of the stress of all of the new actions, here’s some tips to help the new Machinists understand their rotation while leveling and gain some insight into how everything comes together!  Reference the weaponskills and abilities at the [beginning of the guide](https://guides.xivresources.com/jobs/ranged/machinist/basic-mch-stuff/) if you forget exactly what things do. 
 
 For clarity purposes:
 
@@ -20,7 +20,7 @@ For clarity purposes:
 * Level 40
 * * You will gain access to Rook Auto-Turret. This unlocks a new gauge, Battery. Every time you use Hot Shot or finish a full combo segment with Clean Shot, you will gain Battery which can then be used to summon Rook. If you are preventing the Battery gauge from overcapping, you’re using it correctly. Rook Overdrive does not need to be pressed; it will happen at the end of the summons timer.
 * Level 45
-* * Unlocking Wildfire is effectively just a DPS gain on what you already have in your kit. Wildfire should always be paired with Hypercharge, similar to the pictures located in [Openers](https://docs.google.com/document/d/1niBGupiPQoFhoJ_6B9CHwkOe1n0mKjUE4IFCt7wEUJg/edit#heading=h.7ksvwpb7wfgq), but you will need to manually build your heat up to use it rather than being able to open properly. Wildfire can be used on trash packs, but you are better off holding it slightly for boss encounters.
+* * Unlocking Wildfire is effectively just a DPS gain on what you already have in your kit. Wildfire should always be paired with Hypercharge, similar to the pictures located in [Openers](https://guides.xivresources.com/jobs/ranged/machinist/openers-and-rotation/), but you will need to manually build your heat up to use it rather than being able to open properly. Wildfire can be used on trash packs, but you are better off holding it slightly for boss encounters.
 * Level 50
 * * Nothing crazy. You will learn Ricochet which should be treated nearly the same as Gauss Round. Use as much as you can, and use it inside of Hypercharge windows, alternating use with Gauss Round.
 * Levels 52 - 60
