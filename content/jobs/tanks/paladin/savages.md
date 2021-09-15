@@ -37,31 +37,30 @@ Optimal rotation is kill-time dependent. Standard opener with 3rd GCD Spirits Wi
 2.43 and 2.41 are suggested for optimization except with latency or other consistency issues causing unreliable mechanic/phase timings. Listed speeds assume food is active.
 
 
-2.43 - Smoked Chicken
+2.43 - Smoked Chicken  
+[Etro mirror](https://etro.gg/gearset/c36ead01-8464-454c-87ac-5844c226cd54)
 
-Etro mirror
+![](https://xiv.sleepyshiba.com/pld/sets/530sc43relic.png)
 
+2.42 - Chicken Fettuccine  
+[Etro mirror](https://etro.gg/gearset/f3986a7d-667e-46b5-aa4d-22a0900b42ba)
 
-2.42 - Chicken Fettuccine
+![](https://xiv.sleepyshiba.com/pld/sets/530cf42relic.png)
 
-Etro mirror
+2.41 - Chicken Fettuccine  
+[Etro mirror](https://etro.gg/gearset/9a05f867-9160-4c87-8856-5749f3080b5e)
 
+![](https://xiv.sleepyshiba.com/pld/sets/530cf41relic.png)
 
-2.41 - Chicken Fettuccine
+2.40 - Chicken Fettuccine  
+[Etro mirror](https://etro.gg/gearset/6e5ba8fa-8b27-48f6-9fe4-2452aa92ec8c)
 
-Etro mirror
-
-
-2.40 - Chicken Fettuccine
-
-Etro mirror
-
+![](https://xiv.sleepyshiba.com/pld/sets/530cf40relic.png)
 
 ## No-Relic Gearsets
 Deprecated 5.4 Savage BiS sets if Blade's weapon (i535) is not available:
 
-- 2.43 - Smoked Chicken - Gearset with simulated DPS [(Etro mirror)](https://etro.gg/gearset/fba098d3-31d9-4cb5-aefe-0e1aa2d8909c)  
-
+- 2.43 - Smoked Chicken - Gearset with simulated DPS [(Etro mirror)](https://etro.gg/gearset/fba098d3-31d9-4cb5-aefe-0e1aa2d8909c)
 ![](https://xiv.sleepyshiba.com/pld/sets/530sc43.png)
 
 - 2.42 - Chicken Fettuccine - Gearset with simulated DPS [(Etro mirror)](https://etro.gg/gearset/1a57097a-23a1-4423-affd-223937d90a51)  
