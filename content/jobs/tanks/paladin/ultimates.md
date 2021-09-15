@@ -36,20 +36,29 @@ Augmented Law's Order weapons (515) or Blade's weapons (535) are optimal for syn
 2.40 - Patch 5.55+
 
 
-Etro mirror
+[Etro mirror](https://etro.gg/gearset/4ef89b3b-d364-4d6d-aaa5-7c25cc245b86)
+
+![](https://xiv.sleepyshiba.com/pld/sets/475cf40relic1.png)
 
 2.40 - Patch 5.45+
 
 
-Etro mirror
 
 Use Edengrace Bastard Sword (475) with 1 less direct hit meld and Edenmorn Scutum (535) before obtaining ultimate weapon or Augmented Law's Order weapon (515).
+
+[Etro mirror](https://etro.gg/gearset/921486a2-fa30-40a4-bf71-1ac2f3fb8dd0)
+
+![](https://xiv.sleepyshiba.com/pld/sets/475cf40relic.png)
+
+
 
 2.40 - Patch 5.4
 
 
-Etro mirror
+[Etro mirror](https://etro.gg/gearset/be37a09b-59d6-459f-ac07-7448d7347be8)
 
+
+![](https://xiv.sleepyshiba.com/pld/sets/475cf40.png)
 
 --- 
 
@@ -86,12 +95,17 @@ This opener is dependent on whether you skip Ifrit dashes or not. Usually I just
 2.40 - Patch 5.55
 
 
-Etro mirror
+[Etro mirror](https://etro.gg/gearset/4f4f4dc9-3a40-494f-934d-1c5a114a3cc9)
+
+
+![](https://xiv.sleepyshiba.com/pld/sets/375sc40relic1.png)
 
 2.40 - Patch 5.45+
 
 
-Etro mirror
+[Etro mirror](https://etro.gg/gearset/287ca4d1-48d7-460a-b592-5447a8862d66)
+
+![](https://xiv.sleepyshiba.com/pld/sets/375sc40relic.png)
 
 --- 
 
@@ -139,5 +153,6 @@ Golden Bahamut is just FoF opener and crit while gamer dodging exaflares middle.
 2.40 - Patch 5.45+
 
 
-Etro mirror
+[Etro mirror](https://etro.gg/gearset/86759839-818e-4c90-8b87-2ad1523a45fa)
 
+![](https://xiv.sleepyshiba.com/pld/sets/345sc40relic.png)
