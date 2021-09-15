@@ -20,10 +20,10 @@ Make sure to stay under the substat cap when melding! If the number is red, don'
 
 * Final relic (i535)
 * Edenmorn (i535)
-* Augmented cryptlurker (i530)
+* Augmented Cryptlurker (i530)
 * Diamond Zeta (i525)
-* Augmented relic (i515), augmented exarchic (i520), unaugmented cryptlurker (i520) - about equal
-* Unaugmented relic (i510), emerald (i515) - about equal
+* Augmented relic (i515), Augmented Exarchic (i520), unaugmented Cryptlurker (i520) - about equal
+* Unaugmented relic (i510), Emerald (i515) - about equal
 * Exarchic (i510)
 
 # Stats FAQ
