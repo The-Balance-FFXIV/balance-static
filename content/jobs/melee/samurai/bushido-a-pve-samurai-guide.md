@@ -1,13 +1,12 @@
 ---
 title: "Bushido: A PvE Samurai Guide"
 ---
-# Bushido: A PvE Samurai Guide
-
+**![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\3cf8e3faa9cf8c41ece0bae47b630c81.png](https://lh4.googleusercontent.com/9vEjHA4hLjMV9KHEzXgtR2p6DC3jV9hCqnUxVWpw1AadQ4qvp48zvZWAFnMz7xmwkXPPTvksaQck0TLfJXsBlgRr0Ejupl_GmpCDrfnf9LuHup9YOR0sGW4xIn2MIa7Diouh1Ve1=s0)**
 ## By Aureum Sanguinis of Gilgamesh
 
 ## Updated by Sweaty Boxer of Midgardsormr
 
-## FFXIV: Shadowbringers Patch 5.25, July 2019
+## FFXIV: Shadowbringers Patch 5.25, April 2020
 
 ### With thanks to members of the Balance Discord for discussion and theorycrafting (Jahudant and Boxer)
 
@@ -152,11 +151,7 @@ strategy to assist healers, while Arm’s Length is useful in any ight with 8 kn
 
 ## Playstyle
 
-<!--StartFragment-->
-
 High similarity to Dragoon with simple GCD structure at a glance. However, SAM is a job that is capable of an extremely high skill ceiling due to its flexibility in its Kenki usage. This is a job that emphasizes using the complete toolkit given the circumstances. Samurai manage two different resources to do heavy damage, Sen and Kenki.
-
-
 
 Every time SAM completes a certain GCD combo, its corresponding Sen is collected; there are three types of Sen to collect:
 
@@ -189,8 +184,6 @@ Kenki is SAM’s second but extremely vital resource. all of SAM’s GCD skills 
 * The sheer flexibility means optimization becomes a fight-to-fight basis; require high adaptability
 * Complete lack of raid utility; whether or not a SAM is worth bringing to raid is entirely up to the skill of the player.
 
-
-
 - - -
 
 # Swinging the Blade: Practicing the Strokes
@@ -207,19 +200,13 @@ Jinpu is a 13% flat damage increase to all your abilities, including Higanbana�
 
 Lastly, Yukikaze would be the least significant combo out of the three in the opener but one of the most significant throughout the fight. SAM’s opener relies on lining up the buffs and CDs to maximize damage with raid buffs, and Yukikaze offers no self-buff to Samurai. By starting Yukikaze, Samurai will end up not being able to have both Shifu or Jinpu up by the time raid buffs go out, as everything will be delayed by a combo. During the fight, Yukikaze is great to have as your only Sen up leading into downtime, as it allows you to get both buffs back up before using Midare. It can also be used to help as an alignment tool. 
 
-
-
 ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh5.googleusercontent.com/nKOaHBLn54QdOt2ec5AT_Ab_fas_dXFKsqvoZ-Oucg2iECDb7H6_9zh5TuscJazvqmIDZwvUhQx3AtlhMkYfGINAOW_0VVZlhgW5KiS1rVa5-Zd9H67govHujtJccSOTpTAAV4oJ=s0) Tip: Remember Iaijutsu does not break combo. If you need to reapply Higanbana but Jinpu buff is down and you’re already sitting on one Sen, you can do a Hakaze > Jinpu > Iaijutsu > Gekko and you will have the Jinpu buff applied on your Higanbana without wasting the Sen on the combo.
-
-
 
 - - -
 
 ## Honing the Blade: Kenki and Potency
 
 If the Sen system and Midare Setsugekka and its 800 potency (1200 potency with Kaiten) is what catches people’s attention with its flash, then SAM’s Kenki system is what makes the engine run and deal out damage over the fight. Kenki generation is 100% predictable and tied to your GCDs, and in an ideal world you want to finish a fight with 0 Kenki. As such, you will generate and expend similar amounts of Kenki over the same duration. To understand how much Kenki is worth to your damage, it may be preferable to use Potency/Kenki, and use your most common Kenki skill (Shinten) as a baseline.
-
-
 
 Kaiten (on Higanbana) = 525p/20k = 26.25p/k
 
@@ -241,8 +228,6 @@ Gyoten = 100p/10k = 10p/k
 
 Kyuten = 150p/25k = 6p/k per mob
 
-
-
 From the numbers above, a few conclusions can be drawn.
 
 * Kaiten is not worth using on a move less than 520 base potency(13p/k).
@@ -251,21 +236,13 @@ From the numbers above, a few conclusions can be drawn.
 * Kaiten on Higanbana and Midare Setsugekka gives you the biggest bang for your buck.
 * Kyuten outperforms Shinten at 3 mobs and above
 
-
-
 In addition, it means that each positional missed on a SAM is roughly equivalent to a 64 potency loss. The loss is amplified in your opener because the openers are designed to work under the assumption that you hit all your positionals. By missing in your opener you also risk missing your oGCDs like Senei under raid buffs, so please do your best to maximize your positionals without delaying your GCDs.
 
-
-
 ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh5.googleusercontent.com/opKkExneRE4ctCf35V4T6wTd98SajNd87xPAHuOpoWwQhxBCGMiSh1cDBvQyLvvfRcGezcxncauym16oQFiVoqnF-zPfKxMRNVGOd25fLn-bYsT7oLNhTuSj9M9gmrKpTl-ThavH=s0) Note regarding Yaten-Enpi-Gyoten: If you factor only the Yaten-Enpi combo, it is 10 Kenki cost for a 320 additional potency and regenerates 10 kenki, and that gives you 30 potency per kenki. However, this combo does not give you any benefits to reapply your buffs or adding a Sen. Thus, while it is a potent 1-GCD combo, it cannot be used reliably outside of very specific situations such as dodging out of an AOE while being unable to go back to the boss soon or off-setting your GCDs by one. Gyoten should be used only as a gap closer if Sprint won’t do the job.
-
-
 
 - - -
 
 ## To Enpi or to Not Enpi (And Gyoten and Yaten)
-
-
 
 That is the question. Most of the time, the answer can be summed up as: Don’t if you can just run.
 
@@ -275,8 +252,6 @@ So what are the values of Gyoten/Yaten/Enpi?
 
 ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh3.googleusercontent.com/PCAoLfk5jZ9kscihyK8xZyZAHDIDWOAfE1yqTLbac9bDOcw3LqBEWLxibHmzZMQHtkJ-bFw1v3AIdx8F6EE1HHiV0_zUZRhpfTowg25IAgAKc3RBLsLqCTM2sOD3XaDXBAatuNax=s0)They are good only if you gain a GCD that would have been otherwise impossible without them
 
-
-
 Gyoten/Yaten gain value if using them allows you to get an extra GCD compared to not using it, such as moving from one target at one end of a map to another one at the other end. If the targets are close enough that you could have run or used Sprint and not lose GCDs, then it is inefficient.
 
 Enpi is the same. It gains value only if there are time periods where you could have used a ranged attack but not melee attack- which is often a rare situation. In addition, Enpi breaks your combo so that if you could have continued your combo during the period of wait, it is also inefficient. For example, if you must stand away from the boss for a period of 2 GCDs and you were in the middle of a combo, using Enpi would have broken your combo and you would have to use two additional GCD to redo the combo vs not using it and finishing the combo on the return. This is even more heavily impacted if it is related to your buffs/Sen generation when timed with raid buffs.
@@ -284,8 +259,6 @@ Enpi is the same. It gains value only if there are time periods where you could 
 Of course, exceptions always happen, but you will recognize the exceptions in the fight situation as you gain experience.
 
 In 5.0, usage of Enpi has extended into the potential for keeping rotational alignment. As this is a higher level theory, I will refer to [Jahaudant’s Compendium](http://bit.ly/SAM-Compendium) for further reading to interested parties.
-
-
 
 - - -
 
@@ -312,11 +285,7 @@ Now, how to use Meikyo to increase your damage? Consider Meikyo as a GCD saver a
 
 An example of Meikyo with ideal usage as long as the buffs do not fall off:
 
-
-
 ![](https://lh3.googleusercontent.com/p01OJgrKTxUqEVGYDSSldWxrkAJMutPP9nBgAxYG0v5uZNDiKsjasTGqHK0p9AZIw6l7vbax-DQCPHCC52XjuRdp1-dGQWbdEyu_-2dI3nYvNi8SyI0V4wNXwlnd59-tppS1T-Wp=s0)
-
-
 
 - - -
 
@@ -327,8 +296,6 @@ Hagakure is an oGCD ability re-added to the game in patch 5.05 as a shadow of it
 The intended purpose for the reintroduction of Hagakure from SE seemed to be from the outcry of players who were upset that in dungeons they would sometimes have leftover Sen and Hagakure would allow them to “wipe clean” this gauge in order to enter a dungeon boss without having to overcap existing Sen while re-applying buffs. In a level 80 raid setting, however, Hagakure serves a similar purpose: it wipes away the Sen we build while filling time waiting for Tsubame to come off cooldown to keep rotational alignment.
 
 The full level 80 looping rotation is not explained in detail in this guide, as this guide is meant to be a primer for people interested in a glance at Samurai or for the basics while leveling and learning the job. As before, I will refer to [Jahaudant’s Compendium](http://bit.ly/SAM-Compendium) for further reading to interested parties.
-
-
 
 - - -
 
@@ -368,27 +335,15 @@ Midare First should be reserved for encounters with a phase or kill time such th
 
 Rule of thumb: Always AoE when there are three or more enemies. When AoEing groups of enemies as a SAM, you will want to put your buffs up with the respective single target rotation, and then follow the below basic rotation:
 
-
-
 ![](https://lh3.googleusercontent.com/numQT6H0qJhcPq916tUyTWxWrOQS9sjdhPlCZ4TQFH87HHfmUcfApY1N7TOlmKwp5OC5XZRLgwxCLT_ssODME-bCBq42DRciJizIvtReX4LMSsrRnyrqcYzBKXbsvn0hSxlZXdTY=s0)
-
-
 
 The strength of SAM’s AOE rotation lies in the fact that both two-GCD AOE combo generates a different Sen each, allowing you to flow into a Tenka Goken easily. They also will naturally upkeep your buff timers, so you won't have to awkwardly switch from AoE to single target back and forth. Their strongest Hissatsu move, Guren, is an extremely potent AOE as well and it is worth saving Guren for adds or AOE as long as you’re not holding on to it for longer than its cooldown. Once you reach three targets or more, excess Kenki should be spent on Kyuten instead of Shinten(but remember to keep some for Kaiten on Tenka!)
 
-
-
 What happens if there are two targets?
-
-
 
 If both targets will last long enough, using Higanbana on each and reapply as necessary. Do not use Kaeshi Higanbana, even in this scenario it is more worthwhile to build 1 Sen with Yukikaze and apply the dot that way than it is to burn Kaeshi on Higanbana. Two targets also introduces it’s own “single target Tenka” rotation, where you are using your typical single target combos to build Sen but spending them on Tenka Goken instead of building 3 Sen and using Midare Setsugekka. This is because Kaiten Tenka Goken is also the most efficient in terms of Sen usage as you can perform it three times over six Sen, as opposed to Kaiten Midare Setsugekka twice over the same amount of Sens. An example of this is below, and assumes again that you already have your buffs up.
 
-
-
 ![](https://lh6.googleusercontent.com/W-2Es6ZOwHcu9DkkW4FgrHYNMFiyg41b-KTNhGJsBWBjO8Oi2-KhavooeH00LBSFL8tqpJtcthTB9mOmBLFidSqn-uzBO4L9meMoiJsrWWst6LoF920YzQoG1IIjc8SHNdivjmLe=s0)
-
-
 
 - - -
 
@@ -398,11 +353,7 @@ Being a good DPS player is not only being able to execute well, but also to adap
 
 With this, the guide has come to its conclusion. I hope you enjoyed the guide and were able to learn about the job, Samurai. Please don’t hesitate to let me know if anything about this guide can be improved.
 
-
-
 Thank you for reading this guide.
-
-
 
 ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\ffxiv_06292017_203312.png](https://lh4.googleusercontent.com/WYFGvb-_0xV2iCbfRhsYKe_QMAGvuQEO6wKAjoy3FhPpc6qUtJzO574h1NDE_DqwPxdVxILiiDcHCPQDG4JHGMBCBJru_bzpQlAHcclp_mrFccKC-9zvXjlkbVkKUPbNX2IzAwGO=s0)
 
@@ -432,29 +383,17 @@ Buffs: are beneficial effects that you have when they’re up. If a buff can be 
 
 Debuffs: are harmful effects that you apply on enemies to either maximize the damage they’ll take or reduce the damage they can do. Again, use wisely to maximize damage or safety of your tanks.
 
-
-
 ## Rules of Thumb
 
 * ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh6.googleusercontent.com/ZsoaL2z3o1xOLyRJ8ASJpCFJyeMdz6ZuHUUoOPercq6akUSGc2dbvkVk1GnNrEioTwqDH6EEc5X9o35MuMUS_cWrfhmtYiQydLDpj0MWC-kKE7x98131d4HH9tCqPov-aQO3gHkn=s0)Rotate through the combos: For classes with multiple combos with different effects, rotate through all of them for maximum effect. 
-
-
-
 * ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh5.googleusercontent.com/5MN4bkIOcz6kJZsk6FzRWrNr3eRpQbM9_moiWIb6nT8AMvSOJp-GOePbRaiCTIljyYQcLUkpkrveDcLdhQkpErQw4eBhx5GCI9vnnZQHzHvhyiHEpVPDjV2BbRduWf-JvYZqgTNy=s0)How many oGCDs between two GCDs?: At base GCD recast time, do not use more than two oGCDs between two consecutive GCDs. At reduced GCD recast time or high latency, use one oGCD unless the situation calls for it. Most of the time you don’t want to use one after a GCD with a cast time. There are certain oGCD that have a longer lock. For example using a potion will not allow you to double weave between two GCDs.
-
-
-
 * ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh6.googleusercontent.com/WfCyQS4LAr4acVAi0Ch3B_hUjHFFlq4JRRDOmMrR1bqS_REh8UpJEAGJiDa_EgjxW58VLLnkyE8YKo78CR07sfY-TpLTrbl4K271_utUd8wT8jr6rIvNFEEnmUoUIWBr_gUAE9Xg=s0)Taking a break on positionals: To minimize the movement required on moving between rear and flank for positional moves, position yourself at the point where the targeting circle breaks. By positioning yourself on the boundary between rear and flank you only need to move a foot either side for the positionals.
 
 ![](https://lh4.googleusercontent.com/iugvrxCSRoRG7NMfhhDlT6txW2o5EwTSE8J2FOlnH1TyiiSnJWn8KrUIRaTATPYvB7oA3_XIlM7dvwaLmGQXO9qswp27-lNU0fvN1enOh2iHVFsQQThVOwNmPNFEQAFBng7XcTwx=s0)
 
 Figure 1: How to position yourself to minimize movements for positionals!
 
-
-
 * ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh5.googleusercontent.com/14fbdNCDFcXpUP89NL2f0aRAwC8L8IXB9QpK4KNp7rt7otaGq3f2lW9a3AQsCLQ0p32puRxC0TFTNNcJ5B7HKIZiD_jAgU3knH1Uslplc0A3EotA4bDPlA1dljTn7oXLojAztWQv=s0)Dead DPS does no damage: Avoid dying at all cost unless the team strategy or mechanics require you to die so the encounter won’t wipe. A dead person contributes nothing while and will be raised with reduced battle stats.
-
-
 
 - - -
 
@@ -485,5 +424,3 @@ July 2019, Patch 5.0
 November 2019, Patch 5.1
 
 * 5.1 changes added and guide finally fully updated for Shadowbringers.
-
-<!--EndFragment-->
