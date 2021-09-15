@@ -42,66 +42,86 @@ https://etro.gg/gearset/4f21e0e3-d02e-4c58-a11d-a5cb062efcf8
 ### 5.55 High Piety
 
 * Safe to run in any environment.
-Perfect for those with no interest in optimizing or a fear of PF. The long awaited return of 2.41.\
-2.41 GCD\
+* Perfect for those with no interest in optimizing or a fear of PF. The long awaited return of 2.41.
+* 2.41 GCD
+
 <https://etro.gg/gearset/3b894bb4-3dd6-4fcd-adfd-0d4d43c37fea>
 
-### 5.55 Mid Pi
+### 5.55 Mid Piety
 
-Very good mana economy while maintaining 2.41 GCD for the best AF alignment.\
-The best High Ping Friendly Set as well.\
-2.41 GCD\
+* Very good mana economy while maintaining 2.41 GCD for the best AF alignment.
+* The best High Ping Friendly Set as well.
+* 2.41 GCD
+
 <https://etro.gg/gearset/7c0aefb5-c149-4eb4-9876-b9ef244e13a8>
 
-### 5.55 Lo Pi
+### 5.55 Lo Piety
 
-A better version of the best Non-Relic Set you can make. Mana is tight on e12s p1.\
-ONLY USE IN A CONTROLLED ENVIRONMENT AS USUAL. I'M NOT RESPONSIBLE IF YOU RUN OOM.\
-2.32 GCD\
+* A better version of the best Non-Relic Set you can make. Mana is tight on E12S Phase 1.
+* ONLY USE IN A CONTROLLED ENVIRONMENT AS USUAL. I'M NOT RESPONSIBLE IF YOU RUN OUT OF MANA.
+* 2.32 GCD
+
 <https://etro.gg/gearset/fd9ea1b9-8390-4ccc-9d36-36476fd6bfc8>
 
-### 5.55 Min Pi Sets
+### 5.55 Min Piety Sets
 
-These sets use the Bozja pants to drop us down to min piety, giving a decent dps gain at the cost of very low mp regeneration.\
-Playing the longer or more healing intensive fights with this set requires very good planning.\
-Don't use them on e12s p1 especially unless you're fully confident in your ability to do so.\
-ONLY USE IN A CONTROLLED ENVIRONMENT AS USUAL. I'M NOT RESPONSIBLE IF YOU RUN OOM.\
-2.31 GCD\
+* These sets use the Bozja pants to drop us down to min piety, giving a decent DPS gain at the cost of very low MP regeneration.
+* Playing the longer or more healing intensive fights with this set requires very good planning.
+* Don't use them on E12S Phase 1 especially unless you're fully confident in your ability to do so.
+* ONLY USE IN A CONTROLLED ENVIRONMENT AS USUAL. I'M NOT RESPONSIBLE IF YOU RUN OUT OF MANA.
+
+**2.31 GCD:**
+
 <https://etro.gg/gearset/5cb4d69e-30f5-41d6-8a88-4b586a04cc3a>\
-2.32 GCD\
+
+**2.32 GCD:**
+
 <https://etro.gg/gearset/88f8f236-df05-44a5-8251-31f0da3f060b>\
-2.22 GCD\
+
+**2.22 GCD:**  
+
 For actual speedruns only, check the gearcalc if you want it. 
 
 ### Other Sets
 
-Check the links below for less recommended alternatives.\
-Google Sheets: <http://bit.ly/schgearcalc>\
+Check the links below for less recommended alternatives.  
+
+Google Sheets: <http://bit.ly/schgearcalc>
+
 Website BETA (can't save own sets yet): <https://dpscalc.xivresources.com/>
 
 ## ULTIMATE SETS
 
 ### A Note on the 515 and 535 Relic Books
 
-Due to their totally customizable and adjustable stats, the Augmented Law's Order Codex and Blade's Wisdom are the ideal choice for all 3 previous ultimate fights (Blade's Wisdom provides 15 more substats in UWU and TEA, in UCOB they're functionally identical).\
-You can redistribute stats to ensure none are wasted on the fight by treating the cap on each substat as the cap at that ilvl.\
-For each fight those caps are:\
-TEA: 467\
-UWU: 318\
+Due to their totally customizable and adjustable stats, the Augmented Law's Order Codex and Blade's Wisdom are the ideal choice for all 3 previous ultimate fights (Blade's Wisdom provides 15 more substats in UWU and TEA, in UCOB they're functionally identical).
+
+You can redistribute stats to ensure none are wasted on the fight by treating the cap on each substat as the cap at that ilvl.
+
+For each fight those caps are:
+
+TEA: 467  
+UWU: 318  
 UCOB: 280  
 
 ### TEA Prog Set
 
-Flexible set able to accommodate a wide range of Piety levels and 2 different GCDs.  Standard setup uses Smoked Chicken for 2.42, you can use Twilight Popoto Salad for 2.41 or Golden Pineapple Juice for some extra Piety. You can put Piety instead of Det on Relic if desired (in any amount you want) and the Piety melds can be stripped out for Det/DH if you feel you wanna go lower (Existing Det melds can be swapped to DH too).\
-TL;DR: Use this as a starting point and adjust to comfort\
-2.42/2.41 GCD\
+Flexible set able to accommodate a wide range of Piety levels and 2 different GCDs.  Standard setup uses Smoked Chicken for 2.42, you can use Twilight Popoto Salad for 2.41 or Golden Pineapple Juice for some extra Piety. You can put Piety instead of Det on Relic if desired (in any amount you want) and the Piety melds can be stripped out for Det/DH if you feel you wanna go lower (Existing Det melds can be swapped to DH too).
+
+TL;DR: Use this as a starting point and adjust to comfort.
+
+**2.42/2.41 GCD:**
+
 <https://etro.gg/gearset/43bd7245-0e65-4bf6-8f23-5cfdefc62b95>\
-*Yes* the chest is unmelded, it's getting synced so what melds are in it (or even whether there are melds in it) is irrelevant.\
-*Yes* it's still the best option, the 520 Nier chest and 520 Augmented Exarchic chest are both slightly worse alternatives, as is a Crit melded 470 Augmented Deepshadow Chest.
+
+*Yes*, the chest is unmelded, it's getting synced so what melds are in it (or even whether there are melds in it) is irrelevant.
+
+*Yes*, it's still the best option, the 520 Nier chest and 520 Augmented Exarchic chest are both slightly worse alternatives, as is a Crit melded 470 Augmented Deepshadow Chest.
 
 ### Other TEA Sets
 
-Check the SCH Gear Calc and navigate to the TEA tab for old sets without the Relic/Dungeon gear.\
+Check the SCH Gear Calc and navigate to the TEA tab for old sets without the Relic/Dungeon gear.
+
 <http://bit.ly/schgearcalc>
 
 ### 5.5 Ultimate Prog Set
