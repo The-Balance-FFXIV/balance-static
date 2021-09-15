@@ -1,7 +1,7 @@
 ---
-title: Levelling Guide
+title: Leveling Guide
 ---
-# A guide for Bards that aren’t level 80 yet 
+# A Guide For Bards That Aren’t Level 80 Yet 
 
 While the main Balance guide is focused on level 80 gameplay, I thought it’d be nice to have something people can follow as they level. 
 
