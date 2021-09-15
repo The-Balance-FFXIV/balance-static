@@ -30,3 +30,37 @@ Optimal rotation is kill-time dependent. Standard opener with 3rd GCD Spirits Wi
 ## Eternity (E12S P2)
 2.43 GCD / Standard - [Fight GCD spreadsheet](https://xiv.sleepyshiba.com/pld/sheets/e12standard243.png)  
 2.41 GCD / Full Uptime - [Fight GCD spreadsheet](https://xiv.sleepyshiba.com/pld/sheets/e12uptime241.png) - requires a tank uptime Basic Relativity strat to gain a GCD before the stun.
+
+# Best in Slot
+
+**As of Patch 5.55**  
+2.43 and 2.41 are suggested for optimization except with latency or other consistency issues causing unreliable mechanic/phase timings. Listed speeds assume food is active.
+
+
+2.43 - Smoked Chicken
+
+Etro mirror
+
+
+2.42 - Chicken Fettuccine
+
+Etro mirror
+
+
+2.41 - Chicken Fettuccine
+
+Etro mirror
+
+
+2.40 - Chicken Fettuccine
+
+Etro mirror
+
+
+## No-Relic Gearsets
+Deprecated 5.4 Savage BiS sets if Blade's weapon (i535) is not available:
+
+2.43 - Smoked Chicken - Gearset with simulated DPS (Etro mirror)  
+2.42 - Chicken Fettuccine - Gearset with simulated DPS (Etro mirror)  
+2.41 - Chicken Fettuccine - Gearset with simulated DPS (Etro mirror)  
+2.40 - Chicken Fettuccine - Gearset with simulated DPS (Etro mirror)  
