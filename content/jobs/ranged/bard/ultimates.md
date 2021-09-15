@@ -46,7 +46,7 @@ As with any ultimate, mechanics are much more important than DPS. But, your grou
   * The first Optical Sights
   * One of the Irresistible Graces
 
-# Level 70 Ultimates
+# Level 70 Ultimates (UCoB, UWU)
 
 * The DPS checks in these fights are currently trivial (UCoB was killed with eight tanks!), so focus on mechanics and consistency (especially with your defensive skills) above all else. 
 * On UWU, song cycles can vary a lot with party phase push timings, so you'll need to feel it out for your particular group's normal timings.
