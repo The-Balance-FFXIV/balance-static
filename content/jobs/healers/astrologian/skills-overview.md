@@ -15,4 +15,7 @@ title: Skills Overview
 | Icon | Draw | 30 | Ability | | Instant | 30s | Draw a card (arcanum) from your divining deck. Only one arcanum can be drawn at a time. | 
 | Icon | Diurnal Sect | 30 | Ability | | Instant | 5s | Adds Regen to certain actions. | 
 | Icon | Undraw | 30 | Ability | | Instant | 1s | Return the currently drawn arcanum back to the deck. | 
-| Icon | Play | 30 | Ability | | Instant | 1s | Triggers the effect of your drawn arcanum. |
+| Icon | Play | 30 | Ability | | Instant | 1s | Triggers the effect of your drawn arcanum. || Icon | Aspected Benefic | 34 | Spell | 400 | Instant | 2.5s | Restores target's HP. | 
+| Icon | Redraw | 40 | Ability | | Instant | 30s | Draws a different arcanum from your deck. | 
+| Icon | Aspected Helios | 42 | Spell | 800 | 2s | 2.5s | Restores own HP and the HP of all nearby party members. |
+| Icon | Gravity | 45 | Spell | 600 | 1.5s | 2.5s | Deals unaspected damage with a potency of 140 to target and all enemies nearby it. | 
