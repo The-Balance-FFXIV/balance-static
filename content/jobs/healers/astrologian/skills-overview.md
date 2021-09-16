@@ -25,3 +25,14 @@ title: Skills Overview
 | Icon | Minor Arcana | 50 | Ability | | Instant | 1s | Converts currently drawn arcanum into the Lord of Crowns when Balance, Arrow, or Spear, or the Lady of Crowns when Bole, Ewer, or Spire.
 | Icon | Divination | 50 | Ability | | Instant | 120s | Increases damage dealt by self and nearby party members.
 | Icon | Malefic II | 54	| Spell | 400 | 1.5s | 2.5s | Deals unaspected damage with a potency of 170.
+| Icon | Collective Unconscious | 58 | Ability | | Instant | 60s | Creates a celestial ring around the caster.
+| Icon |  Celestial Opposition | 60 | Ability | | Instant | 60s | Restores own HP and the HP of all nearby party members.
+| Icon | Earthly Star | 62 | Ability | | Instant | 60s | Deploys an Earthly Star in the designated area and grants the effect of Earthly Dominance.
+| Icon | Stellar Detonation | 62 | Ability | | Instant | 3s | While under the effect of Earthly Dominance, detonates the currently deployed Earthly Star creating a Stellar Burst that deals unaspected damage with a potency of 100 to all nearby enemies.
+| Icon | Malefic III | 64 | Spell | 400 | 1.5s | 2.5s | Deals unaspected damage with a potency of 210.
+| Icon | Sleeve Draw | 70 | Ability | | Instant | 180s | Draws a card (arcanum) from your divining deck.
+| Icon | Combust III | 72 | Spell | 400 | Instant | 2.5s | Deals unaspected damage over time.
+| Icon | Malefic IV | 72 | Spell | 400 | 1.5s | 2.5s | Deals unaspected damage with a potency of 250.
+| Icon | Celestial Intersection | 74 | Ability | | Instant | 30s | Restores own or target party member's HP.
+| Icon | Horoscope | 76 | Ability | | Instant | 60s | Reads your fortune and those of nearby party members, granting them Horoscope.
+| Icon | Neutral Sect | 80 | Ability | | Instant | 120s | Increases healing magic potency by 20%.
