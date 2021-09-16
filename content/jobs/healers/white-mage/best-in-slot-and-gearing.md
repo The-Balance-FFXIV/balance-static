@@ -1,5 +1,5 @@
 ---
-title: Best in Slot and Gearing
+title: White Mage Best in Slot and Gearing
 ---
 # What's my BIS?!
 You have a lot to choose from! Healer sets are highly subjective based on personal and party play.  The sets below all use relic weapon, for edenmorn weapon versions check the gear spreadsheet!
