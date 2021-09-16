@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Dark Knight FAQ
 ---
 # Frequently Asked Questions
 
