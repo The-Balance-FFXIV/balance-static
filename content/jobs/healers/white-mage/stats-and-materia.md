@@ -1,7 +1,7 @@
 ---
 title: WHM Stats and Materia
 ---
-# What substats does WHM want? What should I meld?
+# What Substats Does WHM Want? What Should I Meld?
 
 This priority applies to dungeon gear, prog gear, raid gear... **LITERALLY EVERYTHING**.
 
