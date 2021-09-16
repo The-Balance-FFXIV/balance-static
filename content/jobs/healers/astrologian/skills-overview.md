@@ -39,3 +39,25 @@ title: Skills Overview
 
 # Arcana
 Arcana actions comprise abilities provided by drawing a random card from the astrologian deck.
+
+| Icon | Action | Level | Type | MP | Casting | Recast | Description | 
+| --- | --- | --- | --- | --- | --- | --- | --- | 
+| Icon | The Balance | 30 | Ability | | Instant | 1s | Increases damage dealt by a party member or self by 6% if target is melee DPS or Tank, or 3% for all other roles.
+| Icon | The Bole | 30 | Ability | | Instant | 1s | Increases damage dealt by a party member or self by 6% if target is ranged DPS or healer, or 3% for all other roles.
+| Icon | The Arrow | 30 | Ability | | Instant | 1s | Increases damage dealt by a party member or self by 6% if target is melee DPS or tank, or 3% for all other roles.
+| Icon | The Spear | 30 | Ability | | Instant | 1s | Increases damage dealt by a party member or self by 6% if target is melee DPS or tank, or 3% for all other roles.
+| Icon | The Ewer | 30 | Ability | | Instant | 1s | Increases damage dealt by a party member or self by 6% if target is ranged DPS or healer, or 3% for all other roles.
+| Icon | The Spire | 30 | Ability | | Instant | 1s | Increases damage dealt by a party member or self by 6% if target is ranged DPS or healer, or 3% for all other roles.
+| Icon | Lord of Crowns | 66 | Ability | | Instant | 1s | Increases damage dealt by a party member or self by 8% if target is melee DPS or tank, or 4% for all other roles.
+| Icon | Lady of Crowns | 66 | Ability | | Instant | 1s | Increases damage dealt by a party member or self by 8% if target is ranged DPS or healer, or 4% for all other roles.
+
+
+# Healer actions
+| Icon | Action | Level | Type | MP | Casting | Recast | Description | 
+| --- | --- | --- | --- | --- | --- | --- | --- | 
+| Icon | Repose | 8 | Spell | 600 | 2.5s | 2.5s | Inflicts target with Sleep.
+| Icon | Esuna | 10 | Spell | 400 | 1s | 2.5s | Removes a single detrimental effect from target.
+| Icon | Swiftcast | 18 | Ability | | Instant | 60s | Next spell is cast immediately.
+| Icon | Lucid Dreaming | 24 | Ability | | Instant | 60s | Gradually restores own MP.
+| Icon | Surecast | 44 | Ability | | Instant | 120s | Spells can be cast without interruption.
+| Icon | Rescue | 48 | Ability | | Instant | 120s | Instantly draw target party member to your side. Cannot be used outside of combat or when target is suffering from certain enfeeblements.
