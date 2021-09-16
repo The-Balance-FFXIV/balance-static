@@ -11,7 +11,7 @@ By Dook (Dook#0001)
 
 
 
-# Introduction
+## Introduction
 
 
 The Epic of Alexander (Ultimate) is the only ultimate released in FFXIV: Shadowbringers. The encounter is split into 4 phases; Living Liquid, Brute Justice/Cruise Chaser, Alexander Prime, and Perfect Alexander. The fight in its entirety is 18 minutes long. 
@@ -20,29 +20,36 @@ This guide will go over the rotational structure and basic guidelines for Machin
 > *Disclaimer: This guide is missing information when viewed on mobile!!! Footnotes can’t be seen and may have tips you find useful.*
 
 
-# Video References
+## Video References
 [Dook](https://www.youtube.com/watch?v=PQDx8xj_-S8) (Pink parse)  
 [Hinoka](https://www.youtube.com/watch?v=BaMXnRWjHIY) (Orange parse)
 
-# Best in Slot (2.50)
-Etro
+## Best in Slot (2.50)
+[Etro](https://etro.gg/gearset/ac9c7452-f161-4b4f-b915-99b7d295888d)
 
 Edit: The 2.44 set was removed due to the 535 relic making the 2.5 set superior by a wide margin.
-Phase 1: Living Liquid
+
+## Phase 1: Living Liquid
 
 Machinist suffers the most in this phase compared to the other physical ranged jobs due to a lack of AoE skills. There’s not much you can do to hit both Living Liquid and Liquid Hand at the same time. Since most of your damage will be single target it’s important to keep an eye on the health of both Living Liquid and the Hand and even out DPS where appropriate.
 
 
-Drill, Bioblaster and You
 
-Bioblaster should be used as long as both bosses are together and Reassemble is unavailable. The potency difference between drill and bioblaster is small (a mere 20 potency), but a reassembled drill is ~1300 potency and has priority over any other GCD at 2 targets. As a side note: Flamethrower is generally not worth using outside of tick fishing.
+### Drill, Bioblaster and You
+
+
+Bioblaster should be used as long as both bosses are together and Reassemble is unavailable. The potency difference between drill and bioblaster is small (a mere 20 potency), but a reassembled drill is ~1300 potency and has priority over any other GCD at 2 targets. As a side note: Flamethrower is generally *not* worth using outside of tick fishing.  
+*(Falling under the category of optimization; with earlier kill times (In the realm of ~2:00 - 2:10) you can get away with using Flamethrower to replace anywhere from 2 to 3 GCDs in Living Liquid during the Drainage tank buster. It comes at the loss of 10 - 15 heat, but it would allow you to use Barrel Stabilizer on cooldown, not overcap, and enter phase 2 with max or near max heat gauge. The gain from this is roughly 200 potency. Ensure you don’t drift Drill or Air Anchor to do this.)*
 
 The first phase of TEA hard enrages at 2:20. Because of this length specifically, groups will hold their 2 min buff windows for phase 2. What does this mean for us? Any Wildfire timing will work and should be decided based on group composition. However, it does mean you should always start with Reassemble prepull. Waiting for 0:20 to use Reassemble most likely will result in a lost cast. 
 
+
 There are different variations on how to sequence your opener depending on your comp. In a buff heavy comp I suggest doing the standard opener as it will out-damage any other variance due to the timing of how bosses spawn. When following a standard structure, the 2nd drill/bio window should always be a drill. The hand spawns at this point, but it’s hit or miss on whether Bioblaster will land on both targets. Alternatively, in comps lacking buffs, a set up of Reassemble Air Anchor > Drill will guarantee Bioblaster hits both bosses at the 20 second mark. Additionally, starting with Air Anchor will allow you to get a final usage in the phase with kill times around 2:00.
+
 
 Here's a look at how Drill and Bioblaster interact with Chain Stratagem and Trick Attack. Since both of these buffs only affect half of the Bioblaster hit it’s important
 to note the damage difference when you're planning out using Drill or Bioblaster. For reference, expected values were calculated with the base crit stat from the BiS in mind.
+
 
 
 
@@ -71,18 +78,21 @@ Expected Bioblaster under Trick and Chain
 
 
 
-Basically what this means is Bioblaster is better unless you have both chain and trick or you’re using Reassemble. Using this chart and thinking of a 2 minute rotation cycle with both of these buffs in only Drills the rotation would be as follows:
 
-1st: Reassemble Drill
-2nd: Drill
-3rd: Bioblaster
-4th: Reassemble Drill
-5th: Bioblaster
-6th: Bioblaster
+Basically what this means is Bioblaster is better unless you have both chain and trick or you’re using Reassemble. Using this chart and thinking of a 2 minute rotation cycle with both of these buffs in only Drills the rotation would be as follows:  
+
+1st: Reassemble Drill  
+2nd: Drill  
+3rd: Bioblaster  
+4th: Reassemble Drill  
+5th: Bioblaster  
+6th: Bioblaster  
+
 
 For the sake of this fight in particular, you may not want to follow that specific rotation. The third use, which normally would be a Bioblaster, comes up during Jagd Dolls. Unless your group is dragging one of the bosses towards your section of the arena it would be more beneficial to use Drill here instead on the Doll. Adjust accordingly to the strat your raid group is using.
 
-Queen & Jagd Dolls
+
+### Queen & Jagd Dolls
 
 It is heavily suggested not to use Automaton Queen while Jagd Dolls are out. Her targeting A.I. is wonky and unreliable. Having her target an ally’s Jagd Doll will probably result in a wipe and also gives you much less control over the damage output on your own with her damage variance. It’s also highly suggested to not use Drill or Air Anchor if a Doll has below 40% HP. At that point a poorly timed direct critical hit will kill your add. It’s much safer to use the GCD on Living Liquid and come back to your Doll with a heated shot if that’s what happens.
 
@@ -90,29 +100,34 @@ The rest of the fight’s rotation is going to be somewhat normal aside from usa
 
 With Living Liquid being such a short phase it’s going to require some odd Queen summons. This may change slightly due to kill times, but if extending the phase to enrage, the first summon should be at 80 gauge while the second summon will be at 50. This allows us to build our battery back up before the phase ends to prepare for a big buff window in phase 2. If you’re killing around the 2 minute mark, you may only want to summon Queen once around 60 seconds. Otherwise you’ll risk going into BJ/CC with less than 50 battery.
 
-Kill times will vary, but the goal for Living Liquid is to end with 70 - 85 Heat (along with an unused Barrel Stabilizer) and 60 - 80 Battery. This enables your reopener on Phase 2 to be as high as possible without overcapping.
-
-Suggested uses for Tactician:
-
-As tank tethers appear. Covers Splashes, tank busters, and Cascade
-Jagd Doll sacrifices 
+Kill times will vary, but the goal for Living Liquid is to end with 70 - 85 Heat (along with an unused Barrel Stabilizer) and 60 - 80 Battery. This enables your reopener on Phase 2 to be as high as possible without overcapping.   
+*Keep in mind that once your group is comfortable with the DPS check at the end of Phase 1 you can then extend to the enrage cast by killing Liquid Hand first. This is a great strat for party comps with 3 min burst windows as it’ll allow them to do a full opener along with the 2 min burst window upon the start of Phase 2.*
 
 
 
+#### Suggested uses for Tactician:
+
+- As tank tethers appear. Covers Splashes, tank busters, and Cascade
+- Jagd Doll sacrifices 
 
 
 
-Phase 2: Brute Justice and Cruise Chaser
 
 
 
-Physical ranged really shine in this phase. They’re capable of handling all of the various movement mechanics without losing uptime. Machinists in particular can line up really well for the burst needed to take down the Plasma Shield on Cruise Chaser. I will focus on the rotation aspect since regardless of strat, your rotation should remain the same.
+
+## Phase 2: Brute Justice and Cruise Chaser
 
 
 
-Re-Opening With Delayed Reassemble
+Physical ranged really shine in this phase. They’re capable of handling all of the various movement mechanics without losing uptime. Machinists in particular can line up really well for the burst needed to take down the [Plasma Shield](#plasma-shield) on Cruise Chaser. I will focus on the rotation aspect since regardless of strat, your rotation should remain the same.
 
-Backtracking to what we discussed with Living Liquid, you should be entering Phase 2 with a substantial amount of Heat and Battery. Given the amount of downtime between phase 1 and 2 with limit cut, your Wildfire structure will reset. If you opened with a 4th GCD Wildfire, you can opt for a different opener here without any drawbacks given you still fit it into raid buffs. Due to the fact Reassemble is on a 55 second timer, we have some wiggle room on where we place it in our reopener. Using the example below, Reassemble will come back up for our Drill 60 seconds into Phase 2 when the Hidden Mines are being dropped and Enumeration stacks occur. 
+
+
+
+### Re-Opening With Delayed Reassemble
+
+Backtracking to what we discussed with [Living Liquid](#living-liquid), you should be entering Phase 2 with a substantial amount of Heat and Battery. Given the amount of downtime between phase 1 and 2 with limit cut, your Wildfire structure will reset. If you opened with a 4th GCD Wildfire, you can opt for a different opener here without any drawbacks given you still fit it into raid buffs. Due to the fact Reassemble is on a 55 second timer, we have some wiggle room on where we place it in our reopener. Using the example below, Reassemble will come back up for our Drill 60 seconds into Phase 2 when the Hidden Mines are being dropped and Enumeration stacks occur. 
 
 
 
@@ -124,7 +139,8 @@ Drill > Gauss Round > Ricochet > Split Shot > Reassemble > Queen > Air Anchor > 
 
 
 Bioblaster rules apply the same as they did in Phase 1. Some strats have the bosses tanked within close proximity of each other, so take advantage of this as much as possible. 
-Plasma Shield 
+
+### Plasma Shield 
 
 If your main target is Cruise Chaser, avoid using Automaton Queen when the Plasma Shield is being applied. Queen will NOT target the shield. Instead, she’ll target Cruise Chaser and hit for a bunch of 0’s. Best practice is to hold Queen until the shield has been destroyed or use her extremely early for this reason. During prog you can delay your drill by a GCD or two in preparation for Plasma Shield. Once the group is more comfortable this won’t be necessary.
 
