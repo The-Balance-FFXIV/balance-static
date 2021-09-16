@@ -13,8 +13,8 @@ Being Main or Off Tank (Primary or Secondary Tank) does not affect what opener y
 
 > *Gnashing Fang is ready earlier and earlier before No Mercy, why is this happening?*
 
-See the [Rotation Priority System part of the main GNB guide](https://guides.xivresources.com/jobs/tanks/gunbreaker/gunbreaker/#priority-system) 
+See the [Rotation Priority System part of the main GNB guide](https://guides.xivresources.com/jobs/tanks/gunbreaker/gunbreaker/#priority-system).
 
 > *Do I hold Bloodfest for No Mercy?*
 
-See the [Bloodfest part of the main GNB guide](https://guides.xivresources.com/jobs/tanks/gunbreaker/gunbreaker/#bloodfest)
+See the [Bloodfest part of the main GNB guide](https://guides.xivresources.com/jobs/tanks/gunbreaker/gunbreaker/#bloodfest).
