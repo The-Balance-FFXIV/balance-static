@@ -3,9 +3,7 @@ title: Warrior FAQ
 ---
 > *Lv70: Single Target vs AoE (Two targets)?*
 
-<https://docs.google.com/spreadsheets/d/e/2PACX-1vRqxeKcJJb0zc2Kh86mY222FLkV9r8YAByW-TzoPujokBy1DT4ofPlwpFhKN4K4uZWhrYLfHvo7Lz5g/pubhtml>
-\
-TL;DR: Very equal, but lv70 ST wins by a small margin
+[TL;DR: Very equal, but lv70 ST wins by a small margin](https://docs.google.com/spreadsheets/d/e/2PACX-1vRqxeKcJJb0zc2Kh86mY222FLkV9r8YAByW-TzoPujokBy1DT4ofPlwpFhKN4K4uZWhrYLfHvo7Lz5g/pubhtml)
 
 > *How do I relic?*
 
@@ -17,7 +15,6 @@ TL;DR: Very equal, but lv70 ST wins by a small margin
 > *How do I Upheaval?*
 
 All the time. I'm using Inner Release's recast timer as a visual guide whether to hit Upheaval or not.
-
 
 Hit Upheaval at:\
 -88s  \
