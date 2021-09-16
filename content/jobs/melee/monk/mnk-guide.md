@@ -143,7 +143,7 @@ There are a couple of minor things to keep in mind here. First is that at every 
 
 Chakra is Monk's job gauge, which stacks up to five times. At five stacks of Chakra, we can spend them to execute either The Forbidden Chakra, a strong single target oGCD, or Enlightenment, a weaker AoE oGCD.
 
-There are multiple ways that we generate chakra.
+There are multiple ways that we generate Chakra.
 
 |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
