@@ -339,12 +339,12 @@ collections:
     files:
       - label: "Landing page"
         name: "landing"
-        file: "content/jobs/tanks/dark knight/_index.md"
+        file: "content/jobs/tanks/dark-knight/_index.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "Leveling Guide"
         name: "leveling-guide"
-        file: "content/jobs/tanks/dark knight/leveling-guide.md"
+        file: "content/jobs/tanks/dark-knight/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -358,7 +358,7 @@ collections:
               - {label: "Message", name: "message", widget: "string"}
       - label: "Basic guide"
         name: "basic-guide"
-        file: "content/jobs/tanks/dark knight/basic-guide.md"
+        file: "content/jobs/tanks/dark-knight/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -372,7 +372,7 @@ collections:
               - {label: "Message", name: "message", widget: "string"}
       - label: "Skills overview"
         name: "skills-overview"
-        file: "content/jobs/tanks/dark knight/skills-overview.md"
+        file: "content/jobs/tanks/dark-knight/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -386,7 +386,7 @@ collections:
               - {label: "Message", name: "message", widget: "string"}
       - label: "Openers"
         name: "openers"
-        file: "content/jobs/tanks/dark knight/openers.md"
+        file: "content/jobs/tanks/dark-knight/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -400,7 +400,7 @@ collections:
               - {label: "Message", name: "message", widget: "string"}
       - label: "Frequently Asked Questions"
         name: "faq"
-        file: "content/jobs/tanks/dark knight/faq.md"
+        file: "content/jobs/tanks/dark-knight/faq.md"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "qna"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -421,7 +421,7 @@ collections:
               - {label: "Answer", name: "answer", widget: "markdown"}
       - label: "Advanced guide"
         name: "advanced-guide"
-        file: "content/jobs/tanks/dark knight/advanced-guide.md"
+        file: "content/jobs/tanks/dark-knight/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -435,7 +435,7 @@ collections:
               - {label: "Message", name: "message", widget: "string"}
       - label: "Best in Slot"
         name: "bis"
-        file: "content/jobs/tanks/dark knight/best-in-slot.md"
+        file: "content/jobs/tanks/dark-knight/best-in-slot.md"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "bis"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -458,7 +458,7 @@ collections:
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
       - label: "Stat Priority"
         name: "stat-priority"
-        file: "content/jobs/tanks/dark knight/stat-priority.md"
+        file: "content/jobs/tanks/dark-knight/stat-priority.md"
         fields:
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
@@ -472,7 +472,7 @@ collections:
           - {label: "Priority", name: "priority", widget: "string"}
       - label: "Job Changes"
         name: "job-changes"
-        file: "content/jobs/tanks/dark knight/job-changes.md"
+        file: "content/jobs/tanks/dark-knight/job-changes.md"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "changes"}
           - label: "Change"
@@ -641,12 +641,12 @@ collections:
     files:
       - label: "Landing page"
         name: "landing"
-        file: "content/jobs/healers/white mage/_index.md"
+        file: "content/jobs/healers/white-mage/_index.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "Leveling Guide"
         name: "leveling-guide"
-        file: "content/jobs/healers/white mage/leveling-guide.md"
+        file: "content/jobs/healers/white-mage/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -660,7 +660,7 @@ collections:
               - {label: "Message", name: "message", widget: "string"}
       - label: "Basic guide"
         name: "basic-guide"
-        file: "content/jobs/healers/white mage/basic-guide.md"
+        file: "content/jobs/healers/white-mage/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -674,7 +674,7 @@ collections:
               - {label: "Message", name: "message", widget: "string"}
       - label: "Skills overview"
         name: "skills-overview"
-        file: "content/jobs/healers/white mage/skills-overview.md"
+        file: "content/jobs/healers/white-mage/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -688,7 +688,7 @@ collections:
               - {label: "Message", name: "message", widget: "string"}
       - label: "Openers"
         name: "openers"
-        file: "content/jobs/healers/white mage/openers.md"
+        file: "content/jobs/healers/white-mage/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -702,7 +702,7 @@ collections:
               - {label: "Message", name: "message", widget: "string"}
       - label: "Frequently Asked Questions"
         name: "faq"
-        file: "content/jobs/healers/white mage/faq.md"
+        file: "content/jobs/healers/white-mage/faq.md"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "qna"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -723,7 +723,7 @@ collections:
               - {label: "Answer", name: "answer", widget: "markdown"}
       - label: "Advanced guide"
         name: "advanced-guide"
-        file: "content/jobs/healers/white mage/advanced-guide.md"
+        file: "content/jobs/healers/white-mage/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -737,7 +737,7 @@ collections:
               - {label: "Message", name: "message", widget: "string"}
       - label: "Best in Slot"
         name: "bis"
-        file: "content/jobs/healers/white mage/best-in-slot.md"
+        file: "content/jobs/healers/white-mage/best-in-slot.md"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "bis"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -760,7 +760,7 @@ collections:
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
       - label: "Stat Priority"
         name: "stat-priority"
-        file: "content/jobs/healers/white mage/stat-priority.md"
+        file: "content/jobs/healers/white-mage/stat-priority.md"
         fields:
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
@@ -774,7 +774,7 @@ collections:
           - {label: "Priority", name: "priority", widget: "string"}
       - label: "Job Changes"
         name: "job-changes"
-        file: "content/jobs/healers/white mage/job-changes.md"
+        file: "content/jobs/healers/white-mage/job-changes.md"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "changes"}
           - label: "Change"
@@ -2453,12 +2453,12 @@ collections:
     files:
       - label: "Landing page"
         name: "landing"
-        file: "content/jobs/casters/black mage/_index.md"
+        file: "content/jobs/casters/black-mage/_index.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "Leveling Guide"
         name: "leveling-guide"
-        file: "content/jobs/casters/black mage/leveling-guide.md"
+        file: "content/jobs/casters/black-mage/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -2472,7 +2472,7 @@ collections:
               - {label: "Message", name: "message", widget: "string"}
       - label: "Basic guide"
         name: "basic-guide"
-        file: "content/jobs/casters/black mage/basic-guide.md"
+        file: "content/jobs/casters/black-mage/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -2486,7 +2486,7 @@ collections:
               - {label: "Message", name: "message", widget: "string"}
       - label: "Skills overview"
         name: "skills-overview"
-        file: "content/jobs/casters/black mage/skills-overview.md"
+        file: "content/jobs/casters/black-mage/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -2500,7 +2500,7 @@ collections:
               - {label: "Message", name: "message", widget: "string"}
       - label: "Openers"
         name: "openers"
-        file: "content/jobs/casters/black mage/openers.md"
+        file: "content/jobs/casters/black-mage/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -2514,7 +2514,7 @@ collections:
               - {label: "Message", name: "message", widget: "string"}
       - label: "Frequently Asked Questions"
         name: "faq"
-        file: "content/jobs/casters/black mage/faq.md"
+        file: "content/jobs/casters/black-mage/faq.md"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "qna"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -2535,7 +2535,7 @@ collections:
               - {label: "Answer", name: "answer", widget: "markdown"}
       - label: "Advanced guide"
         name: "advanced-guide"
-        file: "content/jobs/casters/black mage/advanced-guide.md"
+        file: "content/jobs/casters/black-mage/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -2549,7 +2549,7 @@ collections:
               - {label: "Message", name: "message", widget: "string"}
       - label: "Best in Slot"
         name: "bis"
-        file: "content/jobs/casters/black mage/best-in-slot.md"
+        file: "content/jobs/casters/black-mage/best-in-slot.md"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "bis"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -2572,7 +2572,7 @@ collections:
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
       - label: "Stat Priority"
         name: "stat-priority"
-        file: "content/jobs/casters/black mage/stat-priority.md"
+        file: "content/jobs/casters/black-mage/stat-priority.md"
         fields:
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
@@ -2586,7 +2586,7 @@ collections:
           - {label: "Priority", name: "priority", widget: "string"}
       - label: "Job Changes"
         name: "job-changes"
-        file: "content/jobs/casters/black mage/job-changes.md"
+        file: "content/jobs/casters/black-mage/job-changes.md"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "changes"}
           - label: "Change"
@@ -2604,12 +2604,12 @@ collections:
     files:
       - label: "Landing page"
         name: "landing"
-        file: "content/jobs/casters/red mage/_index.md"
+        file: "content/jobs/casters/red-mage/_index.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "Leveling Guide"
         name: "leveling-guide"
-        file: "content/jobs/casters/red mage/leveling-guide.md"
+        file: "content/jobs/casters/red-mage/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -2623,7 +2623,7 @@ collections:
               - {label: "Message", name: "message", widget: "string"}
       - label: "Basic guide"
         name: "basic-guide"
-        file: "content/jobs/casters/red mage/basic-guide.md"
+        file: "content/jobs/casters/red-mage/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -2637,7 +2637,7 @@ collections:
               - {label: "Message", name: "message", widget: "string"}
       - label: "Skills overview"
         name: "skills-overview"
-        file: "content/jobs/casters/red mage/skills-overview.md"
+        file: "content/jobs/casters/red-mage/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -2651,7 +2651,7 @@ collections:
               - {label: "Message", name: "message", widget: "string"}
       - label: "Openers"
         name: "openers"
-        file: "content/jobs/casters/red mage/openers.md"
+        file: "content/jobs/casters/red-mage/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -2665,7 +2665,7 @@ collections:
               - {label: "Message", name: "message", widget: "string"}
       - label: "Frequently Asked Questions"
         name: "faq"
-        file: "content/jobs/casters/red mage/faq.md"
+        file: "content/jobs/casters/red-mage/faq.md"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "qna"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -2686,7 +2686,7 @@ collections:
               - {label: "Answer", name: "answer", widget: "markdown"}
       - label: "Advanced guide"
         name: "advanced-guide"
-        file: "content/jobs/casters/red mage/advanced-guide.md"
+        file: "content/jobs/casters/red-mage/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -2700,7 +2700,7 @@ collections:
               - {label: "Message", name: "message", widget: "string"}
       - label: "Best in Slot"
         name: "bis"
-        file: "content/jobs/casters/red mage/best-in-slot.md"
+        file: "content/jobs/casters/red-mage/best-in-slot.md"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "bis"}
           - {label: "Patch", name: "patch", widget: "string"}
@@ -2723,7 +2723,7 @@ collections:
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
       - label: "Stat Priority"
         name: "stat-priority"
-        file: "content/jobs/casters/red mage/stat-priority.md"
+        file: "content/jobs/casters/red-mage/stat-priority.md"
         fields:
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
@@ -2737,7 +2737,7 @@ collections:
           - {label: "Priority", name: "priority", widget: "string"}
       - label: "Job Changes"
         name: "job-changes"
-        file: "content/jobs/casters/red mage/job-changes.md"
+        file: "content/jobs/casters/red-mage/job-changes.md"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "changes"}
           - label: "Change"
