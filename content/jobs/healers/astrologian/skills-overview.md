@@ -19,3 +19,9 @@ title: Skills Overview
 | Icon | Redraw | 40 | Ability | | Instant | 30s | Draws a different arcanum from your deck. | 
 | Icon | Aspected Helios | 42 | Spell | 800 | 2s | 2.5s | Restores own HP and the HP of all nearby party members. |
 | Icon | Gravity | 45 | Spell | 600 | 1.5s | 2.5s | Deals unaspected damage with a potency of 140 to target and all enemies nearby it. | 
+| Icon | Combust II | 46 | Spell | 400 | Instant | 2.5s | Deals unaspected damage over time.
+| Icon | Nocturnal Sect | 50 | Ability | | Instant | 5s | Adds a damage-nullifying barrier to certain actions. Also increases MP cost of Aspected Benefic.
+| Icon | Synastry | 50 | Ability | | Instant | 120s | Generate an aetheric bond with target party member. Each time you cast a single-target healing spell on yourself or a party member, the party member with whom you have the bond will also recover HP equaling 40% of the original spell.
+| Icon | Minor Arcana | 50 | Ability | | Instant | 1s | Converts currently drawn arcanum into the Lord of Crowns when Balance, Arrow, or Spear, or the Lady of Crowns when Bole, Ewer, or Spire.
+| Icon | Divination | 50 | Ability | | Instant | 120s | Increases damage dealt by self and nearby party members.
+| Icon | Malefic II | 54	| Spell | 400 | 1.5s | 2.5s | Deals unaspected damage with a potency of 170.
