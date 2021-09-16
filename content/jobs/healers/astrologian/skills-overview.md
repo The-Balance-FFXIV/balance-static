@@ -2,10 +2,10 @@
 title: Skills Overview
 ---
 # Abilities
-Ability	Level	Type	Cast	Recast	MP Cost	Range	Radius
-Malefic
-Malefic from Final Fantasy XIV icon.png	1	Spell	1.5s	2.5s	400 MP	25y	—
-Deals unaspected damage with a potency of 150.
+
+|   | Ability | Level | Type | Cast | Recast | MP | Cost | Range | Radius |   |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Icon | Malefic | 1 | Spell | 1.5s | 2.5s | 400 MP | 25y| - | Deals unaspected damage with a potency of 150.
 Benefic
 Benefic from Final Fantasy XIV icon.png	2	Spell	1.5s	2.5s	400 MP	30y	—
 Restores target's HP.
