@@ -1,5 +1,5 @@
 ---
-title: Savages
+title: PLD Savages
 ---
 # Current Savage Tier Optimization
 
