@@ -46,7 +46,7 @@ With the release of Shadowbringers, Samurai is now celebrating two years in the 
   * Honing the Blade: Kenki and Potency
   * To Enpi or to Not Enpi (And Gyoten and Yaten)
   * Meikyo Shisui: A Mirror in Still Water
-  * Hagakure Usage
+  * Hagakure Usage - A Brief Mention
   * Higanbana Timing
   * Openers
   * AOE Rotations
@@ -289,7 +289,7 @@ An example of Meikyo with ideal usage as long as the buffs do not fall off:
 
 - - -
 
-## Hagakure Usage
+## Hagakure Usage - A Brief Mention
 
 Hagakure is an oGCD ability re-added to the game in patch 5.05 as a shadow of its former self. Originally a cornerstone of a Samurai’s rotation and toolkit in Stormblood, this ability now allows you to trade all of your Sen in for 10 Kenki each on a five-second cooldown. 
 
