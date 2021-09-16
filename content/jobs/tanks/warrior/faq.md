@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Warrior FAQ
 ---
 > *Lv70: Single Target vs AoE (Two targets)?*
 
