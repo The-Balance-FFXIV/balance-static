@@ -5,7 +5,7 @@ title: The Correct Way to Kick an Eldritch Horror in the Jaw
 
 ### Introduction
 
-Hello and welcome to Monkey, I am Perfect Balance and I am going to feed you the information you need to punch and kick at a decent level in the patch of our lord and saviour 5.58. You can get in touch with me on discord at wulf#8419, or on Twitter. at [@RiddleOfFire](https://twitter.com/RiddleOfFire). I'm not one for lengthy introductions, so let's get to feeding.
+Hello, and welcome to Monkey, I am Perfect Balance and I am going to feed you the information you need to punch and kick at a decent level in the patch of our lord and saviour 5.58. You can get in touch with me on discord at wulf#8419, or on Twitter. at [@RiddleOfFire](https://twitter.com/RiddleOfFire). I'm not one for lengthy introductions, so let's get to feeding.
 
 # Contents
 
@@ -137,8 +137,6 @@ As previously mentioned, Monk has six core single-target GCDs.
 | ![](https://xivapi.com/i/000000/000210.png) | Snap Punch has a potency of 270, or 300 when executed from the flank. It can only be executed from Coeurl form.                                                                                                                                                                                                          |
 | ![](https://xivapi.com/i/002000/002536.png) | Form Shift is a unique GCD, as it's not directly a part of our rotation, but it does enable our rotation. Form Shift grants the Formless Fist buff, which allows you to use any GCD and gain its additional form effects. Since this GCD does no damage, we only ever use it before pulling an enemy or during downtime. |
 
-
-
 There are a couple of minor things to keep in mind here. First is that at every form you have two options for which GCD to use. Second, is that all positionals are worth 30 potency except for Bootshine, where you instead lose the guaranteed crit effect if you miss the positional. Therefore Bootshine is the most important positional to land, as it's potentially the biggest loss.
 
 ## Opening Your Inner Chakra
@@ -165,8 +163,6 @@ We have three buffs:
 | ![](https://xivapi.com/i/002000/002542.png) | Brotherhood     | 90s      | 15s            | applies 2 effects to you and all party members within 15 yalms. The first is a 5% damage increase. The second is Meditative Brotherhood, which helps generate chakra. |
 | ![](https://xivapi.com/i/000000/000217.png) | Perfect Balance | 90s      | 10s / 6 stacks | enables the use of any GCD as if you have its form bonus.                                                                                                             |
 
-
-
 We have five damaging oGCDs at our disposal.
 
 | Icon                                        | Name                 | Cooldown | Effect                                                                                                                                                                                            |
@@ -176,8 +172,6 @@ We have five damaging oGCDs at our disposal.
 | ![](https://xivapi.com/i/002000/002526.png) | Shoulder Tackle      | 30s      | deals 100 potency to a single target, with 2 charges. This is also our gap closer, and so should be used to traverse long distances quickly as opposed to walking across a room and wasting time. |
 | ![](https://xivapi.com/i/002000/002535.png) | The Forbidden Chakra | 1s       | deals 340 potency to a single target. As previously mentioned, The Forbidden Chakra costs 5 stacks of chakra to use.                                                                              |
 | ![](https://xivapi.com/i/002000/002545.png) | Enlightenment        | 1s       | deals 200 potency to all enemies in a straight line in front of you. Enlightenment also has a cost of 5 chakra.                                                                                   |
-
-
 
 We never hold any of our oGCDs. You'll notice that every skills cooldown is a multiple of 90; this means that if we press them all exactly when they come back up, they will realign perfectly every time.
 
