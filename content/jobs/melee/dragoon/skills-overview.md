@@ -36,4 +36,4 @@ title: Skills Overview
 
 |![Blood of the Dragon](https://xivapi.com/i/002000/002581.png)|Blood of the Dragon|BotD|Dragoon's primary mechanic. Under normal circumstances, it should never fall off. Increases the potency of High Jump and Spineshatter Dive by 30% and enables the use of Fang and Claw, Wheeling Thrust and Geirskogul.|
 
-
+   
