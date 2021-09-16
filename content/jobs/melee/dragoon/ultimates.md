@@ -16,3 +16,5 @@ You'll get 2 :lc: on Garuda, 1 on Ifrit (can be held for nails), and save your s
 You will only get 1 :ds: on each of the three bosses, so judge according to your personal kill times as to when would be best to use on each of them, to allow these three uses and still have it back for Ultima's opener.
 
 https://cdn.discordapp.com/attachments/841722176017268826/854031489682112532/unknown.png?1631777932
+
+https://cdn.discordapp.com/attachments/610019474673762347/770644350060462120/ucob.jpg?1631778007
