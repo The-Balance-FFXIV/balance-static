@@ -1,24 +1,32 @@
 ---
-title: Savage
+title: Monk Savage Tips
 ---
 
-Hello it’s PB here and welcome to the Monk doc for Eden’s Promise.  
-In the following I’ll be collating advice that is generally specific for Monk, but in some places regarding uptime may be applicable to other melee dps too. Alongside examples clips and videos will be provided where applicable to help you see how to execute certain things.
+Hello, it’s PB here, and welcome to the Monk doc for Eden’s Promise. 
+ 
+In the following, I’ll be collating advice that is generally specific for Monk, but in some places (regarding uptime), may be applicable to other melee DPS too. Alongside examples, clips and videos will be provided where applicable to help you see how to execute certain things.
+
+
 Good luck, hope this helps.  
 
-Also I have youtube and twitch channels if you feel like checking them out :)
-[Youtube](https://www.youtube.com/channel/UC5j1GvOJ7Xb5BSsCyIBI3Wg)
+I also have YouTube and Twitch channels, if you feel like checking them out 
+
+
+[Youtube](https://www.youtube.com/channel/UC5j1GvOJ7Xb5BSsCyIBI3Wg)  
 [Twitch](https://www.twitch.tv/theperfectbalance)
 
+- - -
 
 
 
-# Standard Opener
+
+# Standard Opener  
 ![Standard Opener](https://imgur.com/vaEhjJQ.jpg)
 
-# Early Buff Opener
+# Early Buff Opener  
 ![Early Buff Opener](https://imgur.com/qdHxosA.jpg)
 
+- - -
 
 # Cloud of Darkness
 
