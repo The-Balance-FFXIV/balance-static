@@ -1,5 +1,5 @@
 ---
-title: Openers and Rotation
+title: AST Openers and Rotation
 ---
 # Opener
 
