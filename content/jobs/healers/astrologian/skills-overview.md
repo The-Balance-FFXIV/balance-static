@@ -36,3 +36,6 @@ title: Skills Overview
 | Icon | Celestial Intersection | 74 | Ability | | Instant | 30s | Restores own or target party member's HP.
 | Icon | Horoscope | 76 | Ability | | Instant | 60s | Reads your fortune and those of nearby party members, granting them Horoscope.
 | Icon | Neutral Sect | 80 | Ability | | Instant | 120s | Increases healing magic potency by 20%.
+
+# Arcana
+Arcana actions comprise abilities provided by drawing a random card from the astrologian deck.
