@@ -6,10 +6,11 @@ title: Ultimate
 
 
 
-By Dook (Dook#0001)
-(Revised for 5.5)
 
+(Revised for 5.5)  
 
+By Dook (Dook#0001)  
+Special thanks to Lynn Nuvestrahl, Sune Dakwhil, Chione Frost and Hinoka Shirasagi for helping me write this. It’d be somewhat elementary without them.
 
 ## Introduction
 
@@ -53,27 +54,18 @@ to note the damage difference when you're planning out using Drill or Bioblaster
 
 
 
-
-Base Drill Potency
-700
-Base Bioblaster Potency
-720
-Expected Drill Potency
-790
-Expected Bioblaster Potency
-818
-Expected Drill under Trick
-830
-Expected Bioblaster under Trick
-859
-Expected Drill under Chain
-831
-Expected Bioblaster under Chain
-839
-Expected Drill under Trick and Chain
-872
-Expected Bioblaster under Trick and Chain
-860
+| | |
+|:---:|---|
+|Base Drill Potency | 700
+Base Bioblaster Potency | 720
+Expected Drill Potency | 790
+Expected Bioblaster Potency | 818
+Expected Drill under Trick | 830
+Expected Bioblaster under Trick | 859
+Expected Drill under Chain | 831
+Expected Bioblaster under Chain | 839
+Expected Drill under Trick and Chain | **872**
+Expected Bioblaster under Trick and Chain | 860
 
 
 
@@ -132,6 +124,8 @@ Backtracking to what we discussed with [Living Liquid](#living-liquid), you shou
 
 
 
+
+![](https://cdn.discordapp.com/attachments/458951851610734595/888378770724093972/unknown.png)
 Drill > Gauss Round > Ricochet > Split Shot > Reassemble > Queen > Air Anchor > Gauss Round > Ricochet > Slug Shot > Gauss Round > Ricochet > Clean Shot  > Hypercharge > Heat Blast > Wildfire> Heat Blast > Barrel Stabilizer > etc.
 
 
@@ -145,69 +139,84 @@ Bioblaster rules apply the same as they did in Phase 1. Some strats have the bos
 If your main target is Cruise Chaser, avoid using Automaton Queen when the Plasma Shield is being applied. Queen will NOT target the shield. Instead, she’ll target Cruise Chaser and hit for a bunch of 0’s. Best practice is to hold Queen until the shield has been destroyed or use her extremely early for this reason. During prog you can delay your drill by a GCD or two in preparation for Plasma Shield. Once the group is more comfortable this won’t be necessary.
 
 
-To Blast or Not to Blast
+
+### To Blast or Not to Blast
 
 At the 5-minute mark in the encounter, your group will have two options. Either: 
 
-Unload on Brute Justice and Cruise in another burst window 
-Hold that burst window for the first damage phase in Phase 3. 
+1. Unload on Brute Justice and Cruise in another burst window 
+2. Hold that burst window for the first damage phase in Phase 3. 
+
 
 If dps is on the lower side, especially in prog, it’s suggested blowing your raid buffs and burst cooldowns at 5 minutes. This happens at the same time that Nisi resolves so everyone will be in proximity of raid buffs regardless of strat used. Keep in mind, regardless of whether or not you use your burst at 5 minutes that you will still get 2 WF windows in Phase 3. Choosing whether or not to use them at the end of Phase 2 should be a group decision discussed in your raid group but is mostly dependent on group DPS before Nisi resolves.
+
 
 As with Living Liquid, it’s suggested ending Phase 2 with a considerable amount of Heat and Battery for the burst going into Alexander Prime.
 
 
 
 
-Suggested uses for Tactician in Brute Justice/Cruise Chaser:
 
-Second water stack, will also catch the Hidden Mines
-Double Whirlwind
+#### Suggested uses for Tactician in Brute Justice/Cruise Chaser:
 
-
-
+- Second water stack, will also catch the Hidden Mines
+- Double Whirlwind
 
 
 
-Phase 3: Alexander Prime
+
+
+
+
+## Phase 3: Alexander Prime
 
 
 Alexander Prime is when Machinist really starts to set itself apart from its physical ranged counterparts. Unlike the first two phases, the rest of the fight is almost entirely single target bosses. These last two phases have a ton of downtime which is great for us. All of our heavy hitting cooldowns (aside from Wildfire) will be up every single time Alex is targetable.
 
 This is where pots start to matter. You can either pot in the first mini damage phase of Alexander or the second and they’ll still be back up for Phase 4. The timings for pots is reliant on if you used Wildfire at the end of Phase 2 or not. If you decide to pot in the first mini damage phase, you can actually pot before the Time Stop. This mechanic freezes everything cooldown related including pot timers. If you time it correctly, you’ll be able to skip the pot animation lock and have a full timer to unload all of your stored up Heat and Battery.
 
-Taking Advantage of The Heart
+
+### Taking Advantage of The Heart
 
 
-The main exploit for Machinist in this phase is during the crystal drops/heart phase. Even though the heart doesn’t take damage once it turns gold, you will still gain Gauge from attacking it. Make sure you get off Air Anchor and as many GCDs as you can during the heart phase since it's free damage! Air Anchor will come back up for the next damage phase no matter where you use it.
+The main exploit for Machinist in this phase is during the crystal drops/heart phase. Even though the heart doesn’t take damage once it turns gold, you will still gain Gauge from attacking it. Make sure you get off Air Anchor and as many GCDs as you can during the heart phase since it's free damage! Air Anchor will come back up for the next damage phase no matter where you use it.  
+*It’s highly dangerous due to the proximity explosions, but it is possible for 100% uptime during heart phase. The theoretical max gain from hitting the heart is 50 Battery and 45 Heat using Air Anchor and 3 full combos. This strategy is not suggested while learning the phase. Here’s two clips showing how it’s done: [50 Battery Inception (Tetrashatter Drop)](https://www.youtube.com/watch?v=H6iuCAzY9fA&feature=youtu.be) and [50 Battery Inception (Orb Tether)](https://youtu.be/TFRBkaQQ9gY).*
 
-Burn Phase
+
+
+### Burn Phase
 
 
 During adds be careful about the timing for when you summon Queen. If summoned too early it’s possible she’ll target Alexander Prime whom of which is invulnerable until both Cruise Chaser and Brute Justice are dead. Once Brute Justice is down for the count your main goal will be getting back up to max or near max gauge for Perfect Alexander. Machinist is by far the best physical ranged option for Perfect phase due to the fact that we can transition to Phase 4 of the fight with a 100/100 gauge.
 
-Suggested uses for Tactician in Alexander Prime:
+
+#### Suggested uses for Tactician in Alexander Prime:
 
 
-Crystal explosions during Inception
-Incinerating heat stack post-wormhole
-Sixth cast of J-Wave
+- Crystal explosions during Inception
+- Incinerating heat stack post-wormhole
+- Sixth cast of J-Wave
 
 
 
-Phase 4: Perfect Alexander
+
+## Phase 4: Perfect Alexander
 
 
 Your reopener is going to be extremely busy. There’s no prepull to prep a pot or Reassemble, thus forcing you to weave in abilities you wouldn’t normally weave in an opener. You should also be capped on resources meaning you will overcap on something. Choosing what you overcap is really the only option here if you’re going into the phase with full gauge.
 
-Stillness and Motion
+
+### Stillness and Motion
 
  Luckily for us our opening burst is just short enough to cram everything into a 20-second period of time before Stillness/Motion. Even if you’re unlucky with Stillness first the following rotation can be done without being interrupted:
 
 
 
 
+
+![](https://cdn.discordapp.com/attachments/458951851610734595/888379620787884082/unknown.png)
 Drill > Pot > Split Shot > Reassemble > Queen > Air Anchor > Gauss Round > Ricochet > Slug Shot > Wildfire > Hypercharge > Heat Blast > Ricochet > Heat Blast > Gauss Round > Heat Blast > Ricochet > Heat Blast > Gauss Round > Heat Blast > Ricochet > Clean Shot > Drill > Gauss Round > Ricochet 
+
 
 Your final Drill should land right after Ordained Stillness goes off. With that being said, this opener is best utilized with Motion first. There’s a Barrel Stabilizer that needs to be used as well, but I suggest using it after the Forced March. It won’t cost you a cast over the course of the phase and holding it ensures you won’t overcap on Heat.
 
@@ -215,9 +224,12 @@ Alternatively, if you’re not attempting to unload everything in short buff win
 
 
 
+
+![](https://cdn.discordapp.com/attachments/458951851610734595/888379661405552670/unknown.png)
 Queen > Split Shot > Pot > Drill > Gauss Round > Reassemble > Air Anchor > Ricochet > Gauss Round > Slug Shot > Wildfire > Hypercharge > Heat Blast > Ricochet > Heat Blast > Gauss Round > Heat Blast >  Ricochet > Heat Blast > Gauss Round > Heat Blast > Ricochet > Clean Shot > Split Shot > Drill
 
-Perfect Alignment
+
+### Perfect Alignment
 
 Queen usage in this phase lines up mostly with normal usage. The main thing to remember is Queen does stop when you get jailed. Each jail takes 5 seconds to come down, so pop her when there’s 3 or 4 jails left before your own, depending on battery gauge.
 
@@ -225,19 +237,21 @@ Phase 4 lasts exactly 6 minutes. This means we’re capable of using Wildfire th
 
 Following a standard rotation at 2.5, it’s possible you’ll enter Fate Calibration Beta with your last GCD being a Slug Shot, unable to get the Clean Shot off. To remedy this, you’ll want to use a 4-Heat Blast Hypercharge to get your heated combo GCD rolling sooner. It will make your Drill and Air Anchor alignment a bit wonky doing this, but it's fine to delay both slightly into the next GCD. You won’t risk losing any casts by doing so and you’ll gain the potency of a Clean Shot plus the accompanying 10 Battery.
 
-Temporal Prisons
+
+### Temporal Prisons
 
 Machinist is fine to go into the 5th prison. 5th Prison lands around the 5:30 mark which is after our entire burst phase has ended and allows us to dispose of all built up Gauge beforehand. Ultimately it will depend on the other jobs in your party and personal DPS.
 
 
-Suggested uses for Tactician in Perfect Alexander:
+
+#### Suggested uses for Tactician in Perfect Alexander:
 
 
 This phase length is 6 minutes, but due to downtime and the final enrage sequence there’s only really a chance at using Tactician twice.
 
-Optical Sights
-Ordained Capital Punishment
-Irresistible Grace
+- Optical Sights
+- Ordained Capital Punishment
+- Irresistible Grace
 
 
 
@@ -254,7 +268,9 @@ Irresistible Grace
 
 
 
-Special thanks to Lynn Nuvestrahl, Sune Dakwhil, Chione Frost and Hinoka Shirasagi for helping me write this. It’d be somewhat elementary without them.
+
+
+
 
 
 The Weapon’s Refrain by Dook: 
