@@ -31,7 +31,7 @@ A: Either set would be plenty fine for both high ping and for newer players. The
 A: Due to a lack of Crit + SpS pieces of gear at cap, a higher speed set ends up with a low amount of Crit naturally. As a result, Crit generally becomes less valuable of a meld compared to other options.
  
 ## Q: What stats should I put on my relic?
-A:  If you’re using a high SpS set you will likely want to use more SpS + DH with some Det. High-crit set will generally lean towards a stat spread closer to Crit + SpS + DH/Det. You can min-max using the 5.X relative gear comparison sheet if desired.
+A:  If you’re using a high SpS set you will likely want to use more SpS + DH with some Det. High-crit set will generally lean towards a stat spread closer to Crit + SpS + DH/Det. You can min-max using the [5.X relative gear comparison sheet if desired.](http://bit.ly/BLMGear)
 
 
 ## Q: What's the UCoB/UwU BiS?
@@ -40,7 +40,7 @@ If you just aim to clear you can use synced gear just fine. If you want to speed
 UwU: i375 head/hands/feet. i470+ everything else.
 UCoB: i430+ weapon. i345 everything else.
 A Resistance weapon with capped stats will beat a synced weapon.
-Use the 4.X relative damage calculator sheet to min-max your own sets.
+Use the [4.X relative damage calculator sheet](https://docs.google.com/spreadsheets/d/1mnu8G8p_zC0DVyDz_FNs04tBmUiBq8wRUpxcZf1JOQw/) to min-max your own sets.
 Rotational situations
 
 
@@ -60,4 +60,4 @@ Miscellaneous
 
 
 ## Q: What macros does BLM use?
-A: None except for macros for AM and Sprint. You can find an example in the 5.X BLM guide.
+A: None except for macros for AM and Sprint. You can find an example in the [5.X BLM guide.](LINK)
