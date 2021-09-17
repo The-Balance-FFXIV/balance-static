@@ -162,7 +162,95 @@ Guide contributors;
 
 --- 
 
-Eden's Verse by Lynn: https://docs.google.com/document/d/1qQsK1u261giQzHhXI9ko73zDxsy_azxEJOZjRi5C8kk/edit
+
+# Eden’s Verse (E5S-E8S)
+
+Last Updated: 28-Aug-2020
+
+
+## E5S
+
+### Early Wildfire
+Use Wildfire after 4th GCD or sooner in the opener to finish it before the first Fury 14 knockback.
+
+### Tactician
+Cover any Judgement Volt AoEs you can, especially the one during Chain Lightning.
+
+
+## E6S
+### Wildfire raid buff desync
+Transition to the last phase will desync some raid buffs from Wildfire but delaying to resync might cost Wildfire casts so keep using it on cooldown.
+
+
+### Reassemble
+It’s possible to get 2 casts of Reassemble during Ifrit+Garuda phase instead of delaying the second cast to the start of Raktapaksa. You’ll have to be quite aggressive with precasting it during transition, be quick with your first gcd and avoid any clipping to pull it off though. Reassemble should come back up in time for the last or second-to-last gcd in the phase so you can get the cast out if you delay the last Drill in the phase for it.
+
+
+### Queen
+Take care not to summon Queen just before phase transitions or a lot of the potency will be lost.
+
+
+### Skill speed
+2.44 gcd or faster can gain you a Drill cast just before phase transitions but be careful of ghosting since it’ll eat Reassemble as well.
+
+
+### Tactician
+Target Inferno Howls or other unavoidable AoE damage like Storm of Fury tethers + Air Bump.
+
+
+## E7S
+
+### Rotation alignments
+This fight will throw a serious wrench into all your alignments with the downtime and teleports. Do your best to keep using Drill, Anchor and Wildfire on cooldown and avoiding heat waste. I do this at the expense of delaying Barrel Stabilizer but honestly, I don’t know the optimal answer to this. Just press buttons.
+
+
+### Early Anchor
+2nd or 3rd GCD Anchor will get you a cast before first teleport, but it’ll be delayed into the add phase either way so it doesn't get an extra cast per se.
+
+
+### Queen
+Don’t summon Queen during teleports as it’ll get disabled during the forced movement and miss punches and/or Bunker.
+
+
+### Tactician
+Empty waves, first teleport with tethers, Unearned Envy AoEs from Blasphemy in add phase, black and white portals if the party is stacking and eating the avoidable damage.
+
+
+## E8S
+
+### Phase 1 end
+2.44 GCD or faster can get an extra Drill, Anchor or Clean Shot at the end of the first phase. With 2.50 GCD you can end the phase on a Clean Shot for a small potency gain by doing only 4 Heat Blasts in your last Hypercharge to gain the needed time to finish the combo.
+
+
+### Add phase: Left/West side
+Take the left side to silence one of the Earth add’s Stoneskin casts. Drill and Anchor are very good at dropping Electric adds. Queen can be used at lower gear levels for 2nd or 3rd wave to ease dealing with Earth and Aqua adds. Wildfire is not worth using as the adds die far too quickly and it won’t be ready for reopener.
+
+Communicate with your party members to fine tune your plan for the phase and to make the most of everyone’s cooldowns and abilities, there are many correct ways to do the phase.
+
+
+### Reopeners with potion
+Since Shiva is instantly targetable after the add phase, you can’t use a precast potion without clipping, so the following structure is recommended:
+
+1 (pot) > Drill (REA+Queen) > Anchor > 2 > 3 (WF+HC)
+
+Drill and Anchor positions can be swapped if Queen was used in add phase and you need the battery earlier for the opener. Anchor can be delayed by 1 gcd after Drill but no later or Reassemble can’t be realigned with Drill for the next cast.
+
+
+### Tactician
+This fight requires heavy mitigation at times so communicate with your healers to find the pressure points. Good example targets:
+
+- Absolute Zero (right at the start during opener)
+- Light Rampant
+- Akh Morn + Morn Afah (after adds during reopener)
+- Double knockback mirrors
+- Icelit Dragonsong
+- Akh Morn + Morn Afah (at the end)
+
+
+## Credits
+Document written by Lynn Nuvestrahl (Odin).  
+Feedback, suggestions and questions are welcome at [The Balance discord Machinist channels](https://discord.gg/thebalanceffxiv) or at Lynn#8794.
+
 
 --- 
 
