@@ -1,9 +1,7 @@
 ---
 title: The Pursuit of Comfiness - Bard Guide 5.X
 ---
-# The Pursuit of Comfiness - Bard Guide 5.X
-
-## Authors
+# Authors
 
 by **Verzell Varion \[Adamantoise]**
 **with contributions from Im’hotep Rah \[Goblin], Sana Cetonis \[Sargatanas], Ellunavi Sevald \[Sargatanas], Yumiya Nagatsuki \[Behemoth], Elya Kura \[Ragnarok]**
