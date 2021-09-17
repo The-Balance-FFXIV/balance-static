@@ -269,36 +269,40 @@ This phase length is 6 minutes, but due to downtime and the final enrage sequenc
 
 
 
+--- 
 
 
-
-
-The Weapon’s Refrain by Dook: 
-
-Machinist Guide for The Weapon’s Refrain (Ultimate)
+# The Weapon’s Refrain (Ultimate)
 By Dook Prime (Dook#0001)
 (Patch 5.5)
 
-Introduction
+
+## Introduction
 
 
-The Weapon’s Refrain is the second ultimate released in FFXIV: Stormblood. The fight syncs you down to level 70 in an attempt to keep the difficulty of the fight equal to what it was on release. While it doesn’t do a great job of that, it does remove certain skills and abilities that we gained in Shadowbringers. The encounter is split into 5 phases; Garuda, Ifrit, Titan, Lahabrea, and Ultima. The fight in its entirety is 16 minutes long. This guide assumes a basic understanding of how Machinist works while outlining specific optimization due to phasing and AoE situations. This doc is written with the 5.5 relic weapon in mind. If you’ve allotted your attribute points correctly on the weapon you’ll be at 2.46 GCD. This is important to keep in mind as some of the rotational decisions discussed here rely on that GCD speed. 
 
-Video References
-Dook (Pink parse)
+The Weapon’s Refrain is the second ultimate released in FFXIV: Stormblood. The fight syncs you down to level 70 in an attempt to keep the difficulty of the fight equal to what it was on release. While it doesn’t do a great job of that, it does remove certain skills and abilities that we gained in Shadowbringers. The encounter is split into 5 phases; Garuda, Ifrit, Titan, Lahabrea, and Ultima. The fight in its entirety is 16 minutes long. This guide assumes a basic understanding of how Machinist works while outlining specific optimization due to phasing and AoE situations. **This doc is written with the 5.5 relic weapon in mind. If you’ve allotted your attribute points correctly on the weapon you’ll be at 2.46 GCD. This is important to keep in mind as some of the rotational decisions discussed here rely on that GCD speed.**
 
-Gearing Advice
+
+### Video References
+[Dook](https://www.youtube.com/watch?v=JtTVFGzuGPo) (Pink parse)
+
+
+### Gearing Advice
 With so many gearing options and different phase pushes, true BiS does not exist. The most important thing that will affect your DPS is ensuring you’ve got the Shadowbringers 535 relic. This weapon allows you to maximize your stats with a load out of Relic substat with 318 CRIT/318 DH/318 DET/228 SKSP. Every other piece of gear should be at a minimum of i470 to ensure it syncs down to max stats. Current food as of 5.5 is Smoked Chicken, and there’s the consideration to take here where you’ll want synced 1790 DET to max out food gains.
 
-Level 70 Considerations
+
+## Level 70 Considerations
 There’s three differences at level 70 that should be thought about when figuring out how to maximize potency gains. 
 
-Hot Shot: 300 potency compared to Air Anchor that’s normally 700 potency. The main thing to consider is that buff alignment matters very little (if anything it’s better to use it outside of buffs) for Hot Shot. With only 300 potency it now does less damage than Slug Shot. Expected potency is 460 when you include the Battery gain though, so it’s still worth using, and should be used as many times as possible.
-Rook Autoturret: 100 Battery is now 800 potency and there’s no wind up animation on summon. Rook should still be used within buff windows, but you no longer want to use it before buffs come up. At 100 battery Rook will attack for exactly 15s from pressing the button, to give you an idea of when you would need to summon it to get Rook Overdrive in buffs.
-Gauss Round and Ricochet no longer have 3 charges; They’ve been reduced to 2. It is much harder to avoid overcapping your charges inside of hypercharge, and this also limits which openers you can use. 3rd, 4th and 5th GCD openers all work at 70. The General Purpose opener (6th GCD) will force a huge overcap on Gauss and Rico. If you go into Hypercharge at 0 stacks on both, but the cooldown on Gauss or Rico is 7 seconds or less, it will overcap by the end of the ability’s usage even with weaving between every Heat Blast. Sometimes this may be unavoidable and it’s just something you would need to deal with. It’s a minimal loss (if any), but it’s mentioned to let you know it may not be a mistake on your end. Job is just jank.
+- Hot Shot: 300 potency compared to Air Anchor that’s normally 700 potency. The main thing to consider is that buff alignment matters very little (if anything it’s better to use it outside of buffs) for Hot Shot. With only 300 potency it now does less damage than Slug Shot. Expected potency is 460 when you include the Battery gain though, so it’s still worth using, and should be used as many times as possible.
+- Rook Autoturret: 100 Battery is now 800 potency and there’s no wind up animation on summon. Rook should still be used within buff windows, but you no longer want to use it before buffs come up. At 100 battery Rook will attack for exactly 15s from pressing the button, to give you an idea of when you would need to summon it to get Rook Overdrive in buffs.
+- Gauss Round and Ricochet no longer have 3 charges; They’ve been reduced to 2. It is much harder to avoid overcapping your charges inside of hypercharge, and this also limits which openers you can use. 3rd, 4th and 5th GCD openers all work at 70. The General Purpose opener (6th GCD) will force a huge overcap on Gauss and Rico. If you go into Hypercharge at 0 stacks on both, but the cooldown on Gauss or Rico is 7 seconds or less, it will overcap by the end of the ability’s usage even with weaving between every Heat Blast. Sometimes this may be unavoidable and it’s just something you would need to deal with. It’s a minimal loss (if any), but it’s mentioned to let you know it may not be a mistake on your end. Job is just jank.
 
 
-Phase 1: Garuda
+
+## Phase 1: Garuda
+
 
 
 Garuda is a very short phase. You’ll only get a single use of Wildfire in this phase, so there’s no need to worry about opener alignment. There’s two options for the first set of plumes-- Either use Flamethrower for approximately two GCDs (5 seconds) or you can delay your opener and, instead of using Heat Blast, use Auto Crossbow for a portion of the Hypercharge window. The decision should be made on a group-by-group basis. The Plumes do not have a ton of health, so killing the spiny early will result in the tank only having one friction stack and make waking Garuda tighter than normal.
@@ -307,7 +311,9 @@ Specific to the 2.46 GCD we spoke of earlier, you may notice that Garuda jumps a
 
 The second set of plumes lines up perfectly with a Reassemble which can either be used on Auto Crossbow (If you’ve saved the required heat) or on Spread Shot into another use of Flamethrower. Both are 180 potency so the choice should be made purely on how much you’re able to burst on the plumes and/or forced to hold dps on Garuda, since killing her before tethers go off results in not waking. If using the aforementioned alignment in the previous paragraph, you’ll be able to finish off your Heated combo and lead directly into Spread Shot for the Plumes and not need to worry about dropping combo. Hot Shot and Drill both come off cooldown as this mechanic is ending, so you should do your best to ensure you get both off before she jumps. There’s slightly under 15 seconds of downtime between Garuda disappearing and Ifrit becoming targetable. A well timed Heated Shot can be carried into the next phase.
 
-Phase 2: Ifrit
+
+## Phase 2: Ifrit
+
 
 
 As with Garuda, Ifrit is a very short phase. You’ll only be able to get off a single Wildfire here. Your reopener is a good place to pot if your group is trying to make Ifrit dash skip consistent. 
@@ -315,7 +321,9 @@ As with Garuda, Ifrit is a very short phase. You’ll only be able to get off a 
 Machinist should be one of the two people baiting eruptions. With how heat lines up around nails, you’ll be able to get a Hypercharge window out and possibly pad a bit during this mechanic. It’s completely dependent on comp and which jobs are actively hitting the two nails closer together. At minimum it’s suggested to unload a single target Hypercharge into Ifrit and enjoy the free cleave from Ricochet on three targets. There’s a Drill (and possibly a Reassemble, depending on push timings) that comes up during nails that can be used on the nail you’re responsible for to make quick work of it without requiring the Hypercharge to do so.
 
 
-Phase 3: Titan
+
+## Phase 3: Titan
+
 
 
 Depending on if you skip dashes or not will change whether or not you’ll manage to get two Wildfire windows or not. If your group is seeing dashes, plan on using Wildfire immediately for your reopener and again during Mario Kart at the end of the phase. If your group is skipping dashes, you’ll Wildfire after gaols during the Tumult spam. 
@@ -324,7 +332,9 @@ For prog purposes, it’s wise to hold Drill for the healer gaol. Especially ear
 
 Your last Barrel Stabilizer should happen either right before or right after Mario Kart. Ideally you don’t want full gauge coming out of Titan because of the Magitek Bits and Lahabrea himself in the transition, so planning out a last use of Rook and possibly a final Hypercharge before Titan dies may be a benefit to you to avoid overcapping.
 
-Phase 4: Lahabrea
+
+## Phase 4: Lahabrea
+
 
 
 There’s not much for us to do here except build up some gauge. This phase lasts approximately 95 seconds (Time from Titan jumping to Ultima becoming targetable) so it’s something to keep in mind for Barrel Stabilizer usage and a possible late Wildfire in Titan.
@@ -332,7 +342,9 @@ There’s not much for us to do here except build up some gauge. This phase last
 You’ll be able to get at least 3 GCDs on the Magitek Bits before caster limit break kills them, so it’s wise to get a full Heated Combo on them and leave Hot Shot for Lahabrea, who sticks around for approximately 5 GCDs.
 
 
-Phase 5: Ultima
+
+## Phase 5: Ultima
+
 
 
 Ultima is targetable before Predation for about 28 seconds. Perfect for a Dex pot and a reopener. At 2.46 you can get two Hypercharge windows in and still end on Clean Shot but you’ll need to cut the second Hypercharge short by a single Heat Blast and finish the uptime with Drill and Clean Shot. You’ll need to drift Drill a bit for this, but it’s fine as the next bit of downtime during Predation is longer than 20 seconds.
@@ -341,27 +353,29 @@ Your next Wildfire window comes up during Annihilation, and can be a bit tricky 
 
 Your second pot and third Wildfire should come back up in Primal Roulette. Burst timings should be coordinated with your group for this portion of the fight. This Wildfire can be held for as long as it needs to for your party’s buff windows since you won’t get another in the encounter.
 
-Suggested Tactician Usage
+
+## Suggested Tactician Usage
 
 
 Uses of Tactician should always be discussed with your group. The list below is merely suggestions and your group may decide, based on their party composition or healing plan, that Tactician being used elsewhere is more beneficial.
 
-Garuda: 
-During Cleanses (Possible to cover both Frictions and the cleanses that happen after them)
+- Garuda: 
+   - During Cleanses (Possible to cover both Frictions and the cleanses that happen after them)
 
-Ifrit
-Nails into Hellfire. If you use it during nails, try to inch towards the Searing Wind healer to cover them as well.
+- Ifrit
+   - Nails into Hellfire. If you use it during nails, try to inch towards the Searing Wind healer to cover them as well.
 
-Titan
-Tumults after triple gaols.
-Tumults after healer gaol. Has the added benefit of also covering the tank for Rock Buster and Mountain Buster.
+- Titan
+   - Tumults after triple gaols.
+   - Tumults after healer gaol. Has the added benefit of also covering the tank for Rock Buster and Mountain Buster.
 
-Ultima
-Predation (for limit break generation when eating the Afterburner)
-Tumults during Active Phase 1
-During Annihilation (Make sure to cover the Searing Wind healer before they leave the group!)
-Aetheric Boom
-Any of the primals during Roulette
+- Ultima
+   - Predation (for limit break generation when eating the Afterburner)
+   - Tumults during Active Phase 1
+  - During Annihilation (Make sure to cover the Searing Wind healer before they leave the group!)
+  - Aetheric Boom
+  - Any of the primals during Roulette
+
 
 
 Hope this helps. If there’s any questions or concerns, feel free to reach me in the MCH channels in The Balance!
@@ -375,4 +389,4 @@ Hope this helps. If there’s any questions or concerns, feel free to reach me i
 
 
 
-
+
