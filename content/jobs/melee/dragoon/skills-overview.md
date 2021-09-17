@@ -44,11 +44,24 @@ title: Skills Overview
 |![Lance Charge](https://xivapi.com/i/000000/000309_hr1.png)|Lance Charge|LC|Increases damage dealt by 15% for 20s. 90s cooldown|
 |![Dragon Sight](https://xivapi.com/i/002000/002587_hr1.png)|Dragon Sight|DS|Increases own damage dealt by 10% and the damage dealt by a specified target within 12y by 5% for 20s. 120s cooldown. Refer to the Basic Guide for tips on how to use this.|
 |![Battle Litany](https://xivapi.com/i/002000/002585_hr1.png)|Battle Litany|BL|Increases the Critical Hit Rate by self and party members within 15y by 10% for 20s. 180s cooldown.|
-|![Life Surge](https://xivapi.com/i/000000/000304_hr1.png)|Life Surge|LS|Guarantees a Critical Hit on the next Global Cooldown Action within 5s. 45s cooldown. Also works on AoE actions so it should always be paired with Full Thrust or Coerthan Torment.|
+|![Life Surge](https://xivapi.com/i/000000/000304_hr1.png)|Life Surge|LS|Guarantees a Critical Hit on the next Global Cooldown Action within 5s. 45s cooldown. Also works on AoE actions so it should always be paired with Full Thrust or Coerthan Torment. Absorbs 10% of the damage dealt from the buffed action as own HP|
 |![Tincture of Strength](https://xivapi.com/i/020000/020710_hr1.png)|Current Tincture of Strength|Pot|Increases Strength by 10% for 30s. 270s cooldown.|
 
+## Role Actions
+|Icon|Name|Acronym|Description|
+|---|---|---|---|
+|![Second Wind](https://xivapi.com/i/000000/000821_hr1.png)|Second Wind|-|Instant self-heal for 500 potency. 120s cooldown.|
+|![Leg Sweep](https://xivapi.com/i/000000/000824_hr1.png)|Leg Sweep|-|Stuns the target for 3s. 40s cooldown.|
+|![Bloodbath](https://xivapi.com/i/000000/000823_hr1.png)|Bloodbath|BB|Heals self for 1/6 of all physical damage dealt for 20s. 120s cooldown.|
+|![Feint](https://xivapi.com/i/000000/000828_hr1.png)|Feint|-|Reduces target's physical damage dealt by 10% for 10s. 90s cooldown.|
+|![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png)|Arm's Length|AL|Grants knockback immunity for 6s (note that some knockbacks cannot be mitigated with this) and inflicts 20% slow for 15s on attackers when struck during this time. 120s cooldown.
+|![True North](https://xivapi.com/i/000000/000830_hr1.png)|True North|TN|Nullifies all positional requirements for 10s. 45s cooldown, can hold 2 charges.|
 
-
-
-
-   
+## Traits
+|Icon|Name|Acronym|Description|
+|---|---|---|---|
+|![Lance Mastery](https://xivapi.com/i/005000/005284_hr1.png)|Lance Mastery|-|Enables the use of Fang and Claw or Wheeling Thrust as a 5th combo action and increases the potency of the 5th combo hit by 110 (380 -> 490).|
+|![Life of the Dragon](https://xivapi.com/i/005000/005285_hr1.png)|Life of the Dragon|LotD|Enables the collection of Dragon Eyes by using Mirage Dive. Using Geirskogul at 2 Eyes will turn Blood of the Dragon into Life of the Dragon for 30s.|
+|![Jump Mastery](https://xivapi.com/i/005000/005286_hr1.png)|Jump Mastery|-|Upgrades Jump to High Jump.|
+|![Lance Mastery II](https://xivapi.com/i/005000/005288_hr1.png)|Lance Mastery II|-|Increases the potency of True Thrust by 80 (210 -> 290), Vorpal Thrust by 40 (310 -> 350) and Disembowel by 50 (270 -> 320). Also enables the use of Raiden Thrust after meeting the positional requirement.|
+|![Blood of the Dragon Mastery](https://xivapi.com/i/005000/005287_hr1.png)|Blood of the Dragon Mastery|-|Blood of the Dragon defaults to 30s now. Also starts Life of the Dragon at 30s regardless of the remaining time of Blood of the Dragon.|
