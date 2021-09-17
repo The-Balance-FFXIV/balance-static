@@ -254,4 +254,79 @@ Feedback, suggestions and questions are welcome at [The Balance discord Machinis
 
 --- 
 
-Eden's Promise by Hinoka: https://docs.google.com/document/d/1DUHg4tsKaw8O-fl4XbwobXeEDinYV9AJWXkzgeSPBAk/edit
+# Eden’s Promise Fight Guide for MCH
+
+By Hinoka Shirasagi (Leviathan)
+
+
+
+## Considerations for All Fights
+Before changing any burst windows or mitigation plans, talk to your raid group about it first. Make sure you’re using Wildfire when the rest of the party is using their buffs and make sure you’re mitigating damage when your healers need you to. If you’re in PF and you can’t do that, do your best with what you’re given.
+
+
+## e9s
+### Clouds during Empty Plane:
+There are a number of ways you can handle your cloud during Empty Plane. You can have Heat available when your cloud spawns and Drill comes up after it spawns. If you elect to use Drill on your cloud, be careful of overkill. If your cloud doesn’t have a lot of health left, use Drill on the boss and return to the cloud with your standard combo or Heat Blasts if you Hypercharge after the Drill.
+
+### Wildfire and Potion Windows:
+Be wary of your placement during Empty Plane as you may miss buffs if you are on the opposite side of the arena from the person using the buff. For faster kill times it may be prudent to hold buffs and Wildfire until after Empty Plane finishes so you can use it alongside your second potion. For slower kill times, use your potion with the 6 minute Wildfire that comes up during Brambles with Towers.
+
+### Recommended Tactician Usage:
+Obscure Woods, Deluge of Darkness, Empty Plane, and Ground-Razing Particle Beam are the raidwides, and they are all good choices for Tactician. If your group opts for a strat where you stack the first set of Brambles, you may want to hold the first Tactician to use it on Evil Seed. If your group has a fast kill time and you adopt the speed kill strat where you ignore the clouds during Empty Plane, use Tactician on Deluge of Darkness. 
+
+
+
+
+## e10s
+### Wildfire and Potion Windows:
+There is 0 reason to hold 2 minutes in this fight, so you will be using Wildfire on cooldown alongside buffs. Use your second potion with the 6 minute buff window. If you are pushing against enrage, you may want to use it sooner than the 6 minute buff window to gain a third use at the very end.
+
+### Recommended Tactician Usage:
+Tactician is best used to mitigate the Umbral Orbs mechanic. Addle and Reprisal will not work on Umbral Orbs, only shields or buff mitigations like Tactician will. Deepshadow Nova, Darkness Unleashed, and Blighting Burst are the raidwides you want to mitigate otherwise. If your group opts to do uptime Spinny Dogs, you will need to make sure Tactician is up for that. You can mitigate the Blighting Burst stacks and it will be up in time for Spinny Dogs and subsequent Umbral Orbs.
+
+
+## e11s
+
+### Wildfire and Potion Windows:
+If you have a faster kill time, I strongly recommend moving your parties’ 4 minute buff window to 4:30 so that the raid’s burst is also under the second potion. The intermissions in this fight where the boss is untargetable line up perfectly with this, with your next Wildfire coming off cooldown right as the boss is targetable after the second intermission. If you don’t delay the buff window with a fast kill time, you will still want to use your second potion on cooldown at 4:30 to ensure you get 3 uses out of the fight. Your final burst window will be with a potion after Prismatic Deception. If your kill time is slower and you are hitting enrage, you will use your second potion at the 6:30 buff window and your final one at the 11 minute buff window.
+
+### Recommended Tactician Usage:
+Electric flavor Elemental Break hurts a lot with the AoEs that everyone gets, as well as Light flavor Elemental Break’s line stacks. Burnished Glory and the DoT it applies also hurt a ton. Ask your healers which they prefer you mitigate, but Electric Elemental Break is always a safe choice. Definitely use Tactician for the Electric cycle at the end.
+
+
+## e12s Door
+
+### Wildfire and Potion Windows:
+I would not recommend holding buffs during Shiva Junction, your group should try to burst during the mechanic. In the PoVs section of this guide you can find PoVs for examples of how you should handle this phase. Use your second potion with the Wildfire that comes up during Lions, and for faster kill times, ask your group to hold buffs until after Lions. If you are hitting enrage, you might want to use an opener with an earlier Wildfire to get the full damage out of the final one.
+
+### Recommended Tactician Usage:
+Maleficium is always a nice target, but the knockback and icicles during Shiva Junction hit very hard and may need extra mitigation in the form of Tactician. You can use Tactician in your opener before Wildfire for the first Obliterate and it will be up for Shiva Junction if your healers want it there for the knockback and Pillar Pierce. The statue stacks before the lasers also hurt a ton, and should be mitigated if Tactician is up.
+
+
+## e12s Oracle
+### Wildfire and Potion Windows:
+Hold your 2 minute Wildfire for after Basic Relativity resolves. There won’t be enough time before the stun for your party to get the full buff window and finish their burst. Automaton Queen will stop attacking while you are stunned, so you should either use it as your gauge hits 50 battery during Basic Relativity so that you get a 50 battery Queen during the buff window or hold onto it until after the stun for a 100 battery Queen during the buff window. Your next burst window will be right after Intermediate Relativity resolves. Use your second potion with the Wildfire and burst window after Advanced Relativity. 
+
+### Recommended Tactician Usage:
+I personally recommend using Tactician on each of the Relativity casts. All of them are nearly 2 minutes apart, allowing you to mitigate every one of them, and they are by far the hardest hitting raidwides in this fight. If your healers don’t want it there, your next best options will be Shockwave Pulsar casts and the Shell Crusher/Spirit Taker stack then spread.
+
+
+
+
+
+## PoVs and Clips
+Hinoka Shirasagi (Leviathan)
+- Twitch: [HinokaTheRed - Twitch](https://www.twitch.tv/hinokathered)
+- e9s: [MCH - Eulogy - e9s 6:34 Speed Kill - YouTube](https://www.youtube.com/watch?v=rzvUdzV_cKo)
+- e10s: [MCH - Eulogy - e10s 8:25 Speed Kill - YouTube](https://www.youtube.com/watch?v=PT4SON61lUM)
+- e11s: [MCH - Eulogy - e11s 9:42 Speed Kill - YouTube](https://www.youtube.com/watch?v=FMcApI31yjk)
+- e12s Door: [MCH - Eulogy - e12s Door Boss 7:18 Speed Kill - YouTube](https://www.youtube.com/watch?v=tQmQ22wlrd4&feature=youtu.be)
+- e12s Oracle: [MCH - Eulogy - e12s Oracle 7:43 Speed Kill - YouTube](https://www.youtube.com/watch?v=Gl4G9J5hgZ4&feature=youtu.be)
+- e12s Door Diamond Dust Execution Example (Arms Length): [Twitch](https://clips.twitch.tv/SuccessfulFineRhinocerosGrammarKing)
+
+
+Daddy Dook (Faerie)
+- Twitch: [Almightydook - Twitch](https://www.twitch.tv/videos/871685851)
+- e11s: [Highlight: E11s Clear](https://www.twitch.tv/videos/869414755)
+- e12s Door Diamond Dust Execution Example (No Arms Length): [Twitch](https://clips.twitch.tv/TriumphantBelovedSushiCmonBruh)
+
