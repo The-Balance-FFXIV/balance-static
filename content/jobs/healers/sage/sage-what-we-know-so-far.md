@@ -20,4 +20,4 @@ Here's what we know so far;
 
 For the official reveal video of Sage, see below!
 
-[![Sage Reveal](https://img.youtube.com/vi/ASTGVJLBX14/0.jpg)](https://www.youtube.com/watch?v=ASTGVJLBX14&ab_channel=FINALFANTASYXIV)
+{{< youtube ASTGVJLBX14 >}}
