@@ -1,5 +1,5 @@
 ---
-title: 5.X BLM Guide
+title: BLM Basic Guide
 ---
 Last updated: October 26, 2019
 
