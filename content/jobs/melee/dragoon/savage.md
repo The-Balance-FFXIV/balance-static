@@ -1,5 +1,5 @@
 ---
-title: Savage
+title: Dragoon Savage Tips
 ---
 # E9S
 
