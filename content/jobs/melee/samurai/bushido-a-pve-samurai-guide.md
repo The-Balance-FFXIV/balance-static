@@ -15,7 +15,7 @@ title: "Bushido: A PvE Samurai Guide"
 
 # Foreword
 
-With the release of Shadowbringers, Samurai is now celebrating two years in the game, and with Aureum’s permission I’m taking over as caretaker for this guide. The 5.0 update brings with it several changes to both Samurai and melee as a whole, but due to the nature of this guide I will be introducing them for players new to the job. Please see [Jahaudant’s Samurai Compendium](https://guides.xivresources.com/admin/#/collections/sam-guides/entries/expert-the-shadowbringers-samurai-compendium) for a more in depth look at the changes from 4.X to 5.0 and further optimisations to endgame PvE on Samurai.
+With the release of Shadowbringers, Samurai is now celebrating two years in the game, and with Aureum’s permission I’m taking over as caretaker for this guide. The 5.0 update brings with it several changes to both Samurai and melee as a whole, but due to the nature of this guide, I will be introducing them for players new to the job. Please see [Jahaudant’s Samurai Compendium](https://guides.xivresources.com/admin/#/collections/sam-guides/entries/expert-the-shadowbringers-samurai-compendium) for a more in depth look at the changes from 4.X to 5.0 and further optimisations to endgame PvE on Samurai.
 
 > \-Sweaty Boxer
 
@@ -118,6 +118,8 @@ All jobs also have a several role-specific actions that they can use
 | ![](https://xivapi.com/i/000000/000824.png) |     | **Leg Sweep** <br> Stuns target enemy. 40s CD.                                     |
 | ![](https://xivapi.com/i/000000/000822.png) |     | **Arm's Length** <br> Nullifies knockback and draw-in for 6s. 120s CD.             |
 
+
+
 In an 8-man instance such as a Primal Extreme or Savage Raid, all of these but Leg Sweep will see at least some use. Bloodbath, Second Wind, and Feint may all be used situationally depending on your party’s strategy to assist healers, while Arm’s Length is useful in any fight with a knockback/pull mechanic such as floors 2-4 of Eden Savage. True North will be useful in a majority of fights, as getting a full omni-directional fight is very uncommon these days.
 
 - - -
@@ -167,7 +169,7 @@ Kenki is SAM’s second but extremely vital resource. all of SAM’s GCD skills 
 
 ## Combo and Buffs Priority
 
-Starting with 0 buffs, the opening combo order will usually go:
+Starting with zero buffs, the opening combo order will usually go:
 
 Kasha combo > Gekko combo > Yukikaze combo.
 
