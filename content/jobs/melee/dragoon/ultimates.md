@@ -1,5 +1,5 @@
 ---
-title: Ultimates
+title: DRG Ultimates
 ---
 # UWU Primal Phases
 Opener on Garuda:
@@ -24,7 +24,7 @@ You'll get 2 Lance Charge on Garuda, 1 on Ifrit (can be held for nails), and sav
 
 You will only get 1 Dragon Sight on each of the three bosses, so judge according to your personal kill times as to when would be best to use on each of them, to allow these three uses and still have it back for Ultima's opener.
 
-# The Unendings Coil of Bahamut
+# The Unending Coil of Bahamut
 ![](https://cdn.discordapp.com/attachments/841722176017268826/854031489682112532/unknown.png?1631777932)
 
 # The Epic of Alexander
