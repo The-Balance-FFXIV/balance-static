@@ -11,7 +11,8 @@ title: Best in Slot
 "SMN/RDM-Friendly BiS": (can use the SMN/RDM BiS w/o swapping melds)  
 Use the "Speed 3655 SpS" Tier set for BLM, and use SMN/RDM BiS on the other casters. Shared pieces between the sets have no meld conflicts.
 
-Thanks to @incoherent for the provided relic sets! Please see <http://bit.ly/BLMGear> for additional sets, including non-relic BiS sets
+Thanks to incoherent#0649 for the provided relic sets!  
+Please see <http://bit.ly/BLMGear> for additional sets, including non-relic BiS sets
 
 "TEA BiS": (Please look at the sheet below under "Patch 5.0+" for more options)
 - High Speed BiS (Relic): <https://etro.gg/gearset/02a81644-076f-4a5c-b959-d58fbbb86411> 
