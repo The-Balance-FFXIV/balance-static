@@ -16,7 +16,7 @@ There are a few things that can infer based on some brief video footage or what 
 * They have a buff that either changes their abilities red or gives them access to a new ability. This is based on the trailer footage where the Reaper "powers up" and starts attacking with red streaks as opposed to the Green/Teal trails.
 * They will have a single target LB. This is most likely the Reaper LB: <https://youtu.be/IkC1r0eJZ-c?t=348>
 
-Additionally you can see about five Reaper abilities in this short trailer: [](https://www.youtube.com/watch?v=pfqi_ow02rE){{< youtube "pfqi_ow02rE" >}}
+Additionally you can see about five Reaper abilities in this short trailer: [](https://www.youtube.com/watch?v=pfqi_ow02rE){{< youtube pfqi_ow02rE >}}
 
 ### Preparing To Sow
 
