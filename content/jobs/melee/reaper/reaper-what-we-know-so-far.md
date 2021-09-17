@@ -18,7 +18,9 @@ There are a few things that can infer based on some brief video footage or what 
 
 Additionally you can see about five Reaper abilities in this short trailer: [](https://www.youtube.com/watch?v=pfqi_ow02rE)
 
-\[![Reaper Reveal](https://img.youtube.com/vi/pfqi_ow02rE&t/0.jpg)](https://www.youtube.com/watch?v=pfqi_ow02rE&t)
+{{< youtube pfqi_ow02rE&t>}}
+
+
 
 ### Preparing To Sow
 
