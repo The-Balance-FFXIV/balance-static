@@ -29,11 +29,10 @@ title: Skill Overview
 | Icon | Between the Lines|62|Ability|-|Instant|3s|Move instantly to Ley Lines drawn by you. <br>Cannot be executed while bound.
 | Icon | Thunder IV|64|Spell|800|3s|2.5s|Deals lightning damage with a potency of 50 to target and all enemies nearby it.
 | Icon | Triplecast|66|Ability|-|Instant|60s|The next three spells will require no cast time.
-| Icon | Foul|70|Spell|-|2.5s|2.5s|Deals unaspected damage to target and all enemies nearby it with a potency of 650 for the first enemy, and 25% less for all remaining enemies.Polyglot Cost: 1 
+| Icon | Foul|70|Spell|-|2.5s|2.5s|Deals unaspected damage to target and all enemies nearby it with a potency of 650 for the first enemy, and 25% less for all remaining enemies. Polyglot Cost: 1
 |Icon|Despair|72|Spell|All|3s|2.5s|Deals fire damage with a potency of 380.
-| Icon | Umbral Soul|76|Spell|Instant|2.5s|Grants Umbral Ice and 1 Umbral Heart.
-| Icon | Xenoglossy|80|Spell|Instant|2.5s|Deals unaspected damage with a potency of 750.
-Polyglot Cost: 1
+| Icon | Umbral Soul|76|Spell|-|Instant|2.5s|Grants Umbral Ice and 1 Umbral Heart.
+| Icon | Xenoglossy|80|Spell|-|Instant|2.5s|Deals unaspected damage with a potency of 750. Polyglot Cost: 1
 
 
 # Magic Ranged DPS actions
