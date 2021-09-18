@@ -19,7 +19,7 @@ With all openers being very close in estimated output over the course of the ent
 
 ![](/img/jp.png)
 
-**Precast**: Sharpcast at -12s and Fire III at -4s.
+**Precast**: Sharpcast at -12s and Fire III at -4s > Enochian > Thunder III > Fire IV > clip Triplecast > Fire IV > Pot > Fire IV > Ley Lines > Fire IV > Swiftcast > Despair > MF > Fire IV > Despair > B3 > Sharpcast > Thunder III proc > B4
 
 This is a reliable opener for especially high spellspeed sets, because it does not rely on having a polyglot stack available in time for Xenoglossy for filler at the end that other openers utilize. However, in order to ensure that the thundercloud proc will last long enough to use instead, 3600+ SpS is required. Below this threshold, the thundercloud proc can fall off losing you a chunk of damage.
 
@@ -29,7 +29,7 @@ This is a reliable opener for especially high spellspeed sets, because it does n
 
 ![](/img/modjp.png)
 
-**Precast**: Sharpcast at -12s, Ley Lines at -4s, and Fire III at -3s.
+**Precast**: Sharpcast at -12s, Ley Lines at -4s, and Fire III at -3s > Enochian > Thunder III > Fire IV > clip Triplecast > Fire IV > Pot > Fire IV > Ley Lines > Fire IV > Swiftcast > Despair > MF > Fire IV > Despair > B3 > Sharpcast > Thunder III proc > B4
 
 This is an extension of the JP Opener which utilizes pre-pull Ley Lines use to lower the spellspeed requirement while still taking advantage of not having Xenoglossy available in time for UI filler that you need for other openers. While technically possible around the 1929 SpS tier this variant is mostly recommended as an option for the 2500-3600 SpS range.
 
@@ -39,7 +39,7 @@ This is an extension of the JP Opener which utilizes pre-pull Ley Lines use to l
 
 ![](/img/nob41.png)
 
-**Precast**: Sharpcast anywhere between -12s and -5s, and Blizzard III at -4s.
+**Precast**: Sharpcast anywhere between -12s and -5s, and Blizzard III at -4s > Enochian > Thunder III > Fire III > Triplecast > Fire IV > Pot > Fire IV > Ley Lines > Fire IV > Fire IV > Fire IV > Despair > Thunder III proc > MF > Fire IV > Despair > B3 > Blizzard IV > Xenoglossy
 
 This opener is viable at low to moderate spellspeed values, and is usually the most recommended opener to use in the 558-2500 SpS range. Below around 1421 SpS you will need to weave in Swiftcast under Triple in order to get to the Despair in time, as shown here:
 
@@ -67,12 +67,12 @@ With two MP ticks you have enough MP to do a standard Astral Fire cycle.
 
 ![](/img/doublesharp.png)
 
-**Precast**: Sharpcast at -12s, and Blizzard III at -4s.
+**Precast**: Sharpcast at -12s, and Blizzard III at -4s > Enochian > Thunder III > Blizzard IV > Fire III > Triplecast > Fire IV > Pot > Fire IV > Ley Lines > Fire IV > Fire IV > Thunder III proc > Sharpcast > Fire > Fire IV > Fire IV > F3p > Swiftcast > Despair > MF > Fire IV > Despair > B3 > Blizzard IV > Xenoglossy
 
 Good general purpose opener to fall back on, if other openers are not as viable, for whatever reason. The opener is long enough that there is no issue with Xenoglossy being available in UI in time.
 
 ## Variations
 
-The openers above aren’t absolute. Alter them to fit fight requirements. Add Swiftcast after an instant to cover an extra F4 / Despair or hold for fight mechanics. 
+The openers above aren’t absolute. Alter them to fit fight requirements. Add Swiftcast after an instant to cover an extraFire IV/ Despair or hold for fight mechanics. 
 
 Do not precast Swiftcast or Triple. This puts you behind a GCD, due to waiting for the Recast before your next Spell. If there’s no pull countdown or you’re unable to precast, then precast Swiftcast is fine.
