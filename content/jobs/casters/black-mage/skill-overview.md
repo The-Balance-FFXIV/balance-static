@@ -26,15 +26,13 @@ title: Skill Overview
 | Icon | Enochian|56|Ability|-|Instant|30s|Increases magic damage dealt by 15%. Also allows the casting of Blizzard IV and Fire IV, Despair and Umbral Soul.
 | Icon | Blizzard IV|58|Spell|800|2.8s|2.5s|Deals ice damage with a potency of 300.
 | Icon | Fire IV|60|Spell|800|2.8s|2.5s|Deals fire damage with a potency of 300.
-| Icon | Between the Lines	Black Mage frame icon.png BLM		62	Ability		Instant	3s	Move instantly to Ley Lines drawn by you.
-Cannot be executed while bound.
-| Icon | Thunder IV	Black Mage frame icon.png BLM		64	Spell	800	3s	2.5s	Deals lightning damage with a potency of 50 to target and all enemies nearby it.
-| Icon | Triplecast	Black Mage frame icon.png BLM		66	Ability		Instant	60s	The next three spells will require no cast time.
-| Icon | Foul	Black Mage frame icon.png BLM	Quest: One Golem to Rule Them All	70	Spell		2.5s	2.5s	Deals unaspected damage to target and all enemies nearby it with a potency of 650 for the first enemy, and 25% less for all remaining enemies.
-Polyglot Cost: 1
-| Icon | Despair	Black Mage frame icon.png BLM		72	Spell	All	3s	2.5s	Deals fire damage with a potency of 380.
-| Icon | Umbral Soul	Black Mage frame icon.png BLM		76	Spell		Instant	2.5s	Grants Umbral Ice and 1 Umbral Heart.
-| Icon | Xenoglossy	Black Mage frame icon.png BLM		80	Spell		Instant	2.5s	Deals unaspected damage with a potency of 750.
+| Icon | Between the Lines|62|Ability|-|Instant|3s|Move instantly to Ley Lines drawn by you. <br>Cannot be executed while bound.
+| Icon | Thunder IV|64|Spell|800|3s|2.5s|Deals lightning damage with a potency of 50 to target and all enemies nearby it.
+| Icon | Triplecast|66|Ability|-|Instant|60s|The next three spells will require no cast time.
+| Icon | Foul|70|Spell|-|2.5s|2.5s|Deals unaspected damage to target and all enemies nearby it with a potency of 650 for the first enemy, and 25% less for all remaining enemies.Polyglot Cost: 1 
+|Icon|Despair|72|Spell|All|3s|2.5s|Deals fire damage with a potency of 380.
+| Icon | Umbral Soul|76|Spell|Instant|2.5s|Grants Umbral Ice and 1 Umbral Heart.
+| Icon | Xenoglossy|80|Spell|Instant|2.5s|Deals unaspected damage with a potency of 750.
 Polyglot Cost: 1
 
 
