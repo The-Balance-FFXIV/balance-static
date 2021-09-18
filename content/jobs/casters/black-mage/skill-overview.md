@@ -1,7 +1,7 @@
 ---
 title: Skill Overview
 ---
-PvE actions
+# PvE actions
 Action	Acquired	Quest requirement	Level	Type	MP	Casting	Recast	Description
 Blizzard.png  Blizzard	Thaumaturge frame icon.png THM		1	Spell	400	2.5s	2.5s	Deals ice damage with a potency of 180.
 Fire.png  Fire	Thaumaturge frame icon.png THM		2	Spell	800	2.5s	2.5s	Deals fire damage with a potency of 180.
@@ -36,8 +36,9 @@ Despair.png  Despair	Black Mage frame icon.png BLM		72	Spell	All	3s	2.5s	Deals f
 Umbral Soul.png  Umbral Soul	Black Mage frame icon.png BLM		76	Spell		Instant	2.5s	Grants Umbral Ice and 1 Umbral Heart.
 Xenoglossy.png  Xenoglossy	Black Mage frame icon.png BLM		80	Spell		Instant	2.5s	Deals unaspected damage with a potency of 750.
 Polyglot Cost: 1
-PvP actions
-Magic Ranged DPS actions
+
+
+# Magic Ranged DPS actions
 Action	Acquired	Level	Type	MP	TP	Casting	Recast	Description
 Addle.png  Addle	Magic Ranged DPS role.png Magic Ranged DPS	8	Ability			Instant	90s	Lowers target's intelligence and mind by 10%.
 Swiftcast.png  Swiftcast	Magic Ranged DPS role.png Magic Ranged DPS
