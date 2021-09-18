@@ -12,8 +12,7 @@ Sage is an upcoming Disciple of Magic job with the fourth expansion, Endwalker. 
 Here's what we know so far;
 
 * Sage will start at level 70, after talking to an NPC in Limsa Lominsa. 
-
-  * To unlock, you must have purchased Endwalker, and be a level 70 or higher Disciple of War or Magic. 
+  * To unlock, you must have purchased Endwalker, and be a level 70 or higher Disciple of War or Magic.   
 * As Sage is a healer, it'll require Disciple of Magic healing armor. 
   For weapons, they use Nouliths (a 2-handed weapon)
 
@@ -21,4 +20,4 @@ Here's what we know so far;
 
 For the official reveal video of Sage, see below!
 
-[![Sage Reveal](https://img.youtube.com/vi/ASTGVJLBX14/0.jpg)](https://www.youtube.com/watch?v=ASTGVJLBX14&ab_channel=FINALFANTASYXIV)
+{{< youtube ASTGVJLBX14 >}}
