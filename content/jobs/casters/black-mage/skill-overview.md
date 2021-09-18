@@ -6,37 +6,37 @@ title: Skill Overview
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 | Icon | Blizzard | 1 | Spell | 400 | 2.5s | 2.5s | Deals ice damage with a potency of 180. 
 | Icon | Fire | 2 | Spell | 800 | 2.5s | 2.5s | Deals fire damage with a potency of 180.
-| Icon | Transpose | 4 | Ability | | Instant | 5s | Swaps Astral Fire with a single Umbral Ice or Umbral Ice with a single Astral Fire.
+| Icon | Transpose | 4 | Ability | - | Instant | 5s | Swaps Astral Fire with a single Umbral Ice or Umbral Ice with a single Astral Fire.
 | Icon | Thunder|6|Spell|200|2.5s|2.5s|Deals lightning damage with a potency of 30.
 | Icon | Sleep|10|Spell|800|2.5s|2.5s|Puts target and all nearby enemies to sleep.
 | Icon | Blizzard II|12|Spell|800|2s|2.5s|Deals ice damage with a potency of 50 to all nearby enemies.
 | Icon | Scathe|15|Spell|800|Instant|2.5s|Deals unaspected damage with a potency of 100.
 | Icon | Fire II|18|Spell|1,500|3s|2.5s|Deals fire damage with a potency of 80 to target and all enemies nearby it.
 | Icon | Thunder II|26|Spell|400|3s|2.5s|Deals lightning damage with a potency of 30 to target and all enemies nearby it.
-| Icon | Manaward|30 | Ability | | Instant|120s|Creates a barrier that nullifies damage totaling up to 30% of maximum HP.
-| Icon | Manafont|30|Ability | | Instant|180s|Restore 30% of maximum MP.
+| Icon | Manaward|30 | Ability | - | Instant|120s|Creates a barrier that nullifies damage totaling up to 30% of maximum HP.
+| Icon | Manafont|30|Ability | - | Instant|180s|Restore 30% of maximum MP.
 | Icon | Fire III|34|Spell|2,000|3.5s|2.5s|Deals fire damage with a potency of 240.
 | Icon | Freeze|35|Spell|1,000|2.5s|2.5s|Deals ice damage with a potency of 100 to target and all enemies nearby it.
 | Icon | Blizzard III|40|Spell|800|3.5s|2.5s|Deals ice damage with a potency of 240.
 | Icon | Thunder III|45|Spell|400|2.5s|2.5s|Deals lightning damage with a potency of 70.
 
-Aetherial Manipulation.png  Aetherial Manipulation	Thaumaturge frame icon.png THM		50	Ability		Instant	10s	Rush to a target party member's side.
+| Icon | Aetherial Manipulation	Thaumaturge frame icon.png THM		50	Ability		Instant	10s	Rush to a target party member's side.
 Unable to cast if bound.
-Flare.png  Flare	Black Mage frame icon.png BLM	Quest: Always Bet on Black	50	Spell	All	4s	2.5s	Deals fire damage to a target and all enemies nearby it with a potency of 260 for the first enemy, and 40% less for all remaining enemies.
-Ley Lines.png  Ley Lines	Black Mage frame icon.png BLM	Quest: An Unexpected Journey	52	Ability		Instant	90s	Connects naturally occurring ley lines to create a circle of power which, while standing within it, reduces spell cast time and recast time, and auto-attack delay by 15%.
-Sharpcast.png  Sharpcast	Black Mage frame icon.png BLM	Quest: A Cunning Plan	54	Ability		Instant	30s	Ensures the next Scathe, Fire, or Thunder spell cast will, for the first hit, trigger Scathe's additional effect, Firestarter, or Thundercloud respectively.
-Enochian.png  Enochian	Black Mage frame icon.png BLM	Quest: Black Squawk Down	56	Ability		Instant	30s	Increases magic damage dealt by 15%. Also allows the casting of Blizzard IV and Fire IV, Despair and Umbral Soul.
-Blizzard IV.png  Blizzard IV	Black Mage frame icon.png BLM	Quest: Destruction in the Name of Justice	58	Spell	800	2.8s	2.5s	Deals ice damage with a potency of 300.
-Fire IV.png  Fire IV	Black Mage frame icon.png BLM	Quest: The Defiant Ones	60	Spell	800	2.8s	2.5s	Deals fire damage with a potency of 300.
-Between the Lines.png  Between the Lines	Black Mage frame icon.png BLM		62	Ability		Instant	3s	Move instantly to Ley Lines drawn by you.
+| Icon | Flare	Black Mage frame icon.png BLM	Quest: Always Bet on Black	50	Spell	All	4s	2.5s	Deals fire damage to a target and all enemies nearby it with a potency of 260 for the first enemy, and 40% less for all remaining enemies.
+| Icon | Ley Lines	Black Mage frame icon.png BLM	Quest: An Unexpected Journey	52	Ability		Instant	90s	Connects naturally occurring ley lines to create a circle of power which, while standing within it, reduces spell cast time and recast time, and auto-attack delay by 15%.
+| Icon | Sharpcast	Black Mage frame icon.png BLM	Quest: A Cunning Plan	54	Ability		Instant	30s	Ensures the next Scathe, Fire, or Thunder spell cast will, for the first hit, trigger Scathe's additional effect, Firestarter, or Thundercloud respectively.
+| Icon | Enochian	Black Mage frame icon.png BLM	Quest: Black Squawk Down	56	Ability		Instant	30s	Increases magic damage dealt by 15%. Also allows the casting of Blizzard IV and Fire IV, Despair and Umbral Soul.
+| Icon | Blizzard IV	Black Mage frame icon.png BLM	Quest: Destruction in the Name of Justice	58	Spell	800	2.8s	2.5s	Deals ice damage with a potency of 300.
+| Icon | Fire IV	Black Mage frame icon.png BLM	Quest: The Defiant Ones	60	Spell	800	2.8s	2.5s	Deals fire damage with a potency of 300.
+| Icon | Between the Lines	Black Mage frame icon.png BLM		62	Ability		Instant	3s	Move instantly to Ley Lines drawn by you.
 Cannot be executed while bound.
-Thunder IV.png  Thunder IV	Black Mage frame icon.png BLM		64	Spell	800	3s	2.5s	Deals lightning damage with a potency of 50 to target and all enemies nearby it.
-Triplecast.png  Triplecast	Black Mage frame icon.png BLM		66	Ability		Instant	60s	The next three spells will require no cast time.
-Foul.png  Foul	Black Mage frame icon.png BLM	Quest: One Golem to Rule Them All	70	Spell		2.5s	2.5s	Deals unaspected damage to target and all enemies nearby it with a potency of 650 for the first enemy, and 25% less for all remaining enemies.
+| Icon | Thunder IV	Black Mage frame icon.png BLM		64	Spell	800	3s	2.5s	Deals lightning damage with a potency of 50 to target and all enemies nearby it.
+| Icon | Triplecast	Black Mage frame icon.png BLM		66	Ability		Instant	60s	The next three spells will require no cast time.
+| Icon | Foul	Black Mage frame icon.png BLM	Quest: One Golem to Rule Them All	70	Spell		2.5s	2.5s	Deals unaspected damage to target and all enemies nearby it with a potency of 650 for the first enemy, and 25% less for all remaining enemies.
 Polyglot Cost: 1
-Despair.png  Despair	Black Mage frame icon.png BLM		72	Spell	All	3s	2.5s	Deals fire damage with a potency of 380.
-Umbral Soul.png  Umbral Soul	Black Mage frame icon.png BLM		76	Spell		Instant	2.5s	Grants Umbral Ice and 1 Umbral Heart.
-Xenoglossy.png  Xenoglossy	Black Mage frame icon.png BLM		80	Spell		Instant	2.5s	Deals unaspected damage with a potency of 750.
+| Icon | Despair	Black Mage frame icon.png BLM		72	Spell	All	3s	2.5s	Deals fire damage with a potency of 380.
+| Icon | Umbral Soul	Black Mage frame icon.png BLM		76	Spell		Instant	2.5s	Grants Umbral Ice and 1 Umbral Heart.
+| Icon | Xenoglossy	Black Mage frame icon.png BLM		80	Spell		Instant	2.5s	Deals unaspected damage with a potency of 750.
 Polyglot Cost: 1
 
 
