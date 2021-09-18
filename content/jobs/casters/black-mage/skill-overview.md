@@ -19,15 +19,13 @@ title: Skill Overview
 | Icon | Freeze|35|Spell|1,000|2.5s|2.5s|Deals ice damage with a potency of 100 to target and all enemies nearby it.
 | Icon | Blizzard III|40|Spell|800|3.5s|2.5s|Deals ice damage with a potency of 240.
 | Icon | Thunder III|45|Spell|400|2.5s|2.5s|Deals lightning damage with a potency of 70.
-
-| Icon | Aetherial Manipulation	Thaumaturge frame icon.png THM		50	Ability		Instant	10s	Rush to a target party member's side.
-Unable to cast if bound.
-| Icon | Flare	Black Mage frame icon.png BLM	Quest: Always Bet on Black	50	Spell	All	4s	2.5s	Deals fire damage to a target and all enemies nearby it with a potency of 260 for the first enemy, and 40% less for all remaining enemies.
-| Icon | Ley Lines	Black Mage frame icon.png BLM	Quest: An Unexpected Journey	52	Ability		Instant	90s	Connects naturally occurring ley lines to create a circle of power which, while standing within it, reduces spell cast time and recast time, and auto-attack delay by 15%.
-| Icon | Sharpcast	Black Mage frame icon.png BLM	Quest: A Cunning Plan	54	Ability		Instant	30s	Ensures the next Scathe, Fire, or Thunder spell cast will, for the first hit, trigger Scathe's additional effect, Firestarter, or Thundercloud respectively.
-| Icon | Enochian	Black Mage frame icon.png BLM	Quest: Black Squawk Down	56	Ability		Instant	30s	Increases magic damage dealt by 15%. Also allows the casting of Blizzard IV and Fire IV, Despair and Umbral Soul.
-| Icon | Blizzard IV	Black Mage frame icon.png BLM	Quest: Destruction in the Name of Justice	58	Spell	800	2.8s	2.5s	Deals ice damage with a potency of 300.
-| Icon | Fire IV	Black Mage frame icon.png BLM	Quest: The Defiant Ones	60	Spell	800	2.8s	2.5s	Deals fire damage with a potency of 300.
+| Icon | Aetherial Manipulation	| 50 | Ability| - |Instant|10s|Rush to a target party member's side. <br>Unable to cast if bound.
+| Icon | Flare|50|Spell|All|4s|2.5s|Deals fire damage to a target and all enemies nearby it with a potency of 260 for the first enemy, and 40% less for all remaining enemies.
+| Icon | Ley Lines|52|Ability|-|Instant|90s|Connects naturally occurring ley lines to create a circle of power which, while standing within it, reduces spell cast time and recast time, and auto-attack delay by 15%.
+| Icon | Sharpcast|54|Ability|-|Instant|30s|Ensures the next Scathe, Fire, or Thunder spell cast will, for the first hit, trigger Scathe's additional effect, Firestarter, or Thundercloud respectively.
+| Icon | Enochian|56|Ability|-|Instant|30s|Increases magic damage dealt by 15%. Also allows the casting of Blizzard IV and Fire IV, Despair and Umbral Soul.
+| Icon | Blizzard IV|58|Spell|800|2.8s|2.5s|Deals ice damage with a potency of 300.
+| Icon | Fire IV|60|Spell|800|2.8s|2.5s|Deals fire damage with a potency of 300.
 | Icon | Between the Lines	Black Mage frame icon.png BLM		62	Ability		Instant	3s	Move instantly to Ley Lines drawn by you.
 Cannot be executed while bound.
 | Icon | Thunder IV	Black Mage frame icon.png BLM		64	Spell	800	3s	2.5s	Deals lightning damage with a potency of 50 to target and all enemies nearby it.
