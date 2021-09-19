@@ -3,7 +3,7 @@ title: Skill Overview
 ---
 # PvE actions
 | Icon | Action | Level | Type | MP | Casting | Recast | Description | 
-| --- | --- | --- | --- | --- | --- | --- | --- | 
+| --- | --- | --- | --- | :---: | --- | --- | --- | 
 | Icon | Blizzard | 1 | Spell | 400 | 2.5s | 2.5s | Deals ice damage with a potency of 180. 
 | Icon | Fire | 2 | Spell | 800 | 2.5s | 2.5s | Deals fire damage with a potency of 180.
 | Icon | Transpose | 4 | Ability | - | Instant | 5s | Swaps Astral Fire with a single Umbral Ice or Umbral Ice with a single Astral Fire.
@@ -36,11 +36,10 @@ title: Skill Overview
 
 
 # Magic Ranged DPS actions
-Action	Acquired	Level	Type	MP	TP	Casting	Recast	Description
-Addle.png  Addle	Magic Ranged DPS role.png Magic Ranged DPS	8	Ability			Instant	90s	Lowers target's intelligence and mind by 10%.
-Swiftcast.png  Swiftcast	Magic Ranged DPS role.png Magic Ranged DPS
-Healer role.png Healer	18	Ability			Instant	60s	Next spell is cast immediately.
-Lucid Dreaming.png  Lucid Dreaming	Magic Ranged DPS role.png Magic Ranged DPS
-Healer role.png Healer	24	Ability			Instant	60s	Gradually restores own MP.
-Surecast.png  Surecast	Magic Ranged DPS role.png Magic Ranged DPS
-Healer role.png Healer	44	Ability			Instant	120s	Spells can be cast without interruption.
+
+| Icon | Action | Level | Type | MP | Casting | Recast | Description | 
+| --- | --- | --- | --- | :---: | --- | --- | --- |
+| Icon | Addle | 8 | Ability | - | Instant | 90s | Lowers target's intelligence and mind by 10%.
+| Icon | Swiftcast | 18 | Ability|-|Instant|60s|Next spell is cast immediately.
+| Icon | Lucid Dreaming|24|Ability|-|Instant|60s|Gradually restores own MP.
+| Icon | Surecast|44|Ability|-|Instant|120s|Spells can be cast without interruption.
