@@ -51,9 +51,9 @@ General notes:
 
 \- Tiles phase
 
-\- Clouds only have ~133k HP so it is very easy to overkill them/kill them faster then be stuck facing away with nothing to hit while the gaze resolves. Consider using a cast or two on the boss instead of just focusing the cloud when it spawns, and potentially having someone else kill your cloud if it's left with very low HP
+\- Clouds only have ~133k HP so it is very easy to overkill them/kill them faster then be stuck facing away with nothing to hit while the gaze resolves. Consider using a cast or two on the boss instead of just focusing the cloud when it spawns, and potentially have someone else kill your cloud if it's left with very low HP.
 
-\- For slowing the cloud down, you don't have to be up close to it, just in its path. Similarly for the donut AoE, you can be around 3/4 of the way back on the inner tile and be safe from the AoE. Don't move more than you need to
+\- For slowing the cloud down, you don't have to be up close to it, just in its path. Similarly for the donut AoE, you can be around 3/4 of the way back on the inner tile and be safe from the AoE. Don't move more than you need to.
 
 - - -
 
@@ -85,11 +85,11 @@ Relaxed timing
 
 General notes:
 
-\- For movement during Implosions, if the first two shadows spawn 90 degrees apart you can stand in one spot to be safe from both without having to move. If this occurs during 4x implosions, you can do this then move diagonally through boss and be safe for the following two cleaves
+\- For movement during Implosions, if the first two shadows spawn 90 degrees apart you can stand in one spot to be safe from both without having to move. If this occurs during 4x implosions, you can do this then move diagonally through boss and be safe for the following two cleaves.
 
 \- Especially if you're not being strict on LL timing, you don't necessarily have to prepull LL. There is also potential to place them in mid if you're not using them prepull, and swift out -> BtL back in for the out (or utilize AM).
 
-\- If using LL south, consider requesting healer/ranged to stand to the E/W just north of the center for AM to dodge Implosion in case it is south. This allows you to dodge the cleave and already be away from boss for the following mechanic
+\- If using LL south, consider requesting healer/ranged to stand to the E/W just north of the center for AM to dodge Implosion in case it is south. This allows you to dodge the cleave and already be away from boss for the following mechanic.
 
 - - -
 
