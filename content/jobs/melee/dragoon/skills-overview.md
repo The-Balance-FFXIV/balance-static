@@ -1,5 +1,5 @@
 ---
-title: Skills Overview
+title: Dragoon Skills Overview
 ---
 # Dragoon Skills Overview
 
