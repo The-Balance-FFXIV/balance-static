@@ -129,7 +129,7 @@ General notes:
 
 Prepull -> On CD before Shiva -> Hold until after Titan -> On CD afterwards
 
-1: Prepull LL
+1: Prepull LL.
 
 2: Using prepull LL allows for a solid use before Shiva instead of having to delay until afterwards, or have a very poor use here.
 
@@ -155,7 +155,7 @@ Prepull -> In center before Basic Relativity -> After you move in for Singular A
 
 1: Prepull south. Ideally the boss is also pulled south here so you're already up close to the boss for the following mechanics.
 
-2: On CD in mid before Basic Relativity. The initial prepull use allows you to get more uptime here before you have to move. In the case you have fire (short or long) you can stay directly in mid under the boss. There's room for you in the center without hitting anyone even if it's fast fire. If you have ice and have to bait first, you can wait a bit to move out and still get most of the uptime in your LL
+2: On CD in mid before Basic Relativity. The initial prepull use allows you to get more uptime here before you have to move. In the case you have fire (short or long) you can stay directly in mid under the boss. There's room for you in the center without hitting anyone even if it's fast fire. If you have ice and have to bait first, you can wait a bit to move out and still get most of the uptime in your LL.
 
 3: After you move in for Singular Apocalypse, drop your LL dead center. You can stay in mid after the stack in your LL. If you have someone else staying mid with you (i.e. WHM) you can stand on one edge of your LL, with the other person on the opposite edge, slightly outside of your LL. Neither of you will be clipped by the AoEs or by each other if you're selected for Spirit Taker.
 
