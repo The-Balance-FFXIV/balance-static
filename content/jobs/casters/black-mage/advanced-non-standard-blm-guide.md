@@ -295,7 +295,7 @@ These PPS calculations are made under the following conditions:
 
 - - -
 
-All of the optimizations listed here require as much stillness as possible, and sometimes control over mechanics resolution. Thus, it would be easier to execute these optimizations in a static environment with cooperative teammates. Conversely, The standard rotation gains more prevalence in pugs. Strategizing around fight mechanics and timelines to reduce movement and instant cast usage is a key part of BLM optimizations’ effectiveness and must not be ignored. 
+All of the optimizations listed here require standing still as much as possible, and sometimes control over mechanics resolution. Thus, it would be easier to execute these optimizations in a static environment with cooperative teammates. Conversely, The standard rotation gains more prevalence in pugs. Strategizing around fight mechanics and timelines to reduce movement and instant cast usage is a key part of BLM optimizations’ effectiveness and must not be ignored. 
 
 To get started, you can check the [5.4 BLM raid guide](https://docs.google.com/document/d/1iUzV5tDCEquPvzwJcLp3XQM92T8EIfDNrh7PWYUj6nI). There are many more optimizations with strategies that can be done than what is written here. As a generic tip, for every instant spent on a mechanic, think about how to eliminate its need. And for every movement required, think about how it can either be eliminated or done effectively. Be proactive when creating your own alterations of strats to conserve resources. 
 
