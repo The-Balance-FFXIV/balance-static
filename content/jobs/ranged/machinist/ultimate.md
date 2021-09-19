@@ -22,6 +22,7 @@ This guide will go over the rotational structure and basic guidelines for Machin
 
 {{< youtube PQDx8xj_-S8 >}}
 
+
 ### Hinoka (Orange parse):
 
 {{< youtube BaMXnRWjHIY >}}
