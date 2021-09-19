@@ -6,11 +6,11 @@ title: 5.4 BLM Raid Guide
 Last updated: February 2, 2021
 
  1. [General Info](#general-info)
- 2. [Eden’s Promise: Umbra (Savage)](#[E9S])
- 3. [Eden’s Promise: Litany (Savage)](#E10S)
- 4. [Eden’s Promise: Anamorphosis (Savage)](#E11S)
- 5. [Eden’s Promise: Eternity (Savage) Phase 1](#E12S-P1)
- 6. [Eden’s Promise: Eternity (Savage) Phase 2](#E12S-P2)
+ 2. [Eden’s Promise: Umbra (Savage)](#edens-promise-umbra-savage-e9s)
+ 3. [Eden’s Promise: Litany (Savage)](#edens-promise-litany-savage-e10s)
+ 4. [Eden’s Promise: Anamorphosis (Savage)](#edens-promise-anamorphosis-savage-e11s)
+ 5. [Eden’s Promise: Eternity (Savage) Phase 1](#edens-promise-eternity-savage-e12s-p1)
+ 6. [Eden’s Promise: Eternity (Savage) Phase 2](#edens-promise-eternity-savage-e12s-p2)
 
 
 # General Info
