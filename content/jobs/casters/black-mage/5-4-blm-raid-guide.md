@@ -6,7 +6,7 @@ title: 5.4 BLM Raid Guide
 Last updated: February 2, 2021
 
  1. [General Info](#general-info)
- 2. [Eden’s Promise: Umbra (Savage)](#E9S)
+ 2. [Eden’s Promise: Umbra (Savage)](#[E9S])
  3. [Eden’s Promise: Litany (Savage)](#E10S)
  4. [Eden’s Promise: Anamorphosis (Savage)](#E11S)
  5. [Eden’s Promise: Eternity (Savage) Phase 1](#E12S-P1)
