@@ -31,7 +31,9 @@ Special thanks to **Caro Kann and Lady Yuna’lesca** for their [5.X BLM Hyperme
 
 The idea behind the optimizations in non standard lines is the elimination of weak spells, B4, F1, and B3, which lower the average potency per second (PPS) of the rotation. We do this by skipping B4 wherever possible and reduce the number of F4s during the fire phase to eliminate the need to cast F1. In addition, we can use Transpose to transition into the ice phase rather than casting a weak B3. These allow the overall PPS of the rotation to increase compared to the standard rotation while also reducing the rotational time. As a result, the fire phase is usually very tight and requires prolonged periods of stillness, which make this rotation much more prone to errors. Thunder usages also diverge from the standard rotation as a result.
 
-Aory made a great [introductory video guide](https://youtu.be/qN0-ciFRrF8) to non standard BLM play. Be sure to check it out! 
+Aory made a great introductory video guide to non standard BLM play. Be sure to check it out! 
+
+{{< youtube qN0-ciFRrF8 >}}
 
 ## Base Rotation
 
