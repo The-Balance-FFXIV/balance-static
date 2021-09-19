@@ -1,8 +1,6 @@
 ---
-title: FAQ
+title: Black Mage FAQ
 ---
-# Actions
-
 ## Q: What is Umbral Soul used for?
 
 A: Purely a downtime tool, a better version of Transpose. Lets you build back up to Umbral Ice III + Three Umbral Hearts during downtime, so you can Thunder III -> Fire III when you can hit something again. If you end a fight in Astral Fire, Transpose into UI so you can use Umbral Soul. Do not use Umbral Soul during uptime.
@@ -18,7 +16,6 @@ A: Outside of niche optimization, it is not used on BLM.
 ## Q: What do I use Xenoglossy for?
 
 A: Xeno is mainly used as a weaving and movement tool, or as filler in UI if T3 doesn't need to be applied. Apart from its utility aspect, it can also be used instead of other spells under raid buffs. Just make sure to never waste a use of it by overcapping Polyglot.
-
 
 ## Q: What's the stat/meld priority?
 
@@ -44,13 +41,10 @@ A:  If you’re using a high SpS set, you will likely want to use more SpS + DH 
 
 A:  If you just aim to clear you can use synced gear just fine. If you want to speedrun old Ultimates use the following:
 
-
 UwU: i375 head/hands/feet. i470+ everything else.
 UCoB: i430+ weapon. i345 everything else.
 
-
 A Resistance weapon with capped stats will beat a synced weapon. Use the [4.X relative damage calculator sheet](https://docs.google.com/spreadsheets/d/1mnu8G8p_zC0DVyDz_FNs04tBmUiBq8wRUpxcZf1JOQw/) to min-max your own sets.
-
 
 ## Q: If I have 2.4k MP left and my Astral Fire phase is about to run out, do I use Fire -> Despair, or only Despair?
 
@@ -63,8 +57,6 @@ A: Above 2.4k SpS, skip the Xeno and go straight to Astral Fire after B4. If you
 ## Q: Sharpcast (or any oGCD) is available, but I don’t have anything to use to weave it. Do I clip to use it?
 
 A: Generally, you will want to delay use until the next available weaving window. Situationally, if it means potentially losing any uses or you have an otherwise strong reason to keep it more strictly on CD, then you can clip it (and try to figure out a way to avoid that clip next pull).
-
-
 
 ## Q: What macros does BLM use?
 
