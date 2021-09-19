@@ -305,8 +305,6 @@ For fights with transitions and downtimes, aligning with boss jumps should also 
 
 ![](https://lh4.googleusercontent.com/-GttJ8NmeuxFQNNt4MGoyJfcLj1hB1uzs0DYzTgsTz0JyyV-bUBwpxSaBN81R6LlgmJ1yCsETgnxtz4atxVFicjFgqU78aTreZW4MHYpV8efTZHNWdJOL2nm1BvC_88TXwGBNlBT=s0)
 
-TLDR fight strats are very important and an integral part of BLM opti, and adjust lines accordingly before boss phases or dies
-
 # <div align="center">Advanced</div>
 
 ### <div align="center">This section requires the [MP tick trigger](https://docs.google.com/document/d/1vsI2r4064VHJ8WuhItXB7ilbdjEJ26GphZSsjWiyDDU/)</div>
@@ -367,7 +365,7 @@ Sequence: <https://xivanalysis.com/fflogs/2y8nrJPXK7p6AW9w/15/2> 
 
 If a T3 procs within the first 2 ticks after the second T3P and no additional procs occur, it will run out before the expected ice phase. Anticipating this, we can branch into the above sequence instead. Note that this is merely an example, and not necessarily actually a gain in practice. When spreadsheeting the opening sequence, there may be multiple branches needed due to the varying occurrence of T3 procs.
 
-Update: ironically I don’t remember what it was about this sequence that needed adjustment. Take it as a reference only, and the principle still holds true. 
+I made the sequence a while ago and ironically now I don’t remember what it was about this sequence that needed adjustment. Take it as a reference only, and the principle still holds true. 
 
 ## Tracking filler skips
 
