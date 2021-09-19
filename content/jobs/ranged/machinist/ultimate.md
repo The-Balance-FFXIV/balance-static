@@ -1,5 +1,5 @@
 ---
-title: Ultimate
+title: MCH Ultimate
 ---
 # The Epic of Alexander
 
@@ -22,8 +22,8 @@ This guide will go over the rotational structure and basic guidelines for Machin
 
 {{< youtube PQDx8xj_-S8 >}}
 
-### \
-Hinoka (Orange parse):
+
+### Hinoka (Orange parse):
 
 {{< youtube BaMXnRWjHIY >}}
 
@@ -61,8 +61,6 @@ Here's a look at how Drill and Bioblaster interact with Chain Stratagem and Tric
 | Expected Bioblaster under Chain           | 839     |
 | Expected Drill under Trick and Chain      | **872** |
 | Expected Bioblaster under Trick and Chain | 860     |
-
-
 
 Basically, what this means is Bioblaster is better unless you have both Chain and Trick or you’re using Reassemble. Using this chart and thinking of a 2-minute rotation cycle with both of these buffs in only Drills the rotation would be as follows:  
 
