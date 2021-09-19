@@ -15,7 +15,7 @@ Last updated: February 2, 2021
 
 # General Info
 - - -
-Some initial suggestions for Ley Lines usage and other fight-specific information/recommendations. They are not guaranteed to universally be the best way to do the fights, and based on various factors like kill time, optimization, positioning/strats, etc. you might consider shifting uses or handling things differently. However, you can use these as a starting point to develop your own plan.
+Some initial suggestions for Ley Lines (LL) usage and other fight-specific information/recommendations. They are not guaranteed to universally be the best way to do the fights, and based on various factors like kill time, optimization, positioning/strats, etc. you might consider shifting uses or handling things differently. However, you can use these as a starting point to develop your own plan.
 
 Highly recommended to check out the caster mitigation doc [here](https://docs.google.com/document/d/1NAUgh_3gKfL3FGitNVxL5zPnQg1ytC1QHH_jY3syDgY/edit) for good places to use Addle. Check with your healers to see if they might want any specific timings, or if you could help them with a Manaward in a specific spot in a fight.
 
