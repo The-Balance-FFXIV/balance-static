@@ -1,8 +1,6 @@
 ---
 title: Black Mage FAQ
 ---
-# Black Mage Actions
-
 ## Q: What is Umbral Soul used for?
 
 A: Purely a downtime tool, a better version of Transpose. Lets you build back up to Umbral Ice III + Three Umbral Hearts during downtime, so you can Thunder III -> Fire III when you can hit something again. If you end a fight in Astral Fire, Transpose into UI so you can use Umbral Soul. Do not use Umbral Soul during uptime.
