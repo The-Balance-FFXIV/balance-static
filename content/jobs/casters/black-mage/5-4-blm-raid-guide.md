@@ -15,7 +15,7 @@ Last updated: February 2, 2021
 
 # General Info
 - - -
-Some initial suggestions for Ley Lines (LL) usage and other fight-specific information/recommendations. They are not guaranteed to universally be the best way to do the fights, and based on various factors like kill time, optimization, positioning/strats, etc. you might consider shifting uses or handling things differently. However, you can use these as a starting point to develop your own plan.
+Some initial suggestions for Ley Lines usage and other fight-specific information/recommendations. They are not guaranteed to universally be the best way to do the fights, and based on various factors like kill time, optimization, positioning/strats, etc. you might consider shifting uses or handling things differently. However, you can use these as a starting point to develop your own plan.
 
 Highly recommended to check out the caster mitigation doc [here](https://docs.google.com/document/d/1NAUgh_3gKfL3FGitNVxL5zPnQg1ytC1QHH_jY3syDgY/edit) for good places to use Addle. Check with your healers to see if they might want any specific timings, or if you could help them with a Manaward in a specific spot in a fight.
 
@@ -43,11 +43,11 @@ Normal opener > Wide Angle (WA)/Anti-air (AA) position > tiles between outer and
 
 General notes:
 
-\- AM (or any other movement ability) through brambles has a chance to snapshot you in them and give you a heavy tick of damage, which will often lead to quick death thereafter. Avoid whenever possible, unless you will die otherwise
+\- AM (or any other movement ability) through brambles has a chance to snapshot you in them and give you a heavy tick of damage, which will often lead to quick death thereafter. Avoid whenever possible, unless you will die otherwise.
 
-\- All bramble strats are fairly manageable, though ones that allow for more clean lines to AM to the corner are preferred. In the case of happy brambles, you may need to move out to the side slightly before you can AM safely
+\- All bramble strats are fairly manageable, though ones that allow for more clean lines to AM to the corner are preferred. In the case of happy brambles, you may need to move out to the side slightly before you can AM safely.
 
-\- Consider using one of triple or proc + swift for brambles movement, and the other for WA/AA movement. You can move as soon as the purple AoE appears beneath you for breaking bramble tethers
+\- Consider using one of triple or proc + swift for brambles movement, and the other for WA/AA movement. You can move as soon as the purple AoE appears beneath you for breaking bramble tethers.
 
 \- Tiles phase
 
