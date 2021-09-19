@@ -3,15 +3,15 @@ title: BLM Advanced Non-Standard Guide
 ---
 Last updated: September 19, 2021
 
-[Introduction](#Introduction)
+[Introduction](#introduction)
 
-[Basics](#Basics)
+[Basics](#basics)
 
-[Intermediate](#Intermediate)
+[Intermediate](#intermediate)
 
-[Advanced](#Advanced)
+[Advanced](#advanced)
 
-[Appendix](#Appendix)
+[Appendix](#appendix)
 
 ## Introduction
 
@@ -31,9 +31,7 @@ Special thanks to **Caro Kann and Lady Yuna’lesca** for their [5.X BLM Hyperme
 
 The idea behind the optimizations in non standard lines is the elimination of weak spells, B4, F1, and B3, which lower the average potency per second (PPS) of the rotation. We do this by skipping B4 wherever possible and reduce the number of F4s during the fire phase to eliminate the need to cast F1. In addition, we can use Transpose to transition into the ice phase rather than casting a weak B3. These allow the overall PPS of the rotation to increase compared to the standard rotation while also reducing the rotational time. As a result, the fire phase is usually very tight and requires prolonged periods of stillness, which make this rotation much more prone to errors. Thunder usages also diverge from the standard rotation as a result.
 
-Aory made a great introductory video guide to non standard BLM play. Be sure to check it out! 
-
-{{< youtube qN0-ciFRrF8 >}}
+Aory made a great [introductory video guide](https://youtu.be/qN0-ciFRrF8) to non standard BLM play. Be sure to check it out! 
 
 ## Base Rotation
 
@@ -133,7 +131,7 @@ The shortness of this line makes its ice phases align much better with Thunder r
 
 The total length of 3xF4 followed by a 4xF4 is greater than 30 seconds. If we ignore the MP cost of hardcasted Thunders, 3xF4 followed by 4xF4 can theoretically be looped. 
 
-### Instant B3 w Transpose
+### Instant B3 with Transpose
 
 Should a situation call for B3 to be instant casted, Transpose can be used to increase its potency. 1 MP tick is required before B3 is cast. Instant casting B3 this way is equal to instant casting a F4 in terms of overall gain to the line’s PPS.
 
@@ -145,7 +143,7 @@ Instant B3 w Transpose can be used to guarantee 2 ticks during UI to enable 4xF4
 
 ![](https://lh5.googleusercontent.com/_YmbU_LlLy0ZsV_bLwAoxohm8gWB1NZQAmnXG1YoVOeVfMKRbV81sK3guXiBIozNr28DsxwXb9n3egDVbyoV00L0lX-9By8VW0Q-6drPpL4Xkz2p7PUB3yssmqigHXZjvHEqjUKX=s0)
 
-### 4xF4 w F1
+### 4xF4 with F1
 
 ![](https://lh5.googleusercontent.com/P0JxdIFZ00nI6Zngs88p9b7k5gMSFfWz8bN7Kqz9m0rb9hhLbWnbo1juVUI1GncSimQdxyQyCzT6rmq8ILF_j-I5rz50AQj_QswZPlISkG7W2PWLfccvlY-qI7ApDGHf3ne3Q-wM=s0)
 
@@ -181,7 +179,7 @@ The long cast time of the slow F3 can be a detriment to resolving mechanics. By 
 
 Another possible sequence. Note that using both Polyglot stacks requires a good understanding of the fight. 
 
-#### 3xF4 Transpose w Clipped Triple 
+#### 3xF4 Transpose with Clipped Triple 
 
 ![](https://lh4.googleusercontent.com/2sjqHSwcg9Mh3WbnNb4iP-TaHhGQ7iVrrQ_UkDwFdFcz-ehzTJluuAq2vqSDxkhllBObs3TXosFKY3i9T6b1vhRQgApr5NKA0XGIuTFL7GecW_RQUDJuUwK7pYugAKpn2X8hE4sI=s0)
 
