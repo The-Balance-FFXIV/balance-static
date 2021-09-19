@@ -248,11 +248,11 @@ You’ll be able to get at least three GCDs on the Magitek Bits before caster li
 
 ## Phase 5: Ultima
 
-Ultima is targetable before Predation for about 28 seconds. Perfect for a Dex pot and a reopener. At 2.46 you can get two Hypercharge windows in and still end on Clean Shot but you’ll need to cut the second Hypercharge short by a single Heat Blast and finish the uptime with Drill and Clean Shot. You’ll need to drift Drill a bit for this, but it’s fine as the next bit of downtime during Predation is longer than 20 seconds.
+Ultima is targetable before Predation for about 28 seconds. Perfect for a Dex pot and a reopener. At 2.46, you can get two Hypercharge windows in and still end on Clean Shot but you’ll need to cut the second Hypercharge short by a single Heat Blast and finish the uptime with Drill and Clean Shot. You’ll need to drift Drill a bit for this, but it’s fine as the next bit of downtime during Predation is longer than 20 seconds.
 
-Your next Wildfire window comes up during Annihilation, and can be a bit tricky to get off properly. Due to downtime, Drill and Wildfire butt heads a bit here, but the priority should be Wildfire. Holding Wildfire here can be detrimental as Ultima will disappear momentarily prior to Active-Phase 2 and will cut into your Wildfire if it’s delayed slightly. Delaying Drill for Wildfire won’t lose you a usage prior to Suppression.
+Your next Wildfire window comes up during Annihilation, and can be a bit tricky to get off properly. Due to downtime, Drill and Wildfire butt heads a bit here, but the priority should be Wildfire. Holding Wildfire here can be detrimental as Ultima will disappear momentarily prior to Active Phase 2, and will cut into your Wildfire if it’s delayed slightly. Delaying Drill for Wildfire won’t lose you a usage prior to Suppression.
 
-Your second pot and third Wildfire should come back up in Primal Roulette. Burst timings should be coordinated with your group for this portion of the fight. This Wildfire can be held for as long as it needs to for your party’s buff windows since you won’t get another in the encounter.
+Your second pot and third Wildfire should come back up in Primal Roulette. Burst timings should be coordinated with your group for this portion of the fight. This Wildfire can be held for as long as it needs to for your party’s buff windows, since you won’t get another in the encounter.
 
 ## Suggested Tactician Usage
 
