@@ -165,9 +165,9 @@ Prepull -> In center before Basic Relativity -> After you move in for Singular A
 
 General notes:
 
-\- Try to refresh AF/UI prior to the stuns for Relativities (particularly for Basic/Intermediate). If you're unable to, Transpose is better than letting stacks drop as you get moved to your return spots for the mechanics
+\- Try to refresh AF/UI prior to the stuns for Relativities (particularly for Basic/Intermediate). If you're unable to, Transpose is better than letting stacks drop as you get moved to your return spots for the mechanics.
 
-\- For spread positioning for the purple debuff, you can safely take a spot directly under the boss without clipping others spread out around her hitbox
+\- For spread positioning for the purple debuff, you can safely take a spot directly under the boss without clipping others spread out around her hitbox.
 
 ---
 # Misc.
