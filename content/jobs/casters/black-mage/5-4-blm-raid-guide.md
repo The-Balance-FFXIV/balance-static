@@ -5,6 +5,14 @@ title: 5.4 BLM Raid Guide
 
 Last updated: February 2, 2021
 
+ 1. [General Info](#general-info)
+ 2. [Eden’s Promise: Umbra (Savage)](#E9S)
+ 3. [Eden’s Promise: Litany (Savage)](#E10S)
+ 4. [Eden’s Promise: Anamorphosis (Savage)](#E11S)
+ 5. [Eden’s Promise: Eternity (Savage) Phase 1](#E12S-P1)
+ 6. [Eden’s Promise: Eternity (Savage) Phase 2](#E12S-P2)
+
+
 # General Info
 - - -
 Some initial suggestions for Ley Lines usage and other fight-specific information/recommendations. They are not guaranteed to universally be the best way to do the fights, and based on various factors like kill time, optimization, positioning/strats, etc. you might consider shifting uses or handling things differently. However, you can use these as a starting point to develop your own plan.
