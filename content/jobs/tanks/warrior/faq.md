@@ -1,7 +1,7 @@
 ---
 title: Warrior FAQ
 ---
-> *Lvl70: Single Target vs AoE (Two Targets)?*
+> *Lv70: Single Target vs AoE (Two Targets)?*
 
 [TL;DR: Very equal, but lvl70 ST wins by a small margin](https://docs.google.com/spreadsheets/d/e/2PACX-1vRqxeKcJJb0zc2Kh86mY222FLkV9r8YAByW-TzoPujokBy1DT4ofPlwpFhKN4K4uZWhrYLfHvo7Lz5g/pubhtml)
 
@@ -52,4 +52,6 @@ Check the [Stats and Materia](https://guides.xivresources.com/jobs/tanks/warrior
 
 > *Why can't I fit five Fell Cleaves inside Inner Release?*
 
-Pop Inner Release when your GCD looks like this: ![](https://media.discordapp.net/attachments/277962807813865472/597203462106906651/unknown.png)
+Pop Inner Release when your GCD looks like this:   
+
+![](https://media.discordapp.net/attachments/277962807813865472/597203462106906651/unknown.png)
