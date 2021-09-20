@@ -1,5 +1,5 @@
 ---
-title: Savage
+title: MCH Savage
 ---
 # Eden's Gate by Contra:
 
