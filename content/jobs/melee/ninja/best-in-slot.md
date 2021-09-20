@@ -1,5 +1,5 @@
 ---
-title: Best in Slot
+title: NIN Best in Slot
 ---
 # Best-in-Slot (BiS)
 
