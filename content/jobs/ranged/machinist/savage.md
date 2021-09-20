@@ -109,7 +109,7 @@ You’ll want to cover as much of the post-Stormy Horizon damage as possible. Ge
 
 * **Stock Ricochet Charges for First Healer Gaols**
 
-  * Try to enter first gaols with 2 charges of Ricochet stocked.
+  * Try to enter first Gaols with two charges of Ricochet stocked.
 
     * Casting Ricochet on the gaol close to Titan will give you a free 75 AoE potency per cast.
 * **Stock Heat for First Healer Gaols**
@@ -265,7 +265,7 @@ By Hinoka Shirasagi (Leviathan)
 
 Before changing any burst windows or mitigation plans, talk to your raid group about it first. Make sure you’re using Wildfire when the rest of the party is using their buffs and make sure you’re mitigating damage when your healers need you to. If you’re in PF and you can’t do that, do your best with what you’re given.
 
-## e9s
+## E9S
 
 ### Clouds during Empty Plane:
 
@@ -279,7 +279,7 @@ Be wary of your placement during Empty Plane as you may miss buffs if you are on
 
 Obscure Woods, Deluge of Darkness, Empty Plane, and Ground-Razing Particle Beam are the raidwides, and they are all good choices for Tactician. If your group opts for a strat where you stack the first set of Brambles, you may want to hold the first Tactician to use it on Evil Seed. If your group has a fast kill time and you adopt the speed kill strat where you ignore the clouds during Empty Plane, use Tactician on Deluge of Darkness. 
 
-## e10s
+## E10S
 
 ### Wildfire and Potion Windows:
 
@@ -289,7 +289,7 @@ There is zero reason to hold two minutes in this fight, so you will be using Wil
 
 Tactician is best used to mitigate the Umbral Orbs mechanic. Addle and Reprisal will not work on Umbral Orbs, only shields or buff mitigations like Tactician will. Deepshadow Nova, Darkness Unleashed, and Blighting Burst are the raidwides you want to mitigate otherwise. If your group opts to do uptime Spinny Dogs, you will need to make sure Tactician is up for that. You can mitigate the Blighting Burst stacks and it will be up in time for Spinny Dogs and subsequent Umbral Orbs.
 
-## e11s
+## E11S
 
 ### Wildfire and Potion Windows:
 
@@ -299,7 +299,7 @@ If you have a faster kill time, I strongly recommend moving your party's four mi
 
 Electric flavor Elemental Break hurts a lot with the AoEs that everyone gets, as well as Light flavor Elemental Break’s line stacks. Burnished Glory and the DoT it applies also hurt a ton. Ask your healers which they prefer you mitigate, but Electric Elemental Break is always a safe choice. Definitely use Tactician for the Electric cycle at the end.
 
-## e12s Door
+## E12S Door
 
 ### Wildfire and Potion Windows:
 
