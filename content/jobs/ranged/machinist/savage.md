@@ -187,7 +187,7 @@ Transition to the last phase will desync some raid buffs from Wildfire but delay
 
 ### Reassemble
 
-It’s possible to get 2 casts of Reassemble during Ifrit+Garuda phase instead of delaying the second cast to the start of Raktapaksa. You’ll have to be quite aggressive with precasting it during transition, be quick with your first gcd and avoid any clipping to pull it off though. Reassemble should come back up in time for the last or second-to-last gcd in the phase so you can get the cast out if you delay the last Drill in the phase for it.
+It’s possible to get 2 casts of Reassemble during Ifrit+Garuda phase instead of delaying the second cast to the start of Raktapaksa. You’ll have to be quite aggressive with precasting it during transition, be quick with your first GCD and avoid any clipping to pull it off though. Reassemble should come back up in time for the last or second-to-last GCD in the phase so you can get the cast out if you delay the last Drill in the phase for it.
 
 ### Queen
 
@@ -195,7 +195,7 @@ Take care not to summon Queen just before phase transitions or a lot of the pote
 
 ### Skill speed
 
-2.44 gcd or faster can gain you a Drill cast just before phase transitions but be careful of ghosting since it’ll eat Reassemble as well.
+2.44 GCD or faster can gain you a Drill cast just before phase transitions but be careful of ghosting since it’ll eat Reassemble as well.
 
 ### Tactician
 
@@ -205,7 +205,7 @@ Target Inferno Howls or other unavoidable AoE damage like Storm of Fury tethers 
 
 ### Rotation alignments
 
-This fight will throw a serious wrench into all your alignments with the downtime and teleports. Do your best to keep using Drill, Anchor and Wildfire on cooldown and avoiding heat waste. I do this at the expense of delaying Barrel Stabilizer but honestly, I don’t know the optimal answer to this. Just press buttons.
+This fight will throw a serious wrench into all your alignments with the downtime and teleports. Do your best to keep using Drill, Anchor and Wildfire on cooldown and avoiding Heat waste. I do this at the expense of delaying Barrel Stabilizer but honestly, I don’t know the optimal answer to this. Just press buttons.
 
 ### Early Anchor
 
@@ -229,7 +229,7 @@ Empty waves, first teleport with tethers, Unearned Envy AoEs from Blasphemy in a
 
 Take the left side to silence one of the Earth add’s Stoneskin casts. Drill and Anchor are very good at dropping Electric adds. Queen can be used at lower gear levels for 2nd or 3rd wave to ease dealing with Earth and Aqua adds. Wildfire is not worth using as the adds die far too quickly and it won’t be ready for reopener.
 
-Communicate with your party members to fine tune your plan for the phase and to make the most of everyone’s cooldowns and abilities, there are many correct ways to do the phase.
+Communicate with your party members to fine tune your plan for the phase and to make the most of everyone’s cooldowns and abilities, as there are many correct ways to do the phase.
 
 ### Reopeners with potion
 
@@ -237,7 +237,7 @@ Since Shiva is instantly targetable after the add phase, you can’t use a preca
 
 1 (pot) > Drill (REA+Queen) > Anchor > 2 > 3 (WF+HC)
 
-Drill and Anchor positions can be swapped if Queen was used in add phase and you need the battery earlier for the opener. Anchor can be delayed by 1 gcd after Drill but no later or Reassemble can’t be realigned with Drill for the next cast.
+Drill and Anchor positions can be swapped if Queen was used in add phase and you need the battery earlier for the opener. Anchor can be delayed by 1 GCD after Drill but no later or Reassemble can’t be realigned with Drill for the next cast.
 
 ### Tactician
 
@@ -273,7 +273,7 @@ There are a number of ways you can handle your cloud during Empty Plane. You can
 
 ### Wildfire and Potion Windows:
 
-Be wary of your placement during Empty Plane as you may miss buffs if you are on the opposite side of the arena from the person using the buff. For faster kill times it may be prudent to hold buffs and Wildfire until after Empty Plane finishes so you can use it alongside your second potion. For slower kill times, use your potion with the 6 minute Wildfire that comes up during Brambles with Towers.
+Be wary of your placement during Empty Plane as you may miss buffs if you are on the opposite side of the arena from the person using the buff. For faster kill times it may be prudent to hold buffs and Wildfire until after Empty Plane finishes so you can use it alongside your second potion. For slower kill times, use your potion with the six minute Wildfire that comes up during Brambles with Towers.
 
 ### Recommended Tactician Usage:
 
@@ -283,7 +283,7 @@ Obscure Woods, Deluge of Darkness, Empty Plane, and Ground-Razing Particle Beam 
 
 ### Wildfire and Potion Windows:
 
-There is 0 reason to hold 2 minutes in this fight, so you will be using Wildfire on cooldown alongside buffs. Use your second potion with the 6 minute buff window. If you are pushing against enrage, you may want to use it sooner than the 6 minute buff window to gain a third use at the very end.
+There is zero reason to hold two minutes in this fight, so you will be using Wildfire on cooldown alongside buffs. Use your second potion with the six minute buff window. If you are pushing against Enrage, you may want to use it sooner than the six minute buff window to gain a third use at the very end.
 
 ### Recommended Tactician Usage:
 
@@ -293,7 +293,7 @@ Tactician is best used to mitigate the Umbral Orbs mechanic. Addle and Reprisal 
 
 ### Wildfire and Potion Windows:
 
-If you have a faster kill time, I strongly recommend moving your parties’ 4 minute buff window to 4:30 so that the raid’s burst is also under the second potion. The intermissions in this fight where the boss is untargetable line up perfectly with this, with your next Wildfire coming off cooldown right as the boss is targetable after the second intermission. If you don’t delay the buff window with a fast kill time, you will still want to use your second potion on cooldown at 4:30 to ensure you get 3 uses out of the fight. Your final burst window will be with a potion after Prismatic Deception. If your kill time is slower and you are hitting enrage, you will use your second potion at the 6:30 buff window and your final one at the 11 minute buff window.
+If you have a faster kill time, I strongly recommend moving your party's four minute buff window to 4:30 so that the raid’s burst is also under the second potion. The intermissions in this fight where the boss is untargetable line up perfectly with this, with your next Wildfire coming off cooldown right as the boss is targetable after the second intermission. If you don’t delay the buff window with a fast kill time, you will still want to use your second potion on cooldown at 4:30 to ensure you get 3 uses out of the fight. Your final burst window will be with a potion after Prismatic Deception. If your kill time is slower and you are hitting Enrage, you will use your second potion at the 6:30 buff window and your final one at the 11 minute buff window.
 
 ### Recommended Tactician Usage:
 
@@ -303,7 +303,7 @@ Electric flavor Elemental Break hurts a lot with the AoEs that everyone gets, as
 
 ### Wildfire and Potion Windows:
 
-I would not recommend holding buffs during Shiva Junction, your group should try to burst during the mechanic. In the PoVs section of this guide you can find PoVs for examples of how you should handle this phase. Use your second potion with the Wildfire that comes up during Lions, and for faster kill times, ask your group to hold buffs until after Lions. If you are hitting enrage, you might want to use an opener with an earlier Wildfire to get the full damage out of the final one.
+I would not recommend holding buffs during Shiva Junction, your group should try to burst during the mechanic. In the PoVs section of this guide you can find PoVs for examples of how you should handle this phase. Use your second potion with the Wildfire that comes up during Lions, and for faster kill times, ask your group to hold buffs until after Lions. If you are hitting Enrage, you might want to use an opener with an earlier Wildfire to get the full damage out of the final one.
 
 ### Recommended Tactician Usage:
 
