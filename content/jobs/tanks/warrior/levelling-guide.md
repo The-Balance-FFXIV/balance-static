@@ -66,7 +66,7 @@ The basic opener for single-target fights is:
 * Heavy +Berserk 
 * Maim (80 gauge)
 * Storm’s Path (100 gauge)
-* Inner Beast (-50 gauge, +50 gauge, total at 100 gauge)
+* Inner Beast +Infuriate (-50 gauge, +50 gauge, total at 100 gauge)
 * Inner Beast (50 gauge)
 * Inner Beast (0 gauge), Berserk ends
 
