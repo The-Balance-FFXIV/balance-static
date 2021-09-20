@@ -52,4 +52,4 @@ Check the \[Stats and Materia] guide!
 
 > *Why can't I fit 5 Fell Cleaves inside Inner Release?*
 
-Pop Inner Release when your GCD looks like this;![](https://media.discordapp.net/attachments/277962807813865472/597203462106906651/unknown.png)
+Pop Inner Release when your GCD looks like this: ![](https://media.discordapp.net/attachments/277962807813865472/597203462106906651/unknown.png)
