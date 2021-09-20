@@ -139,7 +139,7 @@ Should a situation call for B3 to be instant casted, Transpose can be used to in
 
 Beware of the MP generation when going for this.
 
-Instant B3 w Transpose can be used to guarantee 2 ticks during UI to enable 4xF4. B3 and Xeno are interchangeable here depending on the first tick. Lucid is assumed unavailable here as it would likely be better to enter a Transpose line instead. 
+Instant B3 with Transpose can be used to guarantee 2 ticks during UI to enable 4xF4. B3 and Xeno are interchangeable here depending on the first tick. Lucid is assumed unavailable here as it would likely be better to enter a Transpose line instead. 
 
 ![](https://lh5.googleusercontent.com/_YmbU_LlLy0ZsV_bLwAoxohm8gWB1NZQAmnXG1YoVOeVfMKRbV81sK3guXiBIozNr28DsxwXb9n3egDVbyoV00L0lX-9By8VW0Q-6drPpL4Xkz2p7PUB3yssmqigHXZjvHEqjUKX=s0)
 
@@ -185,7 +185,7 @@ Another possible sequence. Note that using both Polyglot stacks requires a good 
 
 We can forcefully enter a Transpose line by clipping Triple. This line is about the same as a normal 3xF4 Transpose with slow F3 and without instant casts, with Triplecast and the clip’s effects considered. 0.7 seconds is assumed for the clip. Moreover, Transpose lines can lack weave slots for Triple and Swift, and this line acts as a way to mitigate this. 
 
-This line can be used to enable a 5xF4 that would have otherwise been impossible. Note your spell speed when going for this line.
+Under certain sps, this line can be used to enable a 5xF4 that would have otherwise been impossible.
 
 ![](https://lh6.googleusercontent.com/IcRfmseO_rFrK1bMwhd8tsrWg4jqqqujLuVrvUvwVEvFgH3cNRh0T71g3pkNWur_6cYsuxu3fvyGAngJwFVoabPHuUrSGdXNV2LLPIy7X3XqeohzblOUFLgOBWd3VazZFXUg3QGW=s0)
 
@@ -431,7 +431,7 @@ Forgoes 1 F4 by spending an UH on the F3 refresh. Eliminates the weak F1 with a 
 
 ### 5xF4 with B4 and Lucid
 
-Under LL, if no second filler is available during UI and only 1 MP tick can be obtained, Lucid can be used with B4 to enable 5xF4. This line is better than the alternative, 4xF4 w B4, but it is not a gain over standard.
+Under LL, if no second filler is available during UI and only 1 MP tick can be obtained, Lucid can be used with B4 to enable 5xF4. This line is better than the alternative, 4xF4 with B4, but it is not a gain over standard.
 
 ![](https://lh3.googleusercontent.com/xf3dzhLP8yNNXqkZ0WTEm7FLCb30UH0fZ-6LjFeoYowwWwZ5qlNvCRgXnWOusWqsUidNI_yvdOGCbsstr03u6kIS4RsDuD83wj9VurBUdF6CT3k7kvfd7_jRwyzUkH6t5lPh783N=s0)
 
@@ -443,7 +443,7 @@ Lucid can be used to increase the chance of enabling 4xF4 with a single UI3 tick
 
 ### Freeze over B3
 
-There are 2 benefits of transitioning with Freeze over B3. 1. Freeze’s lower cast time eliminates the amount of clip from a fast B3, which could be clutch for a weaved Sharp into T3P. 2. Freeze’s lower cast time allows a longer UI, which could allow for additional alignment with MP ticks. 4xF4 w Freeze is 1% worse than standard in PPS, and becomes equal to standard in PPS if a ~0.3 seconds clip happens with B3. Only do this if you really know what you are doing.
+There are 2 benefits of transitioning with Freeze over B3. 1. Freeze’s lower cast time eliminates the amount of clip from a fast B3, which could be clutch for a weaved Sharp into T3P. 2. Freeze’s lower cast time allows a longer UI, which could allow for additional alignment with MP ticks. 4xF4 with Freeze is 1% worse than standard in PPS, and becomes equal to standard in PPS if a ~0.3 seconds clip happens with B3. Only do this if you really know what you are doing.
 
 ![](https://lh6.googleusercontent.com/onnT1Mxptuxokw_ed6L1J9P6iLwW3zNvkTJU5dLkpbodu_xHqRFIf0JCnwplkXnk0q_mNZ-bjRYO2TSz0CtT5RsPuBkuVK85SiL0iE57nrWJxsv_454qM8RK6GdGh1Q73i3PvbCf=s0)
 
