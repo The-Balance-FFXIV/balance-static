@@ -3,7 +3,7 @@ title: Red Mage Advanced Guide
 ---
 # Introduction
 
-This guide will cover some Shadowbringers RDM optimization concepts and principles that aren’t covered in the basic job guide. The intended audience include:
+This guide will cover some Shadowbringers Red Mage optimization concepts and principles that aren’t covered in the basic job guide. The intended audience include:
 
 * RDM players who have the fundamentals mostly down, but are trying to improve (e.g. go from top 10% to top 1%).
 * High performing RDM players who get good logs through good GCD uptime and repetition, but wish to augment their theoretical understanding.
