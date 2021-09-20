@@ -24,7 +24,7 @@ For your Best-in-Slot gear, you will generally be going for Weapon Damage> Dexte
 
 Use the 2.12 GCD BiS for general play, the 2.11 plays around potential extra gcds and is more consistent at doing triple Bhavas in Tricks, which still wouldn't be in every fight, and also requires a lower ping to work. Use 2.10 BiS if neither of the other 2 will get you the GCD in a fight you are looking for.
 
-Meld priority for non BIS pieces: Crit>>>>DH>DET>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>SKS
+Meld priority for non BIS pieces: Crit>>>>DH>DET >>>>>>>>>>>>>>>>>>>>>>>>>>>>>> SKS
 
 - - -
 
