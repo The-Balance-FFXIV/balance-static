@@ -50,6 +50,6 @@ Click and read below\
 
 Check the [Stats and Materia](https://guides.xivresources.com/jobs/tanks/warrior/stats-and-materia/) guide!
 
-> *Why can't I fit 5 Fell Cleaves inside Inner Release?*
+> *Why can't I fit five Fell Cleaves inside Inner Release?*
 
 Pop Inner Release when your GCD looks like this: ![](https://media.discordapp.net/attachments/277962807813865472/597203462106906651/unknown.png)
