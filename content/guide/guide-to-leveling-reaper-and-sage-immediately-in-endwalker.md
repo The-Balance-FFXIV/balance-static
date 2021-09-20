@@ -19,22 +19,23 @@ Written by: Ringabel Dim (DNC Mentor in [The Balance](https://discord.com/invite
 
 * Ensure you are capped on Poetics, Allegory, and Revelation so you can buy level 70 Tomestone weapon from Rhalgr’s Reach (Augmented weapon is 600 Poetics). Allegory and Revelation will become obsolete when 6.0 launches but they can be traded in for Poetics.
 
-NOTE: This step is somewhat optional if you plan on leveling mostly through Bozja content. You should still have a starting Level 70 set for leveling from 70-71 before you enter Bozja. Have all crafted gear made ahead of time and dungeon gear (from Qitana Ravel, Malikah’s Well, and Mt. Gulg) acquired for the best gear at each possible level between 70-80 with melds. Having all of the dungeon drops (including the earrings) in your inventory / armory chest will ensure the Reaper/Sage weapon will be guaranteed to drop into your inventory at the end of the dungeon. Have mats ready for the new craftable leveling weapons for the new jobs (i.e level 74/76/78 crafted weapons). Taking a look at current BSM/GSM/ALC crafts at these levels, [here](https://docs.google.com/spreadsheets/d/1D7oO4Zi09NPd_0N6RWv8QcimTFNcMIVsygY9FYyfTpc/edit?usp=sharing) is a list of materials to stock up on in preparation for these new crafts
+- *NOTE: This step is somewhat optional if you plan on leveling mostly through Bozja content.
+You should still have a starting Level 70 set for leveling from 70-71 before you enter Bozja.*  
+Have all crafted gear made ahead of time and dungeon gear (from Qitana Ravel, Malikah’s Well, and Mt. Gulg) acquired for the best gear at each possible level between 70-80 with melds. Having all of the dungeon drops (including the earrings) in your inventory / armory chest will ensure the Reaper/Sage weapon will be guaranteed to drop into your inventory at the end of the dungeon. Have mats ready for the new craftable leveling weapons for the new jobs (i.e level 74/76/78 crafted weapons). Taking a look at current BSM/GSM/ALC crafts at these levels, [here](https://docs.google.com/spreadsheets/d/1D7oO4Zi09NPd_0N6RWv8QcimTFNcMIVsygY9FYyfTpc/edit?usp=sharing) is a list of materials to stock up on in preparation for these new crafts.
 
-* Level 70 Starting Gear sets - best item options between 400 Scaevan / 400 Omega / 390 Yama Upgraded Crafted / 390 Hydatos gear pieces are highlighted with other suitable replacements also featured. If the Scaevan item is the best item for level 70, it will be the only option displayed.![](https://lh4.googleusercontent.com/psw23v2BjeWDifdF4Mr4LovzsjbM3hS3p3g02wvGF0JaQ45tGvnYcrkbuND5q8mZzFSrPUxf0W0xEY7wfM_Z59mijIWL3aiWpVUIeTHyA_gN3NE-3O7YtkuwEgxoeUhvPXXBoDGx=s0)
-    2. 1. For ease of visibility, check this box at the top left corner of the Ariyala Gearset: 
-       2. [Reaper Level 70 Starter Set](https://ffxiv.ariyala.com/1F3AX)
-       3. [Sage Level 70 Starter Set](https://ffxiv.ariyala.com/1F3BS)
-       4. 1. NOTE: if using solely the highlighted items, the only piety you get is from the Pants and Menphina’s Earring. Consider trading items for items with piety if you so choose.
-       5. These gearsets do not include belts because of belt removal. They also don’t include earrings because you will be using the Menphina’s Earring.
+  - Level 70 Starting Gear sets - best item options between 400 Scaevan / 400 Omega / 390 Yama Upgraded Crafted / 390 Hydatos gear pieces are highlighted with other suitable replacements also featured. If the Scaevan item is the best item for level 70, it will be the only option displayed.  
+     1. For ease of visibility, check the ['Show Marked Items Only' box](https://lh4.googleusercontent.com/psw23v2BjeWDifdF4Mr4LovzsjbM3hS3p3g02wvGF0JaQ45tGvnYcrkbuND5q8mZzFSrPUxf0W0xEY7wfM_Z59mijIWL3aiWpVUIeTHyA_gN3NE-3O7YtkuwEgxoeUhvPXXBoDGx=s0) at the top left corner of the Ariyala Gearset:   
+       2. [Reaper Level 70 Starter Set](https://ffxiv.ariyala.com/1F3AX)  
+       3. [Sage Level 70 Starter Set](https://ffxiv.ariyala.com/1F3BS)  
+        - NOTE: if using solely the highlighted items, the only piety you get is from the Pants and Menphina’s Earring. Consider trading items for items with piety if you so choose.  
+       4. These gearsets do not include belts because of belt removal. They also don’t include earrings because you will be using the Menphina’s Earring.  
 
 * For level 80+ content, you’ll want to have a set of level 80 Maiming/Healing gear prepared (ideally the current 5.5 BiS for Dragoon / Healers, look in [the Balance](http://discord.com/thebalanceffxiv) for lists) as well as either a weapon coffer from Eden’s Promise: Eternity (e12s) or 8 pages (ilvl 535 weapon) or enough Poetics for an Augmented Tomestone of Revelation Weapon (ilvl 530 weapon).
 * Set up macros for setting new hotbars once skill names are known. 
-  * Macro text is: /hotbar action “Feint” 1 2         
+  * Macro text is: `/hotbar action “Feint” 1 2`         
+    - For each line where the “1” represents the hot bar and “2” represents the slot on that hot bar and “Feint” is an example of an action that would be placed there.
 
-* for each line where the “1” represents the hot bar and “2” represents the slot on that hot bar and “Feint” is an example of an action that would be placed there
-
-12. Log off in Rhalgr’s Reach before maintenance so you can immediately buy a new ilvl 400 weapon with Poetics.
+- Log off in Rhalgr’s Reach before maintenance so you can immediately buy a new ilvl 400 weapon with Poetics.
 
 # Things to do once servers go live when 6.0 launches:
 
@@ -78,16 +79,16 @@ NOTE: This step is somewhat optional if you plan on leveling mostly through Bozj
 * Ensure everyone in your party has Bozjan Clusters for Priority Deployment buffs to help ensure your party’s spot in Critical Engagements
 * It is recommended that you cap on as many of the Proof of Mettle buffs (i.e. Ray of Fortitude / Valor / Succor) before the start of Endwalker to increase the damage you do and your survivability in the FATEs and CEs
 * It is recommended to bring the following Lost Actions and Essences to help with the speed at which you complete these FATEs and CEs:
-* * Both:
-  * * Have plenty of Potion/Ether Kits, Reraisers, and Elixirs holstered
+  * Both:
+    * Have plenty of Potion/Ether Kits, Reraisers, and Elixirs holstered
     * Get plenty of Forgotten Fragment of History (Lodestone) - this teleports you to starting camp in the instance
   * Sage:
-  * * Deep Essence of the Aetherweaver OR Deep Essence of the Profane
+    * Deep Essence of the Aetherweaver OR Deep Essence of the Profane
     * Lost Chainspell, Lost Font of Magic, and Lost Seraph Strike are the strongest DPS actions
     * Have plenty of Ether Kits, Reraisers, and Elixirs holstered
     * Lost Full Cure may be helpful for survivability
   * Reaper:
-  * * Deep Essence of the Skirmisher / Deep Essence of the Beast
+    * Deep Essence of the Skirmisher / Deep Essence of the Beast
     * If using Deep Essence of the Beast, make sure you have Lost Assassinate. It is recommended to use Beast due to higher survivability compared to Skirmisher.
     * Lost Font of Power, Banner of Noble Ends, and Banner of Honored Sacrifice are the strongest DPS actions
     * Lost Excellence may be helpful for survivability
