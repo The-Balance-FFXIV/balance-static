@@ -9,7 +9,7 @@ A: Yes, the main ones use either <t> to go to your target at the time, or use <1
 
 > *Q: Why does our BiS not follow the stat priority?*
 
-A: Because of stat tiering and how it works together with our rotation, our rotation simulation brought out this exact combination of materia to be a higher average DPS value than fully following our stat priority. If you want to know more about the math behind stats and stat tiering, go to the sub stats tier list up above by the spreadsheets. 
+A: Because of stat tiering and how it works together with our rotation, our rotation simulation brought out this exact combination of materia to be a higher average DPS value than fully following our stat priority. If you want to know more about the math behind stats and stat tiering, go to the sub stats tier list linked [here](http://bit.ly/substats).
 
 > *Q: Does Kassatsu  % damage affect Hyosho and Goka?*
 
