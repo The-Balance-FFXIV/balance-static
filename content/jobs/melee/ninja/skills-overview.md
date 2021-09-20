@@ -16,7 +16,7 @@ Delivers an attack with a potency of 100. If used after Spinning Edge in the com
 ![AeolianEdge](/img/jobs/melee/ninja/Aeolian_Edge.png)
 **Aeolian Edge**
 
-Delivers an attack with a potency of 100, 160 potency if done from the rear of the enemy. If this is used after Gust Slash as the third part of our combo, it will instead deliver an attack with a potency of 420, 480 if done from the rear of the enemy. Grants ten Ninki if used in combo. This is one of two options for the third part of our basic combo
+Delivers an attack with a potency of 100, 160 potency if done from the rear of the enemy. If this is used after Gust Slash as the third part of our combo, it will instead deliver an attack with a potency of 420, 480 if done from the rear of the enemy. Grants ten Ninki if used in combo. This is one of two options for the third part of our basic combo.
 
 ![ArmorCrush](/img/jobs/melee/ninja/Armor_Crush.png)
 **Armor Crush**
@@ -164,7 +164,6 @@ Deals unaspected damage with a potency of 300. Costs 50 Ninki to use.
 **Bunshin**
 
 Grants five stacks of the buff Bunshin, each stack allowing your shadow to attack enemies each time you execute a weaponskill. Shadow attack potency varies based on the attack executed, but is not affected by combo bonuses. Each attack from the shadow will grant you five Ninki, for a total of 25 ninki if all five stacks of Bunshin are used before the time limit. This buff has a duration of 30 seconds. Costs 50 ninki to use. This ability has a personal cooldown of 90 seconds.
-
 
 Melee attack: 200 potency.
 Ranged attack: 100 potency.
