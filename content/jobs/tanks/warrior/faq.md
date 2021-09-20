@@ -1,9 +1,9 @@
 ---
 title: Warrior FAQ
 ---
-> *Lv70: Single Target vs AoE (Two targets)?*
+> *Lv70: Single Target vs AoE (Two Targets)?*
 
-[TL;DR: Very equal, but lv70 ST wins by a small margin](https://docs.google.com/spreadsheets/d/e/2PACX-1vRqxeKcJJb0zc2Kh86mY222FLkV9r8YAByW-TzoPujokBy1DT4ofPlwpFhKN4K4uZWhrYLfHvo7Lz5g/pubhtml)
+[TL;DR: Very equal, but lvl70 ST wins by a small margin](https://docs.google.com/spreadsheets/d/e/2PACX-1vRqxeKcJJb0zc2Kh86mY222FLkV9r8YAByW-TzoPujokBy1DT4ofPlwpFhKN4K4uZWhrYLfHvo7Lz5g/pubhtml)
 
 > *How do I relic?*
 
@@ -32,7 +32,7 @@ If your third Upheaval (per 90s timeframe) slipped out of the 22s, either skip i
 
 First you check IR windows, just toss the log into XIVA and see what it tells you: <https://xivanalysis.com/>
 
-Second, I like to check GCDs outside of Eye buff. you can do this by selecting your name -> Damage done -> Events > Click the Eye button twice, until it gets a red outline. Make sure to discount the first three GCDs that you apply Eye.
+Second, I like to check GCDs outside of Eye buff. You can do this by selecting your name -> Damage done -> Events > Click the Eye button twice, until it gets a red outline. Make sure to discount the first three GCDs that you apply Eye.
 
 You can always take a log and compare it to another log of a high % player (remember to adjust killtime to be the same). Compare your casts with theirs and it should give you an idea of lost uptime and rotational mistakes.
 
@@ -48,7 +48,7 @@ Click and read below\
 
 > *What do I meld?*
 
-Check the \[Stats and Materia] guide!
+Check the [Stats and Materia](https://guides.xivresources.com/jobs/tanks/warrior/stats-and-materia/) guide!
 
 > *Why can't I fit 5 Fell Cleaves inside Inner Release?*
 
