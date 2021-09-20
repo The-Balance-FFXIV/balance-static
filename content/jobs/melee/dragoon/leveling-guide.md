@@ -1,11 +1,12 @@
 ---
 title: Leveling Guide
 ---
-The basic single target rotation changes as you progress through the levels. The general idea is to keep the Disembowel buff up and using the Full Thrust combo as a filler.
+The basic single target rotation changes as you progress through the levels.  
+The general idea is to keep the Disembowel buff up and using the Full Thrust combo as a filler.
 
-The Area of Effect (AoE) rotation Doom Spike > Sonic Thrust > Coerthan Torment becomes worth it at 3 targets. You still want to keep Disembowel up when using this rotation.
+The Area of Effect (AoE) rotation, Doom Spike > Sonic Thrust > Coerthan Torment, becomes worth it at 3 targets. You still want to keep Disembowel up when using this rotation.
 
-Off-Global Cooldown actions such as Jump or Geirskogul as well as buffs like Lance Charge should be used on cooldown on all levels. 
+Off-Global Cooldown actions such as Jump or Geirskogul, as well as buffs like Lance Charge, should be used on cooldown on all levels. 
 ## Level 18-25
 
 |||||||||
