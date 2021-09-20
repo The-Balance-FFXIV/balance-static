@@ -1,7 +1,7 @@
 ---
 title: Warrior FAQ
 ---
-> *Lv70: Single Target vs AoE (Two Targets)?*
+> *Lvl70: Single Target vs AoE (Two Targets)?*
 
 [TL;DR: Very equal, but lvl70 ST wins by a small margin](https://docs.google.com/spreadsheets/d/e/2PACX-1vRqxeKcJJb0zc2Kh86mY222FLkV9r8YAByW-TzoPujokBy1DT4ofPlwpFhKN4K4uZWhrYLfHvo7Lz5g/pubhtml)
 
@@ -36,7 +36,7 @@ Second, I like to check GCDs outside of Eye buff. You can do this by selecting y
 
 You can always take a log and compare it to another log of a high % player (remember to adjust killtime to be the same). Compare your casts with theirs and it should give you an idea of lost uptime and rotational mistakes.
 
-Next thing I like to check is how your IR aligns with raid buffs. You can do this by doing the same thing as above, but clicking the IR icon once instead. On the right hand side, it'll show what buffs were active when you landed your attacks. 
+Next thing I like to check is how your IR aligns with raid buffs. You can do this by doing the same thing as above, but clicking the IR icon once instead. On the right hand side, it'll show which buffs were active when you landed your attacks. 
 
 Last thing I like to do, and this is the thing people hate doing, is go to "Casts -> Timelines" to check for errors in the rotation. Is Dye refreshed properly? Are Upheavals and ICs going in Trick? Do you lose Path casts? Too many Onslaughts? 
 
@@ -52,6 +52,4 @@ Check the [Stats and Materia](https://guides.xivresources.com/jobs/tanks/warrior
 
 > *Why can't I fit five Fell Cleaves inside Inner Release?*
 
-Pop Inner Release when your GCD looks like this:   
-
-![](https://media.discordapp.net/attachments/277962807813865472/597203462106906651/unknown.png)
+Pop Inner Release when your GCD looks like this: ![](https://media.discordapp.net/attachments/277962807813865472/597203462106906651/unknown.png)
