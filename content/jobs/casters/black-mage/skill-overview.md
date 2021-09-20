@@ -37,9 +37,9 @@ title: Skill Overview
 
 # Magic Ranged DPS actions
 
-| Icon | Action         | Level | Type    | MP  | Casting | Recast | Description                                                                                    |
-| ---- | -------------- | ----- | ------- | --- | ------- | ------ | ---------------------------------------------------------------------------------------------- |
-| Icon | Addle          | 8     | Ability | \-  | Instant | 90s    | Lowers the target's intelligence and mind by 10%.                                              |
-| Icon | Swiftcast      | 18    | Ability | \-  | Instant | 60s    | Next spell is cast immediately.                                                                |
-| Icon | Lucid Dreaming | 24    | Ability | \-  | Instant | 60s    | Gradually restores own MP.                                                                     |
-| Icon | Surecast       | 44    | Ability | \-  | Instant | 120s   | Spells can be cast without interruption. Nullifies most knockback and draw-in effects for 6s.  |
+| Icon | Action         | Level | Type    | MP  | Casting | Recast | Description                                                                                             |
+| ---- | -------------- | ----- | ------- | --- | ------- | ------ | ------------------------------------------------------------------------------------------------------- |
+| Icon | Addle          | 8     | Ability | \-  | Instant | 90s    | Lowers the target's intelligence and mind by 10%.                                                       |
+| Icon | Swiftcast      | 18    | Ability | \-  | Instant | 60s    | Next spell is cast immediately.                                                                         |
+| Icon | Lucid Dreaming | 24    | Ability | \-  | Instant | 60s    | Gradually restores own MP.                                                                              |
+| Icon | Surecast       | 44    | Ability | \-  | Instant | 120s   | Spells can be cast without interruption. Nullifies most incoming knockback and draw-in effects for 6s.  |
