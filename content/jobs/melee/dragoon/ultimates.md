@@ -4,7 +4,7 @@ title: DRG Ultimates
 # The Weapon's Refrain (UWU)
 
 
-### Opener on Garuda:
+## Opener on Garuda:
 
 ||||||||||||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -14,19 +14,19 @@ title: DRG Ultimates
 
 
 
-With the pre-pull Geirskogul you will end up (pressing on cooldown) entering life during the second feather phase for lots of cleaved Nastrond.
+With the pre-pull Geirskogul you will end up (pressing on cooldown) entering Life Of the Dragoon (Life) during the second feather phase for lots of cleaved Nastrond.
 
 
-### Ifrit Nails
-You should be entering life around the time the nails spawn, allowing you to get a triple cleave 1-2 times on two nails + Ifrit at the narrow end of the bucket. You then roll right into a double-life prior to his jumps, while preparing for them. At the bitter end of the phase, if your kill time allows, you can enter life again and get 1 Nastrond on Ifrit before he jumps, saving the latter two for Titan.
+## Ifrit Nails
+You should be entering Life around the time the nails spawn, allowing you to get a triple cleave 1-2 times on two nails + Ifrit at the narrow end of the bucket. You then roll right into a double-Life prior to his jumps, while preparing for them. At the bitter end of the phase, if your kill time allows, you can enter Life again and get 1 Nastrond on Ifrit before he jumps, saving the latter two for Titan.
 
 
-### Buffs
+## Buffs
 You'll get 2 Lance Charge on Garuda, 1 on Ifrit (can be held for nails), and save your second on Ifrit for the Titan opener as the first of 2 on Titan. The duration of Garuda through the Magitek bits is around 8 minutes. Using Lance Charge on cooldown, the 6th would land at 7:30, during downtime. As such, 5 is the max you can get.
 
 You will only get 1 Dragon Sight on each of the three bosses, so judge according to your personal kill times as to when would be best to use on each of them, to allow these three uses and still have it back for Ultima's opener.
 
-### Ultimate Suppression
+## Ultimate Suppression
 It is possible to keep your Eyes through Suppression by using AoE combo on the gaol. You can also gain an extra Eye on the gaol if it lives long enough. It is rather risky though due to the mechanics happening at the same time.
 
 # The Unending Coil of Bahamut (UCoB)
