@@ -1,5 +1,5 @@
 ---
-title: 5.4 BLM Raid Guide
+title: BLM Raid Guide
 ---
 Last updated: February 2, 2021
 
