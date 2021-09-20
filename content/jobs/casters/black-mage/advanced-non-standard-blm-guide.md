@@ -423,19 +423,19 @@ Instead of using instants as fillers, we align the filler UI phase with micro do
 
 - - -
 
-### Standard w instant F3 refresh
+### Standard with instant F3 refresh
 
 Forgoes 1 F4 by spending an UH on the F3 refresh. Eliminates the weak F1 with a stronger F3 cast instead. Instant casting the F3 refresh this way is about 0.5% stronger than using the instant on Despair, or about 0.3% stronger with Triple’d instants. This gain becomes more substantial if the instant cast is used on F1.![](https://lh4.googleusercontent.com/Lh_QI7bTW-NdjsBXmqfYQBTNihyf-uIj6S5UO_wiVUBc4LZYwmGXuSAxkLA3nVLqOwEAq8PT2PGvW78WgsG9ZBFJBtTpxF_GYCIIGJWhlSFkbkYJDZ2J2ZmFDEuewCpAaSZs2oOC=s0)
 
 ![](https://lh3.googleusercontent.com/A9m2Q2d52ZfLNzjBPat-1rTXkREKGlS2vja1iRXG1K4bvKnkmJRdY5N2SltXsMNI4cINlBXsdXb7-NOMdMnZKPC8euVI3hG2OoWHy5buvFso9o_3nd_29CNyiuShYEGTfBOh_u2K=s0)
 
-### 5xF4 w B4 and Lucid
+### 5xF4 with B4 and Lucid
 
 Under LL, if no second filler is available during UI and only 1 MP tick can be obtained, Lucid can be used with B4 to enable 5xF4. This line is better than the alternative, 4xF4 w B4, but it is not a gain over standard.
 
 ![](https://lh3.googleusercontent.com/xf3dzhLP8yNNXqkZ0WTEm7FLCb30UH0fZ-6LjFeoYowwWwZ5qlNvCRgXnWOusWqsUidNI_yvdOGCbsstr03u6kIS4RsDuD83wj9VurBUdF6CT3k7kvfd7_jRwyzUkH6t5lPh783N=s0)
 
-### 4xF4 w 1 filler and Lucid
+### 4xF4 with 1 filler and Lucid
 
 Lucid can be used to increase the chance of enabling 4xF4 with a single UI3 tick. 2 Lucid ticks are required along with 1 UI3 tick for 4xF4. Since we are aiming to obtain 2 Lucid ticks, it is recommended to weave Lucid earlier in the line to increase the chance of obtaining both ticks. The filler cannot be a MP costing spell, aka hardcasted T3. 
 
@@ -447,13 +447,13 @@ There are 2 benefits of transitioning with Freeze over B3. 1. Freeze’s lower c
 
 ![](https://lh6.googleusercontent.com/onnT1Mxptuxokw_ed6L1J9P6iLwW3zNvkTJU5dLkpbodu_xHqRFIf0JCnwplkXnk0q_mNZ-bjRYO2TSz0CtT5RsPuBkuVK85SiL0iE57nrWJxsv_454qM8RK6GdGh1Q73i3PvbCf=s0)
 
-### Double Transpose w B4
+### Double Transpose with B4
 
 ![](https://lh4.googleusercontent.com/_WaKUZiDX-F8gF6oqQQsQJxujOeaeCKJoEjhrTJ76S_UdWO44HRpQY00yZC8yywtmojUOXNPajtGNzOGM_8smfeZbDhpi-Y8oH4tM_kWyKUMd02pRG5BQOKbaujqaBw59MKgmSKc=s0)
 
 A niche line that requires a tick within ~2 seconds after the first Transpose (sps dependent). The second Transpose should be used after the second MP tick. This line is best applied when T3P would fall off before UI with 1 Xeno available. This line is slightly lower in PPS To standard. 
 
-### Double Transpose into F1 w B4
+### Double Transpose into F1 with B4
 
 ![](https://lh6.googleusercontent.com/IBCT_ioRtBGwZ7XKzSfeycmDg1WGawNa6b2127q6SgnPFACSB0bh5RchnjfBOt8bLsCpVbIt55POPCUOd9T2bKXeTMi4wI_xLCbxBhuqAO5I8hZYNwh0NFFjGmrAChElXJX2WOox=s0)
 
