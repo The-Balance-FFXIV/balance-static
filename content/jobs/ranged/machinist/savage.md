@@ -13,12 +13,12 @@ by Contra Banned, Gilgamesh
 
   * Try to enter the adds phase with two charges of Ricochet stocked.
 
-    * On 2 targets, Ricochet yields an additional 75 AoE potency per cast, for 150 free potency from stocked charges. Keep in mind that, depending on your opener, Ricochet’s natural cooldown may turn over during the pre-adds downtime.
+    * On two targets, Ricochet yields an additional 75 AoE potency per cast, for 150 free potency from stocked charges. Keep in mind that, depending on your opener, Ricochet’s natural cooldown may turn over during the pre-adds downtime.
 * **Stock Heat for Adds Phase**
 
-  * Try to enter the adds phase with 85-100 heat.
+  * Try to enter the adds phase with 85-100 Heat.
 
-    * By avoiding a Hypercharge following the two minute burst period, you should be able to enter adds phase with capped or nearly capped heat. Stocking and blowing heat during the adds phase will grant a lot of extra potency (up to 75 x 5 = 375). You have to overcap heat by more than 20 for this to stop being a gain - so don’t sweat overcapping a bit if it occurs.
+    * By avoiding a Hypercharge following the two minute burst period, you should be able to enter adds phase with capped or nearly capped heat. Stocking and blowing Heat during the adds phase will grant a lot of extra potency (up to 75 x 5 = 375). You have to overcap Heat by more than 20 for this to stop being a gain - so don’t sweat overcapping a bit if it occurs.
 * **Adds Phase Bioblaster**
 
   * In the adds phase, replace your first cast of Drill with Bioblaster.
@@ -28,7 +28,7 @@ by Contra Banned, Gilgamesh
 
   * In the adds phase, replace the 1-2-3 combo with Spread Shot when you know you will not reach Clean Shot before the phase ends.
 
-    * On 2 targets, the heated combo is only a gain over Spread Shot when an entire 1-2-3 combo replaces 3 Spread Shots. Look at the expected duration of your adds phase. An Anchor, a Bioblaster, two Hypercharges, and a Drill take 22.5 sec. Optimized groups will kill the adds in approximately 25 sec, leaving you time for one or two additional GCDs. This means that you will be unable to finish your combo, making Spread Shot a gain of 140 or 170 potency, depending on whether you replaced 1 or 2 combo GCDs.
+    * On two targets, the Heated combo is only a gain over Spread Shot when an entire 1-2-3 combo replaces 3 Spread Shots. Look at the expected duration of your adds phase. An Anchor, a Bioblaster, two Hypercharges, and a Drill take 22.5 sec. Optimized groups will kill the adds in approximately 25 sec, leaving you time for one or two additional GCDs. This means that you will be unable to finish your combo, making Spread Shot a gain of 140 or 170 potency, depending on whether you replaced one or two combo GCDs.
 * **Avoid Queen in Adds Phase**
 
   * Save your Battery for after the cutscene.
@@ -36,9 +36,9 @@ by Contra Banned, Gilgamesh
     * Because the optimal adds phase generates only 20 battery, summoning Queen will prevent you from using her on the post-cutscene reopener sequence, which typically contains most/all of your group’s buffs.
 * **Flamethrower After Cutscene**
 
-  * Use flamethrower at least 2.5 sec before the boss becomes targetable.
+  * Use Flamethrower at least 2.5 sec before the boss becomes targetable.
 
-    * It takes a moment to retarget the boss and hit a button. We can potentially take advantage of this time to get a lucky tick of Flamethrower. Under no circumstances should you delay getting into your normal rotation when the boss is back - this is just a passive channel (pointed at the boss) that may grant you 100 potency if your timing is good. This technique is useful after downtime in many circumstances, as described later in this guide. If you plan to use Reassemble on your first GCD after downtime, you can cast it before flamethrower without fear of losing the buff. You don’t want to do this at the start of adds phase, as you will get murdered by the proximity AoEs.
+    * It takes a moment to retarget the boss and hit a button. We can potentially take advantage of this time to get a lucky tick of Flamethrower. Under no circumstances should you delay getting into your normal rotation when the boss is back - this is just a passive channel (pointed at the boss) that may grant you 100 potency if your timing is good. This technique is useful after downtime in many circumstances, as described later in this guide. If you plan to use Reassemble on your first GCD after downtime, you can cast it before Flamethrower without fear of losing the buff. You don’t want to do this at the start of adds phase, as you will get murdered by the proximity AoEs.
 * **Stock Ricochet Charges for Meteors Phase**
 
   * Try to enter meteors phase with 2 charges of Ricochet stocked.
@@ -58,7 +58,7 @@ by Contra Banned, Gilgamesh
 
   * In the meteors phase, Hypercharging can grant you extra potency.
 
-    * Depending on how your group kills meteors, you may be able to gain some extra potency through either Auto Crossbow casts or Ricochet AoE by using Hypercharge. ACB is only viable when hitting 3 targets, while the extra Ricochet charges will always be useful (as long as one meteor is alive). Meteors tend to die quickly, however, and if you’re baiting a far orb you may not have time to take full advantage of a meteors phase Hypercharge.
+    * Depending on how your group kills meteors, you may be able to gain some extra potency through either Auto Crossbow casts or Ricochet AoE by using Hypercharge. ACB is only viable when hitting three targets, while the extra Ricochet charges will always be useful (as long as one meteor is alive). Meteors tend to die quickly, however, and if you’re baiting a far orb you may not have time to take full advantage of a meteors phase Hypercharge.
 
 ### Tactician
 
@@ -90,7 +90,7 @@ There are a number of circumstances where Tactician can help save a GCD heal. Th
     * You have exactly 3:01 to hit the boss between Maelstroms, meaning any delay on Drill after first Maelstrom will cost you a cast at 2.5 GCD. You will probably tend to do this anyway, but it bears an explicit statement. Never delay Drill under any circumstances between Maelstroms.
 * **Flamethrower After Each Maelstrom**
 
-  * Use flamethrower at least 2.5 sec before the boss becomes targetable.
+  * Use Flamethrower at least 2.5 sec before the boss becomes targetable.
 
     * If you can get into position quickly enough, channeling Flamethrower at the end of the each Maelstrom downtime can grant you a free 100 potency while you retarget the boss and hit your GCD. After the second Maelstrom, you will want to open with a Reassemble-Drill. Make sure to cast Reassemble before beginning your Flamethrower channel.
 * **Skillspeed**
@@ -129,7 +129,7 @@ You’ll want to cover as much of the post-Stormy Horizon damage as possible. Ge
     * Due to shitty AI, Uplift can cause Queen to interrupt her attacks, or stop attacking completely. This is incompletely tested, but if you or your robot friend are ever knocked up onto an elevated section of the arena, you risk losing Queen attacks. Depending on when buffs go out, you may be forced to make some tricky decisions.
 * **Flamethrower Before Phase 2 and 3**
 
-  * Use flamethrower at least 2.5 sec before the boss becomes targetable.
+  * Use Flamethrower at least 2.5 sec before the boss becomes targetable.
 
     * Channeling Flamethrower during the downtimes before phase 2 and 3 begin can grant you a free 100 potency while you retarget the boss and hit your GCD. You may not want to do this at the start of phase 2, depending on the timing of buffs in your group. Getting off Queen and Reassemble at the proper timing is more important than the chance at this extra potency. That said, you will likely have sufficient time to cast Queen and Reassemble, start your Flamethrower, and still begin the phase at the correct time.
 
@@ -143,7 +143,7 @@ Most of the tips in the previous section assumed you’ll be doing second gaols 
 
 If your group does opt to cheese some extra LB for a ranged LB3 on first gaols, the longer animation may interact negatively with your rotation. This requires some additional testing.
 
-Finally, anytime you use LB in any encounter, always make sure you finish your combo before using the ability. Additionally, LB can be "weaved" like an ogcd - you don't need to wait for your gcd to clear to start the cast.
+Finally, anytime you use LB in any encounter, always make sure you finish your combo before using the ability. Additionally, LB can be "weaved" like an oGCD - you don't need to wait for your GCD to clear to start the cast.
 
 ### Tactician
 
