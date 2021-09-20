@@ -3,17 +3,11 @@ title: Openers
 ---
 # Openers
 
-Openers should put abilities on cooldown, fit strong spells within buff windows, and minimize clipping. All openers assume there is a pull countdown and the boss is pulled at 0. If your group pulls earlier, adjust them as necessary. Use the highest tier Tincture / Infusion / Potion of Intelligence available.
+Openers should put abilities on cooldown, fit strong spells within buff windows, and minimize clipping. All openers assume there is a pull countdown and the boss is pulled at zero. If your group pulls earlier, adjust them as necessary. Use the highest tier Tincture / Infusion / Potion of Intelligence available.
 
 With all openers being very close in estimated output over the course of the entire encounter, it is instead recommended to choose your opener based on your current spellspeed, with consideration towards potential fight-specific requirements.
 
-<div align="center">
-
 ![](https://cdn.discordapp.com/attachments/592613187245834260/812071330458370078/unknown.png)
-
-</div>
-
-## JP Opener
 
 {{< youtube u6HBt-b7yrw >}}
 
