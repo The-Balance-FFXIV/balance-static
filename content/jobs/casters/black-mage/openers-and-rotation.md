@@ -21,7 +21,7 @@ With all openers being very close in estimated output over the course of the ent
 
 **Precast**: Sharpcast at -12s and Fire III at -4s > Enochian > Thunder III > Fire IV > clip Triplecast > Fire IV > Pot > Fire IV > Ley Lines > Fire IV > Swiftcast > Despair > MF > Fire IV > Despair > B3 > Sharpcast > Thunder III proc > B4
 
-This is a reliable opener for especially high spellspeed sets, because it does not rely on having a polyglot stack available in time for Xenoglossy for filler at the end that other openers utilize. However, in order to ensure that the thundercloud proc will last long enough to use instead, 3600+ SpS is required. Below this threshold, the thundercloud proc can fall off losing you a chunk of damage.
+This is a reliable opener for especially high spellspeed sets, because it does not rely on having a Polyglot stack available in time for Xenoglossy for filler at the end that other openers utilize. However, in order to ensure that the Thundercloud proc will last long enough to use instead, 3600+ SpS is required. Below this threshold, the Thundercloud proc can fall off losing you a chunk of damage.
 
 ## Modified JP Opener
 
@@ -73,6 +73,6 @@ Good general purpose opener to fall back on, if other openers are not as viable,
 
 ## Variations
 
-The openers above aren’t absolute. Alter them to fit fight requirements. Add Swiftcast after an instant to cover an extraFire IV/ Despair or hold for fight mechanics. 
+The openers above aren’t absolute. Alter them to fit fight requirements. Add Swiftcast after an instant to cover an extra Fire IV/ Despair or hold for fight mechanics. 
 
 Do not precast Swiftcast or Triple. This puts you behind a GCD, due to waiting for the Recast before your next Spell. If there’s no pull countdown or you’re unable to precast, then precast Swiftcast is fine.
