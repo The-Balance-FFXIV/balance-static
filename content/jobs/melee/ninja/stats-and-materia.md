@@ -1,5 +1,5 @@
 ---
-title: Stats and Materia
+title: Ninja Stats and Materia
 ---
 For your Best-in-Slot gear, you will generally be going for;
 
