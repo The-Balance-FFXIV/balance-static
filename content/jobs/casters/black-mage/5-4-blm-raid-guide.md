@@ -1,20 +1,19 @@
 ---
 title: 5.4 BLM Raid Guide
 ---
-<!--StartFragment-->
-
 Last updated: February 2, 2021
 
- 1. [General Info](#general-info)
- 2. [Eden’s Promise: Umbra (Savage)](#edens-promise-umbra-savage-e9s)
- 3. [Eden’s Promise: Litany (Savage)](#edens-promise-litany-savage-e10s)
- 4. [Eden’s Promise: Anamorphosis (Savage)](#edens-promise-anamorphosis-savage-e11s)
- 5. [Eden’s Promise: Eternity (Savage) Phase 1](#edens-promise-eternity-savage-e12s-p1)
- 6. [Eden’s Promise: Eternity (Savage) Phase 2](#edens-promise-eternity-savage-e12s-p2)
-
+1. [General Info](#general-info)
+2. [Eden’s Promise: Umbra (Savage)](#edens-promise-umbra-savage-e9s)
+3. [Eden’s Promise: Litany (Savage)](#edens-promise-litany-savage-e10s)
+4. [Eden’s Promise: Anamorphosis (Savage)](#edens-promise-anamorphosis-savage-e11s)
+5. [Eden’s Promise: Eternity (Savage) Phase 1](#edens-promise-eternity-savage-e12s-p1)
+6. [Eden’s Promise: Eternity (Savage) Phase 2](#edens-promise-eternity-savage-e12s-p2)
 
 # General Info
+
 - - -
+
 Some initial suggestions for Ley Lines usage and other fight-specific information/recommendations. They are not guaranteed to universally be the best way to do the fights, and based on various factors like kill time, optimization, positioning/strats, etc. you might consider shifting uses or handling things differently. However, you can use these as a starting point to develop your own plan.
 
 Highly recommended to check out the caster mitigation doc [here](https://docs.google.com/document/d/1NAUgh_3gKfL3FGitNVxL5zPnQg1ytC1QHH_jY3syDgY/edit) for good places to use Addle. Check with your healers to see if they might want any specific timings, or if you could help them with a Manaward in a specific spot in a fight.
@@ -41,7 +40,7 @@ Normal opener > Wide Angle (WA)/Anti-air (AA) position > tiles between outer and
 
 6: Similar use as the one during the earlier tiles phase.
 
-General notes:
+**General notes:**
 
 \- AM (or any other movement ability) through brambles has a chance to snapshot you in them and give you a heavy tick of damage, which will often lead to quick death thereafter. Avoid whenever possible, unless you will die otherwise.
 
@@ -53,7 +52,7 @@ General notes:
 
 \- Clouds only have ~133k HP so it is very easy to overkill them/kill them faster then be stuck facing away with nothing to hit while the gaze resolves. Consider using a cast or two on the boss instead of just focusing the cloud when it spawns, and potentially have someone else kill your cloud if it's left with very low HP.
 
-\- For slowing the cloud down, you don't have to be up close to it, just in its path. Similarly for the donut AoE, you can be around 3/4 of the way back on the inner tile and be safe from the AoE. Don't move more than you need to.
+\- For slowing the cloud down, you don't have to be up close to it, just in its path. Similarly for the donut AoE, you can be around three-quarters of the way back on the inner tile and be safe from the AoE. Don't move more than you need to.
 
 - - -
 
@@ -65,25 +64,25 @@ Strict: Prepull south -> Dualspell -> Under boss for first orbs -> Fade to shado
 
 Relaxed: Prepull south -> Dualspell -> Under boss for first orbs -> Delay to 4x Implosions (use under boss) -> Tail end of VG1 -> After Shackled Apart -> After VG2
 
-1: Prepull directly south near the edge of the arena so you have 3/4 chance of staying in them for the first Implosion, and are already in position for the out mechanic afterwards.
+1: Prepull directly south near the edge of the arena so you have three-quarters of a chance of staying in them for the first Implosion, and are already in position for the out mechanic afterwards.
 
 2: On CD during Dualspell. Place them so the inner edge you can be in the stack, outer edge out of stack. It often isn't vital for you to be in the stack either--especially if static, double check with your healers, and consider offering addle as mitigation for the stack damage. For the following Shadowkeeper, you can bait your shadow cleave at one edge of your LL and move to the other, without having to leave them. Back to front, front to back, or even side to side all are sufficient.
 
 3: Under boss for orbs. You can stand on the edge closer to where your assigned orb group is to be in the stack, as long as they aren't too far out. Can always play it safe with a minor delay to place them closer to your orb group.
 
-Strict timing
+**Strict timing:**
 
-4: Use in the center for Fade to Shadow. Aim to move out with an instant for the AoE snapshot--the AoE goes off more with the animation than with the AoE disappearing, so you may have more time than you think.
+Use in the center for Fade to Shadow. Aim to move out with an instant for the AoE snapshot--the AoE goes off more with the animation than with the AoE disappearing, so you may have more time than you think.
 
-5: Use on CD before Shackled Apart, can get most of a solid use here.
+Use on CD before Shackled Apart, can get most of a solid use here. \
+\
+**Relaxed timing:**
 
-Relaxed timing
+Delay until 4x Implosion. Place in the center and dodge to the safe spots for Implosions on the edge of your LL.
 
-4: Delay until 4x Implosion. Place in the center and dodge to the safe spots for Implosions on the edge of your LL.
+Place after Shackled Apart, in the position you are dropping your Pitch Bog AoE. Further uses can be used on CD from here.
 
-5: Place after Shackled Apart, in the position you are dropping your Pitch Bog AoE. Further uses can be used on CD from here.
-
-General notes:
+**General notes:**
 
 \- For movement during Implosions, if the first two shadows spawn 90 degrees apart you can stand in one spot to be safe from both without having to move. If this occurs during 4x implosions, you can do this then move diagonally through boss and be safe for the following two cleaves.
 
@@ -109,7 +108,7 @@ Prepull -> Turn of Heavens safe spot -> After Shifting Sky in protean spot -> On
 
 6: After Prismatic Deception.
 
-General notes:
+**General notes:**
 
 \- The protean AoEs are very narrow--you can stand closer to other people than you might think. Close enough that you can avoid clipping each other for it but be close enough for fire/holy stack.
 
@@ -139,13 +138,13 @@ General notes:
 
 \- The room cleaves are slightly less than 270 degrees. Make sure you don't move more than you have to.
 
-\- For Shiva spread, having a spot directly underneath her can be beneficial--it's often not used and won't impact other people, and you can already be one step in the safe spot from the cleave to be in your spread position already.
+\- For Shiva spread, having a spot directly underneath her can be beneficial -- it's often not used and won't impact other people, and you can already be one step in the safe spot from the cleave to be in your spread position already.
 
 \- Manaward can put in good work during Diamond Dust, especially if you're progging or in PF where healing/mitigation might not be fully sorted out. Physical damage sucks.
 
 \- During statues, you can stand directly between the two adds and be safe from the baited beams.
 
-\- If you're killing the boss around the 7 minute mark, squeezing a use in during Titan can be beneficial. You can position your LL to cover two spots and hope you get lucky, or consider BLM-relative titan positioning for the first two sets (LL are over by the third)--see [here](https://cdn.discordapp.com/attachments/627154261804974080/799572687176335420/blm_uptime.png) for a recommended positioning, with potential [trigger](https://cdn.discordapp.com/attachments/641700495949430785/799369745177640960/BLMrocks12.xml) by Aya Liz if interested.
+\- If you're killing the boss around the 7-minute mark, squeezing a use in during Titan can be beneficial. You can position your LL to cover two spots and hope you get lucky, or consider BLM-relative titan positioning for the first two sets (LL are over by the third)--see [here](https://cdn.discordapp.com/attachments/627154261804974080/799572687176335420/blm_uptime.png) for a recommended positioning, with potential [trigger](https://cdn.discordapp.com/attachments/641700495949430785/799369745177640960/BLMrocks12.xml) by Aya Liz if interested.
 
 - - -
 
@@ -163,13 +162,14 @@ Prepull -> In center before Basic Relativity -> After you move in for Singular A
 
 5: Good spot for reopener after Advanced Relativity, and then final use when available during Terminal Relativity.
 
-General notes:
+**General notes:**
 
 \- Try to refresh AF/UI prior to the stuns for Relativities (particularly for Basic/Intermediate). If you're unable to, Transpose is better than letting stacks drop as you get moved to your return spots for the mechanics.
 
 \- For spread positioning for the purple debuff, you can safely take a spot directly under the boss without clipping others spread out around her hitbox.
 
----
+- - -
+
 # Misc.
 
 ## Changelog
@@ -187,5 +187,3 @@ February 2, 2021
 This guide is currently maintained by BLM mentors of the Balance Discord, with information and ideas provided by the community.
 
 Acknowledgement to Ryuk Ru for the previous BLM Strategy guide, as well as for all those who contribute and help other fellow BLM players to learn and improve.
-
-<!--EndFragment-->
