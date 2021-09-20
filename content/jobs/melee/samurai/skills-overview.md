@@ -32,13 +32,13 @@ title: Skills Overview
 | ------------------------------------------- | --- | ------------------------------------------------------------------------------------------------- |
 | ![](https://xivapi.com/i/003000/003179.png) |     | **Ikishoten** <br> +50 Kenki. Can only be used in combat. 60s CD.                                 |
 | ![](https://xivapi.com/i/003000/003176.png) |     | **Hagakure** <br> Consumes all Sen, +10 Kenki for each consumed. 5s CD.                           |
-| ![](https://xivapi.com/i/003000/003168.png) |     | **Hissatsu: Kaiten** <br> +50% potency to next Weaponskill. -20 Kenki. 15 CD.                     |
-| ![](https://xivapi.com/i/003000/003173.png) |     | **Hissatsu: Shinten** <br> Single target attack, 320 potency. -25 Kenki. 15 CD.                   |
-| ![](https://xivapi.com/i/003000/003177.png) |     | **Hissatsu: Guren** <br> Line AOE, 850 potency. -50 Kenki. 2min CD, shared with Senei.            |
+| ![](https://xivapi.com/i/003000/003168.png) |     | **Hissatsu: Kaiten** <br> +50% potency to next Weaponskill. -20 Kenki. 15s CD.                    |
+| ![](https://xivapi.com/i/003000/003173.png) |     | **Hissatsu: Shinten** <br> Single target attack, 320 potency. -25 Kenki. 15s CD.                  |
+| ![](https://xivapi.com/i/003000/003177.png) |     | **Hissatsu: Guren** <br> Line AOE, 850 potency. -50 Kenki. 2m CD, shared with Senei.              |
 | ![](https://xivapi.com/i/003000/003178.png) |     | **Hissatsu: Senei** <br> Single target nuke, 1100 potency. -50 Kenki. 2min CD, shared with Guren. |
 | ![](https://xivapi.com/i/003000/003170.png) |     | **Hissatsu: Yaten** <br> 10-yalm backstep, 100 potency. Combos into Enpi. -10 Kenki. 10s CD.      |
 | ![](https://xivapi.com/i/003000/003169.png) |     | **Hissatsu: Gyoten** <br> Dash to target (20-yalm range), 100 potency. -10 Kenki. 10s CD          |
-| ![](https://xivapi.com/i/003000/003174.png) |     | **Hissatsu: Kyuten** <br> AoE in a circle around you, 150 potency. -25 Kenki. 15 CD.              |
+| ![](https://xivapi.com/i/003000/003174.png) |     | **Hissatsu: Kyuten** <br> AoE in a circle around you, 150 potency. -25 Kenki. 15s CD.             |
 | ![](https://xivapi.com/i/003000/003184.png) |     | **Shoha** <br> Single target attack, 400 potency. -3 Meditation stacks. 15s CD.                   |
 
 ## Buffs
@@ -49,7 +49,7 @@ title: Skills Overview
 | ![](https://xivapi.com/i/003000/003172.png) |                                             | **Meditate** <br> Channeled Kenki and Meditation stack generation for 15s. Initial cast on the GCD. +10 Kenki (Max 50) and +1 Meditation stack (Max 3) per tick. Cancelled upon movement or action. Can only be used in combat. 60s CD. |
 | ![](https://xivapi.com/i/003000/003153.png) |                                             | **Third Eye** <br> Reduces next damage taken by 10%. If hit, grants Open Eyes for 15s. 3s duration, 15s CD.                                                                                                                             |
 |                                             | ![](https://xivapi.com/i/003000/003175.png) | **Hissatsu: Seigan** <br> Single target attack, 220 potency. Consumes Open Eyes. - 15 Kenki. 1s CD, shared with Merciful Eyes.                                                                                                          |
-|                                             | ![](https://xivapi.com/i/003000/003171.png) | **Merciful Eyes** <br> Self heal, 200 potency. Consumes Open Eyes. 15 CD, shared with Seigan.                                                                                                                                           |
+|                                             | ![](https://xivapi.com/i/003000/003171.png) | **Merciful Eyes** <br> Self heal, 200 potency. Consumes Open Eyes. 15s CD, shared with Seigan.                                                                                                                                          |
 
 ## Role Actions
 
