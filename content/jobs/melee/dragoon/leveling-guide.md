@@ -1,5 +1,5 @@
 ---
-title: Leveling Guide
+title: DRG Leveling Guide
 ---
 The basic single target rotation changes as you progress through the levels.\
 The general idea is to keep the Disembowel buff up and using the Full Thrust combo as a filler.
