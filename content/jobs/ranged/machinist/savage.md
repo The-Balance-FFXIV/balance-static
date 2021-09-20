@@ -9,14 +9,14 @@ by Contra Banned, Gilgamesh
 
 ### Damage Optimization
 
-* **Stock Ricochet Charges for Adds Phase**
+* **Stock Ricochet charges for Adds Phase**
 
-  * Try to enter adds phase with 2 charges of Ricochet stocked.
+  * Try to enter the adds phase with two charges of Ricochet stocked.
 
     * On 2 targets, Ricochet yields an additional 75 AoE potency per cast, for 150 free potency from stocked charges. Keep in mind that, depending on your opener, Ricochet’s natural cooldown may turn over during the pre-adds downtime.
 * **Stock Heat for Adds Phase**
 
-  * Try to enter adds phase with 85-100 heat.
+  * Try to enter the adds phase with 85-100 heat.
 
     * By avoiding a Hypercharge following the two minute burst period, you should be able to enter adds phase with capped or nearly capped heat. Stocking and blowing heat during the adds phase will grant a lot of extra potency (up to 75 x 5 = 375). You have to overcap heat by more than 20 for this to stop being a gain - so don’t sweat overcapping a bit if it occurs.
 * **Adds Phase Bioblaster**
