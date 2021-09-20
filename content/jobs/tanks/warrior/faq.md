@@ -1,7 +1,7 @@
 ---
 title: Warrior FAQ
 ---
-> *Lv70: Single Target vs AoE (Two Targets)?*
+> *Lvl70: Single Target vs AoE (Two Targets)?*
 
 [TL;DR: Very equal, but lvl70 ST wins by a small margin](https://docs.google.com/spreadsheets/d/e/2PACX-1vRqxeKcJJb0zc2Kh86mY222FLkV9r8YAByW-TzoPujokBy1DT4ofPlwpFhKN4K4uZWhrYLfHvo7Lz5g/pubhtml)
 
