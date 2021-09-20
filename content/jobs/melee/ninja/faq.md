@@ -35,7 +35,7 @@ A: As much as you can tolerate, there is no set amount.
 
 A: Not with everything in it, but you can move mug to the oGCD slot where potion is if you aren't going to use a potion.
 
-> *Q: Is it galaxy brain to macro DWAD and Assassinate together?*
+> *Q: Is it galaxy brain to macro Dream Within a Dream and Assassinate together?*
 
 A: No, macroing skills together is bad, especially since they will not always be used at the same time, and because with how macros work, this would delay your next GCD every time.
 
