@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Ninja FAQ
 ---
 Frequently Asked Questions: 
 
