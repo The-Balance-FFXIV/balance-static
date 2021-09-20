@@ -17,13 +17,15 @@ Last updated: September 19, 2021
 
 - - -
 
-Hello. I am Reina, a caster player, and I am standing on the shoulders of giants. This document aims to provide a comprehensive guide on **non-standard rotation** (also known as AI or Hypermeme rotation). There is the assumption you know all of the basics of BLM, including abbreviations and fundamentals. If not, refer to the [BLM Basic Guide](https://guides.xivresources.com/jobs/casters/black-mage/5-x-blm-guide/) before proceeding here. This guide will *not* bring you from 75% to 95% nor will it magically make you a good BLM player. If you are looking to generally improve, work on the fundamentals such as keeping your gcd rolling (ABC: Always Be Casting), ogcd usage, slidecasting, positioning, etc. **The optimizations listed here are meant for players with a great understanding of the fundamentals of BLM’s playstyle and rotation, and are already familiar with executing the rotation well in fights.** If you can maintain a **substantially high uptime** on BLM and are interested in learning alternative and potentially challenging BLM rotations, then I welcome you to read on. This document is written in 3 sections so you don’t need the knowledge of later sections to utilize the former ones. If you have any questions or comments, feel free to contact me on Discord at Reina#0001.
+Hello. I am Reina, a caster player, and I am standing on the shoulders of giants. This document aims to provide a comprehensive guide on **non-standard rotation** (also known as AI or Hypermeme rotation). There is the assumption you know all of the basics of BLM, including abbreviations and fundamentals. If not, refer to the [BLM Basic Guide](https://guides.xivresources.com/jobs/casters/black-mage/5-x-blm-guide/) before proceeding here. This guide will *not* bring you from 75% to 95% nor will it magically make you a good BLM player. If you are looking to generally improve, work on the fundamentals such as keeping your gcd rolling (ABC: Always Be Casting), ogcd usage, slidecasting, positioning, etc. 
 
-> “From sim numbers, we’ve expected about a 1.5% overall dps increase with non-standard lines in  Shadowbringers. This number is actually quite useless though, and it would be better taken to mean there’s statistical significance that being able to skip B4 and use Transpose is (slightly) better than always using B4 and not using Transpose. Actual dps gain could be higher or lower depending on player skill and the encounter.” - Yuna. 
+**The optimizations listed here are meant for players with a great understanding of the fundamentals of BLM’s playstyle and rotation, and are already familiar with executing the rotation well in fights.** If you can maintain a **substantially high uptime** on BLM and are interested in learning alternative and potentially challenging BLM rotations, then I welcome you to read on. This document is written in 3 sections so you don’t need the knowledge of later sections to utilize the former ones. If you have any questions or comments, feel free to contact me on Discord at Reina#0001.
+
+> “From sim numbers, we’ve expected about a 1.5% overall DPS increase with non-standard lines in  Shadowbringers. This number is actually quite useless though, and it would be better taken to mean there’s statistical significance that being able to skip B4 and use Transpose is (slightly) better than always using B4 and not using Transpose. Actual DPS gain could be higher or lower depending on player skill and the encounter.” - Yuna. 
 
 Special thanks to **Caro Kann and Lady Yuna’lesca** for their [5.X BLM Hypermeme Rotation Guide](https://docs.google.com/document/d/1SBU4HpqBenHAXFr6V-gwAKggkfBgJ2IR9FEbMtT3YRw), which a large portion of this document is based on. As an aside, I highly recommend installing the [MP tick trigger](https://docs.google.com/document/d/1vsI2r4064VHJ8WuhItXB7ilbdjEJ26GphZSsjWiyDDU/edit) as it will make tracking MP ticks infinitely easier. In addition, some optimizations listed below are only possible with the MP tick trigger.
 
-# <div align="center">Basics</div>
+# Basics
 
 ## General Idea
 
@@ -47,7 +49,7 @@ A reminder of what is referred to as the standard rotation. B3 + B4 with 2 MP ti
 
 ### Base 4xF4 line
 
-To complete 4 F4s in the fire phase, 2 UI3 ticks are required. A natural MP tick happens every 3 seconds. This is done with 1-2 fillers, represented by the white spaces, that are typically not B4 during UI to gain the needed MP ticks. Due to the need for fillers, Thunder is more strictly used in UI. This is higher in PPS than standard. 
+To complete 4 F4s in the fire phase, two UI3 ticks are required. A natural MP tick happens every three seconds. This is done with 1-2 fillers, represented by the white spaces, that are typically not B4 during UI to gain the needed MP ticks. Due to the need for fillers, Thunder is more strictly used in UI. This is higher in PPS than standard. 
 
 ![](https://lh3.googleusercontent.com/10ftF0hUR3KfouefPQyDn-fwj5-3TR-pc6497y0_X_3yj3M3XJEseYE7Q-1jjZ5uij5qG1qVdAB4UO6ipIdJGSNt-3rl_kvpK6aZCoJCxXKNBNT6sQqqZJWMVB-aK4BWdgp88AQP=s0)
 
@@ -83,13 +85,13 @@ Alternatively, drop a F4 and cast 3xF4 instead. This is slightly worse than the 
 
 ![](https://lh5.googleusercontent.com/O7kw49z840lr26Dq1nyDePwTbRel6s0NZcABOeoMMS-DYhQZeaj_sKLTNIam_3XooArQw3RNJ2JPInfsK643S0Xq-jHbn007Tr4UZZ8ViLuM0_8ZGvVnuI91r-zx38XW-QEVd6aM=s0)
 
-The above 2 lines should only be used as a means to recover from a bad 4xF4 line. Both lines are slightly worse than standard and using them is a decent loss compared to 4xF4. If you have no instants during a bad 4xF4 line, clip the Triple/Swift and learn how you can avoid this next time.
+The above two lines should only be used as a means to recover from a bad 4xF4 line. Both lines are slightly worse than standard and using them is a decent loss compared to 4xF4. If you have no instants during a bad 4xF4 line, clip the Triple/Swift and learn how you can avoid this next time.
 
 ### Base 3xF4 Transpose line
 
 ![](https://lh5.googleusercontent.com/FeHVzTc_OE-CfhxAEXb7CyEA2k6y1DVnkG2EsjTR-W3UrqytgUiYs4jIFv3n7MZs5QGVd8GWh6NmoExvXij6oaD5sZ3Z8c5BDlGUENOULRgmGsuhMZldMGCU7Qu_5zGmqgSLxCX5=s0)
 
-To complete 3xF4 + Despair + slow F3, we need 6600 MP. Each UI1 MP tick provides 3200 MP and each Lucid Dreaming tick provides 500 MP. Thus, our goal in the Transposed ice phase is to obtain 2 natural ticks and 1 Lucid tick, which can be done as shown above. The slow casting F3 provides ample time for MP to regen. **The white spaces represent instant gcds.** This is the most commonly used and most important Transpose line. 
+To complete 3xF4 + Despair + slow F3, we need 6600 MP. Each UI1 MP tick provides 3200 MP and each Lucid Dreaming tick provides 500 MP. Thus, our goal in the Transposed ice phase is to obtain two natural ticks and one Lucid tick, which can be done as shown above. The slow casting F3 provides ample time for MP to regen. **The white spaces represent instant GCDs.** This is the most commonly used and most important Transpose line. 
 
 ![](https://lh5.googleusercontent.com/_ms3f5WU7PjNqIPawRHLxbDy6icRXWsTbLMLtG9PEe7GhuGOU_6alsF4SrxIXtjTySjK9dzkmHj_akdBxyC4VeOxQ67tpKdWoWfVoTnNPZeJIDYd56DUs3q5emYNksjWi516LUKF=s0)
 
@@ -113,7 +115,7 @@ PPS wise, 3xF4 Transpose > 4xF4 > standard 
 
 With tick tracking and very optimal play, we aim to further reduce the number of standard lines and instead cast as many 4xF4 and Transpose lines without B4 as possible. 
 
-# <div align="center">Intermediate</div>
+# Intermediate
 
 ## 4xF4 variations 
 
@@ -123,7 +125,7 @@ With tick tracking and very optimal play, we aim to further reduce the number of
 
 ![](https://lh6.googleusercontent.com/LJZVanX_bFYEEZBQ0qlZJMw9pD7v7YUL8o20WuphzW80GGQ9JjnPz6iTjSm6OdWL9vesF1i2NoKLIPqS8oTbiBrsRySwscxjbqznoZSVPhiEkb6EF34XoniBSm3qBEz4RQAUFIzI=s0)
 
-A shortened fire phase with only 1 UI3 tick. This line is slightly lower in PPS compared to the standard line, about 0.5% lower. 
+A shortened fire phase with only one UI3 tick. This line is slightly lower in PPS compared to the standard line, about 0.5% lower. 
 
 The shortness of this line makes its ice phases align much better with Thunder refreshes, and makes it a potential alternative to standard when UI fillers are absent. Due to its alignment with Thunder’s length, it’s easier for 3xF4 to enable non standard lines than it is with standard. **Consider using this line if it enables a 4xF4 line that would otherwise have been suboptimal with standard.** 
 
@@ -133,13 +135,13 @@ The total length of 3xF4 followed by a 4xF4 is greater than 30 seconds. If we ig
 
 ### Instant B3 with Transpose
 
-Should a situation call for B3 to be instant casted, Transpose can be used to increase its potency. 1 MP tick is required before B3 is cast. Instant casting B3 this way is equal to instant casting a F4 in terms of overall gain to the line’s PPS.
+Should a situation call for B3 to be instant casted, Transpose can be used to increase its potency. One MP tick is required before B3 is cast. Instant casting B3 this way is equal to instant casting a F4 in terms of overall gain to the line’s PPS.
 
 ![](https://lh3.googleusercontent.com/ucG8LaVkx9DeQz-LierMExJeUHRS0_bUbXPVx5MvrWU9S1SDZEPpjrbBKM74IMqbEXjWyECpWNsWaJQ1DxYZKkdBqTIqplZEssvqmcnwuhAobpLegyBc10T4z-Xp_yNqOCwXqNC8=s0)
 
 Beware of the MP generation when going for this.
 
-Instant B3 with Transpose can be used to guarantee 2 ticks during UI to enable 4xF4. B3 and Xeno are interchangeable here depending on the first tick. Lucid is assumed unavailable here as it would likely be better to enter a Transpose line instead. 
+Instant B3 with Transpose can be used to guarantee two ticks during UI to enable 4xF4. B3 and Xeno are interchangeable here depending on the first tick. Lucid is assumed unavailable here as it would likely be better to enter a Transpose line instead. 
 
 ![](https://lh5.googleusercontent.com/_YmbU_LlLy0ZsV_bLwAoxohm8gWB1NZQAmnXG1YoVOeVfMKRbV81sK3guXiBIozNr28DsxwXb9n3egDVbyoV00L0lX-9By8VW0Q-6drPpL4Xkz2p7PUB3yssmqigHXZjvHEqjUKX=s0)
 
@@ -165,7 +167,7 @@ Lucid’s duration lasts through a 3xF4 fire phase and can provide an additional
 
 ![](https://lh4.googleusercontent.com/gbNRdWiCnHFf2I90ZO0F-_QK2lK3nRQdH3K3GLacN7FlcRym66Tn5ueGq0DZa1qGxFG7Wi9alWW4uwRSCJ1b9FwFem3pQFF3dxYWHmNN2UP589qLy9Q4VnUTSD7jSqpid07O7Zwl=s0)
 
-Same concept as 4xF4 Transpose, but with higher spell speed (sps) that grants us an additional F4 in the fire phase. This can be done via Ley Lines or with Triple + Swift at high spell speeds. 3 MP ticks are required and note the Lucid here is needed.
+Same concept as 4xF4 Transpose, but with higher spell speed (SpS) that grants us an additional F4 in the fire phase. This can be done via Ley Lines or with Triple + Swift at high spell speeds. three MP ticks are required and note the Lucid here is needed.
 
 ### Instant F3
 
@@ -173,7 +175,7 @@ The long cast time of the slow F3 can be a detriment to resolving mechanics. By 
 
 ![](https://lh4.googleusercontent.com/SfuRK0cw2PILDOSXlYP4C0H66qnHSmhA_9xY_iaUG-8z5Ig6YxRNWxT7tHryPiN2yyQ19tX2BtslGjHQ3GTzlIX_IooCeleaepp-mkMaueyFCnM5c8ZLXj7C_c88dg50H1Vks3SH=s0)
 
-2 MP ticks and 1 Lucid tick are still required. Note, since the instant F3 starts the AF timer earlier, at lower sps there is no longer the option of the 1 filler GCD during the fire phase with 3xF4. 
+Two MP ticks and one Lucid tick are still required. Note, since the instant F3 starts the AF timer earlier, at lower SpS there is no longer the option of the one filler GCD during the fire phase with 3xF4. 
 
 ![](https://lh3.googleusercontent.com/pGlOSZ9Qipyzt4UTAM8T0TMq8lVl3LSfamiBlOxJ1cBVn2rOrP6VYxzDeXqFPWNpqKtkZG9hYFp3kjVZCNfv4iaeujLm5asVrQoxG8ubAiCKmV4B_YxAioN1TWJhqXgPubQDiMvF=s0)
 
@@ -185,13 +187,13 @@ Another possible sequence. Note that using both Polyglot stacks requires a good 
 
 We can forcefully enter a Transpose line by clipping Triple. This line is about the same as a normal 3xF4 Transpose with slow F3 and without instant casts, with Triplecast and the clip’s effects considered. 0.7 seconds is assumed for the clip. Moreover, Transpose lines can lack weave slots for Triple and Swift, and this line acts as a way to mitigate this. 
 
-Under certain sps, this line can be used to enable a 5xF4 that would have otherwise been impossible.
+Under certain SpS, this line can be used to enable a 5xF4 that would have otherwise been impossible.
 
 ![](https://lh6.googleusercontent.com/IcRfmseO_rFrK1bMwhd8tsrWg4jqqqujLuVrvUvwVEvFgH3cNRh0T71g3pkNWur_6cYsuxu3fvyGAngJwFVoabPHuUrSGdXNV2LLPIy7X3XqeohzblOUFLgOBWd3VazZFXUg3QGW=s0)
 
 ### 2xF4 Transpose
 
-Most of the above lines can be done without Lucid into a 2xF4 Transpose line. These lines are generally neutral in PPS to the standard rotation. While not necessarily a potency gain, the short length of these lines make them worthy of consideration when the boss will soon phase or die and a longer fire phase is unviable. 2 MP ticks are required.
+Most of the above lines can be done without Lucid into a 2xF4 Transpose line. These lines are generally neutral in PPS to the standard rotation. While not necessarily a potency gain, the short length of these lines make them worthy of consideration when the boss will soon phase or die and a longer fire phase is unviable. Two MP ticks are required.
 
 ![](https://lh4.googleusercontent.com/Lz-Boky6NzIK0zWRUvobLPpa0DGUi4suVWDgp_bjpQFd6myclzRAjMepo1ElbVruJt5mbDZeFSIazut7dhdX6zYZw46fyorLEuCt9SJP7iSyoLwVbvNgVQzFDwJ8SVcrL9cmQe57=s0)
 
@@ -215,7 +217,7 @@ Same principle, but the tick requirement is stricter than the prior line and req
 
 ![](https://lh3.googleusercontent.com/O15snPvYQvEE3BuLMoOpg2VQsZfK8VGNLtWxwvBwYI56iVpEvRuxrT6eXNV6fDGdwTeqCz6GqqBhXnKIzxhA7HHpHvUP0AW-fUJgtI6wOeoVNlgInRMEr7Y-bK4M3tjnIDFVizGH=s0)
 
-No filler 3xF4. Requires just 1 tick between B3 and F3. 
+No filler 3xF4. Requires just one tick between B3 and F3. 
 
 ## Notes on Thunder
 
@@ -229,31 +231,31 @@ Typically, hard Thunder refreshes are done in B3 lines such as below. 
 
 ![](https://lh6.googleusercontent.com/h9re6QB7Z2iF5TgGVH1tN9oG5-t2O3QAVVYfmURI76QiAA7HkUosqUMdexnMxPHXWHPbwDxsvVvw7LCYxtpLpiP_1pZ9qay_l9dRZc7f34SWsJkyYQ7AarYRlXpAkVhdHATBOL7p=s0)
 
-In terms of overwriting the dot, it is better to drop the dot for a prolonged period of time than it is to overwrite it with a hard refresh. For reference, overwriting 1 tick (3 seconds) of the dot with a hardcast refresh is equal to dropping the dot for \~20 seconds. T3 procs can be used more liberally to enable certain lines as long as only a few ticks of the dot is being overwritten. Sharpcast increases the amount of time you can overwrite T3 by about \~3 seconds with a hardcast.
+In terms of overwriting the dot, it is better to drop the dot for a prolonged period of time than it is to overwrite it with a hard refresh. For reference, overwriting one tick (three seconds) of the dot with a hardcast refresh is equal to dropping the dot for \~20 seconds. T3 procs can be used more liberally to enable certain lines as long as only a few ticks of the dot is being overwritten. Sharpcast increases the amount of time you can overwrite T3 by about \~3 seconds with a hardcast.
 
 Sharpcast should be used on T3 whenever possible, as we never cast F1 ideally. If you end up doing a line with F1, it is preferable to use it in the “Sharp any” regime for the duration of the line, rather than force it onto F1 or T3. 
 
-Thunder should be used as UI filler whenever possible. At ~2k sps, a Sharped T3P without additional procs will have its proc running out right after Despair in 4xF4. I advise you to check these lines for yourself as these sps thresholds are only an estimation and are subject to latency variations between players.
+Thunder should be used as UI filler whenever possible. At ~2k sps, a Sharped T3P without additional procs will have its proc running out right after Despair in 4xF4. I advise you to check these lines for yourself as these SpS thresholds are only an estimation and are subject to latency variations between players.
 
 ![](https://lh6.googleusercontent.com/mkDr50kTmXEyA306ndAn41QYqaO8lPh6980eYNsIEDR85trUgNIJvWPbUnMEKyno8CLth3R4EbuX9r2jMQL9y-L1iK1thClWtqoTU6ja1mO1ccotZV0Qi7NKNQvzSE1yF9fLT7Fq=s0)
 
-Similarly, a Sharped T3P without additional procs in a 3xF4 Transpose line will also have its proc running out after Despair. (~1900 sps)
+Similarly, a Sharped T3P without additional procs in a 3xF4 Transpose line will also have its proc running out after Despair. (~1900 Sps)
 
 ![](https://lh4.googleusercontent.com/ITVZSLLltQzh1xDp4SzKZeZf9tms7hAtmnu4bvm1jY1BNgIOzOZ8VlgkZknRpIhS6XWNwa_MKkou7Nv1fsYCLucyVnPc7HhQ-NuW1S-bhifJcW30uQ8obrE3PwDCoqkmMMylwPWZ=s0)
 
-A Sharped T3 hardcast without additional procs will have its proc fall off after Despair in a 4xF4 Transpose line. (~1900 sps)
+A Sharped T3 hardcast without additional procs will have its proc fall off after Despair in a 4xF4 Transpose line. (~1900 SpS)
 
 ![](https://lh3.googleusercontent.com/M-U5c7lPFhPAwBgtpFASXUhag6aUEbSU6GivKuKujjODMaxbZPlUSzh9w3P6atiYgs9wM0rhTtNMwssH3MkeXmXcJ5wTTRz8_m_6PUeFOth-myhc0_yGa0L5YVTQUzibrBE3TThV=s0)
 
 Even though the last T3P happens before UI, it can still serve its purpose as an instant cast filler. Use the T3P to enter a Transpose line or use Swift to instant cast a Transposed B3 for an additional tick. 
 
-At higher sps, this T3P can be used as an UI filler after B3. For example: 
+At higher SpS, this T3P can be used as an UI filler after B3. For example: 
 
 ![](https://lh3.googleusercontent.com/6Kr-g8kPQWaFsbUwUfdBc5tHFZ_A1p8JDwIl7K1ki5cNMqCtm0huyE7zTsZBbAmJw7JCl2HQv9WC53Ixz_o1SP3F5LsJ89DGwrXQcFW_wViyHXZjt40cQOFu7vng4UK-I-auW6Vf=s0)
 
-Using T3P as UI filler this way has different sps thresholds for different lines. In this example, ~2900 sps is required. 
+Using T3P as UI filler this way has different sps thresholds for different lines. In this example, ~2900 SpS is required. 
 
-At ~2.4k sps, a Sharped T3 hardcast without additional procs in a 4xF4 line will have its proc running out after B3, also making it a suitable UI filler. 
+At ~2.4k SpS, a Sharped T3 hardcast without additional procs in a 4xF4 line will have its proc running out after B3, also making it a suitable UI filler. 
 
 ![](https://lh6.googleusercontent.com/6tMBhPAFCTJWDM2kbfNlVXx9rmDAfpAIomPe7YDAZTP0dMJuNJIk2BB-V4A-u4VjXk5YOSGIbYoSuJOs-ylySphzWxKxT6Qn0tzDoPkJXH6X6WkJ8bltYedZkLk8-H-qhpczE4f5=s0)
 
@@ -261,13 +263,13 @@ At ~2.4k sps, a Sharped T3 hardcast without additional procs in a 4xF4 line will
 
 - - -
 
-Unless specified, the lines in this document are tested at 2k sps. To perform the 4xF4 Despair line, a hard minimum of \~1450sps is virtually required and \~1800-1900 sps is required for 5xF4 with LL. Some lines might not be applicable at (much) higher spell speeds and additional fillers might be needed at extremely high spell speeds. The higher your spell speed, the less luck you will have with mana ticks, and the noticeably less available and less effective some lines, especially Transpose lines, will become. 
+Unless specified, the lines in this document are tested at 2000 SpS. To perform the 4xF4 Despair line, a hard minimum of \~1450 SpS is virtually required and \~1800-1900 SpS is required for 5xF4 with LL. Some lines might not be applicable at (much) higher spell speeds and additional fillers might be needed at extremely high spell speeds. The higher your spell speed, the less luck you will have with mana ticks, and the noticeably less available and less effective some lines, especially Transpose lines, will become. 
 
 This principle also applies to Ley Lines. While LL can enable additional F4s in the fire phase, it also changes how MP ticks interact with fillers in UI. Thus, beware of MP ticks during UI when LL is active. 
 
 ![](https://lh4.googleusercontent.com/-lykootp8kXUdSlN_NGsXBy-PP5hE-fFdJIbl2V5nY9nsBgmF00-Pm3IR5chkmoIWrRrmyJz1MJX1wsiiPF8BS8PofmxLNKOWajOQHNtq5oV7mfhXj1Fcd-C8zEQ8yx5Mp2PoX2f=s0)
 
-At high sps under LL, you may only obtain 1 tick even with 2 instant cast fillers. Be mindful of this and either substitute a filler with B4, or cast an additional filler. 
+At high SpS under LL, you may only obtain one tick even with two instant cast fillers. Be mindful of this and either substitute a filler with B4, or cast an additional filler. 
 
 If you find yourself with a bad tick in a Transpose line during LL and won’t get a second MP tick, cast B4 to enter 4xF4 or 5xF4 with F1. These lines are neutral in PPS to the standard rotation and should only serve as an insurance against bad ticks under LL. If LL’s duration is long enough, it is preferable to cast 5xF4 without F1 instead in the fire phase. Casting B4 this way into 3xF4 is a loss. 
 
@@ -305,9 +307,9 @@ For fights with transitions and downtimes, aligning with boss jumps should also 
 
 ![](https://lh4.googleusercontent.com/-GttJ8NmeuxFQNNt4MGoyJfcLj1hB1uzs0DYzTgsTz0JyyV-bUBwpxSaBN81R6LlgmJ1yCsETgnxtz4atxVFicjFgqU78aTreZW4MHYpV8efTZHNWdJOL2nm1BvC_88TXwGBNlBT=s0)
 
-# <div align="center">Advanced</div>
+# Advanced
 
-### <div align="center">This section requires the [MP tick trigger](https://docs.google.com/document/d/1vsI2r4064VHJ8WuhItXB7ilbdjEJ26GphZSsjWiyDDU/)</div>
+### This section requires the [MP tick trigger](https://docs.google.com/document/d/1vsI2r4064VHJ8WuhItXB7ilbdjEJ26GphZSsjWiyDDU/)
 
 ## Opener Sequence 
 
@@ -331,11 +333,11 @@ Same principle. Even though Manafont is used to cast just a Despair, the total n
 
 ![](https://lh6.googleusercontent.com/-dU81M_VlUFys2S4z4TB8DpqSsGhurm5zNnJ82Cba37BS5USQPDA6vTxADzDDogq2EH289Y3XWKGNE-gO1C6axygsMJPDvOGfQKF_C2nd_ITdnlamV0kQ79AlGEm1-ButbCxBAyr=s0)
 
-Requires ~2.3k sps or higher. 
+Requires ~2.3k SpS or higher. 
 
 #### Dual Transpose opener
 
-![](https://lh5.googleusercontent.com/GgcIcYmaONS_eW1L6UGapaRofPM0fjZy_77EqxxYRy-oQyNiUio_DnovlQl3pblkMVF7qeIHmv3vfRQlJBs1psA79nzxYyse5euDA7qK2DkjZ7t95rHx9Sig2F2RUOsOPzxNPgMN=s0)Less effective at higher sps and ping due to double weaving under LL. 
+![](https://lh5.googleusercontent.com/GgcIcYmaONS_eW1L6UGapaRofPM0fjZy_77EqxxYRy-oQyNiUio_DnovlQl3pblkMVF7qeIHmv3vfRQlJBs1psA79nzxYyse5euDA7qK2DkjZ7t95rHx9Sig2F2RUOsOPzxNPgMN=s0)Less effective at higher SpS and ping due to double weaving under LL. 
 
 \---
 
@@ -343,11 +345,11 @@ Of course, we can do far better than just a single line after the opener. With p
 
 #### Example mod JP opener dummy sequence
 
-Sequence: <https://xivanalysis.com/fflogs/2rDpT3GHnBL14Pbm/2/1> 2066 sps, ~2:20 minutes. Note the last few fire lines rely on a late or no T3 proc from the 4th T3. 
+Sequence: <https://xivanalysis.com/fflogs/2rDpT3GHnBL14Pbm/2/1> 2066 SpS, ~2:20 minutes. Note the last few fire lines rely on a late or no T3 proc from the 4th T3. 
 
 #### Example E11S phase 1 sequence
 
-Sequence: <https://xivanalysis.com/fflogs/BRDckdwWyzr3qYM2/18/1>  30 F4s + 9 Despairs, 2030 sps. 
+Sequence: <https://xivanalysis.com/fflogs/BRDckdwWyzr3qYM2/18/1>  30 F4s + 9 Despairs, 2030 SpS. 
 
 The first Transpose and F3 can be timed to instant cast the F3 (or maybe a slow F3 into 4xF4), which is a slight gain over slow casting it. However, doing so would make aligning later ticks harder, which is why I opted for this. In the end, with a specific phase timing like E11S P1, the exact lines don’t matter as much as the overall number of casts within the same spell speed. Do note that this sequence also likely requires a static setting to accomplish. 
 
@@ -359,11 +361,11 @@ It’s possible for opener sequences to be even longer than the couple I have sh
 
 When planning an opener sequence, sometimes the amount of time between T3 refreshes is longer than the T3P timer. If a tick happens early enough and no additional ticks happen, you may have to choose between dropping the proc or deviating into a sequence branch. Which one is preferable depends on the fight and on your goals. Similarly, randomness in mechanics may also force a deviance. To factor these random elements, you may want to plan different branches in the sequence in case they happen.
 
-#### Example E11S phase 1 sequence branch (principle holds but sequence needs work)
+#### Example E11S Phase 1 sequence branch (principle holds, but sequence needs work)
 
 Sequence: <https://xivanalysis.com/fflogs/2y8nrJPXK7p6AW9w/15/2> 
 
-If a T3 procs within the first 2 ticks after the second T3P and no additional procs occur, it will run out before the expected ice phase. Anticipating this, we can branch into the above sequence instead. Note that this is merely an example, and not necessarily actually a gain in practice. When spreadsheeting the opening sequence, there may be multiple branches needed due to the varying occurrence of T3 procs.
+If a T3 procs within the first two ticks after the second T3P and no additional procs occur, it will run out before the expected ice phase. Anticipating this, we can branch into the above sequence instead. Note that this is merely an example, and not necessarily actually a gain in practice. When spreadsheeting the opening sequence, there may be multiple branches needed due to the varying occurrence of T3 procs.
 
 I made the sequence a while ago and ironically now I don’t remember what it was about this sequence that needed adjustment. Take it as a reference only, and the principle still holds true. 
 
@@ -375,7 +377,7 @@ Earlier, we mentioned UI fillers can be skipped if an early tick happens. Extend
 
 Cast confirmation, a key mechanic of the game, does not happen at the end of the cast, but rather ~0.5 seconds before the cast is done. This is the same as the slidecast window. This means B3 and F3 will transition to the opposite element not at the end of their casts, but 0.5 seconds before. 
 
-Tracking MP ticks is highly sps and ping dependent. You should do calculations for your own set and test their consistency. [You can find a few examples of these calculations here.](https://docs.google.com/document/d/1ZIDcUAtCpTBIleuKGK1BebgLdcoEfBZQlvaeqaAQ_9k/edit?usp=sharing) I aimed to show the thought process with these examples and what I have done is not the only methodology. The key takeaway of this section is that it is possible to know precisely whether or not a filler skip is possible, as well as knowing the probability of filler skip in each line. 
+Tracking MP ticks is highly SpS and ping dependent. You should do calculations for your own set and test their consistency. [You can find a few examples of these calculations here.](https://docs.google.com/document/d/1ZIDcUAtCpTBIleuKGK1BebgLdcoEfBZQlvaeqaAQ_9k/edit?usp=sharing) I aimed to show the thought process with these examples and what I have done is not the only methodology. The key takeaway of this section is that it is possible to know precisely whether or not a filler skip is possible, as well as knowing the probability of filler skip in each line. 
 
 ## Utilizing Micro and Frozen Downtimes
 
@@ -399,7 +401,7 @@ In scenarios where 2-3 Umbral Souls can be cast, the reopener should generally b
 
 ![](https://lh5.googleusercontent.com/fhGT06BYO6iXnq8svI6sXoahA3ByDiQanEQqVbf7D2pRQnTHO90M5MMksxFvuWVIhUEWUzY0S44vBkGzdu33gttxDuqoVfc77vBbGKtNGzNK9DLqVC6Hloq8RiGFeLisGkST7nFx=s0)
 
-Requires 2 UI1 ticks and 2 Lucid ticks, or 3 UI1 ticks. The latter, 3 UI1 ticks, grants an additional F4 and thus an even stronger form of this line. An interesting line that is not so practical in the regular rotation. Around ~0.5% stronger than 4xF4 Transpose, the line this line would likely substitute. 
+Requires two UI1 ticks and two Lucid ticks, or three UI1 ticks. The latter, three UI1 ticks, grants an additional F4 and thus an even stronger form of this line. An interesting line that is not so practical in the regular rotation. Around ~0.5% stronger than 4xF4 Transpose, the line this line would likely substitute. 
 
 ![](https://lh4.googleusercontent.com/3SA2Ksf2-namfQ0PcJn0n85NFN3C16yNExWILEZoHOBC9S-G78FeSV_UC1sboZM9hknBpBr3ix-oHHIdSuhNu7p51qrzG9T2ZIhvIo-vDSrl2752IhkQEokeEh7_zuolK3fD-OQX=s0)
 
@@ -411,11 +413,11 @@ If the first F1 yields a F3P, cast the F3P into 3xF4. This F3 proc is the reason
 
 ![](https://lh6.googleusercontent.com/eRef9RZZ_akfnYlhYmvPqwwWaWnuuXveIw3KAwCd_vCn7OdPdUz90zH13J92w5s2GJUbud5TovyrXaVMAqNfaFCuyxjgzqbrhz-PFK3b-igHDZm0h_UeCnnXH7SHHwCgzQz2db9S=s0)
 
-Instead of using instants as fillers, we align the filler UI phase with micro downtimes to generate its needed MP. The more MP is generated, the more effective this line becomes. For example, if 1 Umbral Soul can be used or if 3 UI1 ticks can be obtained, we instead have the following line: 
+Instead of using instants as fillers, we align the filler UI phase with micro downtimes to generate its needed MP. The more MP is generated, the more effective this line becomes. For example, if one Umbral Soul can be used or if three UI1 ticks can be obtained, we instead have the following line: 
 
 ![](https://lh6.googleusercontent.com/3DWsRDDjm3d-t7phzSAAcuGjcHXUXQgkwLw26zTQ4p9HTUcoce_c-N6kR7ROsLIosFvIwjGaqqAQWgYMqzCP8q0-P9tBXw12sjvqiHfasGG7HTvQWhh8eRBNaSSarO6aHObpbTBD=s0)
 
-1 UI1 and 1 UI2 ticks are assumed. If the first F1 procs, use the F3P and cast 3xF4. This line with 3 F4 casts is about 1.7% stronger than slow F3 into 4xF4. 
+One UI1 and one UI2 ticks are assumed. If the first F1 procs, use the F3P and cast 3xF4. This line with three F4 casts is about 1.7% stronger than slow F3 into 4xF4. 
 
 [There are more variations of this line](https://docs.google.com/document/d/17SlCNw0xbIzBJbzN6E65GoZrmxLHQ1rkZgkb6q_-Hjk/edit?usp=sharing) depending on the exact amount of mana generated and on the timing and type of the downtime. The principle is still the same. If clipping the Transpose is required then whether or not this is a gain over slow F3 would depend on the scenario. 
 
@@ -425,25 +427,30 @@ Instead of using instants as fillers, we align the filler UI phase with micro do
 
 ### Standard with instant F3 refresh
 
-Forgoes 1 F4 by spending an UH on the F3 refresh. Eliminates the weak F1 with a stronger F3 cast instead. Instant casting the F3 refresh this way is about 0.5% stronger than using the instant on Despair, or about 0.3% stronger with Triple’d instants. This gain becomes more substantial if the instant cast is used on F1.![](https://lh4.googleusercontent.com/Lh_QI7bTW-NdjsBXmqfYQBTNihyf-uIj6S5UO_wiVUBc4LZYwmGXuSAxkLA3nVLqOwEAq8PT2PGvW78WgsG9ZBFJBtTpxF_GYCIIGJWhlSFkbkYJDZ2J2ZmFDEuewCpAaSZs2oOC=s0)
+Forgoes one F4 by spending an UH on the F3 refresh. Eliminates the weak F1 with a stronger F3 cast instead. Instant casting the F3 refresh this way is about 0.5% stronger than using the instant on Despair, or about 0.3% stronger with Triple’d instants. This gain becomes more substantial if the instant cast is used on F1.![](https://lh4.googleusercontent.com/Lh_QI7bTW-NdjsBXmqfYQBTNihyf-uIj6S5UO_wiVUBc4LZYwmGXuSAxkLA3nVLqOwEAq8PT2PGvW78WgsG9ZBFJBtTpxF_GYCIIGJWhlSFkbkYJDZ2J2ZmFDEuewCpAaSZs2oOC=s0)
 
 ![](https://lh3.googleusercontent.com/A9m2Q2d52ZfLNzjBPat-1rTXkREKGlS2vja1iRXG1K4bvKnkmJRdY5N2SltXsMNI4cINlBXsdXb7-NOMdMnZKPC8euVI3hG2OoWHy5buvFso9o_3nd_29CNyiuShYEGTfBOh_u2K=s0)
 
 ### 5xF4 with B4 and Lucid
 
-Under LL, if no second filler is available during UI and only 1 MP tick can be obtained, Lucid can be used with B4 to enable 5xF4. This line is better than the alternative, 4xF4 with B4, but it is not a gain over standard.
+Under LL, if no second filler is available during UI and only one MP tick can be obtained, Lucid can be used with B4 to enable 5xF4. This line is better than the alternative, 4xF4 with B4, but it is not a gain over standard.
 
 ![](https://lh3.googleusercontent.com/xf3dzhLP8yNNXqkZ0WTEm7FLCb30UH0fZ-6LjFeoYowwWwZ5qlNvCRgXnWOusWqsUidNI_yvdOGCbsstr03u6kIS4RsDuD83wj9VurBUdF6CT3k7kvfd7_jRwyzUkH6t5lPh783N=s0)
 
-### 4xF4 with 1 filler and Lucid
+### 4xF4 with one filler and Lucid
 
-Lucid can be used to increase the chance of enabling 4xF4 with a single UI3 tick. 2 Lucid ticks are required along with 1 UI3 tick for 4xF4. Since we are aiming to obtain 2 Lucid ticks, it is recommended to weave Lucid earlier in the line to increase the chance of obtaining both ticks. The filler cannot be a MP costing spell, aka hardcasted T3. 
+Lucid can be used to increase the chance of enabling 4xF4 with a single UI3 tick. Two Lucid ticks are required along with one UI3 tick for 4xF4. Since we are aiming to obtain two Lucid ticks, it is recommended to weave Lucid earlier in the line to increase the chance of obtaining both ticks. The filler cannot be a MP costing spell, aka hardcasted T3. 
 
 ![](https://lh6.googleusercontent.com/0-wuyaQp-39MsQnkJKcfNNUsOAppLKU59EPU0UstYalFWrCIn-JWdzKCIHfrpBn0LGOMm_F5LwdRG6EG7Ha-BZIoDAAnuZUu6FuKn27pT1fhXKWOG3IAXjZOWATeFqV_Ozh52LpT=s0)
 
 ### Freeze over B3
 
-There are 2 benefits of transitioning with Freeze over B3. 1. Freeze’s lower cast time eliminates the amount of clip from a fast B3, which could be clutch for a weaved Sharp into T3P. 2. Freeze’s lower cast time allows a longer UI, which could allow for additional alignment with MP ticks. 4xF4 with Freeze is 1% worse than standard in PPS, and becomes equal to standard in PPS if a ~0.3 seconds clip happens with B3. Only do this if you really know what you are doing.
+There are two benefits of transitioning with Freeze over B3. 
+
+1. Freeze’s lower cast time eliminates the amount of clip from a fast B3, which could be clutch for a weaved Sharp into T3P. 
+2. Freeze’s lower cast time allows a longer UI, which could allow for additional alignment with MP ticks. 
+
+4xF4 with Freeze is 1% worse than standard in PPS, and becomes equal to standard in PPS if a ~0.3 seconds clip happens with B3. Only do this if you really know what you are doing.
 
 ![](https://lh6.googleusercontent.com/onnT1Mxptuxokw_ed6L1J9P6iLwW3zNvkTJU5dLkpbodu_xHqRFIf0JCnwplkXnk0q_mNZ-bjRYO2TSz0CtT5RsPuBkuVK85SiL0iE57nrWJxsv_454qM8RK6GdGh1Q73i3PvbCf=s0)
 
@@ -451,7 +458,7 @@ There are 2 benefits of transitioning with Freeze over B3. 1. Freeze’s lower c
 
 ![](https://lh4.googleusercontent.com/_WaKUZiDX-F8gF6oqQQsQJxujOeaeCKJoEjhrTJ76S_UdWO44HRpQY00yZC8yywtmojUOXNPajtGNzOGM_8smfeZbDhpi-Y8oH4tM_kWyKUMd02pRG5BQOKbaujqaBw59MKgmSKc=s0)
 
-A niche line that requires a tick within ~2 seconds after the first Transpose (sps dependent). The second Transpose should be used after the second MP tick. This line is best applied when T3P would fall off before UI with 1 Xeno available. This line is slightly lower in PPS To standard. 
+A niche line that requires a tick within ~2 seconds after the first Transpose (SpS dependent). The second Transpose should be used after the second MP tick. This line is best applied when T3P would fall off before UI with one Xeno available. This line is slightly lower in PPS To standard. 
 
 ### Double Transpose into F1 with B4
 
@@ -461,7 +468,7 @@ A niche line that requires a tick within ~2 seconds after the first Transpose (s
 
 This line is weaker than 4xF4 Transpose (but stronger than 4xF4) and thus completely useless (or almost, maybe a specific phase timing could benefit from this). I’ve decided to include this line in this document to show its absurdity. If the second F1 procs, use it as a filler to extend AF and allow an additional F4. 
 
-# <div align="center">Appendix</div>
+# Appendix
 
 ## Acknowledgements
 
