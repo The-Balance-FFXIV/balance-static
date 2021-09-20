@@ -1,5 +1,5 @@
 ---
-title: Skills Overview
+title: SAM Skills Overview
 ---
 # Actions
 
