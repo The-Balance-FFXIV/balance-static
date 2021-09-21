@@ -22,7 +22,6 @@ This guide will go over the rotational structure and basic guidelines for Machin
 
 {{< youtube PQDx8xj_-S8 >}}
 
-
 ### Hinoka (Orange parse):
 
 {{< youtube BaMXnRWjHIY >}}
@@ -39,7 +38,7 @@ Machinist suffers the most in this phase compared to the other physical ranged j
 
 ### Drill, Bioblaster and You
 
-Bioblaster should be used as long as both bosses are together and Reassemble is unavailable. The potency difference between drill and bioblaster is small (a mere 20 potency), but a reassembled drill is ~1300 potency and has priority over any other GCD at two targets. As a side note: Flamethrower is generally *not* worth using outside of tick fishing.\
+Bioblaster should be used as long as both bosses are together and Reassemble is unavailable. The potency difference between drill and bioblaster is small (a mere 20 potency), but a reassembled drill is ~1300 potency and has priority over any other GCD at two targets. As a side note: Flamethrower is generally *not* worth using outside of tick fishing[^1].\
 \
 *(Falling under the category of optimization; with earlier kill times (In the realm of ~2:00 - 2:10),  you can get away with using Flamethrower to replace anywhere from two to three GCDs in Living Liquid during the Drainage tank buster. It comes at the loss of 10 - 15 heat, but it would allow you to use Barrel Stabilizer on cooldown, not overcap, and enter phase 2 with max or near max heat gauge. The gain from this is roughly 200 potency. Ensure you don’t drift Drill or Air Anchor to do this.)*
 
@@ -75,15 +74,11 @@ For the sake of this fight in particular, you may not want to follow that specif
 
 ### Queen & Jagd Dolls
 
-It is heavily suggested not to use Automaton Queen while Jagd Dolls are out. Her targeting A.I. is wonky and unreliable. Having her target an ally’s Jagd Doll will probably result in a wipe and also gives you much less control over the damage output on your own with her damage variance. It’s also highly suggested to not use Drill or Air Anchor if a Doll has below 40% HP. At that point, a poorly timed direct critical hit will kill your add. It’s much safer to use the GCD on Living Liquid and come back to your Doll with a heated shot if that’s what happens.
+It is heavily suggested not to use Automaton Queen while Jagd Dolls are out. Her targeting A.I. is wonky and unreliable. Having her target an ally’s Jagd Doll will probably result in a wipe and also gives you much less control over the damage output on your own with her damage variance. It’s also highly suggested to not use Drill or Air Anchor if a Doll has below 40% HP. At that point, a poorly-timed direct critical hit will kill your add. It’s much safer to use the GCD on Living Liquid and come back to your Doll with a heated shot if that’s what happens.  
 
-The rest of the fight’s rotation is going to be somewhat normal aside from usage of Bioblaster instead of Drill. During prog you will want to check the health of both bosses to ensure they’re staying close enough to satisfy the requirements of Hand of Pain.
+The rest of the fight’s rotation is going to be somewhat normal aside from usage of Bioblaster instead of Drill. During prog, you will want to check the health of both bosses to ensure they’re staying close enough to satisfy the requirements of Hand of Pain.  
 
-With Living Liquid being such a short phase, it’s going to require some odd Queen summons. This may change slightly due to kill times, but if extending the phase to enrage, the first summon should be at 80 gauge while the second summon will be at 50. This allows us to build our battery back up before the phase ends to prepare for a big buff window in Phase 2. If you’re killing around the 2-minute mark, you may only want to summon Queen once around 60 seconds. Otherwise you’ll risk going into BJ/CC with less than 50 battery.
-
-Kill times will vary, but the goal for Living Liquid is to end with 70 - 85 Heat (along with an unused Barrel Stabilizer) and 60 - 80 Battery. This enables your reopener on Phase 2 to be as high as possible without overcapping.\
-\
-*Keep in mind that once your group is comfortable with the DPS check at the end of Phase 1, you can then extend to the enrage cast by killing Liquid Hand first. This is a great strat for party comps with 3-minute burst windows,  as it’ll allow them to do a full opener along with the 2-minute burst window upon the start of Phase 2.*
+With Living Liquid being such a short phase, it’s going to require some odd Queen summons. This may change slightly due to kill times, but if extending the phase to enrage, the first summon should be at 80 gauge while the second summon will be at 50. This allows us to build our battery back up before the phase ends to prepare for a big buff window in Phase 2. If you’re killing around the 2-minute mark, you may only want to summon Queen once around 60 seconds, which will coincide with about 90 battery. This won’t allow you to use Queen again in Living Liquid, but it will give you a rewarding reopener in Phase 2. Regardless of kill time, the goal for Living Liquid is to end as close to max heat/battery gauge as possible while also putting Barrel Stabilizer on cooldown.
 
 #### Suggested uses for Tactician:
 
@@ -96,12 +91,13 @@ Physical ranged really shine in this phase. They’re capable of handling all of
 
 ### Re-Opening With Delayed Reassemble
 
-Backtracking to what we discussed with [Living Liquid](#living-liquid), you should be entering Phase 2 with a substantial amount of Heat and Battery. Given the amount of downtime between Phase 1 and 2 with Limit Cut, your Wildfire structure will reset. If you opened with a 4th GCD Wildfire, you can opt for a different opener here without any drawbacks given you still fit it into raid buffs. Due to the fact Reassemble is on a 55 second timer, we have some wiggle room on where we place it in our reopener. Using the example below, Reassemble will come back up for our Drill 60 seconds into Phase 2 when the Hidden Mines are being dropped and Enumeration stacks occur. 
+Backtracking to what we discussed with Living Liquid, you should be entering Phase 2 with a substantial amount of Heat and Battery. Given the amount of downtime between Phase 1 and 2 with Limit Cut, your Wildfire structure will reset. If you opened with a 4th GCD Wildfire, you can opt for a different opener here without any drawbacks given you still fit it into raid buffs. Due to the fact Reassemble is on a 55 second timer, we have some wiggle room on where we place it in our reopener. It can be placed as late as the first weave after the 2nd GCD and still manage to be ready for the Drill 60s later. The example below can be altered for your specific needs.
 
-![](https://cdn.discordapp.com/attachments/458951851610734595/888378770724093972/unknown.png)
-Drill > Gauss Round > Ricochet > Split Shot > Reassemble > Queen > Air Anchor > Gauss Round > Ricochet > Slug Shot > Gauss Round > Ricochet > Clean Shot  > Hypercharge > Heat Blast > Wildfire> Heat Blast > Barrel Stabilizer > etc.
-
-Bioblaster rules apply the same as they did in Phase 1. Some strats have the bosses tanked within close proximity of each other, so take advantage of this as much as possible. 
+\
+![](https://lh4.googleusercontent.com/WDh4Gvc7hrOAyERM6m8dmjwmwykA9wopk5JoFbnd5WI6b58ewRplDbYNc4iuTgAdK90SYkb1mkxa6dkt3PAnT8tfLRgxpEVNwurnE86wgwzdOqz-v8cFQuPtDb0gI0lxlSDrbBFf=s0) 
+Prepull Queen > Drill > Gauss Round > Ricochet > Split Shot > Reassemble > Gauss Round > Air Anchor > Wildfire > Hypercharge > Heat Blast > Ricochet > Heat Blast  > Gauss Round > Heat Blast > Ricochet> Heat Blast > Gauss Round > Heat Blast > Ricochet > Slug Shot\
+\
+Since this is starting from a downtime scenario and moving into two-target, tick-fishing with Flamethrower is more viable than it would be in a single-target situation. Flamethrower should be inserted between the prepull Queen and Drill. Bioblaster rules apply the same as they did in Phase 1. Some strats have the bosses tanked within close proximity of each other, so take advantage of this as much as possible. 
 
 ### Plasma Shield
 
@@ -131,7 +127,7 @@ This is where pots start to matter. You can either pot in the first mini damage 
 
 ### Taking Advantage of The Heart
 
-The main exploit for Machinist in this phase is during the crystal drops/heart phase. Even though the heart doesn’t take damage once it turns gold, you will still gain Gauge from attacking it. Make sure you get off Air Anchor and as many GCDs as you can during the heart phase since it's free damage! Air Anchor will come back up for the next damage phase no matter where you use it.\
+The main exploit for Machinist in this phase is during the crystal drops/heart phase. Even though the heart doesn’t take damage once it turns gold, you will still gain Gauge from attacking it. Make sure you get off Air Anchor and as many GCDs as you can during the heart phase since it's free damage! Air Anchor will come back up for the next damage phase no matter where you use it.[^2]\
 \
 *It’s highly dangerous due to the proximity explosions, but it is possible for 100% uptime during heart phase. The theoretical max gain from hitting the heart is 50 Battery and 45 Heat using Air Anchor and three full combos. This strategy is not suggested while learning the phase. Here’s two clips showing how it’s done: 50 Battery Inception* 
 
@@ -275,3 +271,9 @@ Uses of Tactician should always be discussed with your group. The list below is 
   * Any of the primals during Roulette
 
 Hope this helps. If there’s any questions or concerns, feel free to reach me in the MCH channels in The Balance!
+
+- - -
+
+[^1]: Falling under the category of optimization, with earlier kill times (In the realm of ~2:00 - 2:10), you can get away with using Flamethrower to replace anywhere from two to three GCDs in Living Liquid during the Drainage tank buster. It comes at the loss of 10 - 15 heat, but it would allow you to use Barrel Stabilizer on cooldown, not overcap, and enter Phase 2 with max or near-max heat gauge. The gain from this is roughly 200 potency. Ensure you don’t drift Drill or Air Anchor to do this.
+
+[^2]: It’s highly dangerous due to the proximity explosions, but it is possible for 100% uptime during heart phase. The theoretical max gain from hitting the heart is 50 Battery and 45 Heat using Air Anchor and 3 full combos. This strategy is not suggested while learning the phase. Here’s two clips showing how it’s done: [50 Battery Inception (Tetrashatter Drop)](https://www.youtube.com/watch?v=H6iuCAzY9fA&feature=youtu.be) and [50 Battery Inception (Orb Tether)](https://youtu.be/TFRBkaQQ9gY).
