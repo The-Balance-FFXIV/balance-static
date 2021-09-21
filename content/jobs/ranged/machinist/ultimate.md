@@ -30,7 +30,7 @@ This guide will go over the rotational structure and basic guidelines for Machin
 
 [Etro](https://etro.gg/gearset/ac9c7452-f161-4b4f-b915-99b7d295888d)
 
-Edit: The 2.44 set was removed due to the 535 relic making the 2.5 set superior by a wide margin.
+The 2.44 set was removed due to the 535 relic, making the 2.5 set superior by a wide margin.
 
 ## Phase 1: Living Liquid
 
