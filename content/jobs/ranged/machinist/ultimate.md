@@ -272,8 +272,6 @@ Uses of Tactician should always be discussed with your group. The list below is 
 
 Hope this helps. If there’s any questions or concerns, feel free to reach me in the MCH channels in The Balance!
 
-- - -
-
 [^1]: Falling under the category of optimization, with earlier kill times (In the realm of ~2:00 - 2:10), you can get away with using Flamethrower to replace anywhere from two to three GCDs in Living Liquid during the Drainage tank buster. It comes at the loss of 10 - 15 heat, but it would allow you to use Barrel Stabilizer on cooldown, not overcap, and enter Phase 2 with max or near-max heat gauge. The gain from this is roughly 200 potency. Ensure you don’t drift Drill or Air Anchor to do this.
 
 [^2]: It’s highly dangerous due to the proximity explosions, but it is possible for 100% uptime during heart phase. The theoretical max gain from hitting the heart is 50 Battery and 45 Heat using Air Anchor and 3 full combos. This strategy is not suggested while learning the phase. Here’s two clips showing how it’s done: [50 Battery Inception (Tetrashatter Drop)](https://www.youtube.com/watch?v=H6iuCAzY9fA&feature=youtu.be) and [50 Battery Inception (Orb Tether)](https://youtu.be/TFRBkaQQ9gY).
