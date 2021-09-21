@@ -1,7 +1,7 @@
 ---
 title: Ultimates
 ---
-# How do I play Sam in UCoB?
+# The Unending Coil of Bahamut
 
 ## General:
 - Ultimates are riddled with downtime mechanics and thus there is no loop to follow. The general idea for Ultimates is to map out your rotation for each phase and be as optimal as possible in the usage of your Meikyo Shisui and Higanbana (and Tsubame for level 80).
@@ -25,7 +25,7 @@ title: Ultimates
 
 ---
 
-# How do I play Sam in UWU?
+# The Weapon's Refrain 
 
 ## General:
 - Ultimates are riddled with downtime mechanics and thus there is no loop to follow. The general idea for Ultimates is to map out your rotation for each phase and be as optimal as possible in the usage of your Meikyo Shisui and Higanbana (and Tsubame for level 80).
@@ -47,7 +47,7 @@ title: Ultimates
 
 ---
 
-# How do I play Sam in TEA?
+# The Epic of Alexander
 
 ## General:
 - Ultimates are riddled with downtime mechanics and thus there is no loop to follow. The general idea for Ultimates is to map out your rotation for each phase and be as optimal as possible in the usage of your Meikyo Shisui and Higanbana (and Tsubame for level 80).
