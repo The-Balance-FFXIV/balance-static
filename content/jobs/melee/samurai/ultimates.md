@@ -17,7 +17,7 @@ title: Ultimates
 * Adds: Higanbana on both, then 2 target Tenka Goken rotation. 2 Higanbanas per target.
 * Golden: Nothing special to mention.
 
-## Pot timings:
+## Pot Timings:
 
 * 1st: Twintania, standard timing.
 * 2nd: Bahamut, before 1st GCD.
@@ -41,7 +41,7 @@ title: Ultimates
 * Titan: Save Guren for Gaol + Titan. 2 Higanbanas.
 * Ultima: Don't use Higanbana before Predation. 2 Higanbanas after Predation. 2 Higanbanas after Suppression.
 
-## Pot timings:
+## Pot Timings:
 
 * 1st: Garuda, standard timing OR Ifrit after TB in order to skip dashes and pad on Nails.
 * 2nd: Ultima, before 1st GCD.
@@ -64,7 +64,7 @@ title: Ultimates
 * Alex Prime: Don't use Higanbana. If you use Senei right after Inception, Guren will be up in time to cleave both CC and BJ in Judgement Formation.
 * Perfect Alex: Ideally use the 3 Sen 100 Kenki opener. 1 Higanbana before FCA, 1 Higanbana before FCB, 2 Higanbanas after FCB.
 
-## Pot timings:
+## Pot Timings:
 
 * 1st: Standard pot timing on LL.
 * 2nd: Before 1st GCD on Alex Prime for prog OR end of BJ & CC for logs (depending on phase/kill time).
