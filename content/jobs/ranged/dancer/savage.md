@@ -9,9 +9,15 @@ title: Savage
 
 Special note: DNC fight specific tips can be difficult to identify due to some things being party composition dependent and kill time dependent. In general, if you are learning a fight or going for a clear, it will most often be best to keep your cooldowns (dances / Devilment / Flourish) off cooldown as much as possible and try not to delay. The tips found in this document are fight specific tips that help identify how to interact with certain mechanics, especially as they coincide with your cooldowns.
 
-E5S - Ramuh    |    E6S - Ifrit and Garuda    |    E7S - The Idol of Darkness    |    E8S - Shiva
 
-E5S - Ramuh
+[E5S - Ramuh]  
+[E6S - Ifrit and Garuda]  
+[E7S - The Idol of Darkness]  
+[E8S - Shiva]  
+
+
+# E5S - Ramuh
+
 
 Doing the second use of Technical Step when it comes back up from opener (at 2:02 min) will have you doing the steps as the knock back occurs, which slightly delays Technical Finish to align with Devilment so you can do 
 TF → DM → Proc/SD → Flourish → etc...
@@ -26,7 +32,11 @@ If you are trying to optimize this fight in a group setting, coordinate with oth
 Second potion works best for the 4th Technical Step (which should be either around 6:10 or 6:30 depending on whether you kept 3rd Technical off cooldown or if you held it).
 DNCs are ranged and very mobile. Consider when grabbing an orb for mechanics to grab the ones that are farther away from the boss / farther away from party members to allow easier time for less mobile jobs to grab their orb. The tank kiting the bird add will appreciate this too.
 
-E6S - Ifrit and Garuda
+
+
+
+# E6S - Ifrit and Garuda
+
 
 You can use improvisation after your last gcd on Garuda before Technical Step becomes available for 1-2 ticks of improvisation. If you are in group setting where you can coordinate it, consider finding a way to have your group stack somewhere for the end of Garuda  → beginning of Ifrit transition. Still start your Technical Step as soon as it comes off cooldown for the beginning of Ifrit.
 If running a 2.50s set, getting the last GCD off on Garuda at ~1:59 is nigh impossible. Even if able to use the GCD, the damage will generally ghost--there is a delay between using the ability and having the damage register of approximately 0.7-0.9 seconds. Consider starting improvisation at 1:56 after the GCD goes out (tech should have about 6 seconds left) for extra ticks assuming the group is stacked.
@@ -41,7 +51,10 @@ The fourth use of Technical Step comes off cooldown around 6:02 if using it off 
 Special Note: This delay will lose you a cast of Technical Step / Devilment if your kill time is approximately between 8:25-8:40.
 
 
-E7S - The Idol of Darkness
+
+
+
+# E7S - The Idol of Darkness
 
 The second use of Technical Step / Devilment coincides with the Betwixt Worlds + Teleport mechanic. 
 If your party is handling the mechanic with having all the teleports resolve in different lanes (such as “Cross T” strategy), don’t start Technical Finish until after your teleport resolves. This will give the other players enough time to return back to the middle before you finish your dance steps. Starting the Technical Step before the teleport could result in the Technical Finish happening before some players have returned to the middle which can lead to them missing the damage buff.
@@ -57,7 +70,10 @@ If your group killed adds on the slower side, but you managed to keep your techn
 If your group killed adds on the faster side, Technical Step won’t be off cooldown until everyone is separated during the first round of the tornado phase. Your technical finish here will likely miss a lot of party members, so it’s best to delay this about 15-20 seconds until the party reunites for the Threefold Grace / Empty Wave mechanics. It is possible to hit all 7 party members during the tornado phase, but this requires every party member to get in as tight as possible inside the boss’s hitbox in their respective sections during the technical finish cast. This is only recommended for groups going for highly optimized strategies.
 If your kill time is long, you can do a 6th technical step / devilment which can be delayed to sync up with third potion (you might not need to delay this technical step / devilment any more than you did while delaying it during first tornado cycle).
 
-E8S - Shiva
+
+
+
+# E8S - Shiva
 
 Use Improvisation during the transition from phase 1 to add phase while standing as close to the middle of the arena while staying on your side to hit all 7 party members.
 Using Flourish off cooldown after your opener on Shiva will earn you a 4th flourish right at the end of phase 1 that you can get approximately 3-4 gcds after popping.
@@ -86,16 +102,15 @@ For Mirror, Mirror #5 (Lookaway Mirrors) consider saving the Rising Windmill pro
 For Mirror, Mirror #7 (Ice + Ahk Rhai Mirror) instead of sliding on the ice, when the red mirror pulses, you can weave an En Avant to propel yourself away from the baited Ahk Rhai aoes. This will prevent a potential loss of a gcd from the sliding animation.
 After the Ice + Ahk Rhai Mirrors is the start of Wyrm’s Lament 2 which is when your last Technical Step / Devilment should be coming off cooldown. This lines up nicely with other party members’ raid buffs and should be your group’s 3rd potion window (unless pushing a faster kill time).
 
+---
 
-
-
-
-Eden’s Promise - a DNC’s Guide
-E9S-E12S
+# Eden’s Promise - a DNC’s Guide
+# E9S-E12S
 
 by Io Whitespirit (Faerie)
 
-FOREWORD
+
+# FOREWORD
 
 This is a general guide written for Dancers who are looking to optimize their performance in Eden’s Promise. Note that these are simply suggestions; for groups that know their precise kill times, other timings may be more ideal especially to allow for final burst and to line up with 3 minute buffs/pots. There are likely also variations of strategies which may either restrict the ability to do some of the following suggestions, or conversely allow for Technical windows I considered difficult in this document due to ongoing mechanics.
 
@@ -106,7 +121,7 @@ Without further ado, let’s get to it!
 
 
 
-E9S - CLOUD OF DARKNESS
+# E9S - CLOUD OF DARKNESS
 
 Overview
 Despite being the introductory raid to the tier, optimizing it on Dancer has been somewhat challenging due to the fact both the 4:10 and the 6:10 Technical windows come up during mechanics which force the party apart. The rest of the fight is pretty straightforward.
@@ -181,7 +196,8 @@ With some testing, I believe it is impossible to hit all 8 players with Technica
 If someone has a log proving otherwise, please DM me at io#4617.
 At the end of the day, this only occurs 50% of the time, and you’ll still be hitting 7 of the 8 players. For the vast majority of players, however, your kill time will likely allow you to drift Technical as previously recommended, and this entire section will not be a consideration. 
 
-E10S - SHADOWKEEPER
+
+# E10S - SHADOWKEEPER
 
 Overview
 This is a pretty straightforward fight until Shackled Apart and the final Void Gates. I’ll try to address some points, but the latter mechanic depends significantly on the strategy your group/PF plans on employing.
@@ -276,7 +292,8 @@ Taking a melee spot
 Using a different strategy
 Skipping the mechanic
 
-E11S - FATEBREAKER
+
+# E11S - FATEBREAKER
 
 Overview
 Probably the most comfortable fight for Dancer this tier. Downtimes come up at exactly the right times, allowing for optimal pre-dances. Also good for short Improvisations.
@@ -347,7 +364,8 @@ Improvisation Timings
 An alternative to this is waiting until everyone is stacked together and praying that you don’t get the holy tether. This gets more ticks than doing it before the knockback, but as at least one player is not stacked with the group you will not be getting a full 10 esprit per tick.
 8:30 - During prismatic, while waiting for the first ghosts to resolve. The more players you can get to join you, the better.
 
-E12S DOOR - EDEN’S PROMISE
+
+# E12S DOOR - EDEN’S PROMISE
 
 Overview
 Fairly horrendous fight for Dancers while on enrage to clear. Gets much better after that.
@@ -413,7 +431,8 @@ Per Ringabel, his group’s plan is as follows:
 
 Potion Timings
 The standard 0 minute window and 6:xx window are fine here. If delaying raid-buffs to after Junction Shiva, pots can also be used for a 4:30 or 5:00 burst window.
-E12S - ORACLE OF DARKNESS
+
+# E12S - ORACLE OF DARKNESS
 
 Overview
 Home stretch! Unlike the door boss, this is a more comfortable fight.
@@ -486,7 +505,8 @@ Specific to this fight, Curing Waltz can be a gigantic help to your healers post
 
 
 
-FINAL WORDS
+
+# FINAL WORDS
 
 That’s all! Please DM me at io#4617 if there are any questions, suggestions, or feedback. Feel free to also stop by the Dancer channels in the Balance.
 
