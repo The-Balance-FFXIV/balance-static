@@ -1,5 +1,5 @@
 ---
-title: Guide to Leveling Reaper and Sage immediately in Endwalker
+title: Guide to Leveling Reaper and Sage Immediately in Endwalker
 ---
 Written by: Ringabel Dim (DNC Mentor in [The Balance](https://discord.com/invite/thebalanceffxiv))
 
