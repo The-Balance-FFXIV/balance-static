@@ -58,7 +58,7 @@ For UCoB:\
 DH = 280, Crit = 342, DET = 280, SkS = 280 *Caps all 4 stats so the last 62 points don’t matter. 
 
 For UWU:\
-DH = 318, Crit = 318, DET = 318, SkS = 228 *Caps on DH / Crit / Det and rest in SkS
+DH = 318, Crit = 318, DET = 318, SkS = 228 *Caps on DH / Crit / DET and rest in SkS
 
 ## iLvl 515 DNC Relic
 
