@@ -1,7 +1,7 @@
 ---
 title: Skill Overview
 ---
-PvE actions
+# PvE actions
 Action	Acquired	Quest requirement	Level	Type	MP	Casting	Recast	Description
 Cascade.png  Cascade	Dancer frame icon1.png DNC		1	Weaponskill		Instant	2.5s	Delivers an attack with a potency of 250.
 Fountain.png  Fountain	Dancer frame icon1.png DNC		2	Weaponskill		Instant	2.5s	Delivers an attack with a potency of 100.
