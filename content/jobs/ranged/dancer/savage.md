@@ -247,27 +247,33 @@ If your group is not planning to intentionally let the adds get past, and you ar
 ## If not drifting during Tiles 
 It is recommended you take either the eastern or western outside spots due to mobility, and because if people squeeze together a full 8/8 Technical Finish is possible 50% of the time:
 
+
 (Image was linked to me by Rah--original source is unknown to me. Although it mentions divination, the concept is the same)
 
 
 With some testing, I believe it is impossible to hit all 8 players with Technical Finish if you are the one being forced to move for the half-arena cleave (without significant effort being made by your other players). The length of each tile appears to be 8 yalms, meaning that despite what the following image shows, Technical Finish would miss on the south healer:
 
+
 (Again, I am unsure on the original source of this image)
 
+
 If someone has a log proving otherwise, please DM me at io#4617.
+
 At the end of the day, this only occurs 50% of the time, and you’ll still be hitting 7 of the 8 players. For the vast majority of players, however, your kill time will likely allow you to drift Technical as previously recommended, and this entire section will not be a consideration. 
 
 
 # E10S - SHADOWKEEPER
 
-Overview
+## Overview
 This is a pretty straightforward fight until Shackled Apart and the final Void Gates. I’ll try to address some points, but the latter mechanic depends significantly on the strategy your group/PF plans on employing.
 That, or you could just skip it.
 
-Technical Windows
+
+## Technical Windows
 There are two recommended ways of handling Technical windows for this fight, and both boil down to what you want to do at Shackled Apart. I have included a third option for speed kills.
 
-1) Drifting to ensure the full group gets buffed
+
+### 1) Drifting to ensure the full group gets buffed
 0:07
 2:10
 4:10
@@ -283,7 +289,7 @@ Delays raid buffs.
 May lose some of the last Technical window if killing too fast.
 
 
-2) No drift (step into boss hitbox briefly to pop Technical Finish; see later on alternative)
+### 2) No drift (step into boss hitbox briefly to pop Technical Finish; see later on alternative)
 0:07
 2:10
 4:10
