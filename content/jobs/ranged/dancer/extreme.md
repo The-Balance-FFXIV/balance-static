@@ -21,7 +21,7 @@ Also note that this guide assumes your party DPS is not high enough to phase the
 
 ## Improvisation
 
-* Ignoring Esprit fishing in the opener, Improvisation shines in this phase when imbued fire is *second* rather than first. This is because channeled abilities are not subject to the Pyretic debuff ***once the ability has already been cast***.
+* Ignoring Esprit fishing in the opener, Improvisation shines in this phase when Imbued Fire is *second* rather than first. This is because channeled abilities are not subject to the Pyretic debuff ***once the ability has already been cast***.
 * As people are already stacked for Holy, simply weave Improvisation during the window before the fire debuffs go out.
 
   * This should allow you to get 20 to 30 Esprit during this downtime. If you do start improvisation late at 85-90% of the cast bar, however, you may once again take an extra tick of fire damage.
