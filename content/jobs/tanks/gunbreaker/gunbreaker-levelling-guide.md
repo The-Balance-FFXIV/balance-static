@@ -11,7 +11,7 @@ The basics of GNB gameplay will change depending on what Character Level you are
 
 *(Solid Barrel Unlocked at 26)*
 
-1-2 Targets:\
+One to Two Targets:\
 Keen Edge -> Brutal Shell (-> Solid Barrel) 
 
 3+ Targets:\
@@ -19,10 +19,10 @@ Demon Slice spam
 
 # Level 30-39
 
-1 Target:\
+One Target:\
 Keen Edge -> Brutal Shell -> Solid Barrel -> Burst Strike
 
-2 Targets:\
+Two Targets:\
 Demon Slice spam
 
 It is optimal to spend all Burst Strikes under No Mercy unless you would overcap. (i.e. if you have 2 Cartridges, use a Burst Strike before finishing the next Solid Barrel combo so you don't waste a Cartridge by overcapping.) **This applies at all levels.**
@@ -31,10 +31,10 @@ It is optimal to spend all Burst Strikes under No Mercy unless you would overcap
 
 *(Sonic Break Unlocked at 54)*
 
-1 Target:\
+One Target:\
 (Sonic Break ->) Keen Edge -> Brutal Shell -> Solid Barrel -> Burst Strike
 
-2 Targets:\
+Two Targets:\
 (Sonic Break ->) Demon Slice -> Demon Slaughter -> Burst Strike
 
 3+ Targets:\
@@ -46,15 +46,15 @@ Sonic Break should always be used under No Mercy.
 
 # Level 60-71
 
-1 Target:\
+One Target:\
 Sonic Break -> Keen Edge -> Brutal Shell -> Solid Barrel -> Burst Strike;
 Gnashing Fang -> Savage Claw -> Wicked Talon every 30 seconds. 
 
-2 Targets:\
+Two Targets:\
 Sonic Break -> Demon Slice -> Demon Slaughter -> Burst Strike; 
 Gnashing Fang -> Savage Claw -> Wicked Talon every 30 seconds. 
 
-3 Targets:\
+Three Targets:\
 Sonic Break -> Demon Slice -> Demon Slaughter; 
 Gnashing Fang -> Savage Claw -> Wicked Talon every 30 seconds.
 (Ignore Cartridges except for Gnashing Fang)
@@ -69,11 +69,11 @@ From Level 70 onward, Gnashing Fang, Savage Claw, and Wicked Talon should always
 
 # Level 72+
 
-1 Target:\
+One Target:\
 Sonic Break -> Keen Edge -> Brutal Shell -> Solid Barrel -> Burst Strike; 
 Gnashing Fang -> Savage Claw -> Wicked Talon every 30s
 
-2-3 Targets:\
+Two to Three Targets:\
 Sonic Break -> Demon Slice -> Demon Slaughter -> Fated Circle;
 Gnashing Fang -> Savage Claw -> Wicked Talon every 30s
 
@@ -83,8 +83,8 @@ Sonic Break -> Demon Slice -> Demon Slaughter -> Fated Circle\
 
 # Essentially at Level 80:
 
-For 1 Target: Solid Barrel combo and Burst Strike.\
-For 2+ targets: Demon Slaughter combo and Fated Circle.
+For One Target: Solid Barrel combo and Burst Strike.\
+For Two or More Targets: Demon Slaughter combo and Fated Circle.
 
 Continue to use the Gnashing Fang combo on cooldown until there are 4+ targets. At 4+ you should ignore the Gnashing Fang combo and only use the Demon Slaughter combo and Fated Circle. 
 
