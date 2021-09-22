@@ -100,31 +100,51 @@ If your kill time is long, you can do a 6th technical step / devilment which can
 
 # E8S - Shiva
 
+
 Use Improvisation during the transition from phase 1 to add phase while standing as close to the middle of the arena while staying on your side to hit all 7 party members.
 Using Flourish off cooldown after your opener on Shiva will earn you a 4th flourish right at the end of phase 1 that you can get approximately 3-4 gcds after popping.
+
 If you do Standard Step off cooldown, you are technically able to get off a standard step right before Shiva jumps at the end of phase 1. However, this standard step is arguably not worth it because you won’t be able to take advantage of that 4th flourish right before the jump and you will be limited on using as many of your resources (esprit and feathers) if you are dancing during the last 5 seconds of the phase.
+
 If not attempting the aforementioned Standard Step in phase 1, you can choose to delay standard step by 1-2 gcds total during Diamond Frost to ensure you hit Shiva after being knocked back by Heavenly Strike (depending on how your party handles Diamond Frost). This delay will also mean Standard Step will line up during the lookaway mechanic for your next Standard Step which makes it easier since you do not have to be facing your target while doing a dance.
-All of the phases and mechanics are on a static timer for this fight. The damage you do during add phase will not make the phase end any quicker and will not help you with the overall dps check of Shiva besides successfully clearing add phase with no Flood of Light generated to gain the ~2% damage up buff for the first minute of phase 3. Therefore, optimal play during add phase would be to use as much of your esprit and feathers before add phase on Shiva and then try to conserve as much of this esprit and feathers so you can use them on your reopener on Shiva. 
-You SHOULD use Flourish during add phase because it’s on a short cooldown and will be back up after the long cutscene for the reopener. It can also help you generate 4 feathers that you can save for your reopener on Shiva.
-You SHOULD NOT use Technical Step / Devilment during add phase because this will significantly desync these abilities from raid buffs in the reopener.
+
+All of the phases and mechanics are on a static timer for this fight. The damage you do during add phase will not make the phase end any quicker and will not help you with the overall dps check of Shiva besides successfully clearing add phase with no Flood of Light generated to gain the ~2% damage up buff for the first minute of phase 3. 
+
+Therefore, optimal play during add phase would be to use as much of your esprit and feathers before add phase on Shiva and then try to conserve as much of this esprit and feathers so you can use them on your reopener on Shiva. 
+
+You **SHOULD** use Flourish during add phase because it’s on a short cooldown and will be back up after the long cutscene for the reopener. It can also help you generate 4 feathers that you can save for your reopener on Shiva.
+
+You **SHOULD NOT** use Technical Step / Devilment during add phase because this will significantly desync these abilities from raid buffs in the reopener.
+
 As best you can, try to conserve esprit and feathers during add phase so you can use them on the reopener. If an add would otherwise have survived, you can use some of these resources just to ensure successful completion of the add phase. Ideal situation is to end add phase with successfully getting the ~2% damage buff AND with 100 esprit and 4 feathers for your reopener on Shiva.
+
 Dancer Partner during Shiva adds phase → ideally you will want to be on the same side as your normal dance partner for add phase, but if you are on separate sides, you should switch to the dps member on your side for add phase, and then remove the closed position buff from them before you get stunned going into the long cutscene. Then, before you start your reopener, put Closed Position back on your main partner (this will delay your reopener by approximately 0.8 seconds due to this clip but is worth it to ensure maximum gains with being partnered with the best possible partner)
 
 
-Reopener on Shiva (phase 3):
 
-With at least 50 esprit coming back from adds:
-Technical Step → 4 Steps → (hard clip potion) → Technical Finish (Devilment) → Saber Dance → Standard Step → 2 Steps → Standard Finish (Flourish) → continue with normal Technical Finish gcd priority
+**Reopener on Shiva (phase 3):**
 
-If you do not have enough esprit for that first GCD Saber Dance:
+With at least 50 esprit coming back from adds:  
+Technical Step → 4 Steps → (hard clip potion) → Technical Finish (Devilment) → Saber Dance → Standard Step → 2 Steps → Standard Finish (Flourish) → continue with normal 
+
+**Technical Finish gcd priority**
+
+If you do not have enough esprit for that first GCD Saber Dance:  
 Technical Step → 4 Steps → (hard clip potion) → Technical Finish (Devilment) → Standard Step → 2 Steps → Standard Finish (Flourish) → continue with normal Technical Finish gcd priority
 
+
 In either case, be sure to reinitiate your auto attacks as you are starting your Technical Step (i.e. for keyboard + mouse: right click Shiva as you are doing your steps). You lose about 2 auto attacks if you don’t do this.
+
 The first reopener listed is for the most ideal case where you come into Shiva with maximum resources (4 feathers and 100 esprit). Technical Finish and Devilment are done first to get those strong raid buffs to the party to line up with other raid buffs and other jobs’ reopeners. Saber Dance is done as the first GCD after Technical Finish to prevent losing esprit from being capped while it is being generated by the Technical Finish buff. Standard Step is then done as soon as possible to get the Standard Step buff on both you and your dance partner. If you come out of add phase with not enough esprit, you can do Standard Step right after Technical Finish to get the Standard Step buff out as soon as possible to you and your dance partner.
+
 For the remainder of the fight, keep all of your dances / Devilment / Flourish off cooldown as best as possible. Keep in mind that if kept off cooldown, the order of these abilities during the 2 minute burst cycles will be Technical Step before Devilment before Standard Step before Flourish (different than what it would be after a normal opener).
+
 Since Flourish was used after Standard Step in this reopener, for every subsequent Standard Step before Flourish, make sure to either use a proc (if you have one) or use Saber Dance (similar to how you would use Saber as the filler GCD before Flourish under normal circumstances) on the GCD before you use Standard Step. This will prevent Flourish from being delayed.
+
 For Mirror, Mirror #5 (Lookaway Mirrors) consider saving the Rising Windmill proc from the Flourish just before this mechanic so you can use that proc during the first Lookaway (using an aoe proc does not have you turn to face the target it is hitting, allowing you to use your gcd freely during that mechanic).
+
 For Mirror, Mirror #7 (Ice + Ahk Rhai Mirror) instead of sliding on the ice, when the red mirror pulses, you can weave an En Avant to propel yourself away from the baited Ahk Rhai aoes. This will prevent a potential loss of a gcd from the sliding animation.
+
 After the Ice + Ahk Rhai Mirrors is the start of Wyrm’s Lament 2 which is when your last Technical Step / Devilment should be coming off cooldown. This lines up nicely with other party members’ raid buffs and should be your group’s 3rd potion window (unless pushing a faster kill time).
 
 ---
@@ -146,73 +166,89 @@ Without further ado, let’s get to it!
 
 
 
+
 # E9S - CLOUD OF DARKNESS
 
-Overview
+## Overview
 Despite being the introductory raid to the tier, optimizing it on Dancer has been somewhat challenging due to the fact both the 4:10 and the 6:10 Technical windows come up during mechanics which force the party apart. The rest of the fight is pretty straightforward.
 
-Technical Windows
+
+## Technical Windows
 There are a few recommended ways to handle Technical windows for this fight. The first is for kill times over 6:30; the second is in the situation where your group is killing between ~6:20-6:30; and the third is where your group is killing too fast to even allow for much of the 6 minute burst window.
 
-1) Drifting to ensure the full group gets buffed
-0:07
-2:10
-4:17 (delay three GCDs)
-6:17
-8:17
+
+### **1) Drifting to ensure the full group gets buffed**  
+0:07  
+2:10  
+4:17 (delay three GCDs)  
+6:17  
+8:17  
+
+
+Pros:  
+- Allows the entire group to be buffed under Technical Step for the Tiles mechanic.
+- Allows the entire group to be buffed under Technical Step for the Towers mechanic.
+
+Cons:    
+- Requires coordination with the rest of your group with regards to raid buff timings.
+- May lose some of the 6 minute Technical window if killing too fast.
+
+
+
+### **2) No drift (somewhat speedy group)**  
+0:07  
+2:10 (or 2:07)  
+4:10 (or 4:07)  
+6:10 (or 6:07)  
+
 
 Pros:
-Allows the entire group to be buffed under Technical Step for the Tiles mechanic.
-Allows the entire group to be buffed under Technical Step for the Towers mechanic.
+- Allows for a more complete Technical window in a 6:20-6:30 kill time.
+
+
 Cons:
-Requires coordination with the rest of your group with regards to raid buff timings.
-May lose some of the 6 minute Technical window if killing too fast.
+- Depending on how Tiles is being handled, there is a 50% chance your Technical Finish will only hit at most 7 of 8 players.
+- Depending on the Brambles strat, there is a high chance your Technical Finish will miss some players.
 
 
-2) No drift (somewhat speedy group)
-0:07
-2:10 (or 2:07)
-4:10 (or 4:07)
-6:10 (or 6:07)
+### **3) Gotta go fast (sub 6:20)**  
+0:07  
+2:10 (or 3:07)  
+5:07   
+
 
 Pros:
-Allows for a more complete Technical window in a 6:20-6:30 kill time.
+- Lines up raid buffs as best as possible when a 6 minute burst window is no longer achievable.
+- Allows for a burst window under second potion.
+
 
 Cons:
-Depending on how Tiles is being handled, there is a 50% chance your Technical Finish will only hit at most 7 of 8 players.
-Depending on the Brambles strat, there is a high chance your Technical Finish will miss some players.
+- Loses a use of Technical at 6 minutes.
 
-3) Gotta go fast (sub 6:20)
-0:07
-2:10 (or 3:07)
-5:07 
 
-Pros:
-Lines up raid buffs as best as possible when a 6 minute burst window is no longer achievable.
-Allows for a burst window under second potion.
+## Recommended Samba Timings
+- ~0:23 - Catches the Protean and Pairs mechanics.
+- ~2:30 - Catches the Wide Angle/Anti-Air.
+- ~4:30 - Catches the Deluge of Darkness.
+- ~6:30 - Catches the Wide Angle/Anti-Air
+- ~9:00 - Catches the second Art of Darkness.
 
-Cons:
-Loses a use of Technical at 6 minutes.
 
-Recommended Samba Timings
-~0:23 - Catches the Protean and Pairs mechanics.
-~2:30 - Catches the Wide Angle/Anti-Air.
-~4:30 - Catches the Deluge of Darkness.
-~6:30 - Catches the Wide Angle/Anti-Air
-~9:00 - Catches the second Art of Darkness.
-
-Potion Timings
+## Potion Timings
 The standard timings for the 0 minute window and 6:xx window are fine here. Use with the 5 minute window if doing speeds and skipping the 6 minute burst window.
 
-Adds
+
+## Adds
 If your group is not planning to intentionally let the adds get past, and you are on the outside, you can cleave both the add and the boss by standing on the pattern below once the add has spawned and has traveled a short distance. Note: if you plan on using Fan Dance II, this is leading up to a Technical window, and you’ll need to assess if the 50 extra potency outside of raid buffs is worth it compared to dumping fans with raid buffs at the 4 minute mark.
 
 
 
-If not drifting during Tiles 
+
+## If not drifting during Tiles 
 It is recommended you take either the eastern or western outside spots due to mobility, and because if people squeeze together a full 8/8 Technical Finish is possible 50% of the time:
 
 (Image was linked to me by Rah--original source is unknown to me. Although it mentions divination, the concept is the same)
+
 
 With some testing, I believe it is impossible to hit all 8 players with Technical Finish if you are the one being forced to move for the half-arena cleave (without significant effort being made by your other players). The length of each tile appears to be 8 yalms, meaning that despite what the following image shows, Technical Finish would miss on the south healer:
 
