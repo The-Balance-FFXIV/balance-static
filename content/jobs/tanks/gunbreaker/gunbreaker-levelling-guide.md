@@ -1,6 +1,65 @@
 ---
 title: Leveling Guide
 ---
+# HE WANTS THIS TO BE RESTRUCTURED TO FIT THIS
+
+https://guides.xivresources.com/jobs/tanks/gunbreaker/gunbreaker-levelling-guide/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- - - 
+
+
 # Gunbreaker Levelling Rotations
 
 ## Levels 15-29
