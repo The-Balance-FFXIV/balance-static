@@ -31,6 +31,8 @@ DH = 280, Crit = 342, DET = 280, SkS = 280 *Caps all 4 stats so the last 62 poin
 
 DH = 318, Crit = 318, DET = 318, SkS = 228 *Caps on DH / Crit / DET and rest in SkS
 
+- - -
+
 # iLvl 515 DNC Relic
 
 ## For current level 80 content:
