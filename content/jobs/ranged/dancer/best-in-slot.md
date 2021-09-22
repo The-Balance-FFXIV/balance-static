@@ -5,8 +5,8 @@ title: Best in Slot
 
 ## Best-in-slot
 
-New BiS (5.55) with iLvl 535 Relic Weapon - <https://etro.gg/gearset/e4cd5da5-6365-4e30-bd26-8e5fadf8a17f>\
-Old BiS (5.4) with Edenmorn Weapon - <https://etro.gg/gearset/f904b72c-7e83-4b25-aace-38f7956b6728> (watch melds)
+[New BiS (5.55) with iLvl 535 Relic Weapon](https://etro.gg/gearset/e4cd5da5-6365-4e30-bd26-8e5fadf8a17f) \
+[Old BiS (5.4) with Edenmorn Weapon](https://etro.gg/gearset/f904b72c-7e83-4b25-aace-38f7956b6728) - (watch melds)
 
 BiS Food: Smoked Chicken\
 BiS Potion: Grade 4 Tincture of Dexterity  
