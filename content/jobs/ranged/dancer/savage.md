@@ -19,40 +19,34 @@ Special note: DNC fight specific tips can be difficult to identify due to some t
 # E5S - Ramuh
 
 
-Doing the second use of Technical Step when it comes back up from opener (at 2:02 min) will have you doing the steps as the knock back occurs, which slightly delays Technical Finish to align with Devilment so you can do   
-TF → DM → Proc/SD → Flourish → etc...
+- Doing the second use of Technical Step when it comes back up from opener (at 2:02 min) will have you doing the steps as the knock back occurs, which slightly delays Technical Finish to align with Devilment so you can do   
+  - TF → DM → Proc/SD → Flourish → etc...
 
-For the third usage of Technical Step you have two options: hold until after knockback or use on cooldown and the knockback will happen while the Technical Finish / Devilment buffs are still active.  
+- For the third usage of Technical Step you have two options: hold until after knockback or use on cooldown and the knockback will happen while the Technical Finish / Devilment buffs are still active.  
 For this circumstance, we consider the following points:  
-- Holding the Technical Step will result in a loss of a Technical Step / Devilment usage if your kill time is roughly between 8:20 and 8:35 or between 10:20 and 10:35
-- Doing the 3rd technical step on cooldown (Technical finish going out at approximately 4:08-4:10) results in some loss due to party members missing approximately 2 gcds on the boss while the Technical Finish / Devilment buffs are out.
-- If you delay flourish for this technical step as well, you will lose a Flourish cast if your kill time is between approximately X:25 and X:45 assuming you use flourish on cooldown for the rest of the fight.
-- If you have a Ninja, they lose a usage of Trick Attack and Kassatsu if they hold for after the knockback if the kill time is between X:20 and X:35
-- If you do your Technical Step off cooldown, you can delay your Standard Step by 1-2 gcds so the steps lines up with Fury’s Fourteen knockback and the portion when Ramuh is untargetable, which reclaims potential lost gcd(s) during that knockback period.
+  - Holding the Technical Step will result in a loss of a Technical Step / Devilment usage if your kill time is roughly between 8:20 and 8:35 or between 10:20 and 10:35
+  - Doing the 3rd technical step on cooldown (Technical finish going out at approximately 4:08-4:10) results in some loss due to party members missing approximately 2 gcds on the boss while the Technical Finish / Devilment buffs are out.
+  - If you delay flourish for this technical step as well, you will lose a Flourish cast if your kill time is between approximately X:25 and X:45 assuming you use flourish on cooldown for the rest of the fight.
+  - If you have a Ninja, they lose a usage of Trick Attack and Kassatsu if they hold for after the knockback if the kill time is between X:20 and X:35
+  - If you do your Technical Step off cooldown, you can delay your Standard Step by 1-2 gcds so the steps lines up with Fury’s Fourteen knockback and the portion when Ramuh is untargetable, which reclaims potential lost gcd(s) during that knockback period.
+  - **Conclusion:** If you do not know your kill time or are pugging the fight, it’s best to use Technical Step / Devilment / Flourish on cooldown and don’t delay for the Fury’s Fourteen knockback otherwise you may lose a cast. 
+  - If you are trying to optimize this fight in a group setting, coordinate with other party members when to use raid buffs. Delaying these buffs together for after the knockback will most likely be a gain for your group provided you don’t lose a cast.
 
-Conclusion: If you do not know your kill time or are pugging the fight, it’s best to use Technical Step / Devilment / Flourish on cooldown and don’t delay for the Fury’s Fourteen knockback otherwise you may lose a cast. 
-
-If you are trying to optimize this fight in a group setting, coordinate with other party members when to use raid buffs. Delaying these buffs together for after the knockback will most likely be a gain for your group provided you don’t lose a cast.
-
-Second potion works best for the 4th Technical Step (which should be either around 6:10 or 6:30 depending on whether you kept 3rd Technical off cooldown or if you held it).
-DNCs are ranged and very mobile. Consider when grabbing an orb for mechanics to grab the ones that are farther away from the boss / farther away from party members to allow easier time for less mobile jobs to grab their orb. The tank kiting the bird add will appreciate this too.
+- Second potion works best for the 4th Technical Step (which should be either around 6:10 or 6:30 depending on whether you kept 3rd Technical off cooldown or if you held it).
+- DNCs are ranged and very mobile. Consider when grabbing an orb for mechanics to grab the ones that are farther away from the boss / farther away from party members to allow easier time for less mobile jobs to grab their orb. The tank kiting the bird add will appreciate this too.
 
 
 # E6S - Ifrit and Garuda
 
 
-You can use improvisation after your last gcd on Garuda before Technical Step becomes available for 1-2 ticks of improvisation. If you are in group setting where you can coordinate it, consider finding a way to have your group stack somewhere for the end of Garuda  → beginning of Ifrit transition. Still start your Technical Step as soon as it comes off cooldown for the beginning of Ifrit.
-
-If running a 2.50s set, getting the last GCD off on Garuda at ~1:59 is nigh impossible. Even if able to use the GCD, the damage will generally ghost--there is a delay between using the ability and having the damage register of approximately 0.7-0.9 seconds.  
+- You can use improvisation after your last gcd on Garuda before Technical Step becomes available for 1-2 ticks of improvisation. If you are in group setting where you can coordinate it, consider finding a way to have your group stack somewhere for the end of Garuda  → beginning of Ifrit transition. Still start your Technical Step as soon as it comes off cooldown for the beginning of Ifrit.  
+  - If running a 2.50s set, getting the last GCD off on Garuda at ~1:59 is nigh impossible. Even if able to use the GCD, the damage will generally ghost--there is a delay between using the ability and having the damage register of approximately 0.7-0.9 seconds.  
 Consider starting improvisation at 1:56 after the GCD goes out (tech should have about 6 seconds left) for extra ticks assuming the group is stacked. 
 
-Because DNCs are ranged and very mobile, they should be taking a tether during both Hands of Hell mechanics during this first Ifrit phase.
-
-If keeping Flourish and Technical Step off cooldown from opener through Ifrit + Garuda transition, you can hit both Garuda and Ifrit with Technical Finish → Flourish → Blood Shower (both targets) before the debuffs go out (at 4:09). Then continue your normal Technical Finish window on your target.
-
-Use improvisation after the Ifrit + Garuda phase (at approximately 5:05) during the long downtime. You should be able to get 5 full ticks. Make sure to use any esprit you have before the end of the Ifrit + Garuda phase to ensure you get the most out of these ticks.
-
-Flourish comes off cooldown during the downtime before Raktapaksa. If you use it around 5:20 (after finishing improvisation), you should have enough time to do Standard Step (assuming you have kept it off cooldown the whole fight) and get all 4 procs off on Raktapaksa when they appear before the procs expire. The text prompt for this is when the speech bubble says, “Gwooooooh”!
+- Because DNCs are ranged and very mobile, they should be taking a tether during both Hands of Hell mechanics during this first Ifrit phase.
+- If keeping Flourish and Technical Step off cooldown from opener through Ifrit + Garuda transition, you can hit both Garuda and Ifrit with Technical Finish → Flourish → Blood Shower (both targets) before the debuffs go out (at 4:09). Then continue your normal Technical Finish window on your target.
+- Use improvisation after the Ifrit + Garuda phase (at approximately 5:05) during the long downtime. You should be able to get 5 full ticks. Make sure to use any esprit you have before the end of the Ifrit + Garuda phase to ensure you get the most out of these ticks.
+- Flourish comes off cooldown during the downtime before Raktapaksa. If you use it around 5:20 (after finishing improvisation), you should have enough time to do Standard Step (assuming you have kept it off cooldown the whole fight) and get all 4 procs off on Raktapaksa when they appear before the procs expire. The text prompt for this is when the speech bubble says, “Gwooooooh”!
 
 If this delay in flourish causes a lost cast of flourish (if your kill time is between X:20 and X:35), consider doing the Flourish cast during transition (around 5:10) → Improvisation → Standard Step (when it becomes available) and use as many procs as you can (prioritize the Fountain Fall and Blood Shower so that if you have to drop a proc, it’s either Reverse Cascade or Rising Windmill). This is only a gain if you gain a flourish cast before the end of the fight that you would otherwise have had. If you wouldn’t have lost this flourish cast, doing flourish off cooldown during transition is an overall loss due to losing 1-2 procs.
 
