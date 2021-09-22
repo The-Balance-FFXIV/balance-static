@@ -17,43 +17,43 @@ Last Updated: August 12, 2020
 ---
 
 # Table of Contents
-Purpose and Introduction							…………….3
-Basic DNC Overview							…………….4-5
-Range of Actions and Abilities						…………….6
-Understanding Standard Step / How to do Dance Steps		…………….7-10
-Understanding Technical Step						…………….11-12
-Understanding Fan Dance (and weaving oGCDs in general)		…………….13-15
-Esprit Generation								…………….16-17
-Improvisation								
-Understanding Flourish							…………….18-20
-DNC “Rotation”								…………….21
-General Single Target GCD Priority List					…………….22
-AoE Rotation 								…………….23
-Opener									…………….24
-Technical Finish / Devilment Window Optimization			…………….25-35
-Conclusions from Technical Finish Rotation Analysis		
-Stat Tiering and Itemization for Dancer					…………….36-42
-Weapon Damage and Dexterity					
-Crit vs Det/DH							
-Determination vs DH					
-Skill Speed… and Why it is not good on DNC			
-Gear and Best in Slot (BiS)						…………….43
-Considerations for Selecting a Dance Partner				…………….44-49
-Dance Partner Priority List 						
-Dance Partner Swapping						
-DNC Utility									…………….50-52
-Shield Samba							
-Curing Waltz								
-Improvisation								
-Head Graze								
-Arm’s Length								
-Second Wind								
-Peloton								
-En Avant								
-Common Abbreviations							…………….52
-	Glossary of Terms								…………….53
-	About the Author / Special Thanks					…………….54
-	Changelog									…………….55
+- [Purpose and Introduction]
+- [Basic DNC Overview]
+- [Range of Actions and Abilities]
+- [Understanding Standard Step / How to do Dance Steps]
+- [Understanding Technical Step]
+- [Understanding Fan Dance (and weaving oGCDs in general)]
+- [Esprit Generation]
+- [Improvisation]
+- [Understanding Flourish]
+- [DNC “Rotation”]
+- [General Single Target GCD Priority List]
+- [AoE Rotation]
+- [Opener]
+- [Technical Finish / Devilment Window Optimization]
+- [Conclusions from Technical Finish Rotation Analysis]
+- [Stat Tiering and Itemization for Dancer]
+- [Weapon Damage and Dexterity]
+- [Crit vs Det/DH]
+- [Determination vs DH]
+- [Skill Speed… and Why it is not good on DNC]
+- [Gear and Best in Slot (BiS)]
+- [Considerations for Selecting a Dance Partner]
+- [Dance Partner Priority List ]
+- [Dance Partner Swapping]
+- [DNC Utility]
+- [Shield Samba]
+- [Curing Waltz]
+- [Improvisation]
+- [Head Graze]
+- [Arm’s Length]
+- [Second Wind]
+- [Peloton]
+- [En Avant]
+- [Common Abbreviations]
+- [Glossary of Terms]
+- [About the Author / Special Thanks]
+- [Changelog]
 
 
 
