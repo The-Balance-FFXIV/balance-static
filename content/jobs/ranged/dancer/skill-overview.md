@@ -15,21 +15,22 @@ title: Skill Overview
 | Icon | Rising Windmill|35	Weaponskill		Instant	2.5s	Delivers an attack to all nearby enemies with a potency of 300 for the first enemy, and 50% less for all remaining enemies.
 | Icon | Fountainfall|40	Weaponskill		Instant	2.5s	Delivers an attack with a potency of 350.
 | Icon | Bloodshower|45	Weaponskill		Instant	2.5s	Delivers an attack to all nearby enemies with a potency of 350 for the first enemy, and 50% less for all remaining enemies.
-| Icon | Fan Dance II	Dancer frame icon1.png DNC		50	Ability		Instant	1s	Delivers an attack with a potency of 100 to all nearby enemies.
-| Icon | En Avant	Dancer frame icon1.png DNC		50	Ability		Instant	30s	Quickly dash 10 yalms forward.
-| Icon | Curing Waltz	Dancer frame icon1.png DNC		52	Ability		Instant	60s	Restores own HP and the HP of all nearby party members.
+| Icon | Fan Dance II|50	Ability		Instant	1s	Delivers an attack with a potency of 100 to all nearby enemies.
+| Icon | En Avant|50	Ability		Instant	30s	Quickly dash 10 yalms forward.
+| Icon | Curing Waltz|52	Ability		Instant	60s	Restores own HP and the HP of all nearby party members.
 | Icon | Shield Samba	Dancer frame icon1.png DNC		56	Ability		Instant	120s	Reduces damage taken by self and nearby party members by 10%.
 | Icon | Closed Position	Dancer frame icon1.png DNC		60	Ability		Instant	30s	Grants you Closed Position and designates a party member as your Dance Partner, allowing you to share the effects of Standard Finish, Devilment, and Curing Waltz with said party member.
 Effect ends upon reuse.
-| Icon | Ending	Dancer frame icon1.png DNC		60	Ability		Instant	1s	Ends dance with your partner.
-| Icon | Devilment	Dancer frame icon1.png DNC		62	Ability		Instant	120s	Increases critical hit rate and direct hit rate by 20%.
-| Icon | Fan Dance III	Dancer frame icon1.png DNC		66	Ability		Instant	1s	Delivers an attack to target and all enemies nearby it with a potency of 200 for the first enemy, and 50% less for all remaining enemies.
-| Icon | Technical Step	Dancer frame icon1.png DNC		70	Ability		Instant	120s	Begin dancing, granting yourself Technical Step.
-| Icon | Technical Finish	Dancer frame icon1.png DNC		70	Ability		Instant	1.5s	Delivers an attack to all nearby enemies. Potency varies with number of successful steps, dealing full potency for the first enemy, and 75% less for all remaining enemies.
-| Icon | Flourish	Dancer frame icon1.png DNC		72	Ability		Instant	60s	Grants you the effects of Flourishing Cascade, Flourishing Fountain, Flourishing Windmill, Flourishing Shower, and Flourishing Fan Dance.
-| Icon | Saber Dance	Dancer frame icon1.png DNC		76	Ability		Instant	2.5s	Delivers an attack to target and all enemies nearby it with a potency of 600 for the first enemy, and 50% less for all remaining enemies.
-| Icon | Improvisation	Dancer frame icon1.png DNC		80	Ability		Instant	120s	Dance to the beat of your own drum, granting Improvisation to self.
-Step Actions
+| Icon | Ending|60	Ability		Instant	1s	Ends dance with your partner.
+| Icon | Devilment|62	Ability		Instant	120s	Increases critical hit rate and direct hit rate by 20%.
+| Icon | Fan Dance III|66	Ability		Instant	1s	Delivers an attack to target and all enemies nearby it with a potency of 200 for the first enemy, and 50% less for all remaining enemies.
+| Icon | Technical Step|70	Ability		Instant	120s	Begin dancing, granting yourself Technical Step.
+| Icon | Technical Finish|70	Ability		Instant	1.5s	Delivers an attack to all nearby enemies. Potency varies with number of successful steps, dealing full potency for the first enemy, and 75% less for all remaining enemies.
+| Icon | Flourish|72	Ability		Instant	60s	Grants you the effects of Flourishing Cascade, Flourishing Fountain, Flourishing Windmill, Flourishing Shower, and Flourishing Fan Dance.
+| Icon | Saber Dance|76	Ability		Instant	2.5s	Delivers an attack to target and all enemies nearby it with a potency of 600 for the first enemy, and 50% less for all remaining enemies.
+| Icon | Improvisation|80	Ability		Instant	120s	Dance to the beat of your own drum, granting Improvisation to self.
+
+# Step Actions
 Action	Acquired	Quest requirement	Level	Type	MP	Casting	Recast	Description
 Emboite.png  Emboite	Dancer frame icon1.png DNC		15	Ability		Instant	1s	Perform an emboite.
 Entrechat.png  Entrechat	Dancer frame icon1.png DNC		15	Ability		Instant	1s	Perform an entrechat.
