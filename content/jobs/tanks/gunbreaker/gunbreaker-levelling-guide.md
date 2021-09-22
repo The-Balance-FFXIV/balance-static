@@ -85,7 +85,7 @@ Sonic Break -> Keen Edge -> Brutal Shell -> Solid Barrel -> Burst Strike;
 Gnashing Fang -> Savage Claw -> Wicked Talon every 30s
 
 
-2-3 Targets: 
+2-3 Targets:  
 Sonic Break -> Demon Slice -> Demon Slaughter -> Fated Circle;
 Gnashing Fang -> Savage Claw -> Wicked Talon every 30s
 
