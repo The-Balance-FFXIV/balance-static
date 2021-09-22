@@ -19,35 +19,49 @@ Special note: DNC fight specific tips can be difficult to identify due to some t
 # E5S - Ramuh
 
 
-Doing the second use of Technical Step when it comes back up from opener (at 2:02 min) will have you doing the steps as the knock back occurs, which slightly delays Technical Finish to align with Devilment so you can do 
+Doing the second use of Technical Step when it comes back up from opener (at 2:02 min) will have you doing the steps as the knock back occurs, which slightly delays Technical Finish to align with Devilment so you can do   
 TF → DM → Proc/SD → Flourish → etc...
-For the third usage of Technical Step you have two options: hold until after knockback or use on cooldown and the knockback will happen while the Technical Finish / Devilment buffs are still active. For this circumstance, we consider the following points:
-Holding the Technical Step will result in a loss of a Technical Step / Devilment usage if your kill time is roughly between 8:20 and 8:35 or between 10:20 and 10:35
-Doing the 3rd technical step on cooldown (Technical finish going out at approximately 4:08-4:10) results in some loss due to party members missing approximately 2 gcds on the boss while the Technical Finish / Devilment buffs are out.
-If you delay flourish for this technical step as well, you will lose a Flourish cast if your kill time is between approximately X:25 and X:45 assuming you use flourish on cooldown for the rest of the fight.
-If you have a Ninja, they lose a usage of Trick Attack and Kassatsu if they hold for after the knockback if the kill time is between X:20 and X:35
-If you do your Technical Step off cooldown, you can delay your Standard Step by 1-2 gcds so the steps lines up with Fury’s Fourteen knockback and the portion when Ramuh is untargetable, which reclaims potential lost gcd(s) during that knockback period.
+
+For the third usage of Technical Step you have two options: hold until after knockback or use on cooldown and the knockback will happen while the Technical Finish / Devilment buffs are still active.  
+For this circumstance, we consider the following points:  
+- Holding the Technical Step will result in a loss of a Technical Step / Devilment usage if your kill time is roughly between 8:20 and 8:35 or between 10:20 and 10:35
+- Doing the 3rd technical step on cooldown (Technical finish going out at approximately 4:08-4:10) results in some loss due to party members missing approximately 2 gcds on the boss while the Technical Finish / Devilment buffs are out.
+- If you delay flourish for this technical step as well, you will lose a Flourish cast if your kill time is between approximately X:25 and X:45 assuming you use flourish on cooldown for the rest of the fight.
+- If you have a Ninja, they lose a usage of Trick Attack and Kassatsu if they hold for after the knockback if the kill time is between X:20 and X:35
+- If you do your Technical Step off cooldown, you can delay your Standard Step by 1-2 gcds so the steps lines up with Fury’s Fourteen knockback and the portion when Ramuh is untargetable, which reclaims potential lost gcd(s) during that knockback period.
+
 Conclusion: If you do not know your kill time or are pugging the fight, it’s best to use Technical Step / Devilment / Flourish on cooldown and don’t delay for the Fury’s Fourteen knockback otherwise you may lose a cast. 
+
 If you are trying to optimize this fight in a group setting, coordinate with other party members when to use raid buffs. Delaying these buffs together for after the knockback will most likely be a gain for your group provided you don’t lose a cast.
+
 Second potion works best for the 4th Technical Step (which should be either around 6:10 or 6:30 depending on whether you kept 3rd Technical off cooldown or if you held it).
 DNCs are ranged and very mobile. Consider when grabbing an orb for mechanics to grab the ones that are farther away from the boss / farther away from party members to allow easier time for less mobile jobs to grab their orb. The tank kiting the bird add will appreciate this too.
-
-
 
 
 # E6S - Ifrit and Garuda
 
 
 You can use improvisation after your last gcd on Garuda before Technical Step becomes available for 1-2 ticks of improvisation. If you are in group setting where you can coordinate it, consider finding a way to have your group stack somewhere for the end of Garuda  → beginning of Ifrit transition. Still start your Technical Step as soon as it comes off cooldown for the beginning of Ifrit.
-If running a 2.50s set, getting the last GCD off on Garuda at ~1:59 is nigh impossible. Even if able to use the GCD, the damage will generally ghost--there is a delay between using the ability and having the damage register of approximately 0.7-0.9 seconds. Consider starting improvisation at 1:56 after the GCD goes out (tech should have about 6 seconds left) for extra ticks assuming the group is stacked.
+
+If running a 2.50s set, getting the last GCD off on Garuda at ~1:59 is nigh impossible. Even if able to use the GCD, the damage will generally ghost--there is a delay between using the ability and having the damage register of approximately 0.7-0.9 seconds.  
+Consider starting improvisation at 1:56 after the GCD goes out (tech should have about 6 seconds left) for extra ticks assuming the group is stacked. 
+
 Because DNCs are ranged and very mobile, they should be taking a tether during both Hands of Hell mechanics during this first Ifrit phase.
+
 If keeping Flourish and Technical Step off cooldown from opener through Ifrit + Garuda transition, you can hit both Garuda and Ifrit with Technical Finish → Flourish → Blood Shower (both targets) before the debuffs go out (at 4:09). Then continue your normal Technical Finish window on your target.
+
 Use improvisation after the Ifrit + Garuda phase (at approximately 5:05) during the long downtime. You should be able to get 5 full ticks. Make sure to use any esprit you have before the end of the Ifrit + Garuda phase to ensure you get the most out of these ticks.
+
 Flourish comes off cooldown during the downtime before Raktapaksa. If you use it around 5:20 (after finishing improvisation), you should have enough time to do Standard Step (assuming you have kept it off cooldown the whole fight) and get all 4 procs off on Raktapaksa when they appear before the procs expire. The text prompt for this is when the speech bubble says, “Gwooooooh”!
+
 If this delay in flourish causes a lost cast of flourish (if your kill time is between X:20 and X:35), consider doing the Flourish cast during transition (around 5:10) → Improvisation → Standard Step (when it becomes available) and use as many procs as you can (prioritize the Fountain Fall and Blood Shower so that if you have to drop a proc, it’s either Reverse Cascade or Rising Windmill). This is only a gain if you gain a flourish cast before the end of the fight that you would otherwise have had. If you wouldn’t have lost this flourish cast, doing flourish off cooldown during transition is an overall loss due to losing 1-2 procs.
+
 If you have a Ninja, since Trick Attack cannot be kept off cooldown during the transition, doing your flourish off cooldown during the transition will desync flourish from Trick Attack for the rest of the fight.
+
 Conclusion: Since the enrage is approximately 10:15, delaying this flourish during the Raktapaksa transition will not lose you a flourish cast if you reach enrage. In most cases, it’s best to use the flourish towards the end of the intermission so you can land all of your procs when Raktapaksa is targetable.
+
 The fourth use of Technical Step comes off cooldown around 6:02 if using it off cooldown. If you have a Ninja, consider delaying this Technical Finish + Devilment along with other raid buffs to 6:30 (during the Ferrostorm after the stack pairs) when they can next use Trick Attack due to the delay of the first Trick Attack on Raktapaksa opener (it will also sync Technical Step back up with Flourish if you delay it while waiting for the transition). This is also the perfect time to use your second potion.
+
 Special Note: This delay will lose you a cast of Technical Step / Devilment if your kill time is approximately between 8:25-8:40.
 
 
@@ -56,21 +70,32 @@ Special Note: This delay will lose you a cast of Technical Step / Devilment if y
 
 # E7S - The Idol of Darkness
 
+
 The second use of Technical Step / Devilment coincides with the Betwixt Worlds + Teleport mechanic. 
+
 If your party is handling the mechanic with having all the teleports resolve in different lanes (such as “Cross T” strategy), don’t start Technical Finish until after your teleport resolves. This will give the other players enough time to return back to the middle before you finish your dance steps. Starting the Technical Step before the teleport could result in the Technical Finish happening before some players have returned to the middle which can lead to them missing the damage buff.
+
 If your party is handling the mechanic in a way that all party members resolve the teleport and mechanics in the middle lane (such as “diamond” strategy), you can start the Technical Step before the teleport stun locks you since everyone will not have to run as far to return back to the middle to receive your Technical Finish buff.
+
 Optimal uses of dances during add phase include trying to hit all 3 adds with each of your dances. Depending on how the Idolatry adds are tanked, you may or may not be able to reach all 3 adds from the middle. If there are too far apart, you can at the very least hit 2 adds with your dances.
+
 For start of adds, prep a standard step during the transition (assuming you have kept standard step off cooldown since the beginning of the fight) and pop flourish right after your standard finish when the adds appear.
-Using Technical Finish / Devilment during add phase is worthwhile because of the length of the phase leaning towards losing a cast if you otherwise don’t use them.Try your best to hit as many party members with the Technical Finish buff and as many of the adds with the Technical Finish damage. This Technical Step lines up with the Strength in Numbers (donut aoe) but even if you had to delay the technical during the Betwixt Worlds mechanic, you should still have enough time to do the Technical Finish towards the middle of the arena and go to the safe spot in the donut aoe afterwards.
+
+Using Technical Finish / Devilment during add phase is worthwhile because of the length of the phase leaning towards losing a cast if you otherwise don’t use them. Try your best to hit as many party members with the Technical Finish buff and as many of the adds with the Technical Finish damage. This Technical Step lines up with the Strength in Numbers (donut aoe) but even if you had to delay the technical during the Betwixt Worlds mechanic, you should still have enough time to do the Technical Finish towards the middle of the arena and go to the safe spot in the donut aoe afterwards.
+
 You can use Improvisation during the downtime after add phase. Depending on your adds kill time, your Standard Step may come off cooldown during this time, if so, prioritize prepping Standard Step over Improvisation.
+
 Depending on how fast your party kills the add phase will determine which mechanics some of your cooldowns (especially Technical Step and Devilment) will come off cooldown during. If you are in an organized group, consider talking to your group about coordinating raid buffs. Everyone keeping them off cooldown as much as possible will help them stay mostly in sync.
+
 Second potion works well for 4th usage of technical step and devilment (roughly around 6:20)
+
 While waiting for tornado and its associated knockback, you can pick a corner ideally with the rest of your group and start using Improvisation. Position yourself close enough to the middle so that when the knockback occurs, you’re already in good position to be knocked back into a safe corner.
+
 If your group killed adds on the slower side, but you managed to keep your technical step off cooldown as much as possible, you’ll likely be able to get the 5th cast of technical step at the start of the tornado phase before everyone separates to their color corners.
+
 If your group killed adds on the faster side, Technical Step won’t be off cooldown until everyone is separated during the first round of the tornado phase. Your technical finish here will likely miss a lot of party members, so it’s best to delay this about 15-20 seconds until the party reunites for the Threefold Grace / Empty Wave mechanics. It is possible to hit all 7 party members during the tornado phase, but this requires every party member to get in as tight as possible inside the boss’s hitbox in their respective sections during the technical finish cast. This is only recommended for groups going for highly optimized strategies.
+
 If your kill time is long, you can do a 6th technical step / devilment which can be delayed to sync up with third potion (you might not need to delay this technical step / devilment any more than you did while delaying it during first tornado cycle).
-
-
 
 
 # E8S - Shiva
