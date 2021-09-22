@@ -376,23 +376,33 @@ After Inception Formation, Alexander Prime becomes targetable for approximately 
 
 Option 3 has one less Standard Finish due to not pre-dancing a Standard Step and instead dancing Technical Step first. This puts Technical Step on cooldown sooner which allows for it to be used earlier during the Trio Enrage sequence for the next cast of Technical. If your group is killing Alexander Prime rather quickly, this will allow for a little bit more time for Technical Step to come up during the re-opener of Perfect Alexander.
 
+
 Repeated here regarding what to do for your last couple of GCDs before boss jumps: In the event you are doing Option 1 or Option 3 and are determining what to do for those last 3-4 GCDs, use basic DNC GCD priority (1 - ***3*** - 2 - ***4***) with one small exception: if your 3rd to last GCD before the boss jumps was a Cascade that procs a Reverse Cascade, do Fountain for the next GCD, wait to see if you get a Fountainfall proc and if you do, use Fountainfall as your last proc and let the Reverse Cascade drop, otherwise use Reverse Cascade. This is a small (50 potency) gain from optimizing which proc you let fall by fishing for a Fountainfall.
 
-Wormhole Formation / pre-Trio Enrage Alexander Prime
+
+## Wormhole Formation / pre-Trio Enrage Alexander Prime
+
 During Wormhole formation, use Improvisation wherever your party is stacking to bait chakrams. Improvisation will be back up before Perfect Alexander transition if used at this time. Curing Waltz can be used to help top people off before Incinerating Heat damage goes off. However, if you use Curing Waltz here, you’ll have to delay when you precast Standard Step until after you use Curing Waltz. Otherwise, if you plan on not using Curing Waltz here, you can start Standard Step after Cruise Chaser dashes to the person with number 6 for the 15 second precast. It is also highly recommended to use Arm’s Length for the Alpha Sword / Super Blassty Charge mechanic.
 
-When Alexander Prime becomes targetable, you may use Flourish here in order to gain an extra usage in the fight (at the tail end of the Alexander Prime enrage). This extra usage is very minor especially since you would be missing potential cleave potential from the Rising Windmill and Bloodshower hitting both Brute Justice and Cruise Chaser. However, for progress sake, it is recommended to save Flourish for the Trio Enrage sequence. Otherwise, keep Standard Step off cooldown like normal and hold Technical Finish / Devilment (if they are up) for the Trio Enrage.
 
-Trio Enrage / Perfect Alexander Transition
+When Alexander Prime becomes targetable, you *may* use Flourish here in order to gain an extra usage in the fight (at the tail end of the Alexander Prime enrage). This extra usage is very minor especially since you would be missing potential cleave potential from the Rising Windmill and Bloodshower hitting both Brute Justice and Cruise Chaser. However, for progress sake, it is recommended to save Flourish for the Trio Enrage sequence. Otherwise, keep Standard Step off cooldown like normal and hold Technical Finish / Devilment (if they are up) for the Trio Enrage.
+
+
+## Trio Enrage / Perfect Alexander Transition
 Depending on the timing of when you last used Technical Step / Devilment will affect when you use Technical Step / Devilment here. If last used after Temporal Stasis, you can use Technical Step when Alexander Prime disappears preparing for Trio Enrage. If you used Technical Step after Inception Formation, use Technical Step / Devilment as soon as they come off cooldown (even if it is several seconds into Trio Enrage).
+
 
 During Trio Enrage, you are able to hit both Brute Justice and Cruise Chaser with AoE procs from Flourish (unless you used Flourish right before Trio Enrage on Alexander Prime) and Fan Dance II. This requires standing perfectly between the two bosses. Communicate with your team if you would like to be able to do this, because it may affect where others in your party stand (especially the healers, and especially if you have a WHM casting Cure III) and where Sacred Soil / Earthly Star are placed.
 
+
 Communicate with your raid team for when the best time to use Shield Samba and Curing Waltz during Trio Enrage. For our group, we planned for me to use Shield Samba after the 5th J Wave and to use Curing Waltz after the 9th J Wave (with everyone stacked up).
+
 
 After Brute Justice and Cruise Chaser are dead, you’ll want to communicate with your team whether you want to use this time to build up resources (if you have time to spare before his enrage finishes casting) or burn as fast as possible. If your damage is really good and your group wants to use this time to build up resources, you can spam Windmill and use Rising Windmill procs to generate feathers and esprit for Perfect Alexander reopener and buy time for others in your group to also build up their resources.
 
+
 As Alexander Prime is performing Divine Judgment, you will want to use Improvisation to get up to 100 esprit before the Perfect Alexander phase.
+
 
 NOTE: Since the phase transition is exactly 60 seconds, it is impossible to keep up the Standard Finish buff through this transition.
 
@@ -409,35 +419,47 @@ NOTE: Since the phase transition is exactly 60 seconds, it is impossible to keep
 
 
 
-Perfect Alexander
+
+# Perfect Alexander
 The Perfect Alexander phase of the fight is actually rather straightforward mechanically and has pretty good uptime (aside from Ordained Stillness, and the two Fate Calibration boss jumping mechanics). However, this is the phase of the fight with the tightest overall DPS check, so it is important to coordinate with your raid group to make a plan for when to use raid buffs.
 
-Re-opener Perfect Alexander
+
+## Re-opener Perfect Alexander
 It is strongly recommended to pop potion at the very beginning of Perfect Alexander even if Technical Step / Devilment are not quite up yet (otherwise, you will lose some uptime of your second potion in Perfect Alexander before jails). If Technical Step / Devilment are up at the beginning of Perfect Alexander, you can do the following re-opener:
 
-Re-opener (Technical Finish + Devilment)
+- Re-opener (Technical Finish + Devilment)
 
-Technical Step → 4 Steps → (hard clip potion) → Technical Finish (Devilment) → Saber Dance → Standard Step → 2 Steps → Standard Finish (Flourish) → continue with normal Technical Finish gcd priority
+  - Technical Step → 4 Steps → (hard clip potion) → Technical Finish (Devilment) → Saber Dance → Standard Step → 2 Steps → Standard Finish (Flourish) → continue with normal Technical Finish gcd priority
 
-This opener gives you a lot of room to get off all of your procs even with the forced march / ordained stillness mechanics affecting your ability to perform GCDs. If you do not have Technical Step / Devilment up right away you can:
+This opener gives you a lot of room to get off all of your procs even with the forced march / ordained stillness mechanics affecting your ability to perform GCDs.
+- If you do not have Technical Step / Devilment up right away you can:
 
-Standard Step → 2 Steps → (hard clip potion) → Standard Finish (Flourish) → Saber Dance → use your Proc GCDs and Standard Step when it comes up
+  - Standard Step → 2 Steps → (hard clip potion) → Standard Finish (Flourish) → Saber Dance → use your Proc GCDs and Standard Step when it comes up
+
 
 This will desync Flourish from Technical Step / Devilment for the majority of the last phase, which may end up gaining you a usage of Flourish at the end of the fight. If delaying your Technical Step and Devilment, a good time to use it would be after the Ordained Motion/Stillness and forced march mechanics have finished. Even though this is significantly outside of your potion window, you will be able to use Technical Step / Devilment off cooldown for the remainder of the fight with the 3rd usage in Perfect Alexander realigning with the potion. Coordinate with the other members of your raid group to keep 2 minute raid buffs aligned.
 
+
 Shield Samba can be used for Optical Sight damage (since there is no other good time to use it before the Irresistible Grace at the end of the fight).
-Fate Calibration Alpha (ɑ)
+
+## Fate Calibration Alpha (ɑ)
 You can use Standard Step on cooldown, even during Fate Calibration Alpha (ɑ) but might need to hold for a second depending on whether the mechanic involves Ordained Stillness or not. Hold the Standard Finish until Perfect Alexander comes back.
+
 
 Between Fate Calibration Alpha (ɑ) and Fate Calibration Beta (β), you will want to use Technical Step / Devilment as they come up (and aligned with the rest of your group’s 2 minute buffs).
 
-Fate Calibration Beta (β) through Enrage
+
+## Fate Calibration Beta (β) through Enrage
 Curing Waltz can be used after the Shared Sentence / Super Jump damage to help cover some of the healing to survive the Optical Sight damage.
+
 
 Standard Step can be used as early as the Optical Sight cast is being done by the Perfect Alexander Mirage in order for it to be within 15 seconds of Perfect Alexander being targetable.
 
+
 Communicate with your raid team with mitigation coordination whether you should use Shield Samba either for first Irresistible Grace or second. Curing Waltz can be used after the first Irresistible Grace (as well as a snapshotted flash of Improvisation heal buff).
 
+
 The last Technical Finish / Devilment should be delayed to line up with when the potion comes off cooldown (which occurs as you are dodging into second Irresistible Grace).
+
 
 For the enrage sequence, it makes sense for players to get jailed in the order of how much damage they do with lowest damage getting jailed first. Since DNC does the least amount of damage at that point in the fight for the DPS jobs (especially outside of Technical / Devilment), DNC should go into the 5th jail. If you have a GNB in your group, consider having the DNC go into the 4th jail and the GNB going into the 5th jail since they get more out of their No Mercy window (especially getting off a last usage of Gnashing Fang combo, Sonic Break, and Bow Shock) and need more time to get everything off. This GNB burst also does more damage than getting off a couple of proc GCDs from the DNC’s Flourish. The difference between 4th and 5th jail for DNC does not affect how many Standard Finishes you can get off in that final phase as well, so ultimately it can be a net gain for your group for DNC to go 4th jail and GNB to go 5th jail.
