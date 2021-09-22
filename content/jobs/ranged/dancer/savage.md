@@ -455,7 +455,7 @@ Cons:
 * 6:10 - Possibly the worst window, as Arm’s Length needs to be used at the same time you are likely performing your Technical dance.
 
   * Example Technical window from one of my early logs: ![](https://cdn.discordapp.com/attachments/458951851610734595/890373394095308800/unknown.png)
-  * To prevent knockback, Arm’s Length needs to be used during the single-weave slot immediately after Technical Finish. From first-hand experience, trying to greed devilment first will not work. If Technical Step is accidentally delayed by an extra GCD, you can instead weave Arm’s Length on initiation of Technical Step.
+  * To prevent knockback, Arm’s Length needs to be used during the single-weave slot immediately after Technical Finish. From first-hand experience, trying to greed Devilment first will not work. If Technical Step is accidentally delayed by an extra GCD, you can instead weave Arm’s Length on initiation of Technical Step.
   * If you did not delay a GCD during Junction Shiva, this window will obviously become much easier to manage, as you can do a normal re-opener and Arm’s Length the following GCD.
 
 ## Recommended Samba Timings
