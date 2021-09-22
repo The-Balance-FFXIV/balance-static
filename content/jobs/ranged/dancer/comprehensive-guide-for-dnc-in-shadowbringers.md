@@ -1,11 +1,11 @@
 ---
 title: Comprehensive Guide for DNC in Shadowbringers
 ---
-Comprehensive Guide for DNC in Shadowbringers
+# Comprehensive Guide for DNC in Shadowbringers
 
 
-By: Ringabel Dim of Excalibur
-Last Updated: August 12, 2020
+*By: Ringabel Dim of Excalibur*  
+Last Updated: August 12, 2020  
 (Current as of Patch 5.3)
 
 
@@ -13,7 +13,10 @@ Last Updated: August 12, 2020
 
 
 
-Table of Contents
+
+---
+
+# Table of Contents
 Purpose and Introduction							…………….3
 Basic DNC Overview							…………….4-5
 Range of Actions and Abilities						…………….6
@@ -53,7 +56,10 @@ Common Abbreviations							…………….52
 	Changelog									…………….55
 
 
-Purpose and Introduction
+
+---
+
+# Purpose and Introduction
 
 The purpose of this guide is to be a comprehensive gameplay guide for how to play and optimize the DNC rotation. This guide goes over the fundamentals and job basics while also looking into advanced tips and tricks that experienced players may not know. Due to the randomness of the proc, feather, and esprit generation, DNC has a dynamic playstyle where no two pulls are ever the same. Hopefully after reading this guide, you will have a better understanding of how to play DNC to its fullest.
 
