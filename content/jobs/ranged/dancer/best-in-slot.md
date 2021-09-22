@@ -24,8 +24,8 @@ Best Starting Gearset before accessing any weekly savage gear pieces or spending
 ### Best-in-slot for The Epic of Alexander (TEA)
 
 * Uses the 475 Helm, Chest, Legs, Earrings, and Ring from The Heroes' Gauntlet as well as 470 Tomestones of Phantasmagoria pieces and 470 Eden's Gate Savage pieces.  
-* Use Smoked Chicken + Grade 4 Tincture of Dexterity  
-* BiS with Relic Weapon (i535): <https://etro.gg/gearset/22bf8499-0469-44a2-9174-be8f3174a488> (max dps set)  
+* Uses Smoked Chicken + Grade 4 Tincture of Dexterity  
+* BiS with Relic Weapon (i535): <https://etro.gg/gearset/22bf8499-0469-44a2-9174-be8f3174a488> (max DPS set)  
 * BiS with Relic Weapon (i515): <https://etro.gg/gearset/7c9052ac-000c-4b05-b6d8-9c1649516054>   
 * BiS with Edengrace Weapon: <https://etro.gg/gearset/46df8892-190c-4f43-a5d7-d9ad95342eb0>
 * BiS with Ultimate Twashtar (TEA weapon): <https://etro.gg/gearset/04fb4305-78a5-4ab2-b0b4-02590763abd3>
@@ -44,8 +44,8 @@ It’s BiS for current savage content and for old ilvl synced content.
 
 ### For current level 80 content:
 
-If you are missing other items for BiS, a good starting point is maxing CRIT and DH and putting the rest in DET. You can min/max your relic for your needs by plugging your gear into <https://etro.gg/> and watching for wasted secondary stats.\
-To minimize wasted stats, reallocate secondary stats from crit that go above current stat tier into DET and then adjust DET/DH distribution until total wasted secondary stats is less than 6.\
+If you are missing other items for BiS, a good starting point is maxing Crit and DH and putting the rest in DET. You can min/max your relic for your needs by plugging your gear into <https://etro.gg/> and watching for wasted secondary stats.\
+To minimize wasted stats, reallocate secondary stats from Crit that go above current stat tier into DET and then adjust DET/DH distribution until total wasted secondary stats is less than 6.\
 Keep in mind you'll have to do this every time you get a gear upgrade. Staying with max Crit / max DH / rest DET while gearing up is fine too.
 
 For 5.55 BiS: (see gearset in BiS section)\
@@ -60,7 +60,7 @@ DH = 280, Crit = 342, Det = 280, SkS = 280 *Caps all 4 stats so the last 62 poin
 For UWU:\
 DH = 318, Crit = 318, Det = 318, SkS = 228 *Caps on DH / Crit / Det and rest in SkS
 
-## ilvl 515 DNC Relic
+## iLvl 515 DNC Relic
 
 ### For current level 80 content:
 
