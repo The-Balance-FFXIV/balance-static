@@ -19,7 +19,7 @@ Crit > DH > DET
 
 [Guide to gearing DNC (5.58)](https://docs.google.com/document/d/1FPD-xboF_kWqynF9zXJdijOyYJkVjHjMhBbRg11apd4/edit?usp=sharing) - includes starting gear and tomestone buy order
 
-Best Starting Gearset before accessing any weekly savage gear pieces or spending Tomestones of Revelation: view this [Starting Gearset on Etro](https://etro.gg/gearset/702816d1-c9ef-4ee1-836f-6e9a751b9673)
+Best Starting Gearset before accessing any weekly savage gear pieces or spending Tomestones of Revelation: view this [Starting Gearset on Etro](https://etro.gg/gearset/702816d1-c9ef-4ee1-836f-6e9a751b9673).
 
 ### Best-in-slot for The Epic of Alexander (TEA)
 
