@@ -376,7 +376,7 @@ As there is enough downtime between each mechanic, it is possible to mix and mat
 
 ## Standard Step
 
-Making sure Standard Step is not drifted at all until the 6 minute mark can garner you an extra use. It’s up to you to decide whether or not the potency gain from the extra dance is worth the potential potency loss of not delaying Standard Step in any of the Technical windows up to this point (in cases of excess Esprit, or simply human error).
+Making sure Standard Step is not drifted at all until the six minute mark can garner you an extra use. It’s up to you to decide whether or not the potency gain from the extra dance is worth the potential potency loss of not delaying Standard Step in any of the Technical windows up to this point (in cases of excess Esprit, or simply human error).
 
 ## Recommended Samba Timings
 
