@@ -473,7 +473,7 @@ Realistically, if not using Technical Step during Shiva, you could use Samba the
 
 Per Ringabel, his group’s plan is as follows:
 
-* 2:10 - After icicles drop, but before knockback damage.
+* 2:10 - After Icicles drop, but before knockback damage.
 * 4:18 - Covers both Obliterations Maleficums.
 * 7:14 - Covers the Shiva/Titan mechanic with Obliteration Maleficum.
 
