@@ -17,9 +17,9 @@ Crit > DH > DET
 
 ## Gearing Up Guide
 
-[Guide to gearing DNC (5.58)](<https://docs.google.com/document/d/1FPD-xboF_kWqynF9zXJdijOyYJkVjHjMhBbRg11apd4/edit?usp=sharing>) - includes starting gear and tomestone buy order
+[Guide to gearing DNC (5.58)](https://docs.google.com/document/d/1FPD-xboF_kWqynF9zXJdijOyYJkVjHjMhBbRg11apd4/edit?usp=sharing) - includes starting gear and tomestone buy order
 
-Best Starting Gearset before accessing any weekly savage gear pieces or spending Tomestones of Revelation: view this [Starting Gearset on Etro](<https://etro.gg/gearset/702816d1-c9ef-4ee1-836f-6e9a751b9673>)
+Best Starting Gearset before accessing any weekly savage gear pieces or spending Tomestones of Revelation: view this [Starting Gearset on Etro](https://etro.gg/gearset/702816d1-c9ef-4ee1-836f-6e9a751b9673)
 
 ### Best-in-slot for The Epic of Alexander (TEA)
 
@@ -27,7 +27,7 @@ Best Starting Gearset before accessing any weekly savage gear pieces or spending
 * Uses Smoked Chicken + Grade 4 Tincture of Dexterity  
 * [BiS with Relic Weapon (i535)](https://etro.gg/gearset/22bf8499-0469-44a2-9174-be8f3174a488)- (max DPS set)  
 * [BiS with Relic Weapon (i515)](https://etro.gg/gearset/7c9052ac-000c-4b05-b6d8-9c1649516054)  
-* BiS with Edengrace Weapon: <https://etro.gg/gearset/46df8892-190c-4f43-a5d7-d9ad95342eb0>
+* [BiS with Edengrace Weapon](https://etro.gg/gearset/46df8892-190c-4f43-a5d7-d9ad95342eb0): <https://etro.gg/gearset/46df8892-190c-4f43-a5d7-d9ad95342eb0>
 * BiS with Ultimate Twashtar (TEA weapon): <https://etro.gg/gearset/04fb4305-78a5-4ab2-b0b4-02590763abd3>
 * Note: Change meld on the belt with the extra meld slot on the weapon. 
 
