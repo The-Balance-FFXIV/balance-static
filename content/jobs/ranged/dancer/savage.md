@@ -102,7 +102,7 @@ by Io Whitespirit (Faerie)
 
 # FOREWORD
 
-This is a general guide written for Dancers who are looking to optimize their performance in Eden’s Promise. Note that these are simply suggestions; for groups that know their precise kill times, other timings may be more ideal especially to allow for final burst and to line up with 3 minute buffs/pots. There are likely also variations of strategies which may either restrict the ability to do some of the following suggestions, or conversely allow for Technical windows I considered difficult in this document due to ongoing mechanics.
+This is a general guide written for Dancers who are looking to optimize their performance in Eden’s Promise. Note that these are simply suggestions; for groups that know their precise kill times, other timings may be more ideal especially to allow for final burst and to line up with three minute buffs/pots. There are likely also variations of strategies which may either restrict the ability to do some of the following suggestions, or conversely allow for Technical windows I considered difficult in this document due to ongoing mechanics.
 
 I’d like to thank all the other Dancer mentors and helpfuls on the Balance for their constant help and for their input on this guide, as a document like this wouldn’t be possible without their support. Thank you all for your work!
 
@@ -116,13 +116,13 @@ Despite being the introductory raid to the tier, optimizing it on Dancer has bee
 
 ## Technical Windows
 
-There are a few recommended ways to handle Technical windows for this fight. The first is for kill times over 6:30; the second is in the situation where your group is killing between ~6:20-6:30; and the third is where your group is killing too fast to even allow for much of the 6 minute burst window.
+There are a few recommended ways to handle Technical windows for this fight. The first is for kill times over 6:30; the second is in the situation where your group is killing between ~6:20-6:30; and the third is where your group is killing too fast to even allow for much of the six minute burst window.
 
 ### **1) Drifting to ensure the full group gets buffed**
 
 0:07\
 2:10\
-4:17 (delay three GCDs)\
+4:17 (delay 3 GCDs)\
 6:17\
 8:17  
 
@@ -134,7 +134,7 @@ Pros:
 Cons:    
 
 * Requires coordination with the rest of your group with regards to raid buff timings.
-* May lose some of the 6 minute Technical window if killing too fast.
+* May lose some of the six minute Technical window if killing too fast.
 
 ### **2) No drift (somewhat speedy group)**
 
@@ -160,12 +160,12 @@ Cons:
 
 Pros:
 
-* Lines up raid buffs as best as possible when a 6 minute burst window is no longer achievable.
+* Lines up raid buffs as best as possible when a six minute burst window is no longer achievable.
 * Allows for a burst window under second potion.
 
 Cons:
 
-* Loses a use of Technical at 6 minutes.
+* Loses a use of Technical at six minutes.
 
 ## Recommended Samba Timings
 
@@ -181,7 +181,7 @@ The standard timings for the 0 minute window and 6:xx window are fine here. Use 
 
 ## Adds
 
-If your group is not planning to intentionally let the adds get past, and you are on the outside, you can cleave both the add and the boss by standing on the pattern below once the add has spawned and has traveled a short distance. Note: if you plan on using Fan Dance II, this is leading up to a Technical window, and you’ll need to assess if the 50 extra potency outside of raid buffs is worth it compared to dumping fans with raid buffs at the 4 minute mark.
+If your group is not planning to intentionally let the adds get past, and you are on the outside, you can cleave both the add and the boss by standing on the pattern below once the add has spawned and has traveled a short distance. Note: if you plan on using Fan Dance II, this is leading up to a Technical window, and you’ll need to assess if the 50 extra potency outside of raid buffs is worth it compared to dumping Fans with raid buffs at the 4 minute mark.
 
 ![](https://cdn.discordapp.com/attachments/458951851610734595/890372413127294976/unknown.png)
 
