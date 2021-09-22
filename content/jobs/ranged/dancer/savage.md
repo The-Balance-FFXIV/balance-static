@@ -384,7 +384,7 @@ There are many possibilities; adjust to your healers’ requests. Here are my ge
 
 * ~0:47 - Catches the elemental tether and the Burnished Glory.
 * ~3:10 - Catches the proteans with its respective fire/lightning mechanic, and if done late enough in the cast will also catch the subsequent Burnished Glory.
-* ~5:27 - Catches the Holy explosion and the subsequent proteans with its respective fire/lightning mechanic.
+* ~5:27 - Catches the Holy explosion and the subsequent Proteans with its respective fire/lightning mechanic.
 * ~7:47 - Catches the Holy/Fire tether during Mirrors.
 * ~9:47+ - Use it either late during the Holy cycle, or to cover the proteans during Lightning cycles. You can also choose to catch a specific Burnished Glory, and if casted late enough, it should cover the Proteans for the following cycle.
 
