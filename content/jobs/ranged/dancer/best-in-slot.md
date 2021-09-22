@@ -33,14 +33,14 @@ Best Starting Gearset before accessing any weekly savage gear pieces or spending
 
 ### Catch-all Gearset for other iLvl synced content (UCoB / UWU / Unreal Trials)
 
-<https://etro.gg/gearset/8e76dbd9-6828-45d1-ae6b-2d2051e2b09f>\
+[Catch-All Gearset](https://etro.gg/gearset/8e76dbd9-6828-45d1-ae6b-2d2051e2b09f)- \
 Use Smoked Chicken + Grade 4 Tincture of Dexterity
 
 Not max DPS, but close enough for a catch-all gear set that uses most of current 5.4 BiS gear for synced encounters. Swaps out non-Crit gear pieces for pieces that have Crit. (When last checked, difference between this set and theoretical BiS is ~0.15% DPS difference)
 
 ## What to do with ilvl 535 DNC Relic
 
-It’s BiS for current savage content and for old ilvl synced content.
+It’s BiS for current savage content and for old iLvl synced content.
 
 ### For current level 80 content:
 
