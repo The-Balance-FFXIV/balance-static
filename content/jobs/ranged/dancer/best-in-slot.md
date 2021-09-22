@@ -49,16 +49,16 @@ To minimize wasted stats, reallocate secondary stats from Crit that go above cur
 Keep in mind you'll have to do this every time you get a gear upgrade. Staying with max Crit / max DH / rest DET while gearing up is fine too.
 
 For 5.55 BiS: (see gearset in BiS section)\
-DH = 358, Crit = 523, Det = 301, SkS = 0
+DH = 358, Crit = 523, DET = 301, SkS = 0
 
 For TEA: (see gearset in TEA section)\
-DH = 346, Crit = 452, Det = 384, SkS = 0
+DH = 346, Crit = 452, DET = 384, SkS = 0
 
 For UCoB:\
-DH = 280, Crit = 342, Det = 280, SkS = 280 *Caps all 4 stats so the last 62 points don’t matter. 
+DH = 280, Crit = 342, DET = 280, SkS = 280 *Caps all 4 stats so the last 62 points don’t matter. 
 
 For UWU:\
-DH = 318, Crit = 318, Det = 318, SkS = 228 *Caps on DH / Crit / Det and rest in SkS
+DH = 318, Crit = 318, DET = 318, SkS = 228 *Caps on DH / Crit / Det and rest in SkS
 
 ## iLvl 515 DNC Relic
 
