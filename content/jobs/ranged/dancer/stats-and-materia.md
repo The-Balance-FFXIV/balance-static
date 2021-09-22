@@ -13,7 +13,7 @@ It’s BiS for current Savage content and for old iLvl synced content.
 
 ## For current level 80 content:
 
-If you are missing other items for BiS, a good starting point is maxing CRIT and DH and putting the rest in DET. You can min/max your relic for your needs by plugging your gear into <https://etro.gg/> and watching for wasted secondary stats. To minimize wasted stats, reallocate secondary stats from Crit that go above current stat tier into DET and then adjust DET/DH distribution until total wasted secondary stats is less than 6. Keep in mind you'll have to do this every time you get a gear upgrade. Staying with max Crit / max DH / rest DET while gearing up is fine too.
+If you are missing other items for BiS, a good starting point is maxing CRIT and DH and putting the rest in DET. You can min/max your relic for your needs by plugging your gear into [Etro](https://etro.gg/) and watching for wasted secondary stats. To minimize wasted stats, reallocate secondary stats from Crit that go above current stat tier into DET and then adjust DET/DH distribution until total wasted secondary stats is less than 6. Keep in mind you'll have to do this every time you get a gear upgrade. Staying with max Crit / max DH / rest DET while gearing up is fine too.
 
 ## For 5.55 BiS: (see gearset in BiS section)
 
