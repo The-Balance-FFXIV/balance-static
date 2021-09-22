@@ -331,44 +331,52 @@ Because of the nature of this phase, there is no good time to snapshot an improv
 
 
 # Alexander Prime
-Temporal Stasis / Initial Alexander Primer Opener
+
+## Temporal Stasis / Initial Alexander Primer Opener
 For the start of the Alexander Prime phase, start Standard Step when Brute Justice and Cruise Chase appear before Temporal Stasis. Use a potion right before you get frozen (note: there is no other time you can use a potion during this phase without delaying and potentially missing a potion usage during Perfect Alexander).
+
 
 Alexander Prime is targetable for 30 seconds allowing for either 2 Standard Finishes (if you start Standard Finish during Temporal Stasis), 1 Technical Step/Finish (if TF/DM are up), and 7 GCDs --OR-- 2 Standard Finishes and 9-10 GCDs (depending on how quickly you land the Standard Finish when Alexander Prime becomes targetable). The opener when Alexander Prime is targetable will look like one of two things (depending on whether Technical Step / Devilment are on cooldown).
 
-Option 1 (with Technical Step / Devilment):
 
-*Pop Potion right before getting frozen for Temporal Stasis* Standard Finish -> Technical Step -> Technical Finish (Devilment) -> Saber Dance (Flourish, Fan Dance III) -> Saber Dance (FD1) -> Fountainfall -> Bloodshower -> Standard Step  -> Standard Finish -> Saber Dance -> Rising Windmill -> Reverse Cascade
+- Option 1 (with Technical Step / Devilment):
 
-Option 2 (no Technical Step / Devilment):
+  - *Pop Potion right before getting frozen for Temporal Stasis* Standard Finish -> Technical Step -> Technical Finish (Devilment) -> Saber Dance (Flourish, Fan Dance III) -> Saber Dance (FD1) -> Fountainfall -> Bloodshower -> Standard Step  -> Standard Finish -> Saber Dance -> Rising Windmill -> Reverse Cascade
 
-*Pop Potion right before getting frozen for Temporal Stasis* Standard Finish (Flourish) -> 6 GCDs - > Standard Step -> Standard Finish -> 3-4 more GCDs
 
-In the event you are doing Option 2 and are determining what to do for those last 3-4 GCDs, use basic DNC GCD priority (1 - 3 - 2 - 4) with one small exception: if your 3rd to last GCD before the boss jumps was a Cascade that procs a Reverse Cascade, do Fountain for the next GCD, wait to see if you get a Fountainfall proc and if you do, use Fountainfall as your last proc and let the Reverse Cascade drop, otherwise use Reverse Cascade. This is a small (50 potency) gain from optimizing which proc you let fall by fishing for a Fountainfall.
+- Option 2 (no Technical Step / Devilment):
 
-Inception Formation / Alex Prime targetable again
+  - *Pop Potion right before getting frozen for Temporal Stasis* Standard Finish (Flourish) -> 6 GCDs - > Standard Step -> Standard Finish -> 3-4 more GCDs
+
+In the event you are doing Option 2 and are determining what to do for those last 3-4 GCDs, use basic DNC GCD priority (1 - ***3*** - 2 - ***4***) with one small exception: if your 3rd to last GCD before the boss jumps was a Cascade that procs a Reverse Cascade, do Fountain for the next GCD, wait to see if you get a Fountainfall proc and if you do, use Fountainfall as your last proc and let the Reverse Cascade drop, otherwise use Reverse Cascade. This is a small (50 potency) gain from optimizing which proc you let fall by fishing for a Fountainfall.
+
+
+## Inception Formation / Alex Prime targetable again
 
 While Inception Formation is happening, you can use Standard Step on cooldown to keep the Standard Finish buff on you and your partner. It will come back so you will be able to pre-step before Alexander Prime is targetable again and still gain a usage of Standard Finish during that time. When the True Heart is available to hit, you should be hitting it to generate esprit and feathers (from using generated procs). You may be able to save a proc that is generated in this way for when Alexander Prime returns if it is a proc that is generated as your last GCD on the True Heart as it is running away and if you use it right after your Finish when Alexander Prime comes back.
 
+
 You can use Shield Samba during Inception Formation for the x4 Tetrashatter damage. It will come back up to use during Trio Enrage if used at this time. Curing Waltz can be used to help heal people after Tetrashatter damage.
+
 
 After Inception Formation, Alexander Prime becomes targetable for approximately 30 seconds again (same amount of time as after Temporal Stasis). Here, there are three recommendations for what to do for your rotation depending on whether you used Technical Step / Devilment during previous re-opener. Two of them are the same as the re-opener (just use the one with Technical Step / Devilment if you didn’t use it on re-opener, or vice versa) and the third rotation is an adjustment to the Technical Step/ Devilment rotation that may better ensure your group has Technical Step and Devilment up at start of Perfect Alexander (if you kill Alexander Prime rather quickly).
 
-Option 1 (no Technical Step / Devilment):
 
-(Standard Step 10-15 seconds before Alexander Prime becomes targetable) Standard Finish (Flourish) -> 6 GCDs - > Standard Step -> Standard Finish -> 3-4 more GCDs
+- Option 1 (no Technical Step / Devilment):
 
-Option 2 (with Technical Step / Devilment):
+  - (Standard Step 10-15 seconds before Alexander Prime becomes targetable) Standard Finish (Flourish) -> 6 GCDs - > Standard Step -> Standard Finish -> 3-4 more GCDs
 
-(Standard Step 10-15 seconds before Alexander Prime becomes targetable) Standard Finish -> Technical Step -> Technical Finish (Devilment) -> Saber Dance (Flourish, Fan Dance III) -> Saber Dance (FD1) -> Fountainfall -> Bloodshower -> Standard Step  -> Standard Finish -> Saber Dance -> Rising Windmill -> Reverse Cascade
+- Option 2 (with Technical Step / Devilment):
 
-Option 3 (with Technical Step / Devilment):
+  - (Standard Step 10-15 seconds before Alexander Prime becomes targetable) Standard Finish -> Technical Step -> Technical Finish (Devilment) -> Saber Dance (Flourish, Fan Dance III) -> Saber Dance (FD1) -> Fountainfall -> Bloodshower -> Standard Step  -> Standard Finish -> Saber Dance -> Rising Windmill -> Reverse Cascade
 
-(Technical Step 10-15 seconds before Alexander Prime becomes targetable) Technical Finish (Devilment) -> Saber Dance (FD1) -> Standard Step -> Standard Finish (Flourish) -> etc…
+- Option 3 (with Technical Step / Devilment):
+
+  - (Technical Step 10-15 seconds before Alexander Prime becomes targetable) Technical Finish (Devilment) -> Saber Dance (FD1) -> Standard Step -> Standard Finish (Flourish) -> etc…
 
 Option 3 has one less Standard Finish due to not pre-dancing a Standard Step and instead dancing Technical Step first. This puts Technical Step on cooldown sooner which allows for it to be used earlier during the Trio Enrage sequence for the next cast of Technical. If your group is killing Alexander Prime rather quickly, this will allow for a little bit more time for Technical Step to come up during the re-opener of Perfect Alexander.
 
-Repeated here regarding what to do for your last couple of GCDs before boss jumps: In the event you are doing Option 1 or Option 3 and are determining what to do for those last 3-4 GCDs, use basic DNC GCD priority (1 - 3 - 2 - 4) with one small exception: if your 3rd to last GCD before the boss jumps was a Cascade that procs a Reverse Cascade, do Fountain for the next GCD, wait to see if you get a Fountainfall proc and if you do, use Fountainfall as your last proc and let the Reverse Cascade drop, otherwise use Reverse Cascade. This is a small (50 potency) gain from optimizing which proc you let fall by fishing for a Fountainfall.
+Repeated here regarding what to do for your last couple of GCDs before boss jumps: In the event you are doing Option 1 or Option 3 and are determining what to do for those last 3-4 GCDs, use basic DNC GCD priority (1 - ***3*** - 2 - ***4***) with one small exception: if your 3rd to last GCD before the boss jumps was a Cascade that procs a Reverse Cascade, do Fountain for the next GCD, wait to see if you get a Fountainfall proc and if you do, use Fountainfall as your last proc and let the Reverse Cascade drop, otherwise use Reverse Cascade. This is a small (50 potency) gain from optimizing which proc you let fall by fishing for a Fountainfall.
 
 Wormhole Formation / pre-Trio Enrage Alexander Prime
 During Wormhole formation, use Improvisation wherever your party is stacking to bait chakrams. Improvisation will be back up before Perfect Alexander transition if used at this time. Curing Waltz can be used to help top people off before Incinerating Heat damage goes off. However, if you use Curing Waltz here, you’ll have to delay when you precast Standard Step until after you use Curing Waltz. Otherwise, if you plan on not using Curing Waltz here, you can start Standard Step after Cruise Chaser dashes to the person with number 6 for the 15 second precast. It is also highly recommended to use Arm’s Length for the Alpha Sword / Super Blassty Charge mechanic.
