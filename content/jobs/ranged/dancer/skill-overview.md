@@ -30,11 +30,13 @@ title: Skill Overview
 | Icon | Improvisation|80 | Ability | Instant | 120s | Dance to the beat of your own drum, granting Improvisation to self.
 
 # Step Actions
-Action	Acquired	Quest requirement	Level	Type	MP	Casting	Recast	Description
-Emboite.png  Emboite	Dancer frame icon1.png DNC		15	Ability		Instant	1s	Perform an emboite.
-Entrechat.png  Entrechat	Dancer frame icon1.png DNC		15	Ability		Instant	1s	Perform an entrechat.
-Jete.png  Jete	Dancer frame icon1.png DNC		15	Ability		Instant	1s	Perform a jete.
-Pirouette.png  Pirouette	Dancer frame icon1.png DNC		15	Ability		Instant	1s	Perform a pirouette.
+| Icon | Action | Level | Type | Casting | Recast | Description |
+|------|--------|-------|------|---------|--------|-------------|
+| Icon | Emboite | 15 | Ability | Instant | 1s | Perform an emboite.
+| Icon | Entrechat | 15 | Ability | Instant | 1s | Perform an entrechat.
+| Icon | Jete | 15 | Ability | Instant | 1s | Perform a jete.
+| Icon | Pirouette	Dancer frame icon1.png DNC		15	Ability		Instant	1s	Perform a pirouette.
+
 PvP actions
 Physical Ranged DPS actions
 Action	Acquired	Level	Type	MP	TP	Casting	Recast	Description
