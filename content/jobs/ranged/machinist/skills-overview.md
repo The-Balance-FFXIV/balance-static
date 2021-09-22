@@ -28,7 +28,7 @@ Shares recast timer with Bioblaster. 700 Potency GCD
 
 Ensures next weapon skill is a critical direct hit. oGCD  55s cooldown 
 
-![Hypercharge](https://xivapi.com/i/003000/003041.png)  
+![Hypercharge](https://i.imgur.com/4UclC7B.png)  
 **Hypercharge**
 
 Enables the usage of Heat Blast. Buffs weapon skills used for the next 8s.  \
