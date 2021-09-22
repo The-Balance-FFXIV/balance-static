@@ -17,7 +17,7 @@ The GCD makes a meaningful difference in how far the end of WM is going to move 
 
 - - -
 
-# Single target FAQ
+# Single Target FAQ
 
 > *When should I use Raging Strikes after the opener?*
 
@@ -37,7 +37,7 @@ As soon as you hit 100 gauge. You can hold it 1-2 GCDs, or use it at 90-95, if i
 
 > *Should I hold Empyreal Arrow under Army's Paeon?*
 
-Only if you're within ~2s of starting Wanderer's Minuet. Otherwise, fire away - you get 2 EAs under each Minuet/Ballad regardless.
+Only if you're within ~2s of starting Wanderer's Minuet. Otherwise, fire away - you get two EAs under each Minuet/Ballad regardless.
 
 > *Can I do anything with Enhanced Army's Paeon?*
 
@@ -61,8 +61,7 @@ Targeting macros (`<tt>`, `<2>`, and so on) for Nature's Minne and Warden's Paea
 
 > *How many DoTs should I put up?*
 
-It's complicated. The full guide ([link here](https://guides.xivresources.com/jobs/ranged/bard/the-pursuit-of-comfiness-bard-guide-5-x/)) goes into the details.\
-But as a very general rule of thumb, any DoT that will run most to all of its 30s (i.e. the mob won't die soon) is worth applying.
+It's complicated. The full guide ([link here](https://guides.xivresources.com/jobs/ranged/bard/the-pursuit-of-comfiness-bard-guide-5-x/)) goes into the details. But, as a very general rule of thumb, any DoT that will run most to all of its 30s (i.e. the mob won't die soon) is worth applying.
 
 > *How does Shadowbite's damage work?*
 
@@ -83,8 +82,7 @@ Otherwise, follow the basic priority [in the [Stats and Materia guide](https://g
 
 > *Is piece x better than piece y?*
 
-The higher item level piece is better. If they're the same iLvl, the one with better substats (see priorities above) is better.\
-A piece with more total substats (i.e. five meld slots) can be better than one the next iLvl step up, but usually they're roughly equal at best and you lose HP for it. 
+The higher item level piece is better. If they're the same iLvl, the one with better substats (see priorities above) is better. A piece with more total substats (i.e. five meld slots) can be better than one the next iLvl step up, but usually they're roughly equal at best and you lose HP for it. 
 
 > *Should I pentameld my crafted gear?*
 
