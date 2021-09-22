@@ -67,10 +67,10 @@ DH = 318, Crit = 318, DET = 318, SkS = 228 *Caps on DH / Crit / DET and rest in 
 Staying with max Crit / max DH / rest DET while gearing up is fine.
 
 For TEA: (see gearset in TEA section)\
-DH = 407, Crit = 452, Det = 308, SkS = 0 
+DH = 407, Crit = 452, DET = 308, SkS = 0 
 
 For UCoB:\
-DH = 280, Crit = 327, Det = 280, SkS = 280 *Caps on all 4 stats so last 47 points don’t matter. 
+DH = 280, Crit = 327, DET = 280, SkS = 280 *Caps on all 4 stats so last 47 points don’t matter. 
 
 For UWU:\
-DH = 314, Crit = 318, Det = 318, SkS = 217 *4 points are moved from DH cap to SkS to reach an extra GCD tier (2.46 vs. 2.47)
+DH = 314, Crit = 318, DET = 318, SkS = 217 *4 points are moved from DH cap to SkS to reach an extra GCD tier (2.46 vs. 2.47)
