@@ -397,8 +397,8 @@ There are many possibilities; adjust to your healers’ requests. Here are my ge
 
 * 2:32 - First downtime, while waiting to be knocked back.
 * 5:57 - Second downtime, while waiting to be knocked back. Note that you need to position yourself to be knocked back the correct direction before you start channeling.
-  An alternative to this is waiting until everyone is stacked together and praying that you don’t get the holy tether. This gets more ticks than doing it before the knockback, but as at least one player is not stacked with the group you will not be getting a full 10 esprit per tick.
-* 8:30 - During prismatic, while waiting for the first ghosts to resolve. The more players you can get to join you, the better.
+  An alternative to this is waiting until everyone is stacked together and praying that you don’t get the Holy tether. This gets more ticks than doing it before the knockback, but as at least one player is not stacked with the group you will not be getting a full 10 Esprit per tick.
+* 8:30 - During Prismatic, while waiting for the first ghosts to resolve. The more players you can get to join you, the better.
 
 # E12S DOOR - EDEN’S PROMISE
 
