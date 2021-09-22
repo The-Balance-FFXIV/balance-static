@@ -35,17 +35,15 @@ title: Skill Overview
 | Icon | Emboite | 15 | Ability | Instant | 1s | Perform an emboite.
 | Icon | Entrechat | 15 | Ability | Instant | 1s | Perform an entrechat.
 | Icon | Jete | 15 | Ability | Instant | 1s | Perform a jete.
-| Icon | Pirouette	Dancer frame icon1.png DNC		15	Ability		Instant	1s	Perform a pirouette.
+| Icon | Pirouette | 15 | Ability | Instant | 1s | Perform a pirouette.
 
-PvP actions
-Physical Ranged DPS actions
-Action	Acquired	Level	Type	MP	TP	Casting	Recast	Description
-Leg Graze.png  Leg Graze	Physical Ranged DPS role.png Physical Ranged DPS	6	Ability			Instant	30s	Inflicts target with Heavy +40%.
-Second Wind.png  Second Wind	Melee DPS role.png Melee DPS
-Physical Ranged DPS role.png Physical Ranged DPS	8	Ability			Instant	120s	Instantly restores own HP.
-Foot Graze.png  Foot Graze	Physical Ranged DPS role.png Physical Ranged DPS	10	Ability			Instant	30s	Binds target.
-Peloton.png  Peloton	Physical Ranged DPS role.png Physical Ranged DPS	20	Ability			Instant	5s	Increases movement speed of self and nearby party members as long as they remain within distance.
-Head Graze.png  Head Graze	Physical Ranged DPS role.png Physical Ranged DPS	24	Ability			Instant	30s	Interrupts the use of a target's action.
-Arm's Length.png  Arm's Length	Melee DPS role.png Melee DPS
-Physical Ranged DPS role.png Physical Ranged DPS
-Tank role.png Tank	32	Ability			Instant	120s	Creates a barrier nullifying most knockback and draw-in effects.
+
+# Physical Ranged DPS actions
+| Icon | Action | Level | Type | Casting | Recast | Description |
+|------|--------|-------|------|---------|--------|-------------|
+| Icon | Leg Graze|6|Ability|Instant|30s|Inflicts target with Heavy +40%.
+| Icon | Second Wind|8|Ability|Instant | 120s | Instantly restores own HP.
+| Icon | Foot Graze | 10 | Ability | Instant | 30s | Binds target.
+| Icon | Peloton | 20 | Ability | Instant | 5s | Increases movement speed of self and nearby party members as long as they remain within distance.
+| Icon | Head Graze | 24 | Ability | Instant | 30s | Interrupts the use of a target's action.
+| Icon | Arm's Length | 32 | Ability | Instant | 120s | Creates a barrier nullifying most knockback and draw-in effects.
