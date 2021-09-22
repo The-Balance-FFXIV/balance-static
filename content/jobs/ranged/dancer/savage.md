@@ -23,7 +23,7 @@ Special note: DNC fight specific tips can be difficult to identify due to some t
   * If you do your Technical Step off cooldown, you can delay your Standard Step by 1-2 GCDs so the steps lines up with Fury’s Fourteen knockback and the portion when Ramuh is untargetable, which reclaims potential lost GCD(s) during that knockback period.
   * **Conclusion:** If you do not know your kill time or are pugging the fight, it’s best to use Technical Step / Devilment / Flourish on cooldown and don’t delay for the Fury’s Fourteen knockback otherwise you may lose a cast. 
   * If you are trying to optimize this fight in a group setting, coordinate with other party members when to use raid buffs. Delaying these buffs together for after the knockback will most likely be a gain for your group provided you don’t lose a cast.
-* Second potion works best for the 4th Technical Step (which should be either around 6:10 or 6:30 depending on whether you kept 3rd Technical off cooldown or if you held it).
+* Second potion works best for the fourth Technical Step (which should be either around 6:10 or 6:30 depending on whether you kept third Technical off cooldown or if you held it).
 * DNCs are ranged and very mobile. Consider when grabbing an orb for mechanics to grab the ones that are farther away from the boss / farther away from party members to allow easier time for less mobile jobs to grab their orb. The tank kiting the bird add will appreciate this too.
 
 # E6S - Ifrit and Garuda
