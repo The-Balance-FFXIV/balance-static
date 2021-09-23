@@ -266,40 +266,34 @@ Special Notes:
 
 # Understanding Technical Step
 
+| Technical Step |    | Technical Finish|
+|:---:|---|:---:|
+|![](https://xivapi.com/i/003000/003473_hr1.png)| | ![](https://xivapi.com/i/003000/003474_hr1.png)
+
 Technical Step is very similar to Standard Step in how the steps are executed, with one big difference. Technical Step requires 4 successful steps in order to have the maximum amount of damage come from your Technical Finish. Technical step is also on a 120 second cooldown (starting from when Technical Step first gets initiated). When activating Technical Step, your Cascade, Fountain, Reverse Cascade, and Fountainfall GCDs will again be replaced with steps (Emboite, Entrechat, Jete, Pirouette) that are also color coded (red, blue, green, yellow). The step sequence will be a random order of these 4 steps, and it will never repeat the same step twice in the same sequence. The step sequence is displayed on your Step Gauge, but the correct steps will also light up on your hotbar in the order you need to press them (same as Standard Step). After successfully pressing the required steps, the Technical Finish icon will be highlighted which when pressed will finish the dance and return your skills back to normal. You have a total of 15 seconds after using Technical Step to do the steps and use Technical Finish before the dance effect expires.
 
-Example Step Gauge for Technical Step
 
+**Example Step Gauge for Technical Step**
+
+
+![Example Step Gauge for Technical Step](https://cdn.discordapp.com/attachments/458951851610734595/890403758721355796/unknown.png)
 
 The Technical Step sequence looks like this:
 
 
+![Technical Step sequence](https://cdn.discordapp.com/attachments/458951851610734595/890403892251213854/unknown.png)
+
 Altogether, Technical Step (1.5s GCD), the 4 steps (1.0s each), and Technical Finish (1.5s) will take a total of 7.0s. Depending on how many steps were correctly danced will affect how much damage Technical Finish does and how much of a damage bonus you and your party members receive:
 
-# of Steps properly executed
-Potency of Technical Finish on closest target hit
-Potency of Technical Finish on additional target(s) hit
-Damage% Buff (all party members)
-4 Step Successful
-1500
-375
-5%
-3 Step Successful
-1250
-312.5
-3%
-2 Step Successful
-1000
-250
-2%
-1 Step Successful
-750
-187.5
-1%
-0 Step Successful
-500
-125
-0%
+
+| # of Steps properly executed | Potency of Technical Finish on closest target hit | Potency of Technical Finish on additional target(s) hit |Damage% Buff (all party members) |
+|---|---|---|---|
+| 4 Step Successful | 1500 | 375| 5%
+3 Step Successful | 1250 | 312.5 | 3%
+2 Step Successful|1000|250|2%
+1 Step Successful|750|187.5|1%
+0 Step Successful|500|125|0%
+
 
 All players within a 15y radius of the DNC when they execute Technical Finish receive a 5% damage Technical Finish buff and an esprit generation buff (note: for you and your dance partner, this esprit generation buff does not stack with the normal Standard Finish esprit generation buff, but the 5% damage buff from Technical Finish does stack with Standard Finish’s damage buff). Both of these buffs last for 20 seconds upon successfully casting Technical Finish. Given that all players affected by Technical Finish will temporarily have the esprit generation buff during this time, esprit generation is significantly increased during this period.
 
