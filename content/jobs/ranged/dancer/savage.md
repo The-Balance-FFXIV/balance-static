@@ -218,7 +218,7 @@ There are two recommended ways of handling Technical windows for this fight, and
 2:10\
 4:10\
 6:10\
-8:20 (delay four GCDs)\
+8:20 (delay 4 GCDs)\
 10:20  
 
 Pros:
