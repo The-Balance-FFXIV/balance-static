@@ -217,8 +217,6 @@ In general, treat the opener and situations like these as the cornerstones of yo
 
 ## Cards and Divination
 
-“You just spent six pages talking about oGCDs *and you didn’t even cover raid buffs?*” Yes indeed. I said it would be an introduction, not that it would be brief.
-
 This is our identifying job mechanic. Shadowbringers brought us a full card rework (one that was much needed for the big-picture health of the game, but I digress). The rework has been very contentious, but it’s what we’ve got, and you’re here to learn how to use it. I don’t like going over tooltips in guides, but since this is a complete rework, I’m making an exception.
 
 ### Draw/Play
