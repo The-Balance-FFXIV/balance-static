@@ -13,7 +13,7 @@ If you wish to minmax further, a non-exhaustive list of best-in-slot configurati
 
 ## Offensive Cooldown Usage
 
-Optimizing your damage on Dark Knight revolves heavily around shifting your potency skills into raidbuffs, and ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, they will fall at the start of each phase, plus some time in the middle of each. For more detailed guidelines, see the sections below and consult with your group.
+Optimizing your damage on Dark Knight revolves heavily around shifting potency into raidbuffs, and ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, they will fall at the start of each phase, plus some time in the middle of each. For more detailed guidelines, see the sections below and consult with your group.
 
 ## Phase-by-phase optimization
 
@@ -48,4 +48,47 @@ Nail phase is another period of heavy tank damage, so make sure the tank holding
 
 ### Titan
 
-If Plunge is available when Titan first becomes targetable, you can use it immediately and have it back up after the Upheaval knockback. Otherwise, hold it in the opener for that purpose.
+If Plunge is off cooldown when Titan first becomes targetable, you can use it immediately and have it available after the Upheaval knockback. Otherwise, hold it in the opener for that purpose.
+
+Titan's Mountain Buster is one of the hardest-hitting tankbusters in the game, relative to max HP. Do not allow your cotank to take it without your TBN on them.
+
+Fast killtimes can play havoc with your Delirium windows. You may be forced to push them into awkward times, such as at Upheaval or Magitek Bits, where you will lose hits to avoid losing an entire use. For very fast killtimes, losing that use will be unavoidable and you should aim to align your group's buffs into one burst window.
+
+Don't be shy about dumping your mana before the phase ends. You will be able to generate nearly a full bar before Ultima is targetable.
+
+### Intermission
+
+Delirium can be used on the Magitek Bits and be available for Ultima opener. This doesn't do anything except make your parse better.
+
+Blood Weapon can be used on Lahabrea. You should get five or six GCDs on Lahabrea, depending on how quickly your melee uses LB.
+
+Make sure that you are the one who uses tank LB, as it looks the coolest.
+
+### Ultima
+
+General buff timings are:
+
+\- 60s cooldowns at opener, post-Predation, Annihilation, Aetheric Boom, and enrage
+
+\- 90s cooldowns at opener, Annihilation, Aetheric Boom, and enrage
+
+\- Tinctures at opener and enrage
+
+Example reopener here:\
+(picture of example opener)
+
+Rampart and your tincture can be used before Ultima. Shadow Wall can also be used prepull, but the timing is rather tight.
+
+Be careful about your usage of Reprisal on Tank Purges; it can inhibit LB generation and cause you to miss having LB3 post-Suppression.
+
+Post-Predation is a good time to use defensive cooldowns, as Ultima will do a long string of attacks.
+
+TBN by itself is sufficient for the Mistral Song damage during Suppression. Because you are guaranteed not to get the gaol, you can aid prog by banking blood and mana to dump into it.
+
+Decide with your cotank who is using which tank LB at Aetheric Boom; if you are using the LB1, you will need to use Delirium immediately once Ultima is targetable.
+
+Tank damage during primal roulette is very heavy, as Ultima will attack uninterrupted while multiple sources of damage pile on. You may opt to save Rampart at Aetheric Boom to use here. Either way, Dark Mind should be available for the second or third primal. Make sure the main tank gets a TBN.
+
+The main tank cannot be targeted by an Eruption during primal roulette, so don't be shy about standing where you need to to allow for melee positionals.
+
+Watch Ultima's HP; regardless of when your final burst is planned, you should use your tincture by the time the boss drops to around 15% HP to benefit from its full duration.
