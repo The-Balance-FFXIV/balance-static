@@ -355,15 +355,21 @@ When weaving oGCDs, you can double weave 2 oGCDs in between 2 regular weaponskil
 
 Theoretically, you can use Fan Dance and then wait to see whether Fan Dance III procs and if it doesn’t proc use Fan Dance again as your second oGCD. However, because Fan Dance has a 1 sec cooldown while animation lock of oGCDs is 0.8 sec, double weaving Fan Dance into Fan Dance is not recommended due to increased likelihood of clipping the GCD as well as relying on reaction time to decide whether you need to press Fan Dance III or Fan Dance as your second oGCD. Additionally, depending on your ping, there might be a delay of your client registering if your Fan Dance III ability procs and displaying it which could delay your response time in figuring out which oGCD to use if considering doing a double Fan Dance weave. Therefore, it is recommended to do Fan Dance and then hit the Fan Dance III button regardless of whether the ability procs. If it procs, you will have done Fan Dance into Fan Dance III. If it doesn’t proc, you will do the Fan Dance and then move into your next GCD without doing another oGCD.
 
+
 Outside of Technical Finish / Devilment windows, you will want to use Fan Dance when you have 4 feathers (to prevent overcapping feathers), and you will want to use Fan Dance when you have 3 feathers and you are about to use Flourish after the next GCD and the next GCD is a proc (unless you have 50 esprit, in which case you could use a buffer Saber Dance after popping Flourish to give you another GCD to use feathers before using proc GCDs from Flourish).
+
 
 You can also use feathers during non-Technical Finish / Devilment buff windows (such as the Trick Attack at odd minutes, Brotherhood, and Battle Litany). Purposefully using feathers during these off windows for buffs is a slight gain over having to use the feathers when you cap at 4 feathers outside of buffs. Keep in mind that on average you will generate approximately 2-3 feathers in a 45 second period of time (i.e. the time between when the off minute Trick Attack expires and the Trick Attack under Technical Finish / Devilment comes up), so you’ll likely be able to restock the feathers for your next Technical Finish / Devilment.
 
+
 Other than Fan Dance and Fan Dance III, DNC has several other oGCD offensive abilities such as Flourish and Devilment and several utility oGCDs from DNC specific actions (Curing Waltz, Shield Samba, Closed Position / Ending) to role actions (Arm’s Length, Head Graze, Leg Graze, Foot Graze, Second Wind). All of these oGCDs do not have any serious animation locks and are all able to be double weaved. However, if using Closed Position in combat, it is recommended to use a macro for this action only due to potential loss of an auto attack that would happen when deselecting the boss to switch Dance Partner (see section “Dance Partner Swapping” for more information). When using a macro like this, you do not want to double weave.
+
 
 Keep in mind when weaving Flourish, it will generate a Fan Dance III proc. Therefore, you will never want to double weave Flourish into Fan Dance since you lose the potential of using a Fan Dance III proc that would come from this feather.
 
+
 When using a potion, you will want to not use any other oGCDs in the same weave as the potion because of the significant animation lock of using the potion. The best time to use a potion is fight dependent, but generally works best to use the GCD before going into Technical Step so the entire Technical Finish / Devilment window is captured under the potion. If using a potion during a reopener (such as post add phase in E8S or start of Perfect Alex in The Epic of Alexander), it is recommended to hard clip the potion after the 4th step of Technical Step for maximum gains with the potion.
+
 
 Double+ weaving on the oGCD of a Standard/Technical Finish and Triple+ weaving for regular GCDs should never be done due to the severe clipping of your GCD which would cause losses in the number of GCDs you execute in a fight as well as potentially drifting certain abilities because of these clips.
 
@@ -377,39 +383,52 @@ Double+ weaving on the oGCD of a Standard/Technical Finish and Triple+ weaving f
 
 
 
-Esprit Generation
+
+---
+
+# Esprit Generation
+
 
 Esprit has a chance to be generated for the DNC whenever anyone with the Standard Finish or Technical Finish buffs perform a weaponskill or spell (GCDs for the most part). Not all actions that party members perform are able to generate esprit.
 
-Actions that DO Generate Esprit:
-All offensive “weaponskills” or “spells” that are on the global cooldown
-This also includes weaponskills and spells that are on the GCD but have a cooldown for using it such as:
-SMN’s Egi Assault spells (except for Egi Assault when Titan-Egi / Topaz Carbuncle are summoned and performing Earthen Armor / Glittering Topaz)
-GNB’s Gnashing Fang Combo GCDs and Sonic Break GCD
-NIN’s Shadow Fang GCD
-RDM’s enchanted melee combo GCDs, Enchanted Moulinet, and Enchanted Reprise all can generate esprit because they are classified as “weaponskills” (the non-enchanted weaponskills also generate esprit)
-BRD’s songs (Army’s Paeon / Mage’s Ballad / Wanderer’s Minuet) since they are classified as “spells” despite being on the oGCD
-Healer Role Action “Repose” and BLM’s “Sleep”
 
-Actions that DO NOT Generate Esprit:
-All oGCD “abilities”
-Healing spells and other non-damage dealing weaponskills or spells (such as BLM’s Umbral Soul, MNK’s Form Shift, and SMN’s Egi Assault when using Titan-Egi / Topaz Carbuncle for Earthen Armor / Glittering Topaz)
-“Abilities” that are on the GCD including
-NIN’s Ninjutsus/Mudras including Kassatsu Ninjutsu and Ten Chi Jin Ninjutsus
-SAM’s Tsubame-gaeshi (the Kaeshi Iaijutsus) and Meditate
-MNK’s Meditation and Form Shift
-DNC’s Standard / Technical Step, Standard / Technical Finish, and all intermittent dance steps
-“Weaponskills” and “Spells” cast by pets (since the pets do not gain the esprit buff)
-MCH’s Automaton Queen’s 2 “weaponskills” (Arm Punch and Roller Dash)
-SMN’s Pet actions that are classified as spells
-NIN’s Bunshin GCD effects
-DRK’s Living Shadow
+## Actions that DO Generate Esprit:
+- All offensive “weaponskills” or “spells” that are on the global cooldown
+  - This also includes weaponskills and spells that are on the GCD but have a cooldown for using it such as:
+    - SMN’s Egi Assault spells (except for Egi Assault when Titan-Egi / Topaz Carbuncle are summoned and performing Earthen Armor / Glittering Topaz)
+    - GNB’s Gnashing Fang Combo GCDs and Sonic Break GCD
+    - NIN’s Shadow Fang GCD
+- RDM’s enchanted melee combo GCDs, Enchanted Moulinet, and Enchanted Reprise all can generate esprit because they are classified as “weaponskills” (the non-enchanted weaponskills also generate esprit)
+- BRD’s songs (Army’s Paeon / Mage’s Ballad / Wanderer’s Minuet) since they are classified as “spells” despite being on the oGCD
+- Healer Role Action “Repose” and BLM’s “Sleep”
 
-Based on early testings watching how much esprit is generated on a job by job basis, it was estimated that DNC’s esprit generation on weaponskills is approximately 30% chance to generate 10 esprit per weaponskill. For all other jobs, the esprit generation rate is approximately 20% to generate 10 esprit per weaponskill or spell. These esprit generation rates are assumptions and have not been 100% confirmed. Whether different jobs have slightly different esprit generation rates is unknown (despite some speculation and potentially mistranslated information about DNC from information before Shadowbringers). In order to confirm this information, large amounts of data would need to be collected for many runs of different jobs. The underlying assumption is these estimated esprit generations are good enough for any calculations that require them.
+
+## Actions that DO NOT Generate Esprit:
+- All oGCD “abilities”
+- Healing spells and other non-damage dealing weaponskills or spells (such as BLM’s Umbral Soul, MNK’s Form Shift, and SMN’s Egi Assault when using Titan-Egi / Topaz Carbuncle for Earthen Armor / Glittering Topaz)
+- “Abilities” that are on the GCD including
+  - NIN’s Ninjutsus/Mudras including Kassatsu Ninjutsu and Ten Chi Jin Ninjutsus
+  - SAM’s Tsubame-gaeshi (the Kaeshi Iaijutsus) and Meditate
+  - MNK’s Meditation and Form Shift
+  - DNC’s Standard / Technical Step, Standard / Technical Finish, and all intermittent dance steps
+- “Weaponskills” and “Spells” cast by pets (since the pets do not gain the esprit buff)
+  - MCH’s Automaton Queen’s 2 “weaponskills” (Arm Punch and Roller Dash)
+  - SMN’s Pet actions that are classified as spells
+  - NIN’s Bunshin GCD effects
+  - DRK’s Living Shadow
+
+
+Based on early testings watching how much esprit is generated on a job by job basis, it was estimated that DNC’s esprit generation on weaponskills is approximately 30% chance to generate 10 esprit per weaponskill. For all other jobs, the esprit generation rate is approximately 20% to generate 10 esprit per weaponskill or spell.  
+*These esprit generation rates are assumptions and have not been 100% confirmed. Whether different jobs have slightly different esprit generation rates is unknown (despite some speculation and potentially mistranslated information about DNC from information before Shadowbringers). In order to confirm this information, large amounts of data would need to be collected for many runs of different jobs. The underlying assumption is these estimated esprit generations are good enough for any calculations that require them.*
+
 
 During Technical Finish, the other 6 party members who do not have the Standard Finish buff will gain an esprit generation buff for 20 seconds. You and your dance partner will retain the normal amount of esprit generation you had before. Under Technical Finish, instead of 2 people contributing to your esprit generation, there are 8 people contributing to your esprit generation (effectively quadrupling this generation rate for 20 seconds).
 
-Improvisation
+
+---
+
+# Improvisation
+
 
 Improvisation is a level 80 Dancer ability that creates a circle around you in a 6y radius for as long as you channel the ability for up to 15 seconds. This ability will generate esprit based on how many party members are standing in the circle. When used in combat, it will generate 3 esprit + 1 for each party member who is in your circle per server tick (so if all 7 other party members are standing in it, it will generate 10 esprit per server tick). The ideal time to use Improvisation is during downtime when the boss is untargetable (such as a phase change). If channeled for the full duration, you can generate up to 60 esprit if everyone is standing in your circle. Additionally, it will grant a 10% healing buff for anyone standing in the circle. Since this ability is channeled, it will cancel the auto attack when initiating. You can potentially weave this ability in between GCDs when the whole party is standing together to “fish” for esprit. Due to the potential loss of an auto attack, this is a marginal gain at best, and a loss if you do not have all 7 party members in the circle (missing even 1 party member will cause you to only generate 9 esprit which effectively cannot contribute to a Saber Dance -- 49 esprit is not enough to use Saber Dance while 50 is). 
 
@@ -424,18 +443,26 @@ Improvisation is a level 80 Dancer ability that creates a circle around you in a
 
 
 
-Understanding Flourish
+
+---
+
+# Understanding Flourish
+
 
 Flourish is a 60s cooldown oGCD ability that grants all 4 of our proc GCDs and a proc of Fan Dance III. Whenever you naturally proc one of these abilities, you gain a buff that lasts for 20 seconds that allow you to use that specific proc’d action. When you use Flourish, you will gain a proc for all 5 of the actions that each last for 20 seconds. The Flourish window in a DNC’s rotation can be a very hectic time, especially since you will not want to waste a single proc and 2 of the procs are AoE GCDs that require being close to the boss in order to hit.
 
 
 
 
+
 (The buffs granted by flourish that allow you to use Reverse Cascade, Fountainfall, Rising Windmill, Bloodshower, and Fan Dance III)
+
 
 Using Flourish while any of these procs are already active is a significant DPS loss. Using Flourish when the Fan Dance III proc is already active is a loss of 200 potency. Losing a Fountainfall / Bloodshower proc is a 142 potency loss over our average GCD potency. Losing a Reverse Cascade / Rising Windmill proc is a 92 potency loss over our average GCD potency. It is better to use your proc and delay Flourish by 1 GCD than using Flourish to override the proc.
 
+
 However, there are ways that we can avoid delaying Flourish while not losing any procs. When doing your rotation normally before Flourish, you can do:
+
 
 Cascade → use Reverse Cascade if procs → Fountain → use Fountainfall if procs → Cascade…
  
@@ -445,7 +472,9 @@ Cascade → use Reverse Cascade if procs → Fountain → use Fountainfall if pr
 
 This will help reduce the potential of having proc(s) going into Flourish coming off cooldown.
 
+
 To prevent going into Flourish with a Fan Dance III proc already active, weave that Fan Dance III before using Flourish. If the Fan Dance III procs on the last oGCD of the GCD before you use Flourish, you can double weave the Fan Dance III → Flourish in that order.
+
 
 
 
@@ -458,9 +487,12 @@ To prevent going into Flourish with a Fan Dance III proc already active, weave t
 In order to avoid losing a proc while also using Flourish on cooldown, we can intentionally save esprit to use a Saber Dance to help buffer our GCD in preparation for Flourish. Thinking 2 GCDs ahead of Flourish, we will want to consider the following:
 
 
+
 (image courtesy of Io Whitespirit of The Balance - Discord server)
 
+
 You have 20 seconds to use all of your procs before they expire. DNC is only able to execute at most 8 GCDs in that 20 second time frame. Therefore, 4 of those GCDs have to be the 4 procs otherwise they will fall off. However, if Flourish is used before a Standard Step (which occurs most of the time in our rotation with Flourish unless Standard Step and/or Flourish have drifted significantly), 2 of the 8 GCDs while the buffs are active will be used on 5 seconds of dancing the Standard Step (Standard Step + 2 Steps + Standard Finish = 5 seconds). Therefore, we only have 6 actionable GCDs where we can use the 4 procs. Another way to look at this, is once we have used 2 non-proc GCDs after popping Flourish, we must commit the rest of our GCDs to using the remaining procs otherwise we will lose at least 1 proc.
+
 
 Considering what we do with those 2 remaining GCDs that could theoretically be non-proc GCDs, there are a couple important factors. Are we capped on esprit or nearly capped? Consider using one of these GCDs on Saber Dance to prevent overcapping esprit. Do we have a combo’d Fountain available that hasn’t been used? Consider using Fountainfall and then the combo’d Fountain (note, if this Fountain happens to generate a Fountainfall proc, it will expire 5+ seconds later than the procs that were generated with Flourish, use the procs from Flourish first before using this one to prevent yourself from losing any procs).
 
