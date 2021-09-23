@@ -22,6 +22,10 @@ As you can see Reci Succor provides more total potency to all party members but 
 
 **Remember that using Recitation on uptime GCDs is generally going to be suboptimal. It's main usage will come during prog to conserve mana and give larger safety shields, but this is still very situational.**
 
+> *I need oGCD help!*
+
+![](https://cdn.discordapp.com/attachments/756684559831269426/846746167320379422/Scholar__oGCDs_8.png)
+
 > *What's the deal with Piety?*
 
 Piety is simultaneously the best and worst substat for us, it's the best if it allows you continue casting when you otherwise could not, otherwise it provides us absolutely zero gain. To lower your Piety needs do your best to follow these rules:
