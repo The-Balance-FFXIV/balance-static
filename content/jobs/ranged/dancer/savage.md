@@ -103,7 +103,7 @@ Technical Step → 4 Steps → (hard clip potion) → Technical Finish (Devilmen
 
 # Eden’s Promise - a DNC’s Guide
 
-# E9S-E12S
+# E9S - E12S
 
 by Io Whitespirit (Faerie)
 
