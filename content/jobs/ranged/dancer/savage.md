@@ -3,10 +3,7 @@ title: Savage
 ---
 Special note: DNC fight specific tips can be difficult to identify due to some things being party composition dependent and kill time dependent. In general, if you are learning a fight or going for a clear, it will most often be best to keep your cooldowns (Dances / Devilment / Flourish) off cooldown as much as possible and try not to delay. The tips found in this document are fight specific tips that help identify how to interact with certain mechanics, especially as they coincide with your cooldowns.
 
-\[E5S - Ramuh]\
-\[E6S - Ifrit and Garuda]\
-\[E7S - The Idol of Darkness]\
-\[E8S - Shiva]  
+- - -
 
 # E5S - Ramuh
 
@@ -65,9 +62,9 @@ Special note: DNC fight specific tips can be difficult to identify due to some t
 
 * Use Improvisation during the transition from Phase One to add phase while standing as close to the middle of the arena while staying on your side to hit all seven party members.
   Using Flourish off cooldown after your opener on Shiva will earn you a fourth Flourish right at the end of Phase One that you can get approximately 3-4 GCDs after popping.
-* If you do Standard Step off cooldown, you are technically able to get off a Standard Step right before Shiva jumps at the end of phase 1. However, this Standard Step is arguably not worth it because you won’t be able to take advantage of that fourth Flourish right before the jump and you will be limited on using as many of your resources (Esprit and f-Feathers) if you are dancing during the last 5 seconds of the phase.
+* If you do Standard Step off cooldown, you are technically able to get off a Standard Step right before Shiva jumps at the end of Phase 1. However, this Standard Step is arguably not worth it because you won’t be able to take advantage of that fourth Flourish right before the jump and you will be limited on using as many of your resources (Esprit and f-Feathers) if you are dancing during the last five seconds of the phase.
 * If not attempting the aforementioned Standard Step in Phase One, you can choose to delay Standard Step by one to two GCDs total during Diamond Frost to ensure you hit Shiva after being knocked back by Heavenly Strike (depending on how your party handles Diamond Frost). This delay will also mean Standard Step will line up during the lookaway mechanic for your next Standard Step which makes it easier since you do not have to be facing your target while doing a dance.
-* All of the phases and mechanics are on a static timer for this fight. The damage you do during add phase will not make the phase end any quicker and will not help you with the overall DPS check of Shiva besides successfully clearing add phase with no Flood of Light generated to gain the ~2% damage up buff for the first minute of phase 3. 
+* All of the phases and mechanics are on a static timer for this fight. The damage you do during add phase will not make the phase end any quicker and will not help you with the overall DPS check of Shiva besides successfully clearing add phase with no Flood of Light generated to gain the ~2% damage up buff for the first minute of Phase 3. 
 * Therefore, optimal play during add phase would be to use as much of your Esprit and Feathers before add phase on Shiva and then try to conserve as much of this esprit and feathers so you can use them on your reopener on Shiva. 
 * You **SHOULD** use Flourish during add phase because it’s on a short cooldown and will be back up after the long cutscene for the reopener. It can also help you generate 4 Feathers that you can save for your reopener on Shiva.
 * You **SHOULD NOT** use Technical Step / Devilment during add phase because this will significantly desync these abilities from raid buffs in the reopener.
@@ -108,7 +105,7 @@ I’d like to thank all the other Dancer mentors and helpfuls on the Balance for
 
 Without further ado, let’s get to it!
 
-# E9S - CLOUD OF DARKNESS
+# E9S - Cloud of Darkness
 
 ## Overview
 
@@ -122,7 +119,7 @@ There are a few recommended ways to handle Technical windows for this fight. The
 
 0:07\
 2:10\
-4:17 (delay 3 GCDs)\
+4:17 (delay three GCDs)\
 6:17\
 8:17  
 
@@ -177,11 +174,11 @@ Cons:
 
 ## Potion Timings
 
-The standard timings for the 0 minute window and 6:xx window are fine here. Use with the 5 minute window if doing speeds and skipping the 6 minute burst window.
+The standard timings for the 0-minute window and 6:xx window are fine here. Use with the 5 minute window if doing speeds and skipping the 6-minute burst window.
 
 ## Adds
 
-If your group is not planning to intentionally let the adds get past, and you are on the outside, you can cleave both the add and the boss by standing on the pattern below once the add has spawned and has traveled a short distance. Note: if you plan on using Fan Dance II, this is leading up to a Technical window, and you’ll need to assess if the 50 extra potency outside of raid buffs is worth it compared to dumping Fans with raid buffs at the 4 minute mark.
+If your group is not planning to intentionally let the adds get past, and you are on the outside, you can cleave both the add and the boss by standing on the pattern below once the add has spawned and has traveled a short distance. Note: if you plan on using Fan Dance II, this is leading up to a Technical window, and you’ll need to assess if the 50 extra potency outside of raid buffs is worth it compared to dumping Fans with raid buffs at the 4-minute mark.
 
 ![](https://cdn.discordapp.com/attachments/458951851610734595/890372413127294976/unknown.png)
 
@@ -192,7 +189,7 @@ It is recommended you take either the eastern or western outside spots due to mo
 ![](https://cdn.discordapp.com/attachments/458951851610734595/890372460451627038/unknown.png)\
 *(Image was linked to me by Rah--original source is unknown to me. Although it mentions divination, the concept is the same)*
 
-With some testing, I believe it is impossible to hit all 8 players with Technical Finish if you are the one being forced to move for the half-arena cleave (without significant effort being made by your other players). The length of each tile appears to be 8 yalms, meaning that despite what the following image shows, Technical Finish would miss on the south healer:
+With some testing, I believe it is impossible to hit all eight players with Technical Finish if you are the one being forced to move for the half-arena cleave (without significant effort being made by your other players). The length of each tile appears to be eight yalms, meaning that despite what the following image shows, Technical Finish would miss on the south healer:
 
 ![](https://cdn.discordapp.com/attachments/458951851610734595/890372497990627328/unknown.png)\
 *(Again, I am unsure on the original source of this image)*
@@ -201,7 +198,7 @@ If someone has a log proving otherwise, please DM me at io#4617.
 
 At the end of the day, this only occurs 50% of the time, and you’ll still be hitting 7 of the 8 players. For the vast majority of players, however, your kill time will likely allow you to drift Technical as previously recommended, and this entire section will not be a consideration. 
 
-# E10S - SHADOWKEEPER
+# E10S - Shadowkeeper
 
 ## Overview
 
@@ -218,7 +215,7 @@ There are two recommended ways of handling Technical windows for this fight, and
 2:10\
 4:10\
 6:10\
-8:20 (delay 4 GCDs)\
+8:20 (delay four GCDs)\
 10:20  
 
 Pros:
@@ -259,11 +256,11 @@ Cons:
 
 Pros:
 
-* Allows for better alignment with 3 minute raid-buffs.
+* Allows for better alignment with 3-minute raid-buffs.
 
 Cons:
 
-* Loses a Technical Step at 8 minutes.
+* Loses a Technical Step at eight minutes.
 
 ## Recommended Samba Timings
 
@@ -294,7 +291,7 @@ Per Ringabel:\
 
 ## Potion Timings
 
-The standard 0 minute window and 6:xx window are fine here. There is potential room for a third potion at the end if your group is significantly struggling with DPS.
+The standard 0-minute window and 6:xx window are fine here. There is potential room for a third potion at the end if your group is significantly struggling with DPS.
 
 ## Shackled Apart
 
@@ -303,7 +300,7 @@ If unwilling to drift Technical Step and also unwilling to take the risk of step
 ![](https://cdn.discordapp.com/attachments/458951851610734595/890372763959848991/unknown.png)\
 *(Image courtesy of Ringabel)*
 
-This makes the Tank/Healer tethered to the Dancer rotate to one side, allowing the Dancer to pop Technical Finish to ensure it hits at least 7 players.
+This makes the Tank/Healer tethered to the Dancer rotate to one side, allowing the Dancer to pop Technical Finish to ensure it hits at least seven players.
 
 ## Final Void Gates
 
@@ -316,7 +313,7 @@ I am unable to cover what to do about your Flourish procs in all scenarios given
 * Using a different strategy
 * Skipping the mechanic
 
-# E11S - FATEBREAKER
+# E11S - Fatebreaker
 
 ## Overview
 
@@ -400,7 +397,7 @@ There are many possibilities; adjust to your healers’ requests. Here are my ge
   An alternative to this is waiting until everyone is stacked together and praying that you don’t get the Holy tether. This gets more ticks than doing it before the knockback, but as at least one player is not stacked with the group you will not be getting a full 10 Esprit per tick.
 * 8:30 - During Prismatic, while waiting for the first ghosts to resolve. The more players you can get to join you, the better.
 
-# E12S DOOR - EDEN’S PROMISE
+# E12S  - Eden's Promise
 
 ## Overview
 
@@ -443,7 +440,7 @@ Pros:
 Cons:
 
 * Requires much higher execution to perform correctly.
-* Unlikely to get you a very good parse compared to option #1 as you might lose part of your 8 minute Technical window anyways.
+* Unlikely to get you a very good parse compared to option #1 as you might lose part of your 8-minute Technical window anyways.
 
 ### Execution:
 
@@ -479,7 +476,7 @@ Per Ringabel, his group’s plan is as follows:
 
 ## Potion Timings
 
-The standard 0 minute window and 6:xx window are fine here. If delaying raid-buffs to after Junction Shiva, pots can also be used for a 4:30 or 5:00 burst window.
+The standard 0-minute window and 6:xx window are fine here. If delaying raid-buffs to after Junction Shiva, pots can also be used for a 4:30 or 5:00 burst window.
 
 # E12S - ORACLE OF DARKNESS
 
