@@ -11,7 +11,7 @@ Special note: DNC fight specific tips can be difficult to identify due to some t
 [E9S - Cloud of Darkness](#e9s---cloud-of-darkness)  
 [E10S - Shadowkeeper](#e10s---shadowkeeper)  
 [E11S - Fatebreaker](#e11s---fatebreaker)  
-[E12S - Eden's Promise](#e12s---edens-promise)  
+[E12S - Eden's Promise](#e12s----edens-promise)  
 [E12S - Oracle of Darkness](#e12s---oracle-of-darkness)
 - - -
 
