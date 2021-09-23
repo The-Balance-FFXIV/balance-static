@@ -20,7 +20,7 @@ One difficulty in writing this guide is that there are many different ways to ha
 * Technical Finish / Devilment Timings
 * Potion Timings
 
-The fight can be broken down into 4 key phases. This guide will talk about how to optimize DNC’s potential in each of these phases:
+The fight can be broken down into four key phases. This guide will talk about how to optimize DNC’s potential in each of these phases:
 
 * Living Liquid (LL)
 
@@ -35,7 +35,7 @@ The fight can be broken down into 4 key phases. This guide will talk about how t
 
   * Opener
   * General AoE Optimization
-  * Regarding Using 2nd Technical Finish / Devilment Post-Gavel
+  * Regarding Using second Technical Finish / Devilment Post-Gavel
   * Defensive Cooldown Timings
   * Misc Notes for Brute Justice + Cruise Chaser
 * Alexander Prime (AP)
@@ -52,13 +52,15 @@ The fight can be broken down into 4 key phases. This guide will talk about how t
 
 # Dancer Partner / Closed Position
 
-Before talking about specific phases though, let’s talk about Dance Partner(s). Because of the fight timings and in some phases the ability to hit multiple targets at the same time, this fight offers opportunities to switch your Dance Partner between phases or during downtime in order to increase the total raid damage contribution you bring. Every raid group is different and the ideal Dance Partner will depend on the different DPS jobs you are playing with, skill level of the player you are partnering, phase specific timings and how they affect different jobs’ ability to do damage, and whether the job has significant gains when able to hit more than one target at the same time. What I would encourage DNCs to do is to upload wipe logs to [FFLogs](https://www.fflogs.com/) to analyze how your party is doing to help figure out who the best person would be to partner at different times of the fight. It doesn’t hurt to experiment on different dps members in the early phases (especially since the LL and BJCC dps checks aren’t difficult) to figure out what works best for your group. One thing to keep in mind when doing this analysis is that Devilment contribution to snapshotted DoTs that go beyond the 20 seconds Devilment is up is not observed when just looking at rDPS during those 20 seconds.
+Before talking about specific phases though, let’s talk about Dance Partner(s). Because of the fight timings and in some phases the ability to hit multiple targets at the same time, this fight offers opportunities to switch your Dance Partner between phases or during downtime in order to increase the total raid damage contribution you bring. Every raid group is different and the ideal Dance Partner will depend on the different DPS jobs you are playing with, skill level of the player you are partnering, phase specific timings and how they affect different jobs’ ability to do damage, and whether the job has significant gains when able to hit more than one target at the same time. 
+
+What I would encourage DNCs to do is to upload wipe logs to [FFLogs](https://www.fflogs.com/) to analyze how your party is doing to help figure out who the best person would be to partner at different times of the fight. It doesn’t hurt to experiment on different DPS members in the early phases (especially since the LL and BJCC DPS checks aren’t difficult) to figure out what works best for your group. One thing to keep in mind when doing this analysis is that Devilment contribution to snapshotted DoTs that go beyond the 20 seconds Devilment is up is not observed when just looking at rDPS during those 20 seconds.
 
 In December of 2020, a [partner calculator](http://partnercalc.herokuapp.com/) was created to help solve who would be the optimal Dance Partner. I would encourage uploading your group’s logs during progress to see how different Partners would fare as a potential Partner in different phases.
 
 # Technical Finish and Devilment Timings
 
-Plan this out with your group, ALL 2 minute buffs should be used together, i.e. Chain Stratagem, Divination, Dragon Sight, Embolden, Technical Step, Devilment. Coordinate with your team when the best time to use these buffs would be for your group. Here are the most ideal times:
+Plan this out with your group, ALL 2-minute buffs should be used together, i.e. Chain Stratagem, Divination, Dragon Sight, Embolden, Technical Step, Devilment. Coordinate with your team when the best time to use these buffs would be for your group. Here are the most ideal times:
 
 * Opener of Living Liquid
 * Opener of Brute Justice / Cruise Chaser
@@ -94,12 +96,12 @@ Plan this out with your group, ALL 2 minute buffs should be used together, i.e. 
 
 ### Option 1:
 
-\-15 sec Standard Step > 2 Steps > Peloton > -2 sec Potion > Standard Finish > Technical Step > 4 Steps > Technical Finish (Flourish) > Reverse Cascade (Devilment) > Fountainfall > Saber Dance (if at 50 Esprit, otherwise Rising Windmill) > Standard Step > 2 Steps > **wait 0.5 seconds** > Standard Finish (FD3) >...
+\-15 sec Standard Step > two Steps > Peloton > -2 sec Potion > Standard Finish > Technical Step > four Steps > Technical Finish (Flourish) > Reverse Cascade (Devilment) > Fountainfall > Saber Dance (if at 50 Esprit, otherwise Rising Windmill) > Standard Step > two Steps > **wait 0.5 seconds** > Standard Finish (FD3) >...
 
 ### Option 2
 
 *(Forced clip opener, uses a double weave after Technical Finish to buff the first GCD with Devilment while making sure Liquid Hand has spawned before SS goes off)*:\
--15 sec Standard Step > 2 Steps > Peloton > -2 sec Potion > Standard Finish > Technical Step > 4 Steps > Technical Finish (Flourish, Devilment) > Reverse Cascade > Fountainfall > Saber Dance (if at 60 Esprit, otherwise Rising Windmill) > Standard Step > 2 Steps > Standard Finish (FD3) >...
+-15 sec Standard Step > two Steps > Peloton > -2 sec Potion > Standard Finish > Technical Step > four Steps > Technical Finish (Flourish, Devilment) > Reverse Cascade > Fountainfall > Saber Dance (if at 60 Esprit, otherwise Rising Windmill) > Standard Step > two Steps > Standard Finish (FD3) > ...
 
 Liquid hand spawns *precisely* at the 20 second mark of the fight. Standard Finish under Devilment occurs at 19.5 seconds into the fight if your first Standard Finish hits precisely at the 0.000 second mark of the fight. Therefore, if using the first opener and you perfectly time the opening hit, you will have to delay your Standard Finish by half a second in order to be able to hit both Living Liquid and Liquid Hand with your Standard Finish on Liquid Hand. Alternatively, the forced clip in the second opener will always delay the Standard Finish long enough for the hand to spawn, and because of the buffed GCD, is a very small potency gain.
 
@@ -109,7 +111,7 @@ Save the Fan Dance III Proc from Flourish until Standard Finish (when Liquid Han
 
 ## General AoE Optimization for Cleaving Living Liquid / Liquid Hand
 
-When able to hit 2+ targets at the same time, it is worth it to do Windmill → Bladeshower as your base GCD combo over Cascade → Fountain. Additionally, it is worth it to use Fan Dance II instead of Fan Dance I on 2+ targets. For mechanics where you have to disengage from Living Liquid / Liquid Hand or the Boss targets have to be separated for a period of time, you will want to return to going back to single target Cascade → Fountain. If you have a combo’d Bladeshower available when forced to switch from hitting two targets to one target, you should use the combo’d Bladeshower if you can use it to hit one target and will be able to use the potential Bloodshower proc that is generated on two targets within the next 20 seconds. Additionally, Saber Dance should be saved as much as possible for times where you can hit both Living Liquid and Liquid Hand together. When using Standard Finish or Fan Dance 3 while single target debuffs (specifically Trick Attack and Chain Stratagem are up), you will want to make sure the primary damage is done to the target with Trick Attack / Chain Stratagem and the secondary damage is done to the other target (i.e. target whichever has those debuffs when using Fan Dance III and make sure you are closer to the one with those debuffs when using Standard Finish).
+When able to hit 2+ targets at the same time, it is worth it to do Windmill → Bladeshower as your base GCD combo over Cascade → Fountain. Additionally, it is worth it to use Fan Dance II instead of Fan Dance I on 2+ targets. For mechanics where you have to disengage from Living Liquid / Liquid Hand or the Boss targets have to be separated for a period of time, you will want to return to going back to single target Cascade → Fountain. If you have a combo’d Bladeshower available when forced to switch from hitting two targets to one target, you should use the combo’d Bladeshower if you can use it to hit one target and will be able to use the potential Bloodshower proc that is generated on two targets within the next 20 seconds. Additionally, Saber Dance should be saved as much as possible for times where you can hit both Living Liquid and Liquid Hand together. When using Standard Finish or Fan Dance III while single target debuffs (specifically Trick Attack and Chain Stratagem are up), you will want to make sure the primary damage is done to the target with Trick Attack / Chain Stratagem and the secondary damage is done to the other target (i.e. target whichever has those debuffs when using Fan Dance III and make sure you are closer to the one with those debuffs when using Standard Finish).
 
 ## Jagd Doll
 
@@ -132,23 +134,23 @@ Cons to using SS on Doll:
 
 You should communicate with your raid group to determine whether or not you should use Standard Step on your Doll as it requires coordination for feed strategies. 
 
-The Jagd Doll has about 164,000 HP, so it is important to know where the damage on your Doll is coming from. When the Doll spawns, you need to do a GCD on your Doll to tag it. You should tap the Doll with either Cascade, Reverse Cascade, or Fountain then switch back (if you are doing 1 > 3 > 2 > 4 before the dolls spawn, you’ll always be able to do one of these 3 GCDs over Fountainfall or Saber Dance). Then, you can switch back to Living Liquid / Liquid Hand for 4 GCDs before Standard Step comes off cooldown. After you use Standard Finish on your Doll, you can react to whether you got a Crit, DH, or Crit+DH on the Standard Finish and adjust for how many GCDs you need to do to bring the Doll down below 25% HP. Saber Dance should never be used on the Doll because you will miss out on significant cleave potential of Saber Dance on Living Liquid and Liquid Hand together. Additionally, it does a high amount of potency and can potentially overkill the Doll if it Crits and/or DH. Additionally, Feathers should be saved as much as possible for Fan Dance II that can be used to hit both Living Liquid and Liquid Hand.
+The Jagd Doll has about 164,000 HP, so it is important to know where the damage on your Doll is coming from. When the Doll spawns, you need to do a GCD on your Doll to tag it. You should tap the Doll with either Cascade, Reverse Cascade, or Fountain then switch back (if you are doing 1 > 3 > 2 > 4 before the dolls spawn, you’ll always be able to do one of these three GCDs over Fountainfall or Saber Dance). Then, you can switch back to Living Liquid / Liquid Hand for four GCDs before Standard Step comes off cooldown. After you use Standard Finish on your Doll, you can react to whether you got a Crit, DH, or Crit+DH on the Standard Finish and adjust for how many GCDs you need to do to bring the Doll down below 25% HP. Saber Dance should never be used on the Doll because you will miss out on significant cleave potential of Saber Dance on Living Liquid and Liquid Hand together. Additionally, it does a high amount of potency and can potentially overkill the Doll if it Crits and/or DH. Additionally, Feathers should be saved as much as possible for Fan Dance II that can be used to hit both Living Liquid and Liquid Hand.
 
-Regarding Crit/DH variance, here is an attempt log of my Doll being overkilled by about 1200 damage. Our group’s strategy included our WHM using Assize to help with AoE heals while the Dolls were still alive so the damage from Assize had to be factored into my Doll planning. This attempt shows me using Cascade, Fountain, and then I switched back to Living Liquid / Liquid Hand to do 3 GCDs before Standard Step came back up. I also had two auto attacks on the Doll along and the WHM’s Assize hit the Doll as well. 
+Regarding Crit/DH variance, here is an attempt log of my Doll being overkilled by about 1200 damage. Our group’s strategy included our WHM using Assize to help with AoE heals while the Dolls were still alive so the damage from Assize had to be factored into my Doll planning. This attempt shows me using Cascade, Fountain, and then I switched back to Living Liquid / Liquid Hand to do three GCDs before Standard Step came back up. I also had two auto attacks on the Doll along and the WHM’s Assize hit the Doll as well. 
 
 ![](https://cdn.discordapp.com/attachments/458951851610734595/890378324659019776/unknown.png)
 
-On this log, you can see the Fountain (DH), the Standard Finish (Crit + DH), and the Assize (Crit) and ended up leading to an overkill of 1200 damage. Therefore, doing a Cascade + Fountain + Standard Finish can potentially be too much damage on the Doll if a WHM is using Assize as well. Therefore, doing 1 GCD to tag the Doll (either Cascade, Reverse Cascade, or Fountain depending on where you are with single target GCDs at that point in the fight) and then switching back to Living Liquid / Liquid Hand while waiting for Standard Step to come off cooldown, and then adjust how many GCDs you do on your Doll after Standard Finish goes off based on whether it Crit, DH’ed, or both. This will mean having to do anywhere between zero and four extra GCDs after the Standard Finish on the Doll in order to bring it down to right below 25%.
+On this log, you can see the Fountain (DH), the Standard Finish (Crit + DH), and the Assize (Crit) and ended up leading to an overkill of 1200 damage. Therefore, doing a Cascade + Fountain + Standard Finish can potentially be too much damage on the Doll if a WHM is using Assize as well. Therefore, doing one GCD to tag the Doll (either Cascade, Reverse Cascade, or Fountain depending on where you are with single target GCDs at that point in the fight) and then switching back to Living Liquid / Liquid Hand while waiting for Standard Step to come off cooldown, and then adjust how many GCDs you do on your Doll after Standard Finish goes off based on whether it Crit, DH’ed, or both. This will mean having to do anywhere between zero and four extra GCDs after the Standard Finish on the Doll in order to bring it down to right below 25%.
 
-If you do not have a WHM using Assize at this point in the fight, you can do 2 GCDs on the Doll before switching back to Living Liquid / Liquid Hand.
+If you do not have a WHM using Assize at this point in the fight, you can do two GCDs on the Doll before switching back to Living Liquid / Liquid Hand.
 
 Here are some clips showing this strategy in action:\
 [Jagd Doll (Standard Finish Crit + DH)](https://www.twitch.tv/ringabel_ffxiv/clip/SavageLovelyKangarooPraiseIt)\
 [Jagd Doll (Standard Finish no Crit nor DH)](https://clips.twitch.tv/AbnegateCrowdedOilDAESuppy)  
 
-## Post 2nd Cascade:
+## Post Second Cascade:
 
-If you kept Standard Step off cooldown since the beginning of the fight (including using it on the Jagd Doll), Standard Step will come off cooldown precisely when you have to disengage from the boss to bait Sluice. This means you do not have to interrupt your AoE combo despite disengaging the boss, because you can use those 2 GCDs to do a Standard Step instead.
+If you kept Standard Step off cooldown since the beginning of the fight (including using it on the Jagd Doll), Standard Step will come off cooldown precisely when you have to disengage from the boss to bait Sluice. This means you do not have to interrupt your AoE combo despite disengaging the boss, because you can use those two GCDs to do a Standard Step instead.
 
 Try to save 50+ Esprit towards the end of the phase for your Brute Justice / Cruise Chaser reopener so that you can do Technical Finish (Devilment) > Saber Dance (Flourish).
 
@@ -158,7 +160,7 @@ Try to save 50+ Esprit towards the end of the phase for your Brute Justice / Cru
 
 ### Shield Samba:
 
-A decent time to use Shield Samba would be right as the x6 Splashes occur into second Cascade. Since Shield Samba lasts 15 seconds, it should be able to cover all six Splashes and the Cascade AoE damage. If using Standard Step on cooldown on the doll, Standard Step will come off cooldown on the GCD before the Splash damage comes out. If you miss that oGCD due to using Feathers (this coincides with a Flourish timing) and start the Standard Step, you can do Samba on the oGCD of the Finish but it will miss 2-3 of the AoE Splashes in mitigation.
+A decent time to use Shield Samba would be right as the six Splashes occur into second Cascade. Since Shield Samba lasts 15 seconds, it should be able to cover all six Splashes and the Cascade AoE damage. If using Standard Step on cooldown on the doll, Standard Step will come off cooldown on the GCD before the Splash damage comes out. If you miss that oGCD due to using Feathers (this coincides with a Flourish timing) and start the Standard Step, you can do Samba on the oGCD of the Finish but it will miss two to three of the AoE Splashes in mitigation.
 
 ### Second Wind:
 
@@ -166,7 +168,7 @@ I used Second Wind to help recover damage taken during Dolls.
 
 ### Curing Waltz:
 
-I used this during the Doll damage to help recover some HP for me and my Dance Partner (BLM/SMN) who would feed their Doll 4th so we both took a little extra damage during Dolls compared to the other DPS (melee) who fed early.
+I used this during the Doll damage to help recover some HP for me and my Dance Partner (BLM/SMN) who would feed their Doll fourth so we both took a little extra damage during Dolls compared to the other DPS (melee) who fed early.
 
 If using Curing Waltz during the Dolls as mentioned, it will be up in time to use again at the end of the Living Liquid phase before Limit Cut as everyone gathers near the middle waiting for Hawk Blasters to help top everyone off coming out of that phase.
 
@@ -211,12 +213,12 @@ Whenever you use Standard Finish during this phase, you’ll want to be sure you
 
 Regarding whether to use a second Technical Step / Devilment during Brute Justice / Cruise Chaser, there are reasons to use the Technical Step / Devilment here and there are reasons for holding for Alexander Prime opener.
 
-General Pros of using Technical Step / Devilment post-Gavel:
+General pros of using Technical Step / Devilment post-Gavel:
 
 * Allows you to use a total of eight Technical Steps / Devilments throughout the fight, ultimately granting you more overall damage from rDPS as well as personal damage gains from Technical Finish / Devilment buffs and extra Esprit.
 * Lowers overall kill time by being able to kill Brute Justice / Cruise Chaser faster.
 
-General Pros of using Technical Step / Devilment at Alexander Prime:
+General pros of using Technical Step / Devilment at Alexander Prime:
 
 * Lines up Technical Step / Devilment with the potion that would be used at the beginning of Alexander Prime, and effectively lines up all uses of Technical Finish / Devilment to decent times for ease of meeting the DPS checks of Alexander Prime and Perfect Alexander phases. (Alexander Prime and Perfect Alexander have tighter DPS checks than Living Liquid and Brute Justice / Cruise Chaser phases). Improving the DPS in these phases is more important than increasing your overall DPS in the fight if you are going for the clear. This strategy can be the difference between having one or two DPS die in an attempt during Wormhole and surviving the Trio Enrage sequence and meeting the DPS requirement of Alexander Prime versus failing that phase.
 
@@ -232,7 +234,7 @@ A decent time to use Shield Samba would be right before Whirlwind and third Comp
 
 ### Second Wind:
 
-Second Wind can be used after any Compressed Water / Compressed Lightning depending on your strategy. It might work well after the Whirlwind before the 3rd Compressed Water / Lightning mechanic to help heal you up from the AoE damage you just took.
+Second Wind can be used after any Compressed Water / Compressed Lightning depending on your strategy. It might work well after the Whirlwind before the third Compressed Water / Lightning mechanic to help heal you up from the AoE damage you just took.
 
 ### Curing Waltz:
 
@@ -316,13 +318,13 @@ It is strongly recommended to pop potion at the very beginning of Perfect Alexan
 
 * Re-opener (Technical Finish + Devilment)
 
-  * Technical Step → 4 Steps → (hard clip potion) → Technical Finish (Devilment) → Saber Dance → Standard Step → 2 Steps → Standard Finish (Flourish) → continue with normal Technical Finish GCD priority
+  * Technical Step → four Steps → (hard clip potion) → Technical Finish (Devilment) → Saber Dance → Standard Step → two Steps → Standard Finish (Flourish) → continue with normal Technical Finish GCD priority
 
 This opener gives you a lot of room to get off all of your procs even with the forced march / ordained stillness mechanics affecting your ability to perform GCDs.
 
 * If you do not have Technical Step / Devilment up right away you can:
 
-  * Standard Step → 2 Steps → (hard clip potion) → Standard Finish (Flourish) → Saber Dance → use your Proc GCDs and Standard Step when it comes up
+  * Standard Step → two Steps → (hard clip potion) → Standard Finish (Flourish) → Saber Dance → use your Proc GCDs and Standard Step when it comes up
 
 This will desync Flourish from Technical Step / Devilment for the majority of the last phase, which may end up gaining you a usage of Flourish at the end of the fight. If delaying your Technical Step and Devilment, a good time to use it would be after the Ordained Motion/Stillness and Forced March mechanics have finished. Even though this is significantly outside of your potion window, you will be able to use Technical Step / Devilment off cooldown for the remainder of the fight with the third usage in Perfect Alexander realigning with the potion. Coordinate with the other members of your raid group to keep two minute raid buffs aligned.
 
@@ -344,4 +346,4 @@ Communicate with your raid team with mitigation coordination whether you should 
 
 The last Technical Finish / Devilment should be delayed to line up with when the potion comes off cooldown (which occurs as you are dodging into second Irresistible Grace).
 
-For the enrage sequence, it makes sense for players to get zjailed in the order of how much damage they do with lowest damage getting Jailed first. Since DNC does the least amount of damage at that point in the fight for the DPS jobs (especially outside of Technical / Devilment), DNC should go into the 5th Jail. If you have a GNB in your group, consider having the DNC go into the 4th Jail and the GNB going into the 5th Jail since they get more out of their No Mercy window (especially getting off a last usage of Gnashing Fang combo, Sonic Break, and Bow Shock) and need more time to get everything off. This GNB burst also does more damage than getting off a couple of proc GCDs from the DNC’s Flourish. The difference between 4th and 5th Jail for DNC does not affect how many Standard Finishes you can get off in that final phase as well, so ultimately it can be a net gain for your group for DNC to go 4th Jail and GNB to go 5th Jail.
+For the enrage sequence, it makes sense for players to get jailed in the order of how much damage they do with lowest damage getting Jailed first. Since DNC does the least amount of damage at that point in the fight for the DPS jobs (especially outside of Technical / Devilment), DNC should go into the fifth Jail. If you have a GNB in your group, consider having the DNC go into the fourth Jail and the GNB going into the fifth Jail since they get more out of their No Mercy window (especially getting off a last usage of Gnashing Fang combo, Sonic Break, and Bow Shock) and need more time to get everything off. This GNB burst also does more damage than getting off a couple of proc GCDs from the DNC’s Flourish. The difference between fourth and fifth Jail for DNC does not affect how many Standard Finishes you can get off in that final phase as well, so ultimately it can be a net gain for your group for DNC to go fourth Jail and GNB to go fifth Jail.
