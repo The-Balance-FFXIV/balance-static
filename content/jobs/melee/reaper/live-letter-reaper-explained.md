@@ -28,67 +28,81 @@ The first gauge we will be looking at is the Soul Gauge. It is the red gauge see
 
 ![](https://lh4.googleusercontent.com/7cP7ZYrHTOVOS4QYNBpUBUfVPaoi5Cgg78j7KhrqdEp2AFsmyAsiq1M8JRaUbJhb6Ob5RnsaxktBdAFbM5_R8Mp0A1gRgaacGhLT-N44IAiPNNGgh6m2lTZa36zJF5W4BqxwRVYY=s0)
 
-How do you get Soul Gauge?
+* How do you get Soul Gauge?
 
-* Using your basic Combo:
-* * Single Target basic combo : Slice > Waxing Slash > Infernal Slice
-  * AoE Combo : Spinning Scythe > Nightmare Scythe
-  * Each of these build 10 Soul Gauge
-* Using your “Soul”-like weapon skills:
-* * There are two of these
-  * * Soul Slice - Single target
+  * Using your basic Combo:
+
+    * Single Target basic combo : Slice > Waxing Slash > Infernal Slice
+    * AoE Combo : Spinning Scythe > Nightmare Scythe
+    * Each of these build 10 Soul Gauge
+  * Using your “Soul”-like weapon skills:
+
+    * Soul Slice - Single target
     * Soul Scythe - AoE
-  * Both build 50 Soul Gauge
-  * Both are on the Global Cooldown
-  * Both share a cooldown and can store up to 2 charges
+    * Both build 50 Soul Gauge
+    * Both are on the Global Cooldown
+    * Both share a cooldown and can store up to 2 charges
 
 Now that you found where you get your soul, you can begin spending to gain Sickles. Sickle is a buff that will allow you to use another weapon skill. Here is how you spend Soul to generate Sickles ![](https://lh6.googleusercontent.com/qS2TU9uB444M9E82Or5gUWakH3enUoseV-XV6zRY1d0aBugKOF2bLiL2Rn13q2lfOUFHa-MKSi5ke5FX2OmmXuWMrMzrxLVqc0PhTlsTPoYMYWKXC0Y6OUxYukB2_yiGt4EoHCRW=s0).
 
 * You will use them on single-target “Claw Type” skills:
-* * These abilities are: Stalksway, Gibbet Claw, Gallow Claw 
-  * As of the LL, we believe this all do effectively the same thing and they share the same button
-  * I will discuss what makes it “change” later on, but it is inconsequential to know this as of the LL 
+
+  * These abilities are: **Stalksway, Gibbet Claw, Gallow Claw** 
+
+    * As of the LL, we believe this all do effectively the same thing and they share the same button
+    * I will discuss what makes it “change” later on, but it is inconsequential to know this as of the LL 
   * They cost 50 Soul
   * They set your Sickle count to 1.
-  * * This is important, you can not stack Sickles with these abilities
+
+    * This is important, you can not stack Sickles with these abilities
   * They have a 1s CD
-* You can use them on the AoE(Cone) ability Thiefsway:
-* * It costs 50 Soul
-  * This sets your Sickle count to 1
-  * * This is important, you can not stack Sickles with this ability
-* You will use them on “Gluttony”:
-* * This ability has a 60s cooldown
-  * Deals more damage than Stalksway, Thiefsway, Gibbet Claw and Gallow Claw
-  * Deals AoE damage around the target.
-  * This ability costs 50 Soul Gauge
-  * It increases your Sickle count by 2.
-  * * Welcome to our first Reaper dilemma.
-    * Based on the tooltip, we can assume that if you have 1 Sickle and cast Gluttony you will have 3 Sickles, but this needs to be confirmed.
-* Special note: Sickles last 30s
+  * You can use them on the AoE(Cone) ability **Thiefsway**:
+
+    * It costs 50 Soul
+    * This sets your Sickle count to 1
+    * This is important, you can not stack Sickles with this ability
+  * You will use them on **Gluttony**:
+
+    * This ability has a 60s cooldown
+    * Deals more damage than Stalksway, Thiefsway, Gibbet Claw and Gallow Claw
+    * Deals AoE damage around the target.
+    * This ability costs 50 Soul Gauge
+    * It increases your Sickle count by 2.
+
+      * Welcome to our first Reaper dilemma.
+      * Based on the tooltip, we can assume that if you have 1 Sickle and cast Gluttony you will have 3 Sickles, but this needs to be confirmed.
+  * Special note: Sickles last 30s
 
 Ok, you have a Sickle, maybe two and who knows you could even have three so what do you do with them? You take them over to the Gibbets and Gallows and generate Shroud which is represented by the blue bar in the gauge below:
 
 ![](https://lh5.googleusercontent.com/_ymu0lW6llkMuGfQvKs1ZBZhGZ-UyvE0luPNaHxocoIw-wtWlzX7F9pKf4sW29urbzbEhJM1E8urNhk21u5anoIPBHglRsaOEQTMAZFTF0YDbF9aTgltIOUHZu9mTNQ5HAFpuzGy=s0)
 
 * Sickles allow you to use three abilities:
-* * Gibbet, Gallows and Guillotine
-  * They both consume 1 Sickle
-  * Gibbet:
-  * * Deals more damage from the flank
+
+  * Gibbet, Gallows and Guillotine
+
+    * They all consume 1 Sickle
+  * **Gibbet**
+
+    * Deals more damage from the flank
     * Buffs your next Gallows
-    * * Gibbet will actually give you a buff called “Gallows Effect up”
-      * * This last for 60s and wears off on your next Gallows
-        * This changes Stalkway to “Gallows Claw”
-        * * As far as we know this change is only aesthetic
-  * Gallows 
-  * * Deals more damage from the Rear
+    * Gibbet will actually give you a buff called “Gallows Effect up”
+    * This last for 60s and wears off on your next Gallows
+    * This changes Stalkway to “Gallows Claw”
+
+      * As far as we know this change is only aesthetic
+  * **Gallows** 
+
+    * Deals more damage from the Rear
     * Buffs your next Gibbet
-    * * Gallows will  give you a buff called “Gibbet Effect Up”
-      * * This last for 60s and wears of on your next Gibbet
-        * This changes Stalkway to “Gibbet Claw”
-        * * As far as we know this change is only aesthetic
-  * Guillotine
-  * * Deals AoE damage (conal damage)
+    * Gallows will  give you a buff called “Gibbet Effect Up”
+    * This last for 60s and wears of on your next Gibbet
+    * This changes Stalkway to “Gibbet Claw”
+
+      * As far as we know this change is only aesthetic
+  * **Guillotine**
+
+    * Deals AoE damage (conal damage)
   * They all generate 10 Shroud
 
 This isn’t the only way we can generate Shroud though, to do so we have to use one ability first and build up another resource. Here is how it happens:
@@ -112,7 +126,7 @@ This isn’t the only way we can generate Shroud though, to do so we have to use
 
     * You can get a total of 8 Sacrifice stacks
     * The stacks last 30s or until spent
-  * You spend Sacrifice stacks to use Plentiful Harvest:
+  * You spend Sacrifice stacks to use **Plentiful Harvest**
 
     * You cannot use Plentiful Harvest until the  Death’s Ceremony buff wears off of you.![](https://lh6.googleusercontent.com/0S8X7TAlQvYQnPSue9WSXtBVnVFqvdYd2fKz9whPeLscR-2swyPduZ73t1Pld7ZRtkMETy4PfOMd3NZ9J0WLMlcL6cXTg3Dr9y92dScgcN7Smn3ho-WfM-AekxnUnX6w6qcTinQl=s0)
     * This means you only get ONE Plentiful Harvest each time you cast Arcane Circle
@@ -122,7 +136,7 @@ This isn’t the only way we can generate Shroud though, to do so we have to use
 
 You are finally shrouded in darkness, surely this is the last spender. Well no, you use Shroud to gain access to your final form of building and spending. Here is what you can spend Shroud on:
 
-* Lemure’s Shroud
+* **Lemure’s Shroud**
 
   * Requires 50 Shroud
   * Gives you the buff “Lemure Shroud” for 30 secs
