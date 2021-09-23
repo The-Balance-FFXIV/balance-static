@@ -1,11 +1,11 @@
 ---
 title: Savage
 ---
-[E9S](#e9s-optimizations)  
-[E10S](#e10s-optimizations)  
-[E11S](#e11s-optimizations)  
-[E12S Phase One](#e12s-phase-one-optimizations)  
-[E12S Phase Two](#e12s-phase-two-optimizations)
+[E9S - Cloud of Darkness](#e9s-optimizations)  
+[E10S - Shadowkeeper](#e10s-optimizations)  
+[E11S - Fatebreaker](#e11s-optimizations)  
+[E12S - Eden's Promise](#e12s-phase-one-optimizations)  
+[E12S - Oracle of Darkness](#e12s-phase-two-optimizations)
 
 - - -
 
