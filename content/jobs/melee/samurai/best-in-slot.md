@@ -12,7 +12,7 @@ title: Best in Slot
 [Etro](https://etro.gg/gearset/6086e5c2-52bc-4c6c-83cb-39cfbbf3a93b)
 
 
-> 28 GCD loop, 2 filler GCDs, most used sets. *Play these.*
+> 28 GCD loop, two filler GCDs, most used sets. *Play these.*
 
 
 
