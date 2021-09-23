@@ -1,7 +1,7 @@
 ---
 title: Best in Slot
 ---
-# BEST-IN-SLOT (BiS) / ITEMIZATION
+# Best-in-Slot (BiS) / Itemization
 
 ## Best-in-slot
 
