@@ -600,24 +600,28 @@ The GCD priority list below was made by figuring out how to minimize these poten
 
 # AoE Rotation 
 
+
 Whenever you are able to hit more than 1 target, you should make the following changes to your rotation based on how many targets you can hit:
 
 2 Targets
-Replace Cascade → Fountain with Windmill → Bladeshower for your filler combo
-Replace Fan Dance I with Fan Dance II when using feathers, continue using Fan Dance III as it procs
-Continue to use Standard Step / Technical Step / Flourish / Devilment on cooldown
-Continue using Reverse Cascade and Fountainfall as they proc from Flourish
-Continue to use Saber Dance
+- Replace Cascade → Fountain with Windmill → Bladeshower for your filler combo
+- Replace Fan Dance I with Fan Dance II when using feathers, continue using Fan Dance III as it procs
+- Continue to use Standard Step / Technical Step / Flourish / Devilment on cooldown
+- Continue using Reverse Cascade and Fountainfall as they proc from Flourish
+- Continue to use Saber Dance
+
 
 3 Targets
-Same as 2 targets except you can let your single target procs (Reverse Cascade and Fountainfall) drop when you use Flourish since the value of your AoE GCD combo + potential procs they can generate are worth more than these single target GCD procs on 3+ targets
+- Same as 2 targets except you can let your single target procs (Reverse Cascade and Fountainfall) drop when you use Flourish since the value of your AoE GCD combo + potential procs they can generate are worth more than these single target GCD procs on 3+ targets
+
 
 4+ Targets
-Same as 3 targets, except only use Standard Step to refresh the Standard Finish buff. Standard Step on 4+ targets is a loss compared to average AoE GCD potency + potential potency gains from the feathers that could be generated in those GCDs
+- Same as 3 targets, except only use Standard Step to refresh the Standard Finish buff. Standard Step on 4+ targets is a loss compared to average AoE GCD potency + potential potency gains from the feathers that could be generated in those GCDs
+
 
 Special note: 
-Windmill and Bladeshower will cancel the effect of a combo’d Fountain (i.e. if you do Cascade → Windmill, you will lose the combo’d Fountain effect). Similarly, Cascade and Fountain will cancel the effect of combo’d Bladeshower (i.e if you do Windmill → Cascade, you will lose the combo’d Bladeshower effect). 
-In situations where the number of targets you can hit changes (i.e. being able to hit 2 targets but then having to move away for a mechanic and can now only hit 1 target or vice versa), it is worth it to drop your combo’d Fountain in favor of a Windmill when going from 1 to 2 targets. When going from 2 to 1 targets, it is only worth it to complete a combo’d Bladeshower on the single target if you will be able to use the potential Bloodshower proc on both targets within the 20 seconds of the proc. Otherwise, drop the Bladeshower combo in favor of Cascade.
+- Windmill and Bladeshower will cancel the effect of a combo’d Fountain (i.e. if you do Cascade → Windmill, you will lose the combo’d Fountain effect). Similarly, Cascade and Fountain will cancel the effect of combo’d Bladeshower (i.e if you do Windmill → Cascade, you will lose the combo’d Bladeshower effect). 
+- In situations where the number of targets you can hit changes (i.e. being able to hit 2 targets but then having to move away for a mechanic and can now only hit 1 target or vice versa), it is worth it to drop your combo’d Fountain in favor of a Windmill when going from 1 to 2 targets. When going from 2 to 1 targets, it is only worth it to complete a combo’d Bladeshower on the single target if you will be able to use the potential Bloodshower proc on both targets within the 20 seconds of the proc. Otherwise, drop the Bladeshower combo in favor of Cascade.
 
 
 
@@ -626,14 +630,21 @@ In situations where the number of targets you can hit changes (i.e. being able t
 
 
 
-Opener
+
+---
+
+# Opener
+
 
 The opener is important for DNC’s rotation since it sets up all of their cooldowns and dance timings for the rest of the fight by executing these actions in a certain order. In the opener, DNC does not have any esprit or feathers, and will have to begin the process of building these resources. It is recommended that you use a countdown timer of at least 15 seconds in order to properly time the pre-pull action sequence. The opener is as follows:
 
 
+
 Start Standard Step (started 15 seconds pre-pull) → 2 steps → (use Peloton any point pre-pull, this gives the party a small burst of speed to hit the boss as soon as possible when the fight begins if they cannot pop sprint before the fight) → Potion (used 1.5 seconds before the boss is pulled) → Standard Finish (used right as the countdown hits 0) → Start Technical Step → 4 steps → Technical Finish (weave Flourish) → Rising Windmill (weave Devilment) → GCD → GCD → Start Standard Step → … continue with rotation
 
+
 The Rising Windmill is chosen as the GCD after Technical Finish because it is your lowest potency proc (along with Reverse Cascade), and it will be used outside of Devilment. If you have an opportunity to hit 2 or more targets during this Technical Finish in the opener, it is better to use a Reverse Cascade here instead and save the Rising Windmill proc for when you can hit 2+ targets (such as the Living Liquid opener in The Epic of Alexander).
+
 
 The Fan Dance III proc that is generated from Flourish can be double weaved and used after Devilment. However, it is slightly more optimal to hold the Fan Dance III a couple of GCDs until all of your party’s raid buffs are out. If holding Fan Dance III like this in the opener, wait before you use any potential Feathers you generate, otherwise you could override the Fan Dance III proc.
 
