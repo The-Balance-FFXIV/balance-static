@@ -5,13 +5,15 @@ title: FAQ
 
 > *How can I see my fairy's nameplate in battle?*
 
-A. Character Configuration > Control Settings > "Target" tab > Under "Target Settings", Uncheck "Disable targetting of pets and minions when in battle."
+A. Character Configuration > Control Settings > "Target" tab > Under "Target Settings", Uncheck "Disable targeting of pets and minions when in battle."
 
 B. Character Config > Display Name Settings > "Own" tab > Under "Pets" set "Display Name Settings" to "Always" or "During Battle"
 
-Both options must be set this way or your fairy's nameplate will be hidden.![](https://cdn.discordapp.com/attachments/277965183366987776/594595999935234068/unknown.png)
+Both options must be set this way or your fairy's nameplate will be hidden.
 
-> *Reci Succor or Reci Spreadlo?*  
+![](https://cdn.discordapp.com/attachments/277965183366987776/594595999935234068/unknown.png)
+
+> *Recitation Succor or Reci Spreadlo?*  
 
 Note: Exact potencies when using Recitation are based on your own crit stat. Assume M is your own crit multiplier and plug it in if you want more precise numbers for your own gear. Every potency in the FAQ will include an M multiplier so the exact stat doesn't affect the comparison.
 
@@ -53,6 +55,7 @@ Macros in this game suffer from a lack of queuing like normal actions, a drawbac
 
 **Sacred Soil**\
 Sacred Soil can be slow and tricky to place as a ground effect, `<t>` and `<me>` are both useful for placing it around the boss or yourself respectively. Using `<pet>` lets you move the fairy to the required spot in advance and then place it on her.\
+
 `/merror off`\
 `/ac "sacred soil" <t>`\
 `/ac "sacred soil" <t>`\
@@ -60,11 +63,13 @@ Sacred Soil can be slow and tricky to place as a ground effect, `<t>` and `<me>`
 
 **Place**\
 Placing the fairy does not require a weave slot so it doesn't suffer any negatives from being macroed.\
+
 `/micon “place” pet`\
 `/pac "place" <t>`
 
 **Single Target Heals**
 Be very careful using macros for these, as they suffer from macro delay and don't have the same ground targeting issues as Sacred Soil to justify using a macro. `<mo>` and `<tt>` are generally the ones that might come in handy here\
+
 `/merror off`\
 `/ac excogitation <tt>`\
 `/ac excogitation <tt>`\
@@ -79,7 +84,7 @@ SCH has the most restrictive GCD requirements of the three healers when making h
 1. This assumes that Ruin II usage is kept to a minimum. Because Ruin II is an instant cast, it doesn't suffer from caster tax like Broil III does. This means that replacing more Broil III's with Ruin II's will shift your alignment over long periods of time, and thus 2.41s won't have a significant advantage for AF alignment. This is why we recommend GCD of 2.43s or faster rather than a hard requirement of 2.41s while gearing up. The 2.43s is enough to give you fairly clean Bio refreshes, but AF alignment over a long period of time may drift. The 2.43s is not a hard requirement though, only a recommendation. It's perfectly possible to prog at a slower GCD.
 2. 2.41s will not be the ideal GCD for every fight. Due to phase timings, other GCDs may have advantages in certain fights. A common case for this is Ultimate fights, which often have short phases where AF doesn't have enough time to drift out of Bio.
 
-> *So why the hell is SCH BiS 2.32 GCD this tier???*
+> *So why the hell is SCH BiS 2.32 GCD this tier?*
 
 The short answer is that our gear absolutely sucks for 2.41s this tier. We either have to take on a bunch of piety or use crafted gear, and neither one is efficient. 2.32s GCD lines up AF well, but sits on a sort of halfway point of DoT timings that requires us to alternate between 12 GCD and 13 GCD Bios, which can result in lost Bio ticks. This still makes it the most efficient GCD that we're able to hit at the moment damage wise, that doesn't throw off AF alignment or give us meme levels of mana efficiency.
 
