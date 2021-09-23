@@ -52,21 +52,21 @@ Also note that this guide assumes your party DPS is not high enough to phase the
 
 * If aiming to end the add phase as quickly as possible, one consideration is positioning yourself on one of the adds after the initial mechanics are done, selecting the far add and using LB2.
 
-## Post-adds transition:
+## Post-Adds Transition:
 
 * Wait for everyone to get back to middle and Improvisation. You should be able to get the full 50 esprit.
 * Once you have gained 50 esprit, this should coincide approximately with the text *“For victory, I render up my all!”* At any point when this text box shows up, you can start Standard Step as the boss will become targetable within the next 10-13 seconds.
 
   * This also coincides around the time the tanks will be using LB3 if they are using it early.
 
-# Post-adds Phase
+# Post-Adds Phase
 
 * Depending on how fast/slow the adds went down, Flourish should be weaved with Standard Finish to get it rolling again for the next tech window.
 * Unfortunately, recommendations past this point are difficult as the fight becomes unpredictable; however, full uptime can be maintained for the remainder of the fight regardless of the order of mechanics
 
   * (Although make sure to Arm’s Length the knockback from Ninja or you may lose a GCD). 
 
-# What should I do if my party is full of gamers? (Finishing Phase 1 early)
+# What Should I Do If My Party Is Full of Gamers? (Finishing Phase 1 early)
 
 * There are a few considerations:
 
