@@ -185,7 +185,7 @@ Flourish comes off cooldown at 1 minute during the Protean Wave > baited Sluice 
 # Limit Cut
 
 * You can start Standard Step when Cruise Chaser appears behind the person with the “5” above their head during Limit Cut. This is approximately 15 seconds before both Brute Justice and Cruise Chaser are targetable. If you are doing a very optimized speed run, you could potentially do Technical Step during Limit Cut instead of Standard Step (this would be assuming you opened Living Liquid with Technical Step as well). However, most people progressing through this fight will not be killing nearly fast enough to make pre-Technical Step worth it.
-* If you use Second Wind to recover from Doll damage, it will likely not be up to use during Limit Cut to recover from Alpha Sword damage before J Kick.
+* If you use Second Wind to recover from Doll damage, it will likely not be up to use during Limit Cut to recover from Alpha Sword damage before J-Kick.
 * It is also highly recommended to use Arm’s Length for the Alpha Sword / Super Blassty Charge mechanic.
 
 # Brute Justice / Cruise Chaser
