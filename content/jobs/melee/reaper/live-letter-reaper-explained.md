@@ -32,13 +32,13 @@ The first gauge we will be looking at is the Soul Gauge. It is the red gauge see
 
   * Using your basic Combo:
 
-    * Single Target basic combo : Slice > Waxing Slash > Infernal Slice
-    * AoE Combo : Spinning Scythe > Nightmare Scythe
+    * Single Target basic combo : **Slice > Waxing Slash > Infernal Slice**
+    * AoE Combo : **Spinning Scythe > Nightmare Scythe**
     * Each of these build 10 Soul Gauge
   * Using your “Soul”-like weapon skills:
 
-    * Soul Slice - Single target
-    * Soul Scythe - AoE
+    * **Soul Slice** - Single target
+    * **Soul Scythe** - AoE
     * Both build 50 Soul Gauge
     * Both are on the Global Cooldown
     * Both share a cooldown and can store up to 2 charges
@@ -107,7 +107,7 @@ Ok, you have a Sickle, maybe two and who knows you could even have three so what
 
 This isn’t the only way we can generate Shroud though, to do so we have to use one ability first and build up another resource. Here is how it happens:
 
-* You cast your ability Arcane Circle, this does three things:
+* You cast your ability **Arcane Circle**, this does three things:
 
   * Buffs your parties damage by 3%.![](https://lh3.googleusercontent.com/IaOMQImfEw3howQ5JOu0u87Wvmyj2EZcj6XDNDoXU5m1soJG8_ptDN2_DCG_rgzQpDUAGQutAHKj2LhrWGT2CbpyflEHkeyXPZcXdGRA-t5hlXI_X1vwpgajlBEtKFxupzlCVuGD=s0)
 
@@ -146,22 +146,22 @@ You are finally shrouded in darkness, surely this is the last spender. Well no, 
   * I will list what “additional abilities” can be used during shroud below
   * Changes / upgrades the following weapon skills:
 
-    * Gibbet → Void Reaper
-    * Gallows → Cross Reaper
-    * Guillotine → ???
+    * **Gibbet → Void Reaper**
+    * **Gallows → Cross Reaper**
+    * **Guillotine → ???**
   * Changes / upgrades the following abilities:
 
-    * Stalksway/Gibbet Claw/Gallows Claw → Lemure Slice
-    * Thiefsway → ??? (Lemure Scythe if we had to guess)
+    * **Stalksway/Gibbet Claw/Gallows Claw → Lemure Slice**
+    * **Thiefsway → ??? (Lemure Scythe if we had to guess)**
   * Gives access to the following abilities:
 
-    * Communio
+    * **Communio**
 
 Ok that was a lot, let’s unpack that and talk about what you do in Lemure’s Shroud. It is very simple once you see how it works:
 
 ![](https://lh3.googleusercontent.com/FE-hiiWS5qcWRiNiWytCqNWmzmG_QMN_rlI8vKzv2rEyCmaqteAG9IcjU5V2Gww1kgAUVUufDx1JJbsYQEjynXXY1A1G0ykl_5iRSuqF_OnFN7jyUv_-hcqwFL9VJ5Xin7rZny8Y=s0)
 
-* Using the weapon skills Void Reaper, Cross Reaper or Guillotines Transformation consume one Lemure Soul stack and give you one stack of Lemure X
+* Using the weapon skills Void Reaper, Cross Reaper or Guillotines Transformation consume one Lemure Soul stack and give you one stack of Lemure X(unknown name at this time)
 * * Lemure Souls are the blue orbs in the gauge above
   * Void Reaper and Cross Reaper seem to have a 1.5s global cooldown, meaning they will be much faster than all of your other weapon skills.
   * We are unsure if Void Reaper and Cross Reaper will have positional requirements, but we believe they may.
@@ -174,7 +174,7 @@ Ok that was a lot, let’s unpack that and talk about what you do in Lemure’s 
   * Communio requires one Lemure Soul
   * Communio ends the Lemure Shroud status
   * Communio has a cast time of 1.3s
-  * Communio has a base global cooldown of 2.5, like your other abilities
+  * Communio has a base global cooldown of 2.5, like your other abilities but since it is a spell will be unaffected by skillspeed.
 
 
 
@@ -182,9 +182,11 @@ Ok that was a lot, let’s unpack that and talk about what you do in Lemure’s 
 
 So your Lemure Shroud will look like this in single target:
 
-Void Reaper → Cross Reaper → Lemure Slice → Void Reaper → Cross Reaper → Lemure Slice → Communio
+* **Void Reaper → Cross Reaper → Lemure Slice → Void Reaper → Cross Reaper → Lemure Slice → Communio**
 
 And that is it! You have spent your last builder. That is Reaper in a nutshell! There are a few more interesting things to talk about though, so hang around!
+
+
 
 **Shadow of Death / Whorl of Death(AoE)**
 
@@ -252,14 +254,16 @@ So in short to play Reaper you do the following:
 * Spend Sickles to gain Shroud
 * Spend Shroud to enter Lemure’s Shroud
 
+
+
 Lastly, there are still a few questions we have that need to be answered in order for us to get a full picture of all that Reaper has to offer:
 
 * Can Gluttony allow you to stack up to 3 Sickles.
-* * The test would be to use Stalksway or any of the claws then follow up with Gluttony and see if you have 3 Sickles
+* The test would be to use Stalksway or any of the claws then follow up with Gluttony and see if you have 3 Sickles
 * What is the damage delay on Harpe.
-* * We are looking to see if it has a 1s~ish damage delay that would allow for pre pull Harpe without much damage loss
+* We are looking to see if it has a 1s~ish damage delay that would allow for pre pull Harpe without much damage loss
 * Potencies and tooltips on the four abilities that change when you click Lemure’s Shadow
-* * We are looking for potencies and positional requirements
+* We are looking for potencies and positional requirements
 * EN Names of the abilities
 * Can you actually use Shadow of Death during Lemure’s Shroud when EW goes live, or during the Media Tour?
 * What else can you use during Lemure’s Shroud, oGCDs and potions etc
@@ -268,3 +272,4 @@ Lastly, there are still a few questions we have that need to be answered in orde
 * List of traits and their tooltips
 * Animation delay on Egress abilities
 * NA tooltips for every ability would honestly be appreciated
+* Does Shadow of Death break combo?
