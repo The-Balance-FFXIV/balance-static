@@ -8,7 +8,8 @@ title: Astrologian Guide
 *Brought to you by Zyrkhan Dar’locke, AKA Literally Who*\
 *No, we still can’t be Gambit*
 
-The Scope of this Guide
+# The Scope of this Guide
+
 As the title implies, this guide is intended to function as an introduction to Astrologian. This guide is concerned with Astrologian only. It will not address the general principles of healing as they apply to all healers. Those things are discussed in [Zyrk’s Bullshit Guide to the Principles of Healing](http://bit.ly/FFXIVHealerGuide). Our focus is on things that are unique to Astrologian: AST-specific spells/abilities, cards, strengths, weaknesses, etc.
 
 The guide is intended both for people who are relatively new to the job and people who are generally uncertain as to whether they’re on the right track with their understanding of what the job does, what it’s supposed to do, and how it’s supposed to do it. The goal is to point you in the right direction and give you a solid foundation to build upon.
@@ -51,10 +52,6 @@ For more in-depth AST discussion and questions beyond the scope of this guide, p
 
     * Outdated Opener given its own section for posterity
   * Secondary Stats - Updated to reflect shift in stat focus due to better MP economy after 5.3 changes
-
-# To-Do
-
-* Nothing, yet?
 
 - - -
 
