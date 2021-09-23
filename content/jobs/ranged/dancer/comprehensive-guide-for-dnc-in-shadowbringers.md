@@ -245,7 +245,7 @@ In addition to providing the Dancer and their Dance Partner with a damage% buff,
 Standard Step is one of your strongest damaging moves and should be kept off cooldown as much as possible. At 1000 potency over the course of 5 seconds of dancing, this ability does 500 potency per GCD’s worth of time. With your average weaponskill GCD being valued at approximately 347 potency per GCD, Standard Step is seen to be a very strong gain over our average single target GCDs.
 
 
-Special Notes:
+## Special Notes:
 - You DO continue to do auto attacks while dancing. However, if the boss was de-selected (i.e. phase change and the boss reappeared), you will not automatically start auto attacking until you perform an offensive attack on the target (such as Standard Finish) OR manually re-initiate auto attacks (i.e. right click the boss).
 - In addition to not being able to use weaponskills, you won’t be able to use any oGCD abilities with the exception of En Avant and Role Actions (such as Second Wind and Arm’s Length) until you execute “Standard Finish” or until the Standard Step 15 second timer expires.
 - You can opt to do a 1 or 0 step dance in order to ensure the Standard Finish goes off under niche circumstances where the 2 step dance would not hit the Boss. Situations like this very rarely occur, examples would be the very last second of the fight before the boss dies if you are mid dance or a particular phase transition where you wouldn’t be able to get the 2 step dance off before the boss becomes untargetable. In your normal rotation, it is never worth it to do less than 2 steps.
@@ -307,43 +307,51 @@ All players within a 15y radius of the DNC when they execute Technical Finish re
 
 
 
+
+![](https://cdn.discordapp.com/attachments/458951851610734595/890406044566708224/unknown.png)
+
 Because the time it takes to execute Technical Step, the 4 steps, and Technical Finish is a total of 7 seconds (1.5s for Technical Step, 1.0s x4 for the steps, 1.5s for Technical Finish = 7.0s), there is a natural 0.5 second gap period of time (because it’s 0.5 seconds short of 7.5 seconds which is the same as 3 GCDs worth of time) when at a 2.50 GCD tier between the end of a GCD and when Standard Step comes off cooldown during Technical Finish (if Standard Step has not drifted through out the fight). At this GCD tier, it is optimal to hold the GCD in favor of using Standard Step when it comes off cooldown. See Ellunavi’s analysis for more info on when this is optimal.
 
 
-Special Notes:
-You DO continue to do auto attacks while dancing. However, if the boss was de-selected (i.e. phase change and the boss reappeared), you will not automatically start auto attacking until you perform an offensive attack on the target (such as Technical Finish) OR manually re-initiate auto attacks (i.e. right click the boss).
-In addition to not being able to use weaponskills, you won’t be able to use any oGCD abilities with the exception of En Avant and Role Actions (such as Second Wind and Arm’s Length) until you execute “Technical Finish” or until the Technical Step 15 second timer expires.
-Unlike other raid buff abilities, Technical Finish needs 5.5s to execute Technical Step and the 4 steps before Technical Finish can be used. This delay makes it a little harder to plan when to use raid buffs in a coordinated environment. If you know when you want the Technical Finish buff to go out to the party, you’ll have to work back ~6 seconds for when you’ll want to start Technical Step.
-In the case of a party with two or more dancers, Technical Finish’s 5% party-wide damage buff will not stack if performed at the same time; however, each dancer will maintain their own separate esprit generation buffs.
 
-Understanding Fan Dance (and weaving oGCDs in general)
-
-Feathers are a resource the Dancer can use to perform Fan Dances that are weaved in between the GCDs of weaponskills (called off global cooldown abilities or oGCDs). You have a 50% chance to earn a feather upon successfully landing a hit with any of your proc GCDs (Reverse Cascade and Fountainfall for single target GCDs, Rising Windmill and Bloodshower for AoE GCDs). You can hold up to 4 feathers. How many feathers you have can be seen on your Fourfold Feather gauge:
+## Special Notes:
+- You DO continue to do auto attacks while dancing. However, if the boss was de-selected (i.e. phase change and the boss reappeared), you will not automatically start auto attacking until you perform an offensive attack on the target (such as Technical Finish) OR manually re-initiate auto attacks (i.e. right click the boss).
+- In addition to not being able to use weaponskills, you won’t be able to use any oGCD abilities with the exception of En Avant and Role Actions (such as Second Wind and Arm’s Length) until you execute “Technical Finish” or until the Technical Step 15 second timer expires.
+- Unlike other raid buff abilities, Technical Finish needs 5.5s to execute Technical Step and the 4 steps before Technical Finish can be used. This delay makes it a little harder to plan when to use raid buffs in a coordinated environment. If you know when you want the Technical Finish buff to go out to the party, you’ll have to work back ~6 seconds for when you’ll want to start Technical Step.
+- In the case of a party with two or more dancers, Technical Finish’s 5% party-wide damage buff will not stack if performed at the same time; however, each dancer will maintain their own separate esprit generation buffs.
 
 
+---
 
+# Understanding Fan Dance (and weaving oGCDs in general)
 
-
-
-
-      
+Feathers are a resource the Dancer can use to perform Fan Dances that are weaved in between the GCDs of weaponskills (called off global cooldown abilities or oGCDs). You have a 50% chance to earn a feather upon successfully landing a hit with any of your proc GCDs (Reverse Cascade and Fountainfall for single target GCDs, Rising Windmill and Bloodshower for AoE GCDs). You can hold up to 4 feathers. How many feathers you have can be seen on your Fourfold Feather gauge:  
+![](https://cdn.discordapp.com/attachments/458951851610734595/890406241522814986/unknown.png)  
 (Showing the DNC holding 4 feathers)
+
 
 You can use a feather by using either Fan Dance (single target ability that does 150 potency) or Fan Dance II (AoE around you that does 100 potency to all targets hit). Successfully landing a hit with either of these abilities has a 50% chance to grant you the ability to use Fan Dance III (200 potency to selected target and 100 potency to all targets in an AoE around your target).
 
+
 It is important to save these feathers as much as possible for opportunities when you have strong buffs to increase their damage (such as your Technical Finish / Devilment window). However, overcapping on feathers is a considerable loss to your DPS. Using a proc GCD when you are already capped on feathers is on average a loss of 125 potency (on single target encounters) due to missed potential of generating a feather from that proc and missed potential that feather had for generating a Fan Dance III proc. Using Fan Dance when you already have a Fan Dance III proc is on average a loss of 100 potency due to potentially missing an opportunity to use the Fan Dance III proc that could have been generated from that feather.
+
 
 When you have no feathers, Fan Dance and Fan Dance II are grayed out and unavailable
 /			
+
 When you have at least 1 feather, Fan Dance and Fan Dance II will be highlighted like this showing that these actions are able to be used. In a fight, feathers do not expire unless you die.
 /
 
 
+
 When Fan Dance III procs, you get a buff that lasts for 20 seconds that allows you to use Fan Dance III called “Flourishing Fan Dance”. This will change the Fan Dance III ability from being grayed out to being highlighted and usable.
 /					
+
 When using feathers during Technical Finish / Devilment, you’ll want to weave as many Fan Dances and Fan Dance IIIs as possible. The best way to do this is through double weaving (weaving two oGCDs in between two GCDs). Depending on your ping, you may not be able to properly weave 2 oGCDs in between GCDs without clipping your GCD. If you are clipping when double weaving like this, consider using a VPN to reduce your ping. If using a VPN is not an option or doesn’t help prevent clipping when double weaving, your best option is to only single weave to prevent significant clips. Although playable, it is suboptimal since you won’t be able to weave as many oGCDs as possible in buff windows.
 
+
 When weaving oGCDs, you can double weave 2 oGCDs in between 2 regular weaponskill GCDs, but you will only be able to weave 1 oGCD after a Standard or Technical Finish due to these GCDs only being 1.5 seconds as opposed to your normal weaponskill GCD (base 2.50 sec). Generally speaking, when weaving feathers in buff windows, you’ll want to use Fan Dance and immediately queue up Fan Dance III in the double weave window. 
+
 
 Theoretically, you can use Fan Dance and then wait to see whether Fan Dance III procs and if it doesn’t proc use Fan Dance again as your second oGCD. However, because Fan Dance has a 1 sec cooldown while animation lock of oGCDs is 0.8 sec, double weaving Fan Dance into Fan Dance is not recommended due to increased likelihood of clipping the GCD as well as relying on reaction time to decide whether you need to press Fan Dance III or Fan Dance as your second oGCD. Additionally, depending on your ping, there might be a delay of your client registering if your Fan Dance III ability procs and displaying it which could delay your response time in figuring out which oGCD to use if considering doing a double Fan Dance weave. Therefore, it is recommended to do Fan Dance and then hit the Fan Dance III button regardless of whether the ability procs. If it procs, you will have done Fan Dance into Fan Dance III. If it doesn’t proc, you will do the Fan Dance and then move into your next GCD without doing another oGCD.
 
