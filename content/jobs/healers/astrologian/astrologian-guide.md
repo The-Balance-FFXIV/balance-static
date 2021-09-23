@@ -8,8 +8,8 @@ title: Astrologian Guide
 *Brought to you by Zyrkhan Dar’locke, AKA Literally Who*\
 *No, we still can’t be Gambit*
 
+# The Scope of this Guide
 
-The Scope of this Guide
 As the title implies, this guide is intended to function as an introduction to Astrologian. This guide is concerned with Astrologian only. It will not address the general principles of healing as they apply to all healers. Those things are discussed in [Zyrk’s Bullshit Guide to the Principles of Healing](http://bit.ly/FFXIVHealerGuide). Our focus is on things that are unique to Astrologian: AST-specific spells/abilities, cards, strengths, weaknesses, etc.
 
 The guide is intended both for people who are relatively new to the job and people who are generally uncertain as to whether they’re on the right track with their understanding of what the job does, what it’s supposed to do, and how it’s supposed to do it. The goal is to point you in the right direction and give you a solid foundation to build upon.
@@ -52,10 +52,6 @@ For more in-depth AST discussion and questions beyond the scope of this guide, p
 
     * Outdated Opener given its own section for posterity
   * Secondary Stats - Updated to reflect shift in stat focus due to better MP economy after 5.3 changes
-
-# To-Do
-
-* Nothing, yet?
 
 - - -
 
@@ -152,7 +148,7 @@ You want to use Essential Dignity liberally in order to minimize the amount of a
 
 ### Celestial Intersection (CI)
 
-Celestial Intersection. This is it. This is your new first line of defense for tank upkeep. Use this before Diurnal Aspected Benefic, use it before you resort to ED charges, use it before you let your cohealer use Regen or Aetherpact or Excogitation. Potent, low cooldown single target oGCD healing that applies the effect of the *opposite sect* from the sect you’re in. In Diurnal Sect, it’s a 200 potency upfront heal and a 400 potency shield (a unique shield buff that doesn’t conflict with other healers’ shields). In Nocturnal Sect, it’s a 200 potency upfront heal and a 150 potency regen for 15 seconds, for a total of 950 potency.
+Celestial Intersection. This is it. This is your new first line of defense for tank upkeep. Use this before Diurnal Aspected Benefic, before you resort to ED charges, and before you let your cohealer use Regen, Aetherpact, Excogitation, etc. Potent, low cooldown single target oGCD healing that applies the effect of the *opposite sect* from the sect you’re in. In Diurnal Sect, it’s a 200 potency upfront heal and a 400 potency shield (a unique shield buff that doesn’t conflict with other healers’ shields). In Nocturnal Sect, it’s a 200 potency upfront heal and a 150 potency regen for 15 seconds, for a total of 950 potency.
 
 Notably, the cooldown is only 30 seconds, so you can (and should) throw it on the tank virtually every time it’s up in Diurnal Sect, unless they’re not taking any damage for 30 seconds, since the shield lasts as long as the cooldown. In Nocturnal Sect, you’ll want to use it as often as you can without having it overheal by a huge amount. Don’t worry too much about overhealing with it since it’s free, but you may end up holding it for a little while if the tank isn’t taking enough damage to make use of it.
 
@@ -221,8 +217,6 @@ In general, treat the opener and situations like these as the cornerstones of yo
 
 ## Cards and Divination
 
-“You just spent six pages talking about oGCDs *and you didn’t even cover raid buffs?*” Yes indeed. I said it would be an introduction, not that it would be brief.
-
 This is our identifying job mechanic. Shadowbringers brought us a full card rework (one that was much needed for the big-picture health of the game, but I digress). The rework has been very contentious, but it’s what we’ve got, and you’re here to learn how to use it. I don’t like going over tooltips in guides, but since this is a complete rework, I’m making an exception.
 
 ### Draw/Play
@@ -230,7 +224,9 @@ This is our identifying job mechanic. Shadowbringers brought us a full card rewo
 Draw gives you one of six cards. Each card gives a damage buff for 15 seconds. The buff is 6% if you play it on the correct role, or 3% if you play it on the opposite role, with the roles being split into melee/tanks and ranged/healers. Upon use, Draw also restores 8% of your maximum MP (800 MP).
 
 Draw has a 30 second cooldown, which starts ticking as soon as you’ve drawn a card. A drawn card has no expiration timer. You can hold onto it as long as you like, though you’ll want to Play it before Draw comes back up in order to not lose out on cards. Play is its own separate button for distributing cards.
-Seals
+
+### Seals
+
 Each card also has a corresponding Seal, displayed at the top of the card in your gauge. There are three different Seals. There’s one card of each Seal for melee, and one card of each Seal for ranged. Balance, Arrow, and Spear are for melee, and Bole, Ewer, and Spire are for ranged. You can tell if a card is for melee or ranged by looking at the sides of the card. Melee cards have a blue outline and small blue ‘+’ signs to the sides, and ranged cards have a purple outline with small purple circles to the sides. If you’re familiar with pre-5.0 Astrologian, the old damage cards are for melee, and the old non-damage cards are for ranged.
 
 When you play a card *while in combat*, the card’s Seal is stored in one of the slots at the top of your job gauge. The game is very finicky about registering you being in combat if you play a card immediately after your first GCD hitting an enemy, so our openers don’t play standard cards on the first GCD weave. The Seals slot into the gauge from right to left, pushing out the leftmost (oldest) Seal if all slots are filled. These Seals are used to fuel Divination.
@@ -279,7 +275,7 @@ We've taken a lot of care to evaluate as many of the variables as we reasonably 
 
 **Most of this is optional and fight-dependent**, but it is almost always recommended to prep a card 30 seconds pre-pull so that Draw comes back up, place Earthly Star somewhere pre-pull, and use Aspected Benefic, Celestial Intersection, and your Mind Potion/Tincture starting at -5s to lead into your precast Malefic.
 
-![Atro Opener Simple](https://saltedxiv.com/wp-content/uploads/2020/09/Astro_Opener_simple_1_03-1536x310.png)
+![Astro Opener Simple](https://saltedxiv.com/wp-content/uploads/2020/09/Astro_Opener_simple_1_03-1536x310.png)
 
 * Pre-pull Earthly Star (up to -20s depending on fight; -12s to -8s optimal for damage)
 * **\-30	- Draw** (opener assumes you pull with a card in hand and Draw ready)
@@ -347,7 +343,7 @@ If you draw a seal you don't already have, you Play the card on the appropriate 
 
 Sometimes, it'll take more than one try to pull the right seal. When it does, the grouping of oGCDs becomes a concern. Redraw itself has an internal cooldown that makes it impossible to double weave back-to-back Redraws without causing clipping, but that's where the new and improved Minor Arcana comes in. Because you have 5 total cards to play in the opener, assuming you started the pull with one card prepped and Draw back off cooldown, and Divination only requires 3 seals, you will generally be using 2 MAs somewhere in the opener. Now that there's no additional oGCD bloat when using MA, it can be used in the opener as a poor man's Redraw.
 
-You can see in the flowchart how it might be used. On the first split in the chart, if we get unlucky and draw a duplicate seal, we use MA instead of Redraw in order to not push back leeve Draw by a GCD, which would severely disrupt the oGCD grouping of the rest of the opener and inevitably delay Divination even further. MA allows us to dump the unwanted seal at this point while preserving the carefully balanced timing of all the cards to follow.
+You can see in the flowchart how it might be used. On the first split in the chart, if we get unlucky and draw a duplicate seal, we use MA instead of Redraw in order to not push back Sleeve Draw by a GCD, which would severely disrupt the oGCD grouping of the rest of the opener and inevitably delay Divination even further. MA allows us to dump the unwanted seal at this point while preserving the carefully balanced timing of all the cards to follow.
 
 The rest of the time, MA is used as a backup Redraw to be weaved immediately after a Redraw if you find yourself in a situation where you are Redrawing on the first weave space in a double weave window. In these cases, if you Redraw and still don't get the seal you needed, you may use MA to simply push through and force the next card earlier to get another shot at the right seal, rather than waiting until the next GCD to try to Redraw again.
 
