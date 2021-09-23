@@ -1,7 +1,7 @@
 ---
 title: FAQ
 ---
-# FAQ
+# Scholar FAQ
 
 > *How can I see my fairy's nameplate in battle?*
 
