@@ -1,49 +1,49 @@
 ---
-title: Skill Overview
+title: Dancer Skills Overview
 ---
 # PvE actions
-| Icon | Action | Level | Type | Casting | Recast | Description |
-|------|--------|-------|------|---------|--------|-------------|
-| Icon | Cascade|1|Weaponskill|Instant|2.5s|Delivers an attack with a potency of 250.
-| Icon | Fountain|2|Weaponskill|Instant|2.5s|Delivers an attack with a potency of 100.
-| Icon | Windmill|15 | Weaponskill | Instant | 2.5s | Delivers an attack with a potency of 150 to all nearby enemies.
-| Icon | Standard Step|15 | Ability | Instant | 30s | Begin dancing, granting yourself Standard Step.
-| Icon | Standard Finish|15 | Ability | Instant | 1.5s | Delivers an attack to all nearby enemies. Potency varies with number of successful steps, dealing full potency for the first enemy, and 75% less for all remaining enemies.
-| Icon | Reverse Cascade|20 | Weaponskill | Instant | 2.5s | Delivers an attack with a potency of 300.
-| Icon | Bladeshower|25 | Weaponskill | Instant | 2.5s | Delivers an attack with a potency of 100 to all nearby enemies.
-| Icon | Fan Dance|30 | Ability | Instant | 1s | Delivers an attack with a potency of 150.
-| Icon | Rising Windmill|35 | Weaponskill | Instant | 2.5s | Delivers an attack to all nearby enemies with a potency of 300 for the first enemy, and 50% less for all remaining enemies.
-| Icon | Fountainfall|40 | Weaponskill | Instant | 2.5s | Delivers an attack with a potency of 350.
-| Icon | Bloodshower|45 | Weaponskill | Instant | 2.5s | Delivers an attack to all nearby enemies with a potency of 350 for the first enemy, and 50% less for all remaining enemies.
-| Icon | Fan Dance II|50 | Ability | Instant | 1s | Delivers an attack with a potency of 100 to all nearby enemies.
-| Icon | En Avant|50 | Ability	 | Instant | 30s | Quickly dash 10 yalms forward.
-| Icon | Curing Waltz|52 | Ability | Instant | 60s | Restores own HP and the HP of all nearby party members.
-| Icon | Shield Samba | 56 | Ability | Instant | 120s | Reduces damage taken by self and nearby party members by 10%.
-| Icon | Closed Position | 60 | Ability	 | Instant | 30s | Grants you Closed Position and designates a party member as your Dance Partner, allowing you to share the effects of Standard Finish, Devilment, and Curing Waltz with said party member. Effect ends upon reuse.
-| Icon | Ending|60 | Ability | Instant | 1s | Ends dance with your partner.
-| Icon | Devilment|62 | Ability | Instant | 120s | Increases critical hit rate and direct hit rate by 20%.
-| Icon | Fan Dance III|66 | Ability | Instant | 1s | Delivers an attack to target and all enemies nearby it with a potency of 200 for the first enemy, and 50% less for all remaining enemies.
-| Icon | Technical Step|70 | Ability | Instant | 120s | Begin dancing, granting yourself Technical Step.
-| Icon | Technical Finish|70 | Ability | Instant | 1.5s | Delivers an attack to all nearby enemies. Potency varies with number of successful steps, dealing full potency for the first enemy, and 75% less for all remaining enemies.
-| Icon | Flourish|72 | Ability | Instant | 60s | Grants you the effects of Flourishing Cascade, Flourishing Fountain, Flourishing Windmill, Flourishing Shower, and Flourishing Fan Dance.
-| Icon | Saber Dance|76 | Ability | Instant | 2.5s | Delivers an attack to target and all enemies nearby it with a potency of 600 for the first enemy, and 50% less for all remaining enemies.
-| Icon | Improvisation|80 | Ability | Instant | 120s | Dance to the beat of your own drum, granting Improvisation to self.
+| Icon                                                            | Action           | Level | Type        | Casting | Recast | Description                                                                                                                                                                                                       |
+|-----------------------------------------------------------------|------------------|-------|-------------|---------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Cascade](https://xivapi.com/i/003000/003451_hr1.png)          | Cascade          | 1     | Weaponskill | Instant | 2.5s   | Delivers an attack with a potency of 250.                                                                                                                                                                         |
+| ![Fountain](https://xivapi.com/i/003000/003452_hr1.png)         | Fountain         | 2     | Weaponskill | Instant | 2.5s   | Delivers an attack with a potency of 100.                                                                                                                                                                         |
+| ![Windmill](https://xivapi.com/i/003000/003453_hr1.png)         | Windmill         | 15    | Weaponskill | Instant | 2.5s   | Delivers an attack with a potency of 150 to all nearby enemies.                                                                                                                                                   |
+| ![Standard Step](https://xivapi.com/i/003000/003454_hr1.png)    | Standard Step    | 15    | Ability     | Instant | 30s    | Begin dancing, granting yourself Standard Step.                                                                                                                                                                   |
+| ![Standard Finish](https://xivapi.com/i/003000/003459_hr1.png)  | Standard Finish  | 15    | Ability     | Instant | 1.5s   | Delivers an attack to all nearby enemies. Potency varies with number of successful steps, dealing full potency for the first enemy, and 75% less for all remaining enemies.                                       |
+| ![Reverse Cascade](https://xivapi.com/i/003000/003460_hr1.png)  | Reverse Cascade  | 20    | Weaponskill | Instant | 2.5s   | Delivers an attack with a potency of 300.                                                                                                                                                                         |
+| ![Bladeshower](https://xivapi.com/i/003000/003461_hr1.png)      | Bladeshower      | 25    | Weaponskill | Instant | 2.5s   | Delivers an attack with a potency of 100 to all nearby enemies.                                                                                                                                                   |
+| ![Fan Dance](https://xivapi.com/i/003000/003462_hr1.png)        | Fan Dance        | 30    | Ability     | Instant | 1s     | Delivers an attack with a potency of 150.                                                                                                                                                                         |
+| ![Rising Windmill](https://xivapi.com/i/003000/003463_hr1.png)  | Rising Windmill  | 35    | Weaponskill | Instant | 2.5s   | Delivers an attack to all nearby enemies with a potency of 300 for the first enemy, and 50% less for all remaining enemies.                                                                                       |
+| ![Fountainfall](https://xivapi.com/i/003000/003464_hr1.png)     | Fountainfall     | 40    | Weaponskill | Instant | 2.5s   | Delivers an attack with a potency of 350.                                                                                                                                                                         |
+| ![Bloodshower](https://xivapi.com/i/003000/003465_hr1.png)      | Bloodshower      | 45    | Weaponskill | Instant | 2.5s   | Delivers an attack to all nearby enemies with a potency of 350 for the first enemy, and 50% less for all remaining enemies.                                                                                       |
+| ![Fan Dance II](https://xivapi.com/i/003000/003466_hr1.png)     | Fan Dance II     | 50    | Ability     | Instant | 1s     | Delivers an attack with a potency of 100 to all nearby enemies.                                                                                                                                                   |
+| ![En Avant](https://xivapi.com/i/003000/003467_hr1.png)         | En Avant         | 50    | Ability     | Instant | 30s    | Quickly dash 10 yalms forward.                                                                                                                                                                                    |
+| ![Curing Waltz](https://xivapi.com/i/003000/003468_hr1.png)     | Curing Waltz     | 52    | Ability     | Instant | 60s    | Restores own HP and the HP of all nearby party members.                                                                                                                                                           |
+| ![Shield Samba](https://xivapi.com/i/003000/003469_hr1.png)     | Shield Samba     | 56    | Ability     | Instant | 120s   | Reduces damage taken by self and nearby party members by 10%.                                                                                                                                                     |
+| ![Closed Position](https://xivapi.com/i/003000/003470_hr1.png)  | Closed Position  | 60    | Ability     | Instant | 30s    | Grants you Closed Position and designates a party member as your Dance Partner, allowing you to share the effects of Standard Finish, Devilment, and Curing Waltz with said party member. Effect ends upon reuse. |
+| ![Ending](https://xivapi.com/i/003000/003478_hr1.png)           | Ending           | 60    | Ability     | Instant | 1s     | Ends dance with your partner.                                                                                                                                                                                     |
+| ![Devilment](https://xivapi.com/i/003000/003471_hr1.png)        | Devilment        | 62    | Ability     | Instant | 120s   | Increases critical hit rate and direct hit rate by 20%.                                                                                                                                                           |
+| ![Fan Dance III](https://xivapi.com/i/003000/003472_hr1.png)    | Fan Dance III    | 66    | Ability     | Instant | 1s     | Delivers an attack to target and all enemies nearby it with a potency of 200 for the first enemy, and 50% less for all remaining enemies.                                                                         |
+| ![Technical Step](https://xivapi.com/i/003000/003473_hr1.png)   | Technical Step   | 70    | Ability     | Instant | 120s   | Begin dancing, granting yourself Technical Step.                                                                                                                                                                  |
+| ![Technical Finish](https://xivapi.com/i/003000/003474_hr1.png) | Technical Finish | 70    | Ability     | Instant | 1.5s   | Delivers an attack to all nearby enemies. Potency varies with number of successful steps, dealing full potency for the first enemy, and 75% less for all remaining enemies.                                       |
+| ![Flourish](https://xivapi.com/i/003000/003475_hr1.png)         | Flourish         | 72    | Ability     | Instant | 60s    | Grants you the effects of Flourishing Cascade, Flourishing Fountain, Flourishing Windmill, Flourishing Shower, and Flourishing Fan Dance.                                                                         |
+| ![Saber Dance](https://xivapi.com/i/003000/003476_hr1.png)      | Saber Dance      | 76    | Ability     | Instant | 2.5s   | Delivers an attack to target and all enemies nearby it with a potency of 600 for the first enemy, and 50% less for all remaining enemies.                                                                         |
+| ![Improvisation](https://xivapi.com/i/003000/003477_hr1.png)    | Improvisation    | 80    | Ability     | Instant | 120s   | Dance to the beat of your own drum, granting Improvisation to self.                                                                                                                                               |
 
 # Step Actions
-| Icon | Action | Level | Type | Casting | Recast | Description |
-|------|--------|-------|------|---------|--------|-------------|
-| Icon | Emboite | 15 | Ability | Instant | 1s | Perform an emboite.
-| Icon | Entrechat | 15 | Ability | Instant | 1s | Perform an entrechat.
-| Icon | Jete | 15 | Ability | Instant | 1s | Perform a jete.
-| Icon | Pirouette | 15 | Ability | Instant | 1s | Perform a pirouette.
+| Icon                                                     | Action    | Level | Type    | Casting | Recast | Description           |
+|----------------------------------------------------------|-----------|-------|---------|---------|--------|-----------------------|
+| ![Emboite](https://xivapi.com/i/003000/003455_hr1.png)   | Emboite   | 15    | Ability | Instant | 1s     | Perform an emboite.   |
+| ![Entrechat](https://xivapi.com/i/003000/003456_hr1.png) | Entrechat | 15    | Ability | Instant | 1s     | Perform an entrechat. |
+| ![Jete](https://xivapi.com/i/003000/003457_hr1.png)      | Jete      | 15    | Ability | Instant | 1s     | Perform a jete.       |
+| ![Pirouette](https://xivapi.com/i/003000/003458_hr1.png) | Pirouette | 15    | Ability | Instant | 1s     | Perform a pirouette.  |
 
 
 # Physical Ranged DPS actions
-| Icon | Action | Level | Type | Casting | Recast | Description |
-|------|--------|-------|------|---------|--------|-------------|
-| Icon | Leg Graze|6|Ability|Instant|30s|Inflicts target with Heavy +40%.
-| Icon | Second Wind|8|Ability|Instant | 120s | Instantly restores own HP.
-| Icon | Foot Graze | 10 | Ability | Instant | 30s | Binds target.
-| Icon | Peloton | 20 | Ability | Instant | 5s | Increases movement speed of self and nearby party members as long as they remain within distance.
-| Icon | Head Graze | 24 | Ability | Instant | 30s | Interrupts the use of a target's action.
-| Icon | Arm's Length | 32 | Ability | Instant | 120s | Creates a barrier nullifying most knockback and draw-in effects.
+| Icon                                                        | Action       | Level | Type    | Casting | Recast | Description                                                                                       |
+|-------------------------------------------------------------|--------------|-------|---------|---------|--------|---------------------------------------------------------------------------------------------------|
+| ![Leg Graze](https://xivapi.com/i/000000/000843_hr1.png)    | Leg Graze    | 6     | Ability | Instant | 30s    | Inflicts target with Heavy +40%.                                                                  |
+| ![Second Wind](https://xivapi.com/i/000000/000821_hr1.png)  | Second Wind  | 8     | Ability | Instant | 120s   | Instantly restores own HP.                                                                        |
+| ![Foot Graze](https://xivapi.com/i/000000/000842_hr1.png)   | Foot Graze   | 10    | Ability | Instant | 30s    | Binds target.                                                                                     |
+| ![Peloton](https://xivapi.com/i/000000/000844_hr1.png)      | Peloton      | 20    | Ability | Instant | 5s     | Increases movement speed of self and nearby party members as long as they remain within distance. |
+| ![Head Graze](https://xivapi.com/i/000000/000848_hr1.png)   | Head Graze   | 24    | Ability | Instant | 30s    | Interrupts the use of a target's action.                                                          |
+| ![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png) | Arm's Length | 32    | Ability | Instant | 120s   | Creates a barrier nullifying most knockback and draw-in effects.                                  |
