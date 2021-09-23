@@ -87,7 +87,7 @@ TBN by itself is sufficient for the Mistral Song damage during Suppression. Beca
 
 Decide with your cotank who is using which tank LB at Aetheric Boom; if you are using the LB1, you will need to use Delirium immediately once Ultima is targetable.
 
-Tank damage during primal roulette is very heavy, as Ultima will attack uninterrupted while multiple sources of damage pile on. You may opt to save Rampart at Aetheric Boom to use here. Either way, Dark Mind should be available for the second or third primal. Make sure the main tank gets a TBN.
+Tank damage during primal roulette is very heavy, as Ultima will attack uninterrupted while multiple sources of damage pile on. You may opt to save Rampart at Aetheric Boom to use here. Either way, Dark Mind should be available for the second or third primal. Make sure the main tank gets a TBN as each primal's raidwide goes out.
 
 The main tank cannot be targeted by an Eruption during primal roulette, so don't be shy about standing where you need to to allow for melee positionals.
 
