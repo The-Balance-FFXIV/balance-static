@@ -180,26 +180,20 @@ Standard Step is a DNC ability with a 30 second cooldown (cooldown starts from t
 
 When starting Standard Step, it initiates a 1.5s GCD. When hitting the specific dance steps (Emboite, Entrechat, Jete, Pirouette), they initiate a 1.0s GCD. The final Standard Finish triggers a 1.5s GCD. Altogether, that sequence (and timings) should look like this:
 
+![](https://cdn.discordapp.com/attachments/458951851610734595/890401701826297946/unknown.png)
+
 Initiating Standard Step, both dance steps, and executing Standard Finish take up a total of 5.0s (this time is not influenced by skill speed at all, it will always be exactly 5.0s). That means if we are at a 2.50 GCD tier, using Standard Step is equal to the same amount of time it takes to use 2 regular weaponskill GCDs. This is important when considering how Standard Step interacts with Flourish (see section on “Understanding Flourish”).
+
 
 Successfully executing the correct number of steps will determine how much potency Standard Finish does on the primary target (closest target to the DNC) and any additional targets as well as how much damage% buff will be received by you and your dance partner with the Standard Finish 60s buff. You can hit Standard Finish at any point after starting Standard Step to end the dance sequence. Depending on how many successful steps you did will affect Standard Finish’s potency and damage% buff.
 
-# of Steps properly executed
-Potency of Standard Finish on closest target hit
-Potency of Standard Finish on additional target(s) hit
-Damage% Buff (you and partner)
-2 Step Successful
-1000
-250
-5%
-1 Step Successful
-750
-187.5
-2%
-0 Step Successful
-500
-125
-0%
+
+| # of Steps properly executed | Potency of Standard Finish on closest target hit | Potency of Standard Finish on additional target(s) hit | Damage% Buff (you and partner) |
+|---|---|---|---|
+2 Step Successful | 1000 | 250 | 5%
+1 Step Successful | 750 | 187.5 | 2%
+0 Step Successful | 500 | 125 | 0%
+
 
 
 As you can see from the table above, missteps during Standard Step can result in significant losses in damage as well as a significant loss in the damage% buff. If you hit an improper dance step, the step you were supposed to dance will continue to be lit and the step gauge will not progress. You will still have a chance to press the correct step, however, this misstep will delay your rotation by 1.0s. Let’s look at some examples of what this would look like.
