@@ -2,8 +2,9 @@
 title: Dancer Skills Overview
 ---
 # PvE actions
+
 | Icon                                                            | Action           | Level | Type        | Casting | Recast | Description                                                                                                                                                                                                       |
-|-----------------------------------------------------------------|------------------|-------|-------------|---------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --------------------------------------------------------------- | ---------------- | ----- | ----------- | ------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Cascade](https://xivapi.com/i/003000/003451_hr1.png)          | Cascade          | 1     | Weaponskill | Instant | 2.5s   | Delivers an attack with a potency of 250.                                                                                                                                                                         |
 | ![Fountain](https://xivapi.com/i/003000/003452_hr1.png)         | Fountain         | 2     | Weaponskill | Instant | 2.5s   | Delivers an attack with a potency of 100.                                                                                                                                                                         |
 | ![Windmill](https://xivapi.com/i/003000/003453_hr1.png)         | Windmill         | 15    | Weaponskill | Instant | 2.5s   | Delivers an attack with a potency of 150 to all nearby enemies.                                                                                                                                                   |
@@ -30,20 +31,21 @@ title: Dancer Skills Overview
 | ![Improvisation](https://xivapi.com/i/003000/003477_hr1.png)    | Improvisation    | 80    | Ability     | Instant | 120s   | Dance to the beat of your own drum, granting Improvisation to self.                                                                                                                                               |
 
 # Step Actions
+
 | Icon                                                     | Action    | Level | Type    | Casting | Recast | Description           |
-|----------------------------------------------------------|-----------|-------|---------|---------|--------|-----------------------|
+| -------------------------------------------------------- | --------- | ----- | ------- | ------- | ------ | --------------------- |
 | ![Emboite](https://xivapi.com/i/003000/003455_hr1.png)   | Emboite   | 15    | Ability | Instant | 1s     | Perform an emboite.   |
 | ![Entrechat](https://xivapi.com/i/003000/003456_hr1.png) | Entrechat | 15    | Ability | Instant | 1s     | Perform an entrechat. |
 | ![Jete](https://xivapi.com/i/003000/003457_hr1.png)      | Jete      | 15    | Ability | Instant | 1s     | Perform a jete.       |
 | ![Pirouette](https://xivapi.com/i/003000/003458_hr1.png) | Pirouette | 15    | Ability | Instant | 1s     | Perform a pirouette.  |
 
-
 # Physical Ranged DPS actions
-| Icon                                                        | Action       | Level | Type    | Casting | Recast | Description                                                                                       |
-|-------------------------------------------------------------|--------------|-------|---------|---------|--------|---------------------------------------------------------------------------------------------------|
-| ![Leg Graze](https://xivapi.com/i/000000/000843_hr1.png)    | Leg Graze    | 6     | Ability | Instant | 30s    | Inflicts target with Heavy +40%.                                                                  |
-| ![Second Wind](https://xivapi.com/i/000000/000821_hr1.png)  | Second Wind  | 8     | Ability | Instant | 120s   | Instantly restores own HP.                                                                        |
-| ![Foot Graze](https://xivapi.com/i/000000/000842_hr1.png)   | Foot Graze   | 10    | Ability | Instant | 30s    | Binds target.                                                                                     |
-| ![Peloton](https://xivapi.com/i/000000/000844_hr1.png)      | Peloton      | 20    | Ability | Instant | 5s     | Increases movement speed of self and nearby party members as long as they remain within distance. |
-| ![Head Graze](https://xivapi.com/i/000000/000848_hr1.png)   | Head Graze   | 24    | Ability | Instant | 30s    | Interrupts the use of a target's action.                                                          |
-| ![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png) | Arm's Length | 32    | Ability | Instant | 120s   | Creates a barrier nullifying most knockback and draw-in effects.                                  |
+
+| Icon                                                        | Action       | Level | Type    | Casting | Recast | Description                                                                       |
+| ----------------------------------------------------------- | ------------ | ----- | ------- | ------- | ------ | --------------------------------------------------------------------------------- |
+| ![Leg Graze](https://xivapi.com/i/000000/000843_hr1.png)    | Leg Graze    | 6     | Ability | Instant | 30s    | Inflicts target with Heavy +40%.                                                  |
+| ![Second Wind](https://xivapi.com/i/000000/000821_hr1.png)  | Second Wind  | 8     | Ability | Instant | 120s   | Instantly restores own HP.                                                        |
+| ![Foot Graze](https://xivapi.com/i/000000/000842_hr1.png)   | Foot Graze   | 10    | Ability | Instant | 30s    | Binds target.                                                                     |
+| ![Peloton](https://xivapi.com/i/000000/000844_hr1.png)      | Peloton      | 20    | Ability | Instant | 5s     | Increases movement speed of self and nearby party members. Not useable in combat. |
+| ![Head Graze](https://xivapi.com/i/000000/000848_hr1.png)   | Head Graze   | 24    | Ability | Instant | 30s    | Interrupts the use of a target's action.                                          |
+| ![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png) | Arm's Length | 32    | Ability | Instant | 120s   | Creates a barrier nullifying most knockback and draw-in effects.                  |
