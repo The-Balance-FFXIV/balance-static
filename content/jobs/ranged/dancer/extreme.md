@@ -1,13 +1,13 @@
 ---
 title: Extreme
 ---
-# SEAT OF SACRIFICE EX - for Dancers
+# Seat of Sacrifice EX - for Dancers
 
 *(Written by Io Whitespirit - DM me if you have any questions!)*
 
-This document will not be completely spoiler-free as it will refer to many mechanics found within the fight.
+This document will not be completely spoiler-free, as it will refer to many mechanics found within the fight.
 
-Note that this is also not a full guide, but rather Dancer specific tips for those looking to optimize performance on the newest EX trial. Please refer to one of the many other general guides for clarifications on mechanics.
+Note that this is also not a full guide, but rather Dancer-specific tips for those looking to optimize performance on the newest EX trial. Please refer to one of the many other general guides for clarifications on mechanics.
 
 Also note that this guide assumes your party DPS is not high enough to phase the boss early (by getting the boss down to 50% health before the scheduled adds phase). Please see the bottom of the document for a short discussion if it is.
 
@@ -15,7 +15,7 @@ Also note that this guide assumes your party DPS is not high enough to phase the
 
 ## Standard Step
 
-* Unlike many other fights, this EX trial is unique in that drifting SS even a single GCD in phase 1 will lead to a DPS loss. Avoiding drift on SS allows you to dance during the short 3-4 seconds the boss is untargetable before adds spawn (around 3:46).
+* Unlike many other fights, this EX trial is unique in that drifting SS even a single GCD in Phase 1 will lead to a DPS loss. Avoiding drift on SS allows you to dance during the short 3-4 seconds the boss is untargetable before adds spawn (around 3:46).
 
   * To be able to do this consistently, this also means that if the first Imbued Sword ends up being Fire, you need to start SS right before the fire debuffs go out. Finish the rest of the steps after the pyretic debuff fades. Unfortunately, the timing for this can be tight, and if someone early-pulls or if you clip your rotation you will likely take at least one extra tick of fire damage.
 
