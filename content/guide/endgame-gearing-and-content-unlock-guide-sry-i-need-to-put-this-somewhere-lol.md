@@ -3,7 +3,7 @@ title: Endgame Gearing and Content Unlock Guide (sry i need to put this somewher
 ---
 ## Introduction
 
-This is a comprehensive guide aimed towards players entering endgame – Level 90 – for the first time and getting overwhelmed with FFXIV's gear progression systems. This guide will help you get an understanding of how FFXIV’s endgame systems work, as well as how to gear up and what types of endgame PvE content exist.
+This is a comprehensive guide aimed towards players entering endgame — Level 90 — for the first time and getting overwhelmed with FFXIV's gear progression systems. This guide will help you get an understanding of how FFXIV’s endgame systems work, as well as how to gear up and what types of endgame PvE content exist.
 
 Step 1. Finish MSQ, get AF Gear, and farm Tomestones for gear
 
