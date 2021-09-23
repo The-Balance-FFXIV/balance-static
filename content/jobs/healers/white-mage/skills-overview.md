@@ -36,13 +36,11 @@ title: Skills Overview
 
 
 # Healer actions
-Action	Acquired	Level	Type	MP	TP	Casting	Recast	Description
-| Icon |  Repose	Healer role.png Healer	8	Spell	600		2.5s	2.5s	Inflicts target with Sleep.
-Esuna.png  Esuna	Healer role.png Healer	10	Spell	400		1s	2.5s	Removes a single detrimental effect from target.
-Swiftcast.png  Swiftcast	Magic Ranged DPS role.png Magic Ranged DPS
-Healer role.png Healer	18	Ability			Instant	60s	Next spell is cast immediately.
-Lucid Dreaming.png  Lucid Dreaming	Magic Ranged DPS role.png Magic Ranged DPS
-Healer role.png Healer	24	Ability			Instant	60s	Gradually restores own MP.
-Surecast.png  Surecast	Magic Ranged DPS role.png Magic Ranged DPS
-Healer role.png Healer	44	Ability			Instant	120s	Spells can be cast without interruption.
-Rescue.png  Rescue	Healer role.png Healer	48	Ability			Instant	120s	Instantly draw target party member to your side. Cannot be used outside of combat or when target is suffering from certain enfeeblements.
+| Icon | Action | Level | Type | MP | Casting | Recast | Description |
+|------|--------|-------|------|----|---------|--------|-------------|
+| Icon |  Repose|8|Spell|600|2.5s|2.5s|Inflicts target with Sleep.
+| Icon |  Esuna	|10|Spell|400|1s|2.5s|Removes a single detrimental effect from target.
+| Icon |  Swiftcast|18|Ability||Instant|60s|Next spell is cast immediately.
+| Icon |  Lucid Dreaming|24|Ability||Instant|60s|Gradually restores own MP.
+| Icon |  Surecast|44|Ability||Instant|120s|Spells can be cast without interruption.
+| Icon |  Rescue|48|Ability||Instant|120s|Instantly draw target party member to your side. Cannot be used outside of combat or when target is suffering from certain enfeeblements.
