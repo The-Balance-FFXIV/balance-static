@@ -196,22 +196,33 @@ Successfully executing the correct number of steps will determine how much poten
 
 
 
-As you can see from the table above, missteps during Standard Step can result in significant losses in damage as well as a significant loss in the damage% buff. If you hit an improper dance step, the step you were supposed to dance will continue to be lit and the step gauge will not progress. You will still have a chance to press the correct step, however, this misstep will delay your rotation by 1.0s. Let’s look at some examples of what this would look like.
+As you can see from the table above, missteps during Standard Step can result in significant losses in damage as well as a significant loss in the damage% buff. If you hit an improper dance step, the step you were supposed to dance will continue to be lit and the step gauge will not progress. You will still have a chance to press the correct step, however, this misstep will delay your rotation by 1.0s.  
+Let’s look at some examples of what this would look like.
+
 
 If your step gauge says your dance step order should be Entrechat followed by Pirouette (blue then yellow), but you accidentally press Entrechat, Entrechat again, Pirouette (blue - blue - yellow), your dance sequence would look like this:
 
 
 
+![](https://cdn.discordapp.com/attachments/458951851610734595/890400567439028294/unknown.png)  
+![](https://cdn.discordapp.com/attachments/458951851610734595/890402432444686366/unknown.png)
+
 This sequence of events will give you the full potency of Standard Finish (1000 potency) and the 5% damage up buff, but it took 1.0s longer to perform due to that extra unnecessary step.
+
 
 If you do not complete the targeted sequence before hitting Standard Finish, you will not get the maximum potency and damage% up buff from Standard Finish. An example of this (using the same step gauge example from before with Entrechat, Pirouette or Blue, Yellow) would be if we were to do Entrechat and then Jete (blue then green) before doing the Standard Finish
 
 
 
 
+![](https://cdn.discordapp.com/attachments/458951851610734595/890400567439028294/unknown.png)  
+![](https://cdn.discordapp.com/attachments/458951851610734595/890402318707744829/unknown.png)
+
 This step sequence results in only doing 750 potency with Standard Finish and providing you and your partner with only a 2% damage buff as opposed to 5% because only 1 proper step was done before executing the Standard Finish.
 
+
 After hitting Standard Step, you have a total of 15 seconds to execute all steps and complete the Standard Finish before the dance is automatically cancelled and your hotbar is automatically reverted back to its normal weaponskills. This is important when considering downtime of fights, or portions where the Boss is untargetable. If you know the exact time the boss will be targetable again, you can initiate Standard Step 15 seconds before the boss comes back. This allows you to do the Steps during a time in the fight where you can’t hit the boss anyways saving you 3.5s worth of GCD time on the boss. This is also important to consider for openers, where we will want to start our Standard Step 15 seconds before the boss is pulled in order to have Standard Step come up as soon as possible after the boss has been engaged.
+
 
 In addition to providing the Dancer and their Dance Partner with a damage% buff, both players will also receive an esprit generation buff. When executing a weaponskill or spell with this buff on, the DNC has ~30% chance to generate 10 esprit while their Dance partner has ~20% chance to generate 10 esprit per weaponskill or spell. Both of these buffs last for 60 seconds upon successfully casting Standard Finish. The buffs are only applied to your Dance Partner if they are within 30y of you when Standard Finish goes off. If Standard Finish is cast while the buffs are active, the timer of both buffs will be refreshed to 60 seconds. With Standard Step having a 30 second cooldown, both of these buffs should theoretically be up 100% of the time on both you and your partner when keeping Standard Step off cooldown as much as possible. The exception to this is phases of fights with incredible long downtime (such as the transition from add phases to final phase in Shiva E8S) where the buffs may naturally fall off before you have to perform your “reopener”.
 
@@ -229,12 +240,15 @@ In addition to providing the Dancer and their Dance Partner with a damage% buff,
 
 
 
+
+![buffs](https://cdn.discordapp.com/attachments/458951851610734595/890402891083415593/unknown.png)  
 Standard Step is one of your strongest damaging moves and should be kept off cooldown as much as possible. At 1000 potency over the course of 5 seconds of dancing, this ability does 500 potency per GCD’s worth of time. With your average weaponskill GCD being valued at approximately 347 potency per GCD, Standard Step is seen to be a very strong gain over our average single target GCDs.
 
+
 Special Notes:
-You DO continue to do auto attacks while dancing. However, if the boss was de-selected (i.e. phase change and the boss reappeared), you will not automatically start auto attacking until you perform an offensive attack on the target (such as Standard Finish) OR manually re-initiate auto attacks (i.e. right click the boss).
-In addition to not being able to use weaponskills, you won’t be able to use any oGCD abilities with the exception of En Avant and Role Actions (such as Second Wind and Arm’s Length) until you execute “Standard Finish” or until the Standard Step 15 second timer expires.
-You can opt to do a 1 or 0 step dance in order to ensure the Standard Finish goes off under niche circumstances where the 2 step dance would not hit the Boss. Situations like this very rarely occur, examples would be the very last second of the fight before the boss dies if you are mid dance or a particular phase transition where you wouldn’t be able to get the 2 step dance off before the boss becomes untargetable. In your normal rotation, it is never worth it to do less than 2 steps.
+- You DO continue to do auto attacks while dancing. However, if the boss was de-selected (i.e. phase change and the boss reappeared), you will not automatically start auto attacking until you perform an offensive attack on the target (such as Standard Finish) OR manually re-initiate auto attacks (i.e. right click the boss).
+- In addition to not being able to use weaponskills, you won’t be able to use any oGCD abilities with the exception of En Avant and Role Actions (such as Second Wind and Arm’s Length) until you execute “Standard Finish” or until the Standard Step 15 second timer expires.
+- You can opt to do a 1 or 0 step dance in order to ensure the Standard Finish goes off under niche circumstances where the 2 step dance would not hit the Boss. Situations like this very rarely occur, examples would be the very last second of the fight before the boss dies if you are mid dance or a particular phase transition where you wouldn’t be able to get the 2 step dance off before the boss becomes untargetable. In your normal rotation, it is never worth it to do less than 2 steps.
 
 
 
@@ -247,7 +261,10 @@ You can opt to do a 1 or 0 step dance in order to ensure the Standard Finish goe
 
 
 
-Understanding Technical Step
+
+---
+
+# Understanding Technical Step
 
 Technical Step is very similar to Standard Step in how the steps are executed, with one big difference. Technical Step requires 4 successful steps in order to have the maximum amount of damage come from your Technical Finish. Technical step is also on a 120 second cooldown (starting from when Technical Step first gets initiated). When activating Technical Step, your Cascade, Fountain, Reverse Cascade, and Fountainfall GCDs will again be replaced with steps (Emboite, Entrechat, Jete, Pirouette) that are also color coded (red, blue, green, yellow). The step sequence will be a random order of these 4 steps, and it will never repeat the same step twice in the same sequence. The step sequence is displayed on your Step Gauge, but the correct steps will also light up on your hotbar in the order you need to press them (same as Standard Step). After successfully pressing the required steps, the Technical Finish icon will be highlighted which when pressed will finish the dance and return your skills back to normal. You have a total of 15 seconds after using Technical Step to do the steps and use Technical Finish before the dance effect expires.
 
