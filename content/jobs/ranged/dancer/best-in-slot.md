@@ -19,7 +19,7 @@ Crit > DH > DET
 
 [Guide to gearing DNC (5.58)](https://docs.google.com/document/d/1FPD-xboF_kWqynF9zXJdijOyYJkVjHjMhBbRg11apd4/edit?usp=sharing) - includes starting gear and tomestone buy order
 
-Best Starting Gearset before accessing any weekly savage gear pieces or spending Tomestones of Revelation: view this [Starting Gearset on Etro](https://etro.gg/gearset/702816d1-c9ef-4ee1-836f-6e9a751b9673).
+Best starting gearset before accessing any weekly savage gear pieces or spending Tomestones of Revelation: view this [Starting Gearset on Etro](https://etro.gg/gearset/702816d1-c9ef-4ee1-836f-6e9a751b9673).
 
 ### Best-in-slot for The Epic of Alexander (TEA)
 
@@ -33,10 +33,10 @@ Best Starting Gearset before accessing any weekly savage gear pieces or spending
 
 ### Catch-all Gearset for other iLvl synced content (UCoB / UWU / Unreal Trials)
 
-[Catch-All Gearset](https://etro.gg/gearset/8e76dbd9-6828-45d1-ae6b-2d2051e2b09f)- \
+[Catch-All Gearset](https://etro.gg/gearset/8e76dbd9-6828-45d1-ae6b-2d2051e2b09f) \
 Use Smoked Chicken + Grade 4 Tincture of Dexterity
 
-Not max DPS, but close enough for a catch-all gear set that uses most of current 5.4 BiS gear for synced encounters. Swaps out non-Crit gear pieces for pieces that have Crit. (When last checked, difference between this set and theoretical BiS is ~0.15% DPS difference)
+Not max DPS, but close enough for a catch-all gearset that uses most of current 5.4 BiS gear for synced encounters. Swaps out non-Crit gear pieces for pieces that have Crit. (When last checked, difference between this set and theoretical BiS is ~0.15% DPS difference)
 
 ## What to do with ilvl 535 DNC Relic
 
