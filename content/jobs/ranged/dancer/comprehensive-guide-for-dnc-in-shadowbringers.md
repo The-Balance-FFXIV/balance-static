@@ -506,11 +506,15 @@ Considering what we do with those 2 remaining GCDs that could theoretically be n
 
 
 
+
 Note: After doing this combo’d Fountain, continue using the rest of your Flourish procs and use Standard Step when it comes up. You can only use at most 1 more non-Flourish’ed proc GCD (i.e. potentially Saber Dance) before you must commit to only using the proc GCDs to ensure you don’t lose any.
+
 
 If Flourish has been delayed to the oGCD after Standard Finish, you can prepare yourself going into that Flourish the same way as above, except do the preparatory 2 GCDs before you start your Standard Step (i.e. at the picture on the top of this page, you would do Cascade → Reverse Cascade → Standard Step → 2 Steps → Standard Finish (Flourish) → continue...  ). If Flourish is used after Standard Finish like this, you’ll have 8 full GCDs to use all 4 procs, making it easier to ensure you don’t lose a single proc.
 
+
 Consider prioritizing doing the AoE procs (Rising Windmill and Bloodshower) during Flourish at points in time when you know you’ll be able to be in melee range of the boss.
+
 
 Not losing a proc is especially difficult when Flourish is used during Technical Finish because you are generating a lot of esprit during that time. Priority in Technical Finish windows is to not lose a proc ever, even if it means overcapping esprit. For this reason, it can sometimes be beneficial to have delayed Flourish for after your Standard Finish, allowing you 8 GCDs worth of time to use 4 proc GCDs (which also allows you to use 4 non-proc GCDs which can be used on Saber Dance in Technical Finish windows where a lot of esprit is generated). Refer to the “Technical Finish / Devilment Window Optimization” section of this guide for more details of when this would be a gain.
 
@@ -527,9 +531,14 @@ Not losing a proc is especially difficult when Flourish is used during Technical
 
 
 
-DNC “Rotation”
+
+---
+
+# DNC “Rotation”
+
 
 Because much of what GCDs DNC uses depend on their luck in generating procs and esprit, DNC doesn’t have a “rotation” in the sense of a consistent execution of weaponskills in a specific order. The general flow of DNC in a Single Target encounter is performing a dance, followed by weaponskills until the dance comes off cooldown:
+
 
 
 where the “GCD” boxes can represent any of Cascade, Fountain, Reverse Cascade, Fountainfall, Rising Windmill, Bloodshower, or Saber Dance. For which GCD to use in which box, that depends on our GCD priority list in the next section. But ultimately, the simple form of the DNC rotation outside of Technical Finish / Devilment can be summed up as 10 GCDs in between Standard Steps.
@@ -556,32 +565,40 @@ where the “GCD” boxes can represent any of Cascade, Fountain, Reverse Cascad
 
 
 
-General Single Target GCD Priority List
+
+---
+
+# General Single Target GCD Priority List
 
 This GCD priority list was determined by identifying what would have the biggest loss to your DPS and preventing that from happening. Per Ellunavi’s analysis, the average GCD value for DNC is 347. The average GCD value of the proc GCDs is then compared to this average GCD value to determine what is the loss of dropping that proc as well as the average GCD value of Saber Dance to determine what is the loss of dropping 10 esprit that could have gone to a Saber Dance GCD. Finally, the average GCD value was compared to the value of a combo’d Fountain to determine what the loss in potency is for dropping the combo. The following is the result in the comparisons:
 
-Losing Fountainfall / Bloodshower proc is a 142 potency loss.
-Losing Reverse Cascade / Rising Windmill proc is a 92 potency loss
-Losing 10 esprit due to overcapping is a loss of 53.4 potency per 10 esprit.
-Losing the combo’d Fountain is a loss of 37.5 potency
+1. Losing Fountainfall / Bloodshower proc is a 142 potency loss.
+2. Losing Reverse Cascade / Rising Windmill proc is a 92 potency loss
+3. Losing 10 esprit due to overcapping is a loss of 53.4 potency per 10 esprit.
+4. Losing the combo’d Fountain is a loss of 37.5 potency
+
 
 The GCD priority list below was made by figuring out how to minimize these potential losses as best as possible. The result for GCD priority was: 
 
-Fountainfall, Bloodshower, Reverse Cascade, Rising Windmill if not using them would otherwise let that proc fall. Note: Procs last 20 seconds. (If you have to choose which proc to let fall: Fountainfall = Bloodshower > Reverse Cascade = Rising Windmill  in potency value)
-Standard Step (if available)
-Saber Dance (if >= 90 esprit) - You’ll want to use Saber Dance if >=90 esprit in case both you and your Dance Partner would generate 10 esprit each during a non-Saber Dance GCD resulting in overcapping of esprit gauge.
-Fountainfall (to allow for a combo’d Fountain to be used if it would otherwise be dropped)
-Combo’d Fountain if it would otherwise drop. Note: After pressing Cascade, you have exactly 15 seconds to use Fountain counted from the moment you use Cascade in order to get the combo’d Fountain effect. At a 2.5 GCD, you cannot use more than 4 other GCDs after the Cascade without dropping the combo’d Fountain.
-Reverse Cascade, Rising Windmill, Bloodshower. Prioritize the AoE procs for situations that will allow you to be in melee range.
-Combo’d Fountain if you have no procs.
-Cascade
+1. Fountainfall, Bloodshower, Reverse Cascade, Rising Windmill if not using them would otherwise let that proc fall. Note: Procs last 20 seconds. (If you have to choose which proc to let fall: Fountainfall = Bloodshower > Reverse Cascade = Rising Windmill  in potency value)
+2. Standard Step (if available)
+3. Saber Dance (if >= 90 esprit) - You’ll want to use Saber Dance if >=90 esprit in case both you and your Dance Partner would generate 10 esprit each during a non-Saber Dance GCD resulting in overcapping of esprit gauge.
+4. Fountainfall (to allow for a combo’d Fountain to be used if it would otherwise be dropped)
+5. Combo’d Fountain if it would otherwise drop. Note: After pressing Cascade, you have exactly 15 seconds to use Fountain counted from the moment you use Cascade in order to get the combo’d Fountain effect. At a 2.5 GCD, you cannot use more than 4 other GCDs after the Cascade without dropping the combo’d Fountain.
+6. Reverse Cascade, Rising Windmill, Bloodshower. Prioritize the AoE procs for situations that will allow you to be in melee range.
+7. Combo’d Fountain if you have no procs.
+8. Cascade
+
 
 *Special Note: This GCD priority changes slightly while under the effect of Technical Finish / Devilment where Saber Dance >=90 esprit is higher priority than using Standard Step, and using Saber Dance when at 50 esprit is more important than using a combo’d Fountain. See “Technical Finish Window Optimization” section for more info.
 
 
 
 
-AoE Rotation 
+
+---
+
+# AoE Rotation 
 
 Whenever you are able to hit more than 1 target, you should make the following changes to your rotation based on how many targets you can hit:
 
