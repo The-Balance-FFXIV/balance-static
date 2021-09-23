@@ -24,32 +24,32 @@ Last Updated: August 12, 2020
 - [Understanding Technical Step]
 - [Understanding Fan Dance (and weaving oGCDs in general)]
 - [Esprit Generation]
-- [Improvisation]
+  - [Improvisation]
 - [Understanding Flourish]
 - [DNC “Rotation”]
 - [General Single Target GCD Priority List]
 - [AoE Rotation]
 - [Opener]
 - [Technical Finish / Devilment Window Optimization]
-- [Conclusions from Technical Finish Rotation Analysis]
+  - [Conclusions from Technical Finish Rotation Analysis]
 - [Stat Tiering and Itemization for Dancer]
-- [Weapon Damage and Dexterity]
-- [Crit vs Det/DH]
-- [Determination vs DH]
-- [Skill Speed… and Why it is not good on DNC]
+  - [Weapon Damage and Dexterity]
+  - [Crit vs Det/DH]
+  - [Determination vs DH]
+  - [Skill Speed… and Why it is not good on DNC]
 - [Gear and Best in Slot (BiS)]
 - [Considerations for Selecting a Dance Partner]
-- [Dance Partner Priority List ]
-- [Dance Partner Swapping]
+  - [Dance Partner Priority List ]
+  - [Dance Partner Swapping]
 - [DNC Utility]
-- [Shield Samba]
-- [Curing Waltz]
-- [Improvisation]
-- [Head Graze]
-- [Arm’s Length]
-- [Second Wind]
-- [Peloton]
-- [En Avant]
+  - [Shield Samba]
+  - [Curing Waltz]
+  - [Improvisation]
+  - [Head Graze]
+  - [Arm’s Length]
+  - [Second Wind]
+  - [Peloton]
+  - [En Avant]
 - [Common Abbreviations]
 - [Glossary of Terms]
 - [About the Author / Special Thanks]
@@ -63,9 +63,12 @@ Last Updated: August 12, 2020
 
 The purpose of this guide is to be a comprehensive gameplay guide for how to play and optimize the DNC rotation. This guide goes over the fundamentals and job basics while also looking into advanced tips and tricks that experienced players may not know. Due to the randomness of the proc, feather, and esprit generation, DNC has a dynamic playstyle where no two pulls are ever the same. Hopefully after reading this guide, you will have a better understanding of how to play DNC to its fullest.
 
-Ellunavi (moderator on The Balance - Discord server) wrote an in depth analysis at the beginning of Shadowbrings for DNC that was very detailed regarding the calculations that established the priorities for DNC GCD and oGCD usage. His work helps establish a basis to explain why certain recommendations in this guide are optimal depending on the situation.
 
-Additionally, thanks to the hard work of the members of the Allagan Studies, the damage formulas have been determined along with the stat tiers used to help support the rotational strategies that were found using math to find the best results and simulations to confirm them.
+Ellunavi (moderator on [The Balance - Discord server](https://discord.gg/CjQkEn3)) wrote an in depth [analysis](https://docs.google.com/document/d/1iktjQ-kW7Vp-iWy_xEWh6t62FaXqjfGELGmcWOtPQfM/edit) at the beginning of Shadowbrings for DNC that was very detailed regarding the calculations that established the priorities for DNC GCD and oGCD usage. His work helps establish a basis to explain why certain recommendations in this guide are optimal depending on the situation.
+
+
+Additionally, thanks to the hard work of the members of the [Allagan Studies](http://allaganstudies.akhmorning.com/), the damage formulas have been determined along with the stat tiers used to help support the rotational strategies that were found using math to find the best results and simulations to confirm them.
+
 
 Everything in this guide is free to be reposted or otherwise used freely! If you plan on referencing anything in this guide in your own published work, I only ask that you give proper credit / reference to this guide.
 
@@ -91,25 +94,37 @@ Everything in this guide is free to be reposted or otherwise used freely! If you
 
 
 
-Basic DNC Overview
 
-DNC Job Guide from Square Enix (which includes job weaponskill and ability descriptions)
+---
 
-Short Version:
+# Basic DNC Overview
+
+
+[DNC Job Guide from Square Enix](https://na.finalfantasyxiv.com/jobguide/dancer/) (which includes job weaponskill and ability descriptions)
+
+
+## Short Version:
 Dancer is a ranged physical DPS job with low personal DPS but high contribution to others’ DPS using raid buffs. It has “Dances'' that require executing the right dance steps in order to perform powerful finishing moves. Its main weaponskill GCDs revolve around a simple combo that has a chance to generate stronger proc GCDs which have a chance to generate feathers which can be used for oGCD damage abilities.
 
-Long Version:
+
+## Long Version:
 Dancer is a ranged physical DPS job (along with BRD and MCH) which has a pretty straightforward style to its gameplay. Their primary damage stat is dexterity (DEX). DNC is the DPS job that does the least amount of personal damage; however, it makes up for it by providing high damage increasing buffs to your raid group. Part of DNC’s rotation is keeping a buff up called Standard Finish that increases your damage by 5%. Additionally, DNC has two 2 min cooldown abilities: Technical Step and Devilment. Technical Finish (which occurs after successfully completing the Technical Step dance) will provide a 5% damage up buff to the whole party for 20 seconds while Devilment provides the DNC with a 20% crit hit rate and 20% direct hit rate boost for 20 seconds. DNC can also choose someone to be their Dance Partner in a fight with the ability Closed Position which will duplicate the Standard Finish 5% damage up buff and the Devilment buff on this target party member. Additionally, DNC provides raid utility in the form of a small AoE heal called Curing Waltz and a party wide damage reduction ability called Shield Samba. Despite doing low personal damage overall, DNC offers incredibly powerful burst damage in a 20 second window every 2 mins with its Technical Step and Devilment abilities.
+
 
 The rotational flow of DNC is a simple combo / proc GCD system coupled with two dance abilities, Standard Step and Technical Step, on a 30 second and 2 min cooldown respectively. When beginning a dance, your normal GCDs are replaced with dance steps in order to unlock a finishing move (aptly named Standard Finish and Technical Finish). These dance steps do not do any damage, however, the dance finishes themselves are some of the strongest damage abilities in the game at 1000 and 1500 potency respectively. These dance finishes damage all enemies within a 15y radius of you. The closest enemy will be hit for the full damage (1000 and 1500 potency respectively) while all other enemies will be hit for 75% reduced damage (250 potency for Standard Finish and 375 potency for Technical Finish).
 
+
 Outside of these dances, your normal GCDs include a set of basic 1 → 2 combo weaponskills called Cascade and Fountain. Cascade and Fountain each have a 50% chance to proc separate slightly more powerful weaponskills called Reverse Cascade and Fountainfall respectively. Additionally, every time you or your dance partner perform a weaponskill or spell while under the effect of Standard Finish, you have a chance to generate 10 esprit. Your esprit gauge can hold a maximum of 100 esprit. Every 50 esprit can be spent on a weaponskill called Saber Dance, which is your strongest GCD at 600 potency on primary target and 300 potency to all nearby enemies close to the target. Using Saber Dance, Reverse Cascade, Fountainfall, or your dances will not interrupt your Cascade → Fountain combo. Using Cascade while you have a Reverse Cascade proc or using Fountain while you have a Fountainfall proc will override this proc if the proc would have successfully been generated.
+
 
 Additionally, you have 4 more GCDs that mirror the way Cascade, Fountain, Reverse Cascade, and Fountainfall work in an AoE setting called Windmill, Bladeshower, Rising Windmill, and Bloodshower. All four of these weaponskills are AoEs in a circle around you (5y radius). Windmill combos into Bladeshower while Rising Windmill and Bloodshower are slightly stronger procs from the combo weaponskills. 
 
+
 Every time you use a proc’d weaponskill (Reverse Cascade, Fountainfall, Rising Windmill, or Bloodshower), you have a 50% chance to generate a Fourfold Feather. You can hold a maximum of 4 feathers. These feathers can be used for oGCD abilities called Fan Dance (150 potency single target) and Fan Dance II (100 potency in an AoE around you on multiple targets). Additionally, when using a fan, it has a 50% chance to proc an ability called Fan Dance III (200 potency to primary target and 100 potency to all nearby enemies close to the target).
 
+
 Finally, DNC has a 1 min cooldown called Flourish which immediately grants them each of their weaponskill procs (Reverse Cascade, Fountainfall, Rising Windmill, Bloodshower) and a proc of Fan Dance III.
+
 
 The basic flow of the DNC GCDs on a single target encounter revolves around keeping your dances, Devilment, and Flourish off cooldown without drifting these abilities too much (if at all) and using weaponskills in between dances. The way DNC’s damage can be optimized is through a combination of maximizing the amount of damage you do (especially during buff windows), maximizing the amount of damage gained by your buffs to party members through optimal buff timings and Dance Partner choice, and minimizing losses in resource management (such as overcapping on esprit / feathers, or overriding a proc).
 
@@ -126,39 +141,42 @@ The basic flow of the DNC GCDs on a single target encounter revolves around keep
 
 
 
-Range of Actions and Abilities
 
-Action/Ability
-Range/Radius
-Cascade, Fountain, Reverse Cascade, Fountainfall, Saber Dance, Fan Dance, Fan Dance III (primary target)
-25y
-Saber Dance (AoE effect), Fan Dance III (AoE effect)
-5y (radius of AoE around the center of the target it was used on)
-Windmill, Bladeshower, Rising Windmill, Bloodshower, Fan Dance II
-5y (radius of AoE around the DNC)
+---
 
+# Range of Actions and Abilities
 
-Standard Finish, Technical Finish, Devilment
-Damage Range: 15y radius around DNC (both Finishes)
-Buff Range: 
-15y for Technical Finish buffs
-30y for Standard Finish / Devilment buffs
+| Action/Ability | Range/Radius |
+|---|---|
+|Cascade, Fountain, Reverse Cascade, Fountainfall, Saber Dance, Fan Dance, Fan Dance III (primary target)|25y |
+|Saber Dance (AoE effect), Fan Dance III (AoE effect)| 5y (radius of AoE around the center of the target it was used on) |
+Windmill, Bladeshower, Rising Windmill, Bloodshower, Fan Dance II | 5y (radius of AoE around the DNC) |
+| Standard Finish, Technical Finish, Devilment | *Damage Range:* 15y radius around DNC (both Finishes) <br>*Buff Range:*15y for Technical Finish buffs. 30y for Standard Finish / Devilment buffs |
 
 
 
+
+![](https://cdn.discordapp.com/attachments/458951851610734595/890398674604134420/unknown.png)
 In the picture above there are 4 target dummies that are 5y apart from each other and marked #1-#4. There are also 2 more waymarkers B and A that are 5y apart from each other and waymarker B is 5y away from target dummy #4. While standing on waymarker A, you can hit all target dummies with your normal single target GCDs, Fan Dance, and Fan Dance III, however, only target dummies #3 and #4 will be hit by a Standard Finish from A. None of your AoE GCDs will hit any of the target dummies from A. Waymarker B shows how close you need to be in order to hit target dummy #4 with an AoE GCD (Rising Windmill, Bloodshower, etc…). Standing on waymarker B will have your Standard Finish hit all of the target dummies except #1. In order to hit target dummy #1 with Standard Finish, you would have to move closer in (i.e. stand on #4). If you select target dummy #2 when you cast Fan Dance III or Saber Dance, the primary damage will be dealt to target #2 (i.e. 200 potency from Fan Dance III and 600 potency from Saber Dance) while the AoE effect will look in a 5y radius around dummy #2 to deliver the AoE damage (i.e. dummies #1 and #3 would each be hit by 100 potency from Fan Dance III’s AoE effect and 300 potency from Saber Dance’s AoE effect).
 
-Understanding Standard Step / How to do Dance Steps
+
+---
+
+# Understanding Standard Step / How to do Dance Steps
+
 
 Standard Step is a DNC ability with a 30 second cooldown (cooldown starts from the moment Standard Step begins) that is on the GCD. When activating Standard Step, your Cascade, Fountain, Reverse Cascade, and Fountainfall GCDs will be replaced with steps (Emboite, Entrechat, Jete, Pirouette) that are also color coded (red, blue, green, yellow). Standard Step is a two step sequence of 2 of these random dance steps. The step sequence can be in a random order, but it will never repeat the same step twice in the same sequence. The step sequence is displayed on your Step Gauge, but the correct steps will also light up on your hotbar in the order you need to press them. After successfully pressing the required steps, the Standard Finish icon will be highlighted which when pressed will finish the dance and return your skills back to normal.
-      
-Before initiating a dance						
-	
- Once you press Standard Step       …. 	     Step Gauge appears
-				
-After pressing the first dance step
 
-After pressing the second step
+| | |
+|:---:|:---:|
+|Before initiating a dance| |
+|![Before dance](https://cdn.discordapp.com/attachments/458951851610734595/890400459767029850/unknown.png)| |
+|Once you press Standard Step|Step Gauge appears|
+|![Standard Step](https://cdn.discordapp.com/attachments/458951851610734595/890400486887391262/unknown.png) | ![Step Gauge](https://cdn.discordapp.com/attachments/458951851610734595/890400567439028294/unknown.png) |
+| After pressing the first dance step | |
+|![First step](https://cdn.discordapp.com/attachments/458951851610734595/890400513563176990/unknown.png) | ![Step Gauge first step](https://cdn.discordapp.com/attachments/458951851610734595/890400593854746754/unknown.png)|
+| After pressing the second step | |
+|![Second Step](https://cdn.discordapp.com/attachments/458951851610734595/890400543757967370/unknown.png) | ![second step gauge](https://cdn.discordapp.com/attachments/458951851610734595/890400617758081054/unknown.png)
 
 When starting Standard Step, it initiates a 1.5s GCD. When hitting the specific dance steps (Emboite, Entrechat, Jete, Pirouette), they initiate a 1.0s GCD. The final Standard Finish triggers a 1.5s GCD. Altogether, that sequence (and timings) should look like this:
 
