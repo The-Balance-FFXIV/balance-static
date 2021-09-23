@@ -3,6 +3,16 @@ title: Savage
 ---
 Special note: DNC fight specific tips can be difficult to identify due to some things being party composition dependent and kill time dependent. In general, if you are learning a fight or going for a clear, it will most often be best to keep your cooldowns (Dances / Devilment / Flourish) off cooldown as much as possible and try not to delay. The tips found in this document are fight specific tips that help identify how to interact with certain mechanics, especially as they coincide with your cooldowns.
 
+[E5S - Ramuh](#e5s---ramuh)  
+[E6S - Ifrit and Garuda](#e6s---ifrit-and-garuda)  
+[E7S - The Idol of Darkness](#e7s---the-idol-of-darkness)  
+[E8S - Shiva](#e8s---shiva)  
+
+[E9S - Cloud of Darkness](#e9s---cloud-of-darkness)  
+[E10S - Shadowkeeper](#e10s---shadowkeeper)  
+[E11S - Fatebreaker](#e11s---fatebreaker)  
+[E12S - Eden's Promise](#e12s---edens-promise)  
+[E12S - Oracle of Darkness](#e12s---oracle-of-darkness)
 - - -
 
 # E5S - Ramuh
@@ -478,7 +488,7 @@ Per Ringabel, his group’s plan is as follows:
 
 The standard 0-minute window and 6:xx window are fine here. If delaying raid-buffs to after Junction Shiva, pots can also be used for a 4:30 or 5:00 burst window.
 
-# E12S - ORACLE OF DARKNESS
+# E12S - Oracle of Darkness
 
 ## Overview
 
