@@ -20,8 +20,8 @@ Useful healing in this context means healing that cannot be covered by you or an
 
 ### Should Afflatus Misery be used every 90s?
 
-No; building Blood Lily stacks and using Afflatus Misery is a loss over rolling Glare casts.  \
-\
+No; building Blood Lily stacks and using Afflatus Misery is a loss over rolling Glare casts.
+
 Glare  |  Glare  |  Glare  | Glare  = 4 GCDs for 1200p\
 Rapture | Rapture | Rapture | Misery = 4 GCDs for 900p  
 
@@ -32,7 +32,7 @@ For a simple and easy-to-remember rule of thumb for Lilies, try to get it to do 
 1. Needed effective healing 
 2. Weaving oGCDs (bonus points for double weaving!)
 3. Movement 
-4. Downtime  
+4. Downtime
 
 Which doesn't mean “don’t use Lilies if you don’t meet two of these” (especially if one is the heal!) - but do try to. What will actually be optimal in any given moment will likely come down to encounter specific rotations anyways. **It is perfectly fine to sit on three Lilies if you haven't needed them for one of the above reasons**.
 
@@ -40,7 +40,7 @@ Which doesn't mean “don’t use Lilies if you don’t meet two of these” (es
 
 The DPS benefits of Afflatus heals go down the drain if you never get the Misery off. If you don't use the Misery, All Afflatus casts become just like standard GCD heals.
 
-However, you can and should sit on Misery for any of the following uses as the fight allows for:  
+However, you can and should sit on Misery for any of the following uses as the fight allows for:
 
 * Weave window for oGCDs
 * Movement window for mechanics
