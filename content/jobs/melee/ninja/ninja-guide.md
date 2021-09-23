@@ -34,7 +34,7 @@ title: Ninja Guide
 
 ![Banner1](/img/jobs/melee/ninja/Banner1.png)
 
-Hello, and welcome to my guide on Final Fantasy XIV’s melee dps job, Ninja, current for patch 5.55. This guide will aim to help you learn the job at a beginner level, as well as give you the tools and information needed to push the job to its limits in terms of damage and utility, and in turn bring the most to a raid group or dungeon group that you can.
+Hello, and welcome to my guide on Final Fantasy XIV’s melee DPS job, Ninja, current for patch 5.55. This guide will aim to help you learn the job at a beginner level, as well as give you the tools and information needed to push the job to its limits in terms of damage and utility, and in turn bring the most to a raid group or dungeon group that you can.
 
 A little about me before we begin. I have been maining Ninja since just before patch 3.2. I started getting into speedruns on Ninja during the Creator Savage tier for Alexander during patch 3.4. Ever since then, I have been part of multiple different groups, both for speed killing and for world progression. I have gotten multiple rank 1 parses and speed kills with this job throughout the different tiers and have killed all the Ultimates within the patch that they were introduced in. I have also helped theorycraft and construct the rotations and openers for Stormblood Ninja, pre-5.1 Shadowbringers Ninja, and also the current post-5.1 Shadowbringers Ninja.
 
@@ -210,7 +210,6 @@ Deals unaspected damage with a potency of 300. Costs 50 Ninki to use.
 
 Grants five stacks of the buff Bunshin, each stack allowing your shadow to attack enemies each time you execute a weaponskill. Shadow attack potency varies based on the attack executed, but is not affected by combo bonuses. Each attack from the shadow will grant you five Ninki, for a total of 25 ninki if all five stacks of Bunshin are used before the time limit. This buff has a duration of 30 seconds. Costs 50 ninki to use. This ability has a personal cooldown of 90 seconds.
 
-
 Melee attack: 200 potency.
 Ranged attack: 100 potency.
 AoE attack: 100 potency to all enemies hit.
@@ -354,9 +353,7 @@ The only other variation that is seen sometimes is Fuma>Katon>Suiton. This is mo
 
 Ninja has different priorities in terms of what abilities to use at one target, two targets, and 3+ targets. For one target, it's all the stuff I have already talked about, but it changes slightly for two targets. 
 
-
 At two targets, you will start to do Hellfrogs instead of Bhavacakras and will do Katons and Dotons instead of Raitons. Your basic GCD rotation will not change -- just that your abilities will be switched to AoE abilities. You will still do Trick Attack at this amount of targets, so Suiton is still used for this. 
-
 
 At three targets, this is when you start to do your AoE combo. This would be Death Blossom into Hakke Mujinsatsu. So, three targets is where you consistently do your AoE combo, as well as go full out AoE on your ninjutsus. 
 
@@ -376,17 +373,18 @@ This will be your opener on any fights where you get a pull countdown. The Doton
 For your Best-in-Slot gear, you will generally be going for Weapon Damage> Dexterity> Crit> Direct Hit> Determination >> Skill Speed. This is not 100% exact once you get to the max gear, but until you have that, that is the priority in stats. 
 
 ## 2.12 GCD BiS
+
 ![2.12 GCD BiS](https://i.gyazo.com/1cb336372acce657393786ccad4a7596.png)
 <https://etro.gg/gearset/dec9811d-c02c-4378-b046-d3cebe42eccb>
 
-
 ## 2.11 GCD BiS
+
 ![2.11 GCD BiS](https://i.gyazo.com/d353943f5d3d61160b11739b6868e3a6.png)
 
 <https://etro.gg/gearset/33b9d186-963a-4cdb-84a0-6b2ebbadc652>
 
-
 ## 2.10 GCD BiS
+
 ![2.12 GCD BiS](https://cdn.discordapp.com/attachments/277968373336244234/870902464302420008/unknown.png)
 
 <https://etro.gg/gearset/c1c01cbb-f99b-4ba8-bbe3-e9d03a76b280>
@@ -395,26 +393,28 @@ Use the 2.12 GCD BiS for general play, the 2.11 plays around potential extra gcd
 
 Meld priority for non BIS pieces: Crit>>>>DH>DET>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>SKS
 
-
 ## UCOB BIS
+
 <https://etro.gg/gearset/a6f033eb-2d74-4a2a-bd08-f7823d415fc3>
 
-
 ## UWU BIS (Credit to Io)
+
 <https://etro.gg/gearset/74be6ffe-4d39-4513-96fb-be800c372592>
 
 Can use other pieces; needs the following all above ilvl 470:
-- Relic weapon: CRT 318/DH 318/DET 314/SKS 217 
-- Body/pants: 2x CRT/DET
-- Helmet/gloves/boots: 2x CRT/DH, 1x CRT/DET
-- Accessories: 3x CRT/DET, 3x CRT/DH
-- Food: Smoked chicken HQ
+
+* Relic weapon: CRT 318/DH 318/DET 314/SKS 217 
+* Body/pants: 2x CRT/DET
+* Helmet/gloves/boots: 2x CRT/DH, 1x CRT/DET
+* Accessories: 3x CRT/DET, 3x CRT/DH
+* Food: Smoked chicken HQ
 
 ## The Epic of Alexander Best In Slot
+
 <https://etro.gg/gearset/a25fcb8e-7f1a-432f-a627-bbf6eabfe77c>
 
-
 <!-- TODO: link proper image later, so its not discord hosted -->
+
 ![Banner5](https://cdn.discordapp.com/attachments/458951851610734595/883853789474467873/unknown.png)
 
 # Optimization
@@ -435,9 +435,7 @@ This is done because you will be using Throwing Daggers otherwise from range, wh
 
 Probably the most underutilized optimization tool Ninja has is Shukuchi. Shukuchi is the only movement ability in the game that gives you free reign of where you want to end up, assuming you are in range. There are many times where you can use it to get to a stack at the last moment, get out of range for an AoE at the last moment, or get to the boss faster, which can in turn potentially get you extra GCD on the boss. This is especially useful in a party where you can get a healer or a ranged DPS to stand where you need to end up, because you can then use a macro to Shukuchi to that party member without ever having to use the ground targeting system Shukuchi normally uses.
 
-
 Other highly underutilized tools for optimization and safety are your defensive cooldowns, these being Shade Shift, Second Wind, and Bloodbath. There are times where sometimes an AoE will not give Vulnerability Up or Damage Down to you, or that they won't matter for whatever reason. Often, you can use these tools to then stay in the AoE for no loss. This should, of course, always be communicated with your healers beforehand, and maybe they will even be willing to give you a shield for it. 
-
 
 Finally, the increased movement speed. This is not necessarily noticeable by most players because it is quite small. But it is still something that you can use to gain an advantage. Especially when an AoE lines up very close to a GCD, you will sometimes have the ability to get that GCD off, whereas any other melee job wouldn't. It just means you have to test this stuff on ninja specifically, not on the other melee jobs, because they aren't necessarily the same thresholds for when you can get another GCD and be safe. 
 
