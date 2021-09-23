@@ -47,9 +47,11 @@ Now that you found where you get your soul, you can begin spending to gain Sickl
 
 * You will use them on single-target “Claw Type” skills:
 
-  * These abilities are: **Stalksway, Gibbet Claw, Gallow Claw** 
+  * These abilities are: **Stalksway, Gibbet Claw, Gallows Claw** 
 
     * As of the LL, we believe this all do effectively the same thing and they share the same button
+
+      * Gallows claw appears to do about 20 more potency.
     * I will discuss what makes it “change” later on, but it is inconsequential to know this as of the LL 
   * They cost 50 Soul
   * They set your Sickle count to 1.
@@ -90,7 +92,7 @@ Ok, you have a Sickle, maybe two and who knows you could even have three so what
     * This last for 60s and wears off on your next Gallows
     * This changes Stalkway to “Gallows Claw”
 
-      * As far as we know this change is only aesthetic
+      * Gallows Claw does about 20 more potency, this means that you will also start with Gibbet in an encounter. 
   * **Gallows** 
 
     * Deals more damage from the Rear
@@ -165,7 +167,7 @@ Ok that was a lot, let’s unpack that and talk about what you do in Lemure’s 
 * * Lemure Souls are the blue orbs in the gauge above
   * Void Reaper and Cross Reaper seem to have a 1.5s global cooldown, meaning they will be much faster than all of your other weapon skills.
   * We are unsure if Void Reaper and Cross Reaper will have positional requirements, but we believe they may.
-  * Just like Gibbet and Gallows, using one will buff the other, so you will alternate. It doesn’t matter which one you start on.
+  * Just like Gibbet and Gallows, using one will buff the other, so you will alternate. It is highly likely that you will be encouraged to start with Void Reaper, similar to what they have done with Gibbet / Gallows
 * You spend 2 stacks of Lemure X on Lemure Slice or Lemure Scythe
 
   * Lemure X are the purple orbs in the gauge above.
@@ -176,17 +178,11 @@ Ok that was a lot, let’s unpack that and talk about what you do in Lemure’s 
   * Communio has a cast time of 1.3s
   * Communio has a base global cooldown of 2.5, like your other abilities but since it is a spell will be unaffected by skillspeed.
 
-
-
-
-
 So your Lemure Shroud will look like this in single target:
 
 * **Void Reaper → Cross Reaper → Lemure Slice → Void Reaper → Cross Reaper → Lemure Slice → Communio**
 
 And that is it! You have spent your last builder. That is Reaper in a nutshell! There are a few more interesting things to talk about though, so hang around!
-
-
 
 **Shadow of Death / Whorl of Death(AoE)**
 
@@ -253,8 +249,6 @@ So in short to play Reaper you do the following:
 * Spend Soul Gauge to gain Sickles
 * Spend Sickles to gain Shroud
 * Spend Shroud to enter Lemure’s Shroud
-
-
 
 Lastly, there are still a few questions we have that need to be answered in order for us to get a full picture of all that Reaper has to offer:
 
