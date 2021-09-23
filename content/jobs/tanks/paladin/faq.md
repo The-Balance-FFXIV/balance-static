@@ -1,8 +1,6 @@
 ---
-title: FAQ
+title: Paladin FAQ
 ---
-# Paladin FAQ
-
 > *Why is Circle of Scorn used immediately in the opener?*   
 
  Circle of Scorn is used before Fight or Flight in most openers and kept on cooldown in most phases for two reasons:
@@ -61,7 +59,7 @@ Covered damage calculations ignore the target completely, and are instead based 
 
 Any debuffs or knockbacks that would have been inflicted on the covered target are often applied on you instead (if the attack hits the entire raid, whether you get two debuffs/knockbacks or one overwrites the other is entirely up to the mercy of the devs). Some things go through cover, and there is no hard and fast rule to determine what goes through cover. As a general rule, enrage-type damage will go through Cover.
 
-![](https://xiv.sleepyshiba.com/pld/assets/skill-divineveil.png)  
+![](https://xiv.sleepyshiba.com/pld/assets/skill-divineveil.png)   
 Upon using Divine Veil, you get a buff that has no effect unless you receive a GCD heal within the next 30 seconds. All healing spells with an on-hit potency and fairy Embrace will proc Divine Veil, but oGCD healing abilities will not.
 
 Upon receiving a GCD heal, the initial buff on you is removed and all other party members within a 15y radius get a shield equal to 10% of your maximum HP for 30 seconds. This shield stacks with all other shields and will not be removed by additional healing, despite the misleading tooltip.
@@ -71,7 +69,7 @@ Divine Veil does not affect the Paladin directly in any way.
 ![](https://xiv.sleepyshiba.com/pld/assets/skill-passageofarms.png)  
 Upon using Passage of Arms, you get a buff that blocks all incoming attacks (similar to Sheltron). This buff ends instantly when you stop channeling the ability. Attacking, moving, or using another ability will interrupt the channel. Most of the time, this part of the ability can be ignored; there is little reason to use Passage instead of Sheltron, and can require tricky timing to cover the desired damage while maintaining GCD uptime.
 
-All other party members in an 8y cone behind you get a buff that reduces their damage taken by 15% for five seconds. This buff is applied even if the ability isn't channeled, but its hidden 5 second duration is refreshed whenever the server regen tick occurs while channeling (every three seconds on an independent background timer).
+All other party members in an 8y cone behind you get a buff that reduces their damage taken by 15% for five seconds. This buff is applied even if the ability isn't channeled, but its hidden five second duration is refreshed whenever the server regen tick occurs while channeling (every three seconds on an independent background timer).
 
 Passage of Arms can be channeled for up to 18 seconds if necessary, granting 20 to 23 seconds of party mitigation, depending on the alignment of the regen tick timer.
 
