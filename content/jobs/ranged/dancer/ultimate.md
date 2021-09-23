@@ -113,7 +113,7 @@ When able to hit 2+ targets at the same time, it is worth it to do Windmill → 
 
 ## Jagd Doll
 
-(Speed kills for this fight use a very difficult strategy that involves feeding all dolls at the same time to maximize AoE potential and minimizes losses from switching to single target actions on the four separate dolls. Those require very coordinated and planned AoE usage that gets all four dolls to <25% in a consistent way. The tips here will just focus on if you are doing strats involving each DPS focusing their own doll).
+(Speed kills for this fight use a very difficult strategy that involves feeding all Dolls at the same time to maximize AoE potential and minimizes losses from switching to single target actions on the four separate Dolls. Those require very coordinated and planned AoE usage that gets all four dolls to <25% in a consistent way. The tips here will just focus on if you are doing strats involving each DPS focusing their own Doll).
 
 You may have noticed that the time the Jagd Dolls spawn happens about 5 GCDs before Standard Step is up again. The Jagd Doll is a DPS mechanic where the Jagd Doll needs to be damaged but not killed. The Jagd Doll has to be brought below 25% HP before it can be fed to the boss, otherwise it will cause a wipe. The problem with Standard Step is that it is a large amount of potency that has a chance to Crit and/or DH and can do a high % of the the Doll’s HP. So we can either use Standard Step on cooldown but in a very cautious way to prevent it from overkilling the Doll or we can delay.
 
@@ -122,19 +122,19 @@ Pros to using SS on Doll:
 * Allows you to keep SS on cooldown which can potentially gain you an extra usage of SS for Phase One depending on when your group kills Living Liquid.
 * Not delaying SS and using it on cooldown means SS will come up during the Protean Eave baits / AoE puddle baits after second Cascade which means you won’t interrupt your AoE combo when disengaging.
 * You can hit three (potentially four targets) with your SS which gains you 250-500 extra potency versus only hitting Living Liquid and Liquid Hand.
-* If you hit another DPS’s doll with SS, you could potentially gain them an extra GCD on Living Liquid / Liquid Hand due to helping them reach the <25% threshold on their doll.
+* If you hit another DPS’s Doll with SS, you could potentially gain them an extra GCD on Living Liquid / Liquid Hand due to helping them reach the <25% threshold on their Doll.
 * By upfronting your biggest hitting ability (Standard Finish) before hitting the Doll hard and adjusting the number of regular Single Target GCDs you do later based on whether the Finish Crit/DHs, you increase the likelihood of bringing your Doll just below the 25% HP threshold to reduce the number of wasted GCDs on the Doll.
 
 Cons to using SS on Doll:
 
-* High variance to SS damage means the DNC will have to adjust the number of GCDs they do on the doll which makes the timing of when the doll gets fed variable (which can affect healing timing)
-* Variable in number of GCDs means DNC will have to be aware of approximately what % of the - Doll’s hp will be done by damage by various actions
+* High variance to SS damage means the DNC will have to adjust the number of GCDs they do on the Doll which makes the timing of when the Doll gets fed variable (which can affect healing timing)
+* Variable in number of GCDs means DNC will have to be aware of approximately what percent of the Doll’s HP will be done by damage from various actions.
 
-You should communicate with your raid group to determine whether or not you should use standard step on your doll as it requires coordination for feed strategies. 
+You should communicate with your raid group to determine whether or not you should use Standard Step on your Doll as it requires coordination for feed strategies. 
 
-The Jagd Doll has about 164,000 HP, so it is important to know where the damage on your doll is coming from. When the doll spawns, you need to do a GCD on your doll to tag it. You should tap the doll with either Cascade, Reverse Cascade, or Fountain then switch back (if you are doing 1 > 3 > 2 > 4 before the dolls spawn, you’ll always be able to do one of these 3 GCDs over Fountainfall or Saber Dance). Then, you can switch back to Living Liquid / Liquid Hand for 4 more GCDs before Standard Step comes off cooldown. After you use Standard Finish on your Doll, you can react to whether you got a Crit, DH, or CritDH on the Standard Finish and adjust for how many GCDs you need to do to bring the Doll down below 25% HP. Saber Dance should never be used on the Doll because you will miss out on significant cleave potential of Saber Dance on Living Liquid and Liquid Hand together. Additionally, it does a high amount of potency and can potentially overkill the Doll if it Crits and/or DH. Additionally, feathers should be saved as much as possible for Fan Dance 2 that can be used to hit both Living Liquid and Liquid Hand.
+The Jagd Doll has about 164,000 HP, so it is important to know where the damage on your Doll is coming from. When the Doll spawns, you need to do a GCD on your Doll to tag it. You should tap the Doll with either Cascade, Reverse Cascade, or Fountain then switch back (if you are doing 1 > 3 > 2 > 4 before the dolls spawn, you’ll always be able to do one of these 3 GCDs over Fountainfall or Saber Dance). Then, you can switch back to Living Liquid / Liquid Hand for 4 more GCDs before Standard Step comes off cooldown. After you use Standard Finish on your Doll, you can react to whether you got a Crit, DH, or Crit+DH on the Standard Finish and adjust for how many GCDs you need to do to bring the Doll down below 25% HP. Saber Dance should never be used on the Doll because you will miss out on significant cleave potential of Saber Dance on Living Liquid and Liquid Hand together. Additionally, it does a high amount of potency and can potentially overkill the Doll if it Crits and/or DH. Additionally, Feathers should be saved as much as possible for Fan Dance II that can be used to hit both Living Liquid and Liquid Hand.
 
-Regarding Crit/DH variance, here is an attempt log of my doll being overkilled by about 1200 damage. Our group’s strategy included our WHM using Assize to help with AoE heals while the Dolls were still alive so the damage from Assize had to be factored into my Doll planning. This attempt shows me using Cascade, Fountain, and then I switched back to Living Liquid / Liquid Hand to do 3 more GCDs before Standard Step came back up. I also had 2 auto attacks on the Doll along and the WHM’s Assize hit the Doll as well. 
+Regarding Crit/DH variance, here is an attempt log of my Doll being overkilled by about 1200 damage. Our group’s strategy included our WHM using Assize to help with AoE heals while the Dolls were still alive so the damage from Assize had to be factored into my Doll planning. This attempt shows me using Cascade, Fountain, and then I switched back to Living Liquid / Liquid Hand to do 3 more GCDs before Standard Step came back up. I also had two auto attacks on the Doll along and the WHM’s Assize hit the Doll as well. 
 
 ![](https://cdn.discordapp.com/attachments/458951851610734595/890378324659019776/unknown.png)
 
@@ -150,15 +150,15 @@ Here are some clips showing this strategy in action:\
 
 If you kept Standard Step off cooldown since the beginning of the fight (including using it on the Jagd Doll), Standard Step will come off cooldown precisely when you have to disengage from the boss to bait Sluice. This means you do not have to interrupt your AoE combo despite disengaging the boss, because you can use those 2 GCDs to do a Standard Step instead.
 
-Try to save 50+ esprit towards the end of the phase for your Brute Justice / Cruise Chaser reopener so that you can do Technical Finish (Devilment) > Saber Dance (Flourish).
+Try to save 50+ Esprit towards the end of the phase for your Brute Justice / Cruise Chaser reopener so that you can do Technical Finish (Devilment) > Saber Dance (Flourish).
 
 ## Defensive Cooldown Timings
 
-(In general, you should discuss these cooldown timings with your healers and tanks. The suggestions here are timings that I found useful for me)
+(In general, you should discuss these cooldown timings with your healers and tanks. The suggestions here are timings that I found useful for me).
 
 ### Shield Samba:
 
-A decent time to use Shield Samba would be right as the x6 splashes occur into 2nd Cascade. Since Shield Samba lasts 15 seconds, it should be able to cover all 6 splashes and the Cascade AoE damage. If using Standard Step on cooldown on the doll, Standard Step will come off cooldown on the GCD before the splash damage comes out. If you miss that oGCD due to using feathers (this coincides with a Flourish timing) and start the Standard Step, you can do Samba on the oGCD of the Finish but it will miss 2-3 of the AoE splashes in mitigation.
+A decent time to use Shield Samba would be right as the x6 Splashes occur into second Cascade. Since Shield Samba lasts 15 seconds, it should be able to cover all six Splashes and the Cascade AoE damage. If using Standard Step on cooldown on the doll, Standard Step will come off cooldown on the GCD before the Splash damage comes out. If you miss that oGCD due to using Feathers (this coincides with a Flourish timing) and start the Standard Step, you can do Samba on the oGCD of the Finish but it will miss 2-3 of the AoE Splashes in mitigation.
 
 ### Second Wind:
 
@@ -166,15 +166,15 @@ I used Second Wind to help recover damage taken during Dolls.
 
 ### Curing Waltz:
 
-I used this during the Doll damage to help recover some HP for me and my dance partner (BLM/SMN) who would feed their Doll 4th so we both took a little extra damage during dolls compared to the other DPS (melee) who fed early.
+I used this during the Doll damage to help recover some HP for me and my Dance Partner (BLM/SMN) who would feed their Doll 4th so we both took a little extra damage during Dolls compared to the other DPS (melee) who fed early.
 
 If using Curing Waltz during the Dolls as mentioned, it will be up in time to use again at the end of the Living Liquid phase before Limit Cut as everyone gathers near the middle waiting for Hawk Blasters to help top everyone off coming out of that phase.
 
-Other options include squeezing it in during the opening Technical window after Liquid Hand spawns and/or using it during Splashes/immediately after the Cascade. If used during Splashes, it can be used at the very beginning of P2 between Standard Finish and Technical Step after J-kick.
+Other options include squeezing it in during the opening Technical window after Liquid Hand spawns and/or using it during Splashes/immediately after the Cascade. If used during Splashes, it can be used at the very beginning of P2 between Standard Finish and Technical Step after J-Kick.
 
 ### Improvisation:
 
-Improvisation can be weaved before 2nd Cascade when Living Liquid, Liquid Hand, and the whole party is gathered near the middle. This will also provide the Healing buff which was helpful in our prog in snapshotting AoE regens and a succor shield for the post 2nd Cascade mechanics. If you don’t use it here, you can use it between Living Liquid dying and Limit Cut / Hawk Blasters appearing to gain some esprit before Brute Justice / Cruise Chaser phase.
+Improvisation can be weaved before Second Cascade when Living Liquid, Liquid Hand, and the whole party is gathered near the middle. This will also provide the Healing buff which was helpful in our prog in snapshotting AoE regens and a succor shield for the post Second Cascade mechanics. If you don’t use it here, you can use it between Living Liquid dying and Limit Cut / Hawk Blasters appearing to gain some Esprit before Brute Justice / Cruise Chaser phase.
 
 ## Misc Notes on Living Liquid Phase
 
