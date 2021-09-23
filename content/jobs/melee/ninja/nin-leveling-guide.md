@@ -1,4 +1,4 @@
 ---
-title: NIN Leveling Guide
+title: Leveling Guide
 ---
-[Placeholder, as Sheenda has confirmed this will be coming this week or this weekend, at the latest.]
+[Placeholder for NIN leveling guide, as Sheenda has confirmed this will be coming this week or this weekend, at the latest.]
