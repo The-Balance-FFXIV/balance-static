@@ -1,8 +1,6 @@
 ---
-title: FAQ
+title: Paladin FAQ
 ---
-# Paladin FAQ
-
 > *Why is Circle of Scorn used immediately in the opener?*   
 
  Circle of Scorn is used before Fight or Flight in most openers and kept on cooldown in most phases for two reasons:
