@@ -101,8 +101,6 @@ The main tank cannot be targeted by an Eruption during primal roulette, so don't
 
 Watch Ultima's HP; regardless of when your final burst is planned, you should use your tincture by the time the boss drops to around 15% HP to benefit from its full duration.
 
-
-
 # The Unending Coil of Bahamut (UCoB)
 
 ## Gearing
@@ -116,3 +114,47 @@ If you wish to minmax further, a non-exhaustive list of best-in-slot configurati
 ## Offensive Cooldown Usage
 
 Optimizing your damage on Dark Knight revolves heavily around shifting potency into raidbuffs, and ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, you will want to pool resources for the start of each phase, with a second burst window near the middle. Note that it is impossible to provide a full map of each burst window because it depends heavily on comp, killtime, and how your party decides to align their cooldowns. The following phase optimization sections will provide guidelines for how to approach each one, but practicing and consulting with your group is the only way to know for sure.
+
+## Phase-by-Phase Optimization
+
+### Twintania
+
+Use your preferred level 80 opener, with a few minor adjustments. First is the obvious omission of Living Shadow. Second is an early use of a defensive cooldown to cover the first Death Sentence if you are pulling. Third is a killtime-dependent shifting of Delirium; with fast pushes, your fourth use of Delirium is likely to get cut off by Nael's divebombs. It is worth pushing Delirium early in your opener to avoid this.
+
+TBN should be used liberally to help with autoattack and tankbuster damage. While it can be used to help survive a Death Sentence, TBN is especially effective in mitigating Flattens because a tank who survives Death Sentence, even at low health, will not need immediate attention.
+
+The third tank swap will not have Shirk available, so be ready to toggle tank stance.
+
+### Nael
+
+TBN can again be used very effectively in this phase, especially for quotes involving stacks. Dark Mind can also be used to mitigate stacks somewhat.
+
+### Bahamut
+
+My cooldown rotation for Bahamut:
+
+\- First uptime: LD first Flatten (TBN/DM to survive Flare)
+
+\- Post-Quickmarch: Rampart at individual Megaflare explosions to cover through Flatten, TBN+Reprisal
+
+\- Post-Blackfire: Dark Mind + Shadow Wall + TBN for triple flares
+
+\- Post-Fellruin: Swap or Cover
+
+\- Post-Heavensfall: Dark Mind + Shadow Wall + TBN
+
+\- Post-Tenstrike: Rampart or swap
+
+### Teraflare/Adds Phase
+
+Use tincture in the opener here and it will be back up at the end of Golden.
+
+Make sure to put TBN on whichever tank is holding Twintania during quotes, especially if it includes a stack. Dark Mind can help mitigate here.
+
+### Golden
+
+You can leave one of your defensive cooldowns out of the first set of Akh Morns and use it for autoattacks instead.
+
+I prefer to invuln the second and third Akh Morns for better cooldown availability.
+
+Try to coordinate your final burst with all raidbuffs/personal cooldowns plus tincture.
