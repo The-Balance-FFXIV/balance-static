@@ -275,8 +275,6 @@ We've taken a lot of care to evaluate as many of the variables as we reasonably 
 
 **Most of this is optional and fight-dependent**, but it is almost always recommended to prep a card 30 seconds pre-pull so that Draw comes back up, place Earthly Star somewhere pre-pull, and use Aspected Benefic, Celestial Intersection, and your Mind Potion/Tincture starting at -5s to lead into your precast Malefic.
 
-![Astro Opener Simple](https://saltedxiv.com/wp-content/uploads/2020/09/Astro_Opener_simple_1_03-1536x310.png)
-
 * Pre-pull Earthly Star (up to -20s depending on fight; -12s to -8s optimal for damage)
 * **\-30	- Draw** (opener assumes you pull with a card in hand and Draw ready)
 * \-20	- Nocturnal Sect, Neutral Sect, Horoscope
