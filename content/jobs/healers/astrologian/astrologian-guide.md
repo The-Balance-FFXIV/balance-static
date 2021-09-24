@@ -364,7 +364,7 @@ Astrologian has a few quirks that you kiiiind of have to know in order to play t
 
 ## Strange Interactions
 
-1. Earthly Star is technically a pet. It counts as a unique, separate entity from ourselves, but it scales with our stats as a pet would. Somewhere in the spaghetti code, they’ve made the Earthly Star “pet” closely match player scaling, so the numbers you see match up with the listed potencies as though they were player potencies, unlike the reduced pet scaling observed with actual pets. This doesn’t currently have any pragmatic effect on us, and we hope it stays that way, but it has in the past.
+1. Earthly Star is technically a pet. It counts as a unique, separate entity from ourselves, but it scales with our stats as a pet would. Somewhere in the spaghetti code, they’ve given Earthly Star its own special modifier to bring it up to ~95% of player potency, unlike the significantly reduced pet scaling observed with actual pets. This doesn’t currently have much pragmatic effect on us, and we hope it stays that way, but it has in the past.
 2. Essential Dignity calculates its heal value based on the missing health of the target at the beginning of the skill, rather than at the end, when the animation completes and the heal is delivered. This can be a good or a bad thing.
 
    * If you cast Benefic II and seamlessly follow it up with Essential Dignity, the Essential Dignity calculates its heal potency based on the health the target had before the Benefic II landed, because Essential Dignity’s execution began just before the heal from Benefic II was registered. This can be somewhat finicky based on your connection, and it is less reliable with Aspected Benefic due to the difference in animations.
