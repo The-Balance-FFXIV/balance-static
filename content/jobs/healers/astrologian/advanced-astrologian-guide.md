@@ -19,7 +19,7 @@ In dungeons, you can swap to Nocturnal Sect after the last enemy in a pull dies,
 
 Cards and Minor Arcana do not stack with themselves or each other, including from different Astrologians. However, Divination does stack with any existing card or Minor Arcana buff, and it stacks multiplicatively. This means that instead of being 6% + 6% = 12% damage buff, it’s actually 1.06 * 1.06 = 12.36% damage buff. This doesn’t seem significant on its own, but the same kind of multiplicative buff interaction is compounding with all other active raid buffs, and everyone is aligning the highest burst damage portions of their rotations with these stacking raid buffs, and it quickly becomes quite significant. This is the basis of coordinated raid burst, and it’s a huge part of what makes Astrologian good instead of okay.
 
-Because card buffs only last 15 seconds, we also want to do this on a smaller scale whenever we’re playing regular cards by trying to play your cards on the right person at the right time. Part of this decision is made for you based on what you draw and what Seals you do or don’t need, but you still have the freedom of deciding when you play your card within a nearly 30 second window, because there’s no penalty for holding onto a card as long as you play it before you need to draw another one.
+Because card buffs only last 15 seconds, we also want to do this on a smaller scale whenever we’re playing regular cards by trying to play your cards on the right person at the right time. Part of this decision is made for you based on what you draw and what Seals you do or don’t need, but you still have the freedom of deciding when you play your card within a nearly 30-second window, because there’s no penalty for holding onto a card as long as you play it before you need to draw another one.
 
 Optimizing your card usage like this can be daunting, and it’s not the most important thing about playing Astrologian by a long shot, but it’s definitely something to be aware of. The value of your card buffs can vary hugely (literally double in some cases) depending on whether you’re giving out cards during people’s individual burst or if you’re giving people cards when they’re in the lower DPS valleys of their cycles. For instance, you don’t want to give a Summoner a card right after they’ve refreshed their DoTs and are just going to be spamming Ruin for the next 15 seconds; you want to give them a card when they’re going to refresh their DoTs with the card active or when they’re going into Trance.
 
@@ -29,7 +29,7 @@ Sleeve Draw and Divination align in the opener and at the 6 minute mark in the f
 
 Your entire opener revolves around collecting three unique Seals so you can use a max strength Divination at the ideal time. When things go smoothly, it’s possible to use Divination as early as the 3rd GCD, but that’s actually too early in most cases. When you’re still getting used to the opener, it can feel like you’re scrambling to get Divination out fast enough, but you want to make sure you’re not rushing *too* much.
 
-Our standard recommendation is to aim for a 4th GCD Divination (not counting the precast Malefic), which has it coming out at around the 10 second mark. If you’re forced into multiple Redraws, using Divination as the 1st weave after the 5th GCD is also generally acceptable, as long as you don’t have a particularly slow GCD (2.45s and up). This is because it takes most jobs a few GCDs to ramp up before getting their buffs out and beginning their burst in earnest.
+Our standard recommendation is to aim for a 4th GCD Divination (not counting the precast Malefic), which has it coming out at around the 10-second mark. If you’re forced into multiple Redraws, using Divination as the 1st weave after the 5th GCD is also generally acceptable, as long as you don’t have a particularly slow GCD (2.45s and up). This is because it takes most jobs a few GCDs to ramp up before getting their buffs out and beginning their burst in earnest.
 
 However, early is always better than late, because a late Divination in the opener will be late for every subsequent Divination window until the group holds their burst for something or the fight ends. That’s why we tend to stress the importance of getting Divination out quickly.
 
@@ -49,13 +49,13 @@ It's no secret that some jobs do more damage than others. Notably, "selfish DPS"
 
 But you would be wrong. At least, sometimes. If there's a huge DPS disparity and one person is doing 50% more DPS than everyone else, they obviously have card priority. But we're here to talk about optimization, where one would assume that's not the case.
 
-You see, the key flaw of simply basing your card targets just on the DPS meter is that the meter reports the average DPS across the entire fight, while a card is only active for 15 out of 30 seconds. You shouldn't be asking who's doing the most DPS; you should be asking who's doing the most damage **in this 15 second window.**
+You see, the key flaw of simply basing your card targets just on the DPS meter is that the meter reports the average DPS across the entire fight, while a card is only active for 15 out of 30 seconds. You shouldn't be asking who's doing the most DPS; you should be asking who's doing the most damage **in this 15-second window.**
 
 For example, a Black Mage might be doing the most DPS overall, but they don't have particularly significant damage spikes. Their damage is much more evenly distributed than most jobs. In contrast, a Dancer will usually have the lowest personal damage out of all the DPS, but a significant amount of their total damage is condensed into their two-minute burst windows. That can easily make them a better card target than a Black Mage for that window. In fact, due to their lack of significant burst windows, Black Mages are often the *worst* DPS to card during coordinated party burst windows.
 
 In general, you prefer to play melee cards, because melee DPS generally have higher personal DPS *and* have bigger burst windows. The exception to this is Summoner, specifically because of how their DoTs snapshot. Their DoTs are a large portion of their damage, and when you card them during a burst window, they will be snapshotting their DoTs with your card (unless you're late).
 
-At that point, you're buffing everything they're doing for that 15 second window *and* an extra 15 seconds of their DoTs. Their DoTs contribute almost as much to their overall damage as Ruin III, their primary filler spell, so you're getting a lot of extra value with that snapshot.
+At that point, you're buffing everything they're doing for that 15-second window *and* an extra 15 seconds of their DoTs. Their DoTs contribute almost as much to their overall damage as Ruin III, their primary filler spell, so you're getting a lot of extra value with that snapshot.
 
 ### Card Timing
 
@@ -65,13 +65,15 @@ Summoner makes an excellent example the importance of timing. In the most common
 
 That's an extreme example, but not an entirely unrealistic one. Every job's DPS has peaks and valleys. If cards lasted longer, the disparity between properly and improperly timed cards wouldn't be so dramatic, but cards only cover a handful of GCDs. Unfortunately, that makes it very easy to "whiff" a card completely, only catching the lowest damage portion of someone's rotation.
 
-We've discussed that when choosing a target, you should be asking who is doing the most damage in that 15 second window. But, beyond the opener, you have the freedom to hold cards for almost 30 seconds without delaying your next Draw. The 15 second window isn't the whole picture, because *it's not just the one 15 second window*. It's any possible 15 second window that begins within the 30 second window between Draws.
+We've discussed that when choosing a target, you should be asking who is doing the most damage in that 15-second window. But, beyond the opener, you have the freedom to hold cards for almost 30 seconds without delaying your next Draw. The 15 second window isn't the whole picture, because *it's not just the one 15-second window*. It's any possible 15-second window that begins within the 30-second window between Draws.
 
 The 30 seconds you have to use a card is called a "**Draw window**," and the 15 seconds of the card buff is called a "**card window**." So, the real game here is to identify the highest damage card window within each Draw window, between all potential recipients of whatever card you have.
 
 That involves understanding the ebb and flow of your party members' rotations and learning how to keep tabs on them throughout the encounter, sometimes down to the exact GCD. Ideally, you would have a solid understanding of other jobs' rotations in order to do this.
 
 But, even without being intimately familiar with how each DPS is played, you can still learn to catch individual burst windows with a combination of studying your group's logs for each encounter, good communication during the fight, and/or watching for certain cues that help you track and predict burst windows.
+
+Almost every ability in the game has a cooldown that is a multiple of 30 seconds. That makes it relatively simple to keep track of people's burst cycles by knowing the length of their main cooldowns and measuring them out by counting your Draws. In doing so, you'll find that most DPS operate on 60-second and 120-second burst cycles, which should be easy to keep track of: every other Draw, and every Divination window, which you're already playing around.
 
 
 
