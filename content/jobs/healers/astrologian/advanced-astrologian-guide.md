@@ -53,7 +53,7 @@ You see, the key flaw of simply basing your card targets just on the DPS meter i
 
 For example, a Black Mage might be doing the most DPS overall, but they don't have particularly significant damage spikes. Their damage is much more evenly distributed than most jobs. In contrast, a Dancer will usually have the lowest personal damage out of all the DPS, but a significant amount of their total damage is condensed into their two-minute burst windows. That can easily make them a better card target than a Black Mage for that window. In fact, due to their lack of significant burst windows, Black Mages are often the *worst* DPS to card during coordinated party burst windows.
 
-In general, you prefer to play melee cards, because melee DPS generally have higher personal DPS *and* have bigger burst windows. The exception to this is Summoner, specifically because of how their DoTs snapshot. Their DoTs are a large portion of their damage, and when you card them during a burst window, they will be snapshotting their DoTs with your card (unless you're late).
+In general, you prefer to play melee cards, because melee DPS generally have higher personal DPS *and* have bigger burst windows. The occasional exception to this is Summoner, specifically because of how their DoTs snapshot. Their DoTs are a large portion of their damage, and when you card them during a burst window, they will be snapshotting their DoTs with your card (unless you're late).
 
 At that point, you're buffing everything they're doing for that 15-second window *and* an extra 15 seconds of their DoTs. Their DoTs contribute almost as much to their overall damage as Ruin III, their primary filler spell, so you're getting a lot of extra value with that snapshot.
 
