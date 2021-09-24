@@ -51,8 +51,18 @@ But you would be wrong. At least, sometimes. If there's a huge DPS disparity and
 
 You see, the key flaw of simply basing your card targets just on the DPS meter is that the meter reports the average DPS across the entire fight, while a card is only active for 15 out of 30 seconds. You shouldn't be asking who's doing the most DPS; you should be asking who's doing the most damage **in this 15 second window.**
 
-A Black Mage might be doing the most DPS overall, but they don't have particularly significant damage spikes. Their damage is much more evenly distributed. In contrast, a Dancer will usually have the lowest personal damage out of all the DPS, but they have an absolutely *spectacular* burst window every two minutes. A huge amount of their total damage is condensed into those two-minute burst windows, which can easily make them a better card target than a Black Mage during that window.
+For example, a Black Mage might be doing the most DPS overall, but they don't have particularly significant damage spikes. Their damage is much more evenly distributed than most jobs. In contrast, a Dancer will usually have the lowest personal damage out of all the DPS, but a significant amount of their total damage is condensed into their two-minute burst windows. That can easily make them a better card target than a Black Mage for that window. In fact, due to their lack of significant burst windows, Black Mages are often the *worst* DPS to card during coordinated party burst windows.
+
+In general, you prefer to play melee cards, because melee DPS generally have higher personal DPS *and* have bigger burst windows. The exception to this is Summoner, specifically because of how their DoTs snapshot. Their DoTs are a large portion of their damage, and when you card them during a burst window, they will be snapshotting their DoTs with your card (unless you're late).
+
+At that point, you're buffing everything they're doing for that 15 second window *and* an extra 15 seconds of their DoTs. Their DoTs contribute almost as much to their overall damage as Ruin III, their primary filler spell, so you're getting a lot of extra value with that snapshot.
 
 ### Card Timing
 
-### Minor Arcana
+While selecting your card target is important, much of that is decided for you based on what cards you draw and what Seals you need. The thing you have direct control over is *when* you card someone, and that's the variable that determines the optimal target in the first place.
+
+Summoner makes an excellent example of how much of a difference your timing can make. In the most common opener, Summoner snapshots their DoTs at around 11 seconds, right after all the party buffs should be in place. Those DoTs last 30 seconds, and they're so beefed up that carding the Summoner right before their DoT application can result in almost *twice as much* damage gained from the card, compared to carding them a single GCD later.
+
+That's an extreme example, but not an unrealistic one. Each job's DPS has peaks and valleys, and some jobs' peaks and valleys are more pronounced. If cards lasted longer, the disparity between properly and improperly timed cards wouldn't be so dramatic, because you'd almost always cover *something* valuable. But, cards only cover a handful of GCDs, so it's very easy to "whiff" a card completely, only catching the lowest damage portion of someone's rotation.
+
+Beyond the opener, you have the freedom to hold cards for almost 30 seconds without delaying your next Draw, and it's important that you take advantage of that.
