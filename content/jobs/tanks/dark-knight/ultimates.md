@@ -1,7 +1,7 @@
 ---
 title: Ultimates
 ---
-# The Weapon's Refrain
+# The Weapon's Refrain (UWU)
 
 ## Best-in-slot
 
@@ -13,7 +13,13 @@ If you wish to minmax further, a non-exhaustive list of best-in-slot configurati
 
 ## Offensive Cooldown Usage
 
-Optimizing your damage on Dark Knight revolves heavily around shifting potency into raidbuffs, and ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, they will fall at the start of each phase, plus some time in the middle of each. For more detailed guidelines, see the sections below and consult with your group.
+Optimizing your damage on Dark Knight revolves heavily around shifting potency into raidbuffs, and ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, you will want to pool resources for the start of each phase, with a second burst window near the middle. 
+
+Note that it is impossible to provide a full map of each burst window because it depends heavily on comp, killtime, and how your party decides to align their cooldowns. The following phase optimization sections will provide guidelines for how to approach each one, but practicing and consulting with your group is the only way to know for sure.
+
+## Defensive Cooldown Usage
+
+Ultimate progression is a team effort. Because healers will likely be devoting significant resources to keep you alive, every bit of mitigation you can add will help greatly.
 
 ## Phase-by-phase optimization
 
@@ -62,6 +68,8 @@ Delirium can be used on the Magitek Bits and be available for Ultima opener. Thi
 
 Blood Weapon can be used on Lahabrea. You should get five or six GCDs on Lahabrea, depending on how quickly your melee uses LB.
 
+Remember to acquire a Dark Arts proc by using TBN on a non-tank before Ultima. 
+
 Make sure that you are the one who uses tank LB, as it looks the coolest.
 
 ### Ultima
@@ -92,3 +100,19 @@ Tank damage during primal roulette is very heavy, as Ultima will attack uninterr
 The main tank cannot be targeted by an Eruption during primal roulette, so don't be shy about standing where you need to to allow for melee positionals.
 
 Watch Ultima's HP; regardless of when your final burst is planned, you should use your tincture by the time the boss drops to around 15% HP to benefit from its full duration.
+
+
+
+# The Unending Coil of Bahamut (UCoB)
+
+## Gearing
+
+For level 70 ultimates, a full set of synced gear with critical hit + determination and enough pieces with critical hit + skill speed to hit your desired GCD tier is more than sufficient. All pieces of item level 418 or higher will max out both substats in UCoB. The last- and second-to-last steps of the Bozjan Resistance weapons will provide a significant damage boost, as they allow you to hit the cap on all four substats. The maximum sync value for weapons is 280 in each substat.
+
+Use the most current food available. Any grade Tincture of Strength will grant the maximum benefit in UCoB. 
+
+If you wish to minmax further, a non-exhaustive list of best-in-slot configurations will be listed below. You can find a complete list in the dedicated best-in-slot guide for DRK.
+
+## Offensive Cooldown Usage
+
+Optimizing your damage on Dark Knight revolves heavily around shifting potency into raidbuffs, and ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, you will want to pool resources for the start of each phase, with a second burst window near the middle. Note that it is impossible to provide a full map of each burst window because it depends heavily on comp, killtime, and how your party decides to align their cooldowns. The following phase optimization sections will provide guidelines for how to approach each one, but practicing and consulting with your group is the only way to know for sure.
