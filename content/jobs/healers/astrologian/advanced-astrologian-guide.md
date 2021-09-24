@@ -67,6 +67,6 @@ That's an extreme example, but not an entirely unrealistic one. Every job's DPS 
 
 We've discussed that when choosing a target, you should be asking who is doing the most damage in that 15 second window. But, beyond the opener, you have the freedom to hold cards for almost 30 seconds without delaying your next Draw. The 15 second window isn't the whole picture, because *it's not just the one 15 second window*. It's any possible 15 second window that begins within the 30 second window between Draws.
 
-The 30 seconds you have to use a card is called a "**Draw window**," and the 15 seconds of the card buff is called a "**card window**." So, the real game here is to identify the highest damage card window within each Draw window, between the potential recipients of whatever card you have.
+The 30 seconds you have to use a card is called a "**Draw window**," and the 15 seconds of the card buff is called a "**card window**." So, the real game here is to identify the highest damage card window within each Draw window, between all potential recipients of whatever card you have.
 
 For the most part, that boils down to tracking people's individual burst windows.
