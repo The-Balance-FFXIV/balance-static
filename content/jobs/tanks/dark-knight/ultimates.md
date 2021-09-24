@@ -23,7 +23,7 @@ Ultimate progression is a team effort. Because healers will likely be devoting s
 
 ## Phase-by-phase optimization
 
-### Garuda
+### Phase 1: Garuda
 
 Your opener should be similar to the level 80 opener with a few key adjustments. The main considerations are a very early Plunge, delayed Blood Weapon due to lack of Living Shadow, and delayed Abyssal Drain and Salted Earth to take advantage of plumes. An example MT opener is listed below: \
 (opener image)
@@ -42,7 +42,7 @@ The second set of plumes come with quite a bit of damage on the main tank, so ma
 
 You should ensure that you get a second use of Delirium during the phase. If your killtime is too fast to allow a full use at the end, move your first use earlier in your opener.
 
-### Ifrit
+### Phase 2: Ifrit
 
 It is possible to keep your combo rolling from Garuda's death to Ifrit's reappearance. However, this is a *very* tight window, so only try it if you're confident.
 
@@ -52,7 +52,7 @@ If you are holding the boss during the nail phase, you can hit three targets wit
 
 Nail phase is another period of heavy tank damage, so make sure the tank holding the boss gets a TBN. Use a defensive cooldown as well if you are holding Ifrit. Ideally, the tank with aggro during and after nail phase should avoid pulling Titan so that they can freely use their cooldowns during Ifrit. TBN is also valuable for Flaming Crush + autoattack damage.
 
-### Titan
+### Phase 3: Titan
 
 If Plunge is off cooldown when Titan first becomes targetable, you can use it immediately and have it available after the Upheaval knockback. Otherwise, hold it in the opener for that purpose.
 
@@ -72,7 +72,7 @@ Remember to acquire a Dark Arts proc by using TBN on a non-tank before Ultima.
 
 Make sure that you are the one who uses tank LB, as it looks the coolest.
 
-### Ultima
+### Phase 4: Ultima
 
 General buff timings are:
 
@@ -117,7 +117,7 @@ Optimizing your damage on Dark Knight revolves heavily around shifting potency i
 
 ## Phase-by-Phase Optimization
 
-### Twintania
+### Phase 1: Twintania
 
 Use your preferred level 80 opener, with a few minor adjustments. First is the obvious omission of Living Shadow. Second is an early use of a defensive cooldown to cover the first Death Sentence if you are pulling. Third is a killtime-dependent shifting of Delirium; with fast pushes, your fourth use of Delirium is likely to get cut off by Nael's divebombs. It is worth pushing Delirium early in your opener to avoid this.
 
@@ -125,11 +125,11 @@ TBN should be used liberally to help with autoattack and tankbuster damage. Whil
 
 The third tank swap will not have Shirk available, so be ready to toggle tank stance.
 
-### Nael
+### Phase 2: Nael
 
 TBN can again be used very effectively in this phase, especially for quotes involving stacks. Dark Mind can also be used to mitigate stacks somewhat.
 
-### Bahamut
+### Phase 3: Bahamut
 
 My cooldown rotation for Bahamut:
 
@@ -145,13 +145,13 @@ My cooldown rotation for Bahamut:
 
 \- Post-Tenstrike: Rampart or swap
 
-### Teraflare/Adds Phase
+### Phase 4: Teraflare/Adds
 
 Use tincture in the opener here and it will be back up at the end of Golden.
 
 Make sure to put TBN on whichever tank is holding Twintania during quotes, especially if it includes a stack. Dark Mind can help mitigate here.
 
-### Golden
+### Phase 5: Golden Bahamut
 
 You can leave one of your defensive cooldowns out of the first set of Akh Morns and use it for autoattacks instead.
 
@@ -177,9 +177,11 @@ Lorem Ipsum
 
 aoe on 2 targets, bloodspiller on 2
 
+hold delirium or no
+
 ## Phase-by-Phase Optimization
 
-### Living Liquid
+### Phase 1: Living Liquid
 
 Example MT opener:
 
@@ -205,8 +207,38 @@ Unleash->Blood Weapon->Bloodspiller->Bloodspiller->Stalwart Soul->Bloodspiller->
 
 This sequence only waits on the 2.50 recast time once while Blood Weapon is active and should be consistently doable. This should happen as the Drainage tethers go out if you got all five hits of your first Blood Weapon, or earlier if you didn't. You can also opt to hold Blood Weapon for your second Delirium if killtime permits.
 
-## Bruise Chaser
+### Phase 2: Bruise Chaser/Cruise Justice
+
+Buffs should go out very early in the phase, so you can precast Living Shadow to take full advantage of them. Use after Cruise Chaser disappears to catch buffs after the first GCD, or as Brute Justice's textbox appears for buffs after the second GCD.
+
+TBN should again be used liberally in this phase. Long strings of autoattacks, lightning passes, and raidwides plus autoattacks will all quickly break your shield and potentially save resources from your healers.
+
+Rampart can be used after the Spin Crusher cast finishes to cover a string of autoattacks, mines, ice, and a lightning pass. This is also a good spot to TBN.
+
+Missionary is surprisingly hard to hit all players with. The best spots are at Missile Command to cover mines + second water pass, or shortly after Plasma Shield to cover Whirlwind + third water pass.
+
+### Phase 3: Alexander Prime
+
+Tinctures must be used in the post-Temporal Stasis uptime window to be available for the start of the final phase. Major cooldowns won't be available until the end of Inception Formation if not held at the end of Phase 2, however, so discuss with your group how you want to handle buff alignment. Generally speaking, Phase 3 does have a somewhat tighter DPS check and more room for deaths that will cripple a player's damage output without wiping the party outright.
+
+Delirium windows in post-Temporal Stasis and post-Inception Formation uptime phases will be identical; if you get cut off after three hits in the first section, you will get cut off after three hits again in the second, with a slim chance for a fourth.
+
+Living Shadow should be precast after Inception Formation to fit more hits under buffs. Casting it as Brute Justice lands should put its first hit under buffs cast after the second GCD.
+
+Reprisal can be used once the castbar passes the "E" in "Mega Holy" after Wormhole Formation to cover both hits.
+
+Salted Earth will tick on both bosses at triple enrage if placed like so:
+
+(picture of salted earth)
+
+AoE combos will also hit both bosses if used in this spot. You can additionally hit both bosses with Flood of Shadow by targeting one and moving into the hitbox of the other. Make sure to summon Living Shadow closer to Brute Justice than Cruise Chaser so it won't jump onto the invulnerable Alexander Prime after Cruise Chaser is killed. Delirium can be held until 120s buffs go out.
+
+You will gain about 4800 mana during the cutscene after Phase 3, so take that into account.
+
+Remember to use the tank LB3 because DRK's is the coolest.
+
+### Perfect Alexander
 
 
 
-You can
+60s asap, 4 deliriums, delay last LS, cd busters
