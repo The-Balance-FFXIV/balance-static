@@ -75,7 +75,7 @@ But, even without being intimately familiar with how each DPS is played, you can
 
 Almost every ability in the game has a cooldown that is a multiple of 30 seconds. That makes it relatively simple to keep track of people's burst cycles by knowing the length of their main cooldowns and measuring them out by counting your Draws. In doing so, you'll find that most DPS operate on 60-second and 120-second burst cycles, which should be easy to keep track of: every other Draw, and every Divination window, which you're already playing around.
 
-
+To keep a frame of reference, it can also be helpful to watch the DoT timers on the boss, particularly if you have a Samurai or Summoner, as it's especially important that you cover their DoT refresh when you card them.
 
 At the highest level, in a very consistent group, card optimization can be planned in advance, albeit with considerable effort. In order to map out every Draw window in advance, you would analyze logs of your group in that specific encounter and identify the ideal melee and ranged card target and timing for every single Draw window.
 
