@@ -158,3 +158,127 @@ You can leave one of your defensive cooldowns out of the first set of Akh Morns 
 I prefer to invuln the second and third Akh Morns for better cooldown availability.
 
 Try to coordinate your final burst with all raidbuffs/personal cooldowns plus tincture.
+
+
+
+# The Epic of Alexander (TEA)
+
+## Gearing
+
+blah blah gear stuff
+
+## Defensive Cooldown Usage
+
+Blah blah
+
+## Offensive Cooldown Usage
+
+Lorem Ipsum
+
+aoe on 2 targets, bloodspiller on 2
+
+## Phase-by-Phase Optimization
+
+### Living Liquid
+
+Example MT opener:
+
+(picture of the opener)
+
+Rampart should be used about 7 seconds pre-pull in order to be available for the Drainage tethers later on.
+
+Note the position of Abyssal Drain and Living Shadow; Abyssal is held for two-target cleave plus additional healing, and Living Shadow is used after the 4th GCD in order to delay its Quietus to cleave both bosses.
+
+You can opt to pull with Unmend instead. If you do so, replace the last two hits of the Souleater combo with a Stalwart Soul combo. You will also need to use prepull Blood Weapon, as weaving Edge->Blood Weapon after Unmend without clipping is not feasible. The use of a spell with fixed 2.50-second recast time makes this Blood Weapon window somewhat tighter, but it is still consistently doable.
+
+Briefly taking aggro on both bosses to use invulns on a double Fluid Swing plus additonal autoattacks has very high value. With fast killtimes, using invulns in such a way may cause you to be unable to use them in Phase 3, but the tradeoff is almost always worth it.
+
+Note that if you do use Living Dead for a set of Fluid Swings, you will probably need to use TBN on yourself directly afterward because Hand of Pain ignores invulnerability.
+
+TBN has great value in this phase in general. Starting after the first double Fluid Swing, it can be chained on cooldown to cover, in order, autoattacks while moving back to center, the second double Fluid Swing, autoattacks plus Protean damage on the hand tank, and the Drainage tethers.
+
+Shadow Wall can be used directly after the first Hand of Pain and last through the second Fluid Swing.
+
+The fixed 2.50-second recast time on your AoE combo makes getting full value from Blood Weapon difficult. The best way to deal with this is to hold it until you reach 100 blood and then do the following rotation:
+
+Unleash->Blood Weapon->Bloodspiller->Bloodspiller->Stalwart Soul->Bloodspiller->Unleash
+
+This sequence only waits on the 2.50 recast time once while Blood Weapon is active and should be consistently doable. This should happen as the Drainage tethers go out if you got all five hits of your first Blood Weapon, or earlier if you didn't. You can also opt to hold Blood Weapon for your second Delirium if killtime permits.
+
+## Bruise Chaser
+
+
+
+You can 
+
+
+
+<!--StartFragment-->
+
+DRK TEA notes, by Ramza Beoulve’ 
+
+Living Liquid
+
+Prepull
+
+* Rampart 7s prepull to have it last for first cleave, and be up for the tank tether later if you need it. If you do NOT need it, use it 3s prepull to last for more autos before the cascade. You can dark mind for the cascade and it will be up for tethers. You should TBN to stock a DA charge for the hand.
+* Use TBN on pull and you can use it again for the cascade.
+* Unmend opener, but only do 2 EoS, as it allows you to do an AOE combo and 3 floods as soon as hand spawns with a DA proc. Also save abyssal for when hand spawns for free damage.
+
+Phase 1
+
+* Dark Missionary after your 4th to 6th gcd to have it back up for 2nd Protean. I prefer to use it on splashes or doll explosions. My group used it on splashes into second cascade, as it also covers the tethered tankbusters.
+* Reprisal after 4th gcd to have it cover the cleave + cascade. (Ask cotank for this)
+* If you are not pulling, hit rampart for cascade, and it will last until the first hand cleave.
+* You can bait whether LL does fist or high five. Bait the hand out so you can start cleaving asap.  If you keep hand and LL separate, your group is pepega.
+* If you Living Dead the first double buster, you will want to TBN the gcd after you are knocked to 1 HP, as hand of pain goes through invulns. 
+* You’re a DRK, hit dark mind and shadow wall for the tethers and laugh.
+* You can delay 2nd blood weapon to catch 3 bloodspillers and allow you to get 5 gcd’s in it with a stalwart soul. You prep your combo with unleash at 100 blood, hit blood weapon late into your gcd, do 2 bloodspillers, stalwart soul, bloodspiller, unleash. The unleash should put you at 20 blood if you did it right. (This works for me at 2.40, YMMV) Note from Ari: if using a spell makes it impossible, use with 2nd delirium.
+* Float TBN during 2nd protean if people have a habit of dying.  Use it on your co-tank otherwise, since they’re getting fisted.
+* Once the hand uses the last hand of pain, you can focus LL.  Question your life Find a new group if you see the last set of busters on a clean run, as people are sandbagging.
+
+
+
+Bruise phase
+
+* During the phase change to BJ/CC, you can save someone’s life with the mitigation from TBN
+* Good uses for TBN: 
+* * Chakram movement 
+  * 1st thunder pass (timing is the gcd after spin crusher finishes casting) 
+  * Whichever tank has ice
+  * 2nd thunder pass
+  * Brute autos during 3rd nisi pass
+  * Some more autos before final nisi pass.
+  * Double Rocket Punch
+  * Auto + whirlwind will break it if you see this far
+
+
+
+* Rampart the gcd AFTER your TBN after spin crusher. This will cause it to cover the thunder pass, possible ice drop, and the mine.
+* Use Dark Missionary to cover both the ice and mines for tanks, and the water on the rest of the party. Can also use it on a whirlwind towards the end.
+* Using Shadow wall on the flarethrower covers it, several autos, and the whirlwind.  It’s the best use I have found so far.
+* Whether you want to delirium on cd is up to you, but you can 100% use LS at final nisi pass and have it back for post inception reopener.
+
+
+
+Alex prime phase
+
+* This phase varies greatly with every group strat, but having a tank bait the BJ jump in inception made it very consistent for us.
+
+Note: The set of busters after inception have a larger delay between the chastening and the 3 spears than they did after stasis.  Plan accordingly.
+
+* If you reprisal at the correct time (as the castbar passes through the E in mega holy) you can catch both mega holies.  Dark missionary is good either to catch the chastening after wormhole and the first mega holy, or several J waves.  
+* You can hit both BJ and CC during j-waves with unleash, stalwart soul, and salted earth.  Also, LS targeting is finicky, so be sure to summon it near BJ or it may attack Alex while he's invulnerable.
+
+
+
+Perfect phase
+
+* Your opener and cooldown use in Perfect is determined by your jail. If you are 3rd or earlier, you want to delirium before final word. Regardless of your order, use your 60s cd’s asap, or you lose a use by the enrage.
+* You can get 4 Delirium’s in the phase. 
+* Delay your 3rd LS until your 2nd pot window. You only get 3 in perfect, so put 2 in pot windows.
+* You want to use LD before a buster series, but use TBN + Dark mind and any supplementary cooldowns to give your WHM more time to comfy bene. No matter what set you cooldown, you will ALWAYS have dark mind and tbn for it.
+
+
+
+<!--EndFragment-->
