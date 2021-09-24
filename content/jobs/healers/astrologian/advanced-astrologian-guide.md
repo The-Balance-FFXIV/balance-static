@@ -1,0 +1,48 @@
+---
+title: Advanced Astrologian Guide
+---
+So, the basic Astrologian guide has (hopefully) given you the crash course intro to the job. Now, it’s time to talk details: quirky mechanics, important interactions, and optimization. We’ll start with the most straightforward topics and work up to the more complicated ones.
+
+## Sect Swapping/Stance Dancing
+
+In dungeons, you can swap to Nocturnal Sect after the last enemy in a pull dies, apply a shield to the tank in preparation for the next pull, and then swap back to Diurnal Sect. This gives you a nice buffer for the tank’s HP while he gathers the mobs, giving you more time to DPS or do whatever else before you need to heal the tank.
+
+## Strange Interactions
+
+1. Earthly Star is technically a pet. It counts as a unique, separate entity from ourselves, but it scales with our stats as a pet would. Somewhere in the spaghetti code, they’ve given Earthly Star its own special modifier to bring it up to ~95% of player potency, unlike the significantly reduced pet scaling observed with actual pets. This doesn’t currently have much pragmatic effect on us, and we hope it stays that way, but it has in the past.
+2. Essential Dignity calculates its heal value based on the missing health of the target at the beginning of the animation, rather than at the end, when the animation completes and the heal is delivered. This can be a good or a bad thing.
+3. 1. If you cast Benefic II and seamlessly follow it up with Essential Dignity, the Essential Dignity calculates its heal potency based on the health the target had before the Benefic II landed, because Essential Dignity’s execution began just before the heal from Benefic II was registered. This can be somewhat finicky based on your connection, and it is less reliable with Aspected Benefic due to the difference in animations.
+   2. On the flip side, if you press Essential Dignity simultaneously as a tank buster is going through, even though the animation delay causes the heal to land after the tank buster, Essential Dignity will calculate its heal potency based on the HP the tank had before he took the hit, potentially leaving you with a \~500 potency heal instead of an \~800+ potency heal.
+4. Using Play immediately after your first hit that puts you in combat will sometimes not grant you the appropriate seal, because the game has not registered you as being in combat yet, due to some shenanigans with the animation and how quickly the threat table updates.
+
+## How Your Buffs Work Together
+
+Cards and Minor Arcana do not stack with themselves or each other, including from different Astrologians. However, Divination does stack with any existing card or Minor Arcana buff, and it stacks multiplicatively. This means that instead of being 6% + 6% = 12% damage buff, it’s actually 1.06 * 1.06 = 12.36% damage buff. This doesn’t seem significant on its own, but the same kind of multiplicative buff interaction is compounding with all other active raid buffs, and everyone is aligning the highest burst damage portions of their rotations with these stacking raid buffs, and it quickly becomes quite significant. This is the basis of coordinated raid burst, and it’s a huge part of what makes Astrologian good instead of okay.
+
+Because card buffs only last 15 seconds, we also want to do this on a smaller scale whenever we’re playing regular cards by trying to Play your cards on the right person at the right time. Part of this decision is made for you based on what you draw and what Seals you do or don’t need, but you still have the freedom of deciding when you Play your card within a nearly 30 second window, because there’s no penalty for holding onto a card as long as you Play it before you need to Draw another one.
+
+Optimizing your card usage like this can be daunting, and it’s not the most important thing about playing Astrologian by a long shot, but it’s definitely something to be aware of. The value of your card buffs can vary hugely (literally double in some cases) depending on whether you’re giving out cards during people’s individual burst or if you’re giving people cards when they’re in the lower DPS valleys of their cycles. For instance, you don’t want to give a Summoner a card right after they’ve refreshed their DoTs and are just going to be spamming Ruin for the next 15 seconds; you want to give them a card when they’re going to refresh their DoTs with the card active or when they’re going into Trance.
+
+Sleeve Draw and Divination align in the opener and at the 6 minute mark in the fight. In the opener, we use Sleeve Draw to get Seals for Divination quickly so we can have Divination and multiple single target cards out during the opening raid burst. At the 6 minute burst, it’s essentially the same thing, but less hectic since you should have seals ready for Divination ahead of time. But all the same, you want to be dishing out several cards quickly and overlapping them with Divination and other raid burst as well as you can manage. You may even hold the card from your 5:30 Draw to have an additional card partially overlapping with the 6 minute burst. In that case, you’d optimally use Draw at 5:30, Play/Minor Arcana your held card around 5:55, Draw again, Play/Minor Arcana that card on someone, activate Divination when it comes up, and then dish out another with Sleeve Draw.
+
+## Divination Timing
+
+Your entire opener revolves around collecting three unique Seals so you can use a max strength Divination at the ideal time. When things go smoothly, it’s possible to use Divination as early as the 3rd GCD, but that’s actually too early in most cases. When you’re still getting used to the opener, it can feel like you’re scrambling to get Divination out fast enough, but you want to make sure you’re not rushing *too* much.
+
+Our standard recommendation is to aim for a 4th GCD Divination (not counting the precast Malefic), which has it coming out at around the 10 second mark. If you’re forced into multiple Redraws, using Divination as the 1st weave after the 5th GCD is also generally acceptable, as long as you don’t have a particularly slow GCD (2.45s and up). This is because it takes most jobs a few GCDs to ramp up before getting their buffs out and beginning their burst in earnest.
+
+However, early is always better than late, because a late Divination in the opener will be late for every subsequent Divination window until the group holds their burst for something or the fight ends. That’s why we tend to stress the importance of getting Divination out quickly.
+
+## Card Optimization
+
+Optimizing the value of your cards is what defines optimization for Astrologian as a whole. Everything up to this point is basically “solved.” The optimal thing is either a known quantity, or it can be easily solved for, given your specific circumstances. It’s just a matter of knowing the correct answer ahead of time and being able to press the buttons to execute it.
+
+That’s how pretty much every other job functions. Every GCD and oGCD, every cooldown, and every pixel of movement in a given encounter, solved. Every inch of the job is mapped, from beginning to end, inside and out. It’s comforting, in a way, to know that there’s a relatively tidy answer out there waiting to be found for every situation you can think of… for *other* jobs.
+
+Not for Astrologian. Not for cards. Welcome to the meat of the job.
+
+### Target Selection
+
+### Card Timing
+
+### Minor Arcana
