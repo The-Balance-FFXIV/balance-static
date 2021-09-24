@@ -69,6 +69,12 @@ We've discussed that when choosing a target, you should be asking who is doing t
 
 The 30 seconds you have to use a card is called a "**Draw window**," and the 15 seconds of the card buff is called a "**card window**." So, the real game here is to identify the highest damage card window within each Draw window, between all potential recipients of whatever card you have.
 
-That involves understanding the ebb and flow of your party members' rotations and learning how to keep tabs on them throughout the encounter, sometimes down to the exact GCD. In a competitive group, this can be analyzed, discussed, and planned in advance, with considerable effort. In order to map out every Draw window in advance, you would analyze logs of your group in that specific encounter and identify the ideal melee and ranged card target and timing for every single Draw window.
+That involves understanding the ebb and flow of your party members' rotations and learning how to keep tabs on them throughout the encounter, sometimes down to the exact GCD. Ideally, you would have a solid understanding of other jobs' rotations in order to do this.
+
+But, even without being intimately familiar with how each DPS is played, you can still learn to catch individual burst windows with a combination of studying your group's logs for each encounter, good communication during the fight, and/or watching for certain cues that help you track and predict burst windows.
+
+
+
+At the highest level, in a very consistent group, card optimization can be planned in advance, albeit with considerable effort. In order to map out every Draw window in advance, you would analyze logs of your group in that specific encounter and identify the ideal melee and ranged card target and timing for every single Draw window.
 
 You would then have to keep track of those targets and specific timings and act accordingly based on what you draw in each window. For example, if you get a melee card at 4:30, maybe it's best to play it immediately on the Monk to catch their Brotherhood window, and if you have to play a ranged card instead, maybe it's best to hold it until close to 5:00 so you can buff the Summoner's Firebird Trance.
