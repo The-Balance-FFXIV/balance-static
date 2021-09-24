@@ -3,7 +3,7 @@ title: Ultimates
 ---
 # The Weapon's Refrain (UWU)
 
-## Best-in-slot
+## Gearing
 
 For level 70 ultimates, a full set of synced gear with critical hit + determination and enough pieces with critical hit + skill speed to hit your desired GCD tier is more than sufficient. All pieces of item level 470 or higher will max out both substats in UWU. The last- and second-to-last steps of the Bozjan Resistance weapons are a major damage boost, as they allow you to hit the cap for multiple stats. The maximum sync value for weapons is 318 in each substat.
 
@@ -11,15 +11,15 @@ Use the most current food available. Any grade Tincture of Strength will grant t
 
 If you wish to minmax further, a non-exhaustive list of best-in-slot configurations will be listed below. You can find a complete list in the dedicated best-in-slot guide for DRK.
 
+## Defensive Cooldown Usage
+
+Ultimate progression is a team effort. Unlike savage, incoming damage is so high that GCD healing is not always avoidable. Because of this, how well you perform your job of mitigating for yourself, your cotank, and your group will directly affect the performance of your healers. The Blackest Night (TBN) in particular is an incredibly strong tool, and smart usage will make a world of difference to your healers. Each phase will include notes on particularly heavy periods of damage on specific party members where TBN will likely be the most useful, but the list is not exhaustive. Remember, it's a win for your party if you allow your healer an extra damaging GCD at the cost of shifting an Edge/Flood out of buffs.
+
 ## Offensive Cooldown Usage
 
 Optimizing your damage on Dark Knight revolves heavily around shifting potency into raidbuffs, and ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, you will want to pool resources for the start of each phase, with a second burst window near the middle. 
 
 Note that it is impossible to provide a full map of each burst window because it depends heavily on comp, killtime, and how your party decides to align their cooldowns. The following phase optimization sections will provide guidelines for how to approach each one, but practicing and consulting with your group is the only way to know for sure.
-
-## Defensive Cooldown Usage
-
-Ultimate progression is a team effort. Because healers will likely be devoting significant resources to keep you alive, every bit of mitigation you can add will help greatly.
 
 ## Phase-by-phase optimization
 
@@ -254,3 +254,5 @@ Discuss with your cotank and healers how you want to handle the tankbusters in t
 Perfect Alexander does not autoattack very much except during Irresistible Grace ("Exatrines"). Ask for a Feint, use a defensive cooldown if available, and give whoever is tanking a TBN because the risk of tank death is high here.
 
 Plan who will take which Temporal Prison during the enrage sequence. Tanks usually take the third and fourth prisons; if you handle your cooldowns well, you should take the fourth prison if you cotank is a Paladin or Warrior, or the third prison if your cotank is a Gunbreaker.
+
+## Best-in-Slot
