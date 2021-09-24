@@ -1,7 +1,7 @@
 ---
 title: Advanced Astrologian Guide
 ---
-So, the basic Astrologian guide has (hopefully) given you the crash course intro to the job. Now, it’s time to talk details: quirky mechanics, important interactions, and optimization. We’ll start with the most straightforward topics and work up to the more complicated ones.
+So, you're (hopefully) comfortable with the fundamentals of Astrologian. Now, it’s time to talk details: quirky mechanics, important interactions, and optimization. We’ll start with the most straightforward topics and work up to the more complicated ones.
 
 ## Sect Swapping/Stance Dancing
 
