@@ -1,19 +1,89 @@
 ---
 title: Ultimates
 ---
+# The Unending Coil of Bahamut (UCoB)
+
+## Gearing
+
+For level 70 ultimates, a full set of synced gear with critical hit + determination and enough pieces with critical hit + skill speed to hit your desired GCD tier is more than sufficient. All pieces of item level 418 or higher will max out both substats in UCoB. Gear from the Swallow's Compass dungeon and +2 Eureka armor matches the item level sync and may provide a small boost. The last- and second-to-last steps of your Bozjan Resistance weapon can be configured to cap out all four substats in UCoB and will provide a very significant boost. The maximum sync value for weapons is 280 in each substat.
+
+Use the most current food available. Any grade Tincture of Strength will grant the maximum benefit in UCoB. 
+
+If you wish to minmax further, a non-exhaustive list of best-in-slot configurations will be listed below. You can find a complete list in the dedicated best-in-slot guide for DRK, or use the Tank DPS Calculator to determine your own.
+
+## Defensive Cooldown Usage
+
+Ultimate progression is a team effort. Unlike savage, incoming damage is so high that GCD healing is not always avoidable. Because of this, how well you perform your job of mitigating for yourself, your cotank, and your group will directly affect the performance of your healers. The Blackest Night (TBN) in particular is an incredibly strong tool, and smart usage will make a world of difference to your healers. Each phase will include notes on particularly heavy periods of damage on specific party members where TBN will likely be the most useful, but it's ultimately up to your group's healers to communicate where their resources are strained. Remember, it's a win for your party if you can make room for an extra Stone or Malefic at the cost of shifting an Edge or Flood out of buffs.
+
+## Offensive Cooldown Usage
+
+Optimizing your damage on Dark Knight revolves heavily around shifting potency into raidbuffs, and ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, you will want to pool resources for the start of each phase, with a second burst window near the middle. Note that it is impossible to provide a full map of each burst window because it depends heavily on comp, killtime, and how your party decides to align their cooldowns. The following phase optimization sections will provide guidelines for how to approach each one, but practicing and consulting with your group is the only way to know for sure.
+
+## Phase-by-Phase Optimization
+
+### Phase 1: Twintania
+
+Use your preferred level 80 opener, with a few minor adjustments. First is the obvious omission of Living Shadow. Second is an early use of a defensive cooldown to cover the first Death Sentence if you are pulling. Third is a killtime-dependent shifting of Delirium; with fast pushes, your fourth use of Delirium is likely to get cut off by Nael's divebombs. It is worth pushing Delirium early in your opener to avoid this.
+
+TBN should be used liberally to help with autoattack and tankbuster damage. While it can be used to help survive a Death Sentence, TBN is especially effective in mitigating Flattens because a tank who survives Death Sentence, even at low health, will not need immediate attention.
+
+The third tank swap will not have Shirk available, so be ready to toggle tank stance.
+
+### Phase 2: Nael
+
+TBN can again be used very effectively in this phase, especially for quotes involving stacks. Dark Mind can also be used to mitigate stacks somewhat.
+
+### Phase 3: Bahamut
+
+My cooldown rotation for Bahamut:
+
+\- First uptime: LD first Flatten (TBN/DM to survive Flare)
+
+\- Post-Quickmarch: Rampart at individual Megaflare explosions to cover through Flatten, TBN+Reprisal
+
+\- Post-Blackfire: Dark Mind + Shadow Wall + TBN for triple flares
+
+\- Post-Fellruin: Swap or Cover
+
+\- Post-Heavensfall: Dark Mind + Shadow Wall + TBN
+
+\- Post-Tenstrike: Rampart or swap
+
+### Phase 4: Teraflare/Adds
+
+Use tincture in the opener here and it will be back up at the end of Golden.
+
+Make sure to put TBN on whichever tank is holding Twintania during quotes, especially if it includes a stack. Dark Mind can help mitigate here.
+
+### Phase 5: Golden Bahamut
+
+You can leave one of your defensive cooldowns out of the first set of Akh Morns and use it for autoattacks instead.
+
+I prefer to invuln the second and third Akh Morns for better cooldown availability.
+
+Try to coordinate your final burst with all raidbuffs/personal cooldowns plus tincture.
+
+Keep your finger on the LB button.
+
+Don't get discouraged if you get a bad parse.
+
+## Best-in-Slot
+
+
+
 # The Weapon's Refrain (UWU)
 
 ## Gearing
 
-For level 70 ultimates, a full set of synced gear with critical hit + determination and enough pieces with critical hit + skill speed to hit your desired GCD tier is more than sufficient. All pieces of item level 470 or higher will max out both substats in UWU. The last- and second-to-last steps of the Bozjan Resistance weapons are a major damage boost, as they allow you to hit the cap for multiple stats. The maximum sync value for weapons is 318 in each substat.
+For level 70 ultimates, a full set of synced gear with critical hit + determination and enough pieces with critical hit + skill speed to hit your desired GCD tier is more than sufficient. All pieces of item level 470 or higher will max out both substats in UCoB. Gear from the Ghimlyt Dark dungeon matches the item level sync and may provide a small boost. The last- and second-to-last steps of your Bozjan Resistance weapon can be configured to max out the benefits of three out of four substats in UWU and will provide a very significant boost. The maximum sync value for weapons is 318 in each substat.
 
-Use the most current food available. Any grade Tincture of Strength will grant the maximum benefit in UWU. 
+Use the most current food available. Any grade Tincture of Strength will grant the maximum benefit in UCoB. 
 
-If you wish to minmax further, a non-exhaustive list of best-in-slot configurations will be listed below. You can find a complete list in the dedicated best-in-slot guide for DRK.
+If you wish to minmax further, a non-exhaustive list of best-in-slot configurations will be listed below. You can find a complete list in the dedicated best-in-slot guide for DRK, or use the Tank DPS Calculator to determine your own.
 
 ## Defensive Cooldown Usage
 
-Ultimate progression is a team effort. Unlike savage, incoming damage is so high that GCD healing is not always avoidable. Because of this, how well you perform your job of mitigating for yourself, your cotank, and your group will directly affect the performance of your healers. The Blackest Night (TBN) in particular is an incredibly strong tool, and smart usage will make a world of difference to your healers. Each phase will include notes on particularly heavy periods of damage on specific party members where TBN will likely be the most useful, but the list is not exhaustive. Remember, it's a win for your party if you allow your healer an extra damaging GCD at the cost of shifting an Edge/Flood out of buffs.
+Ultimate progression is a team effort. Unlike savage, incoming damage is so high that GCD healing is not always avoidable. Because of this, how well you perform your job of mitigating for yourself, your cotank, and your group will directly affect the performance of your healers. The Blackest Night (TBN) in particular is an incredibly strong tool, and smart usage will make a world of difference to your healers. Each phase will include notes on particularly heavy periods of damage on specific party members where TBN will likely be the most useful, but it's ultimately up to your group's healers to communicate where their resources are strained. Remember, it's a win for your party if you can make room for an extra Stone or Malefic at the cost of shifting an Edge or Flood out of buffs.
 
 ## Offensive Cooldown Usage
 
@@ -101,79 +171,21 @@ The main tank cannot be targeted by an Eruption during primal roulette, so don't
 
 Watch Ultima's HP; regardless of when your final burst is planned, you should use your tincture by the time the boss drops to around 15% HP to benefit from its full duration.
 
-# The Unending Coil of Bahamut (UCoB)
-
-## Gearing
-
-For level 70 ultimates, a full set of synced gear with critical hit + determination and enough pieces with critical hit + skill speed to hit your desired GCD tier is more than sufficient. All pieces of item level 418 or higher will max out both substats in UCoB. The last- and second-to-last steps of the Bozjan Resistance weapons will provide a significant damage boost, as they allow you to hit the cap on all four substats. The maximum sync value for weapons is 280 in each substat.
-
-Use the most current food available. Any grade Tincture of Strength will grant the maximum benefit in UCoB. 
-
-If you wish to minmax further, a non-exhaustive list of best-in-slot configurations will be listed below. You can find a complete list in the dedicated best-in-slot guide for DRK.
-
-## Offensive Cooldown Usage
-
-Optimizing your damage on Dark Knight revolves heavily around shifting potency into raidbuffs, and ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, you will want to pool resources for the start of each phase, with a second burst window near the middle. Note that it is impossible to provide a full map of each burst window because it depends heavily on comp, killtime, and how your party decides to align their cooldowns. The following phase optimization sections will provide guidelines for how to approach each one, but practicing and consulting with your group is the only way to know for sure.
-
-## Phase-by-Phase Optimization
-
-### Phase 1: Twintania
-
-Use your preferred level 80 opener, with a few minor adjustments. First is the obvious omission of Living Shadow. Second is an early use of a defensive cooldown to cover the first Death Sentence if you are pulling. Third is a killtime-dependent shifting of Delirium; with fast pushes, your fourth use of Delirium is likely to get cut off by Nael's divebombs. It is worth pushing Delirium early in your opener to avoid this.
-
-TBN should be used liberally to help with autoattack and tankbuster damage. While it can be used to help survive a Death Sentence, TBN is especially effective in mitigating Flattens because a tank who survives Death Sentence, even at low health, will not need immediate attention.
-
-The third tank swap will not have Shirk available, so be ready to toggle tank stance.
-
-### Phase 2: Nael
-
-TBN can again be used very effectively in this phase, especially for quotes involving stacks. Dark Mind can also be used to mitigate stacks somewhat.
-
-### Phase 3: Bahamut
-
-My cooldown rotation for Bahamut:
-
-\- First uptime: LD first Flatten (TBN/DM to survive Flare)
-
-\- Post-Quickmarch: Rampart at individual Megaflare explosions to cover through Flatten, TBN+Reprisal
-
-\- Post-Blackfire: Dark Mind + Shadow Wall + TBN for triple flares
-
-\- Post-Fellruin: Swap or Cover
-
-\- Post-Heavensfall: Dark Mind + Shadow Wall + TBN
-
-\- Post-Tenstrike: Rampart or swap
-
-### Phase 4: Teraflare/Adds
-
-Use tincture in the opener here and it will be back up at the end of Golden.
-
-Make sure to put TBN on whichever tank is holding Twintania during quotes, especially if it includes a stack. Dark Mind can help mitigate here.
-
-### Phase 5: Golden Bahamut
-
-You can leave one of your defensive cooldowns out of the first set of Akh Morns and use it for autoattacks instead.
-
-I prefer to invuln the second and third Akh Morns for better cooldown availability.
-
-Try to coordinate your final burst with all raidbuffs/personal cooldowns plus tincture.
-
-Keep your finger on the LB button.
-
-Don't get discouraged if you get a bad parse.
-
-
+## Best-in-Slot
 
 # The Epic of Alexander (TEA)
 
 ## Gearing
 
-blah blah gear stuff
+For TEA, no gear yet exists that will cap out both substats when synced down to the cap of i475. Because synced gear loses the benefit of affixed materia, it is usually (not not universally) worse than i470/475 options available for a given slot. Gear from The Hero's Gauntlet matches the item level sync and may provide a decent boost. The last- and second-to-last steps of your Bozjan Resistance weapon are special in having finely configurable stats, and will beat out any alternatives if allocated properly.
+
+Use the most current consumables available. You must use grade 4 tinctures for maximum benefit.
+
+If you wish to minmax further, a non-exhaustive list of best-in-slot configurations will be listed below. You can find a complete list in the dedicated best-in-slot guide for DRK, or use the Tank DPS Calculator to determine your own.
 
 ## Defensive Cooldown Usage
 
-Blah blah
+Ultimate progression is a team effort. Unlike savage, incoming damage is so high that GCD healing is not always avoidable. Because of this, how well you perform your job of mitigating for yourself, your cotank, and your group will directly affect the performance of your healers. The Blackest Night (TBN) in particular is an incredibly strong tool, and smart usage will make a world of difference to your healers. Each phase will include notes on particularly heavy periods of damage on specific party members where TBN will likely be the most useful, but it's ultimately up to your group's healers to communicate where their resources are strained. Remember, it's a win for your party if you can make room for an extra Stone or Malefic at the cost of shifting an Edge or Flood out of buffs.
 
 ## Offensive Cooldown Usage
 
