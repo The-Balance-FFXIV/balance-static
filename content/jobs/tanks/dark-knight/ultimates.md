@@ -159,6 +159,10 @@ I prefer to invuln the second and third Akh Morns for better cooldown availabili
 
 Try to coordinate your final burst with all raidbuffs/personal cooldowns plus tincture.
 
+Keep your finger on the LB button.
+
+Don't get discouraged if you get a bad parse.
+
 
 
 # The Epic of Alexander (TEA)
@@ -237,8 +241,16 @@ You will gain about 4800 mana during the cutscene after Phase 3, so take that in
 
 Remember to use the tank LB3 because DRK's is the coolest.
 
-### Perfect Alexander
+### Phase 4: Perfect Alexander
 
+Plan your opener around having 8 GCDs before stopping for Ordained Stillness if it comes first. Blood Weapon does not need to be used immediately if you have enough blood banked to summon Living Shadow because Fate Calibration Beta will prevent you from gaining or losing a use regardless. Untarget the boss for Ordained Stillness to prevent autoattacks from triggering it rather than performing the additional action of sheathing your weapon. You can sneak in an extra GCD after Stillness if it comes first, or after The Final Word if Ordained Motion is first.
 
+If your group has strong 120s buffs, it may be worth it to hold your second Delirium in the phase to align with the second use of them.
 
-60s asap, 4 deliriums, delay last LS, cd busters
+60-second cooldowns must be used ASAP after Fate Calibration Beta and used again as they come up to avoid losing a use to Temporal Prison.
+
+Discuss with your cotank and healers how you want to handle the tankbusters in this phase. Two of them should be handled with invulns, and one of them with conventional cooldowns. Regardless of which buster you use Living Dead for, you can use Dark Mind + TBN to survive the first hit and give your healers a slightly longer window to cleanse Walking Dead.
+
+Perfect Alexander does not autoattack very much except during Irresistible Grace ("Exatrines"). Ask for a Feint, use a defensive cooldown if available, and give whoever is tanking a TBN because the risk of tank death is high here.
+
+Plan who will take which Temporal Prison during the enrage sequence. Tanks usually take the third and fourth prisons; if you handle your cooldowns well, you should take the fourth prison if you cotank is a Paladin or Warrior, or the third prison if your cotank is a Gunbreaker.
