@@ -61,8 +61,12 @@ At that point, you're buffing everything they're doing for that 15 second window
 
 While selecting your card target is important, much of that is decided for you based on what cards you draw and what Seals you need. The thing you have direct control over is *when* you card someone, and that's the variable that determines the optimal target in the first place.
 
-Summoner makes an excellent example of how much of a difference your timing can make. In the most common opener, Summoner snapshots their DoTs at around 11 seconds, right after all the party buffs should be in place. Those DoTs last 30 seconds, and they're so beefed up that carding the Summoner right before their DoT application can result in almost *twice as much* damage gained from the card, compared to carding them a single GCD later.
+Summoner makes an excellent example the importance of timing. In the most common opener, Summoner snapshots their DoTs at around 11 seconds, right after all the party buffs should be in place. Those DoTs last 30 seconds, and they're so beefed up that carding the Summoner right before their DoT application can result in almost *twice as much damage* gained from the card, compared to carding them a single GCD later and missing the DoT application.
 
-That's an extreme example, but not an unrealistic one. Each job's DPS has peaks and valleys, and some jobs' peaks and valleys are more pronounced. If cards lasted longer, the disparity between properly and improperly timed cards wouldn't be so dramatic, because you'd almost always cover *something* valuable. But, cards only cover a handful of GCDs, so it's very easy to "whiff" a card completely, only catching the lowest damage portion of someone's rotation.
+That's an extreme example, but not an entirely unrealistic one. Every job's DPS has peaks and valleys. If cards lasted longer, the disparity between properly and improperly timed cards wouldn't be so dramatic, but cards only cover a handful of GCDs. Unfortunately, that makes it very easy to "whiff" a card completely, only catching the lowest damage portion of someone's rotation.
 
-Beyond the opener, you have the freedom to hold cards for almost 30 seconds without delaying your next Draw, and it's important that you take advantage of that.
+We've discussed that when choosing a target, you should be asking who is doing the most damage in that 15 second window. But, beyond the opener, you have the freedom to hold cards for almost 30 seconds without delaying your next Draw. The 15 second window isn't the whole picture, because *it's not just the one 15 second window*. It's any possible 15 second window that begins within the 30 second window between Draws.
+
+The 30 seconds you have to use a card is called a "**Draw window**," and the 15 seconds of the card buff is called a "**card window**." So, the real game here is to identify the highest damage card window within each Draw window, between the potential recipients of whatever card you have.
+
+For the most part, that boils down to tracking people's individual burst windows.
