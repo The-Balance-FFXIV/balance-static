@@ -5,9 +5,10 @@ So, you're (hopefully) comfortable with the fundamentals of Astrologian. Now, it
 
 ## Sect Swapping/Stance Dancing
 
-In dungeons, you can swap to Nocturnal Sect after the last enemy in a pull dies, apply a shield to the tank in preparation for the next pull, and then swap back to Diurnal Sect. This gives you a nice buffer for the tank’s HP while he gathers the mobs, giving you more time to DPS or do whatever else before you need to heal the tank.
+In dungeons, you can swap to Nocturnal Sect after the last enemy in a pull dies, apply a shield to the tank in preparation for the next pull, and then swap back to Diurnal Sect. This gives you a nice buffer for the tank’s HP while they gather the mobs, giving you more time to DPS or do whatever else before you need to heal the tank.
 
 ## Strange Interactions
+
 1. Earthly Star is technically a pet. It counts as a unique, separate entity from ourselves, but it scales with our stats as a pet would. Somewhere in the spaghetti code, they’ve given Earthly Star its own special modifier to bring it up to ~95% of player potency, unlike the significantly reduced pet scaling observed with actual pets. This doesn’t currently have much pragmatic effect on us, and we hope it stays that way, but it has in the past.
 2. Essential Dignity calculates its heal value based on the missing health of the target at the beginning of the skill, rather than at the end, when the animation completes and the heal is delivered. This can be a good or a bad thing.
 
@@ -23,7 +24,7 @@ Because card buffs only last 15 seconds, we also want to do this on a smaller sc
 
 Optimizing your card usage like this can be daunting, and it’s not the most important thing about playing Astrologian by a long shot, but it’s definitely something to be aware of. The value of your card buffs can vary hugely (literally double in some cases) depending on whether you’re giving out cards during people’s individual burst or if you’re giving people cards when they’re in the lower DPS valleys of their cycles. For instance, you don’t want to give a Summoner a card right after they’ve refreshed their DoTs and are just going to be spamming Ruin for the next 15 seconds; you want to give them a card when they’re going to refresh their DoTs with the card active or when they’re going into Trance.
 
-Sleeve Draw and Divination align in the opener and at the 6 minute mark in the fight. In the opener, we use Sleeve Draw to get Seals for Divination quickly so we can have Divination and multiple single target cards out during the opening raid burst. At the 6 minute burst, it’s essentially the same thing, but less hectic since you should have seals ready for Divination ahead of time. But all the same, you want to be dishing out several cards quickly and overlapping them with Divination and other raid burst as well as you can manage. You may even hold the card from your 5:30 Draw to have an additional card partially overlapping with the 6 minute burst. In that case, you’d optimally use Draw at 5:30, Play/Minor Arcana your held card around 5:55, Draw again, Play/Minor Arcana that card on someone, activate Divination when it comes up, and then dish out another with Sleeve Draw.
+Sleeve Draw and Divination align in the opener and at the six minute mark in the fight. In the opener, we use Sleeve Draw to get Seals for Divination quickly so we can have Divination and multiple single target cards out during the opening raid burst. At the six minute burst, it’s essentially the same thing, but less hectic since you should have seals ready for Divination ahead of time. But all the same, you want to be dishing out several cards quickly and overlapping them with Divination and other raid burst as well as you can manage. You may even hold the card from your 5:30 Draw to have an additional card partially overlapping with the six minute burst. In that case, you’d optimally use Draw at 5:30, Play/Minor Arcana your held card around 5:55, Draw again, Play/Minor Arcana that card on someone, activate Divination when it comes up, and then dish out another with Sleeve Draw.
 
 ## Divination Timing
 
