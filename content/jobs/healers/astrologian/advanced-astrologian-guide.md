@@ -45,7 +45,13 @@ Disclaimer: it's completely unnecessary to worry about this level of optimizatio
 
 ### Target Selection
 
+It's no secret that some jobs do more damage than others. Notably, "selfish DPS" that provide no damage buffs usually contribute more raw damage themselves. Assuming equal gear and skill, they would be topping the damage meter, and you might expect them to be the best card target, because they're doing the most DPS.
 
+But you would be wrong. At least, sometimes. If there's a huge DPS disparity and one person is doing 50% more DPS than everyone else, they obviously have card priority. But we're here to talk about optimization, where one would assume that's not the case.
+
+You see, the key flaw of simply basing your card targets just on the DPS meter is that the meter reports the average DPS across the entire fight, while a card is only active for 15 out of 30 seconds. You shouldn't be asking who's doing the most DPS; you should be asking who's doing the most damage **in this 15 second window.**
+
+A Black Mage might be doing the most DPS overall, but they don't have particularly significant damage spikes. Their damage is much more evenly distributed. In contrast, a Dancer will usually have the lowest personal damage out of all the DPS, but they have an absolutely *spectacular* burst window every two minutes. A huge amount of their total damage is condensed into those two-minute burst windows, which can easily make them a better card target than a Black Mage during that window.
 
 ### Card Timing
 
