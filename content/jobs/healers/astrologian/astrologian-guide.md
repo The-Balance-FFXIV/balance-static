@@ -369,7 +369,7 @@ Astrologian has a few quirks that you kiiiind of have to know in order to play t
 
    * If you cast Benefic II and seamlessly follow it up with Essential Dignity, the Essential Dignity calculates its heal potency based on the health the target had before the Benefic II landed, because Essential Dignity’s execution began just before the heal from Benefic II was registered. This can be somewhat finicky based on your connection, and it is less reliable with Aspected Benefic due to the difference in animations.
    * On the flip side, if you press Essential Dignity simultaneously as a tank buster is going through, even though the animation delay causes the heal to land after the tank buster, Essential Dignity will calculate its heal potency based on the HP the tank had before he took the hit, potentially leaving you with a \~500 potency heal instead of an \~800+ potency heal.
-3. Playing a non-Minor Arcana card immediately after your first hit that puts you in combat will sometimes not grant you the appropriate seal, because the game has not registered you as being in combat yet due to animation and threat table update speed shenanigans.
+3. Using Play immediately after your first hit that puts you in combat will sometimes not grant you the appropriate seal, because the game has not registered you as being in combat yet, due to some shenanigans with the animation and how quickly the threat table updates.
 
 ## Choosing a Sect
 
