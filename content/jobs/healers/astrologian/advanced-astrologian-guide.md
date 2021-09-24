@@ -39,7 +39,9 @@ Optimizing the value of your cards is what defines optimization for Astrologian 
 
 That’s how pretty much every other job functions. Every GCD and oGCD, every cooldown, and every pixel of movement in a given encounter, solved. Every inch of the job is mapped, from beginning to end, inside and out. It’s comforting, in a way, to know that there’s a relatively tidy answer out there waiting to be found for every situation you can think of… for *other* jobs.
 
-Not for Astrologian. Not for cards. Welcome to the meat of the job. This is what separates an exceptional healer from an exceptional *Astrologian*. As a disclaimer, it's completely unnecessary to worry about this level of optimization unless you're playing in a highly competitive environment (or you're a big nerd like me and you just *like* it). You can still get 99s on FFLogs just following the basic card guidelines and having very good healer fundamentals.
+Not for Astrologian. Not for cards. This is what high-level optimization is all about for us. This is what separates an exceptional healer from an exceptional *Astrologian*.
+
+Disclaimer: it's completely unnecessary to worry about this level of optimization unless you're playing in a highly competitive environment (or you're a big nerd like me and you just *like* it). You can still get 99s on FFLogs just following the basic card guidelines and having very good healer fundamentals.
 
 ### Target Selection
 
