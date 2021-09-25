@@ -25,9 +25,9 @@ Optimizing your damage on Dark Knight revolves heavily around shifting potency i
 
 Use your preferred level 80 opener, with a few minor adjustments. First is the obvious omission of Living Shadow. Second is an early use of a defensive cooldown to cover the first Death Sentence if you are pulling. Third is a killtime-dependent shifting of Delirium; with fast pushes, your fourth use of Delirium is likely to get cut off by Nael's divebombs. It is worth pushing Delirium early in your opener to avoid this.
 
-TBN should be used liberally to help with autoattack and tankbuster damage. While it can be used to help survive a Death Sentence, TBN is especially effective in mitigating Flattens because a tank who survives Death Sentence, even at low health, will not need immediate attention.
+TBN should be used liberally to help with autoattack and tankbuster damage. TBN is especially effective for Flattens because a tank who survives Death Sentence with any amount of HP will not need immediate attention.
 
-The third tank swap will not have Shirk available, so be ready to toggle tank stance.
+The third tank swap will not have Shirk available, so be ready to toggle you tank stance.
 
 ### Phase 2: Nael
 
@@ -138,9 +138,9 @@ Delirium can be used on the Magitek Bits and be available for Ultima opener. Thi
 
 Blood Weapon can be used on Lahabrea. You should get five or six GCDs on Lahabrea, depending on how quickly your melee uses LB.
 
-Remember to acquire a Dark Arts proc by using TBN on a non-tank before Ultima. 
-
 Make sure that you are the one who uses tank LB, as it looks the coolest.
+
+Bank a Dark Arts proc by using TBN before Ultima hits. This is not incompatible with using the LB3 yourself.
 
 ### Phase 4: Ultima
 
@@ -241,7 +241,7 @@ Delirium windows in post-Temporal Stasis and post-Inception Formation uptime pha
 
 Living Shadow should be precast after Inception Formation to fit more hits under buffs. Casting it as Brute Justice lands should put its first hit under buffs cast after the second GCD.
 
-Reprisal can be used once the castbar passes the "E" in "Mega Holy" after Wormhole Formation to cover both hits.
+Reprisal can be used once the castbar passes the "E" in "Mega Holy" after Wormhole Formation to cover both casts.
 
 Salted Earth will tick on both bosses at triple enrage if placed like so:
 
@@ -255,15 +255,79 @@ Remember to use the tank LB3 because DRK's is the coolest.
 
 ### Phase 4: Perfect Alexander
 
+General buff timings are:
+
+\- 60-second cooldowns at opener, Fate Calibration Alpha (FCA) cast, after first tankbuster, post-Fate Calibration Beta (FCB), and Temporal Prison (enrage sequence).
+
+\- 90-second cooldowns at opener, after first tankbuster, post-FCB, and Temporal Prison.
+
+\- 120-second cooldowns at opener, after first tankbuster, and second Irresistible Grace.
+
+\- 180-second cooldowns and tinctures at opener and second Irresistible Grace.
+
+Note that the second use of 90-second cooldowns like Delirium should be held briefly after FCA to align with 60-second and 120-second cooldowns. The final use will be slightly misaligned with the rest of the burst window, but FCB downtime forces a certain amount of drift regardless. If have a Ninja in your party and you are confident in a faster kill, they will want to delay the post-FCB Trick Attack to better align with the burst window after Irresistible Grace. You should still use your own 60-second cooldowns according to this plan unless 
+
+
+
+but you should still
+
+
+
+
+
+ If you have a Ninja in your party, this cooldown plan assumes that they will forego alignment with the final burst window in order to gain a use of Trick Attack; if you are confident in a faster kill, they should hold their 
+
+
+
+This cooldown plan assumes that the 
+
+
+
+cooldown alignment assumes that
+
+
+
+If you have a Ninja in your party, decide whether 
+
+
+
+Trick Attack
+
+
+
+Players who are taking later prisons
+
+
+
+push them slightly out of 
+
+
+
+ Players who are taking the later prisons at enrage sequence can gain a use of 60-second cooldowns by using them immediately after FCB and misaligning them with the  rest of the 
+
+
+
+You can align your 
+
+
+
+post-FCA, ate Calbiration 
+
+Tinctures should be used at the opener and before enrage. The second use of third use of 120-second cooldowns should be held for the second tincture.
+
+
+
+until the final buff window. 
+
 Plan your opener around having 8 GCDs before stopping for Ordained Stillness if it comes first. Blood Weapon does not need to be used immediately if you have enough blood banked to summon Living Shadow because Fate Calibration Beta will prevent you from gaining or losing a use regardless. Untarget the boss for Ordained Stillness to prevent autoattacks from triggering it rather than performing the additional action of sheathing your weapon. You can sneak in an extra GCD after Stillness if it comes first, or after The Final Word if Ordained Motion is first.
 
-If your group has strong 120s buffs, it may be worth it to hold your second Delirium in the phase to align with the second use of them.
+If your group has strong 120-second cooldown buffs, it may be worth it to hold your second Delirium in the phase to align with the second use of them.
 
 60-second cooldowns must be used ASAP after Fate Calibration Beta and used again as they come up to avoid losing a use to Temporal Prison.
 
 Discuss with your cotank and healers how you want to handle the tankbusters in this phase. Two of them should be handled with invulns, and one of them with conventional cooldowns. Regardless of which buster you use Living Dead for, you can use Dark Mind + TBN to survive the first hit and give your healers a slightly longer window to cleanse Walking Dead.
 
-Perfect Alexander does not autoattack very much except during Irresistible Grace ("Exatrines"). Ask for a Feint, use a defensive cooldown if available, and give whoever is tanking a TBN because the risk of tank death is high here.
+Perfect Alexander does not autoattack very much except during Almighty Judgment ("Exatrines"). Ask for a Feint, use a defensive cooldown if available, and give whoever is tanking a TBN because the risk of tank death is high here.
 
 Plan who will take which Temporal Prison during the enrage sequence. Tanks usually take the third and fourth prisons; if you handle your cooldowns well, you should take the fourth prison if you cotank is a Paladin or Warrior, or the third prison if your cotank is a Gunbreaker.
 
