@@ -115,7 +115,7 @@ Ultimate progression is a team effort. Unlike savage, incoming damage is so high
 
 ## Offensive Cooldown Usage
 
-Optimizing your damage on Dark Knight revolves heavily around shifting potency into raidbuffs, and ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, you will want to pool resources for the start of each phase, with a second burst window near the middle. 
+Optimizing your damage on Dark Knight revolves heavily around shifting potency into raidbuffs, and ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, you will want to pool resources for the start of each phase, with a second burst window near the middle of each primal and a full reopener at the end of Ultima. 
 
 Note that it is impossible to provide a full map of each burst window because it depends heavily on comp, killtime, and how your party decides to align their cooldowns. The following phase optimization sections will provide guidelines for how to approach each one, but practicing and consulting with your group is the only way to know for sure.
 
@@ -217,11 +217,11 @@ Ultimate progression is a team effort. Unlike savage, incoming damage is so high
 
 ## Offensive Cooldown Usage
 
-Optimizing your damage on Dark Knight revolves heavily around shifting potency into raidbuffs, and ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, you will want to pool resources for the start of each phase, with a second burst window near the middle. 
+Optimizing your damage on Dark Knight revolves heavily around shifting potency into raidbuffs, and ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, you will want to pool resources for the start of each phase, with additional burst windows according to the length of the specific section and your party's progress against enrage. 
 
 Note that it is impossible to provide a full map of each burst window because it depends heavily on comp, killtime, and how your party decides to align their cooldowns. The following phase optimization sections will provide guidelines for how to approach each one, but practicing and consulting with your group is the only way to know for sure.
 
-A special word on Delirium: 
+A special word on Delirium: TEA has particularly bad phasing for 90-second cooldowns that only intensifies as you start beating enrages by comfortable margins. When to hold or not hold Delirium is one of the most common, and most difficult, questions asked about playing Dark Knight in TEA. The answer, unfortunately, depends not only on your exact killtime but your exact party composition as well.
 
 ## Phase-by-Phase Optimization
 
@@ -251,7 +251,11 @@ Unleash->Blood Weapon->Bloodspiller->Bloodspiller->Stalwart Soul->Bloodspiller->
 
 This sequence only waits on the 2.50 recast time once while Blood Weapon is active and should be consistently doable. This should happen as the Drainage tethers go out if you got all five hits of your first Blood Weapon, or earlier if you didn't. You can also opt to hold Blood Weapon for your second Delirium if killtime permits.
 
+You will gain about 2400 mana from passive generation between Living Liquid hitting 0 HP and Brute Justice/Bruise Chaser becoming targetable, so make sure not to end the phase at full mana.
+
 ### Phase 2: Bruise Chaser/Cruise Justice
+
+Decide who is tanking which boss. 
 
 Buffs should go out very early in the phase, so you can precast Living Shadow to take full advantage of them. Use after Cruise Chaser disappears to catch buffs after the first GCD, or as Brute Justice's textbox appears for buffs after the second GCD.
 
@@ -259,15 +263,21 @@ TBN should again be used liberally in this phase. Long strings of autoattacks, l
 
 Rampart can be used after the Spin Crusher cast finishes to cover a string of autoattacks, mines, ice, and a lightning pass. This is also a good spot to TBN.
 
-Missionary is surprisingly hard to hit all players with. The best spots are at Missile Command to cover mines + second water pass, or shortly after Plasma Shield to cover Whirlwind + third water pass.
+Dark Missionary is surprisingly difficult to find good times for, as the party will often be spread about the arena for various mechanics. Good spots to look at are at Missile Command to cover mines + second water pass, or shortly after Plasma Shield to cover Whirlwind + third water pass.
+
+You will gain about 1800 mana from passive generation between Phase 2 ending and Alexander Prime becoming targetable. TBN can be used on non-tanks who do not have Aggravated Assault (lightning bolt debuff) to avoid overcap.
 
 ### Phase 3: Alexander Prime
 
 Tinctures must be used in the post-Temporal Stasis uptime window to be available for the start of the final phase. Major cooldowns won't be available until the end of Inception Formation if not held at the end of Phase 2, however, so discuss with your group how you want to handle buff alignment. Generally speaking, Phase 3 does have a somewhat tighter DPS check and more room for deaths that will cripple a player's damage output without wiping the party outright.
 
-Delirium windows in post-Temporal Stasis and post-Inception Formation uptime phases will be identical; if you get cut off after three hits in the first section, you will get cut off after three hits again in the second, with a slim chance for a fourth.
+Delirium windows in post-Temporal Stasis and post-Inception Formation uptime phases will be identical; if you get cut off after three hits in the first, you will get cut off after three hits again in the second, with a slim chance for a fourth.
+
+During Inception Formation, you can Plunge onto the True Heart and use Stalwart Soul combos to gain resources. This should not cost a use of Plunge in any uptime phase, and it is possible to finish two full combos for a completely free 1200 mana and 40 blood. Overall, you will gain about 4800~5400 mana during Inception Formation, depending on how many combos you finish on the True Heart. 
 
 Living Shadow should be precast after Inception Formation to fit more hits under buffs. Casting it as Brute Justice lands should put its first hit under buffs cast after the second GCD.
+
+You will gain about 3000 mana from passive regeneration during Wormhole Formation.
 
 Reprisal can be used once the castbar passes the "E" in "Mega Holy" after Wormhole Formation to cover both casts.
 
@@ -277,7 +287,7 @@ Salted Earth will tick on both bosses at triple enrage if placed like so:
 
 AoE combos will also hit both bosses if used in this spot. You can additionally hit both bosses with Flood of Shadow by targeting one and moving into the hitbox of the other. Make sure to summon Living Shadow closer to Brute Justice than Cruise Chaser so it won't jump onto the invulnerable Alexander Prime after Cruise Chaser is killed. Delirium can be held until 120s buffs go out.
 
-You will gain about 4800 mana from passive generation between Alexander Prime hitting 1 HP and Perfect Alexander becoming targetable, so plan accordingly.
+You will gain about 4800 mana from passive generation between Alexander Prime hitting 1 HP and Perfect Alexander becoming targetable. TBN can be used on any party member before Divine Judgment snapshots if desired.
 
 Remember to use the tank LB3 because DRK's is the coolest.
 
