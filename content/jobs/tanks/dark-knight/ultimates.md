@@ -161,11 +161,11 @@ If you are holding the boss during the Nail phase, you can hit three targets wit
 
 Nail phase is another period of heavy tank damage, so make sure the tank holding the boss gets a TBN. Use a defensive cooldown as well if you are holding Ifrit. Ideally, the tank with aggro during and after nail phase should avoid pulling Titan so that they can freely use their cooldowns during Ifrit. TBN is also valuable for Flaming Crush + autoattack damage.
 
-### Phase 3: Titan
+### Phase Three: Titan
 
 If Plunge is off cooldown when Titan first becomes targetable, you can use it immediately and have it available after the Upheaval knockback. Otherwise, hold it in the opener for that purpose.
 
-Titan's Mountain Buster is one of the hardest-hitting tankbusters in the game, relative to max HP. Do not allow your cotank to take it without your TBN on them.
+Titan's Mountain Buster is one of the hardest-hitting tankbusters in the game, relative to max HP. Do not allow your co-tank to take it without your TBN on them.
 
 Fast killtimes can play havoc with your Delirium windows. You may be forced to push them into awkward times, such as at Upheaval or Magitek Bits, where you will lose hits to avoid losing an entire use. For very fast killtimes, losing that use will be unavoidable and you should aim to align your group's buffs into one burst window.
 
