@@ -9,7 +9,7 @@ For level 70 ultimates, a full set of synced gear with critical hit + determinat
 
 Use the most current food available. Any grade Tincture of Strength will grant the maximum benefit in UCoB. 
 
-If you wish to minmax further, a non-exhaustive list of best-in-slot configurations will be listed below. You can find a complete list in the dedicated best-in-slot guide for DRK, or use the Tank DPS Calculator to determine your own.
+If you wish to further optimize your gear, a non-exhaustive list of best-in-slot configurations using Resistance Weapons will be listed below. You can find a complete list in the dedicated best-in-slot guide for DRK, or use the Tank DPS Calculator to determine your own.
 
 ## Defensive Cooldown Usage
 
@@ -97,7 +97,17 @@ Don't get discouraged at the number on your FFLogs page after clearing. UCoB ran
 
 ## Best-in-Slot
 
+#### 2.43
 
+![](https://cdn.discordapp.com/attachments/583964695266983944/885397417162330112/unknown.png "2.43 (Relic)")
+
+#### 2.40
+
+![](https://cdn.discordapp.com/attachments/583964695266983944/885397503590166578/unknown.png)
+
+#### 2.38 
+
+![](https://cdn.discordapp.com/attachments/583964695266983944/885397573806993418/unknown.png)
 
 # The Weapon's Refrain (UWU)
 
@@ -107,7 +117,7 @@ For level 70 ultimates, a full set of synced gear with critical hit + determinat
 
 Use the most current food available. Any grade Tincture of Strength will grant the maximum benefit in UCoB. 
 
-If you wish to minmax further, a non-exhaustive list of best-in-slot configurations will be listed below. You can find a complete list in the dedicated best-in-slot guide for DRK, or use the Tank DPS Calculator to determine your own.
+If you wish to further optimize your gear, a non-exhaustive list of best-in-slot configurations using Resistance Weapons will be listed below. You can find a complete list in the dedicated best-in-slot guide for DRK, or use the Tank DPS Calculator to determine your own.
 
 ## Defensive Cooldown Usage
 
@@ -123,10 +133,11 @@ Note that it is impossible to provide a full map of each burst window because it
 
 ### Phase 1: Garuda
 
-Your opener should be similar to the level 80 opener with a few key adjustments. The main considerations are a very early Plunge, delayed Blood Weapon due to lack of Living Shadow, and delayed Abyssal Drain and Salted Earth to take advantage of plumes. An example MT opener is listed below: \
-(opener image)
+Your opener should be similar to the level 80 opener with a few key adjustments. The main considerations are a very early Plunge, delayed Blood Weapon due to lack of Living Shadow, and delayed Abyssal Drain and Salted Earth to take advantage of plumes. An example MT opener is listed below: 
 
-Plunge, Unmend, and facepull openers are all viable. The most important consideration is which one best allows both you and your fellow melee players to keep your GCDs rolling, as Garuda's small size and rapid movement can easily eat your inputs. Consider as well whether you gain a use of Plunge overall vs holding it for raidbuffs. The strength tincture, Rampart, and Salted Earth uses are timed so that they will be active while plumes are out and expire before Garuda jumps away.
+![](https://cdn.discordapp.com/attachments/583964695266983944/890665917325918408/unknown.png)
+
+Plunge pulling is recommended, but Unmend, and facepull openers are also viable. The most important consideration is which one best allows both you and your fellow melee players to keep your GCDs rolling, as Garuda's small size and rapid movement can easily eat your inputs. Consider as well whether you gain a use of Plunge overall vs holding it for raidbuffs. The strength tincture, Rampart, and Salted Earth uses are timed so that they will be active while plumes are out and expire before Garuda jumps away.
 
 The very early Plunge use allows a second use before Garuda jumps away after the first set of plumes. This then allows the third use to occur before she jumps away after Frictions, which in turn allows you to Plunge back onto the boss after blocking one of the double Mistral Songs.
 
@@ -180,8 +191,9 @@ General buff timings are:
 
 \- Tinctures at opener and enrage
 
-Example reopener here:\
-(picture of example opener)
+Example reopener here: 
+
+![](https://cdn.discordapp.com/attachments/583964695266983944/891049026160574535/tmp3.png)
 
 Rampart and your tincture can be used before Ultima. Shadow Wall can also be used prepull, but the timing is rather tight.
 
@@ -201,6 +213,20 @@ Watch Ultima's HP; regardless of when your final burst is planned, you should us
 
 ## Best-in-Slot
 
+2.43 and 2.38 sets require a completed Resistance weapon to hit all the listed tiers. If you only have the second-to-last step available, take points out of Tenacity to compensate.
+
+#### 2.43 
+
+![](https://cdn.discordapp.com/attachments/583964695266983944/885397203307364352/unknown.png)
+
+#### 2.40 
+
+![](https://cdn.discordapp.com/attachments/583964695266983944/885397280738406420/unknown.png)
+
+#### 2.38 
+
+![](https://cdn.discordapp.com/attachments/583964695266983944/885397335025287188/unknown.png)
+
 # The Epic of Alexander (TEA)
 
 ## Gearing
@@ -209,7 +235,7 @@ For TEA, no gear yet exists that will cap out both substats when synced down to 
 
 Use the most current consumables available. You must use grade 4 tinctures for maximum benefit.
 
-If you wish to minmax further, a non-exhaustive list of best-in-slot configurations will be listed below. You can find a complete list in the dedicated best-in-slot guide for DRK, or use the Tank DPS Calculator to determine your own.
+If you wish to further optimize your gear, a non-exhaustive list of best-in-slot configurations using Resistance Weapons will be listed below. You can find a complete list in the dedicated best-in-slot guide for DRK, or use the Tank DPS Calculator to determine your own.
 
 ## Defensive Cooldown Usage
 
@@ -229,7 +255,7 @@ A special word on Delirium: TEA has particularly bad phasing for 90-second coold
 
 Example MT opener:
 
-(picture of the opener)
+![](https://cdn.discordapp.com/attachments/749367375769370684/844640656705323058/tmp3.png)
 
 Rampart should be used about 7 seconds pre-pull in order to be available for the Drainage tethers later on.
 
@@ -281,11 +307,11 @@ You will gain about 3000 mana from passive regeneration during Wormhole Formatio
 
 Reprisal can be used once the castbar passes the "E" in "Mega Holy" after Wormhole Formation to cover both casts.
 
-Salted Earth will tick on both bosses at triple enrage if placed like so:
+Salted Earth will tick on both bosses at triple enrage if placed like so: 
 
-(picture of salted earth)
+![](https://cdn.discordapp.com/attachments/887985804306169866/891227571503628308/unknown.png)
 
-AoE combos will also hit both bosses if used in this spot. You can additionally hit both bosses with Flood of Shadow by targeting one and moving into the hitbox of the other. Make sure to summon Living Shadow closer to Brute Justice than Cruise Chaser so it won't jump onto the invulnerable Alexander Prime after Cruise Chaser is killed. Delirium can be held until 120s buffs go out.
+Note how the AoE is centered at the apex of the lighter, curved metal pattern on the floor. AoE combos will also hit both bosses if used in this spot. You can additionally hit both bosses with Flood of Shadow by targeting one and moving into the hitbox of the other. Make sure to summon Living Shadow closer to Brute Justice than Cruise Chaser so it won't jump onto the invulnerable Alexander Prime after Cruise Chaser is killed. Delirium can be held until 120s buffs go out.
 
 You will gain about 4800 mana from passive generation between Alexander Prime hitting 1 HP and Perfect Alexander becoming targetable. TBN can be used on any party member before Divine Judgment snapshots if desired.
 
@@ -314,3 +340,17 @@ Perfect Alexander does not autoattack very much except during Almighty Judgment 
 Plan who will take which Temporal Prison during the enrage sequence. Tanks usually take the third and fourth prisons; if you handle your cooldowns well, you should take the fourth prison if you cotank is a Paladin or Warrior, or the third prison if your cotank is a Gunbreaker.
 
 ## Best-in-Slot
+
+These images have the minimum substat allocations to hit every possible substat tier. You may distribute the remainder any way you like.
+
+#### 2.43 
+
+![](https://cdn.discordapp.com/attachments/277962421862268930/847947665824022590/unknown.png)
+
+#### 2.40 
+
+![](https://cdn.discordapp.com/attachments/277962421862268930/847947729144512553/unknown.png)
+
+#### 2.38 
+
+![](https://cdn.discordapp.com/attachments/277962421862268930/847947796567949332/unknown.png)
