@@ -5,7 +5,7 @@ title: Ultimates
 
 ## Gearing
 
-For level 70 ultimates, a full set of synced gear with critical hit + determination and enough pieces with critical hit + skill speed to hit your desired GCD tier is more than sufficient. All pieces of item level 418 or higher will max out both substats in UCoB. Gear from the Swallow's Compass dungeon and +2 Eureka armor matches the item level sync and may provide a small boost. The last- and second-to-last steps of your Bozjan Resistance weapon can be configured to cap out all four substats in UCoB and will provide a very significant boost. The maximum sync value for weapons is 280 in each substat.
+For level 70 ultimates, a full set of synced gear with Critical Hit + Determination and enough pieces with Critical Hit + Skill Speed to hit your desired GCD tier is more than sufficient. All pieces of item level 418 or higher will max out both substats in UCoB. Gear from the Swallow's Compass dungeon and +2 Eureka armor matches the item level sync and may provide a small boost. The last and second-to-last steps of your Bozjan Resistance weapon can be configured to cap out all four substats in UCoB and will provide a very significant boost. The maximum sync value for weapons is 280 in each substat.
 
 Use the most current food available. Any grade Tincture of Strength will grant the maximum benefit in UCoB. 
 
@@ -105,7 +105,7 @@ Don't get discouraged at the number on your FFLogs page after clearing. UCoB ran
 
 ![](https://cdn.discordapp.com/attachments/583964695266983944/885397503590166578/unknown.png)
 
-#### 2.38 
+#### 2.38
 
 ![](https://cdn.discordapp.com/attachments/583964695266983944/885397573806993418/unknown.png)
 
@@ -215,15 +215,15 @@ Watch Ultima's HP; regardless of when your final burst is planned, you should us
 
 2.43 and 2.38 sets require a completed Resistance weapon to hit all the listed tiers. If you only have the second-to-last step available, take points out of Tenacity to compensate.
 
-#### 2.43 
+#### 2.43
 
 ![](https://cdn.discordapp.com/attachments/583964695266983944/885397203307364352/unknown.png)
 
-#### 2.40 
+#### 2.40
 
 ![](https://cdn.discordapp.com/attachments/583964695266983944/885397280738406420/unknown.png)
 
-#### 2.38 
+#### 2.38
 
 ![](https://cdn.discordapp.com/attachments/583964695266983944/885397335025287188/unknown.png)
 
@@ -343,14 +343,14 @@ Plan who will take which Temporal Prison during the enrage sequence. Tanks usual
 
 These images have the minimum substat allocations to hit every possible substat tier. You may distribute the remainder any way you like.
 
-#### 2.43 
+#### 2.43
 
 ![](https://cdn.discordapp.com/attachments/277962421862268930/847947665824022590/unknown.png)
 
-#### 2.40 
+#### 2.40
 
 ![](https://cdn.discordapp.com/attachments/277962421862268930/847947729144512553/unknown.png)
 
-#### 2.38 
+#### 2.38
 
 ![](https://cdn.discordapp.com/attachments/277962421862268930/847947796567949332/unknown.png)
