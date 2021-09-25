@@ -17,37 +17,51 @@ Ultimate progression is a team effort. Unlike savage, incoming damage is so high
 
 ## Offensive Cooldown Usage
 
-Optimizing your damage on Dark Knight revolves heavily around shifting potency into raidbuffs, and ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, you will want to pool resources for the start of each phase, with a second burst window near the middle. Note that it is impossible to provide a full map of each burst window because it depends heavily on comp, killtime, and how your party decides to align their cooldowns. The following phase optimization sections will provide guidelines for how to approach each one, but practicing and consulting with your group is the only way to know for sure.
+Optimizing your damage on Dark Knight revolves heavily around shifting potency into raidbuffs, and ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, you will want to pool resources for the start of each phase, with additional burst windows according to the length of the specific section and your party's progress against enrage. 
+
+Note that it is impossible to provide a full map of each burst window because killtimes can vary wildly and your party will need to decide how to approach each phase. The following sections will provide guidelines on the more common options, but practicing and consulting with your group is the only way to know for sure.
 
 ## Phase-by-Phase Optimization
 
 ### Phase 1: Twintania
 
-Use your preferred level 80 opener, with a few minor adjustments. First is the obvious omission of Living Shadow. Second is an early use of a defensive cooldown to cover the first Death Sentence if you are pulling. Third is a killtime-dependent shifting of Delirium; with fast pushes, your fourth use of Delirium is likely to get cut off by Nael's divebombs. It is worth pushing Delirium early in your opener to avoid this.
+Use your preferred level 80 opener, with a few minor adjustments. First is the obvious omission of Living Shadow. Second is an early use of a defensive cooldown to cover the first Death Sentence if you are pulling. Third is a killtime-dependent shifting of Delirium; with fast pushes, your fourth use is likely to get cut off by Nael's divebombs. It is worth pushing Delirium earlier in your opener to address this.
 
-TBN should be used liberally to help with autoattack and tankbuster damage. TBN is especially effective for Flattens because a tank who survives Death Sentence with any amount of HP will not need immediate attention.
+TBN should be used liberally to help with autoattack and tankbuster damage. TBN is especially effective for Plummets because a tank who survives Death Sentence with any amount of HP will not need immediate attention. Do still use it for Death Sentences if required. Note that the boss will continue attacking while firing off Liquid Hells, leading to long strings of autoattacks.
 
-The third tank swap will not have Shirk available, so be ready to toggle you tank stance.
+The third tank swap will not have Shirk available, so remember to toggle your stance off if you are holding the boss before that point.
+
+Your group may opt to hold 120-second cooldowns at the end of the phase. If they choose to do so, remind them to hold them slightly at the start of Phase 2 to align with 60-second cooldowns. Very fast killtimes will negate this issue by ending the phase before 60-second cooldowns can even be used.
 
 ### Phase 2: Nael
 
-TBN can again be used very effectively in this phase, especially for quotes involving stacks. Dark Mind can also be used to mitigate stacks somewhat.
+TBN can again be used very effectively in this phase, especially for quotes involving Thermionic Beam stacks. Dark Mind can be helpful as well.
+
+Your second use of Delirium will likely run up against divebombs. Request that you be allowed to hold the boss there, as the main tank cannot be targeted for them. If your cotank is a Warrior, let them hold the boss and simply hope you are not targeted.
 
 ### Phase 3: Bahamut
 
-My cooldown rotation for Bahamut:
+Dark Knight has an excellent suite of defensive cooldowns and can hold Bahamut for the majority of the phase with little issue, but you may opt to swap more frequently. At the very least, you should look to take both sets of triple Flare Breaths due to Dark Mind.
 
-\- First uptime: LD first Flatten (TBN/DM to survive Flare)
+My own cooldown rotation for Bahamut is as follows:
 
-\- Post-Quickmarch: Rampart at individual Megaflare explosions to cover through Flatten, TBN+Reprisal
+\- First uptime phase (Flare Breath->Flatten): Ensure you survive the Flare Breath with Dark Mind + TBN and then Living Dead for Flatten.
 
-\- Post-Blackfire: Dark Mind + Shadow Wall + TBN for triple flares
+\- Post-Quickmarch Trio (Tempest Wing tether->Flare Breath->Flatten): Rampart + TBN as the individual Megaflare AoEs go out, and then TBN again for the Flatten. Rampart can cover all significant tank damage if timed well.
 
-\- Post-Fellruin: Swap or Cover
+\- Post-Blackfire Trio (3x Flare Breath): Shadow Wall during the Gigaflare cast, and then Dark Mind as the cast finishes. Apply TBN before or during the Flare Breaths.
 
-\- Post-Heavensfall: Dark Mind + Shadow Wall + TBN
+\- Post-Fellruin Trio (Tempest Wing tether->Flare Breath->Flatten->Flare Breath): Rampart+TBN as you are taking your tether. Rampart will just be coming off cooldown. You can take this set of busters if needed with another TBN use to cover the Flatten, but your cotank will have more mitigation available and should ideally swap or Cover.
 
-\- Post-Tenstrike: Rampart or swap
+\- Post-Heavensfall Trio (3x Flare Breath): Dark Mind + Shadow Wall + TBN, just like the first triple flares.
+
+\- Post-Tenstrike Trio (Flatten->Flare Breath): Rampart as the Gigaflare cast finishes, add TBN for the Flatten, and Dark Mind as it becomes available.
+
+Your first priority for Reprisal is the Gigaflare casts, but with good coordination you can cover most of the tankbusters as well. Ask for Feint on the Flatten casts, as they hurt quite a bit.
+
+Most parties will simply use their offensive cooldowns as they become available during the phase, but you may opt to delay burst until after Quickmarch Trio for better alignment. This is the latest you can use a tincture and have it available for the start of Phase 4.
+
+All abilities with cooldowns longer than 60 seconds should be held after Tenstrike Trio.
 
 ### Phase 4: Teraflare/Adds
 
@@ -140,7 +154,7 @@ Blood Weapon can be used on Lahabrea. You should get five or six GCDs on Lahabre
 
 Make sure that you are the one who uses tank LB, as it looks the coolest.
 
-Bank a Dark Arts proc by using TBN before Ultima hits. This is not incompatible with using the LB3 yourself.
+Bank a Dark Arts proc by using TBN before Ultima hits. This is not incompatible with using the LB3.
 
 ### Phase 4: Ultima
 
@@ -265,65 +279,9 @@ General buff timings are:
 
 \- 180-second cooldowns and tinctures at opener and second Irresistible Grace.
 
-Note that the second use of 90-second cooldowns like Delirium should be held briefly after FCA to align with 60-second and 120-second cooldowns. The final use will be slightly misaligned with the rest of the burst window, but FCB downtime forces a certain amount of drift regardless. If have a Ninja in your party and you are confident in a faster kill, they will want to delay the post-FCB Trick Attack to better align with the burst window after Irresistible Grace. You should still use your own 60-second cooldowns according to this plan unless 
-
-
-
-but you should still
-
-
-
-
-
- If you have a Ninja in your party, this cooldown plan assumes that they will forego alignment with the final burst window in order to gain a use of Trick Attack; if you are confident in a faster kill, they should hold their 
-
-
-
-This cooldown plan assumes that the 
-
-
-
-cooldown alignment assumes that
-
-
-
-If you have a Ninja in your party, decide whether 
-
-
-
-Trick Attack
-
-
-
-Players who are taking later prisons
-
-
-
-push them slightly out of 
-
-
-
- Players who are taking the later prisons at enrage sequence can gain a use of 60-second cooldowns by using them immediately after FCB and misaligning them with the  rest of the 
-
-
-
-You can align your 
-
-
-
-post-FCA, ate Calbiration 
-
-Tinctures should be used at the opener and before enrage. The second use of third use of 120-second cooldowns should be held for the second tincture.
-
-
-
-until the final buff window. 
+Note that the second use of 90-second cooldowns like Delirium should be held briefly after FCA to align with 60-second and 120-second cooldowns. The final use will be slightly misaligned with the rest of the burst window, but FCB downtime forces a certain amount of drift regardless. If have a Ninja in your party, they will want to delay the post-FCB Trick Attack to align with the full burst window after Irresistible Grace if you are confident in a faster kill. You should still use your own 60-second cooldowns according to this plan unless you are killing before the third prison even falls. They must still be used immediately after FCB and then again as they come up to avoid losing a use. 
 
 Plan your opener around having 8 GCDs before stopping for Ordained Stillness if it comes first. Blood Weapon does not need to be used immediately if you have enough blood banked to summon Living Shadow because Fate Calibration Beta will prevent you from gaining or losing a use regardless. Untarget the boss for Ordained Stillness to prevent autoattacks from triggering it rather than performing the additional action of sheathing your weapon. You can sneak in an extra GCD after Stillness if it comes first, or after The Final Word if Ordained Motion is first.
-
-If your group has strong 120-second cooldown buffs, it may be worth it to hold your second Delirium in the phase to align with the second use of them.
-
-60-second cooldowns must be used ASAP after Fate Calibration Beta and used again as they come up to avoid losing a use to Temporal Prison.
 
 Discuss with your cotank and healers how you want to handle the tankbusters in this phase. Two of them should be handled with invulns, and one of them with conventional cooldowns. Regardless of which buster you use Living Dead for, you can use Dark Mind + TBN to survive the first hit and give your healers a slightly longer window to cleanse Walking Dead.
 
