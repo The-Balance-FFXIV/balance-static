@@ -61,25 +61,39 @@ Your first priority for Reprisal is the Gigaflare casts, but with good coordinat
 
 Most parties will simply use their offensive cooldowns as they become available during the phase, but you may opt to delay burst until after Quickmarch Trio for better alignment. This is the latest you can use a tincture and have it available for the start of Phase 4.
 
-All abilities with cooldowns longer than 60 seconds should be held after Tenstrike Trio.
+All abilities with cooldowns longer than 60 seconds should be held after Tenstrike Trio. Damage to Bahamut still counts for your parse after pushing him below 60% HP, but otherwise serves no practical purpose except resource generation.
+
+Most groups will want to use Tank LB3 for Grand Octet if it is available. Cast it as the towers appear and you will be able to move in time to dodge Twisters.
+
+You will gain about 3600 mana between Bahamut going untargetable for the last time and Nael/Twin becoming targetable. Try to enter Phase 4 will full or nearly-full mana.
 
 ### Phase 4: Teraflare/Adds
 
-Use tincture in the opener here and it will be back up at the end of Golden.
+You can use a tincture in the opener here and it will be back up for the final burst during Phase 5.
 
-Make sure to put TBN on whichever tank is holding Twintania during quotes, especially if it includes a stack. Dark Mind can help mitigate here.
+Flood of Darkness should be used over Edge of Darkness throughout the phase. Continue using Souleater combos instead of switching to Unleash, as it is still more efficient with two targets.
+
+Throughout the phase, Flood of Darkness will generally be more efficient than Edge of Darkness. Switch over to Edge of Darkness if one boss is nearing death while the other still needs some time to kill. Continue using Souleater combos instead of switching to Unleash, and use Bloodspiller instead of Quietus to spend your gauge. 
+
+There are three sets of tankbusters during the phase, though the first set includes only the mini-busters that follow up the main busters in the other two sets. Each set should be mitigated with TBN and reprisal; this is sufficient for the first set if Rampart and Shadow Wall are not available, but they should be used for the others. Ask for a Feint as well if this is the case.
+
+Tank damage is extremely heavy in this phase. Use TBN liberally, and take special care to shield whichever tank is holding Twintania during each quote, especially if the quote involves a Thermionic Beam stack. Dark Mind is helpful for these quotes as well.
+
+Dump all of your resources before the end of the phase; the transition will "kill" you and you will start Phase 5 with full mana and zero blood regardless.
 
 ### Phase 5: Golden Bahamut
 
-You can leave one of your defensive cooldowns out of the first set of Akh Morns and use it for autoattacks instead.
+The first Akh Morn is not especially scary, and you can hold a cooldown here to use for autoattacks instead.
 
-I prefer to invuln the second and third Akh Morns for better cooldown availability.
+Discuss your cooldown map with your healers and your cotank. Most groups will look to invuln either the first and third or the second and third Akh Morns. I prefer the latter option, as it frees up more cooldowns to use for autoattacks.
 
-Try to coordinate your final burst with all raidbuffs/personal cooldowns plus tincture.
+TBN is, once again, extremely valuable in this phase. Golden Bahamut will attack five times in a row after each Exaflare cast and can randomly crit for over a third of a tank's max HP, so it is vital to apply any mitigation you can.
 
-Keep your finger on the LB button.
+Be ready to LB if there is any uncertainty at all for an upcoming Akh Morn or Morn Afah. This can singlehandedly save a run, and most groups will save LB for that purpose as the DPS requirement is very easy to meet in Shadowbringers.
 
-Don't get discouraged if you get a bad parse.
+Coordinate your burst windows with your group. Many groups will simply use all cooldowns at the start of the phase, but a more optimized team will fire everything only once resources are built and tinctures are available again for those who used them during the previous phase.
+
+Don't get discouraged at the number on your FFLogs page after clearing. UCoB rankings in particular favor long, messy kills that spend as much time as possible on Phase 4/5 to take advantage of two-target cleave and the Phoenix Blessing buff. An unimpressive number by itself doesn't indicate serious errors in your own play.
 
 ## Best-in-Slot
 
@@ -203,11 +217,11 @@ Ultimate progression is a team effort. Unlike savage, incoming damage is so high
 
 ## Offensive Cooldown Usage
 
-Lorem Ipsum
+Optimizing your damage on Dark Knight revolves heavily around shifting potency into raidbuffs, and ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, you will want to pool resources for the start of each phase, with a second burst window near the middle. 
 
-aoe on 2 targets, bloodspiller on 2
+Note that it is impossible to provide a full map of each burst window because it depends heavily on comp, killtime, and how your party decides to align their cooldowns. The following phase optimization sections will provide guidelines for how to approach each one, but practicing and consulting with your group is the only way to know for sure.
 
-hold delirium or no
+A special word on Delirium: 
 
 ## Phase-by-Phase Optimization
 
@@ -263,7 +277,7 @@ Salted Earth will tick on both bosses at triple enrage if placed like so:
 
 AoE combos will also hit both bosses if used in this spot. You can additionally hit both bosses with Flood of Shadow by targeting one and moving into the hitbox of the other. Make sure to summon Living Shadow closer to Brute Justice than Cruise Chaser so it won't jump onto the invulnerable Alexander Prime after Cruise Chaser is killed. Delirium can be held until 120s buffs go out.
 
-You will gain about 4800 mana during the cutscene after Phase 3, so take that into account.
+You will gain about 4800 mana from passive generation between Alexander Prime hitting 1 HP and Perfect Alexander becoming targetable, so plan accordingly.
 
 Remember to use the tank LB3 because DRK's is the coolest.
 
