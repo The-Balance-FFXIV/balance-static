@@ -185,7 +185,7 @@ If you wish to minmax further, a non-exhaustive list of best-in-slot configurati
 
 ## Defensive Cooldown Usage
 
-Ultimate progression is a team effort. Unlike savage, incoming damage is so high that GCD healing is not always avoidable. Because of this, how well you perform your job of mitigating for yourself, your cotank, and your group will directly affect the performance of your healers. The Blackest Night (TBN) in particular is an incredibly strong tool, and smart usage will make a world of difference to your healers. Each phase will include notes on particularly heavy periods of damage on specific party members where TBN will likely be the most useful, but it's ultimately up to your group's healers to communicate where their resources are strained. Remember, it's a win for your party if you can make room for an extra Stone or Malefic at the cost of shifting an Edge or Flood out of buffs.
+Ultimate progression is a team effort. Unlike savage, incoming damage is so high that GCD healing is not always avoidable. Because of this, how well you perform your job of mitigating for yourself, your cotank, and your group will directly affect the performance of your healers. The Blackest Night (TBN) in particular is an incredibly strong tool, and smart usage will make a world of difference to your healers. Each phase will include notes on particularly heavy periods of damage on specific party members where TBN will likely be the most useful, but it's ultimately up to your group's healers to communicate where their resources are strained. Remember, it's a win for your party if you can make room for an extra Glare or Malefic at the cost of shifting an Edge or Flood out of buffs.
 
 ## Offensive Cooldown Usage
 
