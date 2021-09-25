@@ -9,21 +9,21 @@ For level 70 ultimates, a full set of synced gear with Critical Hit + Determinat
 
 Use the most current food available. Any grade Tincture of Strength will grant the maximum benefit in UCoB. 
 
-If you wish to further optimize your gear, a non-exhaustive list of best-in-slot configurations using Resistance Weapons will be listed below. You can find a complete list in the dedicated best-in-slot guide for DRK, or use the Tank DPS Calculator to determine your own.
+If you wish to further optimize your gear, a non-exhaustive list of best-in-slot configurations using Resistance Weapons will be listed below. You can find a complete list in the dedicated [best-in-slot guide for DRK](https://guides.xivresources.com/jobs/tanks/dark-knight/best-in-slot/), or use the Tank DPS Calculator to determine your own.
 
 ## Defensive Cooldown Usage
 
-Ultimate progression is a team effort. Unlike savage, incoming damage is so high that GCD healing is not always avoidable. Because of this, how well you perform your job of mitigating for yourself, your cotank, and your group will directly affect the performance of your healers. The Blackest Night (TBN) in particular is an incredibly strong tool, and smart usage will make a world of difference to your healers. Each phase will include notes on particularly heavy periods of damage on specific party members where TBN will likely be the most useful, but it's ultimately up to your group's healers to communicate where their resources are strained. Remember, it's a win for your party if you can make room for an extra Stone or Malefic at the cost of shifting an Edge or Flood out of buffs.
+Ultimate progression is a team effort. Unlike savage, incoming damage is so high that GCD healing is not always avoidable. Because of this, how well you perform your job of mitigating for yourself, your co-tank, and your group will directly affect the performance of your healers. The Blackest Night (TBN) in particular is an incredibly strong tool, and smart usage will make a world of difference for your healers. Each phase will include notes on particularly heavy periods of damage on specific party members where TBN will likely be the most useful, but it's ultimately up to your group's healers to communicate where their resources are strained. Remember, it's a win for your party if you can make room for an extra Stone, Broil or Malefic at the cost of shifting an Edge or Flood out of buffs.
 
 ## Offensive Cooldown Usage
 
-Optimizing your damage on Dark Knight revolves heavily around shifting potency into raidbuffs, and ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, you will want to pool resources for the start of each phase, with additional burst windows according to the length of the specific section and your party's progress against enrage. 
+Optimizing your damage on Dark Knight revolves heavily around shifting potency into raid buffs, and Ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, you will want to pool resources for the start of each phase, with additional burst windows according to the length of the specific section and your party's progress against enrage. 
 
 Note that it is impossible to provide a full map of each burst window because killtimes can vary wildly and your party will need to decide how to approach each phase. The following sections will provide guidelines on the more common options, but practicing and consulting with your group is the only way to know for sure.
 
 ## Phase-by-Phase Optimization
 
-### Phase 1: Twintania
+### Phase One: Twintania
 
 Use your preferred level 80 opener, with a few minor adjustments. First is the obvious omission of Living Shadow. Second is an early use of a defensive cooldown to cover the first Death Sentence if you are pulling. Third is a killtime-dependent shifting of Delirium; with fast pushes, your fourth use is likely to get cut off by Nael's divebombs. It is worth pushing Delirium earlier in your opener to address this.
 
@@ -31,15 +31,15 @@ TBN should be used liberally to help with autoattack and tankbuster damage. TBN 
 
 The third tank swap will not have Shirk available, so remember to toggle your stance off if you are holding the boss before that point.
 
-Your group may opt to hold 120-second cooldowns at the end of the phase. If they choose to do so, remind them to hold them slightly at the start of Phase 2 to align with 60-second cooldowns. Very fast killtimes will negate this issue by ending the phase before 60-second cooldowns can even be used.
+Your group may opt to hold 120-second cooldowns at the end of the phase. If they choose to do so, remind them to hold them slightly at the start of Phase Two to align with 60-second cooldowns. Very fast killtimes will negate this issue by ending the phase before 60-second cooldowns can even be used.
 
-### Phase 2: Nael
+### Phase Two: Nael
 
 TBN can again be used very effectively in this phase, especially for quotes involving Thermionic Beam stacks. Dark Mind can be helpful as well.
 
-Your second use of Delirium will likely run up against divebombs. Request that you be allowed to hold the boss there, as the main tank cannot be targeted for them. If your cotank is a Warrior, let them hold the boss and simply hope you are not targeted.
+Your second use of Delirium will likely run up against divebombs. Request that you be allowed to hold the boss there, as the main tank cannot be targeted for them. If your co-tank is a Warrior, let them hold the boss and simply hope you are not targeted.
 
-### Phase 3: Bahamut
+### Phase Three: Bahamut
 
 Dark Knight has an excellent suite of defensive cooldowns and can hold Bahamut for the majority of the phase with little issue, but you may opt to swap more frequently. At the very least, you should look to take both sets of triple Flare Breaths due to Dark Mind.
 
@@ -51,7 +51,7 @@ My own cooldown rotation for Bahamut is as follows:
 
 \- Post-Blackfire Trio (3x Flare Breath): Shadow Wall during the Gigaflare cast, and then Dark Mind as the cast finishes. Apply TBN before or during the Flare Breaths.
 
-\- Post-Fellruin Trio (Tempest Wing tether->Flare Breath->Flatten->Flare Breath): Rampart+TBN as you are taking your tether. Rampart will just be coming off cooldown. You can take this set of busters if needed with another TBN use to cover the Flatten, but your cotank will have more mitigation available and should ideally swap or Cover.
+\- Post-Fellruin Trio (Tempest Wing tether->Flare Breath->Flatten->Flare Breath): Rampart+TBN as you are taking your tether. Rampart will just be coming off cooldown. You can take this set of busters if needed with another TBN use to cover the Flatten, but your co-tank will have more mitigation available and should ideally swap or Cover.
 
 \- Post-Heavensfall Trio (3x Flare Breath): Dark Mind + Shadow Wall + TBN, just like the first triple flares.
 
@@ -59,41 +59,41 @@ My own cooldown rotation for Bahamut is as follows:
 
 Your first priority for Reprisal is the Gigaflare casts, but with good coordination you can cover most of the tankbusters as well. Ask for Feint on the Flatten casts, as they hurt quite a bit.
 
-Most parties will simply use their offensive cooldowns as they become available during the phase, but you may opt to delay burst until after Quickmarch Trio for better alignment. This is the latest you can use a tincture and have it available for the start of Phase 4.
+Most parties will simply use their offensive cooldowns as they become available during the phase, but you may opt to delay burst until after Quickmarch Trio for better alignment. This is the latest you can use a Tincture and have it available for the start of Phase Four.
 
 All abilities with cooldowns longer than 60 seconds should be held after Tenstrike Trio. Damage to Bahamut still counts for your parse after pushing him below 60% HP, but otherwise serves no practical purpose except resource generation.
 
 Most groups will want to use Tank LB3 for Grand Octet if it is available. Cast it as the towers appear and you will be able to move in time to dodge Twisters.
 
-You will gain about 3600 mana between Bahamut going untargetable for the last time and Nael/Twin becoming targetable. Try to enter Phase 4 will full or nearly-full mana.
+You will gain about 3600 mana between Bahamut going untargetable for the last time and Nael/Twin becoming targetable. Try to enter Phase Four with full or nearly-full mana.
 
-### Phase 4: Teraflare/Adds
+### Phase Four: Teraflare/Adds
 
-You can use a tincture in the opener here and it will be back up for the final burst during Phase 5.
+You can use a Tincture in the opener here and it will be back up for the final burst during Phase Five.
 
 Flood of Darkness should be used over Edge of Darkness throughout the phase. Continue using Souleater combos instead of switching to Unleash, as it is still more efficient with two targets.
 
 Throughout the phase, Flood of Darkness will generally be more efficient than Edge of Darkness. Switch over to Edge of Darkness if one boss is nearing death while the other still needs some time to kill. Continue using Souleater combos instead of switching to Unleash, and use Bloodspiller instead of Quietus to spend your gauge. 
 
-There are three sets of tankbusters during the phase, though the first set includes only the mini-busters that follow up the main busters in the other two sets. Each set should be mitigated with TBN and reprisal; this is sufficient for the first set if Rampart and Shadow Wall are not available, but they should be used for the others. Ask for a Feint as well if this is the case.
+There are three sets of tankbusters during the phase, though the first set includes only the mini-busters that follow up the main busters in the other two sets. Each set should be mitigated with TBN and Reprisal; this is sufficient for the first set if Rampart and Shadow Wall are not available, but they should be used for the others. Ask for a Feint as well if this is the case.
 
 Tank damage is extremely heavy in this phase. Use TBN liberally, and take special care to shield whichever tank is holding Twintania during each quote, especially if the quote involves a Thermionic Beam stack. Dark Mind is helpful for these quotes as well.
 
 Dump all of your resources before the end of the phase; the transition will "kill" you and you will start Phase 5 with full mana and zero blood regardless.
 
-### Phase 5: Golden Bahamut
+### Phase Five: Golden Bahamut
 
 The first Akh Morn is not especially scary, and you can hold a cooldown here to use for autoattacks instead.
 
-Discuss your cooldown map with your healers and your cotank. Most groups will look to invuln either the first and third or the second and third Akh Morns. I prefer the latter option, as it frees up more cooldowns to use for autoattacks.
+Discuss your cooldown map with your healers and your co-tank. Most groups will look to invuln either the first and third or the second and third Akh Morns. I prefer the latter option, as it frees up more cooldowns to use for autoattacks.
 
 TBN is, once again, extremely valuable in this phase. Golden Bahamut will attack five times in a row after each Exaflare cast and can randomly crit for over a third of a tank's max HP, so it is vital to apply any mitigation you can.
 
 Be ready to LB if there is any uncertainty at all for an upcoming Akh Morn or Morn Afah. This can singlehandedly save a run, and most groups will save LB for that purpose as the DPS requirement is very easy to meet in Shadowbringers.
 
-Coordinate your burst windows with your group. Many groups will simply use all cooldowns at the start of the phase, but a more optimized team will fire everything only once resources are built and tinctures are available again for those who used them during the previous phase.
+Coordinate your burst windows with your group. Many groups will simply use all cooldowns at the start of the phase, but a more optimized team will fire everything only once resources are built and Tinctures are available again for those who used them during the previous phase.
 
-Don't get discouraged at the number on your FFLogs page after clearing. UCoB rankings in particular favor long, messy kills that spend as much time as possible on Phase 4/5 to take advantage of two-target cleave and the Phoenix Blessing buff. An unimpressive number by itself doesn't indicate serious errors in your own play.
+Don't get discouraged at the number on your FFLogs page after clearing. UCoB rankings in particular favor long, messy kills that spend as much time as possible on Phases Four and Five to take advantage of two-target cleave and the Phoenix Blessing buff. An unimpressive number by itself doesn't indicate serious errors in your own play.
 
 ## Best-in-Slot
 
@@ -113,51 +113,51 @@ Don't get discouraged at the number on your FFLogs page after clearing. UCoB ran
 
 ## Gearing
 
-For level 70 ultimates, a full set of synced gear with critical hit + determination and enough pieces with critical hit + skill speed to hit your desired GCD tier is more than sufficient. All pieces of item level 470 or higher will max out both substats in UCoB. Gear from the Ghimlyt Dark dungeon matches the item level sync and may provide a small boost. The last- and second-to-last steps of your Bozjan Resistance weapon can be configured to max out the benefits of three out of four substats in UWU and will provide a very significant boost. The maximum sync value for weapons is 318 in each substat.
+For level 70 ultimates, a full set of synced gear with Critical Hit + Determination and enough pieces with Critical Hit + Skill Speed to hit your desired GCD tier is more than sufficient. All pieces of item level 470 or higher will max out both substats in UCoB. Gear from the Ghimlyt Dark dungeon matches the item level sync and may provide a small boost. The last and second-to-last steps of your Bozjan Resistance weapon can be configured to max out the benefits of three out of four substats in UWU and will provide a very significant boost. The maximum sync value for weapons is 318 in each substat.
 
 Use the most current food available. Any grade Tincture of Strength will grant the maximum benefit in UCoB. 
 
-If you wish to further optimize your gear, a non-exhaustive list of best-in-slot configurations using Resistance Weapons will be listed below. You can find a complete list in the dedicated best-in-slot guide for DRK, or use the Tank DPS Calculator to determine your own.
+If you wish to further optimize your gear, a non-exhaustive list of best-in-slot configurations using Resistance Weapons will be listed below. You can find a complete list in the [dedicated best-in-slot guide for DRK](https://guides.xivresources.com/jobs/tanks/dark-knight/best-in-slot/), or use the Tank DPS Calculator to determine your own.
 
 ## Defensive Cooldown Usage
 
-Ultimate progression is a team effort. Unlike savage, incoming damage is so high that GCD healing is not always avoidable. Because of this, how well you perform your job of mitigating for yourself, your cotank, and your group will directly affect the performance of your healers. The Blackest Night (TBN) in particular is an incredibly strong tool, and smart usage will make a world of difference to your healers. Each phase will include notes on particularly heavy periods of damage on specific party members where TBN will likely be the most useful, but it's ultimately up to your group's healers to communicate where their resources are strained. Remember, it's a win for your party if you can make room for an extra Stone or Malefic at the cost of shifting an Edge or Flood out of buffs.
+Ultimate progression is a team effort. Unlike savage, incoming damage is so high that GCD healing is not always avoidable. Because of this, how well you perform your job of mitigating for yourself, your cotank, and your group will directly affect the performance of your healers. The Blackest Night (TBN) in particular is an incredibly strong tool, and smart usage will make a world of difference to your healers. Each phase will include notes on particularly heavy periods of damage on specific party members where TBN will likely be the most useful, but it's ultimately up to your group's healers to communicate where their resources are strained. Remember, it's a win for your party if you can make room for an extra Stone, Broil or Malefic at the cost of shifting an Edge or Flood out of buffs.
 
 ## Offensive Cooldown Usage
 
-Optimizing your damage on Dark Knight revolves heavily around shifting potency into raidbuffs, and ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, you will want to pool resources for the start of each phase, with a second burst window near the middle of each primal and a full reopener at the end of Ultima. 
+Optimizing your damage on Dark Knight revolves heavily around shifting potency into raid buffs, and Ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, you will want to pool resources for the start of each phase, with a second burst window near the middle of each primal and a full reopener at the end of Ultima. 
 
 Note that it is impossible to provide a full map of each burst window because it depends heavily on comp, killtime, and how your party decides to align their cooldowns. The following phase optimization sections will provide guidelines for how to approach each one, but practicing and consulting with your group is the only way to know for sure.
 
-## Phase-by-phase optimization
+## Phase-by-Phase Optimization
 
-### Phase 1: Garuda
+### Phase One: Garuda
 
 Your opener should be similar to the level 80 opener with a few key adjustments. The main considerations are a very early Plunge, delayed Blood Weapon due to lack of Living Shadow, and delayed Abyssal Drain and Salted Earth to take advantage of plumes. An example MT opener is listed below: 
 
 ![](https://cdn.discordapp.com/attachments/583964695266983944/890665917325918408/unknown.png)
 
-Plunge pulling is recommended, but Unmend, and facepull openers are also viable. The most important consideration is which one best allows both you and your fellow melee players to keep your GCDs rolling, as Garuda's small size and rapid movement can easily eat your inputs. Consider as well whether you gain a use of Plunge overall vs holding it for raidbuffs. The strength tincture, Rampart, and Salted Earth uses are timed so that they will be active while plumes are out and expire before Garuda jumps away.
+Plunge pulling is recommended, but Unmend, and facepull openers are also viable. The most important consideration is which one best allows both you and your fellow melee players to keep your GCDs rolling, as Garuda's small size and rapid movement can easily eat your inputs. Consider as well whether you gain a use of Plunge overall vs holding it for raidbuffs. The Tincture of Strength, Rampart, and Salted Earth uses are timed so that they will be active while Plumes are out and expire before Garuda jumps away.
 
-The very early Plunge use allows a second use before Garuda jumps away after the first set of plumes. This then allows the third use to occur before she jumps away after Frictions, which in turn allows you to Plunge back onto the boss after blocking one of the double Mistral Songs.
+The very early Plunge use allows a second use before Garuda jumps away after the first set of Plumes. This then allows the third use to occur before she jumps away after Frictions, which in turn allows you to Plunge back onto the boss after blocking one of the double Mistral Songs.
 
-Holding Delirium for plumes is not recommended. While this will naturally align with both sets of plumes, the extra AoE damage is typically not needed and comes at a cost of damage on the boss. You may even choose to cut out the Quietus from the example opener, as it may not be needed.
+Holding Delirium for Plumes is not recommended. While this will naturally align with both sets of Plumes, the extra AoE damage is typically not needed and comes at a cost of damage on the boss. You may even choose to cut out the Quietus from the example opener, as it may not be needed.
 
-If you are not pulling Garuda, using Dark Mind to mitigate the Mistral Song will allow you to cover both hits from the Spiny Plume with Rampart+ Shadow Wall. Combined with Abyssal Drain's multi-target healing, this will considerably ease the healing burden. Your second use of Abyssal Drain can then be held until the second set of plumes, and the third to hit Ifrit and both front nails.
+If you are not pulling Garuda, using Dark Mind to mitigate the Mistral Song will allow you to cover both hits from the Spiny Plume with Rampart+ Shadow Wall. Combined with Abyssal Drain's multi-target healing, this will considerably ease the healing burden. Your second use of Abyssal Drain can then be held until the second set of Plumes, and the third to hit Ifrit and both front Nails.
 
-Plan your Reprisal uses with your cotank. Ideally, one tank should cover the Friction casts, and the other should hit the following Aerial Blast.
+Plan your Reprisal uses with your co-tank. Ideally, one tank should cover the Friction casts, and the other should hit the following Aerial Blast.
 
-The second set of plumes come with quite a bit of damage on the main tank, so make sure to give them a shield with The Blackest Night (TBN) if you are not holding the boss.
+The second set of Plumes come with quite a bit of damage on the main tank, so make sure to give them a shield with The Blackest Night (TBN) if you are not holding the boss.
 
 You should ensure that you get a second use of Delirium during the phase. If your killtime is too fast to allow a full use at the end, move your first use earlier in your opener.
 
-### Phase 2: Ifrit
+### Phase Two: Ifrit
 
 It is possible to keep your combo rolling from Garuda's death to Ifrit's reappearance. However, this is a *very* tight window, so only try it if you're confident.
 
-Discuss with your group whether you are making an effort to skip the dashes near the end of the phase or not. This means holding your tincture plus any major cooldowns Doing so means holding your potion 
+Discuss with your group whether you are making an effort to skip the dashes near the end of the phase or not. This means holding your Tincture plus any major cooldowns.
 
-If you are holding the boss during the nail phase, you can hit three targets with Flood of Darkness by targeting one nail and moving onto the hitbox of the other.
+If you are holding the boss during the Nail phase, you can hit three targets with Flood of Darkness by targeting one Nail and moving onto the hitbox of the other.
 
 Nail phase is another period of heavy tank damage, so make sure the tank holding the boss gets a TBN. Use a defensive cooldown as well if you are holding Ifrit. Ideally, the tank with aggro during and after nail phase should avoid pulling Titan so that they can freely use their cooldowns during Ifrit. TBN is also valuable for Flaming Crush + autoattack damage.
 
