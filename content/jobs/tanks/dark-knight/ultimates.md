@@ -195,25 +195,25 @@ Example reopener here:
 
 ![](https://cdn.discordapp.com/attachments/583964695266983944/891049026160574535/tmp3.png)
 
-Rampart and your tincture can be used before Ultima. Shadow Wall can also be used prepull, but the timing is rather tight.
+Rampart and your Tincture can be used before Ultima. Shadow Wall can also be used prepull, but the timing is rather tight.
 
 Be careful about your usage of Reprisal on Tank Purges; it can inhibit LB generation and cause you to miss having LB3 post-Suppression.
 
 Post-Predation is a good time to use defensive cooldowns, as Ultima will do a long string of attacks.
 
-TBN by itself is sufficient for the Mistral Song damage during Suppression. Because you are guaranteed not to get the gaol, you can aid prog by banking blood and mana to dump into it.
+TBN by itself is sufficient for the Mistral Song damage during Suppression. Because you are guaranteed not to get the Gaol, you can aid prog by banking blood and mana to dump into it.
 
-Decide with your cotank who is using which tank LB at Aetheric Boom; if you are using the LB1, you will need to use Delirium immediately once Ultima is targetable.
+Decide with your co-tank who is using which tank LB at Aetheric Boom; if you are using the LB1, you will need to use Delirium immediately once Ultima is targetable.
 
 Tank damage during primal roulette is very heavy, as Ultima will attack uninterrupted while multiple sources of damage pile on. You may opt to save Rampart at Aetheric Boom to use here. Either way, Dark Mind should be available for the second or third primal. Make sure the main tank gets a TBN as each primal's raidwide goes out.
 
 The main tank cannot be targeted by an Eruption during primal roulette, so don't be shy about standing where you need to to allow for melee positionals.
 
-Watch Ultima's HP; regardless of when your final burst is planned, you should use your tincture by the time the boss drops to around 15% HP to benefit from its full duration.
+Watch Ultima's HP; regardless of when your final burst is planned, you should use your Tincture by the time the boss drops to around 15% HP to benefit from its full duration.
 
 ## Best-in-Slot
 
-2.43 and 2.38 sets require a completed Resistance weapon to hit all the listed tiers. If you only have the second-to-last step available, take points out of Tenacity to compensate.
+2.43s and 2.38 sets require a completed Resistance weapon to hit all the listed tiers. If you only have the second-to-last step available, take points out of Tenacity to compensate.
 
 #### 2.43
 
@@ -233,17 +233,17 @@ Watch Ultima's HP; regardless of when your final burst is planned, you should us
 
 For TEA, no gear yet exists that will cap out both substats when synced down to the cap of i475. Because synced gear loses the benefit of affixed materia, it is usually (not not universally) worse than i470/475 options available for a given slot. Gear from The Hero's Gauntlet matches the item level sync and may provide a decent boost. The last- and second-to-last steps of your Bozjan Resistance weapon are special in having finely configurable stats, and will beat out any alternatives if allocated properly.
 
-Use the most current consumables available. You must use grade 4 tinctures for maximum benefit.
+Use the most current consumables available. You must use Grade 4 Tinctures of Strength for maximum benefit.
 
-If you wish to further optimize your gear, a non-exhaustive list of best-in-slot configurations using Resistance Weapons will be listed below. You can find a complete list in the dedicated best-in-slot guide for DRK, or use the Tank DPS Calculator to determine your own.
+If you wish to further optimize your gear, a non-exhaustive list of best-in-slot configurations using Resistance Weapons will be listed below. You can find a complete list in the [dedicated best-in-slot guide for DRK](https://guides.xivresources.com/jobs/tanks/dark-knight/best-in-slot/), or use the Tank DPS Calculator to determine your own.
 
 ## Defensive Cooldown Usage
 
-Ultimate progression is a team effort. Unlike savage, incoming damage is so high that GCD healing is not always avoidable. Because of this, how well you perform your job of mitigating for yourself, your cotank, and your group will directly affect the performance of your healers. The Blackest Night (TBN) in particular is an incredibly strong tool, and smart usage will make a world of difference to your healers. Each phase will include notes on particularly heavy periods of damage on specific party members where TBN will likely be the most useful, but it's ultimately up to your group's healers to communicate where their resources are strained. Remember, it's a win for your party if you can make room for an extra Glare or Malefic at the cost of shifting an Edge or Flood out of buffs.
+Ultimate progression is a team effort. Unlike savage, incoming damage is so high that GCD healing is not always avoidable. Because of this, how well you perform your job of mitigating for yourself, your co-tank, and your group will directly affect the performance of your healers. The Blackest Night (TBN) in particular is an incredibly strong tool, and smart usage will make a world of difference to your healers. Each phase will include notes on particularly heavy periods of damage on specific party members where TBN will likely be the most useful, but it's ultimately up to your group's healers to communicate where their resources are strained. Remember, it's a win for your party if you can make room for an extra Glare, Broil or Malefic at the cost of shifting an Edge or Flood out of buffs.
 
 ## Offensive Cooldown Usage
 
-Optimizing your damage on Dark Knight revolves heavily around shifting potency into raidbuffs, and ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, you will want to pool resources for the start of each phase, with additional burst windows according to the length of the specific section and your party's progress against enrage. 
+Optimizing your damage on Dark Knight revolves heavily around shifting potency into raid buffs, and Ultimates are no different. For best results, coordinate with your group to know when burst windows are occurring. Generally speaking, you will want to pool resources for the start of each phase, with additional burst windows according to the length of the specific section and your party's progress against enrage. 
 
 Note that it is impossible to provide a full map of each burst window because it depends heavily on comp, killtime, and how your party decides to align their cooldowns. The following phase optimization sections will provide guidelines for how to approach each one, but practicing and consulting with your group is the only way to know for sure.
 
@@ -251,13 +251,13 @@ A special word on Delirium: TEA has particularly bad phasing for 90-second coold
 
 ## Phase-by-Phase Optimization
 
-### Phase 1: Living Liquid
+### Phase One: Living Liquid
 
 Example MT opener:
 
 ![](https://cdn.discordapp.com/attachments/749367375769370684/844640656705323058/tmp3.png)
 
-Rampart should be used about 7 seconds pre-pull in order to be available for the Drainage tethers later on.
+Rampart should be used about seven seconds pre-pull in order to be available for the Drainage tethers later on.
 
 Note the position of Abyssal Drain and Living Shadow; Abyssal is held for two-target cleave plus additional healing, and Living Shadow is used after the 4th GCD in order to delay its Quietus to cleave both bosses.
 
@@ -279,11 +279,11 @@ This sequence only waits on the 2.50 recast time once while Blood Weapon is acti
 
 You will gain about 2400 mana from passive generation between Living Liquid hitting 0 HP and Brute Justice/Bruise Chaser becoming targetable, so make sure not to end the phase at full mana.
 
-### Phase 2: Bruise Chaser/Cruise Justice
+### Phase Two: Bruise Chaser/Cruise Justice
 
 Decide who is tanking which boss. 
 
-Buffs should go out very early in the phase, so you can precast Living Shadow to take full advantage of them. Use after Cruise Chaser disappears to catch buffs after the first GCD, or as Brute Justice's textbox appears for buffs after the second GCD.
+Buffs should go out very early in the phase, so you can precast Living Shadow to take full advantage of them. Use after Cruise Chaser disappears to catch buffs after the first GCD, or as Brute Justice's textbox appears for buffs after the 2nd GCD.
 
 TBN should again be used liberally in this phase. Long strings of autoattacks, lightning passes, and raidwides plus autoattacks will all quickly break your shield and potentially save resources from your healers.
 
@@ -291,17 +291,17 @@ Rampart can be used after the Spin Crusher cast finishes to cover a string of au
 
 Dark Missionary is surprisingly difficult to find good times for, as the party will often be spread about the arena for various mechanics. Good spots to look at are at Missile Command to cover mines + second water pass, or shortly after Plasma Shield to cover Whirlwind + third water pass.
 
-You will gain about 1800 mana from passive generation between Phase 2 ending and Alexander Prime becoming targetable. TBN can be used on non-tanks who do not have Aggravated Assault (lightning bolt debuff) to avoid overcap.
+You will gain about 1800 mana from passive generation between Phase Two ending and Alexander Prime becoming targetable. TBN can be used on non-tanks who do not have Aggravated Assault (lightning bolt debuff) to avoid overcap.
 
-### Phase 3: Alexander Prime
+### Phase Three: Alexander Prime
 
-Tinctures must be used in the post-Temporal Stasis uptime window to be available for the start of the final phase. Major cooldowns won't be available until the end of Inception Formation if not held at the end of Phase 2, however, so discuss with your group how you want to handle buff alignment. Generally speaking, Phase 3 does have a somewhat tighter DPS check and more room for deaths that will cripple a player's damage output without wiping the party outright.
+Tinctures must be used in the post-Temporal Stasis uptime window to be available for the start of the final phase. Major cooldowns won't be available until the end of Inception Formation if not held at the end of Phase Two, however, so discuss with your group how you want to handle buff alignment. Generally speaking, Phase Three does have a somewhat tighter DPS check and more room for deaths that will cripple a player's damage output without wiping the party outright.
 
 Delirium windows in post-Temporal Stasis and post-Inception Formation uptime phases will be identical; if you get cut off after three hits in the first, you will get cut off after three hits again in the second, with a slim chance for a fourth.
 
 During Inception Formation, you can Plunge onto the True Heart and use Stalwart Soul combos to gain resources. This should not cost a use of Plunge in any uptime phase, and it is possible to finish two full combos for a completely free 1200 mana and 40 blood. Overall, you will gain about 4800~5400 mana during Inception Formation, depending on how many combos you finish on the True Heart. 
 
-Living Shadow should be precast after Inception Formation to fit more hits under buffs. Casting it as Brute Justice lands should put its first hit under buffs cast after the second GCD.
+Living Shadow should be precast after Inception Formation to fit more hits under buffs. Casting it as Brute Justice lands should put its first hit under buffs cast after the 2nd GCD.
 
 You will gain about 3000 mana from passive regeneration during Wormhole Formation.
 
@@ -333,11 +333,11 @@ Note that the second use of 90-second cooldowns like Delirium should be held bri
 
 Plan your opener around having 8 GCDs before stopping for Ordained Stillness if it comes first. Blood Weapon does not need to be used immediately if you have enough blood banked to summon Living Shadow because Fate Calibration Beta will prevent you from gaining or losing a use regardless. Untarget the boss for Ordained Stillness to prevent autoattacks from triggering it rather than performing the additional action of sheathing your weapon. You can sneak in an extra GCD after Stillness if it comes first, or after The Final Word if Ordained Motion is first.
 
-Discuss with your cotank and healers how you want to handle the tankbusters in this phase. Two of them should be handled with invulns, and one of them with conventional cooldowns. Regardless of which buster you use Living Dead for, you can use Dark Mind + TBN to survive the first hit and give your healers a slightly longer window to cleanse Walking Dead.
+Discuss with your co-tank and healers how you want to handle the tankbusters in this phase. Two of them should be handled with invulns, and one of them with conventional cooldowns. Regardless of which buster you use Living Dead for, you can use Dark Mind + TBN to survive the first hit and give your healers a slightly longer window to cleanse Walking Dead.
 
 Perfect Alexander does not autoattack very much except during Almighty Judgment ("Exatrines"). Ask for a Feint, use a defensive cooldown if available, and give whoever is tanking a TBN because the risk of tank death is high here.
 
-Plan who will take which Temporal Prison during the enrage sequence. Tanks usually take the third and fourth prisons; if you handle your cooldowns well, you should take the fourth prison if you cotank is a Paladin or Warrior, or the third prison if your cotank is a Gunbreaker.
+Plan who will take which Temporal Prison during the enrage sequence. Tanks usually take the third and fourth prisons; if you handle your cooldowns well, you should take the fourth prison if you co-tank is a Paladin or Warrior, or the third prison if your cotank is a Gunbreaker.
 
 ## Best-in-Slot
 
