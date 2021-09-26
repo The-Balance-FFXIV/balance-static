@@ -193,6 +193,10 @@ Example reopener here:
 
 ![](https://cdn.discordapp.com/attachments/583964695266983944/891049026160574535/tmp3.png)
 
+This opener assumes 100 blood and full mana plus a Dark Arts proc.
+
+Note that while this plan involves breaking a combo, there is actually no less from doing so; there are exactly four non-Bloodspiller GCDs in this uptime phase, so a Hard Slash with no followup will be present however things are arranged.
+
 Rampart and your Tincture can be used before Ultima. Shadow Wall can also be used prepull, but the timing is rather tight.
 
 Be careful about your usage of Reprisal on Tank Purges, as it can inhibit LB generation and cause you to miss having LB3 post-Suppression.
