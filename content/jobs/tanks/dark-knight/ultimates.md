@@ -71,8 +71,6 @@ You will gain about 3600 mana between Bahamut going untargetable for the last ti
 
 You can use a Tincture in the opener here and it will be back up for the final burst during Phase Five.
 
-Flood of Darkness should be used over Edge of Darkness throughout the phase. Continue using Souleater combos instead of switching to Unleash, as it is still more efficient with two targets.
-
 Throughout the phase, Flood of Darkness will generally be more efficient than Edge of Darkness. Switch over to Edge of Darkness if one boss is nearing death while the other still needs some time to kill. Continue using Souleater combos instead of switching to Unleash, and use Bloodspiller instead of Quietus to spend your gauge. 
 
 There are three sets of tankbusters during the phase, though the first set includes only the mini-busters that follow up the main busters in the other two sets. Each set should be mitigated with TBN and Reprisal. This is sufficient for the first set if Rampart and Shadow Wall are not available, but they should be used for the others. Ask for a Feint as well if this is the case.
