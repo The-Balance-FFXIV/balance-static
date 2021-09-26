@@ -115,7 +115,7 @@ Don't get discouraged at the number on your FFLogs page after clearing. UCoB ran
 
 For level 70 Ultimates, a full set of synced gear with Critical Hit + Determination and enough pieces with Critical Hit + Skill Speed to hit your desired GCD tier is more than sufficient. All pieces of item level 470 or higher will max out both substats in UCoB. Gear from the Ghimlyt Dark dungeon matches the item level sync and may provide a small boost. The last and second-to-last steps of your Bozjan Resistance weapon can be configured to max out the benefits of three out of four substats in UWU and will provide a very significant boost. The maximum sync value for weapons is 318 in each substat.
 
-Use the most current food available. Any grade Tincture of Strength will grant the maximum benefit in UCoB. 
+Use the most current food available. Any grade Tincture of Strength will grant the maximum benefit in UWU. 
 
 If you wish to further optimize your gear, a non-exhaustive list of best-in-slot configurations using Resistance Weapons will be listed below. You can find a complete list in the [dedicated best-in-slot guide for DRK](https://guides.xivresources.com/jobs/tanks/dark-knight/best-in-slot/), or use the Tank DPS Calculator to determine your own.
 
@@ -192,6 +192,10 @@ General buff timings are:
 Example reopener here: 
 
 ![](https://cdn.discordapp.com/attachments/583964695266983944/891049026160574535/tmp3.png)
+
+This opener assumes 100 blood and full mana plus a Dark Arts proc.
+
+Note that while this plan involves breaking a combo, there is actually no less from doing so; there are exactly four non-Bloodspiller GCDs in this uptime phase, so a Hard Slash with no followup will be present however things are arranged.
 
 Rampart and your Tincture can be used before Ultima. Shadow Wall can also be used prepull, but the timing is rather tight.
 
