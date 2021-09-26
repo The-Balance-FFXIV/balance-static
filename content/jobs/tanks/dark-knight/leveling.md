@@ -11,6 +11,8 @@ ROUGH NOTES
 
 #### 1-25
 
+notes in case you get synced
+
 Unleash on 2
 
 #### 26+
