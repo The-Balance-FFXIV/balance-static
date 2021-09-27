@@ -17,9 +17,9 @@ Both options must be set this way or your fairy's nameplate will be hidden.
 
 Note: Exact potencies when using Recitation are based on your own crit stat. Assume M is your own crit multiplier and plug it in if you want more precise numbers for your own gear. Every potency in the FAQ will include an M multiplier so the exact stat doesn't affect the comparison.
 
-In AoE healing situations Recitation Succor provides a 180(M) potency heal and 225(M) potency shield (405(M) total potency) to each party member. In contrast, Recitation Spreadlo provides a 375(M) potency shield to each party member and a 300(M) potency heal and 750(M) potency shield (1050(M) total potency) to your primary target.
+In AoE healing situations, Recitation Succor provides a 180(M) potency heal and 225(M) potency shield (405(M) total potency) to each party member. In contrast, Recitation Spreadlo provides a 375(M) potency shield to each party member and a 300(M) potency heal and 750(M) potency shield (1050(M) total potency) to your primary target.
 
-As you can see Recitation Succor provides more total potency to all party members but the primary target, assuming the heal is not wasted. Beyond this, Recitation Succor requires only an oGCD (Reci) followed by a GCD (Succ), while Reci Spreadlo requires an oGCD (Reci) followed by a GCD (Adlo) followed by another oGCD (Deploy). The biggest advantage of Reci Spreadlo is that it puts all of its potency (excluding the heal on the primary target) into shield, meaning you can go into a mechanic with more effective max HP, or use it in times when Succor would overheal such as during downtime.
+As you can see, Recitation Succor provides more total potency to all party members but the primary target, assuming the heal is not wasted. Beyond this, Recitation Succor requires only an oGCD (Reci) followed by a GCD (Succ), while Reci Spreadlo requires an oGCD (Reci) followed by a GCD (Adlo) followed by another oGCD (Deploy). The biggest advantage of Reci Spreadlo is that it puts all of its potency (excluding the heal on the primary target) into shield, meaning you can go into a mechanic with more effective max HP, or use it in times when Succor would overheal such as during downtime.
 
 **Remember that using Recitation on uptime GCDs is generally going to be suboptimal. It's main usage will come during prog to conserve mana and give larger safety shields, but this is still very situational.**
 
@@ -54,7 +54,7 @@ Macros in this game suffer from a lack of queuing like normal actions, a drawbac
 * `<#>`: replace # with any number 1-8 to target the player in that position of your party list (`<1>` will be yourself with standard party layout)
 
 **Sacred Soil**\
-Sacred Soil can be slow and tricky to place as a ground effect, `<t>` and `<me>` are both useful for placing it around the boss or yourself respectively. Using `<pet>` lets you move the fairy to the required spot in advance and then place it on her.\
+Sacred Soil can be slow and tricky to place as a ground effect, `<t>` and `<me>` are both useful for placing it around the boss or yourself respectively. Using `<pet>` lets you move the fairy to the required spot in advance and then place it on her.
 
 `/merror off`\
 `/ac "sacred soil" <t>`\
@@ -62,13 +62,13 @@ Sacred Soil can be slow and tricky to place as a ground effect, `<t>` and `<me>`
 `/micon "sacred soil"`
 
 **Place**\
-Placing the fairy does not require a weave slot so it doesn't suffer any negatives from being macroed.\
+Placing the fairy does not require a weave slot so it doesn't suffer any negatives from being macroed.
 
 `/micon “place” pet`\
 `/pac "place" <t>`
 
 **Single Target Heals**
-Be very careful using macros for these, as they suffer from macro delay and don't have the same ground targeting issues as Sacred Soil to justify using a macro. `<mo>` and `<tt>` are generally the ones that might come in handy here\
+Be very careful using macros for these, as they suffer from macro delay and don't have the same ground targeting issues as Sacred Soil to justify using a macro. `<mo>` and `<tt>` are generally the ones that might come in handy here.
 
 `/merror off`\
 `/ac excogitation <tt>`\
