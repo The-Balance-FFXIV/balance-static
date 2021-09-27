@@ -3,6 +3,10 @@ title: Leveling
 ---
 ROUGH NOTES
 
+First off, a word of warning: **Do not use the gear given out by the first job quest.** It is normal-quality, meaning it is significantly weaker than other gear at that item level. To put this into perspective, a 
+
+NQ steel (i30) has lower def than HQ iron (i20)
+
 \- don't use starter gear
 
 \- rotate cds, use arm's length+reprisal
