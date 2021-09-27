@@ -131,7 +131,7 @@ New action: Delirium. It is possible to get 5-GCD Blood Weapon windows even in A
 
 #### Level 70+
 
-New action: The Blackest Night ("TBN"). While Dark Knight can feel a bit squishy below level 70, TBN will add an absolutely massive amount of mitigation to your kit. If the shield granted by TBN breaks rather than expires, you will gain a Dark Arts proc, which makes your next Flood or Edge free to cast. At this level, you don't have enough mana generation to use it on cooldown indefinitely, so you should devote most of your mana to it. Additionally, try to use TBN only when you're reasonably confident it will break, outside of emergencies.
+New action: The Blackest Night ("TBN"). While Dark Knight can feel a bit squishy below level 70, TBN will add an absolutely massive amount of mitigation to your kit. If the shield granted by TBN breaks rather than expires, you will gain a Dark Arts proc, which makes your next Flood or Edge free to cast. At this level, you don't have enough mana generation to use it on cooldown indefinitely, so you should spend most or all of your mana on it in pulls and only use Flood when you have a Dart Arts proc. However, this is only in effect when you're reasonably confident that the shield will break, outside of emergencies.
 
 \- SE Combo on 1-2 targets
 
