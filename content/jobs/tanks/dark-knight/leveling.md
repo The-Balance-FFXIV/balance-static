@@ -29,7 +29,7 @@ Dark Knight starts at level 30, but you can still get synced down below this for
 
 \- Single-target combo (Hard Slash->Syphon Strike) on single targets
 
-\- Unleash on 2+ targets at once
+\- Unleash on 2+ targets
 
 #### Level 26
 
@@ -43,7 +43,7 @@ New action: Souleater. This completes your single-target combo with additional d
 
 New action: Flood of Darkness. This provides additional AoE damage and grants Darkside, which will buff all of your damage by 10%. Don't be afraid to spend your mana at the start of a pull; while your natural regeneration won't quite keep pace while spamming Unleash, you would need to stay in combat for an extraordinary length of time to actually drop Darkside.
 
-\- SE Combo on 2+ targets
+\- SE Combo on 1-2 targets
 
 \- Unleash on 3+ targets
 
@@ -53,7 +53,7 @@ New action: Flood of Darkness. This provides additional AoE damage and grants Da
 
 New action: Blood Weapon. Because your AoE combo GCDs (at this point, only Unleash) have a fixed 2.50-second cast time, it isn't feasible to get the typical 5 GCDs under the buff. However, it is usually not worth it to hold Blood Weapon for a 5-GCD single-target window; just use it on cooldown during pulls.
 
-\- SE Combo on 2+ targets
+\- SE Combo on 1-2 targets
 
 \- Unleash on 3+ targets
 
@@ -63,7 +63,7 @@ New action: Blood Weapon. Because your AoE combo GCDs (at this point, only Unlea
 
 New action: Edge of Darkness. This is a single-target version of Flood. Because it offers less total potency than a multi-target Flood, it should only be used where you wouldn't otherwise be able to hit two or more enemies with Flood.
 
-\- SE Combo on 2+ targets
+\- SE Combo on 1-2 targets
 
 \- Unleash on 3+ targets
 
@@ -75,7 +75,7 @@ New action: Edge of Darkness. This is a single-target version of Flood. Because 
 
 New action: Abyssal Drain. This offers some extra single-target damage, as well as a flat potency worth of healing for every target hit. While the damage is nice, it is best used in trash pulls for the healing effect. In very large pulls, it can restore quite a significant chunk of HP and potentially allow your healer to cast multiple extra damaging GCDs.
 
-\- SE Combo on 2+ targets
+\- SE Combo on 1-2 targets
 
 \- Unleash on 3+ targets
 
@@ -87,7 +87,7 @@ New action: Abyssal Drain. This offers some extra single-target damage, as well 
 
 New action: Bloodspiller. While you unlocked your AoE mana spender before the single-target version, the reverse is true for your blood spenders. Bloodspiller does quite a bit of damage, will not break your combo, and is worth using even in smaller multi-target situations. Blood Weapon will also now grant blood per successful GCD.
 
-\- SE Combo on 2+ targets
+\- SE Combo on 1-2 targets
 
 \- Unleash on 3+ targets
 
@@ -101,7 +101,7 @@ New action: Bloodspiller. While you unlocked your AoE mana spender before the si
 
 New action: Quietus. The AoE version of Bloodspiller. Unlike Flood, Quietus takes 3 targets to deal more total potency than its single-target variant.
 
-\- SE Combo on 2+ targets
+\- SE Combo on 1-2 targets
 
 \- Unleash on 3+ targets
 
@@ -117,7 +117,7 @@ New action: Quietus. The AoE version of Bloodspiller. Unlike Flood, Quietus take
 
 New action: Delirium. It is possible to get 5-GCD Blood Weapon windows even in AoE situations by using Blood Weapon after your first Quietus under Delirium. However, you should not hold Blood Weapon for these opportunities, as getting 4 GCDs of Blood Weapon every minute is still better than getting 5 GCDs of blood weapon every 90 seconds.
 
-\- SE Combo on 2+ targets
+\- SE Combo on 1-2 targets
 
 \- Unleash on 3+ targets
 
@@ -133,7 +133,7 @@ New action: Delirium. It is possible to get 5-GCD Blood Weapon windows even in A
 
 New action: The Blackest Night ("TBN"). While Dark Knight can feel a bit squishy below level 70, TBN will add an absolutely massive amount of mitigation to your kit. If the shield granted by TBN breaks rather than expires, you will gain a Dark Arts proc, which makes your next Flood or Edge free to cast. At this level, you don't have enough mana generation to use it on cooldown indefinitely, so you should devote most of your mana to it. Additionally, try to use TBN only when you're reasonably confident it will break, outside of emergencies.
 
-\- SE Combo on 2+ targets
+\- SE Combo on 1-2 targets
 
 \- Unleash on 3+ targets
 
@@ -151,7 +151,7 @@ New action: Stalwart Soul. This is the second hit of your AoE combo, and yes, th
 
 Stalwart Soul can also opens up a more advanced technique for getting 5-GCD Blood Weapon windows outside of Delirium by banking 100 blood and using Unleash->Blood Weapon->Quietus->Quietus->Stalwart Soul->Quietus->Unleash.
 
-\- SE Combo on 2+ targets
+\- SE Combo on 1-2 targets
 
 \- Unleash on 3+ targets
 
@@ -167,7 +167,7 @@ Stalwart Soul can also opens up a more advanced technique for getting 5-GCD Bloo
 
 New action: Living Shadow. Because of Living Shadow's extremely high potency per hit, it is superior to any other form of blood expenditure if it can get a single hit off against 2+ targets, or two hits versus a single target. The only reason to hold it is if you can get a more efficient usage in the near future.
 
-\- SE Combo on 2+ targets
+\- SE Combo on 1-2 targets
 
 \- Unleash on 3+ targets
 
