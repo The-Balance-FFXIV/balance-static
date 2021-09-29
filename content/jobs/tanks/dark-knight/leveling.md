@@ -105,17 +105,12 @@ New action: Delirium. It is possible to get five GCD Blood Weapon windows even i
 
 New action: The Blackest Night ("TBN"). While Dark Knight can feel a bit squishy below level 70, TBN will add an absolutely massive amount of mitigation to your kit. If the shield granted by TBN breaks rather than expires, you will gain a Dark Arts proc, which makes your next Flood or Edge free to cast. At this level, you don't have enough mana generation to use it on cooldown indefinitely, so you should spend most or all of your mana on it in pulls and only use Flood when you have a Dart Arts proc. However, this is only in effect when you're reasonably confident that the shield will break, outside of emergencies.
 
-\- SE Combo on one or two targets.
-
-\- Unleash on 3+ targets.
-
-\- Edge on one target.
-
-\- Flood on two or more targets.
-
-\- Bloodspiller on one or two targets.
-
-\- Quietus on 3+ targets.
+* SE Combo on one or two targets.
+* Unleash on 3+ targets.
+* Edge on one target.
+* Flood on two or more targets.
+* Bloodspiller on one or two targets.
+* Quietus on 3+ targets.
 
 #### Level 72+
 
@@ -123,32 +118,23 @@ New action: Stalwart Soul. This is the second hit of your AoE combo, and yes, th
 
 Stalwart Soul can also opens up a more advanced technique for getting five GCD Blood Weapon windows outside of Delirium by banking 100 blood and using Unleash -> Blood Weapon -> Quietus -> Quietus -> Stalwart Soul-> Quietus->Unleash.
 
-\- SE Combo on one or two targets.
+* SE Combo on one or two targets.
+* Unleash on 3+ targets.
+* Edge on one target.
+* Flood on two or more targets.
+* Bloodspiller on one or two targets.
+* Quietus on 3+ targets.
 
-\- Unleash on 3+ targets.
-
-\- Edge on one target.
-
-\- Flood on two or more targets.
-
-\- Bloodspiller on one or two targets.
-
-\- Quietus on 3+ targets.
 
 #### Level 80
 
 New action: Living Shadow. Because of Living Shadow's extremely high potency per hit, it is superior to any other form of blood expenditure if it can get a single hit off against 2+ targets, or two hits versus a single target. The only reason to hold it is if you can get a more efficient usage in the near future.
 
-\- SE Combo on one or two targets.
-
-\- Unleash on 3+ targets.
-
-\- Edge on one target.
-
-\- Flood on two or more targets.
-
-\- Bloodspiller on one or two targets.
-
-\- Quietus on 3+ targets.
-
-\- Living Shadow on one or more targets.
+* SE Combo on one or two targets.
+* Unleash on 3+ targets.
+* Edge on one target.
+* Flood on two or more targets.
+* Bloodspiller on one or two targets.
+* Quietus on 3+ targets.
+﻿* Living Shadow on one or more targets.
+Living Shadow on one or more targets.
