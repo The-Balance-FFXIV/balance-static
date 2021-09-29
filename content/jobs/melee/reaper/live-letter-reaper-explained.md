@@ -252,18 +252,15 @@ So in short to play Reaper you do the following:
 
 Lastly, there are still a few questions we have that need to be answered in order for us to get a full picture of all that Reaper has to offer:
 
-* Can Gluttony allow you to stack up to 3 Sickles.
-* The test would be to use Stalksway or any of the claws then follow up with Gluttony and see if you have 3 Sickles
-* What is the damage delay on Harpe.
-* We are looking to see if it has a 1s~ish damage delay that would allow for pre pull Harpe without much damage loss
-* Potencies and tooltips on the four abilities that change when you click Lemure’s Shadow
-* We are looking for potencies and positional requirements
-* EN Names of the abilities
+* Can Gluttony allow you to stack up to 3 Sickles? The test would be to use Stalksway or any of the claws then follow up with Gluttony and see if you have 3 Sickles
+* What is the damage delay on Harpe? We are looking to see if it has a 1s~ish damage delay that would allow for pre pull Harpe without much damage loss
+* Potencies and tooltips on the four abilities that change when you click Lemure’s Shadow? We are looking for potencies and positional requirements
+* EN Names of the abilities?
 * Can you actually use Shadow of Death during Lemure’s Shroud when EW goes live, or during the Media Tour?
-* What else can you use during Lemure’s Shroud, oGCDs and potions etc
+* What else can you use during Lemure’s Shroud, oGCDs and potions?
 * Tooltip for Shadow of Death
 * Tooltip for Gallow Claw
 * List of traits and their tooltips
 * Animation delay on Egress abilities
-* NA tooltips for every ability would honestly be appreciated
+* NA tooltips for every ability
 * Does Shadow of Death break combo?
