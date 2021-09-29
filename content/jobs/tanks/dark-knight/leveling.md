@@ -10,13 +10,9 @@ While this guide is not intended as a complete resource for tanking in dungeons,
 # General Tips
 
 * Keep Grit active at all times in dungeons. This multiplies all of your enmity generation by ten, allowing you to keep the attention of enemies you damage. Entering a duty which syncs your level down will toggle Grit off if it was already on, so make sure the icon is present in your list of buffs before proceeding.
-
 * Unless you are engaging a single enemy, make sure to grab the attention of all enemies you plan to fight at once. Even if there are only a couple enemies present, or if one enemy needs to be singled out to kill first, it's usually best to hit a couple AoE actions to firmly establish threat on everything before switching to single-target.
-
 * Rotate through your defensive cooldowns. Large groups of "trash" mobs usually deal significantly more damage than bosses do, so don't be afraid to use all of your mitigation to get through a pull. In addition to Rampart, Shadow Wall, and The Blackest Night, remember to cycle through Reprisal and Arm's Length in your defensive rotation. Note that "slow" in the description of Arm's Length means an attack speed reduction ("heavy" is a movement speed reduction), so it will inflict a significant debuff to all mobs which attack you. Note that this is ineffective on almost all bosses.
-
 * Try to keep moving until you have gathered up all the enemies you wish to pull at once, and then stay in one spot until they are all dead. Many jobs have ground-targeted AoE abilities which will heal you or damage enemies and which cannot be moved after being placed. Players also regenerate HP and mana much more quickly while not in combat, so bringing stragglers over to the next group can potentially cause your healer to run out of mana.
-
 * Don't be afraid to pull more than one group at once. Even in very low-level dungeons, your AoE damage output is quite high and can make up for some party members lacking AoE actions entirely. Healing actions are also relatively strong at low levels, so it takes an extremely large group of enemies to outpace your healer's ability.
 
 # Skill Usage
@@ -27,8 +23,7 @@ Dark Knight's leveling rotation is fairly straightforward, but it does evolve a 
 
 Dark Knight starts at level 30, but you can still get synced down below this for some duties. At very low levels, your priority is:
 
-* Single-target combo (Hard Slash->Syphon Strike) on single targets.
-
+* Single-target combo (Hard Slash -> Syphon Strike) on single targets.
 * Unleash on 2+ targets.
 
 #### Level 26
@@ -36,7 +31,6 @@ Dark Knight starts at level 30, but you can still get synced down below this for
 New action: Souleater. This completes your single-target combo with additional damage and healing. This changes your priority slightly:
 
 * Souleater Combo ("SE Combo") on one or two targets.
-
 * Unleash on 3+ targets.
 
 #### Level 30
@@ -44,9 +38,7 @@ New action: Souleater. This completes your single-target combo with additional d
 New action: Flood of Darkness. This provides additional AoE damage and grants Darkside, which will buff all of your damage by 10%. Don't be afraid to spend your mana at the start of a pull; while your natural regeneration won't quite keep pace while spamming Unleash, you would need to stay in combat for an extraordinary length of time to actually drop Darkside.
 
 * SE Combo on one or two targets.
-
 * Unleash on 3+ targets.
-
 * Flood on one or more targets.
 
 #### Level 35
@@ -54,9 +46,7 @@ New action: Flood of Darkness. This provides additional AoE damage and grants Da
 New action: Blood Weapon. Because your AoE combo GCDs (at this point, only Unleash) have a fixed 2.50-second cast time, it isn't feasible to get the typical five GCDs under the buff. However, it is usually not worth it to hold Blood Weapon for a five GCD single-target window; just use it on cooldown during pulls.
 
 * SE Combo on one or two targets.
-
 * Unleash on 3+ targets.
-
 * Flood on one or more targets.
 
 #### Level 40
@@ -64,11 +54,8 @@ New action: Blood Weapon. Because your AoE combo GCDs (at this point, only Unlea
 New action: Edge of Darkness. This is a single-target version of Flood. Because it offers less total potency than a multi-target Flood, it should only be used where you wouldn't otherwise be able to hit two or more enemies with Flood.
 
 * SE Combo on one or two targets.
-
 * Unleash on 3+ targets.
-
 * Edge on one target.
-
 * Flood on two or more targets.
 
 #### Level 56
@@ -76,25 +63,20 @@ New action: Edge of Darkness. This is a single-target version of Flood. Because 
 New action: Abyssal Drain. This offers some extra single-target damage, as well as a flat potency worth of healing for every target hit. While the damage is nice, it is best used in trash pulls for the healing effect. In very large pulls, it can restore quite a significant chunk of HP and potentially allow your healer to cast multiple extra damaging GCDs.
 
 * SE Combo on one or two targets.
-
 * Unleash on 3+ targets.
-
 * Edge on one target.
-
 * Flood on two or more targets.
 
 #### Level 62
 
-New action: Bloodspiller. While you unlocked your AoE mana spender before the single-target version, the reverse is true for your blood spenders. Bloodspiller does quite a bit of damage, will not break your combo, and is worth using even in smaller multi-target situations. Blood Weapon will also now grant blood per successful GCD.
+New action: Bloodspiller. While you unlocked your AoE mana spender before the single-target version, the reverse is true for your Blood spenders. Bloodspiller does quite a bit of damage, will not break your combo, and is worth using even in smaller multi-target situations. Blood Weapon will also now grant blood per successful GCD.
 
 * SE Combo on one or two targets.
-
 * Unleash on 3+ targets.
 
  Edge on one target.
 
 * Flood on two or more targets.
-
 * Bloodspiller on 1-3 targets.
 
 #### Level 64
@@ -102,15 +84,10 @@ New action: Bloodspiller. While you unlocked your AoE mana spender before the si
 New action: Quietus. The AoE version of Bloodspiller. Unlike Flood, Quietus takes three targets to deal more total potency than its single-target variant.
 
 * SE Combo on one or two targets.
-
 * Unleash on 3+ targets.
-
 * Edge on one target.
-
 * Flood on two or more targets.
-
 * Bloodspiller on one or two targets.
-
 * Quietus on 3+ targets.
 
 #### Level 68
@@ -118,15 +95,10 @@ New action: Quietus. The AoE version of Bloodspiller. Unlike Flood, Quietus take
 New action: Delirium. It is possible to get five GCD Blood Weapon windows even in AoE situations by using Blood Weapon after your first Quietus under Delirium. However, you should not hold Blood Weapon for these opportunities, as getting four GCDs of Blood Weapon every minute is still better than getting five GCDs of Blood Weapon every 90 seconds.
 
 * SE Combo on one or two targets.
-
 * Unleash on 3+ targets.
-
 * Edge on one target.
-
 * Flood on two or more targets.
-
 * Bloodspiller on one or two targets.
-
 * Quietus on 3+ targets.
 
 #### Level 70+
@@ -149,7 +121,7 @@ New action: The Blackest Night ("TBN"). While Dark Knight can feel a bit squishy
 
 New action: Stalwart Soul. This is the second hit of your AoE combo, and yes, that's a gap of 57 levels in between. Stalwart Soul will ramp up your mana generation enough to use TBN on cooldown with a little bit of surplus. Feel free to dump mana at the start of a pull before reverting to the priority system of spending all your mana on TBN and only using the free Floods that your broken TBNs grant.
 
-Stalwart Soul can also opens up a more advanced technique for getting five GCD Blood Weapon windows outside of Delirium by banking 100 blood and using Unleash->Blood Weapon->Quietus->Quietus->Stalwart Soul->Quietus->Unleash.
+Stalwart Soul can also opens up a more advanced technique for getting five GCD Blood Weapon windows outside of Delirium by banking 100 blood and using Unleash -> Blood Weapon -> Quietus -> Quietus -> Stalwart Soul-> Quietus->Unleash.
 
 \- SE Combo on one or two targets.
 
