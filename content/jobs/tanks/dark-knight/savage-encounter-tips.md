@@ -72,9 +72,11 @@ At the Right of the Heavens just before Prismatic Deception, it is possible to s
 
 You will gain about 200 mana during Shifting Sky, 2200 during Sundered Sky, and 3200 during Prismatic Deception, so plan accordingly.
 
-# E12S-1
+# E12S Phase 1
 
-# E12S-2
+Dark Missionary can cover both the Diamond Dust casts and the light party stack markers if used late in the cast. It can also cover both the background laser and the following Maleficium just before the Classical Sculptures.
+
+# E12S Phase 2
 
 Remember to hold your 60-second cooldowns, including Blood Weapon, until after the Darkest Dance knockback early on in the fight.
 
@@ -85,3 +87,5 @@ It is possible to hit a GCD as you are knocked through the boss during Basic Rel
 Hold your third Delirium use to align with Trick Attack, and/or to avoid losing hits as the boss jumps for Darkest Dance. You can afford to drift Delirium by about 20 seconds total before Advanced Relativity.
 
 Do *not* precast Living Shadow at Intermediate Relativity, as the stun will last past its startup phase and cause it to lose attacks.
+
+You will gain about 2600 mana during Advanced Relativity, so plan accordingly.
