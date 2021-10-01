@@ -113,7 +113,7 @@ Don't get discouraged at the number on your FFLogs page after clearing. UCoB ran
 
 ## Gearing
 
-For level 70 Ultimates, a full set of synced gear with Critical Hit + Determination and enough pieces with Critical Hit + Skill Speed to hit your desired GCD tier is more than sufficient. All pieces of item level 470 or higher will max out both substats in UCoB. Gear from the Ghimlyt Dark dungeon matches the item level sync and may provide a small boost. The last and second-to-last steps of your Bozjan Resistance weapon can be configured to max out the benefits of three out of four substats in UWU and will provide a very significant boost. The maximum sync value for weapons is 318 in each substat.
+For level 70 Ultimates, a full set of synced gear with Critical Hit + Determination and enough pieces with Critical Hit + Skill Speed to hit your desired GCD tier is more than sufficient. All pieces of item level 470 or higher will max out both substats in UWU. Gear from the Ghimlyt Dark dungeon matches the item level sync and may provide a small boost. The last and second-to-last steps of your Bozjan Resistance weapon can be configured to max out the benefits of three out of four substats in UWU and will provide a very significant boost. The maximum sync value for weapons is 318 in each substat.
 
 Use the most current food available. Any grade Tincture of Strength will grant the maximum benefit in UWU. 
 
@@ -135,9 +135,9 @@ Note that it is impossible to provide a full map of each burst window because it
 
 Your opener should be similar to the level 80 opener with a few key adjustments. The main considerations are a very early Plunge, delayed Blood Weapon due to lack of Living Shadow, and delayed Abyssal Drain and Salted Earth to take advantage of plumes. An example MT opener is listed below: 
 
-![](https://cdn.discordapp.com/attachments/583964695266983944/890665917325918408/unknown.png)
+![](https://cdn.discordapp.com/attachments/887985754687565855/893323507570704494/unknown.png)
 
-Plunge pulling is recommended, but Unmend, and facepull openers are also viable. The most important consideration is which one best allows both you and your fellow melee players to keep your GCDs rolling, as Garuda's small size and rapid movement can easily eat your inputs. Consider as well whether you gain a use of Plunge overall, versus holding it for raidbuffs. The Tincture of Strength, Rampart, and Salted Earth uses are timed so that they will be active while Plumes are out and expire before Garuda jumps away.
+Plunge pulling is recommended, but Unmend, and facepull openers are also viable. The most important consideration is which one best allows both you and your fellow melee players to keep your GCDs rolling, as Garuda's small size and rapid movement can easily eat your inputs. Consider as well whether you gain a use of Plunge overall, versus holding it for raidbuffs. The Rampart and Salted Earth uses are timed so that they will be active while Plumes are out and expire before Garuda jumps away.
 
 The very early Plunge use allows a second use before Garuda jumps away after the first set of Plumes. This then allows the third use to occur before she jumps away after Frictions, which in turn allows you to Plunge back onto the boss after blocking one of the double Mistral Songs.
 
@@ -267,7 +267,7 @@ Note the position of Abyssal Drain and Living Shadow; Abyssal is held for two-ta
 
 You can opt to pull with Unmend instead. If you do so, replace the last two hits of the Souleater combo with a Stalwart Soul combo. You will also need to use prepull Blood Weapon, as weaving Edge->Blood Weapon after Unmend without clipping is not feasible. The use of a spell with fixed 2.50-second recast time makes this Blood Weapon window somewhat tighter, but it is still consistently doable.
 
-Briefly taking aggro on both bosses to use invulns on a double Fluid Swing plus additonal autoa-ttacks has very high value. With fast killtimes, using invulns in such a way may cause you to be unable to use them in Phase 3, but the tradeoff is almost always worth it.
+Briefly taking aggro on both bosses to use invulns on a double Fluid Swing plus additional auto-attacks has very high value. With fast killtimes, using invulns in such a way may cause you to be unable to use them in Phase 3, but the tradeoff is almost always worth it. If invulning the first set, you can Arm's Length the baited conal AoE at the cost of not having it available for Limit Cut.
 
 Note that if you do use Living Dead for a set of Fluid Swings, you will probably need to use TBN on yourself directly afterward because Hand of Pain ignores invulnerability.
 
@@ -353,7 +353,7 @@ These images have the minimum substat allocations to hit every possible substat 
 
 #### 2.40
 
-![](https://cdn.discordapp.com/attachments/277962421862268930/847947729144512553/unknown.png)
+![](https://cdn.discordapp.com/attachments/583964695266983944/892932394116608040/unknown.png)
 
 #### 2.38
 
