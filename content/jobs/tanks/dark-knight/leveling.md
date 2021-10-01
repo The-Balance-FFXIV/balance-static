@@ -125,7 +125,6 @@ Stalwart Soul can also opens up a more advanced technique for getting five GCD B
 * Bloodspiller on one or two targets.
 * Quietus on 3+ targets.
 
-
 #### Level 80
 
 New action: Living Shadow. Because of Living Shadow's extremely high potency per hit, it is superior to any other form of blood expenditure if it can get a single hit off against 2+ targets, or two hits versus a single target. The only reason to hold it is if you can get a more efficient usage in the near future.
@@ -135,6 +134,5 @@ New action: Living Shadow. Because of Living Shadow's extremely high potency per
 * Edge on one target.
 * Flood on two or more targets.
 * Bloodspiller on one or two targets.
-* Quietus on 3+ targets.
-﻿* Living Shadow on one or more targets.
-Living Shadow on one or more targets.
+* Quietus on 3+ targets. ﻿
+* Living Shadow on one or more targets.
