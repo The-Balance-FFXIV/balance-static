@@ -74,15 +74,14 @@ You will gain about 200 mana during Shifting Sky, 2200 during Sundered Sky, and 
 
 # E12S-1
 
-
-
 # E12S-2
 
 Remember to hold your 60-second cooldowns, including Blood Weapon, until after the Darkest Dance knockback early on in the fight.
 
-Ov
+Allow yourself to overcap 10 blood before the Basic Relativity stun. This lets you finish your last Souleater combo and get an extra Unmend as you run out to bait your hourglass. It also allows you to precast Living Shadow, which will will be stunned during its startup animation but will not lose any attacks because of the short duration.
 
-* LS at basic downtime (when hourglass explodes), may overcap 10 blood but it's worth
-* Mash GCD during Basic
-* Either use plunge after 3rd gcd absolute latest or do superior walk in really quickly strat https://streamable.com/w1obs4
-* Delirium can drift around 20s, delay third use for trick or just after apoc jumps
+It is possible to hit a GCD as you are knocked through the boss during Basic Relativity. Use Plunge by the third GCD at the latest in order to use it again to follow the boss during Singular Apocalypse.
+
+Hold your third Delirium use to align with Trick Attack, and/or to avoid losing hits as the boss jumps for Darkest Dance. You can afford to drift Delirium by about 20 seconds total before Advanced Relativity.
+
+Do *not* precast Living Shadow at Intermediate Relativity, as the stun will last past its startup phase and cause it to lose attacks.
