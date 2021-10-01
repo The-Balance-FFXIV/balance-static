@@ -17,10 +17,10 @@ All four of these AoEs are magical with absolute maximum damage rolls of approxi
 
 At BiS, a non-exhaustive list of safe combinations for Anti-Air include TBN plus: 
 
-*  20%+10%+10%+10%
-*  20%+20%+10%
-*  30%+10%+10%
-*  30%+15%
+* 20%+10%+10%+10%
+* 20%+20%+10%
+* 30%+10%+10%
+* 30%+15%
 
 (41.7%, 42.4%, 43.3%, and 40.5% total mitigation, respectively) 
 
@@ -44,95 +44,44 @@ Your second use of Delirium will occur during the first Phaser mechanic. If you 
 
 The first hit of Anti-Air can be zeroed out as detailed above. Note that you may not have room to do this, depending on the strategy; either both tanks must stack together and invuln the circular tankbusters, or both party stacks need to be in the same corner so that the tanks can take the center and the opposite corner. A PLD cotank may also be able to give you room if their Requiescat window lines up with the mechanic.
 
-Using Rampart as the large circle AoE indicators flash after brambles will allow it to last through the following Phaser while also 
-
-
-
-
-
-The major concern for this encounter is the possible downtime caused by Wide-Angle and Anti-Air Phasers. If you aren't confident in being able to perfectly roll your GCD while avoiding the boss-centered AoE at the end of Wide-Angle Phaser, you can try moving Delirium forward or back by one GCD in your opener so that the second use comes after a full Souleater combo and the last hit finishes before running out.
-
-You can easily keep full uptime during Anti-Air Phaser by taking zero damage from the first boss-centered AoE. This AoE deals about 89k magic damage on a maximum roll; at BiS, this means TBN plus at least 40% total mitigation without Echo or 32% mitigation with Echo. Combinations for the former include 20%+20%+10%, 30%+20%, and 30%+10%+10%. Combinations for the latter include 
-
-
-
-. A non-exhaustive list of 
-
-
-
-hit. This 
-
-
-
-
-
-can easily bebe taken with no downtime by taking zero damage
-
-it 
-
-
-
- Moving Delirium forward or back by one GCD in your opener can line it up so that your second use  
-
-
-
-mitigating the downtime 
-
-\- 3rd gcd delirium to line up with wide angle
-
-\- use cover if pld exists
-
-\- rampart at bramble flash and it will cover phaser + be up for buster
-
-All three of these AoEs are magical with absolute maximum damage rolls of approximately 89k, 78k, 80k, and 81k, respectively. As the damage downs associated with these mechanics will only apply when you take damage to your HP bar, you can negate them by absorbing the entire hit with a shield.
-
-At BiS, a non-exhaustive list of safe combinations for Anti-Air include TBN plus: 20%+10%+10%+10% or 20%+20%+10% or 30%+10%+10% or 30%+15% (41.7%, 42.4%, 43.3%, and 40.5% total mitigation, respectively) 
-
-Safe combinations for Throne of Shadow and Turn of the Heavens include: 20%+10%+10% or 20%+20% (20%+15% also works for Throne only) or 30%+10% (35.2%, 36%/32%, and 37% total mitigation, respectively)
-
- If you are not BiS but your max HP is around 200k or higher, you can add an extra source of 10% or swap out one of the listed mitigations with one of a higher tier (20% instead of 10/15%, or 30% instead of 20%).
-
-Zeroing these AoEs out with less than 200k HP requires even more investment and is likely not worth it. Note that all of these combinations err on the side of safety. You will very often avoid a damage down with less mitigation, but that doesn't mean you're safe from a max damage roll. Your TBN should naturally break from the followup tankbuster or protean after Anti-Air Phaser and Turn of the Heavens, respectively; you must have aggro in order for your TBN to break after Throne of Shadow.
-
-The AoE at the end of Wide Angle Phaser seems identical to the one at the start of Anti-Air, but hits significantly harder (close to 110k max) and trying to zero it out is not recommended. Using Rampart when the large AoE circles flash at first brambles in E9S will allow it to last through the first phaser and be up again for the tankbuster after the second phaser if applicable. Using your mitigation late in E10S and E11S will allow it to cover the following tankbusters. 
+Using Rampart as the large circle AoE indicators flash after brambles will allow it to last through the following Phaser while also being available to use again for the Devouring Dark at the end of the phase.
 
 # E10S
 
-\- unmend may gain a gcd
+Throne of Shadow can be zeroed out for uptime, as detailed above. If you do so, use your mitigation late so that it lasts through the following Umbra Smash.
 
-\- zero out standups
+If you are not planning to zero out the first Throne of Shadow, pulling with Unmend may gain a GCD in the phase. Do this if you aren't confident on getting the last Souleater as the boss stands up.
 
-\- you can kitchen sink the stack
+Darkness Unleashed (the possible stack mechanic following Umbra Smash) can be taken solo by using most or all of your mitigation. Ask your healers if they would prefer this versus having to heal the whole raid.
 
-\- for shadow cleaver stay melee and run through the boss
+For Shadow Cleave, instead of disengaging to place your clone far away from the boss, you can instead stay at melee range and then run through to the opposite side of the hitbox to avoid being targeted by your own clone.
 
 # E11S
 
-\- Facepull opener is a MUST
+Pulling without Unmend is highly recommended, as your second Living Shadow will just barely finish before the first intermission. Any delay will ensure that the last hit gets ghosted or completely lost. At 2.43 GCD, this may happen regardless.
 
-\- Can very early plunge for first burnt strike thunder
+A very early plunge will enable it to be used to re-engage after a Lightning Burnt Strike if desired.
 
-\- Rampart covers both hits of Powder Mark, can TBN twice as well
+TBN can be used for both hits of Powder Mark if used just before or at the start of the cast. Rampart will cover both hits if used late in the cast.
 
-\- Uptime powder mark stuff
+If buffs are delayed to 4:30, open with a prepull potion and early Delirium. You will also need to use an extra Edge of Shadow out of buffs to keep Darkside active.
 
-\- Delirium timings vs killtime
+Use Delirium on the third GCD after Sundered Sky at the latest to finish the following use before Prismatic Deception. This Delirium should be used if your totall killtime will fall between 9:40~10:45, or longer than 11:15. Otherwise, it can be held to use directly after Prismatic for better alignment with raidbuffs.
 
-\- Check mana gen at downtimes
+At the Right of the Heavens just before Prismatic Deception, it is possible to stand opposite the party stack and run through the boss after Powder Mark snapshots. The timing on this is quite tight.
+
+You will gain about 200 mana during Shifting Sky, 2200 during Sundered Sky, and 3200 during Prismatic Deception, so plan accordingly.
 
 # E12S-1
 
-\- Shiva uptime stuff
+
 
 # E12S-2
 
-\- Hold third delirium like 10 seconds for Trick
+Remember to hold your 60-second cooldowns, including Blood Weapon, until after the Darkest Dance knockback early on in the fight.
 
+Ov
 
-
-
-
-* First BW after knockback
 * LS at basic downtime (when hourglass explodes), may overcap 10 blood but it's worth
 * Mash GCD during Basic
 * Either use plunge after 3rd gcd absolute latest or do superior walk in really quickly strat https://streamable.com/w1obs4
