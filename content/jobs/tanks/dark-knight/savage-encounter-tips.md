@@ -84,7 +84,7 @@ Dark Missionary can cover both the Diamond Dust casts and the light party stack 
 
 Remember to hold your 60-second cooldowns, including Blood Weapon, until after the Darkest Dance knockback early on in the fight.
 
-Allow yourself to overcap 10 blood before the Basic Relativity stun. This lets you finish your last Souleater combo and get an extra Unmend as you run out to bait your hourglass. It also allows you to precast Living Shadow, which will will be stunned during its startup animation but will not lose any attacks because of the short duration.
+Allow yourself to overcap 10 Blood before the Basic Relativity stun. This lets you finish your last Souleater combo and get an extra Unmend as you run out to bait your hourglass. It also allows you to precast Living Shadow, which will will be stunned during its startup animation but will not lose any attacks because of the short duration.
 
 It is possible to hit a GCD as you are knocked through the boss during Basic Relativity. Use Plunge by the third GCD at the latest in order to use it again to follow the boss during Singular Apocalypse.
 
