@@ -3,7 +3,7 @@ title: Savage Encounter Tips
 ---
 # General Tips
 
-Eden's Promise features a number of mechanics that apply damage down on failure, with failure determined as the mechanic causing damage to your HP bar. Because of this condition, it is possible to negate the damage downs by absorbing the entire hit with a shield such as TBN.
+Eden's Promise features a number of mechanics that apply damage down on failure, with failure determined as the mechanic causing damage to your HP bar. Because of this condition, it is possible to negate the damage downs by absorbing the entire hit with a shield, such as TBN.
 
 The mechanics where this is most commonly useful are:
 
@@ -17,10 +17,10 @@ All four of these AoEs are magical with absolute maximum damage rolls of approxi
 
 At BiS, a non-exhaustive list of safe combinations for Anti-Air include TBN plus: 
 
-* 20%+10%+10%+10%
-* 20%+20%+10%
-* 30%+10%+10%
-* 30%+15%
+* 20% + 10% + 10% + 10%
+* 20% + 20% + 10% 
+* 30% + 10% + 10%
+* 30% + 15% 
 
 (41.7%, 42.4%, 43.3%, and 40.5% total mitigation, respectively) 
 
@@ -32,7 +32,7 @@ Safe combinations for Throne of Shadow, Turn of the Heavens, and Burnout include
 
 (35.2%, 36%/32%, and 37% total mitigation, respectively)
 
- If you are not BiS but your max HP is around 200k or higher, you can add an extra source of 10% or swap out one of the listed mitigations with one of a higher tier (20% instead of 10/15%, or 30% instead of 20%). If you are running with the Echo enabled, you can do the reverse operation, removing one source of 10% mitigation or downgrading one mitigation to the next-lowest tier.
+If you are not BiS, but your max HP is around 200k or higher, you can add an extra source of 10% or swap out one of the listed mitigations with one of a higher tier (20% instead of 10/15%, or 30% instead of 20%). If you are running with the Echo enabled, you can do the reverse operation, removing one source of 10% mitigation or downgrading one mitigation to the next-lowest tier.
 
 Zeroing these AoEs out with less than 200k HP requires even more investment and is likely not worth it. Note that all of these combinations err on the side of safety. You will very often avoid a damage down with less mitigation, but that doesn't mean you're safe from a max damage roll. Your TBN should naturally break from the follow-up tankbuster or Protean after Anti-Air Phaser and Turn of the Heavens, respectively; you must have aggro in order for your TBN to break after Throne of Shadow and Burnout via auto-attacks.
 
@@ -72,11 +72,15 @@ At the Right of the Heavens just before Prismatic Deception, it is possible to s
 
 You will gain about 200 mana during Shifting Sky, 2200 during Sundered Sky, and 3200 during Prismatic Deception, so plan accordingly.
 
-# E12S Phase 1
+
+
+# E12S - Eden's Promise
 
 Dark Missionary can cover both the Diamond Dust casts and the light party stack markers if used late in the cast. It can also cover both the background laser and the following Maleficium just before the Classical Sculptures.
 
-# E12S Phase 2
+
+
+# E12S - Oracle of Darkness
 
 Remember to hold your 60-second cooldowns, including Blood Weapon, until after the Darkest Dance knockback early on in the fight.
 
