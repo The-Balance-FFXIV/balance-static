@@ -3,7 +3,7 @@ title: Savage Encounter Tips
 ---
 # General Tips
 
-Eden's Promise features a number of mechanics that apply damage down on failure, as determined by causing damage to your HP bar. Because of this condition, it is possible to negate the damage downs by absorbing the entire hit with a shield such as TBN.
+Eden's Promise features a number of mechanics that apply damage down on failure, with failure determined as the mechanic causing damage to your HP bar. Because of this condition, it is possible to negate the damage downs by absorbing the entire hit with a shield such as TBN.
 
 The mechanics where this is most commonly useful are:
 
@@ -34,7 +34,7 @@ Safe combinations for Throne of Shadow, Turn of the Heavens, and Burnout include
 
  If you are not BiS but your max HP is around 200k or higher, you can add an extra source of 10% or swap out one of the listed mitigations with one of a higher tier (20% instead of 10/15%, or 30% instead of 20%). If you are running with the Echo enabled, you can do the reverse operation, removing one source of 10% mitigation or downgrading one mitigation to the next-lowest tier.
 
-Zeroing these AoEs out with less than 200k HP requires even more investment and is likely not worth it. Note that all of these combinations err on the side of safety. You will very often avoid a damage down with less mitigation, but that doesn't mean you're safe from a max damage roll. Your TBN should naturally break from the followup tankbuster or protean after Anti-Air Phaser and Turn of the Heavens, respectively; you must have aggro in order for your TBN to break after Throne of Shadow and Burnout via auto-attacks.
+Zeroing these AoEs out with less than 200k HP requires even more investment and is likely not worth it. Note that all of these combinations err on the side of safety. You will very often avoid a damage down with less mitigation, but that doesn't mean you're safe from a max damage roll. Your TBN should naturally break from the follow-up tankbuster or Protean after Anti-Air Phaser and Turn of the Heavens, respectively; you must have aggro in order for your TBN to break after Throne of Shadow and Burnout via auto-attacks.
 
 The AoE at the end of Wide Angle Phaser seems identical to the one at the start of Anti-Air, but hits significantly harder (close to 110k max) and trying to zero it out is not recommended. Cataclysm ("Apoc jump") in Phase 2 of E12S can also be zeroed out, but there is no followup damage and the lost Edge of Shadow will more than outweigh any uptime gained. 
 
@@ -42,7 +42,7 @@ The AoE at the end of Wide Angle Phaser seems identical to the one at the start 
 
 Your second use of Delirium will occur during the first Phaser mechanic. If you aren't confident in perfectly rolling your GCD here, you can shift Delirium forward or backward by one GCD in your opener so that this use occurs after a completed Souleater combo and finishes before the final boss-centered AoE hits.
 
-The first hit of Anti-Air can be zeroed out as detailed above. Note that you may not have room to do this, depending on the strategy; either both tanks must stack together and invuln the circular tankbusters, or both party stacks need to be in the same corner so that the tanks can take the center and the opposite corner. A PLD cotank may also be able to give you room if their Requiescat window lines up with the mechanic.
+The first hit of Anti-Air can be zeroed out as detailed above. Note that you may not have room to do this, depending on the strategy; either both tanks must stack together and invuln the circular tankbusters, or both party stacks need to be in the same corner so that the tanks can take the center and the opposite corner. A PLD co-tank may also be able to give you room if their Requiescat window lines up with the mechanic.
 
 Using Rampart as the large circle AoE indicators flash after brambles will allow it to last through the following Phaser while also being available to use again for the Devouring Dark at the end of the phase.
 
@@ -66,7 +66,7 @@ TBN can be used for both hits of Powder Mark if used just before or at the start
 
 If buffs are delayed to 4:30, open with a prepull potion and early Delirium. You will also need to use an extra Edge of Shadow out of buffs to keep Darkside active.
 
-Use Delirium on the third GCD after Sundered Sky at the latest to finish the following use before Prismatic Deception. This Delirium should be used if your totall killtime will fall between 9:40~10:45, or longer than 11:15. Otherwise, it can be held to use directly after Prismatic for better alignment with raidbuffs.
+Use Delirium on the 3rd GCD after Sundered Sky at the latest to finish the following use before Prismatic Deception. This Delirium should be used if your total killtime will fall between 9:40~10:45, or longer than 11:15. Otherwise, it can be held to use directly after Prismatic for better alignment with raid buffs.
 
 At the Right of the Heavens just before Prismatic Deception, it is possible to stand opposite the party stack and run through the boss after Powder Mark snapshots. The timing on this is quite tight.
 
