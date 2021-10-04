@@ -36,7 +36,7 @@ If you are not BiS, but your max HP is around 200k or higher, you can add an ext
 
 Zeroing these AoEs out with less than 200k HP requires even more investment and is likely not worth it. Note that all of these combinations err on the side of safety. You will very often avoid a damage down with less mitigation, but that doesn't mean you're safe from a max damage roll. Your TBN should naturally break from the follow-up tankbuster or Protean after Anti-Air Phaser and Turn of the Heavens, respectively; you must have aggro in order for your TBN to break after Throne of Shadow and Burnout via auto-attacks.
 
-The AoE at the end of Wide Angle Phaser seems identical to the one at the start of Anti-Air, but hits significantly harder (close to 110k max) and trying to zero it out is not recommended. Cataclysm ("Apoc jump") in Phase 2 of E12S can also be zeroed out, but there is no followup damage and the lost Edge of Shadow will more than outweigh any uptime gained. 
+The AoE at the end of Wide Angle Phaser seems identical to the one at the start of Anti-Air, but hits significantly harder (close to 110k max) and trying to zero it out is not recommended. Cataclysm ("Apoc jump") in Phase 2 of E12S can also be zeroed out, but there is no follow-up damage and the lost Edge of Shadow will more than outweigh any uptime gained. 
 
 # E9S
 
