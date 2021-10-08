@@ -1,7 +1,7 @@
 ---
-title: Levelling Guide
+title: Levellig Guide
 ---
-# LEVEL 1-3:
+# Level 1-3:
 
 Spam Spinning Edge.
 
@@ -11,7 +11,9 @@ Spinning Edge into Gust Slash, since it combos.
 
 # LEVEL 15-25:
 
-Spinning Edge into Gust Slash since it combos, and use Mug on cooldown, and use Hide into Trick Attack when starting new fights which allow you to start Hidden.\
+Spinning Edge into Gust Slash since it combos, and use Mug on cooldown, and use Hide into Trick Attack when starting new fights which allow you to start Hidden.
+
+\
 Hide does not work to start bosses with Trick Attack because a vast majority of bosses will take you out of Hide before you get in range to use Trick Attack.
 
 # LEVEL 26-29:
@@ -30,9 +32,9 @@ At level 38 you gain access to Death Blossom, which should only be used on fight
 
 # LEVEL 45-49:
 
-At level 45 you gain access to your third and last mudra, Jin. At this point you want to make sure you always have the Huton buff going, which is given by using Jin>Chi>Ten or Chi>Jin>Ten. By using Suiton, which you do using Ten>Chi>Jin or Chi>Ten>Jin, you gain access to using Trick Attack while in combat. This is important mainly for fights with one and two targets.\
+At level 45 you gain access to your third and last mudra, Jin. At this point you want to make sure you always have the Huton buff going, which is given by using Jin > Chi > Ten or Chi > Jin > Ten. By using Suiton, which you do using Ten > Chi>  Jin or Chi > Ten > Jin, you gain access to using Trick Attack while in combat. This is important mainly for fights with one and two targets.\
 \
-Another ninjutsu that you gain access to is Doton, which is achieved by using Jin>Ten>Chi or Ten>Jin>Chi. This is a ground-placed aoe that lasts 24 seconds. This is mainly used for any multitarget fight. You want to keep one of these up consistently in any multi-target fight, without losing your Huton buff and without overriding your previous Doton.\
+Another ninjutsu that you gain access to is Doton, which is achieved by using Jin > Ten > Chi or Ten > Jin > Chi. This is a ground-placed AoE that lasts 24 seconds. This is mainly used for any multitarget fight. You want to keep one of these up consistently in any multi-target fight, without losing your Huton buff and without overriding your previous Doton.\
 \
 Any extra mudra usages you may get on top of that should be used on Suiton if two target for Trick Attack, or Katon if Trick Attack isn't available for a two target fight, and anytime it's a three or more target fight.
 
@@ -40,7 +42,7 @@ Any extra mudra usages you may get on top of that should be used on Suiton if tw
 
 At level 50, you gain access to Kassatsu which grants you an extra mudra stack that will do extra damage. This should always be used on either Raiton for single-target, or Doton for multi-target, until level 76 when it gets upgraded.\
 \
-At 52, you gain access to Hakke Mujinsatsu, which is a second hit in your aoe combo, so use this comboed with Death Blossom in fights with 3 or more targets.
+At 52, you gain access to Hakke Mujinsatsu, which is a second hit in your AoE combo, so use this comboed with Death Blossom in fights with three or more targets.
 
 # LEVEL 54-61:
 
@@ -52,17 +54,17 @@ At 56 you gain access to another ability called Dream Within a Dream, which is j
 
 At 62 you gain a trait called Shukiho I which allows you to gain Ninki off of your combo skills. This Ninki will be used on only Hellfrog Medium at level 62, and also Bhavacakra at level 68. These should be used when possible, preferably within Trick Attack, but not overcapping to do that. Until you get Bhavacakra, just use it on Hellfrog, but once Bhavacakra is unlocked, you should only use Bhavacakra if its a single target fight, and only Hellfrog when it is a multi-target fight.\
 \
-At level 66 you gain the trait Enhanced Mug which makes your mug give you 40 Ninki in addition to what it already did.
+At level 66, you gain the trait Enhanced Mug which makes your Mug give you 40 Ninki in addition to what it already did.
 
 # LEVEL 70-71:
 
-At level 70, you unlock the ability called Ten Chi Jin. This is an ability that lets you combine a 1-mudra ninjutsu, straight into a 2-mudra ninjutsu, straight into a 3-mudra ninjutsu. This skill will remember your mudras used each time, so you have to make a correct combination through all 3 mudras. You cannot move while doing this, or it will be cancelled. For now, this should be used to set up your Trick Attacks when possible by doing Ten>Chi>Jin in single target fights.
+At level 70, you unlock the ability called Ten Chi Jin. This is an ability that lets you combine a 1-mudra ninjutsu, straight into a 2-mudra ninjutsu, straight into a 3-mudra ninjutsu. This skill will remember your mudras used each time, so you have to make a correct combination through all three mudras. You cannot move while doing this, or it will be cancelled. For now, this should be used to set up your Trick Attacks when possible by doing Ten > Chi > Jin in single target fights.
 
 \
-In two target fights or multi-target fights with a priority target that you want to put Trick Attack on, you want to Chi>Ten>Jin to switch the Raiton that the first combination would give you, into a Katon, while keeping the ending Suiton to set up Trick Attack.
+In two target fights or multi-target fights with a priority target that you want to put Trick Attack on, you want to Chi > Ten > Jin to switch the Raiton that the first combination would give you, into a Katon, while keeping the ending Suiton to set up Trick Attack.
 
 \
-At 3 targets or more, or if you have a 2-target fight without using Trick Attack, you want to use the combination Jin>Ten>Chi so that it keeps the Katon second, and gives you a Doton at the end.
+At three targets or more, or if you have a 2-target fight without using Trick Attack, you want to use the combination Jin > Ten > Chi so that it keeps the Katon second, and gives you a Doton at the end.
 
 This is the level 70 opener:
 ![](https://cdn.discordapp.com/attachments/277968398103609344/847689279886983188/Bildschirmfoto_2020-09-19_um_00.41.53.png)
@@ -75,7 +77,7 @@ At level 72, you gain the ability Meisui, which allows you to consume the Suiton
 At level 76, you gain a trait called Enhanced Kassatsu that will now upgrade any Hyoton or Katon used under the buff, into Hyosho Ranryu and Goka Mekkyaku respectively. From now on Kassatsu will always be used on one of these two instead of the Raiton or Doton mentioned previously. The mudras to use Hyoton/Hyosho Ranryu are either Chi>Jin or Ten>Jin.
 
 \
-At level 78 you get the trait Shukiho II, which makes your combo finishers like Aeolian Edge give even more Ninki.
+At level 78, you get the trait Shukiho II, which makes your combo finishers like Aeolian Edge give even more Ninki.
 
 # LEVEL 80:
 
@@ -85,6 +87,8 @@ This is when you unlock your final ability, Bunshin. This is another Ninki-consu
 The main thing to know is that this will not change which weaponskills you should use, it just deals extra damage per weaponskill.
 
 This is the general level 80 opener used in most every piece of content that you do at level 80:
+
+
 ![](https://cdn.discordapp.com/attachments/718452012928467005/725406474880286851/NINreadibleRotation.png)
 
-For more information on specifics of the rotation at lvl 80, look at the full guide at lvl 80: <https://guides.xivresources.com/jobs/melee/ninja/ninja-guide/>
+For more information on specifics of the rotation at level 80, look at [the full guide](https://guides.xivresources.com/jobs/melee/ninja/ninja-guide/).
