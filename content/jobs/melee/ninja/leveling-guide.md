@@ -1,5 +1,5 @@
 ---
-title: Levellig Guide
+title: Leveling Guide
 ---
 # Level 1-3:
 
