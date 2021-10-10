@@ -348,7 +348,7 @@ This is the only time during the entire encounter you’ll be placed in a two ta
 
 There’s two options for pot windows in this phase. If you’ve opted for using Wildfire during Tenstrike, your next Wildfire will occur about 30 seconds into this phase. To ensure our pot timings still line up for the two minute burst on Golden Bahamut, we’ll need to pot slightly early compared to where Wildfire gets used. Pot usage for this timeline should be right before your second Drill in the phase. Wildfire will then get used after the third Drill in the phase to ensure we don’t delay any of our Drill casts. Be mindful to not overcap Heat while attempting this.
 
-The other option is just potting right as the phase starts, which means there was no Wildfire used at Tenstrike. This is the much safer option and should be done during prog. The reopener here looks like any standard opener you would normally do.
+The other option is just potting right as the phase starts, which means there was no Wildfire used at Tenstrike. This is the much safer option and should be done during prog. The reopener here looks like any standard opener you normally do.
 
 The end of the phase gets a bit tricky. When Twintania and Nael are both killed, we enter a transition that kills the entire party. Death results in losing any gauge we had tied to our character. To properly end this phase with as little resource waste as possible, here’s the basic guidelines to follow.
 
