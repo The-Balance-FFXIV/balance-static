@@ -38,8 +38,8 @@ Machinist suffers the most in this phase compared to the other physical ranged j
 
 ### Drill, Bioblaster and You
 
-Bioblaster should be used as long as both bosses are together and Reassemble is unavailable. The potency difference between drill and bioblaster is small (a mere 20 potency), but a reassembled drill is ~1300 potency and has priority over any other GCD at two targets. As a side note: Flamethrower is generally *not* worth using outside of tick fishing[^1].\
-\
+Bioblaster should be used as long as both bosses are together and Reassemble is unavailable. The potency difference between drill and bioblaster is small (a mere 20 potency), but a reassembled drill is ~1300 potency and has priority over any other GCD at two targets. As a side note: Flamethrower is generally *not* worth using outside of tick fishing[^1].
+
 *(Falling under the category of optimization; with earlier kill times (In the realm of ~2:00 - 2:10),  you can get away with using Flamethrower to replace anywhere from two to three GCDs in Living Liquid during the Drainage tank buster. It comes at the loss of 10 - 15 heat, but it would allow you to use Barrel Stabilizer on cooldown, not overcap, and enter phase 2 with max or near max heat gauge. The gain from this is roughly 200 potency. Ensure you don’t drift Drill or Air Anchor to do this.)*
 
 The first phase of TEA hard enrages at 2:20. Because of this length specifically, groups will hold their 2-minute buff windows for phase 2. What does this mean for us? Any Wildfire timing will work and should be decided based on group composition. However, it does mean you should always start with Reassemble prepull. Waiting for 0:20 to use Reassemble most likely will result in a lost cast. 
@@ -192,7 +192,7 @@ By Dook Prime (Dook#0001)
 
 ## Introduction
 
-The Weapon’s Refrain is the second ultimate released in FFXIV: Stormblood. The fight syncs you down to level 70 in an attempt to keep the difficulty of the fight equal to what it was on release. While it doesn’t do a great job of that, it does remove certain skills and abilities that we gained in Shadowbringers. The encounter is split into five phases; Garuda, Ifrit, Titan, Lahabrea, and Ultima. The fight in its entirety is 16 minutes long. This guide assumes a basic understanding of how Machinist works while outlining specific optimization due to phasing and AoE situations. **This doc is written with the 5.5 relic weapon in mind. If you’ve allotted your attribute points correctly on the weapon you’ll be at 2.46 GCD. This is important to keep in mind as some of the rotational decisions discussed here rely on that GCD speed.**
+The Weapon’s Refrain is the second ultimate released in Final Fantasy XIV: Stormblood. The fight syncs you down to level 70 in an attempt to keep the difficulty of the fight equal to what it was on release. While it doesn’t do a great job of that, it does remove certain skills and abilities that we gained in Shadowbringers. The encounter is split into five phases; Garuda, Ifrit, Titan, Lahabrea, and Ultima. The fight in its entirety is 16 minutes long. This guide assumes a basic understanding of how Machinist works while outlining specific optimization due to phasing and AoE situations. **This doc is written with the 5.5 relic weapon in mind. If you’ve allotted your attribute points correctly on the weapon you’ll be at 2.46 GCD. This is important to keep in mind as some of the rotational decisions discussed here rely on that GCD speed.**
 
 ### Video References
 
@@ -269,6 +269,105 @@ Uses of Tactician should always be discussed with your group. The list below is 
   * During Annihilation (Make sure to cover the Searing Wind healer before they leave the group!)
   * Aetheric Boom
   * Any of the primals during Roulette
+
+- - -
+
+# Machinist Guide for The Unending Coil of Bahamut (Ultimate)
+
+By Dook Prime (Dook#0001)
+
+(Patch 5.5)
+
+## Introduction
+
+The Unending Coil of Bahamut is the first Ultimate released in Final Fantasy XIV: Stormblood. The fight syncs you down to level 70 in an attempt to keep the difficulty of the fight equal to what it was on release. While it doesn’t do a great job of that, it does remove certain skills and abilities that we gained in Shadowbringers. The encounter is split into five phases; Twintania, Nael deus Darnus, Bahamut Prime, Twintania + Nael deus Darnus, and Golden Bahamut. The fight in its entirety is 19 minutes long. This guide assumes a basic understanding of how Machinist works, while outlining specific optimization due to phasing and AoE situations. This doc is written with the 5.5 relic weapon in mind. If you’ve allotted your attribute points correctly on the weapon, you’ll be at 2.46 GCD. This is important to keep in mind, as some of the rotational decisions discussed here rely on that GCD speed. 
+
+## Video References
+
+Coming Soon™
+
+## Gearing Advice
+
+With so many gearing options and different phase pushes, true BiS does not exist. The most important thing that will affect your DPS is ensuring you’ve got the Shadowbringers 535 relic. This weapon allows you to maximize your stats with a load out of Relic substat with 318 CRIT/280 DH/280 DET/280 SKSP. Every other piece of gear should be at a minimum of i470 to ensure it syncs down to max stats. Current food as of 5.5 is Smoked Chicken, and there’s the consideration to take here where you’ll want synced 1790 DET to max out food gains.
+
+## Level 70 Considerations
+
+There’s three differences at level 70 that should be thought about when figuring out how to maximize potency gains. 
+
+* Hot Shot: 300 potency compared to Air Anchor, which is normally 700 potency. The main thing to consider is that buff alignment matters very little (if anything it’s better to use it outside of buffs) for Hot Shot. With only 300 potency, it now does less damage than Slug Shot. Expected potency is 460 when you include the Battery gain though, so it’s still worth using, and should be used as many times as possible.
+* Rook Autoturret: 100 Battery is now 800 potency and there’s no wind up animation on summon. Rook should still be used within buff windows, but you no longer want to use it before buffs come up. At 100 battery, Rook will attack for exactly 15s from pressing the button, to give you an idea of when you would need to summon it to get Rook Overdrive in buffs.
+* Gauss Round and Ricochet no longer have three charges; They’ve been reduced to two. It is much harder to avoid overcapping your charges inside of hypercharge, and this also limits which openers you can use. 3rd, 4th and 5th GCD openers all work at 70. The General Purpose opener (6th GCD) will force an overcap on Gauss and Rico. If you go into Hypercharge at zero stacks on both, but the cooldown on Gauss or Rico is seven seconds or less, it will overcap by the end of the ability’s usage even with weaving between every Heat Blast. Sometimes this may be unavoidable and it’s just something you would need to deal with. It’s a minimal loss (if any), but it’s mentioned to let you know it may not be a mistake on your end. Job is just jank.
+
+## Phase 1: Twintania
+
+This phase is extremely straightforward and there’s not much to cover. Pots are viable, but not necessary and can be shifted to Nael for prog. As physical ranged, you’ll most likely be forced to handle the Liquid Hell mechanic. Hatch is random on DPS players, so you’ll also be handling those as well. After Liquid Hells, it’s good practice to get in range of healers to catch some heals. Second Wind is your friend. Most important thing to remember for Hatch is how Neurolinks work. Standing in them will give you a 90% dmg down to every damage action you use. You can mitigate this by using a GCD just before stepping into the Neurolink, taking the Hatch, and stepping out of the Neurolink all before your next GCD. The only time this is probably not easy to make consistent is during the Hypercharge window.
+
+Twintania usually dies around 2:25 (or earlier) and typically groups will save their two minute burst for a reopening on Nael. This should always be discussed with your group as a whole, of course. Your goal at the end of Twintania is to have as much Battery as possible without overcapping your gauge and enough Heat to enter a Wildfire window on demand when raid buffs go up in Nael. Regardless of whether or not you use a second Wildfire in Twintania’s phase, you should still be using Barrel Stabilizer on cooldown.
+
+Tactician uses here won’t vary much. I’m a fan of using Tactician in one of the open weave slots during our opener because it will cover the fireball as well as the follow up tank buster if timed properly, but use according to your group's needs. Avoid using Tactician during Hypercharge if you can. Missing a weave with two stacks of Gauss/Ricochet can overcap you easily.
+
+## Phase 2: Nael deus Darnus
+
+From the point of Twintania dying to Nael becoming targetable, 24 seconds will have elapsed. Enough time for a Drill cast, if you’re capable of getting it off while Twintania is above 0.1%. It’s safe to hold your group's two minute burst for the three minute buffs to catch up, if applicable. If your group opted for using two minute buffs at the end of Twintania, Wildfire will come back around third Fireball. You only get one use of Wildfire in Nael, so holding here won’t matter. If you don’t use pots in Phase 1, you can opt for potting in Nael early on in prog to avoid possible enrages.
+
+Machinist has the benefit of full uptime in this phase, so regardless of which mechanics you get and the order you get them, our rotation should stay intact. When Dragon Dive markers start to go out, take note of your gauge. If you’re close to overcapping, getting out a final Hypercharge may be worthwhile before Nael jumps away. Depending on how low your group gets her health to, you’ll be able to get some last minute GCDs to build Heat/Battery prior to Seventh Umbral Calamity.
+
+Tactician can be used anywhere in the first half of the phase, really. You’ll want to make sure it’s back up for Bahamut for when your group decides they need it. Thermo stack at second fire is my preferred placement.
+
+## Phase 3: Bahamut Prime
+
+From the point of Nael leaving to Bahamut becoming targetable is 17 seconds. Basically, a late Drill or Hot Shot is safe on Nael, as Drill will come back for your first or second GCD while Hot Shot can only be used once for the first damage phase and it won’t make a difference. The only time you should hold Hot Shot on Nael is if it will overcap your Battery, in which case holding would be more beneficial.
+
+Our second pot window has two options. The first pot option is meant for groups who hold two minute buffs in Twin, and should happen immediately after transition. The second pot option would be preferred if you’ve opted to rush buff windows, and will get used during Quickmarch.
+
+The active phases and their lengths are listed as follows.
+
+* Seventh Umbral Calamity: 23 seconds, followed by 12 seconds of downtime.
+* Quickmarch: 30 seconds, followed by 18 seconds of downtime.
+* Blackfire: 33 seconds, followed by 17 seconds of downtime.
+* Fellruin: 35 seconds, followed by 19 seconds of downtime.
+* Heavensfall: 33 seconds, followed by 20 seconds of downtime.
+* Tenstrike: 37 seconds, followed by 54 seconds of downtime. Finishes Bahamut Prime and leads to adds.
+
+The active portion of this phase extends to 4:55, which means we can safely use Wildfire a total of two times during this. The first one happens at the start of the phase as already outlined, with the second one happening during Fellruin. At this point, if you’ve been using Barrel Stabilizer on cooldown, it’s almost certainly de-synced from your Wildfire windows. Take care with your Heat leaving Blackfire, as it’s possible to enter Fellruin without the mandatory Heat to Wildfire here, which then delays Wildfire to Heavensfall and out of most (if not all) raid buffs.
+
+A third Wildfire is possible in Tenstrike with early Wildfire usage in Bahamut, but most groups will opt to skip this two minute buff cycle. However, it is safe to Wildfire here so long as it’s been used on cooldown in prior windows. You’ll need to delay the pot in adds for this slightly, but this won’t cost you a usage of pot if you're attempting to optimize. If you’re progging, the third Wildfire should be skipped to ease alignment problems and allow you to focus on mechanics. It does not provide you any sort of benefit for the actual DPS required to clear.
+
+Tactician in this phase is very free form. You’ll get two or three uses depending on the needs of your healers. Any trio works, and the uses don’t necessarily need to be for Gigaflare. Examples of uses outside of Gigaflare would be:
+
+* Quickmarch - Used for Megaflare, Tank Tethers, and Earthshakers
+* Blackfire - Used for Thermo stack and Megaflare stack
+* Fellruin - Used for random dives, can also be timed properly to cover Gigaflare
+* Heavensfall - Used for knockback damage from the tower
+* Tenstrike - Used to cover Earthshaker damage
+
+
+## Phase 4: Twintania & Nael deus Darnus
+
+This is the only time during the entire encounter you’ll be placed in a two target situation and it changes our rotation priority slightly. Spread Shot on two targets is a gain over the single target combo, as is Flamethrower. Heat Blast is still preferred over Auto-Crossbow. The only thing stopping us from padding on AoE the entire time is the fact we will most likely be doing the Liquid Hell baits, as well as priority over the far Neurolink for Hatch. During Nael’s quotes and at the end of the phase are good opportunities to get Spreadshot in.
+
+There’s two options for pot windows in this phase. If you’ve opted for using Wildfire during Tenstrike, your next Wildfire will occur about 30 seconds into this phase. To ensure our pot timings still line up for the two minute burst on Golden Bahamut, we’ll need to pot slightly early compared to where Wildfire gets used. Pot usage for this timeline should be right before your second drill in the phase. Wildfire will then get used after the third Drill in the phase to ensure we don’t delay any of our Drill casts. Be mindful to not overcap Heat while attempting this.
+
+The other option is just potting right as the phase starts, which means there was no Wildfire used at Tenstrike. This is the much safer option and should be what’s done during prog. The reopener here looks like any standard opener you would normally do.
+
+The end of the phase gets a bit tricky. When Twintania and Nael are both killed, we enter a transition that kills the entire party. Death results in losing any gauge we had tied to our character. To properly end this phase with as little resource waste as possible, here’s the basic guidelines to follow.
+
+1. When the final quote begins, start getting rid of any excess Heat you have. You’ll want to end your combo on a Clean Shot while being as close to 50 Heat as possible (not more than 50) while also having more than 50 Battery.
+2. When able to, transition to Spread Shot, making sure to hit both targets, and continue to generate Heat until you’ve hit 50 gauge. Summon Rook and use Hypercharge for a final time.
+3. Use Flamethrower until both targets are dead or the Flamethrower timer expires.
+4. If the Flamethrower timer expires, continue on with Spread Shot and accept there will be unavoidable Heat waste. Kill times vary and there’s no way to ensure a perfect kill time with zero Heat waste.
+
+Barrel Stabilizer in this phase should not be used past the second set of Liquid Hells, or you’ll risk not being able to open on Golden Bahamut.
+
+Tactician should either be used with the first or second Megaflare. It will depend on where your other usages occurred, and where you plan to use Tactician in the next phase. If properly timed, you can also cover the Death Sentence/Raven’s Beak tank busters as well.
+
+## Phase 5: Golden Bahamut
+
+This phase is basically a nerves check. You’ll revive with the Phoenix buff, Phoenix’s Blessing, which doubles all of your damage except the damage done by Limit Break. If you die, you will lose this buff. Not even taking parsing into consideration, it would be wise of you to not die during this portion of the fight. The earlier you die, the more effect it will have on your outgoing damage.
+
+Since we enter the phase with zero gauge, and we only get a single pot in this phase, it’s much better for us to wait until the two-minute mark to use it then. It’s suggested you open with Drill and Hot Shot back-to-back, it will allow you to use 80 Battery at one minute and 100 Battery at two minutes to fully optimize both windows and get maximum potential from the pot window.
+
+Tactician uses have two pathways here. Either you use it for Morn Afah 1 and Morn Afah 4 or you use it on Morn Afah 2 and Morn Afah 5. 1 and 4 may get better use since groups may not even see 5.
 
 Hope this helps. If there’s any questions or concerns, feel free to reach me in the MCH channels in The Balance!
 
