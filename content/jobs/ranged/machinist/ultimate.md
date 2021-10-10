@@ -188,7 +188,7 @@ This phase length is six minutes, but due to downtime and the final enrage seque
 
 # The Weapon’s Refrain (Ultimate)
 
-By Dook Prime (Dook#0001)
+By Dook Prime (Dook#0001)  
 (Patch 5.5)
 
 ## Introduction
