@@ -361,16 +361,16 @@ Barrel Stabilizer in this phase should not be used past the second set of Liquid
 
 Tactician should either be used with the first or second Megaflare. It will depend on where your other usages occurred, and where you plan to use Tactician in the next phase. If properly timed, you can also cover the Death Sentence/Raven’s Beak tank busters as well.
 
-## Phase 5: Golden Bahamut
+## Phase Five: Golden Bahamut
 
 This phase is basically a nerves check. You’ll revive with the Phoenix buff, Phoenix’s Blessing, which doubles all of your damage except the damage done by Limit Break. If you die, you will lose this buff. Not even taking parsing into consideration, it would be wise of you to not die during this portion of the fight. The earlier you die, the more effect it will have on your outgoing damage.
 
-Since we enter the phase with zero gauge, and we only get a single pot in this phase, it’s much better for us to wait until the two-minute mark to use it then. It’s suggested you open with Drill and Hot Shot back-to-back, it will allow you to use 80 Battery at one minute and 100 Battery at two minutes to fully optimize both windows and get maximum potential from the pot window.
+Since we enter the phase with zero gauge, and we only get a single pot in this phase, it’s much better for us to wait until the two-minute mark to use it. It’s suggested you open with Drill and Hot Shot back-to-back, which will allow you to use 80 Battery at one minute and 100 Battery at two minutes to fully optimize both windows and get maximum potential from the pot window.
 
 Tactician uses have two pathways here. Either you use it for Morn Afah 1 and Morn Afah 4 or you use it on Morn Afah 2 and Morn Afah 5. 1 and 4 may get better use since groups may not even see 5.
 
 Hope this helps. If there’s any questions or concerns, feel free to reach me in the MCH channels in The Balance!
 
-[^1]: Falling under the category of optimization, with earlier kill times (In the realm of ~2:00 - 2:10), you can get away with using Flamethrower to replace anywhere from two to three GCDs in Living Liquid during the Drainage tank buster. It comes at the loss of 10 - 15 heat, but it would allow you to use Barrel Stabilizer on cooldown, not overcap, and enter Phase 2 with max or near-max heat gauge. The gain from this is roughly 200 potency. Ensure you don’t drift Drill or Air Anchor to do this.
+[^1]: Falling under the category of optimization, with earlier kill times (In the realm of ~2:00 - 2:10), you can get away with using Flamethrower to replace anywhere from two to three GCDs in Living Liquid during the Drainage tank buster. It comes at the loss of 10 - 15 heat, but it would allow you to use Barrel Stabilizer on cooldown, not overcap, and enter Phase Two with max or near-max heat gauge. The gain from this is roughly 200 potency. Ensure you don’t drift Drill or Air Anchor to do this.
 
 [^2]: It’s highly dangerous due to the proximity explosions, but it is possible for 100% uptime during heart phase. The theoretical max gain from hitting the heart is 50 Battery and 45 Heat using Air Anchor and 3 full combos. This strategy is not suggested while learning the phase. Here’s two clips showing how it’s done: [50 Battery Inception (Tetrashatter Drop)](https://www.youtube.com/watch?v=H6iuCAzY9fA&feature=youtu.be) and [50 Battery Inception (Orb Tether)](https://youtu.be/TFRBkaQQ9gY).
