@@ -229,23 +229,23 @@ Machinist should be one of the two people baiting eruptions. With how heat lines
 
 ## Phase Three: Titan
 
-Whether you your group skips dashes or not will change whether or not you’ll manage to get two Wildfire windows. If your group is seeing dashes, plan on using Wildfire immediately for your reopener and again during Mario Kart at the end of the phase. If your group is skipping dashes, you’ll Wildfire after Gaols during the Tumult spam. 
+Whether you your group skips dashes or not will change whether you’ll manage to get two Wildfire windows. If your group is seeing dashes, plan on using Wildfire immediately for your reopener and again during Mario Kart at the end of the phase. If your group is skipping dashes, you’ll Wildfire after Gaols during the Tumult spam. 
 
 For prog purposes, it’s wise to hold Drill for the healer Gaol. Especially early on, some people in the party may have weakness, and nobody wants to wipe to such an easy damage check. Machinist excels in short burst, it’s best to take full advantage of this until everyone is comfortable with the phase. 
 
 Your last Barrel Stabilizer should happen either right before or right after Mario Kart. Ideally, you don’t want full gauge coming out of Titan because of the Magitek Bits and Lahabrea himself in the transition, so planning out a last use of Rook and possibly a final Hypercharge before Titan dies may be a benefit to you to avoid overcapping.
 
-## Phase 4: Lahabrea
+## Phase Four: Lahabrea
 
 There’s not much for us to do here except build up some gauge. This phase lasts approximately 95 seconds (Time from Titan jumping to Ultima becoming targetable), so it’s something to keep in mind for Barrel Stabilizer usage and a possible late Wildfire in Titan.
 
 You’ll be able to get at least three GCDs on the Magitek Bits before caster limit break kills them, so it’s wise to get a full Heated Combo on them and leave Hot Shot for Lahabrea, who sticks around for approximately five GCDs.
 
-## Phase 5: Ultima
+## Phase Five: Ultima
 
 Ultima is targetable before Predation for about 28 seconds. Perfect for a Dex pot and a reopener. At 2.46, you can get two Hypercharge windows in and still end on Clean Shot but you’ll need to cut the second Hypercharge short by a single Heat Blast and finish the uptime with Drill and Clean Shot. You’ll need to drift Drill a bit for this, but it’s fine as the next bit of downtime during Predation is longer than 20 seconds.
 
-Your next Wildfire window comes up during Annihilation, and can be a bit tricky to get off properly. Due to downtime, Drill and Wildfire butt heads a bit here, but the priority should be Wildfire. Holding Wildfire here can be detrimental as Ultima will disappear momentarily prior to Active Phase 2, and will cut into your Wildfire if it’s delayed slightly. Delaying Drill for Wildfire won’t lose you a usage prior to Suppression.
+Your next Wildfire window comes up during Annihilation, and can be a bit tricky to get off properly. Due to downtime, Drill and Wildfire butt heads a bit here, but the priority should be Wildfire. Holding Wildfire here can be detrimental as Ultima will disappear momentarily prior to Active Phase Two, and will cut into your Wildfire if it’s delayed slightly. Delaying Drill for Wildfire won’t lose you a usage prior to Suppression.
 
 Your second pot and third Wildfire should come back up in Primal Roulette. Burst timings should be coordinated with your group for this portion of the fight. This Wildfire can be held for as long as it needs to for your party’s buff windows, since you won’t get another in the encounter.
 
@@ -258,15 +258,15 @@ Uses of Tactician should always be discussed with your group. The list below is 
   * During Cleanses (Possible to cover both Frictions and the cleanses that happen after them)
 * Ifrit
 
-  * Nails into Hellfire. If you use it during nails, try to inch towards the Searing Wind healer to cover them as well.
+  * Nails into Hellfire. If you use it during Nails, try to inch towards the Searing Wind healer to cover them as well.
 * Titan
 
-  * Tumults after triple gaols.
-  * Tumults after healer gaol. Has the added benefit of also covering the tank for Rock Buster and Mountain Buster.
+  * Tumults after triple Gaols.
+  * Tumults after healer Gaol. Has the added benefit of also covering the tank for Rock Buster and Mountain Buster.
 * Ultima
 
   * Predation (for limit break generation when eating the Afterburner)
-  * Tumults during Active Phase 1
+  * Tumults during Active Phase One
   * During Annihilation (Make sure to cover the Searing Wind healer before they leave the group!)
   * Aetheric Boom
   * Any of the primals during Roulette
@@ -299,25 +299,25 @@ There’s three differences at level 70 that should be thought about when figuri
 * Rook Autoturret: 100 Battery is now 800 potency and there’s no wind up animation on summon. Rook should still be used within buff windows, but you no longer want to use it before buffs come up. At 100 battery, Rook will attack for exactly 15s from pressing the button, to give you an idea of when you would need to summon it to get Rook Overdrive in buffs.
 * Gauss Round and Ricochet no longer have three charges; They’ve been reduced to two. It is much harder to avoid overcapping your charges inside of hypercharge, and this also limits which openers you can use. 3rd, 4th and 5th GCD openers all work at 70. The General Purpose opener (6th GCD) will force an overcap on Gauss and Rico. If you go into Hypercharge at zero stacks on both, but the cooldown on Gauss or Rico is seven seconds or less, it will overcap by the end of the ability’s usage even with weaving between every Heat Blast. Sometimes this may be unavoidable and it’s just something you would need to deal with. It’s a minimal loss (if any), but it’s mentioned to let you know it may not be a mistake on your end. Job is just jank.
 
-## Phase 1: Twintania
+## Phase One: Twintania
 
-This phase is extremely straightforward and there’s not much to cover. Pots are viable, but not necessary and can be shifted to Nael for prog. As physical ranged, you’ll most likely be forced to handle the Liquid Hell mechanic. Hatch is random on DPS players, so you’ll also be handling those as well. After Liquid Hells, it’s good practice to get in range of healers to catch some heals. Second Wind is your friend. Most important thing to remember for Hatch is how Neurolinks work. Standing in them will give you a 90% dmg down to every damage action you use. You can mitigate this by using a GCD just before stepping into the Neurolink, taking the Hatch, and stepping out of the Neurolink all before your next GCD. The only time this is probably not easy to make consistent is during the Hypercharge window.
+This phase is extremely straightforward and there’s not much to cover. Pots are viable, but not necessary and can be shifted to Nael for prog. As physical ranged, you’ll most likely be forced to handle the Liquid Hell mechanic. Hatch is random on DPS players, so you’ll also be handling those as well. After Liquid Hells, it’s good practice to get in range of healers to catch some heals. Second Wind is your friend. Most important thing to remember for Hatch is how Neurolinks work. Standing in them will give you a 90% Dmg Down to every damage action you use. You can mitigate this by using a GCD just before stepping into the Neurolink, taking the Hatch, and stepping out of the Neurolink all before your next GCD. The only time this is probably not easy to make consistent is during the Hypercharge window.
 
-Twintania usually dies around 2:25 (or earlier) and typically groups will save their two minute burst for a reopening on Nael. This should always be discussed with your group as a whole, of course. Your goal at the end of Twintania is to have as much Battery as possible without overcapping your gauge and enough Heat to enter a Wildfire window on demand when raid buffs go up in Nael. Regardless of whether or not you use a second Wildfire in Twintania’s phase, you should still be using Barrel Stabilizer on cooldown.
+Twintania usually dies around 2:25 (or earlier) and typically groups will save their two minute burst for a reopening on Nael. This should always be discussed with your group as a whole, of course. Your goal at the end of Twintania is to have as much Battery as possible without overcapping your gauge and enough Heat to enter a Wildfire window on demand when raid buffs go up in Nael. Regardless of whether you use a second Wildfire in Twintania’s phase, you should still be using Barrel Stabilizer on cooldown.
 
 Tactician uses here won’t vary much. I’m a fan of using Tactician in one of the open weave slots during our opener because it will cover the fireball as well as the follow up tank buster if timed properly, but use according to your group's needs. Avoid using Tactician during Hypercharge if you can. Missing a weave with two stacks of Gauss/Ricochet can overcap you easily.
 
-## Phase 2: Nael deus Darnus
+## Phase Two: Nael deus Darnus
 
-From the point of Twintania dying to Nael becoming targetable, 24 seconds will have elapsed. Enough time for a Drill cast, if you’re capable of getting it off while Twintania is above 0.1%. It’s safe to hold your group's two minute burst for the three minute buffs to catch up, if applicable. If your group opted for using two minute buffs at the end of Twintania, Wildfire will come back around third Fireball. You only get one use of Wildfire in Nael, so holding here won’t matter. If you don’t use pots in Phase 1, you can opt for potting in Nael early on in prog to avoid possible enrages.
+From the point of Twintania dying to Nael becoming targetable, 24 seconds will have elapsed. Enough time for a Drill cast, if you’re capable of getting it off while Twintania is above 0.1%. It’s safe to hold your group's two minute burst for the three minute buffs to catch up, if applicable. If your group opted for using two minute buffs at the end of Twintania, Wildfire will come back around third Fireball. You only get one use of Wildfire in Nael, so holding here won’t matter. If you don’t use pots in Phase One, you can opt for potting in Nael early on in prog to avoid possible enrages.
 
-Machinist has the benefit of full uptime in this phase, so regardless of which mechanics you get and the order you get them, our rotation should stay intact. When Dragon Dive markers start to go out, take note of your gauge. If you’re close to overcapping, getting out a final Hypercharge may be worthwhile before Nael jumps away. Depending on how low your group gets her health to, you’ll be able to get some last minute GCDs to build Heat/Battery prior to Seventh Umbral Calamity.
+Machinist has the benefit of full uptime in this phase, so regardless of which mechanics you get and the order you get them, our rotation should stay intact. When Dragon Dive markers start to go out, take note of your gauge. If you’re close to overcapping, getting out a final Hypercharge may be worthwhile before Nael jumps away. Depending on how low your group gets her health, you’ll be able to get some last minute GCDs to build Heat/Battery prior to Seventh Umbral Calamity.
 
 Tactician can be used anywhere in the first half of the phase, really. You’ll want to make sure it’s back up for Bahamut for when your group decides they need it. Thermo stack at second fire is my preferred placement.
 
-## Phase 3: Bahamut Prime
+## Phase Three: Bahamut Prime
 
-From the point of Nael leaving to Bahamut becoming targetable is 17 seconds. Basically, a late Drill or Hot Shot is safe on Nael, as Drill will come back for your first or second GCD while Hot Shot can only be used once for the first damage phase and it won’t make a difference. The only time you should hold Hot Shot on Nael is if it will overcap your Battery, in which case holding would be more beneficial.
+Between Nael leaving to Bahamut becoming targetable is 17 seconds. Basically, a late Drill or Hot Shot is safe on Nael, as Drill will come back for your first or second GCD while Hot Shot can only be used once for the first damage phase and it won’t make a difference. The only time you should hold Hot Shot on Nael is if it will overcap your Battery, in which case holding would be more beneficial.
 
 Our second pot window has two options. The first pot option is meant for groups who hold two minute buffs in Twin, and should happen immediately after transition. The second pot option would be preferred if you’ve opted to rush buff windows, and will get used during Quickmarch.
 
@@ -342,13 +342,13 @@ Tactician in this phase is very free form. You’ll get two or three uses depend
 * Heavensfall - Used for knockback damage from the tower
 * Tenstrike - Used to cover Earthshaker damage
 
-## Phase 4: Twintania & Nael deus Darnus
+## Phase Four: Twintania & Nael deus Darnus
 
 This is the only time during the entire encounter you’ll be placed in a two target situation and it changes our rotation priority slightly. Spread Shot on two targets is a gain over the single target combo, as is Flamethrower. Heat Blast is still preferred over Auto-Crossbow. The only thing stopping us from padding on AoE the entire time is the fact we will most likely be doing the Liquid Hell baits, as well as priority over the far Neurolink for Hatch. During Nael’s quotes and at the end of the phase are good opportunities to get Spreadshot in.
 
-There’s two options for pot windows in this phase. If you’ve opted for using Wildfire during Tenstrike, your next Wildfire will occur about 30 seconds into this phase. To ensure our pot timings still line up for the two minute burst on Golden Bahamut, we’ll need to pot slightly early compared to where Wildfire gets used. Pot usage for this timeline should be right before your second drill in the phase. Wildfire will then get used after the third Drill in the phase to ensure we don’t delay any of our Drill casts. Be mindful to not overcap Heat while attempting this.
+There’s two options for pot windows in this phase. If you’ve opted for using Wildfire during Tenstrike, your next Wildfire will occur about 30 seconds into this phase. To ensure our pot timings still line up for the two minute burst on Golden Bahamut, we’ll need to pot slightly early compared to where Wildfire gets used. Pot usage for this timeline should be right before your second Drill in the phase. Wildfire will then get used after the third Drill in the phase to ensure we don’t delay any of our Drill casts. Be mindful to not overcap Heat while attempting this.
 
-The other option is just potting right as the phase starts, which means there was no Wildfire used at Tenstrike. This is the much safer option and should be what’s done during prog. The reopener here looks like any standard opener you would normally do.
+The other option is just potting right as the phase starts, which means there was no Wildfire used at Tenstrike. This is the much safer option and should be done during prog. The reopener here looks like any standard opener you would normally do.
 
 The end of the phase gets a bit tricky. When Twintania and Nael are both killed, we enter a transition that kills the entire party. Death results in losing any gauge we had tied to our character. To properly end this phase with as little resource waste as possible, here’s the basic guidelines to follow.
 
