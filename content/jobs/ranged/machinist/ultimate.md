@@ -192,7 +192,7 @@ By Dook Prime (Dook#0001)
 
 ## Introduction
 
-The Weapon’s Refrain is the second ultimate released in FFXIV: Stormblood. The fight syncs you down to level 70 in an attempt to keep the difficulty of the fight equal to what it was on release. While it doesn’t do a great job of that, it does remove certain skills and abilities that we gained in Shadowbringers. The encounter is split into 5 phases; Garuda, Ifrit, Titan, Lahabrea, and Ultima. The fight in its entirety is 16 minutes long. This guide assumes a basic understanding of how Machinist works while outlining specific optimization due to phasing and AoE situations. **This doc is written with the 5.5 relic weapon in mind. If you’ve allotted your attribute points correctly on the weapon you’ll be at 2.46 GCD. This is important to keep in mind as some of the rotational decisions discussed here rely on that GCD speed.**
+The Weapon’s Refrain is the second ultimate released in FFXIV: Stormblood. The fight syncs you down to level 70 in an attempt to keep the difficulty of the fight equal to what it was on release. While it doesn’t do a great job of that, it does remove certain skills and abilities that we gained in Shadowbringers. The encounter is split into five phases; Garuda, Ifrit, Titan, Lahabrea, and Ultima. The fight in its entirety is 16 minutes long. This guide assumes a basic understanding of how Machinist works while outlining specific optimization due to phasing and AoE situations. **This doc is written with the 5.5 relic weapon in mind. If you’ve allotted your attribute points correctly on the weapon you’ll be at 2.46 GCD. This is important to keep in mind as some of the rotational decisions discussed here rely on that GCD speed.**
 
 ### Video References
 
