@@ -336,16 +336,18 @@ You can use a feather by using either Fan Dance (single target ability that does
 It is important to save these feathers as much as possible for opportunities when you have strong buffs to increase their damage (such as your Technical Finish / Devilment window). However, overcapping on feathers is a considerable loss to your DPS. Using a proc GCD when you are already capped on feathers is on average a loss of 125 potency (on single target encounters) due to missed potential of generating a feather from that proc and missed potential that feather had for generating a Fan Dance III proc. Using Fan Dance when you already have a Fan Dance III proc is on average a loss of 100 potency due to potentially missing an opportunity to use the Fan Dance III proc that could have been generated from that feather.
 
 
-When you have no feathers, Fan Dance and Fan Dance II are grayed out and unavailable
-/			
+When you have no feathers, Fan Dance and Fan Dance II are grayed out and unavailable:  
 
-When you have at least 1 feather, Fan Dance and Fan Dance II will be highlighted like this showing that these actions are able to be used. In a fight, feathers do not expire unless you die.
-/
+![](https://cdn.discordapp.com/attachments/752334526449057853/897214836558151701/unknown.png)		
+
+When you have at least 1 feather, Fan Dance and Fan Dance II will be highlighted like this showing that these actions are able to be used. In a fight, feathers do not expire unless you die.  
+![](https://cdn.discordapp.com/attachments/752334526449057853/897214900806500442/unknown.png)
 
 
 
-When Fan Dance III procs, you get a buff that lasts for 20 seconds that allows you to use Fan Dance III called “Flourishing Fan Dance”. This will change the Fan Dance III ability from being grayed out to being highlighted and usable.
-/					
+
+When Fan Dance III procs, you get a buff that lasts for 20 seconds that allows you to use Fan Dance III called “Flourishing Fan Dance”. This will change the Fan Dance III ability from being grayed out to being highlighted and usable.  
+![](https://cdn.discordapp.com/attachments/752334526449057853/897215115412275222/unknown.png)				
 
 When using feathers during Technical Finish / Devilment, you’ll want to weave as many Fan Dances and Fan Dance IIIs as possible. The best way to do this is through double weaving (weaving two oGCDs in between two GCDs). Depending on your ping, you may not be able to properly weave 2 oGCDs in between GCDs without clipping your GCD. If you are clipping when double weaving like this, consider using a VPN to reduce your ping. If using a VPN is not an option or doesn’t help prevent clipping when double weaving, your best option is to only single weave to prevent significant clips. Although playable, it is suboptimal since you won’t be able to weave as many oGCDs as possible in buff windows.
 
@@ -388,6 +390,8 @@ Double+ weaving on the oGCD of a Standard/Technical Finish and Triple+ weaving f
 
 # Esprit Generation
 
+
+![](https://cdn.discordapp.com/attachments/752334526449057853/897215286590210088/unknown.png)
 
 Esprit has a chance to be generated for the DNC whenever anyone with the Standard Finish or Technical Finish buffs perform a weaponskill or spell (GCDs for the most part). Not all actions that party members perform are able to generate esprit.
 
@@ -449,12 +453,12 @@ Improvisation is a level 80 Dancer ability that creates a circle around you in a
 # Understanding Flourish
 
 
-Flourish is a 60s cooldown oGCD ability that grants all 4 of our proc GCDs and a proc of Fan Dance III. Whenever you naturally proc one of these abilities, you gain a buff that lasts for 20 seconds that allow you to use that specific proc’d action. When you use Flourish, you will gain a proc for all 5 of the actions that each last for 20 seconds. The Flourish window in a DNC’s rotation can be a very hectic time, especially since you will not want to waste a single proc and 2 of the procs are AoE GCDs that require being close to the boss in order to hit.
+Flourish is a 60s cooldown oGCD ability that grants all 4 of our proc GCDs and a proc of Fan Dance III. Whenever you naturally proc one of these abilities, you gain a buff that lasts for 20 seconds that allow you to use that specific proc’d action. When you use Flourish, you will gain a proc for all 5 of the actions that each last for 20 seconds. The Flourish window in a DNC’s rotation can be a very hectic time, especially since you will not want to waste a single proc and 2 of the procs are AoE GCDs that require being close to the boss in order to hit.  
 
 
 
 
-
+![](https://cdn.discordapp.com/attachments/752334526449057853/897215433843802132/unknown.png)  
 (The buffs granted by flourish that allow you to use Reverse Cascade, Fountainfall, Rising Windmill, Bloodshower, and Fan Dance III)
 
 
@@ -465,7 +469,9 @@ However, there are ways that we can avoid delaying Flourish while not losing any
 
 
 Cascade → use Reverse Cascade if procs → Fountain → use Fountainfall if procs → Cascade…
+![](https://cdn.discordapp.com/attachments/752334526449057853/897215519214669824/unknown.png)
  
+
 
 
 
@@ -488,6 +494,7 @@ In order to avoid losing a proc while also using Flourish on cooldown, we can in
 
 
 
+![](https://cdn.discordapp.com/attachments/752334526449057853/897215611007029309/unknown.png)  
 (image courtesy of Io Whitespirit of The Balance - Discord server)
 
 
@@ -507,6 +514,7 @@ Considering what we do with those 2 remaining GCDs that could theoretically be n
 
 
 
+![](https://cdn.discordapp.com/attachments/752334526449057853/897215786647711814/unknown.png)  
 Note: After doing this combo’d Fountain, continue using the rest of your Flourish procs and use Standard Step when it comes up. You can only use at most 1 more non-Flourish’ed proc GCD (i.e. potentially Saber Dance) before you must commit to only using the proc GCDs to ensure you don’t lose any.
 
 
@@ -540,6 +548,8 @@ Not losing a proc is especially difficult when Flourish is used during Technical
 Because much of what GCDs DNC uses depend on their luck in generating procs and esprit, DNC doesn’t have a “rotation” in the sense of a consistent execution of weaponskills in a specific order. The general flow of DNC in a Single Target encounter is performing a dance, followed by weaponskills until the dance comes off cooldown:
 
 
+
+![](https://cdn.discordapp.com/attachments/752334526449057853/897215882768572487/unknown.png)
 
 where the “GCD” boxes can represent any of Cascade, Fountain, Reverse Cascade, Fountainfall, Rising Windmill, Bloodshower, or Saber Dance. For which GCD to use in which box, that depends on our GCD priority list in the next section. But ultimately, the simple form of the DNC rotation outside of Technical Finish / Devilment can be summed up as 10 GCDs in between Standard Steps.
 
@@ -640,6 +650,8 @@ The opener is important for DNC’s rotation since it sets up all of their coold
 
 
 
+![](https://cdn.discordapp.com/attachments/752334526449057853/897216156178464768/unknown.png)
+
 Start Standard Step (started 15 seconds pre-pull) → 2 steps → (use Peloton any point pre-pull, this gives the party a small burst of speed to hit the boss as soon as possible when the fight begins if they cannot pop sprint before the fight) → Potion (used 1.5 seconds before the boss is pulled) → Standard Finish (used right as the countdown hits 0) → Start Technical Step → 4 steps → Technical Finish (weave Flourish) → Rising Windmill (weave Devilment) → GCD → GCD → Start Standard Step → … continue with rotation
 
 
@@ -650,15 +662,22 @@ The Fan Dance III proc that is generated from Flourish can be double weaved and 
 
 This opener uses your cooldowns in the following order: Technical Step/Finish, Flourish, Devilment, Standard Step/Finish. One slight adjustment to your Technical Step for future windows is to delay the next use of Technical Step/Finish by 1 GCD so that Devilment is weaved after Technical Finish and delay Flourish by 2 GCDs so it is done after the GCD after Technical Finish. See more information about this in the “Technical Finish / Devilment Window Optimization” section of this guide for more details of why we would do this.
 
-Technical Finish / Devilment Window Optimization
 
-Optimizing Technical Finish / Devilment as a Raid Buff (with timings)
+---
+
+# Technical Finish / Devilment Window Optimization
+
+
+## Optimizing Technical Finish / Devilment as a Raid Buff (with timings)
+
 
 Technical Finish and Devilment are both huge personal DPS cooldowns for the DNC as well as huge raid DPS buffs. Both of these things need to be considered when deciding when are the optimal timings of these abilities in a fight. Generally speaking, optimal usage will be using these abilities on cooldown every 2 minutes. There may be some fight specific mechanics or other reasons for why you may want to delay usage (i.e. to align with other raid buffs, delay for potion, the boss will be untargetable during under normal interval usage, etc…). These delays are generally only worth it if you would not lose a cast of Technical Finish / Devilment in the fight with the delay. A use of Technical Finish and Devilment effectively amounts to 2500-3000+ effective personal DNC potency gains from the damage buffs contribution to your damage, the gains from extra esprit generation resulting in more Saber Dances, and Technical Finish itself being a very potent damage ability. Losing a use of Technical Finish and Devilment effectively loses 2500+ potency.
 
 When stacking raid buffs, the effective damage gains are multiplied together. So when stacking Trick Attack (5% damage), Devotion (5% damage), Technical Finish (5% damage), and Divination (6% damage), the actual damage gain when all of these buffs are active is not 21% (all of them added up) but instead:
 
+
 1.05 x 1.05 x 1.05 x 1.06 = 1.227 (or a 22.7% increase in damage)
+
 
 This extra 1.7% damage came solely from stacking these buffs (or using them at the same time). The more raid buffs that are stacked together like this, the greater the overall gains are for everyone in the party. This is very important especially when considering party members will be using their most potent abilities during this time frame to maximize their burst potential. An important thing when considering Technical Finish and Devilment is that both of these buffs last 20 seconds, while the other raid buffs mentioned last for 15 seconds. It is important then that Technical Finish and Devilment are up for the entirety of these other raid buffs. Ideally, Technical Finish and Devilment should go up slightly before those other raid buffs so that there will be a 15 second period of time where all raid buffs are active.
 
@@ -672,85 +691,101 @@ This extra 1.7% damage came solely from stacking these buffs (or using them at t
 
 
 
-(xivanalysis example of ideal buff timings)
+
+![](https://cdn.discordapp.com/attachments/752334526449057853/897216343781302283/unknown.png)  
+([xivanalysis](https://xivanalysis.com/) example of ideal buff timings)
+
 By doing Technical Finish before the other buffs are out, you lose a little bit of potency gain from doing that powerful finishing move before all the buffs. However, this is better than the alternative of doing the Finish in raid buffs because that would push the Technical Finish damage % buff outside of the burst window (especially since it could miss powerful actions that party members are doing in the first 1-2 GCDs of these raid buffs).
 
 Because of how tight this buff alignment can be if other party members are keeping their buffs off cooldown, with the exception of intentional delays of all raid buffs because of mechanics / phase changes, you will never want to drift Technical Finish / Devilment because this is a loss versus having very good buff alignment. The only exception to this is drifting Technical Step purposefully by 1 GCD after your opener for the second use the align Devilment with the oGCD of the Technical Finish (Devilment does not drift at all by doing this because it was delayed by 1 GCD in the opener).
 
-Optimizing Technical Finish / Devilment as Personal DPS Buffs
+
+## Optimizing Technical Finish / Devilment as Personal DPS Buffs
+
 
 In the Technical Finish / Devilment window itself, there are several factors we need to consider in terms of how to optimize this window:
 
-Esprit generation will nearly quadruple during this window due to every party member having the esprit generation buff for 20 seconds. This will greatly increase esprit generation and Saber Dance will be used more frequently.
-If all of Technical Step / Devilment / Flourish / Standard Step have been kept off cooldown for the majority of the fight with minimal drift, all these abilities will occur during this burst window.
-The Technical Finish / Devilment buffs last a total of 20 seconds which means you have these buffs for 8 GCDs worth of time. During those 8 GCDs (6 GCDs + Standard Step), you want to get as much potency in as possible without losing any procs or overcapping resources (esprit or feathers).
+
+1. Esprit generation will nearly quadruple during this window due to every party member having the esprit generation buff for 20 seconds. This will greatly increase esprit generation and Saber Dance will be used more frequently.
+
+2. If all of Technical Step / Devilment / Flourish / Standard Step have been kept off cooldown for the majority of the fight with minimal drift, all these abilities will occur during this burst window.
+
+3. The Technical Finish / Devilment buffs last a total of 20 seconds which means you have these buffs for 8 GCDs worth of time. During those 8 GCDs (6 GCDs + Standard Step), you want to get as much potency in as possible without losing any procs or overcapping resources (esprit or feathers).
+
 
 While under the Technical Finish window, our GCD priority changes slightly to:
-Fountainfall, Bloodshower, Reverse Cascade, Rising Windmill if not using them would otherwise let that proc fall. Note: Procs last 20 seconds. (If you have to choose which proc to let fall: FF = BS > RC = RW)
-Saber Dance (if >=80 esprit)
-Standard Step (if available)
-Saber Dance (if we have 50 esprit)
-Fountainfall (to allow for a combo’d Fountain to be used if it would otherwise be dropped)
-Combo’d Fountain if it would otherwise drop. Note: After pressing Cascade, you have exactly 15 seconds to use Fountain counted from the moment you use Cascade in order to get the combo’d Fountain effect. At a 2.5 GCD, you cannot use more than 4 GCDs after the Cascade without dropping the combo’d Fountain.
-Reverse Cascade, Rising Windmill, Bloodshower. Prioritize the AoE procs for situations that will allow you to be in melee range.
-Combo’d Fountain if you have no procs.
-Cascade
+1. Fountainfall, Bloodshower, Reverse Cascade, Rising Windmill if not using them would otherwise let that proc fall. Note: Procs last 20 seconds. (If you have to choose which proc to let fall: FF = BS > RC = RW)
+2. Saber Dance (if >=80 esprit)
+3. Standard Step (if available)
+4. Saber Dance (if we have 50 esprit)
+5. Fountainfall (to allow for a combo’d Fountain to be used if it would otherwise be dropped)
+6. Combo’d Fountain if it would otherwise drop. Note: After pressing Cascade, you have exactly 15 seconds to use Fountain counted from the moment you use Cascade in order to get the combo’d Fountain effect. At a 2.5 GCD, you cannot use more than 4 GCDs after the Cascade without dropping the combo’d Fountain.
+7. Reverse Cascade, Rising Windmill, Bloodshower. Prioritize the AoE procs for situations that will allow you to be in melee range.
+8. Combo’d Fountain if you have no procs.
+9. Cascade
+
 
 The key differences to our Technical Finish GCD priority vs our normal GCD priority is that we prioritize using Saber Dance before Standard Step if we are capped or close to capping (resulting in drifting Standard Step) and otherwise prioritize using as many Saber Dances in Technical Finish as possible including letting a combo’d Fountain drop in order to use more Saber Dances. Our top priority is to still not let any procs drop.
 
-Optimizing Ability Order During Technical Finish / Devilment
+
+## Optimizing Ability Order During Technical Finish / Devilment
+
 
 An in-depth analysis was done on different rotations to see what order of abilities and GCDs would result in the greatest potency gains for DNC.
 
 Assumptions made for these findings include:
-Esprit generation rate of party members is 20% to generate 10 esprit per weaponskill or spell and DNC’s self esprit generation rate is 30%. These generation rates are not 100% confirmed, but are close enough approximations for the purpose of our calculations.
-Auto attacks were not factored into the potencies under these buffs, but would presumably factor in a small gain for the rotations that align Devilment with the Technical Finish cast over the ones that delay devilment due to multiplicative gains for stacking these buffs.
-Esprit generation in the simulations was assumed to be consistent through the Technical Finish window. For example, in a case where 160 esprit was generated over the course of a Technical Finish window, it was simulated assuming 20 esprit generated per GCD. In actual practice, esprit generation is sporadic during the 20 seconds (for example, you could have a surge of esprit at one specific GCD). When considering how this affects comparing these rotations, the rotations which are better able to use more Saber Dances without losing procs tend to be the ones less likely to overcap esprit.
-These findings don’t factor in any other raid buffs, but the assumption is that the more raid buffs you have during this window will widen the difference between what these rotations are predicting due to multiplicative gains of stacking these raid buffs with your Devilment / Technical Finish.
-These rotations are only looking at the DNC’s rotation, and not what their Dance Partner is doing during this time. However, in a vacuum, Devilment’s best placement for your Dance Partner is on the oGCD after Technical Finish due to the multiplicative gains they would have from both buffs for the entirety of their durations.
-When comparing these rotations, we are only looking at situations where the DNC is not entering the Technical Finish window with a GCD proc or a combo’d Fountain for ease of comparison of rotations.
+
+1. Esprit generation rate of party members is 20% to generate 10 esprit per weaponskill or spell and DNC’s self esprit generation rate is 30%. These generation rates are not 100% confirmed, but are close enough approximations for the purpose of our calculations.
+2. Auto attacks were not factored into the potencies under these buffs, but would presumably factor in a small gain for the rotations that align Devilment with the Technical Finish cast over the ones that delay devilment due to multiplicative gains for stacking these buffs.
+3. Esprit generation in the simulations was assumed to be consistent through the Technical Finish window. For example, in a case where 160 esprit was generated over the course of a Technical Finish window, it was simulated assuming 20 esprit generated per GCD. In actual practice, esprit generation is sporadic during the 20 seconds (for example, you could have a surge of esprit at one specific GCD). When considering how this affects comparing these rotations, the rotations which are better able to use more Saber Dances without losing procs tend to be the ones less likely to overcap esprit.
+4. These findings don’t factor in any other raid buffs, but the assumption is that the more raid buffs you have during this window will widen the difference between what these rotations are predicting due to multiplicative gains of stacking these raid buffs with your Devilment / Technical Finish.
+5. These rotations are only looking at the DNC’s rotation, and not what their Dance Partner is doing during this time. However, in a vacuum, Devilment’s best placement for your Dance Partner is on the oGCD after Technical Finish due to the multiplicative gains they would have from both buffs for the entirety of their durations.
+6. When comparing these rotations, we are only looking at situations where the DNC is not entering the Technical Finish window with a GCD proc or a combo’d Fountain for ease of comparison of rotations.
+
 
 The number of weaponskills and spells your party members use during Technical Finish may vary depending on composition. Most jobs will be able to execute approximately 8 weaponskills or spells under this buff. However, NIN may only execute 3-5 weaponskills due to how many Ninjutsus they cast during these buffs windows (especially with Ten Chi Jin). The DNC should be able to execute exactly 6 weaponskills per Technical Finish window (unless Standard Step was significantly drifted out of the window). Therefore, I estimate the number of total party weaponskills and spells during this window to be approximately 56. The average amount of total esprit generated during this window is somewhere between 120 and 130 esprit.
 
+
 However, there is a lot of variation possible for how much esprit you generate during this window. It’s possible to generate 40 or less esprit, and it’s possible to generate 200+ esprit.  Both of these events are rare (< 1% of the time), but lead into some interesting theorycrafting about how to optimally plan for a Technical Finish window given a wide range in amount of esprit that could be generated.
+
 
 The only thing we really have control of in the Technical Finish window is the order in which we do Technical Step / Devilment / Flourish / Standard Step. As noted earlier in the section about “Understanding Flourish”, when we use Flourish, we have 8 GCDs worth of time to use all 4 of those GCD procs. If we do a Standard Step during that time, we only have 6 GCDs to be able to use all 4 procs (since Standard Step takes 5 seconds to use). This means we only have 2 GCDs that can be used on something other than Flourish GCD procs (such as Saber Dance). During Technical Finish, our esprit generation is considerably faster than normal and being limited to only 2 GCDs to use Saber Dances can result in overcapping esprit during technical windows where we get lucky with esprit generation. However, if the flourish was delayed to after Standard Step, we would have 4 GCDs available to use Saber Dance.
 
-Let’s consider possible different Technical Finish rotations (some of which purposefully delay an ability cast) based on the order of the abilities Technical Step, Devilment, Flourish, and Standard Step as well as how many GCDs are between these abilities:
 
-Rotation 1
-TF -> Flourish -> GCD -> DM -> SS
-Rotation 2
-TF -> Flourish -> GCD -> DM -> GCD -> GCD -> SS
-Rotation 3
-TF -> DM -> GCD -> Flourish -> SS
-Rotation 4
-TF -> DM -> GCD -> Flourish -> GCD -> SS
-Rotation 5
-TF -> DM -> GCD -> SS -> Flourish
-Rotation 6
-TF -> DM -> GCD -> GCD -> SS -> Flourish
+Let’s consider possible different Technical Finish rotations (some of which purposefully delay an ability cast) based on the order of the abilities Technical Step, Devilment, Flourish, and Standard Step as well as how many GCDs are between these abilities:  
+
+**Rotation 1:** TF -> Flourish -> GCD -> DM -> SS  
+**Rotation 2:** TF -> Flourish -> GCD -> DM -> GCD -> GCD -> SS  
+**Rotation 3:** TF -> DM -> GCD -> Flourish -> SS  
+**Rotation 4:** TF -> DM -> GCD -> Flourish -> GCD -> SS  
+**Rotation 5:** TF -> DM -> GCD -> SS -> Flourish  
+**Rotation 6:** TF -> DM -> GCD -> GCD -> SS -> Flourish  
 
 
 Each of these rotations highlight different potential things you could do under Technical Finish. 
 
-Rotation 1 may be used if you are potentially re-opening in a fight but lack resources (esprit) to be able to do a first GCD Saber Dance after Technical Finish which could then allow you to use Flourish. This rotation is also listed here as a comparison for why we want to order DM as the oGCD after Technical Finish in most cases.
 
-Rotation 2 would be if we don’t drift a single ability from when we use them in the opener. This is listed here mainly as a comparison for why we would want to reorder our abilities to have DM as the first oGCD in Technical Finish.
+**Rotation 1** may be used if you are potentially re-opening in a fight but lack resources (esprit) to be able to do a first GCD Saber Dance after Technical Finish which could then allow you to use Flourish. This rotation is also listed here as a comparison for why we want to order DM as the oGCD after Technical Finish in most cases.
 
-Rotation 3 might be something seen in a fight where we are potentially re-opening with enough esprit to do a 1st GCD Saber Dance under Technical Finish.
+**Rotation 2** would be if we don’t drift a single ability from when we use them in the opener. This is listed here mainly as a comparison for why we would want to reorder our abilities to have DM as the first oGCD in Technical Finish.
 
-Rotation 4 can be how we align our abilities from our normal opener if we delay Technical Step by 1 GCD and delay Flourish by 2 GCDs.
+**Rotation 3** might be something seen in a fight where we are potentially re-opening with enough esprit to do a 1st GCD Saber Dance under Technical Finish.
 
-Rotation 5 is a variant of Rotation 3 where Flourish is delayed to after Standard Step.
+**Rotation 4** can be how we align our abilities from our normal opener if we delay Technical Step by 1 GCD and delay Flourish by 2 GCDs.
 
-Rotation 6 is a variant of Rotation 4 where Flourish is delayed to after Standard Step.
+**Rotation 5** is a variant of Rotation 3 where Flourish is delayed to after Standard Step.
+
+**Rotation 6** is a variant of Rotation 4 where Flourish is delayed to after Standard Step.
+
 
 There are more potential variations to the order these abilities could be used, but these 6 rotations seemed the most practical for analyzing and comparing. When comparing rotations, we will want to consider what is the effective potency gain from using Technical Finish and Devilment in the order we do these abilities and what is the expected loss in potency from esprit overcapping. Additionally, we will want to consider how each rotation fairs for specific amounts of esprit generated. Some rotations will be better able to use excessive amounts of esprit due to the timing of the Flourish cast while some rotations may be forced to use Flourish GCD procs while capped on esprit because they would otherwise lose the proc.
 
+
 Other factors that are important when considering these rotations is what is the expected number of feathers that a rotation can use under the Technical Finish and Devilment buffs. Rotations that do Flourish earlier and are forced to do their proc GCDs earlier will have a greater chance of being able to use more feathers in their rotation.
 
+
 One last factor will be considering how many feathers and how much esprit do you start with going into the rotation. Rotations that are less able to use Saber Dance during Technical Finish due to when Flourish is used will have greater losses from esprit overcapping when starting with higher amounts of esprit. Rotations that use the Flourish cast earlier in the Technical Finish window will have a greater number of expected Fan Dances used under the buffs when compared to other rotations especially when starting with fewer feathers.
+
 
 Each rotation was examined under different sets of factors to see what that rotation would do given those circumstances, what the expected potencies under Devilment / Technical Finish would be in each situation, and what are the expected losses of potential esprit overcapping in that situation. A weighted average was then calculated of all the possible situations with probabilities of each situation occurring to give an end result of potency gains from doing specific rotations under Technical Finish / Devilment.
 
@@ -764,208 +799,70 @@ Each rotation was examined under different sets of factors to see what that rota
 
 
 
+
 Let’s look at an example of a rotation under a specific set of circumstances:
 
-Rotation 5: TF -> DM -> GCD -> SS -> Flourish
-Starting: 50 Esprit, 4 feathers
-Generation: 120 esprit over 20 seconds, 2 feathers generated (out of 4 flourish procs)
 
 
-Time (s)
-GCD
-oGCD1
-oGCD2
-Esprit
-Feathers
-TF Start
-0
-TF
-Devilment
 
 
-60
-4
 
 
-1.5
-SD
-FD1
-(FD3)
-25
-3
 
 
-4
-SS
 
 
 
 
-40
-3
 
 
-7.5
-SF
-Flourish
 
 
-55
-3
 
 
-9
-SD
-FD3
-FD1
-20
-2
 
 
-11.5
-FF
-(FD3)
-FD1
-35
-1
 
 
-14
-BS
-(FD3)
-FD1
-50
-1
 
 
-16.5
-SD
-(FD3)
-FD1
-15
-0
 
 
-19
-RW
 
 
 
 
-20
-0
-TF End
-20
-
-
-
-
-
-
-
-
-
-
-
-
-21.5
-RC
-
-
-
-
-20
-
-
-
-
-24
-
-
-
-
-
-
-
-
-
-
-
-
-26.5
-
-
-
-
-
-
-
-
-
-
-
+![](https://cdn.discordapp.com/attachments/752334526449057853/897221919978455090/unknown.png)
 
 In this example, we start off with 4 feathers and 50 esprit going into Technical Step. We are doing Devilment weaved after Technical Finish, 1 GCD (which is a Saber Dance) followed by Standard Step into Standard Finish and Flourish is weaved after the Standard Finish. The remaining 5 GCDs under the Technical Finish / Devilment buffs include 2 more Saber Dances, a Fountainfall, a Bloodshower, and a Rising Windmill. The last proc (Reverse Cascade) was done outside of the Technical Finish / Devilment buffs but did not drop. As many Fan Dances are weaved in the available oGCD spaces as possible. The total potencies of all these abilities is:
 
 
 
-QTY
-Potency
 
 
-SF
-1
-1000
-1000
-FF
-1
-350
-350
-BS
-1
-350
-350
-SD
-3
-600
-1800
-RC
-0
-300
-0
-RW
-1
-300
-300
-FD1
-5.5
-150
-825
-FD3
-3.25
-200
-650
 
 
-Total Potency
-5275
 
+![](https://cdn.discordapp.com/attachments/752334526449057853/897222061892710450/unknown.png)
 
 The quantities listed here for the Fan Dance and Fan Dance III abilities are the average number of casts you will be able to get off during this Technical Window given the circumstances listed before (starting with 4 feathers and generating 2 feathers out of the 4 procs). With the total potency of actions and abilities under this Technical Window, we can calculate the relative potency gains from the Devilment and Technical Finish buffs. Technical Finish is a 5% damage increase, while Devilment is an increase in Crit and DH rates by 20% each. At current 5.2 BiS stat tiers for DNC, Devilment is effectively a 15.6% damage increase for DNC. With both TF and DM buffs active, DNC’s effective damage increase is 21.4%. Therefore the effective potency gain for this rotation under these circumstances is:
 
-Overcapped Esprit
-0
-Total Potency under TF+DM
-5275
-Effective Potency Contribution of TF+DM
-1129.2
+| | |
+|---|---|
+| Overcapped Esprit | 0 | 
+| Total Potency under TF+DM | 5275 | 
+| **Effective Potency Contribution of TF+DM** | 1129.2 | 
+
 
 
 As noted in this table, there is no expected amount of overcapped esprit at this rotation and circumstances. If overcapped esprit would occur, the expected amount of overcapped esprit would factor into the effective potency total by subtracting 53.4 potency per 10 esprit lost in this way (average value of 10 esprit compared to average GCD).
 
+
 Rotations that have Technical Finish desynced from Devilment by 1 GCD (specifically rotations 1 and 2) have their effective potencies calculated slightly different since there is 1 GCD done with Technical Finish but without Devilment at the beginning of Technical Finish window and another GCD that does not have Technical Finish but has Devilment at the end of the buff period while 5 GCDs + Standard Finish will still have both buffs. The effective potency gains are calculated based on what buffs are active for that particular GCD.
 
-A table with all of the expected potency gains under Technical Finish and Devilment can be found here for the various combinations that were tested of different esprit generation rates, different feather generation rates, and different amounts of starting resources (esprit and feathers).
+
+A table with all of the expected potency gains under Technical Finish and Devilment can be found [here](https://docs.google.com/spreadsheets/d/1nLzwnZjg_FDFea0FHdHijHTN1vxfsJYXJSVnzV3aUG0/edit?usp=sharing) for the various combinations that were tested of different esprit generation rates, different feather generation rates, and different amounts of starting resources (esprit and feathers).
+
 
 
 
@@ -983,19 +880,8 @@ A table with all of the expected potency gains under Technical Finish and Devilm
 In order to effectively compare these rotations, we need to account for the likelihood of some of these events occurring. For example, when you have the four Flourish procs, there are different chances for generating different amounts of feathers if using all 4 proc GCDs:
 
 
-When using all 4 GCD procs
-Feathers Generated
-% Chance
-0
-6.25%
-1
-25.00%
-2
-37.50%
-3
-25.00%
-4
-6.25%
+![](https://cdn.discordapp.com/attachments/752334526449057853/897222951601078292/unknown.png)
+
 
 
 
@@ -1006,35 +892,42 @@ For esprit generation, we can use a binomial distribution to calculate the likel
 
 
 
+
+![](https://cdn.discordapp.com/attachments/752334526449057853/897223140306993243/unknown.png)
+
 Using the probabilities for the different amounts of esprit and feathers generated, we can calculate weighted averages for each rotation’s potency gains under Technical Finish and Devilment. The final averages of these rotations are:
 
 
 
-Rotation 1
-TF -> Flourish -> GCD -> DM -> SS
-Rotation 2
-TF -> Flourish -> GCD -> DM -> GCD -> GCD -> SS
-Rotation 3
-TF -> DM -> GCD -> Flourish -> SS
-Rotation 4
-TF -> DM -> GCD -> Flourish -> GCD -> SS
-Rotation 5
-TF -> DM -> GCD -> SS -> Flourish
-Rotation 6
-TF -> DM -> GCD -> GCD -> SS -> Flourish
+
+![](https://cdn.discordapp.com/attachments/752334526449057853/897223251275677767/unknown.png)
+
+**Rotation 1:** TF -> Flourish -> GCD -> DM -> SS    
+**Rotation 2:** TF -> Flourish -> GCD -> DM -> GCD -> GCD -> SS  
+**Rotation 3:** TF -> DM -> GCD -> Flourish -> SS  
+**Rotation 4:** TF -> DM -> GCD -> Flourish -> GCD -> SS  
+**Rotation 5:** TF -> DM -> GCD -> SS -> Flourish  
+**Rotation 6:** TF -> DM -> GCD -> GCD -> SS -> Flourish  
 
 
 
 
 
 
-Conclusions from Technical Finish Rotation Analysis
+
+--- 
+
+# Conclusions from Technical Finish Rotation Analysis
+
 
 The first important thing to note when comparing these rotations is that the rotations that use Flourish before Devilment (Rotations 1 and 2) are a significant DPS loss compared to the other rotations. If starting with high amounts of esprit, these rotations are on average a 200 effective potency loss per buff window compared to the rotations which use Devilment in the oGCD Technical Finish occurs. At a medium amount of starting esprit, these rotations are on average about a 100 effective potency loss. This means outside of our opener, we will want to rearrange when we use Devilment and Flourish under Technical Finish so that Devilment is the first oGCD under Technical Finish. In order to do this after the opener, the next Technical Step will have to be delayed by 1 GCD in order for the Technical Finish to line up with Devilment coming off cooldown. Subsequent Technical Steps will now be naturally lined up with Devilment.
 
+
 The next question to be answered is whether it is worth it to delay Flourish until after Standard Step in order to prevent losses due to overcapping esprit. The average potencies show that delaying Flourish in this way is about an average 60 potency gain per use of Technical Finish and Devilment when starting at high esprit and about a 25 potency gain when starting at medium amounts of esprit. Although this is a slight gain per cast of Technical Finish and Devilment, it will be shifting Flourish onto the tail end of your party’s raid buffs which would also shift it onto the tail end of any raid buffs you may have during non-Technical Finish / Devilment uses of Flourish (such as Battle Litany at 3 min, Brotherhood at 3 min, Trick attack at odd minutes). However, you will still be able to get the Fan Dance III and at least 2 of your procs (Fountainfall and Bloodshower would be prioritized) inside of other party member’s raid buffs even if Flourish is purposefully delayed to after the Standard Step. However, any unintentional drifts of Flourish in addition to this purposeful delay will cause Flourish to completely desync from raid buffs and from your Technical Finish / Devilment for the rest of the fight.
 
+
 My recommendation when it comes to this Flourish timing is to only purposefully delay the cast to after Standard Step if you know you won’t lose a cast of Flourish for the rest of the fight and if you know whether the losses of pushing it partly out of your raid’s buffs is worth the potential gain from being able to do more Saber Dances in Technical Finish / Devilment. This should only really be considered in an optimized setting such as speed killing.
+
 
 In a normal fight with a normal opener, the recommendation would be to delay your Technical Step by 1 GCD on the second use of Technical Step to line it up with Devilment which would delay your 3rd usage of Flourish by 2 GCDs in order to get the following alignment (assuming Standard Step did not drift):
 
@@ -1044,7 +937,13 @@ In a normal fight with a normal opener, the recommendation would be to delay you
 
 
 
+
+![](https://cdn.discordapp.com/attachments/752334526449057853/897226431879348284/unknown.png)
+
 However, if you are doing a re-opener in a fight where you are starting with full resources (100 esprit and 4 feathers), doing a Flourish before Standard Step on this specific Technical Finish window has a high chance of causing potency losses due to overcapping esprit. With all your abilities up, you will want to do Technical Step into Devilment (as explained earlier), use 1 GCD on Saber Dance to stop overcapping esprit (since you are coming into the reopener with 100 esprit) and then do Standard Step to give you and your partner the Standard Finish buff. The question then is whether to do this Flourish before or after Standard Step. In this case, delaying the Flourish to after Standard Finish will still likely have all of the Flourish procs be able to be used under other raid buffs due to how other jobs will reopen and the timing of their buffs. You may lose 1 proc GCD under the effects of other raid buffs, but you’ll gain the opportunity to do more Saber Dances under the same buffs. Therefore, I recommend doing the following re-opener, especially with full esprit and feathers:
+
+
+![](https://cdn.discordapp.com/attachments/752334526449057853/897226455749107823/unknown.png)
 
 Examples of where this reopener would be used are after add phase in Shiva E8S and Perfect Alexander reopener in The Epic of Alexander. If using a potion on this reopener, it is recommended to hard clip the potion after the 4th step of Technical Step to get the highest amount of potency under that potion as possible.
 
@@ -1060,27 +959,34 @@ Examples of where this reopener would be used are after add phase in Shiva E8S a
 
 
 
-Stat Tiering and Itemization for Dancer
+
+---
+
+# Stat Tiering and Itemization for Dancer
+
 
 Determining what gear to wear can have an impact on the damage you do. I find itemization to be a very important topic for any DPS role because wearing a more optimal gear set can increase your damage without changing anything with regards to your rotation. Essentially, proper itemization increases your DPS before you even step into the fight.
 
 Generally speaking, the damage increase you get from stats as DNC is ranked in order of:
 
-Weapon Damage > Dexterity > Crit > Direct Hit > Det >>>> Skill Speed
-Melding Priority: Crit > DH > Det
+- Weapon Damage > Dexterity > Crit > Direct Hit > Det >>>> Skill Speed
+- Melding Priority: Crit > DH > Det
+
 
 Description of these stats are as follows:
 
-Weapon Damage: Found on your weapon, is an independent contributory factor to the damage formula
-Dexterity: DNC’s primary stat that is found on all of its gear, 1 point in dexterity adds 1 point in attack power which has its own function in the damage formula
-Crit: DNC’s most desired secondary stat, increases the chance of success in landing critical hits and increases the crit damage multiplier when you successfully land a critical hit
-Direct Hit: secondary stat, increases the chance of success in landing a direct hit (Note: Direct Hits do a static 25% increase in damage)
-Det: secondary stat, flat damage% increase which is its on separate function in the damage formula.
-SkS: secondary stat, decreases the global cooldown timer (base 2.50 for all DNC weaponskills) and increases the damage auto attacks do
+- Weapon Damage: Found on your weapon, is an independent contributory factor to the damage formula
+- Dexterity: DNC’s primary stat that is found on all of its gear, 1 point in dexterity adds 1 point in attack power which has its own function in the damage formula
+- Crit: DNC’s most desired secondary stat, increases the chance of success in landing critical hits and increases the crit damage multiplier when you successfully land a critical hit
+- Direct Hit: secondary stat, increases the chance of success in landing a direct hit (Note: Direct Hits do a static 25% increase in damage)
+- Det: secondary stat, flat damage% increase which is its on separate function in the damage formula.
+- SkS: secondary stat, decreases the global cooldown timer (base 2.50 for all DNC weaponskills) and increases the damage auto attacks do
 
-*Special Note: Abilities can both crit and direct hit at the same time, in which case they get both the crit damage multiplier and the 1.25 multiplier from direct hit when the action both crits and direct hits.
+- Special Note: Abilities can both crit and direct hit at the same time, in which case they get both the crit damage multiplier and the 1.25 multiplier from direct hit when the action both crits and direct hits.
+
 
 By aiming to just increase ilvl of gear, you will (under most circumstances) increase your expected damage output simply by the sheer amount of dexterity you would be gaining and the amount of overall secondary stats you would acquire. Additionally, weapon damage can be increased by obtaining a higher ilvl weapon, and will more often than not be a DPS increase for DNC.
+
 
 
 
@@ -1107,6 +1013,9 @@ To understand how these stats affect your damage, it’s important to understand
 
 
 
+
+![](https://cdn.discordapp.com/attachments/752334526449057853/897228159450226748/unknown.png)
+
 However, most stats in FFXIV work in tiers, meaning you will only see the increase in the stat’s effect when you reach that next tier. The actual graph of Determination vs Damage% increase actually looks more like a staircase:
 
 
@@ -1123,20 +1032,27 @@ However, most stats in FFXIV work in tiers, meaning you will only see the increa
 
 
 
+
+![](https://cdn.discordapp.com/attachments/752334526449057853/897228382104875018/unknown.png)
+
 What this means is that when you are at a specific tier (step), adding 1 point in Determination will have no effect on your damage unless it moves you to the next tier (step). Any points in Determination added beyond this stat tier starting point are considered “wasted” unless it helps you reach a new stat tier. Generally speaking, we should only worry about these steps/tiers when determining what our BiS gear set is, which may involve changing around materia melds to ensure there are as few wasted secondary stat points as possible.
 
 
-Weapon Damage and Dexterity
+
+## Weapon Damage and Dexterity
+
 
 Weapon Damage and Dexterity are the simplest of stats with regards to DNC DPS, especially since all gear pieces have Dexterity. The easiest way to increase these stats is simply by upgrading gear pieces for higher ilvl items that provide more DEX and higher ilvl weapons with more Weapon Damage. Weapon Damage is the only stat that is not tiered. Dexterity increases your damage through stat tiers, however, these steps are so small and varied (between 1-3 primary stat points per tier) that it is not worth effort examining differences in Dexterity stat tiers.
 
-Crit vs Det/DH
+
+## Crit vs Det/DH
 
 Crit is highly valuable for DNC because of how Crit scales and because of how the Crit stat interacts with our Devilment buff. Since the Crit secondary stat increases the success rate of landing a critical hit while also increasing the damage multiplier of critical hits, stacking large amounts of Crit will result in larger damage% gains per Crit stat tier. At current BiS (5.2), a slightly larger than 1% increase to damage can be seen from gaining 198 points of Crit (compared to 240 for DH and 254 for DET).
 
 Additionally, in buffs windows where you have +% chance to Crit buffs (specifically Devilment, Chain Stratagem, Battle Litany), the points you have in Crit become more impactful due to how the Crit stat increases your crit damage multiplier. Since a disproportionately large amount of your damage occurs during buffs windows (specifically under Technical Finish and Devilment), this heavily weighs Crit to become more and more valuable over DH and DET which have a stagnant damage% increase during these windows.
 
-Determination vs DH
+
+## Determination vs DH
 
 Determination and DH are similarly valued for DNC, but DH is slightly more worthwhile. The reason behind this is due to the stat tiering for DH to be slightly favorable over DET for DNC. In order to increase your chance to DH by 4%, you would need 240 points in DH at level 80. Since the DH multiplier is a static 1.25 and since all of your skills and abilities are able to direct hit, the damage gain from these 240 points in DH would be equal to 4% x 1.25 = 1% damage increase. For DET, it takes approximately 252 points of DET to obtain a 1% damage increase. Getting 1% damage increase takes 12 less secondary points with DH than with DET, making DH slightly more economical than DET when allocating your secondary stats.
 
@@ -1146,10 +1062,15 @@ Damage = (contribution from DET) x (contribution from Direct Hits) x …. all ot
 
 When examining DET and DH stat interactions with each other, it is important to note that in trying to figure out what gives us the maximum expected damage with these stats, we need to maximize the value of “(Contribution from DET) x (Contribution from Direct Hits)”
 
+
 Given that Crit sees the greatest gains for DNC as a secondary stat, our focus in itemization will be to maximize Crit and then use the rest of our secondary stats for DET / DH. With Current BiS (5.2) the total number of DET + DH secondary points available is 4829 (this includes the 340 base amount of DET and 380 base amount of DH). A graph showing the expected damage gain of your DET + DH for different amount of DET/DH is shown below:
 
 
+
+![](https://cdn.discordapp.com/attachments/752334526449057853/897228568663298108/unknown.png)
+
 This graph shows the expected damage gain at different amounts of DET (with the remaining stats being in DH) if DET + DH totals 4829. Even though DH is the more economical stat to meld, going full DH and completely avoiding DET is actually a damage loss due to how these secondary stats contribute to the damage formula in a multiplicative way. The peak in the above graph occurs approximately at 31.5% DET / 68.5% DH secondary stats.
+
 
 
 
@@ -1166,11 +1087,17 @@ This graph shows the expected damage gain at different amounts of DET (with the 
 However, while under the effect of Devilment, the DNC’s DH rate receives a flat increase of 20%. While under this buff window, our DET increases in value due to the multiplicative gains with this DH rate. In the graph below, you can see that DET and DH secondary stat values are near equal to each other while under the effect of Devilment (the peak in this graph occurs at 47.6% DET / 52.4% DH)
 
 
+
+![](https://cdn.discordapp.com/attachments/752334526449057853/897228668747780096/unknown.png)
+
 When trying to optimize the amount of damage you get from DET + DH, you have to consider what percent of your total damage occurs under the Devilment buff. Many current top DNC parses show on some fights the % of your total damage that is done under Devilment is approximately 31%. This % is dependent on multiple things: party composition (raid buffs), fight length (affecting the number of Devilment casts and what % of the total time you are under Devilment), ability to successfully pool feathers/esprit into buff windows, etc… In order to consider Devilment in our DH+DET optimization calculations, we can do a weighted average of the damage you do outside of Devilment vs inside Devilment for different % amounts of your total damage happening under Devilment. The result shows different DET/DH amounts were favored at different %’s of total damage happening under Devilment. However, between 21-35+% of total damage occurring under Devilment showed the same peak in expected damage value at the same specific stat tiers of DET / DH (at 1965 DET and 2864 DH or 39.5% DET / 60.5 % DH). However, achieving this exact stat tier is not possible with current gear / melding options available in 5.2 due to materia VIII’s being in increments of 60. Therefore, when looking at obtainable options from melding combinations, the maximum expected damage was calculated for 2067 DET and 2762 DH (42.0 % DET / 58.0 % DH) which is the stats for current BiS for DNC as of patch 5.25.
 
 
 
-Skill Speed… and Why it is not good on DNC
+
+--- 
+
+# Skill Speed… and Why it is not good on DNC
 
 The skill speed stat has 2 effects for DNC: lowering the global cooldown timer for weaponskills (2.50 base GCD) and increasing the damage of auto attacks.
 
@@ -1178,6 +1105,11 @@ The damage% increase Skill Speed gives to auto attacks has the same differences 
 
 The other effect skill speed has is lowering the global cooldown for weaponskills. However, this does not lower the cooldown of our Standard Step or Technical Step, nor does it decrease the time it takes to execute beginning the Standard Step / Technical Step, performing the individual dance steps, or the time it takes to execute the Standard Finish / Technical Finish. Below is a visual that examines the difference between a 2.50 GCD tier and a 2.48 GCD tier.
 
+
+
+![](https://cdn.discordapp.com/attachments/752334526449057853/897228883475177533/unknown.png)
+
+![](https://cdn.discordapp.com/attachments/752334526449057853/897228917088350209/unknown.png)
 
 At a 2.50 GCD tier, Standard Step becomes available at the precise end of a GCD provided you do not clip your GCD in the above image (Standard Step = 1.5s, dance steps (x2) = 1.0s x2 = 2.0s, Standard Finish = 1.5s, each weaponskill GCD is 2.5s per GCD x 10 GCDs = 25s. The result is 1.5 + 2 + 1.5 + 25 = 30.0s). The rotation at this GCD tier feels very smooth to play.
 
@@ -1205,87 +1137,119 @@ One last thing about Skill Speed is that certain fights may have different phase
 
 
 
-Gear and Best in Slot (BiS)
+
+---
+
+# Gear and Best in Slot (BiS)
+
 
 “Best in Slot” refers to the best possible combination of gear for a specific piece of content. These gear sets were determined by using the damage formula and stat considerations mentioned in the previous section and were confirmed using simulations to figure out which gear set has the highest expected damage.
 
 5.3 Best Food: Stuffed Highland Cabbage
 5.3 Best Potions: Grade 3 Tincture of Dexterity
 
-Current BiS gear for Savage raiding (5.2) - ilvl 500 and currently the best gear set for DNC. Remains unchanged in 5.3.
 
-Guide for Preparing Gear for Savage Raiding (5.3) - This is a guide for what gear to get when trying to gear up DNC in 5.3. This also includes a recommended tomestone item buy order. It also includes the best possible gear you can obtain before setting foot in any savage raid.
+[Current BiS gear for Savage raiding (5.2)](https://etro.gg/gearset/c2266309-640a-4383-81c5-66c1b2e16ac9) - ilvl 500 and currently the best gear set for DNC. Remains unchanged in 5.3.
 
-Current BiS gear for The Epic of Alexander (5.3) - This gear set is a combination of ilvl 470 and 475 pieces because the content syncs to ilvl 475. If a gear piece is synced, it loses the effect of the materia melded. This set uses the 475 Helm, Chest, Legs, Earrings, and Ring from the newest 5.3 Dungeon. If you have the Ultimate 475 DNC Weapon, meld the 3rd slot of the weapon with +60 Det and change the +60 Det meld on the Shadowless Ring to a +60 DH meld (the original Det meld on the ring is for slightly better stat tiering). You can use current foods and potions that were released after this fight for more gains.
+
+[Guide for Preparing Gear for Savage Raiding (5.3)](https://docs.google.com/document/d/1k_kasl9Uf0ar4sGrXIPtKahVpVZoCdwPMnNUXOOgMuo/edit?usp=sharing) - This is a guide for what gear to get when trying to gear up DNC in 5.3. This also includes a recommended tomestone item buy order. It also includes the best possible gear you can obtain before setting foot in any savage raid.
+
+
+[Current BiS gear for The Epic of Alexander (5.3)](https://etro.gg/gearset/abe39cc0-e56b-4f93-ab6c-010cbae06f6d) - This gear set is a combination of ilvl 470 and 475 pieces because the content syncs to ilvl 475. If a gear piece is synced, it loses the effect of the materia melded. This set uses the 475 Helm, Chest, Legs, Earrings, and Ring from the newest 5.3 Dungeon. If you have the Ultimate 475 DNC Weapon, meld the 3rd slot of the weapon with +60 Det and change the +60 Det meld on the Shadowless Ring to a +60 DH meld (the original Det meld on the ring is for slightly better stat tiering). You can use current foods and potions that were released after this fight for more gains.
+
 
 BiS for UCoB and UWU - There are no pre-made gear sets for these level 70 synced fights. For UCoB, ilvl 418 gear and above will have both secondary stats capped on the item when synced. For UWU, ilvl 470 gear and above will have both stats capped when synced. When syncing gear down, you can choose to go for gear pieces that have favorable stats (i.e. Crit > DH > Det), however, keep in mind how DET and DH interact with each other (shown in previous section where the ideal amount of DET is somewhere between 30-40% of total DH + DET). Current 5.2 BiS does a good job of syncing down to favorable stats for these ultimates (Crit on the base of every item, and DET/DH syncs to approximately 42% of your total DET + DH being DET), you could consider swapping out 1 Crit/Det piece for a Crit/DH piece to achieve a more favorable DET/DH stat tier.
-For both of these fights, you can use Shadowbringers food and potions for more gains.
-For UWU, there are no ilvl 375 gear pieces that are favorable to sync’ed gear pieces.
-For UCOB, the following Bonewicca ilvl345 gear pieces from Swallow’s Compass are slightly better than sync’ed gear pieces due to gains from melding:
-Helm (note: you lose 80 crit here for a gain of 32 total secondary points, might not be worth it depending on stat tiering at level 70)
-Gauntlets
-Belt
-Necklace
-Ring
-Considerations for Selecting a Dance Partner
+- For both of these fights, you can use Shadowbringers food and potions for more gains.
+- For UWU, there are no ilvl 375 gear pieces that are favorable to sync’ed gear pieces.
+- For UCOB, the following Bonewicca ilvl345 gear pieces from Swallow’s Compass are slightly better than sync’ed gear pieces due to gains from melding:
+  - Helm (note: you lose 80 crit here for a gain of 32 total secondary points, might not be worth it depending on stat tiering at level 70)
+  - Gauntlets
+  - Belt
+  - Necklace
+  - Ring
+
+---
+
+# Considerations for Selecting a Dance Partner
+
 
 The 2 biggest considerations that need to be made when determining who you choose as your Dance Partner are their skill level and their gear. For example, you may have two players who have very similar skill levels at their respective jobs, but one player might have considerably better gear. The player with the better gear may be the better player to choose as your Dance Partner in this situation due to them being better able to maximize the DPS gain from having your buffs. Additionally, you may have 2 players with similar gear, but one performs exceptionally better at their job than the other. In order to determine who would be better to Dance Partner, the easiest thing would be to use ACT (damage parsing tool) to determine who is doing more damage.
 
+
 Now assuming we’re in a skill and gear vacuum (i.e. everyone is BiS and is at the same skill level), there are 3 main considerations to think about when selecting a Dance Partner:
 
-Amount of damage they do in total (affects how much DPS they gain from Standard Finish 5% damage up buff)
-Amount of damage they do during Devilment Windows that can be buffed by crit/dh% rate (some abilities are already guaranteed to crit/dh so jobs with these kinds of abilities will not benefit as much from Devilment). Additionally, does this job gain anything from having higher crit/dh% rate (i.e. MNKs can gain extra Chakras due to Devilment increasing their crit% rate)
-Amount of esprit they’ll likely generate for the DNC outside of Technical Finish windows resulting in potentially more Saber Dances over the fight
+
+1. Amount of damage they do in total (affects how much DPS they gain from Standard Finish 5% damage up buff)
+
+2. Amount of damage they do during Devilment Windows that can be buffed by crit/dh% rate (some abilities are already guaranteed to crit/dh so jobs with these kinds of abilities will not benefit as much from Devilment). Additionally, does this job gain anything from having higher crit/dh% rate (i.e. MNKs can gain extra Chakras due to Devilment increasing their crit% rate)
+
+3. Amount of esprit they’ll likely generate for the DNC outside of Technical Finish windows resulting in potentially more Saber Dances over the fight
+
 
 The first point is pretty straight forward, whoever does the most damage will gain the most from Standard Finish buff.
 
+
 The second point is a little bit trickier figuring out since it’s not a direct damage % increase and instead a crit/dh hit rate % increase. The damage formulas can account for the crit rate and dh rate changes to calculate what is the expected damage % increase with the extra 20% crit/dh rate. At current SAM bis stat tiers (5.2), assuming no other raid buffs, Devilment will provide the SAM with a 15.7% expected damage increase (with more and more crit with future gear upgrades from future raid tiers, this will increase further due to the crit multiplier increasing with the crit hit stat). When stacking more raid buffs on top of this, the expected damage increase will go up considerably due to the multiplicative gains of stacking raid buffs. Therefore, it is very important that a job can do a high amount of damage during the 20 seconds Devilment is up.
+
 
 For the third point, let’s look at how much esprit your dance partner generates for you. Although certain jobs execute more weaponskill or spell GCDs than others due to buffs that increase their speed, this generally isn’t as impactful on our personal DPS when compared to the amount of DPS our Dance Partner gains from having our Standard Finish damage% buff and Devilment crit/dh% buff. Part of this is because this independent esprit generation effect only matters for the parts of the fight outside of Technical Finish due to everyone contributing to your esprit during that buff window. These differences in esprit generation between potential dance partners can potentially mean getting 1-2 extra Saber Dances over the course of the fight. However, the personal DPS gain for the DNC from these extra Sabers Dances ends up being equal to AT MOST 5% of the DPS contribution you give to your Dance Partner from Standard Finish and Devilment. Therefore, consideration of Dance Partner’s esprit generation should only be used in Dance Partner selection if available Dance Partners are near equal in DPS gain they would get from your buffs.
 
-Dance Partner Priority List (assuming gear and skill vacuum)
 
-SAM
-MNK
-NIN
-BLM
-SMN
-DRG/RDM
-MCH
-BRD
-DNC
+## Dance Partner Priority List (assuming gear and skill vacuum)
 
-SAM
+1. SAM
+2. MNK
+3. NIN
+4. BLM
+5. SMN
+6. DRG/RDM
+7. MCH
+8. BRD
+9. DNC
+
+
+### SAM
 In most fights, Samurai has the highest personal DPS which makes them very good at using the Standard Finish 5% damage buff. Additionally, their burst every 2 minutes is strong and consistent, allowing them to be able to make good use of Devilment. It is also noteworthy that SAM’s DoT (Higanbana) snapshots the Devilment’s crit/dh buff for the full 1 minute duration of the DoT. Lastly, SAM’s GCD speed is rather quick allowing for decent esprit generation due to higher number of GCDs in a fight. All of these factors make Samurai our best option for a Dance Partner.
 
-MNK
+
+### MNK
 Monk has pretty high personal damage (3rd or 4th highest personal damage job in a lot of fights) so they can make good use of the Standard Finish 5% damage buff. Devilment does not coincide well with MNK’s own buffs (Riddle of Fire and Brotherhood are 90s cooldowns), but Devilment will coincide with these buffs under most normal potion windows. There are some awkward interactions with Devilment and MNK’s Perfect Balance, where several of the GCDs MNK will be doing under Devilment are Bootshine which has a guaranteed chance to crit, making Devilment’s +crit% chance worthless for these GCDs. However, Devilment’s +crit% will also increase MNK’s chakra generation by about 1 additional chakra per cast of Devilment due to the MNK trait. This will allow for more Forbidden Chakra casts over the course of the fight. Lastly, MNK is the fastest job with a ~1.96s GCD. This means they are the job that can produce the most esprit overall.
 
-NIN
+
+### NIN
 Ninja is one of the lower jobs when it comes to personal DPS (~10-15% less damage than Samurai), but it is one of the best jobs when it comes to burst 2 minute windows to make use of Devilment. Devilment lines up nicely with Trick Attack, Kassatsu Ninjutsu, Ten Chi Jin, Meisui, Mug, Dream Within a Dream, and the Ninjutsu and Ninki gauge oGCDs for Bhavacakra you have saved going into Devilment. One small note about Devilment is it does not boost the Crit/DH chance of Assassinate because this ability is guaranteed to Crit+DH. Although NIN has a decently fast GCD with Huton, Ninjutsus are abilities that are on the GCD but do not generate esprit. Ten Chi Jin occurs during Technical Finish (when everyone has the esprit generation buff), so consideration of TCJ being a factor in NIN’s esprit generation is irrelevant to the deciding whether to choose NIN as your Dance Partner. NIN still generates more esprit than your average job that has no speed enhancement of GCDs.
 
-BLM
+
+### BLM
 Black Mage, along with Samurai, is one of the top damage dealers in most fights and can make very good use of Standard Finish 5% damage buff. However, BLM’s damage is very consistent throughout the fight and does not have high burst windows like other jobs that could capitalize on the Devilment buff. Additionally, the higher DPS gearset for BLM is a gearset that prioritizes spell speed, not crit. Therefore, Devilment will not benefit as much with a BLM with this gearset compared to another job that is stacking crit and increasing the crit damage multiplier. BLM does help the DNC generate esprit due to their fast GCDs with spell speed stacking and with Ley Lines granting them windows of very fast GCDs.
 
-SMN
+
+### SMN
 Summoner does pretty good personal DPS and is usually ranked #3 in single target boss fights. SMN can line up their trance windows with Devilment, however, there are situations where it is better for SMN to rush their trances which may desync it from Devilment in some fights. At the very least, SMN should be able to snapshot Devilment on their DoTs with Tri-Disaster, but they might not have their full burst under Devilment. Their esprit generation is on the lower side due to wanting to stack Crit/DH/Det over spell speed and will likely stay between a 2.50 and 2.48 GCD. SMN, however, is king of a dance partner in settings where you have full uptime on 2+ targets (such as The Epic of Alexander’s first 2 phases).
 
-RDM/DRG
+
+### RDM/DRG
 Both of these jobs are comparable when it comes to value as a dance partner. They both do similar personal damage (ranked average / slightly lower than average when comparing all DPS jobs). They both have decent burst in 2 minute windows to line up with Devilment. Both these jobs will generally stay closer to base 2.50 GCD so will have comparable esprit generation.
 
-MCH
+
+### MCH
 Although MCH does decent personal DPS, it has awkward interactions when it comes to Devilment. Reassemble guarantees a crit+DH for a Drill or Air Anchor, so using Reassemble when Devilment is up makes Devilment have no value for that specific GCD. It is advised to do this Reassemble outside of Devilment. Additionally, Wildfire is guaranteed to never crit nor DH, therefore this ability also will not get any value from Devilment. Hypercharge is decent for esprit generation because it enables the MCH to perform 5 Heatblasts in the time they would normally use 3 GCDs.
 
-BRD
+
+### BRD
 Bard is one of the lowest personal DPS jobs for overall damage. Additionally, their burst windows don’t sync well with Devilment. They get some extra GCDs than a typical ~2.50s GCD job would due to having faster speed during their Army’s Paeon to generate a little more esprit than some other jobs. Additionally, their songs (although oGCDs) technically have a chance to generate esprit because they are classified as “spells”.
-DNC
+
+### DNC
 Dancer’s Technical Finish and Devilment buffs do not stack with each other. If you were to Dance Partner another DNC, you would have to coordinate with them to do your Devilment and Technical Finish at different times. Using either of these buffs when they are already active will override the crit/dh buff from Devilment and the damage% buff from Technical Finish.
 
-Dance Partner Swapping
 
-In most cases, Dance Partner Swapping in regular uptime fights results is a minimal gain at best, and a significant loss of dps at worst if done during a fight. There are phases of fights / mechanics in fights that enable better time for swapping partners where gains may me more noticeable. For the most part, Dance Partner Swapping should only be done in high end environments such as optimized speed kills.
+## Dance Partner Swapping
+
+*In most cases, Dance Partner Swapping in regular uptime fights results is a minimal gain at best, and a significant loss of dps at worst if done during a fight. There are phases of fights / mechanics in fights that enable better time for swapping partners where gains may me more noticeable. For the most part, Dance Partner Swapping should only be done in high end environments such as optimized speed kills.*
+
 
 Dance Partner swapping is when you change your Dance Partner partway through a fight. In order to accomplish this, you’ll have to remove Closed Position from your original partner first and then give your new partner Closed Position. When you remove Closed Position, it will remove your Standard Finish buffs from your original partner (including esprit generation) and it will also remove the Devilment buff if it is currently running. It will not remove the damage buff and esprit generation buff you have on yourself. You cannot use or remove Closed Position while you are dancing. When Closed Position is active, the Closed Position hotkey will change to an action called “Ending” which triggers a 1 second cooldown for Closed Position when used. This action will remove the Closed Position buff from your partner and all of the buffs mentioned previously. Because of this 1 second cooldown, it is difficult to double weave Ending with initiating Closed Position on a new partner because this delays the animation of initiating the new Closed Position causing a clip to your GCD. Therefore, if swapping, the best practice would be to use Ending on a separate GCD from when you Closed Position your new partner.
+
 
 While swapping partners, the best time would be 2 GCDs before you use Standard Step so that the Standard Finish buff can be applied to your new partner as soon as possible. What this would look like is:
 
@@ -1301,28 +1265,34 @@ While swapping partners, the best time would be 2 GCDs before you use Standard S
 
 
 
+![](https://cdn.discordapp.com/attachments/752334526449057853/897230212444594216/unknown.png)
+
 When reapplying Closed position, you can use a macro that targets a specific party member and casts “Closed Position” on them. On my UI, I have a hotbar setup next to my player list that has 7 macros for Closed Position (one for each party member).
 
 The macros have the text:
 
-/micon "Closed Position"
-/ac "Closed Position" <2>
+`/micon "Closed Position"`  
+`/ac "Closed Position" <2>`
 
-/micon "Closed Position"
-/ac "Closed Position" <3>
+`/micon "Closed Position"`  
+`/ac "Closed Position" <3>`  
 
-/micon "Closed Position"
-/ac "Closed Position" <4>
+`/micon "Closed Position"`  
+`/ac "Closed Position" <4> `  
 
 
 etc...
 
 
+
 This will place Closed Position on the party member who is in that slot based on how you have your party list sorted. When using macros, there is an inherent delay that is caused by the macro in using the oGCD ability. Therefore, you do not want to use other oGCDs when using this macro otherwise you will clip your GCD. The alternative to using a macro would be to select the party member and manually use the Closed Position ability. However, when you deselect the boss doing this, you will lose an auto attack during that period of time. This loss of an auto attack makes it not worth it to deselect the boss, even if it allows you to double weave during that GCD.
+
 
 What this all means is that there is a delay of approximately 7 seconds from when you hit Ending and remove the Standard Finish buffs from your original partner to when Standard Finish gets applied to your new partner. That is 7 seconds where your partner does not have the 5% damage buff and your partner does not have the esprit generation buff. If doing a planned Dance Partner swap, you should consider whether this loss of the damage buff and loss of the esprit buff for 7 seconds is worth giving a different party member the buff.
 
+
 With the current balance of jobs in 5.2, I would only ever consider doing planned Dance Partner swaps if you have one DPS who does high overall damage but not great damage in Devilment window and another DPS who does great burst damage under Devilment but is low in overall damage while the 3rd DPS is mediocre in both. In order to accomplish this, you would start the fight with closed position on the job that bursts for more in the opener. Then, on the Standard Step that occurs after Devilment wears off, switch to the partner who does more overall damage but does not burst as well. On the Standard Step that happens before the next Devilment, switch back to the high bursting DPS. Overall, this would require swapping partners every minute on the Standard Steps before and after Devilment. However, this would mean you are losing the esprit generation for your partner for 7 seconds every minute and no DPS has the 5% damage up buff for 7 seconds every minute. You have to be certain that the DPS that is gained by having Devilment on the higher bursting job is worth the loss of the Standard Finish buff for this amount of time. In the current state of jobs in 5.2, the only party DPS composition I would consider doing this dance swap would be if the DPS jobs were DNC, NIN, BLM, and the 4th is either DRG, RDM, BRD, or MCH. In this case, I may consider partnering the NIN during Devilment while switching to the BLM in the off-Devilment windows. Even then, any potential gains from doing this Dance Partner swap will be minor given the losses to your esprit and the fact that Dance Partner buffs will not be up 100% of the time.
+
 
 If your Dance Partner dies during a fight, it is very important to swap to a living partner as soon as you can, especially if Devilment is about to come up. The 25% primary stat reduction with the Weakness debuff is a significant loss in damage and will make that party member an unideal Dance Partner for 100 seconds. Once their Weakness debuff wears off, figure out an ideal time in your rotation to repartner them in order to be buffing the strongest partner possible.
 
@@ -1355,92 +1325,115 @@ If your Dance Partner dies during a fight, it is very important to swap to a liv
 
 
 
-DNC Utility
+
+--- 
+
+# DNC Utility
 
 Dancer has several abilities that can help with mitigation, healing, or otherwise help with handling certain mechanics in a fight. This section highlights how to best use some of these abilities:
 
-Shield Samba
+
+## Shield Samba
 
 Shield Samba is a 120 second cooldown ability that provides a 10% damage reduction buff to all party members within a 20y radius around the Dancer for 15 seconds. The best time to use this ability would be for raid wide AoE damage. If playing DNC in a coordinated environment, communicate with healers and tanks to figure out when the best time would be to use Shield Samba when planning out your raid groups party mitigation tools. Because of the duration, it might be possible to mitigate more than one mechanic in a fight with the same cast of Shield Samba (such as mitigating a raid wide damage ability as well as a tank buster that happens shortly after). Sometimes the timing is tight but doable where you use Shield Samba near the end of the cast of a Boss’ action to also hit a later mechanic.
 
 This ability does not stack with BRD’s Troubadour or MCH’s Tactician (both of which have the same effects of 10% damage reduction for 15 seconds on a 120 second cooldown). However, one key thing to point out about Shield Samba is that it cannot be used while you are dancing. If you are trying to time Shield Samba at a precise time to cover a specific mechanic, it may be difficult to get the precise GCD for the cast you want if you are doing a dance during this time.
 
-Curing Waltz
+
+## Curing Waltz
 
 Curing Waltz does a very small AoE heal on you and everyone in a 3y radius of you. Additionally, this AoE heal will be duplicated on whoever is your Dance Partner. If you stand directly on top of your Dance Partner when you use Curing Waltz, both you and your Dance Partner as well as anyone standing in that radius will be hit by 2 instances of the heal. At current BiS in patch 5.25, getting hit by both heals does somewhere between 17k and 18k altogether. This is effectively the same amount of healing done by a non-crit Indomitability from a SCH. Because of its very short cooldown (60 seconds), this ability can be used very frequently throughout a fight. It pairs well with topping the party off before or after raid wide damage occurs. However, if you are at a part of the fight where there is little raid wide damage, you can consider running on top of the tank (if it is safe to do so) and casting it on them to give them a very small, free spot heal. Additionally, this can be used as a small self-heal if needed to help survive a mechanic.
 
-Improvisation
+
+## Improvisation
 
 In addition to generating esprit, Improvisation provides a 10% healing increase buff to party members in range. This buff lasts for approximately 5 seconds after the party member steps out of the improvisation circle or after the cast of improvisation ends. Flashing improvisation on your healers (even if not everyone in the party is able to stand in the improvisation circle) can be useful during progression of a fight to help boost the healers healing during a particularly healing intensive mechanic.
 
-Head Graze
+
+## Head Graze
 
 Head Graze is a role action for ranged physical damage dealers that will interrupt the targets cast (i.e. “silence”). This ability is not always needed in Savage fights. So far in Shadowbringers, the savage fights that needed an interrupt were E1S (for the “Mana Boost” ability during add phase), E7S (for the “Advent of Light” abilities cast by the Idolatry adds), and E8S (for the “Stoneskin” ability cast by Earthen Aether adds). For E1S and E7S, both tanks should be able to interrupt these abilities with their Interject ability. However, for E8S, the tank on the West side of add phase will not be able to silence both Earthen Aether adds, which then requires a ranged physical damage dealer to be on that side as well in order to cover all of the silences needed for add phase. Head Graze has a 30 second cooldown. Since this is a role action, it can be used during a dance if need be.
 
-Arm’s Length
+
+## Arm’s Length
 
 Although not a support ability, this role action prevents you from being knocked back for 6 seconds (120 second cooldown for the ability). There are some mechanics where this will not prevent the knockback effect, but it is useful for preventing knockbacks in a lot of situations. Since this is a role action, it can be used during a dance if need be.
 
-Second Wind
+
+## Second Wind
 
 Second wind is a useful self heal oGCD that is on a 120 second cooldown. At current 5.2 BiS, it heals for about 14k non-crit (approximately 12% of your max hp). It is a useful ability to use when you don’t know whether you have enough health to survive the next raid wide damage. In certain fights, such as ultimates, it can be helpful to plan when to use Second Wind and coordinate with your healers to help figure out how you can use this ability to best maximize your chance of surviving certain mechanics.
 
-Peloton
+
+## Peloton
 
 Peloton is a ranged role action that boosts everyone’s movement speed slightly when out of combat. This is useful for dungeons when you are going between pulls to help everyone run faster. The movement speed boost from Peloton does not stack with Sprint (Sprint’s movement speed boost will take priority since it is a faster movement speed buff). Additionally, if used in combat, it will have no effect on boosting anyone’s movement speed since the buff automatically disappears if you are in combat. This can be used pre-pull in a raid fight to help the party run to the boss faster right as the countdown hits zero. When using it pre-pull in a fight, you can use it at any point before the boss is pulled since the buff lasts 30 seconds and can be used while dancing.
 
 
-En Avant
+
+## En Avant
 
 En Avant is a movement ability that DNCs can use to quickly dash 10y in the direction they are facing. It can be useful for quickly dodging AoEs, or just in general to help with movement while handling a mechanic. En Avant is on a charge system where you can have a maximum of 3 charges of the ability. As long as you have charges, you can use this ability. When you have less than maximum charges, a charge will be replenished every 30 seconds. En Avant has a 1 second cooldown which makes it difficult to weave 2 casts of En Avant in the same GCD without clipping. En Avant can be used while dancing if need be.
 
 
-Common Abbreviations
 
-AoE - short for area of effect
-BiS - short for best in slot
-BS - short for Bloodshower
-Det - short for Determination, secondary stat
-DEX - short for dexterity, DNC’s primary damage stat
-DH - short for Direct Hit, secondary stat
-DM - short for Devilment
-DNC - short for Dancer
-DPS - short for damage per second
-GCD - short for global cooldown
-FD1 - short for Fan Dance
-FD2 - short for Fan Dance II
-FD3 - short for Fan Dance III
-FF - short for Fountainfall
-oGCD - short for off global cooldown
+---
+
+# Common Abbreviations
+
+AoE - short for area of effect    
+BiS - short for best in slot  
+BS - short for Bloodshower  
+Det - short for Determination, secondary stat  
+DEX - short for dexterity, DNC’s primary damage stat  
+DH - short for Direct Hit, secondary stat  
+DM - short for Devilment  
+DNC - short for Dancer  
+DPS - short for damage per second  
+GCD - short for global cooldown  
+FD1 - short for Fan Dance  
+FD2 - short for Fan Dance II  
+FD3 - short for Fan Dance III  
+FF - short for Fountainfall  
+oGCD - short for off global cooldown    
 RC - short for Reverse Cascade
-RW - short for Rising Windmill
-SF - short for Standard Finish, the ending move of the Standard Step dance sequence
-SkS - short for skill speed, secondary stat
-SS - short for Standard Step
-TF - short for Technical Finish, the ending move of the Technical Step dance sequence
-TS - short for Technical Step
-WD - short for weapon damage, stat on your main hand weapon
+RW - short for Rising Windmill  
+SF - short for Standard Finish, the ending move of the Standard Step dance sequence  
+SkS - short for skill speed, secondary stat  
+SS - short for Standard Step  
+TF - short for Technical Finish, the ending move of the Technical Step dance sequence  
+TS - short for Technical Step  
+WD - short for weapon damage, stat on your main hand weapon  
 
 
 
 
 
 
-Glossary of Terms
 
-Clipping 
+# Glossary of Terms
+
+
+## Clipping 
 the act of delaying a GCD due to the timing of the usage of an oGCD or the number of oGCDs used in between GCDs, can cause significant losses in DPS if many clips occur in a fight
-Closed Position 
+
+## Closed Position 
 an ability that can be used on a target party member that grants them the Dance Partner party effect
-Dance Partner 
+
+## Dance Partner 
 the effect granted by Closed Position. Enables the targeted player to also benefit from the effects of Standard Finish, Devilment, and Curing Waltz
-GCD 
+
+## GCD 
 short for global cooldown, most weaponskills and spells in FFXIV are on a base global cooldown timer of 2.5 seconds (meaning once you activate that weaponskill or spell, you cannot execute another one for 2.5 seconds). The base GCD is different for some skills. Most skills and spells’ GCD can be lowered by acquiring skillspeed/spellspeed on your gear.
-oGCD 
-short for off global cooldown, these are abilities that are not on the global cooldown and instead have an independent cooldown. They do not trigger the global cooldown and under most circumstances can be used inbetween GCDs (this is known as weaving)
-Proc 
+
+## oGCD 
+short for off global cooldown, these are abilities that are not on the global cooldown and instead have an independent cooldown. They do not trigger the global cooldown and under 
+most circumstances can be used inbetween GCDs (this is known as weaving)
+
+## Proc 
 refers to a GCD or oGCD that has a % chance to be usable based off a separate action that generates this effect. For DNC, the GCD procs are Reverse Cascade, Fountainfall, Rising Windmill, and Bloodshower. The oGCD proc from Fan Dance is called Fan Dance III.
-Weaving 
+
+## Weaving 
 using oGCD abilities in between GCDs (using 1 oGCD between GCDs = Single Weaving, using 2 oGCD between GCDs = Double Weaving)
 
 
@@ -1459,32 +1452,41 @@ using oGCD abilities in between GCDs (using 1 oGCD between GCDs = Single Weaving
 
 
 
-About the Author
 
-Hello there! My name is Ringabel Dim of Excalibur. I have played FFXIV for 6 years and have been a DNC raiding main since the launch of Shadowbringers. I have done raid progression and fight specific optimizations on DNC for both Savage raid tiers (Eden’s Gate and Eden’s Verse) and The Epic of Alexander with my raid group on the Primal data center (“Monkeys with Typewriters”). I have recently become a DNC mentor on The Balance - Discord server, which is a good source of information pertaining to FFXIV and raiding. If you have any questions regarding DNC, there is a #dnc_questions channel there which is a great place to ask anything with regards to DNC!
+---
 
+# About the Author
 
-
-
-
-
-
-Special Thanks
-
-Rah (DNC Mentor on The Balance)
-Io (DNC Mentor on The Balance)
-Resilla and Yumiya (Helpful DNCs on The Balance who helped look over this guide for errors)
-Ellunavi (Moderator on The Balance, and contributed much to DNC resources including his analysis and simulation tool)
-Allagan Studies
-Alevia Rohan for helping me host this guide on SaltedXIV
-My static, “melees fkn sukMonkeys with Typewriters”, for letting me put up the axe and become a DNC main =)
+Hello there! My name is Ringabel Dim of Excalibur. I have played FFXIV for 6 years and have been a DNC raiding main since the launch of Shadowbringers. I have done raid progression and fight specific optimizations on DNC for both Savage raid tiers (Eden’s Gate and Eden’s Verse) and The Epic of Alexander with my raid group on the Primal data center (“Monkeys with Typewriters”). I have recently become a DNC mentor on [The Balance - Discord server](https://discord.gg/CjQkEn3), which is a good source of information pertaining to FFXIV and raiding. If you have any questions regarding DNC, there is a #dnc_questions channel there which is a great place to ask anything with regards to DNC!
 
 
 
 
 
 
-Changelog
-July 19, 2020 - Guide completed and published
-August 10, 2020 - Updated gearing section with link to new gearing guide for 5.3. Updated Dance Partner Priority list (changed 4. BLM + SMN to 4. BLM, 5. SMN in response to 5.3 SMN nerf)
-August 12, 2020 - Updated TEA BiS using new dungeon items from 5.3.
+
+
+# Special Thanks
+
+- Rah (DNC Mentor on The Balance)
+- Io (DNC Mentor on The Balance)
+- Resilla and Yumiya (Helpful DNCs on The Balance who helped look over this guide for errors)
+- Ellunavi (Moderator on The Balance, and contributed much to DNC resources including his analysis and simulation tool)
+- Allagan Studies
+- Alevia Rohan for helping me host this guide on SaltedXIV
+- My static, “Monkeys with Typewriters”, for letting me put up the axe and become a DNC main =)
+
+
+
+
+
+
+
+# Changelog
+- July 19, 2020
+  - Guide completed and published
+- August 10, 2020
+  - Updated gearing section with link to new gearing guide for 5.3.
+  - Updated Dance Partner Priority list (changed 4. BLM + SMN to 4. BLM, 5. SMN in response to 5.3 SMN nerf)
+- August 12, 2020
+  - Updated TEA BiS using new dungeon items from 5.3.
