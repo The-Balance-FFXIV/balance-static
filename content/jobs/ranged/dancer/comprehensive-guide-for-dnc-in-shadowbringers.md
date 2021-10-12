@@ -220,9 +220,9 @@ Feathers are a resource the Dancer can use to perform Fan Dances that are weaved
 
 You can use a Feather by using either Fan Dance (single target ability that does 150 potency) or Fan Dance II (AoE around you that does 100 potency to all targets hit). Successfully landing a hit with either of these abilities has a 50% chance to grant you the ability to use Fan Dance III (200 potency to selected target and 100 potency to all targets in an AoE around your target).
 
-It is important to save these feathers as much as possible for opportunities when you have strong buffs to increase their damage (such as your Technical Finish / Devilment window). However, overcapping on feathers is a considerable loss to your DPS. Using a proc GCD when you are already capped on feathers is on average a loss of 125 potency (on single target encounters) due to missed potential of generating a feather from that proc and missed potential that feather had for generating a Fan Dance III proc. Using Fan Dance when you already have a Fan Dance III proc is on average a loss of 100 potency due to potentially missing an opportunity to use the Fan Dance III proc that could have been generated from that feather.
+It is important to save these Feathers as much as possible for opportunities when you have strong buffs to increase their damage (such as your Technical Finish / Devilment window). However, overcapping on Feathers is a considerable loss to your DPS. Using a proc GCD when you are already capped on Feathers is on average a loss of 125 potency (on single target encounters) due to missed potential of generating a Feather from that proc and missed potential that Feather had for generating a Fan Dance III proc. Using Fan Dance when you already have a Fan Dance III proc is on average a loss of 100 potency due to potentially missing an opportunity to use the Fan Dance III proc that could have been generated from that Feather.
 
-When you have no feathers, Fan Dance and Fan Dance II are grayed out and unavailable:  
+When you have no Feathers, Fan Dance and Fan Dance II are grayed out and unavailable:  
 
 ![](https://cdn.discordapp.com/attachments/752334526449057853/897214836558151701/unknown.png)
 
@@ -230,7 +230,7 @@ When you have no feathers, Fan Dance and Fan Dance II are grayed out and unavail
 	
 ```
 
-When you have at least 1 feather, Fan Dance and Fan Dance II will be highlighted like this showing that these actions are able to be used. In a fight, feathers do not expire unless you die.![](https://cdn.discordapp.com/attachments/752334526449057853/897214900806500442/unknown.png)
+When you have at least one Feather, Fan Dance and Fan Dance II will be highlighted like this showing that these actions are able to be used. In a fight, Feathers do not expire unless you die.![](https://cdn.discordapp.com/attachments/752334526449057853/897214900806500442/unknown.png)
 
 When Fan Dance III procs, you get a buff that lasts for 20 seconds that allows you to use Fan Dance III called “Flourishing Fan Dance”. This will change the Fan Dance III ability from being grayed out to being highlighted and usable.![](https://cdn.discordapp.com/attachments/752334526449057853/897215115412275222/unknown.png)				
 
