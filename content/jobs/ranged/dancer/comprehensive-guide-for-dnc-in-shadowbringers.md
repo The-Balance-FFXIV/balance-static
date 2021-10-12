@@ -226,10 +226,6 @@ When you have no Feathers, Fan Dance and Fan Dance II are grayed out and unavail
 
 ![](https://cdn.discordapp.com/attachments/752334526449057853/897214836558151701/unknown.png)
 
-```
-	
-```
-
 When you have at least one Feather, Fan Dance and Fan Dance II will be highlighted like this showing that these actions are able to be used. In a fight, Feathers do not expire unless you die.![](https://cdn.discordapp.com/attachments/752334526449057853/897214900806500442/unknown.png)
 
 When Fan Dance III procs, you get a buff that lasts for 20 seconds that allows you to use Fan Dance III called “Flourishing Fan Dance”. This will change the Fan Dance III ability from being grayed out to being highlighted and usable.![](https://cdn.discordapp.com/attachments/752334526449057853/897215115412275222/unknown.png)				
@@ -276,41 +272,41 @@ Esprit has a chance to be generated for the DNC whenever anyone with the Standar
 ## Actions that DO NOT Generate Esprit:
 
 * All oGCD “abilities”
-* Healing spells and other non-damage dealing weaponskills or spells (such as BLM’s Umbral Soul, MNK’s Form Shift, and SMN’s Egi Assault when using Titan-Egi / Topaz Carbuncle for Earthen Armor / Glittering Topaz)
-* “Abilities” that are on the GCD including
+* Healing spells and other non-damage dealing weaponskills or spells (such as BLM’s Umbral Soul, MNK’s Form Shift, and SMN’s Egi Assault when using Titan-Egi / Topaz Carbuncle for Earthen Armor / Glittering Topaz).
+* “Abilities” that are on the GCD including:
 
-  * NIN’s Ninjutsus/Mudras including Kassatsu Ninjutsu and Ten Chi Jin Ninjutsus
-  * SAM’s Tsubame-gaeshi (the Kaeshi Iaijutsus) and Meditate
-  * MNK’s Meditation and Form Shift
-  * DNC’s Standard / Technical Step, Standard / Technical Finish, and all intermittent dance steps
-* “Weaponskills” and “Spells” cast by pets (since the pets do not gain the esprit buff)
+  * NIN’s Ninjutsus/Mudras including Kassatsu Ninjutsu and Ten Chi Jin Ninjutsus.
+  * SAM’s Tsubame-gaeshi (the Kaeshi Iaijutsus) and Meditate.
+  * MNK’s Meditation and Form Shift.
+  * DNC’s Standard / Technical Step, Standard / Technical Finish, and all intermittent dance steps.
+* “Weaponskills” and “Spells” cast by pets (since the pets do not gain the Esprit buff):
 
-  * MCH’s Automaton Queen’s 2 “weaponskills” (Arm Punch and Roller Dash)
-  * SMN’s Pet actions that are classified as spells
-  * NIN’s Bunshin GCD effects
-  * DRK’s Living Shadow
+  * MCH’s Automaton Queen’s 2 “weaponskills” (Arm Punch and Roller Dash).
+  * SMN’s Pet actions that are classified as spells.
+  * NIN’s Bunshin GCD effects.
+  * DRK’s Living Shadow.
 
-Based on early testings watching how much esprit is generated on a job by job basis, it was estimated that DNC’s esprit generation on weaponskills is approximately 30% chance to generate 10 esprit per weaponskill. For all other jobs, the esprit generation rate is approximately 20% to generate 10 esprit per weaponskill or spell.\
-*These esprit generation rates are assumptions and have not been 100% confirmed. Whether different jobs have slightly different esprit generation rates is unknown (despite some speculation and potentially mistranslated information about DNC from information before Shadowbringers). In order to confirm this information, large amounts of data would need to be collected for many runs of different jobs. The underlying assumption is these estimated esprit generations are good enough for any calculations that require them.*
+Based on early testings watching how much Esprit is generated on a job by job basis, it was estimated that DNC’s Esprit generation on weaponskills is approximately 30% chance to generate 10 Esprit per weaponskill. For all other jobs, the Esprit generation rate is approximately 20% to generate 10 Esprit per weaponskill or spell.\
+*These Esprit generation rates are assumptions and have not been 100% confirmed. Whether different jobs have slightly different Esprit generation rates is unknown (despite some speculation and potentially mistranslated information about DNC from information before Shadowbringers). In order to confirm this information, large amounts of data would need to be collected for many runs of different jobs. The underlying assumption is these estimated Esprit generations are good enough for any calculations that require them.*
 
-During Technical Finish, the other 6 party members who do not have the Standard Finish buff will gain an esprit generation buff for 20 seconds. You and your dance partner will retain the normal amount of esprit generation you had before. Under Technical Finish, instead of 2 people contributing to your esprit generation, there are 8 people contributing to your esprit generation (effectively quadrupling this generation rate for 20 seconds).
+During Technical Finish, the other six party members who do not have the Standard Finish buff will gain an Esprit generation buff for 20 seconds. You and your Dance Partner will retain the normal amount of Esprit generation you had before. Under Technical Finish, instead of two people contributing to your Esprit generation, there are eight people contributing to your Esprit generation (effectively quadrupling this generation rate for 20 seconds).
 
 - - -
 
 # Improvisation
 
-Improvisation is a level 80 Dancer ability that creates a circle around you in a 6y radius for as long as you channel the ability for up to 15 seconds. This ability will generate esprit based on how many party members are standing in the circle. When used in combat, it will generate 3 esprit + 1 for each party member who is in your circle per server tick (so if all 7 other party members are standing in it, it will generate 10 esprit per server tick). The ideal time to use Improvisation is during downtime when the boss is untargetable (such as a phase change). If channeled for the full duration, you can generate up to 60 esprit if everyone is standing in your circle. Additionally, it will grant a 10% healing buff for anyone standing in the circle. Since this ability is channeled, it will cancel the auto attack when initiating. You can potentially weave this ability in between GCDs when the whole party is standing together to “fish” for esprit. Due to the potential loss of an auto attack, this is a marginal gain at best, and a loss if you do not have all 7 party members in the circle (missing even 1 party member will cause you to only generate 9 esprit which effectively cannot contribute to a Saber Dance -- 49 esprit is not enough to use Saber Dance while 50 is). 
+Improvisation is a level 80 Dancer ability that creates a circle around you in a six yalm radius for as long as you channel the ability for up to 15 seconds. This ability will generate Esprit based on how many party members are standing in the circle. When used in combat, it will generate 3 Esprit + 1 for each party member who is in your circle per server tick (so if all seven other party members are standing in it, it will generate 10 Esprit per server tick). The ideal time to use Improvisation is during downtime when the boss is untargetable (such as a phase change). If channeled for the full duration, you can generate up to 60 Esprit if everyone is standing in your circle. Additionally, it will grant a 10% healing buff for anyone standing in the circle. Since this ability is channeled, it will cancel the auto attack when initiating. You can potentially weave this ability between GCDs when the whole party is standing together to “fish” for Esprit. Due to the potential loss of an auto attack, this is a marginal gain at best, and a loss if you do not have all seven party members in the circle (missing even one party member will cause you to only generate 9 Esprit which effectively cannot contribute to a Saber Dance -- 49 Esprit is not enough to use Saber Dance while 50 is). 
 
 - - -
 
 # Understanding Flourish
 
-Flourish is a 60s cooldown oGCD ability that grants all 4 of our proc GCDs and a proc of Fan Dance III. Whenever you naturally proc one of these abilities, you gain a buff that lasts for 20 seconds that allow you to use that specific proc’d action. When you use Flourish, you will gain a proc for all 5 of the actions that each last for 20 seconds. The Flourish window in a DNC’s rotation can be a very hectic time, especially since you will not want to waste a single proc and 2 of the procs are AoE GCDs that require being close to the boss in order to hit.  
+Flourish is a 60s cooldown oGCD ability that grants all four of our proc GCDs and a proc of Fan Dance III. Whenever you naturally proc one of these abilities, you gain a buff that lasts for 20 seconds that allow you to use that specific proc’d action. When you use Flourish, you will gain a proc for all five of the actions which each last for 20 seconds. The Flourish window in a DNC’s rotation can be a very hectic time, especially since you will not want to waste a single proc and 2 of the procs are AoE GCDs that require being close to the boss in order to hit.  
 
 ![](https://cdn.discordapp.com/attachments/752334526449057853/897215433843802132/unknown.png)\
-(The buffs granted by flourish that allow you to use Reverse Cascade, Fountainfall, Rising Windmill, Bloodshower, and Fan Dance III)
+(The buffs granted by flourish that allow you to use Reverse Cascade, Fountainfall, Rising Windmill, Bloodshower, and Fan Dance III).
 
-Using Flourish while any of these procs are already active is a significant DPS loss. Using Flourish when the Fan Dance III proc is already active is a loss of 200 potency. Losing a Fountainfall / Bloodshower proc is a 142 potency loss over our average GCD potency. Losing a Reverse Cascade / Rising Windmill proc is a 92 potency loss over our average GCD potency. It is better to use your proc and delay Flourish by 1 GCD than using Flourish to override the proc.
+Using Flourish while any of these procs are already active is a significant DPS loss. Using Flourish when the Fan Dance III proc is already active is a loss of 200 potency. Losing a Fountainfall / Bloodshower proc is a 142 potency loss over our average GCD potency. Losing a Reverse Cascade / Rising Windmill proc is a 92 potency loss over our average GCD potency. It is better to use your proc and delay Flourish by one GCD than using Flourish to override the proc.
 
 However, there are ways that we can avoid delaying Flourish while not losing any procs. When doing your rotation normally before Flourish, you can do:
 
@@ -321,100 +317,100 @@ This will help reduce the potential of having proc(s) going into Flourish coming
 
 To prevent going into Flourish with a Fan Dance III proc already active, weave that Fan Dance III before using Flourish. If the Fan Dance III procs on the last oGCD of the GCD before you use Flourish, you can double weave the Fan Dance III → Flourish in that order.
 
-In order to avoid losing a proc while also using Flourish on cooldown, we can intentionally save esprit to use a Saber Dance to help buffer our GCD in preparation for Flourish. Thinking 2 GCDs ahead of Flourish, we will want to consider the following:
+In order to avoid losing a proc while also using Flourish on cooldown, we can intentionally save Esprit to use a Saber Dance to help buffer our GCD in preparation for Flourish. Thinking 2 GCDs ahead of Flourish, we will want to consider the following:
 
 ![](https://cdn.discordapp.com/attachments/752334526449057853/897215611007029309/unknown.png)\
 (image courtesy of Io Whitespirit of The Balance - Discord server)
 
-You have 20 seconds to use all of your procs before they expire. DNC is only able to execute at most 8 GCDs in that 20 second time frame. Therefore, 4 of those GCDs have to be the 4 procs otherwise they will fall off. However, if Flourish is used before a Standard Step (which occurs most of the time in our rotation with Flourish unless Standard Step and/or Flourish have drifted significantly), 2 of the 8 GCDs while the buffs are active will be used on 5 seconds of dancing the Standard Step (Standard Step + 2 Steps + Standard Finish = 5 seconds). Therefore, we only have 6 actionable GCDs where we can use the 4 procs. Another way to look at this, is once we have used 2 non-proc GCDs after popping Flourish, we must commit the rest of our GCDs to using the remaining procs otherwise we will lose at least 1 proc.
+You have 20 seconds to use all of your procs before they expire. DNC is only able to execute at most eight GCDs in that 20 second time frame. Therefore, four of those GCDs have to be the four procs otherwise they will fall off. However, if Flourish is used before a Standard Step (which occurs most of the time in our rotation with Flourish unless Standard Step and/or Flourish have drifted significantly), two of the eight GCDs while the buffs are active will be used on five seconds of dancing the Standard Step (Standard Step + two Steps + Standard Finish = five seconds). Therefore, we only have six actionable GCDs where we can use the four procs. Another way to look at this, is once we have used two non-proc GCDs after popping Flourish, we must commit the rest of our GCDs to using the remaining procs otherwise we will lose at least one proc.
 
-Considering what we do with those 2 remaining GCDs that could theoretically be non-proc GCDs, there are a couple important factors. Are we capped on esprit or nearly capped? Consider using one of these GCDs on Saber Dance to prevent overcapping esprit. Do we have a combo’d Fountain available that hasn’t been used? Consider using Fountainfall and then the combo’d Fountain (note, if this Fountain happens to generate a Fountainfall proc, it will expire 5+ seconds later than the procs that were generated with Flourish, use the procs from Flourish first before using this one to prevent yourself from losing any procs).
+Considering what we do with those two remaining GCDs that could theoretically be non-proc GCDs, there are a couple important factors. Are we capped on Esprit or nearly capped? Consider using one of these GCDs on Saber Dance to prevent overcapping Esprit. Do we have a combo’d Fountain available that hasn’t been used? Consider using Fountainfall and then the combo’d Fountain (note, if this Fountain happens to generate a Fountainfall proc, it will expire 5+ seconds later than the procs that were generated with Flourish, use the procs from Flourish first before using this one to prevent yourself from losing any procs).
 
 ![](https://cdn.discordapp.com/attachments/752334526449057853/897215786647711814/unknown.png)\
-Note: After doing this combo’d Fountain, continue using the rest of your Flourish procs and use Standard Step when it comes up. You can only use at most 1 more non-Flourish’ed proc GCD (i.e. potentially Saber Dance) before you must commit to only using the proc GCDs to ensure you don’t lose any.
+Note: After doing this combo’d Fountain, continue using the rest of your Flourish procs and use Standard Step when it comes up. You can only use at most one more non-Flourish’ed proc GCD (i.e. potentially Saber Dance) before you must commit to only using the proc GCDs to ensure you don’t lose any.
 
-If Flourish has been delayed to the oGCD after Standard Finish, you can prepare yourself going into that Flourish the same way as above, except do the preparatory 2 GCDs before you start your Standard Step (i.e. at the picture on the top of this page, you would do Cascade → Reverse Cascade → Standard Step → 2 Steps → Standard Finish (Flourish) → continue...  ). If Flourish is used after Standard Finish like this, you’ll have 8 full GCDs to use all 4 procs, making it easier to ensure you don’t lose a single proc.
+If Flourish has been delayed to the oGCD after Standard Finish, you can prepare yourself going into that Flourish the same way as above, except do the preparatory two GCDs before you start your Standard Step (i.e. at the picture on the top of this page, you would do Cascade → Reverse Cascade → Standard Step → 2 Steps → Standard Finish (Flourish) → continue...  ). If Flourish is used after Standard Finish like this, you’ll have eight full GCDs to use all four procs, making it easier to ensure you don’t lose a single proc.
 
 Consider prioritizing doing the AoE procs (Rising Windmill and Bloodshower) during Flourish at points in time when you know you’ll be able to be in melee range of the boss.
 
-Not losing a proc is especially difficult when Flourish is used during Technical Finish because you are generating a lot of esprit during that time. Priority in Technical Finish windows is to not lose a proc ever, even if it means overcapping esprit. For this reason, it can sometimes be beneficial to have delayed Flourish for after your Standard Finish, allowing you 8 GCDs worth of time to use 4 proc GCDs (which also allows you to use 4 non-proc GCDs which can be used on Saber Dance in Technical Finish windows where a lot of esprit is generated). Refer to the “Technical Finish / Devilment Window Optimization” section of this guide for more details of when this would be a gain.
+Not losing a proc is especially difficult when Flourish is used during Technical Finish because you are generating a lot of Esprit during that time. Priority in Technical Finish windows is to not lose a proc ever, even if it means overcapping Esprit. For this reason, it can sometimes be beneficial to have delayed Flourish for after your Standard Finish, allowing you eight GCDs worth of time to use four proc GCDs (which also allows you to use four non-proc GCDs which can be used on Saber Dance in Technical Finish windows where a lot of Esprit is generated). Refer to the “Technical Finish / Devilment Window Optimization” section of this guide for more details of when this would be a gain.
 
 - - -
 
 # DNC “Rotation”
 
-Because much of what GCDs DNC uses depend on their luck in generating procs and esprit, DNC doesn’t have a “rotation” in the sense of a consistent execution of weaponskills in a specific order. The general flow of DNC in a Single Target encounter is performing a dance, followed by weaponskills until the dance comes off cooldown:
+Because much of what GCDs DNC uses depend on their luck in generating procs and Esprit, DNC doesn’t have a “rotation” in the sense of a consistent execution of weaponskills in a specific order. The general flow of DNC in a Single Target encounter is performing a dance, followed by weaponskills until the dance comes off cooldown:
 
 ![](https://cdn.discordapp.com/attachments/752334526449057853/897215882768572487/unknown.png)
 
-where the “GCD” boxes can represent any of Cascade, Fountain, Reverse Cascade, Fountainfall, Rising Windmill, Bloodshower, or Saber Dance. For which GCD to use in which box, that depends on our GCD priority list in the next section. But ultimately, the simple form of the DNC rotation outside of Technical Finish / Devilment can be summed up as 10 GCDs in between Standard Steps.
+Where the “GCD” boxes can represent any of Cascade, Fountain, Reverse Cascade, Fountainfall, Rising Windmill, Bloodshower, or Saber Dance. Which GCD to use in which box depends on our GCD priority list in the next section. But ultimately, the simple form of the DNC rotation outside of Technical Finish / Devilment can be summed up as ten GCDs in between Standard Steps.
 
 - - -
 
 # General Single Target GCD Priority List
 
-This GCD priority list was determined by identifying what would have the biggest loss to your DPS and preventing that from happening. Per Ellunavi’s analysis, the average GCD value for DNC is 347. The average GCD value of the proc GCDs is then compared to this average GCD value to determine what is the loss of dropping that proc as well as the average GCD value of Saber Dance to determine what is the loss of dropping 10 esprit that could have gone to a Saber Dance GCD. Finally, the average GCD value was compared to the value of a combo’d Fountain to determine what the loss in potency is for dropping the combo. The following is the result in the comparisons:
+This GCD priority list was determined by identifying what would have the biggest loss to your DPS and preventing that from happening. Per Ellunavi’s analysis, the average GCD value for DNC is 347. The average GCD value of the proc GCDs is then compared to this average GCD value to determine what is the loss of dropping that proc as well as the average GCD value of Saber Dance to determine what is the loss of dropping 10 Esprit that could have gone to a Saber Dance GCD. Finally, the average GCD value was compared to the value of a combo’d Fountain to determine what the loss in potency is for dropping the combo. The following is the result in the comparisons:
 
 1. Losing Fountainfall / Bloodshower proc is a 142 potency loss.
-2. Losing Reverse Cascade / Rising Windmill proc is a 92 potency loss
-3. Losing 10 esprit due to overcapping is a loss of 53.4 potency per 10 esprit.
-4. Losing the combo’d Fountain is a loss of 37.5 potency
+2. Losing Reverse Cascade / Rising Windmill proc is a 92 potency loss.
+3. Losing 10 Esprit due to overcapping is a loss of 53.4 potency per 10 Esprit.
+4. Losing the combo’d Fountain is a loss of 37.5 potency.
 
 The GCD priority list below was made by figuring out how to minimize these potential losses as best as possible. The result for GCD priority was: 
 
-1. Fountainfall, Bloodshower, Reverse Cascade, Rising Windmill if not using them would otherwise let that proc fall. Note: Procs last 20 seconds. (If you have to choose which proc to let fall: Fountainfall = Bloodshower > Reverse Cascade = Rising Windmill  in potency value)
-2. Standard Step (if available)
-3. Saber Dance (if >= 90 esprit) - You’ll want to use Saber Dance if >=90 esprit in case both you and your Dance Partner would generate 10 esprit each during a non-Saber Dance GCD resulting in overcapping of esprit gauge.
-4. Fountainfall (to allow for a combo’d Fountain to be used if it would otherwise be dropped)
-5. Combo’d Fountain if it would otherwise drop. Note: After pressing Cascade, you have exactly 15 seconds to use Fountain counted from the moment you use Cascade in order to get the combo’d Fountain effect. At a 2.5 GCD, you cannot use more than 4 other GCDs after the Cascade without dropping the combo’d Fountain.
+1. Fountainfall, Bloodshower, Reverse Cascade, Rising Windmill if not using them would otherwise let that proc fall. Note: Procs last 20 seconds. (If you have to choose which proc to let fall: Fountainfall = Bloodshower > Reverse Cascade = Rising Windmill  in potency value.)
+2. Standard Step (if available.)
+3. Saber Dance (if >= 90 Esprit) - You’ll want to use Saber Dance if >=90 Esprit in case both you and your Dance Partner generate 10 Esprit each during a non-Saber Dance GCD resulting in overcapping of Esprit gauge.
+4. Fountainfall (to allow for a combo’d Fountain to be used if it would otherwise be dropped.)
+5. Combo’d Fountain if it would otherwise drop. Note: After pressing Cascade, you have exactly 15 seconds to use Fountain counted from the moment you use Cascade in order to get the combo’d Fountain effect. At a 2.5 GCD, you cannot use more than four other GCDs after the Cascade without dropping the combo’d Fountain.
 6. Reverse Cascade, Rising Windmill, Bloodshower. Prioritize the AoE procs for situations that will allow you to be in melee range.
 7. Combo’d Fountain if you have no procs.
-8. Cascade
+8. Cascade.
 
-\*Special Note: This GCD priority changes slightly while under the effect of Technical Finish / Devilment where Saber Dance >=90 esprit is higher priority than using Standard Step, and using Saber Dance when at 50 esprit is more important than using a combo’d Fountain. See “Technical Finish Window Optimization” section for more info.
+\*Special Note: This GCD priority changes slightly while under the effect of Technical Finish / Devilment where Saber Dance >=90 Esprit is higher priority than using Standard Step, and using Saber Dance when at 50 Esprit is more important than using a combo’d Fountain. See “Technical Finish Window Optimization” section for more info.
 
 - - -
 
 # AoE Rotation
 
-Whenever you are able to hit more than 1 target, you should make the following changes to your rotation based on how many targets you can hit:
+Whenever you are able to hit more than one target, you should make the following changes to your rotation based on how many targets you can hit:
 
-2 Targets
+Two Targets
 
-* Replace Cascade → Fountain with Windmill → Bladeshower for your filler combo
-* Replace Fan Dance I with Fan Dance II when using feathers, continue using Fan Dance III as it procs
-* Continue to use Standard Step / Technical Step / Flourish / Devilment on cooldown
-* Continue using Reverse Cascade and Fountainfall as they proc from Flourish
-* Continue to use Saber Dance
+* Replace Cascade → Fountain with Windmill → Bladeshower for your filler combo.
+* Replace Fan Dance I with Fan Dance II when using feathers, continue using Fan Dance III as it procs.
+* Continue to use Standard Step / Technical Step / Flourish / Devilment on cooldown.
+* Continue using Reverse Cascade and Fountainfall as they proc from Flourish.
+* Continue to use Saber Dance.
 
-3 Targets
+Three Targets
 
-* Same as 2 targets except you can let your single target procs (Reverse Cascade and Fountainfall) drop when you use Flourish since the value of your AoE GCD combo + potential procs they can generate are worth more than these single target GCD procs on 3+ targets
+* Same as two targets except you can let your single target procs (Reverse Cascade and Fountainfall) drop when you use Flourish since the value of your AoE GCD combo + potential procs they can generate are worth more than these single target GCD procs on 3+ targets
 
 4+ Targets
 
-* Same as 3 targets, except only use Standard Step to refresh the Standard Finish buff. Standard Step on 4+ targets is a loss compared to average AoE GCD potency + potential potency gains from the feathers that could be generated in those GCDs
+* Same as three targets, except only use Standard Step to refresh the Standard Finish buff. Standard Step on 4+ targets is a loss compared to average AoE GCD potency + potential potency gains from the Feathers that could be generated in those GCDs.
 
 Special note: 
 
-* Windmill and Bladeshower will cancel the effect of a combo’d Fountain (i.e. if you do Cascade → Windmill, you will lose the combo’d Fountain effect). Similarly, Cascade and Fountain will cancel the effect of combo’d Bladeshower (i.e if you do Windmill → Cascade, you will lose the combo’d Bladeshower effect). 
-* In situations where the number of targets you can hit changes (i.e. being able to hit 2 targets but then having to move away for a mechanic and can now only hit 1 target or vice versa), it is worth it to drop your combo’d Fountain in favor of a Windmill when going from 1 to 2 targets. When going from 2 to 1 targets, it is only worth it to complete a combo’d Bladeshower on the single target if you will be able to use the potential Bloodshower proc on both targets within the 20 seconds of the proc. Otherwise, drop the Bladeshower combo in favor of Cascade.
+* Windmill and Bladeshower will cancel the effect of a combo’d Fountain (i.e. if you do Cascade → Windmill, you will lose the combo’d Fountain effect). Similarly, Cascade and Fountain will cancel the effect of combo’d Bladeshower (i.e if you do Windmill → Cascade, you will lose the combo’d Bladeshower effect.) 
+* In situations where the number of targets you can hit changes (i.e. being able to hit two targets but then having to move away for a mechanic and can now only hit one target or vice versa), it is worth it to drop your combo’d Fountain in favor of a Windmill when going from one to two targets. When going from two to one targets, it is only worth it to complete a combo’d Bladeshower on the single target if you will be able to use the potential Bloodshower proc on both targets within the 20 seconds of the proc. Otherwise, drop the Bladeshower combo in favor of Cascade.
 
 - - -
 
 # Opener
 
-The opener is important for DNC’s rotation since it sets up all of their cooldowns and dance timings for the rest of the fight by executing these actions in a certain order. In the opener, DNC does not have any esprit or feathers, and will have to begin the process of building these resources. It is recommended that you use a countdown timer of at least 15 seconds in order to properly time the pre-pull action sequence. The opener is as follows:
+The opener is important for DNC’s rotation since it sets up all of the cooldowns and dance timings for the rest of the fight by executing these actions in a certain order. In the opener, DNC does not have any Esprit or Feathers, and will have to begin the process of building these resources. It is recommended that you use a countdown timer of at least 15 seconds in order to properly time the pre-pull action sequence. The opener is as follows:
 
 ![](https://cdn.discordapp.com/attachments/752334526449057853/897216156178464768/unknown.png)
 
-Start Standard Step (started 15 seconds pre-pull) → 2 steps → (use Peloton any point pre-pull, this gives the party a small burst of speed to hit the boss as soon as possible when the fight begins if they cannot pop sprint before the fight) → Potion (used 1.5 seconds before the boss is pulled) → Standard Finish (used right as the countdown hits 0) → Start Technical Step → 4 steps → Technical Finish (weave Flourish) → Rising Windmill (weave Devilment) → GCD → GCD → Start Standard Step → … continue with rotation
+Start Standard Step (started 15 seconds pre-pull) → two steps → (use Peloton any point pre-pull, this gives the party a small burst of speed to hit the boss as soon as possible when the fight begins if they cannot pop sprint before the fight) → Potion (used 1.5 seconds before the boss is pulled) → Standard Finish (used right as the countdown hits 0) → Start Technical Step → four steps → Technical Finish (weave Flourish) → Rising Windmill (weave Devilment) → GCD → GCD → Start Standard Step → … continue with rotation
 
-The Rising Windmill is chosen as the GCD after Technical Finish because it is your lowest potency proc (along with Reverse Cascade), and it will be used outside of Devilment. If you have an opportunity to hit 2 or more targets during this Technical Finish in the opener, it is better to use a Reverse Cascade here instead and save the Rising Windmill proc for when you can hit 2+ targets (such as the Living Liquid opener in The Epic of Alexander).
+The Rising Windmill is chosen as the GCD after Technical Finish because it is your lowest potency proc (along with Reverse Cascade), and it will be used outside of Devilment. If you have an opportunity to hit 2 or more targets during this Technical Finish in the opener, it is better to use a Reverse Cascade here instead and save the Rising Windmill proc for when you can hit two or more targets (such as the Living Liquid opener in The Epic of Alexander.)
 
 The Fan Dance III proc that is generated from Flourish can be double weaved and used after Devilment. However, it is slightly more optimal to hold the Fan Dance III a couple of GCDs until all of your party’s raid buffs are out. If holding Fan Dance III like this in the opener, wait before you use any potential Feathers you generate, otherwise you could override the Fan Dance III proc.
 
-This opener uses your cooldowns in the following order: Technical Step/Finish, Flourish, Devilment, Standard Step/Finish. One slight adjustment to your Technical Step for future windows is to delay the next use of Technical Step/Finish by 1 GCD so that Devilment is weaved after Technical Finish and delay Flourish by 2 GCDs so it is done after the GCD after Technical Finish. See more information about this in the “Technical Finish / Devilment Window Optimization” section of this guide for more details of why we would do this.
+This opener uses your cooldowns in the following order: Technical Step/Finish, Flourish, Devilment, Standard Step/Finish. One slight adjustment to your Technical Step for future windows is to delay the next use of Technical Step/Finish by one GCD so that Devilment is weaved after Technical Finish and delay Flourish by two GCDs so it is done after the GCD after Technical Finish. See more information about this in the “Technical Finish / Devilment Window Optimization” section of this guide for more details of why we would do this.
 
 - - -
 
