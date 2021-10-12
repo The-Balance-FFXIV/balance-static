@@ -150,7 +150,7 @@ If you do not complete the targeted sequence before hitting Standard Finish, you
 
 ![](https://cdn.discordapp.com/attachments/458951851610734595/890400567439028294/unknown.png)![](https://cdn.discordapp.com/attachments/458951851610734595/890402318707744829/unknown.png)
 
-This step sequence results in only doing 750 potency with Standard Finish provides you and your partner with only a 2% damage buff as opposed to 5% because only 1 proper step was done before executing the Standard Finish.
+This step sequence results in only doing 750 potency with Standard Finish provides you and your partner with only a 2% damage buff as opposed to 5% because only one proper step was done before executing the Standard Finish.
 
 After hitting Standard Step, you have a total of 15 seconds to execute all steps and complete the Standard Finish before the dance is automatically cancelled and your hotbar is automatically reverted back to its normal weaponskills. This is important when considering downtime of fights, or portions where the Boss is untargetable. If you know the exact time the boss will be targetable again, you can initiate Standard Step 15 seconds before the boss comes back. This allows you to do the Steps during a time in the fight where you can’t hit the boss anyways saving you 3.5s worth of GCD time on the boss. This is also important to consider for openers, where we will want to start our Standard Step 15 seconds before the boss is pulled in order to have Standard Step come up as soon as possible after the boss has been engaged.
 
