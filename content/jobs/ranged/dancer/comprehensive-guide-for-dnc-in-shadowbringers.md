@@ -214,11 +214,11 @@ Because the time it takes to execute Technical Step, the four steps, and Technic
 
 # Understanding Fan Dance (and weaving oGCDs in general)
 
-Feathers are a resource the Dancer can use to perform Fan Dances that are weaved between the GCDs of weaponskills (called off global cooldown abilities or oGCDs). You have a 50% chance to earn a feather upon successfully landing a hit with any of your proc GCDs (Reverse Cascade and Fountainfall for single target GCDs, Rising Windmill and Bloodshower for AoE GCDs). You can hold up to 4 feathers. How many feathers you have can be seen on your Fourfold Feather gauge:\
+Feathers are a resource the Dancer can use to perform Fan Dances that are weaved between the GCDs of weaponskills (called oGCDs). You have a 50% chance to earn a feather upon successfully landing a hit with any of your proc GCDs (Reverse Cascade and Fountainfall for single target GCDs, Rising Windmill and Bloodshower for AoE GCDs). You can hold up to 4 Feathers. How many Feathers you have can be seen on your Fourfold Feather gauge:\
 ![](https://cdn.discordapp.com/attachments/458951851610734595/890406241522814986/unknown.png)\
-(Showing the DNC holding 4 feathers)
+(Showing the DNC holding four Feathers)
 
-You can use a feather by using either Fan Dance (single target ability that does 150 potency) or Fan Dance II (AoE around you that does 100 potency to all targets hit). Successfully landing a hit with either of these abilities has a 50% chance to grant you the ability to use Fan Dance III (200 potency to selected target and 100 potency to all targets in an AoE around your target).
+You can use a Feather by using either Fan Dance (single target ability that does 150 potency) or Fan Dance II (AoE around you that does 100 potency to all targets hit). Successfully landing a hit with either of these abilities has a 50% chance to grant you the ability to use Fan Dance III (200 potency to selected target and 100 potency to all targets in an AoE around your target).
 
 It is important to save these feathers as much as possible for opportunities when you have strong buffs to increase their damage (such as your Technical Finish / Devilment window). However, overcapping on feathers is a considerable loss to your DPS. Using a proc GCD when you are already capped on feathers is on average a loss of 125 potency (on single target encounters) due to missed potential of generating a feather from that proc and missed potential that feather had for generating a Fan Dance III proc. Using Fan Dance when you already have a Fan Dance III proc is on average a loss of 100 potency due to potentially missing an opportunity to use the Fan Dance III proc that could have been generated from that feather.
 
