@@ -122,8 +122,6 @@ Standard Step is a DNC ability with a 30 second cooldown (cooldown starts from t
 | After pressing the second step                                                                             |                                                                                                                    |
 | ![Second Step](https://cdn.discordapp.com/attachments/458951851610734595/890400543757967370/unknown.png)   | ![second step gauge](https://cdn.discordapp.com/attachments/458951851610734595/890400617758081054/unknown.png)     |
 
-
-
 When starting Standard Step, it initiates a 1.5s GCD. When hitting the specific dance steps (Emboite, Entrechat, Jete, Pirouette), they initiate a 1.0s GCD. The final Standard Finish triggers a 1.5s GCD. Altogether, that sequence (and timings) should look like this:
 
 ![](https://cdn.discordapp.com/attachments/458951851610734595/890401701826297946/unknown.png)
@@ -233,7 +231,11 @@ When you have at least one Feather, Fan Dance and Fan Dance II will be highlight
 
 When Fan Dance III procs, you get a buff that lasts for 20 seconds that allows you to use Fan Dance III called “Flourishing Fan Dance”. This will change the Fan Dance III ability from being grayed out to being highlighted and usable.
 
-![](https://cdn.discordapp.com/attachments/752334526449057853/897215115412275222/unknown.png)				
+![](https://cdn.discordapp.com/attachments/752334526449057853/897215115412275222/unknown.png)
+
+```
+			
+```
 
 When using Feathers during Technical Finish / Devilment, you’ll want to weave as many Fan Dances and Fan Dance IIIs as possible. The best way to do this is through double weaving (weaving two oGCDs in between two GCDs). Depending on your ping, you may not be able to properly weave two oGCDs in between GCDs without clipping your GCD. If you are clipping when double weaving like this, consider using a VPN to reduce your ping. If using a VPN is not an option or doesn’t help prevent clipping when double weaving, your best option is to only single weave to prevent significant clips. Although playable, it is suboptimal since you won’t be able to weave as many oGCDs as possible in buff windows.
 
@@ -316,7 +318,6 @@ Using Flourish while any of these procs are already active is a significant DPS 
 However, there are ways that we can avoid delaying Flourish while not losing any procs. When doing your rotation normally before Flourish, you can do:
 
 Cascade → use Reverse Cascade if procs → Fountain → use Fountainfall if procs → Cascade…
-
 
 ![](https://cdn.discordapp.com/attachments/752334526449057853/897215519214669824/unknown.png)
 
@@ -863,7 +864,7 @@ Using oGCD abilities in between GCDs (using one oGCD between GCDs = Single Weavi
 
 # About the Author
 
-Hello there! My name is Ringabel Dim of Excalibur. I have played FFXIV for 6 years and have been a DNC raiding main since the launch of Shadowbringers. I have done raid progression and fight specific optimizations on DNC for both Savage raid tiers (Eden’s Gate and Eden’s Verse) and The Epic of Alexander with my raid group on the Primal data center (“Monkeys with Typewriters”). I have recently become a DNC mentor on [The Balance - Discord server](https://discord.gg/CjQkEn3), which is a good source of information pertaining to FFXIV and raiding. If you have any questions regarding DNC, there is a #dnc_questions channel there which is a great place to ask anything with regards to DNC!
+Hello there! My name is Ringabel Dim of Excalibur. I have played FFXIV for six years and have been a DNC raiding main since the launch of Shadowbringers. I have done raid progression and fight specific optimizations on DNC for both Savage raid tiers (Eden’s Gate and Eden’s Verse) and The Epic of Alexander with my raid group on the Primal data center (“Monkeys with Typewriters”). I have recently become a DNC mentor on [The Balance - Discord server](https://discord.gg/CjQkEn3), which is a good source of information pertaining to FFXIV and raiding. If you have any questions regarding DNC, there is a #dnc_questions channel there which is a great place to ask anything with regards to DNC!
 
 # Special Thanks
 
