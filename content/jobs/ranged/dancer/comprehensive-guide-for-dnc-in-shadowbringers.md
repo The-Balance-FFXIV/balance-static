@@ -1,8 +1,6 @@
 ---
 title: Comprehensive Guide for DNC in Shadowbringers
 ---
-# Comprehensive Guide for DNC in Shadowbringers
-
 *By: Ringabel Dim of Excalibur*\
 Last Updated: August 12, 2020\
 (Current as of Patch 5.3)
@@ -33,7 +31,7 @@ Last Updated: August 12, 2020\
   * \[Weapon Damage and Dexterity]
   * \[Crit vs Det/DH]
   * \[Determination vs DH]
-  * \[Skill Speed… and Why it is not good on DNC]
+  * \[Skill Speed and Why it is Not Good on DNC]
 * \[Considerations for Selecting a Dance Partner]
 
   * \[Dance Partner Priority List ]
