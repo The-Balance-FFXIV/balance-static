@@ -9,47 +9,47 @@ Last Updated: August 12, 2020\
 
 # Table of Contents
 
-* \[Purpose and Introduction]
-* \[Basic DNC Overview]
-* \[Range of Actions and Abilities]
-* \[Understanding Standard Step / How to do Dance Steps]
-* \[Understanding Technical Step]
-* \[Understanding Fan Dance (and weaving oGCDs in general)]
-* \[Esprit Generation]
+* [Purpose and Introduction](#purpose-and-introduction)
+* [Basic DNC Overview](#basic-dnc-overview)
+* [Range of Actions and Abilities](#range-of-actions-and-abilities)
+* [Understanding Standard Step / How to do Dance Steps](#understanding-standard-step--how-to-do-dance-steps)
+* [Understanding Technical Step](#understanding-technical-step)
+* [Understanding Fan Dance (and weaving oGCDs in general)](#understanding-fan-dance-and-weaving-ogcds-in-general)
+* [Esprit Generation](#esprit-generation)
 
-  * \[Improvisation]
-* \[Understanding Flourish]
-* \[DNC “Rotation”]
-* \[General Single Target GCD Priority List]
-* \[AoE Rotation]
-* \[Opener]
-* \[Technical Finish / Devilment Window Optimization]
+  * [Improvisation](#improvisation)
+* [Understanding Flourish](#understanding-flourish)
+* [DNC “Rotation”](#dnc-rotation)
+* [General Single Target GCD Priority List](#general-single-target-gcd-priority-list)
+* [AoE Rotation](#aoe-rotation)
+* [Opener](#opener)
+* [Technical Finish / Devilment Window Optimization](#technical-finish--devilment-window-optimization)
 
-  * \[Conclusions from Technical Finish Rotation Analysis]
-* \[Stat Tiering and Itemization for Dancer]
+  * [Conclusions from Technical Finish Rotation Analysis](#conclusions-from-technical-finish-rotation-analysis)
+* [Stat Tiering and Itemization for Dancer](#stat-tiering-and-itemization-for-dancer)
 
-  * \[Weapon Damage and Dexterity]
-  * \[Crit vs Det/DH]
-  * \[Determination vs DH]
-  * \[Skill Speed and Why it is Not Good on DNC]
-* \[Considerations for Selecting a Dance Partner]
+  * [Weapon Damage and Dexterity](#weapon-damage-and-dexterity)
+  * [Crit vs Det/DH](#crit-vs-det--dh)
+  * [Determination vs DH](#determination-vs-dh)
+  * [Skill Speed and Why it is Not Good on DNC](#skill-speed-and-why-it-is-not-good-on-dnc)
+* [Considerations for Selecting a Dance Partner](#considerations-for-selecting-a-dance-partner)
 
-  * \[Dance Partner Priority List ]
-  * \[Dance Partner Swapping]
-* \[DNC Utility]
+  * [Dance Partner Priority List](#dance-partner-priority-list)
+  * [Dance Partner Swapping](#dance-partner-swapping)
+* [DNC Utility](#dnc-utility)
 
-  * \[Shield Samba]
-  * \[Curing Waltz]
-  * \[Improvisation]
-  * \[Head Graze]
-  * \[Arm’s Length]
-  * \[Second Wind]
-  * \[Peloton]
-  * \[En Avant]
-* \[Common Abbreviations]
-* \[Glossary of Terms]
-* \[About the Author / Special Thanks]
-* \[Changelog]
+  * [Shield Samba](#shield-samba)
+  * [Curing Waltz](#curing-waltz)
+  * [Improvisation](#improvisation-1)
+  * [Head Graze](#head-graze)
+  * [Arm’s Length](#arms-length)
+  * [Second Wind](#second-wind)
+  * [Peloton](#peloton)
+  * [En Avant](#en-avant)
+* [Common Abbreviations](#common-abbreviations)
+* [Glossary of Terms](#glossary-of-terms)
+* [About the Author / Special Thanks](#about-the-author--special-thanks)
+* [Changelog](#changelog)
 
 - - -
 
