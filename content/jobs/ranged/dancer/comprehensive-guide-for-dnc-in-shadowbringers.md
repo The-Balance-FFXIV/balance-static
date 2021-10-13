@@ -762,17 +762,17 @@ Dancer has several abilities that can help with mitigation, healing, or otherwis
 
 ## Shield Samba
 
-Shield Samba is a 120 second cooldown ability that provides a 10% damage reduction buff to all party members within a 20y radius around the Dancer for 15 seconds. The best time to use this ability would be for raid wide AoE damage. If playing DNC in a coordinated environment, communicate with healers and tanks to figure out when the best time would be to use Shield Samba when planning out your raid groups party mitigation tools. Because of the duration, it might be possible to mitigate more than one mechanic in a fight with the same cast of Shield Samba (such as mitigating a raid wide damage ability as well as a tank buster that happens shortly after). Sometimes the timing is tight but doable where you use Shield Samba near the end of the cast of a Boss’ action to also hit a later mechanic.
+Shield Samba is a 120 second cooldown ability that provides a 10% damage reduction buff to all party members within a 20 yalm radius around the Dancer for 15 seconds. The best time to use this ability would be for raid wide AoE damage. If playing DNC in a coordinated environment, communicate with healers and tanks to figure out when the best time would be to use Shield Samba when planning out your raid groups party mitigation tools. Because of the duration, it might be possible to mitigate more than one mechanic in a fight with the same cast of Shield Samba (such as mitigating a raid wide damage ability as well as a tank buster that happens shortly after). Sometimes the timing is tight but doable where you use Shield Samba near the end of the cast of a Boss’s action to also hit a later mechanic.
 
 This ability does not stack with BRD’s Troubadour or MCH’s Tactician (both of which have the same effects of 10% damage reduction for 15 seconds on a 120 second cooldown). However, one key thing to point out about Shield Samba is that it cannot be used while you are dancing. If you are trying to time Shield Samba at a precise time to cover a specific mechanic, it may be difficult to get the precise GCD for the cast you want if you are doing a dance during this time.
 
 ## Curing Waltz
 
-Curing Waltz does a very small AoE heal on you and everyone in a 3y radius of you. Additionally, this AoE heal will be duplicated on whoever is your Dance Partner. If you stand directly on top of your Dance Partner when you use Curing Waltz, both you and your Dance Partner as well as anyone standing in that radius will be hit by 2 instances of the heal. At current BiS in patch 5.25, getting hit by both heals does somewhere between 17k and 18k altogether. This is effectively the same amount of healing done by a non-crit Indomitability from a SCH. Because of its very short cooldown (60 seconds), this ability can be used very frequently throughout a fight. It pairs well with topping the party off before or after raid wide damage occurs. However, if you are at a part of the fight where there is little raid wide damage, you can consider running on top of the tank (if it is safe to do so) and casting it on them to give them a very small, free spot heal. Additionally, this can be used as a small self-heal if needed to help survive a mechanic.
+Curing Waltz does a very small AoE heal on you and everyone in a three yalm radius of you. Additionally, this AoE heal will be duplicated on whoever is your Dance Partner. If you stand directly on top of your Dance Partner when you use Curing Waltz, both you and your Dance Partner as well as anyone standing in that radius will be hit by two instances of the heal. At current BiS in patch 5.25, getting hit by both heals does somewhere between 17k and 18k altogether. This is effectively the same amount of healing done by a non-crit Indomitability from a SCH. Because of its very short cooldown (60 seconds), this ability can be used very frequently throughout a fight. It pairs well with topping the party off before or after raid wide damage occurs. However, if you are at a part of the fight where there is little raid wide damage, you can consider running on top of the tank (if it is safe to do so) and casting it on them to give them a very small, free spot heal. Additionally, this can be used as a small self-heal if needed to help survive a mechanic.
 
 ## Improvisation
 
-In addition to generating esprit, Improvisation provides a 10% healing increase buff to party members in range. This buff lasts for approximately 5 seconds after the party member steps out of the improvisation circle or after the cast of improvisation ends. Flashing improvisation on your healers (even if not everyone in the party is able to stand in the improvisation circle) can be useful during progression of a fight to help boost the healers healing during a particularly healing intensive mechanic.
+In addition to generating Esprit, Improvisation provides a 10% healing increase buff to party members in range. This buff lasts for approximately five seconds after the party member steps out of the Improvisation circle or after the cast of Improvisation ends. Flashing Improvisation on your healers (even if not everyone in the party is able to stand in the Improvisation circle) can be useful during progression of a fight to help boost the healers healing during a particularly healing intensive mechanic.
 
 ## Head Graze
 
@@ -780,11 +780,11 @@ Head Graze is a role action for ranged physical damage dealers that will interru
 
 ## Arm’s Length
 
-Although not a support ability, this role action prevents you from being knocked back for 6 seconds (120 second cooldown for the ability). There are some mechanics where this will not prevent the knockback effect, but it is useful for preventing knockbacks in a lot of situations. Since this is a role action, it can be used during a dance if need be.
+Although not a support ability, this role action prevents you from being knocked back for six seconds (120 second cooldown for the ability). There are some mechanics where this will not prevent the knockback effect, but it is useful for preventing knockbacks in a lot of situations. Since this is a role action, it can be used during a dance if need be.
 
 ## Second Wind
 
-Second wind is a useful self heal oGCD that is on a 120 second cooldown. At current 5.2 BiS, it heals for about 14k non-crit (approximately 12% of your max hp). It is a useful ability to use when you don’t know whether you have enough health to survive the next raid wide damage. In certain fights, such as ultimates, it can be helpful to plan when to use Second Wind and coordinate with your healers to help figure out how you can use this ability to best maximize your chance of surviving certain mechanics.
+Second Wind is a useful self-heal oGCD that is on a 120 second cooldown. At 5.2 BiS, it heals for about 14k non-crit (approximately 12% of your max HP). It is a useful ability to use when you don’t know whether you have enough health to survive the next raid wide damage. In certain fights, such as ultimates, it can be helpful to plan when to use Second Wind and coordinate with your healers to help figure out how you can use this ability to best maximize your chance of surviving certain mechanics.
 
 ## Peloton
 
@@ -792,7 +792,7 @@ Peloton is a ranged role action that boosts everyone’s movement speed slightly
 
 ## En Avant
 
-En Avant is a movement ability that DNCs can use to quickly dash 10y in the direction they are facing. It can be useful for quickly dodging AoEs, or just in general to help with movement while handling a mechanic. En Avant is on a charge system where you can have a maximum of 3 charges of the ability. As long as you have charges, you can use this ability. When you have less than maximum charges, a charge will be replenished every 30 seconds. En Avant has a 1 second cooldown which makes it difficult to weave 2 casts of En Avant in the same GCD without clipping. En Avant can be used while dancing if need be.
+En Avant is a movement ability that DNCs can use to quickly dash 10 yalms in the direction they are facing. It can be useful for quickly dodging AoEs, or just in general to help with movement while handling a mechanic. En Avant is on a charge system where you can have a maximum of three charges of the ability. As long as you have charges, you can use this ability. When you have less than maximum charges, a charge will be replenished every 30 seconds. En Avant has a one second cooldown which makes it difficult to weave two casts of En Avant in the same GCD without clipping. En Avant can be used while dancing if need be.
 
 - - -
 
@@ -826,32 +826,31 @@ WD - short for weapon damage, stat on your main hand weapon
 
 ## Clipping
 
-the act of delaying a GCD due to the timing of the usage of an oGCD or the number of oGCDs used in between GCDs, can cause significant losses in DPS if many clips occur in a fight
+The act of delaying a GCD due to the timing of the usage of an oGCD or the number of oGCDs used in between GCDs, can cause significant losses in DPS if many clips occur in a fight.
 
 ## Closed Position
 
-an ability that can be used on a target party member that grants them the Dance Partner party effect
+An ability that can be used on a target party member that grants them the Dance Partner party effect.
 
 ## Dance Partner
 
-the effect granted by Closed Position. Enables the targeted player to also benefit from the effects of Standard Finish, Devilment, and Curing Waltz
+The effect granted by Closed Position. Enables the targeted player to also benefit from the effects of Standard Finish, Devilment, and Curing Waltz.
 
 ## GCD
 
-short for global cooldown, most weaponskills and spells in FFXIV are on a base global cooldown timer of 2.5 seconds (meaning once you activate that weaponskill or spell, you cannot execute another one for 2.5 seconds). The base GCD is different for some skills. Most skills and spells’ GCD can be lowered by acquiring skillspeed/spellspeed on your gear.
+Short for global cooldown, most weaponskills and spells in FFXIV are on a base global cooldown timer of 2.5 seconds (meaning once you activate that weaponskill or spell, you cannot execute another one for 2.5 seconds). The base GCD is different for some skills. Most skills and spells’ GCD can be lowered by acquiring skillspeed/spellspeed on your gear.
 
 ## oGCD
 
-short for off global cooldown, these are abilities that are not on the global cooldown and instead have an independent cooldown. They do not trigger the global cooldown and under 
-most circumstances can be used inbetween GCDs (this is known as weaving)
+Short for off global cooldown, these are abilities that are not on the global cooldown and instead have an independent cooldown. They do not trigger the global cooldown and under most circumstances can be used inbetween GCDs (this is known as weaving).
 
 ## Proc
 
-refers to a GCD or oGCD that has a % chance to be usable based off a separate action that generates this effect. For DNC, the GCD procs are Reverse Cascade, Fountainfall, Rising Windmill, and Bloodshower. The oGCD proc from Fan Dance is called Fan Dance III.
+Refers to a GCD or oGCD that has a % chance to be usable based off a separate action that generates this effect. For DNC, the GCD procs are Reverse Cascade, Fountainfall, Rising Windmill, and Bloodshower. The oGCD proc from Fan Dance is called Fan Dance III.
 
 ## Weaving
 
-using oGCD abilities in between GCDs (using 1 oGCD between GCDs = Single Weaving, using 2 oGCD between GCDs = Double Weaving)
+Using oGCD abilities in between GCDs (using one oGCD between GCDs = Single Weaving, using two oGCD between GCDs = Double Weaving).
 
 - - -
 
@@ -873,11 +872,8 @@ Hello there! My name is Ringabel Dim of Excalibur. I have played FFXIV for 6 yea
 
 * July 19, 2020
 
-  * Guide completed and published
+  * Guide completed and published.
 * August 10, 2020
 
   * Updated gearing section with link to new gearing guide for 5.3.
-  * Updated Dance Partner Priority list (changed 4. BLM + SMN to 4. BLM, 5. SMN in response to 5.3 SMN nerf)
-* August 12, 2020
-
-  * Updated TEA BiS using new dungeon items from 5.3.
+  * Updated Dance Partner Priority list (changed 4. BLM + SMN to 4. BLM, 5. SMN in response to 5.3 SMN nerf).
