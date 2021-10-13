@@ -73,7 +73,7 @@ Everything in this guide is free to be reposted or otherwise used freely! If you
 
 ## Short Version:
 
-Dancer is a ranged physical DPS job with low personal DPS but high contribution to others’ DPS using raid buffs. It has “Dances'' that require executing the right dance steps in order to perform powerful finishing moves. Its main weaponskill GCDs revolve around a simple combo that has a chance to generate stronger proc GCDs which have a chance to generate feathers which can be used for oGCD damage abilities.
+Dancer is a ranged physical DPS job with low personal DPS but high contribution to others’ DPS using raid buffs. It has “Dances'' that require executing the right dance steps in order to perform powerful finishing moves. Its main weaponskill GCDs revolve around a simple combo that has a chance to generate stronger proc GCDs which have a chance to generate Feathers which can be used for oGCD damage abilities.
 
 ## Long Version:
 
@@ -85,7 +85,7 @@ Outside of these dances, your normal GCDs include a set of basic 1 → 2 combo w
 
 Additionally, you have four more GCDs that mirror the way Cascade, Fountain, Reverse Cascade, and Fountainfall work in an AoE setting called Windmill, Bladeshower, Rising Windmill, and Bloodshower. All four of these weaponskills are AoEs in a circle around you (five yalm radius). Windmill combos into Bladeshower while Rising Windmill and Bloodshower are slightly stronger procs from the combo weaponskills. 
 
-Every time you use a proc’d weaponskill (Reverse Cascade, Fountainfall, Rising Windmill, or Bloodshower), you have a 50% chance to generate a Fourfold Feather. You can hold a maximum of 4  eathers. These feathers can be used for oGCD abilities called Fan Dance (150 potency single target) and Fan Dance II (100 potency in an AoE around you on multiple targets). Additionally, when using a fan, it has a 50% chance to proc an ability called Fan Dance III (200 potency to primary target and 100 potency to all nearby enemies close to the target).
+Every time you use a proc’d weaponskill (Reverse Cascade, Fountainfall, Rising Windmill, or Bloodshower), you have a 50% chance to generate a Fourfold Feather. You can hold a maximum of four Feathers. These Feathers can be used for oGCD abilities called Fan Dance (150 potency single target) and Fan Dance II (100 potency in an AoE around you on multiple targets). Additionally, when using a fan, it has a 50% chance to proc an ability called Fan Dance III (200 potency to primary target and 100 potency to all nearby enemies close to the target).
 
 Finally, DNC has a 1 min cooldown called Flourish which immediately grants them each of their weaponskill procs (Reverse Cascade, Fountainfall, Rising Windmill, Bloodshower) and a proc of Fan Dance III.
 
@@ -215,7 +215,7 @@ Because the time it takes to execute Technical Step, the four steps, and Technic
 
 # Understanding Fan Dance (and weaving oGCDs in general)
 
-Feathers are a resource the Dancer can use to perform Fan Dances that are weaved between the GCDs of weaponskills (called oGCDs). You have a 50% chance to earn a feather upon successfully landing a hit with any of your proc GCDs (Reverse Cascade and Fountainfall for single target GCDs, Rising Windmill and Bloodshower for AoE GCDs). You can hold up to 4 Feathers. How many Feathers you have can be seen on your Fourfold Feather gauge:\
+Feathers are a resource the Dancer can use to perform Fan Dances that are weaved between the GCDs of weaponskills (called oGCDs). You have a 50% chance to earn a Feather upon successfully landing a hit with any of your proc GCDs (Reverse Cascade and Fountainfall for single target GCDs, Rising Windmill and Bloodshower for AoE GCDs). You can hold up to 4 Feathers. How many Feathers you have can be seen on your Fourfold Feather gauge:\
 ![](https://cdn.discordapp.com/attachments/458951851610734595/890406241522814986/unknown.png)\
 (Showing the DNC holding four Feathers)
 
@@ -235,15 +235,15 @@ When Fan Dance III procs, you get a buff that lasts for 20 seconds that allows y
 
 ![](https://cdn.discordapp.com/attachments/752334526449057853/897215115412275222/unknown.png)				
 
-When using feathers during Technical Finish / Devilment, you’ll want to weave as many Fan Dances and Fan Dance IIIs as possible. The best way to do this is through double weaving (weaving two oGCDs in between two GCDs). Depending on your ping, you may not be able to properly weave two oGCDs in between GCDs without clipping your GCD. If you are clipping when double weaving like this, consider using a VPN to reduce your ping. If using a VPN is not an option or doesn’t help prevent clipping when double weaving, your best option is to only single weave to prevent significant clips. Although playable, it is suboptimal since you won’t be able to weave as many oGCDs as possible in buff windows.
+When using Feathers during Technical Finish / Devilment, you’ll want to weave as many Fan Dances and Fan Dance IIIs as possible. The best way to do this is through double weaving (weaving two oGCDs in between two GCDs). Depending on your ping, you may not be able to properly weave two oGCDs in between GCDs without clipping your GCD. If you are clipping when double weaving like this, consider using a VPN to reduce your ping. If using a VPN is not an option or doesn’t help prevent clipping when double weaving, your best option is to only single weave to prevent significant clips. Although playable, it is suboptimal since you won’t be able to weave as many oGCDs as possible in buff windows.
 
-When weaving oGCDs, you can double weave two oGCDs in between two regular weaponskill GCDs, but you will only be able to weave one oGCD after a Standard or Technical Finish due to these GCDs only being 1.5 seconds as opposed to your normal weaponskill GCD (base 2.50 sec). Generally speaking, when weaving feathers in buff windows, you’ll want to use Fan Dance and immediately queue up Fan Dance III in the double weave window. 
+When weaving oGCDs, you can double weave two oGCDs in between two regular weaponskill GCDs, but you will only be able to weave one oGCD after a Standard or Technical Finish due to these GCDs only being 1.5 seconds as opposed to your normal weaponskill GCD (base 2.50 sec). Generally speaking, when weaving Feathers in buff windows, you’ll want to use Fan Dance and immediately queue up Fan Dance III in the double weave window. 
 
 Theoretically, you can use Fan Dance and then wait to see whether Fan Dance III procs and if it doesn’t proc use Fan Dance again as your second oGCD. However, because Fan Dance has a one second cooldown while animation lock of oGCDs is 0.8 sec, double weaving Fan Dance into Fan Dance is not recommended due to increased likelihood of clipping the GCD as well as relying on reaction time to decide whether you need to press Fan Dance III or Fan Dance as your second oGCD. Additionally, depending on your ping, there might be a delay of your client registering if your Fan Dance III ability procs and displaying it which could delay your response time in figuring out which oGCD to use if considering doing a double Fan Dance weave. Therefore, it is recommended to do Fan Dance and then hit the Fan Dance III button regardless of whether the ability procs. If it procs, you will have done Fan Dance into Fan Dance III. If it doesn’t proc, you will do the Fan Dance and then move into your next GCD without doing another oGCD.
 
-Outside of Technical Finish / Devilment windows, you will want to use Fan Dance when you have four Feathers (to prevent overcapping feathers), and you will want to use Fan Dance when you have three Fathers and you are about to use Flourish after the next GCD and the next GCD is a proc (unless you have 50 epEsprit, in which case you could use a buffer Saber Dance after popping Flourish to give you another GCD to use Feathers before using proc GCDs from Flourish).
+Outside of Technical Finish / Devilment windows, you will want to use Fan Dance when you have four Feathers (to prevent overcapping Feathers), and you will want to use Fan Dance when you have three Fathers and you are about to use Flourish after the next GCD and the next GCD is a proc (unless you have 50 epEsprit, in which case you could use a buffer Saber Dance after popping Flourish to give you another GCD to use Feathers before using proc GCDs from Flourish).
 
-You can also use Feathers during non-Technical Finish / Devilment buff windows (such as the Trick Attack at odd minutes, Brotherhood, and Battle Litany). Purposefully using feathers during these off windows for buffs is a slight gain over having to use the Feathers when you cap at four Feathers outside of buffs. Keep in mind that on average you will generate approximately 2-3 Feathers in a 45 second period of time (i.e. the time between when the off minute Trick Attack expires and the Trick Attack under Technical Finish / Devilment comes up), so you’ll likely be able to restock the Feathers for your next Technical Finish / Devilment.
+You can also use Feathers during non-Technical Finish / Devilment buff windows (such as the Trick Attack at odd minutes, Brotherhood, and Battle Litany). Purposefully using Feathers during these off windows for buffs is a slight gain over having to use the Feathers when you cap at four Feathers outside of buffs. Keep in mind that on average you will generate approximately 2-3 Feathers in a 45 second period of time (i.e. the time between when the off minute Trick Attack expires and the Trick Attack under Technical Finish / Devilment comes up), so you’ll likely be able to restock the Feathers for your next Technical Finish / Devilment.
 
 Other than Fan Dance and Fan Dance III, DNC has several other oGCD offensive abilities such as Flourish and Devilment and several utility oGCDs from DNC specific actions (Curing Waltz, Shield Samba, Closed Position / Ending) to role actions (Arm’s Length, Head Graze, Leg Graze, Foot Graze, Second Wind). All of these oGCDs do not have any serious animation locks and are all able to be double weaved. However, if using Closed Position in combat, it is recommended to use a macro for this action only due to potential loss of an auto attack that would happen when deselecting the boss to switch Dance Partner (see section “Dance Partner Swapping” for more information). When using a macro like this, you do not want to double weave.
 
@@ -385,7 +385,7 @@ Whenever you are able to hit more than one target, you should make the following
 Two Targets
 
 * Replace Cascade → Fountain with Windmill → Bladeshower for your filler combo.
-* Replace Fan Dance I with Fan Dance II when using feathers, continue using Fan Dance III as it procs.
+* Replace Fan Dance I with Fan Dance II when using Feathers, continue using Fan Dance III as it procs.
 * Continue to use Standard Step / Technical Step / Flourish / Devilment on cooldown.
 * Continue using Reverse Cascade and Fountainfall as they proc from Flourish.
 * Continue to use Saber Dance.
