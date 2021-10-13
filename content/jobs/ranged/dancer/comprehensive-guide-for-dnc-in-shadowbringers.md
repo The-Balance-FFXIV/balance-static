@@ -827,6 +827,8 @@ TF - short for Technical Finish, the ending move of the Technical Step dance seq
 TS - short for Technical Step\
 WD - short for weapon damage, stat on your main hand weapon  
 
+- - -
+
 # Glossary of Terms
 
 ## Clipping
