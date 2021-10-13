@@ -34,7 +34,6 @@ Last Updated: August 12, 2020\
   * \[Crit vs Det/DH]
   * \[Determination vs DH]
   * \[Skill Speed… and Why it is not good on DNC]
-* \[Gear and Best in Slot (BiS)]
 * \[Considerations for Selecting a Dance Partner]
 
   * \[Dance Partner Priority List ]
@@ -122,6 +121,8 @@ Standard Step is a DNC ability with a 30 second cooldown (cooldown starts from t
 | ![First step](https://cdn.discordapp.com/attachments/458951851610734595/890400513563176990/unknown.png)    | ![Step Gauge first step](https://cdn.discordapp.com/attachments/458951851610734595/890400593854746754/unknown.png) |
 | After pressing the second step                                                                             |                                                                                                                    |
 | ![Second Step](https://cdn.discordapp.com/attachments/458951851610734595/890400543757967370/unknown.png)   | ![second step gauge](https://cdn.discordapp.com/attachments/458951851610734595/890400617758081054/unknown.png)     |
+
+
 
 When starting Standard Step, it initiates a 1.5s GCD. When hitting the specific dance steps (Emboite, Entrechat, Jete, Pirouette), they initiate a 1.0s GCD. The final Standard Finish triggers a 1.5s GCD. Altogether, that sequence (and timings) should look like this:
 
@@ -226,9 +227,13 @@ When you have no Feathers, Fan Dance and Fan Dance II are grayed out and unavail
 
 ![](https://cdn.discordapp.com/attachments/752334526449057853/897214836558151701/unknown.png)
 
-When you have at least one Feather, Fan Dance and Fan Dance II will be highlighted like this showing that these actions are able to be used. In a fight, Feathers do not expire unless you die.![](https://cdn.discordapp.com/attachments/752334526449057853/897214900806500442/unknown.png)
+When you have at least one Feather, Fan Dance and Fan Dance II will be highlighted like this showing that these actions are able to be used. In a fight, Feathers do not expire unless you die.
 
-When Fan Dance III procs, you get a buff that lasts for 20 seconds that allows you to use Fan Dance III called “Flourishing Fan Dance”. This will change the Fan Dance III ability from being grayed out to being highlighted and usable.![](https://cdn.discordapp.com/attachments/752334526449057853/897215115412275222/unknown.png)				
+![](https://cdn.discordapp.com/attachments/752334526449057853/897214900806500442/unknown.png)
+
+When Fan Dance III procs, you get a buff that lasts for 20 seconds that allows you to use Fan Dance III called “Flourishing Fan Dance”. This will change the Fan Dance III ability from being grayed out to being highlighted and usable.
+
+![](https://cdn.discordapp.com/attachments/752334526449057853/897215115412275222/unknown.png)				
 
 When using feathers during Technical Finish / Devilment, you’ll want to weave as many Fan Dances and Fan Dance IIIs as possible. The best way to do this is through double weaving (weaving two oGCDs in between two GCDs). Depending on your ping, you may not be able to properly weave two oGCDs in between GCDs without clipping your GCD. If you are clipping when double weaving like this, consider using a VPN to reduce your ping. If using a VPN is not an option or doesn’t help prevent clipping when double weaving, your best option is to only single weave to prevent significant clips. Although playable, it is suboptimal since you won’t be able to weave as many oGCDs as possible in buff windows.
 
@@ -311,6 +316,8 @@ Using Flourish while any of these procs are already active is a significant DPS 
 However, there are ways that we can avoid delaying Flourish while not losing any procs. When doing your rotation normally before Flourish, you can do:
 
 Cascade → use Reverse Cascade if procs → Fountain → use Fountainfall if procs → Cascade…
+
+
 ![](https://cdn.discordapp.com/attachments/752334526449057853/897215519214669824/unknown.png)
 
 This will help reduce the potential of having proc(s) going into Flourish coming off cooldown.
@@ -633,7 +640,7 @@ When trying to optimize the amount of damage you get from DET + DH, you have to 
 
 - - -
 
-# Skill Speed… and Why it is not good on DNC
+# Skill Speed and Why it is Not Good on DNC
 
 The skill speed stat has two effects for DNC: lowering the global cooldown timer for weaponskills (2.50 base GCD) and increasing the damage of auto attacks.
 
@@ -652,8 +659,6 @@ At a 2.48 GCD tier, a gap is created between the last GCD and when Standard Step
 The end result of Skill Speed lowering our GCD is that only at certain GCDs tiers may it be a slight gain to drift Standard Step in order to use the time saved from faster GCDs to earn an extra weaponskill usage. Most of the time, it is better to hold the GCD so Standard Step does not drift. Therefore, when you are holding your GCD like this, you actually gain no value from the fact that Skill Speed is decreasing your GCD. If this is the case, the only thing Skill Speed is actually providing for you is the damage% increase to your auto attacks (which makes it effectively 13% as good as Determination based on how much % of our damage comes from auto attacks).
 
 One last thing about Skill Speed is that certain fights may have different phases or periods of time where the Boss is untargetable. Having a faster GCD tier may allow you to gain an extra GCD before the Boss jumps or changes phase. Generally speaking, the gain in this extra GCD is not worth the loss of the Crit, DH, or Determination stats you could have in place of the Skill Speed. 
-
-
 
 - - -
 
