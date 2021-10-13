@@ -570,7 +570,7 @@ Examples of where this reopener would be used are after add phase in Shiva E8S a
 
 # Stat Tiering and Itemization for Dancer
 
-Determining what gear to wear can have an impact on the damage you do. I find itemization to be a very important topic for any DPS role because wearing a more optimal gear set can increase your damage without changing anything with regards to your rotation. Essentially, proper itemization increases your DPS before you even step into the fight.
+Determining what gear to wear can have an impact on the damage you do. I find itemization to be a very important topic for any DPS role because wearing a more optimal gear set can increase your damage without changing anything with regards to your rotation. Essentially, proper itemization increases your DPS before you even step into the fight. For more information on currently recommended Dancer gear and Best in Slot, see the [Best In Slot page](https://guides.xivresources.com/jobs/ranged/dancer/best-in-slot/). For specific stats and melds for certain fights and general meld priority, see the [Stats and Materia page](https://guides.xivresources.com/jobs/ranged/dancer/stats-and-materia/). Keep reading for an in-depth look at DNC stats and gear.
 
 Generally speaking, the damage increase you get from stats as DNC is ranked in order of:
 
@@ -580,14 +580,14 @@ Generally speaking, the damage increase you get from stats as DNC is ranked in o
 Description of these stats are as follows:
 
 * Weapon Damage: Found on your weapon, is an independent contributory factor to the damage formula
-* Dexterity: DNC’s primary stat that is found on all of its gear, 1 point in dexterity adds 1 point in attack power which has its own function in the damage formula
+* Dexterity: DNC’s primary stat that is found on all of its gear, one point in Dexterity adds one point in attack power which has its own function in the damage formula
 * Crit: DNC’s most desired secondary stat, increases the chance of success in landing critical hits and increases the crit damage multiplier when you successfully land a critical hit
 * Direct Hit: secondary stat, increases the chance of success in landing a direct hit (Note: Direct Hits do a static 25% increase in damage)
 * Det: secondary stat, flat damage% increase which is its on separate function in the damage formula.
 * SkS: secondary stat, decreases the global cooldown timer (base 2.50 for all DNC weaponskills) and increases the damage auto attacks do
-* Special Note: Abilities can both crit and direct hit at the same time, in which case they get both the crit damage multiplier and the 1.25 multiplier from direct hit when the action both crits and direct hits.
+* Special Note: Abilities can both Crit and Direct Hit at the same time, in which case they get both the crit damage multiplier and the 1.25 multiplier from direct hit when the action both crits and direct hits.
 
-By aiming to just increase ilvl of gear, you will (under most circumstances) increase your expected damage output simply by the sheer amount of dexterity you would be gaining and the amount of overall secondary stats you would acquire. Additionally, weapon damage can be increased by obtaining a higher ilvl weapon, and will more often than not be a DPS increase for DNC.
+By aiming to just increase iLvl of gear, you will (under most circumstances) increase your expected damage output simply by the sheer amount of Dexterity you would be gaining and the amount of overall secondary stats you would acquire. Additionally, weapon damage can be increased by obtaining a higher iLvl weapon, and will more often than not be a DPS increase for DNC.
 
 To understand how these stats affect your damage, it’s important to understand how stat tiering works in FFXIV. Let’s look at Determination for a second. The Determination secondary stat is a simple damage% increase stat. When thinking about this stat, you might think the graph of it would be a straight line where the more Determination you have, the higher the damage% increase is, like so:
 
@@ -597,11 +597,11 @@ However, most stats in FFXIV work in tiers, meaning you will only see the increa
 
 ![](https://cdn.discordapp.com/attachments/752334526449057853/897228382104875018/unknown.png)
 
-What this means is that when you are at a specific tier (step), adding 1 point in Determination will have no effect on your damage unless it moves you to the next tier (step). Any points in Determination added beyond this stat tier starting point are considered “wasted” unless it helps you reach a new stat tier. Generally speaking, we should only worry about these steps/tiers when determining what our BiS gear set is, which may involve changing around materia melds to ensure there are as few wasted secondary stat points as possible.
+What this means is that when you are at a specific tier (step), adding one point in Determination will have no effect on your damage unless it moves you to the next tier (step). Any points in Determination added beyond this stat tier starting point are considered “wasted” unless it helps you reach a new stat tier. Generally speaking, we should only worry about these steps/tiers when determining what our BiS gear set is, which may involve changing around materia melds to ensure there are as few wasted secondary stat points as possible.
 
 ## Weapon Damage and Dexterity
 
-Weapon Damage and Dexterity are the simplest of stats with regards to DNC DPS, especially since all gear pieces have Dexterity. The easiest way to increase these stats is simply by upgrading gear pieces for higher ilvl items that provide more DEX and higher ilvl weapons with more Weapon Damage. Weapon Damage is the only stat that is not tiered. Dexterity increases your damage through stat tiers, however, these steps are so small and varied (between 1-3 primary stat points per tier) that it is not worth effort examining differences in Dexterity stat tiers.
+Weapon Damage and Dexterity are the simplest of stats with regards to DNC DPS, especially since all gear pieces have Dexterity. The easiest way to increase these stats is simply by upgrading gear pieces for higher iLvl items that provide more DEX and higher ilvl weapons with more Weapon Damage. Weapon Damage is the only stat that is not tiered. Dexterity increases your damage through stat tiers, however, these steps are so small and varied (between one and three primary stat points per tier) that it is not worth effort examining differences in Dexterity stat tiers.
 
 ## Crit vs Det/DH
 
@@ -629,13 +629,13 @@ However, while under the effect of Devilment, the DNC’s DH rate receives a fla
 
 ![](https://cdn.discordapp.com/attachments/752334526449057853/897228668747780096/unknown.png)
 
-When trying to optimize the amount of damage you get from DET + DH, you have to consider what percent of your total damage occurs under the Devilment buff. Many current top DNC parses show on some fights the % of your total damage that is done under Devilment is approximately 31%. This % is dependent on multiple things: party composition (raid buffs), fight length (affecting the number of Devilment casts and what % of the total time you are under Devilment), ability to successfully pool feathers/esprit into buff windows, etc… In order to consider Devilment in our DH+DET optimization calculations, we can do a weighted average of the damage you do outside of Devilment vs inside Devilment for different % amounts of your total damage happening under Devilment. The result shows different DET/DH amounts were favored at different %’s of total damage happening under Devilment. However, between 21-35+% of total damage occurring under Devilment showed the same peak in expected damage value at the same specific stat tiers of DET / DH (at 1965 DET and 2864 DH or 39.5% DET / 60.5 % DH). However, achieving this exact stat tier is not possible with current gear / melding options available in 5.2 due to materia VIII’s being in increments of 60. Therefore, when looking at obtainable options from melding combinations, the maximum expected damage was calculated for 2067 DET and 2762 DH (42.0 % DET / 58.0 % DH) which is the stats for current BiS for DNC as of patch 5.25.
+When trying to optimize the amount of damage you get from DET + DH, you have to consider what percent of your total damage occurs under the Devilment buff. Many current top DNC parses show on some fights the % of your total damage that is done under Devilment is approximately 31%. This % is dependent on multiple things: party composition (raid buffs), fight length (affecting the number of Devilment casts and what % of the total time you are under Devilment), ability to successfully pool Feathers/Esprit into buff windows, etc… In order to consider Devilment in our DH+DET optimization calculations, we can do a weighted average of the damage you do outside of Devilment vs inside Devilment for different % amounts of your total damage happening under Devilment. The result shows different DET/DH amounts were favored at different %’s of total damage happening under Devilment. However, between 21-35+% of total damage occurring under Devilment showed the same peak in expected damage value at the same specific stat tiers of DET / DH (at 1965 DET and 2864 DH or 39.5% DET / 60.5 % DH). However, achieving this exact stat tier is not possible with current gear / melding options available in 5.2 due to materia VIII’s being in increments of 60. Therefore, when looking at obtainable options from melding combinations, the maximum expected damage was calculated for 2067 DET and 2762 DH (42.0 % DET / 58.0 % DH) which is the stats for current BiS for DNC as of patch 5.25.
 
 - - -
 
 # Skill Speed… and Why it is not good on DNC
 
-The skill speed stat has 2 effects for DNC: lowering the global cooldown timer for weaponskills (2.50 base GCD) and increasing the damage of auto attacks.
+The skill speed stat has two effects for DNC: lowering the global cooldown timer for weaponskills (2.50 base GCD) and increasing the damage of auto attacks.
 
 The damage% increase Skill Speed gives to auto attacks has the same differences between stat tiers compared to DET (i.e. 254 points of Skill Speed will increase auto attack damage by 1%). However, auto attacks are only about 13-15% of our total damage.
 
@@ -651,40 +651,15 @@ At a 2.48 GCD tier, a gap is created between the last GCD and when Standard Step
 
 The end result of Skill Speed lowering our GCD is that only at certain GCDs tiers may it be a slight gain to drift Standard Step in order to use the time saved from faster GCDs to earn an extra weaponskill usage. Most of the time, it is better to hold the GCD so Standard Step does not drift. Therefore, when you are holding your GCD like this, you actually gain no value from the fact that Skill Speed is decreasing your GCD. If this is the case, the only thing Skill Speed is actually providing for you is the damage% increase to your auto attacks (which makes it effectively 13% as good as Determination based on how much % of our damage comes from auto attacks).
 
-One last thing about Skill Speed is that certain fights may have different phases or periods of time where the Boss is untargetable. Having a faster GCD tier may allow you to gain an extra GCD before the Boss jumps or changes phase. Generally speaking, the gain in this extra GCD is not worth the loss of the Crit, DH, or Determination stats you could have in place of the Skill Speed.
+One last thing about Skill Speed is that certain fights may have different phases or periods of time where the Boss is untargetable. Having a faster GCD tier may allow you to gain an extra GCD before the Boss jumps or changes phase. Generally speaking, the gain in this extra GCD is not worth the loss of the Crit, DH, or Determination stats you could have in place of the Skill Speed. 
 
-- - -
 
-# Gear and Best in Slot (BiS)
-
-“Best in Slot” refers to the best possible combination of gear for a specific piece of content. These gear sets were determined by using the damage formula and stat considerations mentioned in the previous section and were confirmed using simulations to figure out which gear set has the highest expected damage.
-
-5.3 Best Food: Stuffed Highland Cabbage
-5.3 Best Potions: Grade 3 Tincture of Dexterity
-
-[Current BiS gear for Savage raiding (5.2)](https://etro.gg/gearset/c2266309-640a-4383-81c5-66c1b2e16ac9) - ilvl 500 and currently the best gear set for DNC. Remains unchanged in 5.3.
-
-[Guide for Preparing Gear for Savage Raiding (5.3)](https://docs.google.com/document/d/1k_kasl9Uf0ar4sGrXIPtKahVpVZoCdwPMnNUXOOgMuo/edit?usp=sharing) - This is a guide for what gear to get when trying to gear up DNC in 5.3. This also includes a recommended tomestone item buy order. It also includes the best possible gear you can obtain before setting foot in any savage raid.
-
-[Current BiS gear for The Epic of Alexander (5.3)](https://etro.gg/gearset/abe39cc0-e56b-4f93-ab6c-010cbae06f6d) - This gear set is a combination of ilvl 470 and 475 pieces because the content syncs to ilvl 475. If a gear piece is synced, it loses the effect of the materia melded. This set uses the 475 Helm, Chest, Legs, Earrings, and Ring from the newest 5.3 Dungeon. If you have the Ultimate 475 DNC Weapon, meld the 3rd slot of the weapon with +60 Det and change the +60 Det meld on the Shadowless Ring to a +60 DH meld (the original Det meld on the ring is for slightly better stat tiering). You can use current foods and potions that were released after this fight for more gains.
-
-BiS for UCoB and UWU - There are no pre-made gear sets for these level 70 synced fights. For UCoB, ilvl 418 gear and above will have both secondary stats capped on the item when synced. For UWU, ilvl 470 gear and above will have both stats capped when synced. When syncing gear down, you can choose to go for gear pieces that have favorable stats (i.e. Crit > DH > Det), however, keep in mind how DET and DH interact with each other (shown in previous section where the ideal amount of DET is somewhere between 30-40% of total DH + DET). Current 5.2 BiS does a good job of syncing down to favorable stats for these ultimates (Crit on the base of every item, and DET/DH syncs to approximately 42% of your total DET + DH being DET), you could consider swapping out 1 Crit/Det piece for a Crit/DH piece to achieve a more favorable DET/DH stat tier.
-
-* For both of these fights, you can use Shadowbringers food and potions for more gains.
-* For UWU, there are no ilvl 375 gear pieces that are favorable to sync’ed gear pieces.
-* For UCOB, the following Bonewicca ilvl345 gear pieces from Swallow’s Compass are slightly better than sync’ed gear pieces due to gains from melding:
-
-  * Helm (note: you lose 80 crit here for a gain of 32 total secondary points, might not be worth it depending on stat tiering at level 70)
-  * Gauntlets
-  * Belt
-  * Necklace
-  * Ring
 
 - - -
 
 # Considerations for Selecting a Dance Partner
 
-The 2 biggest considerations that need to be made when determining who you choose as your Dance Partner are their skill level and their gear. For example, you may have two players who have very similar skill levels at their respective jobs, but one player might have considerably better gear. The player with the better gear may be the better player to choose as your Dance Partner in this situation due to them being better able to maximize the DPS gain from having your buffs. Additionally, you may have 2 players with similar gear, but one performs exceptionally better at their job than the other. In order to determine who would be better to Dance Partner, the easiest thing would be to use ACT (damage parsing tool) to determine who is doing more damage.
+The two biggest considerations that need to be made when determining who you choose as your Dance Partner are their skill level and their gear. For example, you may have two players who have very similar skill levels at their respective jobs, but one player might have considerably better gear. The player with the better gear may be the better player to choose as your Dance Partner in this situation due to them being better able to maximize the DPS gain from having your buffs. Additionally, you may have two players with similar gear, but one performs exceptionally better at their job than the other. In order to determine who would be better to Dance Partner, the easiest thing would be to use ACT (damage parsing tool) to determine who is doing more damage.
 
 Now assuming we’re in a skill and gear vacuum (i.e. everyone is BiS and is at the same skill level), there are 3 main considerations to think about when selecting a Dance Partner:
 
