@@ -233,10 +233,6 @@ When Fan Dance III procs, you get a buff that lasts for 20 seconds that allows y
 
 ![](https://cdn.discordapp.com/attachments/752334526449057853/897215115412275222/unknown.png)
 
-```
-			
-```
-
 When using Feathers during Technical Finish / Devilment, you’ll want to weave as many Fan Dances and Fan Dance IIIs as possible. The best way to do this is through double weaving (weaving two oGCDs in between two GCDs). Depending on your ping, you may not be able to properly weave two oGCDs in between GCDs without clipping your GCD. If you are clipping when double weaving like this, consider using a VPN to reduce your ping. If using a VPN is not an option or doesn’t help prevent clipping when double weaving, your best option is to only single weave to prevent significant clips. Although playable, it is suboptimal since you won’t be able to weave as many oGCDs as possible in buff windows.
 
 When weaving oGCDs, you can double weave two oGCDs in between two regular weaponskill GCDs, but you will only be able to weave one oGCD after a Standard or Technical Finish due to these GCDs only being 1.5 seconds as opposed to your normal weaponskill GCD (base 2.50 sec). Generally speaking, when weaving Feathers in buff windows, you’ll want to use Fan Dance and immediately queue up Fan Dance III in the double weave window. 
