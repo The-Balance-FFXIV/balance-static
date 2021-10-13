@@ -661,11 +661,11 @@ One last thing about Skill Speed is that certain fights may have different phase
 
 The two biggest considerations that need to be made when determining who you choose as your Dance Partner are their skill level and their gear. For example, you may have two players who have very similar skill levels at their respective jobs, but one player might have considerably better gear. The player with the better gear may be the better player to choose as your Dance Partner in this situation due to them being better able to maximize the DPS gain from having your buffs. Additionally, you may have two players with similar gear, but one performs exceptionally better at their job than the other. In order to determine who would be better to Dance Partner, the easiest thing would be to use ACT (damage parsing tool) to determine who is doing more damage.
 
-Now assuming we’re in a skill and gear vacuum (i.e. everyone is BiS and is at the same skill level), there are 3 main considerations to think about when selecting a Dance Partner:
+Now assuming we’re in a skill and gear vacuum (i.e. everyone is BiS and is at the same skill level), there are three main considerations to think about when selecting a Dance Partner:
 
-1. Amount of damage they do in total (affects how much DPS they gain from Standard Finish 5% damage up buff)
-2. Amount of damage they do during Devilment Windows that can be buffed by crit/dh% rate (some abilities are already guaranteed to crit/dh so jobs with these kinds of abilities will not benefit as much from Devilment). Additionally, does this job gain anything from having higher crit/dh% rate (i.e. MNKs can gain extra Chakras due to Devilment increasing their crit% rate)
-3. Amount of esprit they’ll likely generate for the DNC outside of Technical Finish windows resulting in potentially more Saber Dances over the fight
+1. Amount of damage they do in total (affects how much DPS they gain from Standard Finish 5% damage up buff).
+2. Amount of damage they do during Devilment Windows that can be buffed by crit/dh% rate (some abilities are already guaranteed to crit or direct hit so jobs with these kinds of abilities will not benefit as much from Devilment). Additionally, does this job gain anything from having higher crit/dh% rate (i.e. MNKs can gain extra Chakras due to Devilment increasing their crit% rate).
+3. Amount of esprit they’ll likely generate for the DNC outside of Technical Finish windows resulting in potentially more Saber Dances over the fight.
 
 The first point is pretty straight forward, whoever does the most damage will gain the most from Standard Finish buff.
 
