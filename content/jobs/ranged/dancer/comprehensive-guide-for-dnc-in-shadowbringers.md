@@ -48,7 +48,7 @@ Last Updated: August 12, 2020\
   * [En Avant](#en-avant)
 * [Common Abbreviations](#common-abbreviations)
 * [Glossary of Terms](#glossary-of-terms)
-* [About the Author / Special Thanks](#about-the-author--special-thanks)
+* [About the Author](#about-the-author)
 * [Changelog](#changelog)
 
 - - -
