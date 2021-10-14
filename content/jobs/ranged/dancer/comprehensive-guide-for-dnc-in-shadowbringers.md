@@ -867,7 +867,6 @@ Hello there! My name is Ringabel Dim of Excalibur. I have played FFXIV for six y
 * Resilla and Yumiya (Helpful DNCs on The Balance who helped look over this guide for errors)
 * Ellunavi (Moderator on The Balance, and contributed much to DNC resources including his analysis and simulation tool)
 * Allagan Studies
-* Alevia Rohan for helping me host this guide on SaltedXIV
 * My static, “Monkeys with Typewriters”, for letting me put up the axe and become a DNC main =)
 
 # Changelog
