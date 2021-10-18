@@ -12,7 +12,7 @@ Last Updated: August 12, 2020\
 * [Purpose and Introduction](#purpose-and-introduction)
 * [Basic DNC Overview](#basic-dnc-overview)
 * [Range of Actions and Abilities](#range-of-actions-and-abilities)
-* [Understanding Standard Step / How to do Dance Steps](#understanding-standard-step--how-to-do-dance-steps)
+* [Understanding Standard Step / How to Do Dance Steps](#understanding-standard-step--how-to-do-dance-steps)
 * [Understanding Technical Step](#understanding-technical-step)
 * [Understanding Fan Dance (and weaving oGCDs in general)](#understanding-fan-dance-and-weaving-ogcds-in-general)
 * [Esprit Generation](#esprit-generation)
@@ -20,7 +20,7 @@ Last Updated: August 12, 2020\
   * [Improvisation](#improvisation)
 * [Understanding Flourish](#understanding-flourish)
 * [DNC “Rotation”](#dnc-rotation)
-* [General Single Target GCD Priority List](#general-single-target-gcd-priority-list)
+* [General Single-Target GCD Priority List](#general-single-target-gcd-priority-list)
 * [AoE Rotation](#aoe-rotation)
 * [Opener](#opener)
 * [Technical Finish / Devilment Window Optimization](#technical-finish--devilment-window-optimization)
@@ -31,7 +31,7 @@ Last Updated: August 12, 2020\
   * [Weapon Damage and Dexterity](#weapon-damage-and-dexterity)
   * [Crit vs Det/DH](#crit-vs-det--dh)
   * [Determination vs DH](#determination-vs-dh)
-  * [Skill Speed and Why it is Not Good on DNC](#skill-speed-and-why-it-is-not-good-on-dnc)
+  * [Skill Speed and Why It Is Not Good on DNC](#skill-speed-and-why-it-is-not-good-on-dnc)
 * [Considerations for Selecting a Dance Partner](#considerations-for-selecting-a-dance-partner)
 
   * [Dance Partner Priority List](#dance-partner-priority-list)
@@ -55,9 +55,9 @@ Last Updated: August 12, 2020\
 
 # Purpose and Introduction
 
-The purpose of this guide is to be a comprehensive gameplay guide for how to play and optimize the DNC rotation. This guide goes over the fundamentals and job basics while also looking into advanced tips and tricks that experienced players may not know. Due to the randomness of the proc, Feather, and Esprit generation, DNC has a dynamic playstyle where no two pulls are ever the same. Hopefully after reading this guide, you will have a better understanding of how to play DNC to its fullest.
+The purpose of this guide is to be a comprehensive gameplay guide for how to play and optimize the DNC rotation. This guide goes over the fundamentals and job basics while also looking into advanced tips and tricks that experienced players may not know. Due to the randomness of procs, Feathers, and Esprit generation, DNC has a dynamic playstyle where no two pulls are ever the same. Hopefully after reading this guide, you will have a better understanding of how to play DNC to its fullest.
 
-Ellunavi (moderator on [The Balance - Discord server](https://discord.gg/CjQkEn3)) wrote an in depth [analysis](https://docs.google.com/document/d/1iktjQ-kW7Vp-iWy_xEWh6t62FaXqjfGELGmcWOtPQfM/edit) at the beginning of Shadowbrings for DNC regarding the calculations which established the priorities for DNC GCD and oGCD usage. His work helps establish a basis to explain why certain recommendations in this guide are optimal depending on the situation.
+Ellunavi (moderator on [The Balance - Discord server](https://discord.gg/CjQkEn3)) wrote an in-depth [analysis](https://docs.google.com/document/d/1iktjQ-kW7Vp-iWy_xEWh6t62FaXqjfGELGmcWOtPQfM/edit) at the beginning of Shadowbringers for DNC regarding the calculations which established the priorities for DNC GCD and oGCD usage. His work helps establish a basis to explain why certain recommendations in this guide are optimal depending on the situation.
 
 Additionally, thanks to the hard work of the members of the [Allagan Studies](http://allaganstudies.akhmorning.com/), the damage formulas have been determined along with the stat tiers used to help support the rotational strategies that were found using math to find the best results and simulations to confirm them.
 
@@ -71,11 +71,11 @@ Everything in this guide is free to be reposted or otherwise used freely! If you
 
 ## Short Version:
 
-Dancer is a ranged physical DPS job with low personal DPS but high contribution to others’ DPS using raid buffs. It has “Dances'' that require executing the right dance steps in order to perform powerful finishing moves. Its main weaponskill GCDs revolve around a simple combo that has a chance to generate stronger proc GCDs which have a chance to generate Feathers which can be used for oGCD damage abilities.
+Dancer is a ranged physical DPS job with low personal DPS but high contribution to others’ DPS using raid buffs. It has “Dances'' that require executing the right dance steps in order to perform powerful finishing moves. Its main weaponskill GCDs revolve around a simple combo that has a chance to generate stronger proc GCDs, which have a chance to generate Feathers that can be used for oGCD damage abilities.
 
 ## Long Version:
 
-Dancer is a ranged physical DPS job (along with BRD and MCH) which has a pretty straightforward style to its gameplay. Their primary damage stat is dexterity (DEX). DNC is the DPS job that does the least amount of personal damage; however, it makes up for it by providing high damage increasing buffs to your raid group. Part of DNC’s rotation is keeping a buff up called Standard Finish that increases your damage by 5%. Additionally, DNC has two two minute cooldown abilities: Technical Step and Devilment. Technical Finish (which occurs after successfully completing the Technical Step dance) will provide a 5% damage up buff to the whole party for 20 seconds while Devilment provides the DNC with a 20% crit hit rate and 20% direct hit rate boost for 20 seconds. DNC can also choose someone to be their Dance Partner in a fight with the ability Closed Position which will duplicate the Standard Finish 5% damage up buff and the Devilment buff on this target party member. Additionally, DNC provides raid utility in the form of a small AoE heal called Curing Waltz and a party wide damage reduction ability called Shield Samba. Despite doing low personal damage overall, DNC offers incredibly powerful burst damage in a 20 second window every two minutes with its Technical Step and Devilment abilities.
+Dancer is a ranged physical DPS job (along with BRD and MCH) that has a pretty straightforward style to its gameplay. Their primary damage stat is dexterity (DEX). DNC is the DPS job that does the least amount of personal damage; however, it makes up for it by providing high damage-increasing buffs to your raid group. Part of DNC’s rotation is keeping a buff up called Standard Finish that increases your damage by 5%. Additionally, DNC has two two-minute cooldown abilities: Technical Step and Devilment. Technical Finish (which occurs after successfully completing the Technical Step dance) will provide a 5% damage up buff to the whole party for 20 seconds, and Devilment provides the DNC with a 20% crit hit rate and 20% direct hit rate boost for 20 seconds. DNC can also choose someone to be their Dance Partner in a fight with the ability Closed Position, which will duplicate the Standard Finish 5% damage up buff and the Devilment buff on the targeted party member. Additionally, DNC provides raid utility in the form of a small AoE heal called Curing Waltz and a party wide damage reduction ability called Shield Samba. Despite doing low overall personal damage, DNC offers incredibly powerful burst damage in a 20 second window every two minutes with its Technical Step and Devilment abilities.
 
 The rotational flow of DNC is a simple combo / proc GCD system coupled with two dance abilities, Standard Step and Technical Step, on a 30 second and two minute cooldown respectively. When beginning a dance, your normal GCDs are replaced with dance steps in order to unlock a finishing move (aptly named Standard Finish and Technical Finish). These dance steps do not do any damage, however, the dance finishes themselves are some of the strongest damage abilities in the game at 1000 and 1500 potency respectively. These dance finishes damage all enemies within a 15 yalm radius of you. The closest enemy will be hit for the full damage (1000 and 1500 potency respectively) while all other enemies will be hit for 75% reduced damage (250 potency for Standard Finish and 375 potency for Technical Finish).
 
@@ -867,7 +867,6 @@ Hello there! My name is Ringabel Dim of Excalibur. I have played FFXIV for six y
 * Resilla and Yumiya (Helpful DNCs on The Balance who helped look over this guide for errors)
 * Ellunavi (Moderator on The Balance, and contributed much to DNC resources including his analysis and simulation tool)
 * Allagan Studies
-* Alevia Rohan for helping me host this guide on SaltedXIV
 * My static, “Monkeys with Typewriters”, for letting me put up the axe and become a DNC main =)
 
 # Changelog
