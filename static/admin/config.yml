@@ -333,6 +333,14 @@ collections:
         file: "content/jobs/tanks/warrior/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -347,6 +355,14 @@ collections:
         file: "content/jobs/tanks/warrior/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -361,6 +377,14 @@ collections:
         file: "content/jobs/tanks/warrior/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -375,6 +399,14 @@ collections:
         file: "content/jobs/tanks/warrior/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -410,6 +442,14 @@ collections:
         file: "content/jobs/tanks/warrior/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -479,11 +519,27 @@ collections:
         file: "content/jobs/tanks/paladin/_index.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/tanks/paladin/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -498,6 +554,14 @@ collections:
         file: "content/jobs/tanks/paladin/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -512,6 +576,14 @@ collections:
         file: "content/jobs/tanks/paladin/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -526,6 +598,14 @@ collections:
         file: "content/jobs/tanks/paladin/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -561,6 +641,14 @@ collections:
         file: "content/jobs/tanks/paladin/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -630,11 +718,27 @@ collections:
         file: "content/jobs/tanks/dark-knight/_index.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/tanks/dark-knight/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -649,6 +753,14 @@ collections:
         file: "content/jobs/tanks/dark-knight/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -663,6 +775,14 @@ collections:
         file: "content/jobs/tanks/dark-knight/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -677,6 +797,14 @@ collections:
         file: "content/jobs/tanks/dark-knight/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -712,6 +840,14 @@ collections:
         file: "content/jobs/tanks/dark-knight/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -781,11 +917,27 @@ collections:
         file: "content/jobs/tanks/gunbreaker/_index.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/tanks/gunbreaker/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -800,6 +952,14 @@ collections:
         file: "content/jobs/tanks/gunbreaker/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -814,6 +974,14 @@ collections:
         file: "content/jobs/tanks/gunbreaker/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -828,6 +996,14 @@ collections:
         file: "content/jobs/tanks/gunbreaker/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -863,6 +1039,14 @@ collections:
         file: "content/jobs/tanks/gunbreaker/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -932,11 +1116,27 @@ collections:
         file: "content/jobs/healers/white-mage/_index.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/healers/white-mage/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -951,6 +1151,14 @@ collections:
         file: "content/jobs/healers/white-mage/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -965,6 +1173,14 @@ collections:
         file: "content/jobs/healers/white-mage/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -979,6 +1195,14 @@ collections:
         file: "content/jobs/healers/white-mage/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1014,6 +1238,14 @@ collections:
         file: "content/jobs/healers/white-mage/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1083,11 +1315,27 @@ collections:
         file: "content/jobs/healers/scholar/_index.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/healers/scholar/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1102,6 +1350,14 @@ collections:
         file: "content/jobs/healers/scholar/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1116,6 +1372,14 @@ collections:
         file: "content/jobs/healers/scholar/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1130,6 +1394,14 @@ collections:
         file: "content/jobs/healers/scholar/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1165,6 +1437,14 @@ collections:
         file: "content/jobs/healers/scholar/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1234,11 +1514,27 @@ collections:
         file: "content/jobs/healers/astrologian/_index.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/healers/astrologian/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1253,6 +1549,14 @@ collections:
         file: "content/jobs/healers/astrologian/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1267,6 +1571,14 @@ collections:
         file: "content/jobs/healers/astrologian/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1281,6 +1593,14 @@ collections:
         file: "content/jobs/healers/astrologian/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1316,6 +1636,14 @@ collections:
         file: "content/jobs/healers/astrologian/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1385,11 +1713,27 @@ collections:
         file: "content/jobs/healers/sage/_index.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/healers/sage/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1404,6 +1748,14 @@ collections:
         file: "content/jobs/healers/sage/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1418,6 +1770,14 @@ collections:
         file: "content/jobs/healers/sage/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1432,6 +1792,14 @@ collections:
         file: "content/jobs/healers/sage/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1467,6 +1835,14 @@ collections:
         file: "content/jobs/healers/sage/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1536,11 +1912,27 @@ collections:
         file: "content/jobs/melee/dragoon/_index.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/melee/dragoon/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1555,6 +1947,14 @@ collections:
         file: "content/jobs/melee/dragoon/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1569,6 +1969,14 @@ collections:
         file: "content/jobs/melee/dragoon/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1583,6 +1991,14 @@ collections:
         file: "content/jobs/melee/dragoon/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1618,6 +2034,14 @@ collections:
         file: "content/jobs/melee/dragoon/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1687,11 +2111,27 @@ collections:
         file: "content/jobs/melee/reaper/_index.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/melee/reaper/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1706,6 +2146,14 @@ collections:
         file: "content/jobs/melee/reaper/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1720,6 +2168,14 @@ collections:
         file: "content/jobs/melee/reaper/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1734,6 +2190,14 @@ collections:
         file: "content/jobs/melee/reaper/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1769,6 +2233,14 @@ collections:
         file: "content/jobs/melee/reaper/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1838,11 +2310,27 @@ collections:
         file: "content/jobs/melee/samurai/_index.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/melee/samurai/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1857,6 +2345,14 @@ collections:
         file: "content/jobs/melee/samurai/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1871,6 +2367,14 @@ collections:
         file: "content/jobs/melee/samurai/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1885,6 +2389,14 @@ collections:
         file: "content/jobs/melee/samurai/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1920,6 +2432,14 @@ collections:
         file: "content/jobs/melee/samurai/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1989,11 +2509,27 @@ collections:
         file: "content/jobs/melee/monk/_index.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/melee/monk/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2008,6 +2544,14 @@ collections:
         file: "content/jobs/melee/monk/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2022,6 +2566,14 @@ collections:
         file: "content/jobs/melee/monk/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2036,6 +2588,14 @@ collections:
         file: "content/jobs/melee/monk/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2071,6 +2631,14 @@ collections:
         file: "content/jobs/melee/monk/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2140,11 +2708,27 @@ collections:
         file: "content/jobs/melee/ninja/_index.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/melee/ninja/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2159,6 +2743,14 @@ collections:
         file: "content/jobs/melee/ninja/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2173,6 +2765,14 @@ collections:
         file: "content/jobs/melee/ninja/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2187,6 +2787,14 @@ collections:
         file: "content/jobs/melee/ninja/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2222,6 +2830,14 @@ collections:
         file: "content/jobs/melee/ninja/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2291,11 +2907,27 @@ collections:
         file: "content/jobs/ranged/machinist/_index.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/ranged/machinist/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2310,6 +2942,14 @@ collections:
         file: "content/jobs/ranged/machinist/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2324,6 +2964,14 @@ collections:
         file: "content/jobs/ranged/machinist/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2338,6 +2986,14 @@ collections:
         file: "content/jobs/ranged/machinist/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2373,6 +3029,14 @@ collections:
         file: "content/jobs/ranged/machinist/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2442,11 +3106,27 @@ collections:
         file: "content/jobs/ranged/dancer/_index.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/ranged/dancer/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2461,6 +3141,14 @@ collections:
         file: "content/jobs/ranged/dancer/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2475,6 +3163,14 @@ collections:
         file: "content/jobs/ranged/dancer/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2489,6 +3185,14 @@ collections:
         file: "content/jobs/ranged/dancer/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2524,6 +3228,14 @@ collections:
         file: "content/jobs/ranged/dancer/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2593,11 +3305,27 @@ collections:
         file: "content/jobs/ranged/bard/_index.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/ranged/bard/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2612,6 +3340,14 @@ collections:
         file: "content/jobs/ranged/bard/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2626,6 +3362,14 @@ collections:
         file: "content/jobs/ranged/bard/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2640,6 +3384,14 @@ collections:
         file: "content/jobs/ranged/bard/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2675,6 +3427,14 @@ collections:
         file: "content/jobs/ranged/bard/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2744,11 +3504,27 @@ collections:
         file: "content/jobs/casters/black-mage/_index.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/casters/black-mage/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2763,6 +3539,14 @@ collections:
         file: "content/jobs/casters/black-mage/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2777,6 +3561,14 @@ collections:
         file: "content/jobs/casters/black-mage/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2791,6 +3583,14 @@ collections:
         file: "content/jobs/casters/black-mage/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2826,6 +3626,14 @@ collections:
         file: "content/jobs/casters/black-mage/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2895,11 +3703,27 @@ collections:
         file: "content/jobs/casters/red-mage/_index.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/casters/red-mage/leveling-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2914,6 +3738,14 @@ collections:
         file: "content/jobs/casters/red-mage/basic-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2928,6 +3760,14 @@ collections:
         file: "content/jobs/casters/red-mage/skills-overview.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2942,6 +3782,14 @@ collections:
         file: "content/jobs/casters/red-mage/openers.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2977,6 +3825,14 @@ collections:
         file: "content/jobs/casters/red-mage/advanced-guide.md"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
