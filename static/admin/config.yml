@@ -336,6 +336,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -358,6 +359,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -380,6 +382,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -402,6 +405,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -445,6 +449,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -522,6 +527,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -535,6 +541,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -557,6 +564,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -579,6 +587,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -601,6 +610,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -644,6 +654,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -721,6 +732,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -734,6 +746,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -756,6 +769,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -778,6 +792,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -800,6 +815,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -843,6 +859,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -920,6 +937,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -933,6 +951,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -955,6 +974,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -977,6 +997,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -999,6 +1020,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1042,6 +1064,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1119,6 +1142,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1132,6 +1156,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1154,6 +1179,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1176,6 +1202,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1198,6 +1225,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1241,6 +1269,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1318,6 +1347,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1331,6 +1361,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1353,6 +1384,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1375,6 +1407,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1397,6 +1430,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1440,6 +1474,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1517,6 +1552,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1530,6 +1566,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1552,6 +1589,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1574,6 +1612,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1596,6 +1635,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1639,6 +1679,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1716,6 +1757,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1729,6 +1771,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1751,6 +1794,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1773,6 +1817,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1795,6 +1840,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1838,6 +1884,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1915,6 +1962,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1928,6 +1976,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1950,6 +1999,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1972,6 +2022,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -1994,6 +2045,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2037,6 +2089,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2114,6 +2167,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2127,6 +2181,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2149,6 +2204,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2171,6 +2227,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2193,6 +2250,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2236,6 +2294,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2313,6 +2372,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2326,6 +2386,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2348,6 +2409,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2370,6 +2432,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2392,6 +2455,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2435,6 +2499,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2512,6 +2577,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2525,6 +2591,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2547,6 +2614,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2569,6 +2637,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2591,6 +2660,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2634,6 +2704,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2711,6 +2782,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2724,6 +2796,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2746,6 +2819,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2768,6 +2842,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2790,6 +2865,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2833,6 +2909,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2910,6 +2987,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2923,6 +3001,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2945,6 +3024,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2967,6 +3047,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -2989,6 +3070,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3032,6 +3114,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3109,6 +3192,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3122,6 +3206,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3144,6 +3229,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3166,6 +3252,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3188,6 +3275,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3231,6 +3319,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3308,6 +3397,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3321,6 +3411,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3343,6 +3434,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3365,6 +3457,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3387,6 +3480,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3430,6 +3524,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3507,6 +3602,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3520,6 +3616,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3542,6 +3639,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3564,6 +3662,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3586,6 +3685,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3629,6 +3729,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3706,6 +3807,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3719,6 +3821,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3741,6 +3844,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3763,6 +3867,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3785,6 +3890,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
@@ -3828,6 +3934,7 @@ collections:
           - label: "Author(s)"
             name: "authors"
             widget: "relation"
+            required: false
             multiple: true
             collection: "author-profile"
             search_fields: ["username", "name"]
