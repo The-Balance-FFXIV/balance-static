@@ -11,7 +11,7 @@ changelog:
 
 The basics of GNB gameplay will change depending on what Character Level you are currently playing at. Even though GNB starts at level 60, sometimes you may be Level Synced to below 60. 
 
-**No Mercy** is unlocked at Level 2, so you will have it available for any content. While in combat, you should always use No Mercy on cooldown. This is *not* a list of openers, but a general priority of what you should be using at each level. Even though they will not be listed, remember to use your oGCDs on cooldown or as close to on cooldown as possible while in combat. 
+**No Mercy** is unlocked at level 2, so you will have it available for any content. While in combat, you should always use No Mercy on cooldown. This is *not* a list of openers, but a general priority of what you should be using at each level. Even though they will not be listed, remember to use your oGCDs on cooldown or as close to on cooldown as possible while in combat. 
 
 # Level 15-29
 
