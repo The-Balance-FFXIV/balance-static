@@ -1,8 +1,6 @@
 ---
 title: SCH Leveling Guide
 ---
-<!--StartFragment-->
-
 As SCH itself is unlocked at level 30, this guide will start at level 18 (the level Sastasha syncs you to). This guide will assume that you know more or less what each action already does; I’ll briefly describe them when they come up, but won’t go into detail on them. I recommend the Basic guide if you want a more detailed description. This guide will be broken up by major actions during the base game, and then by expansion. A focus will be put on the healing actions and how best to utilize them while leveling, with an emphasis on their dungeon applications, since the majority of leveling content is dungeons. Damaging actions will be discussed briefly in each section.
 
 **Fairy Note:** When you use a fairy ability you order her to use the ability, so the actual ability will come out slightly later. If you give her multiple orders quickly, the orders will be queued up, which can cause a significant delay between the order and the actual ability being cast. Fairy abilities originate from the fairy, not yourself. Fairy potencies are also only worth about 2/3 of your potency (e.g. a 300 potency fairy heal is worth about the same as a 200 potency SCH heal). This exact potency ratio will vary with level, at endgame it’s about 64%. 
@@ -102,5 +100,3 @@ At level 80 you finally get Summon Seraph. Seraph’s Embrace is replaced by Ser
 ## Damage
 
 At 72 Broil II is upgraded to Broil III, Bio II is upgraded to Biolysis, and Ruin II increases in potency yet again. Biolysis only needs to tick for 15s to beat Broil III. Otherwise the DPS rotation and priority remains exactly the same yet again.
-
-<!--EndFragment-->
