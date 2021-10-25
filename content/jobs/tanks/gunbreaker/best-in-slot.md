@@ -1,5 +1,41 @@
 ---
 title: Best in Slot (BiS)
+patch: "5.58"
+lastmod: 2021-10-25T21:44:09.967Z
+bis:
+  - type: etro
+    description: ""
+    name: Savage 5.58 Relic i530 BiS - 2.41 GCD
+    link: https://etro.gg/gearset/724fb635-aee3-43d0-beb2-9ac285445e14
+  - type: etro
+    description: ""
+    name: Savage 5.58 Relic i530 BiS - 2.43 GCD
+    link: https://etro.gg/gearset/ec8a3fa3-4f6e-46df-9fe7-7127bfc0607d
+  - type: etro
+    description: ""
+    name: Savage 5.58 Non-Relic i530 BiS - 2.41 GCD
+    link: https://etro.gg/gearset/3a00ff65-fd0d-45b0-adc1-f4f1a6a2b69a
+  - type: etro
+    description: ""
+    name: UCoB i515 Relic BiS
+    link: https://etro.gg/gearset/20f5754b-faf7-48a5-9b75-99c98939ee27
+  - type: etro
+    description: ""
+    name: UWU i515 Relic BiS
+    link: https://etro.gg/gearset/85d6d8db-dbe3-4024-a55d-4496d5303ade
+  - type: etro
+    description: This can be done with EITHER the 535 or the 515 relic. if using the
+      515 relic, put 15 less skill speed in than shown
+    name: 5.55 The Epic of Alexander (TEA) BiS
+    link: https://etro.gg/gearset/75cb96cc-9e8e-4228-93f8-53152b288ceb
+  - type: etro
+    description: Unlucky dungeon drops? No headpiece? Try this!
+    name: 5.58 TEA Alternative
+    link: https://etro.gg/gearset/38c0c312-fb2d-47e2-af58-33b9acfab97e
+  - type: etro
+    description: Less DPS than relic as an alternative if you're not getting a relic
+    name: TEA 2.4 Non-Relic
+    link: https://etro.gg/gearset/f6631658-1d31-4472-8ff6-56ab2d9073e8
 ---
 # Gunbreaker Best in Slot
 
