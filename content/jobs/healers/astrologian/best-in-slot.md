@@ -1,5 +1,63 @@
 ---
 title: Best in Slot
+patch: "5.58"
+lastmod: 2021-10-26T21:04:29.040Z
+changelog:
+  - date: 2021-10-26T21:05:27.755Z
+    message: Article Created.
+bis:
+  - type: etro
+    description: It's fast. Quite fast. But this level of Piety:SpS has been tested
+      and is very viable for all fights this tier at a high level of play.
+      Please bring ethers with this if things go under.
+    name: "Max Reasonable Damage: (Crafted) Fastro"
+    link: " https://etro.gg/gearset/f76ddad7-1cf5-4b03-946b-cd63598157b0"
+  - type: etro
+    description: It's fast. Quite fast. But this level of Piety:SpS has been tested
+      and is very viable for all fights this tier at a high level of play.
+      Please bring ethers with this if things go under.
+    name: "Max Reasonable Damage: (Tome) Fastro"
+    link: https://etro.gg/gearset/d9ba9190-5e9d-424c-ab35-617cb3101550
+  - type: etro
+    description: Safer but still fairly fast. This makes MP significantly more
+      reasonable than the Fastro sets, but still has very high damage. Bring
+      this to situations you need a bit more MP.
+    name: (Crafted) Need For SpellSpeed
+    link: https://etro.gg/gearset/614d5891-6f03-4894-9802-05f0430134e6
+  - type: etro
+    description: Safer but still fairly fast. This makes MP significantly more
+      reasonable than the Fastro sets, but still has very high damage. Bring
+      this to situations you need a bit more MP.
+    name: (Tome) Bring Home the Pie
+    link: https://etro.gg/gearset/f88f544d-eb84-4add-81b4-0bb815288054
+  - type: etro
+    description: Best in Sloth, while not quite as high damage as the faster sets,
+      is a safer option while still maintaining reasonably high damage. It is
+      for those who have high ping and find it hard to not clip with faster
+      GCDs, or just want to be have some extra leeway for mana during weekly
+      re-clears.
+    link: https://etro.gg/gearset/88397043-c634-4a8a-80ab-8c140244ad44
+    name: Best in Sloth
+  - type: etro
+    description: >-
+      This honestly isn't a big deal, you can use your current gear and just go
+      grab your Titan Savage weapon, if you can. You lose melds, sure, but it
+      honestly isn't as bad as you'd think with new food and pots.
+
+
+      But if you really do care and you think every little bit will help (which is a valid concern), then go into the spreadsheet (<https://docs.google.com/spreadsheets/d/1mRqbJtOESUzx-hblK_CZW3Qy7MWGupD1-fbka7BJSPI/edit#gid=566495409>) and go to the Patch 5.0 tab. Pick either of the non-Speedkill BiS's you like. You don't need too too much Piety for TEA - especially after 5.3 - but your Bruiser phase will like you better if you take some extra Piety. If you're feeling spicy you can take a speedkill-level BiS and probably be okay, but the DPS check in TEA is really not that tight and it's much better to play it safe for these kinds of encounters.
+
+
+      Of also great note, certain pieces from The Heroes' Gauntlet are also valid pieces to take into account for your TEA BiS. The head, hands, pants, earring, and ring are all great pieces. You can mix and match as you see fit.
+
+
+      And as always, take some super-ethers.\
+
+      \
+
+      Bring a bit more Piety though than the Max Damage BiS has this tier for prog, Bruiser phase is very painful on MP during progression.
+    name: TEA BiS
+    link: https://docs.google.com/spreadsheets/d/1mRqbJtOESUzx-hblK_CZW3Qy7MWGupD1-fbka7BJSPI/edit#gid=566495409
 ---
 # 5.5 AST BiS SETS
 
