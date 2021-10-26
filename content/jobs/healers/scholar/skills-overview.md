@@ -32,7 +32,7 @@ This is SCH’s DoT skill. The net potency of this over 30s is 700. It should be
 
 ## DPS oGCDs
 
-![EnergyDrain](/img/jobs/healers/scholar/Energy_Drain.png)  \
+![EnergyDrain](https://xivapi.com/i/000000/000514_hr1.png)  \
 **Energy Drain**
 
 Energy Drain is our primary tool for "dumping" excess Aetherflow stacks; we trade them in for damage and mana. As our only offensive oGCD, maximizing DPS means using this as often as you safely can in between instant cast spells like Biolysis or Ruin II. Give priority to non-Aetherflow cooldowns when possible to reduce your Aetherflow usage. 
