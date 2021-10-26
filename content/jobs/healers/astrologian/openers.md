@@ -33,8 +33,6 @@ The bolded sections are considered fairly standard. The rest, especially using c
 
 Thanks to the Sleeve Draw rework in Patch 5.3, our opener has never been friendlier. It now follows a straightforward priority system in which you simply use Lightspeed to enable double weaving for card manipulation, put up Combust, and begin playing cards naturally, working your way toward three unique Seals for Divination at a reasonably early time.
 
-This is neatly illustrated by this flowchart, which also displays the probabilities of each potential outcome, depending on how many Redraws it takes to get your second unique Seal before using Sleeve Draw for the final Seal and using Divination at full strength.
-
 For accessibility purposes, here is a text version, excluding most pre-pull actions detailed above:
 
 * **\-30 Draw**
@@ -59,7 +57,7 @@ For accessibility purposes, here is a text version, excluding most pre-pull acti
 
 This is the basic framework of the opener. If you Draw a duplicate Seal, you simply replace the subsequent oGCD windows with Redraws as many times as necessary until you get a new Seal. Once you have your second Seal, you are free to use Sleeve Draw to guarantee the third Seal, then Play the card and use Divination.
 
-Note that in the scenario above, where no Redraws are required, you could use Divination as early as around six seconds, which may be too early for many party comps, which is why it’s delayed here until the next GCD. This also means that some Redraws are tolerated without delaying Divination from this timing, but even if it is delayed a further GCD to 10.6 seconds, that’s usually fine. The optimal timing will vary depending on your party composition and burst timings.
+Note that in the scenario above, where no Redraws are required, you could use Divination as early as around six seconds, which may be too early for many party compositions, which is why it’s delayed here until the next GCD. This also means that some Redraws are tolerated without delaying Divination from this timing, but even if it is delayed a further GCD to 10.6 seconds, that’s usually fine. The optimal timing will vary depending on your party composition and burst timings.
 
 ## Outdated Opener for Posterity
 
