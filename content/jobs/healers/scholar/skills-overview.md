@@ -246,24 +246,24 @@ This puts an enemy to sleep. It does not work on any notable bosses, and enemies
 
 This is primarily used in dungeons. It can be used to cleanse certain debuffs that have a white bar with the debuff icon. This is relatively niche in a raid setting, used only for key mechanics.
 
-![LucidDreaming](/img/jobs/healers/scholar/Lucid_Dreaming.png)  \
+![LucidDreaming](https://xivapi.com/i/000000/000865_hr1.png)  \
 **Lucid Dreaming**
 
 This is your primary way of regenerating MP. It will slowly tick up mana over its duration (21s). MP will tick every 3s, on the server tick. Use it on cooldown with your second Biolysis refresh and on cooldown afterwards. Remember that Ruin II and Broil III do consume your MP as often as your other spells do. Under heavy healing with Succors and Adloquiums, this ability needs to be on cooldown to minimize the lack of MP or the need to meld Piety. It has a recast time of 60s.
 
-![Swiftcast](/img/jobs/healers/scholar/Swiftcast.png)  \
+![Swiftcast](https://xivapi.com/i/000000/000866_hr1.png)  \
 **Swiftcast**
 
-Swiftcast is one of your most important role actions. This allows you to instantly cast the next spell. This is a tool for movement, and weaving. Using it after a Ruin II for long movement allows you to avoid using a second Ruin II. It is also used to create even more opportunities to weave. If used after Ruin II, the next Broil  cast can also allow for a double weave. Potentially, this action can save a Ruin II use. It should also be used to quickly revive a fallen ally and can be used to quickly get a heal out before a coming mechanic.
+Swiftcast is one of your most important role actions. This allows you to instantly cast the next spell. This is a tool for movement and weaving. Using it after a Ruin II for long movement allows you to avoid using a second Ruin II. It is also used to create even more opportunities to weave. If used after Ruin II, the next Broil cast can also allow for a double weave. Potentially, this action can save a Ruin II use. It should also be used to quickly revive a fallen ally and can be used to quickly get a heal out before a coming mechanic. It has a recast time of 60s.
 
-![Surecast](/img/jobs/healers/scholar/Surecast.png)  \
+![Surecast](https://xivapi.com/i/000000/000869_hr1.png)  \
 **Surecast**
 
-Surecast can be used to prevent most knockback and pull effects. This will prevent you from being interrupted  during most knockback mechanics. (Or prevents you from having to use Ruin II as you get knocked back to minimize the loss).
+Surecast can be used to prevent most knockback and pull effects. This will prevent you from being interrupted during most knockback mechanics. (Or prevents you from having to use Ruin II as you get knocked back to minimize the loss). It has a recast time of 120s. 
 
-![Rescue](/img/jobs/healers/scholar/Rescue.png)  \
+![Rescue](https://xivapi.com/i/000000/000890_hr1.png)  \
 **Rescue**
 
-This is an interesting role action. There are some fight strategies designed to require it, such as Unreal Hello, World in Final Omega. This will pull the target party member to your position. There are a few more usages for this skill that will be touched upon later. 
+This is an interesting role action. There are some fight strategies designed to require it, such as Unreal Hello, World in Final Omega. This will pull the target party member to your position. There are a few more usages for this skill which are touched on in the SCH guide. 
 
 It has some optimization uses, such as saving people uptime by pulling them back to the boss after a knockback. (Assuming their knockback prevention isn’t up). There is a slight delay between usage and the actual pull effect, so be cautious about timing when using it.
