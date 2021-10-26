@@ -1,24 +1,31 @@
 ---
 title: Skills Overview
+authors:
+  - Balance SCH Staff
+patch: "5.58"
+lastmod: 2021-10-26T21:33:54.421Z
+changelog:
+  - date: 2021-10-26T21:37:23.610Z
+    message: Article Created.
 ---
 ## DPS GCDs
 
-![Broil3](/img/jobs/healers/scholar/Broil3.png)  \
+![Broil3](https://xivapi.com/i/002000/002821_hr1.png)  \
 **Broil III**
 
 This is your predominant spell that you will cast most often during any given encounter. This is your filler DPS spell that you cast when your DoT is already ticking and nothing else needs to be done.
 
-![ArtOfWar](/img/jobs/healers/scholar/Art_Of_War.png)  \
+![ArtOfWar](https://xivapi.com/i/002000/002819_hr1.png)  \
 **Art Of War**
 
 This is the spell for AOE DPS. It has a base potency of 160. This is better than Broil III if there are two or more targets. It is instant, which gives you a little less than 2.5s to throw in things like Sacred Soil or Excogitation. Be wary of the MP cost associated with this though, as it adds up fairly quickly.
 
-![Ruin2](/img/jobs/healers/scholar/Ruin2.png)  \
+![Ruin2](https://xivapi.com/i/000000/000502_hr1.png)  \
 **Ruin II**
 
 Ruin II is your primary tool for weaving. It is an instant cast GCD, which means that you can use it to weave oGCDs. Generally, this gets used if we are forced to do extended movement away from the boss, or if oGCD skills need to be used that don’t align with our DoT reapplication. Using this instead of a Broil III cast is a 90 potency loss, so ideally we only use it to weave if the oGCD weaved saves a GCD heal for us or our cohealer. If you are going to Ruin II for the sake of a healing oGCD, it is good to try to also weave an Energy Drain in that specific GCD as this helps negate some of the  DPS loss.
 
-![Biolysis](/img/jobs/healers/scholar/Biolysis.png)  \
+![Biolysis](https://xivapi.com/i/002000/002820_hr1.png)  \
 **Biolysis**
 
 This is SCH’s DoT skill. The net potency of this over 30s is 700. It should be almost always ticking on the boss, with a few exceptions (more on this later). It is instant cast, which means the cast of it can be used to reposition yourself for incoming mechanics, and to weave. This must tick for 15s to have done more damage than a Broil III. For the sake of movement, clipping this DoT early at that 15s point can, in theory, be a gain, but it is preferred to allow it to tick for its full duration whenever possible. Every missed tick is 70 potency lost. Clipping it too many times can result in more than a Broil III lost in potency over a fight.
@@ -33,7 +40,7 @@ Any stacks that are not used on NECESSARY healing should be used on Energy Drain
 
 ## Healing GCDs
 
-![Physick](/img/jobs/healers/scholar/Physick.png)  
+![Physick](/img/jobs/healers/scholar/Physick.png)\
 **Physick**
 
 This is your first heal, a carry over from being an Arcanist. This is probably the worst heal in the Scholar kit and should be avoided, if at all possible. The only time this should be used is when you don’t have other options available at the given time, and you’re out of MP. It has a 1.5s cast time, which means that it also allows one oGCD to be weaved after it with no loss or GCD clip.
@@ -196,7 +203,7 @@ Note that the reason why they are of the same value is to give accessibility to 
 
 ## Other Abilities
 
-![Aetherflow](/img/jobs/healers/scholar/Seraphic_Illumination.png)  \
+![Aetherflow](https://xivapi.com/i/000000/000510_hr1.png)  \
 **Aetherflow**
 
 This ability does not heal or DPS directly, but enables your entire kit to function by giving you stacks of Aetherflow. This also restores 1000 MP, so it also functions as an MP management tool. All stacks should be used before recasting Aetherflow. This ability should always be on cooldown as holding onto it for too long becomes a DPS loss.
@@ -210,7 +217,7 @@ This spell summons the fairy to your side, in either her Selene or Eos stance. B
 ![Dissipation](/img/jobs/healers/scholar/Dissipation.png)  \
 **Dissipation**
 
-Dissipation functions as the way Scholars can increase the healing on their GCD heals. It will also grant three stacks of Aetherflow. Once Dissipation is cast, you will not have access to the Fairy for 30s, but will have 20% higher healing on your GCD based heals. After 30s, the fairy will automatically return to your side. If you need a strong Adlo or Succor barrier, Dissipation will be the primary way that scholars are able to buff it.  
+Dissipation functions as the way for Scholars to increase the healing on their GCD heals. It will also grant three stacks of Aetherflow. Once Dissipation is cast, you will not have access to the Fairy for 30s, but will have 20% higher healing on your GCD based heals. After 30s, the fairy will automatically return to your side. If you need a strong Adlo or Succor barrier, Dissipation will be the primary way that Scholars are able to buff it.  
 
 However, losing the fairy can be detrimental. At most, you can lose 1,050 potency over the course of 30s from having no fairy to auto cast its heal, plus you cannot use any fairy abilities. It is important to weigh the costs of using Dissipation for this reason.
 
@@ -237,7 +244,7 @@ This puts an enemy to sleep. It does not work on any notable bosses, and enemies
 ![Esuna](/img/jobs/healers/scholar/Esuna.png)  \
 **Esuna**
 
-This has usages inside of dungeons more than anything. It can be used to cleanse certain debuffs that have a white bar with the debuff icon. This is relatively niche in a raid setting, used only for key mechanics.
+This is primarily used in dungeons. It can be used to cleanse certain debuffs that have a white bar with the debuff icon. This is relatively niche in a raid setting, used only for key mechanics.
 
 ![LucidDreaming](/img/jobs/healers/scholar/Lucid_Dreaming.png)  \
 **Lucid Dreaming**
