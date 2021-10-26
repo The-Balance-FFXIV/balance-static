@@ -1,5 +1,41 @@
 ---
 title: Best in Slot
+patch: "5.58"
+lastmod: 2021-10-26T02:11:21.360Z
+changelog:
+  - date: 2021-10-26T02:11:25.028Z
+    message: Created page
+bis:
+  - type: etro
+    description: ""
+    name: New BiS (5.55) with ilvl 535 Relic Weapon
+    link: https://etro.gg/gearset/e4cd5da5-6365-4e30-bd26-8e5fadf8a17f
+  - type: etro
+    description: ""
+    name: Old BiS (5.4) with Edenmorn Weapon
+    link: https://etro.gg/gearset/f904b72c-7e83-4b25-aace-38f7956b6728
+  - type: etro
+    description: Max DPS set
+    name: TEA BiS with Relic Weapon (i535)
+    link: https://etro.gg/gearset/22bf8499-0469-44a2-9174-be8f3174a488
+  - type: etro
+    description: ""
+    name: TEA BiS with Relic Weapon (i515)
+    link: https://etro.gg/gearset/7c9052ac-000c-4b05-b6d8-9c1649516054
+  - type: etro
+    description: ""
+    name: TEA BiS with Edengrace Weapon
+    link: https://etro.gg/gearset/46df8892-190c-4f43-a5d7-d9ad95342eb0
+  - type: etro
+    description: Change meld on the belt with the extra meld slot on the weapon
+    name: TEA BiS with Ultimate Twashtar (TEA weapon)
+    link: https://etro.gg/gearset/04fb4305-78a5-4ab2-b0b4-02590763abd3
+  - type: etro
+    description: |
+      Use Smoked Chicken + Grade 4 Tincture of Dexterity
+    name: Catch-all Gearset for other iLvl synced content (UCoB / UWU / Unreal
+      Trials)
+    link: https://etro.gg/gearset/8e76dbd9-6828-45d1-ae6b-2d2051e2b09f
 ---
 # Best-in-Slot (BiS) / Itemization
 
