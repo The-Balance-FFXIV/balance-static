@@ -161,40 +161,40 @@ This action summons Seraph while removing Eos or Selene for the duration Seraph 
 
 ## Fairy Abillities
 
-**Note that all Fairy abilities originate from the Fairy, but must be commanded as an oGCD from the Scholar.**
+**Note that all Fairy abilities originate from the Fairy, but must be commanded as an oGCD from the Scholar, causing a slight delay in execution.**
 
-![Embrace](/img/jobs/healers/scholar/Embrace.png)  \
+![Embrace](https://xivapi.com/i/002000/002826_hr1.png)  \
 **Embrace**
 
-This is your pet’s primary ability. Embrace got a fairly significant potency reduction this expansion, making it much less effective healing wise. The fairy is programmed to spam this ability every 3s on anyone below 100% health.  It will prioritize the Scholar over anyone else, as their death kills the fairy. This ability is subject to pet scaling. The actual potency on this ability is around 96. 
+This is your pet’s primary ability. Embrace got a fairly significant potency reduction this expansion, making it much less effective healing-wise. The fairy is programmed to spam this ability every 3s on anyone below 100% health.  It will prioritize the Scholar over anyone else, as their death kills the fairy. It seems also to be loosely based on proximity- see the larger How the Fairy Works section in the basic SCH guide. This ability is subject to pet scaling. The actual potency on this ability is around 96. 
 
-![WhisperingDawn](/img/jobs/healers/scholar/Whispering_Dawn.png)  \
+![WhisperingDawn](https://xivapi.com/i/002000/002852_hr1.png)  \
 **Whispering Dawn**
 
-This ability is a very useful AOE heal over time action. It has seven ticks of 120 potency over 21s, for a total of 840 potency. This is subject to fairy scaling though, which means it has an actual potency of 537.6. This is useful for healing the party during mechanic lulls if there is no raid damage coming. 
+This ability is a very useful AEo heal over time action. It has seven ticks of 120 potency over 21s, for a total of 840 potency. This is subject to fairy scaling, which means it has an actual potency of 537.6. This is useful for healing the party during mechanic lulls if there is no raid damage coming. 
 
-Whispering Dawn is now considered an oGCD for the Scholar, which means that it must be weaved.. Because other AOE healing options cost an Energy Drain, Whispering Dawn is the “Free-est” AOE heal that Scholar has. It costs 90 potency from a Ruin II weave, but that can be negated when you can weave it in a Biolysis window. Whispering Dawn will likely be the go to choice if other options are down and/or the party is required to move for mechanics as the buff stays on party members regardless of their location, unlike sacred soil.
+Whispering Dawn is now considered an oGCD for the Scholar, which means that it must be weaved. Because other AoE healing options cost an Energy Drain, Whispering Dawn is the “Free-est” AoE heal that Scholar has. It costs 90 potency from a Ruin II weave, but that can be negated when you can weave it in a Biolysis window. Whispering Dawn will likely be the go-to choice if other options are down and/or the party is required to move for mechanics as the buff stays on party members regardless of their location, unlike Sacred Soil.
 
-![FeyIllumination](/img/jobs/healers/scholar/Fey_Illumination.png)  \
+![FeyIllumination](https://xivapi.com/i/002000/002853_hr1.png)  \
 **Fey Illumination**
 
-This increases the amount of healing from healing spells (GCDs only) done by those who receive this buff. Having the fairy execute this action will buff all eight party members AND the fairy. However as said, this does not buff oGCD heals so it does not affect abilities such as Lustrate, Excog, Fey Union, or Indom. It also reduced party magic damage taken by 5%.
+This increases the amount of healing from healing spells (GCDs only) done by those who receive this buff. Having the fairy execute this action will buff all eight party members AND the fairy. However as said, this does not buff oGCD heals so it does not affect abilities such as Lustrate, Excog, Fey Union, or Indom. It also reduces party magic damage taken by 5%.
 
-This ability doesn’t buff many heals in the SCH’s kit, but is very useful for buffing your cohealers GCD heals, and it will buff your Fairy’s auto heal, Embrace or Seraphic Veil. Communicate the best usages of Fey Illumination with your team to maximize its benefit. It can be stacked with other heal increases such as Mantra for a multiplicatively powerful shield or regen. Under high pressure of lethal AOE damage, this ability will be very useful to boost your succor or adloquium values, while also providing a small amount of additional mitigation.
+This ability doesn’t buff many heals in the SCH’s kit, but is very useful for buffing your co-healers GCD heals, and it will buff your Fairy’s auto-heal, Embrace, or Seraphic Veil. Communicate the best usages of Fey Illumination with your team to maximize its benefit. It can be stacked with other heal increases such as Mantra for a multiplicatively powerful shield or regen. Under high pressure of lethal AoE damage, this ability will be very useful to boost your Succor or Adloquium values, while also providing a small amount of additional mitigation.
 
-![SeraphicVeil](/img/jobs/healers/scholar/Seraphic_Veil.png)  \
+![SeraphicVeil](https://xivapi.com/i/002000/002847_hr1.png)  \
 **Seraphic Veil**
 
-Seraphic Veil replaces Embrace when Seraph is active. It is a 200 potency heal with a shield that equals the amount healed. Due to pet potency, the actual value of the heal is around 128. This means that the total combined potency per Seraphic Veil is 256. The shield from this spell does stack with Galvanize and Catalyze but NOT with Consolation. 
+Seraphic Veil replaces Embrace while Seraph is active. It is a 200 potency heal with a shield equal to the amount healed. Due to pet potency, the actual value of the heal is around 128 potency. This means that the total combined potency per Seraphic Veil is 256. The shield from this spell does stack with Galvanize and Catalyze but NOT with Consolation. 
 
-You can somewhat think of Seraphic Veil as a temporarily buffed embrace. However, the main problem with Seraphic Veil is the same as the one with Embrace; you can not choose who she uses Seraphic Veil on. This means that after a raid wide hit, she may choose anyone to Veil, even if the previous shield isn’t used.
+You can somewhat think of Seraphic Veil as a temporarily buffed embrace. However, the main problem with Seraphic Veil is the same as the one with Embrace; you cannot choose who she uses Seraphic Veil on. This means that after a raid-wide hit, she may choose anyone to Veil, even if the previous shield isn’t used.
 
-![AngelsWhisper](/img/jobs/healers/scholar/Angels_Whisper.png)  \
+![AngelsWhisper](https://xivapi.com/i/002000/002848_hr1.png)  \
 **Angel’s Whisper**
 
 This is literally the same as Whispering Dawn.
 
-![SeraphicIllumination](/img/jobs/healers/scholar/Seraphic_Illumination.png)  \
+![SeraphicIllumination](https://xivapi.com/i/002000/002849_hr1.png)  \
 **Seraphic Illumination**
 
 This is literally the same as Fey Illumination.
@@ -208,40 +208,40 @@ Note that the reason why they are of the same value is to give accessibility to 
 
 This ability does not heal or DPS directly, but enables your entire kit to function by giving you stacks of Aetherflow. This also restores 1000 MP, so it also functions as an MP management tool. All stacks should be used before recasting Aetherflow. This ability should always be on cooldown as holding onto it for too long becomes a DPS loss.
 
-![SummonEos](/img/jobs/healers/scholar/Summon_Eos.png)
-![SummonSelene](/img/jobs/healers/scholar/Summon_Selene.png)  \
+![SummonEos](https://xivapi.com/i/002000/002823_hr1.png)
+![SummonSelene](https://xivapi.com/i/002000/002824_hr1.png)  \
 **Summon Eos / Selene**
 
 This spell summons the fairy to your side, in either her Selene or Eos stance. Both do exactly the same thing. Choose whichever you think looks prettier.
 
-![Dissipation](/img/jobs/healers/scholar/Dissipation.png)  \
+![Dissipation](https://xivapi.com/i/002000/002810_hr1.png)  \
 **Dissipation**
 
-Dissipation functions as the way for Scholars to increase the healing on their GCD heals. It will also grant three stacks of Aetherflow. Once Dissipation is cast, you will not have access to the Fairy for 30s, but will have 20% higher healing on your GCD based heals. After 30s, the fairy will automatically return to your side. If you need a strong Adlo or Succor barrier, Dissipation will be the primary way that Scholars are able to buff it.  
+Dissipation functions as the way Scholars increase the healing of their GCD heals. It will also grant three stacks of Aetherflow. Once Dissipation is cast, you will not have access to the Fairy for 30s, but will have 20% higher healing on your GCD based heals. After 30s, the fairy will automatically return to your side. If you need a strong Adlo or Succor barrier, Dissipation will be the primary way that you are able to buff it.  
 
-However, losing the fairy can be detrimental. At most, you can lose 1,050 potency over the course of 30s from having no fairy to auto cast its heal, plus you cannot use any fairy abilities. It is important to weigh the costs of using Dissipation for this reason.
+However, losing the fairy can be detrimental. At most, you can lose 1,050 potency over the course of 30s from having no fairy to auto-cast its heal, and you cannot use any fairy abilities. It is important to weigh the costs of using Dissipation for this reason.
 
-The fairy returning automatically after 30s also means that this works as a DPS tool.  Dissipation can be cast almost on cooldown for damage.
+The fairy returning automatically after 30s also means that this works as a DPS tool with Energy Drain.  Dissipation can be cast almost on cooldown for damage.
 
-![Recitation](/img/jobs/healers/scholar/Recitation.png)  \
+![Recitation](https://xivapi.com/i/002000/002822_hr1.png)  \
 **Recitation**
 
-Recitation is a new ability from Shadowbringers. Using this oGCD will guarantee that your net Succor, Adloquium, Excogitation, or Indom will land as a crit. This ability also guarantees that they will consume no resources, neither mp nor Aetherflow stacks. 
+Recitation is a new ability from Shadowbringers. Using this oGCD will guarantee that your next Succor, Adloquium, Excogitation, or Indomitability will land as a crit. This ability also guarantees that they will consume no resources, neither MP nor Aetherflow stacks. 
 
 Ideally, Recitation this should be used on oGCD heals such as Indom and Excog. This is because while Recitation negate the mp cost of Adlo and Succor, they still require a GCD to cast, and thus cause the loss of a potential Broil III cast. However, it makes Critical Adloquium consistently available instead of an RNG chance. There will be times that it is optimal to use this for a guaranteed crit Adlo or crit Succor, but oGCD options are greatly preferred. 
 
-Recitation Adlo is also useful for the case of Deployment Tactics. Outside of a deploy situation, Recitation Succor is better than Recitation Adlo in terms of raw potency.
+Recitation Adlo is also useful for Deployment Tactics. Outside of a deploy situation, Recitation Succor is better than Recitation Adlo in terms of raw potency.
 
-Recitation does take up an oGCD slot to use. Ideally to use it, aim to weave it on a natural window. 
+Recitation does take up an oGCD slot to use. Ideally, aim to weave it on a natural window. 
 
 ## Role Actions
 
-![Repose](/img/jobs/healers/scholar/Repose.png)  \
+![Repose](https://xivapi.com/i/000000/000891_hr1.png)  \
 **Repose**
 
 This puts an enemy to sleep. It does not work on any notable bosses, and enemies are awakened after a single hit. This can be safely removed to free hotbar space. The only time this is really applicable is in Eureka or in overworld content.
 
-![Esuna](/img/jobs/healers/scholar/Esuna.png)  \
+![Esuna](https://xivapi.com/i/000000/000884_hr1.png)  \
 **Esuna**
 
 This is primarily used in dungeons. It can be used to cleanse certain debuffs that have a white bar with the debuff icon. This is relatively niche in a raid setting, used only for key mechanics.
@@ -249,7 +249,7 @@ This is primarily used in dungeons. It can be used to cleanse certain debuffs th
 ![LucidDreaming](/img/jobs/healers/scholar/Lucid_Dreaming.png)  \
 **Lucid Dreaming**
 
-This is your primary way of regenerating MP. It will slowly tick up mana over its duration. MP will tick every 3s, on the server tick. Use it on cooldown with your second Biolysis refresh and on cooldown afterwards. Remember that Ruin 2 and Broil 3 do consume your MP as often as your other spells do. Under heavy healing with Succors and Adloquiums, this ability needs to be on cooldown to minimize the lack of MP or the need to meld Piety.
+This is your primary way of regenerating MP. It will slowly tick up mana over its duration (21s). MP will tick every 3s, on the server tick. Use it on cooldown with your second Biolysis refresh and on cooldown afterwards. Remember that Ruin II and Broil III do consume your MP as often as your other spells do. Under heavy healing with Succors and Adloquiums, this ability needs to be on cooldown to minimize the lack of MP or the need to meld Piety. It has a recast time of 60s.
 
 ![Swiftcast](/img/jobs/healers/scholar/Swiftcast.png)  \
 **Swiftcast**
