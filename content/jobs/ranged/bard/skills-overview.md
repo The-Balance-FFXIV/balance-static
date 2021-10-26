@@ -8,8 +8,6 @@ changelog:
   - date: 2021-10-26T02:24:56.512Z
     message: Create page
 ---
-# Bard Skills Overview
-
 Tooltips here are rewritten from the official translations to clarify some portions that aren’t obvious in the official job guide.
 
 ### GCDs
