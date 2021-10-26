@@ -71,7 +71,7 @@ For more in-depth AST discussion and questions beyond the scope of this guide, p
 
 # What Makes Us Special?
 
-Other than being very pretty (not to understate the importance of how pretty we are)
+Other than being very pretty (not to understate the importance of how pretty we are)...
 The way the game is currently designed, the primary goal of the entire raid is to dish out as much DPS as possible without unduly compromising the survival of the run. Healers work to keep people alive as efficiently as they can, and they contribute as much to the party’s damage as they can. That’s the core principle of healing, but each healer has slightly different ways to accomplish that goal. Astrologian’s role in the game is defined by its mobility, unique oGCDs, and above all else, cards.
 
 How about a trite little pros and cons list? Really it’s just an excuse for me to give an overview of the big highs and lows when it comes to Astrologian gameplay and the Astrologian job fantasy.
@@ -93,7 +93,7 @@ In addition to letting us weave oGCDs without clipping, the 1.5s cast time means
 
 ## Astrologian’s oGCDs
 
-Astrologians have some incredibly powerful oGCD abilities and cooldowns that offer us unique strengths. We may not have Cure 3 or Benediction, but we do have Earthly Star and Essential Dignity. These skills are similar in some ways, but they have different strengths. They may seem like a plagiarized White Mage kit, but if you try to play like a White Mage with cards, you’re going to make for a pretty poor Astrologian.
+Astrologians have some incredibly powerful oGCD abilities and cooldowns that offer us unique strengths. We may not have Cure III or Benediction, but we do have Earthly Star and Essential Dignity. These skills are similar in some ways, but they have different strengths. They may seem like a plagiarized White Mage kit, but if you try to play like a White Mage with cards, you’re going to make for a pretty poor Astrologian.
 
 ### Earthly Star (ES)
 
@@ -390,4 +390,3 @@ It’s not necessarily the most efficient thing to simply avoid all piety on gea
 This is why you’ll often see very fast Astrologian gearsets. Crit is usually still the focus, but we leverage quite a lot of spell speed as well to get value out of our generous MP engine. The caveat to this is that if you play with relatively high latency, probably 100+, you may need to test for yourself whether you can effectively utilize certain faster gearsets without your latency causing you to clip your GCD when you single weave on Malefics. Sets as fast as 2.30s or even 2.26s GCDs might be unfeasible depending on your connection, so we will usually try to have competitive options that aren’t quite so fast.
 
 As always, try it out for yourself, and **if you’re testing to see if you clip at a certain speed, make sure you test inside an instance.** Instance servers are significantly more responsive than overworld servers, and you will likely get noticeably different results between the two.
-
