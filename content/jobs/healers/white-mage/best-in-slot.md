@@ -53,4 +53,16 @@ bis:
       Similar alternatives using Smoked Chicken and Edenmorn Earing can be found in the gear calculator.
     link: https://etro.gg/gearset/f64a2a88-d150-4c84-80a9-b2c4b64703cd
     name: Low Piety Damage Set Non-Relic 2.34 GCD | 682 Piety
+  - type: etro
+    description: High-speed, speedkill-only set.  Extremely risky and **will** run
+      out of mana if any GCD healing or Raises are required, or the fight goes
+      too long.  **Not for general use.**
+    name: Minimum-Piety Speed Set Relic 2.26 GCD | 340 Piety
+    link: https://etro.gg/gearset/a5c68e57-2f6a-45bb-87d0-557991e17f48
+  - type: etro
+    description: High-speed, speedkill-only set.  Extremely risky and **will** run
+      out of mana if any GCD healing or Raises are required, or the fight goes
+      too long.  **Not for general use.**
+    link: https://etro.gg/gearset/36222ba8-4f56-4b6a-a1c9-d67aadd3d4fd
+    name: Minimum-Piety Speed Set Non-Relic 2.26 GCD | 340 Piety
 ---
