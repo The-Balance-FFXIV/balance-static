@@ -65,4 +65,42 @@ bis:
       too long.  **Not for general use.**
     link: https://etro.gg/gearset/36222ba8-4f56-4b6a-a1c9-d67aadd3d4fd
     name: Minimum-Piety Speed Set Non-Relic 2.26 GCD | 340 Piety
+  - type: etro
+    description: >-
+      ## TEA Prog set (linked)
+
+
+      2.42 GCD | 1364 Piety\
+
+      Flexible set able to accommodate a wide range of Piety levels and two different GCDs. Standard setup uses Smoked Chicken for 2.42, you can use Twilight Popoto Salad for 2.41 or Golden Pineapple Juice for some extra Piety. You can put Piety instead of Det on Relic if desired (in any amount you want) and the Piety melds can be stripped out for Det/DH if you feel you want to go lower. (Existing Det melds can be swapped to DH too).  
+
+
+      **Edenmorn Chest is BiS, use 520 Nier or Augmented Deepshadow otherwise.**  
+
+
+      **TL;DR: Use this as a starting point and adjust to comfort.**
+
+
+      ## UWU / UCOB
+
+
+      The damage checks in UWU and UCOB are trivial with current gear, food and potions. The biggest gear upgrade **by far** is the 515 or 535 relic, as you can cap multiple substats, but again they are hardly required.  I personally recommend 1k+ Piety for prog, with your remaining gear prioritizing Crit > Det/SpS wherever possible.  Don't worry about getting perfect stats, they won't make a difference for anything but rank one.
+
+
+      ### The Weapon's Refrain (UWU)
+
+
+      Gear at item level 470 and above will cap both substats.\
+
+      Relic stats: 318 Crit, 318 Det, 318 SpS, 213+ Piety
+
+
+      ### The Unending Coil of Bahamut (UCOB)
+
+
+      Gear at item level 418 and above will cap both substats.\
+
+      Relic stats: 280 Crit/Det/SpS/Piety
+    name: Ultimates
+    link: https://etro.gg/gearset/7cdc296b-4889-43c9-ad1b-a21fab6e6001
 ---
