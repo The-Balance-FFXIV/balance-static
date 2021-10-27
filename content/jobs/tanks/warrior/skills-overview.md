@@ -1,5 +1,9 @@
 ---
 title: Skills Overview
+authors:
+  - Balance WAR Staff
+patch: "5.5"
+lastmod: 2021-10-27T08:05:10.198Z
 ---
 # Warrior Skills Overview
 
