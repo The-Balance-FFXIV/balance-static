@@ -1,6 +1,6 @@
 ---
 authors:
-  - Balance WAR Staff
+  - Balance PLD Staff
 patch: "5.5"
 lastmod: 2021-10-27T08:23:35.725Z
 ---
