@@ -1,5 +1,9 @@
 ---
 title: Skills Overview
+authors:
+  - Balance PLD Staff
+patch: "5.5"
+lastmod: 2021-10-27T08:27:54.472Z
 ---
 # Paladin Skills Overview
 
