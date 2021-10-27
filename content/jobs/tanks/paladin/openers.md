@@ -3,6 +3,9 @@ authors:
   - Balance PLD Staff
 patch: "5.5"
 lastmod: 2021-10-27T08:29:01.485Z
+changelog:
+  - date: 2021-10-27T17:21:23.427Z
+    message: Created
 ---
 # Paladin Opener and Rotation
 
