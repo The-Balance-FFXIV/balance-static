@@ -7,8 +7,6 @@ changelog:
   - date: 2021-10-27T00:14:33.377Z
     message: Article Created.
 ---
-<!--StartFragment-->
-
 Scholar’s kit has a few select tools whose usage dictates how the rest of the opener operates: namely Dissipation and Chain Stratagem. Where to use these skills optimally is less determined by a Scholar’s own kit - being that the rotation is simply a DoT and Broil - and more so determined by where the rest of the raid is using their own raid buffs to line up with each other’s rotations. Stacking multiple raid buffs has a multiplicative effect.
 
 Chain Stratagem is varied, it has several factors that impact its usage within a raid setting. Usually, it is dependent on composition, but may also need to be adjusted for fight timings, though these situations are fairly rare. 
@@ -48,7 +46,3 @@ Recitation allows us to use either a prepull crit Excog (since Recitation allows
 Seraph is a niche prepull action to consider since it requires some weird timing to still allow the user to Dissipate. It’s also combined with not allowing us to re-summon Seraph for the first bit of the fight. However, with that said, there are still conditions with a lot of party damage that happens early in a fight, but said fight then doesn’t have additional burst incoming damage for a while afterward that allows us to consider this. 
 
 Lastly, potions. Use these at -4s prepull so that the animation lock is resolved accordingly and we can begin casting Broil prepull. As of the last update to this guide, the current best potion for Scholars to use are Grade 2 Tinctures of Mind.
-
-
-
-<!--EndFragment-->
