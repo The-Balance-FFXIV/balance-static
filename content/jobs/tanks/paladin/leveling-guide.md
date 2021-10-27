@@ -3,6 +3,9 @@ authors:
   - Balance PLD Staff
 patch: "5.5"
 lastmod: 2021-10-27T08:20:07.063Z
+changelog:
+  - date: 2021-10-27T17:22:16.067Z
+    message: Added
 ---
 # Paladin Levelling in Dungeons
 # Keeping Aggro
