@@ -2,6 +2,9 @@
 title: Paladin FAQ
 patch: "5.5"
 lastmod: 2021-10-27T17:10:55.380Z
+changelog:
+  - date: 2021-10-27T17:20:21.199Z
+    message: Added
 qna:
   - question: Why is Circle of Scorn used immediately in the opener?
     answer: >-2
