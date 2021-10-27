@@ -1,5 +1,9 @@
 ---
 title: Advanced Guide
+authors:
+  - Balance PLD Staff
+patch: "5.5"
+lastmod: 2021-10-27T08:32:24.715Z
 ---
 This section assumes that you are comfortable with the entirety of the Paladin kit, as well as the basic rotation outlined in the Intro & Rotation Guide.
 
