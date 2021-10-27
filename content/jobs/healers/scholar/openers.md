@@ -15,11 +15,13 @@ Dissipation’s alignment in the opener is set up in such a way that we ideally 
 
 The best SCH openers are as follows:
 
-4th GCD Chain:
+## 4th GCD Chain:
 
-![Broil, Biolysis, Aetherflow, Energy Drain, Broil, Broil, Ruin 2, Chain Strategem, Energy Drain, Broil, Ruin 2, Energy Drain, Swiftcast, Broil, Dissipation, Energy Drain, Broil, Broil, Ruin 2, Energy Drain, Broil, Broil, Biolysis, Energy Drain](https://lh5.googleusercontent.com/udb7QMSVrmQbnOp3HmQjqdmtLhrlstcKFFOVZ62F-HR70RiwxA72hWnPH7LWNpVU_M6-A7r-yKJTMbkKqxpe90CeIWSvTGl8dTREUYSstQvKmc-zaKP8DGdIU2-gNXnJLvvVOzKh "4th GCD Chain Opener")
+![](https://lh5.googleusercontent.com/udb7QMSVrmQbnOp3HmQjqdmtLhrlstcKFFOVZ62F-HR70RiwxA72hWnPH7LWNpVU_M6-A7r-yKJTMbkKqxpe90CeIWSvTGl8dTREUYSstQvKmc-zaKP8DGdIU2-gNXnJLvvVOzKh "4th GCD Chain Opener")
 
-3rd GCD Chain:
+(Broil, Biolysis, Aetherflow, Energy Drain, Broil, Broil, Ruin 2, Chain Strategem, Energy Drain, Broil, Ruin 2, Energy Drain, Swiftcast, Broil, Dissipation, Energy Drain, Broil, Broil, Ruin 2, Energy Drain, Broil, Broil, Biolysis, Energy Drain)
+
+## 3rd GCD Chain:
 
 Deciding which is more optimal for your group will depend on what your party composition is. 
 
@@ -33,7 +35,9 @@ Now there are two more important things to talk about, one which does not affect
 
 If you are not comfortable using Dissipation, there is an opener that does not use it. This is absolutely suboptimal, but can be useful for comfort if you are uncomfortable with your cohealer or an encounter, or are doing first time progression.
 
-![Potion, Broil, Biolysis, Aetherflow, Broil, Ruin 2, Swiftcast, Chain Strategem, Broil, Energy Drain, 8 Broils, Biolysis](https://lh5.googleusercontent.com/Yz0RmROQxMZAfqCvuf5_V6f7enf3RBxZMsI4rSoGEgrF84cxfwNRBD1ELWqlWy9qhnMyWxoJAyKb33jIqMbWAyMoiQy1zkA3M_2mU-Cg8kjjUrcS3vP0s3bUchP02HvrTP16iiA- "No Dissipation opener")
+![](https://lh5.googleusercontent.com/Yz0RmROQxMZAfqCvuf5_V6f7enf3RBxZMsI4rSoGEgrF84cxfwNRBD1ELWqlWy9qhnMyWxoJAyKb33jIqMbWAyMoiQy1zkA3M_2mU-Cg8kjjUrcS3vP0s3bUchP02HvrTP16iiA- "No Dissipation opener")
+
+(Potion, Broil, Biolysis, Aetherflow, Broil, Ruin 2, Swiftcast, Chain Strategem, Broil, Energy Drain, 8 Broils, Biolysis)
 
 The first is eloquently labeled as “Prepull Stuff”. There are three key actions to keep in mind for prepull preparations:
 
