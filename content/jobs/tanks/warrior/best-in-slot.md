@@ -2,6 +2,9 @@
 title: Best in Slot
 patch: "5.4"
 lastmod: 2021-10-27T07:17:24.419Z
+changelog:
+  - date: 2021-10-27T07:22:13.566Z
+    message: Lists added
 bis:
   - type: etro
     description: Progression set
