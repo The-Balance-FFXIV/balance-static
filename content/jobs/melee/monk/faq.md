@@ -1,5 +1,53 @@
 ---
 title: Monk FAQ
+patch: "5.58"
+lastmod: 2021-10-28T03:51:49.669Z
+changelog:
+  - date: 2021-10-28T03:52:05.648Z
+    message: Created page
+qna:
+  - question: Is Double True Strike dead?
+    answer: As purely the best option, yup, go back to 1:1 Twin Snakes and True.
+  - question: What's with the double Dragon Kick in the openers?
+    answer: With Standard, you DK after Perfect Balance for DK's higher potency and
+      again later to gain Leaden finally. With Early Buff a stanceless Leaden
+      Boot after PB is worse on average than using the DK to guarantee a crit
+      one.
+  - question: What do non opener RoF windows look like?
+    answer: Similar to opener, you may not have Leaden Fist while going into it though.
+  - question: Is Twin Snakes meant to drop for a bit?
+    answer: Two GCDs without twin snakes after each Perfect Balance window is intended.
+  - question: What food is good?
+    answer: Depends on your stats, but the BiS uses Smoked Chicken.
+  - question: Any recommendations for crafted gear/First week raiding gear melds?
+    answer: >-
+      Crafted Exclusively:
+      <https://etro.gg/gearset/ffcd0478-818d-45b2-83e9-7bcef5f75617>
+
+
+      Crafted with non-savage stuff dropped in and 1 DH meld to DET: <https://etro.gg/gearset/4b5883ff-8b9e-46fc-8fc3-62d255596e6d>
+
+
+      If you're considering getting the Emerald Weapon/Pants later, you may as well flip that one meld on the initial set.
+  - question: Where can I try out changes to the rotation?
+    answer: "Try the sim found in here: <https://discord.gg/M9BYeJN>"
+  - question: Why does the BiS have so many DET melds?
+    answer: >-
+      Every time someone asks I add another DET meld to the BiS and therefore
+      only the few people who notice contribute to the problem.
+
+
+      (The real reason is stat tiering.)
+  - question: Got a good visualization of the Rotation?
+    answer: >-
+      This (courtesy of Murasa), which should give you an idea of how it plays
+      out in a vacuum 
+
+
+      ![](https://cdn.discordapp.com/attachments/277968306307072001/825746336585482300/unknown.png)
+
+
+      With a FR translation from Ailarra - <https://cdn.discordapp.com/attachments/859093252065460274/859760256690028564/Visual_rotation_monk_translated_in_french.png>
 ---
 > *Is Double True Strike dead?*
 
