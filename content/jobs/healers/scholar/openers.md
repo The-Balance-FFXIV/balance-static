@@ -55,36 +55,43 @@ A text version for timings and accessibility:
 
   * Weave Energy Drain
 
-## 3rd GCD Chain: 
+## 3rd GCD Chain:
 
 ![](/img/3rdgcdschopen.png "3rd GCD Chain Opener")
 
 Text version for timings and accessibility: 
-* **- 4 Prepull Potion**
-* **- 2.5 Precast Broil**
+
+* **\- 4 Prepull Potion**
+* **\- 2.5 Precast Broil**
 * **On Pull: Biolysis**
-    * Weave: Aetherflow
-    * Weave: Energy Drain
+
+  * Weave: Aetherflow
+  * Weave: Energy Drain
 * **Broil** 
 * **Ruin II**
-    * Weave: Chain Stratagem
-    * Weave: Energy Drain
+
+  * Weave: Chain Stratagem
+  * Weave: Energy Drain
 * **Broil** 
 * **Ruin II** 
-    * Weave: Energy Drain
-    * Weave: Swiftcast
+
+  * Weave: Energy Drain
+  * Weave: Swiftcast
 * **Broil**
-    * Weave: Dissipation
-    * Weave: Energy Drain
+
+  * Weave: Dissipation
+  * Weave: Energy Drain
 * **Broil**
 * **Broil**
 * **Ruin II**
-    * Weave: Energy Drain
+
+  * Weave: Energy Drain
 * **Broil**
 * **Broil**
 * **Broil**
 * **Biolysis**
-    * Weave: Energy Drain
+
+  * Weave: Energy Drain
 
 Deciding which is more optimal for your group will depend on what your party composition is. 
 
@@ -94,7 +101,6 @@ Prefer 3rd GCD chain- DNC, MNK, DRG, MCH
 
 No preference: BRD, SMN, BLM, GNB
 
-
 ## No Dissipation Opener
 
 If you are not comfortable using Dissipation, there is an opener that does not use it. This is *absolutely suboptimal*, but can be useful for comfort if you are uncomfortable with your cohealer or an encounter, or are doing first time progression.
@@ -103,16 +109,19 @@ If you are not comfortable using Dissipation, there is an opener that does not u
 
 A text version for timings and accessibility: 
 
-* ** - 4 Prepull Potion**
-* ** - 2.5 Precast Broil**
+*  **\- 4 Prepull Potion**
+*  **\- 2.5 Precast Broil**
 * **On Pull: Biolysis**
-    * Weave: Aetherflow
+
+  * Weave: Aetherflow
 * **Broil**
 * **Ruin II**
-    * Weave: Swiftcast
-    * Weave: Chain Stratagem
+
+  * Weave: Swiftcast
+  * Weave: Chain Stratagem
 * **Broil**
-    * Weave: Energy Drain
+
+  * Weave: Energy Drain
 * **Broil**
 * **Broil**
 * **Broil**
@@ -135,4 +144,4 @@ Recitation allows us to use either a prepull crit Excog (since Recitation allows
 
 Seraph is a niche prepull action to consider since it requires some weird timing to still allow the user to Dissipate. It’s also combined with not allowing us to re-summon Seraph for the first bit of the fight. However, with that said, there are still conditions with a lot of party damage that happens early in a fight, but said fight then doesn’t have additional burst incoming damage for a while afterward that allows us to consider this. 
 
-Lastly, potions. Use these at -4s prepull so that the animation lock is resolved accordingly and we can begin casting Broil prepull. As of the last update to this guide, the current best potion for Scholars to use are Grade 2 Tinctures of Mind.
+Lastly, potions. Use these at -4s prepull so that the animation lock is resolved accordingly and we can begin casting Broil prepull. The current best potion for Scholars to use are Grade 4 Tinctures of Mind.
