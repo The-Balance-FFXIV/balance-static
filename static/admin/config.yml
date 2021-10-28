@@ -397,7 +397,7 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
-      - label: "Openers"
+      - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/tanks/warrior/openers.md"
         fields:
@@ -602,7 +602,7 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
-      - label: "Openers"
+      - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/tanks/paladin/openers.md"
         fields:
@@ -807,7 +807,7 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
-      - label: "Openers"
+      - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/tanks/dark-knight/openers.md"
         fields:
@@ -1012,7 +1012,7 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
-      - label: "Openers"
+      - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/tanks/gunbreaker/openers.md"
         fields:
@@ -1217,7 +1217,7 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
-      - label: "Openers"
+      - label: "Openers and Rotation"and Rotation"
         name: "openers"
         file: "content/jobs/healers/white-mage/openers.md"
         fields:
@@ -1422,7 +1422,7 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
-      - label: "Openers"
+      - label: "Openers and Rotation"and Rotation"and Rotation"
         name: "openers"
         file: "content/jobs/healers/scholar/openers.md"
         fields:
@@ -1627,7 +1627,7 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
-      - label: "Openers"
+      - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/healers/astrologian/openers.md"
         fields:
@@ -1832,7 +1832,7 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
-      - label: "Openers"
+      - label: "Openers and Rotation"and Rotation"
         name: "openers"
         file: "content/jobs/healers/sage/openers.md"
         fields:
@@ -2037,7 +2037,7 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
-      - label: "Openers"
+      - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/melee/dragoon/openers.md"
         fields:
@@ -2242,7 +2242,7 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
-      - label: "Openers"
+      - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/melee/reaper/openers.md"
         fields:
@@ -2447,7 +2447,7 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
-      - label: "Openers"
+      - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/melee/samurai/openers.md"
         fields:
@@ -2652,7 +2652,7 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
-      - label: "Openers"
+      - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/melee/monk/openers.md"
         fields:
@@ -2857,7 +2857,7 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
-      - label: "Openers"
+      - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/melee/ninja/openers.md"
         fields:
@@ -3062,7 +3062,7 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
-      - label: "Openers"
+      - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/ranged/machinist/openers.md"
         fields:
@@ -3267,7 +3267,7 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
-      - label: "Openers"
+      - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/ranged/dancer/openers.md"
         fields:
@@ -3472,7 +3472,7 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
-      - label: "Openers"
+      - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/ranged/bard/openers.md"
         fields:
@@ -3677,7 +3677,7 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
-      - label: "Openers"
+      - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/casters/black-mage/openers.md"
         fields:
@@ -3882,7 +3882,7 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
-      - label: "Openers"
+      - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/casters/red-mage/openers.md"
         fields:
