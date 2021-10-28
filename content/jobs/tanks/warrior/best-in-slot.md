@@ -1,5 +1,43 @@
 ---
 title: Best in Slot
+patch: "5.4"
+lastmod: 2021-10-27T07:17:24.419Z
+changelog:
+  - date: 2021-10-27T07:22:13.566Z
+    message: Lists added
+bis:
+  - type: etro
+    description: Progression set
+    name: 2.38 GCD - Chicken Fettuccini with Diamond Zeta
+    link: https://etro.gg/gearset/3e45ae71-4acf-40b8-a4b8-1daefa84d7d9
+  - type: etro
+    description: Progression set
+    link: https\://etro.gg/gearset/b7d3e754-992c-4675-a251-62424193ae23
+    name: 2.43 GCD - Smoked Chicken with Diamond Zeta
+  - type: etro
+    description: Some TNC melds for tiering
+    name: 2.37 GCD - 13312.1 dps - Chicken Fettuccine
+    link: https://etro.gg/gearset/465c5777-b594-497d-8eac-b45fe2646009
+  - type: etro
+    description: Unlucky stat tiering, thus lower dps in an infinite sim
+    name: 2.38 GCD - 13297.0 dps - Smoked Chicken
+    link: https://etro.gg/gearset/6e7c6fd5-7618-466c-8284-8c2cc0f611c3
+  - type: etro
+    description: Some TNC melds for tiering
+    name: 2.43 GCD - 13334.1 dps - Smoked Chicken
+    link: https://etro.gg/gearset/1f52b3ea-3bab-4a6b-8bfd-8bdcac766d39
+  - type: etro
+    description: BIS but with Relic (Tentative)
+    name: 2.37 GCD - 13397.2 dps - Chicken Fettuccine
+    link: https://etro.gg/gearset/f344710e-37b1-4c42-a422-76188ab680cf
+  - type: etro
+    description: BIS but with Relic (Tentative)
+    name: 2.38 GCD - 13382.6 dps - Chicken Fettuccine
+    link: https://etro.gg/gearset/717a06ac-8373-4490-9834-c5d1c321b0a7
+  - type: etro
+    description: BIS but with Relic (Tentative)
+    name: 2.43 GCD - 13410.0 dps - Smoked Chicken
+    link: https://etro.gg/gearset/6b4a9646-3d72-4c85-ae3f-c77e28875389
 ---
 ## What is the BiS for Ultimates? UCoB / UWU / TEA ?
 
