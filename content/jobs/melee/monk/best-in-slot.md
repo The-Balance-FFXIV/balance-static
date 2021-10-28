@@ -1,5 +1,19 @@
 ---
 title: Best in Slot
+patch: "5.58"
+lastmod: 2021-10-28T03:54:26.171Z
+changelog:
+  - date: 2021-10-28T03:54:36.354Z
+    message: Created page
+bis:
+  - type: etro
+    description: ""
+    name: No Relic (802 Speed)
+    link: https://etro.gg/gearset/388e7ee7-2919-49bf-b1d8-75fcfae73ce5
+  - type: etro
+    description: ""
+    name: "Marginally-Better Relic Set "
+    link: https://etro.gg/gearset/2a0fbde0-fa6f-47b6-aa0d-9b7d240c6e19
 ---
 # What do I meld on gear generally?
 
