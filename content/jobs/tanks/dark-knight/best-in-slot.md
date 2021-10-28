@@ -1,5 +1,74 @@
 ---
 title: Best in Slot (BiS)
+patch: "5.5"
+lastmod: 2021-10-27T17:44:42.391Z
+changelog:
+  - date: 2021-10-27T17:45:00.078Z
+    message: Added
+bis:
+  - type: etro
+    description: "Patch 5.5x BiS Sets (With Relic)\r
+
+      These sets use the i535 relic weapon. See below for sets without the
+      relic."
+    name: 2.38s GCD | Chicken Fettuccine
+    link: https://etro.gg/gearset/67fa1f50-ac71-443c-8711-a082bafe29d6
+  - type: etro
+    description: "Patch 5.5x BiS Sets (With Relic)\r
+
+      These sets use the i535 relic weapon. See below for sets without the
+      relic."
+    link: https://etro.gg/gearset/9889b11f-585d-45d0-af26-62819bb1841b
+    name: 2.41s GCD | Chicken Fettuccine
+  - type: etro
+    description: "Patch 5.5x BiS Sets (With Relic)\r
+
+      These sets use the i535 relic weapon. See below for sets without the
+      relic."
+    link: https://etro.gg/gearset/8f4ec40d-89be-4f9c-89e9-242502d63164
+    name: 2.43s GCD | Smoked Chicken
+  - type: etro
+    description: Patch 5.5x BiS Sets (No Relic)
+    name: 2.38s GCD | Chicken Fettuccine
+    link: https://etro.gg/gearset/6a9cdaa0-d1d2-4431-a5f2-62d3c903876f
+  - type: etro
+    description: Patch 5.5x BiS Sets (No Relic)
+    name: 2.41s GCD | Chicken Fettuccine
+    link: https://etro.gg/gearset/0d179920-5123-45d5-9cc9-6e674c14a50a
+  - type: etro
+    description: Patch 5.5x BiS Sets (No Relic)
+    name: 2.43s GCD | Smoked Chicken
+    link: https://etro.gg/gearset/59d18629-5fa3-43c0-8614-f9e0ca03a15a
+  - type: etro
+    description: Eden Verse
+    name: 2.43 Relic Helm & Boot
+    link: https://etro.gg/gearset/7dffab98-02a3-4bff-bde0-156f0b721b71
+  - type: etro
+    description: Eden Verse
+    name: 2.43 No Relic
+    link: https://etro.gg/gearset/872cc0a2-b515-4c0e-a1c1-72ae8abb713d
+  - type: etro
+    description: Eden Verse
+    name: "2.41 No Relic "
+    link: https://etro.gg/gearset/744ca6b2-d002-4931-ab3b-8cb5ef4934b6
+  - type: etro
+    description: Eden Verse
+    name: 2.41 Relic Helm
+    link: https://etro.gg/gearset/1e972d54-8bde-4c0f-9101-c54edb91918d
+  - type: etro
+    description: Eden Verse
+    link: https://etro.gg/gearset/ae93bc72-5d1b-41d8-b36b-84018a985434
+    name: 2.40 Relic Helm
+  - type: etro
+    description: |
+      Eden Verse
+    link: https://etro.gg/gearset/eeb87f10-5f63-4d00-9bf3-3e29fe898d0c
+    name: 2.38 No Relic
+  - type: etro
+    description: |
+      Eden Verse
+    name: 2.38 Relic Helm
+    link: https://etro.gg/gearset/465886a7-664b-4a7b-983a-27d5337c93cc
 ---
 # Dark Knight Best In Slot
 
