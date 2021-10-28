@@ -1217,7 +1217,7 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
-      - label: "Openers and Rotation"and Rotation"
+      - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/healers/white-mage/openers.md"
         fields:
@@ -1422,7 +1422,7 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
-      - label: "Openers and Rotation"and Rotation"and Rotation"
+      - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/healers/scholar/openers.md"
         fields:
@@ -1832,7 +1832,7 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
-      - label: "Openers and Rotation"and Rotation"
+      - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/healers/sage/openers.md"
         fields:
