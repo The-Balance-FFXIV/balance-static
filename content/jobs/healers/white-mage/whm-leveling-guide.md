@@ -1,26 +1,27 @@
 ---
 title: WHM Leveling Guide
 ---
-![](https://lh6.googleusercontent.com/OkusbRm_dR7I_RcwRWTacODCO1uENuudCs0n5QU__eltqlAAp0_r2-YbdK-raq7ZP2UphwAWC2Jw-iYPL93kdY8KJ5cl2RJsbQMsLQet9QfVYif4QVoGfQHaZ-_nmeD8W5O5kK8C)The Walter White Mage Leveling Guide
+![](https://lh6.googleusercontent.com/OkusbRm_dR7I_RcwRWTacODCO1uENuudCs0n5QU__eltqlAAp0_r2-YbdK-raq7ZP2UphwAWC2Jw-iYPL93kdY8KJ5cl2RJsbQMsLQet9QfVYif4QVoGfQHaZ-_nmeD8W5O5kK8C)
+ 
+# The Walter White Mage Leveling Guide
 
-Written by Eva Izunia (Goblin)
+## Written by Eva Izunia (Goblin)
 
-Leveling White Mage allows you access to some of the smoothest dungeon runs in the game, due to the supremely high damage output when crowd controlling enemy groups, and the nature of the job in general.
+Levelling White Mage allows you access to some of the smoothest dungeon runs in the game, due to the supremely high damage output when crowd controlling enemy groups, and the nature of the job in general.
 
-But to get there, you first must begin on the road.
+*But to get there, you first must begin on the road.*
 
 Unlocking White Mage is done upon reaching level 30 with the Conjurer class and completing the quest Seer Folly after completing the MSQ quest Sylph-management.
 
-## Table of Contents:
+---
 
-[1.0a - Words of Note](#1.0a-words-of-note)
+## Table of Contents
 
-* [1.1b - General Leveling Tips](#1.1b-General-Leveling-Tips)
-
-[2.0a - Level 1 to 30](#2.0a-level-1-to-30) \[CNJ]
-
-* [2.1b - Skills & Spells (1 to 30)](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.4qg6xntfo0oq)
-* [2.2c - Rotation & Leveling (1 - 30)](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.mytwz7jxhfuh)
+- [Words of Note](#words-of-note)
+   - [General Leveling Tips](#General-Leveling-Tips)
+- [Level 1 to 30](#level-1-to-30) [CNJ]
+   -  [Skills & Spells (1 to 30)](#skills-and-spells-1-to-30)
+   - [2.2c - Rotation & Leveling (1 - 30)](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.mytwz7jxhfuh)
 
 [3.0a - Level 30 - 50](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.rr8956mfg7mj) \[WHM]
 
