@@ -1,7 +1,9 @@
 ---
 title: Skills Overview
+authors:
+  - Balance NIN Staff
 patch: "5.58"
-lastmod: 2021-10-28T03:49:54.894Z
+lastmod: 2021-10-29T03:49:54.894Z
 changelog:
   - date: 2021-10-28T04:09:39.139Z
     message: Article Created.
