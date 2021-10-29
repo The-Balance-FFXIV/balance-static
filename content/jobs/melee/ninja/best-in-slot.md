@@ -1,5 +1,46 @@
 ---
 title: NIN Best in Slot
+patch: "5.58"
+lastmod: 2021-10-29T03:14:08.896Z
+changelog:
+  - date: 2021-10-29T03:14:26.634Z
+    message: Created page
+bis:
+  - type: etro
+    description: ""
+    name: 2.12 GCD BiS
+    link: https://etro.gg/gearset/dec9811d-c02c-4378-b046-d3cebe42eccb
+  - type: etro
+    description: ""
+    name: 2.11 GCD BiS
+    link: https://etro.gg/gearset/33b9d186-963a-4cdb-84a0-6b2ebbadc652
+  - type: etro
+    description: Use the 2.12 GCD BiS for general play, the 2.11 plays around
+      potential extra gcds and is more consistent at doing triple Bhavas in
+      Tricks, which still wouldn't be in every fight, and also requires a lower
+      ping to work. Use 2.10 BiS if neither of the other 2 will get you the GCD
+      in a fight you are looking for.
+    name: 2.10 GCD BiS
+    link: https://etro.gg/gearset/c1c01cbb-f99b-4ba8-bbe3-e9d03a76b280
+  - type: etro
+    description: ""
+    name: UCoB BiS
+    link: https://etro.gg/gearset/a6f033eb-2d74-4a2a-bd08-f7823d415fc3
+  - type: etro
+    description: |-
+      Can use other pieces; needs the following all above ilvl 470:
+
+      * Relic weapon: CRT 318/DH 318/DET 314/SKS 217 
+      * Body/pants: 2x CRT/DET
+      * Helmet/gloves/boots: 2x CRT/DH, 1x CRT/DET
+      * Accessories: 3x CRT/DET, 3x CRT/DH
+      * Food: Smoked Chicken HQ
+    name: UWU BiS (Credit to Io)
+    link: https://etro.gg/gearset/74be6ffe-4d39-4513-96fb-be800c372592
+  - type: etro
+    description: ""
+    name: The Epic of Alexander BiS
+    link: https://etro.gg/gearset/a25fcb8e-7f1a-432f-a627-bbf6eabfe77c
 ---
 # Best-in-Slot (BiS)
 
