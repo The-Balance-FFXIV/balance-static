@@ -9,15 +9,15 @@ Leveling White Mage allows you access to some of the smoothest dungeon runs in t
 
 But to get there, you first must begin on the road.
 
-Unlocking White Mage can be done by reaching level 30 with the Conjurer class, and completing the quest Seer Folly after completing the MSQ quest Sylph-management.
+Unlocking White Mage is done upon reaching level 30 with the Conjurer class and completing the quest Seer Folly after completing the MSQ quest Sylph-management.
 
-Table of Contents:
+## Table of Contents:
 
 [1.0a - Words of Note] (#1.0a-words-of-note)
 
-* [1.1b - General Leveling Tips](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.bznr0ok7lqfd)
+* [1.1b - General Leveling Tips](#1.1b-General-Leveling-Tips)
 
-[2.0a - Level 1 - 30](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.kgye6jxrk9on) \[CNJ]
+[2.0a - Level 1 to 30](#2.0a-level-1-to-30) \[CNJ]
 
 * [2.1b - Skills & Spells (1 - 30)](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.4qg6xntfo0oq)
 * [2.2c - Rotation & Leveling (1 - 30)](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.mytwz7jxhfuh)
@@ -39,7 +39,7 @@ Table of Contents:
 
 [6.0a - Level 80](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.uuwutge6nyo2) \[WHM]
 
-### 1.0a - Words of Note
+# 1.0a - Words of Note
 
 Playing a Healer in Final Fantasy XIV is different than what you’d expect. Ideally, you want to be doing as much damage as possible, and healing as little as possible. The damage of White Mage is generally extremely high (especially later on with a spell learned at level 45)
 
@@ -49,7 +49,7 @@ The other “Pure” healer would be Astrologian, (in Patch 6.0) who also relies
 
 One thing that should be important to note as a healer is that you will generally not be healing everyone at the same time. In normal content, most of the damage will be going to one person, and one person only. (The Tank,) and really, only in cases where an attack comes out that hits every person will you need to divert your attention away from your Tank.
 
-## 1.1b - General Leveling Tips
+# 1.1b - General Leveling Tips
 
 Leveling from 1 - 80 in FFXIV can be daunting at first, but as long as you understand that you will not be able to level to max in one day, and keep at it at your own pace; you should get by just fine.
 
@@ -73,7 +73,7 @@ The Road to 70 will increase EXP earned by 100% if you created your character on
 
 Armoury Bonus (100%) applies when you have a job over the current level of whatever you are playing at that very moment. So, for instance; a level 32 White Mage will gain more EXP if you also have a level 57 Red Mage.
 
-# 2.0a - Level 1 - 30
+# 2.0a - Level 1 to 30
 
 ![](https://lh3.googleusercontent.com/x8z6Klh7w5Mb2PscrKUh7i_FbVlBmAwz17S7EdV-K1cQr9CliqmGPGd2SNAXsZZvx7aU0B5jWKR_1CyAT6k2u3MpfGQ8DT9DNf0Cc14DNu7aF3e4j8X_xIEqsYWtUzfE4tlainXd)
 
