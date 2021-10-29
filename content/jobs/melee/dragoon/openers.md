@@ -21,7 +21,7 @@ The backbone of ten GCDs in sequence will - in general - never be changed, but t
 
 The default order for the **Attacks** puts Spineshatter Dive as a buffer skill between High Jump and Geirskogul in order to try and prevent future situations where the two are ready at the exact same time.
 
-## Levelling
+## Leveling
 
 The basic GCD backbone of the rotation does change as you level:\
 `64-80`: Raiden Thrust Disembowel Chaos Thrust Wheeling Thrust Fang and Claw-Raiden Thrust Vorpal Thrust Full Thrust Fang and Claw Wheeling Thrust\
