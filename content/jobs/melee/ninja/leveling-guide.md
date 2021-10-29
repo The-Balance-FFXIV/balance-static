@@ -1,5 +1,12 @@
 ---
 title: Leveling Guide
+authors:
+  - Balance NIN Staff
+patch: "5.58"
+lastmod: 2021-10-29T03:07:41.055Z
+changelog:
+  - date: 2021-10-29T03:07:56.596Z
+    message: Added page
 ---
 # Level 1-3:
 
