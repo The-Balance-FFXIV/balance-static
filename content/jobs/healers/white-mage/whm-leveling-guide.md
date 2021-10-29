@@ -13,7 +13,7 @@ Unlocking White Mage can be done by reaching level 30 with the Conjurer class, a
 
 Table of Contents:
 
-[1.0a - Words of Note](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.jv8ticcnj46w)
+[1.0a - Words of Note] (#1.0a-words-of-note)
 
 * [1.1b - General Leveling Tips](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.bznr0ok7lqfd)
 
@@ -39,7 +39,7 @@ Table of Contents:
 
 [6.0a - Level 80](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.uuwutge6nyo2) \[WHM]
 
-# 1.0a - Words of Note
+### 1.0a - Words of Note
 
 Playing a Healer in Final Fantasy XIV is different than what you’d expect. Ideally, you want to be doing as much damage as possible, and healing as little as possible. The damage of White Mage is generally extremely high (especially later on with a spell learned at level 45)
 
