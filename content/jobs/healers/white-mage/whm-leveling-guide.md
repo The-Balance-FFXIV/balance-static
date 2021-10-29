@@ -13,13 +13,13 @@ Unlocking White Mage is done upon reaching level 30 with the Conjurer class and 
 
 ## Table of Contents:
 
-[1.0a - Words of Note] (#1.0a-words-of-note)
+[1.0a - Words of Note](#1.0a-words-of-note)
 
 * [1.1b - General Leveling Tips](#1.1b-General-Leveling-Tips)
 
 [2.0a - Level 1 to 30](#2.0a-level-1-to-30) \[CNJ]
 
-* [2.1b - Skills & Spells (1 - 30)](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.4qg6xntfo0oq)
+* [2.1b - Skills & Spells (1 to 30)](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.4qg6xntfo0oq)
 * [2.2c - Rotation & Leveling (1 - 30)](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.mytwz7jxhfuh)
 
 [3.0a - Level 30 - 50](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.rr8956mfg7mj) \[WHM]
@@ -73,11 +73,11 @@ The Road to 70 will increase EXP earned by 100% if you created your character on
 
 Armoury Bonus (100%) applies when you have a job over the current level of whatever you are playing at that very moment. So, for instance; a level 32 White Mage will gain more EXP if you also have a level 57 Red Mage.
 
-# 2.0a - Level 1 to 30
+# 2.0a: Level 1 to 30
 
 ![](https://lh3.googleusercontent.com/x8z6Klh7w5Mb2PscrKUh7i_FbVlBmAwz17S7EdV-K1cQr9CliqmGPGd2SNAXsZZvx7aU0B5jWKR_1CyAT6k2u3MpfGQ8DT9DNf0Cc14DNu7aF3e4j8X_xIEqsYWtUzfE4tlainXd)
 
-## 2.1b - Skills & Spells (1 - 30)
+## 2.1b: Skills & Spells (1 to 30)
 
 ![](https://lh6.googleusercontent.com/DU4dG8VZl2nY2XpQYruHQG2ChmH6TuGVtGFWxznsQZuSf7OPCq_hnDSMxkQXAhaRmYTXsQuX0DEIOukI5QzmWjvGPo9wsvq6e0l0CKqYp7yUCbKMcJ4H_iHiTm6zxNyiS3QQxNXD)
 
@@ -165,7 +165,7 @@ This is another spell shared by all casters in game, and it restores your MP by 
 
 Typically, you want to use this when your MP is at 8500 as to avoid bottoming out your MP, and leading to situations where you can’t heal because you’ve used up all your MP.
 
-## 2.2c - Conjurer Rotation & Leveling (1 - 30)
+## 2.2c: Conjurer Rotation & Leveling (1 to 30)
 
 ![](https://lh4.googleusercontent.com/kjmfCL4T7PnSAiNYOPbOUc1TSxlrUK2aPR_eaDC9RwewARYjJPBXb0PLt61iZGAX_chSeamSowDLAF7vFvyH3D8CtNilxI24kazDzb2oshmrZqKEmWcS_8Y1xPkSqIESkiV7mnCF)
 
@@ -181,7 +181,7 @@ When it comes to leveling in general, for your first class/job, it’s imperativ
 
 That said, and this goes for every block of leveling; spamming your highest level dungeon is usually the best way to gain the most EXP if you’re out of dailies/weeklies to do. (as of patch 5.58, this may change with the release of Endwalker)
 
-# 3.0a - Level 30 - 50
+# 3.0a: Level 30 to 50
 
 ![](https://lh6.googleusercontent.com/np_Xe0aW5KxBFi8ny7HROHT-H1eL-nbOrC1ETa4Y2JLUZFarp47aNgUZIlJbDzScSFlTkpHio_BDaXaJtpp6ENmxb6MNLoXp01N3EVlOZ9T9a_MkPenyDEzSpJ3pZ3nlh2GveXea)
 
@@ -191,7 +191,7 @@ From 30 - 50, White Mage changes a great deal, and it can be daunting at times t
 
 This guide, of course, acts as a way to get you started before you lose your mind leveling. 
 
-## 3.1b - Skills & Spells (30 - 50)
+## 3.1b: Skills & Spells (30 to 50)
 
 ![](https://lh6.googleusercontent.com/5yuHHLi0jZLMztw46nRTuURDX9gjtNi87A51eAM2OjL3JzhhWuV-oVoogLBkhuifP_0KjDqePy2QD2HqRccLIMl8Ia6hOTYVuUKSGFGZ_M2a1PUOx_ls7wF5Y_jLVKmf2xYlZdOt)
 
@@ -289,7 +289,7 @@ Medica II is the same as Medica, but swaps out the instant healing for a regen e
 
 In most cases, Medica II will be better than Medica, and in those cases where it is not… Cure III can be used instead.
 
-## 3.2c - White Mage Rotation & Leveling (30 - 50)
+## 3.2c: White Mage Rotation & Leveling (30 to 50)
 
 ![](https://lh6.googleusercontent.com/axV6qCu1M4cVkXMOKx6zRtAPW61anzeH-MAHGkMc6IVHWgZpwLWcA1cB3d9S3dCLsOjQwY-fniAzIEQpir6_KikxdlEebvFL132kIb3Nwxe3IHtgZUQLIS3rwVLvvGiifiRHYN3I)
 
@@ -301,13 +301,13 @@ Otherwise, it’s safe to just throw a Regen on your Tank, and occasionally cast
 
 As for tips with leveling, make sure to do your leveling roulette every day, and spam those dungeons.
 
-# 4.0a - Level 50 - 70![](https://lh6.googleusercontent.com/GxNKbDnpiIEAZtGcIRHR1UD57Vfh-gwmq0ErpNea7cYSvUnekFIYn4qeefZVQvyx_XVZNxMQseDzunpFnOQxpWmmPIv6m1MNQIj8oFQoB706vW_Qn6YLcbxo4l7kozR61CepwODy)
+# 4.0a: Level 50 to 70![](https://lh6.googleusercontent.com/GxNKbDnpiIEAZtGcIRHR1UD57Vfh-gwmq0ErpNea7cYSvUnekFIYn4qeefZVQvyx_XVZNxMQseDzunpFnOQxpWmmPIv6m1MNQIj8oFQoB706vW_Qn6YLcbxo4l7kozR61CepwODy)
 
 Upon reaching level 50, you now have access to your tomestone gear (assuming you’ve completed ‘A Realm Reborn’ first, and have the sufficient tomestones for trading) and can access the vast majority of your roulettes.
 
 On top of this, WHM also learns skills that make their life even easier upon reaching the higher levels, such as access to their Lilies, more burst healing options, even more regen, and a way to conserve MP.
 
-## 4.1b - Skills & Spells (50 - 70)
+## 4.1b: Skills & Spells (50 to 70)
 
 ![](https://lh6.googleusercontent.com/PAFIl5KSACckujeK8pDD9ZLvU2ICu8hf08yAZ3fBQLsOWxSwbLOr-5B1Ofpqpao10SZHg3KH6TyKvx9xsFCleqvjMXqvHfUiYbKv4MG6k3PnF8SAtochGRavdaRORbybZsftHBDT)
 
@@ -357,7 +357,7 @@ This can be used during Holy spam, as to go light on your MP, or when spamming a
 
 This spell can be translated as “four letter word,” which is precisely the amount of letters in the word that you will say when this spell is handy.
 
-Tetragrammaton is used for when you need to emergency heal someone, but you have no lilies, no Benediction, and for when a Cure II would take too long to cast.
+Tetragrammaton is used for when you need to emergency heal someone, but you have no Lilies, no Benediction, and for when a Cure II would take too long to cast.
 
 \[lvl 64] Stone IV
 
@@ -369,7 +369,7 @@ Another Stone upgrade!
 
 ![](https://lh4.googleusercontent.com/C2fjtWAqgdVBYCA7mtYTTxo0Y2UMeIeer5Qsv3chlKGPn23CoFZivhg4qC-phSPU963HdrQOpq_RdRHyJhXHZxTwfqgexIa8-z4i5bzEhDXDZl8NgaKhij3jGv1RpXUJROCuWHNr)
 
-Divine Benison is a spell that breaks the rules of WHM, allowing them to, for a brief moment; become a shield healer.
+Divine Benison is a spell that breaks the rules of WHM, allowing them to, for a brief moment, become a shield healer.
 
 This spell is typically thrown on the tank to help mitigate tank busters, or just in a general “on cooldown” spell to keep your own sanity, as the damage it mitigates is actually very sizable.
 
