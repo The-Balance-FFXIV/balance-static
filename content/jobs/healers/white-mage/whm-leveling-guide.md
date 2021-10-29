@@ -1,7 +1,7 @@
 ---
 title: WHM Leveling Guide
 ---
-![](https://lh6.googleusercontent.com/OkusbRm_dR7I_RcwRWTacODCO1uENuudCs0n5QU__eltqlAAp0_r2-YbdK-raq7ZP2UphwAWC2Jw-iYPL93kdY8KJ5cl2RJsbQMsLQet9QfVYif4QVoGfQHaZ-_nmeD8W5O5kK8C)
+![](https://cdn.discordapp.com/attachments/877670675425394709/903752588095266846/CNJWHMLevelingGuideDeluxeEditionBanner.png)
  
 # The Walter White Mage Leveling Guide
 
@@ -17,72 +17,74 @@ Unlocking White Mage is done upon reaching level 30 with the Conjurer class and 
 
 ## Table of Contents
 
-- [Words of Note](#words-of-note)
-   - [General Leveling Tips](#General-Leveling-Tips)
-- [Level 1 to 30](#level-1-to-30) [CNJ]
-   -  [Skills & Spells (1 to 30)](#skills-and-spells-1-to-30)
-   - [2.2c - Rotation & Leveling (1 - 30)](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.mytwz7jxhfuh)
+[Words of Note](#words-of-note)  
+- [General Leveling Tips](#General-Leveling-Tips)  
 
-[3.0a - Level 30 - 50](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.rr8956mfg7mj) \[WHM]
+[Level 1 - 30](#level-1-30) [CNJ]
+-  [Skills and Spells (1 - 30)](#skills-and-spells-1-30)
+- [Rotation and Leveling (1 - 30)](#rotation-and-leveling-1-30)
 
-* [3.1b - Skills & Spells (30 - 50)](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.j0afnx64wl79)
-* [3.2c - Rotation & Leveling (30 - 50)](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.6zarrbwdinif)
+[Level 30 - 50](#levels-30-50)
+- [Skills and Spells (30 - 50)](#skills-and-spells-30-50)
+- [Rotation and Leveling (30 - 50)](#rotation-and-leveling-30-50)
 
-[4.0a - Level 50 - 70](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.2uunmfm95qb0) \[WHM]
+[Level 50 - 70](#levels-50-70) 
+- [Skills and Spells (50 - 70)](#skills-and-spells-50-70)
+- [Rotation and Leveling (50 - 70)](#rotation-and-leveling-50-70)
 
-* [4.1b - Skills & Spells (50 - 70)](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.jqnkkf25gao8)
-* [4.2c - Rotation & Leveling (50 - 70)](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.z83mmagczids)
+[Level 70 - 80](#level-70-80)
+- [Skills and Spells (70 - 80)](#skills-and-spells-70-80)
+- [Rotation and Leveling (70 - 80)](#rotation-and-leveling-70-80)
 
-[5.0a - Level 70 - 80](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.jfix0nvmpb0g) \[WHM]
+[Level 80](#level-80)
 
-* [5.1b - Skills & Spells (70 - 80)](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.pmu0u7nmay9n)
-* [5.2c - Rotation & Leveling (70 - 80)](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.kqs4v3poxb82)
+---
 
-[6.0a - Level 80](https://docs.google.com/document/d/1Eb4EYVoLpoMqIEaXyGs3qapHTn7K6qPV1wyF1ICRpiM/edit#heading=h.uuwutge6nyo2) \[WHM]
+# Words of Note
 
-# 1.0a - Words of Note
+Playing a Healer in Final Fantasy XIV is different than what you’d expect in many similar games. Ideally, you want to be doing *as much **damage** as possible, and **healing** as little as possible.* The damage of White Mage is generally extremely high (especially later on with a spell learned at level 45!)
 
-Playing a Healer in Final Fantasy XIV is different than what you’d expect. Ideally, you want to be doing as much damage as possible, and healing as little as possible. The damage of White Mage is generally extremely high (especially later on with a spell learned at level 45)
-
-White Mage is what’s known as a “Regen/Pure” Healer, meaning most of their healing either comes from regen abilities, or direct healing from their spells.
+**White Mage** is what’s known as a “Regen" or "Pure” Healer; meaning most of their healing either comes from regenerative ('regen') abilities, or direct healing from their spells.
 
 The other “Pure” healer would be Astrologian, (in Patch 6.0) who also relies on direct regen/pure healing, unlike the “Shield” healers of Scholar and Sage, who rely on negating damage from happening in the first place.
 
-One thing that should be important to note as a healer is that you will generally not be healing everyone at the same time. In normal content, most of the damage will be going to one person, and one person only. (The Tank,) and really, only in cases where an attack comes out that hits every person will you need to divert your attention away from your Tank.
+One thing that should be important to note as a healer is that **you will generally not be healing everyone at the same time.** In normal content, most of the damage will be going to one person, and one person only (the tank) and really, only in cases where an attack comes out that hits every person will you need to divert your attention away from your tank.
 
-# 1.1b - General Leveling Tips
+## General Leveling Tips
 
 Leveling from 1 - 80 in FFXIV can be daunting at first, but as long as you understand that you will not be able to level to max in one day, and keep at it at your own pace; you should get by just fine.
 
 Sources of EXP can usually be broken into 4 categories.
 
-Repeatable - Can be repeated ad infinitum every single day, as many times as you wish per day.
+- **Repeatable** - Can be repeated ad infinitum every single day, as many times as you wish per day.
 
-Daily - Can be done once per day, and generally give a decent amount of EXP. These can be your roulettes. Standout roulettes include Main Scenario (Level 50) & your PvP oriented Frontline (Level 30). These roulettes can give an incredibly large amount of EXP, oftentimes giving half an entire level each.
+- **Daily** - Can be done once per day, and generally give a decent amount of EXP. These can be your roulettes. Standout roulettes include Main Scenario (Level 50) & your PvP oriented Frontline (Level 30). These roulettes can give an incredibly large amount of EXP, oftentimes giving half an entire level each.
 
-Weekly - These, as the name implies; reset every week, and usually give the most amount of EXP possible. Standouts include Wondrous Tales & Challenge Log, these combined can both give an entire level (and then some) depending on your current Armoury Bonus, level, buffs, etc.
+- **Weekly** - These, as the name implies; reset every week, and usually give the most amount of EXP possible. Standouts include Wondrous Tales & Challenge Log, these combined can both give an entire level (and then some) depending on your current Armoury Bonus, level, buffs, etc.
 
-One-time - These EXP sources are once and you’re done deals, meaning if you complete them on one job, you will not be able to do them again. Standouts include; The MSQ & Sidequests. The MSQ itself will easily level you to 80 as long as you follow it with the job of your choosing all the way through.
+- **One-time** - These EXP sources are once and you’re done deals, meaning if you complete them on one job, you will not be able to do them again. Standouts include; The MSQ & Sidequests. The MSQ itself will easily level you to 80 as long as you follow it with the job of your choosing all the way through.
 
 Some things to help you along are buffs you can apply.
 
-Free Companies can give out The Heat of Battle I/II, which increases your EXP gain from killing monsters up to 15%.
+- **Free Companies** can give out *The Heat of Battle I/II*, which increases your EXP gain from killing monsters up to 15%.
 
-Food Buffs will increase EXP earned by 3%.
+- **Food** Buffs will increase EXP earned by 3%.
 
-The Road to 70 will increase EXP earned by 100% if you created your character on a preferred world, and 90 days have not elapsed since the creation of your character.
+- **The Road to 70** will increase EXP earned by 100% if you created your character on a preferred world, and 90 days have not elapsed since the creation of your character.
 
-Armoury Bonus (100%) applies when you have a job over the current level of whatever you are playing at that very moment. So, for instance; a level 32 White Mage will gain more EXP if you also have a level 57 Red Mage.
+- **Armoury Bonus** (100%) applies when you have a job over the current level of whatever you are playing at that very moment. So, for instance; a level 32 White Mage will gain more EXP if you also have a level 57 Red Mage.
 
-# 2.0a: Level 1 to 30
+--- 
+
+# Level 1 to 30
 
 ![](https://lh3.googleusercontent.com/x8z6Klh7w5Mb2PscrKUh7i_FbVlBmAwz17S7EdV-K1cQr9CliqmGPGd2SNAXsZZvx7aU0B5jWKR_1CyAT6k2u3MpfGQ8DT9DNf0Cc14DNu7aF3e4j8X_xIEqsYWtUzfE4tlainXd)
 
-## 2.1b: Skills & Spells (1 to 30)
+## Skills & Spells (1 to 30)
 
 ![](https://lh6.googleusercontent.com/DU4dG8VZl2nY2XpQYruHQG2ChmH6TuGVtGFWxznsQZuSf7OPCq_hnDSMxkQXAhaRmYTXsQuX0DEIOukI5QzmWjvGPo9wsvq6e0l0CKqYp7yUCbKMcJ4H_iHiTm6zxNyiS3QQxNXD)
 
-At first, however, you will be limited to a very basic set of skills, including 
+At first, you will be limited to a very basic set of skills, including; 
 
 \[lvl 1] Stone
 
@@ -166,33 +168,35 @@ This is another spell shared by all casters in game, and it restores your MP by 
 
 Typically, you want to use this when your MP is at 8500 as to avoid bottoming out your MP, and leading to situations where you can’t heal because you’ve used up all your MP.
 
-## 2.2c: Conjurer Rotation & Leveling (1 to 30)
+## Conjurer Rotation and Leveling (1 to 30)
 
 ![](https://lh4.googleusercontent.com/kjmfCL4T7PnSAiNYOPbOUc1TSxlrUK2aPR_eaDC9RwewARYjJPBXb0PLt61iZGAX_chSeamSowDLAF7vFvyH3D8CtNilxI24kazDzb2oshmrZqKEmWcS_8Y1xPkSqIESkiV7mnCF)
 
-To begin, your gameplay will be extremely bare bones and basic, in which you should be focusing on casting Aero every 15~ seconds to refresh the damage over time effect and otherwise casting Stone for your damage, and of course; casting Cure whenever health totals are dropping.
+To begin, your gameplay will be *extremely* bare bones and basic, in which you should be focusing on casting Aero every 15~ seconds to refresh the damage over time effect and otherwise casting Stone for your damage and, of course, casting Cure whenever health totals are dropping.
 
-A word of note however; one common pitfall of healing in Final Fantasy XIV is the mindset of keeping everyone at 100% HP at all times. 
+**A word of note however**; one common pitfall of healing in Final Fantasy XIV is the mindset of keeping everyone at 100% HP at all times. 
 
-Do not do this. There is no need to keep everyone completely healed at all times, the sole requirement is to keep everyone alive. However, do not take this as a go-ahead to play limbo with your health totals, as this will lead to many fumbles in the future.
+**Do not do this.** There is no need to keep everyone completely healed at all times, the sole requirement is to keep everyone alive. However, do not take this as a go-ahead to play limbo with your health totals, as this will lead to many fumbles in the future.
 
-Keep calm, and just keep an eye on your party’s (or your own) HP.
+*Keep calm*, and just keep an eye on your party’s (or your own) HP.
 
 When it comes to leveling in general, for your first class/job, it’s imperative that you do your Main Scenario Quests, as the EXP these give you will easily level you from 1 - 80 by doing them alone.
 
 That said, and this goes for every block of leveling; spamming your highest level dungeon is usually the best way to gain the most EXP if you’re out of dailies/weeklies to do. (as of patch 5.58, this may change with the release of Endwalker)
 
-# 3.0a: Level 30 to 50
+---
+
+# Level 30 - 50
 
 ![](https://lh6.googleusercontent.com/np_Xe0aW5KxBFi8ny7HROHT-H1eL-nbOrC1ETa4Y2JLUZFarp47aNgUZIlJbDzScSFlTkpHio_BDaXaJtpp6ENmxb6MNLoXp01N3EVlOZ9T9a_MkPenyDEzSpJ3pZ3nlh2GveXea)
 
-Upon reaching level 30 and completing the quests mentioned above, you will finally unlock the job White Mage, upon completing the quest prior, you will unlock your new Cure II, which we will get into.
+Upon reaching level 30 and completing the quests mentioned above, you will finally unlock the job **White Mage**, and upon completing the quest prior, you will unlock your new Cure II, which we will get into.
 
-From 30 - 50, White Mage changes a great deal, and it can be daunting at times to understand it all. 
+From 30 to 50, White Mage changes a great deal, and it can be daunting at times to understand it all. 
 
 This guide, of course, acts as a way to get you started before you lose your mind leveling. 
 
-## 3.1b: Skills & Spells (30 to 50)
+## Skills and Spells (30 - 50)
 
 ![](https://lh6.googleusercontent.com/5yuHHLi0jZLMztw46nRTuURDX9gjtNi87A51eAM2OjL3JzhhWuV-oVoogLBkhuifP_0KjDqePy2QD2HqRccLIMl8Ia6hOTYVuUKSGFGZ_M2a1PUOx_ls7wF5Y_jLVKmf2xYlZdOt)
 
@@ -210,9 +214,8 @@ This is not worth it. Cure II should ALWAYS be your go-to healing spell for when
 
 An issue may arise however, since Cure is 400 MP, and Cure II is 1000, you may have an MP deficit. This can be solved easily by slowing down your healing. Remember that as long as your party isn’t dead, then everything is fine. 
 
-To reiterate, 
-
-Please use Cure II instead of Cure for almost all scenarios. 
+To reiterate;  
+**Please use Cure II instead of Cure for almost all scenarios. **
 
 \[lvl 30] Presence of Mind
 
@@ -290,25 +293,28 @@ Medica II is the same as Medica, but swaps out the instant healing for a regen e
 
 In most cases, Medica II will be better than Medica, and in those cases where it is not… Cure III can be used instead.
 
-## 3.2c: White Mage Rotation & Leveling (30 to 50)
+## Rotation and Leveling (30 - 50)
 
 ![](https://lh6.googleusercontent.com/axV6qCu1M4cVkXMOKx6zRtAPW61anzeH-MAHGkMc6IVHWgZpwLWcA1cB3d9S3dCLsOjQwY-fniAzIEQpir6_KikxdlEebvFL132kIb3Nwxe3IHtgZUQLIS3rwVLvvGiifiRHYN3I)
 
-White Mage at this level can be explained as a “regen and forget” healer. The regen capabilities are so powerful at this level that you can be carried by them. Try not to use them as a clutch, however, as this will change upon hitting higher levels.
+White Mage at this level can be explained as a “regen and forget” healer. The regen capabilities are *so* powerful at this level that you can be carried by them. Try not to use them as a clutch, however, as this will change upon hitting higher levels.
 
-If you’re above level 45; when pulling large mob packs, spam the ever living crap out of Holy, as this will stun the group for 7 whole seconds, allowing for a pseudo 7 second immunity for your Tank.
+If you’re above level 45; when pulling large mob packs, *spam the ever living life* out of Holy, as this will stun the group for 7 whole seconds, allowing for a pseudo 7 second immunity for your Tank.
 
 Otherwise, it’s safe to just throw a Regen on your Tank, and occasionally cast Cure II should the need arise. And in any other case, cast Stone II while making sure you have uptime with Aero/Aero II.
 
 As for tips with leveling, make sure to do your leveling roulette every day, and spam those dungeons.
 
-# 4.0a: Level 50 to 70![](https://lh6.googleusercontent.com/GxNKbDnpiIEAZtGcIRHR1UD57Vfh-gwmq0ErpNea7cYSvUnekFIYn4qeefZVQvyx_XVZNxMQseDzunpFnOQxpWmmPIv6m1MNQIj8oFQoB706vW_Qn6YLcbxo4l7kozR61CepwODy)
+--- 
 
-Upon reaching level 50, you now have access to your tomestone gear (assuming you’ve completed ‘A Realm Reborn’ first, and have the sufficient tomestones for trading) and can access the vast majority of your roulettes.
+# Level 50 to 70
+![](https://lh6.googleusercontent.com/GxNKbDnpiIEAZtGcIRHR1UD57Vfh-gwmq0ErpNea7cYSvUnekFIYn4qeefZVQvyx_XVZNxMQseDzunpFnOQxpWmmPIv6m1MNQIj8oFQoB706vW_Qn6YLcbxo4l7kozR61CepwODy)
 
-On top of this, WHM also learns skills that make their life even easier upon reaching the higher levels, such as access to their Lilies, more burst healing options, even more regen, and a way to conserve MP.
+Upon reaching level 50, you now have access to your tomestone gear (assuming you’ve completed ‘A Realm Reborn’ first, and have the sufficient tomestones for trading!) and can access the vast majority of your roulettes.
 
-## 4.1b: Skills & Spells (50 to 70)
+On top of this, WHM also learns skills that make their life even easier upon reaching the higher levels, such as access to their **Lilies**, more burst healing options, *even more* regen, and a way to conserve MP.
+
+## Skills and Spells (50 - 70)
 
 ![](https://lh6.googleusercontent.com/PAFIl5KSACckujeK8pDD9ZLvU2ICu8hf08yAZ3fBQLsOWxSwbLOr-5B1Ofpqpao10SZHg3KH6TyKvx9xsFCleqvjMXqvHfUiYbKv4MG6k3PnF8SAtochGRavdaRORbybZsftHBDT)
 
@@ -384,49 +390,47 @@ What this spell does is that when cast, all party members within a 20y radius re
 
 This spell is essentially a doubler for your AoE heals, which allows them to heal for just that bit more that you may need for massive raidwide attacks.
 
-## 4.2c - Rotation & Leveling (50 - 70)
+## Rotation and Leveling (50 - 70)
 
 ![](https://lh6.googleusercontent.com/fN0ePfKejGGk2GNyh9W5NPKl1yIlNiJTRFejuVvd7Pto0gQzkx09Z0vQgxuxfoj1iiGH1vkRxKJOx89UAVi9FeVjj7jrMt3d8kKCqF80lnXAlolFeinxFnAAijCbWv6N4n7_q2av)
 
-With the addition of Afflatus Solace to your toolkit, White Mage becomes an even more lenient job in terms of healing, as Lilies build up overtime, you can use them whenever you have one up in place of a GCD heal to keep your damage uptime up, and keep people healed. 
+With the addition of Afflatus Solace to your toolkit, White Mage becomes an even more lenient job in terms of healing, as **Lilies** build up overtime, you can use them whenever you have one up in place of a GCD heal to keep your damage uptime up, and keep people healed. 
 
-Assize allows you even more burst options in terms of your damage and healing, as well as serving as another way to regain MP should Lucid Dreaming be unavailable.
+**Assize** allows you even more burst options in terms of your damage and healing, as well as serving as another way to regain MP should Lucid Dreaming be unavailable.
 
-Asylum acts as another repertoire to your “Regen and forget” capabilities, as the regen provided by the dome is surprisingly strong, and is on a relatively short cooldown, as well.
+**Asylum** acts as another repertoire to your “Regen and forget” capabilities, as the regen provided by the dome is surprisingly strong, and is on a relatively short cooldown, as well.
 
-Thin Air is another spell to help you reserve MP, allowing you to not bottom out as much when you are lost in the sauce of spamming Holy for AoE.
+**Thin Air** is another spell to help you reserve MP, allowing you to not bottom out as much when you are lost in the sauce of spamming Holy for AoE.
 
-Tetragrammaton allows you to, once more, have burst healing for in case that you need healing as soon as possible, and gives more leniency in your gameplay because of it.
+**Tetragrammaton** allows you to, once more, have burst healing for in case that you need healing as soon as possible, and gives more leniency in your gameplay because of it.
 
-Divine Benison lets you focus on doing your damage even more than you already were before.
-
+**Divine Benison** lets you focus on doing your damage even more than you already were before.
 Throw this on before a trash pack pull, and then start spamming your Holy can do most of the healing that you’d need to do otherwise.
 
-Plenary Indulgence is there for when raidwides happen, allowing you to better heal everyone to higher degrees should the occasion call for it.
+**Plenary Indulgence** is there for when raid-wide damage happens, allowing you to better heal everyone to higher degrees should the occasion call for it.
 
-At this level, (and, frankly; all levels) your rotation rarely changes outside of Stone spam, keeping Aero up, and casting certain spells on cooldown, which means that 
+At this level, and frankly for all levels, your rotation rarely changes outside of Stone spam, keeping Aero up, and casting certain spells on cooldown, which means that;
 
-Every 45 seconds, cast Assize.
+- Every 45 seconds, cast Assize.
+- Every 15 seconds, cast Divine Benison (or, wait until a Tank buster, as long as you don’t lose a use of the spell.
+- And, of course-- every 15 - 18 seconds, reapply Aero II.
+- Otherwise; cast Stone III/Stone IV.
 
-Every 15 seconds, cast Divine Benison (or, wait until a Tank buster, as long as you don’t lose a use of the spell.
+As for leveling, at this level range you have access to all your roulettes, which means to essentially make sure you do them all every day. 
 
-And, of course-- every 15 - 18 seconds, reapply Aero II.
+Make sure to at least do Main Scenario & Frontline every day for *massive* EXP.
 
-Otherwise; cast Stone III/Stone IV.
+Your other sources of EXP can come from Wondrous Tales, Challenge Log, Hunting Log, Palace of the Dead/Heaven on High and, of course, dungeons.
 
-As for leveling, at this level range, you have access to all your roulettes, which means to quite simply make sure you do them all every day. 
+---
 
-Make sure to at the very least do Main Scenario & Frontline every day for massive EXP.
-
-Your other sources of EXP can come from Wondrous Tales, Challenge Log, Hunting Log, Palace of the Dead/Heaven on High and of course; dungeons.
-
-# 5.0a - Level 70 - 80
+# Level 70 - 80
 
 ![](https://lh4.googleusercontent.com/k7-mDXlEEy56l2CMyqTH6rTxrmPpYf1yIGny1Z2g8NYnypbPnAcXmzovV7pvCyX3Wne7xqoJj2uOqUcKn1ThDvbRdQxXUlqRb8ovsMydSASYUd_1cG9Y0ViV7bpH31Ub5iiWxBuM)
 
-The final stretch of levels until you reach the level cap of Shadowbringers, the current content as of writing. In this range, you will gain access to more lily spells, including the bloodiest of them all, and yet another healing accelerator at Level 80. As well as this, Asylum will see improvements as well.
+These 10 levels are the final stretch until you reach the level cap of Shadowbringers. In this range, you will gain access to more lily spells, including the bloodiest of them all - Afflatus Misery - and yet another healing accelerator at Level 80. As well as this, Asylum will see improvements as well.
 
-## 5.1b - Skills & Spells (70 - 80)
+## Skills and Spells (70 - 80)
 
 ![](https://lh4.googleusercontent.com/3fS7jTOz_tjlrkR-s4pyh2DKXG3rBCM2kpw-D3UfMiaxCLxn1u1wJLEVktKyeUWz6PeiCv8_7Hf-W0h2UhV5vBwklyVdbt-Dn3eGdCrt1UDWTEIRr-1GJoUWd4fcoPSZa6gTXeam)
 
@@ -436,7 +440,7 @@ The final stretch of levels until you reach the level cap of Shadowbringers, the
 
 An upgrade to the very ancient at this point-- Aero II. However, coming with two notable differences.
 
-First off-- this spell deals unaspected damage, so in the rare case that an enemy would resist wind, Dia bypasses this.
+First off- this spell deals unaspected damage, so in the rare case that an enemy would resist wind, Dia bypasses this.
 
 And secondly, this DoT lasts for 30 seconds instead of 18.
 
@@ -444,19 +448,17 @@ And secondly, this DoT lasts for 30 seconds instead of 18.
 
 ![](https://lh4.googleusercontent.com/nhm-fe2ID9abyTcx-VzsoZtZSE2xSVSU0q9sKIdV3fJHtIen2iqUX27VvycgADifXUNdgEbLR0suF2CUlola4bLj9lKSeZdlzX8URV1cZmMamAhA-q1hBp-_nWbVShJalf2zvQB8)
 
-Your ascension is complete; you can now become a Glare Mage.
-
+Your ascension is complete; you can now become a Glare Mage.  
 This is another upgrade to Stone.
 
 \[lvl 74] Afflatus Misery
 
 ![](https://lh4.googleusercontent.com/igWCqeN58w4zKYJvaQjMLOyxlR6mjwWCVb2L43t-kURDu7BAyAgzc_WkQH7dZxBzk7WNqZ6UKTp9V81jyywpqdWRxVdt6L4dNJnvVuLZjb4Tr7x4m_7D2-zZaUtHM6LLe0UKLyUt)
 
-“Blood for the Blood Lily!”
+**“Blood for the Blood Lily!”**  
+Upon casting 3 spells that consume your Lily gauge, the Blood Lily will bloom, allowing the use of this spell which deals **massive** damage to all enemies in the area around the target.
 
-Upon casting 3 spells that consume your Lily gauge, the Blood Lily will bloom, allowing the use of this spell which deals MASSIVE damage to all enemies in the area around the target.
-
-A word of note however; despite the absolutely bonkers potency on the damage; it may not always be worth it to waste your lily spells to get to this spell faster (at least for single target), as it takes 4 GCDs to get to this spell from 0, (not accounting for the 90 seconds required for 3 lilies to bloom in the first place) and Glare deals 300 potency, which when casted 3 times, equals the potency of Afflatus Misery.
+However, despite the absolutely *bonkers* potency on the damage; it may not always be worth it to waste your lily spells to get to this spell faster (at least for single target), as it takes 4 GCDs to get to this spell from 0, (not accounting for the 90 seconds required for 3 lilies to bloom in the first place) and Glare deals 300 potency, which when casted 3 times, equals the potency of Afflatus Misery.
 
 \[lvl 76] Afflatus Rapture
 
@@ -474,34 +476,29 @@ At this level, Asylum gets buffed to further increase healing when players are s
 
 ![](https://lh4.googleusercontent.com/TvpoeU1Y_4F3hnh-V6lLTQ1vNrU7C-1gidaPOy9ulS0F_60fuvoEK9laMpfSF8plh6-Ud1BceqLruA1ANzCIly4ZWBVeN_0-dwEfTtc5Txshx5rXv49drpAUNNSuY3JcSFYQ-Q4B)
 
-And, finally; the last skill you learn as of patch 5.58, Temperance.
-
-This spell acts as your steroids, buffing nearly all aspects of your healing, and reducing all damage taken by nearby party members for 20 seconds. 
-
+And, finally; the last skill you learn as of patch 5.58, Temperance.  
+This spell acts as your steroids, buffing nearly all aspects of your healing, and reducing all damage taken by nearby party members for 20 seconds.   
 As well as giving you very pretty wings.
 
-## 5.2c - Rotation & Leveling (70 - 80)
+## Rotation and Leveling (70 - 80)
 
 ![](https://lh6.googleusercontent.com/dY9z0S8i4B_wUx2UO5yLfPKjIdWPE5bUQ4FZNSiIeVNyF7nVIu4DXiqw8SDy29DpYOy63XgXk9l2OTGWC1ppIuL33Z7kJdi9YiuatndzNXMm5_0ELW6gxQd49IVfzvZPuUK9pIWu)
 
 Finally within the home stretch. 
 
-If you’ve unlocked The Bozjan Southern Front, it is one of (if not the best) way to level from 71 - 80, that said; it can also get extremely grating and boring after a while, so doing your daily, weeklies, etc should give you enough EXP to break up the monotony.
+If you’ve unlocked The Bozjan Southern Front, it is one of (if not the best) way to level from 71 - 80. That said, it can also get extremely grating and boring after a while; so doing your daily, weeklies, etc. should give you enough EXP to break up the monotony.
 
-Your rotation for WHM at level 72+ is very, very simple.
+Your rotation for WHM at level 72+ is very, very simple;
+- Keep Dia up, and cast Glare.
 
-Keep Dia up, and cast Glare.
+That’s it, *really.*
 
-That’s it, really.
+Your cooldowns should be kept track of, and those include Presence of Mind, Asylum, Assize, Thin Air, Plenary Indulgence, and Temperance.  
+Usually, you want to cast these on cooldown, or otherwise whenever the situation calls for it, as outlined before.
 
-Your cooldowns should be kept track of, and those include Presence of Mind, Asylum, Assize, Thin Air, Plenary Indulgence, and Temperance.
-
-Usually, you want to cast these on cooldown, or otherwise whenever the situation calls for it, as I’ve outlined before.
-
-# 6.0a - Level 80
+# Level 80
 
 ![](https://lh3.googleusercontent.com/SY-yHqh1uiTHnk7Yukp_xijjoNxJ7HhygP0VxUP2ArU8lZex6cAkzQJKXCW7Dd3Mw3Kwvl8uB9L_70ZLdDbnqgP3YLvtGe9gxIUV5MLsbQxRV0lPanHj_8jhFm3dvfIo_t5BjAJ9)
 
-And with all that, you’re at level 80! Congratulations, if you wish to optimize your gameplay further, go check out the other guides on this site, or simply remember the sacred 5 words of playing White Mage.
-
-Blood for the Blood Lily.
+And with all that, you’re at level 80! **Congratulations!**  
+If you wish to optimize your gameplay further, go check out the other guides on this site, or simply remember the sacred 5 words of playing White Mage: *Blood for the Blood Lily.*
