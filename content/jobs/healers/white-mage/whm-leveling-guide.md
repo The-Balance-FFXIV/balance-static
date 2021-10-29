@@ -1,7 +1,7 @@
 ---
 title: WHM Leveling Guide
 ---
-![](https://cdn.discordapp.com/attachments/877670675425394709/903752588095266846/CNJWHMLevelingGuideDeluxeEditionBanner.png)
+![](https://cdn.discordapp.com/attachments/877670675425394709/903757302790754335/please..png)
  
 # The Walter White Mage Leveling Guide
 
