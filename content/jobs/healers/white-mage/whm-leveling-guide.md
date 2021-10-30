@@ -499,5 +499,7 @@ Usually you want to cast these on cooldown, or whenever the situation calls for 
 
 ![](https://lh3.googleusercontent.com/SY-yHqh1uiTHnk7Yukp_xijjoNxJ7HhygP0VxUP2ArU8lZex6cAkzQJKXCW7Dd3Mw3Kwvl8uB9L_70ZLdDbnqgP3YLvtGe9gxIUV5MLsbQxRV0lPanHj_8jhFm3dvfIo_t5BjAJ9)
 
-And with all that, you’re at level 80! **Congratulations!**\
+And with all that, you’re at level 80! **Congratulations!**
+
+\
 If you wish to optimize your gameplay further, go check out the other guides on this site, or simply remember the five sacred words of playing White Mage: *Blood for the Blood Lily.*
