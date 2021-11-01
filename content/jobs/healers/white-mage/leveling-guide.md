@@ -19,38 +19,6 @@ Leveling White Mage allows you access to some of the smoothest dungeon runs in t
 
 Unlocking White Mage is done upon reaching level 30 with the Conjurer class and completing the quest Seer Folly after completing the MSQ quest Sylph-management.
 
-- - -
-
-## Table of Contents
-
-[Words of Note](#words-of-note)  
-
-* [General Leveling Tips](#General-Leveling-Tips)  
-
-[Level 1 - 30](#level-1-30) \[CNJ]
-
-* [Skills and Spells (1 - 30)](#skills-and-spells-1-30)
-* [Rotation and Leveling (1 - 30)](#rotation-and-leveling-1-30)
-
-[Level 30 - 50](#levels-30-50)
-
-* [Skills and Spells (30 - 50)](#skills-and-spells-30-50)
-* [Rotation and Leveling (30 - 50)](#rotation-and-leveling-30-50)
-
-[Level 50 - 70](#levels-50-70) 
-
-* [Skills and Spells (50 - 70)](#skills-and-spells-50-70)
-* [Rotation and Leveling (50 - 70)](#rotation-and-leveling-50-70)
-
-[Level 70 - 80](#level-70-80)
-
-* [Skills and Spells (70 - 80)](#skills-and-spells-70-80)
-* [Rotation and Leveling (70 - 80)](#rotation-and-leveling-70-80)
-
-[Level 80](#level-80)
-
-- - -
-
 # Words of Note
 
 Playing a Healer in Final Fantasy XIV is different than what you’d expect in many similar games. Ideally, you want to be doing *as much **damage** as possible, and **healing** as little as possible.* The damage of White Mage is generally extremely high (especially later with a spell learned at level 45!)
