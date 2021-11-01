@@ -7,43 +7,6 @@ changelog:
   - date: 2021-10-26T21:53:11.912Z
     message: Article Created.
 ---
-* [Indomitable, A Thourough Guide to Scholar](#indomitable-a-thourough-guide-to-scholar)
-
-  * [Author](#author)
-* [Acknowledgements](#acknowledgements)
-* [What Does Scholar Do?](#what-does-scholar-do)
-* [All About DPS](#all-about-dps)
-  * [How DoT's Work](#how-dots-work)
-* [The GCD and Weaving](#the-gcd-and-weaving)
-* [How the Fairy Works](#how-the-fairy-works)
-
-  * [Problems With The Fairy](#problems-with-the-fairy)
-* [Opportunity Costs](#opportunity-costs)
-
-  * [Opportunity Costs for CoHealers](#opportunity-costs-for-cohealers)
-  * [Single Target Healing Priority](#single-target-healing-priority)
-  * [AoE Healing Priority](#aoe-healing-priority)
-* [Healing with White Mage](#healing-with-white-mage)
-* [Healing with AST](#healing-with-ast)
-* [How Shielding Works](#how-shielding-works)
-
-  * [When to Shield](#when-to-shield)
-* [How Healing Buffs Work](#how-healing-buffs-work)
-* [Deployment Tactics](#deployment-tactics)
-* [Summon Seraph](#summon-seraph)
-* [Recitation](#recitation)
-* [Dissipation](#dissipation)
-* [MP Management](#mp-management)
-* [Movement](#movement)
-* [How Mitigation Works](#how-mitigation-works)
-* [Party Mitigations](#party-mitigations)
-* [Raid Buffs](#raid-buffs)
-
-  * [Buff Alignment](#buff-alignment)
-* [Macros](#macros)
-* [General Tips](#general-tips)
-* [Additional Resources](#additional-resources)
-
 # Indomitable, A Thourough Guide to Scholar
 
 ## Author
