@@ -26,48 +26,7 @@ The guide will **not**, however, list and explain your tooltips for you, except 
 
 For more in-depth AST discussion and questions beyond the scope of this guide, please direct your attention to [The Balance Discord](https://discord.gg/thebalanceffxiv), where there are plenty of skilled ASTs who are more than happy to answer questions and work with you.
 
-# Table of Contents
 
-* [The Scope of this Guide](#the-scope-of-this-guide)
-* [Changelog](#changelog)
-* [Table of Contents](#table-of-contents)
-* [What Makes Us Special?](#what-makes-us-special)
-
-  * [Mobility](#mobility)
-  * [Astrologian’s oGCDs](#astrologian-ogcds)
-
-    * [Earthly Star (ES)](#earthly-star-es)
-    * [Essential Dignity (ED)](#essential-dignity-ed)
-    * [Celestial Intersection (CI)](#celestial-intersection-ci)
-    * [Celestial Opposition (CO/COpp)](#celestial-opposition-cocopp)
-    * [Neutral Sect (NS)](#neutral-sect-ns)
-    * [Horoscope](#horoscope)
-    * [Collective Unconscious (CU)](#collective-unconcious-cu)
-    * [Synastry](#synastry)
-    * [Lightspeed (LS)](#lightspeed-ls)
-  * [Cards and Divination](#cards-and-divination)
-
-    * [Draw/Play](#draw-play)
-    * [Seals](#seals)
-    * [Divination](#divination)
-    * [Minor Arcana (MA)](#minor-arcana-ma)
-    * [Redraw](#redraw)
-    * [Sleeve Draw](#sleeve-draw) 
-    * [How Your Buffs Work Together](#how-your-buffs-work-together)
-* [Opener](#opener)
-
-  * [Pre-pull](#pre-pull)
-  * [The Pull](#the-pull)
-* [Miscellaneous Stuff You Should Know](#miscellaneous-stuff-you-should-know)
-
-  * [Strange Interactions](#strange-interactions)
-  * [Choosing a Sect](#choosing-a-sect)
-
-    * [Sect Swapping/Stance Dancing](#sect-swapping-stance-dancing)
-  * [Secondary Stats](#secondary-stats)
-* [Contact Stuff](#contact-stuff)
-
-- - -
 
 # What Makes Us Special?
 
