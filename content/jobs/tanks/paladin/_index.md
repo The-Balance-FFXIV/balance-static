@@ -1,5 +1,5 @@
 ---
 authors:
-  - Balance WAR Staff
+  - Balance PLD Staff
 ---
 \[Placeholder]
