@@ -442,9 +442,7 @@ These 10 levels are the final stretch until you reach the level cap of Shadowbri
 
 An upgrade to Aero II with two notable differences.
 
-Firstly Dia deals unaspected damage, so in the rare case that an enemy would resist wind, Dia bypasses that resistence.
-
-And secondly, this DoT lasts for 30 seconds instead of 18.
+Firstly Dia deals unaspected damage, so in the rare case that an enemy would resist wind, Dia bypasses that resistence. The second change is that this DoT lasts for 30 seconds instead of 18.
 
 **\[lvl 72] Glare**
 
@@ -466,7 +464,7 @@ However, despite the absolutely *bonkers* potency on the damage, it may not alwa
 
 ![](https://lh4.googleusercontent.com/fDQ7qHQN81mQMuTGZWl6YKRN-qxzfrBGFQbbm7nlhyqtLWbbBFUvk9FICNEx6rMasCCtTHgE4niw71svnQFVOaYYt6wfQjuLg4YyVT9BpqW-N2DKkXGYbQ9zDvuDtX3dpjtXa4Ec)
 
-Afflaturs Rapture is essentially an AoE version of Afflatus Solace, healing for the same amount as Medica but as an instant cast. It also nourishes your Blood Lily.
+Afflatus Rapture is essentially an AoE version of Afflatus Solace, healing for the same amount as Medica but as an instant cast. It also nourishes your Blood Lily.
 
 **\[lvl 78] Enhanced Asylum**
 
