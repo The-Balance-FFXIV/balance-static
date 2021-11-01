@@ -210,7 +210,7 @@ Our buffs fall on timers that function pretty well together in the duration of a
 
 #### Buff Duration and Optimal Placement
 
-If you have decent practice properly delaying your buffs within the GCD, you should, ideally, be able to get nine GCD actions under each cast of Lance Charge, Dragon Sight, and Battle Litany, assuming your gcd is in our ideal Skill Speed window. Otherwise, you will get eight.
+If you have decent practice properly delaying your buffs within the GCD, you should, ideally, be able to get nine GCD actions under each cast of Lance Charge, Dragon Sight, and Battle Litany, assuming your GCD is in our ideal Skill Speed window. Otherwise, you will get eight.
 
 As our rotation is now ten GCDs and our buffs last eight or nine, we want to ideally miss only the weakest actions in our rotation with them - Disembowel or Raiden Thrust - while making sure first that we catch both finishers - Chaos Thrust and Full Thrust - and then that we catch both fourth and fifth hits - Wheeling Thrust and Fang and Claw. That said, below is a graph.
 
@@ -248,7 +248,7 @@ The answer to this question is kinda **complicated**. When you decide to use Dis
 
 The short answer is **yes**, you should be using Disembowel during trash.
 
-The long answer is that using it causes you to lose potency overall if you’re hitting 4 or more enemies with the above combo, but that potency is **very easily made up** by any of our various off-gcd area-of-effect actions - Geirskogul, Nastrond, Stardiver, and Dragonfire Dive.
+The long answer is that using it causes you to lose potency overall if you’re hitting four or more enemies with the above combo, but that potency is **very easily made up** by any of our various off-GCD area-of-effect actions - Geirskogul, Nastrond, Stardiver, and Dragonfire Dive.
 
 Applying Disembowel is 290+320 = 610 potency\
 Coerthan Torment combo is 200 potency per gcd per mob - 400 over 2 gcds
@@ -271,7 +271,7 @@ Coerthan Torment combo is 200 potency per gcd per mob - 400 over 2 gcds
 | 14      | 2800      | 4990                     | 3360                      | 1630                | 16300                         | 1164.29                   | 432.86                   |
 | 15      | 3000      | 5390                     | 3600                      | 1790                | 17900                         | 1193.33                   | 432.00                   |
 
-Essentially: if, sometime during the duration of Disembowel, you will press off-gcds that sum together to equal the potency needed to break even (AoE skills only need to hit the potency per enemy column) then you should apply it.
+Essentially: if, sometime during the duration of Disembowel, you will press off-GCDs that add together to equal the potency needed to break even (AoE skills only need to hit the potency per enemy column) then you should apply it.
 
 At three, it is **always a gain**. At four, you just need 75 potency! Geirskogul alone is 270. Of note is even at 15, you still need less than 1200 - the potency of 3 Nastronds.
 This table also assumes that monsters will last the full (or most of the full) Disembowel duration.
@@ -282,7 +282,7 @@ The formula to directly generate the potency needed per enemy column, knowing th
 
 **1600 - 6100/n**
 
-Because of the nature of this formula, it has an absolute maximum value of **1600** - meaning that, no matter how many enemies you are facing, if you have over 1600 in per-target area-of-effect off gcd actions available to use in those 30 seconds, Disembowel is **always** worth using.
+Because of the nature of this formula, it has an absolute maximum value of **1600** - meaning that, no matter how many enemies you are facing, if you have over 1600 in per-target area-of-effect off-GCD actions available to use in those 30 seconds, Disembowel is **always** worth using.
 
 - - -
 
@@ -321,7 +321,7 @@ Disengaging from the target can cause your rotation to get forcibly shifted arou
    <img src="/img/fc.png" alt="Fang and Claw" height="30px"> 
    <img src="/img/wt.png" alt="Wheeling Thrust" height="30px"> 
 
-That’s, honestly, all there is to discuss, here. This is more of a judgment call, honestly - anything up to around 12 seconds remaining could be clipped, but ten is the basic cutoff for getting all five hits of your Full Thrust Combo with Disembowel’s buff before it falls off. You would lose the buff on Raiden Thrust and Disembowel after the fact, but that can be overcome.
+That’s honestly all there is to discuss here. This is more of a judgment call, honestly - anything up to around 12 seconds remaining could be clipped, but ten is the basic cutoff for getting all five hits of your Full Thrust Combo with Disembowel’s buff before it falls off. You would lose the buff on Raiden Thrust and Disembowel after the fact, but that can be overcome.
 
 The only exception to this rule is if you are going to hit an off-GCD action in that period of time after Disembowel wears off. In that case, you absolutely will want the refresh beforehand.
 
@@ -347,7 +347,7 @@ The basic idea is to choose between pressing Mirage Dive before or after Geirsko
 | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | If Lance Charge has less than 18 seconds until it's ready, **enter**           | <img src="/img/hj.png" alt="High Jump" height="20px"> <img src="/img/md.png" alt="Mirage Dive" height="20px"> <img src="/img/gsk.png" alt="Geirskogul" height="20px"> |
 | If, instead, Lance Charge has more than 23 seconds until it's ready, **delay** | <img src="/img/hj.png" alt="High Jump" height="20px"> <img src="/img/gsk.png" alt="Geirskogul" height="20px"> <img src="/img/md.png" alt="Mirage Dive" height="20px"> |
-| If,instead, Dragon Sight has less than 18 seconds until it's ready, **enter**  | <img src="/img/hj.png" alt="High Jump" height="20px"> <img src="/img/md.png" alt="Mirage Dive" height="20px"> <img src="/img/gsk.png" alt="Geirskogul" height="20px"> |
+| If, instead, Dragon Sight has less than 18 seconds until it's ready, **enter** | <img src="/img/hj.png" alt="High Jump" height="20px"> <img src="/img/md.png" alt="Mirage Dive" height="20px"> <img src="/img/gsk.png" alt="Geirskogul" height="20px"> |
 | If, instead, Dragon Sight has more than 23 seconds until it's ready, **delay** | <img src="/img/hj.png" alt="High Jump" height="20px"> <img src="/img/gsk.png" alt="Geirskogul" height="20px"> <img src="/img/md.png" alt="Mirage Dive" height="20px"> |
 | Otherwise, **enter**                                                           | <img src="/img/hj.png" alt="High Jump" height="20px"> <img src="/img/md.png" alt="Mirage Dive" height="20px"> <img src="/img/gsk.png" alt="Geirskogul" height="20px"> |
 
@@ -383,16 +383,17 @@ Activating your first Life of the Dragon window as early as possible (on your se
 <img src="/img/gsk.png" alt="Geirskogul" height="20px">
 <img src="/img/md.png" alt="Mirage Dive" height="20px"> 
 
-As you can see, we just keep shooting off Geirskogul before Mirage Dive until entering our first Life around 20s ahead of our second Lance Charge usage, so we get one Nastrond and Stardiver under it. Entering the next one asap (by using Mirage Dive before Geirskogul this time) allows us to get a second Nastrond under that Lance Charge and then two under the subsequent Dragon Sight (along with the Stardiver).
+As you can see, we just keep shooting off Geirskogul before Mirage Dive until entering our first Life around 20s ahead of our second Lance Charge usage, so we get one Nastrond and Stardiver under it. Entering the next one as soon as possible (by using Mirage Dive before Geirskogul this time) allows us to get a second Nastrond under that Lance Charge and then two under the subsequent Dragon Sight (along with the Stardiver).
 
 In **most** cases, this is the optimal way to handle the first two cycles. Below, there’s an expansion of this, exploring how our Life cycles interact with future buff windows.
 
 #### Nastrond and Buffs
 
-Because our buff actions fall into a rather static rotation (as seen above), we can extrapolate these concepts over the course of six minutes and get a general “Life of the Dragon Rotation” so to speak, which shows us when we hold it and when we don’t. This will **only** hold true if we have **six minutes** of continuous uptime - that is, we **can** land every one of the High Jump, Geirskogul, Mirage Dive, Nastrond, and Stardiver hits listed in this visual representation, while ideally dropping zero gcds in that same window. As such, it is very rarely ever going to be the optimal approach, and the above chart will serve you better in most situations.
+Because our buff actions fall into a rather static rotation (as seen above), we can extrapolate these concepts over the course of six minutes and get a general “Life of the Dragon Rotation” so to speak, which shows us when we hold it and when we don’t. This will **only** hold true if we have **six minutes** of continuous uptime - that is, we **can** land every one of the High Jump, Geirskogul, Mirage Dive, Nastrond, and Stardiver hits listed in this visual representation, while ideally dropping zero GCDs in that same window. As such, it is very rarely ever going to be the optimal approach, and the above chart will serve you better in most situations.
 
 <div align="center">
 <img src="/img/life_rota.png" alt="Life Rotation"> 
+
 After the final buff window, the rotation repeats from the 30s column, quite obviously.
  
 
@@ -477,10 +478,12 @@ For keyboard/mouse, I recommend  one to three specific ally macros for reliable 
 ## Gearing Up
 
 As things appear to be right now, our stat priority has not changed!
+
 Critical Hit Rate > Direct Hit Rate > Determination > Skill Speed
+
 I recommend you use the gear comparison tool in the resources section to actually get a better idea of how melds affect your DPS!
 
-Just meld (with VIs; VIIIs have a 40% removal chance, and you will want to save those for bis!) and wear highest item level gear, for now!
+Just meld (with VIs; VIIIs have a 40% removal chance, and you will want to save those for BiS!) and wear highest item level gear, for now!
 
 ### Best Sets Available
 
@@ -497,7 +500,7 @@ The 2.50 set provides you with a particularly slow GCD speed, which is favored q
 
 Below is a graph comparing the total DPS of each of the three above sets over time. I’ve clipped out the opener to avoid having a super zoomed out graph to show the peaks (which are around 30,000, in case you were curious). Please note that the Y-Axis only shows values from 18,250 to 20,500 which results in seeing huge gaps between the mins and maxes which make the variation appear to be much larger than it actually is.
 
- img src="/img/graph.png" alt="DPS Graph" height="400px"> 
+ <img src="/img/graph.png" alt="DPS Graph" height="400px"> 
 
 ### How Fast Can We Go?
 
@@ -505,4 +508,4 @@ Our sweet spot for GCD appears to be somewhere between 2.25 and 2.47.
 
 Life Surge’s 45s cooldown means that once we go faster than 2.25, we’ll start to severely delay it if we want to keep it on Full Thrust.
 
-Chaos Thrust having a 24s duration means that if we go slower than 2.47, we will see noticeable dot dropping, between recasts. This, in general, will not be a significant issue, but it is worth noting. We really do not care about this one, for what it’s worth.
+Chaos Thrust having a 24s duration means that if we go slower than 2.47, we will see noticeable DoT dropping between recasts. This in general will not be a significant issue, but it is worth noting. We really do not care about this one for what it’s worth.
