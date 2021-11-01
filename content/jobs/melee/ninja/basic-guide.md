@@ -7,35 +7,6 @@ changelog:
   - date: 2021-10-29T03:08:27.069Z
     message: Created page
 ---
-* [Introduction to Ninja](#introduction-to-ninja)
-* [What is Ninja?](#what-is-ninja)
-* [Skills and Abilities](#skills-and-abilities)
-
-  * [Weaponskills (Commonly referred to as GCDs)](#weaponskills-commonly-referred-to-as-gcds)
-  * [Ninjutsus/Mudras](#ninjutsusmudras)
-  * [Regular Abilities(oGCDs)](#regular-abilitiesogcds)
-  * [Ninki](#ninki)
-  * [Utility Abilities](#utility-abilities)
-  * [Traits](#traits)
-* [Rotation](#rotation)
-
-  * [Base Combo](#base-combo)
-  * [Ninki Usage](#ninki-usage)
-  * [Ninjutsu Usage](#ninjutsu-usage)
-  * [oGCD Usage](#ogcd-usage)
-  * [Trick Attack Rotation](#trick-attack-rotation)
-  * [Ten Chi Jin (TCJ) Usage](#ten-chi-jin-tcj-usage)
-  * [Multi-Target Rotation](#multi-target-rotation)
-* [Best-In-Slot (BiS)](#best-in-slot-bis)
-* [Optimization](#optimization)
-
-  * [Optimizing Around Kill Times](#optimizing-around-kill-times)
-  * [Optimizing Around Downtime](#optimizing-around-downtime)
-  * [Niche Optimizations](#niche-optimizations)
-* [Thanks](#thanks)
-
-  * [Contacting Me](#contacting-me)
-
 # Introduction to Ninja
 
 Hello, and welcome to my guide on Final Fantasy XIV’s melee DPS job, Ninja, current for patch 5.55. This guide will aim to help you learn the job at a beginner level, as well as give you the tools and information needed to push the job to its limits in terms of damage and utility, and in turn bring the most to a raid group or dungeon group that you can.
@@ -48,7 +19,7 @@ Ninja is one of four melee DPS in FFXIV. It is focused around super high burst w
 
 # Skills and Abilities
 
-![Banner2](/img/jobs/melee/ninja/Banner2.png)
+![Banner2](/img/jobs/melee/ninja/Banner2.jpg)
 
 ## Weaponskills (Commonly referred to as GCDs)
 
@@ -311,7 +282,7 @@ Upgrades Katon and Hyoton to Goka Mekkyaku and Hyosho Ranryu respectively while 
 
 Increases Ninki gauge by ten upon successfully landing Shadow Fang or completing a combo with Aeolian Edge or Armor Crush.
 
-![Banner3](/img/jobs/melee/ninja/Banner3.png)
+![Banner3](/img/jobs/melee/ninja/Banner3.jpg)
 
 # Rotation
 
