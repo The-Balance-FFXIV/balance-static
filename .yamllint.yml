@@ -35,6 +35,8 @@ rules:
   new-lines: enable
   octal-values: disable
   quoted-strings: disable
-  trailing-spaces: enable
+  # TODO:
+  trailing-spaces: disable
+  #trailing-spaces: enable
   truthy:
     level: warning
