@@ -14,5 +14,4 @@ jobs:
         uses: ibiqlik/action-yamllint@v3
         with:
           file_or_dir: static/admin/config.yml
-          # TODO: we should probably add this to the root of the repo
-          # config_file: .yamllint.yml
+          config_file: .yamllint.yml
