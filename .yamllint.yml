@@ -1,0 +1,42 @@
+---
+# This is essentially the default configuration, with some changes for this repo
+yaml-files:
+  - '*.yaml'
+  - '*.yml'
+  - '.yamllint'
+
+rules:
+  # TODO:
+  braces: disable
+  #braces: enable
+  brackets: enable
+  colons: enable
+  commas: enable
+  comments:
+    level: warning
+  comments-indentation:
+    level: warning
+  document-end: disable
+  # TODO:
+  document-start: disable
+  #document-start:
+  #  level: warning
+  # TODO:
+  empty-lines: disable
+  #empty-lines: enable
+  empty-values: disable
+  hyphens: enable
+  indentation: enable
+  key-duplicates: enable
+  key-ordering: disable
+  # Default line length is 80 characters
+  line-length: disable
+  new-line-at-end-of-file: enable
+  new-lines: enable
+  octal-values: disable
+  quoted-strings: disable
+  # TODO:
+  trailing-spaces: disable
+  #trailing-spaces: enable
+  truthy:
+    level: warning
