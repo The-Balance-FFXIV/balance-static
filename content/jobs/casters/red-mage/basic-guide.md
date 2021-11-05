@@ -7,41 +7,6 @@ changelog:
   - date: 2021-10-26T01:24:41.469Z
     message: Created page
 ---
-* [Overview](#overview)
-* [Major Changes and Additions in 5.x](#major-changes-and-additions-in-5x)
-
-  * [Role Actions](#role-actions)
-  * [Enchanted Reprise](#enchanted-reprise)
-  * [Scorch](#scorch)
-  * [Acceleration](#acceleration)
-  * [Engagement](#engagement)
-  * [Impact](#impact)
-  * [AoE rotation](#aoe-rotation)
-* [Balancing your Mana](#balancing-your-mana)
-* [Red Mage Damage Types](#red-mage-damage-types)
-* [Red Mage Cheat Sheet (TL;DR)](#red-mage-cheat-sheet-tldr)
-* [Damage oGCD Usage](#damage-ogcd-usage)
-
-  * [Enchanted Reprise](#enchanted-reprise-1)
-* [Manafication Usage](#manafication-usage)
-* [Managing your procs](#managing-your-procs)
-
-  * [Swiftcast Usage](#swiftcast-usage)
-  * [Efficiently fishing for procs when below 80|80](#efficiently-fishing-for-procs-when-below-8080)
-  * [Handling procs when above 80|80](#handling-procs-when-above-8080)
-
-    * [Having Either Verstone OR Verfire](#having-either-verstone-or-verfire)
-    * [Having Both Verstone AND Verfire](#having-both-verstone-and-verfire)
-    * [Having Neither Verstone NOR Verfire](#having-neither-verstone-nor-verfire)
-    * [Acceleration Usage on Finishers](#acceleration-usage-on-finishers)
-* [Potion Usage and Double Melee Windows](#potion-usage-and-double-melee-windows)
-* [Embolden Usage](#embolden-usage)
-* [AoE Rotation](#aoe-rotation-1)
-* [Openers](#openers)
-
-  * [x-8 Openers](#x-8-openers)
-  * [x-10 Openers](#x-10-openers)
-  * [Addle Openers](#addle-openers)
 
 # Overview
 
