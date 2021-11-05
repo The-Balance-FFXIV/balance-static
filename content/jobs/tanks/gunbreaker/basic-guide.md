@@ -7,37 +7,7 @@ changelog:
   - date: 2021-10-25T21:29:10.159Z
     message: Created article
 ---
-* [Introduction to Gunbreaker](#introduction-to-gunbreaker)
 
-  * [Author](#author)
-* [Skills and Abilities](#skills-and-abilities)
-
-  * [Offensive On Global Cool Down Abilities](#offensive-on-global-cool-down-abilities)
-  * [Offensive Off Global Cooldown Abilities](#offensive-off-global-cooldown-abilities)
-  * [Defensive Off Global Cool Down Abilities](#defensive-off-global-cool-down-abilities)
-  * [Utility Off Global Cool Down Abilities](#utility-off-global-cool-down-abilities)
-* [Combos](#combos)
-
-  * [What Does/Doesn’t Break Combos](#what-doesdoesnt-break-combos)
-  * [AoE or Single Target](#aoe-or-single-target)
-  * [No Mercy Windows](#no-mercy-windows)
-  * [Bloodfest](#bloodfest)
-  * [Cartridge Usage](#cartridge-usage)
-* [Openers](#openers)
-* [Rotation](#rotation)
-
-  * [Priority System](#priority-system)
-  * [GCD Uptime](#gcd-uptime)
-* [Stat Priorities](#stat-priorities)
-
-  * [Preferred Skill Speed](#preferred-skill-speed)
-  * [Meld Priorities](#meld-priorities)
-* [What’s Next After The Basics?](#whats-next-after-the-basics)
-
-  * [Raid Buffs](#raid-buffs)
-  * [Maximizing Skill Uses](#maximizing-skill-uses)
-  * [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
-  * [Special Thanks](#special-thanks)
 
 # Introduction to Gunbreaker
 
