@@ -10,12 +10,6 @@ changelog:
 
 My IGN is Caro Kann, and I’m a BLM main (now SCH (AND NOW AST)) and this is my guide for playing 5.X BLM. In this guide, I go over the basics of the BLM rotation and offer some potential optimizations.
 
-<div align="center">
-
-![](/img/explosion.gif)
-
-</div>
-
 # General Info
 
 - - -
