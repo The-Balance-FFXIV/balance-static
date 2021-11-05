@@ -7,55 +7,7 @@ changelog:
   - date: 2021-10-26T02:04:43.843Z
     message: Page created
 ---
-*By: Ringabel Dim of Excalibur*\
-Last Updated: August 12, 2020\
-(Current as of Patch 5.3)
-
-- - -
-
-# Table of Contents
-
-* [Purpose and Introduction](#purpose-and-introduction)
-* [Basic DNC Overview](#basic-dnc-overview)
-* [Range of Actions and Abilities](#range-of-actions-and-abilities)
-* [Understanding Standard Step / How to Do Dance Steps](#understanding-standard-step--how-to-do-dance-steps)
-* [Understanding Technical Step](#understanding-technical-step)
-* [Understanding Fan Dance (and weaving oGCDs in general)](#understanding-fan-dance-and-weaving-ogcds-in-general)
-* [Esprit Generation](#esprit-generation)
-
-  * [Improvisation](#improvisation)
-* [Understanding Flourish](#understanding-flourish)
-* [DNC “Rotation”](#dnc-rotation)
-* [General Single-Target GCD Priority List](#general-single-target-gcd-priority-list)
-* [AoE Rotation](#aoe-rotation)
-* [Opener](#opener)
-* [Technical Finish / Devilment Window Optimization](#technical-finish--devilment-window-optimization)
-
-  * [Conclusions from Technical Finish Rotation Analysis](#conclusions-from-technical-finish-rotation-analysis)
-* [Stat Tiering and Itemization for Dancer](#stat-tiering-and-itemization-for-dancer)
-
-  * [Weapon Damage and Dexterity](#weapon-damage-and-dexterity)
-  * [Crit vs Det/DH](#crit-vs-det--dh)
-  * [Determination vs DH](#determination-vs-dh)
-  * [Skill Speed and Why It Is Not Good on DNC](#skill-speed-and-why-it-is-not-good-on-dnc)
-* [Considerations for Selecting a Dance Partner](#considerations-for-selecting-a-dance-partner)
-
-  * [Dance Partner Priority List](#dance-partner-priority-list)
-  * [Dance Partner Swapping](#dance-partner-swapping)
-* [DNC Utility](#dnc-utility)
-
-  * [Shield Samba](#shield-samba)
-  * [Curing Waltz](#curing-waltz)
-  * [Improvisation](#improvisation-1)
-  * [Head Graze](#head-graze)
-  * [Arm’s Length](#arms-length)
-  * [Second Wind](#second-wind)
-  * [Peloton](#peloton)
-  * [En Avant](#en-avant)
-* [Common Abbreviations](#common-abbreviations)
-* [Glossary of Terms](#glossary-of-terms)
-* [About the Author](#about-the-author)
-* [Changelog](#changelog)
+*By: Ringabel Dim of Excalibur*
 
 - - -
 
@@ -874,13 +826,3 @@ Hello there! My name is Ringabel Dim of Excalibur. I have played FFXIV for six y
 * Ellunavi (Moderator on The Balance, and contributed much to DNC resources including his analysis and simulation tool)
 * Allagan Studies
 * My static, “Monkeys with Typewriters”, for letting me put up the axe and become a DNC main =)
-
-# Changelog
-
-* July 19, 2020
-
-  * Guide completed and published.
-* August 10, 2020
-
-  * Updated gearing section with link to new gearing guide for 5.3.
-  * Updated Dance Partner Priority list (changed 4. BLM + SMN to 4. BLM, 5. SMN in response to 5.3 SMN nerf).
