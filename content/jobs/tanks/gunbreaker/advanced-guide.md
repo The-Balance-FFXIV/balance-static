@@ -81,7 +81,3 @@ A: See this [section](#priority-system).
 
 Q: Do I hold Bloodfest for No Mercy?
 A: See this [section](#bloodfest).
-
-## Special Thanks
-
-This guide would not be possible without the advice and peer review of Hopps, Rin, Ari, Sila, and the other members of the Balance tank community who took the time to read this and give feedback.
