@@ -70,18 +70,25 @@ We should always aim to get the maximum number of uses of our skills as possible
 
 ## Frequently Asked Questions (FAQs)
 
-Q: What food and potions should I be using on GNB?
+**Q: What food and potions should I be using on GNB?** \
 A: Highest level strength potions available. Always use HQ. Food will vary from tier to tier based on what foods are available, but usually it will be Crit/Det food or Crit/Skill Speed food.
 
-Q: Should I be using X opener if Main Tanking (called Primary Tank in some regions)??
+**Q: Should I be using X opener if Main Tanking (called Primary Tank in some regions)??** \
 A: Being Main or Off Tank (Primary or Secondary Tank) does not affect what opener you use. You will almost always be using the standard raid buff opener \[see #gnb_resources] unless there is a fight specific opener for a fight. 
 
-Q: **Gnashing Fang** is ready earlier and earlier before **No Mercy**, why is this happening?
-A: See this [section](#priority-system). 
+**Q: *Gnashing Fang* is ready earlier and earlier before *No Mercy*, why is this happening?** \
+A: Previous GNB guides have thought of the rotation in terms of a 60s/three minute loop. In practice, the GNB rotation is much less a loop and more of a priority system. GNB is more accurately an “if X is ready, do X, else do Y” class. Therefore, after the opener the rotation priority is as follows (with one caveat, mentioned following the priority list):
 
-Q: Do I hold Bloodfest for No Mercy?
-A: See this [section](#bloodfest).
+1. Use **No Mercy** on cooldown.
+2. Use **Gnashing Fang**, **Sonic Break**, **Blasting Zone**, **Bow Shock**, **Bloodfest** on cooldown. 
+3. Spend all Cartridges inside **No Mercy** where possible. 
+4. Use **Rough Divide** twice inside **No Mercy** (unless a use is needed for uptime)
+5. Outside of **No Mercy**, only spend Cartridges on **Gnashing Fang** or if you would otherwise overcap on Cartridges.
+6. Use **Solid Barrel** combo on 1 target, **Demon Slaughter** combo on 2+ targets if nothing higher on the priority is available. 
 
-## Special Thanks
+* Since **Gnashing Fang** and **Sonic Break** have their cooldown reduced by skill speed, we need to delay them by one GCD every minute by adding a filler GCD. Otherwise they will end up being before No Mercy which is a significant loss. 
 
-This guide would not be possible without the advice and peer review of Hopps, Rin, Ari, Sila, and the other members of the Balance tank community who took the time to read this and give feedback.
+Because GNB is more of a priority system than a strict rotation, the rotation is very flexible and can be adjusted to the needs of the encounter and group composition. 
+
+**Q: Do I hold Bloodfest for No Mercy?** \
+A: **Bloodfest** should not be held for the next **No Mercy** window. Because it has a cooldown of 90s and **No Mercy** has a cooldown of 60s, **Bloodfest** will naturally be inside **No Mercy** every three minutes. As **Bloodfest**’s cooldown is getting close to finishing, spend Cartridges to avoid delaying **Bloodfest** or overcapping on Cartridges. 
