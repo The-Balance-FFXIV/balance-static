@@ -7,22 +7,8 @@ changelog:
   - date: 2021-10-26T01:47:44.292Z
     message: Added page
 ---
-Last updated: October 26, 2019
 
-1. [General Info](#general-info)
-2. [Openers](#openers)
-3. [Single Target Rotation](#single-target-rotation)
-4. [Recovery and Reopeners](#recovery-and-reopeners)
-5. [AoE Rotation (3+ Targets)](#aoe-rotation-3-targets)
-6. [Movement and Uptime](#movement-and-uptime)
-7. [Spell Speed Thresholds](#spell-speed-thresholds)
-8. [Leveling Rotations](#leveling-rotations)
-9. [Macros](#macros)
-10. [About Gear](#about-gear)
-11. [Appendix](#appendix)
-12. [Misc.](#misc)
-
-My IGN is Caro Kann, and I’m a BLM main (now SCH (AND NOW AST) :pepega:) and this is my guide for playing 5.X BLM. In this guide, I go over the basics of the BLM rotation and offer some potential optimizations.
+My IGN is Caro Kann, and I’m a BLM main (now SCH (AND NOW AST)) and this is my guide for playing 5.X BLM. In this guide, I go over the basics of the BLM rotation and offer some potential optimizations.
 
 <div align="center">
 
@@ -468,49 +454,6 @@ This can be used after the [No B4 Opener](#no-b4-opener) to save Xeno for later 
 ![](/img/ll_opti.png)
 
 Under Ley Lines, you may opt to skip B4 and F1 in your rotation. This requires ~1450 SpS to execute reliably, less with instants. This requires 2 mana ticks in UI3, adjust your Ice Phase accordingly.
-
-# Misc.
-
-- - -
-
-## Changelog
-
-July 14, 2019
-* Doc is done but I must hide my powers :dab:.
-
-July 15
-* Changed rotation figures to reflect filler and proc icons. Laqi-senpai and Furst-san helping edit now uwu.
-
-July 17
-* Added Appendix.
-* Fix ToC, condense Weaving, Clipping, Appendix sections, move footnotes into main text, misc.
-
-July 22
-* Added bold to empty GCD text.
-
-August 8
-* Added Ley Lines Optimizations to Appendix.
-
-August 29
-* Edited Appendix.
-
-September 13
-* Change Weaving and Clipping link.
-
-September 28
-* Remove text implying overwriting T3 for ice filler is good.
-
-October 8
-* Added period to the end of Xenoglossy paragraph.
-
-October 26
-* Remove line in AOE section saying to Hot Flare with Swift.
-
-April 5, 2020
-* Added a macro section
-
-April 15, 2020
-* Added a leveling rotations section
 
 ## About
 
