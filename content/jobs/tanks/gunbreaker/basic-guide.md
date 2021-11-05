@@ -8,7 +8,6 @@ changelog:
     message: Created article
 ---
 
-
 # Introduction to Gunbreaker
 
 Gunbreaker (GNB) is the fourth tank added to Final Fantasy XIV in the Shadowbringers expansion. It features high damage output and high casts-per-minute. GNB also features a strong defensive kit that, when used properly, can bring a lot of mitigation to the table. Let’s get started with a brief overview of the skills and abilities available to GNB.
