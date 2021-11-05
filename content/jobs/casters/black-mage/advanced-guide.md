@@ -7,18 +7,6 @@ changelog:
   - date: 2021-10-26T01:57:17.611Z
     message: Added page
 ---
-Last updated: September 19, 2021
-
-[Introduction](#introduction)
-
-[Basics](#basics)
-
-[Intermediate](#intermediate)
-
-[Advanced](#advanced)
-
-[Appendix](#appendix)
-
 ## Introduction
 
 - - -
@@ -503,39 +491,3 @@ Shoutout to the Black Mage channels on the [Balance Discord](https://discord.gg/
 Originally, I wasn’t planning on writing this document as it’s almost 5.55 and 6.0 changes are around the corner. If I happened to play Black Mage back in 5.3 as much as I do now and had the inspiration to dive deeply into the theorycrafting, I would have chosen to publish this document a year earlier. My initial intention with my previous Transpose lines document was simply to create a compilation of Transpose lines as such a thing was absent. However, as I dug through the different forms of rotations, I became intrigued with them and gradually discovered more things about them and about Black Mage. There is a sort of mathematical beauty in seeing an optimal BLM rotation with upgraded lines and perfect alignment of procs, ticks, and mechanics. The base or standard BLM rotation is extremely easy, but evidently, this is only the surface. Beneath the surface lies a hidden but vast arsenal of optimizations to increase BLM’s damage. Mastering the usage of this arsenal takes incredible skill, and it’s a great contrast to the simplistic nature of the base rotation. If BLM doesn’t get much changed in 6.0 and most of what is listed in this document remains relevant, then with updates, it will continue to serve its purpose. If BLM does get enough change to cause the obsolescence of Transpose and/or no B4 optimizations, then let this be a record of what was once possible. 
 
 ![](https://i.imgur.com/u7KQj3X.png)
-
-## Changelog
-
-- - -
-
-Early May 2021
-
-* Draft doc done
-
-May 2021
-
-* Various changes and updates. Formatting, additional info, error fixing, etc
-
-June 27 2021
-
-* Minor edits, links, etc
-
-August 15 2021
-
-* Added an additional opener sequence and opener sequence branching section
-
-August 24 2021
-
-* Minor phrasing edits
-
-August 29 2021
-
-* Drafted the suboptimal lines section
-
-September 11 2021
-
-* Double checked math, final edits and drafted the filler skip chances section
-
-September 12 2021
-
-* Added the standard w instant F3 refresh line
