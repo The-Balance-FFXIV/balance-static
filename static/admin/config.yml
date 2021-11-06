@@ -3794,6 +3794,211 @@ collections:
               - {label: "Patch", name: "patch", widget: "string"}
               - {label: "Description", name: "description", widget: "markdown"}
   ##
+  # Summoner guide
+  ##
+  - label: "Summoner guide"
+    name: "smn-guide"
+    files:
+      - label: "Landing page"
+        name: "landing"
+        file: "content/jobs/casters/summoner/_index.md"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+      - label: "Leveling Guide"
+        name: "leveling-guide"
+        file: "content/jobs/casters/summoner/leveling-guide.md"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
+      - label: "Basic guide"
+        name: "basic-guide"
+        file: "content/jobs/casters/summoner/basic-guide.md"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
+      - label: "Skills overview"
+        name: "skills-overview"
+        file: "content/jobs/casters/summoner/skills-overview.md"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
+      - label: "Openers and Rotation"
+        name: "openers"
+        file: "content/jobs/casters/summoner/openers.md"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
+      - label: "Frequently Asked Questions"
+        name: "faq"
+        file: "content/jobs/casters/summoner/faq.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "qna"}
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
+          - label: "FAQ Entry"
+            name: "qna"
+            widget: "list"
+            summary: "{{fields.question}}: {{fields.answer}}"
+            fields:
+              - {label: "Question", name: "question", widget: "string"}
+              - {label: "Answer", name: "answer", widget: "markdown"}
+      - label: "Advanced guide"
+        name: "advanced-guide"
+        file: "content/jobs/casters/summoner/advanced-guide.md"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
+      - label: "Best in Slot"
+        name: "bis"
+        file: "content/jobs/casters/summoner/best-in-slot.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "bis"}
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
+          - label: "Sets"
+            name: "bis"
+            widget: "list"
+            summary: "{{fields.name}}"
+            fields:
+              - {label: "Name", name: "name", widget: "string"}
+              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "spreadsheet", "sleepyshiba"], default: "etro"}
+              - {label: "Link", name: "link", widget: "string"}
+              - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
+      - label: "Stat Priority"
+        name: "stat-priority"
+        file: "content/jobs/casters/summoner/stat-priority.md"
+        fields:
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
+          - {label: "Priority", name: "priority", widget: "string"}
+      - label: "Job Changes"
+        name: "job-changes"
+        file: "content/jobs/casters/summoner/job-changes.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "changes"}
+          - label: "Change"
+            name: "changes"
+            widget: "list"
+            summary: "{{fields.patch}}"
+            fields:
+              - {label: "Patch", name: "patch", widget: "string"}
+              - {label: "Description", name: "description", widget: "markdown"}
+  ##
   # Red Mage guide
   ##
   - label: "Red Mage guide"
