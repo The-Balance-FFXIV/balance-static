@@ -5,10 +5,8 @@ theme = "glam"
 
 [params]
   maxLevel = 90
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
+  maxTierGearsets = 8
+  maxUltimateGearsets = 4
 
 [menu]
   [[menu.main]]
