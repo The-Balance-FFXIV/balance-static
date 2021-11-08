@@ -13,36 +13,6 @@ changelog:
 
 Hello, and welcome to Monkey, I am Perfect Balance and I am going to feed you the information you need to punch and kick at a decent level in the patch of our lord and saviour, 5.58. You can get in touch with me on Discord at wulf#8419, or on Twitter. at [@RiddleOfFire](https://twitter.com/RiddleOfFire). I'm not one for lengthy introductions, so let's get to feeding.
 
-# Contents
-
-* [Section 1 - Introduction](#Section-1---Introduction)
-
-  * [Acronyms and abbreviations](#Acronyms-and-abbreviations)
-  * [Complementary Materials](#Complementary-Materials)
-* [Section 2 - Basics](#Section-2---Basics)
-
-  * [Positionals](#Positionals)
-  * [Forms](#Forms)
-  * [Uptime](#Uptime)
-* [Section 3 - Building the Rotation](#Section-3---Building-the-Rotation)
-
-  * [Single target GCDs](#Single-target-GCDs)
-  * [Opening your inner Chakra](#Opening-your-inner-Chakra)
-  * [oGCDs](#oGCDs)
-  * [Openers](#Openers)
-
-    * [Weaving](#Weaving)
-    * [Double Dragon](#Double-Dragon)
-    * [Drifting 101](#Drifting-101)
-  * [Core gameplay loop](#Core-gameplay-loop)
-
-    * [Post-opener RoFs](#Post-opener-RoFs)
-  * [Utility/Situational Skills and How To Use Them](#Utility/Situational-Skills-and-How-To-Use-Them)
-  * [How to Effect Areas](#How-to-Effect-Areas)
-* [Section 4](#Section-4)
-
-  * [FAQ](#FAQ)
-
 # Section 1 - Introduction
 
 ## Acronyms and abbreviations
