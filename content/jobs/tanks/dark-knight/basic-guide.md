@@ -13,37 +13,6 @@ changelog:
 
 - - -
 
-* [Introduction](#introduction)
-* [Skills and Abilities Overview](#skills-and-abilities-overview)
-
-  * [Tank Stance](#tank-stance)
-  * [Single Target GCDs](#single-target-gcds)
-  * [Abilities (oGCDs)](#abilities-ogcds)
-
-    * [Buffs](#buffs)
-    * [Offensive](#offensive)
-    * [Defensive or Utility](#defensive-or-utility)
-  * [AoE](#aoe)
-  * [Other Actions (Infrequently Used)](#other-actions-infrequently-used)
-* [Opener](#opener)
-* [Rotation](#rotation)
-
-  * [Using Blood Weapon and Delirium](#using-blood-weapon-and-delirium)
-  * [Pooling Resources for Raid Buffs](#pooling-resources-for-raid-buffs)
-* [Helpful Macros](#helpful-macros)
-* [Stats and Itemization](#stats-and-itemization)
-
-  * [Choosing your skill speed](#choosing-your-skill-speed)
-* [Dungeons](#dungeon)
-* [Frequently Asked Questions](#frequently-asked-questions)
-* [Advanced Gameplay](#advanced-gameplay)
-
-  * [Optimizing Raid Buffs Further](#optimizing-raid-buffs)
-  * [Alternative Opener - 3rd GCD Delirium](#alternative-opener-3rd-gcd-delirium)
-  * [Fight-specific optimization](#fight-specific-optimisation)
-
-- - -
-
 # Introduction
 
 Dark Knight (DRK) is one of the four tanks available in Final Fantasy XIV: Shadowbringers. Its rotation features large bursts of damage, accompanied by spikes in APM and requires managing both MP and a Blood Gauge, putting many hard-hitting attacks into party raid buff windows. It also has access to one of the most powerful single-target mitigation abilities available in The Blackest Night (TBN).
