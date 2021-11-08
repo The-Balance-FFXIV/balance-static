@@ -9,7 +9,7 @@ changelog:
 ---
 Henlo team!
 
-We heard you needed some pointers on how to play WAR while levelling. The splits below are done based on what skills you unlock, and what you should take into account.
+We heard you needed some pointers on how to play WAR while leveling. The splits below are done based on what skills you unlock, and what you should take into account.
 
 * Do your job quests every five levels.
 
