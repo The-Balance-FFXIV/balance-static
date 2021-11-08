@@ -1,5 +1,4 @@
 ---
-authors:
-  - Balance SCH Staff
+title: Scholar
 ---
 \[Placeholder]
