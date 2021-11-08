@@ -36,43 +36,6 @@ Disclaimer
 
 - - -
 
-# Table of Contents
-
-* [Part 1: The Changes from Stormblood to Shadowbringers](#Part-1)
-* [Part 2: The Basics - General Tips and Tricks](#part-2)	
-
-  * [Offensive](#offensive)
-  * [Defensive](#defensive)
-* [Part 3: Map Your Cooldowns - Defensive utilization](#part-3)	
-
-  * [Dungeons and Grinding](#dungeons-and-grinding)
-  * [The Blackest Night](#the-blackest-night)	
-  * [Progression vs. Optimization](#progress-vs-optimization)	
-  * [Raiding - Cooldowns, Mitigation, and You](#raiding-cooldowns-mitigation-and-you)	
-  * [Assisting Your Team - Secondary Tank and Raid Mitigation](#assisting-your-team-secondary-tank-and-raid-mitigation)	
-  * [Cross Role Actions](#cross-role-actions)	
-* [Part 4: Offensive Optimization Tips](#part-4)	
-
-  * [Dungeons and Spamming](#dungeons-and-spamming)	
-  * [Edge of Shadow](#edge-of-shadow)	
-  * [Delirium and Bloodspiller](#delirium-and-bloodspiller)	
-  * [Living Shadow](#living-shadow)	
-  * [Raid Buffs and how to use them](#raid-buffs-and-how-to-use-them)	
-* [Part 5: Openers and Substats](#part-5)	
-
-  * [Openers](#openers)	
-  * [5.0 BiS](#5-0-bis)	
-  * [Stats, and Reasoning](#stats-and-reasoning)	
-* [Frequently Asked Questions, and Fight Optimization](#frequently-asked-questions-and-fight-optimization)	
-
-  * [F.A.Q.](#faq)	
-  * [Fight Specific Optimization and Tips](#fight-specific-optimization-and-tips)	
-* [Credits](#credits)	
-
-  * [Change/Editlog](#change-editlog)	
-
-- - -
-
 ![Part 1](https://cdn.discordapp.com/attachments/752334526449057853/884865369368588308/unknown.png)
 
 # Part 1: The Changes from Stormblood to Shadowbringers
@@ -539,11 +502,3 @@ Images obtained and used with permission from the following:
 <br>Udra Virias \[Faerie]
 <br>Tessan Twintails \[Phoenix]
 <br>Eleanor Havok \[Phoenix]
-
-## Change/Editlog
-
-* 11/09/2019 - E3S, E4S added. Additional information on Salted Earth added. 
-* 08/08/2019 - E1S updated, E2S added. BiS added.
-* 11/07/2019 - Primals added.
-* 06/07/2019 - Additional information added, public release to The Balance.
-* 27/06/2019 - Original release (Not public)
