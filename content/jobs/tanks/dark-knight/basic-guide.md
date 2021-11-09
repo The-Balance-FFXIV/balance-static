@@ -518,7 +518,7 @@ Upon delaying the second Blood Weapon, the standard rotation allows four Edges o
 
 However, since most parties also possess 2-minute raid buffs, it is beneficial to only spend three Edges of Shadow in odd-minute buff windows and use The Blackest Night to proc Dark Arts afterwards, which allows five Edges of Shadow to be used in the next even-minute buff window without overcapping MP.
 
-### List of raid buffs
+### List of Raid Buffs
 
 | Job | Icon                                                                                                                                                                                   | Name             | Effect                                               | Cooldown |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------- | -------- |
