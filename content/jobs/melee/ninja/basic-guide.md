@@ -12,7 +12,7 @@ changelog:
 
 Hello, and welcome to my guide on Final Fantasy XIV’s melee DPS job, Ninja, current for patch 5.55. This guide will aim to help you learn the job at a beginner level, as well as give you the tools and information needed to push the job to its limits in terms of damage and utility, and in turn bring the most to a raid group or dungeon group that you can.
 
-A little about me before we begin. I have been maining Ninja since just before patch 3.2. I started getting into speedruns on Ninja during the Creator Savage tier for Alexander during patch 3.4. Ever since then, I have been part of multiple different groups, both for speed killing and for world progression. I have gotten multiple rank 1 parses and speed kills with this job throughout the different tiers and have killed all the Ultimates within the patch that they were introduced in. I have also helped theorycraft and construct the rotations and openers for Stormblood Ninja, pre-5.1 Shadowbringers Ninja, and also the current post-5.1 Shadowbringers Ninja.
+A little about me before we begin. I have been maining Ninja since just before patch 3.2. I started getting into speedruns on Ninja during the Creator Savage tier for Alexander during patch 3.4. Ever since then, I have been part of multiple different groups, both for speed killing and for world progression. I have gotten multiple rank one parses and speed kills with this job throughout the different tiers and have killed all the Ultimates within the patch that they were introduced in. I have also helped theorycraft and construct the rotations and openers for Stormblood Ninja, pre-5.1 Shadowbringers Ninja, and also the current post-5.1 Shadowbringers Ninja.
 
 # What is Ninja?
 
@@ -28,7 +28,7 @@ The single biggest thing is that you always want to make sure you are using your
 
 At the base level, our rotation is really simple. Our first priority is making sure we always have Huton up and running. This means that at any point while Huton has less than 40 seconds left, we need to make sure we use Armor Crush to make sure it doesn't fall to zero, because this would require us to use one of our Mudra charges to cast Huton instead of a different ninjutsu, which is automatically 800+ potency lost. 
 
-While learning and before you get really comfortable, I would recommend playing safer and using Armor Crush at a higher amount of time left, but once more comfortable, you want to start optimizing around Armor Crush being used outside of raid buffs, since Aeolian Edge has more potency, and in turn benefits more from raid buffs. As for Shadow Fang, it will be used as one of first things, if not the very first thing you do inside every single Trick Attack. This should be your regular priority outside of your trick attack windows:
+While learning and before you get really comfortable, I would recommend playing safer and using Armor Crush at a higher amount of time left, but once more comfortable, you want to start optimizing around Armor Crush being used outside of raid buffs, since Aeolian Edge has more potency, and in turn benefits more from raid buffs. As for Shadow Fang, it will be used as one of first things, if not the very first thing you do inside every single Trick Attack. This should be your regular priority outside of your Trick Attack windows:
 
 1. Keep up Huton, which means use Armor Crush at some point after Huton falls below 40 seconds but before it falls below one second.
 2. Aeolian Edge. 
@@ -43,7 +43,7 @@ In a straight dummy fight, ninjutsu is really easy to use. In almost every case,
 
 ## oGCD Usage
 
-Every single one of your damage oGCDs have a cooldown that is a multiple of 60 seconds, except Bunshin. Bunshin, like mentioned in the Ninki usage section, is going to be used on cooldown always. Mug, because it does very little damage itself, is generally used before a trick attack window, so that you have more Ninki going into it, resulting in more Ninki ability usages inside Trick Attack. The rest of them will always be used on cooldown from when you use them in the opener, resulting in them always being inside Trick Attack naturally because of the aligning cooldown timings.
+Every single one of your damage oGCDs have a cooldown that is a multiple of 60 seconds, except Bunshin. Bunshin, like mentioned in the Ninki usage section, is going to be used on cooldown always. Mug, because it does very little damage itself, is generally used before a Trick Attack window, so that you have more Ninki going into it, resulting in more Ninki ability usages inside Trick Attack. The rest of your oGCDs will always be used on cooldown from when you use them in the opener, resulting in them always being inside Trick Attack naturally because of the aligning cooldown timings.
 
 ## Trick Attack Rotation
 
@@ -51,12 +51,12 @@ This is the biggest hurdle to learning Ninja. In a single target dummy fight, th
 
 ## Ten Chi Jin (TCJ) Usage
 
-There are currently two pretty commonly used TCJ variations and one relatively rare TCJ variation that we use at the high end. The two common ones are Fuma>Raiton>Suiton (TCJ Suiton) and Fuma>Katon>Doton (TCJ Doton). They are basically the highest single target damage variation and the highest AoE damage variation. TCJ Suiton is the highest single target with TCJ Doton being the highest AoE. TCJ will always be used inside of Trick Attack because of its high natural potency and need to use Suiton inside of trick for Meisui. 
+There are currently two pretty commonly used TCJ variations and one relatively rare TCJ variation that we use at the high end. The two common ones are Fuma > Raiton > Suiton (TCJ Suiton) and Fuma > Katon > Doton (TCJ Doton). They are basically the highest single target damage variation and the highest AoE damage variation. TCJ Suiton is the highest single target with TCJ Doton being the highest AoE. TCJ will always be used inside of Trick Attack because of its high natural potency and need to use Suiton inside of trick for Meisui. 
 
-* TCJ Suiton: Fuma (500)+Raiton (800)+Suiton (600)+Bhava (300) = 2200 potency
-* TCJ Doton: Fuma (500)+Katon (500)+Doton (900) = 1900 potency single target, 3300 potency two target. 
+* TCJ Suiton: Fuma (500) + Raiton (800) + Suiton (600)+Bhava (300) = 2200 potency.
+* TCJ Doton: Fuma (500) + Katon (500) + Doton (900) = 1900 potency single target, 3300 potency two target. 
 
-The only other variation that is seen sometimes is Fuma>Katon>Suiton. This is mostly used if the two targets will die very soon so Doton doesn't get full ticks, or if the bosses will be moving out of the Doton. 
+The only other variation that is seen sometimes is Fuma > Katon > Suiton. This is mostly used if the two targets will die very soon so Doton doesn't get full ticks, or if the bosses will be moving out of the Doton. 
 
 ## Multi-Target Rotation
 
@@ -122,7 +122,6 @@ Can use other pieces; needs the following all above ilvl 470:
 
 <!-- TODO: link proper image later, so its not discord hosted -->
 
-
 # Optimization
 
 Alright, now that you have a good idea of the basics of the job, how do you optimize? Well, the first thing is always making sure that you are doing all the things up above. This means getting everything you can inside Tricks, not losing GCDs to avoidable downtime or hesitation from not knowing what to do, aligning buffs with other players’ buffs when possible, and finding when there is unavoidable downtime and using your utility to minimize these things. Some of these things will be Ninja-specific, while others won't be.
@@ -144,7 +143,6 @@ Probably the most under-utilized optimization tool Ninja has is Shukuchi. Shukuc
 Other highly under-utilized tools for optimization and safety are your defensive cooldowns, these being Shade Shift, Second Wind and Bloodbath. There are times where an AoE will not give Vulnerability Up or Damage Down to you, or that they won't matter for whatever reason. Often, you can use these tools to then stay in the AoE for no loss. This should, of course, always be communicated with your healers beforehand, and maybe they will even be willing to give you a shield for it. 
 
 Finally, the increased movement speed. This is not necessarily noticeable by most players because it is quite small. But it is still something that you can use to gain an advantage. Especially when an AoE lines up very close to a GCD, you will sometimes have the ability to get that GCD off, whereas any other melee job wouldn't. It just means you have to test this stuff on Ninja specifically, not on the other melee jobs, because they aren't necessarily the same thresholds for when you can get another GCD and be safe. 
-
 
 ## Niche Optimizations
 
