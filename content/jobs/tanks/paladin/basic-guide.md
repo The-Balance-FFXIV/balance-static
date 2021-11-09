@@ -16,7 +16,7 @@ changelog:
 ## Buffs
 
 **Iron Will**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-ironwill.png)
+![](https://xivapi.com/i/002000/002505_hr1.png)
 
 Toggle • 10s cooldown after toggling on • no cooldown for toggling off
 
@@ -25,7 +25,7 @@ Increases enmity generation by 10x (Enmity is also known as aggro, hate, etc.)
 Keep this on in dungeons or as the main tank (in content with more than one tank)
 
 **Fight or Flight**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-fightorflight.png)
+![](https://xivapi.com/i/000000/000166_hr1.png)
 
 60s cooldown
 
@@ -34,7 +34,7 @@ Keep this on in dungeons or as the main tank (in content with more than one tank
 By using Fight or Flight late into the GCD (just before the next GCD), it is possible to fit 11 physical GCDs into the buff window.
 
 **Requiescat**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-requiescat.png)
+![](https://xivapi.com/i/002000/002513_hr1.png)
 
 60s cooldown
 
@@ -51,7 +51,7 @@ If used with at least 8,000 MP, provides a 12 second buff:
 ## Single Target GCDs
 
 **Goring Blade Combo**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-fastblade.png)![](https://xiv.sleepyshiba.com/pld/assets/skill-riotblade.png)![](https://xiv.sleepyshiba.com/pld/assets/skill-goringblade.png)
+![](https://xivapi.com/i/000000/000158_hr1.png)![](https://xivapi.com/i/000000/000156_hr1.png)![](https://xivapi.com/i/002000/002506_hr1.png)
 
 200 > 300 > 390 potency + 595 potency DoT over 21 seconds (physical)
 
@@ -60,7 +60,7 @@ The DoT portion snapshots buffs and debuffs when Goring Blade is cast
 +1000 MP from Riot Blade
 
 **Royal Authority Combo**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-fastblade.png)![](https://xiv.sleepyshiba.com/pld/assets/skill-riotblade.png)![](https://xiv.sleepyshiba.com/pld/assets/skill-goringblade.png)
+![](https://xivapi.com/i/000000/000158_hr1.png)![](https://xivapi.com/i/000000/000156_hr1.png)![](https://xivapi.com/i/002000/002507_hr1.png)
 
 200 > 300 > 550 potency (physical)
 
@@ -71,7 +71,7 @@ The DoT portion snapshots buffs and debuffs when Goring Blade is cast
 (Upgrades from Rage of Halone)
 
 **Atonement**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-atonement.png)
+![](https://xivapi.com/i/002000/002519_hr1.png)
 
 550 potency (physical)
 
@@ -80,14 +80,14 @@ Costs one Sword Oath
 +400 MP
 
 **Holy Spirit**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-holyspirit.png)
+![](https://xivapi.com/i/002000/002514_hr1.png)
 
 350 potency (magical) • 1.5s cast time
 
 Costs 2000 MP
 
 **Confiteor**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-confiteor.png)
+![](https://xivapi.com/i/002000/002518_hr1.png)
 
 800 potency (magical)
 
@@ -100,7 +100,7 @@ Requires and consumes Requiescat buff
 ## Offensive Abilities (oGCDs)
 
 **Spirits Within**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-spiritswithin.png)
+![](https://xivapi.com/i/002000/002503_hr1.png)
 
 100-370 potency depending on current HP (physical) • 30s cooldown
 
@@ -109,14 +109,14 @@ Scales linearly from 100 potency at 1 HP to 370 potency at max HP
 +500 MP
 
 **Circle of Scorn**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-circleofscorn.png)
+![](https://xivapi.com/i/000000/000161_hr1.png)
 
 120 potency + 175 potency DoT over 15 seconds (physical) • 25s cooldown
 
 AoE centered on self
 
 **Intervene**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-intervene.png)
+![](https://xivapi.com/i/002000/002520_hr1.png)
 
 200 potency (physical) • 2 charges
 
@@ -125,21 +125,21 @@ AoE centered on self
 ## Defensive and Utility Abilities
 
 **Rampart**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-rampart.png)
+![](https://xivapi.com/i/000000/000801_hr1.png)
 
 20% damage reduction
 
 20s duration • 90s cooldown
 
 **Sentinel**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-sentinel.png)
+![](https://xivapi.com/i/000000/000151_hr1.png)
 
 30% damage reduction
 
 15s duration • 120s cooldown
 
 **Sheltron**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-sheltron.png)
+![](https://xivapi.com/i/002000/002510_hr1.png)
 
 Guarantees blocks
 
@@ -150,7 +150,7 @@ Guarantees blocks
 Costs 50 Oath Gauge, which is generated at a rate of 50 in ~23s
 
 **Passage of Arms**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-passageofarms.png)
+![](https://xivapi.com/i/002000/002515_hr1.png)
 
 Channel for up to 18 seconds
 
@@ -163,21 +163,21 @@ Provides 15% damage reduction to party members behind you (lasts at least 5s, se
 Cancelled by taking any action (including turning your character)
 
 **Divine Veil**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-divineveil.png)
+![](https://xivapi.com/i/002000/002508_hr1.png)
 
 If you receive a GCD heal from anybody in the next 30s, party members near you get a shield for 10% of your HP
 
 Shield duration: 30s • 90s cooldown
 
 **Reprisal**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-reprisal.png)
+![](https://xivapi.com/i/000000/000806_hr1.png)
 
 10% damage down to nearby enemies
 
 10s duration • 60s cooldown
 
 **Intervention**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-intervention.png)
+![](https://xivapi.com/i/002000/002512_hr1.png)
 
 10% damage reduction
 
@@ -186,7 +186,7 @@ Shield duration: 30s • 90s cooldown
 If either Rampart or Sentinel are active on you *when you cast Intervention*, damage reduction is increased to 20% or 25% respectively, or 35% if both are active.
 
 **Cover**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-cover.png)
+![](https://xivapi.com/i/002000/002501_hr1.png)
 
 Tether to target party member as long as they are within 10y
 
@@ -197,12 +197,12 @@ Redirect most damage and knockbacks on the covered target to you (exceptions exi
 Uses your buffs/debuffs (except Hallowed Ground) to calculate damage and ignores the covered target's
 
 **Provoke**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-provoke.png)
+![](https://xivapi.com/i/000000/000803_hr1.png)
 
 Instantly gives you top enmity on the target with a significant enmity lead (this enmity lead is affected by Iron Will)
 
 **Shirk**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-shirk.png)
+![](https://xivapi.com/i/000000/000810_hr1.png)
 
 120s cooldown
 
@@ -211,7 +211,7 @@ Takes 25% of your enmity and gives it to target party member
 Affects everything on the enemy list
 
 **Arm's Length**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-armslength.png)
+![](https://xivapi.com/i/000000/000822_hr1.png)
 
 6s duration • 120s cooldown
 
@@ -222,7 +222,7 @@ Applies a 20% auto-attack and cast slow for 15s to enemies that attack you (resi
 ## AoE GCDs
 
 **Prominence Combo**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-totaleclipse.png)![](https://xiv.sleepyshiba.com/pld/assets/skill-prominence.png)
+![](https://xivapi.com/i/002000/002511_hr1.png)![](https://xivapi.com/i/002000/002516_hr1.png)
 
 120 > 220 potency (physical)
 
@@ -233,7 +233,7 @@ Circle AoE centered on self
 Replaces single target combos at 3+ enemies
 
 **Holy Circle**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-holycircle.png)
+![](https://xivapi.com/i/002000/002517_hr1.png)
 
 250 potency (magical)
 
@@ -246,7 +246,7 @@ Replaces Holy Spirit at 3+ enemies
 ### GCDs
 
 **Clemency**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-clemency.png)
+![](https://xivapi.com/i/002000/002509_hr1.png)
 
 1200 potency heal on target
 
@@ -255,7 +255,7 @@ Replaces Holy Spirit at 3+ enemies
 When used on another target, also heals you for half as much
 
 **Shield Lob**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-shieldlob.png)
+![](https://xivapi.com/i/000000/000164_hr1.png)
 
 120 potency (physical)
 
@@ -264,7 +264,7 @@ When used on another target, also heals you for half as much
 Ranged attack
 
 **Shield Bash**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-shieldbash.png)
+![](https://xivapi.com/i/000000/000154_hr1.png)
 
 110 potency (physical)
 
@@ -273,14 +273,14 @@ Ranged attack
 ### oGCDs
 
 **Low Blow**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-lowblow.png)
+![](https://xivapi.com/i/000000/000802_hr1.png)
 
 25s cooldown
 
 5s stun
 
 **Interject**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-interject.png)
+![](https://xivapi.com/i/000000/000808_hr1.png)
 
 30s cooldown
 
@@ -308,7 +308,7 @@ Goals for PLD openers include:
 
 > Text version: -2s prepull Holy Spirit > Fast Blade + Circle of Scorn + Fight or Flight > Riot Blade > Goring Blade > Fast Blade > Strength Tincture (halfway through GCD) > Riot Blade + Spirits Within + Intervene > Royal Authority + Intervene > Atonement > Atonement > Atonement > Fast Blade > Riot Blade + Circle of Scorn > Goring Blade + Requiescat > Holy Spirit > Holy Spirit > Holy Spirit > Holy Spirit > Confiteor + Spirits Within
 
-![](https://xiv.sleepyshiba.com/pld/assets/tincture.png)  
+![](https://xivapi.com/i/020000/020710_hr1.png)  
 The potion used is whatever the current tier's Strength potion is (as of the time of writing, and until Endwalker release, it is the Grade 4 Tincture of Strength HQ).
 
 **High Latency Adjustments:**\
@@ -319,8 +319,8 @@ At high latency (>100ms), it can be be beneficial to move around oGCDs (not Figh
 * We pull with a precast Holy Spirit as a medium-potency GCD that only costs half a GCD (due to precasting). Pulling with Shield Lob would be less potency and starts the GCD rolling later while pulling with Intervene moves an Intervene out of Fight or Flight.
 * Circle of Scorn is used immediately (before Fight or Flight) in the opener for two reasons:
 
-  * Its cooldown is equal to the duration of Fight or Flight, meaning that there will always be one CoS usage during FoF; the specific timing within the FoF duration is not important
-  * With a high DoT uptime, it is highly likely that any delays to CoS will result in a potency loss via lost DoT ticks by the end of the fight or phase
+  * Its cooldown is equal to the duration of Fight or Flight, meaning that there will always be one CoS usage during FoF; the specific timing within the FoF duration is not important.
+  * With a high DoT uptime, it is highly likely that any delays to CoS will result in a potency loss via lost DoT ticks by the end of the fight or phase.
 
 ---
 
@@ -328,10 +328,10 @@ At high latency (>100ms), it can be be beneficial to move around oGCDs (not Figh
 
 Goals for the basic rotation are to:
 
-* Maximize potency in personal buff windows (Fight or Flight and Requiescat)
-* Keep uptime on Goring Blade (apply Goring Blade every 8 or 9 GCDs)
-* Keep FoF and Req on cooldown as much as possible
-* Use all stacks of Sword Oath generated by using three Atonements per Royal combo
+* Maximize potency in personal buff windows (Fight or Flight and Requiescat).
+* Keep uptime on Goring Blade (apply Goring Blade every 8 or 9 GCDs).
+* Keep FoF and Req on cooldown as much as possible.
+* Use all stacks of Sword Oath generated by using three Atonements per Royal combo.
 
 ## The Loop
 
@@ -482,7 +482,7 @@ FFXIV macros do not queue, so hitting a macro while in animation lock from anoth
 
 # Stats and Itemization
 
-Before obtaining best-in-slot gear, pick gear and meld according to stat priority on each piece of gear. Best-in-slot sets can be found [here](https://discord.com/channels/277897135515762698/580300460179718146/847963997952016394).
+Before obtaining best-in-slot gear, pick gear and meld according to stat priority on each piece of gear. Best-in-slot sets can be found [in the Balance Discord](https://discord.com/channels/277897135515762698/580300460179718146/847963997952016394) or [the Best in Slot page] (https://guides.xivresources.com/jobs/tanks/paladin/best-in-slot/).
 
 Because of stat tiering, the [Tank Gear Calculator](https://bit.ly/TankDPSCalc520) gets the last word on any specific gearing questions.
 
@@ -590,19 +590,19 @@ No. More often than not, your healers are in control of your HP, and can sometim
 
 ## How do Cover, Divine Veil, and Passage of Arms work?
 
-![](https://xiv.sleepyshiba.com/pld/assets/skill-cover.png)  
+![](https://xivapi.com/i/002000/002501_hr1.png)  
 Covered damage calculations ignore the target completely, and are instead based on your own stats, shields, buffs, debuffs, and cooldowns as if you were the original target, with the exception of Hallowed Ground; Hallowed Ground has no effect on covered damage, but you are still immune to personal damage received by regular means while Hallowed Ground is active.
 
 Any debuffs or knockbacks that would have been inflicted on the covered target are often applied on you instead (if the attack hits the entire raid, whether you get two debuffs/knockbacks or one overwrites the other is entirely up to the mercy of the devs). Some things go through cover, and there is no hard and fast rule to determine what goes through cover. As a general rule, enrage-type damage will go through Cover.
 
-![](https://xiv.sleepyshiba.com/pld/assets/skill-divineveil.png)  
+![](https://xivapi.com/i/002000/002508_hr1.png)  
 Upon using Divine Veil, you get a buff that has no effect unless you receive a GCD heal within the next 30 seconds. All healing spells with an on-hit potency and fairy Embrace will proc Divine Veil, but oGCD healing abilities will not.
 
 Upon receiving a GCD heal, the initial buff on you is removed and all other party members within a 15y radius get a shield equal to 10% of your maximum HP for 30 seconds. This shield stacks with all other shields and will not be removed by additional healing, despite the misleading tooltip.
 
 Divine Veil does not affect the Paladin directly in any way.
 
-![](https://xiv.sleepyshiba.com/pld/assets/skill-passageofarms.png)  
+![](https://xivapi.com/i/002000/002515_hr1.png)  
 Upon using Passage of Arms, you get a buff that blocks all incoming attacks (similar to Sheltron). This buff ends instantly when you stop channeling the ability. Attacking, moving, or using another ability will interrupt the channel. Most of the time, this part of the ability can be ignored; there is little reason to use Passage instead of Sheltron, and can require tricky timing to cover the desired damage while maintaining GCD uptime.
 
 All other party members in an 8y cone behind you get a buff that reduces their damage taken by 15% for 5 seconds. This buff is applied even if the ability isn't channeled, but its hidden 5 second duration is refreshed whenever the server regen tick occurs while channeling (every three seconds on an independent background timer).
