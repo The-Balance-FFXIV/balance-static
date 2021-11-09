@@ -128,9 +128,9 @@ Your filler GCDs, which you press if you don’t need to use any other GCDs, are
 
 ## DoTs
 
-![caustic bite](https://xivapi.com/i/002000/002613.png)
-![iron jaws](https://xivapi.com/i/002000/002608.png)
-![stormbite](https://xivapi.com/i/002000/002614.png)
+![stormbite](https://xivapi.com/i/002000/002614_hr1.png)
+![caustic bite](https://xivapi.com/i/002000/002613_hr1.png)
+![iron jaws](https://xivapi.com/i/002000/002608_hr1.png)
 
 Just about everything else in Bard’s kit is built on top of your two damage over time skills.  These two are **Stormbite (SB)** and **Caustic Bite (CB)**.  Together, they contribute a major amount of Bard’s damage, in addition to unlocking the song procs (foreshadowing!)  Against a single target enemy, it’s almost always best to have both always up.  Most of the time, you will lead off on targets with SB into CB.
 
@@ -144,43 +144,43 @@ Note that all three of these skills can also proc Straight Shot Ready, so be wat
 
 Next, we get to the lifeblood of Bard -- songs. Bard has three songs, which have different effects (Repertoire) that have a 40% chance to trigger every time a DoT deals damage to a target. All DoTs in the game deal damage every three seconds, so you have two proc chances every three seconds on a single target. All song skills and their procs are oGCDs. 
 
-![WM icon](https://xivapi.com/i/002000/002607.png) ![Wanderer's Minuet](https://img.finalfantasyxiv.com/lds/promo/h/2/zIhfAHktEHJDMVyF6loNl0p7Kw.png)
+![WM icon](https://xivapi.com/i/002000/002607_hr1.png) ![Wanderer's Minuet](https://img.finalfantasyxiv.com/lds/promo/h/2/zIhfAHktEHJDMVyF6loNl0p7Kw.png)
   **Wanderer’s Minuet (WM)** is the strongest single-target song. It stores up to three procs, which can be expended on a powerful oGCD called **Pitch Perfect (PP)**. Use PP only at three stacks, unless your WM is about to run out. It plays a noise when it hits 3, so you don’t even have to watch it.
 
-![mb icon](https://xivapi.com/i/002000/002602.png) ![Mage's Ballad](https://img.finalfantasyxiv.com/lds/promo/h/C/6UAuuGF_bnfRwSST-dCBUBh2Zw.png)
+![mb icon](https://xivapi.com/i/002000/002602_hr1.png) ![Mage's Ballad](https://img.finalfantasyxiv.com/lds/promo/h/C/6UAuuGF_bnfRwSST-dCBUBh2Zw.png)
   **Mage’s Ballad (MB)** is the next-strongest. It doesn’t store anything. Instead, when a proc happens, the cooldown of **Bloodletter (BL)** is reset. It’s normal to mash BL during MB, but take care not to mash BL when your GCD is coming up, or you will clip!
 
-![AP icon](https://xivapi.com/i/002000/002603.png) ![army's paeon](https://img.finalfantasyxiv.com/lds/promo/h/0/QnR7fHYkAr_3AQFpbtW0dwhsJk.png)
+![AP icon](https://xivapi.com/i/002000/002603_hr1.png) ![army's paeon](https://img.finalfantasyxiv.com/lds/promo/h/0/QnR7fHYkAr_3AQFpbtW0dwhsJk.png)
   **Army’s Paeon (AP)** is the weakest. It stacks up to four, and as you accumulate stacks, your GCD time speeds up. It also grants a buff when you switch out of it, depending on how many stacks you had.
 
 The order of using songs is **WM for 30s → MB for 30s → AP for 20s** (cutting it short to begin the next WM). This is the **80s cycle**, and is the only part of Bard that you could really call a rotation. 
 **Note that starting from the 3rd WM, the cooldown reduction from AP will cause WM to come off cooldown earlier.  You should stay in AP for 20s.  If you use WM the moment it comes off cd, you will end up songless later.**  You should always have a song going, as they provide a lot of Bard’s damage.
 
-![empyreal arrow](https://xivapi.com/i/002000/002606.png)
+![empyreal arrow](https://xivapi.com/i/002000/002606_hr1.png)
   **Empyreal Arrow (EA)** grants a single Repertoire proc. It should be used more or less off cooldown. Note that it can cause clipping, because it may make your other oGCDs available. It’s better to delay EA by a GCD to avoid this, than to clip.
 
 ## Wanderer’s Minuet + Raging Strikes + Barrage Alignment
 
-![WM icon](https://xivapi.com/i/002000/002607.png) 
-![raging strikes](https://xivapi.com/i/000000/000352.png)
-![barrage](https://xivapi.com/i/000000/000353.png)
+![WM icon](https://xivapi.com/i/002000/002607_hr1.png) 
+![raging strikes](https://xivapi.com/i/000000/000352_hr1.png)
+![barrage](https://xivapi.com/i/000000/000353_hr1.png)
 
-**Barrage** is our most powerful single oGCD, transforming our next filler GCD into a triple-damage RA. **Raging Strikes (RS)** is our only self-buff. WM is our most powerful song. Conveniently, all three have a cooldown of 80 seconds, so we use them all together.
+**Barrage** is our most powerful single oGCD, transforming our next filler GCD into a triple-damage RA. **Raging Strikes (RS)** is our only self-buff. **WM** is our most powerful song. Conveniently, all three have a cooldown of 80 seconds, so we use them all together.
 
 When entering WM, you should also use RS (more advanced usage is discussed later in the guide). Use Barrage as soon as possible within this window, taking care not to use it when you already have Straight Shot Ready. Note that other single-target GCDs (not Apex Arrow) can consume Barrage, so you have to use RA as your next GCD.
 
 ## Other Offensive Skills
 
-![apex arrow](https://xivapi.com/i/002000/002619.png)
+![apex arrow](https://xivapi.com/i/002000/002619_hr1.png)\
   **Apex Arrow** should be used at 100 Soul Voice, or dumped if the fight is imminently ending and you have more than 45 Soul Voice. It will fill every 60 seconds on average if you keep your DoTs and songs up and use EA on cooldown.
 
-![bloodletter](https://xivapi.com/i/000000/000361.png)
+![bloodletter](https://xivapi.com/i/000000/000361_hr1.png)\
   **Bloodletter (BL)** should be used on cooldown when not in MB. Don’t use Rain of Death against a single target.
 
-![sidewinder](https://xivapi.com/i/002000/002610.png)
+![sidewinder](https://xivapi.com/i/002000/002610_hr1.png)\
   **Sidewinder (SW)** should be used on cooldown to maximize uses. Don’t use Shadowbite against a single target. If you have a good Ninja, it will naturally align with Trick Attack after the opener in this guide. Note that DoTs have a bit of a delay before they are counted by Sidewinder and Shadowbite, so wait a moment between using your second DoT and using Sidewinder/Shadowbite.
 
-![battle voice](https://xivapi.com/i/002000/002601.png)
+![battle voice](https://xivapi.com/i/002000/002601_hr1.png)\
   **Battle Voice (BV)** should be used on cooldown to maximize uses.
 
 - - -
@@ -232,12 +232,12 @@ In roughly decreasing order of importance:
 
 * RS should be used prepull (slightly after the 1 appears in the countdown), so that the SB can be used exactly when the countdown hits 0.
 * I recommend delaying the WM by a fraction of a second. At the end of the opener WM, if you have PP stacks and your DoT tick is slightly after the end of WM, you will likely be triple weaving BL PP MB in order to keep song and EA rolling as quickly as possible. You should test and make sure that you can actually pull off the PP in the middle there. If not (likely for ping reasons), you can instead do PP BL and then MB the next GCD. For those that can pull off the BL PP, it has a hidden benefit of letting you use up all your WM stacks even with a last-minute tick.
-* If you have a potion, use it before RS (a bit before the 2 appears in the countdown)
+* If you have a potion, use it before RS (a bit before the 2 appears in the countdown).
 * All Burst Shots are filler. If you get an RA proc, use RA instead of BS.
 * Do not use RA in between SB and CB if you get a RA proc from the SB. Just let it go.
 * If you have an RA proc when it’s time to IJ, you should still IJ. Let the RA proc go.
 * If you have an RA proc ready when you would be using Barrage, instead use RA → Barrage → SW → RA → BL → IJ → EA etc. Do not use a BS between the Barraged RA and IJ in this case.
-* Prioritize getting the 2nd BL on cooldown when it’s available (i.e. if you have a PP3 on that GCD, use the BL first unless you could lose a proc)
+* Prioritize getting the 2nd BL on cooldown when it’s available (i.e. if you have a PP3 on that GCD, use the BL first unless you could lose a proc).
 * Barrage timing can be flexibly moved earlier depending on party buffs. It’s important to catch all the raid buffs, but the earlier the better within that window. The timing in the opener is set to catch Brotherhood/Divi, but if you don’t have any buffs that go up that late, it can be done earlier with no harm. The IJ should not be moved earlier unless you have prepull cards, in which case you may need to do it before Barraging. The Barrage and IJ cannot be safely moved later without potentially causing the IJ to fall outside RS.
 * Sidewinder cooldown can be moved earlier for the same reasons.  Shift it around to accommodate PP3, BL, and Barrage usage.
 * Battle Voice cooldown is flexible if the party has classes that burst later.
@@ -248,7 +248,7 @@ In roughly decreasing order of importance:
 
 ### Opener comparison:
 
-* A prepull opener variant that is a tad weaker, but more compatible with higher SKS and more forgiving on ping.
+* A prepull opener variant that is a tad weaker, but more compatible with higher SkS and more forgiving on ping.
 * More familiar to those who played in Stormblood.
 
 **Things to note:**
@@ -267,25 +267,25 @@ In roughly decreasing order of importance:
 
 # Utility Cooldowns
 
-![battle voice](https://xivapi.com/i/002000/002601.png)
+![battle voice](https://xivapi.com/i/002000/002601_hr1.png)\
   **Battle Voice**: Unless otherwise mapped out, it’s best to use this on cooldown and together with the final burst.
 
-![troub](https://xivapi.com/i/002000/002612.png)
+![troub](https://xivapi.com/i/002000/002612_hr1.png)\
   **Troubadour**: As of Shadowbringers, Troubadour no longer requires any particular song. It always gives 10% dmg reduction, but only for 15s. Due to its long cooldown (120s) and very powerful effect, it’s useful to map out this skill with your healers. Ask them where they want it.
 
-![NM](https://xivapi.com/i/002000/002615.png)
-  **Nature’s Minne**: As of Shadowbringers, Minne now works on oGCD healing in addition to GCD healing. It’s still excellent for powering up deploy Adloquium, but can also be used in a pinch when a tank is about to eat several repeated hits.
+![NM](https://xivapi.com/i/002000/002615_hr1.png)\
+  **Nature’s Minne**: As of Shadowbringers, Minne now works on oGCD healing in addition to GCD healing. It’s still excellent for powering up Deploy + Adloquium, but can also be used in a pinch when a tank is about to eat several repeated hits.
 
-![SW](https://xivapi.com/i/000000/000821.png)
+![SW](https://xivapi.com/i/000000/000821_hr1.png)\
   **Second Wind**: Its heal amount is thankfully not based on our MND, so it actually heals for a decent amount. Great for healing up while doing long-range baited mechanics (e.g. Liquid Hell in Twintania).
 
-![AL](https://xivapi.com/i/000000/000822.png)
+![AL](https://xivapi.com/i/000000/000822_hr1.png)\
   **Arm’s Length**: It has a bit of an activation delay, so be sure to use it slightly before the knockback hits. Doesn’t work on all knockbacks.
 
-![WP](https://xivapi.com/i/002000/002609.png)
+![WP](https://xivapi.com/i/002000/002609_hr1.png)\
   **Warden’s Paean**: Debuffs that can be cleansed by Warden’s Paean have a glowing blue bar above the debuff icon. They’re not very common in higher level content, but keep an eye out for them. You should be first priority on cleansing debuffs because Warden’s is free to weave, compared to Esuna which is a GCD.
 
-![hg](https://xivapi.com/i/000000/000848.png)
+![hg](https://xivapi.com/i/000000/000848_hr1.png)\
   **Head Graze**: Anything that can be interrupted will have a pulsing red castbar.
 
 - - -
@@ -294,7 +294,7 @@ In roughly decreasing order of importance:
 
 ## RS Alignment Choice
 
-![raging strikes](https://xivapi.com/i/000000/000352.png)
+![raging strikes](https://xivapi.com/i/000000/000352_hr1.png)
 
 After the opener (i.e. starting from the second RS), you can elect to either align RS with the beginning of WM or the end. The tradeoff is that WM tends to have back-loaded damage, but Army’s Muse makes it easier to deal nine GCDs under RS.
 
@@ -308,7 +308,7 @@ Late RS also has some less obvious tradeoffs with respect to buff alignment. It 
 
 ## Iron Jaws
 
-![ij](https://xivapi.com/i/002000/002608.png)
+![ij](https://xivapi.com/i/002000/002608_hr1.png)
 
 With the added chance to proc RA, there is now a choice of when to use IJ. If you plan to always use it on the last possible GCD, you risk wasting a RA proc chance. If you plan to use it on the second-to-last GCD, you end up using more IJs over the course of the fight. **It turns out these two plans are almost exactly equal in DPS in a vacuum, but using IJ as late as possible keeps better alignment with party buffs.** So, if you know that an early snap is coming in the future, you should plan to IJ on the second-to-last GCD of DoTs, and if you want to extend DoTs as much as possible to hit a buff window, you should plan to IJ on the last GCD of DoTs.
 
@@ -320,25 +320,25 @@ Deciding whether to snap buffs is a tradeoff between buffing DoTs, which tick fo
   * If you DO have an RA proc (IJ replacing a RA): **don’t early snap 5% of buffs, but 10% of buffs can be early snapped by about 10 seconds.**
 * If your DoTs don’t already have any buffs on them, you should almost always snap 10% damage buffs or pairs of damage buffs once.  Do this naturally (as your DoTs are falling off) or as the buffs are falling off.
 * Even if your DoTs have ~5s left on them when RS goes up, double snapping RS is basically not a gain, partly because you’d be expending two RS-buffed GCD slots that could be BS or even RA. Even if this only causes an extra half an IJ over the fight, it’s about even with adding 6 ticks of RS (compared to single snapping RS). If you have a natural IJ (from DoTs ending) right after RS goes up, and there are no other buffs at all, it’s a small gain to snap RS again just before it goes down.
-* Crit buffs can be approximated as being about .5% damage for every 1% crit chance.  So Chain and Litany are roughly as good as 5% damage buffs.
+* Crit buffs can be approximated as being about .5% damage for every 1% Crit chance.  So Chain and Litany are roughly as good as 5% damage buffs.
 
 As a minor note, the devs seem to like putting 25s+ downtimes in fights. In such cases, if you have an RA proc going into the last GCD before downtime, it’s better to RA and then manually reapply DoTs after downtime. Otherwise, IJ on both ends.
 
 ## Procs in WM
 
-![wm](https://xivapi.com/i/002000/002607.png)
-![pp](https://xivapi.com/i/002000/002611.png)
+![wm](https://xivapi.com/i/002000/002607_hr1.png)
+![pp](https://xivapi.com/i/002000/002611_hr1.png)
 
 Unlike in Stormblood, there’s no way to raise the proc chance above 60%, so in general you should use Pitch Perfect at three stacks. Like in SB, **use PP2 early if you know you have an EA coming up next GCD concurrently with the DoT tick, or if the song is imminently ending.** This is especially important if your 2nd EA in WM is in the last few seconds, so you have PP available to make use of the guaranteed proc. If you are using EA very close to on cooldown, this will happen during your second WM! Be ready to use a PP2 at ~5s left on that second WM.
 
-Note that because EA should be used on cooldown in every song, the EA timer will not be at the same time during every WM. If you would use an EA <1s before transitioning from AP to WM, instead hold it for after the WM. This is to prevent you from getting a guaranteed proc and being unable to use it at the end of the song.
+Note that because EA should be used on cooldown in every song, the EA timer will not be at the same time during every WM. If you would use an EA < 1s before transitioning from AP to WM, instead hold it for after the WM. This is to prevent you from getting a guaranteed proc and being unable to use it at the end of the song.
 
 There’s no longer a need to triple weave Barrage EA PP. Avoid that triple weave by delaying EA in general, or delaying Barrage if you’re near the end of the fight (it risks delaying twice and messing up alignment due to the chance of a RA proc).
 
 ## Procs in MB
 
-![mb](https://xivapi.com/i/002000/002602.png)
-![bloodletter](https://xivapi.com/i/000000/000361.png)
+![mb](https://xivapi.com/i/002000/002602_hr1.png)
+![bloodletter](https://xivapi.com/i/000000/000361_hr1.png)
 
 MB is a delicate dance between not losing procs, using EA on cooldown, and not clipping. At the very least, **it’s important to understand how the DoT timer works relative to the GCD timer.**
 
@@ -350,9 +350,9 @@ Using EA in MB can be tricky if you want to avoid losing procs. Here’s where i
 
 ## Song Transitions
 
-![WM icon](https://xivapi.com/i/002000/002607.png) 
-![mb icon](https://xivapi.com/i/002000/002602.png)
-![AP icon](https://xivapi.com/i/002000/002603.png)
+![WM icon](https://xivapi.com/i/002000/002607_hr1.png) 
+![mb icon](https://xivapi.com/i/002000/002602_hr1.png)
+![AP icon](https://xivapi.com/i/002000/002603_hr1.png)
 
 Due to the addition of Soul Voice, it’s more important than ever to minimize the amount of songless time, and avoid letting DoT ticks fall in songless time.
 
@@ -374,7 +374,7 @@ To reiterate from above, if you have an EA very close to this transition, save i
 
 ## Extending AP
 
-![AP icon](https://xivapi.com/i/002000/002603.png)
+![AP icon](https://xivapi.com/i/002000/002603_hr1.png)
 
 This overlaps somewhat with the [Fight Mapping](#fight-mapping) section, but since this is the most common way to manipulate the song rotation, I wanted to spend some extra time on it.
 
@@ -393,7 +393,7 @@ Note that if you planned your song alignment around raid buffs, extending AP cou
 
 ## Refulgent Arrow Procs
 
-![ra](https://xivapi.com/i/002000/002616.png)
+![ra](https://xivapi.com/i/002000/002616_hr1.png)
 
 Don’t hold RA procs for even a single GCD to catch upcoming buffs. The difference between a buffed RA and a buffed BS is too small. 
 
@@ -403,7 +403,7 @@ While manually applying DoTs, if you get a RA proc from CB, save it and use it a
 
 ## Apex Arrow
 
-![aa](https://xivapi.com/i/002000/002619.png)
+![aa](https://xivapi.com/i/002000/002619_hr1.png)
 
 Apex Arrow charges to full roughly every 60s (20 DoT ticks, average 4 gauge per DoT tick from both DoTs combined, plus 20 gauge from 4 EA).
 
@@ -432,13 +432,13 @@ Mapping a fight involves coming up with song timings and IJ timings to fit downt
 
 Against 2 targets, the relative song strength is WM > MB > AP. Against 3-6 targets, the song strength order is MB > WM > AP. Against >6 targets, the song strength order is MB > AP > WM. This isn’t necessarily the order you should use your songs in dungeons, it depends on the pull sizes.
 
-In dungeons, in MB, double DoT just about everything that will live for nearly the full DoT duration. Mix in Apex Arrows as gauge gets above 90 in pulls of about 3 mobs, above 85 in larger pulls. Once enemies are too low to get most (more than ~24s) of a DoT duration, switch to QN as filler.
+In dungeons, in MB, double DoT just about everything that will live for nearly the full DoT duration. Mix in Apex Arrows as gauge gets above 90 in pulls of about three mobs, above 85 in larger pulls. Once enemies are too low to get most (more than ~24s) of a DoT duration, switch to QN as filler.
 
-In AP/WM, double DoT pulls of up to 6 mobs. With larger pulls, apply just a few DoTs instead (including double DoTs on the center mob for Shadowbite) and go straight to spamming QN.
+In AP/WM, double DoT pulls of up to six mobs. With larger pulls, apply just a few DoTs instead (including double DoTs on the center mob for Shadowbite) and go straight to spamming QN.
 
 If you’re doing a multi-pack pull, it’s best to double DoT everything while walking. Make sure you have a song up while this is happening, preferably AP or WM, so you can generate Soul Voice.
 
-Shadowbite is a potency gain starting at 2 targets.  Don’t forget that there’s a bit of a delay after you use your second DoT before it gets counted by Shadowbite, so wait a moment before using it.
+Shadowbite is a potency gain starting at two targets.  Don’t forget that there’s a bit of a delay after you use your second DoT before it gets counted by Shadowbite, so wait a moment before using it.
 
 - - -
 
@@ -450,48 +450,48 @@ Tooltips here are rewritten from the official translations to clarify some porti
 
 |                                                         |                      |                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![bs](https://xivapi.com/i/002000/002618.png)           | Burst Shot (BS)      | Delivers an attack with a potency of 250.   Additional Effect: 35% chance of becoming Straight Shot Ready for 10s.                                                                                                                                                |
-| ![ra](https://xivapi.com/i/002000/002616.png)           | Refulgent Arrow (RA) | Delivers an attack with a potency of 340.   Can only be executed when Straight Shot Ready.                                                                                                                                                                        |
-| ![stormbite](https://xivapi.com/i/002000/002614.png)    | Stormbite (SB)       | Deals wind damage with a potency of 100.   Additional Effect: Deals wind damage over time, with a potency of 50 every 3s for 30s.   Additional Effect: 35% chance of becoming Straight Shot Ready for 10s.                                                        |
-| ![caustic bite](https://xivapi.com/i/002000/002613.png) | Caustic Bite (CB)    | Delivers an attack with a potency of 150.   Additional Effect: Deals damage over time, with a potency of 40 every 3s for 30s.   Additional Effect: 35% chance of becoming Straight Shot Ready for 10s.                                                            |
-| ![iron jaws](https://xivapi.com/i/002000/002608.png)    | Iron Jaws (IJ)       | Delivers an attack with a potency of 100.   Additional Effect: If the target is suffering from a Caustic Bite or Stormbite effect inflicted by you, the effect duration is reset to 30s.   Additional Effect: 35% chance of becoming Straight Shot Ready for 10s. |
-| ![apex arrow](https://xivapi.com/i/002000/002619.png)   | Apex Arrow           | Consumes all Soul Voice to deliver an attack with a potency of 6 per Soul Voice expended (up to 600) to all enemies in a straight line before you. 25y range.   Minimum Soul Voice Gauge Cost: 20.                                                                |
-| ![QN](https://xivapi.com/i/000000/000360.png)           | Quick Nock (QN)      | Delivers an attack with a potency of 150 to all enemies in a cone before you.   Additional Effect: 30% chance the recast timer for Bloodletter and Rain of Death will be reset                                                                                    |
+| ![bs](https://xivapi.com/i/002000/002618_hr1.png)           | Burst Shot (BS)      | Delivers an attack with a potency of 250.   Additional Effect: 35% chance of becoming Straight Shot Ready for 10s.                                                                                                                                                |
+| ![ra](https://xivapi.com/i/002000/002616_hr1.png)           | Refulgent Arrow (RA) | Delivers an attack with a potency of 340.   Can only be executed when Straight Shot Ready.                                                                                                                                                                        |
+| ![stormbite](https://xivapi.com/i/002000/002614_hr1.png)    | Stormbite (SB)       | Deals wind damage with a potency of 100.   Additional Effect: Deals wind damage over time, with a potency of 50 every 3s for 30s.   Additional Effect: 35% chance of becoming Straight Shot Ready for 10s.                                                        |
+| ![caustic bite](https://xivapi.com/i/002000/002613_hr1.png) | Caustic Bite (CB)    | Delivers an attack with a potency of 150.   Additional Effect: Deals damage over time, with a potency of 40 every 3s for 30s.   Additional Effect: 35% chance of becoming Straight Shot Ready for 10s.                                                            |
+| ![iron jaws](https://xivapi.com/i/002000/002608_hr1.png)    | Iron Jaws (IJ)       | Delivers an attack with a potency of 100.   Additional Effect: If the target is suffering from a Caustic Bite or Stormbite effect inflicted by you, the effect duration is reset to 30s.   Additional Effect: 35% chance of becoming Straight Shot Ready for 10s. |
+| ![apex arrow](https://xivapi.com/i/002000/002619_hr1.png)   | Apex Arrow           | Consumes all Soul Voice to deliver an attack with a potency of 6 per Soul Voice expended (up to 600) to all enemies in a straight line before you. 25y range.   Minimum Soul Voice Gauge Cost: 20.                                                                |
+| ![QN](https://xivapi.com/i/000000/000360_hr1.png)           | Quick Nock (QN)      | Delivers an attack with a potency of 150 to all enemies in a cone before you.   Additional Effect: 30% chance the recast timer for Bloodletter and Rain of Death will be reset                                                                                    |
 
 ### Songs + Repertoire
 
 |                                                           |                        |                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | --------------------------------------------------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![WM icon](https://xivapi.com/i/002000/002607.png)        | Wanderer’s Minuet (WM) | Deals unaspected damage with a potency of 100.   Additional Effect: For the next 30s or until another song is used, 40% chance to grant Repertoire when damage over time is dealt by Caustic Bite or Stormbite.  Repertoire Effect: Allows execution of Pitch Perfect.  Can be stacked up to 3 times.  Additional Effect: Nearby party members get +2% to critical strike chance.  Range: 30y  Recast time: 80s      |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ![pp](https://xivapi.com/i/002000/002611.png)             | Pitch Perfect (PP)     | Delivers an attack with a potency of 100 when Repertoire stack is 1, 250 when Repertoire stack is 2, and 450 when Repertoire stack is 3.   Can only be executed when the Wanderer's Minuet is active. Consumes all Repertoire.   Recast time: 3s                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ![mb icon](https://xivapi.com/i/002000/002602.png)        | Mage’s Ballad (MB)     | Deals unaspected damage with a potency of 100.   Additional Effect: For the next 30s or until another song is used, 40% chance to grant Repertoire when damage over time is dealt by Caustic Bite or Stormbite.  Repertoire Effect: Resets the recast timer of Bloodletter and Rain of Death.  Additional Effect: Nearby party members deal 1% increased damage.  Range: 30y  Recast time: 80s                       |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ![bloodletter](https://xivapi.com/i/000000/000361.png)    | Bloodletter (BL)       | Delivers an attack with a potency of 150.  Shares a recast timer with Rain of Death.  Recast time: 15s                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ![ROD](https://xivapi.com/i/002000/002605.png)            | Rain of Death (RoD)    | Delivers an attack with a potency of 130 to target and all enemies nearby it.  Shares a recast timer with Bloodletter.  Recast time: 15s.                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ![AP icon](https://xivapi.com/i/002000/002603.png)        | Army’s Paeon (AP)      | Deals unaspected damage with a potency of 100.                                                                                                                                                                                                                                                                                                                                                                       | Additional Effect: For the next 30s or until another song is used, 40% chance to grant Repertoire when damage over time is dealt by Caustic Bite or Stormbite.  Repertoire Effect: Reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay by 4%  Can be stacked up to 4 times.  Additional Effect: Nearby party members get +3% to direct hit chance.  Range: 30y  Recast time: 80s |
-| ![EAP](https://xivapi.com/i/005000/005314.png)            | Enhanced Army’s Paeon  | During Army’s Paeon or within 30 seconds of Army’s Paeon ending, using the Wanderer’s Minuet or Mage’s Ballad will grant Army’s Muse for 10s. Army’s Muse reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay, depending on the number of Repertoire stacks in the previous Army’s Paeon.  1 Repertoire: 1%  2 Repertoire: 2%  3 Repertoire: 4%  4 Repertoire: 12% |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ![empyreal arrow](https://xivapi.com/i/002000/002606.png) | Empyreal Arrow (EA)    | Delivers an attack with a potency of 230. Grants the effect of Repertoire if used during the Wanderer’s Minuet, Mage’s Ballad, or Army’s Paeon.  Recast time: 15s                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ![WM icon](https://xivapi.com/i/002000/002607_hr1.png)        | Wanderer’s Minuet (WM) | Deals unaspected damage with a potency of 100.   Additional Effect: For the next 30s or until another song is used, 40% chance to grant Repertoire when damage over time is dealt by Caustic Bite or Stormbite.  Repertoire Effect: Allows execution of Pitch Perfect.  Can be stacked up to 3 times.  Additional Effect: Nearby party members get +2% to critical strike chance.  Range: 30y  Recast time: 80s      |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ![pp](https://xivapi.com/i/002000/002611_hr1.png)             | Pitch Perfect (PP)     | Delivers an attack with a potency of 100 when Repertoire stack is 1, 250 when Repertoire stack is 2, and 450 when Repertoire stack is 3.   Can only be executed when the Wanderer's Minuet is active. Consumes all Repertoire.   Recast time: 3s                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ![mb icon](https://xivapi.com/i/002000/002602_hr1.png)        | Mage’s Ballad (MB)     | Deals unaspected damage with a potency of 100.   Additional Effect: For the next 30s or until another song is used, 40% chance to grant Repertoire when damage over time is dealt by Caustic Bite or Stormbite.  Repertoire Effect: Resets the recast timer of Bloodletter and Rain of Death.  Additional Effect: Nearby party members deal 1% increased damage.  Range: 30y  Recast time: 80s                       |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ![bloodletter](https://xivapi.com/i/000000/000361_hr1.png)    | Bloodletter (BL)       | Delivers an attack with a potency of 150.  Shares a recast timer with Rain of Death.  Recast time: 15s                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ![ROD](https://xivapi.com/i/002000/002605_hr1.png)            | Rain of Death (RoD)    | Delivers an attack with a potency of 130 to target and all enemies nearby it.  Shares a recast timer with Bloodletter.  Recast time: 15s.                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ![AP icon](https://xivapi.com/i/002000/002603_hr1.png)        | Army’s Paeon (AP)      | Deals unaspected damage with a potency of 100.                                                                                                                                                                                                                                                                                                                                                                       | Additional Effect: For the next 30s or until another song is used, 40% chance to grant Repertoire when damage over time is dealt by Caustic Bite or Stormbite.  Repertoire Effect: Reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay by 4%  Can be stacked up to 4 times.  Additional Effect: Nearby party members get +3% to direct hit chance.  Range: 30y  Recast time: 80s |
+| ![EAP](https://xivapi.com/i/005000/005314_hr1.png)            | Enhanced Army’s Paeon  | During Army’s Paeon or within 30 seconds of Army’s Paeon ending, using the Wanderer’s Minuet or Mage’s Ballad will grant Army’s Muse for 10s. Army’s Muse reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay, depending on the number of Repertoire stacks in the previous Army’s Paeon.  1 Repertoire: 1%  2 Repertoire: 2%  3 Repertoire: 4%  4 Repertoire: 12% |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ![empyreal arrow](https://xivapi.com/i/002000/002606_hr1.png) | Empyreal Arrow (EA)    | Delivers an attack with a potency of 230. Grants the effect of Repertoire if used during the Wanderer’s Minuet, Mage’s Ballad, or Army’s Paeon.  Recast time: 15s                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 ### Other oGCDs
 
 |                                                           |                     |                                                                                                                                                                                                                                                                                                                                                  |
 | --------------------------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![barrage](https://xivapi.com/i/000000/000353.png)        | Barrage             | Triples the number of strikes for the next single-target weaponskill used within 10s. Additional effects are not tripled.  Additional Effect: Grants Straight Shot Ready for 10s.  Recast time: 80s                                                                                                                                              |
-| ![raging strikes](https://xivapi.com/i/000000/000352.png) | Raging Strikes (RS) | Increases damage dealt by 10% for 20s.  Recast time: 80s                                                                                                                                                                                                                                                                                         |
-| ![sidewinder](https://xivapi.com/i/002000/002610.png)     | Sidewinder (SW)     | Delivers an attack with a potency of 100.  Additional Effect: If the target is suffering from a Caustic Bite or Stormbite effect inflicted by you, Sidewinder potency is increased to 200 for one effect, or 350 for both.  Shares a recast timer with Shadowbite.  Recast time: 60s                                                             |
-| ![SHADBITE](https://xivapi.com/i/002000/002617.png)       | Shadowbite          | Delivers an attack with a potency of 100 to target and all enemies nearby it.   Additional Effect: If the primary target is suffering from a Caustic Bite or Stormbite effect inflicted by you, Shadowbite potency on all targets is increased to 160 for one effect, or 220 for both.  Shares a recast timer with Sidewinder.  Recast time: 60s |
+| ![barrage](https://xivapi.com/i/000000/000353_hr1.png)        | Barrage             | Triples the number of strikes for the next single-target weaponskill used within 10s. Additional effects are not tripled.  Additional Effect: Grants Straight Shot Ready for 10s.  Recast time: 80s                                                                                                                                              |
+| ![raging strikes](https://xivapi.com/i/000000/000352_hr1.png) | Raging Strikes (RS) | Increases damage dealt by 10% for 20s.  Recast time: 80s                                                                                                                                                                                                                                                                                         |
+| ![sidewinder](https://xivapi.com/i/002000/002610_hr1.png)     | Sidewinder (SW)     | Delivers an attack with a potency of 100.  Additional Effect: If the target is suffering from a Caustic Bite or Stormbite effect inflicted by you, Sidewinder potency is increased to 200 for one effect, or 350 for both.  Shares a recast timer with Shadowbite.  Recast time: 60s                                                             |
+| ![SHADBITE](https://xivapi.com/i/002000/002617_hr1.png)       | Shadowbite          | Delivers an attack with a potency of 100 to target and all enemies nearby it.   Additional Effect: If the primary target is suffering from a Caustic Bite or Stormbite effect inflicted by you, Shadowbite potency on all targets is increased to 160 for one effect, or 220 for both.  Shares a recast timer with Sidewinder.  Recast time: 60s |
 
 ### Utility
 
 |                                                         |                    |                                                                                                                                                                                                                     |
 | ------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![battle voice](https://xivapi.com/i/002000/002601.png) | Battle Voice (BV)  | Increases direct hit rate of all nearby party members by 20% for 20s. Does not affect the user.   Can only be executed while singing Mage's Ballad, Army's Paeon, or the Wanderer's Minuet.  Recast time: 180s      |
-| ![troub](https://xivapi.com/i/002000/002612.png)        | Troubadour (Troub) | Reduces damage taken by self and nearby party members by 10% for 15s.  Effect cannot be stacked with Machinist's Tactician or Dancer's Shield Samba.  Recast time: 120s                                             |
-| ![NM](https://xivapi.com/i/002000/002615.png)           | Nature’s Minne     | Increases HP recovery via healing actions for self or the target party member by 20% for 15s.  Recast time: 90s                                                                                                     |
-| ![SW](https://xivapi.com/i/000000/000821.png)           | Second Wind        | Instantly restores own HP.  Cure Potency: 500  Recast time: 120s                                                                                                                                                    |
-| ![AL](https://xivapi.com/i/000000/000822.png)           | Arm’s Length       | Creates a barrier nullifying most knockback and draw-in effects for 6s.  Additional Effect: Slow +20% for 15s when barrier is struck.  Recast time: 120s                                                            |
-| ![hg](https://xivapi.com/i/000000/000848.png)           | Head Graze         | Interrupts the use of a target's interruptible action.  Recast time: 30s                                                                                                                                            |
-| ![REPELL SHOT](https://xivapi.com/i/000000/000366.png)  | Repelling Shot     | Jump 10 yalms away from current target. 5y range.  Cannot be executed while bound.  Recast time: 30s                                                                                                                |
-| ![WP](https://xivapi.com/i/002000/002609.png)           | The Warden’s Paean | Removes one cleansable detrimental effect from self or target party member. If there are no such effects, instead adds a barrier that absorbs the next cleansable detrimental effect within 30s.   Recast time: 45s |
+| ![battle voice](https://xivapi.com/i/002000/002601_hr1.png) | Battle Voice (BV)  | Increases direct hit rate of all nearby party members by 20% for 20s. Does not affect the user.   Can only be executed while singing Mage's Ballad, Army's Paeon, or the Wanderer's Minuet.  Recast time: 180s      |
+| ![troub](https://xivapi.com/i/002000/002612_hr1.png)        | Troubadour (Troub) | Reduces damage taken by self and nearby party members by 10% for 15s.  Effect cannot be stacked with Machinist's Tactician or Dancer's Shield Samba.  Recast time: 120s                                             |
+| ![NM](https://xivapi.com/i/002000/002615_hr1.png)           | Nature’s Minne     | Increases HP recovery via healing actions for self or the target party member by 20% for 15s.  Recast time: 90s                                                                                                     |
+| ![SW](https://xivapi.com/i/000000/000821_hr1.png)           | Second Wind        | Instantly restores own HP.  Cure Potency: 500  Recast time: 120s                                                                                                                                                    |
+| ![AL](https://xivapi.com/i/000000/000822_hr1.png)           | Arm’s Length       | Creates a barrier nullifying most knockback and draw-in effects for 6s.  Additional Effect: Slow +20% for 15s when barrier is struck.  Recast time: 120s                                                            |
+| ![hg](https://xivapi.com/i/000000/000848_hr1.png)           | Head Graze         | Interrupts the use of a target's interruptible action.  Recast time: 30s                                                                                                                                            |
+| ![REPELL SHOT](https://xivapi.com/i/000000/000366_hr1.png)  | Repelling Shot     | Jump 10 yalms away from current target. 5y range.  Cannot be executed while bound.  Recast time: 30s                                                                                                                |
+| ![WP](https://xivapi.com/i/002000/002609_hr1.png)           | The Warden’s Paean | Removes one cleansable detrimental effect from self or target party member. If there are no such effects, instead adds a barrier that absorbs the next cleansable detrimental effect within 30s.   Recast time: 45s |
 
 - - -
 
