@@ -35,7 +35,7 @@ In 5.0, this has changed.
 
 ## Tsubame Gaeshi is Restrictive and Inflexible
 
-Our new big hitter, Tsubame Gaeshi (or Kaeshi: Setsugekka in 99.9% of situations) is a 60 second cooldown and is only usable immediately after an iaijutsu (Midare). This makes the ability quite difficult to actually use exactly on cooldown - even more so than Meikyo which, in the previous expansion, would often force us to incur 1-2 GCD drift for each use.
+Our new big hitter, Tsubame Gaeshi (or Kaeshi: Setsugekka in 99.9% of situations) is a 60 second cooldown and is only usable immediately after an Iaijutsu (Midare). This makes the ability quite difficult to actually use exactly on cooldown - even more so than Meikyo which, in the previous expansion, would often force us to incur one to two GCD drift for each use.
 
 Let’s say you just got your third Sen, hit a Hakaze + Jinpu, and your Tsubame cooldown is at three seconds or more. You are left with no choice but to hit Midare, skip Tsubame, and (without Meikyo) perform another nine GCDs before you are able to use Tsubame again. A hefty 15 seconds~ of cooldown drift.
 
@@ -85,7 +85,7 @@ The sequence of 28 GCDs can be repeated infinitely and, as described above, will
 
 ## Maximizing Yukikaze Combo Usage
 
-Yukikaze Combo, when examined in a vacuum, is slightly weaker than Gekko or Kasha. However, when considering the value of the Sen it produces (in two GCDs rather than three) it overtakes Gekko/Kasha in efficiency. (There are some technicalities due to part of the additional Sen value requiring a GCD, but we can ignore that for now)
+Yukikaze Combo, when examined in a vacuum, is slightly weaker than Gekko or Kasha. However, when considering the value of the Sen it produces (in two GCDs rather than three) it overtakes Gekko/Kasha in efficiency. (There are some technicalities due to part of the additional Sen value requiring a GCD, but we can ignore that for now.)
 
 ![Potency-per-GCD Comparison for Yukikaze and Gekko/Kasha combos.](https://cdn.discordapp.com/attachments/752334526449057853/884902896284602458/unknown.png)
 <br>*Potency-per-GCD Comparison for Yukikaze and Gekko/Kasha combos.*
@@ -95,7 +95,7 @@ Yukikaze Combo, when examined in a vacuum, is slightly weaker than Gekko or Kash
 
 This means you’ll want to prioritize Yukikaze in most cases where we’re given the option, including;
 
-1. **Applying Higanbana with a Yukikaze Sen**
+1. **Applying Higanbana with a Yukikaze Sen.**
 2. **In two target AOE situations, using a Yukikaze Sen for Tenka as much as possible.**
 3. **Ensuring we avoid Yukikaze under Meikyo as much as possible.**
 
@@ -119,7 +119,7 @@ In short, it is theoretically optimal to do Yukikaze optimization techs mentione
 
 ## Hagakure
 
-At ten Kenki per Sen Hagakure is not worth using the same way as we did in 4.0 and with a five second cooldown even if we tried to do so we would never be able to use any Iaijutsu! Hagakure does have it’s uses, though. Namely:
+At ten Kenki per Sen, Hagakure is not worth using the same way as we did in 4.0 and with a five second cooldown even if we tried to do so we would never be able to use any Iaijutsu! Hagakure does have it’s uses, though. Namely:
 
 1. Resetting Sen after a long downtime to allow for a clean re-opener.
 2. Near the end of a fight if it appears we won’t be able to fit another Midare in.
@@ -140,7 +140,7 @@ Pros
 Cons
 
 * Unable to chain more than one Enpi due to Yaten Cooldown of ten seconds.
-* May want Yaten (even if it’s pretty meh) for an upcoming mechanic
+* May want Yaten (even if it’s pretty meh) for an upcoming mechanic.
 * On bosses without a large hitbox, Yaten will put you out of auto-attack range, potentially leading to loss of AA.
 
 **Meikyo Gekko + Yukikaze Combo + Enpi Filler (Four GCDs)**
@@ -166,7 +166,7 @@ Cons
 
 In situations where we require two additional filler GCDs instead of one, we can instead opt to use another Yukikaze combo and, ideally but not necessarily, eat the gained Sen with Hagakure. 
 
-That means in base 28 GCD cycle at 2.15 GCD we can implement two Yukikaze Optimisations, then fill the created two GCD gap with an additional Yukikaze combo. Or, In a 29 GCD rotation at 2.07 GCD ,where we already require at least one filler, we can implement one Yukikaze Optimisation to turn that one filler GCD requirement into two. We can then use an additional Yukikaze combo (as opposed to previously having to use Enpi).
+That means in base 28 GCD cycle at 2.15 GCD we can implement two Yukikaze Optimisations, then fill the created two GCD gap with an additional Yukikaze combo. Or, In a 29 GCD rotation at 2.07 GCD, where we already require at least one filler, we can implement one Yukikaze Optimisation to turn that one filler GCD requirement into two. We can then use an additional Yukikaze combo (as opposed to previously having to use Enpi).
 
 **2 Meikyo Gekko + 1 Yukikaze Combo + 1 Yukikaze Filler (8 GCDs)**
 
@@ -184,21 +184,21 @@ That means in base 28 GCD cycle at 2.15 GCD we can implement two Yukikaze Optimi
 
 Pros
 
-* Applies Shifu or Jinpu
+* Applies Shifu or Jinpu.
 * No movement restrictions.
 
 Cons
 
-* Requires three GCD “spaces”
-* Lower potency per GCD than Yukikaze
+* Requires three GCD “spaces.”
+* Lower potency per GCD than Yukikaze.
 
 A Gekko/Kasha filler has a niche use case in rotations that would normally require us to drop a Yukikaze optimization, as a result of needing at least one enforced filler.
 
 For example, when going from 2.15 GCD to 2.07 GCD, we need an additional filler GCD to make up for the increase in speed and we have three options in remedying this requirement.
 
-1. Add a Yaten Enpi to the rotation
-2. Revert a Meikyo Gekko back to Yukikaze (and therefore switch a Yuki Combo in the cooldown phase to a Gekko Combo)
-3. Switch the Yukikaze + Hagakure filler to a Gekko + Hagakure filler
+1. Add a Yaten Enpi to the rotation.
+2. Revert a Meikyo Gekko back to Yukikaze (and therefore switch a Yuki Combo in the cooldown phase to a Gekko Combo).
+3. Switch the Yukikaze + Hagakure filler to a Gekko + Hagakure filler.
 
 The difference between option two and three effectively boils down to the difference between the following two sets of GCDs, which I have laid out with effective potencies so that we can see the difference.
 
@@ -214,23 +214,23 @@ Downtime is more difficult to deal with in 5.0 and has the potential to cause is
 
 For example, if a boss mechanic means we can’t hit it for four seconds then when Tsubame becomes available to use again, we are going to be roughly two GCDs behind. There are three different ways of dealing with short downtimes like this.
 
-## Option 1)
+## Option 1:
 
 We don’t immediately use Meikyo/Bana/Tsubame when they become available, and instead use them at the normal point in our rotation. 
 
-This is the easiest solution. You can just blindly continue your usual rotation but while incurring a four second drift on your cooldowns (and Higanbana). This may put all of or a portion of your burst outside of any consistent buff windows
+This is the easiest solution. You can just blindly continue your usual rotation at the cost of incurring a four second drift on your cooldowns (and Higanbana). This may put all of or a portion of your burst outside of any consistent buff windows.
 
-## Option 2)
+## Option 2:
 
-We Meikyo on cooldown, but at a different Sen, break our current loop and revert to an ad-hoc rotation style for the remainder of the phase or fight.
+We Meikyo on cooldown, but at a different Sen, break our current loop and revert to an ad hoc rotation style for the remainder of the phase or fight.
 
 This is probably the most natural feeling solution coming from playing SAM in 4.0 and it’s not a bad option to go with. You’ll be Meikyo’ing (and hopefully also Tsubame’ing) at roughly the same time as your buff window comes up but you’ll have to be quick on your feet to either figure out a new loop or ad-hoc your way through the remainder of the phase/fight.
 
-## Option 3)
+## Option 3:
 
 Drop your filler GCDs for that cycle.
 
-The best of both worlds, but much trickier to pull off on-the-fly. For each 2~ seconds of downtime encountered you can remove one filler GCD from your cycle. For example, if you have a Yukikaze Hagakure filler by default and you disconnect from your target for two seconds, you can switch it to a single Enpi filler. Four seconds? Drop the filler entirely. We have even more theoretical downtime buffer than is provided by the rotation examples in the next section too.
+The best of both worlds, but much trickier to pull off on-the-fly. For each ~2 seconds of downtime encountered you can remove one filler GCD from your cycle. For example, if you have a Yukikaze Hagakure filler by default and you disconnect from your target for two seconds, you can switch it to a single Enpi filler. Four seconds? Drop the filler entirely. We have even more theoretical downtime buffer than is provided by the rotation examples in the next section too.
 
 Fun fact: By entering Meikyo with a Yuki Sen, ending Meikyo with a Gekko/Kasha, and applying Higanbana with a Yukikaze Sen we can manipulate our rotation at 2.06 GCD to require up to four filler GCDs which equates to 10.8 seconds of downtime buffer.
 
@@ -244,11 +244,11 @@ The goal of ad hoc play is to reduce or remove the need for “wasted” GCDs by
 
 To put that into perspective the standard 2.15 GCD 28 step loop incurs a total of three “wasted” GCDs.
 
-1. The first required filler GCD
-2. The second required filler GCD
-3. Initiating Higanbana with a Gekko or Meikyo’d Sen
+1. The first required filler GCD.
+2. The second required filler GCD.
+3. Initiating Higanbana with a Gekko or Meikyo’d Sen.
 
-Generally speaking, it is extremely difficult, if not impossible,  to maintain buff and cooldown alignment while achieving this, particularly past the three minute mark.
+Generally speaking, it is extremely difficult, if not impossible, to maintain buff and cooldown alignment while achieving this, particularly past the three minute mark.
 
 However, if you are able to successfully perform an ad hoc style rotation employing every possible Yuki optimization while also maintaining Tsubame alignment well enough that it doesn’t fall outside of raid buffs or incur usage loss, it would be better.
 
@@ -259,7 +259,7 @@ With the possible variation in ad hoc rotations, I have only done limited simula
 * At 2.15 and 2.07 looping is usually always the better, and easier, option. Especially in Patchwerk-style encounters.
 * At 2.00, you may see an improvement in performance with a well executed ad hoc style rotation depending on your ability.
 * Faster than 2.00 and you will almost certainly be better off freestyling it. The required number of fillers to loop at this speed is a considerable potency loss.
-* Looping becomes impossible In very mechanic heavy encounters where you are unable to maintain full uptime for at least a minute at a time.
+* Looping becomes impossible in very mechanic-heavy encounters where you are unable to maintain full uptime for at least a minute at a time.
 
 ## Why This Compendium Won’t Cover it in Depth
 
