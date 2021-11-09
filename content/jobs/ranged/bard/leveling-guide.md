@@ -7,7 +7,7 @@ changelog:
   - date: 2021-10-26T02:15:03.972Z
     message: Created page
 ---
-# A Guide For Bards That Aren’t Level 80 Yet 
+# A Guide For Bards That Aren’t Level 80 Yet
 
 While the main Balance guide is focused on level 80 gameplay, I thought it’d be nice to have something people can follow as they level. 
 
@@ -203,4 +203,4 @@ Enhanced Army’s Paeon has a huge tooltip for a small effect - basically, it ca
 
 Congrats! You’ll learn Apex Arrow here; in short, just use it when the bar is full.
 
-But you can get more fine details on Apex and other endgame Bard play in the full guide here: 
+But you can get more fine details on Apex and other endgame Bard play in the full guide here: [](https://guides.xivresources.com/jobs/ranged/bard/basic-guide/)[Basic Bard Guide](https://guides.xivresources.com/jobs/ranged/bard/basic-guide/)
