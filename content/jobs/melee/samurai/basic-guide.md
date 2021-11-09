@@ -103,7 +103,7 @@ In an 8-man instance such as a Primal Extreme or Savage Raid, all of these but L
 
 ## Playstyle
 
-High similarity to Dragoon with simple GCD structure at a glance. However, SAM is a job that is capable of an extremely high skill ceiling due to its flexibility in its Kenki usage. This is a job that emphasizes using the complete toolkit given the circumstances. Samurai manage two different resources to do heavy damage, Sen and Kenki.
+High similarity to Dragoon with simple GCD structure at a glance. However, SAM is a job that is capable of an extremely high skill ceiling due to flexibility in its Kenki usage. This is a job that emphasizes using the complete toolkit given the circumstances. Samurai manage two different resources to do heavy damage, Sen and Kenki.
 
 Every time SAM completes a certain GCD combo, its corresponding Sen is collected; there are three types of Sen to collect:
 
@@ -148,13 +148,13 @@ Starting with zero buffs, the opening combo order will usually go:
 
 Kasha combo > Gekko combo > Yukikaze combo.
 
-The first buff up often is Shifu, the haste buff. I’m using “haste” in this document to shorten the full effect, which is “reduces Weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay”. This buff means that our GCD timer will be reduced (to a maximum of 2.18, assuming no skill speed on gear) and that auto-attacks will happen more often while it is up. Note that this does not affect the damage over time from Higanbana. What it does do, however, is rotate you through your combos quicker to acquire more Sen and Kenki and minimise the opportunity to drop your buffs.
+The first buff up often is Shifu, the haste buff. I’m using “haste” in this document to shorten the full effect, which is “reduces Weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay.” This buff means that our GCD timer will be reduced (to a maximum of 2.18, assuming no Skill Speed on gear) and that auto-attacks will happen more often while it is up. Note that this does not affect the damage over time from Higanbana. What it does do, however, is rotate you through your combos quicker to acquire more Sen and Kenki and minimise the opportunity to drop your buffs.
 
 Jinpu is a 13% flat damage increase to all your abilities, including Higanbana’s damage over time portion. As such, you want to make sure that this buff is up every time you use Higanbana or Midare to take advantage of its enormous potency value, as Shifu doesn’t increase damage dealt. Coming from downtime with no buffs and three Sen up you will want to prioritise Jinpu.
 
 Lastly, Yukikaze would be the least significant combo out of the three in the opener but one of the most significant throughout the fight. SAM’s opener relies on lining up the buffs and CDs to maximize damage with raid buffs, and Yukikaze offers no self-buff to Samurai. By starting Yukikaze, Samurai will end up not being able to have both Shifu or Jinpu up by the time raid buffs go out, as everything will be delayed by a combo. During the fight, Yukikaze is great to have as your only Sen up leading into downtime, as it allows you to get both buffs back up before using Midare. At level 80, it serves another purpose as an alignment tool for Samurai's looping rotation. 
 
-![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh5.googleusercontent.com/nKOaHBLn54QdOt2ec5AT_Ab_fas_dXFKsqvoZ-Oucg2iECDb7H6_9zh5TuscJazvqmIDZwvUhQx3AtlhMkYfGINAOW_0VVZlhgW5KiS1rVa5-Zd9H67govHujtJccSOTpTAAV4oJ=s0) **Tip**: Remember Iaijutsu does not break combo . If you need to reapply Higanbana but Jinpu buff is down and you’re already sitting on one Sen, you can do a Hakaze > Jinpu > Iaijutsu > Gekko and you will have the Jinpu buff applied on your Higanbana without wasting the Sen on the combo.
+![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh5.googleusercontent.com/nKOaHBLn54QdOt2ec5AT_Ab_fas_dXFKsqvoZ-Oucg2iECDb7H6_9zh5TuscJazvqmIDZwvUhQx3AtlhMkYfGINAOW_0VVZlhgW5KiS1rVa5-Zd9H67govHujtJccSOTpTAAV4oJ=s0) **Tip**: Remember Iaijutsu does not break combo. If you need to reapply Higanbana but Jinpu buff is down and you’re already sitting on one Sen, you can do a Hakaze > Jinpu > Iaijutsu > Gekko and you will have the Jinpu buff applied on your Higanbana without wasting the Sen on the combo.
 
 - - -
 
@@ -185,7 +185,7 @@ From the numbers above, a few conclusions can be drawn.
 
 In addition, it means that  **each positional missed on a SAM is roughly equivalent to a 64 potency loss.**  The loss is amplified in your opener because the openers are designed to work under the assumption that you hit all your positionals. By missing in your opener you also risk missing your oGCDs like Senei under raid buffs, so please do your best to maximize your positionals without delaying your GCDs.
 
-![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh5.googleusercontent.com/opKkExneRE4ctCf35V4T6wTd98SajNd87xPAHuOpoWwQhxBCGMiSh1cDBvQyLvvfRcGezcxncauym16oQFiVoqnF-zPfKxMRNVGOd25fLn-bYsT7oLNhTuSj9M9gmrKpTl-ThavH=s0) *Note regarding Yaten-Enpi-Gyoten*: If you factor only the Yaten-Enpi combo, it is 10 Kenki cost for a 320 additional potency and regenerates 10 kenki, and that gives you 30 potency per kenki.  However, this combo does not give you any benefits to reapply your buffs or adding a Sen.  Thus, while it is a potent 1-GCD combo, it cannot be used reliably outside of very specific situations such as dodging out of an AOE while being unable to go back to the boss soon or off-setting your GCDs by one. Gyoten should be used only as a gap closer if Sprint won’t do the job.
+![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh5.googleusercontent.com/opKkExneRE4ctCf35V4T6wTd98SajNd87xPAHuOpoWwQhxBCGMiSh1cDBvQyLvvfRcGezcxncauym16oQFiVoqnF-zPfKxMRNVGOd25fLn-bYsT7oLNhTuSj9M9gmrKpTl-ThavH=s0) *Note regarding Yaten-Enpi-Gyoten*: If you factor only the Yaten-Enpi combo, it is 10 Kenki cost for a 320 additional potency and regenerates 10 kenki, and that gives you 30 potency per kenki.  However, this combo does not give you any benefits to reapply your buffs or adding a Sen.  Thus, while it is a potent one GCD combo, it cannot be used reliably outside of very specific situations such as dodging out of an AOE while being unable to go back to the boss soon or off-setting your GCDs by one. Gyoten should be used only as a gap closer if Sprint won’t do the job.
 
 - - -
 
@@ -197,11 +197,11 @@ A common mistake that I’ve seen from many Samurai is that they happily use Yat
 
 So what are the values of Gyoten/Yaten/Enpi?
 
-![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh3.googleusercontent.com/PCAoLfk5jZ9kscihyK8xZyZAHDIDWOAfE1yqTLbac9bDOcw3LqBEWLxibHmzZMQHtkJ-bFw1v3AIdx8F6EE1HHiV0_zUZRhpfTowg25IAgAKc3RBLsLqCTM2sOD3XaDXBAatuNax=s0) They are good only if you gain a GCD that would have been otherwise impossible without them .
+![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh3.googleusercontent.com/PCAoLfk5jZ9kscihyK8xZyZAHDIDWOAfE1yqTLbac9bDOcw3LqBEWLxibHmzZMQHtkJ-bFw1v3AIdx8F6EE1HHiV0_zUZRhpfTowg25IAgAKc3RBLsLqCTM2sOD3XaDXBAatuNax=s0) They are good only if you gain a GCD that would have been otherwise impossible without them.
 
 Gyoten/Yaten gain value if using them allows you to get an extra GCD compared to not using it, such as moving from one target at one end of a map to another one at the other end. If the targets are close enough that you could have run or used Sprint and not lose GCDs, then it is inefficient.
 
-Enpi is the same. It gains value only if there are time periods where you could have used a ranged attack but not melee attack- which is often a rare situation. In addition, Enpi breaks your combo so that if you could have continued your combo during the period of wait, it is also inefficient. For example, if you must stand away from the boss for a period of 2 GCDs and you were in the middle of a combo, using Enpi would have broken your combo and you would have to use two additional GCD to redo the combo vs not using it and finishing the combo on the return. This is even more heavily impacted if it is related to your buffs/Sen generation when timed with raid buffs.
+Enpi is the same. It gains value only if there are time periods where you could have used a ranged attack but not melee attack- which is often a rare situation. In addition, Enpi breaks your combo so that if you could have continued your combo during the period of wait, it is also inefficient. For example, if you must stand away from the boss for a period of two GCDs and you were in the middle of a combo, using Enpi would have broken your combo and you would have to use two additional GCDs to redo the combo vs. not using it and finishing the combo on the return. This is even more heavily impacted if it is related to your buffs/Sen generation when timed with raid buffs.
 
 Of course, exceptions always happen, but you will recognize the exceptions in the fight situation as you gain experience.
 
@@ -266,13 +266,13 @@ Higanbana is just that much of a Samurai’s damage, but applying it liberally a
 
 ## Higanbana First
 
-**Higanbana First** is your standard opener which, due to the earlier DOT application, is ahead in output for the majority of any given encounter.
+**Higanbana First** is your standard opener which, due to the earlier DoT application, is ahead in output for the majority of any given encounter.
 
 ![](https://lh6.googleusercontent.com/0HfOzMGPms_JosJfIzfnTstbaqwLCfaV2yDCUV3pqjPFVj9z6pJga0S_WUZMYIuIKsGw6DAQxWYcwRiAjQ0HLgACtPU0aZJiiHSPiF-_XFkxRxbDghHTiVFPxS1o5VRxm4a9KK-v=s0)
 
 ## Midare First
 
-**Midare First** should be reserved for encounters with a phase or kill time such that you are able to land an additional Midare + Tsubame combo where Higanbana 1st would not.
+**Midare First** should be reserved for encounters with a phase or kill time such that you are able to land an additional Midare + Tsubame combo where Higanbana first would not.
 
 ![](https://lh6.googleusercontent.com/bojnaTuy11FOGhedaoqVbdLhbKfKdOW95D80-2Nca4tVRGrkp4JZhPPRl_HmDS3V27_LiMxgvhQduEhqsXz7cxfZyrT9etcDpdeYrhb7J_VSYnLazRCXdK0UkNHUHhw7mVQuYCDo=s0)
 
@@ -288,7 +288,7 @@ The strength of SAM’s AOE rotation lies in the fact that both two-GCD AOE comb
 
 **What happens if there are two targets?**
 
-If both targets will last long enough, using Higanbana on each and reapply as necessary. Do not use Kaeshi Higanbana, even in this scenario it is more worthwhile to build 1 Sen with Yukikaze and apply the dot that way than it is to burn Kaeshi on Higanbana. Two targets also introduces it’s own “single target Tenka” rotation, where you are using your typical single target combos to build Sen but spending them on Tenka Goken instead of building 3 Sen and using Midare Setsugekka. This is because Kaiten Tenka Goken is also the most efficient in terms of Sen usage as you can perform it three times over six Sen, as opposed to Kaiten Midare Setsugekka twice over the same amount of Sens. An example of this is below, and assumes again that you already have your buffs up.
+If both targets will last long enough, using Higanbana on each and reapply as necessary. Do not use Kaeshi Higanbana, even in this scenario it is more worthwhile to build 1 Sen with Yukikaze and apply the dot that way than it is to burn Kaeshi on Higanbana. Two targets also introduces it’s own “single target Tenka” rotation, where you are using your typical single target combos to build Sen but spending them on Tenka Goken instead of building 3 Sen and using Midare Setsugekka. This is because Kaiten Tenka Goken is also the most efficient in terms of Sen usage as you can perform it three times over 6 Sen, as opposed to Kaiten Midare Setsugekka twice over the same amount of Sens. An example of this is below, and assumes again that you already have your buffs up.
 
 ![](https://lh6.googleusercontent.com/W-2Es6ZOwHcu9DkkW4FgrHYNMFiyg41b-KTNhGJsBWBjO8Oi2-KhavooeH00LBSFL8tqpJtcthTB9mOmBLFidSqn-uzBO4L9meMoiJsrWWst6LoF920YzQoG1IIjc8SHNdivjmLe=s0)
 
