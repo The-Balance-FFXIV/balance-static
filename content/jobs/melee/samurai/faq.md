@@ -43,6 +43,21 @@ qna:
   - question: When is Higanbana worth using?
     answer: It takes ~42s (depending on server ticks) for Higanbana to outdamage
       Midare which is the point for Higanbana to be 100% worth doing.
+  - question: "Is Kaeshi: Higanbana Worth Using?"
+    answer: >-
+      **Short Answer: No. Never.**
+
+
+      It is important to note that the DoT from Kaeshi: Higanbana does not stack with the DoT from regular Higanbana. This makes it obvious from even a cursory glance at the tooltip that it has no use case in single-target situations. What might not be obvious though is that, in fact, Kaeshi: Higanbana has no use case in any situation - ever.
+
+
+      The Sen efficiency of using our Tsubame cooldown on Midare is quite literally impossible to beat. In short, it is always better to use Tsubame on Kaeshi: Setsugekka and then apply a manual Higanbana to our second target than it is to ever use Kaeshi: Higanbana because it costs just three GCDs to do so compared to the nine to fire off another Midare. I have created a simple potency table to illustrate how this works.
+
+
+      Each line is a GCD. Yellow numbers indicate where total damage at that GCD is equal between rotations. Red numbers mean that rotation is underperforming compared to the other. And green numbers mean that rotation is outperforming the other.
+
+
+      ![Is Kaehi: Higibana Worth Using?](https://cdn.discordapp.com/attachments/752334526449057853/884903581537427466/unknown.png)
 ---
 > Is X better than Y for me?
 
