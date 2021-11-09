@@ -16,7 +16,7 @@ qna:
   - question: What do non opener RoF windows look like?
     answer: Similar to opener, you may not have Leaden Fist while going into it though.
   - question: Is Twin Snakes meant to drop for a bit?
-    answer: Two GCDs without twin snakes after each Perfect Balance window is intended.
+    answer: Two GCDs without Twin Snakes after each Perfect Balance window is intended.
   - question: What food is good?
     answer: Depends on your stats, but the BiS uses Smoked Chicken.
   - question: Any recommendations for crafted gear/First week raiding gear melds?
@@ -48,6 +48,37 @@ qna:
 
 
       With a FR translation from Ailarra - <https://cdn.discordapp.com/attachments/859093252065460274/859760256690028564/Visual_rotation_monk_translated_in_french.png>
+  - question: '"RoF is coming up too early in my rotation, what do?"'
+    answer: This likely means your GCD is too fast, and should naturally fix itself
+      when you reach the desired GCD threshold of 1.96. In the meantime, you can
+      fix this by doing an additional uncomboed Dragon Kick following a previous
+      Dragon Kick. This will slow you down by one GCD and should realign RoF
+      with Demolish.
+  - question: "\"Why don't I get Leaden Fist after using PB?\""
+    answer: As mentioned in the guide, your first GCD after PB is formless so will
+      not grant you a Leaden Fist. This is totally fine and normal.
+  - question: '"If I end PB with Leaden Fist, should I not do an uncomboed Bootshine
+      instead?"'
+    answer: No, as this would be a waste of the Leaden Fist proc. You want all of
+      your Bootshines to be guaranteed crits, so you would stick to the rule of
+      "Always DK after PB" to make sure the Leaden isn't eaten by an uncomboed
+      Boot. Remember, we're not 'wasting' / 'overcapping' on Leaden stacks here,
+      as the DK is uncomboed.
+  - question: '"What should I meld on X item?"'
+    answer: For Monk we want Crit > DH > Det.
+  - question: "\"What's BiS?\"/\"What stats should I put on my relic?\""
+    answer: >-
+      Check out the [BiS page
+      here](https://guides.xivresources.com/jobs/melee/monk/best-in-slot/).
+
+
+      The following Pastebin contains recommendations for BiS sets in all three Ultimate fights, containing both Relic/Non-relic sets
+
+
+      [Pastebin](https://pastebin.com/EHSwUxsa)
+  - question: '"Twin Snakes falls off in my opener, is that normal?"'
+    answer: Yep, Twin Snakes will fall off for a little bit during PB. This will
+      happen multiple times.
 ---
 > *Is Double True Strike dead?*
 
