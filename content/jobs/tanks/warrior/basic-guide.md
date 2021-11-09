@@ -76,9 +76,7 @@ If you know the basics and want to push the limits of Warrior gameplay, carry on
 
 # Job Overview
 
-> \*On the northernmost edge of Abalathia's Spine exists a mountain tribe renowned for producing fearsome mercenaries. Wielding great axes and known as 
-
-Warriors, these men and women learn to harness their inner-beasts and translate that power to unbridled savagery on the battlefield.
+> \*On the northernmost edge of Abalathia's Spine exists a mountain tribe renowned for producing fearsome mercenaries. Wielding great axes and known as Warriors, these men and women learn to harness their inner beasts and translate that power to unbridled savagery on the battlefield.
 
 Warrior is a powerhouse combining both very unique defensive and offensive kits. 
 
@@ -88,9 +86,9 @@ At the same time, you will have another minigame. You will pay attention to the 
 
 Don’t be afraid, there will be some time to relax during **Inner Release**, while doing massive damage with those powerful abilities mentioned earlier.
 
-While other tanks rely on knowing what happens next, Warrior charges into battle without a second thought. Self mitigation combined with insane self HP recovery tools are the biggest strengths of Warrior, allowing us to quickly react and adjust to unexpected situations. A healer suddenly died and you’re all by itself with low health? No problem! We have two instant heals to use, we heal ourselves during **Storm’s Path** combo and, on top of that, we also can heal ourselves or a party member by the portion of the damage we’ve dealt to the enemy!
+While other tanks rely on knowing what happens next, Warrior charges into battle without a second thought. Self mitigation combined with insane self HP recovery tools are the biggest strengths of Warrior, allowing us to quickly react and adjust to unexpected situations. A healer suddenly died and you’re all by itself with low health? No problem! We have two instant heals to use, we heal ourselves during **Storm’s Path** combo and, on top of that, we also can heal ourselves or a party member by a portion of the damage we’ve dealt to the enemy!
 
-Remember, no man can win every battle, but no man should fall without a struggle!
+Remember, no one can win every battle, but no man should fall without a struggle!
 
 - - -
 
@@ -112,7 +110,7 @@ Nascent Flash is free to be moved around depending on damage taken. Here it is u
 * Don’t overcap Beast Gauge.
 * As a rule of thumb, use Fell Cleave only after 70 Beast Gauge.
 * Use Storm’s Path to gain as much Beast Gauge as possible.
-* Aim to use Infuriate and Inner Chaoses inside party buffs.
+* Aim to use Infuriate and Inner Chaos inside party buffs.
 * Aim to keep Infuriate below two stacks at all times.
 
 ## Stat Priority
