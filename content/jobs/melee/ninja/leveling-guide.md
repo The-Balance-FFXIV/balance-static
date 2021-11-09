@@ -29,7 +29,7 @@ Spinning Edge into Gust Slash into Aeolian Edge is your main combo for now, whil
 
 # Level 30-34:
 
-Make sure to do your Job Quest to go from Rogue to Ninja! Same as levels 26-29 except now Shadow Fang should be used on cooldown as well, on top of you gaining access to your first mudra. Your first mudra allows you to use it, and then cast Fuma Shuriken. This should be done on cooldown, even over your main combo, but not over Shadow Fang unless Shadow Fang will not get very much time on the enemy.
+Make sure to do your Job Quest to go from Rogue to Ninja! Same as levels 26-29 except now Shadow Fang should be used on cooldown as well, on top of you gaining access to your first Mudra. Your first mudra allows you to use it, and then cast Fuma Shuriken. This should be done on cooldown, even over your main combo, but not over Shadow Fang unless Shadow Fang will not get very much time on the enemy.
 
 # Level 35-44:
 
@@ -39,7 +39,7 @@ At level 38 you gain access to Death Blossom, which should only be used on fight
 
 # Level 45-49:
 
-At level 45, you gain access to your third and last mudra, Jin. At this point you want to make sure you always have the Huton buff going, which is given by using Jin > Chi > Ten or Chi > Jin > Ten. By using Suiton, which you do using Ten > Chi>  Jin or Chi > Ten > Jin, you gain access to using Trick Attack while in combat. This is important mainly for fights with one and two targets.\
+At level 45, you gain access to your third and last Mudra, Jin. At this point you want to make sure you always have the Huton buff going, which is given by using Jin > Chi > Ten or Chi > Jin > Ten. By using Suiton, which you do using Ten > Chi>  Jin or Chi > Ten > Jin, you gain access to using Trick Attack while in combat. This is important mainly for fights with one and two targets.\
 \
 Another ninjutsu that you gain access to is Doton, which is achieved by using Jin > Ten > Chi or Ten > Jin > Chi. This is a ground-placed AoE that lasts 24 seconds. This is mainly used for any multi-target fight. You want to keep one of these up consistently in any multi-target fight, without losing your Huton buff and without overriding your previous Doton.\
 \
@@ -47,7 +47,7 @@ Any extra mudra usages you may get on top of that should be used on Suiton if tw
 
 # Level 50-53:
 
-At level 50, you gain access to Kassatsu which grants you an extra mudra stack that will do extra damage. This should always be used on either Raiton for single-target or Doton for multi-target until level 76 when it gets upgraded.\
+At level 50, you gain access to Kassatsu which grants you an extra Mudra stack that will do extra damage. This should always be used on either Raiton for single-target or Doton for multi-target until level 76 when it gets upgraded.\
 \
 At 52, you gain access to Hakke Mujinsatsu, which is a second hit in your AoE combo, so use this comboed with Death Blossom in fights with three or more targets.
 
