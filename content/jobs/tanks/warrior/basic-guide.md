@@ -175,21 +175,21 @@ Abilities will be presented in a tabular format for easy reading.
 | --------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
 | ![Inner Release](https://xivapi.com/i/002000/002564_hr1.png)    | Inner Release                | Guarantees all of your attacks  are Critical and Direct hit. <br>Extends existing Storm’s Eye buff by +15 seconds (up to 60s). <br>Makes all of your attacks cost 0 Beast Gauge. <br>Nullifies most draw-in and knockback effects. 10 seconds duration.                                              | +Crit Dhit <br>90s CD <br>oGCD <br> |
 | ![Defiance](https://xivapi.com/i/002000/002551_hr1.png)         | Defiance                     | Toggleable effect that significantly increases enmity generation.                                                                                                                                                                                                                                    | + 900% Enmity <br>10s CD  <br>oGCD  |
-| ![Provoke](https://xivapi.com/i/000000/000165_hr1.png)          | Provoke                      | Places you on top of the enmity list and adds additional fixed amount on top of that                                                                                                                                                                                                                 | 30s CD <br> oGCD <br> +Enmity       |
+| ![Provoke](https://xivapi.com/i/000000/000803_hr1.png)          | Provoke                      | Places you on top of the enmity list and adds additional fixed amount on top of that                                                                                                                                                                                                                 | 30s CD <br> oGCD <br> +Enmity       |
 | ![Shirk](https://xivapi.com/i/000000/000810_hr1.png)            | Shirk                        | Redirects 25% of your current enmity onto a party member of your choice                                                                                                                                                                                                                              | 120s CD <br>oGCD <br>-25% Enmity    |
 | ![Holmgang](https://xivapi.com/i/000000/000266_hr1.png)         | Holmgang                     | Prevents most attacks from reducing your HP below one HP. <br>Binds your target <br>Eight seconds duration                                                                                                                                                                                           | 8s dur. <Br>240s CD <br>oGCD        |
 | ![Vengeance](https://xivapi.com/i/000000/000267_hr1.png)        | Vengeance                    | Reduces damage taken by 30%. <br>Deals 55 potency every time you take physical damage                                                                                                                                                                                                                | 15s dur. <br>120s CD <br>oGCD       |
-| ![Rampart](https://xivapi.com/i/000000/000152_hr1.png)          | Rampart                      | Reduces damage taken by 20%.                                                                                                                                                                                                                                                                         | 20s dur. <br>90s CD <br> oGCD       |
+| ![Rampart](https://xivapi.com/i/000000/000801_hr1.png)          | Rampart                      | Reduces damage taken by 20%.                                                                                                                                                                                                                                                                         | 20s dur. <br>90s CD <br> oGCD       |
 | ![Thrill of Battle](https://xivapi.com/i/000000/000263_hr1.png) | Thrill of Battle             | Increases maximum HP by 20% and restores the amount increased <br> Increase HP recovery by healing actions on self by 20% <br>10 seconds duration                                                                                                                                                    | 10s dur. <br> 90s CD <br>oGCD       |
 | ![Equilibrium](https://xivapi.com/i/002000/002560_hr1.png)      | Equilibrium                  | Heals self for 1200 potency. <br>60 seconds cooldown.                                                                                                                                                                                                                                                | 1200p <br>60s CD <br> oGCD          |
 | ![Raw Intuition](https://xivapi.com/i/002000/002559_hr1.png)    | Raw Intuition                | Reduces damage taken by 20% <br>Shares a recast timer with Nascent Flash. <br>Six seconds duration.                                                                                                                                                                                                  | 6s dur. <br>25s CD <br>oGCD         |
 | ![Nascent Flash](https://xivapi.com/i/000000/000405_hr1.png)    | Nascent Flash                | Grants Nascent Flash to yourself and Nascent Glint to a party member <br>Nascent Flash: Absorbs ~48% of damage dealt as HP. <br>Nascent Glint: Reduces damage taken by 10% and restores 50% of hp absorbed by Nascent Flash. <br>Six seconds duration. <br>Shares a recast timer with Raw Intuition. | 6s dur. <br>25s CD <br>oGCD         |
 | ![Shake It Off](https://xivapi.com/i/002000/002563_hr1.png)     | Shake It Off                 | Gives a party wide, 15% of targets hp, shield. <br> Dispels Vengeance, Raw Intuition, Thrill of Battle and increases shield by 2% for each effect absorbed. <br>15 seconds duration.                                                                                                                 | 15s dur. <br>90s CD <br>oGCD        |
 | ![Reprise](https://xivapi.com/i/003000/003233_hr1.png)          | Reprisal                     | Reduces targets’ damage dealt by 10%. <br>Does an AoE around the tank, hitting multiple targets.                                                                                                                                                                                                     | 10s dur. <br>60s CD <br>oGCD        |
-| ![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png)     | Arm’s Length <br>(knockback) | Negates majority of Knockback effects. <br>Certain attacks cannot be negated.                                                                                                                                                                                                                        | 6s dur. <br>120s CD <br>oGCD        |
-| ![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png)     | Arm’s Length <br>(Slow)      | Applies a Slow +20% debuff on the targets around you, increasing enemy’s cast time, attack time and auto-attack delay.                                                                                                                                                                               | 15s dur. <br>120s CD <br>oGCD       |
+| ![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png)     | Arm’s Length <br>(knockback) | Negates majority of Knockback effects. <br>Certain attacks cannot be negated. Both effects come from the same ability.                                                                                                                                                                                                                        | 6s dur. <br>120s CD <br>oGCD        |
+| ![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png)     | Arm’s Length <br>(Slow)      | Applies a Slow +20% debuff on the targets around you, increasing enemy’s cast time, attack time and auto-attack delay. Both effects come from the same ability.                                                                                                                                                                               | 15s dur. <br>120s CD <br>oGCD       |
 | ![Interject](https://xivapi.com/i/000000/000808_hr1.png)        | Interject                    | Interrupts the use of some (highlighted) enemy actions.                                                                                                                                                                                                                                              | 30s CD <br>oGCD                     |
-| ![Low Blow](https://xivapi.com/i/003000/003059_hr1.png)         | Low Blow                     | Stuns target. <br>Certain targets cannot be stunned.                                                                                                                                                                                                                                                 | 5s dur. <br>25s CD <br>oGCD         |
+| ![Low Blow](https://xivapi.com/i/000000/000802_hr1.png)         | Low Blow                     | Stuns target. <br>Certain targets cannot be stunned.                                                                                                                                                                                                                                                 | 5s dur. <br>25s CD <br>oGCD         |
 
 ## The Beast Gauge
 
@@ -200,21 +200,21 @@ The Beast Gauge will be the main resource you will have to manage when playing W
 
 Several actions will increase the Beast Gauge:
 
-* Maim and Storm’s Eye will increase by 10.
-* Storm’s Path and Mythril Tempest will increase by 20
-* Infuriate will increase by 50
+* Maim and Storm’s Eye will increase it by 10.
+* Storm’s Path and Mythril Tempest will increase it by 20.
+* Infuriate will increase it by 50.
 
 Several actions can be used by spending the beast Gauge:
 
-* Inner Beast and Steel Cyclone will decrease by 50
-* Fell Cleave and Decimate will decrease by 50
-* Inner Chaos and Chaotic Cyclone will decrease by 50
-* Upheaval will decrease by 20
-* Onslaught will decrease by 20
+* Inner Beast and Steel Cyclone will decrease it by 50.
+* Fell Cleave and Decimate will decrease it by 50.
+* Inner Chaos and Chaotic Cyclone will decrease it by 50.
+* Upheaval will decrease it by 20.
+* Onslaught will decrease it by 20.
 
-While our crit chance increase from the Beast Gauge did get removed in 5.0, we still want to keep the Beast Gauge and Infuriate charges ready for buff windows, most notably Trick Attack. Our goal for every trick attack is to spend ideally 170 gauge, on two Inner Chaos, one Upheaval and one  Fell Cleave. 
+While our Crit chance increase from the Beast Gauge did get removed in 5.0, we still want to keep the Beast Gauge and Infuriate charges ready for buff windows, most notably Trick Attack. Our goal for every Trick Attack is to spend ideally 170 gauge, on two Inner Chaos, one Upheaval and one  Fell Cleave. 
 
-Depending on the fight, you won’t get your full burst in every trick window, but you should aim to land one Upheaval and one Inner Chaos as a bare minimum.
+Depending on the fight, you won’t get your full burst in every Trick window, but you should aim to land one Upheaval and one Inner Chaos as a bare minimum.
 
 - - -
 
@@ -238,16 +238,16 @@ Your second standard 1-2-3 combo that generates 30 Beast Gauge (10 from Maim and
 ### Fell Cleave
 
 A powerful single GCD with 590 potency that can only be used while you have 50 Beast Gauge available. It is a preferred way to spend the Beast Gauge for 1-2 targets.
-**ALWAYS use 5 times inside Inner Release for 1-2 targets** and as your gauge spender in-between Inner Releases to prevent the gauge from overcapping.
+**ALWAYS use 5 times inside Inner Release for 1-2 targets** and as your gauge spender between Inner Releases to prevent the gauge from overcapping.
 
 ### Inner Chaos
 
-A powerful single GCD with 920 potency that can only be used while you have 50 Best Gauge available and a Nascent Chaos buff granted by Infuriate. It will replace  Fell Cleave on your hotbar, so it is easy to treat it in the same manner. Like  Fell Cleave,  Inner Chaos is a preferred way to spend the Beast Gauge for one to two targets. However **Inner Chaos should NEVER be used inside Inner Release**, since it already has the benefit of Crit Direct Hit. Try to use Inner Chaos inside raid damage buffs. 
+A powerful single GCD with 920 potency that can only be used while you have 50 Best Gauge available and a Nascent Chaos buff granted by Infuriate. It will replace  Fell Cleave on your hotbar, so it is easy to treat it in the same manner. Like  Fell Cleave,  Inner Chaos is a preferred way to spend the Beast Gauge for one to two targets. However **Inner Chaos should NEVER be used inside Inner Release**, since it already has the benefit of Crit + Direct Hit. Try to use Inner Chaos inside raid damage buffs. 
 
 ### Tomahawk
 
 Tomahawk is the only long ranged skill available to Warrior. 140 potency is not the biggest damage in our kit, however **Tomahawk makes it possible to attack the target in a range from 3y to 15y.**
-Additional x7 enmity multiplier makes Tomahawk the strongest GCD enmity generator available on-demand for a Warrior. Don’t hesitate to use it if the target suddenly decided to run away and punch a caster in the face. 
+The additional x7 enmity multiplier makes Tomahawk the strongest GCD enmity generator available on-demand for a Warrior. Don’t hesitate to use it if the target suddenly decided to run away and punch a caster in the face. 
 
 ## Area of Effect
 
@@ -256,7 +256,7 @@ Additional x7 enmity multiplier makes Tomahawk the strongest GCD enmity generato
 Overpower -> Mythril Tempest
 
 AoE combo, not much to say. 
-**This combo beats Heavy Swing -> Maim -> Storm’s Eye/Storm’s Path combo at two targets.**
+**This combo beats Heavy Swing -> Maim -> Storm’s Eye/Storm’s Path combo at or above two targets.**
 
 ### AoE Gauge spenders
 
@@ -292,7 +292,7 @@ Onslaught comes with a priority system:
 1. Use it as a gap closer to increase your uptime.
 2. Use within Inner Release.
 3. Use to manipulate your Beast Gauge according to the fight.
-4. Use at the end of the fight, if you have less than 50 gauge and Upheaval is on cooldown
+4. Use at the end of the fight, if you have less than 50 gauge and Upheaval is on cooldown.
 
 ### Infuriate
 
@@ -300,11 +300,11 @@ In Shadowbringers, Infuriate now grants Nascent Chaos, a buff which enables Inne
 
 General guidance for Infuriate: 
 
-1. Use during the opener
-2. Use during Trick Attack
-3. Use before second charge accumulates
-4. DO NOT use during Inner Release
-5. DO NOT use before Inner Release, unless you can Inner Chaos/Chaotic Cyclone before Inner Release activation
+1. Use during the opener.
+2. Use during Trick Attack.
+3. Use before second charge accumulates.
+4. DO NOT use during Inner Release.
+5. DO NOT use before Inner Release, unless you can Inner Chaos/Chaotic Cyclone before Inner Release activation.
 
 ## Utility
 
@@ -321,7 +321,7 @@ For 3+ targets:
 
 ![Inner Release 3+](https://cdn.discordapp.com/attachments/752334526449057853/884757299846074438/unknown.png)
 
-To correctly perform this, each Inner Release must be executed in the second oGCD slot of the GCD. If not done in the second oGCD slot, you have a chance to miss the fifth GCD skill and lose a good amount of potency as a result. **Check the picture below for a good moment to activate your Inner Release.**
+To correctly perform this, each Inner Release must be executed in the 2nd oGCD slot of the GCD. If not done in the 2nd oGCD slot, you have a chance to miss the 5th GCD skill and lose a good amount of potency as a result. **Check the picture below for a good moment to activate your Inner Release.**
 
 ![Inner Release Moment](https://cdn.discordapp.com/attachments/752334526449057853/884757552640974879/unknown.png)
 
@@ -334,7 +334,7 @@ As a counterpoint, hitting a target you’re not supposed to hit, while in Defia
 
 #### Provoke
 
-Provoke is your go-to tool for grabbing the aggro. Patch 5.0 changed how Provoke works and currently each cast first places you on top of the enmity list and then adds a fixed amount of about 38,000 (380,000 in Defiance) points of enmity (for lvl 80 ilvl 430 Warrior). Makes tank swapping process a breeze.
+Provoke is your go-to tool for grabbing the aggro. Patch 5.0 changed how Provoke works and currently each cast first places you on top of the enmity list and then adds a fixed amount of about 38,000 (380,000 in Defiance) points of enmity (for lvl 80 ilvl 430 Warrior). Makes the tank swapping process a breeze.
 
 #### Shirk
 
@@ -352,19 +352,20 @@ For a more in-depth look on Enmity Values for lvl 80 ilvl 444 BiS Warrior,  you 
 
 NOTE: 
 
-* Variable abilities will have VARIABLE damage (example: Heavy Swing will be 4000-4400 damage) and as a result will have VARIABLE enmity values during the fight. It will cause +- 5% difference with enmity values in the table.
+* Variable abilities will have VARIABLE damage (example: Heavy Swing will be 4000-4400 damage) and as a result will have VARIABLE enmity values during the fight. It will cause +/- 5% difference with enmity values in the table.
 * Fixed abilities will have FIXED enmity values.
 * Damage buffs, Critical Hits and Direct Hits will change the output of abilities and as a result will change enmity values (example: Storm's Eye buff will increase your damage by 10% and as a result enmity will be increased by 10%). 
 * Provoke takes damage buffs into consideration as well.
-* Critical Direct Hit effect is omitted for comparison purposes
 
-\*\* Storm's Path doesn't generate extra enmity via HP recovery effect
+\* Critical Direct Hit effect is omitted for comparison purposes.
 
-\*\** Sets your enmity equal to the highest enmity and adds fixed amount on top
+\*\* Storm's Path doesn't generate extra enmity via HP recovery effect.
 
-\*\*\*\* Shirk instantly transfers 25% of your current enmity to the party member
+\*\** Sets your enmity equal to the highest enmity and adds fixed amount on top.
 
-**\*** Defiance adds x10 enmity multiplier to all your skills. Applies to itself. 
+\*\*\*\* Shirk instantly transfers 25% of your current enmity to the party member.
+
+\***** Defiance adds x10 enmity multiplier to all your skills. Applies to itself. 
 
 ### Mitigation and Recovery
 
@@ -450,7 +451,7 @@ Shake It Off is the party-shielding tool for Warriors. Using Shake It Off consum
 
 #### Reprisal
 
-Reprisal is simply a wide mitigation tool, which lowers the targets’ damage dealt by 10% for the next ten seconds at 60 seconds recast timer. Good for raid-wide damage or additional tank buster mitigation, if there’s no better use for it in the next 60 seconds. It’s also an AoE skill, meaning that you can Reprisal multiple targets at once!
+Reprisal is simply a wide mitigation tool, which lowers the targets’ damage dealt by 10% for the next ten seconds at a 60 second recast timer. Good for raid-wide damage or additional tank buster mitigation, if there’s no better use for it in the next 60 seconds. It’s also an AoE skill, meaning that you can Reprisal multiple targets at once!
 
 #### Arm’s Length
 
@@ -482,7 +483,7 @@ At present there is only a single worthy opener for Warriors, mainly because we 
 
 IC IR IC IC opener takes advantage of the potion’s whole duration, landing in three Inner Chaos, two combo finishers, a Fell Cleave and all the important oGCDs.
 
-Nascent Flash makes sure that you’re using Inner Release in the second oGCD slot between GCDs, and that it lines up with Upheaval. You can use Nascent Flash later on if you wish to cover any fight damage that comes up a few GCDs later compared to the opener.
+Nascent Flash makes sure that you are using Inner Release in the second oGCD slot between GCDs, and that it lines up with Upheaval. You can use Nascent Flash later on if you wish to cover any fight damage that comes up a few GCDs later compared to the opener.
 
 If you are facepulling, move the Infuriate forward by a GCD, right after Heavy Swing.
 
@@ -497,7 +498,7 @@ The basic rotation in a 100% uptime scenario is generously put a priority list:
 * Keep Storm’s Eye up and refresh it below 15 seconds.
 * Keep Upheaval on cooldown.
 * Keep Inner Release on cooldown (fight-dependent).
-* Hit five Fell Cleaves, one Upheaval and one Onslaught inside every Inner Release
+* Hit five Fell Cleaves, one Upheaval and one Onslaught inside every Inner Release.
 * Don’t overcap the Beast Gauge.
 * As a rule of thumb, use Fell Cleave only after 70 Beast Gauge.
 * Use Storm’s Path to gain as much Beast Gauge as possible.
@@ -562,11 +563,11 @@ Direct Hit is avoided altogether because of how Inner Chaos and Inner Release wo
 
 Currently “Supported” **Skill Speed Tiers**
 
-* 1015 for 2.43 GCD - Highest DPS, but requires some planning
-* 1117 for 2.42 GCD - Some breathing room compared to the one above
-* 1523 for 2.38 GCD - Your average Warrior skill speed
-* 1624 for 2.37 GCD - Some breathing room for mechs and clipping
-* 1726 for 2.36 GCD - "Greeding Mechanics" levels of comfy
+* 1015 for 2.43 GCD - Highest DPS, but requires some planning.
+* 1117 for 2.42 GCD - Some breathing room compared to the one above.
+* 1523 for 2.38 GCD - Your average Warrior skill speed.
+* 1624 for 2.37 GCD - Some breathing room for mechs and clipping.
+* 1726 for 2.36 GCD - "Greeding Mechanics" levels of comfy.
 
 The difference between 2.43 GCD and 2.38 GCD is a single weapon skill between Inner Releases:
 
@@ -601,13 +602,13 @@ Total amount of Weapon skills per 90 seconds:
 
 ## Guides:
 
-[Beginner's Tank Guide](https://docs.google.com/document/d/1cLIQbPzzWg-IWxo_Myom-_9aSqf7xO4vxmhk6QaLPkM)
+[Beginner's Tank Guide](https://guides.xivresources.com/guide/becoming-a-better-tank)
 <br> Visit for basics of tanking. 
 
-[Paladin Primer v4.58](https://docs.google.com/document/d/1JY2t2GvNaNnQhZ5Isp-HIso2JgGMY6WXk5IGAY2v8AU)
+[Paladin Primer](https://guides.xivresources.com/jobs/tanks/paladin/basic-guide/)
 <br> Visit for shield wielding tips. 
 
-[Gunbreaker Primer v5.00](https://docs.google.com/document/d/1gfsMbHP55N5e0UKyc9zfpAdL_uVco40YdBlVNGvyJ0k)
+[Gunbreaker Primer](https://guides.xivresources.com/jobs/tanks/gunbreaker/basic-guide/)
 <br> Visit for gunpowder blasting tips. 
 
 ## Websites:
