@@ -13,7 +13,7 @@ changelog:
 
 Hello, and welcome to Monkey, I am Perfect Balance and I am going to feed you the information you need to punch and kick at a decent level in the patch of our lord and saviour, 5.58. You can get in touch with me on Discord at wulf#8419, or on Twitter. at [@RiddleOfFire](https://twitter.com/RiddleOfFire). I'm not one for lengthy introductions, so let's get to feeding.
 
-# Section 1 - Introduction
+# Section One - Introduction
 
 ## Acronyms and abbreviations
 
@@ -61,7 +61,7 @@ Somewhat similarly, [these](https://i.imgur.com/4IIF3ey.png) are the SkS thresho
 
 [Here](http://bit.ly/Gear-Planner) is a gear planner from Jahadaunt that you can use to figure out the best gear set for your situation as you gear up towards BiS.
 
-# Section 2: Basics
+# Section Two: Basics
 
 ## Positionals
 
@@ -73,7 +73,7 @@ Dragon Kick, Twin Snakes, and Snap Punch on the other hand are best used from an
 
 This might sound like a lot of movement back and forth from the enemy's rear to side and back again, but in reality, you can simply stand near the borderline of where the enemy hitbox crosses from side to rear and step back and forth between that line as needed. The image below illustrates which part of the hitbox is classified as flank/rear, and also indicates with a red arrow which area to ideally stand for minimal required movement.
 
-![](blob:https://guides.xivresources.com/198bb071-ea58-4a10-90c3-f6cadc0ad555 "Positional box thing")
+![](/img/positional-thing.png "Positional box thing")
 
 ## Forms
 
@@ -87,7 +87,7 @@ In Raptor form, True Strike, Twin Snakes, and Four-point Fury gain additional ef
 
 In Coeurl form, Demolish, Snap Punch, and Rockbreaker gain additional effects.
 
-![Form GCDs](blob:https://guides.xivresources.com/ad6ebfde-a961-4e16-8cef-d43c1d553239)
+![Form GCDs](/img/forms-thing.png)
 
 ## Uptime
 
@@ -97,21 +97,21 @@ Now, I mean this in two different senses of the word. First and foremost is what
 
 Second is keeping your GCD rolling in general. Some people will choose to prioritise positionals more than rolling their GCDs, and so will stop hitting the boss for a second or so in order to make sure they're in position to continue hitting. This is really bad and you shouldn't do this. If you're unable to hit a positional, keep your GCD rolling anyway, as the amount of time wasted waiting for the positional to become available will add up to an incredible amount of potential missed GCDs over a fight, which is far more punishing that missing the positional is.
 
-# Section 3 - Building the Rotation
+# Section Three - Building the Rotation
 
 ## Single target GCDs
 
 As previously mentioned, Monk has six core single-target GCDs.
 
-|                                             |                                                                                                                                                                                                                                                                                                                          |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![](https://xivapi.com/i/000000/000208.png) | Bootshine has a potency of 200, or 370 when you have Leaden Fist. When in Opo-Opo form, Bootshine will always crit if executed from the rear of an enemy.                                                                                                                                                                |
-| ![](https://xivapi.com/i/002000/002528.png) | Dragon Kick has a potency of 230, or 260 when executed from the flank. When in Opo-Opo form, it will grant the Leaden Fist buff.                                                                                                                                                                                         |
-| ![](https://xivapi.com/i/000000/000209.png) | True Strike has a potency of 270, or 300 when executed from the rear. It can only be executed from Raptor form.                                                                                                                                                                                                          |
-| ![](https://xivapi.com/i/000000/000213.png) | Twin Snakes has a potency of 230, or 260 when executed from the flank. It also grants a 10% damage increase buff that lasts for 15 seconds, and can only be executed from Raptor form.                                                                                                                                   |
-| ![](https://xivapi.com/i/000000/000204.png) | Demolish has a potency of 80, or 110 when executed from the rear. It applies an 18 second duration dot with 80 potency, for a combined total of 110+480 potency. It can only be executed from Coeurl form.                                                                                                               |
-| ![](https://xivapi.com/i/000000/000210.png) | Snap Punch has a potency of 270, or 300 when executed from the flank. It can only be executed from Coeurl form.                                                                                                                                                                                                          |
-| ![](https://xivapi.com/i/002000/002536.png) | Form Shift is a unique GCD, as it's not directly a part of our rotation, but it does enable our rotation. Form Shift grants the Formless Fist buff, which allows you to use any GCD and gain its additional form effects. Since this GCD does no damage, we only ever use it before pulling an enemy or during downtime. |
+|                                                 |                                                                                                                                                                                                                                                                                                                          |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](https://xivapi.com/i/000000/000208_hr1.png) | Bootshine has a potency of 200, or 370 when you have Leaden Fist. When in Opo-Opo form, Bootshine will always crit if executed from the rear of an enemy.                                                                                                                                                                |
+| ![](https://xivapi.com/i/002000/002528_hr1.png) | Dragon Kick has a potency of 230, or 260 when executed from the flank. When in Opo-Opo form, it will grant the Leaden Fist buff.                                                                                                                                                                                         |
+| ![](https://xivapi.com/i/000000/000209_hr1.png) | True Strike has a potency of 270, or 300 when executed from the rear. It can only be executed from Raptor form.                                                                                                                                                                                                          |
+| ![](https://xivapi.com/i/000000/000213_hr1.png) | Twin Snakes has a potency of 230, or 260 when executed from the flank. It also grants a 10% damage increase buff that lasts for 15 seconds, and can only be executed from Raptor form.                                                                                                                                   |
+| ![](https://xivapi.com/i/000000/000204_hr1.png) | Demolish has a potency of 80, or 110 when executed from the rear. It applies an 18 second duration dot with 80 potency, for a combined total of 110+480 potency. It can only be executed from Coeurl form.                                                                                                               |
+| ![](https://xivapi.com/i/000000/000210_hr1.png) | Snap Punch has a potency of 270, or 300 when executed from the flank. It can only be executed from Coeurl form.                                                                                                                                                                                                          |
+| ![](https://xivapi.com/i/002000/002536_hr1.png) | Form Shift is a unique GCD, as it's not directly a part of our rotation, but it does enable our rotation. Form Shift grants the Formless Fist buff, which allows you to use any GCD and gain its additional form effects. Since this GCD does no damage, we only ever use it before pulling an enemy or during downtime. |
 
 There are a couple of minor things to keep in mind here. First is that at every form you have two options for which GCD to use. Second, is that all positionals are worth 30 potency except for Bootshine, where you instead lose the guaranteed crit effect if you miss the positional. Therefore Bootshine is the most important positional to land, as it's potentially the biggest loss.
 
@@ -123,9 +123,9 @@ There are multiple ways that we generate Chakra.
 
 |                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002534.png)                                                                         | First is Meditation, a GCD with a one second cooldown that opens a single chakra upon being pressed. When outside of combat it generates five stacks of chakra instantly.                                                                                                                                                                                                                                            |
+| ![](https://xivapi.com/i/002000/002534_hr1.png)                                                                     | First is Meditation, a GCD with a one second cooldown that opens a single chakra upon being pressed. When outside of combat it generates five stacks of chakra instantly.                                                                                                                                                                                                                                            |
 | ![](https://ffxiv.gamerescape.com/w/images/thumb/7/73/Deep_Meditation_II_Icon.png/48px-Deep_Meditation_II_Icon.png) | We then have two traits; Deep Meditation I & II. Deep Meditation I grants an 80% chance of generating a chakra upon landing a critical weaponskill. Deep Meditation II turns that 80% chance into a 100% chance.                                                                                                                                                                                                     |
-| ![](https://xivapi.com/i/002000/002542.png)                                                                         | Finally we have Brotherhood. Brotherhood has multiple effects, but in this section we'll just talk about the effect pertaining to Chakra generation. Upon execution, party members within 15 yalms will gain the effect of Meditative Brotherhood for 15 seconds. While this buff is active on an ally, every time they execute a weaponskill or a spell there is a 20% chance that you will gain a stack of Chakra. |
+| ![](https://xivapi.com/i/002000/002542_hr1.png)                                                                     | Finally we have Brotherhood. Brotherhood has multiple effects, but in this section we'll just talk about the effect pertaining to Chakra generation. Upon execution, party members within 15 yalms will gain the effect of Meditative Brotherhood for 15 seconds. While this buff is active on an ally, every time they execute a weaponskill or a spell there is a 20% chance that you will gain a stack of Chakra. |
 
 ## oGCDs
 
@@ -133,27 +133,27 @@ In terms of oGCDs, Monk is somewhat simple.
 
 We have three buffs:
 
-| Icon                                        | Name            | Cooldown | Duration       | Effect                                                                                                                                                                |
-| ------------------------------------------- | --------------- | -------- | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002541.png) | Riddle of Fire  | 90s      | 20s            | Increases damage dealt by 25%.                                                                                                                                        |
-| ![](https://xivapi.com/i/002000/002542.png) | Brotherhood     | 90s      | 15s            | Applies 2 effects to you and all party members within 15 yalms. The first is a 5% damage increase. The second is Meditative Brotherhood, which helps generate chakra. |
-| ![](https://xivapi.com/i/000000/000217.png) | Perfect Balance | 90s      | 10s / 6 stacks | Enables the use of any GCD as if you have its form bonus.                                                                                                             |
+| Icon                                            | Name            | Cooldown | Duration       | Effect                                                                                                                                                                |
+| ----------------------------------------------- | --------------- | -------- | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://xivapi.com/i/002000/002541_hr1.png) | Riddle of Fire  | 90s      | 20s            | Increases damage dealt by 25%.                                                                                                                                        |
+| ![](https://xivapi.com/i/002000/002542_hr1.png) | Brotherhood     | 90s      | 15s            | Applies 2 effects to you and all party members within 15 yalms. The first is a 5% damage increase. The second is Meditative Brotherhood, which helps generate chakra. |
+| ![](https://xivapi.com/i/000000/000217_hr1.png) | Perfect Balance | 90s      | 10s / 6 stacks | Enables the use of any GCD as if you have its form bonus.                                                                                                             |
 
 We have five damaging oGCDs at our disposal.
 
-| Icon                                        | Name                 | Cooldown | Effect                                                                                                                                                                                            |
-| ------------------------------------------- | -------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002533.png) | Elixir Field         | 30s      | Deals 250 potency to all enemies in a 5 yalm radius around the user.                                                                                                                              |
-| ![](https://xivapi.com/i/002000/002531.png) | Tornado Kick         | 45s      | Deals 400 potency to a single target.                                                                                                                                                             |
-| ![](https://xivapi.com/i/002000/002526.png) | Shoulder Tackle      | 30s      | Deals 100 potency to a single target, with 2 charges. This is also our gap closer, and so should be used to traverse long distances quickly as opposed to walking across a room and wasting time. |
-| ![](https://xivapi.com/i/002000/002535.png) | The Forbidden Chakra | 1s       | Deals 340 potency to a single target. As previously mentioned, The Forbidden Chakra costs five stacks of Chakra to use.                                                                           |
-| ![](https://xivapi.com/i/002000/002545.png) | Enlightenment        | 1s       | Deals 200 potency to all enemies in a straight line in front of you. Enlightenment also has a cost of 5 Chakra.                                                                                   |
+| Icon                                            | Name                 | Cooldown | Effect                                                                                                                                                                                            |
+| ----------------------------------------------- | -------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://xivapi.com/i/002000/002533_hr1.png) | Elixir Field         | 30s      | Deals 250 potency to all enemies in a 5 yalm radius around the user.                                                                                                                              |
+| ![](https://xivapi.com/i/002000/002531_hr1.png) | Tornado Kick         | 45s      | Deals 400 potency to a single target.                                                                                                                                                             |
+| ![](https://xivapi.com/i/002000/002526_hr1.png) | Shoulder Tackle      | 30s      | Deals 100 potency to a single target, with 2 charges. This is also our gap closer, and so should be used to traverse long distances quickly as opposed to walking across a room and wasting time. |
+| ![](https://xivapi.com/i/002000/002535_hr1.png) | The Forbidden Chakra | 1s       | Deals 340 potency to a single target. As previously mentioned, The Forbidden Chakra costs five stacks of Chakra to use.                                                                           |
+| ![](https://xivapi.com/i/002000/002545_hr1.png) | Enlightenment        | 1s       | Deals 200 potency to all enemies in a straight line in front of you. Enlightenment also has a cost of 5 Chakra.                                                                                   |
 
 We never hold any of our oGCDs. You'll notice that every skills cooldown is a multiple of 90; this means that if we press them all exactly when they come back up, they will realign perfectly every time.
 
 ## Openers
 
-![](blob:https://guides.xivresources.com/1e195367-9b81-41e5-8b84-5b77cbe86e4b)
+![](/img/mnk-openers.png)
 
 We currently have two different openers: the Standard and the Early opener. Generally you're better off using the standard opener, the early opener is better for specific situations based on fight/phase length where you're able to get an additional use of oGCDs, extra time on a buff, or better buff timings for your group. If you have the ability to double weave without clipping your GCD, this allows you to consolidate your Brotherhood and Perfect Balance into a double weave, freeing up an oGCD slot for potential Forbidden Chakra procs. This can be done for both the standard and early opener, however it will change your Brotherhood timing, so you may wish to let your group know in case anyone was planning around your Brotherhood.
 
@@ -201,7 +201,7 @@ Now on the face of it this might seem really confusing and like you're constantl
 
 Depending on the opener you used, your ensuing rotation will end up looking like one of the two following images;
 
-![](blob:https://guides.xivresources.com/0603e6b0-e63f-41d5-92cb-e78afff17dc0)
+![](/img/rotation-loop-thing.png)
 
 ### Post-Opener RoFs
 
@@ -213,22 +213,22 @@ Your Opo-Opo GCDs flipping doesn't just effect your burst though, it also effect
 
 Monk has a number of utility skills that range from very useful to almost entirely useless.
 
-|                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![](https://xivapi.com/i/002000/002547.png) | First is Six-Sided Star, a GCD with a potency of 540. It also grants a movement speed buff for five seconds, isn't locked to a form, and has no positional. At first glance, this move seems very strong and like something you'd want to use frequently, however it's unique in that its GCD is twice as long as any other GCD, 5 seconds at base. Simply put, using 2 GCDs is always better than using one SSS, so you will only ever use SSS in scenarios where you *cannot* use 2 GCDs. This means before a boss goes invulnerable, as the last GCD before an enemy dies, as the last GCD before you have to disengage from an enemy, or before using a Limit Break. |
-| ![](https://xivapi.com/i/002000/002546.png) | We then have Anatman, which is basically useless. Anatman is a skill on the GCD, which when used puts you in a channel state that will be broken if you move, use any other skill, or even just turn your character. Upon use, your Twin Snakes buff will be refreshed to 15 seconds, and will remain there for the duration of the channel. If this sounds useless, it's because it is. At its absolute best, it will gain you 50~ potency.                                                                                                                                                                                                                             |
-| ![](https://xivapi.com/i/000000/000830.png) | True North is one of our best friends. It's a 45 second cooldown with two charges, and nullifies positional requirements for ten seconds. This is incredible for those situations where, for whatever reason, you're not able to get behind/to the side of an enemy, and will save you a lot of lost damage when used correctly.                                                                                                                                                                                                                                                                                                                                         |
-| ![](https://xivapi.com/i/002000/002537.png) | Riddle of Earth is effectively a mini True North, with three charges and a 30 second cooldown. Upon activation, you gain three stacks of Riddle of Earth, each of which provides 10% mitigation and nullifies the positional of a single GCD. This should primarily be used for its positional nullification, but in emergencies can be used for its mitigation.                                                                                                                                                                                                                                                                                                         |
-| ![](https://xivapi.com/i/000000/000822.png) | Arms Length is a 120 second cooldown that nullifies knockbacks, it doesn't apply to *all* knockbacks, but it should cover most of them. Very nice skill to have, as it makes sure you don't get knocked away from the boss so you can keep punching.                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](https://xivapi.com/i/002000/002547_hr1.png) | First is Six-Sided Star, a GCD with a potency of 540. It also grants a movement speed buff for five seconds, isn't locked to a form, and has no positional. At first glance, this move seems very strong and like something you'd want to use frequently, however it's unique in that its GCD is twice as long as any other GCD, 5 seconds at base. Simply put, using 2 GCDs is always better than using one SSS, so you will only ever use SSS in scenarios where you *cannot* use 2 GCDs. This means before a boss goes invulnerable, as the last GCD before an enemy dies, as the last GCD before you have to disengage from an enemy, or before using a Limit Break. |
+| ![](https://xivapi.com/i/002000/002546_hr1.png) | We then have Anatman, which is basically useless. Anatman is a skill on the GCD, which when used puts you in a channel state that will be broken if you move, use any other skill, or even just turn your character. Upon use, your Twin Snakes buff will be refreshed to 15 seconds, and will remain there for the duration of the channel. If this sounds useless, it's because it is. At its absolute best, it will gain you 50~ potency.                                                                                                                                                                                                                             |
+| ![](https://xivapi.com/i/000000/000830_hr1.png) | True North is one of our best friends. It's a 45 second cooldown with two charges, and nullifies positional requirements for ten seconds. This is incredible for those situations where, for whatever reason, you're not able to get behind/to the side of an enemy, and will save you a lot of lost damage when used correctly.                                                                                                                                                                                                                                                                                                                                         |
+| ![](https://xivapi.com/i/002000/002537_hr1.png) | Riddle of Earth is effectively a mini True North, with three charges and a 30 second cooldown. Upon activation, you gain three stacks of Riddle of Earth, each of which provides 10% mitigation and nullifies the positional of a single GCD. This should primarily be used for its positional nullification, but in emergencies can be used for its mitigation.                                                                                                                                                                                                                                                                                                         |
+| ![](https://xivapi.com/i/000000/000822_hr1.png) | Arms Length is a 120 second cooldown that nullifies knockbacks, it doesn't apply to *all* knockbacks, but it should cover most of them. Very nice skill to have, as it makes sure you don't get knocked away from the boss so you can keep punching.                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 We also have a couple of skills that help our friends in the party out, and they're as follows:\
 
-|                                             |                                                                                                                                                                                                                                                                                                                                                                  |
-| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/000000/000216.png) | Mantra, a 90 second cooldown that increases healing received by 10% on yourself and anyone nearby at the time you pressed it. Generally best to confer with your healers as to when they want it, but if for whatever reason there's no communication going on there, just use it before big AoE damage comes out on the group.                                  |
-| ![](https://xivapi.com/i/000000/000828.png) | Feint, another 90 second cooldown that lowers the targets strength and dexterity by 10% for ten seconds. Useful on enemies that deal physical damage, but again, it's best to ask the tanks or healers when they want you to use this skill. In general, do it for big physical hits. Be careful not to overwrite a Feint another melee DPS has already applied. |
-| ![](https://xivapi.com/i/000000/000823.png) | Bloodbath, another 90 second cooldown. For 20 seconds, you'll heal for a portion of your damage dealt. This is nice if your healer is struggling, or if you took some single target damage.                                                                                                                                                                      |
-| ![](https://xivapi.com/i/000000/000821.png) | Second Wind, a 120 second cooldown that instantly heals you for 500 potency. See description of Bloodbath.                                                                                                                                                                                                                                                       |
+|                                                 |                                                                                                                                                                                                                                                                                                                                                                  |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://xivapi.com/i/000000/000216_hr1.png) | Mantra, a 90 second cooldown that increases healing received by 10% on yourself and anyone nearby at the time you pressed it. Generally best to confer with your healers as to when they want it, but if for whatever reason there's no communication going on there, just use it before big AoE damage comes out on the group.                                  |
+| ![](https://xivapi.com/i/000000/000828_hr1.png) | Feint, another 90 second cooldown that lowers the targets strength and dexterity by 10% for ten seconds. Useful on enemies that deal physical damage, but again, it's best to ask the tanks or healers when they want you to use this skill. In general, do it for big physical hits. Be careful not to overwrite a Feint another melee DPS has already applied. |
+| ![](https://xivapi.com/i/000000/000823_hr1.png) | Bloodbath, another 90 second cooldown. For 20 seconds, you'll heal for a portion of your damage dealt. This is nice if your healer is struggling, or if you took some single target damage.                                                                                                                                                                      |
+| ![](https://xivapi.com/i/000000/000821_hr1.png) | Second Wind, a 120 second cooldown that instantly heals you for 500 potency. See description of Bloodbath.                                                                                                                                                                                                                                                       |
 
 ## How to Effect Areas
 
@@ -236,11 +236,11 @@ Now that we've broadly covered how Monk works and looked at the single target ro
 
 Monk has a third GCD option on each of its forms -- these are our AoE GCDs.
 
-|                                             |                                                                                                                                  |
-| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/000000/000215.png) | Opo-Opo form has Arm of the Destroyer, a circle AoE around you with a 110 potency, or 140 with form bonus.                       |
-| ![](https://xivapi.com/i/002000/002544.png) | Raptor form has Four-point Fury, another circle AoE around you with a 140 potency which also extendes Twin Snakes by 10 seconds. |
-| ![](https://xivapi.com/i/002000/002529.png) | Coeurl form has Rockbreaker, *another* circle AoE around you with 150 potency.                                                   |
+|                                                 |                                                                                                                                  |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://xivapi.com/i/000000/000215_hr1.png) | Opo-Opo form has Arm of the Destroyer, a circle AoE around you with a 110 potency, or 140 with form bonus.                       |
+| ![](https://xivapi.com/i/002000/002544_hr1.png) | Raptor form has Four-point Fury, another circle AoE around you with a 140 potency which also extendes Twin Snakes by 10 seconds. |
+| ![](https://xivapi.com/i/002000/002529_hr1.png) | Coeurl form has Rockbreaker, *another* circle AoE around you with 150 potency.                                                   |
 
 To AoE, you start by applying Twin Snakes and then simply begin using your AoE GCDs instead of single target, based on the amount of enemies.
 
@@ -250,38 +250,6 @@ At three targets, Arm of the Destroyer replaces Dragon Kick/Bootshine, Four-poin
 
 At 4+ enemies you shift to entirely using only your three AoE GCDs.
 
-# Section 4
+- - -
 
-## FAQ
-
-* "RoF is coming up too early in my rotation, what do?"
-
-This likely means your GCD is too fast, and should naturally fix itself when you reach the desired GCD threshold of 1.96. In the meantime, you can fix this by doing an additional uncomboed Dragon Kick following a previous Dragon Kick. This will slow you down by one GCD and should realign RoF with Demolish.
-
-* "Why don't I get Leaden Fist after using PB?"
-
-As mentioned, your first GCD after PB is formless so will not grant you a Leaden Fist. This is totally fine and normal.
-
-* "If I end PB with Leaden Fist, should I not do an uncomboed Bootshine instead?"
-
-No, as this would be a waste of the Leaden Fist proc. You want all of your Bootshines to be guaranteed crits, so you would stick to the rule of "Always DK after PB" to make sure the Leaden isn't eaten by an uncomboed Boot. Remember, we're not 'wasting' / 'overcapping' on Leaden stacks here, as the DK is uncomboed.
-
-* "What should I meld on X"
-
-For Monk we want Crit > DH > Det.
-
-* "What's BiS?"/"What stats should I put on my relic?"
-
-Current BIS sets can be found here:
-
-[No relic bis](https://etro.gg/gearset/388e7ee7-2919-49bf-b1d8-75fcfae73ce5)
-
-[Relic](https://etro.gg/gearset/2a0fbde0-fa6f-47b6-aa0d-9b7d240c6e19)
-
-The following Pastebin contains recommendations for BiS sets in all three Ultimate fights, containing both Relic/Non-relic sets
-
-[Pastebin](https://pastebin.com/EHSwUxsa)
-
-* "Twin Snakes falls off in my opener, is that normal?"
-
-Yep, Twin Snakes will fall off for a little bit during PB.
+Still have questions? Check out the [FAQ page](https://guides.xivresources.com/jobs/melee/monk/faq/) where some may be answered.
