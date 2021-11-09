@@ -19,40 +19,13 @@ Updated by Sweaty Boxer of Midgardsormr
 
 # Foreword
 
-With the release of Shadowbringers, Samurai is now celebrating two years in the game, and with Aureum’s permission I’m taking over as caretaker for this guide. The 5.0 update brings with it several changes to both Samurai and melee as a whole, but due to the nature of this guide, I will be introducing them for players new to the job. Please see [Jahaudant’s Samurai Compendium](https://guides.xivresources.com/admin/#/collections/sam-guides/entries/expert-the-shadowbringers-samurai-compendium) for a more in depth look at the changes from 4.X to 5.0 and further optimisations to endgame PvE on Samurai.
+With the release of Shadowbringers, Samurai is now celebrating two years in the game, and with Aureum’s permission I’m taking over as caretaker for this guide. The 5.0 update brings with it several changes to both Samurai and melee as a whole, but due to the nature of this guide, I will be introducing them for players new to the job. Please see [Jahaudant’s Samurai Compendium](https://guides.xivresources.com/jobs/melee/samurai/expert-the-shadowbringers-samurai-compendium/) for a more in depth look at the changes from 4.X to 5.0 and further optimisations to endgame PvE on Samurai.
 
 > \-Sweaty Boxer
+- - - 
 
-- - -
 
-# Table of Contents
 
-* Foreword
-* Table of Contents
-* Changelog
-* Actions
-
-  * Weaponskills (GCD)
-  * Off GCDS
-  * Buffs
-  * Role Actions
-* Shape of the Blade: Introduction to Samurai
-
-  * Playstyle
-* Swinging the Blade: Practicing the Strokes
-
-  * Combo and Buffs Priority
-  * Honing the Blade: Kenki and Potency
-  * To Enpi or to Not Enpi (And Gyoten and Yaten)
-  * Meikyo Shisui: A Mirror in Still Water
-  * Hagakure Usage - A Brief Mention
-  * Higanbana Timing
-  * Openers
-  * AOE Rotations
-* Conclusion
-* Complete Beginner's Guide
-* Glossary
-* Rules of Thumb
 
 The following section summarizes Samurai's abilities. You may also refer to [Square Enix's Samurai Job
  Guide](https://na.finalfantasyxiv.com/jobguide/samurai) for specific skill and trait text. Feel free to skip this section if you're familiar with Samurai's skills.
@@ -65,49 +38,49 @@ The following section summarizes Samurai's abilities. You may also refer to [Squ
 
 |                                             |                                                                                                                                                                                                                                                                                     |                                                                                                                                                                           |
 | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/003000/003151.png) |                                                                                                                                                                                                                                                                                     | **Hakaze**  Single target combo starter. 200 potency. +5 Kenki.                                                                                                        |
-| ![](https://xivapi.com/i/003000/003152.png) |                                                                                                                                                                                                                                                                                     | **Jinpu**  Single target second step combo. 100 potency, 320 potency if combo from Hakaze. Combo Bonus: Increases damage dealt by 13% for 40s, +5 Kenki.            |
-| ![](https://xivapi.com/i/003000/003156.png) |                                                                                                                                                                                                                                                                                     | **Shifu**  Single target second step combo. 100 potency, 320 potency if combo from Hakaze.  Combo Bonus: Reduces GCD and autoattack delay by 13% for 405, +5 Kenki. |
-| ![](https://xivapi.com/i/003000/003166.png) | ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Setsu.png](https://lh6.googleusercontent.com/lW5486Um3Pv47vhQ8JbdZRN2hoXIOEj0mGBUN499CrqfPsbdmRGrEsD9qtyDzJSocNthd8tfnDa6jLKu_LdDQngUjBnFpeqv-pgAa57L_WuyxYH2JW6RcJzAXJ6y4TnAURE4csu3=s0) | **Yukikaze**  Single target second step combo. 100 potency, 360 potency if combo from Hakaze.  Combo Bonus: Setsu Sen, +15 Kenki.                                   |
-| ![](https://xivapi.com/i/003000/003158.png) | ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Getsu.png](https://lh3.googleusercontent.com/vh7p32RLojf1eVxekvJgdXj61Q4h4w8FTI0f7K-8QtGKUQRpqBsgIPqjGvTIp8jl1EQEHtDCan8xoegKxMtxnHN94Ti4koHcV69g5liT5ExglUdUoxa7vkyRQF0bock5ZcTtnFzH=s0) | **Gekko**  Single target third step combo 100 potency, 480 if combo from Jinpu.  Combo Bonus: Getsu Sen, +5 Kenki. +10 Kenki if Rear Combo.                         |
-| ![](https://xivapi.com/i/003000/003164.png) | ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Ka.png](https://lh6.googleusercontent.com/jSAYprY7WsOG_OyYhh-kYdWo9El9MvFzNKO3Tv4a6GyON8h_i1ToYCAG8bnb-QeQAmhiftTf26kbDKTAG7yoWR7wK0D3VcltTG80NWZ46-y5zZoGuRkcol9hM_LjJljycbeOcYcG=s0)    | **Kasha**  Single target third step combo. 100 potency, 480 if combo from Shifu.  Combo Bonus: Ka Sen, +5 Kenki. +10 Kenki if Flank Combo.                          |
-| ![](https://xivapi.com/i/003000/003159.png) |                                                                                                                                                                                                                                                                                     | **laijutsu**  1.3s casted Weaponskill. Effect depends on number of Sen held.  +1 Meditation stack (Max 3).                                                          |
-|                                             | ![](https://xivapi.com/i/003000/003160.png)                                                                                                                                                                                                                                         | **Higanbana**  Single target 50s DOT, 250 potency initial hit, 40 potency ticks. Total 1050.                                                                           |
-|                                             | ![](https://xivapi.com/i/003000/003161.png)                                                                                                                                                                                                                                         | **Tenka Goken**  AoE frontal cone, potency.                                                                                                                            |
-|                                             | ![](https://xivapi.com/i/003000/003162.png)                                                                                                                                                                                                                                         | **Midare Setsugekka**  Single target nuke, 800 potency.                                                                                                                |
-| ![](https://xivapi.com/i/003000/003180.png) |                                                                                                                                                                                                                                                                                     | **Tsubame-gaeshi**  Ability, combos off laijutsu. Recasts previous laijutsu with higher potency. 60s CD.  +1 Meditation stack (Max 3).                              |
-|                                             | ![](https://xivapi.com/i/003000/003181.png)                                                                                                                                                                                                                                         | **Kaeshi: Higanbana**   Single target 50s DOT, 375 potency initial hit, 60 potency ticks. Total 1575.  Does not stack with Higanbana.                               |
-|                                             | ![](https://xivapi.com/i/003000/003182.png)                                                                                                                                                                                                                                         | **Kaeshi: Goken**  AoE frontal cone, 540 potency.                                                                                                                      |
-|                                             | ![](https://xivapi.com/i/003000/003183.png)                                                                                                                                                                                                                                         | **Kaeshi: Setsugekka**  Single target nuke, 1200 potency.                                                                                                              |
-| ![](https://xivapi.com/i/003000/003155.png) |                                                                                                                                                                                                                                                                                     | **Enpi**   Single target ranged attack, 100 potency, 320 if combo (Yaten). +10 Kenki.                                                                                  |
-| ![](https://xivapi.com/i/003000/003157.png) |                                                                                                                                                                                                                                                                                     | **Fuga**  AoE frontal cone, 100 potency. +5 Kenki.                                                                                                                     |
-| ![](https://xivapi.com/i/003000/003163.png) | ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Getsu.png](https://lh3.googleusercontent.com/vh7p32RLojf1eVxekvJgdXj61Q4h4w8FTI0f7K-8QtGKUQRpqBsgIPqjGvTIp8jl1EQEHtDCan8xoegKxMtxnHN94Ti4koHcV69g5liT5ExglUdUoxa7vkyRQF0bock5ZcTtnFzH=s0) | **Mangetsu**   AoE in a circle around you, 100 potency, 160 if combo.  Combo Bonus: Getsu Sen, extends Jinpu buff by 15s (Max 40s). +10 Kenki.                      |
-| ![](https://xivapi.com/i/003000/003165.png) | ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Ka.png](https://lh6.googleusercontent.com/jSAYprY7WsOG_OyYhh-kYdWo9El9MvFzNKO3Tv4a6GyON8h_i1ToYCAG8bnb-QeQAmhiftTf26kbDKTAG7yoWR7wK0D3VcltTG80NWZ46-y5zZoGuRkcol9hM_LjJljycbeOcYcG=s0)    | **Oka**   AoE in a circle around you, 100 potency, 160 if combo.  Combo Bonus: Ka Sen, extends Shifu buff by 15s (Max 40s). +10 Kenki.                              |
+| ![](https://xivapi.com/i/003000/003151_hr1.png) |                                                                                                                                                                                                                                                                                     | **Hakaze**  Single target combo starter. 200 potency. +5 Kenki.                                                                                                        |
+| ![](https://xivapi.com/i/003000/003152_hr1.png) |                                                                                                                                                                                                                                                                                     | **Jinpu**  Single target second step combo. 100 potency, 320 potency if combo from Hakaze. Combo Bonus: Increases damage dealt by 13% for 40s, +5 Kenki.            |
+| ![](https://xivapi.com/i/003000/003156_hr1.png) |                                                                                                                                                                                                                                                                                     | **Shifu**  Single target second step combo. 100 potency, 320 potency if combo from Hakaze.  Combo Bonus: Reduces GCD and autoattack delay by 13% for 405, +5 Kenki. |
+| ![](https://xivapi.com/i/003000/003166_hr1.png) | ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Setsu.png](https://lh6.googleusercontent.com/lW5486Um3Pv47vhQ8JbdZRN2hoXIOEj0mGBUN499CrqfPsbdmRGrEsD9qtyDzJSocNthd8tfnDa6jLKu_LdDQngUjBnFpeqv-pgAa57L_WuyxYH2JW6RcJzAXJ6y4TnAURE4csu3=s0) | **Yukikaze**  Single target second step combo. 100 potency, 360 potency if combo from Hakaze.  Combo Bonus: Setsu Sen, +15 Kenki.                                   |
+| ![](https://xivapi.com/i/003000/003158_hr1.png) | ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Getsu.png](https://lh3.googleusercontent.com/vh7p32RLojf1eVxekvJgdXj61Q4h4w8FTI0f7K-8QtGKUQRpqBsgIPqjGvTIp8jl1EQEHtDCan8xoegKxMtxnHN94Ti4koHcV69g5liT5ExglUdUoxa7vkyRQF0bock5ZcTtnFzH=s0) | **Gekko**  Single target third step combo 100 potency, 480 if combo from Jinpu.  Combo Bonus: Getsu Sen, +5 Kenki. +10 Kenki if Rear Combo.                         |
+| ![](https://xivapi.com/i/003000/003164_hr1.png) | ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Ka.png](https://lh6.googleusercontent.com/jSAYprY7WsOG_OyYhh-kYdWo9El9MvFzNKO3Tv4a6GyON8h_i1ToYCAG8bnb-QeQAmhiftTf26kbDKTAG7yoWR7wK0D3VcltTG80NWZ46-y5zZoGuRkcol9hM_LjJljycbeOcYcG=s0)    | **Kasha**  Single target third step combo. 100 potency, 480 if combo from Shifu.  Combo Bonus: Ka Sen, +5 Kenki. +10 Kenki if Flank Combo.                          |
+| ![](https://xivapi.com/i/003000/003159_hr1.png) |                                                                                                                                                                                                                                                                                     | **laijutsu**  1.3s casted Weaponskill. Effect depends on number of Sen held.  +1 Meditation stack (Max 3).                                                          |
+|                                             | ![](https://xivapi.com/i/003000/003160_hr1.png)                                                                                                                                                                                                                                         | **Higanbana**  Single target 50s DOT, 250 potency initial hit, 40 potency ticks. Total 1050.                                                                           |
+|                                             | ![](https://xivapi.com/i/003000/003161_hr1.png)                                                                                                                                                                                                                                         | **Tenka Goken**  AoE frontal cone, potency.                                                                                                                            |
+|                                             | ![](https://xivapi.com/i/003000/003162_hr1.png)                                                                                                                                                                                                                                         | **Midare Setsugekka**  Single target nuke, 800 potency.                                                                                                                |
+| ![](https://xivapi.com/i/003000/003180_hr1.png) |                                                                                                                                                                                                                                                                                     | **Tsubame-gaeshi**  Ability, combos off laijutsu. Recasts previous laijutsu with higher potency. 60s CD.  +1 Meditation stack (Max 3).                              |
+|                                             | ![](https://xivapi.com/i/003000/003181_hr1.png)                                                                                                                                                                                                                                         | **Kaeshi: Higanbana**   Single target 50s DOT, 375 potency initial hit, 60 potency ticks. Total 1575.  Does not stack with Higanbana.                               |
+|                                             | ![](https://xivapi.com/i/003000/003182_hr1.png)                                                                                                                                                                                                                                         | **Kaeshi: Goken**  AoE frontal cone, 540 potency.                                                                                                                      |
+|                                             | ![](https://xivapi.com/i/003000/003183_hr1.png)                                                                                                                                                                                                                                         | **Kaeshi: Setsugekka**  Single target nuke, 1200 potency.                                                                                                              |
+| ![](https://xivapi.com/i/003000/003155_hr1.png) |                                                                                                                                                                                                                                                                                     | **Enpi**   Single target ranged attack, 100 potency, 320 if combo (Yaten). +10 Kenki.                                                                                  |
+| ![](https://xivapi.com/i/003000/003157_hr1.png) |                                                                                                                                                                                                                                                                                     | **Fuga**  AoE frontal cone, 100 potency. +5 Kenki.                                                                                                                     |
+| ![](https://xivapi.com/i/003000/003163_hr1.png) | ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Getsu.png](https://lh3.googleusercontent.com/vh7p32RLojf1eVxekvJgdXj61Q4h4w8FTI0f7K-8QtGKUQRpqBsgIPqjGvTIp8jl1EQEHtDCan8xoegKxMtxnHN94Ti4koHcV69g5liT5ExglUdUoxa7vkyRQF0bock5ZcTtnFzH=s0) | **Mangetsu**   AoE in a circle around you, 100 potency, 160 if combo.  Combo Bonus: Getsu Sen, extends Jinpu buff by 15s (Max 40s). +10 Kenki.                      |
+| ![](https://xivapi.com/i/003000/003165_hr1.png) | ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Ka.png](https://lh6.googleusercontent.com/jSAYprY7WsOG_OyYhh-kYdWo9El9MvFzNKO3Tv4a6GyON8h_i1ToYCAG8bnb-QeQAmhiftTf26kbDKTAG7yoWR7wK0D3VcltTG80NWZ46-y5zZoGuRkcol9hM_LjJljycbeOcYcG=s0)    | **Oka**   AoE in a circle around you, 100 potency, 160 if combo.  Combo Bonus: Ka Sen, extends Shifu buff by 15s (Max 40s). +10 Kenki.                              |
 
 ## Off GCDs
 
 |                                             |     |                                                                                                   |
 | ------------------------------------------- | --- | ------------------------------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/003000/003179.png) |     | **Ikishoten**   +50 Kenki. Can only be used in combat. 60s CD.                                 |
-| ![](https://xivapi.com/i/003000/003176.png) |     | **Hagakure**   Consumes all Sen, +10 Kenki for each consumed. 5s CD.                           |
-| ![](https://xivapi.com/i/003000/003168.png) |     | **Hissatsu: Kaiten**   +50% potency to next Weaponskill. -20 Kenki. 15 CD.                     |
-| ![](https://xivapi.com/i/003000/003173.png) |     | **Hissatsu: Shinten**   Single target attack, 320 potency. -25 Kenki. 15 CD.                   |
-| ![](https://xivapi.com/i/003000/003177.png) |     | **Hissatsu: Guren**   Line AOE, 850 potency. -50 Kenki. 2min CD, shared with Senei.            |
-| ![](https://xivapi.com/i/003000/003178.png) |     | **Hissatsu: Senei**   Single target nuke, 1100 potency. -50 Kenki. 2min CD, shared with Guren. |
-| ![](https://xivapi.com/i/003000/003170.png) |     | **Hissatsu: Yaten**   10-yalm backstep, 100 potency. Combos into Enpi. -10 Kenki. 10s CD.      |
-| ![](https://xivapi.com/i/003000/003169.png) |     | **Hissatsu: Gyoten**   Dash to target (20-yalm range), 100 potency. -10 Kenki. 10s CD          |
-| ![](https://xivapi.com/i/003000/003174.png) |     | **Hissatsu: Kyuten**   AoE in a circle around you, 150 potency. -25 Kenki. 15 CD.              |
-| ![](https://xivapi.com/i/003000/003184.png) |     | **Shoha**   Single target attack, 400 potency. -3 Meditation stacks. 15s CD.                   |
+| ![](https://xivapi.com/i/003000/003179_hr1.png) |     | **Ikishoten**   +50 Kenki. Can only be used in combat. 60s CD.                                 |
+| ![](https://xivapi.com/i/003000/003176_hr1.png) |     | **Hagakure**   Consumes all Sen, +10 Kenki for each consumed. 5s CD.                           |
+| ![](https://xivapi.com/i/003000/003168_hr1.png) |     | **Hissatsu: Kaiten**   +50% potency to next Weaponskill. -20 Kenki. 15 CD.                     |
+| ![](https://xivapi.com/i/003000/003173_hr1.png) |     | **Hissatsu: Shinten**   Single target attack, 320 potency. -25 Kenki. 15 CD.                   |
+| ![](https://xivapi.com/i/003000/003177_hr1.png) |     | **Hissatsu: Guren**   Line AOE, 850 potency. -50 Kenki. 2min CD, shared with Senei.            |
+| ![](https://xivapi.com/i/003000/003178_hr1.png) |     | **Hissatsu: Senei**   Single target nuke, 1100 potency. -50 Kenki. 2min CD, shared with Guren. |
+| ![](https://xivapi.com/i/003000/003170_hr1.png) |     | **Hissatsu: Yaten**   10-yalm backstep, 100 potency. Combos into Enpi. -10 Kenki. 10s CD.      |
+| ![](https://xivapi.com/i/003000/003169_hr1.png) |     | **Hissatsu: Gyoten**   Dash to target (20-yalm range), 100 potency. -10 Kenki. 10s CD          |
+| ![](https://xivapi.com/i/003000/003174_hr1.png) |     | **Hissatsu: Kyuten**   AoE in a circle around you, 150 potency. -25 Kenki. 15 CD.              |
+| ![](https://xivapi.com/i/003000/003184_hr1.png) |     | **Shoha**   Single target attack, 400 potency. -3 Meditation stacks. 15s CD.                   |
 
 ## Buffs
 
 |                                             |                                             |                                                                                                                                                                                                                                         |
 | ------------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/003000/003167.png) |                                             | **Meikyo Shisui**   Allows use of 3 Weaponskills without combo requirements. Excludes laijutsu. 155 duration, 55s CD.                                                                                                                |
-| ![](https://xivapi.com/i/003000/003172.png) |                                             | **Meditate**   Channeled Kenki and Meditation stack generation for 15s. Initial cast on the GCD. +10 Kenki (Max 50) and +1 Meditation stack (Max 3) per tick. Cancelled upon movement or action. Can only be used in combat. 60s CD. |
-| ![](https://xivapi.com/i/003000/003153.png) |                                             | **Third Eye**   Reduces next damage taken by 10%. If hit, grants Open Eyes for 15s. 3s duration, 15s CD.                                                                                                                             |
-|                                             | ![](https://xivapi.com/i/003000/003175.png) | **Hissatsu: Seigan**   Single target attack, 220 potency. Consumes Open Eyes. - 15 Kenki. 1s CD, shared with Merciful Eyes                                                                                                           |
-|                                             | ![](https://xivapi.com/i/003000/003171.png) | **Merciful Eyes**   Self heal, 200 potency. Consumes Open Eyes. 15 CD, shared with Seigan.                                                                                                                                           |
+| ![](https://xivapi.com/i/003000/003167_hr1.png) |                                             | **Meikyo Shisui**   Allows use of 3 Weaponskills without combo requirements. Excludes laijutsu. 155 duration, 55s CD.                                                                                                                |
+| ![](https://xivapi.com/i/003000/003172_hr1.png) |                                             | **Meditate**   Channeled Kenki and Meditation stack generation for 15s. Initial cast on the GCD. +10 Kenki (Max 50) and +1 Meditation stack (Max 3) per tick. Cancelled upon movement or action. Can only be used in combat. 60s CD. |
+| ![](https://xivapi.com/i/003000/003153_hr1.png) |                                             | **Third Eye**   Reduces next damage taken by 10%. If hit, grants Open Eyes for 15s. 3s duration, 15s CD.                                                                                                                             |
+|                                             | ![](https://xivapi.com/i/003000/003175_hr1.png) | **Hissatsu: Seigan**   Single target attack, 220 potency. Consumes Open Eyes. - 15 Kenki. 1s CD, shared with Merciful Eyes                                                                                                           |
+|                                             | ![](https://xivapi.com/i/003000/003171_hr1.png) | **Merciful Eyes**   Self heal, 200 potency. Consumes Open Eyes. 15 CD, shared with Seigan.                                                                                                                                           |
 
 ## Role Actions
 
@@ -115,12 +88,12 @@ All jobs also have a several role-specific actions that they can use
 
 |                                             |     |                                                                                    |
 | ------------------------------------------- | --- | ---------------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/000000/000828.png) |     | **Feint**   Reduces target STR/DEX for 10s. 90s CD.                             |
-| ![](https://xivapi.com/i/000000/000830.png) |     | **True North**   Eliminates positional requirements for 10s. 45s CD, 2 charges. |
-| ![](https://xivapi.com/i/000000/000823.png) |     | **Bloodbath**   Heal for a portion of damage dealt for 20s. 90s CD.             |
-| ![](https://xivapi.com/i/000000/000821.png) |     | **Second Wind**   Self heal, 500 potency. 120s CD.                              |
-| ![](https://xivapi.com/i/000000/000824.png) |     | **Leg Sweep**   Stuns target enemy. 40s CD.                                     |
-| ![](https://xivapi.com/i/000000/000822.png) |     | **Arm's Length**   Nullifies knockback and draw-in for 6s. 120s CD.             |
+| ![](https://xivapi.com/i/000000/000828_hr1.png) |     | **Feint**   Reduces target STR/DEX for 10s. 90s CD.                             |
+| ![](https://xivapi.com/i/000000/000830_hr1.png) |     | **True North**   Eliminates positional requirements for 10s. 45s CD, 2 charges. |
+| ![](https://xivapi.com/i/000000/000823_hr1.png) |     | **Bloodbath**   Heal for a portion of damage dealt for 20s. 90s CD.             |
+| ![](https://xivapi.com/i/000000/000821_hr1.png) |     | **Second Wind**   Self heal, 500 potency. 120s CD.                              |
+| ![](https://xivapi.com/i/000000/000824_hr1.png) |     | **Leg Sweep**   Stuns target enemy. 40s CD.                                     |
+| ![](https://xivapi.com/i/000000/000822_hr1.png) |     | **Arm's Length**   Nullifies knockback and draw-in for 6s. 120s CD.             |
 
 In an 8-man instance such as a Primal Extreme or Savage Raid, all of these but Leg Sweep will see at least some use. Bloodbath, Second Wind, and Feint may all be used situationally depending on your party’s strategy to assist healers, while Arm’s Length is useful in any fight with a knockback/pull mechanic such as floors 2-4 of Eden Savage. True North will be useful in a majority of fights, as getting a full omni-directional fight is very uncommon these days.
 
@@ -232,7 +205,7 @@ Enpi is the same. It gains value only if there are time periods where you could 
 
 Of course, exceptions always happen, but you will recognize the exceptions in the fight situation as you gain experience.
 
-In 5.0, usage of Enpi has extended into the potential for keeping rotational alignment. As this is a higher level theory, I will refer to [Jahaudant’s Samurai Compendium](https://guides.xivresources.com/admin/#/collections/sam-guides/entries/expert-the-shadowbringers-samurai-compendium) for further reading to interested parties.
+In 5.0, usage of Enpi has extended into the potential for keeping rotational alignment. As this is a higher level theory, I will refer to [Jahaudant’s Samurai Compendium](https://guides.xivresources.com/jobs/melee/samurai/expert-the-shadowbringers-samurai-compendium/) for further reading to interested parties.
 
 - - -
 
@@ -269,7 +242,7 @@ Hagakure is an oGCD ability re-added to the game in patch 5.05 as a shadow of it
 
 The intended purpose for the reintroduction of Hagakure from SE seemed to be from the outcry of players who were upset that in dungeons they would sometimes have leftover Sen and Hagakure would allow them to “wipe clean” this gauge in order to enter a dungeon boss without having to overcap existing Sen while re-applying buffs. In a level 80 raid setting, however, Hagakure serves a similar purpose: it wipes away the Sen we build while filling time waiting for Tsubame to come off cooldown to keep rotational alignment.
 
-The full level 80 looping rotation is not explained in detail in this guide, as this guide is meant to be a primer for people interested in a glance at Samurai or for the basics while leveling and learning the job. As before, I will refer to [Jahaudant’s Samurai Compendium](https://guides.xivresources.com/admin/#/collections/sam-guides/entries/expert-the-shadowbringers-samurai-compendium) for further reading to interested parties.
+The full level 80 looping rotation is not explained in detail in this guide, as this guide is meant to be a primer for people interested in a glance at Samurai or for the basics while leveling and learning the job. As before, I will refer to [Jahaudant’s Samurai Compendium](https://guides.xivresources.com/jobs/melee/samurai/expert-the-shadowbringers-samurai-compendium/) for further reading to interested parties.
 
 - - -
 
@@ -368,33 +341,4 @@ Debuffs: are harmful effects that you apply on enemies to either maximize the da
 ###### Figure 1: How to position yourself to minimize movements for positionals!
 
 * ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh5.googleusercontent.com/14fbdNCDFcXpUP89NL2f0aRAwC8L8IXB9QpK4KNp7rt7otaGq3f2lW9a3AQsCLQ0p32puRxC0TFTNNcJ5B7HKIZiD_jAgU3knH1Uslplc0A3EotA4bDPlA1dljTn7oXLojAztWQv=s0)  *Dead DPS does no damage* : Avoid dying at all cost unless the team strategy or mechanics require you to die so the encounter won’t wipe. A dead person contributes nothing while and will be raised with reduced battle stats.
-
-- - -
-
-# Changelog
-
-March 2018, Patch 4.2
-
-* No changes to SAM since Stormblood launch
-* Restructured guide
-* Added section on Higanbana, Yaten-Enpi-Gyoten
-* Added fight specific tips as of Sigmascape: Savage
-
-May 2018, Patch 4.3
-
-* +20 Potency to Jinpu, Shifu, Yukikaze, Gekko, and Kasha
-* Third Eye damage reduction increased to 10%
-* Additional effect on Merciful Eyes: 20% current enmity reduction
-
-Sept 2018, Patch 4.4
-
-* +20 Potency to Yukikaze, Gekko, Kasha, and Enpi
-
-July 2019, Patch 5.0
-
-* Boxer takes over for Aureum as caretaker.
-* Large-scale updates to everything coinciding with expansion changes.
-
-November 2019, Patch 5.1
-
-* 5.1 changes added and guide finally fully updated for Shadowbringers.
+
