@@ -66,18 +66,20 @@ At two targets, you will start to do Hellfrogs instead of Bhavacakras and will d
 
 At three targets, this is when you start to do your AoE combo. This would be Death Blossom into Hakke Mujinsatsu. So, three targets is where you consistently do your AoE combo, as well as go full out AoE on your ninjutsus. 
 
+# Opener
+
 ![Opener](/img/jobs/melee/ninja/Opener.png)
 
 oGCDs in Parentheses 
--11s: Huton 
--7s: Doton at max aggro range (Hide) 
--1s: Suiton (Kassatsu) Spinning Edge (Potion) → Gust Slash (Mug + Bunshin) → Aeolian Edge → Spinning Edge (Trick Attack) → Shadow Fang (Dream Within a Dream) → Hyosho Ranryu (Assassinate) → Raiton (TCJ) → Fuma Shuriken \[Ten] → Raiton \[Chi] → Suiton \[Jin] (Meisui) → Gust Slash (Bhavacakra) → Aeolian Edge (Bhavacakra) | Trick Attack ends | → Raiton
+<br>-11s: Huton 
+<br>-7s: Doton at max aggro range (Hide) 
+<br>-1s: Suiton (Kassatsu) Spinning Edge (Potion) → Gust Slash (Mug + Bunshin) → Aeolian Edge → Spinning Edge (Trick Attack) → Shadow Fang (Dream Within a Dream) → Hyosho Ranryu (Assassinate) → Raiton (TCJ) → Fuma Shuriken \[Ten] → Raiton \[Chi] → Suiton \[Jin] (Meisui) → Gust Slash (Bhavacakra) → Aeolian Edge (Bhavacakra) | Trick Attack ends | → Raiton
 
-This will be your opener on any fights where you get a pull countdown. The Doton will only do damage if the tank pulls the boss into your Doton, but if he doesn't, it's not a big deal, just do the rest as shown. This will both set up the rest of the fight for you in terms of cooldowns and give you the biggest amount of damage you can inside raid buffs. There are of course variations for some specific fights, but it's all based on this same opener and are minor differences that I would only worry about once you know the job/fight well. 
+This will be your opener on any fights where you get a pull countdown. The Doton will only do damage if the tank pulls the boss into your Doton, but if they don't, it's not a big deal, just do the rest as shown. This will both set up the rest of the fight for you in terms of cooldowns and give you the biggest amount of damage you can inside raid buffs. There are of course variations for some specific fights, but it's all based on this same opener and are minor differences that I would only worry about once you know the job/fight well. 
 
-# Best-in-Slot (BiS)
+# Stats and Gearing
 
-For your Best-in-Slot gear, you will generally be going for Weapon Damage> Dexterity> Crit> Direct Hit> Determination >> Skill Speed. This is not 100% exact once you get to the max gear, but until you have that, that is the priority in stats. 
+For your Best-in-Slot gear, you will generally be going for Weapon Damage > Dexterity > Crit > Direct Hit > Determination >> Skill Speed. This is not 100% exact once you get to the max gear, but until you have that, that is the priority in stats. 
 
 ## 2.12 GCD BiS
 
@@ -96,9 +98,9 @@ For your Best-in-Slot gear, you will generally be going for Weapon Damage> Dexte
 
 <https://etro.gg/gearset/c1c01cbb-f99b-4ba8-bbe3-e9d03a76b280>
 
-Use the 2.12 GCD BiS for general play, the 2.11 plays around potential extra gcds and is more consistent at doing triple bhavas in tricks, which still wouldn't be in every fight, and also requires a lot better ping to make work. Use 2.10 BiS if neither of the other 2 will get you the gcd in a fight you are looking for.
+Use the 2.12 GCD BiS for general play, the 2.11 plays around potential extra GCDs and is more consistent at doing triple Bhavas in Tricks, which still wouldn't be in every fight, and also requires a lot better ping to work. Use 2.10 BiS if neither of the other two will get you the GCD in a fight you are looking for.
 
-Meld priority for non BIS pieces: Crit>>>>DH>DET>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>SKS
+Meld priority for non BIS pieces: Crit >>>> DH > DET >>>>>>>>>>>>>>>>>>>>>>>>>>>>>> SkS
 
 ## UCOB BIS
 
@@ -134,7 +136,7 @@ Because of the kill time, you can move these around to align with other players�
 
 ## Optimizing Around Downtime
 
-As a Ninja, you are the melee job with the most flexibility in terms of playing around downtime, at least when the boss is still targetable but you can’t be in melee range for whatever reason. You have the best ranged options because of Ninjutsus, and the most flexibility with movement because of increased movement speed and Shukuchi. When you need to move out for a longer time than your GCD, you should instead of putting them into Trick attacks use your Raitons during this time and get more regular GCDs inside of Trick Attack. 
+As a Ninja, you are the melee job with the most flexibility in terms of playing around with downtime, at least when the boss is still targetable but you can’t be in melee range for whatever reason. You have the best ranged options because of Ninjutsus, and the most flexibility with movement because of increased movement speed and Shukuchi. When you need to move out for a longer time than your GCD, you should instead of putting them into Trick attacks use your Raitons during this time and get more regular GCDs inside of Trick Attack. 
 
 This is done because you will be using Throwing Daggers otherwise from range, which is a 120 potency attack. So, you move Raiton out of Tricks, which makes that Raiton do 40 less potency. We then gain a regular GCD instead of a Throwing Dagger to fill the void of the Raiton. Any regular single target GCD is at least 220 potency so before adding in the benefits on Trick to the regular GCD, we have a guaranteed gain of 60 potency -- more if we end up gaining a stronger GCD. 
 
