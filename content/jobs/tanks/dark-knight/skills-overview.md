@@ -8,23 +8,19 @@ changelog:
   - date: 2021-10-27T17:34:49.525Z
     message: Added
 ---
-# Dark Knight Skills and Abilities Overview
+# Skills and Abilities Overview
 
 ## Tank Stance
 
-![Grit](https://xivapi.com/i/003000/003070.png)   
+![Grit](https://xivapi.com/i/003000/003070_hr1.png) <br> **Grit**
 
-**Grit**
-
-* Toggle - Ten second cooldown after toggling on • No cooldown for toggling off
+* Toggle - Ten second cooldown after toggling on • no cooldown for toggling off
 * Multiplies enmity (aggro, hate, etc) generation by ten
 * Keep this on in dungeons or as the current maintank (in content with more than one tank)
 
 ## Single Target GCDs
 
-![Hard Slash](https://xivapi.com/i/003000/003051.png) ![Syphon Strike](https://xivapi.com/i/003000/003054.png) ![Souleater](https://xivapi.com/i/003000/003055.png)   
-
-**Souleater Combo**
+![Hard Slash](https://xivapi.com/i/003000/003051_hr1.png) ![Syphon Strike](https://xivapi.com/i/003000/003054_hr1.png) ![Souleater](https://xivapi.com/i/003000/003055_hr1.png) <br> **Souleater Combo**
 
 * 200 > 300 > 400 potency
 
@@ -32,9 +28,7 @@ changelog:
   2. Syphon Strike: +600 MP
   3. Souleater: +20 Blood, 300p heal
 
-![Bloodspiller](https://xivapi.com/i/003000/003080.png)   
-
-**Bloodspiller**
+![Bloodspiller](https://xivapi.com/i/003000/003080_hr1.png) <br>**Bloodspiller**
 
 * 600 potency
 * Costs 50 Blood
@@ -43,14 +37,14 @@ changelog:
 
 ### Buffs
 
-![Blood Weapon](https://xivapi.com/i/003000/003071.png)
+![Blood Weapon](https://xivapi.com/i/003000/003071_hr1.png)
 
 #### Blood Weapon
 
 60s cooldown • 10s duration
  <br> Weaponskills and Spells (all GCDs) restore 600 MP and ten Blood <br> By using Blood Weapon late into the GCD (just before the next GCD), it is possible to fit five GCDs into the buff window
 
-![Delirium](https://xivapi.com/i/003000/003078.png)
+![Delirium](https://xivapi.com/i/003000/003078_hr1.png)
 
 #### Delirium
 
@@ -64,7 +58,7 @@ By using Delirium *late into the GCD* (just before the next GCD), it is possible
 
 ### Offensive
 
-![Edge of Shadow](https://xivapi.com/i/003000/003086.png)
+![Edge of Shadow](https://xivapi.com/i/003000/003086_hr1.png)
 
 #### Edge of Shadow (upgraded from Edge of Darkness)
 
@@ -72,7 +66,7 @@ By using Delirium *late into the GCD* (just before the next GCD), it is possible
 <br>Costs 3000 MP
 <br>Applies *Darkside* (10% damage buff) for 30s, or extends it by 30s, up to a maximum of 60s.
 
-![Living Shadow](https://xivapi.com/i/003000/003088.png)
+![Living Shadow](https://xivapi.com/i/003000/003088_hr1.png)
 
 #### Living Shadow
 
@@ -81,7 +75,7 @@ By using Delirium *late into the GCD* (just before the next GCD), it is possible
 <br>Has a ~7s spawn animation
 <br>The seven attacks are a mix of Area of Effect (AoE) attacks and single target attacks
 
-![Abyssal Drain](https://xivapi.com/i/003000/003064.png)
+![Abyssal Drain](https://xivapi.com/i/003000/003064_hr1.png)
 
 #### Abyssal Drain
 
@@ -89,7 +83,7 @@ By using Delirium *late into the GCD* (just before the next GCD), it is possible
 <br>AoE centered on target
 <br>200 potency heal  for each target hit
 
-![Salted Earth](https://xivapi.com/i/003000/003066.png)
+![Salted Earth](https://xivapi.com/i/003000/003066_hr1.png)
 
 #### Salted Earth
 
@@ -98,14 +92,14 @@ By using Delirium *late into the GCD* (just before the next GCD), it is possible
 <br>Places a puddle on the ground that periodically deals damage to all enemies inside
 <br>Ticks once on placement and also independently five times on a 3s timer
 
-![Carve and Spit](https://xivapi.com/i/003000/003058.png)
+![Carve and Spit](https://xivapi.com/i/003000/003058_hr1.png)
 
 #### Carve and Spit
 
 450 potency • 60s cooldown
 <br>+600 MP
 
-![Plunge](https://xivapi.com/i/003000/003061.png)
+![Plunge](https://xivapi.com/i/003000/003061_hr1.png)
 
 #### Plunge
 
@@ -114,7 +108,7 @@ By using Delirium *late into the GCD* (just before the next GCD), it is possible
 
 ### Defensive or Utility
 
-![Blackest Night](https://xivapi.com/i/003000/003081.png)
+![Blackest Night](https://xivapi.com/i/003000/003081_hr1.png)
 
 #### The Blackest Night
 
@@ -127,14 +121,14 @@ Shield: 25% target’s max. HP
 
 ### Party
 
-![Reprisal](https://xivapi.com/i/000000/000806.png)
+![Reprisal](https://xivapi.com/i/000000/000806_hr1.png)
 
 #### Reprisal
 
 10% damage down to nearby enemies
 <br>10s duration • 60s cooldown
 
-![Dark Missionary](https://xivapi.com/i/003000/003087.png)
+![Dark Missionary](https://xivapi.com/i/003000/003087_hr1.png)
 
 #### Dark Missionary
 
@@ -143,28 +137,28 @@ Shield: 25% target’s max. HP
 
 ### Personal
 
-![Rampart](https://xivapi.com/i/000000/000801.png)
+![Rampart](https://xivapi.com/i/000000/000801_hr1.png)
 
 #### Rampart
 
 20% damage reduction
 <br>20s duration • 90s cooldown
 
-![Shadow Wall](https://xivapi.com/i/003000/003075.png)
+![Shadow Wall](https://xivapi.com/i/003000/003075_hr1.png)
 
 #### Shadow Wall
 
 30% damage reduction
 <br>15s duration • 120s cooldown
 
-![Dark Mind](https://xivapi.com/i/003000/003076.png)
+![Dark Mind](https://xivapi.com/i/003000/003076_hr1.png)
 
 #### Dark Mind
 
 20% magic damage reduction
 <br>10s duration • 60s cooldown
 
-![Living Dead](https://xivapi.com/i/003000/003077.png)
+![Living Dead](https://xivapi.com/i/003000/003077_hr1.png)
 
 #### Living Dead
 
@@ -174,14 +168,14 @@ Shield: 25% target’s max. HP
 
 ### Utility
 
-![Provoke](https://xivapi.com/i/000000/000803.png)
+![Provoke](https://xivapi.com/i/000000/000803_hr1.png)
 
 #### Provoke
 
 30s cooldown
 <br>Instantly gives you top enmity on the target with a significant enmity lead (this enmity lead is affected by Grit)
 
-![Shirk](https://xivapi.com/i/000000/000810.png)
+![Shirk](https://xivapi.com/i/000000/000810_hr1.png)
 
 #### Shirk
 
@@ -189,7 +183,7 @@ Shield: 25% target’s max. HP
 <br>Takes 25% of your enmity and gives it to target party member
 <Br>Affects everything on the enemy list
 
-![Arm's Length](https://xivapi.com/i/000000/000822.png)
+![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png)
 
 #### Arm’s Length
 
@@ -199,7 +193,7 @@ Shield: 25% target’s max. HP
 
 ## AoE
 
-![Unleash](https://xivapi.com/i/003000/003063.png) ![Stalwart Soul](https://xivapi.com/i/003000/003084.png)
+![Unleash](https://xivapi.com/i/003000/003063_hr1.png) ![Stalwart Soul](https://xivapi.com/i/003000/003084_hr1.png)
 
 ### Stalwart Soul Combo (GCD)
 
@@ -210,7 +204,7 @@ Shield: 25% target’s max. HP
 
 * Replaces Souleater combo at 2+ enemies
 
-![Quietus](https://xivapi.com/i/003000/003079.png)
+![Quietus](https://xivapi.com/i/003000/003079_hr1.png)
 
 ### Quietus (GCD)
 
@@ -219,7 +213,7 @@ Shield: 25% target’s max. HP
 * Circle AoE centered on self
 * Replaces Bloodspiller at 3+ enemies
 
-![Flood of Shadow](https://xivapi.com/i/003000/003085.png)
+![Flood of Shadow](https://xivapi.com/i/003000/003085_hr1.png)
 
 ### Flood of Shadow (oGCD, upgrades from Flood of Darkness)
 
@@ -231,7 +225,7 @@ Shield: 25% target’s max. HP
 
 ## Other Actions (Infrequently Used)
 
-![Unmend](https://xivapi.com/i/003000/003062.png)
+![Unmend](https://xivapi.com/i/003000/003062_hr1.png)
 
 ### Unmend (GCD)
 
@@ -239,20 +233,20 @@ Shield: 25% target’s max. HP
 <br>5x enmity multiplier
 <br>Ranged attack
 
-![Low Blow](https://xivapi.com/i/000000/000802.png)
+![Low Blow](https://xivapi.com/i/000000/000802_hr1.png)
 
 ### Low Blow (oGCD)
 
 25s cooldown
 <BR>5s stun
 
-![Interject](https://xivapi.com/i/000000/000808.png)
+![Interject](https://xivapi.com/i/000000/000808_hr1.png)
 
 ### Interject (oGCD)
 
-30s cooldown  
-Interrupts target’s action  
-nterruptible actions are denoted by red flashing castbars
+30s cooldown
+<br>Interrupts target’s action
+<br>Interruptible actions are denoted by red flashing castbars
 
   Normal castbar: ![Castbar](https://lh6.googleusercontent.com/U4mWjDQYc0q4mqE4yjC13PqJid1zVD6yryLhQcFWUFjSAaXIrm7DypFKuseKmO6qGKt5zvJy8YN9O8fMd_yWNMQ_v54EJmDqRjhoMhv_Xenogc5OI3U0NFdeGW-rAxURAl_q-cSH=s0)
 
