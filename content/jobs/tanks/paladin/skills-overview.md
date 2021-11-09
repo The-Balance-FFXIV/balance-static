@@ -8,21 +8,19 @@ changelog:
   - date: 2021-10-27T17:21:39.738Z
     message: Added
 ---
-# Paladin Skills Overview
-
-### Buffs
+## Buffs
 
 **Iron Will**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-ironwill.png)
+![](https://xivapi.com/i/002000/002505_hr1.png)
 
-Toggle • 10s cooldown after toggling on • No cooldown for toggling off
+Toggle • 10s cooldown after toggling on • no cooldown for toggling off
 
 Increases enmity generation by 10x (Enmity is also known as aggro, hate, etc.)
 
 Keep this on in dungeons or as the main tank (in content with more than one tank)
 
 **Fight or Flight**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-fightorflight.png)
+![](https://xivapi.com/i/000000/000166_hr1.png)
 
 60s cooldown
 
@@ -31,7 +29,7 @@ Keep this on in dungeons or as the main tank (in content with more than one tank
 By using Fight or Flight late into the GCD (just before the next GCD), it is possible to fit 11 physical GCDs into the buff window.
 
 **Requiescat**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-requiescat.png)
+![](https://xivapi.com/i/002000/002513_hr1.png)
 
 60s cooldown
 
@@ -45,10 +43,10 @@ If used with at least 8,000 MP, provides a 12 second buff:
 * Spells have no cast time (Lv. 78)
 * Enables use of Confiteor, which removes the buff when used (Lv. 80)
 
-### Single Target GCDs
+## Single Target GCDs
 
 **Goring Blade Combo**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-fastblade.png)![](https://xiv.sleepyshiba.com/pld/assets/skill-riotblade.png)![](https://xiv.sleepyshiba.com/pld/assets/skill-goringblade.png)
+![](https://xivapi.com/i/000000/000158_hr1.png)![](https://xivapi.com/i/000000/000156_hr1.png)![](https://xivapi.com/i/002000/002506_hr1.png)
 
 200 > 300 > 390 potency + 595 potency DoT over 21 seconds (physical)
 
@@ -57,7 +55,7 @@ The DoT portion snapshots buffs and debuffs when Goring Blade is cast
 +1000 MP from Riot Blade
 
 **Royal Authority Combo**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-fastblade.png)![](https://xiv.sleepyshiba.com/pld/assets/skill-riotblade.png)![](https://xiv.sleepyshiba.com/pld/assets/skill-goringblade.png)
+![](https://xivapi.com/i/000000/000158_hr1.png)![](https://xivapi.com/i/000000/000156_hr1.png)![](https://xivapi.com/i/002000/002507_hr1.png)
 
 200 > 300 > 550 potency (physical)
 
@@ -68,7 +66,7 @@ The DoT portion snapshots buffs and debuffs when Goring Blade is cast
 (Upgrades from Rage of Halone)
 
 **Atonement**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-atonement.png)
+![](https://xivapi.com/i/002000/002519_hr1.png)
 
 550 potency (physical)
 
@@ -77,14 +75,14 @@ Costs one Sword Oath
 +400 MP
 
 **Holy Spirit**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-holyspirit.png)
+![](https://xivapi.com/i/002000/002514_hr1.png)
 
 350 potency (magical) • 1.5s cast time
 
 Costs 2000 MP
 
 **Confiteor**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-confiteor.png)
+![](https://xivapi.com/i/002000/002518_hr1.png)
 
 800 potency (magical)
 
@@ -94,10 +92,10 @@ AoE around target
 
 Requires and consumes Requiescat buff
 
-### Offensive Abilities (oGCDs)
+## Offensive Abilities (oGCDs)
 
 **Spirits Within**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-spiritswithin.png)
+![](https://xivapi.com/i/002000/002503_hr1.png)
 
 100-370 potency depending on current HP (physical) • 30s cooldown
 
@@ -106,37 +104,37 @@ Scales linearly from 100 potency at 1 HP to 370 potency at max HP
 +500 MP
 
 **Circle of Scorn**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-circleofscorn.png)
+![](https://xivapi.com/i/000000/000161_hr1.png)
 
 120 potency + 175 potency DoT over 15 seconds (physical) • 25s cooldown
 
 AoE centered on self
 
 **Intervene**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-intervene.png)
+![](https://xivapi.com/i/002000/002520_hr1.png)
 
 200 potency (physical) • 2 charges
 
 30s charge time
 
-### Defensive and Utility Abilities
+## Defensive and Utility Abilities
 
 **Rampart**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-rampart.png)
+![](https://xivapi.com/i/000000/000801_hr1.png)
 
 20% damage reduction
 
 20s duration • 90s cooldown
 
 **Sentinel**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-sentinel.png)
+![](https://xivapi.com/i/000000/000151_hr1.png)
 
 30% damage reduction
 
 15s duration • 120s cooldown
 
 **Sheltron**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-sheltron.png)
+![](https://xivapi.com/i/002000/002510_hr1.png)
 
 Guarantees blocks
 
@@ -147,7 +145,7 @@ Guarantees blocks
 Costs 50 Oath Gauge, which is generated at a rate of 50 in ~23s
 
 **Passage of Arms**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-passageofarms.png)
+![](https://xivapi.com/i/002000/002515_hr1.png)
 
 Channel for up to 18 seconds
 
@@ -160,21 +158,21 @@ Provides 15% damage reduction to party members behind you (lasts at least 5s, se
 Cancelled by taking any action (including turning your character)
 
 **Divine Veil**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-divineveil.png)
+![](https://xivapi.com/i/002000/002508_hr1.png)
 
 If you receive a GCD heal from anybody in the next 30s, party members near you get a shield for 10% of your HP
 
 Shield duration: 30s • 90s cooldown
 
 **Reprisal**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-reprisal.png)
+![](https://xivapi.com/i/000000/000806_hr1.png)
 
 10% damage down to nearby enemies
 
 10s duration • 60s cooldown
 
 **Intervention**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-intervention.png)
+![](https://xivapi.com/i/002000/002512_hr1.png)
 
 10% damage reduction
 
@@ -183,7 +181,7 @@ Shield duration: 30s • 90s cooldown
 If either Rampart or Sentinel are active on you *when you cast Intervention*, damage reduction is increased to 20% or 25% respectively, or 35% if both are active.
 
 **Cover**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-cover.png)
+![](https://xivapi.com/i/002000/002501_hr1.png)
 
 Tether to target party member as long as they are within 10y
 
@@ -194,12 +192,12 @@ Redirect most damage and knockbacks on the covered target to you (exceptions exi
 Uses your buffs/debuffs (except Hallowed Ground) to calculate damage and ignores the covered target's
 
 **Provoke**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-provoke.png)
+![](https://xivapi.com/i/000000/000803_hr1.png)
 
 Instantly gives you top enmity on the target with a significant enmity lead (this enmity lead is affected by Iron Will)
 
 **Shirk**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-shirk.png)
+![](https://xivapi.com/i/000000/000810_hr1.png)
 
 120s cooldown
 
@@ -208,7 +206,7 @@ Takes 25% of your enmity and gives it to target party member
 Affects everything on the enemy list
 
 **Arm's Length**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-armslength.png)
+![](https://xivapi.com/i/000000/000822_hr1.png)
 
 6s duration • 120s cooldown
 
@@ -216,10 +214,10 @@ Become immune to most knockbacks
 
 Applies a 20% auto-attack and cast slow for 15s to enemies that attack you (resisted by most bosses)
 
-### AoE GCDs
+## AoE GCDs
 
 **Prominence Combo**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-totaleclipse.png)![](https://xiv.sleepyshiba.com/pld/assets/skill-prominence.png)
+![](https://xivapi.com/i/002000/002511_hr1.png)![](https://xivapi.com/i/002000/002516_hr1.png)
 
 120 > 220 potency (physical)
 
@@ -230,7 +228,7 @@ Circle AoE centered on self
 Replaces single target combos at 3+ enemies
 
 **Holy Circle**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-holycircle.png)
+![](https://xivapi.com/i/002000/002517_hr1.png)
 
 250 potency (magical)
 
@@ -238,12 +236,12 @@ Circle AoE centered on self
 
 Replaces Holy Spirit at 3+ enemies
 
-### Other Actions (Infrequently Used)
+## Other Actions (Infrequently Used)
 
-#### GCDs
+### GCDs
 
 **Clemency**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-clemency.png)
+![](https://xivapi.com/i/002000/002509_hr1.png)
 
 1200 potency heal on target
 
@@ -252,7 +250,7 @@ Replaces Holy Spirit at 3+ enemies
 When used on another target, also heals you for half as much
 
 **Shield Lob**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-shieldlob.png)
+![](https://xivapi.com/i/000000/000164_hr1.png)
 
 120 potency (physical)
 
@@ -261,23 +259,23 @@ When used on another target, also heals you for half as much
 Ranged attack
 
 **Shield Bash**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-shieldbash.png)
+![](https://xivapi.com/i/000000/000154_hr1.png)
 
 110 potency (physical)
 
 6s stun
 
-#### oGCDs
+### oGCDs
 
 **Low Blow**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-lowblow.png)
+![](https://xivapi.com/i/000000/000802_hr1.png)
 
 25s cooldown
 
 5s stun
 
 **Interject**  
-![](https://xiv.sleepyshiba.com/pld/assets/skill-interject.png)
+![](https://xivapi.com/i/000000/000808_hr1.png)
 
 30s cooldown
 
