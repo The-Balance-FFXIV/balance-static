@@ -132,7 +132,7 @@ Crit > Comfy SkS > Det > Ten
 
 ## BiS Lists
 
-Refer to [The Balance discord](https://discord.gg/thebalanceffxiv) server [\#warrior_resources](https://discordapp.com/channels/277897135515762698/580300071061553182/593937173569601538)
+Refer to [The Balance discord](https://discord.gg/thebalanceffxiv) server [\#warrior_resources](https://discordapp.com/channels/277897135515762698/580300071061553182/593937173569601538) or the [BiS page.] (https://guides.xivresources.com/jobs/tanks/warrior/best-in-slot/)
 
 - - -
 
