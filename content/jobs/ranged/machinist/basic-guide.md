@@ -35,7 +35,7 @@ The second skill in your main combo. 330 Combo Potency GCD  +5 Heat
 
 The final skill in your main combo. 440 Combo Potency GCD  +5 Heat  +10 Battery
 
-![Drill](https://i.imgur.com/ADsMPA4.png)
+![Drill](https://xivapi.com/i/003000/003043_hr1.png)
 <br>**Drill**
 
 Shares recast timer with Bioblaster. 700 Potency GCD 
