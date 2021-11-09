@@ -9,52 +9,20 @@ changelog:
 ---
 # What’s Next After The Basics?
 
-## Raid Buffs
+### Raid Buffs
 
-![Brotherhood](/img/jobs/tanks/gunbreaker/Brotherhood.png)
-Brotherhood (Monk)
-
-Increases damage dealt by 5% for 15s. 90s cooldown.
-
-![BattleLitany](/img/jobs/tanks/gunbreaker/Battle_Litany.png)
-Battle Litany (Dragoon)
-
-Increases Critical Hit rate by 10% for 20s. 180s cooldown.
-
-![BattleVoice](/img/jobs/tanks/gunbreaker/Battle_Voice.png)
-Battle Voice (Bard)
-
-Increases Direct Hit rate by 20% for 20s. 180s cooldown. 
-
-![Devotion](/img/jobs/tanks/gunbreaker/Devotion.png)
-Devotion (Summoner)
-
-Increases damage dealt by 5% for 15s. 180s cooldown.
-
-![ChainStratagem](/img/jobs/tanks/gunbreaker/Chain_Stratagem.png)
-Chain Stratagem (Scholar)
-
-Increases Critical Hit rate against the affected target by 10% for 15s. 120s cooldown.
-
-![Divination](/img/jobs/tanks/gunbreaker/Divination.png)
-Divination (Astrologian)
-
-Increases damage dealt by 4, 5, or 6% (determined by how many different seals the AST has before using Divination) for 15s. 120s cooldown.
-
-![TechnicalFinish](/img/jobs/tanks/gunbreaker/Technical_Finish.png)
-Technical Finish (Dancer)
-
-Increases damage dealt by 5% for 20s. 120s cooldown.
-
-![TrickAttack](/img/jobs/tanks/gunbreaker/Trick_Attack.png)
-Trick Attack (Ninja)
-
-Increases damage dealt against the affected target by 5% for 15s. 60s cooldown.
-
-![Embolden](/img/jobs/tanks/gunbreaker/Embolden.png)
-Embolden (Red Mage)
-
-Increases physical damage dealt by 10/8/6/4/2% for 20s. Starts at 10% and decreases by 2% every 4s. 120s cooldown.
+| Job | Icon                                                                                                                                                                                   | Name             | Effect                                               | Cooldown |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------- | -------- |
+| NIN | ![icon](https://xivapi.com/i/014000/014857_hr1.png) | Trick Attack     | Target takes 5% more damage <br>15s duration         | 60s      |
+| DRG | ![icon](https://xivapi.com/i/012000/012578_hr1.png) | Battle Litany    | Critical rate increased by 10% <br>20s duration      | 180s     |
+| MNK | ![icon](https://xivapi.com/i/012000/012532_hr1.png) | Brotherhood      | 5% damage increase <br>15s duration                  | 90s      |
+| DNC | ![icon](https://xivapi.com/i/013000/013709_hr1.png) | Technical Finish | 5% damage increase <br>20s duration                  | 120s     |
+| BRD | ![icon](https://xivapi.com/i/012000/012601_hr1.png) | Battle Voice     | Direct hit rate increased by 20% <br>20s duration    | 180s     |
+| SMN | ![icon](https://xivapi.com/i/012000/012681_hr1.png) | Devotion         | 5% damage increase <br>15s duration                  | 180s     |
+| RDM | ![icon](https://lh4.googleusercontent.com/ebXGOdXOLv7jiAEDE59XNd3mrdjBKlvrGY8x5pfGO2xyGS_G7_6LFTpk_O-ZeFCDVBqJxaWoJElvhtjcUEr93DnU4nCQpxdoOggXfgnC1ImMKGu3CICQSoJAkDr0MEj6pWbDCsJN=s0) | Embolden         | Increases physical damage by 10% <br>Decays over 20s | 120s     |
+| SCH | ![icon](https://xivapi.com/i/012000/012809_hr1.png) | Chain Stratagem  | +10% critical rate on target <br>15s duration        | 120s     |
+| AST | ![icon](https://xivapi.com/i/013000/013245_hr1.png) | Divination       | ~6% damage increase <br>15s duration                 | 120s     |
+| AST | Various                                                                                                                                                                                | Cards            | Target gets ~6% damage increase <br>15s duration     | 30s      |
 
 GNB has a damage toolkit that is very well suited for aligning with most raid buffs. With a one minute burst cycle, our **No Mercy** window should fit cleanly into every use of every non-**Brotherhood** raid buff, assuming that buffs aren’t being drifted due to player error or downtime/phase transitions. 
 
