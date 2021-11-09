@@ -25,7 +25,7 @@ The purpose of this guide is to give an overview of Dark Knight’s abilities an
 
 ## Tank Stance
 
-![Grit](https://xivapi.com/i/003000/003070.png) <br> **Grit**
+![Grit](https://xivapi.com/i/003000/003070_hr1.png) <br> **Grit**
 
 * Toggle - Ten second cooldown after toggling on • no cooldown for toggling off
 * Multiplies enmity (aggro, hate, etc) generation by ten
@@ -33,7 +33,7 @@ The purpose of this guide is to give an overview of Dark Knight’s abilities an
 
 ## Single Target GCDs
 
-![Hard Slash](https://xivapi.com/i/003000/003051.png) ![Syphon Strike](https://xivapi.com/i/003000/003054.png) ![Souleater](https://xivapi.com/i/003000/003055.png) <br> **Souleater Combo**
+![Hard Slash](https://xivapi.com/i/003000/003051_hr1.png) ![Syphon Strike](https://xivapi.com/i/003000/003054_hr1.png) ![Souleater](https://xivapi.com/i/003000/003055_hr1.png) <br> **Souleater Combo**
 
 * 200 > 300 > 400 potency
 
@@ -41,7 +41,7 @@ The purpose of this guide is to give an overview of Dark Knight’s abilities an
   2. Syphon Strike: +600 MP
   3. Souleater: +20 Blood, 300p heal
 
-![Bloodspiller](https://xivapi.com/i/003000/003080.png) <br>**Bloodspiller**
+![Bloodspiller](https://xivapi.com/i/003000/003080_hr1.png) <br>**Bloodspiller**
 
 * 600 potency
 * Costs 50 Blood
@@ -50,14 +50,14 @@ The purpose of this guide is to give an overview of Dark Knight’s abilities an
 
 ### Buffs
 
-![Blood Weapon](https://xivapi.com/i/003000/003071.png)
+![Blood Weapon](https://xivapi.com/i/003000/003071_hr1.png)
 
 #### Blood Weapon
 
 60s cooldown • 10s duration
  <br> Weaponskills and Spells (all GCDs) restore 600 MP and ten Blood <br> By using Blood Weapon late into the GCD (just before the next GCD), it is possible to fit five GCDs into the buff window
 
-![Delirium](https://xivapi.com/i/003000/003078.png)
+![Delirium](https://xivapi.com/i/003000/003078_hr1.png)
 
 #### Delirium
 
@@ -71,7 +71,7 @@ By using Delirium *late into the GCD* (just before the next GCD), it is possible
 
 ### Offensive
 
-![Edge of Shadow](https://xivapi.com/i/003000/003086.png)
+![Edge of Shadow](https://xivapi.com/i/003000/003086_hr1.png)
 
 #### Edge of Shadow (upgraded from Edge of Darkness)
 
@@ -79,7 +79,7 @@ By using Delirium *late into the GCD* (just before the next GCD), it is possible
 <br>Costs 3000 MP
 <br>Applies *Darkside* (10% damage buff) for 30s, or extends it by 30s, up to a maximum of 60s.
 
-![Living Shadow](https://xivapi.com/i/003000/003088.png)
+![Living Shadow](https://xivapi.com/i/003000/003088_hr1.png)
 
 #### Living Shadow
 
@@ -88,7 +88,7 @@ By using Delirium *late into the GCD* (just before the next GCD), it is possible
 <br>Has a ~7s spawn animation
 <br>The seven attacks are a mix of Area of Effect (AoE) attacks and single target attacks
 
-![Abyssal Drain](https://xivapi.com/i/003000/003064.png)
+![Abyssal Drain](https://xivapi.com/i/003000/003064_hr1.png)
 
 #### Abyssal Drain
 
@@ -96,7 +96,7 @@ By using Delirium *late into the GCD* (just before the next GCD), it is possible
 <br>AoE centered on target
 <br>200 potency heal  for each target hit
 
-![Salted Earth](https://xivapi.com/i/003000/003066.png)
+![Salted Earth](https://xivapi.com/i/003000/003066_hr1.png)
 
 #### Salted Earth
 
@@ -105,14 +105,14 @@ By using Delirium *late into the GCD* (just before the next GCD), it is possible
 <br>Places a puddle on the ground that periodically deals damage to all enemies inside
 <br>Ticks once on placement and also independently five times on a 3s timer
 
-![Carve and Spit](https://xivapi.com/i/003000/003058.png)
+![Carve and Spit](https://xivapi.com/i/003000/003058_hr1.png)
 
 #### Carve and Spit
 
 450 potency • 60s cooldown
 <br>+600 MP
 
-![Plunge](https://xivapi.com/i/003000/003061.png)
+![Plunge](https://xivapi.com/i/003000/003061_hr1.png)
 
 #### Plunge
 
@@ -121,7 +121,7 @@ By using Delirium *late into the GCD* (just before the next GCD), it is possible
 
 ### Defensive or Utility
 
-![Blackest Night](https://xivapi.com/i/003000/003081.png)
+![Blackest Night](https://xivapi.com/i/003000/003081_hr1.png)
 
 #### The Blackest Night
 
@@ -134,14 +134,14 @@ Shield: 25% target’s max. HP
 
 ### Party
 
-![Reprisal](https://xivapi.com/i/000000/000806.png)
+![Reprisal](https://xivapi.com/i/000000/000806_hr1.png)
 
 #### Reprisal
 
 10% damage down to nearby enemies
 <br>10s duration • 60s cooldown
 
-![Dark Missionary](https://xivapi.com/i/003000/003087.png)
+![Dark Missionary](https://xivapi.com/i/003000/003087_hr1.png)
 
 #### Dark Missionary
 
@@ -150,28 +150,28 @@ Shield: 25% target’s max. HP
 
 ### Personal
 
-![Rampart](https://xivapi.com/i/000000/000801.png)
+![Rampart](https://xivapi.com/i/000000/000801_hr1.png)
 
 #### Rampart
 
 20% damage reduction
 <br>20s duration • 90s cooldown
 
-![Shadow Wall](https://xivapi.com/i/003000/003075.png)
+![Shadow Wall](https://xivapi.com/i/003000/003075_hr1.png)
 
 #### Shadow Wall
 
 30% damage reduction
 <br>15s duration • 120s cooldown
 
-![Dark Mind](https://xivapi.com/i/003000/003076.png)
+![Dark Mind](https://xivapi.com/i/003000/003076_hr1.png)
 
 #### Dark Mind
 
 20% magic damage reduction
 <br>10s duration • 60s cooldown
 
-![Living Dead](https://xivapi.com/i/003000/003077.png)
+![Living Dead](https://xivapi.com/i/003000/003077_hr1.png)
 
 #### Living Dead
 
@@ -181,14 +181,14 @@ Shield: 25% target’s max. HP
 
 ### Utility
 
-![Provoke](https://xivapi.com/i/000000/000803.png)
+![Provoke](https://xivapi.com/i/000000/000803_hr1.png)
 
 #### Provoke
 
 30s cooldown
 <br>Instantly gives you top enmity on the target with a significant enmity lead (this enmity lead is affected by Grit)
 
-![Shirk](https://xivapi.com/i/000000/000810.png)
+![Shirk](https://xivapi.com/i/000000/000810_hr1.png)
 
 #### Shirk
 
@@ -196,7 +196,7 @@ Shield: 25% target’s max. HP
 <br>Takes 25% of your enmity and gives it to target party member
 <Br>Affects everything on the enemy list
 
-![Arm's Length](https://xivapi.com/i/000000/000822.png)
+![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png)
 
 #### Arm’s Length
 
@@ -206,7 +206,7 @@ Shield: 25% target’s max. HP
 
 ## AoE
 
-![Unleash](https://xivapi.com/i/003000/003063.png) ![Stalwart Soul](https://xivapi.com/i/003000/003084.png)
+![Unleash](https://xivapi.com/i/003000/003063_hr1.png) ![Stalwart Soul](https://xivapi.com/i/003000/003084_hr1.png)
 
 ### Stalwart Soul Combo (GCD)
 
@@ -217,7 +217,7 @@ Shield: 25% target’s max. HP
 
 * Replaces Souleater combo at 2+ enemies
 
-![Quietus](https://xivapi.com/i/003000/003079.png)
+![Quietus](https://xivapi.com/i/003000/003079_hr1.png)
 
 ### Quietus (GCD)
 
@@ -226,7 +226,7 @@ Shield: 25% target’s max. HP
 * Circle AoE centered on self
 * Replaces Bloodspiller at 3+ enemies
 
-![Flood of Shadow](https://xivapi.com/i/003000/003085.png)
+![Flood of Shadow](https://xivapi.com/i/003000/003085_hr1.png)
 
 ### Flood of Shadow (oGCD, upgrades from Flood of Darkness)
 
@@ -238,7 +238,7 @@ Shield: 25% target’s max. HP
 
 ## Other Actions (Infrequently Used)
 
-![Unmend](https://xivapi.com/i/003000/003062.png)
+![Unmend](https://xivapi.com/i/003000/003062_hr1.png)
 
 ### Unmend (GCD)
 
@@ -246,14 +246,14 @@ Shield: 25% target’s max. HP
 <br>5x enmity multiplier
 <br>Ranged attack
 
-![Low Blow](https://xivapi.com/i/000000/000802.png)
+![Low Blow](https://xivapi.com/i/000000/000802_hr1.png)
 
 ### Low Blow (oGCD)
 
 25s cooldown
 <BR>5s stun
 
-![Interject](https://xivapi.com/i/000000/000808.png)
+![Interject](https://xivapi.com/i/000000/000808_hr1.png)
 
 ### Interject (oGCD)
 
@@ -522,15 +522,15 @@ However, since most parties also possess 2-minute raid buffs, it is beneficial t
 
 | Job | Icon                                                                                                                                                                                   | Name             | Effect                                               | Cooldown |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------- | -------- |
-| NIN | ![icon](https://lh4.googleusercontent.com/fhywjH6Ffu1PIMEM4vrmM5jMG5WwN_R3fyMCpIDgYUnW3nBzY4Qvt1Wlc2mw2WsigbXYHmDI-VBvZjxj9LaiQ-j8K39beNcFjkFNtZnMDI14mLHRQTgL94fvTowvn5cT_0ruTo8M=s0) | Trick Attack     | Target takes 5% more damage <br>15s duration         | 60s      |
-| DRG | ![icon](https://lh4.googleusercontent.com/43glM46Ua0yHLOlC6qkXaw7GgDgl2RDKZIYK42V2_UAX0CgAn81znynCvR3RyLcqKV138HiJiX8PMKtqrZLzP8YGw_qJqacHsMb2jACE3p52emu7n4YutpE9uC7cABoKG8aglDLs=s0) | Battle Litany    | Critical rate increased by 10% <br>20s duration      | 180s     |
-| MNK | ![icon](https://lh5.googleusercontent.com/sSRU845Yta2km4d7zh9aja5YLgLtX8IUUWknJeo-j0UzZge8GxVZkc3128LDEYEnzdPvodVLi5ooj1I1ADnIWCFVb62_zl9AFvUl26Lqzb7KguP4I6p_dgIIH_jpaVgzq4ps0jCZ=s0) | Brotherhood      | 5% damage increase <br>15s duration                  | 90s      |
-| DNC | ![icon](https://lh3.googleusercontent.com/4RIou7VbngMCuxroN-jhS0iw2mYZPnbboqRipx6opRUJy-lJSqOV42BlB1_FhhaJFHpw70-1Q1G9qWayNmlbzKWtpNHBZApsHt-fQpn0THCDFdqBGWglPpgg6cKSrKNnAk9TrjFQ=s0) | Technical Finish | 5% damage increase <br>20s duration                  | 120s     |
-| BRD | ![icon](https://lh5.googleusercontent.com/faonK87QmXIqddtP2WGk2UcVbGbxDDcTrzTMxezt0_TrU4iR3WYZYl6GCjhJp2XOWjyJvA-58dNZrQ2H2AHYDYsRMQZkzbBfHjvP7rXRm5LYEddPObzxeiNOC7PPwD3vMiZ0FZK8=s0) | Battle Voice     | Direct hit rate increased by 20% <br>20s duration    | 180s     |
-| SMN | ![icon](https://lh4.googleusercontent.com/VQcl9Q2zmMwLOLZZ5CT9Aav_Y9PQvxkbSNDhgM1wCANg3FGpekRyEB-HjxMqZggesaKHPrFRcv9oR3YGsj06bhBvkJ3yNZJdbcgfwjR8CHYP4DPZjQCbAy9sBFU9X8v1wJ14zTtI=s0) | Devotion         | 5% damage increase <br>15s duration                  | 180s     |
+| NIN | ![icon](https://xivapi.com/i/014000/014857_hr1.png) | Trick Attack     | Target takes 5% more damage <br>15s duration         | 60s      |
+| DRG | ![icon](https://xivapi.com/i/012000/012578_hr1.png) | Battle Litany    | Critical rate increased by 10% <br>20s duration      | 180s     |
+| MNK | ![icon](https://xivapi.com/i/012000/012532_hr1.png) | Brotherhood      | 5% damage increase <br>15s duration                  | 90s      |
+| DNC | ![icon](https://xivapi.com/i/013000/013709_hr1.png) | Technical Finish | 5% damage increase <br>20s duration                  | 120s     |
+| BRD | ![icon](https://xivapi.com/i/012000/012601_hr1.png) | Battle Voice     | Direct hit rate increased by 20% <br>20s duration    | 180s     |
+| SMN | ![icon](https://xivapi.com/i/012000/012681_hr1.png) | Devotion         | 5% damage increase <br>15s duration                  | 180s     |
 | RDM | ![icon](https://lh4.googleusercontent.com/ebXGOdXOLv7jiAEDE59XNd3mrdjBKlvrGY8x5pfGO2xyGS_G7_6LFTpk_O-ZeFCDVBqJxaWoJElvhtjcUEr93DnU4nCQpxdoOggXfgnC1ImMKGu3CICQSoJAkDr0MEj6pWbDCsJN=s0) | Embolden         | Increases physical damage by 10% <br>Decays over 20s | 120s     |
-| SCH | ![icon](https://lh6.googleusercontent.com/XX6YM0qZtlP8hx16kIaFNA4rY0HGtIs3NRhus9sDiw6tKFu_aiHdEuACi8VI004FuJz-5RDue0R8XowAgRAiuB6kpLh8rq8wnvbmew26Q1h00zKFTgUlCEtNWhGP4hQQWId_goeT=s0) | Chain Stratagem  | +10% critical rate on target <br>15s duration        | 120s     |
-| AST | ![icon](https://lh4.googleusercontent.com/CI8Lp1OwN867gAwtNthrCG8YAP5F1esXFuFfE2BdRXgbBeQay989XQMuTUF9h3P4Qe13NdR2VWdCB_U0hvB31nbO5yJKDLG1yQvR52qypjghHsrdBpu0GIJlTHaX9nc5jpdd-86a=s0) | Divination       | ~6% damage increase <br>15s duration                 | 120s     |
+| SCH | ![icon](https://xivapi.com/i/012000/012809_hr1.png) | Chain Stratagem  | +10% critical rate on target <br>15s duration        | 120s     |
+| AST | ![icon](https://xivapi.com/i/013000/013245_hr1.png) | Divination       | ~6% damage increase <br>15s duration                 | 120s     |
 | AST | Various                                                                                                                                                                                | Cards            | Target gets ~6% damage increase <br>15s duration     | 30s      |
 
 ## Alternative Opener - 3rd GCD Delirium
