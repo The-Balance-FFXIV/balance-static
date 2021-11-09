@@ -9,9 +9,9 @@ changelog:
 ---
 # Job Overview
 
-Machinist is a fast-paced physical ranged job that excels at quick burst damage and has the added benefit of free movement. While the base rotation for this job is somewhat strict, Machinist excels in dumping burst into raid buffs with flexible use of its gauge system. This guide’s aim is to break down the job’s rotation into something easy to digest whilst providing good practices to follow for overall gameplay.
+Machinist is a fast-paced physical ranged job that excels at quick burst damage and has the added benefit of free movement. While the base rotation for this job is somewhat strict, Machinist excels in dumping burst into raid buffs with flexible use of its gauge system. This guide’s aim is to break down the job’s rotation into something easy to digest while providing good practices to follow for overall gameplay.
 
-If you’re new to the job and would just like a basic overview of Machinist during the leveling process, [click here](https://docs.google.com/document/d/1niBGupiPQoFhoJ_6B9CHwkOe1n0mKjUE4IFCt7wEUJg/edit#heading=h.idjbfn1hwrsk).
+If you’re new to the job and would just like a basic overview of Machinist during the leveling process, [click here](https://guides.xivresources.com/jobs/ranged/machinist/leveling-guide/).
 
 ## Job Gauge 
 
@@ -19,159 +19,159 @@ Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge whi
 
 ![](https://lh4.googleusercontent.com/QsQSG5c79EfLZe3wXkwZWsagFAlYmyeyZY0wC_ksPDFeXCjSY8Nr8g80biSCUpKrFhZLK1PSJbjY9lvhao3vGgi4mGbZUZCOf7kzXyc8ybUQnO6dPRPtdD5CMEyO5PpBz80hQntS)
 
-## Single Target Rotation
-![Heated Split Shot](https://i.imgur.com/E2ex2Mk.png) 
-**Heated Split Shot** 
+## Single Target Rotation 
+![Heated Split Shot](https://xivapi.com/i/003000/003031_hr1.png) 
+<br>**Heated Split Shot** 
 
 The first skill in your main combo. 220 Potency GCD  +5 Heat 
 
-![Heated Slug Shot](https://i.imgur.com/mK8LIWB.png) 
-**Heated Slug Shot** 
+![Heated Slug Shot](https://xivapi.com/i/003000/003032_hr1.png) 
+<br>**Heated Slug Shot** 
 
 The second skill in your main combo. 330 Combo Potency GCD  +5 Heat
 
-![Heated Clean Shot](https://i.imgur.com/279sKtp.png)
-**Heated Clean Shot**
+![Heated Clean Shot](https://xivapi.com/i/003000/003033_hr1.png)
+<br>**Heated Clean Shot**
 
 The final skill in your main combo. 440 Combo Potency GCD  +5 Heat  +10 Battery
 
 ![Drill](https://i.imgur.com/ADsMPA4.png)
-**Drill**
+<br>**Drill**
 
 Shares recast timer with Bioblaster. 700 Potency GCD 
 
-![Reassemble](https://i.imgur.com/gd8sg4A.png)
-**Reassemble**
+![Reassemble](https://xivapi.com/i/003000/003022_hr1.png)
+<br>**Reassemble**
 
 Ensures next weapon skill is a critical direct hit. oGCD  55s cooldown 
 
-![Hypercharge](https://i.imgur.com/RIyPuHs.png)
-**Hypercharge**
+![Hypercharge](https://xivapi.com/i/003000/003041_hr1.png)
+<br>**Hypercharge**
 
 Enables the usage of Heat Blast. Buffs weapon skills used for the next 8s.  oGCD  20 Potency added to all non-pet weapon skills.  -50 Heat 
 
-![Heat Blast](https://i.imgur.com/ne8MkbK.png)  
-**Heat Blast**
+![Heat Blast](https://xivapi.com/i/003000/003030_hr1.png)  
+<br>**Heat Blast**
 
 Only usable during Hypercharge. GCD timer set to 1.5s when using this skill. Each use reduces the recast timer of Gauss Round and Ricochet.  220 Potency GCD  15s reduction on both Gauss Round and Ricochet per use.  
 
-![Air Anchor](https://i.imgur.com/xfoo577.png)  
-**Air Anchor**
+![Air Anchor](https://xivapi.com/i/003000/003045_hr1.png)  
+<br>**Air Anchor**
 
 40s GCD.  700 Potency GCD  +20 Battery 
 
-![Ricochet](https://i.imgur.com/aZ3IDCA.png)  
-**Ricochet**
+![Ricochet](https://xivapi.com/i/003000/003017_hr1.png)  
+<br>**Ricochet**
 
 Flexible AoE oGCD. Can hold a max of three charges.  150 Potency oGCD with fall off damage after the first enemy  
 
-![Gauss Round](https://i.imgur.com/dgWfKkf.png)  
-**Gauss Round**
+![Gauss Round](https://xivapi.com/i/003000/003005_hr1.png)  
+<br>**Gauss Round**
 
 Flexible single target oGCD. Can hold a max of three charges.  150 Potency oGCD  
 
-![Wildfire](https://i.imgur.com/qHKWbfX.png)  
-**Wildfire**
+![Wildfire](https://xivapi.com/i/003000/003018_hr1.png)  
+<br>**Wildfire**
 
 Places a debuff on a single enemy that deals 200 potency per weapon skill.  Detonates after 10s.  Two minute cooldown.  oGCD  When paired with a Hypercharge window, it allows for six weapon skills inside the 10s buff timer.  1200 Potency  
 
-![Barrell Stabilizer](https://i.imgur.com/0Ue2ejN.png)  
-**Barrel Stabilizer**
+![Barrel Stabilizer](https://xivapi.com/i/003000/003034_hr1.png)  
+<br>**Barrel Stabilizer**
 
 Generates 50 heat.  Two minute cooldown.  oGCD  +50 Heat 
 
 
 ## AoE Actions
 
-![Bioblaster](https://i.imgur.com/8sCjrwr.png)  
-**Bioblaster**
+![Bioblaster](https://xivapi.com/i/003000/003044_hr1.png) 
+<br>**Bioblaster**
 
 Conal AoE that applies a DoT to enemies. Shares recast with Drill.  360 Potency GCD (60p upfront + 60p DoT/15s) 
 
-![Spread shot](https://i.imgur.com/FShMADQ.png)  
-**Spread Shot**
+![Spread shot](https://xivapi.com/i/003000/003014_hr1.png)
+<br>**Spread Shot**
 
 Standard conal AoE.  180 Potency GCD +5 Heat 
 
-![Auto Crossbow](https://i.imgur.com/R4QrmeH.png)  
-**Auto Crossbow**
+![Auto Crossbow](https://xivapi.com/i/003000/003042_hr1.png)  
+<br>**Auto Crossbow**
 
 Conal AoE. Can only be used while in Hypercharge. GCD recast set to 1.5s.  180 Potency GCD  
 
-![Flamethrower](https://i.imgur.com/MbskRdc.png)  
-**Flamethrower**
+![Flamethrower](https://xivapi.com/i/003000/003038_hr1.png)  
+<br>**Flamethrower**
 
-A channeled ability. Deals 100 potency once per second for ten seconds. Moving while channeling the skill will end its duration. Even though it’s an ability, it still resets the GCD timer.  GCD  100p/10s + initial tick  Max 1100 potency on all enemies in a cone. 
+A channeled ability. Deals 100 potency once per second for ten seconds. Moving while channeling the skill will end its duration. Even though it’s an ability, it still resets the GCD timer.  GCD  100p/10s + initial tick.  Max 1100 potency on all enemies in a cone. 
 
 
 ## Pet Actions
 
-![Automaton Queen](https://i.imgur.com/tOCiffb.png)  
-**Automaton Queen**
+![Automaton Queen](https://xivapi.com/i/003000/003501_hr1.png)  
+<br>**Automaton Queen**
 
-Summons your robot. While active, Queen will deal damage in the form of Arm Punch, Roller Dash and Pilebunker. Timer is based on Battery gauge.  oGCD  Minimum 1150 Potency  Maximum 2300 Potency  
+Summons your robot. While active, Queen will deal damage in the form of Arm Punch, Roller Dash and Pilebunker. Timer is based on Battery gauge.  oGCD  Minimum 1150 Potency.  Maximum 2300 Potency.  
 
-![Automaton Overdrive](https://i.imgur.com/FQEtUTM.png)  
-**Automaton Overdrive**
+![Automaton Overdrive](https://xivapi.com/i/003000/003502_hr1.png)  
+<br>**Queen Overdrive**
 
 Commands Automaton Queen to perform Pile Bunker before Battery timer reaches zero.  oGCD  Variable damage based on Battery Gauge.  
 
-![Arm Punch](https://i.imgur.com/sc2e0WC.png)  
-**Arm Punch**
+![Arm Punch](https://xivapi.com/i/003000/003504_hr1.png)  
+<br>**Arm Punch**
 
 Melee distance GCD used by Queen Automaton. 1.5s recast.  Pet GCD  150 Potency  
 
-![Roller Dash](https://i.imgur.com/HnfT5qg.png)  
-**Roller Dash**
+![Roller Dash](https://xivapi.com/i/003000/003505_hr1.png)  
+<br>**Roller Dash**
 
 Gap closer used by Queen Automaton. 3s recast.  Pet GCD  300 Potency  
 
-![Pile Bunker](https://i.imgur.com/1c1y102.png)  
-**Pile Bunker**
+![Pile Bunker](https://xivapi.com/i/003000/003503_hr1.png)  
+<br>**Pile Bunker**
 
 Queen Automaton’s finisher.  Pet GCD  Variable damage based on Battery Gauge.  
 
 
 ## Role Abilities/Support
 
-![Tactician](https://i.imgur.com/8Ss9E1g.png)  
-**Tactician**
+![Tactician](https://xivapi.com/i/003000/003040_hr1.png)  
+<br>**Tactician**
 
 Reduces damage taken by you and all party members. Two minute recast.  10% damage reduction for 15s. Cannot be stacked with Troubadour or Shield Samba.  
 
-![Leg Graze](https://i.imgur.com/SYg1Q1Z.png)  
-**Leg Graze**
+![Leg Graze](https://xivapi.com/i/000000/000843_hr1.png)  
+<br>**Leg Graze**
 
 Can be resisted by enemies. 30s recast.  40% Heavy for 10s.  
 
-![Foot Graze](https://i.imgur.com/3hHvY0j.png)  
-**Foot Graze**
+![Foot Graze](https://xivapi.com/i/000000/000842_hr1.png)  
+<br>**Foot Graze**
 
 Can be resisted by enemies. 30s recast.  Bind for 10s.  
 
-![Head Graze](https://i.imgur.com/tZfCWJ3.png)  
-**Head Graze**
+![Head Graze](https://xivapi.com/i/000000/000848_hr1.png)  
+<br>**Head Graze**
 
 Only interrupts cast bars that are “blinking”. 30s recast.  Cast Interruption.  
 
-![Second Wind](https://i.imgur.com/YuAmy9n.png)  
-**Second Wind**
+![Second Wind](https://xivapi.com/i/000000/000821_hr1.png)  
+<br>**Second Wind**
 
 Restores own HP. Two minute recast.  500 Potency  
 
-![Arm's Length](https://i.imgur.com/ButTAZk.png)  
-**Arm’s Length**
+![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png)  
+<br>**Arm’s Length**
 
 Nullifies most knockback or draw-in effects. Two minute recast.  20% slow if attacked by physical damage.  
 
-![Peloton](https://i.imgur.com/bEQe3Og.png)  
-**Peloton**
+![Peloton](https://xivapi.com/i/000000/000844_hr1.png)  
+<br>**Peloton**
 
 Can not be used in combat. Increases movement speed for self and all party members.  Ends if you enter combat.  
 
 # Openers 
 
-Listed below are all current openers and the reasoning as to why each one should be selected. It is very important that you attempt to put as much damage into the raid buffs of your party as possible. Wildfire is not flexible at all, as it is on a strict two minute timer, and because of this, it should be placed properly in the opener based on your party composition. Wildfire snapshots raid buffs upon use of the ability -- not on detonation. Wildfire cannot critical hit or direct hit, thus gaining no benefit from crit or direct hit boosting raid buffs. If you’re only here for openers, [click this](https://docs.google.com/document/d/1nziWpSg9V8Z2TaEjqIp5OKOXs408ANAFSm3zFAGgnaI/edit#heading=h.ulyommbxraa8). Images with text in case you prefer that.
+Listed below are all current openers and the reasoning as to why each one should be selected. It is very important that you attempt to put as much damage into the raid buffs of your party as possible. Wildfire is not flexible at all, as it is on a strict two minute timer, and because of this, it should be placed properly in the opener based on your party composition. Wildfire snapshots raid buffs upon use of the ability -- not on detonation. Wildfire cannot critical hit or direct hit, thus gaining no benefit from crit or direct hit boosting raid buffs. If you’re only here for openers, [click this](https://guides.xivresources.com/jobs/ranged/machinist/openers-and-rotation/). Images with text in case you prefer that.
 
 #### 3rd GCD WF (Fast Opener)
 
