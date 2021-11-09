@@ -110,11 +110,11 @@ Some enemies will have the **Side** mark wrapping their entire hitbox, with no a
 
 ### Side Positionals
 
-<img src="/img/fc.png" alt="Fang and Claw" height="50px" style="float:left;"> **Fang and Claw** deals 40 more potency from the **Side**.\
+<img src="/img/fc.png" alt="Fang and Claw" height="50px" style="float:left;"> **Fang and Claw** deals 40 more potency from the **Side**.
 
 ### Rear Positionals
 
-<img src="/img/ct.png" alt="Chaos Thrust" height="50px" style="float:left;"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px" style="float:left;"> **Chaos Thrust** and **Wheeling Thrust** deal 40 more potency from the **Rear**.\
+<img src="/img/ct.png" alt="Chaos Thrust" height="50px" style="float:left;"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px" style="float:left;"> **Chaos Thrust** and **Wheeling Thrust** deal 40 more potency from the **Rear**.
 
 ### Positional Parity
 
