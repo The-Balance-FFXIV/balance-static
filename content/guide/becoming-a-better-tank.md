@@ -1,8 +1,6 @@
 ---
 title: Becoming A Better Tank
 ---
-# Becoming A Better Tank
-
 ## Version 1.0
 
 *Torael Valdis | Jenova (NA) | Torael_Valdis#8120*
