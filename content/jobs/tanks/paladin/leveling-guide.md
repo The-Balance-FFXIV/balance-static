@@ -7,7 +7,7 @@ changelog:
   - date: 2021-10-27T17:22:16.067Z
     message: Added
 ---
-# Paladin Levelling in Dungeons
+# Paladin Leveling in Dungeons
 # Keeping Aggro
 
 
