@@ -9,7 +9,7 @@ changelog:
 ---
 # Openers
 
-Listed below are all current openers and the reasoning as to why each one should be selected. It is very important that you attempt to put as much damage into the raid buffs of your party as possible. Wildfire is not flexible at all, as it is on a strict two minute timer, and because of this, it should be placed properly in the opener based on your party composition. Wildfire snapshots raid buffs upon use of the ability -- not on detonation. Wildfire cannot critical hit or direct hit, thus gaining no benefit from crit or direct hit boosting raid buffs.
+Listed below are all current openers and the reasoning as to why each one should be selected. It is very important that you attempt to put as much damage into the raid buffs of your party as possible. Wildfire is not flexible at all, as it is on a strict two minute timer, and because of this, it should be placed properly in the opener based on your party composition. Wildfire snapshots raid buffs upon use of the ability -- not on detonation. Wildfire cannot Critical Hit or Direct Hit, thus gaining no benefit from Crit or Direct Hit boosting raid buffs.
 
 ## General Purpose Opener
 
@@ -63,7 +63,7 @@ Openers should be decided upon with taking into consideration kill time, down ti
 
 5th GCD WF - Ends on Drill, thus relying on very good ping or VPN usage. Will grab all buffs excluding a 1.2% chance of late Divination and a late cascade of late Brotherhood. Standing near MNK for cascade priority ensures buff will hit in time. Mainly used for optimization with a RDM.
 
-**General Purpose/6th GCD WF** - Grabs all buffs regardless of group composition. **Suggested for Party Finder**
+**General Purpose/6th GCD WF** - Grabs all buffs regardless of group composition. **Suggested for Party Finder.**
 
 High Ping - Last resort. Delays drill by a single GCD after WF, should only be used if all other openers are not an option.
 
