@@ -28,11 +28,11 @@ Some of the content here will cover concepts that are obvious to people who have
 1. Understand how mechanics align when you keep perfect GCD casting uptime. Map out the minimum number of required Swiftcasts for this first.
 2. Determine your Embolden, Manafication and Potion timings, which will be heavily influenced by killtime ranges.
 3. For fights with phase transitions, count the number of Fleche and Contre Sixte uses you can possibly get per phase.
-4. Map out your Engagement/Displacement uses to maximize potency with 4 uses per Manafication cycle. More of these should be Displacement if mechanics, healing and mitigation allows. Note that there are rare instances you can get 4 uses of Corps-a-Corps due to phasing or Manafication holds.
+4. Map out your Engagement/Displacement uses to maximize potency with four uses per Manafication cycle. More of these should be Displacement if mechanics, healing and mitigation allows. Note that there are rare instances you can get four uses of Corps-a-Corps due to phasing or Manafication holds.
 5. Other than mechanics, see if an additional planned Swiftcast will be useful anywhere, e.g. for improving oGCD alignment or weaving opportunities.
-6. Consider the very niche optimizations. This includes room for intentional oGCD delays (e.g. for buffs or pots), Enchanted Reprise use when high on mana for weaving or gaining an extra GCD via the 2.2 recast timer, or niche Swiftcast uses for procs.
+6. Consider the very niche optimizations. This includes room for intentional oGCD delays (e.g. for buffs or pots), Enchanted Reprise use when high on mana for weaving or gaining an extra GCD via the 2.2s recast timer, or niche Swiftcast uses for procs.
 7. Put your final rotation together.
-8. Casting Uptime
+8. Casting Uptime.
 
 The most basic of all. With how Dualcast works, we will spend just under half of the fight standing still casting spells.
 
@@ -77,10 +77,10 @@ This clarification is also important to understand why we don’t go out of our 
 
 In an optimized static, you can plan or customize buff timings and loosely predict kill times. You do this by knowing your team raid buff and burst windows. As a recap of the basics, in a fight with a kill time of 7:30:
 
-* RDM, SAM, DNC and NIN will be happy with buffs lining up at 2-minute intervals. Embolden can be used off cooldown at 0-2-4-6.
-* But RDM, DRG, BRD and SMN would be better with 0-3-5-7. Their 3-minute buffs (Battle Litany, Battle Voice and Devotion) can sync with the group’s other buffs three times here (0-3-7, missing 5), but only twice in the previous (0-6, missing 2 and 4).
+* RDM, SAM, DNC and NIN will be happy with buffs lining up at two minute intervals. Embolden can be used off cooldown at 0-2-4-6.
+* But RDM, DRG, BRD and SMN would be better with 0-3-5-7. Their three-minute buffs (Battle Litany, Battle Voice and Devotion) can sync with the group’s other buffs three times here (0-3-7, missing 5), but only twice in the previous (0-6, missing 2 and 4).
 
-As for your rotation and Manafication timings, you will need to get a feel for the encounter and common killtime ranges to decide what is best. Just remember to avoid significant overcapping, know how different openers affect mana (X-8 surplus at four minutes, X-10 surplus at 2 minutes), and get an idea for how many Scorches you can get by your estimated killtime based on different openers and Manafication holds.
+As for your rotation and Manafication timings, you will need to get a feel for the encounter and common killtime ranges to decide what is best. Just remember to avoid significant overcapping, know how different openers affect mana (X-8 surplus at four minutes, X-10 surplus at twp minutes), and get an idea for how many Scorches you can get by your estimated killtime based on different openers and Manafication holds.
 
 # High Level Considerations: GCD-Perfect Buff and Combo Timings
 
@@ -129,7 +129,7 @@ To count the number of Fleche or Contre Sixte uses you get per phase, you can st
 \
 If a phase lasts for 01:50 seconds and only allows for two seconds drift, maybe you should hold Swiftcast all the way. But if it lasts until 01:55? That allows more flexibility for using Swiftcast for damage, mechanics or oGCD alignment. That allows seven seconds of drift.
 
-The basic formula for Excel beginners is to input the number of seconds, then do the previous cell +25 each time (left in the table above). For the encounter timestamp, apply the seconds to time conversion formula (=cell/86400). Then compare it to a mechanics timeline. There are undoubtedly more sophisticated timelines or possible tools for cooldown mapping, but this is something anyone can do in less than 5 minutes.
+The basic formula for Excel beginners is to input the number of seconds, then do the previous cell +25 each time (left in the table above). For the encounter timestamp, apply the seconds to time conversion formula (=cell/86400). Then compare it to a mechanics timeline. There are undoubtedly more sophisticated timelines or possible tools for cooldown mapping, but this is something anyone can do in less than five minutes.
 
 ## Contre Sixte and AoE
 
@@ -212,7 +212,7 @@ There are a lot of highly niche micro-optimizations you can do depending on the 
 
 * Occasionally, you can overcap a little bit to put melee combo finishers under Trick Attack at one minute, or into any 3-minute buffs.
 * If there are raids with two targets, awkward killtimes and a large surplus of mana, you can consider dumping with an Enchanted Moulinet. This can occur in BJCC phase of TEA, where you may find yourself overcapping on mana even using a lot of Jolt Impact, but still need to be at 100/100 for an Alexander Prime reopener.
-* We rarely intentionally delay Fleche or Contre Sixte purely for potion reopeners, even if it’s “ideal” to get two Fleche and one Contre Sixte within one potion. But it is worth doing if you can predict the killtime, or if a specific phase in a fight is very forgiving on Fleche and Contre Sixte holds (see section 3).
+* We rarely intentionally delay Fleche or Contre Sixte purely for potion reopeners, even if it’s “ideal” to get two Fleche and one Contre Sixte within one potion. But it is worth doing if you can predict the killtime, or if a specific phase in a fight is very forgiving on Fleche and Contre Sixte holds (see section three).
 
 ## Enchanted Reprise Techniques
 
