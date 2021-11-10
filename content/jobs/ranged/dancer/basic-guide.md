@@ -25,11 +25,11 @@ Everything in this guide is free to be reposted or otherwise used freely! If you
 
 # Basic DNC Overview
 
-[DNC Job Guide from Square Enix](https://na.finalfantasyxiv.com/jobguide/dancer/) (which includes job weaponskill and ability descriptions).
+[DNC Job Guide from Square Enix](https://na.finalfantasyxiv.com/jobguide/dancer/) (which includes job weaponskill and ability descriptions). It may be helpful to read through the [Skills Overview](https://guides.xivresources.com/jobs/ranged/dancer/skill-overview/) before you begin.
 
 ## Short Version:
 
-Dancer is a ranged physical DPS job with low personal DPS but high contribution to others’ DPS using raid buffs. It has “Dances'' that require executing the right dance steps in order to perform powerful finishing moves. Its main weaponskill GCDs revolve around a simple combo that has a chance to generate stronger proc GCDs, which have a chance to generate Feathers that can be used for oGCD damage abilities.
+Dancer is a ranged physical DPS job with low personal DPS but high contribution to others’ DPS using raid buffs. It has “Dances" that require executing the right dance steps in order to perform powerful finishing moves. Its main weaponskill GCDs revolve around a simple combo that has a chance to generate stronger proc GCDs, which have a chance to generate Feathers that can be used for oGCD damage abilities.
 
 ## Long Version:
 
