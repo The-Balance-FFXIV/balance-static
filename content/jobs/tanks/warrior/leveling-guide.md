@@ -29,11 +29,11 @@ We want Strength and Vitality. And Weapon Damage. *Lots of Weapon Damage.* The m
 
 Use Berserk, as it gives you more damage and there’s no downside to it. You’ll only hit combo GCDs for now, along with Overpower. Use Tomahawk when pulling single targets.  
 
-Raw Potency-wise, Overpower is equally effective at two targets before lv 26. When you unlock the Storm’s Path (lv26), that balance tips over to “Overpower at three targets and up”. You still want to use Overpower to initially grab packs of mobs in one hit, though.
+Raw Potency-wise, Overpower is equally effective at two targets before lvl 26. When you unlock the Storm’s Path (lvl26), that balance tips over to “Overpower at three targets and up”. You still want to use Overpower to initially grab packs of mobs in one hit, though.
 
 ![](https://cdn.discordapp.com/attachments/458951851610734595/889189406823555102/unknown.png)
 
-Thrill of Battle (lv30) is nice, as it acts as a re-fillable bubble. Use it to survive damage spikes.
+Thrill of Battle (lvl30) is nice, as it acts as a re-fillable bubble. Use it to survive damage spikes.
 
 ---
 
@@ -82,18 +82,18 @@ The basic opener for single-target fights is:
 * Inner Beast (50 gauge)
 * Inner Beast (0 gauge), Berserk ends
 
-Once you hit lv54, your Inner Beast turns into Fell Cleave. At lv60, your Steel Cyclone turns into Decimate.
+Once you hit lvl54, your Inner Beast turns into Fell Cleave. At lvl60, your Steel Cyclone turns into Decimate.
 
 The AoE effectiveness basics are:
 
-* Fell Cleave at 1-2 targets (590 potency per GCD)
+* Fell Cleave at one to two targets (590 potency per GCD)
 * Decimate at 3+ targets (3x250 potency per GCD)
 * Again, we are skipping the basic AoE rotation effectiveness here, and the Beast Gauge, entirely.
 
 Basic rotation is:
 
-* Keep Storm’s Eye buff up
-* Gather Gauge with Storm’s Path
+* Keep Storm’s Eye buff up.
+* Gather Gauge with Storm’s Path.
 * Don’t overcap your Gauge, use IB/FC only to avoid that from happening.
 
 The following Berserks will rotate between three and four IB/FC within them due to the Infuriate cooldown.
@@ -127,7 +127,7 @@ This means that in the worst case, our “Upheaval GCD” combination is:
 
 * Heavy Swing for 200 potency
 * Upheaval for 450 potency (-20 gauge)
-  A total of 650 potency for 20 gauge, compared to Fell Cleave that’s 590 potency for 50 gauge.
+* A total of 650 potency for 20 gauge, compared to Fell Cleave that’s 590 potency for 50 gauge.
 
 Maximize your Gauge to Damage gains.
 
@@ -135,7 +135,7 @@ Maximize your Gauge to Damage gains.
 
 # 70-71: Unleash the Inner Release
 
-So, you finally hit lv70 and unlocked the trait that turns Berserk into Inner Release.\
+So, you finally hit lvl70 and unlocked the trait that turns Berserk into Inner Release.\
 
 This is where the end-game rotation begins. Read the tooltip of Inner Release and realize that you get a free pass to use Gauge spenders for ten seconds.
 
@@ -162,7 +162,7 @@ Opener is:
 
 # 72+: Nascent Chaos enters the arena.
 
-At lv72, we unlock the “Nascent Chaos” buff that triggers every time after using Infuriate. This turns our Gauge spenders into a more powerful version of themselves. We don’t get the upgraded Fell Cleave yet, though. We get the AoE upgrades first. Enter “Chaotic Cyclone”. Read the tooltip.
+At lvl72, we unlock the “Nascent Chaos” buff that triggers every time after using Infuriate. This turns our Gauge spenders into a more powerful version of themselves. We don’t get the upgraded Fell Cleave yet, though. We get the AoE upgrades first. Enter “Chaotic Cyclone”. Read the tooltip.
 
 For now, we’ll be using Chaotic Cyclone as a 50 gauge spender, even on single-target situations. If Fell Cleave were to Direct Hit + Crit, it would win out. However, Chaotic Cyclone *always* does this, which leads to higher average damage results.
 
