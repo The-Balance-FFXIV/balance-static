@@ -11,9 +11,9 @@ changelog:
 
 - - -
 
-Hello. I am Reina, a caster player, and I am standing on the shoulders of giants. This document aims to provide a comprehensive guide on **non-standard rotation** (also known as AI or Hypermeme rotation). There is the assumption you know all of the basics of BLM, including abbreviations and fundamentals. If not, refer to the [BLM Basic Guide](https://guides.xivresources.com/jobs/casters/black-mage/5-x-blm-guide/) before proceeding here. This guide will *not* bring you from 75% to 95% nor will it magically make you a good BLM player. If you are looking to generally improve, work on the fundamentals such as keeping your gcd rolling (ABC: Always Be Casting), ogcd usage, slidecasting, positioning, etc. 
+Hello. I am Reina, a caster player, and I am standing on the shoulders of giants. This document aims to provide a comprehensive guide on **non-standard rotation** (also known as AI or Hypermeme rotation). There is the assumption you know all of the basics of BLM, including abbreviations and fundamentals. If not, refer to the [BLM Basic Guide](https://guides.xivresources.com/jobs/casters/black-mage/5-x-blm-guide/) before proceeding here. This guide will *not* bring you from 75% to 95% nor will it magically make you a good BLM player. If you are looking to generally improve, work on the fundamentals such as keeping your GCD rolling (ABC: Always Be Casting), oGCD usage, slidecasting, positioning, etc. 
 
-**The optimizations listed here are meant for players with a great understanding of the fundamentals of BLM’s playstyle and rotation, and are already familiar with executing the rotation well in fights.** If you can maintain a **substantially high uptime** on BLM and are interested in learning alternative and potentially challenging BLM rotations, then I welcome you to read on. This document is written in 3 sections so you don’t need the knowledge of later sections to utilize the former ones. If you have any questions or comments, feel free to contact me on Discord at Reina#0001.
+**The optimizations listed here are meant for players with a great understanding of the fundamentals of BLM’s playstyle and rotation, and are already familiar with executing the rotation well in fights.** If you can maintain a **substantially high uptime** on BLM and are interested in learning alternative and potentially challenging BLM rotations, then I welcome you to read on. This document is written in three sections so you don’t need the knowledge of later sections to utilize the former ones. If you have any questions or comments, feel free to contact me on Discord at Reina#0001.
 
 > “From sim numbers, we’ve expected about a 1.5% overall DPS increase with non-standard lines in  Shadowbringers. This number is actually quite useless though, and it would be better taken to mean there’s statistical significance that being able to skip B4 and use Transpose is (slightly) better than always using B4 and not using Transpose. Actual DPS gain could be higher or lower depending on player skill and the encounter.” - Yuna. 
 
@@ -43,7 +43,7 @@ A reminder of what is referred to as the standard rotation. B3 + B4 with 2 MP ti
 
 ### Base 4xF4 line
 
-To complete 4 F4s in the fire phase, two UI3 ticks are required. A natural MP tick happens every three seconds. This is done with 1-2 fillers, represented by the white spaces, that are typically not B4 during UI to gain the needed MP ticks. Due to the need for fillers, Thunder is more strictly used in UI. This is higher in PPS than standard. 
+To complete four F4s in the fire phase, two UI3 ticks are required. A natural MP tick happens every three seconds. This is done with one or two fillers, represented by the white spaces, that are typically not B4 during UI to gain the needed MP ticks. Due to the need for fillers, Thunder is more strictly used in UI. This is higher in PPS than standard. 
 
 ![](https://lh3.googleusercontent.com/10ftF0hUR3KfouefPQyDn-fwj5-3TR-pc6497y0_X_3yj3M3XJEseYE7Q-1jjZ5uij5qG1qVdAB4UO6ipIdJGSNt-3rl_kvpK6aZCoJCxXKNBNT6sQqqZJWMVB-aK4BWdgp88AQP=s0)
 
@@ -51,11 +51,11 @@ If you don’t get an early MP tick, need to refresh Thunder and have Xeno ready
 
 ![](https://lh6.googleusercontent.com/Iz1Ekg5fPsSnCU1IbCSsevqEjbahvJURuDIAazKzFk8Bjrwh_DaTcEa4UIuHklcInLH2bEdnZ_HZtOe447p70yAUJbLgpCmJ64j9XnnkV285nVADN2cJ-O-27dchvykBxyDzMsAP=s0)
 
-If you get an early tick and need to refresh Thunder, you can skip Xeno and opt for this line. It is important to bank Xeno whenever possible. As a practical aside, it is recommended to continuously queue thunder casts as you finish casting B3, followed by a Xeno queue as the gcd finishes rolling in the event the mana tick doesn’t occur.
+If you get an early tick and need to refresh Thunder, you can skip Xeno and opt for this line. It is important to bank Xeno whenever possible. As a practical aside, it is recommended to continuously queue thunder casts as you finish casting B3, followed by a Xeno queue as the GCD finishes rolling in the event the mana tick doesn’t occur.
 
 ![](https://lh6.googleusercontent.com/dS6a2xlU3bxZnBgEATKrZLQ01su6LPEF89oTSSXlbf9HMLLXawHc5fqZ0onMHFqMo0Tf49UMRZrY5Vl_lDj43qzGO1Ggesn36VCQTloCjw3JuKOG6PemDK45R64HVk-foxONOZsO=s0)
 
-If no early tick happens with a decent amount of on the dot left and no T3P is available, using both Xenos as fillers can be considered. If an early tick happens, one Xeno can be banked. 
+If no early tick happens with a decent amount of on the DoT left and no T3P is available, using both Xenos as fillers can be considered. If an early tick happens, one Xeno can be banked. 
 
 **For all other scenarios with B3 in the general rotation, cast B4 and go into a standard line (or enter a 3xF4 line, discussed in later sections).** 
 
@@ -63,7 +63,7 @@ If no early tick happens with a decent amount of on the dot left and no T3P is a
 
 ![](https://lh6.googleusercontent.com/xmkQG31cYpT_E8Iw-HzcPwtLL8oBEumJzfSbEuUavbgii89DYcfjNjow-cj8SaXFxk1eU-_BwQGkcSvkKu3lgArJkaw0tuLQm0RMenLYplaAfRlPs6o2ruxeQx8cvTad88D7DKnU=s0)
 
-Same concept as 4xF4, but with higher spell speed (sps) granting us an additional F4 in the fire phase. This can be done via Ley Lines or with Triple + Swift at high sps. 
+Same concept as 4xF4, but with higher spell speed (SpS) granting us an additional F4 in the fire phase. This can be done via Ley Lines or with Triple + Swift at high SpS. 
 
 ### Salvaging a bad 4xF4 line 
 
@@ -89,7 +89,7 @@ To complete 3xF4 + Despair + slow F3, we need 6600 MP. Each UI1 MP tick provides
 
 ![](https://lh5.googleusercontent.com/_ms3f5WU7PjNqIPawRHLxbDy6icRXWsTbLMLtG9PEe7GhuGOU_6alsF4SrxIXtjTySjK9dzkmHj_akdBxyC4VeOxQ67tpKdWoWfVoTnNPZeJIDYd56DUs3q5emYNksjWi516LUKF=s0)
 
-A slow F3 into 3xF4 provides some flexibility in the fire phase as it allows 1 filler GCD to be used should weaving or movement be needed. In addition, Lucid can be weaved in the second instant GCD as long as it provides the 1 Lucid tick needed. 
+A slow F3 into 3xF4 provides some flexibility in the fire phase as it allows one filler GCD to be used should weaving or movement be needed. In addition, Lucid can be weaved in the second instant GCD as long as it provides the one Lucid tick needed. 
 
 ![](https://lh4.googleusercontent.com/Wqv9Gq4TYdGzAxaMxKV94en45QK0USxDCsx5dReSYVb9aQZGYcAfw8o0BlqA4lG8iVh-t5LhjdvljE4DafRD8Zf8litoo32O14dR6XG7XJ69mF0Y6dEX8rGncYkHp85eR-mDEBE-=s0)
 
@@ -99,7 +99,7 @@ The GCD before Transpose can be any instant GCD, including an instant Despair. L
 
 ![](https://lh6.googleusercontent.com/Z7rf588gP3ILJvabU_tjxOunJ9MlfdVNRlw9U7raAqhPH-Tbn94xbcxbIep67eXonW2bKbP0RZBAJS3c-AOLcfhq2igvbkGGxA7uimB5WYd43bUZju-nzME90tCEBjdyYcWXCcBz=s0)
 
-An additional filler GCD can be used in the ice phase to allow an additional MP tick and grants us 4xF4 in the fire phase. 3 UI1 MP ticks are required for this line. Note that Lucid is not necessary in this line. This line is stronger than 3xF3 Transpose. 
+An additional filler GCD can be used in the ice phase to allow an additional MP tick and grants us 4xF4 in the fire phase. Three UI1 MP ticks are required for this line. Note that Lucid is not necessary in this line. This line is stronger than 3xF3 Transpose. 
 
 ### Putting it together
 
@@ -161,7 +161,7 @@ Lucid’s duration lasts through a 3xF4 fire phase and can provide an additional
 
 ![](https://lh4.googleusercontent.com/gbNRdWiCnHFf2I90ZO0F-_QK2lK3nRQdH3K3GLacN7FlcRym66Tn5ueGq0DZa1qGxFG7Wi9alWW4uwRSCJ1b9FwFem3pQFF3dxYWHmNN2UP589qLy9Q4VnUTSD7jSqpid07O7Zwl=s0)
 
-Same concept as 4xF4 Transpose, but with higher spell speed (SpS) that grants us an additional F4 in the fire phase. This can be done via Ley Lines or with Triple + Swift at high spell speeds. three MP ticks are required and note the Lucid here is needed.
+Same concept as 4xF4 Transpose, but with higher spell speed (SpS) that grants us an additional F4 in the fire phase. This can be done via Ley Lines or with Triple + Swift at high spell speeds. Three MP ticks are required and note the Lucid here is needed.
 
 ### Instant F3
 
@@ -217,7 +217,7 @@ No filler 3xF4. Requires just one tick between B3 and F3. 
 
 - - -
 
-You may have noticed all Thunder spells as UI fillers listed in Transpose lines above are procs. Due to the requirement of 400 MP for a T3 hardcast, we must obtain either a natural tick or a Lucid tick before hardcasting. While this is possible, it is inadvisable to do so without tracking the MP tick as the Lucid tick is not guaranteed. Some lines do generate enough MP for a hard Thunder refresh during UI to be used as a filler, such as lines that use 1 filler before the hardcasted Thunder. 
+You may have noticed all Thunder spells as UI fillers listed in Transpose lines above are procs. Due to the requirement of 400 MP for a T3 hardcast, we must obtain either a natural tick or a Lucid tick before hardcasting. While this is possible, it is inadvisable to do so without tracking the MP tick as the Lucid tick is not guaranteed. Some lines do generate enough MP for a hard Thunder refresh during UI to be used as a filler, such as lines that use one filler before the hardcasted Thunder. 
 
 ![](https://lh6.googleusercontent.com/ULXN4MmQfNFwE19Xe5BrCMtxwAqHuzazPOkenHUjB47pq-wJVAE8uzuHRkFULcmuFvTotLbfbX5WtE3giL4JwxWHFofQKL0pQMOhpL_hDsCe6iI9dQVwIRqrQ6Ml7AZr7g9WlW9e=s0)
 
@@ -233,7 +233,7 @@ Thunder should be used as UI filler whenever possible. At ~2k sps, a Sharped T3P
 
 ![](https://lh6.googleusercontent.com/mkDr50kTmXEyA306ndAn41QYqaO8lPh6980eYNsIEDR85trUgNIJvWPbUnMEKyno8CLth3R4EbuX9r2jMQL9y-L1iK1thClWtqoTU6ja1mO1ccotZV0Qi7NKNQvzSE1yF9fLT7Fq=s0)
 
-Similarly, a Sharped T3P without additional procs in a 3xF4 Transpose line will also have its proc running out after Despair. (~1900 Sps)
+Similarly, a Sharped T3P without additional procs in a 3xF4 Transpose line will also have its proc running out after Despair. (~1900 SpS)
 
 ![](https://lh4.googleusercontent.com/ITVZSLLltQzh1xDp4SzKZeZf9tms7hAtmnu4bvm1jY1BNgIOzOZ8VlgkZknRpIhS6XWNwa_MKkou7Nv1fsYCLucyVnPc7HhQ-NuW1S-bhifJcW30uQ8obrE3PwDCoqkmMMylwPWZ=s0)
 
@@ -341,7 +341,7 @@ Of course, we can do far better than just a single line after the opener. With p
 
 Sequence: <https://xivanalysis.com/fflogs/2rDpT3GHnBL14Pbm/2/1> 2066 SpS, ~2:20 minutes. Note the last few fire lines rely on a late or no T3 proc from the 4th T3. 
 
-#### Example E11S phase 1 sequence
+#### Example E11S Phase One sequence
 
 Sequence: <https://xivanalysis.com/fflogs/BRDckdwWyzr3qYM2/18/1>  30 F4s + 9 Despairs, 2030 SpS. 
 
@@ -355,7 +355,7 @@ It’s possible for opener sequences to be even longer than the couple I have sh
 
 When planning an opener sequence, sometimes the amount of time between T3 refreshes is longer than the T3P timer. If a tick happens early enough and no additional ticks happen, you may have to choose between dropping the proc or deviating into a sequence branch. Which one is preferable depends on the fight and on your goals. Similarly, randomness in mechanics may also force a deviance. To factor these random elements, you may want to plan different branches in the sequence in case they happen.
 
-#### Example E11S Phase 1 sequence branch (principle holds, but sequence needs work)
+#### Example E11S Phase One sequence branch (principle holds, but sequence needs work).
 
 Sequence: <https://xivanalysis.com/fflogs/2y8nrJPXK7p6AW9w/15/2> 
 
