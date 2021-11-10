@@ -70,6 +70,9 @@ qna:
       Pop Inner Release when your GCD looks like this:  
 
       ![](https://media.discordapp.net/attachments/277962807813865472/597203462106906651/unknown.png)
+  - question: Can I pay money to Oowazu Nonowazu?
+    answer: You sure can't. He doesn't take money and for some reason this
+      *infuriates* people.
 ---
 > *Lvl70: Single Target vs AoE (Two Targets)?*
 
