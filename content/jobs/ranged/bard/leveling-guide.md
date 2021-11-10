@@ -7,7 +7,7 @@ changelog:
   - date: 2021-10-26T02:15:03.972Z
     message: Created page
 ---
-# A Guide For Bards That Aren’t Level 80 Yet 
+# A Guide For Bards That Aren’t Level 80 Yet
 
 While the main Balance guide is focused on level 80 gameplay, I thought it’d be nice to have something people can follow as they level. 
 
@@ -17,7 +17,7 @@ So, here are some general outlines for various level ranges, and tips for what s
 
 If anything is confusing, feel free to ping Sana Cetonis (Cetonis#8918) on The Balance discord server -- it may mean something in the guide can be made more clear, so tip offs are welcome!
 
-# Level 1-29
+# Levels 1-29
 
 You’ll move through the Archer levels fairly quickly, but even by level 6 you have a couple important concepts introduced.
 
@@ -27,7 +27,7 @@ So in the case of Venomous Bite, the initial hit deals 100 potency, and then the
 
 You don’t get to stack multiple instances of it on one enemy though, so once you put Venomous Bite on your target(s), it’s back to using Heavy Shot every 2.5 seconds, or Straight Shot when it procs. 
 
-(”Proc” is common lingo for the triggering of some skill or effect, you’ll see it a lot)
+(”Proc” is common lingo for the triggering of some skill or effect, you’ll see it a lot.)
 
 Keep an eye on that Venomous Bite debuff - when you see it’s close to wearing off, make sure to re-apply it (unless the enemy is dying fairly soon). 
 
@@ -45,13 +45,13 @@ Bloodletter is your first damage-dealing ability. Note that, unlike weaponskills
 
 That means you can use a weaponskill, then use Bloodletter, then use another weaponskill at the usual 2.5s after the previous one. Using abilities between weaponskills is commonly referred to as “weaving”.
 
-Weaponskills are often referred to as “GCDs”, standing for global cooldown. Abilities that are “off” the GCD like Bloodletter, Raging Strikes etc. are often called “oGCDs”. 
+Weaponskills are often referred to as “GCDs”, standing for global cooldown. Abilities that are “off” the GCD like Bloodletter, Raging Strikes, etc. are often called “oGCDs”. 
 
 The number one biggest factor in how effective you are in this game is how good you are about using a GCD skill right on time, every 2.5 seconds. 
 
 You can queue them up a bit in advance, so you don’t need to wait for them to come back and then press the button - just hit your next skill a couple times as it’s about to come up.
 
-Quick Nock will deal 150 potency to everything it hits, so it’s much better than Heavy Shot / Straight Shot against multiple enemies. And if you’re up against four or more enemies, it’s even stronger than your Venomous Bite. (This is also to say -- you definitely should put DoTs on all enemies if there are three or less, so long they’re going to be alive for most of the duration)
+Quick Nock will deal 150 potency to everything it hits, so it’s much better than Heavy Shot / Straight Shot against multiple enemies. And if you’re up against four or more enemies, it’s even stronger than your Venomous Bite. (This is also to say -- you definitely should put DoTs on all enemies if there are three or less, so long they’re going to be alive for most of the duration of the DoTs).
 
 The conal area it hits is larger than the animation may make it look, so keep that in mind. You’ll be spamming this skill a lot.
 
@@ -59,15 +59,15 @@ While bosses will often be immune to your various grazes, they can be handy for 
 
 With Foot Graze, one cute trick is to know that DoT ticks don’t break the bind. So you can drop a Venomous Bite on something, bind it, then fight something else for ten seconds before the bound guy can come after you (then you can Leg Graze and just kite it around). 
 
-# Level 30-44
+# Levels 30-44
 
 Two big changes happen right at level 30. 
 
 First, you get Windbite (WB), a DoT totaling 460 potency, so now you have two damage over time debuffs to maintain. As long as you use one and then the other (Windbite first), it shouldn’t be hard to get in the habit of re-applying one after the other as they each get close to running out.
 
-Secondly, you become a Bard and get your first song! Your eventually-three main songs have some common mechanics - 
+Secondly, you become a Bard and get your first song! Your eventually-three main songs have some common mechanics: 
 
-While one of your main songs is active, each of your DoT ticks has a 20% chance to proc “repertoire”. These procs do something different depending on which song is up. 
+While one of your main songs is active, each of your DoT ticks has a 20% chance to proc “Repertoire”. These procs do something different depending on which song is up. 
 
 This makes it even more important to keep both your DoTs up, so that you get two 20% chances every three seconds. 
 
@@ -83,17 +83,17 @@ The party buff granted by Mage’s Ballad is a simple +1% damage. It feels small
 
 **Army’s Paeon:** Army’s Paeon is more straightforward - procs in AP make your auto-attack and GCDs go a little faster for the duration of the song. Just make sure you’re staying on top of that shifting GCD rhythm, else the subtle gradual increases in speed will go to waste.
 
-The party buff for Army’s Paeon is a +3% direct hit rate. On average this is weaker than the flat +1% damage of MB (direct hits do 25% bonus damage), but it’s still pretty nice.
+The party buff for Army’s Paeon is a +3% direct hit rate. On average this is weaker than the flat +1% damage of MB (Direct Hits do 25% bonus damage), but it’s still pretty nice.
 
 In general, both songs are free damage you can get for 30s spans out of every 80s, so use them as much as you can. Mage’s Ballad is the stronger of the two, in both its procs and buff, so prioritize it when you have a choice. 
 
 Some other skills you get in this range:
 
-The main use for Arm’s Length is to stop a knockback, which will become more common in the later levels. It has a bit of a delay, so make sure to use it a little early. The slow-when-hit is nice for solo questing, but of course in group content you ideally won’t be getting hit :)
+The main use for Arm’s Length is to stop a knockback, which will become more common in the later levels. It has a bit of a delay, so make sure to use it a little early. The slow-when-hit is nice for solo questing, but of course in group content you ideally won’t be getting hit. :)
 
 Warden’s Paean can cleanse (or prevent) any debuff that can be cleansed by Esuna - you’ll see a little white bar over a debuff if it can be cleansed. 
 
-But unlike Esuna, which is a GCD  - meaning a healer has to use one less GCD attack spell or heal to use it - Warden’s is an ability you can use with no downside; you’re just limited to one per 45 seconds. So keep an eye out for chances to use it, and make life easier on your healer.
+But unlike Esuna, which is a GCD  - meaning a healer has to use one less GCD attack spell or heal to use it - Warden’s is an ability you can use with no downside; you’re just limited to one per 45 seconds. So keep an eye out for chances to use it, and make life easier for your healer.
 
 Barrage is simple enough. Every 80 seconds, you press Barrage, Straight Shot lights up, you press Straight Shot, and boom, 3x 200 potency attacks for a total of 600 potency. 
 
@@ -103,11 +103,11 @@ Also, to avoid wasting the automatic Straight Shot proc, hold Barrage for a GCD 
 
 Quick Nock is still going to be your go-to for large groups of mobs. But, if you’re going to have a song up, you can consider deploying some Windbites to fish for procs. This makes the most sense if it’s a group of 4-5 or so. 
 
-It’s tough to place an exact number value on Bloodletter or Army’s procs in an AoE (area of effect, shorthand for fighting a pack of enemies) situation because there are lots of factors, but it’s not a bad dynamic to get used to. Because level 45 brings a notable change…
+It’s tough to place an exact number value on Bloodletter or Army’s procs in an AoE (area of effect, shorthand for fighting a pack of enemies) situation because there are a lot of factors, but it’s not a bad dynamic to get used to. Because level 45 brings a notable change…
 
-# Level 45-51
+# Levels 45-51
 
-Rain of Death is a big deal. 130 potency in an area on the same cooldown as Bloodletter, so it will be better than Bloodletter against 2 or more enemies. 
+Rain of Death is a big deal. 130 potency in an area on the same cooldown as Bloodletter, so it will be better than Bloodletter against two or more enemies. 
 
 Sharing a cooldown with Bloodletter means that Rain of Death will also be reset by Mage’s Ballad procs, so MB becomes a potent song for AoE. 
 
@@ -115,17 +115,17 @@ It can be a little more art than science, but if you’re going to have Mage’s
 
 You also learn Battle Voice at level 50, which is a solid group buff. Until you get into endgame optimization, it’s fine to just press it whenever it’s available, so long as the group will have stuff to hit for the next 20 seconds.
 
-# Level 52-63
+# Levels 52-63
 
-Note that your level 52, 54 and 56 skills require doing Heavensward job quests. You need to be on the 3.0+ main story quests to unlock them.
+Note that your levels 52, 54 and 56 skills require doing Heavensward job quests. You need to be on the 3.0+ main story quests to unlock them.
 
 At level 52 you learn your third, most powerful main song. As you continue through these levels, your skill kit is going to start to closely resemble the final level 80 kit. So let’s take a moment to go over a couple big picture Bard rotation things here as well. 
 
-Wanderer’s Minuet - Repertoire procs in WM gives you stacks, of which you can store up to three. You expend these on a new flashy oGCD Pitch Perfect, which gets stronger (and stronger per stack) the more you have. 
+**Wanderer’s Minuet:** Repertoire procs in WM gives you stacks, of which you can store up to three. You expend these on a new flashy oGCD Pitch Perfect, which gets stronger (and stronger per stack) the more you have. 
 
 You only want to use Pitch Perfect at a full three stacks, unless WM is about to end, in which case you want to burn whatever you’ve got.
 
-The party buff for WM is a +2% critical hit rate, which ends up providing similar value to MB’s +1% damage buff, give or take depending on the group’s gear.
+The party buff for WM is a +2% Critical Hit rate, which ends up providing similar value to MB’s +1% damage buff, give or take depending on the group’s gear.
 
 With Minuet, you can now start to use the song cycle at the core of Bard gameplay. 
 
@@ -149,7 +149,7 @@ So while you’re getting used to it, don’t be afraid to play it safe and IJ w
 
 Empyreal Arrow is a simple oGCD attack, but a powerful one - 230 potency every 15 seconds is a good rate. Try to stay on top of this one, as you do Bloodletter. It will get stronger later.
 
-Sidewinder is another basic oGCD, that rewards you for having both DoTs running on the target, which should always be true anyway. 
+Sidewinder is another basic oGCD that rewards you for having both DoTs running on the target, which should always be true anyway. 
 
 One little quirk though - since it takes a second for your bites to animate and apply the debuff, try not to press SW right after using your second DoT on a new target. The DoT won’t be up in time for SW to count it. Instead give it a second, or a GCD, before pressing SW.
 
@@ -161,13 +161,13 @@ If all your skills are available, you’ll want to start a boss or trial with:
 
 \[(Raging Strikes) - Windbite (Bloodletter, Wanderer’s Minuet) - Venomous Bite (Empyreal Arrow, Battle Voice) - Heavy Shot] 
 
-Then just make sure to use Barrage, Sidewinder and Iron Jaws (to snapshot) before your Raging Strikes ends. (ideally wait a few GCDs on the first two to allow party members to put up group buffs) 
+Then just make sure to use Barrage, Sidewinder and Iron Jaws (to snapshot) before your Raging Strikes ends. (Ideally wait a few GCDs on the first two to allow party members to put up group buffs.) 
 
 This is one of the standard Bard openers, all the way through the rest of the game.
 
-p.s. Don’t forget to use future Ragings a couple GCDs into WM, to raise the odds of getting buffed Pitch Perfects. We only use it early at the start of fights because we’re applying fresh DoTs.
+P.S. Don’t forget to use future Ragings a couple GCDs into WM, to raise the odds of getting buffed Pitch Perfects. We only use it early at the start of fights because we’re applying fresh DoTs.
 
-# Level 64-79
+# Levels 64-79
 
 By now, you’ve learned all the fundamentals of the Bard kit. The main additions from here on out turn up the dial on how often you’ll be getting various procs:
 
@@ -175,21 +175,21 @@ At level 64 you get the trait Bite Mastery, which upgrades your DoT skills to Ca
 	
 	- Initial damage of 150 and 100, up from 100 and 60
 	- 10 more potency per DoT tick
-	- Odds of proc’ing repertoire double(!) from 20% to 40%
+	- Odds of proc’ing Repertoire double(!) from 20% to 40%
 
 While you won’t necessarily “see” the damage increase save for things dying faster, you’ll certainly notice that you’re getting more procs. Be ready for the pace to pick up!
 
-At level 68, your Empyreal Arrows will now give you a guaranteed repertoire proc. It will take some getting used to, but try to be careful not to waste it - make sure Bloodletter / Rain is on cooldown before using EA in Ballad, and use a 3-stack PP before pressing EA in Minuet.
+At level 68, your Empyreal Arrows will now give you a guaranteed Repertoire proc. It will take some getting used to, but try to be careful not to waste it - make sure Bloodletter / Rain is on cooldown before using EA in Ballad, and use a 3-stack PP before pressing EA in Minuet.
 
 With Enhanced Quick Nock, QN can now also reset Rain of Death. In Mage’s Ballad, that can mean more Rain than you can handle, but this mainly helps your non-Ballad AoE a fair bit.
 
-Heavy Shot Mastery & Bite Mastery II - On top of upgrading your Heavy Shot to the shiny new Burst Shot, you now have a 35% chance to proc Straighter Shot (re: Refulgent Arrow) instead of 20%. So again, more procs, more on your toes.
+Heavy Shot Mastery & Bite Mastery II: On top of upgrading your Heavy Shot to the shiny new Burst Shot, you now have a 35% chance to proc Straighter Shot (re: Refulgent Arrow) instead of 20%. So again, more procs, more on your toes.
 
 Level 76 also adds that proc chance to your DoT skills and Iron Jaws, which will take some getting used to. 
 
 You don’t want to interrupt putting your DoTs up for it though - you still want to use Storm and Caustic back to back, then RA; not Storm - RA - Caustic.
 
-Other additions -
+Other additions:
 
 Nature’s Minne is a handy support skill, increasing the healing received by the target by 20% for 15s. Toss it on your tank during spooky pulls and help your healer out. You can also buff your own Second Wind with it if you’re solo.
 
@@ -203,4 +203,4 @@ Enhanced Army’s Paeon has a huge tooltip for a small effect - basically, it ca
 
 Congrats! You’ll learn Apex Arrow here; in short, just use it when the bar is full.
 
-But you can get more fine details on Apex and other endgame Bard play in the full guide here:
+But you can get more fine details on Apex and other endgame Bard play in the full guide here: [](https://guides.xivresources.com/jobs/ranged/bard/basic-guide/)[Basic Bard Guide](https://guides.xivresources.com/jobs/ranged/bard/basic-guide/)
