@@ -424,7 +424,7 @@ collections:
         name: "faq"
         file: "content/jobs/tanks/warrior/faq.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["qna"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["qna"], default: ["qna"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -468,7 +468,7 @@ collections:
         name: "bis"
         file: "content/jobs/tanks/warrior/best-in-slot.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["bis"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["bis"], default: ["bis"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -505,7 +505,7 @@ collections:
         name: "job-changes"
         file: "content/jobs/tanks/warrior/job-changes.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["changes"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -629,7 +629,7 @@ collections:
         name: "faq"
         file: "content/jobs/tanks/paladin/faq.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["qna"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["qna"], default: ["qna"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -673,7 +673,7 @@ collections:
         name: "bis"
         file: "content/jobs/tanks/paladin/best-in-slot.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["bis"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["bis"], default: ["bis"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -710,7 +710,7 @@ collections:
         name: "job-changes"
         file: "content/jobs/tanks/paladin/job-changes.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["changes"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -834,7 +834,7 @@ collections:
         name: "faq"
         file: "content/jobs/tanks/dark-knight/faq.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["qna"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["qna"], default: ["qna"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -878,7 +878,7 @@ collections:
         name: "bis"
         file: "content/jobs/tanks/dark-knight/best-in-slot.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["bis"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["bis"], default: ["bis"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -915,7 +915,7 @@ collections:
         name: "job-changes"
         file: "content/jobs/tanks/dark-knight/job-changes.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["changes"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -1039,7 +1039,7 @@ collections:
         name: "faq"
         file: "content/jobs/tanks/gunbreaker/faq.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["qna"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["qna"], default: ["qna"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1083,7 +1083,7 @@ collections:
         name: "bis"
         file: "content/jobs/tanks/gunbreaker/best-in-slot.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["bis"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["bis"], default: ["bis"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1120,7 +1120,7 @@ collections:
         name: "job-changes"
         file: "content/jobs/tanks/gunbreaker/job-changes.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["changes"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -1244,7 +1244,7 @@ collections:
         name: "faq"
         file: "content/jobs/healers/white-mage/faq.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["qna"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["qna"], default: ["qna"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1288,7 +1288,7 @@ collections:
         name: "bis"
         file: "content/jobs/healers/white-mage/best-in-slot.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["bis"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["bis"], default: ["bis"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1325,7 +1325,7 @@ collections:
         name: "job-changes"
         file: "content/jobs/healers/white-mage/job-changes.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["changes"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -1449,7 +1449,7 @@ collections:
         name: "faq"
         file: "content/jobs/healers/scholar/faq.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["qna"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["qna"], default: ["qna"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1493,7 +1493,7 @@ collections:
         name: "bis"
         file: "content/jobs/healers/scholar/best-in-slot.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["bis"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["bis"], default: ["bis"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1530,7 +1530,7 @@ collections:
         name: "job-changes"
         file: "content/jobs/healers/scholar/job-changes.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["changes"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -1654,7 +1654,7 @@ collections:
         name: "faq"
         file: "content/jobs/healers/astrologian/faq.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["qna"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["qna"], default: ["qna"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1698,7 +1698,7 @@ collections:
         name: "bis"
         file: "content/jobs/healers/astrologian/best-in-slot.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["bis"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["bis"], default: ["bis"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1735,7 +1735,7 @@ collections:
         name: "job-changes"
         file: "content/jobs/healers/astrologian/job-changes.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["changes"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -1859,7 +1859,7 @@ collections:
         name: "faq"
         file: "content/jobs/healers/sage/faq.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["qna"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["qna"], default: ["qna"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1903,7 +1903,7 @@ collections:
         name: "bis"
         file: "content/jobs/healers/sage/best-in-slot.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["bis"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["bis"], default: ["bis"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -1940,7 +1940,7 @@ collections:
         name: "job-changes"
         file: "content/jobs/healers/sage/job-changes.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["changes"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -2064,7 +2064,7 @@ collections:
         name: "faq"
         file: "content/jobs/melee/dragoon/faq.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["qna"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["qna"], default: ["qna"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2108,7 +2108,7 @@ collections:
         name: "bis"
         file: "content/jobs/melee/dragoon/best-in-slot.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["bis"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["bis"], default: ["bis"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2145,7 +2145,7 @@ collections:
         name: "job-changes"
         file: "content/jobs/melee/dragoon/job-changes.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["changes"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -2269,7 +2269,7 @@ collections:
         name: "faq"
         file: "content/jobs/melee/reaper/faq.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["qna"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["qna"], default: ["qna"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2313,7 +2313,7 @@ collections:
         name: "bis"
         file: "content/jobs/melee/reaper/best-in-slot.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["bis"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["bis"], default: ["bis"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2350,7 +2350,7 @@ collections:
         name: "job-changes"
         file: "content/jobs/melee/reaper/job-changes.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["changes"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -2474,7 +2474,7 @@ collections:
         name: "faq"
         file: "content/jobs/melee/samurai/faq.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["qna"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["qna"], default: ["qna"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2518,7 +2518,7 @@ collections:
         name: "bis"
         file: "content/jobs/melee/samurai/best-in-slot.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["bis"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["bis"], default: ["bis"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2555,7 +2555,7 @@ collections:
         name: "job-changes"
         file: "content/jobs/melee/samurai/job-changes.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["changes"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -2679,7 +2679,7 @@ collections:
         name: "faq"
         file: "content/jobs/melee/monk/faq.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["qna"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["qna"], default: ["qna"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2723,7 +2723,7 @@ collections:
         name: "bis"
         file: "content/jobs/melee/monk/best-in-slot.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["bis"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["bis"], default: ["bis"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2760,7 +2760,7 @@ collections:
         name: "job-changes"
         file: "content/jobs/melee/monk/job-changes.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["changes"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -2884,7 +2884,7 @@ collections:
         name: "faq"
         file: "content/jobs/melee/ninja/faq.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["qna"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["qna"], default: ["qna"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2928,7 +2928,7 @@ collections:
         name: "bis"
         file: "content/jobs/melee/ninja/best-in-slot.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["bis"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["bis"], default: ["bis"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -2965,7 +2965,7 @@ collections:
         name: "job-changes"
         file: "content/jobs/melee/ninja/job-changes.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["changes"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -3089,7 +3089,7 @@ collections:
         name: "faq"
         file: "content/jobs/ranged/machinist/faq.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["qna"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["qna"], default: ["qna"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -3133,7 +3133,7 @@ collections:
         name: "bis"
         file: "content/jobs/ranged/machinist/best-in-slot.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["bis"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["bis"], default: ["bis"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -3170,7 +3170,7 @@ collections:
         name: "job-changes"
         file: "content/jobs/ranged/machinist/job-changes.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["changes"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -3294,7 +3294,7 @@ collections:
         name: "faq"
         file: "content/jobs/ranged/dancer/faq.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["qna"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["qna"], default: ["qna"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -3338,7 +3338,7 @@ collections:
         name: "bis"
         file: "content/jobs/ranged/dancer/best-in-slot.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["bis"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["bis"], default: ["bis"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -3375,7 +3375,7 @@ collections:
         name: "job-changes"
         file: "content/jobs/ranged/dancer/job-changes.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["changes"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -3499,7 +3499,7 @@ collections:
         name: "faq"
         file: "content/jobs/ranged/bard/faq.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["qna"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["qna"], default: ["qna"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -3543,7 +3543,7 @@ collections:
         name: "bis"
         file: "content/jobs/ranged/bard/best-in-slot.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["bis"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["bis"], default: ["bis"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -3580,7 +3580,7 @@ collections:
         name: "job-changes"
         file: "content/jobs/ranged/bard/job-changes.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["changes"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -3704,7 +3704,7 @@ collections:
         name: "faq"
         file: "content/jobs/casters/black-mage/faq.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["qna"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["qna"], default: ["qna"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -3748,7 +3748,7 @@ collections:
         name: "bis"
         file: "content/jobs/casters/black-mage/best-in-slot.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["bis"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["bis"], default: ["bis"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -3785,7 +3785,7 @@ collections:
         name: "job-changes"
         file: "content/jobs/casters/black-mage/job-changes.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["changes"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -3909,7 +3909,7 @@ collections:
         name: "faq"
         file: "content/jobs/casters/summoner/faq.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["qna"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["qna"], default: ["qna"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -3953,7 +3953,7 @@ collections:
         name: "bis"
         file: "content/jobs/casters/summoner/best-in-slot.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["bis"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["bis"], default: ["bis"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -3990,7 +3990,7 @@ collections:
         name: "job-changes"
         file: "content/jobs/casters/summoner/job-changes.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["changes"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -4114,7 +4114,7 @@ collections:
         name: "faq"
         file: "content/jobs/casters/red-mage/faq.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["qna"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["qna"], default: ["qna"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -4158,7 +4158,7 @@ collections:
         name: "bis"
         file: "content/jobs/casters/red-mage/best-in-slot.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["bis"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["bis"], default: ["bis"]}
           - {label: "Patch", name: "patch", widget: "string"}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
@@ -4195,7 +4195,7 @@ collections:
         name: "job-changes"
         file: "content/jobs/casters/red-mage/job-changes.md"
         fields:
-          - {label: "Layout", name: "layout", widget: "select", options: ["qna", "bis", "changes"], default: ["changes"]}
+          - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
           - label: "Change"
             name: "changes"
             widget: "list"
