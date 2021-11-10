@@ -15,7 +15,8 @@ With all openers being very close in estimated output over the course of the ent
 
 ![](https://cdn.discordapp.com/attachments/592613187245834260/812071330458370078/unknown.png)
 
-{{< youtube u6HBt-b7yrw >}}
+## JP Opener
+<iframe width="1000" height=560"" src="https://www.youtube.com/embed/u6HBt-b7yrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](/img/jp.png)
 
