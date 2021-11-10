@@ -23,12 +23,11 @@ qna:
       also be used instead of other spells under raid buffs. Just make sure to
       never waste a use of it by overcapping Polyglot.
   - question: What's the stat/meld priority?
-    answer: Always maximize ilvl. After that, SpS to comfort > Crit/DH > Det. All
+    answer: Always maximize iLvl. After that, SpS to comfort > Crit/DH > Det. All
       stats are tiered, so exact melds depend on total stats. Keep in mind that
       SpS is not just a stat for comfort, since BLM scales very well with it.
       You might meld a "worse" stat over a "better" one due to your gearset or
-      tiers. Use the Relative Gear Comparison sheet above to min-max melds if
-      desired.
+      tiers. Use the Relative Gear Comparison sheet to min-max melds if desired.
   - question: Well, what's a comfy SpS?
     answer: If you wanna go fast, go fast. If you wanna go slow, go slow. The
       rotation works at both extremes. A popular, yet mostly arbitrary number to
