@@ -1,4 +1,5 @@
 ---
+title: Paladin
 authors:
   - Balance PLD Staff
 ---

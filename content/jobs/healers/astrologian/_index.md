@@ -1,4 +1,5 @@
 ---
+title: Astrologian
 authors:
   - Balance AST Staff
 ---
