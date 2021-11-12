@@ -21,7 +21,7 @@ qna:
 
       2. NIN
 
-      3. MNK / BLM (crit build)*
+      3. MNK / BLM (Crit build)*
 
       4. DRG / SMN
 
@@ -34,7 +34,7 @@ qna:
       8. DNC
 
 
-      \*Data on BLM SpS build as a dance partner is not available due to length in time to reach BiS with this build as of this update, but value as a dance partner is believed to drop significantly between the two builds due to under utilization of Devilment.
+      \*Data on BLM SpS build as a Dance Partner is not available due to length in time to reach BiS with this build as of this update, but value as a Dance Partner is believed to drop significantly between the two builds due to under-utilization of Devilment.
 
 
       This priority list was made based on interactions between all jobs and DNC buffs and by using the new Partner Calculator (created by @Hint) which is a useful tool to help determine who in a given log would be the best Dance Partner:
