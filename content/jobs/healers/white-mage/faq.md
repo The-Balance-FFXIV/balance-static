@@ -30,7 +30,7 @@ qna:
       Extended movements involve a combination of these roughly in order of priority, and a lot of movement can be minimized with proper prepositioning utilizing a combination of Dia and slidecasting.
 
 
-      Useful healing in this context means healing that cannot be covered by you or another healer’s OGCDs.
+      Useful healing in this context means healing that cannot be covered by your or another healer’s oGCDs.
   - question: Should Afflatus Misery be used every 90s?
     answer: >-
       No. Building Blood Lily stacks and using Afflatus Misery is a loss over
@@ -59,7 +59,7 @@ qna:
   - question: Afflatus as a mechanic is an all-or-nothing thing!
     answer: >-
       The DPS benefits of Afflatus heals go down the drain if you never get the
-      Misery off. If you don’t use the Misery, All Afflatus casts become just
+      Misery off. If you don’t use the Misery, all Afflatus casts become just
       like standard GCD heals.
 
 
@@ -84,7 +84,7 @@ qna:
       535 Relic > Edenmorn Cane > Augmented Cryptlurker Cane >= Diamond Zeta Cane >= 515 Relic Cane > Emerald Cane > 510 relic cane >= Cryptlurker Cane >= Augmented Exarchic Cane
 
 
-      Still not sure what to grab? Use the [gear calculator](#gear-calculator)!
+      Still not sure what to grab? Use the [gear calculator](https://docs.google.com/spreadsheets/d/17epCt6NfE3LAiFRVDKUVW-ewPw4Ge64B1GQAxLPDsAo/edit#gid=1597510245)!
   - question: Which stats should I put in the 515 Relic?
     answer: >-
       Generally, follow the same stat priority as always. So Crit > Det > SpS
