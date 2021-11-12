@@ -201,7 +201,7 @@ Presence of Mind is your first exclusive WHM ability and it acts as an accelerat
 
 Regen is amazing. Placing this spell on your Tank during dungeons can almost single-handedly heal them, that’s just how good it is.
 
-Regen heals for a cure potency of 200 every ~2 seconds. Combine this with a general upkeep of casting Cure II whenever your Tank does take enough damage and it’s nigh unstoppable.
+Regen heals for a cure potency of 200 every 3 seconds. Combine this with a general upkeep of casting Cure II whenever your Tank does take enough damage and it’s nigh unstoppable.
 
 **\[Lvl 40] Cure III**
 
@@ -303,7 +303,7 @@ Congratulations, you just earned your first Lily spell. Afflatus Solace adds a n
 
 ![](https://lh6.googleusercontent.com/58uzwHpAwmC2Sn31npyuj5bWaJMegqZ1635p2Y3xSqhfFWeaupVVgAP84lktlgznVQp5zyB2ZYaA8mdov2yD2LF1CucUswfQRbhOGIXPeUcdjyLK3ASWWtY49bRCWcxklM_1RMOJ)
 
-In a rare moment, you actually learn two spells at level 52, the second being Asylum, which is a ground-targeted AoE Regen. It places a big dome which gives a regen to anyone who enters, even if they later leave the AoE.
+In a rare moment, you actually learn two spells at level 52, the second being Asylum, which is a ground-targeted AoE Regen. It places a big dome which gives a regen to anyone within its radius.
 
 **\[Lvl 54] Stone III**
 
