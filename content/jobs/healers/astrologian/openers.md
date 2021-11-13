@@ -17,6 +17,8 @@ We've taken a lot of care to evaluate as many of the variables as we reasonably 
 
 **Most of this is optional and fight-dependent**, but it is almost always recommended to prep a card 30 seconds pre-pull so that Draw comes back up, place Earthly Star somewhere pre-pull, and use Aspected Benefic, Celestial Intersection, and your Mind Potion/Tincture starting at -5s to lead into your precast Malefic.
 
+![](/img/astguide_0000_prepull.png)
+
 * Pre-pull Earthly Star (up to -20s depending on fight; -12s to -8s optimal for damage)
 * **\-30 : Draw** (opener assumes you pull with a card in hand and Draw ready)
 * \-20 : Nocturnal Sect, Neutral Sect, Horoscope
@@ -32,6 +34,8 @@ The bolded sections are considered fairly standard. The rest, especially using c
 ## The Pull
 
 Thanks to the Sleeve Draw rework in Patch 5.3, our opener has never been friendlier. It now follows a straightforward priority system in which you simply use Lightspeed to enable double weaving for card manipulation, put up Combust, and begin playing cards naturally, working your way toward three unique Seals for Divination at a reasonably early time.
+
+![](/img/astguide_0002_standard-opener.png)
 
 For accessibility purposes, here is a text version, excluding most pre-pull actions detailed above:
 
@@ -93,5 +97,3 @@ Redraw can't give you the same card you have in hand, so it has slightly better 
 * Grouping which does not enable MA usage:
 
   * Sleeve Draw (good seal appears) > Malefic > Play (bad seal appears) + Redraw (bad seal appears) > Malefic > Redraw (good seal appears) + Play
-
-<!--EndFragment-->
