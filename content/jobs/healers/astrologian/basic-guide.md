@@ -192,6 +192,8 @@ Optimizing your card usage like this can be daunting, and it’s not the most im
 
 Sleeve Draw and Divination align in the opener and at the 6 minute mark in the fight. In the opener, we use Sleeve Draw to get Seals for Divination quickly so we can have Divination and multiple single target cards out during opening raid burst. At the 6 minute burst, it’s essentially the same thing, but less hectic since you should have seals ready for Divination ahead of time. But all the same, you want to be dishing out several cards quickly and overlapping them with Divination and other raid burst as well as you can manage. You may even hold the card from your 5:30 Draw to have an additional card partially overlapping with the six minute burst. In that case, you’d optimally use Draw at 5:30, Play/Minor Arcana your held card around 5:55, Draw again, Play/Minor Arcana that card on someone, activate Divination when it comes up, and then dish out another with Sleeve Draw.
 
+![](/img/astguide_0003_cards-and-div.png)
+
 - - -
 
 # Opener
