@@ -528,7 +528,7 @@ Communicate with your party. Always let your party members know what you are doi
 
 # Additional Resources
 
-These are some additional resources that are useful for anyone attempting to further their play. There will be guides for general healing, AST (and soon WHM), as well as optimization guides. It is worthwhile to look into these, as they are useful guides from talented players.
+These are some additional resources that are useful for anyone attempting to further their play. There will be guides for general healing, AST, WHM and healing optimization guides. It is worthwhile to look into these, as they are useful guides from talented players.
 
 [Zyrk's Bullshit Guide to the Principles of Healing](https://docs.google.com/document/d/1yoq1zU2VgMJQ53PaJHaUtwA3S2aSz1C69qkLDaOmZY8/edit#heading=h.ls1qn6qewmw7)
 
@@ -538,9 +538,13 @@ A general guide to the principles of healing by Zyrkhan Dar’locke. It is a fai
 
 This video guide by Momo Sama is incredibly useful for learning how to optimize with your co-healer to push for higher dps. This video is the holy grail of information in regards to optimizing. This is a MUST watch for anyone wanting to learn how higher level play operates. The information regarding potencies of abilities is outdated, but the fundamentals are still very good to know.
 
-[Intro to Astrologian](https://docs.google.com/document/d/1DtB6WBzufUTEG5-ManJ9wYUsawgvcUQgkN6bGjFsq6o/edit#heading=h.6t6shfxi1z)
+[Astrologian Basic Guide](https://guides.xivresources.com/jobs/healers/astrologian/astrologian-guide/)
 
 A guide to Astrologian by Zyrkhan Dar’locke. Reading this as a Scholar can be useful, as it gives insight into how their kit operates. Knowing your co-healer’s tools well is important for maximizing the effectiveness of your own play.
+
+[White Mage Basic Guide](https://guides.xivresources.com/jobs/healers/white-mage/whm-basic-guide/)
+
+A guide to White Mage written by Balance mentor Pyre. It can give you a greater understanding of how WHM operates and help you cooperate well with a WHM co-healer.
 
 [TheoryJerks Website](http://theoryjerks.akhmorning.com/)
 
