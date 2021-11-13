@@ -222,7 +222,7 @@ Thanks to the Sleeve Draw rework in Patch 5.3, our opener has never been friendl
 
 This is neatly illustrated by this flowchart, which also displays the probabilities of each potential outcome, depending on how many Redraws it takes to get your second unique Seal before using Sleeve Draw for the final Seal and using Divination at full strength.
 
-![Astro Opener](https://saltedxiv.com/wp-content/uploads/2020/09/Astro_Full_opener_1_03.png)
+![Astro Opener](/img/astguide_0002_standard-opener.png)
 
 For accessibility purposes, here is a text version, excluding most pre-pull actions detailed above:
 
