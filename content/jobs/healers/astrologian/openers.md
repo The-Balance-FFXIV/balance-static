@@ -97,3 +97,5 @@ Redraw can't give you the same card you have in hand, so it has slightly better 
 * Grouping which does not enable MA usage:
 
   * Sleeve Draw (good seal appears) > Malefic > Play (bad seal appears) + Redraw (bad seal appears) > Malefic > Redraw (good seal appears) + Play
+
+![](/img/astguide_0001_simple-opener.png)
