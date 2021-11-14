@@ -37,6 +37,7 @@ menu:
 
 ## Screenshot Credits
 
+* Rose Ophelia
 * Javed Moolye
 * Pato Bolo
 * Kotomi Dragomir
