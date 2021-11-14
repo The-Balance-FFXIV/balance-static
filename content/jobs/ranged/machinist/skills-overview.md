@@ -1,7 +1,7 @@
 ---
 title: Skills Overview
 authors:
-  - Balance MCH Staff
+  - Balance-MCH-Staff
 patch: "5.58"
 lastmod: 2021-10-25T22:02:28.125Z
 changelog:
