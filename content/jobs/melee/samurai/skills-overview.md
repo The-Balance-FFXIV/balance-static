@@ -1,16 +1,16 @@
 ---
 title: SAM Skills Overview
 authors:
-  - Balance SAM Staff
+  - Balance-SAM-Staff
 patch: "5.58"
 lastmod: 2021-10-28T03:24:29.522Z
 changelog:
   - date: 2021-10-28T03:25:40.964Z
     message: Created page
 ---
-# Actions
+## Actions
 
-## Weaponskills (GCD)
+### Weaponskills (GCD)
 
 |                                             |                                                                                                                                                                                                                                                                                     |                                                                                                                                                                           |
 | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -33,7 +33,7 @@ changelog:
 | ![](https://xivapi.com/i/003000/003163_hr1.png) | ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Getsu_hr1.png](https://lh3.googleusercontent.com/vh7p32RLojf1eVxekvJgdXj61Q4h4w8FTI0f7K-8QtGKUQRpqBsgIPqjGvTIp8jl1EQEHtDCan8xoegKxMtxnHN94Ti4koHcV69g5liT5ExglUdUoxa7vkyRQF0bock5ZcTtnFzH=s0) | **Mangetsu**   AoE in a circle around you, 100 potency, 160 if combo.  Combo Bonus: Getsu Sen, extends Jinpu buff by 15s (Max 40s). +10 Kenki.                      |
 | ![](https://xivapi.com/i/003000/003165_hr1.png) | ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Ka_hr1.png](https://lh6.googleusercontent.com/jSAYprY7WsOG_OyYhh-kYdWo9El9MvFzNKO3Tv4a6GyON8h_i1ToYCAG8bnb-QeQAmhiftTf26kbDKTAG7yoWR7wK0D3VcltTG80NWZ46-y5zZoGuRkcol9hM_LjJljycbeOcYcG=s0)    | **Oka**   AoE in a circle around you, 100 potency, 160 if combo.  Combo Bonus: Ka Sen, extends Shifu buff by 15s (Max 40s). +10 Kenki.                              |
 
-## Off GCDs
+### Off GCDs
 
 |                                             |     |                                                                                                   |
 | ------------------------------------------- | --- | ------------------------------------------------------------------------------------------------- |
