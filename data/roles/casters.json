@@ -1,0 +1,27 @@
+{
+    "title": "casters",
+    "name": "Caster DPS",
+    "nameSingular": "Caster",
+    "order": 5,
+    "color":"#f15c5c",
+    "icon": "/theme-assets/icons/role/role_casters_white.svg",
+    "role_link": "/jobs/casters/",
+    "role_text_md": "Casters specialize in dealing magic damage primarily at range, using a mix of instant and casted spells to maximize damage and uptime while managing job movement restrictions amid fight mechanics. The role is highly flexible due to vastly different job mechanics and playstyles, and features a large range between pure DPS and various levels of utility.",
+    "jobs": [
+        {
+            "name": "Black Mage",
+            "job_link": "/jobs/casters/black-mage/",
+            "icon": "/theme-assets/jobs/casters/black_mage/black_mage.svg"
+        },
+        {
+            "name": "Summoner",
+            "job_link": "/jobs/casters/summoner/",
+            "icon": "/theme-assets/jobs/casters/summoner/summoner.svg"
+        },
+        {
+            "name": "Red Mage",
+            "job_link": "/jobs/casters/red-mage/",
+            "icon": "/theme-assets/jobs/casters/red_mage/red_mage.svg"
+        }
+    ]
+}

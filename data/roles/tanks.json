@@ -1,0 +1,32 @@
+{
+    "title": "tanks",
+    "name": "Tanks",
+    "nameSingular": "Tank",
+    "order": 1,
+    "color": "#4d8be6",
+    "icon": "/theme-assets/icons/role/role_tanks_white.svg",
+    "role_link": "/jobs/tanks/",
+    "role_text_md": "Tasked with holding the attention of the enemies, Tanks are the role that manages enemy positioning and takes a majority of the damage in a given encounter. Each tank comes equipped with both personal and party mitigation tools, as well as a damage toolkit unique to each specific job.",
+    "jobs": [
+        {
+            "name": "Paladin",
+            "job_link": "/jobs/tanks/paladin/",
+            "icon": "/theme-assets/jobs/tanks/paladin/paladin.svg"
+        },
+        {
+            "name": "Warrior",
+            "job_link": "/jobs/tanks/warrior/",
+            "icon": "/theme-assets/jobs/tanks/warrior/warrior.svg"
+        },
+        {
+            "name": "Dark Knight",
+            "job_link": "/jobs/tanks/dark-knight/",
+            "icon": "/theme-assets/jobs/tanks/dark_knight/dark_knight.svg"
+        },
+        {
+            "name": "Gunbreaker",
+            "job_link": "/jobs/tanks/gunbreaker/",
+            "icon": "/theme-assets/jobs/tanks/gunbreaker/gunbreaker.svg"
+        }
+    ]
+}

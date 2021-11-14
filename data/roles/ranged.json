@@ -1,0 +1,27 @@
+{
+    "title": "ranged",
+    "name": "Ranged DPS",
+    "nameSingular": "Ranged",
+    "order": 4,
+    "color": "#f15c5c",
+    "icon": "/theme-assets/icons/role/role_ranged_white.svg",
+    "role_link": "/jobs/ranged/",
+    "role_text_md": "With high party utility and unparalleled mobility, Physical Ranged jobs are masters of adjusting to suit the needs of the encounter at hand. Each Ranged job comes equipped with a party-wide 10% damage mitigation and a robust CC toolkit to keep their allies safe. With no cast bars or positional requirements, Ranged players can zoom around the battlefield and still dish out serious damage.",
+    "jobs": [
+        {
+            "name": "Bard",
+            "job_link": "/jobs/ranged/bard/",
+            "icon": "/theme-assets/jobs/ranged/bard/bard.svg"
+        },
+        {
+            "name": "Machinist",
+            "job_link": "/jobs/ranged/machinist/",
+            "icon": "/theme-assets/jobs/ranged/machinist/machinist.svg"
+        },
+        {
+            "name": "Dancer",
+            "job_link": "/jobs/ranged/dancer/",
+            "icon": "/theme-assets/jobs/ranged/dancer/dancer.svg"
+        }
+    ]
+}
