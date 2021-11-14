@@ -1,7 +1,7 @@
 ---
 title: DRG Leveling Guide
 authors:
-  - Balance DRG Staff
+  - Balance-DRG-Staff
 patch: "5.58"
 lastmod: 2021-10-29T02:47:11.508Z
 changelog:
