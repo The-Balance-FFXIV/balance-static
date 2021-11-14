@@ -1,6 +1,6 @@
 ---
 authors:
-  - Balance SCH Staff
+  - Balance-SCH-Staff
 patch: "5.58"
 lastmod: 2021-10-27T00:13:55.330Z
 changelog:
