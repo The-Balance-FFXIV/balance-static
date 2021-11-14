@@ -26,6 +26,7 @@ menu:
 * Elleiana
 * Ana
 * Doubt
+* Karasu
 * Wilco
 * Lyall
 
