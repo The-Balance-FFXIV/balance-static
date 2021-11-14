@@ -1,13 +1,13 @@
 ---
 authors:
-  - Balance DNC Staff
+  - Balance-DNC-Staff
 patch: "5.58"
 lastmod: 2021-10-26T02:05:46.525Z
 changelog:
   - date: 2021-10-26T02:05:59.099Z
     message: Added page
 ---
-# PvE actions
+## Actions
 
 | Icon                                                            | Action           | Level | Type        | Casting | Recast | Description                                                                                                                                                                                                       |
 | --------------------------------------------------------------- | ---------------- | ----- | ----------- | ------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -36,7 +36,7 @@ changelog:
 | ![Saber Dance](https://xivapi.com/i/003000/003476_hr1.png)      | Saber Dance      | 76    | Ability     | Instant | 2.5s   | Delivers an attack to target and all enemies nearby it with a potency of 600 for the first enemy, and 50% less for all remaining enemies.                                                                         |
 | ![Improvisation](https://xivapi.com/i/003000/003477_hr1.png)    | Improvisation    | 80    | Ability     | Instant | 120s   | Dance to the beat of your own drum, granting Improvisation to self.                                                                                                                                               |
 
-# Step Actions
+## Step Actions
 
 | Icon                                                     | Action    | Level | Type    | Casting | Recast | Description           |
 | -------------------------------------------------------- | --------- | ----- | ------- | ------- | ------ | --------------------- |
@@ -45,7 +45,7 @@ changelog:
 | ![Jete](https://xivapi.com/i/003000/003457_hr1.png)      | Jete      | 15    | Ability | Instant | 1s     | Perform a jete.       |
 | ![Pirouette](https://xivapi.com/i/003000/003458_hr1.png) | Pirouette | 15    | Ability | Instant | 1s     | Perform a pirouette.  |
 
-# Physical Ranged DPS actions
+## Physical Ranged DPS actions
 
 | Icon                                                        | Action       | Level | Type    | Casting | Recast | Description                                                                       |
 | ----------------------------------------------------------- | ------------ | ----- | ------- | ------- | ------ | --------------------------------------------------------------------------------- |
