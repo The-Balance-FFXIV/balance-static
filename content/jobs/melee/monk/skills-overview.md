@@ -1,7 +1,7 @@
 ---
 title: Skills Overview
 authors:
-  - Balance MNK Staff
+  - Balance-MNK-Staff
 patch: "5.58"
 lastmod: 2021-10-28T03:47:20.484Z
 changelog:
