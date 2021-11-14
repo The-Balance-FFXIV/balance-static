@@ -1,32 +1,27 @@
 {
-    "title": "healers",
-    "name": "Healers",
-    "nameSingular": "Healer",
-    "order": 2,
-    "color": "#61ce7e",
-    "icon": "/theme-assets/icons/role/role_healers_white.svg",
-    "role_link": "/jobs/healers/",
-    "role_text_md": "Healers use a variety of restorative and defensive actions to ensure that the party is always prepared to survive what comes next. They can bring the party back from the brink of disaster, or better yet, prevent disaster from striking in the first place. Healers manage their time, resources, and cooldowns to erase their enemies' efforts and their allies' mistakes alike, all while dishing out damage of their own.",
-    "jobs": [
-        {
-            "name": "White Mage",
-            "job_link": "/jobs/healers/white-mage/",
-            "icon": "/theme-assets/jobs/healers/white_mage/white_mage.svg"
-        },
-        {
-            "name": "Scholar",
-            "job_link": "/jobs/healers/scholar/",
-            "icon": "/theme-assets/jobs/healers/scholar/scholar.svg"
-        },
-        {
-            "name": "Astrologian",
-            "job_link": "/jobs/healers/astrologian/",
-            "icon": "/theme-assets/jobs/healers/astrologian/astrologian.svg"
-        },
-        {
-            "name": "Sage",
-            "job_link": "/jobs/healers/sage/",
-            "icon": "/theme-assets/jobs/healers/sage/sage.svg"
-        }
-    ]
+  "role_text_md": "Healers use a variety of restorative and defensive actions to ensure that the party is always prepared to survive what comes next. They can bring the party back from the brink of disaster, or better yet, prevent disaster from striking in the first place. Healers manage their time, resources, and cooldowns to erase their enemies' efforts and their allies' mistakes alike, all while dishing out damage of their own.",
+  "nameSingular": "Healer",
+  "role_link": "/jobs/healers/",
+  "color": "#61ce7e",
+  "name": "Healers",
+  "order": 2,
+  "jobs": [
+    {
+      "name": "White Mage",
+      "job_link": "/jobs/healers/white-mage/",
+      "icon": "/theme-assets/jobs/healers/white_mage/white_mage.svg"
+    },
+    {
+      "name": "Scholar",
+      "job_link": "/jobs/healers/scholar/",
+      "icon": "/theme-assets/jobs/healers/scholar/scholar.svg"
+    },
+    {
+      "name": "Astrologian",
+      "job_link": "/jobs/healers/astrologian/",
+      "icon": "/theme-assets/jobs/healers/astrologian/astrologian.svg"
+    }
+  ],
+  "title": "healers",
+  "icon": "/theme-assets/icons/role/role_healers_white.svg"
 }
