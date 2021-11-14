@@ -1,6 +1,6 @@
 ---
 authors:
-  - Balance PLD Staff
+  - balance-pld-staff
 patch: "5.5"
 lastmod: 2021-10-27T08:23:35.725Z
 changelog:

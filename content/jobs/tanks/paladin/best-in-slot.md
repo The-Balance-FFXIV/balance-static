@@ -1,5 +1,6 @@
 ---
 title: Best in Slot
+layout: bis
 patch: "5.58"
 lastmod: 2021-10-28T03:10:00.560Z
 changelog:

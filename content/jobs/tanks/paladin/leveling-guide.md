@@ -1,4 +1,5 @@
 ---
+title: "Paladin Levelling Guide"
 authors:
   - Balance PLD Staff
 patch: "5.5"
@@ -7,7 +8,9 @@ changelog:
   - date: 2021-10-27T17:22:16.067Z
     message: Added
 ---
+
 # Paladin Leveling in Dungeons
+
 # Keeping Aggro
 
 

@@ -17,29 +17,30 @@ theme = "glam"
   [[menu.main]]
     identifier = 'other-jobs'
     name = 'Other Jobs'
-    url = '/jobs/'
+    url = '#'
     weight = 20
   [[menu.main]]
     identifier = 'encounters'
     name = 'Fight Encounters'
-    url = '/encounters/'
+    url = '#'
     weight = 30
   [[menu.main]]
     identifier = 'tools'
     name = 'Tools'
-    url = '/tools/'
+    url = '#'
     weight = 40
   [[menu.main]]
     identifier = 'other-guides'
     name = 'Other Guides'
-    url = '/guides/'
+    url = '#'
     weight = 50
   [[menu.header]]
     identifier = 'news'
     name = 'Newsfeed'
-    url = '/news/'
+    url = '#'
     weight = 60
   [[menu.footer]]
     identifier = 'info'
     name = 'Info'
+    url = '#'
     weight = 60
