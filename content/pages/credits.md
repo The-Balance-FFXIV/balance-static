@@ -1,3 +1,4 @@
+---
 menu:
   footer:
     name: Credits
