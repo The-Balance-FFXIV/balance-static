@@ -51,7 +51,9 @@ changelog:
     message: Colorful
 ---
 ## How to Fell Cleave
+
 ### "An Angry Wannabe-Healer Guide"
+
 ### Warrior Primer v5.3
 
 - - -
@@ -132,7 +134,7 @@ Crit > Comfy SkS > Det > Ten
 
 ### BiS Lists
 
-Refer to [The Balance discord](https://discord.gg/thebalanceffxiv) server [\#warrior_resources](https://discordapp.com/channels/277897135515762698/580300071061553182/593937173569601538) or the [BiS page.] (https://guides.xivresources.com/jobs/tanks/warrior/best-in-slot/)
+Refer to [The Balance discord](https://discord.gg/thebalanceffxiv) server [\#warrior_resources](https://discordapp.com/channels/277897135515762698/580300071061553182/593937173569601538) or the [BiS page.](https://guides.xivresources.com/jobs/tanks/warrior/best-in-slot/)
 
 - - -
 
@@ -186,8 +188,8 @@ Abilities will be presented in a tabular format for easy reading.
 | ![Nascent Flash](https://xivapi.com/i/000000/000405_hr1.png)    | Nascent Flash                | Grants Nascent Flash to yourself and Nascent Glint to a party member <br>Nascent Flash: Absorbs ~48% of damage dealt as HP. <br>Nascent Glint: Reduces damage taken by 10% and restores 50% of hp absorbed by Nascent Flash. <br>Six seconds duration. <br>Shares a recast timer with Raw Intuition. | 6s dur. <br>25s CD <br>oGCD         |
 | ![Shake It Off](https://xivapi.com/i/002000/002563_hr1.png)     | Shake It Off                 | Gives a party wide, 15% of targets hp, shield. <br> Dispels Vengeance, Raw Intuition, Thrill of Battle and increases shield by 2% for each effect absorbed. <br>15 seconds duration.                                                                                                                 | 15s dur. <br>90s CD <br>oGCD        |
 | ![Reprise](https://xivapi.com/i/003000/003233_hr1.png)          | Reprisal                     | Reduces targets’ damage dealt by 10%. <br>Does an AoE around the tank, hitting multiple targets.                                                                                                                                                                                                     | 10s dur. <br>60s CD <br>oGCD        |
-| ![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png)     | Arm’s Length <br>(knockback) | Negates majority of Knockback effects. <br>Certain attacks cannot be negated. Both effects come from the same ability.                                                                                                                                                                                                                        | 6s dur. <br>120s CD <br>oGCD        |
-| ![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png)     | Arm’s Length <br>(Slow)      | Applies a Slow +20% debuff on the targets around you, increasing enemy’s cast time, attack time and auto-attack delay. Both effects come from the same ability.                                                                                                                                                                               | 15s dur. <br>120s CD <br>oGCD       |
+| ![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png)     | Arm’s Length <br>(knockback) | Negates majority of Knockback effects. <br>Certain attacks cannot be negated. Both effects come from the same ability.                                                                                                                                                                               | 6s dur. <br>120s CD <br>oGCD        |
+| ![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png)     | Arm’s Length <br>(Slow)      | Applies a Slow +20% debuff on the targets around you, increasing enemy’s cast time, attack time and auto-attack delay. Both effects come from the same ability.                                                                                                                                      | 15s dur. <br>120s CD <br>oGCD       |
 | ![Interject](https://xivapi.com/i/000000/000808_hr1.png)        | Interject                    | Interrupts the use of some (highlighted) enemy actions.                                                                                                                                                                                                                                              | 30s CD <br>oGCD                     |
 | ![Low Blow](https://xivapi.com/i/000000/000802_hr1.png)         | Low Blow                     | Stuns target. <br>Certain targets cannot be stunned.                                                                                                                                                                                                                                                 | 5s dur. <br>25s CD <br>oGCD         |
 
@@ -365,7 +367,7 @@ NOTE:
 
 \*\*\*\* Shirk instantly transfers 25% of your current enmity to the party member.
 
-\***** Defiance adds x10 enmity multiplier to all your skills. Applies to itself. 
+\*\*\*\** Defiance adds x10 enmity multiplier to all your skills. Applies to itself. 
 
 ### Mitigation and Recovery
 
@@ -649,9 +651,6 @@ Glu Kos		(Glukos#1104)
 Sizzy Twintails	(Sizouney#4484)
 
 ### Special thanks to:﻿
-
-			(Alevia#1270)
-For Warrior blobs. Visit [Levi’s Discord](https://discord.gg/hvN7JHA) for more!
 
 Aletin Ves’ser 	(Aletin#3164)
 For the [PLD guide](https://docs.google.com/document/d/1JY2t2GvNaNnQhZ5Isp-HIso2JgGMY6WXk5IGAY2v8AU) that was cloned, slaughtered and modified to make this guide.
