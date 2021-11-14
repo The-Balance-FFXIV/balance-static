@@ -1,6 +1,6 @@
 ---
 authors:
-  - Balance WHM Staff
+  - Balance-WHM-Staff
 patch: "5.58"
 lastmod: 2021-10-30T03:45:23.615Z
 changelog:
@@ -9,9 +9,9 @@ changelog:
 ---
 ![](https://cdn.discordapp.com/attachments/877670675425394709/903757302790754335/please..png)
 
-# The Walter White Mage Leveling Guide
+## The Walter White Mage Leveling Guide
 
-## Written by Eva Izunia (Goblin)
+### Written by Eva Izunia (Goblin)
 
 Leveling White Mage allows you access to some of the smoothest dungeon runs in the game, due to the supremely high damage output when crowd controlling enemy groups and the nature of the job in general.
 
@@ -19,7 +19,7 @@ Leveling White Mage allows you access to some of the smoothest dungeon runs in t
 
 Unlocking White Mage is done upon reaching level 30 with the Conjurer class and completing the quest Seer Folly after completing the MSQ quest Sylph-management.
 
-# Words of Note
+## Words of Note
 
 Playing a Healer in Final Fantasy XIV is different than what you’d expect in many similar games. Ideally, you want to be doing *as much **damage** as possible, and as little **healing** as possible.* The damage of White Mage is generally extremely high (especially later with a spell learned at level 45!)
 
@@ -29,7 +29,7 @@ The other “Pure” healer would be Astrologian (as of Patch 6.0), who also rel
 
 One thing that should be important to note as a healer is that **you will generally not be healing everyone at the same time.** In normal content, most of the damage will be going to one person, and one person only (the tank) and ideally, only in cases where an attack comes out that hits every person will you need to divert your attention away from your tank.
 
-## General Leveling Tips
+### General Leveling Tips
 
 Leveling from 1 - 80 in FFXIV can be daunting at first, but as long as you understand that you will not be able to level to max in one day, and keep at it at your own pace; you should get by just fine.
 
@@ -49,11 +49,11 @@ Some things to help you along are buffs you can apply.
 
 - - -
 
-# Level 1 to 30
+## Level 1 to 30
 
 ![](https://lh3.googleusercontent.com/x8z6Klh7w5Mb2PscrKUh7i_FbVlBmAwz17S7EdV-K1cQr9CliqmGPGd2SNAXsZZvx7aU0B5jWKR_1CyAT6k2u3MpfGQ8DT9DNf0Cc14DNu7aF3e4j8X_xIEqsYWtUzfE4tlainXd)
 
-## Skills & Spells (1 to 30)
+### Skills & Spells (1 to 30)
 
 ![](https://lh6.googleusercontent.com/DU4dG8VZl2nY2XpQYruHQG2ChmH6TuGVtGFWxznsQZuSf7OPCq_hnDSMxkQXAhaRmYTXsQuX0DEIOukI5QzmWjvGPo9wsvq6e0l0CKqYp7yUCbKMcJ4H_iHiTm6zxNyiS3QQxNXD)
 
@@ -141,7 +141,7 @@ Lucid Dreaming is another spell shared by all casters in game, and it restores y
 
 Typically, you want to use this when your MP is at 8500 as to avoid bottoming out your MP, and leading to situations where you can’t heal because you’ve used up all your MP.
 
-## Conjurer Rotation and Leveling (1 to 30)
+### Conjurer Rotation and Leveling (1 to 30)
 
 ![](https://lh4.googleusercontent.com/kjmfCL4T7PnSAiNYOPbOUc1TSxlrUK2aPR_eaDC9RwewARYjJPBXb0PLt61iZGAX_chSeamSowDLAF7vFvyH3D8CtNilxI24kazDzb2oshmrZqKEmWcS_8Y1xPkSqIESkiV7mnCF)
 
@@ -159,7 +159,7 @@ That said, and this goes for every block of leveling; spamming your highest leve
 
 - - -
 
-# Level 30 - 50
+## Level 30 - 50
 
 ![](https://lh6.googleusercontent.com/np_Xe0aW5KxBFi8ny7HROHT-H1eL-nbOrC1ETa4Y2JLUZFarp47aNgUZIlJbDzScSFlTkpHio_BDaXaJtpp6ENmxb6MNLoXp01N3EVlOZ9T9a_MkPenyDEzSpJ3pZ3nlh2GveXea)
 
@@ -169,7 +169,7 @@ From 30 to 50, White Mage changes a great deal, and it can be daunting at times 
 
 This guide acts as a way to get you started before you lose your mind leveling. 
 
-## Skills and Spells (30 - 50)
+### Skills and Spells (30 - 50)
 
 ![](https://lh6.googleusercontent.com/5yuHHLi0jZLMztw46nRTuURDX9gjtNi87A51eAM2OjL3JzhhWuV-oVoogLBkhuifP_0KjDqePy2QD2HqRccLIMl8Ia6hOTYVuUKSGFGZ_M2a1PUOx_ls7wF5Y_jLVKmf2xYlZdOt)
 
@@ -265,7 +265,7 @@ Medica II is the same as Medica, but swaps out the instant healing for a regen e
 
 In most cases, Medica II will be better than Medica, and in those cases where it is not… Cure III can be used instead.
 
-## Rotation and Leveling (30 - 50)
+### Rotation and Leveling (30 - 50)
 
 ![](https://lh6.googleusercontent.com/axV6qCu1M4cVkXMOKx6zRtAPW61anzeH-MAHGkMc6IVHWgZpwLWcA1cB3d9S3dCLsOjQwY-fniAzIEQpir6_KikxdlEebvFL132kIb3Nwxe3IHtgZUQLIS3rwVLvvGiifiRHYN3I)
 
@@ -279,7 +279,7 @@ As for tips with leveling, make sure to do your leveling roulette every day, and
 
 - - -
 
-# Level 50 to 70
+## Level 50 to 70
 
 ![](https://lh6.googleusercontent.com/GxNKbDnpiIEAZtGcIRHR1UD57Vfh-gwmq0ErpNea7cYSvUnekFIYn4qeefZVQvyx_XVZNxMQseDzunpFnOQxpWmmPIv6m1MNQIj8oFQoB706vW_Qn6YLcbxo4l7kozR61CepwODy)
 
@@ -287,7 +287,7 @@ Upon reaching level 50, you now have access to your tomestone gear (assuming you
 
 On top of this, WHM also learns skills that make their life even easier upon reaching the higher levels, such as access to their **Lilies**, more burst healing options, *even more* regen and a way to conserve MP.
 
-## Skills and Spells (50 - 70)
+### Skills and Spells (50 - 70)
 
 ![](https://lh6.googleusercontent.com/PAFIl5KSACckujeK8pDD9ZLvU2ICu8hf08yAZ3fBQLsOWxSwbLOr-5B1Ofpqpao10SZHg3KH6TyKvx9xsFCleqvjMXqvHfUiYbKv4MG6k3PnF8SAtochGRavdaRORbybZsftHBDT)
 
@@ -361,7 +361,7 @@ What this spell does is that when cast, all party members within a 20 yalm radiu
 
 This spell is essentially a doubler for your AoE heals, which allows them to heal for just that bit more, sometimes needed for massive raidwide attacks.
 
-## Rotation and Leveling (50 - 70)
+### Rotation and Leveling (50 - 70)
 
 ![](https://lh6.googleusercontent.com/fN0ePfKejGGk2GNyh9W5NPKl1yIlNiJTRFejuVvd7Pto0gQzkx09Z0vQgxuxfoj1iiGH1vkRxKJOx89UAVi9FeVjj7jrMt3d8kKCqF80lnXAlolFeinxFnAAijCbWv6N4n7_q2av)
 
@@ -394,13 +394,13 @@ Your other sources of EXP can come from Wondrous Tales, Challenge Log, Hunting L
 
 - - -
 
-# Level 70 - 80
+## Level 70 - 80
 
 ![](https://lh4.googleusercontent.com/k7-mDXlEEy56l2CMyqTH6rTxrmPpYf1yIGny1Z2g8NYnypbPnAcXmzovV7pvCyX3Wne7xqoJj2uOqUcKn1ThDvbRdQxXUlqRb8ovsMydSASYUd_1cG9Y0ViV7bpH31Ub5iiWxBuM)
 
 These 10 levels are the final stretch until you reach the level cap of Shadowbringers. In this range, you will gain access to more Lily spells, including the bloodiest of them all - Afflatus Misery - and yet another healing accelerator at Level 80. Asylum will see improvements as well.
 
-## Skills and Spells (70 - 80)
+### Skills and Spells (70 - 80)
 
 ![](https://lh4.googleusercontent.com/3fS7jTOz_tjlrkR-s4pyh2DKXG3rBCM2kpw-D3UfMiaxCLxn1u1wJLEVktKyeUWz6PeiCv8_7Hf-W0h2UhV5vBwklyVdbt-Dn3eGdCrt1UDWTEIRr-1GJoUWd4fcoPSZa6gTXeam)
 
@@ -450,7 +450,7 @@ This spell acts as your steroids, buffing healing magic potency by 20% and reduc
 \
 It also gives you very pretty wings.
 
-## Rotation and Leveling (70 - 80)
+### Rotation and Leveling (70 - 80)
 
 ![](https://lh6.googleusercontent.com/dY9z0S8i4B_wUx2UO5yLfPKjIdWPE5bUQ4FZNSiIeVNyF7nVIu4DXiqw8SDy29DpYOy63XgXk9l2OTGWC1ppIuL33Z7kJdi9YiuatndzNXMm5_0ELW6gxQd49IVfzvZPuUK9pIWu)
 
@@ -467,7 +467,7 @@ That’s it, *really.*
 You should keep track of your cooldowns, including Presence of Mind, Asylum, Assize, Thin Air, Plenary Indulgence and Temperance.\
 Usually you want to cast these on cooldown, or whenever the situation calls for it, as outlined before.
 
-# Level 80
+## Level 80
 
 ![](https://lh3.googleusercontent.com/SY-yHqh1uiTHnk7Yukp_xijjoNxJ7HhygP0VxUP2ArU8lZex6cAkzQJKXCW7Dd3Mw3Kwvl8uB9L_70ZLdDbnqgP3YLvtGe9gxIUV5MLsbQxRV0lPanHj_8jhFm3dvfIo_t5BjAJ9)
 
