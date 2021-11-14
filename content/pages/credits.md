@@ -1,3 +1,9 @@
+menu:
+  footer:
+    name: Credits
+    parent: pages
+---
+
 # Contributors
 
 ## Devs
