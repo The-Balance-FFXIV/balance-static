@@ -1,13 +1,13 @@
 ---
 authors:
-  - Balance GNB Staff
+  - Balance-GNB-Staff
 patch: "5.58"
 lastmod: 2021-10-25T21:43:01.100Z
 changelog:
   - date: 2021-10-25T21:43:14.057Z
     message: Created page
 ---
-# What’s Next After The Basics?
+## What’s Next After The Basics?
 
 ### Raid Buffs
 
@@ -32,6 +32,6 @@ Because **Brotherhood** is on a 90s cycle, only every other one will align with 
 
 With this said, we do not hold our abilities for long amounts of time to compensate for a player not using their raid buff on time. This can cause us to misalign from the rest of the raid buffs, or cause us to lose uses of our skills. Some fights require us to think critically about whether or not we use skills outside of raid buffs in order to get more uses or DoT ticks. In general, more uses or DoT ticks are worth more than getting something under raid buffs, but this is going to be a fight-specific optimization to look at and will depend strongly on what raid buffs your group has.
 
-## Maximizing Skill Uses
+### Maximizing Skill Uses
 
 We should always aim to get the maximum number of uses of our skills as possible. Missing a use of an oGCD skill is a direct potency loss. For example, if you do not hit Blasting Zone as close to on cooldown as possible, and it causes you to miss a final use before a transition or before the target dies, you have directly lost 800 potency at minimum (more if it cost a use of it under No Mercy). Maximizing skill uses should come as a natural part of fight optimization, determining which opener to use, as well as how to handle downtime (i.e. hold XYZ for after or try to squeeze it in before).  
