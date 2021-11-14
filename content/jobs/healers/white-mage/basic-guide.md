@@ -1,6 +1,6 @@
 ---
 authors:
-  - Balance WHM Staff
+  - Balance-WHM-Staff
 patch: "5.58"
 lastmod: 2021-10-29T03:52:28.260Z
 changelog:
