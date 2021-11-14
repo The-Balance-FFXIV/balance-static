@@ -1,6 +1,6 @@
 ---
 authors:
-  - Balance BRD Staff
+  - Balance-BRD-Staff
 patch: "5.58"
 lastmod: 2021-10-26T02:37:55.677Z
 changelog:
