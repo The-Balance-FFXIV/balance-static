@@ -1,4 +1,5 @@
 ---
+title: Black Mage Stat Priority
 patch: "5.58"
 lastmod: 2021-10-26T02:02:16.750Z
 changelog:

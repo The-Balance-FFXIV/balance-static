@@ -1,4 +1,5 @@
 ---
+title: Black Mage Basic Guide
 authors:
   - Balance-BLM-Staff
 patch: "5.58"
