@@ -1,10 +1,46 @@
 baseURL = "https://guides.xivresources.com/"
 languageCode = "en-us"
 title = "Balance Guides"
-theme = "hermit"
+theme = "glam"
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
+  maxLevel = 90
+  maxTierGearsets = 8
+  maxUltimateGearsets = 4
+
+[menu]
+  [[menu.main]]
+    identifier = 'jobs'
+    name = 'Combat Jobs'
+    url = '/jobs/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'other-jobs'
+    name = 'Other Jobs'
+    url = '#'
+    weight = 20
+  [[menu.main]]
+    identifier = 'encounters'
+    name = 'Fight Encounters'
+    url = '#'
+    weight = 30
+  [[menu.main]]
+    identifier = 'tools'
+    name = 'Tools'
+    url = '#'
+    weight = 40
+  [[menu.main]]
+    identifier = 'other-guides'
+    name = 'Other Guides'
+    url = '#'
+    weight = 50
+  [[menu.header]]
+    identifier = 'news'
+    name = 'Newsfeed'
+    url = '#'
+    weight = 60
+  [[menu.footer]]
+    identifier = 'info'
+    name = 'Info'
+    url = '#'
+    weight = 60

@@ -2,6 +2,7 @@
 title: Gunbreaker FAQ
 patch: "5.58"
 lastmod: 2021-10-25T21:39:50.528Z
+layout: qna
 changelog:
   - date: 2021-10-25T21:39:57.650Z
     message: Created page

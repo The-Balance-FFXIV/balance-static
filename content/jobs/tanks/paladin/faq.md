@@ -1,5 +1,6 @@
 ---
 title: Paladin FAQ
+layout: qna
 patch: "5.5"
 lastmod: 2021-10-27T17:10:55.380Z
 changelog:
