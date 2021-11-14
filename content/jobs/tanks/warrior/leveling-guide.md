@@ -1,6 +1,6 @@
 ---
 authors:
-  - Balance WAR Staff
+  - Balance-WAR-Staff
 patch: "5.4"
 lastmod: 2021-10-27T07:44:06.064Z
 changelog:
@@ -19,13 +19,13 @@ We heard you needed some pointers on how to play WAR while leveling. The splits 
 
 - - -
 
-# Gear
+## Gear
 
 We want Strength and Vitality. And Weapon Damage. *Lots of Weapon Damage.* The marketboard is a good place to pick up some cheap upgrades fast, along with Dungeon/Quest/Tomestone gear.
 
 - - -
 
-# 1-30: Do the combo.
+## 1-30: Do the combo.
 
 Use Berserk, as it gives you more damage and there’s no downside to it. You’ll only hit combo GCDs for now, along with Overpower. Use Tomahawk when pulling single targets.  
 
@@ -37,7 +37,7 @@ Thrill of Battle (lvl30) is nice, as it acts as a re-fillable bubble. Use it to 
 
 ---
 
-# 31-49: We got a Beast Gauge!
+## 31-49: We got a Beast Gauge!
 
 Notable mentions are:
 
@@ -57,7 +57,7 @@ Aim to spend gauge on Inner Beast during Berserk, or when you would overcap, oth
 
 ---
 
-# 50-63: Berserks will be full of Inner Beast / Fell Cleave as there is Infuriate.
+## 50-63: Berserks will be full of Inner Beast / Fell Cleave as there is Infuriate.
 
 This is a large level range. Our notable mentions are:
 
@@ -100,7 +100,7 @@ The following Berserks will rotate between three and four IB/FC within them due 
 
 ---
 
-# 64-69: Upheaval on cooldown
+## 64-69: Upheaval on cooldown
 
 Carry on as before, but this time with a slight addition:
 ***Upheaval***
@@ -133,7 +133,7 @@ Maximize your Gauge to Damage gains.
 
 ---
 
-# 70-71: Unleash the Inner Release
+## 70-71: Unleash the Inner Release
 
 So, you finally hit lvl70 and unlocked the trait that turns Berserk into Inner Release.\
 
@@ -160,7 +160,7 @@ Opener is:
 
 ---
 
-# 72+: Nascent Chaos enters the arena.
+## 72+: Nascent Chaos enters the arena.
 
 At lvl72, we unlock the “Nascent Chaos” buff that triggers every time after using Infuriate. This turns our Gauge spenders into a more powerful version of themselves. We don’t get the upgraded Fell Cleave yet, though. We get the AoE upgrades first. Enter “Chaotic Cyclone”. Read the tooltip.
 
@@ -168,7 +168,7 @@ For now, we’ll be using Chaotic Cyclone as a 50 gauge spender, even on single-
 
 ---
 
-# 76: Nascent Flash
+## 76: Nascent Flash
 
 Funny skill, heals you for 50% of the damage you deal, and heals a party member for 50% of what healed you.\
 Basically 75% of your damage is turned into healing, for the next six seconds.\
@@ -177,7 +177,7 @@ Basically 75% of your damage is turned into healing, for the next six seconds.\
 
 ---
 
-# 80: Inner Chaos
+## 80: Inner Chaos
 
 **You did it.** You reached the end-game. Go read [the full guide](https://guides.xivresources.com/jobs/tanks/warrior/how-to-fell-cleave-an-angry-wannabe-healer-also-known-as-warrior-5-0-the-guide).
 
