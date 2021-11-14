@@ -1,25 +1,25 @@
 ---
 authors:
-  - Balance MCH Staff
+  - Balance-MCH-Staff
 patch: "5.58"
 lastmod: 2021-10-25T21:56:53.723Z
 changelog:
   - date: 2021-10-25T21:57:19.219Z
     message: Created page
 ---
-# Job Overview
+## Job Overview
 
 Machinist is a fast-paced physical ranged job that excels at quick burst damage and has the added benefit of free movement. While the base rotation for this job is somewhat strict, Machinist excels in dumping burst into raid buffs with flexible use of its gauge system. This guide’s aim is to break down the job’s rotation into something easy to digest while providing good practices to follow for overall gameplay.
 
 If you’re new to the job and would just like a basic overview of Machinist during the leveling process, [click here](https://guides.xivresources.com/jobs/ranged/machinist/leveling-guide/).
 
-## Job Gauge 
+### Job Gauge 
 
 Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge which costs 50 Heat. The Battery Gauge (bottom) is used to summon your Automaton Queen to fight alongside you for a specified amount of time based on the amount of Battery you had at the time of summoning. You must accrue at least 50 Heat or Battery to use their respective abilities, and neither should be allowed to overcap if possible.
 
 ![](https://lh4.googleusercontent.com/QsQSG5c79EfLZe3wXkwZWsagFAlYmyeyZY0wC_ksPDFeXCjSY8Nr8g80biSCUpKrFhZLK1PSJbjY9lvhao3vGgi4mGbZUZCOf7kzXyc8ybUQnO6dPRPtdD5CMEyO5PpBz80hQntS)
 
-## Single Target Rotation 
+### Single Target Rotation 
 ![Heated Split Shot](https://xivapi.com/i/003000/003031_hr1.png) 
 <br>**Heated Split Shot** 
 
@@ -81,7 +81,7 @@ Places a debuff on a single enemy that deals 200 potency per weapon skill.  Deto
 Generates 50 heat.  Two minute cooldown.  oGCD  +50 Heat 
 
 
-## AoE Actions
+### AoE Actions
 
 ![Bioblaster](https://xivapi.com/i/003000/003044_hr1.png) 
 <br>**Bioblaster**
@@ -104,7 +104,7 @@ Conal AoE. Can only be used while in Hypercharge. GCD recast set to 1.5s.  180 P
 A channeled ability. Deals 100 potency once per second for ten seconds. Moving while channeling the skill will end its duration. Even though it’s an ability, it still resets the GCD timer.  GCD  100p/10s + initial tick.  Max 1100 potency on all enemies in a cone. 
 
 
-## Pet Actions
+### Pet Actions
 
 ![Automaton Queen](https://xivapi.com/i/003000/003501_hr1.png)  
 <br>**Automaton Queen**
@@ -132,7 +132,7 @@ Gap closer used by Queen Automaton. 3s recast.  Pet GCD  300 Potency
 Queen Automaton’s finisher.  Pet GCD  Variable damage based on Battery Gauge.  
 
 
-## Role Abilities/Support
+### Role Abilities/Support
 
 ![Tactician](https://xivapi.com/i/003000/003040_hr1.png)  
 <br>**Tactician**
@@ -169,7 +169,7 @@ Nullifies most knockback or draw-in effects. Two minute recast.  20% slow if att
 
 Can not be used in combat. Increases movement speed for self and all party members.  Ends if you enter combat.  
 
-# Openers 
+## Openers 
 
 Listed below are all current openers and the reasoning as to why each one should be selected. It is very important that you attempt to put as much damage into the raid buffs of your party as possible. Wildfire is not flexible at all, as it is on a strict two minute timer, and because of this, it should be placed properly in the opener based on your party composition. Wildfire snapshots raid buffs upon use of the ability -- not on detonation. Wildfire cannot critical hit or direct hit, thus gaining no benefit from crit or direct hit boosting raid buffs. If you’re only here for openers, [click this](https://guides.xivresources.com/jobs/ranged/machinist/openers-and-rotation/). Images with text in case you prefer that.
 
@@ -211,7 +211,7 @@ Should only be used as a last resort if you cannot reliably do any of the other 
 
 ![](https://lh3.googleusercontent.com/7usz05LAib0aeUUmp8p5wxBh_TJghOe59lKHEMZzs-4dyJzKKI0mvRCGfEbiH4XpJuMmtMKK90xEdOth3y7xCT38A6OH3mbLTgaVhdvyvcb-QK8y7VcQxQDJIV8AX3u97wtgVnry)
 
-# The Two-Minute Loop and Rotational Theory
+## The Two-Minute Loop and Rotational Theory
 
 The most basic description of the level 80 rotation can be broken down by following these rules:
 
@@ -227,7 +227,7 @@ The rotation can be pieced together by using the following image. Note: Hypercha
 
 ##
 
-## Piecing Together Drill, Air Anchor and Hypercharge 
+### Piecing Together Drill, Air Anchor and Hypercharge 
 
 As of 5.0, the timer before combo actions break has been increased to 15 seconds. The only impact this has on Machinist is the Heated Shot combo. Any combination of Drill, Air Anchor and Hypercharge back to back while having a Heated Shot combo active will break your combo and force you to restart on a Split Shot. 
 
@@ -241,7 +241,7 @@ Reassemble should almost always be used on Drill. It may look like it’s use ca
 
 Some encounters may have you reopen in the middle of the fight without time to prepull Reassemble. To avoid clipping on your initial GCD, Reassemble may be used on a third GCD Air Anchor and still line up for the Drill at the one minute mark. Reassemble’s 55s cooldown allows for minor flexibility in situations like these.
 
-## Barrel Stabilizer Usage and Heat Gain Over Time 
+### Barrel Stabilizer Usage and Heat Gain Over Time 
 
 Though Machinist uses Barrel Stabilizer in the opener before Wildfire, every sequential Barrel Stabilizer should be held until you’ve spent the heat required for the Hypercharge in your Wildfire window. By using Barrel Stabilizer before Wildfire, you end up overcapping on heat multiple times over an entire encounter. The overcap eventually leads to entire Hypercharge windows lost simply due to poor Barrel Stabilizer usage. Barrel Stabilizer should be used somewhere between your Hypercharge use, with Wildfire, or immediately following the end of your Hypercharge window after Wildfire ends to ensure the minimum amount of drift on the ability. 
 
@@ -253,7 +253,7 @@ Throughout the course of the rotation, Machinist naturally generates 50 Heat ove
 
 ##
 
-## Automaton Queen and Flexible Burst Usage
+### Automaton Queen and Flexible Burst Usage
 
 The three things that make up Machinist’s flexible burst are the Heat gauge, the Battery gauge, and the charges of Gauss Round and Ricochet. The first rule for these resources is to never allow them to overcap if possible. The second rule is to use as many of them as you can before an encounter ends, preferring to end a fight with these gauges as close to zero as possible.
 
@@ -265,7 +265,7 @@ While the heat gauge may not be as flexible as the battery gauge, there is still
 
 Unlike many of the other jobs, Machinists can pool their resources for later phases of an encounter. Entering a later phase with 100 Heat (effectively 150 due to Barrel Stabilizer) and 100 Battery is extremely strong, and can give Machinists an edge over the other Physical Ranged jobs in some fights. For example, in an encounter with multiple bosses, you can pool your resources at the end of the first boss, allowing you to reopen in the second boss with a 100 battery Automaton Queen and multiple Hypercharge uses under potions and raid buffs. This makes the final DPS check of the fight easier than it would be if you entered the second boss with no resources saved.
 
-## Skill Speed and Encounter Phasing Optimization
+### Skill Speed and Encounter Phasing Optimization
 
 Unlike past iterations of Machinist, Shadowbringers Machinist handles skill speed relatively well. While it’s still the lowest scaling stat, the rotation stays intact at breakpoints every 0.06s. The  two-minute loop will line up perfectly at GCD speeds of 2.5s, 2.44s, and 2.38s. For every 0.06s subtracted from the GCD, a single Heated Shot filler must be added every two minutes. Unfortunately, going faster will not gain you extra Drills or Air Anchors. 
 
@@ -275,7 +275,7 @@ There will be times where skill speed on gear is a positive thing. It’s genera
 
 It’s a bit niche, but either due to downtime or a known kill time, sometimes a back-to-back alignment of Drill and Air Anchor will be beneficial and net an extra use of Air Anchor. Second GCD Air Anchor misses all buffs, but the extra potency and 20 Battery would be worth it in this scenario.
 
-## AoE Rotation and Optimization
+### AoE Rotation and Optimization
 
 The basic AoE priority is as follows:
 
@@ -342,7 +342,7 @@ Mudfish can be configured for FFXIV using [this guide](https://docs.google.com/d
 
 After attempting to fix these issues with the above suggestions, the only thing you can really do is use the High Ping Opener listed [here](https://docs.google.com/document/d/1niBGupiPQoFhoJ_6B9CHwkOe1n0mKjUE4IFCt7wEUJg/edit#heading=h.w2kab4gut7eh). As long as you’re capable of getting all 6 GCDs in Wildfire while also not overcapping on Gauss Round and Ricochet, you should have no issues playing the job.
 
-# Level 70 Rotation Differences
+## Level 70 Rotation Differences
 
 If you’re doing 4.x Ultimate fights, or just syncing down to min-ilvl for fun on old Savage fights, you will notice slight differences in Machinist’s job kit. The overall feel of the job remains the same, so if you’re familiar with level 80 Machinist, the changes will make little to no difference for you. Listed below are the changes, in order of importance:
 
@@ -362,7 +362,7 @@ The Wildfire change is straightforward. The ability functions identical to how i
 
 The absence of Bioblaster does not change much. With the only option being Drill,  it just means there’s no thought process on two-target and three-target encounters. At four targets, Spread Shot becomes a gain over Drill, but this isn’t something you need to worry about in high-end content. Outside of Drill and Hot Shot, Spread Shot now becomes the go-to for the basic 2+ target rotation. Battery is less valued due to Rook doing less damage overall compared to Queen, which directly correlates to the expected damage of Clean Shot and the combo system as a whole.
 
-# Simple Pointers for New Machinists
+## Simple Pointers for New Machinists
 
 Unlocking new jobs can be daunting, so to alleviate some of the stress of all of the new actions, here’s some tips to help out the new Machinists understand their rotation while leveling and gain some insight into how everything comes together!  Reference the weaponskills and abilities at the [beginning of the guide](https://docs.google.com/document/d/1niBGupiPQoFhoJ_6B9CHwkOe1n0mKjUE4IFCt7wEUJg/edit#heading=h.dyvx6r55itmd) if you forget exactly what things do. 
 
@@ -396,7 +396,7 @@ For clarity purposes:
 
 I hope this helps! If you have any questions, please stop by #mch_questions and ask away!
 
-# Links and Learning Material
+## Links and Learning Material
 
 ##### [Eden’s Promise Write-Up](https://docs.google.com/document/d/1DUHg4tsKaw8O-fl4XbwobXeEDinYV9AJWXkzgeSPBAk/edit) created by Hinoka
 
