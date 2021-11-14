@@ -1,6 +1,6 @@
 ---
 authors:
-  - Balance SAM Staff
+  - Balance-SAM-Staff
 patch: "5.58"
 lastmod: 2021-10-28T03:18:12.573Z
 changelog:
