@@ -22,6 +22,17 @@ jobs:
         with:
           hugo-version: '0.86.1'
           extended: true
+
+      - name: Setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: '14.1'
+
+      - name: Install dependencies
+        run: |
+          yarn
+          yarn global add postcss-cli@8.3.1 autoprefixer postcss tailwindcss
+
       - uses: actions/cache@v2
         with:
           path: /tmp/hugo_cache
