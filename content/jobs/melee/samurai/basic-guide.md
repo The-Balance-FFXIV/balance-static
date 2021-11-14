@@ -1,6 +1,6 @@
 ---
 authors:
-  - Balance SAM Staff
+  - Balance-SAM-Staff
 patch: "5.58"
 lastmod: 2021-10-28T03:18:44.121Z
 changelog:
@@ -17,7 +17,7 @@ Updated by Sweaty Boxer of Midgardsormr
 
 - - -
 
-# Foreword
+## Foreword
 
 With the release of Shadowbringers, Samurai is now celebrating two years in the game, and with Aureum’s permission I’m taking over as caretaker for this guide. The 5.0 update brings with it several changes to both Samurai and melee as a whole, but due to the nature of this guide, I will be introducing them for players new to the job. Please see [Jahaudant’s Samurai Compendium](https://guides.xivresources.com/jobs/melee/samurai/expert-the-shadowbringers-samurai-compendium/) for a more in depth look at the changes from 4.X to 5.0 and further optimisations to endgame PvE on Samurai.
 
@@ -32,9 +32,9 @@ The following section summarizes Samurai's abilities. You may also refer to [Squ
 
 - - -
 
-# Actions
+## Actions
 
-## Weaponskills (GCD)
+### Weaponskills (GCD)
 
 |                                             |                                                                                                                                                                                                                                                                                     |                                                                                                                                                                           |
 | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -57,7 +57,7 @@ The following section summarizes Samurai's abilities. You may also refer to [Squ
 | ![](https://xivapi.com/i/003000/003163_hr1.png) | ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Getsu.png](https://lh3.googleusercontent.com/vh7p32RLojf1eVxekvJgdXj61Q4h4w8FTI0f7K-8QtGKUQRpqBsgIPqjGvTIp8jl1EQEHtDCan8xoegKxMtxnHN94Ti4koHcV69g5liT5ExglUdUoxa7vkyRQF0bock5ZcTtnFzH=s0) | **Mangetsu**   AoE in a circle around you, 100 potency, 160 if combo.  Combo Bonus: Getsu Sen, extends Jinpu buff by 15s (Max 40s). +10 Kenki.                      |
 | ![](https://xivapi.com/i/003000/003165_hr1.png) | ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Ka.png](https://lh6.googleusercontent.com/jSAYprY7WsOG_OyYhh-kYdWo9El9MvFzNKO3Tv4a6GyON8h_i1ToYCAG8bnb-QeQAmhiftTf26kbDKTAG7yoWR7wK0D3VcltTG80NWZ46-y5zZoGuRkcol9hM_LjJljycbeOcYcG=s0)    | **Oka**   AoE in a circle around you, 100 potency, 160 if combo.  Combo Bonus: Ka Sen, extends Shifu buff by 15s (Max 40s). +10 Kenki.                              |
 
-## Off GCDs
+### Off GCDs
 
 |                                             |     |                                                                                                   |
 | ------------------------------------------- | --- | ------------------------------------------------------------------------------------------------- |
@@ -82,7 +82,7 @@ The following section summarizes Samurai's abilities. You may also refer to [Squ
 |                                             | ![](https://xivapi.com/i/003000/003175_hr1.png) | **Hissatsu: Seigan**   Single target attack, 220 potency. Consumes Open Eyes. - 15 Kenki. 1s CD, shared with Merciful Eyes                                                                                                           |
 |                                             | ![](https://xivapi.com/i/003000/003171_hr1.png) | **Merciful Eyes**   Self heal, 200 potency. Consumes Open Eyes. 15 CD, shared with Seigan.                                                                                                                                           |
 
-## Role Actions
+### Role Actions
 
 All jobs also have a several role-specific actions that they can use
 
@@ -99,9 +99,9 @@ In an 8-man instance such as a Primal Extreme or Savage Raid, all of these but L
 
 - - -
 
-# Shape of the Blade: Introduction to Samurai
+## Shape of the Blade: Introduction to Samurai
 
-## Playstyle
+### Playstyle
 
 High similarity to Dragoon with simple GCD structure at a glance. However, SAM is a job that is capable of an extremely high skill ceiling due to flexibility in its Kenki usage. This is a job that emphasizes using the complete toolkit given the circumstances. Samurai manage two different resources to do heavy damage, Sen and Kenki.
 
@@ -140,9 +140,9 @@ Kenki is SAM’s second but extremely vital resource. all of SAM’s GCD skills 
 
 - - -
 
-# Swinging the Blade: Practicing the Strokes
+## Swinging the Blade: Practicing the Strokes
 
-## Combo and Buffs Priority
+### Combo and Buffs Priority
 
 Starting with zero buffs, the opening combo order will usually go:
 
@@ -158,7 +158,7 @@ Lastly, Yukikaze would be the least significant combo out of the three in the op
 
 - - -
 
-## Honing the Blade: Kenki and Potency
+### Honing the Blade: Kenki and Potency
 
 If the Sen system and Midare Setsugekka and its 800 potency (1200 potency with Kaiten) is what catches people’s attention with its flash, then SAM’s Kenki system is what makes the engine run and deal out damage over the fight. Kenki generation is 100% predictable and tied to your GCDs, and in an ideal world you want to finish a fight with 0 Kenki. As such, you will generate and expend similar amounts of Kenki over the same duration. To understand how much Kenki is worth to your damage, it may be preferable to use Potency/Kenki, and use your most common Kenki skill (Shinten) as a baseline.
 
@@ -189,7 +189,7 @@ In addition, it means that  **each positional missed on a SAM is roughly equival
 
 - - -
 
-## To Enpi or to Not Enpi (And Gyoten and Yaten)
+### To Enpi or to Not Enpi (And Gyoten and Yaten)
 
 That is the question. Most of the time, the answer can be summed up as: Don’t if you can just run.
 
@@ -209,7 +209,7 @@ In 5.0, usage of Enpi has extended into the potential for keeping rotational ali
 
 - - -
 
-## Meikyo Shisui: A Mirror in Still Water
+### Meikyo Shisui: A Mirror in Still Water
 
 When you first looked at Meikyo Shisui and saw its description, you may have thought at one point, “I’ll just put up both buffs with it at the start and get full buffs!”
 
@@ -236,7 +236,7 @@ Now, how to use Meikyo to increase your damage? Consider Meikyo as a GCD saver a
 
 - - -
 
-## Hagakure Usage - A Brief Mention
+### Hagakure Usage - A Brief Mention
 
 Hagakure is an oGCD ability re-added to the game in patch 5.05 as a shadow of its former self. Originally a cornerstone of a Samurai’s rotation and toolkit in Stormblood, this ability now allows you to trade all of your Sen in for 10 Kenki each on a five-second cooldown. 
 
@@ -246,7 +246,7 @@ The full level 80 looping rotation is not explained in detail in this guide, as 
 
 - - -
 
-## Higanbana Timing
+### Higanbana Timing
 
 Of all moves that a Samurai can use, the single most powerful move is Higanbana. As you recall, Higanbana is 1050 potency damage over time. Under the effect of Kaiten, that increases to 1575 potency of hurt, spread out over one minute. For the sake of simplicity, since every Higanbana simply must be used under Kaiten and we will use 1575 as its base potency. Under that situation, each tick of Higanbana is worth 60 potency.
 
@@ -262,9 +262,9 @@ Higanbana is just that much of a Samurai’s damage, but applying it liberally a
 
 - - -
 
-# Openers
+## Openers
 
-## Higanbana First
+### Higanbana First
 
 **Higanbana First** is your standard opener which, due to the earlier DoT application, is ahead in output for the majority of any given encounter.
 
@@ -278,7 +278,7 @@ Higanbana is just that much of a Samurai’s damage, but applying it liberally a
 
 - - -
 
-# AoE Rotations
+## AoE Rotations
 
 Rule of thumb: Always AoE when there are three or more enemies. When AoEing groups of enemies as a SAM, you will want to put your buffs up with the respective single target rotation, and then follow the below basic rotation:
 
@@ -294,7 +294,7 @@ If both targets will last long enough, using Higanbana on each and reapply as ne
 
 - - -
 
-# Conclusion
+## Conclusion
 
 Being a good DPS player is not only being able to execute well, but also to adapt as the job and fights change over time. It is because of players like you who are interested in this job, that the tactics and the nuances of this job will become clear over time in the fights and against bosses. As such, please use this guide as a reference point on how you can start as a Samurai - the best form of growth will come from your own practice and your own growth as a player!
 
@@ -306,11 +306,11 @@ With this, the guide has come to its conclusion. I hope you enjoyed the guide an
 
 - - -
 
-# Complete Beginner’s Guide
+## Complete Beginner’s Guide
 
 For the complete beginners to melee DPS and this game’s terminology in general.
 
-## Glossary
+### Glossary
 
 So you signed up for being a melee DPS, that means you want to hurt things, and you want to hurt things up close and personal. To maximize hurting things, let’s go over some basic concepts.
 
@@ -330,7 +330,7 @@ Buffs: are beneficial effects that you have when they’re up. If a buff can be 
 
 Debuffs: are harmful effects that you apply on enemies to either maximize the damage they’ll take or reduce the damage they can do. Again, use wisely to maximize damage or safety of your tanks.
 
-## Rules of Thumb
+### Rules of Thumb
 
 * ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh6.googleusercontent.com/ZsoaL2z3o1xOLyRJ8ASJpCFJyeMdz6ZuHUUoOPercq6akUSGc2dbvkVk1GnNrEioTwqDH6EEc5X9o35MuMUS_cWrfhmtYiQydLDpj0MWC-kKE7x98131d4HH9tCqPov-aQO3gHkn=s0) *Rotate through the combos*: For classes with multiple combos with different effects, rotate through all of them for maximum effect. 
 * ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh5.googleusercontent.com/5MN4bkIOcz6kJZsk6FzRWrNr3eRpQbM9_moiWIb6nT8AMvSOJp-GOePbRaiCTIljyYQcLUkpkrveDcLdhQkpErQw4eBhx5GCI9vnnZQHzHvhyiHEpVPDjV2BbRduWf-JvYZqgTNy=s0) *How many oGCDs between two GCDs?*: At base GCD recast time, do not use more than two oGCDs between two consecutive GCDs. At reduced GCD recast time or high latency, use one oGCD unless the situation calls for it. Most of the time you don’t want to use one after a GCD with a cast time. There are certain oGCD that have a longer lock. For example using a potion will not allow you to double weave between two GCDs.
