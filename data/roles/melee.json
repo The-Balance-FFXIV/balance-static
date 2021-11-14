@@ -1,37 +1,32 @@
 {
-    "title": "melee",
-    "name": "Melee DPS",
-    "nameSingular": "Melee",
-    "order": 3,
-    "color": "#f15c5c",
-    "icon": "/theme-assets/icons/role/role_melee_white.svg",
-    "role_link": "/jobs/melee/",
-    "role_text_md": "Melee DPS are close-range attackers, focused on combos and careful positioning to inflict the maximum amount of damage while dancing around the enemy's hitbox and trying to not disengage as much as possible.",
-    "jobs": [
-        {
-            "name": "Monk",
-            "job_link": "/jobs/melee/monk/",
-            "icon": "/theme-assets/jobs/melee/monk/monk.svg"
-        },
-        {
-            "name": "Dragoon",
-            "job_link": "/jobs/melee/dragoon/",
-            "icon": "/theme-assets/jobs/melee/dragoon/dragoon.svg"
-        },
-        {
-            "name": "Ninja",
-            "job_link": "/jobs/melee/ninja/",
-            "icon": "/theme-assets/jobs/melee/ninja/ninja.svg"
-        },
-        {
-            "name": "Samurai",
-            "job_link": "/jobs/melee/samurai/",
-            "icon": "/theme-assets/jobs/melee/samurai/samurai.svg"
-        },
-        {
-            "name": "Reaper",
-            "job_link": "/jobs/melee/reaper/",
-            "icon": "/theme-assets/jobs/melee/reaper/reaper.svg"
-        }
-    ]
+  "role_text_md": "Melee DPS are close-range attackers, focused on combos and careful positioning to inflict the maximum amount of damage while dancing around the enemy's hitbox and trying to not disengage as much as possible.",
+  "nameSingular": "Melee",
+  "role_link": "/jobs/melee/",
+  "color": "#f15c5c",
+  "name": "Melee DPS",
+  "order": 3,
+  "jobs": [
+    {
+      "name": "Monk",
+      "job_link": "/jobs/melee/monk/",
+      "icon": "/theme-assets/jobs/melee/monk/monk.svg"
+    },
+    {
+      "name": "Dragoon",
+      "job_link": "/jobs/melee/dragoon/",
+      "icon": "/theme-assets/jobs/melee/dragoon/dragoon.svg"
+    },
+    {
+      "name": "Ninja",
+      "job_link": "/jobs/melee/ninja/",
+      "icon": "/theme-assets/jobs/melee/ninja/ninja.svg"
+    },
+    {
+      "name": "Samurai",
+      "job_link": "/jobs/melee/samurai/",
+      "icon": "/theme-assets/jobs/melee/samurai/samurai.svg"
+    }
+  ],
+  "title": "melee",
+  "icon": "/theme-assets/icons/role/role_melee_white.svg"
 }
