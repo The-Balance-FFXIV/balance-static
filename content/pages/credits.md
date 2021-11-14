@@ -24,7 +24,7 @@ menu:
 
 * Laille
 * Elleiana
-* Ana Lumiaux
+* Ana
 * Doubt
 * Wilco
 * Lyall
@@ -46,7 +46,7 @@ menu:
 * Catelyn Mallister
 * Ailarra
 * Thurisaz Hutch
-* Ana Lumiaux
+* Ana
 * Val Rainteaux
 * HoennAngel
 * N. W.
