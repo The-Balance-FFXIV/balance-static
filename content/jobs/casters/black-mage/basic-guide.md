@@ -1,6 +1,6 @@
 ---
 authors:
-  - Balance BLM Staff
+  - Balance-BLM-Staff
 patch: "5.58"
 lastmod: 2021-10-26T01:47:17.671Z
 changelog:
@@ -9,15 +9,15 @@ changelog:
 ---
 My IGN is Caro Kann, and I’m a BLM main (now SCH (AND NOW AST)) and this is my guide for playing 5.X BLM. In this guide, I go over the basics of the BLM rotation and offer some potential optimizations.
 
-# General Info
+## General Info
 
 - - -
 
-## Abilities
+### Abilities
 
 If you’re in game, look at your Actions & Traits page. Read your tooltips. Read your traits, they alter tooltips sometimes. If you’re not in game, look at SE’s [Job Guide](http://na.finalfantasyxiv.com/jobguide/blackmage/) page or the Balance [Skills Overview](https://guides.xivresources.com/jobs/casters/black-mage/skill-overview/) page.
 
-## Abbreviations
+### Abbreviations
 
 * **F1, F2, F3, F4**: Fire Spells
 * **F3P**: Firestarter (F3 Proc)
@@ -34,15 +34,15 @@ If you’re in game, look at your Actions & Traits page. Read your tooltips. Rea
 * **DPS / PPS**: Damage Per Second and Potency Per Second
 * **Instant**: An instant-cast Spell
 
-## AF and UI
+### AF and UI
 
 [Astral Fire](https://ffxiv.consolegameswiki.com/wiki/Astral_Fire) and [Umbral Ice](https://ffxiv.consolegameswiki.com/wiki/Umbral_Ice) do a lot of things. Skim over and make sure you’re not working with misconceptions, particularly about damage buff values. ([Imgur Mirror](http://imgur.com/a/2OYR3))
 
-## Weaving and Clipping
+### Weaving and Clipping
 
 [See this Infographic](https://cdn.discordapp.com/attachments/583967082132275200/622194213987156038/GCD_BLM_ed.png). Whenever possible, weave oGCDs rather than clipping with them. For BLM, this means using at most one oGCD after the fast-cast F3 / B3 when swapping between AF3 / UI3. Each clip costs you roughly ~140 potency.
 
-# Openers
+## Openers
 
 Openers should put abilities on cooldown, fit strong spells within buff windows, and minimize clipping. All openers assume there is a pull countdown and the boss is pulled at 0. If your group pulls earlier, adjust them as necessary. Use the highest tier Tincture / Infusion / Potion of Intelligence available.
 
@@ -54,7 +54,7 @@ With all openers being very close in estimated output over the course of the ent
 
 </div>
 
-## JP Opener
+### JP Opener
 
 <iframe width="1000" height=560"" src="https://www.youtube.com/embed/u6HBt-b7yrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -64,7 +64,7 @@ With all openers being very close in estimated output over the course of the ent
 
 This is a reliable opener for especially high spellspeed sets, because it does not rely on having a polyglot stack available in time for Xeno for filler at the end that other openers utilize. However, in order to ensure that the Thundercloud proc will last long enough to use instead, 3600+ SpS is required. Below this threshold, the Thundercloud proc can fall off losing you a chunk of damage.
 
-## Modified JP Opener
+### Modified JP Opener
 
 {{< youtube uLLVuOGWlXY >}}
 
@@ -74,7 +74,7 @@ This is a reliable opener for especially high spellspeed sets, because it does n
 
 This is an extension of the JP Opener which utilizes pre-pull LL use to lower the spellspeed requirement while still taking advantage of not having Xeno available in time for UI filler that you need for other openers. While technically possible around the 1929 SpS tier this variant is mostly recommended as an option for the 2500-3600 SpS range.
 
-## No B4 Opener
+### No B4 Opener
 
 {{< youtube WnUV4DNW35M >}}
 
@@ -102,7 +102,7 @@ Two ticks:
 
 With two MP ticks you have enough MP to do a standard AF cycle.
 
-## Double Sharp Opener
+### Double Sharp Opener
 
 {{< youtube ZECevqeprik >}}
 
@@ -112,23 +112,23 @@ With two MP ticks you have enough MP to do a standard AF cycle.
 
 Good general purpose opener to fall back on, if other openers are not as viable, for whatever reason. The opener is long enough that there is no issue with Xeno being available in UI in time.
 
-## Variations
+### Variations
 
 The openers above aren’t absolute. Alter them to fit fight requirements. Add Swift after an instant to cover an extra F4 / Despair or hold for fight mechanics. 
 
 Do not precast Swift or Triple. This puts you behind a GCD, due to waiting for the Recast before your next Spell. If there’s no pull countdown or you’re unable to precast, then precast Swift is fine.
 
-# Single Target Rotation
+## Single Target Rotation
 
 - - -
 
-## Base Rotation
+### Base Rotation
 
 ![](/img/st.png)
 
 Base rotation before procs. This can be split into two parts: the Ice Phase and the Fire Phase. Thunder and Xeno placement are less clearly defined. **The empty GCDs represent filler: B4, T3, and/or Xeno.**
 
-## Thunder
+### Thunder
 
 Thunder should be kept up as much as possible, unless the target will die or phase. T3 can be freely cast in either Ice or Fire Phase. Refrain from refreshing T3 unless the DoT will run out.
 
@@ -141,11 +141,11 @@ Use a Thundercloud proc if one of two conditions are met:
 
 Avoid losing procs. If you have no other movement options, procs can be used early for movement.
 
-## Ice Phase
+### Ice Phase
 
 Use the Ice Phase to gain Umbral Hearts and recover MP. Use B3 to enter UI, and cast one to two filler Spells to allow MP to regenerate. Filler is typically B4 followed by either Xeno or T3. If you get a fast MP tick, you may also cast only one filler Spell.
 
-### Examples
+#### Examples
 
 **Standard**
 
@@ -165,7 +165,7 @@ If the T3 DoT is still active when finishing the B4 cast and you don’t have Xe
 
 Use this if the enemy would die or phase before a full Fire Phase.
 
-## Fire Phase
+### Fire Phase
 
 The Fire Phase consists of 6 F4s, a F1, and Despair. You can generally fit 4 non-Despair GCDs on either side of F1.
 
@@ -173,7 +173,7 @@ Try to always cast 6 F4 while also not letting any procs expire. If movement / m
 
 Use Firestarter procs for movement, to extend AF3, or to weave a Swift / Triple to be used on F4 / Despairs. Use F3P at the end of a Fire Phase rather than saving it to enter AF. If you know for absolute certainty that the F3P will replace a stronger spell, click it off instead of using it in UI.
 
-### Examples
+#### Examples
 
 **No Procs**
 
@@ -187,19 +187,19 @@ Standard Fire Phase if no procs.
 
 Thunder reapplication is not strict. You can move the cast / proc between any two GCDs in the Fire Phase.
 
-## Xenoglossy
+### Xenoglossy
 
 Use Xeno as a filler Spell for UI, to weave oGCDs, or for raid buffs (but not at the cost of uptime). Do not overwrite Xenos; when at two Polyglot stacks, use Xeno before one is overwritten.
 
-## Sharpcast
+### Sharpcast
 
 Try to use Sharpcast on cooldown without clipping. Sharpcast has the most value when paired with a T3 / T3P, but is still a gain to use on F1. Holding Sharp specifically for T3 is a loss when compared to using it on whichever Spell is next (F1 / T3).
 
-## Manafont
+### Manafont
 
 Use Manafont to extend Fire Phases, ideally weaved during an instant after Despair. MF gives enough MP to cast a F4, T3, and Despair. If you have no instant to weave MF in, hold it for the next rotation. Only clip to use MF if you will otherwise lose a use.
 
-### Examples
+#### Examples
 
 **Ideal MF Usage**
 
@@ -213,19 +213,19 @@ Using Xeno to gain maximum value out of Triplecast and Manafont.
 
 Xeno in this figure is any instant.
 
-## Surecast and Manaward
+### Surecast and Manaward
 
 When paired with Manaward, Surecast can often allow you to “eat” mechanics to keep casting. This is considered bad practice if it costs a healer a GCD; these things can usually be mitigated by improved planning and/or slidecasting.
 
-## Addle
+### Addle
 
 This translates to a 10% mitigation tool for magical damage. Use on magical raidwides / tank busters as necessary. Weave this if possible, but oftentimes it is an unavoidable hard clip.
 
-## Transpose and Lucid Dreaming
+### Transpose and Lucid Dreaming
 
 Use Transpose as a last resort to maintain Enochian if AF / UI would be dropped. See the [5.X Hypermeme Rotation Guide](https://docs.google.com/document/d/1SBU4HpqBenHAXFr6V-gwAKggkfBgJ2IR9FEbMtT3YRw) for some advanced optimizations using these. Also see the [Balance Advanced Black Mage Guide](https://guides.xivresources.com/jobs/casters/black-mage/advanced-non-standard-blm-guide/) for optimization.
 
-## Scathe
+### Scathe
 
 Don’t use this ability. It is usually preferable to move and cast nothing than cast a Scathe for movement. There are two scenarios in which it is acceptable to use Scathe:
 
@@ -234,15 +234,15 @@ Don’t use this ability. It is usually preferable to move and cast nothing than
 
 A hard-clipped Swiftcasted Spell is preferable to Scathe.
 
-## Freeze
+### Freeze
 
 Only use single-target Freeze for recovery purposes. If at full MP, skip Freeze and instead cast F3.
 
-# Recovery and Reopeners
+## Recovery and Reopeners
 
 - - -
 
-## Recovery
+### Recovery
 
 If you die or drop Enochian, follow this list of priorities:
 
@@ -252,7 +252,7 @@ If you die or drop Enochian, follow this list of priorities:
 4. F3 into a shorter Fire Phase, and continue as normal.
 5. Figure out how to avoid this situation in the future.
 
-### Example
+#### Example
 
 **Recovering with Freeze**
 
@@ -260,15 +260,15 @@ If you die or drop Enochian, follow this list of priorities:
 
 The Umbral Heart from Freeze allows a 5x F4 + Despair Fire Phase. Note that this is only for recovery. It is not a DPS gain, nor is it a sustainable rotation.
 
-## Reopeners
+### Reopeners
 
 During downtime, use Umbral Soul to maintain UI3 with 3 hearts. From there, you can T3 and continue the rotation as normal. Use Xeno before downtime as necessary to avoid overwriting a Polyglot stack.
 
-# AoE Rotation (3+ Targets)
+## AoE Rotation (3+ Targets)
 
 - - -
 
-## General Info
+### General Info
 
 The AoE rotation is free-flowing and should be adapted to the encounter. The same concepts of the Ice and Fire Phases apply to the AoE rotation. 
 
@@ -277,51 +277,51 @@ The Ice Phase includes one filler Spell, usually Foul or T4. Unlike single-targe
 Use Swift on Flare. Use Triple on Flares with the “Hot Flare” variation, even at high enemy counts.
 The rotation should be adapted to the scenario and will vary on the mob count and HP. The Cold Flare and Hot Flare variations have similar dps.
 
-## Hot Flare
+### Hot Flare
 
 ![](/img/hot_flare.png)
 
 Use at 3-4 enemies, or if the mobs will die just after both Flares. **The empty GCD represents a filler: T4, T4P, or Foul.**
 
-## Cold Flare
+### Cold Flare
 
 ![](/img/cold_flare.png)
 
 Use at 5+ mobs, or if the mobs will die before the second Flare of the “Hot Flare” variation. **The empty GCD represents a filler: T4, T4P, or Foul.**
 
-### Example
+#### Example
 
 **Quad Flare (in AF3, at least 1 Umbral Heart)**
 
 ![](/img/quad_flare.png)
 
-# Movement and Uptime
+## Movement and Uptime
 
 - - -
 
 BLM has no damaging oGCDs and a very simple rotation. To maximize DPS, always be casting (ABC) and minimize uptime loss due to handling movement and mechanics.
 
-## Slidecasting
+### Slidecasting
 
 You can start moving when a cast is close to finishing and still have the cast complete. The timing is ~0.5s before the cast ends, but varies based on latency and hardware. Practice slidecasting on a dummy to determine your personal threshold.
 
 Slidecast to move short distances or dodge AoEs when you don’t have a proc or instant available. You still lose some time between casts, but it is better than not casting at all.
 
-## Positioning
+### Positioning
 
 Many mechanics can be handled by preemptively being where you need to be. If you wait until a mechanic starts before moving into position, you’ll feel rushed and end up burning a lot of movement options. Instead, slidecast or leverage instants to move into position at your leisure.
 
 In general, try to stay near your party. Being in AoE heal range helps your healers. More importantly, it keeps you in range of AoE party buffs (Battle Litany, Battle Voice, Divination, etc).
 
-## Triplecast
+### Triplecast
 
 Triple has the most value paired with some combination of F4 and Despairs. If you clip to use Triple, most of the benefit is negated. It will often naturally line up with mechanics. Use on cooldown until you identify fight-specific sections where holding Triple is better. 
 
-## Swiftcast
+### Swiftcast
 
 Swift is a marginal DPS gain and ends up as a DPS loss if it causes clipping. It’s often better to hold for mechanics / movement / panic purposes. 
 
-## Ley Lines
+### Ley Lines
 
 Ley Lines should be used on cooldown where possible. If you can’t gain full LL value, it’s still worth using if holding would cost you a LL use over the course of the fight.
 
@@ -329,23 +329,23 @@ You’ll often be able to handle mechanics (stack / spread markers, AoEs) while 
 
 For reference, clipping LL is approximately equal to losing 5s of its buff. See Appendix for optimization options.
 
-## Aetherial Manipulation and Between the Lines
+### Aetherial Manipulation and Between the Lines
 
 AM and BtL are useful tools for long distance movement in a short window. Slidecast or pre-position instead where possible. The animation lock is highly dependent on ping and software, try not to use this after a fast F3 / B3. This should *not* be the primary form of movement.
 
-# Spell Speed Thresholds
+## Spell Speed Thresholds
 
 - - -
 
 With the increase of AF and UI timers to 15 seconds, the standard rotation is doable at nearly all Spell Speeds. Play at whatever Spell Speed you find comfortable.
 
-# Leveling Rotations
+## Leveling Rotations
 
 - - -
 
 The following is a list of the Rotations a BLM should use if they are at the listed level, be it while synced or because they are leveling.
 
-## Single-Target
+### Single-Target
 
 Sub-40: 
 {F1 spam} Transpose T1 {B1 until max MP} Transpose
@@ -363,7 +363,7 @@ B3 B4 T3 F3 F4x3 F1 F4x3 Despair repeat
 Same as 60-71 with Despair at the end
 Same as 80 just without Xeno. See guide for better details
 
-## AOE
+### AOE
 
 18-34: 
 {F2 spam} Transpose {B2 until max MP} Transpose repeat
@@ -388,7 +388,7 @@ Same as 80. See the AOE section for a better explanation.
 
 For all aoe, use Thundercloud procs on T2/T4 as you get them. Swift/Triple Flares. Manafont for an extra Flare. Foul after Transpose or Freeze
 
-# Macros
+## Macros
 
 - - -
 
@@ -416,7 +416,7 @@ BLM doesn’t really use any macros anymore except for macroing Aetherial Manipu
 
 You can replace `<mo>` with eg `<2>` to always jump to the 2nd person in your party list, but in general this is not recommended, unless you are absolutely sure the person is always where you want them to be, when you want them to be. The `<mo>` is way more flexible, but you need to target it. 
 
-# About Gear
+## About Gear
 
 - - -
 
@@ -428,11 +428,11 @@ If you need mathematical backing, [this sheet](https://docs.google.com/spreadshe
 
 The biggest takeaway is that as long as your gear is max iLvl and fully melded, the difference between best and worst sets for BLM is less than 1%.
 
-# Appendix
+## Appendix
 
 - - -
 
-## No Xeno or T3 Filler
+### No Xeno or T3 Filler
 
 ![](/img/no_xone_or_t3.png)
 
@@ -442,13 +442,13 @@ If you have a T3P that will fall off before the next UI, use the proc and levera
 
 This can be used after the [No B4 Opener](#no-b4-opener) to save Xeno for later movement or raid buffs.
 
-## Ley Lines Optimization
+### Ley Lines Optimization
 
 ![](/img/ll_opti.png)
 
 Under Ley Lines, you may opt to skip B4 and F1 in your rotation. This requires ~1450 SpS to execute reliably, less with instants. This requires 2 mana ticks in UI3, adjust your Ice Phase accordingly.
 
-## About
+### About
 
 This guide is currently maintained by the Mentors of the Balance Discord.
 
