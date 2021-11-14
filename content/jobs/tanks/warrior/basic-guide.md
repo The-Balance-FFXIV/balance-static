@@ -602,7 +602,7 @@ Total amount of Weapon skills per 90 seconds:
 
 ### Guides:
 
-[Beginner's Tank Guide](https://guides.xivresources.com/guide/becoming-a-better-tank)
+[Beginner's Tank Guide](https://docs.google.com/document/d/1cLIQbPzzWg-IWxo_Myom-_9aSqf7xO4vxmhk6QaLPkM)
 <br> Visit for basics of tanking. 
 
 [Paladin Primer](https://guides.xivresources.com/jobs/tanks/paladin/basic-guide/)
@@ -648,9 +648,9 @@ Glu Kos		(Glukos#1104)
 
 Sizzy Twintails	(Sizouney#4484)
 
-### Special thanks to:
+### Special thanks to:﻿
 
-Levi			(Alevia#1270)
+			(Alevia#1270)
 For Warrior blobs. Visit [Levi’s Discord](https://discord.gg/hvN7JHA) for more!
 
 Aletin Ves’ser 	(Aletin#3164)
