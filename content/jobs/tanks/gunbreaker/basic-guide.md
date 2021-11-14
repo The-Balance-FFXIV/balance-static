@@ -1,6 +1,6 @@
 ---
 authors:
-  - Balance GNB Staff
+  - ToraelValdis
 patch: "5.58"
 lastmod: 2021-10-25T21:28:52.762Z
 changelog:
@@ -9,17 +9,17 @@ changelog:
 ---
 
 
-# Introduction to Gunbreaker
+## Introduction to Gunbreaker
 
 Gunbreaker (GNB) is the fourth tank added to Final Fantasy XIV in the Shadowbringers expansion. It features high damage output and high casts-per-minute. GNB also features a strong defensive kit that, when used properly, can bring a lot of mitigation to the table. Let’s get started with a brief overview of the skills and abilities available to GNB.
 
-## Author
+### Author
 
 Torael Valdis | Jenova (NA) | Torael_Valdis#8120
 
-# Skills and Abilities
+## Skills and Abilities
 
-## Offensive On Global Cool Down Abilities
+### Offensive On Global Cool Down Abilities
 
 ![KeenEdge](/img/jobs/tanks/gunbreaker/Keen_Edge.png)
 **Keen Edge**
@@ -81,7 +81,7 @@ Second skill of our AoE combo. 250 potency to all targets in a 5y circle around 
 
 Consumes one Cartridge. 320 potency to all targets in a 5y circle around you. 
 
-## Offensive Off Global Cooldown Abilities
+### Offensive Off Global Cooldown Abilities
 
 ![Continuation](/img/jobs/tanks/gunbreaker/Continuation.png)
 **Continuation**
@@ -170,7 +170,7 @@ Role action. Reduces damage taken by 20% for 20 seconds. 90 second cooldown.
 
 Role action. Makes you immune to most knockback or draw-in effects for 6 seconds. Applies a 20% slow to enemies that attack you while Arm’s Length is active (This means enemies will attack you 20% slower, very useful for dungeons!). 120s cooldown.
 
-## Utility Off Global Cool Down Abilities
+### Utility Off Global Cool Down Abilities
 
 ![HeartOfLight](/img/jobs/tanks/gunbreaker/Heart_of_Light.png)
 **Heart of Light**
@@ -207,7 +207,7 @@ Role action. Puts you at the top of the enmity list and gives 2000 potency worth
 
 Role action. Transfers 25% of your enmity to a target party member. This effect applies to all enemies on your aggro table.
 
-# Combos
+## Combos
 
 GNB has three combos. The **Solid Barrel** combo, **Demon Slaughter** combo, and **Gnashing Fang** combo. 
 
@@ -234,7 +234,7 @@ We will talk about when to use Solid Barrel combo vs Demon Slaughter combo in th
 
 Gnashing Fang combo is our Cartridge spender combo. It does high damage and is a very important part of our burst. Note: Jugular Rip, Abdomen Tear, and Eye Gouge must be used after Gnashing Fang, Savage Claw, and Wicked Talon respectively or the buff that lets them be used will be lost. 
 
-## What Does/Doesn’t Break Combos
+### What Does/Doesn’t Break Combos
 
 Combos are broken when using non-combo GCDs before the combo is finished. However, there are several skills on GNB that do not interrupt combos. 
 
@@ -247,7 +247,7 @@ The following images are a visual representation of the previous paragraph, made
 ![WillXBreak1](/img/jobs/tanks/gunbreaker/Will_X_Break_1.png)
 ![WillXBreak2](/img/jobs/tanks/gunbreaker/Will_X_Break_2.png)
 
-## AoE or Single Target
+### AoE or Single Target
 
 This section will only talk about AoE vs Single Target at level 80. If you are not yet level 80, please refer to the Leveling Guide for a breakdown of what you should be doing at each level bracket. 
 
@@ -258,7 +258,7 @@ Continue to use the **Gnashing Fang** combo on cooldown until there are 4+ targe
 
 Use **No Mercy** on cooldown regardless of how many targets you have. Whether or not **Sonic Break** is useful in multi-target fights will depend on how long it will be on the target as well as the number of targets. Whether or not to use it will be a case-by-case basis. At somewhere around 5+ targets, it likely will be a loss to use regardless.
 
-## No Mercy Windows
+### No Mercy Windows
 
 Always try to enter **No Mercy** with two Cartridges ready when possible. At any normal skill speed, there should always be nine GCDs within the **No Mercy** buff. These buff windows should look similar to the opener and should always contain the following skills:
 
@@ -299,15 +299,15 @@ If you are unable to fit nine GCDs in **No Mercy**, make sure that you are press
 
 ![SolidBarrelCombo](/img/jobs/tanks/gunbreaker/Solid_Barrel_Combo.png)
 
-## Bloodfest
+### Bloodfest
 
 **Bloodfest** should not be held for the next **No Mercy** window. Because it has a cooldown of 90s and **No Mercy** has a cooldown of 60s, **Bloodfest** will naturally be inside **No Mercy** every three minutes. As **Bloodfest**’s cooldown is getting close to finishing, spend Cartridges to avoid delaying **Bloodfest** or overcapping on Cartridges. 
 
-## Cartridge Usage
+### Cartridge Usage
 
 Cartridges should generally not be used outside of **No Mercy** unless they are being used for **Gnashing Fang**, if you would otherwise overcap on Cartridges, or fight specific optimizations such as hitting multiple targets with **Fated Circle**. Doing this helps to ensure that **No Mercy** is entered with two Cartridges ready. 
 
-# Openers
+## Openers
 
 Openers are designed to do a few very important things:
 
@@ -321,9 +321,9 @@ At higher levels of gameplay, you can and should adjust your opener based on you
 
 Because openers will change tier-to-tier and fight-to-fight, please refer to the #gnb_resources channel in The Balance for the most up-to-date openers.
 
-# Rotation
+## Rotation
 
-## Priority System
+### Priority System
 
 Previous GNB guides have thought of the rotation in terms of a 60s/three minute loop. In practice, the GNB rotation is much less a loop and more of a priority system. GNB is more accurately an “if X is ready, do X, else do Y” class. Therefore, after the opener the rotation priority is as follows (with one caveat, mentioned following the priority list):
 
@@ -338,7 +338,7 @@ Previous GNB guides have thought of the rotation in terms of a 60s/three minute 
 
 Because GNB is more of a priority system than a strict rotation, the rotation is very flexible and can be adjusted to the needs of the encounter and group composition.
 
-## GCD Uptime
+### GCD Uptime
 
 GCD uptime refers to pressing your weapon skills (GCDs) as soon as they are available. If there are spaces between when your GCD is ready and when you press the next one, you will lose a significant amount of damage. As such, we aim to keep our GCDs rolling as much as possible. Please note, this only refers to when an enemy is present. It is possible to achieve a minimum of 96% uptime in every fight. Anything lower than that is almost guaranteed to be caused by not playing correctly. How to increase this number around mechanics that normally seem like they should cause downtime is a fight specific optimization and will vary fight to fight. Even if you are making mistakes, it is almost always better to keep your GCD rolling than to just not do anything. 
 
@@ -354,20 +354,20 @@ Or
 
 How you approach this will largely be personal preference as well as fight specific optimization. Do what gets the best results for you. You should also ask your co-tank if they can handle moving the boss if it makes it easier on you, and doesn’t make it harder on everyone else!
 
-# Stat Priorities
+## Stat Priorities
 
 While leveling, or while trying to get to the item level cap, always prioritize item level over stats, regardless of what those stats are \[note, Normal Quality white items break this rule as they are exceptionally bad 99.999% of the time. Other than that, this model holds true]. There is a very common misconception that Tenacity should be avoided at all costs, but this is incorrect. It is not a useless stat, it is just less efficient at increasing damage than other stats are, which is why we will almost never meld Tenacity. 
 
-## Preferred Skill Speed
+### Preferred Skill Speed
 
 GNB is very flexible and as such can make use of a variety of skill speeds with relative ease. Typically, GNB prefers speeds between 2.40 and 2.43. 2.40 in the past was viewed as a sort of baseline for the optimal speed, but in practice this doesn’t hold true unless there are fight-specific reasons to favor 2.40 over any of the other speeds. 
 
 Preferred speed will depend mainly on fight alignment/transitions and your ping, as well as gearing options available. Higher ping players will prefer slower speeds because there is more time to be able to double weave between GCDs. Faster speeds are only typically preferred if they gain meaningful GCDs in a fight, or if gearing options mean that a faster speed is just going to have better damage overall. 
 
-## Meld Priorities
+### Meld Priorities
 
 Our basic priority system for materia melding is Critical Hit, then Skill Speed (to preferred tier only), then Direct Hit. We may use a different meld here and there that breaks the mold of this priority system, but it is very rare and will likely only be one meld, such as a Determination meld instead of a Direct hit meld due to stat tiering.
 
-## Special Thanks
+### Special Thanks
 
 This guide would not be possible without the advice and peer review of Hopps, Rin, Ari, Sila, and the other members of the Balance tank community who took the time to read this and give feedback.

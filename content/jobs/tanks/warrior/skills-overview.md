@@ -1,15 +1,15 @@
 ---
 title: Skills Overview
 authors:
-  - Balance WAR Staff
+  - Balance-WAR-Staff
 patch: "5.5"
 lastmod: 2021-10-27T08:05:10.198Z
 ---
-# Warrior Skills Overview
+## Warrior Skills Overview
 
 Abilities will be presented in a tabular format for easy reading.
 
-## Single Target
+### Single Target
 
 |                                                             |              |                                                                                                                                                                                                                              |                                                                             |
 | ----------------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
@@ -21,7 +21,7 @@ Abilities will be presented in a tabular format for easy reading.
 | ![Inner Chaos](https://xivapi.com/i/002000/002568_hr1.png)  | Inner Chaos  | Costs one stack of Nascent Chaos. <br>Replaces Fell Cleave on your hotbar when you have one stack of Nascent Chaos. <br>Delivers a Critical Direct hit. <br>Consumes 50 Beast Gauge. <br>Reduces Infuriate’s cooldown by 5s. | 920 potency <br>DH Crit <br>**GCD** <br>-NC <br>-50 Gauge                   |
 | ![Tomahawk](https://xivapi.com/i/000000/000261_hr1.png)     | Tomahawk     | Ranged attack with increased enmity.                                                                                                                                                                                         | 140 potency <br> **GCD**                                                    |
 
-## Area of Effect
+### Area of Effect
 
 |                                                                |                 |                                                                                                                                                                                                                           |                                                         |
 | -------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
@@ -30,7 +30,7 @@ Abilities will be presented in a tabular format for easy reading.
 | ![Decimate](https://xivapi.com/i/002000/002558_hr1.png)        | Decimate        | A big AOE hit, 250 potency per target. <br>Radius of five yalms. <br>Consumes 50 Beast gauge. <br>Reduces Infuriate’s cooldown by 5s.                                                                                     | 250 potency <br>**GCD** <br>-50 Gauge                   |
 | ![Chaotic Cyclone](https://xivapi.com/i/002000/002566_hr1.png) | Chaotic Cyclone | Costs one stack of Nascent Chaos. <br>Replaces Decimate on your hotbar when you have one stack of Nascent Chaos. <br>Guaranteed Critical Direct hit. <br>Consumes 50 Beast gauge. <br>Reduces Infuriate’s cooldown by 5s. | 400 potency  <br>**GCD** <br>-50 Gauge <br>-NC          |
 
-## oGCD
+### oGCD
 
 |                                                          |           |                                                                                                         |                                               |
 | -------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
@@ -38,7 +38,7 @@ Abilities will be presented in a tabular format for easy reading.
 | ![Onslaught](https://xivapi.com/i/002000/002561_hr1.png) | Onslaught | Warrior’s gap-closer. <br>Consumes 20 Beast Gauge.                                                      | 100 potency <br>10s CD <br>oGCD <br>-20 Gauge |
 | ![Infuriate](https://xivapi.com/i/002000/002555_hr1.png) | Infuriate | Increases Beast Gauge by 50 <br>Grants Nascent Chaos <br>30 seconds duration <br>Stacks up to two times | 60s CD <br>oGCD <br>+50 Gauge <br>+NC         |
 
-## Utility
+### Utility
 
 |                                                                 |                              |                                                                                                                                                                                                                                                                                                     |                                     |
 | --------------------------------------------------------------- | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |

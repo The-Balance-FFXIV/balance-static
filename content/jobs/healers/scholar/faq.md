@@ -22,8 +22,8 @@ qna:
       ![](https://cdn.discordapp.com/attachments/277965183366987776/594595999935234068/unknown.png)
   - question: Recitation Succor or Reci Spreadlo?
     answer: >-
-      Note: Exact potencies when using Recitation are based on your own crit
-      stat. Assume M is your own crit multiplier and plug it in if you want more
+      Note: Exact potencies when using Recitation are based on your crit stat.
+      Assume M is your own crit multiplier and plug it in if you want more
       precise numbers for your own gear. Every potency in the FAQ will include
       an M multiplier so the exact stat doesn't affect the comparison.
 
@@ -52,7 +52,7 @@ qna:
 
       3. Carry Super-Ethers and use them when your MP is in danger (e.g. you've had to chain rez or you yourself died). This is the best way to recover your MP quickly. Remember these share CDs with damage potions so be careful about using potions if you think you will need to Ether.
 
-      4. Coordinate with your party to use mitigation efficiently to reduce the healing load on you and your cohealer. Not having to use an AF or GCD heal to begin with is a 500/1000MP gain.
+      4. Coordinate with your party to use mitigation efficiently to reduce the healing load on you and your co-healer. Not having to use an AF or GCD heal to begin with is a 500/1000MP gain.
 
 
       Check out the current recommended sets for a starting amount of Piety.

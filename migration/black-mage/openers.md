@@ -1,13 +1,13 @@
 ---
 authors:
-  - Balance BLM Staff
+  - Balance-BLM-Staff
 patch: "5.58"
 lastmod: 2021-10-26T01:51:50.205Z
 changelog:
   - date: 2021-10-26T01:52:08.129Z
     message: Added page
 ---
-# Openers
+## Openers
 
 Openers should put abilities on cooldown, fit strong spells within buff windows, and minimize clipping. All openers assume there is a pull countdown and the boss is pulled at zero. If your group pulls earlier, adjust them as necessary. Use the highest tier Tincture / Infusion / Potion of Intelligence available.
 
@@ -15,7 +15,7 @@ With all openers being very close in estimated output over the course of the ent
 
 ![](https://cdn.discordapp.com/attachments/592613187245834260/812071330458370078/unknown.png)
 
-## JP Opener
+### JP Opener
 <iframe width="1000" height=560"" src="https://www.youtube.com/embed/u6HBt-b7yrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](/img/jp.png)
@@ -24,7 +24,7 @@ With all openers being very close in estimated output over the course of the ent
 
 This is a reliable opener for especially high spellspeed sets, because it does not rely on having a Polyglot stack available in time for Xenoglossy for filler at the end that other openers utilize. However, in order to ensure that the Thundercloud proc will last long enough to use instead, 3600+ SpS is required. Below this threshold, the Thundercloud proc can fall off losing you a chunk of damage.
 
-## Modified JP Opener
+### Modified JP Opener
 
 {{< youtube uLLVuOGWlXY >}}
 
@@ -34,7 +34,7 @@ This is a reliable opener for especially high spellspeed sets, because it does n
 
 This is an extension of the JP Opener which utilizes pre-pull Ley Lines use to lower the spellspeed requirement while still taking advantage of not having Xenoglossy available in time for UI filler that you need for other openers. While technically possible around the 1929 SpS tier this variant is mostly recommended as an option for the 2500-3600 SpS range.
 
-## No B4 Opener
+### No B4 Opener
 
 {{< youtube WnUV4DNW35M >}}
 
@@ -62,7 +62,7 @@ Two ticks:
 
 With two MP ticks you have enough MP to do a standard Astral Fire cycle.
 
-## Double Sharp Opener
+### Double Sharp Opener
 
 {{< youtube ZECevqeprik >}}
 
@@ -72,7 +72,7 @@ With two MP ticks you have enough MP to do a standard Astral Fire cycle.
 
 Good general purpose opener to fall back on, if other openers are not as viable, for whatever reason. The opener is long enough that there is no issue with Xenoglossy being available in UI in time.
 
-## Variations
+### Variations
 
 The openers above aren’t absolute. Alter them to fit fight requirements. Add Swiftcast after an instant to cover an extra Fire IV/ Despair or hold for fight mechanics. 
 

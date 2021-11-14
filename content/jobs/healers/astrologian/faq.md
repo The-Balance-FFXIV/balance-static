@@ -53,9 +53,10 @@ qna:
     answer: What's cute, is you can use both. There are no meld differences between
       the demarcated "crafted" and "tome" ring sets above. Just swap the ring.
   - question: My gear is α, I am currently on β fight, what do I meld?
-    answer: See the guide on Stat Priority! As a general rule, meld Piety to comfort
-      (as you can tell, for high damage this usually means dodging it), Crit >
-      SpS tiering > DH/Det
+    answer: See the guide on [Stat
+      Priority](https://guides.xivresources.com/jobs/healers/astrologian/stats-and-materia/)!
+      As a general rule, meld Piety to comfort (as you can tell, for high damage
+      this usually means dodging it), Crit > SpS tiering > DH/Det
 ---
 ## What Sect Should I Use?
 

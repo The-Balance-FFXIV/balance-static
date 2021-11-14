@@ -1,14 +1,14 @@
 ---
 title: Skills Overview
 authors:
-  - Balance PLD Staff
+  - Balance-PLD-Staff
 patch: "5.5"
 lastmod: 2021-10-27T08:27:54.472Z
 changelog:
   - date: 2021-10-27T17:21:39.738Z
     message: Added
 ---
-## Buffs
+### Buffs
 
 **Iron Will**<br>![](https://xivapi.com/i/002000/002505_hr1.png)
 
@@ -40,7 +40,7 @@ If used with at least 8,000 MP, provides a 12 second buff:
 * Spells have no cast time (Lv. 78).
 * Enables use of Confiteor, which removes the buff when used (Lv. 80).
 
-## Single Target GCDs
+### Single Target GCDs
 
 **Goring Blade Combo**<br>![](https://xivapi.com/i/000000/000158_hr1.png)![](https://xivapi.com/i/000000/000156_hr1.png)![](https://xivapi.com/i/002000/002506_hr1.png)
 
@@ -84,7 +84,7 @@ AoE around target.
 
 Requires and consumes the Requiescat buff.
 
-## Offensive Abilities (oGCDs)
+### Offensive Abilities (oGCDs)
 
 **Spirits Within**<br>![](https://xivapi.com/i/002000/002503_hr1.png)
 
@@ -193,7 +193,7 @@ Become immune to most knockback and pull in effects.
 
 Applies a 20% auto-attack and cast time slow for 15s to enemies that attack you (resisted by most bosses).
 
-## AoE GCDs
+### AoE GCDs
 
 **Prominence Combo**<br>![](https://xivapi.com/i/002000/002511_hr1.png)![](https://xivapi.com/i/002000/002516_hr1.png)
 
@@ -213,9 +213,9 @@ Circle AoE centered on self.
 
 Replaces Holy Spirit at 3+ enemies.
 
-## Other Actions (Infrequently Used)
+### Other Actions (Infrequently Used)
 
-### GCDs
+#### GCDs
 
 **Clemency**<br>![](https://xivapi.com/i/002000/002509_hr1.png)
 
@@ -238,7 +238,7 @@ When used on another target, also heals you for half as much.
 
 6s stun
 
-### oGCDs
+#### oGCDs
 
 **Low Blow**<br>![](https://xivapi.com/i/000000/000802_hr1.png)
 

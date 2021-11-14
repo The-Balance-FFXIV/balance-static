@@ -1,19 +1,19 @@
 ---
 authors:
-  - Balance DRK Staff
+  - Balance-PLD-Staff
 patch: "5.5"
 lastmod: 2021-10-27T17:23:15.088Z
 changelog:
   - date: 2021-10-27T17:23:27.257Z
     message: Added
 ---
-# Introduction
+## Introduction
 
 First off, a word of warning: **Do not use the gear given out by the first job quest.** It is normal-quality, meaning it is significantly weaker than other gear of the same item level. The Steel Cuirass (ilvl30), for example, has about the same defense as a high-quality Iron Scale Mail (ilvl 23).
 
 While this guide is not intended as a complete resource for tanking in dungeons, the following section will provide a brief primer for those new to the role. Feel free to skip ahead to the last section, which provides a rundown of how the leveling process affects your rotation, if you are already familiar with tanking in dungeons.
 
-# General Tips
+## General Tips
 
 * Keep Grit active at all times in dungeons. This multiplies all of your enmity generation by ten, allowing you to keep the attention of enemies you damage. Entering a duty which syncs your level down will toggle Grit off if it was already on, so make sure the icon is present in your list of buffs before proceeding.
 * Unless you are engaging a single enemy, make sure to grab the attention of all enemies you plan to fight at once. Even if there are only a couple enemies present, or if one enemy needs to be singled out to kill first, it's usually best to hit a couple AoE actions to firmly establish threat on everything before switching to single-target.
@@ -21,7 +21,7 @@ While this guide is not intended as a complete resource for tanking in dungeons,
 * Try to keep moving until you have gathered up all the enemies you wish to pull at once, and then stay in one spot until they are all dead. Many jobs have ground-targeted AoE abilities which will heal you or damage enemies and which cannot be moved after being placed. Players also regenerate HP and mana much more quickly while not in combat, so bringing stragglers over to the next group can potentially cause your healer to run out of mana.
 * Don't be afraid to pull more than one group at once. Even in very low-level dungeons, your AoE damage output is quite high and can make up for some party members lacking AoE actions entirely. Healing actions are also relatively strong at low levels, so it takes an extremely large group of enemies to outpace your healer's ability.
 
-# Skill Usage
+## Skill Usage
 
 Dark Knight's leveling rotation is fairly straightforward, but it does evolve a fair bit as you level up. This section will cover the more significant additions and how to use the most significant additions to your kit as you receive them. This is not an exhaustive rundown of every action, so if something is not mentioned here, it is either less important or just intuitive on how to use it properly in dungeon.
 

@@ -50,13 +50,13 @@ changelog:
   - date: 2019-07-04T23:00:00.000Z
     message: Colorful
 ---
-# How to Fell Cleave
-## "An Angry Wannabe-Healer Guide"
-## Warrior Primer v5.3
+## How to Fell Cleave
+### "An Angry Wannabe-Healer Guide"
+### Warrior Primer v5.3
 
 - - -
 
-# Introduction
+## Introduction
 
 Hello, fellow axe wielders, we are Warruru Bros from The Balance discord:
 
@@ -74,7 +74,7 @@ If you know the basics and want to push the limits of Warrior gameplay, carry on
 
 - - -
 
-# Job Overview
+## Job Overview
 
 > \*On the northernmost edge of Abalathia's Spine exists a mountain tribe renowned for producing fearsome mercenaries. Wielding great axes and known as Warriors, these men and women learn to harness their inner beasts and translate that power to unbridled savagery on the battlefield.
 
@@ -92,17 +92,17 @@ Remember, no one can win every battle, but no man should fall without a struggle
 
 - - -
 
-# tl;dr
+## tl;dr
 
 *Also known as “I’m here for the quickest tips”. No explanation, just take them and run.*
 
-## IC IR IC IC Opener
+### IC IR IC IC Opener
 
 ![Opener](https://i.imgur.com/WB2SEtL.png)
 
 Nascent Flash is free to be moved around depending on damage taken. Here it is used to teach people to use Inner Release on the second oGCD slot.
 
-## Rotation (is a priority now)
+### Rotation (is a priority now)
 
 * Keep Storm’s Eye up and refresh it below 15 seconds.
 * Keep Upheaval on cooldown.
@@ -113,11 +113,11 @@ Nascent Flash is free to be moved around depending on damage taken. Here it is u
 * Aim to use Infuriate and Inner Chaos inside party buffs.
 * Aim to keep Infuriate below two stacks at all times.
 
-## Stat Priority
+### Stat Priority
 
 Crit > Comfy SkS > Det > Ten    
 
-## Skill Speed Tiers
+### Skill Speed Tiers
 
 37 GCDs per 90s
 
@@ -130,17 +130,17 @@ Crit > Comfy SkS > Det > Ten
 * 1624 for 2.37 GCD - Some breathing room for mechs and clipping
 * 1726 for 2.36 GCD - "Greeding Mechanics" levels of comfy
 
-## BiS Lists
+### BiS Lists
 
 Refer to [The Balance discord](https://discord.gg/thebalanceffxiv) server [\#warrior_resources](https://discordapp.com/channels/277897135515762698/580300071061553182/593937173569601538) or the [BiS page.] (https://guides.xivresources.com/jobs/tanks/warrior/best-in-slot/)
 
 - - -
 
-# Abilities Preview
+## Abilities Preview
 
 Abilities will be presented in a tabular format for easy reading.
 
-## Single Target
+### Single Target
 
 |                                                             |              |                                                                                                                                                                                                                              |                                                                      |
 | ----------------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
@@ -152,7 +152,7 @@ Abilities will be presented in a tabular format for easy reading.
 | ![Inner Chaos](https://xivapi.com/i/002000/002568_hr1.png)  | Inner Chaos  | Costs one stack of Nascent Chaos. <br>Replaces Fell Cleave on your hotbar when you have one stack of Nascent Chaos. <br>Delivers a Critical Direct hit. <br>Consumes 50 Beast Gauge. <br>Reduces Infuriate’s cooldown by 5s. | 920p <br>Dhit crit <br>**GCD** <br>-NC <br>-50 Gauge                 |
 | ![Tomahawk](https://xivapi.com/i/000000/000261_hr1.png)     | Tomahawk     | Ranged attack with increased enmity.                                                                                                                                                                                         | 140p <br> **GCD**                                                    |
 
-## Area of Effect
+### Area of Effect
 
 |                                                                |                 |                                                                                                                                                                                                                           |                                                  |
 | -------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
@@ -161,7 +161,7 @@ Abilities will be presented in a tabular format for easy reading.
 | ![Decimate](https://xivapi.com/i/002000/002558_hr1.png)        | Decimate        | A big AOE hit, 250 potency per target. <br>Radius of five yalms. <br>Consumes 50 Beast gauge. <br>Reduces Infuriate’s cooldown by 5s.                                                                                     | 250p <br>**GCD** <br>-50 Gauge                   |
 | ![Chaotic Cyclone](https://xivapi.com/i/002000/002566_hr1.png) | Chaotic Cyclone | Costs one stack of Nascent Chaos. <br>Replaces Decimate on your hotbar when you have one stack of Nascent Chaos. <br>Guaranteed Critical Direct hit. <br>Consumes 50 Beast gauge. <br>Reduces Infuriate’s cooldown by 5s. | 400p  <br>**GCD** <br>-50 Gauge <br>-NC          |
 
-## oGCD
+### oGCD
 
 |                                                          |           |                                                                                                         |                                        |
 | -------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------- |
@@ -169,7 +169,7 @@ Abilities will be presented in a tabular format for easy reading.
 | ![Onslaught](https://xivapi.com/i/002000/002561_hr1.png) | Onslaught | Warrior’s gap-closer. <br>Consumes 20 Beast Gauge.                                                      | 100p <br>10s CD <br>oGCD <br>-20 Gauge |
 | ![Infuriate](https://xivapi.com/i/002000/002555_hr1.png) | Infuriate | Increases Beast Gauge by 50 <br>Grants Nascent Chaos <br>30 seconds duration <br>Stacks up to two times | 60s CD <br>oGCD <br>+50 Gauge <br>+NC  |
 
-## Utility
+### Utility
 
 |                                                                 |                              |                                                                                                                                                                                                                                                                                                      |                                     |
 | --------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
@@ -191,7 +191,7 @@ Abilities will be presented in a tabular format for easy reading.
 | ![Interject](https://xivapi.com/i/000000/000808_hr1.png)        | Interject                    | Interrupts the use of some (highlighted) enemy actions.                                                                                                                                                                                                                                              | 30s CD <br>oGCD                     |
 | ![Low Blow](https://xivapi.com/i/000000/000802_hr1.png)         | Low Blow                     | Stuns target. <br>Certain targets cannot be stunned.                                                                                                                                                                                                                                                 | 5s dur. <br>25s CD <br>oGCD         |
 
-## The Beast Gauge
+### The Beast Gauge
 
 The Beast Gauge will be the main resource you will have to manage when playing Warrior. You will naturally accumulate the Beast Gauge during your rotation and will be able to spend it on specific skills. **IT DOESN’T INCREASE CRIT ANYMORE.**
 
@@ -218,72 +218,72 @@ Depending on the fight, you won’t get your full burst in every Trick window, b
 
 - - -
 
-# Abilities In-Depth Overview
+## Abilities In-Depth Overview
 
-## Single Target
+### Single Target
 
-### Storm’s Eye Combo
+#### Storm’s Eye Combo
 
 Heavy Swing -> Maim -> Storm’s Eye
 
 One of your 1-2-3 combos. The goal of Warrior is to make sure Storm’s Eye is up as much as possible. Lovely 10% damage increase. Also generates 20 points of Beast Gauge (10 from Maim and 10 from Storm’s Eye).
 Basic Rule is “if Storm’s Eye has less than 15 seconds left, then re-apply Storm’s Eye“. This will make sure that you don’t lose the buff. To maximize Storm’s Eye effectiveness though, it is possible to delay the application by using gauge spenders, such as Fell Cleave or Inner Chaos as a filler.
 
-### Storm’s Path Combo
+#### Storm’s Path Combo
 
 Heavy Swing -> Maim -> Storm’s Path
 
 Your second standard 1-2-3 combo that generates 30 Beast Gauge (10 from Maim and 20 from Storm’s Path). The Warrior rotation aims to maximize gauge generation and minimize Storm’s Eye refreshes. As such this will be the most used combo for you.
 
-### Fell Cleave
+#### Fell Cleave
 
 A powerful single GCD with 590 potency that can only be used while you have 50 Beast Gauge available. It is a preferred way to spend the Beast Gauge for 1-2 targets.
 **ALWAYS use 5 times inside Inner Release for 1-2 targets** and as your gauge spender between Inner Releases to prevent the gauge from overcapping.
 
-### Inner Chaos
+#### Inner Chaos
 
 A powerful single GCD with 920 potency that can only be used while you have 50 Best Gauge available and a Nascent Chaos buff granted by Infuriate. It will replace  Fell Cleave on your hotbar, so it is easy to treat it in the same manner. Like  Fell Cleave,  Inner Chaos is a preferred way to spend the Beast Gauge for one to two targets. However **Inner Chaos should NEVER be used inside Inner Release**, since it already has the benefit of Crit + Direct Hit. Try to use Inner Chaos inside raid damage buffs. 
 
-### Tomahawk
+#### Tomahawk
 
 Tomahawk is the only long ranged skill available to Warrior. 140 potency is not the biggest damage in our kit, however **Tomahawk makes it possible to attack the target in a range from 3y to 15y.**
 The additional x7 enmity multiplier makes Tomahawk the strongest GCD enmity generator available on-demand for a Warrior. Don’t hesitate to use it if the target suddenly decided to run away and punch a caster in the face. 
 
-## Area of Effect
+### Area of Effect
 
-### Mythril Tempest Combo
+#### Mythril Tempest Combo
 
 Overpower -> Mythril Tempest
 
 AoE combo, not much to say. 
 **This combo beats Heavy Swing -> Maim -> Storm’s Eye/Storm’s Path combo at or above two targets.**
 
-### AoE Gauge spenders
+#### AoE Gauge spenders
 
 Decimate ( Chaotic Cyclone )
 
 AoE versions of Fell Cleave (Inner Chaos) to be used for multiple targets. The AoE is centered on self. 
 **These gauge spenders beat Fell Cleave (Inner Chaos) at three targets.**
 
-### Quick Reference
+#### Quick Reference
 
 Use the chart below for quick reference during your AoE adventures:
 
 ![Flowchart](https://cdn.discordapp.com/attachments/752334526449057853/884745727702622248/unknown.png)
 
-### Handy AoE Table
+#### Handy AoE Table
 
 ![Table](https://cdn.discordapp.com/attachments/752334526449057853/884745881600020500/unknown.png)
 
-## oGCD
+### oGCD
 
-### Upheaval
+#### Upheaval
 
 Upheaval is just a standard damage oGCD. Use Upheaval on cooldown, it should align with buffs like Inner Release. A good visual cue for using Upheaval is looking at Inner Release’s cooldown timer: it should be used between 59-53 and 29-22 seconds. 
 
 In reality Upheaval often lands between 58-53 and 28-22 seconds because the first second of Inner Release is used by Fell Cleave, and at times Upheaval lines up with a GCD so it has to be delayed a bit, making it drift. If Inner Release’s cooldown timer reaches under 22 seconds, replace Upheaval with a single Onslaught to reset Upheaval’s position and stabilize the Beast Gauge. **You should also ALWAYS use Upheaval during Inner Release as it is a free 450 potency during the Inner Release.**
 
-### Onslaught
+#### Onslaught
 
 Warriors’s very own gap closer. Onslaught has a short ten second cooldown, making it almost always available as long as you have 20 Beast Gauge. Intended use is for closing gaps to increase your uptime and thus Onslaught should be used that way. **You should also ALWAYS use Onslaught during Inner Release as it is a free 100 potency skill during the Inner Release.**
 
@@ -294,7 +294,7 @@ Onslaught comes with a priority system:
 3. Use to manipulate your Beast Gauge according to the fight.
 4. Use at the end of the fight, if you have less than 50 gauge and Upheaval is on cooldown.
 
-### Infuriate
+#### Infuriate
 
 In Shadowbringers, Infuriate now grants Nascent Chaos, a buff which enables Inner Chaos, which is an upgraded 920 potency Fell Cleave (and  Chaotic Cyclone which is upgraded Decimate) with guaranteed Crit and Direct Hit. You can also store two charges of Infuriate which allows you to sit on a charge for Trick Attack while still running down the cooldown on the other charge. **You should always try to aim for one Infuriate inside Trick Attack**, often you’ll even be able to get two since you’ll be reducing the CD of Infuriate by doing Fell Cleaves or Inner Chaoses inside Trick Attack.
 
@@ -306,7 +306,7 @@ General guidance for Infuriate:
 4. DO NOT use during Inner Release.
 5. DO NOT use before Inner Release, unless you can Inner Chaos/Chaotic Cyclone before Inner Release activation.
 
-## Utility
+### Utility
 
 #### Inner Release
 
@@ -469,15 +469,15 @@ Stuns the target for five seconds. **DOES NOT** interrupt the use of enemy actio
 
 - - -
 
-# The Openers and Rotation
+## The Openers and Rotation
 
 All right, now let’s use all this knowledge we’ve gathered and discuss how, when and why to use the abilities we have.
 
-## Opener Optimization
+### Opener Optimization
 
 At present there is only a single worthy opener for Warriors, mainly because we want to get Inner Release on cooldown as soon as possible to maximize its usage, and because we can fit an extra Fell Cleave inside the potion by abusing Inner Release’s +15s Eye extension mechanics.
 
-### IC IR IC IC Opener
+#### IC IR IC IC Opener
 
 ![IC IR IC IC Opener](https://cdn.discordapp.com/attachments/752334526449057853/884760228699189309/unknown.png)
 
@@ -491,7 +491,7 @@ Defiance and Tomahawk is enough to keep an enmity lead if you are main tanking.
 
 Equilibrium and Provoke can be used during the opener for a flat increase in enmity if you are pulling the boss and will keep Main tanking the boss after the pull. As mentioned earlier, as of patch 5.0 Defiance and Tomahawk provides enough enmity and it is better to use Equilibrium for healing and Provoke for tank swaps.
 
-## Rotation Optimization
+### Rotation Optimization
 
 The basic rotation in a 100% uptime scenario is generously put a priority list:
 
@@ -509,11 +509,11 @@ The main goal for your rotation should be to maximize Storm’s Path casts and S
 
 With the combo timer being extended to 15 seconds, combos can carry over Inner Release. This means that after using Heavy Swing or Maim, it is possible to fit five Fell Cleaves before continuing the combo. However, it is easy to drop the combo by using Inner Chaos or an extra Fell Cleave right before or after Inner Release.
 
-### Why Fell Cleave only after 70 gauge?
+#### Why Fell Cleave only after 70 gauge?
 
 This rule is mostly for new Warriors, to ensure that they always have enough Beast Gauge for Upheavals. After you get a hang of the basics and party buffs, feel free to burn that gauge inside buffs. Hitting zero Beast Gauge is bad practice only if it delays Upheaval, or if it was spent in vain.
 
-### Upheaval
+#### Upheaval
 
 Upheaval should be used inside Inner Release, and twice outside of Inner Release. The general rule regarding Upheaval usage is that you should NOT use it if Inner Release’s cooldown is at 22 seconds or below, as it would not fit inside the buff. In these cases, replace the Upheaval with an Onslaught to keep your Beast Gauge on track. A good visual cue for using Upheaval is looking at Inner Release’s cooldown timer: it should be used between 59-53 and 29-22 seconds. 
 
@@ -521,18 +521,18 @@ Upheaval should be used inside Inner Release, and twice outside of Inner Release
 
 In reality, Upheaval often lands between 58-53 and 28-22 seconds because the first second of Inner Release is used by Fell Cleave, and at times Upheaval lines up with a GCD so it has to be delayed a bit, making it drift.
 
-### Onslaught
+#### Onslaught
 
 The tool to manage our gauge amidst fight mechanics and timings. 
 A general rule for Onslaught usage is to use it when you would miss GCDs otherwise due to mechanics forcing you to disengage.
 
-### Infuriate
+#### Infuriate
 
 Infuriate should rarely hit two stacks. To ensure as many casts as possible, we want to take advantage of the Infuriate’s cooldown timer by keeping it ticking constantly. There are exceptions to this rule, such as pushing as much gauge as possible into Trick Attacks and thus saving the stacks, but in general the stacks should hover between zero and one, and the timer should stay active.
 
 Another thing to avoid completely is using Infuriate right before Inner Release, or during it. Infuriate activates Nascent Chaos, which opens up Inner Chaos and Chaotic Cyclone, they always Crit Direct Hit, and using those skills inside Inner Release is a waste, because using GCD spenders inside the buff consumes Nascent Chaos. If necessary, delay Inner Release by a GCD and consume the Nascent Chaos through Inner Chaos or Chaotic Cyclone, then use Inner Release. There are exceptions to this, but they’re all fight-dependent (for example, Perfect Alexander opener to maximize your damage before taking a jail).
 
-### Nascent Flash vs Raw Intuition
+#### Nascent Flash vs Raw Intuition
 
 Assuming that one potency is 29 damage and NFlash heals us for 48%, and the co-tank is healed for 50% of that initial 48%. Leaving Onslaught out of the normal windows, but including it in IR windows.
 
@@ -549,13 +549,13 @@ As the table above shows, Raw Intuition has to either cover you from a certain d
 
 - - -
 
-# Stats, Itemization and BiS Theory
+## Stats, Itemization and BiS Theory
 
 With access to the information we know now, utilizing community tools such as the current [Tank DPS calculator](https://bit.ly/TankDPSCalc520) allows us to more accurately determine what gear and melds should be used.
 
 For Stat Tiers, refer to [TheoryJerks/AkhMorning’s website.](http://theoryjerks.akhmorning.com/stats/speed/)
 
-## Melding priority
+### Melding priority
 
 Crit > Comfy SkS > Det > Ten
 
@@ -581,26 +581,26 @@ Total amount of Weapon skills per 90 seconds:
 
 - - -
 
-# Raid Tips and Tricks
+## Raid Tips and Tricks
 
-## Eden
+### Eden
 
 [http://bit.ly/WAR_E1-4s_tips ](http://bit.ly/WAR_E1-4s_tips)
 
-## The Epic of Alexander
+### The Epic of Alexander
 
 <http://bit.ly/WAR_TEA_Notes>
 
-### VOD of Perfect Alexander opener by Ramza
+#### VOD of Perfect Alexander opener by Ramza
 
 <https://www.twitch.tv/videos/547866534> 
 <br> This opener is optimal assuming you get Stillness first
 
 - - -
 
-# Additional Resources
+## Additional Resources
 
-## Guides:
+### Guides:
 
 [Beginner's Tank Guide](https://guides.xivresources.com/guide/becoming-a-better-tank)
 <br> Visit for basics of tanking. 
@@ -611,7 +611,7 @@ Total amount of Weapon skills per 90 seconds:
 [Gunbreaker Primer](https://guides.xivresources.com/jobs/tanks/gunbreaker/basic-guide/)
 <br> Visit for gunpowder blasting tips. 
 
-## Websites:
+### Websites:
 
 [The Balance Discord](https://discord.gg/thebalanceffxiv)
 <br>Visit for chat and questions. 
@@ -619,9 +619,9 @@ Total amount of Weapon skills per 90 seconds:
 [TheoryJerks/AkhMorning](http://theoryjerks.akhmorning.com/stats/speed/)
 <br>Visit for stat intervals and formulas. 
 
-## Miscellaneous:
+### Miscellaneous:
 
-### How do Macros work?
+#### How do Macros work?
 
 Filling up all the slots with repeating lines sort of simulates queuing.
 The real reasoning is that *macros read one line per each in-game frame.* If the macro tries to execute an action while in animation lock (from another action, for example), it has no effect.
@@ -638,9 +638,9 @@ Macro targets:
 
 - - -
 
-# Acknowledgment
+## Acknowledgment
 
-## Authors:
+### Authors:
 
 Mox Xinmagar 	(Mox#0007)
 
@@ -648,7 +648,7 @@ Glu Kos		(Glukos#1104)
 
 Sizzy Twintails	(Sizouney#4484)
 
-## Special thanks to:
+### Special thanks to:
 
 Levi			(Alevia#1270)
 For Warrior blobs. Visit [Levi’s Discord](https://discord.gg/hvN7JHA) for more!

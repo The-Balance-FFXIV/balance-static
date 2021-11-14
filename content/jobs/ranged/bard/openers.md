@@ -1,13 +1,13 @@
 ---
 authors:
-  - Balance BRD Staff
+  - Balance-BRD-Staff
 patch: "5.58"
 lastmod: 2021-10-26T02:30:17.867Z
 changelog:
   - date: 2021-10-26T02:31:00.147Z
     message: Created page
 ---
-# Bard Openers
+## Bard Openers
 
 For all openers;
 
@@ -16,21 +16,21 @@ For all openers;
 * The best potion is high-quality Grade 4 Tincture of Dexterity.
 * Try to use your second oGCD in the normal-ping openers as late as you can without cutting into your next GCD.
 
-## 2.44s to 2.47s GCD
+### 2.44s to 2.47s GCD
 
 ![](https://cdn.discordapp.com/attachments/541496122548682754/882765166796759050/246opener.png)
 
-## 2.48s to 2.50s GCD:
+### 2.48s to 2.50s GCD:
 
 ![](https://cdn.discordapp.com/attachments/541496122548682754/883362400701661204/250opener.png)
 
-## 2.48s to 2.50s GCD (high ping):
+### 2.48s to 2.50s GCD (high ping):
 
 ![](https://cdn.discordapp.com/attachments/541496122548682754/882765206529392660/250highpingopener.png)
 
 - - -
 
-# Opener FAQ
+## Opener FAQ
 
 > *Why are Barrage and Sidewinder delayed?*
 

@@ -1,20 +1,20 @@
 ---
 authors:
-  - Balance BRD Staff
+  - Balance-BRD-Staff
 patch: "5.58"
 lastmod: 2021-10-26T02:17:04.672Z
 changelog:
   - date: 2021-10-26T02:17:16.801Z
     message: Created page
 ---
-# Authors
+## Authors
 
 by **Verzell Varion \[Adamantoise]**
 **with contributions from Im’hotep Rah \[Goblin], Sana Cetonis \[Sargatanas], Ellunavi Sevald \[Sargatanas], Yumiya Nagatsuki \[Behemoth], Elya Kura \[Ragnarok]**
 
 - - -
 
-# Foreword
+## Foreword
 
 Hi all! Welcome to our Bard guide, freshly revamped for the 5.x Shadowbringers expansion. This guide will cover concepts of Bard gameplay, from the very fundamentals to the limits of optimization, as well as serving as a pocket reference for all aspects of Bard.
 
@@ -24,7 +24,7 @@ If you have any questions, corrections, or suggestions, please come visit us on 
 
 - - -
 
-# How to Use this Guide
+## How to Use this Guide
 
 If you’re considering picking up Bard… 
 
@@ -48,7 +48,7 @@ If you’re an experienced Bard, or looking for optimization advice…
 
 - - -
 
-# Glossary
+## Glossary
 
 |       |                                                                                                                                                                            |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -79,7 +79,7 @@ If you’re an experienced Bard, or looking for optimization advice…
 
 - - -
 
-# Basic Gameplay
+## Basic Gameplay
 
 The three most characteristic qualities of Bard gameplay are that it uses a **priority system**, it’s **reactive**, and it’s **flexible**. I’ll explain what those mean:
 
@@ -89,11 +89,11 @@ The three most characteristic qualities of Bard gameplay are that it uses a **pr
 
 This section will cover the basics of playing Bard on a single-target fight.
 
-## Priority System Overview
+### Priority System Overview
 
 If this seems daunting, don’t worry about taking it in all at once! Bard is meant to be learned in steps, which are explained below. You can think of this more like a cheatsheet. **These are not hard and fast rules!** It’s a general guide.
 
-### GCD Priority - keep your GCD rolling!
+#### GCD Priority - keep your GCD rolling!
 
 1. DoTs not up? If not, **Stormbite → Caustic Bite**. 
 2. DoTs about to run out (<3s left)? **Iron Jaws**.
@@ -101,7 +101,7 @@ If this seems daunting, don’t worry about taking it in all at once! Bard is me
 4. Straight Shot Ready? **Refulgent Arrow**.
 5. GCD up, and nothing else to do? **Burst Shot**.
 
-### oGCD Priority - do between GCDs
+#### oGCD Priority - do between GCDs
 
 6. Do you have a song playing? If not:
 
@@ -116,7 +116,7 @@ If this seems daunting, don’t worry about taking it in all at once! Bard is me
 12. In **Raging Strikes**, **Barrage** up, and not Straight Shot Ready? Use Barrage.
 13. **Sidewinder** up? Use it.
 
-## Always Be Casting + Basics of Weaving
+### Always Be Casting + Basics of Weaving
 
 One of the strictest rules of Bard is also one of the most important rules of playing FFXIV classes well in general. Always be casting! Pressing buttons in the wrong order is usually better than pressing nothing. This is doubly true on Bard, which doesn’t have combos and instead has a powerful filler GCD in the form of Burst Shot!
 
@@ -126,7 +126,7 @@ It’s important to keep your GCD rolling. If a GCD is available, you should be 
 
 Your filler GCDs, which you press if you don’t need to use any other GCDs, are **Burst Shot (BS)** and **Refulgent Arrow (RA)**. Use RA if you have Straight Shot Ready, and BS if not.
 
-## DoTs
+### DoTs
 
 ![stormbite](https://xivapi.com/i/002000/002614_hr1.png)
 ![caustic bite](https://xivapi.com/i/002000/002613_hr1.png)
@@ -140,7 +140,7 @@ One additional thing to know about DoT skills is that the damage over time calcu
 
 Note that all three of these skills can also proc Straight Shot Ready, so be watchful of your buff bar or RA button!
 
-## Song Rotation + Procs
+### Song Rotation + Procs
 
 Next, we get to the lifeblood of Bard -- songs. Bard has three songs, which have different effects (Repertoire) that have a 40% chance to trigger every time a DoT deals damage to a target. All DoTs in the game deal damage every three seconds, so you have two proc chances every three seconds on a single target. All song skills and their procs are oGCDs. 
 
@@ -159,7 +159,7 @@ The order of using songs is **WM for 30s → MB for 30s → AP for 20s** (cuttin
 ![empyreal arrow](https://xivapi.com/i/002000/002606_hr1.png)
   **Empyreal Arrow (EA)** grants a single Repertoire proc. It should be used more or less off cooldown. Note that it can cause clipping, because it may make your other oGCDs available. It’s better to delay EA by a GCD to avoid this, than to clip.
 
-## Wanderer’s Minuet + Raging Strikes + Barrage Alignment
+### Wanderer’s Minuet + Raging Strikes + Barrage Alignment
 
 ![WM icon](https://xivapi.com/i/002000/002607_hr1.png) 
 ![raging strikes](https://xivapi.com/i/000000/000352_hr1.png)
@@ -169,7 +169,7 @@ The order of using songs is **WM for 30s → MB for 30s → AP for 20s** (cuttin
 
 When entering WM, you should also use RS (more advanced usage is discussed later in the guide). Use Barrage as soon as possible within this window, taking care not to use it when you already have Straight Shot Ready. Note that other single-target GCDs (not Apex Arrow) can consume Barrage, so you have to use RA as your next GCD.
 
-## Other Offensive Skills
+### Other Offensive Skills
 
 ![apex arrow](https://xivapi.com/i/002000/002619_hr1.png)\
   **Apex Arrow** should be used at 100 Soul Voice, or dumped if the fight is imminently ending and you have more than 45 Soul Voice. It will fill every 60 seconds on average if you keep your DoTs and songs up and use EA on cooldown.
@@ -185,7 +185,7 @@ When entering WM, you should also use RS (more advanced usage is discussed later
 
 - - -
 
-# Changes from Stormblood
+## Changes from Stormblood
 
 In roughly decreasing order of importance:
 
@@ -205,7 +205,7 @@ In roughly decreasing order of importance:
 
 - - -
 
-# Changes during Shadowbringers
+## Changes during Shadowbringers
 
 * 5.1: Song buffs return.  WM gives 2% crit chance, MB gives 1% damage, and AP gives 3% DH chance.  This doesn’t change the song order at all.
 * 5.1: Potency adjustments.  RA 340 → 330, SB (dot) 60 → 50, CB (dot) 50 → 40, SW 260 → 300, Apex (max) 500 → 600.
@@ -216,13 +216,13 @@ In roughly decreasing order of importance:
 
 - - -
 
-# Opener
+## Opener
 
-## Prepull RS (recommended)
+### Prepull RS (recommended)
 
 ![prepull](https://cdn.discordapp.com/attachments/458951851610734595/884943142154014740/unknown.png)
 
-### Opener comparison:
+#### Opener comparison:
 
 * Strongest opener in general.
 * This opener may not be usable at very high skill speed, since the BL and end-of-song timers will collide with the GCD timer as the first WM ends. It may also not be usable at high ping (see the note about the triple weave). Try it out!
@@ -242,11 +242,11 @@ In roughly decreasing order of importance:
 * Sidewinder cooldown can be moved earlier for the same reasons.  Shift it around to accommodate PP3, BL, and Barrage usage.
 * Battle Voice cooldown is flexible if the party has classes that burst later.
 
-## Prepull RS (ping-friendly)
+### Prepull RS (ping-friendly)
 
 ![prepull ping friendly](https://cdn.discordapp.com/attachments/458951851610734595/884943576000245820/unknown.png)
 
-### Opener comparison:
+#### Opener comparison:
 
 * A prepull opener variant that is a tad weaker, but more compatible with higher SkS and more forgiving on ping.
 * More familiar to those who played in Stormblood.
@@ -265,7 +265,7 @@ In roughly decreasing order of importance:
 
 - - -
 
-# Utility Cooldowns
+## Utility Cooldowns
 
 ![battle voice](https://xivapi.com/i/002000/002601_hr1.png)\
   **Battle Voice**: Unless otherwise mapped out, it’s best to use this on cooldown and together with the final burst.
@@ -290,9 +290,9 @@ In roughly decreasing order of importance:
 
 - - -
 
-# Advanced Gameplay
+## Advanced Gameplay
 
-## RS Alignment Choice
+### RS Alignment Choice
 
 ![raging strikes](https://xivapi.com/i/000000/000352_hr1.png)
 
@@ -306,7 +306,7 @@ Aligning RS with the ending of WM is the **hardest and riskiest choice, also req
 
 Late RS also has some less obvious tradeoffs with respect to buff alignment. It potentially makes the four minute alignment worse, especially if you drift your song rotation. However, it makes the three minute alignment better, since three minutes is 20s into the third WM. Also, if you have a NIN, doing second RS late gives you a tight window to snap the second and third tricks, whereas second RS early means you will probably early snap as the second RS is falling off and miss third trick.
 
-## Iron Jaws
+### Iron Jaws
 
 ![ij](https://xivapi.com/i/002000/002608_hr1.png)
 
@@ -324,7 +324,7 @@ Deciding whether to snap buffs is a tradeoff between buffing DoTs, which tick fo
 
 As a minor note, the devs seem to like putting 25s+ downtimes in fights. In such cases, if you have an RA proc going into the last GCD before downtime, it’s better to RA and then manually reapply DoTs after downtime. Otherwise, IJ on both ends.
 
-## Procs in WM
+### Procs in WM
 
 ![wm](https://xivapi.com/i/002000/002607_hr1.png)
 ![pp](https://xivapi.com/i/002000/002611_hr1.png)
@@ -335,7 +335,7 @@ Note that because EA should be used on cooldown in every song, the EA timer will
 
 There’s no longer a need to triple weave Barrage EA PP. Avoid that triple weave by delaying EA in general, or delaying Barrage if you’re near the end of the fight (it risks delaying twice and messing up alignment due to the chance of a RA proc).
 
-## Procs in MB
+### Procs in MB
 
 ![mb](https://xivapi.com/i/002000/002602_hr1.png)
 ![bloodletter](https://xivapi.com/i/000000/000361_hr1.png)
@@ -348,7 +348,7 @@ Make sure not to mash BL during the last ~1s of a GCD to avoid clipping. If a BL
 
 Using EA in MB can be tricky if you want to avoid losing procs. Here’s where it can be extremely valuable to know the DoT timer. If it’s early, it’s fine to use BL EA BL triple weaved (this is one of the only acceptable triple weaves). If it’s extremely late, you can mash EA BL fast enough that the DoT tick happens later. If the DoT timer is in the middle of the GCD, it’s acceptable to wait up to three GCDs for the DoT timer to move later. You shouldn’t need to wait more, even two GCDs is almost always enough, and the less you have to wait the better. Don’t wait on the first EA in MB if it would push it past the midpoint (i.e. if you would only get one EA in that MB).
 
-## Song Transitions
+### Song Transitions
 
 ![WM icon](https://xivapi.com/i/002000/002607_hr1.png) 
 ![mb icon](https://xivapi.com/i/002000/002602_hr1.png)
@@ -356,15 +356,15 @@ Using EA in MB can be tricky if you want to avoid losing procs. Here’s where i
 
 Due to the addition of Soul Voice, it’s more important than ever to minimize the amount of songless time, and avoid letting DoT ticks fall in songless time.
 
-### WM to MB transition:
+#### WM to MB transition:
 
 If the DoT tick timer is very close (<.5s) to the end of the song, or you use a PP3 less than three seconds before the song ends, you can transition into MB early if it’s available. This is ping dependent, and at low ping it can be easier to make use of the last DoT tick in WM.
 
-### MB to AP transition:
+#### MB to AP transition:
 
 Unlike the WM to MB transition, MB procs (BL) can be used after the song ends, so avoid cutting it short if there would be a DoT tick at the very end of MB. Other than that, just try to minimize songless time without clipping.
 
-### AP to WM transition:
+#### AP to WM transition:
 
 Weave BS → WM → BS → RS → BS… if you’re doing early RS, or just BS → WM → BS if you’re doing late RS. In either case, do the transition when your MB cooldown is 30s or less, and your AP cooldown is 60s or less. **Wait at least 0.25s between the BS and WM to ensure you get 5 GCDs in Muse. At low skill speed (~2.47 or slower GCD), ideally wait even longer, up to half a second.** This should set up nicely for a PP MB double weave 12 GCDs later on the WM to MB transition, assuming full stacks of Army’s Muse. 
 
@@ -372,7 +372,7 @@ Be careful about double weaving during Army’s Muse.  Depending on your ping, i
 
 To reiterate from above, if you have an EA very close to this transition, save it for after the transition.
 
-## Extending AP
+### Extending AP
 
 ![AP icon](https://xivapi.com/i/002000/002603_hr1.png)
 
@@ -391,7 +391,7 @@ Aside from alignment, there are other unplanned reasons to want to extend AP:
 
 Note that if you planned your song alignment around raid buffs, extending AP could skew it slightly. But if multiple of the above cases are true, especially the first two (those are much bigger), **it can be worth it to sacrifice some alignment.**
 
-## Refulgent Arrow Procs
+### Refulgent Arrow Procs
 
 ![ra](https://xivapi.com/i/002000/002616_hr1.png)
 
@@ -401,7 +401,7 @@ If you have an RA proc as Barrage comes up, delay the Barrage unless it would fa
 
 While manually applying DoTs, if you get a RA proc from CB, save it and use it after SB.
 
-## Apex Arrow
+### Apex Arrow
 
 ![aa](https://xivapi.com/i/002000/002619_hr1.png)
 
@@ -415,7 +415,7 @@ If a multi-target phase is coming up within \~20s and your Apex Arrow hits full,
 
 Some rules of thumb for applying DoTs vs using Apex at the start of a multi-target phase: If you enter a two target phase with 100 gauge, apply DoTs first and then use the Apex Arrow. With ~3-5 targets, apply a single DoT to each and then Apex. On multi-target phases with a large number of targets, Apex Arrow first, then DoTs. Again, this is fight-dependent, and especially dependent on the duration of the phase.
 
-## Fight Mapping
+### Fight Mapping
 
 Mapping a fight involves coming up with song timings and IJ timings to fit downtime, adds phases, and party burst phases. Things to consider:
 
@@ -428,7 +428,7 @@ Mapping a fight involves coming up with song timings and IJ timings to fit downt
 
 - - -
 
-# AoE
+## AoE
 
 Against 2 targets, the relative song strength is WM > MB > AP. Against 3-6 targets, the song strength order is MB > WM > AP. Against >6 targets, the song strength order is MB > AP > WM. This isn’t necessarily the order you should use your songs in dungeons, it depends on the pull sizes.
 
@@ -442,11 +442,11 @@ Shadowbite is a potency gain starting at two targets.  Don’t forget that there
 
 - - -
 
-# Clarified Tooltip Reference
+## Clarified Tooltip Reference
 
 Tooltips here are rewritten from the official translations to clarify some portions that aren’t obvious in the official job guide.
 
-### GCDs
+#### GCDs
 
 |                                                         |                      |                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -458,7 +458,7 @@ Tooltips here are rewritten from the official translations to clarify some porti
 | ![apex arrow](https://xivapi.com/i/002000/002619_hr1.png)   | Apex Arrow           | Consumes all Soul Voice to deliver an attack with a potency of 6 per Soul Voice expended (up to 600) to all enemies in a straight line before you. 25y range.   Minimum Soul Voice Gauge Cost: 20.                                                                |
 | ![QN](https://xivapi.com/i/000000/000360_hr1.png)           | Quick Nock (QN)      | Delivers an attack with a potency of 150 to all enemies in a cone before you.   Additional Effect: 30% chance the recast timer for Bloodletter and Rain of Death will be reset                                                                                    |
 
-### Songs + Repertoire
+#### Songs + Repertoire
 
 |                                                           |                        |                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | --------------------------------------------------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -471,7 +471,7 @@ Tooltips here are rewritten from the official translations to clarify some porti
 | ![EAP](https://xivapi.com/i/005000/005314_hr1.png)            | Enhanced Army’s Paeon  | During Army’s Paeon or within 30 seconds of Army’s Paeon ending, using the Wanderer’s Minuet or Mage’s Ballad will grant Army’s Muse for 10s. Army’s Muse reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay, depending on the number of Repertoire stacks in the previous Army’s Paeon.  1 Repertoire: 1%  2 Repertoire: 2%  3 Repertoire: 4%  4 Repertoire: 12% |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ![empyreal arrow](https://xivapi.com/i/002000/002606_hr1.png) | Empyreal Arrow (EA)    | Delivers an attack with a potency of 230. Grants the effect of Repertoire if used during the Wanderer’s Minuet, Mage’s Ballad, or Army’s Paeon.  Recast time: 15s                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
-### Other oGCDs
+#### Other oGCDs
 
 |                                                           |                     |                                                                                                                                                                                                                                                                                                                                                  |
 | --------------------------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -480,7 +480,7 @@ Tooltips here are rewritten from the official translations to clarify some porti
 | ![sidewinder](https://xivapi.com/i/002000/002610_hr1.png)     | Sidewinder (SW)     | Delivers an attack with a potency of 100.  Additional Effect: If the target is suffering from a Caustic Bite or Stormbite effect inflicted by you, Sidewinder potency is increased to 200 for one effect, or 350 for both.  Shares a recast timer with Shadowbite.  Recast time: 60s                                                             |
 | ![SHADBITE](https://xivapi.com/i/002000/002617_hr1.png)       | Shadowbite          | Delivers an attack with a potency of 100 to target and all enemies nearby it.   Additional Effect: If the primary target is suffering from a Caustic Bite or Stormbite effect inflicted by you, Shadowbite potency on all targets is increased to 160 for one effect, or 220 for both.  Shares a recast timer with Sidewinder.  Recast time: 60s |
 
-### Utility
+#### Utility
 
 |                                                         |                    |                                                                                                                                                                                                                     |
 | ------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -495,7 +495,7 @@ Tooltips here are rewritten from the official translations to clarify some porti
 
 - - -
 
-# Credits
+## Credits
 
 Visit us on [The Balance Discord](https://discordapp.com/invite/thebalanceffxiv)!
 

@@ -1,21 +1,21 @@
 ---
 authors:
-  - Balance DRG Staff
+  - Balance-DRG-Staff
 patch: "5.58"
 lastmod: 2021-10-29T02:49:00.219Z
 changelog:
   - date: 2021-10-29T02:49:11.086Z
     message: Created page
 ---
-# Saving The Dragoon
+## Saving The Dragoon
 
-## Overview
+### Overview
 
 Dragoon is a very static **melee dps** Job. You have strict, long combos to execute and timers within those combos that need to be maintained. Unlike other Jobs - especially other melee - which rely upon a priority system for their basic GCD rotation, Dragoon instead has static buttons to press in a specific order with very little variance. **Shadowbringers** brings with it a new reliance on hitting proper positionals to trigger new skills.
 
 - - -
 
-## The Brains Behind the Operation
+### The Brains Behind the Operation
 
 **Eve Malqir** (Balmung) - the primary writer of this guide and Dragoon Mentor from [The Balance](https://discord.gg/thebalanceffxiv "The Balance Discord")\
 Always open to answering questions! Please don't hesitate to contact me! :)\
@@ -30,13 +30,13 @@ Contact: **Cyane#6811** on Discord | [Youtube](https://www.youtube.com/channel/U
 
 - - -
 
-## Support the Creator
+### Support the Creator
 
 I wrote a book! If anyone feels particularly generous and wants to support me (Eve), you can find said book for sale on [Amazon](https://www.amazon.com/dp/1702412768).
 
 - - -
 
-## Resources
+### Resources
 
 * [Gear Comparison Tool](http://bit.ly/DRG-Gear-Accurate)\
   Allows you to fill in your current \[Level 80] gear and melds and figure out roughly which set will perform better.
@@ -49,41 +49,41 @@ I wrote a book! If anyone feels particularly generous and wants to support me (E
 
 - - -
 
-## Global Cooldown (GCD) Actions
+### Global Cooldown (GCD) Actions
 
 The bread-and-butter of your rotation, so to speak, these are the buttons you press most frequently. They're broken down into several **combo** chains with various effects and uses.
 
-### The Chaos Thrust Combo
+#### The Chaos Thrust Combo
 
 <img src="/img/tt.png" alt="True Thrust" height="50px"> <img src="/img/de.png" alt="Disembowel" height="50px"> <img src="/img/ct.png" alt="Chaos Thrust" height="50px"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px"> <img src="/img/fc.png" alt="Fang and Claw" height="50px"> 
 
 This combo has our basic damage buff in **Disembowel** alongside our damage-over-time skill, **Chaos Thrust**. These two effects are essential in dishing out proper amounts of damage.
 
-### The Full Thrust Combo
+#### The Full Thrust Combo
 
 <img src="/img/tt.png" alt="True Thrust" height="50px"> <img src="/img/vt.png" alt="Vorpal Thrust" height="50px"> <img src="/img/ft.png" alt="Full Thrust" height="50px"> <img src="/img/fc.png" alt="Fang and Claw" height="50px"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px"> 
 
 This combo uses our strongest weaponskill, **Full Thrust**, and that’s about it. It’s essentially just a filler combo whenever the aforementioned effects are active.
 
-### Raiden Thrust
+#### Raiden Thrust
 
 <img src="/img/rt.png" alt="Raiden Thrust" height="50px"> 
 
 This action functions as a direct upgrade to **True Thrust** after you’ve successfully completed one of the above combos. If you land your proper positional on the **final/fifth hit**, **True Thrust** upgrades to **Raiden Thrust**!
 
-### The Coerthan Torment Combo
+#### The Coerthan Torment Combo
 
 <img src="/img/dos.png" alt="Doom Spike" height="50px"> <img src="/img/sot.png" alt="Sonic Thrust" height="50px"> <img src="/img/cot.png" alt="Coerthan Torment" height="50px"> 
 
 Our new and freshly upgraded area-of-effect combo now packs **Coerthan Torment** as a third hit finisher! This is primarily used when dealing with a group of enemies numbering **three or more**.
 
-### Basic Rotation
+#### Basic Rotation
 
 <img src="/img/tt.png" alt="Raiden Thrust" height="50px"> <img src="/img/de.png" alt="Disembowel" height="50px"> <img src="/img/ct.png" alt="Chaos Thrust" height="50px"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px"> <img src="/img/fc.png" alt="Fang and Claw" height="50px"> <img src="/img/rt.png" alt="Raiden Thrust" height="50px"> <img src="/img/vt.png" alt="Vorpal Thrust" height="50px"> <img src="/img/ft.png" alt="Full Thrust" height="50px"> <img src="/img/fc.png" alt="Fang and Claw" height="50px"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px"> 
 
 Putting all of this together with the timers, we come out with one single string of actions. In general, under normal circumstances, we want to maintain this sequence of GCDs for as long as we are capable!
 
-### The Other Guy
+#### The Other Guy
 
 <img src="/img/pt.png" alt="Piercing Talon" height="50px"> 
 
@@ -91,11 +91,11 @@ Currently not used. You are safe to unmap Piercing Talon from your bar. With us 
 
 - - -
 
-## Positionals
+### Positionals
 
 Several actions in the kit deal more damage from the **Side** of a boss, and several deal more from the **Rear**. You want to be sure to set up to hit these for extra damage whenever possible.
 
-### How do I know if I'm at the **Side** or **Rear** of a target?
+#### How do I know if I'm at the **Side** or **Rear** of a target?
 
 <img src="/img/pos.png" alt="Positionals" style="float:left;" height="220px">
 
@@ -108,15 +108,15 @@ At the bottom of the image, there’s a gap between the two **Sides** of the tar
 
 Some enemies will have the **Side** mark wrapping their entire hitbox, with no arrow to indicate a **Front**. These target rings are special, in that you will get positional bonuses from every action without needing to worry about where you attack from. All the enemies in the Palace of the Dead, for example, have this special targeting ring.
 
-### Side Positionals
+#### Side Positionals
 
 <img src="/img/fc.png" alt="Fang and Claw" height="50px" style="float:left;"> **Fang and Claw** deals 40 more potency from the **Side**.
 
-### Rear Positionals
+#### Rear Positionals
 
 <img src="/img/ct.png" alt="Chaos Thrust" height="50px" style="float:left;"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px" style="float:left;"> **Chaos Thrust** and **Wheeling Thrust** deal 40 more potency from the **Rear**.
 
-### Positional Parity
+#### Positional Parity
 
 The DPS disparity between landing every single positional and **missing** every single positional is approximately 4%. Meaning, if you would do 10,000 dps while hitting every positional, then you would only deal 9,600 if you missed every single one.
 
@@ -136,7 +136,7 @@ In other words: You should *always* strive to land *every* positional in any sit
 
 - - -
 
-## Off-GCD Actions
+### Off-GCD Actions
 
 These actions have individual recast timers, allowing you to so-called “weave” them between your GCDs.
 
@@ -160,7 +160,9 @@ Ideally, you want to press **three Nastrond** before your **Life** timer runs ou
 When the **Life** timer hits 0, you return to **Blood** with 30 seconds remaining.
 
 <img src="/img/std.png" alt="Stardiver" height="50px" style="float:left;"> Additionally, we can utilize **Stardiver** while under the effects of **Life of the Dragon**.\
-We will always use exactly **1 Stardiver** in each sequence.
+We will always use exactly **1 Stardiver** in each sequence.\
+
+<br>
 
 ### One Giant Leap for Dragoon Kind
 
@@ -177,7 +179,8 @@ It should be used whenever available, except in the rare case where you will wan
 
 Stardiver in particular has a **significant** animation lock. When using it, be sure to press it as soon as possible after your GCD. Even with good ping **and** early pressing, you might encounter clipping if your GCD is anywhere below 2.35. Please hear our prayers, Yoshi-P.
 
-<img src="/img/ej.png" alt="Elusive Jump" style="float:left;" height="50px">Elusive Jump does no damage, so it has just one purpose: traveling long distances quickly, either to escape or to get back to the boss.
+<img src="/img/ej.png" alt="Elusive Jump" style="float:left;" height="50px">Elusive Jump does no damage, so it has just one purpose: traveling long distances quickly, either to escape or to get back to the boss.\
+<br>
 
 ### Do-more Damage Buttons
 
@@ -192,7 +195,7 @@ You should always press this button as soon as it’s available.
 
 <img src="/img/pot.png" alt="Potion" style="float:left;" height="50px">**Potions or Tinctures of Strength** are consumable items that boost your outgoing damage by increasing your base Strength score temporarily. In general, these items are optional. Groups may suggest or ask that you use “**Pots**” when running higher-end content.
 
-#### Basic Buff Rotation
+### Basic Buff Rotation
 
 Our buffs fall on timers that function pretty well together in the duration of an encounter. Generally speaking, every **six minutes** our three buffs should automatically re-align. Talking in seconds, our buffs should align like so:
 
