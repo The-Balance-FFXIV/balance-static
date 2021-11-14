@@ -8,9 +8,9 @@ changelog:
   - date: 2021-10-27T17:34:49.525Z
     message: Added
 ---
-# Skills and Abilities Overview
+## Skills and Abilities Overview
 
-## Tank Stance
+### Tank Stance
 
 ![Grit](https://xivapi.com/i/003000/003070_hr1.png) <br> **Grit**
 
@@ -18,7 +18,7 @@ changelog:
 * Multiplies enmity (aggro, hate, etc) generation by ten
 * Keep this on in dungeons or as the current maintank (in content with more than one tank)
 
-## Single Target GCDs
+### Single Target GCDs
 
 ![Hard Slash](https://xivapi.com/i/003000/003051_hr1.png) ![Syphon Strike](https://xivapi.com/i/003000/003054_hr1.png) ![Souleater](https://xivapi.com/i/003000/003055_hr1.png) <br> **Souleater Combo**
 
@@ -33,9 +33,9 @@ changelog:
 * 600 potency
 * Costs 50 Blood
 
-## Abilities (oGCDs)
+### Abilities (oGCDs)
 
-### Buffs
+#### Buffs
 
 ![Blood Weapon](https://xivapi.com/i/003000/003071_hr1.png)
 
