@@ -1,13 +1,13 @@
 ---
 authors:
-  - Balance BLM Staff
+  - Balance-BLM-Staff
 patch: "5.58"
 lastmod: 2021-10-26T01:49:17.817Z
 changelog:
   - date: 2021-10-26T01:49:28.929Z
     message: Added page
 ---
-# PvE actions
+## Actions
 
 
 | Icon                                                                  | Action                 | Level | Type    | MP    | Casting | Recast | Description                                                                                                                                                                 |
@@ -42,7 +42,7 @@ changelog:
 | ![Umbral Soul](https://xivapi.com/i/002000/002666_hr1.png)            | Umbral Soul            | 76    | Spell   | \-    | Instant | 2.5s   | Grants Umbral Ice and 1 Umbral Heart.                                                                                                                                       |
 | ![Xenoglossy](https://xivapi.com/i/002000/002667_hr1.png)             | Xenoglossy             | 80    | Spell   | \-    | Instant | 2.5s   | Deals unaspected damage with a potency of 750. Polyglot Cost: 1                                                                                                             |
 
-# Magic Ranged DPS actions
+## Magic Ranged DPS actions
 
 | Icon                                                          | Action         | Level | Type    | MP | Casting | Recast | Description                                                                                            |
 |---------------------------------------------------------------|----------------|-------|---------|----|---------|--------|--------------------------------------------------------------------------------------------------------|
