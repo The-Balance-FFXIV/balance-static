@@ -12,7 +12,7 @@ theme = "glam"
   [[menu.main]]
     identifier = 'jobs'
     name = 'Combat Jobs'
-    url = '/jobs/'
+    url = '#'
     weight = 10
   [[menu.main]]
     identifier = 'other-jobs'
