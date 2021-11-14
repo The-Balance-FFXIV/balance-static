@@ -1,7 +1,7 @@
 ---
 title: Skills Overview
 authors:
-  - Balance SCH Staff
+  - Balance-SCH-Staff
 patch: "5.58"
 lastmod: 2021-10-26T21:33:54.421Z
 changelog:
