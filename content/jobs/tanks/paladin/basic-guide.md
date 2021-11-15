@@ -437,6 +437,7 @@ Co-tank macros assume your co-tank is in party slot two (default party sorting)
 /micon Intervention
 ```
 
+
 #### Mouseover Cover
 
 ```
@@ -456,6 +457,7 @@ Co-tank macros assume your co-tank is in party slot two (default party sorting)
 /ac Cover <mo>
 /micon Cover
 ```
+
 
 #### Shirk on Co-Tank
 
