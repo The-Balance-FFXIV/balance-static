@@ -2,7 +2,7 @@
 title: Astrologian Advanced Guide
 card_header_image: /img/jobs/ast/ast-advanced-2-.jpg
 authors:
-  - Balance AST Staff
+  - Balance-AST-Staff
 patch: "5.58"
 lastmod: 2021-10-26T21:00:38.570Z
 changelog:

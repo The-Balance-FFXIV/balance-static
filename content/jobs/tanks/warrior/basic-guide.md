@@ -2,7 +2,7 @@
 title: Warrior Basic Guide
 card_header_image: /img/jobs/war/war-basic-guide-1-.jpg
 authors:
-  - Balance WAR Staff
+  - Balance-WAR-Staff
 patch: "5.5"
 lastmod: 2021-10-27T07:48:43.031Z
 changelog:
