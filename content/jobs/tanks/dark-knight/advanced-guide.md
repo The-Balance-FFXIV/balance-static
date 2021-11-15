@@ -1,6 +1,6 @@
 ---
 title: Dark Knight Advanced Guide
-card_header_image: /img/jobs/drk/drk-advanced-1-.jpg
+card_header_image: /img/jobs/drk/advanced.png
 authors:
   - Balance-DRK-Staff
 patch: "5.5"
