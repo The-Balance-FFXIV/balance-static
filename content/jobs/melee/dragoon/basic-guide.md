@@ -387,11 +387,11 @@ The basic idea is to choose between pressing Mirage Dive before or after Geirsko
 
 | Assuming you already have one Eye and High Jump is coming up soon:             |                                                                                                                                                                       | | | |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |-|-|-|
-| If Lance Charge has less than 18 seconds until it's ready, **enter**           | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002591.png) |
-| If, instead, Lance Charge has more than 23 seconds until it's ready, **delay** | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002591.png) |
-| If, instead, Dragon Sight has less than 18 seconds until it's ready, **enter** | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002591.png) |
-| If, instead, Dragon Sight has more than 23 seconds until it's ready, **delay** | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002591.png) |
-| Otherwise, **enter**                                                           | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002591.png) |
+| If Lance Charge has less than 18 seconds until it's ready, **enter**           | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) |
+| If, instead, Lance Charge has more than 23 seconds until it's ready, **delay** | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) |
+| If, instead, Dragon Sight has less than 18 seconds until it's ready, **enter** | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) |
+| If, instead, Dragon Sight has more than 23 seconds until it's ready, **delay** | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) |
+| Otherwise, **enter**                                                           | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) |
 
 #### Delayed First Life
 
@@ -399,31 +399,9 @@ Activating your first Life of the Dragon window as early as possible (on your se
 
 <div align="center">
 
-<img src="/img/hj.png" alt="High Jump" height="20px"> 
-<img src="/img/gsk.png" alt="Geirskogul" height="20px"> 
-<img src="/img/md.png" alt="Mirage Dive" height="20px"> 
-<img src="/img/hj.png" alt="High Jump" height="20px"> 
-<img src="/img/gsk.png" alt="Geirskogul" height="20px"> 
-<img src="/img/md.png" alt="Mirage Dive" height="20px"> 
-<img src="/img/hj.png" alt="High Jump" height="20px"> 
-<img src="/img/gsk.png" alt="Geirskogul" height="20px"> 
-<img src="/img/nas.png" alt="Nastrond" height="20px"> 
-<img src="/img/md.png" alt="Mirage Dive" height="20px"> 
-<img src="/img/nas.png" alt="Nastrond" height="20px"> 
-<img src="/img/lc.png" alt="Lance Charge" height="20px"> 
-<img src="/img/hj.png" alt="High Jump" height="20px"> 
-<img src="/img/std.png" alt="Stardiver" height="20px">
-<img src="/img/nas.png" alt="Nastrond" height="20px"> 
-<img src="/img/md.png" alt="Mirage Dive" height="20px"> 
-<img src="/img/gsk.png" alt="Geirskogul" height="20px"> 
-<img src="/img/nas.png" alt="Nastrond" height="20px"> 
-<img src="/img/ds.png" alt="Dragon Sight" height="20px">
-<img src="/img/nas.png" alt="Nastrond" height="20px"> 
-<img src="/img/hj.png" alt="High Jump" height="20px"> 
-<img src="/img/std.png" alt="Stardiver" height="20px">
-<img src="/img/nas.png" alt="Nastrond" height="20px"> 
-<img src="/img/gsk.png" alt="Geirskogul" height="20px">
-<img src="/img/md.png" alt="Mirage Dive" height="20px"> 
+| | | | | | | | | | | | | | | | | | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002589.png) |  ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/000000/000309.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002593.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002587.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002593.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png)| 
 
 As you can see, we just keep shooting off Geirskogul before Mirage Dive until entering our first Life around 20s ahead of our second Lance Charge usage, so we get one Nastrond and Stardiver under it. Entering the next one as soon as possible (by using Mirage Dive before Geirskogul this time) allows us to get a second Nastrond under that Lance Charge and then two under the subsequent Dragon Sight (along with the Stardiver).
 
@@ -434,13 +412,17 @@ In **most** cases, this is the optimal way to handle the first two cycles. Below
 Because our buff actions fall into a rather static rotation (as seen above), we can extrapolate these concepts over the course of six minutes and get a general “Life of the Dragon Rotation” so to speak, which shows us when we hold it and when we don’t. This will **only** hold true if we have **six minutes** of continuous uptime - that is, we **can** land every one of the High Jump, Geirskogul, Mirage Dive, Nastrond, and Stardiver hits listed in this visual representation, while ideally dropping zero GCDs in that same window. As such, it is very rarely ever going to be the optimal approach, and the above chart will serve you better in most situations.
 
 <div align="center">
-<img src="/img/life_rota.png" alt="Life Rotation"> 
+
+![](/img/life_rota.png)
 
 After the final buff window, the rotation repeats from the 30s column, quite obviously.
 
 As you can see, the only place we currently even employ this strategy is for our very first Life entry. After that, we just let the skills fall where they may and they naturally align neatly with buff windows. Keep in mind that this could change if a boss jumps out of the arena at an odd time, so you should still learn the general idea behind the priority system!
 
-#### <img src="/img/ds.png" alt="Dragon Sight" height="20px">Dragon Sight<img src="/img/ds.png" alt="Dragon Sight" height="20px">
+#### 
+| | | |
+|-|-|-|
+|![](https://xivapi.com/i/002000/002587.png) | Dragon Sight | ![](https://xivapi.com/i/002000/002587.png)|
 
 You need to be close to the target of your affections to properly give them a buff. If **the target** moves away from you, however, **you will retain your buff**. So it’s really only their loss. You can usually just worry about activating the skill and then stop worrying about whether or not it stays on your target. As of this expansion, you can now activate the skill **without a target**, though this is **NOT RECOMMENDED**, because you will only receive the 10% damage buff, and the 5% buff will be lost for that use, completely. No one gets it.
 
@@ -541,7 +523,8 @@ The 2.50 set provides you with a particularly slow GCD speed, which is favored q
 
 Below is a graph comparing the total DPS of each of the three above sets over time. I’ve clipped out the opener to avoid having a super zoomed out graph to show the peaks (which are around 30,000, in case you were curious). Please note that the Y-Axis only shows values from 18,250 to 20,500 which results in seeing huge gaps between the mins and maxes which make the variation appear to be much larger than it actually is.
 
- <img src="/img/graph.png" alt="DPS Graph" height="400px"> 
+![](/img/graph.png) 
+
 
 ### How Fast Can We Go?
 
