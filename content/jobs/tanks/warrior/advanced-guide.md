@@ -1,6 +1,6 @@
 ---
 title: Warrior Advanced Guide
-card_header_image: /img/jobs/war/war-advanced-1-.jpg
+card_header_image: /img/jobs/war/advanced.png
 authors:
   - Balance-WAR-Staff
 patch: "5.58"
