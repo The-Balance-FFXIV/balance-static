@@ -67,7 +67,7 @@ This combo has our basic damage buff in **Disembowel** alongside our damage-over
 
 |**True Thrust >** | **Vorpal Thrust >** | **Full Thrust >** | **Fang and Claw >** | **Wheeling Thrust**|
 |-|-|-|-|-|
-|<img src="/img/tt.png" alt="True Thrust" height="50px"> | <img src="/img/vt.png" alt="Vorpal Thrust" height="50px"> | <img src="/img/ft.png" alt="Full Thrust" height="50px"> | <img src="/img/fc.png" alt="Fang and Claw" height="50px"> | <img src="/img/wt.png" alt="Wheeling Thrust" height="50px">| 
+|![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png)| 
 
 This combo uses our strongest weaponskill, **Full Thrust**, and that’s about it. It’s essentially just a filler combo whenever the aforementioned effects are active.
 
