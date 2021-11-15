@@ -1,5 +1,6 @@
 ---
 title: Ninja Leveling Guide
+card_header_image: /img/jobs/nin/nin-leveling-1-.jpg
 authors:
   - Balance-NIN-Staff
 patch: "5.58"
