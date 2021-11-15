@@ -136,10 +136,8 @@ In other words: You should *always* strive to land *every* positional in any sit
    **It is not the end of the world if your group stacks on the face of the boss.
    The DPS loss is not worth causing wipes over.**
 
-- - -
-
-
-### Off-GCD Actions
+- - -   
+OFF-GCD Actions
 
 These actions have individual recast timers, allowing you to so-called “weave” them between your GCDs.
 
