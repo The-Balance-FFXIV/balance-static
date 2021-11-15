@@ -349,11 +349,13 @@ The default order for the **Attacks** puts Spineshatter Dive as a buffer skill b
 Disengaging from the target can cause your rotation to get forcibly shifted around. When re-engaging (be it after forced disengages or because you felt like taking a lap around the arena), you always only have two options for what you will lead with. Nothing particularly changes, either way, since your ten-GCD sequence will never actually shift.
 
 1. Disembowel has less than 10 seconds remaining
+
 | | | | | |
 |-|-|-|-|-|   
 |![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png)|
 
 2. Disembowel has more than 10 seconds remaining
+
 | | | | | |
 |-|-|-|-|-|
 |![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png)|
@@ -364,13 +366,13 @@ The only exception to this rule is if you are going to hit an off-GCD action in 
 
 ### Action specifics
 
-#### <img src="/img/gsk.png" alt="Geirskogul" height="20px">Geirskogul<img src="/img/gsk.png" alt="Geirskogul" height="20px"> and <img src="/img/nas.png" alt="Nastrond" height="20px">Nastrond<img src="/img/nas.png" alt="Nastrond" height="20px">
+#### ![](https://xivapi.com/i/002000/002583.png) Geirskogul ![](https://xivapi.com/i/002000/002583.png) and ![](https://xivapi.com/i/002000/002589.png) Nastrond ![](https://xivapi.com/i/002000/002589.png)
 
 The general cycle for Life of the Dragon is very straightforward:
 
 <div align="center">
 
-| <img src="/img/hj.png" alt="High Jump" height="30px"> | <img src="/img/gsk.png" alt="Geirskogul" height="30px"> | <img src="/img/md.png" alt="Mirage Dive" height="30px"> | \>30s> | <img src="/img/hj.png" alt="High Jump" height="30px"> | <img src="/img/md.png" alt="Mirage Dive" height="30px"> | <img src="/img/gsk.png" alt="Geirskogul" height="30px"> | <img src="/img/nas.png" alt="Nastrond" height="30px"> | <img src="/img/std.png" alt="Stardiver" height="30px"> | \>10s> | <img src="/img/nas.png" alt="Nastrond" height="30px"> | \>10s> | <img src="/img/nas.png" alt="Nastrond" height="30px"> | repeat |
+| ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) | \>30s> | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002593.png) | \>10s> | ![](https://xivapi.com/i/002000/002589.png) | \>10s> | ![](https://xivapi.com/i/002000/002589.png) | repeat |
 | ----------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- | ------ | ----------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------ | ------ | ----------------------------------------------------- | ------ | ----------------------------------------------------- | ------ |
 |                                                       |                                                         | 1                                                       |        |                                                       | 2                                                       | Life                                                    |                                                       |                                                        |        |                                                       |        |                                                       |        |
 
