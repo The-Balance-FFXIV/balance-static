@@ -124,7 +124,7 @@ Some enemies will have the **Side** mark wrapping their entire hitbox, with no a
 **Fang and Claw** deals 40 more potency from the **Side**.
 
 #### Rear Positionals
-
+![](https://xivapi.com/i/000000/000308_hr1.png)
 ![](https://xivapi.com/i/002000/002584_hr1.png)\
  **Chaos Thrust** and **Wheeling Thrust** deal 40 more potency from the **Rear**.
 
