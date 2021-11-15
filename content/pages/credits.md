@@ -10,7 +10,7 @@ menu:
 
 * Nono
 * Skye
-* ScrubbyDuck
+* Scrubby
 * OHaiDanny
 * Roxas
 * SneakyCrow
