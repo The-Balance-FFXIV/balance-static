@@ -154,7 +154,7 @@ Under normal circumstances, it should never fall off.
 <img src="/img/gsk.png" alt="Geirskogul" height="50px" style="float:left;"> **Geirskogul** can only be used under **Blood of the Dragon**, and when you press it with\
 **two** **Dragon Eyes** open, we enter **Life of the Dragon**.
 
-<img src="/img/life.png" alt="Life of the Dragon"> 
+![](/static/img/life.png" alt="Life of the Dragon"> 
 
 <img src="/img/nas.png" alt="Nastrond" height="50px" style="float:left;"> Under **Life of the Dragon**, **Geirskogul** becomes **Nastrond**.\
 Ideally, you want to press **three Nastrond** before your **Life** timer runs out.\
