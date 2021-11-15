@@ -412,13 +412,17 @@ In **most** cases, this is the optimal way to handle the first two cycles. Below
 Because our buff actions fall into a rather static rotation (as seen above), we can extrapolate these concepts over the course of six minutes and get a general “Life of the Dragon Rotation” so to speak, which shows us when we hold it and when we don’t. This will **only** hold true if we have **six minutes** of continuous uptime - that is, we **can** land every one of the High Jump, Geirskogul, Mirage Dive, Nastrond, and Stardiver hits listed in this visual representation, while ideally dropping zero GCDs in that same window. As such, it is very rarely ever going to be the optimal approach, and the above chart will serve you better in most situations.
 
 <div align="center">
-<img src="/img/life_rota.png" alt="Life Rotation"> 
+
+![](/img/life_rota.png)
 
 After the final buff window, the rotation repeats from the 30s column, quite obviously.
 
 As you can see, the only place we currently even employ this strategy is for our very first Life entry. After that, we just let the skills fall where they may and they naturally align neatly with buff windows. Keep in mind that this could change if a boss jumps out of the arena at an odd time, so you should still learn the general idea behind the priority system!
 
-#### <img src="/img/ds.png" alt="Dragon Sight" height="20px">Dragon Sight<img src="/img/ds.png" alt="Dragon Sight" height="20px">
+#### 
+| | | |
+|-|-|-|
+|![](https://xivapi.com/i/002000/002587.png) | Dragon Sight | ![](https://xivapi.com/i/002000/002587.png)|
 
 You need to be close to the target of your affections to properly give them a buff. If **the target** moves away from you, however, **you will retain your buff**. So it’s really only their loss. You can usually just worry about activating the skill and then stop worrying about whether or not it stays on your target. As of this expansion, you can now activate the skill **without a target**, though this is **NOT RECOMMENDED**, because you will only receive the 10% damage buff, and the 5% buff will be lost for that use, completely. No one gets it.
 
@@ -519,7 +523,8 @@ The 2.50 set provides you with a particularly slow GCD speed, which is favored q
 
 Below is a graph comparing the total DPS of each of the three above sets over time. I’ve clipped out the opener to avoid having a super zoomed out graph to show the peaks (which are around 30,000, in case you were curious). Please note that the Y-Axis only shows values from 18,250 to 20,500 which results in seeing huge gaps between the mins and maxes which make the variation appear to be much larger than it actually is.
 
- <img src="/img/graph.png" alt="DPS Graph" height="400px"> 
+![](/img/graph.png) 
+
 
 ### How Fast Can We Go?
 
