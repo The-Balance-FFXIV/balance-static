@@ -1,7 +1,7 @@
 ---
 title: Dark Knight Skills Overview
 authors:
-  - Balance DRK Staff
+  - Balance-DRK-Staff
 patch: "5.5"
 lastmod: 2021-10-27T17:34:19.148Z
 changelog:
