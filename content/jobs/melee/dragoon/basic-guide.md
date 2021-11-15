@@ -144,7 +144,7 @@ These actions have individual recast timers, allowing you to so-called â€œweaveâ
 
 ### Dragon Spaghetti
 
- <img src="/img/blood.png" alt="Dragon Gauge"> 
+![](/img/blood.png)
 
 <img src="/img/botd.png" alt="Blood of the Dragon" height="50px" style="float:left;"> **Blood of the Dragon** is our primary mechanic.\
 Under normal circumstances, it should never fall off.
@@ -400,7 +400,6 @@ Because our buff actions fall into a rather static rotation (as seen above), we 
 <img src="/img/life_rota.png" alt="Life Rotation"> 
 
 After the final buff window, the rotation repeats from the 30s column, quite obviously.
- 
 
 As you can see, the only place we currently even employ this strategy is for our very first Life entry. After that, we just let the skills fall where they may and they naturally align neatly with buff windows. Keep in mind that this could change if a boss jumps out of the arena at an odd time, so you should still learn the general idea behind the priority system!
 
