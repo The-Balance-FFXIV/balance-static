@@ -1,5 +1,6 @@
 ---
 title: Monk Basic Guide
+card_header_image: /img/jobs/mnk/mnk-basic-guide-1-.jpg
 authors:
   - Perfect-Balance
 patch: "5.58"
