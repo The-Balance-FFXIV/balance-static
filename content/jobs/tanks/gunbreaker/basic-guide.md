@@ -1,6 +1,6 @@
 ---
 title: Gunbreaker Basic Guide
-card_header_image: /img/jobs/gnb/gnb-basic-guide-1-.jpg
+card_header_image: /img/jobs/gnb/basic.png
 authors:
   - ToraelValdis
 patch: "5.58"
