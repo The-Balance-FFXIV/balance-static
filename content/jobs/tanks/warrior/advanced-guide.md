@@ -1,5 +1,5 @@
 ---
-title: WAR Advanced Guide
+title: Warrior Advanced Guide
 card_header_image: /img/jobs/war/war-advanced-1-.jpg
 authors:
   - Balance-WAR-Staff
