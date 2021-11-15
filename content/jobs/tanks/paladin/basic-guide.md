@@ -17,7 +17,8 @@ changelog:
 
 ### Buffs
 
-**Iron Will**<br>![](https://xivapi.com/i/002000/002505_hr1.png)
+**Iron Will**
+![](https://xivapi.com/i/002000/002505_hr1.png)
 
 Toggle | 10s cooldown after toggling on. | No cooldown for toggling off.
 
@@ -25,7 +26,8 @@ Increases enmity generation by 10x (Enmity is also known as aggro, hate, etc.).
 
 Keep this on in dungeons or as the main tank (in content with more than one tank).
 
-**Fight or Flight**<br>![](https://xivapi.com/i/000000/000166_hr1.png)
+**Fight or Flight**
+![](https://xivapi.com/i/000000/000166_hr1.png)
 
 60s cooldown.
 
@@ -33,7 +35,8 @@ Keep this on in dungeons or as the main tank (in content with more than one tank
 
 By using Fight or Flight late into the GCD (just before the next GCD), it is possible to fit 11 physical GCDs into the buff window.
 
-**Requiescat**<br>![](https://xivapi.com/i/002000/002513_hr1.png)
+**Requiescat**
+![](https://xivapi.com/i/002000/002513_hr1.png)
 
 60s cooldown.
 
@@ -75,7 +78,8 @@ The DoT portion snapshots buffs and debuffs when Goring Blade is cast.
 
 (Upgrades from Rage of Halone).
 
-**Atonement**<br>![](https://xivapi.com/i/002000/002519_hr1.png)
+**Atonement**
+![](https://xivapi.com/i/002000/002519_hr1.png)
 
 550 potency (physical)
 
@@ -83,13 +87,15 @@ Costs one Sword Oath.
 
 +400 MP
 
-**Holy Spirit**<br>![](https://xivapi.com/i/002000/002514_hr1.png)
+**Holy Spirit**
+![](https://xivapi.com/i/002000/002514_hr1.png)
 
 350 potency (magical) | 1.5s cast time
 
 Costs 2000 MP.
 
-**Confiteor**<br>![](https://xivapi.com/i/002000/002518_hr1.png)
+**Confiteor**
+![](https://xivapi.com/i/002000/002518_hr1.png)
 
 800 potency (magical damage).
 
@@ -101,7 +107,8 @@ Requires and consumes the Requiescat buff.
 
 ### Offensive Abilities (oGCDs)
 
-**Spirits Within**<br>![](https://xivapi.com/i/002000/002503_hr1.png)
+**Spirits Within**
+![](https://xivapi.com/i/002000/002503_hr1.png)
 
 100-370 potency depending on current HP (physical damage). | 30s cooldown.
 
@@ -109,13 +116,15 @@ Scales linearly from 100 potency at 1 HP to 370 potency at max HP.
 
 +500 MP
 
-**Circle of Scorn**<br>![](https://xivapi.com/i/000000/000161_hr1.png)
+**Circle of Scorn**
+![](https://xivapi.com/i/000000/000161_hr1.png)
 
 120 potency + 175 potency DoT over 15 seconds (physical damage). | 25s cooldown.
 
 AoE centered on self.
 
-**Intervene**<br>![](https://xivapi.com/i/002000/002520_hr1.png)
+**Intervene**
+![](https://xivapi.com/i/002000/002520_hr1.png)
 
 200 potency (physical damage). | 2 charges.
 
@@ -123,19 +132,22 @@ AoE centered on self.
 
 ### Defensive and Utility Abilities
 
-**Rampart**<br>![](https://xivapi.com/i/000000/000801_hr1.png)
+**Rampart**
+![](https://xivapi.com/i/000000/000801_hr1.png)
 
 20% damage reduction.
 
 20s duration | 90s cooldown
 
-**Sentinel**<br>![](https://xivapi.com/i/000000/000151_hr1.png)
+**Sentinel**
+![](https://xivapi.com/i/000000/000151_hr1.png)
 
 30% damage reduction.
 
 15s duration | 120s cooldown
 
-**Sheltron**<br>![](https://xivapi.com/i/002000/002510_hr1.png)
+**Sheltron**
+![](https://xivapi.com/i/002000/002510_hr1.png)
 
 Guarantees blocks.
 
@@ -145,7 +157,8 @@ Guarantees blocks.
 
 Costs 50 Oath Gauge, which is generated at a rate of 50 per ~23s.
 
-**Passage of Arms**<br>![](https://xivapi.com/i/002000/002515_hr1.png)
+**Passage of Arms**
+![](https://xivapi.com/i/002000/002515_hr1.png)
 
 Channel for up to 18 seconds.
 
@@ -157,19 +170,22 @@ Provides 15% damage reduction to party members behind you (lasts at least 5s, [s
 
 Cancelled by taking any action (including turning your character).
 
-**Divine Veil**<br>![](https://xivapi.com/i/002000/002508_hr1.png)
+**Divine Veil**
+![](https://xivapi.com/i/002000/002508_hr1.png)
 
 If you receive a GCD heal from anybody in the next 30s, party members near you get a shield for 10% of your HP
 
 Shield duration: 30s | 90s cooldown
 
-**Reprisal**<br>![](https://xivapi.com/i/000000/000806_hr1.png)
+**Reprisal**
+![](https://xivapi.com/i/000000/000806_hr1.png)
 
 10% damage down to nearby enemies
 
 10s duration | 60s cooldown
 
-**Intervention**<br>![](https://xivapi.com/i/002000/002512_hr1.png)
+**Intervention**
+![](https://xivapi.com/i/002000/002512_hr1.png)
 
 10% damage reduction
 
@@ -187,12 +203,13 @@ Redirect most damage and knockbacks on the covered target to you (exceptions exi
 
 Uses your buffs/debuffs (except Hallowed Ground) to calculate damage and ignores the covered target's
 
-**Provoke** <br>
+**Provoke**
 ![](https://xivapi.com/i/000000/000803_hr1.png)
 
 Instantly gives you top enmity on the target with a significant enmity lead (this enmity lead is affected by Iron Will)
 
-**Shirk**<br>![](https://xivapi.com/i/000000/000810_hr1.png)
+**Shirk**
+![](https://xivapi.com/i/000000/000810_hr1.png)
 
 120s cooldown
 
@@ -200,7 +217,8 @@ Takes 25% of your enmity and gives it to target party member.
 
 Affects everything on the enemy list.
 
-**Arm's Length**<br>![](https://xivapi.com/i/000000/000822_hr1.png)
+**Arm's Length**
+![](https://xivapi.com/i/000000/000822_hr1.png)
 
 6s duration | 120s cooldown
 
@@ -210,7 +228,11 @@ Applies a 20% auto-attack and cast time slow for 15s to enemies that attack you 
 
 ### AoE GCDs
 
-**Prominence Combo**<br>![](https://xivapi.com/i/002000/002511_hr1.png)![](https://xivapi.com/i/002000/002516_hr1.png)
+**Prominence Combo**
+
+|**Total Eclipse >** | **Prominence**|
+|-|-|
+|![](https://xivapi.com/i/002000/002511_hr1.png) | ![](https://xivapi.com/i/002000/002516_hr1.png)|
 
 120 > 220 potency (physical damage).
 
