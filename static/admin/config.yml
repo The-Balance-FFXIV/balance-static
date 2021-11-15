@@ -85,6 +85,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Job Name", name: "job_name", widget: "select", options: ["warrior"], default: ["warrior"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/tanks/warrior/leveling-guide.md"
@@ -291,15 +292,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - label: "Author(s)"
-            name: "authors"
-            widget: "relation"
-            required: false
-            multiple: true
-            collection: "author-profile"
-            search_fields: ["username", "name"]
-            value_field: "username"
-            display_fields: ["username", "name"]
+          - {label: "Job Name", name: "job_name", widget: "select", options: ["paladin"], default: ["paladin"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/tanks/paladin/leveling-guide.md"
@@ -506,15 +499,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - label: "Author(s)"
-            name: "authors"
-            widget: "relation"
-            required: false
-            multiple: true
-            collection: "author-profile"
-            search_fields: ["username", "name"]
-            value_field: "username"
-            display_fields: ["username", "name"]
+          - {label: "Job Name", name: "job_name", widget: "select", options: ["dark_knight"], default: ["dark_knight"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/tanks/dark-knight/leveling-guide.md"
@@ -721,15 +706,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - label: "Author(s)"
-            name: "authors"
-            widget: "relation"
-            required: false
-            multiple: true
-            collection: "author-profile"
-            search_fields: ["username", "name"]
-            value_field: "username"
-            display_fields: ["username", "name"]
+          - {label: "Job Name", name: "job_name", widget: "select", options: ["gunbreaker"], default: ["gunbreaker"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/tanks/gunbreaker/leveling-guide.md"
@@ -936,15 +913,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - label: "Author(s)"
-            name: "authors"
-            widget: "relation"
-            required: false
-            multiple: true
-            collection: "author-profile"
-            search_fields: ["username", "name"]
-            value_field: "username"
-            display_fields: ["username", "name"]
+          - {label: "Job Name", name: "job_name", widget: "select", options: ["white_mage"], default: ["white_mage"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/healers/white-mage/leveling-guide.md"
@@ -1151,15 +1120,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - label: "Author(s)"
-            name: "authors"
-            widget: "relation"
-            required: false
-            multiple: true
-            collection: "author-profile"
-            search_fields: ["username", "name"]
-            value_field: "username"
-            display_fields: ["username", "name"]
+          - {label: "Job Name", name: "job_name", widget: "select", options: ["scholar"], default: ["scholar"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/healers/scholar/leveling-guide.md"
@@ -1366,15 +1327,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - label: "Author(s)"
-            name: "authors"
-            widget: "relation"
-            required: false
-            multiple: true
-            collection: "author-profile"
-            search_fields: ["username", "name"]
-            value_field: "username"
-            display_fields: ["username", "name"]
+          - {label: "Job Name", name: "job_name", widget: "select", options: ["astrologian"], default: ["astrologian"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/healers/astrologian/leveling-guide.md"
@@ -1581,15 +1534,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - label: "Author(s)"
-            name: "authors"
-            widget: "relation"
-            required: false
-            multiple: true
-            collection: "author-profile"
-            search_fields: ["username", "name"]
-            value_field: "username"
-            display_fields: ["username", "name"]
+          - {label: "Job Name", name: "job_name", widget: "select", options: ["sage"], default: ["sage"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/healers/sage/leveling-guide.md"
@@ -1796,15 +1741,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - label: "Author(s)"
-            name: "authors"
-            widget: "relation"
-            required: false
-            multiple: true
-            collection: "author-profile"
-            search_fields: ["username", "name"]
-            value_field: "username"
-            display_fields: ["username", "name"]
+          - {label: "Job Name", name: "job_name", widget: "select", options: ["dragoon"], default: ["dragoon"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/melee/dragoon/leveling-guide.md"
@@ -2011,15 +1948,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - label: "Author(s)"
-            name: "authors"
-            widget: "relation"
-            required: false
-            multiple: true
-            collection: "author-profile"
-            search_fields: ["username", "name"]
-            value_field: "username"
-            display_fields: ["username", "name"]
+          - {label: "Job Name", name: "job_name", widget: "select", options: ["reaper"], default: ["reaper"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/melee/reaper/leveling-guide.md"
@@ -2226,15 +2155,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - label: "Author(s)"
-            name: "authors"
-            widget: "relation"
-            required: false
-            multiple: true
-            collection: "author-profile"
-            search_fields: ["username", "name"]
-            value_field: "username"
-            display_fields: ["username", "name"]
+          - {label: "Job Name", name: "job_name", widget: "select", options: ["samurai"], default: ["samurai"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/melee/samurai/leveling-guide.md"
@@ -2441,15 +2362,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - label: "Author(s)"
-            name: "authors"
-            widget: "relation"
-            required: false
-            multiple: true
-            collection: "author-profile"
-            search_fields: ["username", "name"]
-            value_field: "username"
-            display_fields: ["username", "name"]
+          - {label: "Job Name", name: "job_name", widget: "select", options: ["monk"], default: ["monk"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/melee/monk/leveling-guide.md"
@@ -2656,15 +2569,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - label: "Author(s)"
-            name: "authors"
-            widget: "relation"
-            required: false
-            multiple: true
-            collection: "author-profile"
-            search_fields: ["username", "name"]
-            value_field: "username"
-            display_fields: ["username", "name"]
+          - {label: "Job Name", name: "job_name", widget: "select", options: ["ninja"], default: ["ninja"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/melee/ninja/leveling-guide.md"
@@ -2871,15 +2776,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - label: "Author(s)"
-            name: "authors"
-            widget: "relation"
-            required: false
-            multiple: true
-            collection: "author-profile"
-            search_fields: ["username", "name"]
-            value_field: "username"
-            display_fields: ["username", "name"]
+          - {label: "Job Name", name: "job_name", widget: "select", options: ["machinist"], default: ["machinist"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/ranged/machinist/leveling-guide.md"
@@ -3086,15 +2983,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - label: "Author(s)"
-            name: "authors"
-            widget: "relation"
-            required: false
-            multiple: true
-            collection: "author-profile"
-            search_fields: ["username", "name"]
-            value_field: "username"
-            display_fields: ["username", "name"]
+          - {label: "Job Name", name: "job_name", widget: "select", options: ["dancer"], default: ["dancer"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/ranged/dancer/leveling-guide.md"
@@ -3301,15 +3190,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - label: "Author(s)"
-            name: "authors"
-            widget: "relation"
-            required: false
-            multiple: true
-            collection: "author-profile"
-            search_fields: ["username", "name"]
-            value_field: "username"
-            display_fields: ["username", "name"]
+          - {label: "Job Name", name: "job_name", widget: "select", options: ["bard"], default: ["bard"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/ranged/bard/leveling-guide.md"
@@ -3516,15 +3397,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - label: "Author(s)"
-            name: "authors"
-            widget: "relation"
-            required: false
-            multiple: true
-            collection: "author-profile"
-            search_fields: ["username", "name"]
-            value_field: "username"
-            display_fields: ["username", "name"]
+          - {label: "Job Name", name: "job_name", widget: "select", options: ["black_mage"], default: ["black_mage"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/casters/black-mage/leveling-guide.md"
@@ -3731,15 +3604,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - label: "Author(s)"
-            name: "authors"
-            widget: "relation"
-            required: false
-            multiple: true
-            collection: "author-profile"
-            search_fields: ["username", "name"]
-            value_field: "username"
-            display_fields: ["username", "name"]
+          - {label: "Job Name", name: "job_name", widget: "select", options: ["summoner"], default: ["summoner"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/casters/summoner/leveling-guide.md"
@@ -3946,15 +3811,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - label: "Author(s)"
-            name: "authors"
-            widget: "relation"
-            required: false
-            multiple: true
-            collection: "author-profile"
-            search_fields: ["username", "name"]
-            value_field: "username"
-            display_fields: ["username", "name"]
+          - {label: "Job Name", name: "job_name", widget: "select", options: ["red_mage"], default: ["red_mage"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/casters/red-mage/leveling-guide.md"
