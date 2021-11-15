@@ -130,9 +130,9 @@ Your filler GCDs, which you press if you don’t need to use any other GCDs, are
 
 ### DoTs
 
-![stormbite](https://xivapi.com/i/002000/002614_hr1.png)
-![caustic bite](https://xivapi.com/i/002000/002613_hr1.png)
-![iron jaws](https://xivapi.com/i/002000/002608_hr1.png)
+|**Stormbite** | **Caustic Bite** | **Iron Jaws**|
+|-|-|-|
+|![stormbite](https://xivapi.com/i/002000/002614_hr1.png) | ![caustic bite](https://xivapi.com/i/002000/002613_hr1.png) | ![iron jaws](https://xivapi.com/i/002000/002608_hr1.png)| 
 
 Just about everything else in Bard’s kit is built on top of your two damage over time skills.  These two are **Stormbite (SB)** and **Caustic Bite (CB)**.  Together, they contribute a major amount of Bard’s damage, in addition to unlocking the song procs (foreshadowing!)  Against a single target enemy, it’s almost always best to have both always up.  Most of the time, you will lead off on targets with SB into CB.
 
@@ -163,9 +163,9 @@ The order of using songs is **WM for 30s → MB for 30s → AP for 20s** (cuttin
 
 ### Wanderer’s Minuet + Raging Strikes + Barrage Alignment
 
-![WM icon](https://xivapi.com/i/002000/002607_hr1.png) 
-![raging strikes](https://xivapi.com/i/000000/000352_hr1.png)
-![barrage](https://xivapi.com/i/000000/000353_hr1.png)
+|**Wanderer's Minuet** | **Raging Strikes** | **Barrage**|
+|-|-|-|
+|![WM icon](https://xivapi.com/i/002000/002607_hr1.png) | ![raging strikes](https://xivapi.com/i/000000/000352_hr1.png) | ![barrage](https://xivapi.com/i/000000/000353_hr1.png)|
 
 **Barrage** is our most powerful single oGCD, transforming our next filler GCD into a triple-damage RA. **Raging Strikes (RS)** is our only self-buff. **WM** is our most powerful song. Conveniently, all three have a cooldown of 80 seconds, so we use them all together.
 
@@ -328,8 +328,9 @@ As a minor note, the devs seem to like putting 25s+ downtimes in fights. In such
 
 ### Procs in WM
 
-![wm](https://xivapi.com/i/002000/002607_hr1.png)
-![pp](https://xivapi.com/i/002000/002611_hr1.png)
+|**WM** | **PP**|
+|-|-|
+|![wm](https://xivapi.com/i/002000/002607_hr1.png) | ![pp](https://xivapi.com/i/002000/002611_hr1.png)|
 
 Unlike in Stormblood, there’s no way to raise the proc chance above 60%, so in general you should use Pitch Perfect at three stacks. Like in SB, **use PP2 early if you know you have an EA coming up next GCD concurrently with the DoT tick, or if the song is imminently ending.** This is especially important if your 2nd EA in WM is in the last few seconds, so you have PP available to make use of the guaranteed proc. If you are using EA very close to on cooldown, this will happen during your second WM! Be ready to use a PP2 at ~5s left on that second WM.
 
@@ -339,8 +340,9 @@ There’s no longer a need to triple weave Barrage EA PP. Avoid that triple weav
 
 ### Procs in MB
 
-![mb](https://xivapi.com/i/002000/002602_hr1.png)
-![bloodletter](https://xivapi.com/i/000000/000361_hr1.png)
+|**MB** | **Bloodletter**|
+|-|-|
+|![mb](https://xivapi.com/i/002000/002602_hr1.png) | ![bloodletter](https://xivapi.com/i/000000/000361_hr1.png)|
 
 MB is a delicate dance between not losing procs, using EA on cooldown, and not clipping. At the very least, **it’s important to understand how the DoT timer works relative to the GCD timer.**
 
@@ -352,9 +354,9 @@ Using EA in MB can be tricky if you want to avoid losing procs. Here’s where i
 
 ### Song Transitions
 
-![WM icon](https://xivapi.com/i/002000/002607_hr1.png) 
-![mb icon](https://xivapi.com/i/002000/002602_hr1.png)
-![AP icon](https://xivapi.com/i/002000/002603_hr1.png)
+|**WM** | **MB** | **AP**|
+|-|-|-|
+|![WM icon](https://xivapi.com/i/002000/002607_hr1.png) | ![mb icon](https://xivapi.com/i/002000/002602_hr1.png) | ![AP icon](https://xivapi.com/i/002000/002603_hr1.png)|
 
 Due to the addition of Soul Voice, it’s more important than ever to minimize the amount of songless time, and avoid letting DoT ticks fall in songless time.
 
