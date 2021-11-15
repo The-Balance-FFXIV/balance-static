@@ -1,6 +1,6 @@
 ---
 title: Dragoon Leveling Guide
-card_header_image: /img/jobs/drg/drg-leveling-1-.jpg
+card_header_image: /img/jobs/drg/leveling.png
 authors:
   - Balance-DRG-Staff
 patch: "5.58"
