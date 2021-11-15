@@ -1,6 +1,6 @@
 ---
 title: White Mage Advanced Guide
-card_header_image: /img/jobs/whm/whm-advanced-1-.jpg
+card_header_image: /img/jobs/whm/advanced.png
 authors:
   - Balance-WHM-Staff
 patch: "5.58"
