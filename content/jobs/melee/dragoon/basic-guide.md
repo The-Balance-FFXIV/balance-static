@@ -57,7 +57,9 @@ The bread-and-butter of your rotation, so to speak, these are the buttons you pr
 
 #### The Chaos Thrust Combo
 
-<img src="/img/tt.png" alt="True Thrust" height="50px"> <img src="/img/de.png" alt="Disembowel" height="50px"> <img src="/img/ct.png" alt="Chaos Thrust" height="50px"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px"> <img src="/img/fc.png" alt="Fang and Claw" height="50px"> 
+|**True Thrust >** | **Vorpal Thrust >** | **Chaos Thrust >** | **Wheeling Thrust >** | **Fang and Claw**|
+|-|-|-|-|-|
+|![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) |  ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png)|  
 
 This combo has our basic damage buff in **Disembowel** alongside our damage-over-time skill, **Chaos Thrust**. These two effects are essential in dishing out proper amounts of damage.
 
