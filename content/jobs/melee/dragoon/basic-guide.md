@@ -1,6 +1,6 @@
 ---
 title: Dragoon Basic Guide
-card_header_image: /img/jobs/drg/mask-group-4.png
+card_header_image: /img/jobs/drg/basic.png
 authors:
   - Balance-DRG-Staff
 patch: "5.58"
