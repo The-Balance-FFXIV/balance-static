@@ -13,7 +13,7 @@ changelog:
 
 Machinist is a fast-paced physical ranged job that excels at quick burst damage and has the added benefit of free movement. While the base rotation for this job is somewhat strict, Machinist excels in dumping burst into raid buffs with flexible use of its gauge system. This guide’s aim is to break down the job’s rotation into something easy to digest while providing good practices to follow for overall gameplay.
 
-If you’re new to the job and would just like a basic overview of Machinist during the leveling process, [click here](https://guides.xivresources.com/jobs/ranged/machinist/leveling-guide/).
+If you’re new to the job and would just like a basic overview of Machinist during the leveling process, [click here](/jobs/ranged/machinist/leveling-guide/).
 
 ### Job Gauge 
 
@@ -173,7 +173,7 @@ Can not be used in combat. Increases movement speed for self and all party membe
 
 ## Openers 
 
-Listed below are all current openers and the reasoning as to why each one should be selected. It is very important that you attempt to put as much damage into the raid buffs of your party as possible. Wildfire is not flexible at all, as it is on a strict two minute timer, and because of this, it should be placed properly in the opener based on your party composition. Wildfire snapshots raid buffs upon use of the ability -- not on detonation. Wildfire cannot critical hit or direct hit, thus gaining no benefit from crit or direct hit boosting raid buffs. If you’re only here for openers, [click this](https://guides.xivresources.com/jobs/ranged/machinist/openers-and-rotation/). Images with text in case you prefer that.
+Listed below are all current openers and the reasoning as to why each one should be selected. It is very important that you attempt to put as much damage into the raid buffs of your party as possible. Wildfire is not flexible at all, as it is on a strict two minute timer, and because of this, it should be placed properly in the opener based on your party composition. Wildfire snapshots raid buffs upon use of the ability -- not on detonation. Wildfire cannot critical hit or direct hit, thus gaining no benefit from crit or direct hit boosting raid buffs. If you’re only here for openers, [click this](/jobs/ranged/machinist/openers-and-rotation/). Images with text in case you prefer that.
 
 #### 3rd GCD WF (Fast Opener)
 
@@ -402,7 +402,7 @@ I hope this helps! If you have any questions, please stop by #mch_questions and 
 
 ##### [Eden’s Promise Write-Up](https://docs.google.com/document/d/1DUHg4tsKaw8O-fl4XbwobXeEDinYV9AJWXkzgeSPBAk/edit) created by Hinoka
 
-##### [The Epic of Alexander](https://saltedxiv.com/guides/machinist-guide-for-the-epic-of-alexander-ultimate) created by Dook
+##### The Epic of Alexander created by Dook (Coming Soon to a Balance site near you!)
 
 ##### [Gear Comparison Sheet](https://docs.google.com/spreadsheets/d/1kVv_40wjUkJjEqg_bjYwQqebDMZtKIvXokKDKQ8Ni_o/edit#gid=62746894) created by Lynn Nuvestrahl
 
