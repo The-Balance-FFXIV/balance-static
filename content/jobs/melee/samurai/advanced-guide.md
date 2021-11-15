@@ -1,6 +1,6 @@
 ---
 title: Samurai Advanced Guide
-card_header_image: /img/jobs/sam/ad.jpg
+card_header_image: /img/jobs/sam/advanced.png
 authors:
   - Balance-SAM-Staff
 patch: "5.58"
