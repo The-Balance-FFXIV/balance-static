@@ -1,5 +1,6 @@
 ---
 title: White Mage Leveling Guide
+card_header_image: /img/jobs/whm/whm-leveling-1-.jpg
 authors:
   - Balance-WHM-Staff
 patch: "5.58"
