@@ -16,7 +16,7 @@ My IGN is Caro Kann, and I’m a BLM main (now SCH (AND NOW AST)) and this is my
 
 ### Abilities
 
-If you’re in game, look at your Actions & Traits page. Read your tooltips. Read your traits, they alter tooltips sometimes. If you’re not in game, look at SE’s [Job Guide](http://na.finalfantasyxiv.com/jobguide/blackmage/) page or the Balance [Skills Overview](https://guides.xivresources.com/jobs/casters/black-mage/skill-overview/) page.
+If you’re in game, look at your Actions & Traits page. Read your tooltips. Read your traits, they alter tooltips sometimes. If you’re not in game, look at SE’s [Job Guide](http://na.finalfantasyxiv.com/jobguide/blackmage/) page or the Balance [Skills Overview](https://guides.xivresources.com/jobs/casters/black-mage/skills-overview/) page.
 
 ### Abbreviations
 
