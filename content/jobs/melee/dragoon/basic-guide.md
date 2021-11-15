@@ -41,14 +41,14 @@ I wrote a book! If anyone feels particularly generous and wants to support me (E
 ## Resources
 
 * [Gear Comparison Tool](http://bit.ly/DRG-Gear-Accurate)\
-  Allows you to fill in your current \[Level 80] gear and melds and figure out roughly which set will perform better.
-* [Rotation Builder tool](https://docs.google.com/spreadsheets/d/15hOfxLnmacJbY1FeNSxX6R4owTzChRD45wVcvT3zZeI/edit#gid=1421417811)\
+  Allows you to fill in your current \[Level 80] gear and melds and figure out roughly which set will perform better.  
+* [Rotation Builder tool](https://docs.google.com/spreadsheets/d/15hOfxLnmacJbY1FeNSxX6R4owTzChRD45wVcvT3zZeI/edit#gid=1421417811)  
   Allows you to input stats (either your character’s stats or ones made with the above Gear tool) and then build a rotation with them to get a more accurate readout of your DPS. You can use this tool to compare multiple rotations with the same gear to see which one outputs more. This tool causes some substantial load, so be cautious when using.
-* [Controller Guide](http://bit.ly/DRG-Controller)\
-  A simple guide to setting up your controller to play this Job. Old setups are listed within, but I’ll be working soon to get updated ones in there!
-* [Tethercalc](https://tethercalc.herokuapp.com/) by Platinum Xephera on Ultros\
-  An incredibly useful tool that you can use to see which member of your party is the proper tether target. You just inject your fflogs link to the fight in question and it’ll tell you who you tethered and show you who was the best target.
-
+* [Controller Guide](http://bit.ly/DRG-Controller)  
+  A simple guide to setting up your controller to play this Job. Old setups are listed within, but I’ll be working soon to get updated ones in there!  
+* [Tethercalc](https://tethercalc.herokuapp.com/) by Platinum Xephera on Ultros  
+  An incredibly useful tool that you can use to see which member of your party is the proper tether target. You just inject your fflogs link to the fight in question and it’ll tell you who you tethered and show you who was the best target.  
+  
 - - -  
   
 ## Global Cooldown (GCD) Actions
