@@ -36,9 +36,10 @@ The purpose of this guide is to give an overview of Dark Knight’s abilities an
 
 ### Single Target GCDs
 
-|**Hard Slash >** | **Syphon Strike >** | **Souleater**|
-|-|-|-|
-|![Hard Slash](https://xivapi.com/i/003000/003051_hr1.png) | ![Syphon Strike](https://xivapi.com/i/003000/003054_hr1.png) | ![Souleater](https://xivapi.com/i/003000/003055_hr1.png)| 
+| **Hard Slash >**                                          | **Syphon Strike >**                                          | **Souleater**                                            |
+| --------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------- |
+| ![Hard Slash](https://xivapi.com/i/003000/003051_hr1.png) | ![Syphon Strike](https://xivapi.com/i/003000/003054_hr1.png) | ![Souleater](https://xivapi.com/i/003000/003055_hr1.png) |
+
  **Souleater Combo**
 
 * 200 > 300 > 400 potency
@@ -213,9 +214,9 @@ If you would die with *Living Dead* active, you instead don’t die and gain *Wa
 
 ## AoE
 
-|**Unleash >** | **Stalwart Soul**|
-|-|-|
-|![Unleash](https://xivapi.com/i/003000/003063_hr1.png) | ![Stalwart Soul](https://xivapi.com/i/003000/003084_hr1.png)|
+| **Unleash >**                                          | **Stalwart Soul**                                            |
+| ------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Unleash](https://xivapi.com/i/003000/003063_hr1.png) | ![Stalwart Soul](https://xivapi.com/i/003000/003084_hr1.png) |
 
 ### Stalwart Soul Combo (GCD)
 
@@ -252,15 +253,15 @@ If you would die with *Living Dead* active, you instead don’t die and gain *Wa
 ### Unmend (GCD)
 
 150 potency
-<br>5x enmity multiplier
-<br>Ranged attack
+5x enmity multiplier
+Ranged attack
 
 ![Low Blow](https://xivapi.com/i/000000/000802_hr1.png)
 
 ### Low Blow (oGCD)
 
 25s cooldown
-<BR>5s stun
+5s stun
 
 ![Interject](https://xivapi.com/i/000000/000808_hr1.png)
 
@@ -486,16 +487,22 @@ Living Dead has some synergy with White Mages, as their Benediction can fully he
 ### AoE Priority
 
 ![AOE Priority](https://lh6.googleusercontent.com/DKjax_f1Kk-IJrU9YdnHGLXxOOL2oCqDD6JkngawU4fwiY__zyUW74xS664K6TosLnaSAExnPi3nwTzGW1BYUo8e6GYTNy_jfJhlvLdPOXSk76ObN_b8-IU64xfLMr__Vrb0bCyT=s0) 
-<br> On any number of targets, prioritize spending Blood on Living Shadow.
+ On any number of targets, prioritize spending Blood on Living Shadow.
 
-![2 target](https://lh5.googleusercontent.com/je8u42LVxCMC4a2qHgEwjNHOuFNng5tvWD_Vl-r-IspjuXKoUq091qE2kA24aE_g19LmOEtxqKKx6iz9mMHa95Dzru1oK2lJfo6-fjwgYzRCHAi0o8a4deheL5zW8nhGXetcFPWv=s0) ![2target 2](https://lh6.googleusercontent.com/QXWUuYy7BBdBNo51JQjI20dfFVoxMThHIGkYEW376YDH6w1HsfVhXzwC27j8OyQlO85t8EtI46ZI2Q27rSELupUfhcQ12LbgKkocZhsB8gRy1Rv-hhoOrLbnu0BfK1-S1iwPSg16=s0)
-<br>On 2+ targets, replace Souleater combo and Edge of Shadow/Darkness with Stalwart Soul Combo and Flood of Shadow/Darkness.
+|                                                                                                                                                                                            |                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![2 target](https://lh5.googleusercontent.com/je8u42LVxCMC4a2qHgEwjNHOuFNng5tvWD_Vl-r-IspjuXKoUq091qE2kA24aE_g19LmOEtxqKKx6iz9mMHa95Dzru1oK2lJfo6-fjwgYzRCHAi0o8a4deheL5zW8nhGXetcFPWv=s0) | ![2target 2](https://lh6.googleusercontent.com/QXWUuYy7BBdBNo51JQjI20dfFVoxMThHIGkYEW376YDH6w1HsfVhXzwC27j8OyQlO85t8EtI46ZI2Q27rSELupUfhcQ12LbgKkocZhsB8gRy1Rv-hhoOrLbnu0BfK1-S1iwPSg16=s0) |
+
+On 2+ targets, replace Souleater combo and Edge of Shadow/Darkness with Stalwart Soul Combo and Flood of Shadow/Darkness.
 
 ![3 targets](https://lh3.googleusercontent.com/kpxcMMzdmTBcdwK0upDws_tzb4Fp4CCfPRtvfP-KLuFi9abH9GiJ-bLAvmJ2epSO0jM9bEh8BRAdXUrdmvsRYBwvw9QEn_TP0jy9nYPqbKhz0aa_9iEr_wWzzrqVjCChnAay7Hus=s0)
-<br>On 3+ targets, replace Bloodspiller with Quietus.
+On 3+ targets, replace Bloodspiller with Quietus.
 
-![aoe 1](https://lh4.googleusercontent.com/RVzpcFuEas91IqZHJRjI-lSj70urqNF7Bg_xl8n1y96zIeXlOrZ81wlaILjc5Gj3X2uOUJdqGaCxR5oe0ioygq0aA9B6TuJWAsR4dX9rroodCwiYlUZiO41VxUoMhxoLaOLe63Js=s0) ![aoe2](https://lh3.googleusercontent.com/IqgiYLYvy2whmfx7LTqjDR-MHQRFbIhtMqwzTHjGUtOTSvCFO7C9-QpAGGFN_R3aNX0IyWn7JsFl_1zaTgQQB_N1ABKlvQLhP2XwKjnVRaKkFDYu6o9or-bsnnaqPwRODecz0Mkp=s0)
-<br>Try to maximize AoE with Salted Earth and Abyssal Drain.
+| **Salted Earth**                                                                                                                                                                        | **Abyssal Drain**                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![aoe 1](https://lh4.googleusercontent.com/RVzpcFuEas91IqZHJRjI-lSj70urqNF7Bg_xl8n1y96zIeXlOrZ81wlaILjc5Gj3X2uOUJdqGaCxR5oe0ioygq0aA9B6TuJWAsR4dX9rroodCwiYlUZiO41VxUoMhxoLaOLe63Js=s0) | ![aoe2](https://lh3.googleusercontent.com/IqgiYLYvy2whmfx7LTqjDR-MHQRFbIhtMqwzTHjGUtOTSvCFO7C9-QpAGGFN_R3aNX0IyWn7JsFl_1zaTgQQB_N1ABKlvQLhP2XwKjnVRaKkFDYu6o9or-bsnnaqPwRODecz0Mkp=s0) |
+
+Try to maximize AoE with Salted Earth and Abyssal Drain.
 
 - - -
 
