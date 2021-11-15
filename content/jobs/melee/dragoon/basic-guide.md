@@ -349,11 +349,10 @@ The default order for the **Attacks** puts Spineshatter Dive as a buffer skill b
 Disengaging from the target can cause your rotation to get forcibly shifted around. When re-engaging (be it after forced disengages or because you felt like taking a lap around the arena), you always only have two options for what you will lead with. Nothing particularly changes, either way, since your ten-GCD sequence will never actually shift.
 
 1. Disembowel has less than 10 seconds remaining
-   <img src="/img/rt.png" alt="Raiden Thrust" height="30px"> 
-   <img src="/img/de.png" alt="Disembowel" height="30px"> 
-   <img src="/img/ct.png" alt="Chaos Thrust" height="30px"> 
-   <img src="/img/wt.png" alt="Wheeling Thrust" height="30px"> 
-   <img src="/img/fc.png" alt="Fang and Claw" height="30px">
+| | | | | |
+|-|-|-|-|-|   
+|![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png)|
+
 2. Disembowel has more than 10 seconds remaining
    <img src="/img/rt.png" alt="Raiden Thrust" height="30px"> 
    <img src="/img/vt.png" alt="Vorpal Thrust" height="30px"> 
