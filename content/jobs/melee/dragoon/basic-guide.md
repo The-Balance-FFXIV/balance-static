@@ -191,7 +191,7 @@ Jump and its big brother High Jump are our most important actions. Using them gi
 ![](https://xivapi.com/i/002000/002580_hr1.png)\
 Spineshatter Dive crosses gaps and saves lives. Don’t hold it for doing those things, though, because it does do a decent chunk of damage on its own! 
 
-![](https://xivapi.com/i/002000/002578.png)\
+![](https://xivapi.com/i/002000/002578_hr1.png)\
 Dragonfire Dive also closes gaps and explodes damage on everybody.
 It should be used whenever available, except in the rare case where you will want to hit multiple targets before it’s back again.
 
@@ -202,21 +202,27 @@ The new kid on the block, Stardiver (STD for short) has a 30 second window in wh
 
 Stardiver in particular has a **significant** animation lock. When using it, be sure to press it as soon as possible after your GCD. Even with good ping **and** early pressing, you might encounter clipping if your GCD is anywhere below 2.35. Please hear our prayers, Yoshi-P.
 
-<img src="/img/ej.png" alt="Elusive Jump" style="float:left;" height="50px">Elusive Jump does no damage, so it has just one purpose: traveling long distances quickly, either to escape or to get back to the boss.\
+![](https://xivapi.com/i/002000/002577_hr1.png)\
+Elusive Jump does no damage, so it has just one purpose: traveling long distances quickly, either to escape or to get back to the boss.\
 <br>
 
 ### Do-more Damage Buttons
 
-<img src="/img/lc.png" alt="Lance Charge" style="float:left;" height="50px">Lance Charge is the strongest buff in your arsenal.\
+![](https://xivapi.com/i/000000/000309_hr1.png)\
+Lance Charge is the strongest buff in your arsenal.\
 You should always press this button as soon as it’s available.
 
-<img src="/img/ds.png" alt="Dragon Sight" style="float:left;" height="50px">Dragon Sight should always buff High Jump, Spineshatter Dive, Dragonfire Dive, and the associated Mirage Dive. This skill requires a target in order for its full effect to activate. In a later section, we have included some helpful tips for using this. You can activate the skill without a target, but you lose the second effect entirely.
+![](https://xivapi.com/i/002000/002587_hr1.png)\
+Dragon Sight should always buff High Jump, Spineshatter Dive, Dragonfire Dive, and the associated Mirage Dive. This skill requires a target in order for its full effect to activate. In a later section, we have included some helpful tips for using this. You can activate the skill without a target, but you lose the second effect entirely.
 
-<img src="/img/bl.png" alt="Battle Litany" style="float:left;" height="50px">Battle Litany is pretty much just used when it’s ready. There are times where holding it becomes beneficial.
+![](https://xivapi.com/i/002000/002585.png)\
+Battle Litany is pretty much just used when it’s ready. There are times where holding it becomes beneficial.
 
-<img src="/img/ls.png" alt="Life Surge" style="float:left;" height="50px">Life Surge doesn’t affect the damage-over-time effect of our strongest Weaponskill, Chaos Thrust, so it should always be paired with Full Thrust, where it does affect the whole damage amount.
+![](https://xivapi.com/i/000000/000304.png)\
+Life Surge doesn’t affect the damage-over-time effect of our strongest Weaponskill, Chaos Thrust, so it should always be paired with Full Thrust, where it does affect the whole damage amount.
 
-<img src="/img/pot.png" alt="Potion" style="float:left;" height="50px">**Potions or Tinctures of Strength** are consumable items that boost your outgoing damage by increasing your base Strength score temporarily. In general, these items are optional. Groups may suggest or ask that you use “**Pots**” when running higher-end content.
+![](https://xivapi.com/i/020000/020710.png)\
+**Potions or Tinctures of Strength** are consumable items that boost your outgoing damage by increasing your base Strength score temporarily. In general, these items are optional. Groups may suggest or ask that you use “**Pots**” when running higher-end content.
 
 ### Basic Buff Rotation
 
@@ -242,7 +248,7 @@ As our rotation is now ten GCDs and our buffs last eight or nine, we want to ide
 
 The two rows beneath the GCDs show the total potency gain for using Lance Charge after the above GCD and catching the amount of GCDs listed in the left column. Color coded to show the trends. These values shift if you’re using Life Surge on your Full Thrust. The numbers beneath it would shift in favor of covering that Full Thrust quite significantly.
 
-<div style="text-align:center"><img src="/img/buff_opti.png" alt="Ideal Buffs" > 
+![](/img/buff_opti.png)
 
 Using any buffs after the red spaces will cause you to suffer substantial losses.\
 The yellow spaces are reasonably good enough in comparison to red.\
