@@ -2,7 +2,7 @@
 title: Dark Knight Basic Guide
 card_header_image: /img/jobs/drk/drk-basic-guide-1-.jpg
 authors:
-  - Balance DRK Staff
+  - Balance-DRK-Staff
 patch: "5.5"
 lastmod: 2021-10-27T17:24:00.336Z
 changelog:
@@ -27,7 +27,8 @@ The purpose of this guide is to give an overview of Dark Knight’s abilities an
 
 ### Tank Stance
 
-![Grit](https://xivapi.com/i/003000/003070_hr1.png) <br> **Grit**
+![Grit](https://xivapi.com/i/003000/003070_hr1.png) 
+ **Grit**
 
 * Toggle - Ten second cooldown after toggling on • no cooldown for toggling off
 * Multiplies enmity (aggro, hate, etc) generation by ten
@@ -35,7 +36,10 @@ The purpose of this guide is to give an overview of Dark Knight’s abilities an
 
 ### Single Target GCDs
 
-![Hard Slash](https://xivapi.com/i/003000/003051_hr1.png) ![Syphon Strike](https://xivapi.com/i/003000/003054_hr1.png) ![Souleater](https://xivapi.com/i/003000/003055_hr1.png) <br> **Souleater Combo**
+|**Hard Slash >** | **Syphon Strike >** | **Souleater**|
+|-|-|-|
+|![Hard Slash](https://xivapi.com/i/003000/003051_hr1.png) | ![Syphon Strike](https://xivapi.com/i/003000/003054_hr1.png) | ![Souleater](https://xivapi.com/i/003000/003055_hr1.png)| 
+ **Souleater Combo**
 
 * 200 > 300 > 400 potency
 
@@ -43,7 +47,8 @@ The purpose of this guide is to give an overview of Dark Knight’s abilities an
   2. Syphon Strike: +600 MP
   3. Souleater: +20 Blood, 300p heal
 
-![Bloodspiller](https://xivapi.com/i/003000/003080_hr1.png) <br>**Bloodspiller**
+![Bloodspiller](https://xivapi.com/i/003000/003080_hr1.png) 
+**Bloodspiller**
 
 * 600 potency
 * Costs 50 Blood
@@ -177,9 +182,9 @@ Shield: 25% target’s max. HP
 
 #### Living Dead
 
-10s duration
-<br>If you would die with *Living Dead* active, you instead don’t die and gain *Walking Dead* for ten seconds.
-<br>*Walking Dead* - Can’t be reduced below one HP for the duration. Die after Walking Dead runs out unless healed for 100% of your HP, dispelling Walking Dead.
+10s duration\
+If you would die with *Living Dead* active, you instead don’t die and gain *Walking Dead* for ten seconds.\
+*Walking Dead* - Can’t be reduced below one HP for the duration. Die after Walking Dead runs out unless healed for 100% of your HP, dispelling Walking Dead.
 
 ### Utility
 
@@ -208,7 +213,9 @@ Shield: 25% target’s max. HP
 
 ## AoE
 
-![Unleash](https://xivapi.com/i/003000/003063_hr1.png) ![Stalwart Soul](https://xivapi.com/i/003000/003084_hr1.png)
+|**Unleash >** | **Stalwart Soul**|
+|-|-|
+|![Unleash](https://xivapi.com/i/003000/003063_hr1.png) | ![Stalwart Soul](https://xivapi.com/i/003000/003084_hr1.png)|
 
 ### Stalwart Soul Combo (GCD)
 
@@ -404,7 +411,7 @@ FFXIV macros do not queue, so hitting a macro while in animation lock from anoth
 
 ## Stats and Itemization
 
-Before obtaining best-in-slot gear, pick gear and meld according to stat priority on each piece of gear. Best-in-slot sets can be found on the [BiS page](https://guides.xivresources.com/jobs/tanks/dark-knight/best-in-slot/) or in the Balance discord.
+Before obtaining best-in-slot gear, pick gear and meld according to stat priority on each piece of gear. Best-in-slot sets can be found on the [BiS page](/jobs/tanks/dark-knight/best-in-slot/) or in the Balance discord.
 
 Because of stat tiering, the Tank Gear Calc is the best tool to directly compare specific gear pieces <https://bit.ly/TankDPSCalc520>.
 
@@ -510,7 +517,7 @@ No. There is no inherent synergy between Blood Weapon and Delirium—Blood Weapo
 
 ## Advanced Gameplay
 
-This section assumes that you are comfortable with the entirety of the Dark Knight kit as well as the basic rotation outlined above. If you blindly try to do these optimizations without grasping the fundamentals, it is likely to be detrimental to your play, rather than improve it. Also see the Advanced DRK guide [here](https://guides.xivresources.com/jobs/tanks/dark-knight/an-in-depth-look-at-dark-knight-shadowbringers-edition/).
+This section assumes that you are comfortable with the entirety of the Dark Knight kit as well as the basic rotation outlined above. If you blindly try to do these optimizations without grasping the fundamentals, it is likely to be detrimental to your play, rather than improve it. Also see the Advanced DRK guide [here](/jobs/tanks/dark-knight/advanced-guide/).
 
 ### Optimizing Raid Buffs Further
 
