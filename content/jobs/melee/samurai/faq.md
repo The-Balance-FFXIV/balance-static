@@ -1,6 +1,7 @@
 ---
 title: Samurai FAQ
 patch: "5.58"
+layout: qna
 lastmod: 2021-10-28T03:27:04.625Z
 changelog:
   - date: 2021-10-28T03:27:15.029Z

@@ -1,6 +1,7 @@
 ---
 title: Astrologian FAQ
 patch: "5.58"
+layout: qna
 lastmod: 2021-10-26T20:58:03.037Z
 changelog:
   - date: 2021-10-26T20:59:40.432Z

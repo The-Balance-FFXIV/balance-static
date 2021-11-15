@@ -1,6 +1,7 @@
 ---
 title: Bard Best in Slot (BiS)
 patch: "5.58"
+layout: bis
 lastmod: 2021-10-26T02:40:10.518Z
 changelog:
   - date: 2021-10-26T02:40:27.765Z

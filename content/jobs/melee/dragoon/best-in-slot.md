@@ -1,6 +1,7 @@
 ---
 title: Dragoon Best in Slot (BiS)
 patch: "5.58"
+layout: bis
 lastmod: 2021-10-29T03:00:42.356Z
 changelog:
   - date: 2021-10-29T03:01:01.840Z

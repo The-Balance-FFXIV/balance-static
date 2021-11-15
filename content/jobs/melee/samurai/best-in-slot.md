@@ -1,6 +1,7 @@
 ---
 title: Samurai Best in Slot (BiS)
 patch: "5.58"
+layout: bis
 lastmod: 2021-10-28T03:29:30.328Z
 changelog:
   - date: 2021-10-28T03:30:20.029Z

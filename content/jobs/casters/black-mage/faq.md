@@ -1,5 +1,6 @@
 ---
 title: Black Mage FAQ
+layout: qna
 patch: "5.58"
 lastmod: 2021-10-26T01:53:11.438Z
 changelog:

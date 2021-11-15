@@ -1,6 +1,7 @@
 ---
 title: White Mage FAQ
 patch: "5.58"
+layout: qna
 lastmod: 2021-10-27T00:50:31.246Z
 changelog:
   - date: 2021-10-27T00:51:33.064Z

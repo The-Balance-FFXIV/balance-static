@@ -1,6 +1,7 @@
 ---
 title: Dark Knight FAQ
 patch: "5.5"
+layout: qna
 lastmod: 2021-10-27T17:50:26.715Z
 changelog:
   - date: 2021-10-27T17:50:54.106Z

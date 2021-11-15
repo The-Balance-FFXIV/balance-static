@@ -1,6 +1,7 @@
 ---
 title: Gunbreaker Best in Slot (BiS)
 patch: "5.58"
+layout: bis
 lastmod: 2021-10-25T21:44:09.967Z
 bis:
   - type: etro
