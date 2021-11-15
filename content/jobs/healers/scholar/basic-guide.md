@@ -1,6 +1,6 @@
 ---
 title: Scholar Basic Guide
-card_header_image: /img/jobs/sch/sch-basic-guide-1-.jpg
+card_header_image: /img/jobs/sch/basic.png
 authors:
   - Balance-SCH-Staff
 patch: "5.58"
