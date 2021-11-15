@@ -144,7 +144,7 @@ These actions have individual recast timers, allowing you to so-called â€œweaveâ
 
 ### Dragon Spaghetti
 
-![](/img/blood.png)
+![](/static/img/blood.png)
 
 <img src="/img/botd.png" alt="Blood of the Dragon" height="50px" style="float:left;"> **Blood of the Dragon** is our primary mechanic.\
 Under normal circumstances, it should never fall off.
