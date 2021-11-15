@@ -1,6 +1,7 @@
 ---
 title: Dragoon FAQ
 patch: "5.58"
+layout: qna
 lastmod: 2021-10-29T02:56:43.800Z
 changelog:
   - date: 2021-10-29T02:57:06.403Z

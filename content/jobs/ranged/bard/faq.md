@@ -1,6 +1,7 @@
 ---
 title: Bard FAQ
 patch: "5.58"
+layout: qna
 lastmod: 2021-10-26T02:31:47.844Z
 changelog:
   - date: 2021-10-26T02:32:02.540Z

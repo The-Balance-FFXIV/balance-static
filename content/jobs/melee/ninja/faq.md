@@ -1,6 +1,7 @@
 ---
 title: Ninja FAQ
 patch: "5.58"
+layout: qna
 lastmod: 2021-10-29T03:10:30.754Z
 changelog:
   - date: 2021-10-29T03:10:48.026Z

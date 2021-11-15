@@ -1,6 +1,7 @@
 ---
 title: Scholar Best in Slot (BiS)
 patch: "5.58"
+layout: bis
 lastmod: 2021-10-26T23:41:37.390Z
 changelog:
   - date: 2021-10-26T23:42:52.063Z

@@ -1,6 +1,7 @@
 ---
 title: Red Mage FAQ
 patch: "5.58"
+layout: qna
 lastmod: 2021-10-26T01:27:16.438Z
 changelog:
   - date: 2021-10-26T01:27:20.609Z

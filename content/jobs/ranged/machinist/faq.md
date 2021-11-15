@@ -1,6 +1,7 @@
 ---
 title: Machinist FAQ
 patch: "5.58"
+layout: qna
 lastmod: 2021-10-25T22:05:59.009Z
 changelog:
   - date: 2021-10-25T22:06:08.013Z

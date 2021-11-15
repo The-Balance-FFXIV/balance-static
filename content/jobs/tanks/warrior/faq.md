@@ -1,6 +1,7 @@
 ---
 title: Warrior FAQ
 patch: "5.4"
+layout: qna
 lastmod: 2021-10-27T07:26:59.586Z
 changelog:
   - date: 2021-10-27T07:27:07.049Z
