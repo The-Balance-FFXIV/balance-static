@@ -1,6 +1,6 @@
 ---
 title: Scholar Leveling Guide
-card_header_image: /img/jobs/sch/sch-leveling-1-.jpg
+card_header_image: /img/jobs/sch/leveling.png
 authors:
   - Balance-SCH-Staff
 patch: "5.58"
