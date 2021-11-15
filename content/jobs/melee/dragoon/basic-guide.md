@@ -354,11 +354,9 @@ Disengaging from the target can cause your rotation to get forcibly shifted arou
 |![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png)|
 
 2. Disembowel has more than 10 seconds remaining
-   <img src="/img/rt.png" alt="Raiden Thrust" height="30px"> 
-   <img src="/img/vt.png" alt="Vorpal Thrust" height="30px"> 
-   <img src="/img/ft.png" alt="Full Thrust" height="30px"> 
-   <img src="/img/fc.png" alt="Fang and Claw" height="30px"> 
-   <img src="/img/wt.png" alt="Wheeling Thrust" height="30px"> 
+| | | | | |
+|-|-|-|-|-|
+|![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png)|
 
 That’s honestly all there is to discuss here. This is more of a judgment call, honestly - anything up to around 12 seconds remaining could be clipped, but ten is the basic cutoff for getting all five hits of your Full Thrust Combo with Disembowel’s buff before it falls off. You would lose the buff on Raiden Thrust and Disembowel after the fact, but that can be overcome.
 
