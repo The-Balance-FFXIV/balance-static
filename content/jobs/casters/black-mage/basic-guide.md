@@ -1,6 +1,6 @@
 ---
 title: Black Mage Basic Guide
-card_header_image: /img/jobs/blm/blm-basic-guide-1-.jpg
+card_header_image: /img/jobs/blm/basic.png
 authors:
   - Balance-BLM-Staff
 patch: "5.58"
