@@ -55,7 +55,7 @@ I wrote a book! If anyone feels particularly generous and wants to support me (E
 
 The bread-and-butter of your rotation, so to speak, these are the buttons you press most frequently. They're broken down into several **combo** chains with various effects and uses.
 
-#### The Chaos Thrust Combo
+### The Chaos Thrust Combo
 
 |**True Thrust >** | **Vorpal Thrust >** | **Chaos Thrust >** | **Wheeling Thrust >** | **Fang and Claw**|
 |-|-|-|-|-|
@@ -63,9 +63,11 @@ The bread-and-butter of your rotation, so to speak, these are the buttons you pr
 
 This combo has our basic damage buff in **Disembowel** alongside our damage-over-time skill, **Chaos Thrust**. These two effects are essential in dishing out proper amounts of damage.
 
-#### The Full Thrust Combo
+### The Full Thrust Combo
 
-<img src="/img/tt.png" alt="True Thrust" height="50px"> <img src="/img/vt.png" alt="Vorpal Thrust" height="50px"> <img src="/img/ft.png" alt="Full Thrust" height="50px"> <img src="/img/fc.png" alt="Fang and Claw" height="50px"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px"> 
+|**True Thrust >** | **Vorpal Thrust >** | **Full Thrust >** | **Fang and Claw >** | **Wheeling Thrust**|
+|-|-|-|-|-|
+|<img src="/img/tt.png" alt="True Thrust" height="50px"> | <img src="/img/vt.png" alt="Vorpal Thrust" height="50px"> | <img src="/img/ft.png" alt="Full Thrust" height="50px"> | <img src="/img/fc.png" alt="Fang and Claw" height="50px"> | <img src="/img/wt.png" alt="Wheeling Thrust" height="50px">| 
 
 This combo uses our strongest weaponskill, **Full Thrust**, and that’s about it. It’s essentially just a filler combo whenever the aforementioned effects are active.
 
@@ -157,7 +159,7 @@ Under normal circumstances, it should never fall off.
 <img src="/img/gsk.png" alt="Geirskogul" height="50px" style="float:left;"> **Geirskogul** can only be used under **Blood of the Dragon**, and when you press it with\
 **two** **Dragon Eyes** open, we enter **Life of the Dragon**.
 
-!\[](/static/img/life.png" alt="Life of the Dragon"> 
+![](/static/img/life.png)
 
 <img src="/img/nas.png" alt="Nastrond" height="50px" style="float:left;"> Under **Life of the Dragon**, **Geirskogul** becomes **Nastrond**.\
 Ideally, you want to press **three Nastrond** before your **Life** timer runs out.\
