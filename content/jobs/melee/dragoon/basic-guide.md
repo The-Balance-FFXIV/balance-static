@@ -107,7 +107,8 @@ Several actions in the kit deal more damage from the **Side** of a boss, and sev
 
 #### How do I know if I'm at the **Side** or **Rear** of a target?
 
-![](/static/img/pos.png)
+![](
+/img/pos.png)
 
 
 The arrow at the top is the **Front** of the target. You get no special bonuses by attacking here, other than lots of bonus deaths for standing in tank busters and cleaves.
