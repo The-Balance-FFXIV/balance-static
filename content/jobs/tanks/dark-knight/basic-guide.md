@@ -2,7 +2,7 @@
 title: Dark Knight Basic Guide
 card_header_image: /img/jobs/drk/drk-basic-guide-1-.jpg
 authors:
-  - Balance DRK Staff
+  - Balance-DRK-Staff
 patch: "5.5"
 lastmod: 2021-10-27T17:24:00.336Z
 changelog:
@@ -411,7 +411,7 @@ FFXIV macros do not queue, so hitting a macro while in animation lock from anoth
 
 ## Stats and Itemization
 
-Before obtaining best-in-slot gear, pick gear and meld according to stat priority on each piece of gear. Best-in-slot sets can be found on the [BiS page](https://guides.xivresources.com/jobs/tanks/dark-knight/best-in-slot/) or in the Balance discord.
+Before obtaining best-in-slot gear, pick gear and meld according to stat priority on each piece of gear. Best-in-slot sets can be found on the [BiS page](/jobs/tanks/dark-knight/best-in-slot/) or in the Balance discord.
 
 Because of stat tiering, the Tank Gear Calc is the best tool to directly compare specific gear pieces <https://bit.ly/TankDPSCalc520>.
 
@@ -517,7 +517,7 @@ No. There is no inherent synergy between Blood Weapon and Delirium—Blood Weapo
 
 ## Advanced Gameplay
 
-This section assumes that you are comfortable with the entirety of the Dark Knight kit as well as the basic rotation outlined above. If you blindly try to do these optimizations without grasping the fundamentals, it is likely to be detrimental to your play, rather than improve it. Also see the Advanced DRK guide [here](https://guides.xivresources.com/jobs/tanks/dark-knight/an-in-depth-look-at-dark-knight-shadowbringers-edition/).
+This section assumes that you are comfortable with the entirety of the Dark Knight kit as well as the basic rotation outlined above. If you blindly try to do these optimizations without grasping the fundamentals, it is likely to be detrimental to your play, rather than improve it. Also see the Advanced DRK guide [here](/jobs/tanks/dark-knight/advanced-guide/).
 
 ### Optimizing Raid Buffs Further
 
