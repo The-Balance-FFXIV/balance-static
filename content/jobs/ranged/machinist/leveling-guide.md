@@ -1,5 +1,6 @@
 ---
 title: Machinist Leveling Guide
+card_header_image: /img/jobs/mch/anamchleveling3.png
 authors:
   - Balance-MCH-Staff
 patch: "5.58"
