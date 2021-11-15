@@ -1,5 +1,6 @@
 ---
 title: Black Mage Leveling Guide
+card_header_image: /img/jobs/blm/blm-leveling-1-.jpg
 authors:
   - Balance-BLM-Staff
 patch: "5.58"
