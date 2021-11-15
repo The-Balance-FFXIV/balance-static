@@ -234,7 +234,7 @@ Our buffs fall on timers that function pretty well together in the duration of a
 
 <div align="center">
 
-| Time | <img src="/img/lc.png" height="20px"> | <img src="/img/ds.png" height="20px"> | <img src="/img/bl.png" height="20px"> |
+| Time | ![](https://xivapi.com/i/000000/000309_hr1.png) | ![](https://xivapi.com/i/002000/002587_hr1.png) | ![](https://xivapi.com/i/002000/002585_hr1.png) |
 | ---- | ------------------------------------- | ------------------------------------- | ------------------------------------- |
 | 0s   | x                                     | x                                     | x                                     |
 | 90s  | x                                     |                                       |                                       |
