@@ -1,5 +1,6 @@
 ---
 title: Dark Knight Leveling Guide
+card_header_image: /img/jobs/drk/drk-leveling-1-.jpg
 authors:
   - Balance-PLD-Staff
 patch: "5.5"
