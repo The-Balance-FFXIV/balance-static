@@ -32,8 +32,7 @@ The basic GCD backbone of the rotation does change as you level:\
 `26-49`: True Thrust Disembowel-(True Thrust Vorpal Thrust Full Thrust)x4\
 `18-25`: True Thrust Disembowel-(True Thrust Vorpal Thrust)x6  
 
-For more specific considerations about how this rotation and the opener change on a specific encounter basis, please check the drg_encounter channel.
-<https://discordapp.com/channels/277897135515762698/627667896860147714/627896513481277440>
+For more specific considerations about how this rotation and the opener change on a specific encounter basis, please check the [drg_encounter channel](https://discordapp.com/channels/277897135515762698/627667896860147714/627896513481277440).
 
 This video has a full six minute rotation at a 2.50 GCD, using the opener above.\
 <https://www.youtube.com/watch?v=15PNRbwXctw>
