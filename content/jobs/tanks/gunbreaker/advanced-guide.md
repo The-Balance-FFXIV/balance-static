@@ -1,6 +1,6 @@
 ---
 title: Gunbreaker Advanced Guide
-card_header_image: /img/jobs/gnb/gnb-advanced-1-.jpg
+card_header_image: /img/jobs/gnb/advanced.png
 authors:
   - Balance-GNB-Staff
 patch: "5.58"
