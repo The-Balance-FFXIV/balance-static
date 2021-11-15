@@ -399,31 +399,9 @@ Activating your first Life of the Dragon window as early as possible (on your se
 
 <div align="center">
 
-<img src="/img/hj.png" alt="High Jump" height="20px"> 
-<img src="/img/gsk.png" alt="Geirskogul" height="20px"> 
-<img src="/img/md.png" alt="Mirage Dive" height="20px"> 
-<img src="/img/hj.png" alt="High Jump" height="20px"> 
-<img src="/img/gsk.png" alt="Geirskogul" height="20px"> 
-<img src="/img/md.png" alt="Mirage Dive" height="20px"> 
-<img src="/img/hj.png" alt="High Jump" height="20px"> 
-<img src="/img/gsk.png" alt="Geirskogul" height="20px"> 
-<img src="/img/nas.png" alt="Nastrond" height="20px"> 
-<img src="/img/md.png" alt="Mirage Dive" height="20px"> 
-<img src="/img/nas.png" alt="Nastrond" height="20px"> 
-<img src="/img/lc.png" alt="Lance Charge" height="20px"> 
-<img src="/img/hj.png" alt="High Jump" height="20px"> 
-<img src="/img/std.png" alt="Stardiver" height="20px">
-<img src="/img/nas.png" alt="Nastrond" height="20px"> 
-<img src="/img/md.png" alt="Mirage Dive" height="20px"> 
-<img src="/img/gsk.png" alt="Geirskogul" height="20px"> 
-<img src="/img/nas.png" alt="Nastrond" height="20px"> 
-<img src="/img/ds.png" alt="Dragon Sight" height="20px">
-<img src="/img/nas.png" alt="Nastrond" height="20px"> 
-<img src="/img/hj.png" alt="High Jump" height="20px"> 
-<img src="/img/std.png" alt="Stardiver" height="20px">
-<img src="/img/nas.png" alt="Nastrond" height="20px"> 
-<img src="/img/gsk.png" alt="Geirskogul" height="20px">
-<img src="/img/md.png" alt="Mirage Dive" height="20px"> 
+| | | | | | | | | | | | | | | | | | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002589.png) |  ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/000000/000309.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002593.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002587.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002593.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png)| 
 
 As you can see, we just keep shooting off Geirskogul before Mirage Dive until entering our first Life around 20s ahead of our second Lance Charge usage, so we get one Nastrond and Stardiver under it. Entering the next one as soon as possible (by using Mirage Dive before Geirskogul this time) allows us to get a second Nastrond under that Lance Charge and then two under the subsequent Dragon Sight (along with the Stardiver).
 
