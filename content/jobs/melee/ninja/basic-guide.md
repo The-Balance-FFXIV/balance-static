@@ -1,6 +1,6 @@
 ---
 title: Ninja Basic Guide
-card_header_image: /img/jobs/nin/nin-basic-guide-1-.jpg
+card_header_image: /img/jobs/nin/basic.png
 authors:
   - Balance-NIN-Staff
   - zhotacton
