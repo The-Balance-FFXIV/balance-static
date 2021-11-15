@@ -16,7 +16,7 @@ My IGN is Caro Kann, and I’m a BLM main (now SCH (AND NOW AST)) and this is my
 
 ### Abilities
 
-If you’re in game, look at your Actions & Traits page. Read your tooltips. Read your traits, they alter tooltips sometimes. If you’re not in game, look at SE’s [Job Guide](http://na.finalfantasyxiv.com/jobguide/blackmage/) page or the Balance [Skills Overview](https://guides.xivresources.com/jobs/casters/black-mage/skill-overview/) page.
+If you’re in game, look at your Actions & Traits page. Read your tooltips. Read your traits, they alter tooltips sometimes. If you’re not in game, look at SE’s [Job Guide](http://na.finalfantasyxiv.com/jobguide/blackmage/) page or the Balance [Skills Overview](https://guides.xivresources.com/jobs/casters/black-mage/skills-overview/) page.
 
 ### Abbreviations
 
@@ -224,7 +224,7 @@ This translates to a 10% mitigation tool for magical damage. Use on magical raid
 
 ### Transpose and Lucid Dreaming
 
-Use Transpose as a last resort to maintain Enochian if AF / UI would be dropped. See the [5.X Hypermeme Rotation Guide](https://docs.google.com/document/d/1SBU4HpqBenHAXFr6V-gwAKggkfBgJ2IR9FEbMtT3YRw) for some advanced optimizations using these. Also see the [Balance Advanced Black Mage Guide](https://guides.xivresources.com/jobs/casters/black-mage/advanced-non-standard-blm-guide/) for optimization.
+Use Transpose as a last resort to maintain Enochian if AF / UI would be dropped. See the [5.X Hypermeme Rotation Guide](https://docs.google.com/document/d/1SBU4HpqBenHAXFr6V-gwAKggkfBgJ2IR9FEbMtT3YRw) for some advanced optimizations using these. Also see the [Balance Advanced Black Mage Guide](https://guides.xivresources.com/jobs/casters/black-mage/advanced-guide/) for optimization.
 
 ### Scathe
 
