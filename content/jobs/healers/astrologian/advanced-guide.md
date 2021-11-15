@@ -1,7 +1,7 @@
 ---
 title: Astrologian Advanced Guide
 authors:
-  - Balance AST Staff
+  - Balance-AST-Staff
 patch: "5.58"
 lastmod: 2021-10-26T21:00:38.570Z
 changelog:

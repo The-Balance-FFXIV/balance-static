@@ -1,7 +1,7 @@
 ---
 title: Ninja Basic Guide
 authors:
-  - Balance NIN Staff
+  - Balance-NIN-Staff
   - zhotacton
 patch: "5.58"
 lastmod: 2021-10-29T03:08:20.127Z
