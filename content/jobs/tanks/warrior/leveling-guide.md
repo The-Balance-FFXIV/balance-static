@@ -1,6 +1,6 @@
 ---
 title: Warrior Leveling Guide
-card_header_image: /img/jobs/war/war-leveling-1-.jpg
+card_header_image: /img/jobs/war/leveling.png
 authors:
   - Balance-WAR-Staff
 patch: "5.4"
