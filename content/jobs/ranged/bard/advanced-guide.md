@@ -1,6 +1,6 @@
 ---
 title: Bard Advanced Guide
-card_header_image: /img/jobs/brd/brd-advanced.jpg
+card_header_image: /img/jobs/brd/advanced.png
 authors:
   - Balance-BRD-Staff
 patch: "5.58"
