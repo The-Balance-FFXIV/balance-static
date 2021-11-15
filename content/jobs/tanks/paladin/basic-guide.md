@@ -242,7 +242,8 @@ Circle AoE centered on self.
 
 Replaces single target combos at 3+ enemies.
 
-**Holy Circle**<br>![](https://xivapi.com/i/002000/002517_hr1.png)
+**Holy Circle**
+![](https://xivapi.com/i/002000/002517_hr1.png)
 
 250 potency (magical damage)
 
@@ -254,7 +255,8 @@ Replaces Holy Spirit at 3+ enemies.
 
 ### GCDs
 
-**Clemency**<br>![](https://xivapi.com/i/002000/002509_hr1.png)
+**Clemency**
+![](https://xivapi.com/i/002000/002509_hr1.png)
 
 1200 potency heal on target.
 
@@ -262,14 +264,16 @@ Replaces Holy Spirit at 3+ enemies.
 
 When used on another target, also heals you for half as much.
 
-**Shield Lob**<br>![](https://xivapi.com/i/000000/000164_hr1.png)
+**Shield Lob**
+![](https://xivapi.com/i/000000/000164_hr1.png)
 
 120 potency (physical damage)
 
 * Enmity multiplier 
 * Ranged attack
 
-**Shield Bash**<br>![](https://xivapi.com/i/000000/000154_hr1.png)
+**Shield Bash**
+![](https://xivapi.com/i/000000/000154_hr1.png)
 
 110 potency (physical damage)
 
@@ -277,11 +281,13 @@ When used on another target, also heals you for half as much.
 
 ### oGCDs
 
-**Low Blow**<br>![](https://xivapi.com/i/000000/000802_hr1.png)
+**Low Blow**
+![](https://xivapi.com/i/000000/000802_hr1.png)
 
 25s cooldown | 5s stun
 
-**Interject**<br>![](https://xivapi.com/i/000000/000808_hr1.png)
+**Interject**
+![](https://xivapi.com/i/000000/000808_hr1.png)
 
 30s cooldown
 
@@ -289,9 +295,11 @@ Interrupts target's action.
 
 Interruptible actions are denoted by red flashing castbars:
 
-Normal castbar:<br>![](https://xiv.sleepyshiba.com/pld/assets/cast-normal.png)
+Normal castbar:
+![](https://xiv.sleepyshiba.com/pld/assets/cast-normal.png)
 
-Interruptible castbar:<br>![](https://xiv.sleepyshiba.com/pld/assets/cast-interrupt.gif)
+Interruptible castbar:
+![](https://xiv.sleepyshiba.com/pld/assets/cast-interrupt.gif)
 
 - - -
 
