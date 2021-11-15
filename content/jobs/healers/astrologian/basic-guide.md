@@ -1,6 +1,6 @@
 ---
 title: Astrologian Basic Guide
-card_header_image: /img/jobs/ast/ast-basic-guide-1-.jpg
+card_header_image: /img/jobs/ast/basic.png
 authors:
   - Balance-AST-Staff
 patch: "5.58"
