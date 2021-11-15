@@ -11,7 +11,7 @@ changelog:
 ---
 ## Simple Pointers for New Machinists
 
-Unlocking new jobs can be daunting, so to alleviate some of the stress of all of the new actions, here’s some tips to help the new Machinists understand their rotation while leveling and gain some insight into how everything comes together!  Reference the weaponskills and abilities in the [beginner's guide](/jobs/ranged/machinist/basic-mch-stuff/) if you forget exactly what things do. 
+Unlocking new jobs can be daunting, so to alleviate some of the stress of all of the new actions, here’s some tips to help the new Machinists understand their rotation while leveling and gain some insight into how everything comes together!  Reference the weaponskills and abilities in the [beginner's guide](/jobs/ranged/machinist/basic-guide/) if you forget exactly what things do. 
 
 For clarity purposes:
 
