@@ -128,7 +128,7 @@ Some enemies will have the **Side** mark wrapping their entire hitbox, with no a
 | | |
 |-|-|
 |![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png)|
-\
+
  **Chaos Thrust** and **Wheeling Thrust** deal 40 more potency from the **Rear**.
 
 #### Positional Parity
@@ -268,13 +268,17 @@ We will be operating under the assumption that the fact that our multi-target co
 
 When up against two targets, you’ll get more gains out of simply spreading your Chaos Thrust damage over time effect to both targets and keeping them both active. This is done by a simple modification to our basic rotation:
 
-  <img src="/img/rt.png" alt="Raiden Thrust" height="50px"> <img src="/img/de.png" alt="Disembowel" height="50px"> <img src="/img/ct.png" alt="Chaos Thrust" height="50px"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px"> <img src="/img/fc.png" alt="Fang and Claw" height="50px"> <img src="/img/rt.png" alt="Raiden Thrust" height="50px"> <img src="/img/de.png" alt="Disembowel" height="50px"> <img src="/img/ct.png" alt="Chaos Thrust" height="50px"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px"> <img src="/img/fc.png" alt="Fang and Claw" height="50px"> 
+| | | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|-|
+|![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png)|
 
 When alternating back and forth for an extended period of time, be sure to use your Life Surge on the Fang and Claw hits, here. It becomes your strongest option in these situations, and it’s far better than just never pressing the button.
 
 ### Three or More Targets
 
-  <img src="/img/dos.png" alt="Doom Spike" height="50px"> <img src="/img/sot.png" alt="Sonic Thrust" height="50px"> <img src="/img/cot.png" alt="Coerthan Torment" height="50px"> 
+| | | |
+|-|-|-|
+|![](https://xivapi.com/i/000000/000306_hr1.png) | ![](https://xivapi.com/i/002000/002586_hr1.png) | ![](https://xivapi.com/i/002000/002590_hr1.png)|
 
 When dealing with any more than two targets, we want to roll into our Coerthan Torment Combo. You want to keep pressing High Jump, Mirage Dive, and all of the other buttons, especially Dragonfire Dive and Geirskogul, as they also hit multiple targets. Once you get your 2 Dragon Eyes, you can roll into Life and drop Nastrond and Stardiver to unleash destruction on a level where only **Black Mage** can compete. Be sure not to forget to weave Life Surge before the Coerthan Torment hit! The automatic critical hit affects all targets hit.
 
@@ -287,7 +291,7 @@ The short answer is **yes**, you should be using Disembowel during trash.
 The long answer is that using it causes you to lose potency overall if you’re hitting four or more enemies with the above combo, but that potency is **very easily made up** by any of our various off-GCD area-of-effect actions - Geirskogul, Nastrond, Stardiver, and Dragonfire Dive.
 
 Applying Disembowel is 290 + 320 = 610 potency
-Coerthan Torment combo is 200 potency per gcd per mob - 400 over 2 gcds
+Coerthan Torment combo is 200 potency per GCD per mob - 400 over 2 GCDs
 
 <div align="center">
 
@@ -332,7 +336,7 @@ These openers have not been too thoroughly tested as of yet, so please take them
 
 The backbone of ten GCDs in sequence will - in general - never be changed, but the two blocks of skills (**Buffs** and **Attacks**) can be shuffled around within their respective slots if necessary to accommodate specific encounter timings.
 
-  <img src="/img/opener.png" alt="Opener" height="250px">  
+  ![](/img/opener.png)
 
 The default order for the **Attacks** puts Spineshatter Dive as a buffer skill between High Jump and Geirskogul in order to try and prevent future situations where the two are ready at the exact same time.
 
