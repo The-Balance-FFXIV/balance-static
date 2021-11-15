@@ -1,18 +1,17 @@
 ---
 title: Dark Knight Skills Overview
 authors:
-  - Balance DRK Staff
+  - Balance-DRK-Staff
 patch: "5.5"
 lastmod: 2021-10-27T17:34:19.148Z
 changelog:
   - date: 2021-10-27T17:34:49.525Z
     message: Added
 ---
-## Skills and Abilities Overview
-
 ### Tank Stance
 
-![Grit](https://xivapi.com/i/003000/003070_hr1.png) <br> **Grit**
+![Grit](https://xivapi.com/i/003000/003070_hr1.png) 
+ **Grit**
 
 * Toggle - Ten second cooldown after toggling on • no cooldown for toggling off
 * Multiplies enmity (aggro, hate, etc) generation by ten
@@ -20,7 +19,10 @@ changelog:
 
 ### Single Target GCDs
 
-![Hard Slash](https://xivapi.com/i/003000/003051_hr1.png) ![Syphon Strike](https://xivapi.com/i/003000/003054_hr1.png) ![Souleater](https://xivapi.com/i/003000/003055_hr1.png) <br> **Souleater Combo**
+|**Hard Slash >** | **Syphon Strike >** | **Souleater**|
+|-|-|-|
+|![Hard Slash](https://xivapi.com/i/003000/003051_hr1.png) | ![Syphon Strike](https://xivapi.com/i/003000/003054_hr1.png) | ![Souleater](https://xivapi.com/i/003000/003055_hr1.png)| 
+ **Souleater Combo**
 
 * 200 > 300 > 400 potency
 
@@ -28,14 +30,15 @@ changelog:
   2. Syphon Strike: +600 MP
   3. Souleater: +20 Blood, 300p heal
 
-![Bloodspiller](https://xivapi.com/i/003000/003080_hr1.png) <br>**Bloodspiller**
+![Bloodspiller](https://xivapi.com/i/003000/003080_hr1.png) 
+**Bloodspiller**
 
 * 600 potency
 * Costs 50 Blood
 
-### Abilities (oGCDs)
+## Abilities (oGCDs)
 
-#### Buffs
+### Buffs
 
 ![Blood Weapon](https://xivapi.com/i/003000/003071_hr1.png)
 
@@ -162,9 +165,9 @@ Shield: 25% target’s max. HP
 
 #### Living Dead
 
-10s duration
-<br>If you would die with *Living Dead* active, you instead don’t die and gain *Walking Dead* for ten seconds.
-<br>*Walking Dead* - Can’t be reduced below one HP for the duration. Die after Walking Dead runs out unless healed for 100% of your HP, dispelling Walking Dead.
+10s duration\
+If you would die with *Living Dead* active, you instead don’t die and gain *Walking Dead* for ten seconds.\
+*Walking Dead* - Can’t be reduced below one HP for the duration. Die after Walking Dead runs out unless healed for 100% of your HP, dispelling Walking Dead.
 
 ### Utility
 
@@ -193,7 +196,9 @@ Shield: 25% target’s max. HP
 
 ## AoE
 
-![Unleash](https://xivapi.com/i/003000/003063_hr1.png) ![Stalwart Soul](https://xivapi.com/i/003000/003084_hr1.png)
+|**Unleash >** | **Stalwart Soul**|
+|-|-|
+|![Unleash](https://xivapi.com/i/003000/003063_hr1.png) | ![Stalwart Soul](https://xivapi.com/i/003000/003084_hr1.png)|
 
 ### Stalwart Soul Combo (GCD)
 
