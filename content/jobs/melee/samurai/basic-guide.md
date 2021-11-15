@@ -1,6 +1,6 @@
 ---
 title: Samurai Basic Guide
-card_header_image: /img/jobs/sam/jobguide.jpg
+card_header_image: /img/jobs/sam/basic.png
 authors:
   - Balance-SAM-Staff
 patch: "5.58"
