@@ -1,5 +1,6 @@
 ---
 title: Bard Leveling Guide
+card_header_image: /img/jobs/brd/brd-leveling.jpg
 authors:
   - Balance-BRD-Staff
 patch: "5.58"
