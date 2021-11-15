@@ -78,6 +78,8 @@ collections:
   ##
   - label: "Warrior guide"
     name: "war-guide"
+    media_folder: '/static/img/jobs/war'
+    public_folder: '/img/jobs/war'
     files:
       - label: "Landing page"
         name: "landing"
@@ -91,6 +93,7 @@ collections:
         file: "content/jobs/tanks/warrior/leveling-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -115,6 +118,7 @@ collections:
         file: "content/jobs/tanks/warrior/basic-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -139,6 +143,7 @@ collections:
         file: "content/jobs/tanks/warrior/skills-overview.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -163,6 +168,7 @@ collections:
         file: "content/jobs/tanks/warrior/openers.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -285,6 +291,8 @@ collections:
   ##
   - label: "Paladin guide"
     name: "pld-guide"
+    media_folder: '/static/img/jobs/pld'
+    public_folder: '/img/jobs/pld'
     files:
       - label: "Landing page"
         name: "landing"
@@ -298,6 +306,7 @@ collections:
         file: "content/jobs/tanks/paladin/leveling-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -322,6 +331,7 @@ collections:
         file: "content/jobs/tanks/paladin/basic-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -346,6 +356,7 @@ collections:
         file: "content/jobs/tanks/paladin/skills-overview.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -370,6 +381,7 @@ collections:
         file: "content/jobs/tanks/paladin/openers.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -492,6 +504,8 @@ collections:
   ##
   - label: "Dark Knight guide"
     name: "drk-guide"
+    media_folder: '/static/img/jobs/drk'
+    public_folder: '/img/jobs/drk'
     files:
       - label: "Landing page"
         name: "landing"
@@ -505,6 +519,7 @@ collections:
         file: "content/jobs/tanks/dark-knight/leveling-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -529,6 +544,7 @@ collections:
         file: "content/jobs/tanks/dark-knight/basic-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -553,6 +569,7 @@ collections:
         file: "content/jobs/tanks/dark-knight/skills-overview.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -577,6 +594,7 @@ collections:
         file: "content/jobs/tanks/dark-knight/openers.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -699,6 +717,8 @@ collections:
   ##
   - label: "Gunbreaker guide"
     name: "gnb-guide"
+    media_folder: '/static/img/jobs/gnb'
+    public_folder: '/img/jobs/gnb'
     files:
       - label: "Landing page"
         name: "landing"
@@ -712,6 +732,7 @@ collections:
         file: "content/jobs/tanks/gunbreaker/leveling-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -736,6 +757,7 @@ collections:
         file: "content/jobs/tanks/gunbreaker/basic-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -760,6 +782,7 @@ collections:
         file: "content/jobs/tanks/gunbreaker/skills-overview.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -784,6 +807,7 @@ collections:
         file: "content/jobs/tanks/gunbreaker/openers.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -906,6 +930,8 @@ collections:
   ##
   - label: "White Mage guide"
     name: "whm-guide"
+    media_folder: '/static/img/jobs/whm'
+    public_folder: '/img/jobs/whm'
     files:
       - label: "Landing page"
         name: "landing"
@@ -919,6 +945,7 @@ collections:
         file: "content/jobs/healers/white-mage/leveling-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -943,6 +970,7 @@ collections:
         file: "content/jobs/healers/white-mage/basic-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -967,6 +995,7 @@ collections:
         file: "content/jobs/healers/white-mage/skills-overview.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -991,6 +1020,7 @@ collections:
         file: "content/jobs/healers/white-mage/openers.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1113,6 +1143,8 @@ collections:
   ##
   - label: "Scholar guide"
     name: "sch-guide"
+    media_folder: '/static/img/jobs/sch'
+    public_folder: '/img/jobs/sch'
     files:
       - label: "Landing page"
         name: "landing"
@@ -1126,6 +1158,7 @@ collections:
         file: "content/jobs/healers/scholar/leveling-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1150,6 +1183,7 @@ collections:
         file: "content/jobs/healers/scholar/basic-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1174,6 +1208,7 @@ collections:
         file: "content/jobs/healers/scholar/skills-overview.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1198,6 +1233,7 @@ collections:
         file: "content/jobs/healers/scholar/openers.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1320,6 +1356,8 @@ collections:
   ##
   - label: "Astrologian guide"
     name: "ast-guide"
+    media_folder: '/static/img/jobs/ast'
+    public_folder: '/img/jobs/ast'
     files:
       - label: "Landing page"
         name: "landing"
@@ -1333,6 +1371,7 @@ collections:
         file: "content/jobs/healers/astrologian/leveling-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1357,6 +1396,7 @@ collections:
         file: "content/jobs/healers/astrologian/basic-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1381,6 +1421,7 @@ collections:
         file: "content/jobs/healers/astrologian/skills-overview.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1405,6 +1446,7 @@ collections:
         file: "content/jobs/healers/astrologian/openers.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1527,6 +1569,8 @@ collections:
   ##
   - label: "Sage guide"
     name: "sge-guide"
+    media_folder: '/static/img/jobs/sge'
+    public_folder: '/img/jobs/sge'
     files:
       - label: "Landing page"
         name: "landing"
@@ -1540,6 +1584,7 @@ collections:
         file: "content/jobs/healers/sage/leveling-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1564,6 +1609,7 @@ collections:
         file: "content/jobs/healers/sage/basic-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1588,6 +1634,7 @@ collections:
         file: "content/jobs/healers/sage/skills-overview.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1612,6 +1659,7 @@ collections:
         file: "content/jobs/healers/sage/openers.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1734,6 +1782,8 @@ collections:
   ##
   - label: "Dragoon guide"
     name: "drg-guide"
+    media_folder: '/static/img/jobs/drg'
+    public_folder: '/img/jobs/drg'
     files:
       - label: "Landing page"
         name: "landing"
@@ -1747,6 +1797,7 @@ collections:
         file: "content/jobs/melee/dragoon/leveling-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1771,6 +1822,7 @@ collections:
         file: "content/jobs/melee/dragoon/basic-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1795,6 +1847,7 @@ collections:
         file: "content/jobs/melee/dragoon/skills-overview.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1819,6 +1872,7 @@ collections:
         file: "content/jobs/melee/dragoon/openers.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1941,6 +1995,8 @@ collections:
   ##
   - label: "Reaper guide"
     name: "rpr-guide"
+    media_folder: '/static/img/jobs/rpr'
+    public_folder: '/img/jobs/rpr'
     files:
       - label: "Landing page"
         name: "landing"
@@ -1954,6 +2010,7 @@ collections:
         file: "content/jobs/melee/reaper/leveling-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1978,6 +2035,7 @@ collections:
         file: "content/jobs/melee/reaper/basic-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2002,6 +2060,7 @@ collections:
         file: "content/jobs/melee/reaper/skills-overview.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2026,6 +2085,7 @@ collections:
         file: "content/jobs/melee/reaper/openers.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2148,6 +2208,8 @@ collections:
   ##
   - label: "Samurai guide"
     name: "sam-guide"
+    media_folder: '/static/img/jobs/sam'
+    public_folder: '/img/jobs/sam'
     files:
       - label: "Landing page"
         name: "landing"
@@ -2161,6 +2223,7 @@ collections:
         file: "content/jobs/melee/samurai/leveling-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2185,6 +2248,7 @@ collections:
         file: "content/jobs/melee/samurai/basic-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2209,6 +2273,7 @@ collections:
         file: "content/jobs/melee/samurai/skills-overview.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2233,6 +2298,7 @@ collections:
         file: "content/jobs/melee/samurai/openers.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2355,6 +2421,8 @@ collections:
   ##
   - label: "Monk guide"
     name: "mnk-guide"
+    media_folder: '/static/img/jobs/mnk'
+    public_folder: '/img/jobs/mnk'
     files:
       - label: "Landing page"
         name: "landing"
@@ -2368,6 +2436,7 @@ collections:
         file: "content/jobs/melee/monk/leveling-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2392,6 +2461,7 @@ collections:
         file: "content/jobs/melee/monk/basic-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2416,6 +2486,7 @@ collections:
         file: "content/jobs/melee/monk/skills-overview.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2440,6 +2511,7 @@ collections:
         file: "content/jobs/melee/monk/openers.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2562,6 +2634,8 @@ collections:
   ##
   - label: "Ninja guide"
     name: "nin-guide"
+    media_folder: '/static/img/jobs/nin'
+    public_folder: '/img/jobs/nin'
     files:
       - label: "Landing page"
         name: "landing"
@@ -2575,6 +2649,7 @@ collections:
         file: "content/jobs/melee/ninja/leveling-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2599,6 +2674,7 @@ collections:
         file: "content/jobs/melee/ninja/basic-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2623,6 +2699,7 @@ collections:
         file: "content/jobs/melee/ninja/skills-overview.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2647,6 +2724,7 @@ collections:
         file: "content/jobs/melee/ninja/openers.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2769,6 +2847,8 @@ collections:
   ##
   - label: "Machinist guide"
     name: "mch-guide"
+    media_folder: '/static/img/jobs/mch'
+    public_folder: '/img/jobs/mch'
     files:
       - label: "Landing page"
         name: "landing"
@@ -2782,6 +2862,7 @@ collections:
         file: "content/jobs/ranged/machinist/leveling-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2806,6 +2887,7 @@ collections:
         file: "content/jobs/ranged/machinist/basic-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2830,6 +2912,7 @@ collections:
         file: "content/jobs/ranged/machinist/skills-overview.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2854,6 +2937,7 @@ collections:
         file: "content/jobs/ranged/machinist/openers.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2976,6 +3060,8 @@ collections:
   ##
   - label: "Dancer guide"
     name: "dnc-guide"
+    media_folder: '/static/img/jobs/dnc'
+    public_folder: '/img/jobs/dnc'
     files:
       - label: "Landing page"
         name: "landing"
@@ -2989,6 +3075,7 @@ collections:
         file: "content/jobs/ranged/dancer/leveling-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3013,6 +3100,7 @@ collections:
         file: "content/jobs/ranged/dancer/basic-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3037,6 +3125,7 @@ collections:
         file: "content/jobs/ranged/dancer/skills-overview.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3061,6 +3150,7 @@ collections:
         file: "content/jobs/ranged/dancer/openers.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3183,6 +3273,8 @@ collections:
   ##
   - label: "Bard guide"
     name: "brd-guide"
+    media_folder: '/static/img/jobs/brd'
+    public_folder: '/img/jobs/brd'
     files:
       - label: "Landing page"
         name: "landing"
@@ -3196,6 +3288,7 @@ collections:
         file: "content/jobs/ranged/bard/leveling-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3220,6 +3313,7 @@ collections:
         file: "content/jobs/ranged/bard/basic-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3244,6 +3338,7 @@ collections:
         file: "content/jobs/ranged/bard/skills-overview.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3268,6 +3363,7 @@ collections:
         file: "content/jobs/ranged/bard/openers.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3390,6 +3486,8 @@ collections:
   ##
   - label: "Black Mage guide"
     name: "blm-guide"
+    media_folder: '/static/img/jobs/blm'
+    public_folder: '/img/jobs/blm'
     files:
       - label: "Landing page"
         name: "landing"
@@ -3403,6 +3501,7 @@ collections:
         file: "content/jobs/casters/black-mage/leveling-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3427,6 +3526,7 @@ collections:
         file: "content/jobs/casters/black-mage/basic-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3451,6 +3551,7 @@ collections:
         file: "content/jobs/casters/black-mage/skills-overview.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3475,6 +3576,7 @@ collections:
         file: "content/jobs/casters/black-mage/openers.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3597,6 +3699,8 @@ collections:
   ##
   - label: "Summoner guide"
     name: "smn-guide"
+    media_folder: '/static/img/jobs/smn'
+    public_folder: '/img/jobs/smn'
     files:
       - label: "Landing page"
         name: "landing"
@@ -3610,6 +3714,7 @@ collections:
         file: "content/jobs/casters/summoner/leveling-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3634,6 +3739,7 @@ collections:
         file: "content/jobs/casters/summoner/basic-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3658,6 +3764,7 @@ collections:
         file: "content/jobs/casters/summoner/skills-overview.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3682,6 +3789,7 @@ collections:
         file: "content/jobs/casters/summoner/openers.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3804,6 +3912,8 @@ collections:
   ##
   - label: "Red Mage guide"
     name: "rdm-guide"
+    media_folder: '/static/img/jobs/rdm'
+    public_folder: '/img/jobs/rdm'
     files:
       - label: "Landing page"
         name: "landing"
@@ -3817,6 +3927,7 @@ collections:
         file: "content/jobs/casters/red-mage/leveling-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3841,6 +3952,7 @@ collections:
         file: "content/jobs/casters/red-mage/basic-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3865,6 +3977,7 @@ collections:
         file: "content/jobs/casters/red-mage/skills-overview.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3889,6 +4002,7 @@ collections:
         file: "content/jobs/casters/red-mage/openers.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
