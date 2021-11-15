@@ -88,15 +88,17 @@ GNB has three combos. The **Solid Barrel** combo, **Demon Slaughter** combo, and
 
 If you are unfamiliar with combo based classes in FFXIV, the game has a handy system to show you what combo skill to hit next. A dotted yellow outline will appear around the next skill in the combo. You have 15 seconds (or about 5 GCDs) to hit the next combo action before the combo deactivates (breaks). Using any other GCD ability will break combos as well, with some exceptions. 
 
-![KeenEdge](/img/jobs/tanks/gunbreaker/Keen_Edge.png)![BrutalShell](/img/jobs/tanks/gunbreaker/Brutal_Shell.png)![SolidBarrel](/img/jobs/tanks/gunbreaker/Solid_Barrel.png)
+| **Keen Edge->**                                       | **Brutal Shell->**                                          | **Solid Barrel**                                            |
+| ----------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- |
+| ![KeenEdge](/img/jobs/tanks/gunbreaker/Keen_Edge.png) | ![BrutalShell](/img/jobs/tanks/gunbreaker/Brutal_Shell.png) | ![SolidBarrel](/img/jobs/tanks/gunbreaker/Solid_Barrel.png) |
 
-**Keen Edge -> Brutal Shell -> Solid Barrel**
 
 Solid Barrel combo is our single target combo. Builds one Cartridge.
 
-![DemonSlice](/img/jobs/tanks/gunbreaker/Demon_Slice.png)![DemonSlaughter](/img/jobs/tanks/gunbreaker/Demon_Slaughter.png)
+| **Demon Slice->** | **Demon Slaughter** |
+|-|-|
+|![DemonSlice](/img/jobs/tanks/gunbreaker/Demon_Slice.png) | ![DemonSlaughter](/img/jobs/tanks/gunbreaker/Demon_Slaughter.png)|
 
-**Demon Slice -> Demon Slaughter**
 
 Demon Slaughter combo is our 2+ target AoE combo. Builds one Cartridge.
 We will talk about when to use Solid Barrel combo vs Demon Slaughter combo in the next section. 
