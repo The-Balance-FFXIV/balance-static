@@ -59,7 +59,7 @@ The bread-and-butter of your rotation, so to speak, these are the buttons you pr
 
 |**True Thrust >** | **Vorpal Thrust >** | **Chaos Thrust >** | **Wheeling Thrust >** | **Fang and Claw**|
 |-|-|-|-|-|
-|![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) |  ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png)|  
+|![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) |  ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png)|  
 
 This combo has our basic damage buff in **Disembowel** alongside our damage-over-time skill, **Chaos Thrust**. These two effects are essential in dishing out proper amounts of damage.
 
@@ -79,11 +79,13 @@ This action functions as a direct upgrade to **True Thrust** after you’ve succ
 
 #### The Coerthan Torment Combo
 
-<img src="/img/dos.png" alt="Doom Spike" height="50px"> <img src="/img/sot.png" alt="Sonic Thrust" height="50px"> <img src="/img/cot.png" alt="Coerthan Torment" height="50px"> 
+|**Doom Spike >** | **Sonic Thrust >** | **Coerthan Torment**|
+|-|-|-|
+|![](https://xivapi.com/i/000000/000306_hr1.png) | ![](https://xivapi.com/i/002000/002586_hr1.png) | ![](https://xivapi.com/i/002000/002590_hr1.png)|
 
 Our new and freshly upgraded area-of-effect combo now packs **Coerthan Torment** as a third hit finisher! This is primarily used when dealing with a group of enemies numbering **three or more**.
 
-#### Basic Rotation
+### Basic Rotation
 
 <img src="/img/tt.png" alt="Raiden Thrust" height="50px"> <img src="/img/de.png" alt="Disembowel" height="50px"> <img src="/img/ct.png" alt="Chaos Thrust" height="50px"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px"> <img src="/img/fc.png" alt="Fang and Claw" height="50px"> <img src="/img/rt.png" alt="Raiden Thrust" height="50px"> <img src="/img/vt.png" alt="Vorpal Thrust" height="50px"> <img src="/img/ft.png" alt="Full Thrust" height="50px"> <img src="/img/fc.png" alt="Fang and Claw" height="50px"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px"> 
 
