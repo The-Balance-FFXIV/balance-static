@@ -1,6 +1,6 @@
 ---
 title: Red Mage Basic Guide
-card_header_image: /img/jobs/rdm/rdm-basic-guide-1-.jpg
+card_header_image: /img/jobs/rdm/basic.png
 authors:
   - Balance-RDM-Staff
 patch: "5.58"
