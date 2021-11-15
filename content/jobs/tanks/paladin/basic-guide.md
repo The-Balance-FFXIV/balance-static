@@ -49,7 +49,11 @@ If used with at least 8,000 MP, provides a 12 second buff:
 
 ### Single Target GCDs
 
-**Goring Blade Combo**<br>![](https://xivapi.com/i/000000/000158_hr1.png)![](https://xivapi.com/i/000000/000156_hr1.png)![](https://xivapi.com/i/002000/002506_hr1.png)
+**Goring Blade Combo**
+
+|**Fast Blade >** | **Riot Blade >** | **Goring Blade**|
+|-|-|-|
+|![](https://xivapi.com/i/000000/000158_hr1.png) | ![](https://xivapi.com/i/000000/000156_hr1.png) | ![](https://xivapi.com/i/002000/002506_hr1.png)|
 
 200 > 300 > 390 potency + 595 potency DoT over 21 seconds (physical damage).
 
@@ -57,7 +61,11 @@ The DoT portion snapshots buffs and debuffs when Goring Blade is cast.
 
 +1000 MP from Riot Blade
 
-**Royal Authority Combo**<br>![](https://xivapi.com/i/000000/000158_hr1.png)![](https://xivapi.com/i/000000/000156_hr1.png)![](https://xivapi.com/i/002000/002507_hr1.png)
+**Royal Authority Combo**
+
+|**Fast Blade >** | **Riot Blade >** | **Royal Authority**|
+|-|-|-|
+|![](https://xivapi.com/i/000000/000158_hr1.png) | ![](https://xivapi.com/i/000000/000156_hr1.png) | ![](https://xivapi.com/i/002000/002507_hr1.png)|
 
 200 > 300 > 550 potency (physical damage)
 
