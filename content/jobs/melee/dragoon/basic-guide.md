@@ -15,8 +15,8 @@ changelog:
 
 Dragoon is a very static **melee dps** Job. You have strict, long combos to execute and timers within those combos that need to be maintained. Unlike other Jobs - especially other melee - which rely upon a priority system for their basic GCD rotation, Dragoon instead has static buttons to press in a specific order with very little variance. **Shadowbringers** brings with it a new reliance on hitting proper positionals to trigger new skills.
 
-- - -
-
+- - -  
+  
 ### The Brains Behind the Operation
 
 **Eve Malqir** (Balmung) - the primary writer of this guide and Dragoon Mentor from [The Balance](https://discord.gg/thebalanceffxiv "The Balance Discord")\
@@ -30,14 +30,14 @@ Contact: **Xiu Ye#0560** on Discord | [Youtube](https://www.youtube.com/channel/
 Available to field any questions in French!\
 Contact: **Cyane#6811** on Discord | [Youtube](https://www.youtube.com/channel/UCvUJhjEM4tP_mAu-VoOirsg/videos?view_as=subscriber) | [Twitch](https://www.twitch.tv/cyanexiv)
 
-- - -
-
+- - -  
+  
 ### Support the Creator
 
 I wrote a book! If anyone feels particularly generous and wants to support me (Eve), you can find said book for sale on [Amazon](https://www.amazon.com/dp/1702412768).
 
-- - -
-
+- - -  
+  
 ### Resources
 
 * [Gear Comparison Tool](http://bit.ly/DRG-Gear-Accurate)\
@@ -49,8 +49,8 @@ I wrote a book! If anyone feels particularly generous and wants to support me (E
 * [Tethercalc](https://tethercalc.herokuapp.com/) by Platinum Xephera on Ultros\
   An incredibly useful tool that you can use to see which member of your party is the proper tether target. You just inject your fflogs link to the fight in question and it’ll tell you who you tethered and show you who was the best target.
 
-- - -
-
+- - -  
+  
 ### Global Cooldown (GCD) Actions
 
 The bread-and-butter of your rotation, so to speak, these are the buttons you press most frequently. They're broken down into several **combo** chains with various effects and uses.
@@ -91,8 +91,8 @@ Putting all of this together with the timers, we come out with one single string
 
 Currently not used. You are safe to unmap Piercing Talon from your bar. With us having two 5-hit combo chains and this button breaking either combo at any stage and the longer runoff for combo maintenance, there is almost no way that this skill will ever find use. If it does, this section will add those niche cases.
 
-- - -
-
+- - -  
+  
 ### Positionals
 
 Several actions in the kit deal more damage from the **Side** of a boss, and several deal more from the **Rear**. You want to be sure to set up to hit these for extra damage whenever possible.
@@ -101,7 +101,7 @@ Several actions in the kit deal more damage from the **Side** of a boss, and sev
 
 <img src="/img/pos.png" alt="Positionals" style="float:left;" height="220px">
 
-\
+
 The arrow at the top is the **Front** of the target. You get no special bonuses by attacking here, other than lots of bonus deaths for standing in tank busters and cleaves.
 
 On the left and right, you will find the **Sides** of the target. They account for 90o of the target on either side, but you will generally want to stand near the base of the visible line.
@@ -136,8 +136,8 @@ In other words: You should *always* strive to land *every* positional in any sit
    **It is not the end of the world if your group stacks on the face of the boss.
    The DPS loss is not worth causing wipes over.**
 
-- - -
-
+- - -  
+  
 ### Off-GCD Actions
 
 These actions have individual recast timers, allowing you to so-called “weave” them between your GCDs.
@@ -227,8 +227,8 @@ Using any buffs after the red spaces will cause you to suffer substantial losses
 The yellow spaces are reasonably good enough in comparison to red.\
 The green spaces guarantee maximum output of your buffs.
 
-- - -
-
+- - -  
+  
 ## Multiple Target Situations
 
 We will be operating under the assumption that the fact that our multi-target combo does not extend Disembowel buff is an oversight. We’re the only melee that doesn’t get that benefit, so it’s likely a mistake. Someday, based Yoshida will notice us and fix it. Maybe.
@@ -255,7 +255,7 @@ The short answer is **yes**, you should be using Disembowel during trash.
 
 The long answer is that using it causes you to lose potency overall if you’re hitting four or more enemies with the above combo, but that potency is **very easily made up** by any of our various off-GCD area-of-effect actions - Geirskogul, Nastrond, Stardiver, and Dragonfire Dive.
 
-Applying Disembowel is 290+320 = 610 potency\
+Applying Disembowel is 290 + 320 = 610 potency
 Coerthan Torment combo is 200 potency per gcd per mob - 400 over 2 gcds
 
 <div align="center">
@@ -289,8 +289,8 @@ The formula to directly generate the potency needed per enemy column, knowing th
 
 Because of the nature of this formula, it has an absolute maximum value of **1600** - meaning that, no matter how many enemies you are facing, if you have over 1600 in per-target area-of-effect off-GCD actions available to use in those 30 seconds, Disembowel is **always** worth using.
 
-- - -
-
+- - -  
+  
 ## The Opener
 
 I know a lot of you have skipped ahead to this section, since you feel like you have a solid grasp on the fundamentals, and I think that’s great! The primary use of the Opener is to prepare your cooldown alignment for the rest of the encounter. With our new Job design, it’s possible that we’ll actually have fight-specific openers down the stretch, and they’ll all be added here!
@@ -305,8 +305,8 @@ The backbone of ten GCDs in sequence will - in general - never be changed, but t
 
 The default order for the **Attacks** puts Spineshatter Dive as a buffer skill between High Jump and Geirskogul in order to try and prevent future situations where the two are ready at the exact same time.
 
-- - -
-
+- - -  
+  
 ## Optimization Station
 
 ### GCD Rotation
@@ -433,9 +433,9 @@ Different options are listed below, with varying degrees of usefulness/ease of u
 /ac "Dragon Sight" <mo>
 /micon "Dragon Sight"
 ```
-
+  
 ##### Mixed Macro
-
+  
 ```
 /merror off
 /ac "Dragon Sight"
@@ -453,9 +453,9 @@ Different options are listed below, with varying degrees of usefulness/ease of u
 /ac "Dragon Sight" <2>
 /micon "Dragon Sight"
 ```
-
+  
 ##### One Specific Ally
-
+  
 ```
 /merror off
 /ac "Dragon Sight" <2>
@@ -473,12 +473,12 @@ Different options are listed below, with varying degrees of usefulness/ease of u
 /ac "Dragon Sight" <2>
 /micon "Dragon Sight"
 ```
-
+  
 For controller, I recommend learning to soft-target and dropping all reliance on macros.
 For keyboard/mouse, I recommend  one to three specific ally macros for reliable friends and a mouseover as a backup (or primary, your call).
 
-- - -
-
+- - -  
+  
 ## Gearing Up
 
 As things appear to be right now, our stat priority has not changed!
