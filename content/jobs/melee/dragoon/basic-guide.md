@@ -87,9 +87,9 @@ Our new and freshly upgraded area-of-effect combo now packs **Coerthan Torment**
 
 ### Basic Rotation
 
-|**True Thrust >** | **Disembowel >** | **Chaos Thrust >** | **Wheeling Thrust >** | **Fang and Claw >** | **Raiden Thrust >** | **Vorpal Thrust >** | **Full Thrust >** | **Fang and Claw >**| **Wheeling Thrust**|
+|**Raiden Thrust >** | **Disembowel >** | **Chaos Thrust >** | **Wheeling Thrust >** | **Fang and Claw >** | **Raiden Thrust >** | **Vorpal Thrust >** | **Full Thrust >** | **Fang and Claw >**| **Wheeling Thrust**|
 |-|-|-|-|-|-|-|-|-|-|
-|![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png)|  
+|![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png)|  
 
 Putting all of this together with the timers, we come out with one single string of actions. In general, under normal circumstances, we want to maintain this sequence of GCDs for as long as we are capable!
 
