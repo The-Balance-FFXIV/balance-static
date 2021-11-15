@@ -352,13 +352,13 @@ Disengaging from the target can cause your rotation to get forcibly shifted arou
 
 | | | | | |
 |-|-|-|-|-|   
-|![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png)|
+|![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png)|\ 
 
 2. Disembowel has more than 10 seconds remaining
 
 | | | | | |
 |-|-|-|-|-|
-|![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png)|
+|![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png)|\ 
 
 That’s honestly all there is to discuss here. This is more of a judgment call, honestly - anything up to around 12 seconds remaining could be clipped, but ten is the basic cutoff for getting all five hits of your Full Thrust Combo with Disembowel’s buff before it falls off. You would lose the buff on Raiden Thrust and Disembowel after the fact, but that can be overcome.
 
@@ -366,7 +366,10 @@ The only exception to this rule is if you are going to hit an off-GCD action in 
 
 ### Action specifics
 
-#### ![](https://xivapi.com/i/002000/002583.png) Geirskogul ![](https://xivapi.com/i/002000/002583.png) and ![](https://xivapi.com/i/002000/002589.png) Nastrond ![](https://xivapi.com/i/002000/002589.png)
+#### 
+| | | | | | | |
+|-|-|-|-|-|-|-|
+|![](https://xivapi.com/i/002000/002583.png) | Geirskogul | ![](https://xivapi.com/i/002000/002583.png) | and | ![](https://xivapi.com/i/002000/002589.png) | Nastrond| ![](https://xivapi.com/i/002000/002589.png)|
 
 The general cycle for Life of the Dragon is very straightforward:
 
@@ -382,13 +385,13 @@ The basic idea is to choose between pressing Mirage Dive before or after Geirsko
 
 <div align="center">
 
-| Assuming you already have one Eye and High Jump is coming up soon:             |                                                                                                                                                                       |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| If Lance Charge has less than 18 seconds until it's ready, **enter**           | <img src="/img/hj.png" alt="High Jump" height="20px"> <img src="/img/md.png" alt="Mirage Dive" height="20px"> <img src="/img/gsk.png" alt="Geirskogul" height="20px"> |
-| If, instead, Lance Charge has more than 23 seconds until it's ready, **delay** | <img src="/img/hj.png" alt="High Jump" height="20px"> <img src="/img/gsk.png" alt="Geirskogul" height="20px"> <img src="/img/md.png" alt="Mirage Dive" height="20px"> |
-| If, instead, Dragon Sight has less than 18 seconds until it's ready, **enter** | <img src="/img/hj.png" alt="High Jump" height="20px"> <img src="/img/md.png" alt="Mirage Dive" height="20px"> <img src="/img/gsk.png" alt="Geirskogul" height="20px"> |
-| If, instead, Dragon Sight has more than 23 seconds until it's ready, **delay** | <img src="/img/hj.png" alt="High Jump" height="20px"> <img src="/img/gsk.png" alt="Geirskogul" height="20px"> <img src="/img/md.png" alt="Mirage Dive" height="20px"> |
-| Otherwise, **enter**                                                           | <img src="/img/hj.png" alt="High Jump" height="20px"> <img src="/img/md.png" alt="Mirage Dive" height="20px"> <img src="/img/gsk.png" alt="Geirskogul" height="20px"> |
+| Assuming you already have one Eye and High Jump is coming up soon:             |                                                                                                                                                                       | | | |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |-|-|-|
+| If Lance Charge has less than 18 seconds until it's ready, **enter**           | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002591.png) |
+| If, instead, Lance Charge has more than 23 seconds until it's ready, **delay** | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002591.png) |
+| If, instead, Dragon Sight has less than 18 seconds until it's ready, **enter** | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002591.png) |
+| If, instead, Dragon Sight has more than 23 seconds until it's ready, **delay** | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002591.png) |
+| Otherwise, **enter**                                                           | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002591.png) |
 
 #### Delayed First Life
 
