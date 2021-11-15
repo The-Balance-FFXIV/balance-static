@@ -60,11 +60,11 @@ qna:
       Last thing I like to do, and this is the thing people hate doing, is go to "Casts -> Timelines" to check for errors in the rotation. Is Dye refreshed properly? Are Upheavals and ICs going in Trick? Do you lose Path casts? Too many Onslaughts? 
   - question: How do I play WAR?
     answer: "[The 5.x
-      Guide](https://guides.xivresources.com/jobs/tanks/warrior/how-to-fell-cle\
+      Guide](/jobs/tanks/warrior/how-to-fell-cle\
       ave-an-angry-wannabe-healer-also-known-as-warrior-5-0-the-guide)"
   - question: What do I meld?
     answer: Check the [Stats and
-      Materia](https://guides.xivresources.com/jobs/tanks/warrior/stats-and-materia/)
+      Materia](/jobs/tanks/warrior/stats-and-materia/)
       guide!
   - question: Why can't I fit five Fell Cleaves inside Inner Release?
     answer: >-
@@ -115,11 +115,11 @@ Last thing I like to do, and this is the thing people hate doing, is go to "Cast
 
 Click and read below\
 \
-[The 5.x Guide](https://guides.xivresources.com/jobs/tanks/warrior/how-to-fell-cleave-an-angry-wannabe-healer-also-known-as-warrior-5-0-the-guide)
+[The 5.x Guide](/jobs/tanks/warrior/how-to-fell-cleave-an-angry-wannabe-healer-also-known-as-warrior-5-0-the-guide)
 
 > *What do I meld?*
 
-Check the [Stats and Materia](https://guides.xivresources.com/jobs/tanks/warrior/stats-and-materia/) guide!
+Check the [Stats and Materia](/jobs/tanks/warrior/stats-and-materia/) guide!
 
 > *Why can't I fit five Fell Cleaves inside Inner Release?*
 

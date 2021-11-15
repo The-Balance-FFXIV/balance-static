@@ -3,7 +3,7 @@ title: Advanced BRD
 ---
 # Advanced Bard Gameplay
 
-> From the full BRD guide, located [here](https://guides.xivresources.com/jobs/ranged/bard/the-pursuit-of-comfiness-bard-guide-5-x).
+> From the full BRD guide, located [here](/jobs/ranged/bard/the-pursuit-of-comfiness-bard-guide-5-x).
 
 ## RS Alignment Choice
 

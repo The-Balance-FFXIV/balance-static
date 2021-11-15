@@ -70,7 +70,7 @@ qna:
   - question: "\"What's BiS?\"/\"What stats should I put on my relic?\""
     answer: >-
       Check out the [BiS page
-      here](https://guides.xivresources.com/jobs/melee/monk/best-in-slot/).
+      here](/jobs/melee/monk/best-in-slot/).
 
 
       The following Pastebin contains recommendations for BiS sets in all three Ultimate fights, containing both Relic/Non-relic sets

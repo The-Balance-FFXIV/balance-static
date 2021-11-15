@@ -9,7 +9,7 @@ For level 70 Ultimates, a full set of synced gear with Critical Hit + Determinat
 
 Use the most current food available. Any grade Tincture of Strength will grant the maximum benefit in UCoB. 
 
-If you wish to further optimize your gear, a non-exhaustive list of best-in-slot configurations using Resistance Weapons will be listed below. You can find a complete list in the dedicated [best-in-slot guide for DRK](https://guides.xivresources.com/jobs/tanks/dark-knight/best-in-slot/), or use the Tank DPS Calculator to determine your own.
+If you wish to further optimize your gear, a non-exhaustive list of best-in-slot configurations using Resistance Weapons will be listed below. You can find a complete list in the dedicated [best-in-slot guide for DRK](/jobs/tanks/dark-knight/best-in-slot/), or use the Tank DPS Calculator to determine your own.
 
 ## Defensive Cooldown Usage
 
@@ -117,7 +117,7 @@ For level 70 Ultimates, a full set of synced gear with Critical Hit + Determinat
 
 Use the most current food available. Any grade Tincture of Strength will grant the maximum benefit in UWU. 
 
-If you wish to further optimize your gear, a non-exhaustive list of best-in-slot configurations using Resistance Weapons will be listed below. You can find a complete list in the [dedicated best-in-slot guide for DRK](https://guides.xivresources.com/jobs/tanks/dark-knight/best-in-slot/), or use the Tank DPS Calculator to determine your own.
+If you wish to further optimize your gear, a non-exhaustive list of best-in-slot configurations using Resistance Weapons will be listed below. You can find a complete list in the [dedicated best-in-slot guide for DRK](/jobs/tanks/dark-knight/best-in-slot/), or use the Tank DPS Calculator to determine your own.
 
 ## Defensive Cooldown Usage
 
@@ -239,7 +239,7 @@ For TEA, no gear yet exists that will cap out both substats when synced down to 
 
 Use the most current consumables available. You must use Grade 4 Tinctures of Strength for maximum benefit.
 
-If you wish to further optimize your gear, a non-exhaustive list of best-in-slot configurations using Resistance Weapons will be listed below. You can find a complete list in the [dedicated best-in-slot guide for DRK](https://guides.xivresources.com/jobs/tanks/dark-knight/best-in-slot/), or use the Tank DPS Calculator to determine your own.
+If you wish to further optimize your gear, a non-exhaustive list of best-in-slot configurations using Resistance Weapons will be listed below. You can find a complete list in the [dedicated best-in-slot guide for DRK](/jobs/tanks/dark-knight/best-in-slot/), or use the Tank DPS Calculator to determine your own.
 
 ## Defensive Cooldown Usage
 

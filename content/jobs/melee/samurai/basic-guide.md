@@ -21,7 +21,7 @@ Updated by Sweaty Boxer of Midgardsormr
 
 ## Foreword
 
-With the release of Shadowbringers, Samurai is now celebrating two years in the game, and with Aureum’s permission I’m taking over as caretaker for this guide. The 5.0 update brings with it several changes to both Samurai and melee as a whole, but due to the nature of this guide, I will be introducing them for players new to the job. Please see [Jahaudant’s Samurai Compendium](https://guides.xivresources.com/jobs/melee/samurai/expert-the-shadowbringers-samurai-compendium/) for a more in depth look at the changes from 4.X to 5.0 and further optimisations to endgame PvE on Samurai.
+With the release of Shadowbringers, Samurai is now celebrating two years in the game, and with Aureum’s permission I’m taking over as caretaker for this guide. The 5.0 update brings with it several changes to both Samurai and melee as a whole, but due to the nature of this guide, I will be introducing them for players new to the job. Please see [Jahaudant’s Samurai Compendium](/jobs/melee/samurai/expert-the-shadowbringers-samurai-compendium/) for a more in depth look at the changes from 4.X to 5.0 and further optimisations to endgame PvE on Samurai.
 
 > \-Sweaty Boxer
 - - - 
@@ -207,7 +207,7 @@ Enpi is the same. It gains value only if there are time periods where you could 
 
 Of course, exceptions always happen, but you will recognize the exceptions in the fight situation as you gain experience.
 
-In 5.0, usage of Enpi has extended into the potential for keeping rotational alignment. As this is a higher level theory, I will refer to [Jahaudant’s Samurai Compendium](https://guides.xivresources.com/jobs/melee/samurai/expert-the-shadowbringers-samurai-compendium/) for further reading to interested parties.
+In 5.0, usage of Enpi has extended into the potential for keeping rotational alignment. As this is a higher level theory, I will refer to [Jahaudant’s Samurai Compendium](/jobs/melee/samurai/expert-the-shadowbringers-samurai-compendium/) for further reading to interested parties.
 
 - - -
 
@@ -244,7 +244,7 @@ Hagakure is an oGCD ability re-added to the game in patch 5.05 as a shadow of it
 
 The intended purpose for the reintroduction of Hagakure from SE seemed to be from the outcry of players who were upset that in dungeons they would sometimes have leftover Sen and Hagakure would allow them to “wipe clean” this gauge in order to enter a dungeon boss without having to overcap existing Sen while re-applying buffs. In a level 80 raid setting, however, Hagakure serves a similar purpose: it wipes away the Sen we build while filling time waiting for Tsubame to come off cooldown to keep rotational alignment.
 
-The full level 80 looping rotation is not explained in detail in this guide, as this guide is meant to be a primer for people interested in a glance at Samurai or for the basics while leveling and learning the job. As before, I will refer to [Jahaudant’s Samurai Compendium](https://guides.xivresources.com/jobs/melee/samurai/expert-the-shadowbringers-samurai-compendium/) for further reading to interested parties.
+The full level 80 looping rotation is not explained in detail in this guide, as this guide is meant to be a primer for people interested in a glance at Samurai or for the basics while leveling and learning the job. As before, I will refer to [Jahaudant’s Samurai Compendium](/jobs/melee/samurai/expert-the-shadowbringers-samurai-compendium/) for further reading to interested parties.
 
 - - -
 

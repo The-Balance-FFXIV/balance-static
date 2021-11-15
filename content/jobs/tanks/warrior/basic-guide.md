@@ -136,7 +136,7 @@ Crit > Comfy SkS > Det > Ten
 
 ### BiS Lists
 
-Refer to [The Balance discord](https://discord.gg/thebalanceffxiv) server [\#warrior_resources](https://discordapp.com/channels/277897135515762698/580300071061553182/593937173569601538) or the [BiS page.](https://guides.xivresources.com/jobs/tanks/warrior/best-in-slot/)
+Refer to [The Balance discord](https://discord.gg/thebalanceffxiv) server [\#warrior_resources](https://discordapp.com/channels/277897135515762698/580300071061553182/593937173569601538) or the [BiS page.](/jobs/tanks/warrior/best-in-slot/)
 
 - - -
 
@@ -609,10 +609,10 @@ Total amount of Weapon skills per 90 seconds:
 [Beginner's Tank Guide](https://docs.google.com/document/d/1cLIQbPzzWg-IWxo_Myom-_9aSqf7xO4vxmhk6QaLPkM)
 <br> Visit for basics of tanking. 
 
-[Paladin Primer](https://guides.xivresources.com/jobs/tanks/paladin/basic-guide/)
+[Paladin Primer](/jobs/tanks/paladin/basic-guide/)
 <br> Visit for shield wielding tips. 
 
-[Gunbreaker Primer](https://guides.xivresources.com/jobs/tanks/gunbreaker/basic-guide/)
+[Gunbreaker Primer](/jobs/tanks/gunbreaker/basic-guide/)
 <br> Visit for gunpowder blasting tips. 
 
 ### Websites:

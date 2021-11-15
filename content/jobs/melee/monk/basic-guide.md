@@ -254,4 +254,4 @@ At 4+ enemies you shift to entirely using only your three AoE GCDs.
 
 - - -
 
-Still have questions? Check out the [FAQ page](https://guides.xivresources.com/jobs/melee/monk/faq/) where some may be answered.
+Still have questions? Check out the [FAQ page](/jobs/melee/monk/faq/) where some may be answered.

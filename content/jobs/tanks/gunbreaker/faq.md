@@ -24,9 +24,9 @@ qna:
   - question: Gnashing Fang is ready earlier and earlier before No Mercy, why is
       this happening?
     answer: "See the [Rotation Priority System part of the main GNB
-      guide](https://guides.xivresources.com/jobs/tanks/gunbreaker/gunbreaker/#\
+      guide](/jobs/tanks/gunbreaker/gunbreaker/#\
       priority-system).\r"
   - question: Do I hold Bloodfest for No Mercy?
     answer: See the [Bloodfest part of the main GNB
-      guide](https://guides.xivresources.com/jobs/tanks/gunbreaker/gunbreaker/#bloodfest).
+      guide](/jobs/tanks/gunbreaker/gunbreaker/#bloodfest).
 ---

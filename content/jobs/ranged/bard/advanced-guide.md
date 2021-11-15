@@ -9,7 +9,7 @@ changelog:
   - date: 2021-10-26T02:38:08.428Z
     message: Created page
 ---
-> From the full BRD guide, located [here](https://guides.xivresources.com/jobs/ranged/bard/the-pursuit-of-comfiness-bard-guide-5-x).
+> From the full BRD guide, located [here](/jobs/ranged/bard/the-pursuit-of-comfiness-bard-guide-5-x).
 
 ## RS Alignment Choice
 

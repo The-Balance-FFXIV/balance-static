@@ -41,4 +41,4 @@ With the combo timer being extended to 15 seconds, combos can carry over Inner R
 
 ## Further Reading
 
-For more help regarding Warrior rotations; please check out the Warrior Guide [here](https://guides.xivresources.com/jobs/tanks/warrior/how-to-fell-cleave-an-angry-wannabe-healer-also-known-as-warrior-5-0-the-guide/)
+For more help regarding Warrior rotations; please check out the Warrior Guide [here](/jobs/tanks/warrior/how-to-fell-cleave-an-angry-wannabe-healer-also-known-as-warrior-5-0-the-guide/)

@@ -8,7 +8,7 @@ changelog:
   - date: 2021-10-26T01:26:40.899Z
     message: Created page
 ---
-In each opener, the first number refers to which GCD Embolden is used at, and the second refers to which GCD Manafication is used at. For more help on deciding which opener to use, refer to the [full guide](https://guides.xivresources.com/jobs/casters/red-mage/basic-guide/). 
+In each opener, the first number refers to which GCD Embolden is used at, and the second refers to which GCD Manafication is used at. For more help on deciding which opener to use, refer to the [full guide](/jobs/casters/red-mage/basic-guide/). 
 
 3-8 Opener: 
 ![](https://i.imgur.com/tSqX4V0.png)

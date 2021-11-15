@@ -181,6 +181,6 @@ Basically 75% of your damage is turned into healing, for the next six seconds.\
 
 ## 80: Inner Chaos
 
-**You did it.** You reached the end-game. Go read [the full guide](https://guides.xivresources.com/jobs/tanks/warrior/how-to-fell-cleave-an-angry-wannabe-healer-also-known-as-warrior-5-0-the-guide).
+**You did it.** You reached the end-game. Go read [the full guide](/jobs/tanks/warrior/how-to-fell-cleave-an-angry-wannabe-healer-also-known-as-warrior-5-0-the-guide).
 
 At lv80, using Infuriate turns your Fell Cleave into Inner Chaos. Much like Chaotic Cyclone, IC always Direct Hit Crits, hitting a chunky 1500+ potency in total.
