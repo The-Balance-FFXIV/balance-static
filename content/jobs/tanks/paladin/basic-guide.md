@@ -1,6 +1,6 @@
 ---
 title: Paladin Basic Guide
-card_header_image: /img/jobs/pld/pld-basic-guide-1-.jpg
+card_header_image: /img/jobs/pld/basic.png
 authors:
   - Balance-PLD-Staff
 patch: "5.5"
