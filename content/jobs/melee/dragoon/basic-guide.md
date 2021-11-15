@@ -17,7 +17,7 @@ Dragoon is a very static **melee dps** Job. You have strict, long combos to exec
 
 - - -  
   
-### The Brains Behind the Operation
+## The Brains Behind the Operation
 
 **Eve Malqir** (Balmung) - the primary writer of this guide and Dragoon Mentor from [The Balance](https://discord.gg/thebalanceffxiv "The Balance Discord")\
 Always open to answering questions! Please don't hesitate to contact me! :)\
@@ -32,13 +32,13 @@ Contact: **Cyane#6811** on Discord | [Youtube](https://www.youtube.com/channel/U
 
 - - -  
   
-### Support the Creator
+## Support the Creator
 
 I wrote a book! If anyone feels particularly generous and wants to support me (Eve), you can find said book for sale on [Amazon](https://www.amazon.com/dp/1702412768).
 
 - - -  
   
-### Resources
+## Resources
 
 * [Gear Comparison Tool](http://bit.ly/DRG-Gear-Accurate)\
   Allows you to fill in your current \[Level 80] gear and melds and figure out roughly which set will perform better.
@@ -51,7 +51,7 @@ I wrote a book! If anyone feels particularly generous and wants to support me (E
 
 - - -  
   
-### Global Cooldown (GCD) Actions
+## Global Cooldown (GCD) Actions
 
 The bread-and-butter of your rotation, so to speak, these are the buttons you press most frequently. They're broken down into several **combo** chains with various effects and uses.
 
@@ -93,7 +93,7 @@ Currently not used. You are safe to unmap Piercing Talon from your bar. With us 
 
 - - -  
   
-### Positionals
+## Positionals
 
 Several actions in the kit deal more damage from the **Side** of a boss, and several deal more from the **Rear**. You want to be sure to set up to hit these for extra damage whenever possible.
 
@@ -138,7 +138,7 @@ In other words: You should *always* strive to land *every* positional in any sit
 
 - - -  
   
-### Off-GCD Actions
+## Off-GCD Actions
 
 These actions have individual recast timers, allowing you to so-called “weave” them between your GCDs.
 
