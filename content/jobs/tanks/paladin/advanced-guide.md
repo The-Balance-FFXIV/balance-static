@@ -1,6 +1,6 @@
 ---
 title: Paladin Advanced Guide
-card_header_image: /img/jobs/pld/pld-advanced.jpg
+card_header_image: /img/jobs/pld/advanced.png
 authors:
   - Balance-PLD-Staff
 patch: "5.5"
