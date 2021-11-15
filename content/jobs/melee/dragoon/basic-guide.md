@@ -125,8 +125,10 @@ Some enemies will have the **Side** mark wrapping their entire hitbox, with no a
 **Fang and Claw** deals 40 more potency from the **Side**.
 
 #### Rear Positionals
-![](https://xivapi.com/i/000000/000308_hr1.png)
-![](https://xivapi.com/i/002000/002584_hr1.png)\
+| | |
+|-|-|
+|![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png)|
+\
  **Chaos Thrust** and **Wheeling Thrust** deal 40 more potency from the **Rear**.
 
 #### Positional Parity
@@ -184,8 +186,10 @@ We will always use exactly **1 Stardiver** in each sequence.\
 <br>
 
 ### One Giant Leap for Dragoon Kind
+| | |
+|-|-|
+|![](https://xivapi.com/i/002000/002576_hr1.png) | ![](https://xivapi.com/i/002000/002591_hr1.png)|
 
-![](https://xivapi.com/i/002000/002576_hr1.png) ![](https://xivapi.com/i/002000/002591_hr1.png)\
 Jump and its big brother High Jump are our most important actions. Using them gives us the Dive Ready buff, which grants access to Mirage Dive. Without these friends, Life would be a distant dream. 
 
 ![](https://xivapi.com/i/002000/002580_hr1.png)\
@@ -215,13 +219,13 @@ You should always press this button as soon as it’s available.
 ![](https://xivapi.com/i/002000/002587_hr1.png)\
 Dragon Sight should always buff High Jump, Spineshatter Dive, Dragonfire Dive, and the associated Mirage Dive. This skill requires a target in order for its full effect to activate. In a later section, we have included some helpful tips for using this. You can activate the skill without a target, but you lose the second effect entirely.
 
-![](https://xivapi.com/i/002000/002585.png)\
+![](https://xivapi.com/i/002000/002585_hr1.png)\
 Battle Litany is pretty much just used when it’s ready. There are times where holding it becomes beneficial.
 
-![](https://xivapi.com/i/000000/000304.png)\
+![](https://xivapi.com/i/000000/000304_hr1.png)\
 Life Surge doesn’t affect the damage-over-time effect of our strongest Weaponskill, Chaos Thrust, so it should always be paired with Full Thrust, where it does affect the whole damage amount.
 
-![](https://xivapi.com/i/020000/020710.png)\
+![](https://xivapi.com/i/020000/020710_hr1.png)\
 **Potions or Tinctures of Strength** are consumable items that boost your outgoing damage by increasing your base Strength score temporarily. In general, these items are optional. Groups may suggest or ask that you use “**Pots**” when running higher-end content.
 
 ### Basic Buff Rotation
@@ -230,7 +234,7 @@ Our buffs fall on timers that function pretty well together in the duration of a
 
 <div align="center">
 
-| Time | <img src="/img/lc.png" height="20px"> | <img src="/img/ds.png" height="20px"> | <img src="/img/bl.png" height="20px"> |
+| Time | ![](https://xivapi.com/i/000000/000309_hr1.png) | ![](https://xivapi.com/i/002000/002587_hr1.png) | ![](https://xivapi.com/i/002000/002585_hr1.png) |
 | ---- | ------------------------------------- | ------------------------------------- | ------------------------------------- |
 | 0s   | x                                     | x                                     | x                                     |
 | 90s  | x                                     |                                       |                                       |
