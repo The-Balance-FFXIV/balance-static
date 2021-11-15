@@ -205,4 +205,4 @@ Enhanced Army’s Paeon has a huge tooltip for a small effect - basically, it ca
 
 Congrats! You’ll learn Apex Arrow here; in short, just use it when the bar is full.
 
-But you can get more fine details on Apex and other endgame Bard play in the full guide here: [](https://guides.xivresources.com/jobs/ranged/bard/basic-guide/)[Basic Bard Guide](https://guides.xivresources.com/jobs/ranged/bard/basic-guide/)
+But you can get more fine details on Apex and other endgame Bard play in the full guide here: [Basic Bard Guide](/jobs/ranged/bard/basic-guide/)

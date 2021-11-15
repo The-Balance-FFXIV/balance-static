@@ -1,5 +1,6 @@
 ---
 title: Gunbreaker Leveling Guide
+card_header_image: /img/jobs/gnb/gnbleveling.png
 authors:
   - Balance-GNB-Staff
 patch: "5.58"

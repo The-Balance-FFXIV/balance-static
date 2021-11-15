@@ -1,5 +1,6 @@
 ---
 title: Warrior Basic Guide
+card_header_image: /img/jobs/war/war-basic-guide-1-.jpg
 authors:
   - Balance-WAR-Staff
 patch: "5.5"

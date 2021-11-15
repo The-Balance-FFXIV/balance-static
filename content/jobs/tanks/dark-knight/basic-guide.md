@@ -1,5 +1,6 @@
 ---
 title: Dark Knight Basic Guide
+card_header_image: /img/jobs/drk/drk-basic-guide-1-.jpg
 authors:
   - Balance-DRK-Staff
 patch: "5.5"
@@ -26,7 +27,8 @@ The purpose of this guide is to give an overview of Dark Knight’s abilities an
 
 ### Tank Stance
 
-![Grit](https://xivapi.com/i/003000/003070_hr1.png) <br> **Grit**
+![Grit](https://xivapi.com/i/003000/003070_hr1.png) 
+ **Grit**
 
 * Toggle - Ten second cooldown after toggling on • no cooldown for toggling off
 * Multiplies enmity (aggro, hate, etc) generation by ten
@@ -34,7 +36,11 @@ The purpose of this guide is to give an overview of Dark Knight’s abilities an
 
 ### Single Target GCDs
 
-![Hard Slash](https://xivapi.com/i/003000/003051_hr1.png) ![Syphon Strike](https://xivapi.com/i/003000/003054_hr1.png) ![Souleater](https://xivapi.com/i/003000/003055_hr1.png) <br> **Souleater Combo**
+| **Hard Slash >**                                          | **Syphon Strike >**                                          | **Souleater**                                            |
+| --------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------- |
+| ![Hard Slash](https://xivapi.com/i/003000/003051_hr1.png) | ![Syphon Strike](https://xivapi.com/i/003000/003054_hr1.png) | ![Souleater](https://xivapi.com/i/003000/003055_hr1.png) |
+
+ **Souleater Combo**
 
 * 200 > 300 > 400 potency
 
@@ -42,7 +48,8 @@ The purpose of this guide is to give an overview of Dark Knight’s abilities an
   2. Syphon Strike: +600 MP
   3. Souleater: +20 Blood, 300p heal
 
-![Bloodspiller](https://xivapi.com/i/003000/003080_hr1.png) <br>**Bloodspiller**
+![Bloodspiller](https://xivapi.com/i/003000/003080_hr1.png) 
+**Bloodspiller**
 
 * 600 potency
 * Costs 50 Blood
@@ -176,9 +183,9 @@ Shield: 25% target’s max. HP
 
 #### Living Dead
 
-10s duration
-<br>If you would die with *Living Dead* active, you instead don’t die and gain *Walking Dead* for ten seconds.
-<br>*Walking Dead* - Can’t be reduced below one HP for the duration. Die after Walking Dead runs out unless healed for 100% of your HP, dispelling Walking Dead.
+10s duration\
+If you would die with *Living Dead* active, you instead don’t die and gain *Walking Dead* for ten seconds.\
+*Walking Dead* - Can’t be reduced below one HP for the duration. Die after Walking Dead runs out unless healed for 100% of your HP, dispelling Walking Dead.
 
 ### Utility
 
@@ -207,7 +214,9 @@ Shield: 25% target’s max. HP
 
 ## AoE
 
-![Unleash](https://xivapi.com/i/003000/003063_hr1.png) ![Stalwart Soul](https://xivapi.com/i/003000/003084_hr1.png)
+| **Unleash >**                                          | **Stalwart Soul**                                            |
+| ------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Unleash](https://xivapi.com/i/003000/003063_hr1.png) | ![Stalwart Soul](https://xivapi.com/i/003000/003084_hr1.png) |
 
 ### Stalwart Soul Combo (GCD)
 
@@ -244,15 +253,15 @@ Shield: 25% target’s max. HP
 ### Unmend (GCD)
 
 150 potency
-<br>5x enmity multiplier
-<br>Ranged attack
+5x enmity multiplier
+Ranged attack
 
 ![Low Blow](https://xivapi.com/i/000000/000802_hr1.png)
 
 ### Low Blow (oGCD)
 
 25s cooldown
-<BR>5s stun
+5s stun
 
 ![Interject](https://xivapi.com/i/000000/000808_hr1.png)
 
@@ -403,7 +412,7 @@ FFXIV macros do not queue, so hitting a macro while in animation lock from anoth
 
 ## Stats and Itemization
 
-Before obtaining best-in-slot gear, pick gear and meld according to stat priority on each piece of gear. Best-in-slot sets can be found on the [BiS page](https://guides.xivresources.com/jobs/tanks/dark-knight/best-in-slot/) or in the Balance discord.
+Before obtaining best-in-slot gear, pick gear and meld according to stat priority on each piece of gear. Best-in-slot sets can be found on the [BiS page](/jobs/tanks/dark-knight/best-in-slot/) or in the Balance discord.
 
 Because of stat tiering, the Tank Gear Calc is the best tool to directly compare specific gear pieces <https://bit.ly/TankDPSCalc520>.
 
@@ -478,16 +487,22 @@ Living Dead has some synergy with White Mages, as their Benediction can fully he
 ### AoE Priority
 
 ![AOE Priority](https://lh6.googleusercontent.com/DKjax_f1Kk-IJrU9YdnHGLXxOOL2oCqDD6JkngawU4fwiY__zyUW74xS664K6TosLnaSAExnPi3nwTzGW1BYUo8e6GYTNy_jfJhlvLdPOXSk76ObN_b8-IU64xfLMr__Vrb0bCyT=s0) 
-<br> On any number of targets, prioritize spending Blood on Living Shadow.
+ On any number of targets, prioritize spending Blood on Living Shadow.
 
-![2 target](https://lh5.googleusercontent.com/je8u42LVxCMC4a2qHgEwjNHOuFNng5tvWD_Vl-r-IspjuXKoUq091qE2kA24aE_g19LmOEtxqKKx6iz9mMHa95Dzru1oK2lJfo6-fjwgYzRCHAi0o8a4deheL5zW8nhGXetcFPWv=s0) ![2target 2](https://lh6.googleusercontent.com/QXWUuYy7BBdBNo51JQjI20dfFVoxMThHIGkYEW376YDH6w1HsfVhXzwC27j8OyQlO85t8EtI46ZI2Q27rSELupUfhcQ12LbgKkocZhsB8gRy1Rv-hhoOrLbnu0BfK1-S1iwPSg16=s0)
-<br>On 2+ targets, replace Souleater combo and Edge of Shadow/Darkness with Stalwart Soul Combo and Flood of Shadow/Darkness.
+|                                                                                                                                                                                            |                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![2 target](https://lh5.googleusercontent.com/je8u42LVxCMC4a2qHgEwjNHOuFNng5tvWD_Vl-r-IspjuXKoUq091qE2kA24aE_g19LmOEtxqKKx6iz9mMHa95Dzru1oK2lJfo6-fjwgYzRCHAi0o8a4deheL5zW8nhGXetcFPWv=s0) | ![2target 2](https://lh6.googleusercontent.com/QXWUuYy7BBdBNo51JQjI20dfFVoxMThHIGkYEW376YDH6w1HsfVhXzwC27j8OyQlO85t8EtI46ZI2Q27rSELupUfhcQ12LbgKkocZhsB8gRy1Rv-hhoOrLbnu0BfK1-S1iwPSg16=s0) |
+
+On 2+ targets, replace Souleater combo and Edge of Shadow/Darkness with Stalwart Soul Combo and Flood of Shadow/Darkness.
 
 ![3 targets](https://lh3.googleusercontent.com/kpxcMMzdmTBcdwK0upDws_tzb4Fp4CCfPRtvfP-KLuFi9abH9GiJ-bLAvmJ2epSO0jM9bEh8BRAdXUrdmvsRYBwvw9QEn_TP0jy9nYPqbKhz0aa_9iEr_wWzzrqVjCChnAay7Hus=s0)
-<br>On 3+ targets, replace Bloodspiller with Quietus.
+On 3+ targets, replace Bloodspiller with Quietus.
 
-![aoe 1](https://lh4.googleusercontent.com/RVzpcFuEas91IqZHJRjI-lSj70urqNF7Bg_xl8n1y96zIeXlOrZ81wlaILjc5Gj3X2uOUJdqGaCxR5oe0ioygq0aA9B6TuJWAsR4dX9rroodCwiYlUZiO41VxUoMhxoLaOLe63Js=s0) ![aoe2](https://lh3.googleusercontent.com/IqgiYLYvy2whmfx7LTqjDR-MHQRFbIhtMqwzTHjGUtOTSvCFO7C9-QpAGGFN_R3aNX0IyWn7JsFl_1zaTgQQB_N1ABKlvQLhP2XwKjnVRaKkFDYu6o9or-bsnnaqPwRODecz0Mkp=s0)
-<br>Try to maximize AoE with Salted Earth and Abyssal Drain.
+| **Salted Earth**                                                                                                                                                                        | **Abyssal Drain**                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![aoe 1](https://lh4.googleusercontent.com/RVzpcFuEas91IqZHJRjI-lSj70urqNF7Bg_xl8n1y96zIeXlOrZ81wlaILjc5Gj3X2uOUJdqGaCxR5oe0ioygq0aA9B6TuJWAsR4dX9rroodCwiYlUZiO41VxUoMhxoLaOLe63Js=s0) | ![aoe2](https://lh3.googleusercontent.com/IqgiYLYvy2whmfx7LTqjDR-MHQRFbIhtMqwzTHjGUtOTSvCFO7C9-QpAGGFN_R3aNX0IyWn7JsFl_1zaTgQQB_N1ABKlvQLhP2XwKjnVRaKkFDYu6o9or-bsnnaqPwRODecz0Mkp=s0) |
+
+Try to maximize AoE with Salted Earth and Abyssal Drain.
 
 - - -
 
@@ -509,7 +524,7 @@ No. There is no inherent synergy between Blood Weapon and Delirium—Blood Weapo
 
 ## Advanced Gameplay
 
-This section assumes that you are comfortable with the entirety of the Dark Knight kit as well as the basic rotation outlined above. If you blindly try to do these optimizations without grasping the fundamentals, it is likely to be detrimental to your play, rather than improve it. Also see the Advanced DRK guide [here](https://guides.xivresources.com/jobs/tanks/dark-knight/an-in-depth-look-at-dark-knight-shadowbringers-edition/).
+This section assumes that you are comfortable with the entirety of the Dark Knight kit as well as the basic rotation outlined above. If you blindly try to do these optimizations without grasping the fundamentals, it is likely to be detrimental to your play, rather than improve it. Also see the Advanced DRK guide [here](/jobs/tanks/dark-knight/advanced-guide/).
 
 ### Optimizing Raid Buffs Further
 

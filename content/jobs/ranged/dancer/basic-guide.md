@@ -1,5 +1,6 @@
 ---
 title: Dancer Basic Guide
+card_header_image: /img/jobs/dnc/dnc-basic-job-guide.jpg
 authors:
   - Ringabel-Dim
 patch: "5.58"
@@ -26,7 +27,7 @@ Everything in this guide is free to be reposted or otherwise used freely! If you
 
 ## Basic DNC Overview
 
-[DNC Job Guide from Square Enix](https://na.finalfantasyxiv.com/jobguide/dancer/) (which includes job weaponskill and ability descriptions). It may be helpful to read through the [Skills Overview](https://guides.xivresources.com/jobs/ranged/dancer/skill-overview/) before you begin.
+It may be helpful to read through the [Skills Overview](/jobs/ranged/dancer/skill-overview/) before you begin.
 
 ### Short Version:
 
@@ -532,7 +533,7 @@ Examples of where this reopener would be used are after add phase in Shiva E8S a
 
 ## Stat Tiering and Itemization for Dancer
 
-Determining what gear to wear can have an impact on the damage you do. I find itemization to be a very important topic for any DPS role because wearing a more optimal gear set can increase your damage without changing anything with regards to your rotation. Essentially, proper itemization increases your DPS before you even step into the fight. For more information on currently recommended Dancer gear and Best in Slot, see the [Best In Slot page](https://guides.xivresources.com/jobs/ranged/dancer/best-in-slot/). For specific stats and melds for certain fights and general meld priority, see the [Stats and Materia page](https://guides.xivresources.com/jobs/ranged/dancer/stats-and-materia/). Keep reading for an in-depth look at DNC stats and gear.
+Determining what gear to wear can have an impact on the damage you do. I find itemization to be a very important topic for any DPS role because wearing a more optimal gear set can increase your damage without changing anything with regards to your rotation. Essentially, proper itemization increases your DPS before you even step into the fight. For more information on currently recommended Dancer gear and Best in Slot, see the [Best In Slot page](/jobs/ranged/dancer/best-in-slot/). For specific stats and melds for certain fights and general meld priority, see the [Stats and Materia page](/jobs/ranged/dancer/stats-and-materia/). Keep reading for an in-depth look at DNC stats and gear.
 
 Generally speaking, the damage increase you get from stats as DNC is ranked in order of:
 
