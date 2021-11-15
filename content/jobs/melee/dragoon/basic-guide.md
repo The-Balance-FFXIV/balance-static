@@ -73,7 +73,7 @@ This combo uses our strongest weaponskill, **Full Thrust**, and that’s about i
 
 #### Raiden Thrust
 
-<img src="/img/rt.png" alt="Raiden Thrust" height="50px"> 
+![](https://xivapi.com/i/002000/002592_hr1.png) 
 
 This action functions as a direct upgrade to **True Thrust** after you’ve successfully completed one of the above combos. If you land your proper positional on the **final/fifth hit**, **True Thrust** upgrades to **Raiden Thrust**!
 
@@ -91,7 +91,7 @@ Putting all of this together with the timers, we come out with one single string
 
 #### The Other Guy
 
-<img src="/img/pt.png" alt="Piercing Talon" height="50px"> 
+![](https://xivapi.com/i/000000/000315_hr1.png)
 
 Currently not used. You are safe to unmap Piercing Talon from your bar. With us having two 5-hit combo chains and this button breaking either combo at any stage and the longer runoff for combo maintenance, there is almost no way that this skill will ever find use. If it does, this section will add those niche cases.
 
@@ -159,7 +159,8 @@ Under normal circumstances, it should never fall off.
 <img src="/img/gsk.png" alt="Geirskogul" height="50px" style="float:left;"> **Geirskogul** can only be used under **Blood of the Dragon**, and when you press it with\
 **two** **Dragon Eyes** open, we enter **Life of the Dragon**.
 
-![](/static/img/life.png)
+![](
+/img/life.png)
 
 <img src="/img/nas.png" alt="Nastrond" height="50px" style="float:left;"> Under **Life of the Dragon**, **Geirskogul** becomes **Nastrond**.\
 Ideally, you want to press **three Nastrond** before your **Life** timer runs out.\
