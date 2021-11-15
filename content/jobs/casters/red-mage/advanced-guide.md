@@ -1,6 +1,6 @@
 ---
 title: Red Mage Advanced Guide
-card_header_image: /img/jobs/rdm/rdm-advanced-1-.jpg
+card_header_image: /img/jobs/rdm/rdm-advanced.jpg
 authors:
   - Balance-RDM-Staff
 patch: "5.58"
