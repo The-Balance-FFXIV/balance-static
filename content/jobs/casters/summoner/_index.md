@@ -1,4 +1,5 @@
 ---
+title: Summoner
 authors:
   - Balance SMN Staff
 ---

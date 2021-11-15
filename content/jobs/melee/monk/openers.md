@@ -1,5 +1,5 @@
 ---
-title: Openers
+title: Monk Openers
 authors:
   - Balance-MNK-Staff
 patch: "5.58"

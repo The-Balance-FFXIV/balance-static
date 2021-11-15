@@ -1,5 +1,5 @@
 ---
-title: SCH Best in Slot
+title: Scholar Best in Slot (BiS)
 patch: "5.58"
 lastmod: 2021-10-26T23:41:37.390Z
 changelog:

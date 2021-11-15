@@ -1,4 +1,5 @@
 ---
+title: Gunbreaker Skills Overview
 authors:
   - ToraelValdis
   - Balance-GNB-Staff

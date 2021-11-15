@@ -1,4 +1,5 @@
 ---
+title: Warrior Leveling Guide
 authors:
   - Balance-WAR-Staff
 patch: "5.4"

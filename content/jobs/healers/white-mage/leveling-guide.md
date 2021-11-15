@@ -1,4 +1,5 @@
 ---
+title: White Mage Leveling Guide
 authors:
   - Balance-WHM-Staff
 patch: "5.58"

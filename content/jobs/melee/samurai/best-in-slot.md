@@ -1,5 +1,5 @@
 ---
-title: Best in Slot
+title: Samurai Best in Slot (BiS)
 patch: "5.58"
 lastmod: 2021-10-28T03:29:30.328Z
 changelog:

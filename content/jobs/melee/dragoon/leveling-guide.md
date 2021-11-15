@@ -1,5 +1,5 @@
 ---
-title: DRG Leveling Guide
+title: Dragoon Leveling Guide
 authors:
   - Balance-DRG-Staff
 patch: "5.58"

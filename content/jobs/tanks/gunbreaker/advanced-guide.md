@@ -1,4 +1,5 @@
 ---
+title: Gunbreaker Advanced Guide
 authors:
   - Balance-GNB-Staff
 patch: "5.58"

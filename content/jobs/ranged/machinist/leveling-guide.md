@@ -1,4 +1,5 @@
 ---
+title: Machinist Leveling Guide
 authors:
   - Balance-MCH-Staff
 patch: "5.58"

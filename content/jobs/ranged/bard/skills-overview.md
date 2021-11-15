@@ -1,5 +1,5 @@
 ---
-title: Skills Overview
+title: Bard Skills Overview
 authors:
   - Balance-BRD-Staff
 patch: "5.58"

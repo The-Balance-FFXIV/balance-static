@@ -1,4 +1,5 @@
 ---
+title: Gunbreaker Openers
 authors:
   - ToraelValdis
   - Balance-GNB-Staff

@@ -1,4 +1,5 @@
 ---
+title: Samurai Leveling Guide
 authors:
   - Balance-SAM-Staff
 patch: "5.58"

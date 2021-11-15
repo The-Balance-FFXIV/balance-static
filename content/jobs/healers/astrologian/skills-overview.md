@@ -1,5 +1,5 @@
 ---
-title: Skills Overview
+title: Astrologian Skills Overview
 authors:
   - Balance-AST-Staff
 patch: "5.58"

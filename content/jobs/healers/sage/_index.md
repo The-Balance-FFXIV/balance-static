@@ -1,4 +1,5 @@
 ---
+title: Sage
 authors:
   - Balance SGE Staff
 job_name: sage

@@ -1,5 +1,5 @@
 ---
-title: Advanced Guide
+title: Paladin Advanced Guide
 authors:
   - Balance-PLD-Staff
 patch: "5.5"

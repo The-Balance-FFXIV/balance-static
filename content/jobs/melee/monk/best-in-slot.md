@@ -1,5 +1,5 @@
 ---
-title: Best in Slot
+title: Monk Best in Slot (BiS)
 patch: "5.58"
 lastmod: 2021-10-28T03:54:26.171Z
 changelog:

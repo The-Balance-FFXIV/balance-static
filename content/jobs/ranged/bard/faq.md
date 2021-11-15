@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Bard FAQ
 patch: "5.58"
 lastmod: 2021-10-26T02:31:47.844Z
 changelog:

@@ -1,4 +1,5 @@
 ---
+title: White Mage
 authors:
   - Balance WHM Staff
 job_name: white_mage

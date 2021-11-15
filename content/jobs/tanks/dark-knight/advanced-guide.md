@@ -1,4 +1,5 @@
 ---
+title: Dark Knight Advanced Guide
 authors:
   - Balance-DRK-Staff
 patch: "5.5"

@@ -1,4 +1,5 @@
 ---
+title: Dark Knight Leveling Guide
 authors:
   - Balance-PLD-Staff
 patch: "5.5"

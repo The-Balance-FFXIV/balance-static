@@ -1,4 +1,5 @@
 ---
+title: Bard Advanced Guide
 authors:
   - Balance-BRD-Staff
 patch: "5.58"

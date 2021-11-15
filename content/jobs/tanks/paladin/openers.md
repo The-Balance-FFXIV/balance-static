@@ -1,4 +1,5 @@
 ---
+title: Paladin Openers
 authors:
   - Balance-PLD-Staff
 patch: "5.5"

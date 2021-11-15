@@ -1,4 +1,5 @@
 ---
+title: Machinist Best in Slot (BiS)
 patch: "5.58"
 lastmod: 2021-10-25T22:11:00.705Z
 changelog:

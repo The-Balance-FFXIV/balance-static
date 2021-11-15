@@ -1,5 +1,5 @@
 ---
-title: Best in Slot
+title: Warrior Best in Slot (BiS)
 patch: "5.4"
 lastmod: 2021-10-27T07:17:24.419Z
 changelog:

@@ -1,4 +1,5 @@
 ---
+title: Ninja Basic Guide
 authors:
   - Balance NIN Staff
   - zhotacton

@@ -1,5 +1,5 @@
 ---
-title: Skills Overview
+title: Scholar Skills Overview
 authors:
   - Balance-SCH-Staff
 patch: "5.58"

@@ -1,4 +1,5 @@
 ---
+title: Samurai Basic Guide
 authors:
   - Balance-SAM-Staff
 patch: "5.58"
@@ -341,4 +342,4 @@ Debuffs: are harmful effects that you apply on enemies to either maximize the da
 ###### Figure 1: How to position yourself to minimize movements for positionals!
 
 * ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh5.googleusercontent.com/14fbdNCDFcXpUP89NL2f0aRAwC8L8IXB9QpK4KNp7rt7otaGq3f2lW9a3AQsCLQ0p32puRxC0TFTNNcJ5B7HKIZiD_jAgU3knH1Uslplc0A3EotA4bDPlA1dljTn7oXLojAztWQv=s0)  *Dead DPS does no damage* : Avoid dying at all cost unless the team strategy or mechanics require you to die so the encounter won’t wipe. A dead person contributes nothing while and will be raised with reduced battle stats.
-
+

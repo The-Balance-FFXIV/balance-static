@@ -1,5 +1,5 @@
 ---
-title: Leveling Guide
+title: Ninja Leveling Guide
 authors:
   - Balance-NIN-Staff
 patch: "5.58"

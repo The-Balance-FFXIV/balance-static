@@ -1,4 +1,5 @@
 ---
+title: Red Mage
 authors:
   - Balance RDM Staff
 ---

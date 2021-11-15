@@ -1,4 +1,5 @@
 ---
+title: Machinist Basic Guide
 authors:
   - Balance-MCH-Staff
 patch: "5.58"

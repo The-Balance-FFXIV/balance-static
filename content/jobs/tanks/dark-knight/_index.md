@@ -1,4 +1,5 @@
 ---
+title: Dark Knight
 authors:
   - Balance DRK Staff
 job_name: dark_knight

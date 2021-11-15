@@ -1,4 +1,5 @@
 ---
+title: Gunbreaker Leveling Guide
 authors:
   - Balance-GNB-Staff
 patch: "5.58"

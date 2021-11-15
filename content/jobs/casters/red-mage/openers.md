@@ -1,4 +1,5 @@
 ---
+title: Red Mage Openers
 authors:
   - Balance-RDM-Staff
 patch: "5.58"

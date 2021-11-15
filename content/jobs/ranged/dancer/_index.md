@@ -1,4 +1,5 @@
 ---
+title: Dancer
 authors:
   - Balance DNC Staff
 ---

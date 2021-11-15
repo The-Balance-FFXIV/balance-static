@@ -1,4 +1,5 @@
 ---
+title: Gunbreaker Basic Guide
 authors:
   - ToraelValdis
 patch: "5.58"

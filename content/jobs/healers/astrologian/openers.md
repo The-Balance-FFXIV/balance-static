@@ -1,4 +1,5 @@
 ---
+title: Astrologian Openers
 authors:
   - Balance-AST-Staff
 patch: "5.58"

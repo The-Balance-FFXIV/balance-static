@@ -1,4 +1,5 @@
 ---
+title: Dark Knight Openers
 authors:
   - Balance-DRK-Staff
 patch: "5.5"
@@ -114,7 +115,8 @@ This prevents overcapping MP from having Blood Weapon  on Hard Slash and from a 
 > *How do I spend my MP?*
 
 As a general rule, never overcap MP, and consider holding on to 3k MP so that you can use The Blackest Night (TBN) if needed.
-If you have raid buffs and are optimizing, you should plan to use all of your Edge of Shadow (EoS) casts under buffs, and in particular, to put more EoS casts where buffs are stronger. This often means using five EoS under even-minute (0, 2, 4, ...) buffs, and three under odd-minute buffs.
+
+If you have raid buffs and are optimizing, you should plan to use all of your Edge of Shadow (EoS) casts under buffs, and in particular, to put more EoS casts where buffs are stronger. This often means using five EoS under even-minute (0, 2, 4, ...) buffs, and three under odd-minute buffs.
  
 > *Should I always pair Blood Weapon and Delirium?*
 

@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Dancer FAQ
 patch: "5.58"
 lastmod: 2021-10-26T02:08:08.917Z
 changelog:

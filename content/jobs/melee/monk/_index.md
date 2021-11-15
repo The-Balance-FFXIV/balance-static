@@ -1,4 +1,5 @@
 ---
+title: Monk
 authors:
   - Balance MNK Staff
 ---

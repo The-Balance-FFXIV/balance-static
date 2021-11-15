@@ -1,4 +1,5 @@
 ---
+title: Dragoon Stat Priority
 patch: "5.58"
 lastmod: 2021-10-29T03:03:40.516Z
 changelog:

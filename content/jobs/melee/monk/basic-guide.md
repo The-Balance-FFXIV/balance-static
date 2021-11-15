@@ -1,4 +1,5 @@
 ---
+title: Monk Basic Guide
 authors:
   - Perfect-Balance
 patch: "5.58"

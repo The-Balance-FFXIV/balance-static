@@ -1,4 +1,5 @@
 ---
+title: Machinist
 authors:
   - Balance MCH Staff
 job_name: machinist

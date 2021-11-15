@@ -1,4 +1,5 @@
 ---
+title: Machinist Openers
 authors:
   - Balance-MCH-Staff
 patch: "5.58"

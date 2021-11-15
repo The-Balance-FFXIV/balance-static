@@ -1,5 +1,5 @@
 ---
-title: Black Mage Best in Slot
+title: Black Mage Best in Slot (BiS)
 patch: "5.58"
 lastmod: 2021-10-26T01:58:23.544Z
 changelog:

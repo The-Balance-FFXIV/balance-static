@@ -1,4 +1,5 @@
 ---
+title: Scholar Leveling Guide
 authors:
   - Balance-SCH-Staff
 patch: "5.58"

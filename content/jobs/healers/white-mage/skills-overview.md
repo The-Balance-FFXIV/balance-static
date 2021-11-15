@@ -1,5 +1,5 @@
 ---
-title: Skills Overview
+title: White Mage Skills Overview
 authors:
   - Balance-WHM-Staff
 patch: "5.58"

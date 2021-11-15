@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Dragoon FAQ
 patch: "5.58"
 lastmod: 2021-10-29T02:56:43.800Z
 changelog:
