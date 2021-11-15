@@ -68,10 +68,10 @@ The Balance Gauge displays the current amount of Black Mana and White Mana a Red
 
 If the gap between Black and White Mana accumulation grows too large, the crystal at the top of the gauge will change color, and it will become more difficult to accumulate the lesser of the two.  This happens when the gap is at 31 Mana and more.  With that in mind, you’re going to want to try and keep your Mana as close to each other as possible.
 
-<div float="left">
+
 ![ManaBlack](/img/jobs/casters/redmage/Mana_Black.png)
 ![ManaWhite](/img/jobs/casters/redmage/Mana_White.png)
-</div>
+
 
 Your general rotation is very simple. If you have any procs (Verstone, or Verfire), hardcast them and then Dualcast the Mana you have less of (Veraero for White Mana and Verthunder for Black Mana). Do NOT Dualcast a Mana if you already have a proc for that Mana (don’t use Verstone -> Verthunder if you already have Verfire, don’t use Verfire -> Veraero if you already have Verstone). It is okay to Dualcast a higher Mana in this way so long as the distance between the two Manas does not exceed 30 and cause you go to unbalanced. When you run out of procs, use Jolt II. Once you have 80|80 Mana (80 White Mana and 80 Black Mana) you can then perform your melee combo. Finish your melee combo with a finisher that correlates with the Mana you have less of (Verholy when White Mana is lower and Verflare when Black Mana is lower), then use Scorch right after.
 
