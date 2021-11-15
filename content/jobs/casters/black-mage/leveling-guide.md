@@ -30,7 +30,7 @@ Use Foul whenever.
 
 B3 > B4 > T3 > F3 > F4 (x3) > F1 > F4 (x3) >  Despair > Repeat
 
-This is the same as levels 60-71, with Despair added at the end. This is also the same at level 80, just without Xenoglossy. See [the main guide](https://guides.xivresources.com/jobs/casters/black-mage/5-x-blm-guide/#single-target) for further details.
+This is the same as levels 60-71, with Despair added at the end. This is also the same at level 80, just without Xenoglossy. See [the main guide](https://guides.xivresources.com/jobs/casters/black-mage/basic-guide/#single-target-rotation) for further details.
 
 - - -
 
