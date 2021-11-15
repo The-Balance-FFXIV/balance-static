@@ -1,5 +1,6 @@
 ---
 title: Dark Knight Basic Guide
+card_header_image: /img/jobs/drk/drk-basic-guide-1-.jpg
 authors:
   - Balance DRK Staff
 patch: "5.5"
