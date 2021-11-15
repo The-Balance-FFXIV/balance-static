@@ -57,7 +57,7 @@ The bread-and-butter of your rotation, so to speak, these are the buttons you pr
 
 ### The Chaos Thrust Combo
 
-|**True Thrust >** | **Vorpal Thrust >** | **Chaos Thrust >** | **Wheeling Thrust >** | **Fang and Claw**|
+|**True Thrust >** | **Disembowel >** | **Chaos Thrust >** | **Wheeling Thrust >** | **Fang and Claw**|
 |-|-|-|-|-|
 |![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) |  ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png)|  
 
