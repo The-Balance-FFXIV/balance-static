@@ -215,6 +215,7 @@ collections:
         file: "content/jobs/tanks/warrior/advanced-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -429,6 +430,7 @@ collections:
         file: "content/jobs/tanks/paladin/advanced-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -643,6 +645,7 @@ collections:
         file: "content/jobs/tanks/dark-knight/advanced-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -857,6 +860,7 @@ collections:
         file: "content/jobs/tanks/gunbreaker/advanced-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1071,6 +1075,7 @@ collections:
         file: "content/jobs/healers/white-mage/advanced-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1285,6 +1290,7 @@ collections:
         file: "content/jobs/healers/scholar/advanced-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1499,6 +1505,7 @@ collections:
         file: "content/jobs/healers/astrologian/advanced-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1713,6 +1720,7 @@ collections:
         file: "content/jobs/healers/sage/advanced-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -1927,6 +1935,7 @@ collections:
         file: "content/jobs/melee/dragoon/advanced-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2141,6 +2150,7 @@ collections:
         file: "content/jobs/melee/reaper/advanced-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2355,6 +2365,7 @@ collections:
         file: "content/jobs/melee/samurai/advanced-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2569,6 +2580,7 @@ collections:
         file: "content/jobs/melee/monk/advanced-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2783,6 +2795,7 @@ collections:
         file: "content/jobs/melee/ninja/advanced-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -2997,6 +3010,7 @@ collections:
         file: "content/jobs/ranged/machinist/advanced-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3211,6 +3225,7 @@ collections:
         file: "content/jobs/ranged/dancer/advanced-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3425,6 +3440,7 @@ collections:
         file: "content/jobs/ranged/bard/advanced-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3639,6 +3655,7 @@ collections:
         file: "content/jobs/casters/black-mage/advanced-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -3853,6 +3870,7 @@ collections:
         file: "content/jobs/casters/summoner/advanced-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
@@ -4067,6 +4085,7 @@ collections:
         file: "content/jobs/casters/red-mage/advanced-guide.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: "Author(s)"
             name: "authors"
