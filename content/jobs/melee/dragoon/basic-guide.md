@@ -120,11 +120,13 @@ Some enemies will have the **Side** mark wrapping their entire hitbox, with no a
 
 #### Side Positionals
 
-<img src="/img/fc.png" alt="Fang and Claw" height="50px" style="float:left;"> **Fang and Claw** deals 40 more potency from the **Side**.
+![](https://xivapi.com/i/002000/002582_hr1.png)\
+**Fang and Claw** deals 40 more potency from the **Side**.
 
 #### Rear Positionals
 
-<img src="/img/ct.png" alt="Chaos Thrust" height="50px" style="float:left;"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px" style="float:left;"> **Chaos Thrust** and **Wheeling Thrust** deal 40 more potency from the **Rear**.
+![](https://xivapi.com/i/002000/002584_hr1.png)\
+ **Chaos Thrust** and **Wheeling Thrust** deal 40 more potency from the **Rear**.
 
 #### Positional Parity
 
@@ -154,13 +156,16 @@ These actions have individual recast timers, allowing you to so-called â€œweaveâ
 
 ![](/img/jobs/drg/blood.png)
 
-<img src="/img/botd.png" alt="Blood of the Dragon" height="50px" style="float:left;"> **Blood of the Dragon** is our primary mechanic.\
+![](https://xivapi.com/i/002000/002581_hr1.png)\
+ **Blood of the Dragon** is our primary mechanic.
 Under normal circumstances, it should never fall off.
 
-<img src="/img/md.png" alt="Mirage Dive" height="50px" style="float:left;"> **Mirage Dive** helps us gain **Dragon Eyes** to build toward **Life of the Dragon**.\
-**Eyes** only open when **Blood of the Dragon** or **Life of the Dragon** is active.
+![](https://xivapi.com/i/002000/002588_hr1.png)\
+ **Mirage Dive** helps us gain **Dragon Eyes** to build toward **Life of the Dragon**.\
+ **Eyes** only open when **Blood of the Dragon** or **Life of the Dragon** is active.
 
-<img src="/img/gsk.png" alt="Geirskogul" height="50px" style="float:left;"> **Geirskogul** can only be used under **Blood of the Dragon**, and when you press it with\
+![](https://xivapi.com/i/002000/002583_hr1.png)\
+ **Geirskogul** can only be used under **Blood of the Dragon**, and when you press it with
 **two** **Dragon Eyes** open, we enter **Life of the Dragon**.
 
 ![](
