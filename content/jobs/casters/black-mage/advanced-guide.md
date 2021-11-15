@@ -1,6 +1,6 @@
 ---
 title: Black Mage Advanced Guide
-card_header_image: /img/jobs/blm/blm-advanced.jpg
+card_header_image: /img/jobs/blm/advanced.png
 authors:
   - Balance-BLM-Staff
 patch: "5.58"
