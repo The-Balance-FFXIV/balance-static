@@ -279,6 +279,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -492,6 +493,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -705,6 +707,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -918,6 +921,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -1131,6 +1135,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -1344,6 +1349,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -1557,6 +1563,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -1770,6 +1777,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -1983,6 +1991,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -2196,6 +2205,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -2409,6 +2419,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -2622,6 +2633,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -2835,6 +2847,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -3048,6 +3061,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -3261,6 +3275,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -3474,6 +3489,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -3687,6 +3703,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -3900,6 +3917,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Change"
             name: "changes"
             widget: "list"
@@ -4113,6 +4131,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "select", options: ["changes"], default: ["changes"]}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Change"
             name: "changes"
             widget: "list"
