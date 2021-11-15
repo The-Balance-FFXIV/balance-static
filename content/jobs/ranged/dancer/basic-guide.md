@@ -1,6 +1,6 @@
 ---
 title: Dancer Basic Guide
-card_header_image: /img/jobs/dnc/dnc-basic-job-guide.jpg
+card_header_image: /img/jobs/dnc/basic.png
 authors:
   - Ringabel-Dim
 patch: "5.58"
