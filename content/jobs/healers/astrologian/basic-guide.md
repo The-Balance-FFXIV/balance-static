@@ -24,7 +24,7 @@ The guide is intended both for people who are relatively new to the job and peop
 
 That said, there’s very little concrete feedback to indicate whether you’re doing anything right when it comes to anything other than keeping the party alive, so this may still be informative for more experienced Astrologians when it comes to expected ability usage and the general guidelines for proper cardplay.
 
-The guide will **not**, however, list and explain your tooltips for you, except where strictly necessary for specific reasons. If you are unfamiliar with what your skills do, you don’t need this guide yet. ***What you need is to read your tooltips.*** They can be found either in game, on the [Balance AST Skill Overview page](https://guides.xivresources.com/jobs/healers/astrologian/skills-overview/), or on the official [FFXIV Astrologian job guide.](https://na.finalfantasyxiv.com/jobguide/astrologian/) Go. Go now, and don’t come back until you’ve at least attempted to read and understand all of your tooltips.
+The guide will **not**, however, list and explain your tooltips for you, except where strictly necessary for specific reasons. If you are unfamiliar with what your skills do, you don’t need this guide yet. ***What you need is to read your tooltips.*** They can be found either in game, on the [Balance AST Skill Overview page](/jobs/healers/astrologian/skills-overview/), or on the official [FFXIV Astrologian job guide.](https://na.finalfantasyxiv.com/jobguide/astrologian/) Go. Go now, and don’t come back until you’ve at least attempted to read and understand all of your tooltips.
 
 For more in-depth AST discussion and questions beyond the scope of this guide, please direct your attention to [The Balance Discord](https://discord.gg/thebalanceffxiv), where there are plenty of skilled ASTs who are more than happy to answer questions and work with you.
 
@@ -339,7 +339,7 @@ In dungeons, you can swap to Nocturnal Sect just as the last enemy in a pull die
 
 ### Secondary Stats
 
-The most up to date Astrologian best-in-slot (BiS) set(s) can always be found in the #ast_resources channel on [The Balance Discord.](https://discord.gg/thebalanceffxiv) You can view the [BiS list](https://guides.xivresources.com/jobs/healers/astrologian/best-in-slot/) on the Balance website as well. 
+The most up to date Astrologian best-in-slot (BiS) set(s) can always be found in the #ast_resources channel on [The Balance Discord.](https://discord.gg/thebalanceffxiv) You can view the [BiS list](/jobs/healers/astrologian/best-in-slot/) on the Balance website as well. 
 
 Secondaries for Astrologian follow the same convoluted explanation given in the [general healing guide.](http://bit.ly/FFXIVHealerGuide) TL;DR Crit is usually king, Determination and Direct Hit are basically interchangeable, and Spell Speed is… its own beast. There are no relevant stats that are especially bad on Astrologian, really.
 

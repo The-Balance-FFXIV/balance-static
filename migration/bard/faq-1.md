@@ -61,7 +61,7 @@ Targeting macros (`<tt>`, `<2>`, and so on) for Nature's Minne and Warden's Paea
 
 > *How many DoTs should I put up?*
 
-It's complicated. The full guide ([link here](https://guides.xivresources.com/jobs/ranged/bard/the-pursuit-of-comfiness-bard-guide-5-x/)) goes into the details. But, as a very general rule of thumb, any DoT that will run most to all of its 30s (i.e. the mob won't die soon) is worth applying.
+It's complicated. The full guide ([link here](/jobs/ranged/bard/the-pursuit-of-comfiness-bard-guide-5-x/)) goes into the details. But, as a very general rule of thumb, any DoT that will run most to all of its 30s (i.e. the mob won't die soon) is worth applying.
 
 > *How does Shadowbite's damage work?*
 
@@ -77,8 +77,8 @@ Yes, 85 to 90 is pretty fine depending on DoT count to lessen the risk of overfi
 
 > *What do I put in my relic?*
 
-If you have the 535 AND the rest of the best in slot gear, or if you're using it for an Ultimate, check [Gear Sets](https://guides.xivresources.com/admin/#/collections/brd-guides/entries/best-in-slot) for details.\
-Otherwise, follow the basic priority [in the [Stats and Materia guide](https://guides.xivresources.com/jobs/ranged/bard/stats-and-materia/)].
+If you have the 535 AND the rest of the best in slot gear, or if you're using it for an Ultimate, check [Gear Sets](/admin/#/collections/brd-guides/entries/best-in-slot) for details.\
+Otherwise, follow the basic priority [in the [Stats and Materia guide](/jobs/ranged/bard/stats-and-materia/)].
 
 > *Is piece x better than piece y?*
 

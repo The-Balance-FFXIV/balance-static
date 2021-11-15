@@ -79,7 +79,7 @@ qna:
   - question: What macros does BLM use?
     answer: None, except for macros for Aetherial Manipulation and Sprint. You can
       find an example in the [5.X BLM
-      guide.](https://guides.xivresources.com/jobs/casters/black-mage/5-x-blm-guide)
+      guide.](/jobs/casters/black-mage/5-x-blm-guide)
 ---
 ## Q: What is Umbral Soul used for?
 

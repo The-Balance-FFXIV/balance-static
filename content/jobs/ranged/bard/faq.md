@@ -47,7 +47,7 @@ qna:
   - question: How many DoTs should I put up for AoE?
     answer: >-
       It's complicated. The [full
-      guide](https://guides.xivresources.com/jobs/ranged/bard/the-pursuit-of-comfiness-bard-guide-5-x)
+      guide](/jobs/ranged/bard/the-pursuit-of-comfiness-bard-guide-5-x)
       goes into the details.
 
       But as a very general rule of thumb, any DoT that will run most to all of its 30s (i.e. the mob won't die soon) is worth applying.

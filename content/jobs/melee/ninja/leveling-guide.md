@@ -98,4 +98,4 @@ This is the general level 80 opener used in most every piece of content that you
 
 ![](https://cdn.discordapp.com/attachments/718452012928467005/725406474880286851/NINreadibleRotation.png)
 
-For more information on specifics of the rotation at level 80, look at [the full guide](https://guides.xivresources.com/jobs/melee/ninja/ninja-guide/).
+For more information on specifics of the rotation at level 80, look at [the full guide](/jobs/melee/ninja/ninja-guide/).
