@@ -1,5 +1,6 @@
 ---
 title: Bard Basic Guide
+card_header_image: /img/jobs/brd/brd-basic-job-guide.jpg
 authors:
   - Balance-BRD-Staff
 patch: "5.58"
