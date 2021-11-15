@@ -9,6 +9,11 @@ theme = "glam"
   maxUltimateGearsets = 4
   maxGearsets = 12
 
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    startLevel = 1
+
 [menu]
   [[menu.main]]
     identifier = 'jobs'
