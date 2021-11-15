@@ -57,7 +57,7 @@ The bread-and-butter of your rotation, so to speak, these are the buttons you pr
 
 ### The Chaos Thrust Combo
 
-|**True Thrust >** | **Vorpal Thrust >** | **Chaos Thrust >** | **Wheeling Thrust >** | **Fang and Claw**|
+|**True Thrust >** | **Disembowel >** | **Chaos Thrust >** | **Wheeling Thrust >** | **Fang and Claw**|
 |-|-|-|-|-|
 |![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) |  ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png)|  
 
@@ -83,11 +83,13 @@ This action functions as a direct upgrade to **True Thrust** after you’ve succ
 |-|-|-|
 |![](https://xivapi.com/i/000000/000306_hr1.png) | ![](https://xivapi.com/i/002000/002586_hr1.png) | ![](https://xivapi.com/i/002000/002590_hr1.png)|
 
-Our new and freshly upgraded area-of-effect combo now packs **Coerthan Torment** as a third hit finisher! This is primarily used when dealing with a group of enemies numbering **three or more**.
+Our new and freshly upgraded area-of-effect combo now packs **Coerthan Torment** as a third hit finisher! This is primarily used when dealing with a group of enemies numbering **three or more.**
 
 ### Basic Rotation
 
-<img src="/img/tt.png" alt="Raiden Thrust" height="50px"> <img src="/img/de.png" alt="Disembowel" height="50px"> <img src="/img/ct.png" alt="Chaos Thrust" height="50px"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px"> <img src="/img/fc.png" alt="Fang and Claw" height="50px"> <img src="/img/rt.png" alt="Raiden Thrust" height="50px"> <img src="/img/vt.png" alt="Vorpal Thrust" height="50px"> <img src="/img/ft.png" alt="Full Thrust" height="50px"> <img src="/img/fc.png" alt="Fang and Claw" height="50px"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px"> 
+|**True Thrust >** | **Disembowel >** | **Chaos Thrust >** | **Wheeling Thrust >** | **Fang and Claw >** | **Raiden Thrust >** | **Vorpal Thrust >** | **Full Thrust >** | **Fang and Claw >**| **Wheeling Thrust**|
+|-|-|-|-|-|-|-|-|-|-|
+|![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png)|  
 
 Putting all of this together with the timers, we come out with one single string of actions. In general, under normal circumstances, we want to maintain this sequence of GCDs for as long as we are capable!
 
@@ -105,7 +107,7 @@ Several actions in the kit deal more damage from the **Side** of a boss, and sev
 
 #### How do I know if I'm at the **Side** or **Rear** of a target?
 
-<img src="/img/pos.png" alt="Positionals" style="float:left;" height="220px">
+![](/static/img/pos.png)
 
 
 The arrow at the top is the **Front** of the target. You get no special bonuses by attacking here, other than lots of bonus deaths for standing in tank busters and cleaves.
@@ -118,11 +120,13 @@ Some enemies will have the **Side** mark wrapping their entire hitbox, with no a
 
 #### Side Positionals
 
-<img src="/img/fc.png" alt="Fang and Claw" height="50px" style="float:left;"> **Fang and Claw** deals 40 more potency from the **Side**.
+![](https://xivapi.com/i/002000/002582_hr1.png)\
+**Fang and Claw** deals 40 more potency from the **Side**.
 
 #### Rear Positionals
 
-<img src="/img/ct.png" alt="Chaos Thrust" height="50px" style="float:left;"> <img src="/img/wt.png" alt="Wheeling Thrust" height="50px" style="float:left;"> **Chaos Thrust** and **Wheeling Thrust** deal 40 more potency from the **Rear**.
+![](https://xivapi.com/i/002000/002584_hr1.png)\
+ **Chaos Thrust** and **Wheeling Thrust** deal 40 more potency from the **Rear**.
 
 #### Positional Parity
 
@@ -152,13 +156,16 @@ These actions have individual recast timers, allowing you to so-called “weave�
 
 ![](/img/jobs/drg/blood.png)
 
-<img src="/img/botd.png" alt="Blood of the Dragon" height="50px" style="float:left;"> **Blood of the Dragon** is our primary mechanic.\
+![](https://xivapi.com/i/002000/002581_hr1.png)\
+ **Blood of the Dragon** is our primary mechanic.
 Under normal circumstances, it should never fall off.
 
-<img src="/img/md.png" alt="Mirage Dive" height="50px" style="float:left;"> **Mirage Dive** helps us gain **Dragon Eyes** to build toward **Life of the Dragon**.\
-**Eyes** only open when **Blood of the Dragon** or **Life of the Dragon** is active.
+![](https://xivapi.com/i/002000/002588_hr1.png)\
+ **Mirage Dive** helps us gain **Dragon Eyes** to build toward **Life of the Dragon**.\
+ **Eyes** only open when **Blood of the Dragon** or **Life of the Dragon** is active.
 
-<img src="/img/gsk.png" alt="Geirskogul" height="50px" style="float:left;"> **Geirskogul** can only be used under **Blood of the Dragon**, and when you press it with\
+![](https://xivapi.com/i/002000/002583_hr1.png)\
+ **Geirskogul** can only be used under **Blood of the Dragon**, and when you press it with
 **two** **Dragon Eyes** open, we enter **Life of the Dragon**.
 
 ![](
