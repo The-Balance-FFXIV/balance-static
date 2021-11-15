@@ -172,25 +172,31 @@ Under normal circumstances, it should never fall off.
 ![](
 /img/life.png)
 
-<img src="/img/nas.png" alt="Nastrond" height="50px" style="float:left;"> Under **Life of the Dragon**, **Geirskogul** becomes **Nastrond**.\
+![](https://xivapi.com/i/002000/002589_hr1.png)\
+Under **Life of the Dragon**, **Geirskogul** becomes **Nastrond**.\
 Ideally, you want to press **three Nastrond** before your **Life** timer runs out.\
 When the **Life** timer hits 0, you return to **Blood** with 30 seconds remaining.
 
-<img src="/img/std.png" alt="Stardiver" height="50px" style="float:left;"> Additionally, we can utilize **Stardiver** while under the effects of **Life of the Dragon**.\
+![](https://xivapi.com/i/002000/002593_hr1.png)\
+ Additionally, we can utilize **Stardiver** while under the effects of **Life of the Dragon**.\
 We will always use exactly **1 Stardiver** in each sequence.\
 
 <br>
 
 ### One Giant Leap for Dragoon Kind
 
-<img src="/img/jump.png" alt="Jump" style="float:left;" height="50px"> <img src="/img/hj.png" alt="High Jump" style="float:left;" height="50px"> Jump and its big brother High Jump are our most important actions. Using them gives us the Dive Ready buff, which grants access to Mirage Dive. Without these friends, Life would be a distant dream. 
+![](https://xivapi.com/i/002000/002576_hr1.png) ![](https://xivapi.com/i/002000/002591_hr1.png)\
+Jump and its big brother High Jump are our most important actions. Using them gives us the Dive Ready buff, which grants access to Mirage Dive. Without these friends, Life would be a distant dream. 
 
-<img src="/img/ssd.png" alt="Spineshatter Dive" style="float:left;" height="50px">Spineshatter Dive crosses gaps and saves lives. Don’t hold it for doing those things, though, because it does do a decent chunk of damage on its own! 
+![](https://xivapi.com/i/002000/002580_hr1.png)\
+Spineshatter Dive crosses gaps and saves lives. Don’t hold it for doing those things, though, because it does do a decent chunk of damage on its own! 
 
-<img src="/img/dfd.png" alt="Dragonfire Dive" style="float:left;" height="50px">Dragonfire Dive also closes gaps and explodes damage on everybody.
+![](https://xivapi.com/i/002000/002578.png)\
+Dragonfire Dive also closes gaps and explodes damage on everybody.
 It should be used whenever available, except in the rare case where you will want to hit multiple targets before it’s back again.
 
-<img src="/img/std.png" alt="Stardiver" style="float:left;" height="50px">The new kid on the block, Stardiver (STD for short) has a 30 second window in which to use it, each time it’s available. Your job is to decide when in that time is the best time to orbital strike some coward(s).
+![](https://xivapi.com/i/002000/002593_hr1.png)\
+The new kid on the block, Stardiver (STD for short) has a 30 second window in which to use it, each time it’s available. Your job is to decide when in that time is the best time to orbital strike some coward(s).
 
 **Note that High Jump, Spineshatter Dive, Dragonfire Dive, and Stardiver all have long animation lock, meaning you should never pair them with any other actions in one spin of the GCD.**
 
