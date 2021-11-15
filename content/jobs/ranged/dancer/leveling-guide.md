@@ -1,6 +1,6 @@
 ---
 title: Dancer Leveling Guide
-card_header_image: /img/jobs/dnc/dnc-leveling.jpg
+card_header_image: /img/jobs/dnc/leveling.png
 authors:
   - Balance-DNC-Staff
 patch: "5.58"
