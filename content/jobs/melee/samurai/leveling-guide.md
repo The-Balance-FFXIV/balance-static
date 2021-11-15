@@ -1,5 +1,6 @@
 ---
 title: Samurai Leveling Guide
+card_header_image: /img/jobs/sam/leveling.jpg
 authors:
   - Balance-SAM-Staff
 patch: "5.58"
