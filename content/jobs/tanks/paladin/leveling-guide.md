@@ -1,6 +1,6 @@
 ---
 title: Paladin Leveling Guide
-card_header_image: /img/jobs/pld/pld-leveling-1-.jpg
+card_header_image: /img/jobs/pld/leveling.png
 authors:
   - Balance-PLD-Staff
 patch: "5.5"
