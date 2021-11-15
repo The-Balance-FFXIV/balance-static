@@ -1,5 +1,6 @@
 ---
 title: Astrologian Advanced Guide
+card_header_image: /img/jobs/ast/ast-advanced-2-.jpg
 authors:
   - Balance AST Staff
 patch: "5.58"
