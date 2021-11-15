@@ -1,5 +1,6 @@
 ---
 title: Machinist Basic Guide
+card_header_image: /img/jobs/mch/mch-basic-guide-1-.jpg
 authors:
   - Balance-MCH-Staff
 patch: "5.58"
