@@ -166,7 +166,7 @@ Guarantees blocks.
 
 120s cooldown
 
-Provides 15% damage reduction to party members behind you (lasts at least 5s, [see FAQ](https://guides.xivresources.com/jobs/tanks/paladin/faq/) for more details).
+Provides 15% damage reduction to party members behind you (lasts at least 5s, [see FAQ](/jobs/tanks/paladin/faq/) for more details).
 
 Cancelled by taking any action (including turning your character).
 
@@ -489,7 +489,7 @@ FFXIV macros do not queue, so hitting a macro while in animation lock from anoth
 
 ## Stats and Itemization
 
-Before obtaining best-in-slot gear, pick gear and meld according to stat priority on each piece of gear. Best-in-slot sets can be found [in the Balance Discord](https://discord.com/channels/277897135515762698/580300460179718146/847963997952016394) or [the Best in Slot page on this website](https://guides.xivresources.com/jobs/tanks/paladin/best-in-slot/).
+Before obtaining best-in-slot gear, pick gear and meld according to stat priority on each piece of gear. Best-in-slot sets can be found [in the Balance Discord](https://discord.com/channels/277897135515762698/580300460179718146/847963997952016394) or [the Best in Slot page on this website](/jobs/tanks/paladin/best-in-slot/).
 
 Because of stat tiering, the [Tank Gear Calculator](https://bit.ly/TankDPSCalc520) gets the last word on any specific gearing questions.
 
@@ -578,7 +578,7 @@ Since the base potency of Goring Blade is higher than that of Rage of Halone, Ra
 
 ## Frequently Asked Questions
 
-View more FAQs [on this page](https://guides.xivresources.com/jobs/tanks/paladin/faq/).
+View more FAQs [on this page](/jobs/tanks/paladin/faq/).
 
 ### How do Cover, Divine Veil, and Passage of Arms work?
 
