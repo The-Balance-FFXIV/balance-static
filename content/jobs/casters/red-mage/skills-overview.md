@@ -1,4 +1,5 @@
 ---
+title: Red Mage Skills Overview
 authors:
   - Balance-RDM-Staff
 patch: "5.58"

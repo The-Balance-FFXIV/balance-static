@@ -1,4 +1,5 @@
 ---
+title: Summoner Best in Slot (BiS)
 patch: "5.58"
 lastmod: 2021-11-09T04:29:22.858Z
 changelog:

@@ -1,4 +1,5 @@
 ---
+title: White Mage Best in Slot (BiS)
 patch: "5.58"
 lastmod: 2021-10-27T00:17:35.533Z
 changelog:

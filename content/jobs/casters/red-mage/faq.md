@@ -1,4 +1,5 @@
 ---
+title: Red Mage FAQ
 patch: "5.58"
 lastmod: 2021-10-26T01:27:16.438Z
 changelog:

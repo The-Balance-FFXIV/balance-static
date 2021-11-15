@@ -1,5 +1,5 @@
 ---
-title: Skills Overview
+title: Monk Skills Overview
 authors:
   - Balance-MNK-Staff
 patch: "5.58"

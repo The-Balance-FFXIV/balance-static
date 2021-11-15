@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Astrologian FAQ
 patch: "5.58"
 lastmod: 2021-10-26T20:58:03.037Z
 changelog:

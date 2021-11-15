@@ -1,4 +1,5 @@
 ---
+title: Samurai Openers
 authors:
   - Balance-SAM-Staff
 patch: "5.58"

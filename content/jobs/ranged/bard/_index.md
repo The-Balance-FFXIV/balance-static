@@ -1,4 +1,5 @@
 ---
+title: Bard
 authors:
   - Balance BRD Staff
 job_name: bard

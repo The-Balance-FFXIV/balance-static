@@ -1,5 +1,5 @@
 ---
-title: SAM Skills Overview
+title: Samurai Skills Overview
 authors:
   - Balance-SAM-Staff
 patch: "5.58"

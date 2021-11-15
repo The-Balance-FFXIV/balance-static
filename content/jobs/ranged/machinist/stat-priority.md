@@ -1,4 +1,5 @@
 ---
+title: Machinist Stat Priority
 patch: "5.58"
 lastmod: 2021-10-25T22:14:58.469Z
 changelog:

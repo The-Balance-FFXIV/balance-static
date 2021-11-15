@@ -1,5 +1,5 @@
 ---
-title: Skills Overview
+title: Paladin Skills Overview
 authors:
   - Balance-PLD-Staff
 patch: "5.5"

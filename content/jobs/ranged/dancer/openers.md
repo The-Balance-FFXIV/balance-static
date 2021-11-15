@@ -1,4 +1,5 @@
 ---
+title: Dancer Openers
 authors:
   - Balance-DNC-Staff
 patch: "5.58"

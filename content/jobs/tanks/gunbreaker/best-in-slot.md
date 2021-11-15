@@ -1,5 +1,5 @@
 ---
-title: Best in Slot (BiS)
+title: Gunbreaker Best in Slot (BiS)
 patch: "5.58"
 lastmod: 2021-10-25T21:44:09.967Z
 bis:

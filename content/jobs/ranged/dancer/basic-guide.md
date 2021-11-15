@@ -1,4 +1,5 @@
 ---
+title: Dancer Basic Guide
 authors:
   - Ringabel-Dim
 patch: "5.58"

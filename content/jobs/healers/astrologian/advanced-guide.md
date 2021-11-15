@@ -1,4 +1,5 @@
 ---
+title: Astrologian Advanced Guide
 authors:
   - Balance AST Staff
 patch: "5.58"

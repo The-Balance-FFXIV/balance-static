@@ -1,4 +1,5 @@
 ---
+title: Red Mage Basic Guide
 authors:
   - Balance-RDM-Staff
 patch: "5.58"

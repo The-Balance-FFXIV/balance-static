@@ -1,4 +1,5 @@
 ---
+title: Black Mage Leveling Guide
 authors:
   - Balance-BLM-Staff
 patch: "5.58"

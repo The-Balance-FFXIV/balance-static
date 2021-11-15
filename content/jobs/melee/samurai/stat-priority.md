@@ -1,4 +1,5 @@
 ---
+title: Samurai Stat Priority
 patch: "5.58"
 lastmod: 2021-10-28T03:33:19.149Z
 changelog:

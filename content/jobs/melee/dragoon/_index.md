@@ -1,4 +1,5 @@
 ---
+title: Dragoon
 authors:
   - Balance DRG Staff
 ---

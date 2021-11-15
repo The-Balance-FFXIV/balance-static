@@ -1,4 +1,5 @@
 ---
+title: Dragoon Basic Guide
 authors:
   - Balance-DRG-Staff
 patch: "5.58"

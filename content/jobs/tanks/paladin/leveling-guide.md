@@ -1,5 +1,5 @@
 ---
-title: "Paladin Levelling Guide"
+title: "Paladin Leveling Guide"
 authors:
   - Balance-PLD-Staff
 patch: "5.5"

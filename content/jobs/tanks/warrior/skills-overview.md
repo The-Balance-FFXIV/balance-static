@@ -1,5 +1,5 @@
 ---
-title: Skills Overview
+title: Warrior Skills Overview
 authors:
   - Balance-WAR-Staff
 patch: "5.5"

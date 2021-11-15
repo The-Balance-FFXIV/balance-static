@@ -1,4 +1,5 @@
 ---
+title: Dragoon Openers
 authors:
   - Balance-DRG-Staff
 patch: "5.58"

@@ -1,5 +1,5 @@
 ---
-title: Skills Overview
+title: Ninja Skills Overview
 authors:
   - Balance-NIN-Staff
 patch: "5.58"

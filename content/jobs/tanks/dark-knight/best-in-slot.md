@@ -1,5 +1,5 @@
 ---
-title: Best in Slot (BiS)
+title: Dark Knight Best in Slot (BiS)
 patch: "5.5"
 lastmod: 2021-10-27T17:44:42.391Z
 changelog:
@@ -161,7 +161,8 @@ Ultimate BiS sets can be found below.
 2.40 relic - <https://etro.gg/gearset/9190d3b3-55b9-4ec6-8364-42dc8f13cf00>
 
 2.38 non-relic - <https://etro.gg/gearset/4f771c14-319a-45bd-8640-e502b8abdeaf>  
-	 		2.38 relic - <https://etro.gg/gearset/fb582812-87f3-4dbc-8566-07bfbb52ead0>
+	 		
+2.38 relic - <https://etro.gg/gearset/fb582812-87f3-4dbc-8566-07bfbb52ead0>
 
 ### Eden Verse
 

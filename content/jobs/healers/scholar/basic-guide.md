@@ -1,4 +1,5 @@
 ---
+title: Scholar Basic Guide
 authors:
   - Balance-SCH-Staff
 patch: "5.58"

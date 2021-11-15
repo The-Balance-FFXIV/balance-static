@@ -1,4 +1,5 @@
 ---
+title: Ninja Openers
 authors:
   - Balance-NIN-Staff
 patch: "5.58"

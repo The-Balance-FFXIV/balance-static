@@ -1,4 +1,5 @@
 ---
+title: Paladin Stat Priority
 patch: "5.5"
 lastmod: 2021-10-27T08:35:30.980Z
 changelog:

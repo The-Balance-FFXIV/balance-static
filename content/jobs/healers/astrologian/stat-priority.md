@@ -1,4 +1,5 @@
 ---
+title: Astrologian Stat Priority
 patch: "5.58"
 lastmod: 2021-10-26T21:17:25.892Z
 changelog:

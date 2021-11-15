@@ -1,4 +1,5 @@
 ---
+title: Warrior Openers
 authors:
   - Balance-WAR-Staff
 patch: "5.5"

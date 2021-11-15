@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Scholar FAQ
 patch: "5.58"
 lastmod: 2021-10-26T23:57:40.100Z
 changelog:

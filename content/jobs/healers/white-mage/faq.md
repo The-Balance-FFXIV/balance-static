@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: White Mage FAQ
 patch: "5.58"
 lastmod: 2021-10-27T00:50:31.246Z
 changelog:

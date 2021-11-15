@@ -1,4 +1,5 @@
 ---
+title: Bard Openers
 authors:
   - Balance-BRD-Staff
 patch: "5.58"

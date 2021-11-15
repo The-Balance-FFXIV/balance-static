@@ -1,4 +1,5 @@
 ---
+title: Black Mage
 authors:
   - Balance BLM Staff
 ---

@@ -1,4 +1,5 @@
 ---
+title: Monk Stat Priority
 patch: "5.58"
 lastmod: 2021-10-28T03:55:41.257Z
 changelog:

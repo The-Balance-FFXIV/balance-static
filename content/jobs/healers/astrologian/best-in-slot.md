@@ -1,5 +1,5 @@
 ---
-title: Best in Slot
+title: Astrologian Best in Slot (BiS)
 patch: "5.58"
 lastmod: 2021-10-26T21:04:29.040Z
 changelog:

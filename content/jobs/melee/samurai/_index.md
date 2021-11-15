@@ -1,4 +1,5 @@
 ---
+title: Samurai
 authors:
   - Balance SAM Staff
 ---

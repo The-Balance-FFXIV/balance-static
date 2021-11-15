@@ -1,4 +1,5 @@
 ---
+title: Dancer Skills Overview
 authors:
   - Balance-DNC-Staff
 patch: "5.58"

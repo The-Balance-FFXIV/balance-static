@@ -1,5 +1,5 @@
 ---
-title: Best in Slot
+title: Dancer Best in Slot (BiS)
 patch: "5.58"
 lastmod: 2021-10-26T02:11:21.360Z
 changelog:

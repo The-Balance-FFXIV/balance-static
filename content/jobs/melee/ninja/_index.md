@@ -1,4 +1,5 @@
 ---
+title: Ninja
 authors:
   - Balance NIN Staff
 ---

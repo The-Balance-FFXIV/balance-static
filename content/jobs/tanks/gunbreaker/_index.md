@@ -1,4 +1,5 @@
 ---
+title: Gunbreaker
 authors:
   - Balance GNB Staff
 job_name: gunbreaker

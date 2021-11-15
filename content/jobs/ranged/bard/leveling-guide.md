@@ -1,4 +1,5 @@
 ---
+title: Bard Leveling Guide
 authors:
   - Balance-BRD-Staff
 patch: "5.58"
