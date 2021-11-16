@@ -9,7 +9,7 @@ changelog:
   - date: 2021-10-26T01:57:17.611Z
     message: Added page
 ---
-## Introduction
+# Introduction
 
 - - -
 
@@ -35,7 +35,7 @@ Aory made a great [introductory video guide](https://youtu.be/qN0-ciFRrF8) to no
 
 - - -
 
-#### Standard rotation*
+### Standard rotation*
 
 ![](https://lh6.googleusercontent.com/WUEPln4Kfz5E4hHqOffmuVGRXa7OBrQPYbSxWUfom7YW70t6vN14hqAxcKULIJi40EtQ-5IP4Qrx9RtToO5M0T1jSn04L7Ma3dHUq8ZKatWKK1k57FhPLCdb8fvzQ1Jk2Mu2iXn4=s0)
 
@@ -151,7 +151,7 @@ As discussed before, this line is useful when salvaging a bad 4xF4 line. However
 
 - - -
 
-#### Base Transpose variations 
+### Base Transpose variations 
 
 #### Dual 3xF4 Transpose 
 
