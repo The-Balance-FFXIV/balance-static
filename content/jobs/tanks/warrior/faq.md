@@ -1,7 +1,7 @@
 ---
 title: Warrior FAQ
-patch: "5.4"
 layout: qna
+patch: "5.4"
 lastmod: 2021-10-27T07:26:59.586Z
 changelog:
   - date: 2021-10-27T07:27:07.049Z
@@ -59,12 +59,9 @@ qna:
 
       Last thing I like to do, and this is the thing people hate doing, is go to "Casts -> Timelines" to check for errors in the rotation. Is Dye refreshed properly? Are Upheavals and ICs going in Trick? Do you lose Path casts? Too many Onslaughts? 
   - question: How do I play WAR?
-    answer: "[The 5.x
-      Guide](/jobs/tanks/warrior/how-to-fell-cle\
-      ave-an-angry-wannabe-healer-also-known-as-warrior-5-0-the-guide)"
+    answer: "[The 5.x Guide](/jobs/tanks/warrior/basic-guide/)"
   - question: What do I meld?
-    answer: Check the [Stats and
-      Materia](/jobs/tanks/warrior/stats-and-materia/)
+    answer: Check the [Stats and Materia](/jobs/tanks/warrior/stats-and-materia/)
       guide!
   - question: Why can't I fit five Fell Cleaves inside Inner Release?
     answer: >-
