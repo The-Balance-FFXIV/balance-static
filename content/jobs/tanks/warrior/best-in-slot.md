@@ -40,7 +40,7 @@ bis:
     name: 2.43 GCD - 13410.0 dps - Smoked Chicken
     link: https://etro.gg/gearset/6b4a9646-3d72-4c85-ae3f-c77e28875389
 ---
-## What is the BiS for Ultimates? UCoB / UWU / TEA ?
+# What is the BiS for Ultimates? UCoB / UWU / TEA ?
 
 Sets are currently being gathered in one doc: <http://bit.ly/WARultimateBIS>
 
@@ -61,7 +61,7 @@ Notes:
 * If there are any Synced sets with Crit + Sks rings, change the ring(s) for Crit + SkS bracelet/earring.
 * Chest and weapons are virtually the same piece of gear when it comes to stats.
 
-### The Epic of Alexander
+## The Epic of Alexander
 
 > **Relic**
 
@@ -82,7 +82,7 @@ Fully upgraded relic - 9164.7 DPS   ![](https://cdn.discordapp.com/attachments/2
 
 2.37 - 9050.6 dps![](https://cdn.discordapp.com/attachments/698534042605191229/846015586412134450/unknown.png)
 
-### The Weapon's Refrain (Ultimate)
+## The Weapon's Refrain (Ultimate)
 
 ilv 470
 
@@ -111,7 +111,7 @@ alternative
 ![](https://cdn.discordapp.com/attachments/277962749630349312/812787389931061278/963a5fd438079a138fd805d5746fc0f6.png)\
 alternative![](https://cdn.discordapp.com/attachments/277962749630349312/812786563422748692/unknown.png)
 
-### The Unending Coil of Bahamut (Ultimate)
+## The Unending Coil of Bahamut (Ultimate)
 
 ilv 418
 

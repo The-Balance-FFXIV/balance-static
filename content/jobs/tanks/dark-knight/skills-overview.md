@@ -8,7 +8,7 @@ changelog:
   - date: 2021-10-27T17:34:49.525Z
     message: Added
 ---
-### Tank Stance
+## Tank Stance
 
 ![Grit](https://xivapi.com/i/003000/003070_hr1.png) 
  **Grit**
@@ -17,7 +17,7 @@ changelog:
 * Multiplies enmity (aggro, hate, etc) generation by ten
 * Keep this on in dungeons or as the current maintank (in content with more than one tank)
 
-### Single Target GCDs
+## Single Target GCDs
 
 |**Hard Slash >** | **Syphon Strike >** | **Souleater**|
 |-|-|-|
@@ -36,9 +36,9 @@ changelog:
 * 600 potency
 * Costs 50 Blood
 
-## Abilities (oGCDs)
+# Abilities (oGCDs)
 
-### Buffs
+## Buffs
 
 ![Blood Weapon](https://xivapi.com/i/003000/003071_hr1.png)
 
@@ -59,7 +59,7 @@ changelog:
 
 By using Delirium *late into the GCD* (just before the next GCD), it is possible to fit five Blood Gauge spenders into the buff window
 
-### Offensive
+## Offensive
 
 ![Edge of Shadow](https://xivapi.com/i/003000/003086_hr1.png)
 
@@ -109,7 +109,7 @@ By using Delirium *late into the GCD* (just before the next GCD), it is possible
 200 potency • Two charges
 <br>30s charge time
 
-### Defensive or Utility
+## Defensive or Utility
 
 ![Blackest Night](https://xivapi.com/i/003000/003081_hr1.png)
 
@@ -122,7 +122,7 @@ Shield: 25% target’s max. HP
 <br>Grants *Dark Arts* when shield breaks
 <br>*Dark Arts* - Next use of Edge of Shadow or Flood of Shadow is free (lasts until used)
 
-### Party
+## Party
 
 ![Reprisal](https://xivapi.com/i/000000/000806_hr1.png)
 
@@ -138,7 +138,7 @@ Shield: 25% target’s max. HP
 10% magic damage reduction to party
 <br>15s duration • 90s cooldown
 
-### Personal
+## Personal
 
 ![Rampart](https://xivapi.com/i/000000/000801_hr1.png)
 
@@ -169,7 +169,7 @@ Shield: 25% target’s max. HP
 If you would die with *Living Dead* active, you instead don’t die and gain *Walking Dead* for ten seconds.\
 *Walking Dead* - Can’t be reduced below one HP for the duration. Die after Walking Dead runs out unless healed for 100% of your HP, dispelling Walking Dead.
 
-### Utility
+## Utility
 
 ![Provoke](https://xivapi.com/i/000000/000803_hr1.png)
 
@@ -194,13 +194,13 @@ If you would die with *Living Dead* active, you instead don’t die and gain *Wa
 <br>Become immune to most knockbacks
 <br>Applies a 20% auto-attack and cast slow for 15s to enemies that attack you (resisted by most bosses)
 
-## AoE
+# AoE
 
 |**Unleash >** | **Stalwart Soul**|
 |-|-|
 |![Unleash](https://xivapi.com/i/003000/003063_hr1.png) | ![Stalwart Soul](https://xivapi.com/i/003000/003084_hr1.png)|
 
-### Stalwart Soul Combo (GCD)
+## Stalwart Soul Combo (GCD)
 
 150 > 160 potency
 
@@ -211,7 +211,7 @@ If you would die with *Living Dead* active, you instead don’t die and gain *Wa
 
 ![Quietus](https://xivapi.com/i/003000/003079_hr1.png)
 
-### Quietus (GCD)
+## Quietus (GCD)
 
 210 potency
 
@@ -220,7 +220,7 @@ If you would die with *Living Dead* active, you instead don’t die and gain *Wa
 
 ![Flood of Shadow](https://xivapi.com/i/003000/003085_hr1.png)
 
-### Flood of Shadow (oGCD, upgrades from Flood of Darkness)
+## Flood of Shadow (oGCD, upgrades from Flood of Darkness)
 
 300 potency • 2s cooldown
 
@@ -228,11 +228,11 @@ If you would die with *Living Dead* active, you instead don’t die and gain *Wa
 * Applies *Darkside* (10% damage buff) for 30s, or extends it by 30s, up to a maximum of 60s
 * Replaces Edge of Shadow at 2+ enemies
 
-## Other Actions (Infrequently Used)
+# Other Actions (Infrequently Used)
 
 ![Unmend](https://xivapi.com/i/003000/003062_hr1.png)
 
-### Unmend (GCD)
+## Unmend (GCD)
 
 150 potency
 <br>5x enmity multiplier
@@ -240,14 +240,14 @@ If you would die with *Living Dead* active, you instead don’t die and gain *Wa
 
 ![Low Blow](https://xivapi.com/i/000000/000802_hr1.png)
 
-### Low Blow (oGCD)
+## Low Blow (oGCD)
 
 25s cooldown
 <BR>5s stun
 
 ![Interject](https://xivapi.com/i/000000/000808_hr1.png)
 
-### Interject (oGCD)
+## Interject (oGCD)
 
 30s cooldown
 <br>Interrupts target’s action

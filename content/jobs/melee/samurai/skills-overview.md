@@ -8,9 +8,9 @@ changelog:
   - date: 2021-10-28T03:25:40.964Z
     message: Created page
 ---
-## Actions
+# Actions
 
-### Weaponskills (GCD)
+## Weaponskills (GCD)
 
 |                                             |                                                                                                                                                                                                                                                                                     |                                                                                                                                                                           |
 | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -33,7 +33,7 @@ changelog:
 | ![](https://xivapi.com/i/003000/003163_hr1.png) | ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Getsu_hr1.png](https://lh3.googleusercontent.com/vh7p32RLojf1eVxekvJgdXj61Q4h4w8FTI0f7K-8QtGKUQRpqBsgIPqjGvTIp8jl1EQEHtDCan8xoegKxMtxnHN94Ti4koHcV69g5liT5ExglUdUoxa7vkyRQF0bock5ZcTtnFzH=s0) | **Mangetsu**   AoE in a circle around you, 100 potency, 160 if combo.  Combo Bonus: Getsu Sen, extends Jinpu buff by 15s (Max 40s). +10 Kenki.                      |
 | ![](https://xivapi.com/i/003000/003165_hr1.png) | ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Ka_hr1.png](https://lh6.googleusercontent.com/jSAYprY7WsOG_OyYhh-kYdWo9El9MvFzNKO3Tv4a6GyON8h_i1ToYCAG8bnb-QeQAmhiftTf26kbDKTAG7yoWR7wK0D3VcltTG80NWZ46-y5zZoGuRkcol9hM_LjJljycbeOcYcG=s0)    | **Oka**   AoE in a circle around you, 100 potency, 160 if combo.  Combo Bonus: Ka Sen, extends Shifu buff by 15s (Max 40s). +10 Kenki.                              |
 
-### Off GCDs
+## Off GCDs
 
 |                                             |     |                                                                                                   |
 | ------------------------------------------- | --- | ------------------------------------------------------------------------------------------------- |
@@ -48,7 +48,7 @@ changelog:
 | ![](https://xivapi.com/i/003000/003174_hr1.png) |     | **Hissatsu: Kyuten**   AoE in a circle around you, 150 potency. -25 Kenki. 15s CD.             |
 | ![](https://xivapi.com/i/003000/003184_hr1.png) |     | **Shoha**   Single target attack, 400 potency. -3 Meditation stacks. 15s CD.                   |
 
-## Buffs
+# Buffs
 
 |                                             |                                             |                                                                                                                                                                                                                                         |
 | ------------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -58,7 +58,7 @@ changelog:
 |                                             | ![](https://xivapi.com/i/003000/003175_hr1.png) | **Hissatsu: Seigan**   Single target attack, 220 potency. Consumes Open Eyes. - 15 Kenki. 1s CD, shared with Merciful Eyes.                                                                                                          |
 |                                             | ![](https://xivapi.com/i/003000/003171_hr1.png) | **Merciful Eyes**   Self heal, 200 potency. Consumes Open Eyes. 15s CD, shared with Seigan.                                                                                                                                          |
 
-## Role Actions
+# Role Actions
 
 All jobs also have a several role-specific actions that they can use
 

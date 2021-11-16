@@ -8,7 +8,7 @@ changelog:
   - date: 2021-10-25T22:02:55.843Z
     message: Created page
 ---
-## Single Target Rotation 
+# Single Target Rotation 
 ![Heated Split Shot](https://xivapi.com/i/003000/003031_hr1.png) 
 <br>**Heated Split Shot** 
 
@@ -70,7 +70,7 @@ Places a debuff on a single enemy that deals 200 potency per weapon skill.  Deto
 Generates 50 heat.  Two minute cooldown.  oGCD  +50 Heat 
 
 
-## AoE Actions
+# AoE Actions
 
 ![Bioblaster](https://xivapi.com/i/003000/003044_hr1.png) 
 <br>**Bioblaster**
@@ -93,7 +93,7 @@ Conal AoE. Can only be used while in Hypercharge. GCD recast set to 1.5s.  180 P
 A channeled ability. Deals 100 potency once per second for ten seconds. Moving while channeling the skill will end its duration. Even though it’s an ability, it still resets the GCD timer.  GCD  100p/10s + initial tick.  Max 1100 potency on all enemies in a cone. 
 
 
-## Pet Actions
+# Pet Actions
 
 ![Automaton Queen](https://xivapi.com/i/003000/003501_hr1.png)  
 <br>**Automaton Queen**
@@ -121,7 +121,7 @@ Gap closer used by Queen Automaton. 3s recast.  Pet GCD  300 Potency
 Queen Automaton’s finisher.  Pet GCD  Variable damage based on Battery Gauge.  
 
 
-## Role Abilities/Support
+# Role Abilities/Support
 
 ![Tactician](https://xivapi.com/i/003000/003040_hr1.png)  
 <br>**Tactician**

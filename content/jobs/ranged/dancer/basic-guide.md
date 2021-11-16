@@ -13,7 +13,7 @@ changelog:
 
 - - -
 
-## Purpose and Introduction
+# Purpose and Introduction
 
 The purpose of this guide is to be a comprehensive gameplay guide for how to play and optimize the DNC rotation. This guide goes over the fundamentals and job basics while also looking into advanced tips and tricks that experienced players may not know. Due to the randomness of procs, Feathers, and Esprit generation, DNC has a dynamic playstyle where no two pulls are ever the same. Hopefully after reading this guide, you will have a better understanding of how to play DNC to its fullest.
 
@@ -25,15 +25,15 @@ Everything in this guide is free to be reposted or otherwise used freely! If you
 
 - - -
 
-## Basic DNC Overview
+# Basic DNC Overview
 
 It may be helpful to read through the [Skills Overview](/jobs/ranged/dancer/skill-overview/) before you begin.
 
-### Short Version:
+## Short Version:
 
 Dancer is a ranged physical DPS job with low personal DPS but high contribution to others’ DPS using raid buffs. It has “Dances" that require executing the right dance steps in order to perform powerful finishing moves. Its main weaponskill GCDs revolve around a simple combo that has a chance to generate stronger proc GCDs, which have a chance to generate Feathers that can be used for oGCD damage abilities.
 
-### Long Version:
+## Long Version:
 
 Dancer is a ranged physical DPS job (along with BRD and MCH) that has a pretty straightforward style to its gameplay. Their primary damage stat is dexterity (DEX). DNC is the DPS job that does the least amount of personal damage; however, it makes up for it by providing high damage-increasing buffs to your raid group. Part of DNC’s rotation is keeping a buff up called Standard Finish that increases your damage by 5%. Additionally, DNC has two two-minute cooldown abilities: Technical Step and Devilment. Technical Finish (which occurs after successfully completing the Technical Step dance) will provide a 5% damage up buff to the whole party for 20 seconds, and Devilment provides the DNC with a 20% Crit hit rate and 20% direct hit rate boost for 20 seconds. DNC can also choose someone to be their Dance Partner in a fight with the ability Closed Position, which will duplicate the Standard Finish 5% damage up buff and the Devilment buff on the targeted party member. Additionally, DNC provides raid utility in the form of a small AoE heal called Curing Waltz and a party wide damage reduction ability called Shield Samba. Despite doing low overall personal damage, DNC offers incredibly powerful burst damage in a 20 second window every two minutes with its Technical Step and Devilment abilities.
 
@@ -51,7 +51,7 @@ The basic flow of the DNC GCDs on a single target encounter revolves around keep
 
 - - -
 
-## Range of Actions and Abilities
+# Range of Actions and Abilities
 
 | Action/Ability                                                                                           | Range/Radius                                                                                                                                     |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -65,7 +65,7 @@ In the picture above there are 4 target dummies that are 5y apart from each othe
 
 - - -
 
-## Understanding Standard Step / How to do Dance Steps
+# Understanding Standard Step / How to do Dance Steps
 
 Standard Step is a DNC ability with a 30 second cooldown (cooldown starts from the moment Standard Step begins) that is on the GCD. When activating Standard Step, your Cascade, Fountain, Reverse Cascade, and Fountainfall GCDs will be replaced with steps (Emboite, Entrechat, Jete, Pirouette) that are also color coded (red, blue, green, yellow). Standard Step is a two step sequence of two of these random dance steps. The step sequence can be in a random order, but it will never repeat the same step twice in the same sequence. The step sequence is displayed on your Step Gauge, but the correct steps will also light up on your hotbar in the order you need to press them. After successfully pressing the required steps, the Standard Finish icon will be highlighted which when pressed will finish the dance and return your skills back to normal.
 
@@ -120,7 +120,7 @@ In addition to providing the Dancer and their Dance Partner with a damage% buff,
 ![buffs](https://cdn.discordapp.com/attachments/458951851610734595/890402891083415593/unknown.png)\
 Standard Step is one of your strongest damaging moves and should be kept on cooldown as much as possible. At 1000 potency over the course of five seconds of dancing, this ability does 500 potency per GCD’s worth of time. With your average weaponskill GCD valued at approximately 347 potency per GCD, Standard Step is  a very strong gain over our average single target GCDs.
 
-### Special Notes:
+## Special Notes:
 
 * You DO continue to do auto attacks while dancing. However, if the boss was de-selected (i.e. phase change and the boss reappeared), you will not automatically start auto attacking until you perform an offensive attack on the target (such as Standard Finish) OR manually re-initiate auto attacks (i.e. right click the boss).
 * In addition to not being able to use weaponskills, you won’t be able to use any oGCD abilities with the exception of En Avant and Role Actions (such as Second Wind and Arm’s Length) until you execute “Standard Finish” or until the Standard Step 15 second timer expires.
@@ -128,7 +128,7 @@ Standard Step is one of your strongest damaging moves and should be kept on cool
 
 - - -
 
-## Understanding Technical Step
+# Understanding Technical Step
 
 | Technical Step                                  |     | Technical Finish                                |
 | ----------------------------------------------- | --- | ----------------------------------------------- |
@@ -160,7 +160,7 @@ All players within a 15 yalm radius of the DNC when the DNC executes Technical F
 
 Because the time it takes to execute Technical Step, the four steps, and Technical Finish is a total of seven seconds (1.5s for Technical Step, 1.0s x4 for the steps, 1.5s for Technical Finish = 7.0s), there is a natural 0.5 second gap period of time (because it’s 0.5 seconds short of 7.5 seconds which is the same as three GCDs worth of time) when at a 2.50 GCD tier between the end of a GCD and when Standard Step comes off cooldown during Technical Finish (if Standard Step has not drifted throughout the fight). At this GCD tier, it is optimal to hold the GCD in favor of using Standard Step when it comes off cooldown. See Ellunavi’s analysis for more info on when this is optimal.
 
-### Special Notes:
+## Special Notes:
 
 * You DO continue to do auto attacks while dancing. However, if the boss was de-selected (i.e. phase change and the boss reappeared), you will not automatically start auto attacking until you perform an offensive attack on the target (such as Technical Finish) OR manually re-initiate auto attacks (i.e. right click the boss).
 * In addition to not being able to use weaponskills, you won’t be able to use any oGCD abilities with the exception of En Avant and Role Actions (such as Second Wind and Arm’s Length) until you execute “Technical Finish” or until the Technical Step 15 second timer expires.
@@ -169,7 +169,7 @@ Because the time it takes to execute Technical Step, the four steps, and Technic
 
 - - -
 
-## Understanding Fan Dance (and weaving oGCDs in general)
+# Understanding Fan Dance (and weaving oGCDs in general)
 
 Feathers are a resource the Dancer can use to perform Fan Dances that are weaved between the GCDs of weaponskills (called oGCDs). You have a 50% chance to earn a Feather upon successfully landing a hit with any of your proc GCDs (Reverse Cascade and Fountainfall for single target GCDs, Rising Windmill and Bloodshower for AoE GCDs). You can hold up to 4 Feathers. How many Feathers you have can be seen on your Fourfold Feather gauge:\
 ![](https://cdn.discordapp.com/attachments/458951851610734595/890406241522814986/unknown.png)\
@@ -211,13 +211,13 @@ Double+ weaving on the oGCD of a Standard/Technical Finish and Triple+ weaving f
 
 - - -
 
-## Esprit Generation
+# Esprit Generation
 
 ![Esprit gauge](https://cdn.discordapp.com/attachments/752334526449057853/897215286590210088/unknown.png)
 
 Esprit has a chance to be generated for the DNC whenever anyone with the Standard Finish or Technical Finish buffs perform a weaponskill or spell (GCDs for the most part). Not all actions that party members perform can generate Esprit.
 
-### Actions that DO Generate Esprit:
+## Actions that DO Generate Esprit:
 
 * All offensive “weaponskills” or “spells” that are on the global cooldown.
 
@@ -230,7 +230,7 @@ Esprit has a chance to be generated for the DNC whenever anyone with the Standar
 * BRD’s songs (Army’s Paeon / Mage’s Ballad / Wanderer’s Minuet) since they are classified as “spells” despite being on the oGCD.
 * Healer Role Action “Repose” and BLM’s “Sleep."
 
-### Actions that DO NOT Generate Esprit:
+## Actions that DO NOT Generate Esprit:
 
 * All oGCD “abilities”
 * Healing spells and other non-damage dealing weaponskills or spells (such as BLM’s Umbral Soul, MNK’s Form Shift, and SMN’s Egi Assault when using Titan-Egi / Topaz Carbuncle for Earthen Armor / Glittering Topaz).
@@ -255,13 +255,13 @@ During Technical Finish, the other six party members who do not have the Standar
 
 - - -
 
-## Improvisation
+# Improvisation
 
 Improvisation is a level 80 Dancer ability that creates a circle around you in a six yalm radius for as long as you channel the ability, up to 15 seconds. This ability will generate Esprit based on how many party members are standing in the circle. When used in combat, it will generate 3 Esprit + 1 for each party member who is in your circle per server tick (so if all seven other party members are standing in it, it will generate 10 Esprit per server tick). The ideal time to use Improvisation is during downtime when the boss is untargetable (such as a phase change). If channeled for the full duration, you can generate up to 60 Esprit if everyone is standing in your circle. Additionally, it will grant a 10% healing buff for anyone standing in the circle. Since this ability is channeled, it will cancel the auto attack when initiating. You can potentially weave this ability between GCDs when the whole party is standing together to “fish” for Esprit. Due to the potential loss of an auto attack, this is a marginal gain at best, and a loss if you do not have all seven party members in the circle (missing even one party member will cause you to only generate 9 Esprit which effectively cannot contribute to a Saber Dance -- 49 Esprit is not enough to use Saber Dance while 50 is). 
 
 - - -
 
-## Understanding Flourish
+# Understanding Flourish
 
 Flourish is a 60s cooldown oGCD ability that grants all four of our proc GCDs and a proc of Fan Dance III. Whenever you naturally proc one of these abilities, you gain a buff that lasts for 20 seconds that allow you to use that specific proc’d action. When you use Flourish, you will gain a proc for all five of the actions which each last for 20 seconds. The Flourish window in a DNC’s rotation can be a very hectic time, especially since you will not want to waste a single proc and two of the procs are AoE GCDs that require being close to the boss in order to hit.  
 
@@ -300,7 +300,7 @@ Not losing a proc is especially difficult when Flourish is used during Technical
 
 - - -
 
-## DNC “Rotation”
+# DNC “Rotation”
 
 Because much of which GCDs DNC uses depend on their luck in generating procs and Esprit, DNC doesn’t have a “rotation” in the sense of a consistent execution of weaponskills in a specific order. The general flow of DNC in a Single Target encounter is performing a dance, followed by weaponskills until the dance comes off cooldown:
 
@@ -310,7 +310,7 @@ Where the “GCD” boxes can represent any of Cascade, Fountain, Reverse Cascad
 
 - - -
 
-## General Single Target GCD Priority List
+# General Single Target GCD Priority List
 
 This GCD priority list was determined by identifying what would have the biggest loss to your DPS and preventing that from happening. Per Ellunavi’s analysis, the average GCD value for DNC is 347. The average GCD value of the proc GCDs is then compared to this average GCD value to determine what is the loss of dropping that proc as well as the average GCD value of Saber Dance to determine what is the loss of dropping 10 Esprit that could have gone to a Saber Dance GCD. Finally, the average GCD value was compared to the value of a combo’d Fountain to determine what the loss in potency is for dropping the combo. The following is the result in the comparisons:
 
@@ -334,7 +334,7 @@ The GCD priority list below was made by figuring out how to minimize these poten
 
 - - -
 
-## AoE Rotation
+# AoE Rotation
 
 Whenever you are able to hit more than one target, you should make the following changes to your rotation based on how many targets you can hit:
 
@@ -361,7 +361,7 @@ Special note:
 
 - - -
 
-## Opener
+# Opener
 
 The opener is important for DNC’s rotation since it sets up all of the cooldowns and dance timings for the rest of the fight by executing these actions in a certain order. In the opener, DNC does not have any Esprit or Feathers, and will have to begin the process of building these resources. It is recommended that you use a countdown timer of at least 15 seconds in order to properly time the pre-pull action sequence. The opener is as follows:
 
@@ -377,9 +377,9 @@ This opener uses your cooldowns in the following order: Technical Step/Finish, F
 
 - - -
 
-## Technical Finish / Devilment Window Optimization
+# Technical Finish / Devilment Window Optimization
 
-### Optimizing Technical Finish / Devilment as a Raid Buff (with timings)
+## Optimizing Technical Finish / Devilment as a Raid Buff (with timings)
 
 Technical Finish and Devilment are both huge personal DPS cooldowns for the DNC as well as huge raid DPS buffs. Both of these things need to be considered when deciding when are the optimal timings of these abilities in a fight. Generally speaking, optimal usage will be using these abilities on cooldown every two minutes. There may be some fight specific mechanics or other reasons for why you may want to delay usage (i.e. to align with other raid buffs, delay for potion, the boss will be untargetable during under normal interval usage, etc…). These delays are generally only worth it if you would not lose a cast of Technical Finish / Devilment in the fight with the delay. A use of Technical Finish and Devilment effectively amounts to 2500-3000+ effective personal DNC potency gains from the damage buffs contribution to your damage, the gains from extra esprit generation resulting in more Saber Dances, and Technical Finish itself being a very potent damage ability. Losing a use of Technical Finish and Devilment effectively loses 2500+ potency.
 
@@ -396,7 +396,7 @@ By doing Technical Finish before the other buffs are out, you lose a little bit 
 
 Because of how tight this buff alignment can be if other party members are keeping their buffs off cooldown, with the exception of intentional delays of all raid buffs because of mechanics / phase changes, you will never want to drift Technical Finish / Devilment because this is a loss versus having very good buff alignment. The only exception to this is drifting Technical Step purposefully by one GCD after your opener for the second use the align Devilment with the oGCD of the Technical Finish (Devilment does not drift at all by doing this because it was delayed by one GCD in the opener).
 
-### Optimizing Technical Finish / Devilment as Personal DPS Buffs
+## Optimizing Technical Finish / Devilment as Personal DPS Buffs
 
 In the Technical Finish / Devilment window itself, there are several factors we need to consider in terms of how to optimize this window:
 
@@ -418,7 +418,7 @@ While under the Technical Finish window, our GCD priority changes slightly to:
 
 The key differences to our Technical Finish GCD priority versus our normal GCD priority is that we prioritize using Saber Dance before Standard Step if we are capped or close to capping (resulting in drifting Standard Step) and otherwise prioritize using as many Saber Dances in Technical Finish as possible including letting a combo’d Fountain drop in order to use more Saber Dances. Our top priority is to still not let any procs drop.
 
-### Optimizing Ability Order During Technical Finish / Devilment
+## Optimizing Ability Order During Technical Finish / Devilment
 
 An in-depth analysis was done on different rotations to see what order of abilities and GCDs would result in the greatest potency gains for DNC.
 
@@ -511,7 +511,7 @@ Using the probabilities for the different amounts of Esprit and Feathers generat
 
 - - -
 
-## Conclusions from Technical Finish Rotation Analysis
+# Conclusions from Technical Finish Rotation Analysis
 
 The first important thing to note when comparing these rotations is that the rotations that use Flourish before Devilment (Rotations 1 and 2) are a significant DPS loss compared to the other rotations. If starting with high amounts of Esprit, these rotations are on average a 200 effective potency loss per buff window compared to the rotations which use Devilment in the oGCD Technical Finish occurs. At a medium amount of starting Esprit, these rotations are on average about a 100 effective potency loss. This means outside of our opener, we will want to rearrange when we use Devilment and Flourish under Technical Finish so that Devilment is the first oGCD under Technical Finish. In order to do this after the opener, the next Technical Step will have to be delayed by one GCD in order for the Technical Finish to line up with Devilment coming off cooldown. Subsequent Technical Steps will now be naturally lined up with Devilment.
 
@@ -531,7 +531,7 @@ Examples of where this reopener would be used are after add phase in Shiva E8S a
 
 - - -
 
-## Stat Tiering and Itemization for Dancer
+# Stat Tiering and Itemization for Dancer
 
 Determining what gear to wear can have an impact on the damage you do. I find itemization to be a very important topic for any DPS role because wearing a more optimal gear set can increase your damage without changing anything with regards to your rotation. Essentially, proper itemization increases your DPS before you even step into the fight. For more information on currently recommended Dancer gear and Best in Slot, see the [Best In Slot page](/jobs/ranged/dancer/best-in-slot/). For specific stats and melds for certain fights and general meld priority, see the [Stats and Materia page](/jobs/ranged/dancer/stats-and-materia/). Keep reading for an in-depth look at DNC stats and gear.
 
@@ -562,17 +562,17 @@ However, most stats in FFXIV work in tiers, meaning you will only see the increa
 
 What this means is that when you are at a specific tier (step), adding one point in Determination will have no effect on your damage unless it moves you to the next tier (step). Any points in Determination added beyond this stat tier starting point are considered “wasted” unless it helps you reach a new stat tier. Generally speaking, we should only worry about these steps/tiers when determining what our BiS gear set is, which may involve changing around materia melds to ensure there are as few wasted secondary stat points as possible.
 
-### Weapon Damage and Dexterity
+## Weapon Damage and Dexterity
 
 Weapon Damage and Dexterity are the simplest of stats with regards to DNC DPS, especially since all gear pieces have Dexterity. The easiest way to increase these stats is simply by upgrading gear pieces for higher iLvl items that provide more DEX and higher ilvl weapons with more Weapon Damage. Weapon Damage is the only stat that is not tiered. Dexterity increases your damage through stat tiers, however, these steps are so small and varied (between one and three primary stat points per tier) that it is not worth effort examining differences in Dexterity stat tiers.
 
-### Crit vs. Det/DH
+## Crit vs. Det/DH
 
 Crit is highly valuable for DNC because of how Crit scales and because of how the Crit stat interacts with our Devilment buff. Since the Crit secondary stat increases the success rate of landing a critical hit while also increasing the damage multiplier of critical hits, stacking large amounts of Crit will result in larger damage% gains per Crit stat tier. At BiS (5.2), a slightly larger than 1% increase to damage can be seen from gaining 198 points of Crit (compared to 240 for DH and 254 for DET).
 
 Additionally, in buffs windows where you have '+% chance to Crit' buffs (specifically Devilment, Chain Stratagem, Battle Litany), the points you have in Crit become more impactful due to how the Crit stat increases your crit damage multiplier. Since a disproportionately large amount of your damage occurs during buffs windows (specifically under Technical Finish and Devilment), this heavily weighs Crit to become more and more valuable over DH and DET which have a stagnant damage% increase during these windows.
 
-### Determination vs. DH
+## Determination vs. DH
 
 Determination and DH are similarly valued for DNC, but DH is slightly more worthwhile. The reason behind this is due to the stat tiering for DH to be slightly favorable over DET for DNC. In order to increase your chance to DH by 4%, you would need 240 points in DH at level 80. Since the DH multiplier is a static 1.25 and since all of your skills and abilities are able to direct hit, the damage gain from these 240 points in DH would be equal to 4% x 1.25 = 1% damage increase. For DET, it takes approximately 252 points of DET to obtain a 1% damage increase. Getting 1% damage increase takes 12 less secondary points with DH than with DET, making DH slightly more economical than DET when allocating your secondary stats.
 
@@ -598,7 +598,7 @@ In order to consider Devilment in our DH+DET optimization calculations, we can d
 
 - - -
 
-## Skill Speed and Why it is Not Good on DNC
+# Skill Speed and Why it is Not Good on DNC
 
 The skill speed stat has two effects for DNC: lowering the global cooldown timer for weaponskills (2.50 base GCD) and increasing the damage of auto attacks.
 
@@ -620,7 +620,7 @@ One last thing about Skill Speed is that certain fights may have different phase
 
 - - -
 
-## Considerations for Selecting a Dance Partner
+# Considerations for Selecting a Dance Partner
 
 The two biggest considerations that need to be made when determining who you choose as your Dance Partner are their skill level and their gear. For example, you may have two players who have very similar skill levels at their respective jobs, but one player might have considerably better gear. The player with the better gear may be the better player to choose as your Dance Partner in this situation due to them being better able to maximize the DPS gain from having your buffs. Additionally, you may have two players with similar gear, but one performs exceptionally better at their job than the other. In order to determine who would be better to Dance Partner, the easiest thing would be to use ACT (a damage parsing tool) to determine who is doing more damage.
 
@@ -636,7 +636,7 @@ The second point is a little bit trickier figuring out since it’s not a direct
 
 For the third point, let’s look at how much Esprit your dance partner generates for you. Although certain jobs execute more weaponskill or spell GCDs than others due to buffs that increase their speed, this generally isn’t as impactful on our personal DPS when compared to the amount of DPS our Dance Partner gains from having our Standard Finish damage% buff and Devilment Crit/DH% buff. Part of this is because this independent Esprit generation effect only matters for the parts of the fight outside of Technical Finish due to everyone contributing to your Esprit during that buff window. These differences in Esprit generation between potential Dance Partners can potentially mean getting one or two extra Saber Dances over the course of the fight. However, the personal DPS gain for the DNC from these extra Sabers Dances ends up being equal to AT MOST 5% of the DPS contribution you give to your Dance Partner from Standard Finish and Devilment. Therefore, consideration of Dance Partner’s Esprit generation should only be used in Dance Partner selection if available Dance Partners are near equal in DPS gain they would get from your buffs.
 
-### Dance Partner Priority List (assuming gear and skill vacuum)
+## Dance Partner Priority List (assuming gear and skill vacuum)
 
 1. SAM
 2. MNK
@@ -684,7 +684,7 @@ Bard is one of the lowest personal DPS jobs for overall damage. Additionally, th
 
 Dancer’s Technical Finish and Devilment buffs do not stack with each other. If you were to Dance Partner another DNC, you would have to coordinate with them to do your Devilment and Technical Finish at different times. Using either of these buffs when they are already active will override the Crit/DH buff from Devilment and the damage% buff from Technical Finish.
 
-### Dance Partner Swapping
+## Dance Partner Swapping
 
 *In most cases, Dance Partner Swapping in regular uptime fights results is a minimal gain at best, and a significant loss of DPS at worst if done during a fight. There are phases of fights / mechanics in fights that enable better time for swapping partners where gains may be more noticeable. For the most part, Dance Partner Swapping should only be done in high end environments such as optimized speed kills.*
 
@@ -719,47 +719,47 @@ If your Dance Partner dies during a fight, it is very important to swap to a liv
 
 - - -
 
-## DNC Utility
+# DNC Utility
 
 Dancer has several abilities that can help with mitigation, healing, or otherwise help with handling certain mechanics in a fight. This section highlights how best to use some of these abilities:
 
-### Shield Samba
+## Shield Samba
 
 Shield Samba is a 120 second cooldown ability that provides a 10% damage reduction buff to all party members within a 20 yalm radius around the Dancer for 15 seconds. The best time to use this ability would be for raid wide AoE damage. If playing DNC in a coordinated environment, communicate with healers and tanks to figure out when the best time would be to use Shield Samba when planning out your raid groups party mitigation tools. Because of the duration, it might be possible to mitigate more than one mechanic in a fight with the same cast of Shield Samba (such as mitigating a raid wide damage ability as well as a tank buster that happens shortly after). Sometimes the timing is tight but doable where you use Shield Samba near the end of the cast of a Boss’s action to also hit a later mechanic.
 
 This ability does not stack with BRD’s Troubadour or MCH’s Tactician (both of which have the same effects of 10% damage reduction for 15 seconds on a 120 second cooldown). However, one key thing to point out about Shield Samba is that it cannot be used while you are dancing. If you are trying to time Shield Samba at a precise time to cover a specific mechanic, it may be difficult to get the precise GCD for the cast you want if you are doing a dance during this time.
 
-### Curing Waltz
+## Curing Waltz
 
 Curing Waltz does a very small AoE heal on you and everyone in a three yalm radius of you. Additionally, this AoE heal will be duplicated on whoever is your Dance Partner. If you stand directly on top of your Dance Partner when you use Curing Waltz, both you and your Dance Partner as well as anyone standing in that radius will be hit by two instances of the heal. At current BiS in patch 5.25, getting hit by both heals does somewhere between 17k and 18k altogether. This is effectively the same amount of healing done by a non-crit Indomitability from a SCH. Because of its very short cooldown (60 seconds), this ability can be used very frequently throughout a fight. It pairs well with topping the party off before or after raid wide damage occurs. However, if you are at a part of the fight where there is little raid wide damage, you can consider running on top of the tank (if it is safe to do so) and casting it on them to give them a very small, free spot heal. Additionally, this can be used as a small self-heal if needed to help survive a mechanic.
 
-### Improvisation
+## Improvisation
 
 In addition to generating Esprit, Improvisation provides a 10% healing increase buff to party members in range. This buff lasts for approximately five seconds after the party member steps out of the Improvisation circle or after the cast of Improvisation ends. Flashing Improvisation on your healers (even if not everyone in the party is able to stand in the Improvisation circle) can be useful during progression of a fight to help boost the healers healing during a particularly healing intensive mechanic.
 
-### Head Graze
+## Head Graze
 
 Head Graze is a role action for ranged physical damage dealers that will interrupt the target's cast (i.e. “silence”). This ability is not always needed in Savage fights. So far in Shadowbringers, the savage fights that needed an interrupt were E1S (for the “Mana Boost” ability during add phase), E7S (for the “Advent of Light” abilities cast by the Idolatry adds), and E8S (for the “Stoneskin” ability cast by Earthen Aether adds). For E1S and E7S, both tanks should be able to interrupt these abilities with their Interject ability. However, for E8S, the tank on the West side of add phase will not be able to silence both Earthen Aether adds, which then requires a ranged physical damage dealer to be on that side as well in order to cover all of the silences needed for add phase. Head Graze has a 30 second cooldown. Since this is a role action, it can be used during a dance if need be.
 
-### Arm’s Length
+## Arm’s Length
 
 Although not a support ability, this role action prevents you from being knocked back or pulled in for six seconds (120 second cooldown for the ability). There are some mechanics where this will not prevent the knockback effect, but it is useful for preventing knockbacks in a lot of situations. Since this is a role action, it can be used during a dance if need be.
 
-### Second Wind
+## Second Wind
 
 Second Wind is a useful self-heal oGCD that is on a 120 second cooldown. At 5.2 BiS, it heals for about 14k non-crit (approximately 12% of your max HP). It is a useful ability to use when you don’t know whether you have enough health to survive the next raid wide damage. In certain fights, such as Ultimates, it can be helpful to plan when to use Second Wind and coordinate with your healers to help figure out how you can use this ability to best maximize your chance of surviving certain mechanics.
 
-### Peloton
+## Peloton
 
 Peloton is a ranged role action that boosts everyone’s movement speed slightly when out of combat. This is useful for dungeons when you are going between pulls to help everyone run faster. The movement speed boost from Peloton does not stack with Sprint (Sprint’s movement speed boost will take priority since it is a faster movement speed buff). Additionally, if used in combat, it will have no effect on boosting anyone’s movement speed since the buff automatically disappears if you are in combat. This can be used pre-pull in a raid fight to help the party run to the boss faster right as the countdown hits zero. When using it pre-pull in a fight, you can use it at any point before the boss is pulled since the buff lasts 30 seconds and can be used while dancing.
 
-### En Avant
+## En Avant
 
 En Avant is a movement ability that DNCs can use to quickly dash 10 yalms in the direction they are facing. It can be useful for quickly dodging AoEs, or just in general to help with movement while handling a mechanic. En Avant is on a charge system where you can have a maximum of three charges of the ability. As long as you have charges, you can use this ability. When you have less than maximum charges, a charge will be replenished every 30 seconds. En Avant has a one second cooldown which makes it difficult to weave two casts of En Avant in the same GCD without clipping. En Avant can be used while dancing if need be.
 
 - - -
 
-## Common Abbreviations
+# Common Abbreviations
 
 AoE - short for area of effect\
 BiS - short for best in slot\
@@ -787,43 +787,43 @@ WD - short for weapon damage, stat on your main hand weapon
 
 - - -
 
-## Glossary of Terms
+# Glossary of Terms
 
-### Clipping
+## Clipping
 
 The act of delaying a GCD due to the timing of the usage of an oGCD or the number of oGCDs used in between GCDs, can cause significant losses in DPS if many clips occur in a fight.
 
-### Closed Position
+## Closed Position
 
 An ability that can be used on a target party member that grants them the Dance Partner party effect.
 
-### Dance Partner
+## Dance Partner
 
 The effect granted by Closed Position. Enables the targeted player to also benefit from the effects of Standard Finish, Devilment, and Curing Waltz.
 
-### GCD
+## GCD
 
 Short for global cooldown, most weaponskills and spells in FFXIV are on a base global cooldown timer of 2.5 seconds (meaning once you activate that weaponskill or spell, you cannot execute another one for 2.5 seconds). The base GCD is different for some skills. Most skills and spells’ GCD can be lowered by acquiring skillspeed/spellspeed on your gear.
 
-### oGCD
+## oGCD
 
 Short for off global cooldown, these are abilities that are not on the global cooldown and instead have an independent cooldown. They do not trigger the global cooldown and under most circumstances can be used inbetween GCDs (this is known as weaving).
 
-### Proc
+## Proc
 
 Refers to a GCD or oGCD that has a % chance to be usable based off a separate action that generates this effect. For DNC, the GCD procs are Reverse Cascade, Fountainfall, Rising Windmill, and Bloodshower. The oGCD proc from Fan Dance is called Fan Dance III.
 
-### Weaving
+## Weaving
 
 Using oGCD abilities in between GCDs (using one oGCD between GCDs = Single Weaving, using two oGCD between GCDs = Double Weaving).
 
 - - -
 
-## About the Author
+# About the Author
 
 Hello there! My name is Ringabel Dim of Excalibur. I have played FFXIV for six years and have been a DNC raiding main since the launch of Shadowbringers. I have done raid progression and fight specific optimizations on DNC for both Savage raid tiers (Eden’s Gate and Eden’s Verse) and The Epic of Alexander with my raid group on the Primal data center (“Monkeys with Typewriters”). I have recently become a DNC mentor on [The Balance - Discord server](https://discord.gg/CjQkEn3), which is a good source of information pertaining to FFXIV and raiding. If you have any questions regarding DNC, there is a #dnc_questions channel there which is a great place to ask anything with regards to DNC!
 
-## Special Thanks
+# Special Thanks
 
 * Rah (DNC Mentor on The Balance)
 * Io (DNC Mentor on The Balance)

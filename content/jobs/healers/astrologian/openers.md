@@ -8,13 +8,13 @@ changelog:
   - date: 2021-10-26T20:51:46.607Z
     message: Article Created.
 ---
-## Opener
+# Opener
 
 The most up to date Astrologian opener(s) can always be found in the #ast_resources channel on The Balance Discord. Keep in mind that Astrologian openers are extremely flexible and depend almost entirely on the circumstances of the fight, the timings of the planned raid DPS bursts, and party composition. Any premade Astrologian opener is a generic framework, not a universally optimal opener.
 
 We've taken a lot of care to evaluate as many of the variables as we reasonably can and identify the core methodology of the most statistically successful opener with regard to when most DPS jobs burst the hardest and when other raid buffs should be coming out, assuming everyone is doing a proper opener. The framework is as follows, with the caveat that the card manipulation skills you use (Redraw, Minor Arcana) will depend on what you draw and when.
 
-### Pre-Pull
+## Pre-Pull
 
 **Most of this is optional and fight-dependent**, but it is almost always recommended to prep a card 30 seconds pre-pull so that Draw comes back up, place Earthly Star somewhere pre-pull, and use Aspected Benefic, Celestial Intersection, and your Mind Potion/Tincture starting at -5s to lead into your precast Malefic.
 
@@ -32,7 +32,7 @@ We've taken a lot of care to evaluate as many of the variables as we reasonably 
 
 The bolded sections are considered fairly standard. The rest, especially using cooldowns like Neutral Sect and Horoscope pre-pull, are entirely situational depending on whether that much heal/shield prep has any actual value that early in the fight. Realistically, just the regular GCD shields along with Earthly Star are usually overkill for what damage is coming out near the start of the fight. This is just to illustrate some options that you have in the event that there’s a fight that has a large amount of damage coming out in the first 20-30 seconds.
 
-### The Pull
+## The Pull
 
 Thanks to the Sleeve Draw rework in Patch 5.3, our opener has never been friendlier. It now follows a straightforward priority system in which you simply use Lightspeed to enable double weaving for card manipulation, put up Combust, and begin playing cards naturally, working your way toward three unique Seals for Divination at a reasonably early time.
 
@@ -64,7 +64,7 @@ This is the basic framework of the opener. If you Draw a duplicate Seal, you sim
 
 Note that in the scenario above, where no Redraws are required, you could use Divination as early as around six seconds, which may be too early for many party compositions, which is why it’s delayed here until the next GCD. This also means that some Redraws are tolerated without delaying Divination from this timing, but even if it is delayed a further GCD to 10.6 seconds, that’s usually fine. The optimal timing will vary depending on your party composition and burst timings.
 
-### Outdated Opener for Posterity
+## Outdated Opener for Posterity
 
 This is the opener from before the 5.3 rework of Sleeve Draw. It is no longer relevant. I am leaving it here as a testament to a fallen behemoth, so that future generations of Astrologians can look back into the abyss at the Lovecraftian nightmare with which we wrestled even in the deepest recesses of our minds, in our waking hours and in the inner sanctuaries of our dreams.
 

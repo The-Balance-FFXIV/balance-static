@@ -8,7 +8,7 @@ changelog:
   - date: 2021-10-28T04:09:39.139Z
     message: Article Created.
 ---
-## Weaponskills (Commonly referred to as GCDs)
+# Weaponskills (Commonly referred to as GCDs)
 
 ![SpinningEdge](https://xivapi.com/i/000000/000601_hr1.png)  
 **Spinning Edge**
@@ -50,7 +50,7 @@ Delivers an attack with a potency of 120 to all nearby enemies. This is an Area 
 
 Delivers an attack with a potency of 100 to all nearby enemies. If done as the second part of our AoE combo, it instead delivers an attack with a potency of 140 to all nearby enemies, as well as adds ten seconds to your Huton timer assuming your Huton timer is already going. Just like Death Blossom, this is an AoE attack that deals damage in a five yalm radius around you. Grants 5 Ninki if used in combo.
 
-## Ninjutsus/Mudras
+# Ninjutsus/Mudras
 
 Ninjutsus set off a global cooldown of 1.5 seconds upon use, not reducible by Huton or skill speed, and each use of a ninjutsu will use up one mudra charge. Mudras have a shared 2 charges, which are used by using a ninjutsu, a charge time of 20 seconds per charge, and can only be started when a normal GCD could be started. Instead of a 2.5 or 1.5 second global cooldown, the mudras themselves only give a .5 second global cooldown. 
 
@@ -114,7 +114,7 @@ Deals fire damage with a potency of 750 to target and any other enemies nearby t
 
 Deals ice damage with a potency of 1200. This is achieved with any two-mudra combination that ends with Jin. So, Ten>Jin or Chi>Jin. Has a range of 25 yalms. In addition, this is only usable under the effects of Kassatsu and is a replacement for Hyoton when under the effects of Kassatsu. Because of the boost from Kassatsu, the true potency is 1560.
 
-## Regular Abilities (oGCDs)
+# Regular Abilities (oGCDs)
 
 These are your regular abilities that can be used at any time when you are not in an animation lock, even while the global cooldown from a GCD is ongoing.
 
@@ -153,7 +153,7 @@ Temporarily converts each of the three mudra into a ninjutsu action. Executing o
 
 Dispels the Suiton buff, and in return increases the Ninki gauge by 50. This ability can only be used while in combat. This ability has a personal cooldown of 120 seconds.
 
-## Ninki
+# Ninki
 
 Ninki abilities are like normal oGCDs except for the fact that they require 50 Ninki to use. You can store up to 100 Ninki at once.
   
@@ -176,7 +176,7 @@ Melee attack: 200 potency.
 Ranged attack: 100 potency.
 AoE attack: 100 potency to all enemies hit.
 
-## Utility Abilities
+# Utility Abilities
 
 These are oGCDs that don’t deal damage so aren’t necessarily used on cooldown, but are used more when they are specifically needed.
 
@@ -225,7 +225,7 @@ Creates a barrier nullifying most knockback and draw-in effects. Has a duration 
 
 Nullifies all action direction requirements. This means that attacks like Aeolian Edge, Armor Crush, and Trick Attack will do the full potency no matter where you attack the enemy from. This buff lasts for ten seconds and has two charges. The charges have a charge time of 45 seconds. 
 
-## Traits
+# Traits
 
 These are all passives.
 

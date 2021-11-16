@@ -9,9 +9,9 @@ changelog:
   - date: 2021-10-25T21:38:35.164Z
     message: Created article
 ---
-## Gunbreaker Openers and Rotations
+# Gunbreaker Openers and Rotations
 
-## Openers
+# Openers
 
 Openers are designed to do a few very important things:
 
@@ -21,25 +21,25 @@ Openers are designed to do a few very important things:
 
 The theoretical standard opener for a full-uptime encounter is the 4th GCD No Mercy opener (below). At higher levels of gameplay, you can and should adjust your opener based on your group composition and the specifics of the fight.
 
-### 4th GCD No Mercy
+## 4th GCD No Mercy
 
 *Standard Raid Buff Opener*
 <br>**Keen Edge** > **Brutal Shell** > Tincture > **Solid Barrel Keen Edge** > No Mercy  > **Gnashing Fang** > Jugular Rip > **Sonic Break** > 
 Blasting Zone + Bow Shock > **Savage Claw** > Abdomen Tear + Bloodfest > **Wicked Talon** > Rough Divide + Eye Gouge > **Burst Strike** > Rough Divide > **Brutal Shell** > **Burst Strike** > **Solid Barrel** > **Burst Strike** > **Keen Edge** > **Brutal Shell** > ...
 
-### (E11S) Fatebreaker Opener
+## (E11S) Fatebreaker Opener
 
 *Prepull No Mercy > Sonic Break into Raidbuffs*
 <br> Tincture **\-3.5s to Pull** > No Mercy **\-1s to Pull** > **Sonic Break** > Bloodfest > **Keen Edge** > **Brutal Shell** > **Burst Strike** > Rough Divide > **Gnashing Fang** > Bow Shock + Jugular Rip > **Savage Claw** > Blasting Zone + Abdomen Tear > **Wicked Talon** > Eye Gouge > **Solid Barrel** > Rough Divide > **Burst Strike** > **Keen Edge** > **Brutal Shell** > **Solid Barrel** > ...
 
-### (E12S) - Oracle of Darkness Savage Opener:
+## (E12S) - Oracle of Darkness Savage Opener:
 
 *Prepull No Mercy Instant Burst*
 <br> -3s Potion > -1s No Mercy > **Keen Edge** > Blasting Zone + Bloodfest > **Gnashing Fang** > Rough Divide + Jugular Rip > **Burst Strike** > 2nd oGCD Slot Heart of Light > **Sonic Break** > Bow Shock + Rough Divide + **Savage Claw** > Abdomen Tear > **Wicked Talon** > Eye Gouge > **Brutal Shell** > **Solid Barrel** > **Keen Edge** > **Gnashing Fang** > Jugular Rip > **Savage Claw** > Abdomen Tear > **Wicked Talon** > Eye Gouge...
 
 ![GNB Openers 5.58](https://cdn.discordapp.com/attachments/879783273973309460/879787244028842014/GNBOpenersGraphic558.png)
 
-### Single-Weave Only Opener:
+## Single-Weave Only Opener:
 
 **Lightning Shot** > Bloodfest > **Keen Edge** > No Mercy > **Brutal Shell** > Potion > **Gnashing Fang** > Jugular Rip > **Burst Strike** > Blasting Zone > **Sonic Break** > Bow Shock > **Savage Claw** > Abdomen Tear > **Wicked Talon** > Eye Gouge > **Solid Barrel** > Rough Divide > **Burst Strike** > Rough Divide > **Keen Edge** > **Brutal Shell** > **Solid Barrel** > ...
 
@@ -47,9 +47,9 @@ Blasting Zone + Bow Shock > **Savage Claw** > Abdomen Tear + Bloodfest > **Wicke
 
 - - -
 
-## Rotations and Priorities
+# Rotations and Priorities
 
-### Priority System
+## Priority System
 
 Previous GNB guides have thought of the rotation in terms of a 60s/three minute loop. In practice, the GNB rotation is much less a loop and more of a priority system. GNB is more accurately an “if X is ready, do X, else do Y” class. Therefore, after the opener the rotation priority is as follows (with one caveat, mentioned following the priority list):
 
@@ -64,7 +64,7 @@ Previous GNB guides have thought of the rotation in terms of a 60s/three minute 
 
 Because GNB is more of a priority system than a strict rotation, the rotation is very flexible and can be adjusted to the needs of the encounter and group composition.
 
-### GCD Uptime
+## GCD Uptime
 
 GCD uptime refers to pressing your weapon skills (GCDs) as soon as they are available. If there are spaces between when your GCD is ready and when you press the next one, you will lose a significant amount of damage. As such, we aim to keep our GCDs rolling as much as possible. Please note, this only refers to when an enemy is present. It is possible to achieve a minimum of 96% uptime in every fight. Anything lower than that is almost guaranteed to be caused by not playing correctly. How to increase this number around mechanics that normally seem like they should cause downtime is a fight specific optimization and will vary fight to fight. Even if you are making mistakes, it is almost always better to keep your GCD rolling than to just not do anything. 
 
@@ -80,7 +80,7 @@ Or
 
 How you approach this will largely be personal preference as well as fight specific optimization. Do what gets the best results for you. You should also ask your co-tank if they can handle moving the boss if it makes it easier on you, and doesn’t make it harder on everyone else!
 
-### Combos
+## Combos
 
 GNB has three combos. The **Solid Barrel** combo, **Demon Slaughter** combo, and **Gnashing Fang** combo. 
 
@@ -109,7 +109,7 @@ We will talk about when to use Solid Barrel combo vs Demon Slaughter combo in th
 
 Gnashing Fang combo is our Cartridge spender combo. It does high damage and is a very important part of our burst. Note: Jugular Rip, Abdomen Tear, and Eye Gouge must be used after Gnashing Fang, Savage Claw, and Wicked Talon respectively or the buff that lets them be used will be lost. 
 
-### What Does/Doesn’t Break Combos
+## What Does/Doesn’t Break Combos
 
 Combos are broken when using non-combo GCDs before the combo is finished. However, there are several skills on GNB that do not interrupt combos. 
 
@@ -122,7 +122,7 @@ The following images are a visual representation of the previous paragraph, made
 ![WillXBreak1](/img/jobs/tanks/gunbreaker/Will_X_Break_1.png)
 ![WillXBreak2](/img/jobs/tanks/gunbreaker/Will_X_Break_2.png)
 
-### AoE or Single Target
+## AoE or Single Target
 
 This section will only talk about AoE vs Single Target at level 80. If you are not yet level 80, use the faq command “!faq gnblvl” in #bot_spam for a breakdown of what you should do at each level bracket. 
 
@@ -133,7 +133,7 @@ Continue to use the **Gnashing Fang** combo on cooldown until there are 4+ targe
 
 Use **No Mercy** on cooldown regardless of how many targets you have. Whether or not **Sonic Break** is useful in multi-target fights will depend on how long it will be on the target as well as the number of targets. Whether or not to use it will be a case-by-case basis. At somewhere around 5+ targets, it likely will be a loss to use regardless.
 
-### No Mercy Windows
+## No Mercy Windows
 
 Always try to enter **No Mercy** with two Cartridges ready when possible. At any normal skill speed, there should always be nine GCDs within the **No Mercy** buff. These buff windows should look similar to the opener and should always contain the following skills:
 
@@ -174,17 +174,17 @@ If you are unable to fit nine GCDs in **No Mercy**, make sure that you are press
 
 ![SolidBarrelCombo](/img/jobs/tanks/gunbreaker/Solid_Barrel_Combo.png)
 
-### Bloodfest
+## Bloodfest
 
 **Bloodfest** should not be held for the next **No Mercy** window. Because it has a cooldown of 90s and **No Mercy** has a cooldown of 60s, **Bloodfest** will naturally be inside **No Mercy** every three minutes. As **Bloodfest**’s cooldown is getting close to finishing, spend Cartridges to avoid delaying **Bloodfest** or overcapping on Cartridges. 
 
-### Cartridge Usage
+## Cartridge Usage
 
 Cartridges should generally not be used outside of **No Mercy** unless they are being used for **Gnashing Fang**, if you would otherwise overcap on Cartridges, or fight specific optimizations such as hitting multiple targets with **Fated Circle**. Doing this helps to ensure that **No Mercy** is entered with two Cartridges ready. 
 
 - - -
 
-## Rotation FAQ
+# Rotation FAQ
 
 > *Do I save Bloodfest for No Mercy?*
 

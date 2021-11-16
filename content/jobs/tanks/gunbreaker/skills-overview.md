@@ -9,9 +9,9 @@ changelog:
   - date: 2021-10-25T21:30:58.365Z
     message: Created article
 ---
-## Gunbreaker Skills Overview
+# Gunbreaker Skills Overview
 
-### Offensive On Global Cool Down Abilities
+## Offensive On Global Cool Down Abilities
 
 | | | |
 |---|---|---|
@@ -28,7 +28,7 @@ changelog:
 |![DemonSlaughter](/img/jobs/tanks/gunbreaker/Demon_Slaughter.png)|**Demon Slaughter**|Second skill of our AoE combo. 250 potency to all targets in a 5y circle around you when used after Demon Slice. Generates one Cartridge in the Powder Gauge. |
 |![FatedCircle](/img/jobs/tanks/gunbreaker/Fated_Circle.png)|**Fated Circle**|Consumes one Cartridge. 320 potency to all targets in a 5y circle around you. 
 
-### Offensive Off Global Cooldown Abilities
+## Offensive Off Global Cooldown Abilities
 
 | | | |
 |---|---|---|
@@ -43,7 +43,7 @@ changelog:
 |![NoMercy](/img/jobs/tanks/gunbreaker/No_Mercy.png)|**No Mercy**|20% damage increase for 20 seconds. 60 second cooldown.
 |![Bloodfest](/img/jobs/tanks/gunbreaker/Bloodfest.png)|**Bloodfest**|Immediately gives 2 Cartridges in the Powder Gauge. 90 second cooldown.
 
-### Defensive Off Global Cool Down Abilities
+## Defensive Off Global Cool Down Abilities
 
 | | | |
 |---|---|---|
@@ -55,7 +55,7 @@ changelog:
 |![Rampart](/img/jobs/tanks/gunbreaker/Rampart.png)|**Rampart**|Role action. Reduces damage taken by 20% for 20 seconds. 90 second cooldown.
 |![ArmsLength](/img/jobs/tanks/gunbreaker/Arms_Length.png)|**Arm’s Length**|Role action. Makes you immune to most knockback or draw-in effects for 6 seconds. Applies a 20% slow to enemies that attack you while Arm’s Length is active (This means enemies will attack you 20% slower, very useful for dungeons!). 120s cooldown.
 
-### Utility Off Global Cool Down Abilities
+## Utility Off Global Cool Down Abilities
 
 | | | |
 |---|---|---|

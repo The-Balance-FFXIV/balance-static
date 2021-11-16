@@ -11,11 +11,11 @@ changelog:
 ---
 So, you're (hopefully) comfortable with the fundamentals of Astrologian. Now, it’s time to talk details: quirky mechanics, important interactions, and optimization. We’ll start with the most straightforward topics and work up to the more complicated ones.
 
-## Sect Swapping/Stance Dancing
+# Sect Swapping/Stance Dancing
 
 In dungeons, you can swap to Nocturnal Sect after the last enemy in a pull dies, apply a shield to the tank in preparation for the next pull, and then swap back to Diurnal Sect. This gives you a nice buffer for the tank’s HP while they gather the mobs, giving you more time to DPS or do whatever else before you need to heal the tank.
 
-## Strange Interactions
+# Strange Interactions
 
 1. Earthly Star is technically a pet. It counts as a unique, separate entity from ourselves, but it scales with our stats as a pet would. Somewhere in the spaghetti code, they’ve given Earthly Star its own special modifier to bring it up to ~95% of player potency, unlike the significantly reduced pet scaling observed with actual pets. This doesn’t currently have much pragmatic effect on us, and we hope it stays that way, but it has in the past.
 2. Essential Dignity calculates its heal value based on the missing health of the target at the beginning of the skill, rather than at the end, when the animation completes and the heal is delivered. This can be a good or a bad thing.
@@ -24,7 +24,7 @@ In dungeons, you can swap to Nocturnal Sect after the last enemy in a pull dies,
    * On the flip side, if you press Essential Dignity simultaneously as a tank buster is going through, even though the animation delay causes the heal to land after the tank buster, Essential Dignity will calculate its heal potency based on the HP the tank had before he took the hit, potentially leaving you with a \~500 potency heal instead of an \~800+ potency heal.
 3. Using Play immediately after your first hit that puts you in combat will sometimes not grant you the appropriate seal, because the game has not registered you as being in combat yet, due to some shenanigans with the animation and how quickly the threat table updates.
 
-## How Your Buffs Work Together
+# How Your Buffs Work Together
 
 Cards and Minor Arcana do not stack with themselves or each other, including from different Astrologians. However, Divination does stack with any existing card or Minor Arcana buff, and it stacks multiplicatively. This means that instead of being 6% + 6% = 12% damage buff, it’s actually 1.06 * 1.06 = 12.36% damage buff. This doesn’t seem significant on its own, but the same kind of multiplicative buff interaction is compounding with all other active raid buffs, and everyone is aligning the highest burst damage portions of their rotations with these stacking raid buffs, and it quickly becomes quite significant. This is the basis of coordinated raid burst, and it’s a huge part of what makes Astrologian good instead of okay.
 
@@ -34,7 +34,7 @@ Optimizing your card usage like this can be daunting, and it’s not the most im
 
 Sleeve Draw and Divination align in the opener and at the six minute mark in the fight. In the opener, we use Sleeve Draw to get Seals for Divination quickly so we can have Divination and multiple single target cards out during the opening raid burst. At the six minute burst, it’s essentially the same thing, but less hectic since you should have seals ready for Divination ahead of time. But all the same, you want to be dishing out several cards quickly and overlapping them with Divination and other raid burst as well as you can manage. You may even hold the card from your 5:30 Draw to have an additional card partially overlapping with the six minute burst. In that case, you’d optimally use Draw at 5:30, Play/Minor Arcana your held card around 5:55, Draw again, Play/Minor Arcana that card on someone, activate Divination when it comes up, and then dish out another with Sleeve Draw.
 
-## Divination Timing
+# Divination Timing
 
 Your entire opener revolves around collecting three unique Seals so you can use a max strength Divination at the ideal time. When things go smoothly, it’s possible to use Divination as early as the 3rd GCD, but that’s actually too early in most cases. When you’re still getting used to the opener, it can feel like you’re scrambling to get Divination out fast enough, but you want to make sure you’re not rushing *too* much.
 
@@ -42,7 +42,7 @@ Our standard recommendation is to aim for a 4th GCD Divination (not counting the
 
 However, early is always better than late, because a late Divination in the opener will be late for every subsequent Divination window until the group holds their burst for something or the fight ends. That’s why we tend to stress the importance of getting Divination out quickly.
 
-## Card Optimization
+# Card Optimization
 
 Optimizing the value of your cards is what defines optimization for Astrologian as a whole. Everything up to this point is basically “solved.” The optimal thing is either a known quantity, or it can be easily solved for, given your specific circumstances. It’s just a matter of knowing the correct answer ahead of time and being able to press the buttons to execute it.
 
@@ -52,7 +52,7 @@ Not for Astrologian. Not for cards. This is what high-level optimization is all 
 
 Disclaimer: it's completely unnecessary to worry about this level of optimization unless you're playing in a highly competitive environment (or you're a big nerd like me and you just *like* it). You can still get 99s on FFLogs just following the basic card guidelines and having very good healer fundamentals.
 
-### Target Selection
+## Target Selection
 
 It's no secret that some jobs do more damage than others. Notably, "selfish DPS" that provide no damage buffs usually contribute more raw damage themselves. Assuming equal gear and skill, they would be topping the damage meter, and you might expect them to be the best card target, because they're doing the most DPS.
 
@@ -66,7 +66,7 @@ In general, you prefer to play melee cards, because melee DPS generally have hig
 
 At that point, you're buffing everything they're doing for that 15-second window *and* an extra 15 seconds of their DoTs. Their DoTs contribute almost as much to their overall damage as Ruin III, their primary filler spell, so you're getting a lot of extra value with that snapshot.
 
-### Card Timing
+## Card Timing
 
 While selecting your card target is important, much of that is decided for you based on what cards you draw and what Seals you need. The thing you have direct control over is *when* you card someone, and that's the variable that determines the optimal target in the first place.
 

@@ -22,7 +22,7 @@ In each opener, the first number refers to which GCD Embolden is used at, and th
 5-10 Opener: 
 ![](https://i.imgur.com/2atF6Sn.png)
 
-## What about Swiftcast?
+# What about Swiftcast?
 
 Using Swiftcast in the opener may not always be the correct play due to the effect it has on your GCD alignment by swapping your dualcast and hardcast windows. Depending on the fight, it may lead to poor alignment with mechanics early on in the fight, or in cases of short phasing, loss of oGCD usages due to abilities coming off cooldown in the middle of a hardcast window. We have opted to exclude Swiftcast from general purpose openers, instead leaving the first usage of swift as an encounter specific decision. 
 

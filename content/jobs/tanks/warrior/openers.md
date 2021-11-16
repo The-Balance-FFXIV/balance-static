@@ -5,9 +5,9 @@ authors:
 patch: "5.5"
 lastmod: 2021-10-27T08:12:01.799Z
 ---
-## Warrior Openers and Rotation
+# Warrior Openers and Rotation
 
-### Opener Optimization
+## Opener Optimization
 
 At present, there is only a single worthy opener for Warriors, mainly because we want to get Inner Release on cooldown as soon as possible to maximize its usage, and because we can fit an extra Fell Cleave inside the potion by abusing Inner Release’s +15s Eye extension mechanics.
 
@@ -25,7 +25,7 @@ Defiance and Tomahawk is enough to keep an enmity lead if you are main tanking.
 
 Equilibrium and Provoke can be used during the opener for a flat increase in enmity if you are pulling the boss and will keep Main tanking the boss after the pull. As mentioned earlier, as of patch 5.0, Defiance and Tomahawk provides enough enmity and it is better to use Equilibrium for healing and Provoke for tank swaps.
 
-### Rotation Optimization
+## Rotation Optimization
 
 The basic rotation in a 100% uptime scenario is, generously put, a priority list:
 
@@ -43,6 +43,6 @@ The main goal for your rotation should be to maximize Storm’s Path casts and S
 
 With the combo timer being extended to 15 seconds, combos can carry over Inner Release. This means that after using Heavy Swing or Maim, it is possible to fit five Fell Cleaves before continuing the combo. However, it is easy to drop the combo by using Inner Chaos or an extra Fell Cleave right before or after Inner Release.
 
-### Further Reading
+## Further Reading
 
 For more help regarding Warrior rotations; please check out the Warrior Guide [here](/jobs/tanks/warrior/how-to-fell-cleave-an-angry-wannabe-healer-also-known-as-warrior-5-0-the-guide/)

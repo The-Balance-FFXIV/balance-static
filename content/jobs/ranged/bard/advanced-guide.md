@@ -11,7 +11,7 @@ changelog:
 ---
 > From the full BRD guide, located [here](/jobs/ranged/bard/basic-guide/).
 
-## RS Alignment Choice
+# RS Alignment Choice
 
 ![raging strikes](https://xivapi.com/i/000000/000352_hr1.png)
 
@@ -25,7 +25,7 @@ Aligning RS with the ending of WM is the **hardest and riskiest choice, also req
 
 Late RS also has some less obvious tradeoffs with respect to buff alignment. It potentially makes the four minute alignment worse, especially if you drift your song rotation. However, it makes the three minute alignment better, since three minutes is 20s into the third WM. Also, if you have a NIN, doing second RS late gives you a tight window to snap the second and third Tricks, whereas second RS early means you will probably early snap as the second RS is falling off and miss third Trick.
 
-## Iron Jaws
+# Iron Jaws
 
 ![ij](https://xivapi.com/i/002000/002608_hr1.png)
 
@@ -43,7 +43,7 @@ Deciding whether to snap buffs is a tradeoff between buffing DoTs, which tick fo
 
 As a minor note, the devs seem to like putting 25s+ downtimes in fights. In such cases, if you have an RA proc going into the last GCD before downtime, it’s better to RA and then manually reapply DoTs after downtime. Otherwise, IJ on both ends.
 
-## Procs in WM
+# Procs in WM
 
 ![wm](https://xivapi.com/i/002000/002607_hr1.png)
 ![pp](https://xivapi.com/i/002000/002611_hr1.png)
@@ -54,7 +54,7 @@ Note that because EA should be used on cooldown in every song, the EA timer will
 
 There’s no longer a need to triple weave Barrage EA PP. Avoid that triple weave by delaying EA in general, or delaying Barrage if you’re near the end of the fight (it risks delaying twice and messing up alignment due to the chance of a RA proc).
 
-## Procs in MB
+# Procs in MB
 
 ![mb](https://xivapi.com/i/002000/002602_hr1.png)
 ![bloodletter](https://xivapi.com/i/000000/000361_hr1.png)
@@ -67,7 +67,7 @@ Make sure not to mash BL during the last ~1s of a GCD to avoid clipping. If a BL
 
 Using EA in MB can be tricky if you want to avoid losing procs. Here’s where it can be extremely valuable to know the DoT timer. If it’s early, it’s fine to use BL EA BL triple weaved (this is one of the only acceptable triple weaves). If it’s extremely late, you can mash EA BL fast enough that the DoT tick happens later. If the DoT timer is in the middle of the GCD, it’s acceptable to wait up to three GCDs for the DoT timer to move later. You shouldn’t need to wait more, even two GCDs is almost always enough, and the less you have to wait the better. Don’t wait on the first EA in MB if it would push it past the midpoint (i.e. if you would only get one EA in that MB).
 
-## Song Transitions
+# Song Transitions
 
 ![WM icon](https://xivapi.com/i/002000/002607_hr1.png) 
 ![mb icon](https://xivapi.com/i/002000/002602_hr1.png)
@@ -75,15 +75,15 @@ Using EA in MB can be tricky if you want to avoid losing procs. Here’s where i
 
 Due to the addition of Soul Voice, it’s more important than ever to minimize the amount of songless time, and avoid letting DoT ticks fall in songless time.
 
-### WM to MB transition:
+## WM to MB transition:
 
 If the DoT tick timer is very close (<.5s) to the end of the song, or you use a PP3 less than three seconds before the song ends, you can transition into MB early if it’s available. This is ping dependent, and at low ping it can be easier to make use of the last DoT tick in WM.
 
-### MB to AP transition:
+## MB to AP transition:
 
 Unlike the WM to MB transition, MB procs (BL) can be used after the song ends, so avoid cutting it short if there would be a DoT tick at the very end of MB. Other than that, just try to minimize songless time without clipping.
 
-### AP to WM transition:
+## AP to WM transition:
 
 Weave BS → WM → BS → RS → BS… if you’re doing early RS, or just BS → WM → BS if you’re doing late RS. In either case, do the transition when your MB cooldown is 30s or less, and your AP cooldown is 60s or less. **Wait at least 0.25s between the BS and WM to ensure you get 5 GCDs in Muse. At low skill speed (~2.47 or slower GCD), ideally wait even longer, up to half a second.** This should set up nicely for a PP MB double weave 12 GCDs later on the WM to MB transition, assuming full stacks of Army’s Muse. 
 
@@ -91,7 +91,7 @@ Be careful about double weaving during Army’s Muse.  Depending on your ping, i
 
 To reiterate from above, if you have an EA very close to this transition, save it for after the transition.
 
-## Extending AP
+# Extending AP
 
 ![AP icon](https://xivapi.com/i/002000/002603_hr1.png)
 
@@ -110,7 +110,7 @@ Aside from alignment, there are other unplanned reasons to want to extend AP:
 
 Note that if you planned your song alignment around raid buffs, extending AP could skew it slightly. But if multiple of the above cases are true, especially the first two (those are much bigger), **it can be worth it to sacrifice some alignment.**
 
-## Refulgent Arrow Procs
+# Refulgent Arrow Procs
 
 ![ra](https://xivapi.com/i/002000/002616_hr1.png)
 
@@ -120,7 +120,7 @@ If you have an RA proc as Barrage comes up, delay the Barrage unless it would fa
 
 While manually applying DoTs, if you get a RA proc from CB, save it and use it after SB.
 
-## Apex Arrow
+# Apex Arrow
 
 ![aa](https://xivapi.com/i/002000/002619_hr1.png)
 
@@ -134,7 +134,7 @@ If a multi-target phase is coming up within \~20s and your Apex Arrow hits full,
 
 Some rules of thumb for applying DoTs vs using Apex at the start of a multi-target phase: if you enter a two target phase with 100 gauge, apply DoTs first and then use the Apex Arrow. With ~3-5 targets, apply a single DoT to each and then Apex. On multi-target phases with a large number of targets, Apex Arrow first, then DoTs. Again, this is fight-dependent, and especially dependent on the duration of the phase.
 
-## Fight Mapping
+# Fight Mapping
 
 Mapping a fight involves coming up with song timings and IJ timings to fit downtime, adds phases, and party burst phases. Things to consider:
 

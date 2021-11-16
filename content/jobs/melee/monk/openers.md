@@ -8,10 +8,10 @@ changelog:
   - date: 2021-10-28T03:51:16.591Z
     message: Created page
 ---
-## Standard
+# Standard
 ![](https://imgur.com/vaEhjJQ.jpg)
 
 
 
-## Early Buffing:
+# Early Buffing:
 ![](https://imgur.com/qdHxosA.jpg)

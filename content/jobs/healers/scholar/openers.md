@@ -16,7 +16,7 @@ Dissipation’s alignment in the opener is set up in such a way that we ideally 
 
 The best SCH openers are as follows:
 
-## 4th GCD Chain:
+# 4th GCD Chain:
 
 ![](https://lh5.googleusercontent.com/udb7QMSVrmQbnOp3HmQjqdmtLhrlstcKFFOVZ62F-HR70RiwxA72hWnPH7LWNpVU_M6-A7r-yKJTMbkKqxpe90CeIWSvTGl8dTREUYSstQvKmc-zaKP8DGdIU2-gNXnJLvvVOzKh "4th GCD Chain Opener")
 
@@ -54,7 +54,7 @@ A text version for timings and accessibility:
 
   * Weave Energy Drain
 
-## 3rd GCD Chain:
+# 3rd GCD Chain:
 
 ![](/img/3rdgcdschopen.png "3rd GCD Chain Opener")
 
@@ -100,7 +100,7 @@ Prefer 3rd GCD chain: DNC, MNK, DRG, MCH
 
 No preference: BRD, SMN, BLM, GNB
 
-## No Dissipation Opener
+# No Dissipation Opener
 
 If you are not comfortable using Dissipation, there is an opener that does not use it. This is *absolutely suboptimal*, but can be useful for comfort if you are uncomfortable with your co-healer or an encounter, or are doing first time progression.
 

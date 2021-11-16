@@ -8,9 +8,9 @@ changelog:
   - date: 2021-10-29T02:55:23.237Z
     message: Created page
 ---
-## Dragoon Skills Overview
+# Dragoon Skills Overview
 
-### Global Cooldown Actions (Single Target)
+## Global Cooldown Actions (Single Target)
 
 |Icon|Name|Acronym|Description|
 |---|---|---|---|
@@ -24,14 +24,14 @@ changelog:
 |![Wheeling Thrust](https://xivapi.com/i/002000/002584_hr1.png)|Wheeling Thrust|WT|Blood of the Dragon must be active to use this combo action. Either used as the 4th combo action in the Chaos Thrust combo with 380 potency or as the 5th combo action in the Full Thrust combo with 490 potency (see Lance Mastery). Must be executed from the targets rear for maximum damage. Extends the duration of Blood of the Dragon by 10s.|
 |![Piercing Talon](https://xivapi.com/i/000000/000315_hr1.png)|Piercing Talon|PT|Uncomboed ranged action with 150 potency. Will terminate an active combo if used between combo skills.|
 
-### Global Cooldown Actions (Area of Effect)
+## Global Cooldown Actions (Area of Effect)
 |Icon|Name|Acronym|Description|
 |---|---|---|---|
 |![Doom Spike](https://xivapi.com/i/000000/000306_hr1.png)|Doom Spike|DoS|Basic combo initiator for the AoE combo with 170 potency. Deals damage to all enemies in a rectangular shape.|
 |![Sonic Thrust](https://xivapi.com/i/002000/002586_hr1.png)|Sonic Thrust|SoT|200 potency action that combos off of Doom Spike. Deals damage to all enemies in a rectangular shape and extends the duration of Blood of the Dragon by 10s.|
 |![Coerthan Torment](https://xivapi.com/i/002000/002590_hr1.png)|Coerthan Torment|CoT|230 potency action that combos off of Sonic Thrust. Deals damage to all enemies in a rectangular shape and extends the duration of Blood of the Dragon by 10s.|
 
-### off-Global Cooldown Actions
+## off-Global Cooldown Actions
 |Icon|Name|Acronym|Description|
 |---|---|---|---|
 |![Jump](https://xivapi.com/i/002000/002576_hr1.png)|Jump|-|310 potency action with a 30s cooldown. Jumps to the target and returns to the original position immediately - long animation and movement lock. Allows the execution of Mirage Dive within 15s after using Jump.|
@@ -44,7 +44,7 @@ changelog:
 |![Stardiver](https://xivapi.com/i/002000/002593_hr1.png)|Stardiver|STD or SD|Jumps to the target and deals damage to all enemies in 5y radius around it (600 potency for the first enemy, 30% less for all remaining enemies). Only available once per Life of the Dragon (30s cooldown) - very long animation lock.|
 |![Elusive Jump](https://xivapi.com/i/002000/002577_hr1.png)|Elusive Jump|EJ|Jumps 15y backwards. Used to travel long distances quickly. 30s cooldown.|
 
-### Buffs
+## Buffs
 |Icon|Name|Acronym|Description|
 |---|---|---|---|
 |![Blood of the Dragon](https://xivapi.com/i/002000/002581_hr1.png)|Blood of the Dragon|BotD|Dragoon's primary mechanic. Under normal circumstances, it should never fall off. Increases the potency of High Jump and Spineshatter Dive by 30% and enables the use of Fang and Claw, Wheeling Thrust and Geirskogul. Allows the collection of Dragon Eyes to enter Life of the Dragon.|
@@ -54,7 +54,7 @@ changelog:
 |![Life Surge](https://xivapi.com/i/000000/000304_hr1.png)|Life Surge|LS|Guarantees a Critical Hit on the next Global Cooldown Action within 5s. 45s cooldown. Also works on AoE actions so it should always be paired with Full Thrust or Coerthan Torment. Absorbs 10% of the damage dealt from the buffed action as own HP|
 |![Tincture of Strength](https://xivapi.com/i/020000/020710_hr1.png)|Current Tincture of Strength|Pot|Increases Strength by 10% for 30s. 270s cooldown.|
 
-### Role Actions
+## Role Actions
 |Icon|Name|Acronym|Description|
 |---|---|---|---|
 |![Second Wind](https://xivapi.com/i/000000/000821_hr1.png)|Second Wind|-|Instant self-heal for 500 potency. 120s cooldown.|
@@ -64,7 +64,7 @@ changelog:
 |![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png)|Arm's Length|AL|Grants knockback immunity for 6s (note that some knockbacks cannot be mitigated with this) and inflicts 20% slow for 15s on attackers when struck during this time. 120s cooldown.
 |![True North](https://xivapi.com/i/000000/000830_hr1.png)|True North|TN|Nullifies all positional requirements for 10s. 45s cooldown, can hold 2 charges.|
 
-### Traits
+## Traits
 |Icon|Name|Acronym|Description|
 |---|---|---|---|
 |![Lance Mastery](https://xivapi.com/i/005000/005284_hr1.png)|Lance Mastery|-|Enables the use of Fang and Claw or Wheeling Thrust as a 5th combo action and increases the potency of the 5th combo hit by 110 (380 -> 490).|

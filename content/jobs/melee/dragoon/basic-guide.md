@@ -9,15 +9,15 @@ changelog:
   - date: 2021-10-29T02:49:11.086Z
     message: Created page
 ---
-## Saving The Dragoon
+# Saving The Dragoon
 
-### Overview
+## Overview
 
 Dragoon is a very static **melee dps** Job. You have strict, long combos to execute and timers within those combos that need to be maintained. Unlike other Jobs - especially other melee - which rely upon a priority system for their basic GCD rotation, Dragoon instead has static buttons to press in a specific order with very little variance. **Shadowbringers** brings with it a new reliance on hitting proper positionals to trigger new skills.
 
 - - -  
   
-## The Brains Behind the Operation
+# The Brains Behind the Operation
 
 **Eve Malqir** (Balmung) - the primary writer of this guide and Dragoon Mentor from [The Balance](https://discord.gg/thebalanceffxiv "The Balance Discord")\
 Always open to answering questions! Please don't hesitate to contact me! :)\
@@ -32,13 +32,13 @@ Contact: **Cyane#6811** on Discord | [Youtube](https://www.youtube.com/channel/U
 
 - - -  
   
-## Support the Creator
+# Support the Creator
 
 I wrote a book! If anyone feels particularly generous and wants to support me (Eve), you can find said book for sale on [Amazon](https://www.amazon.com/dp/1702412768).
 
 - - -  
   
-## Resources
+# Resources
 
 * [Gear Comparison Tool](http://bit.ly/DRG-Gear-Accurate)\
   Allows you to fill in your current \[Level 80] gear and melds and figure out roughly which set will perform better.  
@@ -51,11 +51,11 @@ I wrote a book! If anyone feels particularly generous and wants to support me (E
   
 - - -  
   
-## Global Cooldown (GCD) Actions
+# Global Cooldown (GCD) Actions
 
 The bread-and-butter of your rotation, so to speak, these are the buttons you press most frequently. They're broken down into several **combo** chains with various effects and uses.
 
-### The Chaos Thrust Combo
+## The Chaos Thrust Combo
 
 |**True Thrust >** | **Disembowel >** | **Chaos Thrust >** | **Wheeling Thrust >** | **Fang and Claw**|
 |-|-|-|-|-|
@@ -63,7 +63,7 @@ The bread-and-butter of your rotation, so to speak, these are the buttons you pr
 
 This combo has our basic damage buff in **Disembowel** alongside our damage-over-time skill, **Chaos Thrust**. These two effects are essential in dishing out proper amounts of damage.
 
-### The Full Thrust Combo
+## The Full Thrust Combo
 
 |**True Thrust >** | **Vorpal Thrust >** | **Full Thrust >** | **Fang and Claw >** | **Wheeling Thrust**|
 |-|-|-|-|-|
@@ -85,7 +85,7 @@ This action functions as a direct upgrade to **True Thrust** after you’ve succ
 
 Our new and freshly upgraded area-of-effect combo now packs **Coerthan Torment** as a third hit finisher! This is primarily used when dealing with a group of enemies numbering **three or more.**
 
-### Basic Rotation
+## Basic Rotation
 
 |**Raiden Thrust >** | **Disembowel >** | **Chaos Thrust >** | **Wheeling Thrust >** | **Fang and Claw >** | **Raiden Thrust >** | **Vorpal Thrust >** | **Full Thrust >** | **Fang and Claw >**| **Wheeling Thrust**|
 |-|-|-|-|-|-|-|-|-|-|
@@ -101,7 +101,7 @@ Currently not used. You are safe to unmap Piercing Talon from your bar. With us 
 
 - - -  
   
-## Positionals
+# Positionals
 
 Several actions in the kit deal more damage from the **Side** of a boss, and several deal more from the **Rear**. You want to be sure to set up to hit these for extra damage whenever possible.
 
@@ -151,11 +151,11 @@ In other words: You should *always* strive to land *every* positional in any sit
 
 - - -  
   
-## Off-GCD Actions
+# Off-GCD Actions
 
 These actions have individual recast timers, allowing you to so-called “weave” them between your GCDs.
 
-### Dragon Spaghetti
+## Dragon Spaghetti
 
 ![](/img/jobs/drg/blood.png)
 
@@ -185,7 +185,7 @@ We will always use exactly **1 Stardiver** in each sequence.\
 
 <br>
 
-### One Giant Leap for Dragoon Kind
+## One Giant Leap for Dragoon Kind
 | | |
 |-|-|
 |![](https://xivapi.com/i/002000/002576_hr1.png) | ![](https://xivapi.com/i/002000/002591_hr1.png)|
@@ -210,7 +210,7 @@ Stardiver in particular has a **significant** animation lock. When using it, be 
 Elusive Jump does no damage, so it has just one purpose: traveling long distances quickly, either to escape or to get back to the boss.\
 <br>
 
-### Do-more Damage Buttons
+## Do-more Damage Buttons
 
 ![](https://xivapi.com/i/000000/000309_hr1.png)\
 Lance Charge is the strongest buff in your arsenal.\
@@ -228,7 +228,7 @@ Life Surge doesn’t affect the damage-over-time effect of our strongest Weapons
 ![](https://xivapi.com/i/020000/020710_hr1.png)\
 **Potions or Tinctures of Strength** are consumable items that boost your outgoing damage by increasing your base Strength score temporarily. In general, these items are optional. Groups may suggest or ask that you use “**Pots**” when running higher-end content.
 
-### Basic Buff Rotation
+## Basic Buff Rotation
 
 Our buffs fall on timers that function pretty well together in the duration of an encounter. Generally speaking, every **six minutes** our three buffs should automatically re-align. Talking in seconds, our buffs should align like so:
 
@@ -260,11 +260,11 @@ The green spaces guarantee maximum output of your buffs.
 
 - - -  
   
-## Multiple Target Situations
+# Multiple Target Situations
 
 We will be operating under the assumption that the fact that our multi-target combo does not extend Disembowel buff is an oversight. We’re the only melee that doesn’t get that benefit, so it’s likely a mistake. Someday, based Yoshida will notice us and fix it. Maybe.
 
-### Two Targets
+## Two Targets
 
 When up against two targets, you’ll get more gains out of simply spreading your Chaos Thrust damage over time effect to both targets and keeping them both active. This is done by a simple modification to our basic rotation:
 
@@ -274,7 +274,7 @@ When up against two targets, you’ll get more gains out of simply spreading you
 
 When alternating back and forth for an extended period of time, be sure to use your Life Surge on the Fang and Claw hits, here. It becomes your strongest option in these situations, and it’s far better than just never pressing the button.
 
-### Three or More Targets
+## Three or More Targets
 
 | | | |
 |-|-|-|
@@ -282,7 +282,7 @@ When alternating back and forth for an extended period of time, be sure to use y
 
 When dealing with any more than two targets, we want to roll into our Coerthan Torment Combo. You want to keep pressing High Jump, Mirage Dive, and all of the other buttons, especially Dragonfire Dive and Geirskogul, as they also hit multiple targets. Once you get your 2 Dragon Eyes, you can roll into Life and drop Nastrond and Stardiver to unleash destruction on a level where only **Black Mage** can compete. Be sure not to forget to weave Life Surge before the Coerthan Torment hit! The automatic critical hit affects all targets hit.
 
-### Should I use Disembowel?
+## Should I use Disembowel?
 
 The answer to this question is kinda **complicated**. When you decide to use Disembowel during trash pulls, you sacrifice the potency of the above combo for two GCDs to apply a 10% damage buff to the subsequent four combos. The question of whether or not this is a gain is a very valid one.
 
@@ -326,13 +326,13 @@ Because of the nature of this formula, it has an absolute maximum value of **160
 
 - - -  
   
-## The Opener
+# The Opener
 
 I know a lot of you have skipped ahead to this section, since you feel like you have a solid grasp on the fundamentals, and I think that’s great! The primary use of the Opener is to prepare your cooldown alignment for the rest of the encounter. With our new Job design, it’s possible that we’ll actually have fight-specific openers down the stretch, and they’ll all be added here!
 
 These openers have not been too thoroughly tested as of yet, so please take them with a grain of salt, and if you discover anything that flies counter to what we have listed here, please don’t hesitate to ask!
 
-### Standard Opener
+## Standard Opener
 
 The backbone of ten GCDs in sequence will - in general - never be changed, but the two blocks of skills (**Buffs** and **Attacks**) can be shuffled around within their respective slots if necessary to accommodate specific encounter timings.
 
@@ -342,9 +342,9 @@ The default order for the **Attacks** puts Spineshatter Dive as a buffer skill b
 
 - - -  
   
-## Optimization Station
+# Optimization Station
 
-### GCD Rotation
+## GCD Rotation
 
 Disengaging from the target can cause your rotation to get forcibly shifted around. When re-engaging (be it after forced disengages or because you felt like taking a lap around the arena), you always only have two options for what you will lead with. Nothing particularly changes, either way, since your ten-GCD sequence will never actually shift.
 
@@ -364,7 +364,7 @@ That’s honestly all there is to discuss here. This is more of a judgment call,
 
 The only exception to this rule is if you are going to hit an off-GCD action in that period of time after Disembowel wears off. In that case, you absolutely will want the refresh beforehand.
 
-### Action specifics
+## Action specifics
 
 #### 
 | | | | | | | |
@@ -498,7 +498,7 @@ For keyboard/mouse, I recommend  one to three specific ally macros for reliable 
 
 - - -  
   
-## Gearing Up
+# Gearing Up
 
 As things appear to be right now, our stat priority has not changed!
 
@@ -508,7 +508,7 @@ I recommend you use the gear comparison tool in the resources section to actuall
 
 Just meld (with VIs; VIIIs have a 40% removal chance, and you will want to save those for BiS!) and wear highest item level gear, for now!
 
-### Best Sets Available
+## Best Sets Available
 
 | GCD                                                                  | Food           | Critical Hit | Determination | Direct Hit | Skill Speed |
 | -------------------------------------------------------------------- | -------------- | ------------ | ------------- | ---------- | ----------- |
@@ -526,7 +526,7 @@ Below is a graph comparing the total DPS of each of the three above sets over ti
 ![](/img/graph.png) 
 
 
-### How Fast Can We Go?
+## How Fast Can We Go?
 
 Our sweet spot for GCD appears to be somewhere between 2.25 and 2.47.
 

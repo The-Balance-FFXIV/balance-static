@@ -8,7 +8,7 @@ changelog:
   - date: 2021-10-27T17:21:39.738Z
     message: Added
 ---
-### Buffs
+## Buffs
 
 **Iron Will**
 ![](https://xivapi.com/i/002000/002505_hr1.png)
@@ -43,7 +43,7 @@ If used with at least 8,000 MP, provides a 12 second buff:
 * Spells have no cast time (Lv. 78).
 * Enables use of Confiteor, which removes the buff when used (Lv. 80).
 
-### Single Target GCDs
+## Single Target GCDs
 
 **Goring Blade Combo**
 
@@ -98,7 +98,7 @@ AoE around target.
 
 Requires and consumes the Requiescat buff.
 
-### Offensive Abilities (oGCDs)
+## Offensive Abilities (oGCDs)
 
 **Spirits Within**
 ![](https://xivapi.com/i/002000/002503_hr1.png)
@@ -123,7 +123,7 @@ AoE centered on self.
 
 30s charge time.
 
-### Defensive and Utility Abilities
+## Defensive and Utility Abilities
 
 **Rampart**
 ![](https://xivapi.com/i/000000/000801_hr1.png)
@@ -219,7 +219,7 @@ Become immune to most knockback and pull in effects.
 
 Applies a 20% auto-attack and cast time slow for 15s to enemies that attack you (resisted by most bosses).
 
-### AoE GCDs
+## AoE GCDs
 
 **Prominence Combo**
 
@@ -244,9 +244,9 @@ Circle AoE centered on self.
 
 Replaces Holy Spirit at 3+ enemies.
 
-## Other Actions (Infrequently Used)
+# Other Actions (Infrequently Used)
 
-### GCDs
+## GCDs
 
 **Clemency**
 ![](https://xivapi.com/i/002000/002509_hr1.png)
@@ -272,7 +272,7 @@ When used on another target, also heals you for half as much.
 
 6s stun
 
-### oGCDs
+## oGCDs
 
 **Low Blow**
 ![](https://xivapi.com/i/000000/000802_hr1.png)
