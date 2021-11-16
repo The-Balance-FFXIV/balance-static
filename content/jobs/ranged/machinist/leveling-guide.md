@@ -47,6 +47,6 @@ For clarity purposes:
 * Barrel Stabilizer is huge. You can start encounters with 50 heat and get Wildfire on cooldown very early in a fight. It can be used for on demand burst during mob pulls as well for instant burst.
 
 ### Level 70+
-* For anything else going forward you can reference the [main Machinist guide](/jobs/ranged/machinist/basic-mch-stuff/).
+* For anything else going forward you can reference the [main Machinist guide](/jobs/ranged/machinist/basic-guide/).
 
 I hope this helps! If you have any questions, please stop by #mch_questions and ask away!
