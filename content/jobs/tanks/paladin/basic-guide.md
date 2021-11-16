@@ -15,291 +15,7 @@ changelog:
 
 ## Skills and Abilities Overview
 
-### Buffs
-
-**Iron Will**
-![](https://xivapi.com/i/002000/002505_hr1.png)
-
-Toggle | 10s cooldown after toggling on. | No cooldown for toggling off.
-
-Increases enmity generation by 10x (Enmity is also known as aggro, hate, etc.).
-
-Keep this on in dungeons or as the main tank (in content with more than one tank).
-
-**Fight or Flight**
-![](https://xivapi.com/i/000000/000166_hr1.png)
-
-60s cooldown.
-
-+25% physical damage for 25 seconds.
-
-By using Fight or Flight late into the GCD (just before the next GCD), it is possible to fit 11 physical GCDs into the buff window.
-
-**Requiescat**
-![](https://xivapi.com/i/002000/002513_hr1.png)
-
-60s cooldown.
-
-150-550 potency (magical) depending on current MP.
-
-Scales linearly from 150 potency at 0 MP to 550 potency at max MP.
-
-If used with at least 8,000 MP, provides a 12 second buff:
-
-* +50% Magic Damage.
-* Spells have no cast time (Lv. 78).
-* Enables use of Confiteor, which removes the buff when used (Lv. 80).
-
-### Single Target GCDs
-
-**Goring Blade Combo**
-
-|**Fast Blade >** | **Riot Blade >** | **Goring Blade**|
-|-|-|-|
-|![](https://xivapi.com/i/000000/000158_hr1.png) | ![](https://xivapi.com/i/000000/000156_hr1.png) | ![](https://xivapi.com/i/002000/002506_hr1.png)|
-
-200 > 300 > 390 potency + 595 potency DoT over 21 seconds (physical damage).
-
-The DoT portion snapshots buffs and debuffs when Goring Blade is cast.
-
-+1000 MP from Riot Blade
-
-**Royal Authority Combo**
-
-|**Fast Blade >** | **Riot Blade >** | **Royal Authority**|
-|-|-|-|
-|![](https://xivapi.com/i/000000/000158_hr1.png) | ![](https://xivapi.com/i/000000/000156_hr1.png) | ![](https://xivapi.com/i/002000/002507_hr1.png)|
-
-200 > 300 > 550 potency (physical damage)
-
-+3 Sword Oath
-
-+1000 MP from Riot Blade
-
-(Upgrades from Rage of Halone).
-
-**Atonement**
-![](https://xivapi.com/i/002000/002519_hr1.png)
-
-550 potency (physical)
-
-Costs one Sword Oath.
-
-+400 MP
-
-**Holy Spirit**
-![](https://xivapi.com/i/002000/002514_hr1.png)
-
-350 potency (magical) | 1.5s cast time
-
-Costs 2000 MP.
-
-**Confiteor**
-![](https://xivapi.com/i/002000/002518_hr1.png)
-
-800 potency (magical damage).
-
-Costs 2,000 MP.
-
-AoE around target.
-
-Requires and consumes the Requiescat buff.
-
-### Offensive Abilities (oGCDs)
-
-**Spirits Within**
-![](https://xivapi.com/i/002000/002503_hr1.png)
-
-100-370 potency depending on current HP (physical damage). | 30s cooldown.
-
-Scales linearly from 100 potency at 1 HP to 370 potency at max HP.
-
-+500 MP
-
-**Circle of Scorn**
-![](https://xivapi.com/i/000000/000161_hr1.png)
-
-120 potency + 175 potency DoT over 15 seconds (physical damage). | 25s cooldown.
-
-AoE centered on self.
-
-**Intervene**
-![](https://xivapi.com/i/002000/002520_hr1.png)
-
-200 potency (physical damage). | 2 charges.
-
-30s charge time.
-
-### Defensive and Utility Abilities
-
-**Rampart**
-![](https://xivapi.com/i/000000/000801_hr1.png)
-
-20% damage reduction.
-
-20s duration | 90s cooldown
-
-**Sentinel**
-![](https://xivapi.com/i/000000/000151_hr1.png)
-
-30% damage reduction.
-
-15s duration | 120s cooldown
-
-**Sheltron**
-![](https://xivapi.com/i/002000/002510_hr1.png)
-
-Guarantees blocks.
-
-20% damage reduction (at Lv. 80).
-
-6s duration | 6s cooldown
-
-Costs 50 Oath Gauge, which is generated at a rate of 50 per ~23s.
-
-**Passage of Arms**
-![](https://xivapi.com/i/002000/002515_hr1.png)
-
-Channel for up to 18 seconds.
-
-Guarantees blocks.
-
-120s cooldown
-
-Provides 15% damage reduction to party members behind you (lasts at least 5s, [see FAQ](/jobs/tanks/paladin/faq/) for more details).
-
-Cancelled by taking any action (including turning your character).
-
-**Divine Veil**
-![](https://xivapi.com/i/002000/002508_hr1.png)
-
-If you receive a GCD heal from anybody in the next 30s, party members near you get a shield for 10% of your HP
-
-Shield duration: 30s | 90s cooldown
-
-**Reprisal**
-![](https://xivapi.com/i/000000/000806_hr1.png)
-
-10% damage down to nearby enemies
-
-10s duration | 60s cooldown
-
-**Intervention**
-![](https://xivapi.com/i/002000/002512_hr1.png)
-
-10% damage reduction
-
-6s duration | 10s cooldown
-
-If either Rampart or Sentinel are active on you *when you cast Intervention*, damage reduction is increased to 20% or 25% respectively, or 35% if both are active.
-
-**Cover**<br>![](https://xivapi.com/i/002000/002501_hr1.png)
-
-Tether to target party member as long as they are within 10y
-
-12s duration | 120s cooldown
-
-Redirect most damage and knockbacks on the covered target to you (exceptions exist)
-
-Uses your buffs/debuffs (except Hallowed Ground) to calculate damage and ignores the covered target's
-
-**Provoke**
-![](https://xivapi.com/i/000000/000803_hr1.png)
-
-Instantly gives you top enmity on the target with a significant enmity lead (this enmity lead is affected by Iron Will)
-
-**Shirk**
-![](https://xivapi.com/i/000000/000810_hr1.png)
-
-120s cooldown
-
-Takes 25% of your enmity and gives it to target party member.
-
-Affects everything on the enemy list.
-
-**Arm's Length**
-![](https://xivapi.com/i/000000/000822_hr1.png)
-
-6s duration | 120s cooldown
-
-Become immune to most knockback and pull in effects.
-
-Applies a 20% auto-attack and cast time slow for 15s to enemies that attack you (resisted by most bosses).
-
-### AoE GCDs
-
-**Prominence Combo**
-
-|**Total Eclipse >** | **Prominence**|
-|-|-|
-|![](https://xivapi.com/i/002000/002511_hr1.png) | ![](https://xivapi.com/i/002000/002516_hr1.png)|
-
-120 > 220 potency (physical damage).
-
-+500 MP
-
-Circle AoE centered on self.
-
-Replaces single target combos at 3+ enemies.
-
-**Holy Circle**
-![](https://xivapi.com/i/002000/002517_hr1.png)
-
-250 potency (magical damage)
-
-Circle AoE centered on self.
-
-Replaces Holy Spirit at 3+ enemies.
-
-## Other Actions (Infrequently Used)
-
-### GCDs
-
-**Clemency**
-![](https://xivapi.com/i/002000/002509_hr1.png)
-
-1200 potency heal on target.
-
-2000 MP (4,000 before Lv. 64)
-
-When used on another target, also heals you for half as much.
-
-**Shield Lob**
-![](https://xivapi.com/i/000000/000164_hr1.png)
-
-120 potency (physical damage)
-
-* Enmity multiplier 
-* Ranged attack
-
-**Shield Bash**
-![](https://xivapi.com/i/000000/000154_hr1.png)
-
-110 potency (physical damage)
-
-6s stun
-
-### oGCDs
-
-**Low Blow**
-![](https://xivapi.com/i/000000/000802_hr1.png)
-
-25s cooldown | 5s stun
-
-**Interject**
-![](https://xivapi.com/i/000000/000808_hr1.png)
-
-30s cooldown
-
-Interrupts target's action.
-
-Interruptible actions are denoted by red flashing castbars:
-
-Normal castbar:
-![](https://xiv.sleepyshiba.com/pld/assets/cast-normal.png)
-
-Interruptible castbar:
-![](https://xiv.sleepyshiba.com/pld/assets/cast-interrupt.gif)
+Follow [this link](https://www.thebalanceffxiv.com/jobs/tanks/paladin/skills-overview/) to view the Skill and Abilities page of the guide!
 
 - - -
 
@@ -310,9 +26,9 @@ Goals for PLD openers include:
 * Apply Goring Blade early.
 * Get important abilities like Fight or Flight and Requiescat on cooldown early.
 * Use damaging oGCDs inside raid buff and potion windows (which typically come up around the 4th or 5th GCD).
-<br>
-<br>
-![](https://xiv.sleepyshiba.com/pld/assets/rotation-opener.png)
+  <br>
+  <br>
+  ![](https://xiv.sleepyshiba.com/pld/assets/rotation-opener.png)
 
 > Text version: -2s prepull Holy Spirit > Fast Blade + Circle of Scorn + Fight or Flight > Riot Blade > Goring Blade > Fast Blade > Strength Tincture (halfway through GCD) > Riot Blade + Spirits Within + Intervene > Royal Authority + Intervene > Atonement > Atonement > Atonement > Fast Blade > Riot Blade + Circle of Scorn > Goring Blade + Requiescat > Holy Spirit > Holy Spirit > Holy Spirit > Holy Spirit > Confiteor + Spirits Within
 
@@ -341,8 +57,8 @@ Goals for the basic rotation are to:
 * Keep uptime on Goring Blade (apply Goring Blade every eight or nine GCDs).
 * Keep FoF and Req on cooldown as much as possible.
 * Use all stacks of Sword Oath generated by using three Atonements per Royal combo.
-<br>
-<br>
+  <br>
+  <br>
 
 ### The Loop
 
@@ -439,11 +155,12 @@ Co-tank macros assume your co-tank is in party slot two (default party sorting)
 /ac Intervention <2>
 /ac Intervention <2>
 /micon Intervention
-```  
+```
+
 <br>
 <br>
   
-**Mouseover Cover**  
+\*\*Mouseover Cover\*\*  
 
 ```
 /merror off
@@ -461,7 +178,8 @@ Co-tank macros assume your co-tank is in party slot two (default party sorting)
 /ac Cover <mo>
 /ac Cover <mo>
 /micon Cover  
-```  
+```
+
 <br>
 <br>
 
@@ -483,10 +201,11 @@ Co-tank macros assume your co-tank is in party slot two (default party sorting)
 /ac Shirk <2>
 /ac Shirk <2>
 /micon Shirk  
-```  
+```
+
 <br>
 <br>
-**Why are there so many repeated lines?**\
+\*\*Why are there so many repeated lines?\*\*\
 FFXIV macros do not queue, so hitting a macro while in animation lock from another action will cause the macro to not go off. Since macros execute lines sequentially at around one line per frame, repeating the /action lines simulates mashing the ability every frame for ~15 frames and gives the macro a semblance of queuing.
 
 **Mouseover? `<2>`?**\
@@ -509,12 +228,10 @@ Because of stat tiering, the [Tank Gear Calculator](https://bit.ly/TankDPSCalc52
 * Significantly affects all damage dealt.
 * Proportional to item level.
 
-
 **Strength**
 
 * Affects all damage dealt.
 * Proportional to item level.
-
 
 **Critical Hit**
 
@@ -522,31 +239,26 @@ Because of stat tiering, the [Tank Gear Calculator](https://bit.ly/TankDPSCalc52
 * Often naturally capped on BiS gear pieces.
 * Priority meld on all gear (unless that gear piece would overcap, i.e. the number turns red when melding).
 
-
 **Skill Speed**
 
 * Reduces weaponskill recast time.
 * Meld only to reach preferred GCD speed (commonly anywhere from 2.40-2.43s).
 * See [precise skill speed tiers](https://www.akhmorning.com/allagan-studies/stats/speed/), courtesy of the folks over at Allagan Studies.
 
-
 **Direct Hit**
 
 * Affects only direct hit chance.
 * Meld remaining slots (filler stat).
-
 
 **Determination**
 
 * Increases damage dealt and healing done.
 * Sometimes used in one slot due to stat tiering.
 
-
 **Tenacity**
 
 * Increases damage dealt, healing done, and reduces damage taken.
 * Rarely melded due to weak scaling and minimal impact of mitigation.
-
 
 **Lowest Priority**
 
