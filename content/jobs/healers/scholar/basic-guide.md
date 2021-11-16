@@ -142,7 +142,7 @@ You do not have to weave this, you can use it during your GCDs at no loss. Remem
 
 > **DO NOT MACRO FAIRY SKILLS TO YOUR GCDs.**
 
-I may seem like a good idea, but absolutely abysmal in practice. Macros can not be queued. This means that there is a delay between macro’d GCDs that costs you a significant amount of DPS. Macros are extremely clunky in this game. There are a few that can be useful, such as mouseover macros for Deployment Tactics, but in practice everything can be executed just as well, if not better, without macros.
+It may seem like a good idea, but absolutely abysmal in practice. Macros can not be queued. This means that there is a delay between macro’d GCDs that costs you a significant amount of DPS. Macros are extremely clunky in this game. There are a few that can be useful, such as mouseover macros for Deployment Tactics, but in practice everything can be executed just as well, if not better, without macros.
 
 ## Problems With The Fairy
 
