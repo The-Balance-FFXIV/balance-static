@@ -34,7 +34,6 @@ menu:
 
 ## Frontend
 
-* Udra
 * Moth
 
 ## Screenshot Credits
