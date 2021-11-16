@@ -61,6 +61,6 @@ Freeze > Thunder IV > F3 > Flare > Flare > Transpose > Repeat
 
 Freeze > T4 > F3 > Flare > Flare > Repeat
 
-Same as level 80. See [the AoE section of the main guide](/jobs/casters/black-mage/5-x-blm-guide/#aoe) for a better explanation.
+Same as level 80. See [the AoE section of the main guide](/jobs/casters/black-mage/basic-guide/#aoe) for a better explanation.
 
 For all AoE, use Thundercloud procs on T2 and T4 as you get them. Swiftcast and Triplecast your Flares and use Manafont for an extra Flare. Foul after Transpose or Freeze.
