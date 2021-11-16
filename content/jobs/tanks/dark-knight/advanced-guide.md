@@ -3,8 +3,8 @@ title: Dark Knight Advanced Guide
 card_header_image: /img/jobs/drk/advanced.png
 authors:
   - Balance-DRK-Staff
-patch: "5.5"
-lastmod: 2021-10-27T17:40:57.000Z
+patch: "5.05"
+lastmod: 2019-11-09T18:40:57.000Z
 changelog:
   - date: 2021-10-27T17:41:19.300Z
     message: Added
