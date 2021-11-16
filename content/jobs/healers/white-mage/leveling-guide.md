@@ -384,7 +384,7 @@ With the addition of Afflatus Solace to your toolkit, White Mage becomes an even
 At this level, and frankly for all levels, your rotation rarely changes outside of Stone spam, keeping Aero up, and casting certain spells on cooldown, including: 
 
 * Every 45 seconds, cast Assize.
-* Every 15 seconds, cast Divine Benison (or wait until a Tank buster as long as you don’t lose a use of the spell).
+* Every 30 seconds, cast Divine Benison (or wait until a Tank buster as long as you don’t lose a use of the spell).
 * Every 15 - 18 seconds, reapply Aero II.
 * Otherwise cast Stone III/Stone IV.
 
