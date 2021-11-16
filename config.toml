@@ -1,4 +1,4 @@
-baseURL = "https://thebalanceffxiv.com/"
+baseURL = "https://www.thebalanceffxiv.com/"
 languageCode = "en-us"
 title = "Balance Guides"
 theme = "glam"
