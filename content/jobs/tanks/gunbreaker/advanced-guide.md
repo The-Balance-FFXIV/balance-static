@@ -2,7 +2,7 @@
 title: Gunbreaker Advanced Guide
 card_header_image: /img/jobs/gnb/advanced.png
 authors:
-  - Balance-GNB-Staff
+  - ToraelValdis
 patch: "5.58"
 lastmod: 2021-10-25T21:43:01.100Z
 changelog:
