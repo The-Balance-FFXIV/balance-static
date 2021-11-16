@@ -81,9 +81,7 @@ New action: Bloodspiller. While you unlocked your AoE mana spender before the si
 
 * SE Combo on one or two targets.
 * Unleash on 3+ targets.
-
- Edge on one target.
-
+* Edge on one target.
 * Flood on two or more targets.
 * Bloodspiller on 1-3 targets.
 
