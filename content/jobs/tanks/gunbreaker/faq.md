@@ -27,5 +27,5 @@ qna:
       guide](jobs/tanks/gunbreaker/basic-guide/#priority-system).\r"
   - question: Do I hold Bloodfest for No Mercy?
     answer: See the [Bloodfest part of the main GNB
-      guide](/jobs/tanks/gunbreaker/gunbreaker/#bloodfest).
+      guide](/jobs/tanks/gunbreaker/basic-guide/#bloodfest).
 ---
