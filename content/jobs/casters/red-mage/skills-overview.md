@@ -8,11 +8,11 @@ changelog:
   - date: 2021-10-26T01:26:01.468Z
     message: Created page
 ---
-## Red Mage Skill Overview
+# Red Mage Skill Overview
 
 #### All skills are listed with their level 80 effects and potencies.
 
-### Offensive On Global Cool Down Abilities
+## Offensive On Global Cool Down Abilities
 
 |                                                                      |                            |                                                                                                                                                                                                                                                                                                                                                        |
 | -------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -40,7 +40,7 @@ changelog:
 | ![Vercure](https://xivapi.com/i/003000/003216_hr1.png)               | **Vercure**                | A 350 potency **healing** Spell with a cast time of two seconds.                                                                                                                                                                                                                                                                                       |
 | ![Verraise](https://xivapi.com/i/003000/003221_hr1.png)              | **Verraise**               | A Spell with a cast time of ten seconds that resurrects the target to a weakened state.                                                                                                                                                                                                                                                                |
 
-### Offensive Off Global Cooldown Abilities
+## Offensive Off Global Cooldown Abilities
 
 |                                                             |                   |                                                                                                                                                                                                                                            |
 | ----------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -54,7 +54,7 @@ changelog:
 | ![Acceleration](https://xivapi.com/i/003000/003214_hr1.png) | **Acceleration**  | An ability with a cooldown of 55 seconds that ensures the next three uses of Verthunder, Verflare, Veraero and Verholy will grant the respective **Verfire Ready** or **Verstone Ready** effects.                                          |
 | ![Swiftcast](https://xivapi.com/i/000000/000866_hr1.png)    | **Swiftcast**     | A role action with a cooldown of 60 seconds that makes the cast of the next spell instant.                                                                                                                                                 |
 
-### Utility Off Global Cool Down Abilities
+## Utility Off Global Cool Down Abilities
 
 |                                                              |                    |                                                                                                                                                       |
 | ------------------------------------------------------------ | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |

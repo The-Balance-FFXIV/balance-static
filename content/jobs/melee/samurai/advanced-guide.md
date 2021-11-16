@@ -9,9 +9,9 @@ changelog:
   - date: 2021-10-28T03:28:48.087Z
     message: Created page
 ---
-## The Shadowbringers Samurai Compendium
+# The Shadowbringers Samurai Compendium
 
-### An Exploration of 5.0 Samurai Mechanics
+## An Exploration of 5.0 Samurai Mechanics
 
 #### By Jahaudant @ The Balance & DPS Tools Discords
 
@@ -19,7 +19,7 @@ changelog:
 
 - - -
 
-## Introduction
+# Introduction
 
 Final Fantasy XIV Version 5.0: Shadowbringers has arrived, and with it a plethora of job and balance changes for Samurai -- many of which have significant implications on how we should be playing the job optimally.
 
@@ -29,13 +29,13 @@ It is also important to note that I am not the end-all-be-all of how Samurai sho
 
 - - -
 
-## The 5.0 Samurai Rotation Changes
+# The 5.0 Samurai Rotation Changes
 
 Coming fresh from version 4.0, you may be used to the free flowing nature of Samurai play. Our abilities didn’t naturally line up very well at all. With Hagakure at 40 seconds, Higanbana at 60 seconds, Meikyo at 80 seconds, and Guren at 120 seconds and on top of that Hagakure and Higanbana having a GCD based pre-requisite the 4.0 Samurai play style was a pure priority system with extended perfect alignment being almost impossible to attain without Higanbana clipping or creative Hagakure usage. And, unlike Warrior, Dragoon, and other classes, Samurai was mostly unconstrained by GCD tier requirements to meet certain rotational thresholds or breakpoints.
 
 In 5.0, this has changed.
 
-### Tsubame Gaeshi is Restrictive and Inflexible
+## Tsubame Gaeshi is Restrictive and Inflexible
 
 Our new big hitter, Tsubame Gaeshi (or Kaeshi: Setsugekka in 99.9% of situations) is a 60 second cooldown and is only usable immediately after an Iaijutsu (Midare). This makes the ability quite difficult to actually use exactly on cooldown - even more so than Meikyo which, in the previous expansion, would often force us to incur one to two GCD drift for each use.
 
@@ -45,11 +45,11 @@ Even with Meikyo helping us with quick Sen generation, you may find you are ofte
 
 So the question is; is there anything we can do about this? 
 
-### The Crumbs: Normalized Cooldown Times
+## The Crumbs: Normalized Cooldown Times
 
 As noted in the previous section, our small repertoire of abilities have had their cooldowns adjusted. Meikyo Shisui has been reduced from 80 seconds to 55 seconds. Ikishoten is on a 60 second cooldown. And our new ability, Tsubame: Gaeshi, is also on a 60 second cooldown. Combined with the fact that Senei/Guren remain at 120 seconds, I’m sure you can notice the pattern; Samurai now works almost entirely on a 60 second cooldown cycle. 
 
-### The Solution: A Rotation Loop
+## The Solution: A Rotation Loop
 
 In order to minimize personal ability cooldown drift and maintain perfect alignment with raid buffs on intervals of 60/120/180 seconds it is important that our rotation allows us to use our two least flexible abilities - Meikyo Shisui and Tsubame: Gaeshi - as soon as they are available. Since Tsubame is on a 60 second cooldown we need to target a specific GCD tier to achieve a clean GCD cycle that comes as close to 60 seconds in length as possible.
 
@@ -83,9 +83,9 @@ The sequence of 28 GCDs can be repeated infinitely and, as described above, will
 
 - - -
 
-## Optimizing Potency
+# Optimizing Potency
 
-### Maximizing Yukikaze Combo Usage
+## Maximizing Yukikaze Combo Usage
 
 Yukikaze Combo, when examined in a vacuum, is slightly weaker than Gekko or Kasha. However, when considering the value of the Sen it produces (in two GCDs rather than three) it overtakes Gekko/Kasha in efficiency. (There are some technicalities due to part of the additional Sen value requiring a GCD, but we can ignore that for now.)
 
@@ -111,15 +111,15 @@ How do we fix this? Fillers…
 
 - - -
 
-## Maintaining GCD Count
+# Maintaining GCD Count
 
-### Filler GCDs
+## Filler GCDs
 
 We can’t just go reducing the number of GCDs we use, and that’s exactly what we are doing when we switch the three GCD Gekko combo with the two GCD Yukikaze combo where possible. We need to maintain the same number of GCDs used per 60 seconds in order not to incur cooldown drift. Does that then make this Yukikaze optimization tech kind of worthless? Not quite.
 
 In short, it is theoretically optimal to do Yukikaze optimization techs mentioned above and then replace the “removed” GCD with a filler GCD.
 
-### Hagakure
+## Hagakure
 
 At ten Kenki per Sen, Hagakure is not worth using the same way as we did in 4.0 and with a five second cooldown even if we tried to do so we would never be able to use any Iaijutsu! Hagakure does have it’s uses, though. Namely:
 
@@ -130,7 +130,7 @@ And one more use, which is very pertinent to what we are going to cover in the f
 
 3. Eating filler combo Sens for bonus Kenki.
 
-### Enpi as a Filler
+## Enpi as a Filler
 
 The first and most obvious filler that comes to mind is Enpi. Simply put, after implementing a single Meikyo Optimisation we then use Yaten -> Enpi somewhere in our cooldown phase.
 
@@ -155,7 +155,7 @@ Cons
 
 **Total gained per optimization: 36 Potency**
 
-### Yukikaze as a Filler
+## Yukikaze as a Filler
 
 Pros
 
@@ -182,7 +182,7 @@ That means in base 28 GCD cycle at 2.15 GCD we can implement two Yukikaze Optimi
 
 **Gained per optimisation: 88 Potency**
 
-### Gekko/Kasha as a Filler
+## Gekko/Kasha as a Filler
 
 Pros
 
@@ -210,25 +210,25 @@ Gekko filler wins!
 
 - - -
 
-## Downtime
+# Downtime
 
 Downtime is more difficult to deal with in 5.0 and has the potential to cause issues with or completely break our looping rotation.
 
 For example, if a boss mechanic means we can’t hit it for four seconds then when Tsubame becomes available to use again, we are going to be roughly two GCDs behind. There are three different ways of dealing with short downtimes like this.
 
-### Option 1:
+## Option 1:
 
 We don’t immediately use Meikyo/Bana/Tsubame when they become available, and instead use them at the normal point in our rotation. 
 
 This is the easiest solution. You can just blindly continue your usual rotation at the cost of incurring a four second drift on your cooldowns (and Higanbana). This may put all of or a portion of your burst outside of any consistent buff windows.
 
-### Option 2:
+## Option 2:
 
 We Meikyo on cooldown, but at a different Sen, break our current loop and revert to an ad hoc rotation style for the remainder of the phase or fight.
 
 This is probably the most natural feeling solution coming from playing SAM in 4.0 and it’s not a bad option to go with. You’ll be Meikyo’ing (and hopefully also Tsubame’ing) at roughly the same time as your buff window comes up but you’ll have to be quick on your feet to either figure out a new loop or ad-hoc your way through the remainder of the phase/fight.
 
-### Option 3:
+## Option 3:
 
 Drop your filler GCDs for that cycle.
 
@@ -238,9 +238,9 @@ Fun fact: By entering Meikyo with a Yuki Sen, ending Meikyo with a Gekko/Kasha, 
 
 - - -
 
-## Ad Hoc / Freestyle Samurai
+# Ad Hoc / Freestyle Samurai
 
-### The Effectiveness of Ad Hoc Style
+## The Effectiveness of Ad Hoc Style
 
 The goal of ad hoc play is to reduce or remove the need for “wasted” GCDs by shifting around Meikyo placement ad hoc (as required). That means attempting to perform a rotation with fewer “wasted” GCDs than the loop allows for.
 
@@ -263,19 +263,19 @@ With the possible variation in ad hoc rotations, I have only done limited simula
 * Faster than 2.00 and you will almost certainly be better off freestyling it. The required number of fillers to loop at this speed is a considerable potency loss.
 * Looping becomes impossible in very mechanic-heavy encounters where you are unable to maintain full uptime for at least a minute at a time.
 
-### Why This Compendium Won’t Cover it in Depth
+## Why This Compendium Won’t Cover it in Depth
 
 Ad hoc follows the basic Samurai priority system instilled in you either from 4.0 or through the levelling experience. Perform your opener, then do your best to maintain buffs, apply Higanbana with as little clip or downtime as possible, don’t let Meikyo and Tsubame drift, and be potency-effective by following the same rules regarding Yukikaze and Meikyo as I’ve laid out in the previous sections. Simple enough in theory and especially more so now in 5.0 , where we don’t have a positive potency Hagakure to implement. High level optimization with this play style is almost entirely encounter dependent and so is not suited to this guide, which is intended to be universal.
 
 - - -
 
-## Openers and Rotations
+# Openers and Rotations
 
-### Cheat Sheet
+## Cheat Sheet
 
 ![Cheat Sheet](https://i.imgur.com/N52Dliz.png)
 
-### Videos
+## Videos
 
 Valynn#9029 has recorded the two main rotations for those of you who prefer videos as learning tools.
 
@@ -285,7 +285,7 @@ Valynn#9029 has recorded the two main rotations for those of you who prefer vide
 
 - - -
 
-## Constructing a Looping Rotation - Reference
+# Constructing a Looping Rotation - Reference
 
 **Viable GCD/SKS tiers (with Shifu) for Looping:**
 
@@ -307,9 +307,9 @@ Avoid using Yaten-Enpi as filler unless necessary for boss mechanics or when onl
 
 - - -
 
-## General Q & A
+# General Q & A
 
-### Is Kaeshi: Higanbana Worth Using?
+## Is Kaeshi: Higanbana Worth Using?
 
 **Short Answer: No. Never.**
 

@@ -100,7 +100,7 @@ qna:
 ---
 # White Mage FAQ
 
-## How should movement and weaving be handled?
+# How should movement and weaving be handled?
 
 White Mage (WHM) is one of the least mobile jobs in the game, and so planning movement is critical to success. Below is a list of available options; keep in mind that it’s heavily subjective based on the encounter and your party.
 
@@ -115,16 +115,16 @@ Extended movements involve a combination of these roughly in order of priority, 
 
 Useful healing in this context means healing that cannot be covered by you or another healer’s OGCDs.
 
-## Afflatus FAQ
+# Afflatus FAQ
 
-### Should Afflatus Misery be used every 90s?
+## Should Afflatus Misery be used every 90s?
 
 No. Building Blood Lily stacks and using Afflatus Misery is a loss over rolling Glare casts.
 
 Glare > Glare > Glare > Glare = 4 GCDs for 1200p\
 Rapture > Rapture > Rapture > Misery = 4 GCDs for 900p
 
-### When should Afflatus heals be used?
+## When should Afflatus heals be used?
 
 For a simple and easy-to-remember rule of thumb for Lilies, try to get it to do two of the following three things:
 
@@ -135,7 +135,7 @@ For a simple and easy-to-remember rule of thumb for Lilies, try to get it to do 
 
 Which doesn’t mean “don’t use Lilies if you don’t meet two of these” (especially if one is the heal!) - but do try to. What will actually be optimal in any given moment will likely come down to encounter specific rotations anyways. **It is perfectly fine to sit on three Lilies if you haven’t needed them for one of the above reasons**.
 
-### Afflatus as a mechanic is an all-or-nothing thing!
+## Afflatus as a mechanic is an all-or-nothing thing!
 
 The DPS benefits of Afflatus heals go down the drain if you never get the Misery off. If you don’t use the Misery, All Afflatus casts become just like standard GCD heals.
 
@@ -146,6 +146,6 @@ However, you can and should sit on Misery for any of the following uses as the f
 * Raid buff alignment windows for extra damage return
 * You want to use an Afflatus heal and will get off another Misery over the course of a fight.
 
-### Should Afflatus heals be prioritized over other healing spells?
+## Should Afflatus heals be prioritized over other healing spells?
 
 Reach for Afflatus heals before other GCD heals like Cure II and Cure III. Afflatus heals vs. oGCD heals will depend on how much healing potency you need, and if you’re going to clip to apply them.

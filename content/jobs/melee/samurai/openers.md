@@ -8,9 +8,9 @@ changelog:
   - date: 2021-10-28T03:26:44.525Z
     message: Created page
 ---
-## Samurai Standard Openers:
+# Samurai Standard Openers:
 
-### Higanbana First:
+## Higanbana First:
 
 [Standard](https://i.imgur.com/rvTk9w5.png)\
 [Single Weave](https://i.imgur.com/YdosGFd.png)\
@@ -18,7 +18,7 @@ changelog:
 
 Your standard opener which, due to the earlier DoT application, is ahead in output for the majority of any given encounter.
 
-### Midare First:
+## Midare First:
 
 [Standard](https://i.imgur.com/P8JnddQ.png)\
 [Single Weave](https://i.imgur.com/UwWTPLy.png)\
@@ -30,9 +30,9 @@ Should be reserved for encounters with a phase or kill time such that you are ab
 
 - - -
 
-## Samurai Non-Standard Openers:
+# Samurai Non-Standard Openers:
 
-### Alternative Higanbana First:
+## Alternative Higanbana First:
 
 [Standard](https://i.imgur.com/Zy4X11C.png)\
 [Single Weave](https://i.imgur.com/s14QrOA.png)\
@@ -40,7 +40,7 @@ Should be reserved for encounters with a phase or kill time such that you are ab
 
 Alt. Higanbana first presents a real loop in which your burst phase plays exactly like your opener. It utilizes non-Yuki Meikyo, thus delaying the start of your burst by one GCD compared to the standard Higanbana first opener and is useful for encounters with awkward timing on mechanics with standard openers.
 
-### Alternative Midare First:
+## Alternative Midare First:
 
 [Standard](https://i.imgur.com/l42tiPv.png)\
 [Single Weave](https://i.imgur.com/EhsSgGP.png)\
@@ -48,7 +48,7 @@ Alt. Higanbana first presents a real loop in which your burst phase plays exactl
 
 Alt. Midare first presents a real loop in which your burst phase plays exactly like your opener. It utilizes non-Yuki Meikyo, thus delaying the start of your burst by one CD compared to the standard Midare first opener and is useful for encounters with awkward timing on mechanics with standard openers. Should be reserved for encounters with a phase or kill time such that you are able to land an additional Midare/Tsubame where Alt. Higanbana first would not.
 
-### NoShifu/Cursed:
+## NoShifu/Cursed:
 
 [Standard](https://i.imgur.com/265RkOl.png)\
 [Video Example](https://youtu.be/ylPCw6h6PXE)  

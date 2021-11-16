@@ -8,7 +8,7 @@ changelog:
   - date: 2021-11-15T02:42:11.541Z
     message: Article Created.
 ---
-## Openers
+# Openers
 
 Openers should put abilities on cooldown, fit strong spells within buff windows, and minimize clipping. All openers assume there is a pull countdown and the boss is pulled at 0. If your group pulls earlier, adjust them as necessary. Use the highest tier Tincture / Infusion / Potion of Intelligence available.
 
@@ -20,7 +20,7 @@ With all openers being very close in estimated output over the course of the ent
 
 </div>
 
-### JP Opener
+## JP Opener
 
 <iframe width="1000" height=560"" src="https://www.youtube.com/embed/u6HBt-b7yrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -30,7 +30,7 @@ With all openers being very close in estimated output over the course of the ent
 
 This is a reliable opener for especially high spellspeed sets, because it does not rely on having a polyglot stack available in time for Xeno for filler at the end that other openers utilize. However, in order to ensure that the Thundercloud proc will last long enough to use instead, 3600+ SpS is required. Below this threshold, the Thundercloud proc can fall off losing you a chunk of damage.
 
-### Modified JP Opener
+## Modified JP Opener
 
 {{< youtube uLLVuOGWlXY >}}
 
@@ -40,7 +40,7 @@ This is a reliable opener for especially high spellspeed sets, because it does n
 
 This is an extension of the JP Opener which utilizes pre-pull LL use to lower the spellspeed requirement while still taking advantage of not having Xeno available in time for UI filler that you need for other openers. While technically possible around the 1929 SpS tier this variant is mostly recommended as an option for the 2500-3600 SpS range.
 
-### No B4 Opener
+## No B4 Opener
 
 {{< youtube WnUV4DNW35M >}}
 
@@ -68,7 +68,7 @@ Two ticks:
 
 With two MP ticks you have enough MP to do a standard AF cycle.
 
-### Double Sharp Opener
+## Double Sharp Opener
 
 {{< youtube ZECevqeprik >}}
 
@@ -78,7 +78,7 @@ With two MP ticks you have enough MP to do a standard AF cycle.
 
 Good general purpose opener to fall back on, if other openers are not as viable, for whatever reason. The opener is long enough that there is no issue with Xeno being available in UI in time.
 
-### Variations
+## Variations
 
 The openers above aren’t absolute. Alter them to fit fight requirements. Add Swift after an instant to cover an extra F4 / Despair or hold for fight mechanics. 
 

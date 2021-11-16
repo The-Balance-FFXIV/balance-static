@@ -9,15 +9,15 @@ changelog:
   - date: 2021-10-27T17:22:16.067Z
     message: Added
 ---
-## Paladin Leveling in Dungeons
-## Keeping Aggro
+# Paladin Leveling in Dungeons
+# Keeping Aggro
 
 
 
 Turn on Iron Will and never turn it off. As long as you keep hitting the mobs, you will have aggro on them. In multi-target situations, use AoE so that you can keep aggro on all mobs.
 
 
-## Pulling Mobs
+# Pulling Mobs
 
 
 
@@ -32,7 +32,7 @@ There are a variety of ways to ensure you pull all of the mobs in a pack quickly
 
 
 
-## Mitigation
+# Mitigation
 
 
 
@@ -46,28 +46,28 @@ Hallowed Ground is your most powerful dungeon cooldown and should be used proact
 
 ---
 
-## Rotation
+# Rotation
 
 
 
 With Holy Circle unlocked, open trash pulls with Requiescat into Holy Circles + Confiteor, then spam Prominence combo under Fight or Flight and until the next Requiescat. On bosses, follow a normal single target rotation.
 
 
-### Before Lv. 78:
+## Before Lv. 78:
 
 
 
 Weave Requiescat late into the GCD to ensure it catches the end of your fifth Holy Spirit or Holy Circle, due to the cast time.
 
 
-### Before Atonement is unlocked:
+## Before Atonement is unlocked:
 
 
 
 Replace Atonements in the single target loop with a Royal Authority combo.
 
 
-### Once Goring Blade is unlocked but before Royal Authority is unlocked:
+## Once Goring Blade is unlocked but before Royal Authority is unlocked:
 
 
 

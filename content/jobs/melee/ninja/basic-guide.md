@@ -10,23 +10,23 @@ changelog:
   - date: 2021-10-29T03:08:27.069Z
     message: Created page
 ---
-## Introduction to Ninja
+# Introduction to Ninja
 
 Hello, and welcome to my guide on Final Fantasy XIV’s melee DPS job, Ninja, current for patch 5.55. This guide will aim to help you learn the job at a beginner level, as well as give you the tools and information needed to push the job to its limits in terms of damage and utility, and in turn bring the most to a raid group or dungeon group that you can.
 
 A little about me before we begin. I have been maining Ninja since just before patch 3.2. I started getting into speedruns on Ninja during the Creator Savage tier for Alexander during patch 3.4. Ever since then, I have been part of multiple different groups, both for speed killing and for world progression. I have gotten multiple rank one parses and speed kills with this job throughout the different tiers and have killed all the Ultimates within the patch that they were introduced in. I have also helped theorycraft and construct the rotations and openers for Stormblood Ninja, pre-5.1 Shadowbringers Ninja, and also the current post-5.1 Shadowbringers Ninja.
 
-## What is Ninja?
+# What is Ninja?
 
 Ninja is one of four melee DPS in FFXIV. It is focused around super high burst windows once per minute, with very little in-between these burst windows. As a matter of fact, about 40% of our damage is inside this 15 second burst window. We have a very flexible rotation outside of this window, mostly built around preparing for the next burst window. We are also one of the jobs with the biggest reliance on our team because of our high raid damage buff. Our burst AoE damage is one of the best in the game as well, though we tend to fall off quickly if the AoE portion starts getting extended past our cooldowns. We are also the most mobile of the melees. For a long time we were a guaranteed pick for any high end speedkill or progression setting, though nowadays our speedkill value has been diminished a bit, but we are still brought when fights and/or compositions favor us. We are still one of the best choices for a melee job for progression because of our high flexibility in both movement and rotation, as well as a pretty simple rotation and easy optimizations.
 
-## Rotation
+# Rotation
 
 (This is only about the basics. I will talk about the niche scenarios and how to optimize the rotation later in another section.)
 
 The single biggest thing is that you always want to make sure you are using your GCDs. Your oGCDs can be used in-between your GCDs so you want to make sure that your GCDs are being used as soon as possible, since they are limited in when they can be used, whereas oGCDs aren't. This concept is the base foundation of pretty much all rotations in this game, barring very certain scenarios that are all high-end optimization. 
 
-### Base Combo
+## Base Combo
 
 At the base level, our rotation is really simple. Our first priority is making sure we always have Huton up and running. This means that at any point while Huton has less than 40 seconds left, we need to make sure we use Armor Crush to make sure it doesn't fall to zero, because this would require us to use one of our Mudra charges to cast Huton instead of a different ninjutsu, which is automatically 800+ potency lost. 
 
@@ -35,23 +35,23 @@ While learning and before you get really comfortable, I would recommend playing 
 1. Keep up Huton, which means use Armor Crush at some point after Huton falls below 40 seconds but before it falls below one second.
 2. Aeolian Edge. 
 
-### Ninki Usage
+## Ninki Usage
 
 Ninki usage is very simple. Since all of the Ninki abilities can only be used at 50 Ninki gauge, they are direct comparisons. Assuming you are only going for single target damage, Bunshin will do 1000 potency, Bhavacakra will do 300 potency, and Hellfrog Medium will do 200 potency. By far, Bunshin is your strongest one, so you always want to use that one on cooldown, even if it puts it out of raid buffs. Then, when you get to have enough Ninki for another use of a Ninki ability, you have to decide between Bhavacakra and Hellfrog Medium. Luckily, it's as simple as if you’re hitting one target only, do Bhavacakra. If you are hitting two or more targets, hit Hellfrog Medium. You generally want to save your Bhavacakras and such to be inside Trick attack buff, but you gain too much Ninki to only do that, so sometimes your Ninki abilities will be outside of Trick Attack, but save it when you can. 
 
-### Ninjutsu Usage
+## Ninjutsu Usage
 
 In a straight dummy fight, ninjutsu is really easy to use. In almost every case, the way to use it is to use Suiton within 20 seconds of Trick Attack coming off cooldown, and then using your other two Mudra charges that you get in-between your Trick Attack coming off cooldown, inside Trick Attack as Raitons. The reason for this is that your Raiton is 800 potency, the highest single damage skill you have outside of Hyosho Ranryu and Shadow Fang, both of which also have a 60 second cooldown like Trick Attack, so they are automatically lined up anyways. And the Hyosho Ranryu from your Kassatsu is also almost always inside Trick Attack. 
 
-### oGCD Usage
+## oGCD Usage
 
 Every single one of your damage oGCDs have a cooldown that is a multiple of 60 seconds, except Bunshin. Bunshin, like mentioned in the Ninki usage section, is going to be used on cooldown always. Mug, because it does very little damage itself, is generally used before a Trick Attack window, so that you have more Ninki going into it, resulting in more Ninki ability usages inside Trick Attack. The rest of your oGCDs will always be used on cooldown from when you use them in the opener, resulting in them always being inside Trick Attack naturally because of the aligning cooldown timings.
 
-### Trick Attack Rotation
+## Trick Attack Rotation
 
 This is the biggest hurdle to learning Ninja. In a single target dummy fight, this part of your rotation itself will be about 40% of your damage, if not more, even though it's only up 25% of the fight. Your Trick Attacks will be very similar every time with minor variations in where you are in your combo at the time. Because Trick Attack makes the boss take 5% more damage for 15 seconds, we stuff all of our biggest damage tools into this window. This means we put in two Raitons, Dream Within a Dream, Assassinate, at least one Bhavacakra but preferably more, Shadow Fang, and Hyosho Ranryu every single time when possible. The only variation is that every other T rick we won't have TCJ and Meisui like we do in the other ones. All this really changes is that we take out some regular GCDs to put those into Trick. If you do the opener correctly, and then use things on cooldown from there, your Trick Attacks will mostly be done for you. Just remember that if something isn't up, use your GCD. 
 
-### Ten Chi Jin (TCJ) Usage
+## Ten Chi Jin (TCJ) Usage
 
 There are currently two pretty commonly used TCJ variations and one relatively rare TCJ variation that we use at the high end. The two common ones are Fuma > Raiton > Suiton (TCJ Suiton) and Fuma > Katon > Doton (TCJ Doton). They are basically the highest single target damage variation and the highest AoE damage variation. TCJ Suiton is the highest single target with TCJ Doton being the highest AoE. TCJ will always be used inside of Trick Attack because of its high natural potency and need to use Suiton inside of trick for Meisui. 
 
@@ -60,7 +60,7 @@ There are currently two pretty commonly used TCJ variations and one relatively r
 
 The only other variation that is seen sometimes is Fuma > Katon > Suiton. This is mostly used if the two targets will die very soon so Doton doesn't get full ticks, or if the bosses will be moving out of the Doton. 
 
-### Multi-Target Rotation
+## Multi-Target Rotation
 
 Ninja has different priorities in terms of what abilities to use at one target, two targets, and 3+ targets. For one target, it's all the stuff I have already talked about, but it changes slightly for two targets. 
 
@@ -68,7 +68,7 @@ At two targets, you will start to do Hellfrogs instead of Bhavacakras and will d
 
 At three targets, this is when you start to do your AoE combo. This would be Death Blossom into Hakke Mujinsatsu. So, three targets is where you consistently do your AoE combo, as well as go full out AoE on your ninjutsus. 
 
-## Opener
+# Opener
 
 ![Opener](/img/jobs/melee/ninja/Opener.png)
 
@@ -79,22 +79,22 @@ oGCDs in Parentheses
 
 This will be your opener on any fights where you get a pull countdown. The Doton will only do damage if the tank pulls the boss into your Doton, but if they don't, it's not a big deal, just do the rest as shown. This will both set up the rest of the fight for you in terms of cooldowns and give you the biggest amount of damage you can inside raid buffs. There are of course variations for some specific fights, but it's all based on this same opener and are minor differences that I would only worry about once you know the job/fight well. 
 
-## Stats and Gearing
+# Stats and Gearing
 
 For your Best-in-Slot gear, you will generally be going for Weapon Damage > Dexterity > Crit > Direct Hit > Determination >> Skill Speed. This is not 100% exact once you get to the max gear, but until you have that, that is the priority in stats. 
 
-### 2.12 GCD BiS
+## 2.12 GCD BiS
 
 ![2.12 GCD BiS](https://i.gyazo.com/1cb336372acce657393786ccad4a7596.png)
 <https://etro.gg/gearset/dec9811d-c02c-4378-b046-d3cebe42eccb>
 
-### 2.11 GCD BiS
+## 2.11 GCD BiS
 
 ![2.11 GCD BiS](https://i.gyazo.com/d353943f5d3d61160b11739b6868e3a6.png)
 
 <https://etro.gg/gearset/33b9d186-963a-4cdb-84a0-6b2ebbadc652>
 
-### 2.10 GCD BiS
+## 2.10 GCD BiS
 
 ![2.12 GCD BiS](https://cdn.discordapp.com/attachments/277968373336244234/870902464302420008/unknown.png)
 
@@ -104,11 +104,11 @@ Use the 2.12 GCD BiS for general play, the 2.11 plays around potential extra GCD
 
 Meld priority for non BIS pieces: Crit >>>> DH > DET >>>>>>>>>>>>>>>>>>>>>>>>>>>>>> SkS
 
-### UCOB BIS
+## UCOB BIS
 
 <https://etro.gg/gearset/a6f033eb-2d74-4a2a-bd08-f7823d415fc3>
 
-### UWU BIS (Credit to Io)
+## UWU BIS (Credit to Io)
 
 <https://etro.gg/gearset/74be6ffe-4d39-4513-96fb-be800c372592>
 
@@ -120,23 +120,23 @@ Can use other pieces; needs the following all above ilvl 470:
 * Accessories: 3x CRT/DET, 3x CRT/DH
 * Food: Smoked chicken HQ
 
-### The Epic of Alexander Best In Slot
+## The Epic of Alexander Best In Slot
 
 <https://etro.gg/gearset/a25fcb8e-7f1a-432f-a627-bbf6eabfe77c>
 
 <!-- TODO: link proper image later, so its not discord hosted -->
 
-## Optimization
+# Optimization
 
 Alright, now that you have a good idea of the basics of the job, how do you optimize? Well, the first thing is always making sure that you are doing all the things up above. This means getting everything you can inside Tricks, not losing GCDs to avoidable downtime or hesitation from not knowing what to do, aligning buffs with other players’ buffs when possible, and finding when there is unavoidable downtime and using your utility to minimize these things. Some of these things will be Ninja-specific, while others won't be.
 
-### Optimizing Around Kill Times
+## Optimizing Around Kill Times
 
 The quickest and probably easiest optimizations come from understanding your kill times. Knowing a rough kill time lets you know how many of each of your cooldowns you can use in the fight, and therefore optimize around putting them in the right place. For example, in a fight that you are expecting to kill around eight minutes, you know you only get eight uses of your 60 second cooldowns, six uses of your 90 second cooldowns, and realistically only four uses of your 120 second cooldowns. Whereas in a kill time of around nine minutes, we instead get nine uses of your 60 second cooldowns, six realistic uses of 90 second cooldowns, and five uses of 120 second cooldowns. 
 
 Because of the kill time, you can move these around to align with other players’ buffs more as long as you don't start to lose usages. You could for example move two of your 90 second cooldown uses that would otherwise not be inside Trick Attack to be inside of Trick Attack, preferably when two minute cooldowns and any potential three minute cooldowns are also there, since buffs stack multiplicatively. As always, talk to your party members and try to figure out what would be the best way to do this for the fight and for the party, since different compositions and fights gain more from different variations of this. 
 
-### Optimizing Around Downtime
+## Optimizing Around Downtime
 
 As a Ninja, you are the melee job with the most flexibility in terms of playing around with downtime, at least when the boss is still targetable but you can’t be in melee range for whatever reason. You have the best ranged options because of Ninjutsus, and the most flexibility with movement because of increased movement speed and Shukuchi. When you need to move out for a longer time than your GCD, you should instead of putting them into Trick attacks use your Raitons during this time and get more regular GCDs inside of Trick Attack. 
 
@@ -148,7 +148,7 @@ Other highly under-utilized tools for optimization and safety are your defensive
 
 Finally, the increased movement speed. This is not necessarily noticeable by most players because it is quite small. But it is still something that you can use to gain an advantage. Especially when an AoE lines up very close to a GCD, you will sometimes have the ability to get that GCD off, whereas any other melee job wouldn't. It just means you have to test this stuff on Ninja specifically, not on the other melee jobs, because they aren't necessarily the same thresholds for when you can get another GCD and be safe. 
 
-### Niche Optimizations
+## Niche Optimizations
 
 Do not do these things until you truly know what you are doing, these things are generally pretty high risk of being DPS losses if you aren't sure, or require you to either think and do math on the fly, or already have a fight mapped out and consistent down to every single GCD.
 
@@ -160,7 +160,7 @@ For this to be a gain, you have to know when a fight’s phase will end, down to
 
 Another niche optimization is using Shadow Fang outside of Trick Attack. Because Shadow Fang has a duration of 30 seconds, there are often cases where a boss either dies early or becomes untargetable for part of this duration. This would in turn make it lose a lot of potency depending on the situation. In a case like this, you will want to move Shadow Fang either forward in your opener to out of Trick, or to after Trick depending on the situation. Gaining one tick is enough to outweigh what Trick Attack does for its potency. It's a relatively simple optimization but it happens rarely enough nowadays that it's rarely used.
 
-## Thanks
+# Thanks
 
 Thank you to everyone who has helped me get to where I am today, and who will be with me in the future. I'm sure I will forget someone here, so just know that I appreciate each and every one of you, no matter what happened between us. Thanks to Momo Sama for being the Ninja main I looked up to for all of the Creator tier speedrunning. You were the one who got me interested in the job at the highest level, and you were the one I learned a lot of my basic optimization stuff from. Without you I likely would have been anywhere near where I am today. 
 
@@ -170,7 +170,7 @@ Thank you to Kyo -- the back and forth Ninja theorycrafting and application we d
 
 Thank you to Shalfu for all the work he did in Shadowbringers for Ninja. Without him, I don't think pre-5.1 NIB would have been as amazing and fun as it was, even if it was shit balance-wise for a while. And once again, thank you to everyone else who I have been in contact with extensively, and non-extensively, you all motivated me and helped me become a better player and person. 
 
-### Contacting Me
+## Contacting Me
 
 If you want to reach out to me for whatever reason, you can reach me at the following social medias, I check these daily and will get back to you when I can.
 Twitter: @zhotacton

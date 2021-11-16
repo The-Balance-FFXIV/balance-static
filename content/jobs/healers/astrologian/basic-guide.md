@@ -9,14 +9,14 @@ changelog:
   - date: 2021-10-26T19:28:39.310Z
     message: Created article.
 ---
-## Intro to Astrologian
+# Intro to Astrologian
 
-### Who Needs MP When You’re This Pretty?
+## Who Needs MP When You’re This Pretty?
 
 *Brought to you by Zyrkhan Dar’locke, AKA Literally Who*\
 *No, we still can’t be Gambit*
 
-## The Scope of this Guide
+# The Scope of this Guide
 
 As the title implies, this guide is intended to function as an introduction to Astrologian. This guide is concerned with Astrologian only. It will not address the general principles of healing as they apply to all healers. Those things are discussed in [Zyrk’s Bullshit Guide to the Principles of Healing](http://bit.ly/FFXIVHealerGuide). Our focus is on things that are unique to Astrologian: AST-specific spells/abilities, cards, strengths, weaknesses, etc.
 
@@ -28,7 +28,7 @@ The guide will **not**, however, list and explain your tooltips for you, except 
 
 For more in-depth AST discussion and questions beyond the scope of this guide, please direct your attention to [The Balance Discord](https://discord.gg/thebalanceffxiv), where there are plenty of skilled ASTs who are more than happy to answer questions and work with you.
 
-## What Makes Us Special?
+# What Makes Us Special?
 
 Other than being very pretty (not to understate the importance of how pretty we are)...
 The way the game is currently designed, the primary goal of the entire raid is to dish out as much DPS as possible without unduly compromising the survival of the run. Healers work to keep people alive as efficiently as they can, and they contribute as much to the party’s damage as they can. That’s the core principle of healing, but each healer has slightly different ways to accomplish that goal. Astrologian’s role in the game is defined by its mobility, unique oGCDs, and above all else, cards.
@@ -44,13 +44,13 @@ How about a trite little pros and cons list? Really it’s just an excuse for me
 
 It may come as a surprise that cards aren’t the only thing Astrologian has going for it. We have quite a few unique strengths, actually, though not all of them are widely recognized—particularly mobility. We’ll begin with the simpler ones and work our way up to the lengthier explanations.
 
-### Mobility
+## Mobility
 
 The base cast time of Malefic is 1.5s, with a standard 2.5s recast time (GCD). This allows us to play Solitaire during combat while avoiding the egregious human rights violation that was the 4.0 AST oGCD clipping nightmare. We’re able to weave a single oGCD after each Malefic without clipping (unless Earthly Star is being temperamental or you have really unfortunate latency).
 
 In addition to letting us weave oGCDs without clipping, the 1.5s cast time means that, accounting for slidecasting, we have a solid half a GCD on nearly every GCD to scoot around without losing uptime. That’s absolutely massive when it comes to how forgiving the job is with positioning, dodging AoEs, and doing mechanics. It’s a highly underrated strength of Astrologian, especially when you’re less familiar with the content and aren’t necessarily preparing for every AoE and mechanic in advance.
 
-### Astrologian’s oGCDs
+## Astrologian’s oGCDs
 
 Astrologians have some incredibly powerful oGCD abilities and cooldowns that offer us unique strengths. We may not have Cure III or Benediction, but we do have Earthly Star and Essential Dignity. These skills are similar in some ways, but they have different strengths. They may seem like a plagiarized White Mage kit, but if you try to play like a White Mage with cards, you’re going to make for a pretty poor Astrologian.
 
@@ -146,7 +146,7 @@ So, Lightspeed is not something you want to use every single time it’s availab
 
 In general, treat the opener and situations like these as the cornerstones of your Lightspeed plan, and then see if there are other places you could benefit from Lightspeed uses between them. Between extended movement sections, if you can fit in the extra use, it can be preferable to use Lightspeed in place of a Swiftcast even for a small amount of movement, especially during progression, because Swiftcast is more valuable than Lightspeed for casting a raise.
 
-### Cards and Divination
+## Cards and Divination
 
 This is our identifying job mechanic. Shadowbringers brought us a full card rework (one that was much needed for the big-picture health of the game, but I digress). The rework has been very contentious, but it’s what we’ve got, and you’re here to learn how to use it. I don’t like going over tooltips in guides, but since this is a complete rework, I’m making an exception.
 
@@ -198,13 +198,13 @@ Sleeve Draw and Divination align in the opener and at the six minute mark in the
 
 - - -
 
-## Opener
+# Opener
 
 The most up to date Astrologian opener(s) can always be found in the #ast_resources channel on The Balance Discord. Keep in mind that Astrologian openers are extremely flexible and depend almost entirely on the circumstances of the fight, the timings of the planned raid DPS bursts, and party composition. Any premade Astrologian opener is a generic framework, not a universally optimal opener.
 
 We've taken a lot of care to evaluate as many of the variables as we reasonably can and identify the core methodology of the most statistically successful opener with regard to when most DPS jobs burst the hardest and when other raid buffs should be coming out, assuming everyone is doing a proper opener. The framework is as follows, with the caveat that the card manipulation skills you use (Redraw, Minor Arcana) will depend on what you draw and when.
 
-### Pre-pull
+## Pre-pull
 
 **Most of this is optional and fight-dependent**, but it is almost always recommended to prep a card 30 seconds pre-pull so that Draw comes back up, place Earthly Star somewhere pre-pull, and use Aspected Benefic, Celestial Intersection, and your Mind Potion/Tincture starting at -5s to lead into your precast Malefic.
 
@@ -220,7 +220,7 @@ We've taken a lot of care to evaluate as many of the variables as we reasonably 
 
 The bolded sections are considered fairly standard. The rest, especially using cooldowns like Neutral Sect and Horoscope pre-pull, are entirely situational depending on whether that much heal/shield prep has any actual value that early in the fight. Realistically, just the regular GCD shields along with Earthly Star are usually overkill for what damage is coming out near the start of the fight. This is just to illustrate some options that you have in the event that there’s a fight that has a large amount of damage coming out in the first 20-30 seconds.
 
-### The Pull
+## The Pull
 
 Thanks to the Sleeve Draw rework in Patch 5.3, our opener has never been friendlier. It now follows a straightforward priority system in which you simply use Lightspeed to enable double weaving for card manipulation, put up Combust, and begin playing cards naturally, working your way toward three unique Seals for Divination at a reasonably early time.
 
@@ -254,7 +254,7 @@ This is the basic framework of the opener. If you Draw a duplicate Seal, you sim
 
 Note that in the scenario above, where no Redraws are required, you could use Divination as early as around 6 seconds, which may be too early for many party comps, which is why it’s delayed here until the next GCD. This also means that some Redraws are tolerated without delaying Divination from this timing, but even if it is delayed a further GCD to 10.6 seconds, that’s usually fine. The optimal timing will vary depending on your party composition and burst timings.
 
-### Outdated Opener for Posterity
+## Outdated Opener for Posterity
 
 This is the opener from before the 5.3 rework of Sleeve Draw. It is no longer relevant. I am leaving it here as a testament to a fallen behemoth, so that future generations of Astrologians can look back into the abyss at the Lovecraftian nightmare with which we wrestled even in the deepest recesses of our minds, in our waking hours and in the inner sanctuaries of our dreams.
 
@@ -291,11 +291,11 @@ Redraw can't give you the same card you have in hand, so it has slightly better 
 
 - - -
 
-## Miscellaneous Stuff You Should Know
+# Miscellaneous Stuff You Should Know
 
 Astrologian has a few quirks that you kiiiind of have to know in order to play the job to its fullest potential. Some of them are nice little tricks that will only come in handy every once in a while, but others are somewhat vital to your success.
 
-### Strange Interactions
+## Strange Interactions
 
 1. Earthly Star is technically a pet. It counts as a unique, separate entity from ourselves, but it scales with our stats as a pet would. Somewhere in the spaghetti code, they’ve given Earthly Star its own special modifier to bring it up to ~95% of player potency, unlike the significantly reduced pet scaling observed with actual pets. This doesn’t currently have much pragmatic effect on us, and we hope it stays that way, but it has in the past.
 2. Essential Dignity calculates its heal value based on the missing health of the target at the beginning of the skill, rather than at the end, when the animation completes and the heal is delivered. This can be a good or a bad thing.
@@ -304,7 +304,7 @@ Astrologian has a few quirks that you kiiiind of have to know in order to play t
    * On the flip side, if you press Essential Dignity simultaneously as a tank buster is going through, even though the animation delay causes the heal to land after the tank buster, Essential Dignity will calculate its heal potency based on the HP the tank had before he took the hit, potentially leaving you with a \~500 potency heal instead of an \~800+ potency heal.
 3. Using Play immediately after your first hit that puts you in combat will sometimes not grant you the appropriate seal, because the game has not registered you as being in combat yet, due to some shenanigans with the animation and how quickly the threat table updates.
 
-### Choosing a Sect
+## Choosing a Sect
 
 I touched on this briefly in the general healing guide, but let me spell it out here. **Regens. Are. Better. Than. Shields.** It is simply a fact of the game design. Regens are inherently more MP efficient *and* more GCD efficient than shields. The purpose of shields is not to be efficient, but rather to do something that regens can’t do: increase your maximum effective hit points (eHP).
 
@@ -337,7 +337,7 @@ Of course, if you happen to be in a party with another Astrologian (my condolenc
 
 In dungeons, you can swap to Nocturnal Sect just as the last enemy in a pull dies, apply a shield to the tank in preparation for the next pull, and then swap back to Diurnal Sect. This gives you a nice buffer for the tank’s HP while he gathers the mobs, giving you more time to DPS or do whatever else before you need to heal the tank.
 
-### Secondary Stats
+## Secondary Stats
 
 The most up to date Astrologian best-in-slot (BiS) set(s) can always be found in the #ast_resources channel on [The Balance Discord.](https://discord.gg/thebalanceffxiv) You can view the [BiS list](/jobs/healers/astrologian/best-in-slot/) on the Balance website as well. 
 

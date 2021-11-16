@@ -8,6 +8,6 @@ changelog:
   - date: 2021-10-26T02:07:05.022Z
     message: Created page
 ---
-## OPENER INFOGRAPHIC
+# OPENER INFOGRAPHIC
 
 Io's Opener / Simple Rotation Infographic: ![](https://i.imgur.com/Ff7LvIQ.png)

@@ -8,7 +8,7 @@ changelog:
   - date: 2021-10-26T21:37:23.610Z
     message: Article Created.
 ---
-## DPS GCDs
+# DPS GCDs
 
 ![Broil3](https://xivapi.com/i/002000/002821_hr1.png)  \
 **Broil III**
@@ -30,7 +30,7 @@ Ruin II is your primary tool for weaving. It is an instant cast GCD, which means
 
 This is SCH’s DoT skill. The net potency of this over 30s is 700. It should almost always be ticking on the boss, with a few exceptions (more on this later). It is instant cast, which means you can use its cast to reposition yourself for incoming mechanics, and to weave. This must tick for 15s to have done more damage than a Broil III. For the sake of movement, clipping this DoT early at that 15s point can, in theory, be a gain, but it is preferred to allow it to tick for its full duration whenever possible. Every missed tick is 70 potency lost. Clipping it too many times can result in more than a Broil III lost in potency over a fight.
 
-## DPS oGCDs
+# DPS oGCDs
 
 ![EnergyDrain](https://xivapi.com/i/000000/000514_hr1.png)  \
 **Energy Drain**
@@ -38,7 +38,7 @@ This is SCH’s DoT skill. The net potency of this over 30s is 700. It should al
 Energy Drain is our primary tool for "dumping" excess Aetherflow stacks; we trade them in for damage and mana. As our only offensive oGCD, maximizing DPS means using this as often as you safely can in between instant cast spells like Biolysis or Ruin II. Give priority to non-Aetherflow cooldowns when possible to reduce your Aetherflow usage. 
 Any stacks that are not used on NECESSARY healing should be used on Energy Drain to maximize possible damage. Losing an Energy Drain for an Indom that saves you or your co-healer a GCD based heal is an absolute gain.
 
-## Healing GCDs
+# Healing GCDs
 
 ![Physick](https://xivapi.com/i/000000/000518_hr1.png)\
 **Physick**
@@ -67,7 +67,7 @@ Ideally, Succor should be avoided in favor of other less costly options, such as
 
 As of Shadowbringers, with the addition of Seraph, we now have an oGCD option that can potentially replace Succor. And, with this current state of the job, there are many options that are outright better than Succor, such as Consolation or Sacred Soil. Both of these are comparatively only a 90 potency loss (This loss is from using a Ruin II to weave, instead of a Broil III). This beats out the cost of using Succor, which loses the Scholar 290 potency from losing an entire Broil III.
 
-## Healing oGCDs
+# Healing oGCDs
 
 ![Lustrate](https://xivapi.com/i/002000/002805_hr1.png)  \
 **Lustrate**
@@ -130,7 +130,7 @@ This skill has two charges with a 20 second recast time. You have a 20 second wi
 
 This action is useful for saving a GCD that would have otherwise been a Succor. This mainly applies for large AoE attacks that would oneshot the party. It does require two oGCD weaves to get a single Consolation, and an additional weave/clip for the second Consolation. This uses oGCD space that could go to Indomitability and Sacred Soil, which are higher healing potency and thus those are generally a higher priority to heal with.
 
-## Utility Spells/Abilities
+# Utility Spells/Abilities
 
 ![Resurrection](https://xivapi.com/i/000000/000511_hr1.png)  \
 **Resurrection**
@@ -159,7 +159,7 @@ This skill is fairly self explanatory. Chain Stratagem (Chain) increases the rat
 
 This action summons Seraph while removing Eos or Selene for the duration Seraph is present. The duration of this ability is 22s, with a 120s recast time. It is primarily used for Consolation, which can be used to replace Succor casts. Seraph also has a more powerful version of Embrace called Seraphic Veil. At the end of the duration, Seraph leaves and Eos/Selene returns without having to be resummoned.
 
-## Fairy Abillities
+# Fairy Abillities
 
 **Note that all Fairy abilities originate from the Fairy, but must be commanded as an oGCD from the Scholar, causing a slight delay in execution. Embrace casts automatically.**
 
@@ -201,7 +201,7 @@ This is literally the same as Fey Illumination.
 
 Note that the reason why they are of the same value is to give accessibility to the user to use fairy actions aside from Consolation when Seraph is active.
 
-## Other Abilities
+# Other Abilities
 
 ![Aetherflow](https://xivapi.com/i/000000/000510_hr1.png)  \
 **Aetherflow**
@@ -234,7 +234,7 @@ Recitation Adlo is also useful for Deployment Tactics. Outside of a deploy situa
 
 Recitation does take up an oGCD slot to use. Ideally, aim to weave it in a natural window. 
 
-## Role Actions
+# Role Actions
 
 ![Repose](https://xivapi.com/i/000000/000891_hr1.png)  \
 **Repose**

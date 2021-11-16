@@ -8,7 +8,7 @@ changelog:
   - date: 2021-10-28T03:50:38.305Z
     message: Created page
 ---
-## Single Target GCDs
+# Single Target GCDs
 
 As previously mentioned, Monk has six core single-target GCDs.
 
@@ -26,7 +26,7 @@ As previously mentioned, Monk has six core single-target GCDs.
 
 There are a couple of minor things to keep in mind here. First is that at every form you have two options for which GCD to use. Second, is that all positionals are worth 30 potency except for Bootshine, where you instead lose the guaranteed crit effect if you miss the positional. Therefore Bootshine is the most important positional to land, as it's potentially the biggest loss.
 
-## Opening Your Inner Chakra
+# Opening Your Inner Chakra
 
 Chakra is Monk's job gauge, which stacks up to five times. At five stacks of Chakra, we can spend them to execute either The Forbidden Chakra, a strong single target oGCD, or Enlightenment, a weaker AoE oGCD.
 
@@ -38,7 +38,7 @@ There are multiple ways that we generate Chakra.
 | ![](https://xivapi.com/i/005000/005238_hr1.png) | We then have two traits; Deep Meditation I & II. Deep Meditation I grants an 80% chance of generating a chakra upon landing a critical weaponskill. Deep Meditation II turns that 80% chance into a 100% chance.                                                                                                                                                                                                     |
 | ![](https://xivapi.com/i/002000/002542_hr1.png)                                                                             | Finally we have Brotherhood. Brotherhood has multiple effects, but in this section we'll just talk about the effect pertaining to Chakra generation. Upon execution, party members within 15 yalms will gain the effect of Meditative Brotherhood for 15 seconds. While this buff is active on an ally, every time they execute a weaponskill or a spell there is a 20% chance that you will gain a stack of Chakra. |
 
-## oGCDs
+# oGCDs
 
 In terms of oGCDs, Monk is somewhat simple.
 

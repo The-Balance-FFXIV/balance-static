@@ -9,7 +9,7 @@ changelog:
   - date: 2021-10-26T01:57:17.611Z
     message: Added page
 ---
-### Introduction
+## Introduction
 
 - - -
 
@@ -21,9 +21,9 @@ Hello. I am Reina, a caster player, and I am standing on the shoulders of giants
 
 Special thanks to **Caro Kann and Lady Yuna’lesca** for their [5.X BLM Hypermeme Rotation Guide](https://docs.google.com/document/d/1SBU4HpqBenHAXFr6V-gwAKggkfBgJ2IR9FEbMtT3YRw), which a large portion of this document is based on. As an aside, I highly recommend installing the [MP tick trigger](https://docs.google.com/document/d/1vsI2r4064VHJ8WuhItXB7ilbdjEJ26GphZSsjWiyDDU/edit) as it will make tracking MP ticks infinitely easier. In addition, some optimizations listed below are only possible with the MP tick trigger.
 
-## Basics
+# Basics
 
-### General Idea
+## General Idea
 
 - - -
 
@@ -31,7 +31,7 @@ The idea behind the optimizations in non standard lines is the elimination of we
 
 Aory made a great [introductory video guide](https://youtu.be/qN0-ciFRrF8) to non standard BLM play. Be sure to check it out! 
 
-### Base Rotation
+## Base Rotation
 
 - - -
 
@@ -111,9 +111,9 @@ PPS wise, 3xF4 Transpose > 4xF4 > standard 
 
 With tick tracking and very optimal play, we aim to further reduce the number of standard lines and instead cast as many 4xF4 and Transpose lines without B4 as possible. 
 
-## Intermediate
+# Intermediate
 
-### 4xF4 variations 
+## 4xF4 variations 
 
 - - -
 
@@ -147,7 +147,7 @@ Instant B3 with Transpose can be used to guarantee two ticks during UI to enable
 
 As discussed before, this line is useful when salvaging a bad 4xF4 line. However, being effectively the same in PPS as standard, this line has another useful feature: it is a line with a different length, which may make it useful for alignment during certain situations.
 
-### 3xF4 Transpose variations 
+## 3xF4 Transpose variations 
 
 - - -
 
@@ -197,7 +197,7 @@ Most of the above lines can be done without Lucid into a 2xF4 Transpose line. Th
 
 Instant F3 principles also apply.
 
-### Early MP ticks and filler skips
+## Early MP ticks and filler skips
 
 - - -
 
@@ -215,7 +215,7 @@ Same principle, but the tick requirement is stricter than the prior line and req
 
 No filler 3xF4. Requires just one tick between B3 and F3. 
 
-### Notes on Thunder
+## Notes on Thunder
 
 - - -
 
@@ -255,7 +255,7 @@ At ~2.4k SpS, a Sharped T3 hardcast without additional procs in a 4xF4 line will
 
 ![](https://lh6.googleusercontent.com/6tMBhPAFCTJWDM2kbfNlVXx9rmDAfpAIomPe7YDAZTP0dMJuNJIk2BB-V4A-u4VjXk5YOSGIbYoSuJOs-ylySphzWxKxT6Qn0tzDoPkJXH6X6WkJ8bltYedZkLk8-H-qhpczE4f5=s0)
 
-### Notes on Spell Speed
+## Notes on Spell Speed
 
 - - -
 
@@ -273,7 +273,7 @@ If you find yourself with a bad tick in a Transpose line during LL and won’t g
 
 ![](https://lh3.googleusercontent.com/sam1wY6iZTgdP4EPlcSYWQIuIvNq9X7AplJIvLNIaOLig9eHebZJ2GP3C9Q9HDOYOphHyzAHVxEN6l7fUHvH6M8KFsBZx24_sJfS7m0hl0zLMpFsBuPCCwOVJCjPGR7fsdfefJmw=s0)
 
-### Comparing Ice/Fire Lines
+## Comparing Ice/Fire Lines
 
 - - -
 
@@ -289,7 +289,7 @@ These PPS calculations are made under the following conditions:
 
 **The decision of which line to enter is often situational as it is more dependent on mechanics, alignments, procs, and resources, rather than a simple potency comparison.**
 
-### Fight specific strategies 
+## Fight specific strategies 
 
 - - -
 
@@ -303,11 +303,11 @@ For fights with transitions and downtimes, aligning with boss jumps should also 
 
 ![](https://lh4.googleusercontent.com/-GttJ8NmeuxFQNNt4MGoyJfcLj1hB1uzs0DYzTgsTz0JyyV-bUBwpxSaBN81R6LlgmJ1yCsETgnxtz4atxVFicjFgqU78aTreZW4MHYpV8efTZHNWdJOL2nm1BvC_88TXwGBNlBT=s0)
 
-## Advanced
+# Advanced
 
 #### This section requires the [MP tick trigger](https://docs.google.com/document/d/1vsI2r4064VHJ8WuhItXB7ilbdjEJ26GphZSsjWiyDDU/)
 
-### Opener Sequence 
+## Opener Sequence 
 
 - - -
 
@@ -365,7 +365,7 @@ If a T3 procs within the first two ticks after the second T3P and no additional 
 
 I made the sequence a while ago and ironically now I don’t remember what it was about this sequence that needed adjustment. Take it as a reference only, and the principle still holds true. 
 
-### Tracking filler skips
+## Tracking filler skips
 
 - - -
 
@@ -375,7 +375,7 @@ Cast confirmation, a key mechanic of the game, does not happen at the end of the
 
 Tracking MP ticks is highly SpS and ping dependent. You should do calculations for your own set and test their consistency. [You can find a few examples of these calculations here.](https://docs.google.com/document/d/1ZIDcUAtCpTBIleuKGK1BebgLdcoEfBZQlvaeqaAQ_9k/edit?usp=sharing) I aimed to show the thought process with these examples and what I have done is not the only methodology. The key takeaway of this section is that it is possible to know precisely whether or not a filler skip is possible, as well as knowing the probability of filler skip in each line. 
 
-### Utilizing Micro and Frozen Downtimes
+## Utilizing Micro and Frozen Downtimes
 
 - - -
 
@@ -417,7 +417,7 @@ One UI1 and one UI2 ticks are assumed. If the first F1 procs, use the F3P and ca
 
 [There are more variations of this line](https://docs.google.com/document/d/17SlCNw0xbIzBJbzN6E65GoZrmxLHQ1rkZgkb6q_-Hjk/edit?usp=sharing) depending on the exact amount of mana generated and on the timing and type of the downtime. The principle is still the same. If clipping the Transpose is required then whether or not this is a gain over slow F3 would depend on the scenario. 
 
-### Additional niche lines
+## Additional niche lines
 
 - - -
 
@@ -464,9 +464,9 @@ A niche line that requires a tick within ~2 seconds after the first Transpose (S
 
 This line is weaker than 4xF4 Transpose (but stronger than 4xF4) and thus completely useless (or almost, maybe a specific phase timing could benefit from this). I’ve decided to include this line in this document to show its absurdity. If the second F1 procs, use it as a filler to extend AF and allow an additional F4. 
 
-## Appendix
+# Appendix
 
-### Acknowledgements
+## Acknowledgements
 
 - - -
 
@@ -486,7 +486,7 @@ And Keiji for listening to my caster theorycrafting rants and preventing me from
 
 Shoutout to the Black Mage channels on the [Balance Discord](https://discord.gg/thebalanceffxiv) and every BLM player. 
 
-### Epilogue
+## Epilogue
 
 - - -
 

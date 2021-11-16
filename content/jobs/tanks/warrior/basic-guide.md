@@ -52,15 +52,15 @@ changelog:
   - date: 2019-07-04T23:00:00.000Z
     message: Colorful
 ---
-## How to Fell Cleave
+# How to Fell Cleave
 
-### "An Angry Wannabe-Healer Guide"
+## "An Angry Wannabe-Healer Guide"
 
-### Warrior Primer v5.3
+## Warrior Primer v5.3
 
 - - -
 
-## Introduction
+# Introduction
 
 Hello, fellow axe wielders, we are Warruru Bros from The Balance discord:
 
@@ -78,7 +78,7 @@ If you know the basics and want to push the limits of Warrior gameplay, carry on
 
 - - -
 
-## Job Overview
+# Job Overview
 
 > \*On the northernmost edge of Abalathia's Spine exists a mountain tribe renowned for producing fearsome mercenaries. Wielding great axes and known as Warriors, these men and women learn to harness their inner beasts and translate that power to unbridled savagery on the battlefield.
 
@@ -96,17 +96,17 @@ Remember, no one can win every battle, but no man should fall without a struggle
 
 - - -
 
-## tl;dr
+# tl;dr
 
 *Also known as “I’m here for the quickest tips”. No explanation, just take them and run.*
 
-### IC IR IC IC Opener
+## IC IR IC IC Opener
 
 ![Opener](https://i.imgur.com/WB2SEtL.png)
 
 Nascent Flash is free to be moved around depending on damage taken. Here it is used to teach people to use Inner Release on the second oGCD slot.
 
-### Rotation (is a priority now)
+## Rotation (is a priority now)
 
 * Keep Storm’s Eye up and refresh it below 15 seconds.
 * Keep Upheaval on cooldown.
@@ -117,11 +117,11 @@ Nascent Flash is free to be moved around depending on damage taken. Here it is u
 * Aim to use Infuriate and Inner Chaos inside party buffs.
 * Aim to keep Infuriate below two stacks at all times.
 
-### Stat Priority
+## Stat Priority
 
 Crit > Comfy SkS > Det > Ten    
 
-### Skill Speed Tiers
+## Skill Speed Tiers
 
 37 GCDs per 90s
 
@@ -134,17 +134,17 @@ Crit > Comfy SkS > Det > Ten
 * 1624 for 2.37 GCD - Some breathing room for mechs and clipping
 * 1726 for 2.36 GCD - "Greeding Mechanics" levels of comfy
 
-### BiS Lists
+## BiS Lists
 
 Refer to [The Balance discord](https://discord.gg/thebalanceffxiv) server [\#warrior_resources](https://discordapp.com/channels/277897135515762698/580300071061553182/593937173569601538) or the [BiS page.](/jobs/tanks/warrior/best-in-slot/)
 
 - - -
 
-## Abilities Preview
+# Abilities Preview
 
 Abilities will be presented in a tabular format for easy reading.
 
-### Single Target
+## Single Target
 
 |                                                             |              |                                                                                                                                                                                                                              |                                                                      |
 | ----------------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
@@ -156,7 +156,7 @@ Abilities will be presented in a tabular format for easy reading.
 | ![Inner Chaos](https://xivapi.com/i/002000/002568_hr1.png)  | Inner Chaos  | Costs one stack of Nascent Chaos. <br>Replaces Fell Cleave on your hotbar when you have one stack of Nascent Chaos. <br>Delivers a Critical Direct hit. <br>Consumes 50 Beast Gauge. <br>Reduces Infuriate’s cooldown by 5s. | 920p <br>Dhit crit <br>**GCD** <br>-NC <br>-50 Gauge                 |
 | ![Tomahawk](https://xivapi.com/i/000000/000261_hr1.png)     | Tomahawk     | Ranged attack with increased enmity.                                                                                                                                                                                         | 140p <br> **GCD**                                                    |
 
-### Area of Effect
+## Area of Effect
 
 |                                                                |                 |                                                                                                                                                                                                                           |                                                  |
 | -------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
@@ -165,7 +165,7 @@ Abilities will be presented in a tabular format for easy reading.
 | ![Decimate](https://xivapi.com/i/002000/002558_hr1.png)        | Decimate        | A big AOE hit, 250 potency per target. <br>Radius of five yalms. <br>Consumes 50 Beast gauge. <br>Reduces Infuriate’s cooldown by 5s.                                                                                     | 250p <br>**GCD** <br>-50 Gauge                   |
 | ![Chaotic Cyclone](https://xivapi.com/i/002000/002566_hr1.png) | Chaotic Cyclone | Costs one stack of Nascent Chaos. <br>Replaces Decimate on your hotbar when you have one stack of Nascent Chaos. <br>Guaranteed Critical Direct hit. <br>Consumes 50 Beast gauge. <br>Reduces Infuriate’s cooldown by 5s. | 400p  <br>**GCD** <br>-50 Gauge <br>-NC          |
 
-### oGCD
+## oGCD
 
 |                                                          |           |                                                                                                         |                                        |
 | -------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------- |
@@ -173,7 +173,7 @@ Abilities will be presented in a tabular format for easy reading.
 | ![Onslaught](https://xivapi.com/i/002000/002561_hr1.png) | Onslaught | Warrior’s gap-closer. <br>Consumes 20 Beast Gauge.                                                      | 100p <br>10s CD <br>oGCD <br>-20 Gauge |
 | ![Infuriate](https://xivapi.com/i/002000/002555_hr1.png) | Infuriate | Increases Beast Gauge by 50 <br>Grants Nascent Chaos <br>30 seconds duration <br>Stacks up to two times | 60s CD <br>oGCD <br>+50 Gauge <br>+NC  |
 
-### Utility
+## Utility
 
 |                                                                 |                              |                                                                                                                                                                                                                                                                                                      |                                     |
 | --------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
@@ -195,7 +195,7 @@ Abilities will be presented in a tabular format for easy reading.
 | ![Interject](https://xivapi.com/i/000000/000808_hr1.png)        | Interject                    | Interrupts the use of some (highlighted) enemy actions.                                                                                                                                                                                                                                              | 30s CD <br>oGCD                     |
 | ![Low Blow](https://xivapi.com/i/000000/000802_hr1.png)         | Low Blow                     | Stuns target. <br>Certain targets cannot be stunned.                                                                                                                                                                                                                                                 | 5s dur. <br>25s CD <br>oGCD         |
 
-### The Beast Gauge
+## The Beast Gauge
 
 The Beast Gauge will be the main resource you will have to manage when playing Warrior. You will naturally accumulate the Beast Gauge during your rotation and will be able to spend it on specific skills. **IT DOESN’T INCREASE CRIT ANYMORE.**
 
@@ -222,9 +222,9 @@ Depending on the fight, you won’t get your full burst in every Trick window, b
 
 - - -
 
-## Abilities In-Depth Overview
+# Abilities In-Depth Overview
 
-### Single Target
+## Single Target
 
 #### Storm’s Eye Combo
 
@@ -253,7 +253,7 @@ A powerful single GCD with 920 potency that can only be used while you have 50 B
 Tomahawk is the only long ranged skill available to Warrior. 140 potency is not the biggest damage in our kit, however **Tomahawk makes it possible to attack the target in a range from 3y to 15y.**
 The additional x7 enmity multiplier makes Tomahawk the strongest GCD enmity generator available on-demand for a Warrior. Don’t hesitate to use it if the target suddenly decided to run away and punch a caster in the face. 
 
-### Area of Effect
+## Area of Effect
 
 #### Mythril Tempest Combo
 
@@ -279,7 +279,7 @@ Use the chart below for quick reference during your AoE adventures:
 
 ![Table](https://cdn.discordapp.com/attachments/752334526449057853/884745881600020500/unknown.png)
 
-### oGCD
+## oGCD
 
 #### Upheaval
 
@@ -310,7 +310,7 @@ General guidance for Infuriate:
 4. DO NOT use during Inner Release.
 5. DO NOT use before Inner Release, unless you can Inner Chaos/Chaotic Cyclone before Inner Release activation.
 
-### Utility
+## Utility
 
 #### Inner Release
 
@@ -329,7 +329,7 @@ To correctly perform this, each Inner Release must be executed in the 2nd oGCD s
 
 ![Inner Release Moment](https://cdn.discordapp.com/attachments/752334526449057853/884757552640974879/unknown.png)
 
-### Enmity Manipulation
+## Enmity Manipulation
 
 #### Defiance
 
@@ -371,7 +371,7 @@ NOTE:
 
 \*\*\*\** Defiance adds x10 enmity multiplier to all your skills. Applies to itself. 
 
-### Mitigation and Recovery
+## Mitigation and Recovery
 
 #### Holmgang
 
@@ -461,7 +461,7 @@ Reprisal is simply a wide mitigation tool, which lowers the targets’ damage de
 
 Arm’s Length is a tricky one. Its main purpose is to prevent a single knock-back in the six seconds it is active, but when used in AoE pulls in dungeons, it increases cast time, recast time and auto-attack delay of any monster by 20% for 15 seconds when hit. Great for slowing down the incoming damage from multiple targets.
 
-### Cast Interruptions
+## Cast Interruptions
 
 #### Interject
 
@@ -473,11 +473,11 @@ Stuns the target for five seconds. **DOES NOT** interrupt the use of enemy actio
 
 - - -
 
-## The Openers and Rotation
+# The Openers and Rotation
 
 All right, now let’s use all this knowledge we’ve gathered and discuss how, when and why to use the abilities we have.
 
-### Opener Optimization
+## Opener Optimization
 
 At present there is only a single worthy opener for Warriors, mainly because we want to get Inner Release on cooldown as soon as possible to maximize its usage, and because we can fit an extra Fell Cleave inside the potion by abusing Inner Release’s +15s Eye extension mechanics.
 
@@ -495,7 +495,7 @@ Defiance and Tomahawk is enough to keep an enmity lead if you are main tanking.
 
 Equilibrium and Provoke can be used during the opener for a flat increase in enmity if you are pulling the boss and will keep Main tanking the boss after the pull. As mentioned earlier, as of patch 5.0 Defiance and Tomahawk provides enough enmity and it is better to use Equilibrium for healing and Provoke for tank swaps.
 
-### Rotation Optimization
+## Rotation Optimization
 
 The basic rotation in a 100% uptime scenario is generously put a priority list:
 
@@ -553,13 +553,13 @@ As the table above shows, Raw Intuition has to either cover you from a certain d
 
 - - -
 
-## Stats, Itemization and BiS Theory
+# Stats, Itemization and BiS Theory
 
 With access to the information we know now, utilizing community tools such as the current [Tank DPS calculator](https://bit.ly/TankDPSCalc520) allows us to more accurately determine what gear and melds should be used.
 
 For Stat Tiers, refer to [TheoryJerks/AkhMorning’s website.](http://theoryjerks.akhmorning.com/stats/speed/)
 
-### Melding priority
+## Melding priority
 
 Crit > Comfy SkS > Det > Ten
 
@@ -585,13 +585,13 @@ Total amount of Weapon skills per 90 seconds:
 
 - - -
 
-## Raid Tips and Tricks
+# Raid Tips and Tricks
 
-### Eden
+## Eden
 
 [http://bit.ly/WAR_E1-4s_tips ](http://bit.ly/WAR_E1-4s_tips)
 
-### The Epic of Alexander
+## The Epic of Alexander
 
 <http://bit.ly/WAR_TEA_Notes>
 
@@ -602,9 +602,9 @@ Total amount of Weapon skills per 90 seconds:
 
 - - -
 
-## Additional Resources
+# Additional Resources
 
-### Guides:
+## Guides:
 
 [Beginner's Tank Guide](https://docs.google.com/document/d/1cLIQbPzzWg-IWxo_Myom-_9aSqf7xO4vxmhk6QaLPkM)
 <br> Visit for basics of tanking. 
@@ -615,7 +615,7 @@ Total amount of Weapon skills per 90 seconds:
 [Gunbreaker Primer](/jobs/tanks/gunbreaker/basic-guide/)
 <br> Visit for gunpowder blasting tips. 
 
-### Websites:
+## Websites:
 
 [The Balance Discord](https://discord.gg/thebalanceffxiv)
 <br>Visit for chat and questions. 
@@ -623,7 +623,7 @@ Total amount of Weapon skills per 90 seconds:
 [TheoryJerks/AkhMorning](http://theoryjerks.akhmorning.com/stats/speed/)
 <br>Visit for stat intervals and formulas. 
 
-### Miscellaneous:
+## Miscellaneous:
 
 #### How do Macros work?
 
@@ -642,9 +642,9 @@ Macro targets:
 
 - - -
 
-## Acknowledgment
+# Acknowledgment
 
-### Authors:
+## Authors:
 
 Mox Xinmagar 	(Mox#0007)
 
@@ -652,7 +652,7 @@ Glu Kos		(Glukos#1104)
 
 Sizzy Twintails	(Sizouney#4484)
 
-### Special thanks to:﻿
+## Special thanks to:﻿
 
 Aletin Ves’ser 	(Aletin#3164)
 For the [PLD guide](https://docs.google.com/document/d/1JY2t2GvNaNnQhZ5Isp-HIso2JgGMY6WXk5IGAY2v8AU) that was cloned, slaughtered and modified to make this guide.

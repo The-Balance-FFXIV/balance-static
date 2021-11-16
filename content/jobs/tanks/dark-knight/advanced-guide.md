@@ -19,9 +19,9 @@ changelog:
   - date: 2019-09-11T17:42:34.091Z
     message: E3S, E4S added. Additional information on Salted Earth added.
 ---
-## An In Depth look at Dark Knight - Shadowbringers Edition
+# An In Depth look at Dark Knight - Shadowbringers Edition
 
-### An advanced guide to the class
+## An advanced guide to the class
 
 *Last Update: 11/09/2019 - E3S, E4S added. Additional information on Salted Earth added.*
 
@@ -40,7 +40,7 @@ Disclaimer
 
 ![Part 1](https://cdn.discordapp.com/attachments/752334526449057853/884865369368588308/unknown.png)
 
-## Part 1: The Changes from Stormblood to Shadowbringers
+# Part 1: The Changes from Stormblood to Shadowbringers
 
 With the release of the expansion, Dark Knight has radically changed. The playstyle has shifted from an oGCD active, speed oriented class, to a high-potency heavy hitter, focused on Burst potential as opposed to consistent damage. Here’s a description of the major changes that have happened to the job.
 
@@ -70,11 +70,11 @@ Hopefully players will be able to adjust accordingly, and enjoy the class to its
 
 ![Part2](https://cdn.discordapp.com/attachments/752334526449057853/884866057796472852/unknown.png)
 
-## Part 2: The Basics - General Tips and Tricks
+# Part 2: The Basics - General Tips and Tricks
 
 General rundown for anyone somewhat new to Dark Knight. If you’ve played the class to 80, you should have a general idea of what to do.
 
-### Offensive -
+## Offensive -
 
 1. **Always be casting.** The most important rule for any job is to ensure that your GCD is always rolling, and your character always attacking. GCDs will be your primary source of damage and resource generation.
 2. Use all offensive OGCDs **on cooldown** (Plunge, Blood Weapon (BW), Delirium, C&S, Salted Earth, Living Shadow). Ensure that Blood and Mana will not cap while using Blood Weapon or Delirium.
@@ -92,7 +92,7 @@ General rundown for anyone somewhat new to Dark Knight. If you’ve played the c
    * Delirium > Quietus spam
    * Flood of Shadow (2+ targets) - always save mana for TBN.
 
-### Defensive -
+## Defensive -
 
 1. If Main/Primary tanking, ensure that **Grit** is on at all times. Since the damage penalty has been removed, there is no reason to not have it on (unless threat manipulation is necessary).
 2. Ensure that you **always have a cooldown** prepared for a tank buster. Shadow Wall is the typical “Buster Fodder” cooldown, but Dark Mind can also be used on magical busters to allow for more tank busters to be taken.
@@ -105,11 +105,11 @@ Note that this list is a generic quick-list guide, and is not meant for optimiza
 
 ![Part 3](https://cdn.discordapp.com/attachments/752334526449057853/884868128201388092/unknown.png)
 
-## Part 3: Map Your Cooldowns - Defensive utilization
+# Part 3: Map Your Cooldowns - Defensive utilization
 
 Defensive cooldowns can be interestingly utilized, and for the most part, are completely variable based on the fight, your co-tank, and what is best for your raid group. One static progressing through a fight will have a completely different skill rotation used compared to yours, and it may be just as viable. Work with your team in order to find out what works best for you.
 
-### Dungeons and Grinding
+## Dungeons and Grinding
 
 With the loss of the cross-role “filler” cooldowns, we have a few less tools for defensive optimization when it comes to AoE packs in dungeon runs, as they are typically more dangerous than the bosses throughout dungeons. The core concept of efficient dungeon pulling is to always have cooldowns available for the next pull. Here’s some general tips in order to ensure that you don’t overburden your group.
 
@@ -118,7 +118,7 @@ With the loss of the cross-role “filler” cooldowns, we have a few less tools
 3. **Rarely stack two cooldowns** (not counting TBN). Fights in dungeons are about long-term mitigation as opposed to burst mitigation, and having more overall duration of cooldowns is typically better than instant burst of safety. If you have a planned large pull that will take coordinated healing and mitigation, stack cooldowns as you and your group feel is necessary.
 4. Use **Abyssal Drain** to recover in between cooldown lulls. Depending on the group, Abyssal can easily heal half of your health pool in one sitting - make sure not to waste the timing of a use on strictly damage.
 
-### The Blackest Night
+## The Blackest Night
 
 **The Blackest Night**, when used effectively, has a significant impact on the damage you receive from Tank Busters, or spots where healers cannot heal you effectively. It is a 25% HP shield that is taken into effect *after other mitigation has been applied*, meaning it gets stronger when used with other cooldowns. Cleverly used, this can help a great deal in reducing the amount of incoming healing required on you. Play with effective usage of TBN, and see how your healers can use the shield effectively, if at all. 
 
@@ -141,7 +141,7 @@ Dark Knight currently does 277 Potency per Second (a simplified measure of Damag
 
 TLDR: **TBN should always be used defensively before offensively.** Plan your cooldowns according to the needs of the fight. Optimization of DPS is secondary to raid survival.
 
-### Raiding - Cooldowns, Mitigation, and You
+## Raiding - Cooldowns, Mitigation, and You
 
 A tank’s primary role will always be the defensive, and how to mitigate your incoming damage. It’s important to plan, learn, and optimize their use in order to improve the success of your raid group and support them to the best of your ability. 
 
@@ -158,7 +158,7 @@ Here’s some additional tips with regard to using your personal defenses to the
 5. An additional option for tank swapping would be the manipulation of **Tank Stances**. Simply having the current MT turn off tank stance and turning yours on before a provoke swap will allow you to easily overtake them in threat, while maintaining close threat to each other should the need arise.
 6. **Your DPS have mitigation abilities as well.** All Melees have Feint (-10% phys), Ranged have a Troubadour variant (-10% DMG), Bards have Nature’s Minne (+20% healing), and Casters have Addle(-10% magic). Discuss mitigation options with your raid group for optimal play.
 
-### Assisting Your Team - Secondary Tank and Raid Mitigation
+## Assisting Your Team - Secondary Tank and Raid Mitigation
 
 Shadowbringers brings two valuable tools to a Dark Knight’s “Raid Mitigation” arsenal - **The Blackest Night** received a massive buff to it’s alternate-target use (also being 25%), as well as the addition of **Dark Missionary**, a raid-wide damage mitigation cooldown.
 
@@ -166,7 +166,7 @@ For Secondary-Tank use, TBN can be used similarly to using it on yourself (eithe
 
 Dark Missionary should be planned along with your raid group for optimal use. Develop a map along with the rest of your raid group in order to get the best use of this skill. Depending on the fight, multiple uses of small cooldowns may be better than stacking them, in order to spread out the safety of the encounter. 
 
-### Cross Role Actions
+## Cross Role Actions
 
 **Rampart** is a raw self-damage reduction as it has always been. Rampart is best used as a Tertiary cooldown after Shadow Wall and Dark Mind have been mapped, in order to either fill in gaps in defenses, or allow for additional mitigation in extra parts of an encounter.
 
@@ -176,13 +176,13 @@ Dark Missionary should be planned along with your raid group for optimal use. De
 
 - - -
 
-## Part 4: Offensive Optimization Tips
+# Part 4: Offensive Optimization Tips
 
 Dark Knight joins a niche similar to Warrior, with the changes to Delirium allowing for multiple gauge-spenders to be used freely. With both pooling and spending resources in raid buffs, and the use of Delirium granted Bloodspillers, Dark Knight leans more towards Burst Damage Offense.
 
 The most important part of ensuring that you are able to perform well on Dark Knight is the proper pooling and dumping of your resources. A Dark Knight will generate 12,000-13,000 mana per minute, and ideally, all of this mana will be used when you are able to abuse raid buffs. Edge of Shadow and Bloodspiller are both incredibly high potency in relation to the rest of your kit, and should be maintained and manipulated appropriately in order to make the best of your new damage role in the raid. Here’s some optimization tips which should be able to help you perform to the best of your ability.
 
-### Dungeons and Spamming
+## Dungeons and Spamming
 
 Much has been changed so far as the AoE game with regards to Dark Knight. While the resource management and adjustment is gone, there’s still some interesting ways to maximize your DPS in a dungeon encounter, and ensure you contribute more than simply keeping threat.
 
@@ -199,7 +199,7 @@ Much has been changed so far as the AoE game with regards to Dark Knight. While 
 
 A successful dungeon run does not only rely on the DPS to dish out the damage - it relies on everyone to do their part. After you’ve mitigated what damage you can, ensure that you’re supporting your team with added damage.
 
-### Edge of Shadow
+## Edge of Shadow
 
 ![edge of shadow](https://cdn.discordapp.com/attachments/752334526449057853/884870227958059058/unknown.png)
 
@@ -212,7 +212,7 @@ FoS being 300 potency means that it should always be used on two or more targets
 
 Should you not have Trick Attack in your raid group, your resources are only limited to the 2m/3m raid buff timers, and you will need to cast E/FoS outside of raid buffs more often. The downside to the current build of Dark Knight is that it only allows one TBN use per minute before it is technically a DPS loss (with a ninja). Luckily, the DPS loss is incredibly minor, as spoken about in the defensive section here - [The Blackest Night](#the-blackest-night)
 
-### Delirium and Bloodspiller
+## Delirium and Bloodspiller
 
 Delirium’s change allows for Dark Knight to have two distinct burst windows - Trick Attack, and Delirium. While these windows sometimes overlap, they are for the most part separate. The larger peaks are Trick Attack windows, with Delirium acting as a sort of DPS smoothing effect over time. 
 
@@ -222,7 +222,7 @@ As always, with self-buffs, ensure that you’re using them at the **tail end of
 
 ![tailend](https://cdn.discordapp.com/attachments/752334526449057853/884870696864456704/unknown.png)
 
-### Living Shadow
+## Living Shadow
 
 ![living shadow](https://cdn.discordapp.com/attachments/752334526449057853/884870856600350720/unknown.png)
 
@@ -240,7 +240,7 @@ In order to effectively use Living Shadow, we must understand how Living Shadow 
 Currently myself and my fellow friends in The Theoryjerks are working on nailing the equations down for your use. TLDR: LS scales better than you do with STR.
 The ideal time to summon LS is before raid buffs are applied, as Living Shadow has a six second “Activation delay” before it starts attacking, The secondary goal is to activate before Trick Attack/Chain Stratagem. Achieving this dynamic can be difficult, but in general **using Living Shadow before raid buffs activate** should be your priority. If there is a disconnect between your raid buffs, adjust accordingly.
 
-### Raid Buffs and how to use them
+## Raid Buffs and how to use them
 
 Here’s a brief display of raid buffs which will affect your damage. Plan your uses of E/FoS and oGCDs accordingly. It is important to remember what parts of our kit are what types of damage so we do not use wrong abilities accordingly. 
 
@@ -278,9 +278,9 @@ As you can tell, not everything will line up perfectly, but there are some windo
 
 - - -
 
-## Part 5: Openers and Substats
+# Part 5: Openers and Substats
 
-### Openers (updated 08/08/19)
+## Openers (updated 08/08/19)
 
 The opener listed here is fairly good for all content currently, however, you may wish to alter your opener to the fight and your raid buffs. This Tank Opener Calculator is designed to help you alter your opener as you see fit, with options for pull timings, buff timings, and different raid groups.
 
@@ -306,7 +306,7 @@ Salted earth is moved earlier to allow for Edge of Shadow usage to prevent overc
 ![spreadsheet](https://cdn.discordapp.com/attachments/752334526449057853/884872133459726376/unknown.png)
 ![spreadsheet 2](https://cdn.discordapp.com/attachments/752334526449057853/884872172831649792/unknown.png)
 
-### 5.05 BiS
+## 5.05 BiS
 
 If you wish to see what your current gear can do for your personal DPS, [this Tank DPS Calculator tool](https://bit.ly/2Xw6F6G) will be able to help you with any gear or melding decisions. 
 
@@ -323,7 +323,7 @@ This set will be your go-to for all gearing options. This set is built slow, run
 
 A few additional gear choices [can be found here](https://docs.google.com/spreadsheets/d/1rN9Mrs2BqkhH7-tAi_JH6sDkGrnu0J0HqeQzktfVRvE/edit#gid=392554910) (they are focused on Paladin, however they can be used for Dark Knight as well), however, most changes can be made to personal preference based on gear and melding choices. Play around with the DPS calculator, and meld what you want to meld!
 
-### Stats, and Reasoning
+## Stats, and Reasoning
 
 For the most part, Square Enix has worked hard balancing the playstyles to adapt to different SKS tiers. Across the board, the variables on substats have been greatly altered in order to incentivize a greater “Gear how you want” style between substats. With an increased effect of Materia melding and their share on the substat amount, having a choice in your gear has greatly changed from Stormblood. If you wish to see what changes of substats will do for you personally you can use [this Gear Calculator](https://docs.google.com/spreadsheets/d/1MTZ2oYyLo2P6NEVj3LuLo1aL88f2cPr_4wnxYWygVSA/edit?usp=sharing) to give you a fairly accurate read on any changes you may make.
 
@@ -354,9 +354,9 @@ TL;DR - It’s tricky to put a proper weight on SKS. Gained GCDs are always huge
 
 - - -
 
-## Frequently Asked Questions, and Fight Optimization
+# Frequently Asked Questions, and Fight Optimization
 
-### F.A.Q.
+## F.A.Q.
 
 #### Should I hold Plunge or use it on Cooldown?
 
@@ -412,9 +412,9 @@ There are two potential reasons that you’re unable to land those hits -
 
 Some light testing has shown that **Blood Weapon does not have the same leeway as other buffs**, meaning that it does not last that extra bit of give that similar buff timings such as Delirium or Inner Release have (this needs to be verified and might take a while to be accurate, however personal testing across multiple people has shown this to be the case). The good news is that losing a hit on Blood Weapon is not as damaging as losing Delirium, however, multiple uses throughout the fight can add up to lost potency. If you’re having issues, a light investment in Skill Speed might be the way to go.
 
-## Fight Specific Optimization and Tips
+# Fight Specific Optimization and Tips
 
-### Eden Savage
+## Eden Savage
 
 #### Eden Prime
 
@@ -456,7 +456,7 @@ Some light testing has shown that **Blood Weapon does not have the same leeway a
 * TBN will pop with every Y/O/B marker explosion, and will take two auto attacks to pop otherwise. Make sure you’re using your TBNs effectively throughout the encounter to reduce your healing load. 
 * Titan’s hit box is quite large in Phase 2. Because of this, if you are attacking the forward healer gaol, you can cleave the gaol and the boss with Flood of Shadow and Unleash>Stalwart combos for more overall damage for the fight (if your healer isn’t in danger, of course!)
 
-### Extreme Trials
+## Extreme Trials
 
 #### Titania
 
@@ -478,7 +478,7 @@ Some light testing has shown that **Blood Weapon does not have the same leeway a
 
 - - -
 
-## Credits
+# Credits
 
 Emiin Vanih - [Lodestone](http://na.finalfantasyxiv.com/lodestone/character/7965813/) || [FFLogs](https://www.fflogs.com/character/id/53181) || [Twitch](https://www.twitch.tv/emiinv) || [Twitter](https://twitter.com/emiin_v) || Discord - Emiin#0178 
 <br>Find me on my [Discord Server!](https://discord.gg/7Nb2JZ2)

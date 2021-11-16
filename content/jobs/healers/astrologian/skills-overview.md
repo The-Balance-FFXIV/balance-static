@@ -8,7 +8,7 @@ changelog:
   - date: 2021-10-26T20:48:51.241Z
     message: "Article created. "
 ---
-## Actions
+# Actions
 
 | Icon                                                                  | Action                 | Level | Type    | MP    | Casting | Recast | Description                                                                                                                                                                                                                               |
 | --------------------------------------------------------------------- | ---------------------- | ----- | ------- | ----- | ------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -46,7 +46,7 @@ changelog:
 | ![Horoscope](https://xivapi.com/i/003000/003550_hr1.png)              | Horoscope              | 76    | Ability |       | Instant | 60s    | Reads your fortune and those of nearby party members, granting them Horoscope.                                                                                                                                                            |
 | ![Neutral Sect](https://xivapi.com/i/003000/003552_hr1.png)           | Neutral Sect           | 80    | Ability |       | Instant | 120s   | Increases healing magic potency by 20%. Aspected Benefic and Aspected Helios receive the effects of both Diurnal Sect and Nocturnal Sect.                                                                                                 |
 
-## Arcana
+# Arcana
 
 Arcana actions comprise abilities provided by drawing a random card from the astrologian deck.
 
@@ -61,7 +61,7 @@ Arcana actions comprise abilities provided by drawing a random card from the ast
 | ![Lord of Crowns](https://xivapi.com/i/003000/003147_hr1.png) | Lord of Crowns | 66    | Ability |     | Instant | 1s     | Increases damage dealt by a party member or self by 8% if target is melee DPS or tank, or 4% for all other roles.    |
 | ![Lady of Crowns](https://xivapi.com/i/003000/003146_hr1.png) | Lady of Crowns | 66    | Ability |     | Instant | 1s     | Increases damage dealt by a party member or self by 8% if target is ranged DPS or healer, or 4% for all other roles. |
 
-## Healer actions
+# Healer actions
 
 | Icon                                                          | Action         | Level | Type    | MP  | Casting | Recast | Description                                                                                                                               |
 | ------------------------------------------------------------- | -------------- | ----- | ------- | --- | ------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------- |

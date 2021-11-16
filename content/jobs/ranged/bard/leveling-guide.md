@@ -9,7 +9,7 @@ changelog:
   - date: 2021-10-26T02:15:03.972Z
     message: Created page
 ---
-## A Guide For Bards That Aren’t Level 80 Yet
+# A Guide For Bards That Aren’t Level 80 Yet
 
 While the main Balance guide is focused on level 80 gameplay, I thought it’d be nice to have something people can follow as they level. 
 
@@ -19,7 +19,7 @@ So, here are some general outlines for various level ranges, and tips for what s
 
 If anything is confusing, feel free to ping Sana Cetonis (Cetonis#8918) on The Balance discord server -- it may mean something in the guide can be made more clear, so tip offs are welcome!
 
-## Levels 1-29
+# Levels 1-29
 
 You’ll move through the Archer levels fairly quickly, but even by level 6 you have a couple important concepts introduced.
 
@@ -61,7 +61,7 @@ While bosses will often be immune to your various grazes, they can be handy for 
 
 With Foot Graze, one cute trick is to know that DoT ticks don’t break the bind. So you can drop a Venomous Bite on something, bind it, then fight something else for ten seconds before the bound guy can come after you (then you can Leg Graze and just kite it around). 
 
-## Levels 30-44
+# Levels 30-44
 
 Two big changes happen right at level 30. 
 
@@ -107,7 +107,7 @@ Quick Nock is still going to be your go-to for large groups of mobs. But, if you
 
 It’s tough to place an exact number value on Bloodletter or Army’s procs in an AoE (area of effect, shorthand for fighting a pack of enemies) situation because there are a lot of factors, but it’s not a bad dynamic to get used to. Because level 45 brings a notable change…
 
-## Levels 45-51
+# Levels 45-51
 
 Rain of Death is a big deal. 130 potency in an area on the same cooldown as Bloodletter, so it will be better than Bloodletter against two or more enemies. 
 
@@ -117,7 +117,7 @@ It can be a little more art than science, but if you’re going to have Mage’s
 
 You also learn Battle Voice at level 50, which is a solid group buff. Until you get into endgame optimization, it’s fine to just press it whenever it’s available, so long as the group will have stuff to hit for the next 20 seconds.
 
-## Levels 52-63
+# Levels 52-63
 
 Note that your levels 52, 54 and 56 skills require doing Heavensward job quests. You need to be on the 3.0+ main story quests to unlock them.
 
@@ -169,7 +169,7 @@ This is one of the standard Bard openers, all the way through the rest of the ga
 
 P.S. Don’t forget to use future Ragings a couple GCDs into WM, to raise the odds of getting buffed Pitch Perfects. We only use it early at the start of fights because we’re applying fresh DoTs.
 
-## Levels 64-79
+# Levels 64-79
 
 By now, you’ve learned all the fundamentals of the Bard kit. The main additions from here on out turn up the dial on how often you’ll be getting various procs:
 
@@ -201,7 +201,7 @@ Shadowbite is an AoE version of Sidewinder, sharing a cooldown. Use it on dungeo
 
 Enhanced Army’s Paeon has a huge tooltip for a small effect - basically, it carries a portion of your AP speed bonus into your next song (typically WM). A lot of the tooltip complexity is just saying it’s fine if your AP runs out, and there’s a gap before said WM. 
 
-## Level 80
+# Level 80
 
 Congrats! You’ll learn Apex Arrow here; in short, just use it when the bar is full.
 

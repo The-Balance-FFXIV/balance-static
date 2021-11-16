@@ -124,7 +124,7 @@ bis:
 ---
 # Paladin Best in Slot
 
-## Gear Priority and Pre-BiS
+# Gear Priority and Pre-BiS
 
 Day one prog set(s) will be listed immediately when a new tier is released, but pre-BiS will otherwise not be maintained on this page. Use the Tank Gear Manager (https://bit.ly/TankDPSCalc520) to make your own gearing decisions based on personal loot availability. Prioritizing item level over substats is encouraged while learning new encounters.
 
@@ -137,7 +137,7 @@ However, if progression gear does not provide enough skill speed for personal pr
 
 --- 
 
-## Best in Slot (5.55)
+# Best in Slot (5.55)
 
 > 2.43 and 2.41 are suggested for optimization except with latency or other consistency issues causing unreliable mechanic/phase timings. Listed speeds assume food is active.
 
@@ -179,7 +179,7 @@ However, if progression gear does not provide enough skill speed for personal pr
 
 --- 
 
-## Level 80 Ultimate
+# Level 80 Ultimate
 
 Augmented Law's Order weapons (515) or Blade's weapons (535) are optimal for synced content. Both have similar tiering in this content, so fully-upgrading the weapon is not essential, but Blade's weapon may reduce the dungeon grind if available:
 
@@ -199,7 +199,7 @@ Augmented Law's Order weapons (515) or Blade's weapons (535) are optimal for syn
 
 --- 
 
-## Level 70 Ultimates
+# Level 70 Ultimates
 
 For level 70 ultimates, simply sync any level 80 gear with critical hit + determination and enough skill speed for personal preference at or above ilvl 418 (UCoB) or ilvl 470 (Ultima). Melds on synced gear are ignored, but built-in stats will be capped if the gear's original item level is high enough.
 
