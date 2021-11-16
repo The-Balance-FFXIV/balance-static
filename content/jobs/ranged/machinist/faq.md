@@ -1,7 +1,7 @@
 ---
 title: Machinist FAQ
-patch: "5.58"
 layout: qna
+patch: "5.58"
 lastmod: 2021-10-25T22:05:59.009Z
 changelog:
   - date: 2021-10-25T22:06:08.013Z
@@ -13,7 +13,7 @@ qna:
       conditions are met:
 
 
-      1. Drill and Air Anchor have more than eight to ten seconds left on cooldown
+      1. Drill and Air Anchor have more than eight to ten seconds left on cooldown.
 
       2. You will not break your combo. (It will break if you try to carry it over HC + Drill + Anchor.)
 
@@ -25,7 +25,7 @@ qna:
       Hypercharge.
   - question: Should I double weave between Heat Blasts?
     answer: No. 1.5s GCD allows a single weave only.
-  - question: How do I use Wildfire? How many CGDs should it fit?
+  - question: How do I use Wildfire? How many GCDs should it fit?
     answer: Pair it with Hypercharge to get six GCDs into it. Wildfire can be used
       one GCD before or after Hypercharge but double weaving (Wildfire →
       Hypercharge) is the most ping friendly. It should fit five Heat Blast/Auto
