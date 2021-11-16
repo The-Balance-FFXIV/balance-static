@@ -1,17 +1,12 @@
 ---
 title: Red Mage FAQ
-patch: "5.58"
 layout: qna
+patch: "5.58"
 lastmod: 2021-10-26T01:27:16.438Z
 changelog:
   - date: 2021-10-26T01:27:20.609Z
     message: Created page
 qna:
-  - question: What is XIVAnalysis?
-    answer: "XIVAnalysis is a tool aimed at helping you improve your performance,
-      through both automatic suggestions and metrics. None of the metrics are
-      fight specific, but it is very useful to see your general performance at a
-      glance. When we look at your logs in #rdm_questions, we use XIVA."
   - question: Isn't Engagement worse than Displacement?
     answer: >-
       Engagement is 50 less potency than Displacement, however, unlike
@@ -57,7 +52,7 @@ qna:
       the 5th GCD based on your party composition, and on cooldown from there
       onwards. The damage you gain from your party members exceeds what you gain
       from your personal GCDs. "
-  - question: Should we avoid SpS?
+  - question: Should we avoid Spell Speed?
     answer: It is generally advisable to avoid SpS as much as possible when choosing
       your gear. Most tiers prefer a 2.5s GCD, but there are also times where a
       2.48s or a 2.49s GCD is acceptable.
