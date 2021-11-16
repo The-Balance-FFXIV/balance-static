@@ -19,12 +19,14 @@ qna:
       In a single Manafication cycle, it is possible to get four Engagements, as opposed to only three Displacements. This means that by exclusively using Engagement on cooldown, you will get an equal potency value to if you were to use three Displacements. You can also use this philosophy to alternate between the two, which can result in a potency gain over either aforementioned option.
   - question: My melee combo is ready but I still have procs! What do I do?
     answer: >
-      * If you have a proc of your lower Mana, use it before going into your
-      melee combo (i.e. 84|82 with Verfire proc, use Verfire > Veraero to become
-      95|91 before going into melee combo and get another 100% Verfire from
-      Verflare).
+      If you have a proc of your lower Mana, use it before going into your melee
+      combo (i.e. 84|82 with Verfire proc, use Verfire > Veraero to become 95|91
+      before going into melee combo and get another 100% Verfire from Verflare).
 
-      * If you have both procs, dump the proc of your lower mana before going into your melee combo (i.e. 80|85 with both procs, use Verstone > Verthunder to become 89|96 before going into melee combo and get another 100% Verstone from Verholy).
+
+
+      If you have both procs, dump the proc of your lower mana before going into your melee combo (i.e. 80|85 with both procs, use Verstone > Verthunder to become 89|96 before going into melee combo and get another 100% Verstone from Verholy).
+
 
 
       If you have a proc of the lower mana, but your mana level is too high to avoid excessive overcap (i.e. 99/97 with Verfire proc), you can use Acceleration to force a proc of the higher mana, as long as it won't cause you to imbalance.
