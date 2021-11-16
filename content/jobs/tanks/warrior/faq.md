@@ -61,8 +61,7 @@ qna:
   - question: How do I play WAR?
     answer: "[The 5.x Guide](/jobs/tanks/warrior/basic-guide/)"
   - question: What do I meld?
-    answer: Check the [Stats and Materia](/jobs/tanks/warrior/stats-and-materia/)
-      guide!
+    answer: Check the [Stat Priority](/jobs/tanks/warrior/stat-priority/) page!
   - question: Why can't I fit five Fell Cleaves inside Inner Release?
     answer: >-
       Pop Inner Release when your GCD looks like this:  
