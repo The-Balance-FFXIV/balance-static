@@ -12,7 +12,7 @@ theme = "glam"
 
 [markup]
   [markup.tableOfContents]
-    endLevel = 3
+    endLevel = 2
     startLevel = 1
 
 [menu]
