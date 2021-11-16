@@ -23,7 +23,7 @@ Note: Use F3 and T3 procs as you get them, but don't cancel casts to use procs.
 
 ## Level 60-71
 
-B3 > Blizzard IV > T3 > F3 > F4 (x3) > F1 > F4 (x3) > Despair > Repeat
+B3 > Blizzard IV > T3 > F3 > F4 (x3) > F1 > F4 (x3) > Repeat
 
 Use Foul whenever.
 
