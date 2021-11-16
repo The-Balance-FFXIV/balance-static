@@ -2,13 +2,13 @@ backend:
   name: github
   repo: The-Balance-FFXIV/balance-static
   branch: main
-  base_url: https://auth.xivresources.com
-  site_domain: guides.xivresources.com
+  base_url: https://auth.thebalanceffxiv.com
+  site_domain: thebalanceffxiv.com
   cms_label_prefix: cms/
 publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
-site_url: https://guides.xivresources.com
+site_url: https://thebalanceffxiv.com/
 show_preview_links: true
 ###
 # Be careful in editing this; discuss in website channels first!
