@@ -3,6 +3,7 @@ title: Black Mage Basic Guide
 card_header_image: /img/jobs/blm/basic.png
 authors:
   - caro-kann
+  - rika-vanih
 patch: "5.58"
 lastmod: 2021-10-26T01:47:17.671Z
 changelog:
