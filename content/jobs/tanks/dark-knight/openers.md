@@ -2,6 +2,7 @@
 title: Dark Knight Openers
 authors:
   - Balance-DRK-Staff
+  - silaqui-amakiir
 patch: "5.5"
 lastmod: 2021-10-27T17:35:05.040Z
 changelog:
