@@ -70,6 +70,7 @@ Lilies and their associated spells will be expanded on further on in this guide,
 ## Afflatus: Rapture
 
 The other Lily heal and a fundamental component of WHM healing at 80; Rapture is a free, instant, and larger radius Medica that allows for moving and weaving while also refunding some damage via the Lily system. Ideal use of Rapture is to cover movement, weave oGCDs, and heal the party a bit, or to blow it in downtime for free Misery casts. Once again, the Lily system will be expanded on farther below.
+
 ## Healing oGCDs
 
 ## Tetragrammaton (Tetra, Tet)
