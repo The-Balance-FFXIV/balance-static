@@ -1,7 +1,7 @@
 ---
 title: Dark Knight FAQ
-patch: "5.5"
 layout: qna
+patch: "5.5"
 lastmod: 2021-10-27T17:50:26.715Z
 changelog:
   - date: 2021-10-27T17:50:54.106Z
@@ -27,6 +27,8 @@ qna:
       Delirium at the same time. Unless you know your kill-time and that holding
       one or the other will not lose a usage, do not hold either Blood Weapon or
       Delirium.
+authors:
+  - silaqui-amakiir
 ---
 # Frequently Asked Questions
 
