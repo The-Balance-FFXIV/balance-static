@@ -3,6 +3,7 @@ title: Black Mage Leveling Guide
 card_header_image: /img/jobs/blm/leveling.png
 authors:
   - Fürst-Blumier
+  - rika-vanih
 patch: "5.58"
 lastmod: 2021-10-26T01:45:29.673Z
 changelog:
