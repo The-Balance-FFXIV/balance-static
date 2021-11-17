@@ -3,7 +3,7 @@ title: Credits
 menu:
   footer:
     name: Credits
-    parent: pages
+    parent: info
 ---
 # Contributors
 
