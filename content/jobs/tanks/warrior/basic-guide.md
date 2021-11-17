@@ -585,23 +585,6 @@ Total amount of Weapon skills per 90 seconds:
 
 - - -
 
-# Raid Tips and Tricks
-
-## Eden
-
-[http://bit.ly/WAR_E1-4s_tips ](http://bit.ly/WAR_E1-4s_tips)
-
-## The Epic of Alexander
-
-<http://bit.ly/WAR_TEA_Notes>
-
-#### VOD of Perfect Alexander opener by Ramza
-
-<https://www.twitch.tv/videos/547866534> 
-<br> This opener is optimal assuming you get Stillness first
-
-- - -
-
 # Additional Resources
 
 ## Guides:
