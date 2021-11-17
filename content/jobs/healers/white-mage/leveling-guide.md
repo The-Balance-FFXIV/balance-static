@@ -17,13 +17,13 @@ changelog:
 
 Leveling White Mage allows you access to some of the smoothest dungeon runs in the game, due to the supremely high damage output when crowd controlling enemy groups and the nature of the job in general.
 
-*But to get there, you first must begin on the road.*
+*But to get there, you must first begin on the road.*
 
 Unlocking White Mage is done upon reaching level 30 with the Conjurer class and completing the quest Seer Folly after completing the MSQ quest Sylph-management.
 
 # Words of Note
 
-Playing a Healer in Final Fantasy XIV is different than what you’d expect in many similar games. Ideally, you want to be doing *as much **damage** as possible, and as little **healing** as possible.* The damage of White Mage is generally extremely high (especially later with a spell learned at level 45!)
+Playing a Healer in Final Fantasy XIV is different than what you expect in many similar games. Ideally, you want to be doing *as much **damage** as possible, and as little **healing** as possible.* The damage of White Mage is generally extremely high (especially later with a spell learned at level 45!)
 
 **White Mage** is what’s known as a “Regen" or "Pure” Healer, meaning most of their healing either comes from regenerative ('regen') spells, or direct healing from their spells and abilities.
 
@@ -51,15 +51,15 @@ Some things to help you along are buffs you can apply.
 
 - - -
 
-# Level 1 to 30
+# Levels 1 to 30
 
 ![](https://lh3.googleusercontent.com/x8z6Klh7w5Mb2PscrKUh7i_FbVlBmAwz17S7EdV-K1cQr9CliqmGPGd2SNAXsZZvx7aU0B5jWKR_1CyAT6k2u3MpfGQ8DT9DNf0Cc14DNu7aF3e4j8X_xIEqsYWtUzfE4tlainXd)
 
-## Skills & Spells (1 to 30)
+## Skills, Spells & Abilities (1 to 30)
 
 ![](https://lh6.googleusercontent.com/DU4dG8VZl2nY2XpQYruHQG2ChmH6TuGVtGFWxznsQZuSf7OPCq_hnDSMxkQXAhaRmYTXsQuX0DEIOukI5QzmWjvGPo9wsvq6e0l0CKqYp7yUCbKMcJ4H_iHiTm6zxNyiS3QQxNXD)
 
-At first, you will be limited to a very basic set of skills, including; 
+At first, you will be limited to a very basic set of actions, including: 
 
 **\[Lvl 1] Stone**
 
@@ -149,7 +149,7 @@ Typically, you want to use this whenever your MP is at 8500 or less as to avoid 
 
 To begin, your gameplay will be *extremely* bare bones and basic, and you should be focusing on casting Aero every ~15 seconds to refresh the damage over time effect, continuously casting Stone for your damage and casting Cure whenever health totals are dropping.
 
-**A word of note however**; one common pitfall of healing in Final Fantasy XIV is the mindset of keeping everyone at 100% HP at all times. 
+**A word of note however**: one common pitfall of healing in Final Fantasy XIV is the mindset of keeping everyone at 100% HP at all times. 
 
 **Do not do this.** There is no need to keep everyone completely healed at all times, the sole requirement is to keep everyone alive. However, do not take this as a go-ahead to play limbo with your health totals, as this will lead to many fumbles in the future.
 
@@ -157,11 +157,11 @@ To begin, your gameplay will be *extremely* bare bones and basic, and you should
 
 When it comes to leveling in general, for your first class/job, it’s imperative that you do your Main Scenario Quests, as the EXP these give you will easily level you from 1 - 80 doing them alone.
 
-That said, and this goes for every block of leveling; spamming your highest level dungeon is usually the best way to gain the most EXP if you’re out of dailies/weeklies to do. (As of patch 5.58, this may change with the release of Endwalker).
+That said, and this goes for every block of leveling; spamming your highest level dungeon is usually the best way to gain the most EXP if you’re out of dailies/weeklies to do. (As of patch 5.58, this may change with the release of Endwalker.)
 
 - - -
 
-# Level 30 - 50
+# Levels 30 - 50
 
 ![](https://lh6.googleusercontent.com/np_Xe0aW5KxBFi8ny7HROHT-H1eL-nbOrC1ETa4Y2JLUZFarp47aNgUZIlJbDzScSFlTkpHio_BDaXaJtpp6ENmxb6MNLoXp01N3EVlOZ9T9a_MkPenyDEzSpJ3pZ3nlh2GveXea)
 
@@ -215,7 +215,7 @@ Cure III is a large 550p AoE heal with a small 6 yalm radius, making it a good s
 
 ![](https://lh5.googleusercontent.com/6X-QAI5bL3g_s2a3gWhW5zzNxITwPRHseKhsXxPedA_ksbOgJpTiIbgO_toIpoCkS7QG1nFgosvKyMybFW1qSjizJPLltyswgrXIkNLRob7fOKw75OoLDLevffoc9xJjYzfVKeV9)
 
-Surecast is an ability that’s shared amongst all casters, and simply makes you immune to having your spells interrupted for six seconds as well as making you immune to mechanics that knock you back or draw you in. 
+Surecast is an ability that’s shared among all casters, and makes you immune to having your spells interrupted for six seconds as well as making you immune to mechanics that knock you back or draw you in. 
 
 (Example: Leviathan)
 
@@ -241,7 +241,7 @@ Aero II acts as a direct upgrade to the original Aero spell.
 
 Rescue is… Dangerous.
 
-Rescue is a role action shared by all healers and it drags your targeted party member to you. Be careful when using this or risk drawing the ire of your party.
+Rescue is a role action shared by all healers and it drags your targeted party member to you. Be careful when using it or risk drawing the ire of your party.
 
 Really, just use it when someone is standing inside an AoE when it is obvious they cannot make it out of danger in time.
 
@@ -257,7 +257,7 @@ Benediction is a massive single target healing ability that restores 100% of you
 
 Medica II is not an “upgraded” version of the original Medica, but should be treated as such.
 
-Medica II has a larger radius than Medica and applies a 100 potency regen effect for 15s for a total of 500 potency.  The initial heal is smaller than Medica, but in total it's a larger heal than Cure III and will cover a most of your AoE healing into the 70s.
+Medica II has a larger radius than Medica and applies a 100 potency regen effect for 15s for a total of 500 potency. The initial heal is smaller than Medica, but in total it's a larger heal than Cure III and will cover most of your AoE healing into the 70s.
 
 Medica II is almost always better than Medica on account of the extra potency, but in the event Medica II is already ticking and the party needs healing, Medica or Cure III remain good options.
 
@@ -275,7 +275,7 @@ As for tips with leveling, make sure to do your leveling roulette every day, and
 
 - - -
 
-# Level 50 to 70
+# Levels 50 to 70
 
 ![](https://lh6.googleusercontent.com/GxNKbDnpiIEAZtGcIRHR1UD57Vfh-gwmq0ErpNea7cYSvUnekFIYn4qeefZVQvyx_XVZNxMQseDzunpFnOQxpWmmPIv6m1MNQIj8oFQoB706vW_Qn6YLcbxo4l7kozR61CepwODy)
 
@@ -299,7 +299,7 @@ Congratulations, you just earned your first Lily spell. Afflatus Solace adds a n
 
 ![](https://lh6.googleusercontent.com/58uzwHpAwmC2Sn31npyuj5bWaJMegqZ1635p2Y3xSqhfFWeaupVVgAP84lktlgznVQp5zyB2ZYaA8mdov2yD2LF1CucUswfQRbhOGIXPeUcdjyLK3ASWWtY49bRCWcxklM_1RMOJ)
 
-In a rare moment, you actually learn two spells at level 52, the second being Asylum, which is a ground-targeted AoE Regen. It places a big dome which gives a regen to anyone within its radius.  Although this is an AoE heal, in dungeon pulls it should be used as free extra healing for the tank.
+In a rare moment, you actually learn two spells at level 52, the second being Asylum, which is a ground-targeted AoE Regen. It places a big dome which gives a regen to anyone within its radius. Although this is an AoE heal, in dungeon pulls it should be used as free extra healing for the tank.
 
 **\[Lvl 54] Stone III**
 
@@ -311,7 +311,7 @@ Stone III is another Stone upgrade.
 
 ![](https://lh3.googleusercontent.com/L4R-f_B02bI2OdtMf1Asq26ro5jA2C1vRZ8ixGBnOkvgtcR_FgryI6qs-kRI9yt9QmywUyHv-aQRcs6bH0Mi7hRjbIpir_Af8klwHVJHoYvy1nBroDrmJWpbirqBQ8i83jYaChnU)
 
-Assize is an oGCD that does double duty, in the sense that it both heals nearby party members and deals damage to nearby enemies.
+Assize is an oGCD ability that does double duty, in the sense that it both heals nearby party members and deals damage to nearby enemies.
 
 Not only that, but it also restores 500 MP on use.
 
@@ -329,7 +329,7 @@ This can be used during Holy spam, to go light on your MP, or when using a high 
 
 ![](https://lh4.googleusercontent.com/f8v1tKc5zzPJkwhw-9NbGH0I-1YQRh5v9282TiPloiA0jK4LZAi6aKodwJhhC6W-njGQuI2GMaBWk6xw1EepxLgAdT4EJxE0hb414fnx46z8NB4uTfd-W1Eg1uS2s32bPNHkGFFR)
 
-Tetragrammaton is a large single target oGCD heal and can be used on anyone that needs additional single target healing in a free weave slot.  Much like Benediction, it can be tempting to save this spell for emergencies but it's best used as a standard planned heal whenever its off cooldown and someone (usually the tank) needs healing.
+Tetragrammaton is a large single target oGCD heal and can be used on anyone that needs additional single target healing in a free weave slot.  Much like Benediction, it can be tempting to save this spell for emergencies but it's best used as a standard planned heal whenever it's off cooldown and someone (usually the tank) needs healing.
 
 **\[Lvl 64] Stone IV**
 
@@ -341,19 +341,19 @@ Stone IV is another Stone upgrade!
 
 ![](https://lh4.googleusercontent.com/C2fjtWAqgdVBYCA7mtYTTxo0Y2UMeIeer5Qsv3chlKGPn23CoFZivhg4qC-phSPU963HdrQOpq_RdRHyJhXHZxTwfqgexIa8-z4i5bzEhDXDZl8NgaKhij3jGv1RpXUJROCuWHNr)
 
-Divine Benison is a spell that breaks the rules of WHM, allowing WHM to for a brief moment become a shield healer.
+Divine Benison is an ability that breaks the rules of WHM, allowing WHM to for a brief moment become a shield healer.
 
-This spell is typically thrown on the active tank to help mitigate tank damage or as just a general “on cooldown” spell to keep your own sanity as the damage it mitigates is sizable.
+This ability is typically thrown on the active tank to help mitigate tank damage or as just a general “on cooldown” spell to keep your own sanity as the damage it mitigates is sizable.
 
 **\[Lvl 70] Plenary Indulgence**
 
 ![](https://lh5.googleusercontent.com/RMPg7PA5Rpc9EikiVzUaQlw4IxC8KbawiPr9OKArPofrp8c4W27pC8Fo9cs8tWHTJHaRRJLQOsE-GzmQQewXT-PxNh09_42_c2rQlrfRyrQ_gqLn3Oa_uwgq8SchRfjnI57jD-xg)
 
-Plenary Indulgence is a spell that is strangely worded. 
+Plenary Indulgence is an ability that is strangely worded. 
 
-What this spell does is that when cast, all party members within a 20 yalm radius receive a buff called “Confession.” This buff will then heal them for a potency of 200 upon casting any of your AoE heals, which includes Medica, Medica II, Cure III, or Afflatus Rapture (later in the guide).
+What this ability does is that when cast, all party members within a 20 yalm radius receive a buff called “Confession.” This buff will then heal them for a potency of 200 upon casting any of your AoE heals, which includes Medica, Medica II, Cure III, or Afflatus Rapture (later in the guide).
 
-This spell is essentially a doubler for your AoE heals, which allows them to heal for just that bit more, sometimes needed for massive raidwide attacks.
+Plenary is essentially a doubler for your AoE heals, which allows them to heal for just that bit more, sometimes needed for massive raidwide attacks.
 
 ## Rotation and Leveling (50 - 70)
 
@@ -373,7 +373,7 @@ With the addition of Afflatus Solace to your toolkit, White Mage becomes an even
 
 **Plenary Indulgence** is there for when raid-wide damage happens, allowing you to better heal everyone should the occasion call for it.
 
-At this level, and frankly for all levels, your rotation rarely changes outside of Stone spam, keeping Aero up, and casting certain spells on cooldown, including: 
+At this level, and frankly for all levels, your rotation rarely changes outside of Stone spam, keeping Aero up, and using certain spells and abilities on cooldown, including: 
 
 * Every 45 seconds, cast Assize.
 * Every 30 seconds, cast Divine Benison (or wait until a Tank buster as long as you don’t lose a use of the spell).
@@ -388,11 +388,11 @@ Your other sources of EXP can come from Wondrous Tales, Challenge Log, Hunting L
 
 - - -
 
-# Level 70 - 80
+# Levels 70 - 80
 
 ![](https://lh4.googleusercontent.com/k7-mDXlEEy56l2CMyqTH6rTxrmPpYf1yIGny1Z2g8NYnypbPnAcXmzovV7pvCyX3Wne7xqoJj2uOqUcKn1ThDvbRdQxXUlqRb8ovsMydSASYUd_1cG9Y0ViV7bpH31Ub5iiWxBuM)
 
-These 10 levels are the final stretch until you reach the level cap of Shadowbringers. In this range, you will gain access to more Lily spells, including the bloodiest of them all - Afflatus Misery - and yet another healing accelerator at Level 80. Asylum will see improvements as well.
+These ten levels are the final stretch until you reach the level cap of Shadowbringers. In this range, you will gain access to more Lily spells, including the bloodiest of them all - Afflatus Misery - and yet another healing accelerator at Level 80. Asylum will see improvements as well.
 
 ## Skills and Spells (70 - 80)
 
@@ -432,7 +432,7 @@ Afflatus Rapture is essentially an AoE version of Afflatus Solace, healing for t
 
 ![](https://lh6.googleusercontent.com/8nEQkjN3xBIRAYPACbpdpuwlEDjJMJzNjkxyPXyNq26JFv9tBNPX1tmku5QoAbplHdNwO-m8yK86eQIJBGyxUEIb5a4Wp8ehJxs2r4JELDXGh8eGLVoH0GIK-HZrjvIG_7ZKQgUU)
 
-At this level, Asylum gets buffed to increase all healing received by 10% (including it's own regen) when players are standing within it, allowing for easier healing when Asylum is up.  
+At this level, Asylum gets buffed to increase all healing received by 10% (including its own regen) when players are standing within it, allowing for easier healing when Asylum is up.  
 
 **\[Lvl 80] Temperance**
 
@@ -440,7 +440,7 @@ At this level, Asylum gets buffed to increase all healing received by 10% (inclu
 
 And, finally; the last skill you learn as of patch 5.58, Temperance.\
 \
-This spell acts as your healing steroid and only true mitigation tool.  It increases all your GCD healing by 20% and reduces all damage taken by nearby party members within 30 yalms by 10% for 20 seconds. \
+This spell acts as your healing steroid and only true mitigation tool.  It increases all your GCD healing (Regen, Cure I, II, & III, Medica I & II, and Afflatus spells) by 20% and reduces all damage taken by nearby party members within 30 yalms by 10% for 20 seconds. \
 \
 It also gives you very pretty wings.
 
@@ -468,4 +468,4 @@ Usually you want to cast these on cooldown, or whenever the situation calls for 
 And with all that, you’re at level 80! **Congratulations!**
 
 \
-If you wish to optimize your gameplay further, go check out the other guides on this site, or simply remember the five sacred words of playing White Mage: *Blood for the Blood Lily.*
+If you wish to optimize your gameplay further, go check out the [Basic WHM Guide](/jobs/healers/white-mage/basic-guide/), or simply remember the five sacred words of playing White Mage: *Blood for the Blood Lily.*
