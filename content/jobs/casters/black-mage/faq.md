@@ -80,6 +80,8 @@ qna:
     answer: None, except for macros for Aetherial Manipulation and Sprint. You can
       find an example in the [5.X BLM
       guide.](/jobs/casters/black-mage/5-x-blm-guide)
+authors:
+  - rika-vanih
 ---
 # Q: What is Umbral Soul used for?
 
