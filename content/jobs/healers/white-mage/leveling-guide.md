@@ -25,7 +25,7 @@ Unlocking White Mage is done upon reaching level 30 with the Conjurer class and 
 
 Playing a Healer in Final Fantasy XIV is different than what you’d expect in many similar games. Ideally, you want to be doing *as much **damage** as possible, and as little **healing** as possible.* The damage of White Mage is generally extremely high (especially later with a spell learned at level 45!)
 
-**White Mage** is what’s known as a “Regen" or "Pure” Healer, meaning most of their healing either comes from regenerative ('regen') abilities, or direct healing from their spells.
+**White Mage** is what’s known as a “Regen" or "Pure” Healer, meaning most of their healing either comes from regenerative ('regen') spells, or direct healing from their spells and abilities.
 
 The other “Pure” healer would be Astrologian (as of Patch 6.0), who also relies on direct regen/pure healing, unlike the “Shield” healers of Scholar and Sage, who rely on preventing damage from happening in the first place.
 
@@ -75,7 +75,7 @@ Cure is as simple as it gets. One cast of this spell will heal your current targ
 
 Please keep one thing in mind with this ability.
 
-This ability WILL BE replaced upon reaching level 30. Do not get comfortable with it.
+This ability WILL BE largely replaced upon reaching level 30. Do not get comfortable with it.
 
 **\[Lvl 4] Aero**
 
@@ -91,7 +91,7 @@ You want to keep this spell active on your enemy target at all times, recasting 
 
 ![](https://lh3.googleusercontent.com/F0XlyBwHmOYpd57IaOlqYZ90ipnk8ZhC_AdPFk8IelAASS-tZWF9Wj29kyUbxl5cC0cp1ZT77KJxUa3C2FAm4kTMh8lMFYuFDSvNZxnTw3TwDRugMyW1nG6uioOWNIFBIMGvck1f)
 
-Repose is very, very seldom used, and is shared across all healers in the game. This spell simply puts your target to sleep. Keep in mind however, that after 30 seconds, they will wake up and attack you. They will also attack if they take any damage. For this reason, there is rarely a scenario where this spell will be useful.
+Repose is very, very seldom used, and is shared across all healers in the game. This spell simply puts your target to sleep. Keep in mind however, that after 30 seconds, or upon taking damage, they will wake up and attack you. For this reason the spell is seldom used in most content.
 
 **\[Lvl 10] Esuna**
 
@@ -133,15 +133,15 @@ Stone II is a direct upgrade from the previous “Stone” and simply does more 
 
 ![](https://lh3.googleusercontent.com/aIJNQ9jIOLFWqFZ2NAimzyUQxbWGOzb9WP7FktkEAjshrLmrjIYJlM-MJnR3ppUiiMUl0tcN692AdZIKkEzw_ZHxSRoJWBLBmbkN3aDjrb9FSmAkmsg_cbnGTHdW8LjSaSkiHqIk)
 
-Swiftcast is shared across all casters in the game, and simply makes the next spell you cast have no cast time (instant). Typically, you want to save this for emergency scenarios, such as reviving a player using Raise or as a last resort for when you need an extra bit of healing with a Cure.
+Swiftcast is an ability shared across all casters in the game, and simply makes the next spell you cast have no cast time (instant). Typically, you want to save this for emergency scenarios, such as reviving a player using Raise or as a last resort for when you need an extra bit of healing with any GCD heal, but it can also be used on Stone/Glare or Holy for movement if you don't expect to need it for an emergency.
 
 **\[Lvl 24] Lucid Dreaming**
 
 ![](https://lh4.googleusercontent.com/DAZhQ_ZRxH8u3Ef_faA50TqOl-aSgehIz6RTKmYO1Nar1EA3pc7D_DXaMF05kGnfFXCP5uE7lLUiQTBHN0WiLnDB5VJSKBdn0FHPqU3m0KaYK1XlWGVUz7UEj2m-yshDFqJRENk8)
 
-Lucid Dreaming is another spell shared by all casters in game, and it restores your MP by a potency of 50 for 21 seconds each time it ticks.
+Lucid Dreaming is another ability shared by all casters in game, and it restores 500 MP every 3s for 21s, for 3500 total MP.
 
-Typically, you want to use this when your MP is at 8500 as to avoid bottoming out your MP, and leading to situations where you can’t heal because you’ve used up all your MP.
+Typically, you want to use this whenever your MP is at 8500 or less as to avoid bottoming out your MP, and leading to situations where you can’t heal or cast because you’ve used up all your MP.
 
 ## Conjurer Rotation and Leveling (1 to 30)
 
@@ -183,9 +183,9 @@ First off, let’s go over your new skills.
 
 ![](https://lh6.googleusercontent.com/4KcJJZeEF9Tlq4rdkHHFz2AI39pXrjljr3jJnoV_uYbqrH91uyyKjLyl6O5jcBRb2Aiy_Z9BqjgqBLdNGv_48QdFEkNvMQV39ysFv3ZRioDpBRyvZejfb5Ms4oX3O7B2wOioFmLr)
 
-For the sake of all that is holy, please ALWAYS cast Cure II for your single target healing. At level 32, you unlock a trait called Freecure, which gives a 15% chance to proc a free use of Cure II after casting Cure.
+For the sake of all that is holy, please ALWAYS cast Cure II for your single target burst healing. At level 32, you unlock a trait called Freecure, which gives a 15% chance to proc a free use of Cure II after casting Cure.
 
-This is not worth it. Cure II should ALWAYS be your go-to healing spell once you’re above level 30. Freecure is a trap, an evil trap to bait new healers and prevent them from having their healing output be useful.
+This is not worth it. Cure II should ALWAYS be your go-to burst healing spell once you’re above level 30. Freecure is a trap, an evil trap to bait new healers and prevent them from having their healing output be useful.
 
 What may arise, however, as Cure is 400 MP and Cure II is 1000, is that you may have an MP deficit. This can be easily solved by slowing down your healing. Remember that as long as your party isn’t dead, everything is fine. 
 
@@ -195,15 +195,13 @@ To reiterate, please use Cure II instead of Cure for almost all scenarios. 
 
 ![](https://lh4.googleusercontent.com/5vylxKrqc2c9uKOukqIJQ6vapIum9EwgpSGme9rM5jet15TErxlYqxysigXrgkvVqesnFnghYkp0Yw6pFoSGnr1LIGWif0XetXumOYMGgQ6mhIE-SWnPxd0m_Zto46MdPRwDvxkB)
 
-Presence of Mind is your first exclusive WHM ability and it acts as an accelerator for all of your spells. Presence of Mind allows you to do damage, heal, and generally execute all your abilities 20% faster.
+Presence of Mind is your first exclusive WHM ability and it decreases your GCD and cast times by 20% for 15s, allowing you to do a bit more damage every 2.5 mins.
 
 **\[Lvl 35] Regen**
 
 ![](https://lh3.googleusercontent.com/LlQCTUXWvO985IU-1PFC2BS8QWTikWoI0INgyzhaCvD2WRb43-hnzAgna2uW6_rHiV155VDOyoYCZ1e-38OWLazDTPO1au8qnRCKwqlVz2x9gCbonCnHI_9DaCyY4bWQQN79FK3l)
 
-Regen is amazing. Placing this spell on your Tank during dungeons can almost single-handedly heal them, that’s just how good it is.
-
-Regen heals for a cure potency of 200 every 3 seconds. Combine this with a general upkeep of casting Cure II whenever your Tank does take enough damage and it’s nigh unstoppable.
+Regen heals for a cure potency of 200 every 3 seconds for 18s. Regen is your go-to tank upkeep spell for a long while; placing this spell on your Tank during dungeons can almost single-handedly heal them.  Combine this with a general upkeep of casting Cure II whenever your Tank does take enough damage and it’s nigh unstoppable. 
 
 **\[Lvl 40] Cure III**
 
@@ -211,15 +209,13 @@ Regen heals for a cure potency of 200 every 3 seconds. Combine this with a gener
 
 Cure III may at first lead you to believe there is a pattern, but no.
 
-Cure III acts as your best AoE heal for when your group is clumped together, with a massive cure potency of 550. The downside to this is the absolutely its tiny range.
-
-This spell is best used during stack mechanics, where all of your party must stick together to mitigate a massive burst of damage.
+Cure III is a large 550p AoE heal with a small 6 yalm radius, making it a good spell for emergency or burst healing when a lot of damage is going out and the party is stacked.  This spell doesn't see much use in leveling content since people are mostly all over the map, and Medica II at level 50 has more total potency and range.
 
 **\[Lvl 44] Surecast**
 
 ![](https://lh5.googleusercontent.com/6X-QAI5bL3g_s2a3gWhW5zzNxITwPRHseKhsXxPedA_ksbOgJpTiIbgO_toIpoCkS7QG1nFgosvKyMybFW1qSjizJPLltyswgrXIkNLRob7fOKw75OoLDLevffoc9xJjYzfVKeV9)
 
-Surecast is a spell that’s shared amongst all casters, and simply makes you immune to having your spells interrupted for six seconds as well as making you immune to mechanics that knock you back or draw you in. 
+Surecast is an ability that’s shared amongst all casters, and simply makes you immune to having your spells interrupted for six seconds as well as making you immune to mechanics that knock you back or draw you in. 
 
 (Example: Leviathan)
 
@@ -229,7 +225,7 @@ Surecast is a spell that’s shared amongst all casters, and simply makes you im
 
 Once more, an amazing spell.
 
-Holy alone changes White Mage completely. This is your first AoE skill that deals damage, but not only that, it stuns all enemies that were hit for four seconds. This can stack up to seven seconds.
+Holy alone changes White Mage completely. This is your first AoE spell that deals damage, but not only that, it stuns all enemies that were hit for four seconds. This can stack up to seven seconds.
 
 So if done correctly this spell can single-handedly make your Tank immune to all damage for seven whole seconds, and the damage it does is nothing to scoff at either. Holy is an absolutely incredible spell for dungeon runs, and should be spammed during them whenever you have multiple enemies.
 
@@ -253,9 +249,7 @@ Really, just use it when someone is standing inside an AoE when it is obvious th
 
 ![](https://lh4.googleusercontent.com/YB5nbK0XCp9LAkI-Nx8jIqGmWb2MJppwwA3hyw29GHNGfWK0P2TJtJebh4KNzo1dD07j72-2EH3nPm8PR1E63LH3dzKh7tyD4m-K13Dk8PL9zYZsDify2agLXIepQsdCWxhOkq7E)
 
-Benediction is the granddaddy of all “oh crap” buttons, doing one thing and one thing only: healing 100% of your target’s HP. Simple as that. \
-\
-Use this spell if you’ve been lacking in heals and haven’t been paying attention to your (or your Tank’s) health, or find yourself dealing with massive damage on a single target.
+Benediction is a massive single target healing ability that restores 100% of your target's HP.  While this may seem like an emergency button for sudden spike damage, it's best used as a planned heal, allowing you to continue dealing damage with Stone/Holy while the tank's health drops, and then fully healing the damage with Benediction.  Keep in mind that Benediction (and all other heals) have a slight delay in heal application, so don't let your tank drop too low before using it!
 
 **\[Lvl 50] Medica II**
 
@@ -263,9 +257,9 @@ Use this spell if you’ve been lacking in heals and haven’t been paying atten
 
 Medica II is not an “upgraded” version of the original Medica, but should be treated as such.
 
-Medica II is the same as Medica, but swaps out the instant healing for a regen effect. This CAN stack with your standard “Regen.”
+Medica II has a larger radius than Medica and applies a 100 potency regen effect for 15s for a total of 500 potency.  The initial heal is smaller than Medica, but in total it's a larger heal than Cure III and will cover a most of your AoE healing into the 70s.
 
-In most cases, Medica II will be better than Medica, and in those cases where it is not… Cure III can be used instead.
+Medica II is almost always better than Medica on account of the extra potency, but in the event Medica II is already ticking and the party needs healing, Medica or Cure III remain good options.
 
 ## Rotation and Leveling (30 - 50)
 
@@ -305,7 +299,7 @@ Congratulations, you just earned your first Lily spell. Afflatus Solace adds a n
 
 ![](https://lh6.googleusercontent.com/58uzwHpAwmC2Sn31npyuj5bWaJMegqZ1635p2Y3xSqhfFWeaupVVgAP84lktlgznVQp5zyB2ZYaA8mdov2yD2LF1CucUswfQRbhOGIXPeUcdjyLK3ASWWtY49bRCWcxklM_1RMOJ)
 
-In a rare moment, you actually learn two spells at level 52, the second being Asylum, which is a ground-targeted AoE Regen. It places a big dome which gives a regen to anyone within its radius.
+In a rare moment, you actually learn two spells at level 52, the second being Asylum, which is a ground-targeted AoE Regen. It places a big dome which gives a regen to anyone within its radius.  Although this is an AoE heal, in dungeon pulls it should be used as free extra healing for the tank.
 
 **\[Lvl 54] Stone III**
 
@@ -317,11 +311,11 @@ Stone III is another Stone upgrade.
 
 ![](https://lh3.googleusercontent.com/L4R-f_B02bI2OdtMf1Asq26ro5jA2C1vRZ8ixGBnOkvgtcR_FgryI6qs-kRI9yt9QmywUyHv-aQRcs6bH0Mi7hRjbIpir_Af8klwHVJHoYvy1nBroDrmJWpbirqBQ8i83jYaChnU)
 
-Assize is another oGCD that does double duty, in the sense that it both heals any party members nearby and deals damage to any enemies nearby as well.
+Assize is an oGCD that does double duty, in the sense that it both heals nearby party members and deals damage to nearby enemies.
 
 Not only that, but it also restores 500 MP on use.
 
-This spell deals very respectable damage and heals a very respectable amount, making it a spell to use on cooldown consistently even if you don’t heal or deal damage. The MP restoration is very good on its own too.
+Assize is mostly used on cooldown for damage and MP, the healing component can mostly be seen as some free extra healing, though you can often delay other heals if the party or tank needs healing and Assize will be off cooldown soon.
 
 **\[Lvl 58] Thin Air**
 
@@ -329,15 +323,13 @@ This spell deals very respectable damage and heals a very respectable amount, ma
 
 Thin Air is a buff given to yourself which lasts for 12 seconds and makes every spell you cast completely free. 
 
-This can be used during Holy spam, to go light on your MP, or when spamming a high cost heal, such as Cure III.
+This can be used during Holy spam, to go light on your MP, or when using a high cost spells, such as Cure III or Raise.
 
 **\[Lvl 60] Tetragrammaton**
 
 ![](https://lh4.googleusercontent.com/f8v1tKc5zzPJkwhw-9NbGH0I-1YQRh5v9282TiPloiA0jK4LZAi6aKodwJhhC6W-njGQuI2GMaBWk6xw1EepxLgAdT4EJxE0hb414fnx46z8NB4uTfd-W1Eg1uS2s32bPNHkGFFR)
 
-Tetragrammaton can be translated as “four letter word,” which is precisely the amount of letters in the word that you will say when this spell is handy.
-
-Tetragrammaton is used for when you need to emergency heal someone but you have no Lilies, no Benediction and a Cure II would take too long to cast.
+Tetragrammaton is a large single target oGCD heal and can be used on anyone that needs additional single target healing in a free weave slot.  Much like Benediction, it can be tempting to save this spell for emergencies but it's best used as a standard planned heal whenever its off cooldown and someone (usually the tank) needs healing.
 
 **\[Lvl 64] Stone IV**
 
@@ -351,7 +343,7 @@ Stone IV is another Stone upgrade!
 
 Divine Benison is a spell that breaks the rules of WHM, allowing WHM to for a brief moment become a shield healer.
 
-This spell is typically thrown on the tank to help mitigate tank busters or as just a general “on cooldown” spell to keep your own sanity as the damage it mitigates is sizable.
+This spell is typically thrown on the active tank to help mitigate tank damage or as just a general “on cooldown” spell to keep your own sanity as the damage it mitigates is sizable.
 
 **\[Lvl 70] Plenary Indulgence**
 
@@ -375,7 +367,7 @@ With the addition of Afflatus Solace to your toolkit, White Mage becomes an even
 
 **Thin Air** is another spell to help you preserve MP, allowing you to not run out as much when you are lost in the sauce of spamming Holy for AoE.
 
-**Tetragrammaton** allows you to have burst healing in cases where you need healing as soon as possible..
+**Tetragrammaton** gives you some extra oGCD single target healing.
 
 **Divine Benison** lets you focus on doing damage even more than you already were before. Throw this on before a trash pack pull, then start spamming your Holy can as the shield from Divine Benison can prevent most of the healing you’d need to do otherwise.
 
@@ -428,19 +420,19 @@ Glare is another upgrade to Stone.
 **“Blood for the Blood Lily!”**\
 Upon casting 3 spells that consume your Lily gauge, the Blood Lily will bloom, allowing the use of Afflatus Misery which deals **massive** damage to all enemies in the area around the target.
 
-However, despite the absolutely *bonkers* potency on the damage, it may not always be worth it to waste your Lily spells to get to this spell faster (at least for single target). Acquiring a Blood Lily takes four GCDs from zero (not accounting for the 90 seconds required for 3 Lilies to bloom in the first place) and Glare deals damage with 300 potency, which when casted three times, equals the potency of Afflatus Misery.
+However, despite the absolutely *bonkers* potency on the damage, it may not always be worth it to waste your Lily spells to get to this spell faster (at least for single target). Acquiring a Blood Lily takes four GCDs from zero (not accounting for the 90 seconds required for 3 Lilies to bloom in the first place) and Glare deals damage with 300 potency, which when casted three times, equals the potency of Afflatus Misery.  Lilies can also be used in downtime between dungeon pulls, which allows you to cast more Holies during the pull while still allowing you to use Misery.
 
 **\[Lvl 76] Afflatus Rapture**
 
 ![](https://lh4.googleusercontent.com/fDQ7qHQN81mQMuTGZWl6YKRN-qxzfrBGFQbbm7nlhyqtLWbbBFUvk9FICNEx6rMasCCtTHgE4niw71svnQFVOaYYt6wfQjuLg4YyVT9BpqW-N2DKkXGYbQ9zDvuDtX3dpjtXa4Ec)
 
-Afflatus Rapture is essentially an AoE version of Afflatus Solace, healing for the same amount as Medica but as an instant cast. It also nourishes your Blood Lily.
+Afflatus Rapture is essentially an AoE version of Afflatus Solace, healing for the same amount as Medica but as an instant cast and larger radius. It also nourishes your Blood Lily.
 
 **\[Lvl 78] Enhanced Asylum**
 
 ![](https://lh6.googleusercontent.com/8nEQkjN3xBIRAYPACbpdpuwlEDjJMJzNjkxyPXyNq26JFv9tBNPX1tmku5QoAbplHdNwO-m8yK86eQIJBGyxUEIb5a4Wp8ehJxs2r4JELDXGh8eGLVoH0GIK-HZrjvIG_7ZKQgUU)
 
-At this level, Asylum gets buffed to increase healing by 10% when players are standing within it, allowing for easier healing when Asylum is up.
+At this level, Asylum gets buffed to increase all healing received by 10% (including it's own regen) when players are standing within it, allowing for easier healing when Asylum is up.  
 
 **\[Lvl 80] Temperance**
 
@@ -448,7 +440,7 @@ At this level, Asylum gets buffed to increase healing by 10% when players are st
 
 And, finally; the last skill you learn as of patch 5.58, Temperance.\
 \
-This spell acts as your steroids, buffing healing magic potency by 20% and reducing all damage taken by nearby party members within 30 yalms by 10% for 20 seconds. \
+This spell acts as your healing steroid and only true mitigation tool.  It increases all your GCD healing by 20% and reduces all damage taken by nearby party members within 30 yalms by 10% for 20 seconds. \
 \
 It also gives you very pretty wings.
 
@@ -460,11 +452,11 @@ Finally within the home stretch. 
 
 If you’ve unlocked The Bozjan Southern Front, it is one of the best (if not the best) ways to level from 71 - 80. That said, it can also get extremely grating and boring after a while. It is recommended to keep doing your dailies, weeklies, etc., which should give you enough EXP to break up the monotony.
 
-Your rotation for WHM at level 72+ is very, very simple;
+Your rotation for WHM at level 72+ remains simple, but the Lily gauge does spice things up:
 
-* Keep Dia up, and cast Glare.
-
-That’s it, *really.*
+* Keep Dia up, and cast Glare or Holy.
+* Use Lilies in downtime to charge Misery
+* Use Lily heals to cover movement and healing in uptime over other GCD heals when possible.
 
 You should keep track of your cooldowns, including Presence of Mind, Asylum, Assize, Thin Air, Plenary Indulgence and Temperance.\
 Usually you want to cast these on cooldown, or whenever the situation calls for it, as outlined before.
