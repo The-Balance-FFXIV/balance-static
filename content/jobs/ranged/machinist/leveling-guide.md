@@ -2,7 +2,7 @@
 title: Machinist Leveling Guide
 card_header_image: /img/jobs/mch/leveling.png
 authors:
-  - Balance-MCH-Staff
+  - Dook
 patch: "5.58"
 lastmod: 2021-10-25T21:55:28.789Z
 changelog:
