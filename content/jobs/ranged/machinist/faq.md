@@ -79,6 +79,8 @@ qna:
       overcapping which is passable, but not optimal. If you can't weave at all
       or if you miss GCDs in Hypercharge or Wildfire, then your performance will
       be suboptimal.
+authors:
+  - Dook
 ---
 # Frequently Asked Questions
 
