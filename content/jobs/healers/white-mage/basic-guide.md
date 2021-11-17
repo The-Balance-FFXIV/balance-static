@@ -39,61 +39,61 @@ The biggest categories healing spells fall into are GCD and oGCD heals. You can 
 
 ## Healing GCDs
 
-## Cure
+### Cure
 
 The first heal you get and by far the least used at 80.  Cure is a small, fast heal for a low MP cost, making it only useful in situations where the speed or MP will save someone. In most cases, Cure II is strictly better as it is a larger heal and only slightly slower, albeit at a steeper MP cost.  Cure can proc Freecure, making the next Cure II free to cast, but this aspect should mostly be ignored in any content past level 30.  If you find yourself using the spell a lot past level 30, you are most likely making inefficient use of your other heals.
 
-## Cure II
+### Cure II
 
 A larger, less MP efficient heal than Cure, Cure II is your standard single target GCD healing option used mostly in cases where a single person needs HP immediately, or they will die, and you have no lillies or oGCD options available. This spell mostly sees use in non-level cap dungeons where tanks will frequently exhaust your other healing options on large pulls, but is generally reserved for emergency healing at 80.
 
-## Regen
+### Regen
 
 Regen is an instant-cast spell that applies a single target heal-over-time effect that heals for 200 potency every 3s for 18s, a total of 1200 potency.  Regen is a fantastic spell for tank upkeep in dungeons given its large total potency and ability to cast on the move, but is usually unnecessary in raid content where oGCD heals can typically cover most tank healing.  In dungeons Regen can be applied to the tank while they're still pulling, but keep in mind you may draw enmity on some enemies if the tank doesn't use AoEs.  
 
-## Medica
+### Medica
 
 The first AoE heal you have access to, and much like Cure, one of the least-used spells at 80.  Medica is a moderate direct GCD heal that is typically only used in cases where the party already has Medica II ticking, needs healing, isn’t stacked enough for Cure III, and you have no Lilies.  It has a larger up-front heal than Medica II (300 vs 200 potency), but that healing is made up for in a single tick of Medica II’s regen, making Medica rarely used outside emergencies.
 
-## Medica II
+### Medica II
 
 Medica II is WHM’s go-to AoE GCD heal, it has a small 200 potency up-front heal and applies a regen that heals for 500 potency over 15s, for 700 total potency.  If you have party healing that cannot be covered by oGCD’s or Lilies, then Medica II is next in line.  This spell tends to be used fairly heavily on progression where the goal is to keep as many people alive as long as possible in order to see more mechanics, but as you optimize it tends to get worked out of the rotation in favor of more efficient healing and mitigation plans that allow for more Glares.
 
-## Cure III (C3)
+### Cure III (C3)
 
 A large, direct, AoE heal with a small radius, Cure III excels at raidwide spam effects where the party remains stacked, however is still less healing and more MP overall than Medica II. Cure III is mostly used if the party needs to be topped immediately and Medica II is already ticking or won’t heal enough by the time damage goes out. This spell comes at a hefty 1500 MP cost, and tends to be used sparingly.
 
-## Afflatus: Solace
+### Afflatus: Solace
 
 Lilies and their associated spells will be expanded on further on in this guide, but Solace is the first Lily heal you have access to and is essentially a free, instant Cure II, allowing for movement and weaving if needed while also refunding some of the lost damage.  This spell sees a lot of use in dungeon pulls since the tank is typically the only player taking significant damage, but is rarely used outside emergencies in Savage and Ultimate since it shares the Lily charges with Rapture.
 
-## Afflatus: Rapture
+### Afflatus: Rapture
 
 The other Lily heal and a fundamental component of WHM healing at 80; Rapture is a free, instant, and larger radius Medica that allows for moving and weaving while also refunding some damage via the Lily system. Ideal use of Rapture is to cover movement, weave oGCDs, and heal the party a bit, or to blow it in downtime for free Misery casts. Once again, the Lily system will be expanded on farther below.
 
 ## Healing oGCDs
 
-## Tetragrammaton (Tetra, Tet)
+### Tetragrammaton (Tetra, Tet)
 
 A standard oGCD direct heal, Tetra is typically used in open weave slots if someone (usually a tank) will benefit from the extra healing.
 
-## Divine Benison (DB, Beni)
+### Divine Benison (DB, Beni)
 
 DB is our tank-upkeep tool and only true shield, and its low 30s cooldown means it is often weaved with Dia, which also needs to be refreshed every 30s. Benison is one of the lowest-priority spells, since it has the lowest potency of our oGCD’s and is often dropped in favor of larger, higher priority heals or utility spells. That said, given the relative lack of oGCDs we have, DB is still used frequently and rarely a bad option.
 
-## Benediction (Bene)
+### Benediction (Bene)
 
 One of the hallmark features of WHM healing, Benediction is an oGCD ability that heals for 100% of a target's max HP. Bene is often saved for Living Dead when paired with a DRK, but can be used for any immediate single target healing in most other comps. It isn’t typically necessary to use Benediction for Superbollide or Holmgang, though it can still be a good use if Benediction is available and easily weaved.
 
-## Asylum
+### Asylum
 
 Asylum is a ground-targeted regen effect, and at level 78 gains a 10% healing recovery increase that affects all healing spells and abilities to anyone inside its radius, including its own healing.  Asylum is our go-to AoE oGCD healing ability and should be used as frequently as possible so long as the party needs healing and can remain in its radius for most of the duration. Ground-targeted abilities can often be tricky to weave, so Asylum is one of the few cases where a macro can be used to assist with targeting.
 
-## Plenary Indulgence (PI, Confession)
+### Plenary Indulgence (PI, Confession)
 
 Plenary is a bit of an odd oGCD that adds 200 direct potency to our AoE GCD heals for ten seconds (note that Medica II only gets the 200 potency on the initial heal and not every tick). PI is most powerful when it can be used in soft-enrage spam where you will get multiple GCD heals in its duration for added healing potency, but typically is used to add some healing potency to an Afflatus: Rapture cast shortly after a Dia. The need to weave it and relatively small extra heal means this ability will sit on cooldown a lot in optimized play.
 
-## Temperance (Temp)
+### Temperance (Temp)
 
 Temperance is for looking pretty, as well as our healing steroid and mitigation tool. Temperance has a massive 30y range, 22s+ duration, decreases damage taken by 10%, and increases GCD healing by 20%. This spell is mostly used for the mitigation, although the GCD healing boost is pretty big and should also be considered if a mechanic does require GCD healing.
 
@@ -103,27 +103,27 @@ Temperance is for looking pretty, as well as our healing steroid and mitigation 
 
 Healers in FFXIV spend most of their time dealing damage, not healing, even in some of the most healing intensive phases in the game, and an optimized healer duo can contribute 20% or more of the total damage in an optimized party. Healer damage rotations are extremely simple, consisting mostly of a single DoT, a single filler, and a couple damaging oGCDs to weave.  
 
-## Glare / Stone
+### Glare / Stone
 
 Our basic filler nuke spell, you cast this whenever there are one or two enemies, and you have nothing better to cast. At 300 potency, Glare is the strongest healer filler spell and most of any raid fight will be spent casting Glare. Most of WHM's optimization will boil down to casting more Glares. There’s a reason we are sometimes referred to as Glare Mages.
 
-## Holy
+### Holy
 
 The AoE nuke spell; used in place of Glare when there are three or more enemies. Holy has a four second stun that makes it godlike for large dungeon pulls, but it rarely sees significant use in raid fights, since unlike other healers, Holy is not worth casting in a two target phase (Note: not the case at lower levels since Stone I-IV has lower potency than Glare). The spell does see some use in fights with downtime since Holy has a cast time and does not require a target, meaning that with good timing you can get some free extra damage if your cast ends just as the boss reappears. Like all stuns in game, Holy’s stun is subject to diminishing returns (first is 4s, 2nd 2s, 3rd 1s), but is capable of chain stunning mobs for up to 7s which can essentially act as a free invuln for the tank in a large pull, allowing them to delay mitigation for later parts of the pull.
 
-## Dia / Aero
+### Dia / Aero
 
 Our basic DoT spell that should be kept up at almost all times in raid fights.  Dia is instant cast, lasts 30s, deals 120 potency damage on cast, and applies a damage-over time effect that deals 60 potency every three seconds, for a total potency of 720 (120 + 10 x 60).  As one of our few instant-cast spells, we typically plan most of our oGCD use around the Dia refresh timer. The up-front damage does make it a bit of a movement tool, but it’s basically the last resort for movement since it will throw off your Assize and PoM alignment.
 
-## Assize
+### Assize
 
 Assize is an AoE oGCD damage and healing spell that also restores MP. Assize is cast on cooldown in almost every scenario, though can be delayed if it doesn’t cost you a use or allows you to hit additional targets. While it does decent healing, we mainly use it for damage and MP restoration, and it is almost never held specifically for healing, although you can and should move other oGCD heals around if the healing can instead be covered by an Assize you were going to use anyways. The 45s cooldown unfortunately only aligns with the Dia refresh on every other use, so it is sometimes hard-clipped after a Glare if it doesn’t align with a Lily use.
 
-## Presence of Mind (PoM)
+### Presence of Mind (PoM)
 
 This is our burst cooldown, it increases GCD speed and cast time by 20% for its duration (it does not affect Dia or regens), allowing you to get a couple extra Glares off per fight. It is typically used close to on CD, although is often delayed to better align with buffs or potions since its wacky 2:30 cooldown means it rarely naturally aligns with buff windows.
 
-## Afflatus: Misery
+### Afflatus: Misery
 
 A gigantic 900 potency nuke that can be used after using three Afflatus (Lily) heals. The Lily system will be explained in more detail further in this guide, but Afflatus: Misery specifically is typically used either to cover movement that cannot be handled by Swiftcast or Dia, for some extra damage in buff windows (e.g. Chain Stratagem, Trick Attack, etc.), or for some extra weave space.
 
@@ -131,39 +131,39 @@ A gigantic 900 potency nuke that can be used after using three Afflatus (Lily) h
 
 # Utility Spells and Abilities
 
-## Swiftcast (swift)
+### Swiftcast (swift)
 
 Swiftcast makes the next spell instant, useful in prog on Raise and in optimization for maintaining casting uptime by using it on Glare. This ability is not a damage gain if you are not moving, unless you can gain a Glare before the boss phases or dies, as Glare and Holy both use an entire GCD regardless of whether they are swift-casted or not.
 
-## Lucid Dreaming (LD)
+### Lucid Dreaming (LD)
 
 Standard healer MP restoration button. This spell restores 500 extra MP per MP tick for 21s, for a total of 3500 extra MP per use. This is typically used pretty close to on cooldown for optimization, although can be delayed if you happen to have excess Piety/MP or higher priority spells.
 
-## Thin Air (TA)
+### Thin Air (TA)
 
 This ability removes the MP cost for all spells for 12s, including GCD heals and Raise. For most levels of play, Thin Air can be saved for MP-intensive moments, usually Raises or GCD heals, but as you drop Piety while working towards speedkill oriented sets, it is more frequently used on Glares as an MP saving tool.
 
-## Raise
+### Raise
 
 Raise is our resurrection tool, it has a very long eight second cast time and costs almost 1/4th of your MP. Resurrected targets spawn with low HP and MP and are invulnerable to damage for five seconds, or until they use a spell, ability, or weaponskill. Raise is used frequently for recovery in all content.
 
-## Surecast
+### Surecast
 
 Surecast is the caster and healer anti-knockback tool, and it comes with the small added bonus of preventing spell interruption for its duration, although the latter effect is very rarely utilized in PvE content. Knockback mechanics are a staple of Savage and Ultimate raiding, and as a caster, WHM can use Surecast to maintain uptime during some (but not all) of these mechanics.
 
-## Rescue
+### Rescue
 
 Rescue moves another player to your position after a brief delay. This ability can be used to rescue your party member from avoidable damage if your reaction time is good enough, but is sometimes also used for uptime in very specific mechanics.
 
-## Esuna
+### Esuna
 
 Esuna cleanses a single debuff from your target and Esuna-able debuffs have a white line above them. Esuna sees sporadic use in Savage and Ultimates, but low level dungeons have a lot of Esuna-able debuffs including diseases, slows, and bleeds.
 
-## Repose
+### Repose
 
 Puts an enemy to sleep for 30s, not really used outside deep dungeons.
 
-## Fluid Aura
+### Fluid Aura
 
 Binds your target, also not really used outside deep dungeons (and being removed in 6.0).
 
