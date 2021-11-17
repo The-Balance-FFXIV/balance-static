@@ -31,11 +31,13 @@ Spell and ability acronyms are included in the next section.
 
 - - -
 
-# Healing Spell Overview
+# Healing Overview
 
 While healers in FFXIV are far more damage oriented than you might expect, they are still healers and their primary goal is keeping the party alive.  WHM fills the “pure” healer role in FFXIV, meaning it has no spammable shields and little mitigation, instead focusing on healing raw HP via regeneration effects (Asylum, Medica II) or direct heals (Assize, Afflatus: Rapture).  A progression group will typically have one pure and one shield healer, with SCH and Nocturnal AST for the shield healer option, and WHM or Diurnal AST as the pure healer.
 
 The biggest categories healing spells fall into are GCD and oGCD heals. You can find an overview on how GCDs and oGCDs actually function (here).
+
+## Healing GCDs
 
 ## Cure
 
@@ -44,6 +46,10 @@ The first heal you get and by far the least used at 80.  Cure is a small, fast 
 ## Cure II
 
 A larger, less MP efficient heal than Cure, Cure II is your standard single target GCD healing option used mostly in cases where a single person needs HP immediately, or they will die, and you have no lillies or oGCD options available. This spell mostly sees use in non-level cap dungeons where tanks will frequently exhaust your other healing options on large pulls, but is generally reserved for emergency healing at 80.
+
+## Regen
+
+Regen is an instant-cast spell that applies a single target heal-over-time effect that heals for 200 potency every 3s for 18s, a total of 1200 potency.  Regen is a fantastic spell for tank upkeep in dungeons given its large total potency and ability to cast on the move, but is usually unnecessary in raid content where oGCD heals can typically cover most tank healing.  In dungeons Regen can be applied to the tank while they're still pulling, but keep in mind you may draw enmity on some enemies if the tank doesn't use AoEs.  
 
 ## Medica
 
@@ -56,6 +62,15 @@ Medica II is WHM’s go-to AoE GCD heal, it has a small 200 potency up-front hea
 ## Cure III (C3)
 
 A large, direct, AoE heal with a small radius, Cure III excels at raidwide spam effects where the party remains stacked, however is still less healing and more MP overall than Medica II. Cure III is mostly used if the party needs to be topped immediately and Medica II is already ticking or won’t heal enough by the time damage goes out. This spell comes at a hefty 1500 MP cost, and tends to be used sparingly.
+
+## Afflatus: Solace
+
+Lilies and their associated spells will be expanded on further on in this guide, but Solace is the first Lily heal you have access to and is essentially a free, instant Cure II, allowing for movement and weaving if needed while also refunding some of the lost damage.  This spell sees a lot of use in dungeon pulls since the tank is typically the only player taking significant damage, but is rarely used outside emergencies in Savage and Ultimate since it shares the Lily charges with Rapture.
+
+## Afflatus: Rapture
+
+The other Lily heal and a fundamental component of WHM healing at 80; Rapture is a free, instant, and larger radius Medica that allows for moving and weaving while also refunding some damage via the Lily system. Ideal use of Rapture is to cover movement, weave oGCDs, and heal the party a bit, or to blow it in downtime for free Misery casts. Once again, the Lily system will be expanded on farther below.
+## Healing oGCDs
 
 ## Tetragrammaton (Tetra, Tet)
 
@@ -81,17 +96,9 @@ Plenary is a bit of an odd oGCD that adds 200 direct potency to our AoE GCD heal
 
 Temperance is for looking pretty, as well as our healing steroid and mitigation tool. Temperance has a massive 30y range, 22s+ duration, decreases damage taken by 10%, and increases GCD healing by 20%. This spell is mostly used for the mitigation, although the GCD healing boost is pretty big and should also be considered if a mechanic does require GCD healing.
 
-## Afflatus: Solace
-
-Lilies and their associated spells will be expanded on further on in this guide, but Solace is the first Lily heal you have access to and is essentially a free, instant Cure II, allowing for movement and weaving if needed while also refunding some of the lost damage.  This spell sees a lot of use in dungeon pulls since the tank is typically the only player taking significant damage, but is rarely used outside emergencies in Savage and Ultimate since it shares the Lily charges with Rapture.
-
-## Afflatus: Rapture
-
-The other Lily heal and a fundamental component of WHM healing at 80; Rapture is a free, instant, and larger radius Medica that allows for moving and weaving while also refunding some damage via the Lily system. Ideal use of Rapture is to cover movement, weave oGCDs, and heal the party a bit, or to blow it in downtime for free Misery casts. Once again, the Lily system will be expanded on farther below.
-
 - - -
 
-# Damage Spell overview
+# Damage overview
 
 Healers in FFXIV spend most of their time dealing damage, not healing, even in some of the most healing intensive phases in the game, and an optimized healer duo can contribute 20% or more of the total damage in an optimized party. Healer damage rotations are extremely simple, consisting mostly of a single DoT, a single filler, and a couple damaging oGCDs to weave.  
 
@@ -109,7 +116,7 @@ Our basic DoT spell that should be kept up at almost all times in raid fights. 
 
 ## Assize
 
-Assize is an AoE oGCD damage and healing spell that also restores MP. Assize is cast on cooldown in almost every scenario, though could be delayed if it doesn’t cost you a use. While it does decent healing, we mainly use it for damage and MP restoration, and it is almost never held specifically for healing, although you can and should move other oGCD heals around if they can instead be covered by an Assize you were going to use anyways. The 45s cooldown unfortunately only aligns with the Dia refresh on every other use, so it is sometimes hard-clipped after a Glare if it doesn’t align with a Lily use.
+Assize is an AoE oGCD damage and healing spell that also restores MP. Assize is cast on cooldown in almost every scenario, though can be delayed if it doesn’t cost you a use or allows you to hit additional targets. While it does decent healing, we mainly use it for damage and MP restoration, and it is almost never held specifically for healing, although you can and should move other oGCD heals around if the healing can instead be covered by an Assize you were going to use anyways. The 45s cooldown unfortunately only aligns with the Dia refresh on every other use, so it is sometimes hard-clipped after a Glare if it doesn’t align with a Lily use.
 
 ## Presence of Mind (PoM)
 
@@ -209,7 +216,7 @@ WHM has the most limited weave space of any healer, so any time there’s a free
 
 ## Movement
 
-Movement on White Mage is by far the hardest thing to optimize, since it is arguably the most rooted job in the game with the least access to instant cast spells like SCH’s Ruin II or movement abilities like BLM’s Aetherial Manipulation. The instant cast spells in your arsenal are limited to Dia and the three Afflatus Spells: Solace, Rapture, and Misery, plus whatever you can Swiftcast. As a result, WHM is heavily reliant on proper slidecasting to maximize casting uptime. Slidecasting refers to the ability to move in the last 0.5s of any cast bar without interrupting the cast, and is an important aspect of the game for all casters.
+Movement on White Mage is by far the hardest thing to optimize, since it is arguably the most rooted job in the game with the least access to instant cast spells like SCH’s Ruin II or movement abilities like BLM’s Aetherial Manipulation. The instant cast spells in your arsenal are limited to Dia, Regen, and the three Afflatus Spells: Solace, Rapture, and Misery, plus whatever you can Swiftcast. As a result, WHM is heavily reliant on proper slidecasting to maximize casting uptime. Slidecasting refers to the ability to move in the last 0.5s of any cast bar without interrupting the cast, and is an important aspect of the game for all casters.
 
 In general, you should prioritize movement as follows:
 
