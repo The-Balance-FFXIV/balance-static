@@ -25,6 +25,9 @@ bis:
       run into similar MP tick issues as with the SpS set
     name: TEA High Crit BiS (Relic)
     link: https://etro.gg/gearset/dd1144c3-11cd-439b-b835-f5aefab1e755
+authors:
+  - xenitan
+  - Fürst-Blumier
 ---
 # BiS:
 
