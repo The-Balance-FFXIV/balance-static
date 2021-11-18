@@ -1,7 +1,7 @@
 ---
 title: Machinist Best in Slot (BiS)
-patch: "5.58"
 layout: bis
+patch: "5.58"
 lastmod: 2021-10-25T22:11:00.705Z
 changelog:
   - date: 2021-10-25T22:11:04.615Z
@@ -27,4 +27,6 @@ bis:
     description: ""
     name: The Epic of Alexander (TEA) i475 No Relic - 2.5 GCD
     link: https://etro.gg/gearset/6d4ac843-4a4e-42e6-a343-f94e80d5efa9
+authors:
+  - Dook
 ---
