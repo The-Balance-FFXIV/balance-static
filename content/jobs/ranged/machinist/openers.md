@@ -1,7 +1,7 @@
 ---
 title: Machinist Openers
 authors:
-  - Balance-MCH-Staff
+  - Dook
 patch: "5.58"
 lastmod: 2021-10-25T22:03:46.511Z
 changelog:
