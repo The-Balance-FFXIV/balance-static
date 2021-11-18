@@ -331,7 +331,7 @@ You can also deploy the shield from Succor, though this tactic is extremely nich
 
 # Summon Seraph
 
-If Seraph had to be described in one word, it would be versatile. There are many possible usages for her. She is a very flexible tool in aScholar’s kit. Your goal with Seraph is not necessarily to maximize your usage, but rather to get the most out of the usages you do get with her. Each potential use has some kind of drawbacks. A few usages for her are:
+If Seraph had to be described in one word, it would be versatile. There are many possible usages for her. She is a very flexible tool in a Scholar’s kit. Your goal with Seraph is not necessarily to maximize your usage, but rather to get the most out of the usages you do get with her. Each potential use has some kind of drawbacks. A few usages for her are:
 
 1. Pre-pull.
 2. During long autoattack segments.
