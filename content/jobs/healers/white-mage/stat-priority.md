@@ -7,4 +7,6 @@ changelog:
     message: Article Created
 priority: Weapon Damage > Main Stat (Mind) > Piety to Comfort > Crit > SpS =
   Dhit >= Det >>>>> Piety
+authors:
+  - pyre
 ---
