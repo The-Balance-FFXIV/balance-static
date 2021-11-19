@@ -2,7 +2,7 @@
 title: Black Mage Advanced Guide
 card_header_image: /img/jobs/blm/advanced.png
 authors:
-  - Balance-BLM-Staff
+  - reina-kousaka-1
 patch: "5.58"
 lastmod: 2021-10-26T01:57:05.950Z
 changelog:
