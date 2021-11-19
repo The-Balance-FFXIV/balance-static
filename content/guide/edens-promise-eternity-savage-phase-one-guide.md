@@ -11,7 +11,7 @@ Eden’s Promise is the final raid encounter in the Eden series, available Decem
 
 As this is the door boss to the Oracle of Darkness, no loot is dropped.
 
-## Major Mechanics
+## Mechanics
 
 Eden’s Promise is an 8:28 encounter and has a DPS check of roughly 126k, the hardest of the tier.
 
