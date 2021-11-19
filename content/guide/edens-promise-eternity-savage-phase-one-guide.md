@@ -1,5 +1,5 @@
 ---
-title: Eden's Promise - Eternity (Savage) Phase One Guide
+title: Eden's Promise - Eternity (Savage) Phase One Raid Strategy Guide
 ---
 ## Introduction
 
