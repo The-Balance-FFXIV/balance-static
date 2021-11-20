@@ -1,7 +1,7 @@
 ---
 title: Astrologian Best in Slot (BiS)
-patch: "5.58"
 layout: bis
+patch: "5.58"
 lastmod: 2021-10-26T21:04:29.040Z
 changelog:
   - date: 2021-10-26T21:05:27.755Z
@@ -59,6 +59,8 @@ bis:
       Bring a bit more Piety though than the Max Damage BiS has this tier for prog, Bruiser phase is very painful on MP during progression.
     name: TEA BiS
     link: https://docs.google.com/spreadsheets/d/1mRqbJtOESUzx-hblK_CZW3Qy7MWGupD1-fbka7BJSPI/edit#gid=566495409
+authors:
+  - Balance-AST-Staff
 ---
 # 5.5 AST BiS SETS
 
