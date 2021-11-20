@@ -1,7 +1,7 @@
 ---
 title: Dark Knight Best in Slot (BiS)
-patch: "5.5"
 layout: bis
+patch: "5.5"
 lastmod: 2021-10-27T17:44:42.391Z
 changelog:
   - date: 2021-10-27T17:45:00.078Z
@@ -70,6 +70,8 @@ bis:
       Eden Verse
     name: 2.38 Relic Helm
     link: https://etro.gg/gearset/465886a7-664b-4a7b-983a-27d5337c93cc
+authors:
+  - Balance-DRK-Staff
 ---
 # Dark Knight Best In Slot
 
