@@ -7,4 +7,6 @@ changelog:
     message: Created page.
 priority: Item Level >>> Skill Speed (to recommended) >> Critical Hit ≥ Direct
   Hit > Determination
+authors:
+  - Balance-SAM-Staff
 ---
