@@ -1,7 +1,7 @@
 ---
 title: Scholar FAQ
-patch: "5.58"
 layout: qna
+patch: "5.58"
 lastmod: 2021-10-26T23:57:40.100Z
 changelog:
   - date: 2021-10-26T23:57:58.555Z
@@ -148,6 +148,8 @@ qna:
   - question: Is any of the relic armor BiS?
     answer: No, but the gloves are pretty good and let us go slower, so they're used
       in the 2.41s set.
+authors:
+  - Balance-SCH-Staff
 ---
 # Scholar FAQ
 
