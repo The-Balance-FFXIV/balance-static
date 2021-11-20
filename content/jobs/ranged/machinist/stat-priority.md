@@ -7,5 +7,6 @@ changelog:
     message: Created page
 priority: Critical Hit > Direct Hit = Determination > Skill Speed
 authors:
-  - Dook
+  - dook
+  - Balance-MCH-Staff
 ---
