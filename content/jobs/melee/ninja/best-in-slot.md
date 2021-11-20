@@ -1,7 +1,7 @@
 ---
 title: Ninja Best in Slot (BiS)
-patch: "5.58"
 layout: bis
+patch: "5.58"
 lastmod: 2021-10-29T03:14:08.896Z
 changelog:
   - date: 2021-10-29T03:14:26.634Z
@@ -42,6 +42,8 @@ bis:
     description: ""
     name: The Epic of Alexander BiS
     link: https://etro.gg/gearset/a25fcb8e-7f1a-432f-a627-bbf6eabfe77c
+authors:
+  - Balance-NIN-Staff
 ---
 # Best-in-Slot (BiS)
 
