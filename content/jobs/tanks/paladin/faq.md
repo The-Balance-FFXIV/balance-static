@@ -128,6 +128,8 @@ qna:
 
 
       Passage of Arms snapshots your position and facing when its effects are applied, regardless of the client animation, which can make it appear to miss the party if you are moving or turning upon use (buffs will be displayed correctly on affected party members).
+authors:
+  - Balance-PLD-Staff
 ---
 > *Why is Circle of Scorn used immediately in the opener?*   
 
