@@ -1,7 +1,7 @@
 ---
 title: Bard FAQ
-patch: "5.58"
 layout: qna
+patch: "5.58"
 lastmod: 2021-10-26T02:31:47.844Z
 changelog:
   - date: 2021-10-26T02:32:02.540Z
@@ -47,8 +47,8 @@ qna:
   - question: How many DoTs should I put up for AoE?
     answer: >-
       It's complicated. The [full
-      guide](/jobs/ranged/bard/the-pursuit-of-comfiness-bard-guide-5-x)
-      goes into the details.
+      guide](/jobs/ranged/bard/the-pursuit-of-comfiness-bard-guide-5-x) goes
+      into the details.
 
       But as a very general rule of thumb, any DoT that will run most to all of its 30s (i.e. the mob won't die soon) is worth applying.
   - question: How does Shadowbite's damage work?
@@ -57,6 +57,8 @@ qna:
   - question: Should I use Apex sooner when I have a lot of DoTs running?
     answer: Yes, 85 to 90 is pretty fine depending on DoT count to lessen the risk
       of overfilling the gauge.
+authors:
+  - Balance-BRD-Staff
 ---
 # Single target FAQ
 
