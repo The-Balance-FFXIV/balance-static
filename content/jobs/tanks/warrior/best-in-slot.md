@@ -1,7 +1,7 @@
 ---
 title: Warrior Best in Slot (BiS)
-patch: "5.4"
 layout: bis
+patch: "5.4"
 lastmod: 2021-10-27T07:17:24.419Z
 changelog:
   - date: 2021-10-27T07:22:13.566Z
@@ -39,6 +39,8 @@ bis:
     description: BIS but with Relic (Tentative)
     name: 2.43 GCD - 13410.0 dps - Smoked Chicken
     link: https://etro.gg/gearset/6b4a9646-3d72-4c85-ae3f-c77e28875389
+authors:
+  - Balance-WAR-Staff
 ---
 # What is the BiS for Ultimates? UCoB / UWU / TEA ?
 
