@@ -1,7 +1,7 @@
 ---
 title: Astrologian FAQ
-patch: "5.58"
 layout: qna
+patch: "5.58"
 lastmod: 2021-10-26T20:58:03.037Z
 changelog:
   - date: 2021-10-26T20:59:40.432Z
@@ -55,9 +55,11 @@ qna:
       the demarcated "crafted" and "tome" ring sets above. Just swap the ring.
   - question: My gear is α, I am currently on β fight, what do I meld?
     answer: See the guide on [Stat
-      Priority](/jobs/healers/astrologian/stats-and-materia/)!
-      As a general rule, meld Piety to comfort (as you can tell, for high damage
-      this usually means dodging it), Crit > SpS tiering > DH/Det
+      Priority](/jobs/healers/astrologian/stats-and-materia/)! As a general
+      rule, meld Piety to comfort (as you can tell, for high damage this usually
+      means dodging it), Crit > SpS tiering > DH/Det
+authors:
+  - Balance-AST-Staff
 ---
 # What Sect Should I Use?
 
