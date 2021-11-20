@@ -80,7 +80,7 @@ qna:
       or if you miss GCDs in Hypercharge or Wildfire, then your performance will
       be suboptimal.
 authors:
-  - Dook
+  - dook
 ---
 # Frequently Asked Questions
 
