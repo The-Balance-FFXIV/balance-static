@@ -121,6 +121,8 @@ bis:
       compare gear options precisely."
     name: 2.40  -  The Unending Coil of Bahamut  (i515 Relic)
     link: https://etro.gg/gearset/86759839-818e-4c90-8b87-2ad1523a45fa
+authors:
+  - Balance-PLD-Staff
 ---
 # Paladin Best in Slot
 
