@@ -6,4 +6,6 @@ changelog:
   - date: 2021-10-26T01:33:52.024Z
     message: Created page
 priority: Critical Hit > Direct Hit > Determination
+authors:
+  - Balance-RDM-Staff
 ---
