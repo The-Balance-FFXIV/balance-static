@@ -391,7 +391,7 @@ I hope this helps! If you have any questions, please stop by #mch_questions and 
 
 ##### [The Weapon's Refrain](https://docs.google.com/document/d/1N6h6kkCw4Dnq793ZWl4re3NilKkmGgJHUlnDmH1wt0s/edit?usp=sharing) created by Dook
 
-##### [The Unending Coil of Bahamut](https://docs.google.com/document/d/1QC4pfnEe-Q9_4bhKMMgzGuACDkqKUy_Njt_Qo0dSOm8/edit?usp=sharing) created by Dook**
+##### [The Unending Coil of Bahamut](https://docs.google.com/document/d/1QC4pfnEe-Q9_4bhKMMgzGuACDkqKUy_Njt_Qo0dSOm8/edit?usp=sharing) created by Dook
 
 ##### [Gear Comparison Sheet](https://docs.google.com/spreadsheets/d/1kVv_40wjUkJjEqg_bjYwQqebDMZtKIvXokKDKQ8Ni_o/edit#gid=62746894) created by Lynn Nuvestrahl
 
