@@ -1,7 +1,7 @@
 ---
 title: Dancer FAQ
-patch: "5.58"
 layout: qna
+patch: "5.58"
 lastmod: 2021-10-26T02:08:08.917Z
 changelog:
   - date: 2021-10-26T02:08:20.163Z
@@ -45,6 +45,8 @@ qna:
 
 
       (It is strongly encouraged to use this tool with your own group's logs to help determine who would be the best Dance Partner).
+authors:
+  - Ringabel-Dim
 ---
 # DANCE PARTNER PRIORITY
 
