@@ -28,5 +28,5 @@ bis:
     name: The Epic of Alexander (TEA) i475 No Relic - 2.5 GCD
     link: https://etro.gg/gearset/6d4ac843-4a4e-42e6-a343-f94e80d5efa9
 authors:
-  - Dook
+  - dook
 ---
