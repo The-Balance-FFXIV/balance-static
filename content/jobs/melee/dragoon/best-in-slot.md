@@ -1,7 +1,7 @@
 ---
 title: Dragoon Best in Slot (BiS)
-patch: "5.58"
 layout: bis
+patch: "5.58"
 lastmod: 2021-10-29T03:00:42.356Z
 changelog:
   - date: 2021-10-29T03:01:01.840Z
@@ -39,6 +39,8 @@ bis:
     description: ""
     name: TEA BiS With Relic
     link: https://etro.gg/gearset/fbd244ec-c215-4581-8e9b-3d3053239d70
+authors:
+  - Balance-DRG-Staff
 ---
 # Dragoon Best-in-Slot Lists
 
