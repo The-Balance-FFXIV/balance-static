@@ -1,7 +1,7 @@
 ---
 title: White Mage Best in Slot (BiS)
-patch: "5.58"
 layout: bis
+patch: "5.58"
 lastmod: 2021-10-27T00:17:35.533Z
 changelog:
   - date: 2021-10-27T00:19:11.972Z
@@ -105,4 +105,6 @@ bis:
       Relic stats: 280 Crit/Det/SpS/Piety
     name: Ultimates
     link: https://etro.gg/gearset/7cdc296b-4889-43c9-ad1b-a21fab6e6001
+authors:
+  - Balance-WHM-Staff
 ---
