@@ -136,7 +136,7 @@ Your filler GCDs, which you press if you don’t need to use any other GCDs, are
 
 Just about everything else in Bard’s kit is built on top of your two damage over time skills.  These two are **Stormbite (SB)** and **Caustic Bite (CB)**.  Together, they contribute a major amount of Bard’s damage, in addition to unlocking the song procs (foreshadowing!)  Against a single target enemy, it’s almost always best to have both always up.  Most of the time, you will lead off on targets with SB into CB.
 
-After initially applying DoTs to an enemy, instead of manually reapplying them, use **Iron Jaws (IJ)** to refresh the timer as it gets low (<3s or so).  Even though IJ seems weaker, it only costs one GCD.  IJ → BS is stronger than SB → CB.
+After initially applying DoTs to an enemy, instead of manually reapplying them, use **Iron Jaws (IJ)** to refresh the timer as it gets low (< 3s or so).  Even though IJ seems weaker, it only costs one GCD.  IJ → BS is stronger than SB → CB.
 
 One additional thing to know about DoT skills is that the damage over time calculates damage based on the buffs and debuffs on you and the target when the DoTs were applied or reapplied.  So when you use IJ (or SB or CB), the buffs (Raging Strikes, Resistance Up...), and debuffs (Vulnerability Up, Weakness...), both on you and your target get "snapshotted". These snapshotted buffs and debuffs affect the DoTs for their entire duration until they run out or are reapplied. This makes IJ very powerful when you have raid buffs stacked up.
 

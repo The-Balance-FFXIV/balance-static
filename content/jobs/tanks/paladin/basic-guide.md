@@ -2,7 +2,7 @@
 title: Paladin Basic Guide
 card_header_image: /img/jobs/pld/basic.png
 authors:
-  - Nikroulah
+  - nikroulah
 patch: "5.5"
 lastmod: 2021-10-27T08:23:35.725Z
 changelog:
@@ -130,7 +130,8 @@ For multiple-GCD losses (broken combos or long disengagements), the solution is 
 Co-tank macros assume your co-tank is in party slot two (default party sorting)
 
 **Intervention on Co-tank**  
-/merror off
+```
+/merror off 
 /ac Intervention <2>
 /ac Intervention <2>
 /ac Intervention <2>
@@ -145,9 +146,11 @@ Co-tank macros assume your co-tank is in party slot two (default party sorting)
 /ac Intervention <2>
 /ac Intervention <2>
 /micon Intervention  
-  
+``` 
+<br>
 
 **Mouseover Cover:**
+```
 /merror off
 /ac Cover <mo>
 /ac Cover <mo>
@@ -163,9 +166,11 @@ Co-tank macros assume your co-tank is in party slot two (default party sorting)
 /ac Cover <mo>
 /ac Cover <mo>
 /micon Cover  
+```
+<br>
 
-
-**Shirk on Co-Tank**  
+**Shirk on Co-Tank**
+```  
 /merror off
 /ac Shirk <2>
 /ac Shirk <2>
@@ -181,8 +186,9 @@ Co-tank macros assume your co-tank is in party slot two (default party sorting)
 /ac Shirk <2>
 /ac Shirk <2>
 /micon Shirk  
+```
 
-
+<br>
 **Why are there so many repeated lines?**
 FFXIV macros do not queue, so hitting a macro while in animation lock from another action will cause the macro to not go off. Since macros execute lines sequentially at around one line per frame, repeating the /action lines simulates mashing the ability every frame for ~15 frames and gives the macro a semblance of queuing.
 
