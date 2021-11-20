@@ -1,7 +1,7 @@
 ---
 title: Gunbreaker Best in Slot (BiS)
-patch: "5.58"
 layout: bis
+patch: "5.58"
 lastmod: 2021-10-25T21:44:09.967Z
 bis:
   - type: etro
@@ -37,6 +37,8 @@ bis:
     description: Less DPS than relic as an alternative if you're not getting a relic
     name: TEA 2.4 Non-Relic
     link: https://etro.gg/gearset/f6631658-1d31-4472-8ff6-56ab2d9073e8
+authors:
+  - Balance-GNB-Staff
 ---
 # Gunbreaker Best in Slot
 
