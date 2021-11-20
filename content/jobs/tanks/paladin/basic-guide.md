@@ -147,6 +147,7 @@ Co-tank macros assume your co-tank is in party slot two (default party sorting)
 /ac Intervention <2>
 /micon Intervention  
 ``` 
+<br>
 
 **Mouseover Cover:**
 ```
@@ -166,6 +167,7 @@ Co-tank macros assume your co-tank is in party slot two (default party sorting)
 /ac Cover <mo>
 /micon Cover  
 ```
+<br>
 
 **Shirk on Co-Tank**
 ```  
@@ -186,6 +188,7 @@ Co-tank macros assume your co-tank is in party slot two (default party sorting)
 /micon Shirk  
 ```
 
+<br>
 **Why are there so many repeated lines?**
 FFXIV macros do not queue, so hitting a macro while in animation lock from another action will cause the macro to not go off. Since macros execute lines sequentially at around one line per frame, repeating the /action lines simulates mashing the ability every frame for ~15 frames and gives the macro a semblance of queuing.
 
