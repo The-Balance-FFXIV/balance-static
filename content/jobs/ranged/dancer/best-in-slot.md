@@ -1,7 +1,7 @@
 ---
 title: Dancer Best in Slot (BiS)
-patch: "5.58"
 layout: bis
+patch: "5.58"
 lastmod: 2021-10-26T02:11:21.360Z
 changelog:
   - date: 2021-10-26T02:11:25.028Z
@@ -37,6 +37,8 @@ bis:
     name: Catch-all Gearset for other iLvl synced content (UCoB / UWU / Unreal
       Trials)
     link: https://etro.gg/gearset/8e76dbd9-6828-45d1-ae6b-2d2051e2b09f
+authors:
+  - Balance-DNC-Staff
 ---
 # Best-in-Slot (BiS) / Itemization
 
