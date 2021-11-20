@@ -169,7 +169,7 @@ Abilities will be presented in a tabular format for easy reading.
 
 |                                                          |           |                                                                                                         |                                        |
 | -------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| ![Upheaval](https://xivapi.com/i/000000/000405_hr1.png)  | Upheaval  | This is a single oGCD that deals 450 potency damage. <br>Consumes 20 Beast Gauge.                       | 450p <br>30s CD <br>oGCD <br>-20 Gauge |
+| ![Upheaval](https://xivapi.com/i/002000/002562_hr1.png)  | Upheaval  | This is a single oGCD that deals 450 potency damage. <br>Consumes 20 Beast Gauge.                       | 450p <br>30s CD <br>oGCD <br>-20 Gauge |
 | ![Onslaught](https://xivapi.com/i/002000/002561_hr1.png) | Onslaught | Warrior’s gap-closer. <br>Consumes 20 Beast Gauge.                                                      | 100p <br>10s CD <br>oGCD <br>-20 Gauge |
 | ![Infuriate](https://xivapi.com/i/002000/002555_hr1.png) | Infuriate | Increases Beast Gauge by 50 <br>Grants Nascent Chaos <br>30 seconds duration <br>Stacks up to two times | 60s CD <br>oGCD <br>+50 Gauge <br>+NC  |
 
