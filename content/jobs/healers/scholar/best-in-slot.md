@@ -1,7 +1,7 @@
 ---
 title: Scholar Best in Slot (BiS)
-patch: "5.58"
 layout: bis
+patch: "5.58"
 lastmod: 2021-10-26T23:41:37.390Z
 changelog:
   - date: 2021-10-26T23:42:52.063Z
@@ -158,6 +158,8 @@ bis:
 
     name: TEA Prog Set & Ultimate Sets
     link: https://etro.gg/gearset/43bd7245-0e65-4bf6-8f23-5cfdefc62b95
+authors:
+  - Balance-SCH-Staff
 ---
 # SCH BiS and Gear Options
 
