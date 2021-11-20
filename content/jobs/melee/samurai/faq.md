@@ -1,7 +1,7 @@
 ---
 title: Samurai FAQ
-patch: "5.58"
 layout: qna
+patch: "5.58"
 lastmod: 2021-10-28T03:27:04.625Z
 changelog:
   - date: 2021-10-28T03:27:15.029Z
@@ -59,6 +59,8 @@ qna:
 
 
       ![Is Kaehi: Higibana Worth Using?](https://cdn.discordapp.com/attachments/752334526449057853/884903581537427466/unknown.png)
+authors:
+  - Balance-SAM-Staff
 ---
 > Is X better than Y for me?
 
