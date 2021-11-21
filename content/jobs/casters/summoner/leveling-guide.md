@@ -33,7 +33,7 @@ Upon reaching level 15, you will unlock your second pet summon with the **Summon
 
 Level 18 introduces the Aetherflow Gauge system, unlocking **Energy Drain** and **Fester.** Upon each cast of **Energy Drain**, you will receive two stacks of Aetherflow Gauge, allowing you to cast two special oGCDs with these stacks: **Fester** and (later) **Painflare**. For now, you will only have access to **Fester**, which provides high single target damage. Fester also has an additional interaction, where its damage is increased if you have either **Bio I** or **Miasma** DoTs applied, and a further bonus for having both DoTs applied while casting.  
 
-![](https://lh3.googleusercontent.com/XpYUALZdH3P9Br1n2kttTtN-1-6xn4AghLXTat0wJRNTjhC-R4_CYqPokqjzy9SRMgw3CX9KibpcMzL2wX7Pt6pUSPdE3qoK9ZEAOP1q9sOljXryRXtuoyomLC3uGudLdKMXE8nA)
+![](/img/jobs/smn/summoner_lv18-fixed-01.png)
 
 Level 26 will provide you with an upgrade to your **Bio I**, with the Corruption Mastery trait upgrading it to **Bio II**. This upgrade increases the amount of potency per tick your DoT will deal to its target.  
 
@@ -51,7 +51,7 @@ Upon reaching level 30, you will unlock two new abilities. The first is **Bane**
 \
 After you complete the Summoner job quest, you will receive your third pet summon, **Summon III**. **Summon III** will allow you to summon **Ifrit-Egi**, which will be the first upgraded Egi available to you. As Egis are considerably stronger compared to the initial Carbuncles, you will now prioritize using **Ifrit-Egi** full time. **Ifrit-Egi** casts its auto-attack with **Burning Strike**, dealing fire damage to a single target, while **Egi Assault I** will command Ifrit to cast **Crimson Cyclone**, dealing significant damage to your target.  
 
-![](https://lh4.googleusercontent.com/5QKVEBULgoVnD0k_UgryTw2VLMYZqVgrqRowuvN2PH2lnswvD5FewNU9Bgmma8C10e4fs4vBwpa2pVjEbr5jLjO6JuIZnLqrgBaij1u_ljhiPyeSeZrffVKnqSzGV2jAYYjhn2va)
+![](/img/jobs/smn/summoner_lv30-fixed-01.png)
 
 Upon reaching level 35, you will unlock **Energy Siphon**. **Energy Siphon**, like **Energy Drain**, refreshes your Aetherflow Gauge upon activation, and both skills share a 30 second cooldown. However, **Energy Siphon** is designed for AoE situations, dealing damage to your target and any nearby targets within five yalms.
 
@@ -78,7 +78,7 @@ As you reach level 40, you’ll unlock two actions that will begin to strengthen
 * With **Titan-Egi**, **Egi Assault II** will result in Titan casting **Mountain Buster**, dealing significant earth damage to your target + any nearby targets within five yalms (damage to additional targets is not reduced).
 * With **Emerald Carbuncle**, **Egi Assault II** will command Emerald to cast **Glittering Emerald**, dealing wind damage to your target + any nearby targets within five yalms. Afterward, **Emerald Carbuncle** will create a windstorm on the target, dealing additional damage-over-time to any enemies who enter the ground AoE space over nine seconds.
 
-![](https://lh5.googleusercontent.com/jY314-LBalQJmrgBRLUr0w-mFAGPz1LAKCDHu7MgSJrytiqUb-ukpZKv8GpROuuOUoz8h0hRsrc0IedgjOxjWu56jNzDGy6dmNvGjRBXYpfQG6SGw2fp0yNoazDX733DUZK7c1pK)
+![](/img/jobs/smn/summoner_lv40-singletarget_fixed-03.png)
 
 After you complete your level 40 job quest, you will unlock **Outburst**. **Outburst** is another hardcast GCD, providing damage to your target + any nearby targets within five yalms. This addition will start to create choices for which GCD you should prioritize based on whether you’re fighting one to two targets vs. three or more targets:
 
@@ -93,7 +93,7 @@ Once you complete your level 45 job quest, you will unlock your third and final 
 
 Once you unlock **Garuda-Egi**, you will now establish the pet priority that will exist all the way to max level. **Ifrit-Egi** should generally be used in one or two target scenarios, while **Garuda-Egi** should be used when fighting three or more targets.
 
-![](https://lh6.googleusercontent.com/W38Wwxbbd0jgw-8IUcjm47GQRkt347kjg2IeRea4FP0LRMJcStKSAEqgm6jCY4k8txeUvGh517yl9Wm3H-Kj_gaYZUwM4q15mZsK-BXN-BeAhXb9Sh9k-RhUJ4_bs5oiMIpkW5Gn)
+![](/img/jobs/smn/summoner_lv45-aoe_fixed-03.png)
 
 ## Quick Rotation Goals:
 
@@ -130,11 +130,11 @@ Upon reaching level 58 and completing the job quest, you will unlock **Dreadwyrm
 
 For now, the effects of **Dreadwyrm Trance** will provide you with a “free” **Tri-disaster** to use and allow you to cast **Ruin III** instantly for free oGCD weaving space or movement purposes.
 
-![](https://lh5.googleusercontent.com/rpkx4TrJvs1r1UWE84AXo8KhbWalXLIef00fkUMLhg0p9CszzJaHsuESVWNSztFNlRpvswboZfy-bsiGcEMrOmE4zbygiQ0W4cmGo61cOs9KtBV1Kw_pui9Y3sXoa4WtTx47Grck)
+![](/img/jobs/smn/summoner_lv58-singletarget_fixed2-05.png)
 
 Finishing the level 60 job quest will unlock a special ability for **Dreadwyrm Trance**, called **Deathflare**. **Deathflare** is an oGCD that will become available once **Dreadwyrm Trance** is activated, and is a high damage nuke ability. If **Deathflare** is used, the effects of **Dreadwyrm Trance** are ended immediately, meaning **Deathflare** should be used as your “finisher” any time **Dreadwyrm Trance** is used.
 
-![](https://lh6.googleusercontent.com/laqR5yUD6lz8fCEQ0dIECXEd6SSh-F3wYUHR4TMSCeRPyinu5crj9-vNmCs1G4B22KiIYxJw4A4SphVjbfrGphnW4J0fXxuJZDiZWC2O8oQyr0fQRlA13WqN6-SIPkC0dJdh65tm)
+![](/img/jobs/smn/summoner_lv60-aoe_fixed-02.png)
 
 ## Quick Rotation Goals:
 
@@ -152,7 +152,7 @@ Finishing the level 60 job quest will unlock a special ability for **Dreadwyrm T
 
 Upon reaching level 62, you will unlock **Ruin IV** from the **Enhanced Ruin II** trait.  From this trait, each time you cast **Egi Assault I**, it will generate a Further Ruin stack (up to a maximum of four) to be used to cast **Ruin IV**. Ruin IV is essentially an upgraded version of **Ruin II**.  
 
-![](https://lh6.googleusercontent.com/g4B05GkOA7ySgI17cEelQ_2oXpZv9uFM-eZ3bTRjl40bEOff94tjwghJobwqTyKWXbCnA2IGn8K3s8jf4dM3MEHqGHbk0PUKOF-Q_KZX3dzd_VH0lvptHJgGrcUHYQx4CXmRQVq_)
+![](/img/jobs/smn/summoner_lv62-furtherruin-04.png)
 
 At level 64 you will unlock **Aetherpact**.  By activating **Aetherpact**, you will command your Egi pet to cast **Devotion**. **Devotion** applies a buff to yourself and all party members, increasing damage dealt by 5% for 15 seconds. **Aetherpact** has a very long cooldown of 180 seconds.
 
@@ -165,7 +165,7 @@ After reaching level 70 and completing the job quest, you will receive your next
 
 For now, **Summon Bahamut** will be available after finishing **Dreadwyrm Trance** twice.  
 
-![](https://lh6.googleusercontent.com/Tc7weupqcUpG4Jh0VAVd0aRXVoohtgx9t-z9aCIzaUG6ajwudKErfpHUsBMG2NY5nMSpLgeerZTYS6d7pC6fwQpwT0CeNJD6Qj2ksKpJw8dKdirIz-kpdGs3c9qnTi1hQys2qRib)
+![](/img/jobs/smn/summoner_lv70-bahamut_fixed-04.png)
 
 ## Quick Rotation Goals:
 
@@ -191,7 +191,7 @@ Upon reaching level 72, you will unlock **Firebird Trance** (FBT). Similar to *
 
 **Fountain of Fire** and **Brand of Purgatory** are exclusive to **Firebird Trance** . Each time you cast **Fountain of Fire**, you will proc a buff called **Hellish Conduit**, which unlocks **Brand of Purgatory**. During the 20 second duration of **FBT**, you should be aiming to maintain a 1-2-1-2 combo between **Fountain of Fire** and **Brand of Purgatory**, as both of these abilities are stronger than the original GCDs that they replace. 
 
-![](https://lh4.googleusercontent.com/5CWhyL9ZB_KXL8ZYTNLbuNsx0udXnE3uF4WRGwgWBCJxIoei8eWBDFQRjXGcUIGVCRQbWRCaXoB1SF94XIGmh91yMNua8XiJluzSWLsZ9LFHTxfJZnM-taxLjoxhhb5_HtJFz7Js)
+![](/img/jobs/smn/summoner_lv72_firebird-04.png)
 
 **Firebird Trance** shares a 55 second cooldown with **Dreadwyrm Trance**, meaning you will alternate between using **DWT** and **FBT** every 55 seconds.
 
