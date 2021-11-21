@@ -1,7 +1,7 @@
 ---
 title: Red Mage Best in Slot (BiS)
-patch: "5.58"
 layout: bis
+patch: "5.58"
 lastmod: 2021-10-26T01:30:15.804Z
 changelog:
   - date: 2021-10-26T01:30:27.164Z
@@ -42,4 +42,6 @@ bis:
     description: ""
     name: TEA i481 2.48 GCD Relic BiS
     link: https://etro.gg/gearset/dbb5d88d-815a-4852-8875-a364acbc2b8d
+authors:
+  - Balance-RDM-Staff
 ---
