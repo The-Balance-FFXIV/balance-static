@@ -1,7 +1,7 @@
 ---
 title: Bard Best in Slot (BiS)
-patch: "5.58"
 layout: bis
+patch: "5.58"
 lastmod: 2021-10-26T02:40:10.518Z
 changelog:
   - date: 2021-10-26T02:40:27.765Z
@@ -31,6 +31,8 @@ bis:
     description: These are basically equal, pick to taste.
     name: TEA Relic 2.47s
     link: https://etro.gg/gearset/f0eafbaf-fb74-48ee-99a8-21780ff8a793
+authors:
+  - Balance-BRD-Staff
 ---
 # 5.5x Best In Slot
 
