@@ -1,7 +1,7 @@
 ---
 title: Ninja FAQ
-patch: "5.58"
 layout: qna
+patch: "5.58"
 lastmod: 2021-10-29T03:10:30.754Z
 changelog:
   - date: 2021-10-29T03:10:48.026Z
@@ -52,6 +52,8 @@ qna:
     answer: No, it wouldn't be BiS.﻿
   - question: Should I save Bunshin for Trick, or use it on cooldown?
     answer: Use it on cooldown.
+authors:
+  - Balance-NIN-Staff
 ---
 Frequently Asked Questions: 
 
