@@ -6,4 +6,6 @@ changelog:
   - date: 2021-10-29T03:03:46.414Z
     message: Created page
 priority: Item Level > Critical Hit > Direct Hit = Determination > Skill Speed
+authors:
+  - Balance-DRG-Staff
 ---
