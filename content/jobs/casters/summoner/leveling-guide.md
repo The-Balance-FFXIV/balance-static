@@ -19,7 +19,7 @@ We will also break it down into smaller leveling “sections”, to allow you to
 
 # Levels 1 - 29
 
-Your first ability unlocked at level one will be **Ruin I**. **Ruin I** is a hardcast GCD with a 2.5 second base cast time and will serve as your initial spammable GCD. Your DPS actions will be supplemented with **Bio I** upon reaching **level two**, and **Miasma** upon reaching level six. **Bio I** and **Miasma** are your damage-over-time (DoT) actions, applying debuffs that will tick for damage every ~3 seconds with each server tick. These DoTs will last for 30 seconds. \
+Your first ability unlocked at level one will be **Ruin I**. **Ruin I** is a hardcast GCD with a 2.5 second base cast time and will serve as your initial spammable GCD. Your DPS actions will be supplemented with **Bio I** upon reaching level two, and **Miasma** upon reaching level six. **Bio I** and **Miasma** are your damage-over-time (DoT) actions, applying debuffs that will tick for damage every ~3 seconds with each server tick. These DoTs will last for 30 seconds. \
 \
 Level four will also add two abilities, **Physick** and **Summon**. **Physick** is a GCD heal ability, allowing you to restore your own HP, or the HP of a party member. At low levels, **Physick** provides a substantial amount of healing, and you may utilize it whenever you find yourself taking significant damage.\
 \
