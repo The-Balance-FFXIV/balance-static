@@ -1,7 +1,7 @@
 ---
 title: Monk FAQ
-patch: "5.58"
 layout: qna
+patch: "5.58"
 lastmod: 2021-10-28T03:51:49.669Z
 changelog:
   - date: 2021-10-28T03:52:05.648Z
@@ -69,8 +69,7 @@ qna:
     answer: For Monk we want Crit > DH > Det.
   - question: "\"What's BiS?\"/\"What stats should I put on my relic?\""
     answer: >-
-      Check out the [BiS page
-      here](/jobs/melee/monk/best-in-slot/).
+      Check out the [BiS page here](/jobs/melee/monk/best-in-slot/).
 
 
       The following Pastebin contains recommendations for BiS sets in all three Ultimate fights, containing both Relic/Non-relic sets
@@ -80,6 +79,8 @@ qna:
   - question: '"Twin Snakes falls off in my opener, is that normal?"'
     answer: Yep, Twin Snakes will fall off for a little bit during PB. This will
       happen multiple times.
+authors:
+  - Balance-MNK-Staff
 ---
 > *Is Double True Strike dead?*
 
