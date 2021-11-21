@@ -4,10 +4,12 @@ card_header_image: /img/jobs/smn/leveling.png
 authors:
   - elevation
 patch: "5.58"
-lastmod: 2021-11-15T21:18:04.169Z
+lastmod: 2021-11-21T03:41:44.985Z
 changelog:
   - date: 2021-11-15T21:18:27.784Z
     message: Added page
+  - date: 2021-11-21T03:41:47.108Z
+    message: Added guide
 ---
 # Introduction
 
