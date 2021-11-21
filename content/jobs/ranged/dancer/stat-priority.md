@@ -6,4 +6,6 @@ changelog:
   - date: 2021-10-26T02:09:42.136Z
     message: Created page
 priority: Critical Hit > Direct Hit > Determination
+authors:
+  - Balance-DNC-Staff
 ---
