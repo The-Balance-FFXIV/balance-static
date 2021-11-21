@@ -11,7 +11,7 @@ changelog:
 ---
 # Introduction
 
-Welcome! This page is written to assist you throughout your leveling journey and provide insight on how the Summoner job will evolve from Level 1 to Level 80.  Summoner may appear as a bit of a “unique” job with a lot of moving parts and multiple avenues of attacking enemies.  
+Welcome! This page is written to assist you throughout your leveling journey and provide insight on how the Summoner job will evolve from level one to level 80.  Summoner may appear as a bit of a “unique” job with a lot of moving parts and multiple avenues of attacking enemies.  
 
 Throughout this leveling guide, we will provide you with a basic fundamental understanding of each spell that you’ll unlock, as well as provide some quick rotation priorities and visualization examples.  Our goal is to break things down into simple and easy-to-understand concepts to help you piece together the various moving parts that Summoner’s kit is built from.  
 
