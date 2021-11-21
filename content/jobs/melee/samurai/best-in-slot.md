@@ -1,7 +1,7 @@
 ---
 title: Samurai Best in Slot (BiS)
-patch: "5.58"
 layout: bis
+patch: "5.58"
 lastmod: 2021-10-28T03:29:30.328Z
 changelog:
   - date: 2021-10-28T03:30:20.029Z
@@ -35,6 +35,8 @@ bis:
       on ping ≤ 10ms without clipping. Don't play these.
     name: 2.00 GCD OLD 'fastSam' BIS
     link: https://etro.gg/gearset/7a512a2f-b1ea-42fd-86b4-13bff52b4f2d
+authors:
+  - Balance-SAM-Staff
 ---
 # Samurai Savage Best In Slot:
 
