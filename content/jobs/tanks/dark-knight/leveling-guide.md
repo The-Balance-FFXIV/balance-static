@@ -2,7 +2,7 @@
 title: Dark Knight Leveling Guide
 card_header_image: /img/jobs/drk/leveling.png
 authors:
-  - Balance-DRK-Staff
+  - apileofcats
 patch: "5.5"
 lastmod: 2021-10-27T17:23:15.088Z
 changelog:
