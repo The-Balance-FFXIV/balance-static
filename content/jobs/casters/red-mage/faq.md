@@ -58,4 +58,6 @@ qna:
     answer: It is generally advisable to avoid SpS as much as possible when choosing
       your gear. Most tiers prefer a 2.5s GCD, but there are also times where a
       2.48s or a 2.49s GCD is acceptable.
+authors:
+  - Balance-RDM-Staff
 ---
