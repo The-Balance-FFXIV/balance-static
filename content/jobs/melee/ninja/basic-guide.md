@@ -2,7 +2,6 @@
 title: Ninja Basic Guide
 card_header_image: /img/jobs/nin/basic.png
 authors:
-  - Balance-NIN-Staff
   - zhotacton
 patch: "5.58"
 lastmod: 2021-10-29T03:08:20.127Z
