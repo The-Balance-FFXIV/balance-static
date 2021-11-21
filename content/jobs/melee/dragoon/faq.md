@@ -1,7 +1,7 @@
 ---
 title: Dragoon FAQ
-patch: "5.58"
 layout: qna
+patch: "5.58"
 lastmod: 2021-10-29T02:56:43.800Z
 changelog:
   - date: 2021-10-29T02:57:06.403Z
@@ -142,6 +142,8 @@ qna:
 
 
       tl;dr: **Yes. Always, always, always use Disembowel before your AoE.**
+authors:
+  - Balance-DRG-Staff
 ---
 # Frequently Asked Questions
 
