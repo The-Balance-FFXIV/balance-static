@@ -189,7 +189,7 @@ Upon reaching level 72, you will unlock **Firebird Trance** (FBT). Similar to *
 * **Ruin III** transforms to **Fountain of Fire**.
 * **Outburst** transforms to **Brand of Purgatory**.
 
-**Fountain of Fire** and **Brand of Purgatory** are exclusive to **Firebird Trance **. Each time you cast **Fountain of Fire**, you will proc a buff called **Hellish Conduit**, which unlocks **Brand of Purgatory**. During the 20 second duration of **FBT**, you should be aiming to maintain a 1-2-1-2 combo between **Fountain of Fire** and **Brand of Purgatory**, as both of these abilities are stronger than the original GCDs that they replace. 
+**Fountain of Fire** and **Brand of Purgatory** are exclusive to **Firebird Trance** . Each time you cast **Fountain of Fire**, you will proc a buff called **Hellish Conduit**, which unlocks **Brand of Purgatory**. During the 20 second duration of **FBT**, you should be aiming to maintain a 1-2-1-2 combo between **Fountain of Fire** and **Brand of Purgatory**, as both of these abilities are stronger than the original GCDs that they replace. 
 
 ![](https://lh4.googleusercontent.com/5CWhyL9ZB_KXL8ZYTNLbuNsx0udXnE3uF4WRGwgWBCJxIoei8eWBDFQRjXGcUIGVCRQbWRCaXoB1SF94XIGmh91yMNua8XiJluzSWLsZ9LFHTxfJZnM-taxLjoxhhb5_HtJFz7Js)
 
@@ -219,3 +219,7 @@ Since you should already be accustomed to **Firebird Trance** by this point, add
 * Use **Summon Bahamut** when it becomes available - be sure you use **Enkindle Bahamut** twice and continue casting GCDs to reach the maximum of eight Wyrmwave procs.
 * Activate **Firebird Trance** when it becomes available, be sure not to skip **Hellish Conduit** procs to cast **Brand of Purgatory**. 
 * Continue cycling between **Dreadwyrm Trance** and **Firebird Trance**.
+
+- - -
+
+With thanks to [AkhMorning](http://www.akhmorning.com) for assistance with resources and theorycrafting.
