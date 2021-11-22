@@ -311,6 +311,7 @@ Coerthan Torment combo is 200 potency per GCD per mob - 400 over 2 GCDs
 | 14      | 2800      | 4990                     | 3360                      | 1630                | 16300                         | 1164.29                   | 432.86                   |
 | 15      | 3000      | 5390                     | 3600                      | 1790                | 17900                         | 1193.33                   | 432.00                   |
 
+&nbsp;
 Essentially: if, sometime during the duration of Disembowel, you will press off-GCDs that add together to equal the potency needed to break even (AoE skills only need to hit the potency per enemy column) then you should apply it.
 
 At three, it is **always a gain**. At four, you just need 75 potency! Geirskogul alone is 270. Of note is even at 15, you still need less than 1200 - the potency of 3 Nastronds.
@@ -433,7 +434,9 @@ This skill is notoriously hard to use, already. Optimal handling:\
 
 Different options are listed below, with varying degrees of usefulness/ease of use.
 
-##### Mouseover Macro
+**Mouseover Macro:**
+&nbsp;
+&nbsp;
 
 ```
 /merror off
@@ -452,9 +455,12 @@ Different options are listed below, with varying degrees of usefulness/ease of u
 /ac "Dragon Sight" <mo>
 /micon "Dragon Sight"
 ```
-  
-##### Mixed Macro
-  
+&nbsp;
+&nbsp;  
+**Mixed Macro:**
+&nbsp;
+&nbsp;
+
 ```
 /merror off
 /ac "Dragon Sight"
@@ -472,8 +478,11 @@ Different options are listed below, with varying degrees of usefulness/ease of u
 /ac "Dragon Sight" <2>
 /micon "Dragon Sight"
 ```
-  
-##### One Specific Ally
+&nbsp;
+&nbsp; 
+**One Specific Ally:**
+&nbsp;
+&nbsp;
   
 ```
 /merror off
@@ -492,7 +501,8 @@ Different options are listed below, with varying degrees of usefulness/ease of u
 /ac "Dragon Sight" <2>
 /micon "Dragon Sight"
 ```
-  
+&nbsp;
+&nbsp;
 For controller, I recommend learning to soft-target and dropping all reliance on macros.
 For keyboard/mouse, I recommend  one to three specific ally macros for reliable friends and a mouseover as a backup (or primary, your call).
 
