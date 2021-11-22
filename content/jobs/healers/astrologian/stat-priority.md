@@ -8,5 +8,5 @@ changelog:
 priority: Piety to comfort (if needed) > SpS if you want to hit a certain GCD
   tier > Crit > Det/DH > SpS
 authors:
-  - Balance-AST-Staff
+  - Ahriqi
 ---
