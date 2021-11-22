@@ -28,4 +28,6 @@ qna:
   - question: Do I hold Bloodfest for No Mercy?
     answer: See the [Bloodfest part of the main GNB
       guide](/jobs/tanks/gunbreaker/basic-guide/#bloodfest).
+authors:
+  - Balance-GNB-Staff
 ---
