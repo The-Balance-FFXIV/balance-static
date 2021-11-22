@@ -7,4 +7,6 @@ changelog:
     message: Created page
 priority: Weapon Damage > Dexterity (main stat) > Critical Hit > Direct Hit >
   Determination > Skill Speed
+authors:
+  - Balance-NIN-Staff
 ---
