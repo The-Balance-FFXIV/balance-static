@@ -7,5 +7,5 @@ changelog:
     message: Created page
 priority: Critical Hit > Direct Hit > Determination (761 Skill Speed)
 authors:
-  - Balance-MNK-Staff
+  - Perfect-Balance
 ---
