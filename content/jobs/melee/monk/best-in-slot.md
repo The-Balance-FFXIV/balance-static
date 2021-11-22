@@ -1,7 +1,7 @@
 ---
 title: Monk Best in Slot (BiS)
-patch: "5.58"
 layout: bis
+patch: "5.58"
 lastmod: 2021-10-28T03:54:26.171Z
 changelog:
   - date: 2021-10-28T03:54:36.354Z
@@ -15,6 +15,8 @@ bis:
     description: ""
     name: "Marginally-Better Relic Set "
     link: https://etro.gg/gearset/2a0fbde0-fa6f-47b6-aa0d-9b7d240c6e19
+authors:
+  - Balance-MNK-Staff
 ---
 # What do I meld on gear generally?
 
