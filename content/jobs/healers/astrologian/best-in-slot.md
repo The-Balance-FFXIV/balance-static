@@ -60,7 +60,7 @@ bis:
     name: TEA BiS
     link: https://docs.google.com/spreadsheets/d/1mRqbJtOESUzx-hblK_CZW3Qy7MWGupD1-fbka7BJSPI/edit#gid=566495409
 authors:
-  - Balance-AST-Staff
+  - Ahriqi
 ---
 # 5.5 AST BiS SETS
 
