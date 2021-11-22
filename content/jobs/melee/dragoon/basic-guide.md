@@ -310,7 +310,6 @@ Coerthan Torment combo is 200 potency per GCD per mob - 400 over 2 GCDs
 | 13      | 2600      | 4590                     | 3120                      | 1470                | 14700                         | 1130.77                   | 433.85                   |
 | 14      | 2800      | 4990                     | 3360                      | 1630                | 16300                         | 1164.29                   | 432.86                   |
 | 15      | 3000      | 5390                     | 3600                      | 1790                | 17900                         | 1193.33                   | 432.00                   |
-
 &nbsp;
 Essentially: if, sometime during the duration of Disembowel, you will press off-GCDs that add together to equal the potency needed to break even (AoE skills only need to hit the potency per enemy column) then you should apply it.
 
@@ -480,6 +479,7 @@ Different options are listed below, with varying degrees of usefulness/ease of u
 ```
 &nbsp;
 &nbsp; 
+
 **One Specific Ally:**
 &nbsp;
 &nbsp;
@@ -503,6 +503,7 @@ Different options are listed below, with varying degrees of usefulness/ease of u
 ```
 &nbsp;
 &nbsp;
+
 For controller, I recommend learning to soft-target and dropping all reliance on macros.
 For keyboard/mouse, I recommend  one to three specific ally macros for reliable friends and a mouseover as a backup (or primary, your call).
 
