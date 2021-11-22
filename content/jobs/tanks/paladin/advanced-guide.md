@@ -2,7 +2,7 @@
 title: Paladin Advanced Guide
 card_header_image: /img/jobs/pld/advanced.png
 authors:
-  - Balance-PLD-Staff
+  - nikroulah
 patch: "5.5"
 lastmod: 2021-10-27T08:32:24.715Z
 changelog:
