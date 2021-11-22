@@ -1,7 +1,7 @@
 ---
 title: Astrologian Skills Overview
 authors:
-  - Balance-AST-Staff
+  - Ahriqi
 patch: "5.58"
 lastmod: 2021-10-26T20:48:44.565Z
 changelog:
