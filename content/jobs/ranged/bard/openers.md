@@ -10,7 +10,7 @@ changelog:
 ---
 # Bard Openers
 
-For all openers;
+For all openers:
 
 * Use Pitch Perfect at three stacks as able, and Refulgent procs as you get them.
 * Hold Barrage until the next GCD if you already have an Refulgent proc.
