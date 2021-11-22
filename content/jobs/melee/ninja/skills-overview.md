@@ -1,7 +1,7 @@
 ---
 title: Ninja Skills Overview
 authors:
-  - Balance-NIN-Staff
+  - zhotacton
 patch: "5.58"
 lastmod: 2021-10-29T03:49:54.894Z
 changelog:
