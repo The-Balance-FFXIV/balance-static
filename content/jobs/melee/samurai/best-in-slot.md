@@ -36,7 +36,7 @@ bis:
     name: 2.00 GCD OLD 'fastSam' BIS
     link: https://etro.gg/gearset/7a512a2f-b1ea-42fd-86b4-13bff52b4f2d
 authors:
-  - Balance-SAM-Staff
+  - valynne
 ---
 # Samurai Savage Best In Slot:
 
