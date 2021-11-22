@@ -61,6 +61,7 @@ The bread-and-butter of your rotation, so to speak, these are the buttons you pr
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) |
 
+&nbsp;\
 This combo has our basic damage buff in **Disembowel** alongside our damage-over-time skill, **Chaos Thrust**. These two effects are essential in dishing out proper amounts of damage.
 
 ## The Full Thrust Combo
@@ -69,6 +70,7 @@ This combo has our basic damage buff in **Disembowel** alongside our damage-over
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
 
+&nbsp;\
 This combo uses our strongest weaponskill, **Full Thrust**, and that’s about it. It’s essentially just a filler combo whenever the aforementioned effects are active.
 
 #### Raiden Thrust
@@ -83,6 +85,7 @@ This action functions as a direct upgrade to **True Thrust** after you’ve succ
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/000000/000306_hr1.png) | ![](https://xivapi.com/i/002000/002586_hr1.png) | ![](https://xivapi.com/i/002000/002590_hr1.png) |
 
+&nbsp;\
 Our new and freshly upgraded area-of-effect combo now packs **Coerthan Torment** as a third hit finisher! This is primarily used when dealing with a group of enemies numbering **three or more.**
 
 ## Basic Rotation
@@ -91,6 +94,7 @@ Our new and freshly upgraded area-of-effect combo now packs **Coerthan Torment**
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
 
+&nbsp;\
 Putting all of this together with the timers, we come out with one single string of actions. In general, under normal circumstances, we want to maintain this sequence of GCDs for as long as we are capable!
 
 #### The Other Guy
@@ -128,6 +132,7 @@ Some enemies will have the **Side** mark wrapping their entire hitbox, with no a
 | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
 
+&nbsp;\
  **Chaos Thrust** and **Wheeling Thrust** deal 40 more potency from the **Rear**.
 
 #### Positional Parity
@@ -189,6 +194,7 @@ We will always use exactly **1 Stardiver** in each sequence.\
 | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/002000/002576_hr1.png) | ![](https://xivapi.com/i/002000/002591_hr1.png) |
 
+&nbsp;\
 Jump and its big brother High Jump are our most important actions. Using them gives us the Dive Ready buff, which grants access to Mirage Dive. Without these friends, Life would be a distant dream. 
 
 ![](https://xivapi.com/i/002000/002580_hr1.png)\
@@ -243,6 +249,7 @@ Our buffs fall on timers that function pretty well together in the duration of a
 | 270s | x                                               |                                                 |                                                 |
 | 360s | x                                               | x                                               | x                                               |
 
+
 #### Buff Duration and Optimal Placement
 
 If you have decent practice properly delaying your buffs within the GCD, you should, ideally, be able to get nine GCD actions under each cast of Lance Charge, Dragon Sight, and Battle Litany, assuming your GCD is in our ideal Skill Speed window. Otherwise, you will get eight.
@@ -279,6 +286,7 @@ When alternating back and forth for an extended period of time, be sure to use y
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/000000/000306_hr1.png) | ![](https://xivapi.com/i/002000/002586_hr1.png) | ![](https://xivapi.com/i/002000/002590_hr1.png) |
 
+&nbsp;\
 When dealing with any more than two targets, we want to roll into our Coerthan Torment Combo. You want to keep pressing High Jump, Mirage Dive, and all of the other buttons, especially Dragonfire Dive and Geirskogul, as they also hit multiple targets. Once you get your 2 Dragon Eyes, you can roll into Life and drop Nastrond and Stardiver to unleash destruction on a level where only **Black Mage** can compete. Be sure not to forget to weave Life Surge before the Coerthan Torment hit! The automatic critical hit affects all targets hit.
 
 ## Should I use Disembowel?
@@ -361,6 +369,7 @@ Disengaging from the target can cause your rotation to get forcibly shifted arou
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | --- |
 | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | \   |
 
+&nbsp;\
 That’s honestly all there is to discuss here. This is more of a judgment call, honestly - anything up to around 12 seconds remaining could be clipped, but ten is the basic cutoff for getting all five hits of your Full Thrust Combo with Disembowel’s buff before it falls off. You would lose the buff on Raiden Thrust and Disembowel after the fact, but that can be overcome.
 
 The only exception to this rule is if you are going to hit an off-GCD action in that period of time after Disembowel wears off. In that case, you absolutely will want the refresh beforehand.
@@ -395,7 +404,7 @@ The basic idea is to choose between pressing Mirage Dive before or after Geirsko
 | If, instead, Dragon Sight has more than 23 seconds until it's ready, **delay** | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) |     |
 | Otherwise, **enter**                                                           | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) |     |
 
-&nbsp;\
+
 #### Delayed First Life
 
 Activating your first Life of the Dragon window as early as possible (on your second Geirskogul) feels nice on paper, but, in practice, it is rarely optimal. Generally, we want to **delay** that first entry, to push it back toward our second cast of Lance Charge. Using the above as a guide, you’ll see that, at the time of second Geirskogul, we fall into the second category. The way this ends up shaking out in practice (ignoring the main Combo strings) is:
@@ -530,6 +539,7 @@ Just meld (with VIs; VIIIs have a 40% removal chance, and you will want to save 
 | [2.46](https://etro.gg/gearset/bc44395f-4ce1-47aa-b52a-7bcbcb90d152) | Smoked Chicken | 4167         | 2017          | 2702       | 726         |
 | [2.50](https://etro.gg/gearset/7f0557b6-d86f-4d3a-8953-4db56bd23488) | Smoked Chicken | 4069         | 2244          | 2919       | 380         |
 
+&nbsp;\
 The 2.46 set provides a comfortable GCD speed and will, in general, supply the highest damage throughput in content, on average, across the sets. Getting nine GCDs under buffs at this speed can be rather difficult, but it is still doable.
 
 The 2.50 set provides you with a particularly slow GCD speed, which is favored quite substantially in fights with large quantities of time where you are pushed off the boss. You are also incapable of getting nine GCDs (still unable to get fewer than eight, as well, assuming you don’t delay any GCD) under your buff actions at this speed, so if you’re feeling lazy about trying to push as hard as you can, it’s a very good alternative.
