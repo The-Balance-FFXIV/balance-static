@@ -1,7 +1,7 @@
 ---
 title: Dancer Skills Overview
 authors:
-  - Balance-DNC-Staff
+  - Ringabel-Dim
 patch: "5.58"
 lastmod: 2021-10-26T02:05:46.525Z
 changelog:
