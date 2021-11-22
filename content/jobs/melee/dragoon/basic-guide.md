@@ -354,6 +354,7 @@ Disengaging from the target can cause your rotation to get forcibly shifted arou
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | --- |
 | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | \   |
 
+&nbsp;\
 2. Disembowel has more than 10 seconds remaining
 
 |                                                 |                                                 |                                                 |                                                 |                                                 |     |
@@ -370,6 +371,7 @@ The only exception to this rule is if you are going to hit an off-GCD action in 
 | ------------------------------------------- | ---------- | ------------------------------------------- | --- | ------------------------------------------- | -------- | ------------------------------------------- |
 | ![](https://xivapi.com/i/002000/002583.png) | Geirskogul | ![](https://xivapi.com/i/002000/002583.png) | and | ![](https://xivapi.com/i/002000/002589.png) | Nastrond | ![](https://xivapi.com/i/002000/002589.png) |
 
+&nbsp;\
 The general cycle for Life of the Dragon is very straightforward:
 
 <div align="center">
@@ -378,6 +380,7 @@ The general cycle for Life of the Dragon is very straightforward:
 | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------ | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------ | ------------------------------------------- | ------ | ------------------------------------------- | ------ |
 |                                             |                                             | 1                                           |        |                                             | 2                                           | Life                                        |                                             |                                             |        |                                             |        |                                             |        |
 
+&nbsp;\
 Not so obviously, following this rotation is **not** always optimal. If you do follow this throughout the encounter, your output will, in general, be just fine. It’s just that there are some cases where you will want to **delay** your Life cycle by a single Geirskogul cast.
 
 The basic idea is to choose between pressing Mirage Dive before or after Geirskogul when the Mirage Dive would fill your second Dragon Eye. The decision forces you to ask the simple question: “Will my Nastrond and Stardiver fall under more buffs (Lance Charge and Dragon Sight, primarily) by entering Life now, or if I enter in 30 more seconds, instead?” You should be considering the remaining time on the recast timers for your buff actions when making this decision. The following chart should help to make it more clear. You should follow these checks **in order** down the row. If the first one fails, check the second. If that one fails, check the third, and so on.
@@ -392,6 +395,7 @@ The basic idea is to choose between pressing Mirage Dive before or after Geirsko
 | If, instead, Dragon Sight has more than 23 seconds until it's ready, **delay** | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) |     |
 | Otherwise, **enter**                                                           | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) |     |
 
+&nbsp;\
 #### Delayed First Life
 
 Activating your first Life of the Dragon window as early as possible (on your second Geirskogul) feels nice on paper, but, in practice, it is rarely optimal. Generally, we want to **delay** that first entry, to push it back toward our second cast of Lance Charge. Using the above as a guide, you’ll see that, at the time of second Geirskogul, we fall into the second category. The way this ends up shaking out in practice (ignoring the main Combo strings) is:
@@ -420,6 +424,7 @@ As you can see, the only place we currently even employ this strategy is for our
 | ------------------------------------------- | ------------ | ------------------------------------------- |
 | ![](https://xivapi.com/i/002000/002587.png) | Dragon Sight | ![](https://xivapi.com/i/002000/002587.png) |
 
+&nbsp;\
 You need to be close to the target of your affections to properly give them a buff. If **the target** moves away from you, however, **you will retain your buff**. So it’s really only their loss. You can usually just worry about activating the skill and then stop worrying about whether or not it stays on your target. As of this expansion, you can now activate the skill **without a target**, though this is **NOT RECOMMENDED**, because you will only receive the 10% damage buff, and the 5% buff will be lost for that use, completely. No one gets it.
 
 This skill is notoriously hard to use, already. Optimal handling:\
