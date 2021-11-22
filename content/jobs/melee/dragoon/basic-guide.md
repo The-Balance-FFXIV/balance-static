@@ -292,7 +292,7 @@ The long answer is that using it causes you to lose potency overall if you’re 
 Applying Disembowel is 290 + 320 = 610 potency
 Coerthan Torment combo is 200 potency per GCD per mob - 400 over 2 GCDs
 
-<div align="center">
+
 
 | Enemies | CoT ppgcd | Pot loss for applying DE | Pot gain from  applied DE | Total loss  from DE | Potency needed  to break even | Potency needed  per enemy | Stardiver pot  per enemy |
 | ------- | --------- | ------------------------ | ------------------------- | ------------------- | ----------------------------- | ------------------------- | ------------------------ |
@@ -312,15 +312,13 @@ Coerthan Torment combo is 200 potency per GCD per mob - 400 over 2 GCDs
 
 
 
-\
+  \
 Essentially: if, sometime during the duration of Disembowel, you will press off-GCDs that add together to equal the potency needed to break even (AoE skills only need to hit the potency per enemy column) then you should apply it.
 
 At three, it is **always a gain**. At four, you just need 75 potency! Geirskogul alone is 270. Of note is even at 15, you still need less than 1200 - the potency of 3 Nastronds.
 This table also assumes that monsters will last the full (or most of the full) Disembowel duration.
 
 The formula to directly generate the potency needed per enemy column, knowing the amount of enemies (n) is:
-
-<div align="center">
 
 **1600 - 6100/n**
 
