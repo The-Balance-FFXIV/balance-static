@@ -1,7 +1,7 @@
 ---
 title: Monk Openers
 authors:
-  - Balance-MNK-Staff
+  - Perfect-Balance
 patch: "5.58"
 lastmod: 2021-10-28T03:51:00.691Z
 changelog:
