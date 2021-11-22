@@ -1,7 +1,7 @@
 ---
 title: Paladin Skills Overview
 authors:
-  - Balance-PLD-Staff
+  - nikroulah
 patch: "5.5"
 lastmod: 2021-10-27T08:27:54.472Z
 changelog:
