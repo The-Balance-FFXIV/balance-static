@@ -1,7 +1,7 @@
 ---
 title: Samurai Openers
 authors:
-  - Balance-SAM-Staff
+  - valynne
 patch: "5.58"
 lastmod: 2021-10-28T03:26:22.612Z
 changelog:
