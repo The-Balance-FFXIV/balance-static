@@ -2,6 +2,7 @@
 title: Warrior Openers
 authors:
   - Balance-WAR-Staff
+  - Mox-Xinmagar
 patch: "5.5"
 lastmod: 2021-10-27T08:12:01.799Z
 ---
