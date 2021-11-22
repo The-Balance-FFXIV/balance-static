@@ -312,7 +312,7 @@ Coerthan Torment combo is 200 potency per GCD per mob - 400 over 2 GCDs
 
 
 
-  \
+&nbsp;\
 Essentially: if, sometime during the duration of Disembowel, you will press off-GCDs that add together to equal the potency needed to break even (AoE skills only need to hit the potency per enemy column) then you should apply it.
 
 At three, it is **always a gain**. At four, you just need 75 potency! Geirskogul alone is 270. Of note is even at 15, you still need less than 1200 - the potency of 3 Nastronds.
@@ -382,7 +382,7 @@ Not so obviously, following this rotation is **not** always optimal. If you do f
 
 The basic idea is to choose between pressing Mirage Dive before or after Geirskogul when the Mirage Dive would fill your second Dragon Eye. The decision forces you to ask the simple question: “Will my Nastrond and Stardiver fall under more buffs (Lance Charge and Dragon Sight, primarily) by entering Life now, or if I enter in 30 more seconds, instead?” You should be considering the remaining time on the recast timers for your buff actions when making this decision. The following chart should help to make it more clear. You should follow these checks **in order** down the row. If the first one fails, check the second. If that one fails, check the third, and so on.
 
-<div align="center">
+
 
 | Assuming you already have one Eye and High Jump is coming up soon:             |                                             |                                             |                                             |     |
 | ------------------------------------------------------------------------------ | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | --- |
@@ -396,7 +396,7 @@ The basic idea is to choose between pressing Mirage Dive before or after Geirsko
 
 Activating your first Life of the Dragon window as early as possible (on your second Geirskogul) feels nice on paper, but, in practice, it is rarely optimal. Generally, we want to **delay** that first entry, to push it back toward our second cast of Lance Charge. Using the above as a guide, you’ll see that, at the time of second Geirskogul, we fall into the second category. The way this ends up shaking out in practice (ignoring the main Combo strings) is:
 
-<div align="center">
+
 
 |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |
 | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
@@ -409,8 +409,6 @@ In **most** cases, this is the optimal way to handle the first two cycles. Below
 #### Nastrond and Buffs
 
 Because our buff actions fall into a rather static rotation (as seen above), we can extrapolate these concepts over the course of six minutes and get a general “Life of the Dragon Rotation” so to speak, which shows us when we hold it and when we don’t. This will **only** hold true if we have **six minutes** of continuous uptime - that is, we **can** land every one of the High Jump, Geirskogul, Mirage Dive, Nastrond, and Stardiver hits listed in this visual representation, while ideally dropping zero GCDs in that same window. As such, it is very rarely ever going to be the optimal approach, and the above chart will serve you better in most situations.
-
-<div align="center">
 
 ![](/img/life_rota.png)
 
