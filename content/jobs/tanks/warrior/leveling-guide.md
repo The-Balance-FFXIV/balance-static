@@ -3,6 +3,7 @@ title: Warrior Leveling Guide
 card_header_image: /img/jobs/war/leveling.png
 authors:
   - Balance-WAR-Staff
+  - Mox-Xinmagar
 patch: "5.4"
 lastmod: 2021-10-27T07:44:06.064Z
 changelog:
