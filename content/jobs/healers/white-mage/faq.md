@@ -1,7 +1,7 @@
 ---
 title: White Mage FAQ
-patch: "5.58"
 layout: qna
+patch: "5.58"
 lastmod: 2021-10-27T00:50:31.246Z
 changelog:
   - date: 2021-10-27T00:51:33.064Z
@@ -97,6 +97,8 @@ qna:
     answer: The BiS sets listed in Best In Slot have relic stats allocated!  If
       you're not quite BiS yet, simply follow the standard stat priority of Crit
       > Det > SpS, or use the relic stats of the BiS set you're shooting for.
+authors:
+  - Balance-WHM-Staff
 ---
 # White Mage FAQ
 
