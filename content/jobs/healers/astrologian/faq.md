@@ -59,7 +59,7 @@ qna:
       rule, meld Piety to comfort (as you can tell, for high damage this usually
       means dodging it), Crit > SpS tiering > DH/Det
 authors:
-  - Balance-AST-Staff
+  - Ahriqi
 ---
 # What Sect Should I Use?
 
