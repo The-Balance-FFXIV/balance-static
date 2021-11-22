@@ -15,8 +15,8 @@ changelog:
 
 Dragoon is a very static **melee dps** Job. You have strict, long combos to execute and timers within those combos that need to be maintained. Unlike other Jobs - especially other melee - which rely upon a priority system for their basic GCD rotation, Dragoon instead has static buttons to press in a specific order with very little variance. **Shadowbringers** brings with it a new reliance on hitting proper positionals to trigger new skills.
 
-- - -  
-  
+- - -
+
 # The Brains Behind the Operation
 
 **Eve Malqir** (Balmung) - the primary writer of this guide and Dragoon Mentor from [The Balance](https://discord.gg/thebalanceffxiv "The Balance Discord")\
@@ -30,66 +30,66 @@ Contact: **Xiu Ye#0560** on Discord | [Youtube](https://www.youtube.com/channel/
 Available to field any questions in French!\
 Contact: **Cyane#6811** on Discord | [Youtube](https://www.youtube.com/channel/UCvUJhjEM4tP_mAu-VoOirsg/videos?view_as=subscriber) | [Twitch](https://www.twitch.tv/cyanexiv)
 
-- - -  
-  
+- - -
+
 # Support the Creator
 
 I wrote a book! If anyone feels particularly generous and wants to support me (Eve), you can find said book for sale on [Amazon](https://www.amazon.com/dp/1702412768).
 
-- - -  
-  
+- - -
+
 # Resources
 
 * [Gear Comparison Tool](http://bit.ly/DRG-Gear-Accurate)\
   Allows you to fill in your current \[Level 80] gear and melds and figure out roughly which set will perform better.  
-* [Rotation Builder tool](https://docs.google.com/spreadsheets/d/15hOfxLnmacJbY1FeNSxX6R4owTzChRD45wVcvT3zZeI/edit#gid=1421417811)  
+* [Rotation Builder tool](https://docs.google.com/spreadsheets/d/15hOfxLnmacJbY1FeNSxX6R4owTzChRD45wVcvT3zZeI/edit#gid=1421417811)\
   Allows you to input stats (either your character’s stats or ones made with the above Gear tool) and then build a rotation with them to get a more accurate readout of your DPS. You can use this tool to compare multiple rotations with the same gear to see which one outputs more. This tool causes some substantial load, so be cautious when using.
-* [Controller Guide](http://bit.ly/DRG-Controller)  
+* [Controller Guide](http://bit.ly/DRG-Controller)\
   A simple guide to setting up your controller to play this Job. Old setups are listed within, but I’ll be working soon to get updated ones in there!  
-* [Tethercalc](https://tethercalc.herokuapp.com/) by Platinum Xephera on Ultros  
+* [Tethercalc](https://tethercalc.herokuapp.com/) by Platinum Xephera on Ultros\
   An incredibly useful tool that you can use to see which member of your party is the proper tether target. You just inject your fflogs link to the fight in question and it’ll tell you who you tethered and show you who was the best target.  
-  
-- - -  
-  
+
+- - -
+
 # Global Cooldown (GCD) Actions
 
 The bread-and-butter of your rotation, so to speak, these are the buttons you press most frequently. They're broken down into several **combo** chains with various effects and uses.
 
 ## The Chaos Thrust Combo
 
-|**True Thrust >** | **Disembowel >** | **Chaos Thrust >** | **Wheeling Thrust >** | **Fang and Claw**|
-|-|-|-|-|-|
-|![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) |  ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png)|  
+| **True Thrust >**                               | **Disembowel >**                                | **Chaos Thrust >**                              | **Wheeling Thrust >**                           | **Fang and Claw**                               |
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| ![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) |
 
 This combo has our basic damage buff in **Disembowel** alongside our damage-over-time skill, **Chaos Thrust**. These two effects are essential in dishing out proper amounts of damage.
 
 ## The Full Thrust Combo
 
-|**True Thrust >** | **Vorpal Thrust >** | **Full Thrust >** | **Fang and Claw >** | **Wheeling Thrust**|
-|-|-|-|-|-|
-|![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png)| 
+| **True Thrust >**                               | **Vorpal Thrust >**                             | **Full Thrust >**                               | **Fang and Claw >**                             | **Wheeling Thrust**                             |
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| ![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
 
 This combo uses our strongest weaponskill, **Full Thrust**, and that’s about it. It’s essentially just a filler combo whenever the aforementioned effects are active.
 
 #### Raiden Thrust
 
-![](https://xivapi.com/i/002000/002592_hr1.png) 
+![](https://xivapi.com/i/002000/002592_hr1.png)
 
 This action functions as a direct upgrade to **True Thrust** after you’ve successfully completed one of the above combos. If you land your proper positional on the **final/fifth hit**, **True Thrust** upgrades to **Raiden Thrust**!
 
 #### The Coerthan Torment Combo
 
-|**Doom Spike >** | **Sonic Thrust >** | **Coerthan Torment**|
-|-|-|-|
-|![](https://xivapi.com/i/000000/000306_hr1.png) | ![](https://xivapi.com/i/002000/002586_hr1.png) | ![](https://xivapi.com/i/002000/002590_hr1.png)|
+| **Doom Spike >**                                | **Sonic Thrust >**                              | **Coerthan Torment**                            |
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| ![](https://xivapi.com/i/000000/000306_hr1.png) | ![](https://xivapi.com/i/002000/002586_hr1.png) | ![](https://xivapi.com/i/002000/002590_hr1.png) |
 
 Our new and freshly upgraded area-of-effect combo now packs **Coerthan Torment** as a third hit finisher! This is primarily used when dealing with a group of enemies numbering **three or more.**
 
 ## Basic Rotation
 
-|**Raiden Thrust >** | **Disembowel >** | **Chaos Thrust >** | **Wheeling Thrust >** | **Fang and Claw >** | **Raiden Thrust >** | **Vorpal Thrust >** | **Full Thrust >** | **Fang and Claw >**| **Wheeling Thrust**|
-|-|-|-|-|-|-|-|-|-|-|
-|![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png)|  
+| **Raiden Thrust >**                             | **Disembowel >**                                | **Chaos Thrust >**                              | **Wheeling Thrust >**                           | **Fang and Claw >**                             | **Raiden Thrust >**                             | **Vorpal Thrust >**                             | **Full Thrust >**                               | **Fang and Claw >**                             | **Wheeling Thrust**                             |
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
 
 Putting all of this together with the timers, we come out with one single string of actions. In general, under normal circumstances, we want to maintain this sequence of GCDs for as long as we are capable!
 
@@ -99,17 +99,15 @@ Putting all of this together with the timers, we come out with one single string
 
 Currently not used. You are safe to unmap Piercing Talon from your bar. With us having two 5-hit combo chains and this button breaking either combo at any stage and the longer runoff for combo maintenance, there is almost no way that this skill will ever find use. If it does, this section will add those niche cases.
 
-- - -  
-  
+- - -
+
 # Positionals
 
 Several actions in the kit deal more damage from the **Side** of a boss, and several deal more from the **Rear**. You want to be sure to set up to hit these for extra damage whenever possible.
 
 #### How do I know if I'm at the **Side** or **Rear** of a target?
 
-![](
-/img/pos.png)
-
+![](/img/pos.png)
 
 The arrow at the top is the **Front** of the target. You get no special bonuses by attacking here, other than lots of bonus deaths for standing in tank busters and cleaves.
 
@@ -125,9 +123,10 @@ Some enemies will have the **Side** mark wrapping their entire hitbox, with no a
 **Fang and Claw** deals 40 more potency from the **Side**.
 
 #### Rear Positionals
-| | |
-|-|-|
-|![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png)|
+
+|                                                 |                                                 |
+| ----------------------------------------------- | ----------------------------------------------- |
+| ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
 
  **Chaos Thrust** and **Wheeling Thrust** deal 40 more potency from the **Rear**.
 
@@ -149,8 +148,8 @@ In other words: You should *always* strive to land *every* positional in any sit
    **It is not the end of the world if your group stacks on the face of the boss.
    The DPS loss is not worth causing wipes over.**
 
-- - -  
-  
+- - -
+
 # Off-GCD Actions
 
 These actions have individual recast timers, allowing you to so-called “weave” them between your GCDs.
@@ -171,8 +170,7 @@ Under normal circumstances, it should never fall off.
  **Geirskogul** can only be used under **Blood of the Dragon**, and when you press it with
 **two** **Dragon Eyes** open, we enter **Life of the Dragon**.
 
-![](
-/img/life.png)
+![](/img/life.png)
 
 ![](https://xivapi.com/i/002000/002589_hr1.png)\
 Under **Life of the Dragon**, **Geirskogul** becomes **Nastrond**.\
@@ -186,9 +184,10 @@ We will always use exactly **1 Stardiver** in each sequence.\
 <br>
 
 ## One Giant Leap for Dragoon Kind
-| | |
-|-|-|
-|![](https://xivapi.com/i/002000/002576_hr1.png) | ![](https://xivapi.com/i/002000/002591_hr1.png)|
+
+|                                                 |                                                 |
+| ----------------------------------------------- | ----------------------------------------------- |
+| ![](https://xivapi.com/i/002000/002576_hr1.png) | ![](https://xivapi.com/i/002000/002591_hr1.png) |
 
 Jump and its big brother High Jump are our most important actions. Using them gives us the Dive Ready buff, which grants access to Mirage Dive. Without these friends, Life would be a distant dream. 
 
@@ -235,14 +234,14 @@ Our buffs fall on timers that function pretty well together in the duration of a
 <div align="center">
 
 | Time | ![](https://xivapi.com/i/000000/000309_hr1.png) | ![](https://xivapi.com/i/002000/002587_hr1.png) | ![](https://xivapi.com/i/002000/002585_hr1.png) |
-| ---- | ------------------------------------- | ------------------------------------- | ------------------------------------- |
-| 0s   | x                                     | x                                     | x                                     |
-| 90s  | x                                     |                                       |                                       |
-| 120s |                                       | x                                     |                                       |
-| 180s | x                                     |                                       | x                                     |
-| 240s |                                       | x                                     |                                       |
-| 270s | x                                     |                                       |                                       |
-| 360s | x                                     | x                                     | x                                     |
+| ---- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| 0s   | x                                               | x                                               | x                                               |
+| 90s  | x                                               |                                                 |                                                 |
+| 120s |                                                 | x                                               |                                                 |
+| 180s | x                                               |                                                 | x                                               |
+| 240s |                                                 | x                                               |                                                 |
+| 270s | x                                               |                                                 |                                                 |
+| 360s | x                                               | x                                               | x                                               |
 
 #### Buff Duration and Optimal Placement
 
@@ -258,8 +257,8 @@ Using any buffs after the red spaces will cause you to suffer substantial losses
 The yellow spaces are reasonably good enough in comparison to red.\
 The green spaces guarantee maximum output of your buffs.
 
-- - -  
-  
+- - -
+
 # Multiple Target Situations
 
 We will be operating under the assumption that the fact that our multi-target combo does not extend Disembowel buff is an oversight. We’re the only melee that doesn’t get that benefit, so it’s likely a mistake. Someday, based Yoshida will notice us and fix it. Maybe.
@@ -268,17 +267,17 @@ We will be operating under the assumption that the fact that our multi-target co
 
 When up against two targets, you’ll get more gains out of simply spreading your Chaos Thrust damage over time effect to both targets and keeping them both active. This is done by a simple modification to our basic rotation:
 
-| | | | | | | | | | |
-|-|-|-|-|-|-|-|-|-|-|
-|![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png)|
+|                                                 |                                                 |                                                 |                                                 |                                                 |                                                 |                                                 |                                                 |                                                 |     |
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | --- |
+| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |     |
 
 When alternating back and forth for an extended period of time, be sure to use your Life Surge on the Fang and Claw hits, here. It becomes your strongest option in these situations, and it’s far better than just never pressing the button.
 
 ## Three or More Targets
 
-| | | |
-|-|-|-|
-|![](https://xivapi.com/i/000000/000306_hr1.png) | ![](https://xivapi.com/i/002000/002586_hr1.png) | ![](https://xivapi.com/i/002000/002590_hr1.png)|
+|                                                 |                                                 |                                                 |
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| ![](https://xivapi.com/i/000000/000306_hr1.png) | ![](https://xivapi.com/i/002000/002586_hr1.png) | ![](https://xivapi.com/i/002000/002590_hr1.png) |
 
 When dealing with any more than two targets, we want to roll into our Coerthan Torment Combo. You want to keep pressing High Jump, Mirage Dive, and all of the other buttons, especially Dragonfire Dive and Geirskogul, as they also hit multiple targets. Once you get your 2 Dragon Eyes, you can roll into Life and drop Nastrond and Stardiver to unleash destruction on a level where only **Black Mage** can compete. Be sure not to forget to weave Life Surge before the Coerthan Torment hit! The automatic critical hit affects all targets hit.
 
@@ -311,7 +310,9 @@ Coerthan Torment combo is 200 potency per GCD per mob - 400 over 2 GCDs
 | 14      | 2800      | 4990                     | 3360                      | 1630                | 16300                         | 1164.29                   | 432.86                   |
 | 15      | 3000      | 5390                     | 3600                      | 1790                | 17900                         | 1193.33                   | 432.00                   |
 
-&nbsp;
+
+
+\
 Essentially: if, sometime during the duration of Disembowel, you will press off-GCDs that add together to equal the potency needed to break even (AoE skills only need to hit the potency per enemy column) then you should apply it.
 
 At three, it is **always a gain**. At four, you just need 75 potency! Geirskogul alone is 270. Of note is even at 15, you still need less than 1200 - the potency of 3 Nastronds.
@@ -325,8 +326,8 @@ The formula to directly generate the potency needed per enemy column, knowing th
 
 Because of the nature of this formula, it has an absolute maximum value of **1600** - meaning that, no matter how many enemies you are facing, if you have over 1600 in per-target area-of-effect off-GCD actions available to use in those 30 seconds, Disembowel is **always** worth using.
 
-- - -  
-  
+- - -
+
 # The Opener
 
 I know a lot of you have skipped ahead to this section, since you feel like you have a solid grasp on the fundamentals, and I think that’s great! The primary use of the Opener is to prepare your cooldown alignment for the rest of the encounter. With our new Job design, it’s possible that we’ll actually have fight-specific openers down the stretch, and they’ll all be added here!
@@ -341,8 +342,8 @@ The backbone of ten GCDs in sequence will - in general - never be changed, but t
 
 The default order for the **Attacks** puts Spineshatter Dive as a buffer skill between High Jump and Geirskogul in order to try and prevent future situations where the two are ready at the exact same time.
 
-- - -  
-  
+- - -
+
 # Optimization Station
 
 ## GCD Rotation
@@ -351,15 +352,15 @@ Disengaging from the target can cause your rotation to get forcibly shifted arou
 
 1. Disembowel has less than 10 seconds remaining
 
-| | | | | |
-|-|-|-|-|-|   
-|![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png)|\ 
+|                                                 |                                                 |                                                 |                                                 |                                                 |     |
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | --- |
+| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | \   |
 
 2. Disembowel has more than 10 seconds remaining
 
-| | | | | |
-|-|-|-|-|-|
-|![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png)|\ 
+|                                                 |                                                 |                                                 |                                                 |                                                 |     |
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | --- |
+| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | \   |
 
 That’s honestly all there is to discuss here. This is more of a judgment call, honestly - anything up to around 12 seconds remaining could be clipped, but ten is the basic cutoff for getting all five hits of your Full Thrust Combo with Disembowel’s buff before it falls off. You would lose the buff on Raiden Thrust and Disembowel after the fact, but that can be overcome.
 
@@ -367,18 +368,17 @@ The only exception to this rule is if you are going to hit an off-GCD action in 
 
 ## Action specifics
 
-#### 
-| | | | | | | |
-|-|-|-|-|-|-|-|
-|![](https://xivapi.com/i/002000/002583.png) | Geirskogul | ![](https://xivapi.com/i/002000/002583.png) | and | ![](https://xivapi.com/i/002000/002589.png) | Nastrond| ![](https://xivapi.com/i/002000/002589.png)|
+|                                             |            |                                             |     |                                             |          |                                             |
+| ------------------------------------------- | ---------- | ------------------------------------------- | --- | ------------------------------------------- | -------- | ------------------------------------------- |
+| ![](https://xivapi.com/i/002000/002583.png) | Geirskogul | ![](https://xivapi.com/i/002000/002583.png) | and | ![](https://xivapi.com/i/002000/002589.png) | Nastrond | ![](https://xivapi.com/i/002000/002589.png) |
 
 The general cycle for Life of the Dragon is very straightforward:
 
 <div align="center">
 
 | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) | \>30s> | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002593.png) | \>10s> | ![](https://xivapi.com/i/002000/002589.png) | \>10s> | ![](https://xivapi.com/i/002000/002589.png) | repeat |
-| ----------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- | ------ | ----------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------ | ------ | ----------------------------------------------------- | ------ | ----------------------------------------------------- | ------ |
-|                                                       |                                                         | 1                                                       |        |                                                       | 2                                                       | Life                                                    |                                                       |                                                        |        |                                                       |        |                                                       |        |
+| ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------ | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------ | ------------------------------------------- | ------ | ------------------------------------------- | ------ |
+|                                             |                                             | 1                                           |        |                                             | 2                                           | Life                                        |                                             |                                             |        |                                             |        |                                             |        |
 
 Not so obviously, following this rotation is **not** always optimal. If you do follow this throughout the encounter, your output will, in general, be just fine. It’s just that there are some cases where you will want to **delay** your Life cycle by a single Geirskogul cast.
 
@@ -386,13 +386,13 @@ The basic idea is to choose between pressing Mirage Dive before or after Geirsko
 
 <div align="center">
 
-| Assuming you already have one Eye and High Jump is coming up soon:             |                                                                                                                                                                       | | | |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |-|-|-|
-| If Lance Charge has less than 18 seconds until it's ready, **enter**           | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) |
-| If, instead, Lance Charge has more than 23 seconds until it's ready, **delay** | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) |
-| If, instead, Dragon Sight has less than 18 seconds until it's ready, **enter** | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) |
-| If, instead, Dragon Sight has more than 23 seconds until it's ready, **delay** | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) |
-| Otherwise, **enter**                                                           | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) |
+| Assuming you already have one Eye and High Jump is coming up soon:             |                                             |                                             |                                             |     |
+| ------------------------------------------------------------------------------ | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | --- |
+| If Lance Charge has less than 18 seconds until it's ready, **enter**           | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) |     |
+| If, instead, Lance Charge has more than 23 seconds until it's ready, **delay** | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) |     |
+| If, instead, Dragon Sight has less than 18 seconds until it's ready, **enter** | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) |     |
+| If, instead, Dragon Sight has more than 23 seconds until it's ready, **delay** | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) |     |
+| Otherwise, **enter**                                                           | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) |     |
 
 #### Delayed First Life
 
@@ -400,9 +400,9 @@ Activating your first Life of the Dragon window as early as possible (on your se
 
 <div align="center">
 
-| | | | | | | | | | | | | | | | | | | | | | | | | |
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-|![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002589.png) |  ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/000000/000309.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002593.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002587.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002593.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png)| 
+|                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |
+| ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/000000/000309.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002593.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002587.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002593.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) |
 
 As you can see, we just keep shooting off Geirskogul before Mirage Dive until entering our first Life around 20s ahead of our second Lance Charge usage, so we get one Nastrond and Stardiver under it. Entering the next one as soon as possible (by using Mirage Dive before Geirskogul this time) allows us to get a second Nastrond under that Lance Charge and then two under the subsequent Dragon Sight (along with the Stardiver).
 
@@ -420,10 +420,9 @@ After the final buff window, the rotation repeats from the 30s column, quite obv
 
 As you can see, the only place we currently even employ this strategy is for our very first Life entry. After that, we just let the skills fall where they may and they naturally align neatly with buff windows. Keep in mind that this could change if a boss jumps out of the arena at an odd time, so you should still learn the general idea behind the priority system!
 
-#### 
-| | | |
-|-|-|-|
-|![](https://xivapi.com/i/002000/002587.png) | Dragon Sight | ![](https://xivapi.com/i/002000/002587.png)|
+|                                             |              |                                             |
+| ------------------------------------------- | ------------ | ------------------------------------------- |
+| ![](https://xivapi.com/i/002000/002587.png) | Dragon Sight | ![](https://xivapi.com/i/002000/002587.png) |
 
 You need to be close to the target of your affections to properly give them a buff. If **the target** moves away from you, however, **you will retain your buff**. So it’s really only their loss. You can usually just worry about activating the skill and then stop worrying about whether or not it stays on your target. As of this expansion, you can now activate the skill **without a target**, though this is **NOT RECOMMENDED**, because you will only receive the 10% damage buff, and the 5% buff will be lost for that use, completely. No one gets it.
 
@@ -455,8 +454,9 @@ Different options are listed below, with varying degrees of usefulness/ease of u
 /ac "Dragon Sight" <mo>
 /micon "Dragon Sight"
 ```
+
 &nbsp;
-&nbsp;  
+&nbsp;\
 **Mixed Macro:**
 &nbsp;
 &nbsp;
@@ -478,13 +478,14 @@ Different options are listed below, with varying degrees of usefulness/ease of u
 /ac "Dragon Sight" <2>
 /micon "Dragon Sight"
 ```
+
 &nbsp;
 &nbsp; 
 
 **One Specific Ally:**
 &nbsp;
 &nbsp;
-  
+
 ```
 /merror off
 /ac "Dragon Sight" <2>
@@ -502,14 +503,15 @@ Different options are listed below, with varying degrees of usefulness/ease of u
 /ac "Dragon Sight" <2>
 /micon "Dragon Sight"
 ```
+
 &nbsp;
 &nbsp;
 
 For controller, I recommend learning to soft-target and dropping all reliance on macros.
 For keyboard/mouse, I recommend  one to three specific ally macros for reliable friends and a mouseover as a backup (or primary, your call).
 
-- - -  
-  
+- - -
+
 # Gearing Up
 
 As things appear to be right now, our stat priority has not changed!
@@ -535,8 +537,7 @@ The 2.50 set provides you with a particularly slow GCD speed, which is favored q
 
 Below is a graph comparing the total DPS of each of the three above sets over time. I’ve clipped out the opener to avoid having a super zoomed out graph to show the peaks (which are around 30,000, in case you were curious). Please note that the Y-Axis only shows values from 18,250 to 20,500 which results in seeing huge gaps between the mins and maxes which make the variation appear to be much larger than it actually is.
 
-![](/img/graph.png) 
-
+![](/img/graph.png)
 
 ## How Fast Can We Go?
 
