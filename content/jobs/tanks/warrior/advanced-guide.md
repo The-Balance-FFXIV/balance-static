@@ -3,6 +3,7 @@ title: Warrior Advanced Guide
 card_header_image: /img/jobs/war/advanced.png
 authors:
   - Balance-WAR-Staff
+  - Mox-Xinmagar
 patch: "5.58"
 lastmod: 2021-11-15T18:35:50.162Z
 changelog:
