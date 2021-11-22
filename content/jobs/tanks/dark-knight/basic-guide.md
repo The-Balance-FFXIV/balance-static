@@ -2,7 +2,7 @@
 title: Dark Knight Basic Guide
 card_header_image: /img/jobs/drk/basic.png
 authors:
-  - Balance-DRK-Staff
+  - nikroulah
 patch: "5.5"
 lastmod: 2021-10-27T17:24:00.336Z
 changelog:
