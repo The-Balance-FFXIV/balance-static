@@ -72,6 +72,7 @@ bis:
     link: https://etro.gg/gearset/465886a7-664b-4a7b-983a-27d5337c93cc
 authors:
   - Balance-DRK-Staff
+  - apileofcats
 ---
 # Dark Knight Best In Slot
 
