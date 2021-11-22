@@ -8,5 +8,5 @@ changelog:
 priority: Physical Damage > Strength > Crit Hit > Skill Speed > Direct Hit Rate
   > Determination > Tenacity
 authors:
-  - Balance-PLD-Staff
+  - nikroulah
 ---
