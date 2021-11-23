@@ -2,7 +2,7 @@
 title: Bard Basic Guide
 card_header_image: /img/jobs/brd/basic.png
 authors:
-  - Balance-BRD-Staff
+  - infinitestory
 patch: "5.58"
 lastmod: 2021-10-26T02:17:04.672Z
 changelog:
