@@ -2,7 +2,7 @@
 title: Bard Advanced Guide
 card_header_image: /img/jobs/brd/advanced.png
 authors:
-  - Balance-BRD-Staff
+  - infinitestory
 patch: "5.58"
 lastmod: 2021-10-26T02:37:55.677Z
 changelog:
