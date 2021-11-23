@@ -2,7 +2,7 @@
 title: Samurai Basic Guide
 card_header_image: /img/jobs/sam/basic.png
 authors:
-  - Balance-SAM-Staff
+  - boxer
 patch: "5.58"
 lastmod: 2021-10-28T03:18:44.121Z
 changelog:
