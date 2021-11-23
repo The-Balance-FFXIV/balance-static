@@ -2,7 +2,7 @@
 title: Scholar Leveling Guide
 card_header_image: /img/jobs/sch/leveling.png
 authors:
-  - Balance-SCH-Staff
+  - tealjaker
 patch: "5.58"
 lastmod: 2021-10-26T03:06:16.166Z
 changelog:
