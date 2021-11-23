@@ -46,8 +46,7 @@ qna:
       to target a party member manually.
   - question: How many DoTs should I put up for AoE?
     answer: >-
-      It's complicated. The [full
-      guide](/jobs/ranged/bard/the-pursuit-of-comfiness-bard-guide-5-x) goes
+      It's complicated. The [full guide](/jobs/ranged/bard/basic-guide) goes
       into the details.
 
       But as a very general rule of thumb, any DoT that will run most to all of its 30s (i.e. the mob won't die soon) is worth applying.
