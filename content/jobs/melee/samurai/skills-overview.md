@@ -1,7 +1,7 @@
 ---
 title: Samurai Skills Overview
 authors:
-  - Balance-SAM-Staff
+  - boxer
 patch: "5.58"
 lastmod: 2021-10-28T03:24:29.522Z
 changelog:
