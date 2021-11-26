@@ -70,18 +70,18 @@ collections:
         public_folder: "/img/jobs/tanks"
         file: "content/jobs/tanks/_index.md"
         fields:
-        - {label: "Body", name: "body", widget: "markdown"}
-        - label: "Menu hierarchy"
-          name: "menu"
-          widget: "object"
-          fields:
-            - label: "Main"
-              name: "main"
-              widget: "object"
-              fields:
-                - {label: "Name", name: "name", widget: "select", options: ["Tanks"], default: ["Tanks"]}
-                - {label: "Identifier", name: "identifier", widget: "select", options: ["tanks"], default: ["tanks"]}
-                - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Tanks"], default: ["Tanks"]}
+                  - {label: "Identifier", name: "identifier", widget: "select", options: ["tanks"], default: ["tanks"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
         - label: "Role"
           name: "role"
           widget: "select"
@@ -96,18 +96,18 @@ collections:
         media_folder: "/static/img/jobs/healers"
         public_folder: "/img/jobs/healers"
         fields:
-        - {label: "Body", name: "body", widget: "markdown"}
-        - label: "Menu hierarchy"
-          name: "menu"
-          widget: "object"
-          fields:
-            - label: "Main"
-              name: "main"
-              widget: "object"
-              fields:
-                - {label: "Name", name: "name", widget: "select", options: ["Healers"], default: ["Healers"]}
-                - {label: "Identifier", name: "identifier", widget: "select", options: ["healers"], default: ["healers"]}
-                - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Healers"], default: ["Healers"]}
+                  - {label: "Identifier", name: "identifier", widget: "select", options: ["healers"], default: ["healers"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
         - label: "Role"
           name: "role"
           widget: "select"
@@ -122,18 +122,18 @@ collections:
         media_folder: "/static/img/jobs/melee"
         public_folder: "/img/jobs/melee"
         fields:
-        - {label: "Body", name: "body", widget: "markdown"}
-        - label: "Menu hierarchy"
-          name: "menu"
-          widget: "object"
-          fields:
-            - label: "Main"
-              name: "main"
-              widget: "object"
-              fields:
-                - {label: "Name", name: "name", widget: "select", options: ["Melee"], default: ["Melee"]}
-                - {label: "Identifier", name: "identifier", widget: "select", options: ["melee"], default: ["melee"]}
-                - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Melee"], default: ["Melee"]}
+                  - {label: "Identifier", name: "identifier", widget: "select", options: ["melee"], default: ["melee"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
         - label: "Role"
           name: "role"
           widget: "select"
@@ -148,18 +148,18 @@ collections:
         media_folder: "/static/img/jobs/ranged"
         public_folder: "/img/jobs/ranged"
         fields:
-        - {label: "Body", name: "body", widget: "markdown"}
-        - label: "Menu hierarchy"
-          name: "menu"
-          widget: "object"
-          fields:
-            - label: "Main"
-              name: "main"
-              widget: "object"
-              fields:
-                - {label: "Name", name: "name", widget: "select", options: ["Ranged"], default: ["Ranged"]}
-                - {label: "Identifier", name: "identifier", widget: "select", options: ["ranged"], default: ["ranged"]}
-                - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Ranged"], default: ["Ranged"]}
+                  - {label: "Identifier", name: "identifier", widget: "select", options: ["ranged"], default: ["ranged"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
         - label: "Role"
           name: "role"
           widget: "select"
@@ -174,18 +174,18 @@ collections:
         media_folder: "/static/img/jobs/casters"
         public_folder: "/img/jobs/casters"
         fields:
-        - {label: "Body", name: "body", widget: "markdown"}
-        - label: "Menu hierarchy"
-          name: "menu"
-          widget: "object"
-          fields:
-            - label: "Main"
-              name: "main"
-              widget: "object"
-              fields:
-                - {label: "Name", name: "name", widget: "select", options: ["Casters"], default: ["Casters"]}
-                - {label: "Identifier", name: "identifier", widget: "select", options: ["casters"], default: ["casters"]}
-                - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Casters"], default: ["Casters"]}
+                  - {label: "Identifier", name: "identifier", widget: "select", options: ["casters"], default: ["casters"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
         - label: "Role"
           name: "role"
           widget: "select"
