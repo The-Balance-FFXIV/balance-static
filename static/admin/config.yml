@@ -80,6 +80,7 @@ collections:
               widget: "object"
               fields:
                 - {label: "Name", name: "name", widget: "select", options: ["Tanks"], default: ["Tanks"]}
+                - {label: "Identifier", name: "identifier", widget: "select", options: ["tanks"], default: ["tanks"]}
                 - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
         - label: "Role"
           name: "role"
@@ -105,6 +106,7 @@ collections:
               widget: "object"
               fields:
                 - {label: "Name", name: "name", widget: "select", options: ["Healers"], default: ["Healers"]}
+                - {label: "Identifier", name: "identifier", widget: "select", options: ["healers"], default: ["healers"]}
                 - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
         - label: "Role"
           name: "role"
@@ -130,6 +132,7 @@ collections:
               widget: "object"
               fields:
                 - {label: "Name", name: "name", widget: "select", options: ["Melee"], default: ["Melee"]}
+                - {label: "Identifier", name: "identifier", widget: "select", options: ["melee"], default: ["melee"]}
                 - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
         - label: "Role"
           name: "role"
@@ -155,6 +158,7 @@ collections:
               widget: "object"
               fields:
                 - {label: "Name", name: "name", widget: "select", options: ["Ranged"], default: ["Ranged"]}
+                - {label: "Identifier", name: "identifier", widget: "select", options: ["ranged"], default: ["ranged"]}
                 - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
         - label: "Role"
           name: "role"
@@ -180,6 +184,7 @@ collections:
               widget: "object"
               fields:
                 - {label: "Name", name: "name", widget: "select", options: ["Casters"], default: ["Casters"]}
+                - {label: "Identifier", name: "identifier", widget: "select", options: ["casters"], default: ["casters"]}
                 - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
         - label: "Role"
           name: "role"
