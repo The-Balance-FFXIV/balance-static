@@ -82,14 +82,14 @@ collections:
                   - {label: "Name", name: "name", widget: "select", options: ["Tanks"], default: ["Tanks"]}
                   - {label: "Identifier", name: "identifier", widget: "select", options: ["tanks"], default: ["tanks"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
-      - label: "Role"
-          name: "role"
-          widget: "select"
-          options: ["tanks"]
-          default: ["tanks"]
-        - {label: "Layout", name: "layout", widget: "select", options: ["role_home"], default: ["role_home"]}
-        - {label: "Background Header Image", name: "bg_header_image", widget: "image", choose_url: false}
-        - {label: "Role Hero Image", name: "role_hero_image", widget: "image", choose_url: false}
+          - label: "Role"
+            name: "role"
+            widget: "select"
+            options: ["tanks"]
+            default: ["tanks"]
+          - {label: "Layout", name: "layout", widget: "select", options: ["role_home"], default: ["role_home"]}
+          - {label: "Background Header Image", name: "bg_header_image", widget: "image", choose_url: false}
+          - {label: "Role Hero Image", name: "role_hero_image", widget: "image", choose_url: false}
       - label: "Healers"
         name: "healers"
         file: "content/jobs/healers/_index.md"
@@ -108,14 +108,14 @@ collections:
                   - {label: "Name", name: "name", widget: "select", options: ["Healers"], default: ["Healers"]}
                   - {label: "Identifier", name: "identifier", widget: "select", options: ["healers"], default: ["healers"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
-        - label: "Role"
-          name: "role"
-          widget: "select"
-          options: ["healers"]
-          default: ["healers"]
-        - {label: "Layout", name: "layout", widget: "select", options: ["role_home"], default: ["role_home"]}
-        - {label: "Background Header Image", name: "bg_header_image", widget: "image", choose_url: false}
-        - {label: "Role Hero Image", name: "role_hero_image", widget: "image", choose_url: false}
+          - label: "Role"
+            name: "role"
+            widget: "select"
+            options: ["healers"]
+            default: ["healers"]
+          - {label: "Layout", name: "layout", widget: "select", options: ["role_home"], default: ["role_home"]}
+          - {label: "Background Header Image", name: "bg_header_image", widget: "image", choose_url: false}
+          - {label: "Role Hero Image", name: "role_hero_image", widget: "image", choose_url: false}
       - label: "Melee"
         name: "melee"
         file: "content/jobs/melee/_index.md"
@@ -134,14 +134,14 @@ collections:
                   - {label: "Name", name: "name", widget: "select", options: ["Melee"], default: ["Melee"]}
                   - {label: "Identifier", name: "identifier", widget: "select", options: ["melee"], default: ["melee"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
-        - label: "Role"
-          name: "role"
-          widget: "select"
-          options: ["melee"]
-          default: ["melee"]
-        - {label: "Layout", name: "layout", widget: "select", options: ["role_home"], default: ["role_home"]}
-        - {label: "Background Header Image", name: "bg_header_image", widget: "image", choose_url: false}
-        - {label: "Role Hero Image", name: "role_hero_image", widget: "image", choose_url: false}
+          - label: "Role"
+            name: "role"
+            widget: "select"
+            options: ["melee"]
+            default: ["melee"]
+          - {label: "Layout", name: "layout", widget: "select", options: ["role_home"], default: ["role_home"]}
+          - {label: "Background Header Image", name: "bg_header_image", widget: "image", choose_url: false}
+          - {label: "Role Hero Image", name: "role_hero_image", widget: "image", choose_url: false}
       - label: "Ranged"
         name: "ranged"
         file: "content/jobs/ranged/_index.md"
@@ -160,14 +160,14 @@ collections:
                   - {label: "Name", name: "name", widget: "select", options: ["Ranged"], default: ["Ranged"]}
                   - {label: "Identifier", name: "identifier", widget: "select", options: ["ranged"], default: ["ranged"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
-        - label: "Role"
-          name: "role"
-          widget: "select"
-          options: ["ranged"]
-          default: ["ranged"]
-        - {label: "Layout", name: "layout", widget: "select", options: ["role_home"], default: ["role_home"]}
-        - {label: "Background Header Image", name: "bg_header_image", widget: "image", choose_url: false}
-        - {label: "Role Hero Image", name: "role_hero_image", widget: "image", choose_url: false}
+          - label: "Role"
+            name: "role"
+            widget: "select"
+            options: ["ranged"]
+            default: ["ranged"]
+          - {label: "Layout", name: "layout", widget: "select", options: ["role_home"], default: ["role_home"]}
+          - {label: "Background Header Image", name: "bg_header_image", widget: "image", choose_url: false}
+          - {label: "Role Hero Image", name: "role_hero_image", widget: "image", choose_url: false}
       - label: "Casters"
         name: "casters"
         file: "content/jobs/casters/_index.md"
@@ -186,14 +186,14 @@ collections:
                   - {label: "Name", name: "name", widget: "select", options: ["Casters"], default: ["Casters"]}
                   - {label: "Identifier", name: "identifier", widget: "select", options: ["casters"], default: ["casters"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
-        - label: "Role"
-          name: "role"
-          widget: "select"
-          options: ["casters"]
-          default: ["casters"]
-        - {label: "Layout", name: "layout", widget: "select", options: ["role_home"], default: ["role_home"]}
-        - {label: "Background Header Image", name: "bg_header_image", widget: "image", choose_url: false}
-        - {label: "Role Hero Image", name: "role_hero_image", widget: "image", choose_url: false}
+          - label: "Role"
+            name: "role"
+            widget: "select"
+            options: ["casters"]
+            default: ["casters"]
+          - {label: "Layout", name: "layout", widget: "select", options: ["role_home"], default: ["role_home"]}
+          - {label: "Background Header Image", name: "bg_header_image", widget: "image", choose_url: false}
+          - {label: "Role Hero Image", name: "role_hero_image", widget: "image", choose_url: false}
   ##
   # Regular guides
   ##
