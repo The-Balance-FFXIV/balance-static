@@ -82,7 +82,7 @@ collections:
                   - {label: "Name", name: "name", widget: "select", options: ["Tanks"], default: ["Tanks"]}
                   - {label: "Identifier", name: "identifier", widget: "select", options: ["tanks"], default: ["tanks"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
-        - label: "Role"
+      - label: "Role"
           name: "role"
           widget: "select"
           options: ["tanks"]
