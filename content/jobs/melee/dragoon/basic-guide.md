@@ -250,6 +250,7 @@ Our buffs fall on timers that function pretty well together in the duration of a
 | 360s | x                                               | x                                               | x                                               |
 
 &nbsp;
+
 #### Buff Duration and Optimal Placement
 
 If you have decent practice properly delaying your buffs within the GCD, you should, ideally, be able to get nine GCD actions under each cast of Lance Charge, Dragon Sight, and Battle Litany, assuming your GCD is in our ideal Skill Speed window. Otherwise, you will get eight.
@@ -301,8 +302,6 @@ The long answer is that using it causes you to lose potency overall if you’re 
 Applying Disembowel is 290 + 320 = 610 potency
 Coerthan Torment combo is 200 potency per GCD per mob - 400 over 2 GCDs
 
-
-
 | Enemies | CoT ppgcd | Pot loss for applying DE | Pot gain from  applied DE | Total loss  from DE | Potency needed  to break even | Potency needed  per enemy | Stardiver pot  per enemy |
 | ------- | --------- | ------------------------ | ------------------------- | ------------------- | ----------------------------- | ------------------------- | ------------------------ |
 | 3       | 600       | 590                      | 720                       | \-130               | \-1300                        | \-433.33                  | 480.00                   |
@@ -318,8 +317,6 @@ Coerthan Torment combo is 200 potency per GCD per mob - 400 over 2 GCDs
 | 13      | 2600      | 4590                     | 3120                      | 1470                | 14700                         | 1130.77                   | 433.85                   |
 | 14      | 2800      | 4990                     | 3360                      | 1630                | 16300                         | 1164.29                   | 432.86                   |
 | 15      | 3000      | 5390                     | 3600                      | 1790                | 17900                         | 1193.33                   | 432.00                   |
-
-
 
 &nbsp;\
 Essentially: if, sometime during the duration of Disembowel, you will press off-GCDs that add together to equal the potency needed to break even (AoE skills only need to hit the potency per enemy column) then you should apply it.
@@ -359,16 +356,17 @@ Disengaging from the target can cause your rotation to get forcibly shifted arou
 
 1. Disembowel has less than 10 seconds remaining
 
-|                                                 |                                                 |                                                 |                                                 |                                                 |     |
-| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | --- |
-| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | \   |
+|                                                 |                                                 |                                                 |                                                 |                                                 |
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | 
 
 &nbsp;\
+
 2. Disembowel has more than 10 seconds remaining
 
-|                                                 |                                                 |                                                 |                                                 |                                                 |     |
-| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | --- |
-| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | \   |
+|                                                 |                                                 |                                                 |                                                 |                                                 |
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | 
+| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | 
 
 &nbsp;\
 That’s honestly all there is to discuss here. This is more of a judgment call, honestly - anything up to around 12 seconds remaining could be clipped, but ten is the basic cutoff for getting all five hits of your Full Thrust Combo with Disembowel’s buff before it falls off. You would lose the buff on Raiden Thrust and Disembowel after the fact, but that can be overcome.
@@ -395,8 +393,6 @@ Not so obviously, following this rotation is **not** always optimal. If you do f
 
 The basic idea is to choose between pressing Mirage Dive before or after Geirskogul when the Mirage Dive would fill your second Dragon Eye. The decision forces you to ask the simple question: “Will my Nastrond and Stardiver fall under more buffs (Lance Charge and Dragon Sight, primarily) by entering Life now, or if I enter in 30 more seconds, instead?” You should be considering the remaining time on the recast timers for your buff actions when making this decision. The following chart should help to make it more clear. You should follow these checks **in order** down the row. If the first one fails, check the second. If that one fails, check the third, and so on.
 
-
-
 | Assuming you already have one Eye and High Jump is coming up soon:             |                                             |                                             |                                             |     |
 | ------------------------------------------------------------------------------ | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | --- |
 | If Lance Charge has less than 18 seconds until it's ready, **enter**           | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) |     |
@@ -406,15 +402,12 @@ The basic idea is to choose between pressing Mirage Dive before or after Geirsko
 | Otherwise, **enter**                                                           | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) |     |
 
 &nbsp;
+
 #### Delayed First Life
 
 Activating your first Life of the Dragon window as early as possible (on your second Geirskogul) feels nice on paper, but, in practice, it is rarely optimal. Generally, we want to **delay** that first entry, to push it back toward our second cast of Lance Charge. Using the above as a guide, you’ll see that, at the time of second Geirskogul, we fall into the second category. The way this ends up shaking out in practice (ignoring the main Combo strings) is:
 
-
-
-|                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |                                             |
-| ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/000000/000309.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002593.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002587.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002593.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) |
+![](/img/jobs/drg/unknown.png)
 
 &nbsp;\
 As you can see, we just keep shooting off Geirskogul before Mirage Dive until entering our first Life around 20s ahead of our second Lance Charge usage, so we get one Nastrond and Stardiver under it. Entering the next one as soon as possible (by using Mirage Dive before Geirskogul this time) allows us to get a second Nastrond under that Lance Charge and then two under the subsequent Dragon Sight (along with the Stardiver).
