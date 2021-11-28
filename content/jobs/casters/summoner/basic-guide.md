@@ -9,7 +9,7 @@ changelog:
   - date: 2021-11-15T21:19:02.069Z
     message: Added page
 ---
-Welcome to our Basic Guide for Summoners!  This page is written to provide an introduction to Summoner at Level 80, and 
+Welcome to our Basic Guide for Summoners!  This page is written to provide an introduction to Summoner at Level 80.
 
 # Introduction
 
@@ -17,16 +17,21 @@ Summoner is an interesting job within the world of Final Fantasy XIV. Combining 
 
 Due to this unique combination of Summoner’s kit, the job’s rotation can be best explained as a collection of moving parts and “short phases”.  While most jobs generally have 1 way of attacking enemies, Summoner consistently juggles between three distinct components:
 
-**1. GCDs & oGCDs
-2. Damage-over-time (DoTs)
-3. Pets**
+**1. GCDs & oGCDs**
+
+**2. Damage-over-time (DoTs)**
+
+**3. Pets**
 
 Alongside these three components, the rotation structure can be broken down into these distinct phases:
 
-**1. Dreadwyrm Trance Phase
-2. Bahamut Phase
-3. Firebird Trance (Phoenix) Phase
-4. Filler Phases**
+**1. Dreadwyrm Trance Phase**
+
+**2. Bahamut Phase**
+
+**3. Firebird Trance (Phoenix) Phase**
+
+**4. Filler Phases**
 
 At first glance, we know this will appear overwhelming. Our goal is to try and break these components and phases down into simple to follow priorities, and provide a fundamental understanding to how these various components function within the overall rotation structure.  
 
@@ -37,7 +42,7 @@ At any given time during your rotation, your damage dealt will originate from th
 To make life simple while you’re getting comfortable with the job, you can follow these simple priorities for GCD and oGCD usage:
 
 * **Make sure you’re consistently casting your GCDs.  Whether you’re hardcasting Ruin IIIs, using Ruin IV or Egi Assaults for weaving, or even just having to use Ruin II as a last resort, just focus on keeping your GCD cooldown rolling as much as possible.**
-* **Use your oGCD abilities as they come off cooldown.  Be sure to always weave your oGCDs when they’re available to ensure you’re utilizing them as much as possible.  Of course there are a couple of exceptions, mainly with Tri-disaster, as you want to use this oGCD for refreshing your DoT durations. But the majority of your oGCDs can be weaved immediately. Just remember that only two oGCDs should be weaved with each instant-cast GCD to avoid unnecessary GCD clipping.** 
+* **Use your oGCD abilities as they come off cooldown.  Be sure to always weave your oGCDs when they’re available to ensure you’re utilizing them as much as possible.  Of course, there are a couple of exceptions, mainly with Tri-disaster, as you want to use this oGCD for refreshing your DoT durations. But the majority of your oGCDs can be weaved immediately. Just remember that only two oGCDs should be weaved with each instant-cast GCD to avoid unnecessary GCD clipping.** 
 * **Use your Dreadwyrm Trance, Summon Bahamut, and Firebird Trance whenever you can.  These are your most powerful stances and pets available, so be sure you’re utilizing them as much as possible.**
 
 **The second source of damage for Summoner originates from your damage-over-time (DoT) debuffs, from Miasma III and Bio III.**  While these debuffs technically originate from their corresponding GCDs, or the oGCD of **Tri-disaster**, the duration of your DoTs become another component that you must be aware of, to ensure you maintain as much uptime with these debuffs as you can.  
@@ -84,8 +89,8 @@ If you don’t need to use the extra instant-cast GCDs, you may use **Deathflare
 
 When **Summon Bahamut** is pressed, your Egi pet will despawn with **Demi-Bahamut** to spawn in its place. **Demi-Bahamut** will spawn for a 20 second duration, providing two different attacks:
 
-* **Wyrmwave** - **Wyrmwaves** are sort of like an auto-attack from Bahamut, which will proc based on each GCD you cast during its duration. You can proc a maximum of eight **Wyrmwaves** from Bahamut.\
-* **Enkindle Bahamut** - **Enkindle Bahamut** orders **Demi-Bahamut** to cast **Akh Morn**, Bahamut’s “ultimate” ability.  On a 10 second cooldown, you should be able to cast **Akh Morn** twice during each Bahamut phase.  
+* **Wyrmwave** - **Wyrmwaves** are sort of like an auto-attack from Bahamut, which will proc based on each GCD you cast during its duration. You can proc a maximum of eight **Wyrmwaves** from Bahamut.
+* **Enkindle Bahamut** - **Enkindle Bahamut** orders **Demi-Bahamut** to cast **Akh Morn**, Bahamut’s “ultimate” ability.  On a ten second cooldown, you should be able to cast **Akh Morn** twice during each Bahamut phase.  
 
 During each Bahamut window, you want to aim to get two **Akh Morn** casts off + as close to eight **Wyrmwaves** as you can. Remember to use appropriate oGCD weaving GCDs (**Ruin IV** and **Ruin II**) when weaving **Akh Morn** or other oGCDs to avoid unnecessary GCD clipping.
 
@@ -116,7 +121,7 @@ Each time Fountain of Fire is cast, you will proc a buff called Hellish Conduit,
 As previously mentioned, unlike Dreadwyrm Trance, Firebird Trance combines both the Demi Summon and Trance effects together. Demi-Phoenix has the EXACT same function as Demi-Bahamut:
 
 * **Scarlet Flame** - **Scarlet Flames** are exactly like **Wyrmwaves**, and will proc from each GCD that is cast during the duration of Phoenix. You may proc a maximum of eight **Scarlet Flames** during each Phoenix window.
-* **Revelation** - **Revelation** is Phoenix’s ultimate ability. With a 10 second cooldown, you should be able to cast **Revelation** twice during each Phoenix window.
+* **Revelation** - **Revelation** is Phoenix’s ultimate ability. With a ten second cooldown, you should be able to cast **Revelation** twice during each Phoenix window.
 
 ![]()
 
@@ -124,27 +129,28 @@ Demi-Phoenix will have the exact same priorities as your Bahamut Phase, aiming f
 
 ### Firebird Trance Priorities:
 
-* Repeat your Fountain of Fire + Brand of Purgatory combo 4 times, and avoid casting Fountain of Fire consecutively to not overwrite a Hellish Conduit proc.
+* Repeat your Fountain of Fire + Brand of Purgatory combo four times, and avoid casting Fountain of Fire consecutively to not overwrite a Hellish Conduit proc.
 * Be sure to weave Enkindle Phoenix twice.
 * Since every GCD will be instant-cast during Phoenix, use any of these windows as free weaving space for other oGCDs, such as Energy Drain or your Aetherflow Gauge abilities.
 
-## Filler Phases 
+## Filler Phases
+
 While you’re waiting for your next Trance to become available, this window is called the Filler Phase.  Filler Phases are when you don’t have either of your Trance durations running, nor Demi-Bahamut, thus your only actions are casting your GCDs, building or using Ruin IV procs, refreshing DoTs, and refreshing Aetherflow Gauge.  Filler phases do not generally have specific GCD sequences, but rather just follow a simple priority list.  During these filler phases, your priorities are:
 
 **1. Make sure not to overcap your resources!**
       A.  **Ruin IV** procs.  You may hold a maximum of four **Ruin IV** procs at any given time, so you want to be sure to consume some of these procs before using your next set of Egi-Assault cooldowns. Casting Egi-Assaults while already holding the max number of procs will result in overwriting the proc.\
       B.  **Egi-Assaults.**  You may hold a maximum of 2 charges on both of your Egi-Assault actions, however you want to avoid holding both charges for any prolonged period of time.  Since the cooldown timer is not present when both charges are available, holding onto both charges may lead to lost usages, which will translate into lost Ruin IV procs.\
-      C.  **Aetherflow Gauge.**  Make sure that both charges of your Aetherflow Gauge are used before using your next Energy Drain (or Energy Siphon) cooldown to refresh your gauge.\
+      C.  **Aetherflow Gauge.**  Make sure that both charges of your Aetherflow Gauge are used before using your next Energy Drain (or Energy Siphon) cooldown to refresh your gauge.
 
 **2. If DoTs are going to fall off, AND you do not have a Tri-disaster to use soon, reapply DoTs by casting Miasma III and Bio III.**
 
 **3. Use our instant-cast GCDs (Ruin IV, Egi Assaults, and Ruin II) for movement when we need to.**
- 
+
 **4. Keep casting Ruin III whenever you can.**
 
 Filler phases do not generally have specific GCD sequences, but rather just follow a simple priority list like the above.  
 
-# Putting it Together 
+# Putting it Together
 
 Once you understand an overview on how each of these mini phases function, you can then begin to build it all together into executing a more fluid rotation. With a full Summoner rotation, you should see a total of five phases in this specific order, with filler phases occurring twice following your **Demi-Bahamut** and **Demi-Phoenix** windows:
 
@@ -156,7 +162,7 @@ Once you understand an overview on how each of these mini phases function, you c
 
 ![]()
 
-Once your 2nd filler phase is completed, you will have your next **Dreadwyrm Trance** ready to go, and the rotation will loop back to its original starting point. Your primary goal by this point is to perform this rotation consecutively. With enough practice, you should begin to see a seamless transition between each rotation loop you perform.  
+Once your second filler phase is completed, you will have your next **Dreadwyrm Trance** ready to go, and the rotation will loop back to its original starting point. Your primary goal by this point is to perform this rotation consecutively. With enough practice, you should begin to see a seamless transition between each rotation loop you perform.  
 
 # Summoner AoE
 
@@ -171,9 +177,10 @@ Along with the above priority image, also be sure that you’re utilizing your D
 Along with its prolonged rotation loop, Summoner also brings a strong utility kit. This kit features an array of offensive and defensive spells, allowing you to not only buff your party member’s damage, but also provide yourself with survivability, as well as the ability to raise.
 
 * **Aetherpact  -  Aetherpact** is a pet command, ordering your Egi to cast **Devotion**.  When the **Devotion** buff is active, you and your party members will gain 5% damage for 15 seconds. You should use this spell whenever it is available.
-
 * **Earthen Armor**  -  **Earthen Armor** is a spell cast by **Titan-Egi** whenever you use **Egi Assault I** while Titan is spawned. **Earthen Armor** provides a substantial shield onto yourself, absorbing damage up to 30% of your maximum HP. **Earthen Armor** is great to use whenever you need extra survivability, whether that’s for solo content like Palace of the Dead, or party content like eight person raids.
-
 * **Resurrection**  -  **Resurrection** is a shared spell that you have access to from the Arcanist tree. **Resurrection** allows you to raise any downed party members, and can be used so long as you have the MP to do so. **Resurrection** is a very helpful spell to have, as you can provide additional raises to your party if needed.
-
 * **Addle**  -  **Addle** is a role class action, provided to all magical ranged DPS.  **Addle** allows you to reduce the amount of magic damage dealt by your target by 10%.  This spell is very helpful to reduce damage taken from magical sources, such as raid-wide AoEs from bosses, or even the magical auto-attacks that some bosses have.
+
+- - -
+
+With thanks to [AkhMorning](http://www.akhmorning.com) for assistance with resources and theorycrafting.
