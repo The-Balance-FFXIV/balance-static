@@ -360,7 +360,7 @@ Disengaging from the target can cause your rotation to get forcibly shifted arou
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | 
 
-&nbsp;\
+&nbsp;
 
 2. Disembowel has more than 10 seconds remaining
 
