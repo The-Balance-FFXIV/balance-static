@@ -22,26 +22,26 @@ theme = "glam"
     name = 'Combat Jobs'
     url = '#'
     weight = 10
-  [[menu.main]]
-    identifier = 'other-jobs'
-    name = 'Other Jobs'
-    url = '#'
-    weight = 20
+  # [[menu.main]]
+  #   identifier = 'other-jobs'
+  #   name = 'Other Jobs'
+  #   url = '#'
+  #   weight = 20
   [[menu.main]]
     identifier = 'encounters'
     name = 'Fight Encounters'
     url = '#'
     weight = 30
-  [[menu.main]]
-    identifier = 'tools'
-    name = 'Tools'
-    url = '#'
-    weight = 40
-  [[menu.main]]
-    identifier = 'other-guides'
-    name = 'Other Guides'
-    url = '#'
-    weight = 50
+  # [[menu.main]]
+  #   identifier = 'tools'
+  #   name = 'Tools'
+  #   url = '#'
+  #   weight = 40
+  # [[menu.main]]
+  #   identifier = 'other-guides'
+  #   name = 'Other Guides'
+  #   url = '#'
+  #   weight = 50
   [[menu.header]]
     identifier = 'news'
     name = 'Newsfeed'

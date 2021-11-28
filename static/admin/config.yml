@@ -57,7 +57,143 @@ collections:
         name: "socials"
         widget: "object"
         fields:
-          - {label: "Discord Name", name: "discord_id", widget: "string"}
+          - {label: "Discord Name", name: "discord_id", widget: "string", required: false}
+  ##
+  # Role landing page
+  ##
+  - label: "Role landing pages"
+    name: "role-landing"
+    files:
+      - label: "Tanks"
+        name: "tanks"
+        media_folder: "/static/img/jobs/tanks"
+        public_folder: "/img/jobs/tanks"
+        file: "content/jobs/tanks/_index.md"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Tanks"], default: ["Tanks"]}
+                  - {label: "Identifier", name: "identifier", widget: "select", options: ["tanks"], default: ["tanks"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
+          - label: "Role"
+            name: "role"
+            widget: "select"
+            options: ["tanks"]
+            default: ["tanks"]
+          - {label: "Layout", name: "layout", widget: "select", options: ["role_home"], default: ["role_home"]}
+          - {label: "Background Header Image", name: "bg_header_image", widget: "image", choose_url: false}
+          - {label: "Role Hero Image", name: "role_hero_image", widget: "image", choose_url: false}
+      - label: "Healers"
+        name: "healers"
+        file: "content/jobs/healers/_index.md"
+        media_folder: "/static/img/jobs/healers"
+        public_folder: "/img/jobs/healers"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Healers"], default: ["Healers"]}
+                  - {label: "Identifier", name: "identifier", widget: "select", options: ["healers"], default: ["healers"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
+          - label: "Role"
+            name: "role"
+            widget: "select"
+            options: ["healers"]
+            default: ["healers"]
+          - {label: "Layout", name: "layout", widget: "select", options: ["role_home"], default: ["role_home"]}
+          - {label: "Background Header Image", name: "bg_header_image", widget: "image", choose_url: false}
+          - {label: "Role Hero Image", name: "role_hero_image", widget: "image", choose_url: false}
+      - label: "Melee"
+        name: "melee"
+        file: "content/jobs/melee/_index.md"
+        media_folder: "/static/img/jobs/melee"
+        public_folder: "/img/jobs/melee"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Melee"], default: ["Melee"]}
+                  - {label: "Identifier", name: "identifier", widget: "select", options: ["melee"], default: ["melee"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
+          - label: "Role"
+            name: "role"
+            widget: "select"
+            options: ["melee"]
+            default: ["melee"]
+          - {label: "Layout", name: "layout", widget: "select", options: ["role_home"], default: ["role_home"]}
+          - {label: "Background Header Image", name: "bg_header_image", widget: "image", choose_url: false}
+          - {label: "Role Hero Image", name: "role_hero_image", widget: "image", choose_url: false}
+      - label: "Ranged"
+        name: "ranged"
+        file: "content/jobs/ranged/_index.md"
+        media_folder: "/static/img/jobs/ranged"
+        public_folder: "/img/jobs/ranged"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Ranged"], default: ["Ranged"]}
+                  - {label: "Identifier", name: "identifier", widget: "select", options: ["ranged"], default: ["ranged"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
+          - label: "Role"
+            name: "role"
+            widget: "select"
+            options: ["ranged"]
+            default: ["ranged"]
+          - {label: "Layout", name: "layout", widget: "select", options: ["role_home"], default: ["role_home"]}
+          - {label: "Background Header Image", name: "bg_header_image", widget: "image", choose_url: false}
+          - {label: "Role Hero Image", name: "role_hero_image", widget: "image", choose_url: false}
+      - label: "Casters"
+        name: "casters"
+        file: "content/jobs/casters/_index.md"
+        media_folder: "/static/img/jobs/casters"
+        public_folder: "/img/jobs/casters"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Casters"], default: ["Casters"]}
+                  - {label: "Identifier", name: "identifier", widget: "select", options: ["casters"], default: ["casters"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["jobs"], default: ["jobs"]}
+          - label: "Role"
+            name: "role"
+            widget: "select"
+            options: ["casters"]
+            default: ["casters"]
+          - {label: "Layout", name: "layout", widget: "select", options: ["role_home"], default: ["role_home"]}
+          - {label: "Background Header Image", name: "bg_header_image", widget: "image", choose_url: false}
+          - {label: "Role Hero Image", name: "role_hero_image", widget: "image", choose_url: false}
   ##
   # Regular guides
   ##
@@ -88,6 +224,16 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Job Name", name: "job_name", widget: "select", options: ["warrior"], default: ["warrior"]}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Warrior"], default: ["Warrior"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["tanks"], default: ["tanks"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/tanks/warrior/leveling-guide.md"
@@ -339,6 +485,16 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Job Name", name: "job_name", widget: "select", options: ["paladin"], default: ["paladin"]}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Paladin"], default: ["Paladin"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["tanks"], default: ["tanks"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/tanks/paladin/leveling-guide.md"
@@ -590,6 +746,16 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Job Name", name: "job_name", widget: "select", options: ["dark_knight"], default: ["dark_knight"]}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Dark Knight"], default: ["Dark Knight"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["tanks"], default: ["tanks"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/tanks/dark-knight/leveling-guide.md"
@@ -841,6 +1007,16 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Job Name", name: "job_name", widget: "select", options: ["gunbreaker"], default: ["gunbreaker"]}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Gunbreaker"], default: ["Gunbreaker"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["tanks"], default: ["tanks"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/tanks/gunbreaker/leveling-guide.md"
@@ -1092,6 +1268,16 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Job Name", name: "job_name", widget: "select", options: ["white_mage"], default: ["white_mage"]}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["White Mage"], default: ["White Mage"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["healers"], default: ["healers"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/healers/white-mage/leveling-guide.md"
@@ -1343,6 +1529,16 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Job Name", name: "job_name", widget: "select", options: ["scholar"], default: ["scholar"]}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Scholar"], default: ["Scholar"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["healers"], default: ["healers"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/healers/scholar/leveling-guide.md"
@@ -1594,6 +1790,16 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Job Name", name: "job_name", widget: "select", options: ["astrologian"], default: ["astrologian"]}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Astrologian"], default: ["Astrologian"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["healers"], default: ["healers"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/healers/astrologian/leveling-guide.md"
@@ -1845,6 +2051,16 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Job Name", name: "job_name", widget: "select", options: ["sage"], default: ["sage"]}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Sage"], default: ["Sage"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["healers"], default: ["healers"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/healers/sage/leveling-guide.md"
@@ -2096,6 +2312,16 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Job Name", name: "job_name", widget: "select", options: ["dragoon"], default: ["dragoon"]}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Dragoon"], default: ["Dragoon"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["melee"], default: ["melee"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/melee/dragoon/leveling-guide.md"
@@ -2347,6 +2573,16 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Job Name", name: "job_name", widget: "select", options: ["reaper"], default: ["reaper"]}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Reaper"], default: ["Reaper"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["melee"], default: ["melee"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/melee/reaper/leveling-guide.md"
@@ -2598,6 +2834,16 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Job Name", name: "job_name", widget: "select", options: ["samurai"], default: ["samurai"]}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Samurai"], default: ["Samurai"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["melee"], default: ["melee"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/melee/samurai/leveling-guide.md"
@@ -2849,6 +3095,16 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Job Name", name: "job_name", widget: "select", options: ["monk"], default: ["monk"]}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Monk"], default: ["Monk"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["melee"], default: ["melee"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/melee/monk/leveling-guide.md"
@@ -3100,6 +3356,16 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Job Name", name: "job_name", widget: "select", options: ["ninja"], default: ["ninja"]}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Ninja"], default: ["Ninja"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["melee"], default: ["melee"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/melee/ninja/leveling-guide.md"
@@ -3351,6 +3617,16 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Job Name", name: "job_name", widget: "select", options: ["machinist"], default: ["machinist"]}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Machinist"], default: ["Machinist"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["ranged"], default: ["ranged"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/ranged/machinist/leveling-guide.md"
@@ -3602,6 +3878,16 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Job Name", name: "job_name", widget: "select", options: ["dancer"], default: ["dancer"]}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Dancer"], default: ["Dancer"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["ranged"], default: ["ranged"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/ranged/dancer/leveling-guide.md"
@@ -3853,6 +4139,16 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Job Name", name: "job_name", widget: "select", options: ["bard"], default: ["bard"]}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Bard"], default: ["Bard"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["ranged"], default: ["ranged"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/ranged/bard/leveling-guide.md"
@@ -4104,6 +4400,16 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Job Name", name: "job_name", widget: "select", options: ["black_mage"], default: ["black_mage"]}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Black Mage"], default: ["Black Mage"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["casters"], default: ["casters"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/casters/black-mage/leveling-guide.md"
@@ -4355,6 +4661,16 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Job Name", name: "job_name", widget: "select", options: ["summoner"], default: ["summoner"]}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Summoner"], default: ["Summoner"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["casters"], default: ["casters"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/casters/summoner/leveling-guide.md"
@@ -4606,6 +4922,16 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Job Name", name: "job_name", widget: "select", options: ["red_mage"], default: ["red_mage"]}
+          - label: "Menu hierarchy"
+            name: "menu"
+            widget: "object"
+            fields:
+              - label: "Main"
+                name: "main"
+                widget: "object"
+                fields:
+                  - {label: "Name", name: "name", widget: "select", options: ["Red Mage"], default: ["Red Mage"]}
+                  - {label: "Parent", name: "parent", widget: "select", options: ["casters"], default: ["casters"]}
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/casters/red-mage/leveling-guide.md"
