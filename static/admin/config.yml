@@ -57,7 +57,7 @@ collections:
         name: "socials"
         widget: "object"
         fields:
-          - {label: "Discord Name", name: "discord_id", widget: "string"}
+          - {label: "Discord Name", name: "discord_id", widget: "string", required: false}
   ##
   # Role landing page
   ##
