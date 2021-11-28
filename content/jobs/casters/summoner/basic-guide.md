@@ -2,7 +2,7 @@
 title: Summoner Basic Guide
 card_header_image: /img/jobs/smn/basic.png
 authors:
-  - Balance-SMN-Staff
+  - elevation
 patch: "5.58"
 lastmod: 2021-11-15T21:18:44.357Z
 changelog:
