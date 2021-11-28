@@ -41,9 +41,9 @@ At any given time during your rotation, your damage dealt will originate from th
 
 To make life simple while you’re getting comfortable with the job, you can follow these simple priorities for GCD and oGCD usage:
 
-* **Make sure you’re consistently casting your GCDs. Whether you’re hardcasting **Ruin III**s, using **Ruin IV** or **Egi Assaults** for weaving, or even just having to use **Ruin II** as a last resort, just focus on keeping your GCD cooldown rolling as much as possible.**
-* **Use your oGCD abilities as they come off cooldown.  Be sure to always weave your oGCDs when they’re available to ensure you’re utilizing them as much as possible. Of course, there are a couple of exceptions, mainly with **Tri-disaster**, as you want to use this oGCD for refreshing your DoT durations. But the majority of your oGCDs can be weaved immediately. Just remember that only two oGCDs should be weaved with each instant-cast GCD to avoid unnecessary GCD clipping.** 
-* **Use your **Dreadwyrm Trance**, **Summon Bahamut**, and **Firebird Trance** whenever you can. These are your most powerful stances and pets available, so be sure you’re utilizing them as much as possible.**
+* **Make sure you’re consistently casting your GCDs. Whether you’re hardcasting** Ruin III**s, using** Ruin IV **or** Egi Assaults **for weaving, or even just having to use** Ruin II **as a last resort, just focus on keeping your GCD cooldown rolling as much as possible.**
+* **Use your oGCD abilities as they come off cooldown.  Be sure to always weave your oGCDs when they’re available to ensure you’re utilizing them as much as possible. Of course, there are a couple of exceptions, mainly with** Tri-disaster**, as you want to use this oGCD for refreshing your DoT durations. But the majority of your oGCDs can be weaved immediately. Just remember that only two oGCDs should be weaved with each instant-cast GCD to avoid unnecessary GCD clipping.** 
+* **Use your** Dreadwyrm Trance**,** Summon Bahamut**, and** Firebird Trance **whenever you can. These are your most powerful stances and pets available, so be sure you’re utilizing them as much as possible.**
 
 **The second source of damage for Summoner originates from your damage-over-time (DoT) debuffs, from Miasma III and Bio III.**  While these debuffs technically originate from their corresponding GCDs, or the oGCD of **Tri-disaster**, the duration of your DoTs become another component that you must be aware of, to ensure you maintain as much uptime with these debuffs as you can.  
 
@@ -94,7 +94,7 @@ When **Summon Bahamut** is pressed, your Egi pet will despawn and **Demi-Bahamut
 
 During each Bahamut window, you want to aim to get two **Akh Morn** casts off and as close to eight **Wyrmwaves** as you can. Remember to use appropriate oGCD weaving GCDs (**Ruin IV** and **Ruin II**) when weaving **Akh Morn** or other oGCDs to avoid unnecessary GCD clipping.
 
-![Weave Deathflare, weave Summon Bahamut, cast Ruin four, weave Enkindle Bahamut, cast Ruin three, cast Ruin three, cast Ruin three, cast Ruin four, weave Enkindle Bahamut, cast Ruin three, cast Ruin four, cast Ruin four]()
+![Weave Deathflare, weave Summon Bahamut, cast Ruin four, weave Enkindle Bahamut, cast Ruin three, cast Ruin three, cast Ruin three, cast Ruin four, weave Enkindle Bahamut, cast Ruin three, cast Ruin four, cast Ruin four](/img/jobs/smn/summoner_lv80_bahamut-04.png)
 
 Along with using instant-cast GCDs to handle your **Enkindle Bahamut** weaves, also be sure to use instant-cast GCDs if your Bahamut has five seconds or less remaining. This will ensure the final **Wyrmwave** procs will resolve in time.  
 
@@ -118,14 +118,14 @@ These first two effects are the same effects provided by **Dreadwyrm Trance**, h
 
 Each time Fountain of Fire is cast, you will proc a buff called Hellish Conduit, allowing you to cast Brand of Purgatory. This means your GCD rotation during Firebird Trance will repeat between Fountain of Fire and Brand of Purgatory, in a basic 1-2-1-2 repeated combo as such:
 
-![Weave Firebird Trance, cast Fountain of Fire, cast Brand of Purgatory, cast Fountain of Fire, cast Brand of Purgatory, cast Fountain of Fire, cast Brand of Purgatory, cast Fountain of Fire, cast Brand of Purgatory.]()
+![Weave Firebird Trance, cast Fountain of Fire, cast Brand of Purgatory, cast Fountain of Fire, cast Brand of Purgatory, cast Fountain of Fire, cast Brand of Purgatory, cast Fountain of Fire, cast Brand of Purgatory.](/img/jobs/smn/summoner_lv80_phoenixgcds-06.png)
 
 As previously mentioned, unlike Dreadwyrm Trance, Firebird Trance combines both the Demi Summon and Trance effects together. Demi-Phoenix has the EXACT same function as Demi-Bahamut:
 
 * **Scarlet Flame** - **Scarlet Flames** are exactly like **Wyrmwaves**, and will proc from each GCD that is cast during the duration of Phoenix. You may proc a maximum of eight **Scarlet Flames** during each Phoenix window.
 * **Revelation** - **Revelation** is Phoenix’s "ultimate" ability. With a ten second cooldown, you should be able to cast **Revelation** twice during each Phoenix window.
 
-![Weave Firebird Trance, case Fountain of Fire (FoF), weave Enkindle Phoenix, case Brand of Purgatory, cast FoF, cast BoP, cast FoF, weave Enkindle Phoenix, cast BoP, cast FoF, weave BoP.]()
+![Weave Firebird Trance, case Fountain of Fire (FoF), weave Enkindle Phoenix, case Brand of Purgatory, cast FoF, cast BoP, cast FoF, weave Enkindle Phoenix, cast BoP, cast FoF, weave BoP.](/img/jobs/smn/summoner_lv80_phoenixrotation-07.png)
 
 Demi-Phoenix will have the exact same priorities as your Bahamut Phase, aiming for two Revelation casts, and as close to eight Scarlet Flame casts during each Firebird Trance duration.  
 
@@ -162,7 +162,7 @@ Once you understand an overview on how each of these mini phases function, you c
 **4. Firebird Trance Phase**
 **5. Filler Phase #2**
 
-![Dreadwyrm Trance Phase to Bahamut Phase to Filler Phase #1 to Firebird Trance Phase to Filler Phase #2 to Dreadwhym Trance Phase and repeat.]()
+![Dreadwyrm Trance Phase to Bahamut Phase to Filler Phase #1 to Firebird Trance Phase to Filler Phase #2 to Dreadwhym Trance Phase and repeat.](/img/jobs/smn/summoner_phases.png)
 
 Once your second filler phase is completed, you will have your next **Dreadwyrm Trance** ready to go, and the rotation will loop back to its original starting point. Your primary goal by this point is to perform this rotation consecutively. With enough practice, you should begin to see a seamless transition between each rotation loop you perform.  
 
@@ -170,7 +170,7 @@ Once your second filler phase is completed, you will have your next **Dreadwyrm 
 
 One of the core components to Summoner game play is its capability around dealing AoE damage to nearby targets. Summoner is a bit unique in that it has access to a variety of different AoE abilities, which may appear overwhelming at first glance. Rest assured, we can also provide an easy to follow list on how you should utilize these abilities.  
 
-![For three or more targets, Ourburst replaces Ruin III. Bane spreads your Miasma III and Bio 2 DoTs to nearby enemies. Energy Siphon replaces Energy Drain. Painflare replaces Fester as your Aetherflow Gauge spender. When dealing damage to three or more targets, Garuda-Egi should be prioritized as much as possible due to its AoE output potential.]()
+![For three or more targets, Ourburst replaces Ruin III. Bane spreads your Miasma III and Bio 2 DoTs to nearby enemies. Energy Siphon replaces Energy Drain. Painflare replaces Fester as your Aetherflow Gauge spender. When dealing damage to three or more targets, Garuda-Egi should be prioritized as much as possible due to its AoE output potential.](/img/jobs/smn/aoe_cheatsheet-01.png)
 
 Along with the above priority image, be sure that you’re utilizing your Demi-Summon and Trance-specific abilities whenever available. Actions such as **Deathflare**, **Enkindle Bahamut**, **Enkindle Phoenix**, and **Brand of Purgatory** provide strong incidental cleave to nearby targets, so keep this in mind whenever you have your **Dreadwyrm Trance**, **Demi-Bahamut**, or **Demi-Phoenix** available when fighting multiple targets.
 
