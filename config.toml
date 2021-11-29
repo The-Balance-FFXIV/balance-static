@@ -2,6 +2,7 @@ baseURL = "https://www.thebalanceffxiv.com/"
 languageCode = "en-us"
 title = "Balance Guides"
 theme = "glam"
+enableRobotsTXT = true
 
 [params]
   maxLevel = 80
