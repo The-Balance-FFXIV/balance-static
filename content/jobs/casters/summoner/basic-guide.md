@@ -9,7 +9,7 @@ changelog:
   - date: 2021-11-15T21:19:02.069Z
     message: Added page
 ---
-Welcome to our Basic Guide for Summoners! This page is written to provide an introduction to Summoner at Level 80.
+Welcome to our Basic Guide for Summoners!  This page is written to provide an introduction to Summoner at Level 80.  With Summoner’s well known reputation for being a “complex” job for new players to pick up and understand, our goal is to provide a condensed and easy-to-understand guideline for how the job functions at max level, while breaking down everything into simplified priority lists that can be followed.  We hope this guide proves helpful to accomplishing this goal, and wish you the best of luck with your Summoner journey!
 
 # Introduction
 
