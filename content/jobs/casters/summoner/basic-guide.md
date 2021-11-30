@@ -140,8 +140,8 @@ Demi-Phoenix will have the exact same priorities as your Bahamut Phase, aiming f
 While you’re waiting for your next Trance to become available, this window is called the Filler Phase. Filler Phases are when you don’t have either of your Trance durations running or Demi-Bahamut, thus your only actions are casting your GCDs, building or using Ruin IV procs, refreshing DoTs and refreshing Aetherflow Gauge. Filler phases do not generally have specific GCD sequences, but rather just follow a simple priority list. During these filler phases, your priorities are:
 
 **1. Make sure not to overcap your resources!**
-&nbsp;
-&nbsp;
+&nbsp;\
+&nbsp;\
       A.  **Ruin IV** procs. You may hold a maximum of four **Ruin IV** procs at any given time, so you want to be sure to consume some of these procs before using your next set of Egi-Assault cooldowns. Casting Egi-Assaults while already holding the max number of procs will result in overwriting the proc.\
       B.  **Egi-Assaults.** You may hold a maximum of 2 charges on both of your Egi-Assault actions, however you want to avoid holding both charges for any prolonged period of time.  Since the cooldown timer is not present when both charges are available, holding onto both charges may lead to lost usages, which will translate into lost Ruin IV procs.\
       C.  **Aetherflow Gauge.**  Make sure that both charges of your Aetherflow Gauge are used before using your next Energy Drain (or Energy Siphon) cooldown to refresh your gauge.
