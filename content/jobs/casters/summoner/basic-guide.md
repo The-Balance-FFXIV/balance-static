@@ -41,9 +41,9 @@ At any given time during your rotation, your damage dealt will originate from th
 
 To make life simple while you’re getting comfortable with the job, you can follow these simple priorities for GCD and oGCD usage:
 
-* **Make sure you’re consistently casting your GCDs. Whether you’re hardcasting** Ruin III**s, using** Ruin IV **or** Egi Assaults **for weaving, or even just having to use** Ruin II **as a last resort, just focus on keeping your GCD cooldown rolling as much as possible.**
-* **Use your oGCD abilities as they come off cooldown.  Be sure to always weave your oGCDs when they’re available to ensure you’re utilizing them as much as possible. Of course, there are a couple of exceptions, mainly with** Tri-disaster**, as you want to use this oGCD for refreshing your DoT durations. But the majority of your oGCDs can be weaved immediately. Just remember that only two oGCDs should be weaved with each instant-cast GCD to avoid unnecessary GCD clipping.** 
-* **Use your** Dreadwyrm Trance**,** Summon Bahamut**, and** Firebird Trance **whenever you can. These are your most powerful stances and pets available, so be sure you’re utilizing them as much as possible.**
+* **Make sure you’re consistently casting your GCDs. Whether you’re hardcasting Ruin IIIs, using Ruin IV or Egi Assaults for weaving, or even just having to use Ruin II as a last resort, just focus on keeping your GCD cooldown rolling as much as possible.**
+* **Use your oGCD abilities as they come off cooldown.  Be sure to always weave your oGCDs when they’re available to ensure you’re utilizing them as much as possible. Of course, there are a couple of exceptions, mainly with Tri-disaster, as you want to use this oGCD for refreshing your DoT durations. But the majority of your oGCDs can be weaved immediately. Just remember that only two oGCDs should be weaved with each instant-cast GCD to avoid unnecessary GCD clipping.** 
+* **Use your Dreadwyrm Trance, Summon Bahamut, and Firebird Trance whenever you can. These are your most powerful stances and pets available, so be sure you’re utilizing them as much as possible.**
 
 **The second source of damage for Summoner originates from your damage-over-time (DoT) debuffs, from Miasma III and Bio III.**  While these debuffs technically originate from their corresponding GCDs, or the oGCD of **Tri-disaster**, the duration of your DoTs become another component that you must be aware of, to ensure you maintain as much uptime with these debuffs as you can.  
 
@@ -79,9 +79,9 @@ While the total duration of your **Dreadwyrm Trance** can be up to 15 seconds, i
 
 ### Dreadwyrm Trance Priorities:
 
-Utilize the free instant-cast GCDs for maintaining uptime while moving, or oGCD weaving.
-Egi-Assaults can be used in place of **Ruin III** or **Outburst** during this duration.
-Use the **Tri-disaster** cooldown reset to refresh your DoTs when the previous duration is falling off.
+* Utilize the free instant-cast GCDs for maintaining uptime while moving, or oGCD weaving.
+* Egi-Assaults can be used in place of **Ruin III** or **Outburst** during this duration.
+* Use the **Tri-disaster** cooldown reset to refresh your DoTs when the previous duration is falling off.
 
 If you don’t need to use the extra instant-cast GCDs, you may use **Deathflare** to finish **Dreadwyrm Trance** early. 
 
@@ -140,6 +140,8 @@ Demi-Phoenix will have the exact same priorities as your Bahamut Phase, aiming f
 While you’re waiting for your next Trance to become available, this window is called the Filler Phase. Filler Phases are when you don’t have either of your Trance durations running or Demi-Bahamut, thus your only actions are casting your GCDs, building or using Ruin IV procs, refreshing DoTs and refreshing Aetherflow Gauge. Filler phases do not generally have specific GCD sequences, but rather just follow a simple priority list. During these filler phases, your priorities are:
 
 **1. Make sure not to overcap your resources!**
+&nbsp;
+&nbsp;
       A.  **Ruin IV** procs. You may hold a maximum of four **Ruin IV** procs at any given time, so you want to be sure to consume some of these procs before using your next set of Egi-Assault cooldowns. Casting Egi-Assaults while already holding the max number of procs will result in overwriting the proc.\
       B.  **Egi-Assaults.** You may hold a maximum of 2 charges on both of your Egi-Assault actions, however you want to avoid holding both charges for any prolonged period of time.  Since the cooldown timer is not present when both charges are available, holding onto both charges may lead to lost usages, which will translate into lost Ruin IV procs.\
       C.  **Aetherflow Gauge.**  Make sure that both charges of your Aetherflow Gauge are used before using your next Energy Drain (or Energy Siphon) cooldown to refresh your gauge.
