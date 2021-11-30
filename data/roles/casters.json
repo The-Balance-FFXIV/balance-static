@@ -15,6 +15,11 @@
       "name": "Red Mage",
       "job_link": "/jobs/casters/red-mage/",
       "icon": "/theme-assets/jobs/casters/red_mage/red_mage.svg"
+    },
+    {
+      "name": "Summoner",
+      "job_link": "/jobs/casters/summoner/",
+      "icon": "/theme-assets/jobs/casters/summoner/summoner.svg"
     }
   ],
   "title": "casters",
