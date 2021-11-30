@@ -144,9 +144,7 @@ While you’re waiting for your next Trance to become available, this window is 
 &nbsp;\
       A.  **Ruin IV** procs. You may hold a maximum of four **Ruin IV** procs at any given time, so you want to be sure to consume some of these procs before using your next set of Egi-Assault cooldowns. Casting Egi-Assaults while already holding the max number of procs will result in overwriting the proc.\
 &nbsp;\
-&nbsp;\
 B.  **Egi-Assaults.** You may hold a maximum of 2 charges on both of your Egi-Assault actions, however you want to avoid holding both charges for any prolonged period of time.  Since the cooldown timer is not present when both charges are available, holding onto both charges may lead to lost usages, which will translate into lost Ruin IV procs.\
-&nbsp;\
 &nbsp;\
 C.  **Aetherflow Gauge.**  Make sure that both charges of your Aetherflow Gauge are used before using your next Energy Drain (or Energy Siphon) cooldown to refresh your gauge.
 
