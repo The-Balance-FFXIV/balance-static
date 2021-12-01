@@ -2,7 +2,7 @@ backend:
   name: github
   repo: The-Balance-FFXIV/balance-static
   branch: main
-  base_url: https://auth.thebalanceffxiv.com
+  base_url: https://auth2.thebalanceffxiv.com
   site_domain: www.thebalanceffxiv.com
   cms_label_prefix: cms/
 publish_mode: editorial_workflow
