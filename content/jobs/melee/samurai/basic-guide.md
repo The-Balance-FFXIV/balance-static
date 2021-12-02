@@ -272,7 +272,7 @@ Higanbana is just that much of a Samurai’s damage, but applying it liberally a
 
 ![](https://lh6.googleusercontent.com/0HfOzMGPms_JosJfIzfnTstbaqwLCfaV2yDCUV3pqjPFVj9z6pJga0S_WUZMYIuIKsGw6DAQxWYcwRiAjQ0HLgACtPU0aZJiiHSPiF-_XFkxRxbDghHTiVFPxS1o5VRxm4a9KK-v=s0)
 
-# Midare First
+## Midare First
 
 **Midare First** should be reserved for encounters with a phase or kill time such that you are able to land an additional Midare + Tsubame combo where Higanbana first would not.
 
