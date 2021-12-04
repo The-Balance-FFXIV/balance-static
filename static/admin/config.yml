@@ -226,7 +226,7 @@ collections:
         name: "fight_title"
         hint: This is the short name of the fight (Ex. "o12s" or "e12s-p2")
         widget: "string"
-        pattern: ["[A-Za-z0-9\-]", "Cannot use spaces. Please only use letters, numbers, and dashes"]
+        pattern: ["[A-Za-z0-9-]", "Cannot use spaces. Please only use letters, numbers, and dashes"]
       - {label: "Encounter Category", 
         name: "encounter_category", 
         widget: "select", 
