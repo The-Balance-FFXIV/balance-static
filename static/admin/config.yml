@@ -227,10 +227,10 @@ collections:
         hint: This is the short name of the fight (Ex. "o12s" or "e12s-p2")
         widget: "string"
         pattern: ["[A-Za-z0-9-]", "Cannot use spaces. Please only use letters, numbers, and dashes"]
-      - {label: "Encounter Category", 
-        name: "encounter_category", 
+      - label: "Encounter Category"
+        name: "encounter_category" 
         widget: "select", 
-        options: ["savage", "ultimate", "extreme"]}
+        options: ["savage", "ultimate", "extreme"]
       - {label: "Fight Card Image", name: "card_image", widget: "image", choose_url: false}
       - {label: "Fight Banner (for individual guides)", name: "banner_image", widget: "image", choose_url: false}
       - {label: "Encounter Tier Image", name: "tier_image", widget: "image", choose_url: false, required: false}
@@ -238,18 +238,18 @@ collections:
         name: "tier_name", 
         hint: Please capitalize the name (Ex. "Eden's Promise" or "Alphascape"),
         widget: "string"}
-      - {label: "Encounter Series Name (Capitalized)", 
-        name: "series_name", 
-        hint: Please capitalize the series name (Ex. "Eden Series" or "Alexander Series"),
-        widget: "string"}
-      - {label: "Weight", 
-        name: "weight", 
+      - label: "Encounter Series Name (Capitalized)"
+        name: "series_name"
+        hint: Please capitalize the series name (Ex. "Eden Series" or "Alexander Series")
+        widget: "string"
+      - label: "Weight" 
+        name: "weight"
         hint: (1 - first, 2 - second, etc.)
-        widget: "number"}
-      - {label: "Tier Weight",
-        name: "tier_weight",
+        widget: "number"
+      - label: "Tier Weight"
+        name: "tier_weight"
         hint: (1 - EW, 2 - ShB, 3 - SB, 4 - HW, 5 - ARR)
-        widget: "number"}
+        widget: "number"
       - {label: "Coming Soon?", 
         name: "coming_soon", 
         hint: This adds the coming soon overlay. Only enable Coming Soon or Spoilers. Not both.,
