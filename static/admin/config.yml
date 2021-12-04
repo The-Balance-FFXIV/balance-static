@@ -218,13 +218,13 @@ collections:
     identifier_field: "fight_title"
     create: true
     fields:
-      - {label: "Fight Name",
-        name: "title", 
-        hint: This is the fight name (Ex. "E12 (Eternity)" or "O12 (Alphascape 4.0)"),
-        widget: "string"}
-      - label: "Short Name of Fight", 
-        name: "fight_title", 
-        hint: This is the short name of the fight (Ex. "o12s" or "e12s-p2"),
+      - label: "Fight Name"
+        name: "title"
+        hint: This is the fight name (Ex. "E12 (Eternity)" or "O12 (Alphascape 4.0)")
+        widget: "string"
+      - label: "Short Name of Fight",
+        name: "fight_title"
+        hint: This is the short name of the fight (Ex. "o12s" or "e12s-p2")
         widget: "string"
         pattern: ["[A-Za-z0-9\-]", "Cannot use spaces. Please only use letters, numbers, and dashes"]
       - {label: "Encounter Category", 
