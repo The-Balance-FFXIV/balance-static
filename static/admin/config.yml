@@ -209,6 +209,76 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  # Encounters Metadata
+  - label: "Encounters"
+    name: "encounter-data"
+    folder: "content/encounters"
+    media_folder: "/static/img/encounters"
+    public_folder: "/img/encounters"
+    identifier_field: "fight_title"
+    create: true
+    fields:
+      - {label: "Fight Name",
+        name: "title", 
+        hint: This is the fight name (Ex. "E12 (Eternity)" or "O12 (Alphascape 4.0)"),
+        widget: "string"}
+      - label: "Short Name of Fight", 
+        name: "fight_title", 
+        hint: This is the short name of the fight (Ex. "o12s" or "e12s-p2"),
+        widget: "string"
+        pattern: ["[A-Za-z0-9\-]", "Cannot use spaces. Please only use letters, numbers, and dashes"]
+      - {label: "Encounter Category", 
+        name: "encounter_category", 
+        widget: "select", 
+        options: ["savage", "ultimate", "extreme"]}
+      - {label: "Fight Card Image", name: "card_image", widget: "image", choose_url: false}
+      - {label: "Fight Banner (for individual guides)", name: "banner_image", widget: "image", choose_url: false}
+      - {label: "Encounter Tier Image", name: "tier_image", widget: "image", choose_url: false, required: false}
+      - {label: "Encounter Tier Name", 
+        name: "tier_name", 
+        hint: Please capitalize the name (Ex. "Eden's Promise" or "Alphascape"),
+        widget: "string"}
+      - {label: "Encounter Series Name (Capitalized)", 
+        name: "series_name", 
+        hint: Please capitalize the series name (Ex. "Eden Series" or "Alexander Series"),
+        widget: "string"}
+      - {label: "Weight", 
+        name: "weight", 
+        hint: (1 - first, 2 - second, etc.)
+        widget: "number"}
+      - {label: "Tier Weight",
+        name: "tier_weight",
+        hint: (1 - EW, 2 - ShB, 3 - SB, 4 - HW, 5 - ARR)
+        widget: "number"}
+      - {label: "Coming Soon?", 
+        name: "coming_soon", 
+        hint: This adds the coming soon overlay. Only enable Coming Soon or Spoilers. Not both.,
+        widget: "boolean", 
+        required: false}
+      - {label: "Spoilers?", 
+        name: "spoilers", 
+        hint: This adds the spoiler overlay. Only enable Coming Soon or Spoilers. Not both.,
+        widget: "boolean", 
+        required: false}
+      - {label: "Expansion", name: "expansion", widget: "select", options: ["ew", "shb", "sb", "hw", "arr"]}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Author(s)"
+        name: "authors"
+        widget: "relation"
+        multiple: true
+        collection: "author-profile"
+        search_fields: ["username", "name"]
+        value_field: "username"
+        display_fields: ["username", "name"]
+      - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+      - {label: "Patch", name: "patch", widget: "string"}
+      - label: "Changelog entry"
+        name: "changelog"
+        widget: "list"
+        summary: "{{fields.date}}: {{fields.message}}"
+        fields:
+          - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - {label: "Message", name: "message", widget: "string"}
   ##
   # Warrior guide
   ##
