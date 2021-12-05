@@ -250,16 +250,16 @@ collections:
         name: "tier_weight"
         hint: (1 - EW, 2 - ShB, 3 - SB, 4 - HW, 5 - ARR)
         widget: "number"
-      - {label: "Coming Soon?", 
-        name: "coming_soon", 
+      - label: "Coming Soon?"
+        name: "coming_soon"
         hint: This adds the coming soon overlay. Only enable Coming Soon or Spoilers. Not both.,
-        widget: "boolean", 
+        widget: "boolean"
         required: false}
-      - {label: "Spoilers?", 
-        name: "spoilers", 
-        hint: This adds the spoiler overlay. Only enable Coming Soon or Spoilers. Not both.,
-        widget: "boolean", 
-        required: false}
+      - label: "Spoilers?"
+        name: "spoilers"
+        hint: This adds the spoiler overlay. Only enable Coming Soon or Spoilers. Not both.
+        widget: "boolean"
+        required: false
       - {label: "Expansion", name: "expansion", widget: "select", options: ["ew", "shb", "sb", "hw", "arr"]}
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Author(s)"
