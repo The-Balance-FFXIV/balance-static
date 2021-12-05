@@ -252,9 +252,9 @@ collections:
         widget: "number"
       - label: "Coming Soon?"
         name: "coming_soon"
-        hint: This adds the coming soon overlay. Only enable Coming Soon or Spoilers. Not both.,
+        hint: This adds the coming soon overlay. Only enable Coming Soon or Spoilers. Not both.
         widget: "boolean"
-        required: false}
+        required: false
       - label: "Spoilers?"
         name: "spoilers"
         hint: This adds the spoiler overlay. Only enable Coming Soon or Spoilers. Not both.
