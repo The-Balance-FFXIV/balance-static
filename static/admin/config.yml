@@ -229,7 +229,7 @@ collections:
         pattern: ["[A-Za-z0-9-]", "Cannot use spaces. Please only use letters, numbers, and dashes"]
       - label: "Encounter Category"
         name: "encounter_category" 
-        widget: "select", 
+        widget: "select"
         options: ["savage", "ultimate", "extreme"]
       - {label: "Fight Card Image", name: "card_image", widget: "image", choose_url: false}
       - {label: "Fight Banner (for individual guides)", name: "banner_image", widget: "image", choose_url: false}
