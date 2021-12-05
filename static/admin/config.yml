@@ -234,10 +234,10 @@ collections:
       - {label: "Fight Card Image", name: "card_image", widget: "image", choose_url: false}
       - {label: "Fight Banner (for individual guides)", name: "banner_image", widget: "image", choose_url: false}
       - {label: "Encounter Tier Image", name: "tier_image", widget: "image", choose_url: false, required: false}
-      - {label: "Encounter Tier Name", 
-        name: "tier_name", 
-        hint: Please capitalize the name (Ex. "Eden's Promise" or "Alphascape"),
-        widget: "string"}
+      - label: "Encounter Tier Name"
+        name: "tier_name"
+        hint: Please capitalize the name (Ex. "Eden's Promise" or "Alphascape")
+        widget: "string"
       - label: "Encounter Series Name (Capitalized)"
         name: "series_name"
         hint: Please capitalize the series name (Ex. "Eden Series" or "Alexander Series")
