@@ -7,6 +7,8 @@ lastmod: 2021-12-06T21:56:50.850Z
 changelog:
   - date: 2021-10-28T03:25:40.964Z
     message: Created page
+  - date: 2021-12-06T21:59:05.859Z
+    message: Updated for Patch 6.0
 ---
 # Samurai Skills Overview
 
