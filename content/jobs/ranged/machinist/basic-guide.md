@@ -5,10 +5,12 @@ authors:
   - dook
   - Balance-MCH-Staff
 patch: "6.0"
-lastmod: 2021-10-25T21:56:53.723Z
+lastmod: 2021-12-07T00:19:42.444Z
 changelog:
   - date: 2021-10-25T21:57:19.219Z
     message: Created page
+  - date: 2021-12-07T00:19:45.145Z
+    message: Updated for Endwalker
 ---
 # Job Overview
 
