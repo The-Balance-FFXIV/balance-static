@@ -222,7 +222,9 @@ Above you can see how, on average, we have enough Shroud and Soul to execute our
 
 ![](https://lh5.googleusercontent.com/gqz0qpLTMo70MgQoyMIe8MN3oa4MYZimtmT78UahXMCnuSX3xtVlQVHVXwxBUU4UGPFq6O-MpdIksxvUO__txlqfv_IxzjvGfL_i99YnOxD7NO32Mh32YKiR-Noe4XAafnCnSLgr)
 
-Above you can see the benefits of Dead Zoning. This was simulated using a party composition containing a Ninja, Red Mage and Dancer in order to show the effect it has on our aDPS. Despite missing out on a Shroud during a Trick at the one minute mark, Dead zoning pulls ahead when the resources are dumped at around the 9:00 minute mark. This resource dump can happen anytime after the 5:30 minute mark, and the pooling strategy will end better, as more Gluttony's fit into more raid buffs. Below, you can see the effect that Dead Zoning has on minimizing Gluttony’s drift.![](https://lh4.googleusercontent.com/wV0rNg2blWlNAyuGem09WQ5siB_hZodw0kooEgEwcqfZZHcnBwNw1QIIGj9661mfGBAIw0Xc9efysD3ZWHmieHdJk4lpZ4jxchxFDWlFRFlCciYk1YO0qGZhYGPVE081nOxj3hRj)
+Above you can see the benefits of Dead Zoning. This was simulated using a party composition containing a Ninja, Red Mage and Dancer in order to show the effect it has on our aDPS. Despite missing out on a Shroud during a Trick at the one minute mark, Dead zoning pulls ahead when the resources are dumped at around the 9:00 minute mark. This resource dump can happen anytime after the 5:30 minute mark, and the pooling strategy will end better, as more Gluttony's fit into more raid buffs. Below, you can see the effect that Dead Zoning has on minimizing Gluttony’s drift.
+
+![](https://lh4.googleusercontent.com/wV0rNg2blWlNAyuGem09WQ5siB_hZodw0kooEgEwcqfZZHcnBwNw1QIIGj9661mfGBAIw0Xc9efysD3ZWHmieHdJk4lpZ4jxchxFDWlFRFlCciYk1YO0qGZhYGPVE081nOxj3hRj)
 
 Dead Zoning comes with some disadvantages though, which are important to talk about:
 
