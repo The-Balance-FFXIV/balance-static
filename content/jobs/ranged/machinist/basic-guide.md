@@ -4,6 +4,7 @@ card_header_image: /img/jobs/mch/basic.png
 authors:
   - dook
   - Balance-MCH-Staff
+  - lynn-nuvestrahl
 patch: "6.0"
 lastmod: 2021-12-07T00:19:42.444Z
 changelog:
