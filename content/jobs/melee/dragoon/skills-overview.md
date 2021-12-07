@@ -7,6 +7,8 @@ lastmod: 2021-10-29T02:55:11.207Z
 changelog:
   - date: 2021-10-29T02:55:23.237Z
     message: Created page
+  - date: 2021-12-07T16:29:06.376Z
+    message: Update for Endwalker actions
 ---
 # Dragoon Skills Overview
 
