@@ -62,7 +62,7 @@ As of 6.0, the timer before combo actions break has been increased to 30 seconds
 
 A full segment of Hypercharge is exactly three GCDs worth of time, or 7.5s. Because of this, you should never enter Hypercharge if Chainsaw, Drill or Air Anchor has less than eight seconds on their cooldown timers. Doing so will cause the Chainsaw, Drill or Air Anchor cooldowns to drift, which leads to a loss of DPS and will more than likely cause issues down the line in your rotation when you reach your rotational reset at Wildfire.
 
-One of the themes in our level 90 openers is maintaining 3 GCDs worth of Heated actions in a row. What this does is allow us to replace that three-string segment of Heated actions with a Hypercharge and burst even more inside of raid buffs every two minutes. This replacement of Heated actions also allows us one other thing; Using Barrel Stabilizer on cooldown. To avoid overcap it should be used inside of the Hypercharge segment itself to prepare for the following Wildfire window. A standard buff window, following the General Raid Opener, will look like this:\
+One of the themes in our level 90 openers is maintaining three GCDs worth of Heated actions in a row. What this does is allow us to replace that three-string segment of Heated actions with a Hypercharge and burst even more inside of raid buffs every two minutes. This replacement of Heated actions also allows us one other thing; Using Barrel Stabilizer on cooldown. To avoid overcap it should be used inside of the Hypercharge segment itself to prepare for the following Wildfire window. A standard buff window, following the General Raid Opener, will look like this:\
 \
 AA - Drill - HC window - Chainsaw - WF HC window - Drill ← Should be an image
 
@@ -100,14 +100,14 @@ In rare scenarios, opening with Air Anchor, Drill and Chainsaw as your first thr
 
 The basic AoE priority is as follows:
 
-2 Targets
+Two Targets
 
 * The Heated Combo is a gain over Scattergun
 * Heat Blast should still be used over Auto-Crossbow
 * Bioblaster is a gain over Drill as long as the entire duration of the DoT will tick
 * Reassemble priority is on Chainsaw
 
-3 Targets
+Three Targets
 
 * Flamethrower > Scattergun 
 * Auto-Crossbow becomes a gain over Heat Blast while in Hypercharge
