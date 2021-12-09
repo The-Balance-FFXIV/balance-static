@@ -29,11 +29,9 @@ Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge whi
 
 # Openers 
 
-
-
 Listed below are all current openers and the reasoning as to why each one should be selected. It is very important that you attempt to put as much damage into the raid buffs of your party as possible. Wildfire does not scale with skill speed, so once it’s placed in your opener it will never move forward and can only be delayed in your rotation. Wildfire should be placed properly in the opener based on your party composition and the downtime you have in an encounter. Wildfire snapshots raid buffs upon use of the ability -- not on detonation. Wildfire cannot critical hit or direct hit, thus gaining no benefit from crit or direct hit boosting raid buffs. 
 
-In both (future images) openers listed below, you’ll notice there’s a string of three Heated combo actions in a row. This is done on purpose for later on in an encounter. Those Heated combo actions can, and most likely will be, replaced with a Hypercharge window later on. This allows us to get more potency under raid buffs and use Barrel Stabilizer on cooldown, prior to Wildfire windows. Each opener also contains six GCDs prior to Wildfire. This is the only way to summon Queen in your opener without delaying Drill to 12.5 seconds.
+In both (future images) openers listed below, you’ll notice there’s a string of three Heated combo actions in a row. This is done on purpose for later on in an encounter. Those Heated combo actions can, and most likely will be, replaced with a Hypercharge window later on. This allows us to get more potency under raid buffs and use Barrel Stabilizer on cooldown, prior to Wildfire windows. Each opener also contains 5 GCDs prior to Wildfire. This is the only way to summon Queen in your opener without delaying Drill to 12.5 seconds.
 
 #### General Raid Setting Opener
 
@@ -46,8 +44,6 @@ Reassembled Air Anchor → Drill → Split → Slug → Clean → Reassembled Ch
 Air Anchor → Split → Slug → Clean → Reassembled Drill → Reassembled Chainsaw → Wildfire Hypercharge → Split
 
 # The Two-Minute Loop and Rotational Theory
-
-
 
 The most basic description of the level 90 rotation can be broken down by following these rules:
 
@@ -126,8 +122,6 @@ If making the choice between what to Reassemble between Drill, Chainsaw, and Air
 Auto Crossbow should only be used on three or more enemies since, unlike Heat Blast, Auto Crossbow does not generate Gauss Round or Ricochet charges.
 
 As far as Flamethrower is concerned, it’s equal in potency to a 3-target rotation using Auto Crossbow. The graph below shows a side by side comparison of Flamethrower and Auto Crossbow.
-
-
 
 ![](/img/jobs/mch/mch-heat-vs-ft.png)
 
