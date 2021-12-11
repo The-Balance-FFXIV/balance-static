@@ -11,7 +11,7 @@ changelog:
 ---
 RDM’s rotation revolves around casting spells to build up black and white mana, then spending our accumulated mana on powerful enchanted weaponskills. Our casting phase is primarily defined by our “Dualcast” trait, which grants us a buff after every hardcasted spell that turns our next spell into an instantly cast spell. This means we will be alternating between hardcasting spells with low cast time, and using the Ddualcast buff to instantly cast spells with a longer cast time. As a result, we will never hardcast a spell with a 5+ second cast time outside of pre-pull scenarios.
 
-| Hardcast these spells to get Dualcast proc… | …so these can be instantly cast |
+| Hardcast these spells to get Dualcast proc… | so these can be instantly cast: |
 | -------------------------------------------- | ------------------------------- |
 | Jolt I + II | Scatter/Impact | 
 | Verstone/Verfire | Verthunder/Veraero |
@@ -48,9 +48,9 @@ Level 56 adds Contre Sixte, another powerful damaging oGCD that should be used o
 
 Jolt is upgraded to Jolt II, while Scatter becomes Impact. While those upgrades do not affect our rotation in any meaningful manner, we do get two new oGCDs that are worth mentioning.
 
-\*\*Embolden:\*\* Acquired at level 58, this is RDM’s party buff that should be used both in trash packs and bosses in dungeons instead of being saved exclusively for bosses. In general, Embolden is worth using on trash packs if your party can benefit from the full duration, though you may choose to hold it during smaller pulls that die too quickly. 
+**Embolden:** Acquired at level 58, this is RDM’s party buff that should be used both in trash packs and bosses in dungeons instead of being saved exclusively for bosses. In general, Embolden is worth using on trash packs if your party can benefit from the full duration, though you may choose to hold it during smaller pulls that die too quickly. 
 
-\*\*Manafication:\*\* Learned at level 60, Manafication instantly gives us 50 black and 50 white mana. We should use it in both AOE scenarios (granting us at least 2 free Enchanted Moulinets) and single target (for a free melee combo).
+**Manafication:** Learned at level 60, Manafication instantly gives us 50 black and 50 white mana. We should use it in both AOE scenarios (granting us at least 2 free Enchanted Moulinets) and single target (for a free melee combo).
 
 At level 64, we get Verraise, RDM’s most powerful recovery tool as it lets us dualcast a raise every other GCD. In dungeons, Verraise is generally not needed unless the healer is dead. In eight-player content, Verraise can easily salvage almost-wipes and should be used liberally for recovery when multiple people are dead. 
 
