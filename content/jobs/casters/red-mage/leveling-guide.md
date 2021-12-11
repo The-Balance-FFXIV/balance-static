@@ -3,6 +3,7 @@ title: Red Mage Leveling Guide
 card_header_image: /img/jobs/rdm/leveling.png
 authors:
   - meru
+  - Balance-RDM-Staff
 patch: "6.0"
 lastmod: 2021-11-15T18:48:11.946Z
 changelog:
@@ -30,7 +31,7 @@ Use Corps-a-corps on cooldown (CD) and not for movement. It is a damaging oGCD t
 
 ## Levels 26-51
 
-Our AoE rotation only has a minor change in this level range with the addition of Acceleration at 50, a buff that will make our next Scatter insta-cast and boost its potency. Acceleration can be used on CD during our AoE rotation.
+Our AoE rotation only has a minor change in this level range with the addition of Acceleration at 50, a buff that will make our next Scatter insta-cast and boost its potency. Acceleration can be used on cooldown (CD) during our AoE rotation.
 
 In terms of single target, we get our Verfire and Verstone procs at level 26 and 30 respectively. They will replace Jolt in our dualcast GCD pairs when we get them from Verthunder and Veraero. Acceleration removes the cast time on our next Verthunder or Veraero and ensures they will give us a proc. Use this freely on CD as long as you will get a useful proc from it.
 
