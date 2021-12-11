@@ -9,7 +9,7 @@ changelog:
   - date: 2021-11-15T18:49:06.143Z
     message: Created page
 ---
-RDM’s rotation revolves around casting spells to build up black and white mana, then spending our accumulated mana on powerful enchanted weaponskills. Our casting phase is primarily defined by our “Dualcast” trait, which grants us a buff after every hardcasted spell that turns our next spell into an instantly cast spell. This means we will be alternating between hardcasting spells with low cast time, and using the Ddualcast buff to instantly cast spells with a longer cast time. As a result, we will never hardcast a spell with a 5s+ cast time outside of pre-pull scenarios.
+RDM’s rotation revolves around casting spells to build up black and white mana, then spending our accumulated mana on powerful enchanted weaponskills. Our casting phase is primarily defined by our “Dualcast” trait, which grants us a buff after every hardcasted spell that turns our next spell into an instantly cast spell. This means we will be alternating between hardcasting spells with low cast time, and using the Ddualcast buff to instantly cast spells with a longer cast time. As a result, we will never hardcast a spell with a 5+ second cast time outside of pre-pull scenarios.
 
 | Hardcast these spells to get Ddualcast proc…                     | …so these can be instantly cast                      |
 | ---------------------------------------------------------------- | ---------------------------------------------------- |
@@ -24,9 +24,9 @@ Verraise |
 
 As RDM is a job that starts at 50, you’re guaranteed to have your AoE tools no matter which dungeon you sync to. 3+ target AoE in this level range is simply Verthunder II and Veraero II into Scatter. We do not have an AoE mana spender so do not bother using any enchanted weaponskills outside of single target.
 
-For single target, we alternate between casting Jolt->Verthunder and Jolt->Veraero, keeping our mana levels relatively balanced. You only have a single melee combo step at this level range, but it is still worth using whenever you amass enough mana.
+For single target, we alternate between casting Jolt -> Verthunder and Jolt -> Veraero, keeping our mana levels relatively balanced. You only have a single melee combo step at this level range, but it is still worth using whenever you amass enough mana.
 
-Use Corps-a-corps on cooldown and not for movement. It is a damaging oGCD that simply happens to move you.
+Use Corps-a-corps on cooldown (CD) and not for movement. It is a damaging oGCD that simply happens to move you.
 
 ## Levels 26-51
 
@@ -36,7 +36,7 @@ In terms of single target, we get our Verfire and Verstone procs at level 26 and
 
 At 35 and 50, we will get additions to our single target melee combos. Build up enough mana to fully utilize whatever combo steps are available to you at your level, 35 for Riposte + Zwerchau, 50 for the full combo. 
 
-We get a few damaging oGCDs in this level range, namely Displacement/Engagement (both level 40) and Fleche. Displacement and Engagement share the same cooldown and do the same potency, so we generally prefer Engagement for the shorter animation lock unless the movement from Displacement is useful. Fleche is one of our most powerful oGCDs and should be used on CD. 
+We get a few damaging oGCDs in this level range, namely Displacement/Engagement (both level 40) and Fleche. Displacement and Engagement share the same cooldown and share the same damage potency, so we generally prefer Engagement for the shorter animation lock unless the movement from Displacement is useful. Fleche is one of our most powerful oGCDs and should be used on CD. 
 
 ## Levels 52-57
 
