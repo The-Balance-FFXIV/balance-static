@@ -32,15 +32,15 @@ Use Corps-a-corps on cooldown (CD) and not for movement. It is a damaging oGCD t
 
 Our AoE rotation only has a minor change in this level range with the addition of Acceleration at 50, a buff that will make our next Scatter insta-cast and boost its potency. Acceleration can be used on CD during our AoE rotation.
 
-In terms of single target, we get our Verfire and Verstone procs at level 26 and 30 respectively. They will replace Jolt in our dualcast GCD pairs when we get them from Verthunder and Veraero. Acceleration removes the cast time on our next Verthunder or Veraero and ensures they will give us a proc. Use this freely on CD as long as we get a useful proc from it.
+In terms of single target, we get our Verfire and Verstone procs at level 26 and 30 respectively. They will replace Jolt in our dualcast GCD pairs when we get them from Verthunder and Veraero. Acceleration removes the cast time on our next Verthunder or Veraero and ensures they will give us a proc. Use this freely on CD as long as you will get a useful proc from it.
 
-At 35 and 50, we will get additions to our single target melee combos. Build up enough mana to fully utilize whatever combo steps are available to you at your level, 35 for Riposte + Zwerchau, 50 for the full combo. 
+At 35 and 50, we will get additions to our single target melee combos. Build up enough mana to fully utilize whatever combo steps are available to you at your level; 35 for Riposte + Zwerchau, 50 for the full combo. 
 
 We get a few damaging oGCDs in this level range, namely Displacement/Engagement (both level 40) and Fleche. Displacement and Engagement share the same cooldown and share the same damage potency, so we generally prefer Engagement for the shorter animation lock unless the movement from Displacement is useful. Fleche is one of our most powerful oGCDs and should be used on CD. 
 
 ## Levels 52-57
 
-Our AoE rotation changes with the addition of Enchanted Moulinet at level 52, our AoE mana spender. We can now mix in Enchanted Moulinets between our Verthunder II/Veraero II ->Scatter GCD pairs. 
+Our AoE rotation changes at level 52 with the addition of Enchanted Moulinet, our AoE mana spender. We can now mix in Enchanted Moulinets between our Verthunder II/Veraero II -> Scatter GCD pairs. 
 
 At level 54, we get Vercure, which can actually be used offensively during downtime to prepare a Dualcast so we can instantly open on the next mob pack/boss with a strong GCD. Vercuring during downtime is a trick often used in endgame raids whenever the boss disappears, so it’s a good habit to get into early on.
 
@@ -54,7 +54,7 @@ Jolt is upgraded to Jolt II, while Scatter becomes Impact. While those upgrades 
 
 \*\*Manafication:\*\* Learned at level 60, Manafication instantly gives us 50 black and 50 white mana. We should use it in both AOE scenarios (granting us at least 2 free Enchanted Moulinets) and single target (for a free melee combo).
 
-At level 64, we get Verraise, RDM’s most powerful recovery tool as we can dualcast a raise every other GCD. In dungeons, Verraise is generally not needed unless the healer is dead. In eight-player content, Verraise can easily salvage almost-wipes and should be used liberally for recovery when multiple people are dead. 
+At level 64, we get Verraise, RDM’s most powerful recovery tool as it lets us dualcast a raise every other GCD. In dungeons, Verraise is generally not needed unless the healer is dead. In eight-player content, Verraise can easily salvage almost-wipes and should be used liberally for recovery when multiple people are dead. 
 
 ## Levels 68-77
 
