@@ -2,7 +2,7 @@
 title: Red Mage Leveling Guide
 card_header_image: /img/jobs/rdm/leveling.png
 authors:
-  - Balance-RDM-Staff
+  - meru
 patch: "5.58"
 lastmod: 2021-11-15T18:48:11.946Z
 changelog:
@@ -65,7 +65,3 @@ Our single target rotation does not change aside from the addition of Verholy/Ve
 Level 78 introduces the Enhanced Manafication trait, which makes Manafication grant multiple stacks of a 5% magical damage buff. This essentially means that we always want to go into a combo (whether 3x Enchanted Moulinet or E.Riposte > E.Zwerchau > E.Redoublement) after a use of Manafication so as to not waste our 5% magical damage buff on weaker GCDs. Be aware that Manafication by itself does not guarantee enough melee for a full AoE combo, so make sure you have at least 10|10 mana before using Manafication in AoE situations. 
 
 We get additional combo finishers with Scorch at level 80 and Resolution at 90, as well as some spell upgrades, but our AoE and single target rotations are otherwise unaffected. 
-
-![](https://lh6.googleusercontent.com/7Fr4WjakH5EJlC4wtbda_xJo68GBhhJsMHfjpH7HipVaq-vgOXLi5R0WGaNEaa_hG_qpfJWlJ9fzsPBzACZOmOE7EBkJZzQfk3n2Yrf0hNs0BsIm034CcTR2vjmgRsHLNbuLlEre)
-
-![](https://lh3.googleusercontent.com/OJhkvYWUBPmO5ZSYXOk36JCtsVyzoXKKoNXf29FanhXhJL1iGlToowadUpF64F-BoHo_SnLqfFXlbBkikxW0kgwKNPeh2HYbFE2RiNzPqybqXdFHDs6xa_ycmwALMc3EXPHS349J)
