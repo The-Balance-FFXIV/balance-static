@@ -3,7 +3,7 @@ title: Red Mage Leveling Guide
 card_header_image: /img/jobs/rdm/leveling.png
 authors:
   - meru
-patch: "5.58"
+patch: "6.0"
 lastmod: 2021-11-15T18:48:11.946Z
 changelog:
   - date: 2021-11-15T18:49:06.143Z
@@ -11,7 +11,7 @@ changelog:
   - date: 2021-12-11T00:28:07.475Z
     message: Guide updated for Endwalker.
 ---
-RDM’s rotation revolves around casting spells to build up black and white mana, then spending our accumulated mana on powerful enchanted weaponskills. Our casting phase is primarily defined by our “Dualcast” trait, which grants us a buff after every hardcasted spell that turns our next spell into an instantly cast spell. This means we will be alternating between hardcasting spells with low cast time, and using the Ddualcast buff to instantly cast spells with a longer cast time. As a result, we will never hardcast a spell with a 5+ second cast time outside of pre-pull scenarios.
+Red Mage’s rotation revolves around casting spells to build up black and white mana, then spending our accumulated mana on powerful enchanted weaponskills. Our casting phase is primarily defined by our “Dualcast” trait, which grants us a buff after every hardcasted spell that turns our next spell into an instantly cast spell. This means we will be alternating between hardcasting spells with low cast time, and using the Ddualcast buff to instantly cast spells with a longer cast time. As a result, we will never hardcast a spell with a 5+ second cast time outside of pre-pull scenarios.
 
 | Hardcast these spells to get Dualcast proc… | so these can be instantly cast: |
 | -------------------------------------------- | ------------------------------- |
