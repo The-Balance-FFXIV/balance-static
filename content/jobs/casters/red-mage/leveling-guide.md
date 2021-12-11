@@ -58,15 +58,15 @@ At level 64, we get Verraise, RDM’s most powerful recovery tool as it lets us 
 
 ## Levels 68-77
 
-We get our first combo finisher at level 68, which changes how we use Enchanted Moulinet in AOE situations. Verholy/Verflare can be used when we have accumulated 3 mana stacks via our enchanted melee combo steps or Enchanted Moulinet, but the stacks disappear if we use any other GCD. Therefore, we want to make sure that we have at least 60|60 mana before using Enchanted Moulinet so we can combo three Enchanted Moulinet into Verholy or Verflare, both of which do AoE damage. 
+We get our first combo finisher at level 68, which changes how we use Enchanted Moulinet in AOE situations. Verholy/Verflare can be used when we have accumulated three Mana Stacks via our enchanted melee combo steps or Enchanted Moulinet, but the stacks disappear if we use any other GCD. Therefore, we want to make sure that we have at least 60|60 mana before using Enchanted Moulinet so we can combo three Enchanted Moulinet into Verholy or Verflare, both of which do AoE damage. 
 
 Our single target rotation does not change aside from the addition of Verholy/Verflare at the end of our melee combo. 
 
 ## Levels 78+
 
-Level 78 introduces the Enhanced Manafication trait, which makes Manafication grant multiple stacks of a 5% magical damage buff. This essentially means that we always want to go into a combo (whether 3x Enchanted Moulinet or E.Riposte>E.Zwerchau>E.Redoublement) after a use of Manafication so as to not waste our 5% magical damage buff on weaker GCDs. Be aware that manafication by itself does not guarantee enough melee for a full AOE combo, so make sure you have at least 10|10 mana before using Manafication in AOE situations. 
+Level 78 introduces the Enhanced Manafication trait, which makes Manafication grant multiple stacks of a 5% magical damage buff. This essentially means that we always want to go into a combo (whether 3x Enchanted Moulinet or E.Riposte > E.Zwerchau > E.Redoublement) after a use of Manafication so as to not waste our 5% magical damage buff on weaker GCDs. Be aware that Manafication by itself does not guarantee enough melee for a full AoE combo, so make sure you have at least 10|10 mana before using Manafication in AoE situations. 
 
-We get additional combo finishers with Scorch at level 80 and Resolution at 90, as well as some spell upgrades, but our AOE and single target rotations are otherwise unaffected. 
+We get additional combo finishers with Scorch at level 80 and Resolution at 90, as well as some spell upgrades, but our AoE and single target rotations are otherwise unaffected. 
 
 ![](https://lh6.googleusercontent.com/7Fr4WjakH5EJlC4wtbda_xJo68GBhhJsMHfjpH7HipVaq-vgOXLi5R0WGaNEaa_hG_qpfJWlJ9fzsPBzACZOmOE7EBkJZzQfk3n2Yrf0hNs0BsIm034CcTR2vjmgRsHLNbuLlEre)
 
