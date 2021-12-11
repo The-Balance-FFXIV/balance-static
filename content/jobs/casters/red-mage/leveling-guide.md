@@ -11,13 +11,13 @@ changelog:
 ---
 RDM’s rotation revolves around casting spells to build up black and white mana, then spending our accumulated mana on powerful enchanted weaponskills. Our casting phase is primarily defined by our “Dualcast” trait, which grants us a buff after every hardcasted spell that turns our next spell into an instantly cast spell. This means we will be alternating between hardcasting spells with low cast time, and using the Ddualcast buff to instantly cast spells with a longer cast time. As a result, we will never hardcast a spell with a 5s+ cast time outside of pre-pull scenarios.
 
-| Hardcast these spells to get Ddualcast proc…                       | …so these can be instantly cast                       |
-| ------------------------------------------------------------------ | ----------------------------------------------------- |
-| Jolt I + II \
-Verstone/Verfire \
+| Hardcast these spells to get Ddualcast proc…                     | …so these can be instantly cast                      |
+| ---------------------------------------------------------------- | ---------------------------------------------------- |
+| Jolt I + II\
+Verstone/Verfire\
 Veraero II/Verthunder II\
 Vercure | Scatter/Impact\
-Verthunder/Veraero I + III \
+Verthunder/Veraero I + III\
 Verraise |
 
 ## Levels 18-25
