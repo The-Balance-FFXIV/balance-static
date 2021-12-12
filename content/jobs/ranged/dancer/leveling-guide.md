@@ -18,14 +18,14 @@ Written by: Ringabel Dim
 
 
 
-This information on this page is to give helpful tips to help you as you are leveling DNC. This guide will focus on what skills and abilities are available to you for each level range and will indicate at which levels do you get actions that affect your rotation and how they affect it.
+This information on this page is to give helpful tips to help you as you are leveling DNC. This guide will focus on what skills and abilities are available to you in each level range, and will indicate at which levels you get actions that affect your rotation and how they affect it.
 
 # Basics
 
 
 ## Gear
 
-First of all, the gear you get from the quest unlocking DNC is not the best gear you can wear on DNC at level 60 that is accessible. Specifically, the weapon (ilvl 255 High Steel Chakrams) is of normal quality from the quest instead of high quality making it significantly worse due to missing weapon damage. You can buy an entire ilvl 270 gearset for level 60 DNC for 3775 tomestones of poetics. If upgrading pieces incrementally, the simplest strategy is to upgrade the Weapon first and then your lowest iLvl gear pieces next.
+First of all, the gear you get from the quest unlocking DNC is not the best gear you can wear on DNC at level 60 that is accessible. Specifically, the weapon (iLvl 255 High Steel Chakrams) is of normal quality from the quest instead of high quality making it significantly worse due to missing weapon damage. You can buy an entire iLvl 270 gearset for level 60 DNC for 3775 tomestones of poetics. If upgrading pieces incrementally, the simplest strategy is to upgrade the Weapon first and then your lowest iLvl gear pieces next.
 
 
 
