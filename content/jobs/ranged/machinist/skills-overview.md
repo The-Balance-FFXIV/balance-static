@@ -34,7 +34,7 @@ Shares recast timer with Bioblaster. 550 Potency GCD on a 20 second recast timer
 ![Reassemble](https://xivapi.com/i/003000/003022_hr1.png)
 <br>**Reassemble**
 
-Ensures next weapon skill is a critical direct hit. oGCD on a 55 second cooldown. 
+Ensures next weapon skill is a critical direct hit. oGCD on a 55 second cooldown. Stacks up to 2 times.
 
 ![Hypercharge](https://xivapi.com/i/003000/003041_hr1.png)
 <br>**Hypercharge**
@@ -84,7 +84,7 @@ Generates 50 heat.  oGCD on a two minute cooldown.
 ![Bioblaster](https://xivapi.com/i/003000/003044_hr1.png) 
 <br>**Bioblaster**
 
-Conal AoE that applies a DoT to enemies. Shares recast with Drill.  300 Potency GCD (50p upfront + 50p DoT/15s) 
+Conal AoE that applies a DoT to enemies. Shares recast with Drill.  300 Potency GCD. 50 potency on initial hit, then 50 potency per DoT tick over 15 seconds.
 
 ![]()
 
@@ -101,7 +101,7 @@ Only usable during Hypercharge. GCD timer set to 1.5s when using this skill. Con
 ![Flamethrower](https://xivapi.com/i/003000/003038_hr1.png)\
 <br>**Flamethrower**
 
-A channeled ability. Deals 80 potency once per second for ten seconds. Moving while channeling the skill will end its duration. Even though it’s an ability, it still resets the GCD timer.  GCD  100p/10s + initial tick.  Max 1100 potency on all enemies in a cone. 
+A channeled ability. Deals 80 potency once per second for ten seconds. Moving while channeling the skill will end its duration. Even though it’s an ability, it still resets the GCD timer. 80p per 1 second + initial tick.  Max 880 potency on all enemies in a cone. 
 
 # Pet Actions
 
