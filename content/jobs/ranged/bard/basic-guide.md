@@ -3,6 +3,8 @@ title: Bard Basic Guide
 card_header_image: /img/jobs/brd/basic.png
 authors:
   - TKCetonis
+  - infinitestory
+  - Balance-BRD-Staff
 patch: "6.00"
 lastmod: 2021-12-13T02:09:03.870Z
 changelog:
@@ -17,16 +19,16 @@ This is a basic introduction to level 90 Bard. It will not go into many nuances,
 
 If you're looking for such information, you may find it in one of the dedicated guides below: 
 
-- [Leveling Guide]()
-- [Skills Overview]()
-- [Gearing]()
-- [Stats and Materia]()
-- [Frequently Asked Questions]()
-- [Openers]()
-- [Advanced Guide]()
-- [Fight-Specific Tips]()
+- [Leveling Guide](/jobs/ranged/bard/leveling-guide)
+- [Skills Overview](/jobs/ranged/bard/skills-overview)
+- [Gearing](/jobs/ranged/bard/best-in-slot)
+- [Stats and Materia](/jobs/ranged/bard/stats-and-materia)
+- [Frequently Asked Questions](/jobs/ranged/bard/faq)
+- [Openers](/jobs/ranged/bard/openers)
+- [Advanced Guide](/jobs/ranged/bard/advanced-guide)
+- [Fight-Specific Tips]() (not yet available).
 
-(Note: These pages will be added over time)
+(Note: These pages will be added or updated over time.)
 
 # Playstyle
 
@@ -34,7 +36,7 @@ As a Bard, you won't have a set rotation. Instead, Bard skill usage is based on 
 
 The core of this is a set of three songs you'll cycle through. Each song has an effect that has an 80% chance to occur every three seconds.
 
-> Note: Something with a random chance to occur is commonly called a "proc", and will be throughout this guide. 
+> Note: Something with a random chance to occur is commonly called a "proc", and will be mentioned throughout this guide. 
 
 Between songs, procs, and its pair of damage over time (DoT) debuffs, Bard can feel like it has a lot to keep an eye on. But with practice, you'll get the hang of it.
 
@@ -80,9 +82,9 @@ It looks like a lot, but you don't need to absorb all of this at once; it's okay
 |-|-|-|
 |![Stormbite](https://xivapi.com/i/002000/002614_hr1.png)|![Caustic Bite](https://xivapi.com/i/002000/002613_hr1.png)|![Iron Jaws](https://xivapi.com/i/002000/002608_hr1.png)| 
 
-###1. Maintain your DoTs
+### 1. Maintain your DoTs.
 
-Keeping your DoTs up is your top priority. If they aren't applied yet, use **Stormbite**, then **Caustic Bite**. Do not use Refulgent in-between if it procs, getting the second DoT up is slightly better. 
+Keeping your DoTs up is your top priority. If they aren't applied yet, use **Stormbite**, then **Caustic Bite**. Do not use Refulgent inb etween if it procs, as getting the second DoT up is slightly better. 
 
 If your DoTs are up, but they're about to fall off (3s or less remaining), use **Iron Jaws** to re-apply them.
 
@@ -90,13 +92,13 @@ If your DoTs are up, but they're about to fall off (3s or less remaining), use *
 |-|-|-|
 |![Refulgent Arrow](https://xivapi.com/i/002000/002616_hr1.png)|![Apex Arrow](https://xivapi.com/i/002000/002619_hr1.png)|![Blast Arrow](https://xivapi.com/i/002000/002621_hr1.png)|
 
-###2. Use proc GCDs
+### 2. Use proc GCDs.
 
 If your Soul Gauge is full, go ahead and **Apex Arrow**. Otherwise use **Refulgent Arrow** or **Blast Arrow** if available.
 
 ![Burst Shot](https://xivapi.com/i/002000/002618_hr1.png)
 
-###3. Burst Shot
+### 3. Burst Shot.
 
 If none of the above are true, fire off **Burst Shots** until you have something better to do with your GCDs.
 
@@ -107,7 +109,7 @@ If none of the above are true, fire off **Burst Shots** until you have something
 |-|-|-|
 |![The Wanderer's Minuet](https://xivapi.com/i/002000/002607_hr1.png)|![Mage's Ballad](https://xivapi.com/i/002000/002602_hr1.png)|![Army's Paeon](https://xivapi.com/i/002000/002603_hr1.png)|
 
-###1. Always have a song running
+### 1. Always have a song running.
 
 If you don't have a song up, get one up! See [Song Order](#song-cycle) for details.
 
@@ -115,7 +117,7 @@ If you don't have a song up, get one up! See [Song Order](#song-cycle) for detai
 |-|-|-|
 |![Raging Strikes](https://xivapi.com/i/000000/000352_hr1.png)|![Battle Voice](https://xivapi.com/i/002000/002601_hr1.png)|![Radiant Finale](https://xivapi.com/i/002000/002622_hr1.png)|
 
-###2. Use your buffs
+### 2. Use your buffs.
 
 Every two minutes, you'll have **Raging Strikes**, **Battle Voice** and **Radiant Finale**. You want to be using these in tandem, with Raging Strikes one or two GCDs before the other two. 
 
@@ -125,23 +127,23 @@ This stack of buffs is a huge part of what you bring to the party as a Bard. The
 |-|-|
 |![Pitch Perfect](https://xivapi.com/i/002000/002611_hr1.png)|![Bloodletter](https://xivapi.com/i/000000/000361_hr1.png)|
 
-###3. Use your song's proc skill if needed
+### 3. Use your song's proc skill if needed.
 
 In **The Wanderer's Minuet**, this will be a three-stack **Pitch Perfect**. In **Mage's Ballad**, use **Bloodletter** often enough to make sure you don't fill up and start wasting procs.
 
 ![Empyreal Arrow](https://xivapi.com/i/002000/002606_hr1.png)
 
-###4. Keep on top of Empyreal Arrow
+### 4. Keep on top of Empyreal Arrow.
 
-Using **Empyreal Arrow** on time every time is very valuable. Unless there's a risk of wasting the automatic proc it gives, use it as soon as you can.
+Use **Empyreal Arrow** on time every time is very valuable. Unless there's a risk of wasting the automatic proc it gives, use it as soon as you can.
 
 ||||
 |-|-|-|
 |![Barrage](https://xivapi.com/i/000000/000353_hr1.png)|![Sidewinder](https://xivapi.com/i/002000/002610_hr1.png)|![Bloodletter](https://xivapi.com/i/000000/000361_hr1.png)|
 
-###5. Other oGCDs
+### 5. Other oGCDs
 
-Use **Barrage** and **Sidewinder** during the two-minute buff stack. For Sidewinder, that means using it on time in the in-between minutes as well.
+Use **Barrage** and **Sidewinder** during the two-minute buff stack. For Sidewinder, that means using it on time in the in between minutes as well.
 
 Be careful not to use Barrage if you have a Refulgent Arrow already. Barrage gives you that proc automatically, and you don't want to waste that freebie.
 
@@ -149,7 +151,7 @@ As a charged action **Bloodletter** is generally lower priority, so long as you 
 
 ## Song Cycle {#song-cycle}
 
-Bard has three main songs that form the backbone of your kit. **The Wanderer's Minuet (WM)**, **Mage's Ballad (MB)**, and **Army's Paeon (AP)**. 
+Bard has three main songs that form the backbone of your kit: **The Wanderer's Minuet (WM)**, **Mage's Ballad (MB)**, and **Army's Paeon (AP)**. 
 
 Each song gives a small (but always-on) buff to the party, and has an 80% chance to trigger an effect every three seconds. The timing aligns with the song timer - procs can occur at 42 seconds on the timer, 39 seconds and so on.
 
@@ -187,7 +189,7 @@ Make sure to stay on top of the GCD as its pace accelerates. It's easy to lose d
 
 ### Song order
 
-**The Wanderer's Minuet** is our strongest song by far, which is why we use it first. **Mage's Ballad** is slightly weaker than a four-stack **Army's Paeon**. But, it has no 'warm up' period, and a better party buff to have for 60-second skills. So, we use MB second even if we spend less time in it.
+**The Wanderer's Minuet** is our strongest song by far, which is why we use it first. **Mage's Ballad** is slightly weaker than a four-stack **Army's Paeon**, but it has no 'warm up' period, and a better party buff to for 60-second skills. So, we use MB second even if we spend less time in it.
 
 All told, you want to use your songs in a two minute cycle. Roughly 43 seconds of WM, 34 seconds of MB, then 43 seconds of AP. 
 
@@ -196,7 +198,7 @@ In terms of song timer, that means leaving each song at 2-3s left, 11-12s left, 
 
 ## Opener
 
-This should be your go-to for starting off a single target fight:
+This should be your go-to for starting a single target fight:
 
 - Stormbite
   - The Wanderer's Minuet
@@ -251,7 +253,7 @@ Don't be afraid to use your two minute buffs on packs either. But unlike with **
 
 For **Apex Arrow** and **Blast Arrow**, there's normally not much of a difference between using Apex at 80 vs. 100 gauge. You can mostly just use it whenever you want. 
 
-But if there's a mob with a lot more HP than the others, try to use Apex at 80 gauge and target your Blast Arrow at that enemy. The "first enemy" that takes 600p from Blast Arrow is whichever one you're targeting. You can use this to help even out mob hp.
+But if there's a mob with a lot more HP than the others, try to use Apex at 80 gauge and target your Blast Arrow at that enemy. The "first enemy" that takes 600p from Blast Arrow is whichever one you're targeting. You can use this to help even out mob HP.
 
 
 ## Targeting
@@ -286,10 +288,10 @@ Meanwhile, **Shadowbite** and **Rain of Death** want you to be targeting somethi
 ![Nature's Minne](https://xivapi.com/i/002000/002615_hr1.png)
 
 **Nature's Minne** - This increases all healing received. That includes any shields that are based on a potency. Nature's Minne has a lot of good uses:
-	- Helping when healers need to single heal more than just the tank
-	- Putting it on the tank on big dungeon pulls
-	- Coordinating with a Scholar to buff an **Adloquium** + **Deployment Tactics**
-	- Using it on yourself when you make a mistake or miss a heal
+	- Helping when healers need to single heal more than just the tank.
+	- Putting it on the tank on big dungeon pulls.
+	- Coordinating with a Scholar to buff an **Adloquium** + **Deployment Tactics**.
+	- Using it on yourself when you make a mistake or miss a heal.
 
 ![The Warden's Paean](https://xivapi.com/i/002000/002609_hr1.png)
 
@@ -301,7 +303,7 @@ Meanwhile, **Shadowbite** and **Rain of Death** want you to be targeting somethi
 
 ![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png) 
 
-**Arm's Length** - Cancelling a knockback can be useful sometimes, so have this ready on your hotbar. Note that there are a few knockback mechanics that ignore it.
+**Arm's Length** - Canceling a knockback can be useful sometimes, so have this ready on your hotbar. Note that there are a few knockback mechanics that ignore it.
 
 ![Head Graze](https://xivapi.com/i/000000/000848_hr1.png)
 
