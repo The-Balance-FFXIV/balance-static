@@ -320,3 +320,15 @@ Meanwhile, **Shadowbite** and **Rain of Death** want you to be targeting somethi
 |![Leg Graze](https://xivapi.com/i/000000/000843_hr1.png)|![Foot Graze](https://xivapi.com/i/000000/000842_hr1.png)|
 
 **Leg Graze**, **Foot Graze** - It has been several years since these have been useful in endgame group content. They're handy sometimes in solo-friendly content if you need to kite or run away. That's about it though.
+
+# Credits
+
+Sana Cetonis [Mateus] - Primary author
+
+Verzell Varion [Adamantoise] - Theorycrafter
+
+Yumiya Nagatsuki [Behemoth] - Theorycrafter
+
+Elya Kura [Ragnarok] - Theorycrafter
+
+Stephia Deleva [Goblin] - Contributor
