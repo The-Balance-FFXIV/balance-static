@@ -65,15 +65,11 @@ For clarity purposes:
 
 If you’re doing 4.x Ultimate fights, or just syncing down to min-ilvl for fun on old Savage fights, you will notice slight differences in Machinist’s job kit. The overall feel of the job remains the same, so if you’re familiar with level 80 Machinist, the changes will make little to no difference for you. Listed below are the changes, in order of importance:
 
-
-
 * Gauss Round and Ricochet only hold two charges
 * Air Anchor doesn’t exist; you’re left with Hot Shot
 * Queen Automaton doesn’t exist; you’re left with Rook Auto-Turret
 * Wildfire is dropped down to 750 potency due to missing traits
-* Multi-target priority is different; you don’t have access to Bioblaster. Spread Shot is used at two+ targets.
-
-
+* Multi-target priority is different; you don’t have access to Bioblaster. Spread Shot is used at 3+ targets.
 
 Gauss Round and Ricochet only having two charges can feel very clunky. It is highly recommended using 4th or 5th GCD openers when doing synced content. The setup for the 6th GCD opener delays the rotation slightly and will result in overcapping charges.
 
@@ -83,7 +79,7 @@ For the most part, Rook functions the same as Automaton Queen. Each ability requ
 
 The Wildfire change is straightforward. The ability functions identical to how it does at 80 where you want 6 GCDs inside of the damage window. The only difference is each GCD only counts for 150 potency. Lower scaling, but the same priority in the rotation.
 
-The absence of Bioblaster does not change much. With the only option being Drill,  it just means there’s no thought process on two-target and three-target encounters. At four targets, Spread Shot becomes a gain over Drill, but this isn’t something you need to worry about in high-end content. Outside of Drill and Hot Shot, Spread Shot now becomes the go-to for the basic 2+ target rotation. Battery is less valued due to Rook doing less damage overall compared to Queen, which directly correlates to the expected damage of Clean Shot and the combo system as a whole.
+The absence of Bioblaster does not change much. With the only option being Drill,  it just means there’s no thought process on two-target and three-target encounters. At four targets, Spread Shot becomes a gain over Drill, but this isn’t something you need to worry about in high-end content. Outside of Drill and Hot Shot, Spread Shot now becomes the go-to for the basic 3+ target rotation. Battery is less valued due to Rook doing less damage overall compared to Queen, which directly correlates to the expected damage of Clean Shot and the combo system as a whole.
 
 # Level 80 Rotation Differences
 
@@ -92,11 +88,9 @@ This section will mostly be used if you’re attempting The Epic of Alexander or
 * Reassemble is brought down to one charge. You’ll want to make sure you’re using it as much as possible, mostly on Drill, occasionally on Air Anchor in single target.
 * Chainsaw has been removed from the rotation. Due to this we generate less Battery, but more Heat.
 * Queen Automaton now deals less damage since she’s missing Crowned Collider. This means Battery is worth less damage for the amount used compared to level 90. Crowned Collider missing also means Queen’s damage duration ends sooner and should be taken into account when summoning her.
-* Heat gain in a two minute window is slightly higher. After the first usage of Barrel Stabilizer in full uptime situations, you’ll be forced to delay it to after the Hypercharge used for Wildfire or you’ll risk losing Heat that could be used for later Hypercharge windows.
+* Heat gain in a 2 minute window is slightly higher. After the first usage of Barrel Stabilizer in full uptime situations, you’ll be forced to delay it to after the Hypercharge used for Wildfire or you’ll risk losing Heat that could be used for later Hypercharge windows.
 
-Bioblaster, when taking into account crit and direct hit multipliers, comes out to about 750 potency at two targets, so while it’s a gain on a normal Drill, Reassembled Drill takes priority with an estimated 1100 potency. 
-
-If in a situation with Trick Attack and Chain Stratagem in two targets, Drill takes priority over Bioblaster by a small potency gain. No other set of raid buffs will change this so long as you get the full duration of Bioblaster
+Bioblaster comes out to about 600 potency at 2 targets, so while it’s a gain on a normal Drill, Reassembled Drill takes priority with an estimated 1000 potency. 
 
 Below is the standard opener you’ll want to use at level 80.
 
