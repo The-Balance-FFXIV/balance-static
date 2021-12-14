@@ -36,7 +36,7 @@ For clarity purposes:
 
 ## Level 45
 
-* Unlocking Wildfire is effectively just a DPS gain on what you already have in your kit. Wildfire should always be paired with Hypercharge, similar to the pictures located in [Openers](/jobs/ranged/machinist/openers-and-rotation/), but you will need to manually build your heat up to use it rather than being able to open properly. Wildfire can be used on trash packs, but you are better off holding it slightly for boss encounters.
+* Unlocking Wildfire is effectively just a DPS gain on what you already have in your kit. Wildfire should always be paired with Hypercharge, but you will need to manually build your heat up to use it rather than being able to open properly. Wildfire can be used on trash packs, but you are better off holding it slightly for boss encounters.
 
 ## Level 50
 
