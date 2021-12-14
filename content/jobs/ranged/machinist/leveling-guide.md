@@ -47,7 +47,7 @@ For clarity purposes:
 * The Heated Split Shot and Heated Slug Shot upgrades are a potency upgrade with new animations when used, but otherwise they’re the same as their unheated counterparts.
 * Auto-Crossbow is the AoE equivalent of Heat Blast and should be used as long as there are 3 or more enemies.
 * Tactician is a mitigative tool that can either be used to reduce damage when the party is about to take damage, or on mob pulls to help the tank in your dungeon take less damage. Use generously and your parties will love you for it.
-* Drill is the big game changer here. From level 58 and onwards, Drill and Reassemble should always be paired together.
+* Drill is the big game changer here. From level 58 until level 90, Drill and Reassemble should always be paired together in single-target encounters. 
 
 ## Level 66
 
