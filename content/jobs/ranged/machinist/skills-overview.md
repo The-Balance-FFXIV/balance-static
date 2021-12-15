@@ -71,7 +71,7 @@ Places a debuff on a single enemy that deals 200 potency per weapon skill.  Deto
 
 Generates 50 heat.  oGCD on a two minute cooldown.
 
-![]()
+![](https://xivapi.com/i/003000/003048_hr1.png)
 
 <br>**Chainsaw**
 
@@ -86,7 +86,7 @@ Generates 50 heat.  oGCD on a two minute cooldown.
 
 Conal AoE that applies a DoT to enemies. Shares recast with Drill.  300 Potency GCD. 50 potency on initial hit, then 50 potency per DoT tick over 15 seconds.
 
-![]()
+![](https://xivapi.com/i/003000/003046_hr1.png)
 
 
 <br>**Scattergun**
@@ -130,7 +130,7 @@ Gap closer used by Automaton Queen. 3s recast.  Pet GCD  240 Potency
 
 Automaton Queen's first finisher. Pet GCD dealing variable damage based on Battery Gauge.  
 
-![]()
+![](https://xivapi.com/i/003000/003047_hr1.png)
 
 <br>**Crowned Collider**
 
