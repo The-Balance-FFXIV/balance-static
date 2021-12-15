@@ -12,7 +12,7 @@ changelog:
   - date: 2021-12-11T00:32:08.058Z
     message: "Updated: November 24, 2021 (for Patch 6.0)"
 ---
-# Leveling Guide for DNC
+# Leveling Guide for Dancer (DNC)
  
 Written by: Ringabel Dim
 
@@ -178,4 +178,4 @@ At level 86, Flourish grants DNC an extra proc called “Fourfold Fan Dance” w
 
 ## Level 90
 
-At level 90, when using Devilment, it grants you a proc called “Flourishing Starfall Dance” which grants access to the weaponskill Starfall Dance. This action does a massive amount of damage and is guaranteed to crit and direct hit. It does damage in a line towards your target, doing primary damage to your main target while all other targets are hit for 25% of the damage. It is worthwhile to use in both single target and AoE situations. Since the proc lasts 30 seconds and Devilment lasts 20 seconds and since the action itself cannot benefit from the +crit% and +DH% chances provided by Devilment, Starfall Dance will only be a DPS gain to use under the Devilment buff if there are raid buffs that increase %damage such as Trick Attack (from NIN), Divination (from AST), Embolden (from RDM), etc… otherwise you would want to wait for Devilment to wear off before using Starfall Dance. For more information about this, check out the [Advanced Guide] (/jobs/ranged/dancer/advanced-guide/) section regarding Starfall Dance.
+At level 90, when using Devilment, it grants you a proc called “Flourishing Starfall Dance” which grants access to the weaponskill Starfall Dance. This action does a massive amount of damage and is guaranteed to crit and direct hit. It does damage in a line towards your target, doing primary damage to your main target while all other targets are hit for 25% of the damage. It is worthwhile to use in both single target and AoE situations. Since the proc lasts 30 seconds and Devilment lasts 20 seconds and since the action itself cannot benefit from the +crit% and +DH% chances provided by Devilment, Starfall Dance will only be a DPS gain to use under the Devilment buff if there are raid buffs that increase %damage such as Trick Attack (from Ninja), Divination (from Astrologian), Embolden (from Red Mage), etc… otherwise you would want to wait for Devilment to wear off before using Starfall Dance. For more information about this, check out the [Advanced Guide] (/jobs/ranged/dancer/advanced-guide/) section regarding Starfall Dance.
