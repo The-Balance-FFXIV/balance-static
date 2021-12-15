@@ -10,11 +10,9 @@ changelog:
     message: 6.00 BiS set added
 bis:
   - type: etro
-    description: >-
-      {{< etro 6c93e15c-6d23-4e41-b524-fdd57b185201 >}}
-
-
-      These melds are very set-specific, due to the limited gear options available. We do not recommend reading too much into it - the melds in future sets may (or may not) look very different.
+    description: These melds are very set-specific, due to the limited gear options
+      available. We do not recommend reading too much into it - the melds in
+      future sets may (or may not) look very different.
     name: 6.00 BiS
     link: https://etro.gg/gearset/6c93e15c-6d23-4e41-b524-fdd57b185201
 authors:
