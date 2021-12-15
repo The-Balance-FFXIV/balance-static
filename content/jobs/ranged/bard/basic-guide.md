@@ -21,8 +21,7 @@ If you're looking for such information, you may find it in one of the dedicated 
 
 - **Leveling Guide** (not yet available)
 - **Skills Overview** (not yet available)
-- **Gearing** (not yet available)
-- **Stats and Materia** (not yet available)
+- [Gearing](/jobs/ranged/bard/best-in-slot)
 - **Frequently Asked Questions** (not yet available)
 - **Openers** (not yet available)
 - **Advanced Guide** (not yet available)
