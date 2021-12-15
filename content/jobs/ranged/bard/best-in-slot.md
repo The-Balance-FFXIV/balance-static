@@ -1,36 +1,20 @@
 ---
 title: Bard Best in Slot (BiS)
 layout: bis
-patch: "5.58"
-lastmod: 2021-10-26T02:40:10.518Z
+patch: "6.00"
+lastmod: 2021-12-14T22:59:21.948Z
 changelog:
   - date: 2021-10-26T02:40:27.765Z
     message: Created page
+  - date: 2021-12-14T22:59:05.211Z
+    message: 6.00 BiS set added
 bis:
   - type: etro
-    description: ""
-    name: BiS with Relic
-    link: https://etro.gg/gearset/8418d22e-d70e-4b1a-87e0-d2b79dc3bd91
-  - type: etro
-    description: ""
-    name: BiS, No Relic
-    link: https://etro.gg/gearset/865fc886-994f-4c28-8fc1-4379f160a916
-  - type: etro
-    description: ""
-    name: 2.50 BiS for high ping (Relic)
-    link: https://etro.gg/gearset/6e8892d6-68b0-4597-ba17-1efdc0e62084
-  - type: etro
-    description: ""
-    name: 2.50s BiS for high ping (No Relic)
-    link: https://etro.gg/gearset/cac58997-d0d5-4e92-b6fd-a131e8a775e2
-  - type: etro
-    description: These are basically equal, pick to taste.
-    name: TEA Relic 2.44s
-    link: https://etro.gg/gearset/1081f33f-8c37-4ef4-b569-30e30092174f
-  - type: etro
-    description: These are basically equal, pick to taste.
-    name: TEA Relic 2.47s
-    link: https://etro.gg/gearset/f0eafbaf-fb74-48ee-99a8-21780ff8a793
+    description: These melds are very set-specific, due to the limited gear options
+      available. We do not recommend reading too much into it - the melds in
+      future sets may (or may not) look very different.
+    name: 6.00 BiS
+    link: https://etro.gg/gearset/6c93e15c-6d23-4e41-b524-fdd57b185201
 authors:
   - Balance-BRD-Staff
 ---
