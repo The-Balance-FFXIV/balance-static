@@ -5,7 +5,7 @@ authors:
   - TKCetonis
   - infinitestory
   - Balance-BRD-Staff
-patch: "6.00"
+patch: "6.0"
 lastmod: 2021-12-13T02:09:03.870Z
 changelog:
   - date: 2021-10-26T02:17:16.801Z
@@ -148,7 +148,7 @@ Be careful not to use Barrage if you have a Refulgent Arrow already. Barrage giv
 
 As a charged action **Bloodletter** is generally lower priority, so long as you aren't at risk of capping the charges. 
 
-## Song Cycle {#song-cycle}
+## Song Cycle
 
 Bard has three main songs that form the backbone of your kit: **The Wanderer's Minuet (WM)**, **Mage's Ballad (MB)**, and **Army's Paeon (AP)**. 
 
@@ -186,7 +186,7 @@ Make sure to stay on top of the GCD as its pace accelerates. It's easy to lose d
 |-|-|-|
 |![The Wanderer's Minuet](https://xivapi.com/i/002000/002607_hr1.png)|![Mage's Ballad](https://xivapi.com/i/002000/002602_hr1.png)|![Army's Paeon](https://xivapi.com/i/002000/002603_hr1.png)|
 
-### Song order
+### Song Order
 
 **The Wanderer's Minuet** is our strongest song by far, which is why we use it first. **Mage's Ballad** is slightly weaker than a four-stack **Army's Paeon**, but it has no 'warm up' period, and a better party buff to for 60-second skills. So, we use MB second even if we spend less time in it.
 
@@ -240,7 +240,7 @@ Bard's AoE core is much like its single target. **Ladonsbite** and **Shadowbite*
 While enemies are gathering, go ahead and drop some Stormbites on them for free damage. Once you can start hitting everything with Ladonsbite / Shadowbite, swap to using those.
 
 
-## Songs and cooldowns
+## Songs and Cooldowns
 
 Keep your songs running during dungeon packs as normal. It's fine to have songs rolling between packs too; you'll still get procs and gauge outside of combat.
 
@@ -269,7 +269,7 @@ Meanwhile, **Shadowbite** and **Rain of Death** want you to be targeting somethi
 |-|-|-|
 |![Raging Strikes](https://xivapi.com/i/000000/000352_hr1.png)|![Battle Voice](https://xivapi.com/i/002000/002601_hr1.png)|![Radiant Finale](https://xivapi.com/i/002000/002622_hr1.png)|
 
-## Damage buffs
+## Damage Buffs
 
 **Battle Voice** - One of two party-wide damage buffs. You should try to be using this on cooldown. Most jobs have damage spikes on 120-second timers, so you want to land your buff on those.
 
