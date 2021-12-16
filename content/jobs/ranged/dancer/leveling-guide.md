@@ -4,8 +4,8 @@ card_header_image: /img/jobs/dnc/leveling.png
 authors:
   - Balance-DNC-Staff
   - Ringabel-Dim
-patch: "5.58"
-lastmod: 2021-11-15T21:12:30.268Z
+patch: "6.0"
+lastmod: 2021-12-16T06:56:35.924Z
 changelog:
   - date: 2021-11-15T21:12:55.751Z
     message: Added page
