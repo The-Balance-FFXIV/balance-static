@@ -2,7 +2,7 @@
 title: Machinist Openers
 authors:
   - dook
-patch: "5.58"
+patch: "6.0"
 lastmod: 2021-10-25T22:03:46.511Z
 changelog:
   - date: 2021-10-25T22:04:20.477Z
