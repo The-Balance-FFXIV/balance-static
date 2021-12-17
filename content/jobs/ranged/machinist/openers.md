@@ -14,8 +14,8 @@ It is important that you attempt to put as much damage into the raid buffs of yo
 
 You’ll notice there’s a string of three Heated combo actions in a row. This is done on purpose for later on in an encounter. Those Heated combo actions can, and most likely will be, replaced with a Hypercharge window later on. This allows us to get more potency under raid buffs and potions and use Barrel Stabilizer on cooldown, prior to Wildfire windows.
 
-![](/img/jobs/mch/mch_ew_opener.png)
+![](/img/jobs/mch/compressed_mch_6.0_standard_opener_v1.1.png)
 
 The three-string of combo actions are gone from this, replaced by a delayed Air Anchor instead. While there’s more of a risk of losing a usage ofAir Anchor, this Multi-Tool alignment makes better use of raid buff heavy comps. There’s no room for Hypercharge, so if you plan on keeping Barrel Stabilizer on cooldown you’ll need to get rid of the heat prior to the burst window coming up.
 
-![](/img/jobs/mch/mch_ew_opener_raid.png)
+![](/img/jobs/mch/compressed_mch_6.0_buff_opener_v1.1.png)
