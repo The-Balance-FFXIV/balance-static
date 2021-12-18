@@ -22,9 +22,9 @@ qna:
       minute buffs are all up.
     question: When is the best time to use Apex Arrow on single target?
   - question: Should I use DoTs (damage over time skills) on trash in dungeons?
-    answer: "If you're running to or between packs and can't hit more than 2 targets
-      with **Ladonsbite**, go ahead and start dropping some **Stormbites** on
-      enemies. "
+    answer: "If you're running to or between packs and can't hit more than two
+      targets with **Ladonsbite**, go ahead and start dropping some
+      **Stormbites** on enemies. "
   - question: How does Barrage interact with Shadowbite?
     answer: "It only increases **Shadowbite's** potency. It does not give you
       Shadowbite Ready, nor does it increase the number of hits.\r\n"
