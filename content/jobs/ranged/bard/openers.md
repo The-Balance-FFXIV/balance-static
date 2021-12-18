@@ -2,45 +2,36 @@
 title: Bard Openers
 authors:
   - Balance-BRD-Staff
-patch: "5.58"
-lastmod: 2021-10-26T02:30:17.867Z
+patch: "6.00"
+lastmod: 2021-12-18T15:20:03.894Z
 changelog:
   - date: 2021-10-26T02:31:00.147Z
     message: Created page
+  - date: 2021-12-18T15:20:15.430Z
+    message: Updated to 6.00 Opener
 ---
 # Bard Openers
 
 For all openers:
 
-* Use Pitch Perfect at three stacks as able, and Refulgent procs as you get them.
+* Use Pitch Perfect at three stacks as able, Bloodletters as able, and Refulgent procs as you get them.
 * Hold Barrage until the next GCD if you already have an Refulgent proc.
-* The best potion is high-quality Grade 4 Tincture of Dexterity.
-* Try to use your second oGCD in the normal-ping openers as late as you can without cutting into your next GCD.
+* The best potion as of 6.00 is high-quality Grade 5 Tincture of Dexterity. 
 
-## 2.44s to 2.47s GCD
-
-![](https://cdn.discordapp.com/attachments/541496122548682754/882765166796759050/246opener.png)
-
-## 2.48s to 2.50s GCD:
-
-![](https://cdn.discordapp.com/attachments/541496122548682754/883362400701661204/250opener.png)
-
-## 2.48s to 2.50s GCD (high ping):
-
-![](https://cdn.discordapp.com/attachments/541496122548682754/882765206529392660/250highpingopener.png)
+![Bard Level 90 6.00 Opener](/img/jobs/brd/brd_600_opener.png "Bard Level 90 6.00 Opener")
 
 - - -
 
 # Opener FAQ
 
-> *Why are Barrage and Sidewinder delayed?*
+> *Is it really okay to use Radiant Finale for only 2% in the opener?*
 
-To make sure all party-wide buffs are up before they get used. If your group has everything up a bit sooner, go ahead and use the skills then.
+Yes, by the next two-minute burst you will have gotten three more coda.
 
 > *Should I use Refulgent Arrow between Stormbite and Caustic Bite if I get a proc?*
 
-No, getting both DoTs up is top priority.
+No, getting both DoTs up as soon as possible is slightly better.
 
-> *Why are the openers different at different GCDs?*
+> *I've heard about using Tinctures at two minutes, why is it here?*
 
-The GCD makes a meaningful difference in how far the end of Wanderer's Minuet is going to move (within the oGCD window) from its original cast. As a result, whether we want WM to be the first or second oGCD varies. Also, at a faster GCD a 13-GCD Tincture becomes more feasible.
+This is just a default opener if you don't know the fight length. If you're certain the fight will last 8:30 or more (accounting for downtime), you will want to Tincture at two and eight minutes.
