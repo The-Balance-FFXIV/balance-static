@@ -20,10 +20,10 @@ This is a basic introduction to level 90 Bard. It will not go into many nuances,
 If you're looking for such information, you may find it in one of the dedicated guides below: 
 
 - **Leveling Guide** (not yet available)
-- **Skills Overview** (not yet available)
+- [Skills Overview](/jobs/ranged/bard/skills-overview/)
 - [Gearing](/jobs/ranged/bard/best-in-slot)
-- **Frequently Asked Questions** (not yet available)
-- **Openers** (not yet available)
+- [Frequently Asked Questions](/jobs/ranged/bard/faq/)
+- [Opener](/jobs/ranged/bard/openers/)
 - **Advanced Guide** (not yet available)
 - **Fight-Specific Tips** (not yet available)
 
@@ -43,9 +43,10 @@ Between songs, procs, and its pair of damage over time (DoT) debuffs, Bard can f
 
 # Core Concepts
 
-|||
-|-|-|
-|![Burst Shot](https://xivapi.com/i/002000/002618_hr1.png)|![Refulgent Arrow](https://xivapi.com/i/002000/002616_hr1.png)|
+{{< inline >}}
+![Burst Shot](https://xivapi.com/i/002000/002618_hr1.png)
+![Refulgent Arrow](https://xivapi.com/i/002000/002616_hr1.png)
+{{< /inline >}}
 
 ## Always Be Casting!!
 
@@ -77,9 +78,11 @@ It looks like a lot, but you don't need to absorb all of this at once; it's okay
 
 ## GCD Priority
 
-||||
-|-|-|-|
-|![Stormbite](https://xivapi.com/i/002000/002614_hr1.png)|![Caustic Bite](https://xivapi.com/i/002000/002613_hr1.png)|![Iron Jaws](https://xivapi.com/i/002000/002608_hr1.png)| 
+{{< inline >}}
+![Stormbite](https://xivapi.com/i/002000/002614_hr1.png)
+![Caustic Bite](https://xivapi.com/i/002000/002613_hr1.png)
+![Iron Jaws](https://xivapi.com/i/002000/002608_hr1.png)
+{{< /inline >}} 
 
 ### 1. Maintain your DoTs.
 
@@ -87,9 +90,11 @@ Keeping your DoTs up is your top priority. If they aren't applied yet, use **Sto
 
 If your DoTs are up, but they're about to fall off (3s or less remaining), use **Iron Jaws** to re-apply them.
 
-||||
-|-|-|-|
-|![Refulgent Arrow](https://xivapi.com/i/002000/002616_hr1.png)|![Apex Arrow](https://xivapi.com/i/002000/002619_hr1.png)|![Blast Arrow](https://xivapi.com/i/002000/002621_hr1.png)|
+{{< inline >}}
+![Refulgent Arrow](https://xivapi.com/i/002000/002616_hr1.png)
+![Apex Arrow](https://xivapi.com/i/002000/002619_hr1.png)
+![Blast Arrow](https://xivapi.com/i/002000/002621_hr1.png)
+{{< /inline >}}
 
 ### 2. Use proc GCDs.
 
@@ -104,17 +109,21 @@ If none of the above are true, fire off **Burst Shots** until you have something
 
 ## oGCD Priority
 
-||||
-|-|-|-|
-|![The Wanderer's Minuet](https://xivapi.com/i/002000/002607_hr1.png)|![Mage's Ballad](https://xivapi.com/i/002000/002602_hr1.png)|![Army's Paeon](https://xivapi.com/i/002000/002603_hr1.png)|
+{{< inline >}}
+![The Wanderer's Minuet](https://xivapi.com/i/002000/002607_hr1.png)
+![Mage's Ballad](https://xivapi.com/i/002000/002602_hr1.png)
+![Army's Paeon](https://xivapi.com/i/002000/002603_hr1.png)
+{{< /inline >}}
 
 ### 1. Always have a song running.
 
 If you don't have a song up, get one up! See [Song Order](#song-cycle) for details.
 
-||||
-|-|-|-|
-|![Raging Strikes](https://xivapi.com/i/000000/000352_hr1.png)|![Battle Voice](https://xivapi.com/i/002000/002601_hr1.png)|![Radiant Finale](https://xivapi.com/i/002000/002622_hr1.png)|
+{{< inline >}}
+![Raging Strikes](https://xivapi.com/i/000000/000352_hr1.png)
+![Battle Voice](https://xivapi.com/i/002000/002601_hr1.png)
+![Radiant Finale](https://xivapi.com/i/002000/002622_hr1.png)
+{{< /inline >}}
 
 ### 2. Use your buffs.
 
@@ -122,9 +131,10 @@ Every two minutes, you'll have **Raging Strikes**, **Battle Voice** and **Radian
 
 This stack of buffs is a huge part of what you bring to the party as a Bard. They're key to your own damage output, and make for a very large boost to party burst damage.
 
-|||
-|-|-|
-|![Pitch Perfect](https://xivapi.com/i/002000/002611_hr1.png)|![Bloodletter](https://xivapi.com/i/000000/000361_hr1.png)|
+{{< inline >}}
+![Pitch Perfect](https://xivapi.com/i/002000/002611_hr1.png)
+![Bloodletter](https://xivapi.com/i/000000/000361_hr1.png)
+{{< /inline >}}
 
 ### 3. Use your song's proc skill if needed.
 
@@ -136,9 +146,11 @@ In **The Wanderer's Minuet**, this will be a three-stack **Pitch Perfect**. In *
 
 Consistently using **Empyreal Arrow** on time is very valuable. Unless there's a risk of wasting the automatic proc it gives, use it as soon as you can.
 
-||||
-|-|-|-|
-|![Barrage](https://xivapi.com/i/000000/000353_hr1.png)|![Sidewinder](https://xivapi.com/i/002000/002610_hr1.png)|![Bloodletter](https://xivapi.com/i/000000/000361_hr1.png)|
+{{< inline >}}
+![Barrage](https://xivapi.com/i/000000/000353_hr1.png)
+![Sidewinder](https://xivapi.com/i/002000/002610_hr1.png)
+![Bloodletter](https://xivapi.com/i/000000/000361_hr1.png)
+{{< /inline >}}
 
 ### 5. Other oGCDs
 
@@ -156,9 +168,10 @@ Each song gives a small (but always-on) buff to the party, and has an 80% chance
 
 So, you should always have one of your three songs running while in combat. Because the last proc chance happens at three seconds left, feel free to move on to the next song as soon as the timer reads three or less.
 
-|||
-|-|-|
-|![The Wanderer's Minuet](https://xivapi.com/i/002000/002607_hr1.png)|![Pitch Perfect](https://xivapi.com/i/002000/002611_hr1.png)|
+{{< inline >}}
+![The Wanderer's Minuet](https://xivapi.com/i/002000/002607_hr1.png)
+![Pitch Perfect](https://xivapi.com/i/002000/002611_hr1.png)
+{{< /inline >}}
 
 ### The Wanderer's Minuet
 
@@ -166,9 +179,10 @@ In WM, procs give you up to three stacks that you spend on **Pitch Perfect**. Tr
 
 You have three seconds between proc chances, so you should never need to delay your GCD to get Pitch Perfect off. It's fine to simply use it in the next available oGCD slot. 
 
-|||
-|-|-|
-|![Mage's Ballad](https://xivapi.com/i/002000/002602_hr1.png)|![Bloodletter](https://xivapi.com/i/000000/000361_hr1.png)|
+{{< inline >}}
+![Mage's Ballad](https://xivapi.com/i/002000/002602_hr1.png)
+![Bloodletter](https://xivapi.com/i/000000/000361_hr1.png)
+{{< /inline >}}
 
 ### Mage's Ballad
 
@@ -199,6 +213,16 @@ In terms of song timer, that means leaving each song at 2-3s left, 11-12s left, 
 
 This should be your go-to for starting a single target fight:
 
+![Bard Level 90 6.00 Opener](/img/jobs/brd/brd_600_opener.png "Bard Level 90 6.00 Opener")
+  
+Use **Bloodletters** and three stack **Pitch Perfects** as able (they aren't displayed here). 
+
+"**Barrage / Sidewinder**" refers to possibly needing to wait a GCD to use up **Refulgent Arrow** before pressing Barrage. In that case, you'd use Sidewinder first.
+
+It's worth dumping any Pitch Perfect stacks you have (even just one) before buffs run out. That's what the PP after **Iron Jaws** is for.
+
+In text form:
+
 - Stormbite
   - The Wanderer's Minuet
   - Raging Strikes
@@ -218,20 +242,13 @@ This should be your go-to for starting a single target fight:
   - Empyreal Arrow
 - Iron Jaws
   - Pitch Perfect
-  
-Use **Bloodletters** and three stack **Pitch Perfects** as able (they aren't displayed here). 
-
-"**Barrage / Sidewinder**" refers to possibly needing to wait a GCD to use up **Refulgent Arrow** before pressing Barrage. In that case, you'd use Sidewinder first.
-
-It's worth dumping any Pitch Perfect stacks you have (even just one) before buffs run out. That's what the PP after **Iron Jaws** is for.
-
-
 
 # Rotation - AoE / Dungeons
 
-|||
-|-|-|
-|![Ladonsbite](https://xivapi.com/i/002000/002620_hr1.png)|![Shadowbite](https://xivapi.com/i/002000/002617_hr1.png)|
+{{< inline >}}
+![Ladonsbite](https://xivapi.com/i/002000/002620_hr1.png)
+![Shadowbite](https://xivapi.com/i/002000/002617_hr1.png)
+{{< /inline >}}
 
 ## Core GCDs
 
@@ -246,9 +263,10 @@ Keep your songs running during dungeon packs as normal. It's fine to have songs 
 
 Don't be afraid to use your two minute buffs on packs either. But unlike with **Refulgent Arrow**, **Barrage** will not proc **Shadowbite** for you. You have to wait for Shadowbite to trigger first.
 
-|||
-|-|-|
-|![Apex Arrow](https://xivapi.com/i/002000/002619_hr1.png)|![Blast Arrow](https://xivapi.com/i/002000/002621_hr1.png)|
+{{< inline >}}
+![Apex Arrow](https://xivapi.com/i/002000/002619_hr1.png)
+![Blast Arrow](https://xivapi.com/i/002000/002621_hr1.png)
+{{< /inline >}}
 
 For **Apex Arrow** and **Blast Arrow**, there's normally not much of a difference between using Apex at 80 vs. 100 gauge. You can mostly just use it whenever you want. 
 
@@ -265,9 +283,11 @@ Meanwhile, **Shadowbite** and **Rain of Death** want you to be targeting somethi
 
 # Notable Utility
 
-||||
-|-|-|-|
-|![Raging Strikes](https://xivapi.com/i/000000/000352_hr1.png)|![Battle Voice](https://xivapi.com/i/002000/002601_hr1.png)|![Radiant Finale](https://xivapi.com/i/002000/002622_hr1.png)|
+{{< inline >}}
+![Raging Strikes](https://xivapi.com/i/000000/000352_hr1.png)
+![Battle Voice](https://xivapi.com/i/002000/002601_hr1.png)
+![Radiant Finale](https://xivapi.com/i/002000/002622_hr1.png)
+{{< /inline >}}
 
 ## Damage Buffs
 
@@ -316,9 +336,10 @@ Meanwhile, **Shadowbite** and **Rain of Death** want you to be targeting somethi
 
 **Peloton** - Only usable out of combat, but speeds the party up a bit from one pull to the next. Good for getting commendations sometimes.
 
-|||
-|-|-|
-|![Leg Graze](https://xivapi.com/i/000000/000843_hr1.png)|![Foot Graze](https://xivapi.com/i/000000/000842_hr1.png)|
+{{< inline >}}
+![Leg Graze](https://xivapi.com/i/000000/000843_hr1.png)
+![Foot Graze](https://xivapi.com/i/000000/000842_hr1.png)
+{{< /inline >}}
 
 **Leg Graze**, **Foot Graze** - It has been several years since these have been useful in endgame group content. They're handy sometimes in solo-friendly content if you need to kite or run away. That's about it though.
 
