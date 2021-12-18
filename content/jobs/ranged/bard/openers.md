@@ -14,7 +14,7 @@ changelog:
 
 For all openers:
 
-* Use Pitch Perfect at three stacks as able, Bloodletters as able, and Refulgent procs as you get them.
+* Use Pitch Perfect at three stacks as able, Bloodletter as able, and Refulgent procs as you get them.
 * Hold Barrage until the next GCD if you already have an Refulgent proc.
 * The best potion as of 6.00 is high-quality Grade 5 Tincture of Dexterity. 
 
