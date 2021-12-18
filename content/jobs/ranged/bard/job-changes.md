@@ -12,10 +12,10 @@ changes:
       - The kit overall has become focused on a 120s burst window.
       - Procs are now 80% on the song timer, instead of 2x 40% on DoT ticks.
       - Mage's Ballad procs were nerfed to a half reset. 
-      - Bloodletter / Rain of Death now have 3 charges.
+      - Bloodletter / Rain of Death now have three charges.
       - New skills Radiant Finale and Blast Arrow were added.
       - Shadowbite reworked to an AoE version of Refulgent Arrow.
-      - Various other changes
+      - Various other changes.
 authors:
   - Balance-BRD-Staff
 ---
