@@ -1,11 +1,13 @@
 ---
 title: Machinist FAQ
 layout: qna
-patch: "5.58"
-lastmod: 2021-10-25T22:05:59.009Z
+patch: "6.0"
+lastmod: 2021-12-19T02:31:01.659Z
 changelog:
   - date: 2021-10-25T22:06:08.013Z
     message: Created page
+  - date: 2021-12-19T02:31:02.378Z
+    message: Updated for initial EW changes
 qna:
   - question: When do I use Hypercharge?
     answer: >-
