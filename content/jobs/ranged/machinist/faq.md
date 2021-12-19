@@ -1,11 +1,13 @@
 ---
 title: Machinist FAQ
 layout: qna
-patch: "5.58"
-lastmod: 2021-10-25T22:05:59.009Z
+patch: "6.0"
+lastmod: 2021-12-19T02:31:01.659Z
 changelog:
   - date: 2021-10-25T22:06:08.013Z
     message: Created page
+  - date: 2021-12-19T02:31:02.378Z
+    message: Updated for initial EW changes
 qna:
   - question: When do I use Hypercharge?
     answer: >-
@@ -13,13 +15,11 @@ qna:
       conditions are met:
 
 
-      1. Drill and Air Anchor have more than eight to ten seconds left on cooldown.
+      1. Drill, Air Anchor and Chainsaw have more than eight to ten seconds left on cooldown.
 
-      2. You will not break your combo. (It will break if you try to carry it over HC + Drill + Anchor.)
+      2. You have 0-1 Gauss Round and Ricochet charges stored.
 
-      3. You have 0-1 Gauss Round and Ricochet charges stored.
-
-      4. You are using Wildfire or will have enough heat for it later when you need it.
+      3. You are using Wildfire or will have enough heat for it later when you need it.
   - question: Do I use Heat Blast during Hypercharge? How many should it fit?
     answer: You want to use either five Heat Blasts or Auto Crossbows in every
       Hypercharge.
@@ -35,25 +35,16 @@ qna:
   - question: When does Wildfire snapshot buffs?
     answer: On application, like DoTs.
   - question: When do I use Barrel Stabilizer?
-    answer: Before Wildfire to guarantee heat for Hypercharge, or after it to avoid
-      overcapping. Generally it is best to avoid overcapping and it lines up one
-      to two GCDs after Wildfire explodes.
+    answer: Barrel Stabilizer should be used on cooldown. It will come up during the
+      Hypercharge prior to Wildfire.
   - question: When do I use Reassemble?
-    answer: Pair it with Drill or Air Anchor. Drill works best for cooldown
-      alignment. For AoE use it on Spread Shot or Auto Crossbow against 4+
-      targets since it doesn't affect the DoT portion of Bioblaster.
+    answer: Pair it with Drill, Air Anchor or Chainsaw. Chainsaw works best for raid
+      buff alignment. For AoE use it on Chainsaw. Scattergun or Auto Crossbow
+      against 3+ targets can be used if you're unable to use it on Chainsaw. It
+      doesn't affect the DoT portion of Bioblaster.
   - question: When do I summon Queen?
-    answer: >-
-      During raid buff windows. The easiest way to keep track of them is to pair
-      Queen with Reassembled Drill to hit a buff window every 60s. The timing
-      changes a little bit depending on how much gauge you have:
-
-
-      * 50-60 battery → Summon one GCD after Drill.
-
-      * 70-80 battery → Summon after Drill.
-
-      * 90-100 battery → Summon before Drill.
+    answer: During raid buff windows. Every job now bursts in 60s/120s windows, and
+      Queen should be summoned prior to them.
   - question: Does Queen add damage to Wildfire?
     answer: No.
   - question: How do buffs affect Queen?
@@ -70,7 +61,7 @@ qna:
       1. Bioblaster 2+ targets
       2. Auto Crossbow 3+ targets
       3. Flamethrower 3+ targets
-      4. Spread Shot 3+ targets (2+ targets below level 80)
+      4. Scattergun 3+ targets
   - question: How much ping do I need to play this class?
     answer: The golden standard is hitting five Heat Blasts in Hypercharge and one
       extra GCD for Wildfire for a total of six in Wildfire while weaving a
