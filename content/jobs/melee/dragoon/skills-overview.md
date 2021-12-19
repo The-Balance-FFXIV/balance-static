@@ -2,8 +2,8 @@
 title: Dragoon Skills Overview
 authors:
   - Balance-DRG-Staff
-patch: "5.58"
-lastmod: 2021-10-29T02:55:11.207Z
+patch: "6.0"
+lastmod: 2021-12-19T02:33:23.101Z
 changelog:
   - date: 2021-10-29T02:55:23.237Z
     message: Created page
