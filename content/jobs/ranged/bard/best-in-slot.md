@@ -1,7 +1,7 @@
 ---
 title: Bard Best in Slot (BiS)
 layout: bis
-patch: "6.00"
+patch: "6.01"
 lastmod: 2021-12-14T22:59:21.948Z
 changelog:
   - date: 2021-10-26T02:40:27.765Z
@@ -10,11 +10,14 @@ changelog:
     message: 6.00 BiS set added
 bis:
   - type: etro
-    description: These melds are very set-specific, due to the limited gear options
-      available. We do not recommend reading too much into it - the melds in
-      future sets may (or may not) look very different.
-    name: 6.00 BiS
-    link: https://etro.gg/gearset/6c93e15c-6d23-4e41-b524-fdd57b185201
+    description: >-
+      This set should be the best available to prepare for the release of
+      crafted gear alongside Savage. 
+
+
+      We don't know what the substats on the crafted gear will be, so it's a bit of a best-guess - these are just the normal raid pieces with the best chance to be better than their future crafted counterpart.
+    name: 6.01 pre-crafted BiS
+    link: https://etro.gg/gearset/dfef14f7-7a4d-4cde-bdba-a8cee50345e8
 authors:
   - Balance-BRD-Staff
 ---
