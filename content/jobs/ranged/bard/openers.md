@@ -28,9 +28,13 @@ For all openers:
 
 Yes, by the next two-minute burst you will have gotten three more coda.
 
+--
+
 > *Should I use Refulgent Arrow between Stormbite and Caustic Bite if I get a proc?*
 
 No, getting both DoTs up as soon as possible is slightly better.
+
+--
 
 > *I've heard about using Tinctures at two minutes, why is it here?*
 
