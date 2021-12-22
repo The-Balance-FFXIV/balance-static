@@ -213,7 +213,7 @@ In terms of song timer, that means leaving each song at 2-3s left, 11-12s left, 
 
 This should be your go-to for starting a single target fight:
 
-![Bard Level 90 6.00 Opener](/img/jobs/brd/brd_600_opener.png "Bard Level 90 6.00 Opener")
+[![Bard Level 90 6.00 Opener](/img/jobs/brd/brd_600_opener.png "Bard Level 90 6.00 Opener")](/img/jobs/brd/brd_600_opener.png)
   
 Use **Bloodletters** and three stack **Pitch Perfects** as able (they aren't displayed here). 
 
