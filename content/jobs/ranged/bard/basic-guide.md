@@ -24,7 +24,7 @@ If you're looking for such information, you may find it in one of the dedicated 
 - [Gearing](/jobs/ranged/bard/best-in-slot)
 - [Frequently Asked Questions](/jobs/ranged/bard/faq/)
 - [Opener](/jobs/ranged/bard/openers/)
-- **Advanced Guide** (not yet available)
+- **Advanced Guide** (not yet available, some topics in FAQ)
 - **Fight-Specific Tips** (not yet available)
 
 (Note: These pages will be added or updated over time.)
@@ -75,10 +75,9 @@ Bard is a priority-based kit. Both your GCD (global cooldown) skills and oGCD (o
 
 It looks like a lot, but you don't need to absorb all of this at once; it's okay to work things in little by little.
 
+![](https://img.spacergif.org/v1/spacer.gif)
 
 ## GCD Priority
-
-### 1. Maintain your DoTs.
 
 {{< inline >}}
 ![Stormbite](https://xivapi.com/i/002000/002614_hr1.png)
@@ -86,11 +85,7 @@ It looks like a lot, but you don't need to absorb all of this at once; it's okay
 ![Iron Jaws](https://xivapi.com/i/002000/002608_hr1.png)
 {{< /inline >}} 
 
-Keeping your DoTs up is your top priority. If they aren't applied yet, use **Stormbite**, then **Caustic Bite**. Do not use Refulgent in between if it procs, as getting the second DoT up is slightly better. 
-
-If your DoTs are up, but they're about to fall off (3s or less remaining), use **Iron Jaws** to re-apply them.
-
-### 2. Use proc GCDs.
+![](https://img.spacergif.org/v1/spacer.gif)
 
 {{< inline >}}
 ![Refulgent Arrow](https://xivapi.com/i/002000/002616_hr1.png)
@@ -98,18 +93,25 @@ If your DoTs are up, but they're about to fall off (3s or less remaining), use *
 ![Blast Arrow](https://xivapi.com/i/002000/002621_hr1.png)
 {{< /inline >}}
 
+![](https://img.spacergif.org/v1/spacer.gif)
+
+### 1. Maintain your DoTs.
+
+Keeping your DoTs up is your top priority. If they aren't applied yet, use **Stormbite**, then **Caustic Bite**. Do not use Refulgent in between if it procs, as getting the second DoT up is slightly better. 
+
+If your DoTs are up, but they're about to fall off (3s or less remaining), use **Iron Jaws** to re-apply them.
+
+### 2. Use proc GCDs.
+
 If your Soul Gauge is full, go ahead and **Apex Arrow**. Otherwise use **Refulgent Arrow** or **Blast Arrow** if available.
 
 ### 3. Burst Shot.
 
-![Burst Shot](https://xivapi.com/i/002000/002618_hr1.png)
-
 If none of the above are true, fire off **Burst Shots** until you have something better to do with your GCDs.
 
+![](https://img.spacergif.org/v1/spacer.gif)
 
 ## oGCD Priority
-
-### 1. Always have a song running.
 
 {{< inline >}}
 ![The Wanderer's Minuet](https://xivapi.com/i/002000/002607_hr1.png)
@@ -117,9 +119,7 @@ If none of the above are true, fire off **Burst Shots** until you have something
 ![Army's Paeon](https://xivapi.com/i/002000/002603_hr1.png)
 {{< /inline >}}
 
-If you don't have a song up, get one up! See [Song Order](#song-cycle) for details.
-
-### 2. Use your buffs.
+![](https://img.spacergif.org/v1/spacer.gif)
 
 {{< inline >}}
 ![Raging Strikes](https://xivapi.com/i/000000/000352_hr1.png)
@@ -127,38 +127,50 @@ If you don't have a song up, get one up! See [Song Order](#song-cycle) for detai
 ![Radiant Finale](https://xivapi.com/i/002000/002622_hr1.png)
 {{< /inline >}}
 
-Every two minutes, you'll have **Raging Strikes**, **Battle Voice** and **Radiant Finale**. You want to be using these in tandem, with Raging Strikes one or two GCDs before the other two. 
-
-This stack of buffs is a huge part of what you bring to the party as a Bard. They're key to your own damage output, and make for a very large boost to party burst damage.
-
-### 3. Use your song's proc skill if needed.
+![](https://img.spacergif.org/v1/spacer.gif)
 
 {{< inline >}}
 ![Pitch Perfect](https://xivapi.com/i/002000/002611_hr1.png)
 ![Bloodletter](https://xivapi.com/i/000000/000361_hr1.png)
 {{< /inline >}}
 
+![](https://img.spacergif.org/v1/spacer.gif)
+
+{{< inline >}}
+![Empyreal Arrow](https://xivapi.com/i/002000/002606_hr1.png)
+![Barrage](https://xivapi.com/i/000000/000353_hr1.png)
+![Sidewinder](https://xivapi.com/i/002000/002610_hr1.png)
+{{< /inline >}}
+
+![](https://img.spacergif.org/v1/spacer.gif)
+
+### 1. Always have a song running.
+
+If you don't have a song up, get one up! See [Song Order](#song-order) for details.
+
+### 2. Use your buffs.
+
+Every two minutes, you'll have **Raging Strikes**, **Battle Voice** and **Radiant Finale**. You want to be using these in tandem, with Raging Strikes one or two GCDs before the other two. 
+
+This stack of buffs is a huge part of what you bring to the party as a Bard. They're key to your own damage output, and make for a very large boost to party burst damage.
+
+### 3. Use your song's proc skill if needed.
+
 In **The Wanderer's Minuet**, this will be a three-stack **Pitch Perfect**. In **Mage's Ballad**, use **Bloodletter** often enough to make sure you don't fill up and start wasting procs.
 
 ### 4. Keep on top of Empyreal Arrow.
 
-![Empyreal Arrow](https://xivapi.com/i/002000/002606_hr1.png)
-
 Consistently using **Empyreal Arrow** on time is very valuable. Unless there's a risk of wasting the automatic proc it gives, use it as soon as you can.
 
 ### 5. Other oGCDs
-
-{{< inline >}}
-![Barrage](https://xivapi.com/i/000000/000353_hr1.png)
-![Sidewinder](https://xivapi.com/i/002000/002610_hr1.png)
-![Bloodletter](https://xivapi.com/i/000000/000361_hr1.png)
-{{< /inline >}}
 
 Use **Barrage** and **Sidewinder** during the two-minute buff stack. For Sidewinder, that means using it on time in the in between minutes as well.
 
 Be careful not to use Barrage if you have a Refulgent Arrow already. Barrage gives you that proc automatically, and you don't want to waste that freebie.
 
 As a charged action **Bloodletter** is generally lower priority, so long as you aren't at risk of capping the charges. 
+
+![](https://img.spacergif.org/v1/spacer.gif)
 
 ## Song Cycle
 
@@ -168,12 +180,30 @@ Each song gives a small (but always-on) buff to the party, and has an 80% chance
 
 So, you should always have one of your three songs running while in combat. Because the last proc chance happens at three seconds left, feel free to move on to the next song as soon as the timer reads three or less.
 
+### Song Order
+
+|**43s**|**34s**|**43s**|
+|-|-|-|
+|![The Wanderer's Minuet](https://xivapi.com/i/002000/002607_hr1.png)|![Mage's Ballad](https://xivapi.com/i/002000/002602_hr1.png)|![Army's Paeon](https://xivapi.com/i/002000/002603_hr1.png)|
+
+![](https://img.spacergif.org/v1/spacer.gif)
+
+**The Wanderer's Minuet** is our strongest song by far, which is why we use it first. 
+
+**Mage's Ballad** is slightly weaker than a four-stack **Army's Paeon**. But it has no 'warm up' period, and a better party buff to for 60-second skills. So, we use MB second even if we spend less time in it.
+
+All told, you want to use your songs in a two minute cycle. Roughly 43 seconds of WM, 34 seconds of MB, then 43 seconds of AP. 
+
+In terms of song timer, that means leaving each song at 2-3s left, 11-12s left, and 2-3s left respectively. For AP, in practice you'll simply leave once WM is off cooldown.
+
 ### The Wanderer's Minuet
 
 {{< inline >}}
 ![The Wanderer's Minuet](https://xivapi.com/i/002000/002607_hr1.png)
 ![Pitch Perfect](https://xivapi.com/i/002000/002611_hr1.png)
 {{< /inline >}}
+
+![](https://img.spacergif.org/v1/spacer.gif)
 
 In WM, procs give you up to three stacks that you spend on **Pitch Perfect**. Try to use PP at three stacks, but two stacks is okay if you're worried about **Empyreal Arrow** + a proc overflowing you.
 
@@ -186,6 +216,8 @@ You have three seconds between proc chances, so you should never need to delay y
 ![Bloodletter](https://xivapi.com/i/000000/000361_hr1.png)
 {{< /inline >}}
 
+![](https://img.spacergif.org/v1/spacer.gif)
+
 While in MB, each proc restores half of a charge of **Bloodletter**. BL's normal 15-second cooldown keeps running too, plus you have **Empyreal Arrow** procs. So the charges can fill up faster than you'd think -  but if you keep using BL when able you'll be fine. 
 
 ### Army's Paeon
@@ -196,18 +228,7 @@ AP makes your GCD and auto-attacks up to 16% faster as you get procs. This can f
 
 Make sure to stay on top of the GCD as its pace accelerates. It's easy to lose damage by being out of rhythm. Also, try not to double weave at full stacks, as that's likely to cut into your next GCD.
 
-### Song Order
-
-|**43s**|**34s**|**43s**|
-|-|-|-|
-|![The Wanderer's Minuet](https://xivapi.com/i/002000/002607_hr1.png)|![Mage's Ballad](https://xivapi.com/i/002000/002602_hr1.png)|![Army's Paeon](https://xivapi.com/i/002000/002603_hr1.png)|
-
-**The Wanderer's Minuet** is our strongest song by far, which is why we use it first. **Mage's Ballad** is slightly weaker than a four-stack **Army's Paeon**, but it has no 'warm up' period, and a better party buff to for 60-second skills. So, we use MB second even if we spend less time in it.
-
-All told, you want to use your songs in a two minute cycle. Roughly 43 seconds of WM, 34 seconds of MB, then 43 seconds of AP. 
-
-In terms of song timer, that means leaving each song at 2-3s left, 11-12s left, and 2-3s left respectively. But on the latter, you'll really just be in AP until WM is off cooldown.
-
+![](https://img.spacergif.org/v1/spacer.gif)
 
 ## Opener
 
@@ -217,7 +238,7 @@ This should be your go-to for starting a single target fight:
   
 Use **Bloodletters** and three stack **Pitch Perfects** as able (they aren't displayed here). 
 
-"**Barrage / Sidewinder**" refers to possibly needing to wait a GCD to use up **Refulgent Arrow** before pressing Barrage. In that case, you'd use Sidewinder first.
+If **Refulgent Arrow** is available when you would **Barrage**, use **Sidewinder** instead, then Barrage after spending the RA proc.
 
 It's worth dumping any Pitch Perfect stacks you have (even just one) before buffs run out. That's what the PP after **Iron Jaws** is for.
 
@@ -237,7 +258,9 @@ In text form:
 - Burst Shot / Refulgent Arrow
   - Barrage / Sidewinder
 - Burst Shot / Refulgent Arrow
+  - (open)
 - Burst Shot / Refulgent Arrow
+  - (open)
 - Burst Shot / Refulgent Arrow
   - Empyreal Arrow
 - Iron Jaws
@@ -254,6 +277,8 @@ In text form:
 ![Shadowbite](https://xivapi.com/i/002000/002617_hr1.png)
 {{< /inline >}}
 
+![](https://img.spacergif.org/v1/spacer.gif)
+
 Bard's AoE core is much like its single target. **Ladonsbite** and **Shadowbite** play the role of **Burst Shot** and **Refulgent Arrow**, respectively. 
 
 While enemies are gathering, go ahead and drop some Stormbites on them for free damage. Once you can start hitting everything with Ladonsbite / Shadowbite, swap to using those.
@@ -269,6 +294,8 @@ Don't be afraid to use your two minute buffs on packs either. But unlike with **
 ![Apex Arrow](https://xivapi.com/i/002000/002619_hr1.png)
 ![Blast Arrow](https://xivapi.com/i/002000/002621_hr1.png)
 {{< /inline >}}
+
+![](https://img.spacergif.org/v1/spacer.gif)
 
 For **Apex Arrow** and **Blast Arrow**, there's normally not much of a difference between using Apex at 80 vs. 100 gauge. You can mostly just use it whenever you want. 
 
@@ -292,6 +319,8 @@ Meanwhile, **Shadowbite** and **Rain of Death** want you to be targeting somethi
 ![Battle Voice](https://xivapi.com/i/002000/002601_hr1.png)
 ![Radiant Finale](https://xivapi.com/i/002000/002622_hr1.png)
 {{< /inline >}}
+
+![](https://img.spacergif.org/v1/spacer.gif)
 
 **Battle Voice** - One of two party-wide damage buffs. You should try to be using this on cooldown. Most jobs have damage spikes on 120-second timers, so you want to land your buff on those.
 
@@ -342,6 +371,8 @@ Meanwhile, **Shadowbite** and **Rain of Death** want you to be targeting somethi
 ![Leg Graze](https://xivapi.com/i/000000/000843_hr1.png)
 ![Foot Graze](https://xivapi.com/i/000000/000842_hr1.png)
 {{< /inline >}}
+
+![](https://img.spacergif.org/v1/spacer.gif)
 
 **Leg Graze**, **Foot Graze** - It has been several years since these have been useful in endgame group content. They're handy sometimes in solo-friendly content if you need to kite or run away. That's about it though.
 
