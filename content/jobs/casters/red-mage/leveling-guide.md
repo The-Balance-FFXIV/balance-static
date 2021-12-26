@@ -24,50 +24,50 @@ An important thing to keep in mind when leveling is the gear you are using. You 
 Throughout this guide, different terminology will be used to refer to specific concepts in game. Here is a reference list for some of the terms you may encounter: 
 
 
-**AoE - Area of Effect** \
+### AoE - Area of Effect
 Area of Effect abilities are abilities that will hit multiple targets in a given range rather than one single target. 
 
-**CD - Cooldown**
+### CD - Cooldown
 
 Cooldown refers to how long it takes for an ability to be available again after being used. Using an ability on cooldown means using it as soon as it is available.
 
-**GCD - Global Cooldown**
+### GCD - Global Cooldown
 
 Global cooldown refers to the default 2.5 second cooldown shared by all spells and weaponskills. This is not the same as cast time. After initiating a use of one spell or weaponskill, you will be able to use your next GCD in 2.5s. The global cooldown can be reduced with spellspeed, but certain abilities can also have shorter, unique cooldowns. 
 
 *You can check your Global Cooldown by hovering over Jolt and checking the recast timer
 
-**oGCD - Off-Global Cooldown** \
+### oGCD - Off-Global Cooldown
 Off-Global Cooldowns are abilities that are not a part of the Global Cooldown. These abilities have their own cooldown that is separate from all other cooldowns unless otherwise stated, and can be used when the Global Cooldown is not yet available.
 
-**Weaving**
+### Weaving
 
 Weaving refers to the act of using your off-Global Cooldown abilities in between your Global Cooldowns. For example, if a Red Mage were to instant cast a spell and then press Fleche and Engagement before their next Global Cooldown was available, this would be called a **double weave, **as they have used two off-Global Cooldowns. It is common to double weave for many spells, but there are also faster Global Cooldowns in the game that only allow you to single weave.
 
-**Clipping **
+### Clipping
 
 Clipping refers to the forced delay on a Global Cooldown caused by attempting to weave too many off-Global Cooldowns at once, or by using an off-Global Cooldown too late into the Global Cooldown. This is generally something to avoid. Clipping can also be affected by a player’s ping, where the animation lock tied to certain off-Global Cooldowns may not allow players at higher pings to double weave certain abilities. 
 
 An infographic that further explains weaving and clipping can be found [here. ](https://media.discordapp.net/attachments/598630005999796233/600432765250568262/GCD_v._3.png?1640267415)
 
-**Drifting**
+### Drifting
 
 Drifting is the act of not using an ability when it comes off cooldown, delaying its usage as well as delaying the timer on it from resetting. Using an ability on cooldown allows you to maximize its usage.
 
-**Hardcast**
+### Hardcast
 
 A hardcast is when a spell has a cast time before it is actually used. During this cast time, the user must stand still while the cast is completed.
 
-**Slidecasting**
+### Slidecasting
 
 Slidecasting is the act of being able to move before a cast finishes without canceling the cast itself. How early into a cast a player can move will vary with ping. An example of this being done can be found [here. ](https://www.youtube.com/watch?v=_InbctLFCzg)
 
-**Uptime**
+### Uptime
 
 Uptime refers to continually doing damage when an enemy is able to be targeted. Your goal is to always be casting throughout a fight to maximize your uptime, which will require efficient use of your movement tools listed below. 
 
 ## Introduction to Red Mage
- \
+
 Red Mage’s rotation revolves around casting spells to build up **Black Mana** and **White Mana**, then spending our accumulated mana on powerful enchanted weaponskills. Your goal is to keep black and white mana levels within 30 of each other to avoid unbalancing, which will cause the lower mana to increase at half of the normal rate. When both black and white mana reach 50 or above, you can unleash a powerful melee combo that spends this mana (at level 50+). Below is a list of what spells will increase what color mana and by what amount.
 
 
