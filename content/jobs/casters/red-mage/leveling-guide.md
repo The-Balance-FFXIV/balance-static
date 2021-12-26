@@ -4,12 +4,13 @@ card_header_image: /img/jobs/rdm/leveling.png
 authors:
   - meru
   - Balance-RDM-Staff
+  - lana
 patch: "6.0"
-lastmod: 2021-11-15T18:48:11.946Z
+lastmod: 2021-12-26T21:11:47.823Z
 changelog:
   - date: 2021-11-15T18:49:06.143Z
     message: Created page
-  - date: 2021-12-11T00:28:07.475Z
+  - date: 2021-12-26T21:12:15.668Z
     message: Guide updated for Endwalker.
 ---
 # Red Mage Leveling Guide for 6.x
