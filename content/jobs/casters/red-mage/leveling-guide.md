@@ -115,7 +115,7 @@ Our casting phase is primarily defined by our “**Dualcast**” trait, which gr
 | Hardcast these spells to get dualcast proc...                               | ...so that these can be instantly cast                                                   |
 | ----------------------------------------- | -------------------------------------------------------------- |
 | Jolt I + II                               | Scatter + Impact                                                 |
-| Verstone/Verfire | Verthunder/Veraero II + III                   |
+| Verstone/Verfire | Verthunder/Veraero I + III                   |
 | Veraero II / Verthunder II             | Verraise |
 | Vercure |  |
 
@@ -123,32 +123,12 @@ Our casting phase is primarily defined by our “**Dualcast**” trait, which gr
 A large portion of Red Mage’s damage comes from its powerful oGCDs that will be mentioned throughout this guide. It is important to use these abilities as close to cooldown as possible to avoid drifting, aside from Corps-a-corps and Engagement/Displacement, both of which have two charges. These charges allow you to have the ability available, while also continuing the CD for a second use of it. You should still avoid these abilities from overcapping at two stacks.
 
 
-<table>
-  <tr>
-   <td>Damaging Off-Global Cooldowns
-   </td>
-   <td>Charges
-   </td>
-  </tr>
-  <tr>
-   <td>Corps-a-corps
-<p>
-Engagement/Displacement
-<p>
-Fleche
-<p>
-Contre Sixte
-   </td>
-   <td>2
-<p>
-2
-<p>
-1
-<p>
-1
-   </td>
-  </tr>
-</table>
+| Damaging oGCDs                               | Charges                                                   |
+| ----------------------------------------- | -------------------------------------------------------------- |
+| Corps-a-Corps                               | 2                                                 |
+| Engagement/Displacement | 2                   |
+| Fleche             | 1 |
+| Contre Sixte | 1 |
 
 
 ## Level 18-25
