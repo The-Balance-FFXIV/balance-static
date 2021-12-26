@@ -111,30 +111,13 @@ Verholy (+11)
 Our casting phase is primarily defined by our “**Dualcast**” trait, which grants us a buff after every hardcasted spell that turns our next spell into an instantly cast spell. This means we will be alternating between hardcasting spells with low cast time, and using the Dualcast buff to instantly cast spells with a longer cast time. As a result, we will never hardcast a spell with a 5s+ cast time outside of pre-pull scenarios.
 
 
-<table>
-  <tr>
-   <td>Hardcast these spells to get Dualcast proc…
-   </td>
-   <td>…so these can be instantly cast
-   </td>
-  </tr>
-  <tr>
-   <td>Jolt I + II
-<p>
-Verstone/Verfire
-<p>
-Veraero II/Verthunder II
-<p>
-Vercure
-   </td>
-   <td>Scatter/Impact
-<p>
-Verthunder/Veraero I + III
-<p>
-Verraise
-   </td>
-  </tr>
-</table>
+
+| Hardcast these spells to get dualcast proc...                               | ...so that these can be instantly cast                                                   |
+| ----------------------------------------- | -------------------------------------------------------------- |
+| Jolt I + II                               | Scatter + Impact                                                 |
+| Verstone/Verfire | Verthunder/Veraero II + III                   |
+| Veraero II / Verthunder II             | Verraise |
+| Vercure |  |
 
 
 A large portion of Red Mage’s damage comes from its powerful oGCDs that will be mentioned throughout this guide. It is important to use these abilities as close to cooldown as possible to avoid drifting, aside from Corps-a-corps and Engagement/Displacement, both of which have two charges. These charges allow you to have the ability available, while also continuing the CD for a second use of it. You should still avoid these abilities from overcapping at two stacks.
