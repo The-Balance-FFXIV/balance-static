@@ -78,5 +78,6 @@ qna:
 
       Please note that unlike Addle, Magick Barrier is a party buff and not a boss debuff. This allows it to mitigate damage from untargetable actors that Addle cannot cover.
 authors:
+  - lana
   - Balance-RDM-Staff
 ---
