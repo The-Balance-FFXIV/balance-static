@@ -13,14 +13,6 @@ bis:
     description: ""
     name: Endwalker Pre-Savage Gearset
     link: https://etro.gg/gearset/cca0de63-f4a6-465d-a9df-cb9e4e9cd6b8
-  - type: etro
-    description: ""
-    name: "TEA i481 2.50 GCD Relic BiS "
-    link: https://etro.gg/gearset/95e9ffc4-83ce-4cc5-8f58-ac1bb7e7372e
-  - type: etro
-    description: ""
-    name: TEA i481 2.48 GCD Relic BiS
-    link: https://etro.gg/gearset/dbb5d88d-815a-4852-8875-a364acbc2b8d
 authors:
   - Balance-RDM-Staff
 ---
