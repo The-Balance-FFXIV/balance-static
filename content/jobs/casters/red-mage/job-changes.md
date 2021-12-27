@@ -68,6 +68,14 @@ changes:
       * Added Magick Barrier.
 
       * Added Resolution.
+
+      * Added Red Magic Mastery II trait.
+
+      * Added Red Magic Mastery III trait.
+
+      * Added Enhanced Acceleration trait.
+
+      * Added Enhanced Manafication II trait.
 authors:
   - Laille-Ormesaing
   - Balance-RDM-Staff
