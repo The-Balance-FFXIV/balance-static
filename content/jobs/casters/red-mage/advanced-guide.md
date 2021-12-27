@@ -9,6 +9,8 @@ changelog:
   - date: 2021-10-26T01:30:02.246Z
     message: Created page
 ---
+**THIS GUIDE HAS NOT YET BEEN UPDATED FOR PATCH 6.0 (ENDWALKER). PLEASE DO NOT USE THIS FOR LEARNING THE CLASS UNTIL IT DENOTES IT HAS BEEN UPDATED FOR 6.0 AND THIS DISCLAIMER HAS BEEN REMOVED.**
+
 # Introduction
 
 This guide will cover some Shadowbringers Red Mage optimization concepts and principles that aren’t covered in the basic job guide. The intended audience include:
