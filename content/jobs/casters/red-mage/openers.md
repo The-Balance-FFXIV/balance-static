@@ -2,28 +2,24 @@
 title: Red Mage Openers
 authors:
   - Balance-RDM-Staff
-patch: "5.58"
-lastmod: 2021-10-26T01:26:25.334Z
+patch: "6.0"
+lastmod: 2021-12-27T00:11:44.954Z
 changelog:
   - date: 2021-10-26T01:26:40.899Z
     message: Created page
+  - date: 2021-12-27T00:11:45.529Z
+    message: Updated for Endwalker
 ---
-In each opener, the first number refers to which GCD Embolden is used at, and the second refers to which GCD Manafication is used at. For more help on deciding which opener to use, refer to the [full guide](/jobs/casters/red-mage/basic-guide/). 
+![](/img/jobs/rdm/rdm_ew_opener.png)
 
-3-8 Opener: 
-![](https://i.imgur.com/tSqX4V0.png)
+**Why do we cast Verthunder twice?**
 
-5-8 Opener: 
-![](https://i.imgur.com/auw8G5y.png)
+Casting Verthunder twice is intentional as it allows us to guarantee a proc from Verholy as we will have lower white mana when we use it, resulting in us having both procs after our melee combo. You can also do this in the reverse order, casting Veraero twice and then Verflare.
 
-3-10 Opener: 
-![](https://i.imgur.com/NiO3S9V.png)
+**Why are we potting a GCD later than** usual?
 
-5-10 Opener: 
-![](https://i.imgur.com/2atF6Sn.png)
+Potting after the 2nd GCD allows us to use both Swiftcast and Acceleration after the first GCD, beginning the cooldown of both of those abilities and allowing us to comfortably weave our potion, Manafication, and Embolden in the next 2 GCDs. This also allows us to get our second Fleche under potion.
 
-# What about Swiftcast?
+**Why are Fleche and Contre Sixte used so late?**
 
-Using Swiftcast in the opener may not always be the correct play due to the effect it has on your GCD alignment by swapping your dualcast and hardcast windows. Depending on the fight, it may lead to poor alignment with mechanics early on in the fight, or in cases of short phasing, loss of oGCD usages due to abilities coming off cooldown in the middle of a hardcast window. We have opted to exclude Swiftcast from general purpose openers, instead leaving the first usage of swift as an encounter specific decision. 
-
-Note that even in fights where an opener Swiftcast is the correct choice, Swiftcast should be held until after the second Fleche for x-8 openers in order to get two Fleches under potion.
+Using Fleche a few GCDs later than usual will usually not cost a use. As this is a general-purpose opener, if there are fights in a given tier where phasing causes you to want to use Fleche or Contre Sixte earlier, fight-specific openers will be made and posted along with fight-specific tips.
