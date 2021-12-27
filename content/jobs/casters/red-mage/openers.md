@@ -12,6 +12,8 @@ changelog:
 ---
 ![](/img/jobs/rdm/rdm_ew_opener.png)
 
+[Full Size](https://www.thebalanceffxiv.com/img/jobs/rdm/rdm_ew_opener.png)
+
 **Why do we cast Verthunder twice?**
 
 Casting Verthunder twice is intentional as it allows us to guarantee a proc from Verholy as we will have lower white mana when we use it, resulting in us having both procs after our melee combo. You can also do this in the reverse order, casting Veraero twice and then Verflare.
