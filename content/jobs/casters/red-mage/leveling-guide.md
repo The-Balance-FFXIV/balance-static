@@ -71,7 +71,7 @@ Uptime refers to continually doing damage when an enemy is able to be targeted. 
 Red Mage’s rotation revolves around casting spells to build up **Black Mana** and **White Mana**, then spending our accumulated mana on powerful enchanted weaponskills. Your goal is to keep black and white mana levels within 30 of each other to avoid unbalancing, which will cause the lower mana to increase at half of the normal rate. When both Black and White Mana reach 50 or above, you can unleash a powerful melee combo that spends this Mana (at level 50+). Below is a list of what spells will increase what color Mana and by what amount.
 
 
-| Black Mana                               | Both | White Mana |                                                   |
+| Black Mana                               | Both | White Mana |                                                   
 | ----------------------------------------- | -------------------------------------------------------------- | ----------------------------------------- |
 | Verthunder I + III (+6) | Jolt I + II (+2)                   | Veraero I + III |
 | Verfire (+5)            | Scatter/Impact (+3) | Verstone (+5) |
