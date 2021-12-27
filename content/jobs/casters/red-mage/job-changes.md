@@ -68,8 +68,6 @@ changes:
       * Added Magick Barrier.
 
       * Added Resolution.
-  - patch: "5.58"
-    description: "[Placeholder for Endwalker]"
 authors:
   - Laille-Ormesaing
   - Balance-RDM-Staff
