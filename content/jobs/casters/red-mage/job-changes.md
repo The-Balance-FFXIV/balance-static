@@ -69,6 +69,8 @@ changes:
 
       * Added Resolution.
 
+      * Added Mana Stack trait.
+
       * Added Red Magic Mastery II trait.
 
       * Added Red Magic Mastery III trait.
