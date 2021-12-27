@@ -18,7 +18,7 @@ changelog:
 
 Casting Verthunder twice is intentional as it allows us to guarantee a proc from Verholy as we will have lower white mana when we use it, resulting in us having both procs after our melee combo. You can also do this in the reverse order, casting Veraero twice and then Verflare.
 
-**Why are we potting a GCD later than** usual?
+**Why are we potting a GCD later than usual**?
 
 Potting after the 2nd GCD allows us to use both Swiftcast and Acceleration after the first GCD, beginning the cooldown of both of those abilities and allowing us to comfortably weave our potion, Manafication, and Embolden in the next 2 GCDs. This also allows us to get our second Fleche under potion.
 
