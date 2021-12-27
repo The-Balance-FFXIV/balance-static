@@ -79,6 +79,7 @@ Red Mage’s rotation revolves around casting spells to build up **Black Mana** 
 | Verflare (+11) | Resolution (+4) | Verholy (+11) |
 
 
+
 Our casting phase is primarily defined by our “**Dualcast**” trait, which grants us a buff after every hardcasted spell that turns our next spell into an instantly cast spell. This means we will be alternating between hardcasting spells with low cast time, and using the Dualcast buff to instantly cast spells with a longer cast time. As a result, we will never hardcast a spell with a 5s+ cast time outside of pre-pull scenarios.
 
 
@@ -112,11 +113,11 @@ Use **Corps-a-corps** on cooldown and not for movement. It is a damaging oGCD th
 
 In addition to this, you will also have access to your role actions at all level ranges. 
 
-**Swiftcast **is an ability that allows you to instantly cast your next GCD. This should be used to continue using spells when you are forced to move in a fight, keeping uptime on the boss. Swiftcast should be used on Verthunder or Veraero in single target, and Scatter in AoE. 
+**Swiftcast** is an ability that allows you to instantly cast your next GCD. This should be used to continue using spells when you are forced to move in a fight, keeping uptime on the boss. Swiftcast should be used on Verthunder or Veraero in single target, and Scatter in AoE. 
 
 **Addle** is an ability that lowers a single target’s magical damage dealt by 10% and physical damage dealt by 5%. It should be used where possible to assist the healer in keeping the party alive. While there may not be many uses for it at this level range, a good starting place for Addle is to use it to mitigate any casts from a boss that damage the entire party. 
 
-Finally, **Lucid Dreaming **is an ability that will restore your own MP for 21 seconds. While it is rare to run out of MP at this level range, you should remember to use this ability as much as possible.
+Finally, **Lucid Dreaming** is an ability that will restore your own MP for 21 seconds. While it is rare to run out of MP at this level range, you should remember to use this ability as much as possible.
 
 To use these abilities properly, you should weave them after your dualcast spell is used, with up to two being weaved at a time. You can also weave one ability at a time after using a weaponskill.
 
@@ -124,23 +125,23 @@ To use these abilities properly, you should weave them after your dualcast spell
 
 Our AoE rotation only has a minor change in this level range with the addition of **Acceleration** at level 50, a buff that will make our next Scatter instant-cast and boost its potency. Acceleration can be used on CD during our AoE rotation.
 
-In terms of single target, we get our** Verfire** and** Verstone** procs at level 26 and 30 respectively. Casting Veraero or Verthunder will have a 50% chance of giving us** Verstone Ready** or **Verfire Ready** respectively. These abilities will replace Jolt in our dualcast GCD pairs when they are available. Acceleration removes the cast time on our next Verthunder or Veraero and ensures they will give us a proc. Prioritize using this skill for movement and keeping uptime.
+In terms of single target, we get our **Verfire** and **Verstone** procs at level 26 and 30 respectively. Casting Veraero or Verthunder will have a 50% chance of giving us **Verstone Ready** or **Verfire Ready** respectively. These abilities will replace Jolt in our dualcast GCD pairs when they are available. Acceleration removes the cast time on our next Verthunder or Veraero and ensures they will give us a proc. Prioritize using this skill for movement and keeping uptime.
 
 At 35 and 50, we will get additions to our single target melee combos. At level 35, we learn **Enchanted Zwerchau.** This increases the mana cost of our combo to 35. At level 50, we learn **Enchanted Redoublement**, increasing the mana cost of our full combo to 50. Build up enough mana to fully utilize whatever combo steps are available to you at that level before using them. 
 
-We get a few damaging oGCDs in this level range, namely **Displacement/Engagement** at level 40 and **Fleche **at level 45. Displacement and Engagement share the same cooldown and do the same potency, so we generally prefer Engagement for the shorter animation lock unless the movement from Displacement is useful. Fleche is one of our most powerful oGCDs and should always be used on CD. 
+We get a few damaging oGCDs in this level range, namely **Displacement/Engagement** at level 40 and **Fleche** at level 45. Displacement and Engagement share the same cooldown and do the same potency, so we generally prefer Engagement for the shorter animation lock unless the movement from Displacement is useful. Fleche is one of our most powerful oGCDs and should always be used on CD. 
 
 ## Level 52-57
 
-Our AoE rotation changes with the addition of **Enchanted Moulinet** at level 52, our AoE mana spender. We can now mix in Enchanted Moulinets between our Verthunder II/Veraero II  -> Scatter GCD pairs. 
+Our AoE rotation changes with the addition of **Enchanted Moulinet** at level 52, our AoE mana spender. We can now mix in Enchanted Moulinets between our **Verthunder II/Veraero II**  -> **Scatter** GCD pairs. 
 
-At level 54, we get** Vercure**, which can actually be used offensively during downtime to prepare a dualcast so that we can instantly open on the next mob pack/boss with a strong GCD. Vercuring during downtime is a trick often used in endgame raids whenever the boss disappears, so it’s a good habit to get into early on.
+At level 54, we get **Vercure**, which can actually be used offensively during downtime to prepare a dualcast so that we can instantly open on the next mob pack/boss with a strong GCD. Vercuring during downtime is a trick often used in endgame raids whenever the boss disappears, so it’s a good habit to get into early on.
 
 Level 56 adds **Contre Sixte**, another powerful damaging oGCD that should be used on cooldown. This ability also hits multiple targets.
 
 ## Level 58-67
 
-Jolt is upgraded to **Jolt II **at level 62, while Scatter becomes **Impact** at level 66. While those upgrades do not affect our rotation in any meaningful manner, we do get two new oGCDs that become very important parts of Red Mage’s kit:
+Jolt is upgraded to **Jolt II** at level 62, while Scatter becomes **Impact** at level 66. While those upgrades do not affect our rotation in any meaningful manner, we do get two new oGCDs that become very important parts of Red Mage’s kit:
 
 **Embolden**: Acquired at level 58, this is RDM’s party buff that increases **all damage dealt by party members by 5%, and our own magical damage dealt by 5%**. This buff lasts for **20 seconds**. **As it only buffs our personal magic damage, it only affects our spells and weaponskills, not any of our oGCDs, as they all deal physical damage**. It should be used both in trash packs and bosses in dungeons instead of being saved exclusively for bosses. In general, Embolden is worth using on trash packs if your party can benefit from the full duration, though you may choose to hold it during smaller pulls that die too quickly. In boss scenarios, this ability should be used **on cooldown** as long as the boss is targetable and will not disappear during its 20 second duration.
 
@@ -160,7 +161,7 @@ At level 76, we also learn **Enchanted Reprise**. This is a single target ranged
 
 Level 78 introduces the **Enhanced Manafication** trait, which makes Manafication grant five stacks of a 5% magical damage buff. **This essentially means that we always want to go into a combo (whether 3x Enchanted Moulinet or Enchanted Riposte > Enchanted Zwerchau > Enchanted Redoublement) immediately after a use of Manafication so as to not waste our 5% magical damage buff on weaker GCDs.** Be aware that Manafication by itself does not guarantee enough melee for a full AoE combo, so make sure you have at least 10|10 Mana before using Manafication in AoE situations. 
 
-At level 80 we learn** Scorch**, a second combo finisher that is used after either Verholy or Verflare. This does not affect our AoE or single target combos aside from giving us an extra finisher to use. 
+At level 80 we learn **Scorch**, a second combo finisher that is used after either Verholy or Verflare. This does not affect our AoE or single target combos aside from giving us an extra finisher to use. 
 
 At level 82 we learn **Verthunder III** and **Veraero III**, both of which have their functions unchanged from Verthunder and Veraero and are simply potency upgrades. 
 
