@@ -7,7 +7,7 @@ changelog:
     message: Created page
   - date: 2021-12-27T00:19:58.108Z
     message: Updated for Endwalker
-priority: Critical Hit > Determination ≥ Direct Hit
+priority: "Critical Hit > Determination ≥ Direct Hit "
 authors:
   - Balance-RDM-Staff
 ---
