@@ -1,11 +1,13 @@
 ---
 title: Red Mage Stat Priority
-patch: "5.58"
-lastmod: 2021-10-26T01:33:45.358Z
+patch: "6.0"
+lastmod: 2021-12-27T00:20:05.640Z
 changelog:
   - date: 2021-10-26T01:33:52.024Z
     message: Created page
-priority: Critical Hit > Direct Hit > Determination
+  - date: 2021-12-27T00:19:58.108Z
+    message: Updated for Endwalker
+priority: Critical Hit > Determination ≥ Direct Hit
 authors:
   - Balance-RDM-Staff
 ---
