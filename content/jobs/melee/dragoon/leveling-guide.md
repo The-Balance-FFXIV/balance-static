@@ -9,6 +9,17 @@ changelog:
   - date: 2021-10-29T02:48:36.195Z
     message: Created page
 ---
+# Dragoon Leveling Guide
+
+## Gear
+
+Always use the highest Item Level gear available to you. The increase of Strength and survivability outweighs potentially more favorable substats in lower Item Level gear.
+
+Dragoons use Maiming armor and Slaying accessories.
+Low level gear may not be labeled as such, make sure you always equip gear that gives a bonus to Strength.
+
+## Know Your Role
+
 The basic single target rotation changes as you progress through the levels.\
 The general idea is to keep the Disembowel buff up and using the Full Thrust combo as a filler.
 
