@@ -15,7 +15,6 @@ This guide is intended to be relatively basic and doesn’t go into huge explana
 
 * Openers and Rotation
 * Advanced Guide
-* Fight Tips
 * Stats and Materia
 * Gearing
 * Skill Overview
