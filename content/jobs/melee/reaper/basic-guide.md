@@ -3,8 +3,6 @@ title: Reaper - Basic Guide
 patch: "6.01"
 lastmod: 2021-12-29T16:44:03.621Z
 ---
-
-
 ## Basic Reaper Guide
 
 Welcome to the Basic Guide for Reaper, which will cover everything you need to know to get started with becoming a Reaper! Included are an overview of the job’s playstyle, basic priority, abilities and core concepts.
@@ -36,6 +34,10 @@ Soul : Soul is one of the main Resources that Reaper has and is represented by t
 
 Shroud: Shroud is the another main resource that Reaper has and is represented by the Blue bar on the job gauge. You build 10 Shroud by spending Soul Reavers (the resource you get from spending Soul) on powerful weapon skills Gibbet, Gallows or Guillotine. Reavers must be spent on Shroud generating skills, using any other weaponskill will have them fall off immediately. While most Soul Spenders generate 1 Soul Reaver, Gluttony will generate 2. You can also build 50 shroud by using Plentiful Harvest, which is only available once every two minutes.  50 Shroud is spent on a transformative buff called Enshroud and you can hold up to 100 Shroud at a time.
 
+
+
+
+
 Enshroud: Enshroud is Reapers burst window and changes how the Reaper looks, activates a job gauge and changes a few abilities and weaponskills. For more detailed information on what changes, visit the Skill Details page. When you first Enshroud you generate 5 Blue Orbs (Lemure Shroud) which can be spent on the rapid 1.5s global cooldown weaponskills Void Reaping, Cross Reaping and Grim Reaping. When spending a Blue Orb this way it will generate a Purple Orb (Void Shroud) which you can spend 2 on off global abilities Lemure’s Slice and Lemure’s Scythe. Lastly you can end the Enshroud phase by spending all of your Blue Orbs or by using the powerful spell Communio. 
 
 ### Basic Rotation
@@ -43,8 +45,6 @@ Enshroud: Enshroud is Reapers burst window and changes how the Reaper looks, act
 #### The Opener:
 
 ![](https://cdn.discordapp.com/attachments/920133222933876766/921268511102365736/early_Gluttony.png)
-
-
 
 * Soul Before the pull
 * Use a potion/tincture of Strength 3s left on the countdown
