@@ -8,6 +8,8 @@ lastmod: 2021-12-30T18:08:27.028Z
 changelog:
   - date: 2021-10-26T03:06:25.151Z
     message: Created page
+  - date: 2021-12-30T18:10:06.128Z
+    message: Updated for Endwalker
 ---
 This guide is intended for the casual player looking for advice on how to play Scholar in leveling dungeons. Below, we’ll briefly describe all Scholar actions, grouped by level, and some general guidelines for when to use them. For more detailed ability descriptions, please consult the in-game tooltips or job guide, and if you’d like to learn more about playing and optimizing Scholar, check out our other guides.
 
