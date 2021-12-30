@@ -2,8 +2,8 @@
 title: Dragoon Openers
 authors:
   - Balance-DRG-Staff
-patch: "6.00"
-lastmod: 2021-10-29T02:55:43.839Z
+patch: "6.0"
+lastmod: 2021-12-30T19:29:26.326Z
 changelog:
   - date: 2021-10-29T02:55:52.808Z
     message: Created page
