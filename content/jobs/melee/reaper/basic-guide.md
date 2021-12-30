@@ -30,15 +30,11 @@ Reaper can be played fluidly as a priority system or rigidly with planned burst 
 
 Reaper has access to a few resources that you will need to master to play the job:
 
-Soul : Soul is one of the main Resources that Reaper has and is represented by the Red bar on the job gauge. You build 10 of it by using your combo weaponskills (Slice, Waxing Slice, Infernal Slice, Spinning Scythe, Nightmare Scythe) and 50 by using Soul Slice / Scythe  .You spend it on off global abilities that generate Soul Reavers(Bloodstalk, Grim Swathe, Unveiled Gibbet, Unveiled Gallows, Gluttony). You spend 50 soul at a time and can store up to 100 so you have some wiggle room on when you use it.
+**Soul**: Soul is one of the main Resources that Reaper has and is represented by the Red bar on the job gauge. You build 10 of it by using your combo weaponskills (Slice, Waxing Slice, Infernal Slice, Spinning Scythe, Nightmare Scythe) and 50 by using Soul Slice / Scythe  .You spend it on off global abilities that generate Soul Reavers (Bloodstalk, Grim Swathe, Unveiled Gibbet, Unveiled Gallows, Gluttony). You spend 50 soul at a time and can store up to 100 so you have some wiggle room on when you use it.
 
-Shroud: Shroud is the another main resource that Reaper has and is represented by the Blue bar on the job gauge. You build 10 Shroud by spending Soul Reavers (the resource you get from spending Soul) on powerful weapon skills Gibbet, Gallows or Guillotine. Reavers must be spent on Shroud generating skills, using any other weaponskill will have them fall off immediately. While most Soul Spenders generate 1 Soul Reaver, Gluttony will generate 2. You can also build 50 shroud by using Plentiful Harvest, which is only available once every two minutes.  50 Shroud is spent on a transformative buff called Enshroud and you can hold up to 100 Shroud at a time.
+**Shroud**: Shroud is the another main resource that Reaper has and is represented by the Blue bar on the job gauge. You build 10 Shroud by spending Soul Reavers (the resource you get from spending Soul) on powerful weapon skills Gibbet, Gallows or Guillotine. Reavers must be spent on Shroud generating skills, using any other weaponskill will have them fall off immediately. While most Soul Spenders generate 1 Soul Reaver, Gluttony will generate 2. You can also build 50 shroud by using Plentiful Harvest, which is only available once every two minutes.  50 Shroud is spent on a transformative buff called Enshroud and you can hold up to 100 Shroud at a time.
 
-
-
-
-
-Enshroud: Enshroud is Reapers burst window and changes how the Reaper looks, activates a job gauge and changes a few abilities and weaponskills. For more detailed information on what changes, visit the Skill Details page. When you first Enshroud you generate 5 Blue Orbs (Lemure Shroud) which can be spent on the rapid 1.5s global cooldown weaponskills Void Reaping, Cross Reaping and Grim Reaping. When spending a Blue Orb this way it will generate a Purple Orb (Void Shroud) which you can spend 2 on off global abilities Lemure’s Slice and Lemure’s Scythe. Lastly you can end the Enshroud phase by spending all of your Blue Orbs or by using the powerful spell Communio. 
+**Enshroud**: Enshroud is Reapers burst window and changes how the Reaper looks, activates a job gauge and changes a few abilities and weaponskills. For more detailed information on what changes, visit the Skill Details page. When you first Enshroud you generate 5 Blue Orbs (Lemure Shroud) which can be spent on the rapid 1.5s global cooldown weaponskills Void Reaping, Cross Reaping and Grim Reaping. When spending a Blue Orb this way it will generate a Purple Orb (Void Shroud) which you can spend 2 on off global abilities Lemure’s Slice and Lemure’s Scythe. Lastly you can end the Enshroud phase by spending all of your Blue Orbs or by using the powerful spell Communio. 
 
 ### Basic Rotation
 
@@ -107,5 +103,3 @@ Reaper can be played well by just following a priority system. Below is the reco
 ### Next Level
 
 When you feel like you have mastered the basics of Reaper, head over the Advanced guide to learn how to play the job into raid buffs. The Advanced guide will cover a lot from Double Shroud windows to specific fight mapping tools!
-
-<!--EndFragment-->
