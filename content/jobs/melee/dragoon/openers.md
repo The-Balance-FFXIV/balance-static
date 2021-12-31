@@ -22,7 +22,7 @@ The backbone of ten GCDs in sequence will - in general - never be changed, but t
 
 ![Standard Opener](https://cdn.discordapp.com/attachments/841722176017268826/925365578728898560/DRG_ew_opener.png)
 
-The default order of Geirskogul and High Jump remains this way for forever, with every odd Geirskogul landing immediately after Lance Charge or Lance Charge, Dragon Sight and Battle Litany and entering Life of the Dragon. As such, we no longer need to think about early/late life and double life windows are a thing of the past, barring potential fight-specific optimizations.
+The default order of Geirskogul and High Jump remains this way for forever, with every odd Geirskogul landing immediately after Lance Charge or Lance Charge, Dragon Sight and Battle Litany and entering Life of the Dragon. As such, we no longer need to think about early/late life and double life as those windows are a thing of the past, barring potential fight-specific optimizations.
 
 This video has a full six minute rotation at a 2.50 GCD, using the opener above.
 
