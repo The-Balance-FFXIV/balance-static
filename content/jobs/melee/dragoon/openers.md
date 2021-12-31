@@ -2,11 +2,13 @@
 title: Dragoon Openers
 authors:
   - Balance-DRG-Staff
-patch: "5.58"
-lastmod: 2021-10-29T02:55:43.839Z
+patch: "6.0"
+lastmod: 2021-12-30T19:29:26.326Z
 changelog:
   - date: 2021-10-29T02:55:52.808Z
     message: Created page
+  - date: 2021-12-28T12:43:04.720Z
+    message: Initial update for Endwalker
 ---
 # Dragoon Opener and Rotation
 
@@ -18,9 +20,10 @@ These openers have not been too thoroughly tested as of yet, so please take them
 
 The backbone of ten GCDs in sequence will - in general - never be changed, but the two blocks of skills (**Buffs** and **Attacks**) can be shuffled around within their respective slots if necessary to accommodate specific encounter timings.
 
-![](https://i.imgur.com/bNh6e0x.png)
+![Standard Opener](https://cdn.discordapp.com/attachments/841722176017268826/925365578728898560/DRG_ew_opener.png)
 
-The default order for the **Attacks** puts Spineshatter Dive as a buffer skill between High Jump and Geirskogul in order to try and prevent future situations where the two are ready at the exact same time.
+The default order of Geirskogul and High Jump remains this way for forever, with every odd Geirskogul landing immediately after Lance Charge or Lance Charge, Dragon Sight and Battle Litany and entering Life of the Dragon. As such, we no longer need to think about early/late life and double life as those windows are a thing of the past, barring potential fight-specific optimizations.
 
-This video has a full six minute rotation at a 2.50 GCD, using the opener above.\
-<https://www.youtube.com/watch?v=15PNRbwXctw>
+This video has a full six minute rotation at a 2.50 GCD, using the opener above.
+
+{{< youtube UOeJywv1ILA >}}
