@@ -5,7 +5,7 @@ Endgame Gearing and Content Unlock Guide
 
 ## Introduction
 
-This is a comprehensive guide aimed towards players entering endgame — Level 90 — for the first time and getting overwhelmed with FFXIV's gear progression systems. This guide will help you get an understanding of how FFXIV’s endgame systems work, as well as how to gear up and what types of endgame PvE content exist.
+This is a comprehensive guide aimed towards players entering endgame — Level 90 — for the first time and getting overwhelmed with Final Fantasy XIV's gear progression systems. This guide will help you get an understanding of how FFXIV’s endgame systems work, as well as how to gear up and what types of endgame PvE content exist.
 
 Step 1. Get AF gear, finish MSQ, and farm Tomestones for gear
 Step 2. Get i565 to unlock and complete Pandaemonium: Asphodelos (Normal)
@@ -16,7 +16,7 @@ Step 2. Get i565 to unlock and complete Pandaemonium: Asphodelos (Normal)
 
 * All weekly lockouts are reset at Tuesday, 1AM PST/4 AM EST/8AM GMT.
 * All daily lockouts are reset at 8AM PST/11 AM EST/3PM GMT.
-* Grand Company and Rowena’s House of Splendors resets at 1PM PST/4PM EST/8PM GMT.
+* Grand Company and Rowena’s House of Splendors reset at 1PM PST/4PM EST/8PM GMT.
 * All of these timers can be viewed in your timezone via the Timers window in-game.
 * A lockout means that you can only get a certain amount of rewards until the reset, which then the amount of rewards you can get is refreshed.
 
@@ -76,7 +76,7 @@ Extreme Trials are a full party fight against a singular enemy. They are the gat
 * There are no lockouts on Extreme Trials.
 * Aside from dropping weapons and a weapon coffer, completion of an Extreme trial duty will reward tokens.
 
-  * 10 tokens can be traded for one weapon of choice (7 PLD Sword, 3 PLD Shield).
+  * Ten tokens can be traded for one weapon of choice (Seven for PLD Sword, three for PLD Shield).
   * 99 tokens can be traded for the duty’s Extreme mount which is a rare drop. This is only applicable after a trial has been released for some time.
 
 ### Crafted Gear
@@ -123,7 +123,7 @@ Track dangerous mobs in order to acquire materia for your endgame gear as well a
 
 #### Pandaemonium: Asphodelos (Normal)
 
-**Required iL: 565**
+**Required iLvl: 565**
 
 * The first wing of the Pandaemonium raid, Asphodelos, was released with Patch 6.01.
 * Treasure coffers that appear upon completing Asphodelos will not yield gear, but instead will yield items that can be traded for gear of your choosing.
@@ -135,7 +135,7 @@ Track dangerous mobs in order to acquire materia for your endgame gear as well a
 
 ### Pandaemonium: Asphodelos (Savage)
 
-**Recommended iL: 580**
+**Recommended iLvl: 580**
 
 * The first wing of the Pandaemonium (Savage) raid is set to be released with Patch 6.05.
 * Upon completing Asphodelos (Savage) duties, treasure coffers will appear containing gear coffers. When used, these items transform into gear corresponding to the user's current job. In addition, the coffers that appear upon completing Asphodelos: The Fourth Circle (Savage) yield weapons.
