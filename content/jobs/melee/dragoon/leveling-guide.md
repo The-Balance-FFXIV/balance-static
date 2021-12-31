@@ -9,6 +9,17 @@ changelog:
   - date: 2021-10-29T02:48:36.195Z
     message: Created page
 ---
+# Dragoon Leveling Guide
+
+## Gear
+
+Always use the highest Item Level gear available to you. The increase of Strength and survivability outweighs potentially more favorable substats in lower Item Level gear.
+
+Dragoons use Maiming armor and Slaying accessories.
+Low level gear may not be labeled as such, so make sure you always equip gear that gives a bonus to Strength.
+
+## Know Your Role
+
 The basic single target rotation changes as you progress through the levels.\
 The general idea is to keep the Disembowel buff up and using the Full Thrust combo as a filler.
 
@@ -16,7 +27,7 @@ The Area of Effect (AoE) rotation, Doom Spike > Sonic Thrust > Coerthan Torment,
 
 Off-Global Cooldown actions such as Jump or Geirskogul, as well as buffs like Lance Charge, should be used on cooldown on all levels. 
 
-# Level 18-25
+# Levels 18-25
 
 |                                                            |                                                           |     |     |                                                            |                                                              |     |     |
 | ---------------------------------------------------------- | --------------------------------------------------------- | --- | --- | ---------------------------------------------------------- | ------------------------------------------------------------ | --- | --- |
@@ -25,7 +36,7 @@ Off-Global Cooldown actions such as Jump or Geirskogul, as well as buffs like La
 
 Use Life Surge with Vorpal Thrust up to level 25 as it is your strongest weaponskill.
 
-# Level 26-49
+# Levels 26-49
 
 |                                                            |                                                           |     |     |                                                            |                                                              |                                                            |     |     |
 | ---------------------------------------------------------- | --------------------------------------------------------- | --- | --- | ---------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------- | --- | --- |
@@ -34,28 +45,28 @@ Use Life Surge with Vorpal Thrust up to level 25 as it is your strongest weapons
 
 You want to use Life Surge with Full Thrust (or the strongest AoE weaponskill when fighting 3+ mobs) from here on.
 
-# Level 50-55
+# Levels 50-55
 
 |                                                            |                                                           |                                                             |     |     |                                                            |                                                              |                                                            |     |     |
 | ---------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------- | --- | --- | ---------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------- | --- | --- |
 | ![True Thrust](https://xivapi.com/i/000000/000310.png) | ![Disembowel](https://xivapi.com/i/000000/000317.png) | ![Chaos Thrust](https://xivapi.com/i/000000/000308.png) | \-  | (   | ![True Thrust](https://xivapi.com/i/000000/000310.png) | ![Vorpal Thrust](https://xivapi.com/i/000000/000312.png) | ![Full Thrust](https://xivapi.com/i/000000/000314.png) | )   | x3  |
 | True Thrust                                                | Disembowel                                                | Chaos Thrust                                                |     |     | True Thrust                                                | Vorpal Thrust                                                | Full Thrust                                                |     |     |
 
-# Level 56-57
+# Levels 56-57
 
 |                                                            |                                                           |                                                             |     |     |                                                            |                                                              |                                                            |                                                              |     |     |
 | ---------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------- | --- | --- | ---------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------ | --- | --- |
 | ![True Thrust](https://xivapi.com/i/000000/000310.png) | ![Disembowel](https://xivapi.com/i/000000/000317.png) | ![Chaos Thrust](https://xivapi.com/i/000000/000308.png) | \-  | (   | ![True Thrust](https://xivapi.com/i/000000/000310.png) | ![Vorpal Thrust](https://xivapi.com/i/000000/000312.png) | ![Full Thrust](https://xivapi.com/i/000000/000314.png) | ![Fang and Claw](https://xivapi.com/i/002000/002582.png) | )   | x2  |
 | True Thrust                                                | Disembowel                                                | Chaos Thrust                                                |     |     | True Thrust                                                | Vorpal Thrust                                                | Full Thrust                                                | Fang and Claw                                                |     |     |
 
-# Level 58-63
+# Levels 58-63
 
 |                                                            |                                                           |                                                             |                                                                |     |     |                                                            |                                                              |                                                            |                                                              |     |     |
 | ---------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------- | --- | --- | ---------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------ | --- | --- |
 | ![True Thrust](https://xivapi.com/i/000000/000310.png) | ![Disembowel](https://xivapi.com/i/000000/000317.png) | ![Chaos Thrust](https://xivapi.com/i/000000/000308.png) | ![Wheeling Thrust](https://xivapi.com/i/002000/002584.png) | \-  | (   | ![True Thrust](https://xivapi.com/i/000000/000310.png) | ![Vorpal Thrust](https://xivapi.com/i/000000/000312.png) | ![Full Thrust](https://xivapi.com/i/000000/000314.png) | ![Fang and Claw](https://xivapi.com/i/002000/002582.png) | )   | x2  |
 | True Thrust                                                | Disembowel                                                | Chaos Thrust                                                | Wheeling Thrust                                                |     |     | True Thrust                                                | Vorpal Thrust                                                | Full Thrust                                                | Fang and Claw                                                |     |     |
 
-# Level 64-80
+# Levels 64-80
 
 |                                                              |                                                           |                                                             |                                                                |                                                              |     |                                                              |                                                              |                                                            |                                                              |                                                                |
 | ------------------------------------------------------------ | --------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------ | --- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------- |
