@@ -159,7 +159,7 @@ At level 76, we also learn **Enchanted Reprise**. This is a single target ranged
 
 ## Level 78+
 
-Level 78 introduces the **Enhanced Manafication** trait, which makes Manafication grant five stacks of a 5% magical damage buff. **This essentially means that we always want to go into a combo (whether 3x Enchanted Moulinet or Enchanted Riposte > Enchanted Zwerchau > Enchanted Redoublement) immediately after a use of Manafication so as to not waste our 5% magical damage buff on weaker GCDs.** Be aware that Manafication by itself does not guarantee enough melee for a full AoE combo, so make sure you have at least 10|10 Mana before using Manafication in AoE situations. 
+Level 78 introduces the **Enhanced Manafication** trait, which makes Manafication grant five stacks of a 5% magical damage buff. **This essentially means that we always want to go into a combo (whether 3x Enchanted Moulinet or Enchanted Riposte > Enchanted Zwerchau > Enchanted Redoublement) immediately after a use of Manafication so as to not waste our 5% magical damage buff on weaker GCDs.** Be aware that Manafication by itself does not guarantee enough Mana for a full AoE combo, so make sure you have at least 10|10 Mana before using Manafication in AoE situations. 
 
 At level 80 we learn **Scorch**, a second combo finisher that is used after either Verholy or Verflare. This does not affect our AoE or single target combos aside from giving us an extra finisher to use. 
 
