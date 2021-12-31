@@ -17,7 +17,7 @@ This guide is intended for the casual player looking for advice on how to play S
 # Quick Glossary
 
 * **SCH:** Scholar
-* **CD (Cooldown):** The time it takes before you’re able to cast an action again
+* **CD (Cooldown):** The time it takes before you’re able to cast an action again.
 * **GCD (Global Cooldown):** Spells that share the same base recast time. On SCH, these are mostly spells with about 2.5s recast time, plus Resurrection. 
 * **Instant (Instant Cast):** GCD Spells that do not have a cast bar.
 * **oGCD (Off Global Cooldown):** Abilities that don’t share the 2.5s base recast time and therefore can be used while GCD spells are on cooldown.
@@ -80,7 +80,7 @@ Help your party out by doing damage when you don’t need to or can’t heal. Ap
 * **Ruin (Lvl. 1):** Single target damage (GCD)
   * Use this to do damage if you don’t need to apply your DoT (below).
   * Because Ruin has a shorter cast time than your GCD recast, you can use that window to move and/or use a single oGCD. This also applies to other spells with the same cast time as Ruin, such as its later upgrades.
-* **Bio (Lvl. 2):** Single target DoT (GCD, instant cast)
+* **Bio (Lvl. 2):** Single target DoT (GCD, instant cast).
   * Use Bio on as many mobs as you can while the tank is pulling (since you can’t cast spells while running).
   * Never apply your DoT to an enemy that is immediately about to die.
   * For dungeon pulls, do not use once you have stopped moving – use Ruin instead.
@@ -141,7 +141,7 @@ As before, keep applying Bio II before switching to Ruin. Only use Ruin II if yo
 
 ### New Skills
 
-* **Ruin II (Lvl. 38):** Single target damage (GCD, instant cast)
+* **Ruin II (Lvl. 38):** Single target damage (GCD, instant cast).
   * Use it when you can’t cast Ruin because you need to move and it’s not time to reapply Bio II. Otherwise, if you are able to cast before moving, keep using Ruin because it does more damage.
 
 # Levels 45-50
@@ -152,7 +152,7 @@ As before, keep applying Bio II before switching to Ruin. Only use Ruin II if yo
 
 Use Aetherflow on cooldown and keep using Adlo for prepull shielding. During pulls, your healing priority is: Fairy heals (Whispering Dawn) > Aetherflow heals (Lustrate) > GCD heals (Adlo). Use extra AF stacks on Energy Drain, and don’t use Sacred Soil.
 
-Note: At Level 50, you will also be able to start doing content such as Trials and Alliance Raids where each party has 2 healers. Be aware that if your cohealer is a Sage or another Scholar, you cannot stack GCD shields with them – one will always overwrite the other. 
+Note: At Level 50, you will also be able to start doing content such as Trials and Alliance Raids where each party has two healers. Be aware that if your cohealer is a Sage or another Scholar, you cannot stack GCD shields with them – one will always overwrite the other. 
 
 ### New Skills
 
@@ -162,7 +162,7 @@ Note: At Level 50, you will also be able to start doing content such as Trials a
 * **Lustrate (Lvl. 45, Job Quest):** Single target heal (oGCD, AF ability)
   * Use AF heals, if available, before using GCDs for healing.
   * Now, your healing priority becomes: put up Adlo on the tank before pull, then during the pull, prioritize Fairy heals (Whispering Dawn) > Aetherflow heals (Lustrate) > GCD heals (Adlo).
-* **Sacred Soil (Lvl. 50, Job Quest):** Creates a bubble that provides mitigation for anyone in it (oGCD, AF ability)
+* **Sacred Soil (Lvl. 50, Job Quest):** Creates a bubble that provides mitigation for anyone in it (oGCD, AF ability).
   * Do not use at this level because spending the stack on Lustrate heals more than Soil can mitigate for.
 
 ## Damage
@@ -176,10 +176,10 @@ Use Art of War on 2+ targets instead of Ruin (see below for more detailed priori
 * **Energy Drain (Lvl. 45):** Single target damage (oGCD, AF ability)
   * Use this only if you don’t need to use AF stacks on healing because it’s more efficient to use AF stacks instead of GCD heals if necessary.
   * If Aetherflow is about to come off cooldown and you have stacks remaining, spend them on Energy Drain.
-* **Art of War (Lvl. 46):** AoE damage to enemies in a circle centered on you (GCD, instant cast)
+* **Art of War (Lvl. 46):** AoE damage to enemies in a circle centered on you (GCD, instant cast).
   * In dungeon pulls, put up Bio II while running as usual. After you stop running, your priority is based on how many enemies there are:
-    * 1 target: Maintain Bio II, then use either Art of War (if in range) or Ruin – they do the same damage at this level.
-    * 2 targets: Maintain Bio II on both, then use Art of War instead of Ruin.
+    * One target: Maintain Bio II, then use either Art of War (if in range) or Ruin – they do the same damage at this level.
+    * Two targets: Maintain Bio II on both, then use Art of War instead of Ruin.
     * 3+ targets: Only use Bio II if you can’t hit 3+ targets due to movement; otherwise use only Art of War.
 
 ## Other
@@ -212,14 +212,14 @@ Use Dissipation for additional healing or additional damage, depending on your p
 * **Indomitability (Lvl. 52, Job Quest):** AoE heal (oGCD, AF ability)
   * Use for AoE healing if Whispering Dawn isn’t enough.
   * Your healing priority is still: Free oGCDs (fairy heals) > AF heals > GCD heals.
-* **Deployment Tactics (Lvl. 56, Job Quest):** Copies your shield on your target onto everyone near them (oGCD)
+* **Deployment Tactics (Lvl. 56, Job Quest):** Copies your shield on your target onto everyone near them (oGCD).
   * In dungeons, you can Adloquium both yourself and the tank prepull, then use Deployment Tactics to copy your shield onto the tank when theirs breaks. 
   * For bosses, you can cast Adloquium + Deployment Tactics on the tank prepull or during downtime to give the party a bigger shield than Succor’s shield. Don’t use it to heal instead of Succor during the pull – the healing plus the shield from Succor is more total HP. 
   * Note: This ability only works on Adloquium or Succor shields that you put on the target, and it does not copy the extra shield (Catalyze) from a critical Adloquium.
-* **Emergency Tactics (Lvl. 58, Job Quest):** Converts your next cast of Adloquium or Succor into a pure heal instead of a heal + shield (oGCD)
-  * This is a very niche ability and should rarely be used
+* **Emergency Tactics (Lvl. 58, Job Quest):** Converts your next cast of Adloquium or Succor into a pure heal instead of a heal + shield (oGCD).
+  * This is a very niche ability and should rarely be used.
   * The most common use that you might see is to save a DRK from Living Dead if you are out of AF stacks because shields don’t count as healing for this purpose.
-* **Dissipation (Lvl. 60, Job Quest):** Removes the fairy for 30s but gives you 3 AF stacks and a GCD healing buff (oGCD)
+* **Dissipation (Lvl. 60, Job Quest):** Removes the fairy for 30s but gives you 3 AF stacks and a GCD healing buff (oGCD).
   * While Dissipation is active, the fairy is gone. It does not Embrace and you cannot use fairy abilities. Be sure to use fairy abilities before using Dissipation.
   * The healing buff follows the same rules as Fey Illumination. 
   * Use Dissipation in dungeons near the end of a pull to refresh your AF stacks and buff your prepull shields for the next pull. You can also use it mid-pull as an emergency cooldown if having 3 AF stacks will help you heal. 
@@ -235,8 +235,8 @@ From Level 54 onwards, your GCD damage spells are now stronger but your prioriti
 
 * **Broil, Ruin II, Art of War (Lvl. 54, Job Quest):** Damage (GCD, upgraded)
   * Ruin becomes Broil and these spells do more damage but their usage and priority remains the same:
-    * 1 target: Maintain Bio II, then use Broil (or Art of War/Ruin II if you need to move).
-    * 2 targets: Maintain Bio II on both, then use Art of War instead of Broil.
+    * One target: Maintain Bio II, then use Broil (or Art of War/Ruin II if you need to move).
+    * Two targets: Maintain Bio II on both, then use Art of War instead of Broil.
     * 3+ targets: Only use Bio II if you can’t hit 3+ targets due to movement; otherwise use only Art of War.
 
 # Levels 61-70
@@ -249,10 +249,10 @@ Use Excogitation instead of Lustrate, if possible, when you need to use AF stack
 
 ### New Skills
 
-* **Excogitation (Lvl. 62):** Delayed single target heal (oGCD, AF ability)
+* **Excogitation (Lvl. 62):** Delayed single target heal (oGCD, AF ability).
   * The heal triggers either when the target’s HP goes below 50% or when the buff expires. The heal does not trigger if the target is killed in one hit from above 50% HP.
   * Use at the start of a dungeon pull and/or in place of Lustrate since it heals for more.
-* **Aetherpact (Lvl. 70, Job Quest):** Single target HoT consumes Faerie Gauge (oGCD, fairy ability)
+* **Aetherpact (Lvl. 70, Job Quest):** Single target HoT consumes Faerie Gauge (oGCD, fairy ability).
   * Your new Faerie Gauge gains 10 resources every time you use an AF ability while the fairy is active and can store up to 100. Note: if you haven’t summoned the fairy or have Dissipation active, you will gain no gauge.
   * Using Aetherpact consumes 10 Faerie Gauge to heal the target every 3s.
   * Use it to focus healing onto a single target, such as the tank – it’s stronger than Embrace and prevents the fairy from healing other people.
@@ -271,12 +271,12 @@ Use Chain Stratagem to help your party do more damage to bosses.
 
 ### New/Upgraded Skills
 
-* **Broil II, Ruin II (Lvl. 64):** Damage (GCD, upgraded)
+* **Broil II, Ruin II (Lvl. 64):** Damage (GCD, upgraded).
   * These spells do more damage but their usage and priority remains the same, except Art of War is never used in single target from this point forward:
-    * 1 target: Maintain Bio II, then use Broil II (or Ruin II if you need to move).
-    * 2 targets: Maintain Bio II on both, then use Art of War instead of Broil II.
+    * One target: Maintain Bio II, then use Broil II (or Ruin II if you need to move).
+    * Two targets: Maintain Bio II on both, then use Art of War instead of Broil II.
     * 3+ targets: Only use Bio II if you can’t hit 3+ targets due to movement; otherwise use only Art of War.
-* **Chain Stratagem (Lvl. 66):** Single target debuff that increases the crit rate of attacks against that enemy (oGCD)
+* **Chain Stratagem (Lvl. 66):** Single target debuff that increases the crit rate of attacks against that enemy (oGCD).
   * In dungeons, if you think it will take more than 2 minutes to reach the next boss, use it on an enemy. Otherwise, save it for the boss. 
   * In raids, use it on cooldown. Check out the other SCH guides if you want to learn about optimal usage.
 
@@ -291,33 +291,33 @@ In this level range, Scholar gains several strong non-AF oGCD healing tools, and
 With so many free oGCD heals, you shouldn’t need to spend AF stacks on healing very often – your healing priorities now look like this:
 
 * Non-AF oGCDs:
-  * Single target: Recitation + Excogitation, Aetherpact
-  * AoE: Summon Seraph + Consolation, Recitation + Indomitability, Fey Blessing, Whispering Dawn, Fey Illumination
+  * Single target: Recitation + Excogitation, Aetherpact.
+  * AoE: Summon Seraph + Consolation, Recitation + Indomitability, Fey Blessing, Whispering Dawn, Fey Illumination.
     * Note: Many of these can, and should, be used for single-target healing as well
 * AF oGCDs:
-  * Single target: Sacred Soil (At Level 78+) > Excogitation (non-Recitation) > Lustrate
-  * AoE: Sacred Soil (At Level 78+) > Indomitability (non-Recitation)
+  * Single target: Sacred Soil (At Level 78+) > Excogitation (non-Recitation) > Lustrate.
+  * AoE: Sacred Soil (At Level 78+) > Indomitability (non-Recitation).
 * GCDs:
-  * Single target: Adloquium >>> Physick
-  * AoE: Succor
+  * Single target: Adloquium >>> Physick.
+  * AoE: Succor.
 
 ### New/Upgraded Skills
 
-* **Recitation (Lvl. 74):** Removes the MP or AF cost and guarantees a crit heal for your next use of Adlo, Succor, Indomitability, or Excogitation (oGCD)
+* **Recitation (Lvl. 74):** Removes the MP or AF cost and guarantees a crit heal for your next use of Adlo, Succor, Indomitability, or Excogitation (oGCD).
   * In dungeons, use this prepull on Excogitation.
   * In raids, using Recitation on Indomitability is generally the most efficient use, but you might also consider using it on Excogitation or Succor in some situations – see the other SCH guides for more details.
   * Since Recitation makes your AF heals free, your healing priority is now Fairy heals = Recitation > AF heals > GCD heals. 
-* **Fey Blessing (Lvl. 76):** AoE heal (oGCD, fairy ability)
+* **Fey Blessing (Lvl. 76):** AoE heal (oGCD, fairy ability).
   * Use this with one of the highest priorities for AoE healing because it doesn’t cost AF stacks. 
   * Also use it in dungeons for extra tank healing.
-* **Sacred Soil (Lvl. 78):** Creates a bubble that provides a HoT + mitigation for anyone in it (oGCD, AF ability, upgraded)
+* **Sacred Soil (Lvl. 78):** Creates a bubble that provides a HoT + mitigation for anyone in it (oGCD, AF ability, upgraded).
   * Soil is now the highest priority AF heal, even for single target healing – it heals as much as Lustrate and more than Indomitability, while also providing 10% mitigation. Only use Lustrate or Indomitability if Sacred Soil is not available, there isn’t enough time for the HoT to heal your party, or the party cannot remain inside the bubble.
-* **Summon Seraph (Lvl. 80):** Replaces your fairy with one that heals and shields (oGCD, fairy ability)
-  * For 22s, your fairy’s Embrace now heals and shields the target, and you have access to 2 charges of Consolation (see below). You are unable to use Aetherpact, Fey Blessing, or Dissipation while Seraph is summoned. 
+* **Summon Seraph (Lvl. 80):** Replaces your fairy with one that heals and shields (oGCD, fairy ability).
+  * For 22s, your fairy’s Embrace now heals and shields the target, and you have access to two charges of Consolation (see below). You are unable to use Aetherpact, Fey Blessing, or Dissipation while Seraph is summoned. 
   * In dungeons, use Summon Seraph to boost the healing that the tank receives from your pet. You can alternate Summon Seraph on one pull and Aetherpact on the next to keep your tank healthy. 
   * Because Seraph and her abilities are fairy heals, Summon Seraph is a high-priority healing ability.
   * The animations and buff icons for Whispering Dawn and Fey Illumination change when Seraph is summoned, but the skills still do the same thing.
-* **Consolation (Lvl. 80):** AoE heal + shield (oGCD, requires Seraph)
+* **Consolation (Lvl. 80):** AoE heal + shield (oGCD, requires Seraph).
   * Use it, even for single target healing, if Seraph is summoned.
   * In bosses and raids, use it to heal AoE damage, ideally when there are multiple raidwides.
 
@@ -329,7 +329,7 @@ From Level 72 onwards, only skip DoT applications in favor of using Art of War i
 
 * **Biolysis, Broil III, Ruin II (Lvl. 72):** Damage (GCD, upgraded)
   * Bio II becomes Biolysis and these spells do more damage. The breakpoints for your priorities change as follows:
-    * 1 target: Maintain Biolysis, then use Broil III (or Ruin II if you need to move).
+    * One target: Maintain Biolysis, then use Broil III (or Ruin II if you need to move).
     * 2-4 targets: Maintain Biolysis on all targets, then use Art of War instead of Broil III.
     * 5+ targets: Only use Biolysis if you can’t hit 5+ targets due to movement; otherwise use only Art of War.
 
@@ -344,15 +344,15 @@ Use the new Protraction ability to heal and buff any following heals, and use Ex
 Despite upgrades to some healing spells, your healing priorities do not change: non-AF oGCD heals > AF heals > GCD heals.
 
 * Non-AF oGCDs:
-  * Single target: Protraction, Recitation + Excogitation, Aetherpact
-  * AoE: Summon Seraph + Consolation, Recitation + Indomitability, Fey Blessing, Whispering Dawn, Expedient, Fey Illumination
-    * Note: Many of these can, and should, be used for single-target healing as well
+  * Single target: Protraction, Recitation + Excogitation, Aetherpact.
+  * AoE: Summon Seraph + Consolation, Recitation + Indomitability, Fey Blessing, Whispering Dawn, Expedient, Fey Illumination.
+    * Note: Many of these can, and should, be used for single-target healing as well.
 * AF oGCDs:
-  * Single target: Sacred Soil > Excogitation (non-Recitation) > Lustrate
-  * AoE: Sacred Soil > Indomitability (non-Recitation)
+  * Single target: Sacred Soil > Excogitation (non-Recitation) > Lustrate.
+  * AoE: Sacred Soil > Indomitability (non-Recitation).
 * GCDs:
-  * Single target: Adloquium >>> Physick
-  * AoE: Succor
+  * Single target: Adloquium >>> Physick.
+  * AoE: Succor.
 
 ### New/Upgraded Skills
 
@@ -377,8 +377,8 @@ From Level 82 onwards, only skip DoT applications in favor of using Art of War i
 
 ### New/Upgraded Skills
 
-* **Broil IV, Ruin II, Art of War (Lvl. 82):** Damage (GCD, upgraded)
+* **Broil IV, Ruin II, Art of War (Lvl. 82):** Damage (GCD, upgraded).
   * These spells do more damage. The breakpoints for your priorities change as follows:
-    * 1 target: Maintain Biolysis, then use Broil IV (or Ruin II if you need to move).
+    * One target: Maintain Biolysis, then use Broil IV (or Ruin II if you need to move).
     * 2-3 targets: Maintain Biolysis on all targets, then use Art of War instead of Broil IV.
     * 4+ targets: Only use Biolysis if you can’t hit 4+ targets due to movement; otherwise use only Art of War.
