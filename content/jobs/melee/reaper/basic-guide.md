@@ -44,7 +44,7 @@ Reaper has access to a few resources that you will need to master to play the jo
 
 #### Reaper Fundamentals
 
-* Gibbet and Gallows are positional weaponskills. Gibbet receives additional damage if you use it from the targets flank and Gallows receives the bonus if used from targets rear. These abilities also buff each other, whenever you use Gibbet your next Gallows will be buffed and when you use Gallows your next Gibbet will be buffed. This buff lasts for 60 seconds and will also upgrade your Bloodstalk into an Unveiled Gibbet or Unveiled Gallows based on whichever buff you have. When you see these weaponskills mentioned, you can do either or but always make sure you are using the buffed version if applicable.
+* Gibbet and Gallows are positional weaponskills. Gibbet receives additional damage if you use it from the targets flank and Gallows receives the bonus if used from targets rear. These abilities also buff each other, whenever you use Gibbet your next Gallows will be buffed and when you use Gallows your next Gibbet will be buffed. This buff lasts for 60 seconds and will also upgrade your Bloodstalk into an Unveiled Gibbet or Unveiled Gallows based on whichever buff you have. When you see these weaponskills mentioned, you can do either/or, but always make sure you are using the buffed version if applicable.
 
   * The Unveiled Gibbet or Gallows does not consume the buff.
 * Shadow of Death applies the Death's Design debuff to your target, Whorl of Death applies the debuff to all targets within 5 yalms. This debuff can stack on itself with a maximum duration of 60s.
@@ -55,13 +55,13 @@ Reaper has access to a few resources that you will need to master to play the jo
   * Guillotine turns into Grim Reaping
   * Bloodstalk turns into Lemure's Slice
   * Grim Swathe turns into Lemure's Scythe
-* Void Reaping and Cross Reaping buff each other similarly to how Gibbet and Gallows do. Whenever you use Void Reaping your next Cross Reaping will deal more damage. This buff does not persist when Enshroud ends so you are able to start on whichever Reaping skill you want every enshroud. When you see these weaponskills mentioned, you can do either or but always make sure you are using the buffed version if applicable.
-* Soul Sow is spell with a 5 seconds cast time in combat but is instant outside of Combat. When applied the Soul Sow ability will change into Harvest Moon. Harvest Moon is a long range spell that does a large amount of AoE damage. There are a few ways to utilize this ability:
+* Void Reaping and Cross Reaping buff each other similarly to how Gibbet and Gallows do. Whenever you use Void Reaping your next Cross Reaping will deal more damage. This buff does not persist when Enshroud ends so you are able to start on whichever Reaping skill you want every enshroud. When you see these weaponskills mentioned, you can do either/or, but always make sure you are using the buffed version if applicable.
+* Soul Sow is spell with a 5 seconds cast time in combat but is instant outside of Combat. When applied, the Soul Sow ability will change into Harvest Moon. Harvest Moon is a long-range spell that does a large amount of AoE damage. There are a few ways to utilize this ability:
 
-  * Harvest Moon whenever you have to disengage from an enemy.
+  * Harvest Moon whenever you have to disengage from an enemy for longer than global cooldown.
   * Harvest Moon when you are able to deal AoE damage with it
   * Harvest Moon at least once each encounter.
-  * Soul Sow before every boss pull and inbetween dungeon packs.
+  * Soul Sow before every boss pull and in-between dungeon packs.
 
 #### The Opener:
 
