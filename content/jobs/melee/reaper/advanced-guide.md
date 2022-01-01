@@ -93,7 +93,7 @@ Note: The Sequence of Gibbet / Gallows and Void / Cross Reaping are not a requir
 
 ### **Fast Enshroud Opener**
 
-![](https://lh6.googleusercontent.com/2x9WWGUaF1Lprj8g25kpnAp1aR4wRfT_5FbyU60IHew0FwDfC8tU4-E4ZjA7CrIXbvP51cizhrXROkwIggnvj4sA5ftSOgY3IyjQLlTauW7aO5TlbUgpKJ1gFOZFSiibg0DC4kPK)
+![](/img/jobs/rpr/rpr_enshroud_opener.png)
 
 * Soul Sow Pre-pull
 * Harpe at 2 seconds on the countdown
@@ -118,6 +118,8 @@ Let’s break apart this opener and discuss and explain a few things:
 
   * Optimally, we would prefer not to use a potion in the opener but we will have to based on certain fight timings or mechanics. I will go more into the potion windows below.
   * If you need to use a potion, you can use either 3s on pre-pull or weave it late after the first Soul Slice.
+
+    * Alternatively if you are able to double weave Arcane Circle and Potion without clipping your GCD it is optimal to Shadow of Death twice at the start of the rotation and Arcane Circle + Potion after the second Shadow of Death. This will trade a Shadow of Death in potion for an Infernal Slice.
 * Why is Gluttony so late?
 
   * Moving it late means it captures more buffs at their tail end. Using it early may have us using it before buffs; using it later will get it and its Reaver spenders into more buffs.
@@ -137,7 +139,7 @@ Let’s break apart this opener and discuss and explain a few things:
 
 ### Early Gluttony Opener
 
-![](https://cdn.discordapp.com/attachments/920133222933876766/921268511102365736/early_Gluttony.png)
+![](/img/jobs/rpr/early_gluttony.png)
 
 * Prepull Soul Sow
 * Potion @ 3s on countdown if you can’t use potion at 2 minute mark
@@ -187,7 +189,7 @@ Let’s break apart this opener and discuss and explain a few things:
 
 Every two minutes, we will be entering our burst. We currently have two types of burst windows that we can do on the two minute mark. The first, and overall best, will be the Double Shroud window. Normally, doing two Enshrouds back to back, or within one GCD of each other, is impossible because of the 15 second cooldown timer of Enshroud. We can, however, extend the time we are in Shroud by using the few GCDs we have available during the buff that do not interact with the buff itself. Shadow of Death, Harvest Moon and Harpe are all available to be used while we are in Enshroud and out of those three, one of them is critical to how we play the job -- Shadow of Death. Of course, we don’t want to overcap our Death’s Design timers, so the goal here is to enter Enshroud with only a few seconds left on the Death’s Design debuff. Here is the breakdown of what the ideal Double Enshroud window looks like:
 
-![](https://lh6.googleusercontent.com/xLhZaaGFbmr-mlJNFeX3SrmWVNQjf81GNZY5QquYqmnANOr_1DwQxE_VZQvIz3s1-pVAxJ_MoOSltYPETrzlWNnXkuWGtfEK7_b4-HxGclvPHo6zFer1iC0s2UOIh0wqhOURzjQk)
+![](/img/jobs/rpr/double_communio.png)
 
 Sequence:
 
@@ -237,7 +239,7 @@ Description:
 
 ### **Double Enshroud, Harvest Moon Variant**
 
-![](https://cdn.discordapp.com/attachments/920133222933876766/921860264733864016/unknown.png)
+![](/img/jobs/rpr/harvest_moon_adjustment.png)
 
 Sequence:
 
@@ -285,9 +287,9 @@ We won’t always have to use Harvest Moon for movement, as it is likely that th
 
 This optimization requires you to insert a Shadow of Death sometime before you enter your Double Shroud window, and it will create a very tight Arcane Circle weave window. If pulled off successfully, you will land a Harvest Moon on the enemy with most raid buffs in play, the exceptions being Trick Attack and Dancer buffs. 
 
-Double Shroud Variant - Single SoD
+#### Double Shroud Variant - Single SoD
 
-![Image](https://media.discordapp.net/attachments/920133222933876766/921859423926886490/unknown.png?width=1920&height=296)
+![Image](/img/jobs/rpr/double_enshroud_single_extension.png)
 
 Sequence:
 
@@ -323,7 +325,7 @@ Sometimes, if the fight allows it, it may be better to just correct your Death�
 
 Triple Shroud Window
 
-![](https://cdn.discordapp.com/attachments/920133222933876766/921859706245513246/unknown.png)
+![](/img/jobs/rpr/triple_enshroud_window.png)
 
 Sequence:
 
@@ -376,7 +378,7 @@ This isn’t without risk. Due to the potion's cooldown, there is a small window
 
 Below you can see the effect of a potion used in the opener at six minutes vs. a potion used at two minutes, and then at 6:30. This chart shows us two things: losing a potion usage is never optimal and, if possible, the two minute potion is our best bet.
 
-![](https://lh6.googleusercontent.com/tyEehNWcRM9cKy1IBH8XiKiEdEeQuu7t0mcxle0S4XdTpsiFMv0AW5ewW0AzcUsBgoKfaRNkYNPHmK5CKt5nE33Mx1dDE3mixqBTxSMU45lD6v7vlFEsflM5rqQzRRt1krJPP8G9)
+![](/img/jobs/rpr/opener_two_minute_potion.png)
 
 - - -
 
@@ -392,7 +394,7 @@ There are two ways to track Trick Attack timing without asking your Ninja every 
 
 While there isn’t much optimization or advanced theorycrafting here, I wanted to provide a little insight into what our filler windows look like:
 
-![](https://cdn.discordapp.com/attachments/920133222933876766/921859906989092914/unknown.png)
+![](/img/jobs/rpr/even_to_odd_filler.png)
 
 * After opener Enshroud and Double Enshroud phases
 * 10 Filler GCDs  (Combo actions are preferred)
@@ -401,7 +403,7 @@ While there isn’t much optimization or advanced theorycrafting here, I wanted 
 * 1 Gluttony, 3 Bloodstalk Variants
 * 5 Gibbet / Gallows
 
-![Image](https://media.discordapp.net/attachments/920133222933876766/921859996524871720/unknown.png)
+![Image](/img/jobs/rpr/odd_to_even_filler.png)
 
 * After Single Enshroud (Odd Minute) Windows
 * 8 Filler GCDS (Combo actions are preferred)
@@ -422,7 +424,7 @@ As we discussed during the Double Shroud windows, there are three factors that w
 
 The concept of Dead Zoning is pooling our resources during the first minute of the encounter. After your first Enshroud, your filler period will end up looking like this:
 
-![Image](https://media.discordapp.net/attachments/920133222933876766/921860359890034718/unknown.png)
+![Image](/img/jobs/rpr/dead_zone_filler.png)
 
 * After Opener Enshroud
 * 24 Filler GCDs (Combo actions preferred)
@@ -436,15 +438,15 @@ By doing this we do a few things:
 1. Ensure we have enough Soul every time we enter a double Shroud window to execute Gluttony at the end.
 2. Create an insurance policy, in the event we have to disconnect or the boss jumps at odd times. 
 
-![](https://lh3.googleusercontent.com/tguTDSg3oKva532jXl1Z0U-K2_SGskJ4scn-pdHPKJmW0MsIjql9XWOX9DbTXlcJAwPdGi2B0TXVvdMa02aKU-V5ha1XzprZPtKui-LMmdrccQGP5nEHzR47cxZaf59JAuiC1tOq)
+![](/img/jobs/rpr/soul_chart.png)
 
 Above you can see how, on average, we have enough Shroud and Soul to execute our burst at any time when we pool for the first minute. You will ultimately be holding onto a lot of resources all the time and the issue of overcapping becomes a potential problem if you aren’t paying attention.
 
-![](https://lh5.googleusercontent.com/gqz0qpLTMo70MgQoyMIe8MN3oa4MYZimtmT78UahXMCnuSX3xtVlQVHVXwxBUU4UGPFq6O-MpdIksxvUO__txlqfv_IxzjvGfL_i99YnOxD7NO32Mh32YKiR-Noe4XAafnCnSLgr)
+![](/img/jobs/rpr/regular_vs_dead_zone.png)
 
 Above you can see the benefits of Dead Zoning. This was simulated using a party composition containing a Ninja, Red Mage and Dancer in order to show the effect it has on our aDPS. Despite missing out on a Shroud during a Trick at the one minute mark, Dead Zoning pulls ahead when the resources are dumped at around the 9:00 minute mark. This resource dump can happen anytime after the 5:30 minute mark, and the pooling strategy will end better, as more Gluttonys fit into more raid buffs. Below, you can see the effect that Dead Zoning has on minimizing Gluttony’s drift.
 
-![](https://lh4.googleusercontent.com/wV0rNg2blWlNAyuGem09WQ5siB_hZodw0kooEgEwcqfZZHcnBwNw1QIIGj9661mfGBAIw0Xc9efysD3ZWHmieHdJk4lpZ4jxchxFDWlFRFlCciYk1YO0qGZhYGPVE081nOxj3hRj)
+![](/img/jobs/rpr/dzgluttonydrift.png)
 
 Dead Zoning comes with some disadvantages though, which are important to talk about:
 
@@ -463,7 +465,7 @@ On initial observation, Reaper is a builder and spender class, but has most of i
 
 At a 2.5s GCD, Arcane circle drifts .5s each rotation and Gluttony drifts anywhere from 1-2 seconds every two minutes. The goal with higher SkS tiers was to try and minimize this. We examined four different tiers, those being 2.5, 2.49, 2.48 and 2.47. Below, you can find a graph displaying our findings.
 
-![](https://lh4.googleusercontent.com/W_q6GzJ6Sbu9HXKWO0aagP0kLJm4YRPAw7wwCfVIyAPg1RBQB4eDTLjfeOqPbjwB6R00px_L6zuocURZdEPFObn9bKjCOe4vVyUqH4XhTFSyRYHrl2O-A4avw76uqNVVJzbaHct6 "Chart")![](https://lh3.googleusercontent.com/YLShcJdd4Eu8nvq1K2t1YTCC5IYMmad3eP5A-KAe-KwaLK97jDpPeWb3Pyq83699nt-z75NJItCgo7FMQm1kRFR7LHavzlqZHyVE7QXD2pXzd69u7xXBAVYKJQ640j6OCxpxxPSI "Chart")
+![](https://lh4.googleusercontent.com/W_q6GzJ6Sbu9HXKWO0aagP0kLJm4YRPAw7wwCfVIyAPg1RBQB4eDTLjfeOqPbjwB6R00px_L6zuocURZdEPFObn9bKjCOe4vVyUqH4XhTFSyRYHrl2O-A4avw76uqNVVJzbaHct6 "Chart")![](/img/jobs/rpr/arcanedrift.png "Chart")
 
 All of these rotations assumed full uptime, except for one disconnect at around three minutes, in which Harvest Moon was used. 
 
@@ -485,7 +487,7 @@ Currently this burst window only works at the two minute mark of the fight. Glut
 
 Below is an example of what a two minute burst could look like while trying to keep Gluttony on CD:
 
-![Image](https://media.discordapp.net/attachments/920133222933876766/921859291965698089/unknown.png?width=1920&height=328)
+![Image](/img/jobs/rpr/shroud_gluttony_shroud.png)
 
 Sequence:
 
@@ -636,7 +638,7 @@ You can use the Early Gluttony opener and push back the Arcane Circle usage as f
 
 The second modification is a little more complex, but requires using an altered opener that may come with a cost. Below is the adjusted opener and will always provide you with the Sacrifice stack if the DNC uses Starfall Dance after Technical Step:
 
-![](https://cdn.discordapp.com/attachments/920133222933876766/921270875595091968/earlyGluttonyDNCAdjustment.png)
+![](/img/jobs/rpr/earlygluttonydncadjustment-1-.png)
 
 * Soul Sow before pull
 * Harpe at 2s on the countdown
@@ -659,3 +661,11 @@ If your only concern is to increase your fflogs rDPS ranking, then you don’t n
 If you are trying to min/max your opening sequence to squeeze out the most possible DPS then you need to consider a few things. First is what opener you would normally be using in place of this: Early Gluttony, or Fast Shroud. If you need a refresher on these two openers and their purpose then head over to the Opener section of this guide. Next you need to consider your party composition. Below is a little tool that I made that will help you optimize your opener. Just simply select what opener you would use and what party buffs you have rolling and it will tell you if you should adjust or not.
 
 [RPR DNC Adjusted Opener Tool](https://docs.google.com/spreadsheets/d/1M8az3TuWeuDDh69965brE9pD9gjeWgNt5xvgERbZ1JQ/edit?usp=sharing)
+
+
+
+### Reaper Damage Delay
+
+Below is the damage delay for all of the Reaper weaponskills, abilities and spells. Big thanks to Shalfu Nyan for putting this together. This information is incredibly useful because it will help determine when an ability will fall into raid buffs or when you may risk ghosting a weaponskill. For example, if a boss is about to jump you want to try and avoid using Soul Slice, Plentiful Harvest or Harvest Moon as they take a long time to register damage and may end up being ghosted.
+
+![](/img/jobs/rpr/damagedelayrpr.png)
