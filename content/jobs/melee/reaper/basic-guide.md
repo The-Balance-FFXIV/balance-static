@@ -54,7 +54,7 @@ Reaper has access to a few resources that you will need to master to play the jo
   * Gallows turns into Cross Reaping
   * Guillotine turns into Grim Reaping
   * Bloodstalk turns into Lemure's Slice
-  * Grim Swathe into Lemure's Scythe
+  * Grim Swathe turns into Lemure's Scythe
 * Void Reaping and Cross Reaping buff each other similarly to how Gibbet and Gallows do. Whenever you use Void Reaping your next Cross Reaping will deal more damage. This buff does not persist when Enshroud ends so you are able to start on whichever Reaping skill you want every enshroud. When you see these weaponskills mentioned, you can do either or but always make sure you are using the buffed version if applicable.
 * Soul Sow is spell with a 5 seconds cast time in combat but is instant outside of Combat. When applied the Soul Sow ability will change into Harvest Moon. Harvest Moon is a long range spell that does a large amount of AoE damage. There are a few ways to utilize this ability:
 
