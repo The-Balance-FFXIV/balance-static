@@ -44,14 +44,14 @@ Reaper has access to a few resources that you will need to master to play the jo
 
 #### Reaper Fundamentals
 
-* Gibbet and Gallows are positional weaponskills. Gibbet receives additional damage if you use it from the targets flank and Gallows receives the bonus if used from targets rear. These abilities also buff each other, whenever you use Gibbet your next Gallows will be buffed and when you use Gallows your next Gibbet will be buffed. This buff last for 60 seconds and will also upgrade your Bloodstalk into an Unveiled Gibbet or Unveiled Gallows based on whichever buff you have. When you see these weaponskills mentioned, you can do either or but always make sure you are using the buffed version if applicable.
+* Gibbet and Gallows are positional weaponskills. Gibbet receives additional damage if you use it from the targets flank and Gallows receives the bonus if used from targets rear. These abilities also buff each other, whenever you use Gibbet your next Gallows will be buffed and when you use Gallows your next Gibbet will be buffed. This buff lasts for 60 seconds and will also upgrade your Bloodstalk into an Unveiled Gibbet or Unveiled Gallows based on whichever buff you have. When you see these weaponskills mentioned, you can do either or but always make sure you are using the buffed version if applicable.
 
   * The Unveiled Gibbet or Gallows does not consume the buff.
 * Shadow of Death applies the Death's Design debuff to your target, Whorl of Death applies the debuff to all targets within 5 yalms. This debuff can stack on itself with a maximum duration of 60s.
 * The following skills are upgraded when you use Enshroud
 
   * Gibbet turns into Void Reaping
-  * Gallows turns into Gallows Reaping
+  * Gallows turns into Cross Reaping
   * Guillotine turns into Grim Reaping
   * Bloodstalk turns into Lemure's Slice
   * Grim Swathe into Lemure's Scythe
@@ -62,8 +62,6 @@ Reaper has access to a few resources that you will need to master to play the jo
   * Harvest Moon when you are able to deal AoE damage with it
   * Harvest Moon at least once each encounter.
   * Soul Sow before every boss pull and inbetween dungeon packs.
-
-
 
 #### The Opener:
 
