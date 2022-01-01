@@ -185,7 +185,7 @@ Let’s break apart this opener and discuss and explain a few things:
 
 - - -
 
-### **Double Enshroud Window**
+## **Double Enshroud Window**
 
 Every two minutes, we will be entering our burst. We currently have two types of burst windows that we can do on the two minute mark. The first, and overall best, will be the Double Shroud window. Normally, doing two Enshrouds back to back, or within one GCD of each other, is impossible because of the 15 second cooldown timer of Enshroud. We can, however, extend the time we are in Shroud by using the few GCDs we have available during the buff that do not interact with the buff itself. Shadow of Death, Harvest Moon and Harpe are all available to be used while we are in Enshroud and out of those three, one of them is critical to how we play the job -- Shadow of Death. Of course, we don’t want to overcap our Death’s Design timers, so the goal here is to enter Enshroud with only a few seconds left on the Death’s Design debuff. Here is the breakdown of what the ideal Double Enshroud window looks like:
 
@@ -323,7 +323,7 @@ There will be cases where you will be unable to Shadow of Death twice during Shr
 
 Sometimes, if the fight allows it, it may be better to just correct your Death’s Design timer and go for a default double Shroud window. This can be accomplished at the cost of only 10 Soul, which means fights that end with 40 or less Soul can do this without worrying about punishment. 
 
-Triple Shroud Window
+## Triple Shroud Window
 
 ![](/img/jobs/rpr/triple_enshroud_window.png)
 
@@ -392,27 +392,15 @@ If you are playing with a Ninja you can use the extra Enshroud into the odd minu
 
 There are two ways to track Trick Attack timing without asking your Ninja every 20 seconds. The first will be your Gluttony cooldown timer. Trick’s end will roughly align when Gluttony comes off the cooldown. If your Gluttony has about 15 seconds left on its cooldown, then it is safe to assume that Trick is coming up. The next best way to tell is using your Shadow of Death timing. Assuming you aren’t overcapping, it will be a few GCDs after the timer goes below 30s between burst windows. You can almost always use Shadow of Death before Trick Attack to bring your timer closer to 60 and then enter Enshroud a bit afterwards. This Enshroud window doesn’t have any special mechanics, and can be executed like normal.
 
-
-
 ### Astrologian Cards
 
-
-
 An Astrologian can draw a fresh card every 30s and just like us they usually have an extra one that can be dropped outside of the main burst windows. Because our Enshroud window is flexible, you can plan out its usage to be paired with a potential Astrologian card. This card will usually happen at the 60 second window but its recommended you coordinate with your Astrologian and other raid members as you have a very flexible burst.
-
-
 
 ### Ranged Utility
 
 Lastly you can use this Enshroud for some unique utility optimization. Because Communio has a range of 25y you can plan an Enshroud windows around disconnect windows. Because Enshroud gcds have a 1.5s recast you will have to use a Shadow of Death to more comfortable move out of range. A good example of this is in the first Endwalker Extreme trial. You can see Emiya Bolir perform this trick in this video: https://www.twitch.tv/videos/1231915656.
 
 Be warned that when doing it this way, you want to not over Shadow of Death and you also need to be able to perform all of your Reaping GCDs otherwise this is a loss over just using Harpe for the disconnect.
-
-
-
-
-
-
 
 - - -
 
@@ -484,8 +472,6 @@ Ultimately, we aren’t sure what will be better for content until we have the c
 - - -
 
 ## The 2.49 (2.48) Global Cooldown
-
-
 
 On initial observation, Reaper is a builder and spender class, but has most of its “builders” tied to strictly-timed abilities such as Gluttony, Soul Slice and Plentiful Harvest. Our combo actions will only supply about 30% of the resources needed for our burst. This gives the initial impression that a higher GCD will lead to higher results. Alternatively we could examine the 123 second neutral rotation and attempt to perform that in 120s where there is no perfect fit. A 2.42 GCD will bring the Reaper to that neutral state, but is a relatively low skill speed and will have a pretty big impact on our other stats. Furthermore, Reaper operates just fine in fights that last less than ten minutes.
 
@@ -636,13 +622,15 @@ From this evaluation, we can see that situation #3 offers us the best result, as
 
 - - -
 
-Disconnect Mapping
+## Disconnect Mapping
 
 Disconnecting will not be super exciting for Reaper. We have one Harvest Moon we can use in between each phase, and one Instant Harpe every 20 seconds from Egress. Outside of that, we will have to slidecast, which isn’t always possible. 
 
 It is important to remember that you don’t have to immediately use Ingress/Egress and go for the instant Harpe immediately. A good example is Shiva’s Icelit Dragonsong. Here, melees will have to disconnect for upward of four GCDs, and will have to move quite a bit during one of those GCDs. What you can do here is hardcast two Harpes, before having the move to dodge your puddles, where you can Harvest Moon and then Ingress and instant cast Harpe to maintain uptime.
 
 Plentiful Harvest and Guillotine also have some large ranges, and may also be used for disconnect optimization depending on the fight. This will require planning, otherwise you will lose a lot of potency. 
+
+Lastly you can also use the odd-minute Enshroud to plan your disconnects. See the Odd Minute Enshroud section above for more information.
 
 - - -
 
@@ -652,7 +640,7 @@ Nothing super special here. Limit Break Three will cost us about three GCDs, or 
 
 - - -
 
-### The Dancer Dilemma 
+## The Dancer Dilemma 
 
 Arcane Circle is a very unique and interesting skill but getting the max amount of stacks can be problematic if all the party members in the raid are not using weapon skills. This is mostly a non-issue but there are at least two jobs that have a number of global cooldowns that are listed as “abilities” and thus won’t generate any Sacrifice stacks. Ninja’s Mudras will not generate a stack for us but this is rarely ever a problem as they typically use weaponskills during the first part of our Arcane Circle. DNC has their steps, finishes and Tillana, all of which are counted as abilities and these abilities are what they are often using during the Ceremony Circle portion of Arcane Circle. This means that when playing with a DNC there is a solid chance that you will miss out on 44p from your Plentiful Harvest because it will fire off at seven stacks.
 
@@ -688,7 +676,7 @@ If you are trying to min/max your opening sequence to squeeze out the most possi
 
 [RPR DNC Adjusted Opener Tool](https://docs.google.com/spreadsheets/d/1M8az3TuWeuDDh69965brE9pD9gjeWgNt5xvgERbZ1JQ/edit?usp=sharing)
 
-### Reaper Damage Delay
+## Reaper Damage Delay
 
 Below is the damage delay for all of the Reaper weaponskills, abilities and spells. Big thanks to Shalfu Nyan for putting this together. This information is incredibly useful because it will help determine when an ability will fall into raid buffs or when you may risk ghosting a weaponskill. For example, if a boss is about to jump you want to try and avoid using Soul Slice, Plentiful Harvest or Harvest Moon as they take a long time to register damage and may end up being ghosted.
 
