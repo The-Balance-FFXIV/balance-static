@@ -9,7 +9,7 @@ changelog:
   - date: 2021-10-29T02:48:36.195Z
     message: Created page
 ---
-# Dragoon Leveling Guide
+# Dragoon Leveling Guide 
 
 ## Gear
 
