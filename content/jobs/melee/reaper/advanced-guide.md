@@ -382,11 +382,37 @@ Below you can see the effect of a potion used in the opener at six minutes vs. a
 
 - - -
 
-## Trick Enshroud
+## Odd Minute Enshroud
 
-If we are doing a Double Communio burst, then we get one Enshroud window that we can use freely between each burst window. If you are playing with a Ninja, it is recommended that you use this Shroud window during Trick Attack. Otherwise, you can use it freely, as long as it doesn’t overlap with your Gluttony cooldown.
+Reaper generates three shrouds every two minutes but only two can really be used in the 2-minute burst window. This leaves the an extra Shroud that can be used for a few things
+
+### Trick Enshroud
+
+If you are playing with a Ninja you can use the extra Enshroud into the odd minute trick windows. This will be a pretty significant gain to your adps and your ninjs rdps. 
 
 There are two ways to track Trick Attack timing without asking your Ninja every 20 seconds. The first will be your Gluttony cooldown timer. Trick’s end will roughly align when Gluttony comes off the cooldown. If your Gluttony has about 15 seconds left on its cooldown, then it is safe to assume that Trick is coming up. The next best way to tell is using your Shadow of Death timing. Assuming you aren’t overcapping, it will be a few GCDs after the timer goes below 30s between burst windows. You can almost always use Shadow of Death before Trick Attack to bring your timer closer to 60 and then enter Enshroud a bit afterwards. This Enshroud window doesn’t have any special mechanics, and can be executed like normal.
+
+
+
+### Astrologian Cards
+
+
+
+An Astrologian can draw a fresh card every 30s and just like us they usually have an extra one that can be dropped outside of the main burst windows. Because our Enshroud window is flexible, you can plan out its usage to be paired with a potential Astrologian card. This card will usually happen at the 60 second window but its recommended you coordinate with your Astrologian and other raid members as you have a very flexible burst.
+
+
+
+### Ranged Utility
+
+Lastly you can use this Enshroud for some unique utility optimization. Because Communio has a range of 25y you can plan an Enshroud windows around disconnect windows. Because Enshroud gcds have a 1.5s recast you will have to use a Shadow of Death to more comfortable move out of range. A good example of this is in the first Endwalker Extreme trial. You can see Emiya Bolir perform this trick in this video: https://www.twitch.tv/videos/1231915656.
+
+Be warned that when doing it this way, you want to not over Shadow of Death and you also need to be able to perform all of your Reaping GCDs otherwise this is a loss over just using Harpe for the disconnect.
+
+
+
+
+
+
 
 - - -
 
@@ -416,7 +442,7 @@ Understanding how these work is crucial to understanding the next part of this d
 
 - - -
 
-“Dead Zone” Mapping
+### “Dead Zone” Mapping
 
 Now, let’s talk about the most boring part of Reaper optimization, a phase that I am calling the “Dead Zone” because of how lifeless it may feel. As we already discussed, in order to adapt to the 120s buff cycle, the Reaper has to remove one GCD from its 123 second rotation. This means that every 120s, the Reaper loses about 10 Soul. This isn’t super problematic in terms of Enshrouding on time, as we won’t have to delay Enshroud until around the ten minute mark. It is, however, problematic when it comes to our best friend, Gluttony.
 
@@ -459,7 +485,7 @@ Ultimately, we aren’t sure what will be better for content until we have the c
 
 ## The 2.49 (2.48) Global Cooldown
 
-One of the things we have been trying to figure out is what GCD tier Reaper will want to play at. Currently, this is a bit hard to figure out because we aren’t 100% sure on how stats will function in Endwalker. With the stat squish on the horizon, there are a lot of unknown variables. We can, however, use the values we do have now and try to make some educated guesses.
+
 
 On initial observation, Reaper is a builder and spender class, but has most of its “builders” tied to strictly-timed abilities such as Gluttony, Soul Slice and Plentiful Harvest. Our combo actions will only supply about 30% of the resources needed for our burst. This gives the initial impression that a higher GCD will lead to higher results. Alternatively we could examine the 123 second neutral rotation and attempt to perform that in 120s where there is no perfect fit. A 2.42 GCD will bring the Reaper to that neutral state, but is a relatively low skill speed and will have a pretty big impact on our other stats. Furthermore, Reaper operates just fine in fights that last less than ten minutes.
 
@@ -475,7 +501,7 @@ While it's hard to tell until we can get our hands on functioning damage formula
 
 - - -
 
-### Gluttony Split Shroud
+## Gluttony Split Shroud
 
 If you use the Early Gluttony opener to maintain Gluttony’s cooldown, you will also need to alter your burst window in order to maintain its cooldown. This burst window is objectively weaker but comes with the upside of extra Gluttony usages depending on the fight's phasing or kill time. This Burst window doesn’t come without its own set of issues though and at some point you will want to play Reaper with a priority system. 
 
@@ -661,8 +687,6 @@ If your only concern is to increase your fflogs rDPS ranking, then you don’t n
 If you are trying to min/max your opening sequence to squeeze out the most possible DPS then you need to consider a few things. First is what opener you would normally be using in place of this: Early Gluttony, or Fast Shroud. If you need a refresher on these two openers and their purpose then head over to the Opener section of this guide. Next you need to consider your party composition. Below is a little tool that I made that will help you optimize your opener. Just simply select what opener you would use and what party buffs you have rolling and it will tell you if you should adjust or not.
 
 [RPR DNC Adjusted Opener Tool](https://docs.google.com/spreadsheets/d/1M8az3TuWeuDDh69965brE9pD9gjeWgNt5xvgERbZ1JQ/edit?usp=sharing)
-
-
 
 ### Reaper Damage Delay
 
