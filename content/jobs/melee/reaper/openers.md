@@ -1,5 +1,7 @@
 ---
 title: Reaper Openers
+authors:
+  - Balance-RPR-Staff
 patch: "6.01"
 lastmod: 2022-01-01T04:45:45.748Z
 ---
@@ -8,7 +10,7 @@ lastmod: 2022-01-01T04:45:45.748Z
 ![](/img/jobs/rpr/rpr_enshroud_opener.png)
 
 * Soul Sow pre-pull
-* Cast Harpe at 2 seconds on the countdown
+* Cast Harpe at 2s on the countdown
 * Shadow of Death
 
   * Arcane Circle as fast possible
@@ -45,7 +47,7 @@ lastmod: 2022-01-01T04:45:45.748Z
 
 * Soul Sow pre-pull
 * Use Tincture / Potion at 3s on Countdown
-* Cast Harpe at 2 seconds on the countdown
+* Cast Harpe at 2s on the countdown
 * Shadow of Death
 
   * Arcane Circle - If possible, move this to after the next GCD only do it here if your Plentiful Harvest clips later on.
