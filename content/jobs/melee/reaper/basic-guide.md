@@ -144,6 +144,8 @@ Reaper can be played well by just following a priority system. Below is the reco
 * Hit your positionals: Gibbet and Gallows have rear and flank positionals respectively. Make sure you are attacking in the correct position when using them. Reaper has a lot of flexibility on when you can use these abilities so try to hold them if you can’t hit them. If you must hit them then utilize True North to hit them from any angle.
 * Slidecasting: Soul Sow, Harpe and Communio all have cast times associated with them. You can start moving about 80% through the cast bar and still execute the ability. Utilize this to not miss damage and not take unnecessary damage. 
 
+![](/img/jobs/rpr/ffxiv_12262021_003254_124.png)
+
 ### Next Level
 
 When you feel like you have mastered the basics of Reaper, head over the [Advanced Guide](https://www.thebalanceffxiv.com/jobs/melee/reaper/advanced-guide/) to learn how to play the job into raid buffs. The Advanced guide will cover a lot from Double Shroud windows to specific fight mapping tools!
