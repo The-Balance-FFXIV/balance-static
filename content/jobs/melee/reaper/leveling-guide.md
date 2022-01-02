@@ -28,12 +28,12 @@ Here, you will have to complete a short quest. Once complete, congratulations --
 
 * Reaper wears maiming gear; the same armor type that Dragoon wears.
 * You can purchase a better mainhand weapon in Rhalgr’s Reach by spending 600 of Allagan Tomestones of Poetics.
-* * Talk to (NPC Name)
-  * Select X option
+* * Eschina at 13.8, 11.7
+  * Select Scaevan Gear Exchange
   * Purchase Augmented Scaevan Scythe
 * You can purchase armor using Allagan Tomestones of Poetics in Rhalgr’s Reach
-* * Talk to NPC Name
-  * Select X Option
+* * Enna at 13.8, 11.7
+  * Select the Dow II option
   * Purchase Augmented Scaevan Armor
   * * It is recommended that you start with left side pieces. You may not need an earring if you pre-ordered Endwalker and received Melphina’s Earring, or you obtained the Bozjan Earring, as they will provide a 30% boost to experience gain.
     * You can purchase two of the same rings from this vendor!
@@ -193,8 +193,6 @@ Your new rotation at level 80 will look like the following:
 * Grim Swathe when at 50 or more Soul
 * Use Spinning Scythe > Nightmare Scythe as filler.
 
-
-
 ### Level 81-90
 
 At level 82 you learn two new abilities: Soul Sow and Harvest Moon. This is a special ability with some special rules.
@@ -211,11 +209,7 @@ At level 82 you learn two new abilities: Soul Sow and Harvest Moon. This is a sp
   * Once every boss fight or before a boss becomes untargetable for five seconds.
   * Use it if you have to disconnect from the boss or near the end of the fight or before the boss becomes untargetable.
 
-
-
 At level 84, your Arcane Crest will receive a significant upgrade. Whenever you break the shield on your Arcane Crest, you will give all surrounding party members a 100 potency regen that will last for 15 seconds. This will effectively restore 500 potency of healing to your party members, which is pretty massive. While this is not directly related to your damage, it is recommended you get used to utilizing this ability, as it will be a powerful tool in your tool kit.
-
-
 
 At level 86, you will gain a passive that will enhance your Enshroud phase. The following aspects will change:
 
@@ -229,10 +223,6 @@ At level 86, you will gain a passive that will enhance your Enshroud phase. The 
 * Your enshroud combo changes to the following sequence:
 
   * Single target: Void Reaping > Cross Reaping > Lemure's Slice (Weaved inbetween) > Void Reaping > Cross Reaping > Lemure's Slice (Weave inbetween) > Void Reaping
-
-
-
-
 
 At level 88, you learn Plentiful Harvest. You will gain a passive that alters how Arcane Circle functions.
 
@@ -248,8 +238,6 @@ At level 88, you learn Plentiful Harvest. You will gain a passive that alters ho
 
   * Plentiful Harvest builds 50 shroud allowing you enshroud instantly right after.
 
-
-
 At level 90, you will learn your final skill, Communio. Communio is a cast spell that is only available during Enshroud and will effectively replace the last global cooldown during the Enshroud. 
 
 Your new Enshroud rotation will look like this:
@@ -263,8 +251,6 @@ Multi-target  \[3 or more Targets]
 * Grim Reaping > Grim Reaping > Lemure's Scythe > Grim Reaping > Grim Reaping > Lemure's Scythe > Communio
 
 That’s it! You made it to level 90. I hope this leveling guide helped you ease your way into playing Reaper. When you have a good grasp of your abilities, I recommend you head on over to the Reaper Basics guide located here to learn some more about how to more effectively play Reaper.
-
-
 
 #### Single Target
 
