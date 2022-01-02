@@ -8,8 +8,8 @@ changelog:
     message: Page created
 qna:
   - question: Which Potion/Food should RPR use?
-    answer: The highest available Strength potion. Currently, that is [NAME].
-      Current food is [NAME]
+    answer: The highest available Strength potion. Currently, that is Grade 5
+      Tincture of Strength. Current food is Sykon Bavarois.
   - question: Why do we use Arcane Circle halfway through the GCD instead of in the
       second weave space?
     answer: "Because there are six seconds after using Arcane Circle before you are
