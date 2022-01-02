@@ -43,7 +43,7 @@ lastmod: 2022-01-01T04:45:45.748Z
 
 ![](/img/jobs/rpr/early_gluttony.png)
 
-
+[Full Size](https://i.imgur.com/zETY1li.png)
 
 * Soul Sow pre-pull
 * Use Tincture / Potion at 3s on Countdown
