@@ -32,7 +32,7 @@ Reaper has access to a few resources that you will need to master to play the jo
 
 ![](/img/jobs/rpr/reapergauge1.png)
 
-**Soul**: Soul is one of the main Resources that Reaper has and is represented by the Red bar on the job gauge. You build 10 of it by using your combo weaponskills (Slice, Waxing Slice, Infernal Slice, Spinning Scythe, Nightmare Scythe) and 50 by using Soul Slice / Scythe. You spend it on off-global abilities that generate Soul Reavers (Bloodstalk, Grim Swathe, Unveiled Gibbet, Unveiled Gallows, Gluttony). You spend 50 soul at a time and can store up to 100 so you have some wiggle room on when you use it.
+**Soul**: Soul is one of the main Resources that Reaper has and is represented by the Red bar on the job gauge. You build 10 of it by using your combo weaponskills (Slice, Waxing Slice, Infernal Slice, Spinning Scythe, Nightmare Scythe) and 50 by using Soul Slice / Scythe. You spend it on off-global abilities that generate Soul Reavers (Blood Stalk, Grim Swathe, Unveiled Gibbet, Unveiled Gallows, Gluttony). You spend 50 soul at a time and can store up to 100 so you have some wiggle room on when you use it.
 
 **Shroud**: Shroud is the another main resource that Reaper has and is represented by the Blue bar on the job gauge. You build 10 Shroud by spending Soul Reavers (the resource you get from spending Soul) on the powerful weapon skills Gibbet, Gallows or Guillotine. Reavers must be spent on Shroud generating skills, using any other weaponskill will have them fall off immediately. While most Soul Spenders generate 1 Soul Reaver, Gluttony will generate 2. You can also build 50 Shroud by using Plentiful Harvest, which is only available once every two minutes.  50 Shroud is spent on a transformative buff called Enshroud and you can hold up to 100 Shroud at a time.
 
@@ -53,7 +53,7 @@ Reaper has access to a few resources that you will need to master to play the jo
   * Gibbet turns into Void Reaping
   * Gallows turns into Cross Reaping
   * Guillotine turns into Grim Reaping
-  * Bloodstalk turns into Lemure's Slice
+  * Blood Stalk turns into Lemure's Slice
   * Grim Swathe turns into Lemure's Scythe
 * Void Reaping and Cross Reaping buff each other similarly to how Gibbet and Gallows do. Whenever you use Void Reaping your next Cross Reaping will deal more damage. This buff does not persist when Enshroud ends so you are able to start on whichever Reaping skill you want every enshroud. When you see these weaponskills mentioned, you can do either/or, but always make sure you are using the buffed version if applicable.
 * Soul Sow is spell with a 5 seconds cast time in combat but is instant outside of Combat. When applied, the Soul Sow ability will change into Harvest Moon. Harvest Moon is a long-range spell that does a large amount of AoE damage. There are a few ways to utilize this ability:
