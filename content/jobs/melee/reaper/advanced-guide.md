@@ -12,7 +12,7 @@ changelog:
 
 ### Author: Ellunavi Sevald
 
-### Contributors: Dook Prime, Torael Valdis, Rin Karigani, Laille Ormesaing, Shalfu Nyan
+### Contributors: Dook Prime, Torael Valdis, Rin Karigani, Laille Ormesaing, Shalfu Nyan. Special thanks to Moth Kira and Jackal for the infographs!
 
 - - -
 
@@ -72,6 +72,8 @@ This begs the question, so when is it best to use Harvest Moon? 
 * The second most optimal time, which will most likely be how we use it the most, will be for a disengage window. Whenever we have to disengage from a target for more than one GCD, we will need to use either Harpe or Harvest Moon. Harvest Moon is a gain of 330 potency over Harpe, which is a giant potency gain, and the chances of us never having to use a disengage tool in a fight are low. 
 * Another use for Harvest Moon is to manipulate the timing before or during Shroud phases to allow for smoother burst windows. Objectively, we benefit from entering burst windows with no combo running, allowing us to use Soul Slice in most cases and to more quickly add damage to our windows. It can also be used to extend the time we are in Shroud, which would allow us to Shroud back-to-back if necessary. 
 * Lastly, we could use it for buff windows, but this comes with its own set of problems. The Reaper burst window is selfish, and pretty demanding on which abilities need to be placed where. So, its usage needs to be thoroughly examined and mapped.
+
+![](/img/jobs/rpr/ffxiv_12212021_125816_970.png)
 
 - - -
 
@@ -521,6 +523,7 @@ Sequence:
 * Cross Reaping > Lemure’s Slice
 * Communio
 * Combo GCD or Soul Slice if not in combo
+
   * The combo will be tight, so with high ping you may miss it.
 * Soul Slice if previously had to use combo
 * After Soul Slice use Blood Stalk Variant + Gibbet/Gallows
@@ -551,6 +554,8 @@ The priority for playing Reaper in such a manner is the following:
 10. Enter Enshroud if you have 50 Shroud and Gluttony has a cooldown greater than ten seconds.
 11. Use a Blood Stalk variant if you have 50 Soul and Gluttony isn’t about to come of cooldown
 12. Use a Combo action such as Slice, Waxing Slice, Infernal Slice, Spinning Scythe or Nightmare Scythe as filler.
+
+![](/img/jobs/rpr/ffxiv_22122021_150141_799.png)
 
 - - -
 
@@ -619,6 +624,8 @@ Now, let's break apart each situation and their potency gain.
 3. 100 \* 2 (Whorl of Death, two targets) + 513 (Combo Action) + 1095 (Splash damage) \* 1.1 +133 (10 Extra Soul)  = 2050.5
 
 From this evaluation, we can see that situation #3 offers us the best result, as long as that extra combo action turns into potency later on down the line.
+
+![](/img/jobs/rpr/2021-12-07_00-02-00-559_almastudio_colorpop_1.png)
 
 - - -
 
