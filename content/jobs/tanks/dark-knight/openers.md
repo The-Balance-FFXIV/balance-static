@@ -53,7 +53,8 @@ Best raid buff alignment and a good default choice
 Useful if a fight benefits from a slightly earlier Delirium due to downtime or phasing
 
 > Text version: Prepull Delirium > Prepull The Blackest Night > Prepull Blood Weapon just before pull > Hard Slash + Edge of Shadow > Syphon Strike + Potion > Souleater + Living Shadow + Salted Earth > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Hard Slash + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
-[image here]
+
+![Early Delirium Opener](https://cdn.discordapp.com/attachments/583964695266983944/925284132886552576/tmp4.PNG "Early Delirium")
 
 ## Unmend Opener
 
@@ -61,7 +62,8 @@ This opener should only be used if you need precise positioning on a boss early 
 Consider having the other tank pull instead, then Provoke from them if needed.
 
 > Text version: Prepull The Blackest Night > Unmend + Delirium + Blood Weapon > Hard Slash + Edge of Shadow > Syphon Strike + Potion > Souleater + Living Shadow + Salted Earth > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Hard Slash + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
-[image here]
+
+![Unmend Opener](https://cdn.discordapp.com/attachments/583964695266983944/925284495798710322/tmp4.PNG "Unmend")
 
 - - -
 
