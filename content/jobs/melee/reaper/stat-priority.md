@@ -7,4 +7,6 @@ changelog:
     message: Page Created
 priority: "Physical Damage > Strength > Critical Hit > Desired Skill Speed >
   Direct Hit Rate = Determination "
+authors:
+  - Balance-RPR-Staff
 ---
