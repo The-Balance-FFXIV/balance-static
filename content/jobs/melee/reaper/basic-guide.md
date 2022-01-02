@@ -1,5 +1,6 @@
 ---
 title: "Reaper Basic Guide "
+card_header_image: /img/jobs/rpr/screenshot_3-edit.jpg
 authors:
   - ellunavi
 patch: "6.01"
