@@ -13,7 +13,7 @@ changelog:
 ---
 # Red Mage Level 90 Guide for 6.x
 
-Overview
+## Overview
 
 This guide will cover changes to Red Mage and proper rotations and ability usage in the Endwalker expansion. While the core foundation of Red Mage has not changed at all since its introduction in Stormblood, many smaller changes and quality of life improvements made in Endwalker have changed how we approach different aspects of the job, all of which will be covered below. 
 
@@ -38,6 +38,8 @@ The biggest overhaul to Red Mage in 6.0 was the change to how much mana we gener
 | Verflare/Verholy         | +21 Black/White -> +11 Black/White Mana        |
 | Scorch                   | +7 Black & White -> +4 Black & White Mana      |
 
+&nbsp;\
+
 In relation to this change in mana generation values, the mana cost of weaponskills has also been adjusted to cost 10 mana less than previously, meaning the melee combo now costs 30 less mana resulting in a requirement of 50|50 Black and White Mana. Exact values are as follows: 
 
 *\*please note that Enchanted Moulinet and Enchanted Reprise mana costs were not adjusted*
@@ -46,6 +48,8 @@ In relation to this change in mana generation values, the mana cost of weaponski
 | ---------------------- | -------------------------------------------- |
 | Enchanted Zwerchhau    | \-25 Black & White -> -15 Black & White Mana |
 | Enchanted Redoublement | \-25 Black & White -> -15 Black & White Mana |
+
+&nbsp;\
 
 **Melee Combo Finishers**
 
@@ -120,6 +124,8 @@ GCD spells, potencies, and mana generation values are shown below.
 | Verthunder II  | Generates 7 Black Mana           | 140 AoE     | 2.5 seconds   |
 | Veraero II     | Generates 7 White Mana           | 140 AoE     | 2.5 seconds   |
 
+&nbsp;
+
 ### Melee Combos
 
 Once you have amassed **50|50 mana, you are ready to unleash a melee combo**, the most powerful tool in your rotation. If you have enough mana, your weaponskills, Riposte, Zwerchhau, and Redoublement, transform into their Enchanted versions. Enchanted weaponskills are significantly more powerful than unenchanted skills, deal magic damage and generate Mana Stacks that will allow you to access your finisher spells. Your melee combo will consist of three Enchanted melee weaponskills followed by three finisher spells. A full single target melee combo is as follows:
@@ -147,6 +153,8 @@ An important distinction in-game to keep in mind is that the melee combo and fin
 | Scorch                   | Generates 4 Black and White Mana | 680 AoE with 60% falloff      | 2.5 seconds     |
 | Resolution               | Generates 4 Black and White Mana | 750 line AoE with 60% falloff | 2.5 seconds     |
 
+&nbsp;
+
 ### Damaging oGCDs and buffs
 
 One of the strongest parts of Red Mage’s kit is its powerful oGCD abilities, which include Fleche, Contre Sixte, Corps-a-corps, and Engagement/Displacement. All of these abilities deal a good amount of damage, so it is important to use them on cooldown and maximize usages throughout an encounter. 
@@ -158,7 +166,7 @@ One of the strongest parts of Red Mage’s kit is its powerful oGCD abilities, w
 | Corps-a-corps           | 130         | 35 seconds      |
 | Engagement/Displacement | 180         | 35 seconds      |
 
-
+&nbsp;\
 
 **Damage oGCD priority (based on potency and cooldown timer):**
 
@@ -192,9 +200,9 @@ Vercure is part of Red Mage’s strong utility kit, and its uses in raid recover
 
 ### 6.x General Purpose Opener
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![RDM Opener](/img/jobs/rdm/rdm_ew_opener.png)
 
-![alt_text](images/image1.png "image_tooltip")
+&nbsp;\
 
 Our opener has changed significantly in 6.x largely due to Manafication. As Manafication now gives enough mana for a full melee combo, we can enter our combo significantly earlier and put more hard-hitting skills under party buffs. The goal of this opener is threefold – maximize damage under potion and party buffs, keep oGCDs aligned, and guarantee two procs after our melee combo. 
 
@@ -264,9 +272,7 @@ Our potion window, being 30 seconds long, does allow us to fit two full melee co
 
 There are two requirements to pull this off. One, a minimum of 73|73 mana, and two, Manafication being available no later than our second combo. We start our first melee combo before using a potion, choosing instead to pot after our first Verholy or Verflare. Doing this allows us to land our first Scorch and Resolution in the pot window, followed by two subsequent combos, at least one of which should also land under party buffs. Depending on the amount of Black and White mana you begin with, you can either use Manafication before the first set of finishers, or delay it to avoid significant mana overcap. Very slight overcap is generally accepted as it will rarely lead to a melee combo loss, but this may vary based on encounter and party killtime. 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image3.png "image_tooltip")
+![Potion Example](/img/jobs/rdm/example-potion-window.png)
 
 *An example potion window*
 
