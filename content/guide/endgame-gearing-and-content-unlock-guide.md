@@ -7,8 +7,8 @@ Endgame Gearing and Content Unlock Guide
 
 This is a comprehensive guide aimed towards players entering endgame — Level 90 — for the first time and getting overwhelmed with Final Fantasy XIV's gear progression systems. This guide will help you get an understanding of how FFXIV’s endgame systems work, as well as how to gear up and what types of endgame PvE content exist.
 
-Step 1. Get AF gear, finish MSQ, and farm Tomestones for gear
-Step 2. Get i565 to unlock and complete Pandaemonium: Asphodelos (Normal)
+Step 1. Get AF gear, finish MSQ, and farm Tomestones for gear.
+Step 2. Get i565 to unlock and complete Pandaemonium: Asphodelos (Normal).
 
 ## Explanation of Terms, Loot, and Lockouts
 
@@ -202,12 +202,12 @@ The goal players should be aiming for is to hit the baseline item level for the 
 
 **Main Goals**
 
-* Pick up your i560 Artifact Gear from Varsarudh in Old Sharlayan
-* Finishing the Endwalker Main Scenario Quest
-* Hit iL565 to unlock Asphodelos (Normal)
-* Unlock Duty: Roulette Expert by completing the two endgame dungeons
+* Pick up your i560 Artifact Gear from Varsarudh in Old Sharlayan.
+* Finishing the Endwalker Main Scenario Quest.
+* Hit iL565 to unlock Asphodelos (Normal).
+* Unlock Duty: Roulette Expert by completing the two endgame dungeons.
 
-Congratulations on hitting Level 90 and completing Final Fantasy XIV's ten-year long journey! If you haven't already, you should get your Artifact Gear from Varsarudh in Old Sharlayan. These include a iL560 weapon and iL560 left side, which is serviceable for all content released so far.
+Congratulations on hitting Level 90 and completing Final Fantasy XIV's ten-year long journey! If you haven't already, you should get your Artifact Gear from Varsarudh in Old Sharlayan. These include an iL560 weapon and iL560 left side, which is serviceable for all content released so far.
 
 **Unlocks**
 
@@ -221,15 +221,15 @@ After farming enough tomes to reach iL565, you'll be able to complete the Asphod
 
 **Main Goals**
 
-* Improve your skills in order to tackle endgame content
-* Dip your feet into Extreme Trials
-* Start raiding Savage if you desire, whether it be with friends, with pick up groups (PUGs) in Party Finder, or finding a static to raid with on a regular schedule
+* Improve your skills in order to tackle endgame content.
+* Dip your feet into Extreme Trials.
+* Start raiding Savage if you desire, whether it be with friends, with pick up groups (PUGs) in Party Finder, or finding a static to raid with on a regular schedule.
 
 Endgame content isn’t for everyone, and that’s okay. However, if you have an interest in tackling the hardest PvE (Player versus Environment) content FFXIV has to offer, start reading below! FFXIV Raids are a mechanical spectacle as well as intense fights that challenges your skills.
 
 The first thing you should do is improve your skills. [Download ACT](https://redd.it/3b7ogz) if you haven’t already and start parsing your numbers. If you’re on PS4, get a friend on PC to do so (odds are likely they have ACT). Non-endgame content in FFXIV have no DPS checks, are extremely lenient in terms of healing and mechanical execution, and aren’t punishing at all. Meanwhile, Extreme Trials have a hard DPS check (referred to as an enrage), require solid healing and mechanical execution, and punish you for mistakes, but likely doesn’t kill you. Savage takes the Extreme difficulty and scales it up a notch, killing the player for mistakes and possibly even wiping the raid (kills everyone!). Finally, the Ultimate difficulty is for the battle-hardened veteran raider, and requires you to beat the last floor of Savage before you can even challenge it! If you put in the time and dedication, though, you’ll definitely be able to clear all FFXIV endgame content. The high leap in difficulty is often criticized, with no in-game resources to help the average player improve for raiding. Therefore, we’ll have to look at third parties.
 
-[The Balance Discord](The Balance) is the hub for FFXIV class guides and resources. It contains easy to parse resource channels for every single class, guides for each class, as well as various utilities and tools to help a player improve. Further questions can be asked in questions channels, where dedicated mentors and peers will help you with more in-depth questions that can’t be answered in the guide or resources. Our website contains the same information, but is updated slower than that of the Discord.
+[The Balance Discord](https://discord.gg/thebalanceffxiv) is the hub for FFXIV class guides and resources. It contains easy to parse resource channels for every single class, guides for each class, as well as various utilities and tools to help a player improve. Further questions can be asked in questions channels, where dedicated mentors and peers will help you with more in-depth questions that can’t be answered in the guide or resources. Our website contains the same information, but is updated slower than that of the Discord.
 
 When getting into endgame, it is important to understand the importance of consumables and materia. All your gear should be fully slotted with Grade VIII materia – it’s extra stats that will help you survive, keep up resources as a healer, or deal more damage overall! Consumables are the same – Tinctures are in-combat consumables that increase your damage, while Food gives you extra substats and most importantly, extra Vitality to increase your total health pool. Most BiS lists will give an option for food, but more affordable options exist – use consumables from the previous raid tier instead if you are strapped for gil.
 
