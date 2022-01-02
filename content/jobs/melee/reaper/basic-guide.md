@@ -34,11 +34,11 @@ Reaper has access to a few resources that you will need to master to play the jo
 
 **Soul**: Soul is one of the main Resources that Reaper has and is represented by the Red bar on the job gauge. You build 10 of it by using your combo weaponskills (Slice, Waxing Slice, Infernal Slice, Spinning Scythe, Nightmare Scythe) and 50 by using Soul Slice / Scythe. You spend it on off-global abilities that generate Soul Reavers (Blood Stalk, Grim Swathe, Unveiled Gibbet, Unveiled Gallows, Gluttony). You spend 50 soul at a time and can store up to 100 so you have some wiggle room on when you use it.
 
-**Shroud**: Shroud is the another main resource that Reaper has and is represented by the Blue bar on the job gauge. You build 10 Shroud by spending Soul Reavers (the resource you get from spending Soul) on the powerful weapon skills Gibbet, Gallows or Guillotine. Reavers must be spent on Shroud generating skills, using any other weaponskill will have them fall off immediately. While most Soul Spenders generate 1 Soul Reaver, Gluttony will generate 2. You can also build 50 Shroud by using Plentiful Harvest, which is only available once every two minutes.  50 Shroud is spent on a transformative buff called Enshroud and you can hold up to 100 Shroud at a time.
+**Shroud**: Shroud is the another main resource that Reaper has and is represented by the Blue bar on the job gauge. You build 10 Shroud by spending Soul Reavers (the resource you get from spending Soul) on the powerful weapon skills Gibbet, Gallows or Guillotine. Reavers must be spent on Shroud generating skills, using any other weaponskill will have them fall off immediately. While most Soul Spenders generate 1 Soul Reaver, Gluttony will generate 2. You can also build 50 Shroud by using Plentiful Harvest, which is only available once every two minutes. 50 Shroud is spent on a transformative buff called Enshroud and you can hold up to 100 Shroud at a time.
 
 ![](/img/jobs/rpr/lemuregauge.png)
 
-**Enshroud**: Enshroud is Reapers burst window which changes how the Reaper looks, activates a job gauge and changes a few abilities and weaponskills. For more detailed information on what changes, visit the Skill Details page. When you first Enshroud you generate 5 Blue Orbs (Lemure Shroud) which can be spent on the rapid 1.5s global cooldown weaponskills Void Reaping, Cross Reaping and Grim Reaping. When spending a Blue Orb this way it will generate a Purple Orb (Void Shroud) which you can spend in sets of two on off-global abilities Lemure’s Slice and Lemure’s Scythe. Lastly you can end the Enshroud phase by spending all of your Blue Orbs or by using the powerful spell Communio. 
+**Enshroud**: Enshroud is Reaper's burst window which changes how the Reaper looks, activates a job gauge and changes a few abilities and weaponskills. For more detailed information on what changes, visit the Skill Details page. When you first Enshroud you generate 5 Blue Orbs (Lemure Shroud) which can be spent on the rapid 1.5s global cooldown weaponskills Void Reaping, Cross Reaping and Grim Reaping. When spending a Blue Orb this way it will generate a Purple Orb (Void Shroud) which you can spend in sets of two on off-global abilities Lemure’s Slice and Lemure’s Scythe. Lastly you can end the Enshroud phase by spending all of your Blue Orbs or by using the powerful spell Communio. 
 
 ### Basic Rotation
 
@@ -47,8 +47,8 @@ Reaper has access to a few resources that you will need to master to play the jo
 * Gibbet and Gallows are positional weaponskills. Gibbet receives additional damage if you use it from the targets flank and Gallows receives the bonus if used from targets rear. These abilities also buff each other, whenever you use Gibbet your next Gallows will be buffed and when you use Gallows your next Gibbet will be buffed. This buff lasts for 60 seconds and will also upgrade your Blood Stalk into an Unveiled Gibbet or Unveiled Gallows based on whichever buff you have. When you see these weaponskills mentioned, you can do either/or, but always make sure you are using the buffed version if applicable.
 
   * The Unveiled Gibbet or Gallows does not consume the buff.
-* Shadow of Death applies the Death's Design debuff to your target, Whorl of Death applies the debuff to all targets within 5 yalms. This debuff can stack on itself with a maximum duration of 60s.
-* The following skills are upgraded when you use Enshroud
+* Shadow of Death applies the Death's Design debuff to your target, Whorl of Death applies the debuff to all targets within five yalms. This debuff can stack on itself with a maximum duration of 60s.
+* The following skills are upgraded when you use Enshroud:
 
   * Gibbet turns into Void Reaping
   * Gallows turns into Cross Reaping
@@ -56,10 +56,10 @@ Reaper has access to a few resources that you will need to master to play the jo
   * Blood Stalk turns into Lemure's Slice
   * Grim Swathe turns into Lemure's Scythe
 * Void Reaping and Cross Reaping buff each other similarly to how Gibbet and Gallows do. Whenever you use Void Reaping your next Cross Reaping will deal more damage. This buff does not persist when Enshroud ends so you are able to start on whichever Reaping skill you want every enshroud. When you see these weaponskills mentioned, you can do either/or, but always make sure you are using the buffed version if applicable.
-* Soul Sow is spell with a 5 seconds cast time in combat but is instant outside of Combat. When applied, the Soul Sow ability will change into Harvest Moon. Harvest Moon is a long-range spell that does a large amount of AoE damage. There are a few ways to utilize this ability:
+* Soul Sow is spell with a five second cast time in combat but is instant outside of Combat. When applied, the Soul Sow ability will change into Harvest Moon. Harvest Moon is a long-range spell that does a large amount of AoE damage. There are a few ways to utilize this ability:
 
   * Harvest Moon whenever you have to disengage from an enemy for longer than global cooldown.
-  * Harvest Moon when you are able to deal AoE damage with it
+  * Harvest Moon when you are able to deal AoE damage with it.
   * Harvest Moon at least once each encounter.
   * Soul Sow before every boss pull and in-between dungeon packs.
 
@@ -101,7 +101,7 @@ Reaper can be played well by just following a priority system. Below is the reco
 * Plentiful Harvest if available.
 * Enshroud when at 50 or more Shroud.
 
-  * Alternate Void and Cross Reaping 4 times, as they buff each other.
+  * Alternate Void and Cross Reaping four times, as they buff each other.
 
     * Use Grim Reaping if you can hit three or more enemies.
   * Weave Lemure’s Slice after every other weapon skills.
