@@ -73,3 +73,9 @@ lastmod: 2022-01-01T04:45:45.748Z
 
   * Unveilled Gibbet
 * Gibbet
+
+
+
+
+
+Special thanks to Moth Kira and Jackal for the infographs!
