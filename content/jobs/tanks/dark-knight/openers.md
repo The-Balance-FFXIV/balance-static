@@ -18,7 +18,7 @@ uen![]()
 
 # Openers
 
-DRK has a several different options for openers, not all of which are listed here.
+DRK has several different options for openers, not all of which are listed here.
 Fight timings and party composition can both affect which opener is best, based on when you can keep uptime on the boss and when raid buffs are used.
 Fight-specific opener information can be found in #drk_encounter and #drk_questions (often in the pins).
 This section will list some **General-purpose** DRK openers which work relatively well in most situations.
@@ -28,7 +28,7 @@ Tanks currently use Grade 5 Tinctures of Strength
 
 Goals for DRK openers include:
 
-* Get Living Shadow out ASAP; the long spawn animation means any delays will push some hits out of raid buffs
+* Get Living Shadow out as early as possible; its long spawn animation means that any delays will push some hits out of raid buffs
 * Get buffs like Blood Weapon and Delirium, and damaging abilities like Carve and Spit and Salted Earth on cooldown early
 * Use as many big hits and spend as much MP as possible inside potion and raid buff windows (which typically come up around the third or fourth GCD)
 
