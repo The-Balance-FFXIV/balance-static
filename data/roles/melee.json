@@ -25,6 +25,11 @@
       "name": "Samurai",
       "job_link": "/jobs/melee/samurai/",
       "icon": "/theme-assets/jobs/melee/samurai/samurai.svg"
+    },
+    {
+      "name": "Reaper",
+      "job_link": "/jobs/melee/reaper/",
+      "icon": "/theme-assets/jobs/melee/reaper/reaper.svg"
     }
   ],
   "title": "melee",
