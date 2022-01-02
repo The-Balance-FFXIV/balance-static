@@ -1,5 +1,5 @@
 ---
-title: Reaper Basic Guide
+title: "Reaper Basic Guide "
 authors:
   - ellunavi
 patch: "6.01"
