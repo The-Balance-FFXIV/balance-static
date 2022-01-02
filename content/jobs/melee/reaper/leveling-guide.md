@@ -8,11 +8,11 @@ lastmod: 2022-01-02T00:47:43.848Z
 ---
 This guide is targeted at players looking to play and understand Reaper as they level up. It will cover some basic priorities for each level tier and will also serve as a priority list for playing Reaper at lower levels (for ultimates and such). If you are level 90 and looking to explore other guides please visit the following links:
 
-[Basic Guide] (/jobs/reaper/basic-guide/)
+[Basic Guide](/jobs/reaper/basic-guide/)
 
-[Advanced Guide] (/jobs/reaper/advanced-guide/)
+[Advanced Guide](/jobs/reaper/advanced-guide/)
 
-[Skill Details] (/jobs/reaper/skills-overview/)
+[Skill Details](/jobs/reaper/skills-overview/)
 
 ## How to Unlock
 
@@ -31,10 +31,12 @@ Here, you will have to complete a short quest. Once complete, congratulations --
 
 * Reaper wears Baiming gear; the same armor type that Dragoon wears.
 * You can purchase a better mainhand weapon in Rhalgr’s Reach by spending 600 of Allagan Tomestones of Poetics.
+
   * Eschina at 13.8, 11.7
   * Select Scaevan Gear Exchange
   * Purchase Augmented Scaevan Scythe
 * You can purchase armor using Allagan Tomestones of Poetics in Rhalgr’s Reach
+
   * Enna at 13.8, 11.7
   * Select the DoW II option
   * Purchase Augmented Scaevan Armor
@@ -53,6 +55,8 @@ Here, you will have to complete a short quest. Once complete, congratulations --
 
   * At higher levels you may also want to consider using Soul Scythe, Grim Swathe and Guillotine while moving from pack to pack.
 
+![](/img/jobs/rpr/ffxiv_12072021_231718_279.png)
+
 ## Reaper Rotations
 
 While Reaper may start at level 70, there is a good chance you will end up playing Reaper in synced content. Below are some general guides for playing Reaper at certain levels:
@@ -62,6 +66,7 @@ While Reaper may start at level 70, there is a good chance you will end up playi
 Below level 50, there are only two main things you can do as Reaper:
 
 * Maintain the Death Design’s debuff on targets at all times.
+
   * Ignore the debuff for multi-target until you have Whorl of Death!
 * Do your combo actions in order.
 
@@ -119,6 +124,7 @@ Level 78 will provide you with a huge quality of life improvement on your Soul S
 * Use Gluttony (Available at level 76) on cooldown.
 * Use Soul Slice on cooldown as long as you are at 50 Soul or below.
 * Use Gibbet > Gallows if you have any Soul Reavers.
+
   * These are your first positionals. Gibbet is used from the flank and Gallows is used from the rear. The potency lost from the positional being missed is the same as the potency loss from not doing the combo, so for simplicity, always alternate the two.
   * These are combo actions. When you use one, it will buff the other for 60s. This is signified by the glowing border on the ability, should you ever forget which one to use next.
 * Use Blood Stalk / Unveiled Gibbet / Unveiled Gallows if you have 50 Soul or more and no Soul Reavers.
@@ -191,7 +197,9 @@ Your new rotation at level 80 will look like the following:
 * Spend Reavers on Guillotine when you have them.
 * Always ensure that at least one charge of Soul Scythe is on cooldown. Remember that it gives 50 soul so make sure you use at or below 50 Soul gauge.
 * Enshroud when at 50 shroud gauge.
+
   * Your Enshroud rotation should look like this:
+
     * Grim Reaping > Grim Reaping > Grim Reaping > Grim Reaping > Grim Reaping.
 * Grim Swathe when at 50 or more Soul
 * Use Spinning Scythe > Nightmare Scythe as filler.
@@ -253,7 +261,9 @@ Multi-target  \[3 or more Targets]
 
 * Grim Reaping > Grim Reaping > Lemure's Scythe > Grim Reaping > Grim Reaping > Lemure's Scythe > Communio
 
-That’s it! You made it to level 90. I hope this leveling guide helped you ease your way into playing Reaper. When you have a good grasp of your abilities, I recommend you head on over to the Reaper Basics guide located [here] (/jobs/reaper/basic-guide/) to learn some more about how to more effectively play Reaper.
+That’s it! You made it to level 90. I hope this leveling guide helped you ease your way into playing Reaper. When you have a good grasp of your abilities, I recommend you head on over to the Reaper Basics guide located [here](/jobs/reaper/basic-guide/) to learn some more about how to more effectively play Reaper.
+
+![](/img/jobs/rpr/2021-12-20_03-06-55-218_eg9_-_darklite.png)
 
 #### Single Target
 
@@ -280,7 +290,9 @@ That’s it! You made it to level 90. I hope this leveling guide helped you ease
 * Spend Reavers on Guillotine when you have them.
 * Always ensure that at least one charge of Soul Scythe is on cooldown. Remember that it gives 50 soul so make sure you use at or below 50 Soul gauge.
 * Enshroud when at 50 shroud gauge.
+
   * Your Enshroud rotation should look like this:
+
     * Grim Reaping > Grim Reaping > Lemure's Scythe > Grim Reaping > Grim Reaping > Lemure's Scythe > Communio
 * Grim Swathe when at 50 or more Soul
 * Harvest Moon
