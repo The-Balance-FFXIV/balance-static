@@ -96,7 +96,7 @@ Note: The Sequence of Gibbet / Gallows and Void / Cross Reaping are not a requir
 ![](/img/jobs/rpr/rpr_enshroud_opener.png)
 
 * Soul Sow Pre-pull
-* Harpe at 2 seconds on the countdown
+* Harpe at two seconds on the countdown
 * Shadow of Death > Arcane Circle
 * Soul Slice >> Middle weave Potion (If you can’t at 2 minutes)
 * Soul Slice
@@ -142,7 +142,7 @@ Let’s break apart this opener and discuss and explain a few things:
 ![](/img/jobs/rpr/early_gluttony.png)
 
 * Prepull Soul Sow
-* Potion @ 3s on countdown if you can’t use potion at 2 minute mark
+* Potion @ 3s on countdown if you can’t use potion at two/ minute mark
 * Harpe at 2s on countdown
 * Shadow of Death >> Arcane Circle
 * Soul Slice > Gluttony
@@ -213,7 +213,7 @@ Sequence:
 * Cross Reaping > Lemure’s Slice
 * Communio >> Priority System
 
-  * If no combo, 50 Soul and Gluttony off CD use Gluttony and do Gibbet / Gallows.
+  * If no combo, 50 Soul and Gluttony on CD use Gluttony and do Gibbet / Gallows.
   * If no combo, < 50 Soul then use Soul Slice into Gluttony and do Gibbet / Gallows.
   * If in combo then use the combo action. After combo if you are sub-50 Soul you will have to soul slice then Gluttony, otherwise Gluttony after combo and do Gibbet / Gallows.
 * Finish spending Soul Slices and Soul after this sequence to maximize potion.
@@ -521,7 +521,7 @@ Sequence:
 * Cross Reaping > Lemure’s Slice
 * Communio
 * Combo GCD or Soul Slice if not in combo
-* * The combo will be tight, so with high ping you may miss it.
+  * The combo will be tight, so with high ping you may miss it.
 * Soul Slice if previously had to use combo
 * After Soul Slice use Blood Stalk Variant + Gibbet/Gallows
 
