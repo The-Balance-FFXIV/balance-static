@@ -132,7 +132,7 @@ Reaper can be played well by just following a priority system. Below is the reco
 * Feint: Reduces an enemies physical damage by a lot and magic damage by a little. Use on raidwides, tank busters, or as requested from your healer or tanks.
 * Arm’s Length: Prevents most knockbacks, great for maintaining uptime on the boss.
 * True North: Allows you to ignore positional requirements. Use it when you can’t hit the flank or rear for Gibbet and Gallows respectively.
-* Second Wind / Bloodbath : Self heal tools that can aid you in a pinch. Use them if you take unnecessary damage or find your health lower than the rest of the groups.
+* Second Wind / Bloodbath: Self heal tools that can aid you in a pinch. Use them if you take unnecessary damage or find your health lower than the rest of the groups.
 
 ### Core Concepts
 
