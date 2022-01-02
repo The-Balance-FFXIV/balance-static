@@ -40,3 +40,33 @@ lastmod: 2022-01-01T04:45:45.748Z
 ## Early Gluttony Opener
 
 ![](/img/jobs/rpr/early_gluttony.png)
+
+
+
+* Soul Sow pre-pull
+* Use Tincture / Potion at 3s on Countdown
+* Cast Harpe at 2 seconds on the countdown
+* Shadow of Death
+
+  * Arcane Circle - If possible, move this to after the next GCD only do it here if your Plentiful Harvest clips later on.
+* Soul Slice
+
+  * Gluttony
+* Gibbet
+* Gallows
+* Plentiful Harvest
+
+  * Enshroud
+* Void Reaping
+* Cross Reaping
+
+  * Lemure's Slice
+* Void Reaping
+* Cross Reaping
+
+  * Lemure's Slice
+* Communio
+* Soul Slice
+
+  * Unveilled Gibbet
+* Gibbet
