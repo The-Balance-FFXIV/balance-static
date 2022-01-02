@@ -9,7 +9,7 @@ changelog:
   - date: 2022-01-02T21:17:24.172Z
     message: Created page
 ---
-## Basic Reaper Guide
+# Basic Reaper Guide
 
 Welcome to the Basic Guide for Reaper, which will cover everything you need to know to get started with becoming a Reaper! Included are an overview of the job’s playstyle, basic priority, abilities and core concepts.
 
@@ -24,7 +24,7 @@ This guide is intended to be relatively basic and doesn’t go into huge explana
 * [Skills Overview](/jobs/melee/reaper/skills-overview/)
 * [Frequently Asked Questions](/jobs/melee/reaper/faq/)
 
-### How the Job Plays
+## How the Job Plays
 
 Reaper is a fluid build-spender job with a flexible and fast paced burst window. Reaper has an upkeep mechanic in the form of a debuff called Death’s Design and has a small party buff that increases damage. It has a few powerful disconnect tools, including a gate-like ability that lets you teleport somewhere then teleport back to where you came from.
 
@@ -32,7 +32,7 @@ While Reaper has a powerful and flexible burst window, it does come with a few d
 
 Reaper can be played fluidly as a priority system or rigidly with planned burst windows allowing the job to have a low barrier of entry but have a very high skill expression ceiling. 
 
-### Resources and Job Gauges
+## Resources and Job Gauges
 
 Reaper has access to a few resources that you will need to master to play the job:
 
@@ -46,9 +46,11 @@ Reaper has access to a few resources that you will need to master to play the jo
 
 **Enshroud**: Enshroud is Reaper's burst window which changes how the Reaper looks, activates a job gauge and changes a few abilities and weaponskills. For more detailed information on what changes, visit the Skill Details page. When you first Enshroud you generate five blue orbs (Lemure Shroud) which can be spent on the rapid 1.5s global cooldown weaponskills Void Reaping, Cross Reaping and Grim Reaping. When spending a blue orb, this way it will generate a purple orb (Void Shroud), which you can spend in sets of two on off-global abilities -- Lemure’s Slice and Lemure’s Scythe. Lastly, you can end the Enshroud phase by spending all of your Lemure Shroud, or by using the powerful spell Communio. 
 
-### Basic Rotation
+![](/img/jobs/rpr/2021-12-20_02-49-47-723_eg9_-_darklite.png)
 
-#### Reaper Fundamentals
+# Basic Rotation
+
+## Reaper Fundamentals
 
 * Gibbet and Gallows are positional weaponskills. Gibbet receives additional damage if you use it from the target's flank and Gallows receives the bonus if used from target's rear. These abilities also buff each other, whenever you use Gibbet your next Gallows will be buffed and when you use Gallows your next Gibbet will be buffed. This buff lasts for 60 seconds and will also upgrade your Blood Stalk into an Unveiled Gibbet or Unveiled Gallows based on whichever buff you have. When you see these weaponskills mentioned, you can do either/or, but always make sure you are using the buffed version if applicable.
 
@@ -89,7 +91,9 @@ Reaper has access to a few resources that you will need to master to play the jo
 * Soul Slice > Unveiled Gallows
 * Gallows
 
-#### Priority System:
+![](/img/jobs/rpr/ffxiv_18122021_211238_268.png)
+
+## Priority System
 
 Reaper can be played well by just following a priority system. Below is the recommended priority system for single target
 
@@ -125,7 +129,7 @@ Reaper can be played well by just following a priority system. Below is the reco
   * Ensure to get one Harvest Moon between each pull and downtime!
 * Harpe if you are not in melee range of the boss.
 
-### Notable Utility
+## Notable Utility
 
 * Hell’s Ingress / Egress / Regress: Gap closer and disengage abilities, respectively. Using the other after using one will activate Regress, returning you to your previous location. Great for moving around boss mechanics.
 * Arcane Crest: Provides a strong shield to yourself, that if broken gives the party a strong AoE regen. Use this often to help support the party.
@@ -134,7 +138,7 @@ Reaper can be played well by just following a priority system. Below is the reco
 * True North: Allows you to ignore positional requirements. Use it when you can’t hit the flank or rear for Gibbet and Gallows respectively.
 * Second Wind / Bloodbath: Self heal tools that can aid you in a pinch. Use them if you take unnecessary damage or find your health lower than the rest of the groups.
 
-### Core Concepts
+## Core Concepts
 
 * Maintain uptime: Try to solve mechanics in a way that would allow you to stay on the bosses hit box. If you have to disengage you can utilize Harvest Moon to not lose any DPS. Harpe is also excellent if you have to disengage and can’t attack the boss.
 * Hit your positionals: Gibbet and Gallows have rear and flank positionals respectively. Make sure you are attacking in the correct position when using them. Reaper has a lot of flexibility on when you can use these abilities so try to hold them if you can’t hit them. If you must hit them then utilize True North to hit them from any angle.
