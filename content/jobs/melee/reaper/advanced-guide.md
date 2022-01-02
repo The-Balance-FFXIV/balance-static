@@ -22,7 +22,7 @@ I wanted to start this guide off with talking about the FFLogs metrics and how t
 
 * **rDPS** - Short for raid damage per second. This represents the damage you deal to an enemy over time, but it will subtract damage gained from external buffs and add damage you give through your buffs. So, if you deal 105 damage, but 5% of that was from Trick Attack, then only 100 of that damage will count towards your parse. Alternatively, if the ninja did 103 damage, but 3% of that was from your Arcane Circle, then three DPS of that damage will count towards your parse.
 * **nDPS** - Short for neutral DPS. This represents the damage that you did but removes any assistance from raid buffs. It currently has very limited uses for Reaper and should rarely be used as a metric for any sort of measurement.
-* aDPS - Short for adjusted damage per second, this will factor in all the damage you do, but subtract specific single target buffs like Dragon Sight, Standard Step, Devilment and Astrologian cards.
+* **aDPS** - Short for adjusted damage per second, this will factor in all the damage you do, but subtract specific single target buffs like Dragon Sight, Standard Step, Devilment and Astrologian cards.
 
 - - -
 
