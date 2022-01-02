@@ -12,7 +12,7 @@ changelog:
 
 ### Author: Ellunavi Sevald
 
-### Contributors: Dook Prime, Torael Valdis, Rin Karigani, Laille Ormesaing, Shalfu Nyan
+### Contributors: Dook Prime, Torael Valdis, Rin Karigani, Laille Ormesaing, Shalfu Nyan. Special thanks to Moth Kira and Jackal for the infographs!
 
 - - -
 
@@ -521,6 +521,7 @@ Sequence:
 * Cross Reaping > Lemure’s Slice
 * Communio
 * Combo GCD or Soul Slice if not in combo
+
   * The combo will be tight, so with high ping you may miss it.
 * Soul Slice if previously had to use combo
 * After Soul Slice use Blood Stalk Variant + Gibbet/Gallows
