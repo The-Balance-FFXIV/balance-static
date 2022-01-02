@@ -1,7 +1,12 @@
 ---
 title: Reaper - Basic Guide
+authors:
+  - ellunavi
 patch: "6.01"
 lastmod: 2021-12-29T16:44:03.621Z
+changelog:
+  - date: 2022-01-02T21:17:24.172Z
+    message: Created page
 ---
 ## Basic Reaper Guide
 
