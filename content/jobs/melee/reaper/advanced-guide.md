@@ -42,7 +42,7 @@ I believe it to be important that our first topic we discuss is about how a Reap
 * Ten Gibbet or Gallows.  +100 Shroud
 
   * Four casts provided by two Gluttony (-100 Soul Gauge)
-  * Six casts provided by Bloodstalk variants ( -300 Soul Gauge)
+  * Six casts provided by Blood Stalk variants ( -300 Soul Gauge)
 * One Plentiful Harvest. +50 Shroud Gauge
 * Three Enshroud phases. -150 Shroud Gauge
 
@@ -414,7 +414,7 @@ While there isn’t much optimization or advanced theorycrafting here, I wanted 
 * 10 Filler GCDs  (Combo actions are preferred)
 * 2 Soul Slices
 * 2 Shadow of Deaths, do not overwrite above 60 seconds
-* 1 Gluttony, 3 Bloodstalk Variants
+* 1 Gluttony, 3 Blood Stalk Variants
 * 5 Gibbet / Gallows
 
 ![Image](/img/jobs/rpr/odd_to_even_filler.png)
@@ -423,7 +423,7 @@ While there isn’t much optimization or advanced theorycrafting here, I wanted 
 * 8 Filler GCDS (Combo actions are preferred)
 * 2 Soul Slices
 * One Shadow of Death, do not overwrite above 60 seconds
-* 1 Gluttony, 3 Bloodstalk Variants
+* 1 Gluttony, 3 Blood Stalk Variants
 * 5 Gibbet / Gallows
 
 Understanding how these work is crucial to understanding the next part of this document. These filler windows assume you are Enshrouding every minute and twice every two minutes, and that the filler count begins after the Communio. 
@@ -444,7 +444,7 @@ The concept of Dead Zoning is pooling our resources during the first minute of t
 * 24 Filler GCDs (Combo actions preferred)
 * Three Soul Slices, careful not to overcap soul
 * Three Shadow of Deaths
-* 2 Gluttonys, 5 Bloodstalk Variants
+* 2 Gluttonys, 5 Blood Stalk Variants
 * 9 Gibbet / Gallows
 
 By doing this we do a few things:
@@ -523,7 +523,7 @@ Sequence:
 * Combo GCD or Soul Slice if not in combo
 * * The combo will be tight, so with high ping you may miss it.
 * Soul Slice if previously had to use combo
-* After Soul Slice use Bloodstalk Variant + Gibbet/Gallows
+* After Soul Slice use Blood Stalk Variant + Gibbet/Gallows
 
 Shadow of Death is not a necessary filler here but still recommended, as long as you don’t overcap. You will want one if you are potion weaving. If you are unable to maintain your combo, due to high ping or other factors it is recommended that you simply play a priority rotation instead. 
 
@@ -549,7 +549,7 @@ The priority for playing Reaper in such a manner is the following:
 8. Use Soul Slice if you have 50 or less Soul Gauge.
 9. Use Plentiful Harvest if you have 50 or less Shroud Gauge
 10. Enter Enshroud if you have 50 Shroud and Gluttony has a cooldown greater than ten seconds.
-11. Use a Blood-stalk variant if you have 50 Soul and Gluttony isn’t about to come of cooldown
+11. Use a Blood Stalk variant if you have 50 Soul and Gluttony isn’t about to come of cooldown
 12. Use a Combo action such as Slice, Waxing Slice, Infernal Slice, Spinning Scythe or Nightmare Scythe as filler.
 
 - - -
@@ -580,7 +580,7 @@ The applications for this value are limited, but it will assist us in performing
 
 ## Assigning Value to Gluttony
 
-While it may not be super important to assign a potency value to Gluttony, it could potentially be useful for scenarios or quickly napkin-mathing situations. The best way to look at a Gluttony isn’t by itself, but as a replacement for a Bloodstalk variant. They both share the same cost but Bloodstalks are always available while Gluttony has a minute long cooldown. The differences are the following:
+While it may not be super important to assign a potency value to Gluttony, it could potentially be useful for scenarios or quickly napkin-mathing situations. The best way to look at a Gluttony isn’t by itself, but as a replacement for a Bloodstalk variant. They both share the same cost but Blood Stalks are always available while Gluttony has a minute long cooldown. The differences are the following:
 
 * +100 Potency
 * +1 Reaver GCD
