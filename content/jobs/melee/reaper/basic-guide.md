@@ -46,7 +46,7 @@ Reaper has access to a few resources that you will need to master to play the jo
 
 **Enshroud**: Enshroud is Reaper's burst window which changes how the Reaper looks, activates a job gauge and changes a few abilities and weaponskills. For more detailed information on what changes, visit the Skill Details page. When you first Enshroud you generate five blue orbs (Lemure Shroud) which can be spent on the rapid 1.5s global cooldown weaponskills Void Reaping, Cross Reaping and Grim Reaping. When spending a blue orb, this way it will generate a purple orb (Void Shroud), which you can spend in sets of two on off-global abilities -- Lemure’s Slice and Lemure’s Scythe. Lastly, you can end the Enshroud phase by spending all of your Lemure Shroud, or by using the powerful spell Communio. 
 
-![](/img/jobs/rpr/2021-12-20_02-49-47-723_eg9_-_darklite.png)
+![](/img/jobs/rpr/2021-12-20_02-49-47-723_eg9-darklite.png)
 
 # Basic Rotation
 
