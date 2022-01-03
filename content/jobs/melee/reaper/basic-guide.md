@@ -91,7 +91,7 @@ Reaper has access to a few resources that you will need to master to play the jo
 * Soul Slice > Unveiled Gallows
 * Gallows
 
-![](/img/jobs/rpr/ffxiv_18122021_211238_268.png)
+![]()
 
 ## Priority System
 
