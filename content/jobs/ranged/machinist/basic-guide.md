@@ -25,24 +25,6 @@ Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge whi
 
 ![](https://lh4.googleusercontent.com/QsQSG5c79EfLZe3wXkwZWsagFAlYmyeyZY0wC_ksPDFeXCjSY8Nr8g80biSCUpKrFhZLK1PSJbjY9lvhao3vGgi4mGbZUZCOf7kzXyc8ybUQnO6dPRPtdD5CMEyO5PpBz80hQntS)
 
-<!--StartFragment-->
-
-# Openers 
-
-Listed below are all current openers and the reasoning as to why each one should be selected. It is very important that you attempt to put as much damage into the raid buffs of your party as possible. Wildfire does not scale with skill speed, so once it’s placed in your opener it will never move forward and can only be delayed in your rotation. Wildfire should be placed properly in the opener based on your party composition and the downtime you have in an encounter. Wildfire snapshots raid buffs upon use of the ability -- not on detonation. Wildfire cannot critical hit or direct hit, thus gaining no benefit from crit or direct hit boosting raid buffs. 
-
-In both (future images) openers listed below, you’ll notice there’s a string of three Heated combo actions in a row. This is done on purpose for later on in an encounter. Those Heated combo actions can, and most likely will be, replaced with a Hypercharge window later on. This allows us to get more potency under raid buffs and use Barrel Stabilizer on cooldown, prior to Wildfire windows. Each opener also contains 5 GCDs prior to Wildfire. This is the only way to summon Queen in your opener without delaying Drill to 12.5 seconds.
-
-#### General Raid Setting Opener
-
-Come back later (Typing out for now, context)
-
-Reassembled Air Anchor → Drill → Split → Slug → Clean → Reassembled Chainsaw → Wildfire Hypercharge → Drill
-
-#### Heavy Raid Buff Opener
-
-Air Anchor → Split → Slug → Clean → Reassembled Drill → Reassembled Chainsaw → Wildfire Hypercharge → Split
-
 # The Two-Minute Loop and Rotational Theory
 
 The most basic description of the level 90 rotation can be broken down by following these rules:
@@ -53,19 +35,19 @@ The most basic description of the level 90 rotation can be broken down by follow
 
 The base rotation for Machinist revolves around two minute windows starting and ending with Wildfire application. Wildfire and Barrel Stabilizer are outliers in our kit as the cooldown does not scale with skill speed. While Heat and Battery won’t loop perfectly due to differing Hypercharge windows in these segments, Wildfire can still be used as a landmark in the rotation for tracking other cooldowns in our kit, mechanics or even just used to help reset our rotation in case mistakes were made with some of the more strict timers.
 
+![](/img/jobs/mch/2022-01-03_16-03-43-500_okamiazure.png)
+
 ## Piecing Together The Multi-Tool and Heat System
 
 As of 6.0, the timer before combo actions break has been increased to 30 seconds. Prior to Endwalker, Machinist required spacing between its burst windows to allow the combo to continue without breaking, working around Hypercharge. That is no longer the case, and while it's still possible to break combo, it requires a very specific string of actions consisting of Air Anchor, two Drills, Chainsaw, and three Hypercharge windows. In a standard burst window with two Hypercharge segments carrying over the Heated combo will not be an issue.
 
 A full segment of Hypercharge is exactly three GCDs worth of time, or 7.5s. Because of this, you should never enter Hypercharge if Chainsaw, Drill or Air Anchor has less than eight seconds on their cooldown timers. Doing so will cause the Chainsaw, Drill or Air Anchor cooldowns to drift, which leads to a loss of DPS and will more than likely cause issues down the line in your rotation when you reach your rotational reset at Wildfire.
 
-One of the themes in our level 90 openers is maintaining three GCDs worth of Heated actions in a row. What this does is allow us to replace that three-string segment of Heated actions with a Hypercharge and burst even more inside of raid buffs every two minutes. This replacement of Heated actions also allows us one other thing; Using Barrel Stabilizer on cooldown. To avoid overcap it should be used inside of the Hypercharge segment itself to prepare for the following Wildfire window. A standard buff window, following the General Raid Opener, will look like this:\
-\
-AA - Drill - HC window - Chainsaw - WF HC window - Drill ← Should be an image
+One of the themes in our level 90 openers is maintaining three GCDs worth of Heated actions in a row. What this does is allow us to replace that three-string segment of Heated actions with a Hypercharge and burst even more inside of raid buffs every two minutes. This replacement of Heated actions also allows us one other thing; Using Barrel Stabilizer on cooldown. To avoid overcap it should be used inside of the Hypercharge segment itself to prepare for the following Wildfire window. A standard buff window, following the General Raid Opener, will look like this:
 
 Reassemble now comes on a charge system, stacking up to two charges. Since Drill, Air Anchor and Chainsaw are all the same potency and Reassemble is no longer on a strict timer, we can place Reassemble on any three of these GCDs depending on our opening alignment, the raid buffs we have in our party, down time, and kill time. In situations where kill time or downtime will net you an extra use it’s almost always worth using your Reassemble charges on cooldown and never letting them overcap. If your kill time will not lose you a usage, you’re better off using both Reassemble charges in the two minute buff window inside of raid buffs.
 
-![](https://lh5.googleusercontent.com/fH7YQhtnBs0Vt-6hn7305OHUFe9QiFwXrJW6GB0TLEPA1q1iKSESywMt7LwYDYKz8iMpOeJBD2pGeo4iRB4mMvqgRFntcK4D5xPmmrKOn26retjR_PHmIoW_G2LfBJa_xkMrAICV)
+![](/img/jobs/mch/mchrobot.png)
 
 ## Automaton Queen and Flexible Burst Usage
 
@@ -83,6 +65,8 @@ While the Heat gauge may not be as flexible as the Battery gauge, there is still
 
 Machinists can also pool their resources for later phases of an encounter. Entering a later phase with 100 Heat (effectively 150 due to Barrel Stabilizer) and 100 Battery is extremely strong, and can give Machinists an edge over the other Physical Ranged jobs in some fights. For example, in an encounter with multiple boss phases, you can pool your resources at the end of the first boss, allowing you to reopen in the second boss with a 100 battery Automaton Queen and multiple Hypercharge uses under potions and raid buffs. This makes the final DPS check of the fight easier than it would be if you entered the second boss with no resources saved.
 
+![](/img/jobs/mch/mch-fight-tips.jpg)
+
 ## Skill Speed and Encounter Phasing Optimization
 
 While it’s still the lowest scaling stat, the rotation stays intact at skill speed breakpoints every 0.06s. The  rotation will line up perfectly at GCD speeds of 2.5s, 2.44s, and 2.38s. For every 0.06s subtracted from the GCD, a single Heated Shot filler must be added every two minutes. Unfortunately, going faster will not gain you extra Drills, Chainsaw or Air Anchors. 
@@ -92,6 +76,8 @@ To keep the rotation intact, every 0.06s we lose means we must drift Drill, Chai
 There will be times where skill speed on gear is a positive thing. It’s generally only for fight-specific downtime, but occasionally the additional skill speed will net us an extra Drill, Air Anchor, Chainsaw or Clean Shot in content, which can be a DPS gain. Outside of downtime phasing and unavoidable skill speed gear, the goal should be to maintain a GCD speed of 2.5 in most cases.
 
 In rare scenarios, opening with Air Anchor, Drill and Chainsaw as your first three GCDs will net you an extra Chainsaw and 20 Battery and be an overall net gain compared to delaying them in the opener.
+
+![](/img/jobs/mch/2022-01-03_15-35-21-553_okaminightlight.png)
 
 ## Multi-Target Rotation and Optimization
 
