@@ -2,7 +2,7 @@
 title: Dark Knight FAQ
 layout: qna
 patch: "6.01"
-lastmod: 2021-10-27T17:50:26.715Z
+lastmod: 2022-01-03T21:45:58.517Z
 changelog:
   - date: 2021-10-27T17:50:54.106Z
     message: Added
@@ -27,11 +27,11 @@ qna:
 
       When optimizing, you should plan to use all of your Edge of Shadow (EoS) casts under buffs, and in particular, to put more EoS casts where buffs are stronger. This often means using five EoS under even-minute (0, 2, 4, ...) buffs, and three under odd-minute buffs.
   - question: Can I overlap Blood Weapon and Delirium?
-    answer: Yes, although you need to be careful to not overcap on blood, as
-      Delirium prevents you from spending blood with Bloodspiller until all
+    answer: Yes, although you need to be careful to not overcap on Blood, as
+      Delirium prevents you from spending Blood with Bloodspiller until all
       three of its stacks have been used. With typical alignments of Blood
       Weapon and Delirium, you can accomplish this by making sure that you are
-      at 40 blood or less before pressing Blood Weapon or Delirium, whichever
+      at 40 Blood or less before pressing Blood Weapon or Delirium, whichever
       comes first.
   - question: Why are The Blackest Night and Blood Weapon used pre-pull in the opener?
     answer: Living Shadow plays a long animation (around 6.8s) before it begins
