@@ -61,6 +61,8 @@ For clarity purposes:
 
 * Level 82 will give you Scattergun, and until Machinist gets it's trait at level 84 that increases our single-target combo actions, Scattergun will be better on 2 target fights than the main combo. You should still be using Heat Blast with any Heat you have on 2.
 
+![](/img/jobs/mch/2022-01-03_15-49-14-995_okamiprism.png)
+
 # Level 70 Rotation Differences
 
 If you’re doing 4.x Ultimate fights, or just syncing down to min-ilvl for fun on old Savage fights, you will notice slight differences in Machinist’s job kit. The overall feel of the job remains the same, so if you’re familiar with level 80 Machinist, the changes will make little to no difference for you. Listed below are the changes, in order of importance:
@@ -80,6 +82,8 @@ For the most part, Rook functions the same as Automaton Queen. Each ability requ
 The Wildfire change is straightforward. The ability functions identical to how it does at 80 where you want 6 GCDs inside of the damage window. The only difference is each GCD only counts for 150 potency. Lower scaling, but the same priority in the rotation.
 
 The absence of Bioblaster does not change much. With the only option being Drill,  it just means there’s no thought process on two-target and three-target encounters. At four targets, Spread Shot becomes a gain over Drill, but this isn’t something you need to worry about in high-end content. Outside of Drill and Hot Shot, Spread Shot now becomes the go-to for the basic 3+ target rotation. Battery is less valued due to Rook doing less damage overall compared to Queen, which directly correlates to the expected damage of Clean Shot and the combo system as a whole.
+
+![](/img/jobs/mch/mchred.png)
 
 # Level 80 Rotation Differences
 
