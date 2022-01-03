@@ -625,7 +625,7 @@ Now, let's break apart each situation and their potency gain.
 
 From this evaluation, we can see that situation #3 offers us the best result, as long as that extra combo action turns into potency later on down the line.
 
-![](/img/jobs/rpr/2021-12-07_00-02-00-559_almastudio_colorpop_1.png)
+![](/img/jobs/rpr/2021-12-07_00-02-00-559_almastudio_colorpop.png)
 
 - - -
 
