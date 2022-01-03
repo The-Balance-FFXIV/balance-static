@@ -5,7 +5,7 @@ authors:
   - silaqui-amakiir
   - athunin
 patch: "6.01"
-lastmod: 2021-10-27T17:35:05.040Z
+lastmod: 2022-01-03T21:58:08.434Z
 changelog:
   - date: 2021-10-27T17:35:21.786Z
     message: Added
