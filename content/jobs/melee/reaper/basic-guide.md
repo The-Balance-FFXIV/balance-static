@@ -91,8 +91,6 @@ Reaper has access to a few resources that you will need to master to play the jo
 * Soul Slice > Unveiled Gallows
 * Gallows
 
-![](/img/jobs/rpr/ffxiv_18122021_211238_268.png)
-
 ## Priority System
 
 Reaper can be played well by just following a priority system. Below is the recommended priority system for single target
@@ -128,6 +126,8 @@ Reaper can be played well by just following a priority system. Below is the reco
 
   * Ensure to get one Harvest Moon between each pull and downtime!
 * Harpe if you are not in melee range of the boss.
+
+![](/img/jobs/rpr/ffxiv_18122021_211238_268.png)
 
 ## Notable Utility
 
