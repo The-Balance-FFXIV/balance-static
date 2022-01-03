@@ -12,8 +12,6 @@ changelog:
   - date: 2022-01-02T22:59:40.775Z
     message: Updated for 6.01. Non-standard opener images are still placeholders.
 ---
-uen![]()
-
 # Dark Knight Openers and Rotation
 
 # Openers
@@ -72,14 +70,17 @@ Consider having the other tank pull instead, then Provoke from them if needed.
 Dark Knight’s rotation is deceptively simple, and follows these simple principles:
 
 For GCDs:
+
 * Use Bloodspiller under raid buffs or to prevent overcapping on Blood Gauge.
 * Use the Souleater combo (Hard Slash -> Syphon Strike -> Souleater) to fill remaining GCDs.
 
 For oGCDs:
+
 * Use Edge of Shadow under raid buffs or to prevent overcapping on MP.
 * Hold both charges of Shadowbringer for 2-minute raid buffs.
 * Hold both charges of Plunge for 1-minute raid buffs, unless it can be used to maintain better uptime
 * Use other damaging or buffing oGCDs (such as Salted Earth, Carve abd Spit, Blood Weapon, and Delirium) on cooldown.
+
   * Your second Blood Weapon (around 1:00) can (and should) be delayed by 3 GCDs (with the standard opener, 2 GCDs with the Unmend opener) to avoid overcapping MP/Blood Gauge before raidbuffs.
 
 ## Using Blood Weapon and Delirium
