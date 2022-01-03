@@ -8,11 +8,11 @@ lastmod: 2022-01-02T00:47:43.848Z
 ---
 This guide is targeted at players looking to play and understand Reaper as they level up. It will cover some basic priorities for each level tier and will also serve as a priority list for playing Reaper at lower levels (for ultimates and such). If you are level 90 and looking to explore other guides please visit the following links:
 
-[Basic Guide](/jobs/reaper/basic-guide/)
+[Basic Guide](/jobs/melee/reaper/basic-guide/)
 
-[Advanced Guide](/jobs/reaper/advanced-guide/)
+[Advanced Guide](/jobs/melee/reaper/advanced-guide/)
 
-[Skill Details](/jobs/reaper/skills-overview/)
+[Skill Details](/jobs/melee/reaper/skills-overview/)
 
 ## How to Unlock
 
