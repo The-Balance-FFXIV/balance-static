@@ -370,6 +370,8 @@ Triple Shroud Windows are a tool that we have available in our kit. Using the ab
 
 The triple Shroud window is near-peak optimization for Reaper, requiring specific restrictions and mapping. The overall DPS gains are very minor and it can be quite risky to pool a lot of resources for so long, making a death extremely punishing. At 2.49 this will line up perfectly in a full uptime scenario so if it's something you are looking to attempt you should certainly try but keep in mind the risks and difficulty when attempting it. If, for whatever reason, you attempt the Triple Shroud Window and you cannot enter combo neutral, then do the Double Enshroud and dump your extra Enshroud somewhere later in the fight.
 
+![](/img/jobs/rpr/edgy-reaper-1.png)
+
 - - -
 
 ## The Two Minute Potion
