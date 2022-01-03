@@ -263,7 +263,7 @@ Multi-target  \[3 or more Targets]
 
 That’s it! You made it to level 90. I hope this leveling guide helped you ease your way into playing Reaper. When you have a good grasp of your abilities, I recommend you head on over to the Reaper Basics guide located [here](/jobs/reaper/basic-guide/) to learn some more about how to more effectively play Reaper.
 
-![](/img/jobs/rpr/2021-12-20_03-06-55-218_eg9_-_darklite.png)
+![](/img/jobs/rpr/2021-12-20_03-06-55-218_eg9-darklite.png)
 
 #### Single Target
 
