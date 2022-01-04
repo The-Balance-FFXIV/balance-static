@@ -2,8 +2,8 @@
 title: Reaper Advanced Guide
 authors:
   - ellunavi
-patch: "6.0"
-lastmod: 2021-11-27T12:44:35.311Z
+patch: "6.05"
+lastmod: 2022-01-04T09:05:00.212Z
 changelog:
   - date: 2021-11-27T12:55:28.038Z
     message: Added
