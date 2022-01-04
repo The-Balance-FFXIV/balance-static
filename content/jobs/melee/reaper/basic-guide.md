@@ -3,8 +3,8 @@ title: "Reaper Basic Guide "
 card_header_image: /img/jobs/rpr/screenshot_3-edit.jpg
 authors:
   - ellunavi
-patch: "6.01"
-lastmod: 2021-12-29T16:44:03.621Z
+patch: "6.05"
+lastmod: 2022-01-04T09:04:32.569Z
 changelog:
   - date: 2022-01-02T21:17:24.172Z
     message: Created page
@@ -149,3 +149,7 @@ Reaper can be played well by just following a priority system. Below is the reco
 ### Next Level
 
 When you feel like you have mastered the basics of Reaper, head over the [Advanced Guide](https://www.thebalanceffxiv.com/jobs/melee/reaper/advanced-guide/) to learn how to play the job into raid buffs. The Advanced guide will cover a lot from Double Shroud windows to specific fight mapping tools!
+
+
+
+Special thanks to Moth Kira and Jackal for the infographs!
