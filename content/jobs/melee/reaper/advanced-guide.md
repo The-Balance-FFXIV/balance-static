@@ -1,12 +1,15 @@
 ---
 title: Reaper Advanced Guide
+card_header_image: /img/jobs/rpr/screenshot_5-edit.jpg
 authors:
   - ellunavi
-patch: "6.0"
-lastmod: 2021-11-27T12:44:35.311Z
+patch: "6.05"
+lastmod: 2022-01-04T09:05:00.212Z
 changelog:
   - date: 2021-11-27T12:55:28.038Z
     message: Added
+  - date: 2022-01-04T20:36:20.903Z
+    message: Removed Dancer Dilemna section, due to no longer being required.
 ---
 ## Reaper Advanced Rotational Theory
 
@@ -180,9 +183,7 @@ Let’s break apart this opener and discuss and explain a few things:
 
   * Better Gluttony alignment. Because it uses Gluttony so early it could net you an extra or more favorable use. Endwalkers first two EX trials both see unique cases of this. Such as the first trial allowing you to secure an Extra Harvest Moon in the first or the second EX who jumps at around the time Gluttony comes off CD.
   * Prevent Plentiful Harvest from clipping. This is your best option to ensure that you can Plentiful Harvest with no clip at higher skillspeed or ping. 
-  * The 8th immortal sacrifice with a DNC. This will be covered later in the guide, skip over to the “Dancer Dilemna” section for more details.
-
-    * When using this opener you have a few options for the two minute burst window. If you still need to maintain Gluttony on cooldown you can do a Shroud > Gluttony > Shroud burst window which is detailed below in the Gluttony Split section below. 
+  * * When using this opener you have a few options for the two minute burst window. If you still need to maintain Gluttony on cooldown you can do a Shroud > Gluttony > Shroud burst window which is detailed below in the Gluttony Split section below. 
     * You can also enter into a Double or Triple Enshroud window, this will push back Gluttony to the later time slot but this may be useful if later on in a fight if the aim was to get Gluttony earlier in a phase. You enter this burst sequence at any two minute marker of the fight.
 
 - - -
@@ -475,7 +476,7 @@ Ultimately, we aren’t sure what will be better for content until we have the c
 
 - - -
 
-## The 2.49 (2.48) Global Cooldown
+## The 2.5 \[2.49] (2.48) Global Cooldown
 
 On initial observation, Reaper is a builder and spender class, but has most of its “builders” tied to strictly-timed abilities such as Gluttony, Soul Slice and Plentiful Harvest. Our combo actions will only supply about 30% of the resources needed for our burst. This gives the initial impression that a higher GCD will lead to higher results. Alternatively we could examine the 123 second neutral rotation and attempt to perform that in 120s where there is no perfect fit. A 2.42 GCD will bring the Reaper to that neutral state, but is a relatively low skill speed and will have a pretty big impact on our other stats. Furthermore, Reaper operates just fine in fights that last less than ten minutes.
 
@@ -485,9 +486,7 @@ At a 2.5s GCD, Arcane circle drifts .5s each rotation and Gluttony drifts anywhe
 
 All of these rotations assumed full uptime, except for one disconnect at around three minutes, in which Harvest Moon was used. 
 
-As we can tell, in terms of drifting management, a 2.48 GCD offers us the least risk, with 2.49 not being too far behind. 2.49 is only a single skill speed meld, while 2.48 will require some investment. Using current gear and calculating effective potency, we found that 2.48 performed slightly under 2.49 but was extremely close. 2.5 was the worst of the three, but still performed better than a 2.47 GCD.
-
-While it's hard to tell until we can get our hands on functioning damage formulas and gear choices, 2.49 will most likely be the recommended path, but gearing may steer us into a 2.48 GCD. 
+As we can tell, in terms of drifting management, a 2.48 GCD offers us the least risk, with 2.49 not being too far behind. 2.49 is only a single skill speed meld, while 2.48 will require some investment.  As of 6.05 and the new raid gear, the natural 2.5s GCD set is really strong and hits stat tiers really well. It is currently ahead of a single meld 2.49 set by a slight margin. While we know that 2.49 aligns better with raid buffs, the gain vs. loss of the two sets will have to be compared.
 
 - - -
 
@@ -648,42 +647,6 @@ Lastly you can also use the odd-minute Enshroud to plan your disconnects. See th
 Nothing super special here. Limit Break Three will cost us about three GCDs, or roughly around 1539 potency (assuming that Soul could have been turned into something). Early-combat LB3 will be pretty rough on Reaper, and will most likely mean skipping or delaying a Shroud window. Ideally, you want to LB3 towards the end of combat, after your last Enshroud window.
 
 - - -
-
-## The Dancer Dilemma 
-
-Arcane Circle is a very unique and interesting skill but getting the max amount of stacks can be problematic if all the party members in the raid are not using weapon skills. This is mostly a non-issue but there are at least two jobs that have a number of global cooldowns that are listed as “abilities” and thus won’t generate any Sacrifice stacks. Ninja’s Mudras will not generate a stack for us but this is rarely ever a problem as they typically use weaponskills during the first part of our Arcane Circle. DNC has their steps, finishes and Tillana, all of which are counted as abilities and these abilities are what they are often using during the Ceremony Circle portion of Arcane Circle. This means that when playing with a DNC there is a solid chance that you will miss out on 44p from your Plentiful Harvest because it will fire off at seven stacks.
-
-The gist of the problem is that DNC’s first available GCD slot is at the 8s mark in a fight while most of our openers have Arcane Circle at 1.8s\~2.5s meaning the DNCs GCD can miss the sacrifice. For our second burst window we should push back Arcane Circle to around 124\~125 seconds and DNC’s GCD will be at around 129 seconds, so we will typically get the stack from them if they are doing the appropriate GCD after Technical Finish. After that, in a full uptime fight, DNC will continue to drift one second forward and we will keep pressing Arcane Circle on cooldown, thus losing us a stack of Sacrifices from 4 minutes and onwards. If fights have downtime, the DNC may not drift their buff windows which would allow the Reaper an 8th stack of Immortal Sacrifice.
-
-Fortunately we can work around this a bit by modifying our opener and allowing the opener and two minute mark to receive the 8th stack of sacrifices but we will never be able to remedy the problem on four minutes and onwards without the rest of the raid shifting their buff windows slightly. The first modification is simple but not reliable, you should test it out and if it doesn’t work then consider the second modification.
-
-You can use the Early Gluttony opener and push back the Arcane Circle usage as far back into your GCD as possible. You do not want to clip here, so this will take some testing. Furthermore the DNC must hit their Standard Finish .5s before the pull (they won’t pull, don't worry, the damage delay is large on the ability) and their first global cooldown after Technical Step must be Starfall Dance. A Dancer with high ping may have issues executing this because of how clunky it may be. Lastly, the DNC must be the furthest party member from the Reaper when Arcane Circle is used, this abuses the propagation system to extend the window where the DNC can use Starfall Dance. This is only as reliable as the players, so if you are unable to get the stack from doing this, you should move onto the second modification.
-
-The second modification is a little more complex, but requires using an altered opener that may come with a cost. Below is the adjusted opener and will always provide you with the Sacrifice stack if the DNC uses Starfall Dance after Technical Step:
-
-![](/img/jobs/rpr/earlygluttonydncadjustment-1-.png)
-
-* Soul Sow before pull
-* Harpe at 2s on the countdown
-* Shadow of Death > Middle weave Potion
-* Shadow of Death > Late Weave Arcane Circle
-* Soul Slice > Gluttony
-* Gibbet
-* Gallows
-* Plentiful Harvest > Enshroud
-* Void Reaping
-* Cross Reaping > Lemure’s Slice
-* Void Reaping
-* Cross Reaping > Lemure’s Slice
-* Communio
-* Soul Slice > Unveiled Gibbet
-* Gibbet
-
-If your only concern is to increase your fflogs rDPS ranking, then you don’t need to read  the next section below. If playing with a DNC this will be a super slight increase to your overall rDPS (at iLvl 575 it is 1000 damage (less than half an auto) over the duration of the fight, so a two rDPS increase over a nine minute encounter) regardless of your party composition.
-
-If you are trying to min/max your opening sequence to squeeze out the most possible DPS then you need to consider a few things. First is what opener you would normally be using in place of this: Early Gluttony, or Fast Shroud. If you need a refresher on these two openers and their purpose then head over to the Opener section of this guide. Next you need to consider your party composition. Below is a little tool that I made that will help you optimize your opener. Just simply select what opener you would use and what party buffs you have rolling and it will tell you if you should adjust or not.
-
-[RPR DNC Adjusted Opener Tool](https://docs.google.com/spreadsheets/d/1M8az3TuWeuDDh69965brE9pD9gjeWgNt5xvgERbZ1JQ/edit?usp=sharing)
 
 ## Reaper Damage Delay
 
