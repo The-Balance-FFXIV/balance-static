@@ -3,7 +3,7 @@ title: Reaper Skill Overview
 authors:
   - dook
 patch: "6.05"
-lastmod: 2022-01-01T17:50:51.795Z
+lastmod: 2022-01-04T09:04:03.939Z
 ---
 ## Single-Target Actions
 
