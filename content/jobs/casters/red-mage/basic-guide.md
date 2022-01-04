@@ -3,6 +3,9 @@ title: Red Mage Basic Guide
 card_header_image: /img/jobs/rdm/basic.png
 authors:
   - Balance-RDM-Staff
+  - lana
+  - argen
+  - meru
 patch: "6.0"
 lastmod: 2022-01-03T20:49:22.531Z
 changelog:
@@ -38,7 +41,7 @@ The biggest overhaul to Red Mage in 6.0 was the change to how much mana we gener
 | Verflare/Verholy         | +21 Black/White -> +11 Black/White Mana        |
 | Scorch                   | +7 Black & White -> +4 Black & White Mana      |
 
-&nbsp;\
+&nbsp;
 
 In relation to this change in mana generation values, the mana cost of weaponskills has also been adjusted to cost 10 mana less than previously, meaning the melee combo now costs 30 less mana resulting in a requirement of 50|50 Black and White Mana. Exact values are as follows: 
 
@@ -49,7 +52,7 @@ In relation to this change in mana generation values, the mana cost of weaponski
 | Enchanted Zwerchhau    | \-25 Black & White -> -15 Black & White Mana |
 | Enchanted Redoublement | \-25 Black & White -> -15 Black & White Mana |
 
-&nbsp;\
+&nbsp;
 
 **Melee Combo Finishers**
 
@@ -166,7 +169,7 @@ One of the strongest parts of Red Mage’s kit is its powerful oGCD abilities, w
 | Corps-a-corps           | 130         | 35 seconds      |
 | Engagement/Displacement | 180         | 35 seconds      |
 
-&nbsp;\
+&nbsp;
 
 **Damage oGCD priority (based on potency and cooldown timer):**
 
@@ -202,7 +205,7 @@ Vercure is part of Red Mage’s strong utility kit, and its uses in raid recover
 
 ![RDM Opener](/img/jobs/rdm/rdm_ew_opener.png)
 
-&nbsp;\
+&nbsp;
 
 Our opener has changed significantly in 6.x largely due to Manafication. As Manafication now gives enough mana for a full melee combo, we can enter our combo significantly earlier and put more hard-hitting skills under party buffs. The goal of this opener is threefold – maximize damage under potion and party buffs, keep oGCDs aligned, and guarantee two procs after our melee combo. 
 
