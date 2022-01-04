@@ -180,9 +180,7 @@ Let’s break apart this opener and discuss and explain a few things:
 
   * Better Gluttony alignment. Because it uses Gluttony so early it could net you an extra or more favorable use. Endwalkers first two EX trials both see unique cases of this. Such as the first trial allowing you to secure an Extra Harvest Moon in the first or the second EX who jumps at around the time Gluttony comes off CD.
   * Prevent Plentiful Harvest from clipping. This is your best option to ensure that you can Plentiful Harvest with no clip at higher skillspeed or ping. 
-  * The 8th immortal sacrifice with a DNC. This will be covered later in the guide, skip over to the “Dancer Dilemna” section for more details.
-
-    * When using this opener you have a few options for the two minute burst window. If you still need to maintain Gluttony on cooldown you can do a Shroud > Gluttony > Shroud burst window which is detailed below in the Gluttony Split section below. 
+  * * When using this opener you have a few options for the two minute burst window. If you still need to maintain Gluttony on cooldown you can do a Shroud > Gluttony > Shroud burst window which is detailed below in the Gluttony Split section below. 
     * You can also enter into a Double or Triple Enshroud window, this will push back Gluttony to the later time slot but this may be useful if later on in a fight if the aim was to get Gluttony earlier in a phase. You enter this burst sequence at any two minute marker of the fight.
 
 - - -
@@ -660,30 +658,6 @@ Fortunately we can work around this a bit by modifying our opener and allowing t
 You can use the Early Gluttony opener and push back the Arcane Circle usage as far back into your GCD as possible. You do not want to clip here, so this will take some testing. Furthermore the DNC must hit their Standard Finish .5s before the pull (they won’t pull, don't worry, the damage delay is large on the ability) and their first global cooldown after Technical Step must be Starfall Dance. A Dancer with high ping may have issues executing this because of how clunky it may be. Lastly, the DNC must be the furthest party member from the Reaper when Arcane Circle is used, this abuses the propagation system to extend the window where the DNC can use Starfall Dance. This is only as reliable as the players, so if you are unable to get the stack from doing this, you should move onto the second modification.
 
 The second modification is a little more complex, but requires using an altered opener that may come with a cost. Below is the adjusted opener and will always provide you with the Sacrifice stack if the DNC uses Starfall Dance after Technical Step:
-
-![](/img/jobs/rpr/earlygluttonydncadjustment-1-.png)
-
-* Soul Sow before pull
-* Harpe at 2s on the countdown
-* Shadow of Death > Middle weave Potion
-* Shadow of Death > Late Weave Arcane Circle
-* Soul Slice > Gluttony
-* Gibbet
-* Gallows
-* Plentiful Harvest > Enshroud
-* Void Reaping
-* Cross Reaping > Lemure’s Slice
-* Void Reaping
-* Cross Reaping > Lemure’s Slice
-* Communio
-* Soul Slice > Unveiled Gibbet
-* Gibbet
-
-If your only concern is to increase your fflogs rDPS ranking, then you don’t need to read  the next section below. If playing with a DNC this will be a super slight increase to your overall rDPS (at iLvl 575 it is 1000 damage (less than half an auto) over the duration of the fight, so a two rDPS increase over a nine minute encounter) regardless of your party composition.
-
-If you are trying to min/max your opening sequence to squeeze out the most possible DPS then you need to consider a few things. First is what opener you would normally be using in place of this: Early Gluttony, or Fast Shroud. If you need a refresher on these two openers and their purpose then head over to the Opener section of this guide. Next you need to consider your party composition. Below is a little tool that I made that will help you optimize your opener. Just simply select what opener you would use and what party buffs you have rolling and it will tell you if you should adjust or not.
-
-[RPR DNC Adjusted Opener Tool](https://docs.google.com/spreadsheets/d/1M8az3TuWeuDDh69965brE9pD9gjeWgNt5xvgERbZ1JQ/edit?usp=sharing)
 
 ## Reaper Damage Delay
 
