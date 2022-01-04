@@ -149,3 +149,7 @@ Reaper can be played well by just following a priority system. Below is the reco
 ### Next Level
 
 When you feel like you have mastered the basics of Reaper, head over the [Advanced Guide](https://www.thebalanceffxiv.com/jobs/melee/reaper/advanced-guide/) to learn how to play the job into raid buffs. The Advanced guide will cover a lot from Double Shroud windows to specific fight mapping tools!
+
+
+
+Special thanks to Moth Kira and Jackal for the infographs!
