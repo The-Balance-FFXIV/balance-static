@@ -2,10 +2,10 @@
 title: Red Mage Basic Guide
 card_header_image: /img/jobs/rdm/basic.png
 authors:
-  - Balance-RDM-Staff
   - lana
   - argen
   - meru
+  - Balance-RDM-Staff
 patch: "6.0"
 lastmod: 2022-01-03T20:49:22.531Z
 changelog:
