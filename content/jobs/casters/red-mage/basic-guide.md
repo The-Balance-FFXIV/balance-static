@@ -34,8 +34,9 @@ The biggest overhaul to Red Mage in 6.0 was the change to how much mana we gener
 
 *\*Please note that AoE spell mana values were not adjusted*
 
-| Jolt I/II                | +3 Black & White Mana -> +2 Black & White Mana |
+| Spell                    | Mana Generation                                |
 | ------------------------ | ---------------------------------------------- |
+| Jolt I/II                | +3 Black & White Mana -> +2 Black & White Mana |
 | Verthunder/Veraero I/III | +11 Black/White -> +6 Black/White Mana         |
 | Verfire/Verstone         | +9 Black/White -> +5 Black/White Mana          |
 | Verflare/Verholy         | +21 Black/White -> +11 Black/White Mana        |
@@ -47,8 +48,9 @@ In relation to this change in mana generation values, the mana cost of weaponski
 
 *\*Please note that Enchanted Moulinet and Enchanted Reprise mana costs were not adjusted*
 
-| Enchanted Riposte      | \-30 Black & White -> -20 Black & White Mana |
+| Ability                | Mana Cost                                    |
 | ---------------------- | -------------------------------------------- |
+| Enchanted Riposte      | \-30 Black & White -> -20 Black & White Mana |
 | Enchanted Zwerchhau    | \-25 Black & White -> -15 Black & White Mana |
 | Enchanted Redoublement | \-25 Black & White -> -15 Black & White Mana |
 
