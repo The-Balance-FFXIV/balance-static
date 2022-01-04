@@ -8,6 +8,8 @@ lastmod: 2022-01-04T09:05:00.212Z
 changelog:
   - date: 2021-11-27T12:55:28.038Z
     message: Added
+  - date: 2022-01-04T20:36:20.903Z
+    message: Removed Dancer Dilemna section, due to no longer being required.
 ---
 ## Reaper Advanced Rotational Theory
 
@@ -645,18 +647,6 @@ Lastly you can also use the odd-minute Enshroud to plan your disconnects. See th
 Nothing super special here. Limit Break Three will cost us about three GCDs, or roughly around 1539 potency (assuming that Soul could have been turned into something). Early-combat LB3 will be pretty rough on Reaper, and will most likely mean skipping or delaying a Shroud window. Ideally, you want to LB3 towards the end of combat, after your last Enshroud window.
 
 - - -
-
-## The Dancer Dilemma 
-
-Arcane Circle is a very unique and interesting skill but getting the max amount of stacks can be problematic if all the party members in the raid are not using weapon skills. This is mostly a non-issue but there are at least two jobs that have a number of global cooldowns that are listed as “abilities” and thus won’t generate any Sacrifice stacks. Ninja’s Mudras will not generate a stack for us but this is rarely ever a problem as they typically use weaponskills during the first part of our Arcane Circle. DNC has their steps, finishes and Tillana, all of which are counted as abilities and these abilities are what they are often using during the Ceremony Circle portion of Arcane Circle. This means that when playing with a DNC there is a solid chance that you will miss out on 44p from your Plentiful Harvest because it will fire off at seven stacks.
-
-The gist of the problem is that DNC’s first available GCD slot is at the 8s mark in a fight while most of our openers have Arcane Circle at 1.8s\~2.5s meaning the DNCs GCD can miss the sacrifice. For our second burst window we should push back Arcane Circle to around 124\~125 seconds and DNC’s GCD will be at around 129 seconds, so we will typically get the stack from them if they are doing the appropriate GCD after Technical Finish. After that, in a full uptime fight, DNC will continue to drift one second forward and we will keep pressing Arcane Circle on cooldown, thus losing us a stack of Sacrifices from 4 minutes and onwards. If fights have downtime, the DNC may not drift their buff windows which would allow the Reaper an 8th stack of Immortal Sacrifice.
-
-Fortunately we can work around this a bit by modifying our opener and allowing the opener and two minute mark to receive the 8th stack of sacrifices but we will never be able to remedy the problem on four minutes and onwards without the rest of the raid shifting their buff windows slightly. The first modification is simple but not reliable, you should test it out and if it doesn’t work then consider the second modification.
-
-You can use the Early Gluttony opener and push back the Arcane Circle usage as far back into your GCD as possible. You do not want to clip here, so this will take some testing. Furthermore the DNC must hit their Standard Finish .5s before the pull (they won’t pull, don't worry, the damage delay is large on the ability) and their first global cooldown after Technical Step must be Starfall Dance. A Dancer with high ping may have issues executing this because of how clunky it may be. Lastly, the DNC must be the furthest party member from the Reaper when Arcane Circle is used, this abuses the propagation system to extend the window where the DNC can use Starfall Dance. This is only as reliable as the players, so if you are unable to get the stack from doing this, you should move onto the second modification.
-
-The second modification is a little more complex, but requires using an altered opener that may come with a cost. Below is the adjusted opener and will always provide you with the Sacrifice stack if the DNC uses Starfall Dance after Technical Step:
 
 ## Reaper Damage Delay
 
