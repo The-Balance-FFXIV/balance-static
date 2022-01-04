@@ -1,5 +1,6 @@
 ---
 title: Reaper Advanced Guide
+card_header_image: /img/jobs/rpr/screenshot_5-edit.jpg
 authors:
   - ellunavi
 patch: "6.05"
