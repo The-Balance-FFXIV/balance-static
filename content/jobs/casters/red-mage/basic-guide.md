@@ -4,7 +4,7 @@ card_header_image: /img/jobs/rdm/basic.png
 authors:
   - Balance-RDM-Staff
 patch: "6.0"
-lastmod: 2022-01-02T20:49:22.531Z
+lastmod: 2022-01-03T20:49:22.531Z
 changelog:
   - date: 2021-10-26T01:24:41.469Z
     message: Created page
@@ -105,7 +105,7 @@ An important part of Red Mage is keeping your Black and White mana “balanced,�
 
 ### GCD Spells and Dualcast
 
-Red Mage has two types of spells – what we refer to as long casts (5s cast time) and short casts (2.5s cast time). Damaging short casts include Jolt II, Verstone, Verfire, Verthunder II, and Veraero II while long casts include Verthunder III, Veraero III, and Impact. Spells with longer cast times have higher potencies than our short casts and also generate more mana, but should never be hardcasted with their full cast time outside the opener. Instead, we utilize these spells efficiently with our Dualcast trait. We gain the Dualcast buff from hardcasting a spell, which allows us to instantly cast any spell with a cast time. Our casting phase then follows a rhythm of hardcasting spells with short cast times to gain Dualcast, and then using the buff to instantly cast spells with longer cast time to maximize our potency and mana generation over time.
+Red Mage has two types of spells – what we refer to as long casts (5s cast time) and short casts (2.5s cast time). Damaging short casts include Jolt II, Verstone, Verfire, Verthunder II, and Veraero II while long casts include Verthunder III, Veraero III, and Impact. Spells with longer cast times have higher potencies than our short casts and also generate more mana, but should never be hardcast with their full cast time outside the opener. Instead, we utilize these spells efficiently with our Dualcast trait. We gain the Dualcast buff from hardcasting a spell, which allows us to instantly cast any spell with a cast time. Our casting phase then follows a rhythm of hardcasting spells with short cast times to gain Dualcast, and then using the buff to instantly cast spells with longer cast time to maximize our potency and mana generation over time.
 
 Casting Verthunder III gives us black mana, while casting Veraero III gives us white mana. Every time Verthunder III or Veraero III is used, there is a 50% chance of receiving a proc, which allows us to cast either Verfire or Verstone respectively. In single target scenarios, your basic rotation will be to cast Verfire or Verstone (or Jolt II if no procs are available) and then dualcast either Verthunder III or Veraero III. When choosing whether to dualcast Verthunder III or Veraero III, you should prioritize whatever mana type does not currently have a proc available. For example, if you cast Verstone and already have a Verfire proc available, your dualcast should be spent on Veraero (if it will not unbalance your mana) as you have spent your Verstone proc and have a chance of receiving another Verstone proc. 
 
@@ -136,7 +136,7 @@ Enchanted Riposte, Enchanted Zwerchhau, and Enchanted Redoublement are single ta
 
 All three finishers are instant casts and deal damage to multiple targets, making them strong spells in AoE scenarios. Each finisher also generates a set amount of mana, allowing us to begin rebuilding our gauge before beginning our casting phase again. The choice between using Verflare or Verholy depends on the state of your procs and mana gauge. Use the finisher corresponding to your lower mana to guarantee a Verfire or Verstone proc. However, if the lower mana already has a proc available and the higher one does not, use the finisher of the higher mana for the 20% proc chance as long as it does not cause you to unbalance your mana. 
 
-Scorch, the follow-up finisher to Verflare/Verholy, simply deals damage to its primary target and enemies around it. Our final finisher however, Resolution, is a line aimed toward the targeted enemy. When using Resolution in AoE scenarios, you should try to position your character so that the line will hit as many enemies as possible. Do note that Resolution will always hit the target it is casted on, regardless of the direction the visual goes in. In addition, all our finishers deal full damage to the targeted enemy and falloff damage for the rest. 
+Scorch, the follow-up finisher to Verflare/Verholy, simply deals damage to its primary target and enemies around it. Our final finisher however, Resolution, is a line aimed toward the targeted enemy. When using Resolution in AoE scenarios, you should try to position your character so that the line will hit as many enemies as possible. Do note that Resolution will always hit the target it is cast on, regardless of the direction the visual goes in. In addition, all our finishers deal full damage to the targeted enemy and falloff damage for the rest. 
 
 In scenarios with three or more targets, we can replace our single target melee skills with Enchanted Moulinet, as it offers more potency while still granting a Mana Stack with each use. Therefore, our “melee combo” in this scenario would consist of three uses of Enchanted Moulinet followed by our finishers. Note that means we need to amass **60|60 mana before beginning our AoE “combo”**, as casting any spell will cause us to lose all our stacks.
 
@@ -306,7 +306,7 @@ Another important thing to note about mitigation is to always be consistent with
 
 ### Recovery
 
-In addition to mitigation, Red Mage has two party recovery GCD spells that can be Dualcasted: Vercure and Verraise. Both of these abilities are capable of saving runs and reducing healer load, but are used very differently.
+In addition to mitigation, Red Mage has two party recovery GCD spells that can be Dualcast: Vercure and Verraise. Both of these abilities are capable of saving runs and reducing healer load, but are used very differently.
 
 **Vercure**
 
@@ -318,7 +318,7 @@ In short, as a form of utility, Vercure can be used in one off situations to fir
 
 **Verraise**
 
-A resurrection spell that can be instant casted via Dualcast or Swiftcast with a high MP cost (2,400), which is very useful for saving runs from wiping. Red Mage is often chosen in progression for this ability because you can raise multiple people back-to-back with Dualcast and Swiftcast. 
+A resurrection spell that can be instant cast via Dualcast or Swiftcast with a high MP cost (2,400), which is very useful for saving runs from wiping. Red Mage is often chosen in progression for this ability because you can raise multiple people back-to-back with Dualcast and Swiftcast. 
 
 A common point of contention is “when should the caster or the healer raise”. In progression, where the focus is learning mechanics and DPS doesn’t matter, the Red Mage should cover as many resurrections as possible to help healers save MP (ideally with Super-Ethers). This applies even when healers have Swiftcast available as healer GCDs for emergency healing and MP pools are more important than your personal DPS in early progression.
 
@@ -332,7 +332,7 @@ If in a static, try to work together with or communicate with your healer. For m
 
 **Sleep** *(role action)*
 
-New role action in Endwalker. This is unlikely to find much use in raids or dungeons. Raid bosses are generally immune to status effects, and hitting a sleeping normal mob will wake them up anyway. However, Sleep can have some niche uses disabling enemies in the overworld or certain types of instanced content, like in Eureka. This spell can proc and consume Dualcast, and can also be Swiftcasted.
+New role action in Endwalker. This is unlikely to find much use in raids or dungeons. Raid bosses are generally immune to status effects, and hitting a sleeping normal mob will wake them up anyway. However, Sleep can have some niche uses disabling enemies in the overworld or certain types of instanced content, like in Eureka. This spell can proc and consume Dualcast, and can also be Swiftcast.
 
 **Surecast** *(role action)*
 
