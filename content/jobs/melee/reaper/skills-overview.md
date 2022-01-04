@@ -4,6 +4,9 @@ authors:
   - dook
 patch: "6.05"
 lastmod: 2022-01-04T09:04:03.939Z
+changelog:
+  - date: 2022-01-04T20:37:59.400Z
+    message: Updated Crest of Time Returned potency from 100 to 50.
 ---
 ## Single-Target Actions
 
