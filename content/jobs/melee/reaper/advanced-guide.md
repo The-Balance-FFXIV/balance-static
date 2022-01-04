@@ -473,7 +473,7 @@ Ultimately, we aren’t sure what will be better for content until we have the c
 
 - - -
 
-## The 2.49 (2.48) Global Cooldown
+## The 2.5 \[2.49] (2.48) Global Cooldown
 
 On initial observation, Reaper is a builder and spender class, but has most of its “builders” tied to strictly-timed abilities such as Gluttony, Soul Slice and Plentiful Harvest. Our combo actions will only supply about 30% of the resources needed for our burst. This gives the initial impression that a higher GCD will lead to higher results. Alternatively we could examine the 123 second neutral rotation and attempt to perform that in 120s where there is no perfect fit. A 2.42 GCD will bring the Reaper to that neutral state, but is a relatively low skill speed and will have a pretty big impact on our other stats. Furthermore, Reaper operates just fine in fights that last less than ten minutes.
 
@@ -483,9 +483,7 @@ At a 2.5s GCD, Arcane circle drifts .5s each rotation and Gluttony drifts anywhe
 
 All of these rotations assumed full uptime, except for one disconnect at around three minutes, in which Harvest Moon was used. 
 
-As we can tell, in terms of drifting management, a 2.48 GCD offers us the least risk, with 2.49 not being too far behind. 2.49 is only a single skill speed meld, while 2.48 will require some investment. Using current gear and calculating effective potency, we found that 2.48 performed slightly under 2.49 but was extremely close. 2.5 was the worst of the three, but still performed better than a 2.47 GCD.
-
-While it's hard to tell until we can get our hands on functioning damage formulas and gear choices, 2.49 will most likely be the recommended path, but gearing may steer us into a 2.48 GCD. 
+As we can tell, in terms of drifting management, a 2.48 GCD offers us the least risk, with 2.49 not being too far behind. 2.49 is only a single skill speed meld, while 2.48 will require some investment.  As of 6.05 and the new raid gear, the natural 2.5s GCD set is really strong and hits stat tiers really well. It is currently ahead of a single meld 2.49 set by a slight margin. While we know that 2.49 aligns better with raid buffs, the gain vs. loss of the two sets will have to be compared.
 
 - - -
 
