@@ -5,8 +5,8 @@ authors:
   - dook
   - Balance-MCH-Staff
   - lynn-nuvestrahl
-patch: "6.0"
-lastmod: 2021-12-07T00:19:42.444Z
+patch: "6.05"
+lastmod: 2022-01-04T09:23:40.142Z
 changelog:
   - date: 2021-10-25T21:57:19.219Z
     message: Created page
@@ -53,7 +53,7 @@ Reassemble now comes on a charge system, stacking up to two charges. Since Drill
 
 The three things that make up Machinist’s flexible burst are the Heat gauge, the Battery gauge, and the charges of Gauss Round and Ricochet. The first rule for these resources is to never allow them to overcap if possible. The second rule is to use as many of them as you can before an encounter ends, preferring to end a fight with these gauges as close to zero as possible.
 
-Automaton Queen is Machinist’s most flexible burst and is also the most powerful of the three. Automaton Queen’s damage scaling is linear to the amount of battery she was summoned at. For every 10 Battery, the summon is worth 260 potency, with Pilebunker being 65 potency and Crowned Collider being 75 potency per 10 gauge. At maximum Battery, Automaton Queen will last 21s and is worth 2600 potency, with 650 of that coming from Pilebunker and another 750 coming from Crowned Collider. Below is a chart listing all Battery levels and their information.
+Automaton Queen is Machinist’s most flexible burst and is also the most powerful of the three. Automaton Queen’s damage scaling is linear to the amount of battery she was summoned at. For every 10 Battery, the summon is worth 260 potency, with Pile Bunker being 65 potency and Crowned Collider being 75 potency per 10 gauge. At maximum Battery, Automaton Queen will last 21s and is worth 2600 potency, with 650 of that coming from Pile Bunker and another 750 coming from Crowned Collider. Below is a chart listing all Battery levels and their information.
 
 | Battery Amount | Battery Timer | Actual Time Active | Punches | Potency Per Battery | Pile Bunker Potency | Crowned Collider Potency | Total Normalized Pet Potency |
 | -------------- | ------------- | ------------------ | ------- | ------------------- | ------------------- | ------------------------ | ---------------------------- |
@@ -64,11 +64,9 @@ Automaton Queen is Machinist’s most flexible burst and is also the most powerf
 | 90             | 18.5 seconds  | 21.5 seconds       | 9       | 26                  | 585                 | 675                      | 2082                         |
 | 100            | 20.5 seconds  | 23.5 seconds       | 10      | 26                  | 650                 | 750                      | 2314                         |
 
+Timing Automaton Queen’s summoning can be a bit of an issue due to her wind-up animation, which lasts 5 seconds at the start of the timer regardless of battery at summoning time. Because of this, “reactionary summoning” can be quite bad, and will almost always result in Pile Bunker / Crowned Collider landing outside of raid buffs. To remedy this, it is suggested that Automaton Queen is summoned prior to raid buffs being used. Luckily, the vast majority of raid buffs come out at two-minute intervals. In a two-minute cycle, Machinist generates about 180 Battery, which lets you summon Automaton Queen every minute. With a large amount of Battery, you would want to summon Automaton Queen a GCD or two before the minute burst windows to ensure Pile Bunker and Crowned Collider land towards the end of your party’s raid buffs. Even though Queen’s timer at 100 Battery is 21 seconds, it’s slightly misleading. The end of the timer determines when Pile Bunker will go off, but Crowned Collider will go off even after that. With how much potency both of these actions are, it’s wise to ensure they both land in the majority of raid buffs.
 
-
-Timing Automaton Queen’s summoning can be a bit of an issue due to her wind-up animation, which lasts 5 seconds at the start of the timer regardless of battery at summoning time. Because of this, “reactionary summoning” can be quite bad, and will almost always result in Pilebunker / Crowned Collider landing outside of raid buffs. To remedy this, it is suggested that Automaton Queen is summoned prior to raid buffs being used. Luckily, the vast majority of raid buffs come out at two-minute intervals. In a two-minute cycle, Machinist generates about 180 Battery, which lets you summon Automaton Queen every minute, using Reassemble as a way to track the timer. With a large amount of Battery, you would want to summon Automaton Queen a GCD or two before Reassemble to ensure Pilebunker and Crowned Collider land towards the end of your party’s raid buffs. Even though Queen’s timer at 100 Battery is 21 seconds, it’s slightly misleading. The end of the timer determines when Pilebunker will go off, but Crowned Collider will go off even after that. With how much potency both of these actions are, it’s wise to ensure they both land in the majority of raid buffs.
-
-Queen’s summon should be delayed if scripted downtime is about to happen. Using Overdrive is always a loss and should be avoided unless a fight is ending and you have no other option to get the Pilebunker and Crowned Collider off. Ultimately, you should be planning your Battery usage in such a way Queen’s finishers go off naturally, and so that you end a fight with as little excess Battery as possible.
+Queen’s summon should be delayed if scripted downtime is about to happen. Using Overdrive is always a loss and should be avoided unless a fight is ending and you have no other option to get the Pile Bunker and Crowned Collider off. Ultimately, you should be planning your Battery usage in such a way Queen’s finishers go off naturally, and so that you end a fight with as little excess Battery as possible.
 
 Queen mirrors our buffs in real time and is affected by all buffs except Dragon Sight from Dragoon. Pets are not affected by resurrection sickness, but they are affected by damage down and stuns. Automaton Queen receives the damage bonus from the Action Damage trait but does not receive any racial stat bonus. She uses a 100 DEX modifier instead of the 115 DEX modifier our own character uses. She uses no special f(ATK). Queen also does not benefit from the 5% party buff bonus. What does all of this mean? Her potency is closer to 90% of our own in a full party. Any other modifiers should be checked using ACT on a per fight basis if there are any questions. 
 
