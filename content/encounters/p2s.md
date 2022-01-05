@@ -181,8 +181,19 @@ Sewage Deluge
 ### Ability Order
 
 ```
-
+Channeling Overflow
+Coherence
+Dissociation
+Sewage Eruption
+Ominous Bubbling
+Shockwave
+Doubled Impact
+Murky Depths
+Murky Depths
+Sewage Deluge
 ```
+
+Enrage is a hard casted Sewage Deluge that occurs at 10:16 into the fight, wiping the raid at 10:26.
 
 ## PF Strategies
 
