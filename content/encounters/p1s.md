@@ -99,9 +99,13 @@ Erichthonios commands the crystals to start exploding.
 
 A heavy raidwide AoE that deals magic damage. Changes the arena to a circle, with different coloured areas.
 
+**Aetherchain**
+
+Erichthonios will summon either red orbs or white orbs around him, which indicate the sections of the floor that will blow up.
+
 **Aetherflail**
 
-Erichthonios will summon either red orbs or white orbs around him, which indicate the sections of the floor that will blow up. In addition, he will do two **Pitiless Flail** mechanics, with one being a Sickle (left/right) and the other being Morningstar (out) or Chakram (in).
+Erichthonios will do Aetherchain's orb mechanic. In addition, he will do two **Gaoler's Flail** mechanics, with one being a Sickle (left/right) and the other being Morningstar (out) or Chakram (in).
 
 **Shackles of Time**
 
@@ -167,9 +171,34 @@ Shining cells
 
 ### Ability Order
 
+Either
+
+```
+Shackles of Time
+Pitiless Flail of Grace OR Pitiless Flail of Purgation
+Warder's Wrath
+```
+
+OR
+
+```
+Aetherial Shackles
+Aetherchain
+Aetherchain
+Warder's Wrath
 ```
 
 ```
+Aetherflail
+Aetherflail
+Aetherflail
+Warder's Wrath
+Warder's Wrath
+Warder's Wrath
+Lethe
+```
+
+Enrage is a hardcasted Lethe that occurs at 9:50 into the fight, wiping the raid at 10:02.
 
 ## PF Strategies
 
