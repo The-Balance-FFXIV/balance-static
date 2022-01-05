@@ -71,11 +71,11 @@ Erichthonios will bring out two weapons in succession during the castbar. Mechan
 * Morningstar: A point-blank AoE around Erichthonios. Max melee range is safe.
 * Chakram: A donut AoE around Erichthonios. 
 
-**Pitiless Flail of Grace** and **Pitiless Flail of Purgatory**
+**Pitiless Flail of Grace** and **Pitiless Flail of Purgation**
 
 The current main tank will be marked with a line buster. This will knock them back, deal moderate damage, and inflict a magic vulnerability debuff. There needs to be a tank swap during the cast, as the boss will do a mechanic afterwards on whoever has aggro.
 * Grace is a stack marker on the tank - all players should stack behind the boss.
-* Purgatory is a flare marker on the tank - the tank should run far away from both the other tank and the party.
+* Purgation is a flare marker on the tank - the tank should run far away from both the other tank and the party.
 
 **Aetherial Shackles**
 
@@ -101,4 +101,90 @@ A heavy raidwide AoE that deals magic damage. Changes the arena to a circle, wit
 
 **Aetherflail**
 
-Erichthonios will do 
+Erichthonios will summon either red orbs or white orbs around him, which indicate the sections of the floor that will blow up. In addition, he will do two **Pitiless Flail** mechanics, with one being a Sickle (left/right) and the other being Morningstar (out) or Chakram (in).
+
+**Shackles of Time**
+
+Inflicts a random player with the Shackles of Time debuff. When this debuff expires, the colour that the player is standing on will explode, damaging all players standing on that colour except for the debuffed player.
+
+**Slam Shut**
+
+A heavy raidwide AoE that deals magic damage. Changes the arena back into a square.
+
+**Fourfold Shackles**
+
+Inflicts four players with Shackles of Loneliness and four players with Shackles of Companionship. Each of these debuffs has a different duration: 3 seconds, 8 seconds, 13 seconds, and 18 seconds.
+
+## Fight Strategy
+
+### Phase 1
+
+* 
+
+### Ability Order
+
+```
+Heavy Hand
+Aetherial Shackles
+Warder's Wrath
+Gaoler's Flail
+Pitiless Flail of Grace OR Pitiless Flail of Purgation
+Gaoler's Flail
+Warder's Wrath
+Intemperance
+Intemperate Torment
+Warder's Wrath
+Warder's Wrath
+Pitiless Flail of Purgation OR Pitiless Flail of Grace
+Shining Cells
+```
+
+### Phase 2
+
+* 
+
+### Ability Order
+
+```
+Aetherflail
+Pitiless Flail of Grace OR Pitiless Flail of Purgation
+Aetherflail
+Shackles of Time
+Heavy Hand
+Slam Shut
+Fourfold Shackles
+Warder's Wrath
+Intemperance
+Intemperate Torment
+Gaoler's Flail
+Warder's Wrath
+Shining cells
+```
+
+### Phase 3
+
+*
+
+### Ability Order
+
+```
+
+```
+
+## PF Strategies
+
+*
+
+## Role Specific Tips
+
+### Tank
+
+*
+
+### Healer
+
+*
+
+### DPS
+
+*
