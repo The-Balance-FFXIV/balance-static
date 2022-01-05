@@ -123,7 +123,18 @@ Inflicts four players with Shackles of Loneliness and four players with Shackles
 
 ### Phase 1
 
-* 
+* The fight begins with a tank buster.
+* Aetherial Shackles can be executed simply by standing on markers at respective clock spots. However, players will have to adjust which marker they are standing on based on the debuffs that are inflicted.
+  * The player inflicted with Shackles of Loneliness MUST be on a numbered marker on the outside and the player inflicted with Shackles of Companionship MUST be on a lettered marker on the inside. The easiest way to do this is to just swap with a role partner if needed.
+* For Gaoler's Flail, it will either be two Sickles, or Morningstar and Chakram. Therefore, the movement can either be left to right or right to left, or in then out or out then in.
+* The current offtank should Provoke during the castbar of Pitiless Flail, then either stack with the party in the middle if it is Grace or move far away from the party and the other tank if it is Purgation. The tank taking the Pitiless Flail hit needs be knocked back towards the corner or they will be knocked back into the wall.
+* Do another Gaoler's Flail, which will be the opposite pattern as previous.
+* Intemperance will divide the arena into nine sections with crystals. Each player will have to soak the first crystal in their clock spot section, then fix their colour so that they have the appropriate debuff to take the third crystal in their clock spot section.
+  * First, stand in your assigned section based on clock spots, close to the middle in order to receive healing.
+  * Next, players will have to use one of the sections in the middle column. If they do not need to fix their colour for the third crystal, they will stand in the middle. Otherwise, they will use the North or South crystals to change their debuff. Do not stand in any section other than the middle column, as all of those will have purple crystals.
+  * Finally, players should get healed up and head to their assigned section again to soak the final crystal.
+  * One caveat is that sometimes the tank standing in the north section must take a damage down in order to satisfy the condition of needing to soak a crystal on the second explosion. This is solved by the north tank and the northeast DPS always swapping places for the third crystal explosion.
+* Perform another Pitiless Flail mechanic, and heal up and mitigate for Shining Cells.
 
 ### Ability Order
 
@@ -145,6 +156,10 @@ Shining Cells
 
 ### Phase 2
 
+* In this phase, the arena changes to a circular dartboard with two different colours - red and white/blue.
+* Aetherflail requires players to be on one of the colours, as well as perform a Sickle and a Morningstar/Chakram Gaoler's Flail mechanic. Players can always head to one safe spot to resolve the entire mechanic.
+  * For example, if the orb is white and the flail is left sickle + morningstar, players can head to a red platform on the right side of the arena on the outer ring to resolve it. Each mechanic happens in sequence, so players can read it out sequentially and head to the safe spot.
+* The tank taking the Pitiless Flail mechanic in this phase should hug the boss as closely as possible to ensure they do not get knocked into the wall.
 * 
 
 ### Ability Order
@@ -187,6 +202,8 @@ Aetherchain
 Aetherchain
 Warder's Wrath
 ```
+
+and then the other one, then
 
 ```
 Aetherflail
