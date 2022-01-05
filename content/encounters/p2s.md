@@ -233,7 +233,7 @@ Sewage Deluge
 
 &nbsp;
 
-Enrage is a hard casted Sewage Deluge that occurs at 10:16 into the fight, wiping the raid at 10:26.
+Enrage is a hardcasted Sewage Deluge that occurs at 10:16 into the fight, wiping the raid at 10:26.
 
 ## Party Finder Strategies
 
@@ -259,4 +259,4 @@ As the fights have just released, there are no strategies set in stone. I would 
 * The boss is omni-directional.
 * Use Addle and Feint for tank busters and raidwides, especially Sewage Deluge.
 * This fight has 99% uptime, with the only caveat being that it may be necessary to move early for Kampeos Harma and move out for the second Predatory Avarice.
-* Kampeos Harma occurs at around 4 minutes into the fight. Delay 2 minute raid buffs until afterwards to get full effect.
+* Kampeos Harma occurs at around four minutes into the fight. Delay two minute raid buffs until afterwards to get full effect.
