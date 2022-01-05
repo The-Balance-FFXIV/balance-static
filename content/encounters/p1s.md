@@ -29,8 +29,6 @@ The First Circle (Savage) is the first raid encounter in the Pandaemonium series
 
 [Reaper PoV](https://www.youtube.com/watch?v=JaYw1JJRwK0)
 
-&nbsp;
-
 [Red Mage PoV](https://www.youtube.com/watch?v=VhWYy32Q3PU)
 
 ### Drops
