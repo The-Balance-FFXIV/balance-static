@@ -17,7 +17,7 @@ bis:
     link: https://etro.gg/gearset/7ef196d1-b91e-4166-a1c0-af279fb4a758
   - type: etro
     description: ""
-    link: https://etro.gg/gearset/0df65a3e-1151-4bb6-888b-c026bd4fb097
+    link: https://etro.gg/gearset/0ab4cd5c-da46-48db-91b2-762ae2c9c7ac
     name: Mix / Match of Crafted & Normal Raid Gear (Budget Set)
 authors:
   - dook
