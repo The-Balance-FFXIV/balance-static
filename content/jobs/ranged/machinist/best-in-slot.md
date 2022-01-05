@@ -9,6 +9,10 @@ changelog:
 bis:
   - type: etro
     description: ""
+    link: https://etro.gg/gearset/6b4b1ba5-a821-41a0-b070-b1f50e986f85
+    name: Savage & Augmented Tome Set
+  - type: etro
+    description: ""
     name: Full Crafted Prog Set
     link: https://etro.gg/gearset/7ef196d1-b91e-4166-a1c0-af279fb4a758
   - type: etro
