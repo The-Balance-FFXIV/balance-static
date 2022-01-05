@@ -20,7 +20,7 @@ This guide aims to provide tips and strategies for defeating Erichthonios in Asp
 
 The First Circle (Savage) is the first raid encounter in the Pandaemonium series, available January 4, 2022 in Patch 6.05. Players must have completed the Quest "Who Wards the Warders?" and talk to Nemjiji in Labyrinthos (X:8.4, Y:27.4). Players must be item level 580 or above to challenge this fight in a non-premade group.
 
-#### Drops
+### Drops
 
 **Chest One**:
 
@@ -48,13 +48,13 @@ Four of these tokens can be traded in for accessories at a Pandaemonium gear ven
 
 ## Major Mechanics
 
-#### Pre-pull Preparation
+### Pre-pull Preparation
 
 Assign all players clock spots with melee on intercardinals, tanks north and south, and healers east and west. Markers should be placed as such.
 
 ![](https://i.imgur.com/RhuXDUM.jpeg)
 
-#### Mechanic Overview
+### Mechanic Overview
 
 **Heavy Hand**
 
