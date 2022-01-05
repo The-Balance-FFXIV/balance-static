@@ -174,6 +174,12 @@ Kampeos Harma
 ![](https://i.imgur.com/vYcJBzZ.jpeg)
 
 * Get together and heal up, and do the same mechanic but with reversed groups - the players that previously had to do Mark of the Tides will have Tainted Flood, and vice-versa.
+* The water will then recede.
+* Predatory Avarice will occur again, but this time with a Dissociation and a Spoken Cataract or Winged Cataract. This leaves one quadrant of the arena safe to do Predatory Avarice's debuffs.
+* The party should stand directly in front of the boss on the safe spot. The tank with the debuff should move back left, and the DPS with the debuff should move back right. Both players should be as close to the dangerous zone as possible to ensure no players are hit with their debuffs.
+* Afterwards, Dissociation will happen with baited AoEs. Players need to stand on a numbered marker. Once the AoEs from Sewage Eruption appear under them, everyone should move towards on the safe side as a group to bait these AoEs.
+* Afterwards, spread for Tainted Flood and do Coherence. The party should stack in one corner and the main tank should bring the tether to the opposite side. The off tank needs to stand in front of the stack.
+* After another dual tank buster and raidwide, the boss will flood the arena with Sewage Deluge for the final time in the fight.
 
 ### Ability Order
 
@@ -197,7 +203,13 @@ Sewage Deluge
 
 ### Phase 3
 
-*
+* The final Channeling Overflow is the final challenge in the fight. The party should move to the raised platform opposite of the overflowing platform. All players should stand at max melee range. 
+* As soon as players receive their debuffs, the players that need to move to position for Mark of the Tides should do so. Right after, the tether will appear. The tank that does not have Mark of the Tides going off first needs to pick up this tether, which is either on the party or outside on a player, and move to the opposite end of the arena just like before (but not on the overflowing platform).
+* Players who do not have Mark of the Tides going off first should move to the corner of the platform they were on to dodge the pushed players. Right after the push back, Coherence will go off - the tank that was pushed back needs to stand in front of the group.
+* After this, the second set of players needs to do their Mark of the Tides. All other players stand on the corner of the platform. Heal up and stay on the platform opposite of the overflowing platform.
+* There is another Dissociation and Sewage Eruption pattern. Players should stay on their current platform and wait for the AoEs to appear, then move as a group to or on the safe side.
+* Return to the platform opposite of the overflowing platform. Do Shockwave and Ominous Bubbling the same as before. Afterwards, there is a dual tank buster, so move away from the tanks.
+* Do damage and heal up before the enrage at 10:26.
 
 ### Ability Order
 
@@ -218,16 +230,25 @@ Enrage is a hard casted Sewage Deluge that occurs at 10:16 into the fight, wipin
 
 ## PF Strategies
 
+As the fights have just released, there are no strategies set in stone. I would highly recommend the strategies listed in this guide, as they are simple and effective.
+
 ## Role Specific Tips
 
 ### Tank
 
-*
+* Mitigate the tank busters, Doubled Impact and Coherence.
+* The boss is omni-directional and the boss will jump to the middle for all mechanics that require it, so there is no complicated boss movement necessary.
+* One tank can hold the boss for the entire fight.
+* Use party mitigation tools for Murky Depths, Sewage Deluge, and Ominous Bubbling.
+* For the second Channeling Overflow, the tank that has their debuffs expire second needs to take the tether.
 
 ### Healer
 
-*
+* Make sure players return to the platform opposite of the overflowing raised platform between mechanics to receive healing.
+* Use heavy mitigation tools for Sewage Deluge, as this does massive damage. However, there is no incoming damage afterwards so healers can rely on healing over time to cover these.
 
 ### DPS
 
-*
+* The boss is omni-directional.
+* Use Addle and Feint for tank busters and raidwides, especially Sewage Deluge.
+* This fight has 99% uptime, with the only caveat being that it may be necessary to move early for Kampeos Harma and move out for the second Predatory Avarice.
