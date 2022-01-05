@@ -237,12 +237,22 @@ As the fights have just released, there are no strategies set in stone. I would 
 
 ### Tank
 
-*
+* Mitigate the tank busters, Heavy Hand, Pitiless Flail of Grace, and Pitiless Flail of Purgation.
+* The offtank should tank swap during the Pitiless Flail castbar. The tank taking the hit should gap closer back and run away from the tank taking the mechanic, whether it is a flare or a stack.
+* The boss will jump to the middle for all mechanics that require it, so there is no complicated boss movement necessary.
+* The tank standing in the north section for Intemperance will have to swap with the DPS standing in the northeast section always.
+* Use party mitigation tools for Warder's Wrath, Shining Cells, and Slam Shut.
 
 ### Healer
 
-*
+* There are long periods of incoming burst damage, such as during the first Intemperance and during Fourfold Shackles. Pre-mitigate for these and make sure all players are standing close to the centre to receive heals.
+* Players that fail a mechanic during the Shining Cells phase will receive a heavy DoT that needs to be healed through.
+* While Warder's Wrath only does moderate damage, many of them often happen in succession and with tandem with other mechanics so it is important to heal through them.
+* Use heavy mitigation tools for Shining Cells and Slam Shut, as these do much heavier damage. However, there is no incoming damage afterwards so healers can rely on healing over time to cover these.
 
 ### DPS
 
-*
+* This fight has 100% uptime. Melee DPS can stand at max melee for Gaoler's Flail, Aetherflail, and any Shackle mechanic.
+* Use Addle and Feint for tank busters and raidwides, especially Shining Cells and Slam Shut.
+* Stand in the centre to ensure you receive 2 minute buffs and healing before moving to your section during Intemperance.
+* The DPS standing in the northeast section for Intemperance will have to swap with the tank standing in the north section always.
