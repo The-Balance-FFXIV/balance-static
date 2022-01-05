@@ -163,6 +163,8 @@ Pitiless Flail of Purgation -OR- Pitiless Flail of Grace
 Shining Cells
 ```
 
+&nbsp;
+
 ### Phase 2
 
 * In this phase, the arena changes to a circular dartboard with two different colors - red and white/blue.
@@ -194,6 +196,8 @@ Warder's Wrath
 Shining cells
 ```
 
+&nbsp;
+
 ### Phase 3
 
 * There are two sets of mechanics that are performed in a random order at the start of this phase.
@@ -215,7 +219,11 @@ Pitiless Flail of Grace OR Pitiless Flail of Purgation
 Warder's Wrath
 ```
 
+&nbsp;
+
 -OR-
+
+&nbsp;
 
 ```
 Aetherial Shackles
@@ -223,6 +231,8 @@ Aetherchain
 Aetherchain
 Warder's Wrath
 ```
+
+&nbsp;
 
 Followed by the other one, then:
 
@@ -236,9 +246,11 @@ Warder's Wrath
 Lethe
 ```
 
+&nbsp;
+
 Enrage is a hardcasted Lethe that occurs at 9:50 into the fight, wiping the raid at 10:02.
 
-## PF Strategies
+## Party Finder Strategies
 
 As the fights have just released, there are no strategies set in stone. I would highly recommend the strategies listed in this guide, as they are simple and effective.
 
