@@ -1,6 +1,6 @@
 ---
 title: "Asphodelos: The First Circle (Savage)"
-fight_title: P1S
+fight_title: p1s
 encounter_category: savage
 card_image: /img/encounters/ffxiv_12212021_041955_065.jpg
 banner_image: /img/encounters/ffxiv_12212021_041955_065.jpg
@@ -8,6 +8,7 @@ tier_name: Asphodelos
 series_name: Pandaemonium Series
 weight: 1
 tier_weight: 1
+spoilers: true
 expansion: ew
 authors:
   - lyra
