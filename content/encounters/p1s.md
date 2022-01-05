@@ -66,7 +66,7 @@ A physical tank buster on the current main tank.
 
 **Warder's Wrath**
 
-A moderate raidwide AoE that deals magic damage.
+A moderate raidwide AoE that deals physical damage.
 
 **Gaoler's Flail**
 
