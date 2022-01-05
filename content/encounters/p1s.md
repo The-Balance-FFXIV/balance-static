@@ -160,7 +160,12 @@ Shining Cells
 * Aetherflail requires players to be on one of the colours, as well as perform a Sickle and a Morningstar/Chakram Gaoler's Flail mechanic. Players can always head to one safe spot to resolve the entire mechanic.
   * For example, if the orb is white and the flail is left sickle + morningstar, players can head to a red platform on the right side of the arena on the outer ring to resolve it. Each mechanic happens in sequence, so players can read it out sequentially and head to the safe spot.
 * The tank taking the Pitiless Flail mechanic in this phase should hug the boss as closely as possible to ensure they do not get knocked into the wall.
-* 
+* For Shackles of Time, the player marked with the debuff should stand on a white panel and all other players should stand on a red panel, including the tank taking the tank buster.
+* Mitigate Slam Shut.
+* Fourfold Shackles inflicts the debuffs from Aetherial Shackles on all players with incremental durations. Players can resolve these by standing on the markers - red on outside, purple on inside - but the targets are random, meaning players will have to adjust quickly. Once players are in position, simply stand on the markers until all debuffs are gone and heal through the mechanic.
+* The next Intemperance has a Gaoler's Flail that occurs during it. Otherwise, it is performed the same as the first one.
+  * Players will have to fix their colour on the second explosion, perform the Flail mechanic, and then move back to their assigned spot.
+* Heal up and get ready for the final phase.
 
 ### Ability Order
 
@@ -182,7 +187,14 @@ Shining cells
 
 ### Phase 3
 
-*
+* There are two sets of mechanics that are performed in a random order at the start of this phase.
+* The first set has a Shackles of Time along with a Pitiless Flail. Tank swap during the cast and perform the mechanic.
+* The player debuffed with Shackles of Time should stand on a white panel and all other players, including the tanks, should stand on a red panel.
+* The second set has an Aetherial Shackles along with Aetherchain orb mechanics.
+* Players will perform this exactly the same as the first Aetherial Shackles, but they will have to adjust where they are standing on the marker based on the colour of the panels that will explode.
+  * For example, if the Aetherchain orbs are red, players will have to stand on the white panels on the markers. The markers should be directly between two panels, so the adjustment is easy.
+* After the first set, the other set of mechanics will happen.
+* The rest of the fight is simply Aetherflails and Warder's Wraths. Perform these mechanics and pump damage before the enrage at 10:02!
 
 ### Ability Order
 
@@ -219,7 +231,7 @@ Enrage is a hardcasted Lethe that occurs at 9:50 into the fight, wiping the raid
 
 ## PF Strategies
 
-*
+As the fights have just released, there are no strategies set in stone. I would highly recommend the strategies listed in this guide, as they are simple and effective.
 
 ## Role Specific Tips
 
