@@ -4,6 +4,7 @@ fight_title: p1s
 encounter_category: savage
 card_image: /img/encounters/ffxiv_12212021_041955_065.jpg
 banner_image: /img/encounters/ffxiv_12212021_041955_065.jpg
+tier_image: /img/encounters/ffxiv_12212021_041955_065.jpg
 tier_name: Asphodelos
 series_name: Pandaemonium Series
 weight: 1
@@ -27,7 +28,9 @@ The First Circle (Savage) is the first raid encounter in the Pandaemonium series
 ### Videos
 
 [Reaper PoV](https://www.youtube.com/watch?v=JaYw1JJRwK0)
+
 &nbsp;
+
 [Red Mage PoV](https://www.youtube.com/watch?v=VhWYy32Q3PU)
 
 ### Drops
@@ -77,6 +80,7 @@ A moderate raidwide AoE that deals physical damage.
 **Gaoler's Flail**
 
 Erichthonios will bring out two weapons in succession during the castbar. Mechanics will be executed after the castbar ends based on what weapons are used.
+
 * Sickles: A large 270 degree cleave on the side of the arena the sickle was on. Move to the opposite side to dodge. Can either be left or right.
 * Morningstar: A point-blank AoE around Erichthonios. Max melee range is safe.
 * Chakram: A donut AoE around Erichthonios. 
@@ -84,18 +88,21 @@ Erichthonios will bring out two weapons in succession during the castbar. Mechan
 **Pitiless Flail of Grace** and **Pitiless Flail of Purgation**
 
 The current main tank will be marked with a line buster. This will knock them back, deal moderate damage, and inflict a magic vulnerability debuff. There needs to be a tank swap during the cast, as the boss will do a mechanic afterwards on whoever has aggro.
+
 * Grace is a stack marker on the tank -- all players should stack behind the boss.
 * Purgation is a flare marker on the tank -- the tank should run far away from both the other tank and the party.
 
 **Aetherial Shackles**
 
 Marks a random player with a red chain debuff -- Shackles of Loneliness -- and a purple chain debuff -- Shackles of Companionship.
+
 * When Shackles of Loneliness resolves, the player will gain the Inescapable Loneliness debuff. When Inescapable Loneliness resolves, the three furthest players from that player will emit a large AoE around them which deals moderate magic damage and applies a magic vulnerability debuff, meaning players cannot be hit by more than one.
 * When Shackles of Companionship resolves, the player will gain the Inescapable Companionship debuff. When Inescapable Companionship resolves, the three closest players from that player will emit a small AoE around them which deals moderate magic damage and applies a magic vulnerability debuff, meaning players cannot be hit by more than one.
 
 **Intemperance**
 
 Erichthonios divides the arena into nine sections with three Spell Crystals each. These crystals will explode on a regular interval, inflicting players standing on them with Hot Spell (fire), Cold Spell (ice), and Disastrous Spell (purple).
+
 * Hot Spell and Cold Spell will deal minimal damage if the player has the opposite element or no element, but will deal massive damage and inflict a damage down debuff if they have the same element debuff. 
 * Disastrous Spell will instantly kill the player.
 
@@ -135,11 +142,13 @@ Inflicts four players with Shackles of Loneliness and four players with Shackles
 
 * The fight begins with a tank buster.
 * Aetherial Shackles can be executed simply by standing on markers at respective clock spots. However, players will have to adjust which marker they are standing on based on the debuffs that are inflicted.
+
   * The player inflicted with Shackles of Loneliness MUST be on a numbered marker on the outside and the player inflicted with Shackles of Companionship MUST be on a lettered marker on the inside. The easiest way to do this is to just swap with a role partner if needed.
 * For Gaoler's Flail, it will either be two Sickles, or Morningstar and Chakram. Therefore, the movement can either be left to right or right to left, or in then out or out then in.
 * The current offtank should Provoke during the castbar of Pitiless Flail, then either stack with the party in the middle if it is Grace or move far away from the party and the other tank if it is Purgation. The tank taking the Pitiless Flail hit needs be knocked back towards the corner or they will be knocked back into the wall.
 * Another Gaoler's Flail will follow, which will be the opposite pattern as previous.
 * Intemperance will divide the arena into nine sections with crystals. Each player will have to soak the first crystal in their clock spot section, then fix their color so that they have the appropriate debuff to take the third crystal in their clock spot section.
+
   * First, stand in your assigned section based on clock spots, close to the middle in order to receive healing.
   * Next, players will have to use one of the sections in the middle column. If they do not need to fix their color for the third crystal, they will stand in the middle. Otherwise, they will use the North or South crystals to change their debuff. Do not stand in any section other than the middle column, as all of those will have purple crystals.
   * Finally, players should get healed up and head to their assigned section again to soak the final crystal.
@@ -170,12 +179,14 @@ Shining Cells
 
 * In this phase, the arena changes to a circular dartboard with two different colors - red and white/blue.
 * Aetherflail requires players to be on one of the colors, as well as perform a Sickle and a Morningstar/Chakram Gaoler's Flail mechanic. Players can always head to one safe spot to resolve the entire mechanic.
+
   * For example, if the orb is white and the flail is left Sickle + Morningstar, players can head to a red platform on the right side of the arena on the outer ring to resolve it. Each mechanic happens in sequence, so players can read it out sequentially and head to the safe spot.
 * The tank taking the Pitiless Flail mechanic in this phase should hug the boss as closely as possible to ensure they do not get knocked into the wall.
 * For Shackles of Time, the player marked with the debuff should stand on a white panel and all other players should stand on a red panel, including the tank taking the tank buster.
 * Mitigate Slam Shut.
 * Fourfold Shackles inflicts the debuffs from Aetherial Shackles on all players with incremental durations. Players can resolve these by standing on the markers - red on outside, purple on inside - but the targets are random, meaning players will have to adjust quickly. Once players are in position, simply stand on the markers until all debuffs are gone and heal through the mechanic.
 * The next Intemperance has a Gaoler's Flail that occurs during it. Otherwise, it is performed the same as the first one.
+
   * Players will have to fix their color on the second explosion, perform the Flail mechanic, and then move back to their assigned spot.
 * Heal up and get ready for the final phase.
 
@@ -206,6 +217,7 @@ Shining cells
 * The player debuffed with Shackles of Time should stand on a white panel and all other players, including the tanks, should stand on a red panel.
 * The second set has an Aetherial Shackles along with Aetherchain orb mechanics.
 * Players will perform this exactly the same as the first Aetherial Shackles, but they will have to adjust where they are standing on the marker based on the colour of the panels that will explode.
+
   * For example, if the Aetherchain orbs are red, players will have to stand on the white panels on the markers. The markers should be directly between two panels, so the adjustment is easy.
 * After the first set, the other set of mechanics will happen.
 * The rest of the fight is simply Aetherflails and Warder's Wraths. Perform these mechanics and pump damage before the enrage at 10:02!
@@ -222,7 +234,7 @@ Warder's Wrath
 
 &nbsp;
 
--OR-
+\-OR-
 
 &nbsp;
 
