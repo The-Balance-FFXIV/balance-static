@@ -8,7 +8,7 @@ tier_name: Asphodelos
 series_name: Pandaemonium Series
 weight: 1
 tier_weight: 1
-spoilers: true
+spoilers: false
 expansion: ew
 authors:
   - lyra
