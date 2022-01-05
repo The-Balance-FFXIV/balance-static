@@ -57,7 +57,7 @@ Six of these tokens can be traded in for head, hand, or foot gear at a Pandaemon
 
 ### Pre-pull Preparation
 
-Assign the raid into two light party stacks with one tank, one healer, and two DPS each. Place the markers as such.
+Assign the raid into two light party stacks with one tank, one healer, and two DPS each. Place the markers as such, indicating the raised platforms and the drained passages.
 
 ![](https://i.imgur.com/hqmh8pR.jpeg)
 
@@ -73,7 +73,7 @@ A physical tank buster on the current main tank that needs to be shared by both 
 
 **Sewage Deluge**
 
-A heavy raidwide AoE that deals magic damage. Floods the arena, making the entire arena except for the raised platforms and drained areas inflict a Dropsy DoT to players who stand in the water. In addition, one of the raised platforms will begin to overflow with water, killing any player who stands on it.
+A heavy raidwide AoE that deals magic damage. Floods the arena, making the entire arena except for the raised platforms and drained passages inflict a Dropsy DoT to players who stand in the water. In addition, one of the raised platforms will begin to overflow with water, killing any player who stands on it.
 
 **Spoken Cataract** and **Winged Cataract**
 
@@ -94,6 +94,7 @@ The Hippokampos will jump to a random safe raised platform and do a knockback fr
 **Predatory Avarice**
 
 Inflicts a random tank and random DPS with Mark of the Tides and a random healer with Mark of the Depths.
+
 * When Mark of the Tides expires, the player will pulse a large AoE that knocks back players in the radius.
 * When Mark of the Depths expires, the player will pulse a large AoE that deals magic damage to all players in the radius.
 
@@ -113,7 +114,7 @@ When the arena is not flooded, all players will be marked with the AoE marker at
 
 **Kampeos Harma**
 
-Marks all players with one to four blue or purple dots. Players marked with blue dots will be dashed to by the body of the Hippokampos in sequence from one to four, and players marked with purple dots will be jumped to by the head of the Hippokampos in sequence from one to four.
+Marks all players with one to four blue or purple dots. Players marked with blue dots will be dashed to by the body of the Hippokampos in sequence from one to four, dealing damage in a line AoE. Players marked with purple dots will be jumped to by the head of the Hippokampos in sequence from one to four, dealing damage in an AoE around them. This deals moderate physical damage and inflicts a physical vuln debuff, so players cannot be hit by more than one dash or jump.
 
 **Dissociation**
 
@@ -127,7 +128,18 @@ Three sets of AoE markers appear under all players. Bait these and move together
 
 ### Phase 1
 
-*
+* The fight starts off with a raidwide, a dual tank buster, and another heavy raidwide. Sewage Deluge deals massive damage, so it's important to use extra mitigation for it.
+* After Sewage Deluge and each subsequent one, players should move to the raised platform directly opposite of the overflowing raised platform, which will be glowing. This is to make moving for mechanics easier.
+* Spoken Cataract is the same mechanic as in the Normal difficulty, while Winged Cataract has the head do an AoE behind where it is facing instead of in front. Either way, get in front of or behind where the head is facing based on the mechanic, and then move to the side of the body.
+* All players should stand further than max melee range so that the main tank can easily pick up the Coherence tether. After they pick it up, they should move to the opposite side of the arena on the drained passage (but not on the overflowing platform). The off tank should then stand in front of the stacked party to soak the line AoE stack. Both hits need to be lightly mitigated.
+* The boss will then cast Ominous Bubbling and Shockwave. All players should head towards the platform that is being Shockwaved, and hit their knockback immunity halfway through the castbar. The raid needs to split into their light parties - one group should be on the platform, and the other group should be on the drained passage leading to the platform. This is to do the light party healer stacks.
+* The party needs to move back to the platform opposite of the overflowing platform to make moving for Cataract easier.
+* For Predatory Avarice, the party needs to move to the safe spot for Spoken Cataract or Winged Cataract first. After it goes off, the debuffed tank needs to move left away from the party, and the debuffed DPS needs to move right away from the party. Move to the edge of the drained passage. All other players will take magic damage from the healer's debuff.
+* After this, the water will recede.
+* All players will get an arrow indicating the direction they are going to be pushed back. Simply head to the wall opposite of the direction you are being pushed to, but not overlapping with the other player at the edge. You can do DPS left and H/T right facing the middle, but adjusting is very simple. Players will all get stunned and pushed towards the middle, and collide with the player on the other side, which solves the mechanic.
+* Another dual tank buster and raidwide follow this, and then the arena will be flooded again by Sewage Deluge.
+* The boss will then jump to a platform with Shockwave, and do Kampeos Harma. It is an intermission of sorts, and the boss is untargetable during this.
+* [Here is a toolbox diagram showing how to do Kampeos Harma](https://ff14.toolboxgaming.space/?id=677343458141461&preview=1). Essentially, purple marked players will move to their respective numbered marker, while blue marked players need to bait the dashes across the arena. For blue dots, 1 and 3 will go across to where the boss jumped for Shockwave, while 2 and 4 will stay in the corner. 1 and 2 will stand in front, and after they are dashed to, they will move behind while 3 and 4 move in front.
 
 ### Ability Order
 
@@ -152,7 +164,16 @@ Kampeos Harma
 
 ### Phase 2
 
-*
+* After Kampeos Harma, there will be a tank buster and raidwide. The boss will then do Channeling Overflow.
+* All players will be marked with Mark of the Tides, the arrow debuff from Channeling Flow. However, there will two different durations of debuffs, as the water is still overflowing.
+* Players will have to use the drained passages and platforms to resolve this mechanic.
+  * To do Mark of the Tides during this phase, players simply have to move to the edge of the platform horizontally or vertically long and safe.
+  * The players whose debuffs are expiring first should head to the edge where they will be knocked into another player.
+  * Players whose debuffs are expiring second should go to the drained passages not in the path of these players, and spread for Tainted Flood. Players with Tainted Flood are fine as long as they are not hitting any other player or in the path of a marked player. Use the image below as a reference.
+
+![](https://i.imgur.com/vYcJBzZ.jpeg)
+
+* Get together and heal up, and do the same mechanic but with reversed groups - the players that previously had to do Mark of the Tides will have Tainted Flood, and vice-versa.
 
 ### Ability Order
 
@@ -196,7 +217,6 @@ Sewage Deluge
 Enrage is a hard casted Sewage Deluge that occurs at 10:16 into the fight, wiping the raid at 10:26.
 
 ## PF Strategies
-
 
 ## Role Specific Tips
 
