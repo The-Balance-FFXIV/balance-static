@@ -4,6 +4,7 @@ fight_title: P2S
 encounter_category: savage
 card_image: /img/encounters/ffxiv_12212021_044108_294.jpg
 banner_image: /img/encounters/ffxiv_12212021_044108_294.jpg
+tier_image: /img/encounters/ffxiv_12212021_044108_294.jpg
 tier_name: Asphodelos
 series_name: Pandaemonium Series
 weight: 2
@@ -89,7 +90,7 @@ A delayed stack marker on both healers that deals water magic damage inflicts a 
 
 **Shockwave**
 
-The Hippokampos will jump to a random safe raised platform and do a knockback from the centre of that platform. This deals minimal magic damage and knockback immunities do work on it.
+The Hippokampos will jump to a random safe raised platform and do a knockback from the center of that platform. This deals minimal magic damage and knockback immunities do work on it.
 
 **Predatory Avarice**
 
@@ -162,6 +163,8 @@ Shockwave
 Kampeos Harma
 ```
 
+&nbsp;
+
 ### Phase 2
 
 * After Kampeos Harma, there will be a tank buster and raidwide. The boss will then do Channeling Overflow.
@@ -201,6 +204,8 @@ Murky Depths
 Sewage Deluge
 ```
 
+&nbsp;
+
 ### Phase 3
 
 * The final Channeling Overflow is the final challenge in the fight. The party should move to the raised platform opposite of the overflowing platform. All players should stand at max melee range. 
@@ -226,9 +231,11 @@ Murky Depths
 Sewage Deluge
 ```
 
+&nbsp;
+
 Enrage is a hard casted Sewage Deluge that occurs at 10:16 into the fight, wiping the raid at 10:26.
 
-## PF Strategies
+## Party Finder Strategies
 
 As the fights have just released, there are no strategies set in stone. I would highly recommend the strategies listed in this guide, as they are simple and effective.
 
