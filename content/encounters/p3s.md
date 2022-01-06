@@ -130,7 +130,7 @@ The boss will do an **Experimental Fireplume** mechanic, then summon eight small
 
 **Fountain of Fire**
 
-Spawns two sets of three fountains starting from the north/south or east/west of the arena and going clockwise. These fountains must be soaked by a player, and inflicts the player standing inside with Trickle of Fire, which massively boosts healing potency for six seconds.
+Spawns two sets of four fountains starting from the north/south or east/west of the arena and going clockwise. These fountains must be soaked by a player, and inflicts the player standing inside with Trickle of Fire, which massively boosts healing potency for six seconds.
 
 **Sun's Pinion**
 
@@ -220,7 +220,7 @@ Dead Rebirth
   * These will be baited tanks > melee > ranged. Once the previous set of players receive an AoE marker, the next set of players should move slightly closer to bait the next set. They need to then place their pinion directly in front of the fountain about to explode, then move across the arena behind the opposing pinion.
   * The tanks, once they receive the AoE, should move directly in front of their light party healer's fountain - directly on top of the marker is fine. Once the pinion appears, go directly across the arena and behind the opposing tank's pinion.
   * The melee should then move closer to bait the second set of AoEs. After they receive the marker, place it directly in front of the second fountain. Wait for the tank's pinion to dash across the arena, then go directly across the arena and behind the opposing melee's pinion (max melee is fine).
-  * The ranged should then automatically receive the third set of AoEs. Again, place it in front of the third fountain, wait for the melee pinion, then go directly across and behind.
+  * The ranged should then bait the third set of AoEs. Again, place it in front of the third fountain, wait for the melee pinion, then go directly across and behind.
 
 ### Ability Order
 
