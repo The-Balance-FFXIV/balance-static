@@ -1,6 +1,6 @@
 ---
 title: "Asphodelos: The Second Circle (Savage)"
-fight_title: P2S
+fight_title: p2s
 encounter_category: savage
 card_image: /img/encounters/ffxiv_12212021_044108_294.jpg
 banner_image: /img/encounters/ffxiv_12212021_044108_294.jpg
@@ -85,7 +85,7 @@ The head and body of the Hippokampos will do a cleave and a line AoE respectivel
 
 **Coherence**
 
-The Hippokampos will tether to a random player. When the castbar ends, the head will jump to the tethered player dealing heavy damage, and the body will do a line stack AoE on a random healer. The tether should be taken by a tank and mitigated, and a tank needs to stand in front of the party as the first player in the stack relative to the boss will take extra damage.
+The Hippokampos will tether to a random player. When the castbar ends, the head will jump to the tethered player dealing heavy damage, and the body will do a line stack AoE. The tether should be taken by a tank and mitigated, and a tank needs to stand in front of the party as the first player in the stack relative to the boss will take extra damage.
 
 **Ominous Bubbling**
 
