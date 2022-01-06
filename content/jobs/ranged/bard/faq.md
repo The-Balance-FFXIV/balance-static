@@ -39,7 +39,8 @@ qna:
 
 
       Use **Raging Strikes** in the next oGCD window, then you have a free
-      window for **Empyreal Arrow** if it's on time.\ 
+      window for **Empyreal Arrow** if it's on time. If it's *really* on time,
+      you might be able to do a Raging + Empyreal weave; if so, do it.
 
 
       Then, two GCDs after the Raging, double-weave **Radiant Finale**
