@@ -244,7 +244,7 @@ collections:
         widget: "string"
       - label: "Weight" 
         name: "weight"
-        hint: (1 - first, 2 - second, etc.)
+        hint: (1 - last fight of tier, 2 - third fight of tier, etc. Must be in reverse order.)
         widget: "number"
       - label: "Tier Weight"
         name: "tier_weight"
