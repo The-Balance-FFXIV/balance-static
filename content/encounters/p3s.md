@@ -206,6 +206,7 @@ Heat of Condemnation
 Experimental Fireplume
 Trail of Condemnation
 ```
+&nbsp;
 
 ### Phase Three: 
 
@@ -228,6 +229,7 @@ Fireglide Sweep
 Flames of Undeath
 Dead Rebirth
 ```
+&nbsp;
 
 ### Phase Three
 
@@ -284,6 +286,7 @@ Searing Breeze (four AoEs)
 Experimental Ashplume
 Scorched Exaltation
 ```
+&nbsp;
 
 ### Phase Four
 
@@ -314,6 +317,7 @@ Scorched Exaltation
 Scorched Exaltation
 Final Exaltation
 ```
+&nbsp;
 
 Enrage is a hardcasted Final Exaltation that occurs after the final Scorched Exaltation, wiping the raid after a 10 seconds cast.
 
