@@ -1,9 +1,10 @@
 ---
 title: "Asphodelos: The Third Circle (Savage)"
-fight_title: P3S
+fight_title: p3s
 encounter_category: savage
 card_image: /img/encounters/ffxiv_12212021_050051_261.jpg
 banner_image: /img/encounters/ffxiv_12212021_050051_261.jpg
+tier_image: /img/encounters/ffxiv_12212021_050051_261.jpg
 tier_name: Asphodelos
 series_name: Pandaemonium Series
 weight: 3
@@ -13,6 +14,9 @@ authors:
   - lyra
 lastmod: 2022-01-06T17:50:18.582Z
 patch: "6.05"
+changelog:
+  - date: 2022-01-06T19:08:33.491Z
+    message: Created page
 ---
 ## Introduction
 
