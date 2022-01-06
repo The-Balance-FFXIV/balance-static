@@ -182,7 +182,10 @@ Shining Cells
 * The tank taking the Pitiless Flail mechanic in this phase should hug the boss as closely as possible to ensure they do not get knocked into the wall.
 * For Shackles of Time, the player marked with the debuff should stand on a white panel and all other players should stand on a red panel, including the tank taking the tank buster.
 * Mitigate Slam Shut.
-* Fourfold Shackles inflicts the debuffs from Aetherial Shackles on all players with incremental durations. Players can resolve these by standing on the markers - red on outside, purple on inside - but the targets are random, meaning players will have to adjust quickly. Once players are in position, simply stand on the markers until all debuffs are gone and heal through the mechanic.
+* Fourfold Shackles inflicts the debuffs from Aetherial Shackles on all players with incremental durations. Players can resolve these by standing on the markers - red on outside, purple on inside - but the targets are random, meaning players will have to adjust quickly. However, players can go to assigned places based on what debuff they have and what duration the debuff is.
+
+  ![](https://i.imgur.com/JgDQlrk.png)
+* Once players are in position, simply stand on the markers until all debuffs are gone and heal through the mechanic.
 * The next Intemperance has a Gaoler's Flail that occurs during it. Otherwise, it is performed the same as the first one.
 
   * Players will have to fix their color on the second explosion, perform the Flail mechanic, and then move back to their assigned spot.
