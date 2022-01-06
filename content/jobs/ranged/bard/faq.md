@@ -11,27 +11,6 @@ qna:
     answer: "While under a song, we get one 80% chance at a proc every three seconds
       of the song timer. Specifically, proc chances occur at 42, 39, 36, etc.
       seconds remaining, and not at 45 or 0.\r\n"
-  - question: Should I use Radiant Finale at 2% in the opener?
-    answer: "\r
-
-      Yes, keep it aligned with Battle Voice. It will be at three coda for
-      every usage after the first."
-  - answer: Keeping it aligned with two minute buffs is so valuable, that it's worth
-      treating it as a 60 second cooldown. During **Mage's Ballad**, use it at
-      100, or before **Sidewinder** at the lastest. Then hold it until two
-      minute buffs are all up.
-    question: When is the best time to use Apex Arrow on single target?
-  - question: Should I use DoTs (damage over time skills) on trash in dungeons?
-    answer: "If you're running to or between packs and can't hit more than two
-      targets with **Ladonsbite**, go ahead and start dropping some
-      **Stormbites** on enemies. "
-  - question: How does Barrage interact with Shadowbite?
-    answer: "It only increases **Shadowbite's** potency. It does not give you
-      Shadowbite Ready, nor does it increase the number of hits.\r\n"
-  - answer: If the fight will last 8:30 or more, aim to use it before the two minute
-      burst, and then again for the eight minute. Otherwise, use it before the
-      pull and then at six minutes.
-    question: When do I use tinctures?
   - question: How do I approach the two minute burst?
     answer: "\r
 
@@ -53,6 +32,42 @@ qna:
 
       During this stack of buffs, use everything you've got. More detail
       to come in the advanced guide."
+  - answer: "\r
+
+      Yes and no. While it's not crucial, being at 2.48 or 2.47 makes it
+      feasible to keep Empyreal Arrow on cooldown without it running into your
+      GCD, while also minimizing song cycle drift.\ 
+
+
+      \r
+
+      \r
+
+      This is fairly advanced stuff related to very optimized play though,
+      so for general purposes / just trying to clear fights, don't worry about
+      playing at other Skill Speeds."
+    question: Does Bard have a target Skill Speed / GCD?
+  - question: Should I use Radiant Finale at 2% in the opener?
+    answer: "\r
+
+      Yes, keep it aligned with Battle Voice. It will be at three coda for
+      every usage after the first."
+  - answer: Keeping it aligned with two minute buffs is so valuable, that it's worth
+      treating it as a 60 second cooldown. During **Mage's Ballad**, use it at
+      100, or before **Sidewinder** at the lastest. Then hold it until two
+      minute buffs are all up.
+    question: When is the best time to use Apex Arrow on single target?
+  - question: Should I use DoTs (damage over time skills) on trash in dungeons?
+    answer: "If you're running to or between packs and can't hit more than two
+      targets with **Ladonsbite**, go ahead and start dropping some
+      **Stormbites** on enemies. "
+  - question: How does Barrage interact with Shadowbite?
+    answer: "It only increases **Shadowbite's** potency. It does not give you
+      Shadowbite Ready, nor does it increase the number of hits.\r\n"
+  - answer: If the fight will last 8:30 or more, aim to use it before the two minute
+      burst, and then again for the eight minute. Otherwise, use it before the
+      pull and then at six minutes.
+    question: When do I use tinctures?
   - question: Should I macro (any damage skill)?
     answer: No. Macros cannot be queued in advance, so you lose casts over time by
       using them since every use will have a little delay. Targeting macros
