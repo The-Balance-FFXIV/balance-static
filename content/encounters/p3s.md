@@ -4,6 +4,7 @@ fight_title: p3s
 encounter_category: savage
 card_image: /img/encounters/ffxiv_12212021_050051_261.jpg
 banner_image: /img/encounters/ffxiv_12212021_050051_261.jpg
+tier_image: /img/encounters/ffxiv_12212021_050051_261.jpg
 tier_name: Asphodelos
 series_name: Pandaemonium Series
 weight: 0
