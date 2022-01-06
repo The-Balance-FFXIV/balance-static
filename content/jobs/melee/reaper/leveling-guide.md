@@ -29,7 +29,7 @@ Here, you will have to complete a short quest. Once complete, congratulations --
 
 ## Gear
 
-* Reaper wears Baiming gear; the same armor type that Dragoon wears.
+* Reaper wears Maiming gear; the same armor type that Dragoon wears.
 * You can purchase a better mainhand weapon in Rhalgr’s Reach by spending 600 of Allagan Tomestones of Poetics.
 
   * Eschina at 13.8, 11.7
