@@ -156,6 +156,14 @@ The boss will spawn two **Heat of Condemnation** tethers on random non-tanks. In
 
 The boss will tether to each of the Darkblaze Twisters. One tether will be dark, and two tethers will be fire. The fire tethered tornadoes will do a donut AoE around them, and the dark tethered tornado will do a knockback.
 
+**Death's Toll**
+
+Inflicts players with one stack, two stacks, or four stacks of Death's Toll. This must be removed by getting hit by a fatal mechanic for each stack..
+
+**Life's Agonies**
+
+A catastrophic raidwide AoE that deals magic damage.
+
 ## Fight Strategy
 
 ### Phase 1
@@ -198,7 +206,7 @@ Experimental Fireplume
 Trail of Condemnation
 ```
 
-### Phase 2
+### Phase 2: 
 
 * In the entirety of the adds phase, a storm will sweep through, pouring burning rain. This will pulse light raidwide damage periodically.
 * Split up into light parties (ranged can generally stay in the middle, but hit your adds). The tanks should pick up the north and south adds, and the north tank should provoke the east add and the south tank should provoke the west add. Kill the north and south adds first, and then rotate clockwise to east and west and kill those adds there.
@@ -278,7 +286,16 @@ Scorched Exaltation
 
 ### Phase 4
 
-*
+* This is the final phase and there is one final new mechanic.
+* Death's Toll will inflict all players with stacks of the Death's Toll debuff - either one, two, or four stacks.
+* Fledgling Flight occurs again, but players need to point the Sparkfledged conal AoE towards the centre of the arena this time instead of outside the arena. Stand on the marker that points the conal towards the centre if you are marked.
+* Players will then have to remove their debuff stacks by getting hit by the corresponding number of Fledgling Flight conal AoEs. 
+  * Players with one stack need to stand at a cardinal, behind one of the Sparkfledged. This will ensure they are only hit by one AoE - the one directly opposite.
+  * Players with two stacks need to stand at an intercardinal, close to the boss. This will ensure they are only hit by two AoEs - the ones directly opposite.
+  * Players with four stacks simply stand in the middle of the arena and get hit by all four AoEs.
+* When all stacks are removed, players will be inflicted with an HP recovery down debuff. This will greatly decrease their healing output. Life's Agonies deals catastrophic damage, so all players need to use all their mitigation and healing tools in order to live through the mechanic. It is recommended to tank LB3 if healing throughput is not up to par.
+* Experimental Gloryplume is done the same as in the beginning of Phase 3.
+* The rest of the fight is a repeat of mechanics at the end of Phase 1. Perform these mechanics correctly and pump damage before the enrage!
 
 ### Ability Order
 
@@ -298,3 +315,39 @@ Final Exaltation
 ```
 
 Enrage is a hardcasted Final Exaltation that occurs after the final Scorched Exaltation, wiping the raid after a 10 seconds cast.
+
+## Party Finder Strategies
+
+As the fights have just released, there are no strategies set in stone. I would highly recommend the strategies listed in this guide, as they are simple and effective. This guide will be updated with strategies once they are commonplace.
+
+## Role Specific Tips
+
+### Tank
+
+* One tank should stand in front of the party to easily pick up a tether for Heat of Condemnation, and the other should then move to pick up the other one. Mitigate these, and ensure that you are not close to the other tank.
+* No tank swaps are required during this fight.
+* The boss should be centered for mechanics such as Fountain of Fire and after Experimental Gloryplume and Experimental Fireplume.
+* Make sure to snap aggro Sunbirds immediately, as healers will need to heal the party periodically before and after they spawn. Once one Sunbird dies, immediately move to the next location to ensure that they die far apart from each other.
+* Use party mitigation tools such as Reprisal for Scorched Exaltation, and save heavy shields and mitigation for heavy damage such as Flames of Undeath and the entire Firestorms of Asphodelos phase.
+* The offtank will take autos from Phase 3 onwards, so they will need to mitigate these when necessary.
+
+### Healer
+
+* There is lots of healing required in this fight, and much heavier incoming damage compared to the first two Savage fights.
+* Keep healing over time effects active during firestorms during the adds phase and Firestorms of Asphodelos.
+* Stay in the middle during the adds phase when dealing with Sunbirds (not during Fireglide!) to ensure heals reach all party members. Top party members off before Flames of Undeath when the adds die.
+* The offtank may require extra single-target attention from Phase 3 onwards, as they are taking four autos periodically.
+* Soaking a Fountain of Fire gives the Trickle of Fire buff, which massively increases healing potency for six seconds. This will give the healer 24 seconds of increased healing, which they can use to heal themselves and the party during the mechanic, as well as afterwards for the double Scorched Exaltation.
+* Heal and mitigate between each mechanic set during the Firestorms of Asphodelos. Stagger mitigation, as there are several instances of heavy AoE damage.
+* An Astrologian can press Macrocosmos before the Fledgling Flight conal AoEs go off, and it will instantly heal the entire party to full ignoring the healing potency debuff. With any other healer combination, they will need to heavily heal and mitigate Life's Agonies.
+
+### DPS
+
+* There are several periods of downtime in this fight, so coordinate cooldowns.
+* The rotating AoEs from Experimental Fireplume have a medium sized radius, so melee can duck out and in. The large AoE requires them to go to the edge, but it is slow acting and they can run out and use a gap closer to move back in.
+* Target the north and south Sunbirds first to ensure that the tank has ample time to move to the second location before the second one dies. DPS with good cleave can use it for both Sunbird sets.
+* Save 2 minute cooldowns for when the boss comes back, unless you need the DPS on adds.
+* By splitting groups into melee and ranged, melee can always move with the tank and have 100% uptime.
+* Make sure you bait Sun's Pinions in the correct order. If AoEs are baited wrong, players can still adjust.
+* Use mitigation such as Addle, Feint, and Magicked Barrier on raidwides and tank busters.
+* Use personal mitigation on heavy raidwides as well, especially Life's Agonies if you do not have an Astrologian.
