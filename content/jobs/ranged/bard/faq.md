@@ -10,7 +10,43 @@ qna:
   - question: How does Repertoire work?
     answer: "While under a song, we get one 80% chance at a proc every three seconds
       of the song timer. Specifically, proc chances occur at 42, 39, 36, etc.
-      seconds remaining, and not at 45 or 0.\r\n"
+      seconds remaining, and not at 45 or zero.\r\n"
+  - question: How do I approach the two minute burst?
+    answer: "\r
+
+      Try to late-weave **The Wanderer's Minuet**.\ 
+
+
+      Use **Raging Strikes** in the next oGCD window, then you have a free
+      window for **Empyreal Arrow** if it's on time. If it's *really* on time,
+      you might be able to do a Raging + Empyreal weave; if so, do it.
+
+
+      Then, two GCDs after the Raging, double-weave **Radiant Finale**
+      and  **Battle Voice**.\ 
+
+
+      \r
+
+      \r
+
+      During this stack of buffs, use everything you've got. More detail
+      to come in the advanced guide."
+  - answer: "\r
+
+      Yes and no. While it's not crucial, being at 2.48 or 2.47 makes it
+      feasible to keep Empyreal Arrow on cooldown without it running into your
+      GCD, while also minimizing song cycle drift.\ 
+
+
+      \r
+
+      \r
+
+      This is fairly advanced stuff related to very optimized play though,
+      so for general purposes / just trying to clear fights, don't worry about
+      playing at other Skill Speeds."
+    question: Does Bard have a target Skill Speed / GCD?
   - question: Should I use Radiant Finale at 2% in the opener?
     answer: "\r
 
@@ -32,26 +68,6 @@ qna:
       burst, and then again for the eight minute. Otherwise, use it before the
       pull and then at six minutes.
     question: When do I use tinctures?
-  - question: How do I approach the two minute burst?
-    answer: "\r
-
-      Try to late-weave **The Wanderer's Minuet**.\ 
-
-
-      Use **Raging Strikes** in the next oGCD window, then you have a free
-      window for **Empyreal Arrow** if it's on time.\ 
-
-
-      Then, two GCDs after the Raging, double-weave **Radiant Finale**
-      and  **Battle Voice**.\ 
-
-
-      \r
-
-      \r
-
-      During this stack of buffs, use everything you've got. More detail
-      to come in the advanced guide."
   - question: Should I macro (any damage skill)?
     answer: No. Macros cannot be queued in advance, so you lose casts over time by
       using them since every use will have a little delay. Targeting macros
