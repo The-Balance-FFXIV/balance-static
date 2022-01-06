@@ -65,7 +65,35 @@ Place markers on the arena as such.
 
 A heavy raidwide AoE that deals magic damage.
 
-**
+**Heat of Condemnation**
+
+Two tethers appear on random non-tanks. These tethers must be picked up by tanks and brought far apart at the front of the boss, as they do a magical tank buster in a large AoE when the castbar resolves.
+
+**Experimental Fireplume**
+
+The boss will cast either eight small orbs or one large orb when the castbar finishes.
+* Eight small orbs: AoEs will appear at opposite cardinals and rotate around the arena before hitting the centre. Move out to the second AoE to dodge this.
+* One large orb: A gigantic AoE will be baited on a random player. All players bait this in the middle of the arena and move to the edge of the arena.
+
+**Left Cinderwing** and **Right Cinderwing**
+
+The boss will cleave the left side or right side of the arena relative to where it is facing. This will inflict a damage down to any players hit.
+
+**Darkened Fire**
+
+Spawns a Darkened Fire add under tanks/healers or DPS that has a damage taken reduced buff. If they are too close to each other they will tether and explode. These start casting Darkened Blaze as they spawn, and must be killed before it is allowed to finish. Players should stand with their partner at their marker to bait these.
+
+**Brightened Fire**
+
+Marks each player with an AoE and a number from one to eight. The Phoinix will breathe fire on each player sequentially, dealing light damage and inflicting a fire resistance down debuff for a few seconds. If a Darkened Fire add is hit by four Brightened Fire AoEs, it will remove the buff that they have preventing them from taking damage.
+
+**Devouring Brand**
+
+A line of fire appears at cardinals and slowly moves towards the centre, leaving intercardinal quadrants safe.
+
+**Searing Breeze**
+
+AoE markers appear under all players. Bait together and move to dodge.
 
 ## Fight Strategy
 
@@ -76,7 +104,20 @@ A heavy raidwide AoE that deals magic damage.
 ### Ability Order
 
 ```
-
+Scorched Exaltation
+Heat of Condemnation
+Experimental Fireplume
+Left Cinderwing OR Right Cinderwing
+Darkened Fire
+Brightened Fire
+Heat of Condemnation
+Scorched Exaltation
+Devouring Brand
+Experimental Fireplume
+Searing Breeze
+Left Cinderwing OR Right Cinderwing
+Heat of Condemnation
+Experimental Fireplume
 ```
 
 ### Phase 2
