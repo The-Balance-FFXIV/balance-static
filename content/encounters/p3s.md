@@ -247,7 +247,7 @@ Dead Rebirth
   * The ranged should then bait the third set of AoEs. Again, place it in front of the third fountain, wait for the melee pinion, then go directly across and behind.
 * All players converge in the centre. Both healers should still have a few seconds left of the massive healing buff. Use this healing buff to heal everyone up for double Scorched Exaltation. The shield healer is able to generate massive shields, and this should require zero mitigation, as it needs to be saved for the next mechanic sequence.
 
-* Firestorms of Asphodelos is the major mechanic in this phase, and is a dance sequence from beginning to end. Here is a Toolbox Diagram showing how the entire phase is done.
+* Firestorms of Asphodelos is the major mechanic in this phase, and is a dance sequence from beginning to end. [Here is a Toolbox Diagram](https://ff14.toolboxgaming.space/?id=635443782051461&preview=1) showing how the entire phase is done.
 * Mitigate the initial hit and fan out into tank/melee and healer/ranged groups. Melee should be at the A marker, and ranged should be at the C marker.
 * Dodge the conal AoE, then either stack with your group if Experimental Ashplume was stack, or spread if it was spread.
 * Get back into the middle to heal up, then dodge another set of Flames of Asphodelos. Pre-position for Storms of Asphodelos.
