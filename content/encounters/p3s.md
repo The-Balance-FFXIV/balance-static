@@ -254,7 +254,7 @@ Dead Rebirth
   * Tanks need to take both tethers and go directly in front of the boss as normal. This will be south of the boss, and it is facing south. The tanks should be outside of the boss's hitbox at max melee range.
   * The two ranged DPS need to bait the two south Darkblaze Twister conal AoEs towards the south of the arena. They should be standing directly beside it to the south.
   * One healer needs to bait the north Darkblaze Twister conal AoE towards the left or right of the arena. They need to stand in the corner hugging the tornado.
-  * The two melee DPS and healer need to bait the boss's conal AoEs. Each melee DPS needs be inside the boss's hitbox to the east and west. The healer needs to be inside the boss's hitbox as well to the northeast or northwest.
+  * The two melee DPS and healer need to bait the boss's conal AoEs. Each melee DPS needs be inside the boss's hitbox to the east and west. The healer needs to be inside the boss's hitbox as well to the northeast or northwest. Wait until the tanks pick up tethers to go inside.
 * Afterwards, converge in the middle for heals again.
 * The entire party needs to stack in front of the dark tethered tornado once it is confirmed via Darkblaze Twister. This is to bait the Searing Breeze AoEs. Players should move clockwise, baiting the AoEs in a circle. There will be four AoEs, and after the fourth AoE all players should be back in front of the dark tethered tornado.
 * Players should then separate into their melee and ranged light parties, as Experimental Ashplume is cast. Check what pattern it is. The melee group will stand left of the tornado facing it, and the ranged group will stand right of the tornado facing it. There is a mark on the arena showing exactly where to stand.
@@ -344,6 +344,7 @@ As the fights have just released, there are no strategies set in stone. I would 
 ### DPS
 
 * There are several periods of downtime in this fight, so coordinate cooldowns.
+* Stand at max melee range or further to ensure tanks can pick up tethers.
 * The rotating AoEs from Experimental Fireplume have a medium sized radius, so melee can duck out and in. The large AoE requires them to go to the edge, but it is slow acting and they can run out and use a gap closer to move back in.
 * Target the north and south Sunbirds first to ensure that the tank has ample time to move to the second location before the second one dies. DPS with good cleave can use it for both Sunbird sets.
 * Save 2 minute cooldowns for when the boss comes back, unless you need the DPS on adds.
