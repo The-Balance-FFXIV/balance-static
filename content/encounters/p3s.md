@@ -1,12 +1,12 @@
 ---
 title: "Asphodelos: The Third Circle (Savage)"
-fight_title: P3S
+fight_title: p3s
 encounter_category: savage
 card_image: /img/encounters/ffxiv_12212021_050051_261.jpg
 banner_image: /img/encounters/ffxiv_12212021_050051_261.jpg
 tier_name: Asphodelos
 series_name: Pandaemonium Series
-weight: 3
+weight: 0
 tier_weight: 1
 expansion: ew
 authors:
@@ -73,7 +73,7 @@ Two tethers appear on random non-tanks. These tethers must be picked up by tanks
 **Experimental Fireplume**
 
 The boss will cast either eight small fire orbs or one large fire orb when the castbar finishes.
-* Eight small orbs: AoEs will appear at opposite cardinals and rotate around the arena before hitting the centre. Move out to the second AoE to dodge this.
+* Eight small orbs: AoEs will appear at opposite cardinals and rotate around the arena before hitting the center. Move out to the second AoE to dodge this.
 * One large orb: A gigantic AoE will be baited on a random player. All players bait this in the middle of the arena and move to the edge of the arena.
 
 **Left Cinderwing** and **Right Cinderwing**
@@ -90,7 +90,7 @@ Marks each player with an AoE and a number from one to eight. The Phoinix will b
 
 **Devouring Brand**
 
-A line of fire appears at cardinals and slowly moves towards the centre, leaving intercardinal quadrants safe.
+A line of fire appears at cardinals and slowly moves towards the center, leaving intercardinal quadrants safe.
 
 **Searing Breeze**
 
@@ -99,12 +99,12 @@ AoE markers appear under all players. Bait together and move to dodge.
 **Trail of Condemnation**
 
 The boss will become untargetable and jump to an edge of the arena. Either its middle head or its two side heads will glow.
-* If the middle head is glowing, it will do a line AoE across the centre of the arena and all players will get marked for an AoE. Spread these out to the sides.
-* If the side heads are glowing, it will do a line AoE across the sides of the arena and all players of a role will get marked for a shared AoE. Stand in the centre line and stack with a partner.
+* If the middle head is glowing, it will do a line AoE across the center of the arena and all players will get marked for an AoE. Spread these out to the sides.
+* If the side heads are glowing, it will do a line AoE across the sides of the arena and all players of a role will get marked for a shared AoE. Stand in the center line and stack with a partner.
 
 **Sunbird**
 
-Four Sunbird adds will spawn during Phase 2. These must be picked up by tanks. These will pulse a large AoE when being revived, and if any Sunbird corpse is in it the boss will receive a damage up buff that will eventually wipe the raid.
+Four Sunbird adds will spawn during Phase Two. These must be picked up by tanks. These will pulse a large AoE when being revived, and if any Sunbird corpse is in it the boss will receive a damage up buff that will eventually wipe the raid.
 
 **Flames of Undeath**
 
@@ -158,7 +158,7 @@ The boss will tether to each of the Darkblaze Twisters. One tether will be dark,
 
 **Death's Toll**
 
-Inflicts players with one stack, two stacks, or four stacks of Death's Toll. This must be removed by getting hit by a fatal mechanic for each stack..
+Inflicts players with one stack, two stacks, or four stacks of Death's Toll. This must be removed by getting hit by a fatal mechanic for each stack.
 
 **Life's Agonies**
 
@@ -166,23 +166,23 @@ A catastrophic raidwide AoE that deals magic damage.
 
 ## Fight Strategy
 
-### Phase 1
+### Phase One
 
 * The fight begins with a raidwide AoE into a tank buster.
-* For Heat of Condemnation, the offtank should stand in the centre, pick up a tether, and move out immediately. The main tank is then able to find the other tether, pick it up, and run back north. All other players should be at max melee range or further.
-* The first real mechanic is Experimental Fireplume. Players should all stack in the direct centre square of the arena. If it is rotating AoEs, move out to the second one, and if it is one large AoE, move to the edge.
-* Immediately after, the boss will start casting Left Cinderwing or Right Cinderwing from the centre. Orient yourself properly and dodge this.
-* Return to the centre and stack with your assigned partner on your assigned number (tanks and healers with DPS, 1-2-3-4) to bait Darkened Fire. Once these have spawned, spread out.
+* For Heat of Condemnation, the off-tank should stand in the center, pick up a tether, and move out immediately. The main tank is then able to find the other tether, pick it up, and run back north. All other players should be at max melee range or further.
+* The first real mechanic is Experimental Fireplume. Players should all stack in the direct center square of the arena. If it is rotating AoEs, move out to the second one, and if it is one large AoE, move to the edge.
+* Immediately after, the boss will start casting Left Cinderwing or Right Cinderwing from the center. Orient yourself properly and dodge this.
+* Return to the center and stack with your assigned partner on your assigned number (tanks and healers with DPS, 1-2-3-4) to bait Darkened Fire. Once these have spawned, spread out.
 * To remove the invincibility from Darkened Fire adds, they need to be hit by four instances of a Brightened Fire AoE. To do this, each Brightened Fire needs to hit two orbs each time.
   * This can be easily achieved by having each Brightened Fire number stand at ABCD markers, hitting two adds each. 1 and 5 should stand at A, 2 and 6 should stand at B, 3 and 7 should stand at C, 4 and 8 should stand at D.
   * While players can stand in the middle and move to the marker when it is their turn, it is simpler to have both players stack at the location and mitigate the hits, as two hits is not lethal.
   * Once an add has been hit four times, players should quickly destroy the adds.
-* Do another Heat of Condemnation and Scorched Exaltation. Stack in the middle afterwards to bait Experimental Fireplume.
+* Do another Heat of Condemnation and Scorched Exaltation. Stack in the middle afterward to bait Experimental Fireplume.
 * For this Fireplume, players should all head to 1 or 2 as a group no matter what it is. This is to bait Searing Breeze and Left/Right Cinderwing. Stack at the edge of the arena and move in.
 * Another Heat of Condemnation follows this, so position properly.
 * Do a final Experimental Fireplume and the boss will disappear and do Trail of Condemnation. Don't move into the middle too early.
 * For Trail of Condemnation, treat where the boss appears as relative north. Each player should position with their partner in a line down the arena from there, so the 1 marked group would be directly in front, and 4 would be all the way opposite.
-  * If it is a line AoE down the centre, the tanks and melee should move left out of the AoE and the healers and ranged should move right out of the AoE, satisfying the spread mechanic.
+  * If it is a line AoE down the center, the tanks and melee should move left out of the AoE and the healers and ranged should move right out of the AoE, satisfying the spread mechanic.
   * If it is a line AoE down the sides, simply stay stacked with your partner in the middle column.
 * Heal up and get ready for adds phase.
 
@@ -206,11 +206,11 @@ Experimental Fireplume
 Trail of Condemnation
 ```
 
-### Phase 2: 
+### Phase Three: 
 
 * In the entirety of the adds phase, a storm will sweep through, pouring burning rain. This will pulse light raidwide damage periodically.
 * Split up into light parties (ranged can generally stay in the middle, but hit your adds). The tanks should pick up the north and south adds, and the north tank should provoke the east add and the south tank should provoke the west add. Kill the north and south adds first, and then rotate clockwise to east and west and kill those adds there.
-* Immediately after, return to the centre to heal for Flames of Undeath. These will revive the Sunbirds.
+* Immediately after, return to the center to heal for Flames of Undeath. These will revive the Sunbirds.
 * To perform Fireglide Sweep, each player should note if they are tethered to a player, or tethered to an add and a player. [Here is a Toolbox Diagram](https://ff14.toolboxgaming.space/?id=464441775941461&preview=1) showing how Fireglide Sweep is done.
   * The player tethered to the add and another player needs to go directly across the said Sunbird and be on the left side (clockwise) of the add.
   * The player tethered to only another player needs to directly across their tethered player once they have positioned themselves opposite of their Sunbird and be on the right side (counterclockwise) of the add.
@@ -228,24 +228,24 @@ Flames of Undeath
 Dead Rebirth
 ```
 
-### Phase 3
+### Phase Three
 
-* Starting from Phase 3 and onwards, the player second on the enmity list will take four autoattacks from the Sparkfledged periodically when they are not doing a mechanic. The offtank should retain this position at all times.
-* Nothing changes about Heat of Condemnation, but the offtank will be taking more damage and likely needs to be spot healed for each one.
-* Fledgling Flight will target all tanks/healers or all DPS. Simply stand on the ABCD markers, pointing the arrow towards the outside of the arena. Move to the centre afterwards.
-* All players should then stay in the middle to bait Experimental Gloryplume. Do not move out from the centre until both abilities have been confirmed.
+* Starting from Phase Three and onwards, the player second on the enmity list will take four auto-attacks from the Sparkfledged periodically when they are not doing a mechanic. The off-tank should retain this position at all times.
+* Nothing changes about Heat of Condemnation, but the off-tank will be taking more damage and likely needs to be spot healed for each one.
+* Fledgling Flight will target all tanks/healers or all DPS. Simply stand on the ABCD markers, pointing the arrow towards the outside of the arena. Move to the center afterwards.
+* All players should then stay in the middle to bait Experimental Gloryplume. Do not move out from the center until both abilities have been confirmed.
 * The first fire orbs will show whether it is rotating AoEs or a baited AoE. The second dark orbs will show whether it is light party stack or spread.
 * Tanks and melee should go north, into the space from the D marker to the 2 marker. Healers and ranged should go south, into the space from the B marker to the 4 marker.
 * Immediately after, spread from each other if it is spread, or stack in the melee/ranged groups if it is stack.
 * Fountain of Fire is the next mechanic in the fight. It requires precise positioning from each player to bait mechanics and perform them. [Here is a Toolbox Diagram](https://ff14.toolboxgaming.space/?id=964448726941461&preview=1) showing how Fountain of Fire is done.
-  * All players except for the tanks should be outside of the boss, and the tanks should be direct centre to bait Sun's Pinions.
+  * All players except for the tanks should be outside of the boss, and the tanks should be direct center to bait Sun's Pinions.
   * Note where the first fountains spawn. The first light party's healer should get the north and east fountains, and the second light party's healer should get the south and west fountains. The healer's job is simple: they will soak each fountain in a clockwise pattern. They can use the Trickle of Fire buff to massively heal both themselves and the party between each fountain soak, which deals heavy damage.
 * The rest of the party will be baiting AoEs and dashes. AoEs appear sequentially on the two closest players who have not yet received an AoE.
   * These will be baited tanks > melee > ranged. Once the previous set of players receive an AoE marker, the next set of players should move slightly closer to bait the next set. They need to then place their pinion directly in front of the fountain about to explode, then move across the arena behind the opposing pinion.
   * The tanks, once they receive the AoE, should move directly in front of their light party healer's fountain - directly on top of the marker is fine. Once the pinion appears, go directly across the arena and behind the opposing tank's pinion.
   * The melee should then move closer to bait the second set of AoEs. After they receive the marker, place it directly in front of the second fountain. Wait for the tank's pinion to dash across the arena, then go directly across the arena and behind the opposing melee's pinion (max melee is fine).
   * The ranged should then bait the third set of AoEs. Again, place it in front of the third fountain, wait for the melee pinion, then go directly across and behind.
-* All players converge in the centre. Both healers should still have a few seconds left of the massive healing buff. Use this healing buff to heal everyone up for double Scorched Exaltation. The shield healer is able to generate massive shields, and this should require zero mitigation, as it needs to be saved for the next mechanic sequence.
+* All players converge in the center. Both healers should still have a few seconds left of the massive healing buff. Use this healing buff to heal everyone up for double Scorched Exaltation. The shield healer is able to generate massive shields, and this should require zero mitigation, as it needs to be saved for the next mechanic sequence.
 
 * Firestorms of Asphodelos is the major mechanic in this phase, and is a dance sequence from beginning to end. [Here is a Toolbox Diagram](https://ff14.toolboxgaming.space/?id=635443782051461&preview=1) showing how the entire phase is done.
 * Mitigate the initial hit and fan out into tank/melee and healer/ranged groups. Melee should be at the A marker, and ranged should be at the C marker.
@@ -284,18 +284,18 @@ Experimental Ashplume
 Scorched Exaltation
 ```
 
-### Phase 4
+### Phase Four
 
 * This is the final phase and there is one final new mechanic.
 * Death's Toll will inflict all players with stacks of the Death's Toll debuff - either one, two, or four stacks.
-* Fledgling Flight occurs again, but players need to point the Sparkfledged conal AoE towards the centre of the arena this time instead of outside the arena. Stand on the marker that points the conal towards the centre if you are marked.
+* Fledgling Flight occurs again, but players need to point the Sparkfledged conal AoE towards the center of the arena this time instead of outside the arena. Stand on the marker that points the conal towards the center if you are marked.
 * Players will then have to remove their debuff stacks by getting hit by the corresponding number of Fledgling Flight conal AoEs. 
   * Players with one stack need to stand at a cardinal, behind one of the Sparkfledged. This will ensure they are only hit by one AoE - the one directly opposite.
   * Players with two stacks need to stand at an intercardinal, close to the boss. This will ensure they are only hit by two AoEs - the ones directly opposite.
   * Players with four stacks simply stand in the middle of the arena and get hit by all four AoEs.
 * When all stacks are removed, players will be inflicted with an HP recovery down debuff. This will greatly decrease their healing output. Life's Agonies deals catastrophic damage, so all players need to use all their mitigation and healing tools in order to live through the mechanic. It is recommended to tank LB3 if healing throughput is not up to par.
-* Experimental Gloryplume is done the same as in the beginning of Phase 3.
-* The rest of the fight is a repeat of mechanics at the end of Phase 1. Perform these mechanics correctly and pump damage before the enrage!
+* Experimental Gloryplume is done the same as in the beginning of Phase Three.
+* The rest of the fight is a repeat of mechanics at the end of Phase One. Perform these mechanics correctly and pump damage before the enrage!
 
 ### Ability Order
 
@@ -329,14 +329,14 @@ As the fights have just released, there are no strategies set in stone. I would 
 * The boss should be centered for mechanics such as Fountain of Fire and after Experimental Gloryplume and Experimental Fireplume.
 * Make sure to snap aggro Sunbirds immediately, as healers will need to heal the party periodically before and after they spawn. Once one Sunbird dies, immediately move to the next location to ensure that they die far apart from each other.
 * Use party mitigation tools such as Reprisal for Scorched Exaltation, and save heavy shields and mitigation for heavy damage such as Flames of Undeath and the entire Firestorms of Asphodelos phase.
-* The offtank will take autos from Phase 3 onwards, so they will need to mitigate these when necessary.
+* The off-tank will take autos from Phase Three onwards, so they will need to mitigate these when necessary.
 
 ### Healer
 
 * There is lots of healing required in this fight, and much heavier incoming damage compared to the first two Savage fights.
 * Keep healing over time effects active during firestorms during the adds phase and Firestorms of Asphodelos.
 * Stay in the middle during the adds phase when dealing with Sunbirds (not during Fireglide!) to ensure heals reach all party members. Top party members off before Flames of Undeath when the adds die.
-* The offtank may require extra single-target attention from Phase 3 onwards, as they are taking four autos periodically.
+* The off-tank may require extra single-target attention from Phase Three onwards, as they are taking four autos periodically.
 * Soaking a Fountain of Fire gives the Trickle of Fire buff, which massively increases healing potency for six seconds. This will give the healer 24 seconds of increased healing, which they can use to heal themselves and the party during the mechanic, as well as afterwards for the double Scorched Exaltation.
 * Heal and mitigate between each mechanic set during the Firestorms of Asphodelos. Stagger mitigation, as there are several instances of heavy AoE damage.
 * An Astrologian can press Macrocosmos before the Fledgling Flight conal AoEs go off, and it will instantly heal the entire party to full ignoring the healing potency debuff. With any other healer combination, they will need to heavily heal and mitigate Life's Agonies.
@@ -347,7 +347,7 @@ As the fights have just released, there are no strategies set in stone. I would 
 * Stand at max melee range or further to ensure tanks can pick up tethers.
 * The rotating AoEs from Experimental Fireplume have a medium sized radius, so melee can duck out and in. The large AoE requires them to go to the edge, but it is slow acting and they can run out and use a gap closer to move back in.
 * Target the north and south Sunbirds first to ensure that the tank has ample time to move to the second location before the second one dies. DPS with good cleave can use it for both Sunbird sets.
-* Save 2 minute cooldowns for when the boss comes back, unless you need the DPS on adds.
+* Save two-minute cooldowns for when the boss comes back, unless you need the DPS on adds.
 * By splitting groups into melee and ranged, melee can always move with the tank and have 100% uptime.
 * Make sure you bait Sun's Pinions in the correct order. If AoEs are baited wrong, players can still adjust.
 * Use mitigation such as Addle, Feint, and Magicked Barrier on raidwides and tank busters.
