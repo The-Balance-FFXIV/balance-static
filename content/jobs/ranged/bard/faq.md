@@ -10,7 +10,7 @@ qna:
   - question: How does Repertoire work?
     answer: "While under a song, we get one 80% chance at a proc every three seconds
       of the song timer. Specifically, proc chances occur at 42, 39, 36, etc.
-      seconds remaining, and not at 45 or 0.\r\n"
+      seconds remaining, and not at 45 or zero.\r\n"
   - question: How do I approach the two minute burst?
     answer: "\r
 
