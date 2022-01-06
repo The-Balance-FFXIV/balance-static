@@ -1,23 +1,32 @@
 ---
 title: Bard Best in Slot (BiS)
 layout: bis
-patch: "6.01"
-lastmod: 2021-12-14T22:59:21.948Z
+patch: "6.05"
+lastmod: 2022-01-06T00:57:44.723Z
 changelog:
   - date: 2021-10-26T02:40:27.765Z
     message: Created page
   - date: 2021-12-14T22:59:05.211Z
     message: 6.00 BiS set added
+  - date: 2022-01-06T00:57:48.344Z
+    message: i600 6.05 BiS set added, i580 pentamelded prog BiS added
 bis:
   - type: etro
     description: >-
-      This set should be the best available to prepare for the release of
-      crafted gear alongside Savage. 
+      We recommend you purchase the tome bracelet first, then boots, then
+      pants. 
 
 
-      We don't know what the substats on the crafted gear will be, so it's a bit of a best-guess - these are just the normal raid pieces with the best chance to be better than their future crafted counterpart.
-    name: 6.01 pre-crafted BiS
-    link: https://etro.gg/gearset/dfef14f7-7a4d-4cde-bdba-a8cee50345e8
+      The order of the last three pieces can depend on your loot rolls, etc. But if you're upgrading from pentamelds, the accessories will be slightly better upgrades than the hat.
+
+
+      Note the food and the SkS meld in the bow. This is to hit 2.48 with the best possible efficiency, which we like for some advanced rotational reasons. See [Frequently Asked Questions](/jobs/ranged/bard/faq/) for details until the advanced guide is ready.
+    link: https://etro.gg/gearset/cec981af-25c7-4ffb-905e-3024411b797a
+    name: i600 Best In Slot
+  - type: etro
+    description: ""
+    name: i580 pentamelded Asphodelos prog BiS
+    link: https://etro.gg/gearset/26b27945-d54b-4f86-a4a2-6334447875aa
 authors:
   - Balance-BRD-Staff
 ---
