@@ -6,7 +6,7 @@ card_image: /img/encounters/ffxiv_12212021_050051_261.jpg
 banner_image: /img/encounters/ffxiv_12212021_050051_261.jpg
 tier_name: Asphodelos
 series_name: Pandaemonium Series
-weight: 1
+weight: 3
 tier_weight: 1
 expansion: ew
 authors:
@@ -72,7 +72,7 @@ Two tethers appear on random non-tanks. These tethers must be picked up by tanks
 
 **Experimental Fireplume**
 
-The boss will cast either eight small orbs or one large orb when the castbar finishes.
+The boss will cast either eight small fire orbs or one large fire orb when the castbar finishes.
 * Eight small orbs: AoEs will appear at opposite cardinals and rotate around the arena before hitting the centre. Move out to the second AoE to dodge this.
 * One large orb: A gigantic AoE will be baited on a random player. All players bait this in the middle of the arena and move to the edge of the arena.
 
@@ -122,11 +122,15 @@ A catastrophic raidwide AoE that deals magic damage.
 
 Marks all tanks and healers or all DPS with a Sparkfledged pointing towards a cardinal direction. These will spawn on their location and emit a large conal AoE in the indicated direction.
 
+**Experimental Ashplume**
+
+The boss will cast either eight small dark orbs or one large dark orb when the castbar finishes.
+* Eight small dark orbs: all players are marked with an AoE, so spread out.
+* One large dark orb: One tank and one healer will be marked with a stack marker, so stack - melee with tanks, ranged with healers.
+
 **Experimental Gloryplume**
 
-The boss will do an **Experimental Fireplume** mechanic, then summon eight small dark orbs or one large dark orb.
-* Eight small dark orbs: all players are marked with an AoE, so spread after Fireplume.
-* One large dark orb: One tank and one healer will be marked with a stack marker, so stack after Fireplume.
+The boss will do an **Experimental Fireplume** mechanic, then an **Experimental Ashplume** mechanic. Both mechanics will be shown in order, and then executed, so wait for both to show before moving.
 
 **Fountain of Fire**
 
@@ -138,7 +142,19 @@ Marks the two closest players to the boss with an AoE marker. This deals moderat
 
 **Firestorms of Asphodelos**
 
-A catastrophic raidwide AoE that deals magic damage. This will summon burning rain once more, and spawn fire tornados North, Southwest, and Southeast on the arena.
+A catastrophic raidwide AoE that deals magic damage. This will summon burning rain once more, and spawn Darkblaze Twister fire tornadoes north, southwest, and southeast on the arena.
+
+**Flames of Asphodelos**
+
+Shoots two sets of three conal AoEs in sequence. Move into one of the conal AoEs after it goes off.
+
+**Storms of Asphodelos**
+
+The boss will spawn two **Heat of Condemnation** tethers on random non-tanks. In addition, each Darkblaze Twister will do a targeted conal AoE on the closest player, and the boss will do a targeted conal AoE on the three closest players.
+
+**Darkblaze Twister**
+
+The boss will tether to each of the Darkblaze Twisters. One tether will be dark, and two tethers will be fire. The fire tethered tornadoes will do a donut AoE around them, and the dark tethered tornado will do a knockback.
 
 ## Fight Strategy
 
@@ -213,7 +229,7 @@ Dead Rebirth
 * The first fire orbs will show whether it is rotating AoEs or a baited AoE. The second dark orbs will show whether it is light party stack or spread.
 * Tanks and melee should go north, into the space from the D marker to the 2 marker. Healers and ranged should go south, into the space from the B marker to the 4 marker.
 * Immediately after, spread from each other if it is spread, or stack in the melee/ranged groups if it is stack.
-* Fountain of Fire is the next mechanic in the fight. It requires precise positioning from each player to bait mechanics and perform them. Here is a Toolbox Diagram showing how Fountain of Fire is done.
+* Fountain of Fire is the next mechanic in the fight. It requires precise positioning from each player to bait mechanics and perform them. [Here is a Toolbox Diagram](https://ff14.toolboxgaming.space/?id=964448726941461&preview=1) showing how Fountain of Fire is done.
   * All players except for the tanks should be outside of the boss, and the tanks should be direct centre to bait Sun's Pinions.
   * Note where the first fountains spawn. The first light party's healer should get the north and east fountains, and the second light party's healer should get the south and west fountains. The healer's job is simple: they will soak each fountain in a clockwise pattern. They can use the Trickle of Fire buff to massively heal both themselves and the party between each fountain soak, which deals heavy damage.
 * The rest of the party will be baiting AoEs and dashes. AoEs appear sequentially on the two closest players who have not yet received an AoE.
@@ -221,6 +237,21 @@ Dead Rebirth
   * The tanks, once they receive the AoE, should move directly in front of their light party healer's fountain - directly on top of the marker is fine. Once the pinion appears, go directly across the arena and behind the opposing tank's pinion.
   * The melee should then move closer to bait the second set of AoEs. After they receive the marker, place it directly in front of the second fountain. Wait for the tank's pinion to dash across the arena, then go directly across the arena and behind the opposing melee's pinion (max melee is fine).
   * The ranged should then bait the third set of AoEs. Again, place it in front of the third fountain, wait for the melee pinion, then go directly across and behind.
+* All players converge in the centre. Both healers should still have a few seconds left of the massive healing buff. Use this healing buff to heal everyone up for double Scorched Exaltation. The shield healer is able to generate massive shields, and this should require zero mitigation, as it needs to be saved for the next mechanic sequence.
+
+* Firestorms of Asphodelos is the major mechanic in this phase, and is a dance sequence from beginning to end. Here is a Toolbox Diagram showing how the entire phase is done.
+* Mitigate the initial hit and fan out into tank/melee and healer/ranged groups. Melee should be at the A marker, and ranged should be at the C marker.
+* Dodge the conal AoE, then either stack with your group if Experimental Ashplume was stack, or spread if it was spread.
+* Get back into the middle to heal up, then dodge another set of Flames of Asphodelos. Pre-position for Storms of Asphodelos.
+  * Tanks need to take both tethers and go directly in front of the boss as normal. This will be south of the boss, and it is facing south. The tanks should be outside of the boss's hitbox at max melee range.
+  * The two ranged DPS need to bait the two south Darkblaze Twister conal AoEs towards the south of the arena. They should be standing directly beside it to the south.
+  * One healer needs to bait the north Darkblaze Twister conal AoE towards the left or right of the arena. They need to stand in the corner hugging the tornado.
+  * The two melee DPS and healer need to bait the boss's conal AoEs. Each melee DPS needs be inside the boss's hitbox to the east and west. The healer needs to be inside the boss's hitbox as well to the northeast or northwest.
+* Afterwards, converge in the middle for heals again.
+* The entire party needs to stack in front of the dark tethered tornado once it is confirmed via Darkblaze Twister. This is to bait the Searing Breeze AoEs. Players should move clockwise, baiting the AoEs in a circle. There will be four AoEs, and after the fourth AoE all players should be back in front of the dark tethered tornado.
+* Players should then separate into their melee and ranged light parties, as Experimental Ashplume is cast. Check what pattern it is. The melee group will stand left of the tornado facing it, and the ranged group will stand right of the tornado facing it. There is a mark on the arena showing exactly where to stand.
+* After getting knocked back near the tornado, spread or stack for Ashplume.
+* Heal up for Scorched Exaltation. The tornadoes will disappear after it is cast.
 
 ### Ability Order
 
@@ -234,4 +265,36 @@ Sun's Pinion
 Scorched Exaltation
 Scorched Exaltation
 Heat of Condemnation
+Firestorms of Asphodelos
+Flames of Asphodelos
+Experimental Ashplume
+Flames of Asphodelos
+Storms of Asphodelos
+Darkblaze Twister
+Searing Breeze (four AoEs)
+Experimental Ashplume
+Scorched Exaltation
 ```
+
+### Phase 4
+
+*
+
+### Ability Order
+
+```
+Death's Toll
+Fledgling Flight
+Life's Agonies
+Experimental Gloryplume
+Trail of Condemnation
+Devouring Brand
+Experimental Fireplume
+Searing Breeze
+Left Cinderwing OR Right Cinderwing
+Scorched Exaltation
+Scorched Exaltation
+Final Exaltation
+```
+
+Enrage is a hardcasted Final Exaltation that occurs after the final Scorched Exaltation, wiping the raid after a 10 seconds cast.
