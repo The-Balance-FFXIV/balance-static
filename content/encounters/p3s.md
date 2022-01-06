@@ -6,7 +6,7 @@ card_image: /img/encounters/ffxiv_12212021_050051_261.jpg
 banner_image: /img/encounters/ffxiv_12212021_050051_261.jpg
 tier_name: Asphodelos
 series_name: Pandaemonium Series
-weight: 3
+weight: 1
 tier_weight: 1
 expansion: ew
 authors:
