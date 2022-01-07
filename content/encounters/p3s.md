@@ -211,7 +211,7 @@ Trail of Condemnation
 ```
 &nbsp;
 
-### Phase Three: 
+### Phase Two: 
 
 * In the entirety of the adds phase, a storm will sweep through, pouring burning rain. This will pulse light raidwide damage periodically.
 * Split up into light parties (ranged can generally stay in the middle, but hit your adds). The tanks should pick up the north and south adds, and the north tank should provoke the east add and the south tank should provoke the west add. Kill the north and south adds first, and then rotate clockwise to east and west and kill those adds there.
