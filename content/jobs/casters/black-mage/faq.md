@@ -25,6 +25,27 @@ qna:
       higher or lower SpS you will likely end up with a fairly comparable set.
       After that, for a high crit set it’s Crit > Det >= DH. For a high sps set,
       it’s SpS > Det >= DH > Crit
+  - question: What is Umbral Soul used for?
+    answer: Purely a downtime tool, a better version of Transpose. Lets you build
+      back up to Umbral Ice III + Three Umbral Hearts during downtime, so you
+      can Thunder III -> Fire III when you can hit something again. If you end a
+      fight in Astral Fire, Transpose into UI so you can use Umbral Soul. Do not
+      use Umbral Soul during uptime.
+  - question: Is Lucid Dreaming useless on BLM?
+    answer: Outside of niche optimization, it is not used on BLM.
+  - question: Well, what's a comfy SpS?
+    answer: If you wanna go fast, go fast. If you wanna go slow, go slow. The
+      rotation works at both extremes. A popular, yet mostly arbitrary number to
+      aim for is ~1.3k+ SpS, but go with what works for you.
+  - question: Sharpcast (or any oGCD) is available, but I don’t have anything to use
+      to weave it. Do I clip to use it?
+    answer: Generally, you will want to delay use until the next available weaving
+      window. Situationally, if it means potentially losing any uses or you have
+      an otherwise strong reason to keep it more strictly on CD, then you can
+      clip it (and try to figure out a way to avoid that clip next pull).
+  - question: If I have 2.4k MP left and my Astral Fire phase is about to run out,
+      do I use Fire -> Despair, or only Despair?
+    answer: You use solely Despair, since it’s the better option on average.
 authors:
   - rika-vanih
 ---
