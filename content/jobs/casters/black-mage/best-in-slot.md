@@ -1,30 +1,30 @@
 ---
 title: Black Mage Best in Slot (BiS)
 layout: bis
-patch: "5.58"
-lastmod: 2021-10-26T01:58:23.544Z
+patch: "6.05"
+lastmod: 2022-01-07T07:19:56.792Z
 changelog:
   - date: 2021-10-26T01:58:33.491Z
     message: Created page
+  - date: 2022-01-07T07:20:02.394Z
+    message: Added 6.05 sets
 bis:
   - type: etro
-    description: ""
-    name: Speed 3655 SpS Tier (Relic)
-    link: https://etro.gg/gearset/1c64d9a9-892b-48a8-b7d1-f760839d659c
+    description: Slightly higher average output, but less variance.
+    name: 2171 SpS Speed BiS
+    link: https://etro.gg/gearset/327d090b-2d5a-4c3c-9eb9-8fd42342cce3
   - type: etro
-    description: ""
-    name: Crit 2030 SPS Tier (Relic)
-    link: https://etro.gg/gearset/b470c4c6-6f4a-47c8-8162-52ac09494e02
+    description: Slightly lower average output, but higher variance.
+    name: 1352 SpS Crit BiS
+    link: https://etro.gg/gearset/3be02273-b36d-4297-9f28-69d40641a64b
   - type: etro
-    description: Very slightly higher average output, but less variance. Has some
-      volatility in terms of MP ticks in UI
-    name: TEA High Speed BiS (Relic)
-    link: https://etro.gg/gearset/02a81644-076f-4a5c-b959-d58fbbb86411
+    description: Fully pentamelded set. Use this for Week 1 clears.
+    name: 1457 SpS Crafted Set
+    link: https://etro.gg/gearset/aeb8fce4-1ff9-4216-9f8b-56b68d4ebecd
   - type: etro
-    description: Very slightly lower average output, but higher variance. Does not
-      run into similar MP tick issues as with the SpS set
-    name: TEA High Crit BiS (Relic)
-    link: https://etro.gg/gearset/dd1144c3-11cd-439b-b835-f5aefab1e755
+    description: More casual set for non week 1 clears.
+    name: Budget Crafted Set
+    link: https://etro.gg/gearset/4e770122-e3fb-4cf7-8bc7-1783286c2472
 authors:
   - xenitan
   - Fürst-Blumier
