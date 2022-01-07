@@ -4,10 +4,10 @@ layout: bis
 patch: "6.05"
 lastmod: 2022-01-07T07:19:56.792Z
 changelog:
-  - date: 2021-10-26T01:58:33.491Z
-    message: Created page
   - date: 2022-01-07T07:20:02.394Z
     message: Added 6.05 sets
+  - date: 2021-10-26T01:58:33.491Z
+    message: Created page
 bis:
   - type: etro
     description: Slightly higher average output, but less variance.
