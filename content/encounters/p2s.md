@@ -30,6 +30,8 @@ The Second Circle (Savage) is the first raid encounter in the Pandaemonium serie
 
 [Reaper POV](https://www.youtube.com/watch?v=hOPtjKp91vU)
 
+[Red Mage POV](https://www.youtube.com/watch?v=cpiMNxaKV6g)
+
 ### Drops
 
 **Chest One**:
