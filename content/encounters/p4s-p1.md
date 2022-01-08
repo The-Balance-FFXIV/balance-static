@@ -3,8 +3,8 @@ title: "Asphodelos: The Fourth Circle (Savage) Phase One"
 fight_title: p4s-p1
 encounter_category: savage
 card_image: /img/encounters/ffxiv_12212021_052303_462.jpg
-banner_image: /img/encounters/ffxiv_12212021_052303_462.jpg
-tier_image: /img/encounters/p4scrop.png
+banner_image: /img/encounters/p4scrop.png
+tier_image: /img/encounters/ffxiv_12212021_052303_462.jpg
 tier_name: Asphodelos
 series_name: Pandaemonium
 weight: 0
