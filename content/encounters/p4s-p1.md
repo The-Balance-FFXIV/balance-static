@@ -212,7 +212,10 @@ Inversive Chlamys
 
 ### Phase Three
 
-*
+* The final phase consists of mechanics you have seen previously. However, execution on this part is still as difficult if you have low experience with the eight different mechanic patterns.
+* It starts off with a raidwide into a tank buster, then Hesperos will set the scene again. Keep track of where Lightning is.
+* The elemental phase is done the same as phase one. Howeverm there is a Decollation right after the last Lava Mekhane or Acid Mekhane. This is the most difficult part of the fight to heal and all players need to run in immediately after and use mitigation.
+* There are three Decollations at the end of the fight. Heal through these, and DPS the boss down before enrage. Remember that you do not need to heal after the third and last one goes off.
 
 ### Ability Order
 
@@ -233,3 +236,30 @@ Enrage
 ```
 
 If not brought below 50% HP, Hesperos will enrage at 7:12 into the fight, going invulnerable and casting a Decollation that wipes the raid.
+
+## Party Finder Strategies
+
+As the fights have just released, there are no strategies set in stone. I would highly recommend the strategies listed in this guide, as they are simple and effective. This guide will be consistently updated with new and efficient strategies as they are discovered.
+
+## Role Specific Tips
+
+### Tank
+
+* Discuss an invulnerability usage rotation with your co-tank. Most tank combinations will have to invuln tank busters 1 and 3 (sounds familiar? :^) ) but Warrior can use Holmgang on 1 and 3, allowing the other tank to invuln the second buster.
+* Quickly position the boss closer to the middle after the first elemental phase, as the second buster is right there.
+* Move the boss to the middle after the first elemental phase to make Belone Bursts easier.
+* Use Reprisal for raidwides such as Decollation, Bloodrake, and Periaktoi, and party mitigation for periods of heavy damage, such as Belone Bursts and elemental phase.
+
+### Healer
+
+* There is a LOT of heavy raidwide damage in this fight. Both you and your party needs to keep mitigation and healing on point.
+* Mark both healers with 1 and 2 so light party stacks during elemental phase are more coordinated.
+* You will have to top the party before each Decollation and Bloodrake, and usually after as well.
+* Heavy mitigation and healing cooldowns should be used at the beginning of the fight and during the Belone Bursts phase. While there is a lot of incoming damage during the elemental phase, it is staggered in waves and you will have time to heal in between. In the Belone Bursts phase, players will be taking four instances of damage in a row (Bloodrake > orb 1 > orb 2 > Periaktoi).
+
+
+### DPS
+
+* Cooldowns during progression should be used at 0:00, delayed until 2:30 (after the elemental phase), 4:30 (between the first and second tower sets), and after the final elemental phase.
+* Use Addle on raidwides such as Decollation, Bloodrake, and Periaktoi. Feint should be used on non-invulned tank busters. If invulned, just use it on raidwides.
+* There is several periods of melee downtime during the elemental phase, mainly when Lightning forces players to the wall and they have to spread or stack at the wall afterwards. While damage needs to be pushed as the DPS check is very tight, dead players do no damage and it is imperative you do these mechanics correctly.
