@@ -22,6 +22,8 @@ The Fourth Circle (Savage) is the fourth raid encounter in the Pandaemonium seri
 
 ### Videos
 
+[Reaper POV](https://www.youtube.com/watch?v=q6qyVLQO4kg)
+
 ### Drops
 
 As this is a door boss, there is no loot acquired from this phase.
