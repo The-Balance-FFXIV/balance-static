@@ -14,6 +14,9 @@ authors:
   - lyra
 lastmod: 2022-01-08T01:40:36.851Z
 patch: "6.05"
+changelog:
+  - date: 2022-01-08T21:42:47.136Z
+    message: Created page.
 ---
 ## Introduction
 
@@ -69,8 +72,8 @@ Tethers four random players which deals moderate damage in an AoE around them wh
 
 Changes the scene to form four areas - Levinstrike (lightning), Acid (poison), Well (water), and Lava (fire). Each of these will do a mechanic when triggered, as well as deal damage in their quadrant.
 
-* Levinstrike Mekhane: deals proximity damage from the centre of the arena. 
-* Well Mekhane: knocks back players from the centre of the arena.
+* Levinstrike Mekhane: Deals proximity damage from the centre of the arena. 
+* Well Mekhane: Knocks back players from the centre of the arena.
 * Acid Mekhane: An unmarked AoE on all players.
 * Lava Mekhane: An unmarked AoE on both healers, which must be shared with other players.
 
@@ -116,9 +119,10 @@ Places four towers at the intercardinals of the arena. These must be soaked, but
 * Hesperos is a gigantic step-up healing-wise from the previous Savage bosses. He starts off with an extremely heavy hitting AoE.
 * Immediately after, four players of a role will be targeted by Bloodrake. This role, either DPS or supports, cannot take the tethers from Inversive Chlamys later. Therefore, the opposite role will have to take the tethers later. Heal up the previous mechanic so the targeted players do not die.
 * The boss then casts another Bloodrake. This can be on the same role or the opposite role, and indicates the role that cannot take the Role Call debuff later. Heal up the previous Bloodrake targets if needed.
+
   * For example, if DPS were targeted for the first Bloodrake, supports are taking the Inversive Chlamys tether. If supports were targeted for the second Bloodrake, DPS are taking the Role Call debuff.
 * All players should spread out to clock spots to see who receives the Role Call debuff from Director's Belone. The role that needs to take the debuff should move to a player that has the debuff if necessary.
-* Finally, the role that needs to take the tether should take the tethers. There are two ways of doing this, and both are equally efficient - use what works best for your group.
+* Finally, the role that needs to take the tether should take the tethers. There are two ways of doing this, and both are equally efficient -- use what works best for your group.
 
   * Line strat: All players that cannot take tether stack with each other max melee south. The four players taking tethers all stand between that stack and the boss, and once they have their tethers they fan out to the north side of the arena.
   * Box strat: All players that cannot take tether stand max melee range at their clock spot. The four players taking tethers all stand in the middle of the boss's hitbox and wiggle, and once they have their tethers they fan out to their clock spots at max melee range.
@@ -164,6 +168,8 @@ Random Directional Shift
 Lava Mekhane OR Acid Mekhane
 ```
 
+&nbsp;
+
 ### Phase Two
 
 * After doing spread or stack, the tank should attempt to move the boss to the middle and all other players get out of the way.
@@ -175,6 +181,7 @@ Lava Mekhane OR Acid Mekhane
 ![](https://i.imgur.com/1sDTXGj.png)
 
 * Tanks will be NW and N, healers will be NE and E, and DPS will be on the last four positions. However, the DPS will have to adjust based on what debuff they get.
+
   * Acting Healer will go opposite of the healers at W and SW.
   * Acting Tank will go opposite of the tanks at SE and S.
 * All players will be inflicted with Elemental Belone, which makes them weak to all elements except the one not tethered by Bloodrake earlier.
@@ -188,6 +195,7 @@ Lava Mekhane OR Acid Mekhane
 * The boss casts Aetheric Chlamys, locking in who will take Inversive Chlamys tethers later.
 * Heal up and mitigate for Bloodrake.
 * Hesperos will cast Belone Coils again. Again, each tower will have an indicator showing what role cannot take that tower, and it can be the same role or a different role as last time. There are no tethers this time. The role that is soaking the tower cannot take the Role Call debuff later.
+
   * For example, if supports could not take the first tower, they would be taking the Inversive Chlamys tethers later. If DPS could not take the second tower, they would be taking the Role Call debuff later.
 * Immediately after towers, all players should spread out to clock spots to see who receives the Role Call debuff from Director's Belone. The role that needs to take the debuff should move to a player that has the debuff if necessary.
 * The role that needs to take the tethers should take the tethers. Use whichever method that your group is more comfortable with, and remember to spread.
@@ -212,6 +220,8 @@ Belone Coils
 Director's Belone
 Inversive Chlamys
 ```
+
+&nbsp;
 
 ### Phase Three
 
@@ -238,6 +248,8 @@ Decollation
 Enrage
 ```
 
+&nbsp;
+
 If not brought below 50% HP, Hesperos will enrage at 7:12 into the fight, going invulnerable and casting a Decollation that wipes the raid.
 
 ## Party Finder Strategies
@@ -248,7 +260,7 @@ As the fights have just released, there are no strategies set in stone. I would 
 
 ### Tank
 
-* Discuss an invulnerability usage rotation with your co-tank. Most tank combinations will have to invuln tank busters 1 and 3 (sounds familiar? :^) ) but Warrior can use Holmgang on 1 and 3, allowing the other tank to invuln the second buster.
+* Discuss an invulnerability usage rotation with your co-tank. Most tank combinations will have to invuln the first and third tank busters (sounds familiar? :^) ), but Warrior can use Holmgang on the first and third, allowing the other tank to invuln the second buster.
 * Quickly position the boss closer to the middle after the first elemental phase, as the second buster is right there.
 * Move the boss to the middle after the first elemental phase to make Belone Bursts easier.
 * Use Reprisal for raidwides such as Decollation, Bloodrake, and Periaktoi, and party mitigation for periods of heavy damage, such as Belone Bursts and elemental phase.
@@ -259,7 +271,6 @@ As the fights have just released, there are no strategies set in stone. I would 
 * Mark both healers with 1 and 2 so light party stacks during elemental phase are more coordinated.
 * You will have to top the party before each Decollation and Bloodrake, and usually after as well.
 * Heavy mitigation and healing cooldowns should be used at the beginning of the fight and during the Belone Bursts phase. While there is a lot of incoming damage during the elemental phase, it is staggered in waves and you will have time to heal in between. In the Belone Bursts phase, players will be taking four instances of damage in a row (Bloodrake > orb 1 > orb 2 > Periaktoi).
-
 
 ### DPS
 
