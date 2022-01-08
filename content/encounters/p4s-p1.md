@@ -30,7 +30,7 @@ As this is a door boss, there is no loot acquired from this phase.
 
 ### Pre-pull Preparation
 
-Assign all players a clock spot and a partner. Assign two light parties of one tank, one healer, and two DPS each.
+Assign all players a clock spot and a partner. Assign two light parties of one tank, one healer, and two DPS each. Tanks and healers often have to do mechanics together and will be referred to as the support role.
 
 Place markers on the arena as such.
 
@@ -56,7 +56,7 @@ Hesperos charges his sword, converting the Aethersucker buff gained from Bloodra
 
 **Director's Belone**
 
-Inflicts four random players with the Role Call debuff and consumes the boss's Aethersucker buff. When this debuff expires, the player will die if they matched the role that was taken by Bloodrake, but will not have any effect if they are of the opposite role.
+Inflicts four random players with the Role Call debuff and consumes the boss's Aethersucker buff. When this debuff expires, the player will die if they matched the role that was taken by Bloodrake, but will not have any effect if they are of the opposite role. This debuff can be passed to another player by standing on them, and players who pass a debuff cannot take another one.
 
 **Inversive Chlamys**
 
@@ -107,7 +107,13 @@ Places four towers at the intercardinals of the arena. These must be soaked, but
 
 ### Phase One
 
-* 
+* Hesperos is a gigantic step-up healing-wise from the previous Savage bosses. He starts off with an extremely heavy hitting AoE.
+* Immediately after, four players of a role will be targeted by Bloodrake. This role, either DPS or supports, will have to take the tethers from Inversive Chlamys later. Heal up the previous mechanic so the targeted players do not die.
+* The boss then casts another Bloodrake. This can be on the same role or the opposite role, and indicates the role that will have to take the Role Call debuff later. Heal up the previous Bloodrake targets if needed.
+* All players should spread out to clock spots to see who receives the Role Call debuff from Director's Belone. The role that needs to take the debuff should move to a player that has the debuff if necessary.
+* Finally, the role that needs to take the tether should take the tethers. There are two ways of doing this, and both are equally efficient:
+  * Line strat: All players that cannot take tether stack with each other max melee south. The four players taking tethers all stand between that stack and the boss, and once they have their tethers they fan out to the north side of the arena.
+  * Box strat: All players that cannot take tether stand max melee range at their clock spot. The four players taking tethers all stand in the middle of the boss's hitbox and wiggle, and once they have their tethers they fan out to their clock spots at max melee range.
 
 ### Ability Order
 
@@ -137,18 +143,18 @@ Lava Mekhane OR Acid Mekhane
 
 ```
 Elegant Evisceration
-Bloodrake (all players)
+Bloodrake (three elemental quadrants)
 Setting the Scene
 Vengeful Belone
 Elemental Belone
-Bloodrake
+Bloodrake (all players)
 Belone Bursts
 Periaktoi
 Bloodrake (all players)
 Belone Coils
 Inversive Chlamys
 Aetheric Chlamys
-Bloodrake
+Bloodrake (all players)
 Belone Coils
 Director's Belone
 Inversive Chlamys
