@@ -30,7 +30,7 @@ As this is a door boss, there is no loot acquired from this phase.
 
 ### Pre-pull Preparation
 
-Assign all players a clock spot and a partner. Assign two light parties of one tank, one healer, and two DPS each. Tanks and healers often have to do mechanics together and will be referred to as the support role.
+Assign all players a clock spot and a role-based partner. Assign each partner a marker spot from one to four. Assign two light parties of one tank, one healer, and two DPS each. Tanks and healers often have to do mechanics together and will be referred to as the support role.
 
 Place markers on the arena as such.
 
@@ -65,6 +65,7 @@ Tethers four random players which deals moderate damage in an AoE around them wh
 **Setting the Scene**
 
 Changes the scene to form four areas - Levinstrike (lightning), Acid (poison), Well (water), and Lava (fire). Each of these will do a mechanic when triggered, as well as deal damage in their quadrant.
+
 * Levinstrike Mekhane: deals proximity damage from the centre of the arena. 
 * Well Mekhane: knocks back players from the centre of the arena.
 * Acid Mekhane: An unmarked AoE on all players.
@@ -77,12 +78,14 @@ Begins to trigger the stage's Mekhane mechanics in order of which they pulse.
 **Shift**
 
 Hesperos will jump to a cardinal direction and his sword or cloak will glow. The direction will be indicated by the ability name: either **Northerly Shift**, **Easterly Shift**, **Southerly Shift**, or **Westerly Shift**.
+
 * If the sword is glowing, he will cleave the middle of the arena from where he jumps.
 * If the cloak is glowing, he will knock back all players from where he jumps.
 
 **Vengeful Belone**
 
 Inflicts all players with an Acting Role debuff, which can only be removed by soaking two orbs of the indicated role.
+
 * Two DPS will be inflicted with Acting Healer.
 * Two DPS will be inflicted with Acting Tank.
 * Both healers and both tanks will be inflicted with Acting DPS.
@@ -93,7 +96,7 @@ Inflicts all players with Elemental Resistance Down, which make them take extra 
 
 **Belone Bursts**
 
-Hesperos summons eight orbs at the edge of the arena. These will tether to the closest player and indicate the Acting Role that needs to soak them, which deals heavy damage. In addition, they need to be soaked by two players at a time, or else it will deal lethal damage.
+Hesperos summons eight orbs at the edge of the arena. These will tether to the closest player and mark itself with the role of said player. This indicates the Acting Role that needs to soak them, which deals heavy damage. In addition, they need to be soaked by two players at a time, or else it will deal lethal damage.
 
 **Periaktoi**
 
@@ -108,12 +111,35 @@ Places four towers at the intercardinals of the arena. These must be soaked, but
 ### Phase One
 
 * Hesperos is a gigantic step-up healing-wise from the previous Savage bosses. He starts off with an extremely heavy hitting AoE.
-* Immediately after, four players of a role will be targeted by Bloodrake. This role, either DPS or supports, will have to take the tethers from Inversive Chlamys later. Heal up the previous mechanic so the targeted players do not die.
-* The boss then casts another Bloodrake. This can be on the same role or the opposite role, and indicates the role that will have to take the Role Call debuff later. Heal up the previous Bloodrake targets if needed.
+* Immediately after, four players of a role will be targeted by Bloodrake. This role, either DPS or supports, cannot take the tethers from Inversive Chlamys later. Therefore, the opposite role will have to take the tethers later. Heal up the previous mechanic so the targeted players do not die.
+* The boss then casts another Bloodrake. This can be on the same role or the opposite role, and indicates the role that cannot take the Role Call debuff later. Heal up the previous Bloodrake targets if needed.
+  * For example, if DPS were targeted for the first Bloodrake, supports are taking the Inversive Chlamys tether. If supports were targeted for the second Bloodrake, DPS are taking the Role Call debuff.
 * All players should spread out to clock spots to see who receives the Role Call debuff from Director's Belone. The role that needs to take the debuff should move to a player that has the debuff if necessary.
-* Finally, the role that needs to take the tether should take the tethers. There are two ways of doing this, and both are equally efficient:
+* Finally, the role that needs to take the tether should take the tethers. There are two ways of doing this, and both are equally efficient - use what works best for your group.
+
   * Line strat: All players that cannot take tether stack with each other max melee south. The four players taking tethers all stand between that stack and the boss, and once they have their tethers they fan out to the north side of the arena.
   * Box strat: All players that cannot take tether stand max melee range at their clock spot. The four players taking tethers all stand in the middle of the boss's hitbox and wiggle, and once they have their tethers they fan out to their clock spots at max melee range.
+* Immediately after, the boss will cast another Decollation, so heal up.
+* Tanks can either swap for Elegant Evisceration or use an immunity - I would suggest the latter. Keep in mind there are two hits, so if swapping both tanks need mitigation and to spread out. After the second hit, tanks should swap if they want to use immunity on the next tank buster.
+* The boss will set the scene next, adding elemental quadrants onto the arena. The entire elements section is extremely formulaic, but there are eight different patterns that can occur and players will have to learn them all.
+* Hesperos will first cast Pinax, which shows the first two mechanics that will occur. The first mechanic will always be Lightning or Water, and the second mechanic will always be Fire or Poison. These mechanics will resolve one directly after the other.
+
+  * If the first mechanic is Lightning, all players should head to the edge of the arena, either north or south depending on where the Lightning square is and not on the Lightning square.
+
+    * If the second mechanic is Poison, all players should spread at the edges with melee moving in and spreading. Do not be inside the Poison square.
+    * If the second mechanic is Fire, players should spread with their groups, with one moving inside the arena and one staying at the wall. This ensures one group is not in a Fire square, and do not be inside the Fire square.
+  * If the first mechanic is Water, all players should head to the middle of the arena and either use their knockback immunity or position themselves to get knocked back. Do not be in the Water square.
+
+    * If the second mechanic is Poison, all players should spread out after the knockback. Do not be on the Poison square.
+    * If the second mechanic is Fire, all players should simply use their knockback immunity and stack with their groups on safe spots. Do not be on the Fire square.
+* As these mechanics occur, players will know the subsequent two mechanics - they are the ones not done previously. For example, if it was lightning -> poison, then the second set will be water -> fire.
+* Next, Hesperos will jump to the middle and cast a random Shift mechanic. Players can preposition on the correct side he jumps to.
+
+  * If the first mechanic is Lightning, all players should run to the edge where Hesperos is jumping to. Do not stand on the Lightning square.
+  * If the first mechanic is Water, all players stand in the middle and get knocked back to the Shift destination. Do not stand on the Water square.
+  * Immediately after the first mechanic goes off, adjust to do the Shift mechanic. If it is a sword, go to or stay at the edge, and if it is a cloak, stand directly in front to get knocked back across the arena.
+  * Players have ample time to adjust for the second mechanic for this set. Poison means spread but not on the Poison square, and Fire means run up to the boss and stack in your light party groups.
+* Learning how to do Setting the Scene is pivotal to progression, as players will have to learn all the mechanic combinations and execute them twice in the fight.
 
 ### Ability Order
 
@@ -137,7 +163,31 @@ Lava Mekhane OR Acid Mekhane
 
 ### Phase Two
 
-*
+* After doing spread or stack, the tank should attempt to move the boss to the middle and all other players get out of the way.
+* For this tank buster, tanks can use immunity and swap after the second hit or swap during the castbar, spread, and use mitigation for both.
+* The boss will do heavy raid damage with the next Bloodrake. He will tether to three elemental squares. Keep note of the one he did not tether to. As an example, remember Fire.
+* The tank should recentre the boss and face north slowly (the boss will do several casts here) but as soon as possible.
+* Vengeful Belone will inflict all players with Acting Role debuffs. However, players can all pre-position to roughly where they will need to be. 
+
+![](https://i.imgur.com/1sDTXGj.png)
+
+* Tanks will be NW and N, healers will be NE and E, and DPS will be on the last four positions. However, the DPS will have to adjust based on what debuff they get.
+  * Acting Healer will go opposite of the healers at W and SW.
+  * Acting Tank will go opposite of the tanks at SE and S.
+* All players will be inflicted with Elemental Belone, which makes them weak to all elements except the one not tethered by Bloodrake earlier.
+* Hesperos will then cast Bloodrake on all players. Heal up and mitigate heavily for the next mechanic.
+* He will then spawn eight orbs outside of each player, which will tether to them at the end of the castbar. Any player of their role cannot take the orb, and the players with the corresponding Acting Role debuff needs to run into the orb to explode it with their partner - a player with the same Acting Role debuff as them.
+* With this positioning, all players can simply run directly opposite of their position with their partner, pop an orb, wait for a heal if necessary, and then pop the orb directly clockwise.
+* Afterwards, heal all players up, mitigate, as Periaktoi does massive damage. Stand on the elemental square that was not tethered at the beginning of this phase with Bloodrake. If you remembered from earlier, our example was Fire, so we would stand on Fire.
+* Next, position the boss middle and face him north. We will do a variation on the first mechanic set in the fight, but with towers this time instead of Bloodrake indicating which role does the mechanics.
+* Belone Coils will spawn four towers at numbered markers. Each tower will have an indicator showing what role cannot take that tower. The role that can stand inside the tower needs to stand inside. The role that is soaking the tower cannot take tethers later.
+* Meanwhile, the other role has to take tethers from Inversive Chlamys and take them out (max melee is fine). As the tower players cannot stand in a line, the tether players need to stand in the middle, wiggle a bit to ensure all tethers are taken, and go to their clock spots - go clockwise one spot if necessary.
+* The boss casts Aetheric Chlamys, locking in who will take Inversive Chlamys tethers later.
+* Heal up and mitigate for Bloodrake.
+* Hesperos will cast Belone Coils again. Again, each tower will have an indicator showing what role cannot take that tower, and it can be the same role or a different role as last time. There are no tethers this time. The role that is soaking the tower cannot take the Role Call debuff later.
+  * For example, if supports could not take the first tower, they would be taking the Inversive Chlamys tethers later. If DPS could not take the second tower, they would be taking the Role Call debuff later.
+* Immediately after towers, all players should spread out to clock spots to see who receives the Role Call debuff from Director's Belone. The role that needs to take the debuff should move to a player that has the debuff if necessary.
+* The role that needs to take the tethers should take the tethers. Use whichever method that your group is more comfortable with, and remember to spread.
 
 ### Ability Order
 
