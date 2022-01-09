@@ -2,8 +2,8 @@
 title: "Asphodelos: The Fourth Circle (Savage) Phase Two"
 fight_title: p4s-p2
 encounter_category: savage
-card_image: /img/encounters/ffxiv_12212021_052303_462.jpg
-banner_image: /img/encounters/p4scrop.png
+card_image: /img/encounters/firefox_2022-01-09_17-21-39.jpg
+banner_image: /img/encounters/firefox_2022-01-09_17-21-39.jpg
 tier_name: Asphodelos
 series_name: Pandaemonium Series
 weight: 1
@@ -49,11 +49,11 @@ Eight of these tokens can be traded in for chest gear or a weapon at a Pandaemon
 
 ### Pre-pull Preparation
 
-Assign all players a clock spot. In addition, assign each melee and ranged a number from one to four. These will be used to soak towers later into the fight.
+Assign all players a clock spot. Assign two light parties of one tank, one healer, and two DPS each. In addition, assign each melee/tank and ranged/healer a number from one to four. These will be used to soak towers later into the fight.
 
-Place ABCD markers at the cardinal edges of the arena.
+Place markers on the arena as such.
 
-### Mechanic Overview
+![](https://i.imgur.com/QN9cdwd.png)
 
 ### Akanthai Mechanics
 
@@ -130,6 +130,7 @@ A catastrophic raidwide AoE that deals magic damage.
 **Nearsight** and **Farsight**
 
 An AoE tank buster on two targets chosen by promixity to the boss.
+
 * **Nearsight** will target the two closest players. The two tanks should be inside the boss's hitbox and all other players should be max melee range or further.
 * **Farsight** will target the two furthest players. The two tanks should be outside the boss's hitbox at max melee range and all other players should be in the centre of the boss's hitbox.
 
@@ -157,22 +158,58 @@ Hesperos will shoot marked conal AoEs. After this ability is cast, he will shoot
 
 ### Akanthai: Act 1
 
-*
+* The fight starts off with a heavy hitting AoE, so pre-shield and mitigate.
+* Players can generally ignore the actual cast of the Akanthai mechanic, and instead base their positioning when the boss casts Wreath of Thorns.
+* For the first Act, players need to dodge two large AoE explosions at north/south or east/west, each soak a tower, and then move into the final safe spot at east/west or north/south. [Here is a Toolbox Diagram](https://ff14.toolboxgaming.space/?id=299547078671461&preview=1) explaining how to do the mechanic.
+* Look at which thorns Wreath of Thorns tethers to first. If Hesperos tethers to north and south, players will be starting east and west. If Hesperos tethers to east and west, players will be starting north and south. Light party 1 should go north, and light party 2 should go south.
+  * First, dodge the explosions - max melee range is safe.
+  * Next, each player needs to go soak their pre-assigned towers. Healers and ranged DPS will be getting the outer four, and tanks and melee DPS will be getting the inner four. Tanks and healers go clockwise, DPS go counterclockwise.
+  * Finally, move to the safe spot by rotating further to east/west or north/south.
+* Immediately after, tanks will need to do Farsight or Nearsight. All other players should be either inside the boss's hitbox or outside the boss's hitbox to ensure they are not hit.
 
 ### Ability Order
 
 ```
-
+Searing Stream
+Akanthai: Act 1
+Searing Stream
+Wreath of Thorns
+Farsight OR Nearsight
 ```
 
 ### Akanthai: Act 2
 
-*
+* Hesperos will then show Act 2's mechanics.
+* This is followed by Demigod Double. It is highly recommended to have the MT invuln this.
+* The boss will then tether to two Fire IV thorns and two Thunder III thorns, and the the other two Fire IV thorns and two Thunder III thorns. Players will have to start either north/south or east/west based on which Fire IV thorns were not tethered first, just like Act 1. If Hesperos tethers to north and south, players will be starting east and west. If Hesperos tethers to east and west, players will be starting north and south.
+  * Look north. There will be two thorns at the edge - if the left thorn is tethered, players are going north and south, and if the right thorn is tethered, players are going east and west.
+* Players will receive tethers as the castbar finishes. Players will move to a specific position based on what tether they have. [Here is a Toolbox Diagram](https://ff14.toolboxgaming.space/?id=110645221771461&preview=1) explaining how to do the mechanic.
+  * Tanks will always go south or east. The tank with fire will go between the numbered marker and the boss to bait Dark Design, and the tank with dark or nothing will go to the wall counterclockwise of the left thorn to bait Dark Design.
+  * Healers will always go north or west. The healer with fire will go between the numbered marker and the boss to bait Dark Design, and the healer with dark or nothing will go to the wall counterclockwise of the left thorn to bait Dark Design.
+  * The two DPS with air will go north or west and go between the numbered marker and the boss to bait Dark Design.
+  * The two DPS with fire will go south or east and go between the numbered marker and the boss to bait Dark Design.
+* The boss will then cast Dark Design, AoEs under each player. Bait these where specified, and immediately after move to the correct position.
+  * The healer with dark or nothing will go to the tower at the wall on the lettered number, but ensure you are not hit by the Fire IV.
+  * The tank with dark or nothing will go to the tower at the wall on the lettered number, but ensure you are not hit by the Fire IV.
+  * The tank with fire and two DPS with fire will go to the numbered marker at their spot.
+  * The DPS with air and the healer with fire will also go to the numbered marker at their spot.
+* After Fire IV blows up and players take damage, return to the middle for heals and once healed head immediately towards your final positions.
+  * The healer with dark or nothing rotates clockwise and soaks the tower at that location.
+  * The tank with dark or nothing rotates clockwise and soaks the tower at that location.
+  * The healer with fire rotates counterclockwise and heads to the numbered marker at that location.
+  * The tank with fire rotates clockwise and heads to the numbered marker at that location.
+  * The two DPS with air rotates clockwise together to the numbered marker at that location.
+  * One DPS with fire needs rotate clockwise and one DPS will fire needs to rotate counterclockwise. Both will head to the numbered marker at their location.
+* After the second Fire IV sets blow up, head to the middle and heal up for Ultimate Impulse. This needs 2 10%s and shields to survive.
 
 ### Ability Order
 
 ```
-
+Akanthai: Act 2
+Demigod Double
+Wreath of Thorns
+Dark Design
+Ultimate Impulse
 ```
 
 ### Akanthai: Act 3
@@ -182,7 +219,7 @@ Hesperos will shoot marked conal AoEs. After this ability is cast, he will shoot
 ### Ability Order
 
 ```
-
+Akanthai: Act 3
 ```
 
 ### Akanthai: Act 4
@@ -216,8 +253,6 @@ Hesperos will shoot marked conal AoEs. After this ability is cast, he will shoot
 ```
 
 ## Party Finder Strategies
-
-
 
 ## Role Specific Tips
 
