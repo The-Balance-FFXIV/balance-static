@@ -57,7 +57,7 @@ Place markers on the arena as such.
 
 ### Akanthai Mechanics
 
-The fight is split into several Akanthai Acts. Each Act is preceded by Hesperos showing what mechanic will be cast with thorns on the arena. He will tether to thorns with **Wreath of Thorns**, showing the order of the mechanics cast. Thorns can represent towers, tethers to players, or large explosions. Players can also be tethered to other players. Tethers are broken based on proximity.
+The fight is split into several Akanthai Acts. Each Act is preceded by Hesperos showing what mechanic will be cast with thorns on the arena. He will tether to thorns with **Wreath of Thorns**, showing the order of the mechanics cast. Thorns can represent towers, tethers to players, or large explosions. Players can also be tethered to other players. Tethers are broken based on distance.
 
 **Hemitheos's Fire IV**
 
@@ -214,7 +214,24 @@ Ultimate Impulse
 
 ### Akanthai: Act 3
 
-*
+* Immediately after Ultimate Impulse, Hesperos will begin Act 3.
+* Act 3 is much simpler than the other Acts. There are two ways to do this mechanic - either have ranged do all towers and melee do all jumps and quakes, or have each role do one set of mechanics each.
+* As Wreath of Thorns is casting, note which side of thorns he tethers to first, either east or west. All players should start on that side of the boss, inside the boss's hitbox.
+* Afterwards, the boss will cast Kothornos Kick. The main tank needs to bait this to the opposite side of the arena.
+* Immediately after, the two melee and the offtank should head towards the boss, while the main tank who baited the jump runs behind the boss at max melee range. The two melee and offtank need to stand inside the boss's hitbox: one in front, one on the left flank, and one on the right flank. This is to bait Kothornos Quake.
+* At the same time, the ranged DPS and healers need to soak towers at the edge of the arena. Soak them from north to south in the order assigned.
+* All players need to press their knockback immunity when they soak towers or take a Kothornos Quake.
+* From here, the strategy diverges based on whether your group wants to have ranged or melee soak second towers.
+  * If melee are soaking second towers, simply have the four melee stay on that side and soak their towers from north to south in the order specified.
+  * One healer should bait Kothornos Kick while the other three players move towards the other side to ensure they are not hit.
+  * Finally, the healer baiting moves through to the middle and the other three players bait Kothornos Quake inside the boss's hitbox.
+* If you want to have ranged also take the second set of towers, have all four ranged run across the arena directly opposite to a tower.
+* The tank baiting will run across the arena to bait the kick. The other three will gap close across and bait the quake.
+* After this mechanic resolves, players need to do Nearsight or Farsight. Heal up the tanks and mitigate.
+* Move the boss middle and point him north. At this point if the offtank is not second in enmity they will need to provoke the boss.
+* Heart Stake needs to be heavily mitigated and healed through, and targets first and second in aggro.
+
+
 
 ### Ability Order
 
