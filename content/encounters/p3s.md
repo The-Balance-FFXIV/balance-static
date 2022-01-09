@@ -239,7 +239,7 @@ Dead Rebirth
 * Starting from Phase Three and onwards, the player second on the enmity list will take four auto-attacks from the Sparkfledged periodically when they are not doing a mechanic. The off-tank should retain this position at all times.
 * Nothing changes about Heat of Condemnation, but the off-tank will be taking more damage and likely needs to be spot healed for each one.
 * Fledgling Flight will target all tanks/healers or all DPS. Simply stand on the ABCD markers, pointing the arrow towards the outside of the arena. Move to the center afterwards.
-* All players should then stay in the middle to bait Experimental Gloryplume. Do not move out from the center until both abilities have been confirmed.
+* All players should then stay in the middle to bait Experimental Gloryplume. Do not move out from the center until the dark orb ability has been confirmed, as this one is always eight fire orbs.
 * The first fire orbs will show whether it is rotating AoEs or a baited AoE. The second dark orbs will show whether it is light party stack or spread.
 * Tanks and melee should go north, into the space from the D marker to the 2 marker. Healers and ranged should go south, into the space from the B marker to the 4 marker.
 * Immediately after, spread from each other if it is spread, or stack in the melee/ranged groups if it is stack.
@@ -251,6 +251,7 @@ Dead Rebirth
   * The tanks, once they receive the AoE, should move directly in front of their light party healer's fountain - directly on top of the marker is fine. Once the pinion appears, go directly across the arena and behind the opposing tank's pinion.
   * The melee should then move closer to bait the second set of AoEs. After they receive the marker, place it directly in front of the second fountain. Wait for the tank's pinion to dash across the arena, then go directly across the arena and behind the opposing melee's pinion (max melee is fine).
   * The ranged should then bait the third set of AoEs. Again, place it in front of the third fountain, wait for the melee pinion, then go directly across and behind.
+  * Alternatively, these AoEs can be placed north > south > north, still at max melee range. The execution is still the same.
 * All players converge in the center. Both healers should still have a few seconds left of the massive healing buff. Use this healing buff to heal everyone up for double Scorched Exaltation. The shield healer is able to generate massive shields, and this should require zero mitigation, as it needs to be saved for the next mechanic sequence.
 
 * Firestorms of Asphodelos is the major mechanic in this phase, and is a dance sequence from beginning to end. [Here is a Toolbox Diagram](https://ff14.toolboxgaming.space/?id=635443782051461&preview=1) showing how the entire phase is done.
@@ -261,6 +262,7 @@ Dead Rebirth
   * The two ranged DPS need to bait the two south Darkblaze Twister conal AoEs towards the south of the arena. They should be standing directly beside it to the south.
   * One healer needs to bait the north Darkblaze Twister conal AoE towards the left or right of the arena. They need to stand in the corner hugging the tornado.
   * The two melee DPS and healer need to bait the boss's conal AoEs. Each melee DPS needs be inside the boss's hitbox to the east and west. The healer needs to be inside the boss's hitbox as well to the northeast or northwest. Wait until the tanks pick up tethers to go inside.
+  * Alternatively, both tanks are able to pick up the tethers, stack together directly in front of the boss, and invuln together. This will bait the southwest and southeast conals, two boss conals, and take care of the tethers. The rest of the party should stand northeast max melee range, with one ranged baiting the north tornado's conal.
 * Afterwards, converge in the middle for heals again.
 * The entire party needs to stack in front of the dark tethered tornado once it is confirmed via Darkblaze Twister. This is to bait the Searing Breeze AoEs. Players should move clockwise, baiting the AoEs in a circle. There will be four AoEs, and after the fourth AoE all players should be back in front of the dark tethered tornado.
 * Players should then separate into their melee and ranged light parties, as Experimental Ashplume is cast. Check what pattern it is. The melee group will stand left of the tornado facing it, and the ranged group will stand right of the tornado facing it. There is a mark on the arena showing exactly where to stand.
@@ -272,7 +274,7 @@ Dead Rebirth
 ```
 Heat of Condemnation
 Fledgling Flight
-Experimental Gloryplume
+Experimental Gloryplume (eight small fire orbs)
 Fountain of Fire
 Sun's Pinion
 Sun's Pinion
@@ -301,7 +303,7 @@ Scorched Exaltation
   * Players with two stacks need to stand at an intercardinal, close to the boss. This will ensure they are only hit by two AoEs - the ones directly opposite.
   * Players with four stacks simply stand in the middle of the arena and get hit by all four AoEs.
 * When all stacks are removed, players will be inflicted with an HP recovery down debuff. This will greatly decrease their healing output. Life's Agonies deals catastrophic damage, so all players need to use all their mitigation and healing tools in order to live through the mechanic. It is recommended to tank LB3 if healing throughput is not up to par.
-* Experimental Gloryplume is done the same as in the beginning of Phase Three.
+* Experimental Gloryplume is done the same as in the beginning of Phase Three. This one will always be one large fire orb, so melee need to run north and ranged need to run south as soon as it goes off, then do the subsequent mechanic.
 * The rest of the fight is a repeat of mechanics at the end of Phase One. Perform these mechanics correctly and pump damage before the enrage!
 
 ### Ability Order
@@ -310,7 +312,7 @@ Scorched Exaltation
 Death's Toll
 Fledgling Flight
 Life's Agonies
-Experimental Gloryplume
+Experimental Gloryplume (one large fire orb)
 Trail of Condemnation
 Devouring Brand
 Experimental Fireplume
