@@ -1,5 +1,5 @@
 ---
-title: Paladin Basic Guide
+title: Paladin Basics Guide
 card_header_image: /img/jobs/pld/basic.png
 authors:
   - nikroulah
@@ -9,119 +9,83 @@ changelog:
   - date: 2021-10-27T17:21:54.665Z
     message: Added
 ---
-> the useless pre-Endwalker guide update by [nikroulah#1605](https://www.fflogs.com/character/na/adamantoise/nikroulah%20skysdotter)  
+Welcome to the Basics Guide for Paladin! Whether you are a fresh level 90, a returning player, or just need a refresher, this guide will get you started and hit the ground running.
+
+
+Since this is a basic introduction to level 90 Paladin, this guide will not go into many nuances and topics that are tied to high-end optimization. If you are looking for such information, you may find it in one of the dedicated guides below:
+
+* Leveling Guide (Coming Soon!)
+* [Openers](/jobs/tanks/paladin/openers)
+* Advanced Guide (Coming Soon!)
+* Fight Tips (Coming Soon!)
+* [Stats and Materia](/jobs/tanks/paladin/stats-and-materia)
+* [Gearing](/jobs/tanks/paladin/best-in-slot)
+* Skill Overview (Coming Soon!)
+* [Frequently Asked Questions](/jobs/tanks/paladin/faq)
 
 - - -
 
-# Skills and Abilities Overview
+## Paladin Playstyle
 
-Follow [this link](https://www.thebalanceffxiv.com/jobs/tanks/paladin/skills-overview/) to view the Skill and Abilities page of the guide!
+The Paladin rotation revolves around its two main buffs: Fight or Flight, which heavily buffs all physical damage, and Requiescat, which buffs spells and enables the use of Confiteor. Defensively, Paladin has strong party mitigation as well as targeted mitigation for your co-tank or party members.
 
-- - -
+## The Basic Rotation
 
-# Opener
+### The Opener
 
-Goals for PLD openers include:
+Goals for the opener include:
+* Apply Goring Blade early
+* Use damaging off-global cooldowns (oGCDs) inside tincture and raid-buff windows. Most raid-buffs will come out shortly before the 4th GCD).
 
-1) Apply Goring Blade early.
-2) Get important abilities like Fight or Flight and Requiescat on cooldown early.
-3) Use damaging oGCDs inside raid buff and potion windows (which typically come up around the 4th or 5th GCD).  
-  <br>
-  ![](https://xiv.sleepyshiba.com/pld/assets/rotation-opener.png)
+![Standard Opener for Paladin](https://xiv.sleepyshiba.com/pld/img/standard-opener.png)
 
-**Text version:** -2s prepull Holy Spirit > Fast Blade + Circle of Scorn + Fight or Flight > Riot Blade > Goring Blade > Fast Blade > Strength Tincture (halfway through GCD) > Riot Blade + Spirits Within + Intervene > Royal Authority + Intervene > Atonement > Atonement > Atonement > Fast Blade > Riot Blade + Circle of Scorn > Goring Blade + Requiescat > Holy Spirit > Holy Spirit > Holy Spirit > Holy Spirit > Confiteor + Spirits Within
+**Text version:** prepull Holy Spirit at -2s > Fast Blade + late weave Fight or Flight > Riot Blade + Tincture > Goring Blade + Circle of Scorn > Fast Blade + Expiacion + Intervene > Riot Blade + Requiescat + Intervene > Royal Authority > Atonement > Atonement > Atonement > Fast Blade > Riot Blade > Goring Blade > Holy Spirit > Holy Spirit > Holy Spirit + Circle of Scorn > Holy Spirit + Expiacion > Confiteor > Blade of Faith > Blade of Truth > Blade of Valor
 
-![](https://xivapi.com/i/020000/020710_hr1.png)  <br> 
-<br>  
-The potion used is whatever the current tier's Strength potion is (as of the time of writing, and until Endwalker release, it is the Grade 4 Tincture of Strength HQ).
+![](https://xivapi.com/i/020000/020710_hr1.png)
+
+The potion used is whatever the current tier's Strength potion is (as of Savage release in patch 6.05, it is the Grade 6 Tincture of Strength).
 
 **High Latency Adjustments:**\
-At high latency (>100ms), it can be be beneficial to move around oGCDs (not Fight or Flight or Requiescat) in order to avoid any clipping (delaying your next GCD) caused by double weaving. Additionally, move the tincture to before the first Goring Blade.
+At high latency, if double weaves would cause your GCD to clip, move oGCDs around to stick to single-weaving.
 
 **Opener notes:**  
 
-* We pull with a precast Holy Spirit as a medium-potency GCD that only costs half a GCD (due to precasting). Pulling with Shield Lob would be less potency and starts the GCD rolling later while pulling with Intervene moves an Intervene out of Fight or Flight. Circle of Scorn is used immediately (before Fight or Flight) in the opener for two reasons:
+* We pull with a precast Holy Spirit as a medium-potency GCD that only costs half a GCD (due to precasting). Pulling with Shield Lob would be less potency and starts the GCD rolling later while pulling with Intervene moves an Intervene out of Fight or Flight.
+* Since the Requiescat oGCD itself does damage, and the Requiescat buff lasts for a long time, we use Requiescat early in the opener to put it under raid-buffs like Bard's Battle Voice or Dancer's Technical Finish.
 
-1) Its cooldown is equal to the duration of Fight or Flight, meaning that there will always be one CoS usage during FoF; the specific timing within the FoF duration is not important.
-2) With a high DoT uptime, it is highly likely that any delays to CoS will result in a potency loss via lost DoT ticks by the end of the fight or phase.
+### Rotation Loop
 
-- - -
+Following Blade of Valor, the Paladin rotation enters into a loop with three phases, with a short filler phase before repeating the Fight or Flight and Requiescat windows as in the opener.
 
-# Rotation
+// TODO picture coming very soon
 
-Goals for the basic rotation are to maximize potency in personal buff windows (Fight or Flight and Requiescat), keep uptime on Goring Blade (apply Goring Blade every eight or nine GCDs), keep FoF and Req on cooldown as much as possible and to use all stacks of Sword Oath generated by using three Atonements per Royal combo.  
-<br>
+**Text Version:** Loop Start > Fast Blade > Riot Blade > Royal Authority > Atonement > Atonement > Fast Blade + late weave Fight or Flight > Riot Blade > Goring Blade > Fast Blade > Riot Blade > Royal Authority > Atonement > Atonement > Atonement > Fast Blade > Riot Blade > Goring Blade + Requiescat > Holy Spirit > Holy Spirit > Holy Spirit > Holy Spirit > Confiteor > Blade of Faith > Blade of Truth > Blade of Valor
 
-## The Loop
+During the filler phase, only two out of three Atonements are used because the natural rotation is approximately 64 seconds long. Dropping a GCD minimizes the natural drift on the 60-second cooldown Fight or Flight and Requiescat and is the best option in a vacuum.
 
-The basic rotation can be thought of as *a loop starting after the previous cast of Confiteor*, and consists of an unbuffed section, a Fight or Flight window, and a Requiescat window.
+Damaging oGCDs like Circle of Scorn and Expiacion should be used on cooldown, ideally with two charges of Intervene being pooled for Fight or Flight. Requiescat can be used any time after the fourth Fight or Flight GCD for the buff to last until Confiteor.
 
-Damaging oGCDs should be used on cooldown, with two charges of Intervene being pooled for Fight or Flight windows.  
+### Using Fight or Flight
 
-![](https://xiv.sleepyshiba.com/pld/assets/rotation-loop.png)
-
-**Text Version:** Loop start > Fast Blade > Riot Blade > Goring Blade > Fast Blade > Riot Blade > Royal Authority > Atonement > Atonement > Atonement > Fast Blade + Fight or Flight > Riot Blade > Goring Blade > Fast Blade > Riot Blade > Royal Authority > Atonement > Atonement > Atonement > Fast Blade > Riot Blade > Goring Blade + Requiescat > Holy Spirit > Holy Spirit > Holy Spirit > Holy Spirit > Confiteor > Loop end
-
-## Using Fight or Flight
+With a 25-second duration, at most common skill speeds, it is possible to fit 11 GCDs in the Fight or Flight buff window. In the standard rotation these GCDs will be Riot Blade, Goring Blade, a Royal Atonement combo and three Atonements, and another Goring Blade combo. The buff on Goring Blade's damage-over-time effect (DoT) will persist as long as Goring Blade itself was buffed by Fight or Flight.
 
 ![](https://xiv.sleepyshiba.com/pld/assets/fofgcd.png)
 
-Fight or Flight should be weaved approximately two-thirds of the way into the GCD roll in order to cover 11 physical GCDs, which will typically be a Royal Authority combo, 3 Atonements, a Goring Blade combo, and an extra Riot Blade and Goring Blade.
+In order to fit all 11 GCDs in the buff window, Fight or Flight must be weaved late in the GCD timer. The approximate timing is two-thirds of the way into the GCD after Fast Blade, though the timing may vary depending on your latency and skill speed. As long as the buff icon is on your buff bar when your last GCD is cast, then it was buffed. The in-game battle log and floating damage text are inaccurate for determining whether the last GCD was buffed or not.
 
-![](https://xiv.sleepyshiba.com/pld/assets/usingfof.png)
+Each Fight or Flight window should also contain one Circle of Scorn and one Expiacion. Using them roughly on cooldown should naturally line them up with Fight or Flight. Intervene is ideally pooled for two uses during Fight or Flight, but should be used to keep melee uptime if needed.
 
-Each Fight or Flight should also ideally have 1 Circle of Scorn, 1 Spirits Within, and 2 Intervenes.
+### Multiple Targets
 
-## 63 second rotation vs. 60 second rotation
+* At three or more targets, replace single target melee combos with Total Eclipse and Prominence.
+* At two or more targets, replace Holy Spirit with Holy Circle
+* In dungeons use Requiescat before Fight or Flight, since it is stronger in multi-target situations
 
-At typical skill speed levels, using all available MP in Requiescat and all Sword Oath generated causes the rotation loop to be approximately 63 seconds long. This means that both Fight or Flight and Requiescat will be off cooldown for approximately 1 GCD before they are used again.
+For prolonged two-target encounters (rarely found outside of Ultimate raids), see the Advanced Guide (Coming Soon!) for more information.
 
-It is possible to drop a Holy Spirit from the loop (such that each Requiescat consists of 3 Holy Spirits and a Confiteor) so that personal buffs can be kept on cooldown and so that Spirits Within and Intervene don't have to be held into a slowly drifting Fight or Flight window.
+## Notable Utility
 
-Without a known phase length or kill time, the 63 second and 60 second rotations are about equal, so it is fine to default to either.
 
-**Why is Circle of Scorn used immediately in the opener?**
-
-Circle of Scorn is used before Fight or Flight in most openers and kept on cooldown in most phases for two reasons:
-
-1. Its short cooldown (25 seconds) is equal to the duration of Fight or Flight, meaning one CoS usage should always occur during FoF regardless of their respective timings, given full uptime.
-2. Its high DoT uptime (~60%) means that any delays are likely to cost ticks at the end of the phase, resulting in a potency loss overall.
-
-Circle of Scorn should only be delayed in an optimized setting to line up with buffs and/or for an extra usage in tinctures *if it is guaranteed to not lose ticks*.
-
-**Can I use Fight or Flight after Riot Blade to make it easier to fit both Goring Blades?**
-
-Fitting both Goring Blades into each standard FoF window is a high priority, but sacrificing a buffed GCD on a regular basis to make this easier is not a good practice outside of progression, and is only necessary if encounter mechanics force a major disengagement during Fight or Flight. 10 GCD FoF windows are weaker and also limit the optimizations you can do with your rotation, such as fitting 4 Atonements into FoF.
-
-Instead, ensure your FoF timing is precise (always in the second half of the GCD cycle, *not immediately after the previous GCD*) and you aren't double-weaving during FoF with high latency (>100 ms). As long as you keep the GCD rolling, fitting 11 GCDs into FoF with proper timing is always possible at recommended skill speeds, regardless of latency.
-
-**Should I save oGCDs for Fight or Flight?**
-
-Following a standard opener, every physical oGCD will naturally line up with Fight or Flight if kept on cooldown (but Intervene should usually be stacked and used twice in each FoF window). If downtime misaligns an oGCD with FoF, consider whether delaying the oGCD will cost a usage before the end of the phase. Maximizing oGCD usages is *almost always more important than fitting them into buffs*.
-
-Use Intervene outside of FoF only if needed to keep your GCD rolling.
-
-For optimization, line up Circle of Scorn with multi-target opportunities whenever possible, use Spirits Within earlier in the opener if necessary to avoid lining it up with incoming burst damage, and prioritize keeping uptime with Intervene during movement-heavy mechanics.
-
-**Should I keep Goring Blade up at all times?**
-
-Goring Blade should be applied every 8 or 9 GCDs in a full-uptime situation to maximize the potency of each usage. However, if downtime will occur immediately after Royal Authority (and cause Atonement usages to be lost), it is usually preferable to skip the previous Goring Blade and use Royal Authority earlier instead, because 3 Atonements are worth more than a Goring Blade combo.
-
-Whenever downtime is involved, case-by-case adjustments to the rotation are recommended to avoid using inefficient Goring Blade combos which would prevent the use of Atonement (if Royal Authority must also be used) or Holy Spirit (if Requiescat is available).
-
-## Adjustments and Recovery
-
-Paladin's rotation is deceptively easy to recover. As a general rule, the rotation can be fully reset by each Requiescat window as long as Fight or Flight and Requiescat don't drift apart (even if they must be used sub-optimally). Losses cannot be reversed, but *ensuring personal buff windows do not desync from each other* will prevent problems from compounding for the rest of the encounter.
-
-![](https://xiv.sleepyshiba.com/pld/assets/skill-atonement-no.png)\
-For unexpected single-GCD losses, the solution is simple: drop an Atonement so FoF and Requiescat don't get delayed. If the loss occurs during the FoF window, dropping an Atonement will also ensure that the next Goring Blade is still buffed by FoF. The leftover Atonement should then replace a Holy Spirit during the Requiescat window, if possible, due to its higher potency and shorter recast time.
-
-![](https://xiv.sleepyshiba.com/pld/assets/rotation-adjustment1.png)
-
-![](https://xiv.sleepyshiba.com/pld/assets/skill-goringblade-no.png)\
-For multiple-GCD losses (broken combos or long disengagements), the solution is to drop a Goring Blade combo at some point before the next Requiescat, because 3 Atonement/Holy Spirit usages are worth more than a full Goring Blade combo, if three GCDs must be sacrificed to prevent buff delays. Alternatively, dropping multiple Atonements (or forcing multiple Atonements into Requiescat) with standard Goring Blade timing still works, but is less efficient.
-
-![](https://xiv.sleepyshiba.com/pld/assets/rotation-adjustment2.png)
 
 - - -
 
@@ -147,7 +111,6 @@ Co-tank macros assume your co-tank is in party slot two (default party sorting)
 /ac Intervention <2>
 /micon Intervention  
 ``` 
-<br>
 
 **Mouseover Cover:**
 ```
@@ -188,7 +151,6 @@ Co-tank macros assume your co-tank is in party slot two (default party sorting)
 /micon Shirk  
 ```
 
-<br>
 **Why are there so many repeated lines?**
 FFXIV macros do not queue, so hitting a macro while in animation lock from another action will cause the macro to not go off. Since macros execute lines sequentially at around one line per frame, repeating the /action lines simulates mashing the ability every frame for ~15 frames and gives the macro a semblance of queuing.
 
@@ -198,6 +160,8 @@ FFXIV macros do not queue, so hitting a macro while in animation lock from anoth
 `<2>` targets the second player on your party list, which is the other tank by default in 8-man content.
 
 - - -
+
+
 
 # Stats and Itemization
 
