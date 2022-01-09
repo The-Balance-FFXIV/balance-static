@@ -1,10 +1,11 @@
 ---
 title: Red Mage Changes
 layout: changes
-lastmod: 2021-12-27T00:21:51.725Z
+lastmod: 2022-01-09T03:22:02.017Z
 changes:
   - patch: "6.0"
-    description: "[Placeholder]"
+    description: "[View the most recent changes on the Official
+      Site!](https://na.finalfantasyxiv.com/jobguide/redmage/)"
 authors:
   - Laille-Ormesaing
   - Balance-RDM-Staff
