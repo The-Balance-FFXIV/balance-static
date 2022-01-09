@@ -7,7 +7,7 @@ banner_image: /img/encounters/crop.png
 tier_image: /img/encounters/ffxiv_12212021_050051_261.jpg
 tier_name: Asphodelos
 series_name: Pandaemonium Series
-weight: 1
+weight: 2
 tier_weight: 1
 coming_soon: false
 spoilers: false
@@ -16,6 +16,11 @@ authors:
   - lyra
 lastmod: 2022-01-06T17:50:18.582Z
 patch: "6.05"
+changelog:
+  - date: 2022-01-09T19:17:50.446Z
+    message: Added tank invuln (myta (noob)) strat for Storms of Asphodelos. Added
+      different ordered baits for Fountain of Fire. Fixed Experimental
+      Gloryplume to mention the order.
 ---
 
 ## Introduction
