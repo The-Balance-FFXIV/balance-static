@@ -3,15 +3,17 @@ title: Machinist Basic Guide
 card_header_image: /img/jobs/mch/basic.png
 authors:
   - dook
-  - Balance-MCH-Staff
   - lynn-nuvestrahl
+  - Balance-MCH-Staff
 patch: "6.05"
-lastmod: 2022-01-04T09:23:40.142Z
+lastmod: 2022-01-09T08:26:36.327Z
 changelog:
   - date: 2021-10-25T21:57:19.219Z
     message: Created page
   - date: 2021-12-07T00:19:45.145Z
     message: Updated for Endwalker
+  - date: 2022-01-09T08:26:28.226Z
+    message: Updated.
 ---
 # Job Overview
 
@@ -27,6 +29,10 @@ Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge whi
 
 # The Two-Minute Loop and Rotational Theory
 
+While reading this guide, the following image can be referenced to get a better grasp of what's being talked about.
+
+![](/img/jobs/mch/mch-ew-rotation.jpg)
+
 The most basic description of the level 90 rotation can be broken down by following these rules:
 
 * Not drifting Drill, Air Anchor, Chainsaw, or Wildfire
@@ -34,6 +40,8 @@ The most basic description of the level 90 rotation can be broken down by follow
 * Using your flexible burst inside of raid buffs as much as possible.
 
 The base rotation for Machinist revolves around two minute windows starting and ending with Wildfire application. Wildfire and Barrel Stabilizer are outliers in our kit as the cooldown does not scale with skill speed. While Heat and Battery won’t loop perfectly due to differing Hypercharge windows in these segments, Wildfire can still be used as a landmark in the rotation for tracking other cooldowns in our kit, mechanics or even just used to help reset our rotation in case mistakes were made with some of the more strict timers.
+
+
 
 ![](/img/jobs/mch/2022-01-03_16-03-43-500_okamiazure.png)
 
@@ -64,6 +72,8 @@ Automaton Queen is Machinist’s most flexible burst and is also the most powerf
 | 90             | 18.5 seconds  | 21.5 seconds       | 9       | 26                  | 585                 | 675                      | 2082                         |
 | 100            | 20.5 seconds  | 23.5 seconds       | 10      | 26                  | 650                 | 750                      | 2314                         |
 
+&nbsp;
+
 Timing Automaton Queen’s summoning can be a bit of an issue due to her wind-up animation, which lasts 5 seconds at the start of the timer regardless of battery at summoning time. Because of this, “reactionary summoning” can be quite bad, and will almost always result in Pile Bunker / Crowned Collider landing outside of raid buffs. To remedy this, it is suggested that Automaton Queen is summoned prior to raid buffs being used. Luckily, the vast majority of raid buffs come out at two-minute intervals. In a two-minute cycle, Machinist generates about 180 Battery, which lets you summon Automaton Queen every minute. With a large amount of Battery, you would want to summon Automaton Queen a GCD or two before the minute burst windows to ensure Pile Bunker and Crowned Collider land towards the end of your party’s raid buffs. Even though Queen’s timer at 100 Battery is 21 seconds, it’s slightly misleading. The end of the timer determines when Pile Bunker will go off, but Crowned Collider will go off even after that. With how much potency both of these actions are, it’s wise to ensure they both land in the majority of raid buffs.
 
 Queen’s summon should be delayed if scripted downtime is about to happen. Using Overdrive is always a loss and should be avoided unless a fight is ending and you have no other option to get the Pile Bunker and Crowned Collider off. Ultimately, you should be planning your Battery usage in such a way Queen’s finishers go off naturally, and so that you end a fight with as little excess Battery as possible.
@@ -92,23 +102,23 @@ In rare scenarios, opening with Air Anchor, Drill and Chainsaw as your first thr
 
 The basic AoE priority is as follows:
 
-Two Targets
+**Two Targets**
 
 * The Heated Combo is a gain over Scattergun
 * Heat Blast should still be used over Auto-Crossbow
 * Bioblaster is a gain over Drill as long as the entire duration of the DoT will tick
 * Reassemble priority is on Chainsaw
 
-Three Targets
+**Three Targets**
 
 * Flamethrower > Scattergun 
 * Auto-Crossbow becomes a gain over Heat Blast while in Hypercharge
 
-4-6 Targets
+**4-6 Targets**
 
 * Reassemble priority after Chainsaw is Scattergun, overcoming Drill and Air Anchor
 
-7+ Targets
+**7+ Targets**
 
 * Same as above, except you should delay Air Anchor until there’s less enemies.
 
@@ -141,6 +151,7 @@ You may have noticed parts of the Machinist rotation feeling somewhat unresponsi
 * If possible, ensure you are using a wired connection. WiFi can be spotty and result in packet loss.
 * If playing on an older computer, lower graphics settings and turn off particle effects to increase your framerate. This only matters when your frame rate is so low that it is visibly affecting your gameplay.
 * Utilize a gaming VPN. Occasionally, ISPs will route your connection inefficiently, and a VPN can correct the issue by lowering packet loss and ping, creating a more stable connection to the server. Listed below are VPN options.
+
 * * Mudfish
   * ExitLag
   * WTFast
