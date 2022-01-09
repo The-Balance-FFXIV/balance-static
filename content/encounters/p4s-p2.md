@@ -220,6 +220,13 @@ Ultimate Impulse
 
 ```
 Akanthai: Act 3
+Wreath of Thorns
+Kothornos Kick
+Kothornos Quake
+Kothornos Kick
+Kothornos Kick
+Farsight OR Nearsight
+Heart Stake
 ```
 
 ### Akanthai: Act 4
@@ -229,7 +236,7 @@ Akanthai: Act 3
 ### Ability Order
 
 ```
-
+Akanthai: Act 4
 ```
 
 ### Akanthai: Finale
