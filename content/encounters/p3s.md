@@ -166,7 +166,7 @@ Inflicts players with one stack, two stacks, or four stacks of Death's Toll. Thi
 
 **Life's Agonies**
 
-A catastrophic raidwide AoE that deals magic damage.
+A catastrophic raidwide AoE that deals magic damage based on the player's missing HP.
 
 ## Fight Strategy
 
@@ -302,7 +302,7 @@ Scorched Exaltation
   * Players with one stack need to stand at a cardinal, behind one of the Sparkfledged. This will ensure they are only hit by one AoE - the one directly opposite.
   * Players with two stacks need to stand at an intercardinal, close to the boss. This will ensure they are only hit by two AoEs - the ones directly opposite.
   * Players with four stacks simply stand in the middle of the arena and get hit by all four AoEs.
-* When all stacks are removed, players will be inflicted with an HP recovery down debuff. This will greatly decrease their healing output. Life's Agonies deals catastrophic damage, so all players need to use all their mitigation and healing tools in order to live through the mechanic. It is recommended to tank LB3 if healing throughput is not up to par.
+* When all stacks are removed, players will be inflicted with an HP recovery down debuff. This will greatly decrease their healing output. Life's Agonies deals catastrophic damage if players are at low HP, so all players need to use all their mitigation and healing tools in order to live through the mechanic. It is recommended to tank LB3 if healing throughput is not up to par.
 * Experimental Gloryplume is done the same as in the beginning of Phase Three. This one will always be one large fire orb, so melee need to run north and ranged need to run south as soon as it goes off, then do the subsequent mechanic.
 * The rest of the fight is a repeat of mechanics at the end of Phase One. Perform these mechanics correctly and pump damage before the enrage!
 
