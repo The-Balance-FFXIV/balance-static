@@ -9,7 +9,7 @@ changelog:
   - date: 2021-10-27T17:21:54.665Z
     message: Added
 ---
-> the useless pre-Endwalker guide update by [nikroulah#1605](https://www.fflogs.com/character/na/adamantoise/nikroulah%20skysdotter)
+> the useless pre-Endwalker guide update by [nikroulah#1605](https://www.fflogs.com/character/na/adamantoise/nikroulah%20skysdotter)  
 
 - - -
 
