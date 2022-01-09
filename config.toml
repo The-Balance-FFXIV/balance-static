@@ -5,7 +5,6 @@ theme = "glam"
 enableRobotsTXT = true
 
 [params]
-  maxLevel = 80
   maxTierGearsets = 8
   maxUltimateGearsets = 4
   maxGearsets = 12
