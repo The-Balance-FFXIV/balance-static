@@ -77,7 +77,7 @@ Two players with be tethered together with a air (teal) symbol on top. When this
 
 **Hemitheos's Dark IV***
 
-One player will be tethered to a thorn with a dark (purple) symbol on top. When this tether is broken, all players will take heavy magic damage and be inflicted with a Magic Vulnerability Up debuff.
+One player will be tethered to a thorn with a dark (purple) symbol on top. When this tether is broken, all players will take heavy magic damage and be inflicted with a Magic Vulnerability Up debuff. In addition, this will trigger the tethered thorn's **Hemitheos's Thunder III** if applicable.
 
 **Hemitheos's Water III**
 
@@ -91,6 +91,27 @@ This thorn will knockback from the centre of the arena.
 
 **Akanthai: Act 1**
 
+Act 1 has two Fire IV thorns north and south, two Fire IV thorns east and west, and eight Thunder IV thorns at intercardinals in and out.
+
+**Akanthai: Act 2**
+
+Act 2 has two Fire IV thorns north and south, two Fire IV thorns east and west, and four Thunder IV thorns at cardinal edges, though all of these are slightly offset. In addition, one tank or one healer will be tethered with Dark IV, a healer and a tank will be tethered with Fire III, two DPS will be tethered with Fire III, and two DPS will be tethered with Aero III.
+
+**Akanthai: Act 3**
+
+Act 3 has four Thunder IV thorns on one edge east or west, four Thunder IV thorns on one edge on the opposite side, and one Water IV thorn in the middle of the arena.
+
+**Akanthai: Act 4**
+
+Act 4 has four Thunder IV thorns at either cardinal or intercardinal edges and four Fire IV thorns at either intercardinal or cardinal edges. Four players will be tethered to the Thunder IV thorns with Water III, while four players will be tethered to the Fire IV thorns with Dark IV.
+
+**Akanthai: Finale**
+
+The Finale has eight Thunder IV thorns around the middle of the arena in a circle. In addition, there will be two thorns at opposite intercardinal edges which tethers four players of a role (tank/healer or DPS) with Aero III.
+
+**Akanthai: Curtain Call**
+
+The Curtain Call has eight Dark IV thorns at cardinal and intercardinal edges that tether to one player each.
 
 ### General Mechanics
 
@@ -131,8 +152,6 @@ Hesperos will shoot three unmarked conal AoEs at the closest three players, deal
 **Hell's Sting**
 
 Hesperos will shoot marked conal AoEs. After this ability is cast, he will shoot unmarked conal AoEs into the areas he did not before. Move into the marked conal AoEs to dodge. Getting hit will deal moderate damage and inflict a ~42% damage down debuff.
-
-
 
 ## Fight Strategy
 
