@@ -27,6 +27,10 @@ Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge whi
 
 # The Two-Minute Loop and Rotational Theory
 
+While reading this guide, the following image can be referenced to get a better grasp of what's being talked about.
+
+![](/img/jobs/mch/mch-ew-rotation.jpg)
+
 The most basic description of the level 90 rotation can be broken down by following these rules:
 
 * Not drifting Drill, Air Anchor, Chainsaw, or Wildfire
@@ -34,6 +38,8 @@ The most basic description of the level 90 rotation can be broken down by follow
 * Using your flexible burst inside of raid buffs as much as possible.
 
 The base rotation for Machinist revolves around two minute windows starting and ending with Wildfire application. Wildfire and Barrel Stabilizer are outliers in our kit as the cooldown does not scale with skill speed. While Heat and Battery won’t loop perfectly due to differing Hypercharge windows in these segments, Wildfire can still be used as a landmark in the rotation for tracking other cooldowns in our kit, mechanics or even just used to help reset our rotation in case mistakes were made with some of the more strict timers.
+
+The image below outlines.
 
 ![](/img/jobs/mch/2022-01-03_16-03-43-500_okamiazure.png)
 
