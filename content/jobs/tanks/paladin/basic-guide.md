@@ -3,11 +3,13 @@ title: Paladin Basics Guide
 card_header_image: /img/jobs/pld/basic.png
 authors:
   - nikroulah
-patch: "5.5"
-lastmod: 2021-10-27T08:23:35.725Z
+patch: "6.05"
+lastmod: 2022-01-10T00:21:36.984Z
 changelog:
   - date: 2021-10-27T17:21:54.665Z
     message: Added
+  - date: 2022-01-10T00:21:39.923Z
+    message: Endwalker update
 ---
 Welcome to the Basics Guide for Paladin! Whether you are a fresh level 90, a returning player, or just need a refresher, this guide will get you started and hit the ground running.
 
