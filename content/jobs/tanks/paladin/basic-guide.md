@@ -202,7 +202,7 @@ For high-end optimization concepts, see the Advanced Guide (Coming Soon!).
 For fight-specific optimizations, see the Encounter Optimization Guide (Coming Soon)!
 
 
-leaving the below here for now while i edit other stuff.
+> //leaving the below here for now while i edit other stuff.
 # Stats and Itemization
 
 Before obtaining best-in-slot gear, pick gear and meld according to stat priority on each piece of gear. Best-in-slot sets can be found [in the Balance Discord](https://discord.com/channels/277897135515762698/580300460179718146/847963997952016394) or [the Best in Slot page on this website](/jobs/tanks/paladin/best-in-slot/).
