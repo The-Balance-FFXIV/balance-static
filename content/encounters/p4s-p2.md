@@ -6,7 +6,7 @@ card_image: /img/encounters/firefox_2022-01-09_17-21-39.jpg
 banner_image: /img/encounters/firefox_2022-01-09_17-21-39.jpg
 tier_name: Asphodelos
 series_name: Pandaemonium Series
-weight: 1
+weight: 0
 tier_weight: 1
 expansion: ew
 authors:
