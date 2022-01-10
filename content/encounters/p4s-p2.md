@@ -22,7 +22,7 @@ changelog:
 ---
 ## Introduction
 
-This guide aims to provide tips and strategies for defeating Hesperos's first form in Asphodelos: The Fourth Circle (Savage).
+This guide aims to provide tips and strategies for defeating Hesperos's second form in Asphodelos: The Fourth Circle (Savage).
 
 The Fourth Circle (Savage) is the fourth raid encounter in the Pandaemonium series, available January 4, 2022 in Patch 6.05. Players must have completed the Quest "Who Wards the Warders?" and talk to Nemjiji in Labyrinthos (X:8.4, Y:27.4). Players must be item level 580 or above to challenge this fight in a non-premade group.
 
@@ -382,6 +382,6 @@ As the fights have just released, there are no strategies set in stone. I would 
 
 ### DPS
 
-* All 2 minute cooldowns should be used on cooldown in order to get full usage, as the enrage is at 8:25. Pot in the opener and at 6 minutes into the fight.
+* All two minute cooldowns should be used on cooldown in order to get full usage, as the enrage is at 8:25. Pot in the opener and at six minutes into the fight.
 * Use Addle and Feint to mitigate raidwides and tank busters.
 * When breaking Thornpricked tethers, make sure you stay out for a second to ensure it breaks. This may cost a melee GCD at times, but is far better than it not breaking and wiping the raid. Use disengage tools to ensure maximum damage.
