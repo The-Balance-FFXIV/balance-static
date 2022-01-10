@@ -203,9 +203,7 @@ For high-end optimization concepts, see the Advanced Guide (Coming Soon!).
 
 For fight-specific optimizations, see the Encounter Optimization Guide (Coming Soon)!
 
-
-> //leaving the below here for now while i edit other stuff.
-# Stats and Itemization
+### Stats and Itemization
 
 Before obtaining best-in-slot gear, pick gear and meld according to stat priority on each piece of gear. Best-in-slot sets can be found [in the Balance Discord](https://discord.com/channels/277897135515762698/580300460179718146/847963997952016394) or [the Best in Slot page on this website](/jobs/tanks/paladin/best-in-slot/).
 
@@ -260,63 +258,3 @@ The Paladin rotation is functional at almost all skill speeds. The only requirem
 Outside of high-end optimization, choice of skill speed has little impact on the Paladin rotation, and can be chosen for comfort (faster speeds are more forgiving and latency-friendly for fitting 11 GCDs into FoF).
 
 In optimization, each encounter must be considered separately to determine how many GCDs are gained or lost by different skill speeds, as well as lining up the GCD with any melee disengages. In general, the slowest speed that doesn't lose any major GCDs within a phase will be the strongest choice.
-- - -
-
-## Dungeons and Leveling
-
-**Keeping Aggro**\
-Turn on Iron Will and never turn it off. As long as you keep hitting the mobs, you will have aggro on them. In multi-target situations, use AoE so that you can keep aggro on all mobs.
-
-**Pulling Mobs**\
-There are a variety of ways to ensure you pull all of the mobs in a pack quickly and reliably, without stopping on your way to the next pack of mobs:
-
-* Run up to the mobs so they see and run to you and hit an AoE combo GCD once they are in range to secure aggro.
-* Tab through the mobs and use Shield Lob while weaving any damaging oGCDs or Provoke.
-
-Try to position the mobs so that they are in a tight clump: this lets you, your dps, and your healers use their AoE damage more effectively. Pull melee enemies onto ranged enemies so that the ranged enemies are also in the clump. Alternatively, drag mobs around a corner so the ranged enemies are forced to run next to you in order to attack.
-
-**Mitigation**\
-Cycle through your mitigation on trash pulls (they hurt more than bosses). Rather than using all your mitigation at once, keeping something up at all times can help your healer keep you alive more easily. More powerful mitigation cooldowns like Rampart, Sentinel, and Arm's Length can be paired with weaker ones like Reprisal or Sheltron.
-
-Hallowed Ground is your most powerful dungeon cooldown and should be used proactively where you expect to be taking the most damage, rather than saving it for emergencies. Aim to get at least 2 uses of Hallowed Ground in a single dungeon.
-
-**Rotation**\
-With Holy Circle unlocked, open trash pulls with Requiescat into Holy Circles + Confiteor, then spam Prominence combo under Fight or Flight and until the next Requiescat. On bosses, follow a normal single target rotation.
-
-*Before Lv. 78:*\
-Weave Requiescat late into the GCD to ensure it catches the end of your 5th Holy Spirit or Holy Circle, due to the cast time.
-
-*Before Atonement is unlocked:*\
-Replace Atonements in the single target loop with a Royal Authority combo.
-
-*Once Goring Blade is unlocked but before Royal Authority is unlocked:*\
-Since the base potency of Goring Blade is higher than that of Rage of Halone, Rage of Halone is not used until Royal Authority is unlocked (one Rage of Halone combo can be optionally used after Fight or Flight to avoid overwriting a buffed DoT with an unbuffed one for a minimal potency gain).
-
-- - -
-
-# Frequently Asked Questions
-
-View more FAQs [on this page](/jobs/tanks/paladin/faq/).
-
-## How do Cover, Divine Veil, and Passage of Arms work?
-
-![](https://xivapi.com/i/002000/002501_hr1.png)\
-Covered damage calculations ignore the target completely, and are instead based on your own stats, shields, buffs, debuffs, and cooldowns as if you were the original target, with the exception of Hallowed Ground; Hallowed Ground has no effect on covered damage, but you are still immune to personal damage received by regular means while Hallowed Ground is active.
-
-Any debuffs or knockbacks that would have been inflicted on the covered target are often applied on you instead (if the attack hits the entire raid, whether you get two debuffs/knockbacks or one overwrites the other is entirely up to the mercy of the devs). Some things go through cover, and there is no hard and fast rule to determine what goes through cover. As a general rule, enrage-type damage will go through Cover.
-
-![](https://xivapi.com/i/002000/002508_hr1.png)\
-Upon using Divine Veil, you get a buff that has no effect unless you receive a GCD heal within the next 30 seconds. All healing spells with an on-hit potency and fairy Embrace will proc Divine Veil, but oGCD healing abilities will not.
-
-Upon receiving a GCD heal, the initial buff on you is removed and all other party members within a 15y radius get a shield equal to 10% of your maximum HP for 30 seconds. This shield stacks with all other shields and will not be removed by additional healing, despite the misleading tooltip.
-
-Divine Veil does not affect the Paladin directly in any way.
-
-![](https://xivapi.com/i/002000/002515_hr1.png)\
-Upon using Passage of Arms, you get a buff that blocks all incoming attacks (similar to Sheltron). This buff ends instantly when you stop channeling the ability. Attacking, moving, or using another ability will interrupt the channel. Most of the time, this part of the ability can be ignored; there is little reason to use Passage instead of Sheltron, and can require tricky timing to cover the desired damage while maintaining GCD uptime.
-
-All other party members in an 8y cone behind you get a buff that reduces their damage taken by 15% for 5 seconds. This buff is applied even if the ability isn't channeled, but its hidden 5 second duration is refreshed whenever the server regen tick occurs while channeling (every three seconds on an independent background timer).
-
-Passage of Arms can be channeled for up to 18 seconds if necessary, granting 20 to 23 seconds of party mitigation, depending on the alignment of the regen tick timer.
-
-Passage of Arms snapshots your position and facing when its effects are applied, regardless of the client animation, which can make it appear to miss the party if you are moving or turning upon use (buffs will be displayed correctly on affected party members).
