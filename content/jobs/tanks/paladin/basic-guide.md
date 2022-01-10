@@ -207,7 +207,7 @@ For fight-specific optimizations, see the Encounter Optimization Guide (Coming S
 
 Before obtaining best-in-slot gear, pick gear and meld according to stat priority on each piece of gear. Best-in-slot sets can be found [in the Balance Discord](https://discord.com/channels/277897135515762698/580300460179718146/847963997952016394) or [the Best in Slot page on this website](/jobs/tanks/paladin/best-in-slot/).
 
-Because of stat tiering, the [Tank Gear Calculator](https://bit.ly/TankDPSCalc520) gets the last word on any specific gearing questions.
+Because of stat tiering, the [Tank Gear Calculator](https://bit.ly/XIV-TANKDPSCALC-EW) gets the last word on any specific gearing questions.
 
 **Highest Priority**
 
@@ -251,9 +251,9 @@ Because of stat tiering, the [Tank Gear Calculator](https://bit.ly/TankDPSCalc52
 
 **Lowest Priority**
 
-## Choosing your skill speed
+#### Choosing your skill speed
 
-The Paladin rotation is functional at almost all skill speeds. The only requirement is a minimum level of skill speed in order to get 11 GCDs in Fight or Flight, which is possible at virtually any recast speed faster than 2.50 (more reasonably, anything less than 2.47). In optimization, common GCD speeds have been anywhere from 2.40-2.43 this tier.
+The Paladin rotation is functional at almost all skill speeds. The only requirement is a minimum level of skill speed in order to get 11 GCDs in Fight or Flight, which is possible at virtually any recast speed faster than 2.50 (more reasonably, anything less than 2.47). Common GCD speeds lie anywhere between 2.40 and 2.45.
 
 Outside of high-end optimization, choice of skill speed has little impact on the Paladin rotation, and can be chosen for comfort (faster speeds are more forgiving and latency-friendly for fitting 11 GCDs into FoF).
 
