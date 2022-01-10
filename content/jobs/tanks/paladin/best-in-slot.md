@@ -6,25 +6,26 @@ lastmod: 2022-01-10T00:16:59.243Z
 changelog:
   - date: 2021-10-28T03:10:04.413Z
     message: Created page
+  - date: 2022-01-10T00:39:07.369Z
+    message: Updated for first Savage tier
 bis:
   - type: etro
-    description: "For level 70 ultimates, simply sync any level 80 gear with
-      critical hit + determination and enough skill speed for personal
-      preference at or above ilvl 418 (UCoB) or ilvl 470 (Ultima). Melds on
-      synced gear are ignored, but built-in stats will be capped if the gear's
-      original item level is high enough.
-
-
-      \r
-
-      \r
-
-      Certain non-synced gear pieces and Augmented Law's Order weapons
-      (515) or Blade's weapons (535) are optimal for 4.X content. Use the level
-      70 sync module in the Tank Gear Manager (https://bit.ly/TankDPSCalc520) to
-      compare gear options precisely."
-    name: 2.40  -  The Unending Coil of Bahamut  (i515 Relic)
-    link: https://etro.gg/gearset/86759839-818e-4c90-8b87-2ad1523a45fa
+    description: ""
+    name: 2.45 GCD — Pumpkin Potage
+    link: https://etro.gg/gearset/38fe3778-f2c1-4300-99e4-b58a0445e969
+  - type: etro
+    description: ""
+    link: https://etro.gg/gearset/8cbbfbed-e2da-4866-8873-ffba3276b682
+    name: 2.44 GCD — Pumpkin Potage
+  - type: etro
+    description: ""
+    name: 2.42 GCD — Pumpkin Potage
+    link: https://etro.gg/gearset/bb893548-09aa-4a75-bb2f-90971bdcab38
+  - type: etro
+    description: Avoid using unless you have significant latency issues that
+      otherwise prevent fitting 11 GCDs in Fight or Flight.
+    name: 2.40 GCD — Pumpkin Potage
+    link: https://etro.gg/gearset/ca8e2ea6-2e6a-4e69-93b0-711a51db0a27
 authors:
   - Balance-PLD-Staff
 ---
