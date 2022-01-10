@@ -7,7 +7,7 @@ banner_image: /img/encounters/p4scrop.png
 tier_image: /img/encounters/ffxiv_12212021_052303_462.jpg
 tier_name: Asphodelos
 series_name: Pandaemonium
-weight: 0
+weight: 1
 tier_weight: 1
 coming_soon: false
 spoilers: false
