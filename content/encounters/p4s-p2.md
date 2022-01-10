@@ -3,7 +3,7 @@ title: "Asphodelos: The Fourth Circle (Savage) Phase Two"
 fight_title: p4s-p2
 encounter_category: savage
 card_image: /img/encounters/p4sp2crop.png
-banner_image: /img/encounters/p4sp2crop.png
+banner_image: /img/encounters/p4sp2crop2.png
 tier_image: /img/encounters/p4sp2crop.png
 tier_name: Asphodelos
 series_name: Pandaemonium Series
