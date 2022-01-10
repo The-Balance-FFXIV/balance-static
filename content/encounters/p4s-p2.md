@@ -14,7 +14,8 @@ authors:
 lastmod: 2022-01-09T19:14:12.671Z
 patch: "6.05"
 ---
-  ## Introduction
+
+## Introduction
 
 This guide aims to provide tips and strategies for defeating Hesperos's first form in Asphodelos: The Fourth Circle (Savage).
 
@@ -57,7 +58,7 @@ Place markers on the arena as such.
 
 ### Akanthai Mechanics
 
-The fight is split into several Akanthai Acts. Each Act is preceded by Hesperos showing what mechanic will be cast with thorns on the arena. He will tether to thorns with **Wreath of Thorns**, showing the order of the mechanics cast. Thorns can represent towers, tethers to players, or large explosions. Players can also be tethered to other players. Tethers are broken based on distance.
+The fight is split into several Akanthai Acts. Each Act is preceded by Hesperos showing what mechanic will be cast with thorns on the arena. He will tether to thorns with **Wreath of Thorns**, showing the order of the mechanics cast. Thorns can represent towers, tethers to players, or large explosions. Tethers to towers will be represented with the Thornpricked debuff. Players can also be tethered to other players. Tethers are broken based on distance.
 
 **Hemitheos's Fire IV**
 
@@ -301,26 +302,56 @@ Demigod Double
 
 ### Akanthai: Curtain Call
 
-*
+* Curtain Call has each party member take a bow twice, with a high HPS and mitigation check.
+* All eight players will receive a Dark IV tether. A random tank/healer and DPS will have the same duration Thornpricked debuff, and they will start at 12 seconds, 22 seconds, 32 seconds, and 42 seconds.
+* Players need to break these in order, heal through the damage, and dodge Hell's Sting. The main tank is taking auto-attacks during this time.
+* The sequence of events will be as follows:
+  * The DPS with the lowest duration debuff will break their tether first. Any player, after breaking their tether, should immediately head back into the middle of the room to receive healing.
+  * After that, the tank or healer with the lowest duration debuff will break their tether.
+  * Dodge Hell's Sting if it's casted - it will be on the first tether breaks and the third tether breaks.
+  * Heal up and the next pair will begin to break, starting with the DPS with the lowest duration debuff (as of that moment).
+  * This will repeat until all players have broken their tethers, which then the boss will cast Ultimate Impulse. If players break tethers too slow, their tether will explode or the raid will still have their Magic Vulnerability Up debuff, wiping the raid. This hit needs to be heavily mitigated.
+  * This entire sequence repeats once more.
+* After the final Ultimate Impulse, the boss will start casting its enrage, a 10 second Ultimate Impulse that wipes the raid at 8:25. Optimize your healing and damage cooldowns to beat the enrage!
 
 ### Ability Order
 
 ```
 Akanthai: Curtain Call
+Hell's Sting
+Hell's Sting
+Ultimate Impulse
+Hell's Sting
+Hell's Sting
+Ultimate Impulse
+Enrage
 ```
 
+Enrage is a hardcasted Ultimate Impulse that occurs after the final Ultimate Impulse starting at 8:15, wiping the raid after a 10 seconds cast at 8:25.
+
 ## Party Finder Strategies
+
+As the fights have just released, there are no strategies set in stone. I would highly recommend the strategies listed in this guide, as they are simple and effective. This guide will be updated with strategies once they are commonplace.
 
 ## Role Specific Tips
 
 ### Tank
 
-*
+* Position the boss back to the centre after he moves for abilities like Kothornos Kick and face north to make player position easier.
+* Use heavy cooldowns for Nearsight and Farsight, and use invulns for Demigod Double as to not waste cooldowns. This may necessitate a swap after Finale, as most invulns will not be up.
+* Use Reprisal on instances of raidwide damage such as Searing Stream and Ultimate Impulse.
+* Most other damage in the fight comes from the environment, so use tank shields and mitigation to help survive those.
 
 ### Healer
 
-*
+* There is a lot of heavy hitting AoE damage in this fight. Healing players in between mechanic sequences relies on their positioning, party mitigation usage, and healing cooldowns.
+* Use heavy mitigation for Act 2, Act 4, and Curtain Call. This includes cooldowns such as Expedient, Kerachole, Neutral Sect, and Temperance. However, the two healers should stagger their cooldowns during Curtain Call to cover the entire Act.
+* Heavily mitigate Ultimate Impulse.
+* Use instant heals when you need to heal the party and also break a Thornpricked tether.
+* During Curtain Call, be ready to spot heal a DPS that was breaking their tether and out of range for heals.
 
 ### DPS
 
-*
+* All 2 minute cooldowns should be used on cooldown in order to get full usage, as the enrage is at 8:25. Pot in the opener and at 6 minutes into the fight.
+* Use Addle and Feint to mitigate raidwides and tank busters.
+* When breaking Thornpricked tethers, make sure you stay out for a second to ensure it breaks. This may cost a melee GCD at times, but is far better than it not breaking and wiping the raid. Use disengage tools to ensure maximum damage.
