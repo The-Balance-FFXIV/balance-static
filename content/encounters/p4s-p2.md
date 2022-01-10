@@ -28,7 +28,7 @@ The Fourth Circle (Savage) is the fourth raid encounter in the Pandaemonium seri
 
 ### Videos
 
-[RDM POV](https://youtu.be/3gpJM9Qa5Yo)
+[Red Mage POV](https://youtu.be/3gpJM9Qa5Yo)
 
 ### Drops
 
