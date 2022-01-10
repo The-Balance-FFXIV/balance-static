@@ -8,7 +8,7 @@ changelog:
   - date: 2022-01-10T00:16:22.776Z
     message: Updated for Endwalker Savage release
 priority: Item Level > Critical Hit > Skill Speed (only to desired GCD, see the
-  Basics Guide page for more information) > Direct Hit > Determination
+  Basic Guide page for more information) > Direct Hit > Determination
 authors:
   - nikroulah
 ---
