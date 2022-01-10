@@ -76,6 +76,13 @@ qna:
 
 
       For multiple-GCD losses (broken combos or long disengagements), the solution is to drop a Goring Blade combo at some point before the next Requiescat, because 3 Atonement/Holy Spirit usages are worth more than a full Goring Blade combo, if 3 GCDs must be sacrificed to prevent buff delays. Alternatively, dropping multiple Atonements with standard Goring Blade timing still works, but is less efficient.
+  - question: What food do I use on Paladin?
+    answer: As of 6.05, the two best options are Pumpkin Potage and Pumpkin
+      Ratatouille.  For best-in-slot gearsets, food is included as part of the
+      set. Otherwise, use the [tank gear
+      manager](https://bit.ly/XIV-TANKDPSCALC-EW) to see what is best for your
+      situation. Nobody knows off the top of their head what is best for every
+      combination of gear.
 authors:
   - nikroulah
 ---
