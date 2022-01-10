@@ -28,6 +28,7 @@ bis:
     link: https://etro.gg/gearset/ca8e2ea6-2e6a-4e69-93b0-711a51db0a27
 authors:
   - Balance-PLD-Staff
+  - nikroulah
 ---
 # Paladin Best in Slot
 
