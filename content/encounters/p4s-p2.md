@@ -14,7 +14,7 @@ authors:
 lastmod: 2022-01-09T19:14:12.671Z
 patch: "6.05"
 ---
-## Introduction
+  ## Introduction
 
 This guide aims to provide tips and strategies for defeating Hesperos's first form in Asphodelos: The Fourth Circle (Savage).
 
@@ -150,6 +150,10 @@ Hesperos jumps to the furthest player, knocking back all other players that are 
 
 Hesperos will shoot three unmarked conal AoEs at the closest three players, dealing light damage and inflicting a Magic Vulnerability Up debuff.
 
+**Fleeting Impulse**
+
+Hesperos turns to each player in order and does an AoE around them, dealing moderate magic damage and inflicting a Magic Vulnerability Up debuff.
+
 **Hell's Sting**
 
 Hesperos will shoot marked conal AoEs. After this ability is cast, he will shoot unmarked conal AoEs into the areas he did not before. Move into the marked conal AoEs to dodge. Getting hit will deal moderate damage and inflict a ~42% damage down debuff.
@@ -246,22 +250,53 @@ Heart Stake
 
 ### Akanthai: Act 4
 
-*
+* After Heart Stake, the fourth Act will begin, which involves breaking tethers in a pre-determined order.
+* [Here is a Toolbox Diagram](https://ff14.toolboxgaming.space/?id=490641854971461&preview=1) showing how to do the mechanic.
+* Start by healing through the first Searing Stream.
+* When Wreath of Thorns is cast, each player needs to look at what mark they have and which thorn they are tethered to, and pre-position towards their destination.
+  * If a player has a water (blue) mark, they need to go directly opposite of the thorn they are tethered to ***and*** one thorn clockwise of that.
+  * If a player has a dark (purple) mark, they need to go one thorn clockwise of the thorn they are tethered to.
+* Wait until the second Searing Stream is cast. Heal up, and go to your designated positions to break the water tethers and soak the towers that explode when they are broken.
+* All players should return to the middle and heal up. Next, all the dark players need to break their tethers, which deals moderate raidwide damage and triggers a large Fire IV AoE from their thorn.
+  * Starting from the north or northeast thorn and going clockwise, each dark player should break their tether by running directly opposite. The party and all other players who are tethered but not breaking should start on the south side of the arena and rotate clockwise along with them so that they avoid the Fire IV AoE.
+  * Mitigate explosions and heal between each explosion.
+* After the last tether is broken, Hesperos will cast Ultimate Impulse. If done in a timely manner, the vulnerability should be wearing off and healers will have time to top the party before then. If too slow, Ultimate Impulse will hit when players have vulnerability debuffs or the final tether will simply explode on its own at the same time.
+* Heal up another Searing Stream and get ready for the Finale.
 
 ### Ability Order
 
 ```
 Akanthai: Act 4
+Searing Stream
+Wreath of Thorns
+Searing Stream
+Ultimate Impulse
+Searing Stream
 ```
 
 ### Akanthai: Finale
 
-*
+* In the Finale, players will each take a tower in order of which they were hit by Fleeting Impulse.
+* [Here is a Toolbox Diagram](https://ff14.toolboxgaming.space/?id=801643107971461&preview=1) explaining how to do the mechanic.
+* When the first Wreath of Thorns is cast, players will be tethered to a thorn at an intercardinal. This will be an Aero III tether, so players need to get near the thorn and spread out for the next mechanic. Tanks and healers will all be tethered to one, and DPS will be tethered to the other.
+  * To spread out, one light party's members should go clockwise and the other should go counterclockwise. Ranged and healers should be at the wall, and melee and tanks can be at max melee range.
+* Hesperos will then hit each player with Fleeting Impulse. Players need to remember the order of which they were hit, as this will be relevant for the Thunder III towers soon after. For example, the first player hit will be 1, and the third player hit will be 3.
+* After all eight players are hit, the Aero III tethers will resolve without any issue. Players should all head back to the centre, heal up, and pay attention to what thorn Hesperos tethers to first.
+* When Wreath of Thorns is cast again, Hesperos will tether to the eight Thunder III thorns sequentially, clockwise, and starting from a cardinal position. Players will need to stand in Thunder III towers in the order they were hit by Fleeting Impulse.
+   * For example, the player hit first by Fleeting Impulse will stand on the first thorn tower tethered. The player hit third by Fleeting Impulse will stand on the third thorn tower tethered, two spots clockwise.
+* Afterwards, heal up the party and tanks, as tanks will have to do Farsight or Nearsight.
+* Mitigate the next Searing Stream. Tanks should swap here if necessary to invuln the next Demigod Double.
 
 ### Ability Order
 
 ```
-
+Akanthai: Finale
+Wreath of Thorns
+Fleeting Impulse
+Wreath of Thorns
+Nearsight OR Farsight
+Searing Stream
+Demigod Double
 ```
 
 ### Akanthai: Curtain Call
@@ -271,7 +306,7 @@ Akanthai: Act 4
 ### Ability Order
 
 ```
-
+Akanthai: Curtain Call
 ```
 
 ## Party Finder Strategies
