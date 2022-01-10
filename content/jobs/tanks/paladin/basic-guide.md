@@ -29,6 +29,14 @@ Since this is a basic introduction to level 90 Paladin, this guide will not go i
 
 The Paladin rotation revolves around its two main buffs: Fight or Flight, which heavily buffs all physical damage, and Requiescat, which buffs spells and enables the use of Confiteor. Defensively, Paladin has strong party mitigation as well as targeted mitigation for your co-tank or party members.
 
+## Core Concepts
+
+There are a few key concepts that are fundamental to the game and carry over between jobs.
+
+* Keeping your GCD on cooldown is one of the most important parts of playing any job. Pressing something wrong is almost always better than pressing nothing at all.
+* As a primarily melee job, it's important to know how to keep melee uptime on the boss. This includes knowing when mechanics snapshot and where you can greed for extra GCDs before and after disengaging for mechanics.
+* Keep oGCDs on cooldown. Damaging oGCDs should be used roughly as they come off cooldown, as long as using them wouldn't delay your next GCD due to animation lock.
+
 ## The Basic Rotation
 
 ### The Opener
@@ -57,7 +65,7 @@ At high latency, if double weaves would cause your GCD to clip, move oGCDs aroun
 
 Following Blade of Valor, the Paladin rotation enters into a loop with three phases, with a short filler phase before repeating the Fight or Flight and Requiescat windows as in the opener.
 
-// TODO picture coming very soon
+![Paladin Rotation Loop](https://xiv.sleepyshiba.com/pld/img/loop.png)
 
 **Text Version:** Loop Start > Fast Blade > Riot Blade > Royal Authority > Atonement > Atonement > Fast Blade + late weave Fight or Flight > Riot Blade > Goring Blade > Fast Blade > Riot Blade > Royal Authority > Atonement > Atonement > Atonement > Fast Blade > Riot Blade > Goring Blade + Requiescat > Holy Spirit > Holy Spirit > Holy Spirit > Holy Spirit > Confiteor > Blade of Faith > Blade of Truth > Blade of Valor
 
@@ -85,7 +93,33 @@ For prolonged two-target encounters (rarely found outside of Ultimate raids), se
 
 ## Notable Utility
 
+![Divine Veil](https://xiv.sleepyshiba.com/pld/assets/skill-divineveil.png)
 
+Divine Veil provides a party-wide shield and heal (excluding yourself) after being procced by any healing GCD with an on-hit healing potency (e.g. Holy Spirit, Astrologian's Helios, Scholar fairy's Embrace, and not White Mage's Regen).
+
+![Passage of Arms](https://xiv.sleepyshiba.com/pld/assets/skill-passageofarms.png)
+
+Passage of Arms applies a buff to all party members behind you, granting them a 15% reduction in damage taken. The buff lingers for 5 seconds after you cancel it, so the most common use-case is flashing it onto the party before high raid-wide damage.
+
+![Intervention](https://xiv.sleepyshiba.com/pld/assets/skill-intervention.png)
+
+Intervention gives your target a buff reducing damage taken, as well as providing a small regen effect. The damage reduction buff can be buffed by having either Rampart or Sentinel active when casting Intervention.
+
+![Reprisal](https://xiv.sleepyshiba.com/pld/assets/skill-reprisal.png)
+
+Reprisal reduces the damage dealt by all enemies around you. Generally use this on raid-wide damage.
+
+![Holy Sheltron](https://xiv.sleepyshiba.com/pld/assets/skill-holysheltron.png)
+![Rampart](https://xiv.sleepyshiba.com/pld/assets/skill-rampart.png)
+![Sentinel](https://xiv.sleepyshiba.com/pld/assets/skill-sentinel.png)
+![Hallowed Ground](https://xiv.sleepyshiba.com/pld/assets/skill-hallowedground.png)
+
+Use your other defensive cooldowns to reduce incoming damage and make life easier for your healers.
+
+![Clemency](https://xiv.sleepyshiba.com/pld/assets/skill-clemency.png)
+![Cover](https://xiv.sleepyshiba.com/pld/assets/skill-cover.png)
+
+These skills are very niche and infrequently used but have their time and place to shine. Clemency is a _significant_ DPS loss but enables soloing dungeon bosses when the healer is dead or saving runs when progging raids and trials. Cover can be used in niche optimization strategies or for saving a party member from otherwise-lethal damage. Covered damage ignores Hallowed Ground.
 
 - - -
 
@@ -161,8 +195,14 @@ FFXIV macros do not queue, so hitting a macro while in animation lock from anoth
 
 - - -
 
+## Further Reading
+
+For high-end optimization concepts, see the Advanced Guide (Coming Soon!).
+
+For fight-specific optimizations, see the Encounter Optimization Guide (Coming Soon)!
 
 
+leaving the below here for now while i edit other stuff.
 # Stats and Itemization
 
 Before obtaining best-in-slot gear, pick gear and meld according to stat priority on each piece of gear. Best-in-slot sets can be found [in the Balance Discord](https://discord.com/channels/277897135515762698/580300460179718146/847963997952016394) or [the Best in Slot page on this website](/jobs/tanks/paladin/best-in-slot/).
