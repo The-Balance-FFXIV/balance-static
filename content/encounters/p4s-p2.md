@@ -2,8 +2,9 @@
 title: "Asphodelos: The Fourth Circle (Savage) Phase Two"
 fight_title: p4s-p2
 encounter_category: savage
-card_image: /img/encounters/firefox_2022-01-09_17-21-39.jpg
-banner_image: /img/encounters/firefox_2022-01-09_17-21-39.jpg
+card_image: /img/encounters/p4sp2crop.png
+banner_image: /img/encounters/p4sp2crop.png
+tier_image: /img/encounters/p4sp2crop.png
 tier_name: Asphodelos
 series_name: Pandaemonium Series
 weight: 0
@@ -13,8 +14,10 @@ authors:
   - lyra
 lastmod: 2022-01-09T19:14:12.671Z
 patch: "6.05"
+changelog:
+  - date: 2022-01-10T09:16:06.704Z
+    message: Created page
 ---
-
 ## Introduction
 
 This guide aims to provide tips and strategies for defeating Hesperos's first form in Asphodelos: The Fourth Circle (Savage).
@@ -22,6 +25,8 @@ This guide aims to provide tips and strategies for defeating Hesperos's first fo
 The Fourth Circle (Savage) is the fourth raid encounter in the Pandaemonium series, available January 4, 2022 in Patch 6.05. Players must have completed the Quest "Who Wards the Warders?" and talk to Nemjiji in Labyrinthos (X:8.4, Y:27.4). Players must be item level 580 or above to challenge this fight in a non-premade group.
 
 ### Videos
+
+[RDM POV](https://youtu.be/3gpJM9Qa5Yo)
 
 ### Drops
 
@@ -86,7 +91,7 @@ One player will be tethered to a thorn with a water (blue) symbol on top. When t
 
 **Hemitheos's Water IV***
 
-This thorn will knockback from the centre of the arena.
+This thorn will knockback from the center of the arena.
 
 ### Akanthai Acts
 
@@ -133,7 +138,7 @@ A catastrophic raidwide AoE that deals magic damage.
 An AoE tank buster on two targets chosen by promixity to the boss.
 
 * **Nearsight** will target the two closest players. The two tanks should be inside the boss's hitbox and all other players should be max melee range or further.
-* **Farsight** will target the two furthest players. The two tanks should be outside the boss's hitbox at max melee range and all other players should be in the centre of the boss's hitbox.
+* **Farsight** will target the two furthest players. The two tanks should be outside the boss's hitbox at max melee range and all other players should be in the center of the boss's hitbox.
 
 **Demigod's Double**
 
@@ -182,6 +187,8 @@ Wreath of Thorns
 Farsight OR Nearsight
 ```
 
+&nbsp;
+
 ### Akanthai: Act 2
 
 * Hesperos will then show Act 2's mechanics.
@@ -217,6 +224,8 @@ Dark Design
 Ultimate Impulse
 ```
 
+&nbsp;
+
 ### Akanthai: Act 3
 
 * After Ultimate Impulse, Hesperos will begin Act 3.
@@ -233,7 +242,7 @@ Ultimate Impulse
   * If you want to have ranged also take the second set of towers, have all four ranged run across the arena directly opposite to a tower.
   * The tank baiting will run across the arena to bait the kick. The other three will gap close across and bait the quake.
 * After this mechanic resolves, players need to do Nearsight or Farsight. Heal up the tanks and mitigate.
-* Move the boss middle and point him north. At this point if the offtank is not second in enmity they will need to provoke the boss.
+* Move the boss middle and point him north. At this point if the off-tank is not second in enmity they will need to provoke the boss.
 * Heart Stake needs to be heavily mitigated and healed through, and targets first and second in aggro.
 
 ### Ability Order
@@ -248,6 +257,8 @@ Kothornos Kick
 Farsight OR Nearsight
 Heart Stake
 ```
+
+&nbsp;
 
 ### Akanthai: Act 4
 
@@ -275,6 +286,8 @@ Ultimate Impulse
 Searing Stream
 ```
 
+&nbsp;
+
 ### Akanthai: Finale
 
 * In the Finale, players will each take a tower in order of which they were hit by Fleeting Impulse.
@@ -282,7 +295,7 @@ Searing Stream
 * When the first Wreath of Thorns is cast, players will be tethered to a thorn at an intercardinal. This will be an Aero III tether, so players need to get near the thorn and spread out for the next mechanic. Tanks and healers will all be tethered to one, and DPS will be tethered to the other.
   * To spread out, one light party's members should go clockwise and the other should go counterclockwise. Ranged and healers should be at the wall, and melee and tanks can be at max melee range.
 * Hesperos will then hit each player with Fleeting Impulse. Players need to remember the order of which they were hit, as this will be relevant for the Thunder III towers soon after. For example, the first player hit will be 1, and the third player hit will be 3.
-* After all eight players are hit, the Aero III tethers will resolve without any issue. Players should all head back to the centre, heal up, and pay attention to what thorn Hesperos tethers to first.
+* After all eight players are hit, the Aero III tethers will resolve without any issue. Players should all head back to the center, heal up, and pay attention to what thorn Hesperos tethers to first.
 * When Wreath of Thorns is cast again, Hesperos will tether to the eight Thunder III thorns sequentially, clockwise, and starting from a cardinal position. Players will need to stand in Thunder III towers in the order they were hit by Fleeting Impulse.
    * For example, the player hit first by Fleeting Impulse will stand on the first thorn tower tethered. The player hit third by Fleeting Impulse will stand on the third thorn tower tethered, two spots clockwise.
 * Afterwards, heal up the party and tanks, as tanks will have to do Farsight or Nearsight.
@@ -300,6 +313,8 @@ Searing Stream
 Demigod Double
 ```
 
+&nbsp;
+
 ### Akanthai: Curtain Call
 
 * Curtain Call has each party member take a bow twice, with a high HPS and mitigation check.
@@ -312,7 +327,7 @@ Demigod Double
   * Heal up and the next pair will begin to break, starting with the DPS with the lowest duration debuff (as of that moment).
   * This will repeat until all players have broken their tethers, which then the boss will cast Ultimate Impulse. If players break tethers too slow, their tether will explode or the raid will still have their Magic Vulnerability Up debuff, wiping the raid. This hit needs to be heavily mitigated.
   * This entire sequence repeats once more.
-* After the final Ultimate Impulse, the boss will start casting its enrage, a 10 second Ultimate Impulse that wipes the raid at 8:25. Optimize your healing and damage cooldowns to beat the enrage!
+* After the final Ultimate Impulse, the boss will start casting its enrage, a ten second Ultimate Impulse that wipes the raid at 8:25. Optimize your healing and damage cooldowns to beat the enrage!
 
 ### Ability Order
 
@@ -327,6 +342,8 @@ Ultimate Impulse
 Enrage
 ```
 
+&nbsp;
+
 Enrage is a hardcasted Ultimate Impulse that occurs after the final Ultimate Impulse starting at 8:15, wiping the raid after a 10 seconds cast at 8:25.
 
 ## Party Finder Strategies
@@ -337,7 +354,7 @@ As the fights have just released, there are no strategies set in stone. I would 
 
 ### Tank
 
-* Position the boss back to the centre after he moves for abilities like Kothornos Kick and face north to make player position easier.
+* Position the boss back to the center after he moves for abilities like Kothornos Kick and face north to make player position easier.
 * Use heavy cooldowns for Nearsight and Farsight, and use invulns for Demigod Double as to not waste cooldowns. This may necessitate a swap after Finale, as most invulns will not be up.
 * Use Reprisal on instances of raidwide damage such as Searing Stream and Ultimate Impulse.
 * Most other damage in the fight comes from the environment, so use tank shields and mitigation to help survive those.
