@@ -50,6 +50,8 @@ Goals for the opener include:
 ![Standard Opener for Paladin](https://xiv.sleepyshiba.com/pld/img/standard-opener.png)
 
 **Text version:** prepull Holy Spirit at -2s > Fast Blade + late weave Fight or Flight > Riot Blade + Tincture > Goring Blade + Circle of Scorn > Fast Blade + Expiacion + Intervene > Riot Blade + Requiescat + Intervene > Royal Authority > Atonement > Atonement > Atonement > Fast Blade > Riot Blade > Goring Blade > Holy Spirit > Holy Spirit > Holy Spirit + Circle of Scorn > Holy Spirit + Expiacion > Confiteor > Blade of Faith > Blade of Truth > Blade of Valor
+\
+Full size: [Standard Opener for Paladin](https://xiv.sleepyshiba.com/pld/img/standard-opener.png)
 
 ![](https://xivapi.com/i/020000/020710_hr1.png)
 
@@ -61,7 +63,7 @@ At high latency, if double weaves would cause your GCD to clip, move oGCDs aroun
 **Opener notes:**  
 
 * We pull with a precast Holy Spirit as a medium-potency GCD that only costs half a GCD (due to precasting). Pulling with Shield Lob would be less potency and starts the GCD rolling later while pulling with Intervene moves an Intervene out of Fight or Flight.
-* Since the Requiescat oGCD itself does damage, and the Requiescat buff lasts for a long time, we use Requiescat early in the opener to put it under raid-buffs like Bard's Battle Voice or Dancer's Technical Finish.
+* Since the Requiescat oGCD itself does damage, and the Requiescat buff lasts for a long time, we use Requiescat early in the opener to put it under raid buffs like Bard's Battle Voice or Dancer's Technical Finish.
 
 ### Rotation Loop
 
@@ -70,6 +72,8 @@ Following Blade of Valor, the Paladin rotation enters into a loop with three pha
 ![Paladin Rotation Loop](https://xiv.sleepyshiba.com/pld/img/loop.png)
 
 **Text Version:** Loop Start > Fast Blade > Riot Blade > Royal Authority > Atonement > Atonement > Fast Blade + late weave Fight or Flight > Riot Blade > Goring Blade > Fast Blade > Riot Blade > Royal Authority > Atonement > Atonement > Atonement > Fast Blade > Riot Blade > Goring Blade + Requiescat > Holy Spirit > Holy Spirit > Holy Spirit > Holy Spirit > Confiteor > Blade of Faith > Blade of Truth > Blade of Valor
+\
+Full size: [Paladin Rotation Loop](https://xiv.sleepyshiba.com/pld/img/loop.png)
 
 During the filler phase, only two out of three Atonements are used because the natural rotation is approximately 64 seconds long. Dropping a GCD minimizes the natural drift on the 60-second cooldown Fight or Flight and Requiescat and is the best option in a vacuum.
 
@@ -101,7 +105,7 @@ Divine Veil provides a party-wide shield and heal (excluding yourself) after bei
 
 ![Passage of Arms](https://xiv.sleepyshiba.com/pld/assets/skill-passageofarms.png)
 
-Passage of Arms applies a buff to all party members behind you, granting them a 15% reduction in damage taken. The buff lingers for 5 seconds after you cancel it, so the most common use-case is flashing it onto the party before high raid-wide damage.
+Passage of Arms applies a buff to all party members behind you, granting them a 15% reduction in damage taken. The buff lingers for five seconds after you cancel it, so the most common use-case is flashing it onto the party before high raid-wide damage.
 
 ![Intervention](https://xiv.sleepyshiba.com/pld/assets/skill-intervention.png)
 
