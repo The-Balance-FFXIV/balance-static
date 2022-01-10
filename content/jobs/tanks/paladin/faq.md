@@ -16,7 +16,7 @@ qna:
       Requiescat and Confiteor at an unknown kill-time.
   - question: What Skill Speed do I need for the rotation?
     answer: There has never been a set skill speed to make the PLD rotation function
-      properly. Any skill speed where you can consistently get 11 GCDs (two
+      properly. Any skill speed where you can consistently get eleven GCDs (two
       Goring Blades) in Fight or Flight with correct late weaving is fine
       (typically 2.47 or faster). Gearing and fight-specific optimizations may
       call for a certain skill speed, but there is no need for exactly 2.42 or
@@ -52,12 +52,12 @@ qna:
       For optimization, line up Circle of Scorn and Expiacion with multi-target opportunities whenever possible, and prioritize keeping uptime with Intervene during movement-heavy mechanics.
   - question: Should I always use all 3 stacks of Sword Oath?
     answer: >-
-      During Fight or Flight windows in full uptime, all 3 Atonements should be
-      used. However, only 2 out of 3 unbuffed Atonements need to be used per
-      standard loop to line up FoF properly. The third unbuffed Sword Oath stack
-      may be dropped without loss in many cases. Dropping an unbuffed Atonement
-      is recommended when unfamiliar with encounter timings, or for an unknown
-      kill time, to minimize long term rotational drift.
+      During Fight or Flight windows in full uptime, all three Atonements should
+      be used. However, only two out of three unbuffed Atonements need to be
+      used per standard loop to line up FoF properly. The third unbuffed Sword
+      Oath stack may be dropped without loss in many cases. Dropping an unbuffed
+      Atonement is recommended when unfamiliar with encounter timings, or for an
+      unknown kill time, to minimize long term rotational drift.
 
 
       (Note that a fourth Atonement should _NOT_ be held for FoF in full uptime at level 90, due to potency and DoT timing changes compared to level 80.)
@@ -75,7 +75,7 @@ qna:
       For unexpected single-GCD losses, the solution is simple: drop an Atonement so FoF and Requiescat don't get delayed. If the loss occurs _during_ the FoF window, dropping an Atonement will also ensure that the next Goring Blade is still buffed by FoF. This Atonement can even be replaced with an instant cast Holy Spirit if Requiescat is active during FoF, as with a standard loop, but this will force the loop to be ~61 seconds long unless the Atonement is still used after FoF.
 
 
-      For multiple-GCD losses (broken combos or long disengagements), the solution is to drop a Goring Blade combo at some point before the next Requiescat, because 3 Atonement/Holy Spirit usages are worth more than a full Goring Blade combo, if 3 GCDs must be sacrificed to prevent buff delays. Alternatively, dropping multiple Atonements with standard Goring Blade timing still works, but is less efficient.
+      For multiple-GCD losses (broken combos or long disengagements), the solution is to drop a Goring Blade combo at some point before the next Requiescat, because three Atonement/Holy Spirit usages are worth more than a full Goring Blade combo, if three GCDs must be sacrificed to prevent buff delays. Alternatively, dropping multiple Atonements with standard Goring Blade timing still works, but is less efficient.
   - question: What food do I use on Paladin?
     answer: As of 6.05, the two best options are Pumpkin Potage and Pumpkin
       Ratatouille.  For best-in-slot gearsets, food is included as part of the
