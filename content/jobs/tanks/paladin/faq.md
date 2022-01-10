@@ -79,10 +79,10 @@ qna:
   - question: What food do I use on Paladin?
     answer: As of 6.05, the two best options are Pumpkin Potage and Pumpkin
       Ratatouille.  For best-in-slot gearsets, food is included as part of the
-      set. Otherwise, use the [tank gear
-      manager](https://bit.ly/XIV-TANKDPSCALC-EW) to see what is best for your
-      situation. Nobody knows off the top of their head what is best for every
-      combination of gear.
+      set. Otherwise, use the [Tank Gear
+      Calculator](https://bit.ly/XIV-TANKDPSCALC-EW) to see what is best for
+      your situation. Nobody knows off the top of their head what is best for
+      every combination of gear.
 authors:
   - nikroulah
 ---
