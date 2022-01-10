@@ -174,6 +174,7 @@ Hesperos will shoot marked conal AoEs. After this ability is cast, he will shoot
 * Players can generally ignore the actual cast of the Akanthai mechanic, and instead base their positioning when the boss casts Wreath of Thorns.
 * For the first Act, players need to dodge two large AoE explosions at north/south or east/west, each soak a tower, and then move into the final safe spot at east/west or north/south. [Here is a Toolbox Diagram](https://ff14.toolboxgaming.space/?id=299547078671461&preview=1) explaining how to do the mechanic.
 * Look at which thorns Wreath of Thorns tethers to first. If Hesperos tethers to north and south, players will be starting east and west. If Hesperos tethers to east and west, players will be starting north and south. Light party 1 should go north, and light party 2 should go south.
+
   * First, dodge the explosions - max melee range is safe.
   * Next, each player needs to go soak their pre-assigned towers. Healers and ranged DPS will be getting the outer four, and tanks and melee DPS will be getting the inner four. Tanks and healers go clockwise, DPS go counterclockwise.
   * Finally, move to the safe spot by rotating further to east/west or north/south.
@@ -196,18 +197,22 @@ Farsight OR Nearsight
 * Hesperos will then show Act 2's mechanics.
 * This is followed by Demigod Double. It is highly recommended to have the MT invuln this.
 * The boss will then tether to two Fire IV thorns and two Thunder III thorns, and the the other two Fire IV thorns and two Thunder III thorns. Players will have to start either north/south or east/west based on which Fire IV thorns were not tethered first, just like Act 1. If Hesperos tethers to north and south, players will be starting east and west. If Hesperos tethers to east and west, players will be starting north and south.
+
   * Look north. There will be two thorns at the edge - if the left thorn is tethered, players are going north and south, and if the right thorn is tethered, players are going east and west.
 * Players will receive tethers as the castbar finishes. Players will move to a specific position based on what tether they have. [Here is a Toolbox Diagram](https://ff14.toolboxgaming.space/?id=110645221771461&preview=1) explaining how to do the mechanic.
+
   * Tanks will always go south or east. The tank with fire will go between the numbered marker and the boss to bait Dark Design, and the tank with dark or nothing will go to the wall counterclockwise of the left thorn to bait Dark Design.
   * Healers will always go north or west. The healer with fire will go between the numbered marker and the boss to bait Dark Design, and the healer with dark or nothing will go to the wall counterclockwise of the left thorn to bait Dark Design.
   * The two DPS with air will go north or west and go between the numbered marker and the boss to bait Dark Design.
   * The two DPS with fire will go south or east and go between the numbered marker and the boss to bait Dark Design.
 * The boss will then cast Dark Design, AoEs under each player. Bait these where specified, and immediately after move to the correct position.
+
   * The healer with dark or nothing will go to the tower at the wall on the lettered number, but ensure you are not hit by the Fire IV.
   * The tank with dark or nothing will go to the tower at the wall on the lettered number, but ensure you are not hit by the Fire IV.
   * The tank with fire and two DPS with fire will go to the numbered marker at their spot.
   * The DPS with air and the healer with fire will also go to the numbered marker at their spot.
 * After Fire IV blows up and players take damage, return to the middle for heals and once healed head immediately towards your final positions.
+
   * The healer with dark or nothing rotates clockwise and soaks the tower at that location.
   * The tank with dark or nothing rotates clockwise and soaks the tower at that location.
   * The healer with fire rotates counterclockwise and heads to the numbered marker at that location.
@@ -238,6 +243,7 @@ Ultimate Impulse
 * At the same time, the ranged DPS and healers need to soak towers at the edge of the arena. Soak them from north to south in the order assigned.
 * All players need to press their knockback immunity when they soak towers or take a Kothornos Quake.
 * From here, the strategy diverges based on whether your group wants to have ranged or melee soak second towers.
+
   * If melee are soaking second towers, simply have the four melee stay on that side and soak their towers from north to south in the order specified.
   * One healer should bait Kothornos Kick while the other three players move towards the other side to ensure they are not hit.
   * Finally, the healer baiting moves through to the middle and the other three players bait Kothornos Quake inside the boss's hitbox.
@@ -255,7 +261,7 @@ Wreath of Thorns
 Kothornos Kick
 Kothornos Quake
 Kothornos Kick
-Kothornos Kick
+Kothornos Quake
 Farsight OR Nearsight
 Heart Stake
 ```
@@ -268,10 +274,12 @@ Heart Stake
 * [Here is a Toolbox Diagram](https://ff14.toolboxgaming.space/?id=490641854971461&preview=1) showing how to do the mechanic.
 * Start by healing through the first Searing Stream.
 * When Wreath of Thorns is cast, each player needs to look at what mark they have and which thorn they are tethered to, and pre-position towards their destination.
+
   * If a player has a water (blue) mark, they need to go directly opposite of the thorn they are tethered to ***and*** one thorn clockwise of that.
   * If a player has a dark (purple) mark, they need to go one thorn clockwise of the thorn they are tethered to.
 * Wait until the second Searing Stream is cast. Heal up, and go to your designated positions to break the water tethers and soak the towers that explode when they are broken.
 * All players should return to the middle and heal up. Next, all the dark players need to break their tethers, which deals moderate raidwide damage and triggers a large Fire IV AoE from their thorn.
+
   * Starting from the north or northeast thorn and going clockwise, each dark player should break their tether by running directly opposite. The party and all other players who are tethered but not breaking should start on the south side of the arena and rotate clockwise along with them so that they avoid the Fire IV AoE.
   * Mitigate explosions and heal between each explosion.
 * After the last tether is broken, Hesperos will cast Ultimate Impulse. If done in a timely manner, the vulnerability should be wearing off and healers will have time to top the party before then. If too slow, Ultimate Impulse will hit when players have vulnerability debuffs or the final tether will simply explode on its own at the same time.
@@ -295,11 +303,13 @@ Searing Stream
 * In the Finale, players will each take a tower in order of which they were hit by Fleeting Impulse.
 * [Here is a Toolbox Diagram](https://ff14.toolboxgaming.space/?id=801643107971461&preview=1) explaining how to do the mechanic.
 * When the first Wreath of Thorns is cast, players will be tethered to a thorn at an intercardinal. This will be an Aero III tether, so players need to get near the thorn and spread out for the next mechanic. Tanks and healers will all be tethered to one, and DPS will be tethered to the other.
+
   * To spread out, one light party's members should go clockwise and the other should go counterclockwise. Ranged and healers should be at the wall, and melee and tanks can be at max melee range.
 * Hesperos will then hit each player with Fleeting Impulse. Players need to remember the order of which they were hit, as this will be relevant for the Thunder III towers soon after. For example, the first player hit will be 1, and the third player hit will be 3.
 * After all eight players are hit, the Aero III tethers will resolve without any issue. Players should all head back to the center, heal up, and pay attention to what thorn Hesperos tethers to first.
 * When Wreath of Thorns is cast again, Hesperos will tether to the eight Thunder III thorns sequentially, clockwise, and starting from a cardinal position. Players will need to stand in Thunder III towers in the order they were hit by Fleeting Impulse.
-   * For example, the player hit first by Fleeting Impulse will stand on the first thorn tower tethered. The player hit third by Fleeting Impulse will stand on the third thorn tower tethered, two spots clockwise.
+
+  * For example, the player hit first by Fleeting Impulse will stand on the first thorn tower tethered. The player hit third by Fleeting Impulse will stand on the third thorn tower tethered, two spots clockwise.
 * Afterwards, heal up the party and tanks, as tanks will have to do Farsight or Nearsight.
 * Mitigate the next Searing Stream. Tanks should swap here if necessary to invuln the next Demigod Double.
 
@@ -323,6 +333,7 @@ Demigod Double
 * All eight players will receive a Dark IV tether. A random tank/healer and DPS will have the same duration Thornpricked debuff, and they will start at 12 seconds, 22 seconds, 32 seconds, and 42 seconds.
 * Players need to break these in order, heal through the damage, and dodge Hell's Sting. The main tank is taking auto-attacks during this time.
 * The sequence of events will be as follows:
+
   * The DPS with the lowest duration debuff will break their tether first. Any player, after breaking their tether, should immediately head back into the middle of the room to receive healing.
   * After that, the tank or healer with the lowest duration debuff will break their tether.
   * Dodge Hell's Sting if it's casted - it will be on the first tether breaks and the third tether breaks.
