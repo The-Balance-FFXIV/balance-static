@@ -20,7 +20,7 @@ Since this is a basic introduction to level 90 Paladin, this guide will not go i
 * [Openers](/jobs/tanks/paladin/openers)
 * Advanced Guide (Coming Soon!)
 * Fight Tips (Coming Soon!)
-* [Stats and Materia](/jobs/tanks/paladin/stats-and-materia)
+* Stats and Materia (see [main page](/jobs/tanks/paladin))
 * [Gearing](/jobs/tanks/paladin/best-in-slot)
 * Skill Overview (Coming Soon!)
 * [Frequently Asked Questions](/jobs/tanks/paladin/faq)
@@ -170,7 +170,6 @@ Co-tank macros assume your co-tank is in party slot two (default party sorting)
 /ac Cover <mo>
 /micon Cover  
 ```
-<br>
 
 **Shirk on Co-Tank**
 ```  
@@ -203,9 +202,9 @@ FFXIV macros do not queue, so hitting a macro while in animation lock from anoth
 
 ## Further Reading
 
-For high-end optimization concepts, see the Advanced Guide (Coming Soon!).
+For high-end optimization concepts, see the Advanced Guide (Coming Soon!)
 
-For fight-specific optimizations, see the Encounter Optimization Guide (Coming Soon)!
+For fight-specific optimizations, see the Encounter Optimization Guide (Coming Soon!)
 
 ### Stats and Itemization
 
