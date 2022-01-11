@@ -2,12 +2,14 @@
 title: Paladin Best in Slot (BiS)
 layout: bis
 patch: "6.05"
-lastmod: 2022-01-10T00:16:59.243Z
+lastmod: 2022-01-11T03:30:17.670Z
 changelog:
   - date: 2021-10-28T03:10:04.413Z
     message: Created page
   - date: 2022-01-10T00:39:07.369Z
     message: Updated for first Savage tier
+  - date: 2022-01-11T03:30:20.411Z
+    message: Updated note for 2.40 set to be more clear
 bis:
   - type: etro
     description: ""
@@ -22,7 +24,7 @@ bis:
     name: 2.42 GCD — Pumpkin Potage
     link: https://etro.gg/gearset/bb893548-09aa-4a75-bb2f-90971bdcab38
   - type: etro
-    description: Avoid using unless you have significant latency issues that
+    description: Avoid using 2.40 unless you have significant latency issues that
       otherwise prevent fitting 11 GCDs in Fight or Flight.
     name: 2.40 GCD — Pumpkin Potage
     link: https://etro.gg/gearset/ca8e2ea6-2e6a-4e69-93b0-711a51db0a27
