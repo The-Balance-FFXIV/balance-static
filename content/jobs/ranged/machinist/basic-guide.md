@@ -15,13 +15,31 @@ changelog:
   - date: 2022-01-09T08:26:28.226Z
     message: Updated.
 ---
+# Basic Machinist Guide
+
+Welcome to the Basic Machinist Guide! Within this document, you'll find all the information you'll need to play the job well. The links below can be used as teleports to other pages if you need the information while learning the job. Any questions can be directed to the Machinist channels in our Discord.
+
+
+
+[Openers ](https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/)
+
+Advanced Guide (WIP)
+
+[Meld Priority](https://www.thebalanceffxiv.com/jobs/ranged/machinist/) (Listed on the landing page.)
+
+[Gearing](https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/)
+
+[Skills Overview](https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/)
+
+[Frequently Asked Questions](https://www.thebalanceffxiv.com/jobs/ranged/machinist/faq/)
+
 # Job Overview
 
 Machinist is a fast-paced physical ranged job that excels at quick burst damage and has the added benefit of free movement. While the base rotation for this job is somewhat strict, Machinist excels in dumping burst into raid buffs with flexible use of its gauge system. This guide’s aim is to break down the job’s rotation into something easy to digest while providing good practices to follow for overall gameplay.
 
 If you’re new to the job and would just like a basic overview of Machinist during the leveling process, [click here](/jobs/ranged/machinist/leveling-guide/).
 
-## Job Gauge 
+## Machinist Heat & Battery Gauge 
 
 Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge which costs 50 Heat. The Battery Gauge (bottom) is used to summon your Automaton Queen to fight alongside you for a specified amount of time based on the amount of Battery you had at the time of summoning. You must accrue at least 50 Heat or Battery to use their respective abilities, and neither should be allowed to overcap if possible.
 
@@ -40,8 +58,6 @@ The most basic description of the level 90 rotation can be broken down by follow
 * Using your flexible burst inside of raid buffs as much as possible.
 
 The base rotation for Machinist revolves around two minute windows starting and ending with Wildfire application. Wildfire and Barrel Stabilizer are outliers in our kit as the cooldown does not scale with skill speed. While Heat and Battery won’t loop perfectly due to differing Hypercharge windows in these segments, Wildfire can still be used as a landmark in the rotation for tracking other cooldowns in our kit, mechanics or even just used to help reset our rotation in case mistakes were made with some of the more strict timers.
-
-
 
 ![](/img/jobs/mch/2022-01-03_16-03-43-500_okamiazure.png)
 
@@ -151,7 +167,6 @@ You may have noticed parts of the Machinist rotation feeling somewhat unresponsi
 * If possible, ensure you are using a wired connection. WiFi can be spotty and result in packet loss.
 * If playing on an older computer, lower graphics settings and turn off particle effects to increase your framerate. This only matters when your frame rate is so low that it is visibly affecting your gameplay.
 * Utilize a gaming VPN. Occasionally, ISPs will route your connection inefficiently, and a VPN can correct the issue by lowering packet loss and ping, creating a more stable connection to the server. Listed below are VPN options.
-
 * * Mudfish
   * ExitLag
   * WTFast
