@@ -65,7 +65,7 @@ Place markers on the arena as such.
 
 ### Akanthai Mechanics
 
-The fight is split into several Akanthai Acts. Each Act is preceded by Hesperos showing what mechanic will be cast with thorns on the arena. He will tether to thorns with **Wreath of Thorns**, showing the order of the mechanics cast. Thorns can represent towers, tethers to players, or large explosions. Tethers to towers will be represented with the Thornpricked debuff. Players can also be tethered to other players. Tethers are broken based on distance.
+The fight is split into several Akanthai Acts. Each Act is preceded by Hesperos showing mechanics that will be cast with thorns on the arena. He will tether to thorns with **Wreath of Thorns**, showing the order of the mechanics cast. Thorns can represent towers, tethers to players, or large explosions. Tethers to towers will be represented with the Thornpricked debuff. Players can also be tethered to other players. All tethers are broken by distance.
 
 **Hemitheos's Fire IV**
 
@@ -83,9 +83,9 @@ Two players will be tethered together with a fire (red) symbol on top. When this
 
 Two players with be tethered together with a air (teal) symbol on top. When this tether is broken, both players will instantly die. If allowed to time out, both players will dodge this instant kill.
 
-**Hemitheos's Dark IV***
+**Hemitheos's Dark IV**
 
-One player will be tethered to a thorn with a dark (purple) symbol on top. When this tether is broken, all players will take heavy magic damage and be inflicted with a Magic Vulnerability Up debuff. In addition, this will trigger the tethered thorn's **Hemitheos's Thunder III** if applicable.
+One player will be tethered to a thorn with a dark (purple) symbol on top. When this tether is broken, all players will take heavy magic damage and be inflicted with a Magic Vulnerability Up debuff. In addition, this will trigger the tethered thorn's **Hemitheos's Fire IV** if applicable.
 
 **Hemitheos's Water III**
 
