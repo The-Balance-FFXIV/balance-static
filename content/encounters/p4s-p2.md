@@ -1,4 +1,10 @@
 ---
+menu:
+  main:
+    identifier: p4s-p2
+    name: "Asphodelos: The Fourth Circle (Savage) Phase Two"
+    weight: 5
+    parent: encounters
 title: "Asphodelos: The Fourth Circle (Savage) Phase Two"
 fight_title: p4s-p2
 encounter_category: savage

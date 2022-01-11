@@ -1,4 +1,10 @@
 ---
+menu:
+  main:
+    identifier: p1s
+    name: "Asphodelos: The First Circle (Savage)"
+    parent: encounters
+    weight: 1
 title: "Asphodelos: The First Circle (Savage)"
 fight_title: p1s
 encounter_category: savage

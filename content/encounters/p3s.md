@@ -1,4 +1,10 @@
 ---
+menu:
+  main:
+    identifier: p3s
+    name: "Asphodelos: The Third Circle (Savage)"
+    weight: 3
+    parent: encounters
 title: "Asphodelos: The Third Circle (Savage)"
 fight_title: p3s
 encounter_category: savage
