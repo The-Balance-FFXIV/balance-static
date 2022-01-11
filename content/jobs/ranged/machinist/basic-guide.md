@@ -25,13 +25,13 @@ Welcome to the Basic Machinist Guide! Within this document, you'll find all the 
 
 Advanced Guide (WIP)
 
-[Meld Priority](https://www.thebalanceffxiv.com/jobs/ranged/machinist/) (Listed on the landing page)
+[Meld Priority](https://www.thebalanceffxiv.com/jobs/ranged/machinist/) (Listed on the landing page.)
 
 [Gearing](https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/)
 
 [Skills Overview](https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/)
 
-###### [Frequently Asked Questions](https://www.thebalanceffxiv.com/jobs/ranged/machinist/faq/)
+[Frequently Asked Questions](https://www.thebalanceffxiv.com/jobs/ranged/machinist/faq/)
 
 # Job Overview
 
