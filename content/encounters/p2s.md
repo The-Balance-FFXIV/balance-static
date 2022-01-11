@@ -1,4 +1,10 @@
 ---
+menu:
+  main:
+    identifier: p2s
+    name: "Asphodelos: The Second Circle (Savage)"
+    weight: 2
+    parent: encounters
 title: "Asphodelos: The Second Circle (Savage)"
 fight_title: p2s
 encounter_category: savage
