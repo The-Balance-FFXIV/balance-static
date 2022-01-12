@@ -69,6 +69,8 @@ Six of these tokens can be traded in for head, hand, or foot gear at a Pandaemon
 
 ## Major Mechanics
 
+The Hippokampos has a hard enrage of 10:28 into the encounter and requires roughly 41.9k raid DPS to defeat before then.
+
 ### Pre-pull Preparation
 
 Assign the raid into two light party stacks with one tank, one healer, and two DPS each. Place the markers as such, indicating the raised platforms and the drained passages.
@@ -228,7 +230,7 @@ Sewage Deluge
 * After this, the second set of players needs to do their Mark of the Tides. All other players stand on the corner of the platform. Heal up and stay on the platform opposite of the overflowing platform.
 * There is another Dissociation and Sewage Eruption pattern. Players should stay on their current platform and wait for the AoEs to appear, then move as a group to or on the safe side.
 * Return to the platform opposite of the overflowing platform. Do Shockwave and Ominous Bubbling the same as before. Afterwards, there is a dual tank buster, so move away from the tanks.
-* Do damage and heal up before the enrage at 10:26.
+* Do damage and heal up before the enrage at 10:28.
 
 ### Ability Order
 
