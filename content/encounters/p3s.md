@@ -1,10 +1,4 @@
 ---
-menu:
-  main:
-    identifier: p3s
-    name: "Asphodelos: The Third Circle (Savage)"
-    weight: 3
-    parent: encounters
 title: "Asphodelos: The Third Circle (Savage)"
 fight_title: p3s
 encounter_category: savage
@@ -27,6 +21,12 @@ changelog:
     message: Added tank invuln (myta (noob)) strat for Storms of Asphodelos. Added
       different ordered baits for Fountain of Fire. Fixed Experimental
       Gloryplume to mention the order.
+menu:
+  main:
+    identifier: p3s
+    name: "Asphodelos: The Third Circle (Savage)"
+    weight: 3
+    parent: encounters
 ---
 
 ## Introduction
@@ -66,6 +66,8 @@ Both of:
 Eight of these tokens can be traded in for leg gear at a Pandaemonium gear vendor. Four of these tokens can be traded in for a Radiant Twine or a Radiant Roborant.
 
 ## Major Mechanics
+
+The Phoinix has a hard enrage of roughly 11:03, depending on how fast the add phase is completed, and requires roughly 42.2k raid DPS to defeat before then.
 
 ### Pre-pull Preparation
 
