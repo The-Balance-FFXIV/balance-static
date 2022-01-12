@@ -1,10 +1,4 @@
 ---
-menu:
-  main:
-    identifier: p4s-p1
-    name: "Asphodelos: The Fourth Circle (Savage) Phase One"
-    weight: 4
-    parent: encounters
 title: "Asphodelos: The Fourth Circle (Savage) Phase One"
 fight_title: p4s-p1
 encounter_category: savage
@@ -25,6 +19,12 @@ patch: "6.05"
 changelog:
   - date: 2022-01-08T21:42:47.136Z
     message: Created page.
+menu:
+  main:
+    identifier: p4s-p1
+    name: "Asphodelos: The Fourth Circle (Savage) Phase One"
+    weight: 4
+    parent: encounters
 ---
 ## Introduction
 
@@ -41,6 +41,8 @@ The Fourth Circle (Savage) is the fourth raid encounter in the Pandaemonium seri
 As this is a door boss, there is no loot acquired from this phase.
 
 ## Major Mechanics
+
+Hesperos's first form has a hard enrage of 7:12 into the encounter and requires roughly 48.2k raid DPS to defeat before then, the highest of the tier.
 
 ### Pre-pull Preparation
 
