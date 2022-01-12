@@ -71,7 +71,7 @@ The Phoinix has a hard enrage of roughly 11:03, depending on how fast the add ph
 
 ### Pre-pull Preparation
 
-Assign all players a partner of the opposite role and range - two tanks with two ranged DPS, and two healers with two melee DPS. Assign each of these groups a numbered marker from one to four. Split these groups into two light parties of one tank, one healer, and two DPS each for the adds phase and Fountain of Fire - a north/east light party and a south/west light party.
+Assign all players a partner of the opposite role and range - two tanks with two ranged DPS, and two healers with two melee DPS. Assign each of these groups a numbered marker from one to four. Split these groups into two light parties of one tank, one healer, and two DPS each for the adds phase and Fountain of Fire - a north/east light party and a south/west light party. For Firestorms of Asphodelos, these partners will be with the same role - tanks with ranged, and healers with melee.
 
 Place markers on the arena as such.
 
@@ -268,7 +268,7 @@ Dead Rebirth
 * All players converge in the center. Both healers should still have a few seconds left of the massive healing buff. Use this healing buff to heal everyone up for double Scorched Exaltation. The shield healer is able to generate massive shields, and this should require zero mitigation, as it needs to be saved for the next mechanic sequence.
 
 * Firestorms of Asphodelos is the major mechanic in this phase, and is a dance sequence from beginning to end. [Here is a Toolbox Diagram](https://ff14.toolboxgaming.space/?id=635443782051461&preview=1) showing how the entire phase is done.
-* Mitigate the initial hit and fan out into tank/melee and healer/ranged groups. Melee should be at the A marker, and ranged should be at the C marker.
+* Mitigate the initial hit and fan out into light party groups separating the tanks and healers. For Firestorms of Asphodelos, melee should be with healers and ranged should be with tanks to ensure maximum uptime.
 * Dodge the conal AoE, then either stack with your group if Experimental Ashplume was stack, or spread if it was spread.
 * Get back into the middle to heal up, then dodge another set of Flames of Asphodelos. Pre-position for Storms of Asphodelos.
   * Tanks need to take both tethers and go directly in front of the boss as normal. This will be south of the boss, and it is facing south. The tanks should be outside of the boss's hitbox at max melee range.
@@ -278,7 +278,7 @@ Dead Rebirth
   * Alternatively, both tanks are able to pick up the tethers, stack together directly in front of the boss, and invuln together. This will bait the southwest and southeast conals, two boss conals, and take care of the tethers. The rest of the party should stand northeast max melee range, with one ranged baiting the north tornado's conal.
 * Afterwards, converge in the middle for heals again.
 * The entire party needs to stack in front of the dark tethered tornado once it is confirmed via Darkblaze Twister. This is to bait the Searing Breeze AoEs. Players should move clockwise, baiting the AoEs in a circle. There will be four AoEs, and after the fourth AoE all players should be back in front of the dark tethered tornado.
-* Players should then separate into their melee and ranged light parties, as Experimental Ashplume is cast. Check what pattern it is. The melee group will stand left of the tornado facing it, and the ranged group will stand right of the tornado facing it. There is a mark on the arena showing exactly where to stand.
+* Players should then separate into their light parties separating tanks and healers, as Experimental Ashplume is cast. Check what pattern it is. The tank and ranged DPS group will stand left of the tornado facing it, and the healer and melee DPS group will stand right of the tornado facing it. There is a mark on the arena showing exactly where to stand.
 * After getting knocked back near the tornado, spread or stack for Ashplume.
 * Heal up for Scorched Exaltation. The tornadoes will disappear after it is cast.
 
