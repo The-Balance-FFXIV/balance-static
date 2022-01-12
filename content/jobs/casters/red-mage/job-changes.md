@@ -7,5 +7,6 @@ changes:
     description: "[Click here to view the most recent changes on the Official
       Site!](https://na.finalfantasyxiv.com/jobguide/redmage/)"
 authors:
+  - Laille-Ormesaing
   - Balance-RDM-Staff
 ---
