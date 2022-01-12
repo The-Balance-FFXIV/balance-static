@@ -21,6 +21,9 @@ changelog:
     message: Added tank invuln (myta (noob)) strat for Storms of Asphodelos. Added
       different ordered baits for Fountain of Fire. Fixed Experimental
       Gloryplume to mention the order.
+  - date: 2022-01-12T19:31:47.976Z
+    message: Updated to change Firestorms of Asphodelos's light party stacks for
+      uptime purposes.
 menu:
   main:
     identifier: p3s
