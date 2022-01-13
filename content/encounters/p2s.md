@@ -249,7 +249,7 @@ Sewage Deluge
 
 &nbsp;
 
-Enrage is a hardcasted Sewage Deluge that occurs at 10:16 into the fight, wiping the raid at 10:26.
+Enrage is a hardcasted Sewage Deluge that occurs at 10:18 into the fight, wiping the raid at 10:28.
 
 ## Party Finder Strategies
 
