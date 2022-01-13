@@ -1,10 +1,4 @@
 ---
-menu:
-  main:
-    identifier: p4s-p2
-    name: "Asphodelos: The Fourth Circle (Savage) Phase Two"
-    weight: 5
-    parent: encounters
 title: "Asphodelos: The Fourth Circle (Savage) Phase Two"
 fight_title: p4s-p2
 encounter_category: savage
@@ -25,6 +19,12 @@ patch: "6.05"
 changelog:
   - date: 2022-01-10T09:16:06.704Z
     message: Created page
+menu:
+  main:
+    identifier: p4s-p2
+    name: "Asphodelos: The Fourth Circle (Savage) Phase Two"
+    weight: 5
+    parent: encounters
 ---
 ## Introduction
 
@@ -60,6 +60,8 @@ One of:
 Eight of these tokens can be traded in for chest gear or a weapon at a Pandaemonium gear vendor.
 
 ## Major Mechanics
+
+Hesperos's second form has a hard enrage of 8:25 into the encounter and requires roughly 47.9k raid DPS to defeat before then.
 
 ### Pre-pull Preparation
 
