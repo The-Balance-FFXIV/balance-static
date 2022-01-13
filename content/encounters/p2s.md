@@ -85,7 +85,7 @@ A moderate raidwide AoE that deals magic damage.
 
 **Doubled Impact**
 
-A physical tank buster on the current main tank that needs to be shared by both tanks or invulned.
+A magical tank buster on the current main tank that needs to be shared by both tanks or invulned.
 
 **Sewage Deluge**
 
