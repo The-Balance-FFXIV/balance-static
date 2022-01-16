@@ -10,6 +10,8 @@ changelog:
     message: Added
   - date: 2022-01-04T20:36:20.903Z
     message: Removed Dancer Dilemna section, due to no longer being required.
+  - date: 2022-01-16T20:20:01.175Z
+    message: Updated some headers and wording in a few sections.
 ---
 ## Reaper Advanced Rotational Theory
 
