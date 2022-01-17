@@ -7,7 +7,7 @@ changelog:
     message: Created page
   - date: 2022-01-14T14:30:32.355Z
     message: Updated for Endwalker
-priority: Item Level > Critical Hit > Determination = Direct Hit> Skill Speed
+priority: Item Level > Critical Hit > Determination = Direct Hit > Skill Speed
 authors:
   - Balance-DRG-Staff
 ---
