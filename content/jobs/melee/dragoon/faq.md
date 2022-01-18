@@ -1,39 +1,39 @@
 ---
 title: Dragoon FAQ
 layout: qna
-patch: "5.58"
-lastmod: 2021-10-29T02:56:43.800Z
+patch: "6.05"
+lastmod: 2022-01-14T12:53:01.436Z
 changelog:
   - date: 2021-10-29T02:57:06.403Z
     message: Created page
+  - date: 2022-01-14T12:52:20.784Z
+    message: Updated for Endwalker.
 qna:
-  - question: How does Raiden Thrust work?
-    answer: >-
-      Raiden Thrust is an upgraded True Thrust. It combos into both Disembowel
-      and Vorpal Thrust and replaces True Thrust on your bar when it’s ready.
-      You activate it by successfully landing the positional on the fifth hit of
-      your combo (Fang and Claw or Wheeling Thrust following Wheeling Thrust or
-      Fang and Claw, respectively). If you fail, you get to press True Thrust
-      and hear a laugh track play in the background.
-
-
-      The bot command `!faq drgpositionals` will show you how to set up triggers to track when you land or miss your positionals, if that interests you at all. It can be helpful in testing to make sure you’re landing them or just tracking them during an encounter.
+  - question: How do Raiden Thrust and Draconian Fury work?
+    answer: Raiden Thrust is an upgraded True Thrust and Draconian Fury is an
+      upgraded Doom Spike. Both start their respective combos just like the base
+      skill and they replace the buttons on your hotbars temporarily when ready.
+      You gain the effect *Draconian Fire* upon completing a full combo with
+      Fang and Claw, Wheeling Thrust or Coerthan Torment, enabling the use of
+      either Raiden Thrust or Draconian Fury. It is *not* required anymore to
+      hit a positional to proc Raiden Thrust. At level 90 using Raiden Thrust or
+      Draconian Fury grants you a stack of *Firstminds' Focus*. You can use
+      Wyrmwind Thrust with two stacks.
   - question: Should I modify my buff Lance Charge - Dragon Sight - Battle Litany
       timings to accommodate my needy raid members?
     answer: >-
       Short answer is no. You should -- in general -- always be pressing all
       three of your buff actions (and every other damage-dealing action) as
-      close to on cooldown as possible. Within the opener, you can shuffle the
-      order of the buffs a little, so long as everything is active before the
-      first Chaos Thrust lands.
+      close to on cooldown as possible. The Opener aims for optimal buff
+      placement for the party without messing our own rotation up.
 
 
-      The **only** exception to this rule is a situation where you are running with a **static, consistent team** and have a specific kill time in mind. In this sort of coordinated environment (**and only in this case**) it can be prudent to shift your buff times to line up with allies for net gains to raid dps. This is a very niche case and most of the time should not be taken into consideration.
+      The **only** exception to this rule is a situation where you are running with a **static, consistent team** and have a specific kill time in mind. In this sort of coordinated environment (**and only in this case**) it can be prudent to shift your buff times to line up with allies for net gains to raid DPS. This is a very niche case and most of the time should not be taken into consideration.
   - question: Who should I tether with Dragon Sight?
     answer: >-
       In a pug group, prioritize whoever will actually be close to you when it’s
       Dragon Sight time. Delaying GCDs hunting down your Bard because they asked
-      for tether, but live in Narnia will cause more issues than it solves. If
+      for tether but live in Narnia will cause more issues than it solves. If
       someone specifically asks for it, just tell them they need to be close to
       you when it’s time.
 
@@ -49,47 +49,25 @@ qna:
       up.
 
 
-      However, if you know your target kill time and are certain that the delays will **not** cost a use on the fight, then it is perfectly acceptable to do so. Just be aware that delaying is **never** worth it if you end up with 1 fewer cast on the encounter because of it, *especially* in the case of High Jump and Mirage Dive.
-  - question: Should I delay my first Life of the Dragon? How?
+      Spineshatter Dive is an exception now with its two charges. You can freely hold the action as long as you don't cap out both charges. 
+
+
+      However, if you know your target kill time and are certain that the delays will **not** cost a use on the fight, then it is perfectly acceptable to do so. Just be aware that delaying is **never** worth it if you end up with one fewer cast on the encounter because of it, *especially* in the case of High Jump and Mirage Dive.
+  - question: Do we still delay Life of the Dragon?
     answer: >-
-      After the opener, you are technically able to enter Life 30 seconds later.
-      If you do so, you'll land three Nastrond and Stardiver with no buffs on
-      them. This is done by pressing your second Mirage Dive before your second
-      Geirskogul. If, however, you hold the Mirage Dive until after the
-      Geirskogul, you'll essentially skip that Life cycle and delay it another
-      30 seconds. Doing this is considered "delaying" your Life cycle.
+      With a 60s recast on Lance Charge we will ideally delay every life window.
+      The arrangement of Geirskogul and High Jump in the Opener remains this way
+      forever, with every odd landing immediately after Lance Charge Lance
+      Charge, Dragon Sight and Battle Litany and entering Life. As such, we no
+      longer need to think about early/late life and double life windows are a
+      thing of the past. 
 
 
-      **Do note that you never delay a Life cycle by delaying your cast of Geirskogul - you should *always* be pressing it when it's ready, outside of very specific, encounter-related reasons.**
-
-
-      In general, **yes**, you want to delay the first cycle. Doing so pushes it back to around 60 seconds after the opener, which also puts it around 20 seconds before your second Lance Charge, allowing one Nastrond and Stardiver to both land under that buff. When you exit that Life, you'll also have two more eyes to enter *again*, allowing another Nastrond under that Lance Charge, followed by potentially the next two Nastrond and your Stardiver under the following Dragon Sight.
-
-
-      All of this is tasty and positive, assuming your delayed first Life (or the subsequent double life) doesn't run into issues with fight phasing. If someone says you should be doing "early" life for a given fight (like in E3S), it simply means you should enter (Mirage Dive - Geirskogul) instead of skipping on your second Geirskogul.
-
-
-      [This video](https://www.youtube.com/watch?v=yhXwh1Fb92c) demonstrates what the first Life cycle should look like, when you delay it.
-  - question: How do I make sure every Stardiver has a buff?
-    answer: >-
-      Every time you come up on Geirskogul at the same time as you come up on
-      your second Eye from Mirage Dive, you can make the choice to activate it
-      or delay it. You can make this choice by following this handy flowchart,
-      based on the time remaining on your two primary buff actions, Lance Charge
-      and Dragon Sight:
-
-
-      If Lance Charge and Dragon Sight >23s and at least one <57s: Geirskogul - Mirage Dive (delay)
-
-
-      Otherwise: Mirage Dive - Geirskogul (enter)
-
-
-      Following this general outline will allow you to maximize the number of Nastrond and Stardiver that you land under buffs (Lance Charge / Dragon Sight / Battle Litany) throughout an encounter. We don't need to look at Battle Litany timings up above, since it should always coincide with every other Lance Charge. If it somehow de-syncs, prioritize Lance Charge and Dragon Sight over Battle Litany.
+      If a specific fight doesn't allow delayed life windows we will adapt to that in the (Re-)Opener. Please refer to the [Encounter Tips](https://www.thebalanceffxiv.com/jobs/melee/dragoon/ "Encounter Tips") section for fight specific Openers and rotation tips.
   - question: Should I double up Chaos Thrust on two targets? What about three?
     answer: >-
       The short answer is yes - -if you have two targets that will both be
-      active for >30 seconds, you want to alternate targets, maintaining Chaos
+      active for > 30 seconds, you want to alternate targets, maintaining Chaos
       Thrust on both:
 
 
@@ -99,49 +77,7 @@ qna:
       If any Life Surge comes up in these scenarios, just use it on a Fang and Claw that has a positional hit, as it has no effect on the damage-over-time effect of Chaos Thrust. This rotation has approximately a 3% gain over the usual rotation if you have two targets to spread Chaos Thrust on.
 
 
-      When extending to three targets, if they're all within range, you actually want to swap to your AoE rotation (Doom Spike / Sonic Thrust / Coerthan Torment), since that's something around a 25% damage gain over spreading Chaos Thrust around, even without Disembowel's buff being active for the AoE, while counting it for the Chaos Thrust spreading.
-  - question: Should I use Disembowel when using my AoE Combo Doom Spike Sonic
-      Thrust Coerthan Torment?
-    answer: >-
-      **Yes.**
-
-
-      You can often get the True Thrust - Disembowel off while the tank gathers the enemies and then skip the Chaos Thrust and go right into Doom Spike - Sonic Thrust - Coerthan Torment once they're settled. Even barring that, we deal a shitload of AoE damage constantly. The loss of potency in those two GCDs is *almost always* made up for in the following 30 seconds.
-
-
-      In order for your Disembowel to be worth the two GCDs it costs to cast it, you do need a certain amount of off-GCD potency over the following 30 seconds! That amount is modeled by the following formula:
-
-
-      ```
-
-      1600 - 6100/n
-
-      where n is the number of targets.
-
-      ```
-
-
-      At three targets, it is **always** a net gain to use it.
-
-      The formula constantly increases as n gets larger, and by 15 targets, you need less than 1200 potency per target in off-gcd actions (Geirskogul - Dragonfire Dive - Nastrond - Stardiver) in the next 30s for those two GCDs to be worth hitting.
-
-
-      **Geirskogul** is 300 potency per target.  
-
-      **Dragonfire Dive** is 380 potency per target.  
-
-      **Nastrond** is 400 potency per target.  
-
-      **Stardiver** is 420 potency per target (600 to the initial target).  
-
-
-      1200 is very easy to reach in 30s or less.  
-
-
-      The above-linked guide goes more in-depth about this, including a full table to show the formula's derivation. 
-
-
-      tl;dr: **Yes. Always, always, always use Disembowel before your AoE.**
+      When extending to three targets, if they're all within range, you actually want to swap to your AoE rotation (Draconian Fury / Sonic Thrust / Coerthan Torment).
 authors:
   - Balance-DRG-Staff
 ---
