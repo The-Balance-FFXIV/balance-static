@@ -21,34 +21,6 @@ Last Updated: December 23, 2021
 
 
 
-Table of Contents
-Purpose and Introduction							…………….3
-DNC Overview								…………….4-5
-Range of Actions and Abilities						…………….6
-Understanding Standard Step / How to do Dance Steps		…………….7-10
-Understanding Technical Step						…………….11-12
-Understanding Fan Dance (and weaving oGCDs in general)		…………….13-15
-Esprit Generation								…………….16-17
-Understanding Flourish							…………….18-19
-Understanding Starfall Dance						…………….20
-Understanding Tillana							…………….21
-DNC “Rotation”								…………….22-23
-General Single Target GCD Priority List					…………….24
-AoE Rotation 								…………….25
-Opener									…………….26-27
-Stat Tiering and Itemization for Dancer					…………….28-33
-Weapon Damage and Dexterity					
-Crit vs Det/DH							
-Determination vs DH					
-Skill Speed… and Why it is not good on DNC	
-Optimizing Stats Overall		
-Gear and Best in Slot (BiS)						…………….34
-Considerations for Selecting a Dance Partner				…………….35-39
-Dance Partner Priority List 						
-Dance Partner Swapping						
-DNC Utility									…………….40-42
-	About the Author / Special Thanks					…………….43
-	Changelog									…………….44
 
 
 
@@ -63,11 +35,18 @@ DNC Utility									…………….40-42
 
 
 
-Purpose and Introduction
+
+
+
+# Purpose and Introduction
 
 The purpose of this guide is to be a comprehensive gameplay guide for how to play and optimize the DNC rotation. This guide goes over the fundamentals and job basics while also looking into advanced tips and tricks that experienced players may not know. Due to the randomness of the proc, feather, and esprit generation, DNC has a dynamic playstyle where no two pulls are ever the same. Hopefully after reading this guide, you will have a better understanding of how to play DNC to its fullest.
 
+
+
 With the release of Endwalker, several adjustments were made to DNC, specifically with regards to esprit generation. Much of this guide retains information from the original Shadowbringers guide, but many things were updated or removed to account for these changes in Endwalker.
+
+
 
 If you plan on referencing anything in this guide in your own published work, I ask that you give proper credit / reference to this guide.
 
@@ -101,33 +80,54 @@ If you plan on referencing anything in this guide in your own published work, I 
 
 DNC Overview
 
-DNC Job Guide from Square Enix (which includes job weaponskill and ability descriptions)
 
-Short Version:
+
+## DNC Job Guide from Square Enix (which includes job weaponskill and ability descriptions)
+
+### Short Version:
 Dancer is a ranged physical DPS job with low personal DPS but high contribution to others’ DPS using raid buffs. It has “Dances'' that require executing the right dance steps in order to perform powerful finishing moves. Its main weaponskill GCDs revolve around a simple combo that has a chance to generate stronger proc GCDs which have a chance to generate feathers which can be used for oGCD damage abilities.
 
-Long Version:
-Dancer is a ranged physical DPS job (along with BRD and MCH) which has a pretty straightforward style to its gameplay. Their primary damage stat is dexterity (DEX). DNC is the DPS job that does the least amount of personal damage; however, it makes up for it by providing high damage increasing buffs to your raid group. Part of DNC’s rotation is keeping a buff up called Standard Finish that increases your damage by 5%. Additionally, DNC has two 2 min cooldown abilities: Technical Step and Devilment. Technical Finish (which occurs after successfully completing the Technical Step dance) will provide a 5% damage up buff to the whole party for 20 seconds while Devilment provides the DNC with a 20% crit hit rate and 20% direct hit rate boost for 20 seconds. DNC can also choose someone to be their Dance Partner in a fight with the ability Closed Position which will duplicate the Standard Finish 5% damage up buff and the Devilment buff on this target party member. Additionally, DNC provides raid utility in the form of a small AoE heal called Curing Waltz, an AoE channeled regen called Improvisation, an AoE shield called Improvised Finish, and a party wide damage reduction ability called Shield Samba. Despite doing low personal damage overall, DNC offers incredibly powerful burst damage in a 20 second window every 2 mins with its Technical Step and Devilment abilities.
+
+
+### Long Version:
+Dancer is a ranged physical DPS job (along with BRD and MCH) which has a pretty straightforward style to its gameplay. Their primary damage stat is dexterity (DEX). DNC is the DPS job that does the least amount of personal damage; however, it makes up for it by providing high damage increasing buffs to your raid group. Part of DNC’s rotation is keeping a buff up called Standard Finish that increases your damage by 5%. Additionally, DNC has two two minute cooldown abilities: Technical Step and Devilment. Technical Finish (which occurs after successfully completing the Technical Step dance) will provide a 5% damage up buff to the whole party for 20 seconds while Devilment provides the DNC with a 20% crit hit rate and 20% direct hit rate boost for 20 seconds. DNC can also choose someone to be their Dance Partner in a fight with the ability Closed Position which will duplicate the Standard Finish 5% damage up buff and the Devilment buff on this target party member. Additionally, DNC provides raid utility in the form of a small AoE heal called Curing Waltz, an AoE channeled regen called Improvisation, an AoE shield called Improvised Finish, and a party wide damage reduction ability called Shield Samba. Despite doing low personal damage overall, DNC offers incredibly powerful burst damage in a 20 second window every 2 mins with its Technical Step and Devilment abilities.
+
+
 
 The rotational flow of DNC is a simple combo / proc GCD system coupled with two dance abilities, Standard Step and Technical Step, on a 30 second and 2 min cooldown respectively. When beginning a dance, your normal GCDs are replaced with dance steps in order to unlock a finishing move (aptly named Standard Finish and Technical Finish). These dance steps do not do any damage, however, the dance finishes themselves are some of the strongest damage abilities in the game at 720 and 1080 potency respectively. These dance finishes damage all enemies within a 15y radius of you. The closest enemy will be hit for the full damage (720 and 1080 potency respectively) while all other enemies will be hit for 75% reduced damage (180 potency for Standard Finish and 270 potency for Technical Finish). Technical Finish also generates a proc called Flourishing Finish which allows for the action Tillana to be used, which is a 360 potency (on first target, 180 on all other targets) Finish that does not require any dance steps to be executed.
 
+
+
 Outside of these dances, your normal GCDs include a set of basic 1 → 2 combo weaponskills called Cascade and Fountain. Cascade and Fountain each have a 50% chance to proc separate slightly more powerful weaponskills called Reverse Cascade and Fountainfall respectively. Cascade has a 50% chance to proc “Flourishing Symmetry” which will allow access to the weaponskill Reverse Cascade. Fountain has a 50% chance to proc “Flourishing Flow” which will allow access to the weaponskill Fountainfall. Additionally, every time your dance partner performs a weaponskill or spell while under the effect of Standard Finish, you have a chance (approximately 20%) to generate 10 esprit. Everytime the DNC performs a weaponskill, they will generate a guaranteed amount of esprit (5 per Cascade/Fountain, 10 per Reverse Cascade/Fountainfall). Your esprit gauge can hold a maximum of 100 esprit. Every 50 esprit can be spent on a weaponskill called Saber Dance, which is one of your strongest GCD actions at 480 potency on primary target and 240 potency to all nearby enemies close to the target. Using Saber Dance, Reverse Cascade, Fountainfall, or your dances will not interrupt your Cascade → Fountain combo. Using Cascade while you have a Flourishing Symmetry proc or using Fountain while you have a Flourishing Flow proc will override this proc if the proc would have successfully been generated.
+
+
 
 Additionally, you have 4 more GCDs that mirror the way Cascade, Fountain, Reverse Cascade, and Fountainfall work in an AoE setting called Windmill, Bladeshower, Rising Windmill, and Bloodshower. All four of these weaponskills are AoEs in a circle around you (5y radius). Windmill combos into Bladeshower while Rising Windmill and Bloodshower are slightly stronger procs from the combo weaponskills. Rising Windmill is available upon getting a Flourishing Symmetry proc from Windmill (or Cascade). Bloodshower is available upon getting a Flourishing Flow proc from Bladeshower (or Fountain).
 
+
+
 Every time you use a proc’d weaponskill (Reverse Cascade, Fountainfall, Rising Windmill, or Bloodshower), you have a 50% chance to generate a Fourfold Feather. You can hold a maximum of 4 feathers. These feathers can be used for oGCD abilities called Fan Dance (150 potency single target) and Fan Dance II (100 potency in an AoE around you on multiple targets). Additionally, when using a fan, it has a 50% chance to generate a proc called Threefold Fan Dance which allows you to use Fan Dance III (200 potency to primary target and 100 potency to all nearby enemies close to the target).
+
+
 
 DNC has a 1 min cooldown called Flourish which immediately grants them each of their weaponskill procs (Flourishing Symmetry and Flourishing Flow), a proc of Threefold Fan Dance (for Fan Dance III), and a proc called Fourfold Fan Dance which allows access to Fan Dance IV (this proc is only generated from Flourish).
 
+
+
 At level 90, in addition to increasing Crit% and DH%, Devilment also generates a proc called Flourishing Starfall which grants access to Starfall Dance, a weaponskill with a potency of 600 that is guaranteed to Crit and Direct Hit.
+
+
 
 The basic flow of the DNC GCDs on a single target encounter revolves around keeping your dances, Devilment, and Flourish off cooldown without drifting these abilities too much (if at all) and using weaponskills in between dances. The way DNC’s damage can be optimized is through a combination of maximizing the amount of damage you do (especially during buff windows), maximizing the amount of damage gained by your buffs to party members through optimal buff timings and Dance Partner choice, and minimizing losses in resource management (such as overcapping on esprit / feathers, or overriding a proc).
 
-Range of Actions and Abilities
-Action/Ability
-Range/Radius
-Cascade, Fountain, Reverse Cascade, Fountainfall, Saber Dance, Fan Dance, Fan Dance III (primary target)
-25y
+
+
+## Range of Actions and Abilities
+| Action/Ability | Range/Radius |
+|-|-|
+
+| Cascade, Fountain, Reverse Cascade, Fountainfall, Saber Dance, Fan Dance, Fan Dance III (primary target) | 25y |
+
 Fan Dance IV
 15y range and radius (conal)
 Starfall Dance
