@@ -10,6 +10,8 @@ changelog:
     message: Added
   - date: 2022-01-04T20:36:20.903Z
     message: Removed Dancer Dilemna section, due to no longer being required.
+  - date: 2022-01-16T20:20:01.175Z
+    message: Updated some headers and wording in a few sections.
 ---
 ## Reaper Advanced Rotational Theory
 
@@ -31,7 +33,7 @@ I wanted to start this guide off with talking about the FFLogs metrics and how t
 
 ## Theorycrafting vs. Practice
 
-This is an important piece to talk about before you dive too deep into this document. There are always two parts to theorycrafting: the crafting of the actual theory and testing the theory by putting it into live play. Thanks to the release of Endwalker, we can now actually test and play Reaper. That being said, not every scenario or situation can immediately be tested. As of re-writing this section we do not have Savage raids or Ultimates so some of these concepts may not work within whatever limitations the fights put on us. Lastly, as we discover new theories they will be listed here but I will try to notate them as “not tested” if required. The aim of this guide is to maximize Reaper’s potential without using any third party tools, so optimizations that require their use will be left out. 
+Theorycrafting is an important piece to talk about before you dive too deep into this document. There are always two parts to theorycrafting: the crafting of the actual theory and testing the theory by putting it into live play. Thanks to the release of Endwalker, we can now actually test and play Reaper. That being said, not every scenario or situation can immediately be tested. As of re-writing this section we do not have Savage raids or Ultimates so some of these concepts may not work within whatever limitations the fights put on us. Lastly, as we discover new theories they will be listed here but I will try to notate them as “not tested” if required. The aim of this guide is to maximize Reaper’s potential without using any third party tools, so optimizations that require their use will be left out. 
 
 - - -
 
@@ -124,7 +126,7 @@ Let’s break apart this opener and discuss and explain a few things:
   * Optimally, we would prefer not to use a potion in the opener but we will have to based on certain fight timings or mechanics. I will go more into the potion windows below.
   * If you need to use a potion, you can use either 3s on pre-pull or weave it late after the first Soul Slice.
 
-    * Alternatively if you are able to double weave Arcane Circle and Potion without clipping your GCD it is optimal to Shadow of Death twice at the start of the rotation and Arcane Circle + Potion after the second Shadow of Death. This will trade a Shadow of Death in potion for an Infernal Slice.
+    * Alternatively if you are able to double weave Arcane Circle and Potion without clipping your GCD it is possible to Shadow of Death twice at the start of the rotation and Arcane Circle + Potion after the second Shadow of Death. This will trade a Shadow of Death in potion for an Infernal Slice but will further delay damage into some raid buffs, which generally is a healthy trade.
 * Why is Gluttony so late?
 
   * Moving it late means it captures more buffs at their tail end. Using it early may have us using it before buffs; using it later will get it and its Reaver spenders into more buffs.
@@ -188,7 +190,9 @@ Let’s break apart this opener and discuss and explain a few things:
 
 - - -
 
-## **Double Enshroud Window**
+## **2 Minute Burst Windows**
+
+### **Double Enshroud Window**
 
 Every two minutes, we will be entering our burst. We currently have two types of burst windows that we can do on the two minute mark. The first, and overall best, will be the Double Shroud window. Normally, doing two Enshrouds back to back, or within one GCD of each other, is impossible because of the 15 second cooldown timer of Enshroud. We can, however, extend the time we are in Shroud by using the few GCDs we have available during the buff that do not interact with the buff itself. Shadow of Death, Harvest Moon and Harpe are all available to be used while we are in Enshroud and out of those three, one of them is critical to how we play the job -- Shadow of Death. Of course, we don’t want to overcap our Death’s Design timers, so the goal here is to enter Enshroud with only a few seconds left on the Death’s Design debuff. Here is the breakdown of what the ideal Double Enshroud window looks like:
 
@@ -570,7 +574,7 @@ The first goal was to get a value for Shroud -- the bottom of the totem pole. 50
 
 * 3,420 / 8.5 * 2.5 = 1005 potency per GCD
 
-We then take that 1005 potency per GCD and figure how much it differs from our average GCD value, which is 380 potency. This gives 50 Shroud, a potency gain of 625, or 125 for 10 Shroud.
+We then take that 1005 potency per GCD and figure how much it differs from our average GCD value, which is 380 potency. This gives 50 Shroud, a potency gain of 625, or 125 for 10 Shroud over 2.5s. If you are evaluating something against the whole duration of shroud these numbers change to 2125 for 50 shroud, and 425 per 10 shroud over 8.5 seconds.
 
 From here, we can examine the Soul Gauge. Soul Gauge has two parts. The first is the 400 potency Blood Stalk variant that we get, and the second is the 520 potency Gibbet / Gallows that follows. 520 potency is 140 potency over our normal GCD. Lastly, these GCDs give us 10 Shroud, which has a value of 125. The value of 50 Soul is then 400 + 140 + 125, or 665, which is 133 for 10 Soul. 
 
