@@ -359,11 +359,11 @@ As the fights have just released, there are no strategies set in stone. I would 
 
 ### Healer
 
-* There is lots of healing required in this fight, and much heavier incoming damage compared to the first two Savage fights.
-* Keep healing over time effects active during firestorms during the adds phase and Firestorms of Asphodelos.
+* There is a lot of healing required in this fight, and much heavier incoming damage compared to the first two Savage fights.
+* Keep healing over time effects active during Firestorms during the adds phase and Firestorms of Asphodelos.
 * Stay in the middle during the adds phase when dealing with Sunbirds (not during Fireglide!) to ensure heals reach all party members. Top party members off before Flames of Undeath when the adds die.
 * The off-tank may require extra single-target attention from Phase Three onwards, as they are taking four autos periodically.
-* Soaking a Fountain of Fire gives the Trickle of Fire buff, which massively increases healing potency for six seconds. This will give the healer 24 seconds of increased healing, which they can use to heal themselves and the party during the mechanic, as well as afterwards for the double Scorched Exaltation.
+* Soaking a Fountain of Fire gives the Trickle of Fire buff, which massively increases healing potency for six seconds. This will give the healer 24 seconds of increased healing, which they can use to heal themselves and the party during the mechanic, as well as afterward for the double Scorched Exaltation.
 * Heal and mitigate between each mechanic set during the Firestorms of Asphodelos. Stagger mitigation, as there are several instances of heavy AoE damage.
 * An Astrologian can press Macrocosmos before the Fledgling Flight conal AoEs go off, and it will instantly heal the entire party to full ignoring the healing potency debuff. With any other healer combination, they will need to heavily heal and mitigate Life's Agonies.
 
@@ -376,5 +376,5 @@ As the fights have just released, there are no strategies set in stone. I would 
 * Save two-minute cooldowns for when the boss comes back, unless you need the DPS on adds.
 * By splitting groups into melee and ranged, melee can always move with the tank and have 100% uptime.
 * Make sure you bait Sun's Pinions in the correct order. If AoEs are baited wrong, players can still adjust.
-* Use mitigation such as Addle, Feint, and Magicked Barrier on raidwides and tank busters.
+* Use mitigation such as Addle, Feint, and Magick Barrier on raidwides and tank busters.
 * Use personal mitigation on heavy raidwides as well, especially Life's Agonies if you do not have an Astrologian.
