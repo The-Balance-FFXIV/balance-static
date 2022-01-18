@@ -10,13 +10,13 @@ changelog:
     message: Updated for Endwalker.
 qna:
   - question: How do Raiden Thrust and Draconian Fury work?
-    answer: Raiden Thrust is an upgraded True Thrust and Draconian Fury and upgraded
-      Doom Spike. Both start their respective combos just like the base skill
-      and they replace the buttons on your hotbars temporarily when ready. You
-      gain the effect *Draconian Fire* upon completing a full combo with Fang
-      and Claw, Wheeling Thrust or Coerthan Torment, enabling the use of either
-      Raiden Thrust or Draconian Fury. It is *not* required anymore to hit a
-      positional to proc Raiden Thrust. At level 90 using Raiden Thrust or
+    answer: Raiden Thrust is an upgraded True Thrust and Draconian Fury is an
+      upgraded Doom Spike. Both start their respective combos just like the base
+      skill and they replace the buttons on your hotbars temporarily when ready.
+      You gain the effect *Draconian Fire* upon completing a full combo with
+      Fang and Claw, Wheeling Thrust or Coerthan Torment, enabling the use of
+      either Raiden Thrust or Draconian Fury. It is *not* required anymore to
+      hit a positional to proc Raiden Thrust. At level 90 using Raiden Thrust or
       Draconian Fury grants you a stack of *Firstminds' Focus*. You can use
       Wyrmwind Thrust with two stacks.
   - question: Should I modify my buff Lance Charge - Dragon Sight - Battle Litany
@@ -28,12 +28,12 @@ qna:
       placement for the party without messing our own rotation up.
 
 
-      The **only** exception to this rule is a situation where you are running with a **static, consistent team** and have a specific kill time in mind. In this sort of coordinated environment (**and only in this case**) it can be prudent to shift your buff times to line up with allies for net gains to raid dps. This is a very niche case and most of the time should not be taken into consideration.
+      The **only** exception to this rule is a situation where you are running with a **static, consistent team** and have a specific kill time in mind. In this sort of coordinated environment (**and only in this case**) it can be prudent to shift your buff times to line up with allies for net gains to raid DPS. This is a very niche case and most of the time should not be taken into consideration.
   - question: Who should I tether with Dragon Sight?
     answer: >-
       In a pug group, prioritize whoever will actually be close to you when it’s
       Dragon Sight time. Delaying GCDs hunting down your Bard because they asked
-      for tether, but live in Narnia will cause more issues than it solves. If
+      for tether but live in Narnia will cause more issues than it solves. If
       someone specifically asks for it, just tell them they need to be close to
       you when it’s time.
 
@@ -52,7 +52,7 @@ qna:
       Spineshatter Dive is an exception now with its two charges. You can freely hold the action as long as you don't cap out both charges. 
 
 
-      However, if you know your target kill time and are certain that the delays will **not** cost a use on the fight, then it is perfectly acceptable to do so. Just be aware that delaying is **never** worth it if you end up with 1 fewer cast on the encounter because of it, *especially* in the case of High Jump and Mirage Dive.
+      However, if you know your target kill time and are certain that the delays will **not** cost a use on the fight, then it is perfectly acceptable to do so. Just be aware that delaying is **never** worth it if you end up with one fewer cast on the encounter because of it, *especially* in the case of High Jump and Mirage Dive.
   - question: Do we still delay Life of the Dragon?
     answer: >-
       With a 60s recast on Lance Charge we will ideally delay every life window.
@@ -67,7 +67,7 @@ qna:
   - question: Should I double up Chaos Thrust on two targets? What about three?
     answer: >-
       The short answer is yes - -if you have two targets that will both be
-      active for >30 seconds, you want to alternate targets, maintaining Chaos
+      active for > 30 seconds, you want to alternate targets, maintaining Chaos
       Thrust on both:
 
 
