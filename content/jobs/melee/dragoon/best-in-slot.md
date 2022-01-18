@@ -17,8 +17,8 @@ bis:
     link: https://etro.gg/gearset/8bdd42db-a318-41a0-8903-14efa5e0774b
     name: 2.50 GCD
   - type: etro
-    description: In case you prefer a slightly faster set. Requires you to get 9 GCD
-      buff windows for equal performance to the 2.50 set.
+    description: In case you prefer a slightly faster set. Requires you to get nine
+      GCD buff windows for equal performance to the 2.50 set.
     name: 2.46 GCD
     link: https://etro.gg/gearset/77868a5e-80af-4ca2-8e0b-be2870b6ffc8
   - type: etro
