@@ -1,34 +1,33 @@
 ---
 title: Dragoon Best in Slot (BiS)
 layout: bis
-patch: "5.58"
-lastmod: 2021-10-29T03:00:42.356Z
+patch: "6.05"
+lastmod: 2022-01-14T14:12:49.044Z
 changelog:
   - date: 2021-10-29T03:01:01.840Z
     message: Created page
 bis:
   - type: etro
-    description: ""
-    link: https://etro.gg/gearset/fc688f35-2df5-4e5d-9866-5ecee25cbce9
-    name: 2.50 GCD (Raid Chest)
+    description: >-
+      Recommended for everyone because of the simple and comfortable playstyle
+      with a 2.50 GCD.
+
+
+      This set is also identical to the Reaper 2.49/2.50 set.
+    link: https://etro.gg/gearset/8bdd42db-a318-41a0-8903-14efa5e0774b
+    name: 2.50 GCD
   - type: etro
-    description: Slight downgrade if you don't want to get the E12S chest.
-    name: 2.50 GCD (Tome Chest)
-    link: https://etro.gg/gearset/48bf22a3-df31-493b-9c8e-298079e7b8ef
-  - type: etro
-    description: ""
+    description: In case you prefer a slightly faster set. Requires you to get nine
+      GCD buff windows for equal performance to the 2.50 set.
     name: 2.46 GCD
-    link: https://etro.gg/gearset/46473f8d-5174-4ca8-96bc-0ac24b054d19
+    link: https://etro.gg/gearset/77868a5e-80af-4ca2-8e0b-be2870b6ffc8
   - type: etro
     description: ""
-    name: 2.50 GCD - No Relic
-    link: https://etro.gg/gearset/7f0557b6-d86f-4d3a-8953-4db56bd23488
+    name: Pentamelded Crafted
+    link: https://etro.gg/gearset/44dd1933-c9b7-4665-81a8-8d68a4187d79
   - type: etro
-    description: ""
-    name: 2.46 GCD - No Relic
-    link: https://etro.gg/gearset/bc44395f-4ce1-47aa-b52a-7bcbcb90d152
-  - type: etro
-    description: ""
+    description: Ultimate sets have not been updated for 6.0 yet. Using these sets
+      is perfectly fine as big changes are unlikely.
     name: TEA BiS
     link: https://etro.gg/gearset/25f4327c-1be2-4186-b1e1-075255bbfe35
   - type: etro
