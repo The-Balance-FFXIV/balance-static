@@ -1,10 +1,4 @@
 ---
-menu:
-  main:
-    identifier: p1s
-    name: "Asphodelos: The First Circle (Savage)"
-    parent: encounters
-    weight: 1
 title: "Asphodelos: The First Circle (Savage)"
 fight_title: p1s
 encounter_category: savage
@@ -25,6 +19,12 @@ patch: "6.05"
 changelog:
   - date: 2022-01-05T21:23:01.622Z
     message: Created page
+menu:
+  main:
+    identifier: p1s
+    name: "Asphodelos: The First Circle (Savage)"
+    parent: encounters
+    weight: 1
 ---
 ## Introduction
 
@@ -65,6 +65,8 @@ Two of (unique):
 Four of these tokens can be traded in for accessories at a Pandaemonium gear vendor.
 
 ## Major Mechanics
+
+Erichthonios has a hard enrage of 10:20 into the encounter and requires roughly 39.7k raid DPS to defeat before then.
 
 ### Pre-pull Preparation
 
