@@ -33,7 +33,7 @@ I wanted to start this guide off with talking about the FFLogs metrics and how t
 
 ## Theorycrafting vs. Practice
 
-This is an important piece to talk about before you dive too deep into this document. There are always two parts to theorycrafting: the crafting of the actual theory and testing the theory by putting it into live play. Thanks to the release of Endwalker, we can now actually test and play Reaper. That being said, not every scenario or situation can immediately be tested. As of re-writing this section we do not have Savage raids or Ultimates so some of these concepts may not work within whatever limitations the fights put on us. Lastly, as we discover new theories they will be listed here but I will try to notate them as “not tested” if required. The aim of this guide is to maximize Reaper’s potential without using any third party tools, so optimizations that require their use will be left out. 
+Theorycrafting is an important piece to talk about before you dive too deep into this document. There are always two parts to theorycrafting: the crafting of the actual theory and testing the theory by putting it into live play. Thanks to the release of Endwalker, we can now actually test and play Reaper. That being said, not every scenario or situation can immediately be tested. As of re-writing this section we do not have Savage raids or Ultimates so some of these concepts may not work within whatever limitations the fights put on us. Lastly, as we discover new theories they will be listed here but I will try to notate them as “not tested” if required. The aim of this guide is to maximize Reaper’s potential without using any third party tools, so optimizations that require their use will be left out. 
 
 - - -
 
