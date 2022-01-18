@@ -1,10 +1,4 @@
 ---
-menu:
-  main:
-    identifier: p2s
-    name: "Asphodelos: The Second Circle (Savage)"
-    weight: 2
-    parent: encounters
 title: "Asphodelos: The Second Circle (Savage)"
 fight_title: p2s
 encounter_category: savage
@@ -25,6 +19,12 @@ patch: "6.05"
 changelog:
   - date: 2022-01-05T22:22:21.433Z
     message: Created page
+menu:
+  main:
+    identifier: p2s
+    name: "Asphodelos: The Second Circle (Savage)"
+    weight: 2
+    parent: encounters
 ---
 ## Introduction
 
@@ -69,6 +69,8 @@ Six of these tokens can be traded in for head, hand, or foot gear at a Pandaemon
 
 ## Major Mechanics
 
+The Hippokampos has a hard enrage of 10:28 into the encounter and requires roughly 41.9k raid DPS to defeat before then.
+
 ### Pre-pull Preparation
 
 Assign the raid into two light party stacks with one tank, one healer, and two DPS each. Place the markers as such, indicating the raised platforms and the drained passages.
@@ -83,7 +85,7 @@ A moderate raidwide AoE that deals magic damage.
 
 **Doubled Impact**
 
-A physical tank buster on the current main tank that needs to be shared by both tanks or invulned.
+A magical tank buster on the current main tank that needs to be shared by both tanks or invulned.
 
 **Sewage Deluge**
 
@@ -150,7 +152,7 @@ Three sets of AoE markers appear under all players. Bait these and move together
 * The party needs to move back to the platform opposite of the overflowing platform to make moving for Cataract easier.
 * For Predatory Avarice, the party needs to move to the safe spot for Spoken Cataract or Winged Cataract first. After it goes off, the debuffed tank needs to move left away from the party, and the debuffed DPS needs to move right away from the party. Move to the edge of the drained passage. All other players will take magic damage from the healer's debuff.
 * After this, the water will recede.
-* All players will get an arrow indicating the direction they are going to be pushed back. Simply head to the wall opposite of the direction you are being pushed to, but not overlapping with the other player at the edge. You can do DPS left and H/T right facing the middle, but adjusting is very simple. Players will all get stunned and pushed towards the middle, and collide with the player on the other side, which solves the mechanic.
+* All players will get an arrow indicating the direction they are going to be pushed back. Simply head behind the grate of the direction you are being pushed to, but not overlapping with the other player. Ranged can head out a bit, and melee can be max melee as long as they are fully behind the grate. You can do DPS left and H/T right facing the middle, but adjusting is very simple. Players will all get stunned and pushed towards the middle, and collide with the player on the other side, which solves the mechanic.
 * Another dual tank buster and raidwide follow this, and then the arena will be flooded again by Sewage Deluge.
 * The boss will then jump to a platform with Shockwave, and do Kampeos Harma. It is an intermission of sorts, and the boss is untargetable during this.
 * [Here is a toolbox diagram showing how to do Kampeos Harma](https://ff14.toolboxgaming.space/?id=677343458141461&preview=1). Essentially, purple marked players will move to their respective numbered marker, while blue marked players need to bait the dashes across the arena. For blue dots, 1 and 3 will go across to where the boss jumped for Shockwave, while 2 and 4 will stay in the corner. 1 and 2 will stand in front, and after they are dashed to, they will move behind while 3 and 4 move in front.
@@ -192,7 +194,7 @@ Kampeos Harma
 * Get together and heal up, and do the same mechanic but with reversed groups - the players that previously had to do Mark of the Tides will have Tainted Flood, and vice-versa.
 * The water will then recede.
 * Predatory Avarice will occur again, but this time with a Dissociation and a Spoken Cataract or Winged Cataract. This leaves one quadrant of the arena safe to do Predatory Avarice's debuffs.
-* The party should stand directly in front of the boss on the safe spot. The tank with the debuff should move back left, and the DPS with the debuff should move back right. Both players should be as close to the dangerous zone as possible to ensure no players are hit with their debuffs.
+* The party should stand directly in front of the boss on the safe spot. The DPS with the debuff should always go to the corner and the tank with the debuff should go to the safe spot at the wall not at the corner. Both players should be as close to the dangerous zone as possible to ensure no players are hit with their debuffs.
 * Afterwards, Dissociation will happen with baited AoEs. Players need to stand on a numbered marker. Once the AoEs from Sewage Eruption appear under them, everyone should move towards on the safe side as a group to bait these AoEs.
 * Afterwards, spread for Tainted Flood and do Coherence. The party should stack in one corner and the main tank should bring the tether to the opposite side. The off tank needs to stand in front of the stack.
 * After another dual tank buster and raidwide, the boss will flood the arena with Sewage Deluge for the final time in the fight.
@@ -224,11 +226,11 @@ Sewage Deluge
 
 * The final Channeling Overflow is the final challenge in the fight. The party should move to the raised platform opposite of the overflowing platform. All players should stand at max melee range. 
 * As soon as players receive their debuffs, the players that need to move to position for Mark of the Tides should do so. Right after, the tether will appear. The tank that does not have Mark of the Tides going off first needs to pick up this tether, which is either on the party or outside on a player, and move to the opposite end of the arena just like before (but not on the overflowing platform).
-* Players who do not have Mark of the Tides going off first should move to the corner of the platform they were on to dodge the pushed players. Right after the push back, Coherence will go off - the tank that was pushed back needs to stand in front of the group.
+* Players who do not have Mark of the Tides going off first should move to the corner of the platform they were on to dodge the pushed players. Right after the push back, Coherence will go off - the tank that was pushed back needs to stand in front of the group. Players will need to be healed up from the collisions as soon as possible.
 * After this, the second set of players needs to do their Mark of the Tides. All other players stand on the corner of the platform. Heal up and stay on the platform opposite of the overflowing platform.
 * There is another Dissociation and Sewage Eruption pattern. Players should stay on their current platform and wait for the AoEs to appear, then move as a group to or on the safe side.
 * Return to the platform opposite of the overflowing platform. Do Shockwave and Ominous Bubbling the same as before. Afterwards, there is a dual tank buster, so move away from the tanks.
-* Do damage and heal up before the enrage at 10:26.
+* Do damage and heal up before the enrage at 10:28.
 
 ### Ability Order
 
@@ -247,7 +249,7 @@ Sewage Deluge
 
 &nbsp;
 
-Enrage is a hardcasted Sewage Deluge that occurs at 10:16 into the fight, wiping the raid at 10:26.
+Enrage is a hardcasted Sewage Deluge that occurs at 10:18 into the fight, wiping the raid at 10:28.
 
 ## Party Finder Strategies
 
