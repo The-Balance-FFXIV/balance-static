@@ -1,10 +1,4 @@
 ---
-menu:
-  main:
-    identifier: p3s
-    name: "Asphodelos: The Third Circle (Savage)"
-    weight: 3
-    parent: encounters
 title: "Asphodelos: The Third Circle (Savage)"
 fight_title: p3s
 encounter_category: savage
@@ -27,6 +21,15 @@ changelog:
     message: Added tank invuln (myta (noob)) strat for Storms of Asphodelos. Added
       different ordered baits for Fountain of Fire. Fixed Experimental
       Gloryplume to mention the order.
+  - date: 2022-01-12T19:31:47.976Z
+    message: Updated to change Firestorms of Asphodelos's light party stacks for
+      uptime purposes.
+menu:
+  main:
+    identifier: p3s
+    name: "Asphodelos: The Third Circle (Savage)"
+    weight: 3
+    parent: encounters
 ---
 
 ## Introduction
@@ -67,9 +70,11 @@ Eight of these tokens can be traded in for leg gear at a Pandaemonium gear vendo
 
 ## Major Mechanics
 
+The Phoinix has a hard enrage of roughly 11:03, depending on how fast the add phase is completed, and requires roughly 42.2k raid DPS to defeat before then.
+
 ### Pre-pull Preparation
 
-Assign all players a partner of the opposite role and range - two tanks with two ranged DPS, and two healers with two melee DPS. Assign each of these groups a numbered marker from one to four. Split these groups into two light parties of one tank, one healer, and two DPS each for the adds phase and Fountain of Fire - a north/east light party and a south/west light party.
+Assign all players a partner of the opposite role and range - two tanks with two ranged DPS, and two healers with two melee DPS. Assign each of these groups a numbered marker from one to four. Split these groups into two light parties of one tank, one healer, and two DPS each for the adds phase and Fountain of Fire - a north/east light party and a south/west light party. For Firestorms of Asphodelos, these partners will be with the same role - tanks with ranged, and healers with melee.
 
 Place markers on the arena as such.
 
@@ -266,7 +271,7 @@ Dead Rebirth
 * All players converge in the center. Both healers should still have a few seconds left of the massive healing buff. Use this healing buff to heal everyone up for double Scorched Exaltation. The shield healer is able to generate massive shields, and this should require zero mitigation, as it needs to be saved for the next mechanic sequence.
 
 * Firestorms of Asphodelos is the major mechanic in this phase, and is a dance sequence from beginning to end. [Here is a Toolbox Diagram](https://ff14.toolboxgaming.space/?id=635443782051461&preview=1) showing how the entire phase is done.
-* Mitigate the initial hit and fan out into tank/melee and healer/ranged groups. Melee should be at the A marker, and ranged should be at the C marker.
+* Mitigate the initial hit and fan out into light party groups separating the tanks and healers. For Firestorms of Asphodelos, melee should be with healers and ranged should be with tanks to ensure maximum uptime.
 * Dodge the conal AoE, then either stack with your group if Experimental Ashplume was stack, or spread if it was spread.
 * Get back into the middle to heal up, then dodge another set of Flames of Asphodelos. Pre-position for Storms of Asphodelos.
   * Tanks need to take both tethers and go directly in front of the boss as normal. This will be south of the boss, and it is facing south. The tanks should be outside of the boss's hitbox at max melee range.
@@ -276,7 +281,7 @@ Dead Rebirth
   * Alternatively, both tanks are able to pick up the tethers, stack together directly in front of the boss, and invuln together. This will bait the southwest and southeast conals, two boss conals, and take care of the tethers. The rest of the party should stand northeast max melee range, with one ranged baiting the north tornado's conal.
 * Afterwards, converge in the middle for heals again.
 * The entire party needs to stack in front of the dark tethered tornado once it is confirmed via Darkblaze Twister. This is to bait the Searing Breeze AoEs. Players should move clockwise, baiting the AoEs in a circle. There will be four AoEs, and after the fourth AoE all players should be back in front of the dark tethered tornado.
-* Players should then separate into their melee and ranged light parties, as Experimental Ashplume is cast. Check what pattern it is. The melee group will stand left of the tornado facing it, and the ranged group will stand right of the tornado facing it. There is a mark on the arena showing exactly where to stand.
+* Players should then separate into their light parties separating tanks and healers, as Experimental Ashplume is cast. Check what pattern it is. The tank and ranged DPS group will stand left of the tornado facing it, and the healer and melee DPS group will stand right of the tornado facing it. There is a mark on the arena showing exactly where to stand.
 * After getting knocked back near the tornado, spread or stack for Ashplume.
 * Heal up for Scorched Exaltation. The tornadoes will disappear after it is cast.
 
@@ -354,11 +359,11 @@ As the fights have just released, there are no strategies set in stone. I would 
 
 ### Healer
 
-* There is lots of healing required in this fight, and much heavier incoming damage compared to the first two Savage fights.
-* Keep healing over time effects active during firestorms during the adds phase and Firestorms of Asphodelos.
+* There is a lot of healing required in this fight, and much heavier incoming damage compared to the first two Savage fights.
+* Keep healing over time effects active during Firestorms during the adds phase and Firestorms of Asphodelos.
 * Stay in the middle during the adds phase when dealing with Sunbirds (not during Fireglide!) to ensure heals reach all party members. Top party members off before Flames of Undeath when the adds die.
 * The off-tank may require extra single-target attention from Phase Three onwards, as they are taking four autos periodically.
-* Soaking a Fountain of Fire gives the Trickle of Fire buff, which massively increases healing potency for six seconds. This will give the healer 24 seconds of increased healing, which they can use to heal themselves and the party during the mechanic, as well as afterwards for the double Scorched Exaltation.
+* Soaking a Fountain of Fire gives the Trickle of Fire buff, which massively increases healing potency for six seconds. This will give the healer 24 seconds of increased healing, which they can use to heal themselves and the party during the mechanic, as well as afterward for the double Scorched Exaltation.
 * Heal and mitigate between each mechanic set during the Firestorms of Asphodelos. Stagger mitigation, as there are several instances of heavy AoE damage.
 * An Astrologian can press Macrocosmos before the Fledgling Flight conal AoEs go off, and it will instantly heal the entire party to full ignoring the healing potency debuff. With any other healer combination, they will need to heavily heal and mitigate Life's Agonies.
 
@@ -371,5 +376,5 @@ As the fights have just released, there are no strategies set in stone. I would 
 * Save two-minute cooldowns for when the boss comes back, unless you need the DPS on adds.
 * By splitting groups into melee and ranged, melee can always move with the tank and have 100% uptime.
 * Make sure you bait Sun's Pinions in the correct order. If AoEs are baited wrong, players can still adjust.
-* Use mitigation such as Addle, Feint, and Magicked Barrier on raidwides and tank busters.
+* Use mitigation such as Addle, Feint, and Magick Barrier on raidwides and tank busters.
 * Use personal mitigation on heavy raidwides as well, especially Life's Agonies if you do not have an Astrologian.
