@@ -21,11 +21,6 @@ bis:
       more important than having a slightly slower GCD.
     name: ilvl 600 2.50 Savage BiS
     link: https://etro.gg/gearset/8c456a46-f3cb-4a23-9771-9f267892bcc0
-  - type: etro
-    description: This gearset is ideal as a jumping-in point for starting Savage
-      content as of 6.05.
-    name: Endwalker Pre-Savage Gearset
-    link: https://etro.gg/gearset/cca0de63-f4a6-465d-a9df-cb9e4e9cd6b8
 authors:
   - Balance-RDM-Staff
 ---
