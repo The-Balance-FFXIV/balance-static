@@ -2,7 +2,7 @@
 title: Sage Openers
 authors:
   - Balance-SGE-Staff
-patch: "6.0"
+patch: "6.05"
 lastmod: 2022-01-24T06:50:31.275Z
 changelog:
   - date: 2022-01-24T06:51:23.100Z
