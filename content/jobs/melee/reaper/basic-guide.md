@@ -146,10 +146,29 @@ Reaper can be played well by just following a priority system. Below is the reco
 
 ![](/img/jobs/rpr/ffxiv_12262021_003254_124.png)
 
-### Next Level
+You may have noticed Enshroud windows feeling somewhat unresponsive to your button pushing. This is a common occurrence that can happen for a multitude of reasons, almost always related to poor connection to the server. What you’re experiencing is referred to as “clipping”, due to prolonged animation lock that happens when your ping exceeds the allotted time the game gives you between GCDs to use your oGCDs. Reaper suffers more than most other jobs simply because of the Enshroud window forcing a 1.5 second GCD and also requiring you to weave between two Lemure’s Slices. There are a few ways to handle this:
+
+
+
+* If possible, ensure you are using a wired connection. WiFi can be spotty and result in packet loss.
+* If playing on an older computer, lower graphics settings and turn off particle effects to increase your framerate. This only matters when your frame rate is so low that it is visibly affecting your gameplay.
+* Utilize a gaming VPN. Occasionally, ISPs will route your connection inefficiently, and a VPN can correct the issue by lowering packet loss and ping, creating a more stable connection to the server. Listed below are VPN options.
+* * Mudfish
+  * ExitLag
+  * WTFast
+  * Pingzapper
+  * NoPing
+  * BattlePing
+
+Mudfish can be configured for FFXIV using [this guide](https://docs.google.com/document/d/1lOrglaY6D1E_LRMUDyQLETNzH-KL4XOSkWYFZJI3OPg/edit). The best VPN for you will differ based on location and ISP. It’s suggested that you try all possible options before deciding on one since they do cost money to use on top of your sub. Most, if not all of these should come with free trials so you can see if they help your connection.
+
+After attempting to fix these issues with the above suggestions, the only thing you can really do without the use of illegal ToS breaking software, is adjust your rotation. Avoid Double Communio and focus on a rotation based more around priority spending of resources. This lessens the clipping you’ll see in burst windows. Using Shadow of Death mid-Enshroud and using it to weave Lemure Slice is also a very viable option. The longer GCD on Shadow of Death should help avoid clipping. Just make sure you’re not overcapping your Death’s Design timer to do this. 
+
+If you’re on a PC, and you’re okay with the morality issues of injection based programs, [QuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher) has a plug-in called [NoClippy](https://github.com/UnknownX7/NoClippy) that will help your clipping issue. This program will simulate a low ping environment specifically for the animation lock of combat actions. This will not actually lower your ping or make your connection to the servers any more stable than it already is or isn’t. The instructions on how to enable NoClippy are listed on the GitHub page. While I’ve not heard of anyone being punished by Square Enix for using programs like this, the reality of the situation is they could potentially endanger your service account. Please keep this in mind if you decide to use QuickLauncher and any plug-in associated with it.
+
+## \
+Next Level
 
 When you feel like you have mastered the basics of Reaper, head over the [Advanced Guide](https://www.thebalanceffxiv.com/jobs/melee/reaper/advanced-guide/) to learn how to play the job into raid buffs. The Advanced guide will cover a lot from Double Shroud windows to specific fight mapping tools!
-
-
 
 Special thanks to Moth Kira and Jackal for the infographs!
