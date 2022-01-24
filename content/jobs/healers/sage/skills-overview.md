@@ -49,6 +49,8 @@ changelog:
 |![](https://xivapi.com/i/003000/003685_hr1.png)| Krasis              | 86    | Ability | Instant   | 60s    | -       | Increases HP recovery done by healing actions for yourself or affected party member by 20% for ten seconds.                                                                                                                                                                                                                                |
 |![](https://xivapi.com/i/003000/003686_hr1.png)| Pneuma              | 90    | Spell   | 1.5s      | 120s   | 700     | Deals damage in a line with a potency of 330 for the first enemy and 40% less for all remaining enemies. Also an AoE heal with a potency of 600 and a radius of 25 yalms. Restores HP to targets under the effect of your Kardion for a heal potency of 170.                                                                               |
 
+&nbsp;
+
 # Healer Role Actions
 
 | Icon                                            | Action         | Level | Type    | MP  | Casting | Recast | Description                                                                                                                               |
