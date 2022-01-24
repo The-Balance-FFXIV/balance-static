@@ -1,6 +1,6 @@
 ---
 title: Reaper Leveling Guide
-card_header_image: /img/jobs/rpr/rprleveling.png
+card_header_image: /img/jobs/rpr/rpr-leveling.png
 authors:
   - Balance-RPR-Staff
 patch: "6.01"
