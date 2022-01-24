@@ -1,11 +1,13 @@
 ---
 title: Bard FAQ
 layout: qna
-patch: "5.58"
-lastmod: 2021-10-26T02:31:47.844Z
+patch: "6.0"
+lastmod: 2022-01-24T06:40:48.717Z
 changelog:
   - date: 2021-10-26T02:32:02.540Z
     message: Created page
+  - date: 2022-01-24T06:40:49.384Z
+    message: Endwalker update
 qna:
   - question: How does Repertoire work?
     answer: "While under a song, we get one 80% chance at a proc every three seconds
