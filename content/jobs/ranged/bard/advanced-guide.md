@@ -132,7 +132,7 @@ But you definitely want it to stay on time. Each GCD of drift means a 1 in 6 cha
 
 Moreover, if it drifts on top of your Radiant Finale + Battle Voice timing, you'll need to delay it another GCD. And once it's that far off the rails, you're due for more forced delays down the road.
 
-<drifting ea>
+![Drifting Ea](/img/jobs/brd/driftingea.png "Endwalker Bards' Mascot :)")
 
 So, you want to use Pitch Perfect at [two stacks](#pitch-perfect-2) if it's threatening your Empyreal Arrow timing. Also, don't be afraid to delay a GCD by one or two tenths of a second to fit EA in. When in doubt, hit the Empyreal button.
 
