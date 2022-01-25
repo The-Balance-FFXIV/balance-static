@@ -11,7 +11,7 @@ changelog:
 ---
 Hello! In this guide, you'll find a series of details and optimizations for Endwalker Bard. 
 
-This builds on the \[/jobs/ranged/bard/basic-guide](Bard Basics Guide), and expects you to be familiar with Bard's skills, general priorities, opener, and song cycle.
+This builds on the [Bard Basics Guide](/jobs/ranged/bard/basic-guide), and expects you to be familiar with Bard's skills, general priorities, opener, and song cycle.
 
 Topics are ordered based on some mix of importance and flow. It's a little all over the place, but such is the nature of a kit like Bard's.
 
@@ -341,7 +341,7 @@ It is a *very* small gain (5-9p / 1.5-3 dps depending on comp) at i600 to do a 4
 
 Under normal circumstances, a Warrior will be using at least a couple of its big auto-Crit+DH hits during that x:18-x:27 timespan. The Army's Paeon party passive does not affect this at all, so the Mage's buff is a bigger gain on those hits than usual.
 
-In order for this cycle to work out, you want a 2.49s GCD. The cycle mapping is at the far right of the \[cycles spreadsheet)[https://bit.ly/3Ij53Fu] (it works fine for extended cycles too). You can find the BiS set for 2.49s [here](https://etro.gg/gearset/28491a8f-2bed-43c9-9696-44e82fea3b00). 
+In order for this cycle to work out, you want a 2.49s GCD. The cycle mapping is at the far right of the [cycles spreadsheet](https://bit.ly/3Ij53Fu) (it works fine for extended cycles too). You can find the BiS set for 2.49s [here](https://etro.gg/gearset/28491a8f-2bed-43c9-9696-44e82fea3b00). 
 
 Due to the gear available, this set increases your raw damage vs. the 2.48 BiS by more than usual. As miniscule as substat gaps are, we're relating to an also-small 0.275%-ish party buff gap. So, there's an amplified effect.
 
