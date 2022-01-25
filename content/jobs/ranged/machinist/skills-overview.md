@@ -3,7 +3,7 @@ title: Machinist Skills Overview
 authors:
   - Balance-MCH-Staff
   - dook
-patch: "6.0"
+patch: "6.08"
 lastmod: 2022-01-01T05:10:31.753Z
 changelog:
   - date: 2021-10-25T22:02:55.843Z
@@ -18,9 +18,9 @@ changelog:
 | ![](https://xivapi.com/i/003000/003031_hr1.png) | Heated Split Shot | HS1          | 54    | Weaponskill | 2.5 seconds | The first skill in your main combo.  Delivers an attack with a potency of 200.  Generates 5 Heat. Upgraded from Split Shot.                                                                      |
 | ![](https://xivapi.com/i/003000/003032_hr1.png) | Heated Slug Shot  | HS2          | 60    | Weaponskill | 2.5 seconds | The second skill in your main combo. Delivers an attack with a combo potency of 280. Generates 5 Heat. Upgraded from Slug Shot.                                                                  |
 | ![](https://xivapi.com/i/003000/003033_hr1.png) | Heated Clean Shot | HS3          | 64    | Weaponskill | 2.5 seconds | The third skill in your main combo. Delivers an attack with a combo potency of 360. Generates 5 Heat and 10 Battery. Upgraded from Clean Shot.                                                   |
-| ![](https://xivapi.com/i/003000/003043_hr1.png) | Drill             | DR           | 58    | Weaponskill | 20 seconds  | Delivers an attack with a potency of 550.  Shares a recast timer with Bioblaster                                                                                                                 |
-| ![](https://xivapi.com/i/003000/003045_hr1.png) | Air Anchor        | AA           | 76    | Weaponskill | 40 seconds  | Delivers an attack with a potency of 550. Generates 20 Battery.                                                                                                                                  |
-| ![](https://xivapi.com/i/003000/003048_hr1.png) | Chain Saw         | CS           | 90    | Weaponskill | 60 seconds  | Delivers an attack with a potency of 550. Generates 20 Battery.                                                                                                                                  |
+| ![](https://xivapi.com/i/003000/003043_hr1.png) | Drill             | DR           | 58    | Weaponskill | 20 seconds  | Delivers an attack with a potency of 570.  Shares a recast timer with Bioblaster                                                                                                                 |
+| ![](https://xivapi.com/i/003000/003045_hr1.png) | Air Anchor        | AA           | 76    | Weaponskill | 40 seconds  | Delivers an attack with a potency of 570. Generates 20 Battery.                                                                                                                                  |
+| ![](https://xivapi.com/i/003000/003048_hr1.png) | Chain Saw         | CS           | 90    | Weaponskill | 60 seconds  | Delivers an attack with a potency of 570. Generates 20 Battery.                                                                                                                                  |
 | ![](https://xivapi.com/i/003000/003022_hr1.png) | Reassemble        | REA          | 10    | Ability     | 55 seconds  | Guarantees the next weaponskill is a critical direct hit. Can hold up to 2 stacks.                                                                                                               |
 | ![](https://xivapi.com/i/003000/003041_hr1.png) | Hypercharge       | HC           | 30    | Ability     | 10 seconds  | Enables the usage of Heat Blast. Buffs single-target weaponskills for the next 8 seconds. Costs 50 Heat.                                                                                         |
 | ![](https://xivapi.com/i/003000/003030_hr1.png) | Heat Blast        | HB           | 35    | Weaponskill | 1.5 seconds | Only usable under the effect of Hypercharge. Delivers an attack with a potency of 170. Reduces the cooldown of Gauss Round and Ricochet by 15 seconds each.                                      |
