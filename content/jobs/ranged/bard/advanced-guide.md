@@ -222,6 +222,10 @@ In the moment though, or if a fight is very new and not a lot is worked out for 
 * For longer downtimes, your party may be deviating from standard burst timings. Try to plan your songs to match that if you can.
 * Don't be afraid to change to a longer Mage's Ballad / shorter Army's Paeon, if it helps.
 
+
+
+![](/img/jobs/brd/brd-basic-job-guide.jpg)
+
 - - -
 
 # Miscellany
