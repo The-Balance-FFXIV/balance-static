@@ -11,7 +11,7 @@ changelog:
 ---
 Hello! In this guide, you'll find a series of details and optimizations for Endwalker Bard. 
 
-This builds on the [/jobs/ranged/bard/basic-guide](Bard Basics Guide), and expects you to be familiar with Bard's skills, general priorities, opener, and song cycle.
+This builds on the \[/jobs/ranged/bard/basic-guide](Bard Basics Guide), and expects you to be familiar with Bard's skills, general priorities, opener, and song cycle.
 
 Topics are ordered based on some mix of importance and flow. It's a little all over the place, but such is the nature of a kit like Bard's.
 
@@ -65,12 +65,12 @@ Then after your third GCD in WM, use Radiant Finale and then Battle Voice. The n
 
 During this time, you'll want your six GCDs to be:
 
-- Apex Arrow
-- Blast Arrow
-- A Barrage'd Refulgent Arrow
-- Burst Shot or Refulgent Arrow
-- Burst Shot or Refulgent Arrow
-- Iron Jaws
+* Apex Arrow
+* Blast Arrow
+* A Barrage'd Refulgent Arrow
+* Burst Shot or Refulgent Arrow
+* Burst Shot or Refulgent Arrow
+* Iron Jaws
 
 These can be in any order. But while learning, or progging, using the above as a rough go-to order can help make things easier. 
 
@@ -78,17 +78,17 @@ As always, don't Barrage if you have an RA proc already. Apex Arrow and Blast Ar
 
 As for oGCDs, you will have:
 
-- Barrage
-- Sidewinder
-- 3x Bloodletter
-- Empyreal Arrow
-- Pitch Perfects
+* Barrage
+* Sidewinder
+* 3x Bloodletter
+* Empyreal Arrow
+* Pitch Perfects
 
 Make sure to dump any remaining Pitch Perfect stacks in the last oGCD window, before buffs run out. You could also have a two-stack usage prior - this will be covered in [proc handling](#proc-handling) below.
 
 To put things together, an example of a two-minute burst sequence could look like this. Note **this is merely an example**, you will not have this exact sequence every time:
 
-
+![Bard 2-minute burst](/img/jobs/brd/brd_burst.png "Bard 2-minute burst")
 
 ## Proc handling
 
@@ -139,11 +139,11 @@ So, you want to use Pitch Perfect at [two stacks](#pitch-perfect-2) if it's thre
 The choice of a 2.48s GCD, and EA's placement in the burst setup, makes keeping EA in line as easy as possible.
 
 > Your second EA in the cycle will end up delayed a small bit by a GCD animation. But then your third, fourth, and fifth land deeper into the oGCD window. This is due to the 2.48s GCD bringing each post-EA GCD 0.12s closer to your EA.
-> 
+>
 > This means that on the sixth - where you want to weave AP+EA - you won't be delaying EA by very much to do this.
-> 
+>
 > The seventh EA (second in AP) can have a small delay if you didn't get a perfect AP. But that's okay, because the whole cycle will move along with it. The eighth should always be clear. 
-> 
+>
 > And then it will be ready after Raging Strikes once again. There's a chance of a small GCD clip there, but not enough of one to cause issues.
 
 You can find mappings of the GCD/song/EA cycles discussed in this guide (many later) here: [Endwalker Bard cycles](https://bit.ly/3Ij53Fu)
@@ -215,21 +215,17 @@ Fights will often have some pure downtime with nothing to target. There are so m
 When you get a chance between raid sessions, you can sit down with the timings and work out a plan. Or, look for some tips from The Balance or other trusted sources.
 
 In the moment though, or if a fight is very new and not a lot is worked out for it, here are some general tips:
- 
- - It's okay to be in Wanderer's Minuet for up to ~9-12 seconds of downtime. So long as you burn Pitch Perfect beforehand, you don't lose value unless you get 4+ procs while the boss is gone.
- 
- - It's also fine to be in Mage's Ballad for similar reasons. Oddly, Army's Paeon (once stacked) is the most costly song to be in for a short downtime.
- 
- - The extended 128s cycle is a good option to keep in mind. 
- 
- - For longer downtimes, your party may be deviating from standard burst timings. Try to plan your songs to match that if you can.
- 
- - Don't be afraid to change to a longer Mage's Ballad / shorter Army's Paeon, if it helps.
+
+* It's okay to be in Wanderer's Minuet for up to ~9-12 seconds of downtime. So long as you burn Pitch Perfect beforehand, you don't lose value unless you get 4+ procs while the boss is gone.
+* It's also fine to be in Mage's Ballad for similar reasons. Oddly, Army's Paeon (once stacked) is the most costly song to be in for a short downtime.
+* The extended 128s cycle is a good option to keep in mind. 
+* For longer downtimes, your party may be deviating from standard burst timings. Try to plan your songs to match that if you can.
+* Don't be afraid to change to a longer Mage's Ballad / shorter Army's Paeon, if it helps.
 
 - - -
 
 # Miscellany
- 
+
 ## End of a phase or fight
 
 As alluded to above, even if you don't have 80 gauge, it can be good to fire off Apex Arrow before a fight ends. A 60 gauge Apex is better than a Refulgent Arrow, and 45 gauge beats Burst Shot.
@@ -260,12 +256,10 @@ This is the one combat situation where macros can help us - targeting. You don't
 
 For The Warden's Paean, you can set it to a mouseover macro. 
 
-`
+`/ac "The Warden's Paean" <mo>
 /ac "The Warden's Paean" <mo>
 /ac "The Warden's Paean" <mo>
-/ac "The Warden's Paean" <mo>
-/micon "The Warden's Paean"
-`
+/micon "The Warden's Paean"`
 
 The `<mo>` stands for mouseover. You can hover someone on the party list, click your macro'd button or keybind, and it will use Warden's on that member. Listing the skill multiple times is just insurance to make sure it goes off. It's possibly more superstition than anything, but doesn't hurt.
 
@@ -273,12 +267,10 @@ For Nature's Minne, you can do a similar mouseover macro. Or, you can bind multi
 
 As an example, if your role sort (Character Config -> UI Settings -> Party List) puts tanks first, this will Minne the top tank on the list:
 
-`
+`/ac "Nature's Minne" <2>
 /ac "Nature's Minne" <2>
 /ac "Nature's Minne" <2>
-/ac "Nature's Minne" <2>
-/micon "Nature's Minne"
-`
+/micon "Nature's Minne"`
 
 The `<2>` targets the second person on the party list. You can have a macro like this for each tank, a mouseover macro, and a regular bind to use on yourself or someone else. 
 
@@ -335,18 +327,19 @@ You can ease yourself into this flexible burst a little bit. Start by moving you
 ## Long Mage's Ballad Cycle
 
 > **Disclaimer**: This relies on the specific nature of the 6.05 BiS set, and the i600 gear options available. If you are not BiS, or it's patch 6.2 or later and this hasn't been updated, disregard this section.
-
+>
 > **Disclaimer 2**: This is more of an academic note than a useful tip. The gain is less than direct hitting an extra auto-attack, for an unreasonable effort. It's mainly for the curious, and for any Mage's Ballad die-hards out there.
 
 If:
- - You're in a static with a Warrior, and
- - You can count on your party to consistently maintain uptime
+
+* You're in a static with a Warrior, and
+* You can count on your party to consistently maintain uptime
 
 It is a *very* small gain (5-9p / 1.5-3 dps depending on comp) at i600 to do a 42s Mage's Ballad and a 33s Army's Paeon instead of the norm. To repeat, this is less of a gain than direct hitting an extra auto-attack. 
 
 Under normal circumstances, a Warrior will be using at least a couple of its big auto-Crit+DH hits during that x:18-x:27 timespan. The Army's Paeon party passive does not affect this at all, so the Mage's buff is a bigger gain on those hits than usual.
 
-In order for this cycle to work out, you want a 2.49s GCD. The cycle mapping is at the far right of the [cycles spreadsheet)[https://bit.ly/3Ij53Fu] (it works fine for extended cycles too). You can find the BiS set for 2.49s [here](https://etro.gg/gearset/28491a8f-2bed-43c9-9696-44e82fea3b00). 
+In order for this cycle to work out, you want a 2.49s GCD. The cycle mapping is at the far right of the \[cycles spreadsheet)[https://bit.ly/3Ij53Fu] (it works fine for extended cycles too). You can find the BiS set for 2.49s [here](https://etro.gg/gearset/28491a8f-2bed-43c9-9696-44e82fea3b00). 
 
 Due to the gear available, this set increases your raw damage vs. the 2.48 BiS by more than usual. As miniscule as substat gaps are, we're relating to an also-small 0.275%-ish party buff gap. So, there's an amplified effect.
 
@@ -360,16 +353,16 @@ Again, all of this is very trivial. Without a Warrior (but with the 2.49 BiS), y
 
 # Credits
 
-Sana Cetonis [Mateus] - Primary author
+Sana Cetonis \[Mateus] - Primary author
 
-Verzell Varion [Adamantoise] - Theorycrafter
+Verzell Varion \[Adamantoise] - Theorycrafter
 
-Yumiya Nagatsuki [Behemoth] - Theorycrafter
+Yumiya Nagatsuki \[Behemoth] - Theorycrafter
 
-Elya Kura [Ragnarok] - Theorycrafter
+Elya Kura \[Ragnarok] - Theorycrafter
 
-Stephia Deleva [Goblin] - Contributor
+Stephia Deleva \[Goblin] - Contributor
 
-Khemi Nawilo [Behemoth] - Contributor
+Khemi Nawilo \[Behemoth] - Contributor
 
-Jisoo Choi [Lamia] - Contributor
+Jisoo Choi \[Lamia] - Contributor
