@@ -1,6 +1,6 @@
 ---
 title: Red Mage Basic Guide
-card_header_image: /img/jobs/rdm/basic.png
+card_header_image: /img/jobs/rdm/lanaresized.png
 authors:
   - lana
   - argen
