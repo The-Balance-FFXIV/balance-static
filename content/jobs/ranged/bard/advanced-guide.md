@@ -322,7 +322,9 @@ If you're prepared to wait as long as the 5th and 6th GCDs, that gives you three
 
 Giving yourself this room to react to the gauge on the fly means you can also move your MB Apex deadline back. Instead of aiming to Apex by 21-19 on the MB timer, you can wait as long as 15-13 if you're planning to do a flexible burst.
 
-Note that if you go into burst with a mind to wait on Apex, you'll want to also flex your Iron Jaws earlier. If possible (it won't always be), enough earlier to use an RA proc under buffs if it gives you one. 
+Note that if you go into burst with a mind to wait on Apex, you'll want to also flex your Iron Jaws earlier. If possible (it won't always be), enough earlier to use an RA proc under buffs if it gives you one.
+
+In the uncommon event that proc rng pushes your Barrage past the third GCD, avoid drifting it further (i.e. use Apex even if not at 100). Unless it's your last burst of the fight, in which case the drift won't have a chance to matter. 
 
 You can ease yourself into this flexible burst a little bit. Start by moving your deadline back to 18-16 seconds in MB, and give yourself until the third or fourth GCD to use Apex. This way you can keep Iron Jaws last or next-to-last. Then take the next step once you're used to doing that much.
 
