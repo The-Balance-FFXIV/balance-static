@@ -3,7 +3,8 @@ title: Warrior Skills Overview
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
-patch: "5.5"
+  - dook
+patch: "6.08"
 lastmod: 2021-10-27T08:05:10.198Z
 ---
 # Warrior Skills Overview
