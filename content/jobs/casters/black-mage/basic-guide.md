@@ -383,38 +383,6 @@ For this document, full names of spells, buffs, and abilities were used for clar
 * SpS/sps: Spellspeed
 * Pot: Main stat (Intelligence) potion, current strongest option is HQ Grade 6 Tincture of Intelligence
 
-## **FAQ**
-
-Q: What is the secondary stat/meld priority?
-
-A: SpS to comfort first and foremost. Probably around 1.3k SpS is where most people will start to find comfort for now, but if you want to run higher or lower SpS you will likely end up with a fairly comparable set. After that, for a high crit set it’s Crit > Det >= DH. For a high sps set, it’s SpS > Det >= DH > Crit
-
-Q: Do I need both Fire and Blizzard on my hotbars for Paradox?
-
-A: Technically no–when fulfilling the conditions for Paradox, both Fire and Blizzard are replaced on your hotbars with Paradox, and function the same. So you will only need one available (generally recommended to keep Fire over Blizzard). However, there are small use cases for Blizzard still, so it may be good to keep it available on your hotbars (if perhaps less easily accessible)
-
-Q: Why are there three High Fire II casts instead of two in the AoE rotation?
-
-A: Despite only needing the first cast to enter Astral Fire, and a second cast to get the Enhanced Flare buff, it’s marginally more potency per second to cast a third instead of going for Flares right away.
-
-Q: Is it okay to use a Thundercloud proc early if I need it for movement?
-
-A: If you have no other movement options in the given situation, using the proc early is better than losing out on the GCD entirely. However, try to plan better for next time you’re in the situation to have something available for movement, allowing you to use the Thundercloud proc with more proper timing.
-
-Q: How do I use Umbral Soul?
-
-A: Umbral Soul is a downtime spell, used to build up to and maintain Umbral Ice III with three Umbral Hearts. When you can actively hit a target, you should not be using Umbral Soul. Since it can only be used in Umbral Ice, you may need to Transpose from Astral Fire before you can use it.
-
-Q: Do I do anything to align with raid buffs/maximize damage dealt within raid buffs?
-
-A: Often it will be advantageous to align pot uses with the rest of the party. oGCD abilities if used roughly on cd will often keep some semblance of alignment naturally with other buffs. If you can spare a Xenoglossy (or two) for use in raid buffs that you won’t need elsewhere to help keep uptime, it’s a pretty reasonable consideration to do so. Otherwise, BLM will generally fit good spells within raid buffs regardless of alignment–prioritize uptime and solid rotational choices first and foremost.
-
-
-
-Q: If I have ~2.4k MP left and my Astral Fire timer is about to run out, do I use Fire to refresh the timer?
-
-A: On average it will be better to just prematurely Despair. Consider preemptively using Sharpast Paradox to get a Firestarter proc to use to refresh your timer, and/or see if you can utilize Triplecast and/or Swiftcast in order to finish your Astral Fire phase without dropping any casts.
-
 
 ## **Acknowledgements**
 
