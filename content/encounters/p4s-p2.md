@@ -107,23 +107,23 @@ This thorn will knockback from the center of the arena.
 
 **Akanthai: Act 1**
 
-Act 1 has two Fire IV thorns north and south, two Fire IV thorns east and west, and eight Thunder IV thorns at intercardinals in and out.
+Act 1 has two Fire IV thorns north and south, two Fire IV thorns east and west, and eight Thunder III thorns at intercardinals in and out.
 
 **Akanthai: Act 2**
 
-Act 2 has two Fire IV thorns north and south, two Fire IV thorns east and west, and four Thunder IV thorns at cardinal edges, though all of these are slightly offset. In addition, one tank or one healer will be tethered with Dark IV, a healer and a tank will be tethered with Fire III, two DPS will be tethered with Fire III, and two DPS will be tethered with Aero III.
+Act 2 has two Fire IV thorns north and south, two Fire IV thorns east and west, and four Thunder III thorns at cardinal edges, though all of these are slightly offset. In addition, one tank or one healer will be tethered with Dark IV, a healer and a tank will be tethered with Fire III, two DPS will be tethered with Fire III, and two DPS will be tethered with Aero III.
 
 **Akanthai: Act 3**
 
-Act 3 has four Thunder IV thorns on one edge east or west, four Thunder IV thorns on one edge on the opposite side, and one Water IV thorn in the middle of the arena.
+Act 3 has four Thunder III thorns on one edge east or west, four Thunder III thorns on one edge on the opposite side, and one Water IV thorn in the middle of the arena.
 
 **Akanthai: Act 4**
 
-Act 4 has four Thunder IV thorns at either cardinal or intercardinal edges and four Fire IV thorns at either intercardinal or cardinal edges. Four players will be tethered to the Thunder IV thorns with Water III, while four players will be tethered to the Fire IV thorns with Dark IV.
+Act 4 has four Thunder III thorns at either cardinal or intercardinal edges and four Fire IV thorns at either intercardinal or cardinal edges. Four players will be tethered to the Thunder III thorns with Water III, while four players will be tethered to the Fire IV thorns with Dark IV.
 
 **Akanthai: Finale**
 
-The Finale has eight Thunder IV thorns around the middle of the arena in a circle. In addition, there will be two thorns at opposite intercardinal edges which tethers four players of a role (tank/healer or DPS) with Aero III.
+The Finale has eight Thunder III thorns around the middle of the arena in a circle. In addition, there will be two thorns at opposite intercardinal edges which tethers four players of a role (tank/healer or DPS) with Aero III.
 
 **Akanthai: Curtain Call**
 
