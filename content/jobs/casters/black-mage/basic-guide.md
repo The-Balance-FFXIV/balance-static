@@ -21,11 +21,6 @@ By: Rika Vanih
 
 Black Mage is a caster specializing in high, steady personal damage in place of providing party buffs. The job maintains a cyclical flow of expending MP via long, powerful casts in Astral Fire then swapping to refresh MP in Umbral Ice. While the rotation itself is somewhat simple, utilizing its movement tools and the flexibility built into its rotation to their fullest is key to maintaining uptime and maximizing damage as a Black Mage.
 
-
-## **Table of Contents**
-
-[TOC]
-
 ## **Basic Concepts/Resources**
 
 **Astral Fire** grants a damage bonus to all fire-aspected spells while increasing their MP cost. Ice-aspected spells are 0MP cost in Astral Fire and deal less damage. At three stacks of Astral Fire, ice-aspected spell cast times are reduced by half. Astral Fire prevents MP regen, though things which grant MP directly like Manafont and Ethers still work.
