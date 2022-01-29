@@ -1,7 +1,7 @@
 ---
 title: Black Mage Changes
 layout: changes
-lastmod: 2022-01-11T23:35:28.174Z
+lastmod: 2022-01-29T17:34:50.728Z
 changes:
   - patch: "6.0"
     description: "[Click here to view all Endwalker changes on the Official
