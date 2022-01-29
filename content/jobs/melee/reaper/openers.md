@@ -4,10 +4,15 @@ authors:
   - Balance-RPR-Staff
 patch: "6.01"
 lastmod: 2022-01-01T04:45:45.748Z
+changelog:
+  - date: 2022-01-29T01:54:23.902Z
+    message: Updated Fast Shroud opener (Adjusted potion for better timing)
 ---
 ## Fast Enshroud Opener
 
 ![](/img/jobs/rpr/earlyshroud.png)
+
+
 [Full Size](https://www.thebalanceffxiv.com/img/jobs/rpr/earlyshroud.png)
 
 * Soul Sow pre-pull
@@ -16,8 +21,6 @@ lastmod: 2022-01-01T04:45:45.748Z
 
   * Arcane Circle as fast possible
 * Soul Slice
-
-
 * Soul Slice
 
   * Potion here if you are using potion in the opener
