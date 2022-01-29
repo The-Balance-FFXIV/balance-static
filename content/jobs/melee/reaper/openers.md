@@ -7,7 +7,7 @@ lastmod: 2022-01-01T04:45:45.748Z
 ---
 ## Fast Enshroud Opener
 
-![](/img/jobs/rpr/rpr_enshroud_opener.png)
+![](/img/jobs/rpr/earlyshroud.png)
 [Full Size](https://www.thebalanceffxiv.com/img/jobs/rpr/earlyshroud.png)
 
 * Soul Sow pre-pull
@@ -17,8 +17,10 @@ lastmod: 2022-01-01T04:45:45.748Z
   * Arcane Circle as fast possible
 * Soul Slice
 
-  * Potion here if you are using potion in the opener
+
 * Soul Slice
+
+  * Potion here if you are using potion in the opener
 * Plentiful Harvest
 
   * This will clip if you GCD is faster than 2.47 or you have high ping. If the clip here is bothersome or over a quarter of your GCD cast, use the Early Gluttony opener.
@@ -73,9 +75,5 @@ lastmod: 2022-01-01T04:45:45.748Z
 
   * Unveilled Gibbet
 * Gibbet
-
-
-
-
 
 Special thanks to Moth Kira and Jackal for the infographs!
