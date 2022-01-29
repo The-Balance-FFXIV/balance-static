@@ -10,39 +10,73 @@ lastmod: 2021-10-27T08:12:01.799Z
 
 ## Opener Optimization
 
-At present, there is only a single worthy opener for Warriors, mainly because we want to get Inner Release on cooldown as soon as possible to maximize its usage, and because we can fit an extra Fell Cleave inside the potion by abusing Inner Release’s +15s Eye extension mechanics.
+Assumed Timings
+* Tomahawk starts at -0.70s and the pull starts at 0.00s
+* Party buffs are expected to be up at around 7.80s
 
-#### IC IR IC IC Opener
+Skill Speed requirements
+* \>=2.47 or slower for skill-for-skill copy.
+* <=2.45 and faster may move oGCDs slightly.
 
-![IC IR IC IC Opener](https://cdn.discordapp.com/attachments/752334526449057853/884760228699189309/unknown.png)
+Potion
+* Potion is expected to cover 12 GCDs at these Skill Speeds.
+* Potion can cover 13 GCDs. Plan accordingly.
 
-IC IR IC IC opener takes advantage of the potion’s whole duration, landing in three Inner Chaos, two combo finishers, a Fell Cleave and all the important oGCDs.
+oGCDs
+* Upheaval and Onslaughts are used late to catch Party buffs. 
+* The expected timing for all buffs to be up is approximately 7.80s after Tomahawk lands.
 
-Nascent Flash makes sure that you’re using Inner Release in the second oGCD slot between GCDs, and that it lines up with Upheaval. You can use Nascent Flash later on if you wish to cover any fight damage that comes up a few GCDs later compared to the opener.
 
-If you are facepulling, move the Infuriate forward by a GCD, right after Heavy Swing.
+#### IC IR IC Opener
 
-Defiance and Tomahawk is enough to keep an enmity lead if you are main tanking. 
+![IC IR IC Opener](https://cdn.discordapp.com/attachments/583965306071023616/917968991706841108/unknown.png)
 
-Equilibrium and Provoke can be used during the opener for a flat increase in enmity if you are pulling the boss and will keep Main tanking the boss after the pull. As mentioned earlier, as of patch 5.0, Defiance and Tomahawk provides enough enmity and it is better to use Equilibrium for healing and Provoke for tank swaps.
+Catches party buffs, however the 2nd Inner Chaos is tight with Trick Attack.
+There's nothing special about this. This is your usual opener probably.
+
+#### IC IR IC Opener
+
+![IC IC IR Opener](https://cdn.discordapp.com/attachments/583965306071023616/917968991706841108/unknown.png)
+
+Catches party buffs, however the 2nd Inner Chaos is tight with Trick Attack.
+There's nothing special about this. This is your usual opener probably.
+
+#### Cursed Prepull IR Openers
+
+There are fights in which it may be worth it to use Inner Release before the pull starts.
+For some reason, we created the cursed Prepull IR openers, as an option to consider.
+
+**Do not use these**, unless you know the very specific circumstances under which you would want to use them.
+I expect you to do your own adjustments for any fight-specific needs. There is no support for these openers.
+
+The main reasoning for the opener is to get IR on cooldown faster, gaining extra uses before specific fight phases.
+An example of this would be a heavy-padding Zodiark Extreme, where the aim is to get Inner Release for the Orbs.
+
+Tightest of the tightest timers are:
+* IR at -9s
+* Potion at -1s
+* Pull at 0s
+
+[Version 1](https://cdn.discordapp.com/attachments/583965306071023616/925063725193527306/unknown.png)
+
+[Version 2](https://cdn.discordapp.com/attachments/583965306071023616/926221989377609798/unknown.png)
+
 
 ## Rotation Optimization
 
 The basic rotation in a 100% uptime scenario is, generously put, a priority list:
 
-* Keep Storm’s Eye up and refresh it below 15 seconds.
-* Keep Upheaval on cooldown.
-* Keep Inner Release on cooldown (fight-dependent).
-* Hit five Fell Cleaves, one Upheaval and one Onslaught inside every Inner Release
-* Don’t overcap the Beast Gauge.
-* As a rule of thumb, use Fell Cleave only after 70 Beast Gauge.
-* Use Storm’s Path to gain as much Beast Gauge as possible.
-* Aim to use Infuriate and Inner Chaoses inside party buffs.
-* Aim to keep Infuriate below two stacks at all times.
+* Keep the buff up. Generally refresh between 7 and 15 seconds
+* Don't overcap on buff
+* Storm's Path to gain more gauge
+* Don't overcap gauge
+* Keep Upheaval on cooldown
+* Keep Inner Release on cooldown
+* Keep Onslaughts ticking (below 3 stacks)
+* Keep Infuriate ticking (below 2 stacks)
+* Burn gauge/stacks inside party buffs
 
-The main goal for your rotation should be to maximize Storm’s Path casts and Storm’s Eye uptime.
-
-With the combo timer being extended to 15 seconds, combos can carry over Inner Release. This means that after using Heavy Swing or Maim, it is possible to fit five Fell Cleaves before continuing the combo. However, it is easy to drop the combo by using Inner Chaos or an extra Fell Cleave right before or after Inner Release.
+The main goal for your rotation should be to maximize Storm’s Path casts and Storm’s Eye uptime, while pushing most of the available resources inside party buffs.
 
 ## Further Reading
 
