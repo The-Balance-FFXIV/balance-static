@@ -12,6 +12,9 @@ changelog:
     message: Removed Dancer Dilemna section, due to no longer being required.
   - date: 2022-01-16T20:20:01.175Z
     message: Updated some headers and wording in a few sections.
+  - date: 2022-01-29T03:46:23.852Z
+    message: Updated Fast Shroud Opener, Assigning Values to Soul Shroud, Gluttony
+      and Two Target Prioritization
 ---
 ## Reaper Advanced Rotational Theory
 
@@ -100,13 +103,13 @@ Note: The Sequence of Gibbet / Gallows and Void / Cross Reaping are not a requir
 
 ### **Fast Enshroud Opener**
 
-![](/img/jobs/rpr/rpr_enshroud_opener.png)
+![](/img/jobs/rpr/earlyshroud.png)
 
 * Soul Sow Pre-pull
 * Harpe at two seconds on the countdown
 * Shadow of Death > Arcane Circle
+* Soul Slice 
 * Soul Slice >> Middle weave Potion (If you can’t at 2 minutes)
-* Soul Slice
 * Plentiful Harvest > Enshroud
 * Void Reaping
 * Cross Reaping > Lemure’s Slice
@@ -124,9 +127,7 @@ Let’s break apart this opener and discuss and explain a few things:
 * Where is the potion? 
 
   * Optimally, we would prefer not to use a potion in the opener but we will have to based on certain fight timings or mechanics. I will go more into the potion windows below.
-  * If you need to use a potion, you can use either 3s on pre-pull or weave it late after the first Soul Slice.
-
-    * Alternatively if you are able to double weave Arcane Circle and Potion without clipping your GCD it is possible to Shadow of Death twice at the start of the rotation and Arcane Circle + Potion after the second Shadow of Death. This will trade a Shadow of Death in potion for an Infernal Slice but will further delay damage into some raid buffs, which generally is a healthy trade.
+  * If you need to use a potion, you can use it after the second Soul Slice. If you do this it will catch your third Soul Slice the proceeding Unveiled Action and Gibbet or Gallows.
 * Why is Gluttony so late?
 
   * Moving it late means it captures more buffs at their tail end. Using it early may have us using it before buffs; using it later will get it and its Reaver spenders into more buffs.
@@ -570,38 +571,49 @@ This section will provide some insight on how we are valuing the Shroud and Soul
 
 Because both Soul and Shroud have GCD values tied to their resource usage, we need to establish what GCDs they are effectively “replacing”. The safest assumption will be our combo GCDs, so we need to establish an average there, which is 380 potency. 
 
-The first goal was to get a value for Shroud -- the bottom of the totem pole. 50 Shroud is the equivalent of one single Enshroud Window. An Enshroud window is 3,420 potency over 8.5 seconds. Unfortunately, 8.5 seconds isn’t really relatable to a 2.5s GCD, which is how we generate most of our resources. We can relate this by doing the following:
+Special thanks to june over on The Balance Discord for coming up with a better way to solve this equation:
 
-* 3,420 / 8.5 * 2.5 = 1005 potency per GCD
+For all of these equations Soul = X, Shroud = Y
 
-We then take that 1005 potency per GCD and figure how much it differs from our average GCD value, which is 380 potency. This gives 50 Shroud, a potency gain of 625, or 125 for 10 Shroud over 2.5s. If you are evaluating something against the whole duration of shroud these numbers change to 2125 for 50 shroud, and 425 per 10 shroud over 8.5 seconds.
+Shroud is 3420 potency over the course of 8.5 seconds. In order to best represent the GCD gain loss over the period of enshroud we need to examine how many GCDs we could have used within that shroud window, which at a 2.5 GCD is 3.4. With the aforementioned assumption that  a GCD is 380 potency plus the value of Soul we get the following equation for the value of 50 shroud:
 
-From here, we can examine the Soul Gauge. Soul Gauge has two parts. The first is the 400 potency Blood Stalk variant that we get, and the second is the 520 potency Gibbet / Gallows that follows. 520 potency is 140 potency over our normal GCD. Lastly, these GCDs give us 10 Shroud, which has a value of 125. The value of 50 Soul is then 400 + 140 + 125, or 665, which is 133 for 10 Soul. 
 
-From this, we have concluded the following:
 
-* 10 Soul = 133 Potency
-* 10 Shroud = 125 Potency
-* Adjusted average combo action = 380+133, 513 potency.
+50Y = 3420 - 3.4(380 + 10x)
 
-The applications for this value are limited, but it will assist us in performing napkin math in a vacuum. You can find an example of its usage in the next section.
+50Y = 2128 - 34x
+
+
+
+Next we can evaluate how much Soul is worth. This equation is slightly easier, If we assume that 50 Soul will give us a 400 potency OGCD (the Unveiled Actions) and a Gibbet or Gallow( a 520 potency GCD) we get the following equation. Note - The Gibbet or Gallows replaces a combo GCD Which would generate 10 soul aswell so they are removed from the equation:
+
+
+
+50X = 400 + 520 + 10Y - 380 - 10X
+
+60X = 540 +10Y
+
+
+
+The cross section of both X and Y using both of these equations can be identify by either using an Algebra Calculator, graphing them out or working out the formulas yourself. Regardless the answer is : 
+
+10 Soul = 144.55 Potency
+
+10 Shroud = 327.31 Potency
+
+
 
 - - -
 
 ## Assigning Value to Gluttony
 
-While it may not be super important to assign a potency value to Gluttony, it could potentially be useful for scenarios or quickly napkin-mathing situations. The best way to look at a Gluttony isn’t by itself, but as a replacement for a Bloodstalk variant. They both share the same cost but Blood Stalks are always available while Gluttony has a minute long cooldown. The differences are the following:
+While it may not be super important to assign a potency value to Gluttony, it could potentially be useful for scenarios or quickly napkin-mathing situations. The best way to look at a Gluttony isn’t by itself, but as a replacement for a Bloodstalk variant. They both share the same cost but Blood Stalks are always available while Gluttony has a minute long cooldown.  We can do this by using some bits and pieces of the equation about to piece things together:
 
-* +100 Potency
-* +1 Reaver GCD
+* Gluttony gains +100p over an unveiled action on use.
+* Gluttony provides an additional shroud building GCD or = 520 + 10Y - 380 -10X
 
-  * Compare combo GCD vs Reaver GCD
-
-    * Combo GCD = 513 potency on average (see above)
-    * Reaver GCD = 520 + 125 Potency
-    * +132 Potency on average in a vacuum
-
-With these assumptions, the actual value of Gluttony is 232 potency. 
+  * Since we have the values for X and Y we can plugin them into come up with a potency gain of 322.76, assuming we are able to utilize the shroud.
+* We can conclude, that if the shroud is used then Gluttony is gain of 422.76 potency. If we remove the resources from the equation to simulate losing a gluttony cast that would not gain a shroud or lose a soul spender we get that its gain is only 240 potency.
 
 - - -
 
@@ -624,11 +636,15 @@ Since we have worked out the value of an average combo GCD, we can work this out
 
 Now, let's break apart each situation and their potency gain.
 
-1. 300 (Shadow of Death) + 513 (Combo Action) + 1095 (Splash damage) = 1908
-2. 300 (Shadow of Death) + 300 (Shadow of Death) + 1095 (Splash damage) * 1.1 (Death's Design on splash target) + 133 (10 Extra Soul)  = 1937.5
-3. 100 \* 2 (Whorl of Death, two targets) + 513 (Combo Action) + 1095 (Splash damage) \* 1.1 +133 (10 Extra Soul)  = 2050.5
+1. 300 (Shadow of Death) + 525 (Combo Action) + 1095 (Splash damage) = 1920
+2. 300 (Shadow of Death) + 300 (Shadow of Death) + 1095 (Splash damage) * 1.1 (Death's Design on splash target) + 133 (10 Extra Soul)  = 1949.5
+3. 100 \* 2 (Whorl of Death, two targets) + 525 (Combo Action) + 1095 (Splash damage) \* 1.1 +133 (10 Extra Soul)  = 2062.5
 
 From this evaluation, we can see that situation #3 offers us the best result, as long as that extra combo action turns into potency later on down the line.
+
+
+
+Another situation to examine is if the two targets would both live and die with the buff which is a relatively easy solve. The extra 10 Soul gained on the WoD has an estimated value of 144.55 potency, while the potency lost is 100 when you WoD on two targets, this gain is furthered if you end up placing a single GCD on the second target.
 
 ![](/img/jobs/rpr/2021-12-07_00-02-00-559_almastudio_colorpop.png)
 
