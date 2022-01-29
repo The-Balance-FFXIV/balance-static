@@ -11,7 +11,7 @@ changelog:
 ---
 Hello! In this guide, you'll find a series of details and optimizations for Endwalker Bard. 
 
-This builds on the [Bard Basics Guide](/jobs/ranged/bard/basic-guide), and expects you to be familiar with Bard's skills, general priorities, opener, and song cycle.
+This builds on the [Bard Basic Guide](/jobs/ranged/bard/basic-guide), and expects you to be familiar with Bard's skills, general priorities, opener, and song cycle.
 
 Topics are ordered based on some mix of importance and flow. It's a little all over the place, but such is the nature of a kit like Bard's.
 
@@ -88,7 +88,7 @@ Make sure to dump any remaining Pitch Perfect stacks in the last oGCD window, be
 
 To put things together, an example of a two-minute burst sequence could look like this. Note **this is merely an example**, you will not have this exact sequence every time:
 
-[![Bard 2-minute burst](/img/jobs/brd/brd_burst.png "Bard 2-minute burst")](/img/jobs/brd/brd_burst.png "Bard 2-minute burst")
+![Bard 2-minute burst](/img/jobs/brd/brd_burst.png "Bard 2-minute burst")](/img/jobs/brd/brd_burst.png "Bard 2-minute burst")
 
 ## Proc handling
 
