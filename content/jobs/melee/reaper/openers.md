@@ -8,7 +8,7 @@ lastmod: 2022-01-01T04:45:45.748Z
 ## Fast Enshroud Opener
 
 ![](/img/jobs/rpr/rpr_enshroud_opener.png)
-[Full Size](https://www.thebalanceffxiv.com/img/jobs/rpr/rpr_enshroud_opener.png)
+[Full Size](https://www.thebalanceffxiv.com/img/jobs/rpr/earlyshroud.png)
 
 * Soul Sow pre-pull
 * Cast Harpe at 2s on the countdown
