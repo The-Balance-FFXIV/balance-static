@@ -34,8 +34,6 @@ Use Berserk, as it gives you more damage and there’s no downside to it. You’
 
 Raw Potency-wise, Overpower is equally effective at two targets before lvl 26. When you unlock the Storm’s Path (lvl26), that balance tips over to “Overpower at three targets and up”. You still want to use Overpower to initially grab packs of mobs in one hit, though.
 
-![](https://cdn.discordapp.com/attachments/458951851610734595/889189406823555102/unknown.png)
-
 Thrill of Battle (lvl30) is nice, as it acts as a re-fillable bubble. Use it to survive damage spikes.
 
 ---
@@ -48,11 +46,9 @@ Notable mentions are:
 * Inner Beast, the first resource spender on Warrior. Its potency is a little bit odd, as it’s lower than Storm’s Path.
 * Vengeance, an actual cooldown that defines the angry, spiky Warrior. It deals 55 potency worth damage for every instance of physical damage you suffer. Read the tooltip.
 * Mythril Tempest, our AoE combo action.
-* Steel Cyclone, the second resource spender on Warrior. It’s a 220 potency AoE skill. Nice in large pulls, but not something we aim to actively use.
+* Steel Cyclone, the second resource spender on Warrior. Nice in large pulls, but not something we aim to actively use.
 
 Lets see the earlier table, but this time add in the Mythril Tempest. Again, we’re doing raw potency, without Beast Gauge. This is just a leveling guide, not a 100% optimization guide.
-
-![](https://cdn.discordapp.com/attachments/458951851610734595/889189759115751444/unknown.png)
 
 Overpower and Mythril Tempest wins out the Storm’s Path combo at two targets. Again, this is without accounting for the lost Beast Gauge that each Storm’s Path combo would net us.
 
