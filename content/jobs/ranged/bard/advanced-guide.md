@@ -53,9 +53,11 @@ When done right, your first GCD will be ~0.7s into WM, giving you about a half s
 
 ## Skill sequence
 
-So, going into the two-minute mark, you'll late-weave Wanderer's Minuet. After your first GCD, double-weave Raging Strikes and then Empyreal Arrow. 
+So, going into the two-minute mark, you'll late-weave Wanderer's Minuet. 
 
-If you've kept on top of it, EA should come off of cooldown right on time here. And thanks to Army's Muse, even though you use Raging first here, you'll still be able to get nine GCDs buffed by it. 
+After your first GCD, double-weave Raging Strikes and then Empyreal Arrow. 
+
+If you've kept on top of it, EA should come off of cooldown right on time. And thanks to Army's Muse, even though you use Raging first here, you'll still be able to get nine GCDs buffed by it. 
 
 > Like with the five GCD Muse, you have some leeway here. Even if your ping causes a small GCD delay on your Muse double-weaves, in most cases it should be fine.
 
@@ -88,7 +90,7 @@ Make sure to dump any remaining Pitch Perfect stacks in the last oGCD window, be
 
 To put things together, an example of a two-minute burst sequence could look like this. Note **this is merely an example**, you will not have this exact sequence every time:
 
-![Bard 2-minute burst](/img/jobs/brd/brd_burst.png "Bard 2-minute burst")](/img/jobs/brd/brd_burst.png "Bard 2-minute burst")
+[![Bard 2-minute burst](/img/jobs/brd/brd_burst.png "Bard 2-minute burst")](/img/jobs/brd/brd_burst.png "Bard 2-minute burst")
 
 ## Proc handling
 
@@ -112,7 +114,7 @@ The best way to go about this is to set a "deadline" for your in-between uses. F
 
 This gives you a 97.67% chance to have 80+ gauge at the start of the burst window. And makes the odds of not being able to 80+ Apex under burst at all near-zero.
 
-You're free to use your between-burst Apex whenever the gauge hits 100, if it does so early. This only makes it even more likely to be fully charged for your burst. The only reason to hold it is if you have a Ninja (Trick Attack should go up before the deadline).
+You're free to use your between-burst Apex whenever the gauge hits 100, if it does so early. This is harmless - all it does is to make it even more likely to have full soul gauge for your burst. The only reason to hold it is if you have a Ninja (Trick Attack should go up before the deadline).
 
 > On your first cycle, the gauge is more likely to fill fast, because you get two bonus ticks at the very start of the fight. You may hit 100 with a lot of time left in Army's Paeon - sit it out anyway. Remember that the first cycle's gauge will not be the norm. This is a one-time cost to get two big hits under buffs for the whole fight.
 
@@ -146,21 +148,21 @@ The choice of a 2.48s GCD, and EA's placement in the burst setup, makes keeping 
 >
 > And then it will be ready after Raging Strikes once again. There's a chance of a small GCD clip there, but not enough of one to cause issues.
 
-You can find mappings of the GCD/song/EA cycles discussed in this guide (many later) here: [Endwalker Bard cycles](https://bit.ly/3Ij53Fu)
+You can find mappings of the GCD/song/EA cycles discussed in this guide here: [Endwalker Bard cycles](https://bit.ly/3Ij53Fu)
 
-As a bonus to this timing, it turns out that a second GCD late-weave EA is pretty good too. That means if you do mess up and drift one GCD, you can fall back on this plan without disaster. Late-weave Raging Strikes instead of RS+EA, then in the next window do BL+EA / or just a late EA. 
+As a bonus to using 2.48s, it turns out that a second GCD late-weave EA is pretty good too. That means if you do mess up and drift one GCD, you can fall back on this plan without disaster. Late-weave Raging Strikes instead of RS+EA, then in the next window do BL+EA / or just a late EA. 
 
-This backup timing won't lead to major delays later, but any more drifting will. On top of the initial cost of delaying EA, you also lose a buffed Bloodletter on one side of the [coin flip](#bloodletter-pooling). As some consolation, it recoups a bit by getting you out of EA+PP collisions.
+This backup timing won't lead to major delays later, but any more drifting will. On top of the initial cost of delaying EA, you also lose a buffed Bloodletter half the time. It does gain a bit back by getting you out of EA+PP collisions though, which is nice.
 
 ## Cycle Length
 
-The other reason for a 2.48s GCD is to keep the song cycle close to a clean 120 seconds. It doesn't have to be perfect, in practice most players drift by at least a fraction of a second. But you certainly don't want to be doing 121-121.5 second cycles every time.
+The other reason for a 2.48s GCD is to keep the song cycle close to a clean 120 seconds. It doesn't have to be perfect - in practice most players drift by at least a fraction of a second. But you certainly don't want to be doing 121-121.5 second cycles every time.
 
-51.2% of the time, you will get procs on your first three ticks in Army's Paeon. Adding in an Empyreal Arrow, this is a "perfect" AP, the fastest buildup you can get. Since this occurs a small majority of the time, it makes sense to plan for perfect APs - as long as imperfect APs don't cause issues. 
+51.2% of the time, you will get procs on your first three ticks in Army's Paeon. Adding in an Empyreal Arrow, this is a "perfect" AP, the fastest buildup you can get. Since this occurs a small majority of the time, it makes sense to plan for perfect APs (so long as imperfect APs don't cause issues). 
 
 A 2.48s GCD keeps a tidy 120.15s cycle on perfect AP, a touch longer in reality due to frame delay. Longer APs shift everything cleanly, including the EA mentioned before.
 
-A 2.47s GCD (523-546 Skill Speed) with AP still going to 2.08, gives you the best chance to stick as close to 120s as possible. However, this is not an efficient use of substat points. You'd be adding SkS to not even affect over a third of your cycle.
+A 2.47s GCD (523-546 Skill Speed) with AP still going to 2.08, gives you the best chance to stick as close to 120s as possible. However, this is not an efficient use of substat points. You'd be adding SkS to not even affect over a third of your cycle, since the AP/Muse GCD would not change.
 
 - - -
 
@@ -202,11 +204,11 @@ You can see this mapped out on the [Endwalker Bard cycles sheet](https://bit.ly/
 
 ## 60-Second Burst Delays
 
-Delaying a burst for a full minute, barring downtime getting involved, is much easier. Since you can't get it into WM, you just hold all your two-minute skills and burst in Mage's Ballad.
+Delaying a burst for a full minute, barring downtime getting involved, is much easier. Since you can't get it into WM, you just hold all your two-minute skills and burst in Mage's Ballad. You should catch the AP+EA transition at the tail end.
 
-You'll still have almost everything you have in a two-minute burst. The only major loss is that you downgrade your song procs. 
+You'll still have almost everything you get in a two-minute burst. Apex Arrow, Blast Arrow, Iron Jaws, Sidewinder, Barrage and so on. The only major loss is that you downgrade your song procs. 
 
-Even if that feels bad, remember that if your party wants to odd-minute burst, there's a reason. The party-wide gains should far outweigh your loss of Pitch Perfects under buffs. 
+That feels bad, but remember that if your party wants to odd-minute burst, there's a reason. The party-wide gains should far outweigh your loss of Pitch Perfects under buffs. 
 
 ## Downtime song handling
 
@@ -238,7 +240,7 @@ As for low-HP adds, and whether to DoT them at all, Stormbite needs six ticks (1
 
 ## Death recovery
 
-Deaths on Bard can be very punishing. There's only so much you can do to recover, but here are some general tips.
+Deaths on Bard can be very punishing. There's only so much you can do to recover, but here are some general tips -
 
 If you did not miss a song application while you were dead, you don't have much choice. Get your next song up when it's available / when you'd use it normally. 
 
@@ -258,20 +260,20 @@ This is the one combat situation where macros can help us - targeting. You don't
 
 For The Warden's Paean, you can set it to a mouseover macro. 
 
-`/ac "The Warden's Paean" <mo>
-/ac "The Warden's Paean" <mo>
-/ac "The Warden's Paean" <mo>
+`/ac "The Warden's Paean" <mo>  
+/ac "The Warden's Paean" <mo>  
+/ac "The Warden's Paean" <mo>  
 /micon "The Warden's Paean"`
 
 The `<mo>` stands for mouseover. You can hover someone on the party list, click your macro'd button or keybind, and it will use Warden's on that member. Listing the skill multiple times is just insurance to make sure it goes off. It's possibly more superstition than anything, but doesn't hurt.
 
-For Nature's Minne, you can do a similar mouseover macro. Or, you can bind multiple macros for specific common targets like tanks. (or, do both) This is what's going on when you see a Bard that has four to six Minne buttons on their bar.
+For Nature's Minne, you can do a similar mouseover macro. Or, you can bind multiple macros for specific common targets like tanks (or, do both). This is what's going on when you see a Bard that has four to six Minne buttons on their bar.
 
 As an example, if your role sort (Character Config -> UI Settings -> Party List) puts tanks first, this will Minne the top tank on the list:
 
-`/ac "Nature's Minne" <2>
-/ac "Nature's Minne" <2>
-/ac "Nature's Minne" <2>
+`/ac "Nature's Minne" <2>  
+/ac "Nature's Minne" <2>  
+/ac "Nature's Minne" <2>  
 /micon "Nature's Minne"`
 
 The `<2>` targets the second person on the party list. You can have a macro like this for each tank, a mouseover macro, and a regular bind to use on yourself or someone else. 
@@ -300,33 +302,33 @@ It's typically a gain to use Iron Jaws one GCD early in your burst, or in AP. Th
 
 If you corner yourself into using IJ as your last GCD, you don't get to use an RA proc if you get one on the Burst Shot before. You must IJ and risk an overwrite. Of course if you have RA as your next-to-last GCD, use that and then IJ after as usual.
 
-This is a very small gain - so much so that it's not worth doing this in Mage's Ballad and cutting out a buffed DoT tick. It's a bit bigger mid-burst though, since the RA you're looking to gain will have buffs.
+This is a very small gain - so much so that it's not worth doing this in Mage's Ballad, as it would cut a buffed DoT tick. It's a bit more of a gain mid-burst though, since the RA you're hoping for will have buffs.
 
 Note that sometimes (usually due to a [30-second burst delay](#30-Second-Burst-Delays)) you can't afford to use Iron Jaws early.
 
 There's also an added edge case, if your target is leaving or dying within ~30 seconds of your burst. In such a situation, it's free to use Iron Jaws as early as possible under buffs to get more buffed ticks. 
 
-## Delayed Empyreal Arrow
-
-If you remember from [earlier](#Empyreal-Arrow), one GCD of EA drift makes it a late-weave in the GCD after Raging Strikes. This has a benefit - it gets the EA timing off of your song tick, so you won't be forced into two-stack Pitch Perfects.  
-
-The risk of losing an EA use is worse than the upside, in a vacuum. It's also a loss if you're on the 4x Bloodletter side of the [coin flip](#Bloodletter-pooling). 
-
-Still, if you know it won't cost a use (due to i.e. the boss leaving soon), and you're on the 3x Bloodletter coin flip, you can delay EA here for potential gain.
-
 ## Maximizing Soul Gauge
 
 You can minimize soul gauge waste by being willing to use Apex Arrow and Blast Arrow deep into your burst window. 
 
-If you're prepared to wait as long as the 5th and 6th GCDs, that gives you three song ticks to flex around. Use Apex as soon as buffs go up if you're at 100 already. Go into buffs with 70 gauge and get the last two procs mid-burst before Apex+Blast. Sit on Apex at 90 for a couple ticks, holding out for 100.
+If you're prepared to wait as long as the 5th and 6th GCDs, that gives you three song ticks to flex around. You can use Apex at the start of buffs if you're at 100 already. You could go in with 70 gauge and get the last two procs mid-burst before Apex+Blast. Or you could sit on Apex at 90 for a couple ticks, holding out for 100.
 
 Giving yourself this room to react to the gauge on the fly means you can also move your MB Apex deadline back. Instead of aiming to Apex by 21-19 on the MB timer, you can wait as long as 15-13 if you're planning to do a flexible burst.
 
 Note that if you go into burst with a mind to wait on Apex, you'll want to also flex your Iron Jaws earlier. If possible (it won't always be), enough earlier to use an RA proc under buffs if it gives you one.
 
-In the uncommon event that proc rng pushes your Barrage past the third GCD, avoid drifting it further (i.e. use Apex even if not at 100). Unless it's your last burst of the fight, in which case the drift won't have a chance to matter. 
+In the uncommon event that proc rng pushes your Barrage past the third GCD, avoid drifting it further. This may mean using Apex even if not at 100. Though if it's your last burst of the fight, Barrage drift won't have a chance to matter, so don't worry about it then. 
 
 You can ease yourself into this flexible burst a little bit. Start by moving your deadline back to 18-16 seconds in MB, and give yourself until the third or fourth GCD to use Apex. This way you can keep Iron Jaws last or next-to-last. Then take the next step once you're used to doing that much.
+
+## Delayed Empyreal Arrow
+
+If you remember from [earlier](#Empyreal-Arrow), one GCD of EA drift makes it a late-weave in the GCD after Raging Strikes. This has a benefit - it gets the EA timing off of your song tick, so you won't be forced into two-stack Pitch Perfects.  
+
+The risk of losing an EA use is worse than the upside, in a vacuum. It's also a loss if you're on the 4x Bloodletter side of the BL cooldown coin flip. 
+
+Still, if you know it won't cost a use (due to i.e. the boss leaving soon), and you're on the 3x Bloodletter coin flip, you can delay EA here for potential gain.
 
 ## Long Mage's Ballad Cycle
 
