@@ -2,7 +2,8 @@
 title: Dark Knight Skills Overview
 authors:
   - nikroulah
-patch: "5.5"
+  - dook
+patch: "6.08"
 lastmod: 2021-10-27T17:34:19.148Z
 changelog:
   - date: 2021-10-27T17:34:49.525Z
