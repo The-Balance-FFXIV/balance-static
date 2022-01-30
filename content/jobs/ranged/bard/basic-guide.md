@@ -24,8 +24,8 @@ If you're looking for such information, you may find it in one of the dedicated 
 - [Gearing](/jobs/ranged/bard/best-in-slot)
 - [Frequently Asked Questions](/jobs/ranged/bard/faq/)
 - [Opener](/jobs/ranged/bard/openers/)
-- **Advanced Guide** (not yet available, some topics in FAQ)
-- **Fight-Specific Tips** (not yet available)
+- [Advanced Guide](/jobs/ranged/bard/advanced-guide/)
+- [Fight-Specific Tips (google doc)](https://docs.google.com/document/d/1l3X2PB5hAqTNBLKKTfkkOfCsNExhPSvAi1Aqgh09HHI/)
 
 (Note: These pages will be added or updated over time.)
 
@@ -265,6 +265,10 @@ In text form:
   - Empyreal Arrow
 - Iron Jaws
   - Pitch Perfect
+
+## Two-minute burst
+
+After the opener, you'll have a large burst window at the start of Wanderer's Minuet every two minutes. There's a lot of related bits to cover, so check out the [Advanced Guide](/jobs/ranged/bard/advanced-guide/) for details on how best to handle this window.
 
 - - -
 
