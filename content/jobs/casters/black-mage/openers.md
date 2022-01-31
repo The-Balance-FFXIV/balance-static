@@ -12,9 +12,9 @@ changelog:
 ---
 # Openers
 
-Openers should put abilities on cooldown, fit strong spells within buff windows, and minimize clipping. All openers assume there is a pull countdown and the boss is pulled at 0. If your group pulls earlier, adjust them as necessary. Use the highest tier Tincture / Infusion / Potion of Intelligence available.
+Openers should put abilities on cooldown, fit strong spells within buff windows, and minimize clipping. All openers assume there is a pull countdown and the boss is pulled at zero. If your group pulls earlier, adjust them as necessary. Use the highest tier Tincture / Infusion / Potion of Intelligence available.
 
-With all openers being very close in estimated output over the course of the entire encounter, it is instead recommended to choose your opener based on your current spellspeed, with consideration towards potential fight-specific requirements.
+With all openers being very close in estimated output over the course of the entire encounter, it is instead recommended to choose your opener based on your current spell speed, with consideration towards potential fight-specific requirements.
 
 ## **Fire III Opener**
 
@@ -25,7 +25,7 @@ The standard opener for BLM. Sharpcast used around 12 seconds prepull (though us
 
 Note that the initial Triplecast is intentionally clipped in this opener, to allow for weaving opportunities. The Xenoglossy and Thundercloud proc at the end of the opener are used to catch the potion and other raid buffs before they fall off.
 
-When newer to a fight, or otherwise know that Triplecast may be needed for movement within the first minute, it can be useful to push the first Triplecast usage back one GCD and save the extra use, as so:
+When newer to a fight, or otherwise know that Triplecast may be needed for movement within the first minute, it can be useful to push the first Triplecast usage back 1 GCD and save the extra use, as so:
 
 ![](/img/jobs/blm/blm_opener_variant.png)
 
