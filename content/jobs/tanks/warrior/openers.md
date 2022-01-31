@@ -3,8 +3,11 @@ title: Warrior Openers
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
-patch: "5.5"
-lastmod: 2021-10-27T08:12:01.799Z
+patch: "6.08"
+lastmod: 2022-01-31T07:37:24.161Z
+changelog:
+  - date: 2022-01-31T07:37:24.695Z
+    message: Updated for Endwalker
 ---
 # Warrior Openers and Rotation
 
@@ -31,26 +34,16 @@ oGCDs
 
 ![IC IR IC Opener](https://cdn.discordapp.com/attachments/583965306071023616/917968991706841108/unknown.png)
 
-Catches party buffs, however the 2nd Inner Chaos is tight with Trick Attack.
-There's nothing special about this. This is your usual opener probably.
-
-#### IC IR IC Opener
-
-![IC IC IR Opener](https://cdn.discordapp.com/attachments/583965306071023616/917968991706841108/unknown.png)
-
-Catches party buffs, however the 2nd Inner Chaos is tight with Trick Attack.
-There's nothing special about this. This is your usual opener probably.
+Catches party buffs, however the second Inner Chaos is tight with Trick Attack. There's nothing special about this. This is your usual opener, probably.
 
 #### Cursed Prepull IR Openers
 
 There are fights in which it may be worth it to use Inner Release before the pull starts.
 For some reason, we created the cursed Prepull IR openers, as an option to consider.
 
-**Do not use these**, unless you know the very specific circumstances under which you would want to use them.
-I expect you to do your own adjustments for any fight-specific needs. There is no support for these openers.
+**Do not use these**, unless you know the very specific circumstances under which you would want to use them. I expect you to do your own adjustments for any fight-specific needs. There is no support provided for these openers.
 
-The main reasoning for the opener is to get IR on cooldown faster, gaining extra uses before specific fight phases.
-An example of this would be a heavy-padding Zodiark Extreme, where the aim is to get Inner Release for the Orbs.
+The main reasoning for the opener is to get IR on cooldown faster, gaining extra uses before specific fight phases. An example of this would be a heavy-padding Zodiark Extreme, where the aim is to get Inner Release for the Orbs.
 
 Tightest of the tightest timers are:
 * IR at -9s
@@ -66,14 +59,14 @@ Tightest of the tightest timers are:
 
 The basic rotation in a 100% uptime scenario is, generously put, a priority list:
 
-* Keep the buff up. Generally refresh between 7 and 15 seconds
+* Keep the buff up. Generally refresh between seven and 15 seconds
 * Don't overcap on buff
 * Storm's Path to gain more gauge
 * Don't overcap gauge
 * Keep Upheaval on cooldown
 * Keep Inner Release on cooldown
-* Keep Onslaughts ticking (below 3 stacks)
-* Keep Infuriate ticking (below 2 stacks)
+* Keep Onslaughts ticking (below three stacks)
+* Keep Infuriate ticking (below two stacks)
 * Burn gauge/stacks inside party buffs
 
 The main goal for your rotation should be to maximize Storm’s Path casts and Storm’s Eye uptime, while pushing most of the available resources inside party buffs.
