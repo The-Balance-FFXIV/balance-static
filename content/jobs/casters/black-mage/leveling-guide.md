@@ -15,24 +15,24 @@ changelog:
 # Single Target Leveling Rotation
 
 ## Sub Level 35
- F1 spam > Transpose > B1 until max MP > Transpose > repeat
+Fire I (F1) spam > Transpose > Blizzard I (B1) until max MP > Transpose > repeat
 
-Refresh T1 as necessary.
+Refresh Thunder I (T1) as necessary.
 
 ## Level 35-59
-B3 > optional B1 for MP tick > T3/T1 > F3 > F1 spam until low mp > repeat
+Blizzard III (B3) > optional B1 for MP tick > Thunder III (T3)/T1 > Fire III (F3) > F1 spam until low MP > repeat
 
-Use F3p as you get them, but don't cancel casts to use procs. Use T3ps when DoT ran out. Use B4 instead of B1 when you get it.
+Use your Fire III proc (F3P) as you get them, but don't cancel casts to use procs. Use T3Ps when DoTs run out. Use Blizzard IV (B4) instead of B1 when you get it.
 
 ## Level 60-71
-B3 > B4 > T3 > F3 > F4 > F4 > F4 > F1 > F4 > F4 > F4 > repeat
+B3 > B4 > T3 > F3 > Fire IV (F4) > F4 > F4 > F1 > F4 > F4 > F4 > repeat
 
 Use Foul whenever.
 
 ## Level 72-89
 B3 > B4 > T3 > F3 > F4 > F4 > F4 > F1 > F4 > F4 > F4 > Despair > repeat
 
-Use Foul whenever. Use Xeno, instead of Foul, when you get it at level 80. 
+Use Foul whenever. Use Xenoglossy (Xeno) instead of Foul when you get it at level 80. 
 
 ## Level 90
 B3 > B4 > T3 > Paradox > F3 > F4 > F4 > F4 > Paradox > F4 > F4 > F4 > Despair > repeat
@@ -45,7 +45,7 @@ See [the main guide](/jobs/casters/black-mage/basic-guide/#single-target-rotatio
 
 ## Level 12-19
 
-Unironically spam B2
+Spam Blizzard II (B2).
 
 ## Level 20-39
 B2 > until full MP > F2 > F2 > F2 > F2 > repeat
@@ -65,12 +65,12 @@ Use a second Freeze if you don't have to refresh T2.
 ## Level 58-81
 B2 > Freeze > F2 > F2 > F2 > Flare > Flare > repeat
 
-Use T2/T4 or Foul as needed. Skip an F2 if things die quickly or you want to use Triple.
+Use T2/Thunder IV (T4) or Foul as needed. Skip a F2 if things die quickly or you want to use Triplecast.
 
 ## Level 82-90
-HB2 > Freeze > HF2 > HF2 > HF2 > Flare > Flare > repeat
+High Blizzard II (HB2) > Freeze > High Fire II (HB2) > HF2 > HF2 > Flare > Flare > repeat
 
-Use T4 or Foul as needed. Skip an HF2 if things die quickly or you want to use Triple
+Use T4 or Foul as needed. Skip an HF2 if things die quickly or you want to use Triplecast.
 
 See [the AoE section of the main guide](/jobs/casters/black-mage/basic-guide/#aoe-rotation-3-targets) for a better explanation.
 
