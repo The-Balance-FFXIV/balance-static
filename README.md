@@ -7,7 +7,7 @@ Make sure you have [hugo extended](https://gohugo.io/getting-started/installing/
 
 ```sh
 # Clone the repository
-git clone --recursive https://github.com/The-Balance-FFXIV/glam.git
+git clone --recursive https://github.com/The-Balance-FFXIV/balance-static.git
 
 # Navigate into it
 cd ./glam/
