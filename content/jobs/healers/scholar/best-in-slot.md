@@ -12,10 +12,10 @@ bis:
   - type: etro
     description: |-
       * Safe to run in any environment.  
-      * A ton of extra mp for those who don't care about optimizing
+      * A ton of extra MP for those who don't care about optimizing
       * Gives a good Chain and Bio alignment
       * 2.50 GCD
-    name: 2.50 Hi Pi Set
+    name: 2.50 High Piety Set
     link: https://etro.gg/gearset/30122448-70c8-421c-bd8c-820e2905858b
   - type: etro
     description: |-
@@ -23,26 +23,26 @@ bis:
       * Perfect for those with no interest in optimizing or a fear of PF.
       * Gives a good Chain alignment, but a poor Bio alignment
       * 2.41 GCD
-    name: 2.41 Mid Pi Set
+    name: 2.41 Mid Piety Set
     link: https://etro.gg/gearset/f1802c19-d766-40f0-b781-f5b965cb964e
   - type: etro
     description: |-
-      * Be careful using in unoptimized enviorments 
+      * Be careful using in unoptimized environments 
       * Has extra piety for reclears, works well with good mana fundamentals
       * Gives perfect Chain alignment, but poor Bio alignment
       * 2.40 GCD
-    name: 2.40 Lo Pi Set
+    name: 2.40 Low Piety Set
     link: https://etro.gg/gearset/ff3ffc7a-e28c-45bf-a310-a8d8496f8ebf
   - type: etro
     description: >-
-      * DO NOT USE IN UNOPTIMZED ENVIRONMENT
+      * DO NOT USE IN UNOPTIMZED ENVIRONMENTS
 
       * This set has slightly lower average damage than the SpS BiS but higher variance due to a higher amount of Crit and DH. This may be of value to you if you're a parser or speedrunner looking exclusively for high roll runs.
 
       * Gives perfect Chain alignment, but poor Bio alignment
 
       * 2.40 GCD
-    name: 2.40 Min Pi Crit BiS
+    name: 2.40 Min Piety Crit BiS
     link: " https://etro.gg/gearset/7942af0b-011a-4719-85e9-e5f64d6c07f5"
   - type: etro
     description: >-
@@ -53,7 +53,7 @@ bis:
       * Gives good Chain and Bio alignment
 
       * 2.32 GCD
-    name: 2.32 Min Pi SpS BiS
+    name: 2.32 Min Piety SpS BiS
     link: https://etro.gg/gearset/848869dc-ea7b-42e0-a0a5-1bfdeae8d7e2
 authors:
   - Balance-SCH-Staff
