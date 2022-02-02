@@ -1,11 +1,13 @@
 ---
 title: Warrior Best in Slot (BiS)
 layout: bis
-patch: "5.4"
-lastmod: 2021-10-27T07:17:24.419Z
+patch: "6.08"
+lastmod: 2022-02-02T23:35:33.944Z
 changelog:
   - date: 2021-10-27T07:22:13.566Z
     message: Lists added
+  - date: 2022-02-02T23:35:34.677Z
+    message: Updated for Endwalker.
 bis:
   - type: etro
     description: Speedy option for those looking to play other tanks with the same gear.
