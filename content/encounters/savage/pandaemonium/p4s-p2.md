@@ -7,7 +7,7 @@ tier_image: /img/encounters/savage/pandaemonium/p4-2.png
 encounter_category: savage
 tier_name: Pandaemonium
 series_name: Pandaemonium Series
-weight: 5
+weight: 1
 tier_weight: 1
 coming_soon: false
 spoiler: false
