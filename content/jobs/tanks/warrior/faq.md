@@ -1,18 +1,14 @@
 ---
 title: Warrior FAQ
 layout: qna
-patch: "5.4"
-lastmod: 2021-10-27T07:26:59.586Z
+patch: "6.08"
+lastmod: 2022-02-02T23:35:54.058Z
 changelog:
   - date: 2021-10-27T07:27:07.049Z
-    message: Added
+    message: Added page.
+  - date: 2022-02-02T23:35:58.678Z
+    message: Updated for Endwalker.
 qna:
-  - question: How do I relic?
-    answer: |-
-      * Cap Crit, cap Det
-      * Check if you can replace any SkS melds in your gear with Det
-      * Get any missing SkS through relic
-      * Fill the rest of the relic with TNC
   - question: What is wrong with my log? How do I improve?
     answer: >-
       First you check IR windows, just toss the log into XIVA and see what it
@@ -28,11 +24,13 @@ qna:
       Next thing I like to check is how your IR aligns with raid buffs. You can do this by doing the same thing as above, but clicking the IR icon once instead. On the right hand side, it'll show which buffs were active when you landed your attacks. 
 
 
-      Last thing I like to do, and this is the thing people hate doing, is go to "Casts -> Timelines" to check for errors in the rotation. Is Dye refreshed properly? Are Upheavals and ICs going in Trick? Do you lose Path casts? Too many Onslaughts? 
+      Last thing I like to do, and this is the thing people hate doing, is go to "Casts -> Timelines" to check for errors in the rotation. Is Eye refreshed properly? Are Upheavals and ICs going in Trick? Do you lose Path casts? Too many Onslaughts?
   - question: How do I play WAR?
     answer: "[The 6.x Guide](/jobs/tanks/warrior/basic-guide/)"
   - question: What do I meld?
     answer: Check the [Stat Priority](/jobs/tanks/warrior/stat-priority/) page!
+authors:
+  - Balance-WAR-Staff
 ---
 > *Lvl70: Single Target vs AoE (Two Targets)?*
 
