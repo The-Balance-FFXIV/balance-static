@@ -12,6 +12,13 @@ tier_weight: 1
 coming_soon: false
 spoiler: false
 expansion: ew
+authors:
+  - lyra
+lastmod: 2022-01-05T17:28:46.845Z
+patch: "6.05"
+changelog:
+  - date: 2022-01-05T21:23:01.622Z
+    message: Created page
 aliases:
   - /encounters/savage/pandaemonium/p1s/
   - /encounters/pandaemonium/p1s/
