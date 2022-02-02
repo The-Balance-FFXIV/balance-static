@@ -1,16 +1,16 @@
 ---
 title: "Asphodelos: The Fourth Circle (Savage) Phase Two"
 fight_title: p4s-p2
-banner_image: /img/encounters/savage/pandaemonium/p4-2-banner.png
-card_image: /img/encounters/savage/pandaemonium/p4-2.png
-tier_image: /img/encounters/savage/pandaemonium/p4-2.png
 encounter_category: savage
-tier_name: Pandaemonium
+card_image: /img/encounters/p4sp2crop.png
+banner_image: /img/encounters/p4sp2crop2.png
+tier_image: /img/encounters/p4sp2crop.png
+tier_name: Asphodelos
 series_name: Pandaemonium Series
-weight: 1
+weight: 0
 tier_weight: 1
 coming_soon: false
-spoiler: false
+spoilers: false
 expansion: ew
 authors:
   - lyra
@@ -19,12 +19,13 @@ patch: "6.05"
 changelog:
   - date: 2022-01-10T09:16:06.704Z
     message: Created page
-aliases:
-  - /encounters/savage/pandaemonium/p4s-p2/
-  - /encounters/pandaemonium/p4s-p2/
-  - /encounters/p4s-p2/
+menu:
+  main:
+    identifier: p4s-p2
+    name: "Asphodelos: The Fourth Circle (Savage) Phase Two"
+    weight: 5
+    parent: encounters
 ---
-
 ## Introduction
 
 This guide aims to provide tips and strategies for defeating Hesperos's second form in Asphodelos: The Fourth Circle (Savage).
