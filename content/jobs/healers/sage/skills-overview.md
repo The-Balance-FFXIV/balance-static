@@ -2,7 +2,7 @@
 title: Sage Skills
 authors:
   - Laille-Ormesaing
-patch: "6.05"
+patch: "6.08"
 lastmod: 2022-01-24T08:38:35.096Z
 changelog:
   - date: 2022-01-24T08:39:05.371Z
