@@ -12,4 +12,6 @@ changelog:
 ---
 # Opener
 
+![GNB Opener](/img/jobs/gnb/gnbopener.jpg "GNB Opener")
+
 [Full Size](https://i.imgur.com/mwGASQD.jpg)
