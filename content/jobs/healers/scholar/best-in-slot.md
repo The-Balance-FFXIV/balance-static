@@ -43,7 +43,7 @@ bis:
 
       * 2.40 GCD
     name: 2.40 Min Piety Crit BiS
-    link: " https://etro.gg/gearset/7942af0b-011a-4719-85e9-e5f64d6c07f5"
+    link: https://etro.gg/gearset/7942af0b-011a-4719-85e9-e5f64d6c07f5
   - type: etro
     description: >-
       * DO NOT USE IN UNOPTIMIZED ENVIORNMENT
