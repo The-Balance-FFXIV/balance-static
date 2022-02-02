@@ -4,20 +4,20 @@ card_header_image: /img/jobs/war/leveling.png
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
-patch: "5.4"
-lastmod: 2021-10-27T07:44:06.064Z
+patch: "6.08"
+lastmod: 2022-02-02T23:32:28.584Z
 changelog:
   - date: 2021-10-27T07:46:10.431Z
     message: Created
+  - date: 2022-02-02T23:32:30.225Z
+    message: Updated for Endwalker.
 ---
 Henlo team!
 
 We heard you needed some pointers on how to play WAR while leveling. The splits below are done based on what skills you unlock, and what you should take into account.
 
 * Do your job quests every five levels.
-
 * Upgrade your gear every 2-5 levels.
-
 * Remember your role actions.
 
 - - -
@@ -36,7 +36,7 @@ Raw Potency-wise, Overpower is equally effective at two targets before lvl 26. W
 
 Thrill of Battle (lvl30) is nice, as it acts as a re-fillable bubble. Use it to survive damage spikes.
 
----
+- - -
 
 # 31-49: We got a Beast Gauge!
 
@@ -54,7 +54,7 @@ Overpower and Mythril Tempest wins out the Storm’s Path combo at two targets. 
 
 Aim to spend gauge on Inner Beast during Berserk, or when you would overcap, otherwise keep sitting on that Gauge.
 
----
+- - -
 
 # 50-63: Berserks will be full of Inner Beast / Fell Cleave as there is Infuriate.
 
@@ -96,7 +96,7 @@ Basic rotation is:
 
 The following Berserks will rotate between three and four IB/FC within them due to the Infuriate cooldown.
 
----
+- - -
 
 # 64-69: Upheaval on cooldown
 
@@ -115,10 +115,7 @@ The basic opener for single-targets:
 * Maim
 * Storm's Path
 
-
-
-
----
+- - -
 
 # 70-71: Unleash the Inner Release
 
@@ -148,7 +145,7 @@ Opener is:
 * Fell Cleave\
   … Storm’s Path, Storm’s Eye, Upheaval etc. as per usual rotation.
 
----
+- - -
 
 # 72+: Nascent Chaos enters the arena.
 
@@ -156,7 +153,7 @@ At lvl72, we unlock the “Nascent Chaos” buff that triggers every time after 
 
 For now, we’ll be using Chaotic Cyclone as a 50 gauge spender, even on single-target situations. If Fell Cleave were to Direct Hit + Crit, it would win out. However, Chaotic Cyclone *always* does this, which leads to higher average damage results.
 
----
+- - -
 
 # 76: Nascent Flash
 
@@ -165,7 +162,7 @@ Basically 75% of your damage is turned into healing, for the next six seconds.\
 \
 ***You are now the healer.***
 
----
+- - -
 
 # 80: Inner Chaos
 
@@ -198,12 +195,16 @@ The trait "Raw Intuition Mastery" is unlocked, changing Raw Intuition into Blood
 
 # 86: Orogeny
 
-The AoE version of Upheaval is unlocked. At the time of writing this (patch 6.08), it should be used on 3 or more targets.  
+The AoE version of Upheaval is unlocked. At the time of writing this (patch 6.08), it should be used on three or more targets.  
 
 # 88: The Third Onslaught
 
 Square Enix decided to give us a third stack of Onslaught.
-We can now spend 3 stacks inside even-minute party buffs, and 1 stack inside odd-minute party buffs, if available.
-This leads to cycles of 3-1, which repeats every 2 minutes.
+
+
+We can now spend three stacks inside even-minute party buffs, and one stack inside odd-minute party buffs, if available.
+
+
+This leads to cycles of 3-1, which repeats every two minutes.
 
 **You did it.** You reached the end-game. Go read [the full guide](/jobs/tanks/warrior/basic-guide).
