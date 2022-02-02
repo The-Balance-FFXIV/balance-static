@@ -11,6 +11,7 @@ menu:
 
 * Nono
 * Skye
+* Hint
 * Scrubby
 * OHaiDanny
 * Roxas

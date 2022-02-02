@@ -1,16 +1,16 @@
 ---
 title: "Asphodelos: The Second Circle (Savage)"
 fight_title: p2s
+banner_image: /img/encounters/savage/pandaemonium/p2.jpg
+card_image: /img/encounters/savage/pandaemonium/p2.jpg
+tier_image: /img/encounters/savage/pandaemonium/p2.jpg
 encounter_category: savage
-card_image: /img/encounters/ffxiv_12212021_044108_294.jpg
-banner_image: /img/encounters/ffxiv_12212021_044108_294.jpg
-tier_image: /img/encounters/ffxiv_12212021_044108_294.jpg
-tier_name: Asphodelos
+tier_name: Pandaemonium
 series_name: Pandaemonium Series
-weight: 3
+weight: 4
 tier_weight: 1
 coming_soon: false
-spoilers: false
+spoiler: false
 expansion: ew
 authors:
   - lyra
@@ -19,13 +19,12 @@ patch: "6.05"
 changelog:
   - date: 2022-01-05T22:22:21.433Z
     message: Created page
-menu:
-  main:
-    identifier: p2s
-    name: "Asphodelos: The Second Circle (Savage)"
-    weight: 2
-    parent: encounters
+aliases:
+  - /encounters/savage/pandaemonium/p2s/
+  - /encounters/pandaemonium/p2s/
+  - /encounters/p2s/
 ---
+
 ## Introduction
 
 This guide aims to provide tips and strategies for defeating the Hippokampos in Asphodelos: The Second Circle (Savage).
