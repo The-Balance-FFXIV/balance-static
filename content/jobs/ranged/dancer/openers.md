@@ -12,4 +12,8 @@ changelog:
 ---
 # OPENER INFOGRAPHIC
 
-Io's Opener / Simple Rotation Infographic: ![](https://i.imgur.com/Ff7LvIQ.png)
+![DNC Opener](/img/jobs/dnc/dncopener.png "DNC Opener")
+
+[Full Size](https://i.imgur.com/ZOeec1X.png)
+
+Thanks to Moth for the image!
