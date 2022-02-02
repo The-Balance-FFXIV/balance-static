@@ -1,42 +1,36 @@
 ---
 title: Dancer Best in Slot (BiS)
 layout: bis
-patch: "5.58"
-lastmod: 2021-10-26T02:11:21.360Z
+patch: "6.08"
+lastmod: 2022-02-02T23:12:02.555Z
 changelog:
   - date: 2021-10-26T02:11:25.028Z
     message: Created page
+  - date: 2022-02-02T23:12:03.090Z
+    message: Updated for Endwalker.
 bis:
   - type: etro
     description: ""
-    name: New BiS (5.55) with ilvl 535 Relic Weapon
-    link: https://etro.gg/gearset/e4cd5da5-6365-4e30-bd26-8e5fadf8a17f
+    name: 2.47 GCD General All-Purpose Set
+    link: https://etro.gg/gearset/fd333e44-0f90-42a6-a070-044b332bb54e
+  - type: etro
+    description: In order to figure out if one of these gearsets is better for you,
+      you'll have to do some homework. For most players, use the 2.47 set listed
+      above and read up on changes to rotation.
+    name: 2.5 GCD Set
+    link: https://etro.gg/gearset/ae461afa-fc40-46a1-b713-e17fb9eee292
   - type: etro
     description: ""
-    name: Old BiS (5.4) with Edenmorn Weapon
-    link: https://etro.gg/gearset/f904b72c-7e83-4b25-aace-38f7956b6728
+    name: 2.49 GCD Set
+    link: https://etro.gg/gearset/eb9c642d-fbaf-4381-95ce-988f8b9ff621
   - type: etro
-    description: Max DPS set
-    name: TEA BiS with Relic Weapon (i535)
-    link: https://etro.gg/gearset/22bf8499-0469-44a2-9174-be8f3174a488
+    description: Better than the 2.48 set below if there are crit raid buffs.
+    name: 2.48 GCD Set (Potage)
+    link: https://etro.gg/gearset/fc9341ef-6acf-4389-a0b7-1015c9f46ffa
   - type: etro
-    description: ""
-    name: TEA BiS with Relic Weapon (i515)
-    link: https://etro.gg/gearset/7c9052ac-000c-4b05-b6d8-9c1649516054
-  - type: etro
-    description: ""
-    name: TEA BiS with Edengrace Weapon
-    link: https://etro.gg/gearset/46df8892-190c-4f43-a5d7-d9ad95342eb0
-  - type: etro
-    description: Change meld on the belt with the extra meld slot on the weapon
-    name: TEA BiS with Ultimate Twashtar (TEA weapon)
-    link: https://etro.gg/gearset/04fb4305-78a5-4ab2-b0b4-02590763abd3
-  - type: etro
-    description: |
-      Use Smoked Chicken + Grade 4 Tincture of Dexterity
-    name: Catch-all Gearset for other iLvl synced content (UCoB / UWU / Unreal
-      Trials)
-    link: https://etro.gg/gearset/8e76dbd9-6828-45d1-ae6b-2d2051e2b09f
+    description: Better than the 2.48 set above if there are no crit raid buffs
+    name: "2.48 GCD Set (Pumpkin) "
+    link: https://etro.gg/gearset/c87a3739-8176-4c87-9bb2-9f93c388bb3a
 authors:
   - Balance-DNC-Staff
 ---
