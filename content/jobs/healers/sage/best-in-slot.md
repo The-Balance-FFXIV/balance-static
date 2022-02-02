@@ -1,7 +1,7 @@
 ---
 title: Sage Best in Slot
 layout: bis
-patch: "6.05"
+patch: "6.08"
 lastmod: 2022-01-24T07:06:15.406Z
 changelog:
   - date: 2022-01-24T07:07:39.406Z
