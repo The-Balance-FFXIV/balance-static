@@ -1,5 +1,6 @@
 ---
 title: Sage Advanced Guide
+card_header_image: /img/jobs/sge/sge-advanced.jpg
 authors:
   - Balance-SGE-Staff
 patch: "6.0"
