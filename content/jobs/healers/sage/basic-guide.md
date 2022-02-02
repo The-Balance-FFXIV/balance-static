@@ -9,4 +9,4 @@ changelog:
   - date: 2022-01-24T06:59:41.157Z
     message: Added page
 ---
-Oops, we don’t have that guide yet! Interested in contributing? Feel free to contact a mentor for this job on our Discord!
+Oops, we don’t have that guide yet! Interested in contributing? Feel free to contact a mentor for this job on [our Discord](https://www.discord.gg/thebalanceffxiv)!
