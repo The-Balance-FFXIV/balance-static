@@ -1,16 +1,16 @@
 ---
 title: "Asphodelos: The Third Circle (Savage)"
 fight_title: p3s
-banner_image: /img/encounters/savage/pandaemonium/p3-banner.jpg
-card_image: /img/encounters/savage/pandaemonium/p3.jpg
-tier_image: /img/encounters/savage/pandaemonium/p3.jpg
 encounter_category: savage
-tier_name: Pandaemonium
+card_image: /img/encounters/ffxiv_12212021_050051_261.jpg
+banner_image: /img/encounters/crop.png
+tier_image: /img/encounters/ffxiv_12212021_050051_261.jpg
+tier_name: Asphodelos
 series_name: Pandaemonium Series
-weight: 3
+weight: 2
 tier_weight: 1
 coming_soon: false
-spoiler: false
+spoilers: false
 expansion: ew
 authors:
   - lyra
@@ -24,10 +24,12 @@ changelog:
   - date: 2022-01-12T19:31:47.976Z
     message: Updated to change Firestorms of Asphodelos's light party stacks for
       uptime purposes.
-aliases:
-  - /encounters/savage/pandaemonium/p3s/
-  - /encounters/pandaemonium/p3s/
-  - /encounters/p3s/
+menu:
+  main:
+    identifier: p3s
+    name: "Asphodelos: The Third Circle (Savage)"
+    weight: 3
+    parent: encounters
 ---
 
 ## Introduction
