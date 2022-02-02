@@ -1,31 +1,23 @@
 ---
 title: "Asphodelos: The Fourth Circle (Savage) Phase One"
 fight_title: p4s-p1
+banner_image: /img/encounters/savage/pandaemonium/p4-1-banner.png
+card_image: /img/encounters/savage/pandaemonium/p4-1.jpg
+tier_image: /img/encounters/savage/pandaemonium/p4-1.jpg
 encounter_category: savage
-card_image: /img/encounters/ffxiv_12212021_052303_462.jpg
-banner_image: /img/encounters/p4scrop.png
-tier_image: /img/encounters/ffxiv_12212021_052303_462.jpg
-tier_name: Asphodelos
-series_name: Pandaemonium
-weight: 1
+tier_name: Pandaemonium
+series_name: Pandaemonium Series
+weight: 4
 tier_weight: 1
 coming_soon: false
-spoilers: false
+spoiler: false
 expansion: ew
-authors:
-  - lyra
-lastmod: 2022-01-08T01:40:36.851Z
-patch: "6.05"
-changelog:
-  - date: 2022-01-08T21:42:47.136Z
-    message: Created page.
-menu:
-  main:
-    identifier: p4s-p1
-    name: "Asphodelos: The Fourth Circle (Savage) Phase One"
-    weight: 4
-    parent: encounters
+aliases:
+  - /encounters/savage/pandaemonium/p4s-p1/
+  - /encounters/pandaemonium/p4s-p1/
+  - /encounters/p4s-p1/
 ---
+
 ## Introduction
 
 This guide aims to provide tips and strategies for defeating Hesperos's first form in Asphodelos: The Fourth Circle (Savage).

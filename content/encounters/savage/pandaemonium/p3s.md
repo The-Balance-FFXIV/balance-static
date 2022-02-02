@@ -1,35 +1,21 @@
 ---
 title: "Asphodelos: The Third Circle (Savage)"
 fight_title: p3s
+banner_image: /img/encounters/savage/pandaemonium/p3-banner.jpg
+card_image: /img/encounters/savage/pandaemonium/p3.jpg
+tier_image: /img/encounters/savage/pandaemonium/p3.jpg
 encounter_category: savage
-card_image: /img/encounters/ffxiv_12212021_050051_261.jpg
-banner_image: /img/encounters/crop.png
-tier_image: /img/encounters/ffxiv_12212021_050051_261.jpg
-tier_name: Asphodelos
+tier_name: Pandaemonium
 series_name: Pandaemonium Series
-weight: 2
+weight: 3
 tier_weight: 1
 coming_soon: false
-spoilers: false
+spoiler: false
 expansion: ew
-authors:
-  - lyra
-lastmod: 2022-01-06T17:50:18.582Z
-patch: "6.05"
-changelog:
-  - date: 2022-01-09T19:17:50.446Z
-    message: Added tank invuln (myta (noob)) strat for Storms of Asphodelos. Added
-      different ordered baits for Fountain of Fire. Fixed Experimental
-      Gloryplume to mention the order.
-  - date: 2022-01-12T19:31:47.976Z
-    message: Updated to change Firestorms of Asphodelos's light party stacks for
-      uptime purposes.
-menu:
-  main:
-    identifier: p3s
-    name: "Asphodelos: The Third Circle (Savage)"
-    weight: 3
-    parent: encounters
+aliases:
+  - /encounters/savage/pandaemonium/p3s/
+  - /encounters/pandaemonium/p3s/
+  - /encounters/p3s/
 ---
 
 ## Introduction

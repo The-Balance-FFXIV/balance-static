@@ -1,31 +1,23 @@
 ---
 title: "Asphodelos: The First Circle (Savage)"
 fight_title: p1s
+banner_image: /img/encounters/savage/pandaemonium/p1.jpg
+card_image: /img/encounters/savage/pandaemonium/p1.jpg
+tier_image: /img/encounters/savage/pandaemonium/p1.jpg
 encounter_category: savage
-card_image: /img/encounters/ffxiv_12212021_041955_065.jpg
-banner_image: /img/encounters/ffxiv_12212021_041955_065.jpg
-tier_image: /img/encounters/ffxiv_12212021_041955_065.jpg
-tier_name: Asphodelos
+tier_name: Pandaemonium
 series_name: Pandaemonium Series
-weight: 4
+weight: 1
 tier_weight: 1
 coming_soon: false
-spoilers: false
+spoiler: false
 expansion: ew
-authors:
-  - lyra
-lastmod: 2022-01-05T17:28:46.845Z
-patch: "6.05"
-changelog:
-  - date: 2022-01-05T21:23:01.622Z
-    message: Created page
-menu:
-  main:
-    identifier: p1s
-    name: "Asphodelos: The First Circle (Savage)"
-    parent: encounters
-    weight: 1
+aliases:
+  - /encounters/savage/pandaemonium/p1s/
+  - /encounters/pandaemonium/p1s/
+  - /encounters/p1s/
 ---
+
 ## Introduction
 
 This guide aims to provide tips and strategies for defeating Erichthonios in Asphodelos: The First Circle (Savage).
