@@ -3,6 +3,9 @@
 /public/
 /resources/_gen/
 
+# Hugo's tmp/lock files
+.hugo_build.lock
+
 # Executable may be added to repository
 hugo.exe
 hugo.darwin
@@ -10,4 +13,6 @@ hugo.linux
 
 # MacOS
 **/.DS_Store
+
+# Dependencies
 node_modules
