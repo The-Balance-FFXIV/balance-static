@@ -1,10 +1,12 @@
 ---
 title: Gunbreaker Changes
 layout: changes
-lastmod: 2021-11-15T03:53:16.922Z
+lastmod: 2022-02-03T00:06:09.171Z
 changes:
-  - patch: "5.58"
-    description: "[Placeholder for Endwalker]\r\n"
+  - patch: "6.0"
+    description: "[Click here to view all changes and new abilities for Gunbreaker
+      on the Official
+      Site!](https://na.finalfantasyxiv.com/jobguide/gunbreaker/)"
 authors:
   - Balance-GNB-Staff
 ---
