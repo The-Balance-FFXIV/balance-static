@@ -210,11 +210,11 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   # Encounters Metadata
-  - label: "Encounters"
+  - label: "Pandaemonium"
     name: "encounter-data"
-    folder: "content/encounters"
-    media_folder: "/static/img/encounters"
-    public_folder: "/img/encounters"
+    folder: "content/encounters/savage/pandaemonium"
+    media_folder: "/static/img/encounters/savage/pandaemonium"
+    public_folder: "/img/encounter/savage/pandaemoniums"
     identifier_field: "fight_title"
     create: true
     fields:
