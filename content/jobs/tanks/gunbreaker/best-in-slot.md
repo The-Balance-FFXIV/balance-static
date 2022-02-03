@@ -1,42 +1,50 @@
 ---
 title: Gunbreaker Best in Slot (BiS)
 layout: bis
-patch: "5.58"
-lastmod: 2021-10-25T21:44:09.967Z
+patch: "6.08"
+lastmod: 2022-02-03T00:16:22.266Z
+changelog:
+  - date: 2022-02-03T00:16:26.730Z
+    message: Updated for Endwalker patch 6.08.
 bis:
   - type: etro
     description: ""
-    name: Savage 5.58 Relic i530 BiS - 2.41 GCD
-    link: https://etro.gg/gearset/724fb635-aee3-43d0-beb2-9ac285445e14
+    name: 2.40 GCD
+    link: https://etro.gg/gearset/88fbea7d-3b43-479c-adb8-b87c9d6cb5f9
+  - type: etro
+    description: |
+      Popular, tried and true, decent on all fights.
+    name: 2.41 GCD
+    link: https://etro.gg/gearset/c2962f7b-ea07-4aa9-9b84-21eb8ac03d90
   - type: etro
     description: ""
-    name: Savage 5.58 Relic i530 BiS - 2.43 GCD
-    link: https://etro.gg/gearset/ec8a3fa3-4f6e-46df-9fe7-7127bfc0607d
+    name: 2.42 GCD
+    link: https://etro.gg/gearset/0c777bae-1680-4b0e-ac7e-56217df5611e
+  - type: etro
+    description: >
+      2.43 works really well when doing Purgation uptime in P1S and feels good
+      in P2S/P3S/P4S.
+    name: 2.43 GCD
+    link: https://etro.gg/gearset/e863ace7-ffcb-4c3d-b8de-8038f99a7308
+  - type: etro
+    description: Might clip your GCD in P1S to Purgation and might clip your GCD if
+      you're moving Hesperos on Doorboss for Pinax. Other fights feel fine.
+    name: 2.44 GCD
+    link: https://etro.gg/gearset/b8d9ed19-8b42-41de-b414-ee83ed799416
+  - type: etro
+    description: Feels good on all fights, use if you like 2.45 and don't lose your
+      9th GCD in No Mercy. Utilizes crafted ring.
+    name: 2.45 GCD
+    link: https://etro.gg/gearset/d6f564f3-e918-4dc8-8bf7-95764ada60a7
   - type: etro
     description: ""
-    name: Savage 5.58 Non-Relic i530 BiS - 2.41 GCD
-    link: https://etro.gg/gearset/3a00ff65-fd0d-45b0-adc1-f4f1a6a2b69a
+    name: 2.46 GCD
+    link: https://etro.gg/gearset/a69c29ce-50f2-4fd2-9db3-6a4704c707d8
   - type: etro
-    description: ""
-    name: UCoB i515 Relic BiS
-    link: https://etro.gg/gearset/20f5754b-faf7-48a5-9b75-99c98939ee27
-  - type: etro
-    description: ""
-    name: UWU i515 Relic BiS
-    link: https://etro.gg/gearset/85d6d8db-dbe3-4024-a55d-4496d5303ade
-  - type: etro
-    description: This can be done with EITHER the 535 or the 515 relic. if using the
-      515 relic, put 15 less skill speed in than shown
-    name: 5.55 The Epic of Alexander (TEA) BiS
-    link: https://etro.gg/gearset/75cb96cc-9e8e-4228-93f8-53152b288ceb
-  - type: etro
-    description: Unlucky dungeon drops? No headpiece? Try this!
-    name: 5.58 TEA Alternative
-    link: https://etro.gg/gearset/38c0c312-fb2d-47e2-af58-33b9acfab97e
-  - type: etro
-    description: Less DPS than relic as an alternative if you're not getting a relic
-    name: TEA 2.4 Non-Relic
-    link: https://etro.gg/gearset/f6631658-1d31-4472-8ff6-56ab2d9073e8
+    description: Untested so far, but felt really good in previous tiers when
+      gearing allowed. 9th GCD under No Mercy requires decent ping.
+    name: 2.47 GCD
+    link: https://etro.gg/gearset/d7343b12-6ce4-47bf-912f-c219874905f3
 authors:
   - Balance-GNB-Staff
 ---
