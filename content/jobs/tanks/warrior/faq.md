@@ -1,47 +1,14 @@
 ---
 title: Warrior FAQ
 layout: qna
-patch: "5.4"
-lastmod: 2021-10-27T07:26:59.586Z
+patch: "6.08"
+lastmod: 2022-02-02T23:35:54.058Z
 changelog:
   - date: 2021-10-27T07:27:07.049Z
-    message: Added
+    message: Added page.
+  - date: 2022-02-02T23:35:58.678Z
+    message: Updated for Endwalker.
 qna:
-  - question: "Lvl70: Single Target vs AoE (Two Targets)?"
-    answer: "[TL;DR: Very equal, but lvl70 ST wins by a small
-      margin](https://docs.google.com/spreadsheets/d/e/2PACX-1vRqxeKcJJb0zc2Kh8\
-      6mY222FLkV9r8YAByW-TzoPujokBy1DT4ofPlwpFhKN4K4uZWhrYLfHvo7Lz5g/pubhtml)"
-  - question: How do I relic?
-    answer: |-
-      * Cap Crit, cap Det
-      * Check if you can replace any SkS melds in your gear with Det
-      * Get any missing SkS through relic
-      * Fill the rest of the relic with TNC
-  - question: How do I Upheaval?
-    answer: >-
-      All the time. I'm using Inner Release's recast timer as a visual guide
-      whether to hit Upheaval or not.
-
-
-      Hit Upheaval at:\
-
-      -88s  \
-
-      -58s  \
-
-      -28s  
-
-
-      Because Upheaval drifts a bit, aim to hit Upheaval at:\
-
-      -88~85  \
-
-      -58~53  \
-
-      -28~22  
-
-
-      If your third Upheaval (per 90s timeframe) slipped out of the 22s, either skip it completely or replace it with Onslaught, depending on your preference and gauge needs.
   - question: What is wrong with my log? How do I improve?
     answer: >-
       First you check IR windows, just toss the log into XIVA and see what it
@@ -57,16 +24,13 @@ qna:
       Next thing I like to check is how your IR aligns with raid buffs. You can do this by doing the same thing as above, but clicking the IR icon once instead. On the right hand side, it'll show which buffs were active when you landed your attacks. 
 
 
-      Last thing I like to do, and this is the thing people hate doing, is go to "Casts -> Timelines" to check for errors in the rotation. Is Dye refreshed properly? Are Upheavals and ICs going in Trick? Do you lose Path casts? Too many Onslaughts? 
+      Last thing I like to do, and this is the thing people hate doing, is go to "Casts -> Timelines" to check for errors in the rotation. Is Eye refreshed properly? Are Upheavals and ICs going in Trick? Do you lose Path casts? Too many Onslaughts?
   - question: How do I play WAR?
-    answer: "[The 5.x Guide](/jobs/tanks/warrior/basic-guide/)"
+    answer: "[The 6.x Guide](/jobs/tanks/warrior/basic-guide/)"
   - question: What do I meld?
     answer: Check the [Stat Priority](/jobs/tanks/warrior/stat-priority/) page!
-  - question: Why can't I fit five Fell Cleaves inside Inner Release?
-    answer: >-
-      Pop Inner Release when your GCD looks like this:  
-
-      ![](https://media.discordapp.net/attachments/277962807813865472/597203462106906651/unknown.png)
+authors:
+  - Balance-WAR-Staff
 ---
 > *Lvl70: Single Target vs AoE (Two Targets)?*
 
