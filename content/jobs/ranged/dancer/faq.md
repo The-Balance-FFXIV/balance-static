@@ -55,6 +55,10 @@ qna:
     answer: You can review Ringabel's guide on how to best approach gearing DNC in
       6.08 by clicking
       [here!](https://docs.google.com/document/d/18tfimdrblUKKmmp5PHXWextlIRupyRprshc7yWAViDY/edit)
+  - question: Are there any Dancer-specific fight guides for P1S-P4S?
+    answer: There are! Click
+      [here](https://docs.google.com/document/d/1zvvx3iFnk_HlLSudCw-nO1HKxsHLakr4Svdsbetgi0A/edit)
+      to access Io's guides for the current Savage tier, as of 6.08.
 authors:
   - Balance-DNC-Staff
   - Ringabel-Dim
