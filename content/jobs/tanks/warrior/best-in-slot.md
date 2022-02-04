@@ -12,20 +12,20 @@ bis:
   - type: etro
     description: Speedy option for those looking to play other tanks with the same gear.
     name: 2.40 GCD - 5527.7 dps - Pumpkin Ratatouille
-    link: https://etro.gg/gearset/d6944631-b67f-468f-aca8-7d28d3187f6a
+    link: d6944631-b67f-468f-aca8-7d28d3187f6a
   - type: etro
     description: Slow, generic WAR BIS set with full i600 pieces
-    link: https://etro.gg/gearset/6d0d2d4d-a477-44ea-8002-862eca8ef91d
+    link: 6d0d2d4d-a477-44ea-8002-862eca8ef91d
     name: 2.46 GCD - 5524.4 dps - Pumpkin Potage
   - type: etro
     description: Crafted Ring that avoids Skill Speed and Tenacity
     name: 2.50 GCD - 5514.9 dps - Pumpkin Potage
-    link: https://etro.gg/gearset/1e409c3f-a2ae-4236-8434-1947bb3a32a2
+    link: 1e409c3f-a2ae-4236-8434-1947bb3a32a2
   - type: etro
     description: Ring has 2x SkS melds due to stat tiering. This results in around
       +12 dps gains.
     name: 2.45 GCD - 4942.6 dps - Pentamelded Savage Progression set
-    link: https://etro.gg/gearset/db39eccd-3f87-423b-898e-d72fccf94ddf
+    link: db39eccd-3f87-423b-898e-d72fccf94ddf
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
