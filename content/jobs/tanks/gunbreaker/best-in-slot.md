@@ -10,41 +10,41 @@ bis:
   - type: etro
     description: ""
     name: 2.40 GCD
-    link: https://etro.gg/gearset/88fbea7d-3b43-479c-adb8-b87c9d6cb5f9
+    link: 88fbea7d-3b43-479c-adb8-b87c9d6cb5f9
   - type: etro
     description: |
       Popular, tried and true, decent on all fights.
     name: 2.41 GCD
-    link: https://etro.gg/gearset/c2962f7b-ea07-4aa9-9b84-21eb8ac03d90
+    link: c2962f7b-ea07-4aa9-9b84-21eb8ac03d90
   - type: etro
     description: ""
     name: 2.42 GCD
-    link: https://etro.gg/gearset/0c777bae-1680-4b0e-ac7e-56217df5611e
+    link: 0c777bae-1680-4b0e-ac7e-56217df5611e
   - type: etro
     description: >
       2.43 works really well when doing Purgation uptime in P1S and feels good
       in P2S/P3S/P4S.
     name: 2.43 GCD
-    link: https://etro.gg/gearset/e863ace7-ffcb-4c3d-b8de-8038f99a7308
+    link: e863ace7-ffcb-4c3d-b8de-8038f99a7308
   - type: etro
     description: Might clip your GCD in P1S to Purgation and might clip your GCD if
       you're moving Hesperos on Doorboss for Pinax. Other fights feel fine.
     name: 2.44 GCD
-    link: https://etro.gg/gearset/b8d9ed19-8b42-41de-b414-ee83ed799416
+    link: b8d9ed19-8b42-41de-b414-ee83ed799416
   - type: etro
     description: Feels good on all fights, use if you like 2.45 and don't lose your
       9th GCD in No Mercy. Utilizes crafted ring.
     name: 2.45 GCD
-    link: https://etro.gg/gearset/d6f564f3-e918-4dc8-8bf7-95764ada60a7
+    link: d6f564f3-e918-4dc8-8bf7-95764ada60a7
   - type: etro
     description: ""
     name: 2.46 GCD
-    link: https://etro.gg/gearset/a69c29ce-50f2-4fd2-9db3-6a4704c707d8
+    link: a69c29ce-50f2-4fd2-9db3-6a4704c707d8
   - type: etro
     description: Untested so far, but felt really good in previous tiers when
       gearing allowed. 9th GCD under No Mercy requires decent ping.
     name: 2.47 GCD
-    link: https://etro.gg/gearset/d7343b12-6ce4-47bf-912f-c219874905f3
+    link: d7343b12-6ce4-47bf-912f-c219874905f3
 authors:
   - Balance-GNB-Staff
 ---
