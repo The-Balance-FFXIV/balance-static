@@ -12,19 +12,19 @@ bis:
   - type: etro
     description: Slightly higher average output, but less variance.
     name: 2171 SpS Speed BiS
-    link: https://etro.gg/gearset/327d090b-2d5a-4c3c-9eb9-8fd42342cce3
+    link: 327d090b-2d5a-4c3c-9eb9-8fd42342cce3
   - type: etro
     description: Slightly lower average output, but higher variance.
     name: 1352 SpS Crit BiS
-    link: https://etro.gg/gearset/3be02273-b36d-4297-9f28-69d40641a64b
+    link: 3be02273-b36d-4297-9f28-69d40641a64b
   - type: etro
     description: Fully pentamelded set. Use this for Week 1 clears.
     name: 1457 SpS Crafted Set
-    link: https://etro.gg/gearset/aeb8fce4-1ff9-4216-9f8b-56b68d4ebecd
+    link: aeb8fce4-1ff9-4216-9f8b-56b68d4ebecd
   - type: etro
     description: More casual set for non week 1 clears.
     name: Budget Crafted Set
-    link: https://etro.gg/gearset/4e770122-e3fb-4cf7-8bc7-1783286c2472
+    link: 4e770122-e3fb-4cf7-8bc7-1783286c2472
 authors:
   - xenitan
   - Fürst-Blumier
