@@ -14,30 +14,30 @@ bis:
 
 
       This set is also identical to the Reaper 2.49/2.50 set.
-    link: https://etro.gg/gearset/8bdd42db-a318-41a0-8903-14efa5e0774b
+    link: 8bdd42db-a318-41a0-8903-14efa5e0774b
     name: 2.50 GCD
   - type: etro
     description: In case you prefer a slightly faster set. Requires you to get nine
       GCD buff windows for equal performance to the 2.50 set.
     name: 2.46 GCD
-    link: https://etro.gg/gearset/77868a5e-80af-4ca2-8e0b-be2870b6ffc8
+    link: 77868a5e-80af-4ca2-8e0b-be2870b6ffc8
   - type: etro
     description: ""
     name: Pentamelded Crafted
-    link: https://etro.gg/gearset/44dd1933-c9b7-4665-81a8-8d68a4187d79
+    link: 44dd1933-c9b7-4665-81a8-8d68a4187d79
   - type: etro
     description: Ultimate sets have not been updated for 6.0 yet. Using these sets
       is perfectly fine as big changes are unlikely.
     name: TEA BiS
-    link: https://etro.gg/gearset/25f4327c-1be2-4186-b1e1-075255bbfe35
+    link: 25f4327c-1be2-4186-b1e1-075255bbfe35
   - type: etro
     description: ""
     name: TEA BiS With TEA Weapon
-    link: https://etro.gg/gearset/87ec6bc6-cf13-4091-a9b8-66a2c44fc0c9
+    link: 87ec6bc6-cf13-4091-a9b8-66a2c44fc0c9
   - type: etro
     description: ""
     name: TEA BiS With Relic
-    link: https://etro.gg/gearset/fbd244ec-c215-4581-8e9b-3d3053239d70
+    link: fbd244ec-c215-4581-8e9b-3d3053239d70
 authors:
   - Balance-DRG-Staff
 ---
