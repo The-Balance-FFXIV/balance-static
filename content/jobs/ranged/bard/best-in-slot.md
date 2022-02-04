@@ -21,12 +21,12 @@ bis:
 
 
       Note the food and the SkS meld in the bow. This is to hit 2.48 with the best possible efficiency, which we like for some advanced rotational reasons. See [Frequently Asked Questions](/jobs/ranged/bard/faq/) for details until the advanced guide is ready.
-    link: https://etro.gg/gearset/cec981af-25c7-4ffb-905e-3024411b797a
+    link: cec981af-25c7-4ffb-905e-3024411b797a
     name: i600 Best In Slot
   - type: etro
     description: ""
     name: i580 pentamelded Asphodelos prog BiS
-    link: https://etro.gg/gearset/26b27945-d54b-4f86-a4a2-6334447875aa
+    link: 26b27945-d54b-4f86-a4a2-6334447875aa
 authors:
   - Balance-BRD-Staff
 ---
