@@ -14,20 +14,20 @@ bis:
   - type: etro
     description: ""
     name: 2.45 GCD — Pumpkin Potage
-    link: https://etro.gg/gearset/38fe3778-f2c1-4300-99e4-b58a0445e969
+    link: 38fe3778-f2c1-4300-99e4-b58a0445e969
   - type: etro
     description: ""
-    link: https://etro.gg/gearset/8cbbfbed-e2da-4866-8873-ffba3276b682
+    link: 8cbbfbed-e2da-4866-8873-ffba3276b682
     name: 2.44 GCD — Pumpkin Potage
   - type: etro
     description: ""
     name: 2.42 GCD — Pumpkin Potage
-    link: https://etro.gg/gearset/bb893548-09aa-4a75-bb2f-90971bdcab38
+    link: bb893548-09aa-4a75-bb2f-90971bdcab38
   - type: etro
     description: Avoid using 2.40 unless you have significant latency issues that
       otherwise prevent fitting 11 GCDs in Fight or Flight.
     name: 2.40 GCD — Pumpkin Potage
-    link: https://etro.gg/gearset/ca8e2ea6-2e6a-4e69-93b0-711a51db0a27
+    link: ca8e2ea6-2e6a-4e69-93b0-711a51db0a27
 authors:
   - Balance-PLD-Staff
   - nikroulah
