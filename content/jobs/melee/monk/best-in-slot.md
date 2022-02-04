@@ -6,15 +6,39 @@ lastmod: 2021-10-28T03:54:26.171Z
 changelog:
   - date: 2021-10-28T03:54:36.354Z
     message: Created page
+  - date: 2022-02-04T10:01:08.677Z
+    message: Updated for Endwalker
 bis:
   - type: etro
-    description: ""
-    name: No Relic (802 Speed)
-    link: 388e7ee7-2919-49bf-b1d8-75fcfae73ce5
+    description: Recommended to use some form of frame-locking feature in order to
+      minimise your RoF drift each minute. Do not use this set if you play at 60
+      FPS. Check the FAQs if you want to know why.
+    name: (100%) 1.94 GCD
+    link: https://i.imgur.com/1MPEKKZ.png
   - type: etro
+    description: This set is compatible with Samurai's 2.14 set while only being 0.5
+      DPS behind our other 1.94 set.
+    name: (99.995%) 1.94 GCD
+    link: https://i.imgur.com/LDglO37.png
+  - type: etro
+    description: "Allows RoF to be used perfectly on cooldown without having to
+      slightly drift to accommodate a late-weave, playable even on a Nintendo
+      Wii.\r\n"
+    name: (99.923%) 1.93 GCD
+    link: https://i.imgur.com/aqhWbOc.png
+  - type: etro
+    description: Fragmentally worse than the other 1.93 set but doesn't rely on Sks
+      food to hit 1.93 GCD.
+    name: (99.911%) 1.93 GCD
+    link: https://i.imgur.com/modMsXr.png
+  - type: etro
+    description: Pentamelded crafted gear.
+    name: (89.583%) 1.94 GCD
+    link: https://i.imgur.com/qq7Elq1.png
+  - type: spreadsheet
     description: ""
-    name: "Marginally-Better Relic Set "
-    link: 2a0fbde0-fa6f-47b6-aa0d-9b7d240c6e19
+    link: https://docs.google.com/document/d/1Qk1miOkniQ3szZJO0H4Si8TqBnoEDLhVuPPPH5z63kc/edit?usp=sharing
+    name: BIS sets for Ultimate encounters
 authors:
   - Balance-MNK-Staff
 ---
