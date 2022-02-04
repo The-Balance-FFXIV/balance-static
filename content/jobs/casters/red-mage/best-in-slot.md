@@ -14,13 +14,13 @@ bis:
   - type: etro
     description: Higher damage and higher Vitality than 2.5 set. Use for 6.1's Ultimate.
     name: ilvl 600 2.48 Savage BiS
-    link: https://etro.gg/gearset/80fdec19-1109-4ca2-8172-53d4dda44144
+    link: 80fdec19-1109-4ca2-8172-53d4dda44144
   - type: etro
     description: Lower damage and Vitality than 2.48 set. Do *not* use for Ultimate
       in 6.1. Having maximum vitality for prog to avoid unnecessary deaths is
       more important than having a slightly slower GCD.
     name: ilvl 600 2.50 Savage BiS
-    link: https://etro.gg/gearset/8c456a46-f3cb-4a23-9771-9f267892bcc0
+    link: 8c456a46-f3cb-4a23-9771-9f267892bcc0
 authors:
   - Balance-RDM-Staff
 ---
