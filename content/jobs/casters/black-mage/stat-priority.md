@@ -7,8 +7,8 @@ changelog:
     message: Created page
   - date: 2022-02-02T22:31:29.340Z
     message: Updated for Endwalker
-priority: "Crit BLM: ilvl > Spell Speed  (to comfort) > Crit > Det >= DH \\n\\n
-  SpS BLM: ilvl > Spell Speed > Det >= DH > Crit"
+priority: "Crit BLM: ilvl > Spell Speed  (to comfort) > Crit > Det >= DH OR SpS
+  BLM: ilvl > Spell Speed > Det >= DH > Crit"
 authors:
   - Balance-BLM-Staff
 ---
