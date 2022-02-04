@@ -11,19 +11,19 @@ changelog:
 bis:
   - type: etro
     description: ""
-    link: https://etro.gg/gearset/dda8aef5-41e4-40b6-813c-df306e1f1cee
+    link: dda8aef5-41e4-40b6-813c-df306e1f1cee
     name: 6.05 2.43 GCD set
   - type: etro
     description: ""
     name: 6.05 2.40 GCD set
-    link: https://etro.gg/gearset/61e6c1e6-83a9-4d3b-9eb9-17f22be19bd9
+    link: 61e6c1e6-83a9-4d3b-9eb9-17f22be19bd9
   - type: etro
     description: "Note: If you can reliably fit 5 GCDs in Blood Weapon at one of
       these speeds, it is generally recommended to take the slowest set that
       allows that. If none of these speeds allow you to fit 5 GCDs in Blood
       Weapon, we suggest the 2.45 set."
     name: 6.05 2.45 GCD set
-    link: https://etro.gg/gearset/038bd13b-f408-4cb2-acb0-00ac33ccfe64
+    link: 038bd13b-f408-4cb2-acb0-00ac33ccfe64
 authors:
   - Balance-DRK-Staff
   - apileofcats
