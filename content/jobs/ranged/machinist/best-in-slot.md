@@ -16,13 +16,13 @@ bis:
   - type: etro
     description: A good option for beginning Savage progression, as a jumping-in point.
     name: Full Crafted Savage Starter Set
-    link: https://etro.gg/gearset/7ef196d1-b91e-4166-a1c0-af279fb4a758
+    link: 7ef196d1-b91e-4166-a1c0-af279fb4a758
   - type: etro
     description: "This set is for people not wanting to break their bank. If you
       don't wish to pentameld, don't, but but still follow the initial
       melds\r\n"
     name: Mixed Savage Starter Set
-    link: https://etro.gg/gearset/0ab4cd5c-da46-48db-91b2-762ae2c9c7ac
+    link: 0ab4cd5c-da46-48db-91b2-762ae2c9c7ac
 authors:
   - dook
   - Laille-Ormesaing
