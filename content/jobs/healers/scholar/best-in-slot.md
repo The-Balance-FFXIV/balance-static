@@ -16,7 +16,7 @@ bis:
       * Gives a good Chain and Bio alignment
       * 2.50 GCD
     name: 2.50 High Piety Set
-    link: https://etro.gg/gearset/30122448-70c8-421c-bd8c-820e2905858b
+    link: 30122448-70c8-421c-bd8c-820e2905858b
   - type: etro
     description: |-
       * Safe to run in any environment.
@@ -24,7 +24,7 @@ bis:
       * Gives a good Chain alignment, but a poor Bio alignment
       * 2.41 GCD
     name: 2.41 Mid Piety Set
-    link: https://etro.gg/gearset/f1802c19-d766-40f0-b781-f5b965cb964e
+    link: f1802c19-d766-40f0-b781-f5b965cb964e
   - type: etro
     description: |-
       * Be careful using in unoptimized environments 
@@ -32,7 +32,7 @@ bis:
       * Gives perfect Chain alignment, but poor Bio alignment
       * 2.40 GCD
     name: 2.40 Low Piety Set
-    link: https://etro.gg/gearset/ff3ffc7a-e28c-45bf-a310-a8d8496f8ebf
+    link: ff3ffc7a-e28c-45bf-a310-a8d8496f8ebf
   - type: etro
     description: >-
       * DO NOT USE IN UNOPTIMZED ENVIRONMENTS
@@ -43,7 +43,7 @@ bis:
 
       * 2.40 GCD
     name: 2.40 Min Piety Crit BiS
-    link: https://etro.gg/gearset/7942af0b-011a-4719-85e9-e5f64d6c07f5
+    link: 7942af0b-011a-4719-85e9-e5f64d6c07f5
   - type: etro
     description: >-
       * DO NOT USE IN UNOPTIMIZED ENVIORNMENT
@@ -54,7 +54,7 @@ bis:
 
       * 2.32 GCD
     name: 2.32 Min Piety SpS BiS
-    link: https://etro.gg/gearset/848869dc-ea7b-42e0-a0a5-1bfdeae8d7e2
+    link: 848869dc-ea7b-42e0-a0a5-1bfdeae8d7e2
 authors:
   - Balance-SCH-Staff
 ---
