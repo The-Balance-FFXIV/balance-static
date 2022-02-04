@@ -12,7 +12,7 @@ bis:
   - type: etro
     description: The BiS for the current patch.
     name: 6.05 Savage BiS
-    link: https://etro.gg/gearset/6b4b1ba5-a821-41a0-b070-b1f50e986f85
+    link: 6b4b1ba5-a821-41a0-b070-b1f50e986f85
   - type: etro
     description: A good option for beginning Savage progression, as a jumping-in point.
     name: Full Crafted Savage Starter Set
