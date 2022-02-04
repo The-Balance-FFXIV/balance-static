@@ -12,32 +12,32 @@ bis:
       and is very viable for all fights this tier at a high level of play.
       Please bring ethers with this if things go under.
     name: "Max Reasonable Damage: (Crafted) Fastro"
-    link: " https://etro.gg/gearset/f76ddad7-1cf5-4b03-946b-cd63598157b0"
+    link: f76ddad7-1cf5-4b03-946b-cd63598157b0
   - type: etro
     description: It's fast. Quite fast. But this level of Piety:SpS has been tested
       and is very viable for all fights this tier at a high level of play.
       Please bring ethers with this if things go under.
     name: "Max Reasonable Damage: (Tome) Fastro"
-    link: https://etro.gg/gearset/d9ba9190-5e9d-424c-ab35-617cb3101550
+    link: d9ba9190-5e9d-424c-ab35-617cb3101550
   - type: etro
     description: Safer but still fairly fast. This makes MP significantly more
       reasonable than the Fastro sets, but still has very high damage. Bring
       this to situations you need a bit more MP.
     name: (Crafted) Need For SpellSpeed
-    link: https://etro.gg/gearset/614d5891-6f03-4894-9802-05f0430134e6
+    link: 614d5891-6f03-4894-9802-05f0430134e6
   - type: etro
     description: Safer but still fairly fast. This makes MP significantly more
       reasonable than the Fastro sets, but still has very high damage. Bring
       this to situations you need a bit more MP.
     name: (Tome) Bring Home the Pie
-    link: https://etro.gg/gearset/f88f544d-eb84-4add-81b4-0bb815288054
+    link: f88f544d-eb84-4add-81b4-0bb815288054
   - type: etro
     description: Best in Sloth, while not quite as high damage as the faster sets,
       is a safer option while still maintaining reasonably high damage. It is
       for those who have high ping and find it hard to not clip with faster
       GCDs, or just want to be have some extra leeway for mana during weekly
       re-clears.
-    link: https://etro.gg/gearset/88397043-c634-4a8a-80ab-8c140244ad44
+    link: 88397043-c634-4a8a-80ab-8c140244ad44
     name: Best in Sloth
   - type: etro
     description: >-
