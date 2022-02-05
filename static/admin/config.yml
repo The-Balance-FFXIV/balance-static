@@ -1892,7 +1892,7 @@ collections:
               - {label: "Message", name: "message", widget: "string"}
       - label: "Fight Tips"
         name: "fight-tips"
-        file: "content/jobs/chealers/scholar/fight-tips.md"
+        file: "content/jobs/healers/scholar/fight-tips.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
