@@ -460,6 +460,31 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+      - label: "Fight Tips"
+        name: "fight-tips"
+        file: "content/jobs/tanks/warrior/fight-tips.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/tanks/warrior/best-in-slot.md"
@@ -700,6 +725,31 @@ collections:
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/tanks/paladin/advanced-guide.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
+      - label: "Fight Tips"
+        name: "fight-tips"
+        file: "content/jobs/tanks/paladin/fight-tips.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
@@ -984,6 +1034,31 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+      - label: "Fight Tips"
+        name: "fight-tips"
+        file: "content/jobs/tanks/dark-knight/fight-tips.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/tanks/dark-knight/best-in-slot.md"
@@ -1224,6 +1299,31 @@ collections:
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/tanks/gunbreaker/advanced-guide.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
+      - label: "Fight Tips"
+        name: "fight-tips"
+        file: "content/jobs/tanks/gunbreaker/fight-tips.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
@@ -1508,6 +1608,31 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+      - label: "Fight Tips"
+        name: "fight-tips"
+        file: "content/jobs/healers/white-mage/fight-tips.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/healers/white-mage/best-in-slot.md"
@@ -1748,6 +1873,31 @@ collections:
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/healers/scholar/advanced-guide.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
+      - label: "Fight Tips"
+        name: "fight-tips"
+        file: "content/jobs/healers/scholar/fight-tips.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
@@ -2032,6 +2182,31 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+      - label: "Fight Tips"
+        name: "fight-tips"
+        file: "content/jobs/healers/astrologian/fight-tips.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/healers/astrologian/best-in-slot.md"
@@ -2272,6 +2447,31 @@ collections:
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/healers/sage/advanced-guide.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
+      - label: "Fight Tips"
+        name: "fight-tips"
+        file: "content/jobs/healers/sage/fight-tips.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
@@ -2556,6 +2756,31 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+      - label: "Fight Tips"
+        name: "fight-tips"
+        file: "content/jobs/melee/dragoon/fight-tips.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/melee/dragoon/best-in-slot.md"
@@ -2796,6 +3021,31 @@ collections:
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/melee/reaper/advanced-guide.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
+      - label: "Fight Tips"
+        name: "fight-tips"
+        file: "content/jobs/melee/reaper/fight-tips.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
@@ -3080,6 +3330,31 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+      - label: "Fight Tips"
+        name: "fight-tips"
+        file: "content/jobs/melee/samurai/fight-tips.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/melee/samurai/best-in-slot.md"
@@ -3320,6 +3595,31 @@ collections:
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/melee/monk/advanced-guide.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
+      - label: "Fight Tips"
+        name: "fight-tips"
+        file: "content/jobs/melee/monk/fight-tips.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
@@ -3604,6 +3904,31 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+      - label: "Fight Tips"
+        name: "fight-tips"
+        file: "content/jobs/melee/ninja/fight-tips.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/melee/ninja/best-in-slot.md"
@@ -3844,6 +4169,31 @@ collections:
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/ranged/machinist/advanced-guide.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
+      - label: "Fight Tips"
+        name: "fight-tips"
+        file: "content/jobs/ranged/machinist/fight-tips.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
@@ -4128,6 +4478,31 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+      - label: "Fight Tips"
+        name: "fight-tips"
+        file: "content/jobs/ranged/dancer/fight-tips.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/ranged/dancer/best-in-slot.md"
@@ -4368,6 +4743,31 @@ collections:
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/ranged/bard/advanced-guide.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
+      - label: "Fight Tips"
+        name: "fight-tips"
+        file: "content/jobs/ranged/bard/fight-tips.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
@@ -4652,6 +5052,31 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+      - label: "Fight Tips"
+        name: "fight-tips"
+        file: "content/jobs/casters/black-mage/fight-tips.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/casters/black-mage/best-in-slot.md"
@@ -4914,6 +5339,31 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+      - label: "Fight Tips"
+        name: "fight-tips"
+        file: "content/jobs/casters/summoner/fight-tips.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/casters/summoner/best-in-slot.md"
@@ -5154,6 +5604,31 @@ collections:
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/casters/red-mage/advanced-guide.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Author(s)"
+            name: "authors"
+            widget: "relation"
+            required: false
+            multiple: true
+            collection: "author-profile"
+            search_fields: ["username", "name"]
+            value_field: "username"
+            display_fields: ["username", "name"]
+          - {label: "Patch", name: "patch", widget: "string"}
+          - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Changelog entry"
+            name: "changelog"
+            widget: "list"
+            summary: "{{fields.date}}: {{fields.message}}"
+            fields:
+              - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
+      - label: "Fight Tips"
+        name: "fight-tips"
+        file: "content/jobs/casters/red-mage/fight-tips.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
