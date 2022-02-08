@@ -18,8 +18,6 @@ changelog:
 ---
 ## Reaper Advanced Rotational Theory
 
-### Author: Ellunavi Sevald
-
 ### Contributors: Dook Prime, Torael Valdis, Rin Karigani, Laille Ormesaing, Shalfu Nyan. Special thanks to Moth Kira and Jackal for the infographs!
 
 - - -
