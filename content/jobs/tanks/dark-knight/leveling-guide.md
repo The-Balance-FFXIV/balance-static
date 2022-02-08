@@ -3,11 +3,13 @@ title: Dark Knight Leveling Guide
 card_header_image: /img/jobs/drk/leveling.png
 authors:
   - apileofcats
-patch: "5.5"
-lastmod: 2021-10-27T17:23:15.088Z
+patch: "6.08"
+lastmod: 2022-02-08T20:09:08.788Z
 changelog:
   - date: 2021-10-27T17:23:27.257Z
     message: Added
+  - date: 2022-02-08T20:09:09.388Z
+    message: Updated for Endwalker
 ---
 # Introduction
 
@@ -194,4 +196,4 @@ New action: Living Shadow. Living Shadow summons a clone which, after a delay, w
 
 ## Levels 81-90
 
-While there are a few new buttons to press in this level range, none of them affect your skill usage priorities. Oblation provides some additional mitigation, Salt and Darkness is a followup to Salted Earth for extra damage, and Shadowbringer is free damage in both AoE and single-target situations. Make sure to use them all when you can for maximum total benefit.
+While there are a few new buttons to press in this level range, none of them affect your skill usage priorities. Oblation provides some additional mitigation, Salt and Darkness is a follow-up to Salted Earth for extra damage, and Shadowbringer is free damage in both AoE and single-target situations. Make sure to use them all when you can for maximum total benefit.
