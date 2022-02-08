@@ -168,9 +168,7 @@ After attempting to fix these issues with the above suggestions, the only thing 
 
 If you’re on a PC, and you’re okay with the morality issues of injection based programs, [QuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher) has a plug-in called [NoClippy](https://github.com/UnknownX7/NoClippy) that will help your clipping issue. This program will simulate a low ping environment specifically for the animation lock of combat actions. This will not actually lower your ping or make your connection to the servers any more stable than it already is or isn’t. The instructions on how to enable NoClippy are listed on the GitHub page. While I’ve not heard of anyone being punished by Square Enix for using programs like this, the reality of the situation is they could potentially endanger your service account. Please keep this in mind if you decide to use QuickLauncher and any plug-in associated with it.
 
-## \
-
-Next Level
+## Next Level
 
 When you feel like you have mastered the basics of Reaper, head over the [Advanced Guide](https://www.thebalanceffxiv.com/jobs/melee/reaper/advanced-guide/) to learn how to play the job into raid buffs. The Advanced guide will cover a lot from Double Shroud windows to specific fight mapping tools!
 
