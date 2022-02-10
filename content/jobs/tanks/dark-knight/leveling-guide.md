@@ -3,17 +3,25 @@ title: Dark Knight Leveling Guide
 card_header_image: /img/jobs/drk/leveling.png
 authors:
   - apileofcats
-patch: "5.5"
-lastmod: 2021-10-27T17:23:15.088Z
+patch: "6.08"
+lastmod: 2022-02-08T20:09:08.788Z
 changelog:
   - date: 2021-10-27T17:23:27.257Z
     message: Added
+  - date: 2022-02-08T20:09:09.388Z
+    message: Updated for Endwalker
 ---
 # Introduction
 
-First off, a word of warning: **Do not use the gear given out by the first job quest.** It is normal-quality, meaning its stats are significantly weaker than other gear of the same item level. The Steel Cuirass (ilvl30), for example, has about the same defense as a high-quality Iron Scale Mail (ilvl 23).
+While this guide is not intended as a complete resource for tanking in dungeons and trials, the following sections will provide a brief primer for those new to the role or who need a refresher. If you are already confident in your job as a tank, feel free to skip ahead to the last section, which covers the evolution of your rotation as you level up to max.
 
-While this guide is not intended as a complete resource for tanking in dungeons and trials, the following section will provide a brief primer for those new to the role or who need a refresher. If you are already confident in your job as a tank, feel free to skip ahead to the last section, which covers the evolution of your rotation as you level up to max.
+# Gearing
+
+Your primary focus until you reach level cap is to accumulate as much defense and vitality as possible in order to stay alive. Luckily, both of these stats scale directly with item level, so deciding which gear to use is rather straightforward; equip the highest item level you can, and don't worry too much about substats.
+
+As of patch 6.0, defense values for low-level Disciple of War gear have been equalized. Both the Infantry and Cavalry sets from Brayflox's Longstop, for example, have the same defenses despite the former being equippable by both melee DPS and tanks, and the latter being tank-only.
+
+One last word of warning: **Be careful about using crafted gear.** Crafted gear comes in both normal-quality and high-quality versions. Normal-quality gear, including the set given out by your first job quest, has significantly lower stats than other gear of the same item level. While the stat squish has made the differences less acutely painful in most cases, try to avoid using normal-quality crafted gear whenever possible.
 
 # Know Your Role
 
@@ -48,14 +56,16 @@ Dark Knight starts at level 30, but some duties will sync you down to a lower le
 
 #### Level 26
 
-New action: Souleater. This completes your single-target combo with additional damage and healing, and changes your priority slightly:
+New action: Souleater. This completes your single-target combo with additional damage and healing. The damage output between your single-target and AoE options is nearly identical against exactly two targets at this point, so the extra healing from Souleater is preferred.
 
 * Souleater combo (Hard Slash -> Syphon Strike -> Souleater) on 1-2 targets.
 * Unleash on 3+ targets.
 
 #### Level 30
 
-New action: Flood of Darkness. This provides additional AoE damage and grants Darkside, which will buff all of your damage by 10%. Don't be afraid to spend your mana at the start of a pull; while you don't regenerate enough mana while using Unleash to keep Darkside active indefinitely, you would need to stay in combat for an extraordinary length of time to actually drop it. 
+New action: Flood of Darkness. This spends mana provides to deal AoE damage and grants Darkside, which buffs all of your damage by 10%. Because Syphon Strike generates mana, single-target combos are now solidly better than Unleash on two targets.
+
+Don't be afraid to spend your mana at the start of a pull; while you don't regenerate enough mana while spamming Unleash to keep Darkside active indefinitely, you would need to stay in combat for an extraordinary length of time for Darkside to actually run out. 
 
 * Souleater combo on 1-2 targets.
 * Unleash on 3+ targets.
@@ -71,12 +81,12 @@ New action: Blood Weapon. Grants a small amount of mana for each GCD landed duri
 
 #### Level 40
 
-New action: Edge of Darkness. This is a single-target version of Flood of Darkness. Because it offers less total potency than a multi-target Flood, it should only be used where you wouldn't otherwise be able to hit two or more enemies with Flood.
+New action: Edge of Darkness. This is a single-target version of Flood of Darkness. Because its potency is slightly more than twice that of Flood, it should also be used in two-target situations.
 
 * Souleater combo on 1-2 targets.
 * Unleash on 3+ targets.
-* Edge of Darkness on 1 target.
-* Flood of Darkness on 2+ targets.
+* Edge of Darkness on 1-2 targets.
+* Flood of Darkness on 3+ targets.
 
 ## Levels 51-60
 
@@ -86,8 +96,19 @@ New action: Abyssal Drain. This is an AoE action that does a moderate amount of 
 
 * Souleater combo on 1-2 targets.
 * Unleash on 3+ targets.
-* Edge of Darkness on 1 target.
-* Flood of Darkness on 2+ targets.
+* Edge of Darkness on 1-2 targets.
+* Flood of Darkness on 3+ targets.
+
+### Level 60
+
+New action: Carve and Spit. This shares a cooldown with Abyssal Drain and deals high potency to a single target while also generating a small amount of mana. Abyssal Drain needs to hit four targets to beat the potency of Carve and Spit, but your primary concern when deciding between the two is whether you need the healing from Abyssal Drain or not.
+
+* Souleater combo on 1-2 targets.
+* Unleash on 3+ targets.
+* Edge of Darkness on 1-2 targets.
+* Flood of Darkness on 3+ targets.
+* Carve and Spit on 1-3 targets.
+* Abyssal Drain on 4+ targets or when healing is needed.
 
 ## Levels 61-70
 
@@ -97,29 +118,35 @@ New action: Bloodspiller. While you unlocked your AoE mana spender before the si
 
 * Souleater combo on 1-2 targets.
 * Unleash on 3+ targets.
-* Edge of Darkness on 1 target.
-* Flood of Darkness on 2+ targets.
-* Bloodspiller on 1-3 targets.
+* Edge of Darkness on 1-2 targets.
+* Flood of Darkness on 3+ targets.
+* Carve and Spit on 1-3 targets.
+* Abyssal Drain on 4+ targets or when healing is needed.
+* Bloodspiller on 1-2 targets.
 
 #### Level 64
 
-New action: Quietus. The AoE version of Bloodspiller. Unlike Flood, Quietus takes three targets to deal more total potency than its single-target variant.
+New action: Quietus. The AoE version of Bloodspiller. Like Flood, Quietus takes three targets to deal more total potency than its single-target variant.
 
 * Souleater combo on 1-2 targets.
 * Unleash on 3+ targets.
-* Edge of Darkness on 1 target.
-* Flood of Darkness on 2+ targets.
+* Edge of Darkness on 1-2 targets.
+* Flood of Darkness on 3+ targets.
+* Carve and Spit on 1-3 targets.
+* Abyssal Drain on 4+ targets or when healing is needed.
 * Bloodspiller on 1-2 targets.
 * Quietus on 3+ targets.
 
 #### Level 68
 
-New action: Delirium. This nullifies the blood cost of Bloodspiller and Quietus for ten seconds. It is possible to get five-GCD Blood Weapon windows even in AoE situations by using Blood Weapon after your first Quietus under Delirium. However, you should not hold Blood Weapon for these opportunities, as Delirium has a longer cooldown and getting four GCDs of Blood Weapon every minute is still better than getting five GCDs of Blood Weapon every 90 seconds.
+New action: Delirium. This nullifies the blood cost of the next three uses of Bloodspillers and/or Quietus within 15 seconds. It is possible to get five-GCD Blood Weapon windows even in AoE situations by weaving Delirium->Blood Weapon and immediately spending your free Quietus uses. This allows the same level of leniency as single-target Blood Weapon uses if you start with at least 20 blood. With 0-10 Blood, your Blood Weapon window will be slightly tighter but still doable. 
 
 * Souleater combo on 1-2 targets.
 * Unleash on 3+ targets.
-* Edge of Darkness on 1 target.
-* Flood of Darkness on 2+ targets.
+* Edge of Darkness on 1-2 targets.
+* Flood of Darkness on 3+ targets.
+* Carve and Spit on 1-3 targets.
+* Abyssal Drain on 4+ targets or when healing is needed.
 * Bloodspiller on 1-2 targets.
 * Quietus on 3+ targets.
 
@@ -129,8 +156,10 @@ New action: The Blackest Night ("TBN"). While Dark Knight can feel a bit squishy
 
 * Souleater combo on 1-2 targets.
 * Unleash on 3+ targets.
-* Edge of Darkness on 1 target.
-* Flood of Darkness on 2+ targets.
+* Edge of Darkness on 1-2 target.
+* Flood of Darkness on 3+ targets.
+* Carve and Spit on 1-3 targets.
+* Abyssal Drain on 4+ targets or when healing is needed.
 * Bloodspiller on 1-2 targets.
 * Quietus on 3+ targets.
 
@@ -140,12 +169,14 @@ New action: The Blackest Night ("TBN"). While Dark Knight can feel a bit squishy
 
 New action: Stalwart Soul. This is the second hit of your AoE combo, and yes, that's a gap of 57 levels in between. Stalwart Soul will ramp up your mana generation enough to use TBN on cooldown with a little bit of surplus. Feel free to dump mana at the start of a pull before reverting to the priority system of reserving your mana for TBN and using your Dark Arts proc for your Floods.
 
-Stalwart Soul can also opens up a more advanced technique for getting five GCD Blood Weapon windows outside of Delirium by banking 100 blood and using Unleash -> Blood Weapon -> Quietus -> Quietus -> Stalwart Soul-> Quietus->Unleash.
+Stalwart Soul can also opens up a more advanced technique for getting five GCD Blood Weapon windows outside of Delirium by banking 100 Blood and using Unleash -> Blood Weapon -> Quietus -> Quietus -> Stalwart Soul-> Quietus -> Unleash.
 
-* Souleater combo on 1 target.
+* Souleater combo on one target.
 * Stalwart Soul combo (Unleash -> Stalwart Soul) on 2+ targets.
-* Edge of Darkness on 1 target.
-* Flood of Darkness on 2+ targets.
+* Edge of Darkness on 1-2 targets.
+* Flood of Darkness on 3+ targets.
+* Carve and Spit on 1-3 targets.
+* Abyssal Drain on 4+ targets or when healing is needed.
 * Bloodspiller on 1-2 targets.
 * Quietus on 3+ targets.
 
@@ -155,8 +186,14 @@ New action: Living Shadow. Living Shadow summons a clone which, after a delay, w
 
 * Souleater combo on 1 target.
 * Stalwart Soul combo on 2+ targets.
-* Edge of Shadow on 1 target.
-* Flood of Shadow on 2+ targets.
+* Edge of Shadow on 1-2 targets.
+* Flood of Shadow on 3+ targets.
+* Carve and Spit on 1-3 targets.
+* Abyssal Drain on 4+ targets or when healing is needed.
 * Living Shadow when available.
 * Bloodspiller on 1-2 targets.
 * Quietus on 3+ targets.
+
+## Levels 81-90
+
+While there are a few new buttons to press in this level range, none of them affect your skill usage priorities. Oblation provides some additional mitigation, Salt and Darkness is a follow-up to Salted Earth for extra damage, and Shadowbringer is free damage in both AoE and single-target situations. Make sure to use them all when you can for maximum total benefit.
