@@ -42,6 +42,8 @@ For clarity purposes:
 
 * Nothing crazy. You will learn Ricochet which should be treated nearly the same as Gauss Round. Use as much as you can, and use it inside of Hypercharge windows, alternating use with Gauss Round.
 
+  ![](/img/jobs/mch/multitool-mch.png)
+
 ## Levels 52 - 60
 
 * The Heated Split Shot and Heated Slug Shot upgrades are a potency upgrade with new animations when used, but otherwise they’re the same as their unheated counterparts.
