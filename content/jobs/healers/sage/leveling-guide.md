@@ -1,6 +1,6 @@
 ---
 title: Sage Leveling Guide
-card_header_image: /img/jobs/sge/sge-leveling.jpg
+card_header_image: /img/jobs/sge/sgeleveling.png
 authors:
   - Balance-SGE-Staff
 patch: "6.0"
