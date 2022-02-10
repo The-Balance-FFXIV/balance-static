@@ -139,7 +139,7 @@ New action: Quietus. The AoE version of Bloodspiller. Like Flood, Quietus takes 
 
 #### Level 68
 
-New action: Delirium. This nullifies the blood cost of the next three uses of Bloodspillers and/or Quietus within 15 seconds. It is possible to get five-GCD Blood Weapon windows even in AoE situations by weaving Delirium->Blood Weapon and immediately spending your free Quietus uses. This allows the same level of leniency as single-target Blood Weapon uses if you start with at least 20 blood. With 0-10 blood, your Blood Weapon window will be slightly tighter but still doable. 
+New action: Delirium. This nullifies the blood cost of the next three uses of Bloodspillers and/or Quietus within 15 seconds. It is possible to get five-GCD Blood Weapon windows even in AoE situations by weaving Delirium->Blood Weapon and immediately spending your free Quietus uses. This allows the same level of leniency as single-target Blood Weapon uses if you start with at least 20 blood. With 0-10 Blood, your Blood Weapon window will be slightly tighter but still doable. 
 
 * Souleater combo on 1-2 targets.
 * Unleash on 3+ targets.
@@ -169,9 +169,9 @@ New action: The Blackest Night ("TBN"). While Dark Knight can feel a bit squishy
 
 New action: Stalwart Soul. This is the second hit of your AoE combo, and yes, that's a gap of 57 levels in between. Stalwart Soul will ramp up your mana generation enough to use TBN on cooldown with a little bit of surplus. Feel free to dump mana at the start of a pull before reverting to the priority system of reserving your mana for TBN and using your Dark Arts proc for your Floods.
 
-Stalwart Soul can also opens up a more advanced technique for getting five GCD Blood Weapon windows outside of Delirium by banking 100 blood and using Unleash -> Blood Weapon -> Quietus -> Quietus -> Stalwart Soul-> Quietus->Unleash.
+Stalwart Soul can also opens up a more advanced technique for getting five GCD Blood Weapon windows outside of Delirium by banking 100 Blood and using Unleash -> Blood Weapon -> Quietus -> Quietus -> Stalwart Soul-> Quietus -> Unleash.
 
-* Souleater combo on 1 target.
+* Souleater combo on one target.
 * Stalwart Soul combo (Unleash -> Stalwart Soul) on 2+ targets.
 * Edge of Darkness on 1-2 targets.
 * Flood of Darkness on 3+ targets.
