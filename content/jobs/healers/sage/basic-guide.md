@@ -1,6 +1,6 @@
 ---
 title: Sage Basic Guide
-card_header_image: /img/jobs/sge/sge-basic.jpg
+card_header_image: /img/jobs/sge/sgebasic.png
 authors:
   - Balance-SGE-Staff
 patch: "6.0"
