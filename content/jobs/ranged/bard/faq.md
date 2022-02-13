@@ -24,8 +24,8 @@ qna:
       you might be able to do a Raging + Empyreal weave; if so, do it.
 
 
-      Then, two GCDs after the Raging, double-weave **Radiant Finale**
-      and  **Battle Voice**.\ 
+      Then, two GCDs after the Raging, double-weave **Battle Voice** and
+      **Radiant Finale**.\ 
 
 
       \r
