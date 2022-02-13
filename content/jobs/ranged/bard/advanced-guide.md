@@ -4,7 +4,7 @@ card_header_image: /img/jobs/brd/advanced.png
 authors:
   - TKCetonis
 patch: "6.08"
-lastmod: 2022-01-25T23:01:35.417Z
+lastmod: 2022-02-13T04:45:49.309Z
 changelog:
   - date: 2021-10-26T02:38:08.428Z
     message: Created page
