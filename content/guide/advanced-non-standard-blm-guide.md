@@ -3,7 +3,7 @@ title: 6.x Advanced Non-Standard BLM Guide
 ---
 *Written by Reina Kousaka of Leviathan* 
 
-*Last updated: Feb 13  2022*
+*Last updated: Feb 13 2022*
 
 [Introduction](https://docs.google.com/document/d/10L0Csmho-N65nWSW4cWBJgDkCFKz6HwJ7EbIlsgrbM4/edit#heading=h.6fkmuesy1aiy)
 
@@ -403,7 +403,7 @@ One of the most potent openers by utilizing the strong Double Transpose Instant 
 
 Slightly stronger than 4xF4 Transpose instant F3. Xeno can be used during UI to catch raid buffs. 
 
-B3 Opener Double Transpose F3P variation 
+### B3 Opener Double Transpose F3P variation 
 
 ![](https://lh4.googleusercontent.com/KZ5oefyYSEC-dASY7WaYPyWEhxUI0SXpMzDJ7JtBSTGo8MuGoVGsRgs859NRECBnTZBWh3N9Fqfc94iLoa8FHC-wtr2lWlhtgLCtvSJUp7yI4aO6HO_8toixbFMKB2_WnYHGUeKD)
 
@@ -789,18 +789,11 @@ The table below shows minimum spell speeds at which each sequence is possible. T
 
 LL = Ley Lines
 
-
-
-![](/img/untitled.png)
-
-|     |
-| --- |
-
 ## Acknowledgements
 
 Written by Reina Kousaka of team Abysm. You can find me on Discord @ Reina#0001
 
-Lady Yuna’lesca for developing the simulation “Megumin” AI (origin of the name “AI rotation”) which paved the way of discovering many of these lines, and for his contributions to this document. [You can find Yuna’s AI here. ](https://drive.google.com/drive/u/0/folders/1lyO0FrNkLDVAYGFi2ILh4SUoC96_WGKz)
+Lady Yuna’lesca for developing the simulation “Megumin” AI (origin of the name “AI rotation”) which paved the way of discovering many of these lines, and for his contributions to this document. **[You can find Yuna’s AI here. ](https://drive.google.com/drive/u/0/folders/1lyO0FrNkLDVAYGFi2ILh4SUoC96_WGKz)**
 
 Fürst Blumier for the help with math, his general BLM inspirations to me and reviewing this document. 
 
