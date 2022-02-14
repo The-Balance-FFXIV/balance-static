@@ -10,18 +10,23 @@ changelog:
 ---
 # Standard Opener
 
+![\-3s Pre-pull Current Tincture of Mind\ -1.5s Pre-pull Glare III\ PULL\ Dia\ Glare III\ Glare III Weave: Presence of Mind\ Glare III Weave: Assize Glare III (etc.)](/img/jobs/whm/whm_ew_no_swift_opener.png "No Swift WHM Opener General Use")
+
 In most cases, use this:\
-\
-PRE-PULL\
--3.5s Tincture\
--2.5s Glare\
+-3s Pre-pull Current Tincture of Mind\
+-1.5s Pre-pull Glare III\
 PULL\
-Dia + Assize + Presence of Mind\
-Glare\
-Glare\
-Glare\
-Glare\
-(etc.)  
+Dia\
+Glare III\
+Glare III
+Weave: Presence of Mind\
+Glare III
+Weave: Assize
+Glare III
+(etc.)
+
+\
+(To view the image full size click here.)
 
 # "I Need An Extra oGCD" Opener
 
