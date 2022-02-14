@@ -1,11 +1,13 @@
 ---
 title: Scholar FAQ
 layout: qna
-patch: "5.58"
-lastmod: 2021-10-26T23:57:40.100Z
+patch: "6.0"
+lastmod: 2022-02-14T05:14:40.665Z
 changelog:
   - date: 2021-10-26T23:57:58.555Z
     message: "Article Created. "
+  - date: 2022-02-14T05:14:41.952Z
+    message: Updated for Endwalker
 qna:
   - question: How can I see my fairy's nameplate in battle?
     answer: >-
