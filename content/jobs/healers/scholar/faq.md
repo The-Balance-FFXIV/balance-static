@@ -52,68 +52,45 @@ qna:
 
 
       `&pins=2%24Main%24%23244F4B%24auras-gained%24-1%240.0.0.Any%240.0.0.Any%24true%240.0.0.Any%24true%241001221%24true%24false`
-  - question: Are there any macros I should know?
-    answer: >-
-      Macros in this game suffer from a lack of queuing like normal actions, a
-      drawback shared by items (such as potions and ethers) and Sprint. For this
-      reason you should never macro GCDs and should avoid using oGCD macros as
-      much as possible.\
-
-      **IMPORTANT: Add more/ac "oGCD" lines per macro to have it repeatedly execute per frame until it is on cooldown. Macros do not queue, so this gives increased reliability by allowing multiple chances for the macro to execute the ability.**
-
-
-      **Valid Macro targets:**
-
-
-      * `<t>`: targets your current target
-
-      * `<tt>`: targets the target of your current target
-
-      * `<me>`: targets yourself
-
-      * `<f>`: targets your focus target
-
-      * `<mo>`: targets a player/pet/enemy/etc that your mouse is over (CANNOT TARGET EMPTY GROUND)
-
-      * `<pet>`: targets your pet
-
-      * `<#>`: replace # with any number 1-8 to target the player in that position of your party list (`<1>` will be yourself with standard party layout)
-
-
-      **Sacred Soil**\
-
-      Sacred Soil can be slow and tricky to place as a ground effect, `<t>` and `<me>` are both useful for placing it around the boss or yourself respectively. Using `<pet>` lets you move the fairy to the required spot in advance and then place it on her.
-
-
-      `/merror off`\
-
-      `/ac "sacred soil" <t>`\
-
-      `/ac "sacred soil" <t>`\
-
-      `/micon "sacred soil"`
-
-
-      **Place**\
-
-      Placing the fairy does not require a weave slot so it doesn't suffer any negatives from being macroed.
-
-
-      `/micon “place” pet`\
-
-      `/pac "place" <t>`
-
-
-      **Single Target Heals** Be very careful using macros for these, as they suffer from macro delay and don't have the same ground targeting issues as Sacred Soil to justify using a macro. `<mo>` and `<tt>` are generally the ones that might come in handy here.
-
-
-      `/merror off`\
-
-      `/ac excogitation <tt>`\
-
-      `/ac excogitation <tt>`\
-
-      `/micon excogitation`
+  - question: Do shields apply faster now?
+    answer: "Yes, shields now begin applying during the slidecast window instead of
+      waiting for the healing to go out. They'll consistently be applied before
+      the cast itself finishes. This means it's possible to use Deployment
+      Tactics immediately after Adlo now without it ghosting. Remember that this
+      will still cause you to clip your next GCD if done during uptime, Adlo's
+      cast is still too long to allow a full weave window. \r\n"
+  - question: Is the fairy more responsive now?
+    answer: Yes, they've sped up her response time and how fast she applies her
+      effects/heals. There will still be some delay when double weaving fairy
+      commands, so be aware of that, but we'll generally be trying to single
+      weave now anyways due to the reduced Broil cast time.
+  - question: Is pet potency still a thing for SCH?
+    answer: "Yes unfortunately, though it's significantly better now. In solo play
+      the fairy's potency is worth ~0.93x player potency, in a party with the
+      full 5% role bonus it's worth ~0.89x player potency. "
+  - question: Should I still be using Ruin II? If so, when?
+    answer: Now that we have free weaves with Broil, we want to avoid using Ruin II
+      whenever possible. You should be slidecasting using Broil to get to where
+      you need to be, and single weaving oGCDs after Broil. You can still use
+      natural Bio refreshes to double weave and move longer distances, and
+      Swiftcast can be used to move longer distances in a pinch. If you find
+      yourself badly out of position, or a mechanic simply isn't able to be
+      dealt with using these methods, you can use Ruin II for the movement
+      rather than just dropping cast. You can also use Ruin II if you absolutely
+      need to get out two oGCDs right away, this can usually be avoided on
+      future pulls with better planning.
+  - question: Why is my Consolation keybind a second Summon Seraph now?
+    answer: "Summon Seraph now becomes Consolation while Seraph is out, just like
+      Aetherpact becomes Dissolve Union while Fey Union is active. This reduces
+      our needed number of keybinds by 1 which is appreciated since they gave us
+      2 new abilities that need keybinds without removing any others and our
+      bars are pretty crowded already. To avoid accidentally double clicking the
+      button and spending a Consolation charge you didn't mean to, there is a 1s
+      CD after hitting Summon Seraph before you can hit Consolation. This
+      doesn't actually delay how quickly it's possible for Consolation to go out
+      because she already waited a bit to use it when summoned, but it means you
+      can no longer double weave Summon Seraph and Consolation. Use them as
+      separate single weaves instead. \r\n"
 authors:
   - Balance-SCH-Staff
 ---
