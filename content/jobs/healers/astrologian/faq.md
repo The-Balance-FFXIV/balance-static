@@ -1,11 +1,13 @@
 ---
 title: Astrologian FAQ
 layout: qna
-patch: "5.58"
-lastmod: 2021-10-26T20:58:03.037Z
+patch: "6.0"
+lastmod: 2022-02-14T05:39:07.774Z
 changelog:
   - date: 2021-10-26T20:59:40.432Z
     message: Article Created.
+  - date: 2022-02-14T05:39:08.521Z
+    message: Updated for Endwalker
 qna:
   - question: What about Macros?
     answer: >-
@@ -50,6 +52,21 @@ qna:
 
 
       Reminder that we should be using Lightspeed *before* pressing Divination, as our Dyne window opens up just before Div is supposed to be pressed. We have the entire window after an instant-cast GCD to press Divination. If it drifts significantly, this is either a matter of ping or player error.
+  - question: Astrodyne?
+    answer: >-
+      ![(I am sorry, this is long, we will get it written out
+      asap)](/img/jobs/ast/astrodyne_timeline.png "Astrodyne Timeline")
+
+
+
+
+      To view image full size, [click here] (/img/jobs/ast/astrodyne_timeline.png).
+  - question: "Cards? Gauges? "
+    answer: >-
+      ![](/img/jobs/ast/carding_fundamentals_ew.png "Card Fundamentals")
+
+
+      To view image full size, [click here](/img/jobs/ast/carding_fundamentals_ew.png "Card Fundamentals").
 authors:
   - Ahriqi
 ---
