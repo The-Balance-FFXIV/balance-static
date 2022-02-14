@@ -5,16 +5,6 @@ title: 6.x Advanced Non-Standard BLM Guide
 
 *Last updated: Feb 13 2022*
 
-[Introduction](https://docs.google.com/document/d/10L0Csmho-N65nWSW4cWBJgDkCFKz6HwJ7EbIlsgrbM4/edit#heading=h.6fkmuesy1aiy)
-
-[Basics](https://docs.google.com/document/d/1-aXh81Vc7R7YbSjN2_-TPC5W6gVZmQgOXastIUtruVA/edit#heading=h.7svm0uoirdbi)
-
-[Intermediate](https://docs.google.com/document/d/1-aXh81Vc7R7YbSjN2_-TPC5W6gVZmQgOXastIUtruVA/edit#heading=h.cwq3mu9vwvbt)
-
-[Advanced](https://docs.google.com/document/d/1-aXh81Vc7R7YbSjN2_-TPC5W6gVZmQgOXastIUtruVA/edit#heading=h.p0ud5hl9huov)
-
-[Appendix](https://docs.google.com/document/d/1-aXh81Vc7R7YbSjN2_-TPC5W6gVZmQgOXastIUtruVA/edit#heading=h.csgamdmlywln)
-
 # Prologue 
 
 *“To make it short, they don't teach or research "potency per second" in universities.” - DiaStarvy*
