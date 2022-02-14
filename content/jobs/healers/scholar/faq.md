@@ -52,9 +52,6 @@ qna:
 
 
       `&pins=2%24Main%24%23244F4B%24auras-gained%24-1%240.0.0.Any%240.0.0.Any%24true%240.0.0.Any%24true%241001221%24true%24false`
-  - question: I need oGCD help!
-    answer: "![](https://cdn.discordapp.com/attachments/756684559831269426/84674616\
-      7320379422/Scholar__oGCDs_8.png)"
   - question: Are there any macros I should know?
     answer: >-
       Macros in this game suffer from a lack of queuing like normal actions, a
