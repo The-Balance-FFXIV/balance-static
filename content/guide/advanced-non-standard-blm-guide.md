@@ -177,7 +177,7 @@ When executing Double Transpose off its cooldown, a mere 5 seconds window is not
 
 ![](https://lh3.googleusercontent.com/WaHHYj6ff9ovNKRMByKIviT5QwJyprodZVL9GgnsMasVQY2bPUS6J9X19rrKQ6NpKx69y4Tt6OT1YVH0jpbgtgNHz6IVS_aFTz8biX54I6O1bWVW5QmchfSmxCkm3eQ8UOOnILpj)
 
-An incredibly strong line that has eliminated almost all weaknesses in the rotation. This line, along with the next line, are the reasons why F3Ps are extremely powerful as they enable these lines. This line is the ideal go-to line for spending F3P. Furthermore, a fundamental goal of non-standard playstyle has been amended with the goal of enabling strong F3P lines. 
+An incredibly strong line that has eliminated almost all weaknesses in the rotation. This line, along with N112, are the reasons why F3Ps are extremely powerful as they enable these lines. This line is the ideal go-to line for spending F3P. Furthermore, a fundamental goal of non-standard playstyle has been amended with the goal of enabling strong F3P lines. 
 
 **4xF4 Double Transpose F3P \[N112]**
 
