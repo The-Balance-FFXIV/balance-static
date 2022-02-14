@@ -1,8 +1,8 @@
 ---
 title: White Mage FAQ
 layout: qna
-patch: "5.58"
-lastmod: 2021-10-27T00:50:31.246Z
+patch: "6.0"
+lastmod: 2022-02-14T04:43:11.548Z
 changelog:
   - date: 2021-10-27T00:51:33.064Z
     message: "Article Created. "
