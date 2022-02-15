@@ -285,10 +285,10 @@ Phantom Rush. Phantom Rush is our strongest Masterful Blitz, and as such is the 
 
 ### Riddle of Fire + Brotherhood
 
-|                                                 |                    |                                                                                                                          |               |                |                                                                                                          |
+| Icon                                            | Name               | Effect                                                                                                                   | Duration      | Cooldown       |                                                                                                          |
 | ----------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------ | ------------- | -------------- |
-| ![](https://xivapi.com/i/002000/002541_hr1.png) | **Riddle of Fire** | Increases damage dealt by 15%.                                                                                           | 20s duration. | 60s cooldown.  |
-| ![](https://xivapi.com/i/002000/002542_hr1.png) | **Brotherhood**    | Grants Brotherhood and Meditative Brotherhood to all party members within 15y. Brotherhood increases damage dealt by 5%. | 15s duration. | 120s cooldown. |
+| ![](https://xivapi.com/i/002000/002541_hr1.png) | **Riddle of Fire** | Increases damage dealt by 15%.                                                                                           | 20s           | 60s            |
+| ![](https://xivapi.com/i/002000/002542_hr1.png) | **Brotherhood**    | Grants Brotherhood and Meditative Brotherhood to all party members within 15y. Brotherhood increases damage dealt by 5%. | 15s           | 120s           |
 
 &nbsp;\
 
