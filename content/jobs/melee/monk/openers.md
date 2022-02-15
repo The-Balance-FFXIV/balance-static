@@ -3,7 +3,7 @@ title: Monk Openers
 authors:
   - Perfect-Balance
 patch: "6.0"
-lastmod: 2021-10-28T03:51:00.691Z
+lastmod: 2022-02-05T04:51:00.691Z
 changelog:
   - date: 2021-10-28T03:51:16.591Z
     message: Created page
