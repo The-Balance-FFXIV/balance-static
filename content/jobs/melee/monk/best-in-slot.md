@@ -1,37 +1,37 @@
 ---
 title: Monk Best in Slot (BiS)
 layout: bis
-patch: "5.58"
-lastmod: 2021-10-28T03:54:26.171Z
+patch: "6.0"
+lastmod: 2022-02-15T11:27:04.630Z
 changelog:
   - date: 2021-10-28T03:54:36.354Z
     message: Created page
   - date: 2022-02-04T10:01:08.677Z
     message: Updated for Endwalker
 bis:
-  - type: etro
+  - type: spreadsheet
     description: Recommended to use some form of frame-locking feature in order to
       minimise your RoF drift each minute. Do not use this set if you play at 60
       FPS. Check the FAQs if you want to know why.
     name: (100%) 1.94 GCD
     link: https://i.imgur.com/1MPEKKZ.png
-  - type: etro
+  - type: spreadsheet
     description: This set is compatible with Samurai's 2.14 set while only being 0.5
       DPS behind our other 1.94 set.
     name: (99.995%) 1.94 GCD
     link: https://i.imgur.com/LDglO37.png
-  - type: etro
+  - type: spreadsheet
     description: "Allows RoF to be used perfectly on cooldown without having to
       slightly drift to accommodate a late-weave, playable even on a Nintendo
       Wii.\r\n"
     name: (99.923%) 1.93 GCD
     link: https://i.imgur.com/aqhWbOc.png
-  - type: etro
+  - type: spreadsheet
     description: Fragmentally worse than the other 1.93 set but doesn't rely on Sks
       food to hit 1.93 GCD.
     name: (99.911%) 1.93 GCD
     link: https://i.imgur.com/modMsXr.png
-  - type: etro
+  - type: spreadsheet
     description: Pentamelded crafted gear.
     name: (89.583%) 1.94 GCD
     link: https://i.imgur.com/qq7Elq1.png
