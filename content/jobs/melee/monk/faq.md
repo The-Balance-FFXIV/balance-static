@@ -1,34 +1,34 @@
 ---
 title: Monk FAQ
 layout: qna
-patch: "5.58"
-lastmod: 2021-10-28T03:51:49.669Z
+patch: "6.0"
+lastmod: 2022-02-04T11:17:20.380Z
 changelog:
   - date: 2021-10-28T03:52:05.648Z
     message: Created page
   - date: 2022-02-04T10:09:53.681Z
     message: Updated for Endwalker
 qna:
-  - answer: Yes and no. Say for example you use Rockbreaker on 3 enemies, and it
-      crits every enemy - you will only gain 1 Chakra, as you can only gain 1
-      chakra per weaponskill. However, if you have Brotherhood on and land a
-      critical weaponskill, you’ll gain 2 chakra; 1 from the crit, 1 from the
-      effect of Brotherhood.
-    question: "“Can I gain multiple Chakra from 1 weaponskill?” "
+  - answer: Yes and no. Say for example you use Rockbreaker on three enemies, and it
+      crits every enemy -- you will only gain one Chakra, as you can only gain
+      one Chakra per weaponskill. However, if you have Brotherhood on and land a
+      critical weaponskill, you’ll gain two Chakra; one from the crit, and one
+      from the effect of Brotherhood.
+    question: Can I gain multiple Chakra from 1 weaponskill?
   - question: Which opener is better???
     answer: "It depends on your kill time. Check the guide. "
   - question: What's the point of Celestial Revolution?
     answer: A consolation prize for when you mess up your PB window. It's lower
-      potency than the other 2 blitzes and single-target, meaning you never want
-      to intentionally use this skill.
+      potency than the other two blitzes and single-target, meaning you never
+      want to intentionally use this skill.
   - question: "Which is better for generating a Lunar Nadi in AoE, Rockbreaker or
       Shadow of the Destroyer? "
-    answer: "Shadow of the Destroyer, guaranteed crit > 20 potency "
+    answer: "Shadow of the Destroyer. Guaranteed crit > 20 potency "
   - question: Is Riddle of Earth 20% or 60% mitigation?
     answer: It's 20% flat mitigation.
   - question: Is there a way to separate my buffs so I can keep track of Leaden Fist
       easier?
-    answer: "Yes there is; Go into your HUD Layout -> Click your buff bar -> Click
+    answer: "Yes there is. Go into your HUD Layout -> Click your buff bar -> Click
       the little gearbox button -> Select either Split Element into 3/4
       groups.\r
 
