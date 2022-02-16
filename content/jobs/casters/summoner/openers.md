@@ -21,7 +21,7 @@ You do also have the option of cutting the second Ruin 3 and doing Bahamut immed
 
 Be aware that if you are changing any timings that an optimal Searing Light GCD sequence will change from what is displayed here. Adjust accordingly to whatever timings you choose to pursue.
 
-[Full Size](/img/jobs/smn/)
+[Full Size](/img/jobs/smn/smnopener_0000_general.png)
 
 ![Summoner - General Opener](/img/jobs/smn/smnopener_0000_general.png)
 
@@ -31,7 +31,7 @@ The below opener uses Garuda as the first primal, prioritizing Swiftcast to fit 
 
 The adjustments mentioned above in the general opener are also valid for this opener, though again be aware that any changes in timings or GCD use will change the exact optimal sequence you may use.
 
-[Full Size](/img/jobs/smn/)
+[Full Size](/img/jobs/smn/smnopener_0001_fastgaruda.png)
 
 ![Summoner - Fast Garuda Opener](/img/jobs/smn/smnopener_0001_fastgaruda.png)
 
