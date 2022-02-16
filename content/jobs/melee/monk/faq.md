@@ -14,7 +14,7 @@ qna:
       one Chakra per weaponskill. However, if you have Brotherhood on and land a
       critical weaponskill, you’ll gain two Chakra; one from the crit, and one
       from the effect of Brotherhood.
-    question: Can I gain multiple Chakra from 1 weaponskill?
+    question: Can I gain multiple Chakra from one weaponskill?
   - question: Which opener is better???
     answer: "It depends on your kill time. Check the guide. "
   - question: What's the point of Celestial Revolution?
