@@ -27,7 +27,7 @@ bis:
     name: (99.923%) 1.93 GCD
     link: https://i.imgur.com/aqhWbOc.png
   - type: spreadsheet
-    description: Fragmentally worse than the other 1.93 set but doesn't rely on Sks
+    description: Fragmentally worse than the other 1.93 set but doesn't rely on SkS
       food to hit 1.93 GCD.
     name: (99.911%) 1.93 GCD
     link: https://i.imgur.com/modMsXr.png
