@@ -48,7 +48,7 @@ Various gearset options can be found on the [Monk Best-in-Slot](/jobs/melee/monk
 
 ### General Melding Priority
 
-General information on melding priority can be found on the [Monk job](https://www.thebalanceffxiv.com/jobs/melee/monk/) oage.
+General information on melding priority can be found on the [Monk job](https://www.thebalanceffxiv.com/jobs/melee/monk/) page.
 
 ### Stat Tiers
 
@@ -96,7 +96,7 @@ Explanations:  [Critical Hit](https://www.akhmorning.com/allagan-studies/stats/c
 | ------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
 | Triggernometry            | Many triggers we typically use hinge on Triggernometry to function       | [GitHub](https://github.com/paissaheavyindustries/Triggernometry/releases)                                             |
 | Auto-Attack timer         | Displays a bar showing your auto-attack timer                            | [XML Guide](https://cdn.discordapp.com/attachments/166036664341364737/920290186762534932/auto_timer_guide_edition.xml) |
-| Missed positional trigger | Says "miss" when you miss a positional. (doesn't require triggernometry) | Go to Custom Triggers in ACT and import XML.  Change "NAME HERE" to your character's name and copy below to your clipboard: \<Trigger R="^A[^ ]* 15:[^:]+:NAME HERE:((38\|42\|8CF\|8D2\|1D3\[9A]\|5F3[EF]\|DE[24]\|64AC):[^:]+:[^:]+:[^:]+:(7\|3[AD]\|4[04])\|(58\|DEB):[^:]+:[^:]+:[^:]+:3[6AE])" SD="Miss" ST="3" CR="F" C=" General" T="F" TN="" Ta="F" /> |
+| Missed positional trigger | Says "miss" when you miss a positional. (doesn't require Triggernometry) | Go to Custom Triggers in ACT and import XML.  Change "NAME HERE" to your character's name and copy below to your clipboard: \<Trigger R="^A[^ ]* 15:[^:]+:NAME HERE:((38\|42\|8CF\|8D2\|1D3\[9A]\|5F3[EF]\|DE[24]\|64AC):[^:]+:[^:]+:[^:]+:(7\|3[AD]\|4[04])\|(58\|DEB):[^:]+:[^:]+:[^:]+:3[6AE])" SD="Miss" ST="3" CR="F" C=" General" T="F" TN="" Ta="F" /> |
 
 ### Glossary
 
@@ -133,12 +133,12 @@ Explanations:  [Critical Hit](https://www.akhmorning.com/allagan-studies/stats/c
 ## Section Two: Monk Basics
 
 ### Uptime
-"Uptime" is the golden word for melee DPS, the one simple trick FFLogs parsers DON'T want you to know about, and the absolute key to doing good DPS. As someone who has been in the Balance since before it was the Balance (shoutout individual job discords), I've helped a lot of people to improve over the years, and I am not exaggerating when I tell you that the main reason people do low DPS -- the difference between being green and being purple -- is melee uptime. A lot of people will look at their parse and wonder why it's not as high as they think it should be, then immediately jump to looking at minor, specific elements of the rotation, or blame gear/materia. In reality, the most important part of your parse is your uptime: how often you're hitting the boss. It sounds simple, but ensuring that you are actually hitting the boss for as long as humanly possible is essential to doing good damage. While there are always further fine tweaks you can make when playing at the high-end, no amount of tweaking is ever going to beat the gains of simply "hitting the boss more."
+"Uptime" is the golden word for melee DPS, the one simple trick FFLogs parsers DON'T want you to know about, and the absolute key to doing good DPS. As someone who has been in the Balance since before it was the Balance (shoutout individual job Discords), I've helped a lot of people to improve over the years, and I am not exaggerating when I tell you that the main reason people do low DPS -- the difference between being green and being purple -- is melee uptime. A lot of people will look at their parse and wonder why it's not as high as they think it should be, then immediately jump to looking at minor, specific elements of the rotation, or blame gear/materia. In reality, the most important part of your parse is your uptime: how often you're hitting the boss. It sounds simple, but ensuring that you are actually hitting the boss for as long as humanly possible is essential to doing good damage. While there are always further fine tweaks you can make when playing at the high-end, no amount of tweaking is ever going to beat the gains of simply "hitting the boss more."
 
 
 Now when I say uptime, I mean it in two different senses of the word. 
 
-First and foremost is what you may be thinking of already when you hear the word "uptime", and that's simply making sure you're in melee range as much as possible so you can continue to hit the boss. It's okay to have poor uptime as you're learning a fight, since you won't know the timings on mechanics or the ranges on certain boss AoEs. As time progresses, however, you will start to learn these things, and you want to minimize downtime by only running out barely beyond the danger zone on an AoE so that you can get back in quicker, as well as simply running back in quicker once you know that damage has resolved and the AoE is now gone. This is where most people falter; they "respect" AoEs too much, meaning they run away too far and for too long.
+First and foremost is what you may be thinking of already when you hear the word "uptime," and that's simply making sure you're in melee range as much as possible so you can continue to hit the boss. It's okay to have poor uptime as you're learning a fight, since you won't know the timings on mechanics or the ranges on certain boss AoEs. As time progresses, however, you will start to learn these things, and you want to minimize downtime by only running out barely beyond the danger zone on an AoE so that you can get back in quicker, as well as simply running back in quicker once you know that damage has resolved and the AoE is now gone. This is where most people falter; they "respect" AoEs too much, meaning they run away too far and for too long.
 
 
 The second piece of uptime is keeping your GCD rolling in general. Some people will choose to prioritize positionals more than rolling their GCDs, and so will stop hitting the boss for a second or so in order to make sure they're in position to continue hitting. This is bad and you shouldn't do this. If you're unable to hit a positional, keep your GCD rolling anyway, as the amount of time wasted waiting for the positional to become available will add up to an incredible amount of potential missed GCDs over a fight, which is far more punishing than simply missing the positional.
@@ -168,13 +168,13 @@ As previously mentioned, Monk has six core single-target GCDs.
 
 |                                                 |                                                                                                                                                                                                                                                                                                                          |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![](https://xivapi.com/i/000000/000208_hr1.png) | **Bootshine** has a potency of 210, or 310 when you have Leaden Fist. When in Opo-Opo form, Bootshine will always crit.                                                                                                                                                             |
-| ![](https://xivapi.com/i/002000/002528_hr1.png) | **Dragon Kick** has a potency of 320. When in Opo-Opo form, it will grant the Leaden Fist buff.                                                                                                                                                                                        |
-| ![](https://xivapi.com/i/000000/000209_hr1.png) | **True Strike** has a potency of 300. It can only be executed from Raptor form.                                                                                                                                                                                                          |
-| ![](https://xivapi.com/i/000000/000213_hr1.png) | **Twin Snakes** has a potency of 280. It also grants a 15% damage increase buff, Disciplined Fist, that lasts for 15 seconds. Twin Snakes can only be executed from Raptor form.                                                                                                                             |
-| ![](https://xivapi.com/i/000000/000204_hr1.png) | **Demolish** has a potency of 70, or 130 when executed from the rear. It also applies an 18-second duration dot with 70 potency, for a combined total of 130+420 potency. It can only be executed from Coeurl form.                                                                                                               |
-| ![](https://xivapi.com/i/000000/000210_hr1.png) | **Snap Punch** has a potency of 250, or 310 when executed from the flank. It can only be executed from Coeurl form.                                                                                                                                                                                                        |
-| ![](https://xivapi.com/i/002000/002536_hr1.png) | **Form Shift** is a unique GCD, as it's not directly a part of our rotation, but it does enable our rotation. Form Shift grants the Formless Fist buff, which allows you to use any GCD and gain its additional form effects. Since this GCD does no damage, we only ever use it before pulling an enemy or during downtime. |
+| ![Bootshine](https://xivapi.com/i/000000/000208_hr1.png) | **Bootshine** has a potency of 210, or 310 when you have Leaden Fist. When in Opo-Opo form, Bootshine will always crit.                                                                                                                                                             |
+| ![Dragon Kick](https://xivapi.com/i/002000/002528_hr1.png) | **Dragon Kick** has a potency of 320. When in Opo-Opo form, it will grant the Leaden Fist buff.                                                                                                                                                                                        |
+| ![True Strike](https://xivapi.com/i/000000/000209_hr1.png) | **True Strike** has a potency of 300. It can only be executed from Raptor form.                                                                                                                                                                                                          |
+| ![Twin Snakes](https://xivapi.com/i/000000/000213_hr1.png) | **Twin Snakes** has a potency of 280. It also grants a 15% damage increase buff, Disciplined Fist, that lasts for 15 seconds. Twin Snakes can only be executed from Raptor form.                                                                                                                             |
+| ![Demolish](https://xivapi.com/i/000000/000204_hr1.png) | **Demolish** has a potency of 70, or 130 when executed from the rear. It also applies an 18-second duration dot with 70 potency, for a combined total of 130+420 potency. It can only be executed from Coeurl form.                                                                                                               |
+| ![Snap Punch](https://xivapi.com/i/000000/000210_hr1.png) | **Snap Punch** has a potency of 250, or 310 when executed from the flank. It can only be executed from Coeurl form.                                                                                                                                                                                                        |
+| ![Form Shift](https://xivapi.com/i/002000/002536_hr1.png) | **Form Shift** is a unique GCD, as it's not directly a part of our rotation, but it does enable our rotation. Form Shift grants the Formless Fist buff, which allows you to use any GCD and gain its additional form effects. Since this GCD does no damage, we only ever use it before pulling an enemy or during downtime. |
 
 ### Basic Rotation in a Vacuum
 
@@ -204,9 +204,9 @@ Our AoE rotation is quite simple. As opposed to other jobs that will have an ent
 
 |                                                 |                                                                                                                                  |
 | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002979_hr1.png) | Opo-Opo form has **Shadow of the Destroyer**, a circle AoE around you with 110 potency which becomes a guaranteed critical hit when executed with its form bonus. |
-| ![](https://xivapi.com/i/002000/002544_hr1.png) | Raptor form has **Four-Point Fury**, another circle AoE around you with 120 potency. It also grants a 15% damage increase buff, Discipled Fist, that lasts for 15 seconds. |
-| ![](https://xivapi.com/i/002000/002529_hr1.png) | Coeurl form has **Rockbreaker**, *another* circle AoE around you with 130 potency.                                                   |
+| ![Shadow of the Destroyer](https://xivapi.com/i/002000/002979_hr1.png) | Opo-Opo form has **Shadow of the Destroyer**, a circle AoE around you with 110 potency which becomes a guaranteed critical hit when executed with its form bonus. |
+| ![Four-Point Fury](https://xivapi.com/i/002000/002544_hr1.png) | Raptor form has **Four-Point Fury**, another circle AoE around you with 120 potency. It also grants a 15% damage increase buff, Discipled Fist, which lasts for 15 seconds. |
+| ![Rockbreaker](https://xivapi.com/i/002000/002529_hr1.png) | Coeurl form has **Rockbreaker**, *another* circle AoE around you with 130 potency.                                                   |
 
 &nbsp;\
 
@@ -219,11 +219,11 @@ Our AoE rotation is quite simple. As opposed to other jobs that will have an ent
 
 \**Assuming each Demolish is able to fully tick.*
 
-Endwalker has greatly simplified our AoE options. As you can see, all of our AoE gcds only become worthwhile on 3+ targets. The only thing that remains to think about when using AOEs is Demolish.
+Endwalker has greatly simplified our AoE options. As you can see, all of our AoE GCDs only become worthwhile on 3+ targets. The only thing that remains to think about when using AOEs is Demolish.
 
 
 
-Demolish is our strongest Coeurl form GCD, and given that it's a DoT, we're able to simply rotate it between targets for maximum DPS in multitarget scenarios. However, because it's a DoT, it relies on ticking fully for max value, and so you should estimate whether or not the DoT will tick for long enough to be worthwhile before applying it.
+Demolish is our strongest Coeurl form GCD, and given that it's a DoT, we're able to simply rotate it between targets for maximum DPS in multi-target scenarios. However, because it's a DoT, it relies on ticking fully for max value, and so you should estimate whether or not the DoT will tick for long enough to be worthwhile before applying it.
 
 ### Chakra
 
@@ -242,7 +242,7 @@ Chakra is the simpler of our two job gauges. Chakra can be stacked up to five ti
 
 Brotherhood Chakra gain is based on damage application. This means that following the use of a GCD with a slower damage application such as Demolish, your Chakra gain will occur much later in the GCD roll than it would after a Snap Punch, for example.
 
-We can spend our Chakra on either of the two following oGCDs:
+We can spend our Chakra on either of the following two oGCDs:
 
 |                                                 |                                                                                                                                  |
 | ----------------------------------------------- | -------------------------------------------------------------------- |
@@ -254,7 +254,7 @@ We can spend our Chakra on either of the two following oGCDs:
 Beast Chakra is new in Endwalker, and hinges around the changes to Perfect Balance (the skill, not me).
 
 
-Perfect Balance has a similar effect as it did previously -- nullifying form requirements -- however now it has two charges and a 40s cooldown.  Upon executing a weaponskill, it grants a Chakra of the corresponding Form.  We can then spend these Beast Chakra on one of 4 new Blitz weaponskills depending on the Chakra we had accumulated. Upon using any of these Blitzes, we're granted Formless Fist, allowing us to proceed with our rotation without having to do any GCDs without their form bonus.
+Perfect Balance has a similar effect as it did previously -- nullifying form requirements -- however now it has two charges and a 40s cooldown.  Upon executing a weaponskill, it grants a Chakra of the corresponding Form.  We can then spend these Beast Chakra on one of four new Blitz weaponskills depending on the Chakra we had accumulated. Upon using any of these Blitzes, we're granted Formless Fist, allowing us to proceed with our rotation without having to do any GCDs without their form bonus.
 
 |                                                 |                                                                                                                                  |
 | ----------------------------------------------- | -------------------------------------------------------------------- |
@@ -265,7 +265,7 @@ Perfect Balance has a similar effect as it did previously -- nullifying form req
 
 &nbsp;\
 
-Now as for specifically which GCDs you want to press to activate each Blitz and when, we can intuit.
+Now as for specifically which GCDs you want to press to activate each Blitz and when, we can intuit:
 
 
 
@@ -294,7 +294,9 @@ Phantom Rush. Phantom Rush is our strongest Masterful Blitz, and as such is the 
 
 On the face of it, Riddle of Fire and Brotherhood are pretty simple skills. We press Riddle of Fire and do more damage for the next 20 seconds. We press Brotherhood and both we and our party do more damage for the next 15 seconds. Now while the burst windows that we build around these skills using the rest of our kit can be complex, the actual usage of these skills themselves are very simple. In a full uptime vacuum we simply press them on cooldown every single time they come back up. Make sure you're always weaving RoF in the latter half of your GCD roll to ensure you get a full 11 GCDs under the buff. 
 
-Some terminology I would like to introduce before we get deeper into the guide is the idea of odd and even Riddle of Fire windows. The "odd" window occurs on odd minutes (1, 3, 5, etc.), and consists solely of Riddle of Fire. The "even" window occurs on even minutes (2, 4, 6, etc), and contains both Riddle of Fire and Brotherhood. 
+
+
+Some terminology I would like to introduce before we get deeper into the guide is the idea of odd and even Riddle of Fire windows. The "odd" window occurs on odd minutes (one, three, five, etc.), and consists solely of Riddle of Fire. The "even" window occurs on even minutes (two, four, six, etc), and contains both Riddle of Fire and Brotherhood. 
 
 ### Riddle of Wind
 
@@ -313,7 +315,7 @@ This is the part where I cover everything that's been missed until now. We've co
 
 |                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![](https://xivapi.com/i/002000/002547_hr1.png) | **Six-Sided Star** is a GCD with a potency of 550, but double the recast of every other GCD. While doing two GCDs is always more potency than doing one SSS, this is useful in scenarios where you don't have the time to do two GCDs, or before you disengage from a target. A situational skill, you'll either use it before running out of a big aoe, before a boss dies, or before a boss goes untargetable for whatever reason. It also applies a small movement speed buff for 5 seconds. Overall a very useful utility GCD. |
+| ![](https://xivapi.com/i/002000/002547_hr1.png) | **Six-Sided Star** is a GCD with a potency of 550, but double the recast of every other GCD. While doing two GCDs is always more potency than doing one SSS, this is useful in scenarios where you don't have the time to do two GCDs, or before you disengage from a target. A situational skill, you'll either use it before running out of a big aoe, before a boss dies, or before a boss goes untargetable for whatever reason. It also applies a small movement speed buff for five seconds. Overall a very useful utility GCD. |
 | ![](https://xivapi.com/i/002000/002537_hr1.png) | **Riddle of Earth** is an oGCD with three stacks and a 30s CD. Upon use you're granted three stacks of RoE, which decrease by one each time you use a weaponskill. It has a 10s duration if you don't consume all three stacks. Each stack provides you 20% mitigation (non-stacking).                                                                                                                                                                                                                                                                                                         |
 | ![](https://xivapi.com/i/002000/002975_hr1.png) | **Thunderclap** is our new mobility tool, an oGCD with a 30s CD and three charges. It can target both your enemy or a party member, and so provides us a decent amount of flexibility, being able to zip around up to three times in a row. Whether or not we'll ever need that kind of mobility, we'll have to wait and see, but it's nice to know that it's there if we need it.                                                                                                                                                                                                                                                                                                         |
 | ![](https://xivapi.com/i/000000/000216_hr1.png) | **Mantra** is an oGCD with a 15s duration and a 90s CD. It increases healing received by you and all party members within 15y by 10%, which is quite a strong mitigation tool. Given that a lot of the shields in this game (Succor, Aspected Helios, etc.) are based on the amount of healing done, it means that Mantra can be used to provide both increased healing and greater shielding. You should discuss with your healers when to use it for maximum benefit.                                  |
@@ -325,11 +327,11 @@ This is the part where I cover everything that's been missed until now. We've co
 | ![](https://xivapi.com/i/000000/000821_hr1.png) | **Second Wind** is an oGCD with a 120s CD. It instantly heals you with a cure potency of 500. Similar to Bloodbath, it's good to keep yourself alive in emergencies.                                                                                                                                                                                                                                                      |
 | ![](https://xivapi.com/i/000000/000824_hr1.png) | **Leg Sweep** is an oGCD stun on a 40s CD. It's generally not ever used, as the few stuns that do pop up across the various encounters in this game are typically covered by a tank. Still, not entirely worthless if no-one else in your group knows/is able to correctly time their stun.                                                                                                                                                                                                                                                   |
 
-## Section 3: Gameplay Choices
+## Section Three: Gameplay Choices
 
 ### Openers
 
-There are two openers available to us, with each of those openers having an early variation for a grand total of four potential openers. The Lunar Solar opener can be treated as a default opener, as it ensures maximum Phantom Rush usages over an unknown killtime while also allowing us to play the easier, looping variation of Monk. This opener also affords us the opportunity to be flexible with where we  place RP in our 2 minute burst window. This is beneficial, as when doing Double Solar our first PB in the 2 minute window is a PR, for which we want to follow an EF PB sequence, i.e., 3x Opo GCD spam. This means that in a scenario where you're required to burst immediately following downtime, those Opo PB GCDs would potentially have to be sacrificed in order to refresh Twin Snakes/Demolish. With the flexibility of PR PB sequence in our 2 minutes, we can accomplish this while losing nothing.
+There are two openers available to us, with each of those openers having an early variation for a grand total of four potential openers. The Lunar Solar opener can be treated as a default opener, as it ensures maximum Phantom Rush usages over an unknown killtime while also allowing us to play the easier, looping variation of Monk. This opener also affords us the opportunity to be flexible with where we  place RP in our two minute burst window. This is beneficial, as when doing Double Solar our first PB in the two minute window is a PR, for which we want to follow an EF PB sequence, i.e., 3x Opo GCD spam. This means that in a scenario where you're required to burst immediately following downtime, those Opo PB GCDs would potentially have to be sacrificed in order to refresh Twin Snakes/Demolish. With the flexibility of PR PB sequence in our two minutes, we can accomplish this while losing nothing.
 
 
 The Double Solar opener is something that becomes more worthwhile to switch to when you have a greater understanding of an encounter and its nuances -- primarily, having an estimated killtime that you are reasonably confident you'll achieve. A few reasons you may use this opener would include knowing that you aren't going to lose a PR by doing so, or that it won't have any other adverse effects on your burst windows.
@@ -350,9 +352,9 @@ This opener is effectively the "Guaranteed Max Phantom Rush uses" opener; it sta
 
 #### Double Solar
 
-![](/img/mnkguide_0002_doublesolar.png)\
+![](/img/mnkguide_0002_doublesolar.png)
 
-![](/img/mnkguide_0003_doublesolar_detail.png)\
+![](/img/mnkguide_0003_doublesolar_detail.png)
 
 &nbsp;\
 
@@ -564,7 +566,7 @@ We have a very minor optimization available to use through Riddle of Wind, where
 
 This image from Aya demonstrates in slightly more detail what the auto-attack timer you'll see in-game is. It essentially shows the best and worst times to press RoW. Green is the best, Red is awful, and orange is fine.  The closer to green the orange is the better, the further away from green orange is, the worse. It is not worth holding RoW multiple GCDs for more favorable auto-attack timer alignment; this is simply to be used to identify a better injection point in the early/late weave window.
 
-Upon installing the plugin via triggernometry, it should look something like this:
+Upon installing the plugin via Triggernometry, it should look something like this:
 
 ![](/img/mnkguide_0016_aatrigger.png)\
 
