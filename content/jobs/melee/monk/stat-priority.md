@@ -7,7 +7,7 @@ changelog:
     message: Created page
   - date: 2022-02-04T10:07:14.918Z
     message: Updated for Endwalker
-priority: Sks to at least 1.94 GCD > Crit > Det > DH
+priority: SkS to at least 1.94 GCD > Crit > Det > DH
 authors:
   - Perfect-Balance
 ---
