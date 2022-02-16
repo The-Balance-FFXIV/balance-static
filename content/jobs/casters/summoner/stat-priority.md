@@ -13,7 +13,7 @@ authors:
 ---
 As a general rule we recommend:
 
-SpS to 2.46-2.48 >>>>> Crit > Det >= DH > More SpS
+SpS to 2.46-2.48 > Crit > Det >= DH > More SpS
 
 
 
