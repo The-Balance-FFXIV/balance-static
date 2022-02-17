@@ -49,7 +49,7 @@ Both MP and Lucid ticks can be tracked via triggers. You can download a [MP tick
 
 **Early MP ticks**
 
-Understanding how MP ticks interact with our rotation will become increasingly important as we dive deeper into non-standard lines. In many cases, if we get the right MP tick, often in the form of an early tick, we can conserve one filler resource. For example, in the AF1 F3P Standard line above, if an MP tick happens right after we enter UI, we know that the next tick will happen sometime during or after the B4 cast, granting us full MP. With this, we can safely skip one filler. 
+Understanding how MP ticks interact with our rotation will become increasingly important as we dive deeper into non-standard lines. In many cases, if we get the right MP tick, often in the form of an early tick, we can conserve one filler resource. **Such filler skips will prove to be crucial in reducing the cost of non-standard lines.** For example, in the AF1 F3P Standard line above, if an MP tick happens right after we enter UI, we know that the next tick will happen sometime during or after the B4 cast, granting us full MP. With this, we can safely skip one filler. 
 
 ![](https://lh4.googleusercontent.com/YCkBro8qbPjFbIHmtexoQvatFGVbbdaalbDBtMhq-lkM4qfbPATrvnPoPSv3SAMBsNH0x0X_qctiLLCRF1CxCdXtCGYFo65oGbloYaNhEUfindXTDt3uLe1IMaF4rA1KgcooK04U)
 
@@ -135,10 +135,6 @@ To cast 4xF4 and Despair, a minimum of 7200 MP is needed. This can be obtained f
 
 While a weak B3 and B4 are skipped, the slow casting UI2 F3 is still abysmal. Compared to standard, this line is a 0.3% gain. However, it should be compared to AF1 F3P Standard instead, as the latter already has a gain of 0.9% with additional flexibility. **In general, it is recommended to do AF1 F3P Standard over 4xF4 Single Transpose.** 
 
-![](https://lh6.googleusercontent.com/UPDniDQoS698Fvm0nTDPh2jSB2uksM01u4ADwech0Ufd3wV3kGezV1dvdKEPdo4QKMJjcbHxevhXEWcUC62nr7X85QsotEVmj0EmVRVINuFakhU0amctgXAeTsDUDvXruByK1d4p)
-
-The instant cast can be an instant Despair. Swift and Triple can be used to facilitate casts during the fire phase. **These principles apply to all Transpose lines.**
-
 **5xF4 Transpose \[N36]**
 
 ![](https://lh4.googleusercontent.com/CjjduoyCLZCZq8noY0o5rQiAf-WfMkqhSEvDqHRKUWXXxlBzdjtTxvLakEcyxVhpAz-WEmA93gSgkFICSRxBtKyqGKKO-cySSrnqrSkp0502SxKVw7lApE9amwzb8U_mQylidnHp)
@@ -149,13 +145,23 @@ Same principle as 4xF4 Transpose, but with higher SpS for an additional F4 in th
 
 To alleviate the weak slow casting F3, one method is to use a F3P generated from the previous fire phase in its place, which eliminates the F3’s long cast time and improves the line’s effectiveness. This has been made viable from F3P’s change to 30 seconds in Endwalker. However, as we are transitioning to AF with an instant, we can only fit in 3 F4s without high SpS. In addition, we must also consider the standard line with its probability that produced the F3P. With these considerations, this line in conjunction with standard yields a 0.55% gain, which is still less than AF1 F3P Standard. 
 
-![](https://lh5.googleusercontent.com/fVgDaQhZ2lDpOHr0iDkxSwwkZO1lr5fD0nKUAHmcPI4GRzLAtDhDRaeSPotvGZFbRU0BxkVm72ZRBfc8B1g4oRpKxdngpAMIp_FiggUWVfV_jr5MPASC0QaWQe3_4trt1AjacBRx)
-
-The middle filler can be used to hardcast refresh Thunder, as the first and last fillers need to be instants. **This principle of hardcast Thunder being used as a filler can be applied to all fillers with the correct MP tick that does not require weaving.** 
-
 ![](https://lh5.googleusercontent.com/g7q8vGKJJSqsBzNu4On9kwIzvc99GXGXWnXXb8qxgypDKD-t_8I2hwzTCS5Rg38jCq30XgVdga68cmv3OLEO8DWz1vOIEdNbMvR-ytOOF0lbR877UqZJ7tJkIK-WtP8Vp2ye1s_V)
 
 **In practice, we want to take advantage of Double Transpose for an even stronger line, and would only use this line should an abysmally timed MP tick occur. Double Transpose lines are discussed shortly below.** 
+
+### Umbral Ice fillers
+
+Unless specified, the blank white GCDs in this guide refer to T3P and Xenoglossy. During AOE, T4 and Foul can be used instead. Below is an example of a Double Transpose line with Xeno and T3P as fillers. If the correct MP tick occurs, the last Xeno should be skipped. 
+
+![](https://lh4.googleusercontent.com/URBrFLniX_Oa42_CBdzJAdBs6tXlBOCrZse-cC8sORhHjsx_HtqPmK7-2ItROgocrjD-fvW5v1DTb4JcifdRbPZnyS9bEY2GAawMJnalk2zTMIdy2nH3rpptpHphoNLHPCIm-Gec)
+
+Swift and Triple can be weaved to facilitate casts during the fire phase. When a Despair is instant cast, it can substitute as the first instant GCD into Umbral Ice. Example 4xF4 Transpose with Swift and Triplecast used. 
+
+![](https://lh5.googleusercontent.com/dzvAh_Be6Zr66jdyvT_fPm_srgbBdjfE4HorJUCjdrslywZ9Kx609VfejVNFMAe1g9q0fHgAEJWKVQJOT2G_JlfyqV7SIIM9KGpk27vtjPCkRhsLUQdi0okpme6rUJpoNvPsC177)
+
+In many Transpose lines, the middle filler can be used to hardcast refresh Thunder. One tick before the Thunder cast is needed as a hardcast Thunder has a cost of 400 MP. Beware of how this MP cost interacts with the MP requirement and generation of the line. There should be an instant cast before the hardcast Thunder for the first Transpose, and another instant after the hardcast Thunder if it is a Double Transpose. 
+
+![](https://lh4.googleusercontent.com/xx396YELEYn6oxcOzXZzHoBLlANfFjUBhyY6j5gWJFJnxI_7Oap0UgY3A32hOlQ3t8Hk_SG31z3MEA00TPtTfcm5_1QOd5uUtgw8ga4I1dAyC-tND4HqaRFhh1Ab3hSsM2MGl6xf)
 
 ### Instant B3 with Transpose \[I3]
 
