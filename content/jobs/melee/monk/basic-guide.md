@@ -90,15 +90,17 @@ Explanations:  [Critical Hit](https://www.akhmorning.com/allagan-studies/stats/c
 | 2666    | 1.68 |
 | 2754    | 1.67 |
 
+&nbsp;
 
 ### Useful Plugins
 
-| Plugin                    | Description                                                              | Link / Info                                                                                                                   |
-| ------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| Triggernometry            | Many triggers we typically use hinge on Triggernometry to function       | [GitHub](https://github.com/paissaheavyindustries/Triggernometry/releases)                                             |
-| Auto-Attack timer         | Displays a bar showing your auto-attack timer                            | [XML Guide](https://cdn.discordapp.com/attachments/166036664341364737/920290186762534932/auto_timer_guide_edition.xml) |
-| Missed positional trigger | Says "miss" when you miss a positional. (Doesn't require Triggernometry) | Go to Custom Triggers in ACT and import XML.  Change "NAME HERE" to your character's name and copy below to your clipboard: \<Trigger R="^A[^ ]* 15:[^:]+:NAME HERE:((38\|42\|8CF\|8D2\|1D3\[9A]\|5F3[EF]\|DE[24]\|64AC):[^:]+:[^:]+:[^:]+:(7\|3[AD]\|4[04])\|(58\|DEB):[^:]+:[^:]+:[^:]+:3[6AE])" SD="Miss" ST="3" CR="F" C=" General" T="F" TN="" Ta="F" /> |
-| Missed positional trigger | Says "miss" when you miss a positional. (doesn't require Triggernometry) | Go to Custom Triggers in ACT and import XML.  Change "NAME HERE" to your character's name and copy below to your clipboard: \<Trigger R="^A[^ ]* 15:[^:]+:NAME HERE:((38\|42\|8CF\|8D2\|1D3\[9A]\|5F3[EF]\|DE[24]\|64AC):[^:]+:[^:]+:[^:]+:(7\|3[AD]\|4[04])\|(58\|DEB):[^:]+:[^:]+:[^:]+:3[6AE])" SD="Miss" ST="3" CR="F" C=" General" T="F" TN="" Ta="F" /> |
+| Plugin                    | Description                                                              | Link / Info                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Triggernometry            | Many triggers we typically use hinge on Triggernometry to function       | [GitHub](https://github.com/paissaheavyindustries/Triggernometry/releases)                                                                                                                                                                                                                                                                             |
+| Auto-Attack timer         | Displays a bar showing your auto-attack timer                            | [XML Guide](https://cdn.discordapp.com/attachments/166036664341364737/920290186762534932/auto_timer_guide_edition.xml)                                                                                                                                                                                                                                 |
+| Missed positional trigger | Says "miss" when you miss a positional. (Doesn't require Triggernometry) | Go to Custom Triggers in ACT and import XML.  Change "NAME HERE" to your character's name and copy below to your clipboard: <Trigger R="^A[^ ]* 15:[^:]+:NAME HERE:((38|42|8CF|8D2|1D3\[9A]|5F3\[EF]|DE\[24]|64AC):[^:]+:[^:]+:[^:]+:(7|3\[AD]|4\[04])|(58|DEB):[^:]+:[^:]+:[^:]+:3\[6AE])" SD="Miss" ST="3" CR="F" C=" General" T="F" TN="" Ta="F" /> |
+
+&nbsp;
 
 ### Glossary
 
@@ -173,11 +175,12 @@ As previously mentioned, Monk has six core single-target GCDs.
 | ![Dragon Kick](https://xivapi.com/i/002000/002528_hr1.png) | **Dragon Kick** has a potency of 320. When in Opo-Opo form, it will grant the Leaden Fist buff.                                                                                                                                                                                                                              |
 | ![True Strike](https://xivapi.com/i/000000/000209_hr1.png) | **True Strike** has a potency of 300. It can only be executed from Raptor form.                                                                                                                                                                                                                                              |
 | ![Twin Snakes](https://xivapi.com/i/000000/000213_hr1.png) | **Twin Snakes** has a potency of 280. It also grants a 15% damage increase buff, Disciplined Fist, that lasts for 15 seconds. Twin Snakes can only be executed from Raptor form.                                                                                                                                             |
-| ![Demolish](https://xivapi.com/i/000000/000204_hr1.png)    | **Demolish** has a potency of 70, or 130 when executed from the rear. It also applies an 18-second duration dot with 70 potency, for a combined total of 130 + 420 potency. It can only be executed from Coeurl form.                                                                                                          |
+| ![Demolish](https://xivapi.com/i/000000/000204_hr1.png)    | **Demolish** has a potency of 70, or 130 when executed from the rear. It also applies an 18-second duration dot with 70 potency, for a combined total of 130 + 420 potency. It can only be executed from Coeurl form.                                                                                                        |
 | ![Snap Punch](https://xivapi.com/i/000000/000210_hr1.png)  | **Snap Punch** has a potency of 250, or 310 when executed from the flank. It can only be executed from Coeurl form.                                                                                                                                                                                                          |
 | ![Form Shift](https://xivapi.com/i/002000/002536_hr1.png)  | **Form Shift** is a unique GCD, as it's not directly a part of our rotation, but it does enable our rotation. Form Shift grants the Formless Fist buff, which allows you to use any GCD and gain its additional form effects. Since this GCD does no damage, we only ever use it before pulling an enemy or during downtime. |
 
-\
+&nbsp;
+
 ### Basic Rotation in a Vacuum
 
 With the knowledge of these GCDs, we can actually already begin to build what will be the foundation of our rotation. Now, we know that we're going to be doing a three-step combo, but that we have two options for GCDs at each step; how do we decide which one to press?
@@ -206,12 +209,12 @@ Our AoE rotation is quite simple. As opposed to other jobs that will have an ent
 
 &nbsp;
 
-|               | ![](https://xivapi.com/i/000000/000208_hr1.png) | ![](https://xivapi.com/i/002000/002528_hr1.png) | ![](https://xivapi.com/i/002000/002979_hr1.png) | ![](https://xivapi.com/i/000000/000209_hr1.png) | ![](https://xivapi.com/i/000000/000213_hr1.png) | ![](https://xivapi.com/i/002000/002544_hr1.png) | ![](https://xivapi.com/i/000000/000210_hr1.png) | ![](https://xivapi.com/i/000000/000204_hr1.png) | ![](https://xivapi.com/i/002000/002529_hr1.png) | 
-| ------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| **GCD Potency**   | **Bootshine**  | **Dragon Kick** | **Shadow of the Destroyer** | **True Strike** | **Twin Snakes** | **Four-Point Fury** | **Snap Punch** | **Demolish**\* | **Rockbreaker** |
-| One target    | 310 | 320 | 110 | 300 | 280 | 120 | 300 | 550 | 130 |
-| Two targets   | 310 | 320 | 220 | 300 | 280 | 240 | 300 | 550 | 260 |
-| Three targets | 310 | 320 | 330 | 300 | 280 | 360 | 300 | 550 | 390 |
+| **Icon:**       | ![](https://xivapi.com/i/000000/000208_hr1.png) | ![](https://xivapi.com/i/002000/002528_hr1.png) | ![](https://xivapi.com/i/002000/002979_hr1.png) | ![](https://xivapi.com/i/000000/000209_hr1.png) | ![](https://xivapi.com/i/000000/000213_hr1.png) | ![](https://xivapi.com/i/002000/002544_hr1.png) | ![](https://xivapi.com/i/000000/000210_hr1.png) | ![](https://xivapi.com/i/000000/000204_hr1.png) | ![](https://xivapi.com/i/002000/002529_hr1.png) |
+| --------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| **GCD Potency** | **Bootshine**                                   | **Dragon Kick**                                 | **Shadow of the Destroyer**                     | **True Strike**                                 | **Twin Snakes**                                 | **Four-Point Fury**                             | **Snap Punch**                                  | **Demolish***                                   | **Rockbreaker**                                 |
+| One target      | 310                                             | 320                                             | 110                                             | 300                                             | 280                                             | 120                                             | 300                                             | 550                                             | 130                                             |
+| Two targets     | 310                                             | 320                                             | 220                                             | 300                                             | 280                                             | 240                                             | 300                                             | 550                                             | 260                                             |
+| Three targets   | 310                                             | 320                                             | 330                                             | 300                                             | 280                                             | 360                                             | 300                                             | 550                                             | 390                                             |
 
 \**Assuming each Demolish is able to fully tick.*
 
@@ -225,11 +228,11 @@ Chakra is the simpler of our two job gauges. Chakra can be stacked up to five ti
 
 "How do we build Chakra PB?" I hear you ask.  We have a number of different ways:
 
-|                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002534_hr1.png)                                                                     | First is Meditation, a GCD with a one second cooldown that opens a single Chakra upon being pressed. When outside of combat it generates five stacks of Chakra instantly.                                                                                                                                                                                                                                                                                                                                                                 |
+|                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://xivapi.com/i/002000/002534_hr1.png) | First is Meditation, a GCD with a one second cooldown that opens a single Chakra upon being pressed. When outside of combat it generates five stacks of Chakra instantly.                                                                                                                                                                                                                                                                                                                                                                 |
 | ![](https://xivapi.com/i/005000/005238_hr1.png) | We then have two traits: Deep Meditation I & II. Deep Meditation I grants an 80% chance of generating a Chakra upon landing a critical weaponskill. Deep Meditation II turns that 80% chance into a 100% chance.                                                                                                                                                                                                                                                                                                                          |
-| ![](https://xivapi.com/i/002000/002542_hr1.png)                                                                     | Finally, we have Brotherhood. Brotherhood has multiple effects, but in this section we'll just talk about the effect pertaining to Chakra generation. Upon execution, party members within 15 yalms will gain the effect of Meditative Brotherhood for 15 seconds. While this buff is active on an ally, every time they execute a weaponskill or a spell, there is a 20% chance that you will gain a stack of Chakra. While the buff is active on yourself, you have a 100% chance to gain a Chakra each time you execute a weaponskill. |
+| ![](https://xivapi.com/i/002000/002542_hr1.png) | Finally, we have Brotherhood. Brotherhood has multiple effects, but in this section we'll just talk about the effect pertaining to Chakra generation. Upon execution, party members within 15 yalms will gain the effect of Meditative Brotherhood for 15 seconds. While this buff is active on an ally, every time they execute a weaponskill or a spell, there is a 20% chance that you will gain a stack of Chakra. While the buff is active on yourself, you have a 100% chance to gain a Chakra each time you execute a weaponskill. |
 
 &nbsp;
 
@@ -241,6 +244,8 @@ We can spend our Chakra on either of the following two oGCDs:
 | ----------------------------------------------- | ------------------------------------------------------------------------- |
 | ![](https://xivapi.com/i/002000/002535_hr1.png) | **The Forbidden Chakra** is a single target attack with a potency of 340. |
 | ![](https://xivapi.com/i/002000/002545_hr1.png) | **Enlightenment** is a line AoE with a potency of 170.                    |
+
+&nbsp;
 
 ### Beast Chakra - How They Work
 
@@ -269,10 +274,10 @@ Phantom Rush. Phantom Rush is our strongest Masterful Blitz, and as such is the 
 
 ### Riddle of Fire + Brotherhood
 
-| Icon                                            | Name               | Effect                                                                                                                   | Duration | Cooldown |     |
-| ----------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------ | -------- | -------- | --- |
-| ![](https://xivapi.com/i/002000/002541_hr1.png) | **Riddle of Fire** | Increases damage dealt by 15%.                                                                                           | 20s      | 60s      |     |
-| ![](https://xivapi.com/i/002000/002542_hr1.png) | **Brotherhood**    | Grants Brotherhood and Meditative Brotherhood to all party members within 15y. Brotherhood increases damage dealt by 5%. | 15s      | 120s     |     |
+| Icon                                            | Name               | Effect                                                                                                                   | Duration | Cooldown |
+| ----------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------ | -------- | -------- |
+| ![](https://xivapi.com/i/002000/002541_hr1.png) | **Riddle of Fire** | Increases damage dealt by 15%.                                                                                           | 20s      | 60s      |
+| ![](https://xivapi.com/i/002000/002542_hr1.png) | **Brotherhood**    | Grants Brotherhood and Meditative Brotherhood to all party members within 15y. Brotherhood increases damage dealt by 5%. | 15s      | 120s     |
 
 &nbsp;
 
@@ -299,7 +304,7 @@ This is the part where I cover everything that's been missed until now. We've co
 | ![](https://xivapi.com/i/002000/002975_hr1.png) | **Thunderclap** is our new mobility tool, an oGCD with a 30s CD and three charges. It can target both your enemy or a party member, and so provides us a decent amount of flexibility, being able to zip around up to three times in a row. Whether or not we'll ever need that kind of mobility, we'll have to wait and see, but it's nice to know that it's there if we need it.                                                                                                                                                                                                                         |
 | ![](https://xivapi.com/i/000000/000216_hr1.png) | **Mantra** is an oGCD with a 15s duration and a 90s CD. It increases healing received by you and all party members within 15y by 10%, which is quite a strong mitigation tool. Given that a lot of the shields in this game (Succor, Aspected Helios, etc.) are based on the amount of healing done, it means that Mantra can be used to provide both increased healing and greater shielding. You should discuss with your healers when to use it for maximum benefit.                                                                                                                                    |
 | ![](https://xivapi.com/i/002000/002546_hr1.png) | **Anatman** is completely worthless in 99% of situations. It's a channeled GCD with a 60s CD that can be held for up to 30s. It extends your Disciplined Fist and present form timer to their maximum while preventing their expiration. As far as the current form goes, in the time you use Anatman you could've just used Form Shift instead. As for Disciplined Fist extension, it's incredibly hard to actually get value out of this, and when you do get value, all it does is save you from doing maybe one auto-attack and a Twin Snakes without the buff active. Maximum effort, minimum reward. |
-| ![](https://xivapi.com/i/000000/000828_hr1.png) | **Feint** is an oGCD with a 10s duration and a 90s CD, which lowers the target's physical damage dealt by 10% and magic damage dealt by 5%. This is a very nice tool now, as we're finally able to use it in fights that have no physical damage sources. As a tool for both progression and optimization it's invaluable, and you should discuss with your healers and tanks where it's best used for maximum effect.                                                                                                                                                                                         |
+| ![](https://xivapi.com/i/000000/000828_hr1.png) | **Feint** is an oGCD with a 10s duration and a 90s CD, which lowers the target's physical damage dealt by 10% and magic damage dealt by 5%. This is a very nice tool now, as we're finally able to use it in fights that have no physical damage sources. As a tool for both progression and optimization it's invaluable, and you should discuss with your healers and tanks where it's best used for maximum effect.                                                                                                                                                                                     |
 | ![](https://xivapi.com/i/000000/000822_hr1.png) | **Arm's Length** is an oGCD with a 6s duration and a 120s CD. It nullifies almost every knockback/draw-in effect in the game, which is useful for keeping uptime when a boss tries to push you away. It can also be used to allow new solutions for mechanics.                                                                                                                                                                                                                                                                                                                                             |
 | ![](https://xivapi.com/i/000000/000830_hr1.png) | **True North** is an oGCD with two charges and a 45s CD. For its 10-second duration, it nullifies all positional requirements of your weaponskills. Even though we only have two positionals left, this is still useful for situations where for whatever reason you literally cannot get into the right position.                                                                                                                                                                                                                                                                                         |
 | ![](https://xivapi.com/i/000000/000823_hr1.png) | **Bloodbath** is an oGCD with a 20s duration and a 90s CD. It converts a portion of physical damage dealt into healing; very useful for keeping yourself alive in a pinch. Sync it up with a buff window for even bigger heals.                                                                                                                                                                                                                                                                                                                                                                            |
@@ -322,11 +327,7 @@ Chakra usage in the opener depends on if you are able to double weave without cl
 
 ![Lunar Solar Opener](/img/jobs/mnk/mnkguide_0000_lunarsolar.png "Lunar Solar Opener")
 
-
-
 ![Lunar Solar Opener - Rotation Detail](/img/jobs/mnk/mnkguide_0001_lunarsolar_detail.png "Lunar Solar Opener - Rotation Detail")
-
-&nbsp;
 
 This opener is effectively the "Guaranteed Max Phantom Rush uses" opener; it starts out by generating both a Lunar and a Solar Nadi and banishing our PR to the land of the one-minute buffs. The opener requires a double weave if you wish to preserve the same Brotherhood timing as the double Solar opener.  If you and your group are fine to delay BH by one GCD, simply move it + Riddle of Wind one oGCD slot down.
 
@@ -335,8 +336,6 @@ This opener is effectively the "Guaranteed Max Phantom Rush uses" opener; it sta
 ![Double Solar Opener](/img/jobs/mnk/mnkguide_0002_doublesolar.png "Double Solar Opener")
 
 ![Double Solar Opener - Rotation Detail](/img/jobs/mnk/mnkguide_0003_doublesolar_detail.png "Double Solar Opener - Rotation Detail")
-
-&nbsp;
 
 Yes, doing two Rising Phoenix overcaps us on Solar Nadi. Yes, that is intentional. This is done for Phantom Rush alignment.
 
@@ -355,8 +354,6 @@ Brotherhood's placement is flexible should it ever need to be moved to account f
 #### Early Double Solar
 
 ![Early Lunar Solar Opener - Rotation Detail](/img/jobs/mnk/mnkguide_0005_earlydoublesolar.png "Early Lunar Solar Opener - Rotation Detail")
-
-&nbsp;
 
 Both early openers require a pre-pull Tincture.
 
@@ -380,15 +377,11 @@ Following this you simply press buttons according to the Monk Flowchart until th
 
 ![Braindead Looping Rotation - Odd Minutes](/img/jobs/mnk/mnkguide_0007_braindeadodd.png "Braindead Looping Rotation - Odd Minutes")
 
-&nbsp;
-
 Every single odd window following this will be exactly the same, the only difference being that your Opo GCDs will flip each two minutes (Bootshines become Dragon Kick and vice-versa). The only time you might have to slightly adjust anything in your rotation is if for whatever reason your Twin Snakes has not naturally aligned before the Demolish seen at 1:13. If this happens and the flowchart would have you place a True Strike here, simply ignore that and force a Twin Snakes refresh.
 
 From the odd window we again go back to following the flowchart until the even window occurs. Again, the even window will now always look exactly like this, with the one change being that Opo GCDs will switch every two minutes.
 
 ![Braindead Looping Rotation - Even Minutes](/img/jobs/mnk/mnkguide_0008_braindeadeven.png "Braindead Looping Rotation - Even Minutes")
-
-&nbsp;
 
 Very important here is the Twin Snakes following the Elixir Field, which serves the exact same purpose as the post-Blitz Twin Snakes in our opener -- facilitating the loop. You might notice that sometimes the Demolish from your RP PB sequence clips, but this doesn't matter.
 
@@ -434,21 +427,15 @@ Similarly again to how you'd build odd windows, working backwards from the end o
 
 ![Optimal Drift Rotation - Spreadsheet](/img/jobs/mnk/mnkguide_0009_optimaldrifttable.png "Optimal Drift Rotation - Spreadsheet")
 
-&nbsp;
-
 *\*Note: RoF can be coming up at any point within three GCDs of where it's shown in these images.*
 
 *Visual Representation*
 
 ![Optimal Drift Rotation - Visual](/img/jobs/mnk/mnkguide_0010_optimaldriftvisual.png "Optimal Drift Rotation - Visual")
 
-&nbsp;
-
 *Even Windows Explained*
 
 ![Optimal Drift Rotation - Even Windows Explained](/img/jobs/mnk/mnkguide_0011_optimaldrifteven.png "Optimal Drift Rotation - Even Windows Explained")
-
-&nbsp;
 
 Here is a [spreadsheet representation](https://docs.google.com/spreadsheets/d/1Ruf5jdBSn9enS3RefS02m3YI-GUBfU0rnsB6sqGcm9c/edit#gid=0) of every possible even window.
 
@@ -485,9 +472,7 @@ Again, in simple terms what this means is: Always press RoF on cooldown, whether
 
 ![](/img/jobs/mnk/mnkguide_0012_doublesolarrof.png)
 
-&nbsp;
-
-## Section 4: Cursed Knowledge
+## Section Four: Cursed Knowledge
 
 ### Double Weaving
 
@@ -500,11 +485,7 @@ You can download it [here](https://github.com/Soreepeong/XivAlexander).
 
 ![Ghosting Ranking](/img/jobs/mnk/mnkguide_0013_ghostrank.png "Ghosting Ranking")
 
-&nbsp;
-
 ![Damage Application](/img/jobs/mnk/mnkguide_0014_damageapp.png "Damage Application")
-
-&nbsp;
 
 These images show the damage application on a number of Monk skills. It's called the "Ghost Ranking" because if you press the button and the boss goes invulnerable in a shorter amount of time than is displayed, the damage will not apply, it will "ghost".
 
@@ -516,15 +497,11 @@ We have a very minor optimization available to use through Riddle of Wind, where
 
 ![Auto-Attack Usage](/img/jobs/mnk/mnkguide_0015_autos.png "Auto-Attack Usage")
 
-&nbsp;
-
 This image from Aya demonstrates in slightly more detail what the auto-attack timer you'll see in-game is. It essentially shows the best and worst times to press RoW. Green is the best, Red is awful, and orange is fine. The closer to green the orange is the better, the further away from green orange is, the worse. It is not worth holding RoW multiple GCDs for more favorable auto-attack timer alignment; this is simply to be used to identify a better injection point in the early/late weave window.
 
 Upon installing the plugin via Triggernometry, it should look something like this:
 
 ![Auto-Attack Trigger](/img/jobs/mnk/mnkguide_0016_aatrigger.png "Auto-Attack Trigger")
-
-&nbsp;
 
 If you click on the !README and then click Edit, you'll see a "Move me" action. This can be used to move the element wherever you would like on your screen.
 
