@@ -6,6 +6,8 @@ lastmod: 2022-02-16T09:20:56.725Z
 changelog:
   - date: 2021-11-28T01:53:18.458Z
     message: Created page
+  - date: 2022-02-18T03:45:55.414Z
+    message: Updated for Endwalker
 qna:
   - question: Is SMN good/fun/interesting/etc.?
     answer: Reception is pretty mixed overall. Some really enjoy it, some do not.
@@ -27,7 +29,7 @@ qna:
       heavy in 15s buffs, the fast Garuda opener is better. For a list of jobs
       by buff duration, visit the \#smn_resources channel on the Balance Discord
       for more information.
-  - question: How/when do I use Ruin 4?
+  - question: How/when do I use Ruin IV?
     answer: Prioritize using it whenever you can make use of the cleave or need the
       mobility. Otherwise, use it wherever you wish, as long as it is not inside
       a Demi summon. Don’t waste it by letting Further Ruin drop.
@@ -41,29 +43,29 @@ qna:
 
       \r
 
-      Ask yourself: Will I lose a use of a demi by delaying?\\\r
+      Ask yourself: Will I lose a use of a Demi by delaying?\\\r
 
-      If yes -> do not delay demi\\\r
+      If yes -> do not delay Demi.\\\r
 
-      If no -> ok to use primals and delay demi\\\r
+      If no -> ok to use primals and delay Demi.\\\r
 
-      If I don’t know -> do not delay demi"
-  - question: I'm using the SpS set but now my demis don't align with burst windows.
+      If I don’t know -> do not delay Demi."
+  - question: I'm using the SpS set but now my Demis don't align with burst windows.
       What do I do?
-    answer: That's normal and intended. If you're running a SpS build, your demis no
+    answer: That's normal and intended. If you're running a SpS build, your Demis no
       longer line up with your party's burst. This is fine, because you will be
-      gaining more demi phases over the course of a fight. Do NOT delay your
-      demis by inserting lots of Ruin 3s in these builds. At that point, you are
-      just running a strictly worse Crit build, and it is bad.
+      gaining more Demi phases over the course of a fight. Do NOT delay your
+      Demis by inserting a lot of of Ruin IIIs in these builds. At that point,
+      you are just running a strictly worse Crit build, and it is bad.
   - question: What loot should I get from normal mode raids?
     answer: "For a general use set that minimizes spell speed we recommend you
       follow this priority:\\\r
 
       \r
 
-      Week 1 - Gloves and Feet\\\r
+      Week One - Gloves and Feet\\\r
 
-      Week 2 - Pants
+      Week Two - Pants
 
 
       \r
@@ -75,9 +77,9 @@ qna:
 
       \r
 
-      Week 1 - Head + Ring\\\r
+      Week One - Head + Ring\\\r
 
-      Week 2 - Chest"
+      Week Two - Chest"
   - question: What BiS set do I choose?
     answer: The general Crit focused set (that's the 2.48 set) is likely to be
       better in most content, so if you are not interested in adapting multiple
