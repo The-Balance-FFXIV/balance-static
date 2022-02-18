@@ -7,7 +7,8 @@ changelog:
     message: Created page
   - date: 2022-02-16T09:16:32.535Z
     message: Updated for Endwalker
-priority: Spell Speed (to 2.46-2.48) > Critical Hit > Determination >= Direct Hit
+priority: Spell Speed (to 2.46-2.48) > Critical Hit > Determination >= Direct
+  Hit > More SpS
 authors:
   - Balance-SMN-Staff
 ---
@@ -21,4 +22,4 @@ There is an alternative way to play the job that focuses on maximizing SpS and m
 
 SpS > Det >= DH > Crit
 
-In general, the Crit set appears better for most situations. Spell speed as a stat excels when it can be fine tuned around a fight’s timeline, but you can choose to use the SpS set blindly if you wish.
+In general, the Crit set appears better for most situations. Spell speed as a stat excels when it can be fine-tuned around a fight’s timeline, but you can choose to use the SpS set blindly if you wish.
