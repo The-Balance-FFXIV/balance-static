@@ -9,7 +9,7 @@ changelog:
   - date: 2021-10-28T03:44:08.486Z
     message: Created page
   - date: 2022-02-15T10:21:35.356Z
-    message: Updated for Endwalker (patch 6.0).
+    message: Updated for Endwalker
 ---
 # **A Monk Guide by Perfect Balance**
 
