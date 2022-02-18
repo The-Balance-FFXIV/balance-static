@@ -789,12 +789,6 @@ Requires Ley Lines or Triplecast at high SpS. Essentially the same in PPS as sta
 
 The table below shows minimum spell speeds at which each sequence is possible. This table can also be found in the [Lines Comparison sheet.](https://docs.google.com/spreadsheets/d/1K57e7zFoCuLDLX2kbCAlRBrJO6LS42ifz7e5DQEPn8E/edit#gid=1999363100) The values are tested at \~100 FPS and \~70 ping, out of instance. This table is meant to serve as a rough reference only and you should test specific sequences for yourself. Your results may vary based on latency and a number of other factors. In addition, for simplicity, SpS are in base 2.5 seconds cast, which could have differing cast times for other base spellspeeds. For example, a 2.46 seconds cast in 2.5 seconds base could mean either a 2.76 seconds cast or a 2.75 seconds cast in base 2.8 seconds. Lastly, you should aim for more spellspeed than what is listed for leniency and other factors.
 
-\* = Instant cast
-
-\# = Circle of Power buff falls off
-
-LL = Ley Lines
-
 ## Acknowledgements
 
 Written by Reina Kousaka of team Abysm. You can find me on Discord @ Reina#0001
@@ -815,4 +809,4 @@ Laqi Thish for the document format and building the foundation for BLM discussio
 
 ## Epilogue
 
-My initial intention with my previous [Transpose lines document](https://docs.google.com/document/d/1PdDAqmjSHJzpD4xrA7SUGtgqaoFoRibSYAsxfyOw9-I/) was simply to create a compilation of Transpose lines as such a thing was absent. I did not anticipate being this deeply involved with Black Mage theorycrafting. However, as I dug through the different forms of rotations, I became intrigued with them and gradually discovered more things about them and about Black Mage. There is a sort of mathematical beauty in seeing an optimal BLM rotation with upgraded lines and perfect alignments of procs, ticks, and mechanics. The base or standard BLM rotation is extremely easy, but evidently, this is only the surface. Beneath the surface lies a hidden but vast arsenal of optimizations to increase BLM’s damage. Mastering the usage of this arsenal takes incredible skill, and it’s a great contrast to the simplistic nature of the base rotation. In an age where job complexity is reducing across the board, I am proud that Black Mage still has much to offer, and I am excited to see what players do to push its limits. 
+My initial intention with my previous [Transpose lines document](https://docs.google.com/document/d/1PdDAqmjSHJzpD4xrA7SUGtgqaoFoRibSYAsxfyOw9-I/) was simply to create a compilation of Transpose lines as such a thing was absent. I did not anticipate being this deeply involved with Black Mage theorycrafting. However, as I dug through the different forms of rotations, I became intrigued with them and gradually discovered more things about them and about Black Mage. There is a sort of mathematical beauty in seeing an optimal BLM rotation with upgraded lines and perfect alignments of procs, ticks, and mechanics. The base or standard BLM rotation is extremely easy, but evidently, this is only the surface. Beneath the surface lies a hidden but vast arsenal of optimizations to increase BLM’s damage. Mastering the usage of this arsenal takes incredible skill, and it’s a great contrast to the simplistic nature of the base rotation. In an age where job complexity is reducing across the board, I am proud that Black Mage still has much to offer, and I am excited to see what players do to push its limits.
