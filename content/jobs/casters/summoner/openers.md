@@ -17,7 +17,7 @@ changelog:
 
 The below opener is the general go-to opener for Summoner and uses Titan as the first primal. The initial Searing Light weave will clip your GCD slightly, but this is an acceptable clip. You can also shift Searing Light one GCD later if you need to avoid this clip for any reason.
 
-You do also have the option of cutting the second Ruin 3 and doing Bahamut immediately as well. Be warned that this runs the risk of ghosting Searing Light, particularly on higher ping, and may cause a forced delay for Bahamut and Searing Light alignment later in an encounter, depending on your SpS value. However, it can be better to do this adaptation in the opener in some circumstances.
+You do also have the option of cutting the second Ruin III and doing Bahamut immediately as well. Be warned that this runs the risk of ghosting Searing Light, particularly on higher ping, and may cause a forced delay for Bahamut and Searing Light alignment later in an encounter, depending on your SpS value. However, it can be better to do this adaptation in the opener in some circumstances.
 
 Be aware that if you are changing any timings that an optimal Searing Light GCD sequence will change from what is displayed here. Adjust accordingly to whatever timings you choose to pursue.
 
@@ -27,7 +27,7 @@ Be aware that if you are changing any timings that an optimal Searing Light GCD 
 
 ### Fast Garuda
 
-The below opener uses Garuda as the first primal, prioritizing Swiftcast to fit Slipstream into your party's raid buffs. This is a gain when your group is heavy in 15s buffs, as a Swiftcasted Slipstream will barely fit into the end of these buffs.
+The below opener uses Garuda as the first primal, prioritizing Swiftcast to fit Slipstream into your party's raid buffs. This is a gain when your group is heavy in 15s buffs, as a Swiftcast Slipstream will barely fit into the end of these buffs.
 
 The adjustments mentioned above in the general opener are also valid for this opener, though again be aware that any changes in timings or GCD use will change the exact optimal sequence you may use.
 
@@ -37,7 +37,7 @@ The adjustments mentioned above in the general opener are also valid for this op
 
 ## Rotation
 
-A full guide to Endwalker's version of Summoner is coming soon.  In the meantime, here is a quick text snippet of the rotation.  The general rotation flow is very simple, and follows like this:
+A full guide to Endwalker's version of Summoner is coming soon.  In the meantime, here is a quick text snippet of the rotation. The general rotation flow is very simple, and follows like this:
 
 Bahamut -> Primal 1 -> Primal 2 -> Primal 3 -> Phoenix -> Primal 1 -> Primal 2 -> Primal 3 -> Repeat
 
