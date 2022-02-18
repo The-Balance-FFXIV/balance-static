@@ -401,7 +401,7 @@ Same as above, but with double weaving under LL to allow certain abilities on co
 
 ![](https://lh6.googleusercontent.com/sHN5v2NGbXqbbjzim2D8_xtalj4C2m8D-xQY-niZLrd0ueBv4v1w9GdNFcwVZjRV79wqDUTf03FaYlh7vB5DMFbc83GbTv24KuvA5nbR_FNgw8sAYMKJ_rGDrOwBJoGKJGkBD0LL)
 
-One of the most potent openers by utilizing the strong Double Transpose Instant F3 line. As 3xF4 Double Transpose Instant F3 requires three UI1 ticks or two UI2 ticks + one Lucid tick, obtaining the necessary ticks under LL is not guaranteed and this opener has a certain fail rate. This means this opener requires a MP tick trigger as well as being able to pull in order to be consistent, or to be done conditionally with 4xF4 Transpose as backup should a bad MP tick occur. 
+One of the most potent openers by utilizing the strong Double Transpose Instant F3 line. As 3xF4 Double Transpose Instant F3 requires three UI1 ticks or two UI2 ticks + one Lucid tick, obtaining the necessary ticks under LL is not guaranteed and this opener has a certain fail rate. This means this opener requires a MP tick trigger as well as being able to pull in order to be consistent, or to be done conditionally with 4xF4 Transpose or with 2xF4 as backup should a bad MP tick occur. 
 
 ### F3 Opener Single Transpose 5xF4 variation 
 
