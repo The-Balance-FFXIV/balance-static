@@ -571,7 +571,7 @@ Example: choosing a different line over 3xF4 Double Transpose due to its tighter
 
 # Advanced
 
-#### Certain section requires the [MP tick trigger](https://docs.google.com/document/d/1vsI2r4064VHJ8WuhItXB7ilbdjEJ26GphZSsjWiyDDU/) 
+**Certain section requires the [MP tick trigger.](https://docs.google.com/document/d/1vsI2r4064VHJ8WuhItXB7ilbdjEJ26GphZSsjWiyDDU/) **
 
 ## Opener Sequence
 
