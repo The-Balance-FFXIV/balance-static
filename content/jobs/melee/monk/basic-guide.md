@@ -90,6 +90,7 @@ Explanations:  [Critical Hit](https://www.akhmorning.com/allagan-studies/stats/c
 | 2666    | 1.68 |
 | 2754    | 1.67 |
 
+
 ### Useful Plugins
 
 | Plugin                    | Description                                                              | Link / Info                                                                                                                   |
@@ -176,6 +177,7 @@ As previously mentioned, Monk has six core single-target GCDs.
 | ![Snap Punch](https://xivapi.com/i/000000/000210_hr1.png)  | **Snap Punch** has a potency of 250, or 310 when executed from the flank. It can only be executed from Coeurl form.                                                                                                                                                                                                          |
 | ![Form Shift](https://xivapi.com/i/002000/002536_hr1.png)  | **Form Shift** is a unique GCD, as it's not directly a part of our rotation, but it does enable our rotation. Form Shift grants the Formless Fist buff, which allows you to use any GCD and gain its additional form effects. Since this GCD does no damage, we only ever use it before pulling an enemy or during downtime. |
 
+\
 ### Basic Rotation in a Vacuum
 
 With the knowledge of these GCDs, we can actually already begin to build what will be the foundation of our rotation. Now, we know that we're going to be doing a three-step combo, but that we have two options for GCDs at each step; how do we decide which one to press?
@@ -202,7 +204,7 @@ Our AoE rotation is quite simple. As opposed to other jobs that will have an ent
 | ![Four-Point Fury](https://xivapi.com/i/002000/002544_hr1.png)         | Raptor form has **Four-Point Fury**, another circle AoE around you with 120 potency. It also grants a 15% damage increase buff, Discipled Fist, which lasts for 15 seconds. |
 | ![Rockbreaker](https://xivapi.com/i/002000/002529_hr1.png)             | Coeurl form has **Rockbreaker**, *another* circle AoE around you with 130 potency.                                                                                          |
 
-&nbsp;\
+&nbsp;
 
 |               | ![](https://xivapi.com/i/000000/000208_hr1.png) | ![](https://xivapi.com/i/002000/002528_hr1.png) | ![](https://xivapi.com/i/002000/002979_hr1.png) | ![](https://xivapi.com/i/000000/000209_hr1.png) | ![](https://xivapi.com/i/000000/000213_hr1.png) | ![](https://xivapi.com/i/002000/002544_hr1.png) | ![](https://xivapi.com/i/000000/000210_hr1.png) | ![](https://xivapi.com/i/000000/000204_hr1.png) | ![](https://xivapi.com/i/002000/002529_hr1.png) | 
 | ------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
@@ -229,7 +231,7 @@ Chakra is the simpler of our two job gauges. Chakra can be stacked up to five ti
 | ![](https://xivapi.com/i/005000/005238_hr1.png) | We then have two traits: Deep Meditation I & II. Deep Meditation I grants an 80% chance of generating a Chakra upon landing a critical weaponskill. Deep Meditation II turns that 80% chance into a 100% chance.                                                                                                                                                                                                                                                                                                                          |
 | ![](https://xivapi.com/i/002000/002542_hr1.png)                                                                     | Finally, we have Brotherhood. Brotherhood has multiple effects, but in this section we'll just talk about the effect pertaining to Chakra generation. Upon execution, party members within 15 yalms will gain the effect of Meditative Brotherhood for 15 seconds. While this buff is active on an ally, every time they execute a weaponskill or a spell, there is a 20% chance that you will gain a stack of Chakra. While the buff is active on yourself, you have a 100% chance to gain a Chakra each time you execute a weaponskill. |
 
-&nbsp;\
+&nbsp;
 
 Brotherhood Chakra gain is based on damage application. This means that following the use of a GCD with a slower damage application such as Demolish, your Chakra gain will occur much later in the GCD roll than it would after a Snap Punch, for example.
 
@@ -253,7 +255,7 @@ Perfect Balance has a similar effect as it did previously -- nullifying form req
 | ![](https://xivapi.com/i/002000/002977_hr1.png) | If we have two different Beast Chakra, Masterful Blitz becomes **Celestial Revolution**, a single-target attack with a potency of 450. Using Celestial Revolution will grant us a Lunar Nadi by default, but if we already possess the Lunar Nadi it will instead give us a Solar Nadi. |
 | ![](https://xivapi.com/i/002000/002981_hr1.png) | If we have both the Solar and Lunar Nadi active, any combination of three Beast Chakra will turn Masterful Blitz into **Phantom Rush**, an AoE with a potency of 1150 potency that deals 50% less damage to all subsequent targets hit. It consumes both Nadi upon use.                 |
 
-&nbsp;\
+&nbsp;
 
 Now as for specifically which GCDs you want to press to activate each Blitz and when, we can intuit:
 
@@ -272,7 +274,7 @@ Phantom Rush. Phantom Rush is our strongest Masterful Blitz, and as such is the 
 | ![](https://xivapi.com/i/002000/002541_hr1.png) | **Riddle of Fire** | Increases damage dealt by 15%.                                                                                           | 20s      | 60s      |     |
 | ![](https://xivapi.com/i/002000/002542_hr1.png) | **Brotherhood**    | Grants Brotherhood and Meditative Brotherhood to all party members within 15y. Brotherhood increases damage dealt by 5%. | 15s      | 120s     |     |
 
-&nbsp;\
+&nbsp;
 
 On the face of it, Riddle of Fire and Brotherhood are pretty simple skills. We press Riddle of Fire and do more damage for the next 20 seconds. We press Brotherhood and both we and our party do more damage for the next 15 seconds. Now while the burst windows that we build around these skills using the rest of our kit can be complex, the actual usage of these skills themselves are very simple. In a full uptime vacuum we simply press them on cooldown every single time they come back up. Make sure you're always weaving RoF in the latter half of your GCD roll to ensure you get a full 11 GCDs under the buff. 
 
@@ -324,7 +326,7 @@ Chakra usage in the opener depends on if you are able to double weave without cl
 
 ![Lunar Solar Opener - Rotation Detail](/img/jobs/mnk/mnkguide_0001_lunarsolar_detail.png "Lunar Solar Opener - Rotation Detail")
 
-&nbsp;\
+&nbsp;
 
 This opener is effectively the "Guaranteed Max Phantom Rush uses" opener; it starts out by generating both a Lunar and a Solar Nadi and banishing our PR to the land of the one-minute buffs. The opener requires a double weave if you wish to preserve the same Brotherhood timing as the double Solar opener.  If you and your group are fine to delay BH by one GCD, simply move it + Riddle of Wind one oGCD slot down.
 
@@ -334,7 +336,7 @@ This opener is effectively the "Guaranteed Max Phantom Rush uses" opener; it sta
 
 ![Double Solar Opener - Rotation Detail](/img/jobs/mnk/mnkguide_0003_doublesolar_detail.png "Double Solar Opener - Rotation Detail")
 
-&nbsp;\
+&nbsp;
 
 Yes, doing two Rising Phoenix overcaps us on Solar Nadi. Yes, that is intentional. This is done for Phantom Rush alignment.
 
@@ -354,7 +356,7 @@ Brotherhood's placement is flexible should it ever need to be moved to account f
 
 ![Early Lunar Solar Opener - Rotation Detail](/img/jobs/mnk/mnkguide_0005_earlydoublesolar.png "Early Lunar Solar Opener - Rotation Detail")
 
-&nbsp;\
+&nbsp;
 
 Both early openers require a pre-pull Tincture.
 
@@ -378,7 +380,7 @@ Following this you simply press buttons according to the Monk Flowchart until th
 
 ![Braindead Looping Rotation - Odd Minutes](/img/jobs/mnk/mnkguide_0007_braindeadodd.png "Braindead Looping Rotation - Odd Minutes")
 
-&nbsp;\
+&nbsp;
 
 Every single odd window following this will be exactly the same, the only difference being that your Opo GCDs will flip each two minutes (Bootshines become Dragon Kick and vice-versa). The only time you might have to slightly adjust anything in your rotation is if for whatever reason your Twin Snakes has not naturally aligned before the Demolish seen at 1:13. If this happens and the flowchart would have you place a True Strike here, simply ignore that and force a Twin Snakes refresh.
 
@@ -386,7 +388,7 @@ From the odd window we again go back to following the flowchart until the even w
 
 ![Braindead Looping Rotation - Even Minutes](/img/jobs/mnk/mnkguide_0008_braindeadeven.png "Braindead Looping Rotation - Even Minutes")
 
-&nbsp;\
+&nbsp;
 
 Very important here is the Twin Snakes following the Elixir Field, which serves the exact same purpose as the post-Blitz Twin Snakes in our opener -- facilitating the loop. You might notice that sometimes the Demolish from your RP PB sequence clips, but this doesn't matter.
 
@@ -432,7 +434,7 @@ Similarly again to how you'd build odd windows, working backwards from the end o
 
 ![Optimal Drift Rotation - Spreadsheet](/img/jobs/mnk/mnkguide_0009_optimaldrifttable.png "Optimal Drift Rotation - Spreadsheet")
 
-&nbsp;\
+&nbsp;
 
 *\*Note: RoF can be coming up at any point within three GCDs of where it's shown in these images.*
 
@@ -440,13 +442,13 @@ Similarly again to how you'd build odd windows, working backwards from the end o
 
 ![Optimal Drift Rotation - Visual](/img/jobs/mnk/mnkguide_0010_optimaldriftvisual.png "Optimal Drift Rotation - Visual")
 
-&nbsp;\
+&nbsp;
 
 *Even Windows Explained*
 
 ![Optimal Drift Rotation - Even Windows Explained](/img/jobs/mnk/mnkguide_0011_optimaldrifteven.png "Optimal Drift Rotation - Even Windows Explained")
 
-&nbsp;\
+&nbsp;
 
 Here is a [spreadsheet representation](https://docs.google.com/spreadsheets/d/1Ruf5jdBSn9enS3RefS02m3YI-GUBfU0rnsB6sqGcm9c/edit#gid=0) of every possible even window.
 
@@ -483,7 +485,7 @@ Again, in simple terms what this means is: Always press RoF on cooldown, whether
 
 ![](/img/jobs/mnk/mnkguide_0012_doublesolarrof.png)
 
-&nbsp;\
+&nbsp;
 
 ## Section 4: Cursed Knowledge
 
@@ -498,11 +500,11 @@ You can download it [here](https://github.com/Soreepeong/XivAlexander).
 
 ![Ghosting Ranking](/img/jobs/mnk/mnkguide_0013_ghostrank.png "Ghosting Ranking")
 
-&nbsp;\
+&nbsp;
 
 ![Damage Application](/img/jobs/mnk/mnkguide_0014_damageapp.png "Damage Application")
 
-&nbsp;\
+&nbsp;
 
 These images show the damage application on a number of Monk skills. It's called the "Ghost Ranking" because if you press the button and the boss goes invulnerable in a shorter amount of time than is displayed, the damage will not apply, it will "ghost".
 
@@ -514,7 +516,7 @@ We have a very minor optimization available to use through Riddle of Wind, where
 
 ![Auto-Attack Usage](/img/jobs/mnk/mnkguide_0015_autos.png "Auto-Attack Usage")
 
-&nbsp;\
+&nbsp;
 
 This image from Aya demonstrates in slightly more detail what the auto-attack timer you'll see in-game is. It essentially shows the best and worst times to press RoW. Green is the best, Red is awful, and orange is fine. The closer to green the orange is the better, the further away from green orange is, the worse. It is not worth holding RoW multiple GCDs for more favorable auto-attack timer alignment; this is simply to be used to identify a better injection point in the early/late weave window.
 
@@ -522,7 +524,7 @@ Upon installing the plugin via Triggernometry, it should look something like thi
 
 ![Auto-Attack Trigger](/img/jobs/mnk/mnkguide_0016_aatrigger.png "Auto-Attack Trigger")
 
-&nbsp;\
+&nbsp;
 
 If you click on the !README and then click Edit, you'll see a "Move me" action. This can be used to move the element wherever you would like on your screen.
 
