@@ -37,13 +37,13 @@ The bracketed letter and number below are an index to the [BLM lines comparison 
 
 ![](https://lh6.googleusercontent.com/wzGQU0qaPecgaeVWNhfk2jVDwRyedtAnEPNjUiZlkkTe51Zt8UgkuS5d4TrcTqsH_EBPAKtwOEXDrr77TReTIgJxgBzqiC_Dp9LyPDrE-IDlVdhRmOuh5VMRFf9_IxNckbFSp5Th)
 
-Instead of spending the F3P during the line it is proc’d, it can be saved and used in conjunction with Transpose to buff its potency in AF1. **The white space represents an instant filler GCD.** By itself with the F3P, this line is a 3% gain in a vacuum. However, we must also consider the previous line that yielded the F3P, as well as its potential to repeat itself. Consistently using F3P this way results in about a 0.9% damage increase (more details in the next section) of fire and ice spells over multiple lines. This is highly recommended to players first starting to optimize, as it is a relatively easy optimization for a decent dps increase. Note that due to receiving the stacks of Astral Fire at the beginning of the GCD instead of the end, at lower SpS, there is no longer the option to fit 4 F4s between the F3 and AF Paradox, and any filler spells become exceedly tight if possible at all. This increases the execution difficulty of the standard line.
+Instead of spending the F3P during the line it is proc’d, it can be saved and used in conjunction with Transpose to buff its potency in AF1. **The white space represents an instant filler GCD.** By itself with the F3P, this line is a 3% gain in a vacuum. However, we must also consider the previous line that yielded the F3P, as well as its potential to repeat itself. Consistently using F3P this way results in about a 0.9% damage increase (more details in the next section) of fire and ice spells over multiple lines. This is highly recommended to players first starting to optimize, as it is a relatively easy optimization for a decent DPS increase. Note that due to receiving the stacks of Astral Fire at the beginning of the GCD instead of the end, at lower SpS, there is no longer the option to fit four F4s between the F3 and AF Paradox, and any filler spells become exceedly tight if possible at all. This increases the execution difficulty of the standard line.
 
 ## Higher level BLM Concepts
 
 ### MP and Lucid ticks
 
-Our MP regens for 600 per tick out of combat and 200 per tick during combat, with each tick happening every 3 seconds. While in Umbral Ice, we gain an additional MP of 3000, 4500, and 6000 MP from the UI1, UI2, and UI3 bonuses respectively. In total, we can expect 3200, 4700, or 6200 MP per tick while in UI. On the other hand, Lucid ticks provide 550 MP per tick. In the overworld, each Lucid tick happens exactly halfway between two MP ticks. However, while in an instance, this timer will constantly drift, and it will become random when a Lucid tick occurs. 
+Our MP regens for 600 per tick out of combat and 200 per tick during combat, with each tick happening every three seconds. While in Umbral Ice, we gain an additional MP of 3000, 4500, and 6000 MP from the UI1, UI2, and UI3 bonuses respectively. In total, we can expect 3200, 4700, or 6200 MP per tick while in UI. On the other hand, Lucid ticks provide 550 MP per tick. In the overworld, each Lucid tick happens exactly halfway between two MP ticks. However, while in an instance, this timer will constantly drift, and it will become random when a Lucid tick occurs. 
 
 Both MP and Lucid ticks can be tracked via triggers. You can download a [MP tick trigger here](https://github.com/marconsou/mp-tick-bar), with other triggers available elsewhere. Having a tick trigger makes tracking MP ticks considerably easier and is recommended for anyone serious about high end BLM optimizations. In addition, some optimizations listed in later sections are only possible with MP tick triggers.
 
@@ -67,7 +67,7 @@ To get started, you can check the BLM raid guide (Coming soon. For now, check th
 
 ### Caster tax 
 
-Caster tax is on average an additional 0.1+2/fps seconds to the listed cast time of a hard casted spell due to animation lock at the end of the spell. In this document, we will take 0.1s as the caster tax. While not unique to this job, BLM is the job affected the most by caster tax. This means a hard casted Fire 4 is in fact 2.9 seconds and not the 2.8 seconds shown. Caster tax is mitigated with instant cast spells which have their animation lock while the GCD is inactive. 
+Caster tax is on average an additional 0.1+2/FPS seconds to the listed cast time of a hard casted spell due to animation lock at the end of the spell. In this document, we will take 0.1s as the caster tax. While not unique to this job, BLM is the job affected the most by caster tax. This means a hard casted Fire IV is in fact 2.9 seconds and not the 2.8 seconds shown. Caster tax is mitigated with instant cast spells which have their animation lock while the GCD is inactive. 
 
 ### Strong and weak spells 
 
@@ -81,7 +81,7 @@ Thunder is not listed above as it is a DoT. When a T3P’s DoT is able to run fo
 
 ### Completing fire phases 
 
-The ice phase provides MP and/or Umbral Hearts, crucial resources that enable the strong fire spells at the cost of casting much weaker spells. To fully utilize this cost, we want to complete as much of the fire phase as possible before the boss dies or phases and finish the Despair cast. This could mean either cutting the fire phase short and only cast 5 F4s before the Despair, or planning ahead and choosing a shorter line.
+The ice phase provides MP and/or Umbral Hearts, crucial resources that enable the strong fire spells at the cost of casting much weaker spells. To fully utilize this cost, we want to complete as much of the fire phase as possible before the boss dies or phases and finish the Despair cast. This could mean either cutting the fire phase short and only cast five F4s before the Despair, or planning ahead and choosing a shorter line.
 
 ![](https://lh5.googleusercontent.com/Yq4DgxnvWo_t0q4zK3WgyeFO0XURh25mL7Kg2AGtBLzK-I3TN_t3_ULTPa_PSYIbyVWyYHZIhV-r7lERes17PpEmj9UXz7rQ098PANxRvICfBVxJhboePcm1lQsUOOXfxTVxmwtT)
 
@@ -129,7 +129,7 @@ In most situations, Transpose to UI should be weaved in the first weave slot to 
 
 ### 4xF4 Transpose \[N33]
 
-To cast 4xF4 and Despair, a minimum of 7200 MP is needed. This can be obtained from 1 UI1 and 1 UI2 MP tick. The slow casting F3 gives ample time to obtain the 2 ticks needed. 
+To cast 4xF4 and Despair, a minimum of 7200 MP is needed. This can be obtained from 1 UI1 and 1 UI2 MP tick. The slow casting F3 gives ample time to obtain the two ticks needed. 
 
 ![](https://lh6.googleusercontent.com/lZhqwERbTFAsAyc2Cv6cQ56lt4n0Mz0r6IZSVjL5JSmertd8-SvL6iGwkgNKUm95KXHql1gPtu4-Uxlolo-LtEWPDuL9t0bGIshIOTJCDCUGwIHYE5qaJEkSJWCH35B4r1F0HbnI)
 
@@ -143,7 +143,7 @@ Same principle as 4xF4 Transpose, but with higher SpS for an additional F4 in th
 
 ### 3xF4 Transpose F3P \[N101]
 
-To alleviate the weak slow casting F3, one method is to use a F3P generated from the previous fire phase in its place, which eliminates the F3’s long cast time and improves the line’s effectiveness. This has been made viable from F3P’s change to 30 seconds in Endwalker. However, as we are transitioning to AF with an instant, we can only fit in 3 F4s without high SpS. In addition, we must also consider the standard line with its probability that produced the F3P. With these considerations, this line in conjunction with standard yields a 0.55% gain, which is still less than AF1 F3P Standard. 
+To alleviate the weak slow casting F3, one method is to use a F3P generated from the previous fire phase in its place, which eliminates the F3’s long cast time and improves the line’s effectiveness. This has been made viable from F3P’s change to 30 seconds in Endwalker. However, as we are transitioning to AF with an instant, we can only fit in three F4s without high SpS. In addition, we must also consider the standard line with its probability that produced the F3P. With these considerations, this line in conjunction with standard yields a 0.55% gain, which is still less than AF1 F3P Standard. 
 
 ![](https://lh5.googleusercontent.com/g7q8vGKJJSqsBzNu4On9kwIzvc99GXGXWnXXb8qxgypDKD-t_8I2hwzTCS5Rg38jCq30XgVdga68cmv3OLEO8DWz1vOIEdNbMvR-ytOOF0lbR877UqZJ7tJkIK-WtP8Vp2ye1s_V)
 
@@ -165,7 +165,7 @@ In many Transpose lines, the middle filler can be used to hardcast refresh Thund
 
 ### Instant B3 with Transpose \[I3]
 
-Should a situation call for B3 to be instant casted, Transpose can be used to increase its potency. 1 MP tick is required before B3 is cast. Instant casting B3 this way is equal to instant casting a F4 in terms of overall gain to the line’s PPS. B3 has an MP cost in UI1 and UI2, so beware of MP generation when executing this transition. Transpose should be weaved first to increase the chance of obtaining a MP tick.
+Should a situation call for B3 to be instant casted, Transpose can be used to increase its potency. One MP tick is required before B3 is cast. Instant casting B3 this way is equal to instant casting a F4 in terms of overall gain to the line’s PPS. B3 has an MP cost in UI1 and UI2, so beware of MP generation when executing this transition. Transpose should be weaved first to increase the chance of obtaining a MP tick.
 
 ![](https://lh3.googleusercontent.com/laKBY1gA9Klbe_E9L5u49gC2a2FrjbHayLbWzX4DHcTYy-r2O9Wdz9iCLo1OKUS8iEAtIom10oqFH4z1dteDH2y-USHjnZTOMAxFvo1zBxr9lxXixsjkPYSi5GtUKjEcMthg0vqE)
 
@@ -177,7 +177,7 @@ Although using an instant F3 increases the effectiveness of Transpose lines, a F
 
 The advent of Paradox in Endwalker has vastly increased the viability of Double Transpose lines. Not only is Paradox an extra filler during Transpose lines, its purpose as a filler in standard also means other instants can be stored and utilized to enable strong lines. Scathes in this image represent instant GCDs. 
 
-When executing Double Transpose off its cooldown, a mere 5 seconds window is not enough to guarantee two MP ticks, and there is a 33% chance of failing to obtain two MP ticks. To guarantee that necessary ticks are obtained, an extra filler may be needed. Alternatively, MP tick triggers can play a crucial role in ensuring the correct ticks happen with minimum instant resources. 
+When executing Double Transpose off its cooldown, a mere five second window is not enough to guarantee two MP ticks, and there is a 33% chance of failing to obtain two MP ticks. To guarantee that necessary ticks are obtained, an extra filler may be needed. Alternatively, MP tick triggers can play a crucial role in ensuring the correct ticks happen with minimum instant resources. 
 
 ### 3xF4 Double Transpose F3P \[N111]
 
@@ -189,7 +189,7 @@ An incredibly strong line that has eliminated almost all weaknesses in the rotat
 
 ![](https://lh3.googleusercontent.com/wH-xCSw7d-Q4lvCa4R8sZvCCj0rosv3Yf9wcy2btNPQB1rt9bn4fNnDQ4Wd2ttFH1GZywpGKz_rOb7VDAAVqBlcqJHzPSCvWRR2Rn_V-8hLbIWRSi-Z4xmZNfJMne7LbAQY8zZzT)
 
-Additional F4 granted by higher SpS.  If Triple is not used, finishing 4xF4 and Despair after F3P requires at least 2.24 gcd, realistically faster for leniency. Not only is the PPS of this line higher from the extra F4, its extra cast also means more time is spent in this strong line. 
+Additional F4 granted by higher SpS.  If Triple is not used, finishing 4xF4 and Despair after F3P requires at least 2.24 GCD, realistically faster for leniency. Not only is the PPS of this line higher from the extra F4, its extra cast also means more time is spent in this strong line. 
 
 **5xF4 Double Transpose F3P \[N113]**
 
@@ -205,13 +205,13 @@ Combining Standard with 3xF4 Double Transpose F3P forms the new backbone of our 
 
 ## Advanced AoE Lines 
 
-These AoE rotations follow the same principles as single target Transpose lines. High Blizzard 2 and High Fire 2 when swapping elements, as well as Freeze, are all weak spells and skipping them can result in a gain. Importantly, as these AoE lines are shorter, they overcome one key weakness of the standard AoE rotation, which is its length and lack of flexibility when aiming to finish the rotation. **If an early tick occurs, a filler can be skipped from each of the following lines.** Same as the standard AoE rotation, these lines are only better than the single target rotation at 3 targets or above. 
+These AoE rotations follow the same principles as single target Transpose lines. High Blizzard II and High Fire II when swapping elements, as well as Freeze, are all weak spells and skipping them can result in a gain. Importantly, as these AoE lines are shorter, they overcome one key weakness of the standard AoE rotation, which is its length and lack of flexibility when aiming to finish the rotation. **If an early tick occurs, a filler can be skipped from each of the following lines.** Same as the standard AoE rotation, these lines are only better than the single target rotation at three targets or above. 
 
 ### Single Flare Standard \[A2]
 
 ![](https://lh5.googleusercontent.com/1VzdEvsd68Y3moqXrHCymvoo9wYZJHR-MaysJV1IIqdQD4-5-2XkAw_rtsX9-gqf3yC_Cysjbp-iBTQvmP-qJ1OO3LJvzubSOT6vIypL2NELVifCBLzlbYPstgGfZRCazDVoCEAY)
 
-An extended standard aoe rotation that utilizes HF2’s higher PPS than Flare at above 6 targets. This becomes higher than normal double Flares at 4 targets and above, around 0.5% greater, and becomes ~3% greater at a much higher enemy count. If Triplecast is available to instant cast Flares, then the line with both Flares should generally be used. 
+An extended standard aoe rotation that utilizes HF2’s higher PPS than Flare at above six targets. This becomes higher than normal double Flares at four targets and above, around 0.5% greater, and becomes ~3% greater at a much higher enemy count. If Triplecast is available to instant cast Flares, then the line with both Flares should generally be used. 
 
 ### Double Transpose with Freeze \[A5]
 
@@ -227,19 +227,19 @@ Same line as A5 but only one Transpose is used. The other Transpose is replaced 
 
 ### 2xHF2 Transpose \[A10]
 
-![](https://lh4.googleusercontent.com/XM3JAcEaYPVZsdy4HNgJLKYQR4HvNKyn1kL_QiJwCpapHqzh55DCk-mWGl9zGfPA3qDSNv3naNxmRh0NqMON6zw9hH2qE3PmVjpF2ABNFf3cKdm3Kh1m-3NzuC86c3jZQ-uTYIYH)A very short Transpose line that also skips the Freeze. 2 UI1 ticks are required. This line is about 3.6% better than Standard. 
+![](https://lh4.googleusercontent.com/XM3JAcEaYPVZsdy4HNgJLKYQR4HvNKyn1kL_QiJwCpapHqzh55DCk-mWGl9zGfPA3qDSNv3naNxmRh0NqMON6zw9hH2qE3PmVjpF2ABNFf3cKdm3Kh1m-3NzuC86c3jZQ-uTYIYH)A very short Transpose line that also skips the Freeze. Two UI1 ticks are required. This line is about 3.6% better than Standard. 
 
 **3xHF2 Transpose \[A11]**
 
 ![](https://lh6.googleusercontent.com/LHa1aR_AdHTeOt4RO-nKuuHuX9T4ZNqcb_sZx1IgR4ovUY1O_V0NX4uBdgAYZz09apzhz9_Hx3_D7dkr4NQhCImFSWXm5BNsSAHZGdoU4VHh4qyG7UeCkafFQICguszDFbCdDE1Z)
 
-Same concept as 2xHF2 Transpose, but with more MP allowing for an extra HF2. The extra MP can be obtained from a Lucid tick, or from an early or extra UI1 tick. This line is 6.7% to 8.2% better than Standard, with higher effectiveness on more targets. With only 2 filler resources needed, this line is very cost effective and is the go-to Transpose AoE line in most situations if Lucid is available.
+Same concept as 2xHF2 Transpose, but with more MP allowing for an extra HF2. The extra MP can be obtained from a Lucid tick, or from an early or extra UI1 tick. This line is 6.7% to 8.2% better than Standard, with higher effectiveness on more targets. With only two filler resources needed, this line is very cost effective and is the go-to Transpose AoE line in most situations if Lucid is available.
 
 **4xHF2 Transpose \[A12]**
 
 ![](https://lh5.googleusercontent.com/KOQ4QlM2Sj-FzUetMp4L00FaXxJCteubSbHL9Zxbzy1H0QlwzLUHWv2lPeHvt-S0JaGLWRGiyWi6UL_UeqEqM7kDLNbD5Ju_ig-6xVg4UONbMLZEA7utOVDB60MQcrHrCSYb_EmB)
 
-With an additional UI1 tick, another HF2 is enabled. Requires 3 UI1 ticks + 1 Lucid tick, or 4 UI1 ticks. This is one of the strongest AoE lines, with a gain of 8.5% to 11.2%, with increasing effectiveness against a higher mob count. However, the requirement of 3 fillers and Lucid is not always available, thus making its usage situational. 
+With an additional UI1 tick, another HF2 is enabled. Requires 3 UI1 ticks + 1 Lucid tick, or 4 UI1 ticks. This is one of the strongest AoE lines, with a gain of 8.5% to 11.2%, with increasing effectiveness against a higher mob count. However, the requirement of three fillers and Lucid is not always available, thus making its usage situational. 
 
 ### 2xHF2 Double Transpose \[A16]
 
@@ -257,7 +257,7 @@ Extending on the idea of 2xHF2 Double Transpose, the amount of instant resources
 
 ![](https://lh3.googleusercontent.com/aE0I1qvqQpn_sJ79sZNMLynkSN2eusINAWEU5nZsERNDXXDUYxp8R2_ttSXCKXZPDsojoucy-TtUESGDGrNKaD81l-SrTmTeyAqdIBF1CZ_oWlHA2lamnCgz5wmjswAdlv5XMg8R)
 
-Same concept as AF1 HF2 Double Flare, but with more targets in mind. At a higher number of targets, HF2 becomes more effective with its lack of damage falloff. This line becomes better than A18 at 6 targets or more.
+Same concept as AF1 HF2 Double Flare, but with more targets in mind. At a higher number of targets, HF2 becomes more effective with its lack of damage falloff. This line becomes better than A18 at six targets or more.
 
 # Intermediate
 
@@ -287,7 +287,7 @@ Paradox has the unique property of being unaffected by AF and UI multipliers whi
 
 ![](https://lh3.googleusercontent.com/-4e_hP0zKrxreppJatMSfjXSeS2W7Tnin08NK_k4b-Mg42szqinYNdOGcWhV3pD2J-yBJLl7KSotfpAeQ_WSVoWIeYrSvo4LhPtmupAy2SVOymNrxrjugzEH0l_8dc4vTOQvY0oa)
 
-From AF2 after Paradox, a F1 is used to obtain AF3. 2 F4s are sacrificed to trade an AF2 F1 in place of a weak UI3 F3. Overall, this line is about 0.6% lower in PPS compared to standard. However, this does not paint the whole picture. Recall that F3Ps are highly potent and enable strong lines. Compared to Standard’s mere 40% chance of proccing a F3P, this line has a 64% chance of proccing a F3P. The F3P can then be used in F3P lines. With the consideration of F3P lines, this results in an overall higher gain from this line than Standard. 
+From AF2 after Paradox, a F1 is used to obtain AF3. Two F4s are sacrificed to trade an AF2 F1 in place of a weak UI3 F3. Overall, this line is about 0.6% lower in PPS compared to standard. However, this does not paint the whole picture. Recall that F3Ps are highly potent and enable strong lines. Compared to Standard’s mere 40% chance of proccing a F3P, this line has a 64% chance of proccing a F3P. The F3P can then be used in F3P lines. With the consideration of F3P lines, this results in an overall higher gain from this line than Standard. 
 
 The strength of Double Paradox comes from its prospect of producing a F3P. If the first Paradox yields a F3P and we intend on using the F3P for a F3P line, then the F1’s chance of proccing F3P is ignored. Variations of other F3P usage are discussed below. Due to the large amount of hardcasts in the fire phase without filler space after the F1, this line requires a long period of stillness, which often makes it less effective than Standard.
 
@@ -301,7 +301,7 @@ Compared to the average gain of 1.6% when Standard is combined with 3xF4 Double 
 
 ![](https://lh4.googleusercontent.com/DCQaT2bnAZBv4qdq0FmPiQNV9YhJ6sXFbIOnmoLPYRTP_GKF8CkLaDcIR7-Zd_gJFKkK4uKvDpfOZC50BK1OvGi3XveZRQ6lmBX6GxHsPISogBDTDZXHe-raqFXwpf8KOCZ8_ct1)
 
-Uses F1’s refresh to enable 1 more F4 under AF2. The AF2 F4 makes it very slightly higher in PPS at a longer line length. As the gain of Double Paradox is from the high proc rate for strong F3Ps, when F3P lines are considered, this line is overall slightly lower with the AF2 F4 compared to Double Paradox without it.
+Uses F1’s refresh to enable one more F4 under AF2. The AF2 F4 makes it very slightly higher in PPS at a longer line length. As the gain of Double Paradox is from the high proc rate for strong F3Ps, when F3P lines are considered, this line is overall slightly lower with the AF2 F4 compared to Double Paradox without it.
 
 **4xF4 Double Paradox F3P F4 variation \[N17]**
 
@@ -323,11 +323,11 @@ The concept of Double Paradox can be extended to reopeners. Instead of starting 
 
 ![](https://lh5.googleusercontent.com/qRooy1461c63KXr7I-JOYW06U-eS1s7wtEsbYTx155V27orER57erYSViE5cyQzvIe9ai6dikpx770dH3AI3IEMrhogsu6J-SFi99s2OP-q4fM11hQzOiWMvwv3fNJEgIV9Kmesy)
 
-If the UI Paradox is available (reminder that during long actionable downtime, obtaining the UI Paradox is guaranteed) , we can use it before Transposing to AF. 
+If the UI Paradox is available (reminder that during long actionable downtime, obtaining the UI Paradox is guaranteed), we can use it before Transposing to AF. 
 
 ![](https://lh5.googleusercontent.com/pQkagj2xm1rWrK9kknmrZjEla7udLyaacSr4C2I0FiMmR34Hl45N0H02Yp0vvFTn0jlpbWdnMEEQhAqKFjVvlAJ6RYytXw5nT6NbVSyv_AyqmSknwSGb0mncojesCRKe4ambGPjp)
 
-Sharp and Triple can be used to upgrade the AF2 F1 to an AF2 F3P while still keeping 4 F4s. Note that it might be better to save the F3P for a F3P line afterwards. 
+Sharp and Triple can be used to upgrade the AF2 F1 to an AF2 F3P while still keeping four F4s. Note that it might be better to save the F3P for a F3P line afterwards. 
 
 ![](https://lh5.googleusercontent.com/MJ-FS12wrNT60KmCiidD_UdZhVpk8lTeHSW85vAelwx67_KyoTxK4gjoyeoORVkFeTuj--WNHRZ2fTBwKYspv6Tt9UUCHefi-SaLe6l4hiJhuMiT8Vw8KsVNEGRD1J_r0zVasug_)
 
@@ -435,7 +435,7 @@ B4 can be used in place of a filler while also providing a longer fire phase. 3 
 
 ![](https://lh5.googleusercontent.com/wHIhNeDwrPPGxWlYU2t9PZsQw994kd4naVBX031ioAd8RfRGdZFm5YEzVTnrqjE9haCTaM8vvk1dpbPkCJCOyCIiZqDuj9OkLo9V4YHbj2MI5YUHCcJQB1ywFRLUTsl6ve75dpV1)
 
-9600 MP is required upon returning to AF. Uses F1’s refresh to enable 1 more F4 under AF2. This line is about 0.2% lower in PPS compared to N69, but 1 GCD longer. 
+9600 MP is required upon returning to AF. Uses F1’s refresh to enable one more F4 under AF2. This line is about 0.2% lower in PPS compared to N69, but one GCD longer. 
 
 **3xF4 Double Transpose Paradox with B4 \[N70]**
 
@@ -475,7 +475,7 @@ Generally during non-standard, you should aim to avoid cutting the dot short by 
 
 ## Notes on Spell Speed
 
-Unless specified, the lines in this document are tested at 1400 SpS, or 2.32 GCD. With a few exceptions which are also specified, all lines are doable at 2.32 GCD with the listed fillers without missing MP ticks. To perform the 4xF4 Despair after F3P with Triplecast, a hard minimum of 2.43 GCD is required, and a 2.37 GCD is required if only 2 stacks of Triple are used on F4s. See the Appendix section for more spell speed thresholds. More SpS should be added for leniency. Some lines might not be applicable at (much) higher spell speeds and additional fillers might be needed at extremely high spell speeds. The higher your spell speed, the less luck you will have with MP ticks. This principle also applies to Ley Lines. While LL can enable additional F4s in the fire phase, it also changes how MP ticks interact with fillers in UI. Thus, beware of MP ticks during UI when LL is active. Double Transpose lines also require an additional filler under LL as the faster GCD will be clipped by Transpose’s cooldown. 
+Unless specified, the lines in this document are tested at 1400 SpS, or 2.32 GCD. With a few exceptions which are also specified, all lines are doable at 2.32 GCD with the listed fillers without missing MP ticks. To perform the 4xF4 Despair after F3P with Triplecast, a hard minimum of 2.43 GCD is required, and a 2.37 GCD is required if only two stacks of Triple are used on F4s. See the Appendix section for more spell speed thresholds. More SpS should be added for leniency. Some lines might not be applicable at (much) higher spell speeds and additional fillers might be needed at extremely high spell speeds. The higher your spell speed, the less luck you will have with MP ticks. This principle also applies to Ley Lines. While LL can enable additional F4s in the fire phase, it also changes how MP ticks interact with fillers in UI. Thus, beware of MP ticks during UI when LL is active. Double Transpose lines also require an additional filler under LL as the faster GCD will be clipped by Transpose’s cooldown. 
 
 In addition to MP ticks considerations, much of Black Mage’s resources function on a fixed timer that are not affected by spell speed. Additional spell speed will not increase the number of available fillers, Swifts/Triples, and Sharpcasts available. Furthermore, a faster spell speed will often require extra Thunder ticks to be cut short. As a general rule of thumb, the faster the spell speed, the noticeably less available and less effective some lines, especially short Double Transpose lines, will become. 
 
@@ -497,7 +497,7 @@ The most straightforward factor. PPS has a direct effect on a line’s effective
 
 Another important factor is the amount of resources each line requires. Resources come in the form of instant casts spent, F3Ps used, Sharpcasts available, and Swift/Triples used. There is a correlation between the amount of resources a line requires and its potency. Finding the optimal rotation has thus become a balancing act of using less potent lines that conserve resources, versus stronger lines that expend resources. 
 
-A consistent resource expenditure when analyzing lines is essential. If more resources are spent, then a higher return should be expected. This is pivotal when looking at instant F3 lines, with Swift/Triple and F3P. It would be disingenuous to compare a line that has used Swiftcast to a line that does not use Swift. The effect of Swiftcast would skew the result in its favour.
+A consistent resource expenditure when analyzing lines is essential. If more resources are spent, then a higher return should be expected. This is pivotal when looking at instant F3 lines, with Swift/Triple and F3P. It would be disingenuous to compare a line that has used Swiftcast to a line that does not use Swift. The effect of Swiftcast would skew the result in its favor.
 
 Swift and Triple also have an unequal effect on each line’s PPS due to varying line lengths. The same reduction in cast time will increase a shorter line’s PPS more than it would on a longer line. As such, the PPS and relative potencies of lines with Swift and Triple should be adjusted to account for this effect. For this reason, a line with Swift might have a higher raw PPS but a lower relative PPS once Swift’s effect has been normalized. 
 
@@ -509,7 +509,7 @@ Every line has a certain probability of allowing a filler skip from obtaining th
 
 The length of each line is another crucial consideration for two reasons. Firstly, as discussed previously, one goal of utilizing different lines is to align with mechanics and phases. Finishing a full fire phase is always a priority. In addition, each line’s length also dictates their strength. Some lines may be very powerful, but expend a high amount of resources and only last a short amount of time. We are then forced to return to a relatively weaker line, such as Standard, for a larger portion of our rotation. Compare this to a similar line in terms of resources requirement that is slightly weaker, but at a longer length. This would mean we get to stay in this line for a prolonged period of time before needing to return to a weak line.
 
-**Time gained equivalent** 
+**Time Gained Equivalent** 
 
 Time Gained Equivalent (TGE) is a more advanced metric of evaluating line strength. Each unit of TGE equates to gain in time as if we did the Standard rotation for that amount of time. For example, a TGE of 1.0 would mean the gain of the line is equal to one second of the Standard line. This number is given by the formula relativePPS * lineLength - lineLength, and normalizes the line lengths by treating its gain in PPS as a gain in time. This allows comparison of lines with varying lengths and PPS. The concept of TGE can be extended by multiplying TGE by PPS of the Standard line, which converts TGE into a potency equivalent: Potency Gained Equivalent or PGE. This is useful when conceptualizing a line’s overall return as a potency and has application in Thunder related comparisons. TGE and PGE should be treated as theoretical ideas for evaluating lines rather than a deterministic calculation. 
 
@@ -549,13 +549,13 @@ Example: choosing a shorter line before buff window arrives so that the start of
 
 If choosing a line would result in a long period of dropped Thunder, it is likely better to choose a different line with a well timed Thunder refresh. 
 
-Example: entering a standard line to refresh T3 instead of cutting Thunder dot ticks short for a non-standard line. 
+Example: entering a standard line to refresh T3 instead of cutting Thunder DoT ticks short for a non-standard line. 
 
 ### MP ticks
 
 Having a correct tick often means conserving instant resources. This may impact the chosen line as spending less resources returns a higher effectiveness. In more advanced cases where MP ticks are aimed to be accurately aligned, interaction between lines and tick alignment also become much more important. 
 
-Example: choosing a different line over 3xF4 Double Transpose due to its tighter tick timing when 1 filler is skipped.
+Example: choosing a different line over 3xF4 Double Transpose due to its tighter tick timing when one filler is skipped.
 
 **The decision of which line to enter is extremely situational as it is more dependent on mechanics, alignments, procs, and resources, rather than a simple potency comparison**
 
@@ -575,11 +575,11 @@ Sharpcast at -18 seconds. 1:53 in length, 2.32 GCD. The last 3xF4 Double Transpo
 
 It’s possible for opener sequences to be much longer than what is shown. The limitation to how long a dummy opener sequence can be planned comes from the variance in T3 and F3 procs. The exact tick timing and optimal sequence not only depends on the fight’s mechanics and timeline, but also on the individual player’s spell speed and ping. It’s up to you to figure out what is possible and optimal.
 
-**Example Endwalker 1st extreme trial phase 1 + adds (spoiler alert)**
+**Example Endwalker 1st extreme trial phase one + adds (spoiler alert)**
 
 <https://xivanalysis.com/fflogs/kPMvgNx1tHa3XdKf/2/1> 
 
-Unfortunately I updated this sequence late into my ex runs and didn’t have a run with it. This will be replaced by Pandaemonium sequences. No MP tick trigger was used when making this sequence. With a MP trigger, undoubtedly a better sequence can be made. 
+Unfortunately I updated this sequence late into my ex runs and didn’t have a run with it. This will be replaced by Pandaemonium sequences. No MP tick trigger was used when making this sequence. With an MP trigger, undoubtedly a better sequence can be made. 
 
 ### Sequence branching
 
@@ -611,9 +611,9 @@ There are two approaches to non-standard: spreadsheeting and improvising. In Sha
 
 ### Shifting of early Thunder refreshes
 
-When consecutive Thunder refreshes have their ticks cut short, the sum of total ticks cut short should be examined over each individual refresh. If a refresh is cut short by 10 seconds and the following refresh is cut short by 5 seconds, the consideration is the total 15 seconds of shortened dot. In effect, this is the same as cutting one refresh short by 15 seconds and the other by 0 seconds. This principle allows for better Thunder alignment. For example, if a Thunder is refreshed under buffs, then it is better to let that Thunder run for a longer duration.
+When consecutive Thunder refreshes have their ticks cut short, the sum of total ticks cut short should be examined over each individual refresh. If a refresh is cut short by 10 seconds and the following refresh is cut short by five seconds, the consideration is the total 15 seconds of shortened dot. In effect, this is the same as cutting one refresh short by 15 seconds and the other by 0 seconds. This principle allows for better Thunder alignment. For example, if a Thunder is refreshed under buffs, then it is better to let that Thunder run for a longer duration.
 
-This principle has a critical application in refreshes dependent on natural proc rates. In the following sequence, the second and third Thunder refreshes have their dots cut short by 5 seconds each. The first Thunder is Sharped and the second Thunder is not. This results in a guaranteed proc for the second Thunder and natural proc rate for third. Since the second Thunder’s proc is certain and unchanged by the length of the dot, it should be refreshed early to enable the maximum amount of ticks for the third Thunder and increase its chance of generating a proc.
+This principle has a critical application in refreshes dependent on natural proc rates. In the following sequence, the second and third Thunder refreshes have their dots cut short by five seconds each. The first Thunder is Sharped and the second Thunder is not. This results in a guaranteed proc for the second Thunder and natural proc rate for third. Since the second Thunder’s proc is certain and unchanged by the length of the DoT, it should be refreshed early to enable the maximum amount of ticks for the third Thunder and increase its chance of generating a proc.
 
 ![](https://lh5.googleusercontent.com/XowwaFs4C1T6RVE5T_ZLZW-ZXdTYzWma2hMjKjO246cTS3rYoGFc6wdiJsyjOcTmzpP4rsgggEyVqh7lqdTz-M6vqgU-v8YEDw8WofLR9IA4SIZx3AkVCHuCq_vzUlGHs4c1MCSF)
 
@@ -623,11 +623,11 @@ While BLM’s damage output is relatively consistent, non-standard provides us w
 
 ![](https://lh3.googleusercontent.com/DlWkPGPnTsyjSwo6YiwVQS0-B_k6UuhXRLs0rDk4OYkIsiJJnOx1Wc4zMo4zBLDB4pXNOdRFGqijq0D_PdmS_y1-HPB1T6x4KvVqKHJsCXFYUiC_XU1ufp7sSkfm0zKZ1JP_BXBP)
 
-\*Thunder’s damage has additional scaling from spell speed
+\*Thunder’s damage has additional scaling from spell speed.
 
 ### Lucid methods
 
-Majority of lines utilizing Lucid Dream only require 1 tick from Lucid, with some lines requiring 2 ticks. This means as long as Lucid’s buff remains in UI for that amount of time, the application of Lucid Dream is flexible. 
+Majority of lines utilizing Lucid Dream only require one tick from Lucid, with some lines requiring two ticks. This means as long as Lucid’s buff remains in UI for that amount of time, the application of Lucid Dream is flexible. 
 
 ![](https://lh4.googleusercontent.com/F4ypfWa13ElKfmqJPrZ9N74xulB_Jg7lgQR5VWo1HZFaJH-Dsn2MV1QNnoRJXArUwXxNcnrtbdDvBhqtaqcuM8STUClH9TZPqsGx4J0_4pYruPdQqJbfbZSijgW6RYUIDFjEEjaX)
 
@@ -661,7 +661,7 @@ Cast confirmation, a key mechanic of the game, does not happen at the end of the
 
 Tracking MP ticks is highly SpS and ping dependent. You should do calculations for your own set and test their consistency. **The key takeaway of this section is that it is possible to spontaneously know precisely whether or not a filler skip is possible.**
 
-Likelihood of filler skip in each line
+### Likelihood of filler skip in each line
 
 Extending on the principle of tracking filler skips, we can also calculate how likely it is for the right MP ticks to occur in each line and allow potential filler skips. In the [lines comparison sheet](https://docs.google.com/spreadsheets/d/1K57e7zFoCuLDLX2kbCAlRBrJO6LS42ifz7e5DQEPn8E/edit?usp=sharing), the probabilities of filler skips in some common lines are listed. This is yet another element to determining a line’s strength, as a higher chance of skipping a filler means less resource is required to execute the line. 
 
@@ -681,7 +681,7 @@ More productively, we can utilize the Triple clip to enable an extra F4 that wou
 
 ![](https://lh4.googleusercontent.com/CGXnVj9wbuqA30cLlAIUq9uqm0AL9oBAQqBa5HjixjDidDosk3slYZYJCmWy7heZNqrLGkHj15587IF4fogW1yYf99b4p5zdDdHp7WwKgcXaixz5Bz4KB1gyBkbouzTCj62u8KOE)
 
-1 UI1 and 1 UI2 ticks are required. This line is about 0.9% stronger than Standard. It may be useful in a situation where 2 fillers are available and the appropriate line length is desired. 
+1 UI1 and 1 UI2 ticks are required. This line is about 0.9% stronger than Standard. It may be useful in a situation where two fillers are available and the appropriate line length is desired. 
 
 **4xF4 Double Transpose instant F3 w B4**
 
@@ -693,7 +693,7 @@ Instant F3 principles also apply. 
 
 ![](https://lh6.googleusercontent.com/AQKg_3JSZKJ4-9WsNs8kL74-3FNcgzEH6OtgBAtiZWpFT6tRkRP0x85wqenjhxx-nQKJCsuGovY2FzdGVt5uJFiWhpDrjq_HbOJgjKBzLPhrFtwWPNsZ6u5A3VOqvCYlyok4ssbK)
 
-Additional F4 from Ley Lines. 3 UI1 ticks are required, or two UI2 ticks are required. 
+Additional F4 from Ley Lines. Three UI1 ticks are required, or two UI2 ticks are required. 
 
 ### 5xF4 Transpose with HF2 \[N36.1]
 
@@ -814,5 +814,3 @@ Feb 14 2022
 * First publishing
 
 ![](https://lh4.googleusercontent.com/2f2q2lDqfh5LZUVepF-QPPqNEGz23-NwXj3hrAzKb9JnV6CHsmDM892A6JFk6hXEZyMRFkEs7ksouTCwrGEfqEy0zOn0HgnT7f87X1Ixa__NSShPVIA-7IiFm5X62W74khe0oPEu)
-
-<!--EndFragment-->
