@@ -23,7 +23,7 @@ Trick Attack is also a late weave in the opener to align with other raid buffs. 
 
 
 
-*Note: Trick is only purposely weaved late in the opener. Use on cooldown after the opener.*
+*Note: Trick is only purposefully weaved late in the opener. Use on cooldown after the opener.*
  
 
 If you play at high ping (>40ms), you may skip the Spinning Edge at the end of the opener and go straight into Raiton instead, as fitting Spinning Edge under Trick is extremely tight.
