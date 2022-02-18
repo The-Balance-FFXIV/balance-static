@@ -199,13 +199,11 @@ One prime example of this is **The Minstrel’s Ballad: Hydaelyn’s Call**. The
 
 The sixth use at 02:15 is when the boss is no longer targetable, which means a lost use (given the length of the phase transition). This means that if we are optimizing, we need to use our Fleche earlier in the opener at no later than four seconds. With low ping, one way to do this is clip a potion with Fleche, like so:
 
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](/img/jobs/rdm/11.png "image_tooltip")
 
 As you can see on the timeline, the final Fleche is used just in time before the boss is untargetable, with the next use during adds phase at 2:35.
 
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](/img/jobs/rdm/12.png "image_tooltip")
 
@@ -225,11 +223,9 @@ Corps-a-corps (130 potency) and Engagement (180 potency) have two charges, and s
 
 Downtime complicates this further. As a general rule of thumb, **if you notice Corps-a-corps and Engagement go from 0 to 1 charge when there’s less than 30 seconds left on Embolden, that means you will be able to guarantee two uses under buffs.**
 
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](/img/jobs/rdm/13.png "image_tooltip")
 
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](/img/jobs/rdm/14.png "image_tooltip")
 
@@ -251,15 +247,11 @@ When working with very predictable killtimes, it could theoretically be optimal 
 
 If at above 45|45 Mana but below 50|50 in the final seconds of an encounter, it is theoretically possible to triple Zwerchhau to get our finishers ready earlier. This is only a gain if the final GCD from doing this is Resolution:
 
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 ![alt_text](/img/jobs/rdm/15.png "image_tooltip")
 
 <span style="text-decoration:underline;">Enchanted Riposte into Double Enchanted Zwerchhau</span>
 
 Due to Enchanted Zwerchhau’s shorter cooldown timer versus Enchanted Redoublement (1.5 vs 2.2 seconds), it is also theoretically possible to capitalize on the recast time difference (0.7 seconds) to gain an extra GCD at the end of a phase. People who optimized Enchanted Reprise in Shadowbringers may be familiar with this concept. However, the gain is very minor.
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](/img/jobs/rdm/16.png "image_tooltip")
 
@@ -272,8 +264,6 @@ In Endwalker, Red Mage wants to avoid using Enchanted Reprise more than before d
 * The value from putting Resolution into those buffs is an additional 165 potency. Verthunder/aero III would have been ~83 potency.
 * The gap between Enchanted Reprise and Verthunder/aero III is 50 potency.
 * In this simplified comparison, 50 + 83 = 133, which is still lower than 165.
-
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](/img/jobs/rdm/17.png "image_tooltip")
 
