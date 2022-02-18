@@ -2,23 +2,28 @@
 title: Ninja Openers
 authors:
   - zhotacton
-patch: "5.58"
-lastmod: 2021-10-29T03:09:54.436Z
+  - Balance-NIN-Staff
+patch: "6.08"
+lastmod: 2022-02-18T04:21:21.404Z
 changelog:
   - date: 2021-10-29T03:10:02.993Z
     message: Created page
+  - date: 2022-02-18T04:21:22.235Z
+    message: Updated for Endwalker
 ---
-*Why is there a Doton in my opener?*\
-Because it's free damage if the tank is willing to cooperate and pull the boss into the Doton on pull.
+Huton (-11s)  → Doton (-7.5s) → Suiton (-1s) → Kassatsu →  Spinning Edge → Dex Tincture → Gust Slash → Mug + Bunshin →  Aeolian Edge → Trick Attack (2nd weave slot) → Phantom Kamaitachi → Dream Within A Dream → Hyosho Ranryu → Raiton → Ten-Chi-Jin → Fuma Shuriken \[Ten] →  Raiton \[Chi] → Suiton \[Jin] → Meisui → Forked/Fleeting Raiju →  Bhavacakra → Forked/Fleeting Raiju  → Bhavacakra  → Spinning Edge (Trick Ends)  →  Raiton→ Forked/Fleeting Raiju 
 
-> oGCDs in Parentheses
+![Ninja standard opener graphic. ](/img/jobs/nin/nin2.png "Ninja Standard Opener")
 
-\-11s: Huton\
--7s: Doton at max aggro range (Hide)\
--1s: Suiton (Kassatsu)\
+It is important for the Suiton pre-pull to start being prepared at -6s on the countdown and used at -1s. This will not early pull the boss and will allow future Mudras to come off cooldown sooner.
 
-Spinning Edge (Potion) → Gust Slash (Mug + Bunshin) → Aeolian Edge → Spinning Edge (Trick Attack) → Shadow Fang (Dream Within a Dream) → Hyosho Ranryu (Assassinate) → Raiton (TCJ) → Fuma Shuriken {Ten} → Raiton {Chi} → Suiton {Jin} (Meisui) → Gust Slash (Bhavacakra) → Aeolian Edge (Bhavacakra) | Trick Attack ends | → Raiton
 
-(Credit to Alfie for the image below)
 
-![](https://cdn.discordapp.com/attachments/718452012928467005/725406474880286851/NINreadibleRotation.png)
+Trick Attack is also a late weave in the opener to align with other raid buffs. Weave it as late as you can without clipping. 
+
+
+
+*Note: Trick is only purposely weaved late in the opener. Use on cooldown after the opener.*
+ 
+
+If you play at high ping (>40ms), you may skip the Spinning Edge at the end of the opener and go straight into Raiton instead, as fitting Spinning Edge under Trick is extremely tight.
