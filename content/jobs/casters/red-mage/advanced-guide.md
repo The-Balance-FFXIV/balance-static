@@ -2,6 +2,8 @@
 title: Red Mage Advanced Guide
 card_header_image: /img/jobs/rdm/rdmav.png
 authors:
+  - argen
+  - lana
   - Balance-RDM-Staff
 patch: "6.08"
 lastmod: 2022-02-19T17:16:11.933Z
