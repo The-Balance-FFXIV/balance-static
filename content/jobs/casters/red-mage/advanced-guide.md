@@ -3,11 +3,13 @@ title: Red Mage Advanced Guide
 card_header_image: /img/jobs/rdm/rdmav.png
 authors:
   - Balance-RDM-Staff
-patch: "5.58"
-lastmod: 2021-10-26T01:29:45.277Z
+patch: "6.08"
+lastmod: 2022-02-19T17:16:11.933Z
 changelog:
   - date: 2021-10-26T01:30:02.246Z
     message: Created page
+  - date: 2022-02-19T17:16:13.628Z
+    message: Updated for Endwalker
 ---
 # 6.X Red Mage Advanced Optimization Guide
 
@@ -319,6 +321,6 @@ Below is a chart showing the delay between when an action is used and when the d
 | Engagement             | 0.58      |
 | Displacement           | 0.76      |
 
-**Enquiries:** If you have more questions after reading the guide (or wish to contribute some information), feel free to ask in #rdm*questions on [The Balance server.](https://discord.gg/thebalanceffxiv)* _
+**Enquiries:** If you have more questions after reading the guide (or wish to contribute some information), feel free to ask in #rdm*questions on [The Balance server.](https://discord.gg/thebalanceffxiv)*
 
 *Majority written and compiled by Argen Yin (Ramuh), with major contributions from Lana White (Leviathan) and general input/review from other members of the Balance’s RDM team.*
