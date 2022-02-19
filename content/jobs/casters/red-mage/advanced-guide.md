@@ -2,270 +2,327 @@
 title: Red Mage Advanced Guide
 card_header_image: /img/jobs/rdm/rdmav.png
 authors:
+  - argen
+  - lana
   - Balance-RDM-Staff
-patch: "5.58"
-lastmod: 2021-10-26T01:29:45.277Z
+patch: "6.08"
+lastmod: 2022-02-19T17:16:11.933Z
 changelog:
   - date: 2021-10-26T01:30:02.246Z
     message: Created page
+  - date: 2022-02-19T17:16:13.628Z
+    message: Updated for Endwalker
 ---
-**THIS GUIDE HAS NOT YET BEEN UPDATED FOR PATCH 6.0 (ENDWALKER). PLEASE DO NOT USE THIS FOR LEARNING THE CLASS UNTIL IT DENOTES IT HAS BEEN UPDATED FOR 6.0 AND THIS DISCLAIMER HAS BEEN REMOVED.**
+# 6.X Red Mage Advanced Optimization Guide
 
-# Introduction
+This guide will cover some Endwalker Red Mage optimization concepts and principles that aren’t fully covered in the basic job guide. The intended audience includes:
 
-This guide will cover some Shadowbringers Red Mage optimization concepts and principles that aren’t covered in the basic job guide. The intended audience include:
+* Red Mage players who have the fundamentals mostly down and are familiar with all the concepts in the basic job guide (<https://bit.ly/3JsIdMZ>), but are trying to improve.
+* High performing Red Mage players who get good logs through good GCD uptime, intuitive sense and repetition but wish to augment their theoretical understanding.
+* Players who have experience optimizing other jobs but are trying out Red Mage.
 
-* RDM players who have the fundamentals mostly down, but are trying to improve (e.g. go from top 10% to top 1%).
-* High performing RDM players who get good logs through good GCD uptime and repetition, but wish to augment their theoretical understanding.
-* Players who have experience optimizing other jobs, but are trying out RDM.
+Some of the content here will cover concepts that are obvious to people who have experience playing other jobs at a high level. Other aspects will be unique to Red Mage.
 
-Some of the content here will cover concepts that are obvious to people who have experience optimizing other jobs. Other aspects of it will be unique to RDM optimization, or touch on job basics. But overall, this guide is meant to provide you an approach to optimization. In a nutshell: 
+## Introduction
 
-**RDM optimization is about:**
+Endwalker changes have provided Red Mage more freedom with its rotation and movements. While revamped Manafication, nerfed Displacement and slower Enchanted Reprise have removed some unique and strict forms of optimization from Shadowbringers, we gained more freedom and decision-making complexity instead. 
 
-* Managing your mana to get as many melee combos as possible within a killtime.
-* Getting as much potency value as possible from your several oGCDs.
-* Aligning your damage with pots and buffs without harming the above.
+In Endwalker, most of our optimization follows more “standard” FFXIV concepts like managing our resources to burst under raid buffs with GCD-level precision, planning oGCDs, and adjusting our rotation for certain killtimes. However, the complexity of Endwalker Red Mage comes in how all of our abilities can interact and throw things off, e.g. doing something that is comfortable for movement may cause us to misalign our oGCDs, or perfectly aligning our oGCDs may cause us to have a slightly weaker burst window under buffs. The difficulty of “perfecting” Red Mage is lining everything up perfectly without affecting anything else. To do this, you may need to continuously track multiple cooldown timers to the second and be very strict in your gameplay. 
 
-**The steps:**
+Note that very advanced and niche optimizations have a chance of being discovered later through the expansion, so it’s likely that this guide will be updated as more information becomes available and more optimizations are tested and verified.
 
-1. Understand how mechanics align when you keep perfect GCD casting uptime. Map out the minimum number of required Swiftcasts for this first.
-2. Determine your Embolden, Manafication and Potion timings, which will be heavily influenced by killtime ranges.
-3. For fights with phase transitions, count the number of Fleche and Contre Sixte uses you can possibly get per phase.
-4. Map out your Engagement/Displacement uses to maximize potency with four uses per Manafication cycle. More of these should be Displacement if mechanics, healing and mitigation allows. Note that there are rare instances you can get four uses of Corps-a-Corps due to phasing or Manafication holds.
-5. Other than mechanics, see if an additional planned Swiftcast will be useful anywhere, e.g. for improving oGCD alignment or weaving opportunities.
-6. Consider the very niche optimizations. This includes room for intentional oGCD delays (e.g. for buffs or pots), Enchanted Reprise use when high on mana for weaving or gaining an extra GCD via the 2.2s recast timer, or niche Swiftcast uses for procs.
-7. Put your final rotation together.
-8. Casting Uptime.
+### 1. Casting Uptime
 
 The most basic of all. With how Dualcast works, we will spend just under half of the fight standing still casting spells.
 
-In a perfect uptime scenario, if you play consistently, this means you will eventually be able to know if a mechanic comes up mid-cast or during your free movement timing. Situations like early pulling, slightly inconsistent boss mechanic timings (e.g. boss turning shenanigans) or spell speed differences (e.g. 2.48 vs 2.50 in E8S) can often change this.
+In a perfect uptime scenario with consistent play, you will eventually know if a mechanic comes up mid-cast or during your free movement timing. Situations like early pulling, slightly inconsistent boss mechanic timings (e.g. boss turning shenanigans) or spell speed differences (e.g. 2.48 vs 2.50 in E8S) can often change this.
 
-For optimization, you will want a fight-specific rotation that works for you. Therefore, your first step is to identify where you will need Swiftcast for movement on your BiS spell speed, and to ensure you hold it for that mechanic in future. It is important to cut down “movement” Swiftcasts to a minimum if possible, so you may have to “limit test” certain mechanics and casts.
+For optimization, you will want a **fight-specific rotation that works for you**. Therefore, one of your first steps is to identify where you will need Acceleration, Swiftcast, or delayed melee combos for movement on your BiS spell speed, and to ensure you hold it for that mechanic in future. More notably, you will also have to weigh your Acceleration and Swiftcast usages with your ongoing Fleche and Contre Sixte alignment (as well as other oGCDs, potentially).
 
-# Embolden, Manafication and Potion timings
+**Melee combo movement planning**
 
-Embolden and Manafication are usually somewhat de-synced in our rotation. With that said, we do want to align our burst under potions and buffs, if it doesn’t cost us a melee combo. We decide when these timings are primarily by:
+As we are no longer forced to melee combo almost immediately after accumulating enough Mana for fear of overcapping, we can now take much greater advantage of our melee combo for movement in a fight, such as in [this example](https://www.youtube.com/watch?v=5RELbf-Tw0A).
 
-* Encounter design
-* Predicted kill time
-* Occasionally team composition
+We generally aim to fit a double melee combo under each two minute buff window, and with the rate at which we build Black and White Mana, this means we are left with one flexible melee combo between which can be used freely for movement.  \
 
-Generally, buff timings are discussed with the group. For simplicity, we can start with a practical example with the door fight of Eden's Promise: Eternity (Savage).
+Mapping out your melee combo timings on a per-fight basis will allow you to get the most use out of your combo and lower the amount of Swiftcasts and Accelerations you will need to use to keep uptime. The melee part of our combo is 5.2s which is followed by \~7.5s of finishers, leaving us with \~12.7s of movement without cast times. If a movement-heavy mechanic requires you to move out of melee range, such as in the clip above, it is important to time your combo so that your finishers align with any movement required outside of melee range. 
 
-* Two minutes is the Junction Shiva phase. It has a lot of movement, a lot of healing, and melees sometimes need to disengage. This phase resolves at 2:30ish.
-* Six minutes is the Lions phase, where it is usually even more inconvenient for buffs and burst damage due to how people are spread. This phase resolves at 6:30ish. Many groups choose to hold their buffs, potions, and re-openers until after this phase resolves.
-* Therefore, using 2-minute buffs during Shiva phase (2:10ish) or after it resolves (2:30ish) are both viable, because it doesn’t ultimately delay the 6:30 one after Lions.
+There are two situations where your extra combo between two-minute windows is not fully flexible. The first and most significant one is if a Ninja is in the party, meaning Trick Attack will be applied to the boss in every odd minute as well as even minutes, locking our extra combo to every odd-minute window. The second exception is if an Astrologian card is applied to you in between buff windows – similar to Trick, you should use your combo under this buff. Unlike Trick, however, this exception is not necessarily guaranteed every minute if an Astrologian is in the party. Both of these exceptions will leave Red Mage with far less mobility, placing a greater importance on Swiftcast and Acceleration planning.
 
-This is where Manafication timings come in.
+### 2. Swiftcast and Acceleration
 
-* If you are using buffs on cooldown, you should use the X-8 opener, which makes the 2-minute Manafication come up earlier. You use Manafication on cooldown during Shiva.
-* If you are holding buffs for 2:30, you should use the X-10 opener, which generates surplus mana by two minutes, meaning you can hold Manafication at two minutes for mana efficiency. A normal melee combo will align with buffs by 2:30.
+With Acceleration now acting as a second Swiftcast and having two charges, this hypothetically means we have three Swiftcasts to work with in our rotation. While this may seem to leave us with a lot of freedom, actual usage of these abilities is far more nuanced due to the uneven number of finishers in our melee combo and the nature of our passive, Dualcast. As mentioned in the basic guide, the most important use of these abilities aside from movement will be for keeping our oGCDs aligned. When fully optimizing a fight, things can still get deeper than this. \
 
-Neither of these decisions badly impact a standard double melee combo re-opener at 6:30. The 4:00ish vs 4:30 buff timing doesn’t make a difference because no mechanics are happening in either case. They also don’t meaningfully change your melee combo count within this timeframe. This is an example of shifting your Manafication timing to better align with planned buff timings, without losing a use.
+**Understanding Swiftcast/Acceleration damage gains in a vacuum**
 
-The exception is, of course, top-ranked speedrun groups that kill this boss at around 6:40 or faster. These groups want to use 2-minute buffs closer to 6:00, so 2:30 buffs are not an option.
+In a vacuum and assuming an ideal situation, a Swiftcasted Verthunder III or Veraero III can be a 50 potency gain if used in place of a Verfire or Verstone, and a 70 potency gain if used in place of a Jolt II.  Acceleration is an additional 20 potency gained if taking advantage of the guaranteed proc. 
 
-## Manafication Reminder
+In addition to this, Swiftcast is a 1 Mana gain when replacing a proc and a 2 Mana gain when replacing a Jolt. Acceleration is an additional 1 Mana gain when including the guaranteed proc. 
 
-Remember that mana does not strictly = DPS. It is only DPS when converted into enchanted melee abilities that would be a DPS gain over Dualcasting (i.e. our melee combo in most situations, Enchanted Moulinet for AOE on 3+ targets, and very rarely Enchanted Reprise). When analyzing mana gains/losses with your Manafication timings, a more practical way to understand it is the number of Dualcasts gained or lost in building up melee combos.
+However, please note that whether an odd number of Swiftcast/Acceleration uses is a gain will depend on the GCD the phase or fight ends on. That’s because it takes two uses of these instant cast abilities to fully “replace” a Jolt II/Verfire/Verstone on our timeline. For simplicity’s sake let's pretend the boss dies in four GCDs vs five GCDs:
 
-If you Manafication at 40/40, you gain 40/40 mana. This means you casted around four Dualcasts (20 seconds) to build 40/40 mana, assuming procs up. You would normally have to cast four more to build up to a combo, but Manafication doubling your mana from 40/40 to 80/80 cuts that out. You are now “20 seconds ahead” of someone who is purely Dualcasting.
+**4 GCDs**
 
-Overcapping simply means you have spent time casting spells that do not contribute to building up a melee combo. The delay may mean you “lose a potential use” of melee combo depending on the killtime (or depending how much you overcap), but there is no innate damage loss.
+Jolt > Thunder > Jolt > Thunder (No Swift/Accel)
 
-This clarification is also important to understand why we don’t go out of our way to “dump” mana with Enchanted Reprise. Dumping mana from 60/60 down to 50/50 doesn’t actually help you build up a combo faster. It does the opposite by pushing your Manafication back, while not gaining you any mana in return.
+Jolt > Thunder > **Thunder** > Jolt (one Swift/Accel: no gain, only shifted downwards)
 
-# Team Composition
+Jolt > Thunder > **Thunder** > **Aero** (two Swift/Accel: gain)
 
-In an optimized static, you can plan or customize buff timings and loosely predict kill times. You do this by knowing your team raid buff and burst windows. As a recap of the basics, in a fight with a kill time of 7:30:
+**5 GCDs**
 
-* RDM, SAM, DNC and NIN will be happy with buffs lining up at two minute intervals. Embolden can be used off cooldown at 0-2-4-6.
-* But RDM, DRG, BRD and SMN would be better with 0-3-5-7. Their three-minute buffs (Battle Litany, Battle Voice and Devotion) can sync with the group’s other buffs three times here (0-3-7, missing 5), but only twice in the previous (0-6, missing 2 and 4).
+Jolt > Thunder > Jolt > Thunder > Jolt (No Swift/Accel)
 
-As for your rotation and Manafication timings, you will need to get a feel for the encounter and common killtime ranges to decide what is best. Just remember to avoid significant overcapping, know how different openers affect mana (X-8 surplus at four minutes, X-10 surplus at twp minutes), and get an idea for how many Scorches you can get by your estimated killtime based on different openers and Manafication holds.
+Jolt > Thunder > Jolt > Thunder > **Thunder** (one Swift/Accel, gain)
 
-# High Level Considerations: GCD-Perfect Buff and Combo Timings
+Jolt > Thunder > **Thunder** > **Aero** > Jolt (two Swift/Accel, no additional gain from one use)
 
-After deciding where your buff and Manafication timings are, GCD-level precision on Embolden is encouraged. This depends on composition, but you will generally want to align it around where most of the burst is. For simplicity’s sake, we’ll assume a RDM, SAM, DNC, DRG composition, where you generally play around the SAM’s rotation and 2-minute burst.
+As you can see, in a vacuum, maximizing your usage of these skills is a considerable DPS gain. In practice, however, using these abilities for a gain is not as simple.
 
-* Coordinate with your group so that Embolden goes out slightly before Tech Step.
-* Have all 2-minute buffs out by the time the Samurai does a double Midare or equivalent burst (this will be fight specific).
+As covered in the basic guide, using one of these abilities can cause you to drift your Fleche or Contre Sixte, which can result in a lost usage down the line. This will cause a net potency loss as maximizing your Fleche and Contre Sixte uptime is far more important than any direct gains from Swiftcast or Acceleration. Therefore, using Swiftcast and Acceleration on cooldown will not necessarily mean a net potency gain. 
 
-In this example in Eden's Verse: Fulmination (Savage), the agreement was “Three GCDs after knockback”, and involved a Samurai doing a custom rotation for 7:10ish killtimes.
+**Swiftcast/Acceleration usage and flexibility with procs**
 
-![](https://lh5.googleusercontent.com/0ANmrSbfeD6RHPRfIpHumTMQhn1JEjWcgMQgg9TTdC6cQ56uUn9nmWjJVp239QioZGrA6XIzMJj72Tc5Jm6N2_HGyqKeXp0pTvJA6RWmqQLLEE-Gl7jkmnE7DgrE5_UmHbc0hwvi=s0)
+ \
+Using Swiftcast and Acceleration for oGCD alignment is an important concept explained in the basic guide along with the rule of thumb, "one Swiftcast/Acceleration per melee combo." However, many people misunderstand this rule by thinking that you must use a Swiftcast/Acceleration immediately after your melee combo while disregarding procs.
 
-As for our own rotation, we generally want to adjust our re-opener, if possible, to catch two Scorches under 20 second buffs, like so:
+In reality, you can use Swiftcast and Acceleration for both oGCD alignment and procs. You only need to use an instant cast to shift your Dualcast windows sometime before your next oGCD comes off cooldown, which often does not happen immediately after a melee combo. If you finish a melee combo and your Fleche still has some time left on its cooldown, you do not have to rush your Swiftcast or Acceleration if you already have both procs available.
 
-![](https://lh5.googleusercontent.com/k8CTN5ZrAZRTRJJptejNdZrfi26ORqQRLm3fdVVAWmrXDwbI4RLwovu_MUPTtQUVKhs_sW2n6uRNgwxrcGN8kfHjB7SbYHPD377xx9VUXCm_6NUjQsBAebQTxTK9OGG9uBhwB-2u=s0)![](https://lh4.googleusercontent.com/dOMAV8gTMsNU81lBOAfNwl6ovfe5ngXgEDX_uUKuPnYffCU-wcpevK_zmtZ3BZA-0We_MKWO9hGgL6qxIcMRnPrpUtPN7485kE8ibvqkf9wWWZ8QcYXHXV0hznh_pvEoARUIC6AK=s0)
+Some situations will arise where your proc luck leaves you with both procs by the time your next oGCD is available, in which case you should forgo the proc in favor of oGCD alignment. Outside of those situations, Swiftcast and Acceleration should ideally be used both for procs and movement/oGCD alignment. An example of this is shown below: \
 
-Note: These numbers are from Eden’s Verse.
+![](/img/jobs/rdm/1.png)
 
-# Fleche and Contre Sixte Uses Per Phase
+When optimizing a fight and knowing a general timeline, it is possible to benefit from these abilities when used for the sole purpose of getting an instant cast GCD, or fishing for a proc. 
 
-Boss jumps and phasing adds an additional layer of optimization to the job in many respects, but one that requires special attention is the number of Fleche and Contre Sixte uses we can get through a fight. Swiftcast/Enchanted Reprise shift our hardcast and instacast window, so we may have to do certain phases without using them at all to ensure we get the maximum number of uses. It is even possible that we have to change our opener to get all uses.
+**Back-to-back Swiftcast and/or Acceleration uses to avoid “overcapping”**
 
-One prime example of this is Eden's Promise: Anamorphosis (Savage), or E11S.
+Sometimes we may find ourselves with Swiftcast and two Acceleration charges available without needing them for either movement or oGCD alignment. While not a major DPS loss, we can minimize the time spent sitting on those abilities by using a **Swiftcast and an Acceleration back-to-back, or weaving one Acceleration followed by a second** in the following GCD. 
 
-It is only possible to get five uses of Contre Sixte in the first phase of the fight. But if you use the standard opener (Fleche Embolden first) or drift it due to using Swiftcast/Enchanted Reprise, you will lose one use by the end of the phase. Hence, for this fight in particular, we swap Contre Sixte with Fleche’s place in the opener and hold Swiftcast until the end of the phase.
+Similar to fixing alignment after a melee combo, these abilities do not have to be used back-to-back as long as you realign your Dualcast windows before the next time your oGCD comes off cooldown. Rather than leaving free potency on the table by sitting on Swiftcast and two charges of Acceleration, using two instant-casted GCDs together can allow us to benefit from these abilities while still avoiding any oGCD drift. An example timeline of this being done can be seen here:  
 
-![](https://lh4.googleusercontent.com/Z-v3SeQR3-glwbKz8CPIjBNA6LcAlkR46DQ0-Og9EEk2wx267CB8ZlBACmKGHp-ZFSAuox5ednHufJ3RY4CYRjzCALCzcUBmBDJHP8EE0Lw5bwP3s77rSABLA4R9ixwA0eZkvP1Y=s0)
+![](/img/jobs/rdm/2.png)
 
-While not all fights or phases are as strict as this, there are still a number of examples through the tier where drift within a phase can quickly lead to these abilities coming up just after a phase transition starts. Long phase transitions effectively function as “cooldown resets”. A quick basic recap on how oGCD cooldowns interact with downtime:
+![](/img/jobs/rdm/3.png)
 
-* If you use Fleche or Contre Sixte one second before the 40 second phase transition, it will be back up at the start of the next phase.
-* If these abilities come off cooldown just after the transition starts, that means you will effectively be sitting on Fleche or Contre Sixte with its cooldown up for almost 40 seconds. Hence, a full lost use.
+While it may be a potency gain in a vacuum, it is important to consider how this will affect our rotation down the line. Specifically, Swiftcast and Acceleration should not be used back-to-back for the sole purpose of avoiding overcapping if it jeopardizes our oGCD alignment after a future combo, or our ability to maintain uptime for an upcoming mechanic. 
 
-It is common knowledge that phase transitions benefit SMN when it can cut out filler phases. But phases with frequent transitions that line up with Fleche and Contre Sixte can be beneficial for RDM – effectively starting and ending various phases with Fleche and Contre Sixte uses. This adds up to a lot of free potency over time that we would not have in full uptime scenarios.
+It is a bit tricky to determine whether or not it’s safe to use back-to-back instants due to variable combo timings and Mana values at different points in each encounter. But here are some numbers that may help with planning:
 
-To count the number of Fleche or Contre Sixte uses you get per phase, you can start with the timestamp for the first use in the opener, and just spreadsheet which seconds it will come up later. If the first Fleche is used at eight seconds in the opener:
+* Swiftcast and Acceleration cooldown timers are 60 and 55 seconds, respectively.
+* A full melee combo is 12.64 seconds at 2.48 GCD.
+* It takes around 47 to 50 seconds to generate 50|50 Mana from 0|0.
 
-| Fleche use (Seconds) | Timestamp |
-| -------------------- | --------- |
-| 8                    | 00:08     |
-| 33                   | 00:33     |
-| 58                   | 00:58     |
-| 83                   | 01:23     |
-| 108                  | 01:48     |
+So at a minimum, using Swiftcast or Acceleration 37 seconds before our next single melee combo (accounting for a 12+ second combo itself and the fact that we are rarely ever actually at 0|0 Mana) should ensure that they are available for alignment purposes after the combo. If our next combo is part of a double combo, then that creates even more leeway to do this.
 
-\
-If a phase lasts for 01:50 seconds and only allows for two seconds drift, maybe you should hold Swiftcast all the way. But if it lasts until 01:55? That allows more flexibility for using Swiftcast for damage, mechanics or oGCD alignment. That allows seven seconds of drift.
+Additionally, in niche optimization scenarios with a consistent killtime, it is possible to still gain from using these abilities on their own while causing drift. If drifting your oGCDs by a GCD or two will not cause a lost usage, it is generally not harmful to your rotation to use a Swiftcast or Acceleration. However, intentionally causing drift with Swiftcast and Acceleration should only be done when you are confident in your killtime and total possible oGCD usages.
 
-The basic formula for Excel beginners is to input the number of seconds, then do the previous cell +25 each time (left in the table above). For the encounter timestamp, apply the seconds to time conversion formula (=cell/86400). Then compare it to a mechanics timeline. There are undoubtedly more sophisticated timelines or possible tools for cooldown mapping, but this is something anyone can do in less than five minutes.
+### 3. Embolden, Manafication and Potion Timings
 
-## Contre Sixte and AoE
+With how hard it is to overcap our Mana now, it has become viable to build up Mana so we can put as much potency from our melee combo under buffs as possible.
 
-Basic reminder that Contre Sixte AOE doesn’t have any damage drop-off, hence it’s worth it to hold it for multiple targets if it will not cost you a use (e.g. UWU opener). In a fight such as TEA, whether or not you will hold it for when Liquid Hand spawns will depend on your killtime and if it will cost you a use.
+**Double melee combos and 20 second buff windows**
 
-# Displacement/Engagement Mapping (and Corps-a-Corps?)
+In theory, the ideal 20 second buff window will at least have this set of GCDs:
 
-This is probably one of the more difficult aspects of RDM optimization, and potentially a bit “controversial”, because it may require healer adjustment and increases the risk of wipes/death for a mere 50 potency gain over Engagement – generally not appropriate in prog or PF reclears.
+![](/img/jobs/rdm/4.png)
 
-That said, when used over multiple Manafication cycles, Displacement optimization can amount to hundreds of “free” potency. Many required teammate adjustments come at no actual DPS cost, e.g. AST popping star early or using a spare Essential Dignity, DRK TBN during a raidwide without a tankbuster near. However, this is more suited for optimized environments with healers or tanks you know and can communicate with.
+In practice, however, it is hard to achieve this for every window without delaying Manafication at least once if buffs are used strictly on cooldown (mainly for the first two-minute window). It is occasionally possible to also catch an additional Enchanted Redoublement at the start, but it is not something that is realistic to align consistently.
 
-## Basics Recap:
+If delaying Manafication for the first two-minute Embolden, you start your melee combo **five seconds** before the first Embolden comes back up, and double weave Manafication and Embolden together. This means your Manafication will catch the three finishers under buff, and the subsequent melee hits.
 
-* Manafication is 110 seconds. Engagement/Displacement cooldown is 35 seconds.
-* You can get four uses within this time, allowing for five seconds of drift, but need at least one Engagement for weaving reasons.
-* Four Engagement (4 x 150 = 600) is equal to three Displacement (3 x 200 = 600) in potency.
+If using Manafication strictly on cooldown, it is almost impossible to “guarantee” this for the first two-minute buff window at 2.48 GCD, as we do not generate enough Mana to do so without excellent proc luck. We may need to use one more GCD between combos (ideally a Swiftcast or Acceleration Veraero/Verthunder III), which limits us to one Resolution under Embolden there.
 
-The obvious play then, is to try to go for four Engagement but replace as many of those as possible with Displacements (max three, usually two).
+**Triple melee combos under 30 second pot (and potentially Searing Light)**
 
-We also usually delay Manafication at least once per fight to align with your pot window, allowing us to go for quadruple Displacement (200 x 4 = 800) more comfortably there too. Note that five Engagements (150 x 5 = 750) is weaker than four Displacements, so if you’re going for five uses of these abilities you need at least one Displacement to break even.
+While triple melee combos are only a minor gain over doubles, it is theoretically still optimal if you can line one up like below for your potion window:
 
-Since Displacement is highly influenced by encounter design and mechanics, there is no real shortcut other than doing it yourself and practicing within the raid. It is also tied to GCD alignment, making consistent Swiftcast plans important (covered further below). This is often going to be one of the most time consuming parts of RDM optimization.
+![alt_text](/img/jobs/rdm/5.png "image_tooltip")
 
-Be sure to check the Engagement/Displacement tab on xivanalysis.com when reviewing your log. You can be ambitious and aim for something like this on a fight with natural Manafication delays (from E11S):
+To accomplish this, you can **start your first combo ~17-18 seconds before Embolden comes back off cooldown**, and use your Tincture before the first Scorch. If you have a Summoner in your party (the only job with a 30 second raid buff), it is ideal to align our potion window with Searing Light if we can at no cost.
 
-![](https://lh4.googleusercontent.com/k55zihkoXKbT_l6Ud7gscr82pMXbdDOIUk1nfz1WhKqvW_11RlxWrlcUsVA53KG7VV8dJQE8NtNglFdSdDthzy0OjIIhv6cm0yBdHrulAp3RCY259cYlI4uSAINSRuToCas7eMP8=s0)
+**Manafication on CD vs aligned with 120s buffs**
 
-You can also aim for something less ambitious if you need to play a bit safer. But ultimately, for high end optimization, you should be aiming to create Engagement/Displacement plans that get you more than the “base” 600 potency as often as possible.
+Part of putting together our optimal rotation for each raid is determining our Manafication timings. This chart shows how times will line up when both abilities are used strictly on cooldown in a full uptime scenario.
 
-## Corps-a-Corps?
+![alt_text](/img/jobs/rdm/6.png "image_tooltip")
 
-Corps-a-Corps is quite a forgettable ability in optimization, and we generally just get three uses per 110 second Manafication cycle due to its 40 second cooldown. Nonetheless, remember that there can be opportunities to get a fourth use of Corps-a-Corps when delaying Manafication. Some encounters encourage this too. One example is Oracle of Darkness, where we usually hold Manafication until the “Relativity” mechanic is resolved as shown below.
+The general rule of thumb to start with is:
 
-![](https://lh5.googleusercontent.com/XGUluh7X3h-U76R4FvT9b3q15SOk2JGbT-ZrExW5D4_Kfr_cwMEBcW4SqJxOf5Wf9vBls8EqZR3otPcRFO06sLonqGVuCMN92ilnGsDzHhOujf8792tdDwyb42DK08vQmrAcuMS-=s0)
+* If number of possible Manafications > number of possible Emboldens within that killtime, you will want to rush Manafication.
+* If number of possible Manafications = number of possible Emboldens within that killtime, you can align them.
 
-# Planned Swiftcasts for oGCD Alignment
+While many will think of this as a “rush Manafication vs 120s Manafication” dichotomy, the options are more nuanced when downtime or predictable killtimes are involved. For example, you can align the first two Manafications with buffs, then proceed to use them on cooldown after.
 
-Given the very precise timing and positioning required for maximizing Displacements, you will find that keeping your GCD alignment and Swiftcast uses consistent every pull is important. Note that “GCD alignment” also includes the exact weave slot you use Engagement when starting a new Manafication cycle. 
+To illustrate this point in a simple way, let’s say we align the first two with Embolden, then use them on cooldown for an 8:00 killtime. The timeline would look like this:
 
-If you double weave Manafication into Engagement, your next use will come up during your Dualcast weaving window. If you use it after your first or second melee combo hit (Enchanted Riposte), it will come up mid-hardcast and be delayed slightly. To understand why, think of your entire melee combo as two Dualcasts.
+![alt_text](/img/jobs/rdm/7.png "image_tooltip")
 
-* Enchanted Riposte and Enchanted Zwerchau are both 1.5 seconds each.
-* Enchanted Redoublement is 2.2 seconds.
-* Verflare/holy is 2.5 seconds.
-* Scorch is 2.5 seconds.
+So, you can see here that by partially delaying Manafication (align twice, then use on cooldown after), we can align it perfectly with Embolden twice while still not losing a use before 8:00, accounting also for the ~12.7 seconds a melee combo takes us.
 
-For your melee hits, 1.5 + 1.5 + 2.2 = 5.2 seconds (effectively one Dualcast with 0.2 seconds added on). For your finishers, 2.5 + 2.5 = 5 seconds (one Dualcast).
+Planning cooldowns on a spreadsheet like this is fairly simple. **The basic formula for Excel beginners is to input the number of seconds, then do the previous cell +110 or +120 each time. For the encounter timestamp (e.g. 02:05), apply the seconds to time conversion formula (=cell/86400) and format that column as custom: mm:ss**. Then compare it to a mechanics timeline. There are undoubtedly more sophisticated timelines or possible tools for cooldown mapping, but this is something anyone can do in less than five minutes.
 
-This means if you weave anything after Riposte, Zwerchau or Verflare/holy, the next use will come up mid-hardcast later in your rotation unless you use Swiftcast to switch your alignment. Whether this is worth it or not is very situational and is also determined by encounter design.
+**De-syncing Manafication, normal combos and buff alignment**
 
-By now it should be clear why we don’t “freestyle” Swiftcast for procs in optimization. It can easily disrupt our Engagement/Displacement and GCD-perfect Manafication and Embolden plans, all for the sake of a chance at a 20 potency gain.
+A common misconception among newer players is that misaligning Manafication with Embolden means we do not use melee combo under buffs. This is not the case. We can simply build up Mana above 50|50 and spend it when buffs come, as long as we don’t overcap by going beyond 100|100. The 5% self-buff from Manafication is decent, but only amounts to ~150 potency when applied to all six melee combo hits.
 
-# Bonus Section: The 2-minute Dilemma
+In practice, outside of our buff windows, we accomplish this by **using Manafication after Enchanted Redoublement, using our three finishers, then going back to Dualcast after.** What this does is keep our Manafication cooldown running early, while “carrying over” our Mana prior to using Manafication. 
 
-One example of a problematic part of RDM optimization is the first Manafication cycle after a standard 3-8 opener (note: this is usually still the encouraged "default" and other openers have their own pros and cons). Since people who become aware of this are probably deeper into optimization already, I will summarize it in simple terms:
+This allows us to continuously build up enough Mana to do two normal melee combos under buffs later, as shown below. Note the Manafication timing and “Gauges” tab showing Mana values at the top, and how much Mana there is for a double combo later:
 
-## No Swiftcast
+![alt_text](/img/jobs/rdm/8.png "image_tooltip")
 
-* Using zero Swiftcast between your opener and 2-minute timing means Embolden, Manafication, and your fourth Engagement will come up at the same time assuming full uptime and no oGCD delays. This forces you to delay one ability or triple weave.
-* A zero Swiftcast Manafication cycle allows for three Displacement and one Engagement.
-* You get a 750 potency Engagement/Displacement plan (1:3), and zero drift to Fleche and Contre Sixte due to no Swiftcast use.
+This also means Manafication will buff three normal spellcasting GCDs after the finishers. In terms of potency, three finishers + three normal casts is marginally higher than our melee hits (~1-8 potency difference for single target spells, depending which ones casted). However, three spells also take longer to use than our melee hits. Due to Manafication’s 15 second buff timer, you should **either late weave Manafication here, or have your third spell be an instant cast** to avoid the 5% damage buff from dropping off on our last cast.
 
-## Two Swiftcast
+**Standard 0-6 potions vs two-minute potions**
 
-* Using two Swiftcast between your opener and 2-minute timing means your fourth Engagement can come up one weave slot earlier if you use it during your first melee combo, allowing for the below weave sequence.
-* You get a 700 potency Engagement/Displacement plan (2:2), and five seconds drift to Fleche and Contre Sixte due to two Swiftcasts. 
-* But you also get ~70 potency due the two Swiftcasts fully replacing a Jolt II or Verfire/stone with another Veraero/thunder, as well as a bit more mana that gets doubled when Manafication is used.
+In most scenarios, our standard potion windows are the opener and the six-minute buff window. When using Manafication on cooldown, we can use Manafication after three melee hits at around 5:45, do the three finishers, then go back to Dualcasting to carry over the Mana to 6:00, where we then do two normal melee combos under pots and buffs (as covered above).
 
-Note the weave sequence on the next page with Swiftcast, Engagement, Embolden and Manafication coming up at the same time.
+However, due to our more flexible Mana resource pool, it can be optimal to do a two-minute potion instead of using one in the opener, because we will be able to put at least two melee combos under buffs and pots each time. This is only preferred within certain killtime ranges:
 
-![](https://lh4.googleusercontent.com/b-eSfU-HkwtWajmYgs4LJ96byuaT6VIOHtJHzEWLtX90S-XH1ZDhng1caMXjWJ1GzsKeqzHV44RM2JgxvCARDTuPlDs7eP918xIExYtMrsgLqgFMbcEkP7lIE0way3ps8cJeQU2J=s0)
+* In longer fights where you can benefit from three potions (e.g. ~9:15 killtime or longer), triple potion will be better than only two. 
+* We also want to be sure that our second potion aligns with raid buffs. 
+* For a full uptime fight with no buff holds, you would want a killtime range between 8:30 and around 9:30, with a pot at around 2:00 and 8:00.
 
-We do not spam Swiftcast for DPS because too much drift over a fight can lead to a likely, or even guaranteed lost use of Fleche or Contre Sixte. But if you only use two to three per fight, you can line up your 2-minute cooldowns better and gamble on five to eight seconds of drift not resulting in a lost use – even more so if you become familiar with common fight killtimes.
+Note, however, that mechanics can make our second pot align with buffs earlier. For the first tier in Endwalker, this conveniently applies to three separate raids: Zodiark EX, P2S, and P3S. Each of these raids create a forced delay for our four-minute buffs due to “downtime” mechanics: Astral Eclipse, Kampeos Harma (colloquially “Limit Cut”), and the entire P3S adds phase respectively. 
 
-# Niche and highly situational optimizations
+As such, we can use a potion at 2:00 and 6:30 and it will align with party burst and raid buffs.
 
-There are a lot of highly niche micro-optimizations you can do depending on the situation. There are no general rules here.
+![alt_text](/img/jobs/rdm/9.png "image_tooltip")
 
-## Basic Optimizations
+In other scenarios with shorter killtimes, we would default to doing our first potion in the opener, and the second one during the first available buff window after pots come off cooldown (this is often – but not always – the six minute buff window).
 
-* Occasionally, you can overcap a little bit to put melee combo finishers under Trick Attack at one minute, or into any 3-minute buffs.
-* If there are raids with two targets, awkward killtimes and a large surplus of mana, you can consider dumping with an Enchanted Moulinet. This can occur in BJCC phase of TEA, where you may find yourself overcapping on mana even using a lot of Jolt Impact, but still need to be at 100/100 for an Alexander Prime reopener.
-* We rarely intentionally delay Fleche or Contre Sixte purely for potion reopeners, even if it’s “ideal” to get two Fleche and one Contre Sixte within one potion. But it is worth doing if you can predict the killtime, or if a specific phase in a fight is very forgiving on Fleche and Contre Sixte holds (see section three).
+### 4. Damage oGCD Optimization
 
-## Enchanted Reprise Techniques
+**Fleche and Contre Sixte uses per phase**
 
-For encounters where you can play with a lot of surplus mana and there’s sufficient boss phasing, Enchanted Reprise’s 2.2 GCD recast timer (as opposed to 2.5 on normal casts) can theoretically be abused to sneak in a final GCD in very specific situations.
+Boss jumps and phasing add an additional layer of optimization to the job in many respects, but one that requires special attention is the number of Fleche and Contre Sixte uses we can get throughout an encounter. Melee combos, Acceleration and Swiftcast shift our Dualcast alignment around, so we at times have to be very strict in our planning to ensure we get the maximum number of uses. It is even possible that we have to change our opener.
 
-Occasionally, I will see people ask “if you use Swiftcast for damage, can you use Enchanted Reprise to fix your GCD alignment?”, to which the answer is we generally don’t do it because it’s equal in potency to Dualcasting, but far less mana. However, there are very rare situations when it can be used to fix GCD clipping. It is arguable whether fixing mistakes counts as high-end optimization, but nonetheless, here is a hypothetical situation where it can be useful. I will once again use E11S as an example:
+One prime example of this is **The Minstrel’s Ballad: Hydaelyn’s Call**. The first phase of this raid lasts for two minutes and ten seconds. In the Endwalker general purpose opener, Fleche is used just before ten seconds. When mapping out recast timers, however:
 
-* You’re raiding in Party Finder, so you did the 3-10 opener due to getting lightning elemental break first. Due to this fight’s general timeline, you will be using 2-minute Manafication no matter what (hence surplus mana from the 3-10 opener).
-* You clip your GCD slightly somewhere just after the opener.
-* The only Swiftcast you use in this phase is past the 2-minute mark to get the final Veraero/thunder of the phase. Due to clipping your GCD, you risk losing this cast.
+![alt_text](/img/jobs/rdm/10.png "image_tooltip")
 
-The solution here then to “fix” your clipped GCD timeline by 0.3 seconds is to use Swiftcast, then follow it up immediately with Enchanted Reprise. However, it’s an incredibly niche technique because:
+The sixth use at 02:15 is when the boss is no longer targetable, which means a lost use (given the length of the phase transition). This means that if we are optimizing, we need to use our Fleche earlier in the opener at no later than four seconds. With low ping, one way to do this is clip a potion with Fleche, like so:
 
-* You have to do this combination between Fleche or Contre Sixte uses to ensure they don’t drift.
-* You also have to do this between Engagement/Displacement uses so it doesn’t interfere with your plan.
-* It can only be done when you have surplus mana for the next planned Manafication. Dualcasting gains you at least 17 mana. A Swiftcast to Enchanted Reprise combo gains you 1 mana (gain 11, lose 10).
-* In the E11S example, you have to do it before 01:10. With Swiftcast’s 60 second cooldown timer, if you use it too late, it will not be up for the final GCD at just after 02:10.
 
-This can also occasionally be used to mitigate clipping caused by a triple weave, double weaving potion with Fleche, etc. if needed.
+![alt_text](/img/jobs/rdm/11.png "image_tooltip")
 
-## Swiftcast for Proc Fishing
+As you can see on the timeline, the final Fleche is used just in time before the boss is untargetable, with the next use during adds phase at 2:35.
 
-Swiftcast can occasionally be used for proc fishing, which is to use it more freely for procs (i.e. if Verstone/fire procs aren’t up, one could Swiftcast Verthunder to try and get a Verfire proc). It’s effectively an RNG attempt at a 20 potency and 3 mana gain.
 
-Maximizing our proc usage is a fundamental part of our base rotation. However, using Swiftcast in a “freestyle” manner will misalign several of your other oGCDs, and the cost of doing so outweighs the potential gain from proc fishing. 
+![alt_text](/img/jobs/rdm/12.png "image_tooltip")
 
-It’s not as simple as drifting Fleche and Contre Sixte either. Creating optimized Displacement plans requires very precise timing, as does GCD-perfect Embolden and double melee combos, Manafications, etc. Random Swiftcasting for procs will throw all of this off and make it inconsistent every pull.
+Note that this can also occur with Contre Sixte, as was the case in Shadowbringers, where we had a custom opener for Eden's Promise: Anamorphosis (Savage) that allowed for an extra Contre Sixte use as the last oGCD weave in the phase. To count the number of Fleche or Contre Sixte uses you get per phase, you can start with the timestamp for the first use in the opener, and just spreadsheet which times it will come up later. The formula for how to do this on Excel is written in the Manafication section.
 
-With that said, it’s still possible to use Swiftcast for proc fishing in very specific scenarios. For example, in Eden's Promise: Litany (Savage), you may opt to do two Swiftcasts within the first two minutes, for reasons outlined in the Bonus Section: the 2-minute Dilemma above. The second Swiftcast can be used during a double weave as Engagement, Embolden and Manafication all come up at the same time.
+**Contre Sixte and AOE**: As a basic reminder, Contre Sixte doesn’t have any damage drop-off in AoE situations, so it’s worth it to hold it for multiple targets if it will not cost you a use (e.g. UWU opener). In a fight such as TEA, the decision of holding Contre Sixte for when Liquid Hand spawns will depend on whether your killtime costs you a use.
 
-As for the first Swiftcast, it can be used anytime after your second Fleche at around 33 seconds (to ensure it lands within your potion window), but before 55 seconds, which is when your second Engagement/Displacement happens. This means that within this specific 20 second window, you can hold Swiftcast for proc fishing, because it has zero effect on any of your other meaningful oGCD alignments.
+**Corps-a-Corps and Engagement into buffs**
 
-In short: Your per-fight Swiftcast plan should account for movement comfort and oGCD alignment first. But within that framework, you occasionally will have a few GCDs worth of flexibility to fish for procs.
+Corps-a-corps (130 potency) and Engagement (180 potency) have two charges, and so can be a gain for the party if we delay some uses to occur under buffs. However, due to the 35 second timer, it isn’t always possible to put two uses under buffs every two minutes without substantially overcapping on charges. In a full uptime scenario, the recast timers align as follows:
 
-## Checklist: Putting Your Final Rotation Together
+* **Two minutes**: One use of each under buffs only, otherwise you have to overcap for about ten seconds and it affects subsequent timings.
+* **Four minutes**: Two uses of each under buffs will line up naturally if held.
+* **Six minutes**: One use of each under buffs lines up, but two is possible if you overcap for about 10 seconds. Depending on killtime and pot timing, this could be optimal.
+* **Eight minutes**: Two uses of each will line up naturally under 20 second buffs, but the second use is likely to fall out of 15 second buffs.
+* **Ten minutes:** You will likely overcap around the same time buffs come up (forcing a GCD or two of delay if you want to put two under buffs).
 
-* Can I maintain full GCD uptime, with only a couple of planned Swiftcasts if necessary?
-* Do I know what the common killtime ranges are for the fight I’m optimizing for? E.g. speedruns, parse runs, average PF parties, etc.
-* How many Scorches can I get within the common killtimes?
-* What are my Embolden, Manafication and potion timings? Does my reopener get two melee combos under pots and buffs, ideally catching two Scorches under 20 second buffs? How does it align with other jobs or rotations?
-* For fights with phasing, how many Fleche and Contre Sixte uses can I get per phase?
-* How much potency am I gaining from Engagement/Displacement (or rarely, Corps-a-Corps) optimization, and am I able to do it consistently? How do I communicate this with my tanks and healers to ensure no DPS loss to the party?
-* Can I benefit from any additional Swiftcasts for lining up my other oGCDs at little to no cost to other aspects of my rotation?
-* Are there any other niche optimizations that apply to this specific encounter and killtime?
+Downtime complicates this further. As a general rule of thumb, **if you notice Corps-a-corps and Engagement go from 0 to 1 charge when there’s less than 30 seconds left on Embolden, that means you will be able to guarantee two uses under buffs.**
 
-Once you can address all of the above and replicate it in raids, you’re good to go.
 
-- - -
+![alt_text](/img/jobs/rdm/13.png "image_tooltip")
 
-Written by Argen Yin (Ramuh).
 
-Some comments and stylistic edits by Lana White (Leviathan), Mazz Maryoku (Tonberry) and Laille Ormesaing (Balmung).
+![alt_text](/img/jobs/rdm/14.png "image_tooltip")
+
+Since Embolden doesn’t buff our own oGCDs, be aware that there is no gain to doing this in the rare situation that nobody else has raid buffs, i.e. you’re in a party where the healers are White Mage/Sage and the other DPS are Black Mage/Samurai/Machinist.
+
+### 5. Niche and Highly Situational Optimizations
+
+There are various niche micro-optimizations you can do depending on the situation, which may be updated as more experimentation has taken place. There are no general rules here.
+
+**Capitalizing on recast timers to gain an additional GCD or combo**
+
+While we lost the ability to abuse Enchanted Reprise’s 2.2 second recast timer to gain an extra GCD by the end of a phase, there is potential to apply similar logic to new aspects of Red Mage’s rotation, partially due to the way our new melee combo stacks work.
+
+**Spellspeed adjustments**
+
+When working with very predictable killtimes, it could theoretically be optimal to equip a small amount of additional spellspeed to ensure we end the encounter on a melee combo. This is more viable in Endwalker than it was in past expansions due to our larger Mana pool and reduced risk of overcapping. Small amounts of spell speed can also help us gain a GCD in fights with phasing, as was the case when choosing between 2.48, 2.49 and 2.50 GCDs in the Eden’s Promise raid tier of Shadowbringers.
+
+**Triple Enchanted Zwerchhau**
+
+If at above 45|45 Mana but below 50|50 in the final seconds of an encounter, it is theoretically possible to triple Zwerchhau to get our finishers ready earlier. This is only a gain if the final GCD from doing this is Resolution:
+
+![alt_text](/img/jobs/rdm/15.png "image_tooltip")
+
+**Enchanted Riposte into Double Enchanted Zwerchhau**
+
+Due to Enchanted Zwerchhau’s shorter cooldown timer versus Enchanted Redoublement (1.5 vs 2.2 seconds), it is also theoretically possible to capitalize on the recast time difference (0.7 seconds) to gain an extra GCD at the end of a phase. People who optimized Enchanted Reprise in Shadowbringers may be familiar with this concept. However, the gain is very minor.
+
+![alt_text](/img/jobs/rdm/16.png "image_tooltip")
+
+If the GCD gained from doing so is a melee combo finisher, this would be more significant, but is difficult to plan for.
+
+**Enchanted Reprise**
+
+In Endwalker, Red Mage wants to avoid using Enchanted Reprise more than before due to its higher relative Mana cost – which can set a future normal melee combo back by around three casts – and 2.5 second recast timer. However, since it is considered a ranged weaponskill, it does not break any of our combos. As such, Enchanted Reprise can theoretically find use in niche situations where you want to use Manafication early, but also want to push a combo finisher under buffs. In the example below, observe how Enchanted Reprise after Scorch pushes Resolution into 22% more buffs than was previously available:
+
+* The value from putting Resolution into those buffs is an additional 165 potency. Verthunder/aero III would have been ~83 potency.
+* The gap between Enchanted Reprise and Verthunder/aero III is 50 potency.
+* In this simplified comparison, 50 + 83 = 133, which is still lower than 165.
+
+![alt_text](/img/jobs/rdm/17.png "image_tooltip")
+
+In practice, this is further complicated by variables like Mana cost, order of subsequent GCDs, and the number of 15 second vs 20 second raid buffs available. A better solution would usually exist via good Swiftcast/Acceleration planning. However, getting an additional Resolution under raid buffs is almost always better, so this technique can be something to keep in mind for niche or imperfect scenarios.
+
+### 6. Checklist: Putting Your Fight-Specific Rotation Together
+
+As a part of the review process for your fight-specific rotation, you can ask yourselves these questions:
+
+**“Big picture” timeline planning:**
+
+* Do I have a reasonable estimate of a raid’s killtime and buff timings for my group? 
+* Am I rushing Manafication, aligning it with buffs, or a mixture of both (i.e. align early uses and rush later uses)?
+* What are the ideal potion timings for the killtime I am going for?
+* For any encounter with phasing, am I losing a use of Fleche or Contre Sixte? Do I need to change anything to guarantee I don’t lose a use?
+
+**Execution planning/things to note:** 
+
+* Where in the fight do I need to pool Mana for melee combos or hold Swiftcast and Acceleration to keep full uptime?
+* Am I able to align any double or triple melee combos with buffs and potions without overcapping or drifting oGCDs?
+* Am I able to keep my Dualcast aligned with my oGCDs (primarily Fleche and Contre Sixte) throughout most of the fight, if not all of it?
+* How many Corps-a-corps and Engagements can I put under raid buffs without overcapping?
+* Am I “overcapping” on Swiftcast or Acceleration uses for long periods of time? Can I afford to use them back to back for damage at any point without hurting alignment or movement?
+
+Once you can address the above and reasonably replicate a clean rotation in raids, you can start considering niche optimizations or looking at minor things like adjusting for procs.
+
+### 7. Red Mage Damage Delay Chart
+
+Below is a chart showing the delay between when an action is used and when the damage is actually applied to a boss. This is helpful to note because some abilities, like Scorch, are more likely to ghost when a boss becomes untargetable. However, for the purposes of snapshotting an action under buffs, the delay doesn’t matter as the damage calculation is already done when you press the button (for instant casts) or near the end of your castbar (for hardcasted spells). Please note that due to the slight variance in damage application, these numbers have been rounded up to the second decimal. 
+
+|  **Action**            | **Delay** |
+|------------------------|-----------|
+| Jolt II                | 0.76      |
+| Veraero III            | 0.76      |
+| Verthunder III         | 0.76      |
+| Verstone               | 0.80      |
+| Verfire                | 0.80      |
+| Enchanted Riposte      | 0.63      |
+| Enchanted Zwerchhau    | 0.63      |
+| Enchanted Redoublement | 0.63      |
+| Verholy                | 1.43      |
+| Verflare               | 1.43      |
+| Scorch                 | 1.83      |
+| Resolution             | 1.56      |
+| Enchanted Reprise      | 0.63      |
+| Veraero II             | 0.80      |
+| Verthunder II          | 0.80      |
+| Impact                 | 0.76      |
+| Enchanted Moulinet     | 0.80      |
+| Fleche                 | 1.16      |
+| Contre Sixte           | 1.16      |
+| Corps-a-corps          | 0.63      |
+| Engagement             | 0.58      |
+| Displacement           | 0.76      |
+
+**Inquiries:** If you have more questions after reading the guide (or wish to contribute some information), feel free to ask in #rdm_questions on [The Balance server](https://discord.gg/thebalanceffxiv).
+
+*Majority written and compiled by Argen Yin (Ramuh), with major contributions from Lana White (Leviathan) and general input/review from other members of the Balance’s RDM team.*
