@@ -189,7 +189,7 @@ As such, we can use a potion at 2:00 and 6:30 and it will align with party burst
 
 In other scenarios with shorter killtimes, we would default to doing our first potion in the opener, and the second one during the first available buff window after pots come off cooldown (this is often – but not always – the ~6 minute buff window).
 
-**<span style="text-decoration:underline;">4. Damage oGCD Optimization</span>**
+### 4. Damage oGCD Optimization
 
 **Fleche and Contre Sixte uses per phase**
 
@@ -233,7 +233,7 @@ Downtime complicates this further. As a general rule of thumb, **if you notice C
 
 Since Embolden doesn’t buff our own oGCDs, be aware that there is no gain to doing this in the rare situation that nobody else has raid buffs, i.e. you’re in a party where the healers are White Mage/Sage and the other DPS are Black Mage/Samurai/Machinist.
 
-**<span style="text-decoration:underline;">5. Niche and Highly Situational Optimizations</span>**
+### 5. Niche and Highly Situational Optimizations
 
 There are various niche micro-optimizations you can do depending on the situation, which may be updated as more experimentation has taken place. There are no general rules here.
 
@@ -271,7 +271,7 @@ In Endwalker, Red Mage wants to avoid using Enchanted Reprise more than before d
 
 In practice, this is further complicated by variables like Mana cost, order of subsequent GCDs, and the number of 15 second vs 20 second raid buffs available. A better solution would usually exist via good Swiftcast/Acceleration planning. However, getting an additional Resolution under raid buffs is almost always better, so this technique can be something to keep in mind for niche or imperfect scenarios.
 
-**<span style="text-decoration:underline;">6. Checklist: Putting Your Fight-Specific Rotation Together</span>**
+### 6. Checklist: Putting Your Fight-Specific Rotation Together
 
 As a part of the review process for your fight-specific rotation, you can ask yourselves these questions:
 
@@ -292,7 +292,7 @@ As a part of the review process for your fight-specific rotation, you can ask yo
 
 Once you can address the above and reasonably replicate a clean rotation in raids, you can start considering niche optimizations or looking at minor things like adjusting for procs.
 
-**<span style="text-decoration:underline;">7. Red Mage Damage Delay Chart</span>**
+### 7. Red Mage Damage Delay Chart
 
 Below is a chart showing the delay between when an action is used and when the damage is actually applied to a boss. This is helpful to note because some abilities, like Scorch, are more likely to ghost when a boss becomes untargetable. However, for the purposes of snapshotting an action under buffs, the delay doesn’t matter as the damage calculation is already done when you press the button (for instant casts) or near the end of your castbar (for hardcasted spells). Please note that due to the slight variance in damage application, these numbers have been rounded up to the second decimal. 
 
@@ -321,6 +321,6 @@ Below is a chart showing the delay between when an action is used and when the d
 | Engagement             | 0.58      |
 | Displacement           | 0.76      |
 
-**Enquiries:** If you have more questions after reading the guide (or wish to contribute some information), feel free to ask in #rdm*questions on [The Balance server.](https://discord.gg/thebalanceffxiv)*
+**Enquiries:** If you have more questions after reading the guide (or wish to contribute some information), feel free to ask in #rdm_questions on [The Balance server](https://discord.gg/thebalanceffxiv).
 
 *Majority written and compiled by Argen Yin (Ramuh), with major contributions from Lana White (Leviathan) and general input/review from other members of the Balance’s RDM team.*
