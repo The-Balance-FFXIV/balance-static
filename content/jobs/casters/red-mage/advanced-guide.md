@@ -15,7 +15,7 @@ changelog:
 ---
 # 6.X Red Mage Advanced Optimization Guide
 
-This guide will cover some Endwalker Red Mage optimization concepts and principles that aren’t fully covered in the basic job guide. The intended audience include:
+This guide will cover some Endwalker Red Mage optimization concepts and principles that aren’t fully covered in the basic job guide. The intended audience includes:
 
 * Red Mage players who have the fundamentals mostly down and are familiar with all the concepts in the basic job guide (<https://bit.ly/3JsIdMZ>), but are trying to improve.
 * High performing Red Mage players who get good logs through good GCD uptime, intuitive sense and repetition but wish to augment their theoretical understanding.
@@ -27,7 +27,7 @@ Some of the content here will cover concepts that are obvious to people who have
 
 Endwalker changes have provided Red Mage more freedom with its rotation and movements. While revamped Manafication, nerfed Displacement and slower Enchanted Reprise have removed some unique and strict forms of optimization from Shadowbringers, we gained more freedom and decision-making complexity instead. 
 
-In Endwalker, most of our optimization follows more “standard” FFXIV concepts like Managing our resources to burst under raid buffs with GCD-level precision, planning oGCDs, and adjusting our rotation for certain killtimes. However, the complexity of Endwalker Red Mage comes in how all of our abilities can interact and throw things off, e.g. doing something that is comfortable for movement may cause us to misalign our oGCDs, or perfectly aligning our oGCDs may cause us to have a slightly weaker burst window under buffs. The difficulty of “perfecting” Red Mage is lining everything up perfectly without affecting anything else. To do this, you may need to continuously track multiple cooldown timers to the second and be very strict in your gameplay. 
+In Endwalker, most of our optimization follows more “standard” FFXIV concepts like managing our resources to burst under raid buffs with GCD-level precision, planning oGCDs, and adjusting our rotation for certain killtimes. However, the complexity of Endwalker Red Mage comes in how all of our abilities can interact and throw things off, e.g. doing something that is comfortable for movement may cause us to misalign our oGCDs, or perfectly aligning our oGCDs may cause us to have a slightly weaker burst window under buffs. The difficulty of “perfecting” Red Mage is lining everything up perfectly without affecting anything else. To do this, you may need to continuously track multiple cooldown timers to the second and be very strict in your gameplay. 
 
 Note that very advanced and niche optimizations have a chance of being discovered later through the expansion, so it’s likely that this guide will be updated as more information becomes available and more optimizations are tested and verified.
 
@@ -84,7 +84,7 @@ As covered in the basic guide, using one of these abilities can cause you to dri
 **Swiftcast/Acceleration usage and flexibility with procs**
 
  \
-Using Swiftcast and Acceleration for oGCD alignment is an important concept explained in the basic guide along with the rule of thumb, “one Swiftcast/Acceleration per melee combo”. However, many people misunderstand this rule by thinking that you must use a Swiftcast/Acceleration immediately after your melee combo while disregarding procs.
+Using Swiftcast and Acceleration for oGCD alignment is an important concept explained in the basic guide along with the rule of thumb, "one Swiftcast/Acceleration per melee combo." However, many people misunderstand this rule by thinking that you must use a Swiftcast/Acceleration immediately after your melee combo while disregarding procs.
 
 In reality, you can use Swiftcast and Acceleration for both oGCD alignment and procs. You only need to use an instant cast to shift your Dualcast windows sometime before your next oGCD comes off cooldown, which often does not happen immediately after a melee combo. If you finish a melee combo and your Fleche still has some time left on its cooldown, you do not have to rush your Swiftcast or Acceleration if you already have both procs available.
 
@@ -124,21 +124,21 @@ With how hard it is to overcap our Mana now, it has become viable to build up Ma
 
 In theory, the ideal 20 second buff window will at least have this set of GCDs:
 
-In practice, however, it is hard to achieve this for every window without delaying Manafication at least once if buffs are used strictly on cooldown (mainly for the first 2-minute window). It is occasionally possible to also catch an additional Enchanted Redoublement at the start, but it is not something that is realistic to align consistently.
+![](/img/jobs/rdm/4.png)
 
-If delaying Manafication for the first 2-minute Embolden, you start your melee combo **five seconds** before the first Embolden comes back up, and double weave Manafication and Embolden together. This means your Manafication will catch the three finishers under buff, and the subsequent melee hits.
+In practice, however, it is hard to achieve this for every window without delaying Manafication at least once if buffs are used strictly on cooldown (mainly for the first two-minute window). It is occasionally possible to also catch an additional Enchanted Redoublement at the start, but it is not something that is realistic to align consistently.
 
-If using Manafication strictly on cooldown, it is almost impossible to “guarantee” this for the first 2-minute buff window at 2.48 GCD, as we do not generate enough Mana to do so without excellent proc luck. We may need to use one more GCD between combos (ideally a Swiftcast or Acceleration Veraero/Verthunder III), which limits us to one Resolution under Embolden there.
+If delaying Manafication for the first two-minute Embolden, you start your melee combo **five seconds** before the first Embolden comes back up, and double weave Manafication and Embolden together. This means your Manafication will catch the three finishers under buff, and the subsequent melee hits.
+
+If using Manafication strictly on cooldown, it is almost impossible to “guarantee” this for the first two-minute buff window at 2.48 GCD, as we do not generate enough Mana to do so without excellent proc luck. We may need to use one more GCD between combos (ideally a Swiftcast or Acceleration Veraero/Verthunder III), which limits us to one Resolution under Embolden there.
 
 **Triple melee combos under 30 second pot (and potentially Searing Light)**
 
 While triple melee combos are only a minor gain over doubles, it is theoretically still optimal if you can line one up like below for your potion window:
 
-![](/img/jobs/rdm/4.png)
-
 ![alt_text](/img/jobs/rdm/5.png "image_tooltip")
 
-To accomplish this, you can **start your first combo ~17-18 seconds before Embolden comes back off cooldown**, and use your tincture before the first Scorch. If you have a Summoner in your party (the only job with a 30 second raid buff), it is ideal to align our potion window with Searing Light if we can at no cost.
+To accomplish this, you can **start your first combo ~17-18 seconds before Embolden comes back off cooldown**, and use your Tincture before the first Scorch. If you have a Summoner in your party (the only job with a 30 second raid buff), it is ideal to align our potion window with Searing Light if we can at no cost.
 
 **Manafication on CD vs aligned with 120s buffs**
 
@@ -163,7 +163,7 @@ Planning cooldowns on a spreadsheet like this is fairly simple. **The basic form
 
 **De-syncing Manafication, normal combos and buff alignment**
 
-A common misconception among newer players is that misaligning Manafication with Embolden means we do not use melee combo under buffs. This is not the case. We can simply build up Mana above 50|50 and spend it when buffs come, as long as we don’t overcap by going beyond 100|100. The 5% self-buff from Manafication is decent, but only amounts to ~150 potency when applied to all 6 melee combo hits.
+A common misconception among newer players is that misaligning Manafication with Embolden means we do not use melee combo under buffs. This is not the case. We can simply build up Mana above 50|50 and spend it when buffs come, as long as we don’t overcap by going beyond 100|100. The 5% self-buff from Manafication is decent, but only amounts to ~150 potency when applied to all six melee combo hits.
 
 In practice, outside of our buff windows, we accomplish this by **using Manafication after Enchanted Redoublement, using our three finishers, then going back to Dualcast after.** What this does is keep our Manafication cooldown running early, while “carrying over” our Mana prior to using Manafication. 
 
@@ -173,23 +173,23 @@ This allows us to continuously build up enough Mana to do two normal melee combo
 
 This also means Manafication will buff three normal spellcasting GCDs after the finishers. In terms of potency, three finishers + three normal casts is marginally higher than our melee hits (~1-8 potency difference for single target spells, depending which ones casted). However, three spells also take longer to use than our melee hits. Due to Manafication’s 15 second buff timer, you should **either late weave Manafication here, or have your third spell be an instant cast** to avoid the 5% damage buff from dropping off on our last cast.
 
-**Standard 0-6 potions vs 2-minute potions**
+**Standard 0-6 potions vs two-minute potions**
 
-In most scenarios, our standard potion windows are the opener and the 6-minute buff window. When using Manafication on cooldown, we can use Manafication after three melee hits at around 5:45, do the three finishers, then go back to Dualcasting to carry over the Mana to 6:00, where we then do two normal melee combos under pots and buffs (as covered above).
+In most scenarios, our standard potion windows are the opener and the six-minute buff window. When using Manafication on cooldown, we can use Manafication after three melee hits at around 5:45, do the three finishers, then go back to Dualcasting to carry over the Mana to 6:00, where we then do two normal melee combos under pots and buffs (as covered above).
 
-However, due to our more flexible Mana resource pool, it can be optimal to do a 2-minute potion instead of using one in the opener, because we will be able to put at least two melee combos under buffs and pots each time. This is only preferred within certain killtime ranges:
+However, due to our more flexible Mana resource pool, it can be optimal to do a two-minute potion instead of using one in the opener, because we will be able to put at least two melee combos under buffs and pots each time. This is only preferred within certain killtime ranges:
 
 * In longer fights where you can benefit from three potions (e.g. ~9:15 killtime or longer), triple potion will be better than only two. 
 * We also want to be sure that our second potion aligns with raid buffs. 
 * For a full uptime fight with no buff holds, you would want a killtime range between 8:30 and around 9:30, with a pot at around 2:00 and 8:00.
 
-Note, however, that mechanics can make our second pot align with buffs earlier. For the first tier in Endwalker, this conveniently applies to three separate raids: Zodiark EX, P2S, and P3S. Each of these raids create a forced delay for our 4-minute buffs due to “downtime” mechanics: Astral Eclipse, Kampeos Harma (colloquially “Limit Cut”), and the entire P3S adds phase respectively. 
+Note, however, that mechanics can make our second pot align with buffs earlier. For the first tier in Endwalker, this conveniently applies to three separate raids: Zodiark EX, P2S, and P3S. Each of these raids create a forced delay for our four-minute buffs due to “downtime” mechanics: Astral Eclipse, Kampeos Harma (colloquially “Limit Cut”), and the entire P3S adds phase respectively. 
 
 As such, we can use a potion at 2:00 and 6:30 and it will align with party burst and raid buffs.
 
 ![alt_text](/img/jobs/rdm/9.png "image_tooltip")
 
-In other scenarios with shorter killtimes, we would default to doing our first potion in the opener, and the second one during the first available buff window after pots come off cooldown (this is often – but not always – the ~6 minute buff window).
+In other scenarios with shorter killtimes, we would default to doing our first potion in the opener, and the second one during the first available buff window after pots come off cooldown (this is often – but not always – the six minute buff window).
 
 ### 4. Damage oGCD Optimization
 
@@ -219,11 +219,11 @@ Note that this can also occur with Contre Sixte, as was the case in Shadowbringe
 
 Corps-a-corps (130 potency) and Engagement (180 potency) have two charges, and so can be a gain for the party if we delay some uses to occur under buffs. However, due to the 35 second timer, it isn’t always possible to put two uses under buffs every two minutes without substantially overcapping on charges. In a full uptime scenario, the recast timers align as follows:
 
-* **2 minutes**: One use of each under buffs only, otherwise you have to overcap for about ten seconds and it affects subsequent timings.
-* **4 minutes**: Two uses of each under buffs will line up naturally if held.
-* **6 minutes**: One use of each under buffs lines up, but two is possible if you overcap for about 10 seconds. Depending on killtime and pot timing, this could be optimal.
-* **8 minutes**: Two uses of each will line up naturally under 20 second buffs, but the second use is likely to fall out of 15 second buffs.
-* **10 minutes:** You will likely overcap around the same time buffs come up (forcing a GCD or two of delay if you want to put two under buffs).
+* **Two minutes**: One use of each under buffs only, otherwise you have to overcap for about ten seconds and it affects subsequent timings.
+* **Four minutes**: Two uses of each under buffs will line up naturally if held.
+* **Six minutes**: One use of each under buffs lines up, but two is possible if you overcap for about 10 seconds. Depending on killtime and pot timing, this could be optimal.
+* **Eight minutes**: Two uses of each will line up naturally under 20 second buffs, but the second use is likely to fall out of 15 second buffs.
+* **Ten minutes:** You will likely overcap around the same time buffs come up (forcing a GCD or two of delay if you want to put two under buffs).
 
 Downtime complicates this further. As a general rule of thumb, **if you notice Corps-a-corps and Engagement go from 0 to 1 charge when there’s less than 30 seconds left on Embolden, that means you will be able to guarantee two uses under buffs.**
 
@@ -243,17 +243,17 @@ There are various niche micro-optimizations you can do depending on the situatio
 
 While we lost the ability to abuse Enchanted Reprise’s 2.2 second recast timer to gain an extra GCD by the end of a phase, there is potential to apply similar logic to new aspects of Red Mage’s rotation, partially due to the way our new melee combo stacks work.
 
-<span style="text-decoration:underline;">Spellspeed adjustments</span>
+**Spellspeed adjustments**
 
 When working with very predictable killtimes, it could theoretically be optimal to equip a small amount of additional spellspeed to ensure we end the encounter on a melee combo. This is more viable in Endwalker than it was in past expansions due to our larger Mana pool and reduced risk of overcapping. Small amounts of spell speed can also help us gain a GCD in fights with phasing, as was the case when choosing between 2.48, 2.49 and 2.50 GCDs in the Eden’s Promise raid tier of Shadowbringers.
 
-<span style="text-decoration:underline;">Triple Enchanted Zwerchhau</span>
+**Triple Enchanted Zwerchhau**
 
 If at above 45|45 Mana but below 50|50 in the final seconds of an encounter, it is theoretically possible to triple Zwerchhau to get our finishers ready earlier. This is only a gain if the final GCD from doing this is Resolution:
 
 ![alt_text](/img/jobs/rdm/15.png "image_tooltip")
 
-<span style="text-decoration:underline;">Enchanted Riposte into Double Enchanted Zwerchhau</span>
+**Enchanted Riposte into Double Enchanted Zwerchhau**
 
 Due to Enchanted Zwerchhau’s shorter cooldown timer versus Enchanted Redoublement (1.5 vs 2.2 seconds), it is also theoretically possible to capitalize on the recast time difference (0.7 seconds) to gain an extra GCD at the end of a phase. People who optimized Enchanted Reprise in Shadowbringers may be familiar with this concept. However, the gain is very minor.
 
@@ -263,7 +263,7 @@ If the GCD gained from doing so is a melee combo finisher, this would be more si
 
 **Enchanted Reprise**
 
-In Endwalker, Red Mage wants to avoid using Enchanted Reprise more than before due to its higher relative Mana cost – which can set a future normal melee combo back by ~3 casts – and 2.5 second recast timer. However, since it is considered a ranged weaponskill, it does not break any of our combos. As such, Enchanted Reprise can theoretically find use in niche situations where you want to use Manafication early, but also want to push a combo finisher under buffs. In the example below, observe how Enchanted Reprise after Scorch pushes Resolution into 22% more buffs than was previously available:
+In Endwalker, Red Mage wants to avoid using Enchanted Reprise more than before due to its higher relative Mana cost – which can set a future normal melee combo back by around three casts – and 2.5 second recast timer. However, since it is considered a ranged weaponskill, it does not break any of our combos. As such, Enchanted Reprise can theoretically find use in niche situations where you want to use Manafication early, but also want to push a combo finisher under buffs. In the example below, observe how Enchanted Reprise after Scorch pushes Resolution into 22% more buffs than was previously available:
 
 * The value from putting Resolution into those buffs is an additional 165 potency. Verthunder/aero III would have been ~83 potency.
 * The gap between Enchanted Reprise and Verthunder/aero III is 50 potency.
@@ -323,6 +323,6 @@ Below is a chart showing the delay between when an action is used and when the d
 | Engagement             | 0.58      |
 | Displacement           | 0.76      |
 
-**Enquiries:** If you have more questions after reading the guide (or wish to contribute some information), feel free to ask in #rdm_questions on [The Balance server](https://discord.gg/thebalanceffxiv).
+**Inquiries:** If you have more questions after reading the guide (or wish to contribute some information), feel free to ask in #rdm_questions on [The Balance server](https://discord.gg/thebalanceffxiv).
 
 *Majority written and compiled by Argen Yin (Ramuh), with major contributions from Lana White (Leviathan) and general input/review from other members of the Balance’s RDM team.*
