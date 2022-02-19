@@ -294,146 +294,30 @@ Once you can address the above and reasonably replicate a clean rotation in raid
 
 Below is a chart showing the delay between when an action is used and when the damage is actually applied to a boss. This is helpful to note because some abilities, like Scorch, are more likely to ghost when a boss becomes untargetable. However, for the purposes of snapshotting an action under buffs, the delay doesn’t matter as the damage calculation is already done when you press the button (for instant casts) or near the end of your castbar (for hardcasted spells). Please note that due to the slight variance in damage application, these numbers have been rounded up to the second decimal. 
 
-<table>
-  <tr>
-   <td><strong>Action</strong>
-   </td>
-   <td><strong>Delay</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Jolt II
-   </td>
-   <td>0.76
-   </td>
-  </tr>
-  <tr>
-   <td>Veraero III
-   </td>
-   <td>0.76
-   </td>
-  </tr>
-  <tr>
-   <td>Verthunder III
-   </td>
-   <td>0.76
-   </td>
-  </tr>
-  <tr>
-   <td>Verstone
-   </td>
-   <td>0.80
-   </td>
-  </tr>
-  <tr>
-   <td>Verfire
-   </td>
-   <td>0.80
-   </td>
-  </tr>
-  <tr>
-   <td>Enchanted Riposte
-   </td>
-   <td>0.63
-   </td>
-  </tr>
-  <tr>
-   <td>Enchanted Zwerchhau
-   </td>
-   <td>0.63
-   </td>
-  </tr>
-  <tr>
-   <td>Enchanted Redoublement
-   </td>
-   <td>0.63
-   </td>
-  </tr>
-  <tr>
-   <td>Verholy
-   </td>
-   <td>1.43
-   </td>
-  </tr>
-  <tr>
-   <td>Verflare
-   </td>
-   <td>1.43
-   </td>
-  </tr>
-  <tr>
-   <td>Scorch
-   </td>
-   <td>1.83
-   </td>
-  </tr>
-  <tr>
-   <td>Resolution
-   </td>
-   <td>1.56
-   </td>
-  </tr>
-  <tr>
-   <td>Enchanted Reprise
-   </td>
-   <td>0.63
-   </td>
-  </tr>
-  <tr>
-   <td>Veraero II
-   </td>
-   <td>0.80
-   </td>
-  </tr>
-  <tr>
-   <td>Verthunder II
-   </td>
-   <td>0.80
-   </td>
-  </tr>
-  <tr>
-   <td>Impact
-   </td>
-   <td>0.76
-   </td>
-  </tr>
-  <tr>
-   <td>Enchanted Moulinet
-   </td>
-   <td>0.80
-   </td>
-  </tr>
-  <tr>
-   <td>Fleche
-   </td>
-   <td>1.16
-   </td>
-  </tr>
-  <tr>
-   <td>Contre Sixte
-   </td>
-   <td>1.16
-   </td>
-  </tr>
-  <tr>
-   <td>Corps-a-corps
-   </td>
-   <td>0.63
-   </td>
-  </tr>
-  <tr>
-   <td>Engagement
-   </td>
-   <td>0.58
-   </td>
-  </tr>
-  <tr>
-   <td>Displacement
-   </td>
-   <td>0.76
-   </td>
-  </tr>
-</table>
+|  **Action**            | **Delay** |
+|------------------------|-----------|
+| Jolt II                | 0.76      |
+| Veraero III            | 0.76      |
+| Verthunder III         | 0.76      |
+| Verstone               | 0.80      |
+| Verfire                | 0.80      |
+| Enchanted Riposte      | 0.63      |
+| Enchanted Zwerchhau    | 0.63      |
+| Enchanted Redoublement | 0.63      |
+| Verholy                | 1.43      |
+| Verflare               | 1.43      |
+| Scorch                 | 1.83      |
+| Resolution             | 1.56      |
+| Enchanted Reprise      | 0.63      |
+| Veraero II             | 0.80      |
+| Verthunder II          | 0.80      |
+| Impact                 | 0.76      |
+| Enchanted Moulinet     | 0.80      |
+| Fleche                 | 1.16      |
+| Contre Sixte           | 1.16      |
+| Corps-a-corps          | 0.63      |
+| Engagement             | 0.58      |
+| Displacement           | 0.76      |
 
 **Enquiries:** If you have more questions after reading the guide (or wish to contribute some information), feel free to ask in #rdm*questions on [The Balance server.](https://discord.gg/thebalanceffxiv)* _
 
