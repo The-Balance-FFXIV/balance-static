@@ -322,7 +322,3 @@ Below is a chart showing the delay between when an action is used and when the d
 | Corps-a-corps          | 0.63      |
 | Engagement             | 0.58      |
 | Displacement           | 0.76      |
-
-**Inquiries:** If you have more questions after reading the guide (or wish to contribute some information), feel free to ask in #rdm_questions on [The Balance server](https://discord.gg/thebalanceffxiv).
-
-*Majority written and compiled by Argen Yin (Ramuh), with major contributions from Lana White (Leviathan) and general input/review from other members of the Balance’s RDM team.*
