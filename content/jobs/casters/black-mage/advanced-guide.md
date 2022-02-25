@@ -4,7 +4,7 @@ card_header_image: /img/jobs/blm/advanced.png
 authors:
   - reina-kousaka-1
 patch: "6.08"
-lastmod: 2022-02-25T01:09:48.787Z
+lastmod: 2022-02-25T05:10:25.388Z
 changelog:
   - date: 2021-10-26T01:57:17.611Z
     message: Added page
