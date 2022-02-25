@@ -4,7 +4,7 @@ card_header_image: /img/jobs/blm/advanced.png
 authors:
   - reina-kousaka-1
 patch: "6.08"
-lastmod: 2022-02-18T04:51:21.510Z
+lastmod: 2022-02-25T05:10:25.388Z
 changelog:
   - date: 2021-10-26T01:57:17.611Z
     message: Added page
@@ -57,7 +57,7 @@ Our MP regens for 600 per tick out of combat and 200 per tick during combat, wit
 
 Both MP and Lucid ticks can be tracked via triggers. You can download a [MP tick trigger here](https://github.com/marconsou/mp-tick-bar), with other triggers available elsewhere. Having a tick trigger makes tracking MP ticks considerably easier and is recommended for anyone serious about high end BLM optimizations. In addition, some optimizations listed in later sections are only possible with MP tick triggers.
 
-**Early MP ticks**
+**Early and correct MP ticks**
 
 Understanding how MP ticks interact with our rotation will become increasingly important as we dive deeper into non-standard lines. In many cases, if we get the right MP tick, often in the form of an early tick, we can conserve one filler resource. **Such filler skips will prove to be crucial in reducing the cost of non-standard lines.** For example, in the AF1 F3P Standard line above, if an MP tick happens right after we enter UI, we know that the next tick will happen sometime during or after the B4 cast, granting us full MP. With this, we can safely skip one filler. 
 
@@ -437,27 +437,27 @@ Double Transpose AF1 lines specifically refers to a Double Transpose line that a
 
 ### 4xF4 Double Transpose Paradox with B4 \[N69]
 
-![](https://lh4.googleusercontent.com/T4n6s032lBcETrX6R2fY_xoK_WlRw3bpAv6Zohb2AP3Wf1CCT30qAV0Qi22LT8LRDBD8jlx67-vbNnHHzTvwHr50nm9MLbU97HGgColeUS7gvratJZ2-wKn1cC8Xfx19Gy5S9p7h)
+![](https://lh4.googleusercontent.com/jI48oAtg8E-madSXL0b0JqsinH9D4DfjJOxXfqBNMwl3VEVaRAdhUHUkmDPHKpU03tV5yPe6vP_UxWeG1BLtjygW3irQio8x9I_ESxQN3APNZgpF44FQ3U6rAOBtSFKSUC39ytEp)
 
 B4 can be used in place of a filler while also providing a longer fire phase. Three UI1 ticks are required. This line is surprisingly potent as it shares the principles of Double Paradox but skips the weak B3 cast. This line yields a 3.4% gain and provides a high F3P proc rate at the same time.
 
 **4xF4 Double Transpose Paradox with B4, AF2 F4 variation \[N69.69]**
 
-![](https://lh5.googleusercontent.com/wHIhNeDwrPPGxWlYU2t9PZsQw994kd4naVBX031ioAd8RfRGdZFm5YEzVTnrqjE9haCTaM8vvk1dpbPkCJCOyCIiZqDuj9OkLo9V4YHbj2MI5YUHCcJQB1ywFRLUTsl6ve75dpV1)
+![](https://lh3.googleusercontent.com/Z_GrC2Apxb5IFtydtOz91MVQ12KMZDuDK7hcoDyywj_hmRJrx0xhZKh2nL9eRQj8uS7cNRogfMEu7smgiIUCZkIdTGyv6jfkxY5DXkc-VMAMOWqc7-4i30OTTOeN5_tvOBgwp5Lr)
 
-9600 MP is required upon returning to AF. Uses F1’s refresh to enable one more F4 under AF2. This line is about 0.2% lower in PPS compared to N69, but one GCD longer. 
+9600 MP is required upon returning to AF. Uses F1’s refresh to enable 1 more F4 under AF2. This line is about 0.2% lower in PPS compared to N69, but 1 GCD longer.
 
 **3xF4 Double Transpose Paradox with B4 \[N70]**
 
-![](https://lh5.googleusercontent.com/o6_nD-7TlspkGB9F3ifUTfd2ka-wT156Otf3ITWq2tp21Ow3dVqd019GlXXgw4E2Wnr3kxt4GyxrHFd7MRVyesmyUovoJZpo4pSZRoPRVyVdz9HrZjFzzLIuadvWBjWM3-HlP-vv)
+![](https://lh3.googleusercontent.com/bx60C9oqUmGG8M1-V5ZqpSXn1gIK04ocztIP3fAIPaODNcxrQDmqiOJLjLuUraKNirXJI42nnj46kMrisqeh90s6FaGd6Aa9r9SxwLxNaPy453BQMtwwzTkqCgEkd6eUpf7XthKp)
 
-Same line as N69 but with one less F4. Three UI1 ticks or two UI1 ticks and two Lucid ticks are needed. Compared to the 4xF4 variant, this line has a much higher chance of skipping a filler. The fire phase also offers an extra cast. ~2.0% stronger than Standard. 
+Same line as N69 but with one less F4. 3 UI1 ticks or 2 UI1 ticks and 2 Lucid ticks are needed. Compared to the 4xF4 variant, this line has a much higher chance of skipping a filler. The fire phase also offers an extra filler cast. ~2.0% stronger than Standard.
 
 **5xF4 Double Transpose Paradox with B4 \[N71]**
 
-![](https://lh3.googleusercontent.com/kKLVTRVDT_VUze3QDccYccDCob-i1Wbu_7vKOxUmOZnWbXMQPQbzXN-vwmXb23Exvx2Hv_U6AOleKrolDx0KiUMgXtlpXT1ZrFElFJe2WxwphmcpD-MpkoEytnO7FkrAdCE2q8iB)
+![](https://lh3.googleusercontent.com/xVyVq-BmE1m-xIwp6qdWMbrvseDG0pPWniGKxDSXNeWTkFgiT3eQROLVP8BhlEVgE_N09A-StIblrED3a45udcVxbP3DXLbOYv1iW4aKozILG_f1toqymh1XKAJGsKJ3wxr7EJu1)
 
-Another stronger variant of the line, enabled by Ley Lines. ~4.4% gain over standard. At least 9600 MP is required upon entering AF. 
+Another stronger variant of the line, enabled by Ley Lines. ~4.4% gain over standard. At least 9600 MP is required upon entering AF.
 
 ### 4xF4 Double Transpose F3P with F1 \[N116]
 
@@ -571,7 +571,7 @@ Example: choosing a different line over 3xF4 Double Transpose due to its tighter
 
 # Advanced
 
-**Certain section requires the [MP tick trigger.](https://docs.google.com/document/d/1vsI2r4064VHJ8WuhItXB7ilbdjEJ26GphZSsjWiyDDU/) **
+**Certain section requires the [MP tick trigger.](https://docs.google.com/document/d/1vsI2r4064VHJ8WuhItXB7ilbdjEJ26GphZSsjWiyDDU/)** 
 
 ## Opener Sequence
 
@@ -783,11 +783,13 @@ About 1.8% less than standard but is able to produce a F3P. The Paradox can be s
 
 Requires Ley Lines or Triplecast at high SpS. Essentially the same in PPS as standard.
 
-#  Appendix
+# Appendix
 
 ## Spellspeed Thresholds 
 
 The table below shows minimum spell speeds at which each sequence is possible. This table can also be found in the [Lines Comparison sheet.](https://docs.google.com/spreadsheets/d/1K57e7zFoCuLDLX2kbCAlRBrJO6LS42ifz7e5DQEPn8E/edit#gid=1999363100) The values are tested at \~100 FPS and \~70 ping, out of instance. This table is meant to serve as a rough reference only and you should test specific sequences for yourself. Your results may vary based on latency and a number of other factors. In addition, for simplicity, SpS are in base 2.5 seconds cast, which could have differing cast times for other base spellspeeds. For example, a 2.46 seconds cast in 2.5 seconds base could mean either a 2.76 seconds cast or a 2.75 seconds cast in base 2.8 seconds. Lastly, you should aim for more spellspeed than what is listed for leniency and other factors.
+
+![](https://lh5.googleusercontent.com/aB4O1XBWMGJsCkjyBvnc7OY8hL3j2m8E19Mw1B7Ii5HUrSdi3GPgsqfpyKPXIZV-zEhi1QigIekfLV3VzHdzhZ067dnRfZ6SCI7qaMfuror1IrQrQCgCIB8QLQ_splZPnJt7YYOH)
 
 ## Acknowledgements
 
