@@ -184,7 +184,7 @@ Just don’t get hit by two Cataracts.
 
 
 
-
+![Shar's Warrior imagery](https://cdn.discordapp.com/attachments/937834268950925433/947158285683937330/unknown.png)
 
 ## Wanted: Party Buffs
 
