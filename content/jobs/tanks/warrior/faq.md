@@ -56,6 +56,17 @@ qna:
 
       Warrior loses more with DH melds, than other tanks lose with Det
       melds."
+  - question: Food? Potions?
+    answer: "These can be found in the BIS sets, but here's a quick summary.
+
+
+      As of patch 6.08: \ 
+
+      Pumpkin Potage HQ (if running a slow BIS set)  \r
+
+      Pumpkin Ratatouille HQ (if running the 2.40 GCD set)  \r
+
+      Grade 6 Tincture of Strength HQ  "
 authors:
   - Balance-WAR-Staff
 ---
