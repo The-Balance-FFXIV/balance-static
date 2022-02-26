@@ -4,7 +4,7 @@ authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
 patch: "6.08"
-lastmod: 2022-01-31T07:37:24.161Z
+lastmod: 2022-02-26T22:14:02.458Z
 changelog:
   - date: 2022-01-31T07:37:24.695Z
     message: Updated for Endwalker
@@ -12,6 +12,9 @@ changelog:
     message: Added IC IC IR and -29s IR into Rend
 ---
 # Warrior Openers and Rotation
+
+Warriors prepare their burst while waiting for the party buffs to appear.  
+After the buffs are up, the skills are used more or less in order of importance, as to gain potential re-uses towards the end of the fight.
 
 ## Opener Optimization
 
