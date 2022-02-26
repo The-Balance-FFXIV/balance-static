@@ -41,99 +41,136 @@ _Abbr, Skill name (Special mentions)_
 
 ### GCDs (Global-Cooldowns)
 
+
+
 **Single-target Combo pieces**:
 
-		HS, Heavy Swing
-		Maim
-		Eye/Path, Storm’s Eye / Storm’s Path
+* HS, Heavy Swing (combo 1)
+* Maim (combo 2)
+* Eye/Path, Storm’s Eye / Storm’s Path (combo 3)
+
+
+
+
 
 **Multi-target Combo pieces**:
 
-		  
-		OP, Overpower  
-		MT, Mythril Tempest  
+
+
+* OP, Overpower 
+* MT, Mythril Tempest 
+
+
 
 **Single-target Gauge Spenders**:
 
-		  
-		IB, Inner Beast (Lv35)  
-		FC, Fell Cleave (Lv54, trait upgrades Inner Beast)  
-		IC, Inner Chaos (Lv80, Infuriate unlocks Inner Chaos)  
-		These are all on a single button.  
+* IB, Inner Beast (Lv35) 
+* FC, Fell Cleave (Lv54, trait upgrades Inner Beast) 
+* IC, Inner Chaos (Lv80, Infuriate unlocks Inner Chaos) 
+* These are all on a single button. 
+
+
+
+
 
 **Multi-target Gauge Spenders**:
 
-		  
-		Steel Cyclone (Lv50)  
-		Decimate (Lv60, trait upgrades Steel Cyclone)  
-		Chaotic Cyclone (Lv72, Infuriate unlocks Chaotic Cyclone)  
-		These are all on a single button.  
+
+
+* Steel Cyclone (Lv50) 
+* Decimate (Lv60, trait upgrades Steel Cyclone) 
+* Chaotic Cyclone (Lv72, Infuriate unlocks Chaotic Cyclone) 
+* These are all on a single button. 
+
+
+
+
 
 **Special mention**:
 
-		
-		Rend, Primal Rend (Lv90)  
-		Has an animation lock, cannot be double-weaved with.  
+* Rend, Primal Rend (Lv90) 
+* Has an animation lock, cannot be double-weaved with. 
+
+
 
 
 ### oGCDs (Off-Global-Cooldowns)  
 
-
-
 **Single-target oGCDs**:
 
-		  
-		Uph, Upheaval (Lv64)  
-		Ons, Onslaught (Lv62)  
+
+* Uph, Upheaval (Lv64)  
+* Ons, Onslaught (Lv62)  
+
+
 
 
 
 **Multi-target oGCDs**:
 
-		  
-		Orogeny (Lv86)  
+
+* Orogeny (Lv86)
+  
 
 
 
 
-### Damage Buffs  
+**Damage Buffs**   
 
-		Zerk, Berserk (Lv6)  
-		IR, Inner Release (Lv70, trait upgrades Berserk)  
+* Zerk, Berserk (Lv6)  
+* IR, Inner Release (Lv70, trait upgrades Berserk)  
+
+
 
 
 
 
 ### Defensive Cooldowns  
 
+
+
 **Warrior-specific**  
 
-		Thrill, Thrill of Battle (Lv30)
-		Veng, Vengeance (Lv38)
-		Holm, Holmgang (Lv42)
-		RI, Raw Intuition (Lv56)
-		SIO, Shake It Off (Lv68)
-		NF, Nascent Flash (Lv76)
-		BW, Bloodwhetting (Lv82, trait upgrades Raw Intuition)
+* Thrill, Thrill of Battle (Lv30)
+* Veng, Vengeance (Lv38)
+* Holm, Holmgang (Lv42)
+* RI, Raw Intuition (Lv56)
+* SIO, Shake It Off (Lv68)
+* NF, Nascent Flash (Lv76)
+* BW, Bloodwhetting (Lv82, trait upgrades Raw Intuition)  
+
+
+
+
 
 
 ### Role-specific Actions
 
+
+
 **Mitigation**:
 
-		Ramp, Rampart (Lv8)
-		Reprisal (Lv22)
-		Arm’s Length (Lv32)
+* Ramp, Rampart (Lv8)
+* Reprisal (Lv22)
+* Arm’s Length (Lv32)
+
+
+
+
 
 **Interruptions**:
 
-		Low Blow (Lv12)
-		Interject (Lv18)
+* Low Blow (Lv12)
+* Interject (Lv18)
+
+
+
+
 
 **Aggro Management**:
 
-		Provoke (Lv15)
-		Shirk (Lv48)
+* Provoke (Lv15)
+* Shirk (Lv48)
 
 
 
@@ -179,24 +216,26 @@ There's nothing special about this. This is your usual opener.
 
 The order of actions is:
 
-		Tomahawk +Infuriate
-		Heavy Swing
-		Maim +Potion
-		Storm’s Eye
-		Inner Chaos +Upheaval +Inner Release
-		Primal Rend +Onslaught
-		Fell Cleave +Onslaught
-		Fell Cleave +Onslaught
-		Fell Cleave +Infuriate
-		Inner Chaos
-		Heavy Swing
-		Maim
-		Storm’s Path
-		Fell Cleave +Infuriate
-		Inner Chaos
-		Heavy Swing
-		Maim +Upheaval
-		Storm’s Eye
+* Tomahawk +Infuriate
+* Heavy Swing
+* Maim +Potion
+* Storm’s Eye
+* Inner Chaos +Upheaval +Inner Release
+* Primal Rend +Onslaught
+* Fell Cleave +Onslaught
+* Fell Cleave +Onslaught
+* Fell Cleave +Infuriate
+* Inner Chaos
+* Heavy Swing
+* Maim
+* Storm’s Path
+* Fell Cleave +Infuriate
+* Inner Chaos
+* Heavy Swing
+* Maim +Upheaval
+* Storm’s Eye
+
+
 
 
 
@@ -212,24 +251,24 @@ Nothing special apart from the slight IR + Rend delay.
 
 The order of actions is:
 
-		Tomahawk +Infuriate
-		Heavy Swing
-		Maim +Potion
-		Storm’s Eye
-		Inner Chaos +Upheaval +Infuriate
-		Inner Chaos +Inner Release +Onslaught
-		Primal Rend +Onslaught
-		Fell Cleave +Onslaught
-		Fell Cleave
-		Fell Cleave
-		Heavy Swing
-		Maim
-		Storm’s Path
-		Fell Cleave +Infuriate
-		Inner Chaos
-		Heavy Swing
-		Maim +Upheaval
-		Storm’s Eye
+* Tomahawk +Infuriate
+* Heavy Swing
+* Maim +Potion
+* Storm’s Eye
+* Inner Chaos +Upheaval +Infuriate
+* Inner Chaos +Inner Release +Onslaught
+* Primal Rend +Onslaught
+* Fell Cleave +Onslaught
+* Fell Cleave
+* Fell Cleave
+* Heavy Swing
+* Maim
+* Storm’s Path
+* Fell Cleave +Infuriate
+* Inner Chaos
+* Heavy Swing
+* Maim +Upheaval
+* Storm’s Eye
 
 #### Cursed Prepull IR
 
@@ -242,9 +281,9 @@ The main reasoning for the opener is to get IR on cooldown faster, gaining extra
 Pull timers are:
 
 
-	IR at -00:09s
-	Potion at -00:02s
-	Pull at 00:00s
+* IR at -00:09s
+* Potion at -00:02s
+* Pull at 00:00s
 
 The previews have been removed to force the reader to read the text above, before clicking random links on the internet.
 
@@ -414,11 +453,10 @@ Having over 50 gauge pushes this timer forward by yet another GCD, that would be
 
 So, to avoid hitting two Infuriate stacks during Inner Release, the following timers apply
 
-		<=50 gauge?
-		Infuriate should be >22 seconds away.
-
-		>=60 gauge?
-		Infuriate should be >30 seconds away.
+* \<=50 gauge?
+* Infuriate should be >22 seconds away.
+* \>=60 gauge?
+* Infuriate should be >30 seconds away.
 
 
 
@@ -436,10 +474,10 @@ Most of the game can be solved by stacking cooldowns in such a way that our “S
 
 Consider the following situation:
 
-		Tank buster will hit for 100% of our HP.
-		Warrior has all their cooldowns available.
-		Thrill of Battle is used. Warrior’s MaxHP is now 120%.
-		Rampart is used. Tank buster now hits for 80% of the original.
+* Tank buster will hit for 100% of our HP.
+* Warrior has all their cooldowns available.
+* Thrill of Battle is used. Warrior’s MaxHP is now 120%.
+* Rampart is used. Tank buster now hits for 80% of the original.
 
 
 The gap between the new max HP and the new tank buster is now “40%”.
@@ -456,13 +494,13 @@ While math does not work this way exactly, it’s good enough to paint a mental 
 As another example, consider Bloodwhetting + Rampart.
 
 
-		Tank buster for 100% of Max HP.
-		Rampart reduces it down to 80%.
-		Bloodwhetting reduces that down to 64,8%
-		100 x (1 - 0.2) x (1 - 0.19)
-		= 100 x 0.8 x 0.81 
-		= 80 x 0.81
-		= 64.8
+* Tank buster for 100% of Max HP.
+* Rampart reduces it down to 80%.
+* Bloodwhetting reduces that down to 64,8%
+* 100 x (1 - 0.2) x (1 - 0.19)
+* = 100 x 0.8 x 0.81 
+* = 80 x 0.81
+* = 64.8
 
 The original tank buster of 100% now hits for 64.8% -- a reduction of 35.2%.
 
@@ -472,28 +510,30 @@ As for practical uses, we assume a good use of the Bloodwhetting - Granting us a
 
 ##### Sets of 2
 
-		Bloodwhetting + Thrill of Battle
-		Bloodwhetting + Rampart
-		Bloodwhetting + Vengeance
-		*Bloodwhetting + Reprisal
+* Bloodwhetting + Thrill of Battle
+* Bloodwhetting + Rampart
+* Bloodwhetting + Vengeance
+* *Bloodwhetting + Reprisal
 
 ##### Sets of 3
 
-		Bloodwhetting + Thrill of Battle + Rampart
-		Bloodwhetting + Thrill of Battle + Vengeance
-		*Bloodwhetting + Reprisal + Rampart
-		*Bloodwhetting + Reprisal + Vengeance
-		*Bloodwhetting + Reprisal + Thrill of Battle
+* Bloodwhetting + Thrill of Battle + Rampart
+* Bloodwhetting + Thrill of Battle + Vengeance
+* *Bloodwhetting + Reprisal + Rampart
+* *Bloodwhetting + Reprisal + Vengeance
+* *Bloodwhetting + Reprisal + Thrill of Battle
 
 ##### Sets of 4
 
 _also known as Kitchen Sink**_
 
-		Bloodwhetting + Thrill of Battle + Rampart + Vengeance
-		*Bloodwhetting + Reprisal + Rampart + Vengeance
-		Just Holmgang at this point, honestly.
+* Bloodwhetting + Thrill of Battle + Rampart + Vengeance
+* *Bloodwhetting + Reprisal + Rampart + Vengeance
+* Just Holmgang at this point, honestly.
 
-Anything with a Reprisal* in them is considered _very situational_, and should be used with care. If you’re using Reprisal to survive a tank buster, remember that it might be down for the next raidwide damage. Other sources of 10% mitigation exist, such as Exaltation on Astrologians.
+Anything with a Reprisal* in them is considered _very situational_, and should be used with care.  
+If you’re using Reprisal to survive a tank buster, remember that it might be down for the next raidwide damage.  
+Other sources of 10% mitigation exist, such as Exaltation on Astrologians.
 
 _Kitchen Sink comes from the idiom “Everything but the kitchen sink”._  
 [What does "Everything but the Kitchen Sink" mean?](https://dictionary.cambridge.org/dictionary/english/everything-but-the-kitchen-sink)  
@@ -503,7 +543,8 @@ _We are throwing **everything** at the problem._
 
 ## Healing
 
-Warrior is the third healer of the party. With Bloodwhetting, Equilibrium, Nascent Flash and Shake It Off, we are blessed with the responsibilities of saving people who stand in stupid. In this section, we will go over the very basics of Warrior Heals.
+Warrior is the third healer of the party. With Bloodwhetting, Equilibrium, Nascent Flash and Shake It Off, we are blessed with the responsibilities of saving people who stand in stupid.  
+In this section, we will go over the very basics of Warrior Heals.
 
 ### Thrill of Battle
 * Affects Storm's Path's healing.
@@ -563,10 +604,13 @@ _Crit > Det > Tnc_
 Also applies to Materia Melds.
 
 #### Why is Direct Hit not desirable? 
-Direct Hit as a stat only increases the DH Rate % of the skills, and not the damage. As we have multiple skills that already have baked-in Direct Hit, any DH melds quickly lose value, giving Tenacity a chance to shine (dimly).
+Direct Hit as a stat only increases the DH Rate % of the skills, and not the damage.  
+As we have multiple skills that already have baked-in Direct Hit, any DH melds quickly lose value, giving Tenacity a chance to shine (dimly).
 
 #### Skill Speed
-We don’t deliberately avoid Skill Speed, but we don’t prioritize it at all. Maybe only for comfy reasons such as fight phasing or oGCD lineups etc. oGCD lineups referring to situations where our GCD and oGCDs come up at the same time, forcing us to delay one or the other.  
+We don’t deliberately avoid Skill Speed, but we don’t prioritize it at all.  
+Maybe only for comfy reasons such as fight phasing or oGCD lineups etc.  
+oGCD lineups referring to situations where our GCD and oGCDs come up at the same time, forcing us to delay one or the other.  
 
 A rule of thumb is to delay the oGCD in most situations.
 
