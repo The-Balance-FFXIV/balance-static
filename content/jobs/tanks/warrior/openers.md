@@ -13,7 +13,7 @@ changelog:
 
 ## Opener Optimization
 
-Assumed Timings
+Assumed Timings:
 * Tomahawk starts at -0.70s and the pull starts at 0.00s
 * Party buffs are expected to be up at around 7.80s
 
@@ -50,9 +50,16 @@ Tightest of the tightest timers are:
 * Potion at -00:02s
 * Pull at 00:00s
 
-[Version 1](https://cdn.discordapp.com/attachments/583965306071023616/925063725193527306/unknown.png)
+**-9s IR into Eye**  
+[Prepull IR into Eye](https://cdn.discordapp.com/attachments/583965306071023616/925063725193527306/unknown.png)
 
-[Version 2](https://cdn.discordapp.com/attachments/583965306071023616/926221989377609798/unknown.png)
+**-9s IR into Tempest**  
+[Prepull IR into Tempest](https://cdn.discordapp.com/attachments/583965306071023616/926221989377609798/unknown.png) 
+
+
+Triple cursed:  
+**-29s IR into Rend**  
+[Prepull IR into Rend](https://cdn.discordapp.com/attachments/583965306071023616/939467751079161877/unknown.png) 
 
 
 ## Rotation Optimization
