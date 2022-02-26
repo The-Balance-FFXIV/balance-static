@@ -506,8 +506,8 @@ _We are throwing **everything** at the problem._
 
 ## Healing
 
-Warrior is the third healer of the party. 
-With Bloodwhetting, Equilibrium, Nascent Flash and Shake It Off, we are blessed with the responsibilities of saving people who stand in stupid.
+Warrior is the third healer of the party.  
+With Bloodwhetting, Equilibrium, Nascent Flash and Shake It Off, we are blessed with the responsibilities of saving people who stand in stupid.  
 In this section, we will go over the very basics of Warrior Heals.
 
 ### Thrill of Battle
@@ -572,7 +572,8 @@ As we have multiple skills that already have baked-in Direct Hit, any DH melds q
 
 #### Skill Speed
 We don’t deliberately avoid Skill Speed, but we don’t prioritize it at all. Maybe only for comfy reasons such as fight phasing or oGCD lineups etc.  
-oGCD lineups referring to situations where our GCD and oGCDs come up at the same time, forcing us to delay one or the other. A rule of thumb is to delay the oGCD in most situations.
+oGCD lineups referring to situations where our GCD and oGCDs come up at the same time, forcing us to delay one or the other.  
+A rule of thumb is to delay the oGCD in most situations.
 
 #### Why Tenacity?
 Tenacity increases all damage dealt, much like Determination.  
@@ -621,8 +622,8 @@ If the macro tries to execute an action while in animation lock (from another ac
 		Frame 3: /ac "Nascent Flash" <2>
 		Frame N: ...
 
-So when you repeat the action inside the macro, you stretch the action activation window.
-Instead of a macro that has a single frame where it attempts to use an action, you have a macro with 13 frames of attempts. 
+So when you repeat the action inside the macro, you stretch the action activation window.  
+Instead of a macro that has a single frame where it attempts to use an action, you have a macro with 13 frames of attempts.  
 This gets around the issue of "Animation Lock vs Macros" where you might not be able to use a skill because of the Animation Lock.
 
 ### Holmgang
@@ -721,7 +722,8 @@ In case Etro.gg fails to load:
 [Tank Calc screencap](https://cdn.discordapp.com/attachments/277962749630349312/927852783430942740/unknown.png)  
 
 #### 2.50 GCD - Simulated 5514.9 dps
-[Etro.gg link](https://etro.gg/gearset/1e409c3f-a2ae-4236-8434-1947bb3a32a2)  In case Etro.gg fails to load:  
+[Etro.gg link](https://etro.gg/gearset/1e409c3f-a2ae-4236-8434-1947bb3a32a2)  
+In case Etro.gg fails to load:  
 [Tank Calc screencap](https://cdn.discordapp.com/attachments/277962749630349312/927877483162902588/unknown.png)
 
 #### Savage Progression set - Simulated 4942.6 dps
