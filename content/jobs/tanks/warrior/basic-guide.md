@@ -152,9 +152,7 @@ First off, the important parts to get your gameplay flowing.
 
 ### Openers
 
-Warrior openers are all about catching the party buffs, and maximizing potential amount of uses per skill.  
-
-There is some flexibility, mainly in Potion timings and the use of Primal Rend, but also when IR is used. This means that we’re delaying some skills until after all the party buffs are up, while also making sure to get them all on cooldown as soon as possible.    
+Warrior openers are all about catching the party buffs, and maximizing potential amount of uses per skill. There is some flexibility, mainly in Potion timings and the use of Primal Rend, but also when IR is used. This means that we’re delaying some skills until after all the party buffs are up, while also making sure to get them all on cooldown as soon as possible.    
 While exact timings are not often important to 99% of the player base, we will still follow them as Best Practices™.
 
 Assumptions:
@@ -171,7 +169,9 @@ Syntax
 * Going forward, all the skills will be listed as _GCD +oGCD1 +oGCD2._
 
 #### Basic IC IR IC
-Catches party buffs, however the 2nd Inner Chaos is tight with Trick Attack.  
+Catches party buffs, however the second Inner Chaos is tight with Trick Attack.  
+
+
 There's nothing special about this. This is your usual opener.
 
 ![IC IR IC Opener](https://cdn.discordapp.com/attachments/583965306071023616/917968991706841108/unknown.png "IC IR IC opener")
@@ -203,9 +203,9 @@ The order of actions is:
 
 #### Basic IC IC IR
 
-Our strongest skills catch all the buffs, including Trick Attack.  
-However this comes at the cost of delaying IR by a GCD. 
-Nothing special apart from the slight IR+Rend delay.
+Our strongest skills catch all the buffs, including Trick Attack. However, this comes at the cost of delaying IR by a GCD. 
+
+Nothing special apart from the slight IR + Rend delay.
 
 ![IC IC IR Opener](https://cdn.discordapp.com/attachments/583965306071023616/924377661252456478/unknown.png "IC IC IR opener")
 
@@ -233,13 +233,11 @@ The order of actions is:
 
 #### Cursed Prepull IR
 
-The cursed tech of “Prepull IR” refers to getting Inner Release on cooldown before the pull has even started.  
-This has some very big downsides, and some very situational up-sides.
+The cursed tech of “Prepull IR” refers to getting Inner Release on cooldown before the pull has even started. This has some very big downsides, and some very situational up-sides.
 
 **Do not use these unless you know what you’re doing.**
 
-The main reasoning for the opener is to get IR on cooldown faster, gaining extra uses before specific fight phases.  
-An example of this would be a heavy-padding Zodiark Extreme, where the aim is to get Inner Release for the Orbs phase.
+The main reasoning for the opener is to get IR on cooldown faster, gaining extra uses before specific fight phases. An example of this would be a heavy-padding Zodiark Extreme, where the aim is to get Inner Release for the Orbs phase.
 
 Pull timers are:
 
@@ -276,8 +274,8 @@ The Endwalker Warrior rotation is mostly a priority system with some flexibility
 * Don't overcap gauge
 * Keep Upheaval on cooldown
 * Keep Inner Release on cooldown
-* Keep Onslaughts ticking (below 3 stacks)
-* Keep Infuriate ticking (below 2 stacks)
+* Keep Onslaughts ticking (below three stacks)
+* Keep Infuriate ticking (below two stacks)
 * Burn gauge/stacks inside party buffs
 
 That’s a lot of things that you might not know about, so we’ll break it into their own sections.
@@ -311,8 +309,8 @@ That’s a lot of things that you might not know about, so we’ll break it into
 * We can do some fancy optimization around party buffs!
 * With the current party buffs being mostly 120s, we aim to do 3-1 cycles of Onslaughts.
 * Three Onslaughts into the opener, One Onslaught while waiting for the buffs to come up again.
-* Repeat 3-1, 3-1. Three inside even minute buffs, One inside odd minute buffs if available.
-* Don't let them sit on full stacks for long. That's DPS loss.
+* Repeat 3-1, 3-1. Three inside even minute buffs, one inside odd minute buffs if available.
+* Don't let them sit on full stacks for long. That's a DPS loss.
 
 #### Infuriate
 * We get two stacks, on a 60s timer.
@@ -336,11 +334,10 @@ That’s a lot of things that you might not know about, so we’ll break it into
 
 ### Area of Effect
 
-Area of Effect refers to using skills that hit multiple targets in one go. The AoE skills themselves have a lower potency than Single target skills.   
-So what’s the big deal?
+Area of Effect refers to using skills that hit multiple targets in one go. The AoE skills themselves have a lower potency than Single target skills. So what’s the big deal?
 
-For Endwalker Warriors, the options are pretty clear-cut.  
-At Lv90, the AoE rotation for Warriors is more effective than Single target rotation if there are 3 or more targets to hit.
+For Endwalker Warriors, the options are pretty clear-cut. At level 90, the AoE rotation for Warriors is more effective than Single target rotation if there are three or more targets to hit.
+
 
 Here’s a nice table comparing various skills and combos, and their effective potency at different situations.
 
@@ -368,8 +365,7 @@ Two or less targets available?
 
 ## Getting Advanced
 
-That’s it for the very basics. Now, you might feel like Warriors haven’t got a lot of optimization going on, and you’d be right.  
-However, there are some tricks in our sleeves that can be used.
+That’s it for the very basics. Now, you might feel like Warriors haven’t got a lot of optimization going on, and you’d be right. However, there are some tricks in our sleeves that can be used.
 
 ### Beast Gauge
 
@@ -397,27 +393,24 @@ This will let you use Infuriate, and carry the Inner Chaos into a later moment. 
 
 #### Using Beast Gauge
 
-Beast Gauge does not expire. This means that we can stock up for party buffs, and empty it all once there are buffs to take advantage of.  
-You may feel compelled to use that 50 gauge on a Fell Cleave as soon as possible. As mentioned above, there is no reason to do so.  
-You often lose out on free damage that could've been gained by saving that Fell Cleave for buff windows.
+Beast Gauge does not expire. This means that we can stock up for party buffs, and empty it all once there are buffs to take advantage of. You may feel compelled to use that 50 gauge on a Fell Cleave as soon as possible. As mentioned above, there is no reason to do so. You often lose out on free damage that could've been gained by saving that Fell Cleave for buff windows.
 
 You should avoid overcapping as much as possible. This is achieved by using single Fell Cleaves every time your next GCD would make you overcap on your gauge.  
   
-Sitting at 100 gauge, and the next combo GCD is Maim/Path/Eye?  
-Better Fell Cleave first.
+Sitting at 100 gauge, and the next combo GCD is Maim/Path/Eye? Better Fell Cleave first.
 
 #### Inner Release and Infuriate timer
 
-It is beneficial to avoid hitting two full stacks of Infuriate, as to gain the full advantage of the timer ticking.  
-Therefore, we may run into moments where our Infuriate would hit two stacks during Inner Release.  
 
-To avoid hitting 2 stacks of Infuriate, we will do the following maths:
+
+It is beneficial to avoid hitting two full stacks of Infuriate, as to gain the full advantage of the timer ticking. Therefore, we may run into moments where our Infuriate would hit two stacks during Inner Release.  
+
+To avoid hitting two stacks of Infuriate, we will do the following math:
 * Inner Release lasts for 3 GCDs (2.50s each) => 7.5s
 * Each Fell Cleave pushes the timer forward by 5 seconds => 15s
 * A total of 22.5s
 
-Having over 50 gauge pushes this timer forward by yet another GCD, that would be Fell Cleave. A total of 30s.  
-As a note, this math expects that a single Fell Cleave pushes the Infuriate timer by 7.5 seconds (2.5s GCD + 5s Infuriate Trait)
+Having over 50 gauge pushes this timer forward by yet another GCD, that would be Fell Cleave. A total of 30s. As a note, this math expects that a single Fell Cleave pushes the Infuriate timer by 7.5 seconds (2.5s GCD + 5s Infuriate Trait)
 
 So, to avoid hitting two Infuriate stacks during Inner Release, the following timers apply
 
@@ -449,17 +442,21 @@ Consider the following situation:
 		Rampart is used. Tank buster now hits for 80% of the original.
 
 
-The gap between the new MaxHP and the new Tank Buster is now “40%”.
+The gap between the new max HP and the new tank buster is now “40%”.
 
-While maths does not work this way exactly, it’s good enough to paint a mental image of the survivability increase.
+While math does not work this way exactly, it’s good enough to paint a mental image of the survivability increase.
+
+
 
 ![Cooldowns vs Buster](https://cdn.discordapp.com/attachments/937834268950925433/947118361198854175/unknown.png "Cooldowns vs Buster")
+
+
 
 
 As another example, consider Bloodwhetting + Rampart.
 
 
-		Tank buster for 100% of MaxHP.
+		Tank buster for 100% of Max HP.
 		Rampart reduces it down to 80%.
 		Bloodwhetting reduces that down to 64,8%
 		100 x (1 - 0.2) x (1 - 0.19)
@@ -496,10 +493,7 @@ _also known as Kitchen Sink**_
 		*Bloodwhetting + Reprisal + Rampart + Vengeance
 		Just Holmgang at this point, honestly.
 
-Anything with a Reprisal* in them is considered _very situational_, and should be used with care.  
-If you’re using Reprisal to survive a tank buster, remember that it might be down for the next raidwide damage.  
-
-Other sources of 10% mitigation exist, such as Exaltation on Astrologians.
+Anything with a Reprisal* in them is considered _very situational_, and should be used with care. If you’re using Reprisal to survive a tank buster, remember that it might be down for the next raidwide damage. Other sources of 10% mitigation exist, such as Exaltation on Astrologians.
 
 _Kitchen Sink comes from the idiom “Everything but the kitchen sink”._  
 [What does "Everything but the Kitchen Sink" mean?](https://dictionary.cambridge.org/dictionary/english/everything-but-the-kitchen-sink)  
@@ -509,9 +503,7 @@ _We are throwing **everything** at the problem._
 
 ## Healing
 
-Warrior is the third healer of the party.  
-With Bloodwhetting, Equilibrium, Nascent Flash and Shake It Off, we are blessed with the responsibilities of saving people who stand in stupid.  
-In this section, we will go over the very basics of Warrior Heals.
+Warrior is the third healer of the party. With Bloodwhetting, Equilibrium, Nascent Flash and Shake It Off, we are blessed with the responsibilities of saving people who stand in stupid. In this section, we will go over the very basics of Warrior Heals.
 
 ### Thrill of Battle
 * Affects Storm's Path's healing.
@@ -522,7 +514,7 @@ In this section, we will go over the very basics of Warrior Heals.
 * Weird like that
 
 ### Bloodwhetting
-* Get 4 GCDs in by popping this in the 2nd oGCD slot.
+* Get 4 GCDs in by popping this in the second oGCD slot.
 * Heals per hit, very powerful in dungeons.
 * May Crit a heal randomly. Luck!
 * Primal Rend, Chaotic Cyclone and Inner Chaos always force a Crit heal.
@@ -554,15 +546,16 @@ Soon you’ll have all sorts of confusion, and question various things you’ve 
 
 First things first:
 
-* Warriors are Strength-based. Vitality is nice, but it always walks hand in hand with Strength upgrades. 
+* Warriors are strength-based. Vitality is nice, but it always walks hand in hand with strength upgrades. 
 * We don't exactly want Direct Hit because of our skills, which is why Tenacity gives bigger gains. 
 * A single Direct Hit meld may be god-like for that one parse, but on average Tenacity wins out. 
 
-For the God Parse, you will want that one DH meld - because only the BEST parse matters.  
+For the god parse, you will want that one DH meld - because only the BEST parse matters.  
 Statistical averages aren't ranked, only the high-end outliers.
 
 ### Universal Stat Priorities
-Weapon Damage >>> Main Stat >>>> Substats.  
+Weapon Damage >>> Main Stat >>>> Substats. 
+ 
 _Very few exceptions have existed before Endwalker._
 
 ### Warrior Substat Priority
@@ -570,12 +563,11 @@ _Crit > Det > Tnc_
 Also applies to Materia Melds.
 
 #### Why is Direct Hit not desirable? 
-Direct Hit as a stat only increases the DH Rate% of the skills, and not the damage.  
-As we have multiple skills that already have baked-in Direct Hit, any DH melds quickly lose value, giving Tenacity a chance to shine (dimly).
+Direct Hit as a stat only increases the DH Rate % of the skills, and not the damage. As we have multiple skills that already have baked-in Direct Hit, any DH melds quickly lose value, giving Tenacity a chance to shine (dimly).
 
 #### Skill Speed
-We don’t deliberately avoid Skill Speed, but we don’t prioritize it at all. Maybe only for comfy reasons such as fight phasing or oGCD lineups etc.  
-oGCD lineups referring to situations where our GCD and oGCDs come up at the same time, forcing us to delay one or the other.  
+We don’t deliberately avoid Skill Speed, but we don’t prioritize it at all. Maybe only for comfy reasons such as fight phasing or oGCD lineups etc. oGCD lineups referring to situations where our GCD and oGCDs come up at the same time, forcing us to delay one or the other.  
+
 A rule of thumb is to delay the oGCD in most situations.
 
 #### Why Tenacity?
@@ -599,10 +591,7 @@ If we were to have 2000 points to use on either Determination or Tenacity, we wo
 
 
 #### Multi-tank melds
-Do you play other tanks? This would be called “Omni-tanking”.  
-Meld WAR, use DH in non-WAR weapons.  
-Consider melding SkS somewhere if your other tanks need it. WARs don't.  
-Better Omni-tank writeups exist, but they are not a part of this guide.
+Do you play other tanks? This would be called “Omni-tanking”. Meld WAR, use DH in non-WAR weapons. Consider melding SkS somewhere if your other tanks need it. WARs don't. Better Omni-tank writeups exist, but they are not a part of this guide.
 
 
 
@@ -612,13 +601,9 @@ Better Omni-tank writeups exist, but they are not a part of this guide.
 
 ## Macros
 
-Macros are weird. They are fired off One Line per One In-Game Frame.  
-15 lines of Macro, 15 FPS in-game? That macro is gone in a single second.
-Macros also don’t queue like normal skills do.
+Macros are weird. They are fired off one line per one in-game frame. 15 lines of Macro, 15 FPS in-game? That macro is gone in a single second. Macros also don’t queue like normal skills do.
 
-Filling up all the slots with repeating lines sort of simulates queuing.  
-The real reasoning is that macros read one line per each in-game frame.  
-If the macro tries to execute an action while in animation lock (from another action, for example), it has no effect.
+Filling up all the slots with repeating lines sort of simulates queuing. The real reasoning is that macros read one line per each in-game frame. If the macro tries to execute an action while in animation lock (from another action, for example), it has no effect.
 
 		Frame 1: /merror off
 		Frame 2: /ac "Nascent Flash" <2>
@@ -626,15 +611,11 @@ If the macro tries to execute an action while in animation lock (from another ac
 		Frame N: ...
 
 So when you repeat the action inside the macro, you stretch the action activation window.  
-Instead of a macro that has a single frame where it attempts to use an action, you have a macro with 13 frames of attempts.  
-This gets around the issue of "Animation Lock vs Macros" where you might not be able to use a skill because of the Animation Lock.
+Instead of a macro that has a single frame where it attempts to use an action, you have a macro with 13 frames of attempts. This gets around the issue of "Animation Lock vs Macros" where you might not be able to use a skill because of the Animation Lock.
 
 ### Holmgang
 
-Holmgang is weird.  
-If your Holmgang target dies, you lose the effect. Self-cast gets around this.  
-If your target is too far away, you won't be able to cast Holmgang. Self-cast gets around this, too.  
-To achieve both goals, we self-cast using <me> in the macro!
+Holmgang is weird. If your Holmgang target dies, you lose the effect. Self-cast gets around this. If your target is too far away, you won't be able to cast Holmgang. Self-cast gets around this, too. To achieve both goals, we self-cast using <me> in the macro!
 
 
 		/merror off
@@ -675,7 +656,7 @@ You may make a Mouse-over macro by using <mo>, or you may make multiple macros f
 		/micon "Nascent Flash"
 
 ### Shirk
-Shirk the 2nd Party member. Often your co-tank.
+Shirk the second Party member. Often your co-tank.
 
 		/merror off
 		/ac "Shirk" <2>
@@ -705,7 +686,8 @@ Shirk the 2nd Party member. Often your co-tank.
 
 ## Best-in-Slot aka BIS (Patch 6.08)
 
-Food and Potions  
+
+### Food and Potions  
 Pumpkin Potage HQ (if running a slow BIS set)  
 Pumpkin Ratatouille HQ (if running the 2.40 GCD set)  
 Grade 6 Tincture of Strength HQ
@@ -733,12 +715,12 @@ In case Etro.gg fails to load:
 [Etro.gg link](https://etro.gg/gearset/db39eccd-3f87-423b-898e-d72fccf94ddf)  
 In case Etro.gg fails to load:  
 [Tank Calc screencap](https://cdn.discordapp.com/attachments/277962749630349312/927852751524859944/unknown.png)   
-Ring has 2x SkS melds due to stat tiering. This results in around +12 dps gains.  
+Ring has 2x SkS melds due to stat tiering. This results in around +12 DPS gains.  
 
 #### What’s the difference? Why not just use the one with the highest simulated DPS?
 The simulations are made with a simulated infinite rotational loop, which also heavily skews the value of skill speed.  
-Also #1: fights are not infinite, and often come with downtime.  
-Also #2: slower GCDs offer some rotational tricks to maximize Party buff windows.
+Also #1: Fights are not infinite, and often come with downtime.  
+Also #2: Slower GCDs offer some rotational tricks to maximize Party buff windows.
 
 
 
