@@ -52,594 +52,990 @@ changelog:
     message: Initial Release for 5.0
   - date: 2019-07-04T23:00:00.000Z
     message: Colorful
+  - date: 2022-02-26T14:53:27.569Z
+    message: Uploaded the new GDoc guide for EW WAR
 ---
-# How to Fell Cleave
+# Final Fantasy 14: Endwalker guide for Warrior
+By Mox Xinmagar & The Happy Team of Warriors
+@Balance Discord
 
-## "An Angry Wannabe-Healer Guide"
 
-## Warrior Primer v5.3
 
-- - -
 
-# Introduction
 
-Hello, fellow axe wielders, we are Warruru Bros from The Balance discord:
+## Intro
 
-* Mox Xinmagar
-* Glu Kos
-* Sizzy Twintails
 
-With this guide, we hope to provide everyone with an *in-depth view* on one of the FINAL FANTASY XIV tanks, Warrior. As such, this guide is dedicated to people already familiar with the basics of Tank role. 
+Hello team!
+There should be an intro here, but I am bad at writing those.  
+Therefore I shall skip the funny talks about the Angriest Healer of FFXIV and let the rest of the guide do the talking.  
+This intro is focused on Lv90 Endwalker Warrior. Please get to level 90 soon.
 
-For those new to Tank role as a whole, we must first refer you to this beginner tank guide, where you’ll be introduced to the basics, such as defensive cooldowns for each tank, enmity control, tank swaps and positioning:
 
-[So You Want To Be A Tank?](https://goo.gl/nYzAnq)
 
-If you know the basics and want to push the limits of Warrior gameplay, carry on reading.
+## Skills
+The order of skills is pretty straight forward. Here’s an image to visualise it all:
 
-- - -
+[Long image is looooong](https://cdn.discordapp.com/attachments/277962749630349312/900866377915695124/unknown.png) 
 
-# Job Overview
+Traits on the left, Damaging skills in the middle’ish, and Cooldowns/Buffs on the right.
 
-> \*On the northernmost edge of Abalathia's Spine exists a mountain tribe renowned for producing fearsome mercenaries. Wielding great axes and known as Warriors, these men and women learn to harness their inner beasts and translate that power to unbridled savagery on the battlefield.
+Some of the skills are used often enough that we might abbreviate them later on in the guide.  
+For ease of reading, the following list entries have their abbreviations first, then the skill name, with special mentions in parentheses.  
+_Abbr, Skill name (Special mentions)_  
 
-Warrior is a powerhouse combining both very unique defensive and offensive kits. 
+### GCDs (Global-Cooldowns)
 
-In general, Warrior’s gameplay revolves around filling the Beast Gauge using basic combos and spending the Beast Gauge on powerful abilities. It’s a minigame of sorts where you are balancing between zero and 100. Go too far and you’ll waste the precious Beast Gauge. Go too low and you won’t have enough Beast Gauge to use the ability when you need it.
+**Single-target Combo pieces**:
 
-At the same time, you will have another minigame. You will pay attention to the 30-60 seconds of **Storm's** **Eye** buff timer. Losing on some Beast Gauge if you reapply the buff too early or losing damage if you forget to reapply it at all.
+		HS, Heavy Swing
+		Maim
+		Eye/Path, Storm’s Eye / Storm’s Path
 
-Don’t be afraid, there will be some time to relax during **Inner Release**, while doing massive damage with those powerful abilities mentioned earlier.
+**Multi-target Combo pieces**:
 
-While other tanks rely on knowing what happens next, Warrior charges into battle without a second thought. Self mitigation combined with insane self HP recovery tools are the biggest strengths of Warrior, allowing us to quickly react and adjust to unexpected situations. A healer suddenly died and you’re all by itself with low health? No problem! We have two instant heals to use, we heal ourselves during **Storm’s Path** combo and, on top of that, we also can heal ourselves or a party member by a portion of the damage we’ve dealt to the enemy!
+		  
+		OP, Overpower  
+		MT, Mythril Tempest  
 
-Remember, no one can win every battle, but no man should fall without a struggle!
+**Single-target Gauge Spenders**:
 
-- - -
+		  
+		IB, Inner Beast (Lv35)  
+		FC, Fell Cleave (Lv54, trait upgrades Inner Beast)  
+		IC, Inner Chaos (Lv80, Infuriate unlocks Inner Chaos)  
+		These are all on a single button.  
 
-# tl;dr
+**Multi-target Gauge Spenders**:
 
-*Also known as “I’m here for the quickest tips”. No explanation, just take them and run.*
+		  
+		Steel Cyclone (Lv50)  
+		Decimate (Lv60, trait upgrades Steel Cyclone)  
+		Chaotic Cyclone (Lv72, Infuriate unlocks Chaotic Cyclone)  
+		These are all on a single button.  
 
-## IC IR IC IC Opener
+**Special mention**:
 
-![Opener](https://i.imgur.com/WB2SEtL.png)
+		
+		Rend, Primal Rend (Lv90)  
+		Has an animation lock, cannot be double-weaved with.  
 
-Nascent Flash is free to be moved around depending on damage taken. Here it is used to teach people to use Inner Release on the second oGCD slot.
 
-## Rotation (is a priority now)
+### oGCDs (Off-Global-Cooldowns)  
 
-* Keep Storm’s Eye up and refresh it below 15 seconds.
-* Keep Upheaval on cooldown.
-* Keep Inner Release on cooldown (fight-dependent).
-* Don’t overcap Beast Gauge.
-* As a rule of thumb, use Fell Cleave only after 70 Beast Gauge.
-* Use Storm’s Path to gain as much Beast Gauge as possible.
-* Aim to use Infuriate and Inner Chaos inside party buffs.
-* Aim to keep Infuriate below two stacks at all times.
 
-## Stat Priority
 
-Crit > Comfy SkS > Det > Ten    
+**Single-target oGCDs**:
 
-## Skill Speed Tiers
+		  
+		Uph, Upheaval (Lv64)  
+		Ons, Onslaught (Lv62)  
 
-37 GCDs per 90s
 
-* 1015 for 2.43 GCD - Highest DPS, but requires some planning
-* 1117 for 2.42 GCD - Some breathing room compared to the one above
 
-38 GCDs per 90s
+**Multi-target oGCDs**:
 
-* 1523 for 2.38 GCD - Your average Warrior skill speed
-* 1624 for 2.37 GCD - Some breathing room for mechs and clipping
-* 1726 for 2.36 GCD - "Greeding Mechanics" levels of comfy
+		  
+		Orogeny (Lv86)  
 
-## BiS Lists
 
-Refer to [The Balance discord](https://discord.gg/thebalanceffxiv) server [\#warrior_resources](https://discordapp.com/channels/277897135515762698/580300071061553182/593937173569601538) or the [BiS page.](/jobs/tanks/warrior/best-in-slot/)
 
-- - -
 
-# Abilities Preview
+### Damage Buffs  
 
-Abilities will be presented in a tabular format for easy reading.
+		Zerk, Berserk (Lv6)  
+		IR, Inner Release (Lv70, trait upgrades Berserk)  
 
-## Single Target
 
-|                                                             |              |                                                                                                                                                                                                                              |                                                                      |
-| ----------------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| ![Heavy Swing](https://xivapi.com/i/000000/000260_hr1.png)  | Heavy Swing  | Standard basic attack to initiate both the Storm’s Eye Combo and the Storm’s Path Combo, consisting of Heavy Swing, Maim, Storm’s Eye and Heavy Swing, Maim, Storm’s Path respectively.                                      | 200p <br>**GCD**                                                     |
-| ![Maim](https://xivapi.com/i/000000/000255_hr1.png)         | Maim         | 320 potency if combo’d after Heavy Swing. Adds 10 Beast Gauge                                                                                                                                                                | 100p <br>(320p combo) <br>**GCD** <br>+10 Gauge                      |
-| ![Storm's Eye](https://xivapi.com/i/000000/000264_hr1.png)  | Storm’s Eye  | 420 potency if combo’d after Maim. <br>Adds 10 Beast Gauge. <br>Grants a 10% damage buff for 30s. <br>Extend any existing Storm’s Eye buff by +30 seconds, up to 60s.                                                        | 100p <br>(420p combo) <br>**GCD** <br>+10 Gauge <br>+10% damage buff |
-| ![Storm's Path](https://xivapi.com/i/000000/000258_hr1.png) | Storm’s Path | 420 potency if combo’d after Maim. <br> Adds 20 Beast Bauge.                                                                                                                                                                 | 100p (420p combo) <br> **GCD** <br> +20 Gauge                        |
-| ![Fell Cleave](https://xivapi.com/i/002000/002557_hr1.png)  | Fell Cleave  | A big 590p hit, your main damage source. <br>Consumes 50 Beast Gauge. <br>Reduces Infuriate’s cooldown by 5s.                                                                                                                | 590p <br>**GCD** <br>-50 Gauge                                       |
-| ![Inner Chaos](https://xivapi.com/i/002000/002568_hr1.png)  | Inner Chaos  | Costs one stack of Nascent Chaos. <br>Replaces Fell Cleave on your hotbar when you have one stack of Nascent Chaos. <br>Delivers a Critical Direct hit. <br>Consumes 50 Beast Gauge. <br>Reduces Infuriate’s cooldown by 5s. | 920p <br>Dhit crit <br>**GCD** <br>-NC <br>-50 Gauge                 |
-| ![Tomahawk](https://xivapi.com/i/000000/000261_hr1.png)     | Tomahawk     | Ranged attack with increased enmity.                                                                                                                                                                                         | 140p <br> **GCD**                                                    |
 
-## Area of Effect
 
-|                                                                |                 |                                                                                                                                                                                                                           |                                                  |
-| -------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| ![Overpower](https://xivapi.com/i/000000/000254_hr1.png)       | Overpower       | 130 potency to enemies in a cone in front of you. <br>Radius of eight yalms.                                                                                                                                              | 130p <br>GCD                                     |
-| ![Mythril Tempest](https://xivapi.com/i/002000/002565_hr1.png) | Mythril Tempest | 200 potency to all enemies nearby you, if used after Overpower. <br>Radius of five yalms. <br>Extends Storm’s Eye buff by 30s (up to 60s) and adds 20 Beast Gauge.                                                        | 100p <br>(200p combo) <br>**GCD** <br> +20 Gauge |
-| ![Decimate](https://xivapi.com/i/002000/002558_hr1.png)        | Decimate        | A big AOE hit, 250 potency per target. <br>Radius of five yalms. <br>Consumes 50 Beast gauge. <br>Reduces Infuriate’s cooldown by 5s.                                                                                     | 250p <br>**GCD** <br>-50 Gauge                   |
-| ![Chaotic Cyclone](https://xivapi.com/i/002000/002566_hr1.png) | Chaotic Cyclone | Costs one stack of Nascent Chaos. <br>Replaces Decimate on your hotbar when you have one stack of Nascent Chaos. <br>Guaranteed Critical Direct hit. <br>Consumes 50 Beast gauge. <br>Reduces Infuriate’s cooldown by 5s. | 400p  <br>**GCD** <br>-50 Gauge <br>-NC          |
+### Defensive Cooldowns  
 
-## oGCD
+**Warrior-specific**  
 
-|                                                          |           |                                                                                                         |                                        |
-| -------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| ![Upheaval](https://xivapi.com/i/002000/002562_hr1.png)  | Upheaval  | This is a single oGCD that deals 450 potency damage. <br>Consumes 20 Beast Gauge.                       | 450p <br>30s CD <br>oGCD <br>-20 Gauge |
-| ![Onslaught](https://xivapi.com/i/002000/002561_hr1.png) | Onslaught | Warrior’s gap-closer. <br>Consumes 20 Beast Gauge.                                                      | 100p <br>10s CD <br>oGCD <br>-20 Gauge |
-| ![Infuriate](https://xivapi.com/i/002000/002555_hr1.png) | Infuriate | Increases Beast Gauge by 50 <br>Grants Nascent Chaos <br>30 seconds duration <br>Stacks up to two times | 60s CD <br>oGCD <br>+50 Gauge <br>+NC  |
+		Thrill, Thrill of Battle (Lv30)
+		Veng, Vengeance (Lv38)
+		Holm, Holmgang (Lv42)
+		RI, Raw Intuition (Lv56)
+		SIO, Shake It Off (Lv68)
+		NF, Nascent Flash (Lv76)
+		BW, Bloodwhetting (Lv82, trait upgrades Raw Intuition)
 
-## Utility
 
-|                                                                 |                              |                                                                                                                                                                                                                                                                                                      |                                     |
-| --------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| ![Inner Release](https://xivapi.com/i/002000/002564_hr1.png)    | Inner Release                | Guarantees all of your attacks  are Critical and Direct hit. <br>Extends existing Storm’s Eye buff by +15 seconds (up to 60s). <br>Makes all of your attacks cost 0 Beast Gauge. <br>Nullifies most draw-in and knockback effects. 10 seconds duration.                                              | +Crit Dhit <br>90s CD <br>oGCD <br> |
-| ![Defiance](https://xivapi.com/i/002000/002551_hr1.png)         | Defiance                     | Toggleable effect that significantly increases enmity generation.                                                                                                                                                                                                                                    | + 900% Enmity <br>10s CD  <br>oGCD  |
-| ![Provoke](https://xivapi.com/i/000000/000803_hr1.png)          | Provoke                      | Places you on top of the enmity list and adds additional fixed amount on top of that                                                                                                                                                                                                                 | 30s CD <br> oGCD <br> +Enmity       |
-| ![Shirk](https://xivapi.com/i/000000/000810_hr1.png)            | Shirk                        | Redirects 25% of your current enmity onto a party member of your choice                                                                                                                                                                                                                              | 120s CD <br>oGCD <br>-25% Enmity    |
-| ![Holmgang](https://xivapi.com/i/000000/000266_hr1.png)         | Holmgang                     | Prevents most attacks from reducing your HP below one HP. <br>Binds your target <br>Eight seconds duration                                                                                                                                                                                           | 8s dur. <Br>240s CD <br>oGCD        |
-| ![Vengeance](https://xivapi.com/i/000000/000267_hr1.png)        | Vengeance                    | Reduces damage taken by 30%. <br>Deals 55 potency every time you take physical damage                                                                                                                                                                                                                | 15s dur. <br>120s CD <br>oGCD       |
-| ![Rampart](https://xivapi.com/i/000000/000801_hr1.png)          | Rampart                      | Reduces damage taken by 20%.                                                                                                                                                                                                                                                                         | 20s dur. <br>90s CD <br> oGCD       |
-| ![Thrill of Battle](https://xivapi.com/i/000000/000263_hr1.png) | Thrill of Battle             | Increases maximum HP by 20% and restores the amount increased <br> Increase HP recovery by healing actions on self by 20% <br>10 seconds duration                                                                                                                                                    | 10s dur. <br> 90s CD <br>oGCD       |
-| ![Equilibrium](https://xivapi.com/i/002000/002560_hr1.png)      | Equilibrium                  | Heals self for 1200 potency. <br>60 seconds cooldown.                                                                                                                                                                                                                                                | 1200p <br>60s CD <br> oGCD          |
-| ![Raw Intuition](https://xivapi.com/i/002000/002559_hr1.png)    | Raw Intuition                | Reduces damage taken by 20% <br>Shares a recast timer with Nascent Flash. <br>Six seconds duration.                                                                                                                                                                                                  | 6s dur. <br>25s CD <br>oGCD         |
-| ![Nascent Flash](https://xivapi.com/i/002000/002567_hr1.png)    | Nascent Flash                | Grants Nascent Flash to yourself and Nascent Glint to a party member <br>Nascent Flash: Absorbs ~48% of damage dealt as HP. <br>Nascent Glint: Reduces damage taken by 10% and restores 50% of hp absorbed by Nascent Flash. <br>Six seconds duration. <br>Shares a recast timer with Raw Intuition. | 6s dur. <br>25s CD <br>oGCD         |
-| ![Shake It Off](https://xivapi.com/i/002000/002563_hr1.png)     | Shake It Off                 | Gives a party wide, 15% of targets hp, shield. <br> Dispels Vengeance, Raw Intuition, Thrill of Battle and increases shield by 2% for each effect absorbed. <br>15 seconds duration.                                                                                                                 | 15s dur. <br>90s CD <br>oGCD        |
-| ![Reprisal](https://xivapi.com/i/000000/000806_hr1.png)          | Reprisal                     | Reduces targets’ damage dealt by 10%. <br>Does an AoE around the tank, hitting multiple targets.                                                                                                                                                                                                     | 10s dur. <br>60s CD <br>oGCD        |
-| ![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png)     | Arm’s Length <br>(knockback) | Negates majority of Knockback effects. <br>Certain attacks cannot be negated. Both effects come from the same ability.                                                                                                                                                                               | 6s dur. <br>120s CD <br>oGCD        |
-| ![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png)     | Arm’s Length <br>(Slow)      | Applies a Slow +20% debuff on the targets around you, increasing enemy’s cast time, attack time and auto-attack delay. Both effects come from the same ability.                                                                                                                                      | 15s dur. <br>120s CD <br>oGCD       |
-| ![Interject](https://xivapi.com/i/000000/000808_hr1.png)        | Interject                    | Interrupts the use of some (highlighted) enemy actions.                                                                                                                                                                                                                                              | 30s CD <br>oGCD                     |
-| ![Low Blow](https://xivapi.com/i/000000/000802_hr1.png)         | Low Blow                     | Stuns target. <br>Certain targets cannot be stunned.                                                                                                                                                                                                                                                 | 5s dur. <br>25s CD <br>oGCD         |
+### Role-specific Actions
 
-## The Beast Gauge
+**Mitigation**:
 
-The Beast Gauge will be the main resource you will have to manage when playing Warrior. You will naturally accumulate the Beast Gauge during your rotation and will be able to spend it on specific skills. **IT DOESN’T INCREASE CRIT ANYMORE.**
+		Ramp, Rampart (Lv8)
+		Reprisal (Lv22)
+		Arm’s Length (Lv32)
 
-![Gauge 1](https://img.finalfantasyxiv.com/lds/promo/h/G/8mnBmkrAJdhB7ZPLG812UiFhxk.png)
-![Gauge 2](https://img.finalfantasyxiv.com/lds/promo/h/k/3GHiS3XIjitdQYTykl4K02V_Kw.png)
+**Interruptions**:
 
-Several actions will increase the Beast Gauge:
+		Low Blow (Lv12)
+		Interject (Lv18)
 
-* Maim and Storm’s Eye will increase it by 10.
-* Storm’s Path and Mythril Tempest will increase it by 20.
-* Infuriate will increase it by 50.
+**Aggro Management**:
 
-Several actions can be used by spending the beast Gauge:
+		Provoke (Lv15)
+		Shirk (Lv48)
 
-* Inner Beast and Steel Cyclone will decrease it by 50.
-* Fell Cleave and Decimate will decrease it by 50.
-* Inner Chaos and Chaotic Cyclone will decrease it by 50.
-* Upheaval will decrease it by 20.
-* Onslaught will decrease it by 20.
 
-While our Crit chance increase from the Beast Gauge did get removed in 5.0, we still want to keep the Beast Gauge and Infuriate charges ready for buff windows, most notably Trick Attack. Our goal for every Trick Attack is to spend ideally 170 gauge, on two Inner Chaos, one Upheaval and one  Fell Cleave. 
 
-Depending on the fight, you won’t get your full burst in every Trick window, but you should aim to land one Upheaval and one Inner Chaos as a bare minimum.
 
-- - -
 
-# Abilities In-Depth Overview
+## Warrior Gameplay
 
-## Single Target
+Warrior gameplay focuses on gathering resources and maximizing the effectiveness of those resources.  
+These resources are Beast Gauge, and with some imagination, our buffs and oGCD stacks.  
+  
+First off, the important parts to get your gameplay flowing.
 
-#### Storm’s Eye Combo
 
-Heavy Swing -> Maim -> Storm’s Eye
 
-One of your 1-2-3 combos. The goal of Warrior is to make sure Storm’s Eye is up as much as possible. Lovely 10% damage increase. Also generates 20 points of Beast Gauge (10 from Maim and 10 from Storm’s Eye).
-Basic Rule is “if Storm’s Eye has less than 15 seconds left, then re-apply Storm’s Eye“. This will make sure that you don’t lose the buff. To maximize Storm’s Eye effectiveness though, it is possible to delay the application by using gauge spenders, such as Fell Cleave or Inner Chaos as a filler.
 
-#### Storm’s Path Combo
 
-Heavy Swing -> Maim -> Storm’s Path
+### Openers
 
-Your second standard 1-2-3 combo that generates 30 Beast Gauge (10 from Maim and 20 from Storm’s Path). The Warrior rotation aims to maximize gauge generation and minimize Storm’s Eye refreshes. As such this will be the most used combo for you.
+Warrior openers are all about catching the party buffs, and maximizing potential amount of uses per skill.  
 
-#### Fell Cleave
+There is some flexibility, mainly in Potion timings and the use of Primal Rend, but also when IR is used. This means that we’re delaying some skills until after all the party buffs are up, while also making sure to get them all on cooldown as soon as possible.    
+While exact timings are not often important to 99% of the player base, we will still follow them as Best Practices™.
 
-A powerful single GCD with 590 potency that can only be used while you have 50 Beast Gauge available. It is a preferred way to spend the Beast Gauge for 1-2 targets.
-**ALWAYS use 5 times inside Inner Release for 1-2 targets** and as your gauge spender between Inner Releases to prevent the gauge from overcapping.
+Assumptions:
 
-#### Inner Chaos
+* Tomahawk starts the pull at 0.00s. This means that the actual use of Tomahawk is at around -0.7s, right before the pull timer hits 0.
+* Skill Speed is at around 532, which translates to 2.47 GCD. Faster skill speed is fine, but the openers listed will be slightly different in practice due to some skills having flat timers (Upheaval at 30s) and our GCD speed being flexible (2.50 to 2.30).
+* Potion covers 12 GCDs. It is definitely possible for Potion to cover 13 GCDs, but due to Endwalker Warrior being such a slow-paced job in general, and players having wildly different internet connections, we will show openers with 12 GCD Potions.
+* All of the important Party buffs are up after 7.8s into the pull. 
 
-A powerful single GCD with 920 potency that can only be used while you have 50 Best Gauge available and a Nascent Chaos buff granted by Infuriate. It will replace  Fell Cleave on your hotbar, so it is easy to treat it in the same manner. Like  Fell Cleave,  Inner Chaos is a preferred way to spend the Beast Gauge for one to two targets. However **Inner Chaos should NEVER be used inside Inner Release**, since it already has the benefit of Crit + Direct Hit. Try to use Inner Chaos inside raid damage buffs. 
+Syntax
 
-#### Tomahawk
+* GCDs are on the lower part of the image.
+* oGCDs and potions are on the upper part of the image.
+* Going forward, all the skills will be listed as _GCD +oGCD1 +oGCD2._
 
-Tomahawk is the only long ranged skill available to Warrior. 140 potency is not the biggest damage in our kit, however **Tomahawk makes it possible to attack the target in a range from 3y to 15y.**
-The additional x7 enmity multiplier makes Tomahawk the strongest GCD enmity generator available on-demand for a Warrior. Don’t hesitate to use it if the target suddenly decided to run away and punch a caster in the face. 
+#### Basic IC IR IC
+Catches party buffs, however the 2nd Inner Chaos is tight with Trick Attack.  
+There's nothing special about this. This is your usual opener.
 
-## Area of Effect
+![IC IR IC Opener](https://cdn.discordapp.com/attachments/583965306071023616/917968991706841108/unknown.png "IC IR IC opener")
 
-#### Mythril Tempest Combo
 
-Overpower -> Mythril Tempest
+The order of actions is:
 
-AoE combo, not much to say. 
-**This combo beats Heavy Swing -> Maim -> Storm’s Eye/Storm’s Path combo at or above two targets.**
+		Tomahawk +Infuriate
+		Heavy Swing
+		Maim +Potion
+		Storm’s Eye
+		Inner Chaos +Upheaval +Inner Release
+		Primal Rend +Onslaught
+		Fell Cleave +Onslaught
+		Fell Cleave +Onslaught
+		Fell Cleave +Infuriate
+		Inner Chaos
+		Heavy Swing
+		Maim
+		Storm’s Path
+		Fell Cleave +Infuriate
+		Inner Chaos
+		Heavy Swing
+		Maim +Upheaval
+		Storm’s Eye
 
-#### AoE Gauge spenders
 
-Decimate ( Chaotic Cyclone )
 
-AoE versions of Fell Cleave (Inner Chaos) to be used for multiple targets. The AoE is centered on self. 
-**These gauge spenders beat Fell Cleave (Inner Chaos) at three targets.**
 
-#### Quick Reference
+#### Basic IC IC IR
 
-Use the chart below for quick reference during your AoE adventures:
+Our strongest skills catch all the buffs, including Trick Attack.  
+However this comes at the cost of delaying IR by a GCD. 
+Nothing special apart from the slight IR+Rend delay.
 
-![Flowchart](https://cdn.discordapp.com/attachments/752334526449057853/884745727702622248/unknown.png)
+![IC IC IR Opener](https://cdn.discordapp.com/attachments/583965306071023616/924377661252456478/unknown.png "IC IC IR opener")
 
-#### Handy AoE Table
 
-![Table](https://cdn.discordapp.com/attachments/752334526449057853/884745881600020500/unknown.png)
+The order of actions is:
 
-## oGCD
+		Tomahawk +Infuriate
+		Heavy Swing
+		Maim +Potion
+		Storm’s Eye
+		Inner Chaos +Upheaval +Infuriate
+		Inner Chaos +Inner Release +Onslaught
+		Primal Rend +Onslaught
+		Fell Cleave +Onslaught
+		Fell Cleave
+		Fell Cleave
+		Heavy Swing
+		Maim
+		Storm’s Path
+		Fell Cleave +Infuriate
+		Inner Chaos
+		Heavy Swing
+		Maim +Upheaval
+		Storm’s Eye
 
-#### Upheaval
+#### Cursed Prepull IR
 
-Upheaval is just a standard damage oGCD. Use Upheaval on cooldown, it should align with buffs like Inner Release. A good visual cue for using Upheaval is looking at Inner Release’s cooldown timer: it should be used between 59-53 and 29-22 seconds. 
+The cursed tech of “Prepull IR” refers to getting Inner Release on cooldown before the pull has even started.  
+This has some very big downsides, and some very situational up-sides.
 
-In reality Upheaval often lands between 58-53 and 28-22 seconds because the first second of Inner Release is used by Fell Cleave, and at times Upheaval lines up with a GCD so it has to be delayed a bit, making it drift. If Inner Release’s cooldown timer reaches under 22 seconds, replace Upheaval with a single Onslaught to reset Upheaval’s position and stabilize the Beast Gauge. **You should also ALWAYS use Upheaval during Inner Release as it is a free 450 potency during the Inner Release.**
+**Do not use these unless you know what you’re doing.**
+
+The main reasoning for the opener is to get IR on cooldown faster, gaining extra uses before specific fight phases.  
+An example of this would be a heavy-padding Zodiark Extreme, where the aim is to get Inner Release for the Orbs phase.
+
+Pull timers are:
+
+
+	IR at -00:09s
+	Potion at -00:02s
+	Pull at 00:00s
+
+The previews have been removed to force the reader to read the text above, before clicking random links on the internet.
+
+**-9s IR into Eye**  
+[Prepull IR into Eye](https://cdn.discordapp.com/attachments/583965306071023616/925063725193527306/unknown.png)
+
+**-9s IR into Tempest**  
+[Prepull IR into Tempest](https://cdn.discordapp.com/attachments/583965306071023616/926221989377609798/unknown.png) 
+
+
+**-29s IR into Rend**  
+[Prepull IR into Rend](https://cdn.discordapp.com/attachments/583965306071023616/939467751079161877/unknown.png)  
+
+We expect you to do your own adjustments for any fight-specific needs. There is no support for these openers.
+
+
+
+
+### Rotation
+
+The Endwalker Warrior rotation is mostly a priority system with some flexibility baked in. The short version can be summarized as follows:
+
+* Keep hitting things
+* Keep the buff up
+* Don't overcap on buff
+* Storm's Path to gain more gauge
+* Don't overcap gauge
+* Keep Upheaval on cooldown
+* Keep Inner Release on cooldown
+* Keep Onslaughts ticking (below 3 stacks)
+* Keep Infuriate ticking (below 2 stacks)
+* Burn gauge/stacks inside party buffs
+
+That’s a lot of things that you might not know about, so we’ll break it into their own sections.
+
+#### Combos and breaking them
+* Thanks to Endwalker, dropping a combo is really difficult now.
+* Combo actions last 30 seconds before dropping.
+* You can use Tomahawk and Gauge spenders between combo pieces.
+* The only way to break the combo is to use a GCD from another combo, or to use the same combo GCD twice, or to use an earlier combo piece.
+
+#### Surging Tempest - The Buff
+* +10% damage buff that we keep up.
+* Granted by Storm’s Eye combo, or Mythril Tempest combo
+* Aim to refresh between 7-15 seconds.
+* Stacks up to 60s. Use this to your advantage in fights with forced downtime.
+* Inner Release gives +10s to the buff. Keep this in mind when refreshing your buff.
+
+#### Storm's Path and Storm's Eye
+* Use Storm's Eye combo to get the buff up.
+* Use Storm's Path combo to get more gauge.
+
+#### Beast Gauge
+* Used for Fell Cleaves and Inner Chaoses.
+* Don't throw the gauge away, try to spend it inside party buffs.
+* Don't overcap. Using Storm's Path at 90 gauge gets you to 100 gauge. You can't have 110 gauge.
+* Spend all of your gauge inside party buffs. Gather gauge between party buffs.
 
 #### Onslaught
-
-Warriors’s very own gap closer. Onslaught has a short ten second cooldown, making it almost always available as long as you have 20 Beast Gauge. Intended use is for closing gaps to increase your uptime and thus Onslaught should be used that way. **You should also ALWAYS use Onslaught during Inner Release as it is a free 100 potency skill during the Inner Release.**
-
-Onslaught comes with a priority system:
-
-1. Use it as a gap closer to increase your uptime.
-2. Use within Inner Release.
-3. Use to manipulate your Beast Gauge according to the fight.
-4. Use at the end of the fight, if you have less than 50 gauge and Upheaval is on cooldown.
+* Very useful as a Gap Closer, meaning that we can stick to the boss even when knocked back.
+* We can stack up to three of them. They're on a 30s timer.
+* We can do some fancy optimization around party buffs!
+* With the current party buffs being mostly 120s, we aim to do 3-1 cycles of Onslaughts.
+* Three Onslaughts into the opener, One Onslaught while waiting for the buffs to come up again.
+* Repeat 3-1, 3-1. Three inside even minute buffs, One inside odd minute buffs if available.
+* Don't let them sit on full stacks for long. That's DPS loss.
 
 #### Infuriate
+* We get two stacks, on a 60s timer.
+* Unlocks Inner Chaos for 30 seconds.
+* Spend them in party buffs. That's what they're for.
+* It is possible to carry the Inner Chaos for 30 seconds. Do not drop it.
 
-In Shadowbringers, Infuriate now grants Nascent Chaos, a buff which enables Inner Chaos, which is an upgraded 920 potency Fell Cleave (and  Chaotic Cyclone which is upgraded Decimate) with guaranteed Crit and Direct Hit. You can also store two charges of Infuriate which allows you to sit on a charge for Trick Attack while still running down the cooldown on the other charge. **You should always try to aim for one Infuriate inside Trick Attack**, often you’ll even be able to get two since you’ll be reducing the CD of Infuriate by doing Fell Cleaves or Inner Chaoses inside Trick Attack.
-
-General guidance for Infuriate: 
-
-1. Use during the opener.
-2. Use during Trick Attack.
-3. Use before second charge accumulates.
-4. DO NOT use during Inner Release.
-5. DO NOT use before Inner Release, unless you can Inner Chaos/Chaotic Cyclone before Inner Release activation.
-
-## Utility
+#### Upheaval
+* Should be used on cooldown. It's on a 30s timer, meaning that it should hit every party buff.
+* As long as those buffs are up every 60/120 seconds, that is.
+* Doesn't matter if it's inside Inner Release or not, as IR only affects Weaponskills now.
 
 #### Inner Release
+* Our "Free Fell Cleaves" button.
+* Using ANY GCD (except Rend) spends the stacks. We get three stacks, no more. Stacks last for 15 seconds.
+* Having a single Stack lets us negate Knockbacks.
+* Inner Release should be used **ONLY** on **Fell Cleaves**, or **Decimates**.
+* Do not use Inner Chaos inside Inner Release. Unless the fight is about to end.
+* Do not use Infuriate inside Inner Release. Unless the fight is about to end.
+* Use IR on cooldown. Unless the fight downtime would waste it.
 
-This button will make all your damage be Critical Direct Hits. This button will make your Beast Gauge actions cost zero gauge. And this button also will prevent you from suffering Stun, Sleep, Bind, Heavy and Knockback effects. It is the single most important ability we have in our toolkit. Every Warrior should know how to use it wisely.
-Each Inner Release window lasts ten seconds and should contain seven Beast Gauge actions: five GCDs and two oGCDs. **NO EXCEPTIONS.**
+### Area of Effect
 
-For 1-2 targets:
+Area of Effect refers to using skills that hit multiple targets in one go. The AoE skills themselves have a lower potency than Single target skills.   
+So what’s the big deal?
 
-![Inner Release 1-2](https://cdn.discordapp.com/attachments/752334526449057853/884757272780214272/unknown.png)
+For Endwalker Warriors, the options are pretty clear-cut.  
+At Lv90, the AoE rotation for Warriors is more effective than Single target rotation if there are 3 or more targets to hit.
 
-For 3+ targets:
+Here’s a nice table comparing various skills and combos, and their effective potency at different situations.
 
-![Inner Release 3+](https://cdn.discordapp.com/attachments/752334526449057853/884757299846074438/unknown.png)
+![AoE effectiveness](https://cdn.discordapp.com/attachments/583965306071023616/926218374885806140/unknown.png "AoE effectiveness")
 
-To correctly perform this, each Inner Release must be executed in the 2nd oGCD slot of the GCD. If not done in the 2nd oGCD slot, you have a chance to miss the 5th GCD skill and lose a good amount of potency as a result. **Check the picture below for a good moment to activate your Inner Release.**
+That’s a bunch of numbers, and Warriors are known to be bad at reading, so let's summarize:
 
-![Inner Release Moment](https://cdn.discordapp.com/attachments/752334526449057853/884757552640974879/unknown.png)
+Three or more targets available?
+* Overpower + Mythril Tempest
+* Decimate or Chaotic Cyclone
+* Orogeny
 
-## Enmity Manipulation
+Two or less targets available?
+* Storm’s Eye / Storm’s Path
+* Fell Cleave or Inner Beast
+* Upheaval
 
-#### Defiance
 
-Defiance is your Tank Stance. It will multiply the enmity you generate by a factor of ten. So, just by having the Defiance buff active, you will generate as much enmity as ten people combined. It simplifies the enmity management for tanks. Simply speaking - **if you are tanking the boss, you have Defiance active.**
-As a counterpoint, hitting a target you’re not supposed to hit, while in Defiance, will probably make you hold that target for a long time. This applies to certain fights with additional targets.
 
-#### Provoke
 
-Provoke is your go-to tool for grabbing the aggro. Patch 5.0 changed how Provoke works and currently each cast first places you on top of the enmity list and then adds a fixed amount of about 38,000 (380,000 in Defiance) points of enmity (for lvl 80 ilvl 430 Warrior). Makes the tank swapping process a breeze.
 
-#### Shirk
 
-Shirk is the opposite of Provoke. Using Shirk on a party member will transfer 25% of your enmity points to the party member. That 25% of enmity from Monsters A and B will be transferred to the party member’s Monster A and B enmity pool, respectively, effectively lowering your own enmity by 25%.
 
-#### Enmity values
 
-As of Patch 5.0, most of the tank skills have gotten an Enmity adjustment. 
 
-This guide doesn’t include information about enmity control and damage mitigation as it is seen as a general tanking skill rather than specific to Warrior. The [General Tanking Guide](https://drive.google.com/open?id=1cLIQbPzzWg-IWxo_Myom-_9aSqf7xO4vxmhk6QaLPkM) by Aletin goes over these topics in detail, telling you how things work and how to properly manage each tool individually and as a whole set.
+## Getting Advanced
 
-For a more in-depth look on Enmity Values for lvl 80 ilvl 444 BiS Warrior,  you can check this enmity table.
+That’s it for the very basics. Now, you might feel like Warriors haven’t got a lot of optimization going on, and you’d be right.  
+However, there are some tricks in our sleeves that can be used.
 
-![Enmity Table](https://cdn.discordapp.com/attachments/752334526449057853/884758084306735124/unknown.png)
+### Beast Gauge
 
-NOTE: 
+Warrior's gauge should not be spent willy-nilly. There must be a reason for using the gauge.
 
-* Variable abilities will have VARIABLE damage (example: Heavy Swing will be 4000-4400 damage) and as a result will have VARIABLE enmity values during the fight. It will cause +/- 5% difference with enmity values in the table.
-* Fixed abilities will have FIXED enmity values.
-* Damage buffs, Critical Hits and Direct Hits will change the output of abilities and as a result will change enmity values (example: Storm's Eye buff will increase your damage by 10% and as a result enmity will be increased by 10%). 
-* Provoke takes damage buffs into consideration as well.
+A couple of rules to mention first:
+* We cannot reach >=110 gauge. This will be referred to as "overcapping".
+* Maim gives +10 gauge.
+* Storm's Path gives +20 gauge.
+* Storm's Eye gives +10 gauge.
+* Surging Tempest cannot reach >60 seconds. This, too, will be "overcapping".
+* Infuriate gives +50 gauge.
 
-\* Critical Direct Hit effect is omitted for comparison purposes.
+With those rules in mind, we want to maximize our Beast Gauge generation, as our main sources of damage are locked behind Beast Gauge.
 
-\*\* Storm's Path doesn't generate extra enmity via HP recovery effect.
+#### Avoiding overcapping:
+* Do not use Storm's Path at 90-100 gauge. Fell Cleave first.
+* Do not use Infuriate at 60-100 gauge. Fell Cleave first.
+* Do not use Storm's Eye at >31 buff timer. Use other GCDs first.
 
-\*\** Sets your enmity equal to the highest enmity and adds fixed amount on top.
+Some exceptions exist, but if you're reading these notes, you might not know any yet. These are often fight-specific.
 
-\*\*\*\* Shirk instantly transfers 25% of your current enmity to the party member.
+You may want to consider emptying your gauge as much as possible, before using Infuriate.  
+This will let you use Infuriate, and carry the Inner Chaos into a later moment. More about this slightly later in this same section, under “Carrying Buffs”.
 
-\*\*\*\** Defiance adds x10 enmity multiplier to all your skills. Applies to itself. 
+#### Using Beast Gauge
 
-## Mitigation and Recovery
+Beast Gauge does not expire. This means that we can stock up for party buffs, and empty it all once there are buffs to take advantage of.  
+You may feel compelled to use that 50 gauge on a Fell Cleave as soon as possible. As mentioned above, there is no reason to do so.  
+You often lose out on free damage that could've been gained by saving that Fell Cleave for buff windows.
 
-#### Holmgang
+You should avoid overcapping as much as possible. This is achieved by using single Fell Cleaves every time your next GCD would make you overcap on your gauge.  
+  
+Sitting at 100 gauge, and the next combo GCD is Maim/Path/Eye?  
+Better Fell Cleave first.
 
-Holmgang prevents you from dropping below one HP for eight seconds for most attacks, it doesn’t ignore damage. Could be used on a target to Bind the target in place for the duration of the Holmgang or it could be used without the target. It’s pretty much a “survive anything” button, with few exceptions. 
-Time your Holmgang well and be careful when using Holmgang for multi-hit tank busters. Its duration is eight seconds. To get the most out of it, you want to use it at the very end of the tankbuster cast. It activates much faster than Living Dead and Hallowed Ground, so don’t worry about animation delay screwing you over. As long as you use Holmgang before the damage is taken, it will work, even if the damage has already snapshotted before you pressed it. This is because Holmgang prevents you from dropping below one HP, it doesn’t ignore damage like Hallowed or Superbolide which is why they must be used before the damage is registered. 
-**As of Patch 5.0, Holmgang’s effect wears off if the bound target dies.** This puts Warriors at risk, especially in big AoE pulls in dungeons when the targeted monster dies and cuts Holmgang short. 
+#### Inner Release and Infuriate timer
 
-To avoid this, use a macro that doesn’t use a target:
+It is beneficial to avoid hitting two full stacks of Infuriate, as to gain the full advantage of the timer ticking.  
+Therefore, we may run into moments where our Infuriate would hit two stacks during Inner Release.  
 
-```
-/merror off
-/ac Holmgang <me>
-/ac Holmgang <me>
-/ac Holmgang <me>
-/ac Holmgang <me>
-/ac Holmgang <me>
-/ac Holmgang <me>
-/ac Holmgang <me>
-/ac Holmgang <me>
-/ac Holmgang <me>
-/ac Holmgang <me>
-/ac Holmgang <me>
-/ac Holmgang <me>
-/ac Holmgang <me>
-/micon Holmgang
-```
+To avoid hitting 2 stacks of Infuriate, we will do the following maths:
+* Inner Release lasts for 3 GCDs (2.50s each) => 7.5s
+* Each Fell Cleave pushes the timer forward by 5 seconds => 15s
+* A total of 22.5s
 
-This macro activates Holmgang by targeting yourself. For raids try to avoid using the macro as its activation isn’t 100% accurate due to how the game works.
+Having over 50 gauge pushes this timer forward by yet another GCD, that would be Fell Cleave. A total of 30s.  
+As a note, this math expects that a single Fell Cleave pushes the Infuriate timer by 7.5 seconds (2.5s GCD + 5s Infuriate Trait)
 
-#### Vengeance
+So, to avoid hitting two Infuriate stacks during Inner Release, the following timers apply
 
-Vengeance is the heaviest mitigation tool in Warriors’ kit. A -30% mitigation and a Thorns effect that delivers an attack with 55 potency every time the Warrior is hit by physical damage, for 15 seconds at a 120 second recast timer. Great in AoE pulls in dungeons, even better for mitigating hard-hitting tank busters.
+		<=50 gauge?
+		Infuriate should be >22 seconds away.
 
-#### Rampart
+		>=60 gauge?
+		Infuriate should be >30 seconds away.
 
-Rampart is your +20% mitigation for 20 seconds, on a 90 second recast timer. Overall, it’s good for AoE pulls in dungeons and mitigating heavy incoming damage spikes in raids.
 
-#### Thrill of Battle
 
-Thrill of Battle gives +20% to Maximum Health and restores the amount increased. Additionally, it increases HP recovery via healing actions on self by 20%. **It does NOT increase the healing done by Nascent Flash, but it does affect
-Equilibrium.** Ten second duration on a 90 second timer.
 
-#### Equilibrium
 
-Equilibrium is a 1200 potency self-heal for Warriors on a 60 second cooldown. The healing is buffed during Thrill of Battle by 20%. Useful for recovering from tank busters or helping the healers to keep you alive.
 
-#### Raw Intuition
 
-Raw Intuition is a -20% mitigation tool for six seconds. As opposed to Stormblood (patch 4.x), getting hit from the back or sides no longer results in Critical damage. Good for tank busters, especially when paired with other cooldowns when required. However, it does share the recast timer with Nascent Flash, so you can’t have both active at the same time. See optimization section on “Nascent Flash vs Raw Intuition”.
 
-#### Nascent Flash
+### Stacking Cooldowns
 
-Nascent Flash heals the Warrior for ~50% of the damage dealt, and the party member for 25%. It also reduces damage taken by a party member by +10%. The healing is not affected by Thrill of Battle. Very much overpowered in AoE pulls in dungeons where you can land AoE damage on multiple targets, and can be a heal well over 40k in total. However, it does share the recast timer with Raw Intuition, so you can’t have both active at the same time. See optimization section on “Nascent Flash vs Raw Intuition”.
-Here is a handy macro to activate Nascent Flash:
+Most of the game can be solved by stacking cooldowns in such a way that our “Survivability” increases by ~35%.
 
-```
-/merror off
-/ac "Nascent Flash" <mo>
-/ac "Nascent Flash" <mo>
-/ac "Nascent Flash" <mo>
-/ac "Nascent Flash" <mo>
-/ac "Nascent Flash" <2>
-/ac "Nascent Flash" <2>
-/ac "Nascent Flash" <2>
-/ac "Nascent Flash" <2>
-/ac "Nascent Flash" <2>
-/ac "Nascent Flash" <2>
-/ac "Nascent Flash" <2>
-/ac "Nascent Flash" <me>
-/ac "Nascent Flash" <me>
-/micon "Nascent Flash"
-```
+Consider the following situation:
 
-The macro runs through 4 lines of “mouse-over”, targeting anyone under your cursor. If there’s no one under your cursor, it will pass these lines. The next lines (<2>) target the second person in YOUR party list, which is 99% of the time your co-tank (or a healer in non-two-tank content). If the second party member is dead, these lines will pass without actions. The last two lines attempt to cast the skill on yourself to avoid skipping using the skill altogether. 
+		Tank buster will hit for 100% of our HP.
+		Warrior has all their cooldowns available.
+		Thrill of Battle is used. Warrior’s MaxHP is now 120%.
+		Rampart is used. Tank buster now hits for 80% of the original.
 
-Nascent Glint buff on that party member. If you don’t have a party member under your mouse, it will apply Nascent Glint buff on the second member of your party list (usually the 2nd tank). This does not apply to Chocobos, for some reason… Use `/ac "Nascent Flash" <b>` instead, if you want to help your loyal fighting buddy!
 
-#### Shake It Off
+The gap between the new MaxHP and the new Tank Buster is now “40%”.
 
-Shake It Off is the party-shielding tool for Warriors. Using Shake It Off consumes any active Thrill of Battle, Vengeance or Raw Intuition buffs. The base value of the shield is 12% of the party member’s maximum health, with +2% additional shielding for each buff consumed. At most, the shield can be 18% of the party member’s maximum health. There are times when buffing Shake It Off is a good idea, but **consuming defensive cooldowns just to buff a 15 second shield by +6% isn’t usually worth it.**
+While maths does not work this way exactly, it’s good enough to paint a mental image of the survivability increase.
 
-#### Reprisal
+![Cooldowns vs Buster](https://cdn.discordapp.com/attachments/937834268950925433/947118361198854175/unknown.png "Cooldowns vs Buster")
 
-Reprisal is simply a wide mitigation tool, which lowers the targets’ damage dealt by 10% for the next ten seconds at a 60 second recast timer. Good for raid-wide damage or additional tank buster mitigation, if there’s no better use for it in the next 60 seconds. It’s also an AoE skill, meaning that you can Reprisal multiple targets at once!
 
-#### Arm’s Length
+As another example, consider Bloodwhetting + Rampart.
 
-Arm’s Length is a tricky one. Its main purpose is to prevent a single knock-back in the six seconds it is active, but when used in AoE pulls in dungeons, it increases cast time, recast time and auto-attack delay of any monster by 20% for 15 seconds when hit. Great for slowing down the incoming damage from multiple targets.
 
-## Cast Interruptions
+		Tank buster for 100% of MaxHP.
+		Rampart reduces it down to 80%.
+		Bloodwhetting reduces that down to 64,8%
+		100 x (1 - 0.2) x (1 - 0.19)
+		= 100 x 0.8 x 0.81 \
+		= 80 x 0.81
+		= 64.8
 
-#### Interject
+The original tank buster of 100% now hits for 64.8% -- a reduction of 35.2%.
 
-Interrupts the use of enemy actions highlighted with red-blinking cast bar.
+#### Usual Sets of Cooldowns
 
-#### Low Blow
+As for practical uses, we assume a good use of the Bloodwhetting - Granting us a total of 19% mitigation for 4 seconds.
 
-Stuns the target for five seconds. **DOES NOT** interrupt the use of enemy actions highlighted with red-blinking cast bar.
+##### Sets of 2
 
-- - -
+		Bloodwhetting + Thrill of Battle
+		Bloodwhetting + Rampart
+		Bloodwhetting + Vengeance
+		*Bloodwhetting + Reprisal
 
-# The Openers and Rotation
+##### Sets of 3
 
-All right, now let’s use all this knowledge we’ve gathered and discuss how, when and why to use the abilities we have.
+		Bloodwhetting + Thrill of Battle + Rampart
+		Bloodwhetting + Thrill of Battle + Vengeance
+		*Bloodwhetting + Reprisal + Rampart
+		*Bloodwhetting + Reprisal + Vengeance
+		*Bloodwhetting + Reprisal + Thrill of Battle
 
-## Opener Optimization
+##### Sets of 4
 
-At present there is only a single worthy opener for Warriors, mainly because we want to get Inner Release on cooldown as soon as possible to maximize its usage, and because we can fit an extra Fell Cleave inside the potion by abusing Inner Release’s +15s Eye extension mechanics.
+_also known as Kitchen Sink**_
 
-#### IC IR IC IC Opener
+		Bloodwhetting + Thrill of Battle + Rampart + Vengeance
+		*Bloodwhetting + Reprisal + Rampart + Vengeance
+		Just Holmgang at this point, honestly.
 
-![IC IR IC IC Opener](https://cdn.discordapp.com/attachments/752334526449057853/884760228699189309/unknown.png)
+Anything with a Reprisal* in them is considered _very situational_, and should be used with care.  
+If you’re using Reprisal to survive a tank buster, remember that it might be down for the next raidwide damage.  
 
-IC IR IC IC opener takes advantage of the potion’s whole duration, landing in three Inner Chaos, two combo finishers, a Fell Cleave and all the important oGCDs.
+Other sources of 10% mitigation exist, such as Exaltation on Astrologians.
 
-Nascent Flash makes sure that you are using Inner Release in the second oGCD slot between GCDs, and that it lines up with Upheaval. You can use Nascent Flash later on if you wish to cover any fight damage that comes up a few GCDs later compared to the opener.
+_Kitchen Sink comes from the idiom “Everything but the kitchen sink”._  
+[What does "Everything but the Kitchen Sink" mean?](https://dictionary.cambridge.org/dictionary/english/everything-but-the-kitchen-sink)  
+_We are throwing **everything** at the problem._ 
 
-If you are facepulling, move the Infuriate forward by a GCD, right after Heavy Swing.
 
-Defiance and Tomahawk is enough to keep an enmity lead if you are main tanking. 
 
-Equilibrium and Provoke can be used during the opener for a flat increase in enmity if you are pulling the boss and will keep Main tanking the boss after the pull. As mentioned earlier, as of patch 5.0 Defiance and Tomahawk provides enough enmity and it is better to use Equilibrium for healing and Provoke for tank swaps.
 
-## Rotation Optimization
 
-The basic rotation in a 100% uptime scenario is generously put a priority list:
 
-* Keep Storm’s Eye up and refresh it below 15 seconds.
-* Keep Upheaval on cooldown.
-* Keep Inner Release on cooldown (fight-dependent).
-* Hit five Fell Cleaves, one Upheaval and one Onslaught inside every Inner Release.
-* Don’t overcap the Beast Gauge.
-* As a rule of thumb, use Fell Cleave only after 70 Beast Gauge.
-* Use Storm’s Path to gain as much Beast Gauge as possible.
-* Aim to use Infuriate and Inner Chaoses inside party buffs.
-* Aim to keep Infuriate below two stacks at all times.
 
-The main goal for your rotation should be to maximize Storm’s Path casts and Storm’s Eye uptime.
 
-With the combo timer being extended to 15 seconds, combos can carry over Inner Release. This means that after using Heavy Swing or Maim, it is possible to fit five Fell Cleaves before continuing the combo. However, it is easy to drop the combo by using Inner Chaos or an extra Fell Cleave right before or after Inner Release.
+## The Optimization
 
-#### Why Fell Cleave only after 70 gauge?
+Warrior Optimization focuses on manipulating the Surging Tempest buff refreshes, and “Carrying buffs” such as Nascent Chaos and Primal Rend Ready.  
+There’s also the case of pushing out “3 IC Pot” windows, and “2 IC Tricks”.
 
-This rule is mostly for new Warriors, to ensure that they always have enough Beast Gauge for Upheavals. After you get a hang of the basics and party buffs, feel free to burn that gauge inside buffs. Hitting zero Beast Gauge is bad practice only if it delays Upheaval, or if it was spent in vain.
+### Surging Tempest 
 
-#### Upheaval
+Using Storm’s Eye or Mythril Tempest in a combo grants us 30 seconds of the Surging Tempest, buffing all of our damage by 10%.  
+This buff can be stacked up to 60s, giving us some breathing room for various optimization reasons.
 
-Upheaval should be used inside Inner Release, and twice outside of Inner Release. The general rule regarding Upheaval usage is that you should NOT use it if Inner Release’s cooldown is at 22 seconds or below, as it would not fit inside the buff. In these cases, replace the Upheaval with an Onslaught to keep your Beast Gauge on track. A good visual cue for using Upheaval is looking at Inner Release’s cooldown timer: it should be used between 59-53 and 29-22 seconds. 
+While Warriors often aim to refresh the buff between 7 and 15 seconds, there are moments when it’s desirable to refresh right after the buff hits 30 seconds.  
+These moments include Fight Downtime, and manipulating our gauge in a very minor way.  
+For example, using Storm’s Eye combo twice in a row grants us 40 gauge, but also risks overcapping the buff itself.  
+ 
+In the situation that we would have 50 gauge, or use Infuriate, the total sum of gauge would be at 90.  
+This lets us push Fell Cleave / Inner Chaos further:
 
-![Upheaval image](https://cdn.discordapp.com/attachments/752334526449057853/884761036014645308/unknown.png)
+		Heavy Swing (90g)  
+		Maim (100g)  
+		Fell Cleave / Inner Chaos (50g) 
 
-In reality, Upheaval often lands between 58-53 and 28-22 seconds because the first second of Inner Release is used by Fell Cleave, and at times Upheaval lines up with a GCD so it has to be delayed a bit, making it drift.
 
-#### Onslaught
+For comparison, using Storm’s Eye and Storm’s Path combo grants us 50 gauge. 
+This would change the situation above slightly, as we would hit 100 gauge earlier, forcing us to use Fell Cleave or Inner Chaos.
 
-The tool to manage our gauge amidst fight mechanics and timings. 
-A general rule for Onslaught usage is to use it when you would miss GCDs otherwise due to mechanics forcing you to disengage.
+Some fights also favour stacking up 30+ seconds of Surging Tempest right before any downtime occurs.  
+This would let us skip getting the buff back up once the boss reappears, giving us the option of using Inner Release right off the bat.
 
-#### Infuriate
+The gauge gained from Storm’s Path is quickly outvalued by being able to use Inner Release faster, making it possible to gain an extra use before the fight ends, or before yet another downtime.  
+Or you know, having our burst right inside the party buffs, instead of being delayed by the GCDs you’d use to put up the Surging Tempest.
 
-Infuriate should rarely hit two stacks. To ensure as many casts as possible, we want to take advantage of the Infuriate’s cooldown timer by keeping it ticking constantly. There are exceptions to this rule, such as pushing as much gauge as possible into Trick Attacks and thus saving the stacks, but in general the stacks should hover between zero and one, and the timer should stay active.
+### Carrying Buffs
 
-Another thing to avoid completely is using Infuriate right before Inner Release, or during it. Infuriate activates Nascent Chaos, which opens up Inner Chaos and Chaotic Cyclone, they always Crit Direct Hit, and using those skills inside Inner Release is a waste, because using GCD spenders inside the buff consumes Nascent Chaos. If necessary, delay Inner Release by a GCD and consume the Nascent Chaos through Inner Chaos or Chaotic Cyclone, then use Inner Release. There are exceptions to this, but they’re all fight-dependent (for example, Perfect Alexander opener to maximize your damage before taking a jail).
+With Inner Release'd Fell Cleaves being less impactful than Primal Rend and Inner Chaos, it may sometimes be worth it to carry these big hitters into a later moment.
 
-#### Nascent Flash vs Raw Intuition
+Using Inner Release unlocks Primal Rend for 30 seconds. If the fight favors using Inner Release early, but Party buffs are coming up later, you may want to carry that Rend into the buffs. A moment like this would be when the fight makes us use Prepull IR openers, but the party buffs still came up at the usual time.
 
-Assuming that one potency is 29 damage and NFlash heals us for 48%, and the co-tank is healed for 50% of that initial 48%. Leaving Onslaught out of the normal windows, but including it in IR windows.
+Emptying the Beast Gauge and using Infuriate puts us anywhere between 50 and 90 beast gauge. This lets us carry Inner Chaos into a slightly later moment, when party buffs would be up. 
 
-Worst case is a single combo without buffs, and a single auto-attack.
-Best case scenario is Eye-buffed two Inner Chaos, Fell Cleaves, Upheaval and two auto-attacks.
-Usual scenario is Eye-buffed Maim, a /combo-finisher, Upheaval, Fell Cleaves and a single auto-attack.
-Inner Release window is Eye-buffed Upheaval, Onslaught and three Fell Cleaves.
+Be mindful about the gauge, as you don't want to overcap; unless you know what you're doing, in which case why are you reading this?
 
-Spreadsheet used for the results below can be found [here.](https://bit.ly/XIV530Nascent)
+Regarding Inner Chaos and Infuriate, it is possible to hit the following rotational milestones:
 
-![Spreadsheet](https://cdn.discordapp.com/attachments/752334526449057853/884760633256583220/unknown.png)
+* Infuriate has one stack, and ~15 seconds until the second stack
+* We have 100 gauge
+* Even-minute buffs are coming up
 
-As the table above shows, Raw Intuition has to either cover you from a certain death or mitigate ~54k damage on its own to be worth more than Nascent Flash in the usual scenario.
+These milestones would let us empty our beast gauge, hit Infuriate, and carry it until party buffs.
+* Empty the gauge (0g), Infuriate hits close to 0s
+* Hit Infuriate (50g - 90g), Inner Chaos is unlocked
+* Gather more gauge with Storm’s Path, or refresh the buff
+* Keep gathering gauge while carrying the Inner Chaos
+* Make sure to take advantage of Heavy Swing not giving any gauge
+* Spend the Inner Chaos, hopefully inside Party buffs
 
-- - -
+Congratulations, you just carried Inner Chaos for multiple GCDs.
 
-# Stats, Itemization and BiS Theory
+### Potions
 
-With access to the information we know now, utilizing community tools such as the current [Tank DPS calculator](https://bit.ly/TankDPSCalc520) allows us to more accurately determine what gear and melds should be used.
+Warriors have a couple of tricks up their sleeve when it comes to potions. Three is more than Two, but there are things to consider.
 
-For Stat Tiers, refer to [TheoryJerks/AkhMorning’s website.](http://theoryjerks.akhmorning.com/stats/speed/)
+Depending on the kill time and fight downtimes, Warriors aim for the following Potions:
 
-## Melding priority
+#### Three Potion Windows:
 
-Crit > Comfy SkS > Det > Ten
+	Prepull Window:
+		-00:02 Potion
+		00:00 Pull
+		04:30 Potion
+		09:00 Potion
 
-Direct Hit is avoided altogether because of how Inner Chaos and Inner Release work: Direct Hit has no effect in either of those.
 
-Currently “Supported” **Skill Speed Tiers**
+	Standard Window:
+		00:00 Pull
+		00:05 Potion
+		04:35 Potion
+		09:05 Potion
 
-* 1015 for 2.43 GCD - Highest DPS, but requires some planning.
-* 1117 for 2.42 GCD - Some breathing room compared to the one above.
-* 1523 for 2.38 GCD - Your average Warrior skill speed.
-* 1624 for 2.37 GCD - Some breathing room for mechs and clipping.
-* 1726 for 2.36 GCD - "Greeding Mechanics" levels of comfy.
+#### Two Potion Windows:
 
-The difference between 2.43 GCD and 2.38 GCD is a single weapon skill between Inner Releases:
+	Prepull into 6 Min:
+		-00:02 Potion
+		00:00 Pull
+		06:00 Potion
 
-Inner Release’s recast: 90 seconds
- <br> Weapon skill timer: 2.43 seconds or 2.38 seconds
+	Standard into 6 Min:
+		00:00 Pull
+		00:05 Potion
+		06:00 Potion
 
-Total amount of Weapon skills per 90 seconds:
+The Two Potion Windows can be extended to Three Potion Windows by using the third one at 10:30 or 11:00.
 
-90s / 2.43 = 37.037… which translates into 37 full Weapon skills
- <br> 90s / 2.38 = 37.815… which translates into 38 full Weapon skills
+Note:
+Talk with your party regarding your potion timings. Some jobs and fights favour different timings.
 
-- - -
 
-# Additional Resources
+### 3 IC Potions
 
-## Guides:
+This section requires more research.
 
-[Beginner's Tank Guide](https://docs.google.com/document/d/1cLIQbPzzWg-IWxo_Myom-_9aSqf7xO4vxmhk6QaLPkM)
-<br> Visit for basics of tanking. 
 
-[Paladin Primer](/jobs/tanks/paladin/basic-guide/)
-<br> Visit for shield wielding tips. 
 
-[Gunbreaker Primer](/jobs/tanks/gunbreaker/basic-guide/)
-<br> Visit for gunpowder blasting tips. 
 
-## Websites:
 
-[The Balance Discord](https://discord.gg/thebalanceffxiv)
-<br>Visit for chat and questions. 
+### 2 IC Trick Attacks
 
-[TheoryJerks/AkhMorning](http://theoryjerks.akhmorning.com/stats/speed/)
-<br>Visit for stat intervals and formulas. 
+This section requires more research.  
 
-## Miscellaneous:
+[FFLogs parse for the image below](https://xivanalysis.com/fflogs/vLgXHM7wyjZYNAPd/16/193) 
 
-#### How do Macros work?
+![alt_text](https://cdn.discordapp.com/attachments/937834268950925433/947119620618338385/unknown.png "2IC Tricks")
 
-Filling up all the slots with repeating lines sort of simulates queuing.
-The real reasoning is that *macros read one line per each in-game frame.* If the macro tries to execute an action while in animation lock (from another action, for example), it has no effect.
 
-* Frame 1: /merror off
-* Frame 2: /ac "Nascent Flash" <2>
-* Frame 3: /ac "Nascent Flash" <2>
-* Frame N: ...
 
-So when you repeat the action inside the macro, you stretch the action activation window. Instead of a macro that has a single frame where it attempts to use an action, you have a macro with 13 frames of attempts. This gets around the issue of "Animation Lock vs Macros" where you might not be able to use a skill because of the Animation Lock.
 
-Macro targets:
-<https://ffxiv.consolegameswiki.com/wiki/Macro#Targeting_Placeholders>
 
-- - -
 
-# Acknowledgment
 
-## Authors:
+## Disrespecting mechanics
 
-Mox Xinmagar 	(Mox#0007)
+Since the beginning of FFXIV, the game has worked on simple boolean logic checks.
 
-Glu Kos		(Glukos#1104)	
+		Player 1 took damage? Give them a debuff.
 
-Sizzy Twintails	(Sizouney#4484)
+Not all fights work like this, but a good handful of them do. This lets us disrespect some mechanics that would force us to disengage from the boss.
 
-## Special thanks to:﻿
+The main check that the game uses is “Loss of Health”, or “Mechanic’s Damage Done was >0”. This means that mitigating a hit by 100% often works wonders.  
+Shame that Warriors don’t have Superbolide or Hallowed Ground. So what are our options then? Shields.
 
-Aletin Ves’ser 	(Aletin#3164)
-For the [PLD guide](https://docs.google.com/document/d/1JY2t2GvNaNnQhZ5Isp-HIso2JgGMY6WXk5IGAY2v8AU) that was cloned, slaughtered and modified to make this guide.
+Shake It Off and Bloodwhetting both offer shields to Warriors.  
+If we were to mitigate a hit enough so that it only scratched our shields, we would “Zero Out” the entire mechanic, and most likely any debuffs that come from it.  
+Endwalker’s first raid tier, Pandaemonium, comes with a fight that lets us do just that.  
+There have been similar opportunities before, but we’ll use a more relevant example here.  
+  
 
-Sierra Lindfeldt 	(kat#0069)
-For the original layout of GNB guide which had its contents gutted multiple times.
+Towards the midway point of the fight, the entire party gets to handle a mechanic where everybody has to sit tight inside a tiny safe square, while also managing a Stack Hit, and two Knockback Hits.  
+The two Knockback Hits are always on a Tank, and a DPS. The usual way to handle this is to have the entire party right next to the boss, while the DPS player hides in the corner of the arena, and the tank hides in another corner of the safe area.
+
+Not being in the safe area means getting hit by the Cataract mechanic, which gives a Damage Down debuff if the player takes damage from it.  
+_IF the player takes damage from it…_
+
+### Zero Out the P2s Cataract
+
+Doing the maths for NOT taking any damage from Cataract, with the following assumptions:
+
+		Cataract hits for 42000 damage
+		Warrior has 80000 MaxHP
+		All cooldowns are available
+
+Cataract hits for 42000
+
+		Rampart mitigates the hit to 33600
+		Vengeance mitigates that to 23520
+		Bloodwhetting mitigates it even further, to 19051
+
+WAR has 80000 HP
+
+		WAR uses Thrill, increasing their MaxHP (80000 x 1.20 = 96000 HP)
+		Shake it Off gives a Shield of 16320 (15% +2% of MaxHP)
+
+Bloodwhetting gives us a ~5k Shield
+
+		Total shield increases to a Shield of 21320 (16320 + 5000)
+
+Moment of Hit
+
+		Cataract (3 CD) reduced to 19051 damage
+		Shake it Off (Thrill'd) gives a Shield of 16320
+		Bloodwhetting’s shield increases the total Shields to a total of 21320
+
+Leftovers
+
+
+		(Shield - Damage) must be >0 to avoid the debuff:
+		= 21320 - 19051
+		= 2269
+
+You just spent 4 CDs to disrespect a mechanic, gaining a GCD or two. On the other hand, you didn't risk wiping the raid for uptime.
+
+_Now take the following Tank Buster solo with Holmgang, because you have nothing else available._
+
+This is something that is actually used in weekly re-clears and speedruns, as it leaves more room for the rest of the party while also letting us stay in and hit the boss. 
+Just don’t get hit by two Cataracts.
+
+
+
+
+
+
+## Wanted: Party Buffs
+
+Warriors are kind of picky eaters when it comes to party buffs and debuffs. We don’t care much for the Critical Rate% buffs such as Chain Stratagem or Battle Litany, or Direct Hit Rate% buffs such as <bard songs, dancer things>, because a good chunk of our kit already has 100% Direct Crit rate.
+
+Inner Chaos? 100% Direct Crit.  
+Primal Rend? 100% Direct Crit.  
+Inner Release’d Fell Cleaves? 100% Direct Crit.  
+
+Nice buffs for Warriors are Damage Increase% buffs such as
+
+		Brotherhood (MNK)
+		Arcane Circle (RPR)
+		Divination (AST)
+		Radiant Finale (BRD)
+		Mage’s Ballad (BRD)
+		Technical Step (DNC)
+		Embolden (RDM)
+		Searing Light (SMN)
+		*Dragon Sight (DRG)
+		*Arcana Cards (AST)
+		*Standard Finish (DNC)
+
+Nice debuffs-on-boss for Warriors are also Damage Increase% debuffs such as
+
+		Trick Attack (NIN)
+
+Nice-but-not-as-nice buffs and debuffs are the Crit Rate% and DHit Rate% changes such as
+
+		Battle Litany (DRG)
+		Chain Stratagem (SCH)
+		Army’s Paeon (BRD)
+		Wanderer’s Minuet (BRD)
+
+_It’s not worth it to list them all here, since a good handful of our kit does not get anything out of these._  
+_*Asterisk buffs are often given to DPS players, but there are times when someone feels like buffing the little Warrior._
+
+
+
+
+
+
+
+## Healing
+
+Warrior is the third healer of the party. 
+With Bloodwhetting, Equilibrium, Nascent Flash and Shake It Off, we are blessed with the responsibilities of saving people who stand in stupid.
+In this section, we will go over the very basics of Warrior Heals.
+
+### Thrill of Battle
+* Affects Storm's Path's healing.
+* Affects Shake it Off's healing.
+* Affects Equilibrium's main heal and the HoT.
+* Does affect the Bloodwhetting's shield.
+* Does NOT affect Bloodwhetting heals.
+* Weird like that
+
+### Bloodwhetting
+* Get 4 GCDs in by popping this in the 2nd oGCD slot.
+* Heals per hit, very powerful in dungeons.
+* May Crit a heal randomly. Luck!
+* Primal Rend, Chaotic Cyclone and Inner Chaos always force a Crit heal.
+* Inner Release'd Fell Cleaves do NOT force a Crit heal.
+* Thrill of Battle does NOT increase the healing from these.
+* Initial mitigation is 19% due to diminishing returns (100 x 0.9 x 0.9 = 81).
+
+### Nascent Flash
+* Goes on a friend
+* Initial mitigation is 19% due to diminishing returns (100 x 0.9 x 0.9 = 81).
+* Gives them the mitigation, much like Bloodwhetting would give to us.
+* Save a friend with this!
+
+### Forcing Crits
+* Inner Chaos and Primal Rend force a Crit heal.
+* This may save a life.
+* Be the healer of the party.
+* Inner Release’d skills do not force a Crit heal.
+
+
+
+
+
+
+## Stats and Gear
+
+Welcome to Endwalker Warrior stats and gearing! 
+Soon you’ll have all sorts of confusion, and question various things you’ve heard in various parts of the Internet!
+
+First things first:
+
+* Warriors are Strength-based. Vitality is nice, but it always walks hand in hand with Strength upgrades. 
+* We don't exactly want Direct Hit because of our skills, which is why Tenacity gives bigger gains. 
+* A single Direct Hit meld may be god-like for that one parse, but on average Tenacity wins out. 
+
+For the God Parse, you will want that one DH meld - because only the BEST parse matters.  
+Statistical averages aren't ranked, only the high-end outliers.
+
+### Universal Stat Priorities
+Weapon Damage >>> Main Stat >>>> Substats.  
+_Very few exceptions have existed before Endwalker._
+
+### Warrior Substat Priority
+_Crit > Det > Tnc_  
+Also applies to Materia Melds.
+
+#### Why is Direct Hit not desirable? 
+Direct Hit as a stat only increases the DH Rate% of the skills, and not the damage.  
+As we have multiple skills that already have baked-in Direct Hit, any DH melds quickly lose value, giving Tenacity a chance to shine (dimly).
+
+#### Skill Speed
+We don’t deliberately avoid Skill Speed, but we don’t prioritize it at all. Maybe only for comfy reasons such as fight phasing or oGCD lineups etc.  
+oGCD lineups referring to situations where our GCD and oGCDs come up at the same time, forcing us to delay one or the other. A rule of thumb is to delay the oGCD in most situations.
+
+#### Why Tenacity?
+Tenacity increases all damage dealt, much like Determination.  
+While it offers some mitigation bonuses, it is often very little and near impossible to observe due to the game already having a 5% variance in incoming damage.
+
+#### Determination vs Tenacity
+To gain +0.1% damage, we need to reach the next breakpoint.  
+We will refer to these +0.1% gains as "tiers".  
+These tiers are separated from each other approximately as follows:
+* 13.57 points of Determination
+* 19 points of Tenacity
+
+To extrapolate from this, it follows that Determination gives us more damage than Tenacity, when limited to an arbitrary amount of stat points.  
+
+If we were to have 2000 points to use on either Determination or Tenacity, we would get:
+* 2000 / 13.57 = ~147 tiers of Det
+* 2000 / 19 = ~104 tiers of Tnc
+
+
+
+
+#### Multi-tank melds
+Do you play other tanks? This would be called “Omni-tanking”.  
+Meld WAR, use DH in non-WAR weapons.  
+Consider melding SkS somewhere if your other tanks need it. WARs don't.  
+Better Omni-tank writeups exist, but they are not a part of this guide.
+
+
+
+
+
+
+
+# Macros
+
+Macros are weird. They are fired off One Line per One In-Game Frame.  
+15 lines of Macro, 15 FPS in-game? That macro is gone in a single second.
+Macros also don’t queue like normal skills do.
+
+Filling up all the slots with repeating lines sort of simulates queuing.  
+The real reasoning is that macros read one line per each in-game frame.  
+If the macro tries to execute an action while in animation lock (from another action, for example), it has no effect.
+
+		Frame 1: /merror off
+		Frame 2: /ac "Nascent Flash" <2>
+		Frame 3: /ac "Nascent Flash" <2>
+		Frame N: ...
+
+So when you repeat the action inside the macro, you stretch the action activation window.
+Instead of a macro that has a single frame where it attempts to use an action, you have a macro with 13 frames of attempts. 
+This gets around the issue of "Animation Lock vs Macros" where you might not be able to use a skill because of the Animation Lock.
+
+## Holmgang
+
+Holmgang is weird.  
+If your Holmgang target dies, you lose the effect. Self-cast gets around this.  
+If your target is too far away, you won't be able to cast Holmgang. Self-cast gets around this, too.  
+To achieve both goals, we self-cast using <me> in the macro!
+
+
+		/merror off
+		/ac "Holmgang" <me>
+		/ac "Holmgang" <me>
+		/ac "Holmgang" <me>
+		/ac "Holmgang" <me>
+		/ac "Holmgang" <me>
+		/ac "Holmgang" <me>
+		/ac "Holmgang" <me>
+		/ac "Holmgang" <me>
+		/ac "Holmgang" <me>
+		/ac "Holmgang" <me>
+		/ac "Holmgang" <me>
+		/ac "Holmgang" <me>
+		/ac "Holmgang" <me>
+		/micon "Holmgang"
+
+## Nascent Flash
+Nascent Flash goes on a friend. Most often on the co-tank of your 8-man party.  
+They are, by default, the 2nd member in your party list, which is what the <2> refers to.  
+You may make a Mouse-over macro by using <mo>, or you may make multiple macros for each of your party member by using <3>, <4>, etc.
+
+		/merror off
+		/ac "Nascent Flash" <2>
+		/ac "Nascent Flash" <2>
+		/ac "Nascent Flash" <2>
+		/ac "Nascent Flash" <2>
+		/ac "Nascent Flash" <2>
+		/ac "Nascent Flash" <2>
+		/ac "Nascent Flash" <2>
+		/ac "Nascent Flash" <2>
+		/ac "Nascent Flash" <2>
+		/ac "Nascent Flash" <2>
+		/ac "Nascent Flash" <2>
+		/ac "Nascent Flash" <2>
+		/ac "Nascent Flash" <2>
+		/micon "Nascent Flash"
+
+## Shirk
+Shirk the 2nd Party member. Often your co-tank.
+
+		/merror off
+		/ac "Shirk" <2>
+		/ac "Shirk" <2>
+		/ac "Shirk" <2>
+		/ac "Shirk" <2>
+		/ac "Shirk" <2>
+		/ac "Shirk" <2>
+		/ac "Shirk" <2>
+		/ac "Shirk" <2>
+		/ac "Shirk" <2>
+		/ac "Shirk" <2>
+		/ac "Shirk" <2>
+		/ac "Shirk" <2>
+		/ac "Shirk" <2>
+		/micon "Shirk" 
+
+
+
+
+
+
+
+
+
+
+# The section below is probably handled better by the other pages
+
+# Best-in-Slot (Patch 6.08)
+
+Food and Potions  
+Pumpkin Potage HQ (if running a slow BIS set)  
+Pumpkin Ratatouille HQ (if running the 2.40 GCD set)  
+Grade 6 Tincture of Strength HQ
+
+
+#### 2.40 GCD - Simulated 5527.7 dps  
+[Etro.gg link](https://etro.gg/gearset/d6944631-b67f-468f-aca8-7d28d3187f6a)  
+In case Etro.gg fails to load:  
+[Tank Calc screencap](https://cdn.discordapp.com/attachments/583965306071023616/928240970976329738/unknown-37.png)  
+Notes:  
+Upheaval and IR may come up in ugly spots regarding our GCD timer  
+
+
+#### 2.46 GCD - Simulated 5524.4 dps  
+[Etro.gg link](https://etro.gg/gearset/6d0d2d4d-a477-44ea-8002-862eca8ef91d)  
+In case Etro.gg fails to load:  
+[Tank Calc screencap](https://cdn.discordapp.com/attachments/277962749630349312/927852783430942740/unknown.png)  
+
+#### 2.50 GCD - Simulated 5514.9 dps
+[Etro.gg link](https://etro.gg/gearset/1e409c3f-a2ae-4236-8434-1947bb3a32a2)  In case Etro.gg fails to load:  
+[Tank Calc screencap](https://cdn.discordapp.com/attachments/277962749630349312/927877483162902588/unknown.png)
+
+#### Savage Progression set - Simulated 4942.6 dps
+[Etro.gg link](https://etro.gg/gearset/db39eccd-3f87-423b-898e-d72fccf94ddf)  
+In case Etro.gg fails to load:  
+[Tank Calc screencap](https://cdn.discordapp.com/attachments/277962749630349312/927852751524859944/unknown.png)   
+Ring has 2x SkS melds due to stat tiering. This results in around +12 dps gains.  
+
+#### What’s the difference? Why not just use the one with the highest simulated DPS?
+The simulations are made with a simulated infinite rotational loop, which also heavily skews the value of skill speed.  
+Also #1: fights are not infinite, and often come with downtime.  
+Also #2: slower GCDs offer some rotational tricks to maximize Party buff windows.
+
+# The section above is probably handled better by other pages on the site
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Further Reading
+Here be links to other Tank-related guides!
+
+# Credits
+Hello team!  
+This guide was written by the Happy Warriors of the Balance discord!  
+[Discord.gg @TheBalanceFFXIV](https://discord.gg/thebalanceffxiv)  
+You can catch all of us in the Warrior channels, either posting Cats or Lizards, or discussing Pokemon cards.  
