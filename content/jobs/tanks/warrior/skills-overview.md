@@ -5,7 +5,7 @@ authors:
   - Mox-Xinmagar
   - dook
 patch: "6.08"
-lastmod: 2021-10-27T08:05:10.198Z
+lastmod: 2022-02-26T22:13:49.885Z
 ---
 # Warrior Skills Overview
 
