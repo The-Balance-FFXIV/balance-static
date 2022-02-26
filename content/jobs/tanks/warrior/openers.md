@@ -13,6 +13,9 @@ changelog:
 ---
 # Warrior Openers and Rotation
 
+Warriors prepare their burst while waiting for the party buffs to appear.  
+After the buffs are up, the skills are used more or less in order of importance, as to gain potential re-uses towards the end of the fight.
+
 ## Opener Optimization
 
 Assumed Timings:
