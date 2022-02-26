@@ -91,4 +91,4 @@ The main goal for your rotation should be to maximize Storm’s Path casts and S
 
 ## Further Reading
 
-For more help regarding Warrior rotations; please check out the Warrior Guide [here](/jobs/tanks/warrior/how-to-fell-cleave-an-angry-wannabe-healer-also-known-as-warrior-5-0-the-guide/)
+For more help regarding Warrior rotations; please check out the Warrior Guide [here](/jobs/tanks/warrior/basic-guide/)
