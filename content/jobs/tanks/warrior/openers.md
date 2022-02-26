@@ -46,9 +46,9 @@ For some reason, we created the cursed Prepull IR openers, as an option to consi
 The main reasoning for the opener is to get IR on cooldown faster, gaining extra uses before specific fight phases. An example of this would be a heavy-padding Zodiark Extreme, where the aim is to get Inner Release for the Orbs.
 
 Tightest of the tightest timers are:
-* IR at -9s
-* Potion at -1s
-* Pull at 0s
+* IR at -00:09s
+* Potion at -00:02s
+* Pull at 00:00s
 
 [Version 1](https://cdn.discordapp.com/attachments/583965306071023616/925063725193527306/unknown.png)
 
