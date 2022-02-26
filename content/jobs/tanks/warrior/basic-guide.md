@@ -4,7 +4,7 @@ card_header_image: /img/jobs/war/basic.png
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
-patch: "5.5"
+patch: "6.05"
 lastmod: 2021-10-27T07:48:43.031Z
 changelog:
   - date: 2021-08-13T23:00:00.000Z
