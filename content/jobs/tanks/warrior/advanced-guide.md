@@ -11,6 +11,8 @@ changelog:
     message: Created page
   - date: 2022-02-26T19:56:29.271Z
     message: Updated for Endwalker
+  - date: 2022-02-26T22:10:48.870Z
+    message: Minor formatting fixes
 ---
 ## The Optimization
 
