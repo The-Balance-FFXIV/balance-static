@@ -36,6 +36,17 @@ oGCDs
 
 Catches party buffs, however the second Inner Chaos is tight with Trick Attack. There's nothing special about this. This is your usual opener, probably.
 
+#### IC IC IR
+
+
+
+
+![IC IC IR Opener](https://cdn.discordapp.com/attachments/583965306071023616/924377661252456478/unknown.png "IC IC IR opener")
+
+Our strongest skills catch all the buffs, including Trick Attack. However, this comes at the cost of delaying IR by a GCD.  
+Nothing special apart from the slight IR + Rend delay.
+
+
 #### Cursed Prepull IR Openers
 
 There are fights in which it may be worth it to use Inner Release before the pull starts.
@@ -80,4 +91,4 @@ The main goal for your rotation should be to maximize Storm’s Path casts and S
 
 ## Further Reading
 
-For more help regarding Warrior rotations; please check out the Warrior Guide [here](/jobs/tanks/warrior/how-to-fell-cleave-an-angry-wannabe-healer-also-known-as-warrior-5-0-the-guide/)
+For more help regarding Warrior rotations; please check out the Warrior Guide [here](/jobs/tanks/warrior/basic-guide/)
