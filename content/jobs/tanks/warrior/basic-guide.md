@@ -11,7 +11,7 @@ changelog:
     message: Uploaded the new GDoc guide for EW WAR
 ---
 # Final Fantasy 14: Endwalker guide for Warrior
-By Mox Xinmagar & The Happy Team of Warriors
+By Mox Xinmagar & The Happy Team of Warriors  
 @Balance Discord
 
 
