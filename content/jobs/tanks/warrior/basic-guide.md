@@ -742,7 +742,7 @@ Grade 6 Tincture of Strength HQ
 In case Etro.gg fails to load:  
 [Tank Calc screencap](https://cdn.discordapp.com/attachments/583965306071023616/928240970976329738/unknown-37.png)  
 Notes:  
-Upheaval and IR may come up in ugly spots regarding our GCD timer  
+Upheaval and IR may come up in ugly spots regarding our GCD timer.  
 
 
 #### 2.46 GCD - Simulated 5524.4 dps  
