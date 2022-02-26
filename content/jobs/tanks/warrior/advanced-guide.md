@@ -11,6 +11,8 @@ changelog:
     message: Created page
   - date: 2022-02-26T19:56:29.271Z
     message: Updated for Endwalker
+  - date: 2022-02-26T22:10:48.870Z
+    message: Minor formatting fixes
 ---
 ## The Optimization
 
@@ -180,6 +182,12 @@ You just spent four CDs to disrespect a mechanic, gaining a GCD or two. On the o
 
 This is something that is actually used in weekly re-clears and speedruns, as it leaves more room for the rest of the party while also letting us stay in and hit the boss. 
 Just don’t get hit by two Cataracts.
+
+### Knockback Cancels
+
+There's not much to this tech; Use Onslaught whenever you're pushed back, while out of the target's hitbox.  
+The knockback cancel works when Onslaught changes your character's direction of movement.  
+The most satisfying thing is to cancel the knockback on the first "frame".
 
 ![Shar's Warrior imagery](https://cdn.discordapp.com/attachments/937834268950925433/947158285683937330/unknown.png)
 
