@@ -36,6 +36,17 @@ oGCDs
 
 Catches party buffs, however the second Inner Chaos is tight with Trick Attack. There's nothing special about this. This is your usual opener, probably.
 
+#### IC IC IR
+
+
+
+
+![IC IC IR Opener](https://cdn.discordapp.com/attachments/583965306071023616/924377661252456478/unknown.png "IC IC IR opener")
+
+Our strongest skills catch all the buffs, including Trick Attack. However, this comes at the cost of delaying IR by a GCD.  
+Nothing special apart from the slight IR + Rend delay.
+
+
 #### Cursed Prepull IR Openers
 
 There are fights in which it may be worth it to use Inner Release before the pull starts.
