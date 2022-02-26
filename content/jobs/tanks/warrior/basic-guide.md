@@ -5,13 +5,13 @@ authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
 patch: "6.08"
-lastmod: 2021-10-27T07:48:43.031Z
+lastmod: 2022-02-26T22:13:33.552Z
 changelog:
   - date: 2022-02-26T14:53:27.569Z
     message: Uploaded the new GDoc guide for EW WAR
 ---
 # Final Fantasy 14: Endwalker guide for Warrior
-By Mox Xinmagar & The Happy Team of Warriors
+By Mox Xinmagar & The Happy Team of Warriors  
 @Balance Discord
 
 
