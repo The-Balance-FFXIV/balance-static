@@ -13,7 +13,7 @@ changelog:
 
 ## Opener Optimization
 
-Assumed Timings
+Assumed Timings:
 * Tomahawk starts at -0.70s and the pull starts at 0.00s
 * Party buffs are expected to be up at around 7.80s
 
