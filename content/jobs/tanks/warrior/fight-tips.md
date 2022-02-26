@@ -4,7 +4,7 @@ authors:
   - Mox-Xinmagar
   - Balance-WAR-Staff
 patch: "6.08"
-lastmod: 2022-02-26T21:45:36.492Z
+lastmod: 2022-02-26T22:19:07.904Z
 changelog:
   - date: 2022-02-26T21:51:38.096Z
     message: Added quick and dirty notes for Pandaemonium 1 Savage.
