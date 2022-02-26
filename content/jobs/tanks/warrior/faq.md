@@ -8,6 +8,8 @@ changelog:
     message: Added page.
   - date: 2022-02-02T23:35:58.678Z
     message: Updated for Endwalker.
+  - date: 2022-02-26T22:10:13.082Z
+    message: Added some FAQs for quick notes
 qna:
   - question: What is wrong with my log? How do I improve?
     answer: >-
