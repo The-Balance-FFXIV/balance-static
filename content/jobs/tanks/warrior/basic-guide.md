@@ -635,7 +635,10 @@ If we were to have 2000 points to use on either Determination or Tenacity, we wo
 
 
 #### Multi-tank melds
-Do you play other tanks? This would be called “Omni-tanking”. Meld WAR, use DH in non-WAR weapons. Consider melding SkS somewhere if your other tanks need it. WARs don't. Better Omni-tank writeups exist, but they are not a part of this guide.
+Do you play other tanks? This would be called “Omni-tanking”.  
+Meld WAR, use DH in non-WAR weapons.  
+Consider melding Skill Speed somewhere if your other tanks need it. WARs don't.  
+Better Omni-tank writeups exist, but they are not a part of this guide.
 
 
 
