@@ -29,9 +29,9 @@ In the situation that we would have 50 gauge, or use Infuriate, the total sum of
 
 This lets us push Fell Cleave / Inner Chaos further:
 
-		Heavy Swing (90g)  
-		Maim (100g)  
-		Fell Cleave / Inner Chaos (50g) 
+* Heavy Swing (90g)  
+* Maim (100g)  
+* Fell Cleave / Inner Chaos (50g) 
 
 
 For comparison, using Storm’s Eye and Storm’s Path combo grants us 50 gauge. 
@@ -48,8 +48,7 @@ With Inner Release'd Fell Cleaves being less impactful than Primal Rend and Inne
 
 Using Inner Release unlocks Primal Rend for 30 seconds. If the fight favors using Inner Release early, but Party buffs are coming up later, you may want to carry that Rend into the buffs. A moment like this would be when the fight makes us use Prepull IR openers, but the party buffs still came up at the usual time.
 
-Emptying the Beast Gauge and using Infuriate puts us anywhere between 50 and 90 beast gauge. This lets us carry Inner Chaos into a slightly later moment, when party buffs would be up. 
-
+Emptying the Beast Gauge and using Infuriate puts us anywhere between 50 and 90 beast gauge. This lets us carry Inner Chaos into a slightly later moment, when party buffs would be up.  
 Be mindful about the gauge, as you don't want to overcap unless you know what you're doing, in which case why are you reading this?
 
 Regarding Inner Chaos and Infuriate, it is possible to hit the following rotational milestones:
@@ -76,30 +75,29 @@ Depending on the kill time and fight downtimes, Warriors aim for the following P
 
 #### Three Potion Windows:
 
-	Prepull Window:
-		-00:02 Potion
-		00:00 Pull
-		04:30 Potion
-		09:00 Potion
+**Prepull Window:**
+* -00:02 Potion
+* 00:00 Pull
+* 04:30 Potion
+* 09:00 Potion
 
-
-	Standard Window:
-		00:00 Pull
-		00:05 Potion
-		04:35 Potion
-		09:05 Potion
+**Standard Window:**
+* 00:00 Pull
+* 00:05 Potion
+* 04:35 Potion
+* 09:05 Potion
 
 #### Two Potion Windows:
 
-	Prepull into 6 Min:
-		-00:02 Potion
-		00:00 Pull
-		06:00 Potion
+**Prepull into 6 Min:**
+* -00:02 Potion
+* 00:00 Pull
+* 06:00 Potion
 
-	Standard into 6 Min:
-		00:00 Pull
-		00:05 Potion
-		06:00 Potion
+**Standard into 6 Min:**
+* 00:00 Pull
+* 00:05 Potion
+* 06:00 Potion
 
 The Two Potion Windows can be extended to Three Potion Windows by using the third one at 10:30 or 11:00.
 
@@ -122,8 +120,9 @@ This section requires more research.
 
 Since the beginning of FFXIV, the game has worked on simple boolean logic checks.
 
-		Player One took damage? Give them a debuff / deal a follow-up action.
-
+* Player One took damage? 
+* Give them a debuff / deal a follow-up action.  
+  
 Not all fights work like this, but a good handful of them do. This lets us disrespect some mechanics that would force us to disengage from the boss.
 
 The main check that the game uses is “Loss of Health”, or “Mechanic’s Damage Done was >0”. This means that mitigating a hit by 100% often works wonders, and results in dodging debuffs and knockbacks.  
@@ -143,37 +142,37 @@ Not being in the safe area means getting hit by the Cataract mechanic, which giv
 
 Doing the maths for NOT taking any damage from Cataract, with the following assumptions:
 
-		Cataract hits for 42000 damage
-		Warrior has 80000 MaxHP
-		All cooldowns are available
+* Cataract hits for 42000 damage
+* Warrior has 80000 MaxHP
+* All cooldowns are available
 
 Cataract hits for 42000
 
-		Rampart mitigates the hit to 33600
-		Vengeance mitigates that to 23520
-		Bloodwhetting mitigates it even further, to 19051
+* Rampart mitigates the hit to 33600
+* Vengeance mitigates that to 23520
+* Bloodwhetting mitigates it even further, to 19051
 
 WAR has 80000 HP
 
-		WAR uses Thrill, increasing their MaxHP (80000 x 1.20 = 96000 HP)
-		Shake it Off gives a Shield of 16320 (15% +2% of MaxHP)
+* WAR uses Thrill, increasing their MaxHP (80000 x 1.20 = 96000 HP)
+* Shake it Off gives a Shield of 16320 (15% +2% of MaxHP)
 
 Bloodwhetting gives us a ~5k Shield
 
-		Total shield increases to a Shield of 21320 (16320 + 5000)
+* Total shield increases to a Shield of 21320 (16320 + 5000)
 
 Moment of Hit
 
-		Cataract (3 CD) reduced to 19051 damage
-		Shake it Off (Thrill'd) gives a Shield of 16320
-		Bloodwhetting’s shield increases the total Shields to a total of 21320
+* Cataract (3 CD) reduced to 19051 damage
+* Shake it Off (Thrill'd) gives a Shield of 16320
+* Bloodwhetting’s shield increases the total Shields to a total of 21320
 
 Leftovers
 
 
-		(Shield - Damage) must be >0 to avoid the debuff:
-		= 21320 - 19051
-		= 2269
+* (Shield - Damage) must be >0 to avoid the debuff:
+* = 21320 - 19051
+* = 2269
 
 You just spent four CDs to disrespect a mechanic, gaining a GCD or two. On the other hand, you didn't risk wiping the raid for uptime. _Now take the following Tank Buster solo with Holmgang, because you have nothing else available._
 
@@ -198,17 +197,17 @@ Inner Release’d Fell Cleaves? 100% Direct Crit.
 Buffs that give flat dmg% increase are great.  
 
 
-		Brotherhood (MNK)
-		Arcane Circle (RPR)
-		Divination (AST)
-		Radiant Finale (BRD)
-		Mage’s Ballad (BRD)
-		Technical Step (DNC)
-		Embolden (RDM)
-		Searing Light (SMN)
-		*Dragon Sight (DRG)
-		*Arcana Cards (AST)
-		*Standard Finish (DNC)
+* Brotherhood (MNK)
+* Arcane Circle (RPR)
+* Divination (AST)
+* Radiant Finale (BRD)
+* Mage’s Ballad (BRD)
+* Technical Step (DNC)
+* Embolden (RDM)
+* Searing Light (SMN)
+* *Dragon Sight (DRG)
+* *Arcana Cards (AST)
+* *Standard Finish (DNC)
 
 _*Asterisk buffs are often given to DPS players, but there are times when someone feels like buffing the little Warrior._
 
@@ -218,18 +217,19 @@ _*Asterisk buffs are often given to DPS players, but there are times when someon
 ### Nice debuffs-on-boss for Warriors are also Damage Increase% 
 Debuffs that cause the target to take more damage are great.
 
-		Trick Attack (NIN)
+* Trick Attack (NIN)
 
 
 ### Nice-but-not-as-nice buffs and debuffs 
 These would be the Crit Rate% and DHit Rate% changes.
 
-		Battle Litany (DRG)
-		Chain Stratagem (SCH)
-		Army’s Paeon (BRD)
-		Wanderer’s Minuet (BRD)
+* Battle Litany (DRG)
+* Chain Stratagem (SCH)
+* Army’s Paeon (BRD)
+* Wanderer’s Minuet (BRD)
 
-		It’s not worth it to list them all here, since a good handful of our kit does not get anything out of these.  
+
+*It’s not worth it to list them all here, since a good handful of our kit does not get anything out of these.*  
 
 
 
