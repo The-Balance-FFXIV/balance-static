@@ -699,7 +699,7 @@ Shirk the 2nd Party member. Often your co-tank.
 
 
 
-## Best-in-Slot (Patch 6.08)
+## Best-in-Slot aka BIS (Patch 6.08)
 
 Food and Potions  
 Pumpkin Potage HQ (if running a slow BIS set)  
