@@ -703,23 +703,33 @@ Upheaval and IR may come up in ugly spots regarding our GCD timer
 
 #### 2.46 GCD - Simulated 5524.4 dps  
 [Etro.gg link](https://etro.gg/gearset/6d0d2d4d-a477-44ea-8002-862eca8ef91d)  
+
 In case Etro.gg fails to load:  
+
 [Tank Calc screencap](https://cdn.discordapp.com/attachments/277962749630349312/927852783430942740/unknown.png)  
 
 #### 2.50 GCD - Simulated 5514.9 dps
 [Etro.gg link](https://etro.gg/gearset/1e409c3f-a2ae-4236-8434-1947bb3a32a2)  
+
 In case Etro.gg fails to load:  
+
 [Tank Calc screencap](https://cdn.discordapp.com/attachments/277962749630349312/927877483162902588/unknown.png)
 
 #### Savage Progression set - Simulated 4942.6 dps
-[Etro.gg link](https://etro.gg/gearset/db39eccd-3f87-423b-898e-d72fccf94ddf)  
+[Etro.gg link](https://etro.gg/gearset/db39eccd-3f87-423b-898e-d72fccf94ddf)
+  
 In case Etro.gg fails to load:  
+
 [Tank Calc screencap](https://cdn.discordapp.com/attachments/277962749630349312/927852751524859944/unknown.png)   
+
 Ring has 2x SkS melds due to stat tiering. This results in around +12 DPS gains.  
 
 #### What’s the difference? Why not just use the one with the highest simulated DPS?
+
 The simulations are made with a simulated infinite rotational loop, which also heavily skews the value of skill speed.  
+
 Also #1: Fights are not infinite, and often come with downtime.  
+
 Also #2: Slower GCDs offer some rotational tricks to maximize Party buff windows.
 
 
