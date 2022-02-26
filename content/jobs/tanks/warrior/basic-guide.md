@@ -738,7 +738,7 @@ Grade 6 Tincture of Strength HQ
 
 
 #### 2.40 GCD - Simulated 5527.7 dps  
-[Etro.gg link](https://etro.gg/gearset/d6944631-b67f-468f-aca8-7d28d3187f6a)  
+[Etro.gg for 2.40 GCD](https://etro.gg/gearset/d6944631-b67f-468f-aca8-7d28d3187f6a)  
 In case Etro.gg fails to load:  
 [Tank Calc screencap](https://cdn.discordapp.com/attachments/583965306071023616/928240970976329738/unknown-37.png)  
 Notes:  
@@ -746,26 +746,19 @@ Upheaval and IR may come up in ugly spots regarding our GCD timer
 
 
 #### 2.46 GCD - Simulated 5524.4 dps  
-[Etro.gg link](https://etro.gg/gearset/6d0d2d4d-a477-44ea-8002-862eca8ef91d)  
-
+[Etro.gg for 2.46 GCD](https://etro.gg/gearset/6d0d2d4d-a477-44ea-8002-862eca8ef91d)  
 In case Etro.gg fails to load:  
-
 [Tank Calc screencap](https://cdn.discordapp.com/attachments/277962749630349312/927852783430942740/unknown.png)  
 
 #### 2.50 GCD - Simulated 5514.9 dps
-[Etro.gg link](https://etro.gg/gearset/1e409c3f-a2ae-4236-8434-1947bb3a32a2)  
-
+[Etro.gg for 2.50 GCD](https://etro.gg/gearset/1e409c3f-a2ae-4236-8434-1947bb3a32a2)  
 In case Etro.gg fails to load:  
-
 [Tank Calc screencap](https://cdn.discordapp.com/attachments/277962749630349312/927877483162902588/unknown.png)
 
-#### Savage Progression set - Simulated 4942.6 dps
-[Etro.gg link](https://etro.gg/gearset/db39eccd-3f87-423b-898e-d72fccf94ddf)
-  
+#### Savage Progression set - Simulated 4942.6 dps  
+[Etro.gg link](https://etro.gg/gearset/db39eccd-3f87-423b-898e-d72fccf94ddf)   
 In case Etro.gg fails to load:  
-
 [Tank Calc screencap](https://cdn.discordapp.com/attachments/277962749630349312/927852751524859944/unknown.png)   
-
 Ring has 2x SkS melds due to stat tiering. This results in around +12 DPS gains.  
 
 #### What’s the difference? Why not just use the one with the highest simulated DPS?
@@ -773,7 +766,6 @@ Ring has 2x SkS melds due to stat tiering. This results in around +12 DPS gains.
 The simulations are made with a simulated infinite rotational loop, which also heavily skews the value of skill speed.  
 
 Also #1: Fights are not infinite, and often come with downtime.  
-
 Also #2: Slower GCDs offer some rotational tricks to maximize Party buff windows.
 
 
