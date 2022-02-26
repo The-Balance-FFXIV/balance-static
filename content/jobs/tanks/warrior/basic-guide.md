@@ -137,7 +137,7 @@ _Abbr, Skill name (Special mentions)_
 
 
 
-
+![NishYou's WAR imagery](https://cdn.discordapp.com/attachments/937834268950925433/947156582263816232/unknown.png)
 
 ## Warrior Gameplay
 
@@ -362,7 +362,7 @@ Two or less targets available?
 
 
 
-
+![Greg's Warrior imagery](https://cdn.discordapp.com/attachments/937834268950925433/947156799298097182/unknown.png)
 
 
 
@@ -431,8 +431,11 @@ So, to avoid hitting two Infuriate stacks during Inner Release, the following ti
 
 
 
+![Larxy Couteau's Warrior imagery](https://cdn.discordapp.com/attachments/937834268950925433/947157073240674324/unknown.png)
 
+## Staying Alive
 
+Warriors excel at staying alive. We are the outlier in survivability.
 
 ### Stacking Cooldowns
 
@@ -541,7 +544,7 @@ In this section, we will go over the very basics of Warrior Heals.
 
 
 
-
+![Lars' Warrior imagery](https://cdn.discordapp.com/attachments/937834268950925433/947157367018098698/unknown.png)
 
 
 ## Stats and Gear
@@ -605,7 +608,7 @@ Better Omni-tank writeups exist, but they are not a part of this guide.
 
 
 
-
+![Sunless's Warrior imagery](https://cdn.discordapp.com/attachments/937834268950925433/947157641925369876/unknown.png)
 
 ## Macros
 
