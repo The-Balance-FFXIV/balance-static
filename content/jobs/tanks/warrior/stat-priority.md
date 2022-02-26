@@ -17,12 +17,12 @@ Universal Stat Priorities are:
 * Very few exceptions have existed before Endwalker.  
 
 Direct Hit is avoided for the most part because of how Inner Chaos and Inner Release work:   
-* DH has no effect in either of those. Skill speed is no longer a requirement for us.  
+* DH has no effect on either of those. Skill speed is no longer a requirement for us.  
 
 Warrior Substat priority and melds:  
-* Crit > Det > Tnc
+* Crit > DET > TNC
 * We don't need DH because Tnc gives bigger gains.
-* A single DH meld may be god-like for that one parse, but on average Tnc wins out.
+* A single DH meld may be god-like for that one parse, but on average TNC wins out.
 * Skill Speed has no use for us, apart from high-end optimization
 
 Skill Speed
