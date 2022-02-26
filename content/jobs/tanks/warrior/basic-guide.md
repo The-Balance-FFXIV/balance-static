@@ -698,7 +698,6 @@ Shirk the 2nd Party member. Often your co-tank.
 
 
 
-# The section below is probably handled better by the other pages
 
 ## Best-in-Slot (Patch 6.08)
 
@@ -735,8 +734,6 @@ Ring has 2x SkS melds due to stat tiering. This results in around +12 dps gains.
 The simulations are made with a simulated infinite rotational loop, which also heavily skews the value of skill speed.  
 Also #1: fights are not infinite, and often come with downtime.  
 Also #2: slower GCDs offer some rotational tricks to maximize Party buff windows.
-
-# The section above is probably handled better by other pages on the site
 
 
 
