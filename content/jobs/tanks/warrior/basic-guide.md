@@ -651,7 +651,7 @@ Better Omni-tank writeups exist, but they are not a part of this guide.
 
 
 
-# Macros
+## Macros
 
 Macros are weird. They are fired off One Line per One In-Game Frame.  
 15 lines of Macro, 15 FPS in-game? That macro is gone in a single second.
@@ -670,7 +670,7 @@ So when you repeat the action inside the macro, you stretch the action activatio
 Instead of a macro that has a single frame where it attempts to use an action, you have a macro with 13 frames of attempts. 
 This gets around the issue of "Animation Lock vs Macros" where you might not be able to use a skill because of the Animation Lock.
 
-## Holmgang
+### Holmgang
 
 Holmgang is weird.  
 If your Holmgang target dies, you lose the effect. Self-cast gets around this.  
@@ -694,7 +694,7 @@ To achieve both goals, we self-cast using <me> in the macro!
 		/ac "Holmgang" <me>
 		/micon "Holmgang"
 
-## Nascent Flash
+### Nascent Flash
 Nascent Flash goes on a friend. Most often on the co-tank of your 8-man party.  
 They are, by default, the 2nd member in your party list, which is what the <2> refers to.  
 You may make a Mouse-over macro by using <mo>, or you may make multiple macros for each of your party member by using <3>, <4>, etc.
@@ -715,7 +715,7 @@ You may make a Mouse-over macro by using <mo>, or you may make multiple macros f
 		/ac "Nascent Flash" <2>
 		/micon "Nascent Flash"
 
-## Shirk
+### Shirk
 Shirk the 2nd Party member. Often your co-tank.
 
 		/merror off
@@ -745,7 +745,7 @@ Shirk the 2nd Party member. Often your co-tank.
 
 # The section below is probably handled better by the other pages
 
-# Best-in-Slot (Patch 6.08)
+## Best-in-Slot (Patch 6.08)
 
 Food and Potions  
 Pumpkin Potage HQ (if running a slow BIS set)  
@@ -795,10 +795,10 @@ Also #2: slower GCDs offer some rotational tricks to maximize Party buff windows
 
 
 
-# Further Reading
+## Further Reading
 Here be links to other Tank-related guides!
 
-# Credits
+## Credits
 Hello team!  
 This guide was written by the Happy Warriors of the Balance discord!  
 [Discord.gg @TheBalanceFFXIV](https://discord.gg/thebalanceffxiv)  
