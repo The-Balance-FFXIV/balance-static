@@ -4,11 +4,13 @@ card_header_image: /img/jobs/war/advanced.png
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
-patch: "5.58"
-lastmod: 2021-11-15T18:35:50.162Z
+patch: "6.08"
+lastmod: 2022-02-26T19:56:28.084Z
 changelog:
   - date: 2021-11-15T18:36:27.000Z
     message: Created page
+  - date: 2022-02-26T19:56:29.271Z
+    message: Updated for Endwalker
 ---
 ## The Optimization
 
@@ -17,14 +19,14 @@ There’s also the case of pushing out “3 IC Pot” windows and “2 IC Tricks
 
 ### Surging Tempest 
 
-Using Storm’s Eye or Mythril Tempest in a combo grants us 30 seconds of the Surging Tempest, buffing all of our damage by 10%.  
-This buff can be stacked up to 60s, giving us some breathing room for various optimization reasons.
+Using Storm’s Eye or Mythril Tempest in a combo grants us 30 seconds of the Surging Tempest, buffing all of our damage by 10%. This buff can be stacked up to 60s, giving us some breathing room for various optimization reasons.
 
-While Warriors often aim to refresh the buff between 7 and 15 seconds, there are moments when it’s desirable to refresh right after the buff hits 30 seconds.  
-These moments include Fight Downtime, and manipulating our gauge in a very minor way.  
-For example, using Storm’s Eye combo twice in a row grants us 40 gauge, but also risks overcapping the buff itself.  
+
+
+While Warriors often aim to refresh the buff between seven and 15 seconds, there are moments when it’s desirable to refresh right after the buff hits 30 seconds. These moments include Fight Downtime, and manipulating our gauge in a very minor way. For example, using Storm’s Eye combo twice in a row grants us 40 gauge, but also risks overcapping the buff itself.  
  
 In the situation that we would have 50 gauge, or use Infuriate, the total sum of gauge would be at 90.  
+
 This lets us push Fell Cleave / Inner Chaos further:
 
 		Heavy Swing (90g)  
@@ -35,10 +37,10 @@ This lets us push Fell Cleave / Inner Chaos further:
 For comparison, using Storm’s Eye and Storm’s Path combo grants us 50 gauge. 
 This would change the situation above slightly, as we would hit 100 gauge earlier, forcing us to use Fell Cleave or Inner Chaos.
 
-Some fights also favour stacking up 30+ seconds of Surging Tempest right before any downtime occurs.  
-This would let us skip getting the buff back up once the boss reappears, giving us the option of using Inner Release right off the bat.
 
-The gauge gained from Storm’s Path is quickly outvalued by being able to use Inner Release faster, making it possible to gain an extra use before the fight ends, or before yet another downtime.  
+Some fights also favor stacking up 30+ seconds of Surging Tempest right before any downtime occurs. This would let us skip getting the buff back up once the boss reappears, giving us the option of using Inner Release right off the bat.The gauge gained from Storm’s Path is quickly outvalued by being able to use Inner Release faster, making it possible to gain an extra use before the fight ends, or before yet another downtime.
+  
+
 Or you know, having our burst right inside the party buffs, instead of being delayed by the GCDs you’d use to put up the Surging Tempest.
 
 ### Carrying Buffs
@@ -48,7 +50,7 @@ Using Inner Release unlocks Primal Rend for 30 seconds. If the fight favors usin
 
 Emptying the Beast Gauge and using Infuriate puts us anywhere between 50 and 90 beast gauge. This lets us carry Inner Chaos into a slightly later moment, when party buffs would be up. 
 
-Be mindful about the gauge, as you don't want to overcap; unless you know what you're doing, in which case why are you reading this?
+Be mindful about the gauge, as you don't want to overcap unless you know what you're doing, in which case why are you reading this?
 
 Regarding Inner Chaos and Infuriate, it is possible to hit the following rotational milestones:
 
@@ -68,7 +70,7 @@ Congratulations, you just carried Inner Chaos for multiple GCDs.
 
 ### Potions
 
-Warriors have a couple of tricks up their sleeve when it comes to potions. Three is more than Two, but there are things to consider.
+Warriors have a couple of tricks up their sleeve when it comes to potions. Three is more than two, but there are things to consider.
 
 Depending on the kill time and fight downtimes, Warriors aim for the following Potions:
 
@@ -120,24 +122,22 @@ This section requires more research.
 
 Since the beginning of FFXIV, the game has worked on simple boolean logic checks.
 
-		Player 1 took damage? Give them a debuff / deal a follow-up action.
+		Player One took damage? Give them a debuff / deal a follow-up action.
 
 Not all fights work like this, but a good handful of them do. This lets us disrespect some mechanics that would force us to disengage from the boss.
 
 The main check that the game uses is “Loss of Health”, or “Mechanic’s Damage Done was >0”. This means that mitigating a hit by 100% often works wonders, and results in dodging debuffs and knockbacks.  
+
 Shame that Warriors don’t have Superbolide or Hallowed Ground. So what are our options then? Shields.
 
-Shake It Off and Bloodwhetting both offer shields to Warriors.  
-If we were to mitigate a hit enough so that it only scratched our shields, we would “Zero Out” the entire mechanic, and most likely any debuffs that come from it.  
-Endwalker’s first raid tier, Pandaemonium, comes with a fight that lets us do just that.  
-There have been similar opportunities before, but we’ll use a more relevant example here.  
+Shake It Off and Bloodwhetting both offer shields to Warriors. If we were to mitigate a hit enough so that it only scratched our shields, we would “Zero Out” the entire mechanic, and most likely any debuffs that come from it. Endwalker’s first raid tier, Pandaemonium, comes with a fight that lets us do just that. There have been similar opportunities before, but we’ll use a more relevant example here.  
   
 
-Towards the midway point of the fight, the entire party gets to handle a mechanic where everybody has to sit tight inside a tiny safe square, while also managing a Stack Hit, and two Knockback Hits.  
-The two Knockback Hits are always on a Tank, and a DPS. The usual way to handle this is to have the entire party right next to the boss, while the DPS player hides in the corner of the arena, and the tank hides in another corner of the safe area.
+Towards the midway point of the fight, the entire party gets to handle a mechanic where everybody has to sit tight inside a tiny safe square, while also managing a Stack Hit, and two Knockback Hits. The two Knockback Hits are always on a Tank, and a DPS. The usual way to handle this is to have the entire party right next to the boss, while the DPS player hides in the corner of the arena, and the tank hides in another corner of the safe area.
 
-Not being in the safe area means getting hit by the Cataract mechanic, which gives a Damage Down debuff if the player takes damage from it.  
-_IF the player takes damage from it…_
+Not being in the safe area means getting hit by the Cataract mechanic, which gives a Damage Down debuff if the player takes damage from it.  _If the player takes damage from it…_
+
+
 
 ### Zero Out the P2s Cataract
 
@@ -175,14 +175,12 @@ Leftovers
 		= 21320 - 19051
 		= 2269
 
-You just spent 4 CDs to disrespect a mechanic, gaining a GCD or two. On the other hand, you didn't risk wiping the raid for uptime.
+You just spent four CDs to disrespect a mechanic, gaining a GCD or two. On the other hand, you didn't risk wiping the raid for uptime. _Now take the following Tank Buster solo with Holmgang, because you have nothing else available._
 
-_Now take the following Tank Buster solo with Holmgang, because you have nothing else available._
+
 
 This is something that is actually used in weekly re-clears and speedruns, as it leaves more room for the rest of the party while also letting us stay in and hit the boss. 
 Just don’t get hit by two Cataracts.
-
-
 
 ![Shar's Warrior imagery](https://cdn.discordapp.com/attachments/937834268950925433/947158285683937330/unknown.png)
 
