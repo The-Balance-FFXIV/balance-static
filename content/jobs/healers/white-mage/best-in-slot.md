@@ -16,7 +16,7 @@ bis:
 
       This set uses the raid neck to maintain a comfy level of Piety while running the slowest possible GCD without sacrificing significant damage.  This set should be sufficient for enrage kills and the occasional raise or GCD heal outside Thin Air.
     name: Mid-Piety General-Use Set
-    link: https://etro.gg/gearset/d40ebdcf-49df-4518-a91d-9ccad5718a0b
+    link: d40ebdcf-49df-4518-a91d-9ccad5718a0b
   - type: etro
     description: >-
       2.48 GCD | 592 Piety
@@ -24,7 +24,7 @@ bis:
 
       This set forgoes some Piety from the recommended set to go marginally faster for more damage.  It has lower uptime than the above set so is not recommended in any content where you may need to GCD heal or raise outside Thin Air, although may get more mileage in fights where Lilies are needed for either damage or movement.
     name: Low-Piety Damage Set
-    link: https://etro.gg/gearset/e78a29e3-1dcf-4e53-bbcf-234f33b2c831
+    link: e78a29e3-1dcf-4e53-bbcf-234f33b2c831
   - type: etro
     description: >-
       2.45 GCD | 479 Piety
@@ -32,7 +32,7 @@ bis:
 
       This set swaps the raid hat to the tome hat for another small damage gain at the cost of Piety.  This set (and other speedkill sets) will run dry on longer kills even without GCD heals or raises so is only recommended in organized environments where you are assured a short kill time. There are even riskier speed sets listed in the gear calc but the gains past this set are minimal.
     name: Speedkill Set
-    link: https://etro.gg/gearset/d483c05e-a2ef-4fe0-906f-b883566586af
+    link: d483c05e-a2ef-4fe0-906f-b883566586af
   - type: etro
     description: >-
       ## TEA Prog set (linked)
