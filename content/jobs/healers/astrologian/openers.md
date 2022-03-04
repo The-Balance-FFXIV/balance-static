@@ -2,11 +2,13 @@
 title: Astrologian Openers
 authors:
   - Balance-AST-Staff
-patch: "5.58"
-lastmod: 2021-10-26T20:51:11.063Z
+patch: "6.08"
+lastmod: 2022-03-04T21:43:53.771Z
 changelog:
   - date: 2021-10-26T20:51:46.607Z
     message: Article Created.
+  - date: 2022-03-04T21:43:54.532Z
+    message: Updated for Endwalker
 ---
 # Opener
 
