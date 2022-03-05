@@ -347,4 +347,4 @@ All Aetherflow heals cost 1 Aetherflow stack and increase Faerie Gauge by 10.
 * Pulls a target party member to your location
 * Does not work if the target has certain debuffs, like Bind, or if the target is using Surecast/Arm’s Length
 * Use this to save a party member from failing mechanics
-* If optimizing: use to help party members maintain uptime during certain mechanics (e.g. Final Omega’s Hello World) or to allow a party member to move sooner after casting Limit Break (this does not let the target use actions any faster).
+* You can rescue someone who used lb3 to move them into a safe spot; however it doesn't allow them to move or act sooner.
