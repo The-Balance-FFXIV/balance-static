@@ -46,6 +46,9 @@ Some fights also favor stacking up 30+ seconds of Surging Tempest right before a
 Or you know, having our burst right inside the party buffs, instead of being delayed by the GCDs you’d use to put up the Surging Tempest.
 
 ### Carrying Buffs
+
+_This works best with a very slow GCD, and the images shown here are taken from runs with a 2.50 GCD. Your mileage may vary._
+
 With Inner Release'd Fell Cleaves being less impactful than Primal Rend and Inner Chaos, it may sometimes be worth it to carry these big hitters into a later moment.
 
 Using Inner Release unlocks Primal Rend for 30 seconds. If the fight favors using Inner Release early, but Party buffs are coming up later, you may want to carry that Rend into the buffs. A moment like this would be when the fight makes us use Prepull IR openers, but the party buffs still came up at the usual time.
@@ -62,28 +65,35 @@ Regarding Inner Chaos and Infuriate, it is possible to hit the following rotatio
 These milestones would let us empty our beast gauge, hit Infuriate, and carry it until party buffs.
 * Empty the gauge (0g), Infuriate hits close to 0s
 * Hit Infuriate (50g - 90g), Inner Chaos is unlocked
-* Gather more gauge with Storm’s Path, or refresh the buff
+* Gather more gauge with Storm’s Path, or refresh the Tempest buff
 * Keep gathering gauge while carrying the Inner Chaos
 * Make sure to take advantage of Heavy Swing not giving any gauge
 * Spend the Inner Chaos, hopefully inside Party buffs
 
-Congratulations, you just carried Inner Chaos for multiple GCDs.
+Congratulations, you just carried Inner Chaos for multiple GCDs
+
+As for how this would look like in FFLogs, here's a handy image.  
+To replicate this view, go to [Character > Buffs > Drop-down menu: Nascent Chaos](https://www.fflogs.com/reports/Gya7HRZ69QpDdrxm#fight=1&type=auras&source=1&ability=1001897)
+![Carried Inner Chaos](https://cdn.discordapp.com/attachments/937834268950925433/950005284972142642/unknown.png)
 
 ### Potions
 
-Warriors have a couple of tricks up their sleeve when it comes to potions. Three is more than two, but there are things to consider.
+Warriors have a couple of tricks up their sleeve when it comes to potions. Three is more than two, but there are things to consider. For example, never use NQ potions as they have a lesser effect and a longer recast time, and in a normal scenario our Inner Release starts only after 00:10'ish.  
+
 
 Depending on the kill time and fight downtimes, Warriors aim for the following Potions:
 
 #### Three Potion Windows:
 
-**Prepull Window:**
+If the fight lasts for well over 9 minutes, we opt for a 3-potion fight. Note that the potion lasts for 30 seconds, and if the kill time is right on 09:05, the third potion was nearly useless.
+
+** Prepull Window: **
 * -00:02 Potion
 * 00:00 Pull
 * 04:30 Potion
 * 09:00 Potion
 
-**Standard Window:**
+** Standard Window: **
 * 00:00 Pull
 * 00:05 Potion
 * 04:35 Potion
@@ -91,12 +101,17 @@ Depending on the kill time and fight downtimes, Warriors aim for the following P
 
 #### Two Potion Windows:
 
-**Prepull into 6 Min:**
+What if the fight lasts for less than 9 minutes plus some odd seconds? We go for two impactful potions.  
+With most of the party buffs being ready in 6 minute cycles, most parties aim to sync everything for that specific "6-min window". This means that we're deliberately delaying our second potion all the way until the 6 minutes mark of the fight.
+
+
+
+** Prepull into 6 Min: **
 * -00:02 Potion
 * 00:00 Pull
 * 06:00 Potion
 
-**Standard into 6 Min:**
+** Standard into 6 Min: **
 * 00:00 Pull
 * 00:05 Potion
 * 06:00 Potion
