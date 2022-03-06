@@ -17,7 +17,7 @@ changelog:
 ## The Optimization
 
 Warrior Optimization focuses on manipulating the Surging Tempest buff refreshes, and “Carrying buffs” such as Nascent Chaos and Primal Rend Ready.  
-There’s also the case of pushing out “3 IC Pot” windows and “2 IC Tricks”, but also disrespecting various mechanics by zeroing out the damage, or canceling a knockback with our Onslaught.
+There’s also the case of pushing out “3 IC Pot” windows and “2 IC Tricks”, but also disrespecting various mechanics by zeroing out the damage, or canceling a knockback with our Onslaught. Also, if you want a high percentile in FFLogs, you're at the mercy of a good kill time. Bosses dying right after an entire Inner Release + resource burn window? That's a nice percentile.
 
 ### Surging Tempest 
 
