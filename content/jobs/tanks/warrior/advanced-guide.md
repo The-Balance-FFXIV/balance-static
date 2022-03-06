@@ -5,7 +5,7 @@ authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
 patch: "6.08"
-lastmod: 2022-02-26T19:56:28.084Z
+lastmod: 2022-03-06T12:38:50.200Z
 changelog:
   - date: 2021-11-15T18:36:27.000Z
     message: Created page
@@ -13,6 +13,9 @@ changelog:
     message: Updated for Endwalker
   - date: 2022-02-26T22:10:48.870Z
     message: Minor formatting fixes
+  - date: 2022-03-06T12:38:53.619Z
+    message: Added an image to the Nascent Chaos carrying section. Filled some text
+      in Potion sections.
 ---
 ## The Optimization
 
