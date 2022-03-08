@@ -88,7 +88,7 @@ Depending on the kill time and fight downtimes, Warriors aim for the following P
 
 #### Three Potion Windows:
 
-If the fight lasts for well over 9 minutes, we opt for a 3-potion fight. Note that the potion lasts for 30 seconds, and if the kill time is right on 09:05, the third potion was nearly useless.
+If the fight lasts for well over nine minutes, we opt for a three potion fight. Note that the potion lasts for 30 seconds, and if the kill time is right on 09:05, the third potion was nearly useless.
 
 ** Prepull Window: **
 * -00:02 Potion
@@ -104,25 +104,25 @@ If the fight lasts for well over 9 minutes, we opt for a 3-potion fight. Note th
 
 #### Two Potion Windows:
 
-What if the fight lasts for less than 9 minutes plus some odd seconds? We go for two impactful potions.  
-With most of the party buffs being ready in 6 minute cycles, most parties aim to sync everything for that specific "6-min window". This means that we're deliberately delaying our second potion all the way until the 6 minutes mark of the fight.
+What if the fight lasts for less than nine minutes plus some odd seconds? We go for two impactful potions.  
+With most of the party buffs being ready in six minute cycles, most parties aim to sync everything for that specific "6-min window". This means that we're deliberately delaying our second potion all the way until the six minute mark of the fight.
 
 
 
-** Prepull into 6 Min: **
+** Prepull into Six Min: **
 * -00:02 Potion
 * 00:00 Pull
 * 06:00 Potion
 
-** Standard into 6 Min: **
+** Standard into Six Min: **
 * 00:00 Pull
 * 00:05 Potion
 * 06:00 Potion
 
-The Two Potion Windows can be extended to Three Potion Windows by using the third one at 10:30 or 11:00.
+The two potion windows can be extended to three potion windows by using the third one at 10:30 or 11:00.
 
 Note:
-Talk with your party regarding your potion timings. Some jobs and fights favour different timings.
+Talk with your party regarding your potion timings. Some jobs and fights favor different timings.
 
 ### 3 IC Potions
 
@@ -158,12 +158,12 @@ Not being in the safe area means getting hit by the Cataract mechanic, which giv
 
 
 
-### Zero Out the P2s Cataract
+### Zero Out the P2S Cataract
 
-Doing the maths for NOT taking any damage from Cataract, with the following assumptions:
+Doing the math for NOT taking any damage from Cataract, with the following assumptions:
 
 * Cataract hits for 42000 damage
-* Warrior has 80000 MaxHP
+* Warrior has 80000 Max HP
 * All cooldowns are available
 
 Cataract hits for 42000
@@ -174,8 +174,8 @@ Cataract hits for 42000
 
 WAR has 80000 HP
 
-* WAR uses Thrill, increasing their MaxHP (80000 x 1.20 = 96000 HP)
-* Shake it Off gives a Shield of 16320 (15% +2% of MaxHP)
+* WAR uses Thrill, increasing their Max HP (80000 x 1.20 = 96000 HP)
+* Shake it Off gives a Shield of 16320 (15% +2% of Max HP)
 
 Bloodwhetting gives us a ~5k Shield
 
@@ -203,15 +203,13 @@ Just don’t get hit by two Cataracts.
 
 ### Knockback Cancels
 
-There's not much to this tech; Use Onslaught whenever you're pushed back, while out of the target's hitbox.  
-The knockback cancel works when Onslaught changes your character's direction of movement.  
-The most satisfying thing is to cancel the knockback on the first "frame".
+There's not much to this tech; Use Onslaught whenever you're pushed back, while out of the target's hitbox. The knockback cancel works when Onslaught changes your character's direction of movement. The most satisfying thing is to cancel the knockback on the first "frame".
 
 ![Shar's Warrior imagery](https://cdn.discordapp.com/attachments/937834268950925433/947158285683937330/unknown.png)
 
 ## Wanted: Party Buffs
 
-Warriors are kind of picky eaters when it comes to party buffs and debuffs. We don’t care much for the Critical Rate% buffs such as Chain Stratagem or Battle Litany, or Direct Hit Rate% buffs such as <bard songs, dancer things>, because a good chunk of our kit already has 100% Direct Crit rate.
+Warriors are kind of picky eaters when it comes to party buffs and debuffs. We don’t care much for the Critical Rate% buffs such as Chain Stratagem or Battle Litany, or Direct Hit Rate % buffs such as <bard songs, dancer things>, because a good chunk of our kit already has 100% Direct Crit rate.
 
 Inner Chaos? 100% Direct Crit.  
 Primal Rend? 100% Direct Crit.  
@@ -240,14 +238,14 @@ _*Asterisk buffs are often given to DPS players, but there are times when someon
 
 
 
-### Nice debuffs-on-boss for Warriors are also Damage Increase% 
+### Nice debuffs-on-boss for Warriors are also Damage Increase % 
 Debuffs that cause the target to take more damage are great.
 
 * Trick Attack (NIN)
 
 
 ### Nice-but-not-as-nice buffs and debuffs 
-These would be the Crit Rate% and DHit Rate% changes.
+These would be the Crit Rate% and Direct Hit Rate % changes.
 
 * Battle Litany (DRG)
 * Chain Stratagem (SCH)
