@@ -28,13 +28,17 @@ changelog:
 * Can weave 1 oGCD after this
 * Cast this when you don't need to do anything else. 
 
+![](/img/jobs/ast/003560_hr1.png)
 
+\
 **Gravity II**
 
 * AoE damage in a 5y radius around your target  (130 potency), 1.5 cast time
 * Can weave 1 oGCD after this
 * Gravity is a gain on 2 targets over Fall Malefic
 * In dungeons, apply Combust while running and spam gravity when the tank stops
+
+![](/img/jobs/ast/003554_hr1.png)
 
 **Combust III**
 
@@ -50,17 +54,23 @@ changelog:
 
 ## GCDs
 
+![](/img/jobs/ast/benefic.png)
+
 **Benefic**
 
 * Single target heal (500p), 1.5s cast time
 * Can weave 1 oGCD after this
 * Do not use unless out of MP and oGCDs are unavailable
 
+![](/img/jobs/ast/benefic-2.png)
+
 **Benefic II**
 
 * Single target heal (800p), 1.5s cast time
 * Can weave 1 oGCD after this
 * Use in scenarios where you need a single target GCD heal and you don't have oGCD heals to help
+
+![](/img/jobs/ast/a.benefic.png)
 
 **Aspected Benefic**
 
@@ -69,11 +79,15 @@ changelog:
 * Use it on allies who are taking sustained single target damage, most commonly autos on tanks.
 * Asp Benefic is preferential to bene 2 if you don't need immediate healing
 
+![](/img/jobs/ast/helios.png)
+
 **Helios**
 
 * AoE Healing in a 15y radius around you (400p), 1.5s cast time
 * Can weave 1 oGCD after this
 * Use in scenarios where you need an AoE GCD heal and Aspected Helios's regen is already up
+
+![](/img/jobs/ast/a.helios.png)
 
 **Aspected Helios**
 
@@ -82,7 +96,10 @@ changelog:
 * Can weave 1 oGCD after this
 * Use in scenarios where you need an AoE GCD heals, use this over Helios as it becomes neutral to helios with one regen tick and a heal gain with at least two ticks.
 
-** Macrocosmo 3m cd**
+![](/img/jobs/ast/macro.png)
+
+**Macrocosmo 3m cd**
+
 * AoE damage in a 20y radius around you (250p for first target, 40% less for all remaining targets), instant cast GCD
 * Macrocosmo is damage neutral in one target
 * Gives party members a buff in a 20y radius around you (15s duration)
@@ -96,6 +113,8 @@ changelog:
 
 ## oGCDs
 
+![](/img/jobs/ast/dignity.png)
+
 **Essential Dignity 40s**
 
 * Single target heal (400p)
@@ -103,11 +122,15 @@ changelog:
 * Has two charges
 * Use  as your primary tank upkeep or to help heal a non tank if they get lower than everyone else.
 
+![](/img/jobs/ast/intersect.png)
+
 **Celestial Intersection 30s**
 
 * Single target heal(200p) + Shield (400p)
 * Has two charges
 * Use as your primary tank upkeep tool, always keeping at least one on cooldown. Can also be used on a non-tank to help them deal with incoming damage if needed.
+
+![](/img/jobs/ast/exaltation.png)
 
 **Exaltation 60s**
 
@@ -115,11 +138,15 @@ changelog:
 * Mitigation lasts 8s, after the 8s, Exaltation heals the target for 500p
 * Use as a tank buster cooldown assistance, can also be used to deal with heavy auto attacks if no tank busters are coming up during its cooldown. best case scenario is to use it as both 
 
+![](/img/jobs/ast/opposition.png)
+
 **Celestial Opposition 60s cd**
 
 * AoE heal (200p) + Regen (5 ticks of 100p)
 * Total heal potency: 700p
 * Colestial Opposition has a strong heal on a short cooldown, make sure to utilize this ability often.
+
+![](/img/jobs/ast/collective-uncon.png)
 
 **Collective Unconscious 60s cd**
 
@@ -130,16 +157,19 @@ changelog:
 * If you use CU and cancel it instantly you'll have 5s of mitigation
 * Do not hold Collective Unconscious during most uptime scenario
 
+![](/img/jobs/ast/star.png)
+
 **Earthly Star 60s cd**
- 
+
 * Places a large 20y ground aoe (20s duration)
 * Heals party members and damages enemies inside aoe
-*  Initial heal (540), and damage (205) when manually activated
+* Initial heal (540), and damage (205) when manually activated
 * After 10s, upgrades to Giant Dominance.
 * After being upgraded heals (720) and damages (310) when manually activated or when the duration ends
 * Uses a weave window when manually activating it
 * Try to use this as close to on cooldown as possible while getting the benefit of its healing
 
+![](/img/jobs/ast/horoscope.png)
 
 **Horoscope 60s cd**
 
@@ -155,6 +185,8 @@ changelog:
 
 # Other Abilities
 
+![](/img/jobs/ast/synastry.png)
+
 **Synastry 2m cd**
 
 * Applies a buff to the target.
@@ -162,13 +194,17 @@ changelog:
 * Healing the buffed target will heal them twice
 * Only the up front heal of Aspected Benefic gets the additional 40%, the regen does not.
 * Synastry is useful if you are going to single target heal your target. It can also be used to split heal between the buffed target and another target
-*Synastry is good for healing Walking Dead
+  *Synastry is good for healing Walking Dead
+
+![](/img/jobs/ast/lightspeed.png)
 
 **Lightspeed 90s cd**
 
 * Reduces cast times by 2.5 seconds.
 * While Light speed makes your cast time instant, it isn't a dps gain you don't cast more spells outside of the last malefic before a fight ends.
 * Lightspeed should be held for the 2 minute div window as you have a lot of weaves there you want to do on time.
+
+![](/img/jobs/ast/neutral.png)
 
 **Neutral Sect 2m cd**
 
@@ -178,17 +214,23 @@ changelog:
 * If you will be using Aspected Helios or Aspected Benefic and you don't need neutral Sect in 2 minutes this should be activated before.
 * Neutral sect is extremely good, use this if you're planning on gcd healing
 
+![](/img/jobs/ast/ascend.png)
+
 **Ascend**
 
 * 8s cast time
 * Revives a dead player (8s cast time)
 * Use with Swiftcast if available
 
+![](/img/jobs/ast/repose.png)
+
 **Repose**
 
 * 2.5s cast time
 * Puts an enemy to sleep
 * Do not use: Most enemies are immune and sleeping enemies wake up when damaged.
+
+![](/img/jobs/ast/esuna.png)
 
 **Esuna**
 
@@ -198,10 +240,14 @@ changelog:
 * Most other debuffs can be ignored
 * Can weave 1 oGCD 
 
+![](/img/jobs/ast/lucid.png)
+
 **Lucid Dreaming 60s cd**
 
 * Recovers MP over time (3850 MP over 21s)
 * Use when below 8000 MP
+
+![](/img/jobs/ast/swiftcast.png)
 
 **Swiftcast 60s cd**
 
@@ -209,10 +255,14 @@ changelog:
 * The buff is not consumed when using instant cast GCDs.
 * If desired, save Swiftcast for Resurrection
 
+![](/img/jobs/ast/surecast.png)
+
 **Surecast 2m cd**
 
 * Prevents most knockback and movement effects and prevents casts from being canceled
 * Use to avoid knockbacks.
+
+![](/img/jobs/ast/rescue.png)
 
 **Rescue 2m cd**
 
@@ -224,9 +274,13 @@ changelog:
 
 # Cards and Buffs
 
+![](/img/jobs/ast/undraw.png)
+
 **Undraw**
 
 * Unbind this, it's useless
+
+![](/img/jobs/ast/draw.png)
 
 **Draw 30s cd**
 
@@ -246,21 +300,25 @@ changelog:
 * You can only use Redraw once, and you can not draw the same card you had but you can draw the same sign type
 * Redraw, draw and play each uses a weave window
 
+![](/img/jobs/ast/minor-arcana.png)
+
 **Minor Arcana 60s cd**
 
 * Minor Arcana Draws a crown card from your deck
 * Minor Arcana can be played with the Crown Play ability after drawing a Minor Arcana card 
 * Minor Arcana and Play Minor Arcana both uses a weave window
-*  *Lord of Crowns*
-              * Aoe damage in a 20y radius around you (250p)
-              * Is drawn with Minor Arcana and needs Crown Play ability to play it.
-              * Uses a weave window 
-              * Use this for damage under buffs if you can or in multi target situations.
-*  *Lady of Crowns*
-              * Aoe healing in a 20y radius around you (400p)
-              * Is drawn with Minor Arcana and needs Crown play ability to play it.
-              * Uses a weave window 
-              * Use this as an additional heal if you have it. It should not be put in heal plans as you may not always get it.
+* *Lord of Crowns*
+              *Aoe damage in a 20y radius around you (250p)*
+              Is drawn with Minor Arcana and needs Crown Play ability to play it.
+              *Uses a weave window* 
+              Use this for damage under buffs if you can or in multi target situations.
+* *Lady of Crowns*
+              *Aoe healing in a 20y radius around you (400p)*
+              Is drawn with Minor Arcana and needs Crown play ability to play it.
+              *Uses a weave window* 
+              Use this as an additional heal if you have it. It should not be put in heal plans as you may not always get it.
+
+![](/img/jobs/ast/divination.png)
 
 **Divination 2m cd**
 
@@ -270,14 +328,16 @@ changelog:
 * In raid boss fights use during the third gcd in your opener and on cooldown throughout the fight. Only delay its usage if your group is coordinating raid buffs.
 * In dungeons use on trash and bosses do not save it unless trash will die very soon
 
+![](/img/jobs/ast/astrodyne.png)
+
 **Astrodyne**
 
 * Astrodyne grants a buff depending on unique seals in your Arcana gauge
 * You need three seals in your arcana gauge to activate Astrodyne no matter the unique seals
 * Uses a weave window
 * This buff grants effects based on the number of unique seals you have.
-              * At least one unique seal gives you 2,500mp over 15s.
-              * At least two seals give you 10% haste.
+               *At least one unique seal gives you 2,500mp over 15s.*
+               At least two seals give you 10% haste.
               * At least three seals increase your outgoing damage and healing by 5%.
 * Aim to get at least 2 unique seals to get the haste buff, while it's ideal to get 3 unique seals, it's not always optimal to redraw for it and the damage buff is a small gain compared to the haste buff.
 * Haste isn't the same as spellspeed so it will not increase DoT damage
