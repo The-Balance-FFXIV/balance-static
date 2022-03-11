@@ -179,7 +179,7 @@ changelog:
 * Can be activated manually, but will automatically activate at the end of the buff duration
 * When you manually activated it, it will only heal allies within 20y radius around you
 * Targets who missed the manual activation will be healed when the buff expires
-* Use to help keep up the party or if you need heals after a gcd heal.
+* Use to help keep up the party or if you need heals after a GCD heal.
 * Both buffed and unbuffed horoscope can be reasonable to use, depending on how much healing is needed
 
 # Other Abilities
@@ -211,7 +211,7 @@ changelog:
 * Aspected Helios gains shields (125% of heal strength), and increased healing AoE heal (300p) + regen (5 ticks of 180p) 
 * Aspected Benefic gains shield (250% of heal strength), and Single target heal (300p) + regen (5 ticks of 300p)
 * If you will be using Aspected Helios or Aspected Benefic and you don't need neutral Sect in 2 minutes this should be activated before.
-* Neutral sect is extremely good, use this if you're planning on gcd healing
+* Neutral sect is extremely good, use this if you're planning on GCD healing
 
 ![](/img/jobs/ast/ascend.png)
 
@@ -289,9 +289,9 @@ changelog:
 * Draws one of six cards split by Melee cards and Ranged cards
 * Melee cards can be identified by the Teal border. It increases damage for Melee and Tank jobs by 6% and Ranged, Caster and Healer classes by 3%
 * Ranged cards can be identified by the Purple boarder. It increases damage for Ranged, Caster and healer classes by 6% and Melee and Tank jobs by 3%
-* If you are colorblind, melee cards have a + to the side of the card while ranged cards have a little o to the side of the card
+* If you are colorblind, melee cards have a + to the side of the card while ranged cards have a little o+ to the side of the card
 * Playing cards while you and your target are both in combat will give you a seal in your arcana gauge
-* Try not to overcap on draw charges
+* Try not to over cap on draw charges
 * Playing one card every 1 minute and 3 cards every 2 minutes is optimal in raid boss fights
 * In dungeons use cards as you get them on trash
 * The Draw ability gives you Clarifying Draw giving you the ability to use Redraw
@@ -324,7 +324,7 @@ changelog:
 * Raid Buff: Increases the damage of allies within 15y by 6%
 * Uses a weave window
 * Stack multiplicatively with other damage buffs
-* In raid boss fights use during the third gcd in your opener and on cooldown throughout the fight. Only delay its usage if your group is coordinating raid buffs.
+* In raid boss fights use during the third GCD in your opener and on cooldown throughout the fight. Only delay its usage if your group is coordinating raid buffs.
 * In dungeons use on trash and bosses do not save it unless trash will die very soon
 
 ![](/img/jobs/ast/astrodyne.png)
