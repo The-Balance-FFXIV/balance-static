@@ -324,7 +324,7 @@ changelog:
 
 * Raid Buff: Increases the damage of allies within 15y by 6%
 * Uses a weave window
-* Stack multiplicatively with other damage buffs
+* Stacks multiplicatively with other damage buffs
 * In raid boss fights use during the third GCD in your opener and on cooldown throughout the fight. Only delay its usage if your group is coordinating raid buffs.
 * In dungeons use on trash and bosses do not save it unless trash will die very soon
 
@@ -332,8 +332,8 @@ changelog:
 
 **Astrodyne**
 
-* Astrodyne grants a buff depending on unique seals in your Arcana gauge
-* You need three seals in your arcana gauge to activate Astrodyne no matter the unique seals
+* Astrodyne grants a buff depending on unique seals in your Arcana Gauge
+* You need three seals in your Arcana Gauge to activate Astrodyne no matter the unique seals
 * Uses a weave window
 * This buff grants effects based on the number of unique seals you have.
                *At least one unique seal gives you 2,500mp over 15s.*
