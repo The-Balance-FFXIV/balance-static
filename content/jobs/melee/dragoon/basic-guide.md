@@ -13,7 +13,8 @@ changelog:
 
 ## Overview
 
-Dragoon is a very static **melee dps** Job. You have strict, long combos to execute and timers within those combos that need to be maintained. Unlike other Jobs - especially other melee - which rely upon a priority system for their basic GCD rotation, Dragoon instead has static buttons to press in a specific order with very little variance. **Shadowbringers** brings with it a new reliance on hitting proper positionals to trigger new skills.
+Dragoon is a relatively static melee DPS job with a high focus on weaving off-GCD actions in-between a rigid 10-hit sequence of GCD actions. Burst windows can get hectic, and prioritizing the various skills you need to execute can become a rather significant hassle in some instances. Endwalker has doubled down on this by introducing the ability to utilize yet more off-GCD actions at regular intervals, as if we didn’t have enough already.
+
 
 - - -
 
@@ -26,58 +27,43 @@ Contact: **Evie#1153** on Discord | [Twitch](https://www.twitch.tv/evemalqir)
 **Xiu Ye** (Midgardsormr) - combat theorycrafting buddy and Dragoon Mentor from [The Balance](https://discord.gg/thebalanceffxiv "The Balance Discord")\
 Contact: **Xiu Ye#0560** on Discord | [Youtube](https://www.youtube.com/channel/UCNOO4Px0BQjgzqPD_DJv-kA) | [Twitch](https://www.twitch.tv/hopedrg)
 
-**Cyane Monis** (Omega) - French version of the guide, found [here](https://docs.google.com/document/d/1tVj3alPOFo-u4NWPeq2YT4Q5TrdJfxeWhGDKPi4FVrQ/edit "L'art de la Lance")!\
-Available to field any questions in French!\
-Contact: **Cyane#6811** on Discord | [Youtube](https://www.youtube.com/channel/UCvUJhjEM4tP_mAu-VoOirsg/videos?view_as=subscriber) | [Twitch](https://www.twitch.tv/cyanexiv)
+**Rhy Tamok** (Phoenix) - Our resident cinnamon roll who loves to help and always goes out of his way to go above and beyond for the community. The most active Mentor in the questions channels.
+Contact: **Rhy Tamok#0001** on Discord 
+ 
+**Rubix Bob** (Cerberus) - Probably a bigger math nerd than Eve, Rubix created and maintains a wonderful rotation tool on his personal website and is similarly knowledgeable about the class.
+Contact: **Rubixbob#5304** on Discord
 
-- - -
-
-# Support the Creator
-
-I wrote a book! If anyone feels particularly generous and wants to support me (Eve), you can find said book for sale on [Amazon](https://www.amazon.com/dp/1702412768).
 
 - - -
 
 # Resources
 
-* [Gear Comparison Tool](http://bit.ly/DRG-Gear-Accurate)\
-  Allows you to fill in your current \[Level 80] gear and melds and figure out roughly which set will perform better.  
-* [Rotation Builder tool](https://docs.google.com/spreadsheets/d/15hOfxLnmacJbY1FeNSxX6R4owTzChRD45wVcvT3zZeI/edit#gid=1421417811)\
-  Allows you to input stats (either your character’s stats or ones made with the above Gear tool) and then build a rotation with them to get a more accurate readout of your DPS. You can use this tool to compare multiple rotations with the same gear to see which one outputs more. This tool causes some substantial load, so be cautious when using.
-* [Controller Guide](http://bit.ly/DRG-Controller)\
-  A simple guide to setting up your controller to play this Job. Old setups are listed within, but I’ll be working soon to get updated ones in there!  
-* [Tethercalc](https://tethercalc.herokuapp.com/) by Platinum Xephera on Ultros\
-  An incredibly useful tool that you can use to see which member of your party is the proper tether target. You just inject your fflogs link to the fight in question and it’ll tell you who you tethered and show you who was the best target.  
+To be added!
 
 - - -
 
 # Global Cooldown (GCD) Actions
 
-The bread-and-butter of your rotation, so to speak, these are the buttons you press most frequently. They're broken down into several **combo** chains with various effects and uses.
+Also known as your Global Cooldown (GCD) actions, weaponskills form the backbone upon which you weave the meat of your rotation - your Abilities (off-GCD actions). These skills are strung together in specific orders to form combos, which amplify their effects.
 
-## The Chaos Thrust Combo
 
-| **True Thrust >**                               | **Disembowel >**                                | **Chaos Thrust >**                              | **Wheeling Thrust >**                           | **Fang and Claw**                               |
+## The Chaotic Spring Combo
+
+| **True Thrust >**                               | **Disembowel >**                                | **Chaotic Spring >**                              | **Wheeling Thrust >**                           | **Fang and Claw**                               |
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| ![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) |
+| ![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/002000/002596_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) |
 
 &nbsp;\
-This combo has our basic damage buff in **Disembowel** alongside our damage-over-time skill, **Chaos Thrust**. These two effects are essential in dishing out proper amounts of damage.
+This combo allows Disembowel to apply the Power Surge buff, amplifying your damage by 10% and Chaotic Spring to inflict a damage-over-time effect that will keep constant damage rolling, even outside of your normal attacking skills.
 
-## The Full Thrust Combo
+## The Heavens' Thrust Combo
 
-| **True Thrust >**                               | **Vorpal Thrust >**                             | **Full Thrust >**                               | **Fang and Claw >**                             | **Wheeling Thrust**                             |
+| **True Thrust >**                               | **Vorpal Thrust >**                             | **Heavens' Thrust >**                               | **Fang and Claw >**                             | **Wheeling Thrust**                             |
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| ![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
+| ![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/002000/002595_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
 
 &nbsp;\
 This combo uses our strongest weaponskill, **Full Thrust**, and that’s about it. It’s essentially just a filler combo whenever the aforementioned effects are active.
-
-#### Raiden Thrust
-
-![](https://xivapi.com/i/002000/002592_hr1.png)
-
-This action functions as a direct upgrade to **True Thrust** after you’ve successfully completed one of the above combos. If you land your proper positional on the **final/fifth hit**, **True Thrust** upgrades to **Raiden Thrust**!
 
 #### The Coerthan Torment Combo
 
@@ -88,20 +74,37 @@ This action functions as a direct upgrade to **True Thrust** after you’ve succ
 &nbsp;\
 Our new and freshly upgraded area-of-effect combo now packs **Coerthan Torment** as a third hit finisher! This is primarily used when dealing with a group of enemies numbering **three or more.**
 
+#### Draconian Fire
+Upon properly completing any of the above combos, you will gain the buff Draconian Fire. This buff augments the next True Thrust or Doom Spike you do into Raiden Thrust or Draconian Fury, respectively. These Weaponskills combo the exact same as their unbuffed versions. They also give you 1 charge of Firstminds’ Focus, which is discussed in more detail later.
+
+| **True Thrust >**                                | **Raiden Thrust **                              | and **Doom Spike >**                           | **Draconian Fury**                               |
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| ![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000306_hr1.png) | ![](https://xivapi.com/i/002000/002594_hr1.png) |
+
+#### Piercing Talon
+While you always want to maintain your uptime on the above combos as much as possible, occasionally an encounter may push you off for an extended period of time. Rather than doing nothing, you can utilize Piercing Talon. It doesn’t break *any* of the above combos, nor does it negate your Draconian Fire. This is only worth doing if you would be unable to re-engage before your GCD spin completes.
+
+
+![](https://xivapi.com/i/000000/000315_hr1.png)
+
 ## Basic Rotation
 
-| **Raiden Thrust >**                             | **Disembowel >**                                | **Chaos Thrust >**                              | **Wheeling Thrust >**                           | **Fang and Claw >**                             | **Raiden Thrust >**                             | **Vorpal Thrust >**                             | **Full Thrust >**                               | **Fang and Claw >**                             | **Wheeling Thrust**                             |
+| **Raiden Thrust >**                             | **Disembowel >**                                | **Chaotic Spring >**                              | **Wheeling Thrust >**                           | **Fang and Claw >**                             | **Raiden Thrust >**                             | **Vorpal Thrust >**                             | **Heavens' Thrust >**                               | **Fang and Claw >**                             | **Wheeling Thrust**                             |
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
+| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/002000/002596_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/002000/002595_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
 
 &nbsp;\
 Putting all of this together with the timers, we come out with one single string of actions. In general, under normal circumstances, we want to maintain this sequence of GCDs for as long as we are capable!
 
-#### The Other Guy
+#### Mistakes
+Everyone makes them. If, in attempting to follow this rotation to the best of your ability, you make a mistake and press the wrong second hit, **commit to the mistake**. Restarting the combo is a larger loss than just continuing the incorrect combo string. After the mistaken combo, just return to the alternating rotation. Do not attempt to course-correct back into the old order.
+- - - 
 
-![](https://xivapi.com/i/000000/000315_hr1.png)
+#### Wyrmwind Thrust
 
-Currently not used. You are safe to unmap Piercing Talon from your bar. With us having two 5-hit combo chains and this button breaking either combo at any stage and the longer runoff for combo maintenance, there is almost no way that this skill will ever find use. If it does, this section will add those niche cases.
+Every time you land Raiden Thrust or Draconian Fury, you gain 1 charge of your Firstminds’ Focus. Two charges of this allows you to activate Wyrmwind Thrust. Because we don’t start fights with Draconian Fire, the first charge comes during the Heavens’ Thrust combo and the second during the following Chaotic Spring combo. From there, you will always be using Wyrmwind Thrust during your Chaotic Spring combo, barring any rotational errors you encounter along the way, due to user error or forced downtime. You **must** press Wyrmwind Thrust **before** your next Raiden Thrust or Draconian Fury, when it is ready to be used, otherwise you will **not** gain the charge of Firstminds’ Focus, leading to a drastic loss in damage.
+
+![](https://xivapi.com/i/002000/002597_hr1.png)
 
 - - -
 
@@ -130,28 +133,22 @@ Some enemies will have the **Side** mark wrapping their entire hitbox, with no a
 
 |                                                 |                                                 |
 | ----------------------------------------------- | ----------------------------------------------- |
-| ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
+| ![](https://xivapi.com/i/002000/002596_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
 
 &nbsp;\
- **Chaos Thrust** and **Wheeling Thrust** deal 40 more potency from the **Rear**.
+ **Chaotic Spring** and **Wheeling Thrust** deal 40 more potency from the **Rear**.
 
-#### Positional Parity
+#### Combat Priority
+While it is a loss to miss your Positionals, landing them should be your last priority, after you have met all of the other combat priority requirements of a melee DPS job. These are listed in order from largest to smallest loss of damage if you fail that level.
+1. Handle Mechanics
+If you fail mechanics, you could cause a potential raid wipe and a fight reset. You do not want to be the cause of that. Nothing is more important than properly handling mechanics.
+2. Stay Alive
+Don’t die. Plain and simple. If you have to sacrifice uptime to not die, you know the choice to make. Deaths cause much larger losses than having to use a few Piercing Talons.
+3. Maintain Uptime (ABC - Always Be Casting)
+Stick to the boss like glue, assuming you meet one and two. Don’t let your GCD stop spinning.
+4. Land Positionals
+And then, once you have one through three down, worry about maintaining proper positionals.
 
-The DPS disparity between landing every single positional and **missing** every single positional is approximately 4%. Meaning, if you would do 10,000 dps while hitting every positional, then you would only deal 9,600 if you missed every single one.
-
-In other words: You should *always* strive to land *every* positional in any situation where it is easy to do so, however, there is a priority system to what you should be focused on while learning to optimize a fight.
-
-1. **Handle Mechanics**\
-   If you fail a mechanic, you lose the fight, so it doesn’t matter how much DPS you gain if it causes you to miss a mechanic.
-2. **Stay Alive**\
-   Dodge death puddles, avoid standing in boss cleaves, etc. Don’t die for DPS, because a death has a negative impact you won’t overcome by keeping uptime up until you died.
-3. **Maintain Uptime**\
-   **ABC** - **A**lways **B**e **C**asting. If your GCD stops spinning, you messed up. Assuming you are handling steps one and two properly, focus on keeping your rotation flowing and your GCD staying in constant motion.
-4. **Land Positionals**\
-   Never let your GCD stop spinning in order to make it to a position for your flank or rear positionals - this helps no one and costs you DPS. Focus on landing positionals only after you have mastered the first three steps. Some fights and some strategies will require you to eschew positionals to handle mechanics, stay alive, or maintain uptime.\
-   This is **okay.**\
-   **It is not the end of the world if your group stacks on the face of the boss.
-   The DPS loss is not worth causing wipes over.**
 
 - - -
 
