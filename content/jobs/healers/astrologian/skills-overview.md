@@ -30,7 +30,6 @@ changelog:
 
 ![](/img/jobs/ast/003560_hr1.png)
 
-\
 **Gravity II**
 
 * AoE damage in a 5y radius around your target  (130 potency), 1.5 cast time
