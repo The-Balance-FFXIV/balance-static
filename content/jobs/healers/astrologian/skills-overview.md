@@ -114,7 +114,7 @@ changelog:
 
 ![](/img/jobs/ast/dignity.png)
 
-**Essential Dignity 40s**
+**Essential Dignity 40s cd**
 
 * Single target heal (400p)
 * Healing potency increases the lower the target's HP gets, capping out at 900p when target HP reaches 30%
@@ -123,7 +123,7 @@ changelog:
 
 ![](/img/jobs/ast/intersect.png)
 
-**Celestial Intersection 30s**
+**Celestial Intersection 30s cd**
 
 * Single target heal(200p) + Shield (400p)
 * Has two charges
@@ -131,7 +131,7 @@ changelog:
 
 ![](/img/jobs/ast/exaltation.png)
 
-**Exaltation 60s**
+**Exaltation 60s cd**
 
 * Single target heal (500p) + Mitigation(10%)
 * Mitigation lasts 8s, after the 8s, Exaltation heals the target for 500p
