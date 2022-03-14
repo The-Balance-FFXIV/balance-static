@@ -2,53 +2,229 @@
 title: White Mage Skills Overview
 authors:
   - Balance-WHM-Staff
-patch: "5.58"
-lastmod: 2021-10-27T00:58:39.408Z
+patch: "6.08"
+lastmod: 2022-03-14T16:57:57.456Z
 changelog:
   - date: 2021-10-27T01:09:43.442Z
     message: Article Created.
+  - date: 2022-03-14T16:57:59.996Z
+    message: Updated for Endwalker
 ---
-# Actions
+# Notable Endwalker Changes
 
-| Icon                                            | Action             | Level | Type    | MP    | Casting | Recast | Description                                                                                                                                                                                                         |
-| ----------------------------------------------- | ------------------ | ----- | ------- | ----- | ------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/000000/000403_hr1.png) | Stone              | 1     | Spell   | 400   | 2.5s    | 2.5s   | Deals earth damage with a potency of 140.                                                                                                                                                                           |
-| ![](https://xivapi.com/i/000000/000405_hr1.png) | Cure               | 2     | Spell   | 400   | 1.5s    | 2.5s   | Restores target's HP with a potency of 450.                                                                                                                                                                         |
-| ![](https://xivapi.com/i/000000/000401_hr1.png) | Aero               | 4     | Spell   | 400   | Instant | 2.5s   | Deals wind damage with a potency of 50. Additionally deals wind damage over time with a potency of 30 for 18s.                                                                                                      |
-| ![](https://xivapi.com/i/000000/000408_hr1.png) | Medica             | 10    | Spell   | 1,000 | 2.5s    | 2.5s   | Restores own HP and the HP of all nearby party members.                                                                                                                                                             |
-| ![](https://xivapi.com/i/000000/000411_hr1.png) | Raise              | 12    | Spell   | 2,400 | 8s      | 2.5s   | Resurrects target to a weakened state.                                                                                                                                                                              |
-| ![](https://xivapi.com/i/000000/000416_hr1.png) | Fluid Aura         | 15    | Ability |       | Instant | 30s    | Binds target.                                                                                                                                                                                                       |
-| ![](https://xivapi.com/i/000000/000404_hr1.png) | Stone II           | 18    | Spell   | 400   | 2.5s    | 2.5s   | Deals earth damage with a potency of 200.                                                                                                                                                                           |
-| ![](https://xivapi.com/i/000000/000406_hr1.png) | Cure II            | 30    | Spell   | 1,000 | 2s      | 2.5s   | Restores target's HP with a potency of 700.                                                                                                                                                                         |
-| ![](https://xivapi.com/i/002000/002626_hr1.png) | Presence of Mind   | 30    | Ability |       | Instant | 150s   | Reduces spell cast time and recast time, and auto-attack delay by 20% for 15s.                                                                                                                                      |
-| ![](https://xivapi.com/i/002000/002628_hr1.png) | Regen              | 35    | Spell   | 500   | Instant | 2.5s   | Grants healing over time effect to target with a potency of 200 for 18s.                                                                                                                                            |
-| ![](https://xivapi.com/i/000000/000407_hr1.png) | Cure III           | 40    | Spell   | 1,500 | 2s      | 2.5s   | Restores HP of target and all party members nearby target with a potency of 550.                                                                                                                                    |
-| ![](https://xivapi.com/i/002000/002629_hr1.png) | Holy               | 45    | Spell   | 600   | 2.5s    | 2.5s   | Deals unaspected damage with a potency of 140 to all nearby enemies. Inflicts a 4s stun to all nearby enemies.                                                                                                      |
-| ![](https://xivapi.com/i/000000/000402_hr1.png) | Aero II            | 46    | Spell   | 400   | Instant | 2.5s   | Deals wind damage with a potency of 60. Additionally deals wind damage over time with a potency of 60 for 18s.                                                                                                      |
-| ![](https://xivapi.com/i/000000/000409_hr1.png) | Medica II          | 50    | Spell   | 1,300 | 2.5s    | 2.5s   | Restores own HP and the HP of all nearby party members with a potency of 200. Applies Regen with a potency of 100 for 15s.                                                                                          |
-| ![](https://xivapi.com/i/002000/002627_hr1.png) | Benediction        | 50    | Ability |       | Instant | 180s   | Restores all of a target's HP.                                                                                                                                                                                      |
-| ![](https://xivapi.com/i/002000/002640_hr1.png) | Afflatus Solace    | 52    | Spell   | 0     | Instant | 2.5s   | Restores target's HP with a potency of 700.                                                                                                                                                                         |
-| ![](https://xivapi.com/i/002000/002632_hr1.png) | Asylum             | 52    | Ability |       | Instant | 90s    | Envelops a designated area in a veil of succor, granting healing over time to self and any party members who enter. Lasts 24s and increases HP recovery from healing actions on those in the area of effect by 10%. |
-| ![](https://xivapi.com/i/002000/002631_hr1.png) | Stone III          | 54    | Spell   | 400   | 2.5s    | 2.5s   | Deals earth damage with a potency of 240.                                                                                                                                                                           |
-| ![](https://xivapi.com/i/002000/002634_hr1.png) | Assize             | 56    | Ability |       | Instant | 45s    | Deals unaspected damage to all nearby enemies with a potency of 400. Restores own HP and that of nearby party members with a potency of 400. Restores 5% of maximum MP.                                             |
-| ![](https://xivapi.com/i/002000/002636_hr1.png) | Thin Air           | 58    | Ability |       | Instant | 120s   | Reduces MP cost of all spells by 100% for 12s.                                                                                                                                                                      |
-| ![](https://xivapi.com/i/002000/002633_hr1.png) | Tetragrammaton     | 60    | Ability |       | Instant | 60s    | Restores target's HP with a potency of 700.                                                                                                                                                                         |
-| ![](https://xivapi.com/i/002000/002637_hr1.png) | Stone IV           | 64    | Spell   | 400   | 2.5s    | 2.5s   | Deals earth damage with a potency of 280.                                                                                                                                                                           |
-| ![](https://xivapi.com/i/002000/002638_hr1.png) | Divine Benison     | 66    | Ability |       | Instant | 30s    | Creates a barrier around self or target party member that absorbs damage equivalent to a heal of 500 potency. Lasts 15s or until consumed.                                                                          |
-| ![](https://xivapi.com/i/002000/002639_hr1.png) | Plenary Indulgence | 70    | Ability |       | Instant | 60s    | Grants Confession to self and nearby party members, triggering an additional healing effect with 200 potency when affected party members are healed by certain spells.                                              |
-| ![](https://xivapi.com/i/002000/002641_hr1.png) | Dia                | 72    | Spell   | 400   | Instant | 2.5s   | Deals unaspected damage with a potency of 120. Additionally, deals unaspected damage over time with a potency of 60.                                                                                                |
-| ![](https://xivapi.com/i/002000/002642_hr1.png) | Glare              | 72    | Spell   | 400   | 2.5s    | 2.5s   | Deals unaspected damage with a potency of 300.                                                                                                                                                                      |
-| ![](https://xivapi.com/i/002000/002644_hr1.png) | Afflatus Misery    | 74    | Spell   |       | Instant | 2.5s   | Deals unaspected damage to target and all enemies nearby it with a potency of 900 for the first enemy, and 25% less for all remaining enemies.                                                                      |
-| ![](https://xivapi.com/i/002000/002643_hr1.png) | Afflatus Rapture   | 76    | Spell   |       | Instant | 2.5s   | Restores own HP and the HP of all nearby party members with a potency of 300.                                                                                                                                       |
-| ![](https://xivapi.com/i/002000/002645_hr1.png) | Temperance         | 80    | Ability |       | Instant | 120s   | Increases healing magic potency by 20%, while reducing damage taken by self and all party members within a radius of 30 yalms by 10%.                                                                               |
+* Thin air has two charges but only reduces mana cost on one spell per cast
+* Glare cast time reduces to 1.5s
+* Presence of Mind changes to a 120s cooldown
 
-# Healer actions
+# Damage
 
-| Icon                                            | Action         | Level | Type    | MP  | Casting | Recast | Description                                                                                                                               |
-| ----------------------------------------------- | -------------- | ----- | ------- | --- | ------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/000000/000891_hr1.png) | Repose         | 8     | Spell   | 600 | 2.5s    | 2.5s   | Inflicts target with Sleep. Lasts 30s or until the target takes damage.                                                                   |
-| ![](https://xivapi.com/i/000000/000884_hr1.png) | Esuna          | 10    | Spell   | 400 | 1s      | 2.5s   | Removes a single detrimental effect from target.                                                                                          |
-| ![](https://xivapi.com/i/000000/000866_hr1.png) | Swiftcast      | 18    | Ability |     | Instant | 60s    | Next spell is cast immediately.                                                                                                           |
-| ![](https://xivapi.com/i/000000/000865_hr1.png) | Lucid Dreaming | 24    | Ability |     | Instant | 60s    | Gradually restores own MP.                                                                                                                |
-| ![](https://xivapi.com/i/000000/000869_hr1.png) | Surecast       | 44    | Ability |     | Instant | 120s   | Spells can be cast without interruption. Nullifies most knockback and draw-in effects.                                                    |
-| ![](https://xivapi.com/i/000000/000890_hr1.png) | Rescue         | 48    | Ability |     | Instant | 120s   | Instantly draw target party member to your side. Cannot be used outside of combat or when target is suffering from certain enfeeblements. |
+## GCD
+
+**Glare III**
+
+* At lower levels you'll have Stone, which gets replaced by Glare at level 72
+* Single target damage (310), 1.5 cast time
+* Can weave 1 oGCD after it
+* Cast this when you don't need to do anything else.
+
+
+**Holy III**
+
+* Aoe damage in a small 8y radius around you (150p), 2.5s cast time
+* Holy is a gain over Glare 3 on 3 targets
+* In non boss fights Holy has a stun that gets reduced each time time starting off with 4s stun followed by 2s stun and the last stun being 1s.
+* Holy is your strongest tool in Dungeons letting you have an effective 7 second stun
+
+**Dia**
+
+* At lower levels you'll have Aero which has a lower duration(18s), this is replaced by Dia at level 72
+* Single target damage (60p) and DoT (10 ticks of 60p), instant cast
+* Total Potency: 660
+* In dungeons, apply dia while running and spam holy when the tank stops
+* If Optimizing: 
+         * Refreshing Dia early can be a gain if you know your kill/phase time and you know you will lose ticks anyway.
+         * Dia is a gain on Glare III after 5 ticks.
+
+**Afflatus Misery**
+
+* AoE damage in a very small 5y radius around enemy target (900p), instant cast
+* Deals 25% less damage to enemies that aren't the main target in a 5y radius
+* Misery can only be activated if you have a blood Lily 
+* You gain Blood Lily charges when using a Lily charge, you need three lily usages to gain a Blood Lily.
+* Using Three Lily and Misery is a dps lost compared to 4 Glares on one target.
+* Three Lillies and misery is a dps gain on 2+ target, be aware of its small 5y radius and make sure it is hitting two targets. 
+* If you have 2 stacks for Blood Lily it's a gain to use an extra Lily heal and  blood Lily before the fight ends. Aim to put it in raid buffs to get more value from it.
+
+## OGCD
+
+**Assize 45s cd**
+
+* AoE damage in a 15y radius around you (400p) and an AoE heal in a 15y radius around you (400p)
+* Should be used as a damage spell so it should be used on cooldown unless you know you will not lose a use delaying it.
+* Try to delay your own healing if Assize will be coming off of cooldown before  threatening damage. This will allow you to use Assize for both damage and healing
+* Losing a use of assize on one target is okay if you'll hit 2 or more targets. Losing an Assize is optimal if it means you'll hit 3+ targets 
+
+# Healing
+
+## GCD
+
+**Cure**
+
+* Single target heal (500p), 1.5s cast time
+* Can weave 1 oGCD after this
+* Cure should not be used in almost every situation unless you're out of mana and it's your only heal
+
+**Cure II**
+
+* Single target heal (800p), 2.0s cast time
+* Use in Niche scenarios where you need a single target heal, and you ran out of Afflatus Solace, Tetragrammaton, Benediction and it's too late to use Regen
+
+**Afflatus Solace**
+
+* Single target heal (800p), instant cast
+* Use in most scenarios over cure 2 as Misery can refund some of the lost potency
+
+**Regen**
+
+* Single target strong regen (6 ticks of 250p)
+* Total heal: 1,500
+* Regen is preferential to Cure 2 if you don't need immediate healing
+
+**Medica**
+
+* Aoe Heal in a 15y radius around you (400p), 2s cast time
+* Use in niche Scenarios where you need extra aoe healing and you can't wait for a tick of  Medica 2 and you have no Lillies.
+
+**Medica 2**
+
+* AoE heal in a 20y radius around you (250p) and regen (5 ticks of 150p)
+* Total healing: 1,000p
+* Medica 2 is equal to Medica if you can wait for one tick of healing
+*  Use in scenarios where you need an AoE GCD heals, use this over Medica  as it becomes neutral to Medica with one regen tick and a heal gain with at least two ticks.
+
+**Cure 3**
+
+* AoE heal in a very small 6y Radius around your ally target (600p), 2s cast time
+* Use in situations where you need a big burst heal in one gcd. 
+* Make sure people are grouped tight because it only has a 6y radius
+
+**Afflatus Rapture **
+
+*AoE heal in a 20y radius around you (400p), instant cast
+* Use over Medica as Misery can refund some of the lost potency 
+
+
+## oGCD
+
+**Divine Benison 30s cd**
+
+* Single target shield(500p)
+* Has two charges
+* Use as your primary tank upkeep tool, always keeping at least one on cooldown. Can also be used on a non-tank to help them deal with incoming damage if needed.
+
+**Tetragrammaton 60s cd**
+
+* Single target heal (700p)
+* Use as a tool to help with tank up keep or to heal a party member
+
+**Benediction 3m cd**
+
+* Single target heal for 100% of your target's current hp
+* Use as a tool to instantly heal Walking dead or to heal anyone close to death
+
+**Asylum 90s cd**
+
+* Places a 8y ground aoe (9 ticks of 100p)
+* Asylum gives an additional regen tick when first placed
+* Asylum gives 10% increases healing to GCD and oGCD healing except select few cases
+* Asylum's initial tick doesn't gain the healing increases by the ticks after gains it, which increases healing to 110p per tick
+* Total heal: 980p
+
+
+**Liturgy of the bell 3m cd**
+
+* Places a Bell at a designated location
+* Bell starts with 5 stacks
+* When the White mage takes damage Bell uses one stack and  heals(400p) allies within a 20y radius
+* After 15s Bell expires and any remaining stack heals(200p per stack) allies within a 20y radius
+* It's most effective at healing multiple raid-wides, however don't be afraid to use it to heal one or two raid-wides and the leftover stacks can top the party.
+
+**Plenary Indulgence 60s cd**
+
+* Grants Confession to allies within a 20y radius
+* Confession heals for 200p when triggered by Medica, Medica 2, Cure 3 and Afflatus Rapture
+* Use if you're about to gcd heal and you need additional healing, its low cooldown makes it more flexible.
+* During heal checks when you're using GCD heals often Confession can make or break it, be sure to try and save it for these heal checks. 
+
+## Other Abilities
+
+**Temperance 2m cd**
+
+* Grants Temperance a 20s buff that increases your GCD healing(20%) 
+* Temperance gives  Mitigation (10%) to allies within 30y radius 
+* Use to mitigation heavy raid wides and to help with heal checks that force you to gcd heal.
+
+**Aquaveil 60s cd**
+
+* Single target Mitigation(15%)
+* Mitigation lasts 8s
+* Use as a tank buster cooldown assistance, can also be used to deal with heavy auto attacks if no tank busters are coming up during its cooldown. best case scenario is to use it as both 
+
+**Presence of Mind 2m cd**
+
+* Haste Buff: Reduces Spell cast time, recast time, and auto-attack delay by 20% for 15s
+* This is not spell speed so you will not gain extra DoT damage
+* In raid boss fights use during the third GCD in your opener and on cooldown throughout the fight. Only delay its usage if your group is coordinating raid buffs.
+* In dungeons use on trash and bosses do not save it unless trash will die soon
+* Depending on your ping weaving in-between Presence of Mind glares could have small clips
+
+**Thin Air 60s cd**|
+
+* Grants Thin Air which makes your spell cost zero mana
+* Has two charges
+* Keep one on cooldown at all times and keep the extra one for a rez
+
+**Raise**
+
+* 8s cast time
+* Revives a dead player (8s cast time)
+* Use with Swiftcast if available
+* Use with Thin Air to mitigate the mana cost
+
+**Repose**
+
+* 2.5s cast time
+* Puts an enemy to sleep
+* Do not use: Most enemies are immune and sleeping enemies wake up when damaged.
+
+**Esuna**
+
+* 1s cast time
+* Removes cleansable debuffs (debuffs with a white bar above them)
+* Use to remove lethal debuffs (e.g. Doom, Throttle)
+* Most other debuffs can be ignored
+* Can weave 1 oGCD 
+
+**Lucid Dreaming 60s cd**
+
+* Recovers MP over time (3850 MP over 21s)
+* Use when below 8000 MP
+
+**Swiftcast**
+
+* Makes your next GCD spell instant cast
+* The buff is not consumed when using instant cast GCDs.
+* If desired, save Swiftcast for Resurrection
+
+**Surecast 2m cd**
+
+* Prevents most knockback and movement effects and prevents casts from being canceled
+* Use to avoid knockbacks.
+
+**Rescue 2m cd**
+
+* Pulls a target party member to your location
+* Does not work if the target has certain debuffs, like Bind, or if the target is using Surecast/Arm’s Length
+* Uses a weave window
+* Use this to save a party member from failing mechanics
+* You can rescue someone who used lb3 to move them into a safe spot; however it doesn't allow them to move or act sooner. 
