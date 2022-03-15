@@ -78,7 +78,7 @@ Apart from resources shared by all healers, such as mana, Sage has three main re
    charges max, 45 second charge time, allows one cast of Phlegma.
 2. Addersgall stacks - three charges max, 20 second charge time, allows one use of Druochole, Kerachole, Ixochole, or
    Taurochole.
-3. Addersting stacks - three charges max, gains a charge when the shield from your {{< inline > }}
+3. Addersting stacks - three charges max, gains a charge when the shield from your {{< inline >}}
    ![Eukrasian Diagnosis](https://xivapi.com/i/003000/003659_hr1.png) {{< /inline >}}Eukrasian Diagnosis is fully
    consumed.
 
