@@ -74,7 +74,7 @@ more ideal than other healers if you aren't going to be able to gear up as quick
 
 Apart from resources shared by all healers, such as mana, Sage has three main resources:
 
-1. {{< inline >}} ![Phlegma III](https://xivapi.com/i/003000/003681_hr1.png) {{< /inline  >}} Phlemga charges - two
+1. {{< inline >}} ![Phlegma III](https://xivapi.com/i/003000/003681_hr1.png) {{< /inline >}} Phlemga charges - two
    charges max, 45 second charge time, allows one cast of Phlegma.
 2. Addersgall stacks - three charges max, 20 second charge time, allows one use of Druochole, Kerachole, Ixochole, or
    Taurochole.
