@@ -3,15 +3,18 @@ title: Dark Knight Basic Guide
 card_header_image: /img/jobs/drk/basic.png
 authors:
   - nikroulah
-patch: "5.5"
+  - silaqui-amakiir
+patch: "6.05"
 lastmod: 2021-10-27T17:24:00.336Z
 changelog:
   - date: 2021-10-27T17:33:50.039Z
     message: Added
+  - date: 2022-03-15T01:19:29.210Z
+    message: (Minor) updates for 6.05
 ---
 # Introduction to Dark Knight
 
-## The useless pre-Endwalker guide by nikroulah#1605
+## The useless pre-Endwalker guide by nikroulah#1605 (now updated for 6.x)
 
 - - -
 
@@ -37,17 +40,24 @@ Goals for DRK openers include:
 * Get buffs like Blood Weapon and Delirium, and damaging abilities like Carve and Spit and Salted Earth on cooldown early.
 * Use as many big hits and spend as much mana as possible inside potion and raid buff windows (which typically come up around the 4th or 5th GCD).
 
-![4th GCD Delirium Opener](https://cdn.discordapp.com/attachments/872701089873530890/872701612257333278/drk4thgcd.png)
+## Standard Opener
 
-> Text version: Prepull The Blackest Night > Prepull Blood Weapon just before pull > Hard Slash + Edge of Shadow > Syphon Strike + Potion > Souleater + Living Shadow + Plunge > Hard Slash + Salted Earth + Delirium > Bloodspiller + Edge of Shadow + Carve and Spit > Bloodspiller + Edge of Shadow + Plunge > Bloodspiller + Edge of Shadow + Abyssal Drain > Bloodspiller + Edge of Shadow > Bloodspiller > Syphon Strike > Souleater
+Best raid buff alignment and a good default choice
 
-The potion used is whatever the current tier’s Strength potion is (as of the time of writing, and until Endwalker release, it is the Grade 4 Tincture of Strength HQ).
+![Standard Dark Knight Opener](/img/jobs/drk/drk_6.0_standard_opener_v3.png "Standard")
 
-## High Latency Adjustments:
+> Text version: Prepull The Blackest Night > Prepull Blood Weapon just before pull > Hard Slash + Edge of Shadow + Delirium > Syphon Strike + Potion > Souleater + Living Shadow + Salted Earth > Hard Slash + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
 
-At high latency (>100ms), consider using an opener that sticks to single weaves inside Blood Weapon and Delirium in order to ensure five GCDs land in each.
+The potion used is whatever the current tier’s Strength potion is (as of the time of writing, it is the Grade 6 Tincture of Strength HQ).
 
-Example: ![High latency adjustment](https://cdn.discordapp.com/attachments/872701089873530890/872701819292373052/drksingleweave.png)
+## Unmend Opener
+
+This opener should only be used if you need precise positioning on a boss early into the fight and can't do that with a standard (facepull) opener, or if you need a precise pull time, as it delays Living Shadow out of raid buffs, as well as delaying your MP generation.
+Consider having the other tank pull instead, then Provoke from them if needed.
+
+![Unmend Opener](https://cdn.discordapp.com/attachments/583964695266983944/925284495798710322/tmp4.PNG "Unmend")
+
+> Text version: Prepull The Blackest Night > Unmend + Delirium + Blood Weapon > Hard Slash + Edge of Shadow > Syphon Strike + Potion > Souleater + Living Shadow + Salted Earth > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Hard Slash + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
 
 Opener notes:
 
@@ -282,10 +292,14 @@ However, since most parties also possess two minute raid buffs, it is beneficial
 | AST | ![icon](https://xivapi.com/i/013000/013245_hr1.png)                                                                                                                                    | Divination       | 6% damage increase <br>15s duration                 | 120s     |
 | AST | Various                                                                                                                                                                                | Cards            | Target gets ~6% damage increase <br>15s duration     | 30s      |
 
-## Alternative Opener - 3rd GCD Delirium
+## Alternative Opener - Early Delirium
 
-![3rd GCD Delirium](https://cdn.discordapp.com/attachments/872701089873530890/872701687889002536/drk3rdgcdversion3.png)
-Sometimes useful if a fight benefits from a slightly earlier Delirium due to downtime or phasing.
+Useful if a fight benefits from a slightly earlier Delirium due to downtime or phasing
+
+![Early Delirium Opener](https://cdn.discordapp.com/attachments/583964695266983944/925284132886552576/tmp4.PNG "Early Delirium")
+
+> Text version: Prepull Delirium > Prepull The Blackest Night > Prepull Blood Weapon just before pull > Hard Slash + Edge of Shadow > Syphon Strike + Potion > Souleater + Living Shadow + Salted Earth > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Hard Slash + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
+
 
 ## Fight-specific optimization
 
