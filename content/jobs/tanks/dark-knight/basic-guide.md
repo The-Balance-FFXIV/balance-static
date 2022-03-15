@@ -91,25 +91,6 @@ Similarly, try to use three Blood Gauge spenders (i.e. Living Shadow, Bloodspill
 
 # Helpful Macros
 
-## Salted Earth (on self)
-
-```/merror
-/ac "Salted Earth" <me>
-/ac "Salted Earth" <me>
-/ac "Salted Earth" <me>
-/ac "Salted Earth" <me>
-/ac "Salted Earth" <me>
-/ac "Salted Earth" <me>
-/ac "Salted Earth" <me>
-/ac "Salted Earth" <me>
-/ac "Salted Earth" <me>
-/ac "Salted Earth" <me>
-/ac "Salted Earth" <me>
-/ac "Salted Earth" <me>
-/ac "Salted Earth" <me>
-/micon "Salted Earth"
-```
-
 ## The Blackest Night (mouseover)
 
 ```
@@ -205,9 +186,9 @@ Because of stat tiering, the Tank Gear Calc is the best tool to directly compare
 
 ## Choosing your skill speed
 
-The Dark Knight rotation is functional at almost all skill speeds. The only requirement is a minimum level of skill speed in order to fit five GCDs in Blood Weapon, which is possible at virtually any realistic recast speed (less than 2.45). In optimization, common recast speeds can be anywhere from 2.38 to 2.43.
+The Dark Knight rotation is functional at almost all skill speeds. The only requirement is a minimum level of skill speed in order to fit five GCDs in Blood Weapon, which is possible at virtually any realistic recast speed (no more than 2.45). In optimization, common recast speeds can be anywhere from 2.38 to 2.45.
 
-Outside of high-end optimization, choice of skill speed has little impact on the Dark Knight rotation, and can be chosen for comfort (faster speeds can be more forgiving and latency-friendly with Blood Weapon and Delirium, provided double weaves don’t clip your GCD). At certain speeds, 90-second cooldowns like Delirium must be drifted or clipped while the same is true of 60-second cooldowns at other speeds.
+Outside of high-end optimization, choice of skill speed has little impact on the Dark Knight rotation, and can be chosen for comfort (faster speeds can be more forgiving and latency-friendly with Blood Weapon and Delirium, provided double weaves don’t clip your GCD). At certain speeds, 90-second cooldowns like Salted Earth must be drifted or clipped while the same is true of 60-second cooldowns at other speeds.
 
 In optimization, each encounter must be considered separately to determine what GCDs are gained or lost by different skill speeds, as well as lining up the GCD with any melee disengages. In general, the slowest speed that doesn’t lose any major GCDs within a phase will be the strongest choice.
 
@@ -238,23 +219,22 @@ Living Dead has some synergy with White Mages, as their Benediction can fully he
 
 ## AoE Priority
 
-![AOE Priority](https://lh6.googleusercontent.com/DKjax_f1Kk-IJrU9YdnHGLXxOOL2oCqDD6JkngawU4fwiY__zyUW74xS664K6TosLnaSAExnPi3nwTzGW1BYUo8e6GYTNy_jfJhlvLdPOXSk76ObN_b8-IU64xfLMr__Vrb0bCyT=s0) 
+![AOE Priority](https://lh6.googleusercontent.com/DKjax_f1Kk-IJrU9YdnHGLXxOOL2oCqDD6JkngawU4fwiY__zyUW74xS664K6TosLnaSAExnPi3nwTzGW1BYUo8e6GYTNy_jfJhlvLdPOXSk76ObN_b8-IU64xfLMr__Vrb0bCyT=s0)  
  On any number of targets, prioritize spending Blood on Living Shadow.
 
-|                                                                                                                                                                                            |                                                                                                                                                                                             |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![2 target](https://lh5.googleusercontent.com/je8u42LVxCMC4a2qHgEwjNHOuFNng5tvWD_Vl-r-IspjuXKoUq091qE2kA24aE_g19LmOEtxqKKx6iz9mMHa95Dzru1oK2lJfo6-fjwgYzRCHAi0o8a4deheL5zW8nhGXetcFPWv=s0) | ![2target 2](https://lh6.googleusercontent.com/QXWUuYy7BBdBNo51JQjI20dfFVoxMThHIGkYEW376YDH6w1HsfVhXzwC27j8OyQlO85t8EtI46ZI2Q27rSELupUfhcQ12LbgKkocZhsB8gRy1Rv-hhoOrLbnu0BfK1-S1iwPSg16=s0) |
+ ![2 target](https://lh5.googleusercontent.com/je8u42LVxCMC4a2qHgEwjNHOuFNng5tvWD_Vl-r-IspjuXKoUq091qE2kA24aE_g19LmOEtxqKKx6iz9mMHa95Dzru1oK2lJfo6-fjwgYzRCHAi0o8a4deheL5zW8nhGXetcFPWv=s0)  
+On 2+ targets, replace Souleater combo with Stalwart Soul Combo.
 
-On 2+ targets, replace Souleater combo and Edge of Shadow/Darkness with Stalwart Soul Combo and Flood of Shadow/Darkness.
-
-![3 targets](https://lh3.googleusercontent.com/kpxcMMzdmTBcdwK0upDws_tzb4Fp4CCfPRtvfP-KLuFi9abH9GiJ-bLAvmJ2epSO0jM9bEh8BRAdXUrdmvsRYBwvw9QEn_TP0jy9nYPqbKhz0aa_9iEr_wWzzrqVjCChnAay7Hus=s0)
-On 3+ targets, replace Bloodspiller with Quietus.
-
-| **Salted Earth**                                                                                                                                                                        | **Abyssal Drain**                                                                                                                                                                      |
+| **Quietus**                                                                                                                                                                        | **Flood**                                                                                                                                                                      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![aoe 1](https://lh4.googleusercontent.com/RVzpcFuEas91IqZHJRjI-lSj70urqNF7Bg_xl8n1y96zIeXlOrZ81wlaILjc5Gj3X2uOUJdqGaCxR5oe0ioygq0aA9B6TuJWAsR4dX9rroodCwiYlUZiO41VxUoMhxoLaOLe63Js=s0) | ![aoe2](https://lh3.googleusercontent.com/IqgiYLYvy2whmfx7LTqjDR-MHQRFbIhtMqwzTHjGUtOTSvCFO7C9-QpAGGFN_R3aNX0IyWn7JsFl_1zaTgQQB_N1ABKlvQLhP2XwKjnVRaKkFDYu6o9or-bsnnaqPwRODecz0Mkp=s0) |
+| ![3 targets](https://lh3.googleusercontent.com/kpxcMMzdmTBcdwK0upDws_tzb4Fp4CCfPRtvfP-KLuFi9abH9GiJ-bLAvmJ2epSO0jM9bEh8BRAdXUrdmvsRYBwvw9QEn_TP0jy9nYPqbKhz0aa_9iEr_wWzzrqVjCChnAay7Hus=s0) | ![3 target 2](https://lh6.googleusercontent.com/QXWUuYy7BBdBNo51JQjI20dfFVoxMThHIGkYEW376YDH6w1HsfVhXzwC27j8OyQlO85t8EtI46ZI2Q27rSELupUfhcQ12LbgKkocZhsB8gRy1Rv-hhoOrLbnu0BfK1-S1iwPSg16=s0)  
+On 3+ targets, replace Bloodspiller with Quietus and Edge of Shadow/Darkness with Flood of Shadow/Darkness
 
-Try to maximize AoE with Salted Earth and Abyssal Drain.
+ ![ad](https://lh3.googleusercontent.com/IqgiYLYvy2whmfx7LTqjDR-MHQRFbIhtMqwzTHjGUtOTSvCFO7C9-QpAGGFN_R3aNX0IyWn7JsFl_1zaTgQQB_N1ABKlvQLhP2XwKjnVRaKkFDYu6o9or-bsnnaqPwRODecz0Mkp=s0)  
+On 4+ targets, replace Carve and Spit with Abyssal Drain.
+
+![aoe 1](https://lh4.googleusercontent.com/RVzpcFuEas91IqZHJRjI-lSj70urqNF7Bg_xl8n1y96zIeXlOrZ81wlaILjc5Gj3X2uOUJdqGaCxR5oe0ioygq0aA9B6TuJWAsR4dX9rroodCwiYlUZiO41VxUoMhxoLaOLe63Js=s0)  
+Try to maximize the number of targets you hit with Salted Earth.
 
 - - -
 
