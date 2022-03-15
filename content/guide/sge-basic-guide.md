@@ -7,6 +7,10 @@ Welcome to the basic guide for Sage, which should give you everything you need t
 fairly basic and does not cover every little detail. However, it should point you in the right general direction, and
 give you a feel for the class.
 
+### Author and Acknowledgements
+
+Written by Wynn Dohz, with special thanks to Shy and the rest of the Balance healer mentors.
+
 ## Overview
 
 Sage is a very powerful healer with a smooth flow and straightforward skills. Sage brings high personal damage, tons of
@@ -15,6 +19,8 @@ target for free when you use an offensive GCD. Addersgall is your main gauge res
 seconds, allowing powerful oGCD heals to be used. It's also the only healer with a gapcloser.
 
 ### What Makes Sage Unique?
+
+![Sage Banner](/img/sge_banner_1.jpg "Sage Banner")
 
 It's pretty straightforward to play at a decent level, and isn't all that hard optimize if you want to take your
 gameplay further. However, it does suffer from having the weakest GCD heals - if you are trying to recover from
@@ -79,15 +85,15 @@ minimizing heals to nearly the degree it does on the other healers.
 
 ![Standard Sage Opener](https://www.thebalanceffxiv.com/img/sge_standard.png)
 
-While there are other openers available in the [Openers] page, the basics are as follows:
+While there are other openers available in the \[Openers] page, the basics are as follows:
 
-- Start casting {{< inline >}} ![Dosis III](https://xivapi.com/i/003000/003680_hr1.png) {{< /inline >}}Dosis with 1.5
+* Start casting {{< inline >}} ![Dosis III](https://xivapi.com/i/003000/003680_hr1.png) {{< /inline >}}Dosis with 1.5
   seconds left
-- Immediately use {{< inline >}} ![Eukrasian Dosis III](https://xivapi.com/i/003000/003682_hr1.png) {{< /inline >}}
+* Immediately use {{< inline >}} ![Eukrasian Dosis III](https://xivapi.com/i/003000/003682_hr1.png) {{< /inline >}}
   Eukrasian Dosis III - Begin casting Dosis until raid buffs are up (typically, this would mean two Doses)
-- Use both {{< inline >}} ![Phlegma III](https://xivapi.com/i/003000/003681_hr1.png) {{< /inline >}}Phlegma III charges
+* Use both {{< inline >}} ![Phlegma III](https://xivapi.com/i/003000/003681_hr1.png) {{< /inline >}}Phlegma III charges
   in raid buffs
-- Continue using Dosis
+* Continue using Dosis
 
 ### Rotation and Priority
 
@@ -97,9 +103,9 @@ the time. Between dot refreshes, use Dosis.
 However, you have three additional GCDs that are useful against single targets (even if some of them have AoE damage
 too):
 
-- {{< inline >}}![Phlegma III](https://xivapi.com/i/003000/003681_hr1.png){{< /inline >}}Phlegma
-- {{< inline >}}![Toxikon II](https://xivapi.com/i/003000/003684_hr1.png){{< /inline >}}Toxikon
-- {{< inline >}}![Pneuma](https://xivapi.com/i/003000/003686_hr1.png){{< /inline >}}Pneuma
+* {{< inline >}}![Phlegma III](https://xivapi.com/i/003000/003681_hr1.png){{< /inline >}}Phlegma
+* {{< inline >}}![Toxikon II](https://xivapi.com/i/003000/003684_hr1.png){{< /inline >}}Toxikon
+* {{< inline >}}![Pneuma](https://xivapi.com/i/003000/003686_hr1.png){{< /inline >}}Pneuma
 
 Phlemga is a damage gain, while Toxikon and Pneuma are damage neutral. Let's talk about the best times to use each one.
 
@@ -153,17 +159,17 @@ These oGCD heals require a stack of Addersgall to use. Since you get a charge ev
 three, you can use these very frequently. In fact, each of them restores 7% of your mana, so you should use them
 liberally even if not necessarily needed.
 
-- {{< inline >}} ![Kerachole](https://xivapi.com/i/003000/003666_hr1.png) {{< /inline >}}Kerachole - Provides a 10%
+* {{< inline >}} ![Kerachole](https://xivapi.com/i/003000/003666_hr1.png) {{< /inline >}}Kerachole - Provides a 10%
   mitigation and 100p regen for 15 seconds to nearby party members. Functionally very similar to Scholar's Sacred Soil,
   but does not need to be placed (for better or for worse). Its 30 second cooldown means it can be up half the time, and
   the 500p total healing is more than Ixochole. Generally, this should be your go-to ability for incoming AoE damage.
   The damage reduction does not stack with Taurochole.
-- {{< inline >}} ![Ixochole](https://xivapi.com/i/003000/003667_hr1.png) {{< /inline >}}Ixochole - A simple 400p AoE
+* {{< inline >}} ![Ixochole](https://xivapi.com/i/003000/003667_hr1.png) {{< /inline >}}Ixochole - A simple 400p AoE
   heal on a 30 second cooldown.
-- {{< inline >}} ![Taurochole](https://xivapi.com/i/003000/003671_hr1.png) {{< /inline >}}Taurochole - A single target,
+* {{< inline >}} ![Taurochole](https://xivapi.com/i/003000/003671_hr1.png) {{< /inline >}}Taurochole - A single target,
   700 potency heal, plus 10% damage mitigation for 15 seconds. 45 second cooldown. The damage reduction does not stack
   with Kerachole.
-- {{< inline >}} ![Druochole](https://xivapi.com/i/003000/003664_hr1.png) {{< /inline >}}Druochole A single target, 600p
+* {{< inline >}} ![Druochole](https://xivapi.com/i/003000/003664_hr1.png) {{< /inline >}}Druochole A single target, 600p
   heal. This does not have a cooldown.
 
 Generally, Addersgall heals should be your first and foremost healing tool, as using them restores mana.
@@ -173,18 +179,17 @@ Generally, Addersgall heals should be your first and foremost healing tool, as u
 Next up, your other oGCD heals. These do not cost anything other than the cooldown itself, so they should be your second
 priority for healing, behind Addersgall heals.
 
-- {{< inline >}} ![Kardia](https://xivapi.com/i/003000/003653_hr1.png) {{< /inline >}}Kardia - See the [Kardia]
-  (#Kardia) section above.
-- {{< inline >}} ![Physis II](https://xivapi.com/i/003000/003670_hr1.png) {{< /inline >}} Physis - AoE regen plus heal
+* {{< inline >}} ![Kardia](https://xivapi.com/i/003000/003653_hr1.png) {{< /inline >}}Kardia - See the [Kardia](#Kardia) section above.
+* {{< inline >}} ![Physis II](https://xivapi.com/i/003000/003670_hr1.png) {{< /inline >}} Physis - AoE regen plus heal
   boost on a 60 second cooldown. The regen is 650 potency total over 15 seconds (5 ticks of 130p each). The healing up
   effect only last 10 seconds, and affects all incoming healing on affected targets.
-- {{< inline >}} ![Haima](https://xivapi.com/i/003000/003673_hr1.png) {{< /inline >}}Haima - A shield that repeatedly
+* {{< inline >}} ![Haima](https://xivapi.com/i/003000/003673_hr1.png) {{< /inline >}}Haima - A shield that repeatedly
   re-applies itself when absorbed (up to 5 times, not including the initial shield). Each shield is 300 potency, so the
   best case scenario is 1800p total absorbed. It also applies a small heal at the end of the duration based on how many
   stacks are remaining, so it can still be useful even if only two or three stacks are consumed.
-- {{< inline >}} ![Panhaima](https://xivapi.com/i/003000/003679_hr1.png) {{< /inline >}}Panhaima - Like Haima, but AoE,
+* {{< inline >}} ![Panhaima](https://xivapi.com/i/003000/003679_hr1.png) {{< /inline >}}Panhaima - Like Haima, but AoE,
   with a lower potency to compensate.
-- {{< inline >}} ![Holos](https://xivapi.com/i/003000/003678_hr1.png) {{< /inline >}}Holos - Similar effect to
+* {{< inline >}} ![Holos](https://xivapi.com/i/003000/003678_hr1.png) {{< /inline >}}Holos - Similar effect to
   Taurochole, but AoE. However, it does stack with Kerachole or Taurochole. The 300p heal is minor, but still something,
   so ideally you want to make use of both the healing and damage reduction.
 
@@ -201,21 +206,21 @@ However, they are free to use during downtime, mana aside. This can help with To
 
 #### Utility
 
-- {{< inline >}} ![Icarus](https://xivapi.com/i/003000/003663_hr1.png) {{< /inline >}}Icarus - Your gapcloser. You're
+* {{< inline >}} ![Icarus](https://xivapi.com/i/003000/003663_hr1.png) {{< /inline >}}Icarus - Your gapcloser. You're
   the only healer with a gapcloser, so make good use of it. It can be used on an enemy or party member.
-- {{< inline >}} ![Soteria](https://xivapi.com/i/003000/003662_hr1.png) {{< /inline >}}Soteria - Temporarily boosts the
+* {{< inline >}} ![Soteria](https://xivapi.com/i/003000/003662_hr1.png) {{< /inline >}}Soteria - Temporarily boosts the
   healing from Kardia by 50%. Useful for when you need a little extra free single target healing, or general tank
   upkeep.
-- {{< inline >}} ![Zoe](https://xivapi.com/i/003000/003668_hr1.png) {{< /inline >}}Zoe - Increases the potency of the
+* {{< inline >}} ![Zoe](https://xivapi.com/i/003000/003668_hr1.png) {{< /inline >}}Zoe - Increases the potency of the
   next GCD heal by 50%. The important part is the Pneuma counts as a GCD heal, so you can make full use of Zoe while not
   sacrificing damage.
-- {{< inline >}} ![Pepsis](https://xivapi.com/i/003000/003669_hr1.png) {{< /inline >}}Pepsis - Converts shields from
+* {{< inline >}} ![Pepsis](https://xivapi.com/i/003000/003669_hr1.png) {{< /inline >}}Pepsis - Converts shields from
   your GCD heals that are currently applied to raw healing. Like Scholar's Emergency Tactics, but in reverse (you use
   the heal first, then use Pepsis). This skill is fairly uncommon in actual use, so don't feel like it's going to waste
   if you don't use it.
-- {{< inline >}} ![Rhizomata](https://xivapi.com/i/003000/003677_hr1.png) {{< /inline >}}Rhizomata - Gives you a charge
+* {{< inline >}} ![Rhizomata](https://xivapi.com/i/003000/003677_hr1.png) {{< /inline >}}Rhizomata - Gives you a charge
   of Addersgall. Since Addersgall heals give mana, this can help with MP management even if the healing is not needed.
-- {{< inline >}} ![Krasis](https://xivapi.com/i/003000/003685_hr1.png) {{< /inline >}}Krasis - Increases healing
+* {{< inline >}} ![Krasis](https://xivapi.com/i/003000/003685_hr1.png) {{< /inline >}}Krasis - Increases healing
   received by a target. You should cast this on the target that you want to heal, not yourself. It will increase all
   forms of healing received by the target, and works multiplicative with other boosters such as Soteria.
 
@@ -223,12 +228,12 @@ However, they are free to use during downtime, mana aside. This can help with To
 
 Dungeons are pretty straightforward, since Kardia makes dungeons a breeze.
 
-- Throw Kardia on the tank
-- Spam Dyskrasia on packs, as well as Phlegma when available
-- DoT packs as you walk up to them
-- Use oGCD heals before dipping into GCD heals while fighting - you can use your 60 second cooldowns every big pull, and
+* Throw Kardia on the tank
+* Spam Dyskrasia on packs, as well as Phlegma when available
+* DoT packs as you walk up to them
+* Use oGCD heals before dipping into GCD heals while fighting - you can use your 60 second cooldowns every big pull, and
   120 second cooldowns every other big pull
-- Charge up Toxikon by applying Eukrasian Diagnosis to the tank before reaching a pack
+* Charge up Toxikon by applying Eukrasian Diagnosis to the tank before reaching a pack
 
 ### Gearing/Materia
 
