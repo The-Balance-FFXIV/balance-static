@@ -64,20 +64,21 @@ Opener notes:
 Dark Knight’s rotation is deceptively simple, and follows these simple principles:
 
 * Avoid overcapping on MP or blood by using Edge of Shadow and Bloodspiller, respectively.
-* Use offensive abilities (such as Abyssal Drain, Salted Earth, Blood Weapon, and Delirium) when available.
+* Use offensive abilities without charges (such as Carve and Spit, Salted Earth, Blood Weapon, and Delirium) when available.
+* Use offensive abilities with charges (Plunge and Shadowbringer) in raid buffs or to avoid overcapping. In practice, it is often possible to get all uses of these abilities under raid buffs.
 * Fill remaining GCDs with Souleater combo.
 
 ![Blood Weapon and Delirium](https://lh3.googleusercontent.com/0sINCR_AVAV3PHXz0Wc7lR1ziR1ZHlqxH6d-T7kYV8DPJU1ZKcScHwcqF7iE3Q9Y-qWn7oYgyYNz4jYqJsy0XuJv1GYBommNH5wpzfDU1ILERnTU-cuECpleMujWFiYw9vRgA9cC=s0)
 
 ## Using Blood Weapon and Delirium
 
-Blood Weapon and Delirium should be weaved at least two-thirds of the way into the GCD roll in order to cover five GCDs.
+Blood Weapon should be weaved at least two-thirds of the way into the GCD roll in order to cover five GCDs.
 
-Both should be used as they come up, without being held for extended periods of time (i.e. both in the opener, BW at \~1:00, Delirium at \~1:30, BW at ~2:00, etc).
+Both Blood Weapon and Delirium should be used as they come up, without being held for extended periods of time (i.e. in the opener, at \~1:00, at \~2:00, etc).
 
 The second Blood Weapon in the fight can (and should) be delayed by ~3 GCDs to avoid overcapping Blood and MP before raid buffs.
 
-Because spells (e.g. Unleash) have a longer recast time than weaponskills due to skill speed, it can be much harder to get five GCDs in Blood Weapon while using AoE. Try to save Blood Gauge for Blood Weapon so that two to three Blood Gauge spending GCDs (Bloodspiller/Quietus) can be used during Blood Weapon for the shorter recast. For example, with 100 Blood, use Blood Weapon after Unleash and then use Quietus, Quietus, Stalwart Soul, Quietus, Unleash.
+Because spells (e.g. Unleash) have a longer recast time than weaponskills due to skill speed, it can be much harder to get five GCDs in Blood Weapon while using AoE. Try to save Blood Gauge and Delirium stacks for Blood Weapon so that three to four Blood Gauge spending GCDs (Bloodspiller/Quietus) can be used during Blood Weapon for the shorter recast.
 
 ## Pooling Resources for Raid Buffs
 
@@ -211,7 +212,7 @@ Try to position the mobs so that they are in a tight clump: this lets you, your 
 
 ## Mitigation
 
-Cycle through your mitigation on trash pulls (they hurt more than bosses). Rather than using it all at once, keeping something up at all times can help your healer keep you alive more easily. More powerful mitigation cooldowns like Rampart, Shadow Wall, and Arm’s Length can be paired with weaker ones like Reprisal. The Blackest Night is one of your most powerful mitigation tools and can be used liberally (at least once per mob pack) once unlocked.
+Cycle through your mitigation on trash pulls (they hurt more than bosses). Rather than using it all at once, keeping something up at all times can help your healer keep you alive more easily. More powerful mitigation cooldowns like Rampart, Shadow Wall, and Arm’s Length can be paired with weaker ones like Reprisal or Oblation. The Blackest Night is one of your most powerful mitigation tools and can be used liberally (at least once per mob pack) once unlocked.
 
 With a skilled healer, Living Dead can be one of your most powerful dungeon mitigations. With a bad one (or a Scholar), try to stay away from relying on Living Dead and prefer using The Blackest Night and other mitigations. A panicked healer might heal your Walking Dead buff away immediately, rendering it useless.
 
@@ -240,17 +241,16 @@ Try to maximize the number of targets you hit with Salted Earth.
 
 # Frequently Asked Questions
 
-## Why can’t I fit five GCDs in Blood Weapon (or Delirium)?
+## Why can’t I fit five GCDs in Blood Weapon?
 
-The single most likely reason is that you aren’t weaving Blood Weapon late into the GCD. As long as you are weaving Blood Weapon late and keeping the GCD rolling during it, five GCDs in Blood Weapon should be very consistent. With high latency (100+ ms), double weaves can cause the last GCD to fall out of Blood Weapon. It is possible to mitigate some latency by using a gaming VPN (for example, Mudfish or PingZapper).
+There are several possible reasons. Below are some ways to diagnose common issues:
+* Try (on a striking dummy) using Blood Weapon immediately before your first GCD (the GCD will be slightly delayed by animation lock from Blood Weapon). If this makes a five-GCD Blood Weapon reliable, your problem is likely that you are using Blood Weapon too early under normal circumstances. Ideally, Blood Weapon should be used so that its animation lock ends exactly as you press the next GCD, around two-thirds to three-fourths of the way through the GCD.
+* Try (on a striking dummy) using Blood Weapon at your usual timing between GCDs, but use no other oGCDs. Repeatedly press each upcoming GCD until it activates. If this makes a five-GCD Blood Weapon reliable, your problem may be that you are delaying your GCDs under Blood Weapon, either by using too many oGCDs between GCDs (more than two, or more than one if your GCD speed and ping are particularly high) or by not activating your GCDs fast enough after the previous one.
+* If neither of these fix your problem, you may need additional skill speed in order to get five GCDs under Blood Weapon. Using a VPN (for example, Mudfish or PingZapper) may also help by mitigating your latency (and therefore also reducing animation lock).
 
-## I’m disengaging from the boss, should I use Unmend?
+## Can I overlap Blood Weapon and Delirium?
 
-Generally no. Breaking a combo by using Unmend in the middle of it is a bigger loss than waiting to get back to the boss. You can safely Unmend if you are leaving the boss for long enough that your combo would drop anyway (15s or roughly six GCDs), or if you are between combos and disengaging for at least one full GCD.
-
-## Should I hold Blood Weapon for Delirium? Should I hold Delirium for Blood Weapon?
-
-No. There is no inherent synergy between Blood Weapon and Delirium—Blood Weapon will always give 3000 MP and 50 Blood, regardless of if you use Delirium at the same time. Unless you know your kill-time and that holding one or the other will not lose a usage, do not hold either Blood Weapon or Delirium.
+Yes, although you need to be careful to not overcap on Blood, as Delirium prevents you from spending Blood with Bloodspiller until all three of its stacks have been used. With typical alignments of Blood Weapon and Delirium, you can accomplish this by making sure that you are at 40 Blood or less before pressing Blood Weapon or Delirium, whichever comes first.
 
 - - -
 
