@@ -208,6 +208,7 @@ the duration of the raid (persisting through wipes). Kardion causes the target t
    - The small variance inherent to all healing and damage is also rolled independently.
 
 - AoE spells must hit something to trigger it, but will only trigger it once per cast.
+- Individual DoT ticks do **not** trigger a heal.
 - Kardion can only be on a single target at a time - applying it to another target will remove it from the first.
 
 - There is a small cooldown of 5 seconds to switch targets, but no cooldown on the healing effect.
