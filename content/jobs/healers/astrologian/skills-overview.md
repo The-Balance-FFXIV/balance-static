@@ -26,7 +26,7 @@ changelog:
 **Fall Malefic**
 
 * Single target damage (250), 1.5 cast time
-* Can weave 1 oGCD after this
+* Can weave one oGCD after this
 * Cast this when you don't need to do anything else. 
 
 ![](/img/jobs/ast/003560_hr1.png)
@@ -34,8 +34,8 @@ changelog:
 **Gravity II**
 
 * AoE damage in a 5y radius around your target  (130 potency), 1.5 cast time
-* Can weave 1 oGCD after this
-* Gravity is a gain on 2 targets over Fall Malefic
+* Can weave one oGCD after this
+* Gravity is a gain on two targets over Fall Malefic
 * In dungeons, apply Combust while running and spam gravity when the tank stops
 
 ![](/img/jobs/ast/003554_hr1.png)
@@ -44,11 +44,11 @@ changelog:
 
 * Single target DoT (10 ticks of 55 potency), instant cast
 * Total potency: 550
-* Combust is a gain on 4 targets, and a lost on 5+ targets compared to gravity.
+* Combust is a gain on four targets, and a lost on 5+ targets compared to gravity.
 * Try not to refresh Combust early, losing ticks of Combust is a bigger lost than trying to fit it into buffs
 * If Optimizing: 
           *Refreshing Combust early can be a gain if you know your kill/phase time and you know you will lose ticks anyway.*
-          Combust is a gain on Fall Malefic after 5 ticks.
+          Combust is a gain on Fall Malefic after five ticks.
 
 # Healing
 
@@ -59,7 +59,7 @@ changelog:
 **Benefic**
 
 * Single target heal (500p), 1.5s cast time
-* Can weave 1 oGCD after this
+* Can weave one oGCD after this
 * Do not use unless out of MP and oGCDs are unavailable
 
 ![](/img/jobs/ast/benefic-2.png)
@@ -67,7 +67,7 @@ changelog:
 **Benefic II**
 
 * Single target heal (800p), 1.5s cast time
-* Can weave 1 oGCD after this
+* Can weave one oGCD after this
 * Use in scenarios where you need a single target GCD heal and you don't have oGCD heals to help
 
 ![](/img/jobs/ast/a.benefic.png)
@@ -77,7 +77,7 @@ changelog:
 * Single target heal (250p) + regen (5 ticks of 250p), instant cast.
 * Total heal potency: 1,500p
 * Use it on allies who are taking sustained single target damage, most commonly autos on tanks.
-* Asp Benefic is preferential to bene 2 if you don't need immediate healing
+* Asp Benefic is preferential to Benefic II if you don't need immediate healing
 
 ![](/img/jobs/ast/helios.png)
 
@@ -93,8 +93,8 @@ changelog:
 
 * AoE Healing in a 15y radius around you  (250p) + regen (5 ticks of 150p), 1.5s cast time
 * Total heal potency: 1000p
-* Can weave 1 oGCD after this
-* Use in scenarios where you need an AoE GCD heals, use this over Helios as it becomes neutral to helios with one regen tick and a heal gain with at least two ticks.
+* Can weave one oGCD after this
+* Use in scenarios where you need an AoE GCD heals, use this over Helios as it becomes neutral to Helios with one regen tick and a heal gain with at least two ticks.
 
 ![](/img/jobs/ast/macro.png)
 
@@ -108,7 +108,7 @@ changelog:
 * Can be activated manually, but will automatically activate at the end of the buff duration
 * When you manually activate it, you will only activate for allies within 20y radius around you
 * When activated anyone with the buff will heal for 50% of the damage they have taken over its duration and an additional 200p
-* Can be used for movement if you do not need it for healing in the next 3 minutes
+* Can be used for movement if you do not need it for healing in the next three minutes
 * Uses a weave window when manually activating the healing effect
 
 ## oGCDs
@@ -151,27 +151,27 @@ changelog:
 **Collective Unconscious 60s cd**
 
 * AoE buff in a 8y radius around you
-* Regen (5 ticks of 100p) and mitigation (10%)
+* Regen (five ticks of 100p) and mitigation (10%)
 * Total heal potency: 500p if not held
 * Use as a group mitigation and regen
-* If you use CU and cancel it instantly you'll have 5s of mitigation
-* Do not hold Collective Unconscious during most uptime scenario
+* If you use CU and cancel it instantly, you'll have 5s of mitigation
+* Do not hold Collective Unconscious during most uptime scenarios
 
 ![](/img/jobs/ast/star.png)
 
 **Earthly Star 60s cd**
 
 * Places a large 20y ground aoe (20s duration)
-* Heals party members and damages enemies inside aoe
+* Heals party members and damages enemies inside AoE
 * Initial heal (540), and damage (205) when manually activated
-* After 10s, upgrades to Giant Dominance.
+* After ten seconds, upgrades to Giant Dominance.
 * After being upgraded heals (720) and damages (310) when manually activated or when the duration ends
 * Uses a weave window when manually activating it
 * Try to use this as close to on cooldown as possible while getting the benefit of its healing
 
 ![](/img/jobs/ast/horoscope.png)
 
-**Horoscope 60s cd**
+**Horoscope 60s Cooldown**
 
 * Gives party members a buff in a 20y radius around you (10s duration)
 * Heals party members when activated (200p)
@@ -187,7 +187,7 @@ changelog:
 
 ![](/img/jobs/ast/synastry.png)
 
-**Synastry 2m cd**
+**Synastry -- Two Minute Cooldown**
 
 * Applies a buff to the target.
 * Aspected Benefic, Benefic and Benefic 2 heal will heal the buff target for 40% of the heal
