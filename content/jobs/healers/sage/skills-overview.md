@@ -198,17 +198,19 @@ priority for healing, behind Addersgall heals.
 
 ![Kardia](https://xivapi.com/i/003000/003653_hr1.png)
 
-Kardia is an indefinite buff, similar to Dance Partner. After applying it to a party member it will remain on them for
-the duration of the raid (persisting through wipes). It causes all of your offensive GCDs to apply a 170 potency heal to
-the target.
+Kardia places the 'Kardion' buff on the target. Kardion is an indefinite buff, similar to Dance Partner. After applying it to a party member it will remain on them for
+the duration of the raid (persisting through wipes). Kardion causes the target to receive a small heal every time you use an offensive GCD.
 
 - The potency of each heal is 170.
-- Both the damage roll and crit roll for the heal are independent of the damage.
+- The Kardion heal and the damage ability that triggered it do not share rolls - that goes for both critical hits, as well as the minor variance inherent to all heals and damage abilities.
 - AoE abilities must hit something to trigger it, but will only trigger it once per cast.
+- It can only be on a single target at a time - using it on another target will remove it from the first.
+
 - It has is a small cooldown of 5 seconds to switch targets, but no cooldown on the healing effect.
 - There is a 30 yard range limit for applying it.
-- There is also a larger range limit for the heal effect itself, but it is very large (60y or more) - it is a non-issue
-  for nearly all content in the game.
+- There is also a larger range limit for the heal effect itself, but it is very large (60y or more) - it is a non-issue for nearly all content in the game.
+- If there are multiple Sages in the party, multiple Kardions on the same target will stack.
+
 
 ### Physis
 
