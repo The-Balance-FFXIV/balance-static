@@ -44,8 +44,8 @@ changelog:
 
 * Single target DoT (10 ticks of 55 potency), instant cast
 * Total potency: 550
-* Combust is a gain on four targets, and a lost on 5+ targets compared to gravity.
-* Try not to refresh Combust early, losing ticks of Combust is a bigger lost than trying to fit it into buffs
+* Combust is a gain on four targets, and a loss on 5+ targets compared to gravity.
+* Try not to refresh Combust early, losing ticks of Combust is a bigger loss than trying to fit it into buffs
 * If Optimizing: 
           *Refreshing Combust early can be a gain if you know your kill/phase time and you know you will lose ticks anyway.*
           Combust is a gain on Fall Malefic after five ticks.
@@ -128,7 +128,7 @@ changelog:
 
 * Single target heal(200p) + Shield (400p)
 * Has two charges
-* Use as your primary tank upkeep tool, always keeping at least one on cooldown. Can also be used on a non-tank to help them deal with incoming damage if needed.
+* Use it as your primary tank upkeep tool, always keeping at least one on cooldown. Can also be used on a non-tank to help them deal with incoming damage if needed.
 
 ![](/img/jobs/ast/exaltation.png)
 
@@ -144,7 +144,7 @@ changelog:
 
 * AoE heal (200p) + Regen (5 ticks of 100p)
 * Total heal potency: 700p
-* Colestial Opposition has a strong heal on a short cooldown, make sure to utilize this ability often.
+* Celestial Opposition has a strong heal on a short cooldown, making sure to utilize this ability often.
 
 ![](/img/jobs/ast/collective-uncon.png)
 
@@ -202,7 +202,7 @@ changelog:
 
 * Reduces cast times by 2.5 seconds.
 * While Light speed makes your cast time instant, it isn't a dps gain you don't cast more spells outside of the last malefic before a fight ends.
-* Lightspeed should be held for the 2 minute div window as you have a lot of weaves there you want to do on time.
+* While Light speed makes your cast time instant, it isn't a dps gain; you don't cast more spells outside of the last malefic before a fight ends.
 
 ![](/img/jobs/ast/neutral.png)
 
@@ -289,7 +289,7 @@ changelog:
 * Cards can be played with the play ability after drawing a card
 * Draws one of six cards split by Melee cards and Ranged cards
 * Melee cards can be identified by the Teal border. It increases damage for Melee and Tank jobs by 6% and Ranged, Caster and Healer classes by 3%
-* Ranged cards can be identified by the Purple boarder. It increases damage for Ranged, Caster and healer classes by 6% and Melee and Tank jobs by 3%
+* Ranged cards can be identified by the Purple border. It increases damage for Ranged, Caster and healer classes by 6% and Melee and Tank jobs by 3%
 * If you are colorblind, melee cards have a + to the side of the card while ranged cards have a little o+ to the side of the card
 * Playing cards while you and your target are both in combat will give you a seal in your arcana gauge
 * Try not to over cap on draw charges
@@ -306,7 +306,7 @@ changelog:
 
 * Minor Arcana Draws a crown card from your deck
 * Minor Arcana can be played with the Crown Play ability after drawing a Minor Arcana card 
-* Minor Arcana and Play Minor Arcana both uses a weave window
+* Minor Arcana and Play Minor Arcana both use a weave window
 * *Lord of Crowns*
               *Aoe damage in a 20y radius around you (250p)*
               Is drawn with Minor Arcana and needs Crown Play ability to play it.
@@ -315,7 +315,7 @@ changelog:
 * *Lady of Crowns*
               *Aoe healing in a 20y radius around you (400p)*
               Is drawn with Minor Arcana and needs Crown play ability to play it.
-              *Uses a weave window* 
+              *Use a weave window* 
               Use this as an additional heal if you have it. It should not be put in heal plans as you may not always get it.
 
 ![](/img/jobs/ast/divination.png)
@@ -325,7 +325,7 @@ changelog:
 * Raid Buff: Increases the damage of allies within 15y by 6%
 * Uses a weave window
 * Stacks multiplicatively with other damage buffs
-* In raid boss fights use during the third GCD in your opener and on cooldown throughout the fight. Only delay its usage if your group is coordinating raid buffs.
+* In raid boss fights are used during the third GCD in your opener and on cooldown throughout the fight. Only delay its usage if your group is coordinating raid buffs
 * In dungeons use on trash and bosses do not save it unless trash will die very soon
 
 ![](/img/jobs/ast/astrodyne.png)
@@ -341,5 +341,5 @@ changelog:
               * At least three seals increase your outgoing damage and healing by 5%.
 * Aim to get at least 2 unique seals to get the haste buff, while it's ideal to get 3 unique seals, it's not always optimal to redraw for it and the damage buff is a small gain compared to the haste buff.
 * Haste isn't the same as spellspeed so it will not increase DoT damage
-* You can hold Astrodyne for the 2 minute window, your 6 minute window will have two Astrodynes if you do this I suggest looking at Astrodyne and Cards timeline for an idea on how 2 minute Astrodyne works (Link here?)
+* You can hold Astrodyne for the 2 minute window, your 6 minute window will have two Astrodynes if you do this. I suggest looking at Astrodyne and Cards timeline for an idea on how 2 minute Astrodyne works.
 * Overwriting cards in the Arcana gauge is never worth it unless you know you won't gain another Astrodyne before the fight ends.
