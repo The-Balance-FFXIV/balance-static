@@ -202,13 +202,17 @@ Kardia places the 'Kardion' buff on the target. Kardion is an indefinite buff, s
 the duration of the raid (persisting through wipes). Kardion causes the target to receive a small heal every time you use an offensive GCD.
 
 - The potency of each heal is 170.
-- The Kardion heal and the damage ability that triggered it do not share rolls - that goes for both critical hits, as well as the minor variance inherent to all heals and damage abilities.
-- AoE abilities must hit something to trigger it, but will only trigger it once per cast.
-- It can only be on a single target at a time - using it on another target will remove it from the first.
+- The Kardion heal and the damage ability that triggered it function independently. 
+   - Damage buffs will not increase the heal.
+   - The damage and healing can crit independently.
+   - The small variance inherent to all healing and damage is also rolled independently.
 
-- It has is a small cooldown of 5 seconds to switch targets, but no cooldown on the healing effect.
-- There is a 30 yard range limit for applying it.
-- There is also a larger range limit for the heal effect itself, but it is very large (60y or more) - it is a non-issue for nearly all content in the game.
+- AoE spells must hit something to trigger it, but will only trigger it once per cast.
+- Kardion can only be on a single target at a time - applying it to another target will remove it from the first.
+
+- There is a small cooldown of 5 seconds to switch targets, but no cooldown on the healing effect.
+- The heal effect has a 60y range limit (significantly longer than the 30y range for *applying* the buff), which is large enough to generally be a non-issue.
+- Unlike Dancer Partner, Kardia can be used on oneself.
 - If there are multiple Sages in the party, multiple Kardions on the same target will stack.
 
 
