@@ -203,7 +203,7 @@ the duration of the raid (persisting through wipes). It causes all of your offen
 the target.
 
 - The potency of each heal is 170.
-- It can crit, but does so independently of the ability that triggered it.
+- Both the damage roll and crit roll for the heal are independent of the damage.
 - AoE abilities must hit something to trigger it, but will only trigger it once per cast.
 - It has is a small cooldown of 5 seconds to switch targets, but no cooldown on the healing effect.
 - There is a 30 yard range limit for applying it.
