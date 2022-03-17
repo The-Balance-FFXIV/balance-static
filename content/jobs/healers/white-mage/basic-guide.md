@@ -31,7 +31,7 @@ White Mage is considered by many people to be the most beginner friendly healer,
 
 # Job Gauge: Lilies
 
-WHM’s job gauge displays two resources, blue Healing Lilies and red Blood Lily stacks. Healing Lilies are naturally accumulated over time once you unlock the job gauge at level 52. Every 30 seconds, a Healing Lily is automatically added to your job gauge, capping out at 3 stacks. Note that Healing Lily only charges while you are in combat, and the gauge is paused outside of combat. This distinction is mostly relevant in dungeon content, as the majority of raids and trials will consider you to be in combat as soon as the boss is pulled until the instance is completed. 
+WHM’s job gauge displays two resources, blue Healing Lilies and red Blood Lily stacks. Healing Lilies are naturally accumulated over time once you unlock the job gauge at level 52. Every 30 seconds, a Healing Lily is automatically added to your job gauge, capping out at three stacks. Note that Healing Lily only charges while you are in combat, and the gauge is paused outside of combat. This distinction is mostly relevant in dungeon content, as the majority of raids and trials will consider you to be in combat as soon as the boss is pulled until the instance is completed. 
 
 Healing Lilies allow you the use of Afflatus Solace (Lv. 52) and Afflatus Rapture (Lv. 76), healing spells that each consume one Healing Lily upon use. These spells will be expanded upon in the healing section, but they share the following characteristics:
 
@@ -39,7 +39,7 @@ Healing Lilies allow you the use of Afflatus Solace (Lv. 52) and Afflatus Raptur
 * Consumes one Healing Lily
 * 0 MP cost
 * Instant-cast, so you can weave two oGCDs after each Afflatus spell
-* Grants you one Blood Lily stack(post Lv. 74)
+* Grants you one Blood Lily stack (after Lvl. 74)
 
 Unlocked at level 74, Blood Lily stacks are generated when you use Afflatus Solace or Afflatus Rapture, up to a maximum of three, which allows you to execute Afflatus Misery, a targeted AoE damaging GCD that costs three Blood Lily stacks. Unlike Healing Lilies, Blood Lily stacks can be charged outside of combat when you use any Afflatus healing spell. 
 
@@ -51,7 +51,7 @@ Unlocked at level 74, Blood Lily stacks are generated when you use Afflatus Sola
 Your standard damage filler spell that you should aim to cast whenever possible, Glare does 310p per cast and has a 1.5s cast time assuming base recast of 2.5s. This allows you to weave one oGCD per hardcasted Glare without clipping your next GCD. At lower levels, “Stone” variants will be your filler spell.
 
 **Dia**
-An instant cast DoT spell that deals 60p upfront and then ticks for 30s, dealing 60p per tick for a total of 660p if allowed to run its full duration. As this is a gain over your standard Glare filler, this DoT should be maintained on the boss at all times, unless it is about to die in less than 15s. This also applies if the boss is about to disappear, as DoTs don’t tick on untargetable bosses for the vast majority of cases. At lower levels, “Aero” variants will be your DoT spell, which will still fulfill the same purpose in your damage kit, but have a lower duration at a mere 18s. 
+An instant cast DoT spell that deals 60p upfront and then ticks for 30s, dealing 60p per tick for a total of 660p if allowed to run its full duration. As this is a gain over your standard Glare filler, this DoT should be maintained on the boss at all times, unless it is about to die in less than 15s. This also applies if the boss is about to disappear, as DoTs don’t tick on untargetable bosses in the vast majority of cases. At lower levels, “Aero” variants will be your DoT spell, which will still fulfill the same purpose in your damage kit, but have a lower duration at a mere 18s. 
 
 **Holy III (“Holy” for simplicity)**
 An AoE centered on you that damages enemies within 8y by 150p and applies a stun effect. Enemies who are susceptible to the stun effect do build resistance to it, halving its duration with each application until they become temporarily immune to stun. This spell is very strong in dungeons where the cumulative 7s of stun helps mitigate a significant amount of tank damage in trash pulls. In raid scenarios, Holy is rarely used as it requires hitting three enemies to beat a Glare cast, though it can be used in niche optimization scenarios where you precast a Holy to hit the boss right as they come back from an untargetable phase. 
@@ -62,6 +62,7 @@ An instant-cast GCD that deals 900p damage to the primary target and 675p to ene
 The main exceptions to that are downtime and multi-target scenarios. As using Afflatus healing spells during downtime does not cost you any DPS, you should proactively ‘dump’ any available Healing Lilies without overcapping on your Blood Lily stacks so you have an Afflatus Misery at your disposal for when the boss comes back. In multi-target scenarios, if Afflatus Misery can even hit one additional target, it becomes a gain to proactively use Afflatus healing spells beforehand to prepare an Afflatus Misery.
 
 If you’ve already accumulated two Blood Lily stacks, you should also use a third Afflatus healing spell before the fight ends to complete the Lily set and get a partial damage refund.
+
 ## oGCD
 **Presence of Mind**
 A 15s buff on a two minute cooldown that grants you a haste buff that speeds up all your GCDs by 20%. As this buff is simply a GCD modifier and does not affect your spell speed substat, it has no effect on your DoT damage. The haste buff reduces the length of the weave window between hardcasted Glares, and may cause problems with weaving at certain ping levels. 
@@ -75,24 +76,24 @@ Healing & Mitigation Overview
 GCD
 Single Target Spells
 
-Cure
+**Cure**
 A basic healing spell that heals the designated target for 500p. It is by far the least utilized spell in your kit at higher levels due to its weak potency. Outside of level synced content where you do not have access to better healing spells, you won’t be using this outside of emergency situations where you don’t have Healing Lilies for Afflatus Solace and MP for Cure II, and all your oGCD options are unavailable. It does have a slightly faster cast time compared to Cure II, which may save someone in a pinch. Other than these very niche situations, Cure should not be used at all. 
 
 It has a 15% chance of proccing Freecure, which allows your next Cure II to be cast at no MP cost, but the trait plays no part in when we choose to use Cure.  
 
-Cure II
+**Cure II**
 A stronger version of Cure that costs more MP and heals the target for 800p. This is your best fallback single target healing option for when someone needs healing immediately, and you’re out of Healing Lilies and oGCDs. It’ll be used a decent amount in dungeons during hard-hitting pulls, as well as in raids during progression and recovery scenarios. 
 
-Regen
+**Regen**
 At 1500 total potency, Regen is your most powerful single target GCD heal if you do not need the full healing immediately. Regen is frequently used during big dungeon pulls and progression scenarios with sustained single target damage. In fights with heavy single target damage that cannot be handled solely with oGCDs, Regen can also double as a movement tool due to being an instant GCD.
 
 Despite being a healing spell, Regen does not proc a Paladin’s Divine Veil as it does not have any upfront healing.
 
-Afflatus Solace (Lily spell)
+**Afflatus Solace (Lily spell)**
 An instant cast, 0 MP spell that heals the target for 800p, putting it equivalent to Cure II in terms of healing power. In raid scenarios, it is not used too often compared to its AoE counterpart, Afflatus Rapture, especially since a lot of single target healing can be covered with oGCDs. If you’re in synced content where Afflatus Misery isn’t available (such as level 70 ultimates), Afflatus Solace becomes even lower than Regen in priority unless the full healing is needed immediately due to its lower total potency, and the fact that Regen is also an instant cast GCD. 
 
-AoE Spells
-Medica
+### AoE Spells
+**Medica**
 A basic AoE healing spell that heals all allies within 15y for 400p. It is outclassed by pretty much all of your other GCD AoE healing options and will therefore be rarely used at level cap content. It is only used when your party needs extra healing right now and a) Medica II is already applied, b) you cannot use Afflatus Rapture and c) Cure III is also not an option either due to party positioning or lack of MP.  
 
 Medica II
