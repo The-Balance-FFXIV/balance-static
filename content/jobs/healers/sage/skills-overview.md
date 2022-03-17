@@ -2,6 +2,7 @@
 title: Sage Skills
 authors:
   - Balance-SGE-Staff
+  - wynn
 patch: "6.08"
 lastmod: 2022-01-24T08:38:35.096Z
 changelog:
