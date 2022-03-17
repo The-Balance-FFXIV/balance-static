@@ -2,7 +2,7 @@
 title: Sage Advanced Guide
 card_header_image: /img/jobs/sge/sgeadvanced.png
 authors:
-  - Balance-SGE-Staff
+  - wynn
 patch: "6.08"
 lastmod: 2022-01-24T07:04:53.382Z
 changelog:
