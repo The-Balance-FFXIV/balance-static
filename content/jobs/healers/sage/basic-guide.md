@@ -3,6 +3,7 @@ title: Sage Basic Guide
 card_header_image: /img/jobs/sge/sgebasic.png
 authors:
   - Balance-SGE-Staff
+  - wynn
 patch: "6.0"
 lastmod: 2022-01-24T06:59:22.628Z
 changelog:
