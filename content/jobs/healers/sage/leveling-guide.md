@@ -2,7 +2,7 @@
 title: Sage Leveling Guide
 card_header_image: /img/jobs/sge/sgeleveling.png
 authors:
-  - Balance-SGE-Staff
+  - meru
 patch: "6.08"
 lastmod: 2022-03-11T23:48:42.394Z
 changelog:
@@ -21,7 +21,7 @@ When leveling, prefer equipping higher ilvl gear as they come by from dungeons o
 
 Your starting job quest will reward you with an i385 weapon and i385 left side gear. While these are sufficient to start the leveling process with (provided that you have a reasonable set of right side gear), you can easily obtain i400 Augmented Scaevan gear using poetics from Rowena’s Representative in Kugane. Similarly, at level 80, you can obtain i530 Augmented Cryptlurker gear from Mowen’s Representative in Crystarium. 
 
-Sage has 6 job quests spanning the levels 70-80, including the introductory one. While it is not necessary to do most of them as soon as you reach the corresponding level, they do provide a decent amount of exp. Your final job quest at level 80 should be done as soon as possible as a critical skill in your kit is locked behind job quest completion. 
+Sage has six job quests spanning the levels 70-80, including the introductory one. While it is not necessary to do most of them as soon as you reach the corresponding level, they do provide a decent amount of exp. Your final job quest at level 80 should be done as soon as possible as a critical skill in your kit is locked behind job quest completion. 
 
 # Glossary
 
@@ -30,10 +30,10 @@ Sage has 6 job quests spanning the levels 70-80, including the introductory one.
 * GCD (Global Cooldown): Spells that share the same base recast time. On SGE, these are anything categorized as “Spell” on the official job guide. 
 * Instant (Instant Cast): GCD Spells that do not have a cast bar.
 oGCD (Off Global Cooldown): Abilities that don’t share the 2.5s base recast time and therefore can be used while GCD spells are on cooldown.
-* Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely weave 2 oGCDs after an instant cast GCD that isn’t a Eukrasian spell, or 1 oGCD after Dosis, Pneuma and your various Eukrasian spells.
-* HoT (Heal over Time): Actions that heal the target over a period of time. These actions heal for their listed potency once every 3 seconds.
+* Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely weave two oGCDs after an instant cast GCD that isn’t a Eukrasian spell, or one oGCD after Dosis, Pneuma and your various Eukrasian spells.
+* HoT (Heal over Time): Actions that heal the target over a period of time. These actions heal for their listed potency once every three seconds.
 * Regen: Another word for HoT
-* DoT (Damage over Time): Actions that damage the target over a period of time. These actions deal damage for their listed potency once every 3 seconds.
+* DoT (Damage over Time): Actions that damage the target over a period of time. These actions deal damage for their listed potency once every three seconds.
 * AoE (Area of Effect): Actions that affect every target in a specified area. AoE heals heal all allies in a circle around their source. AoE damage abilities affect all enemies in an area specified by the ability; enemies can perform AoE attacks too.
 * Kardia: A buff that can be applied to any party member (including yourself), which is permanent until you change targets. Any time you cast a damaging GCD (Dosis, Eukrasian Dosis, Dyskrasia, Phlegma, Toxikon, Pneuma), the target of this buff is healed for 130p before level 85, and 170p after. 
 * Addersgall: Sage’s healing resource that generates naturally over time, one stack per 20s, capping out at three stacks. Can be used on Druochole, Kerachole, Ixochole and Taurochole. You gain 700MP every time you use one stack. Rhizomata (Lv. 74) grants you an Addersgall stack. 
@@ -72,7 +72,7 @@ Eukrasia becomes available at level 30, giving you access to your DoT Eukrasian 
 
 Despite SGE’s categorization as a shield healer, Eukrasian Prognosis is one of the lesser utilized aspects of our kit. Do not attempt to use Eukrasian Prognosis before every instance of raidwide damage - instead, prefer to heal up the damage afterwards with free healing tools such as Physis that don’t cost us a Dosis cast. However, do not skip out on using this ability if it would save your party from dying to unavoidable damage.
 
-On the other hand, Soteria, gained at level 35, is an ability that you should aim to utilize in trash pulls as much as possible. Soteria boosts all your Kardia healing by 50%, making each proc a 195p heal at this level range. You can use it alongside Physis for strong tank maintenance if needed, or when Physis is unavailable to space out your healing tools.
+On the other hand, Soteria, gained at level 35, is an ability that you should aim to utilize in trash pulls as much as possible. Soteria boosts all your Kardia healing by 50%, making each proc a 195p heal at this level range. You can use it alongside Physis for strong tank maintenance if needed, or when Physis is unavailable to space out your healing tools. 
 
 ## Damage
 With access to your instant cast DoT ability, you should aim to apply Eukrasian Dosis to any enemy that you can while your tank is running between trash pulls. Eukrasian Dosis beats a regular Dosis after 21s, so only apply the DoT to enemies that you think will live long enough once the tank settles the pull. Eukrasian Dosis only procs Kardia healing once when it’s applied, and not every time the DoT ticks. 
@@ -85,9 +85,9 @@ Your gameplay at these levels change quite a bit with the introduction of your s
 
 ## Healing
 
-**Druochole (Lv. 45):** The very first Addersgall ability you get. It heals the target for 600p and has a cooldown of 1s, effectively making it a spammable oGCD heal as long as you have Addersgall stacks remaining. This will be your goto single target healing option when Kardia heals aren’t enough.
+**Druochole (Lv. 45):** The very first Addersgall ability you get. It heals the target for 600p and has a cooldown of 1s, effectively making it a spammable oGCD heal as long as you have Addersgall stacks remaining. This will be your goto single target healing option when Kardia heals aren’t enough. 
 
-**Kerachole (Lv. 50):** Applies a 10% mitigation effect to all party members in range for 15s. As Kerachole does not have a regen effect at this level, it is not worth using in trash packs as the 600p healing that Druochole provides often outweighs the damage that the 10% mitigation can save you. However, getting into the habit of using it to mitigate raidwide damage is not a bad idea.
+**Kerachole (Lv. 50):** Applies a 10% mitigation effect to all party members in range for 15s. As Kerachole does not have a regen effect at this level, it is not worth using in trash packs as the 600p healing that Druochole provides often outweighs the damage that the 10% mitigation can save you. However, getting into the habit of using it to mitigate raidwide damage is not a bad idea. 
 
 **Ixocholde (Lv. 52):** Heals all party members in range for 400p. Your bread and butter AoE healing option at this level along with Physis. At a short cooldown of 30s, it’ll be up for most instances of unavoidable raidwide damage. Unlike most of our AoE healing tools, this should not be used in trash pack healing as Druochole provides higher single target healing for the same Addersgall cost. 
 
@@ -144,6 +144,6 @@ SGE’s capstone ability, Pneuma, doesn’t really play a major role in the leve
 Eukrasian Diagnosis, Eukrasian Prognosis and Kardia heals get a decent potency upgrade at level 85, but this does not affect how they are used in the kit. 
 
 ## Damage
-Nothing significant changes about your damage rotation at these levels. In multitarget scenarios, keep applying your DoT to enemies while running between pulls and spam Dyskrasia after the pull is settled. Spend Toxikons (but do not actively generate them while enemies are targetable) and Phlegma charges as they come up.
+Nothing significant changes about your damage rotation at these levels. In multitarget scenarios, keep applying your DoT to enemies while running between pulls and spam Dyskrasia after the pull is settled. Spend Toxikons (but do not actively generate them while enemies are targetable) and Phlegma charges as they come up. 
 
 In single target scenarios, Toxikon finally becomes damage neutral with Dosis at level 82 and can be used as a lossless movement tool when you have Addersting stacks. 
