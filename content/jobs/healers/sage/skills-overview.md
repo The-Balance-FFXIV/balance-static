@@ -1,12 +1,14 @@
 ---
 title: Sage Skills
 authors:
-  - Laille-Ormesaing
+  - Balance-SGE-Staff
 patch: "6.08"
 lastmod: 2022-01-24T08:38:35.096Z
 changelog:
   - date: 2022-01-24T08:39:05.371Z
     message: Added page
+  - date: 2022-03-17T02:23:47.239Z
+    message: Updated
 ---
 ## Before you Start: Eukrasia
 
