@@ -62,9 +62,9 @@ Consider having the other tank pull instead, then Provoke from them if needed.
 Opener notes:
 
 * Blood Weapon is used prepull to ensure that Living Shadow is used as soon as possible. Any later and a hit will get pushed out of raid buffs.
-* The prepull TBN is used to prevent MP overcap from the first Hard Slash under Blood Weapon, since if it breaks it refunds the MP cost in the form of a free Edge of Shadow.
+* The pre-pull TBN is used to prevent MP overcap from the first Hard Slash under Blood Weapon, since if it breaks it refunds the MP cost in the form of a free Edge of Shadow.
 
-  * If the prepull TBN will not break, then simply omit it and overcap 600-800 MP before your first Edge of Shadow
+  * If the pre-pull TBN will not break, then simply omit it and overcap 600-800 MP before your first Edge of Shadow
 * Try to avoid pulling with Unmend, as doing so will delay Living Shadow. If you need to start with aggro, consider having your co-tank pull with stance on and use Provoke after your opener.
 
 - - -
@@ -86,7 +86,7 @@ Blood Weapon should be weaved at least two-thirds of the way into the GCD roll i
 
 Both Blood Weapon and Delirium should be used as they come up, without being held for extended periods of time (i.e. in the opener, at \~1:00, at \~2:00, etc).
 
-The second Blood Weapon in the fight can (and should) be delayed by ~3 GCDs to avoid overcapping Blood and MP before raid buffs.
+The second Blood Weapon in the fight can (and should) be delayed by ~three GCDs to avoid overcapping Blood and MP before raid buffs.
 
 Because spells (e.g. Unleash) have a longer recast time than weaponskills due to skill speed, it can be much harder to get five GCDs in Blood Weapon while using AoE. Try to save Blood Gauge and Delirium stacks for Blood Weapon so that three to four Blood Gauge spending GCDs (Bloodspiller/Quietus) can be used during Blood Weapon for the shorter recast.
 
@@ -122,7 +122,7 @@ Similarly, try to use three Blood Gauge spenders (i.e. Living Shadow, Bloodspill
 /micon "The Blackest Night"
 ```
 
-## Shirk (assumes party slot 2)
+## Shirk (assumes party slot two)
 
 ```
 /merror off
@@ -158,7 +158,7 @@ FFXIV macros do not queue, so hitting a macro while in animation lock from anoth
 
 Before obtaining best-in-slot gear, pick gear and meld according to stat priority on each piece of gear. Best-in-slot sets can be found on the [BiS page](/jobs/tanks/dark-knight/best-in-slot/) or in the Balance discord.
 
-Because of stat tiering, the Tank Gear Calc is the best tool to directly compare specific gear pieces <https://bit.ly/TankDPSCalc520>.
+Because of stat tiering, the Tank Gear Calc is the best tool to directly compare specific gear pieces [Linked here.](https://bit.ly/TankDPSCalc520).
 
 **Highest priority**
 
@@ -187,7 +187,7 @@ Because of stat tiering, the Tank Gear Calc is the best tool to directly compare
 * Determination
 
   * Increases damage dealt
-  * Sometimes used in 1 slot due to stat tiering
+  * Sometimes used in one slot due to stat tiering
 * Tenacity
 
   * Increases damage dealt and reduces damage taken
@@ -234,7 +234,7 @@ Living Dead has some synergy with White Mages, as their Benediction can fully he
  On any number of targets, prioritize spending Blood on Living Shadow.
 
  ![2 target](https://lh5.googleusercontent.com/je8u42LVxCMC4a2qHgEwjNHOuFNng5tvWD_Vl-r-IspjuXKoUq091qE2kA24aE_g19LmOEtxqKKx6iz9mMHa95Dzru1oK2lJfo6-fjwgYzRCHAi0o8a4deheL5zW8nhGXetcFPWv=s0)  
-On 2+ targets, replace Souleater combo with Stalwart Soul Combo.
+On two or more targets, replace Souleater combo with Stalwart Soul Combo.
 
 | **Quietus**                                                                                                                                                                        | **Flood**                                                                                                                                                                      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
