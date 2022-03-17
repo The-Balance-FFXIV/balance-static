@@ -25,30 +25,29 @@ changelog:
 
 **Fall Malefic**
 
-* Single target damage (250), 1.5 cast time
-* Can weave one oGCD after this
+* Single target damage (250), 1.5 cast time. 
 * Cast this when you don't need to do anything else. 
+* Can weave one oGCD after this. 
 
 ![](/img/jobs/ast/003560_hr1.png)
 
 **Gravity II**
 
-* AoE damage in a 5y radius around your target  (130 potency), 1.5 cast time
-* Can weave one oGCD after this
-* Gravity is a gain on two targets over Fall Malefic
-* In dungeons, apply Combust while running and spam gravity when the tank stops
+* AoE damage in a 5y radius around your target  (130 potency), 1.5 cast time. 
+* In dungeons, apply Combust while running and spam gravity when the tank stops. 
+* Gravity is a gain on two targets over Fall Malefic. 
+* Can weave one oGCD after this. 
 
 ![](/img/jobs/ast/003554_hr1.png)
 
 **Combust III**
 
-* Single target DoT (10 ticks of 55 potency), instant cast
-* Total potency: 550
-* Combust is a gain on four targets, and a loss on 5+ targets compared to gravity.
-* Try not to refresh Combust early, losing ticks of Combust is a bigger loss than trying to fit it into buffs
+* Single target DoT (10 ticks of 55 potency), instant cast. Total potency: 550. 
+* In dungeons, apply Gravity while running and use Gravity when the tank stops. 
 * If Optimizing: 
-          *Refreshing Combust early can be a gain if you know your kill/phase time and you know you will lose ticks anyway.*
-          Combust is a gain on Fall Malefic after five ticks.
+
+  * Refreshing Combust early can be a gain if you know your kill/phase time and you know you will lose ticks anyway.
+  * Combust is a gain on Fall Malefic after five ticks.
 
 # Healing
 
@@ -58,43 +57,41 @@ changelog:
 
 **Benefic**
 
-* Single target heal (500p), 1.5s cast time
-* Can weave one oGCD after this
-* Do not use unless out of MP and oGCDs are unavailable
+* Single target heal (500p), 1.5s cast time. 
+* Once you have Benefic II, Benefic is only used when you're out of mana and it's your only available heal. 
+* Can weave one oGCD after this. 
 
 ![](/img/jobs/ast/benefic-2.png)
 
 **Benefic II**
 
-* Single target heal (800p), 1.5s cast time
-* Can weave one oGCD after this
-* Use in scenarios where you need a single target GCD heal and you don't have oGCD heals to help
+* Single target heal (800p), 1.5s cast time. 
+* Use in niche scenarios where you need a single target heal, every other single target heal is on cooldown,  and it's too late to use Aspected Benefic. 
+* Can weave one oGCD after this. 
 
 ![](/img/jobs/ast/a.benefic.png)
 
 **Aspected Benefic**
 
-* Single target heal (250p) + regen (5 ticks of 250p), instant cast.
-* Total heal potency: 1,500p
+* Single target heal (250p) + regen (5 ticks of 250p), instant cast. Total heal potency: 1,500p
 * Use it on allies who are taking sustained single target damage, most commonly autos on tanks.
-* Asp Benefic is preferential to Benefic II if you don't need immediate healing
+* Aspected Benefic has substantially higher total potency than Cure 2 if you don't need immediate healing
 
 ![](/img/jobs/ast/helios.png)
 
 **Helios**
 
 * AoE Healing in a 15y radius around you (400p), 1.5s cast time
+* Use in niche scenarios where you need extra AoE healing, can't wait for a tick of Aspected Helios and you have no oGCDs.
 * Can weave 1 oGCD after this
-* Use in scenarios where you need an AoE GCD heal and Aspected Helios's regen is already up
 
 ![](/img/jobs/ast/a.helios.png)
 
 **Aspected Helios**
 
-* AoE Healing in a 15y radius around you  (250p) + regen (5 ticks of 150p), 1.5s cast time
-* Total heal potency: 1000p
+* AoE Healing in a 15y radius around you  (250p) + regen (5 ticks of 150p), 1.5s cast time. Total healing: 1000p
+* Use in scenarios where you need an AoE GCD heals, use this over Medica as it becomes neutral to Medica with one regen tick and a heal gain with at least two ticks.
 * Can weave one oGCD after this
-* Use in scenarios where you need an AoE GCD heals, use this over Helios as it becomes neutral to Helios with one regen tick and a heal gain with at least two ticks.
 
 ![](/img/jobs/ast/macro.png)
 
