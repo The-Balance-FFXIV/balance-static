@@ -17,7 +17,7 @@ While Sage starts out at level 70, you may find yourself synced to lower level r
 
 # Gear and Job Quests
 
-When leveling, prefer equipping higher ilvl gear as they come by from dungeons or Main Scenario Quests (if Sage is the job you go through story quests with). As most of your gear will be replaced every few levels, it is not worth melding materia into any of them. 
+When leveling, prefer equipping higher iLvl gear as they come by from dungeons or Main Scenario Quests (if Sage is the job you go through story quests with). As most of your gear will be replaced every few levels, it is not worth melding materia into any of them. 
 
 Your starting job quest will reward you with an i385 weapon and i385 left side gear. While these are sufficient to start the leveling process with (provided that you have a reasonable set of right side gear), you can easily obtain i400 Augmented Scaevan gear using poetics from Rowena’s Representative in Kugane. Similarly, at level 80, you can obtain i530 Augmented Cryptlurker gear from Mowen’s Representative in Crystarium. 
 
@@ -53,9 +53,9 @@ As Sage starts at level 70, you will have full access to your role actions regar
 
 **Surecast:** Prevents most forced movement effects and stops your cast from being interrupted. Use it to maintain casting uptime.
 
-**Rescue:** Pulls a targeted party member towards you. Both you and your target needs to be in combat for this to take effect. This skill is generally not used outside of coordinated environments due to the delay on the movement.
+**Rescue:** Pulls a targeted party member towards you. Both you and your target need to be in combat for this to take effect. This skill is generally not used outside of coordinated environments due to the delay on the movement.
 
-# Level 18-29 
+# Levels 18-29 
 
 ## Healing
 Always apply Kardia to the tank at the beginning of dungeons. At this level range, your tank sustain can be almost entirely carried by your Kardia healing, provided that you’re consistently casting Dosis. 
@@ -63,10 +63,11 @@ Always apply Kardia to the tank at the beginning of dungeons. At this level rang
 At level 20, you gain access to Physis, an AoE 15s regen effect that heals for 500p over its full duration. Don’t sit on it thinking that it’s only a raidwide healing tool - use it proactively in trash pulls for tank maintenance, and its short 60s CD means it will be available for most pulls. 
 
 Unless your tank is doing massive wall to wall pulls in these dungeons, it will be very rare to need Diagnosis. At 400p, Diagnosis is technically your most potent single target healing tool at this level, though it’s in reality only a 270p healing gain on your tank due to Diagnosis not proccing Kardia healing. That said, don’t hesitate to use it if your Kardia heals aren’t enough to keep up with incoming damage. 
+
 ## Damage
 Your DPS rotation at this range is very simple as you don’t even have access to your DoT due to the lack of Eukrasia. Simply cast Dosis and use your Phlegma (Lv. 26) charges as they come up.   
 
-# Level 30-44
+# Levels 30-44
 ## Healing
 Eukrasia becomes available at level 30, giving you access to your DoT Eukrasian Dosis, as well as your single target and AoE shield in the form of Eukrasian Diagnosis and Eukrasian Prognosis respectively. Always apply Eukrasian Diagnosis to your tank prepull. Eukrasian Diagnosis also replaces Diagnosis as your single target GCD option from this point onwards, as it is a more potent heal at 675p (300p raw heal + 375p shield).
 
@@ -80,37 +81,38 @@ With access to your instant cast DoT ability, you should aim to apply Eukrasian 
 In boss fights, keep your Eukrasian Dosis DoT up on the enemy at all times, only letting it drop if the fight is about to come to an end.
 
 While not a DPS tool, you do gain a gap-closer at level 40 in the form of Icarus. Icarus can be targeted on either an enemy or party member, and you can use it to keep up with the tank between pulls, or to move quickly into a safe spot if your party members preposition for mechanics. 
-# Level 45-65
+
+# Levels 45-65
 Your gameplay at these levels change quite a bit with the introduction of your spammable AoE GCD in the form of Dyskrasia (Lv. 46) as well as your Addersgall heals. 
 
 ## Healing
 
-**Druochole (Lv. 45):** The very first Addersgall ability you get. It heals the target for 600p and has a cooldown of 1s, effectively making it a spammable oGCD heal as long as you have Addersgall stacks remaining. This will be your goto single target healing option when Kardia heals aren’t enough. 
+**Druochole (Lvl. 45):** The very first Addersgall ability you get. It heals the target for 600p and has a cooldown of 1s, effectively making it a spammable oGCD heal as long as you have Addersgall stacks remaining. This will be your go-to single target healing option when Kardia heals aren’t enough. 
 
-**Kerachole (Lv. 50):** Applies a 10% mitigation effect to all party members in range for 15s. As Kerachole does not have a regen effect at this level, it is not worth using in trash packs as the 600p healing that Druochole provides often outweighs the damage that the 10% mitigation can save you. However, getting into the habit of using it to mitigate raidwide damage is not a bad idea. 
+**Kerachole (Lvl. 50):** Applies a 10% mitigation effect to all party members in range for 15s. As Kerachole does not have a regen effect at this level, it is not worth using in trash packs as the 600p healing that Druochole provides often outweighs the damage that the 10% mitigation can save you. However, getting into the habit of using it to mitigate raidwide damage is not a bad idea. 
 
-**Ixocholde (Lv. 52):** Heals all party members in range for 400p. Your bread and butter AoE healing option at this level along with Physis. At a short cooldown of 30s, it’ll be up for most instances of unavoidable raidwide damage. Unlike most of our AoE healing tools, this should not be used in trash pack healing as Druochole provides higher single target healing for the same Addersgall cost. 
+**Ixochole (Lvl. 52):** Heals all party members in range for 400p. Your bread and butter AoE healing option at this level along with Physis. At a short cooldown of 30s, it’ll be up for most instances of unavoidable raidwide damage. Unlike most of our AoE healing tools, this should not be used in trash pack healing as Druochole provides higher single target healing for the same Addersgall cost. 
 
-**Taurochole (Lv. 62):** Heals the target for 700p and applies a 10% mitigation buff for 15s. With a cooldown of 45s, Taurochole should be up for every trash pull and should be used for both its potent healing and mitigation aspects. Do not apply this to the tank when they are at full health, let their HP drop a little bit so Taurochole does useful healing on top of mitigation. The mitigation effect does not stack with Kerachole’s mitigation effect, but does not quite matter yet as you won’t be using Kerachole in trash pulls at this level range. 
+**Taurochole (Lvl. 62):** Heals the target for 700p and applies a 10% mitigation buff for 15s. With a cooldown of 45s, Taurochole should be up for every trash pull and should be used for both its potent healing and mitigation aspects. Do not apply this to the tank when they are at full health, let their HP drop a little bit so Taurochole does useful healing on top of mitigation. The mitigation effect does not stack with Kerachole’s mitigation effect, but does not quite matter yet as you won’t be using Kerachole in trash pulls at this level range. 
 
 Aside from the addition of Addersgall heals, Physis also gets an upgrade to Physis II at level 60, upgrading its total potency from 500p to 650p, and adding a healing received buff for 10s to anyone who receives the regen. The healing buff works on all forms of healing and also buffs the strength of any potency based shields, though this does not functionally change the way you use Physis.
 
-**Zoe (Lv. 56)** buffs the strength of your next GCD heal by 50%, which at this level applies to only Diagnosis and Prognosis, as well as their Eukrasian versions. Zoe won’t see too much use as we try to avoid using GCD healing in general, though the 50% buff definitely comes in handy when you’re reduced to spamming Eukrasian Diagnosis in dire situations. You can also use it on the prepull Eukrasian Diagnosis you apply on the tank to boost the shield’s strength. 
+**Zoe (Lvl. 56)** buffs the strength of your next GCD heal by 50%, which at this level applies to only Diagnosis and Prognosis, as well as their Eukrasian versions. Zoe won’t see too much use as we try to avoid using GCD healing in general, though the 50% buff definitely comes in handy when you’re reduced to spamming Eukrasian Diagnosis in dire situations. You can also use it on the prepull Eukrasian Diagnosis you apply on the tank to boost the shield’s strength. 
 
-**Pepsis (Lv. 58)** converts existing Eukrasian Diagnosis or Eukrasian Prognosis shields into raw healing of 450p for the former, and 350p for the latter. For example, casting Eukrasian Prognosis and then using Pepsis results in a heal of 450p (100p from the non shield portion of Eukrasian Prognosis + 350p from Pepsis). It is one of the least used tools in the SGE kit as it requires a GCD heal to be effective, and barely offers any healing potency advantages compared to our other options. You’ll generally only see it used when a large amount of raw healing is required, for example, when party members need to be at 100% HP for mechanical purposes. 
+**Pepsis (Lvl. 58)** converts existing Eukrasian Diagnosis or Eukrasian Prognosis shields into raw healing of 450p for the former, and 350p for the latter. For example, casting Eukrasian Prognosis and then using Pepsis results in a heal of 450p (100p from the non-shield portion of Eukrasian Prognosis + 350p from Pepsis). It is one of the least used tools in the SGE kit as it requires a GCD heal to be effective, and barely offers any healing potency advantages compared to our other options. You’ll generally only see it used when a large amount of raw healing is required, for example, when party members need to be at 100% HP for mechanical purposes. 
 
 In summary, continue using Physis and Soteria on trash pulls whenever those abilities are available. Use Taurochole after the tank’s health drops a bit to make use of its healing and mitigation effect, then Druochole if you need to heal the tank as long as you have Addersgall stacks. 
 
 ## Damage
-At level 46, SGE finally gets a spammable AoE damaging GCD in the form of Dyskrasia. On 2 targets, Dyskrasia either beats or breaks even with Dosis at every level, so you should be switching to using Dyskrasia over Dosis whenever there are multiple targets. Dyskrasia only procs Kardia healing when it hits a target, and only once per GCD, and not once per target hit. Continue using Phlegma charges as they come up as they’re a DPS gain in all practical scenarios. 
+At level 46, SGE finally gets a spammable AoE damaging GCD in the form of Dyskrasia. On two targets, Dyskrasia either beats or breaks even with Dosis at every level, so you should be switching to using Dyskrasia over Dosis whenever there are multiple targets. Dyskrasia only procs Kardia healing when it hits a target, and only once per GCD, and not once per target hit. Continue using Phlegma charges as they come up as they’re a DPS gain in all practical scenarios. 
 
-# Level 66-80
+# Levels 66-80
 Throughout these levels, you unlock the other half of your job gauge in the form of Addersting, and gain a lot of important healing tools that will form the backbone of your dungeon healing ‘rotation’. 
 ## Healing
 
-**Haima (Lv. 70)** is your most powerful single target oGCD healing tool in dungeons. It applies a shield of 300p to your target, and re-applies another 300p shield every time the previous one has been fully consumed by damage, up to a total of 5 re-applications. When fully used, Haima essentially provides 1800p of healing (300p initial shield + 5x300p re-application). Any unused re-application stacks at the end of Haima’s 15s duration are converted automatically into healing worth 150p per remaining stack. However, the high damage during trash pulls will almost always guarantee full Haima potency. Haima snapshots any healing buffs when it’s applied, meaning that a 10% healing buff will carry over to all shield re-applications even if the original healing buff expires sometime during Haima. Because of this interaction, try to use Physis II and Haima together as much as you can, applying Physis II before using Haima, which turns the latter into a 1980p heal. 
+**Haima (Lvl. 70)** is your most powerful single target oGCD healing tool in dungeons. It applies a shield of 300p to your target, and re-applies another 300p shield every time the previous one has been fully consumed by damage, up to a total of five re-applications. When fully used, Haima essentially provides 1800p of healing (300p initial shield + 5x300p re-application). Any unused re-application stacks at the end of Haima’s 15s duration are converted automatically into healing worth 150p per remaining stack. However, the high damage during trash pulls will almost always guarantee full Haima potency. Haima snapshots any healing buffs when it’s applied, meaning that a 10% healing buff will carry over to all shield re-applications even if the original healing buff expires sometime during Haima. Because of this interaction, try to use Physis II and Haima together as much as you can, applying Physis II before using Haima, which turns the latter into a 1980p heal. 
 
-**Holos (Lv. 76)** is an AoE healing oGCD that heals all party members within range by 300p and also applies a 10% mitigation effect that lasts 20s. Despite its AoE nature, Holos should be used during trash pulls after the tank has taken some damage for its healing effect and as an additional 10% mitigation at your disposal. Either use it with Taurochole (the mitigation does stack), or after Taurochole’s mitigation fades to maintain a consistent 10% mitigation effect on the tank. 
+**Holos (Lvl. 76)** is an AoE healing oGCD that heals all party members within range by 300p and also applies a 10% mitigation effect that lasts 20s. Despite its AoE nature, Holos should be used during trash pulls after the tank has taken some damage for its healing effect and as an additional 10% mitigation at your disposal. Either use it with Taurochole (the mitigation does stack), or after Taurochole’s mitigation fades to maintain a consistent 10% mitigation effect on the tank. 
 
 In boss fights, Holos can be used as a regular 300p AoE heal, but is much more effective when used for both its healing and mitigation effect. A simple way you can do that is to not top off the party after an instance of raidwide damage, then use Holos right before the next raidwide to heal up and mitigate the upcoming damage. Instances of multiple raidwide hits in succession (such as stack markers that hit multiple times) also make for easy Holos targets - simply use the skill after the party has taken damage from the initial hit to heal up and mitigate any remaining hits. 
 
@@ -127,14 +129,14 @@ The reason Panhaima ‘completes’ your dungeon healing kit is due to Haima hav
 
 Note that the example given above is simply a guideline assuming roughly even-sized pulls and not a strict rule on how to use your tools, adjust your oGCD usage as needed depending on the nature of the actual pull. 
 
-With the amount of tools at your disposal at this level range, especially with Rhizomata (Lv. 74) granting you an extra Addersgall every 90s, it is uncommon to need to fall back to Eukrasian Diagnosis spamming to keep the tank alive, but it will be necessary when you’ve exhausted all your oGCDs and Addersgall stacks. If that happens, try to keep calm and assess which oGCDs will be available soon to salvage the situation while you’re spamming GCD heals. 
+With the amount of tools at your disposal at this level range, especially with Rhizomata (Lvl. 74) granting you an extra Addersgall every 90s, it is uncommon to need to fall back to Eukrasian Diagnosis spamming to keep the tank alive, but it will be necessary when you’ve exhausted all your oGCDs and Addersgall stacks. If that happens, try to keep calm and assess which oGCDs will be available soon to salvage the situation while you’re spamming GCD heals. 
 
 ## Damage
 At level 66, you gain access to your Addersting job gauge which allows you the use of Toxikon, a targeted AoE, instant GCD that does damage. As Addersting is generated from your Eukrasian Diagnosis shield being completely consumed by damage, you should get one free Addersting per pull to spend on Toxikon if you’ve been pre-shielding your tank before each pull. Use any Toxikon stacks you have liberally on trash pulls as they’re a DPS gain over Dyskrasia, but do not cast Eukrasian Diagnosis during the pull for the sole purpose of generating Toxikon stacks - Eukrasian Diagnosis + Toxikon is a DPS loss vs 2x Dyskrasia in all practical scenarios. 
 
 At this level range, Toxikon is a loss in single target situations compared to your standard Dosis cast, and should be avoided unless it is needed for movement and your other instant GCDs (natural dot refresh, Phlegma, Swiftcast) are not valid options. 
 
-# Level 80-90
+# Levels 80-90
 SGE’s core gameplay does not change very much in this level range as most of the changes consist of potency upgrades. 
 ## Healing
 Krasis, obtained at level 86, is a powerful single target oGCD that increases the healing received by the target by 20%. In other words, apply this to whoever you want to heal (usually the tank), and not yourself. The healing buff provided by this ability works on all forms of healing, and the short 60s CD means that it’ll likely be up for every pull. Apply Krasis as the first thing in every pull to buff every regen/shielding effect that you apply afterwards. 
