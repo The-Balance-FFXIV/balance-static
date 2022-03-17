@@ -165,7 +165,7 @@ Bell will share any buffs that the WHM has, regardless of whether they were gain
 
 Bell is a placed skill, for tips on making ground placement less janky, see Ground Effect Placement.
 
-## Other Actions
+# Other Actions
 
 ### GCD
 
