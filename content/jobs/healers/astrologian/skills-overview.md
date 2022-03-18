@@ -304,8 +304,10 @@ changelog:
 * Minor Arcana Draws a crown card from your deck
 * Minor Arcana can be played with the Crown Play ability after drawing a Minor Arcana card 
 * Minor Arcana and Play Minor Arcana both use a weave window
-* *Lord of Crowns*
-              *Aoe damage in a 20y radius around you (250p)*
+
+  * *Lord of Crowns*
+              
+       *Aoe damage in a 20y radius around you (250p)*
               Is drawn with Minor Arcana and needs Crown Play ability to play it.
               *Uses a weave window* 
               Use this for damage under buffs if you can or in multi target situations.
@@ -333,10 +335,11 @@ changelog:
 * You need three seals in your Arcana Gauge to activate Astrodyne no matter the unique seals
 * Uses a weave window
 * This buff grants effects based on the number of unique seals you have.
-               *At least one unique seal gives you 2,500mp over 15s.*
-               At least two seals give you 10% haste.
-              * At least three seals increase your outgoing damage and healing by 5%.
-* Aim to get at least 2 unique seals to get the haste buff, while it's ideal to get 3 unique seals, it's not always optimal to redraw for it and the damage buff is a small gain compared to the haste buff.
+             
+       * At least one unique seal gives you 2,500mp over 15s.
+       * At least two seals give you 10% haste.
+       * At least three seals increase your outgoing damage and healing by 5%.
+       * Aim to get at least 2 unique seals to get the haste buff, while it's ideal to get 3 unique seals, it's not always optimal to redraw for it and the damage buff is a small gain compared to the haste buff.
 * Haste isn't the same as spellspeed so it will not increase DoT damage
 * You can hold Astrodyne for the 2 minute window, your 6 minute window will have two Astrodynes if you do this. I suggest looking at Astrodyne and Cards timeline for an idea on how 2 minute Astrodyne works.
 * Overwriting cards in the Arcana gauge is never worth it unless you know you won't gain another Astrodyne before the fight ends.
