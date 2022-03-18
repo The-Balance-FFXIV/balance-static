@@ -4,8 +4,8 @@ card_header_image: /img/jobs/sge/sgebasic.png
 authors:
   - Balance-SGE-Staff
   - wynn
-patch: "6.0"
-lastmod: 2022-01-24T06:59:22.628Z
+patch: "6.08"
+lastmod: 2022-03-15T05:59:22.628Z
 changelog:
   - date: 2022-01-24T06:59:41.157Z
     message: Added page
