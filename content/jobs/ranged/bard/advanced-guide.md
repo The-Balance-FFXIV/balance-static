@@ -4,7 +4,7 @@ card_header_image: /img/jobs/brd/advanced.png
 authors:
   - TKCetonis
 patch: "6.08"
-lastmod: 2022-01-25T23:01:35.417Z
+lastmod: 2022-02-13T04:45:49.309Z
 changelog:
   - date: 2021-10-26T02:38:08.428Z
     message: Created page
@@ -63,7 +63,7 @@ If you've kept on top of it, EA should come off of cooldown right on time. And t
 
 After the next GCD, if you were on the 4x Bloodletter side of the 50-50, you'll have a Bloodletter to use. Otherwise it's a free space. If you drifted EA, late-weaving it here will put it at a good timing.
 
-Then after your third GCD in WM, use Radiant Finale and then Battle Voice. The next six GCDs, and the oGCD window that follows, will be fully buffed.
+Then after your third GCD in WM, use Battle Voice and then Radiant Finale. The next six GCDs, and the oGCD window that follows, will be fully buffed.
 
 During this time, you'll want your six GCDs to be:
 
@@ -90,7 +90,7 @@ Make sure to dump any remaining Pitch Perfect stacks in the last oGCD window, be
 
 To put things together, an example of a two-minute burst sequence could look like this. Note **this is merely an example**, you will not have this exact sequence every time:
 
-[![Bard 2-minute burst](/img/jobs/brd/brd_burst.png "Bard 2-minute burst")](/img/jobs/brd/brd_burst.png "Bard 2-minute burst")
+[![Bard 2-minute burst](/img/jobs/brd/brd_burst_2.png "Bard 2-minute burst")](/img/jobs/brd/brd_burst_2.png "Bard 2-minute burst")
 
 ## Proc handling
 

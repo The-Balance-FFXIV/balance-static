@@ -4,16 +4,21 @@ authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
 patch: "6.08"
-lastmod: 2022-01-31T07:37:24.161Z
+lastmod: 2022-02-26T22:14:02.458Z
 changelog:
   - date: 2022-01-31T07:37:24.695Z
     message: Updated for Endwalker
+  - date: 2022-02-26T22:05:45.816Z
+    message: Added IC IC IR and -29s IR into Rend
 ---
 # Warrior Openers and Rotation
 
+Warriors prepare their burst while waiting for the party buffs to appear.  
+After the buffs are up, the skills are used more or less in order of importance, as to gain potential re-uses towards the end of the fight.
+
 ## Opener Optimization
 
-Assumed Timings
+Assumed Timings:
 * Tomahawk starts at -0.70s and the pull starts at 0.00s
 * Party buffs are expected to be up at around 7.80s
 
@@ -36,6 +41,17 @@ oGCDs
 
 Catches party buffs, however the second Inner Chaos is tight with Trick Attack. There's nothing special about this. This is your usual opener, probably.
 
+#### IC IC IR
+
+
+
+
+![IC IC IR Opener](https://cdn.discordapp.com/attachments/583965306071023616/924377661252456478/unknown.png "IC IC IR opener")
+
+Our strongest skills catch all the buffs, including Trick Attack. However, this comes at the cost of delaying IR by a GCD.  
+Nothing special apart from the slight IR + Rend delay.
+
+
 #### Cursed Prepull IR Openers
 
 There are fights in which it may be worth it to use Inner Release before the pull starts.
@@ -46,13 +62,20 @@ For some reason, we created the cursed Prepull IR openers, as an option to consi
 The main reasoning for the opener is to get IR on cooldown faster, gaining extra uses before specific fight phases. An example of this would be a heavy-padding Zodiark Extreme, where the aim is to get Inner Release for the Orbs.
 
 Tightest of the tightest timers are:
-* IR at -9s
-* Potion at -1s
-* Pull at 0s
+* IR at -00:09s
+* Potion at -00:02s
+* Pull at 00:00s
 
-[Version 1](https://cdn.discordapp.com/attachments/583965306071023616/925063725193527306/unknown.png)
+**-9s IR into Eye**  
+[Prepull IR into Eye](https://cdn.discordapp.com/attachments/583965306071023616/925063725193527306/unknown.png)
 
-[Version 2](https://cdn.discordapp.com/attachments/583965306071023616/926221989377609798/unknown.png)
+**-9s IR into Tempest**  
+[Prepull IR into Tempest](https://cdn.discordapp.com/attachments/583965306071023616/926221989377609798/unknown.png) 
+
+
+Triple cursed:  
+**-29s IR into Rend**  
+[Prepull IR into Rend](https://cdn.discordapp.com/attachments/583965306071023616/939467751079161877/unknown.png) 
 
 
 ## Rotation Optimization
@@ -73,4 +96,4 @@ The main goal for your rotation should be to maximize Storm’s Path casts and S
 
 ## Further Reading
 
-For more help regarding Warrior rotations; please check out the Warrior Guide [here](/jobs/tanks/warrior/how-to-fell-cleave-an-angry-wannabe-healer-also-known-as-warrior-5-0-the-guide/)
+For more help regarding Warrior rotations; please check out the Warrior Guide [here](/jobs/tanks/warrior/basic-guide/)

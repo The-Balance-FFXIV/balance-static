@@ -1,72 +1,38 @@
 ---
 title: White Mage Best in Slot (BiS)
 layout: bis
-patch: "5.58"
+patch: "6.0"
 lastmod: 2021-10-27T00:17:35.533Z
 changelog:
   - date: 2021-10-27T00:19:11.972Z
     message: Article Created.
+  - date: 2022-02-14T04:43:48.131Z
+    message: Updated for Endwalker.
 bis:
   - type: etro
     description: >-
-      Safe to use in environments where raises and non-Lily GCD heals are
-      expected. When in doubt, pick one of these sets (Relic or Non-Relic).\
+      2.50 GCD | 719 Piety
 
-      Mid-Speed general use set.
-    name: Comfy Mid-Piety Relic 2.34 GCD | 912 Piety
-    link: 502c5c88-c1b4-4cd5-8a39-c0508f5900db
+
+      This set uses the raid neck to maintain a comfy level of Piety while running the slowest possible GCD without sacrificing significant damage.  This set should be sufficient for enrage kills and the occasional raise or GCD heal outside Thin Air.
+    name: Mid-Piety General-Use Set
+    link: d40ebdcf-49df-4518-a91d-9ccad5718a0b
   - type: etro
     description: >-
-      Safe to use in environments where raises and non-Lily GCD heals are
-      expected. When in doubt, pick one of these sets (Relic or Non-Relic).\
+      2.48 GCD | 592 Piety
 
-      Mid-speed general use set.
-    name: Comfy Mid-Piety Non-Relic 2.34 GCD | 912 Piety
-    link: 8f86fdc2-5d73-420e-a8e2-15411eef27fa
+
+      This set forgoes some Piety from the recommended set to go marginally faster for more damage.  It has lower uptime than the above set so is not recommended in any content where you may need to GCD heal or raise outside Thin Air, although may get more mileage in fights where Lilies are needed for either damage or movement.
+    name: Low-Piety Damage Set
+    link: e78a29e3-1dcf-4e53-bbcf-234f33b2c831
   - type: etro
     description: >-
-      Safe to use in environments where raises and non-Lily GCD heals are
-      expected. When in doubt, pick one of these sets.\
+      2.45 GCD | 479 Piety
 
-      Low-speed, high ping friendly general-use set.
-    name: Comfy Mid-Piety Relic 2.41 GCD | 852 Piety
-    link: 6e55889b-506c-48c6-b8a3-eeaff1fbfc0b
-  - type: etro
-    description: >-
-      Safe to use in environments where raises and non-Lily GCD heals are
-      expected. When in doubt, pick one of these sets.\
 
-      Low-speed, high ping friendly general-use set.
-    name: Comfy Mid-Piety Non-Relic 2.41 GCD | 852 Piety
-    link: 784d4a8c-0056-499d-84be-f361942c5a65
-  - type: etro
-    description: >-
-      Mid-speed, well-suited to more organized reclears, risky in PF and on
-      prog, especially E12S.
-
-      Similar alternatives using Smoked Chicken and Edenmorn Earing can be found in the gear calculator.
-    name: Low Piety Damage Set Relic 2.34 GCD | 682 Piety
-    link: 9b5f25e1-340a-462a-89b6-4d649a094cf2
-  - type: etro
-    description: >-
-      Mid-speed, well-suited to more organized reclears, risky in PF and on
-      prog, especially E12S.
-
-      Similar alternatives using Smoked Chicken and Edenmorn Earing can be found in the gear calculator.
-    link: f64a2a88-d150-4c84-80a9-b2c4b64703cd
-    name: Low Piety Damage Set Non-Relic 2.34 GCD | 682 Piety
-  - type: etro
-    description: High-speed, speedkill-only set.  Extremely risky and **will** run
-      out of mana if any GCD healing or Raises are required, or the fight goes
-      too long.  **Not for general use.**
-    name: Minimum-Piety Speed Set Relic 2.26 GCD | 340 Piety
-    link: a5c68e57-2f6a-45bb-87d0-557991e17f48
-  - type: etro
-    description: High-speed, speedkill-only set.  Extremely risky and **will** run
-      out of mana if any GCD healing or Raises are required, or the fight goes
-      too long.  **Not for general use.**
-    link: 36222ba8-4f56-4b6a-a1c9-d67aadd3d4fd
-    name: Minimum-Piety Speed Set Non-Relic 2.26 GCD | 340 Piety
+      This set swaps the raid hat to the tome hat for another small damage gain at the cost of Piety.  This set (and other speedkill sets) will run dry on longer kills even without GCD heals or raises so is only recommended in organized environments where you are assured a short kill time. There are even riskier speed sets listed in the gear calc but the gains past this set are minimal.
+    name: Speedkill Set
+    link: d483c05e-a2ef-4fe0-906f-b883566586af
   - type: etro
     description: >-
       ## TEA Prog set (linked)
@@ -105,6 +71,15 @@ bis:
       Relic stats: 280 Crit/Det/SpS/Piety
     name: Ultimates
     link: 7cdc296b-4889-43c9-ad1b-a21fab6e6001
+  - type: spreadsheet
+    description: "Disclaimer: MP uptime on the sheet is higher than in reality, for
+      example the recommended low-piety sets appears to run out of mana around
+      ~9:30 where sheet says 13:06. The speed sets listed in this calc run out
+      of mana before most average parties can kill bosses, so they should
+      absolutely only be used in organized speed runs if you are positive you
+      can get away with the mp drain."
+    name: Gear Calc
+    link: https://bit.ly/WHMGearCalc
 authors:
   - Balance-WHM-Staff
 ---

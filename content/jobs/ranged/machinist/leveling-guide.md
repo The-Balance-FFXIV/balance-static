@@ -4,10 +4,12 @@ card_header_image: /img/jobs/mch/leveling.png
 authors:
   - dook
 patch: "6.0"
-lastmod: 2021-10-25T21:55:28.789Z
+lastmod: 2022-02-10T04:10:24.500Z
 changelog:
   - date: 2021-10-25T21:55:43.292Z
     message: Created page
+  - date: 2022-02-10T04:10:25.078Z
+    message: Updated for Endwalker
 ---
 # Simple Pointers for New Machinists
 
@@ -42,6 +44,8 @@ For clarity purposes:
 
 * Nothing crazy. You will learn Ricochet which should be treated nearly the same as Gauss Round. Use as much as you can, and use it inside of Hypercharge windows, alternating use with Gauss Round.
 
+  ![](/img/jobs/mch/multitool-mch.png)
+
 ## Levels 52 - 60
 
 * The Heated Split Shot and Heated Slug Shot upgrades are a potency upgrade with new animations when used, but otherwise they’re the same as their unheated counterparts.
@@ -59,7 +63,7 @@ For clarity purposes:
 
 ## Level 82 - 83
 
-* Level 82 will give you Scattergun, and until Machinist gets it's trait at level 84 that increases our single-target combo actions, Scattergun will be better on 2 target fights than the main combo. You should still be using Heat Blast with any Heat you have on 2.
+* Level 82 will give you Scattergun, and until Machinist gets its trait at level 84 that increases our single-target combo actions, Scattergun will be better on two target fights than the main combo. You should still be using Heat Blast with any Heat you have on two.
 
 ![](/img/jobs/mch/2022-01-03_15-49-14-995_okamiprism.png)
 
@@ -92,9 +96,9 @@ This section will mostly be used if you’re attempting The Epic of Alexander or
 * Reassemble is brought down to one charge. You’ll want to make sure you’re using it as much as possible, mostly on Drill, occasionally on Air Anchor in single target.
 * Chainsaw has been removed from the rotation. Due to this we generate less Battery, but more Heat.
 * Queen Automaton now deals less damage since she’s missing Crowned Collider. This means Battery is worth less damage for the amount used compared to level 90. Crowned Collider missing also means Queen’s damage duration ends sooner and should be taken into account when summoning her.
-* Heat gain in a 2 minute window is slightly higher. After the first usage of Barrel Stabilizer in full uptime situations, you’ll be forced to delay it to after the Hypercharge used for Wildfire or you’ll risk losing Heat that could be used for later Hypercharge windows.
+* Heat gain in a 2-minute window is slightly higher. After the first usage of Barrel Stabilizer in full uptime situations, you’ll be forced to delay it to after the Hypercharge used for Wildfire or you’ll risk losing Heat that could be used for later Hypercharge windows.
 
-Bioblaster comes out to about 600 potency at 2 targets, so while it’s a gain on a normal Drill, Reassembled Drill takes priority with an estimated 1000 potency. 
+Bioblaster comes out to about 600 potency at two targets, so while it’s a gain on a normal Drill, Reassembled Drill takes priority with an estimated 1000 potency. 
 
 Below is the standard opener you’ll want to use at level 80.
 

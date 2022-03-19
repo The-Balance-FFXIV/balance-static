@@ -2,7 +2,7 @@
 title: Bard FAQ
 layout: qna
 patch: "6.0"
-lastmod: 2022-01-24T06:40:48.717Z
+lastmod: 2022-02-13T04:37:30.363Z
 changelog:
   - date: 2021-10-26T02:32:02.540Z
     message: Created page
@@ -24,8 +24,8 @@ qna:
       you might be able to do a Raging + Empyreal weave; if so, do it.
 
 
-      Then, two GCDs after the Raging, double-weave **Radiant Finale**
-      and  **Battle Voice**.\ 
+      Then, two GCDs after the Raging, double-weave **Battle Voice** and
+      **Radiant Finale**.\ 
 
 
       \r
