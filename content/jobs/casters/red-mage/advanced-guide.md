@@ -17,7 +17,7 @@ changelog:
 
 This guide will cover some Endwalker Red Mage optimization concepts and principles that aren’t fully covered in the basic job guide. The intended audience includes:
 
-* Red Mage players who have the fundamentals mostly down and are familiar with all the concepts in the basic job guide (<https://bit.ly/3JsIdMZ>), but are trying to improve.
+* Red Mage players who have the fundamentals mostly down and are familiar with all the concepts in the [basic job guide](/jobs/casters/red-mage/basic-guide/), but are trying to improve.
 * High performing Red Mage players who get good logs through good GCD uptime, intuitive sense and repetition but wish to augment their theoretical understanding.
 * Players who have experience optimizing other jobs but are trying out Red Mage.
 
