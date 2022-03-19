@@ -2,297 +2,397 @@
 title: White Mage Basic Guide
 card_header_image: /img/jobs/whm/basic.png
 authors:
-  - pyre
-patch: "5.58"
-lastmod: 2021-10-29T03:52:28.260Z
+  - meru
+patch: "6.08"
+lastmod: 2022-03-19T04:17:41.809Z
 changelog:
   - date: 2021-10-29T03:52:37.749Z
     message: Created page
+  - date: 2022-03-19T04:17:34.002Z
+    message: Updated for Endwalker.
 ---
-Hi there, I’m pyre and this is my long overdue guide to White Mage in Shadowbringers, one month before Endwalker release… Luckily, based on current information from the Endwalker Media Tour, most of this information will carry into Endwalker, though I will update it shortly after release. This will be a fairly short and straightforward guide that addresses the basics of WHM mechanics and play, and will be expanded upon in Endwalker.
+# Introduction
 
-# On healers in FFXIV…
+This guide aims to provide a basic overview of White Mage and offer guidelines on how to use each skill in its toolkit effectively in any environment. As healers do not have a strict healing rotation, this guide will focus on highlighting what makes each skill unique and explain some common use cases. 
 
-Healing in FFXIV is quite a bit different from healing in most other MMOs, and can be a bit of a shock when picking up the role for the first time.  Healers in FFXIV spend most of their time dealing damage, and in optimized environments are capable of dealing 60% or more of the damage of a DPS.  Healing spells and abilities are extremely powerful, but often expensive or on long cooldowns, and incoming damage is often infrequent, allowing healers to deal damage while healing the party with the most efficient spells possible.
+White Mage is considered by many people to be the most beginner friendly healer, and rightfully so. It offers a very straightforward healing kit that meshes well with the ‘press button to make HP bars go up’ mindset, and a plethora of powerful tools to salvage almost any situation. It brings high personal damage with no convoluted job specific mechanics, making it a comfortable healer to start on and become proficient at in a short time.
 
-White Mage is a traditional regen-based healer with a straightforward healing kit centered around powerful direct heals that allows it to excel in reactionary environments. White Mage possesses some of the strongest burst healing options in Benediction and Cure III, and has the highest personal damage of any healer, relying entirely on its own damage instead of party buffs. Good White Mages can utilize the Lily gauge to heal the party while refunding some of the lost damage in Afflatus Misery, one of the single hardest hitting abilities in the game.
+# Glossary
 
-# Acronyms
+* WHM: White Mage
+* CD (Cooldown): The time it takes before you’re able to cast an action again.
+* GCD (Global Cooldown): Spells that share the same base recast time. On WHM, these are anything categorized as “Spell” on the official job guide. This guide will also categorize skills based on whether they’re GCDs or not.
+* Instant (Instant Cast): GCD Spells that do not have a cast bar.
+* oGCD (Off Global Cooldown): Abilities that don’t share the 2.5s base recast time and therefore can be used while GCD spells are on cooldown. These abilities are also explicitly categorized in this guide as such.
+* Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely weave 2 oGCDs after an instant cast GCD, or 1 oGCD after Glare.
+* HoT (Heal over Time)/Regen: Actions that heal the target over a period of time. These actions heal for their listed potency once every 3 seconds.
+* DoT (Damage over Time): Actions that damage the target over a period of time. These actions deal damage for their listed potency once every 3 seconds.
+* AoE (Area of Effect): Actions that affect every target in a specified area. AoE heals heal all allies in a circle around their source. AoE damage abilities affect all enemies in an area specified by the ability; enemies can perform AoE attacks too.
 
-**CD:** cooldown
+# Job Gauge: Lilies
 
-**GCD:** Global cooldown
+![](/img/jobs/whm/lily-gauge.png)
 
-**oGCD:** Off-Global Cooldown Ability
+![](/img/jobs/whm/lily-gauge2.png)
 
-**AoE:** Area of Effect
+WHM’s job gauge displays two resources, blue Healing Lilies and red Blood Lily stacks. Healing Lilies are naturally accumulated over time once you unlock the job gauge at level 52. Every 30 seconds, a Healing Lily is automatically added to your job gauge, capping out at three stacks. Note that Healing Lily only charges while you are in combat, and the gauge is paused outside of combat. This distinction is mostly relevant in dungeon content, as the majority of raids and trials will consider you to be in combat as soon as the boss is pulled until the instance is completed. 
 
-Spell and ability acronyms are included in the next section.
+Healing Lilies allow you the use of Afflatus Solace (Lv. 52) and Afflatus Rapture (Lv. 76), healing spells that each consume one Healing Lily upon use. These spells will be expanded upon in the healing section, but they share the following characteristics:
 
-- - -
+* GCD spells
+* Consumes one Healing Lily
+* 0 MP cost
+* Instant-cast, so you can weave two oGCDs after each Afflatus spell
+* Grants you one Blood Lily stack (after Lvl. 74)
 
-# Healing Overview
+Unlocked at level 74, Blood Lily stacks are generated when you use Afflatus Solace or Afflatus Rapture, up to a maximum of three, which allows you to execute Afflatus Misery, a targeted AoE damaging GCD that costs three Blood Lily stacks. Unlike Healing Lilies, Blood Lily stacks can be charged outside of combat when you use any Afflatus healing spell. 
 
-While healers in FFXIV are far more damage oriented than you might expect, they are still healers and their primary goal is keeping the party alive.  WHM fills the “pure” healer role in FFXIV, meaning it has no spammable shields and little mitigation, instead focusing on healing raw HP via regeneration effects (Asylum, Medica II) or direct heals (Assize, Afflatus: Rapture).  A progression group will typically have one pure and one shield healer, with SCH and Nocturnal AST for the shield healer option, and WHM or Diurnal AST as the pure healer.
+# Damage Overview
 
-The biggest categories healing spells fall into are GCD and oGCD heals. You can find an overview on how GCDs and oGCDs actually function (here).
+## GCD
 
-## Healing GCDs
+**Glare III (“Glare” for simplicity)**
+Your standard damage filler spell that you should aim to cast whenever possible, Glare does 310p per cast and has a 1.5s cast time assuming base recast of 2.5s. This allows you to weave one oGCD per hardcasted Glare without clipping your next GCD. At lower levels, “Stone” variants will be your filler spell.
 
-### Cure
+**Dia**
+An instant cast DoT spell that deals 60p upfront and then ticks for 30s, dealing 60p per tick for a total of 660p if allowed to run its full duration. As this is a gain over your standard Glare filler, this DoT should be maintained on the boss at all times, unless it is about to die in less than 15s. This also applies if the boss is about to disappear, as DoTs don’t tick on untargetable bosses in the vast majority of cases. At lower levels, “Aero” variants will be your DoT spell, which will still fulfill the same purpose in your damage kit, but have a lower duration at a mere 18s. 
 
-The first heal you get and by far the least used at 80.  Cure is a small, fast heal for a low MP cost, making it only useful in situations where the speed or MP will save someone. In most cases, Cure II is strictly better as it is a larger heal and only slightly slower, albeit at a steeper MP cost.  Cure can proc Freecure, making the next Cure II free to cast, but this aspect should mostly be ignored in any content past level 30.  If you find yourself using the spell a lot past level 30, you are most likely making inefficient use of your other heals.
+**Holy III (“Holy” for simplicity)**
+An AoE centered on you that damages enemies within 8y by 150p and applies a stun effect. Enemies who are susceptible to the stun effect do build resistance to it, halving its duration with each application until they become temporarily immune to stun. This spell is very strong in dungeons where the cumulative seven seconds of stun helps mitigate a significant amount of tank damage in trash pulls. In raid scenarios, Holy is rarely used as it requires hitting three enemies to beat a Glare cast, though it can be used in niche optimization scenarios where you precast a Holy to hit the boss right as they come back from an untargetable phase. 
 
-### Cure II
+**Afflatus Misery (Lily spell)**
+An instant-cast GCD that deals 900p damage to the primary target and 675p to enemies around it within 5y. Afflatus Misery requires three Blood Lily stacks to use, which in turn requires the use of three Afflatus healing spells. From a pure damage perspective, Afflatus Misery is a damage loss in single target scenarios as it costs four GCDs to execute - three Afflatus healing spells and one Afflatus misery - but only deals 900p, which is less than the 1240p that you would’ve dealt replacing all those Afflatus casts with Glares. In other words, do not use Afflatus healing spells for the sole purpose of charging up Afflatus Misery. This also means that it is perfectly fine to let your Healing Lily gauge remain capped out as long as you do not need to GCD heal. 
 
-A larger, less MP efficient heal than Cure, Cure II is your standard single target GCD healing option used mostly in cases where a single person needs HP immediately, or they will die, and you have no lillies or oGCD options available. This spell mostly sees use in non-level cap dungeons where tanks will frequently exhaust your other healing options on large pulls, but is generally reserved for emergency healing at 80.
+The main exceptions to that are downtime and multi-target scenarios. As using Afflatus healing spells during downtime does not cost you any DPS, you should proactively ‘dump’ any available Healing Lilies without overcapping on your Blood Lily stacks so you have an Afflatus Misery at your disposal for when the boss comes back. In multi-target scenarios, if Afflatus Misery can even hit one additional target, it becomes a gain to proactively use Afflatus healing spells beforehand to prepare an Afflatus Misery.
 
-### Regen
+If you’ve already accumulated two Blood Lily stacks, you should also use a third Afflatus healing spell before the fight ends to complete the Lily set and get a partial damage refund.
 
-Regen is an instant-cast spell that applies a single target heal-over-time effect that heals for 200 potency every 3s for 18s, a total of 1200 potency.  Regen is a fantastic spell for tank upkeep in dungeons given its large total potency and ability to cast on the move, but is usually unnecessary in raid content where oGCD heals can typically cover most tank healing.  In dungeons Regen can be applied to the tank while they're still pulling, but keep in mind you may draw enmity on some enemies if the tank doesn't use AoEs.  
+## oGCD
 
-### Medica
+**Presence of Mind**
+A 15s buff on a two minute cooldown that grants you a haste buff that speeds up all your GCDs by 20%. As this buff is simply a GCD modifier and does not affect your spell speed substat, it has no effect on your DoT damage. The haste buff reduces the length of the weave window between hardcasted Glares, and may cause problems with weaving at certain ping levels. 
 
-The first AoE heal you have access to, and much like Cure, one of the least-used spells at 80.  Medica is a moderate direct GCD heal that is typically only used in cases where the party already has Medica II ticking, needs healing, isn’t stacked enough for Cure III, and you have no Lilies.  It has a larger up-front heal than Medica II (300 vs 200 potency), but that healing is made up for in a single tick of Medica II’s regen, making Medica rarely used outside emergencies.
+**Assize**
+Assize recovers 500MP per use, deals 400p of damage and also heals allies within range for 400p. It is a damaging oGCD that happens to do healing, but unlike your actual healing oGCDs, there isn’t much leeway to move Assize around for healing purposes as delays can risk losing an entire Assize usage in a fight, which is a significant potency loss. On top of that, Assize is also integral to WHM’s MP sustain, and should be used on cooldown in pretty much all scenarios. Assize can be delayed for multi-target scenarios even if it means losing a use, as it only needs to hit two targets to break even, and quickly becomes a gain at higher target counts. 
 
-### Medica II
+However, you can and should take advantage of Assize’s healing portion by structuring your other healing oGCDs around it. For example, if you know that Assize naturally aligns to heal before an upcoming raidwide, you can delay your Asylum to heal the party at a later point in the fight. Assize’s 45s cooldown means that it’ll align with useful healing opportunities more often than not, but only if you let it do its work.  
 
-Medica II is WHM’s go-to AoE GCD heal, it has a small 200 potency up-front heal and applies a regen that heals for 500 potency over 15s, for 700 total potency.  If you have party healing that cannot be covered by oGCD’s or Lilies, then Medica II is next in line.  This spell tends to be used fairly heavily on progression where the goal is to keep as many people alive as long as possible in order to see more mechanics, but as you optimize it tends to get worked out of the rotation in favor of more efficient healing and mitigation plans that allow for more Glares.
+# Healing & Mitigation Overview
 
-### Cure III (C3)
+## GCD
 
-A large, direct, AoE heal with a small radius, Cure III excels at raidwide spam effects where the party remains stacked, however is still less healing and more MP overall than Medica II. Cure III is mostly used if the party needs to be topped immediately and Medica II is already ticking or won’t heal enough by the time damage goes out. This spell comes at a hefty 1500 MP cost, and tends to be used sparingly.
+### Single Target Spells
 
-### Afflatus: Solace
+**Cure**
+A basic healing spell that heals the designated target for 500p. It is by far the least utilized spell in your kit at higher levels due to its weak potency. Outside of level synced content where you do not have access to better healing spells, you won’t be using this outside of emergency situations where you don’t have Healing Lilies for Afflatus Solace and MP for Cure II, and all your oGCD options are unavailable. It does have a slightly faster cast time compared to Cure II, which may save someone in a pinch. Other than these very niche situations, Cure should not be used at all. 
 
-Lilies and their associated spells will be expanded on further on in this guide, but Solace is the first Lily heal you have access to and is essentially a free, instant Cure II, allowing for movement and weaving if needed while also refunding some of the lost damage.  This spell sees a lot of use in dungeon pulls since the tank is typically the only player taking significant damage, but is rarely used outside emergencies in Savage and Ultimate since it shares the Lily charges with Rapture.
+It has a 15% chance of proccing Freecure, which allows your next Cure II to be cast at no MP cost, but the trait plays no part in when we choose to use Cure.  
 
-### Afflatus: Rapture
+**Cure II**
+A stronger version of Cure that costs more MP and heals the target for 800p. This is your best fallback single target healing option for when someone needs healing immediately, and you’re out of Healing Lilies and oGCDs. It’ll be used a decent amount in dungeons during hard-hitting pulls, as well as in raids during progression and recovery scenarios. 
 
-The other Lily heal and a fundamental component of WHM healing at 80; Rapture is a free, instant, and larger radius Medica that allows for moving and weaving while also refunding some damage via the Lily system. Ideal use of Rapture is to cover movement, weave oGCDs, and heal the party a bit, or to blow it in downtime for free Misery casts. Once again, the Lily system will be expanded on farther below.
+**Regen**
+At 1500 total potency, Regen is your most powerful single target GCD heal if you do not need the full healing immediately. Regen is frequently used during big dungeon pulls and progression scenarios with sustained single target damage. In fights with heavy single target damage that cannot be handled solely with oGCDs, Regen can also double as a movement tool due to being an instant GCD.
 
-## Healing oGCDs
+Despite being a healing spell, Regen does not proc a Paladin’s Divine Veil as it does not have any upfront healing.
 
-### Tetragrammaton (Tetra, Tet)
+**Afflatus Solace (Lily spell)**
+An instant cast, 0 MP spell that heals the target for 800p, putting it equivalent to Cure II in terms of healing power. In raid scenarios, it is not used too often compared to its AoE counterpart, Afflatus Rapture, especially since a lot of single target healing can be covered with oGCDs. If you’re in synced content where Afflatus Misery isn’t available (such as level 70 ultimates), Afflatus Solace becomes even lower than Regen in priority unless the full healing is needed immediately due to its lower total potency, and the fact that Regen is also an instant cast GCD. 
 
-A standard oGCD direct heal, Tetra is typically used in open weave slots if someone (usually a tank) will benefit from the extra healing.
+### AoE Spells
 
-### Divine Benison (DB, Beni)
+**Medica**
+A basic AoE healing spell that heals all allies within 15y for 400p. It is outclassed by pretty much all of your other GCD AoE healing options and will therefore be rarely used at level cap content. It is only used when your party needs extra healing right now and a) Medica II is already applied, b) you cannot use Afflatus Rapture and c) Cure III is also not an option either due to party positioning or lack of MP.  
 
-DB is our tank-upkeep tool and only true shield, and its low 30s cooldown means it is often weaved with Dia, which also needs to be refreshed every 30s. Benison is one of the lowest-priority spells, since it has the lowest potency of our oGCD’s and is often dropped in favor of larger, higher priority heals or utility spells. That said, given the relative lack of oGCDs we have, DB is still used frequently and rarely a bad option.
+**Medica II**
+Heals all allies within 20y for 250p and applies a 15s regen of 150p per tick, totaling 1000p healing over its full duration. It is your most powerful AoE healing option provided that you can afford to wait out all its ticks. With one tick, it already breaks even with Medica in healing, and surpasses Medica with just two ticks. It also offers 5y of additional range compared to most AoE healing spells, making it easier for you to hit party members that may be spread out for mechanics.
 
-### Benediction (Bene)
+**Cure III**
+A spell that heals allies within 6y for 600p, Cure III offers the most upfront partywide healing out of all healing tools that aren’t limited by a cooldown. It is one of the reasons that WHM excels at recovery, as Cure III spam alone can brute force a large amount of healing checks. Its main drawbacks are its very limited range of 6y, as well as a costly 1500MP per cast, though the MP cost can be mitigated via the use of Thin Air. 
 
-One of the hallmark features of WHM healing, Benediction is an oGCD ability that heals for 100% of a target's max HP. Bene is often saved for Living Dead when paired with a DRK, but can be used for any immediate single target healing in most other comps. It isn’t typically necessary to use Benediction for Superbollide or Holmgang, though it can still be a good use if Benediction is available and easily weaved.
+While you’ll be using Cure III as a self-originated spell in most cases, Cure III is fairly unique in that it is actually a targeted AoE healing spell - meaning that you can target any party member within 30y and have the spell heal 6y around them. This can come in handy when you’re forced to be away from the party stack and they need a lot of healing for upcoming damage.
 
-### Asylum
+Not to be confused for a Cure II upgrade - you never use Cure III in single target healing scenarios. 
 
-Asylum is a ground-targeted regen effect, and at level 78 gains a 10% healing recovery increase that affects all healing spells and abilities to anyone inside its radius, including its own healing.  Asylum is our go-to AoE oGCD healing ability and should be used as frequently as possible so long as the party needs healing and can remain in its radius for most of the duration. Ground-targeted abilities can often be tricky to weave, so Asylum is one of the few cases where a macro can be used to assist with targeting.
+**Afflatus Rapture (Lily spell)**
+An instant cast, 0 MP spell that heals allies within 20y for 400p. While it heals the same amount as a Medica, Afflatus Rapture is often our top priority for AoE GCD healing due to the partial damage refund of the Blood Lily system. As an instant cast spell, it often doubles as a movement option for when slidecasting isn’t quite enough.
 
-### Plenary Indulgence (PI, Confession)
+## oGCD
 
-Plenary is a bit of an odd oGCD that adds 200 direct potency to our AoE GCD heals for ten seconds (note that Medica II only gets the 200 potency on the initial heal and not every tick). PI is most powerful when it can be used in soft-enrage spam where you will get multiple GCD heals in its duration for added healing potency, but typically is used to add some healing potency to an Afflatus: Rapture cast shortly after a Dia. The need to weave it and relatively small extra heal means this ability will sit on cooldown a lot in optimized play.
+### Single Target Abilities
 
-### Temperance (Temp)
+**Benediction**
+Heals the target for 100% of their max HP. As this skill is on a lengthy 180s CD, its usage should definitely be planned out in an encounter. If playing with a Dark Knight that plans to use Living Dead on a tankbuster, Benediction will be reserved for curing Walking Dead. However, don’t let this powerful single target oGCD simply sit in your kit otherwise. In both dungeon pulls and raid scenarios, this can be used as a planned heal to top off the tank after letting them get extremely low from damage. 
 
-Temperance is for looking pretty, as well as our healing steroid and mitigation tool. Temperance has a massive 30y range, 22s+ duration, decreases damage taken by 10%, and increases GCD healing by 20%. This spell is mostly used for the mitigation, although the GCD healing boost is pretty big and should also be considered if a mechanic does require GCD healing.
+**Tetragrammaton**
+A straightforward oGCD that heals the target for 700p. It is on a decently short CD of 60s and should be your top priority when single target healing is needed. It can be used on tanks to heal them during autos, or on other party members that may need spot healing. That said, do not sit on this skill for the sole reason of keeping it available for emergencies.
 
-- - -
+**Divine Benison**
+An oGCD that applies a 500p shield on the target, you get a second charge of this ability at level 88. Due to its short CD of 30s, you can get a lot of usages of this ability throughout a fight. Try to not let this overcap on charges - you’re almost always guaranteed to get value out of this just slapping it on the tank for autos. Be careful when using this for emergency shielding though, as you may sometimes see the target take full damage with the Divine Benison buff and shield active. This is because the shield has a slight delay before being applied to your target, and last-second applications of Divine Benison can often be too late to mitigate damage. 
 
-# Damage overview
+**Aquaveil**
+Applies a 15% mitigation effect to the target for eight seconds, this stacks with any other mitigation such as a tank’s personal CDs. This can aid in mitigating autos and tankbusters, though it should never be required for a tank to survive a conventional buster unless they mismanage their CDs. However, Aquaveil can be used as planned mitigation if a tank is taking damage in an unintended way - for example, taking a shared buster solo, or trying to 0 out avoidable damage for uptime purposes. In high damage encounters such as Ultimate fights, Aquaveil can also be a planned substitute tank CD for when the tanks’ personal CDs are spread too thin. Like all of your single target oGCDs, Aquaveil can and should be used on non tank players as well when some single target mitigation is needed.
 
-Healers in FFXIV spend most of their time dealing damage, not healing, even in some of the most healing intensive phases in the game, and an optimized healer duo can contribute 20% or more of the total damage in an optimized party. Healer damage rotations are extremely simple, consisting mostly of a single DoT, a single filler, and a couple damaging oGCDs to weave.  
+### AoE Abilities
 
-### Glare / Stone
+**Asylum**
+Places an 8y radius ground effect at a designated location. Party members within Asylum will be healed for 100p per tick, for eight ticks over 24s if standing in Asylum for its full duration. However, ground effects such as Asylum have a special effect where they apply an instant tick upon placement to all party members within range, bringing up the total healing to nine ticks of 100p each. 
 
-Our basic filler nuke spell, you cast this whenever there are one or two enemies, and you have nothing better to cast. At 300 potency, Glare is the strongest healer filler spell and most of any raid fight will be spent casting Glare. Most of WHM's optimization will boil down to casting more Glares. There’s a reason we are sometimes referred to as Glare Mages.
+At level 78, Asylum also applies a 10% healing received buff to allies inside its range. This healing buff works on both GCD and oGCDs, including itself, making Asylum ticks 110p for all intents and purposes. However, this healing buff does not apply to the extra tick upon placement, resulting a total Asylum potency of eight  *100*  1.1 + 100 = 980p. 
 
-### Holy
+The high total potency as well as short CD of 90s makes Asylum your best option for partywide healing in a lot of cases, provided that party members can stand in its range for a prolonged time. Even in scenarios where additional healing is required, the healing received buff Asylum provides in addition to its regen can take a lot of pressure off the healing requirements. In dungeons, use this during trash pulls for an additional regen on the tank instead of saving it exclusively for raidwide damage.
 
-The AoE nuke spell; used in place of Glare when there are three or more enemies. Holy has a four second stun that makes it godlike for large dungeon pulls, but it rarely sees significant use in raid fights, since unlike other healers, Holy is not worth casting in a two target phase (Note: not the case at lower levels since Stone I-IV has lower potency than Glare). The spell does see some use in fights with downtime since Holy has a cast time and does not require a target, meaning that with good timing you can get some free extra damage if your cast ends just as the boss reappears. Like all stuns in game, Holy’s stun is subject to diminishing returns (first is 4s, 2nd 2s, 3rd 1s), but is capable of chain stunning mobs for up to 7s which can essentially act as a free invuln for the tank in a large pull, allowing them to delay mitigation for later parts of the pull.
+Asylum is a placed skill, for tips on making ground placement less janky, see Ground Effect Placement.
 
-### Dia / Aero
+**Plenary Indulgence** 
+This ability applies a 10s buff called “Confession” to all party members within 20y. By itself, the buff has no effect. However, when someone with this buff is healed by a Medica, Medica II, Afflatus Rapture or Cure III casted by you, they are healed for an additional 200p. The buff is not consumed when this effect activates, and can be procc’d multiple times over its 10s duration. It is also important to note that Confession’s effect is only activated by the upfront heal of Medica II, and not once per regen tick. Whenever you plan on GCD healing, consider activating Plenary Indulgence beforehand to take advantage of its bonus healing, even if you only proc it once. The short 60s CD means that it’ll likely be off cooldown the next time you want to use it, though you should definitely prioritize using it during heavy heal checks where you plan on using multiple heals in quick succession. 
 
-Our basic DoT spell that should be kept up at almost all times in raid fights.  Dia is instant cast, lasts 30s, deals 120 potency damage on cast, and applies a damage-over time effect that deals 60 potency every three seconds, for a total potency of 720 (120 + 10 x 60).  As one of our few instant-cast spells, we typically plan most of our oGCD use around the Dia refresh timer. The up-front damage does make it a bit of a movement tool, but it’s basically the last resort for movement since it will throw off your Assize and PoM alignment.
+**Temperance**
+This ability has two effects. First, it grants you a 20% outgoing healing buff, which only applies to GCD heals. Secondly, it grants any party member within 30y a 10% mitigation buff. Interestingly enough, this mitigation buff is implemented not as a conventional timed buff, but rather an effect that is regularly refreshed as long as they’re within 30y of you. If someone moves too far away from you, they will lose the mitigation buff after a few seconds, though they will regain it if they come in range again later on. This is rarely a detriment as 30y is a huge range and there are very few cases where party members need to be that far from you for an extended period of time. In addition, the mitigation buff of Temperance also applies instantly due to its unique implementation and does not suffer the standard cascading delay that most buffs in this game are plagued with.
 
-### Assize
+Due to the combination of its mitigation and healing buff effects, Temperance is a powerful CD to use in any scenario where the party is taking significant damage that needs to be healed through. However, in optimized scenarios, you may find yourself using Temperance more for its mitigation effect than the healing buff as GCD healing is used very little, if at all. It is on a fairly long cooldown of two minutes, so its usage in a fight should definitely be planned out in advance.
 
-Assize is an AoE oGCD damage and healing spell that also restores MP. Assize is cast on cooldown in almost every scenario, though can be delayed if it doesn’t cost you a use or allows you to hit additional targets. While it does decent healing, we mainly use it for damage and MP restoration, and it is almost never held specifically for healing, although you can and should move other oGCD heals around if the healing can instead be covered by an Assize you were going to use anyways. The 45s cooldown unfortunately only aligns with the Dia refresh on every other use, so it is sometimes hard-clipped after a Glare if it doesn’t align with a Lily use.
+**Liturgy of the Bell**
+Places a Liturgic Bell (“Bell” for simplicity) at a designated location and grants you five stacks of a buff called “Liturgy of the Bell”. In the next 15s, every time you (the WHM specifically) take damage, one stack of “Liturgy of the Bell” is consumed and the Bell heals all allies within 20y of its placed location for 400p. The Bell dissipates when all five stacks are consumed or when 15s have passed, whichever comes first. Any remaining “Liturgy of the Bell” stacks will be expended at the end of this 15s to heal allies within 20y for 200p per stack. 
 
-### Presence of Mind (PoM)
+The Bell’s healing effect procs on all forms of damage to the WHM, be it direct damage dealt by an enemy, a DoT effect from a debuff, or even environmental effects such as stepping into poison puddles. It does not proc if the WHM takes 0 damage due to shields or any other factor. 
 
-This is our burst cooldown, it increases GCD speed and cast time by 20% for its duration (it does not affect Dia or regens), allowing you to get a couple extra Glares off per fight. It is typically used close to on CD, although is often delayed to better align with buffs or potions since its wacky 2:30 cooldown means it rarely naturally aligns with buff windows.
+While Bell’s total healing potency of 2000p may seem very powerful on the surface, it is fairly rare to get its full effect as it requires five separate damage instances on the WHM within 15s. A portion of that healing is ‘refunded’ as the Bell dissipates, but due to its long cooldown of three minutes, you should definitely aim to maximize Bell procs per usage where possible. 
 
-### Afflatus: Misery
+A unique advantage that Bell offers is the ability to place it. The fact that its healing originates from the Bell and not the WHM means that you do not need to worry about your positioning relative to other party members when Bell healing goes off. This is very useful when party members are taking damage but need to spread out to complete a mechanic. The large 20y on Bell’s healing also means that it’ll reach everyone if properly centered, as most circular raid arenas are 20y in radius. 
 
-A gigantic 900 potency nuke that can be used after using three Afflatus (Lily) heals. The Lily system will be explained in more detail further in this guide, but Afflatus: Misery specifically is typically used either to cover movement that cannot be handled by Swiftcast or Dia, for some extra damage in buff windows (e.g. Chain Stratagem, Trick Attack, etc.), or for some extra weave space.
+Bell will share any buffs that the WHM has, regardless of whether they were gained before Bell was placed or after. While this property isn’t too impactful for the most part, it played a significant role in the Fountain of Fire phase of P3S, as Bell can be placed ahead of time and benefit from the significant healing buff the WHM gets during the mechanic. 
 
-- - -
+Bell is a placed skill, for tips on making ground placement less janky, see Ground Effect Placement.
 
-# Utility Spells and Abilities
+# Other Actions
 
-### Swiftcast (swift)
+### GCD
 
-Swiftcast makes the next spell instant, useful in prog on Raise and in optimization for maintaining casting uptime by using it on Glare. This ability is not a damage gain if you are not moving, unless you can gain a Glare before the boss phases or dies, as Glare and Holy both use an entire GCD regardless of whether they are swift-casted or not.
+**Raise**
+Your standard resurrection spell. It has a long cast time and should generally be used with Swiftcast and Thin Air to remove both the cast time and MP cost. Unfortunately, this means you’ll often be forced to clip Swiftcast + Thin Air unless you have an instant cast GCD ready to double weave those two oGCDs .
 
-### Lucid Dreaming (LD)
+**Repose (Role Action)**
+Puts target enemy to sleep. Not very useful outside of being required for the Shadowbringers healer role quest. 
 
-Standard healer MP restoration button. This spell restores 500 extra MP per MP tick for 21s, for a total of 3500 extra MP per use. This is typically used pretty close to on cooldown for optimization, although can be delayed if you happen to have excess Piety/MP or higher priority spells.
+**Esuna (Role Action)**
+Removes one random cleansable debuff (as indicated by the white bar above the icon) from the targeted party member. Most debuffs you encounter during the leveling experience are minor annoyances that don’t need to be cleansed, though some DoT debuffs can hit decently hard and should be removed if you’re not confident in healing through them. Cleansable Doom-like debuffs should always be Esuna’d. 
 
-### Thin Air (TA)
+![](/img/jobs/whm/esuna.png)
 
-This ability removes the MP cost for all spells for 12s, including GCD heals and Raise. For most levels of play, Thin Air can be saved for MP-intensive moments, usually Raises or GCD heals, but as you drop Piety while working towards speedkill oriented sets, it is more frequently used on Glares as an MP saving tool.
+### oGCD
 
-### Raise
+**Thin Air**
+A 60s CD on two charges, this ability negates the MP cost of the next spell you cast. It is not consumed when you cast a spell with 0MP cost naturally, such as Afflatus spells. Thin Air should be used whenever you need to cast MP costing GCD heals or Raise to negate their heavy MP cost. If neither scenario applies, use Thin Air on a Glare or Dia to save 400MP. Do not let this sit at two charges as consistent usage of Thin Air is integral to WHM MP management.
 
-Raise is our resurrection tool, it has a very long eight second cast time and costs almost 1/4th of your MP. Resurrected targets spawn with low HP and MP and are invulnerable to damage for five seconds, or until they use a spell, ability, or weaponskill. Raise is used frequently for recovery in all content.
+**Swiftcast (Role Action)**
+Makes your next GCD instant. Generally used on Raise, but can also be used for movement in more optimized environments. In dungeons, can be used on the first Holy in a pull to instantly apply the stun effect and line up subsequent stuns better.
 
-### Surecast
+**Lucid Dreaming (Role Action)**
+Gradually restores MP, a total of 3850MP over its full duration. Lucid Dreaming is critical to WHM’s MP sustain, so get into the habit of using it at around 80% MP and keeping it on cooldown. 
 
-Surecast is the caster and healer anti-knockback tool, and it comes with the small added bonus of preventing spell interruption for its duration, although the latter effect is very rarely utilized in PvE content. Knockback mechanics are a staple of Savage and Ultimate raiding, and as a caster, WHM can use Surecast to maintain uptime during some (but not all) of these mechanics.
+**Surecast (Role Action)**
+Prevents most forced movement effects and stops your cast from being interrupted. Use it to maintain casting uptime.
 
-### Rescue
-
-Rescue moves another player to your position after a brief delay. This ability can be used to rescue your party member from avoidable damage if your reaction time is good enough, but is sometimes also used for uptime in very specific mechanics.
-
-### Esuna
-
-Esuna cleanses a single debuff from your target and Esuna-able debuffs have a white line above them. Esuna sees sporadic use in Savage and Ultimates, but low level dungeons have a lot of Esuna-able debuffs including diseases, slows, and bleeds.
-
-### Repose
-
-Puts an enemy to sleep for 30s, not really used outside deep dungeons.
-
-### Fluid Aura
-
-Binds your target, also not really used outside deep dungeons (and being removed in 6.0).
-
-- - -
-
-# Lilies
-
-The Lily system has functioned in a few different ways since its implementation but in Shadowbringers it functions as a means to cast free, instant GCD heals while refunding some of the lost Glare damage in Afflatus Misery, a gigantic, pretty 900 potency nuke.
-
-## Lily Gauge
-
-Every 30s in combat the WHM generates a blue (or black) Lily that can be used on either Afflatus: Solace or Afflatus: Rapture.  These spells were touched on briefly above, but they are instant GCD heals that do moderate healing while allowing the WHM to move or weave. In general for raiding, Afflatus: Rapture is almost always preferred, since 300p on eight party members is simply a lot more potency than 700p on one, and tank healing can typically be covered almost entirely by oGCD heals. When Rapture or Solace are used, they add one red Lily to the gauge, and after three red Lilies are accumulated, Afflatus Misery can be used. This means that every three blue Lilies that are used, you get one Misery, or four total GCDs for 900 potency vs 1200 potency for four Glares, which is a damage loss.
-
-The fact that Lilies are a damage loss is unintuitive and can be hard to adjust to since the gauge is right there (hopefully) in front of your face, begging to be used. That said, it does still allow for some nuanced gameplay, as they aren’t a total damage loss and a number of movement mechanics still force Lily use as we simply don’t have enough other instant-cast options to cover movement and/or healing.
-
-## Lily Sets
-
-When considering using a Lily, it’s important to keep in mind that Lily damage is only refunded if you can complete a Misery. Any unspent red Lilies at the end of a fight were completely wasted casts that could have been either Glares, or more GCD efficient GCD heals. As a result, it helps to think of Lilies in “sets” of three Raptures and one Misery for four GCDs and 900 potency total. As you optimize fights, you will work Afflatus spells out of the healing plan in favor of Glares, but you still want a whole number of Lily sets per fight.
-
-Red Lilies | Lilies needed to complete misery | Glare Potency | Misery potency - Glare Potency
-
-0 | 3 | 1200 | -300
-
-1 | 2 | 900 | 0
-
-2 | 1 | 600 | +300
-
-## Downtime Lilies
-
-Unlike Lilies used in uptime, Lilies used in downtime are a strict damage potency gain since they still give red Lilies and don’t have the typical cost of one Glare. Any Lilies you can afford to spend in downtime should be spent in downtime unless absolutely needed to cover movement or healing in the next uptime phase.
-
-- - -
+**Rescue (Role Action)**
+Pulls a targeted party member towards you. Both you and your target needs to be in combat for this to take effect. This skill is generally not used outside of coordinated environments due to the delay on the movement. You can rescue someone who is animation locked from casting a Limit Break to save them from being hit by mechanics, though this does not let them act or move any sooner. 
 
 # Opener and Rotation
 
-Opener: Potion, Prepull Glare, Dia, Assize, PoM, Glare...
+![](/img/jobs/whm/noswift.png)
 
-The WHM opener is extremely simple and straightforward as we have only two oGCD damage abilities and two free weave slots. Assize is used first, because you want PoM to cover as many GCDs as possible. There are some opener variations with Swiftcast that allow for one more total weave slot in the event Temperance or Asylum is needed shortly after the pull, but these use cases are quite niche and can usually be resolved in ways that don’t lock us out of Swiftcast for the first minute of a fight.
+\-3s HQ Tincture of Mind
 
-## Rotation
+\-1.5s Glare\
+\
+  Pull
+\
+ Dia
+\
+ Glare
+\
+ Glare
+\
+*Presence of Mind*
+\
+Glare
+\
+*Assize*
+\
+Glare
 
-Glare, Glare, Glare, Glare, Glare, Glare…
+The standard opener that doesn’t use Swiftcast. However, some people might have trouble weaving Assize after a hardcasted Glare under Presence of Mind. An alternative opener that uses Swift can potentially help mitigate this issue.
 
-Jokes aside, the vast majority of your rotation is in fact just pressing Glare until you need to refresh Dia as long as there is no healing to be done.  While this seems simple… Well, yeah -- it’s simple.  Ideal Dia refresh is immediately as the previous Dia falls off, but PoM and hard-clip Assizes tend to throw off any GCD alignment we have, so Dia can be refreshed anywhere under three seconds remaining depending on your GCD.
+![](/img/jobs/whm/swift.png)
 
-WHM has two major DPS oGCDs: Assize and Presence of Mind. Assize is almost always used on cooldown in uptime since it has a fairly short 45s cooldown and delaying it will often cause you to lose a use in a fight unless you have a very specific kill time in mind.  The 45s CD is a bit awkward since it will only line up with a Dia refresh on every other use, or every 90s. You’ll generally want to use a Lily to weave the Assize uses that don’t align with Dia refreshes, but in the event you’re saving Lilies for movement, it’s worth it to just hard-clip Assize instead since at 400 potency easily outweighs the ~100p loss from clipping Glare (1/3rd of a 300p cast).
+\-3s HQ Tincture of Mind\
 
-PoM also has an awkward cooldown of 150s, meaning it won’t naturally align with two minute or three minute buffs outside the opener if used on cooldown. PoM is typically used close to on cooldown to maximize uses, but PoM uses are often delayed until buff or potions windows since it’s typically fairly easy to determine if you’ll lose a use overall in an encounter. More uses almost always beats better uses as long as you don’t have dropped casts etc while it’s running. PoM should always be used in the second weave slot to maximize the amount of GCDs covered by the haste effect.
+\-1.5s Glare
+\
+Pull
+\
+Dia
+\
+Glare
+\
+Glare
+\
+*Swiftcast*
+\
+Glare
+\
+ *Assize + Presence of Mind*
+\
+Glare
 
-WHM has the most limited weave space of any healer, so any time there’s a free weave space you should be looking to use something. Typical candidates are Divine Benison, Tetragramaton, and Lucid Dreaming, as they have fairly short cooldowns and are almost always useful, but higher priority abilities always take precedence.
+In this version of the opener, Assize is weaved outside of Presence of Mind, offering a bit more leeway for people on moderate ping as the threshold for a clean double weave is more lenient than a single weave under hardcasted PoM GCDs. The main drawback of this opener is how it leaves you without Swiftcast in the first 60s of the fight, but this should not cause you any significant issues outside of extremely fresh prog. 
 
-## Movement
+In both of the above openers, Assize and Presence of Mind are delayed to align better with raid buffs. Both can be moved earlier if the delay actually causes a loss of use over the fight.
 
-Movement on White Mage is by far the hardest thing to optimize, since it is arguably the most rooted job in the game with the least access to instant cast spells like SCH’s Ruin II or movement abilities like BLM’s Aetherial Manipulation. The instant cast spells in your arsenal are limited to Dia, Regen, and the three Afflatus Spells: Solace, Rapture, and Misery, plus whatever you can Swiftcast. As a result, WHM is heavily reliant on proper slidecasting to maximize casting uptime. Slidecasting refers to the ability to move in the last 0.5s of any cast bar without interrupting the cast, and is an important aspect of the game for all casters.
+After the opener, WHM’s basic rotation is simply a matter of keeping your DoT up, using Assize and Presence of Mind on CD and then spamming Glares.
 
-In general, you should prioritize movement as follows:
+# How to Handle Movement
 
-1. Pre-position with slidecasts, or natural Dia refreshes (100% lossless when executed properly)
-2. Swiftcast Glare
-3. Rapture that does useful healing, Misery
-4. Regen that does necessary healing (rare in Savage and below)
-5. Overheal Lilies
-6. Dia outside natural refresh
-7. Casting nothing (do not do this)
+As WHM’s actual rotation is extremely simple, the only challenge to maintaining it will be forced movement sections during actual fights. Here’s an overview of your most common movement choices. 
 
-Ideally, most of your movement is covered in ways that cost nothing; only slidecasts and natural Dia refreshes fall into this category since you are casting Glare and Dia regardless. Everything else has some sort of associated cost to move. Swiftcast costs a use of Swiftcast, Lily spells have lower average potency than Glare, overheal Lilies cost Lily gauge and could be better utilized as either healing or downtime Lilies, and Regen is strictly a lost GCD unless actually needed for healing. As a result, most of WHM optimization in endgame content comes down to prepositioning and minimizing movement as much as possible.
+### Slidecasting and Prepositioning
 
-Extended movement mechanics will typically involve most of your instant-cast arsenal.
+Glare has a base 2.5s recast but a 1.5s cast time, meaning you have over 1s to move with every Glare without clipping your next GCD, accounting for the fact that you can start moving before the 1.5s mark. As you will spend the majority of your time casting Glares, learning how to move in the window between Glares is critical to maintaining casting uptime. A lot of mechanics will require you to move quite far, but very rarely will they require you to cover that distance instantly. Use your Glare slidecast windows to slowly move towards your destination instead of sitting in one place and panic moving at the last second, which can lead to lots of dropped casts. If you’re unsure of when you can safely start slidecasting, you can drag any Emote action on your hotbar and watch for when it lights up - that indicates the timing to begin moving without interrupting your cast. 
 
-- - -
+Sprint also extends how much distance you can cover with slidecasting quite significantly. Since we have a free weave window with every Glare, you should use sprint proactively to aid with slidecasting if needed.
 
-# Healing Spell Priority
+[YouTube: Example of slidecasting without Sprint, watch how the emote bar lights up each cast.](https://www.youtube.com/watch?v=JNfYQShpXJY)
 
-*oGCDs > Lilies > GCD Heals*
 
-- - -
+[YouTube: Example of slidecasting with Sprint](https://www.youtube.com/watch?v=09Cl4T2kzOY)
 
-# Party/AoE Healing
+Prepositioning can also help you get the most out of your slidecasts. For example, if a semi-random mechanic requires you to be in one of two locations depending on the telegraph, you can preposition yourself between the two potential safe spots so you have an easy time reaching either of them. 
 
-While WHM lacks the weave space and oGCD healing arsenal of SCH and AST, we still prefer to use oGCD heals to cover as much of the healing possible before resorting to Lilies or standard GCD heals. While Assize is a healing ability, it is almost always used on cooldown for damage and MP regardless of the health of the party. That said, you should still plan other healing tools around Assize use if the Assize can cover some healing in its normal usage to maximize efficient use of healing abilities.
+### Natural Dia Refreshes
 
-Asylum is our primary AoE oGCD heal that should be planned given its rather long 90s cooldown. Typically, Asylum is used as a slow ticking heal between mechanics when players can easily stay inside the effect for the majority of the duration.  Party movement must be taken into account when using Asylum since it’s a ground targeted ability and the regen will not continue ticking on players that leave its radius, making it a poor choice for mechanics that will force players out of the effect, although it can still be an efficient healing choice even if you can’t stay inside the entire duration.
+Dia is an instant cast GCD which allows you a full GCD of movement, so try to utilize it to cover as much useful ground as possible. If you know a Dia refresh window is coming up, you can afford to greed a few more casts in the danger zone before making a swift escape with Dia. 
 
-Afflatus Rapture is generally your next priority for any party healing that can’t be covered by oGCDs but as mentioned above, you’re still ideally using it for movement and weaving in addition to healing. It’s tempting to spam Rapture for all healing as soon as it’s needed but it’s highly recommended to wait before using it until you’re sure it’s necessary since holding off can lead to more efficient uses overall. Don’t feel obligated to use Rapture just because you’re at three Lilies and are overcapping; it’s still a damage loss to use vs. Glare if it isn’t needed to cover movement or healing.
+### Swiftcast Glare
 
-Medica II is your highest potency AoE GCD heal, and should be your first choice when you need healing beyond what the above options can provide. All GCD heals minus Rapture and Solace have MP costs, and Medica II’s comes in at a hefty 1300MP, so overuse will put serious strain on your MP bar. GCD heals in general are excellent progression tools, as they have no cooldown and can be used to quickly top the party between mechanics and allow you to see farther into the fight, but are typically worked out of the rotation fairly quickly during optimization in favor of more GCD efficient healing tools like Lilies and oGCDs.
+Like natural Dia refreshes, Swiftcast also grants you a full GCD’s worth of movement, though this option is usually reserved for more optimized environments where you do not expect to raise. 
 
-Cure III has higher up front healing potency than Medica II, but less total healing and a higher MP cost. Cure III is mostly an emergency button for when the party is tightly stacked and needs immediate large healing, such as during an enrage spam or for triage when the other healer has died.
+### Afflatus Spells
 
-- - -
+All of your Lily spells are instant cast GCDs, and while Lily sets do cost you some potency unlike the movement options above, they are still one of your best options for large, continuous movement, especially if the healing afforded by them is useful healing. If you know you’ll be using Lilies to move for an upcoming mechanic, try to structure your healing plan so that those Lilies won’t be completely overhealing. 
 
-# Single Target Healing
+### Regen
 
-Single target healing largely follows the same priority as party healing except we have a couple additional tools at our disposal, and in most raid encounters tank damage isn’t that high.
+While it does not offer any damage refund unlike Lily spells, Regen is not a terrible movement option provided that the healing is genuinely useful. Such opportunities will be somewhat rare in Savage fights, especially in optimized environments, but certain fights such as the infamous Brute Justice & Cruise Chaser phase in The Epic of Alexander (Ultimate) will demand Regen as part of your healing rotation, so you may as well make use of it for movement.
 
-WHM has three single target oGCD heals: Divine Benison, Tetragrammaton, and Benediction. Use of these abilities depends on how much health the potential target is missing and how much damage they are taking; the more health they are missing, the better value you get out of Benediction and Tetragrammaton compared to Divine Bension. DB is also a poor choice if the target won’t actually take damage after it’s applied. It’s tempting to weave DB with every Dia application since both should be 30s, but given that DB is the smallest heal and has a short duration, it has the lowest priority to actually cast and plan. Benediction is often planned for tankbusters, especially with Living Dead, but can also be used as an emergency heal or for any significant tank healing if nothing else is available.
+### Early Dia Refresh
 
-Single target GCD heals are rarely needed in most Savage and lower raid content, they are essentially limited to emergency tank healing tools and are almost never used in optimization. They see more use in Ultimates, and the most use in leveling dungeons where larger pulls can exhaust all other mitigation and healing options. While Solace is technically the first GCD heal you’d reach for, given its lack of MP cost and damage refund through the Lily system, in most content you’ll either spend Lilies on Rapture or in downtime between pulls, making Solace's use pretty niche and limited to tank upkeep in dungeon pulls that went on too long. Regen is typically your first single target GCD healing option with a massive 1200 potency over 18s, with Cure II filling in for the emergency healing gaps.
+For when you’re truly out of options. A single early Dia refresh may not be the end of the world, but over-reliance on Dia spamming for movement will lead to lots of overwritten ticks and lost potency down the drain.
 
-Cure is an extremely niche spell in max level content, and should only really be used if you either lack the MP for Cure II or the 0.5s difference in cast time from Cure II could be the difference between life and death. It’s more MP efficient per heal than Cure II (even without accounting for Freecure) but still takes an entire GCD for a small heal.
+# Recovery from Death
 
-- - -
+Let’s face it - at some point, you are going to run out of HP, whether by your own mistake or someone else’s. But this does not always mean a party wipe, especially when playing in content with another healer or caster with raise capabilities, and it’s on you to not waste this opportunity. So you get a raise, what next?
 
-# Stats, Melds, and Gear
+## Choose a Raise Timing
 
-Stats and gearing in FFXIV is pretty straightforward, and gearing healers is no different. Much like the gameplay, we optimize our gear sets primarily around damage, although there are a couple considerations for healing when looking at prog sets, especially for Ultimates.
+The most important part of death recovery is choosing a time where you won’t immediately die after. Many new players fall into the trap of instantly taking a raise, instantly trying to heal themselves and then dying to unavoidable damage. The raise buff stays for a long time, so pick a time to raise when you don’t need to immediately do mechanics or heal yourself. 
 
-Magic Damage is exclusively on weapons and is by far the most important stat for both healing and damage. Magic damage directly increases all our damage and healing.
+On top of having a lot of flexibility in choosing your raise timing, you also get a Transcendent buff that lasts for five seconds after you raise, which makes you invulnerable to most attacks in this game as long as you don’t take any actions. Moving around, and receiving healing from other party members are fine, but actions such as using sprint will end your buff early. Take advantage of this buff if you raise into incoming damage. However, there are several attacks that will pierce this invulnerability, which further emphasizes the importance of picking a good timing to raise. Knockbacks tend to also go through this invulnerability, even if they do not do damage to you. A lot of debuffs, such as Vulnerability Up or Damage Down will also apply through res invulnerability.
 
-Mind and Vitality are on every piece of gear we get, and they are the most important stats next to weapon damage. Higher item level gear always has more mind and vit than lower item level gear from the same slot. Much like magic damage, Mind increases all our damage and healing, though to a much lesser degree. Vitality is a survival stat that increases our max HP which is extremely important considering that raidwides in Savage and Ultimate will often hit for over your max HP without mitigation.
+## Stabilize Yourself
 
-Crit increases the frequency and damage of your critical strikes, both for healing and damage. Crit is the best damage substat by a decent margin, but is unreliable as a healing boost. All of our damage and healing including HoT and DoT ticks can crit save two healing abilities: Benediction and Divine Benison. We never rely on crit heals but they still make up a decent portion of our total healing.
+As the healer, you are often one of the most important party members that needs to remain alive. Even if the rest of your party dies, you can salvage a near wipe with a well-timed healer LB3. Assuming that you’ve chosen a raise timing where you won’t be in immediate danger, you should still ensure that you have enough HP to survive the next onset of unavoidable damage. Oftentimes, any AoE healing that the party needs will cover your own healing requirements, so you may not need to do anything specifically for yourself. If not, your co-healer (in content where this is applicable) can assist you, or you can simply toss a Regen on yourself.
 
-Spell Speed reduces your GCD and cast times and directly increases the potency of damage and healing over time effects. WHM doesn’t favor any particular GCD tiers since PoM and hard clip Assizes tend to ruin any potential DoT/GCD alignment, but SpS is still a good damage stat on average and gets even better the more of it you have since SpS tiers are constant with the relative GCD gain increases the more you have. While SpS is good for damage, it’s important to note that it will increase your MP consumption which can cause issues when running low Piety sets with high SpS.
+Your MP is also an important resource to take care of after death. If Lucid Dreaming is not available, you can use a Super Ether HQ to recover some MP. You lose all accumulated Healing Lilies upon death, significantly limiting your healing options, so make sure you have enough MP for any upcoming heal checks. While we want to avoid not casting anything whenever possible, it may be necessary during post-death recovery when limited on MP tools. 
 
-Direct Hit increases the chance for your spells to direct hit, which deals 25% more damage than a normal hit. Direct Hit isn’t actually present on any healer gear and can only be obtained through melds, and it has no effect whatsoever on healing. Direct Hit provides slightly more damage than Determination on average so is the preferred stat over DET for optimization after prog, though prog sets may favor higher Determination for some extra healing.
+# Ground Effect Placement
 
-Determination increases all damage and healing, it’s a very boring stat, but nearly as strong as Direct Hit while also providing a small healing boost. The extra healing it provides over Direct Hit will rarely save you healing but can add a bit of comfort to prog sets and potentially save someone that would otherwise die to very minor overkill.
+Many players find it tricky to use ground effects without clipping as it involves two steps - aiming the cursor correctly and then confirming placement. This section offers some options that may help if manual ground placement is causing issues.
 
-Piety is the healer-specific substat and it increases our MP regen. Since it provides no direct damage or healing boost it’s typically seen as the “worst” stat although it has its place in prog where GCD healing and Raises are more frequent. BiS sets tend to minimize Piety at all costs since it provides no damage, and in some cases it can even be worth dropping significant item level to avoid taking a Piety piece.  
+## Targeted Macros
 
-## Stat Priority
+While Macros are generally not recommended due to their lack of queueing, ground effects are often an exception as the delay incurred by manual placement can often outweigh the detriments of a macro. A simple targeted macro for Asylum can look like this:
 
-Magic/Weapon Damage >> Mind >> Crit > SpS = Dhit >= Det >>>>> Piety*
+/merror off
+/ac "Asylum" <t>
+/ac "Asylum" <t>
+/ac "Asylum" <t>
+/ac "Asylum" <t>
+/ac "Asylum" <t>
+/ac "Asylum" <t>
+/ac "Asylum" <t>
+/ac "Asylum" <t>
+/ac "Asylum" <t>
+/micon "Asylum"
 
-This priority is purely focusing on damage. Substats in FFXIV all work on tiers and efficient tiering that minimizes stat losses will often trump the basic substat order. Piety is last on this priority as it provides no damage, but if you’re in a situation where you are frequently running out of MP then grabbing more Piety is an easy way to fix that issue (though typically this is better resolved through better play). Mind and Magic damage being so high on the list means that in the vast majority of cases a high item piece of gear will be better than a low item level piece regardless of substats.
+This will place Asylum centered around what your current target is. If you want to drop Asylum at your feet, you can replace <t> with <me>. While static target macros can get you very far, it is good practice to keep non macro’d versions of ground effects accessible for the cases where unconventional placement is required.
 
-- - -
+## gtoff Macros
 
-# Final Remarks
+These macros will drop the ground effect wherever your cursor is. However, given that gtoff is limited to being a macro, this means that its usage is still subject to the standard macro disadvantages in terms of queueing. A gtoff macro for Asylum will look like this:
 
-Despite taking so long to put out, this guide was still pretty rushed and I plan to address that as much as possible in the coming weeks. If you find any glaring mistakes or have suggestions for this guide or future guides, please feel free to let me know and I will attempt to address them as quickly as possible. See you in Endwalker!
+/merror off
+/ac "Asylum" gtoff
+/ac "Asylum" gtoff
+/ac "Asylum" gtoff
+/ac "Asylum" gtoff
+/ac "Asylum" gtoff
+/ac "Asylum" gtoff
+/ac "Asylum" gtoff
+/ac "Asylum" gtoff
+/ac "Asylum" gtoff
+/micon "Asylum"
+
+## Double Tap Placement
+
+![](/img/jobs/whm/double-press.png)
+
+This option requires setting up your Character Configuration as shown, but will allow you to confirm ground effect placement using the same keybind for the skill itself, which means that using that keybind twice in succession will drop the ground effect on wherever your cursor is. Unlike the macro options, double tap placement does queue like a normal oGCD and can feel smoother to execute for some.
+
+# MP issues?
+
+Whether you’re a new player or experienced player looking for a new job to play, you may have heard comments surrounding WHM’s MP issues and how bad they are. A lot of those comments are often exaggerated or do not capture the full picture. This section will hopefully shine some light on the situation surrounding WHM MP in a fair manner. 
+
+As of patch 6.08, WHM does have the worst MP sustain out of all healers. This is evident by just taking a look at their MP recovery tools outside of Lucid Dreaming, which is shared across all healers. 
+
+Astrologian has Draw on a 30s CD that grants them 500MP per use, and at least one Astrodyne usage per two minutes that restores 2500MP. 
+Scholar has Aetherflow which restores 2000MP per minute.
+Sage has Addersgall stacks that are generated at 20s intervals and grants 700MP per use. Every 90s, they can also get an extra stack. 
+
+In contrast, WHM only has Assize that grants 500MP per 45s, and one Thin Air usage per minute that amounts to 400MP saved when used on damage filler GCDs. To make matters worse, WHM also has Presence of Mind’s 20% haste effect every two minutes, which increases MP drain as you’re casting more GCDs. 
+
+However, WHMs do have another MP sustain tool in the form of Lilies. Afflatus spells cost 0MP, which means you effectively get 1600MP saved per Lily set for the four GCDs that 3x Afflatus healing spells + Afflatus Misery replaces. As a Lily set can be completed in 90s, this is a significant reduction and brings WHM’s MP sustain more in line with what other healers have.
+
+However, as mentioned previously, Afflatus Misery is a pure damage loss in the vast majority of uptime scenarios, making it an unreliable form of MP sustain compared to the other healers’ MP tools that can always be used at no damage cost to themselves.  
+
+With this in mind, the answer to ‘Does WHM have severe MP issues?’ becomes twofold.
+
+In progression or non optimal scenarios, where the expectation is that the WHM will use Afflatus spells for healing, WHM MP is completely fine. You will need to take extra piety for progression as usual, but the same applies to most other healers. Thin Air’s value as an MP sustain tool also rises significantly as it’ll likely be used to cover a hefty Raise cost or a Cure III, and the MP cost of your general damage rotation is mostly compensated for by a combination of Assize and Lily usage. 
+
+In optimization scenarios, WHM MP begins to suffer as you will do two things when moving towards optimization: a) shed piety on your gear as much as possible, and b) reduce all GCD healing, including Afflatus spells. Optimizing your healing to only involve oGCDs significantly worsens WHM’s MP sustain as you now have to spend more time casting MP costing spells. This essentially means that WHM often cannot shed as much piety as the other healers for optimization without inflicting severe, sometimes unrealistic, killtime restrictions to not run out of MP.  
+
+What if I’m just a casual roulette player? 
+Unless you’re specifically aiming to drop every shred of piety from your gear set, WHM’s MP issues will not affect you in any significant manner. 
+
+In conclusion, WHM’s MP is perfectly fine for progression and casual play, provided you’re not going out of your way to get rid of piety completely with your gear choices. In optimization, it becomes more restrictive than other healers in terms of gear choice due to its lack of lossless MP sustain tools. 
+
+# Gearing and Stats
+
+During the leveling process, you should simply equip higher ilvl gear as you obtain them through dungeons, tome currencies or quest rewards. As gear will be replaced every few levels, do not bother melding materia or optimizing substats. 
+
+At level cap, you should generally prefer higher ilvl gear as usual, though the multiple options offered at each ilvl make substats a bigger factor when choosing gear.
+
+In general, WHM’s stat priority is:
+
+Magic Damage >>>>> Mind >>> Piety to required levels > Crit > Direct Hit/Determination > Spell Speed
+
+**Magic Damage** (or “Weapon Damage”) is only found on weapons and is your most impactful stat as it factors significantly in both healing and damage calculations. Mind, your main stat, also affects healing and damage, though to a lesser degree than Magic Damage. Your Mind increases naturally as you upgrade your gear to higher ilvls. 
+
+**Piety** affects your natural MP regen in combat which ticks every three seconds. While the substat itself does not provide a direct damage increase, it is critical that we take enough piety to maintain full casting uptime while fulfilling healing requirements. Running out of MP to cast Glares in the middle of a fight is a significant damage loss, and not having enough MP to GCD heal and raise in prog is being an active detriment to your team. “Enough” piety in this case is extremely context- and player skill-dependent, and very much a variable that will change as you get more comfortable with fights. 
+
+**Critical Hit** increases both our chance to score a critical hit when healing or dealing damage, and how much that critical hit heals or damages for; this includes both direct damage/healing as well as DoTs and HoTs. While it does affect our healing, Crit is preferred due to its impact on our damage output as critical heals should not be part of a healing plan due to their unpredictable nature. 
+
+**Determination** is a flat multiplier on all of our healing and damaging skills that increases as you gain more of the substat, though the expected gain is less than Crit. Direct Hit increases the chance that our damaging skills (DoT ticks included) do a “Direct Hit”, dealing 25% more damage than normal. Healing is completely unaffected by Direct Hits. Healers do not have Direct Hit naturally on level cap gear, meaning we have 0 chance of scoring Direct Hits without melds or external buffs.
+
+While Direct Hit offers a marginally greater damage increase on healers than Determination, the fact that it does not affect our healing may lead to some players being uncomfortable with taking large amounts of Direct Hit. While the healing boost Determination will not save you any GCDs, it could offer some additional comfort in progression environments, and the damage loss compared to melding Direct Hit is negligible for the most part (less than 1%). That said, Best-in-Slot sets will almost always meld Direct Hit over Determination as they are optimized for damage.
+
+**Spell Speed** reduces our cast and recast time and increases the damage/healing our HoTs/DoTs do per tick. It is by far our least preferred substat due to WHM’s relatively weaker MP economy when compared to other healers. Casting more Glares in the same time frame = faster MP drain, which may force us to take more Piety to maintain casting uptime, which in turns completely defeats the point of taking Spell Speed for damage. 
