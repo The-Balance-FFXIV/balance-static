@@ -11,8 +11,6 @@ changelog:
   - date: 2022-03-19T04:17:34.002Z
     message: Updated for Endwalker.
 ---
-![]()
-
 # Introduction
 
 This guide aims to provide a basic overview of White Mage and offer guidelines on how to use each skill in its toolkit effectively in any environment. As healers do not have a strict healing rotation, this guide will focus on highlighting what makes each skill unique and explain some common use cases. 
