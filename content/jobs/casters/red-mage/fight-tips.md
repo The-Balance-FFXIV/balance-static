@@ -26,6 +26,8 @@ The second Intemperance can be trickier and will depend on your designated tile 
 
 {{< youtube BZnBqJuQYs4 >}}
 
+&nbsp;
+
 ### Potion Timing and Manafication
 
 If killing close to enrage, potions should be used on cooldown as the fight allows you to get three usages. Otherwise, potions should generally be used in the opener and then subsequently for the six-minute buff window due to common kill time ranges.
@@ -58,6 +60,8 @@ As the first set of Sewage Eruptions occurs soon after a buff window, using a me
 
 {{< youtube dXvZJQi39Lk >}}
 
+&nbsp;
+
 [Example without Acceleration](https://clips.twitch.tv/CourageousAgileCattleOSfrog-6nHrr8orGoF_fYRS)
 
 ### GCD Speed
@@ -78,6 +82,8 @@ Movement for Experimental Gloryplume can be handled easily by just slidecasting 
 
 {{< youtube 3k2vBAHMw5s >}}
 
+&nbsp;
+
 ### Darkened Fire
 
 Melee combo finishers can be used to kill the Fires more efficiently and also to get cleave damage on the boss. Depending on your number and how you time your melee combo, it is possible to hit an add and cleave the boss with Verholy/Verflare and Scorch, and possible to hit two adds and the boss with Resolution’s cleave. Additionally, a Contre Sixte or Impact targeted on an add will hit the boss for free cleave damage.
@@ -85,6 +91,8 @@ Melee combo finishers can be used to kill the Fires more efficiently and also to
 **Example using Resolution:**
 
 {{< youtube o7943zdvFmI >}}
+
+&nbsp;
 
 ### Potion Timing
 
@@ -102,9 +110,13 @@ You can cover the movement required during this mechanic with either a melee com
 
 {{< youtube ALlwu781bUM >}}
 
+&nbsp;
+
 **Example with Swiftcast/Acceleration:**
 
 {{< youtube lS9aa3WyZ_c >}}
+
+&nbsp;
 
 ### Flames of Asphodelos
 
@@ -123,6 +135,8 @@ Because of the flexibility of your melee combo, Red Mage can easily handle each 
 **Example:**
 
 {{< youtube eL5xwvv4hp4 >}}
+
+&nbsp;
 
 ### Belone Burst
 
@@ -144,6 +158,8 @@ Movement for this mechanic can be handled with either a melee combo or by slidec
 
 {{< youtube M7zVV8WOZNo >}}
 
+&nbsp;
+
 ### Act 2
 
 This mechanic can be handled by starting a melee combo shortly after the tethers appear, which lines up your finishers for the required movement afterwards. After the mechanic is resolved, Embolden can be used off cooldown in the middle of the arena to catch everybody.
@@ -152,6 +168,8 @@ This mechanic can be handled by starting a melee combo shortly after the tethers
 
 {{< youtube 5RELbf-Tw0A >}}
 
+&nbsp;
+
 ### Act 4
 
 As this mechanic occurs during a buff window you should take advantage of your melee combo to keep your GCD rolling during it. 
@@ -159,6 +177,8 @@ As this mechanic occurs during a buff window you should take advantage of your m
 **Example:** 
 
 {{< youtube CHjZY0ESyNQ >}}
+
+&nbsp;
 
 ### Potion Timing
 
