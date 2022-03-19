@@ -3,11 +3,13 @@ title: White Mage Basic Guide
 card_header_image: /img/jobs/whm/basic.png
 authors:
   - meru
-patch: "5.58"
-lastmod: 2021-10-29T03:52:28.260Z
+patch: "6.08"
+lastmod: 2022-03-19T04:17:41.809Z
 changelog:
   - date: 2021-10-29T03:52:37.749Z
     message: Created page
+  - date: 2022-03-19T04:17:34.002Z
+    message: Updated for Endwalker.
 ---
 ![]()
 
@@ -58,7 +60,7 @@ Your standard damage filler spell that you should aim to cast whenever possible,
 An instant cast DoT spell that deals 60p upfront and then ticks for 30s, dealing 60p per tick for a total of 660p if allowed to run its full duration. As this is a gain over your standard Glare filler, this DoT should be maintained on the boss at all times, unless it is about to die in less than 15s. This also applies if the boss is about to disappear, as DoTs don’t tick on untargetable bosses in the vast majority of cases. At lower levels, “Aero” variants will be your DoT spell, which will still fulfill the same purpose in your damage kit, but have a lower duration at a mere 18s. 
 
 **Holy III (“Holy” for simplicity)**
-An AoE centered on you that damages enemies within 8y by 150p and applies a stun effect. Enemies who are susceptible to the stun effect do build resistance to it, halving its duration with each application until they become temporarily immune to stun. This spell is very strong in dungeons where the cumulative 7s of stun helps mitigate a significant amount of tank damage in trash pulls. In raid scenarios, Holy is rarely used as it requires hitting three enemies to beat a Glare cast, though it can be used in niche optimization scenarios where you precast a Holy to hit the boss right as they come back from an untargetable phase. 
+An AoE centered on you that damages enemies within 8y by 150p and applies a stun effect. Enemies who are susceptible to the stun effect do build resistance to it, halving its duration with each application until they become temporarily immune to stun. This spell is very strong in dungeons where the cumulative seven seconds of stun helps mitigate a significant amount of tank damage in trash pulls. In raid scenarios, Holy is rarely used as it requires hitting three enemies to beat a Glare cast, though it can be used in niche optimization scenarios where you precast a Holy to hit the boss right as they come back from an untargetable phase. 
 
 **Afflatus Misery (Lily spell)**
 An instant-cast GCD that deals 900p damage to the primary target and 675p to enemies around it within 5y. Afflatus Misery requires three Blood Lily stacks to use, which in turn requires the use of three Afflatus healing spells. From a pure damage perspective, Afflatus Misery is a damage loss in single target scenarios as it costs four GCDs to execute - three Afflatus healing spells and one Afflatus misery - but only deals 900p, which is less than the 1240p that you would’ve dealt replacing all those Afflatus casts with Glares. In other words, do not use Afflatus healing spells for the sole purpose of charging up Afflatus Misery. This also means that it is perfectly fine to let your Healing Lily gauge remain capped out as long as you do not need to GCD heal. 
@@ -136,9 +138,9 @@ Applies a 15% mitigation effect to the target for eight seconds, this stacks wit
 ### AoE Abilities
 
 **Asylum**
-Places an 8y radius ground effect at a designated location. Party members within Asylum will be healed for 100p per tick, for 8 ticks over 24s if standing in Asylum for its full duration. However, ground effects such as Asylum have a special effect where they apply an instant tick upon placement to all party members within range, bringing up the total healing to 9 ticks of 100p each. 
+Places an 8y radius ground effect at a designated location. Party members within Asylum will be healed for 100p per tick, for eight ticks over 24s if standing in Asylum for its full duration. However, ground effects such as Asylum have a special effect where they apply an instant tick upon placement to all party members within range, bringing up the total healing to nine ticks of 100p each. 
 
-At level 78, Asylum also applies a 10% healing received buff to allies inside its range. This healing buff works on both GCD and oGCDs, including itself, making Asylum ticks 110p for all intents and purposes. However, this healing buff does not apply to the extra tick upon placement, resulting a total Asylum potency of 8  *100*  1.1 + 100 = 980p. 
+At level 78, Asylum also applies a 10% healing received buff to allies inside its range. This healing buff works on both GCD and oGCDs, including itself, making Asylum ticks 110p for all intents and purposes. However, this healing buff does not apply to the extra tick upon placement, resulting a total Asylum potency of eight  *100*  1.1 + 100 = 980p. 
 
 The high total potency as well as short CD of 90s makes Asylum your best option for partywide healing in a lot of cases, provided that party members can stand in its range for a prolonged time. Even in scenarios where additional healing is required, the healing received buff Asylum provides in addition to its regen can take a lot of pressure off the healing requirements. In dungeons, use this during trash pulls for an additional regen on the tank instead of saving it exclusively for raidwide damage.
 
@@ -157,7 +159,7 @@ Places a Liturgic Bell (“Bell” for simplicity) at a designated location and 
 
 The Bell’s healing effect procs on all forms of damage to the WHM, be it direct damage dealt by an enemy, a DoT effect from a debuff, or even environmental effects such as stepping into poison puddles. It does not proc if the WHM takes 0 damage due to shields or any other factor. 
 
-While Bell’s total healing potency of 2000p may seem very powerful on the surface, it is fairly rare to get its full effect as it requires five separate damage instances on the WHM within 15s. A portion of that healing is ‘refunded’ as the Bell dissipates, but due to its long cooldown of 3 minutes, you should definitely aim to maximize Bell procs per usage where possible. 
+While Bell’s total healing potency of 2000p may seem very powerful on the surface, it is fairly rare to get its full effect as it requires five separate damage instances on the WHM within 15s. A portion of that healing is ‘refunded’ as the Bell dissipates, but due to its long cooldown of three minutes, you should definitely aim to maximize Bell procs per usage where possible. 
 
 A unique advantage that Bell offers is the ability to place it. The fact that its healing originates from the Bell and not the WHM means that you do not need to worry about your positioning relative to other party members when Bell healing goes off. This is very useful when party members are taking damage but need to spread out to complete a mechanic. The large 20y on Bell’s healing also means that it’ll reach everyone if properly centered, as most circular raid arenas are 20y in radius. 
 
@@ -261,11 +263,10 @@ Glare has a base 2.5s recast but a 1.5s cast time, meaning you have over 1s to m
 
 Sprint also extends how much distance you can cover with slidecasting quite significantly. Since we have a free weave window with every Glare, you should use sprint proactively to aid with slidecasting if needed.
 
-https://www.youtube.com/watch?v=JNfYQShpXJY
-Example of slidecasting without sprint, watch how the emote bar lights up each cast
+[YouTube: Example of slidecasting without Sprint, watch how the emote bar lights up each cast.](https://www.youtube.com/watch?v=JNfYQShpXJY)
 
-https://www.youtube.com/watch?v=09Cl4T2kzOY
-Example of slidecasting with sprint
+
+[YouTube: Example of slidecasting with Sprint](https://www.youtube.com/watch?v=09Cl4T2kzOY)
 
 Prepositioning can also help you get the most out of your slidecasts. For example, if a semi-random mechanic requires you to be in one of two locations depending on the telegraph, you can preposition yourself between the two potential safe spots so you have an easy time reaching either of them. 
 
@@ -301,9 +302,9 @@ On top of having a lot of flexibility in choosing your raise timing, you also ge
 
 ## Stabilize Yourself
 
-As the healer, you are often one of the most important party members that needs to remain alive. Even if the rest of your party dies, you can salvage a near wipe with a well timed healer LB3. Assuming that you’ve chosen a raise timing where you won’t be in immediate danger, you should still ensure that you have enough HP to survive the next onset of unavoidable damage. Oftentimes, any AoE healing that the party needs will cover your own healing requirements, so you may not need to do anything specifically for yourself. If not, your cohealer (in content where this is applicable) can assist you, or you can simply toss a Regen on yourself.
+As the healer, you are often one of the most important party members that needs to remain alive. Even if the rest of your party dies, you can salvage a near wipe with a well-timed healer LB3. Assuming that you’ve chosen a raise timing where you won’t be in immediate danger, you should still ensure that you have enough HP to survive the next onset of unavoidable damage. Oftentimes, any AoE healing that the party needs will cover your own healing requirements, so you may not need to do anything specifically for yourself. If not, your co-healer (in content where this is applicable) can assist you, or you can simply toss a Regen on yourself.
 
-Your MP is also an important resource to take care of after death. If Lucid Dreaming is not available, you can use a Super Ether HQ to recover some MP. You lose all accumulated Healing Lilies upon death, significantly limiting your healing options, so make sure you have enough MP for any upcoming heal checks. While we want to avoid not casting anything whenever possible, it may be necessary during post death recovery when limited on MP tools. 
+Your MP is also an important resource to take care of after death. If Lucid Dreaming is not available, you can use a Super Ether HQ to recover some MP. You lose all accumulated Healing Lilies upon death, significantly limiting your healing options, so make sure you have enough MP for any upcoming heal checks. While we want to avoid not casting anything whenever possible, it may be necessary during post-death recovery when limited on MP tools. 
 
 # Ground Effect Placement
 
