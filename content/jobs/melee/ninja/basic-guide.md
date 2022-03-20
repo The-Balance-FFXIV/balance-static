@@ -112,77 +112,114 @@ Trick Attack is our single-target raid buff that increases damage by 5% for anyo
 
 At a glance, we want to fit Hyosho Ranyru, x2 Raitons, Ten-Chi-Jin, Dream Within a Dream, x2 Fleeting/Forked Raijus, Meisui, and as many Bhavacakras as we can weave. 
 
-**⦿ Ninjutsus **are unique abilities that we formulate with the Mudras: Ten, Chi and Jin. Refer to this **[cheat sheet ](https://media.discordapp.net/attachments/919447066168668171/920093248360439818/MUDRA_GUIDE_ew.png?width=704&height=545)**for all the different mudra combinations.
-
-⦿ **Kassatsu** is an oGCD that grants an additional Ninjutsu and converts certain Ninjutsu combinations into much more powerful Ninjutsus. The buff lasts 15 seconds, so weaving this within the Trick Attack window is generally unnecessary. Kassatsu transforms Hyoton into Hyosho, and Katon into Goka Mekkyaku. 
 
 
-## **Opener**
+Ninjutsus are unique abilities that we formulate with the Mudras: Ten, Chi and Jin. Refer to this [cheat sheet](https://media.discordapp.net/attachments/919447066168668171/920093248360439818/MUDRA_GUIDE_ew.png?width=704&height=545) for all the different mudra combinations.
 
 
----
+Kassatsu is an oGCD that grants an additional Ninjutsu and converts certain Ninjutsu combinations into much more powerful Ninjutsus. The buff lasts 15 seconds, so weaving this within the Trick Attack window is generally unnecessary. Kassatsu transforms Hyoton into Hyosho, and Katon into Goka Mekkyaku. 
 
-**Standard 3rd GCD Opener**
+
+
+
+## Opener
+
+
+
+
+
+Standard 3rd GCD Opener
 
 
 
 <p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image16.png "image_tooltip")
 
 
-**[Opener](https://cdn.discordapp.com/attachments/277968398103609344/929518167036928070/nin2.png)**
+
+
+
+[Opener](https://cdn.discordapp.com/attachments/277968398103609344/929518167036928070/nin2.png)
+
+
 
 This is the best general play opener for NIN. Unlike Shadowbringers, we will be using Trick Attack slightly earlier to align with other buffs and jobs. Some important notes are preparing Suiton at -6s and then casting at -1s to ensure you pull on time. This will not early pull the boss, as the damage takes 1s to register. Doing this means our Mudra cooldown will be sooner, and that we will be able to fit x2 Raitons within all Trick windows post opener. 
 
-Next, we will be **late weaving** Trick Attack. This is **ONLY **for the opener and is done for alignment purposes. You should late weave as much as possible without clipping your next GCD. This will depend on your ping. After the opener, we should strictly keep Trick Attack off cooldown and prevent it from drifting as much as possible. 
+
+
+Next, we will be **late weaving** Trick Attack. This is **ONLY** for the opener and is done for alignment purposes. You should late weave as much as possible without clipping your next GCD. This will depend on your ping. After the opener, we should strictly keep Trick Attack off cooldown and prevent it from drifting as much as possible. 
+
+
 
 Lastly, getting that last Spinning Edge is extremely tight but possible on any GCD speed 2.12 or below. If you play at >40ms ping, you can skip the Spinning Edge and go straight into casting Raiton. 
 
 
-## **Basic Rotation**
 
 
----
+## Basic Rotation
+
+
+
+
 
 **Filler**
 
-Outside of a Trick Attack window, we will fill out most of our rotation with use of Spinning Edge -> Gust Slash -> Aeolian Edge. This is known as our **filler **and it allows us to burn time and continue doing damage until our next burst window. We will also be building plenty of Ninki in this time, and should burn any Ninki before we overcap. 
+
+
+Outside of a Trick Attack window, we will fill out most of our rotation with use of Spinning Edge -> Gust Slash -> Aeolian Edge. This is known as our **filler** and it allows us to burn time and continue doing damage until our next burst window. We will also be building plenty of Ninki in this time, and should burn any Ninki before we overcap. 
+
+
 
 
 
 <p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image17.png "image_tooltip")
+
+
+
+
 
 
 <p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image18.png "image_tooltip")
+
+
 
 
 <p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image19.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image19.png "image_tooltip")
 
 
-While normally we will be using Aeolian Edge as our standard combo finisher, we should switch to** Armor Crush** when any of the following is met:
 
-**1.** Our **Huton **gauge is somewhere below 30s.
 
-**2**. We need to cap **Huton **gauge to pull us through a long downtime segment. It would be better to overcap on Huton than drop it and be forced to use Huraijin on the reopener. 
 
-**3**. We are at the flank of the boss and are unable to go to the rear or don’t have True North available. Even if we overcap gauge, an Armor Crush with positional bonus is better than an Aeolian Edge without positional bonus.
+While normally we will be using Aeolian Edge as our standard combo finisher, we should switch to **Armor Crush** when any of the following is met:
 
-**Note: Huraijin **shouldn’t be part of our rotation, and isn’t the optimal GCD to use to maintain our Huton gauge. We will only use Huraijin in situations where our Huton drops, such as on accident, death or through a long downtime segment.
+
+
+* Our Huton gauge is somewhere below 30s.
+
+* We need to cap Huton gauge to pull us through a long downtime segment. It would be better to overcap on Huton than drop it and be forced to use Huraijin on the reopener. 
+
+
+* We are at the flank of the boss and are unable to go to the rear or don’t have True North available. Even if we overcap gauge, an Armor Crush with positional bonus is better than an Aeolian Edge without positional bonus.
+
+
+
+**Note:** Huraijin shouldn’t be part of our rotation, and isn’t the optimal GCD to use to maintain our Huton gauge. We will only use Huraijin in situations where our Huton drops, such as on accident, death or through a long downtime segment.
+
+
 
 **Ninki Maintenance**
 
 Throughout our rotation we will be building resources and spending Ninki as needed. Optimally, it is best if we pool our Ninki as high as possible **without **overcapping for our Trick Attack window, then dump as much Bhavacakras as weave space provides. Generally this will look to be between 1 - 4 Bhavacakras per Trick window.
+
+*******************[Stopped Editing here]**********************
+
 
 
 <table>
