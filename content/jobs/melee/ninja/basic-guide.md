@@ -46,16 +46,18 @@ If you want a melee job with the most flexibility for disengagements and has a f
 
 
 
-**⦿ **[Video Demonstration](https://youtu.be/CQeABjRFbFs) of a 6-minute fight. 
+* [Video Demonstration](https://youtu.be/CQeABjRFbFs) of a 6-minute fight. 
 
-**⦿ **[Rotation Planner](https://docs.google.com/spreadsheets/d/1v0fbsALOoQFNTBkk--vzAYrcBSPd7em85TmVMi9UCSI/edit?usp=sharing)** **for an visualization of a 6-minute rotation or the ability to spreadsheet any rotation.
+* [Rotation Planner](https://docs.google.com/spreadsheets/d/1v0fbsALOoQFNTBkk--vzAYrcBSPd7em85TmVMi9UCSI/edit?usp=sharing)** **for an visualization of a 6-minute rotation or the ability to spreadsheet any rotation.
 
-**⦿ **[XIVAnalysis](https://xivanalysis.com/) is good for checking general mistakes and an improved timeline of a fight. 
+* [XIVAnalysis](https://xivanalysis.com/) is good for checking general mistakes and an improved timeline of a fight. 
 
-**⦿ **[Gear Planner](http://bit.ly/Gear-Planner) simulates predicted DPS based off gear, great for creating a set. 
+* [Gear Planner](http://bit.ly/Gear-Planner) simulates predicted DPS based off gear, great for creating a set. 
 
 
-## **Core Concepts**
+
+
+## Core Concepts
 
 
 
@@ -64,7 +66,7 @@ If you want a melee job with the most flexibility for disengagements and has a f
 
 
 
-**⦿ Huton** grants us with a 15% reduction in auto-attack delay and skill-speed. This is one of the first gauges we get, and it is crucial for us to maintain this gauge with the use of** Armor Crush** when the gauge is 30s or below. Use of Armor Crush above 30s will result in waste of Huton gauge, which should be avoided. To start using Huton, we will cast Huton prepull. Huraijin is only ever used if our Huton drops on accident, on death, or through a long downtime segment.   
+Huton grants us with a 15% reduction in auto-attack delay and skill-speed. This is one of the first gauges we get, and it is crucial for us to maintain this gauge with the use of Armor Crush when the gauge is 30s or below. Use of Armor Crush above 30s will result in waste of Huton gauge, which should be avoided. To start using Huton, we will cast Huton prepull. Huraijin is only ever used if our Huton drops on accident, on death, or through a long downtime segment.   
 
 
 
@@ -75,129 +77,38 @@ If you want a melee job with the most flexibility for disengagements and has a f
 
 
 
-![alt_text](images/image1.png "image_tooltip")
 
 
-**⦿ Ninki **is the second gauge we receive, and allows us to accumulate resources for use of Bhavacakra, Hellfrog Medium or Bunshin. Below is a table listing every ability and their ninki amount. Bunshin will also add +5 Ninki to any GCD that consumes a stack of Bunshin. 
 
-Furthermore, we ought to avoid ever **overcapping **on Ninki, even if we must burn gauge right before Trick Attack. Overcapped Ninki is potential oGCD loss, which is a far larger loss than the gain of getting more Bhavacakras under Trick. 
+Ninki is the second gauge we receive, and allows us to accumulate resources for use of Bhavacakra, Hellfrog Medium or Bunshin. Below is a table listing every ability and their Ninki amount. Bunshin will also add +5 Ninki to any GCD that consumes a stack of Bunshin. 
+
+Furthermore, we ought to avoid ever overcapping on Ninki, even if we must burn gauge right before Trick Attack. Overcapped Ninki is potential oGCD loss, which is a far larger loss than the gain of getting more Bhavacakras under Trick. 
+
+
 
 
 
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image2.png "image_tooltip")
 
 
 
-<table>
-  <tr>
-   <td><strong>+5 Ninki</strong>
-   </td>
-   <td><strong>+10 Ninki</strong>
-   </td>
-   <td><strong>+15 Ninki</strong>
-   </td>
-   <td><strong>+40 Ninki</strong>
-   </td>
-   <td><strong>+50 Ninki</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image3.png" width="" alt="alt_text" title="image_tooltip">
+
+| +5 Ninki                                                                                                                     | +10 Ninki            | +15 Ninki                    | +40 Ninki | +50 Ninki |
+|------------------------------------------------------------------------------------------------------------------------------|----------------------|------------------------------|-----------|-----------|
+| Spinning Edge, Gust Slash, Death Blossom, Hakke Mujinsatsu, Fleeting Raiju, Forked Raiju, Throwing Dagger, Huraijin | Phantom Kamaitachi | Aeolian Edge, Armor Crush | Mug | Meisui  |
 
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image4.png" width="" alt="alt_text" title="image_tooltip">
+
+
 
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image5.png" width="" alt="alt_text" title="image_tooltip">
-
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image6.png" width="" alt="alt_text" title="image_tooltip">
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image7.png" width="" alt="alt_text" title="image_tooltip">
-
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image8.png" width="" alt="alt_text" title="image_tooltip">
-
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image9.png" width="" alt="alt_text" title="image_tooltip">
-
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image10.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-   <td>
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image11.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-   <td>
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image12.png" width="" alt="alt_text" title="image_tooltip">
-
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image13.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-   <td>
-
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image14.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-   <td>
-
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image15.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-  </tr>
-</table>
-
-
-**⦿ Trick Attack** is our single-target raid buff that increases damage by 5% for anyone hitting the target for 15.77 seconds every minute. This is one of our most important skills and provides a tremendous amount of utility for the party and yourself. Our goal is to utilize our own Trick Attack and fit as many high potency abilities as we can before it ends. 
+Trick Attack is our single-target raid buff that increases damage by 5% for anyone hitting the target for 15.77 seconds every minute. This is one of our most important skills and provides a tremendous amount of utility for the party and yourself. Our goal is to utilize our own Trick Attack and fit as many high potency abilities as we can before it ends. 
 
 At a glance, we want to fit Hyosho Ranyru, x2 Raitons, Ten-Chi-Jin, Dream Within a Dream, x2 Fleeting/Forked Raijus, Meisui, and as many Bhavacakras as we can weave. 
 
