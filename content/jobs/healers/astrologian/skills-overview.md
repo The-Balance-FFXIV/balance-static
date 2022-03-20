@@ -33,7 +33,7 @@ changelog:
 
 **Gravity II**
 
-* AoE damage in a 5y radius around your target  (130 potency), 1.5 cast time. 
+* AoE damage in a five yalm radius around your target  (130 potency), 1.5 cast time. 
 * In dungeons, apply Combust while running and spam gravity when the tank stops. 
 * Gravity is a gain on two targets over Fall Malefic. 
 * Can weave one oGCD after this. 
@@ -45,7 +45,6 @@ changelog:
 * Single target DoT (10 ticks of 55 potency), instant cast. Total potency: 550. 
 * In dungeons, apply Gravity while running and use Gravity when the tank stops. 
 * If Optimizing: 
-
   * Refreshing Combust early can be a gain if you know your kill/phase time and you know you will lose ticks anyway.
   * Combust is a gain on Fall Malefic after five ticks.
 
@@ -75,7 +74,7 @@ changelog:
 
 * Single target heal (250p) + regen (5 ticks of 250p), instant cast. Total heal potency: 1,500p
 * Use it on allies who are taking sustained single target damage, most commonly autos on tanks.
-* Aspected Benefic has substantially higher total potency than Cure 2 if you don't need immediate healing
+* Aspected Benefic has substantially higher total potency than Benefic II if you don't need immediate healing
 
 ![](/img/jobs/ast/helios.png)
 
@@ -285,12 +284,12 @@ changelog:
 * Using draw ability recovers 500mp
 * Cards can be played with the play ability after drawing a card
 * Draws one of six cards split by Melee cards and Ranged cards
-* Melee cards can be identified by the Teal border. It increases damage for Melee and Tank jobs by 6% and Ranged, Caster and Healer classes by 3%
-* Ranged cards can be identified by the Purple border. It increases damage for Ranged, Caster and healer classes by 6% and Melee and Tank jobs by 3%
+* Melee cards can be identified by the Teal border. It increases damage for Melee and Tank jobs by six percent and Ranged, Caster and Healer classes by three percent
+* Ranged cards can be identified by the Purple border. It increases damage for Ranged, Caster and healer classes by six percent and Melee and Tank jobs by three percent
 * If you are colorblind, melee cards have a + to the side of the card while ranged cards have a little o+ to the side of the card
 * Playing cards while you and your target are both in combat will give you a seal in your arcana gauge
 * Try not to over cap on draw charges
-* Playing one card every 1 minute and 3 cards every 2 minutes is optimal in raid boss fights
+* Playing one card every one minute and three cards every two minutes is optimal in raid boss fights
 * In dungeons use cards as you get them on trash
 * The Draw ability gives you Clarifying Draw giving you the ability to use Redraw
 * Redraw draws a different card from your deck replacing the card you had
@@ -319,7 +318,7 @@ changelog:
 
 ![](/img/jobs/ast/divination.png)
 
-**Divination 2m cd**
+**Divination two minute cd**
 
 * Raid Buff: Increases the damage of allies within 15y by 6%
 * Uses a weave window
@@ -336,10 +335,10 @@ changelog:
 * Uses a weave window
 * This buff grants effects based on the number of unique seals you have.
              
-       * At least one unique seal gives you 2,500mp over 15s.
+       * At least one unique seal gives you, 500mp over 15s.
        * At least two seals give you 10% haste.
        * At least three seals increase your outgoing damage and healing by 5%.
-       * Aim to get at least 2 unique seals to get the haste buff, while it's ideal to get 3 unique seals, it's not always optimal to redraw for it and the damage buff is a small gain compared to the haste buff.
+       * Aim to get at least two unique seals to get the haste buff, while it's ideal to get three unique seals, it's not always optimal to redraw for it and the damage buff is a small gain compared to the haste buff.
 * Haste isn't the same as spellspeed so it will not increase DoT damage
-* You can hold Astrodyne for the 2 minute window, your 6 minute window will have two Astrodynes if you do this. I suggest looking at Astrodyne and Cards timeline for an idea on how 2 minute Astrodyne works.
+* You can hold Astrodyne for the two minute window, your six minute window will have two Astrodynes if you do this. I suggest looking at Astrodyne and Cards timeline for an idea on how two minute Astrodyne works.
 * Overwriting cards in the Arcana gauge is never worth it unless you know you won't gain another Astrodyne before the fight ends.
