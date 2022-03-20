@@ -3,11 +3,13 @@ title: Ninja Basic Guide
 card_header_image: /img/jobs/nin/basic.png
 authors:
   - zhotacton
-patch: "5.58"
-lastmod: 2021-10-29T03:08:20.127Z
+patch: "6.08"
+lastmod: 2022-03-20T03:55:05.969Z
 changelog:
   - date: 2021-10-29T03:08:27.069Z
     message: Created page
+  - date: 2022-03-20T03:55:08.156Z
+    message: Updated for Endwalker
 ---
 # **6.08 Standard Lv.90 NIN Guide** 
 
