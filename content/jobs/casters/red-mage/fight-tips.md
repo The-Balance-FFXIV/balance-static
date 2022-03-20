@@ -59,6 +59,7 @@ As the first set of Sewage Eruptions occurs soon after a buff window, using a me
 **Example with Acceleration:**
 
 {{< youtube dXvZJQi39Lk >}}
+
 &nbsp;
 [Example without Acceleration](https://clips.twitch.tv/CourageousAgileCattleOSfrog-6nHrr8orGoF_fYRS)
 
