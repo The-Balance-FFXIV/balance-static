@@ -317,7 +317,9 @@ First priority of Phantom Kamaitachi is to use it as a disengagement tool over R
 
 ### Should I be using Forked Raiju or Fleeting Raiju?
 
-Both Forked Raiju and Fleeting Raiju have an identical potency of 560. Forked Raiju is a gapcloser, whereas Fleeting Raiju is a standard melee gcd which allows it freedom of movement. Realistically you should always be using Fleeting Raiju, however if you need to use a gapcloser then use Forked Raiju. Tldr; use whatever you want.
+Both Forked Raiju and Fleeting Raiju have an identical potency of 560. Forked Raiju is a gapcloser, whereas Fleeting Raiju is a standard melee GCD which allows it freedom of movement. Realistically you should always be using Fleeting Raiju, however if you need to use a gapcloser then use Forked Raiju. 
+
+**TL;DR**: use whatever you want.
 
 ### Does Kassatsu damage percent affect Hyosho and Goka?
 
