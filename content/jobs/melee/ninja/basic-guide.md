@@ -230,23 +230,23 @@ Unfortunately the decision may not always be clear. Trick remaining aligned is c
 
 How a reopener may look is fight and kill time dependent. but for the most part we can expect to use Trick on the reopener within 2-3 GCDs. Below are some examples of generic reopeners for reference. Pot may be weaved alone in any open weave slot. 
 
-100 Ninki + Bunshin + 2nd GCD
+#### 100 Ninki + Bunshin + 2nd GCD
 
-<p id="gdcalert30" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image30.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert31">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![](/img/jobs/nin/reopener_1.png)
 
-![alt_text](images/image30.png "image_tooltip")
+&nbsp;
 
-100 Ninki + Bunshin + 1st GCD 
+#### 100 Ninki + Bunshin + 1st GCD
 
-<p id="gdcalert31" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image31.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert32">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![](/img/jobs/nin/reopener_2.png)
 
-![alt_text](images/image31.png "image_tooltip")
+&nbsp;
 
-70 Ninki + 2nd GCD
+#### 70 Ninki + 2nd GCD
 
-<p id="gdcalert32" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image32.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert33">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![](/img/jobs/nin/reopener_3.png)
 
-![alt_text](images/image32.png "image_tooltip")
+&nbsp;
 
 Cooldowns may be available at different times or pot may be present as well. Above examples are just for reference and may not be applicable for certain fights. 
 
@@ -268,7 +268,7 @@ As melee, we may need to disconnect from the boss. While we have a ranged GCD - 
 
 Positionals follow the same logic. It is better to use a GCD without hitting the positional requirement than it is to clip and hit a GCD with the positional requirement. Or if you’re at the flank of the boss, and need to hit Aeolian Edge next, simply using Armor Crush and overcapping your Huton is better than missing the Aeolian Edge positional.
 
-### **Use Your Cooldowns
+### Use Your Cooldowns
 
 A common mistake amongst new Ninjas is severely drifting oGCDs such as Trick Attack, Bunshin, Dream Within A Dream, etc. Unless you know that drifting or moving a cooldown won’t cost you a use or are expecting a certain killtime, then don’t do it. Due to the high-burst nature of the job, we’re reliant on our oGCDs and fitting damage into burst. Drifting your cooldowns may force you to lose a use, or have your damage fall out of Trick Attack and/or other raid buffs. Every lost use of a cooldown or burst ability drifted out of buffs causes a significant loss to your personal damage.
 
