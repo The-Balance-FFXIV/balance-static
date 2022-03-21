@@ -104,13 +104,12 @@ Throughout our rotation we will be building resources and spending Ninki as need
 
 It is important for a Ninja to understand and confidently know each Ninjutsu combination, as our rotation demands excessive use of Ten, Chi and Jin to formulate some of our strongest GCDs. With a 20s cooldown on our mudras, we expect to get 3 natural Ninjutsus a minute. One Ninjutsu will be used on **Suiton** when Trick Attack is 20s or less on cooldown, as we need the Suiton buff to use Trick. The other two should be used ideally within Trick Attack as **Raitons**. 
 
-**Kassatsu** provides us with an additional Ninjutsu every minute and should be used as Hyosho Ranyru on 1-2 targets, or as Goka Mekkyaku when there are 3+ targets. 
+**Kassatsu** provides us with an additional Ninjutsu every minute and should be used as Hyosho Ranyru on one to two targets, or as Goka Mekkyaku when there are 3+ targets. 
 
 The only time we should **not use** Raiton within Trick Attack is when one of the following is met:
 
-**1**. We must disconnect from the boss, and do not have Phantom Kamaitachi nor have the option to use Suiton to prepare Trick Attack. Using Raton to disconnect and keep our GCD rolling is far better than using Throwing Dagger, even if that means 1 less Raiton + Raiju in Trick Attack. 
-
-**2**. We need to prevent mudra **overcap** by using a Ninjutsu. If Trick is used strictly off cooldown, we won’t ever have this issue, and 2 Raitons will naturally be within Trick with little to no overcap. However, a common occurrence is if we ever **hold** Trick Attack, normally for a mechanic. Any time we hold Trick Attack, we will overcap Mudra stacks if attempting to fit both Raitons within Trick. Therefore, 1 Raiton must be used outside of Trick Attack to prevent overcap. 
+1. We must disconnect from the boss, and do not have Phantom Kamaitachi nor have the option to use Suiton to prepare Trick Attack. Using Raton to disconnect and keep our GCD rolling is far better than using Throwing Dagger, even if that means one less Raiton + Raiju in Trick Attack. 
+2. We need to prevent mudra **overcap** by using a Ninjutsu. If Trick is used strictly off cooldown, we won’t ever have this issue, and 2 Raitons will naturally be within Trick with little to no overcap. However, a common occurrence is if we ever **hold** Trick Attack, normally for a mechanic. Any time we hold Trick Attack, we will overcap Mudra stacks if attempting to fit both Raitons within Trick. Therefore, 1 Raiton must be used outside of Trick Attack to prevent overcap. 
 
 **Overcapping** should be avoided when it comes to our mudra stacks. This happens when our mudra ever stacks to x2. Any time spent with overcapped mudra is time that pushes our mudra cooldown backwards into our rotation timeline. Doing so can make fitting x2 Raitons into Trick difficult or even cost us an entire use of a Raiton by the end of the fight. 
 
@@ -118,7 +117,7 @@ Holding Trick and downtime are common causes for mudra overcap. Most of the time
 
 ### Multi-Target
 
-**Doton** does 70p per tick (every 3s), with one additional tick happening the moment you drop the Doton. That’s a total of 9 ticks for 630p. You should use this pre-pull for boss pulls, if you are able to. Otherwise, Doton should be used on 2 targets when they sit within the Doton for at least \~18s (or 7 ticks). 3 targets for at least \~12s (5 ticks) and 4 targets for at least ~6s (3 ticks). 
+**Doton** does 70p per tick (every three), with one additional tick happening the moment you drop the Doton. That’s a total of nine ticks for 630p. You should use this pre-pull for boss pulls, if you are able to. Otherwise, Doton should be used on two targets when they sit within the Doton for at least \~18s (or seven ticks), three targets for at least \~12s (5 ticks) and four targets for at least ~6s (three ticks). 
 
 **Katon** should only be used on 3+ targets, and ideally when Doton is placed to be able to proc Hollow Nozuchi. 
 
