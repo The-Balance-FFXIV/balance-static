@@ -32,21 +32,15 @@ Huton grants us with a 15% reduction in auto-attack delay and skill-speed. This 
 
 ![](/img/jobs/nin/image24.png)
 
-&nbsp;
-
 Ninki is the second gauge we receive, and allows us to accumulate resources for use of Bhavacakra, Hellfrog Medium or Bunshin. Below is a table listing every ability and their Ninki amount. Bunshin will also add +5 Ninki to any GCD that consumes a stack of Bunshin. 
 
 Furthermore, we ought to avoid ever overcapping on Ninki, even if we must burn gauge right before Trick Attack. Overcapped Ninki is potential oGCD loss, which is a far larger loss than the gain of getting more Bhavacakras under Trick. 
 
 ![](/img/jobs/nin/image25.png)
 
-&nbsp;
-
 | +5 Ninki                                                                                                            | +10 Ninki          | +15 Ninki                 | +40 Ninki | +50 Ninki |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------- | --------- | --------- |
 | Spinning Edge, Gust Slash, Death Blossom, Hakke Mujinsatsu, Fleeting Raiju, Forked Raiju, Throwing Dagger, Huraijin | Phantom Kamaitachi | Aeolian Edge, Armor Crush | Mug       | Meisui    |
-
-&nbsp;
 
 Trick Attack is our single-target raid buff that increases damage by 5% for anyone hitting the target for 15.77 seconds every minute. This is one of our most important skills and provides a tremendous amount of utility for the party and yourself. Our goal is to utilize our own Trick Attack and fit as many high potency abilities as we can before it ends. 
 
@@ -61,8 +55,6 @@ Kassatsu is an oGCD that grants an additional Ninjutsu and converts certain Ninj
 ### Standard 3rd GCD Opener
 
 ![](/img/jobs/nin/ninopener.png)
-
-&nbsp;
 
 [Opener](https://cdn.discordapp.com/attachments/277968398103609344/929518167036928070/nin2.png)
 
@@ -95,8 +87,6 @@ Throughout our rotation we will be building resources and spending Ninki as need
 | Bunshin         | Use on cooldown, don't hold for Trick Attack unless it is towards the end of the fight, and holding it won't cost you a usage. |
 | Bhavacakra      | When there's only one or two targets. Only use on three targets if Bhavacakra is buffed by Meisui.                             |
 | Hellfrog Medium | When there's three or more targets, even if Trick Attack is active.                                                            |
-
-&nbsp;
 
 ### Ninjutsus
 
@@ -149,19 +139,13 @@ This example uses Spinning Edge first, allowing us to sooner use Dream Within A 
 
 ![](/img/jobs/nin/odd_1.png)
 
-&nbsp;
-
 This next example starts off with Hyosho and uses Dream Within A Dream right after, but otherwise is extremely similar to the above: 
 
 ![](/img/jobs/nin/odd_2.png)
 
-&nbsp;
-
 This final example is when we want to drift Phantom Kamaitachi into the odd window. This can be placed anywhere as long as it is used before the buff falls off:
 
 ![](/img/jobs/nin/odd_3.png)
-
-&nbsp;
 
 ### Even Trick
 
@@ -181,25 +165,17 @@ This example utilizes **Mug** and requires the ability to double-weave. This is 
 
 ![](/img/jobs/nin/even_1.png)
 
-&nbsp;
-
 This example is much like the first, however, Trick is used in the early weave slot and opens up the weave slot directly after it for Bhavacakra. Ideally if the option is available and you can double-weave, this is recommended. The drawback is, because we opened up a weave slot at the start of the window, the weave slot after the final Raiton will not be within Trick. 
 
 ![](/img/jobs/nin/even_2.png)
-
-&nbsp;
 
 The next example does NOT use **Mug** within Trick, and only ever single weaves. I also assume we have entered Trick at 90-95 Ninki here, allowing us to get three Bhavacakras within the window:
 
 ![](/img/jobs/nin/even_3.png)
 
-&nbsp;
-
 This last example is if we enter Trick at 100 Ninki and are able to fit four Bhavacakras under Trick. Fitting x4 Bhavacakras under Trick is also possible at 90-95 Ninki, but requires swapping out a Raiju for an Aeolian Edge (only if available): 
 
 ![](/img/jobs/nin/even_4.png)
-
-&nbsp;
 
 ## Miscellaneous
 
@@ -227,19 +203,13 @@ How a reopener may look is fight and kill time dependent. but for the most part 
 
 ![](/img/jobs/nin/reopener_1.png)
 
-&nbsp;
-
 #### 100 Ninki + Bunshin + 1st GCD
 
 ![](/img/jobs/nin/reopener_2.png)
 
-&nbsp;
-
 #### 70 Ninki + 2nd GCD
 
 ![](/img/jobs/nin/reopener_3.png)
-
-&nbsp;
 
 Cooldowns may be available at different times or pot may be present as well. Above examples are just for reference and may not be applicable for certain fights. 
 
