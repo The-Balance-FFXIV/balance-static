@@ -167,15 +167,15 @@ This final example is when we want to drift Phantom Kamaitachi into the odd wind
 
 This is a window that occurs every even minute or is a window that has all our 2-minute cooldowns available. The Even window is much like our Odd Trick, but will have Ten-Chi-Jin, Meisui and optionally Mug included. 
 
-We should try to fit x1 **Hyosho**, x2 **Raitons**, x2 **Raijus**, **Dream Within A Dream**, **Ten-Chi-Jin**, **Meisui**, and as many **Bhavacakras** as possible. If you are able to double weave (&lt;40ms ping), you can also drift **Mug** into Trick for an additional Bhavacakra. 
+We should try to fit x1 **Hyosho**, x2 **Raitons**, x2 **Raijus**, **Dream Within A Dream**, **Ten-Chi-Jin**, **Meisui**, and as many **Bhavacakras** as possible. If you are able to double weave (<40ms ping), you can also drift **Mug** into Trick for an additional Bhavacakra. 
 
-Phantom Kamaitachi, however, should **NOT** be used within an Even Trick window, as it does less damage than either of our Raijus. There are some exceptions, such as if the extra Ninki would otherwise grant you an extra Bhavacakra, or if replacing x1 Raiton results in a gain of x2 GCDs (ie late woven Trick).
+Phantom Kamaitachi, however, should **NOT** be used within an Even Trick window, as it does less damage than either of our Raijus. There are some exceptions, such as if the extra Ninki would otherwise grant you an extra Bhavacakra, or if replacing x1 Raiton results in a gain of x2 GCDs (i,e. a late-woven Trick).
 
 **Examples:** 
 
 **[Infographic](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9078c445-96b1-45cc-87ea-5ed775a0a033/df0x5w6-2c6aff1b-0805-4ec1-939c-76ae8f1d26c2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkwNzhjNDQ1LTk2YjEtNDVjYy04N2VhLTVlZDc3NWEwYTAzM1wvZGYweDV3Ni0yYzZhZmYxYi0wODA1LTRlYzEtOTM5Yy03NmFlOGYxZDI2YzIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B6IQht5_Ek1oDlbwcNpERxnrev6kUZbe89vAeZxZpC4)**
 
-**Note**: There are plenty of ways to execute an even/2m Trick window, as long as the optimal amount of abilities are within the window. Below are some examples demonstrating the order I recommend. 
+**Note**: There are plenty of ways to execute an even/2-minute Trick window, as long as the optimal amount of abilities are within the window. Below are some examples demonstrating the order I recommend. 
 
 This example utilizes **Mug** and requires the ability to double-weave. This is my suggested order of GCDs: **Hyosho -> Raiton -> Fleeting -> TCJ -> Fleeting -> Raiton**. Then utilize the available weave slots. Recall that after a Ninjutsu, you can only single weave, and after a standard GCD, you can only double weave (with good ping): 
 
@@ -183,7 +183,7 @@ This example utilizes **Mug** and requires the ability to double-weave. This is 
 
 &nbsp;
 
-This example is much like the first; however, Trick is used in the early weave slot and opens up the weave slot directly after it for Bhavacakra. Ideally if the option is available and you can double-weave, this is recommended. Drawback is, because we opened up a weave slot at the start of the window, the weave slot after the final Raiton will not be within Trick. 
+This example is much like the first, however, Trick is used in the early weave slot and opens up the weave slot directly after it for Bhavacakra. Ideally if the option is available and you can double-weave, this is recommended. The drawback is, because we opened up a weave slot at the start of the window, the weave slot after the final Raiton will not be within Trick. 
 
 ![](/img/jobs/nin/even_2.png)
 
