@@ -42,6 +42,8 @@ Furthermore, we ought to avoid ever overcapping on Ninki, even if we must burn g
 | ------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------- | --------- | --------- |
 | Spinning Edge, Gust Slash, Death Blossom, Hakke Mujinsatsu, Fleeting Raiju, Forked Raiju, Throwing Dagger, Huraijin | Phantom Kamaitachi | Aeolian Edge, Armor Crush | Mug       | Meisui    |
 
+&nbsp;
+
 Trick Attack is our single-target raid buff that increases damage by 5% for anyone hitting the target for 15.77 seconds every minute. This is one of our most important skills and provides a tremendous amount of utility for the party and yourself. Our goal is to utilize our own Trick Attack and fit as many high potency abilities as we can before it ends. 
 
 At a glance, we want to fit Hyosho Ranyru, x2 Raitons, Ten-Chi-Jin, Dream Within a Dream, x2 Fleeting/Forked Raijus, Meisui, and as many Bhavacakras as we can weave. 
@@ -87,6 +89,8 @@ Throughout our rotation we will be building resources and spending Ninki as need
 | Bunshin         | Use on cooldown, don't hold for Trick Attack unless it is towards the end of the fight, and holding it won't cost you a usage. |
 | Bhavacakra      | When there's only one or two targets. Only use on three targets if Bhavacakra is buffed by Meisui.                             |
 | Hellfrog Medium | When there's three or more targets, even if Trick Attack is active.                                                            |
+
+&nbsp;
 
 ### Ninjutsus
 
