@@ -11,15 +11,9 @@ changelog:
   - date: 2022-03-20T03:55:08.156Z
     message: Updated for Endwalker
 ---
-# **6.08 Standard Lv.90 NIN Guide**
-
-By **Jackal Ka’tui / Ka’ton** for The Balance
-
 If you have any questions, feel free to reach out to me on discord, Jackal#0002 or ask in the Balance #nin_questions channel ♥ 
 
 ## Overview
-
-- - -
 
 Ninja is a fast-paced yet flexible job with a high focus on a powerful burst every one and two minutes. It is unique from other jobs with its utilization of Ninjutsus, a combo-like system allowing a Ninja to form a multitude of ranged attacks. It also has one of the most frequent raid buffs (Trick Attack) where we emphasize landing all our biggest attacks within 15.77s. 
 
@@ -28,7 +22,7 @@ If you want a melee job with the most flexibility for disengagements and has a f
 **Resources**
 
 * [Video Demonstration](https://youtu.be/CQeABjRFbFs) of a 6-minute fight. 
-* [Rotation Planner](https://docs.google.com/spreadsheets/d/1v0fbsALOoQFNTBkk--vzAYrcBSPd7em85TmVMi9UCSI/edit?usp=sharing)\*\* \*\*for an visualization of a 6-minute rotation or the ability to spreadsheet any rotation.
+* [Rotation Planner](https://docs.google.com/spreadsheets/d/1v0fbsALOoQFNTBkk--vzAYrcBSPd7em85TmVMi9UCSI/edit?usp=sharing) for an visualization of a 6-minute rotation or the ability to spreadsheet any rotation.
 * [XIVAnalysis](https://xivanalysis.com/) is good for checking general mistakes and an improved timeline of a fight. 
 * [Gear Planner](http://bit.ly/Gear-Planner) simulates predicted DPS based off gear, great for creating a set. 
 
@@ -72,7 +66,7 @@ Kassatsu is an oGCD that grants an additional Ninjutsu and converts certain Ninj
 
 [Opener](https://cdn.discordapp.com/attachments/277968398103609344/929518167036928070/nin2.png)
 
-This is the best general play opener for NIN. Unlike Shadowbringers, we will be using Trick Attack slightly earlier to align with other buffs and jobs. Some important notes are preparing Suiton at -6s and then casting at -1s to ensure you pull on time. This will not early pull the boss, as the damage takes 1s to register. Doing this means our Mudra cooldown will be sooner, and that we will be able to fit x2 Raitons within all Trick windows post opener. 
+This is the best general play opener for NIN. Unlike Shadowbringers, we will be using Trick Attack slightly earlier to align with other buffs and jobs. Some important notes are preparing Suiton at -6s and then casting at -1s to ensure you pull on time. This will not early pull the boss, as the damage takes one second to register. Doing this means our Mudra cooldown will be sooner, and that we will be able to fit x2 Raitons within all Trick windows post opener. 
 
 Next, we will be **late weaving** Trick Attack. This is **ONLY** for the opener and is done for alignment purposes. You should late weave as much as possible without clipping your next GCD. This will depend on your ping. After the opener, we should strictly keep Trick Attack off cooldown and prevent it from drifting as much as possible. 
 
