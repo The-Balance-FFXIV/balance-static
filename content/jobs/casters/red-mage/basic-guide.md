@@ -6,7 +6,7 @@ authors:
   - argen
   - meru
   - Balance-RDM-Staff
-patch: "6.0"
+patch: "6.08"
 lastmod: 2022-01-03T20:49:22.531Z
 changelog:
   - date: 2021-10-26T01:24:41.469Z
