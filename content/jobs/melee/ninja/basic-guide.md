@@ -249,7 +249,7 @@ There may be situations where we may have to hold Trick Attack, along with our c
 
 However, there are plenty of cases where we can’t or should not use Trick off cooldown. Such as a downtime phase that would cut our burst off prematurely, or if holding otherwise wouldn’t result in us losing a Trick Attack and its cooldowns later in the fight. 
 
-If you choose to hold Trick Attack, it is important to know that doing so will overcap your Mudra stacks if an additional Ninjutsu (aside from Suiton) is not used outside of Trick Attack. Even if using a Raiton outside of Trick means 1 less Raiton + Raiju outside of Trick for the rest of the fight, overcapping is the potential loss of 1 Raiton + Raiju. 
+If you choose to hold Trick Attack, it is important to know that doing so will overcap your Mudra stacks if an additional Ninjutsu (aside from Suiton) is not used outside of Trick Attack. Even if using a Raiton outside of Trick means one less Raiton + Raiju outside of Trick for the rest of the fight, overcapping is the potential loss of one Raiton + Raiju. 
 
 ## Improvement
 
@@ -267,7 +267,7 @@ A common mistake amongst new Ninjas is severely drifting oGCDs such as Trick Att
 
 ### What if my cooldowns become misaligned from Trick?
 
-This can often happen when a boss has downtime, and our 1 minute cooldowns become desynced from our 2 minute cooldowns. This can cause Ten-Chi-Jin, for example, to come off cooldown outside of a Trick Window. 
+This can often happen when a boss has downtime, and our one minute cooldowns become desynced from our two minute cooldowns. This can cause Ten-Chi-Jin, for example, to come off cooldown outside of a Trick Window. 
 
 Unless you know your killtime, it is better to use a misaligned ability on cooldown, even if that forces the ability permanently out of Trick. The loss of losing a cooldown (especially one like Ten-Chi-Jin) far outweighs the potential gain of realigning it back with Trick Attack. 
 
@@ -277,8 +277,8 @@ Like most jobs, Ninja’s damage primarily comes from its cooldowns and its reso
 
 1. Never overcap on Ninki, our resource gauge. Always use Bhavacakra to burn Ninki before hitting this point, even if it’s before Trick Attack.
 2. Overcapping Huton loses time on your Huton timer, which will force the player to potentially use Armor Crush more than they need to. Since Armor Crush does less than Aeolian Edge, overcapping is potential damage loss.
-3. Don’t overcap on Mudra stacks. Stacking to 2 Mudra stacks is potential Raiton loss, which is a damage loss.
-4. Don’t overcap on Raiju Ready stacks, as our maximum is 3.
+3. Don’t overcap on Mudra stacks. Stacking to two mudra stacks is potential Raiton loss, which is a damage loss.
+4. Don’t overcap on Raiju Ready stacks, as our maximum is three.
 
 ### Boss Disengagement
 
@@ -286,14 +286,14 @@ As one of the most flexible melee in terms of disconnecting from the boss, Ninja
 
 1. If Trick is to be off cooldown in 20s, use Suiton to disengage. 
 2. If the disengage is within 45s after using Bunshin, save Phantom Kamaitachi to keep your GCD rolling. 
-3. Use Raiton, even if that means x1 Raiton less in Trick. 
+3. Use Raiton, even if that means one Raiton less in Trick. 
 4. Throwing Dagger
 
 ### FAQ
 
 ### Why does our BiS not follow the stat priority?
 
-Because of stat tiering, and how it works together with our rotation, our rotation sim brought this exact combination of materia out to be a higher average dps value than fully going with our stat priority. If you want to know more about the math behind stats and stat tiering, go to the sub stats tier list up above by the spreadsheets. 
+Because of stat tiering, and how it works together with our rotation, our rotation sim brought this exact combination of materia out to be a higher average DPS value than fully going with our stat priority. If you want to know more about the math behind stats and stat tiering, go to the sub stats tier list up above by the spreadsheets. 
 
 ### How much ping do I need to double-weave?
 
@@ -319,7 +319,7 @@ First priority of Phantom Kamaitachi is to use it as a disengagement tool over R
 
 Both Forked Raiju and Fleeting Raiju have an identical potency of 560. Forked Raiju is a gapcloser, whereas Fleeting Raiju is a standard melee gcd which allows it freedom of movement. Realistically you should always be using Fleeting Raiju, however if you need to use a gapcloser then use Forked Raiju. Tldr; use whatever you want.
 
-### Does Kassatsu %damage affect Hyosho and Goka?
+### Does Kassatsu damage percent affect Hyosho and Goka?
 
 Yes it does.
 
