@@ -109,9 +109,9 @@ It is important for a Ninja to understand and confidently know each Ninjutsu com
 The only time we should **not use** Raiton within Trick Attack is when one of the following is met:
 
 1. We must disconnect from the boss, and do not have Phantom Kamaitachi nor have the option to use Suiton to prepare Trick Attack. Using Raton to disconnect and keep our GCD rolling is far better than using Throwing Dagger, even if that means one less Raiton + Raiju in Trick Attack. 
-2. We need to prevent mudra **overcap** by using a Ninjutsu. If Trick is used strictly off cooldown, we won’t ever have this issue, and 2 Raitons will naturally be within Trick with little to no overcap. However, a common occurrence is if we ever **hold** Trick Attack, normally for a mechanic. Any time we hold Trick Attack, we will overcap Mudra stacks if attempting to fit both Raitons within Trick. Therefore, 1 Raiton must be used outside of Trick Attack to prevent overcap. 
+2. We need to prevent mudra **overcap** by using a Ninjutsu. If Trick is used strictly off cooldown, we won’t ever have this issue, and two Raitons will naturally be within Trick with little to no overcap. However, a common occurrence is if we ever **hold** Trick Attack, normally for a mechanic. Any time we hold Trick Attack, we will overcap Mudra stacks if attempting to fit both Raitons within Trick. Therefore, one Raiton must be used outside of Trick Attack to prevent overcap. 
 
-**Overcapping** should be avoided when it comes to our mudra stacks. This happens when our mudra ever stacks to x2. Any time spent with overcapped mudra is time that pushes our mudra cooldown backwards into our rotation timeline. Doing so can make fitting x2 Raitons into Trick difficult or even cost us an entire use of a Raiton by the end of the fight. 
+**Overcapping** should be avoided when it comes to our mudra stacks. This happens when our mudra ever stacks to x2. Any time spent with overcapped mudra is time that pushes our mudra cooldown backwards into our rotation timeline. Doing so can make fitting two Raitons into Trick difficult or even cost us an entire use of a Raiton by the end of the fight. 
 
 Holding Trick and downtime are common causes for mudra overcap. Most of the time, it is best to use Raiton  to avoid overcap even if that means 1 less Raiton within Trick. 
 
@@ -137,7 +137,7 @@ We have two versions of our Trick Attack burst, the **odd** (1m, 3m, 5m…) wind
 
 This is a window that happens every odd minute or is better identified by its absence of 2-minute cooldowns. This window is easier to execute than the Even Window, for there are a lot less abilities we will cram within the window. 
 
-We should try to fit x1 **Hyosho**, x2 **Raitons**, x2 **Raijus**, **Dream Within A Dream**, and as many **Bhavacakras** as we have available. Any extra time we have, we will use our standard 1-2-3 combos.
+We should try to fit one **Hyosho**, two **Raitons**, two **Raijus**, **Dream Within A Dream**, and as many **Bhavacakras** as we have available. Any extra time we have, we will use our standard 1-2-3 combos.
 
 If Bunshin was used 45s within an odd Trick window, and Phantom Kamaitachi was NOT used to disengage from the boss, we should also have x1 **Phantom Kamaitachi** within an odd window. 
 
@@ -167,9 +167,9 @@ This final example is when we want to drift Phantom Kamaitachi into the odd wind
 
 This is a window that occurs every even minute or is a window that has all our 2-minute cooldowns available. The Even window is much like our Odd Trick, but will have Ten-Chi-Jin, Meisui and optionally Mug included. 
 
-We should try to fit x1 **Hyosho**, x2 **Raitons**, x2 **Raijus**, **Dream Within A Dream**, **Ten-Chi-Jin**, **Meisui**, and as many **Bhavacakras** as possible. If you are able to double weave (<40ms ping), you can also drift **Mug** into Trick for an additional Bhavacakra. 
+We should try to fit one **Hyosho**, two **Raitons**, two **Raijus**, **Dream Within A Dream**, **Ten-Chi-Jin**, **Meisui**, and as many **Bhavacakras** as possible. If you are able to double weave (<40ms ping), you can also drift **Mug** into Trick for an additional Bhavacakra. 
 
-Phantom Kamaitachi, however, should **NOT** be used within an Even Trick window, as it does less damage than either of our Raijus. There are some exceptions, such as if the extra Ninki would otherwise grant you an extra Bhavacakra, or if replacing x1 Raiton results in a gain of x2 GCDs (i,e. a late-woven Trick).
+Phantom Kamaitachi, however, should **NOT** be used within an Even Trick window, as it does less damage than either of our Raijus. There are some exceptions, such as if the extra Ninki would otherwise grant you an extra Bhavacakra, or if replacing a Raiton results in a gain of two GCDs (i,e. a late-woven Trick).
 
 **Examples:** 
 
@@ -189,13 +189,13 @@ This example is much like the first, however, Trick is used in the early weave s
 
 &nbsp;
 
-The next example does NOT use **Mug** within Trick, and only ever single weaves. I also assume we have entered Trick at 90-95 Ninki here, allowing us to get 3 Bhavacakras within the window:
+The next example does NOT use **Mug** within Trick, and only ever single weaves. I also assume we have entered Trick at 90-95 Ninki here, allowing us to get three Bhavacakras within the window:
 
 ![](/img/jobs/nin/even_3.png)
 
 &nbsp;
 
-This last example is if we enter Trick at 100 Ninki and are able to fit x4 Bhavacakras under Trick. Fitting x4 Bhavacakras under Trick is also possible at 90-95 Ninki, but requires swapping out a Raiju for an Aeolian Edge (only if available): 
+This last example is if we enter Trick at 100 Ninki and are able to fit four Bhavacakras under Trick. Fitting x4 Bhavacakras under Trick is also possible at 90-95 Ninki, but requires swapping out a Raiju for an Aeolian Edge (only if available): 
 
 ![](/img/jobs/nin/even_4.png)
 
