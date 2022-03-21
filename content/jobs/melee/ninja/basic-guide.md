@@ -205,23 +205,23 @@ This last example is if we enter Trick at 100 Ninki and are able to fit four Bha
 
 ### Downtime
 
-Handling downtime is rather simple on Ninja. Our filler rotation being flexible means that there is very little for us to do in terms of preparing for a segment where the boss is untargetable. Unless the downtime happens right before or during Trick, Ninja does well in handling downtime because our cooldowns will continue to tick down. This is why we do so well in fights with downtime; examples include E6s, E11s and E12sP2. 
+Handling downtime is rather simple on Ninja. Our filler rotation being flexible means that there is very little for us to do in terms of preparing for a segment where the boss is untargetable. Unless the downtime happens right before or during Trick, Ninja does well in handling downtime because our cooldowns will continue to tick down. This is why we do so well in fights with downtime; examples include E6S, E11S and E12S Phase Two. 
 
 **Notes:**
 
 * If we are to overcap mudra during downtime, use a Ninjutsu before the boss goes untargetable to avoid overcapping. 
-* Since preparing a Ninjutsu takes time (1-2 seconds), we can prepare a Ninjutsu during downtime and promptly use it when the boss is targetable again. Such as, if Trick is to be ready within 20s, we can Suiton or otherwise possibly use Raiton. By doing this, we may gain a GCD in the post-downtime phase. 
+* Since preparing a Ninjutsu takes time (One to two seconds), we can prepare a Ninjutsu during downtime and promptly use it when the boss is targetable again. Such as, if Trick is to be ready within 20s, we can Suiton or otherwise possibly use Raiton. By doing this, we may gain a GCD in the post-downtime phase. 
 
-Some fights (P2s notably) may have downtime that happens mid-Trick. Your options are to use Trick before or after the downtime segment. The decision comes down to two factors:
+Some fights (P2S notably) may have downtime that happens mid-Trick. Your options are to use Trick before or after the downtime segment. The decision comes down to two factors:
 
 1. Will holding lose you a usage by the end of the fight?
 2. Will you remain aligned with the party for the rest of the fight if you held or did not hold?
 
-Unfortunately the decision may not always be clear. Trick remaining aligned is crucial, but losing an entire usage of your cooldowns is also a huge loss. Ideally you remain aligned and don’t lose  a usage of cooldowns OR you remain aligned and have used Trick pre-downtime to gain a usage by the end. 
+Unfortunately the decision may not always be clear. Trick remaining aligned is crucial, but losing an entire usage of your cooldowns is also a huge loss. Ideally you remain aligned and don’t lose a usage of cooldowns, or you remain aligned and have used Trick pre-downtime to gain a usage by the end. 
 
 ### Reopeners
 
-How a reopener may look is fight and kill time dependent. but for the most part we can expect to use Trick on the reopener within 2-3 GCDs. Below are some examples of generic reopeners for reference. Pot may be weaved alone in any open weave slot. 
+How a reopener may look is fight and kill time dependent. but for the most part we can expect to use Trick on the reopener within two to three GCDs. Below are some examples of generic reopeners for reference. Pot may be weaved alone in any open weave slot. 
 
 #### 100 Ninki + Bunshin + 2nd GCD
 
