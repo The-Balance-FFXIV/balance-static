@@ -88,7 +88,7 @@ While normally we will be using Aeolian Edge as our standard combo finisher, we 
 
 ### Ninki Maintenance
 
-Throughout our rotation we will be building resources and spending Ninki as needed. Optimally, it is best if we pool our Ninki as high as possible **without** overcapping for our Trick Attack window, then dump as much Bhavacakras as weave space provides. Generally this will look to be between 1 - 4 Bhavacakras per Trick window.
+Throughout our rotation we will be building resources and spending Ninki as needed. Optimally, it is best if we pool our Ninki as high as possible **without** overcapping for our Trick Attack window, then dump as much Bhavacakras as weave space provides. Generally this will look to be between one to four Bhavacakras per Trick window.
 
 | Ability         | Usage                                                                                                                          |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------ |
