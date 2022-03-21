@@ -261,23 +261,23 @@ As one of the most flexible melee in terms of disconnecting from the boss, Ninja
 
 ### FAQ
 
-### Why does our BiS not follow the stat priority?
+**Why does our BiS not follow the stat priority?**
 
 Because of stat tiering, and how it works together with our rotation, our rotation sim brought this exact combination of materia out to be a higher average DPS value than fully going with our stat priority. If you want to know more about the math behind stats and stat tiering, go to the sub stats tier list up above by the spreadsheets. 
 
-### How much ping do I need to double-weave?
+**How much ping do I need to double-weave?**
 
 The threshold is around ~40ms.
 
-### Should I always weave Trick late?
+**Should I always weave Trick late?**
 
 Only purposely weave Trick late in the opener. Anywhere else, use off cooldown. 
 
-### Should I save Bunshin for Trick, or use it on cooldown?
+**Should I save Bunshin for Trick, or use it on cooldown?**
 
 Use on cooldown.
 
-### Should I use Phantom Kamaitachi immediately or save it for Trick Attack?
+**Should I use Phantom Kamaitachi immediately or save it for Trick Attack?**
 
 First priority of Phantom Kamaitachi is to use it as a disengagement tool over Raiton or Throwing Dagger. If there is none, you generally can save it for the next Trick window. Some important things to keep in mind:
 
@@ -285,13 +285,13 @@ First priority of Phantom Kamaitachi is to use it as a disengagement tool over R
 
 **2**. Even/2m Trick Windows (with TCJ): Generally, you do not want Phantom in 2m windows.
 
-### Should I be using Forked Raiju or Fleeting Raiju?
+**Should I be using Forked Raiju or Fleeting Raiju?**
 
 Both Forked Raiju and Fleeting Raiju have an identical potency of 560. Forked Raiju is a gapcloser, whereas Fleeting Raiju is a standard melee GCD which allows it freedom of movement. Realistically you should always be using Fleeting Raiju, however if you need to use a gapcloser then use Forked Raiju. 
 
 **TL;DR**: use whatever you want.
 
-### Does Kassatsu damage percent affect Hyosho and Goka?
+**Does Kassatsu damage percent affect Hyosho and Goka?**
 
 Yes it does.
 
