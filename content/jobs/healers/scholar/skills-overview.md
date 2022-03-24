@@ -107,7 +107,7 @@ changelog:
 
 ## oGCDs
 
-*** Free (non-Fairy) ***
+### Free (non-Fairy)
 
 ![Recitation](https://xivapi.com/i/002000/002822_hr1.png) 
 ### **Recitation**
@@ -155,7 +155,7 @@ changelog:
   * Your cohealer has no other oGCD tools available.
   * It is better for you to cast a GCD heal than it is for your cohealer.
 
-***Free (Fairy)***
+### Free (Fairy)
 
 **Note:**
 
