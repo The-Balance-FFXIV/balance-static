@@ -63,7 +63,7 @@ The general priority for when to use Phlegma charges is:
 1. AoE, when needed. Hitting even just one additional target puts it at +50% potency.
 2. Two-minute burst windows. On a full-uptime fight, you will be able to use two charges in the opener, and then again at:
    Two, six, eight, and twelve minute marks.
-3. With a Ninja, dump remaining charges on 1-minute burst windows.
+3. With a Ninja, dump remaining charges on one-minute burst windows.
 4. Movement. Phlegma is an instant GCD, so it allows free movement for its entire recast time.
 5. Dump any remaining charges to avoid overcapping, or before a boss goes untargetable for a long enough period of time to make you overcap.
 
@@ -110,9 +110,9 @@ In order to use this, you'll need to use Eukrasian Diagnosis, which unfortunatel
 
 The heals in this section have a few things in common:
 
-- They all require one Addersgall charge (indicated on the top of the job gauge)
-- They restore 7% of your maximum MP when used
-- They are oGCD
+- They all require one Addersgall charge (indicated on the top of the job gauge).
+- They restore 7% of your maximum MP when used.
+- They are oGCD.
 
 You get an Addersgall charge every 20 seconds, and can store up to three. Since these give mana, you can and should use them liberally even if would be overheal.
 
@@ -251,7 +251,7 @@ Panhaima is the same, but AoE. Its potency is lower - 200p shields, and 100p hea
 
 ### Details
 
-Haima (and Panhamia, hereafter just Haima) has several intricacies that are worth knowing.
+Haima (and Panhaima, hereafter just Haima) has several intricacies that are worth knowing.
 
 Haima has two separate buffs that it applies. One of them has a stack number, the other does not. The one without the stack number is the shield itself. The one with the number indicates how many more times the shield will automatically re-apply. The initial application does not consume a stack, so 6 shields total can be applied. This buff is what applies the healing effect when it expires.
 
@@ -292,7 +292,9 @@ In terms of co-healer planning, Sage should be the absolute last priority for GC
 
 ![Diagnosis](https://xivapi.com/i/003000/003652_hr1.png)
 
-Single target 450p heal. Rough equivalent of Physick/Cure 1/Benefic 1 - that is, something to be avoided except during downtime or when you have insufficient mana for anything larger.
+Single target 450p heal. Rough equivalent of Physick/Cure I/Benefic I - that is, something to be avoided except during downtime or when you have insufficient mana for anything larger.
+
+
 
 ## Eukrasian Diagnosis
 
@@ -302,13 +304,18 @@ Single target 300 potency heal plus 540 potency shield (840p total). Similar to 
 
 Eukrasian Diagnosis *should* be used during downtime, as it gives Toxikon charges when absorbed.
 
+
+
 ## Prognosis
 
 ![Prognosis](https://xivapi.com/i/003000/003654_hr1.png)
 
 AoE 300 potency heal. Extremely low numbers with no benefit make this a very rare ability in practice, especially given that Eukrasian Prognosis only costs 100 more mana.
 
+
+
 ## Eukrasian Prognosis
+
 
 ![Eukrasian Prognosis](https://xivapi.com/i/003000/003660_hr1.png)
 
