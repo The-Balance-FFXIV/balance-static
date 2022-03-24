@@ -4,14 +4,16 @@ authors:
   - Balance-SGE-Staff
   - wynn
 patch: "6.08"
-lastmod: 2022-03-14T07:38:35.096Z
+lastmod: 2022-03-24T05:42:21.461Z
 changelog:
   - date: 2022-01-24T08:39:05.371Z
     message: Added page
   - date: 2022-03-17T02:23:47.239Z
     message: Updated
+  - date: 2022-03-24T05:42:09.732Z
+    message: Fixed Heading Levels
 ---
-## Before you Start: Eukrasia
+# Before you Start: Eukrasia
 
 ![Eukrasia](https://xivapi.com/i/003000/003658_hr1.png)
 
@@ -26,30 +28,30 @@ like so:
 /statusoff "Eukrasia"
 ```
 
-## Offensive Skills
+# Offensive Skills
 
 While Sage does not offer a raid buff, it makes up for it by having the highest personal DPS of all the healers. The general formula is similar, but Sage is the only healer to have a burst GCD (Phlegma). In addition, every offensive GCD provides free healing to your Kardion target. Let's take a look at how Sage's offensive skills mesh with each other:
 
 
-### Dosis
+## Dosis
 
 ![Dosis III](https://xivapi.com/i/003000/003680_hr1.png)
 
 This is your main filler offensive GCD. When you have nothing higher priority to cast, use this. At 330 potency, it is the most powerful of all the healer single target filler GCDs.
 
-### Eukrasian Dosis
+## Eukrasian Dosis
 
 ![Eukrasian Dosis III](https://xivapi.com/i/003000/003682_hr1.png)
 
 Eukrasian Dosis is your damage over time skill. Like the other healers, it lasts 30 seconds. DoT (and HoT) effects in FFXIV operate on "server ticks", once every three seconds. On each of these ticks, DoTs and HoTs will apply their listed potency. Thus, the total potency of Eukrasian Dosis is 700 (10 ticks of 70 potency). Typically, it should be re-applied as closely as possibly to when it would expire. To keep 100% uptime, you need to factor in the one second needed to cast Eukrasia, but the debuff application itself is instant.
 
-### Dyskrasia
+## Dyskrasia
 
 ![Dyskrasia II](https://xivapi.com/i/003000/003683_hr1.png)
 
 Your spammable AoE cooldown. With 170 potency per target, compared to 330 on Dosis, It becomes a gain on just two targets. In addition, it is an instant cast, so it can be used while moving. Ideally, it would never be used on a single target, but it *can* function as a last resort movement skill.
 
-### Phlegma
+## Phlegma
 
 ![Phlegma III](https://xivapi.com/i/003000/003681_hr1.png)
 
@@ -71,7 +73,7 @@ For dungeons, the priority would be to use them on packs, once the tank has fini
 
 
 
-### Pneuma
+## Pneuma
 
 ![Pneuma](https://xivapi.com/i/003000/003686_hr1.png)
 
@@ -83,14 +85,14 @@ Due to it being AoE, it is also useful for dungeons, as well as situations such 
 
 
 
-#### "But My Pneuma Didn't Heal!"
+### "But My Pneuma Didn't Heal!"
 
 Due to game engine limitations, Pneuma works in a very odd way. The "target" of the ability is the enemies that it damages. The heal is actually implemented as a heal over time that applies instantly. However, sometimes the game client won't correctly show the change in HP, hence why sometimes people think it didn't work. In addition, the heal applies
 instantly as soon as the ability snapshot (0.5 seconds from the end of the cast, i.e. same as slidecasting), so it is easy to waste the heal by healing too early.
 
 
 
-### Toxikon
+## Toxikon
 
 ![Toxikon II](https://xivapi.com/i/003000/003684_hr1.png)
 
@@ -104,7 +106,7 @@ In order to use this, you'll need to use Eukrasian Diagnosis, which unfortunatel
 
 
 
-## Addersgall Heals
+# Addersgall Heals
 
 The heals in this section have a few things in common:
 
@@ -116,7 +118,7 @@ You get an Addersgall charge every 20 seconds, and can store up to three. Since 
 
 
 
-### Kerachole
+## Kerachole
 
 ![Kerachole](https://xivapi.com/i/003000/003666_hr1.png)
 
@@ -131,14 +133,14 @@ have a free tick on application.
 
 
 
-#### Kerachole Usage
+### Kerachole Usage
 
 Since Kerachole has both regen and mitigation, it is ideal to use it shortly before damage. This will allow you to make use of the mitigation, while still missing no more than a single tick of the regen. Being a 15 second mitigation on a 30 second cooldown, Kerachole has very good uptime. If you need to catch two instances of damage with less than 15 seconds between them, you can do so with a single Kerachole. If the two instances are
 between 15 and 30 seconds apart, you can catch both by casting the first one early so that it will come off cooldown before the second.
 
 
 
-### Ixochole
+## Ixochole
 
 ![Ixochole](https://xivapi.com/i/003000/003667_hr1.png)
 
@@ -155,7 +157,7 @@ As Ixochole offers less healing than the regen on Kerachole, and does not offer 
 
 
 
-### Taurochole
+## Taurochole
 
 ![Taurochole](https://xivapi.com/i/003000/003671_hr1.png)
 
@@ -169,7 +171,7 @@ The healing is upfront rather than over time, thus it should ideally be used whe
 
 
 
-### Druochole
+## Druochole
 
 ![Druochole](https://xivapi.com/i/003000/003664_hr1.png)
 
@@ -182,13 +184,13 @@ It is less potency that Taurochole, but has the advantage of no cooldown.
 
 
 
-## Other oGCD heals
+# Other oGCD heals
 
 Next up, your other oGCD heals. These do not cost anything other than the cooldown itself, so they should be your second priority for healing, behind Addersgall heals.
 
 
 
-### Kardia
+## Kardia
 
 ![Kardia](https://xivapi.com/i/003000/003653_hr1.png)
 
@@ -212,7 +214,7 @@ the duration of the raid (persisting through wipes). Kardion causes the target t
 
 
 
-### Physis
+## Physis
 
 ![Physis II](https://xivapi.com/i/003000/003670_hr1.png)
 
@@ -225,7 +227,7 @@ AoE regen and healing boost.
 
 
 
-### Haima and Panhaima
+## Haima and Panhaima
 
 ![Haima](https://xivapi.com/i/003000/003673_hr1.png)
 ![Panhaima](https://xivapi.com/i/003000/003679_hr1.png)
@@ -247,7 +249,7 @@ Panhaima is the same, but AoE. Its potency is lower - 200p shields, and 100p hea
 
 
 
-#### Details
+### Details
 
 Haima (and Panhamia, hereafter just Haima) has several intricacies that are worth knowing.
 
@@ -259,7 +261,7 @@ Both Haima and Panhaima snapshot their potency on the initial cast, so it can be
 
 
 
-### Holos
+## Holos
 
 ![Holos](https://xivapi.com/i/003000/003678_hr1.png)
 
@@ -275,7 +277,7 @@ Like Taurochole, it is ideal if you can make full use out of both the heal and m
 
 
 
-## GCD Heals
+# GCD Heals
 
 Excluding Pnuema as discussed in the Offensive GCD section, GCD heals should be your last resort. They cost damage, and Sage's GCD heals are not particularly effective compared to those of other healers.
 
@@ -286,13 +288,13 @@ In terms of co-healer planning, Sage should be the absolute last priority for GC
 
 
 
-### Diagnosis
+## Diagnosis
 
 ![Diagnosis](https://xivapi.com/i/003000/003652_hr1.png)
 
 Single target 450p heal. Rough equivalent of Physick/Cure 1/Benefic 1 - that is, something to be avoided except during downtime or when you have insufficient mana for anything larger.
 
-### Eukrasian Diagnosis
+## Eukrasian Diagnosis
 
 ![Eukrasian Diagnosis](https://xivapi.com/i/003000/003659_hr1.png)
 
@@ -300,13 +302,13 @@ Single target 300 potency heal plus 540 potency shield (840p total). Similar to 
 
 Eukrasian Diagnosis *should* be used during downtime, as it gives Toxikon charges when absorbed.
 
-### Prognosis
+## Prognosis
 
 ![Prognosis](https://xivapi.com/i/003000/003654_hr1.png)
 
 AoE 300 potency heal. Extremely low numbers with no benefit make this a very rare ability in practice, especially given that Eukrasian Prognosis only costs 100 more mana.
 
-### Eukrasian Prognosis
+## Eukrasian Prognosis
 
 ![Eukrasian Prognosis](https://xivapi.com/i/003000/003660_hr1.png)
 
@@ -314,9 +316,9 @@ AoE 100p heal plus 320p shield. As with the base version of this spell, it simpl
 
 
 
-## Utility
+# Utility
 
-### Icarus
+## Icarus
 
 ![Icarus](https://xivapi.com/i/003000/003663_hr1.png)
 
@@ -328,7 +330,7 @@ AoE 100p heal plus 320p shield. As with the base version of this spell, it simpl
 
 You are the only healer who has a gapcloser, so make use of it.
 
-### Soteria
+## Soteria
 
 ![Soteria](https://xivapi.com/i/003000/003662_hr1.png)
 
@@ -338,7 +340,7 @@ You are the only healer who has a gapcloser, so make use of it.
 
 Useful for when you need a little extra free single target healing, or general tank upkeep.
 
-### Zoe
+## Zoe
 
 ![Zoe](https://xivapi.com/i/003000/003668_hr1.png)
 
@@ -348,7 +350,7 @@ Useful for when you need a little extra free single target healing, or general t
 
 This would be unimpressive if not for the fact that Pneuma is considered a GCD heal. This effectively gives you a damage-neutral 900p AoE heal.
 
-### Pepsis
+## Pepsis
 
 ![Pepsis](https://xivapi.com/i/003000/003669_hr1.png)
 
@@ -360,7 +362,7 @@ This would be unimpressive if not for the fact that Pneuma is considered a GCD h
 
 Like Scholar's Emergency Tactics, but in reverse (you use the heal first, then use Pepsis). Due to the way snapshotting works, it is possible to have an instance of damage consume the shield, *and* get healing from Pepsis. To do this, you need to use Pepsis between the damage snapshotting and resolving.
 
-### Rhizomata
+## Rhizomata
 
 ![Rhizomata](https://xivapi.com/i/003000/003677_hr1.png)
 
@@ -369,7 +371,7 @@ Like Scholar's Emergency Tactics, but in reverse (you use the heal first, then u
 - Since Addersgall heals give mana, this can help with MP management even if the healing is not needed.
 - 90 second cooldown
 
-### Krasis
+## Krasis
 
 ![Krasis](https://xivapi.com/i/003000/003685_hr1.png)
 
@@ -382,7 +384,7 @@ Like Scholar's Emergency Tactics, but in reverse (you use the heal first, then u
 
 ![Egeiro](https://xivapi.com/i/003000/003655_hr1.png)
 
-### Egeiro
+## Egeiro
 
 "Raise" equivalent.
 
@@ -391,14 +393,14 @@ Like Scholar's Emergency Tactics, but in reverse (you use the heal first, then u
 - 2400mp cost
 - Eight second cast time - use Swiftcast with it
 
-### Lucid Dreaming
+## Lucid Dreaming
 
 ![Lucid Dreaming](https://xivapi.com/i/000000/000865_hr1.png)
 
 - Recovers MP over time (3850 MP over 21s)
 - Use when below 8000 MP
 
-### Swiftcast
+## Swiftcast
 
 ![Swiftcast](https://xivapi.com/i/000000/000866_hr1.png)
 
@@ -407,14 +409,14 @@ Like Scholar's Emergency Tactics, but in reverse (you use the heal first, then u
 - If progging or in an inconsistent party, save Swiftcast for Egeiro (Raise)
 - Otherwise, use it in the opener and for movement.
 
-### Surecast
+## Surecast
 
 ![Surecast](https://xivapi.com/i/000000/000869_hr1.png)
 
 - Prevents most knockback and movement effects and prevents casts from being canceled.
 - Use to avoid knockbacks.
 
-### Rescue
+## Rescue
 
 ![Rescue](https://xivapi.com/i/000000/000890_hr1.png)
 
