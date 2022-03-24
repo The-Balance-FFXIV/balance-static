@@ -26,28 +26,28 @@ changelog:
 
 ## GCDs
 
-![Broil4](https://xivapi.com/i/002000/002875_hr1.png)  \
-**Broil IV**
+![Broil4](https://xivapi.com/i/002000/002875_hr1.png)  
+### **Broil IV**
 
 * Single target damage (295 potency), 1.5s cast time
 * Can weave one oGCD after it without clipping
 * Cast this when you don’t need to do anything else.
 
-![ArtOfWar2](https://xivapi.com/i/002000/002876_hr1.png)  \
-**Art Of War II**
+![ArtOfWar2](https://xivapi.com/i/002000/002876_hr1.png)  
+### **Art Of War II**
 
 * AoE damage in a circle centered around you (180 potency), instant cast
 * Can weave two oGCDs after this (or any other instant cast)
 * At 2-3 targets, apply your DoT to all enemies before using this. At 4+ targets, skip your DoT application. Do not use on single target.
 
-![Ruin2](https://xivapi.com/i/000000/000502_hr1.png)  \
-**Ruin II**
+![Ruin2](https://xivapi.com/i/000000/000502_hr1.png)  
+### **Ruin II**
 
 * Single target damage (220 potency), instant cast
 * Use only if unable to cast Broil IV due to movement – if possible, slidecast or use Swiftcast + Broil IV instead.
 
-![Biolysis](https://xivapi.com/i/002000/002820_hr1.png)  \
-**Biolysis**
+![Biolysis](https://xivapi.com/i/002000/002820_hr1.png)  
+### **Biolysis**
 
 * Single target DoT (70 potency, 30s duration), instant cast
 * Total potency: 700
@@ -59,8 +59,8 @@ changelog:
 
 ## oGCDs
 
-![EnergyDrain](https://xivapi.com/i/000000/000514_hr1.png)  \
-**Energy Drain**
+![EnergyDrain](https://xivapi.com/i/000000/000514_hr1.png)  
+###  **Energy Drain**
 
 * Single target damage
 * Costs 1 Aetherflow stack and increases Faerie Gauge by 10.
@@ -71,14 +71,14 @@ changelog:
 
 ## GCDs
 
-![Physick](https://xivapi.com/i/000000/000518_hr1.png)\
-**Physick**
+![Physick](https://xivapi.com/i/000000/000518_hr1.png)
+###  **Physick**
 
 * Single target heal (450 potency), 1.5s cast time
 * Do not use unless out of MP and oGCDs are unavailable, or in niche scenarios where you need a single target GCD heal and Adloquium would apply healing too late.
 
-![Adloquium](https://xivapi.com/i/002000/002801_hr1.png)  \
-**Adloquium**
+![Adloquium](https://xivapi.com/i/002000/002801_hr1.png) 
+###  **Adloquium**
 
 * Single target heal (300 potency) + shield (180% of heal strength), 2s cast time.
 * Applies a shield buff called Galvanize. If critical heal, also applies a second shield buff (Catalyze) of the same strength.
@@ -95,8 +95,8 @@ changelog:
   * Deployment Tactics can be used immediately after casting Adloquium; however this is not recommended during combat because you will clip your GCD.
 * Use if necessary to survive tankbusters or when large party shields are needed, such as for life-threatening raidwides or when cheesing mechanics. Other use is discouraged while other resources are available.
 
-![Succor](https://xivapi.com/i/002000/002802_hr1.png)  \
-**Succor**
+![Succor](https://xivapi.com/i/002000/002802_hr1.png) 
+###  **Succor**
 
 * AoE heal (200 potency) + shield (160% of heal strength), 2s cast time.
 * Applies the same Galvanize buff as Adloquium (and does not stack with it). Does not apply Catalyze. See Adloquium for interactions with Sage’s GCD shields.
@@ -107,18 +107,18 @@ changelog:
 
 ## oGCDs
 
-### Free (non-Fairy)
+*** Free (non-Fairy) ***
 
-![Recitation](https://xivapi.com/i/002000/002822_hr1.png)  \
-**Recitation**
+![Recitation](https://xivapi.com/i/002000/002822_hr1.png) 
+### **Recitation**
 
 * Removes the cost (MP or Aetherflow stack) of your next Adloquium, Succor, Indomitability, or Excogitation and guarantees it will do critical healing.
 * Use on Indomitability for AoE healing whenever possible. Otherwise, consider using it on Excogitation for tank healing.
 * In some circumstances, such as early progression or recovery from mistakes, using Recitation on Adloquium + Deployment Tactics can help guarantee your party’s survival by providing a large shield. 
 * Do not use prepull to guarantee a critical Adloquium unless Recitation won’t be needed within the first ~75s of the fight. To avoid using Recitation, if a critical Adloquium is necessary, fish for the crit instead.
 
-![DeploymentTactics](https://xivapi.com/i/002000/002808_hr1.png)  \
-**Deployment Tactics**
+![DeploymentTactics](https://xivapi.com/i/002000/002808_hr1.png) 
+### **Deployment Tactics**
 
 * Copies your Galvanize shield on your target onto everyone near them.
 * The copied shield has the same strength and duration as your target’s shield
@@ -127,8 +127,8 @@ changelog:
 * Consider using this over Succor during uptime as it provides slightly more healing potency. Do not do this if the party shields may not be broken, or the shield may be damaged before you can Deploy.
 * Situationally: use Adloquium + Deployment Tactics during uptime to cheese mechanics or survive heavy raidwides when other mitigation is unavailable.
 
-![Protraction](https://xivapi.com/i/002000/002877_hr1.png)  \
-**Protraction**
+![Protraction](https://xivapi.com/i/002000/002877_hr1.png) 
+### **Protraction**
 
 * Single target max HP increase (10%) + healing received buff (10%).
 * Heals the target for the amount of max HP increased.
@@ -136,15 +136,15 @@ changelog:
 * Use this to buff prepull Adloquium and Excogitation casts, or during pulls for additional healing. 
 * Regens, including Aetherpact, snapshot the healing buff if initiated while the buff is active.
 
-![Expedient](https://xivapi.com/i/002000/002878_hr1.png)  \
-**Expedient**
+![Expedient](https://xivapi.com/i/002000/002878_hr1.png) 
+### **Expedient**
 
 * 20s AoE mitigation (10%) and move speed buff (equivalent to Sprint)
 * Move speed buff persists during combat (unlike Peloton)
 * Use for long-duration mitigation and/or use the increased move speed for mechanics
 
-![EmergencyTactics](https://xivapi.com/i/002000/002809_hr1.png)  \
-**Emergency Tactics**
+![EmergencyTactics](https://xivapi.com/i/002000/002809_hr1.png) 
+### **Emergency Tactics**
 
 * Converts the shield from your next Adloquium or Succor into raw healing.
 * Use during downtime to top up the party if MP is not a concern.
@@ -155,7 +155,7 @@ changelog:
   * Your cohealer has no other oGCD tools available.
   * It is better for you to cast a GCD heal than it is for your cohealer.
 
-### Free (Fairy)
+***Free (Fairy)***
 
 **Note:**
 
@@ -163,15 +163,15 @@ changelog:
 * Fairy abilities cannot be used while Dissipation is active.
 * Fairy heals originate from the fairy’s location; use the Place pet action to position the fairy at an appropriate location (usually the middle of the arena)
 
-![Embrace](https://xivapi.com/i/002000/002826_hr1.png)  \
-**Embrace**
+![Embrace](https://xivapi.com/i/002000/002826_hr1.png)
+### **Embrace**
 
 * Eos/Selene’s passive single target heal (180 potency).
 * The pet heals once every 3s
 * See other guides for more information on pet healing priority.
 
-![AetherpactFeyUnion](https://xivapi.com/i/002000/002816_hr1.png)  \
-**Aetherpact**
+![AetherpactFeyUnion](https://xivapi.com/i/002000/002816_hr1.png) 
+### **Aetherpact**
 
 * Orders your fairy to execute Fey Union: Single target regen (300 potency/tick).
 * Costs 10 Faerie Gauge per tick.
@@ -182,22 +182,22 @@ changelog:
   * Aetherpact can be canceled by either using the skill a second time or by using any other fairy ability.
   * If the target moves out of range, the Faerie Gauge will not drain, but the fairy won’t heal anybody.
 
-![FeyBlessing](https://xivapi.com/i/002000/002854_hr1.png)  \
-**Fey Blessing**
+![FeyBlessing](https://xivapi.com/i/002000/002854_hr1.png) 
+### **Fey Blessing**
 
 * AoE heal (320 potency).
 * Use for AoE healing. If AoE healing isn’t needed, use for additional tank healing.
 
-![WhisperingDawn](https://xivapi.com/i/002000/002852_hr1.png)  \
-**Whispering Dawn/Angel's Whisper**
+![WhisperingDawn](https://xivapi.com/i/002000/002852_hr1.png) 
+### **Whispering Dawn/Angel's Whisper**
 
 * AoE regen (80 potency, 21s duration).
 * Total potency: 560.
 * Has the same effect for both Eos/Selene and Seraph despite different buff icons.
 * Use for AoE healing. If AoE healing isn’t needed, use for additional tank healing.
 
-![FeyIllumination](https://xivapi.com/i/002000/002853_hr1.png)  \
-**Fey Illumination/Seraphic Illumination**
+![FeyIllumination](https://xivapi.com/i/002000/002853_hr1.png) 
+### **Fey Illumination/Seraphic Illumination**
 
 * AoE magic damage mitigation (5%) and healing spell buff (10%).
 * Increases outgoing GCD healing done by allies with the buff. Does not affect oGCDs or pets.
@@ -205,8 +205,8 @@ changelog:
 * Use to buff prepull or downtime shields, if needed.
 * Use during the pull to mitigate or to buff GCD heals if using them.
 
-![SeraphicVeil](https://xivapi.com/i/002000/002847_hr1.png)  \
-**Seraphic Veil**
+![SeraphicVeil](https://xivapi.com/i/002000/002847_hr1.png) 
+### **Seraphic Veil**
 
 * Seraph’s passive single target heal (180 potency) and shield (100% heal strength)
 * Total potency: 180 (heal) + 180 (shield) = 360
@@ -214,8 +214,8 @@ changelog:
 * The pet heals once every 3s.
 * See other guides for more information on pet healing priority.
 
-![SummonSeraph](https://xivapi.com/i/002000/002850_hr1.png)![Consolation](https://xivapi.com/i/002000/002851_hr1.png)  \
-**Summon Seraph/Consolation**
+![SummonSeraph](https://xivapi.com/i/002000/002850_hr1.png)![Consolation](https://xivapi.com/i/002000/002851_hr1.png) 
+### **Summon Seraph/Consolation**
 
 * Replaces your fairy with Seraph for 22s. The following abilities are changed:
 
@@ -237,30 +237,30 @@ changelog:
 
 All Aetherflow heals cost 1 Aetherflow stack and increase Faerie Gauge by 10.
 
-![Lustrate](https://xivapi.com/i/002000/002805_hr1.png)  \
-**Lustrate**
+![Lustrate](https://xivapi.com/i/002000/002805_hr1.png) 
+### **Lustrate**
 
 * Single target heal (600 potency).
 * Use only if Excogitation and Sacred Soil cannot be used.
 * During downtime, if Aetherflow will come off cooldown, use Lustrate to spend any remaining stacks and avoid delaying Aetherflow. If possible, prevent this situation by spending stacks outside of downtime.
 
-![SacredSoil](https://xivapi.com/i/002000/002804_hr1.png)  \
-**Sacred Soil**
+![SacredSoil](https://xivapi.com/i/002000/002804_hr1.png) 
+### **Sacred Soil**
 
 * Creates a bubble with 10% mitigation and a regen (100 potency, 15s).
 * Total potency: 100 (initial potency) + 500 (regen ticks) = 600.
 * Do not use if synced below Level 78 unless the mitigation is necessary for survival (ultimates and minimum ilvl content).
 * Use instead of Lustrate or Indomitability if the party will remain inside the bubble and there is enough time for the regen to heal – Sacred Soil provides as much healing as Lustrate and also provides mitigation.
 
-![Indomitability](https://xivapi.com/i/002000/002806_hr1.png)  \
-**Indomitability**
+![Indomitability](https://xivapi.com/i/002000/002806_hr1.png) 
+### **Indomitability**
 
 * AoE heal (400 potency)
 * Use with Recitation for burst AoE healing.
 * Otherwise, use for AoE healing only if Sacred Soil’s regeneration and mitigation cannot be used.
 
-![Excogitation](https://xivapi.com/i/002000/002813_hr1.png)  \
-**Excogitation**
+![Excogitation](https://xivapi.com/i/002000/002813_hr1.png) 
+### **Excogitation**
 
 * Delayed single target heal (800 potency)
 * The target is healed when their HP drops below 50% or when Excogitation’s buff timer expires. The target can still die if killed in one hit from above 50% HP.
@@ -271,27 +271,27 @@ All Aetherflow heals cost 1 Aetherflow stack and increase Faerie Gauge by 10.
 
 ## GCDs
 
-![SummonEos](https://xivapi.com/i/002000/002823_hr1.png)![SummonSelene](https://xivapi.com/i/002000/002824_hr1.png)  \
-**Summon Eos/Summon Selene**
+![SummonEos](https://xivapi.com/i/002000/002823_hr1.png)![SummonSelene](https://xivapi.com/i/002000/002824_hr1.png) 
+### **Summon Eos/Summon Selene**
 
 * Summons your fairy. Please don’t forget it.
 * Both fairies behave the same – the difference is cosmetic only.
 * The fairy must be resummoned if you die.
 
-![Resurrection](https://xivapi.com/i/000000/000511_hr1.png)  \
-**Resurrection**
+![Resurrection](https://xivapi.com/i/000000/000511_hr1.png) 
+### **Resurrection**
 
 * Revives a dead player (8s cast time).
 * Use with Swiftcast if available.
 
-![Repose](https://xivapi.com/i/000000/000891_hr1.png)  \
-**Repose**
+![Repose](https://xivapi.com/i/000000/000891_hr1.png) 
+### **Repose**
 
 * Puts an enemy to sleep.
 * Do not use: Most enemies are immune and sleeping enemies wake up when damaged.
 
-![Esuna](https://xivapi.com/i/000000/000884_hr1.png)  \
-**Esuna**
+![Esuna](https://xivapi.com/i/000000/000884_hr1.png) 
+### **Esuna**
 
 * Removes cleansable debuffs (debuffs with a white bar above them).
 * Use to remove lethal debuffs (e.g. Doom, Throttle).
@@ -299,14 +299,14 @@ All Aetherflow heals cost 1 Aetherflow stack and increase Faerie Gauge by 10.
 
 ## oGCDs
 
-![Aetherflow](https://xivapi.com/i/000000/000510_hr1.png)  \
-**Aetherflow**
+![Aetherflow](https://xivapi.com/i/000000/000510_hr1.png) 
+### **Aetherflow**
 
 * Grants 3 Aetherflow stacks and recovers 2000 MP.
 * Use on cooldown. Spend Aetherflow stacks before using it – do not overcap.
 
-![Dissipation](https://xivapi.com/i/002000/002810_hr1.png)  \
-**Dissipation**
+![Dissipation](https://xivapi.com/i/002000/002810_hr1.png) 
+### **Dissipation**
 
 * Removes the fairy for 30s and grants 3 stacks of Aetherflow and a 20% GCD heal buff.
 * Can only be used if Eos/Selene is active. Cannot be used if Seraph is summoned or if no fairy is summoned.
@@ -316,35 +316,35 @@ All Aetherflow heals cost 1 Aetherflow stack and increase Faerie Gauge by 10.
   * Damage: Use as often as possible and spend the Aetherflow stacks on Energy Drain. Avoid using if it forces you or your cohealer to GCD heal.
   * Emergency healing: Use the healing buff to increase your GCD shields, and use the Aetherflow stacks for healing.
 
-![ChainStratagem](https://xivapi.com/i/002000/002815_hr1.png)  \
-**Chain Stratagem**
+![ChainStratagem](https://xivapi.com/i/002000/002815_hr1.png) 
+### **Chain Stratagem**
 
 * Raid buff: Increases the crit rate of attacks against the target by 10% for 15s.
 * Stacks additively with your base critical chance and with other crit rate buffs (e.g. Battle Litany).
 * Use during the opener, then use on cooldown. Only delay its usage if your group is coordinating raid buffs for optimization.
 
-![LucidDreaming](https://xivapi.com/i/000000/000865_hr1.png)  \
-**Lucid Dreaming**
+![LucidDreaming](https://xivapi.com/i/000000/000865_hr1.png) 
+### **Lucid Dreaming**
 
 * Recovers MP over time (3850 MP over 21s).
 * Use when below 8000 MP.
 
-![Swiftcast](https://xivapi.com/i/000000/000866_hr1.png)  \
-**Swiftcast**
+![Swiftcast](https://xivapi.com/i/000000/000866_hr1.png) 
+### **Swiftcast**
 
 * Makes your next GCD spell instant cast.
 * The buff is not consumed when using instant cast GCDs.
 * If desired, save Swiftcast for Resurrection.
 * Otherwise, use it in the opener and for movement.
 
-![Surecast](https://xivapi.com/i/000000/000869_hr1.png)  \
-**Surecast**
+![Surecast](https://xivapi.com/i/000000/000869_hr1.png) 
+### **Surecast**
 
 * Prevents most knockback and movement effects and prevents casts from being canceled.
 * Use to avoid knockbacks.
 
-![Rescue](https://xivapi.com/i/000000/000890_hr1.png)  \
-**Rescue**
+![Rescue](https://xivapi.com/i/000000/000890_hr1.png) 
+### **Rescue**
 
 * Pulls a target party member to your location
 * Does not work if the target has certain debuffs, like Bind, or if the target is using Surecast/Arm’s Length
