@@ -25,7 +25,7 @@ This guide will be broken down into three sections: Basics, Intermediate, and Ad
 
 Let’s get to it!
 
-- io
+\- io
 
 ## BASICS
 
