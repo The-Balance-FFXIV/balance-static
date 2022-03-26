@@ -3,11 +3,13 @@ title: Dragoon Basic Guide
 card_header_image: /img/jobs/drg/basic.png
 authors:
   - Balance-DRG-Staff
-patch: "5.58"
-lastmod: 2021-10-29T02:49:00.219Z
+patch: "6.08"
+lastmod: 2022-03-26T04:40:44.465Z
 changelog:
   - date: 2021-10-29T02:49:11.086Z
     message: Created page
+  - date: 2022-03-26T04:40:45.042Z
+    message: Updated for Endwalker
 ---
 # Saving The Dragoon
 
@@ -42,7 +44,7 @@ To be added!
 
 - - -
 
-# Global Cooldown (GCD) Actions
+# Weaponskills
 
 Also known as your Global Cooldown (GCD) actions, weaponskills form the backbone upon which you weave the meat of your rotation - your Abilities (off-GCD actions). These skills are strung together in specific orders to form combos, which amplify their effects.
 
@@ -63,7 +65,7 @@ This combo allows Disembowel to apply the Power Surge buff, amplifying your dama
 | ![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/002000/002595_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
 
 &nbsp;\
-This combo uses our strongest weaponskill, **Full Thrust**, and that’s about it. It’s essentially just a filler combo whenever the aforementioned effects are active.
+This combo just deals raw damage, with your highest individual Weaponskill potency of Heavens’ Thrust’s 430. As it doesn’t apply any buffs, you want to make sure you only use this while Power Surge and Chaotic Spring are active already.
 
 #### The Coerthan Torment Combo
 
@@ -72,10 +74,11 @@ This combo uses our strongest weaponskill, **Full Thrust**, and that’s about i
 | ![](https://xivapi.com/i/000000/000306_hr1.png) | ![](https://xivapi.com/i/002000/002586_hr1.png) | ![](https://xivapi.com/i/002000/002590_hr1.png) |
 
 &nbsp;\
-Our new and freshly upgraded area-of-effect combo now packs **Coerthan Torment** as a third hit finisher! This is primarily used when dealing with a group of enemies numbering **three or more.**
+This combo affects a line of enemies in front of you. It allows Sonic Thrust to apply the Power Surge buff, amplifying your damage by 10%. This combo is only worth using when you are faced with 3 or more enemies in combat that all can be hit by each skill.
 
 #### Draconian Fire
 Upon properly completing any of the above combos, you will gain the buff Draconian Fire. This buff augments the next True Thrust or Doom Spike you do into Raiden Thrust or Draconian Fury, respectively. These Weaponskills combo the exact same as their unbuffed versions. They also give you 1 charge of Firstminds’ Focus, which is discussed in more detail later.
+
 
 | **True Thrust >**                                | **Raiden Thrust **                              | and **Doom Spike >**                           | **Draconian Fury**                               |
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
@@ -94,7 +97,7 @@ While you always want to maintain your uptime on the above combos as much as pos
 | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/002000/002596_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/002000/002595_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
 
 &nbsp;\
-Putting all of this together with the timers, we come out with one single string of actions. In general, under normal circumstances, we want to maintain this sequence of GCDs for as long as we are capable!
+Putting the above information to work, we see that, barring unforeseen circumstances, in a single-target encounter, our rotation will simply be the Chaotic Spring Combo followed by the Heavens’ Thrust Combo. We repeat this infinitely, assuming nothing interrupts our rotation.
 
 #### Mistakes
 Everyone makes them. If, in attempting to follow this rotation to the best of your ability, you make a mistake and press the wrong second hit, **commit to the mistake**. Restarting the combo is a larger loss than just continuing the incorrect combo string. After the mistaken combo, just return to the alternating rotation. Do not attempt to course-correct back into the old order.
@@ -124,6 +127,8 @@ At the bottom of the image, there’s a gap between the two **Sides** of the tar
 
 Some enemies will have the **Side** mark wrapping their entire hitbox, with no arrow to indicate a **Front**. These target rings are special, in that you will get positional bonuses from every action without needing to worry about where you attack from. All the enemies in the Palace of the Dead, for example, have this special targeting ring.
 
+As a Dragoon, we only have Positional requirements on three of our actions. Each of them provides an additional 40 potency when they hit the proper side of the target. Important to note is that we now tend to use Life Surge on the fifth hit of our Chaotic Spring and Heavens’ Thrust combos, but only if we manage to land the positional on it. True North is particularly useful in these situations, to guarantee success.
+
 #### Side Positionals
 
 ![](https://xivapi.com/i/002000/002582_hr1.png)\
@@ -152,9 +157,9 @@ And then, once you have one through three down, worry about maintaining proper p
 
 - - -
 
-# Off-GCD Actions
+# Abilities
 
-These actions have individual recast timers, allowing you to so-called “weave” them between your GCDs.
+Also more commonly known as your off-Global Cooldown (oGCD) skills, these are the most important part of your rotational parity as a Dragoon. Once you have your GCD skeleton laid out, you overlay the oGCD rotation on top of it to form the full rotation.
 
 ## Dragon Spaghetti
 
