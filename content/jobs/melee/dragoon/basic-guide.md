@@ -175,7 +175,7 @@ Dragon Sight should always buff High Jump, Spineshatter Dive, Dragonfire Dive, a
 Battle Litany is pretty much just used when it’s ready. There are times where holding it becomes beneficial.
 
 ![](https://xivapi.com/i/000000/000304_hr1.png)\
-Life Surge doesn’t affect the damage-over-time effect of our strongest Weaponskill, Chaos Thrust, so it should always be paired with Full Thrust, where it does affect the whole damage amount.
+Life Surge doesn’t affect the damage-over-time effect of our strongest Weaponskill, Chaotic Spring, so it should always be paired with Full Thrust, where it does affect the whole damage amount.
 
 ![](https://xivapi.com/i/020000/020710_hr1.png)\
 **Potions or Tinctures of Strength** are consumable items that boost your outgoing damage by increasing your base Strength score temporarily. In general, these items are optional. Groups may suggest or ask that you use “**Pots**” when running higher-end content.
