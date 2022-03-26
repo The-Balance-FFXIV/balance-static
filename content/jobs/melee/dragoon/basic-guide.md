@@ -17,7 +17,6 @@ changelog:
 
 Dragoon is a relatively static melee DPS job with a high focus on weaving off-GCD actions in-between a rigid 10-hit sequence of GCD actions. Burst windows can get hectic, and prioritizing the various skills you need to execute can become a rather significant hassle in some instances. Endwalker has doubled down on this by introducing the ability to utilize yet more off-GCD actions at regular intervals, as if we didn’t have enough already.
 
-
 - - -
 
 # The Brains Behind the Operation
@@ -31,10 +30,9 @@ Contact: **Xiu Ye#0560** on Discord | [Youtube](https://www.youtube.com/channel/
 
 **Rhy Tamok** (Phoenix) - Our resident cinnamon roll who loves to help and always goes out of his way to go above and beyond for the community. The most active Mentor in the questions channels.
 Contact: **Rhy Tamok#0001** on Discord 
- 
+
 **Rubix Bob** (Cerberus) - Probably a bigger math nerd than Eve, Rubix created and maintains a wonderful rotation tool on his personal website and is similarly knowledgeable about the class.
 Contact: **Rubixbob#5304** on Discord
-
 
 - - -
 
@@ -48,10 +46,9 @@ To be added!
 
 Also known as your Global Cooldown (GCD) actions, weaponskills form the backbone upon which you weave the meat of your rotation - your Abilities (off-GCD actions). These skills are strung together in specific orders to form combos, which amplify their effects.
 
-
 ## The Chaotic Spring Combo
 
-| **True Thrust >**                               | **Disembowel >**                                | **Chaotic Spring >**                              | **Wheeling Thrust >**                           | **Fang and Claw**                               |
+| **True Thrust >**                               | **Disembowel >**                                | **Chaotic Spring >**                            | **Wheeling Thrust >**                           | **Fang and Claw**                               |
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/002000/002596_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) |
 
@@ -60,7 +57,7 @@ This combo allows Disembowel to apply the Power Surge buff, amplifying your dama
 
 ## The Heavens' Thrust Combo
 
-| **True Thrust >**                               | **Vorpal Thrust >**                             | **Heavens' Thrust >**                               | **Fang and Claw >**                             | **Wheeling Thrust**                             |
+| **True Thrust >**                               | **Vorpal Thrust >**                             | **Heavens' Thrust >**                           | **Fang and Claw >**                             | **Wheeling Thrust**                             |
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/002000/002595_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
 
@@ -77,22 +74,22 @@ This combo just deals raw damage, with your highest individual Weaponskill poten
 This combo affects a line of enemies in front of you. It allows Sonic Thrust to apply the Power Surge buff, amplifying your damage by 10%. This combo is only worth using when you are faced with 3 or more enemies in combat that all can be hit by each skill.
 
 #### Draconian Fire
+
 Upon properly completing any of the above combos, you will gain the buff Draconian Fire. This buff augments the next True Thrust or Doom Spike you do into Raiden Thrust or Draconian Fury, respectively. These Weaponskills combo the exact same as their unbuffed versions. They also give you 1 charge of Firstminds’ Focus, which is discussed in more detail later.
 
-
-| **True Thrust >**                                | **Raiden Thrust **                              | and **Doom Spike >**                           | **Draconian Fury**                               |
+| **True Thrust >**                               | **Raiden Thrust**                               | and **Doom Spike >**                            | **Draconian Fury**                              |
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000306_hr1.png) | ![](https://xivapi.com/i/002000/002594_hr1.png) |
 
 #### Piercing Talon
-While you always want to maintain your uptime on the above combos as much as possible, occasionally an encounter may push you off for an extended period of time. Rather than doing nothing, you can utilize Piercing Talon. It doesn’t break *any* of the above combos, nor does it negate your Draconian Fire. This is only worth doing if you would be unable to re-engage before your GCD spin completes.
 
+While you always want to maintain your uptime on the above combos as much as possible, occasionally an encounter may push you off for an extended period of time. Rather than doing nothing, you can utilize Piercing Talon. It doesn’t break *any* of the above combos, nor does it negate your Draconian Fire. This is only worth doing if you would be unable to re-engage before your GCD spin completes.
 
 ![](https://xivapi.com/i/000000/000315_hr1.png)
 
 ## Basic Rotation
 
-| **Raiden Thrust >**                             | **Disembowel >**                                | **Chaotic Spring >**                              | **Wheeling Thrust >**                           | **Fang and Claw >**                             | **Raiden Thrust >**                             | **Vorpal Thrust >**                             | **Heavens' Thrust >**                               | **Fang and Claw >**                             | **Wheeling Thrust**                             |
+| **Raiden Thrust >**                             | **Disembowel >**                                | **Chaotic Spring >**                            | **Wheeling Thrust >**                           | **Fang and Claw >**                             | **Raiden Thrust >**                             | **Vorpal Thrust >**                             | **Heavens' Thrust >**                           | **Fang and Claw >**                             | **Wheeling Thrust**                             |
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/002000/002596_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/002000/002595_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
 
@@ -100,12 +97,15 @@ While you always want to maintain your uptime on the above combos as much as pos
 Putting the above information to work, we see that, barring unforeseen circumstances, in a single-target encounter, our rotation will simply be the Chaotic Spring Combo followed by the Heavens’ Thrust Combo. We repeat this infinitely, assuming nothing interrupts our rotation.
 
 #### Mistakes
+
 Everyone makes them. If, in attempting to follow this rotation to the best of your ability, you make a mistake and press the wrong second hit, **commit to the mistake**. Restarting the combo is a larger loss than just continuing the incorrect combo string. After the mistaken combo, just return to the alternating rotation. Do not attempt to course-correct back into the old order.
-- - - 
+
+- - -
 
 #### Wyrmwind Thrust
 
-Every time you land Raiden Thrust or Draconian Fury, you gain 1 charge of your Firstminds’ Focus. Two charges of this allows you to activate Wyrmwind Thrust. Because we don’t start fights with Draconian Fire, the first charge comes during the Heavens’ Thrust combo and the second during the following Chaotic Spring combo. From there, you will always be using Wyrmwind Thrust during your Chaotic Spring combo, barring any rotational errors you encounter along the way, due to user error or forced downtime. You **must** press Wyrmwind Thrust **before** your next Raiden Thrust or Draconian Fury, when it is ready to be used, otherwise you will **not** gain the charge of Firstminds’ Focus, leading to a drastic loss in damage.
+Every time you land Raiden Thrust or Draconian Fury, you gain 1 charge of your Firstminds’ Focus. Two charges of this allows you to activate Wyrmwind Thrust. Because we don’t start fights with Draconian Fire, the first charge comes during the Heavens’ Thrust combo and the second during the following Chaotic Spring combo. From there, you will always be using Wyrmwind Thrust during your
+ Chaotic Spring combo, barring any rotational errors you encounter along the way, due to user error or forced downtime. You **must** press Wyrmwind Thrust **before** your next Raiden Thrust or Draconian Fury, when it is ready to be used, otherwise you will **not** gain the charge of Firstminds’ Focus, leading to a drastic loss in damage.
 
 ![](https://xivapi.com/i/002000/002597_hr1.png)
 
@@ -144,16 +144,17 @@ As a Dragoon, we only have Positional requirements on three of our actions. Each
  **Chaotic Spring** and **Wheeling Thrust** deal 40 more potency from the **Rear**.
 
 #### Combat Priority
-While it is a loss to miss your Positionals, landing them should be your last priority, after you have met all of the other combat priority requirements of a melee DPS job. These are listed in order from largest to smallest loss of damage if you fail that level.
-1. Handle Mechanics
-If you fail mechanics, you could cause a potential raid wipe and a fight reset. You do not want to be the cause of that. Nothing is more important than properly handling mechanics.
-2. Stay Alive
-Don’t die. Plain and simple. If you have to sacrifice uptime to not die, you know the choice to make. Deaths cause much larger losses than having to use a few Piercing Talons.
-3. Maintain Uptime (ABC - Always Be Casting)
-Stick to the boss like glue, assuming you meet one and two. Don’t let your GCD stop spinning.
-4. Land Positionals
-And then, once you have one through three down, worry about maintaining proper positionals.
 
+While it is a loss to miss your Positionals, landing them should be your last priority, after you have met all of the other combat priority requirements of a melee DPS job. These are listed in order from largest to smallest loss of damage if you fail that level.
+
+1. Handle Mechanics
+   If you fail mechanics, you could cause a potential raid wipe and a fight reset. You do not want to be the cause of that. Nothing is more important than properly handling mechanics.
+2. Stay Alive
+   Don’t die. Plain and simple. If you have to sacrifice uptime to not die, you know the choice to make. Deaths cause much larger losses than having to use a few Piercing Talons.
+3. Maintain Uptime (ABC - Always Be Casting)
+   Stick to the boss like glue, assuming you meet one and two. Don’t let your GCD stop spinning.
+4. Land Positionals
+   And then, once you have one through three down, worry about maintaining proper positionals.
 
 - - -
 
@@ -161,63 +162,7 @@ And then, once you have one through three down, worry about maintaining proper p
 
 Also more commonly known as your off-Global Cooldown (oGCD) skills, these are the most important part of your rotational parity as a Dragoon. Once you have your GCD skeleton laid out, you overlay the oGCD rotation on top of it to form the full rotation.
 
-## Dragon Spaghetti
-
-![](/img/jobs/drg/blood.png)
-
-![](https://xivapi.com/i/002000/002581_hr1.png)\
- **Blood of the Dragon** is our primary mechanic.
-Under normal circumstances, it should never fall off.
-
-![](https://xivapi.com/i/002000/002588_hr1.png)\
- **Mirage Dive** helps us gain **Dragon Eyes** to build toward **Life of the Dragon**.\
- **Eyes** only open when **Blood of the Dragon** or **Life of the Dragon** is active.
-
-![](https://xivapi.com/i/002000/002583_hr1.png)\
- **Geirskogul** can only be used under **Blood of the Dragon**, and when you press it with
-**two** **Dragon Eyes** open, we enter **Life of the Dragon**.
-
-![](/img/life.png)
-
-![](https://xivapi.com/i/002000/002589_hr1.png)\
-Under **Life of the Dragon**, **Geirskogul** becomes **Nastrond**.\
-Ideally, you want to press **three Nastrond** before your **Life** timer runs out.\
-When the **Life** timer hits 0, you return to **Blood** with 30 seconds remaining.
-
-![](https://xivapi.com/i/002000/002593_hr1.png)\
- Additionally, we can utilize **Stardiver** while under the effects of **Life of the Dragon**.\
-We will always use exactly **1 Stardiver** in each sequence.\
-
-<br>
-
-## One Giant Leap for Dragoon Kind
-
-|                                                 |                                                 |
-| ----------------------------------------------- | ----------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002576_hr1.png) | ![](https://xivapi.com/i/002000/002591_hr1.png) |
-
-&nbsp;\
-Jump and its big brother High Jump are our most important actions. Using them gives us the Dive Ready buff, which grants access to Mirage Dive. Without these friends, Life would be a distant dream. 
-
-![](https://xivapi.com/i/002000/002580_hr1.png)\
-Spineshatter Dive crosses gaps and saves lives. Don’t hold it for doing those things, though, because it does do a decent chunk of damage on its own! 
-
-![](https://xivapi.com/i/002000/002578_hr1.png)\
-Dragonfire Dive also closes gaps and explodes damage on everybody.
-It should be used whenever available, except in the rare case where you will want to hit multiple targets before it’s back again.
-
-![](https://xivapi.com/i/002000/002593_hr1.png)\
-The new kid on the block, Stardiver (STD for short) has a 30 second window in which to use it, each time it’s available. Your job is to decide when in that time is the best time to orbital strike some coward(s).
-
-**Note that High Jump, Spineshatter Dive, Dragonfire Dive, and Stardiver all have long animation lock, meaning you should never pair them with any other actions in one spin of the GCD.**
-
-Stardiver in particular has a **significant** animation lock. When using it, be sure to press it as soon as possible after your GCD. Even with good ping **and** early pressing, you might encounter clipping if your GCD is anywhere below 2.35. Please hear our prayers, Yoshi-P.
-
-![](https://xivapi.com/i/002000/002577_hr1.png)\
-Elusive Jump does no damage, so it has just one purpose: traveling long distances quickly, either to escape or to get back to the boss.\
-<br>
-
-## Do-more Damage Buttons
+## Buffs
 
 ![](https://xivapi.com/i/000000/000309_hr1.png)\
 Lance Charge is the strongest buff in your arsenal.\
@@ -253,98 +198,19 @@ Our buffs fall on timers that function pretty well together in the duration of a
 
 &nbsp;
 
-#### Buff Duration and Optimal Placement
-
-If you have decent practice properly delaying your buffs within the GCD, you should, ideally, be able to get nine GCD actions under each cast of Lance Charge, Dragon Sight, and Battle Litany, assuming your GCD is in our ideal Skill Speed window. Otherwise, you will get eight.
-
-As our rotation is now ten GCDs and our buffs last eight or nine, we want to ideally miss only the weakest actions in our rotation with them - Disembowel or Raiden Thrust - while making sure first that we catch both finishers - Chaos Thrust and Full Thrust - and then that we catch both fourth and fifth hits - Wheeling Thrust and Fang and Claw. That said, below is a graph.
-
-The two rows beneath the GCDs show the total potency gain for using Lance Charge after the above GCD and catching the amount of GCDs listed in the left column. Color coded to show the trends. These values shift if you’re using Life Surge on your Full Thrust. The numbers beneath it would shift in favor of covering that Full Thrust quite significantly.
-
-![](/img/buff_opti.png)
-
-Using any buffs after the red spaces will cause you to suffer substantial losses.\
-The yellow spaces are reasonably good enough in comparison to red.\
-The green spaces guarantee maximum output of your buffs.
-
-- - -
-
-# Multiple Target Situations
-
-We will be operating under the assumption that the fact that our multi-target combo does not extend Disembowel buff is an oversight. We’re the only melee that doesn’t get that benefit, so it’s likely a mistake. Someday, based Yoshida will notice us and fix it. Maybe.
-
-## Two Targets
-
-When up against two targets, you’ll get more gains out of simply spreading your Chaos Thrust damage over time effect to both targets and keeping them both active. This is done by a simple modification to our basic rotation:
-
-|                                                 |                                                 |                                                 |                                                 |                                                 |                                                 |                                                 |                                                 |                                                 |     |
-| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | --- |
-| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |     |
-
-&nbsp;\
-When alternating back and forth for an extended period of time, be sure to use your Life Surge on the Fang and Claw hits, here. It becomes your strongest option in these situations, and it’s far better than just never pressing the button.
-
-## Three or More Targets
-
-|                                                 |                                                 |                                                 |
-| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| ![](https://xivapi.com/i/000000/000306_hr1.png) | ![](https://xivapi.com/i/002000/002586_hr1.png) | ![](https://xivapi.com/i/002000/002590_hr1.png) |
-
-&nbsp;\
-When dealing with any more than two targets, we want to roll into our Coerthan Torment Combo. You want to keep pressing High Jump, Mirage Dive, and all of the other buttons, especially Dragonfire Dive and Geirskogul, as they also hit multiple targets. Once you get your 2 Dragon Eyes, you can roll into Life and drop Nastrond and Stardiver to unleash destruction on a level where only **Black Mage** can compete. Be sure not to forget to weave Life Surge before the Coerthan Torment hit! The automatic critical hit affects all targets hit.
-
-## Should I use Disembowel?
-
-The answer to this question is kinda **complicated**. When you decide to use Disembowel during trash pulls, you sacrifice the potency of the above combo for two GCDs to apply a 10% damage buff to the subsequent four combos. The question of whether or not this is a gain is a very valid one.
-
-The short answer is **yes**, you should be using Disembowel during trash.
-
-The long answer is that using it causes you to lose potency overall if you’re hitting four or more enemies with the above combo, but that potency is **very easily made up** by any of our various off-GCD area-of-effect actions - Geirskogul, Nastrond, Stardiver, and Dragonfire Dive.
-
-Applying Disembowel is 290 + 320 = 610 potency
-Coerthan Torment combo is 200 potency per GCD per mob - 400 over 2 GCDs
-
-| Enemies | CoT ppgcd | Pot loss for applying DE | Pot gain from  applied DE | Total loss  from DE | Potency needed  to break even | Potency needed  per enemy | Stardiver pot  per enemy |
-| ------- | --------- | ------------------------ | ------------------------- | ------------------- | ----------------------------- | ------------------------- | ------------------------ |
-| 3       | 600       | 590                      | 720                       | \-130               | \-1300                        | \-433.33                  | 480.00                   |
-| 4       | 800       | 990                      | 960                       | 30                  | 300                           | 75.00                     | 465.00                   |
-| 5       | 1000      | 1390                     | 1200                      | 190                 | 1900                          | 380.00                    | 456.00                   |
-| 6       | 1200      | 1790                     | 1440                      | 350                 | 3500                          | 583.33                    | 450.00                   |
-| 7       | 1400      | 2190                     | 1680                      | 510                 | 5100                          | 728.57                    | 445.71                   |
-| 8       | 1600      | 2590                     | 1920                      | 670                 | 6700                          | 837.50                    | 442.50                   |
-| 9       | 1800      | 2990                     | 2160                      | 830                 | 8300                          | 922.22                    | 440.00                   |
-| 10      | 2000      | 3390                     | 2400                      | 990                 | 9900                          | 990.00                    | 438.00                   |
-| 11      | 2200      | 3790                     | 2640                      | 1150                | 11500                         | 1045.45                   | 436.36                   |
-| 12      | 2400      | 4190                     | 2880                      | 1310                | 13100                         | 1091.67                   | 435.00                   |
-| 13      | 2600      | 4590                     | 3120                      | 1470                | 14700                         | 1130.77                   | 433.85                   |
-| 14      | 2800      | 4990                     | 3360                      | 1630                | 16300                         | 1164.29                   | 432.86                   |
-| 15      | 3000      | 5390                     | 3600                      | 1790                | 17900                         | 1193.33                   | 432.00                   |
-
-&nbsp;\
-Essentially: if, sometime during the duration of Disembowel, you will press off-GCDs that add together to equal the potency needed to break even (AoE skills only need to hit the potency per enemy column) then you should apply it.
-
-At three, it is **always a gain**. At four, you just need 75 potency! Geirskogul alone is 270. Of note is even at 15, you still need less than 1200 - the potency of 3 Nastronds.
-This table also assumes that monsters will last the full (or most of the full) Disembowel duration.
-
-The formula to directly generate the potency needed per enemy column, knowing the amount of enemies (n) is:
-
-**1600 - 6100/n**
-
-Because of the nature of this formula, it has an absolute maximum value of **1600** - meaning that, no matter how many enemies you are facing, if you have over 1600 in per-target area-of-effect off-GCD actions available to use in those 30 seconds, Disembowel is **always** worth using.
-
 - - -
 
 # The Opener
 
 I know a lot of you have skipped ahead to this section, since you feel like you have a solid grasp on the fundamentals, and I think that’s great! The primary use of the Opener is to prepare your cooldown alignment for the rest of the encounter. With our new Job design, it’s possible that we’ll actually have fight-specific openers down the stretch, and they’ll all be added here!
 
+![](/img/jobs/drg/drg_ew_opener.png)
+
 These openers have not been too thoroughly tested as of yet, so please take them with a grain of salt, and if you discover anything that flies counter to what we have listed here, please don’t hesitate to ask!
 
 ## Standard Opener
 
 The backbone of ten GCDs in sequence will - in general - never be changed, but the two blocks of skills (**Buffs** and **Attacks**) can be shuffled around within their respective slots if necessary to accommodate specific encounter timings.
-
-  ![](/img/opener.png)
 
 The default order for the **Attacks** puts Spineshatter Dive as a buffer skill between High Jump and Geirskogul in order to try and prevent future situations where the two are ready at the exact same time.
 
@@ -360,15 +226,15 @@ Disengaging from the target can cause your rotation to get forcibly shifted arou
 
 |                                                 |                                                 |                                                 |                                                 |                                                 |
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | 
+| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) |
 
 &nbsp;
 
 2. Disembowel has more than 10 seconds remaining
 
 |                                                 |                                                 |                                                 |                                                 |                                                 |
-| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | 
-| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | 
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
 
 &nbsp;\
 That’s honestly all there is to discuss here. This is more of a judgment call, honestly - anything up to around 12 seconds remaining could be clipped, but ten is the basic cutoff for getting all five hits of your Full Thrust Combo with Disembowel’s buff before it falls off. You would lose the buff on Raiden Thrust and Disembowel after the fact, but that can be overcome.
@@ -554,3 +420,27 @@ Our sweet spot for GCD appears to be somewhere between 2.25 and 2.47.
 Life Surge’s 45s cooldown means that once we go faster than 2.25, we’ll start to severely delay it if we want to keep it on Full Thrust.
 
 Chaos Thrust having a 24s duration means that if we go slower than 2.47, we will see noticeable DoT dropping between recasts. This in general will not be a significant issue, but it is worth noting. We really do not care about this one for what it’s worth.
+
+# Multiple Target Situations
+
+We will be operating under the assumption that the fact that our multi-target combo does not extend Disembowel buff is an oversight. We’re the only melee that doesn’t get that benefit, so it’s likely a mistake. Someday, based Yoshida will notice us and fix it. Maybe.
+
+## Two Targets
+
+When up against two targets, you’ll get more gains out of simply spreading your Chaos Thrust damage over time effect to both targets and keeping them both active. This is done by a simple modification to our basic rotation:
+
+|                                                 |                                                 |                                                 |                                                 |                                                 |                                                 |                                                 |                                                 |                                                 |     |
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | --- |
+| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |     |
+
+&nbsp;\
+When alternating back and forth for an extended period of time, be sure to use your Life Surge on the Fang and Claw hits, here. It becomes your strongest option in these situations, and it’s far better than just never pressing the button.
+
+## Three or More Targets
+
+|                                                 |                                                 |                                                 |
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| ![](https://xivapi.com/i/000000/000306_hr1.png) | ![](https://xivapi.com/i/002000/002586_hr1.png) | ![](https://xivapi.com/i/002000/002590_hr1.png) |
+
+&nbsp;\
+When dealing with any more than two targets, we want to roll into our Coerthan Torment Combo. You want to keep pressing High Jump, Mirage Dive, and all of the other buttons, especially Dragonfire Dive and Geirskogul, as they also hit multiple targets. Once you get your 2 Dragon Eyes, you can roll into Life and drop Nastrond and Stardiver to unleash destruction on a level where only **Black Mage** can compete. Be sure not to forget to weave Life Surge before the Coerthan Torment hit! The automatic critical hit affects all targets hit.
