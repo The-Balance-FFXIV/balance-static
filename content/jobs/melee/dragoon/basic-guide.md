@@ -113,26 +113,26 @@ Every time you land Raiden Thrust or Draconian Fury, you gain 1 charge of your F
 
 # Positionals
 
-Several actions in the kit deal more damage from the **Side** of a boss, and several deal more from the **Rear**. You want to be sure to set up to hit these for extra damage whenever possible.
+Several actions in the kit deal more damage from the **side** of a boss, and several deal more from the **rear**. You want to be sure to set up to hit these for extra damage whenever possible.
 
-#### How do I know if I'm at the **Side** or **Rear** of a target?
+#### How do I know if I'm at the **side** or **rear** of a target?
 
 ![](/img/pos.png)
 
-The arrow at the top is the **Front** of the target. You get no special bonuses by attacking here, other than lots of bonus deaths for standing in tank busters and cleaves.
+The arrow at the top is the **front** of the target. You get no special bonuses by attacking here, other than lots of bonus deaths for standing in tank busters and cleaves.
 
-On the left and right, you will find the **Sides** of the target. They account for 90o of the target on either side, but you will generally want to stand near the base of the visible line.
+On the left and right, you will find the **sides** of the target. They account for 90o of the target on either side, but you will generally want to stand near the base of the visible line.
 
-At the bottom of the image, there’s a gap between the two **Sides** of the target. This empty space is the **Rear**. When standing at the base of one **Side**, it becomes easy to decipher between the two positions - you either attack the empty space, or the line.
+At the bottom of the image, there’s a gap between the two **sides** of the target. This empty space is the **rear**. When standing at the base of one **side**, it becomes easy to decipher between the two positions - you either attack the empty space, or the line.
 
-Some enemies will have the **Side** mark wrapping their entire hitbox, with no arrow to indicate a **Front**. These target rings are special, in that you will get positional bonuses from every action without needing to worry about where you attack from. All the enemies in the Palace of the Dead, for example, have this special targeting ring.
+Some enemies will have the **side** mark wrapping their entire hitbox, with no arrow to indicate a **front**. These target rings are special, in that you will get positional bonuses from every action without needing to worry about where you attack from. All the enemies in the Palace of the Dead, for example, have this special targeting ring.
 
 As a Dragoon, we only have Positional requirements on three of our actions. Each of them provides an additional 40 potency when they hit the proper side of the target. Important to note is that we now tend to use Life Surge on the fifth hit of our Chaotic Spring and Heavens’ Thrust combos, but only if we manage to land the positional on it. True North is particularly useful in these situations, to guarantee success.
 
 #### Side Positionals
 
 ![](https://xivapi.com/i/002000/002582_hr1.png)\
-**Fang and Claw** deals 40 more potency from the **Side**.
+**Fang and Claw** deals 40 more potency from the **side**.
 
 #### Rear Positionals
 
@@ -141,7 +141,7 @@ As a Dragoon, we only have Positional requirements on three of our actions. Each
 | ![](https://xivapi.com/i/002000/002596_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
 
 &nbsp;\
- **Chaotic Spring** and **Wheeling Thrust** deal 40 more potency from the **Rear**.
+ **Chaotic Spring** and **Wheeling Thrust** deal 40 more potency from the **rear**.
 
 #### Combat Priority
 
