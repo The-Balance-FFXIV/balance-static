@@ -157,9 +157,14 @@ For now, we’ll be using Chaotic Cyclone as a 50 gauge spender, even on single-
 
 # 76: Nascent Flash
 
-Funny skill, heals you for 50% of the damage you deal, and heals a party member for 50% of what healed you.\
-Basically 75% of your damage is turned into healing, for the next six seconds.\
+Funny skill! Use it on a party member that you wish to heal. For each weapon skill (GCD) you land on a target (or targets), you recover health to the party member, and yourself. This skill also comes with 10% (4s) + 10% (8s) mitigation for your party member, that doubles up for a total of 19% mitigation for the first 4 seconds.\
 \
+Nascent Flash on a party member. \
+Heavy Swing hits a target. \
+You recover health, your party member recovers health. \
+Overpower hits 7 targets. \
+You recover health 7 times, your party member recovers health 7 times. \
+
 ***You are now the healer.***
 
 - - -
