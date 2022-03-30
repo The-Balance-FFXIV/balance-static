@@ -15,7 +15,7 @@ qna:
       critical weaponskill, you’ll gain two Chakra; one from the crit, and one
       from the effect of Brotherhood.
     question: Can I gain multiple Chakra from one weaponskill?
-  - question: Which opener is better???
+  - question: Which opener is better?
     answer: "It depends on your kill time. Check the guide. "
   - question: What's the point of Celestial Revolution?
     answer: A consolation prize for when you mess up your PB window. It's lower
