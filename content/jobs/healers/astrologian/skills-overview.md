@@ -33,7 +33,7 @@ changelog:
 
 **Gravity II**
 
-* AoE damage in a five yalm radius around your target  (130 potency), 1.5 cast time. 
+* AoE damage in a 5y radius around your target  (130 potency), 1.5 cast time. 
 * In dungeons, apply Combust while running and spam gravity when the tank stops. 
 * Gravity is a gain on two targets over Fall Malefic. 
 * Can weave one oGCD after this. 
@@ -45,6 +45,7 @@ changelog:
 * Single target DoT (10 ticks of 55 potency), instant cast. Total potency: 550. 
 * In dungeons, apply Gravity while running and use Gravity when the tank stops. 
 * If Optimizing: 
+
   * Refreshing Combust early can be a gain if you know your kill/phase time and you know you will lose ticks anyway.
   * Combust is a gain on Fall Malefic after five ticks.
 
@@ -116,7 +117,7 @@ changelog:
 * Single target heal (400p)
 * Healing potency increases the lower the target's HP gets, capping out at 900p when target HP reaches 30%
 * Has two charges
-* Use  as your primary tank upkeep or to help heal a non tank if they get lower than everyone else.
+* Use as your primary tank upkeep or to help heal a non tank if they get lower than everyone else.
 
 ![](/img/jobs/ast/intersect.png)
 
@@ -305,7 +306,7 @@ changelog:
 * Minor Arcana and Play Minor Arcana both use a weave window
 
   * *Lord of Crowns*
-              
+
        *Aoe damage in a 20y radius around you (250p)*
               Is drawn with Minor Arcana and needs Crown Play ability to play it.
               *Uses a weave window* 
@@ -334,11 +335,13 @@ changelog:
 * You need three seals in your Arcana Gauge to activate Astrodyne no matter the unique seals
 * Uses a weave window
 * This buff grants effects based on the number of unique seals you have.
-             
-       * At least one unique seal gives you, 500mp over 15s.
-       * At least two seals give you 10% haste.
-       * At least three seals increase your outgoing damage and healing by 5%.
-       * Aim to get at least two unique seals to get the haste buff, while it's ideal to get three unique seals, it's not always optimal to redraw for it and the damage buff is a small gain compared to the haste buff.
+
+  ```
+   * At least one unique seal gives you, 500mp over 15s.
+   * At least two seals give you 10% haste.
+   * At least three seals increase your outgoing damage and healing by 5%.
+   * Aim to get at least two unique seals to get the haste buff, while it's ideal to get three unique seals, it's not always optimal to redraw for it and the damage buff is a small gain compared to the haste buff.
+  ```
 * Haste isn't the same as spellspeed so it will not increase DoT damage
 * You can hold Astrodyne for the two minute window, your six minute window will have two Astrodynes if you do this. I suggest looking at Astrodyne and Cards timeline for an idea on how two minute Astrodyne works.
 * Overwriting cards in the Arcana gauge is never worth it unless you know you won't gain another Astrodyne before the fight ends.
