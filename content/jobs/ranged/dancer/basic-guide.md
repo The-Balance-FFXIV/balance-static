@@ -2,15 +2,17 @@
 title: Dancer Basic Guide
 card_header_image: /img/jobs/dnc/basic.png
 authors:
-  - Ringabel-Dim
-patch: "6.01"
-lastmod: 2021-10-26T02:04:23.722Z
+  - juliacare
+patch: "6.08"
+lastmod: 2022-04-01T01:48:02.901Z
 changelog:
   - date: 2021-10-26T02:04:43.843Z
     message: Page created
   - date: 2021-12-23T21:50:17.863Z
     message: Guide heavily revised from Shadowbringers version of the guide and
       adapted for Endwalker
+  - date: 2022-04-01T01:48:05.000Z
+    message: Updated to new basic guide.
 ---
 <p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 5.</p>
 <ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
@@ -53,17 +55,13 @@ Dancers also bring a good amount of defensive utility, making it great for raids
 
 Dancer’s Job Gauges are central to their gameplay.
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image1.png "image_tooltip")
+![](/img/jobs/dnc/dnc1.png)
 
 On the top, you see up to four green feathers appear. These represent your available stored uses of Fan Dance (also known as Fourfould Feathers); these charges have a chance of being generated when using certain abilities. Each displayed feather allows a single use of either Fan Dance, or its AoE counterpart, Fan Dance II.
 
 The yellow bar, with the corresponding number, is your Esprit gauge. This resource is unlocked at level 76.  Esprit is generated as you or your dance partner use GCD weapon skills or spells. After using Technical Finish, your entire party also will contribute to generating Esprit until the raid buff expires. This resource is consumed by using Saber Dance, a very hard hitting GCD. Use it proactively to avoid wasting Esprit.
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image2.png "image_tooltip")
+![](/img/jobs/dnc/dnc2.png)
 
 The second gauge we have shows us our step actions. Dancer has two dance abilities, Standard Step and Technical Step. When initiating these dances you are given random steps to press. 2 steps for Standard Step, and 4 for Technical Step. 
 
@@ -73,11 +71,9 @@ To perform these dances correctly, you simply look at the gauge and perform the 
 
 (A dance will never have the same step twice.)
 
-(Grab this table from the old basic guide) or embed a clip starting here in the video https://youtu.be/FbVqyAfM-hg?t=141
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image3.png "image_tooltip")
+(Grab this table from the old basic guide) or embed a clip starting here in the video \
+\
+{{ youtube FbVqyAfM-hg }}
 
 Standard Step should be generally used whenever it becomes available–even when the buff is not yet close to expiring–as it is still a very hard-hitting skill.The timer above the step gauge notes the time left on your Standard Step buff. Try to avoid having this buff expire where possible.
 
@@ -117,9 +113,7 @@ Reverse Cascade and Fountainfall can be used flexibly in any order, and they can
 
 Graph of our proc’s:
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image4.png "image_tooltip")
+![](/img/jobs/dnc/dnc3.png)
 
 Procs, such as Reverse Cascade and Fountainfall, have a 50% chance of generating fan charges. You can store up to 4 of these before overcapping. Try to hold on to atleast 3 for your 2 minute burst windows. Simply use any 4th generated feathers you gain to prevent overcapping.
 
@@ -131,9 +125,7 @@ At very high levels of optimization, there can be exceptions. These exceptions a
 
 Flourish is our 1 minute cooldown. It grants all possible procs: Fan Dance III, Reverse Cascade, Fountainfall, and Fan Dance IV. It is important to only use Flourish if none of these procs are currently active. Make sure to use up all your procs when Flourish is about to come off cooldown. If you do have a proc when Flourish comes off cooldown simply delay flourish by one gcd like so:
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image5.png "image_tooltip")
+![](/img/jobs/dnc/dnc4.png)
 
 If you don’t have any procs, you can also use Saber Dance as the GCD prior to Flourish.  It does not generate any procs, so you do not risk overwriting any with Flourish.
 
