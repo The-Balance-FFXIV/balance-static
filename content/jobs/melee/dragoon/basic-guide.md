@@ -4,7 +4,7 @@ card_header_image: /img/jobs/drg/basic.png
 authors:
   - Balance-DRG-Staff
 patch: "6.08"
-lastmod: 2022-03-26T04:40:44.465Z
+lastmod: 2022-04-02T23:36:23.710Z
 changelog:
   - date: 2021-10-29T02:49:11.086Z
     message: Created page
@@ -169,16 +169,16 @@ Lance Charge is the strongest buff in your arsenal.\
 You should always press this button as soon as it’s available.
 
 ![](https://xivapi.com/i/002000/002587_hr1.png)\
-Dragon Sight should always buff High Jump, Spineshatter Dive, Dragonfire Dive, and the associated Mirage Dive. This skill requires a target in order for its full effect to activate. In a later section, we have included some helpful tips for using this. You can activate the skill without a target, but you lose the second effect entirely.
+Dragon Sight gives the same damage boost as Lance Charge, but less frequently. To maximize its effectiveness, you also need to target a party member (usually the fellow melee DPS - Reaper, Samurai, or Monk) to give them a damage buff, as well. There are a few different ways to handle this, discussed here.
 
 ![](https://xivapi.com/i/002000/002585_hr1.png)\
-Battle Litany is pretty much just used when it’s ready. There are times where holding it becomes beneficial.
+Battle Litany is a powerful raid buff that enhances everyone’s critical hit rate. As it shares a timer with Dragon Sight, the two should generally be paired together, with Battle Litany coming second, due to its shortened duration.
 
 ![](https://xivapi.com/i/000000/000304_hr1.png)\
-Life Surge doesn’t affect the damage-over-time effect of our strongest Weaponskill, Chaotic Spring, so it should always be paired with Full Thrust, where it does affect the whole damage amount.
+Life Surge forces your next Weaponskill to automatically land a critical hit. The effect does not apply to damage-over-time effects, which means we tend to use it on either Heavens’ Thrust or the fifth hit of our single-target combos, assuming we hit the positional. The two charges we can stock of Life Surge make it so that we only ever use it paired with our other buffs, to maximize its usage. Very rarely will you be in danger of over-capping your charges outside of a buff window.
 
 ![](https://xivapi.com/i/020000/020710_hr1.png)\
-**Potions or Tinctures of Strength** are consumable items that boost your outgoing damage by increasing your base Strength score temporarily. In general, these items are optional. Groups may suggest or ask that you use “**Pots**” when running higher-end content.
+Tinctures of Strength (currently the Grade 5 Tincture of Strength) can be used as an additional 30s damage buff in combat. They are weaker (potency-wise) than our other main buff options, but they exist in addition to them. These are in no way necessary to use in order to play this game, and are simply an additional option, should you enjoy fully min/maxing your damage. They are always optimal to use.
 
 ## Basic Buff Rotation
 
@@ -200,13 +200,130 @@ Our buffs fall on timers that function pretty well together in the duration of a
 
 - - -
 
+## Dragon Sight
+
+Dragon Sight is a pain in the ass. We all know it. It’s not going anywhere, though, so let’s just get that out of the way and move on to how to mitigate this logistical nightmare of a party-targeted ability.
+You must be close to your target to apply and maintain their buff. Once applied, your buff stays no matter how far off to Narnia they go.
+While you can use it without a target, but are you really that selfish? Can you afford to be?
+This all being said, the best ways to handle using it vary based on playstyle.
+
+If you play on mouse/keyboard, we recommend using a Mouseover (<mo>) macro.
+If you play on a gamepad/controller, you can simply use Soft targeting (up/down on d-pad).
+
+Different macro options are listed below, with pros/cons explained after.
+
+**Mouseover Macro**
+
+```/merror
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/micon "Dragon Sight" 
+```
+
+Will simply place the tether onto your mouseover target. Just hover your mouse over the proper player in the party list and press the button and you cast it on the proper player. Optimal macro to use with mouse and keyboard.
+
+**Mixed Macro**
+
+```/merror
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <mo>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/micon "Dragon Sight"
+```
+
+Mixes left with right to create a macro that would prioritize your mouseover target, but default to your preferred party list position/member. Useful if you don’t trust your ability to mouseover, but you should really just practice that and shift to the mouseover one instead, eventually.
+
+**One Specific Ally**
+
+```/merror
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/ac "Dragon Sight" <2>
+/micon "Dragon Sight"
+```
+
+Specifically targets whoever is at position 2. The number or party list can be altered as needed. Rather inflexible in use, but very consistent in execution.
+
+For controller, I recommend learning to soft-target and dropping all reliance on macros.
+For keyboard/mouse, I recommend 1-3 specific ally macros for reliable friends and a mouseover as a backup (or primary, your call).
+
+In addition, you should tend to err on the side of tethering your melee partners, as you can guarantee with more certainty that they will be in range when it’s time to cast. Expecting the same out of a ranged partner is just setting yourself up for loneliness and despair.
+
+- - -
+
+# Attacks
+
+In addition to buffs, Dragoon is inundated with off-GCD attacking abilities that form the core of the rotation outside the GCD backbone.
+
+{{<inline>}} ![High Jump](https://xivapi.com/i/002000/002591_hr1.png) {{/<inline>}}
+{{<inline>}} ![Mirage Dive](https://xivapi.com/i/002000/002588_hr1.png) {{/<inline>}}
+High Jump is your most frequently-used oGCD action. Every 30s, you need to be pressing it like clockwork to activate Dive Ready, which allows use of Mirage Dive. Mirage Dive strengthens the gaze of the First Brood, unlocking your Life of the Dragon window, which is our strongest burst window.
+![](https://xivapi.com/i/002000/002580_hr1.png) Spineshatter Dive is a simple oGCD damage skill that simultaneously acts as a quick and effective means for movement. With 2 charges, now, some encounters may find interesting uses for it where you can hold a single charge for a period of rapid boss movement to chase more accurately and efficiently than Elusive Jump allows.
+![](https://xivapi.com/i/002000/002578_hr1.png) Dragonfire Dive is the biggest area-of-effect skill we have access to, besides Stardiver. In single-target, you still use it whenever it’s available, however, since it doesn’t stop doing damage when there’s only one target.
+![](https://xivapi.com/i/002000/002597_hr1.png) Wyrmwind Thrust is just a strong oGCD action you should be using whenever possible. It has slight flexibility within its 5-GCD window, so it doesn’t tend to have as high priority as High Jump or Dragonfire Dive, which have strict cooldowns. You ideally have this fall under buffs whenever possible without sacrificing charges.
+![](https://xivapi.com/i/002000/002583_hr1.png) Geirskogul and its relationship with High Jump form the basis of the overall oGCD rotation for Dragoon. This dictates when and where you will enter your Life cycles and how well those cycles will sync up with your above-mentioned buff rotations. As you will see, in the Opener, we use Geirskogul before High Jump, so that we always skip entering Life on the in-between, un-buffed actions, saving it for our on-minute buff windows.
+
+# Life Cycle
+
+After using a pair of Mirage Dives, you will enter Life of the Dragon on your next cast of Geirskogul that deals damage. Entering Life turns Geirskogul into Nastrond and unlocks the ability to use Stardiver, as well. Over the following 30 seconds, you can use three Nastronds and one Stardiver, but beyond that, they can be shifted somewhat freely to adjust to mechanics and buffs.
+![](https://xivapi.com/i/002000/002589_hr1.png) Nastrond is a strong line attack that is essentially a direct upgrade to Geirskogul. You should just burn it as soon as it’s available while Life of the Dragon is active and aim to never use fewer than 3 within one cycle.
+![](https://xivapi.com/i/002000/002593_hr1.png) Stardiver has an **excessively long** animation lock. Even with the lowest possible ping and perfect server ticks, you **will** clip when weaving this alongside any other action, so I strongly recommend you just don’t try it. That said, you always have a full 30 second window of leeway to use it, so pick the best possible spot. It is our single strongest hit at 500 potency, so it should still take priority of getting under buffs over *anything* else.
+
+## Buff Windows X Life Cycle
+
+To properly explain how the Life Cycles line up with the buffs, I’ll present a simplified version of our oGCD rotation as it lines up in general.
+
+![](/img/jobs/drg/drgbuffscycle.png)
+
+## Jumps and Potions
+
+The skills High Jump, Spineshatter Dive, and Dragonfire Dive, as well as all versions of Strength-enhancing medicine have a longer animation lock than the standard seen on our other (non-Stardiver) oGCDs and our GCDs. As such, weaving a second action alongside one of these within the span of a single GCD spin is difficult (if not impossible) for most players.
+
+
+We would be remiss not to mention here that it can be done, if you sport a rather considerably low ping (sub-20, generally) or through the use of external tools, such as xivAlexander. Such external tools are to be used at your own risk, and moving to get your ping down is no small feat. That said, we do (***will***) have further in-depth discussions of what these sorts of so-called “cursed” double-weaves can gain you in another guide, later.
+
+## Extra Mobility
+![](https://xivapi.com/i/002000/002577_hr1.png) Elusive Jump allows you to quickly and efficiently jump backwards out of trouble. The only use for this is re-engaging or disengaging from a boss for mechanics at the last minute, or crossing long distances quickly. Don’t be afraid to use it, but do your best to avoid yeeting yourself off the stage.
+
 # The Opener
 
 I know a lot of you have skipped ahead to this section, since you feel like you have a solid grasp on the fundamentals, and I think that’s great! The primary use of the Opener is to prepare your cooldown alignment for the rest of the encounter. With our new Job design, it’s possible that we’ll actually have fight-specific openers down the stretch, and they’ll all be added here!
 
 ![](/img/jobs/drg/drg_ew_opener.png)
 
-These openers have not been too thoroughly tested as of yet, so please take them with a grain of salt, and if you discover anything that flies counter to what we have listed here, please don’t hesitate to ask!
+In certain encounters, we may shuffle the location of certain buttons contained within, in order to enable different things with respect to the particular encounter’s timing. Early Spineshatter Dive may be useful for some encounters for movement, while early High Jump may be useful for others to eke out an additional use prior to phasing.
+
 
 ## Standard Opener
 
@@ -214,233 +331,50 @@ The backbone of ten GCDs in sequence will - in general - never be changed, but t
 
 The default order for the **Attacks** puts Spineshatter Dive as a buffer skill between High Jump and Geirskogul in order to try and prevent future situations where the two are ready at the exact same time.
 
+## Re-Openers
+During fights or dungeons, you may find yourself encountering a situation where you are coming up against a boss with resources already in the tank. This shuffles your opener around and makes things harder to manage. Thankfully, there are a finite amount of permutations for these resources to hit you. We’ll be covering here the situations where you have every oGCD action ready to go (at full charges) along with some stocked Mirage Dive activations (eyes) and/or stocked charges for Wyrmwind Thrust (scales). 
+
+
+Images coming soon!
+
+---
+
+# Multiple Target Situations
+
+When you have more than one target to attack, your backbone GCD rotation changes.
+
+## Two Targets
+
+When up against two targets, you drop the Heavens’ Thrust combo and just double down on the Chaotic Spring combo, alternating targets to maintain both damage-over-time effects.
+
+|                                                 |                                                 |                          Target One                       |                                                 |                                                 |                                                 |                                                 |        Target Two                                         |                                               |     |
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | --- |
+| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/002000/002596_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/002000/002596_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |     |
+
+&nbsp;\
+
+## Three or More Targets
+Once you have three or more, you should cycle through your Coerthan Torment combo and eschew all others. It applies Power Surge for you and deals more damage against three targets than the above rotation would, while also giving more frequent casts of Wyrmwind Thrust.
+
+|                                                 |                                                 |                                                 |
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| ![](https://xivapi.com/i/002000/002594_hr1.png) | ![](https://xivapi.com/i/002000/002586_hr1.png) | ![](https://xivapi.com/i/002000/002590_hr1.png) |
+
+&nbsp;\
+You ideally want to also keep all of your other area-of-effect attacks rolling as often as possible in these situations, as well, and keep in mind that Life Surge does work on Coerthan Torment, to force a critical hit on every target all at once. Make sure to prioritize High Jump the same as always to get into Life of the Dragon quickly, as Nastrond and Stardiver are two of your strongest multi-target actions.
+
 - - -
 
-# Optimization Station
-
-## GCD Rotation
-
-Disengaging from the target can cause your rotation to get forcibly shifted around. When re-engaging (be it after forced disengages or because you felt like taking a lap around the arena), you always only have two options for what you will lead with. Nothing particularly changes, either way, since your ten-GCD sequence will never actually shift.
-
-1. Disembowel has less than 10 seconds remaining
-
-|                                                 |                                                 |                                                 |                                                 |                                                 |
-| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) |
-
-&nbsp;
-
-2. Disembowel has more than 10 seconds remaining
-
-|                                                 |                                                 |                                                 |                                                 |                                                 |
-| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/000000/000314_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
-
-&nbsp;\
-That’s honestly all there is to discuss here. This is more of a judgment call, honestly - anything up to around 12 seconds remaining could be clipped, but ten is the basic cutoff for getting all five hits of your Full Thrust Combo with Disembowel’s buff before it falls off. You would lose the buff on Raiden Thrust and Disembowel after the fact, but that can be overcome.
-
-The only exception to this rule is if you are going to hit an off-GCD action in that period of time after Disembowel wears off. In that case, you absolutely will want the refresh beforehand.
-
-## Action specifics
-
-|                                             |            |                                             |     |                                             |          |                                             |
-| ------------------------------------------- | ---------- | ------------------------------------------- | --- | ------------------------------------------- | -------- | ------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002583.png) | Geirskogul | ![](https://xivapi.com/i/002000/002583.png) | and | ![](https://xivapi.com/i/002000/002589.png) | Nastrond | ![](https://xivapi.com/i/002000/002589.png) |
-
-&nbsp;\
-The general cycle for Life of the Dragon is very straightforward:
-
-<div align="center">
-
-| ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) | \>30s> | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002589.png) | ![](https://xivapi.com/i/002000/002593.png) | \>10s> | ![](https://xivapi.com/i/002000/002589.png) | \>10s> | ![](https://xivapi.com/i/002000/002589.png) | repeat |
-| ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------ | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------ | ------------------------------------------- | ------ | ------------------------------------------- | ------ |
-|                                             |                                             | 1                                           |        |                                             | 2                                           | Life                                        |                                             |                                             |        |                                             |        |                                             |        |
-
-&nbsp;\
-Not so obviously, following this rotation is **not** always optimal. If you do follow this throughout the encounter, your output will, in general, be just fine. It’s just that there are some cases where you will want to **delay** your Life cycle by a single Geirskogul cast.
-
-The basic idea is to choose between pressing Mirage Dive before or after Geirskogul when the Mirage Dive would fill your second Dragon Eye. The decision forces you to ask the simple question: “Will my Nastrond and Stardiver fall under more buffs (Lance Charge and Dragon Sight, primarily) by entering Life now, or if I enter in 30 more seconds, instead?” You should be considering the remaining time on the recast timers for your buff actions when making this decision. The following chart should help to make it more clear. You should follow these checks **in order** down the row. If the first one fails, check the second. If that one fails, check the third, and so on.
-
-| Assuming you already have one Eye and High Jump is coming up soon:             |                                             |                                             |                                             |     |
-| ------------------------------------------------------------------------------ | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | --- |
-| If Lance Charge has less than 18 seconds until it's ready, **enter**           | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) |     |
-| If, instead, Lance Charge has more than 23 seconds until it's ready, **delay** | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) |     |
-| If, instead, Dragon Sight has less than 18 seconds until it's ready, **enter** | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) |     |
-| If, instead, Dragon Sight has more than 23 seconds until it's ready, **delay** | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002583.png) | ![](https://xivapi.com/i/002000/002588.png) |     |
-| Otherwise, **enter**                                                           | ![](https://xivapi.com/i/002000/002591.png) | ![](https://xivapi.com/i/002000/002588.png) | ![](https://xivapi.com/i/002000/002583.png) |     |
-
-&nbsp;
-
-#### Delayed First Life
-
-Activating your first Life of the Dragon window as early as possible (on your second Geirskogul) feels nice on paper, but, in practice, it is rarely optimal. Generally, we want to **delay** that first entry, to push it back toward our second cast of Lance Charge. Using the above as a guide, you’ll see that, at the time of second Geirskogul, we fall into the second category. The way this ends up shaking out in practice (ignoring the main Combo strings) is:
-
-![](/img/jobs/drg/unknown.png)
-
-&nbsp;\
-As you can see, we just keep shooting off Geirskogul before Mirage Dive until entering our first Life around 20s ahead of our second Lance Charge usage, so we get one Nastrond and Stardiver under it. Entering the next one as soon as possible (by using Mirage Dive before Geirskogul this time) allows us to get a second Nastrond under that Lance Charge and then two under the subsequent Dragon Sight (along with the Stardiver).
-
-In **most** cases, this is the optimal way to handle the first two cycles. Below, there’s an expansion of this, exploring how our Life cycles interact with future buff windows.
-
-#### Nastrond and Buffs
-
-Because our buff actions fall into a rather static rotation (as seen above), we can extrapolate these concepts over the course of six minutes and get a general “Life of the Dragon Rotation” so to speak, which shows us when we hold it and when we don’t. This will **only** hold true if we have **six minutes** of continuous uptime - that is, we **can** land every one of the High Jump, Geirskogul, Mirage Dive, Nastrond, and Stardiver hits listed in this visual representation, while ideally dropping zero GCDs in that same window. As such, it is very rarely ever going to be the optimal approach, and the above chart will serve you better in most situations.
-
-![](/img/life_rota.png)
-
-After the final buff window, the rotation repeats from the 30s column, quite obviously.
-
-As you can see, the only place we currently even employ this strategy is for our very first Life entry. After that, we just let the skills fall where they may and they naturally align neatly with buff windows. Keep in mind that this could change if a boss jumps out of the arena at an odd time, so you should still learn the general idea behind the priority system!
-
-|                                             |              |                                             |
-| ------------------------------------------- | ------------ | ------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002587.png) | Dragon Sight | ![](https://xivapi.com/i/002000/002587.png) |
-
-&nbsp;\
-You need to be close to the target of your affections to properly give them a buff. If **the target** moves away from you, however, **you will retain your buff**. So it’s really only their loss. You can usually just worry about activating the skill and then stop worrying about whether or not it stays on your target. As of this expansion, you can now activate the skill **without a target**, though this is **NOT RECOMMENDED**, because you will only receive the 10% damage buff, and the 5% buff will be lost for that use, completely. No one gets it.
-
-This skill is notoriously hard to use, already. Optimal handling:\
-**Mouseover (<mo>) macro** if you play mouse and keyboard.
-
-**Soft targeting (up/down on d-pad) without a macro** if you play with a controller.
-
-Different options are listed below, with varying degrees of usefulness/ease of use.
-
-**Mouseover Macro:**
-&nbsp;
-&nbsp;
-
-```
-/merror off
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/micon "Dragon Sight"
-```
-
-&nbsp;
-&nbsp;\
-**Mixed Macro:**
-&nbsp;
-&nbsp;
-
-```
-/merror off
-/ac "Dragon Sight"
-/ac "Dragon Sight"
-/ac "Dragon Sight"
-/ac "Dragon Sight"
-/ac "Dragon Sight"
-/ac "Dragon Sight"
-/ac "Dragon Sight"
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/micon "Dragon Sight"
-```
-
-&nbsp;
-&nbsp; 
-
-**One Specific Ally:**
-&nbsp;
-&nbsp;
-
-```
-/merror off
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/micon "Dragon Sight"
-```
-
-&nbsp;
-&nbsp;
-
-For controller, I recommend learning to soft-target and dropping all reliance on macros.
-For keyboard/mouse, I recommend  one to three specific ally macros for reliable friends and a mouseover as a backup (or primary, your call).
-
-- - -
 
 # Gearing Up
 
 As things appear to be right now, our stat priority has not changed!
+1. Item Level- maximize Strength and Weapon Damage first.
+2. Critical Hit Rate > Direct Hit Rate = Determination > Skill Speed
 
-Critical Hit Rate > Direct Hit Rate > Determination > Skill Speed
+We want to go as slow as possible, but reducing Skill Speed does not matter nearly as much as maximizing your main stat.
 
 I recommend you use the gear comparison tool in the resources section to actually get a better idea of how melds affect your DPS!
 
-Just meld (with VIs; VIIIs have a 40% removal chance, and you will want to save those for BiS!) and wear highest item level gear, for now!
+Check out (the BiS page)[/jobs/melee/dragoon/best-in-slot/] for the current BiS Dragoon gear sets. 
 
-## Best Sets Available
-
-| GCD                                                                  | Food           | Critical Hit | Determination | Direct Hit | Skill Speed |
-| -------------------------------------------------------------------- | -------------- | ------------ | ------------- | ---------- | ----------- |
-| [2.46](https://etro.gg/gearset/bc44395f-4ce1-47aa-b52a-7bcbcb90d152) | Smoked Chicken | 4167         | 2017          | 2702       | 726         |
-| [2.50](https://etro.gg/gearset/7f0557b6-d86f-4d3a-8953-4db56bd23488) | Smoked Chicken | 4069         | 2244          | 2919       | 380         |
-
-&nbsp;\
-The 2.46 set provides a comfortable GCD speed and will, in general, supply the highest damage throughput in content, on average, across the sets. Getting nine GCDs under buffs at this speed can be rather difficult, but it is still doable.
-
-The 2.50 set provides you with a particularly slow GCD speed, which is favored quite substantially in fights with large quantities of time where you are pushed off the boss. You are also incapable of getting nine GCDs (still unable to get fewer than eight, as well, assuming you don’t delay any GCD) under your buff actions at this speed, so if you’re feeling lazy about trying to push as hard as you can, it’s a very good alternative.
-
-#### DPS Comparison Between Sets
-
-Below is a graph comparing the total DPS of each of the three above sets over time. I’ve clipped out the opener to avoid having a super zoomed out graph to show the peaks (which are around 30,000, in case you were curious). Please note that the Y-Axis only shows values from 18,250 to 20,500 which results in seeing huge gaps between the mins and maxes which make the variation appear to be much larger than it actually is.
-
-![](/img/graph.png)
-
-## How Fast Can We Go?
-
-Our sweet spot for GCD appears to be somewhere between 2.25 and 2.47.
-
-Life Surge’s 45s cooldown means that once we go faster than 2.25, we’ll start to severely delay it if we want to keep it on Full Thrust.
-
-Chaos Thrust having a 24s duration means that if we go slower than 2.47, we will see noticeable DoT dropping between recasts. This in general will not be a significant issue, but it is worth noting. We really do not care about this one for what it’s worth.
-
-# Multiple Target Situations
-
-We will be operating under the assumption that the fact that our multi-target combo does not extend Disembowel buff is an oversight. We’re the only melee that doesn’t get that benefit, so it’s likely a mistake. Someday, based Yoshida will notice us and fix it. Maybe.
-
-## Two Targets
-
-When up against two targets, you’ll get more gains out of simply spreading your Chaos Thrust damage over time effect to both targets and keeping them both active. This is done by a simple modification to our basic rotation:
-
-|                                                 |                                                 |                                                 |                                                 |                                                 |                                                 |                                                 |                                                 |                                                 |     |
-| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | --- |
-| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/000000/000308_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |     |
-
-&nbsp;\
-When alternating back and forth for an extended period of time, be sure to use your Life Surge on the Fang and Claw hits, here. It becomes your strongest option in these situations, and it’s far better than just never pressing the button.
-
-## Three or More Targets
-
-|                                                 |                                                 |                                                 |
-| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| ![](https://xivapi.com/i/000000/000306_hr1.png) | ![](https://xivapi.com/i/002000/002586_hr1.png) | ![](https://xivapi.com/i/002000/002590_hr1.png) |
-
-&nbsp;\
-When dealing with any more than two targets, we want to roll into our Coerthan Torment Combo. You want to keep pressing High Jump, Mirage Dive, and all of the other buttons, especially Dragonfire Dive and Geirskogul, as they also hit multiple targets. Once you get your 2 Dragon Eyes, you can roll into Life and drop Nastrond and Stardiver to unleash destruction on a level where only **Black Mage** can compete. Be sure not to forget to weave Life Surge before the Coerthan Torment hit! The automatic critical hit affects all targets hit.
