@@ -2,291 +2,214 @@
 title: Dancer Advanced Guide
 card_header_image: /img/jobs/dnc/advanced.png
 authors:
-  - Balance-DNC-Staff
+  - juliacare
 patch: "6.08"
-lastmod: 2022-02-04T00:03:08.245Z
+lastmod: 2022-04-02T23:53:32.597Z
 changelog:
   - date: 2021-11-15T21:14:20.824Z
     message: Added page
   - date: 2022-02-04T00:03:10.192Z
     message: Updated with Io's guide.
+  - date: 2022-04-02T23:53:33.130Z
+    message: Updated for Endwalker
 ---
-**DNC - Raiding Primer**
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 5.</p>
+<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
 
-**An Overview of Fundamentals**
+<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
+<a href="#gdcalert2">alert2</a>
+<a href="#gdcalert3">alert3</a>
+<a href="#gdcalert4">alert4</a>
+<a href="#gdcalert5">alert5</a>
 
-by Io Whitespirit (Faerie)
+<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
 
-## FOREWORD 
+\-- Basic Dancer Guide
 
-One of the biggest requests I have had is a more concise document on what people “need to know” before jumping into more difficult content. This is not meant to be a replacement for a general guide to Dancer; please see Ringabel’s extensive write-up instead, which will be linked at the end of the document in the appendix. 
+Welcome to the Basic Dancer Guide. Within this document, you’ll find all the information you’ll need to learn to play the job. Other links will be included below for further references and resources. Any further questions can also be directed to the Dancer channels in the Balance’s discord. 
 
-This guide will be broken down into three sections: Basics, Intermediate, and Advanced. I am hopeful that even some of the more experienced players may learn something new from this document.
+For a video version of this guide:
 
-Let’s get to it!
+embed <https://youtu.be/FbVqyAfM-hg>
 
-\- io
+Useful resources
 
-## BASICS
+Skill overview <https://www.thebalanceffxiv.com/jobs/ranged/dancer/skills-overview/>
 
-This section will focus on elements that **should be understood** prior to jumping into more difficult content. 
+Opener infographic <https://www.thebalanceffxiv.com/jobs/ranged/dancer/openers/>
 
+Raiding primer: <https://bit.ly/DNCRaidingPrimer>
 
-### Weaving
+Advanced guide: <https://bit.ly/DNCGuideEW>
 
-There are already plenty of guides on _weaving_, and for good reason–a poor understanding of how and when to weave will likely yield a mediocre performance. A great resource is the commonly linked Balance weaving infographic, seen here: [click here](https://media.discordapp.net/attachments/598630005999796233/600432765250568262/GCD_v._3.png)
+Leveling guide <https://www.thebalanceffxiv.com/jobs/ranged/dancer/leveling-guide/>
 
-Make sure you understand which of your abilities are GCDs, and which are oGCDs. A full discussion looking at every ability in our toolkit is beyond the scope of this guide.
+\-- What is a Dancer?
 
-For Dancers, as we do not need to worry about cast bars, our GCDs will look something like this (assuming a minimum skill speed set):
+Dancer, alongside bard and machinist, is one of the three physical ranged dps. Dancers focus on providing sizable damage buffs to the party through the means of a big 2 minute raid buff and a handful of single target buffs to a single party member of their choosing.  Like other physical ranged dps jobs, Dancer’s skills are instantly cast, and thus allow for nearly unrestricted movement.
+
+Dancers also bring a good amount of defensive utility, making it great for raids as curing waltz, improvisation and shield samba allow for a decent amount of free healing and damage mitigation.
+
+\-- Understanding your job gauge
+
+Dancer’s Job Gauges are central to their gameplay.
 
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-This means that after each GCD you use, after a forced animation lock of around ~0.7s, you will have the ability to weave two abilities before you can recast your next GCD. These will generally be Fans, but can include a large variety of other oGCD abilities. These will also, with some exceptions, usually have animation locks of ~0.7s. The biggest exception to this rule are potions, which have a lock of ~1.2s.
+![alt_text](images/image1.png "image_tooltip")
 
-Of note, initiating and finishing Dances (Standard Step, Standard Finish, Technical Step, Technical Finish, and now Tillana) has a recast timer of 1.5s instead of 2.5s, meaning you will only have the ability to weave in **one** oGCD during any of these abilities without clipping. This is more relevant for the Finishes and Tillana as most abilities are locked mid-dance.
+On the top, you see up to four green feathers appear. These represent your available stored uses of Fan Dance (also known as Fourfould Feathers); these charges have a chance of being generated when using certain abilities. Each displayed feather allows a single use of either Fan Dance, or its AoE counterpart, Fan Dance II.
 
-Please make sure you understand this concept well before proceeding, as this is pivotal to the entire foundation of FFXIV’s battle system.
-
-### Opener - Level 90
+The yellow bar, with the corresponding number, is your Esprit gauge. This resource is unlocked at level 76.  Esprit is generated as you or your dance partner use GCD weapon skills or spells. After using Technical Finish, your entire party also will contribute to generating Esprit until the raid buff expires. This resource is consumed by using Saber Dance, a very hard hitting GCD. Use it proactively to avoid wasting Esprit.
 
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-_Click [here](https://i.imgur.com/AvOuHDs.png) for a higher resolution version._
+![alt_text](images/image2.png "image_tooltip")
 
-Barring kill time shenanigans and some very niche cases, this opener is good for more or less all level 90 fights. Post patch 6.05, Tillana and Starfall Dance can be interchanged.
+The second gauge we have shows us our step actions. Dancer has two dance abilities, Standard Step and Technical Step. When initiating these dances you are given random steps to press. 2 steps for Standard Step, and 4 for Technical Step. 
 
-A Technical first opener exists but is not worth using except in extremely niche cases. Likewise, the use of Devilment before starting Technical Step is not recommended.
+These step abilities will replace your main single target and aoe abilities and turn into the dance step of their corresponding color.
 
+To perform these dances correctly, you simply look at the gauge and perform the steps from left to right. If you make a mistake, your progress within the dance will not change. It’s important to do all the steps before completing the dance, since both the Finish’s potency and the magnitude of the buff granted depend on how many steps were performed. Here is an example of these dances being done.
 
-### Rotation Basics
+(A dance will never have the same step twice.)
 
-The backbone of Dancer gameplay is conceptually fairly straightforward:
-
-1. Technical window (discussed a few subsections below) every **two minutes**
-    1. Devilment and Flourish used around the same time
-2. Flourish every **one minute**
-3. Outside of the above, every 30-32 seconds:
-    2. **25 seconds **of GCDs (or 27+ seconds if using a 2.47s set)
-    3. **5 seconds **of Standard Step
-
-When the only thing available to do is press single target GCDs, use Reverse Cascade and Fountainfall procs immediately as they come up. This is to avoid the possibility of having both Reverse Cascade and Fountainfall procs available when Flourish becomes ready.
-
-
-### GCD Procs
-
-GCD procs (Reverse Cascade, Fountainfall, and the AoE counterparts) last 30 seconds and generally should never be overwritten. For example, if you have a combo’d Fountain ready as well as Fountainfall ready, you would use the Fountainfall first to avoid the possibility that using Fountain might overwrite your pre-existing Fountainfall proc.
-
-A combo’d Fountain will also last 30 seconds. Although an effort should be used not to lose it now that the duration has been increased from Shadowbringers, it is sometimes dropped during Technical Step if there are too many other abilities to be used.
-
-
-### Priority System
-
-The core of Dancer’s gameplay is based on RNG and dependent on GCD procs, Esprit generation, and Fans. As such, when multiple abilities are ready, understanding the priority system is important for optimizing damage.
-
-__General Single Target  Priority List (in descending order)__
-
-1.    Starfall Dance if about to expire
-
-2.    Fountainfall if about to expire
-
-3.    Reverse Cascade if about to expire
-
-4.    Saber Dance if >= 85 Esprit
-
-5.    Fountainfall if Fountain combo ready
-
-6.    Fountain combo if about to expire
-
-7.    Tillana
-
-8.    Saber Dance if >= 50 Esprit and under Technical Finish
-
-9.    Standard Step
-
-10.    Fountainfall
-
-11.    Reverse Cascade
-
-12.    Fountain combo
-
-13.    Cascade
-
-An AoE priority list also exists, but as this is mostly irrelevant for Savage and Ultimate, it will be skipped in this guide.
-
-
-### Drifting
-
-The definition of “drifting” refers to having a cooldown up and ready to use but, for one reason or another, delaying its use. Generally speaking, unless intentional, this is frowned upon. For key abilities such as Technical Step and Devilment, forgetting to use them on cooldown every two minutes will tend to “drift” these abilities out of other players’ raid buffs and bursts–a big no-no. A section on avoiding drift on Flourish will be in the Intermediate section of this guide.
-
-
-### Technical Window
-
-A Technical Window refers to the 20.5 seconds after Technical Finish is executed, during which Esprit generation is substantially increased for each other player affected by the Technical buff. This is your big damage window and where you should be dumping your resources.
-
-However, please note: the range of Technical Finish is not global, and is limited to 15 yalms. This means that depending on the ongoing mechanics, your positioning needs to be precise enough in order to hit all 7 other players.
-
-This also means that during fights in which Technical comes up but people are spread out, it may need to be intentionally drifted back a determined number of GCDs to a point where people are clustered enough to be affected by the raid buff.
-
-
-### Pooling
-
-“Pooling” refers to saving resources for Technical windows. This most commonly refers to saving 3-4 Feathers so that they can be rapidly weaved in between GCDs while under the influence of Technical Step.
-
-This is also where understanding weaving is important. Of the following two images, only one is executed correctly:
-
-1. 
+(Grab this table from the old basic guide) or embed a clip starting here in the video https://youtu.be/FbVqyAfM-hg?t=141
 
 <p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-2. 
+![alt_text](images/image3.png "image_tooltip")
+
+Standard Step should be generally used whenever it becomes available–even when the buff is not yet close to expiring–as it is still a very hard-hitting skill.The timer above the step gauge notes the time left on your Standard Step buff. Try to avoid having this buff expire where possible.
+
+\-- Understanding Dance Partner
+
+Dancer’s main gimmick is the dance partner mechanic. Using Closed Position on a party member sets them as your dance partner, allowing several of your skills (Standard Finish and Devilment) to buff said party member and to provide significant boosts to their damage output.
+
+You therefore want to put your dance partner on someone that does a lot of damage and is able to utilize said buffs to their fullest extent. 
+
+Differences in gear and other factors can have an effect on who the optimal dance partner is. 
+
+Weigh the pro’s and con’s of each of your party members and decide a dance partner based on your own discretion. 
+
+In a vacuum where gear and skill level is equal the priority would be such: 
+
+SAM > RPR/MNK > DRG/SMN/BLM/NIN/RDM > MCH > BRD > DNC
+
+Dance partner does stack so if you’re ever in a situation where you have 2 dancers in a dungeon, you can partner each other.
+
+(Esprit generation is only a minor consideration as this is largely standardized between different jobs.)
+
+There is also a dance partner calculator which you can use to determine exactly who the best value dance partner is. This tool is still being updated for the Endwalker changes but can be found here: <http://partnercalc.herokuapp.com/>
+
+\-- Your rotation
+
+Before reading this part of the guide, it might be wise to read up on all of Dancer’s abilities here: <https://www.thebalanceffxiv.com/jobs/ranged/dancer/skills-overview/>
+
+The backbone of Dancer's rotation is a set of 4 GCD combo actions that are simple, yet flexible. 
+
+The first two of these actions are Cascade and Fountain.  Cascade combos into Fountain.  Both Cascade and Fountain have a 50% chance of unlocking ("proccing") a separate GCD - Cascade can unlock Reverse Cascade, and Fountain can unlock Fountainfall.  
+
+Reverse Cascade and Fountainfall can be used flexibly in any order, and they can be used between Cascade and Fountain without breaking combo. While flexible, there are still some rules to follow regarding these actions:
+
+1. Don't use Fountain uncombo'd, and don't use Cascade when a combo'd Fountain is available.  
+2. If you have Reverse Cascade available, avoid using Cascade, and similarly for Fountainfall and Fountain. Reverse Cascade and Fountainfall have a 50% chance to generate a Fourfold Feather, which can be spent on Fan Dance I or Fan Dance II, which are oGCDs.
+3. Try and use up procs (Reverse Cascade and Fountainfall) as they come up. This becomes important to avoid delaying Flourish, an ability learned at level 72.
+
+Graph of our proc’s:
 
 <p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-Both are from real logs. **THE TOP IMAGE IS NOT WHAT WE MEAN BY POOLING AND IS NOT WHAT YOU SHOULD DO DUE TO INCORRECT WEAVING**. The bottom image is more correct, with pooled feathers slowly being dumped between GCDs.
 
+![alt_text](images/image4.png "image_tooltip")
 
-### Potions/Tinctures
+Procs, such as Reverse Cascade and Fountainfall, have a 50% chance of generating fan charges. You can store up to 4 of these before overcapping. Try to hold on to atleast 3 for your 2 minute burst windows. Simply use any 4th generated feathers you gain to prevent overcapping.
 
-A couple of things to note about potions–as an item; they are unqueueable (the button to use a potion will **not** be processed if you press the button even slightly early, unlike your usual combat actions), have an animation lock of approximately 1.2s, and cannot be macroed. At high quality, they have a cooldown of 4 minutes 30 seconds. As such, its use will usually occupy the entirety of a double weave window. General recommendation for second potion usage outside of the opener is to delay its use until the next burst, and to use it the GCD before starting the next Technical Step (GCD → potion → start Technical Step) as this will cover the entirety of the Technical window.
+We use Saber Dance similar to Fan Dance I. This weaponskill can only be used if you have above 50 Esprit built up. We want to enter our burst windows with as much Esprit as possible since Saber Dance is a very hard hitting skill. The way we do this is to only use saber dance when we risk overcapping at 80 gauge or higher. If your Esprit is not 80 or above, simply hold on to the gauge.
 
-Dancers are a _dexterity_ class, and thus they will look to use the highest grade dexterity potion/tincture available. The proper use of potions will net you just over 1% bonus damage in a fight. This may not seem like a lot, but it is not uncommon for parties to wipe on sub-1% enrages that would have been clearable if players had been using potions.
+Next we have the main dance, Standard Step. We use this ability mostly on cooldown; however, there are two exceptions. The first is during our opener and burst windows. It is more important to prevent Esprit from overcapping by using Saber Dance than it is to keep Standard Step on cooldown. If you are generating a lot of Esprit, simply spend it on Saber Dance and delay your Standard Step as needed.
 
-Recommendations for fight-specific potion timings will be in the respective encounter guide.
+At very high levels of optimization, there can be exceptions. These exceptions are the reason why a gearset with a small degree of skill speed is recommended for the most recent raid tier. This discussion is beyond the scope of this document.
 
-
-### Food/Materia
-
-Using food while raiding and having melded materia in all guaranteed meld slots is more or less an expectation in fights of Savage difficulty and above. See our BiS lists for recommended food; most of the time, this will be the highest item level food that matches Dancer’s substat priorities.
-
-
-## INTERMEDIATE
-
-This section will focus on elements that you should likely know about but tend to have smaller impacts on your gameplay.
-
-
-### Managing Flourish Drift
-
-Drifting Flourish is no longer as large of a detriment as it was in Shadowbringers, as the number of GCD procs has been halved, and the duration allotted to using them has increased from 20 seconds to 30 seconds. However, an effort should still be made for off-minute Flourishes to be used without drifting.
-
-Cut from my infographic in Shadowbringers, please see the below image as reference:
+Flourish is our 1 minute cooldown. It grants all possible procs: Fan Dance III, Reverse Cascade, Fountainfall, and Fan Dance IV. It is important to only use Flourish if none of these procs are currently active. Make sure to use up all your procs when Flourish is about to come off cooldown. If you do have a proc when Flourish comes off cooldown simply delay flourish by one gcd like so:
 
 <p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-The concept is simple: If you are out of procs to use the GCD before Flourish is to be used (and as a result, want to avoid making more procs), use Saber Dance as a potential buffer to completely avoid proc generation.
+![alt_text](images/image5.png "image_tooltip")
 
+If you don’t have any procs, you can also use Saber Dance as the GCD prior to Flourish.  It does not generate any procs, so you do not risk overwriting any with Flourish.
 
-### Downtime
+Lastly, your 2 minute cooldowns are Devilment and Technical Step. Devilment grants you and your dance partner 20% crit and direct hit rating, while Technical Finish gives your entire party a 5% flat damage buff and the ability to generate Esprit for you. All of these buffs last 20 seconds, and as they have the same cooldown, it’s best to keep them aligned with each other. During its duration, Devilment also transforms into Starfall Dance, a hard hitting GCD, and Technical Finish transforms into Tillana, which refreshes the Standard Finish buff.  
 
-Downtime is a Dancer’s best friend. Where possible, try to prep Dances during downtime, as it is a gain of around 2 GCDs. More specific details on downtime preparation for a given fight will be in the fight’s encounter guide.
+Since these abilities are on a 2 minute cooldown there's a specific sequence of how to use them. Outside of that you do not have to worry about these abilities.
 
+\-- Opener and 2 minute burst
 
-### Double-Weaving Fans
+Since dancer heavily revolves around RNG procs, your opener and 2 minute burst will never be the same. This is why you should learn the priority of our procs and how to deal with them in the correct order.
 
+<https://i.imgur.com/AvOuHDs.png>
 
-#### FD1-FD1
+For the opener: We use Standard Step 15,5 seconds before the pull. Do both of the random steps, but hold off from finishing the dance. 
 
-Double-weaving two FD1s is doable at lower ping. This can be useful given the lack of weave slots in your Technical window. However, as FD1 has a cooldown of 1 second, the double weave is quite tight. Also, you need to be fast enough to recognize the lack of FD3 proc before pressing the second FD1.
+We recommend using peloton before the pull, as it will help your melees and tanks get into range quickly.
 
-As a result, this double weave may not be worth using if you cannot do it routinely without clipping.
+Use the appropriate dexterity potion at 1,5 seconds left. 
 
+Instantly afterwards, use Standard Finish before going into the Technical Step. 
 
-#### FD1-FD3
+Use all 4 steps and do Technical Finish, weaving in Devilment. Use Starfall Dance, weaving in Flourish and Fan Dance III.
 
-Double-weaving FD1 into FD3 is doable at low to intermediate ping. Your ping needs to be low enough for your game to receive information that the FD3 proc has occurred.
+Next, use Tillana, weaving in Fan Dance IV.  
 
-If you do not plan on routinely using double FD1 weaves and find yourself using this double-weave, consider button-mashing FD3 after using FD1. There is no harm if you do not gain the FD3 proc.
+Now this is where RNG starts to factor in. From here on out, focus on spending all your Fan Dance I’s and their corresponding Fan Dance III’s whilst preventing Esprit from overcapping by using Saber Dance as much as possible. Once you’re out of Esprit, use up your Fountainfall and Reverse Cascade procs.  If you run out of all of the above with at least 5 seconds left in Technical Finish, use Standard Step..
 
-#### FD3-FD1
+It’s encouraged to use Saber Dance over Standard Step if you risk overcapping. 
 
-This double weave is recommended for players with higher ping, but is obviously usable by lower ping players as well. As you do not need to wait for information re: whether or not FD1 has created an FD3 proc, it will reduce the potential for clipping at higher latencies.
+For the 2 minute burst window, we do the exact same except for the prepull part. We use Technical step on cooldown and go into our burst in the exact same manner afterwards.
 
-### Partner Priority and Partner Swapping
+If due to standard step drifting (not using
 
-A partner priority list will not be discussed in this guide as balance patches and updates will often change the ranking order. Please visit the Balance for the most up-to-date priority list, or use Partnercalc when released. Top choices at time of writing are SAM, RPR, and MNK.
+![]()
 
-For higher end optimization, partner swapping refers to switching your dance partner mid-fight. The most common reason for this is a death of the currently partnered player, but for more optimized groups this may also be to catch a DPS player’s burst.
+![]()
 
-Partner swapping is generally executed over one to two GCDs, and comes at a cost if your partner has not died; once Closed Position has been dropped, your partner will immediately lose their Esprit generation and 5% damage buffs. Below is an image quantifying the total duration a player’s Standard Step buff is dropped if a partner swap is executed over a single GCD:
+ it on cooldown immediately as it becomes available), your standard step comes off cooldown less than 6 seconds before technical step, then hold the ability. It’s more important to perfectly align your technical step than it is to keep your standard step on cooldown.
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+It is worth noting that the opener and 2 minute burst are the most difficult parts of the rotation. It is recommended to practice the opener several times before stepping further into the rotation. You can do so at the Stone, Sea, Sky dummies or any training dummies in housing districts. Dancer’s opener is a lot less wild if you do it without an active dance partner. Therefore, when practicing the opener it’s wise to ask a friend to do so with you. For further practice in an 8 man setting, consider trying content such as normal raids.
 
-Much like FD1 double-weaves, a partner swap can be executed over a single GCD without clipping; however, as dropping Closed position has an intrinsic 1 second cooldown, it will once again be somewhat tight to execute for players with high ping. Swapping over two GCDs is a very small loss over one GCD and is advisable if it prevents you from clipping.
+\--- Gearing and melding
 
-There are two ways of partner swapping:
+Our stat priority is as follows:
 
-1. Drop Closed Position and select your partner immediately after using a GCD
-2. Drop Closed Position and partner a player by using a macro
+Crit > Determination > Direct hit >> Skill speed
 
-The benefits of using a macro include not having to deselect the boss, which may or may not delay auto-attacks. However, the downside of using a macro is that it can be easy to clip your GCD, as macros cannot be queued. **The most important thing to avoid in a proper partner swap is clipping**.
+Most of the time, higher item level pieces are better than lower item level pieces, regardless of the sub stats they hold. However, Dancer is one of those jobs where a very specific GCD is key to your rotation. This is why there are exceptions for accessories with skill speed, use the gear calculator to double check whether it's an upgrade or not.
 
-An example of a Partner swap macro:
+https://bit.ly/DNCGearCalc
 
-```
-/ac "Closed Position" &lt;6>
-/ac "Closed Position" &lt;6>
-/ac "Closed Position" &lt;6>
-/ac "Closed Position" &lt;6>
-/ac "Closed Position" &lt;6>
-/ac "Closed Position" &lt;6>
-/ac "Closed Position" &lt;6>
-/ac "Closed Position" &lt;6>
-/ac "Closed Position" &lt;6>
-/ac "Closed Position" &lt;6>
-/ac "Closed Position" &lt;6>
-/ac "Closed Position" &lt;6>
-/ac "Closed Position" &lt;6>
-/ac "Closed Position" &lt;6>
-/micon "Closed Position"
-```
+Current Best in Slot: <https://bit.ly/DNCBiS-600-2-47>
 
-This will target the sixth player on your party list. The repeated entries are deliberate and are used as an attempt to imperfectly simulate queuing with the macro.
+Reasons for 2.47 GCD and why BiS changed from 6.05 to 6.08: <https://bit.ly/DNC-6-08-Changes>
 
-Partnercalc (made by Hint, one of the mentors and admins of the Balance) can quantify player damage under a given Standard Step window. It is still being actively worked on for Endwalker, but for players looking to routinely partner swap for optimization runs, this tool is likely your best bet for objective data. A link will be included in this document when it’s done.
+Pre-raid iLvl 580 gear: <https://bit.ly/DNCBaseline-580>
 
-As for shenanigans with Tillana swaps after a Technical window is done, the potential exists, but not enough data exists to justify it at this point in time.
+Gearing up guide: <https://bit.ly/DNCGearingGuide>
 
-## ADVANCED
+\-- utility
 
-This last section is very niche, and is more for experienced players who are interested in small gains and theorycrafting. This guide will not be delving deeply into each topic. If you want to know more, stop by the Balance and feel free to ask in #dnc_questions.
+As previously mentioned, Dancer brings a lot of utility to the raid. By properly using these, you can lessen the strain on your healers by a sizable amount and allow them to spend more time on DPSing. This makes your kills faster and in turn also gives you more DPS as they will be pumping more damage into your raid buffs.
 
-### Damage Delay
+The noteworthy abilities are as follows:
 
-The short summary of this is that there is a lag time between when you cast an ability, and when the damage actually registers. When reviewing a log on fflogs, this is seen as the difference between “(Player Name) prepares (x)” and “(Player Name) (x)”.
+1. Shield samba. This ability has a 90 second cooldown and applies a 15 second buff to all nearby party members that reduces all damage taken by 10%. This is one of the strongest damage mitigations a DPS can bring as you do not have to target the boss and since the duration is considerably longer than other DPS mitigation abilities. These abilities will not stack with the Bard and Machinist versions, Troubadour and Tactician.
+2. Curing waltz. This 60 second cooldown heals party members in a 3 yalm range around you and your dancer partner for a small amount. That said, if you and your dance partner are stacked up the heal becomes notably more potent. Having your party stack up within this 3 yalm circle can heal a good chunk of damage on a fairly short cooldown.  While it is worth coordinating the usage of this ability in a static. I do not recommend getting party finder groups to play around this ability. In party finder, simply use it on cooldown when the party is stacked up and is not at full health.
 
-For Dancer, Standard Finish has a damage delay of approximately 0.65 seconds. However, popping Standard Finish within range of the boss will immediately start your auto-attacks, which have a damage delay of approximately 0.5-0.55 seconds.
+   Improvisation. This ability, when used, provides a  regen on all party members within an 8 yalm range. It also grants a stack of the Rising Rhythm buff every 3 seconds up to a maximum of 4 stacks. When the ability is used a second time, the button changes to improvised finish which applies a barrier equal to a percentage of the player's max hp. The barrier strength scales with the duration that it was channeled.Using this ability makes it so you are unable to deal damage, and thus it is  recommended to only fully channel the ability if there is downtime with no boss or adds targetable and you cannot prepare either standard step or technical step during the downtime instead.
+3. En Avant. This oGCD has up to 3 charges and allows you to quickly dash for 10 yalms in a straight line. Using this ability at key moments makes you very mobile.
 
-**In short, you should actually be using Standard Finish at -0.5s on the countdown timer**.
+\--- Last few notes
 
-### Ghosting
+If you have high ping you might have issues with double weaving or weaving after Standard Finish, Technical Finish, or Tillana. This can cause significant issues with clipping. However, there are ways to deal with this. For PC users, you can use third party addons such as NoClippy to decrease animation lock; as per all third party programs, use this at your own risk. For both PC users and Console users, you can also use a VPN to get a better route to the servers, possibly reducing ping.
 
-Related to damage delay, ghosting refers to using an ability on a target which then becomes invulnerable within ~0.5s. The ability will go off, any resources or procs used will be consumed, but the damage will not go through. Care should be made to avoid burning resources such as Saber Dance if there is a chance that the damage might ghost.
+XIVanalysis is a useful tool to help you analyze your rotation. Simply put in your fflogs report to see what you can improve upon. I recommend using this frequently whilst learning the job.
 
-### Buff Propagation
-
-The use of most raid buffs has an associated buff propagation. Players who are closer have the buff applied to them first, and as a result, the buff wears off on them first as well. This has a “ripple” effect depending on how close players were relative to each other. **Technical Finish is unique in that the buff is instantly applied to everyone**, but the **falloff still has a ripple effect**. This means that on use, Technical Step will have a 20.5s duration on the closest target (yourself) with a gain of 0.13s on each subsequent player affected. The player furthest away from you will have a total Technical Step buff duration that is closer to ~21.5s.
-
-### Positionals
-
-This is probably the least favorite discovery made while theorycrafting this expansion. Technical Step’s buff propagation does not just include allies; it also includes enemies. As a result, using Technical Finish while standing on an enemy’s hitbox will apply the damage on them first, and ripple the Technical buff on to yourself second (increasing the buff duration on yourself to 20.63s). This can be important for getting your last GCD under the Technical buff, especially once you include FPS tax (also not discussed in this document). Suffice to say, the combination of some of these factors is why a 2.49s set is recommended for this expansion.
-
-## FINAL WORDS
-
-That’s all! As always, please DM me at io#4617 if there are any questions, suggestions, or feedback. Feel free to also stop by the Dancer channels in the Balance.
-
-As always, I’d like to thank the other mentors and helpfuls at the Balance for their support, and for their help with this document and testing.
-
-- io
-
-## USEFUL RESOURCES
-
-See below regarding some helpful resources:
-
-1. **The Balance Discord**: [https://discord.com/invite/thebalanceffxiv](https://discord.com/invite/thebalanceffxiv)
-    1. Guides, BiS lists, etc. can be found in #dnc_resources and #dnc_encounter.
-    2. Dancer specific questions and discussions can be asked in #dnc_questions or #dnc_encounter; just make sure to grab the Dancer role.
-2. **Ringabel’s extensive DNC guide**: [https://bit.ly/DNCGuideEW](https://bit.ly/DNCGuideEW)
-    3. For a more in depth look on the class, including details that were omitted in this guide for the sake of brevity.
-3. **XIV Analysis**: [https://xivanalysis.com/](https://xivanalysis.com/)
-    4. A helpful site in which players can upload logs and have their gameplay analyzed in order to make adjustments and improvements.
-4. **Partnercalc**: (coming soon)
-    5. A site by Hint which analyzes each Standard Step window in a given log and determines which players were best to partner. Damage breakdowns are included.
+Things to look out for include maintaining good GCD uptime (as close to 100% as possible), avoiding weaving mistakes, avoiding broken combos, and making sure keystone skills such as Technical Finish, Devilment, and Flourish are used as often as possible
