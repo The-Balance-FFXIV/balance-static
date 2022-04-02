@@ -87,8 +87,8 @@ Due to it being AoE, it is also useful for dungeons, as well as situations such 
 
 ### "But My Pneuma Didn't Heal!"
 
-Due to game engine limitations, Pneuma works in a very odd way. The "target" of the ability is the enemies that it damages. The heal is actually implemented as a heal over time that applies instantly. However, sometimes the game client won't correctly show the change in HP, hence why sometimes people think it didn't work. In addition, the heal applies
-instantly as soon as the ability snapshot (0.5 seconds from the end of the cast, i.e. same as slidecasting), so it is easy to waste the heal by healing too early.
+Due to game engine limitations, Pneuma works in a very odd way. The "target" of the ability is the enemies that it damages, while the heal is actually implemented as a heal over time tick that applies instantly. However, even though it has applied on the server side, sometimes the game client won't correctly show the change in HP, which can mislead people into thinking that it didn't work at all. In addition, the heal applies
+as soon as the ability snapshots (0.5 seconds from the end of the cast, i.e. same as slidecasting), so it is easy to waste the heal by healing too early.
 
 
 
