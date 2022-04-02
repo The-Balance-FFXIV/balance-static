@@ -13,9 +13,9 @@ changelog:
 ---
 # ***Notable Endwalker Changes***
 
-* New Skills: Astrodyne, Macrocosmos, Exaltation, Minor Arcana
-* Sleeve Draw and Nocturnal Sect has been removed
-* Draw has gained two charges
+* New Skills: Astrodyne, Macrocosmos, Exaltation, Minor Arcana.
+* Sleeve Draw and Nocturnal Sect has been removed.
+* Draw has gained two charges.
 
 # ***Damage***
 
@@ -33,7 +33,7 @@ changelog:
 
 **Gravity II**
 
-* AoE damage in a 5y radius around your target  (130 potency), 1.5 cast time. 
+* AoE damage in a 5y radius around your target  (130 potency), 1.5s cast time. 
 * In dungeons, apply Combust while running and spam gravity when the tank stops. 
 * Gravity is a gain on two targets over Fall Malefic. 
 * Can weave one oGCD after this. 
@@ -66,16 +66,16 @@ changelog:
 **Benefic II**
 
 * Single target heal (800p), 1.5s cast time. 
-* Use in niche scenarios where you need a single target heal, every other single target heal is on cooldown,  and it's too late to use Aspected Benefic. 
+* Use in niche scenarios where you need a single target heal, every other single target heal is on cooldown, and it's too late to use Aspected Benefic. 
 * Can weave one oGCD after this. 
 
 ![](/img/jobs/ast/a.benefic.png)
 
 **Aspected Benefic**
 
-* Single target heal (250p) + regen (5 ticks of 250p), instant cast. Total heal potency: 1,500p
+* Single target heal (250p) + regen (five ticks of 250p), instant cast. Total heal potency: 1,500p.
 * Use it on allies who are taking sustained single target damage, most commonly autos on tanks.
-* Aspected Benefic has substantially higher total potency than Benefic II if you don't need immediate healing
+* Aspected Benefic has substantially higher total potency than Benefic II if you don't need immediate healing.
 
 ![](/img/jobs/ast/helios.png)
 
@@ -83,45 +83,45 @@ changelog:
 
 * AoE Healing in a 15y radius around you (400p), 1.5s cast time
 * Use in niche scenarios where you need extra AoE healing, can't wait for a tick of Aspected Helios and you have no oGCDs.
-* Can weave 1 oGCD after this
+* Can weave one oGCD after this.
 
 ![](/img/jobs/ast/a.helios.png)
 
 **Aspected Helios**
 
-* AoE Healing in a 15y radius around you  (250p) + regen (5 ticks of 150p), 1.5s cast time. Total healing: 1000p
-* Use in scenarios where you need an AoE GCD heals, use this over Medica as it becomes neutral to Medica with one regen tick and a heal gain with at least two ticks.
-* Can weave one oGCD after this
+* AoE Healing in a 15y radius around you  (250p) + regen (five ticks of 150p), 1.5s cast time. Total healing: 1000p
+* Use in scenarios where you need an AoE GCD heals, use this over Helios as it becomes neutral to Healios with one regen tick and a heal gain with at least two ticks.
+* Can weave one oGCD after this.
 
 ![](/img/jobs/ast/macro.png)
 
-**Macrocosmo 3m cd**
+**Macrocosmos 3m CD**
 
-* AoE damage in a 20y radius around you (250p for first target, 40% less for all remaining targets), instant cast GCD
-* Macrocosmo is damage neutral in one target
-* Gives party members a buff in a 20y radius around you (15s duration)
-* 50% of damage taken is compiled on each player separately
-* Damage done to shields, pure invulnerability and super bolide does not count towards the compiled damage, overkill damage does count 
-* Can be activated manually, but will automatically activate at the end of the buff duration
-* When you manually activate it, you will only activate for allies within 20y radius around you
-* When activated anyone with the buff will heal for 50% of the damage they have taken over its duration and an additional 200p
-* Can be used for movement if you do not need it for healing in the next three minutes
-* Uses a weave window when manually activating the healing effect
+* AoE damage in a 20y radius around you (250p for first target, 40% less for all remaining targets), instant cast GCD.
+* Macrocosmos is damage neutral in one target.
+* Gives party members a buff in a 20y radius around you (15s duration).
+* 50% of damage taken is compiled on each player separately.
+* Damage done to shields, pure invulnerability and Superbolide does not count toward the compiled damage, but overkill damage does count.
+* Can be activated manually, but will automatically activate at the end of the buff duration.
+* When you manually activate it, you will only activate for allies within 20y radius around you.
+* When activated anyone with the buff will heal for 50% of the damage they have taken over its duration and an additional 200p.
+* Can be used for movement if you do not need it for healing in the next three minutes.
+* Uses a weave window when manually activating the healing effect.
 
 ## oGCDs
 
 ![](/img/jobs/ast/dignity.png)
 
-**Essential Dignity 40s cd**
+**Essential Dignity 40s CD**
 
 * Single target heal (400p)
-* Healing potency increases the lower the target's HP gets, capping out at 900p when target HP reaches 30%
-* Has two charges
-* Use as your primary tank upkeep or to help heal a non tank if they get lower than everyone else.
+* Healing potency increases the lower the target's HP gets, capping out at 900p when target HP reaches 30%.
+* Has two charges.
+* Use as your primary tank upkeep or to help heal a non-tank if they get lower than everyone else.
 
 ![](/img/jobs/ast/intersect.png)
 
-**Celestial Intersection 30s cd**
+**Celestial Intersection 30s CD**
 
 * Single target heal(200p) + Shield (400p)
 * Has two charges
@@ -129,19 +129,19 @@ changelog:
 
 ![](/img/jobs/ast/exaltation.png)
 
-**Exaltation 60s cd**
+**Exaltation 60s CD**
 
-* Single target heal (500p) + Mitigation(10%)
-* Mitigation lasts 8s, after the 8s, Exaltation heals the target for 500p
-* Use as a tank buster cooldown assistance, can also be used to deal with heavy auto attacks if no tank busters are coming up during its cooldown. best case scenario is to use it as both 
+* Mitigation (10%) + Single target heal (500p, delayed)
+* Mitigation lasts eight seconds, after the eight seconds, Exaltation heals the target for 500p.
+* Use as a tank buster cool-down assistance, can also be used to deal with heavy auto attacks if no tank busters are coming up during its cooldown. Best case scenario is to use it as both.
 
 ![](/img/jobs/ast/opposition.png)
 
-**Celestial Opposition 60s cd**
+**Celestial Opposition 60s CD**
 
-* AoE heal (200p) + Regen (5 ticks of 100p)
+* AoE heal (200p) + Regen (five ticks of 100p)
 * Total heal potency: 700p
-* Celestial Opposition has a strong heal on a short cooldown, making sure to utilize this ability often.
+* Celestial Opposition has a strong heal on a short cooldown, make sure to utilize this ability often.
 
 ![](/img/jobs/ast/collective-uncon.png)
 
