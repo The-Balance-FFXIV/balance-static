@@ -1,99 +1,120 @@
 ---
 title: Gunbreaker Leveling Guide
 card_header_image: /img/jobs/gnb/leveling.png
-authors:
-  - ToraelValdis
-patch: "5.58"
+authors: []
+patch: "6.1"
 lastmod: 2021-10-25T21:25:32.151Z
 changelog:
   - date: 2021-10-25T21:25:48.261Z
     message: Created article
 ---
-# AoE or Single Target + Leveling
+# Leveling Guide
 
-The basics of GNB gameplay will change depending on what Character Level you are currently playing at. Even though GNB starts at level 60, sometimes you may be Level Synced to below 60. 
 
-**No Mercy** is unlocked at level 2, so you will have it available for any content. While in combat, you should always use No Mercy on cooldown. This is *not* a list of openers, but a general priority of what you should be using at each level. Even though they will not be listed, remember to use your oGCDs on cooldown or as close to on cooldown as possible while in combat. 
+
+Like any other class you may have to do lower level content and of course will need to Level from Level 60 to Level 90 if forgoing a jump book so it’s important to keep on top of GNB especially at Level 70 due to sync for **The Weapon’s Refrain (Ultimate)** and **The Unending Coil of Bahamut (Ultimate).**
+
+**No Mercy** is unlocked at Level 2 so it’s used in all forms of content from the beginning of A Realm Reborn up to current content in Endwalker. No Mercy is standard and should be used on cooldown, though the abilities and weaponskills available to you will expand as your level increases.
+
+
 
 # Level 15-29
 
-*(Solid Barrel Unlocked at 26)*
+One to Two Targets:
 
-One to Two Targets:\
-Keen Edge -> Brutal Shell (-> Solid Barrel) 
+* Solid Barrel Combo: Keen Edge ➔ Brutal Shell ➔ Solid Barrel
 
-3+ Targets:\
-Demon Slice spam
+3+ Targets:
+
+* Demon Slice spam
 
 # Level 30-39
 
-One Target:\
-Keen Edge -> Brutal Shell -> Solid Barrel -> Burst Strike
+One Target:
 
-Two Targets:\
-Demon Slice spam
+* Cart Generation: Solid Barrel Combo
+* Dump carts with Burst Strike
+* Enter No Mercy with 2 carts, Burst Strike spam and continue with the above priority
 
-It is optimal to spend all Burst Strikes under No Mercy unless you would overcap. (i.e. if you have 2 Cartridges, use a Burst Strike before finishing the next Solid Barrel combo so you don't waste a Cartridge by overcapping.) **This applies at all levels.**
+Two Targets:
+
+* Demon combo
+* Continue to use Demon Combo instead of Burst Strike at **3 Targets.**
 
 # Level 40-59
 
-*(Sonic Break Unlocked at 54)*
-
-One Target:\
-(Sonic Break ->) Keen Edge -> Brutal Shell -> Solid Barrel -> Burst Strike
-
-Two Targets:\
-(Sonic Break ->) Demon Slice -> Demon Slaughter -> Burst Strike
-
-3+ Targets:\
-(Sonic Break ->) Demon Slice -> Demon Slaughter\
-(Ignore cartridges)
-
-For now, it will often be optimal to ignore cartridges in AoE until Fated Circle is unlocked at 72.\
-Sonic Break should always be used under No Mercy. 
+* Same as Lvl. 30-39
+* Sonic Break is unlocked at Lvl. 54, Rough Divide at Lvl. 56 and are to be used inside your No Mercy windows
 
 # Level 60-71
 
-One Target:\
-Sonic Break -> Keen Edge -> Brutal Shell -> Solid Barrel -> Burst Strike;
-Gnashing Fang -> Savage Claw -> Wicked Talon every 30 seconds. 
+As you gain access to the Gnashing Fang combo at Lvl 60. you want to use one of your stored carts for the combo instead of a burst strike. Gnashing Fang is every 30s so it will be available for No Mercy if used on cooldown.
 
-Two Targets:\
-Sonic Break -> Demon Slice -> Demon Slaughter -> Burst Strike; 
-Gnashing Fang -> Savage Claw -> Wicked Talon every 30 seconds. 
 
-Three Targets:\
-Sonic Break -> Demon Slice -> Demon Slaughter; 
-Gnashing Fang -> Savage Claw -> Wicked Talon every 30 seconds.
-(Ignore Cartridges except for Gnashing Fang)
 
-4+ Targets:\
-Sonic Break -> Demon Slice -> Demon Slaughter 
-(Ignore Cartridges and Gnashing Fang)
+One Target:
 
-From Level 60 onward, you should always save a Cartridge for Gnashing Fang instead of using it for Burst Strike/Fated Circle when Gnashing Fang has 10s or less on its cooldown.
+* Cart Generation: Solid Barrel Combo
+* Gnashing Fang Combo + Danger Zone every 30s
+* Rough Dividex2, Bow Shock + Sonic Break under No Mercy
+* Burst Strike additional carts to avoid overcapping
 
-From Level 70 onward, Gnashing Fang, Savage Claw, and Wicked Talon should always be followed by their respective Continuation actions (Jugular Rip, Abdomen Tear, and Eye Gouge respectively).
+
+
+Two Targets:
+
+* Cart Generation: Demon Combo
+* Gnashing Fang Combo + Danger Zone every 30s
+* Rough Dividex2, Bow Shock + Sonic Break under No Mercy
+* Burst Strike additional carts to avoid overcapping
+
+3 Targets:
+
+* Cart Generation: Demon Combo
+* Gnashing Fang Combo + Danger Zone every 30s
+* Rough Dividex2, Bow Shock + Sonic Break under No Mercy
+* Only use carts for Gnashing Fang Combo
+
+
+
+4+ Targets:
+
+* Cart Generation: Demon Combo
+* Danger Zone every 30s
+* Rough Dividex2, Bow Shock + Sonic Break under No Mercy
+* Ignore carts
+
+*Fated Circle is unlocked at Lvl. 72, as a result it cannot be used in **UCoB** or **UWU**. Keep this in mind for phases where you do multi-target; Garuda, Ifrit, UCoB Adds. In this case Burst Strike to avoid overcapping on 2 targets, ignore carts on 3.*
 
 # Level 72+
 
-One Target:\
-Sonic Break -> Keen Edge -> Brutal Shell -> Solid Barrel -> Burst Strike; 
-Gnashing Fang -> Savage Claw -> Wicked Talon every 30s
+One Target:
 
-Two to Three Targets:\
-Sonic Break -> Demon Slice -> Demon Slaughter -> Fated Circle;
-Gnashing Fang -> Savage Claw -> Wicked Talon every 30s
+* Cart Generation: Solid Barrel Combo
+* Gnashing Fang Combo + Danger Zone every 30s
+* Rough Dividex2, Bow Shock + Sonic Break under No Mercy
+* Burst Strike additional carts to avoid overcapping
 
-4+ Targets:\
-Sonic Break -> Demon Slice -> Demon Slaughter -> Fated Circle\
-(Ignore Gnashing Fang)
+Two Targets:
+
+* Cart Generation: Demon Combo
+* Gnashing Fang Combo + Danger Zone every 30s
+* Rough Dividex2, Danger Zone, Bow Shock + Sonic Break under No Mercy
+* Fated Circle additional carts to avoid overcapping
+
+3+ Targets:
+
+* Cart Generation: Demon Combo
+* Danger Zone every 30s
+* Rough Dividex2, Bow Shock + Sonic Break under No Mercy
+* Fated Circle additional carts to avoid overcapping
+
+*Bloodfest is unlocked at Lvl. 76. Use it on cooldown. Dump carts before use to ensure you don’t overcap.*
+
+
 
 # Essentially at Level 80:
 
-For One Target: Solid Barrel combo and Burst Strike.\
-For Two or More Targets: Demon Slaughter combo and Fated Circle.
 
-Continue to use the Gnashing Fang combo on cooldown until there are 4+ targets. At 4+ you should ignore the Gnashing Fang combo and only use the Demon Slaughter combo and Fated Circle. 
 
-Use No Mercy on cooldown regardless of how many targets you have. Whether or not Sonic Break is useful in multi-target fights will depend on how long it will be on the target as well as the number of targets. Whether to use it or not will be a case-by-case basis. At somewhere around 5+ targets, it likely will be a loss to use regardless.
+A lot of the guide’s core rules are applicable at Lvl. 80, such as the rules of Bloodfest, Continuation and No Mercy. The only differences between Lvl. 80 to Lvl. 90 are the lack of a third cart, no Hypervelocity and no Double Down, but the rotational rules still apply.
