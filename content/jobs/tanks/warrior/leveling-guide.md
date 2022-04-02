@@ -80,12 +80,12 @@ The basic opener for single-target fights is:
 * Maim
 * Storm's Path
 
-Once you hit lvl54, your Inner Beast turns into Fell Cleave. At lvl60, your Steel Cyclone turns into Decimate.
+Once you hit lvl 54, your Inner Beast turns into Fell Cleave. At lvl 60, your Steel Cyclone turns into Decimate.
 
 The AoE effectiveness basics are:
 
 * Fell Cleave at one to two targets
-* Decimate at 3+ targets
+* Decimate at three or more targets
 * Again, we are skipping the basic AoE rotation effectiveness here, and the Beast Gauge, entirely.
 
 Basic rotation is:
@@ -106,7 +106,7 @@ Carry on as before, but this time with a slight addition:
 The basic opener for single-targets:
 
 * Tomahawk +Infuriate
-* Heavy swing
+* Heavy Swing
 * Maim +Berserk
 * Storm's Eye +Upheaval
 * Fell Cleave +Infuriate
@@ -119,9 +119,9 @@ The basic opener for single-targets:
 
 # 70-71: Unleash the Inner Release
 
-So, you finally hit lvl70 and unlocked the trait that turns Berserk into Inner Release.\
+So, you finally hit lvl 70 and unlocked the trait that turns Berserk into Inner Release.  \
 
-This is where the end-game rotation begins. Read the tooltip of Inner Release and realize that you get a free pass to use Gauge spenders for ten seconds.
+This is where the end-game rotation begins. Read the tooltip of Inner Release and realize that you get a free pass to use Gauge spenders for three GCDs. Remember to use these stacks on Fell Cleaves, and nothing else.
 
 There are variations to the opener, but we’ll go with the one below for now.
 
@@ -157,7 +157,7 @@ For now, we’ll be using Chaotic Cyclone as a 50 Gauge spender, even on single-
 
 # 76: Nascent Flash
 
-Funny skill! Use it on a party member that you wish to heal. For each weapon skill (GCD) you land on a target (or targets), you recover health to the party member, and yourself. This skill also comes with 10% (4s) + 10% (8s) mitigation for your party member, that doubles up for a total of 19% mitigation for the first 4 seconds.\
+Funny skill! Use it on a party member that you wish to heal. For each weapon skill (GCD) you land on a target (or targets), you recover health to the party member, and yourself. This skill also comes with 10% (4s) + 10% (8s) mitigation for your party member, that doubles up for a total of 19% mitigation for the first four seconds.\
 \
 Nascent Flash on a party member. \
 Heavy Swing hits a target. \
@@ -171,9 +171,9 @@ You recover health seven times, your party member recovers health seven times. \
 
 # 80: Inner Chaos
 
-At lv80, using Infuriate turns your Fell Cleave into Inner Chaos. Much like Chaotic Cyclone, IC always Direct Hit Crits, hitting big.
+At lvl 80, using Infuriate turns your Fell Cleave into Inner Chaos. Much like Chaotic Cyclone, IC always Direct Hit Crits, hitting big.
 
-At this point of the game, the opener changes again. As Inner Chaos always Direct Hit Crits, we don't want to use it inside Inner Release.
+At this point of the game, the opener changes again. As Inner Chaos always Direct Hit + Crits, we don't want to use it inside Inner Release.
 
 Opener:
 
