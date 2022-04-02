@@ -119,9 +119,9 @@ The basic opener for single-targets:
 
 # 70-71: Unleash the Inner Release
 
-So, you finally hit lvl70 and unlocked the trait that turns Berserk into Inner Release.\
+So, you finally hit lvl70 and unlocked the trait that turns Berserk into Inner Release.  \
 
-This is where the end-game rotation begins. Read the tooltip of Inner Release and realize that you get a free pass to use Gauge spenders for ten seconds.
+This is where the end-game rotation begins. Read the tooltip of Inner Release and realize that you get a free pass to use Gauge spenders for three GCDs. Remember to use these stacks on Fell Cleaves, and nothing else.
 
 There are variations to the opener, but we’ll go with the one below for now.
 
