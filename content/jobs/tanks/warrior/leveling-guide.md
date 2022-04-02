@@ -28,13 +28,13 @@ We want Strength and Vitality. And Weapon Damage. *Lots of Weapon Damage.* The m
 
 - - -
 
-# 1-30: Do the combo.
+# 1-30: Do the combo
 
 Use Berserk, as it gives you more damage and there’s no downside to it. You’ll only hit combo GCDs for now, along with Overpower. Use Tomahawk when pulling single targets.  
 
 Raw Potency-wise, Overpower is equally effective at two targets before lvl 26. When you unlock the Storm’s Path (lvl26), that balance tips over to “Overpower at three targets and up”. You still want to use Overpower to initially grab packs of mobs in one hit, though.
 
-Thrill of Battle (lvl30) is nice, as it acts as a re-fillable bubble. Use it to survive damage spikes.
+Thrill of Battle (level 30) is nice, as it acts as a re-fillable bubble. Use it to survive damage spikes.
 
 - - -
 
@@ -149,17 +149,22 @@ Opener is:
 
 # 72+: Nascent Chaos enters the arena.
 
-At lvl72, we unlock the “Nascent Chaos” buff that triggers every time after using Infuriate. This turns our Gauge spenders into a more powerful version of themselves. We don’t get the upgraded Fell Cleave yet, though. We get the AoE upgrades first. Enter “Chaotic Cyclone”. Read the tooltip.
+At level 72, we unlock the “Nascent Chaos” buff that triggers every time after using Infuriate. This turns our Gauge spenders into a more powerful version of themselves. We don’t get the upgraded Fell Cleave yet, though. We get the AoE upgrades first. Enter “Chaotic Cyclone”. Read the tooltip.
 
-For now, we’ll be using Chaotic Cyclone as a 50 gauge spender, even on single-target situations. If Fell Cleave were to Direct Hit + Crit, it would win out. However, Chaotic Cyclone *always* does this, which leads to higher average damage results.
+For now, we’ll be using Chaotic Cyclone as a 50 Gauge spender, even on single-target situations. If Fell Cleave were to Direct Hit + Crit, it would win out. However, Chaotic Cyclone *always* does this, which leads to higher average damage results.
 
 - - -
 
 # 76: Nascent Flash
 
-Funny skill, heals you for 50% of the damage you deal, and heals a party member for 50% of what healed you.\
-Basically 75% of your damage is turned into healing, for the next six seconds.\
+Funny skill! Use it on a party member that you wish to heal. For each weapon skill (GCD) you land on a target (or targets), you recover health to the party member, and yourself. This skill also comes with 10% (4s) + 10% (8s) mitigation for your party member, that doubles up for a total of 19% mitigation for the first 4 seconds.\
 \
+Nascent Flash on a party member. \
+Heavy Swing hits a target. \
+You recover health, your party member recovers health. \
+Overpower hits seven targets. \
+You recover health seven times, your party member recovers health seven times. \
+
 ***You are now the healer.***
 
 - - -
