@@ -11,15 +11,39 @@ changelog:
   - date: 2022-04-02T20:41:57.590Z
     message: Added Endwalker relevant questions.
 qna:
+  - question: I heard GNB is clunky and bad to play, is this true?
+    answer: That’s the opinion of some players but that’s all it is, opinion. Others
+      have the opinion that it’s fun. Play it and decide for yourself.
+  - question: Can I do a single weave rotation?
+    answer: Can you? Yes. But you will still be forced to double weave at some point
+      so you should look at fixing the issues forcing you to single weave for a
+      better experience. If your latency is bad enough that double weaving is an
+      issue, try moving a necessary weave to be paired with **Savage Claw**, as
+      this weaponskill has the lowest animation lock of any GNB action, and plan
+      weaving mitigation in before your burst to avoid having to press too many
+      buttons.
+  - question: I heard it’s hard to move bosses as GNB? This true?
+    answer: Yes if you’re inexperienced. Some bosses are easier to move than others.
+      However, this again stems from experience in stutter stepping between
+      continuations to move the boss.
+  - question: " I used Superbolide but died anyway, why? I was told it puts you to
+      1HP first and then gives you the invuln?"
+    answer: This isn't necessarily true. Reality is your HP was likely very low and
+      the damage of the enemies snapshotted before Bolide added the buff, this
+      can happen to any Invul as they all have a delay and as such if damage is
+      applied before the buff, you'll be KO'd. This isn't exclusive to
+      Superbolide.
+  - question: Is it worth changing my rotation/opener to secure more Hypervelocity
+      uses in No Mercy?
+    answer: Hypervelocity is 180 potency, 216 under No Mercy which is a 36 potency
+      gain. It’s not substantial enough to change the rotation or risk moving
+      harder hitting abilities later which may result in missing No Mercy’s
+      buff.
   - question: Do I hold Bloodfest for No Mercy?
     answer: No. Bloodfest is a 90s CD and NM is 60s, meaning they’ll eventually line
       up if both are used on cooldown. Holding Bloodfest frequently will cause
       you to lose usages and in turn lose damage. You should only hold usages if
       they are a damage gain, and losing a usage is rarely actually a gain.
-  - question: I heard it’s hard to move bosses as GNB? This true?
-    answer: Yes if you’re inexperienced. Some bosses are easier to move than others.
-      However, this again stems from experience in stutter stepping between
-      continuations to move the boss.
   - question: What if I misaligned my Gnashing Fang from No Mercy because of
       Downtime/user error?
     answer: >-
@@ -31,23 +55,6 @@ qna:
 
 
       More than 17s on No Mercy? Don't hold Gnashing Fang because it will come up during the latter half of No Mercy.
-  - question: Is it worth changing my rotation/opener to secure more Hypervelocity
-      uses in No Mercy?
-    answer: Hypervelocity is 180 potency, 216 under No Mercy which is a 36 potency
-      gain. It’s not substantial enough to change the rotation or risk moving
-      harder hitting abilities later which may result in missing No Mercy’s
-      buff.
-  - question: Can I do a single weave rotation?
-    answer: Can you? Yes. But you will still be forced to double weave at some point
-      so you should look at fixing the issues forcing you to single weave for a
-      better experience. If your latency is bad enough that double weaving is an
-      issue, try moving a necessary weave to be paired with **Savage Claw**, as
-      this weaponskill has the lowest animation lock of any GNB action, and plan
-      weaving mitigation in before your burst to avoid having to press too many
-      buttons.
-  - question: I heard GNB is clunky and bad to play, is this true?
-    answer: That’s the opinion of some players but that’s all it is, opinion. Others
-      have the opinion that it’s fun. Play it and decide for yourself.
   - question: Should I stack more SkS to get 9GCDs in NM?
     answer: It’s hard to answer this question conclusively for every situation, but
       yes more SkS is an option. However, there are other factors in regards to
@@ -80,13 +87,6 @@ qna:
       you’ll have to account for in future NM windows. Unfortunately GNB’s
       solution for mistakes is just “Deal with it and don’t let it happen in
       future pulls.” due to how strict the rotation is.
-  - question: " I used Superbolide but died anyway, why? I was told it puts you to
-      1HP first and then gives you the invuln?"
-    answer: This isn't necessarily true. Reality is your HP was likely very low and
-      the damage of the enemies snapshotted before Bolide added the buff, this
-      can happen to any Invul as they all have a delay and as such if damage is
-      applied before the buff, you'll be KO'd. This isn't exclusive to
-      Superbolide.
 authors:
   - Balance-GNB-Staff
 ---
