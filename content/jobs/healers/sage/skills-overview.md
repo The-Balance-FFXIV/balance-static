@@ -63,9 +63,8 @@ The general priority for when to use Phlegma charges is:
 1. AoE, when needed. Hitting even just one additional target puts it at +50% potency.
 2. Two-minute burst windows. On a full-uptime fight, you will be able to use two charges in the opener, and then again at:
    Two, six, eight, and twelve minute marks.
-3. With a Ninja, dump remaining charges on one-minute burst windows.
-4. Movement. Phlegma is an instant GCD, so it allows free movement for its entire recast time.
-5. Dump any remaining charges to avoid overcapping, or before a boss goes untargetable for a long enough period of time to make you overcap.
+3. Movement. Phlegma is an instant GCD, so it allows free movement for its entire recast time.
+4. Dump any remaining charges to avoid overcapping, or before a boss goes untargetable for a long enough period of time to make you overcap.
 
 
 
