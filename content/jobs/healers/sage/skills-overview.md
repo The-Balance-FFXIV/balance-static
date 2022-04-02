@@ -3,8 +3,8 @@ title: Sage Skills
 authors:
   - Balance-SGE-Staff
   - wynn
-patch: "6.08"
-lastmod: 2022-03-24T05:42:21.461Z
+patch: "6.10"
+lastmod: 2022-04-12T19:59:51.652Z
 changelog:
   - date: 2022-01-24T08:39:05.371Z
     message: Added page
@@ -12,6 +12,8 @@ changelog:
     message: Updated
   - date: 2022-03-24T05:42:09.732Z
     message: Fixed Heading Levels
+  - date: 2022-04-12T19:59:56.557Z
+    message: Removed trick attack
 ---
 # Before you Start: Eukrasia
 
