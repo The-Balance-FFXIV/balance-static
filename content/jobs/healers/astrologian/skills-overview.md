@@ -337,9 +337,9 @@ changelog:
 * This buff grants effects based on the number of unique seals you have.
 
  
-   * At least one unique seal gives you 500mp over 15s.
-   * At least two seals give you 10% haste plus 500mp over 15s.
-   * At least three seals increase your outgoing damage and healing by 5% plus 10% haste and 500mp over 15s.
+   * One unique seal gives you 500mp over 15s.
+   * Two seals give you 10% haste plus 500mp over 15s.
+   * Three seals increase your outgoing damage and healing by 5% plus 10% haste and 500mp over 15s.
    * Aim to get at least two unique seals to get the haste buff, while it's ideal to get three unique seals, it's not always optimal to redraw for it and the damage buff is a small gain compared to the haste buff.
 
 * Haste isn't the same as spellspeed so it will not increase DoT damage
