@@ -13,6 +13,8 @@ changelog:
   - date: 2022-04-02T23:53:33.130Z
     message: Updated for Endwalker
 ---
+![](/img/jobs/dnc/advanced1.png)
+
 <p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 5.</p>
 <ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
 
