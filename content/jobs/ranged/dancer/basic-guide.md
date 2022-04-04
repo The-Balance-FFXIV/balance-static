@@ -20,6 +20,8 @@ Welcome to the basic Dancer guide. Within this document, you’ll find all the i
 
 For a video version of this guide [click here](https://www.youtube.com/watch?v=FbVqyAfM-hg)!
 
+{{< youtube FbVqyAfM-hg >}}
+
 # Useful Resources
 
 [Skill Overview](https://www.thebalanceffxiv.com/jobs/ranged/dancer/skills-overview/)
@@ -62,7 +64,7 @@ To perform these dances correctly, you simply look at the gauge and perform the 
 
 (A dance will never have the same step twice.)
 
-{{< youtube FbVqyAfM-hg&t=167 >}}
+{{< youtube FbVqyAfM-hg?t=167 >}}
 
 &nbsp;
 
