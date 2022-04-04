@@ -2,7 +2,7 @@
 title: Gunbreaker Openers
 authors:
   - Balance-GNB-Staff
-patch: "6.08"
+patch: "6.1"
 lastmod: 2022-02-02T23:31:16.026Z
 changelog:
   - date: 2021-10-25T21:38:35.164Z
