@@ -16,7 +16,7 @@ changelog:
 ---
 # Foreword
 
-Welcome to the basic Dancer guide. Within this document, you’ll find all the information you’ll need to learn to play the job. Other links will be included below for further references and resources. Any further questions can also be directed to the Dancer channels in the Balance’s discord. 
+Welcome to the basic Dancer guide. Within this document, you’ll find all the information you’ll need to learn to play the job. Other links will be included below for further references and resources. Any further questions can also be directed to the Dancer channels in the Balance’s Discord. 
 
 For a video version of this guide:
 
