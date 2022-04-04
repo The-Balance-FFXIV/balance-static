@@ -20,7 +20,7 @@ Welcome to the basic Dancer guide. Within this document, you’ll find all the i
 
 For a video version of this guide:
 
-{{< youtube [FbVqyAfM-hg](https://youtu.be/FbVqyAfM-hg&t=167) >}}
+{{< youtube FbVqyAfM-hg >}}
 
 # Useful Resources
 
@@ -64,7 +64,7 @@ To perform these dances correctly, you simply look at the gauge and perform the 
 
 (A dance will never have the same step twice.)
 
-{{ youtube FbVqyAfM-hg }}
+{{< youtube FbVqyAfM-hg&t=167 >}}
 
 &nbsp;
 
