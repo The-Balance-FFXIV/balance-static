@@ -20,7 +20,7 @@ Welcome to the basic Dancer guide. Within this document, you’ll find all the i
 
 For a video version of this guide:
 
-{{< youtube FbVqyAfM-hg >}}
+{{< youtube FbVqyAfM-hg >}}.
 
 # Useful Resources
 
