@@ -332,8 +332,6 @@ If weaponskills like Gnashing Fang are used on cooldown they will eventually mis
 
 * A filler can count as anything that is a combo action, Lightning Shot (if you are out of range), or pure downtime. (Try to avoid downtime).
 
-
-
 #### Gnashing Fang ➞ No Mercy 
 
 Due to the nature of how Gunbreaker is in Endwalker, if you follow the rotation as intended you will eventually come to a situation at certain intervals where you will have:
@@ -391,23 +389,23 @@ CD: 60s per charge
 **Camouflage**
 
 Reduces damage taken by 10% for 20 seconds. Gives +50% parry rate (for a total of 60% parry rate) for 20 seconds. Parry only works on physical damage and reduces damage by 15% when it applies. \[The 10% damage reduction applies regardless of if the attack is physical or magical.]\
-CD: 90s
+**CD: 90s**
 
 ![Rampart](/img/jobs/tanks/gunbreaker/Rampart.png)
 **Rampart**
 
-Role action. Reduces damage taken by 20% for 20 seconds. 90 second cooldown.
+Reduces damage taken by 20% for 20 seconds. \
+**CD: 90s**
 
 ![Nebula](/img/jobs/tanks/gunbreaker/Nebula.png)
 **Nebula**
 
 Reduces damage taken by 30% for 15 seconds. \
-**CD: 2m**
+**CD: 120s**
 
 ![](https://lh5.googleusercontent.com/K6uBTa9FPPh6NInJKmeOm9zMTCkY5WdsW6mwYRSKLe2xr3reLOWXayX3Q93k2lm2Yx2_40aVpRfQLnBMTfVgA7t0eo3sviyMmBFoEtBLsjA-TtvSvtk-R7jfDz-2c5MvkjblG-9q)
 
-**Heart of Corundum**
-
+**Heart of Corundum** \
 Reduces damage taken by a party member or self by 15%.\
 Duration: 8s\
 Additional Effect: When targeting a party member while under the effect of Brutal Shell, that effect is also granted to the target\
@@ -418,12 +416,9 @@ Duration: 4s\
 Additional Effect: Grants Catharsis of Corundum to target\
 Catharsis of Corundum Effect: Restores HP when HP falls below 50% or upon effect duration expiration\
 Cure Potency: 900\
-Duration: 20sCD: 25s**\
-*We will go in depth about Heart of Corundum below.***
-
-
-
-
+Duration: 20s\
+**CD: 25s**\
+*We will go in depth about Heart of Corundum below.*
 
 ![Superbolide](/img/jobs/tanks/gunbreaker/Superbolide.png)
 **Superbolide**
@@ -442,7 +437,8 @@ Reduces damage taken by 15% for seven seconds. Can be used on self or a target p
 ![ArmsLength](/img/jobs/tanks/gunbreaker/Arms_Length.png)
 **Arm’s Length**
 
-Role action. Makes you immune to most knockback or draw-in effects for 6 seconds. Applies a 20% slow to enemies that attack you while Arm’s Length is active (This means enemies will attack you 20% slower, very useful for dungeons!). 120s cooldown.
+Role action. Makes you immune to most knockback or draw-in effects for 6 seconds. Applies a 20% slow to enemies that attack you while Arm’s Length is active (This means enemies will attack you 20% slower, very useful for dungeons!). \
+**CD: 120s**
 
 ## Utility Off Global Cool Down Abilities
 
@@ -481,166 +477,82 @@ Role action. Puts you at the top of the enmity list and gives 2000 potency worth
 
 Role action. Transfers 25% of your enmity to a target party member. This effect applies to all enemies on your aggro table.
 
-# Combos
+## Defensive Breakdown
 
-GNB has three combos. The **Solid Barrel** combo, **Demon Slaughter** combo, and **Gnashing Fang** combo. 
+Using your defensive cooldowns properly is an important part of maximizing your effectiveness as a tank, and timing your abilities correctly will ensure you’re getting the most out of your kit while reducing your total incoming damage for the encounter. Stacking mitigation is also optimal to do, especially in high end content where the damage received is likely going to KO you without stacking your mitigation together. However, you can also stack too much which will leave you without options later, so make sure you’re pacing yourself appropriately for the encounter. 
 
-![SolidBarrelCombo](/img/jobs/tanks/gunbreaker/Solid_Barrel_Combo.png)
+**Weaving mitigation** is a topic a lot of people bring up. Using Mitigations such as Rampart and Camouflage can be done before your No Mercy as they have a substantial duration, and abilities such as Heart of Corundum can be weaved around a GCD such as Double Down and Sonic Break, as neither have forced oGCDs due to lacking Continuation. If you need to weave during the later part of No Mercy; you can float Rough Divide, as it is the lowest-potency attack inside a No Mercy Window.
 
-If you are unfamiliar with combo based classes in FFXIV, the game has a handy system to show you what combo skill to hit next. A dotted yellow outline will appear around the next skill in the combo. You have 15 seconds (or about 5 GCDs) to hit the next combo action before the combo deactivates (breaks). Using any other GCD ability will break combos as well, with some exceptions. 
+* Rampart: Is an all around solid defensive CD due to its duration. 20% and 20s uptime, meaning it can take a tank buster and persist long enough to cover following autos if needed. Ideally you want to alternate between Rampart and Nebula when dealing with tank busters, and you rarely want to stack them as it’ll leave you with fewer options later. A more appropriate option is to stack Camouflage with Rampart, as they share the same duration and same cooldown.
+* Nebula: One of your best cooldowns as it provides a better % reduction than Rampart, but it has a shorter duration and longer cooldown. As such, it requires some planning - you need to be aware that it will be up less, which means that using it pre-emptively will require stricter planning, and planning ahead is also going to be stricter due to the longer cooldown. While a great tool, you need to ensure you have it up when needed and to make sure you have options available when it isn’t.
+* Camouflage: Very ideal for auto management due to the increased parry rate and baseline 10% DR. While not the best cooldown by itself for a tank buster, as the 10% is your only guaranteed mitigation and the parry may either not activate or not be even possible due to a magic tank buster, it’ll help alleviate damage intake while autos are coinciding with mechanics that your healers may be dealing with. As mentioned above it can be stacked with Rampart to give yourself a strong combo of parry and decent DR, but keep in mind this will leave you a bit scarce after the fact if you’re tanking and taking autos.
 
-| **Keen Edge->**                                       | **Brutal Shell->**                                          | **Solid Barrel**                                            |
-| ----------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- |
-| ![KeenEdge](/img/jobs/tanks/gunbreaker/Keen_Edge.png) | ![BrutalShell](/img/jobs/tanks/gunbreaker/Brutal_Shell.png) | ![SolidBarrel](/img/jobs/tanks/gunbreaker/Solid_Barrel.png) |
 
-Solid Barrel combo is our single target combo. Builds one Cartridge.
 
-| **Demon Slice->**                                         | **Demon Slaughter**                                               |
-| --------------------------------------------------------- | ----------------------------------------------------------------- |
-| ![DemonSlice](/img/jobs/tanks/gunbreaker/Demon_Slice.png) | ![DemonSlaughter](/img/jobs/tanks/gunbreaker/Demon_Slaughter.png) |
+**Heart of Corundum:** Our new tool and a great support and self management ability. Heart of Corundum is part of SE’s new sort of “Reward” system for tanks where they provide a short timed buff on top of the base buff, which if timed correctly will let you mitigate more. How Heart of Corundum works is you gain 3 buffs:
 
-Demon Slaughter combo is our 2+ target AoE combo. Builds one Cartridge.
-We will talk about when to use Solid Barrel combo vs Demon Slaughter combo in the next section. 
+* Heart of Corundum: 15% DR to self or party member for 8s
+* Clarity of Corundum: 15% DR to self or party member for 4s.
+* Catharsis of Corundum: 900 potency heal when effect expires or when health is reduced below 50% on self or target. Buff duration 25s.
 
-![GnashingFangCombo](/img/jobs/tanks/gunbreaker/Gnashing_Fang_Combo.png)
+\*The effect of your Brutal Shell shield is also granted to another target, but use on yourself will not affect your own Brutal Shell shield. This is also present for Heart of Stone.
 
-**Gnashing Fang -> Jugular Rip -> Savage Claw -> Abdomen Tear -> Wicked Talon -> Eye Gouge**
+* **Heart of Corundum** provides a 27.75%~ damage reduction for the first 4 seconds of its duration as the two damage reductions from Heart of Corundum and Clarity of Corundum stack together to provide a very strong opening effect which decays to 15% after 4s. While this persists, you have Catharsis of Corundum which provides a great 900 pot heal (which can crit!). Corundum has no cost, no drawback, and a short cooldown, and is therefore an extremely powerful and versatile tool to use for support and self-sustain. However, utilizing it to its maximum potential requires you to make use of **Clarity of Corundum**. Personally, when double weaving any mitigation, I tend to weave Corundum second to ensure Clarity is present for the tank buster. That being said, keep in mind that any late mitigation will miss the damage snapshot and instead of a nice 27.75% you’ll get 0%. You ideally always want your main mitigations with Heart of Corundum for heavy hitting tank busters.
+* **Aurora**: A simple HoT that provides some support. Aurora is not strong enough to help heal you up from tank busters if you’re pushed into a corner nor can it alone realistically help heal you up from using Superbolide as it only ticks once every 3s, while Heart of Corundum excels at both those points. However, Aurora is a good tool to help counteract autos, DoTs and also save your healers some resources during downtime if you place it on yourself or another member. Using Aurora twice on a target does not extend the buff by 16s, it merely refreshes it to a max duration of 16s. As such, you can refresh early and waste HoT ticks.
+* **Superbolide**: While a bit infamous, Superbolide is actually a very very good CD when used properly. Reality is people tend to find dropping to 1HP insane, but that’s ultimately how ¾ invulns work if the damage was going to KO you. If it wasn’t? Then practically all those invulns were wasted. Superbolide can be destructive if used improperly, but when used properly and when it’s coordinated with your healers, it is very very strong. Corundum and Aurora together can help heal you back up during the 10s duration with some support from healers, and unlike Living Dead you do not require your entire pool of health to be restored, just enough to survive the oncoming damage when the buff expires. I recommend telling your healers either in party chat or in voice ahead of time when you’re going to use it so they can prepare.
+* **Heart of Light:** One of our two defensive raid mitigations. Heart of Light is an AOE effect that radiates from yourself and applies a buff reducing all magic damage taken by 10% for 15s. Heart of Light should be used on heavy hitting raid wides that hit the majority, if not all, of the raid. Due to the fact that it, like your personal cooldowns, is a buff with no diminishing value over the course of its duration, it excels at multiple hits over the duration and as such if used on said abilities will reduce every hit placed under the buff by 10% (Example: Stack markers in the Endwalker MSQ Extremes, J Waves, Tumults)
+* **Reprisal:** Similar to Heart of Light, Reprisal is an AOE centered on yourself, however it affects enemies instead of party members. As a result of this, any damage that occurs when an enemy is untargetable (for example: phase transition AOEs where you can’t attack the boss) are unable to be affected by Reprisal. Reprisal is used for assisting with similar situations to HoL due to it being a debuff over a duration, but due to the short CD, it is an option for Tank Busters as well. Make sure to coordinate Reprisal with your cotank as it is a role based ability, meaning all tanks have access to it and it does not stack so it can be overwritten.
 
-Gnashing Fang combo is our Cartridge spender combo. It does high damage and is a very important part of our burst. Note: Jugular Rip, Abdomen Tear, and Eye Gouge must be used after Gnashing Fang, Savage Claw, and Wicked Talon respectively or the buff that lets them be used will be lost. 
 
-## What Does/Doesn’t Break Combos
 
-Combos are broken when using non-combo GCDs before the combo is finished. However, there are several skills on GNB that do not interrupt combos. 
+## Dungeon Tips/Info
 
-The **Gnashing Fang** combo does not interrupt any other combos. However, using any **Solid Barrel** or **Demon Slaughter** combo GCDs will interrupt the **Gnashing Fang** combo. 
+When running dungeons it’s important to go at your own pace. Some tanks will want to dictate the pull speed as fast as possible by pulling wall to wall, but the reality is that you shouldn’t feel obligated to pull big if you’re not confident. If you get KO’d and wipe and reset, you’ve lost the time you would have gained by doing a big pull. Getting to the point where you can feel confident pulling big is something that you have to decide for yourself, and is simply a potential goal to keep in mind
 
-**Burst Strike**, **Fated Circle**, and **Sonic Break** do not interrupt any combos. **Lightning Shot** interrupts all three of our combos. 
+When doing dungeons, it’s important to space your cooldowns out. You have three cooldowns that have lengthy enough durations and can be used on separate add packs. Realistically, you should only need to burn one large cooldown per pack while using your smaller cooldowns to help your sustain. Some dungeons hit harder than others, and some dungeons have larger packs to deal with, so it’s important that you are prepared to change things or use things in emergencies.
 
-The following images are a visual representation of the previous paragraph, made by Rin Karigani. Please note **Keen Edge** combo and **Solid Barrel** combo are two names for the same thing. 
+**Main Cooldown** ➞ Try spread these out over as many pulls as you can.
 
-![WillXBreak1](/img/jobs/tanks/gunbreaker/Will_X_Break_1.png)
-![WillXBreak2](/img/jobs/tanks/gunbreaker/Will_X_Break_2.png)
+* Rampart
+* Nebula
+* Camouflage
 
-## AoE or Single Target
+**Small Cooldown** ➞ Use as they become available.
 
-This section will only talk about AoE vs Single Target at level 80. If you are not yet level 80, please refer to the Leveling Guide for a breakdown of what you should be doing at each level bracket. 
+* Heart of Corundum 
+* Aurora
 
-For one target present, we use **Solid Barrel** combo and **Burst Strike**.
-For 2+ targets: **Demon Slaughter** combo and **Fated Circle**.
 
-Continue to use the **Gnashing Fang** combo on cooldown until there are 4+ targets. At 4+ you should ignore the **Gnashing Fang** combo and only use the **Demon Slaughter** combo and **Fated Circle**. 
 
-Use **No Mercy** on cooldown regardless of how many targets you have. Whether or not **Sonic Break** is useful in multi-target fights will depend on how long it will be on the target as well as the number of targets. Whether or not to use it will be a case-by-case basis. At somewhere around 5+ targets, it likely will be a loss to use regardless.
+**Support Cooldown** ➞ Use one per big pull to debuff all targets
 
-## No Mercy Windows
+* Reprisal
+* Arm’s Lengt
 
-Always try to enter **No Mercy** with two Cartridges ready when possible. At any normal skill speed, there should always be nine GCDs within the **No Mercy** buff. These buff windows should look similar to the opener and should always contain the following skills:
+**Other:**
 
-GCDs:
+* Superbolide can be used to let your healer take a break from doing healing to do some damage or if you’re low can buy you time for a healer to get you to 100% while you wait on other CDs to come up. However it’s very bad to use without notification. If you plan to use Bolide as a tool to gain a few seconds of immunity then let your healer know. Do not open a pull with Bolide since going from 100% to 1% defeats the purpose of the ability. Use bolide when your HP becomes low. 20% to 1% is far better than 100% to 1% because you’ve at least made some use of the 80% health that was chipped away.
 
-* **Sonic Break**
-* **Gnashing Fang, Savage Claw, Wicked Talon**
-* **2 Burst Strikes**
-* **Keen Edge, Brutal Shell, and Solid Barrel**
+The above “plan” is of course not set in stone. In an ideal world, your dungeon DPS are fast enough to kill a pack of monsters before your main cooldown wears off. However, this may not happen and you may in turn have to cycle through cooldowns or change things. There’s nothing wrong with using more than expected and taking the next few pulls slow. The reason why we use these cooldowns and do big pulls is that besides them making runs faster, you rarely need Rampart or Nebula for dungeon bosses, as their tank busters don’t hit very hard and can be taken with a well timed Heart of Corundum.
 
-oGCDs:
+Due to Clarity of Corundum’s duration being so short, I recommend waiting a GCD or two once you have all the enemies rounded up before using Heart of Corundum. If you prepull Heart of Corundum and run in, chances are Clarity of Corundum will fall off.
 
-* **Blasting Zone**
-* **Bow Shock**
-* **2 Rough Divides**
-* **Jugular Rip, Abdomen Tear, Eye Gouge**
+## **Gearing & Skill Speeds:** 
 
-When **Bloodfest** is ready inside **No Mercy**, it creates an opportunity for a stronger burst window that will occur every three minutes, allowing for three or four **Burst Strikes** instead of only two. Since we get more **Burst Strikes**, but we can only fit nine GCDs under the buff still, we have one or two fewer **Solid Barrel** combo GCDs compared to a regular **No Mercy** window. This means the following skills are in No Mercy when **Bloodfest** is ready:
+Gearing GNB, like any tank, is rather simple. Our goal when we gear up is to prioritize increasing our damage stats, as the damage reduction in our armor scales with our iLvl and as such means we don’t actually have to pick between defensive options and offensive options (which is awesome!). This means you can focus on making your gear help to make you hit as hard as you can
 
-GCDs:
-Sonic Break
+When melding new gear either while leveling or while grabbing new pieces while working your way towards BiS, you want to focus on the following order:
 
-* **Gnashing Fang, Savage Claw, Wicked Talon**
-* **Two** **Solid Barrel** combo GCDs and three **Burst Strikes** OR
-* One **Solid Barrel** combo GCDs and four **Burst Strikes**
+#### Skill Speed to your personal comfort > Critical Hit > Direct Hit > Determination > Tenacity
 
-oGCDs:
+Skill Speed reduces the cooldown of weaponskills like Gnashing Fang and Double Down while also speeding up your Global Cooldown, which will make the job faster the more you stack. Everyone has their preferences on speeds and right now (as of Patch 6.05) there is nothing showing one speed is superior to the others. Speeds impact various things from getting 9 GCDs in No Mercy to GCD clipping (abilities being used in conjunction so fast that they fail to immediately go off, causing a delay). 
 
-* **Blasting Zone**
-* **Bow Shock**
-* **Two Rough Divides**
-* **Jugular Rip, Abdomen Tear, Eye Gouge**
-* **Bloodfest**
+There are positives and negatives to all builds and we absolutely recommend testing various speeds. 
 
-Getting four **Burst Strikes** in **No Mercy** is only possible if **No Mercy** is ready after **Brutal Shell**, and you already have two Cartridges ready to go. Do not hold **No Mercy** until after **Brutal Shell** to force a four **Burst Strike** **No Mercy** window! Doing so will cause you to misalign from raid buffs, which over time will be a much bigger loss than the gain of getting four **Burst Strikes** instead of three. 
+* You can do so by equipping or unequipping various random pieces of gear you have lying around with Skill Speed to up/lower your SKS value and practicing on a dummy. 
+* You can check your GCD by hovering over a standard weaponskill like
 
-If you are unable to fit nine GCDs in **No Mercy**, make sure that you are pressing **No Mercy** at approximately ⅔’s of the way into the GCD clock as shown here:
-
-![SolidBarrelCombo](/img/jobs/tanks/gunbreaker/Solid_Barrel_Combo.png)
-
-## Bloodfest
-
-**Bloodfest** should not be held for the next **No Mercy** window. Because it has a cooldown of 90s and **No Mercy** has a cooldown of 60s, **Bloodfest** will naturally be inside **No Mercy** every three minutes. As **Bloodfest**’s cooldown is getting close to finishing, spend Cartridges to avoid delaying **Bloodfest** or overcapping on Cartridges. 
-
-## Cartridge Usage
-
-Cartridges should generally not be used outside of **No Mercy** unless they are being used for **Gnashing Fang**, if you would otherwise overcap on Cartridges, or fight specific optimizations such as hitting multiple targets with **Fated Circle**. Doing this helps to ensure that **No Mercy** is entered with two Cartridges ready. 
-
-# Openers
-
-Openers are designed to do a few very important things:
-
-1. Get abilities on cooldown as soon as possible. This keeps us from sitting on skills that are ready which could potentially cause lost uses.
-2. Get strong abilities under raid buffs. This helps to maximize damage done. More damage is always better, especially when it's free!
-3. Set up our rotation for the rest of the fight (or until a transition/extended period of downtime). This is especially important for fight specific optimizations and using the right opener may gain a use of important abilities like the **Gnashing Fang** combo.
-
-The theoretical standard opener for a full-uptime encounter is the 4th GCD **No Mercy** opener: (Graphic by Rin Karigani)![4thGcdNoMercy](/img/jobs/tanks/gunbreaker/4th_Gcd_No_Mercy.png)
-
-At higher levels of gameplay, you can and should adjust your opener based on your group composition and the specifics of the fight. 
-
-Because openers will change tier-to-tier and fight-to-fight, please refer to the #gnb_resources channel in The Balance for the most up-to-date openers.
-
-# Rotation
-
-## Priority System
-
-Previous GNB guides have thought of the rotation in terms of a 60s/three minute loop. In practice, the GNB rotation is much less a loop and more of a priority system. GNB is more accurately an “if X is ready, do X, else do Y” class. Therefore, after the opener the rotation priority is as follows (with one caveat, mentioned following the priority list):
-
-1. Use **No Mercy** on cooldown.
-2. Use **Gnashing Fang**, **Sonic Break**, **Blasting Zone**, **Bow Shock**, **Bloodfest** on cooldown. 
-3. Spend all Cartridges inside **No Mercy** where possible. 
-4. Use **Rough Divide** twice inside **No Mercy** (unless a use is needed for uptime)
-5. Outside of **No Mercy**, only spend Cartridges on **Gnashing Fang** or if you would otherwise overcap on Cartridges.
-6. Use **Solid Barrel** combo on 1 target, **Demon Slaughter** combo on 2+ targets if nothing higher on the priority is available. 
-
-* Since **Gnashing Fang** and **Sonic Break** have their cooldown reduced by skill speed, we need to delay them by one GCD every minute by adding a filler GCD. Otherwise they will end up being before No Mercy which is a significant loss. 
-
-Because GNB is more of a priority system than a strict rotation, the rotation is very flexible and can be adjusted to the needs of the encounter and group composition.
-
-## GCD Uptime
-
-GCD uptime refers to pressing your weapon skills (GCDs) as soon as they are available. If there are spaces between when your GCD is ready and when you press the next one, you will lose a significant amount of damage. As such, we aim to keep our GCDs rolling as much as possible. Please note, this only refers to when an enemy is present. It is possible to achieve a minimum of 96% uptime in every fight. Anything lower than that is almost guaranteed to be caused by not playing correctly. How to increase this number around mechanics that normally seem like they should cause downtime is a fight specific optimization and will vary fight to fight. Even if you are making mistakes, it is almost always better to keep your GCD rolling than to just not do anything. 
-
-A big part of GCD uptime for GNB comes from being able to move bosses during heavy burst windows. Since the **Gnashing Fang** combo must be followed by **Continuation**, which is a melee range skill, it can make moving the boss during this window frustrating. Some common ways to alleviate this frustration are:
-
-1. Sprint! The faster you move, the faster the boss moves to you. Just be careful not to go too fast so you don’t rip the boss out of the range of melee dps. 
-2. Take advantage of the ability to use **Burst Strike** between **Gnashing** combo GCDs. This will give you an extra GCD with no required weaves to move faster. 
-3. Press the GCD, move out, then move back in before the next GCD is ready so you have enough time to use **Continuation** without delaying the next GCD. There are two ways to do this. For example, you could:
-
-**Gnashing Fang**, run out, run back in, **Jugular Rip**, **Savage Claw**, run out, run back in, **Abdomen Tear**, **Wicked Talon**, run out, run back in, **Eye Gouge**, etc. 
-Or
-**Gnashing Fang**, **Jugular Rip**, run out, run back in, **Savage Claw**, **Abdomen Tear**, run out, run back in, **Wicked Talon**, **Eye Gouge**, run out, run back in, etc.
-
-How you approach this will largely be personal preference as well as fight specific optimization. Do what gets the best results for you. You should also ask your co-tank if they can handle moving the boss if it makes it easier on you, and doesn’t make it harder on everyone else!
-
-# Stat Priorities
-
-While leveling, or while trying to get to the item level cap, always prioritize item level over stats, regardless of what those stats are \[note, Normal Quality white items break this rule as they are exceptionally bad 99.999% of the time. Other than that, this model holds true]. There is a very common misconception that Tenacity should be avoided at all costs, but this is incorrect. It is not a useless stat, it is just less efficient at increasing damage than other stats are, which is why we will almost never meld Tenacity. 
-
-## Preferred Skill Speed
-
-GNB is very flexible and as such can make use of a variety of skill speeds with relative ease. Typically, GNB prefers speeds between 2.40 and 2.43. 2.40 in the past was viewed as a sort of baseline for the optimal speed, but in practice this doesn’t hold true unless there are fight-specific reasons to favor 2.40 over any of the other speeds. 
-
-Preferred speed will depend mainly on fight alignment/transitions and your ping, as well as gearing options available. Higher ping players will prefer slower speeds because there is more time to be able to double weave between GCDs. Faster speeds are only typically preferred if they gain meaningful GCDs in a fight, or if gearing options mean that a faster speed is just going to have better damage overall. 
-
-## Meld Priorities
-
-Our basic priority system for materia melding is Critical Hit, then Skill Speed (to preferred tier only), then Direct Hit. We may use a different meld here and there that breaks the mold of this priority system, but it is very rare and will likely only be one meld, such as a Determination meld instead of a Direct hit meld due to stat tiering.
+**No one can tell you what the best speed is, this is down to your preference!**
 
 ## Special Thanks
 
