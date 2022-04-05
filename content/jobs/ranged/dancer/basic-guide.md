@@ -66,7 +66,7 @@ To perform these dances correctly, you simply look at the gauge and perform the 
 
 
 
-{{< youtube "FbVqyAfM-hg?t=167" >}}
+{{< youtube "FbVqyAfM-hg?start=167" >}}
 
 &nbsp;
 
