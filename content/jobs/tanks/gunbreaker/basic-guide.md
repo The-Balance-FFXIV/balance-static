@@ -624,4 +624,4 @@ BIS: Pandaemonium Savage (P1S-P4S) BIS
 
 ## Special Thanks
 
-This guide would not be possible without the advice and peer review of Hopps, Rin, Ari, Sila, and the other members of the Balance tank community who took the time to read this and give feedback.
+This guide was only possible with the help and support of the key members of the GNB Community. Special thanks to Rin Karigani, Bec, Krom and especially Torael Valdis who taught me to be the GNB I am today and all my victories are owed to him.
