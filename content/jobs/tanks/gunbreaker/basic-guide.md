@@ -330,13 +330,9 @@ The reason we begin Gnashing Fang and use Double Down followed by Sonic Break be
 **Fitting 9GCDs:**\
 A number of factors play into allowing for 9 GCDs inside No Mercy: 
 
-* Skill Speed
-* * The time at which the No Mercy buff applies allows us just under 20 seconds to fit 9 GCDs. This requires us to have a GCD recast speed that fits the 9th GCD usage while No Mercy is still active.
-  * To do this reliably and consistently, you should try to be at 2.46 or faster.
-* Latency
-* * High ping can cause a delay in your ability to immediately recast the GCD, causing “clips” that make it difficult or impossible to get 9/9 GCDs.
-* Most importantly, the time at which you hit No Mercy. 
-* * The later in the GCD clock you hit No Mercy, the more you shift the buff and as such gives you more time to land the 9th GCD. This is an important piece of optimization. You ideally want to hit No Mercy roughly when a weaponskill icon looks like this:
+* Skill Speed: The time at which the No Mercy buff applies allows us just under 20 seconds to fit 9 GCDs. This requires us to have a GCD recast speed that fits the 9th GCD usage while No Mercy is still active. To do this reliably and consistently, you should try to be at 2.46 or faster.
+* Latency: high ping can cause a delay in your ability to immediately recast the GCD, causing “clipping” that make it difficult or impossible to get 9/9 GCDs.
+* Most importantly, the time at which you hit No Mercy. The later in the GCD clock you hit No Mercy, the more you shift the buff and as such gives you more time to land the 9th GCD. This is an important piece of optimization. You ideally want to hit No Mercy roughly when a weaponskill icon looks like this:
 
 ![NoMercyClock](https://i.imgur.com/VEV9uhQ.png?1649180326 "No Mercy GCD")
 
