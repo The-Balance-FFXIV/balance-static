@@ -8,6 +8,8 @@ changelog:
     message: Article Created.
   - date: 2022-01-31T23:22:09.979Z
     message: Added 6.05 bis
+  - date: 2022-04-05T17:26:33.489Z
+    message: Added 6.11 ultimate sets
 bis:
   - type: etro
     description: |-
@@ -55,6 +57,28 @@ bis:
       * 2.32 GCD
     name: 2.32 Min Piety SpS BiS
     link: 848869dc-ea7b-42e0-a0a5-1bfdeae8d7e2
+  - type: etro
+    description: >-
+      * Safe to run in any enviorment.
+
+      * A ton of extra MP for those who want to start high before removing piety
+
+      * Gives a good Chain and Bio alignment, however downtime will mess this up.
+
+      * 2.50 GCD
+    name: 2.50 high piety DSW set
+    link: https://etro.gg/gearset/ec325832-c1d5-4120-839c-60f9576e23cc
+  - type: etro
+    description: >-
+      * Safe to run
+
+      * This set should be safe to run, but you may need to add extra piety if you need to
+
+      * Gives a good Chain and Bio alignment, however downtime will mess this up.
+
+      * 2.50 GCD
+    name: 2.50 Mid Piety DSW set
+    link: https://etro.gg/gearset/115d146d-8828-4c05-8fd2-81042e953e9c
 authors:
   - Balance-SCH-Staff
 ---
