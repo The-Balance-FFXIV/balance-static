@@ -1,9 +1,8 @@
 ---
 title: Gunbreaker Skills Overview
 authors:
-  - ToraelValdis
   - Balance-GNB-Staff
-patch: "5.58"
+patch: "6.1"
 lastmod: 2021-10-25T21:30:42.464Z
 changelog:
   - date: 2021-10-25T21:30:58.365Z
@@ -52,7 +51,8 @@ changelog:
 | -------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Aurora](/img/jobs/tanks/gunbreaker/Aurora.png)               | **Aurora**         | 200 potency Heal over Time (HoT) for 18 seconds. 1200 potency heal total. 60 second cooldown. Can be used on self or a target party member in a 30y range. Can hold two charges.                                                                                                                                                   |
 | ![Camouflage](/img/jobs/tanks/gunbreaker/Camouflage.png)       | **Camouflage**     | Reduces damage taken by 10% for 20 seconds. Gives +50% parry rate (for a total of 60% parry rate) for 20 seconds. Parry only works on physical damage and reduces damage by 15% when it applies. \[The 10% damage reduction applies regardless of if the attack is physical or magical.]                       |
-| ![Nebula](/img/jobs/tanks/gunbreaker/Nebula.png)               | **Nebula**         | Reduces damage taken by 30% for 15 seconds. 120 second cooldown.                                                                                                                                                                                                                                               |
+| ![Nebula](/img/jobs/tanks/gunbreaker/Nebula.png)               | **Nebula**         | Reduces damage taken by 30% for 15 seconds. 120 second cooldown.
+| ![Superbolide](/img/jobs/tanks/gunbreaker/Superbolide.png) | **Superbolide** | Reduces HP to 1 and renders you impervious to most attacks. Duration: 10s. Cooldown: 360s/6m |                                                                                                                                                                                                                                          
 | ![HeartOfStone](/img/jobs/tanks/gunbreaker/Heart_of_Stone.png) | **Heart of Stone** | Reduces damage taken by 15% for seven seconds. Can be used on self or a target party member in a 30y range. If used on a party member, any existing Brutal Shell shield will be copied onto them. (i.e. if you have 4000 shield from Brutal Shell when you use it on them, they now have 4000 shield as well.) |
 | ![Heart of Corundum](https://xivapi.com/i/003000/003430_hr1.png)     | **Heart of Corundum**    | Reduces the damage taken from self or party member by 15%, lasting for eight seconds. Target party member also gains the effect of Brutal Shell. Grants Clarity of Corundrum to the target, which reduces damage taken by 15% for 4s, and also grants Catharsis of Corundrum, which restores HP when it falls below 50% (or when the timer runs out) for a heal of 900 potency. Catharis of Corundrum lasts for 20 seconds.                                                                                                                                                                                                    |
 | ![ArmsLength](/img/jobs/tanks/gunbreaker/Arms_Length.png)      | **Arm’s Length**   | Role action. Makes you immune to most knockback or draw-in effects for 6 seconds. Applies a 20% slow to enemies that attack you while Arm’s Length is active (This means enemies will attack you 20% slower, very useful for dungeons!). 120s cooldown.                                                        |
