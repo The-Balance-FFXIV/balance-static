@@ -60,9 +60,13 @@ The second gauge we have shows us our step actions. Dancer has two dance abiliti
 
 These step abilities will replace your main single target and AoE abilities and turn into the dance step of their corresponding color.
 
-To perform these dances correctly, you simply look at the gauge and perform the steps from left to right. If you make a mistake, your progress within the dance will not change. It’s important to do all the steps before completing the dance, since both the Finish’s potency and the magnitude of the buff granted depend on how many steps were performed. Here is an example of these dances being done [here](https://youtu.be/FbVqyAfM-hg?t=166).
+To perform these dances correctly, you simply look at the gauge and perform the steps from left to right. If you make a mistake, your progress within the dance will not change. It’s important to do all the steps before completing the dance, since both the Finish’s potency and the magnitude of the buff granted depend on how many steps were performed. Here is an example of these dances being done:
 
 (A dance will never have the same step twice.)
+
+
+
+{{< youtube "FbVqyAfM-hg?t=167" >}}
 
 &nbsp;
 
