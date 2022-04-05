@@ -2,191 +2,376 @@
 title: Summoner Basic Guide
 card_header_image: /img/jobs/smn/basic.png
 authors:
-  - elevation
-patch: "5.58"
-lastmod: 2021-11-15T21:18:44.357Z
+  - argen
+patch: "6.08"
+lastmod: 2022-04-02T03:25:18.702Z
 changelog:
   - date: 2021-11-15T21:19:02.069Z
     message: Added page
+  - date: 2022-04-02T03:25:18.157Z
+    message: Updated for Endwalker.
 ---
-Welcome to our Basic Guide for Summoners!  This page is written to provide an introduction to Summoner at Level 80.  With Summoner’s well known reputation for being a “complex” job for new players to pick up and understand, our goal is to provide a condensed and easy-to-understand guideline for how the job functions at max level, while breaking down everything into simplified priority lists that can be followed.  We hope this guide proves helpful to accomplishing this goal, and wish you the best of luck with your Summoner journey!
-
 # Introduction
 
-Summoner is an interesting job within the world of Final Fantasy XIV. Combining the use of elemental egis and demi-primals, alongside an abundance of ability cooldowns and DoT spells, Summoner offers a unique game play experience within the DPS role. Along with its powerful pet and oGCD abilities, Summoner also keeps its ties with the Arcanist tree intact, bringing a few supportive abilities that are shared with Scholar.
+This guide will cover Summoner changes, rotations and ability usage in the Endwalker expansion. The core foundation of Summoner has changed significantly, most notably with the complete removal of damage over time abilities (dots) and the newly added primal arcanum system (gems). The basic flow and idea of Summoner’s rotation can be simplified as follows:
 
-Due to this unique combination of Summoner’s kit, the job’s rotation can be best explained as a collection of moving parts and “short phases.”  While most jobs generally have one way of attacking enemies, Summoner consistently juggles between three distinct components:
+* Use Searing Light in alignment with party raid buffs
+* Summon Bahamut and use all abilities to refresh your primal gems
+* Go through three primal phases
+* Summon Phoenix and use all abilities to refresh your primal gems
+* Go through three primal phases
+* Repeat
 
-**1. GCDs & oGCDs**
+Within that framework, there is additional nuance such as optimizing damage into raid buffs, moving certain spells around based on movement requirements, and making effective use of Summoner’s various utility tools. These will be covered more extensively in below sections. 
 
-**2. Damage-over-time (DoTs)**
+Overall, Summoner is considered one of the easiest to pick up and play at a basic level given its straightforward rotation and high degree of mobility for a caster, with only a few hardcasted spells per minute. The combination of simplicity and party utility Summoner brings makes it a popular choice for newer players getting into endgame raiding.
 
-**3. Pets**
+If you have questions after reading the guide, please visit #smn_questions on The Balance server. Additional resources can be found in the #smn_resources channel.
 
-Alongside these three components, the rotation structure can be broken down into these distinct phases:
+# Resources and Job Gauges
 
-**1. Dreadwyrm Trance Phase**
+Summoner’s resources are displayed on two gauges: the Aetherflow Gauge and the Trance Gauge. The Aetherflow Gauge indicates the number of available Festers and Painflares. On the Trance Gauge, the availability of the Demi is shown as well as its duration. In addition, the status of Egi summons can also be seen with their corresponding colors. 
 
-**2. Bahamut Phase**
+1. Aetherflow Gauge
+2. Demi status
+3. Trance timer
+4. Gem status
+5. Primal Elemental Attunement timer 
 
-**3. Firebird Trance (Phoenix) Phase**
+![](/img/jobs/smn/1.png)
 
-**4. Filler Phases**
+&nbsp;
 
-At first glance, we know this will appear overwhelming. Our goal is to try and break these components and phases down into simple to follow priority lists and provide a fundamental understanding to how these various components function within the overall rotation structure.  
+When a certain resource is available, the indicator for said resource becomes brightened. Conversely, they are dimmed when unavailable. In this image, two stacks of Aetherflow and Bahamut are available to be used, whereas the Primal summons are unavailable. The type of Demi is also indicated and changes upon summon.
 
-# Understanding Your Attack Sources
+In this image, the Elemental Attunement is shown with its available amount of uses. 
 
-At any given time during your rotation, your damage dealt will originate from three sources simultaneously. **The most common source of your damage will be GCDs & oGCDs, as with any other job.** The key difference with Summoner however, is that you have many high potency oGCDs to work with, that function as the “primary” source of your burst damage output, while your GCDs are considerably weaker and act as “filler” spells.
+![](/img/jobs/smn/2.png)
 
-To make life simple while you’re getting comfortable with the job, you can follow these simple priorities for GCD and oGCD usage:
+&nbsp;
 
-* **Make sure you’re consistently casting your GCDs. Whether you’re hardcasting Ruin IIIs, using Ruin IV or Egi Assaults for weaving, or even just having to use Ruin II as a last resort, just focus on keeping your GCD cooldown rolling as much as possible.**
-* **Use your oGCD abilities as they come off cooldown.  Be sure to always weave your oGCDs when they’re available to ensure you’re utilizing them as much as possible. Of course, there are a couple of exceptions, mainly with Tri-disaster, as you want to use this oGCD for refreshing your DoT durations. But the majority of your oGCDs can be weaved immediately. Just remember that only two oGCDs should be weaved with each instant-cast GCD to avoid unnecessary GCD clipping.** 
-* **Use your Dreadwyrm Trance, Summon Bahamut, and Firebird Trance whenever you can. These are your most powerful stances and pets available, so be sure you’re utilizing them as much as possible.**
+Same principles apply to simplified gauge, just with a slightly different visual. 
 
-**The second source of damage for Summoner originates from your damage-over-time (DoT) debuffs, from Miasma III and Bio III.**  While these debuffs technically originate from their corresponding GCDs, or the oGCD of **Tri-disaster**, the duration of your DoTs become another component that you must be aware of, to ensure you maintain as much uptime with these debuffs as you can.  
+![](/img/jobs/smn/3.png)
 
-An easy to follow method for getting comfortable with handling your DoT durations is to try and just focus on their 30 second durations.  Once you apply a set of DoT debuffs, you can use the next 30 seconds to just focus on other things, and just keep an eye on when you notice the timers on the debuffs approaching ~3-4 seconds remaining.  At this point, you can begin the process of refreshing your debuff DoTs.
+&nbsp;
 
-**Your third source of damage as a Summoner originates from your pets.** While some of your pet actions, like those tied to **Egi Assaults** and **Enkindles**, are based on GCD or oGCD commands, your pets will primarily be providing auto-attacks from their own input.  These auto-attacks are generally automatic, with the exception of **Demi-Bahamut** and **Demi-Phoenix**, which proc based on each GCD cast that is resolved.  
+In addition to the gauges, the readiness of Ruin IV can be seen on the buffs bar (middle), The amount of available Aetherflow stacks can also be seen on the buffs bar (left). Each Primal summon also provides special actions used via Astral Flow, and their readiness can also be seen with a buff (right). 
 
-There really isn’t anything special you need to do with regard to your Egis. Your Egis will continuously auto-attack, so long as they are within attack range to do so. So the only thing you really need to be mindful of is ensuring your Ifrit or Titan are within melee range or your Garuda is within casting range as much as possible.
+![](/img/jobs/smn/4.png)
 
-# Summoner Rotation Phases
+&nbsp;
 
-Summoner’s rotation functions as a sort of “collection” of various mini-phases. Each of these mini-phases corresponds to a specific pet summon or trance that may be used, which provides some unique interactions, as well as the in-between phases when cooldowns are not available. 
+# Basic Rotation
 
-While this may appear to be overwhelming at first glance, each of these distinct phases can be simplified into easy-to-follow priority lists while starting out.
+The overall rotation involves a relatively static loop consisting of several short phases. As mentioned in the introduction, the general flow is as follows:
 
-## Dreadwyrm Trance Phase
+* Use Searing Light in alignment with party raid buffs
+* Summon Bahamut and use all abilities to refresh your primal gems
+* Go through three primal phases
+* Summon Phoenix and use all abilities to refresh your primal gems
+* Go through three primal phases
+* Repeat
 
-The first phase of the Summoner rotation begins with **Dreadwyrm Trance**. Activating **Dreadwyrm Trance** will provide the following effects for 15 seconds:
+![](/img/jobs/smn/5.png)
 
-**1. Reducing spell casting time by 2.5 seconds, making Ruin III and Outburst instant cast GCDs.**
+# Opener and Bahamut Phase
 
-This effect will guarantee you instant-cast GCDs throughout the duration of your **Dreadwyrm Trance**.  Instant-cast GCDs are great to use for movement purposes (for example, dodging AoEs), as well as providing additional weaving space to use your oGCDs (**Enkindle**, **Energy Drain**, **Fester/Painflare**, etc.). 
+There are two main openers we choose from based on the situation.
 
-**2. Resets the cooldown of Tri-Disaster**
+## General Purpose Opener:
 
-**Dreadwyrm Trance** resetting the cooldown of **Tri-Disaster** will allow you to refresh your DoT durations. Remember you generally want to refresh your DoTs as the previous duration is finishing (the timer reaches close to 0).
+![](/img/jobs/smn/6.png)
 
-**3. Deathflare becomes available**
+&nbsp;
 
-**Deathflare** is an oGCD spell provided by **Dreadwyrm Trance**. **Deathflare** is a “finisher” action, as using it at any point will remove the **Dreadwyrm Trance** status, regardless of how much time you may have had remaining. **Deathflare** is one of the core oGCDs for Summoner game play, and you should ALWAYS use this spell before your **Dreadwyrm Trance** ends.  
+[Full Size](https://cdn.discordapp.com/attachments/909930068359409684/924578178708668477/smn_ew_opener.png)
 
-While the total duration of your **Dreadwyrm Trance** can be up to 15 seconds, it is possible to end this duration early as **Deathflare** will become available immediately.  This means you are not hard-locked to this 15 second duration, and have the option to end your **Dreadwyrm Trance** "early." 
+This is the general go-to opener for Summoner and uses Titan as the first primal. The initial Searing Light weave will clip your GCD slightly, but this is an acceptable clip. You can also shift Searing Light to one GCD later if you need to avoid this clip for any reason.
 
-### Dreadwyrm Trance Priorities:
+You also have the option of cutting the second Ruin III and doing Bahamut immediately. Be warned that this runs the risk of ghosting Searing Light, particularly on higher ping, and may cause a forced delay for Bahamut and Searing Light alignment later in an encounter, depending on your spell speed. However, it can be better to do this adaptation in the opener in some circumstances. Note that if you are changing any timings, an optimal Searing Light GCD sequence will change from what is displayed here. Adjust accordingly to whatever timings you choose to pursue.
 
-* Utilize the free instant-cast GCDs for maintaining uptime while moving, or oGCD weaving.
-* Egi-Assaults can be used in place of **Ruin III** or **Outburst** during this duration.
-* Use the **Tri-disaster** cooldown reset to refresh your DoTs when the previous duration is falling off.
+## Fast Garuda Opener
 
-If you don’t need to use the extra instant-cast GCDs, you may use **Deathflare** to finish **Dreadwyrm Trance** early. 
+![](/img/jobs/smn/7.png)
 
-## Bahamut Phase
+&nbsp;
 
-When **Summon Bahamut** is pressed, your Egi pet will despawn and **Demi-Bahamut** will spawn in its place. **Demi-Bahamut** will spawn for a 20 second duration, providing two different attacks:
+[Full Size](https://cdn.discordapp.com/attachments/583967277825785869/958533088453992538/fastgaruda.png)
 
-* **Wyrmwave** - **Wyrmwaves** are sort of like an auto-attack from Bahamut, which will proc based on each GCD you cast during its duration. You can proc a maximum of eight **Wyrmwaves** from Bahamut.
-* **Enkindle Bahamut** - **Enkindle Bahamut** orders **Demi-Bahamut** to cast **Akh Morn**, Bahamut’s “ultimate” ability. On a ten second cooldown, you should be able to cast **Akh Morn** twice during each Bahamut phase.  
+This opener uses Garuda as the first primal, prioritizing Swiftcast to fit Slipstream into your party's raid buffs. This is a gain when your group is heavy in 15s buffs, as a Swiftcasted Slipstream will barely fit and “snapshot” into the end of these buffs.
 
-During each Bahamut window, you want to aim to get two **Akh Morn** casts off and as close to eight **Wyrmwaves** as you can. Remember to use appropriate oGCD weaving GCDs (**Ruin IV** and **Ruin II**) when weaving **Akh Morn** or other oGCDs to avoid unnecessary GCD clipping.
+The adjustments mentioned in the general opener are also valid for this opener, though again be aware that any changes in timings or GCD use will change the exact optimal sequence you may use.
 
-![Weave Deathflare, weave Summon Bahamut, cast Ruin four, weave Enkindle Bahamut, cast Ruin three, cast Ruin three, cast Ruin three, cast Ruin four, weave Enkindle Bahamut, cast Ruin three, cast Ruin four, cast Ruin four](/img/jobs/smn/summoner_lv80_bahamut-04.png)
+# Abilities in the Opener
 
-Along with using instant-cast GCDs to handle your **Enkindle Bahamut** weaves, also be sure to use instant-cast GCDs if your Bahamut has five seconds or less remaining. This will ensure the final **Wyrmwave** procs will resolve in time.  
+**Summon Bahamut** initiates the Bahamut phase, which will also grant elemental gems for subsequent primal phases.
 
-### Demi-Bahamut Priorities:
+**Searing Light** is Summoner’s partywide damage buff. Searing Light has a recast timer of 120 seconds and buffs all damage done by yourself as well as all party members by 3% for 30 seconds. Searing Light can only be activated while the Carbuncle is summoned, which renders its use unavailable during Demi phases as well as immediately after a primal summon. Searing Light should be used on cooldown to align with all other two minute party buffs, unless a specific buff delay is agreed upon by the entire party. Aligning with other party buffs should be prioritized over aligning with your own burst phases.
 
-* Cast as many GCDs as you can during the duration of **Demi-Bahamut**, to reach the maximum number of **Wyrmwave** casts.
-* Be sure to weave **Enkindle Bahamut** twice.
-* Use instant-cast GCD options (**Ruin II** and **Ruin IV**) to handle oGCD weaves during Bahamut.
-* If you have five seconds or less remaining on your **Demi-Bahamut** duration, make sure your final GCDs are instant-casts.  
+Note that the Searing Light buff comes from your pet, and not your character. The pet will also not cast Searing Light if it is moving. As such, we can use a place command macro as follows to ensure the pet is stationary where we want it before casting: 
 
-## Firebird Trance Phase
+Placing the pet under the boss: 
 
-Your **Firebird Trance (FBT)** phase will be available after the 55 second shared cooldown is finished, as well as completing your Bahamut Phase. **Firebird Trance** will combine both the Trance and Demi Summon, while also providing a unique GCD combo to use during its duration. Your Firebird Trance Phase will have a 20 second duration and provide the following effects:
+`/petaction “place” <t>`
 
-**1. Reducing spell casting time by 2.5 seconds.**
-**2. Resets the cooldown of Tri-Disaster.**
+Placing the pet where we are standing: 
 
-These first two effects are the same effects provided by **Dreadwyrm Trance**, however Firebird Trance also grants an additional effect:
+`/petaction “place” <me>`
 
-**3. Ruin III is replaced with Fountain of Fire, Outburst is replaced with Brand of Burgatory.**
+Either macro will cover the majority of situations to ensure Searing Light is cast properly.
 
-Each time Fountain of Fire is cast, you will proc a buff called Hellish Conduit, allowing you to cast Brand of Purgatory. This means your GCD rotation during Firebird Trance will repeat between Fountain of Fire and Brand of Purgatory, in a basic 1-2-1-2 repeated combo as such:
+**Astral Impulse** is a powerful instant casted GCD that replaces Ruin III while Bahamut is summoned. While not shown in the opener, **Astral Flare** (which replaces Tri-disaster) is simply the AoE equivalent for three or more targets.
 
-![Weave Firebird Trance, cast Fountain of Fire, cast Brand of Purgatory, cast Fountain of Fire, cast Brand of Purgatory, cast Fountain of Fire, cast Brand of Purgatory, cast Fountain of Fire, cast Brand of Purgatory.](/img/jobs/smn/summoner_lv80_phoenixgcds-06.png)
+**Energy Drain** has a one minute cooldown and will generally be weaved early in the opener to reduce the risk of losing a use due to kill times or boss phasing. In addition to doing a bit of damage (200 potency), this ability gives us two charges of Fester, and one charge of Ruin IV. The AoE equivalent for three or more targets is **Energy Siphon**.
 
-As previously mentioned, unlike Dreadwyrm Trance, Firebird Trance combines both the Demi Summon and Trance effects together. Demi-Phoenix has the EXACT same function as Demi-Bahamut:
+**Fester** is a flexible oGCD ability with two charges per Energy Drain usage. This ability should always be used in raid buffs where possible. The AoE equivalent for three or more targets is **Painflare.**
 
-* **Scarlet Flame** - **Scarlet Flames** are exactly like **Wyrmwaves**, and will proc from each GCD that is cast during the duration of Phoenix. You may proc a maximum of eight **Scarlet Flames** during each Phoenix window.
-* **Revelation** - **Revelation** is Phoenix’s "ultimate" ability. With a ten second cooldown, you should be able to cast **Revelation** twice during each Phoenix window.
+**Deathflare**, which replaces Astral Flow on our hotbar during Bahamut phase, **and** Enkindle Bahamut (Akh Morn) are both very highly damaging oGCD abilities. They can only be cast when Bahamut is summoned. In general, they should be used under raid buffs. For subsequent uses, it will depend on your party’s buff alignment or whether you are running critical hit or spell speed-based gear sets.
 
-![Weave Firebird Trance, case Fountain of Fire (FoF), weave Enkindle Phoenix, case Brand of Purgatory, cast FoF, cast BoP, cast FoF, weave Enkindle Phoenix, cast BoP, cast FoF, weave BoP.](/img/jobs/smn/summoner_lv80_phoenixrotation-07.png)
+# Primal Phases
 
-Demi-Phoenix will have the exact same priorities as your Bahamut Phase, aiming for two Revelation casts, and as close to eight Scarlet Flame casts during each Firebird Trance duration.  
+After every demi-summon phase is complete (including Bahamut phase in the opener), you will have elemental gems available corresponding to each primal pet. This allows you to summon **Ifrit, Titan** or **Garuda.** Note that the summon itself is an AOE spell that does 700 potency, with 60% drop-off on additional targets.
 
-### Firebird Trance Priorities:
+Our suggested openers prioritize Titan or Garuda first for damage. But for subsequent windows, you can swap the order around depending on encounter design requirements. What happens for every primal phase is:
 
-* Repeat your Fountain of Fire + Brand of Purgatory combo four times, and avoid casting Fountain of Fire consecutively to not overwrite a Hellish Conduit proc.
-* Be sure to weave Enkindle Phoenix twice.
-* Since every GCD will be instant-cast during Phoenix, use any of these windows as free weaving space for other oGCDs, such as Energy Drain or your Aetherflow Gauge abilities.
+**Gemshine** will change into a single target “Rite” spell.
 
-## Filler Phases
+**Precious Brilliance** will change into an AoE “Catastrophe” spell.
 
-While you’re waiting for your next Trance to become available, this window is called the Filler Phase. Filler Phases are when you don’t have either of your Trance durations running or Demi-Bahamut, thus your only actions are casting your GCDs, building or using Ruin IV procs, refreshing DoTs and refreshing Aetherflow Gauge. Filler phases do not generally have specific GCD sequences, but rather just follow a simple priority list. During these filler phases, your priorities are:
+**Astral Flow** will change into a unique ability for each primal.
 
-**1. Make sure not to overcap your resources!**
-&nbsp;\
-&nbsp;\
-      A.  **Ruin IV** procs. You may hold a maximum of four **Ruin IV** procs at any given time, so you want to be sure to consume some of these procs before using your next set of Egi-Assault cooldowns. Casting Egi-Assaults while already holding the max number of procs will result in overwriting the proc.\
-&nbsp;\
-B.  **Egi-Assaults.** You may hold a maximum of 2 charges on both of your Egi-Assault actions, however you want to avoid holding both charges for any prolonged period of time.  Since the cooldown timer is not present when both charges are available, holding onto both charges may lead to lost usages, which will translate into lost Ruin IV procs.\
-&nbsp;\
-C.  **Aetherflow Gauge.**  Make sure that both charges of your Aetherflow Gauge are used before using your next Energy Drain (or Energy Siphon) cooldown to refresh your gauge.
+During each primal summon, your priority is to utilize all of their abilities without casting Ruin III or Tri-disaster. This means consuming all the attunement stacks (i.e. using our modified Gemshine and/or Precious Brilliance), and using our unique primal ability (the modified Astral Flow). 
 
-**2. If DoTs are going to fall off, AND you do not have a Tri-disaster to use soon, reapply DoTs by casting Miasma III and Bio III.**
+# Titan, Garuda and Ifrit Phases
 
-**3. Use our instant-cast GCDs (Ruin IV, Egi Assaults, and Ruin II) for movement when we need to.**
+While each primal phase follows a similar logic, there are some important differences between them.
 
-**4. Keep casting Ruin III whenever you can.**
+**Titan phase** does the most damage and has no hardcasts. This means we try to use this under raid buffs, but it can also be useful if used for movement-heavy mechanics. 
 
-Filler phases do not generally have specific GCD sequences, but rather just follow a simple priority list like the above.  
+Its main spells, **Topaz Rite** and **Topaz Catastrophe**, are both instant casts. We cast four of these spells during the phase.
 
-# Putting it Together
+Titan’s Astral Flow equivalent, **Mountain Buster**, is an oGCD proc that is made available after each cast of Topaz Rite or Topaz Catastrophe. You should weave each proc immediately when you gain one, otherwise you will lose a use/”overwrite” it on the next cast of Topaz Rite or Topaz Catastrophe.
 
-Once you understand an overview on how each of these mini phases function, you can then begin to build it all together into executing a more fluid rotation. With a full Summoner rotation, you should see a total of five phases in this specific order, with filler phases occurring twice following your **Demi-Bahamut** and **Demi-Phoenix** windows:
+**Ifrit phase** damage is lower than Titan but higher than Garuda. Notably, Ifrit has the most movement restrictions. It is generally best to use this during parts of an encounter where it is safe to be in melee range and there are no movement-heavy mechanics.
 
-**1. Dreadwyrm Trance Phase**
-**2. Bahamut Phase**
-**3. Filler Phase #1**
-**4. Firebird Trance Phase**
-**5. Filler Phase #2**
+Its main spells, **Ruby Rite** and **Ruby Catastrophe**, are both hard casts. The cast time is slightly longer than the recast time (e.g. assuming no spell speed, the cast will be 2.8 seconds with a 2.5 recast time). We cast two of these spells during the phase.
 
-![Dreadwyrm Trance Phase to Bahamut Phase to Filler Phase #1 to Firebird Trance Phase to Filler Phase #2 to Dreadwhym Trance Phase and repeat.](/img/jobs/smn/summoner_phases.png)
+Ifrit’s Astral Flow equivalent is a 1-2 melee combo. The first ability, **Crimson Cyclone**, also functions as a gapcloser. The second ability, **Crimson Strike**, needs to be used in melee range. Note that this combo can be broken, so do not cast any other GCD spell between both hits.
 
-Once your second filler phase is completed, you will have your next **Dreadwyrm Trance** ready to go, and the rotation will loop back to its original starting point. Your primary goal by this point is to perform this rotation consecutively. With enough practice, you should begin to see a seamless transition between each rotation loop you perform.  
+**Garuda phase** does the least damage, and has only one hardcast (Slipstream).
 
-# Summoner AoE
+Its main spells, **Emerald Rite** and **Emerald Catastrophe**, are both instant casts with a recast timer of 1.5 seconds. We cast four of these spells during the phase. Due to the short recast timer, we can only weave one oGCD after them.
 
-One of the core components to Summoner game play is its capability around dealing AoE damage to nearby targets. Summoner is a bit unique in that it has access to a variety of different AoE abilities, which may appear overwhelming at first glance. Rest assured, we can also provide an easy to follow list on how you should utilize these abilities.  
+Garuda’s Astral Flow equivalent, **Slipstream**, is a hardcasted spell with a cast time of three seconds, and a recast time of 3.5 seconds. It also creates an AoE damage over time windstorm around the target that lasts for 15 seconds, dealing damage to any enemies who enter (30 potency per dot tick).
 
-![For three or more targets, Ourburst replaces Ruin III. Bane spreads your Miasma III and Bio 2 DoTs to nearby enemies. Energy Siphon replaces Energy Drain. Painflare replaces Fester as your Aetherflow Gauge spender. When dealing damage to three or more targets, Garuda-Egi should be prioritized as much as possible due to its AoE output potential.](/img/jobs/smn/aoe_cheatsheet-01.png)
+While not as restrictive as Ifrit, you should still keep potential movement restrictions in mind for Garuda phase.
 
-Along with the above priority image, be sure that you’re utilizing your Demi-Summon and Trance-specific abilities whenever available. Actions such as **Deathflare**, **Enkindle Bahamut**, **Enkindle Phoenix**, and **Brand of Purgatory** provide strong incidental cleave to nearby targets, so keep this in mind whenever you have your **Dreadwyrm Trance**, **Demi-Bahamut**, or **Demi-Phoenix** available when fighting multiple targets.
+After going through three primals, you should be about five seconds away from being able to initiate the next demi-summon phase. This is where our Ruin spells come in:
 
-# Utility Actions
+**Ruin III** usage should be minimized as much as possible. As such, outside of the opener, we aim to only cast one of them between each demi-summon. Tri-disaster is the AoE equivalent.
 
-Along with its prolonged rotation loop, Summoner also brings a strong utility kit. This kit features an array of offensive and defensive spells, allowing you to not only buff your party members' damage, but also provide yourself with survivability, as well as the ability to raise downed party members.
+**Ruin IV** is given as a proc from Energy Drain and lasts for one minute. This does more potency than Ruin III and is also an instant cast. When compared to Ruin III, Ruin IV is a gain in both single target and AoE scenarios. We also aim to only cast one of them between each demi-summon. Do not cast Ruin IV when a demi-summon is active.
 
-* **Aetherpact  -  Aetherpact** is a pet command, ordering your Egi to cast **Devotion**.  When the **Devotion** buff is active, you and your party members will gain 5% damage for 15 seconds. You should use this spell whenever it is available.
-* **Earthen Armor**  -  **Earthen Armor** is a spell cast by **Titan-Egi** whenever you use **Egi Assault I** while Titan is spawned. **Earthen Armor** provides a substantial shield to yourself, absorbing damage up to 30% of your maximum HP. **Earthen Armor** is great to use whenever you need extra survivability, whether that’s for solo content like Palace of the Dead, or party content like eight person raids.
-* **Resurrection**  -  **Resurrection** is a shared spell that you have access to from the Arcanist tree. **Resurrection** allows you to raise any downed party members, and can be used so long as you have the MP to do so. **Resurrection** is a very helpful spell to have, as you can provide additional raises to your party if needed.
-* **Addle**  -  **Addle** is a role class action, provided to all magical ranged DPS.  **Addle** allows you to reduce the amount of magic damage dealt by your target by 10%.  This spell is very helpful to reduce magical damage taken from enemies, such as raid-wide AoEs from bosses, or even the magical auto-attacks that some bosses have.
+Essentially, we aim to cast one Ruin III and one Ruin IV between each demi-summon phase. The key thing to note here is that we can use our one cast of Ruin III and Ruin IV **any time between demi-summon phases** (except during the 1-2 melee combo during Ifrit phase). We do not have to do it after all three primal phases are complete.
 
-- - -
+For example, during Garuda phase, you may find yourself about to cast Slipstream, but a mechanic is coming up that requires you to move away. You can use your one charge of Ruin IV to do this, then hardcast Slipstream for your next GCD.
 
-With thanks to [AkhMorning](http://www.akhmorning.com) for assistance with resources and theorycrafting.
+# Phoenix Phase
+
+After cycling through the primals and the two additional Ruin casts, **Summon Phoenix** should become available. This functions similarly to Bahamut with comparable damage potencies, with some minor differences.
+
+Phoenix will automatically cast **Everlasting Flight**, a passive AoE regen with healing potencies on par with various healer abilities. 
+
+Moreover, instead of Deathflare (a damage oGCD), we gain **Rekindle** instead as the Astral Flow equivalent. Rekindle is a single target healing ability. More information on these abilities will be covered in the utility and support section.
+
+Phoenix’s other abilities are otherwise comparable to Bahamut. Summon Phoenix will also grant us elemental gems for subsequent primal phases.
+
+**Enkindle Phoenix (Revelation)** is a very hard hitting oGCD, much like Enkindle Bahamut (Akh Morn). We also get new instant cast GCDs over Ruin III and Tri-disaster during the phase: **Fountain of Fire** for single target, and **Brand of Purgatory** for AoE.
+
+While Bahamut has an extra damaging oGCD (Deathflare), the potency from Phoenix’s other attacks are slightly stronger than Bahamut’s, resulting in them being very close in terms of total damage potency output. 
+
+Phoenix is usually summoned during odd minutes, so if buffs are available, you should also use Enkindle Phoenix within them (e.g. Trick Attack, Astrologian cards, or modified raid buff windows done for optimization or specific killtimes). Fester from your odd minute Energy Drain can be used during these buffs, but can also be saved for 2-minute buff windows as long as they are used before the next Energy Drain.
+
+# After Phoenix Phase (Primal Phases)
+
+From this point onwards, the loop will repeat. We go through the three primal phases, use two Ruin casts, then Summon Bahamut will become available with Searing Light.
+
+One important disclaimer here is that **Summoner can either run critical hit or spell speed as its prioritized sub stat, and this will affect your demi-summon alignment with Searing Light**. 
+
+With high spell speed builds, subsequent Summon Bahamuts will become available before Searing Light and raid buff windows, causing them to misalign. This is because “Summon Bahamut” and “Summon Phoenix” abilities also scale with spell speed. For spell speed builds, this is expected, because the entire purpose of the spell speed build is to eventually gain more demi-summon phases over the course of a fight. Do not delay your demi-summons by inserting additional Ruin III casts to fill the gaps; at that point you are running a strictly worse critical hit build.
+
+If you are running a critical hit build, Searing Light will become available just before Summon Bahamut. Your demi-summon should naturally align with raid buffs.
+
+## Potion Windows
+
+Outside of the opener, we generally aim for subsequent potion windows to be during our 6-minute demi-summon and party raid buff window. 
+
+For certain encounters, we may opt to use our first potion at two minutes instead, which allows us to buff more Festers, but this is very encounter and kill time dependent because it will delay our second potion. For fights longer than nine minutes, we generally use potions as close to on cooldown as possible to ensure maximum uses, even if it can mean missing demi-summon phases or buff windows.
+
+Outside of the opener, we try to catch four Festers, one demi-summon, and two primal summons within a potion window for maximum potency. The first demi-summon should be Titan, while the second can be Garuda or Ifrit depending on the encounter or killtime. In a vacuum or for general situations, Garuda with 1 Emerald Rite followed by a Swiftcasted Slipstream does slightly higher damage.
+
+**Garuda example:**
+
+![](/img/jobs/smn/8.png)
+
+&nbsp;
+
+**Ifrit example:**
+
+![](/img/jobs/smn/9.png)
+
+&nbsp;
+
+## Phase Transitions and Downtime
+
+There are situations where boss phase transitions can result in eventually having both primal gems and demi-summons available. In this scenario, we follow this decision making flowchart:
+
+*Will I lose a use of a demi-summon by delaying?*
+
+**Yes:** Do not delay demi-summon.
+**No:** Use primals and demi-summon.
+**Unsure:** Do not delay demi-summon.
+
+There are also middle ground situations where you can “rush” through your primal summons casting only two spells for each. This allows you to benefit from the primal summoning damage (700 potency) while also compensating for the downtime by cutting out weaker spells. In endgame raiding, there are a lot of variables that surround this, making it a more advanced technique that is better done with precise timeline planning. However, it is common to do this in dungeons due to the frequent downtime between mob pulls.
+
+# Critical Hit vs Spell Speed Summoner Builds
+
+As mentioned, Summoner can either run low Spell Speed (2.48 or 2.46 GCD) or high Spell Speed (2.20 or 2.25 GCD). The low Spell Speed/high Critical Hit build tends to be better for most situations, as the spell speed build’s effectiveness is more subject to encounter timelines. However, you can choose to run the spell speed build blindly and perform adequately regardless.
+
+Note that a 2.48 GCD (474 Spell Speed or higher) is the slowest we can use to ensure we get six Astral Impulse/Fountain of Fire casts during demi-summon phases. Do not attempt to run 2.49 or 2.50 GCD, as that will result in a significant DPS loss.
+
+When choosing between builds, one key consideration is whether you intend to play other caster jobs. Red Mage is more compatible with little to no spell speed, while Black Mage is more compatible with high spell speed values. This makes Summoner arguably the best choice for being a “second caster” due to this gearing flexibility.
+
+# Utility and Party Support
+
+FFXIV raid encounters are designed in such a way that DPS are sometimes required to assist the party with defensive utility from role skills or unique individual abilities. This is one area where Summoner truly excels, with an often-underrated arsenal of defensive abilities that can save the party during progression or help healers with optimization.
+
+## Recovery
+
+Summoner has three abilities that can be used to effectively help with recovery. They can appear inflexible and limited at first, but it is important to understand that there are two approaches to using utility.
+
+During progression, DPS doesn’t matter until you see enrage and are going for the clear. The priority is to stay alive and practice more mechanics. Not being concerned with DPS increases the flexibility as to when Summoner’s recovery tools are used.
+
+In kill attempts or optimization, Summoner’s recovery tools become less flexible. They are still powerful, and in coordinated parties, can be very useful for both survival and optimization.
+
+## Resurrection
+
+This spell allows you to revive a fallen party member to a weakened state much like healers can. Resurrection is actually inherited from Arcanist, making it the same as Scholar’s Resurrection both in function and flavor. Due to the eight-second casting time, it is generally paired with the Swiftcast role action to minimize DPS loss -– ideally outside of demi-summon phases. If raiding with people you know, proactive communication here is important to ensure you don’t Swiftcast Resurrection on the same target as a healer.
+
+### Reviving Party Members in Progression
+
+Summoners should always be ready to help revive party members in progression. While casters are classified as DPS, it is important to remember that healer MP pools are more valuable, particularly when the goal is to see/practice more mechanics and damage doesn’t matter yet.
+
+Even if MP wasn’t an issue, there are scenarios where it may be inconvenient for the healer to revive party members even if they had Swiftcast ready, such as during mechanics with a heavy healing requirement. Swiftcast is also not “necessary” in Summoner’s base DPS rotation, meaning it can be held for reviving party members even outside of progression, like in reclears or boss kill attempts.
+
+While it may not feel good to do so, do not be afraid to hardcast Resurrection if needed to save a run –- especially during progression when DPS doesn’t yet matter. Seeing more mechanics so you can practice them is often more important than doing damage.
+
+### Reviving Party Members in Farm or Kill Attempts
+
+During kill attempts or farm, there are many situations where it would still be better for Summoner to revive party members. But a more case-by-case approach where you can read the situation and communicate with your healers or Red Mage co-caster is best.
+
+There are many situational considerations, such as healer MP and Swiftcast availability, upcoming mechanics, whether we’re in a demi-summon phase, severity of DPS check, a Red Mage’s melee combo timings (if raiding with one), and more.
+
+If in a static, always coordinate with your healers or Red Mage co-caster. You should be ready to share the load and cover for each other as needed. In a Party Finder environment, default to Swiftcast raising if it can help save the run or the healers are handling heal checks, but consider allowing your healers to Swiftcast raise if they are able to and there is no immediate urgency.
+
+## Everlasting Flight
+
+During our Phoenix demi-summon phase, Phoenix will automatically cast Everlasting Flight, which is a party-wide regen. Everlasting Flight’s regen has a cure potency of 100 per regen tick over 21 seconds. This is comparable to many healer abilities, such as Scholar’s Whispering Dawn (80 potency per regen tick over 21 seconds) or White Mage’s Asylum (100 potency per regen tick over 24 seconds, plus a boost on healing actions within a more limited area).
+
+Pet scaling is slightly weaker than player character scaling, but the point is that Everlasting Flight’s strength as a “free” heal is on par with healer abilities, making it valuable in both progression and optimization.
+
+In progression, Everlasting Flight can be a strong form of insurance. In optimization, it can reduce the healer’s workload to the point of being able to cut a heal from their rotation. This can sometimes mean resources saved for other harder-hitting phases or more healer damage on the boss – both of which are positive for the party.
+
+## Rekindle
+
+When in the Phoenix demi-summon phase, Astral Flow changes into Rekindle, a single target oGCD healing ability. Casting this on yourself or a party member applies an on-hit 400 potency heal in addition to a regen effect (200 cure potency per regen tick across 15 seconds). The regen effect is triggered by the target’s HP dropping below 75%. If the target’s HP doesn’t drop below 75%, it will be triggered automatically when the Rekindle buff expires (30 seconds after application).
+
+Much like Everlasting Flight, this ability also has comparable potencies to single target healer abilities. It can be particularly useful for healing tanks through auto attacks. It can also be used situationally to heal another DPS or healer if, for example, they missed a heal or have a vulnerability up stack before or after a raidwide. Rekindle should always be used because it benefits the party for free at no DPS cost to ourselves.
+
+For those who have trouble quickly targeting party members mid rotation, you can use a Rekindle macro:
+
+`/ac “Astral Flow” <>` 
+
+Between <> you can put “TT” for the target holding boss aggro at the time of cast, but you can also put a number between 1 to 8 for a specific party member if you wish.
+
+### Note on Phoenix Utility: Progression vs Optimization
+
+The key thing to note about Phoenix utility is that, when doing our normal rotation, both Everlasting Flight and Rekindle are completely free, with one being a passive effect. If you are consistent with your rotation, skilled healers will be able to note when Everlasting Flight is available, and take it into consideration when mapping out a healing or party mitigation plan.
+
+It should be noted that in progression situations where damage doesn’t matter (i.e. practicing mechanics and not yet ready to clear), Summon Phoenix can be held purely as a form of “healing insurance” to get through certain phases as a temporary solution. This is more of an advanced technique for players who are looking to optimize their progression speed and practice rate.
+
+### What About Physick? Isn’t That a Healing Spell?
+
+Physick – another spell we inherit from Arcanist – scales off Mind and not Intelligence, making the heal extremely weak given how our equipment works. This is even before we consider the DPS “loss” (by way of opportunity cost) from casting it as a GCD. While Physick has value as an Arcanist in Sastasha keeping beginner tanks alive when the healer is dead, there is no standard use for it in endgame raiding.
+
+# Mitigation
+
+Summoner has two abilities that can be classified as forms of mitigation.
+
+## Addle (Role Action)
+
+A targeted debuff on an enemy that lowers physical damage dealt by 5% and magic damage dealt by 10% for ten seconds. Addle cannot be used on untargetable sources. The primary purpose of Addle is to mitigate hard-hitting magical attacks, but there may be instances that the physical damage reduction can be useful too; for example, mitigating physical boss autoattacks on top of a magical raidwide.
+
+With Summoner’s rotation having so many instant casts, we will have plenty of opportunities to use Addle to help the party survive incoming damage at no cost to our own rotation. Ideally, your healer will tell you where it will be most useful. If you are playing with more passive healers or on party finder, you should try to proactively use it multiple times across a fight.
+
+## Radiant Aegis
+
+Creates a barrier around self that absorbs damage totaling 20% of your maximum HP. This ability has two charges with a cooldown of 60 seconds, but can only be used when Carbuncle is summoned. This means it cannot be used at all during demi-summon phases, and cannot be used for a few seconds after each primal summon. There may be times your shield is not immediately available for a reactionary “panic” use. 
+
+However, the shield lasts for up to 30 seconds. This means that when used more proactively, it is fairly easy to have a shield up on yourself for any hard hitting mechanic or raidwide you want. This ability, being a free oGCD, also has no DPS cost for us.
+
+A 20% shield of our maximum HP can often be the difference between life or death, especially in situations where mistakes are likely or healing is not yet optimized. While a personal shield sounds more like a “selfish” skill than party utility, it is important to remember that one of Summoner’s most important roles in raiding is to help revive fallen party members, thus preventing wipes. And as a caster capable of reviving fallen allies, our survival is more important than other DPS in the party. 
+
+Viewed from that perspective, Radiant Aegis is not only a selfish survival tool, but one that gives Summoner additional value for the party in progression.
+
+# Other Abilities
+
+The following are additional abilities that Summoner has access to.
+
+## Swiftcast (Role Action)
+
+Ensures the next spell can be cast immediately. Swiftcast on Summoner has three main functions in order of usage priority: 
+
+1. Used on Resurrection to instantly revive a teammate. This should be the primary usage in progression as well as anytime when extra damage is not necessary.
+2. The second most important use is to keep GCD uptime during movement when it would otherwise be impossible or very risky to slidecast. This is generally preventable with better fight planning due to how many instant casts Summoner has, but it is a valid way to use Swiftcast if needed.
+3. Lastly, when used on certain spells, Swiftcast can situationally result in a small DPS gain. The primary use for this is snapshotting Garuda’s Slipstream under buffs, such as during certain potion windows or in the fast Garuda opener. The other one is Ruby Rite (or Castrophe for AOE), which has a \~2.8s cast time, but a \~2.5 recast time at base spell speed. This means that using Swiftcast on Ruby spells repeatedly can theoretically lead to a gained GCD or so by the end of an encounter, but this is highly situational and can cause other issues with demi-summon alignment with Searing Light. As such, it is not recommended for general practice.
+
+## Sleep (Role Action)
+
+A new role action in Endwalker, formerly belonging to Thaumaturges (and thus Black Mages) only. Raid bosses are generally immune to all status effects, and using Sleep on dungeon mobs tends to be impractical because sleeping mobs will wake up upon taking damage. However, Sleep can have situational value in certain types of solo content, such as deep dungeons or Eureka.
+
+## Surecast (Role Action)
+
+Nullifies most knockback and draw-in abilities from enemies. This tends to be used for surviving specific mechanics in endgame content, and also prevents our casts from being interrupted. Some mechanics explicitly ignore Surecast, but there is no good way of knowing this ahead of time.
+
+## Lucid Dreaming (Role Action)
+
+Gradually recover MP, totaling 3850 MP restored over its full duration (550 MP per three seconds over 21 seconds total). Summoner’s rotation is not particularly stressful on MP, especially if Resurrection isn’t used repeatedly, but its full uptime rotation is still MP negative and you will run out of MP eventually. If running a Critical Hit/low Spell Speed build, the general recommendation is to press it when you have around 70% MP remaining. If running high Spell Speed builds, you should try to press it on cooldown.
+
+## Primal Effects in Battle
+
+For some, the visual presence of summons can be distracting due to their size. You can modify the sizes of summons you see in battle with the following commands: 
+
+`/petsize \[summon] \[size]`
+
+Replace \[summon] with:
+
+* Demi-Bahamut
+* Demi-Phoenix
+* Ruby Ifrit
+* Topaz Titan
+* Emerald Garuda
+* all
+
+Replace \[size] with:
+
+* large
+* medium
+* small
+
+For example, a complete command would look like:
+
+/petsize "Ruby Ifrit" "small"
+
+All of the command arguments can be done with auto-translate.
