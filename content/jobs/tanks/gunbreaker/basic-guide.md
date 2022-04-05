@@ -1,13 +1,14 @@
 ---
 title: Gunbreaker Basic Guide
 card_header_image: /img/jobs/gnb/basic.png
-authors:
-  - ToraelValdis
-patch: "5.58"
+authors: []
+patch: "6.1"
 lastmod: 2021-10-25T21:28:52.762Z
 changelog:
   - date: 2021-10-25T21:29:10.159Z
     message: Created article
+  - date: 2022-04-05T18:01:38.826Z
+    message: Updated for Endwalker
 ---
 # Introduction to Gunbreaker
 
@@ -553,6 +554,63 @@ There are positives and negatives to all builds and we absolutely recommend test
 * You can check your GCD by hovering over a standard weaponskill like
 
 **No one can tell you what the best speed is, this is down to your preference!**
+
+#### Additional Items:
+
+Materia: If you are new to endgame content then please ensure you are melding your gear with Materia. Materia is a huge contributing factor to your DPS, as it is a hefty gain in your substats. Empty Materia slots are never acceptable when doing anything higher than Extreme Primals. Food: Food provides a temporary (and practically mandatory) stat boost, contributing to both your total HP and your damage stats. Some builds even require food to hit your intended GCD. \
+As of Patch 6.1 we use Pumpkin Potage or Pumpkin Ratatouille, both High Quality
+
+Pots: When doing Savage and Ultimates you’ll also want to use Pots (short for potions). These provide a limited window of a large boost in your main stat (strength for tanks) that makes your damage spike. These, when used optimally, can contribute a huge amount of DPS in a raid. Using them is something you may have to get used to and you will notice their timings marked in our openers above.\
+You should always use the highest grade of Strength pot.
+
+# Best-In-Slot
+
+## Pandaemonium Savage
+
+Below is your best-in-slot. Before you ask, there is no best of the best. If one was universally better we would only list that one set. There are trade offs and benefits for each set and it comes down to what you want to run. Keep in mind not only do gear pieces change from set to set but melds and food as well.
+
+#### **GCD:**
+
+[2.40](https://etro.gg/gearset/88fbea7d-3b43-479c-adb8-b87c9d6cb5f9) 
+
+[2.41](https://etro.gg/gearset/c2962f7b-ea07-4aa9-9b84-21eb8ac03d90) 
+
+[2.42](https://etro.gg/gearset/0c777bae-1680-4b0e-ac7e-56217df5611e) 
+
+[2.43](https://etro.gg/gearset/e863ace7-ffcb-4c3d-b8de-8038f99a7308) 
+
+[2.44](https://etro.gg/gearset/b8d9ed19-8b42-41de-b414-ee83ed799416)
+
+[2.45](https://etro.gg/gearset/d6f564f3-e918-4dc8-8bf7-95764ada60a7)
+
+[2.46](https://etro.gg/gearset/a69c29ce-50f2-4fd2-9db3-6a4704c707d8) 
+
+[2.47](https://etro.gg/gearset/d7343b12-6ce4-47bf-912f-c219874905f3)
+
+
+
+## Ultimates
+
+Ultimates are timeless content due to their difficulty and rewards but are forced sync and cannot be done above their release level. This affects the gear you enter the encounter with but is more lenient as all three past Ultimate’s entry IL are far below our current standard. Food and Pots do not sync, but still have a soft cap so you don’t need the absolute top current food and pots for something like UCoB as its sync is relatively low.The relic from Shadowbringers is the best choice of weapon for previous Ultimates, But will require you to get it to at least the [Augmented Law’s Order](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/3111076df9e/) stage to assign substats. [Blade’s Resolve](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/b723d663158/) gives you more substat to work with but this realistically is of only benefit in TEA as you’ll reach cap for the substats with Law’s Order in the other two Ultimates, as such unless you want to really optimize and push as much damage as you want for TEA, you can settle for Augmented Law’s Order. If you don’t want to grind the Blade’s Resistance Relic, you can use any weapon with optimal substats that exceed the encounter’s max IL. 
+
+**The Unending Coil of Bahamut (UCoB):**\
+IL Cap: 470\
+BIS: [UCoB/UWU Combi BIS](https://cdn.discordapp.com/attachments/541353216307232788/950220623873990656/unknown.png)\
+Relic Stat cap: 127
+
+**The Weapon’s Refrain (UWU):**\
+IL Cap: 500\
+BIS: UCoB/UWU Combi BIS\
+Relic Stat cap: 136
+
+**The Epic of Alexander (TEA):**\
+IL Cap: 595 \
+BIS: [2.40 GCD](https://cdn.discordapp.com/attachments/541353216307232788/945234729865728030/unknown.png)\
+Relic Stat cap: 184
+
+**Dragonsong’s Reprise (DSW/DSR):**\
+IL Cap: N/A\
+BIS: Pandaemonium Savage (P1S-P4S) BIS
 
 ## Special Thanks
 
