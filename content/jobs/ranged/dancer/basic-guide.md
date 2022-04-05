@@ -18,7 +18,7 @@ changelog:
 
 Welcome to the basic Dancer guide. Within this document, you’ll find all the information you’ll need to learn to play the job. Other links will be included below for further references and resources. Any further questions can also be directed to the Dancer channels in the Balance’s Discord. 
 
-For a video version of this guide:
+For a video version of this guide [click here](https://www.youtube.com/watch?v=FbVqyAfM-hg)!
 
 {{< youtube FbVqyAfM-hg >}}
 
@@ -60,11 +60,9 @@ The second gauge we have shows us our step actions. Dancer has two dance abiliti
 
 These step abilities will replace your main single target and AoE abilities and turn into the dance step of their corresponding color.
 
-To perform these dances correctly, you simply look at the gauge and perform the steps from left to right. If you make a mistake, your progress within the dance will not change. It’s important to do all the steps before completing the dance, since both the Finish’s potency and the magnitude of the buff granted depend on how many steps were performed. Here is an example of these dances being done:
+To perform these dances correctly, you simply look at the gauge and perform the steps from left to right. If you make a mistake, your progress within the dance will not change. It’s important to do all the steps before completing the dance, since both the Finish’s potency and the magnitude of the buff granted depend on how many steps were performed. Here is an example of these dances being done [here](https://youtu.be/FbVqyAfM-hg?t=166).
 
 (A dance will never have the same step twice.)
-
-{{< youtube FbVqyAfM-hg&t=167 >}}
 
 &nbsp;
 
@@ -181,7 +179,7 @@ The noteworthy abilities are as follows:
 1. Shield Samba. This ability has a 90 second cooldown and applies a 15 second buff to all nearby party members that reduces all damage taken by 10%. This is one of the strongest damage mitigations a DPS can bring, as you do not have to target the boss and because the duration is considerably longer than other DPS mitigation abilities. These abilities will not stack with the Bard and Machinist versions, Troubadour and Tactician.
 2. Curing Waltz. This 60 second cooldown heals party members in a 3 yalm range around you and your dancer partner for a small amount. That said, if you and your dance partner are stacked up the heal becomes notably more potent. Having your party stack up within this three yalm circle can heal a good chunk of damage on a fairly short cooldown.  While it is worth coordinating the usage of this ability in a static, I do not recommend getting Party Finder groups to play around this ability. In Party Finder, simply use it on cooldown when the party is stacked up and is not at full health.
 3. Improvisation. This ability, when used, provides a  regen on all party members within an eight yalm range. It also grants a stack of the Rising Rhythm buff every three seconds up to a maximum of four stacks. When the ability is used a second time, the button changes to Improvised Finish, which applies a barrier equal to a percentage of the player's max HP. The barrier strength scales with the duration that it was channeled. Using this ability makes it so you are unable to deal damage, and thus it is  recommended to only fully channel the ability if there is downtime with no boss or adds targetable and you cannot prepare either Standard Step or Technical Step during the downtime instead.
-3. En Avant. This oGCD has up to three charges and allows you to quickly dash for ten yalms in a straight line. Using this ability at key moments makes you very mobile.
+4. En Avant. This oGCD has up to three charges and allows you to quickly dash for ten yalms in a straight line. Using this ability at key moments makes you very mobile.
 
 # Final Notes
 
