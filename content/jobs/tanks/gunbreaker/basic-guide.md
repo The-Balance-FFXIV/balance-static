@@ -172,7 +172,9 @@ Use it to build your gauge when fighting multiple enemies. 
 
 * It is weaker in single target scenarios than the Solid Barrel Combo, however can be used in niche circumstances such as fight specific phasings to generate more cartridges that otherwise would have been lost. Do not use this combo in single target situations outside of these special cases.
 
-There are four Weaponskills that require carts to use:
+Keep in mind that in a single target environment such as raids, it takes 3 GCDs to build a cart (2 in specific cases by using Demon Slaughter), but only takes 1 to spend. As such, over spending is very destructive so you must be careful when dumping carts between Gnashing Fang and No Mercy windows.
+
+There are **four** Weaponskills that require carts to use:
 
 * **Gnashing Fang (1)**
 * **Double Down (2)**
@@ -196,14 +198,41 @@ There are four Weaponskills that require carts to use:
 
 * Has the same purpose as Burst Strike but in a 2+ Target situation.
 
-# Cart Usage
+## Gnashing Fang Combo & Continuation
 
-Keep in mind that in a single target environment such as raids, it takes 3 GCDs to build a cart (2 in specific cases by using Demon Slaughter), but only takes 1 to spend. As such, over spending is very destructive so you must be careful when dumping carts between Gnashing Fang and No Mercy windows.
+Here we will discuss two things: The Gnashing Fang Combo and Continuation.
+Your Gnashing Fang combo is a combo containing three high potency weaponskills that can only be used every 30s and require 1 cart to start the combo. This is pretty much your burst window’s core and is further complemented by No Mercy every 60s.
+Upon using your Gnashing Fang attack you’ll begin your combo while activating Continuation:
 
-**\
-There are four abilities that require carts to use:**
+![Continuation](/img/jobs/gnb/image60.png "Continuation")
 
-<!--EndFragment-->
+Continuation is a follow up off-GCD hit for each of the above abilities that you use directly after each GCD. This is where Gunbreaker’s fast pace comes in, as you have these quick succession hits following your big hitters - think of every activation as a one-two punch. You will be required to get Gunbreaker to Lvl. 70 to gain these abilities.
+
+**Gnashing Fang** will turn into **Savage Claw** and then into **Wicked Talon**, while your Continuation button will change from **Jugular Rip** to **Abdomen Tear** to **Eye Gouge.**
+
+Upon reaching Lvl. 86 you will get Enhanced Continuation, which grants Continuation to Burst Strike, giving you access to **Hypervelocity**.
+
+**What does a Gnashing Fang Combo look like?**
+Since Gnashing Fang is **30s** and No Mercy is **60s**. Every 2nd Gnashing Fang Combo will be without No Mercy. As a result it’s not as strong but not as busy. However it still requires **1 cart** to use. Blasting Zone is also 30s so we want to keep Gnashing Fang and Blasting Zone together since they’ll both line up with No Mercy at 60s. This is a standard Gnashing Fang outside of No Mercy. We’ll take a look at the full No Mercy window further on in the guide.
+
+![](/img/jobs/gnb/alt.png)
+
+The order of a possible Gnashing Fang Combo is as follows:
+Gnashing Fang ➞ Jugular Rip
+Savage Claw ➞ Blasting Zone + Abdomen Tear
+Wicked Talon ➞ Eye Gouge 
+
+The placement of Blasting Zone can shift as it is not affected by SkS but GF combo is, as such it won’t line up in the same spot.  
+
+One thing to keep in mind is that your Gnashing Fang is a combo but it has flexibility. 
+
+* Certain actions can be used inside this combo (and are done so for optimal damage in buffs) without breaking it. 
+* The combo can still be broken by using any of your basic combo actions (Solid Barrel or Demon Slaughter combos). 
+* Breaking your Gnashing Fang is never worth it and to do so is one of the most destructive things to your DPS.
+
+Below is an infographic on what combo flexibility looks like when using Gnashing Fang.
+
+![ComboFlex](/img/jobs/gnb/al2.png "Combo Flexibility")
 
 # Defensive Off Global Cool Down Abilities
 
