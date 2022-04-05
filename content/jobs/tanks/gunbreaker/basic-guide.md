@@ -383,32 +383,61 @@ Gunbreaker doesn’t have a simple “loop”. It’s simply a shifting priority
 ![Aurora](/img/jobs/tanks/gunbreaker/Aurora.png)
 **Aurora**
 
-200 potency Heal over Time (HoT) for 18 seconds. 1200 potency heal total. 60 second cooldown. Can be used on self or a target party member in a 30y range. 
+200 potency Heal over Time (HoT) for 18 seconds. 1200 potency heal total. 60 second cooldown. Can be used on self or a target party member in a 30y range. \
+2 Charges at Lvl. 84\
+CD: 60s per charge
 
 ![Camouflage](/img/jobs/tanks/gunbreaker/Camouflage.png)
 **Camouflage**
 
-Reduces damage taken by 10% for 20 seconds. Gives +50% parry rate (for a total of 60% parry rate) for 20 seconds. Parry only works on physical damage and reduces damage by 15% when it applies. \[The 10% damage reduction applies regardless of if the attack is physical or magical.]
-
-![Nebula](/img/jobs/tanks/gunbreaker/Nebula.png)
-**Nebula**
-
-Reduces damage taken by 30% for 15 seconds. 120 second cooldown.
-
-![HeartOfStone](/img/jobs/tanks/gunbreaker/Heart_of_Stone.png)
-**Heart of Stone**
-
-Reduces damage taken by 15% for seven seconds. Can be used on self or a target party member in a 30y range. If used on a party member, any existing Brutal Shell shield will be copied onto them. (i.e. if you have 4000 shield from Brutal Shell when you use it on them, they now have 4000 shield as well.)
-
-![Superbolide](/img/jobs/tanks/gunbreaker/Superbolide.png)
-**Superbolide**
-
-Sets your HP to 1 and makes you unable to take damage from most attacks for 8 seconds. 360 second cooldown. 
+Reduces damage taken by 10% for 20 seconds. Gives +50% parry rate (for a total of 60% parry rate) for 20 seconds. Parry only works on physical damage and reduces damage by 15% when it applies. \[The 10% damage reduction applies regardless of if the attack is physical or magical.]\
+CD: 90s
 
 ![Rampart](/img/jobs/tanks/gunbreaker/Rampart.png)
 **Rampart**
 
 Role action. Reduces damage taken by 20% for 20 seconds. 90 second cooldown.
+
+![Nebula](/img/jobs/tanks/gunbreaker/Nebula.png)
+**Nebula**
+
+Reduces damage taken by 30% for 15 seconds. \
+**CD: 2m**
+
+![](https://lh5.googleusercontent.com/K6uBTa9FPPh6NInJKmeOm9zMTCkY5WdsW6mwYRSKLe2xr3reLOWXayX3Q93k2lm2Yx2_40aVpRfQLnBMTfVgA7t0eo3sviyMmBFoEtBLsjA-TtvSvtk-R7jfDz-2c5MvkjblG-9q)
+
+**Heart of Corundum**
+
+Reduces damage taken by a party member or self by 15%.\
+Duration: 8s\
+Additional Effect: When targeting a party member while under the effect of Brutal Shell, that effect is also granted to the target\
+Duration: 30s\
+Additional Effect: Grants Clarity of Corundum to target \
+Clarity of Corundum Effect: Reduces damage taken by 15%\
+Duration: 4s\
+Additional Effect: Grants Catharsis of Corundum to target\
+Catharsis of Corundum Effect: Restores HP when HP falls below 50% or upon effect duration expiration\
+Cure Potency: 900\
+Duration: 20sCD: 25s**\
+*We will go in depth about Heart of Corundum below.***
+
+
+
+
+
+![Superbolide](/img/jobs/tanks/gunbreaker/Superbolide.png)
+**Superbolide**
+
+Reduces HP to 1 and renders you impervious to most attacks.\
+Duration: 10s**\
+CD: 360s / 6 Minutes**
+
+![HeartOfStone](/img/jobs/tanks/gunbreaker/Heart_of_Stone.png)
+**Heart of Stone**
+
+Reduces damage taken by 15% for seven seconds. Can be used on self or a target party member in a 30y range. If used on a party member, any existing Brutal Shell shield will be copied onto them. \
+**CD: 25s**\
+*\*Upgraded to Heart of Corundum upon reaching Lvl. 82*
 
 ![ArmsLength](/img/jobs/tanks/gunbreaker/Arms_Length.png)
 **Arm’s Length**
