@@ -6,7 +6,7 @@ patch: "6.1"
 lastmod: 2021-10-25T21:30:42.464Z
 changelog:
   - date: 2021-10-25T21:30:58.365Z
-    message: Created article
+    message: Added Superbolide w/ EW buff
 ---
 # Gunbreaker Skills Overview
 
