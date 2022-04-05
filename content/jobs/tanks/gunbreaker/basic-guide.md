@@ -25,114 +25,134 @@ Azazel Raine | Balmung (NA) | Azazel#1000
 ![KeenEdge](/img/jobs/tanks/gunbreaker/Keen_Edge.png)
 **Keen Edge**
 
-The first skill of our basic combo. 200 potency.
+The first skill of our basic combo. 170 potency.
 
 ![BrutalShell](/img/jobs/tanks/gunbreaker/Brutal_Shell.png)
 **Brutal Shell**
 
-The second skill of our basic combo. 300 potency when used after Keen Edge. Heals for 200 potency and gives a shield equal to the amount healed. 
+The second skill of our basic combo. 260 potency when used after Keen Edge. Heals for 200 potency and gives a shield equal to the amount healed. 
 
 ![SolidBarrel](/img/jobs/tanks/gunbreaker/Solid_Barrel.png)
 **Solid Barrel**
 
-The final skill of our basic combo. 400 potency when used after Brutal Shell. Generates one Cartridge in the Powder Gauge. 
+The final skill of our basic combo. 340 potency when used after Brutal Shell. Generates one Cartridge in the Powder Gauge. 
 
 ![BurstStrike](/img/jobs/tanks/gunbreaker/Burst_Strike.png)
 **Burst Strike**
 
-500 potency attack that consumes one Cartridge.
+380 potency attack that consumes one Cartridge.\
+Grants Ready To Blast
 
 ![GnashingFang](/img/jobs/tanks/gunbreaker/Gnashing_Fang.png)
 **Gnashing Fang**
 
-450 potency attack that consumes one Cartridge. 30 second base cooldown that is reduced by skill speed (discussed later). Triggers Ready To Rip.
+360 potency attack that consumes one Cartridge. 30 second base cooldown that is reduced by skill speed (discussed later). Grants Ready To Rip.
 
 ![SavageClaw](/img/jobs/tanks/gunbreaker/Savage_Claw.png)
 **Savage Claw**
 
-550 potency attack that can only be used following Gnashing Fang. Triggers Ready To Tear.
+440 potency attack that can only be used following Gnashing Fang. Grants Ready To Tear.
 
 ![WickedTalon](/img/jobs/tanks/gunbreaker/Wicked_Talon.png)
 **Wicked Talon**
 
-650 potency attack that can only be used following Savage Claw. Triggers Ready To Gouge.
+520 potency attack that can only be used following Savage Claw. Grants Ready To Gouge.
+
+![Double Down](https://xivapi.com/i/003000/003432_hr1.png)
+
+Delivers an attack to all within 5y of you with a potency of 1,200 for the first enemy, and 20% less for all remaining enemies.
+Cartridge Cost: 2
 
 ![SonicBreak](/img/jobs/tanks/gunbreaker/Sonic_Break.png)
 **Sonic Break**
 
-300 potency attack that applies a 90 potency Damage over Time (DoT) for 30 seconds (900 potency total from the DoT). 60 second base cooldown that is reduced by skill speed (discussed later).
+300 potency attack that applies a 60 potency Damage over Time (DoT) for 30 seconds (600 potency total from the DoT). 60 second base cooldown that is reduced by skill speed (discussed later).
 
 ![LightingShot](/img/jobs/tanks/gunbreaker/Lightning_Shot.png)
 **Lightning Shot**
 
-Ranged attack skill with a potency of 150 and a range of 15y. 
+Ranged attack skill with a potency of 150 and a range of 20y. \
+Additional Effect: Increased Emnity
 
 ![DemonSlice](/img/jobs/tanks/gunbreaker/Demon_Slice.png)
 **Demon Slice**
 
-First skill of our Area of Effect (AoE) combo. 150 potency to all targets in a 5y circle centered around you.
+First skill of our Area of Effect (AoE) combo. 100 potency to all targets in a 5y circle centered around you.
 
 ![DemonSlaughter](/img/jobs/tanks/gunbreaker/Demon_Slaughter.png)
 **Demon Slaughter**
 
-Second skill of our AoE combo. 250 potency to all targets in a 5y circle around you when used after Demon Slice. Generates one Cartridge in the Powder Gauge. 
+Second skill of our AoE combo. 150 potency to all targets in a 5y circle around you when used after Demon Slice. Generates one Cartridge in the Powder Gauge. 
 
 ![FatedCircle](/img/jobs/tanks/gunbreaker/Fated_Circle.png)
 **Fated Circle**
 
-Consumes one Cartridge. 320 potency to all targets in a 5y circle around you. 
+Consumes one Cartridge. 290 potency to all targets in a 5y circle around you. 
 
 ## Offensive Off Global Cooldown Abilities
-
-![Continuation](/img/jobs/tanks/gunbreaker/Continuation.png)
-**Continuation**
-
-Turns into Jugular Rip, Abdomen Tear, or Eye Gouge when under the effect of Ready To Rip, Ready To Tear, or Ready To Gouge respectively. 
-
-![JugularRip](/img/jobs/tanks/gunbreaker/Jugular_Rip.png)
-**Jugular Rip**
-
-260 potency attack. Can only be used under Ready To Rip triggered by Gnashing Fang. 
-
-![AbdomenTear](/img/jobs/tanks/gunbreaker/Abdomen_Tear.png)
-**Abdomen Tear**
-
-280 potency attack. Can only be used under Ready To Tear triggered by Savage Claw.
-
-![EyeGouge](/img/jobs/tanks/gunbreaker/Eye_Gouge.png)
-**Eye Gouge**
-
-300 potency attack. Can only be used under Ready To Gouge triggered by Wicked Talon.
-
-![DangerZone](/img/jobs/tanks/gunbreaker/Danger_Zone.png)
-**Danger Zone**
-
-350 potency attack with a 30 second cooldown. Becomes Blasting Zone at level 80.
-
-![BlastingZone](/img/jobs/tanks/gunbreaker/Blasting_Zone.png)
-**Blasting Zone**
-
-800 potency attack with a 30 second cooldown.
-
-![BowShock](/img/jobs/tanks/gunbreaker/Bow_Shock.png)
-**Bow Shock**
-
-200 potency attack to all targets in a 5y circle around you. Also applies a 90 potency DoT for 15s to all targets hit by the initial attack (for a total of 450 potency per target from the DoT).
-
-![RoughDivide](/img/jobs/tanks/gunbreaker/Rough_Divide.png)
-**Rough Divide**
-
-200 potency attack that dashes you to the target. Has 2 charges that regenerate at a rate of 1 charge every 30 seconds. 15y range. 
 
 ![NoMercy](/img/jobs/tanks/gunbreaker/No_Mercy.png)
 **No Mercy**
 
-20% damage increase for 20 seconds. 60 second cooldown.
+20% damage increase for 20 seconds. \
+CD: 60s
 
 ![Bloodfest](/img/jobs/tanks/gunbreaker/Bloodfest.png)
 **Bloodfest**
 
-Immediately gives 2 Cartridges in the Powder Gauge. 90 second cooldown.
+Immediately gives 3 Cartridges in the Powder Gauge. \
+**Only grants 2 carts below Lvl. 88* \
+CD: 90s
+
+![Continuation](/img/jobs/tanks/gunbreaker/Continuation.png)
+**Continuation**
+
+Turns into Jugular Rip, Abdomen Tear, Eye Gouge, or Hypervelocity when under the effect of Ready To Rip, Ready To Tear, Ready To Gouge, or Ready to Blast respectively. 
+
+![JugularRip](/img/jobs/tanks/gunbreaker/Jugular_Rip.png)
+**Jugular Rip**
+
+180 potency attack. Can only be used under Ready To Rip triggered by Gnashing Fang. 
+
+![AbdomenTear](/img/jobs/tanks/gunbreaker/Abdomen_Tear.png)
+**Abdomen Tear**
+
+220 potency attack. Can only be used under Ready To Tear triggered by Savage Claw.
+
+![EyeGouge](/img/jobs/tanks/gunbreaker/Eye_Gouge.png)
+**Eye Gouge**
+
+260 potency attack. Can only be used under Ready To Gouge triggered by Wicked Talon.
+
+![Hypervelocity](https://xivapi.com/i/003000/003431_hr1.png)
+
+180 potency attack. Can only be used under Ready to Blast triggered by Burst Strike. 
+
+![DangerZone](/img/jobs/tanks/gunbreaker/Danger_Zone.png)
+**Danger Zone**
+
+Delivers an attack with a potency of 250\
+Becomes Blasting Zone at level 80.\
+CD: 30s
+
+![BlastingZone](/img/jobs/tanks/gunbreaker/Blasting_Zone.png)
+**Blasting Zone**
+
+Delivers an attack with a potency of 700.\
+CD: 30s
+
+![BowShock](/img/jobs/tanks/gunbreaker/Bow_Shock.png)
+**Bow Shock**
+
+150 potency attack to all targets in a 5y circle around you. Also applies a 60 potency DoT for 15s to all targets hit by the initial attack (for a total of 300 potency per target from the DoT).\
+CD: 60s
+
+![RoughDivide](/img/jobs/tanks/gunbreaker/Rough_Divide.png)
+**Rough Divide**
+
+150 potency attack that dashes you to the target with a 25y range. \
+Has 2 Charges\
+CD: 30s per charge
 
 # Rotation
 
@@ -260,21 +280,23 @@ No Mercy will always contain the following:
 
 \
 GCD:
-Gnashing Fang**\***
-Double Down
-Sonic Break 
-Savage Claw 
-Wicked Talon
-Burst Strike(s)
-Remainder of your Solid Barrel combo
+
+* Gnashing Fang**\***
+* Double Down
+* Sonic Break 
+* Savage Claw 
+* Wicked Talon
+* Burst Strike(s)
+* Remainder of your Solid Barrel combo
 
 oGCD:
-Jugular Rip**\***
-Abdomen Tear 
-Eye Gouge
-Blasting Zone
-Bow Shock
-Rough Divide
+
+* Jugular Rip**\***
+* Abdomen Tear 
+* Eye Gouge
+* Blasting Zone
+* Bow Shock
+* Rough Divide
 
 As you can see, this is where GNB gets its busy reputation because of all the above abilities, in one form or another, having to be used inside a 20s window every 1 minute. 
 
@@ -404,7 +426,7 @@ Reduces damage taken by 20% for 20 seconds. \
 Reduces damage taken by 30% for 15 seconds. \
 **CD: 120s**
 
-![](https://lh5.googleusercontent.com/K6uBTa9FPPh6NInJKmeOm9zMTCkY5WdsW6mwYRSKLe2xr3reLOWXayX3Q93k2lm2Yx2_40aVpRfQLnBMTfVgA7t0eo3sviyMmBFoEtBLsjA-TtvSvtk-R7jfDz-2c5MvkjblG-9q)
+![Heart of Corundum](https://xivapi.com/i/003000/003430_hr1.png)
 
 **Heart of Corundum** \
 Reduces damage taken by a party member or self by 15%.\
@@ -488,8 +510,6 @@ Using your defensive cooldowns properly is an important part of maximizing your 
 * Nebula: One of your best cooldowns as it provides a better % reduction than Rampart, but it has a shorter duration and longer cooldown. As such, it requires some planning - you need to be aware that it will be up less, which means that using it pre-emptively will require stricter planning, and planning ahead is also going to be stricter due to the longer cooldown. While a great tool, you need to ensure you have it up when needed and to make sure you have options available when it isn’t.
 * Camouflage: Very ideal for auto management due to the increased parry rate and baseline 10% DR. While not the best cooldown by itself for a tank buster, as the 10% is your only guaranteed mitigation and the parry may either not activate or not be even possible due to a magic tank buster, it’ll help alleviate damage intake while autos are coinciding with mechanics that your healers may be dealing with. As mentioned above it can be stacked with Rampart to give yourself a strong combo of parry and decent DR, but keep in mind this will leave you a bit scarce after the fact if you’re tanking and taking autos.
 
-
-
 **Heart of Corundum:** Our new tool and a great support and self management ability. Heart of Corundum is part of SE’s new sort of “Reward” system for tanks where they provide a short timed buff on top of the base buff, which if timed correctly will let you mitigate more. How Heart of Corundum works is you gain 3 buffs:
 
 * Heart of Corundum: 15% DR to self or party member for 8s
@@ -503,8 +523,6 @@ Using your defensive cooldowns properly is an important part of maximizing your 
 * **Superbolide**: While a bit infamous, Superbolide is actually a very very good CD when used properly. Reality is people tend to find dropping to 1HP insane, but that’s ultimately how ¾ invulns work if the damage was going to KO you. If it wasn’t? Then practically all those invulns were wasted. Superbolide can be destructive if used improperly, but when used properly and when it’s coordinated with your healers, it is very very strong. Corundum and Aurora together can help heal you back up during the 10s duration with some support from healers, and unlike Living Dead you do not require your entire pool of health to be restored, just enough to survive the oncoming damage when the buff expires. I recommend telling your healers either in party chat or in voice ahead of time when you’re going to use it so they can prepare.
 * **Heart of Light:** One of our two defensive raid mitigations. Heart of Light is an AOE effect that radiates from yourself and applies a buff reducing all magic damage taken by 10% for 15s. Heart of Light should be used on heavy hitting raid wides that hit the majority, if not all, of the raid. Due to the fact that it, like your personal cooldowns, is a buff with no diminishing value over the course of its duration, it excels at multiple hits over the duration and as such if used on said abilities will reduce every hit placed under the buff by 10% (Example: Stack markers in the Endwalker MSQ Extremes, J Waves, Tumults)
 * **Reprisal:** Similar to Heart of Light, Reprisal is an AOE centered on yourself, however it affects enemies instead of party members. As a result of this, any damage that occurs when an enemy is untargetable (for example: phase transition AOEs where you can’t attack the boss) are unable to be affected by Reprisal. Reprisal is used for assisting with similar situations to HoL due to it being a debuff over a duration, but due to the short CD, it is an option for Tank Busters as well. Make sure to coordinate Reprisal with your cotank as it is a role based ability, meaning all tanks have access to it and it does not stack so it can be overwritten.
-
-
 
 ## Dungeon Tips/Info
 
@@ -523,8 +541,6 @@ When doing dungeons, it’s important to space your cooldowns out. You have thre
 * Heart of Corundum 
 * Aurora
 
-
-
 **Support Cooldown** ➞ Use one per big pull to debuff all targets
 
 * Reprisal
@@ -538,7 +554,7 @@ The above “plan” is of course not set in stone. In an ideal world, your dung
 
 Due to Clarity of Corundum’s duration being so short, I recommend waiting a GCD or two once you have all the enemies rounded up before using Heart of Corundum. If you prepull Heart of Corundum and run in, chances are Clarity of Corundum will fall off.
 
-## **Gearing & Skill Speeds:** 
+## **Gearing & Skill Speeds:**
 
 Gearing GNB, like any tank, is rather simple. Our goal when we gear up is to prioritize increasing our damage stats, as the damage reduction in our armor scales with our iLvl and as such means we don’t actually have to pick between defensive options and offensive options (which is awesome!). This means you can focus on making your gear help to make you hit as hard as you can
 
@@ -586,8 +602,6 @@ Below is your best-in-slot. Before you ask, there is no best of the best. If one
 [2.46](https://etro.gg/gearset/a69c29ce-50f2-4fd2-9db3-6a4704c707d8) 
 
 [2.47](https://etro.gg/gearset/d7343b12-6ce4-47bf-912f-c219874905f3)
-
-
 
 ## Ultimates
 
