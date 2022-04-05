@@ -47,8 +47,7 @@ qna:
   - question: What if I misaligned my Gnashing Fang from No Mercy because of
       Downtime/user error?
     answer: >-
-      Don't worry! This happens. It's going to happen to all of us. Follow this
-      flow:
+      Follow this flow:
 
 
       Less than 17s on No Mercy? Hold Gnashing Fang or it will be pushed out of No Mercy.
