@@ -511,9 +511,7 @@ Using your defensive cooldowns properly is an important part of maximizing your 
 * Heart of Corundum: 15% DR to self or party member for 8s
 * Clarity of Corundum: 15% DR to self or party member for 4s.
 * Catharsis of Corundum: 900 potency heal when effect expires or when health is reduced below 50% on self or target. Buff duration 25s.
-
-\*The effect of your Brutal Shell shield is also granted to another target, but use on yourself will not affect your own Brutal Shell shield. This is also present for Heart of Stone.
-
+  *The effect of your Brutal Shell shield is also granted to another target, but use on yourself will not affect your own Brutal Shell shield. This is also present for Heart of Stone.
 * **Heart of Corundum** provides a 27.75%~ damage reduction for the first 4 seconds of its duration as the two damage reductions from Heart of Corundum and Clarity of Corundum stack together to provide a very strong opening effect which decays to 15% after 4s. While this persists, you have Catharsis of Corundum which provides a great 900 pot heal (which can crit!). Corundum has no cost, no drawback, and a short cooldown, and is therefore an extremely powerful and versatile tool to use for support and self-sustain. However, utilizing it to its maximum potential requires you to make use of **Clarity of Corundum**. Personally, when double weaving any mitigation, I tend to weave Corundum second to ensure Clarity is present for the tank buster. That being said, keep in mind that any late mitigation will miss the damage snapshot and instead of a nice 27.75% you’ll get 0%. You ideally always want your main mitigations with Heart of Corundum for heavy hitting tank busters.
 * **Aurora**: A simple HoT that provides some support. Aurora is not strong enough to help heal you up from tank busters if you’re pushed into a corner nor can it alone realistically help heal you up from using Superbolide as it only ticks once every 3s, while Heart of Corundum excels at both those points. However, Aurora is a good tool to help counteract autos, DoTs and also save your healers some resources during downtime if you place it on yourself or another member. Using Aurora twice on a target does not extend the buff by 16s, it merely refreshes it to a max duration of 16s. As such, you can refresh early and waste HoT ticks.
 * **Superbolide**: While a bit infamous, Superbolide is actually a very very good CD when used properly. Reality is people tend to find dropping to 1HP insane, but that’s ultimately how ¾ invulns work if the damage was going to KO you. If it wasn’t? Then practically all those invulns were wasted. Superbolide can be destructive if used improperly, but when used properly and when it’s coordinated with your healers, it is very very strong. Corundum and Aurora together can help heal you back up during the 10s duration with some support from healers, and unlike Living Dead you do not require your entire pool of health to be restored, just enough to survive the oncoming damage when the buff expires. I recommend telling your healers either in party chat or in voice ahead of time when you’re going to use it so they can prepare.
@@ -565,14 +563,16 @@ There are positives and negatives to all builds and we absolutely recommend test
 * You can do so by equipping or unequipping various random pieces of gear you have lying around with Skill Speed to up/lower your SKS value and practicing on a dummy. 
 * You can check your GCD by hovering over a standard weaponskill like
 
-**No one can tell you what the best speed is, this is down to your preference!**
+No one can tell you what the best speed is, this is down to your preference!
 
 #### Additional Items:
 
-Materia: If you are new to endgame content then please ensure you are melding your gear with Materia. Materia is a huge contributing factor to your DPS, as it is a hefty gain in your substats. Empty Materia slots are never acceptable when doing anything higher than Extreme Primals. Food: Food provides a temporary (and practically mandatory) stat boost, contributing to both your total HP and your damage stats. Some builds even require food to hit your intended GCD. \
+**Materia:** If you are new to endgame content then please ensure you are melding your gear with Materia. Materia is a huge contributing factor to your DPS, as it is a hefty gain in your substats. Empty Materia slots are never acceptable when doing anything higher than Extreme Primals. 
+
+**Food:** Food provides a temporary (and practically mandatory) stat boost, contributing to both your total HP and your damage stats. Some builds even require food to hit your intended GCD. \
 As of Patch 6.1 we use Pumpkin Potage or Pumpkin Ratatouille, both High Quality
 
-Pots: When doing Savage and Ultimates you’ll also want to use Pots (short for potions). These provide a limited window of a large boost in your main stat (strength for tanks) that makes your damage spike. These, when used optimally, can contribute a huge amount of DPS in a raid. Using them is something you may have to get used to and you will notice their timings marked in our openers above.\
+**Pots:** When doing Savage and Ultimates you’ll also want to use Pots (short for potions). These provide a limited window of a large boost in your main stat (strength for tanks) that makes your damage spike. These, when used optimally, can contribute a huge amount of DPS in a raid. Using them is something you may have to get used to and you will notice their timings marked in our openers above.\
 You should always use the highest grade of Strength pot.
 
 # Best-In-Slot
