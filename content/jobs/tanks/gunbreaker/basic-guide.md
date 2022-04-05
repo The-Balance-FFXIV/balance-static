@@ -135,8 +135,6 @@ Immediately gives 2 Cartridges in the Powder Gauge. 90 second cooldown.
 
 # Rotation
 
-
-
 The Gunbreaker rotation is a builder-spender rotation built around attempting to maximize damage inside our personal buff, No Mercy, every 60 seconds.
 
 * This requires us to build cartridges and spend them every minute with the objective of arriving at every No Mercy window with 3/3 cartridges.
@@ -158,6 +156,54 @@ Gunbreaker starts with two cartridge slots from level 30 to level 87. 
 All of a Gunbreaker’s offensive ability and weaponskill cooldowns are divisible by 30 seconds, meaning they will always fit into a one minute window at certain time intervals, or can simply be used every 30 seconds.
 
 ![CartGen](/img/jobs/gnb/image67.png "Cart Generation")
+
+As detailed in the introduction to Gunbreaker’s rotation, we want to ensure we are building cartridges without overcapping for the purpose of spending as many as possible under No Mercy, and keeping Gnashing Fang on cooldown both in and outside No Mercy.
+
+To do this, we have two options available to build cartridges:\
+Solid Barrel Combo (Single Target): Builds **1 Cartridge**
+Combo Actions: Keen Edge ➞ Brutal Shell ➞ Solid Barrel\
+\
+Demon Combo (Area of Effect): Builds **1 Cartridge**
+Combo Actions: Demon Slice ➞ Demon Slaughter
+
+This combo is utilized in 2+ Target scenarios to build 1 cartridge.
+
+Use it to build your gauge when fighting multiple enemies. 
+
+* It is weaker in single target scenarios than the Solid Barrel Combo, however can be used in niche circumstances such as fight specific phasings to generate more cartridges that otherwise would have been lost. Do not use this combo in single target situations outside of these special cases.
+
+There are four Weaponskills that require carts to use:
+
+* **Gnashing Fang (1)**
+* **Double Down (2)**
+* **Burst strike (1)**
+* **Fated Circle (1)**
+
+**Gnashing Fang Combo (30s CD) (GCD Dependent)**
+
+* This is a 3-weaponskill combo that includes some of your heaviest hitting weaponskills. 
+  The initial weaponskill Gnashing Fang requires 1 cart to activate but the subsequent combo weaponskills Savage Claw and Wicked Talon are free. We will touch on the Gnashing combo below.
+
+**Double Down (60s CD) (GCD Dependent)**
+
+* Unique in that it requires **2 carts** to use and is actually one of the biggest reasons that getting as many carts as possible in your No Mercy Window is optimal, requiring all three carts ready to hit both Gnashing Fang and Double Down in quick succession.
+
+**Burst Strike**
+
+* Used both as a tool to prevent overcapping and to do damage inside No Mercy.
+
+**Fated Circle**
+
+* Has the same purpose as Burst Strike but in a 2+ Target situation.
+
+# Cart Usage
+
+Keep in mind that in a single target environment such as raids, it takes 3 GCDs to build a cart (2 in specific cases by using Demon Slaughter), but only takes 1 to spend. As such, over spending is very destructive so you must be careful when dumping carts between Gnashing Fang and No Mercy windows.
+
+**\
+There are four abilities that require carts to use:**
+
+<!--EndFragment-->
 
 # Defensive Off Global Cool Down Abilities
 
