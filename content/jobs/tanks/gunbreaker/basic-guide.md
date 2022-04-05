@@ -11,11 +11,11 @@ changelog:
 ---
 # Introduction to Gunbreaker
 
-Gunbreaker (GNB) is the fourth tank added to Final Fantasy XIV in the Shadowbringers expansion. It features high damage output and high casts-per-minute. GNB also features a strong defensive kit that, when used properly, can bring a lot of mitigation to the table. Let’s get started with a brief overview of the skills and abilities available to GNB.
+Gunbreaker is one of the four tanks available to the player; unlocked at Lvl. 60, it provides its own unique playstyle of rewarding damage through maintaining fast-paced burst windows. In this guide we’ll cover as much as possible from the basics to the advanced stuff while answering all the FAQs, so make sure to read everything!
 
 ## Author
 
-Torael Valdis | Jenova (NA) | Torael_Valdis#8120
+Azazel Raine | Balmung (NA) | Azazel#1000
 
 # Skills and Abilities
 
@@ -133,6 +133,32 @@ Turns into Jugular Rip, Abdomen Tear, or Eye Gouge when under the effect of Read
 
 Immediately gives 2 Cartridges in the Powder Gauge. 90 second cooldown.
 
+# Rotation
+
+
+
+The Gunbreaker rotation is a builder-spender rotation built around attempting to maximize damage inside our personal buff, No Mercy, every 60 seconds.
+
+* This requires us to build cartridges and spend them every minute with the objective of arriving at every No Mercy window with 3/3 cartridges.
+* We must have used all of our damage cooldowns on cooldown effectively without overcapping cartridges or drifting usages.
+
+The rotation revolves around the same one minute process of:
+
+* Building maximum cartridges using our cart combos.
+* Using Gnashing Fang.
+* Using Burst Strike/Fated Circle to prevent overcapping cartridges when at 3/3 to ensure proper resource pooling.
+* Using all of the highest potency damage cooldowns under No Mercy.
+* Using Bloodfest on cooldown at 0 cartridges to maximize cartridge gain.
+
+Gunbreaker starts with two cartridge slots from level 30 to level 87. 
+
+* Upon reaching level 88, you will gain "Cartridge Charge II", granting a third cartridge.
+
+\
+All of a Gunbreaker’s offensive ability and weaponskill cooldowns are divisible by 30 seconds, meaning they will always fit into a one minute window at certain time intervals, or can simply be used every 30 seconds.
+
+![CartGen](/img/jobs/gnb/image67.png "Cart Generation")
+
 # Defensive Off Global Cool Down Abilities
 
 ![Aurora](/img/jobs/tanks/gunbreaker/Aurora.png)
@@ -219,13 +245,11 @@ If you are unfamiliar with combo based classes in FFXIV, the game has a handy sy
 | ----------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- |
 | ![KeenEdge](/img/jobs/tanks/gunbreaker/Keen_Edge.png) | ![BrutalShell](/img/jobs/tanks/gunbreaker/Brutal_Shell.png) | ![SolidBarrel](/img/jobs/tanks/gunbreaker/Solid_Barrel.png) |
 
-
 Solid Barrel combo is our single target combo. Builds one Cartridge.
 
-| **Demon Slice->** | **Demon Slaughter** |
-|-|-|
-|![DemonSlice](/img/jobs/tanks/gunbreaker/Demon_Slice.png) | ![DemonSlaughter](/img/jobs/tanks/gunbreaker/Demon_Slaughter.png)|
-
+| **Demon Slice->**                                         | **Demon Slaughter**                                               |
+| --------------------------------------------------------- | ----------------------------------------------------------------- |
+| ![DemonSlice](/img/jobs/tanks/gunbreaker/Demon_Slice.png) | ![DemonSlaughter](/img/jobs/tanks/gunbreaker/Demon_Slaughter.png) |
 
 Demon Slaughter combo is our 2+ target AoE combo. Builds one Cartridge.
 We will talk about when to use Solid Barrel combo vs Demon Slaughter combo in the next section. 
