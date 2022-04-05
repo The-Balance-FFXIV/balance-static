@@ -234,6 +234,71 @@ Below is an infographic on what combo flexibility looks like when using Gnashing
 
 ![ComboFlex](/img/jobs/gnb/al2.png "Combo Flexibility")
 
+**Using any weaponskill before you use your Continuation ability gained from using Gnashing Fang Combo will cause you will lose the Continuation buff. For example:**
+
+![ContBreak](/img/jobs/gnb/break.png "Broken Continuation")
+
+Since Sonic Break was used **before** Jugular Rip was activated, the Continuation buff that allows you to execute Jugular Rip is lost, thus you lose a usage/damage. 
+It is important to land your Continuation hits before moving onto the next GCD to avoid losing usages.
+See below for a quick reference of each weaponskill and their corresponding Continuation:
+
+* Gnashing Fang procs Jugular Rip
+* Savage Claw procs Abdomen Tear 
+* Wicked Talon procs Eye Gouge
+* Burst Strike procs Hypervelocity
+
+## No Mercy & Bloodfest
+
+### No Mercy
+
+
+
+No Mercy is the backbone of our burst. It provides a 20% damage increase for 20s.
+
+* This duration allows us to fit 9GCDs into the buff, ensuring the damage of those 9 weaponskills is amplified. 
+
+No Mercy will always contain the following:
+
+\
+GCD:
+Gnashing Fang**\***
+Double Down
+Sonic Break 
+Savage Claw 
+Wicked Talon
+Burst Strike(s)
+Remainder of your Solid Barrel combo
+
+oGCD:
+Jugular Rip**\***
+Abdomen Tear 
+Eye Gouge
+Blasting Zone
+Bow Shock
+Rough Divide
+
+As you can see, this is where GNB gets its busy reputation because of all the above abilities, in one form or another, having to be used inside a 20s window every 1 minute. 
+
+* As a result, you need to ensure you’re always ready for a full No Mercy Window. 
+* This requires you to have 3 carts in your Powder Gauge as Gnashing Fang requires 1 cart and Double Down requires 2 carts. 
+* This is a fundamental rule of No Mercy and should never change. You should never be in a situation where you enter No Mercy without 3 carts loaded.
+* You ideally want 2xRough Divide in every No Mercy; however you can use Rough Divide to gap close if you would otherwise lose several GCD’s due to running across the arena chasing the boss. 
+
+*\*At lvl. 90, the Gnashing Fang + Jugular Rip part of your GF combo is sometimes omitted in some No Mercy windows (see Gnashing Fang ➞ No Mercy below), but before lvl. 90, you aim to keep all of GF in every NM Window.*
+
+
+
+**So what changes between each No Mercy Window?**\
+One of the main changes is where in your Solid Barrel combo you’ll be when you enter No Mercy. As a result of this the placement of Burst Strike(s) and your combo changes but the core usage of abilities is the same.
+
+Once you finish your Gnashing Fang Combo (Which will contain Double Down and Sonic Break), your next goal is to empty remaining carts (granted by Bloodfest), when your Power Gauge is empty, you revert back to your Solid Barrel combo. If the No Mercy buff is still present and you have generated a cart from Solid Barrel, you immediately dump the cart into Burst Strike to get it under the 20% damage up. You can see the variations below.
+
+The father of Gunbreaker, Rin Karigani, made a chart showing an opener and the subsequent No Mercy Windows in a full uptime scenario.
+
+You can see an example of this rotation here in Rin’s 12m rotation showcase: [Endwalker Gunbreaker Opener & 12m Rotation | No Commentary](https://youtu.be/Seua-yrZC6s)
+
+![NM Windows](/img/jobs/gnb/gnbopener.jpg "1-2-3 No Mercy + Windows")
+
 # Defensive Off Global Cool Down Abilities
 
 ![Aurora](/img/jobs/tanks/gunbreaker/Aurora.png)
