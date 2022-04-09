@@ -2,6 +2,7 @@
 title: Gunbreaker Basic Guide
 card_header_image: /img/jobs/gnb/basic.png
 authors:
+  - azazael
   - Balance-GNB-Staff
 patch: "6.08"
 lastmod: 2022-04-09T19:50:37.411Z
@@ -179,6 +180,8 @@ All of a Gunbreaker’s offensive ability and weaponskill cooldowns are divisibl
 
 ![CartGen](/img/jobs/gnb/image67.png "Cart Generation")
 
+&nbsp;
+
 As detailed in the introduction to Gunbreaker’s rotation, we want to ensure we are building cartridges without overcapping for the purpose of spending as many as possible under No Mercy, and keeping Gnashing Fang on cooldown both in and outside No Mercy.
 
 To do this, we have two options available to build Cartridges:\
@@ -229,6 +232,8 @@ Upon using your Gnashing Fang attack you’ll begin your combo while activating 
 
 ![Continuation](/img/jobs/gnb/image60.png "Continuation")
 
+&nbsp;
+
 Continuation is a follow up off-GCD hit for each of the above abilities that you use directly after each GCD. This is where Gunbreaker’s fast pace comes in, as you have these quick succession hits following your big hitters - think of every activation as a one-two punch. You will be required to get Gunbreaker to level 70 to gain these abilities.
 
 **Gnashing Fang** will turn into **Savage Claw** and then into **Wicked Talon**, while your Continuation button will change from **Jugular Rip** to **Abdomen Tear** to **Eye Gouge.**
@@ -239,6 +244,9 @@ Upon reaching level 86 you will get Enhanced Continuation, which grants Continua
 Since Gnashing Fang is **30s** and No Mercy is **60s**. Every second Gnashing Fang Combo will be without No Mercy. As a result it’s not as strong but not as busy. However it still requires **one Cartridge** to use. Blasting Zone is also 30s so we want to keep Gnashing Fang and Blasting Zone together since they’ll both line up with No Mercy at 60s. This is a standard Gnashing Fang outside of No Mercy. We’ll take a look at the full No Mercy window further on in the guide.
 
 ![](/img/jobs/gnb/alt.png)
+
+&nbsp;
+
 
 The order of a possible Gnashing Fang Combo is as follows:
 Gnashing Fang ➞ Jugular Rip
@@ -257,9 +265,13 @@ Below is an infographic on what combo flexibility looks like when using Gnashing
 
 ![ComboFlex](/img/jobs/gnb/al2.png "Combo Flexibility")
 
+&nbsp;
+
 **Using any weaponskill before you use your Continuation ability gained from using Gnashing Fang Combo will cause you will lose the Continuation buff. For example:**
 
 ![ContBreak](/img/jobs/gnb/break.png "Broken Continuation")
+
+&nbsp;
 
 Since Sonic Break was used **before** Jugular Rip was activated, the Continuation buff that allows you to execute Jugular Rip is lost, thus you lose a usage/damage. 
 
@@ -322,6 +334,8 @@ You can see an example of this rotation here in Rin’s 12 minute rotation showc
 
 ![NM Windows](/img/jobs/gnb/gnbopener.jpg "1-2-3 No Mercy + Windows")
 
+&nbsp;
+
 The Pull is the opening of the fight which is why it will contain a Tincture of Strength. If you are the Main Tank ensure you have Royal Guard on to ensure enmity. Each subsequent window is their number after the Opener. For example, One Minute Window is one minute after the opener, Two Minute Window is two minute later and so on. **Please note, these windows change if you adjust your opener to something else such as Keen Mercy opener.**
 
 As you can see, each window contains the above abilities. **The remainder of the Solid Barrel combo** is determined by what part of the combo was rolling when entering No Mercy. For example, in the two minute window, you would have already used Keen Edge and Brutal Shell before using No Mercy, allowing you to end on a Solid Barrel after concluding the Gnashing Fang combo.
@@ -339,6 +353,8 @@ A number of factors play into allowing for nine GCDs inside No Mercy: 
 * Most importantly, the time at which you hit No Mercy. The later in the GCD clock you hit No Mercy, the more you shift the buff and as such gives you more time to land the ninth GCD. This is an important piece of optimization. You ideally want to hit No Mercy roughly when a weaponskill icon looks like this:
 
 ![NoMercyClock](https://i.imgur.com/VEV9uhQ.png?1649180326 "No Mercy GCD")
+
+&nbsp;
 
 I also have a video where I touch on this. Although it is from Shadowbringers, it is still applicable to Endwalker. It can be seen here:** [How to Fit nine GCDs in No Mercy on GNB](https://youtu.be/rdNHJv7aLAg)**
 
@@ -608,12 +624,12 @@ Ultimates are timeless content due to their difficulty and rewards but are force
 
 **The Unending Coil of Bahamut (UCoB):**\
 IL Cap: 470\
-BIS: [UCoB/UWU Combi BIS](https://cdn.discordapp.com/attachments/541353216307232788/950220623873990656/unknown.png)\
+BIS: [UCoB/UWU Combination BIS](https://cdn.discordapp.com/attachments/541353216307232788/950220623873990656/unknown.png)\
 Relic Stat cap: 127
 
 **The Weapon’s Refrain (UWU):**\
 IL Cap: 500\
-BIS: UCoB/UWU Combi BIS\
+BIS: UCoB/UWU Combination BIS\
 Relic Stat cap: 136
 
 **The Epic of Alexander (TEA):**\
