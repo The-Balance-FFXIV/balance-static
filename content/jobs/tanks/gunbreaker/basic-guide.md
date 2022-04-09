@@ -96,13 +96,13 @@ Consumes one Cartridge. 290 potency to all targets in a 5y circle around you.
 **No Mercy**
 
 20% damage increase for 20 seconds. \
-CD: 60s
+Cooldown (CD): 60s
 
 ![Bloodfest](/img/jobs/tanks/gunbreaker/Bloodfest.png)
 **Bloodfest**
 
-Immediately gives 3 Cartridges in the Powder Gauge. \
-**Only grants 2 carts below Lvl. 88* \
+Immediately gives three Cartridges in the Powder Gauge. \
+**Only grants two Cartridges below Lvl. 88* \
 CD: 90s
 
 ![Continuation](/img/jobs/tanks/gunbreaker/Continuation.png)
@@ -152,27 +152,27 @@ CD: 60s
 **Rough Divide**
 
 150 potency attack that dashes you to the target with a 25y range. \
-Has 2 Charges\
+Has two charges\
 CD: 30s per charge
 
 # Rotation
 
 The Gunbreaker rotation is a builder-spender rotation built around attempting to maximize damage inside our personal buff, No Mercy, every 60 seconds.
 
-* This requires us to build cartridges and spend them every minute with the objective of arriving at every No Mercy window with 3/3 cartridges.
+* This requires us to build Cartridges and spend them every minute with the objective of arriving at every No Mercy window with 3/3 cartridges.
 * We must have used all of our damage cooldowns on cooldown effectively without overcapping cartridges or drifting usages.
 
 The rotation revolves around the same one minute process of:
 
-* Building maximum cartridges using our cart combos.
+* Building maximum Cartridges using our cart combos.
 * Using Gnashing Fang.
 * Using Burst Strike/Fated Circle to prevent overcapping cartridges when at 3/3 to ensure proper resource pooling.
 * Using all of the highest potency damage cooldowns under No Mercy.
-* Using Bloodfest on cooldown at 0 cartridges to maximize cartridge gain.
+* Using Bloodfest on cooldown at zero Cartridges to maximize Cartridge gain.
 
-Gunbreaker starts with two cartridge slots from level 30 to level 87. 
+Gunbreaker starts with two Cartridge slots from level 30 to level 87. 
 
-* Upon reaching level 88, you will gain "Cartridge Charge II", granting a third cartridge.
+* Upon reaching level 88, you will gain "Cartridge Charge II", granting a third Cartridge.
 
 \
 All of a Gunbreaker’s offensive ability and weaponskill cooldowns are divisible by 30 seconds, meaning they will always fit into a one minute window at certain time intervals, or can simply be used every 30 seconds.
@@ -181,20 +181,20 @@ All of a Gunbreaker’s offensive ability and weaponskill cooldowns are divisibl
 
 As detailed in the introduction to Gunbreaker’s rotation, we want to ensure we are building cartridges without overcapping for the purpose of spending as many as possible under No Mercy, and keeping Gnashing Fang on cooldown both in and outside No Mercy.
 
-To do this, we have two options available to build cartridges:\
-Solid Barrel Combo (Single Target): Builds **1 Cartridge**
+To do this, we have two options available to build Cartridges:\
+Solid Barrel Combo (Single Target): Builds **one Cartridge**
 Combo Actions: Keen Edge ➞ Brutal Shell ➞ Solid Barrel\
 \
-Demon Combo (Area of Effect): Builds **1 Cartridge**
+Demon Combo (Area of Effect): Builds **one Cartridge**
 Combo Actions: Demon Slice ➞ Demon Slaughter
 
-This combo is utilized in 2+ Target scenarios to build 1 cartridge.
+This combo is utilized in 2+ Target scenarios to build one Cartridge.
 
 Use it to build your gauge when fighting multiple enemies. 
 
 * It is weaker in single target scenarios than the Solid Barrel Combo, however can be used in niche circumstances such as fight specific phasings to generate more cartridges that otherwise would have been lost. Do not use this combo in single target situations outside of these special cases.
 
-Keep in mind that in a single target environment such as raids, it takes 3 GCDs to build a cart (2 in specific cases by using Demon Slaughter), but only takes 1 to spend. As such, over spending is very destructive so you must be careful when dumping carts between Gnashing Fang and No Mercy windows.
+Keep in mind that in a single target environment such as raids, it takes three GCDs to build a cart (two in specific cases by using Demon Slaughter), but only takes one to spend. As such, over spending is very destructive so you must be careful when dumping carts between Gnashing Fang and No Mercy windows.
 
 There are **four** Weaponskills that require carts to use:
 
@@ -206,11 +206,11 @@ There are **four** Weaponskills that require carts to use:
 **Gnashing Fang Combo (30s CD) (GCD Dependent)**
 
 * This is a 3-weaponskill combo that includes some of your heaviest hitting weaponskills. 
-  The initial weaponskill Gnashing Fang requires 1 cart to activate but the subsequent combo weaponskills Savage Claw and Wicked Talon are free. We will touch on the Gnashing combo below.
+  The initial weaponskill Gnashing Fang requires one Cartridge to activate but the subsequent combo weaponskills Savage Claw and Wicked Talon are free. We will touch on the Gnashing combo below.
 
 **Double Down (60s CD) (GCD Dependent)**
 
-* Unique in that it requires **2 carts** to use and is actually one of the biggest reasons that getting as many carts as possible in your No Mercy Window is optimal, requiring all three carts ready to hit both Gnashing Fang and Double Down in quick succession.
+* Unique in that it requires **two cartridges** to use and is actually one of the biggest reasons that getting as many Cartridges as possible in your No Mercy Window is optimal, requiring all three Cartridges ready to hit both Gnashing Fang and Double Down in quick succession.
 
 **Burst Strike**
 
@@ -223,19 +223,20 @@ There are **four** Weaponskills that require carts to use:
 ## Gnashing Fang Combo & Continuation
 
 Here we will discuss two things: The Gnashing Fang Combo and Continuation.
-Your Gnashing Fang combo is a combo containing three high potency weaponskills that can only be used every 30s and require 1 cart to start the combo. This is pretty much your burst window’s core and is further complemented by No Mercy every 60s.
+
+Your Gnashing Fang combo is a combo containing three high potency weaponskills that can only be used every 30s and require one Cartridge to start the combo. This is pretty much your burst window’s core and is further complemented by No Mercy every 60s.
 Upon using your Gnashing Fang attack you’ll begin your combo while activating Continuation:
 
 ![Continuation](/img/jobs/gnb/image60.png "Continuation")
 
-Continuation is a follow up off-GCD hit for each of the above abilities that you use directly after each GCD. This is where Gunbreaker’s fast pace comes in, as you have these quick succession hits following your big hitters - think of every activation as a one-two punch. You will be required to get Gunbreaker to Lvl. 70 to gain these abilities.
+Continuation is a follow up off-GCD hit for each of the above abilities that you use directly after each GCD. This is where Gunbreaker’s fast pace comes in, as you have these quick succession hits following your big hitters - think of every activation as a one-two punch. You will be required to get Gunbreaker to level 70 to gain these abilities.
 
 **Gnashing Fang** will turn into **Savage Claw** and then into **Wicked Talon**, while your Continuation button will change from **Jugular Rip** to **Abdomen Tear** to **Eye Gouge.**
 
-Upon reaching Lvl. 86 you will get Enhanced Continuation, which grants Continuation to Burst Strike, giving you access to **Hypervelocity**.
+Upon reaching level 86 you will get Enhanced Continuation, which grants Continuation to Burst Strike, giving you access to **Hypervelocity**.
 
 **What does a Gnashing Fang Combo look like?**
-Since Gnashing Fang is **30s** and No Mercy is **60s**. Every 2nd Gnashing Fang Combo will be without No Mercy. As a result it’s not as strong but not as busy. However it still requires **1 cart** to use. Blasting Zone is also 30s so we want to keep Gnashing Fang and Blasting Zone together since they’ll both line up with No Mercy at 60s. This is a standard Gnashing Fang outside of No Mercy. We’ll take a look at the full No Mercy window further on in the guide.
+Since Gnashing Fang is **30s** and No Mercy is **60s**. Every second Gnashing Fang Combo will be without No Mercy. As a result it’s not as strong but not as busy. However it still requires **one Cartridge** to use. Blasting Zone is also 30s so we want to keep Gnashing Fang and Blasting Zone together since they’ll both line up with No Mercy at 60s. This is a standard Gnashing Fang outside of No Mercy. We’ll take a look at the full No Mercy window further on in the guide.
 
 ![](/img/jobs/gnb/alt.png)
 
@@ -246,7 +247,7 @@ Wicked Talon ➞ Eye Gouge
 
 The placement of Blasting Zone can shift as it is not affected by SkS but GF combo is, as such it won’t line up in the same spot.  
 
-One thing to keep in mind is that your Gnashing Fang is a combo but it has flexibility. 
+One thing to keep in mind is that your Gnashing Fang is a combo, but it has flexibility. 
 
 * Certain actions can be used inside this combo (and are done so for optimal damage in buffs) without breaking it. 
 * The combo can still be broken by using any of your basic combo actions (Solid Barrel or Demon Slaughter combos). 
@@ -261,7 +262,9 @@ Below is an infographic on what combo flexibility looks like when using Gnashing
 ![ContBreak](/img/jobs/gnb/break.png "Broken Continuation")
 
 Since Sonic Break was used **before** Jugular Rip was activated, the Continuation buff that allows you to execute Jugular Rip is lost, thus you lose a usage/damage. 
+
 It is important to land your Continuation hits before moving onto the next GCD to avoid losing usages.
+
 See below for a quick reference of each weaponskill and their corresponding Continuation:
 
 * Gnashing Fang procs Jugular Rip
@@ -275,7 +278,7 @@ See below for a quick reference of each weaponskill and their corresponding Cont
 
 No Mercy is the backbone of our burst. It provides a 20% damage increase for 20s.
 
-* This duration allows us to fit 9GCDs into the buff, ensuring the damage of those 9 weaponskills is amplified. 
+* This duration allows us to fit nine GCDs into the buff, ensuring the damage of those nine weaponskills is amplified. 
 
 No Mercy will always contain the following:
 
@@ -299,14 +302,14 @@ oGCD:
 * Bow Shock
 * Rough Divide
 
-As you can see, this is where GNB gets its busy reputation because of all the above abilities, in one form or another, having to be used inside a 20s window every 1 minute. 
+As you can see, this is where GNB gets its busy reputation because of all the above abilities, in one form or another, having to be used inside a 20s window every minute. 
 
 * As a result, you need to ensure you’re always ready for a full No Mercy Window. 
-* This requires you to have 3 carts in your Powder Gauge as Gnashing Fang requires 1 cart and Double Down requires 2 carts. 
-* This is a fundamental rule of No Mercy and should never change. You should never be in a situation where you enter No Mercy without 3 carts loaded.
-* You ideally want 2xRough Divide in every No Mercy; however you can use Rough Divide to gap close if you would otherwise lose several GCD’s due to running across the arena chasing the boss. 
+* This requires you to have three Cartridges in your Powder Gauge as Gnashing Fang requires one Cartridge and Double Down requires two Cartridges. 
+* This is a fundamental rule of No Mercy and should never change. You should never be in a situation where you enter No Mercy without three Cartridges loaded.
+* You ideally want two Rough Divides in every No Mercy; however you can use Rough Divide to gap close if you would otherwise lose several GCD’s due to running across the arena chasing the boss. 
 
-*\*At lvl. 90, the Gnashing Fang + Jugular Rip part of your GF combo is sometimes omitted in some No Mercy windows (see Gnashing Fang ➞ No Mercy below), but before lvl. 90, you aim to keep all of GF in every NM Window.*
+*\*At level 90, the Gnashing Fang + Jugular Rip part of your GF combo is sometimes omitted in some No Mercy windows (see Gnashing Fang ➞ No Mercy below), but before level 90, you aim to keep all of GF in every NM Window.*
 
 **So what changes between each No Mercy Window?**\
 One of the main changes is where in your Solid Barrel combo you’ll be when you enter No Mercy. As a result of this the placement of Burst Strike(s) and your combo changes but the core usage of abilities is the same.
@@ -315,36 +318,36 @@ Once you finish your Gnashing Fang Combo (Which will contain Double Down and Son
 
 The father of Gunbreaker, Rin Karigani, made a chart showing an opener and the subsequent No Mercy Windows in a full uptime scenario.
 
-You can see an example of this rotation here in Rin’s 12m rotation showcase: [Endwalker Gunbreaker Opener & 12m Rotation | No Commentary](https://youtu.be/Seua-yrZC6s)
+You can see an example of this rotation here in Rin’s 12 minute rotation showcase: [Endwalker Gunbreaker Opener & 12 minute Rotation | No Commentary](https://youtu.be/Seua-yrZC6s)
 
 ![NM Windows](/img/jobs/gnb/gnbopener.jpg "1-2-3 No Mercy + Windows")
 
-The Pull is the opening of the fight which is why it will contain a Tincture of Strength. If you are the Main Tank ensure you have Royal Guard on to ensure enmity. Each subsequent window is their number after the Opener. I.e 1 Minute Window is 1min after the opener, 2 Minute Window is 2m later and so on. **Please note, these windows change if you adjust your opener to something else such as Keen Mercy opener.**
+The Pull is the opening of the fight which is why it will contain a Tincture of Strength. If you are the Main Tank ensure you have Royal Guard on to ensure enmity. Each subsequent window is their number after the Opener. For example, One Minute Window is one minute after the opener, Two Minute Window is two minute later and so on. **Please note, these windows change if you adjust your opener to something else such as Keen Mercy opener.**
 
-As you can see, each window contains the above abilities. **The remainder of the Solid Barrel combo** is determined by what part of the combo was rolling when entering No Mercy. For example, in the 2 Minute window, you would have already used Keen Edge and Brutal Shell before using No Mercy, allowing you to end on a Solid Barrel after concluding the Gnashing Fang combo.
+As you can see, each window contains the above abilities. **The remainder of the Solid Barrel combo** is determined by what part of the combo was rolling when entering No Mercy. For example, in the two minute window, you would have already used Keen Edge and Brutal Shell before using No Mercy, allowing you to end on a Solid Barrel after concluding the Gnashing Fang combo.
 
 The reason we begin Gnashing Fang and use Double Down followed by Sonic Break before finishing our Gnashing Fang combo is to maximize usages.
 
 * The cooldown of an ability begins from the moment it is pressed. 
 * If we wait until after Gnashing Fang even though it doesn’t interrupt it, then we’re just holding it for two GCDs for no reason which can lose a usage over the course of a fight.
 
-**Fitting 9GCDs:**\
-A number of factors play into allowing for 9 GCDs inside No Mercy: 
+**Fitting Nine GCDs:**\
+A number of factors play into allowing for nine GCDs inside No Mercy: 
 
-* Skill Speed: The time at which the No Mercy buff applies allows us just under 20 seconds to fit 9 GCDs. This requires us to have a GCD recast speed that fits the 9th GCD usage while No Mercy is still active. To do this reliably and consistently, you should try to be at 2.46 or faster.
+* Skill Speed: The time at which the No Mercy buff applies allows us just under 20 seconds to fit nine GCDs. This requires us to have a GCD recast speed that fits the ninth GCD usage while No Mercy is still active. To do this reliably and consistently, you should try to be at 2.46 or faster.
 * Latency: high ping can cause a delay in your ability to immediately recast the GCD, causing “clipping” that make it difficult or impossible to get 9/9 GCDs.
-* Most importantly, the time at which you hit No Mercy. The later in the GCD clock you hit No Mercy, the more you shift the buff and as such gives you more time to land the 9th GCD. This is an important piece of optimization. You ideally want to hit No Mercy roughly when a weaponskill icon looks like this:
+* Most importantly, the time at which you hit No Mercy. The later in the GCD clock you hit No Mercy, the more you shift the buff and as such gives you more time to land the ninth GCD. This is an important piece of optimization. You ideally want to hit No Mercy roughly when a weaponskill icon looks like this:
 
 ![NoMercyClock](https://i.imgur.com/VEV9uhQ.png?1649180326 "No Mercy GCD")
 
-I also have a video where I touch on this. Although it is from Shadowbringers, it is still applicable to Endwalker. It can be seen here:** [How to Fit 9GCDs in No Mercy on GNB](https://youtu.be/rdNHJv7aLAg)**
+I also have a video where I touch on this. Although it is from Shadowbringers, it is still applicable to Endwalker. It can be seen here:** [How to Fit nine GCDs in No Mercy on GNB](https://youtu.be/rdNHJv7aLAg)**
 
 #### Reverse Drift
 
 Something to know about before we go any further is how Skill Speed affects your weaponskills. The more Skill Speed you have, the faster your GCD is but also the shorter the cooldown of your weaponskills. Failure to use Reverse Drift properly can result in messy No Mercy windows and ability placements so it’s worth looking into.
 
 \
-For example: at 2.41GCD (Approx 883 SKS stat) Gnashing has a CD of 29.01s, Double Down has a CD of 58.02s. However SKS does not affect abilities such as No Mercy, Blasting Zone, Rough Divide and Bloodfest. Regardless of your Skill Speed, they will retain their 30s, 60s and 90s cooldowns respectively. 
+For example: at 2.41GCD (Approx 883 SKS stat) Gnashing has a CD of 29.01s, Double Down has a CD of 58.02s. However SkS does not affect abilities such as No Mercy, Blasting Zone, Rough Divide and Bloodfest. Regardless of your Skill Speed, they will retain their 30s, 60s and 90s cooldowns respectively. 
 
 What does this mean?
 
@@ -356,32 +359,31 @@ If weaponskills like Gnashing Fang are used on cooldown they will eventually mis
 
 Due to the nature of how Gunbreaker is in Endwalker, if you follow the rotation as intended you will eventually come to a situation at certain intervals where you will have:
 
-* 3 cartridges prepped.
+* Three Cartridges prepped.
 * Solid Barrel is ready to cast at the next GCD.
 * No Mercy is still on cooldown until after the next GCD. 
 
-This isn’t an error or a mistake, it’s guaranteed in the rotation and will happen. The most optimal choice for this is to use Gnashing Fang ➞ Jugular Rip ➞ No Mercy. (See 3 Minute window above). 
+This isn’t an error or a mistake, it’s guaranteed in the rotation and will happen. The most optimal choice for this is to use Gnashing Fang ➞ Jugular Rip ➞ No Mercy. (See three minute window above). 
 
 Although we are leaving Gnashing Fang and Jugular Rip out of No Mercy, it secures an extra Burst Strike in No Mercy while ensuring that No Mercy does not drift out of raid buffs. It has been discussed and assessed and, as odd as it is, No Mercy after Gnashing is the optimal play and is something you will need to get used to.
 
 ## Bloodfest
 
-Bloodfest is our second indirect/buffing offensive ability. Granting us a full Powder Gauge, it simply enables more gauge expenditure and therefore more damage. Using Bloodfest effectively is a way we can enter an optimal No Mercy without worrying about carts or can provide 3xBurst Strikes within No Mercy. The two biggest mistakes I see new Gunbreakers do is hold Bloodfest for No Mercy or to use it as reset for downtime; although the latter is not a bad option, it should not be used exclusively for that purpose.
+Bloodfest is our second indirect/buffing offensive ability. Granting us a full Powder Gauge, it simply enables more gauge expenditure and therefore more damage. Using Bloodfest effectively is a way we can enter an optimal No Mercy without worrying about carts or can provide three Burst Strikes within No Mercy. The two biggest mistakes I see new Gunbreakers do is hold Bloodfest for No Mercy or to use it as reset for downtime; although the latter is not a bad option, it should not be used exclusively for that purpose.
 
-**\
-Bloodfest should be used on cooldown** and, if done so, will line up for big burst windows with No Mercy naturally every 3 minutes. Delaying Bloodfest is extremely situational and should not be done excessively as it will result in lost usages. Lost usages means lost ammo, lost ammo means lost damage.
+**Bloodfest should be used on cooldown** and, if done so, will line up for big burst windows with No Mercy naturally every three minutes. Delaying Bloodfest is extremely situational and should not be done excessively as it will result in lost usages. Lost usages means lost ammo, lost ammo means lost damage.
 
 **Bloodfest is up but No Mercy is on cooldown:**\
 Burst Strike or Fated Circle until your gauge is empty, then use Bloodfest to refill. 
 
-* If Gnashing Fang is coming up, you can use Gnashing Fang to dump 1 cart unless waiting for Gnashing will cause you to hold Bloodfest for several GCDs, in that case, Burst Strike to 0 carts ➞ Bloodfest ➞ Gnashing Fang.
+* If Gnashing Fang is coming up, you can use Gnashing Fang to dump 1 cart unless waiting for Gnashing will cause you to hold Bloodfest for several GCDs, in that case, Burst Strike to zero Cartridges ➞ Bloodfest ➞ Gnashing Fang.
 
 **Bloodfest is up and No Mercy is ready:**\
-No Mercy is to be entered the same as any other window, being already at 3/3 cartridges. 
+No Mercy is to be entered the same as any other window, being already at 3/3 Cartridges. 
 
-* Utilize  Gnashing Fang and  Double Down to get to 0/3 carts, then use Bloodfest to gain 3/3 cartridges again. 
+* Utilize  Gnashing Fang and  Double Down to get to 0/3 Cartridges, then use Bloodfest to gain 3/3 cartridges again. 
 
-This allows you to refill your cartridge gauge to place 3  Burst Strikes into No Mercy.
+This allows you to refill your Cartridge gauge to place three Burst Strikes into No Mercy.
 
 Bloodfest will always grant 3 carts. So using it with any carts loaded is a loss.\
 1 cart loaded + 3 carts from Bloodfest = 4 carts, **1 lost due to overcap!**
