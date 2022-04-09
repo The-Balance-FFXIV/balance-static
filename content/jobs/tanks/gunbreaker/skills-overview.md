@@ -1,13 +1,14 @@
 ---
 title: Gunbreaker Skills Overview
 authors:
-  - ToraelValdis
   - Balance-GNB-Staff
-patch: "5.58"
-lastmod: 2021-10-25T21:30:42.464Z
+patch: "6.08"
+lastmod: 2022-04-09T21:51:27.171Z
 changelog:
   - date: 2021-10-25T21:30:58.365Z
-    message: Created article
+    message: Added Superbolide w/ EW buff
+  - date: 2022-04-09T21:51:28.266Z
+    message: Further EW update
 ---
 # Gunbreaker Skills Overview
 
@@ -33,17 +34,18 @@ changelog:
 
 |                                                               |                   |                                                                                                                                                                                                   |
 | ------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![NoMercy](/img/jobs/tanks/gunbreaker/No_Mercy.png)           | **No Mercy**      | 20% damage increase for 20 seconds. 60 second cooldown.                                                                                                                                           |
+| ![Bloodfest](/img/jobs/tanks/gunbreaker/Bloodfest.png)        | **Bloodfest**     | Immediately gives 3 Cartridges in the Powder Gauge. 90 second cooldown.                                                                                                                           |
 | ![Continuation](/img/jobs/tanks/gunbreaker/Continuation.png)  | **Continuation**  | Turns into Jugular Rip, Abdomen Tear, or Eye Gouge when under the effect of Ready To Rip, Ready To Tear, or Ready To Gouge respectively. Also allows you to use Hypervelocity after Burst Strike.                                                         |
 | ![JugularRip](/img/jobs/tanks/gunbreaker/Jugular_Rip.png)     | **Jugular Rip**   | 180 potency attack. Can only be used under Ready To Rip triggered by Gnashing Fang.                                                                                                               |
 | ![AbdomenTear](/img/jobs/tanks/gunbreaker/Abdomen_Tear.png)   | **Abdomen Tear**  | 220 potency attack. Can only be used under Ready To Tear triggered by Savage Claw.                                                                                                                |
-| ![EyeGouge](/img/jobs/tanks/gunbreaker/Eye_Gouge.png)         | **Eye Gouge**     | 260 potency attack. Can only be used under Ready To Gouge triggered by Wicked Talon.                                                                                                              |
+| ![EyeGouge](/img/jobs/tanks/gunbreaker/Eye_Gouge.png)         | **Eye Gouge**     | 260 potency attack. Can only be used under Ready To Gouge triggered by Wicked Talon. 
+| ![Hypervelocity](https://xivapi.com/i/003000/003431_hr1.png)        | **Hypervelocity**     | Delivers an attack with a potency of 180. Can only be used when Ready to Blast.                                                                                                                          |                                                                                                            
 | ![DangerZone](/img/jobs/tanks/gunbreaker/Danger_Zone.png)     | **Danger Zone**   | 250 potency attack with a 30 second cooldown. Becomes Blasting Zone at level 80.                                                                                                                  |
 | ![BlastingZone](/img/jobs/tanks/gunbreaker/Blasting_Zone.png) | **Blasting Zone** | 700 potency attack with a 30 second cooldown.                                                                                                                                                     |
 | ![BowShock](/img/jobs/tanks/gunbreaker/Bow_Shock.png)         | **Bow Shock**     | 150 potency attack to all targets in a 5y circle around you. Also applies a 60 potency DoT for 15s to all targets hit by the initial attack (for a total of 450 potency per target from the DoT). |
 | ![RoughDivide](/img/jobs/tanks/gunbreaker/Rough_Divide.png)   | **Rough Divide**  | 150 potency attack that dashes you to the target. Has 2 charges that regenerate at a rate of 1 charge every 30 seconds. 20y range.                                                                |
-| ![NoMercy](/img/jobs/tanks/gunbreaker/No_Mercy.png)           | **No Mercy**      | 20% damage increase for 20 seconds. 60 second cooldown.                                                                                                                                           |
-| ![Bloodfest](/img/jobs/tanks/gunbreaker/Bloodfest.png)        | **Bloodfest**     | Immediately gives 3 Cartridges in the Powder Gauge. 90 second cooldown.                                                                                                                           |
-| ![Hypervelocity](https://xivapi.com/i/003000/003431_hr1.png)        | **Hypervelocity**     | Delivers an attack with a potency of 180. Can only be used when Ready to Blast.                                                                                                                          |
+
 
 ## Defensive Off Global Cool Down Abilities
 
@@ -51,7 +53,8 @@ changelog:
 | -------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Aurora](/img/jobs/tanks/gunbreaker/Aurora.png)               | **Aurora**         | 200 potency Heal over Time (HoT) for 18 seconds. 1200 potency heal total. 60 second cooldown. Can be used on self or a target party member in a 30y range. Can hold two charges.                                                                                                                                                   |
 | ![Camouflage](/img/jobs/tanks/gunbreaker/Camouflage.png)       | **Camouflage**     | Reduces damage taken by 10% for 20 seconds. Gives +50% parry rate (for a total of 60% parry rate) for 20 seconds. Parry only works on physical damage and reduces damage by 15% when it applies. \[The 10% damage reduction applies regardless of if the attack is physical or magical.]                       |
-| ![Nebula](/img/jobs/tanks/gunbreaker/Nebula.png)               | **Nebula**         | Reduces damage taken by 30% for 15 seconds. 120 second cooldown.                                                                                                                                                                                                                                               |
+| ![Nebula](/img/jobs/tanks/gunbreaker/Nebula.png)               | **Nebula**         | Reduces damage taken by 30% for 15 seconds. 120 second cooldown.
+| ![Superbolide](/img/jobs/tanks/gunbreaker/Superbolide.png) | **Superbolide** | Reduces HP to 1 and renders you impervious to most attacks. Duration: 10s. Cooldown: 360s/6m |                                                                                                                                                                                                                                          
 | ![HeartOfStone](/img/jobs/tanks/gunbreaker/Heart_of_Stone.png) | **Heart of Stone** | Reduces damage taken by 15% for seven seconds. Can be used on self or a target party member in a 30y range. If used on a party member, any existing Brutal Shell shield will be copied onto them. (i.e. if you have 4000 shield from Brutal Shell when you use it on them, they now have 4000 shield as well.) |
 | ![Heart of Corundum](https://xivapi.com/i/003000/003430_hr1.png)     | **Heart of Corundum**    | Reduces the damage taken from self or party member by 15%, lasting for eight seconds. Target party member also gains the effect of Brutal Shell. Grants Clarity of Corundrum to the target, which reduces damage taken by 15% for 4s, and also grants Catharsis of Corundrum, which restores HP when it falls below 50% (or when the timer runs out) for a heal of 900 potency. Catharis of Corundrum lasts for 20 seconds.                                                                                                                                                                                                    |
 | ![ArmsLength](/img/jobs/tanks/gunbreaker/Arms_Length.png)      | **Arm’s Length**   | Role action. Makes you immune to most knockback or draw-in effects for 6 seconds. Applies a 20% slow to enemies that attack you while Arm’s Length is active (This means enemies will attack you 20% slower, very useful for dungeons!). 120s cooldown.                                                        |
