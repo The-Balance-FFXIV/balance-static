@@ -139,7 +139,7 @@ changelog:
 ![Expedient](https://xivapi.com/i/002000/002878_hr1.png) 
 ### **Expedient**
 
-* 20s AoE mitigation (10%) and move speed buff (equivalent to Sprint)
+* 20s AoE mitigation (10%) and 10s AoE move speed buff (equivalent to Sprint)
 * Move speed buff persists during combat (unlike Peloton)
 * Use for long-duration mitigation and/or use the increased move speed for mechanics
 
