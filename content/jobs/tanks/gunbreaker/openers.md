@@ -2,8 +2,8 @@
 title: Gunbreaker Openers
 authors:
   - Balance-GNB-Staff
-patch: "6.1"
-lastmod: 2022-02-02T23:31:16.026Z
+patch: "6.08"
+lastmod: 2022-04-09T20:40:16.962Z
 changelog:
   - date: 2021-10-25T21:38:35.164Z
     message: Created article
@@ -16,7 +16,7 @@ changelog:
 
 Your opener dictates where your burst begins, along with where your No Mercy will come up relative to the fight. As such, some fights will require earlier (or even Prepull NM) to optimize more or to gain usages of Blasting Zone or Gnashing Fang (P3S). However when in doubt you can follow the 1-2-3-NM! Opener until you encounter a fight requiring an alternate approach
 
-As content is released, various openers may be utilised from fight to fight for all manner of reasons. Learning only one opener can restrict you if you plan to do all forms of content. 
+As content is released, various openers may be utilized from fight to fight for all manner of reasons. Learning only one opener can restrict you if you plan to do all forms of content. 
 
 ### 1-2-3 No Mercy!
 
@@ -36,7 +36,7 @@ If the timing of a fight requires Gnashing Fang/Blasting Zone and/or No Mercy to
 
 ### Lightning Shot Opener
 
-If you are required to pull a boss and center it, and want to do so quickly and efficiently you can open with Lightning Shot. However, here we do No Mercy after Brutal shell to keep Gnashing Fang still at third GCD to ensure it’s still lined up to where it is in the original opener. An example of when to do this without fight specific positioning requirements would be if your Ninja wants to pull into a precast Doton - but due to the slight loss versus the 1-2-3-NM! opener, ask if your cotank can pull with a ranged attack for a smaller loss.
+If you are required to pull a boss and center it, and want to do so quickly and efficiently you can open with Lightning Shot. However, here we do No Mercy after Brutal shell to keep Gnashing Fang still at third GCD to ensure it’s still lined up to where it is in the original opener. An example of when to do this without fight specific positioning requirements would be if your Ninja wants to pull into a precast Doton -- but due to the slight loss versus the 1-2-3-NM! opener, ask if your cotank can pull with a ranged attack for a smaller loss.
 
 ![Lightning Shot Opener](/img/jobs/gnb/ls.png "Lightning Shot Opener")
 
