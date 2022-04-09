@@ -3,8 +3,8 @@ title: Gunbreaker Basic Guide
 card_header_image: /img/jobs/gnb/basic.png
 authors:
   - Balance-GNB-Staff
-patch: "6.1"
-lastmod: 2021-10-25T21:28:52.762Z
+patch: "6.08"
+lastmod: 2022-04-09T19:50:37.411Z
 changelog:
   - date: 2021-10-25T21:29:10.159Z
     message: Created article
@@ -381,12 +381,12 @@ Burst Strike or Fated Circle until your gauge is empty, then use Bloodfest to re
 **Bloodfest is up and No Mercy is ready:**\
 No Mercy is to be entered the same as any other window, being already at 3/3 Cartridges. 
 
-* Utilize  Gnashing Fang and  Double Down to get to 0/3 Cartridges, then use Bloodfest to gain 3/3 cartridges again. 
+* Utilize  Gnashing Fang and  Double Down to get to 0/3 Cartridges, then use Bloodfest to gain 3/3 Cartridges again. 
 
 This allows you to refill your Cartridge gauge to place three Burst Strikes into No Mercy.
 
-Bloodfest will always grant 3 carts. So using it with any carts loaded is a loss.\
-1 cart loaded + 3 carts from Bloodfest = 4 carts, **1 lost due to overcap!**
+Bloodfest will always grant three Cartridges. So using it with any carts loaded is a loss.\
+1 cart loaded + 3 carts from Bloodfest = four Cartridges, **one lost due to overcap!**
 
 ## **AOE Priority**
 
@@ -404,7 +404,7 @@ Gunbreaker doesn’t have a simple “loop”. It’s simply a shifting priority
 **Aurora**
 
 200 potency Heal over Time (HoT) for 18 seconds. 1200 potency heal total. 60 second cooldown. Can be used on self or a target party member in a 30y range. \
-2 Charges at Lvl. 84\
+Two charges at level 84\
 CD: 60s per charge
 
 ![Camouflage](/img/jobs/tanks/gunbreaker/Camouflage.png)
@@ -454,12 +454,12 @@ CD: 360s / 6 Minutes**
 
 Reduces damage taken by 15% for seven seconds. Can be used on self or a target party member in a 30y range. If used on a party member, any existing Brutal Shell shield will be copied onto them. \
 **CD: 25s**\
-*\*Upgraded to Heart of Corundum upon reaching Lvl. 82*
+*\*Upgraded to Heart of Corundum upon reaching level 82*
 
 ![ArmsLength](/img/jobs/tanks/gunbreaker/Arms_Length.png)
 **Arm’s Length**
 
-Role action. Makes you immune to most knockback or draw-in effects for 6 seconds. Applies a 20% slow to enemies that attack you while Arm’s Length is active (This means enemies will attack you 20% slower, very useful for dungeons!). \
+Role action. Makes you immune to most knockback or draw-in effects for six seconds. Applies a 20% slow to enemies that attack you while Arm’s Length is active (This means enemies will attack you 20% slower, very useful for dungeons!). \
 **CD: 120s**
 
 ## Utility Off Global Cool Down Abilities
@@ -503,27 +503,27 @@ Role action. Transfers 25% of your enmity to a target party member. This effect 
 
 Using your defensive cooldowns properly is an important part of maximizing your effectiveness as a tank, and timing your abilities correctly will ensure you’re getting the most out of your kit while reducing your total incoming damage for the encounter. Stacking mitigation is also optimal to do, especially in high end content where the damage received is likely going to KO you without stacking your mitigation together. However, you can also stack too much which will leave you without options later, so make sure you’re pacing yourself appropriately for the encounter. 
 
-**Weaving mitigation** is a topic a lot of people bring up. Using Mitigations such as Rampart and Camouflage can be done before your No Mercy as they have a substantial duration, and abilities such as Heart of Corundum can be weaved around a GCD such as Double Down and Sonic Break, as neither have forced oGCDs due to lacking Continuation. If you need to weave during the later part of No Mercy; you can float Rough Divide, as it is the lowest-potency attack inside a No Mercy Window.
+**Weaving mitigation** is a topic a lot of people bring up. Using Mitigations such as Rampart and Camouflage can be done before your No Mercy as they have a substantial duration, and abilities such as Heart of Corundum can be weaved around a GCD such as Double Down and Sonic Break, as neither have forced oGCDs due to lacking Continuation. If you need to weave during the later part of No Mercy you can float Rough Divide, as it is the lowest-potency attack inside a No Mercy Window.
 
 * Rampart: Is an all around solid defensive CD due to its duration. 20% and 20s uptime, meaning it can take a tank buster and persist long enough to cover following autos if needed. Ideally you want to alternate between Rampart and Nebula when dealing with tank busters, and you rarely want to stack them as it’ll leave you with fewer options later. A more appropriate option is to stack Camouflage with Rampart, as they share the same duration and same cooldown.
-* Nebula: One of your best cooldowns as it provides a better % reduction than Rampart, but it has a shorter duration and longer cooldown. As such, it requires some planning - you need to be aware that it will be up less, which means that using it pre-emptively will require stricter planning, and planning ahead is also going to be stricter due to the longer cooldown. While a great tool, you need to ensure you have it up when needed and to make sure you have options available when it isn’t.
-* Camouflage: Very ideal for auto management due to the increased parry rate and baseline 10% DR. While not the best cooldown by itself for a tank buster, as the 10% is your only guaranteed mitigation and the parry may either not activate or not be even possible due to a magic tank buster, it’ll help alleviate damage intake while autos are coinciding with mechanics that your healers may be dealing with. As mentioned above it can be stacked with Rampart to give yourself a strong combo of parry and decent DR, but keep in mind this will leave you a bit scarce after the fact if you’re tanking and taking autos.
+* Nebula: One of your best cooldowns as it provides a better percentage reduction than Rampart, but it has a shorter duration and longer cooldown. As such, it requires some planning - you need to be aware that it will be up less, which means that using it pre-emptively will require stricter planning, and planning ahead is also going to be stricter due to the longer cooldown. While a great tool, you need to ensure you have it up when needed and to make sure you have options available when it isn’t.
+* Camouflage: Very ideal for auto management due to the increased parry rate and baseline 10% damage reduction (DR). While not the best cooldown by itself for a tank buster, as the 10% is your only guaranteed mitigation and the parry may either not activate or not be even possible due to a magic tank buster, it’ll help alleviate damage intake while autos are coinciding with mechanics that your healers may be dealing with. As mentioned above, it can be stacked with Rampart to give yourself a strong combo of parry and decent DR, but keep in mind this will leave you a bit scarce after the fact if you’re tanking and taking autos.
 
-**Heart of Corundum:** Our new tool and a great support and self management ability. Heart of Corundum is part of SE’s new sort of “Reward” system for tanks where they provide a short timed buff on top of the base buff, which if timed correctly will let you mitigate more. How Heart of Corundum works is you gain 3 buffs:
+**Heart of Corundum:** Our new tool and a great support and self management ability. Heart of Corundum is part of SE’s new sort of “Reward” system for tanks where they provide a short timed buff on top of the base buff, which if timed correctly will let you mitigate more. How Heart of Corundum works is you gain three buffs:
 
 * Heart of Corundum: 15% DR to self or party member for 8s
 * Clarity of Corundum: 15% DR to self or party member for 4s.
 * Catharsis of Corundum: 900 potency heal when effect expires or when health is reduced below 50% on self or target. Buff duration 25s.
   *The effect of your Brutal Shell shield is also granted to another target, but use on yourself will not affect your own Brutal Shell shield. This is also present for Heart of Stone.
-* **Heart of Corundum** provides a 27.75%~ damage reduction for the first 4 seconds of its duration as the two damage reductions from Heart of Corundum and Clarity of Corundum stack together to provide a very strong opening effect which decays to 15% after 4s. While this persists, you have Catharsis of Corundum which provides a great 900 pot heal (which can crit!). Corundum has no cost, no drawback, and a short cooldown, and is therefore an extremely powerful and versatile tool to use for support and self-sustain. However, utilizing it to its maximum potential requires you to make use of **Clarity of Corundum**. Personally, when double weaving any mitigation, I tend to weave Corundum second to ensure Clarity is present for the tank buster. That being said, keep in mind that any late mitigation will miss the damage snapshot and instead of a nice 27.75% you’ll get 0%. You ideally always want your main mitigations with Heart of Corundum for heavy hitting tank busters.
+* **Heart of Corundum** provides a 27.75%~ damage reduction for the first four seconds of its duration as the two damage reductions from Heart of Corundum and Clarity of Corundum stack together to provide a very strong opening effect which decays to 15% after four seconds. While this persists, you have Catharsis of Corundum which provides a great 900 pot heal (which can crit!). Corundum has no cost, no drawback, and a short cooldown, and is therefore an extremely powerful and versatile tool to use for support and self-sustain. However, utilizing it to its maximum potential requires you to make use of **Clarity of Corundum**. Personally, when double weaving any mitigation, I tend to weave Corundum second to ensure Clarity is present for the tank buster. That being said, keep in mind that any late mitigation will miss the damage snapshot and instead of a nice 27.75% you’ll get 0%. You ideally always want your main mitigations with Heart of Corundum for heavy hitting tank busters.
 * **Aurora**: A simple HoT that provides some support. Aurora is not strong enough to help heal you up from tank busters if you’re pushed into a corner nor can it alone realistically help heal you up from using Superbolide as it only ticks once every 3s, while Heart of Corundum excels at both those points. However, Aurora is a good tool to help counteract autos, DoTs and also save your healers some resources during downtime if you place it on yourself or another member. Using Aurora twice on a target does not extend the buff by 16s, it merely refreshes it to a max duration of 16s. As such, you can refresh early and waste HoT ticks.
-* **Superbolide**: While a bit infamous, Superbolide is actually a very very good CD when used properly. Reality is people tend to find dropping to 1HP insane, but that’s ultimately how ¾ invulns work if the damage was going to KO you. If it wasn’t? Then practically all those invulns were wasted. Superbolide can be destructive if used improperly, but when used properly and when it’s coordinated with your healers, it is very very strong. Corundum and Aurora together can help heal you back up during the 10s duration with some support from healers, and unlike Living Dead you do not require your entire pool of health to be restored, just enough to survive the oncoming damage when the buff expires. I recommend telling your healers either in party chat or in voice ahead of time when you’re going to use it so they can prepare.
+* **Superbolide**: While a bit infamous, Superbolide is actually a very very good CD when used properly. Reality is people tend to find dropping to 1HP insane, but that’s ultimately how three out of four invulns work if the damage was going to KO you. If it wasn’t? Then practically all those invulns were wasted. Superbolide can be destructive if used improperly, but when used properly and when it’s coordinated with your healers, it is very very strong. Corundum and Aurora together can help heal you back up during the 10s duration with some support from healers, and unlike Living Dead you do not require your entire pool of health to be restored, just enough to survive the oncoming damage when the buff expires. I recommend telling your healers either in party chat or in voice ahead of time when you’re going to use it so they can prepare.
 * **Heart of Light:** One of our two defensive raid mitigations. Heart of Light is an AOE effect that radiates from yourself and applies a buff reducing all magic damage taken by 10% for 15s. Heart of Light should be used on heavy hitting raid wides that hit the majority, if not all, of the raid. Due to the fact that it, like your personal cooldowns, is a buff with no diminishing value over the course of its duration, it excels at multiple hits over the duration and as such if used on said abilities will reduce every hit placed under the buff by 10% (Example: Stack markers in the Endwalker MSQ Extremes, J Waves, Tumults)
 * **Reprisal:** Similar to Heart of Light, Reprisal is an AOE centered on yourself, however it affects enemies instead of party members. As a result of this, any damage that occurs when an enemy is untargetable (for example: phase transition AOEs where you can’t attack the boss) are unable to be affected by Reprisal. Reprisal is used for assisting with similar situations to HoL due to it being a debuff over a duration, but due to the short CD, it is an option for Tank Busters as well. Make sure to coordinate Reprisal with your cotank as it is a role based ability, meaning all tanks have access to it and it does not stack so it can be overwritten.
 
 ## Dungeon Tips/Info
 
-When running dungeons it’s important to go at your own pace. Some tanks will want to dictate the pull speed as fast as possible by pulling wall to wall, but the reality is that you shouldn’t feel obligated to pull big if you’re not confident. If you get KO’d and wipe and reset, you’ve lost the time you would have gained by doing a big pull. Getting to the point where you can feel confident pulling big is something that you have to decide for yourself, and is simply a potential goal to keep in mind
+When running dungeons, it’s important to go at your own pace. Some tanks will want to dictate the pull speed as fast as possible by pulling wall to wall, but the reality is that you shouldn’t feel obligated to pull big if you’re not confident. If you get KO’d and wipe and reset, you’ve lost the time you would have gained by doing a big pull. Getting to the point where you can feel confident pulling big is something that you have to decide for yourself, and is simply a potential goal to keep in mind
 
 When doing dungeons, it’s important to space your cooldowns out. You have three cooldowns that have lengthy enough durations and can be used on separate add packs. Realistically, you should only need to burn one large cooldown per pack while using your smaller cooldowns to help your sustain. Some dungeons hit harder than others, and some dungeons have larger packs to deal with, so it’s important that you are prepared to change things or use things in emergencies.
 
@@ -559,7 +559,7 @@ When melding new gear either while leveling or while grabbing new pieces while w
 
 #### Skill Speed to your personal comfort > Critical Hit > Direct Hit > Determination > Tenacity
 
-Skill Speed reduces the cooldown of weaponskills like Gnashing Fang and Double Down while also speeding up your Global Cooldown, which will make the job faster the more you stack. Everyone has their preferences on speeds and right now (as of Patch 6.05) there is nothing showing one speed is superior to the others. Speeds impact various things from getting 9 GCDs in No Mercy to GCD clipping (abilities being used in conjunction so fast that they fail to immediately go off, causing a delay). 
+Skill Speed reduces the cooldown of weaponskills like Gnashing Fang and Double Down while also speeding up your Global Cooldown, which will make the job faster the more you stack. Everyone has their preferences on speeds and right now (as of Patch 6.05) there is nothing showing one speed is superior to the others. Speeds impact various things from getting nine GCDs in No Mercy to GCD clipping (abilities being used in conjunction so fast that they fail to immediately go off, causing a delay). 
 
 There are positives and negatives to all builds and we absolutely recommend testing various speeds. 
 
@@ -604,7 +604,7 @@ Below is your best-in-slot. Before you ask, there is no best of the best. If one
 
 ## Ultimates
 
-Ultimates are timeless content due to their difficulty and rewards but are forced sync and cannot be done above their release level. This affects the gear you enter the encounter with but is more lenient as all three past Ultimate’s entry IL are far below our current standard. Food and Pots do not sync, but still have a soft cap so you don’t need the absolute top current food and pots for something like UCoB as its sync is relatively low.The relic from Shadowbringers is the best choice of weapon for previous Ultimates, But will require you to get it to at least the [Augmented Law’s Order](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/3111076df9e/) stage to assign substats. [Blade’s Resolve](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/b723d663158/) gives you more substat to work with but this realistically is of only benefit in TEA as you’ll reach cap for the substats with Law’s Order in the other two Ultimates, as such unless you want to really optimize and push as much damage as you want for TEA, you can settle for Augmented Law’s Order. If you don’t want to grind the Blade’s Resistance Relic, you can use any weapon with optimal substats that exceed the encounter’s max IL. 
+Ultimates are timeless content due to their difficulty and rewards but are forced sync and cannot be done above their release level. This affects the gear you enter the encounter with, but is more lenient as all three past Ultimates' entry IL are far below our current standard. Food and Pots do not sync, but still have a soft cap so you don’t need the absolute top current food and pots for something like UCoB as its sync is relatively low. The relic from Shadowbringers is the best choice of weapon for previous Ultimates, But will require you to get it to at least the [Augmented Law’s Order](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/3111076df9e/) stage to assign substats. [Blade’s Resolve](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/b723d663158/) gives you more substat to work with but this realistically is of only benefit in TEA, as you’ll reach cap for the substats with Law’s Order in the other two Ultimates, as such unless you want to really optimize and push as much damage as you want for TEA, you can settle for Augmented Law’s Order. If you don’t want to grind the Blade’s Resistance Relic, you can use any weapon with optimal substats that exceed the encounter’s max IL. 
 
 **The Unending Coil of Bahamut (UCoB):**\
 IL Cap: 470\
