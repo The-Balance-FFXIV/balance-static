@@ -1,0 +1,179 @@
+---
+title: "Pandaemonium : Asphodelos Encounter with Monk"
+authors:
+  - Balance-MNK-Staff
+patch: "6.08"
+lastmod: 2022-04-10T17:43:26.107Z
+---
+Hello monks and welcome to the encounter guide for the first tier of Endwalker.\
+We will review the different ways on what is possible to optimise from the entirety of the tier.
+
+
+
+**Erichtonios**
+
+Nothing much to say, this is a dummy fight; do the optimal drift rotation for max damage.
+
+Make sure you and the group are as central as possible during Intemperance 1 and 2 to ensure you’re gonna hit everyone, if this still doesn’t work you do have the following option which consists of holding your BH if you aren’t sure to hit everyone and use it once you do the in/out mechanics, note that if you hold it too long you may lose a use depending on the killtime.﻿
+
+
+
+﻿﻿**Hippokampos**
+
+What is special about P2S is Limit Cut downtime being hangled incorrectly by holding to 4:30 is making us lose RoFs, BHs, and PBs depending on killtime
+
+**Three choices :**
+
+* Early opener : to burst before limit cut, you might win a RoF use, only downside to doing early burst is that you have to deal with RoF at 3 and 5 mins on Arrows
+* Solar Lunar opener : to win a use of PB but may not be able to get full use of last RoF
+* Initial D(rift) : win a PB but can lose an RoF/BH depending on killtime, also pushes RoF/BH around which can be awkward for group alignment
+
+
+
+**Early opener :**
+
+The early opener is simple, you open with Twin snakes and do the rotation like it was Lunar Solar (Opos will be switched).
+
+It allows us to burst before limit cut with your team (they have to do it too) and win a use of Brotherhood if the killtimes allows it, while ensuring no PBs are lost.
+
+
+
+**Solar Lunar opener :**
+
+Due to the numbers of downtime on this fight, we will have an early PB in the opener, making us doing Solar Lunar. Either you follow it like a Double Solar opener but with a Lunar nadi for second blitz, or you have the Peepo SmilersTM opener you can see under making us gain one opo :
+
+![](https://lh5.googleusercontent.com/Ai89BALV1rOZ4LS5Tw1OK19sovmcnKyyaVTc2WwQMzLN3dgVMOji_qVPdpf5PQ_JytpmMNcXu_N1-uWnLi2Nzb8582ian3k02V8IMuIeuNp-tmcCTVoeFDGk55Z-3V6N4fIAnpK5 "Solar Lunar Opener in P2S")
+
+By doing early PB this will allow us to get one more pb in the 3m which is juicy.
+
+How does it work ? 
+
+We Solar Lunar opener then can early clip demo at the 2m leading to a lunar solar burst for the sake of alignment for limit cut, you can follow the usual rotation after this.
+
+At the 3m marks (first arrow) you have to delay rof for after the mechanic else you won’t be able to do double blitz on a 3 min burst which is the point of our Solar Lunar opener.
+
+For the 3m window you do the usual stuff,
+
+Arrow > Opo > Twin > RoF Demo > Opo > PB into Phantom Rush > Opo > PB into Rising Phoenix
+
+This will push Phantom in the Even bursts, you will even win a use of PR if you kill at 8 min
+
+The 4 min burst is a refresh buffs into Elixir field into refreshing buffs in the Phantom rush PB
+
+You can then go back to Lunar pb in Odd minutes and RP > PR in the 6 min burst, then it repeats until the boss is dead.
+
+This rotation is good if you kill after 7:48\~ as you will get full use of your last RoF, if you kill at 7:30\~ you just won’t win a use of PB\
+\
+\
+**Initial D(rift :**
+
+The rotation is in principle the same as Solar Lunar opener as it allows us to win a use of PB and lose a use of RoF + BH based on killtime.
+
+It's how Monk can drift rof/bh without losing uses of PBs. You can't do the drift in one big motion due to the 40s CD of PB, so we have to split it into two. Ideally the group is aware of the strange alignment, so it will definitely be hard in pfs
+
+You do a re-opener after the first Arrow and play it like a RoF + BH 2, so Phantom Rush into refresh buff and then Elixir Field.
+
+After Limit Cut you can re-opener again and do another 3 GCDs sequence before RoF delaying it by another 20s again (Told you it’s a dangerous rotation to take in hands)and do RP into PR.
+
+You can check how it works in the links below:
+
+<https://xivanalysis.com/fflogs/9nXrNqZ4JbW6mLzj/7/214>
+
+<https://xivanalysis.com/fflogs/a6PvF2RHW7VjJTCG/12/1>
+
+<https://xivanalysis.com/fflogs/nH3C24AYBcFqgzT8/11/3>\
+\
+\
+**Phoinix**
+
+For this fight you will prepot -5s and do Lunar Solar opener as it’s more damage over Double Solar (2 min encounter for Double Solar = Vomits everywhere).
+
+**Before Adds :**
+
+**Two choices :**
+
+* Optimal Drift into Double Lunar : being the lowest potency rotation if aiming for a triple blitz after adds (being less weirdge to play which is why i keep it as an option)
+* Double Lunar rotation for all pre-add : being the highest potency rotation if aiming for a triple blitz after adds
+
+\
+**Double Lunar rotation for all pre-add :**
+
+Double Lunar rotation is used in this fight for the sweet 1 minute burst being a Rising Phoenix, it will be align for
+
+the orbs so you will simply press rising phoenix and hit boss + 2 orbs which optimize the damage deal to boss + orbs.
+
+For the 2 minutes you play it like how i explain it in the next section : Optimal Drift into Double Lunar
+
+\
+**Optimal Drift into Double Lunar :**
+
+The 2 min burst window will be different than usual. Firstly, due to the adds not being included in the log you can hold your Riddle of Wind for the 2 min.
+
+Then for the sake of the Triple Blitz after adds you want to Double Lunar on your 2 min. It’s pretty simple to do - you will have to twin and overwrite Demo by one sequence and then do like a RoF + BH 2 with only Lunars .
+
+So it means delaying your rof for post PB (still use BH on cd) : 
+
+Refresh buffs > Opo > PB Opo > RoF > Opo > Opo > Elixir Field > Opo > Twin > Demo > Opo PB Opo x3 > Elixir Field
+
+
+
+![](/img/jobs/mnk/rof-bh-2.png "RoF + BH 2")
+
+\
+\
+**After Adds :**
+
+Something very important is killing the big adds as slow as possible, else what follows is our rotation being fucked up for bursts which is big sadge moment.\
+\
+\
+**Triple Blitz :**
+
+Note that the prepot -5s should allow you to pot before doing your first Blitz on the reopener which is a lot of damage since we do three Blitz.
+
+\
+I will quote Perfect Balance guides for this section as it’s easily understandable :
+
+*“Triple Blitz windows are reliant on long periods of downtime in order to leverage the 20 second durations of both Perfect Balance + Masterful Blitz in order to charge up a Blitz, then hold it into your next Riddle of Fire where the 40 second cooldown of Perfect Balance will have refreshed, allowing for an additional Blitz in an Even Riddle of Fire window at no cost. This is doable due to the fact that AoE skills will grant a Beast chakra even if they don’t hit a target.*
+
+*As you are beginning with a Nadi already, you are relatively locked in as to how the rest of the window is sequenced.*
+
+*Key things to keep in mind regardless of which route you choose to follow when attempting a Triple Blitz is that it starts quite late relative to other jobs reopeners. As such you might have to modify your burst to better catch your groups timings and to have the ability to place Brotherhood in a better spot for your team”.*
+
+For P3S it will be at the same moment you press RoF, 4 GCDs after, See the sheet below.
+
+![](https://lh3.googleusercontent.com/PUKgrrUoj96JzQingjrik0Qln1A1U8cr_hpYln8rqVKGhjxwRMyfB5xGv0YjbhNPHOGESOXlYgGDOTRfRN3BqeUgpciakLFcxhTsTI23pC1I2EbsgbOy4oP9j7t28d_aE3j_lYXf "Sheet Reopener P3S")
+
+Once you did the Triple blitz you will be able to follow double solar rotation exclusively because Rising Phoenix + Phantom rush + Rising Phoenix in pot is better than Phantom Rush + Rising Phoenix + Elixir Field.
+
+After that it’s basic rotation until death follows.\
+\
+\
+**Hesperos** 
+
+**Part 1**\
+\
+Hesperos like most of the others, a kind of full uptime boy (if you do the uptime strat) so nothing much to say.
+
+If you are killing before 6 minutes and care about parsing you can do the ol’ 0/3/5 bursts windows. It’s really simple to do, instead of doing Solar/Lunar in the 2 minutes, you will just do a back to back single Elixir Field, and wait for the 3 min marks to unleash your bursts.
+
+As i said the uptime strat is for Thunder Pinax using Thunderclap, how it works is basically keep attacking the boss until the Thunder makes a flash, you then can make one (1) GCD before Thunderclapping to someone in safe spot, then thunderclap back and you won’t die to thunder.
+
+What comes next is either Sword or Cap. If Sword you Thunderclap back to an ally after gap closing to the boss, if it’s Cape you stay on the boss and cancel the knockback with thunderclap.
+
+\
+Exemple video from Peepo Smilers : <https://streamable.com/h53oqo>\
+\
+\
+**Part 2**
+
+Full uptime scenario too.
+
+Act 2 can be made max melee range, you might have to get out for like one gcd to pop your tether, for act 4 some inconsistencies like getting purple tethers and you wanna call it a day.
+
+That is all you have to know about this fight! 
+
+\-
+
+And this is it, thank you for reading the whole encounter of the first tier of Endwalker! 
+
+Thank you to The Balance for giving me the chance to contribute to the well being of monk guides. - Ailarra
