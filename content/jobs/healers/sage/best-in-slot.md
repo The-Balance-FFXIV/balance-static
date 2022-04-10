@@ -6,6 +6,8 @@ lastmod: 2022-01-24T07:06:15.406Z
 changelog:
   - date: 2022-01-24T07:07:39.406Z
     message: Created page
+  - date: 2022-04-10T18:24:27.590Z
+    message: DSW prog BiS update
 bis:
   - type: etro
     description: Pick a set that meets your Piety needs.
