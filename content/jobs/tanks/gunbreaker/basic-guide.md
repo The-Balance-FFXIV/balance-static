@@ -247,7 +247,6 @@ Since Gnashing Fang is **30s** and No Mercy is **60s**. Every second Gnashing Fa
 
 &nbsp;
 
-
 The order of a possible Gnashing Fang Combo is as follows:
 Gnashing Fang ➞ Jugular Rip
 Savage Claw ➞ Blasting Zone + Abdomen Tear
@@ -297,7 +296,7 @@ No Mercy will always contain the following:
 \
 GCD:
 
-* Gnashing Fang**\***
+* Gnashing Fang*
 * Double Down
 * Sonic Break 
 * Savage Claw 
@@ -307,7 +306,7 @@ GCD:
 
 oGCD:
 
-* Jugular Rip**\***
+* Jugular Rip*
 * Abdomen Tear 
 * Eye Gouge
 * Blasting Zone
@@ -521,6 +520,8 @@ Using your defensive cooldowns properly is an important part of maximizing your 
 
 **Weaving mitigation** is a topic a lot of people bring up. Using Mitigations such as Rampart and Camouflage can be done before your No Mercy as they have a substantial duration, and abilities such as Heart of Corundum can be weaved around a GCD such as Double Down and Sonic Break, as neither have forced oGCDs due to lacking Continuation. If you need to weave during the later part of No Mercy you can float Rough Divide, as it is the lowest-potency attack inside a No Mercy Window.
 
+We have three self mits that last a decent duration *but* have a lengthy cooldown.
+
 * Rampart: Is an all around solid defensive CD due to its duration. 20% and 20s uptime, meaning it can take a tank buster and persist long enough to cover following autos if needed. Ideally you want to alternate between Rampart and Nebula when dealing with tank busters, and you rarely want to stack them as it’ll leave you with fewer options later. A more appropriate option is to stack Camouflage with Rampart, as they share the same duration and same cooldown.
 * Nebula: One of your best cooldowns as it provides a better percentage reduction than Rampart, but it has a shorter duration and longer cooldown. As such, it requires some planning - you need to be aware that it will be up less, which means that using it pre-emptively will require stricter planning, and planning ahead is also going to be stricter due to the longer cooldown. While a great tool, you need to ensure you have it up when needed and to make sure you have options available when it isn’t.
 * Camouflage: Very ideal for auto management due to the increased parry rate and baseline 10% damage reduction (DR). While not the best cooldown by itself for a tank buster, as the 10% is your only guaranteed mitigation and the parry may either not activate or not be even possible due to a magic tank buster, it’ll help alleviate damage intake while autos are coinciding with mechanics that your healers may be dealing with. As mentioned above, it can be stacked with Rampart to give yourself a strong combo of parry and decent DR, but keep in mind this will leave you a bit scarce after the fact if you’re tanking and taking autos.
@@ -531,11 +532,16 @@ Using your defensive cooldowns properly is an important part of maximizing your 
 * Clarity of Corundum: 15% DR to self or party member for 4s.
 * Catharsis of Corundum: 900 potency heal when effect expires or when health is reduced below 50% on self or target. Buff duration 25s.
   *The effect of your Brutal Shell shield is also granted to another target, but use on yourself will not affect your own Brutal Shell shield. This is also present for Heart of Stone.
-* **Heart of Corundum** provides a 27.75%~ damage reduction for the first four seconds of its duration as the two damage reductions from Heart of Corundum and Clarity of Corundum stack together to provide a very strong opening effect which decays to 15% after four seconds. While this persists, you have Catharsis of Corundum which provides a great 900 pot heal (which can crit!). Corundum has no cost, no drawback, and a short cooldown, and is therefore an extremely powerful and versatile tool to use for support and self-sustain. However, utilizing it to its maximum potential requires you to make use of **Clarity of Corundum**. Personally, when double weaving any mitigation, I tend to weave Corundum second to ensure Clarity is present for the tank buster. That being said, keep in mind that any late mitigation will miss the damage snapshot and instead of a nice 27.75% you’ll get 0%. You ideally always want your main mitigations with Heart of Corundum for heavy hitting tank busters.
-* **Aurora**: A simple HoT that provides some support. Aurora is not strong enough to help heal you up from tank busters if you’re pushed into a corner nor can it alone realistically help heal you up from using Superbolide as it only ticks once every 3s, while Heart of Corundum excels at both those points. However, Aurora is a good tool to help counteract autos, DoTs and also save your healers some resources during downtime if you place it on yourself or another member. Using Aurora twice on a target does not extend the buff by 16s, it merely refreshes it to a max duration of 16s. As such, you can refresh early and waste HoT ticks.
-* **Superbolide**: While a bit infamous, Superbolide is actually a very very good CD when used properly. Reality is people tend to find dropping to 1HP insane, but that’s ultimately how three out of four invulns work if the damage was going to KO you. If it wasn’t? Then practically all those invulns were wasted. Superbolide can be destructive if used improperly, but when used properly and when it’s coordinated with your healers, it is very very strong. Corundum and Aurora together can help heal you back up during the 10s duration with some support from healers, and unlike Living Dead you do not require your entire pool of health to be restored, just enough to survive the oncoming damage when the buff expires. I recommend telling your healers either in party chat or in voice ahead of time when you’re going to use it so they can prepare.
-* **Heart of Light:** One of our two defensive raid mitigations. Heart of Light is an AOE effect that radiates from yourself and applies a buff reducing all magic damage taken by 10% for 15s. Heart of Light should be used on heavy hitting raid wides that hit the majority, if not all, of the raid. Due to the fact that it, like your personal cooldowns, is a buff with no diminishing value over the course of its duration, it excels at multiple hits over the duration and as such if used on said abilities will reduce every hit placed under the buff by 10% (Example: Stack markers in the Endwalker MSQ Extremes, J Waves, Tumults)
-* **Reprisal:** Similar to Heart of Light, Reprisal is an AOE centered on yourself, however it affects enemies instead of party members. As a result of this, any damage that occurs when an enemy is untargetable (for example: phase transition AOEs where you can’t attack the boss) are unable to be affected by Reprisal. Reprisal is used for assisting with similar situations to HoL due to it being a debuff over a duration, but due to the short CD, it is an option for Tank Busters as well. Make sure to coordinate Reprisal with your cotank as it is a role based ability, meaning all tanks have access to it and it does not stack so it can be overwritten.
+
+Heart of Corundum provides a 27.75%~ damage reduction for the first four seconds of its duration as the two damage reductions from Heart of Corundum and Clarity of Corundum stack together to provide a very strong opening effect which decays to 15% after four seconds. While this persists, you have Catharsis of Corundum which provides a great 900 pot heal (which can crit!). Corundum has no cost, no drawback, and a short cooldown, and is therefore an extremely powerful and versatile tool to use for support and self-sustain. However, utilizing it to its maximum potential requires you to make use of **Clarity of Corundum**. Personally, when double weaving any mitigation, I tend to weave Corundum second to ensure Clarity is present for the tank buster. That being said, keep in mind that any late mitigation will miss the damage snapshot and instead of a nice 27.75% you’ll get 0%. You ideally always want your main mitigations with Heart of Corundum for heavy hitting tank busters.
+
+**Aurora**: A simple HoT that provides some support. Aurora is not strong enough to help heal you up from tank busters if you’re pushed into a corner nor can it alone realistically help heal you up from using Superbolide as it only ticks once every 3s, while Heart of Corundum excels at both those points. However, Aurora is a good tool to help counteract autos, DoTs and also save your healers some resources during downtime if you place it on yourself or another member. Using Aurora twice on a target does not extend the buff by 16s, it merely refreshes it to a max duration of 16s. As such, you can refresh early and waste HoT ticks.
+
+**Superbolide**: While a bit infamous, Superbolide is actually a very very good CD when used properly. Reality is people tend to find dropping to 1HP insane, but that’s ultimately how three out of four invulns work if the damage was going to KO you. If it wasn’t? Then practically all those invulns were wasted. Superbolide can be destructive if used improperly, but when used properly and when it’s coordinated with your healers, it is very very strong. Corundum and Aurora together can help heal you back up during the 10s duration with some support from healers, and unlike Living Dead you do not require your entire pool of health to be restored, just enough to survive the oncoming damage when the buff expires. I recommend telling your healers either in party chat or in voice ahead of time when you’re going to use it so they can prepare.
+
+**Heart of Light:** One of our two defensive raid mitigations. Heart of Light is an AOE effect that radiates from yourself and applies a buff reducing all magic damage taken by 10% for 15s. Heart of Light should be used on heavy hitting raid wides that hit the majority, if not all, of the raid. Due to the fact that it, like your personal cooldowns, is a buff with no diminishing value over the course of its duration, it excels at multiple hits over the duration and as such if used on said abilities will reduce every hit placed under the buff by 10% (Example: Stack markers in the Endwalker MSQ Extremes, J Waves, Tumults)
+
+**Reprisal:** Similar to Heart of Light, Reprisal is an AOE centered on yourself, however it affects enemies instead of party members. As a result of this, any damage that occurs when an enemy is untargetable (for example: phase transition AOEs where you can’t attack the boss) are unable to be affected by Reprisal. Reprisal is used for assisting with similar situations to HoL due to it being a debuff over a duration, but due to the short CD, it is an option for Tank Busters as well. Make sure to coordinate Reprisal with your cotank as it is a role based ability, meaning all tanks have access to it and it does not stack so it can be overwritten.
 
 ## Dungeon Tips/Info
 
@@ -580,7 +586,7 @@ Skill Speed reduces the cooldown of weaponskills like Gnashing Fang and Double D
 There are positives and negatives to all builds and we absolutely recommend testing various speeds. 
 
 * You can do so by equipping or unequipping various random pieces of gear you have lying around with Skill Speed to up/lower your SKS value and practicing on a dummy. 
-* You can check your GCD by hovering over a standard weaponskill like
+* You can check your GCD by hovering over any standard weaponskill like Keen Edge.
 
 No one can tell you what the best speed is, this is down to your preference!
 
