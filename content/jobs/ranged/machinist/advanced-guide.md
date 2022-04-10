@@ -2,7 +2,8 @@
 title: Machinist Advanced Guide
 card_header_image: /img/jobs/mch/advanced.png
 authors:
-  - Hint
+  - hint
+  - Balance-MCH-Staff
 patch: "6.1"
 lastmod: 2022-04-10T03:51:56.710Z
 changelog:
