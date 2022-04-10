@@ -3,12 +3,13 @@ title: Machinist Advanced Guide
 card_header_image: /img/jobs/mch/advanced.png
 authors:
   - Balance-MCH-Staff
-patch: "5.58"
-lastmod: 2021-11-15T21:11:47.168Z
+patch: "6.1"
+lastmod: 2022-04-10T03:51:56.710Z
 changelog:
-  - date: 2021-11-15T21:12:08.136Z
-    message: Added page
+  - date: 2022-04-10T03:52:02.639Z
+    message: Guide published.
 ---
+
 *This guide is intended to give the reader the tools needed to approach encounter optimization as a Machinist.
 It assumes you are already familiar with the fundamentals of the job – if you need a refresher, please
 read the [Basic Guide](https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/) and come back when you're done.*
@@ -67,6 +68,36 @@ damage is. A 100-battery Queen deals **2600 potency** (around 2314 player potenc
 **Queen is the single most important action to align to raid buffs**. If you're serious about optimizing an encounter,
 the best place to start is by carefully planning out the timing for your Queen summons to fit as many of her hits as possible
 into raid buffs. 
+
+## Queen Mechanics
+
+Pets have slightly different stat modifiers than player characters do. Here are some of Queen's quirks, in no particular order:
+
+* Queen mirrors our raid buffs, including tincture, in real time (with the exception of Dragon Sight).
+* Queen mirrors our debuffs, including damage downs and stuns, in real time (with the exception of Resurrection Sickness).
+* Queen snapshots the player's stats and substats at the time of summoning.
+    * Eating food or using a tincture will force Queen's stats to update.
+* Queen has a 100 DEX modifier instead of the Machinist's 115 DEX modifier.
+* Queen does not benefit from the Party Bonus mainstat buff.
+* Queen does not benefit from the player's racial stat bonuses.
+
+Altogether, Queen's potency is worth about **89% of the player's potency**. For example, the 120 potency Arm Punch
+is roughly equivalent to 106.8 potency from your direct damaging actions.
+
+## Summon Timings
+
+Timing Queen can be a bit tricky due to her long wind-up animation, which lasts about 5 seconds from
+button press to her first hit. Crowned Collider snapshots around 21.5s (90 battery) or 23.5s (100 battery) 
+after you press the button. Because of this, you'll need to anticipate buff windows and give your
+summons some lead time to fit in as much potency as possible. 
+
+In a two minute cycle you can expect to generate 180-190 battery, which is enough for two large queens –
+one aligned to buffs and one outside buffs. 
+
+If there's a downtime phase in the fight, you need to be strategic about where you use your battery.
+Certain kinds of add phases lend themselves to building gauge so you can spend it all in a big reopener
+when the boss becomes targetable. In these situations, you should make sure to dump battery before
+the downtime so that you don't overcap.
 
 ## Battery Manipulation
 
@@ -128,13 +159,13 @@ on cooldown at the right time without interfering with your GCD rotation. Below 
 
 The standard and most ping-friendly Wildfire setup. 
 
-![WF > HC](https://i.imgur.com/sjBViLP.png)
+![WF > HC](https://i.imgur.com/AI9YFak.png)
 
 ## WF > GCD > HC
 
 If you need to weave Wildfire before a tool GCD, use this setup.
 
-![HC > GCD > HC](https://i.imgur.com/sjBViLP.png)
+![WF > GCD > HC](https://i.imgur.com/sjBViLP.png)
 
 ## HC > HB > WF
 
@@ -261,6 +292,35 @@ The following table can be used to help plan your tincture usage in a typical fi
 | 10:00         | 3    | 0:00, 4:30, 9:00      |
 | 10:30         | 3    | 0:00, 5:00, 10:00     |
 
+# Skill Speed Adjustments
+
+Skill Speed is our worst substat on average, but there are some situations where you're forced to take it on your gear.
+Our GCD alignment remains intact at every 0.06s interval of our GCD (i.e. 2.50, 2.44, 2.38, and so on). For each of these
+tiers below 2.50, you'll need to insert one extra filler Heated Combo GCD per two minute loop to prevent your tool GCDs 
+from reverse drifting into your Wildfire window.
+
+If you're not at one of these tiers, your Wildfire cooldown will no longer cleanly align to your GCD rotation.
+In these situations you can choose to use the rotation of the closest tier below you (for example, the 2.44 rotation
+if you're at 2.46), or you can choose to get a bit creative with your Wildfire setups while keeping your tools
+on cooldown.
+
+## Optimal Drift
+
+Depending on how close Drill is to the end of your Wildfire, you have the option of slightly drifting Wildfire every
+two minutes to keep your tools on cooldown. For example, if you use a WF > HC setup in the opener, you might be able to use
+WF in the late weave slot on the next window resulting in a WF > GCD > HC setup. the window after that, you'll have
+accumulated a full GCD's worth of Wildfire drift. This method of adjusting for Skill Speed isn't necessarily a gain or
+a loss in a vacuum, but you might find that keeping tool GCDs on cooldown is advantageous for a particular encounter.
+
+Note that if Drill is the very next GCD after Wildfire + Hypercharge, drifting Wildfire is going to cause you to drift
+Drill too. In these situations you have no choice but to add a filler GCD.
+
+## Phase Optimizations
+
+There are some rare scenarios where Skill Speed allows you to net an extra tool GCD at the end of a phase. 
+If it requires a small amount of Skill Speed and the fight is short enough, it might just be a small gain 
+to use a sub-2.50 set for this particular encounter.
+
 # Potency Analysis
 
 \< The numerical stuff -- will add pending 6.1 patch notes & TC \>
@@ -295,8 +355,8 @@ ping is, the more targets you'll need in order to delay the GCD damage into the 
 ## Flamethrower Buff Extension
 
 Another AoE tech, this time involving everyone's favorite Machinist action. Flamethrower functions like other ground DoTs:
-it snapshots buffs on the player at the time of casting the action, but it doesn't snapshot debuffs on the target such as
-Chain Stratagem. This means **if you start channeling Flamethrower on the last GCD of buffs, they'll last for the full
+it snapshots buffs on the player at the time of casting the action (although it doesn't snapshot debuffs on the target, such as
+Chain Stratagem). This means **if you start channeling Flamethrower on the last GCD of buffs, they'll last for the full
 duration**. This only requires a modest 1.13x buff multiplier for Flamethrower to edge out Heated Combo on two targets,
 and of course it's an even bigger gain on 3 or more targets.
 
