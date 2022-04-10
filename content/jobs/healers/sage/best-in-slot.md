@@ -27,6 +27,15 @@ bis:
     description: A base set to prepare for Savage raiding.
     name: Raid-ready Set
     link: e6488dbc-1b2a-48c6-8690-f4aaa9366c2d
+  - type: etro
+    description: This set sacrifices some piety for damage but should still provide
+      enough MP to cover most prog situations.
+    name: 2.50 GCD, Mid Piety DSW prog set
+    link: " https://etro.gg/gearset/187bf763-fae2-465f-9f20-25d8415c88bc"
+  - type: etro
+    description: This set provides a ton of extra MP for raises and GCD heals.
+    name: 2.50 GCD, High Piety DSW prog set
+    link: https://etro.gg/gearset/0787dd69-6899-4dc1-b7df-668943de9805
 authors:
   - Balance-SGE-Staff
 ---
