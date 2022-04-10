@@ -74,8 +74,12 @@ into raid buffs.
 
 Pets have slightly different stat modifiers than player characters do. Here are some of Queen's quirks, in no particular order:
 
-* Queen mirrors our raid buffs, including tincture, in real time (with the exception of Dragon Sight).
-* Queen mirrors our debuffs, including damage downs and stuns, in real time (with the exception of Resurrection Sickness).
+* Queen mirrors our raid buffs, including tincture, in real time.
+    * Queen is unaffected by Dragon Sight.
+
+* Queen mirrors our debuffs, including damage downs and stuns, in real time.
+    * Queen is unaffected by Resurrection Sickness.
+
 * Queen snapshots the player's stats and substats at the time of summoning.
     * Eating food or using a tincture will force Queen's stats to update.
 * Queen has a 100 DEX modifier instead of the Machinist's 115 DEX modifier.
