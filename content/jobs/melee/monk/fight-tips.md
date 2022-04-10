@@ -5,7 +5,7 @@ authors:
 patch: "6.08"
 lastmod: 2022-04-10T17:43:26.107Z
 ---
-Hello monks and welcome to the encounter guide for the first tier of Endwalker.\
+Hello Monks, and welcome to the encounter guide for the first tier of Endwalker.\
 We will review the different ways on what is possible to optimise from the entirety of the tier.
 
 
