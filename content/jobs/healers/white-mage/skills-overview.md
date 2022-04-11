@@ -61,11 +61,11 @@ changelog:
 
 
 
-* AoE damage in a very small 5y radius around enemy target (900p), instant cast. Deals 675 potency to enemies that aren’t the main target in a 5y radius. 
+* AoE damage in a very small 5y radius around enemy target (1,240p), instant cast. Deals 620 potency to enemies that aren’t the main target in a 5y radius. 
 * You gain Blood Lily charges when using a Lily charge, you need three lily usages to gain a Blood Lily. Misery can only be activated if you have a blood Lily
 * Three Lilies and a misery is a dps gain on two or more targets, be aware of its small 5y radius and make sure it is hitting two targets.
-* Using Three Lily and Misery is a dps loss compared to four Glares on one target.
-* If you have two stacks for Blood Lily it's a gain to use an extra Lily heal and blood Lily before the fight ends. Aim to put it in raid buffs to get more value from it.
+* Your priority for Misery should be Movement if you have nothing else > Using it into Putting it into raid buffs > before the fight ends
+* If you have at least one blood lily charge it's a gain to use as many Lillies as you need to geta blood lily before the fight ends.
 
 
 ## **OGCD**
@@ -188,7 +188,7 @@ changelog:
 
 
 
-* Places a 8y ground aoe (9 ticks of 100p)
+* Places a 10y ground aoe (9 ticks of 100p)
 * Asylum gives 10% increased healing to both GCD and oGCD heals except select few cases
 * Asylum gives an additional regen tick when first placed
 * Asylum increases its own potency to 110p per tick except for the initial one on placement
@@ -201,6 +201,7 @@ changelog:
 
 * Places a Bell at a designated location and gives the WHM a 5-stack buff
 * When the White Mage takes damage Bell uses one stack and heals allies within a 20y radius (400p). Bell’s healing originates from itself, not the WHM.
+* Bell can be triggered again at anytime to heal all allies (200p per stack)
 * After 15s Bell expires and any remaining stacks heal allies within a 20y radius (200p per stack)
 * It's most effective at healing multiple raid-wides, however don't be afraid to use it to heal one or two raid-wides and the leftover stacks can top the party.
 
