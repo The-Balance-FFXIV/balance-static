@@ -75,16 +75,16 @@ One of the themes in our level 90 Generalized Opener is maintaining three GCDs w
 
 The three things that make up Machinist’s flexible burst are the Heat gauge, the Battery gauge, and the charges of Gauss Round Ricochet, and Reassemble. The first rule for these resources is to never allow them to overcap if possible. The second rule is to use as many of them as you can before an encounter ends, preferring to end a fight with these gauges as close to zero as possible.
 
-Automaton Queen is Machinist’s most flexible burst and is also the most powerful of the three. Automaton Queen’s damage scaling is linear to the amount of battery she was summoned at. For every 10 Battery, the summon is worth 260 potency, with Pile Bunker being 65 potency and Crowned Collider being 75 potency per 10 gauge. At maximum Battery, Automaton Queen will last 21s and is worth 2600 potency, with 650 of that coming from Pile Bunker and another 750 coming from Crowned Collider. Below is a chart listing all Battery levels and their information.
+Automaton Queen is Machinist’s most flexible burst and is also the most powerful of the three. Automaton Queen’s damage scaling is linear to the amount of battery she was summoned at. For every 10 Battery, the summon is worth 266 potency, with Pile Bunker being 68 potency and Crowned Collider being 78 potency per 10 gauge. At maximum Battery, Automaton Queen will last 21s and is worth 2660 potency, with 680 of that coming from Pile Bunker and another 780 coming from Crowned Collider. Below is a chart listing all Battery levels and their information.
 
 | Battery Amount | Battery Timer | Actual Time Active | Punches | Potency Per Battery | Pile Bunker Potency | Crowned Collider Potency | Total Normalized Pet Potency |
 | -------------- | ------------- | ------------------ | ------- | ------------------- | ------------------- | ------------------------ | ---------------------------- |
-| 50             | 12.5 seconds  | 15.5 seconds       | 5       | 26                  | 325                 | 375                      | 1157                         |
-| 60             | 14 seconds    | 17 seconds         | 6       | 26                  | 390                 | 450                      | 1388                         |
-| 70             | 15.5 seconds  | 18.5s              | 7       | 26                  | 455                 | 525                      | 1620                         |
-| 80             | 17 seconds    | 20 seconds         | 8       | 26                  | 520                 | 600                      | 1851                         |
-| 90             | 18.5 seconds  | 21.5 seconds       | 9       | 26                  | 585                 | 675                      | 2082                         |
-| 100            | 20.5 seconds  | 23.5 seconds       | 10      | 26                  | 650                 | 750                      | 2314                         |
+| 50             | 12.5 seconds  | 15.5 seconds       | 5       | 26.6                | 340                 | 390                      | 1184                         |
+| 60             | 14 seconds    | 17 seconds         | 6       | 26.6                | 408                 | 468                      | 1421                         |
+| 70             | 15.5 seconds  | 18.5s              | 7       | 26.6                | 476                 | 546                      | 1658                         |
+| 80             | 17 seconds    | 20 seconds         | 8       | 26.6                | 544                 | 624                      | 1894                         |
+| 90             | 18.5 seconds  | 21.5 seconds       | 9       | 26.6                | 612                 | 702                      | 2131                         |
+| 100            | 20.5 seconds  | 23.5 seconds       | 10      | 26.6                | 680                 | 780                      | 2368                         |
 
 Queen’s summon should be delayed if scripted downtime is about to happen. Using Overdrive is always a loss and should be avoided unless a fight is ending and you have no other option to get the Pile Bunker and Crowned Collider off. Ultimately, you should be planning your Battery usage in such a way Queen’s finishers go off naturally, and so that you end a fight with as little excess Battery as possible.
 
