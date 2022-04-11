@@ -250,7 +250,7 @@ For example, if a death made you put up Mage's Ballad 12 seconds late, shift you
 
 Don't be afraid to keep your 2-minute burst on time in whatever song it lands in. As with the 60-second delay, you're only losing Pitch Perfects, so it's not a total disaster. Matching the party's burst is far more important.
 
-If you're dead at a time that was supposed to have a burst, it can be tricky. Try to do the best you can without losing total skill uses. Usually either it'll be too late and a set of uses is already lost, or you can safely delay them to the odd minute, or you need to use them as soon as possible. You may need to disjoint Battle Voice in the latter case.
+If you're dead at a time that was supposed to have a burst, it can be tricky. Try to do the best you can without losing total skill uses. Usually either it'll be too late and a set of uses is already lost, or you can safely delay them to the odd minute, or you need to use them as soon as possible.
 
 ## Targeting macros
 
