@@ -19,14 +19,14 @@ This guide is intended for players who are looking to play Scholar in level 90 t
 * GCD (Global Cooldown): Spells that share the same base recast time. On SCH, these are mostly spells with about 2.5s recast time, plus Resurrection. 
 * Instant (Instant Cast): GCD Spells that do not have a cast bar.
 * oGCD (Off Global Cooldown): Abilities that don’t share the 2.5s base recast time and therefore can be used while GCD spells are on cooldown.
-* Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely weave 2 oGCDs after an instant cast GCD, or 1 oGCD after your casted damaging GCD.
-* HoT (Heal over Time): Actions that heal the target over a period of time. These actions heal for their listed potency once every 3 seconds.
+* Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely weave 2 oGCDs after an instant cast GCD, or one oGCD after your casted damaging GCD.
+* HoT (Heal over Time): Actions that heal the target over a period of time. These actions heal for their listed potency once every three seconds.
 * Regen: Another word for HoT
-* DoT (Damage over Time): Actions that damage the target over a period of time. These actions deal damage for their listed potency once every 3 seconds.
+* DoT (Damage over Time): Actions that damage the target over a period of time. These actions deal damage for their listed potency once every three seconds.
 * AoE (Area of Effect): Actions that affect every target in a specified area. AoE heals heal all allies in a circle around their source. AoE damage abilities affect all enemies in an area specified by the ability; enemies can perform AoE attacks too.
 * AF (Aetherflow): The level 45 SCH ability. The resource stacks it grants and the abilities that cost Aetherflow are often called “AF stacks” and “AF abilities”.
-* HP (Health Points): Your life. Don’t let this hit 0.
-* MP (Mana Points): The resource that allows you to cast spells. Also don’t let this hit 0.
+* HP (Health Points): Your life. Don’t let this hit zero.
+* MP (Mana Points): The resource that allows you to cast spells. Also don’t let this hit zero.
 
 # Job Gauges
 
@@ -42,7 +42,7 @@ The Aetherflow Gauge displays your current Aetherflow stacks, with a maximum of 
 
 ![](/img/jobs/sch/seraphgauge.png "Seraph Faerie Gauge")
 
-The Faerie Gauge displays your current amount of fae aether. It will first be displayed upon unlocking the Aetherpact ability at level 70, and fae aether is solely used to fuel this ability. Aetherpact initiates the fairy ability Fey Union, which consumes 10 fae aether per tick, and fae aether is accumulated whenever an AF ability is executed while the fairy is on the field (whether by consuming an AF stack or through the usage of Recitation). Upon unlocking Summon Seraph at level 80, the Faerie Gauge will also display the amount of time Seraph will remain on the field while she is active.
+The Faerie Gauge displays your current amount of fae aether. It will first be displayed upon unlocking the Aetherpact ability at level 70, and fae aether is solely used to fuel this ability. Aetherpact initiates the fairy ability Fey Union, which consumes ten fae aether per tick, and fae aether is accumulated whenever an AF ability is executed while the fairy is on the field (whether by consuming an AF stack or through the usage of Recitation). Upon unlocking Summon Seraph at level 80, the Faerie Gauge will also display the amount of time Seraph will remain on the field while she is active.
 
 # Damage Actions
 
@@ -90,7 +90,7 @@ The Faerie Gauge displays your current amount of fae aether. It will first be di
 ### **Energy Drain**
 
 * Single target damage
-* Costs 1 Aetherflow stack and increases Faerie Gauge by 10.
+* Costs one Aetherflow stack and increases Faerie Gauge by 10.
 * Use this to spend excess Aetherflow stacks on dealing damage. 
 * If you need to heal and cannot use a non-Aetherflow oGCD heal, use Aetherflow stacks on healing instead of Energy Drain.
 
@@ -211,7 +211,7 @@ The Faerie Gauge displays your current amount of fae aether. It will first be di
 ### **Aetherpact**
 
 * Orders your fairy to execute Fey Union: Single target regen (300 potency/tick).
-* Costs 10 Faerie Gauge per tick.
+* Costs ten Faerie Gauge per tick.
 * Use to focus healing onto a single target, such as the tank. The heal is stronger than Embrace.
 * Note: 
 
@@ -276,7 +276,7 @@ The Faerie Gauge displays your current amount of fae aether. It will first be di
 
 ### Aetherflow
 
-All Aetherflow heals cost 1 Aetherflow stack and increase Faerie Gauge by 10.
+All Aetherflow heals cost one Aetherflow stack and increase Faerie Gauge by 10.
 
 ![Lustrate](https://xivapi.com/i/002000/002805_hr1.png) 
 
@@ -352,14 +352,14 @@ All Aetherflow heals cost 1 Aetherflow stack and increase Faerie Gauge by 10.
 
 ### **Aetherflow**
 
-* Grants 3 Aetherflow stacks and recovers 2000 MP.
+* Grants three Aetherflow stacks and recovers 2000 MP.
 * Use on cooldown. Spend Aetherflow stacks before using it – do not overcap.
 
 ![Dissipation](https://xivapi.com/i/002000/002810_hr1.png) 
 
 ### **Dissipation**
 
-* Removes the fairy for 30s and grants 3 stacks of Aetherflow and a 20% GCD heal buff.
+* Removes the fairy for 30s and grants three stacks of Aetherflow and a 20% GCD heal buff.
 * Can only be used if Eos/Selene is active. Cannot be used if Seraph is summoned or if no fairy is summoned.
 * While under the effect of Dissipation, the fairy does not cast Embrace, your Faerie Gauge does not increase, and you cannot use any fairy abilities.
 * Use as a damage cooldown or save it for emergencies:
@@ -459,7 +459,7 @@ Broil IV
 
 ## Holding Aetherflow Stacks
 
-It’s important to remember that, while the standard opener uses 6 Energy Drains, that’s not always feasible or advisable in actual play. During prog, you’ll usually start out holding all of your AF stacks. You’ll learn how many stacks you’re able to use on Energy Drain in your opener and, later on, in burst windows throughout the fight. Ideally you’ll be able to use both Aetherflow and Dissipation in your opener after a few pulls, but in some more healing intensive fights you may end up holding Dissipation for later mechanics. See the later section on Healing Efficiently for further information. 
+It’s important to remember that, while the standard opener uses six Energy Drains, that’s not always feasible or advisable in actual play. During prog, you’ll usually start out holding all of your AF stacks. You’ll learn how many stacks you’re able to use on Energy Drain in your opener and, later on, in burst windows throughout the fight. Ideally you’ll be able to use both Aetherflow and Dissipation in your opener after a few pulls, but in some more healing intensive fights you may end up holding Dissipation for later mechanics. See the later section on Healing Efficiently for further information. 
 
 ## Dissipation First Openers
 
@@ -467,9 +467,9 @@ While the traditional opener uses Aetherflow first, using Dissipation first inst
 
 ## Chain Stratagem and Buff Windows
 
-As a Scholar you have Chain Stratagem (henceforth Chain), a 2 minute raid buff that increases the crit rate of all attacks against a single target. Proper usage of Chain by the Scholar and utilization by the party is a major portion of Scholar’s raid dps contribution. Chain optimizations will be expanded upon in the advanced guide, but in general it’s important to get the maximum usages of Chain in each fight and to keep it aligned with other 2 minute raid buffs. In many fights, this is achieved by simply using Chain properly in the opener and then hitting it as soon as it comes off of CD throughout the fight. However parties will sometimes delay buff windows in certain fights due to downtime or certain mechanics. It’s important to coordinate these delays with your party so that everyone is able to keep raid buffs and bursts aligned. 
+As a Scholar you have Chain Stratagem (henceforth Chain), a two minute raid buff that increases the crit rate of all attacks against a single target. Proper usage of Chain by the Scholar and utilization by the party is a major portion of Scholar’s raid dps contribution. Chain optimizations will be expanded upon in the advanced guide, but in general it’s important to get the maximum usages of Chain in each fight and to keep it aligned with other two minute raid buffs. In many fights, this is achieved by simply using Chain properly in the opener and then hitting it as soon as it comes off of CD throughout the fight. However parties will sometimes delay buff windows in certain fights due to downtime or certain mechanics. It’s important to coordinate these delays with your party so that everyone is able to keep raid buffs and bursts aligned. 
 
-Scholar also has the ability to hold their own resources for 2 minute buff windows in order to improve their own personal dps contribution. This is done by holding the stacks from your odd minute Aetherflows for usage in even minute raid buff windows. For example you can hold the stacks from the Aetherflow usage at 1:15 for the raid buffs 2 minutes into the fight. Doing this requires that Aetherflow itself is delayed somewhat so that it happens midway through raid buffs rather than before them, but doing a Dissipation First opener aligns Aetherflow properly for this right away. It’s still important to note that you don’t need to use all of your AF stacks on Energy Drain, but aligning your 2 minute windows like this will still be advantageous as it allows all of the Energy Drains you do use to fall in buffs. 
+Scholar also has the ability to hold their own resources for two minute buff windows in order to improve their own personal dps contribution. This is done by holding the stacks from your odd minute Aetherflows for usage in even minute raid buff windows. For example you can hold the stacks from the Aetherflow usage at 1:15 for the raid buffs 2 minutes into the fight. Doing this requires that Aetherflow itself is delayed somewhat so that it happens midway through raid buffs rather than before them, but doing a Dissipation First opener aligns Aetherflow properly for this right away. It’s still important to note that you don’t need to use all of your AF stacks on Energy Drain, but aligning your two minute windows like this will still be advantageous as it allows all of the Energy Drains you do use to fall in buffs. 
 
 # Movement Options
 
