@@ -3,13 +3,15 @@ title: Machinist Skills Overview
 authors:
   - Balance-MCH-Staff
   - dook
-patch: "6.08"
+patch: "6.1"
 lastmod: 2022-01-01T05:10:31.753Z
 changelog:
   - date: 2021-10-25T22:02:55.843Z
     message: Created page
   - date: 2022-01-01T05:10:23.615Z
     message: Updated for EW
+  - date: 2022-04-11T23:35:07.990Z
+    message: Potencies updated for 6.1
 ---
 # Single-Target Actions
 
