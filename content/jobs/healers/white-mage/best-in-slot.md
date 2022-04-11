@@ -2,12 +2,14 @@
 title: White Mage Best in Slot (BiS)
 layout: bis
 patch: "6.0"
-lastmod: 2021-10-27T00:17:35.533Z
+lastmod: 2022-04-10T22:31:00.079Z
 changelog:
   - date: 2021-10-27T00:19:11.972Z
     message: Article Created.
   - date: 2022-02-14T04:43:48.131Z
     message: Updated for Endwalker.
+  - date: 2022-04-10T22:31:13.549Z
+    message: Added DSWU sets
 bis:
   - type: etro
     description: >-
@@ -33,6 +35,16 @@ bis:
       This set swaps the raid hat to the tome hat for another small damage gain at the cost of Piety.  This set (and other speedkill sets) will run dry on longer kills even without GCD heals or raises so is only recommended in organized environments where you are assured a short kill time. There are even riskier speed sets listed in the gear calc but the gains past this set are minimal.
     name: Speedkill Set
     link: d483c05e-a2ef-4fe0-906f-b883566586af
+  - type: etro
+    description: This set sacrifices some piety for damage but should still provide
+      enough MP to cover most prog situations.
+    name: 2.50 Mid Piety set
+    link: https://etro.gg/gearset/72f8759c-50e4-4943-a8a0-87cda1f7b5ee
+  - type: etro
+    description: This set provides a ton of extra MP for raises and GCD heals, you
+      cannot go wrong with this set.
+    name: 2.50 High piety set
+    link: https://etro.gg/gearset/af94f623-6956-475f-b7c5-de2f5bd6d47e
   - type: etro
     description: >-
       ## TEA Prog set (linked)
@@ -69,7 +81,7 @@ bis:
       Gear at item level 418 and above will cap both substats.\
 
       Relic stats: 280 Crit/Det/SpS/Piety
-    name: Ultimates
+    name: Old Ultimates
     link: 7cdc296b-4889-43c9-ad1b-a21fab6e6001
   - type: spreadsheet
     description: "Disclaimer: MP uptime on the sheet is higher than in reality, for
