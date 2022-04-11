@@ -73,7 +73,7 @@ Eukrasia becomes available at level 30, giving you access to your DoT Eukrasian 
 
 Despite SGE’s categorization as a shield healer, Eukrasian Prognosis is one of the lesser utilized aspects of our kit. Do not attempt to use Eukrasian Prognosis before every instance of raidwide damage - instead, prefer to heal up the damage afterwards with free healing tools such as Physis that don’t cost us a Dosis cast. However, do not skip out on using this ability if it would save your party from dying to unavoidable damage.
 
-On the other hand, Soteria, gained at level 35, is an ability that you should aim to utilize in trash pulls as much as possible. Soteria boosts all your Kardia healing by 50%, making each proc a 195p heal at this level range. You can use it alongside Physis for strong tank maintenance if needed, or when Physis is unavailable to space out your healing tools. 
+On the other hand, Soteria, gained at level 35, is an ability that you should aim to utilize in trash pulls as much as possible. Soteria boosts all your Kardia healing by 70% for the next four procs, making each proc a 221p heal at this level range. You can use it alongside Physis for strong tank maintenance if needed, or when Physis is unavailable to space out your healing tools.
 
 ## Damage
 With access to your instant cast DoT ability, you should aim to apply Eukrasian Dosis to any enemy that you can while your tank is running between trash pulls. Eukrasian Dosis beats a regular Dosis after 21s, so only apply the DoT to enemies that you think will live long enough once the tank settles the pull. Eukrasian Dosis only procs Kardia healing once when it’s applied, and not every time the DoT ticks. 
