@@ -3,8 +3,8 @@ title: Scholar Skills Overview
 authors:
   - tealjaker
   - potato
-patch: "6.05"
-lastmod: 2022-03-08T16:38:30.477Z
+patch: "6.08"
+lastmod: 2022-04-11T20:01:04.710Z
 changelog:
   - date: 2021-10-26T21:37:23.610Z
     message: Article Created.
@@ -139,7 +139,7 @@ changelog:
 ![Expedient](https://xivapi.com/i/002000/002878_hr1.png) 
 ### **Expedient**
 
-* 20s AoE mitigation (10%) and move speed buff (equivalent to Sprint)
+* 20s AoE mitigation (10%) and 10s AoE move speed buff (equivalent to Sprint)
 * Move speed buff persists during combat (unlike Peloton)
 * Use for long-duration mitigation and/or use the increased move speed for mechanics
 
