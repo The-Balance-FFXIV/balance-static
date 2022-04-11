@@ -4,12 +4,14 @@ card_header_image: /img/jobs/sge/sgeleveling.png
 authors:
   - meru
 patch: "6.08"
-lastmod: 2022-03-11T23:48:42.394Z
+lastmod: 2022-04-11T20:47:25.473Z
 changelog:
   - date: 2022-01-24T06:59:04.463Z
     message: Added page
   - date: 2022-03-11T23:48:47.282Z
     message: Updated Sage leveling for 6.08
+  - date: 2022-04-11T20:47:26.282Z
+    message: Various misc. updates.
 ---
 ## Introduction
 While Sage starts out at level 70, you may find yourself synced to lower level ranges when leveling through roulettes, and this guide aims to cover what options you have at each level range. Even if you want to level Sage exclusively using 70+ content, you can use this guide as an explanation of your large mitigation/healing toolkit and how they work together with a focus on healing dungeon content; though the guidelines introduced are applicable to all PvE content in this game. 
@@ -17,7 +19,7 @@ While Sage starts out at level 70, you may find yourself synced to lower level r
 
 # Gear and Job Quests
 
-When leveling, prefer equipping higher iLvl gear as they come by from dungeons or Main Scenario Quests (if Sage is the job you go through story quests with). As most of your gear will be replaced every few levels, it is not worth melding materia into any of them. 
+When leveling, prefer equipping higher item level gear, as they come by from dungeons or Main Scenario Quests (if Sage is the job you go through story quests with). As most of your gear will be replaced every few levels, it is not worth melding materia into any of them. 
 
 Your starting job quest will reward you with an i385 weapon and i385 left side gear. While these are sufficient to start the leveling process with (provided that you have a reasonable set of right side gear), you can easily obtain i400 Augmented Scaevan gear using poetics from Rowena’s Representative in Kugane. Similarly, at level 80, you can obtain i530 Augmented Cryptlurker gear from Mowen’s Representative in Crystarium. 
 
@@ -73,7 +75,7 @@ Eukrasia becomes available at level 30, giving you access to your DoT Eukrasian 
 
 Despite SGE’s categorization as a shield healer, Eukrasian Prognosis is one of the lesser utilized aspects of our kit. Do not attempt to use Eukrasian Prognosis before every instance of raidwide damage - instead, prefer to heal up the damage afterwards with free healing tools such as Physis that don’t cost us a Dosis cast. However, do not skip out on using this ability if it would save your party from dying to unavoidable damage.
 
-On the other hand, Soteria, gained at level 35, is an ability that you should aim to utilize in trash pulls as much as possible. Soteria boosts all your Kardia healing by 50%, making each proc a 195p heal at this level range. You can use it alongside Physis for strong tank maintenance if needed, or when Physis is unavailable to space out your healing tools. 
+On the other hand, Soteria, gained at level 35, is an ability that you should aim to utilize in trash pulls as much as possible. Soteria boosts all your Kardia healing by 70% for the next four procs, making each proc a 221p heal at this level range. You can use it alongside Physis for strong tank maintenance if needed, or when Physis is unavailable to space out your healing tools.
 
 ## Damage
 With access to your instant cast DoT ability, you should aim to apply Eukrasian Dosis to any enemy that you can while your tank is running between trash pulls. Eukrasian Dosis beats a regular Dosis after 21s, so only apply the DoT to enemies that you think will live long enough once the tank settles the pull. Eukrasian Dosis only procs Kardia healing once when it’s applied, and not every time the DoT ticks. 
