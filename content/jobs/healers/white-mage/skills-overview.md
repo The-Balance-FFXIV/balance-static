@@ -30,7 +30,7 @@ changelog:
 
 * Single target damage (310), 1.5 cast time
 * At lower levels you'll have Stone, which gets replaced by Glare at level 72
-* Can weaveone oGCD after it
+* Can weave one oGCD after it
 * Cast this when you don't need to do anything else.
 
 ![Holy III](https://xivapi.com/i/002000/002647_hr1.png)
@@ -38,9 +38,9 @@ changelog:
 
 
 
-* Aoe damage in a small 8y radius around you (150p), 2.5s cast time
-* In non boss fights Holy has a stun that gets reduced each time starting off with 4s stun followed by 2s stun and the last stun being 1s.
-* Holy is your strongest tool in Dungeons letting you have an effective seven second stun
+* AoE damage in a small 8y radius around you (150p), 2.5s cast time
+* In non boss fights, Holy has a stun that gets reduced each time starting off with 4s stun followed by 2s stun and the last stun being 1s.
+* Holy is your strongest tool in Dungeons, letting you have an effective seven second stun
 * Holy is a gain over Glare III on three targets
 * Try to use Swift before Holy in dungeon runs before the first usage, makes the stun chain smooth
 
@@ -50,8 +50,8 @@ changelog:
 
 
 * Single target damage (60p) and DoT (10 ticks of 60p), instant cast. Total Potency: 660
-* At lower levels you'll have Aero which has a lower duration(18s), this is replaced by Dia at level 72
-* In dungeons, apply dia while running and spam holy when the tank stops
+* At lower levels you'll have Aero, which has a lower duration (18s), this is replaced by Dia at level 72
+* In dungeons, apply Dia while running and spam Holy when the tank stops
 * If Optimizing: 
   * Refreshing Dia early can be a gain if you know your kill/phase time and you know you will lose ticks anyway. 
   * Dia is a gain on Glare III after 5 ticks.
