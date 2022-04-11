@@ -5,7 +5,7 @@ authors:
   - dook
   - lynn-nuvestrahl
   - Balance-MCH-Staff
-patch: "6.08"
+patch: "6.1"
 lastmod: 2022-04-09T07:26:36.327Z
 changelog:
   - date: 2021-10-25T21:57:19.219Z
