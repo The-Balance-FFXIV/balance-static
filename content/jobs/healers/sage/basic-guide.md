@@ -99,8 +99,8 @@ As it is a DPS gain, you should try to use it when raid buffs are active to maxi
 
 ![Toxikon II](https://xivapi.com/i/003000/003684_hr1.png)
 
-Toxikon's advantage is that it is the same potency as Dosis, but is instant cast, thus allowing free movement while using it. Toxikon requires Addersting charges to use. These can only be attained by having your shield from Eukrasian Diagnosis be fully consumed. However, using Eukrasian Diagnosis and Toxikon is still a damage loss compared to using two
-Doses. Therefore, the ideal way to use it is to apply the shields pre-pull (either on just the main tank, or on the main tank and two others for fights with a raidwide in the first 25 seconds or so). This will give you 1 to 3 charges to use.
+Toxikon's advantage is that it has the same potency as Dosis, but is instant cast, thus allowing free movement while using it. Toxikon requires Addersting charges to use. You start the instance with three out of three charges. After that, these can only be attained by having your shield from Eukrasian Diagnosis be fully consumed. However, using Eukrasian Diagnosis and Toxikon is still a damage loss compared to using two
+Doses. Therefore, the ideal way to use it is to apply the shields during downtime, such as a raid mechanic where the boss is untargetable, or between dungeon pulls. This will give you 1 to 3 charges to use.
 You can repeat this process during any downtime that may exist in the fight, giving you a few more charges to use.
 
 #### Pneuma
