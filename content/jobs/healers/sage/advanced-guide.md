@@ -17,31 +17,26 @@ Sage being relatively straightforward means that there's not all that much for a
 
 ## Phlegma Timings
 
-There is a detailed sheet of Phlegma timings available
-[here](https://docs.google.com/spreadsheets/d/1q3ZU_fY2fUYxpp-hfOUaxgIuUUs9HcYKXHxyR9BgkPM/edit#gid=0).
+With the rework of Trick Attack in 6.1, it is no longer necessary to worry about odd-minute buff windows, as they no longer exist. Rather, any Phlegma that wouldn't be used in a two-minute buff window becomes free movement.
 
-The short version is that assuming your party is using buffs immediately when they come off cooldown, the six-minute cycle
-looks like this:
+
+Phlegma timings would ideally look like this, on a repeating six-minute cycle:
 
 | Time | # of Phlegma to Use |
 |------|---------------------|
 | 0:00 | 2                   |
-| 1:00 | 1                   |
+| Free | 1                   |
 | 2:00 | 2                   |
-| 3:00 | 1                   |
+| Free | 1                   |
 | 4:00 | 1                   |
-| 5:00 | 1                   |
-
-The cycle repeats every six minutes.
-
-If you do not have one-minute buffs, then you have more freedom to use Phlegma for movement. As long as you're still getting the correct number of uses in two-minute windows, and you aren't overcapping, you have more freedom over the uses that would have otherwise been in the one-minute windows.
+| Free | 1                   |
 
 
 
-**Two disclaimers:**
 
-- As with all buffs and cooldowns, you may be able to shift some timings around if you have a consistent killtime.
-- That is, if you can delay a use for buff windows without losing a use, it is optimal to do so.
+
+
+As with all buffs and cooldowns, you may be able to shift some timings around if you have a consistent killtime. That is, if you can delay a use for buff windows without losing a use, it is optimal to do so.
 
 
 
