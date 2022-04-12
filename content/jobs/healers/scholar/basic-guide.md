@@ -5,10 +5,12 @@ authors:
   - tealjaker
   - potato
 patch: "6.08"
-lastmod: 2022-04-10T21:33:14.000Z
+lastmod: 2022-04-11T23:56:06.853Z
 changelog:
   - date: 2021-10-26T21:53:11.912Z
     message: Article Created.
+  - date: 2022-04-11T23:55:59.352Z
+    message: Updated for Endwalker.
 ---
 This guide is intended for players who are looking to play Scholar in level 90 trials and raids. For information about playing Scholar while leveling, please see our Leveling Guide.
 
@@ -34,15 +36,21 @@ This guide is intended for players who are looking to play Scholar in level 90 t
 
 ![](/img/jobs/sch/afgauge.png "Aetherflow Gauge")
 
+&nbsp;
+
 The Aetherflow Gauge displays your current Aetherflow stacks, with a maximum of three AF stacks held at once. This gauge will first be displayed upon unlocking Aetherflow at level 45. Using Aetherflow or Dissipation will fully fill your Aetherflow Gauge, so avoid using these when you still have stacks remaining. These stacks can be used either on AF healing abilities or Energy Drain. The abilities which consume Aetherflow will be noted in the sections below, and usage of Aetherflow stacks will be expanded upon later in the guide.
 
 ## Faerie Gauge
 
 ![](/img/jobs/sch/faeriegauge.png "Faerie Gauge")
 
+&nbsp;
+
 ![](/img/jobs/sch/seraphgauge.png "Seraph Faerie Gauge")
 
-The Faerie Gauge displays your current amount of fae aether. It will first be displayed upon unlocking the Aetherpact ability at level 70, and fae aether is solely used to fuel this ability. Aetherpact initiates the fairy ability Fey Union, which consumes ten fae aether per tick, and fae aether is accumulated whenever an AF ability is executed while the fairy is on the field (whether by consuming an AF stack or through the usage of Recitation). Upon unlocking Summon Seraph at level 80, the Faerie Gauge will also display the amount of time Seraph will remain on the field while she is active.
+&nbsp;
+
+The Faerie Gauge displays your current amount of Fae Aether. It will first be displayed upon unlocking the Aetherpact ability at level 70, and Fae Aether is solely used to fuel this ability. Aetherpact initiates the fairy ability Fey Union, which consumes ten Fae Aether per tick, and Fae Aether is accumulated whenever an AF ability is executed while the fairy is on the field (whether by consuming an AF stack or through the usage of Recitation). Upon unlocking Summon Seraph at level 80, the Faerie Gauge will also display the amount of time Seraph will remain on the field while she is active.
 
 # Damage Actions
 
@@ -292,7 +300,7 @@ All Aetherflow heals cost one Aetherflow stack and increase Faerie Gauge by 10.
 
 * Creates a bubble with 10% mitigation and a regen (100 potency, 15s).
 * Total potency: 100 (initial potency) + 500 (regen ticks) = 600.
-* Do not use if synced below Level 78 unless the mitigation is necessary for survival (ultimates and minimum ilvl content).
+* Do not use if synced below Level 78 unless the mitigation is necessary for survival (Ultimates and minimum item level content).
 * Use instead of Lustrate or Indomitability if the party will remain inside the bubble and there is enough time for the regen to heal – Sacred Soil provides as much healing as Lustrate and also provides mitigation.
 
 ![Indomitability](https://xivapi.com/i/002000/002806_hr1.png) 
@@ -410,8 +418,10 @@ All Aetherflow heals cost one Aetherflow stack and increase Faerie Gauge by 10.
 # Standard Opener and Rotation
 
 
-
 ![](/img/jobs/sch/websitenoswiftopener.png "SCH No Swift Opener")
+
+&nbsp;
+
 
 \-3s HQ Tincture of Mind
 
@@ -467,9 +477,9 @@ While the traditional opener uses Aetherflow first, using Dissipation first inst
 
 ## Chain Stratagem and Buff Windows
 
-As a Scholar you have Chain Stratagem (henceforth Chain), a two minute raid buff that increases the crit rate of all attacks against a single target. Proper usage of Chain by the Scholar and utilization by the party is a major portion of Scholar’s raid dps contribution. Chain optimizations will be expanded upon in the advanced guide, but in general it’s important to get the maximum usages of Chain in each fight and to keep it aligned with other two minute raid buffs. In many fights, this is achieved by simply using Chain properly in the opener and then hitting it as soon as it comes off of CD throughout the fight. However parties will sometimes delay buff windows in certain fights due to downtime or certain mechanics. It’s important to coordinate these delays with your party so that everyone is able to keep raid buffs and bursts aligned. 
+As a Scholar you have Chain Stratagem (henceforth Chain), a two minute raid buff that increases the Crit rate of all attacks against a single target. Proper usage of Chain by the Scholar and utilization by the party is a major portion of Scholar’s raid dps contribution. Chain optimizations will be expanded upon in the advanced guide, but in general it’s important to get the maximum usages of Chain in each fight and to keep it aligned with other two minute raid buffs. In many fights, this is achieved by simply using Chain properly in the opener and then hitting it as soon as it comes off of CD throughout the fight. However parties will sometimes delay buff windows in certain fights due to downtime or certain mechanics. It’s important to coordinate these delays with your party so that everyone is able to keep raid buffs and bursts aligned. 
 
-Scholar also has the ability to hold their own resources for two minute buff windows in order to improve their own personal dps contribution. This is done by holding the stacks from your odd minute Aetherflows for usage in even minute raid buff windows. For example you can hold the stacks from the Aetherflow usage at 1:15 for the raid buffs 2 minutes into the fight. Doing this requires that Aetherflow itself is delayed somewhat so that it happens midway through raid buffs rather than before them, but doing a Dissipation First opener aligns Aetherflow properly for this right away. It’s still important to note that you don’t need to use all of your AF stacks on Energy Drain, but aligning your two minute windows like this will still be advantageous as it allows all of the Energy Drains you do use to fall in buffs. 
+Scholar also has the ability to hold their own resources for two minute buff windows in order to improve their own personal DPS contribution. This is done by holding the stacks from your odd minute Aetherflows for usage in even minute raid buff windows. For example you can hold the stacks from the Aetherflow usage at 1:15 for the raid buffs two minutes into the fight. Doing this requires that Aetherflow itself is delayed somewhat so that it happens midway through raid buffs rather than before them, but doing a Dissipation First opener aligns Aetherflow properly for this right away. It’s still important to note that you don’t need to use all of your AF stacks on Energy Drain, but aligning your two minute windows like this will still be advantageous as it allows all of the Energy Drains you do use to fall in buffs. 
 
 # Movement Options
 
@@ -477,9 +487,9 @@ The most important thing you can do to contribute as a healer is maintain your c
 
 ## Slidecasting and Prepositioning
 
-As a Scholar, our main dps spell is Broil. Broil has a 1.5s cast time meaning you have a \~1s window after each Broil where you aren’t casting and can move freely. On top of this though, you can also freely move during the last \~0.5s of each Broil cast without canceling the cast. This ~0.5s is referred to as the slidecast window. Your slidecast window is dependent on ping, so it won’t be exactly the same for every person, but it’s important that you learn when your slidecast window is to allow yourself the greatest possible amount of movement freedom. One thing that can be helpful for learning your slidecast window is adding an emote to your hotbar. When the emote lights up during your cast, you’re in the slidecast window and free to move. 
+As a Scholar, our main DPS spell is Broil. Broil has a 1.5s cast time meaning you have a \~1s window after each Broil where you aren’t casting and can move freely. On top of this though, you can also freely move during the last \~0.5s of each Broil cast without canceling the cast. This ~0.5s is referred to as the slidecast window. Your slidecast window is dependent on ping, so it won’t be exactly the same for every person, but it’s important that you learn when your slidecast window is to allow yourself the greatest possible amount of movement freedom. One thing that can be helpful for learning your slidecast window is adding an emote to your hotbar. When the emote lights up during your cast, you’re in the slidecast window and free to move. 
 
-While you’ll have to move for many mechanics in most fights, most movements don’t need to be accomplished in a very short period of time. Using slidecasting, as well as some of the other methods that will be mentioned below, you can preposition for these mechanics rather than losing dps by responding reactively to them. Remember that fight mechanics happen in a set order, and while there is randomness involved in some of them, you should alway be prepared for where you’re going to have to be, or what movements you might have to make.
+While you’ll have to move for many mechanics in most fights, most movements don’t need to be accomplished in a very short period of time. Using slidecasting, as well as some of the other methods that will be mentioned below, you can preposition for these mechanics rather than losing DPS by responding reactively to them. Remember that fight mechanics happen in a set order, and while there is randomness involved in some of them, you should always be prepared for where you’re going to have to be, or what movements you might have to make.
 
 ## Natural Biolysis Refreshes
 
@@ -487,11 +497,11 @@ Every 30s you will use Biolysis to refresh the duration of your DoT on the boss.
 
 ## Swiftcast
 
-Swiftcast makes the next casted spell an instant cast spell instead. Paired with Broil, it allows you to freely move for an entire GCD. This is a vital tool for high movement mechanics that can’t be dealt with or are difficult to deal with using slidecasting or natural bio refreshes. However, Swiftcast is sometimes better saved for a possible usage of Resurrection, especially during prog. Ensure that you weigh the benefits of Swiftcast against the costs of not having it for a future rez.
+Swiftcast makes the next casted spell an instant cast spell instead. Paired with Broil, it allows you to freely move for an entire GCD. This is a vital tool for high movement mechanics that can’t be dealt with or are difficult to deal with using slidecasting or natural bio refreshes. However, Swiftcast is sometimes better saved for a possible usage of Resurrection, especially during prog. Ensure that you weigh the benefits of Swiftcast against the costs of not having it for a future Resurrection.
 
 ## Ruin II
 
-Ruin II is a somewhat unique spell among healers. It’s an instant cast spell with no restrictions on its usage, but it deals ~25% less damage than Broil IV. This is your last resort to deal with forced movement, but it’s still a very important tool for maintaining your uptime before you have a fight optimized. During prog, Ruin II makes maintaining uptime easiest for Scholar amongst the healers, but it’s important not to still try to limit its usage when you can. Maintaining cast uptime is always the most important part of your dps contribution, but replacing Ruin IIs with Broil IVs is just after it in importance.
+Ruin II is a somewhat unique spell among healers. It’s an instant cast spell with no restrictions on its usage, but it deals ~25% less damage than Broil IV. This is your last resort to deal with forced movement, but it’s still a very important tool for maintaining your uptime before you have a fight optimized. During prog, Ruin II makes maintaining uptime easiest for Scholar amongst the healers, but it’s important not to still try to limit its usage when you can. Maintaining cast uptime is always the most important part of your DPS contribution, but replacing Ruin IIs with Broil IVs is just after it in importance.
 
 # Healing Efficiently
 
@@ -499,4 +509,4 @@ Scholar has the most stratified healing priority of the healers, though there is
 
 # Gearing and Stats
 
-You can find current endgame Savage and Ultimate sets in the Gearing section of the Scholar landing page. Before endgame, it will generally be best to always use the highest ilvl gear you can obtain. Scholar’s stat and melding priority is as follows: Weapon Damage > Mind > Crit > DH >= Det
+You can find current endgame Savage and Ultimate sets in the Gearing section of the Scholar landing page. Before endgame, it will generally be best to always use the highest item level gear you can obtain. Scholar’s stat and melding priority is as follows: Weapon Damage > Mind > Crit > DH >= Det
