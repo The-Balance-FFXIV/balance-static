@@ -103,7 +103,7 @@ Two Targets:
 
 * Cart Generation: Demon Combo
 * Gnashing Fang Combo + Danger Zone every 30s
-* Rough Dividex2, Danger Zone, Bow Shock + Sonic Break under No Mercy
+* Rough Divide x2, Danger Zone, Bow Shock + Sonic Break under No Mercy
 * Fated Circle additional carts to avoid overcapping
 
 3+ Targets:
