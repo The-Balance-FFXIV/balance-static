@@ -2,8 +2,8 @@
 title: Black Mage Skills Overview
 authors:
   - Balance-BLM-Staff
-patch: "6.08"
-lastmod: 2022-01-31T08:42:11.034Z
+patch: "6.1"
+lastmod: 2022-04-12T09:48:02.101Z
 changelog:
   - date: 2021-10-26T01:49:28.929Z
     message: Added page
