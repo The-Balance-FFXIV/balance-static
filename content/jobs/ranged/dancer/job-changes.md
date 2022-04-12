@@ -1,7 +1,7 @@
 ---
 title: Dancer Changes
 layout: changes
-lastmod: 2022-02-02T23:17:14.879Z
+lastmod: 2022-04-12T00:21:41.527Z
 changes:
   - patch: "6.08"
     description: "[Review a document covering the 6.08 changes in-depth by clicking
@@ -11,6 +11,9 @@ changes:
     description: "[Review the full list of changes and new skills in Endwalker on
       the Official Site, by clicking
       here!](https://na.finalfantasyxiv.com/jobguide/dancer/)"
+  - patch: "6.1"
+    description: View the latest changes for 6.1 at the Official Site, located
+      [here](https://na.finalfantasyxiv.com/jobguide/dancer/)!
 authors:
   - Balance-DNC-Staff
 ---
