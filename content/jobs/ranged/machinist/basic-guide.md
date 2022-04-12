@@ -21,7 +21,7 @@ changelog:
 
 Welcome to the Basic Machinist Guide! Within this document, you'll find all the information you'll need to play the job well. The links below can be used as teleports to other pages if you need the information while learning the job. Any questions can be directed to the Machinist channels in our Discord.
 
-[Openers ](https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/)
+[Openers](https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/)
 
 Advanced Guide (WIP)
 
@@ -50,6 +50,8 @@ Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge whi
 While reading this guide, the following image can be referenced to get a better grasp of what's being talked about.
 
 ![](/img/jobs/mch/mch-ew-rotation.jpg)
+
+&nbsp;
 
 The most basic description of the level 90 rotation can be broken down by following these rules:
 
@@ -128,15 +130,17 @@ As far as Flamethrower is concerned, it’s equal in potency to a 3-target rotat
 
 ![](/img/jobs/mch/mch-heat-vs-ft.png)
 
+&nbsp;
+
 There are some niche cases where Flamethrower is a small gain on two targets but it’s heavily reliant upon phasing and current Heat and Battery gauge levels. Two target Flamethrower is something that needs to be mapped out on a per-fight-basis and should not be the standard. 
 
 # Gearing and Stat Allocation
 
 As far as stats are concerned, the priority is as follows:\
 \
-Weapon Damage > Dexterity > Critical Hit > Determination > Direct Hit > Skill speed
+Weapon Damage > Dexterity > Critical Hit > Determination > Direct Hit > Skill Speed
 
-The reasoning for determination being higher priority than direct hit is how these stats interact with Reassemble and Wildfire. Since Reassemble guarantees a critical/direct hit, it loses any gain from the direct hit stat due to the damage boost of direct hit damage always being 25%. On the opposite end of the spectrum, Wildfire cannot be a critical or direct hit. Both abilities still scale off Determination, which is why Determination is worth more to us.
+The reasoning for determination being higher priority than Direct Hit is how these stats interact with Reassemble and Wildfire. Since Reassemble guarantees a critical/direct hit, it loses any gain from the direct hit stat due to the damage boost of direct hit damage always being 25%. On the opposite end of the spectrum, Wildfire cannot be a critical or direct hit. Both abilities still scale off Determination, which is why Determination is worth more to us.
 
 Potions: Highest Grade of Dexterity available
 
