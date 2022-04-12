@@ -1,7 +1,7 @@
 ---
 title: Black Mage Changes
 layout: changes
-lastmod: 2022-01-29T17:34:50.728Z
+lastmod: 2022-04-12T00:22:18.005Z
 changes:
   - patch: "6.08"
     description: |-
@@ -15,6 +15,9 @@ changes:
   - patch: "6.0"
     description: "[Click here to view all Endwalker changes on the Official
       Site!](https://na.finalfantasyxiv.com/jobguide/blackmage)"
+  - patch: "6.1"
+    description: View the latest changes for 6.1 at the Official Site, located
+      [here](https://na.finalfantasyxiv.com/jobguide/blackmage/)!
 authors:
   - Balance-BLM-Staff
 ---
