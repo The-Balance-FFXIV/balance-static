@@ -5,22 +5,20 @@ authors:
 patch: "6.08"
 lastmod: 2022-04-10T17:43:26.107Z
 ---
-Hello Monks, and welcome to the encounter guide for the first tier of Endwalker.\
-We will review the different ways on what is possible to optimise from the entirety of the tier.
+Hello, Monks. Welcome to the encounter guide for the first tier of Endwalker.
 
+We will review the different ways on what is possible to optimize from the entirety of the tier.
 
-
-**Erichtonios**
+# Erichtonios
 
 Nothing much to say, this is a dummy fight; do the optimal drift rotation for max damage.
 
-Make sure you and the group are as central as possible during Intemperance 1 and 2 to ensure you’re gonna hit everyone, if this still doesn’t work you do have the following option which consists of holding your BH if you aren’t sure to hit everyone and use it once you do the in/out mechanics, note that if you hold it too long you may lose a use depending on the killtime.﻿
+Make sure you and the group are as central as possible during Intemperance 1 and Intemperance 2 to ensure you’re going to hit everyone. If this still doesn’t work, you do have the following option, which consists of holding your BH if you aren’t sure to hit everyone and use it once you do the in/out mechanics. Note that if you hold it too long you may lose a use depending on the killtime.﻿
 
 
+## Hippokampos
 
-﻿﻿**Hippokampos**
-
-What is special about P2S is Limit Cut downtime being hangled incorrectly by holding to 4:30 is making us lose RoFs, BHs, and PBs depending on killtime
+What is special about P2S is the potential for Limit Cut downtime to be handled incorrectly by holding to 4:30, making us lose RoFs, BHs, and PBs depending on kill time.
 
 **Three choices :**
 
@@ -44,6 +42,8 @@ Due to the numbers of downtime on this fight, we will have an early PB in the op
 
 ![](https://lh5.googleusercontent.com/Ai89BALV1rOZ4LS5Tw1OK19sovmcnKyyaVTc2WwQMzLN3dgVMOji_qVPdpf5PQ_JytpmMNcXu_N1-uWnLi2Nzb8582ian3k02V8IMuIeuNp-tmcCTVoeFDGk55Z-3V6N4fIAnpK5 "Solar Lunar Opener in P2S")
 
+&nbsp;
+
 By doing early PB this will allow us to get one more pb in the 3m which is juicy.
 
 How does it work ? 
@@ -65,7 +65,7 @@ You can then go back to Lunar pb in Odd minutes and RP > PR in the 6 min burst, 
 This rotation is good if you kill after 7:48\~ as you will get full use of your last RoF, if you kill at 7:30\~ you just won’t win a use of PB\
 \
 \
-**Initial D(rift :**
+**Initial Drift :**
 
 The rotation is in principle the same as Solar Lunar opener as it allows us to win a use of PB and lose a use of RoF + BH based on killtime.
 
@@ -142,6 +142,8 @@ I will quote Perfect Balance guides for this section as it’s easily understand
 For P3S it will be at the same moment you press RoF, 4 GCDs after, See the sheet below.
 
 ![](https://lh3.googleusercontent.com/PUKgrrUoj96JzQingjrik0Qln1A1U8cr_hpYln8rqVKGhjxwRMyfB5xGv0YjbhNPHOGESOXlYgGDOTRfRN3BqeUgpciakLFcxhTsTI23pC1I2EbsgbOy4oP9j7t28d_aE3j_lYXf "Sheet Reopener P3S")
+
+&nbsp;
 
 Once you did the Triple blitz you will be able to follow double solar rotation exclusively because Rising Phoenix + Phantom rush + Rising Phoenix in pot is better than Phantom Rush + Rising Phoenix + Elixir Field.
 
