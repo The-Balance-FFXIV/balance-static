@@ -1,5 +1,6 @@
 ---
 title: "Pandaemonium : Asphodelos Encounter with Monk"
+card_header_image: /img/jobs/mnk/mnk-fight-tips-1-.jpg
 authors:
   - Balance-MNK-Staff
 patch: "6.08"
