@@ -5,8 +5,8 @@ authors:
   - dook
   - lynn-nuvestrahl
   - Balance-MCH-Staff
-patch: "6.05"
-lastmod: 2022-01-09T08:26:36.327Z
+patch: "6.1"
+lastmod: 2022-04-09T07:26:36.327Z
 changelog:
   - date: 2021-10-25T21:57:19.219Z
     message: Created page
@@ -14,14 +14,14 @@ changelog:
     message: Updated for Endwalker
   - date: 2022-01-09T08:26:28.226Z
     message: Updated.
+  - date: 2022-04-11T23:33:26.599Z
+    message: Potencies updated for 6.1
 ---
 # Basic Machinist Guide
 
 Welcome to the Basic Machinist Guide! Within this document, you'll find all the information you'll need to play the job well. The links below can be used as teleports to other pages if you need the information while learning the job. Any questions can be directed to the Machinist channels in our Discord.
 
-
-
-[Openers ](https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/)
+[Openers](https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/)
 
 Advanced Guide (WIP)
 
@@ -51,13 +51,17 @@ While reading this guide, the following image can be referenced to get a better 
 
 ![](/img/jobs/mch/mch-ew-rotation.jpg)
 
+&nbsp;
+
 The most basic description of the level 90 rotation can be broken down by following these rules:
 
 * Not drifting Drill, Air Anchor, Chainsaw, or Wildfire
 * Not overcapping resources. This includes Heat, Battery, and Gauss Round / Ricochet charges
 * Using your flexible burst inside of raid buffs as much as possible.
 
-The base rotation for Machinist revolves around two minute windows starting and ending with Wildfire application. Wildfire and Barrel Stabilizer are outliers in our kit as the cooldown does not scale with skill speed. While Heat and Battery won’t loop perfectly due to differing Hypercharge windows in these segments, Wildfire can still be used as a landmark in the rotation for tracking other cooldowns in our kit, mechanics or even just used to help reset our rotation in case mistakes were made with some of the more strict timers.
+The base rotation for Machinist revolves around two minute windows starting and ending with Wildfire application. Wildfire and Barrel Stabilizer are outliers in our kit as the cooldown does not scale with skill speed. While Heat and Battery will not loop perfectly due to differing Hypercharge windows in these segments, Wildfire can still be used as a landmark in the rotation for tracking other cooldowns in our kit, mechanics or even just used to help reset our rotation in case mistakes were made with some of the more strict timers.
+
+In between your burst windows, you will default to pressing your combo actions (Heated Split Shot, Heated Slug Shot, and Heated Clean Shot) in order to build resource gauge and maintain uptime on the enemy while also ensuring your Multi-Tool actions (Drill, Air Anchor, and Chain Saw) are used immediately as they are available.
 
 ![](/img/jobs/mch/2022-01-03_16-03-43-500_okamiazure.png)
 
@@ -65,52 +69,32 @@ The base rotation for Machinist revolves around two minute windows starting and 
 
 As of 6.0, the timer before combo actions break has been increased to 30 seconds. Prior to Endwalker, Machinist required spacing between its burst windows to allow the combo to continue without breaking, working around Hypercharge. That is no longer the case, and while it's still possible to break combo, it requires a very specific string of actions consisting of Air Anchor, two Drills, Chainsaw, and three Hypercharge windows. In a standard burst window with two Hypercharge segments carrying over the Heated combo will not be an issue.
 
-A full segment of Hypercharge is exactly three GCDs worth of time, or 7.5s. Because of this, you should never enter Hypercharge if Chainsaw, Drill or Air Anchor has less than eight seconds on their cooldown timers. Doing so will cause the Chainsaw, Drill or Air Anchor cooldowns to drift, which leads to a loss of DPS and will more than likely cause issues down the line in your rotation when you reach your rotational reset at Wildfire.
+A full segment of Hypercharge is exactly three GCDs worth of time, or 7.5 seconds. Because of this, you should never enter Hypercharge if Chainsaw, Drill or Air Anchor has less than eight seconds on their cooldown timers. Doing so will cause the Chainsaw, Drill or Air Anchor cooldowns to drift, which leads to a loss of DPS and will more than likely cause issues down the line in your rotation when you reach your rotational reset at Wildfire.
 
-One of the themes in our level 90 openers is maintaining three GCDs worth of Heated actions in a row. What this does is allow us to replace that three-string segment of Heated actions with a Hypercharge and burst even more inside of raid buffs every two minutes. This replacement of Heated actions also allows us one other thing; Using Barrel Stabilizer on cooldown. To avoid overcap it should be used inside of the Hypercharge segment itself to prepare for the following Wildfire window. A standard buff window, following the General Raid Opener, will look like this:
-
-Reassemble now comes on a charge system, stacking up to two charges. Since Drill, Air Anchor and Chainsaw are all the same potency and Reassemble is no longer on a strict timer, we can place Reassemble on any three of these GCDs depending on our opening alignment, the raid buffs we have in our party, down time, and kill time. In situations where kill time or downtime will net you an extra use it’s almost always worth using your Reassemble charges on cooldown and never letting them overcap. If your kill time will not lose you a usage, you’re better off using both Reassemble charges in the two minute buff window inside of raid buffs.
+One of the themes in our level 90 Generalized Opener is maintaining three GCDs worth of Heated actions in a row. What this does is allow us to replace that three-string segment of Heated actions (Split, Slug, and Clean) with a Hypercharge window and burst even more inside of raid buffs every two minutes. This replacement of Heated actions also allows us one other thing; Using Barrel Stabilizer on cooldown. To avoid overcap it should be used inside of the first Hypercharge segment to prepare for the following Wildfire window. A standard buff window, following the General Raid Opener, can be seen in the reopener section of the Cheat Sheet.
 
 ![](/img/jobs/mch/mchrobot.png)
 
 ## Automaton Queen and Flexible Burst Usage
 
-The three things that make up Machinist’s flexible burst are the Heat gauge, the Battery gauge, and the charges of Gauss Round and Ricochet. The first rule for these resources is to never allow them to overcap if possible. The second rule is to use as many of them as you can before an encounter ends, preferring to end a fight with these gauges as close to zero as possible.
+The three things that make up Machinist’s flexible burst are the Heat gauge, the Battery gauge, and the charges of Gauss Round Ricochet, and Reassemble. The first rule for these resources is to never allow them to overcap if possible. The second rule is to use as many of them as you can before an encounter ends, preferring to end a fight with these gauges as close to zero as possible.
 
-Automaton Queen is Machinist’s most flexible burst and is also the most powerful of the three. Automaton Queen’s damage scaling is linear to the amount of battery she was summoned at. For every 10 Battery, the summon is worth 260 potency, with Pile Bunker being 65 potency and Crowned Collider being 75 potency per 10 gauge. At maximum Battery, Automaton Queen will last 21s and is worth 2600 potency, with 650 of that coming from Pile Bunker and another 750 coming from Crowned Collider. Below is a chart listing all Battery levels and their information.
+Automaton Queen is Machinist’s most flexible burst and is also the most powerful of the three. Automaton Queen’s damage scaling is linear to the amount of battery she was summoned at. For every 10 Battery, the summon is worth 266 potency, with Pile Bunker being 68 potency and Crowned Collider being 78 potency per 10 gauge. At maximum Battery, Automaton Queen will last 21s and is worth 2660 potency, with 680 of that coming from Pile Bunker and another 780 coming from Crowned Collider. Below is a chart listing all Battery levels and their information.
 
 | Battery Amount | Battery Timer | Actual Time Active | Punches | Potency Per Battery | Pile Bunker Potency | Crowned Collider Potency | Total Normalized Pet Potency |
 | -------------- | ------------- | ------------------ | ------- | ------------------- | ------------------- | ------------------------ | ---------------------------- |
-| 50             | 12.5 seconds  | 15.5 seconds       | 5       | 26                  | 325                 | 375                      | 1157                         |
-| 60             | 14 seconds    | 17 seconds         | 6       | 26                  | 390                 | 450                      | 1388                         |
-| 70             | 15.5 seconds  | 18.5s              | 7       | 26                  | 455                 | 525                      | 1620                         |
-| 80             | 17 seconds    | 20 seconds         | 8       | 26                  | 520                 | 600                      | 1851                         |
-| 90             | 18.5 seconds  | 21.5 seconds       | 9       | 26                  | 585                 | 675                      | 2082                         |
-| 100            | 20.5 seconds  | 23.5 seconds       | 10      | 26                  | 650                 | 750                      | 2314                         |
-
-&nbsp;
-
-Timing Automaton Queen’s summoning can be a bit of an issue due to her wind-up animation, which lasts 5 seconds at the start of the timer regardless of battery at summoning time. Because of this, “reactionary summoning” can be quite bad, and will almost always result in Pile Bunker / Crowned Collider landing outside of raid buffs. To remedy this, it is suggested that Automaton Queen is summoned prior to raid buffs being used. Luckily, the vast majority of raid buffs come out at two-minute intervals. In a two-minute cycle, Machinist generates about 180 Battery, which lets you summon Automaton Queen every minute. With a large amount of Battery, you would want to summon Automaton Queen a GCD or two before the minute burst windows to ensure Pile Bunker and Crowned Collider land towards the end of your party’s raid buffs. Even though Queen’s timer at 100 Battery is 21 seconds, it’s slightly misleading. The end of the timer determines when Pile Bunker will go off, but Crowned Collider will go off even after that. With how much potency both of these actions are, it’s wise to ensure they both land in the majority of raid buffs.
+| 50             | 12.5 seconds  | 15.5 seconds       | 5       | 26.6                | 340                 | 390                      | 1184                         |
+| 60             | 14 seconds    | 17 seconds         | 6       | 26.6                | 408                 | 468                      | 1421                         |
+| 70             | 15.5 seconds  | 18.5s              | 7       | 26.6                | 476                 | 546                      | 1658                         |
+| 80             | 17 seconds    | 20 seconds         | 8       | 26.6                | 544                 | 624                      | 1894                         |
+| 90             | 18.5 seconds  | 21.5 seconds       | 9       | 26.6                | 612                 | 702                      | 2131                         |
+| 100            | 20.5 seconds  | 23.5 seconds       | 10      | 26.6                | 680                 | 780                      | 2368                         |
 
 Queen’s summon should be delayed if scripted downtime is about to happen. Using Overdrive is always a loss and should be avoided unless a fight is ending and you have no other option to get the Pile Bunker and Crowned Collider off. Ultimately, you should be planning your Battery usage in such a way Queen’s finishers go off naturally, and so that you end a fight with as little excess Battery as possible.
 
-Queen mirrors our buffs in real time and is affected by all buffs except Dragon Sight from Dragoon. Pets are not affected by resurrection sickness, but they are affected by damage down and stuns. Automaton Queen receives the damage bonus from the Action Damage trait but does not receive any racial stat bonus. She uses a 100 DEX modifier instead of the 115 DEX modifier our own character uses. She uses no special f(ATK). Queen also does not benefit from the 5% party buff bonus. What does all of this mean? Her potency is closer to 90% of our own in a full party. Any other modifiers should be checked using ACT on a per fight basis if there are any questions. 
+While the Heat gauge may not be as flexible as the Battery gauge, there is still some finesse that can be had around its timings to make sure that you get the most out of your Hypercharge windows. Hypercharge windows can be chained together, but require a single GCD in between each window. Not only is this a good way to avoid overcapping heat during certain parts of the rotation, but it is also an excellent way of making the most out of raid buffs that may be lingering longer than a full Hypercharge window.
 
-While the Heat gauge may not be as flexible as the Battery gauge, there is still some finesse that can be had around its timings to make sure that you get the most out of your Hypercharge windows. Outside of holding for specific fight phasing, Heat can be held momentarily for hitting buffs outside of the normal two minute burst windows that Wildfire is not available during. Hypercharge windows can also be chained together with a single GCD in between each window. Not only is this a good way to avoid overcapping heat during certain parts of the rotation, but it is also an excellent way of making the most out of raid buffs that may be lingering longer than a full Hypercharge window.
-
-Machinists can also pool their resources for later phases of an encounter. Entering a later phase with 100 Heat (effectively 150 due to Barrel Stabilizer) and 100 Battery is extremely strong, and can give Machinists an edge over the other Physical Ranged jobs in some fights. For example, in an encounter with multiple boss phases, you can pool your resources at the end of the first boss, allowing you to reopen in the second boss with a 100 battery Automaton Queen and multiple Hypercharge uses under potions and raid buffs. This makes the final DPS check of the fight easier than it would be if you entered the second boss with no resources saved.
-
-![](/img/jobs/mch/mch-fight-tips.jpg)
-
-## Skill Speed and Encounter Phasing Optimization
-
-While it’s still the lowest scaling stat, the rotation stays intact at skill speed breakpoints every 0.06s. The  rotation will line up perfectly at GCD speeds of 2.5s, 2.44s, and 2.38s. For every 0.06s subtracted from the GCD, a single Heated Shot filler must be added every two minutes. Unfortunately, going faster will not gain you extra Drills, Chainsaw or Air Anchors. 
-
-To keep the rotation intact, every 0.06s we lose means we must drift Drill, Chainsaw and Air Anchor by one GCD each. At higher GCD speeds, Drill ends up coming up during Wildfire, naturally drifting it back into place. Air Anchor won't have the same luxury, so if it’s not manually drifted you will eventually have Drill and Air Anchor coming off cooldown at the same time. You’ll have to manually correct the spacing desired between these two GCDs if this happens.
-
-There will be times where skill speed on gear is a positive thing. It’s generally only for fight-specific downtime, but occasionally the additional skill speed will net us an extra Drill, Air Anchor, Chainsaw or Clean Shot in content, which can be a DPS gain. Outside of downtime phasing and unavoidable skill speed gear, the goal should be to maintain a GCD speed of 2.5 in most cases.
-
-In rare scenarios, opening with Air Anchor, Drill and Chainsaw as your first three GCDs will net you an extra Chainsaw and 20 Battery and be an overall net gain compared to delaying them in the opener.
+Reassemble comes on a charge system, stacking up to two charges. Since Drill, Air Anchor and Chainsaw are all the same potency and Reassemble is no longer on a strict timer, we can place Reassemble on any three of these GCDs depending on our opening alignment, the raid buffs we have in our party, down time, and kill time. 
 
 ![](/img/jobs/mch/2022-01-03_15-35-21-553_okaminightlight.png)
 
@@ -146,19 +130,23 @@ As far as Flamethrower is concerned, it’s equal in potency to a 3-target rotat
 
 ![](/img/jobs/mch/mch-heat-vs-ft.png)
 
+&nbsp;
+
 There are some niche cases where Flamethrower is a small gain on two targets but it’s heavily reliant upon phasing and current Heat and Battery gauge levels. Two target Flamethrower is something that needs to be mapped out on a per-fight-basis and should not be the standard. 
 
 # Gearing and Stat Allocation
 
 As far as stats are concerned, the priority is as follows:\
 \
-Weapon Damage > Dexterity > Critical Hit > Determination > Direct Hit > Skill speed
+Weapon Damage > Dexterity > Critical Hit > Determination > Direct Hit > Skill Speed
 
-The reasoning for determination being higher priority than direct hit  is Reassemble and Wildfire. Since Reassemble guarantees a critical/direct hit, it loses any gain from the direct hit stat due to the damage boost of direct hit damage always being 25%. On the opposite end of the spectrum, Wildfire cannot be a critical or direct hit. Both abilities still scale off determination, which is why Determination is worth more to us.
+The reasoning for determination being higher priority than Direct Hit is how these stats interact with Reassemble and Wildfire. Since Reassemble guarantees a critical/direct hit, it loses any gain from the direct hit stat due to the damage boost of direct hit damage always being 25%. On the opposite end of the spectrum, Wildfire cannot be a critical or direct hit. Both abilities still scale off Determination, which is why Determination is worth more to us.
 
 Potions: Highest Grade of Dexterity available
 
 Food: Listed inside gearing pages
+
+![](/img/jobs/mch/mch-fight-tips.jpg)
 
 # High Ping and What You Can Do About It
 
