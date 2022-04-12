@@ -4,8 +4,8 @@ card_header_image: /img/jobs/blm/basic.png
 authors:
   - Balance-BLM-Staff
   - rika-vanih
-patch: "6.08"
-lastmod: 2022-01-29T16:43:49.941Z
+patch: "6.1"
+lastmod: 2022-04-12T09:47:09.978Z
 changelog:
   - date: 2021-10-26T01:47:44.292Z
     message: Added page
