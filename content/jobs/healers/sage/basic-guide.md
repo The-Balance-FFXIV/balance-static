@@ -4,11 +4,13 @@ card_header_image: /img/jobs/sge/sgebasic.png
 authors:
   - Balance-SGE-Staff
   - wynn
-patch: "6.08"
-lastmod: 2022-03-15T05:59:22.628Z
+patch: "6.10"
+lastmod: 2022-04-13T05:59:22.628Z
 changelog:
   - date: 2022-01-24T06:59:41.157Z
     message: Added page
+  - date: 2022-04-12T19:58:08.567Z
+    message: Removed trick attack note
 ---
 # Sage: The Basics
 
@@ -91,14 +93,14 @@ Phlemga is a damage gain, while Toxikon and Pneuma are damage neutral. Let's tal
 
 ![Phlegma III](https://xivapi.com/i/003000/003681_hr1.png)
 
-As it is a DPS gain, you should try to use it when raid buffs are active to maximize your damage output. This typically means trying to dump as many charges as possible just after each two-minute mark (e.g. in the opener, a few seconds after 2:00, 4:00, etc). However, be sure to not let it overcap. Apart from two-minute bursts, it is best used for movement. Alternatively, if you have a Ninja, you can also use extra charges under Trick Attack. Lastly, be mindful of bosses going untargetable, and dump charges before the boss goes away if needed if you might otherwise overcap (for example, before going into adds phase in P3S).
+As it is a DPS gain, you should try to use it when raid buffs are active to maximize your damage output. This typically means trying to dump as many charges as possible just after each two-minute mark (e.g. in the opener, a few seconds after 2:00, 4:00, etc). However, be sure to not let it overcap. Apart from two-minute bursts, it is best used for movement. Lastly, be mindful of bosses going untargetable, and dump charges before the boss goes away if needed if you might otherwise overcap (for example, before going into adds phase in P3S).
 
 #### Toxikon
 
 ![Toxikon II](https://xivapi.com/i/003000/003684_hr1.png)
 
-Toxikon's advantage is that it is the same potency as Dosis, but is instant cast, thus allowing free movement while using it. Toxikon requires Addersting charges to use. These can only be attained by having your shield from Eukrasian Diagnosis be fully consumed. However, using Eukrasian Diagnosis and Toxikon is still a damage loss compared to using two
-Doses. Therefore, the ideal way to use it is to apply the shields pre-pull (either on just the main tank, or on the main tank and two others for fights with a raidwide in the first 25 seconds or so). This will give you 1 to 3 charges to use.
+Toxikon's advantage is that it has the same potency as Dosis, but is instant cast, thus allowing free movement while using it. Toxikon requires Addersting charges to use. You start the instance with three out of three charges. After that, these can only be attained by having your shield from Eukrasian Diagnosis be fully consumed. However, using Eukrasian Diagnosis and Toxikon is still a damage loss compared to using two
+Doses. Therefore, the ideal way to use it is to apply the shields during downtime, such as a raid mechanic where the boss is untargetable, or between dungeon pulls. This will give you 1 to 3 charges to use.
 You can repeat this process during any downtime that may exist in the fight, giving you a few more charges to use.
 
 #### Pneuma
