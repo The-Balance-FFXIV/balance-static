@@ -13,59 +13,54 @@ We will review the different ways on what is possible to optimize from the entir
 
 Nothing much to say, this is a dummy fight; do the optimal drift rotation for max damage.
 
-Make sure you and the group are as central as possible during Intemperance 1 and Intemperance 2 to ensure you’re going to hit everyone. If this still doesn’t work, you do have the following option, which consists of holding your BH if you aren’t sure to hit everyone and use it once you do the in/out mechanics. Note that if you hold it too long you may lose a use depending on the killtime.﻿
+Make sure you and the group are as central as possible during Intemperance 1 and Intemperance 2 to ensure you’re going to hit everyone. If this still doesn’t work, you do have the following option, which consists of holding your Brotherhood (BH) if you aren’t sure to hit everyone and use it once you do the in/out mechanics. Note that if you hold it too long you may lose a use depending on the killtime.﻿
 
 
 ## Hippokampos
 
-What is special about P2S is the potential for Limit Cut downtime to be handled incorrectly by holding to 4:30, making us lose RoFs, BHs, and PBs depending on kill time.
+What is special about P2S is the potential for Limit Cut downtime to be handled incorrectly by holding to 4:30, making us lose Riddle of Fires (RoFs), BHs, and Perfect Balances (PBs) depending on kill time.
 
-**Three choices :**
+### Three Choices
 
-* Early opener : to burst before limit cut, you might win a RoF use, only downside to doing early burst is that you have to deal with RoF at 3 and 5 mins on Arrows
-* Solar Lunar opener : to win a use of PB but may not be able to get full use of last RoF
-* Initial D(rift) : win a PB but can lose an RoF/BH depending on killtime, also pushes RoF/BH around which can be awkward for group alignment
+* Early opener: burst before Limit Cut. You might win a RoF use, and the only downside to doing early burst is that you have to deal with RoF at three and five mins on Arrows
+* Solar Lunar opener: possible to win a use of PB, but may not be able to get full use of last RoF
+* Initial Drift: win a PB but can lose an RoF/BH depending on killtime. Also pushes RoF/BH around which can be awkward for group alignment
 
+#### Early Opener
 
+The early opener is simple; you open with Twin Snakes and do the rotation like it was Lunar Solar (Opos will be switched).
 
-**Early opener :**
+It allows us to burst before Limit Cut with your team (they have to do it too) and win a use of Brotherhood if the killtimes allows it, while ensuring no PBs are lost.
 
-The early opener is simple, you open with Twin snakes and do the rotation like it was Lunar Solar (Opos will be switched).
+#### Solar Lunar Opener
 
-It allows us to burst before limit cut with your team (they have to do it too) and win a use of Brotherhood if the killtimes allows it, while ensuring no PBs are lost.
-
-
-
-**Solar Lunar opener :**
-
-Due to the numbers of downtime on this fight, we will have an early PB in the opener, making us doing Solar Lunar. Either you follow it like a Double Solar opener but with a Lunar nadi for second blitz, or you have the Peepo SmilersTM opener you can see under making us gain one opo :
+Due to the numbers of downtime on this fight, we will have an early PB in the opener, making us doing Solar Lunar. Either you follow it like a Double Solar opener, but with a Lunar Nadi for second Blitz, or you have the Peepo Smilers(tm) opener you can see under making us gain one Opo:
 
 ![](https://lh5.googleusercontent.com/Ai89BALV1rOZ4LS5Tw1OK19sovmcnKyyaVTc2WwQMzLN3dgVMOji_qVPdpf5PQ_JytpmMNcXu_N1-uWnLi2Nzb8582ian3k02V8IMuIeuNp-tmcCTVoeFDGk55Z-3V6N4fIAnpK5 "Solar Lunar Opener in P2S")
 
 &nbsp;
 
-By doing early PB this will allow us to get one more pb in the 3m which is juicy.
+By doing early PB, this will allow us to get one more PB in the 3m  window, which is juicy.
 
-How does it work ? 
+**How does it work?**
 
-We Solar Lunar opener then can early clip demo at the 2m leading to a lunar solar burst for the sake of alignment for limit cut, you can follow the usual rotation after this.
+We Solar Lunar opener, then can early clip Demolish (Demo) at the 2m, leading to a Lunar Solar burst. For the sake of alignment for Limit Cut, you can follow the usual rotation after this.
 
-At the 3m marks (first arrow) you have to delay rof for after the mechanic else you won’t be able to do double blitz on a 3 min burst which is the point of our Solar Lunar opener.
+At the 3m marks (first arrow), you have to delay RoF for after the mechanic, else you won’t be able to do Double Blitz on a three minute burst, which is the point of our Solar Lunar opener.
 
-For the 3m window you do the usual stuff,
+For the 3m window you do the usual stuff:
 
 Arrow > Opo > Twin > RoF Demo > Opo > PB into Phantom Rush > Opo > PB into Rising Phoenix
 
-This will push Phantom in the Even bursts, you will even win a use of PR if you kill at 8 min
+This will push Phantom into the even-minute bursts and you will even win a use of PR if you kill at eight minutes.
 
-The 4 min burst is a refresh buffs into Elixir field into refreshing buffs in the Phantom rush PB
+The four minute burst is a refresh buffs into Elixir Field, into refreshing buffs in the Phantom Rush PB.
 
-You can then go back to Lunar pb in Odd minutes and RP > PR in the 6 min burst, then it repeats until the boss is dead.
+You can then go back to Lunar PB in odd minute windows and RP > PR in the six minute burst, then it repeats until the boss is dead.
 
-This rotation is good if you kill after 7:48\~ as you will get full use of your last RoF, if you kill at 7:30\~ you just won’t win a use of PB\
-\
-\
-**Initial Drift :**
+This rotation is good if you kill after 7:48\~ as you will get full use of your last RoF, if you kill at 7:30\~ you just won’t gain a use of PB.
+
+#### Initial Drift
 
 The rotation is in principle the same as Solar Lunar opener as it allows us to win a use of PB and lose a use of RoF + BH based on killtime.
 
