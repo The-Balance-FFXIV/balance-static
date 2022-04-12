@@ -1,7 +1,7 @@
 ---
 title: Warrior Changes
 layout: changes
-lastmod: 2022-02-26T22:17:34.969Z
+lastmod: 2022-04-12T00:15:09.169Z
 changes:
   - patch: "5.58"
     description: "[Placeholder for Endwalker]"
@@ -17,6 +17,9 @@ changes:
       Nascent Flash was made into a friend-only skill, which gives mitigation and heals.  
 
       Raw Intuition was given a healing component, on top of its mitigation.  
+  - patch: "6.1"
+    description: View the latest changes for 6.1 at the Official Site, located
+      [here](https://na.finalfantasyxiv.com/jobguide/warrior/)!
 authors:
   - Balance-WAR-Staff
 ---
