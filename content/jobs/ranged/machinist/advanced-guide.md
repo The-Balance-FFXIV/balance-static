@@ -409,8 +409,8 @@ the respective gauges can be spent before the end of the fight.
 ## Tools
 
 Finally, we can put together PPS models for each of the three Tool GCDs. Since these GCDs replace a Heated Combo
-in single target, we can subtract the average potency of a combo GCD calculated above to determine the effective potency
-of each action:
+in single target, we can subtract the average potency of a combo GCD calculated above to determine the 
+effective potency of each action (in the average case):
 
 | Action     | Direct Potency | Battery | Replacement | Total |
 |------------|----------------|---------|-------------|-------|
