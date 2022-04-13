@@ -228,7 +228,7 @@ However, with certain kill times **the 6 GCD requirement may end up delaying you
 As mentioned above, there may be situations where we need to skip the opener Queen in order to get Wildfire
 on cooldown earlier. Setting up Wildfire in the opener is a bit more involved than other cooldowns: 
 first, we need the 50 Heat from Barrel Stabilizer.
-Second, we need to dump a minimum of 3 charges total of Gauss Round and Ricochet to prevent them from overcapping
+Second, we need to dump a minimum of three charges total of Gauss Round and Ricochet to prevent them from overcapping
 during Hypercharge. **The earliest we can use Wildfire without overcapping is after the 2nd GCD**. 
 To do so requires a WF > GCD > HC setup – you can see an example in the "fast opener" at the end of this section.
 
@@ -461,7 +461,7 @@ Another AoE tech, this time involving everyone's favorite Machinist action. Flam
 it snapshots buffs on the player at the time of casting the action (although it doesn't snapshot debuffs on the target, such as
 Chain Stratagem). This means **if you start channeling Flamethrower on the last GCD of buffs, they'll last for the full
 duration**. This only requires a modest 1.13x buff multiplier for Flamethrower to edge out Heated Combo on two targets,
-and of course it's an even bigger gain on 3 or more targets.
+and of course it's an even bigger gain on three or more targets.
 
 ## Tick Fishing
 
