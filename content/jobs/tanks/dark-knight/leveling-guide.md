@@ -3,13 +3,17 @@ title: Dark Knight Leveling Guide
 card_header_image: /img/jobs/drk/leveling.png
 authors:
   - apileofcats
-patch: "6.08"
+  - silaqui-amakiir
+patch: "6.1"
 lastmod: 2022-02-08T20:09:08.788Z
 changelog:
   - date: 2021-10-27T17:23:27.257Z
     message: Added
   - date: 2022-02-08T20:09:09.388Z
     message: Updated for Endwalker
+  - date: 2022-04-13T00:29:35.508Z
+    message: Updated for 6.1, changing Blood Weapon's effect and moving Stalwart
+      Soul to level 40.
 ---
 # Introduction
 
@@ -73,7 +77,7 @@ Don't be afraid to spend your mana at the start of a pull; while you don't regen
 
 #### Level 35
 
-New action: Blood Weapon. Grants a small amount of mana for each GCD landed during its effect. Try to use it shortly before your next GCD (when the timer on the skill icon is past the lower-left corner) for the best chance at squeezing in the maximum number of hits. Because your AoE combo GCDs (at this point, only Unleash) are spells which are unaffected by Skill Speed, it isn't feasible to hit the typical five GCDs during Blood Weapon with them. However, it is usually not worth it to hold Blood Weapon for a single-target window; just use it on cooldown during pulls.
+New action: Blood Weapon. Grants a small amount of mana for the first five GCDs landed during its 15 second duration. Blood Weapon should generally be used on cooldown during pulls.
 
 * Souleater combo on 1-2 targets.
 * Unleash on 3+ targets.
@@ -81,10 +85,12 @@ New action: Blood Weapon. Grants a small amount of mana for each GCD landed duri
 
 #### Level 40
 
-New action: Edge of Darkness. This is a single-target version of Flood of Darkness. Because its potency is slightly more than twice that of Flood, it should also be used in two-target situations.
+New action: Edge of Darkness. This is a single-target version of Flood of Darkness. Because its potency is triple that of Flood, it should also be used in two-target situations.
 
-* Souleater combo on 1-2 targets.
-* Unleash on 3+ targets.
+New action: Stalwart Soul. This is the second hit of your AoE combo , giving you MP generation in multi-target situations, and enabling you to use Flood of Darkness more often. This additional combo action also makes your AoE combo stronger than the single-target Souleater combo at 2 targets, where you needed three targets for Unleash to be stronger than Souleater combo.
+
+* Souleater combo on 1 target.
+* Stalwart Soul combo (Unleash -> Stalwart Soul) on 2+ targets.
 * Edge of Darkness on 1-2 targets.
 * Flood of Darkness on 3+ targets.
 
@@ -94,8 +100,8 @@ New action: Edge of Darkness. This is a single-target version of Flood of Darkne
 
 New action: Abyssal Drain. This is an AoE action that does a moderate amount of damage and heals the user for a flat potency for each target hit. While the damage is nice, the healing effect is more valuable for trash pulls. In very large pulls, it can restore quite a significant chunk of HP and allow your healer to catch up on healing or put out some extra damage of their own.
 
-* Souleater combo on 1-2 targets.
-* Unleash on 3+ targets.
+* Souleater combo on 1 target.
+* Stalwart Soul combo on 2+ targets.
 * Edge of Darkness on 1-2 targets.
 * Flood of Darkness on 3+ targets.
 
@@ -103,8 +109,8 @@ New action: Abyssal Drain. This is an AoE action that does a moderate amount of 
 
 New action: Carve and Spit. This shares a cooldown with Abyssal Drain and deals high potency to a single target while also generating a small amount of mana. Abyssal Drain needs to hit four targets to beat the potency of Carve and Spit, but your primary concern when deciding between the two is whether you need the healing from Abyssal Drain or not.
 
-* Souleater combo on 1-2 targets.
-* Unleash on 3+ targets.
+* Souleater combo on 1 target.
+* Stalwart Soul combo on 2+ targets.
 * Edge of Darkness on 1-2 targets.
 * Flood of Darkness on 3+ targets.
 * Carve and Spit on 1-3 targets.
@@ -114,10 +120,10 @@ New action: Carve and Spit. This shares a cooldown with Abyssal Drain and deals 
 
 #### Level 62
 
-New action: Bloodspiller. While you unlocked your AoE mana spender before the single-target version, the reverse is true for your blood spenders. Bloodspiller does quite a bit of damage, will not break your combo, and is worth using even in smaller multi-target situations. Blood Weapon will also now grant blood per successful GCD landed during its effect.
+New action: Bloodspiller. While you unlocked your AoE mana spender before the single-target version, the reverse is true for your blood gauge spenders. Bloodspiller does quite a bit of damage, will not break your combo, and is worth using even in smaller multi-target situations. Blood Weapon will also now grant blood per successful GCD landed during its effect.
 
-* Souleater combo on 1-2 targets.
-* Unleash on 3+ targets.
+* Souleater combo on 1 target.
+* Stalwart Soul combo on 2+ targets.
 * Edge of Darkness on 1-2 targets.
 * Flood of Darkness on 3+ targets.
 * Carve and Spit on 1-3 targets.
@@ -128,8 +134,8 @@ New action: Bloodspiller. While you unlocked your AoE mana spender before the si
 
 New action: Quietus. The AoE version of Bloodspiller. Like Flood, Quietus takes three targets to deal more total potency than its single-target variant.
 
-* Souleater combo on 1-2 targets.
-* Unleash on 3+ targets.
+* Souleater combo on 1 target.
+* Stalwart Soul combo on 2+ targets.
 * Edge of Darkness on 1-2 targets.
 * Flood of Darkness on 3+ targets.
 * Carve and Spit on 1-3 targets.
@@ -139,10 +145,10 @@ New action: Quietus. The AoE version of Bloodspiller. Like Flood, Quietus takes 
 
 #### Level 68
 
-New action: Delirium. This nullifies the blood cost of the next three uses of Bloodspillers and/or Quietus within 15 seconds. It is possible to get five-GCD Blood Weapon windows even in AoE situations by weaving Delirium->Blood Weapon and immediately spending your free Quietus uses. This allows the same level of leniency as single-target Blood Weapon uses if you start with at least 20 blood. With 0-10 Blood, your Blood Weapon window will be slightly tighter but still doable. 
+New action: Delirium. This nullifies the blood cost of the next three uses of Bloodspillers and/or Quietus within 15 seconds, and should generally be used on cooldown.
 
 * Souleater combo on 1-2 targets.
-* Unleash on 3+ targets.
+* Stalwart Soul combo on 2+ targets.
 * Edge of Darkness on 1-2 targets.
 * Flood of Darkness on 3+ targets.
 * Carve and Spit on 1-3 targets.
@@ -155,7 +161,7 @@ New action: Delirium. This nullifies the blood cost of the next three uses of Bl
 New action: The Blackest Night ("TBN"). While Dark Knight can feel a bit squishy below level 70, TBN will add an absolutely massive amount of mitigation to your kit. If the shield granted by TBN breaks rather than expires, the user gains a Dark Arts proc, which makes the next Flood or Edge free to cast. At this level, you don't have enough mana generation to use it on cooldown indefinitely, so you should be more conservative with your mana and primarily use Flood when you have a Dart Arts proc. However, you should try to use TBN only when you're reasonably confident that the shield will break, or in emergencies.
 
 * Souleater combo on 1-2 targets.
-* Unleash on 3+ targets.
+* Stalwart Soul combo on 2+ targets.
 * Edge of Darkness on 1-2 target.
 * Flood of Darkness on 3+ targets.
 * Carve and Spit on 1-3 targets.
@@ -164,21 +170,6 @@ New action: The Blackest Night ("TBN"). While Dark Knight can feel a bit squishy
 * Quietus on 3+ targets.
 
 ## Levels 71-80
-
-#### Level 72
-
-New action: Stalwart Soul. This is the second hit of your AoE combo, and yes, that's a gap of 57 levels in between. Stalwart Soul will ramp up your mana generation enough to use TBN on cooldown with a little bit of surplus. Feel free to dump mana at the start of a pull before reverting to the priority system of reserving your mana for TBN and using your Dark Arts proc for your Floods.
-
-Stalwart Soul can also opens up a more advanced technique for getting five GCD Blood Weapon windows outside of Delirium by banking 100 Blood and using Unleash -> Blood Weapon -> Quietus -> Quietus -> Stalwart Soul-> Quietus -> Unleash.
-
-* Souleater combo on one target.
-* Stalwart Soul combo (Unleash -> Stalwart Soul) on 2+ targets.
-* Edge of Darkness on 1-2 targets.
-* Flood of Darkness on 3+ targets.
-* Carve and Spit on 1-3 targets.
-* Abyssal Drain on 4+ targets or when healing is needed.
-* Bloodspiller on 1-2 targets.
-* Quietus on 3+ targets.
 
 #### Level 80
 
