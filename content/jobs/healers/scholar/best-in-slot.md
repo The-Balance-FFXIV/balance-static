@@ -1,8 +1,8 @@
 ---
 title: Scholar Best in Slot (BiS)
 layout: bis
-patch: "6.08"
-lastmod: 2022-01-31T23:08:32.288Z
+patch: "6.10"
+lastmod: 2022-04-13T04:00:01.963Z
 changelog:
   - date: 2021-10-26T23:42:52.063Z
     message: Article Created.
@@ -10,6 +10,8 @@ changelog:
     message: Added 6.05 bis
   - date: 2022-04-05T17:26:33.489Z
     message: Added 6.11 ultimate sets
+  - date: 2022-04-13T03:59:58.924Z
+    message: Added Augmented 2.40 set
 bis:
   - type: etro
     description: |-
@@ -46,6 +48,17 @@ bis:
       * 2.40 GCD
     name: 2.40 Min Piety Crit BiS
     link: 7942af0b-011a-4719-85e9-e5f64d6c07f5
+  - type: etro
+    description: >-
+      I<!--StartFragment-->
+
+
+      f you don't want to deal with pentamelding, this is effectively identical average dps to the Penta set, but sacrifices ~1 meld worth of Crit (only relevant if you're trying for high rolls).
+
+
+      <!--EndFragment-->
+    name: "2.40 Min Pi Crit BiS [Augmented Alternative] "
+    link: https://etro.gg/gearset/0e76723c-0433-4208-a611-eea23b4f8b0a
   - type: etro
     description: >-
       * DO NOT USE IN UNOPTIMIZED ENVIORNMENT
