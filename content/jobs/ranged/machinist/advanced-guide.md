@@ -276,7 +276,6 @@ This variant uses Drill last to enable double Hypercharge windows in between Dri
 
 ![Fast Opener](https://i.imgur.com/Hg0WVeE.png)
 
-
 # Tinctures
 
 Tinctures are an ~8% damage buff, bigger than any raid buff. It's important that you get as much damage into these windows
@@ -340,7 +339,7 @@ There are some rare scenarios where Skill Speed allows you to net an extra tool 
 If it requires a small amount of Skill Speed and the fight is short enough, it might just be a small gain 
 to use a sub-2.50 set for this particular encounter.
 
-# Potency Analysis
+# Graduate Studies: Potency Analysis
 
 After reading the above you should have a general sense of *how* to adapt your rotation to suit a particular encounter.
 The missing puzzle piece is knowing *when* you should adapt your rotation, and what the expected gains and losses might be.
@@ -428,20 +427,118 @@ of the fight, all three tools are worth the exact same amount of potency since w
 Similarly, if we're strictly analyzing the direct potency that we can put into raid buffs, the gauge that these actions 
 generate may not be spent in time to benefit from the buffs and therefore all three tools are again worth the same.
 
-# The Machinist's Toolbelt
+## Raid Buff Interactions
 
-As a Machinist, you have a variety of miscellaneous optimization "tools" available to you (get it?). We'll cover
-each one briefly, but ultimately it's up to you to find the best places to apply them in a given encounter.
+In FFXIV, damage buffs such as Embolden and Trick Attack stack **multiplicatively**. That is, if we have two 10% damage
+increase buffs on us, the resulting damage amplification is `1.1 * 1.1 = 1.21x`. This multiplier is higher than if the
+two buffs were used independently, which is one of the main reasons why we always try to align raid buffs together.
+
+On the other hand, rate buffs such as Battle Voice and Battle Litany stack **additively**. That is, if we have two 10%
+crit rate buffs on us, the resulting increase to our crit rate is `.1 + .1 = .2` (i.e. 20%).
+
+## Accounting for Crit / DH
+
+To be able to adequately evaluate actions like Wildfire and Reassemble, as well as rate buffs like Battle Litany, we need
+to augment our potency model with crit / DH normalizations. The following formula can be used to determine your **expected crit
+multiplier**:
+
+```
+expected crit multiplier = (1 + (crit modifier - 1) * crit rate)
+```
+
+For example, if your crit multiplier is 1.5x and your crit rate is 20%, your expected multiplier is
+`(1 + (1.5 - 1) * 0.2) = 1.1`. We can do the same for DH:
+
+```
+expected DH multiplier = (1 + (0.25 * DH rate))
+```
+
+Now we're all set to compare potency across different crit / DH scenarios. Usually we call this model
+of potency which incorporates crit and DH rates **"effective potency"** (or, ePotency). 
+If we have a crit buff up, we simply need to adjust the crit rate variable in the crit multiplier.
+If we have Reassemble up on a GCD, we simply set the crit rate and DH rates to 100%. Using this information,
+we can calculate exactly how much effective potency we gain by using Reassemble on a tool GCD:
+
+```
+Variables:
+crit rate = 23.1%
+crit multiplier = 1.581
+DH rate = 35.4%
+
+Drill ePotency = 580 * (1 + (crit modifier - 1) * crit rate) * (1 + (0.25 * DH rate))
+Drill ePotency = 580 * (1 + (1.581 - 1) * 0.231) * (1 + (0.25 * 0.354))
+Drill ePotency = 716p
+
+Reassembled Drill ePotency = 580 * (1 + (crit modifier - 1) * crit rate) * (1 + (0.25 * DH rate))
+Reassembled Drill ePotency = 580 * (1 + (1.581 - 1) * 1) * (1 + (0.25 * 1))
+Reassembled Drill ePotency = 1146p
+```
+
+As we can see, Reassemble adds **430 ePotency** (1146 - 716) to the tool it buffs. Of course,
+this number will change depending on your exact crit and DH stats. Note that the higher your crit / DH
+rates are, the less value Reassemble gives. In particular, this means that **using Reassemble under crit / DH
+rate buffs is less effective than using it outside of them**. However, since rate buffs end up getting stacked with damage buffs, 
+it's usually still a gain overall to use Reassemble under buffs.
+
+# Graduate Studies: Substat Theory
+
+This section will introduce some core FFXIV theory which you should know if you're interested in crafting 
+your own gearsets. Allagan Studies' [How To Be A Math Wizard](https://www.akhmorning.com/allagan-studies/how-to-be-a-math-wizard/shadowbringers/#information--about-the-guide) is an excellent primer to the formulas the game uses and if you have some spare time you should
+read through it, but for now we'll focus on the things that make Machinist unique.
+
+## Stat Tiers
+
+All stats in FFXIV operate in "tiers," meaning they only increase in effect when a certain threshold is reached. This is easiest to see with
+Skill Speed: with 400-414 Skill Speed, your GCD recast will be 2.50. Only at 415 will your recast become 2.49.
+
+In practice, tiering can sometimes mean that it is optimal to use a lower priority meld in place of a higher priority meld in order to get the highest possible damage multiplier. If you've ever seen a determination meld in a BiS list when we could've put a crit meld there instead,
+rest assured it's because of stat tiering. To learn more about tiers, check out [Allagan Studies' tables](https://www.akhmorning.com/allagan-studies/stats/#player-stats-overview).
+
+## Going the Speed Limit
+
+We covered how Skill Speed affects the rotation loop in the [Skill Speed Adjustments](#Skill-Speed-Adjustments) section,
+but why do we almost always prefer a 2.50 GCD over one of the other looping tiers like 2.44 or 2.38? The value of Speed as a
+stat is directly tied to how much damage is gained by speeding up our GCD rotation. While Machinist damage is almost entirely
+tied to the GCD – Heat and Battery gauge are both generated by GCDs, Ricochet and Gauss Round are generated by Heat – 
+we unfortunately have a large number of GCDs in our rotation which are entirely unaffected by Skill Speed. Every Hypercharge
+window has a fixed length of **7.5 seconds** (1.5s \* 5) regardless of how fast our GCD is. In addition to not scaling with speed,
+these 7.5 second segments do not evenly replace three GCDs at any achievable recast speed below 2.5s, meaning our tools will
+be forced to slightly drift. Altogether, simulations point to 2.5 GCD sets being the best unless there's a really good
+reason to take a faster GCD for a particular encounter.
+
+## Crit Interactions
+
+Recall that Machinist has the following unique actions: Wildfire, which cannot crit or direct hit, 
+and Reassemble, which guarantees a critical direct hit. Predictably, both actions gain nothing from 
+the DH stat, which is why we value DH relatively less than other jobs. 
+
+You might think this is the case for the crit stat as well, but crit is different from DH in one important way: 
+whereas the DH stat only scales your rate of direct hits, the crit stat scales both your crit rate *and* your crit multiplier. 
+This actually works out such that we prefer the crit stat even more than we would if Reassemble didn't exist! In other words,
+**auto critical hits scale better with the crit stat than regular hits do**.
+
+
+## Just Sim It
+
+At the end of the day, the only way to know which of two gearsets is better is to run it through a gear spreadsheet
+or simulator. When in doubt, [Just Sim It](https://docs.google.com/spreadsheets/d/1sw8s6py29G2lIG7mBn-H2yGaFPQ2Y2VKnxHgRlT2ycs/edit?usp=sharing).
+
+
+
+# Graduate Studies: The Machinist's Toolbelt
+
+As a Machinist, you have a variety of miscellaneous optimization "tools" available to you in your "toolbelt" (please laugh). 
+We'll cover each one briefly, but ultimately it's up to you to find the best places to apply them in a given encounter.
 If you've made it this far in the guide you should have no problem with that!
 
 ## Ricochet Pooling
 
 If an AoE situation is coming up in the fight, you can pool your Ricochet charges to take advantage
 of their cleave damage. Maybe this is obvious to you or maybe you've never thought about it until now,
-but it's an easy 60 potency per target per charge of Ricochet. Due to the 5y radius of this action,
+but it's an easy 60 extra potency per target per charge of Ricochet. Due to the 5y radius of this action,
 the enemies will need to be stacked quite close to each other to take advantage of Ricochet's cleave.
 
-Tip: distance is calculated **from the center of your target's hitbox to the edge of the hitboxes of other enemies**.
+**Tip: distance is calculated from the center of your target's hitbox to the edge of the hitboxes of other enemies**.
 
 ## 7-GCD Wildfire
 
@@ -468,4 +565,4 @@ and of course it's an even bigger gain on three or more targets.
 This tech is so minor and impractical that it's basically not worth doing, but it's included here for the sake of
 completeness. If you begin channeling Flamethrower during downtime where a boss is untargetable, you can potentially
 land a tick on the boss right as it returns without costing any GCD time. Just remember to **begin channeling at least
-2.5 seconds before the boss is targetable** so that Flamethrower doesn't clip your GCD. 
+2.5 seconds before the boss is targetable** so that Flamethrower doesn't clip your GCD.
