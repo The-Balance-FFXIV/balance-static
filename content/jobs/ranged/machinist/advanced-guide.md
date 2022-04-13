@@ -7,7 +7,7 @@ authors:
 patch: "6.1"
 lastmod: 2022-04-10T03:51:56.710Z
 changelog:
-  - date: 2022-04-10T03:52:02.639Z
+  - date: 2022-04-13T08:10:50.487Z
     message: Guide published.
 ---
 
@@ -19,6 +19,19 @@ read the [Basic Guide](https://www.thebalanceffxiv.com/jobs/ranged/machinist/bas
 
 This section will introduce some core concepts for optimizing encounters in FFXIV.
 If you are already familiar with optimization on other jobs, you can feel free to skip ahead!
+
+## Terminology
+
+Here are some common terms used when discussing job theorycrafting and optimization.
+
+| Term                       | Meaning                                                                                                                                                                                                               |
+|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Potency per Gauge (PPG)    | The effective amount of potency you expect to gain per single point of gauge (Heat, Battery, etc).                                                                                                                           |
+| Potency per Second (PPS)   | A normalization of how much potency an action does over how long it takes before you can use it again. For example, since Wildfire has a two minute cooldown we would divide its total potency by 120 to get its PPS. |
+| Kill Time (KT)             | The time frame where you expect to kill a boss or end a phase. This could be precise (i.e. 7:10 target killtime) or approximate (i.e. somewhere between 7:00 and 7:20).                                               |
+| Drift / Delay / Hold       | Not using an action even though it came off cooldown. When this happens unintentionally or is forced it's usually called "drift". When it happens on purpose it's usually called a "delay" or a "hold".               |
+| Even Minute / Burst Window | A window where multiple raid buff windows are active simultaneously. Since these all have two minute cooldowns, in full uptime they should happen on every even minute (2:00, 4:00, 6:00, ...).                       |
+
 
 ## The Golden Rules
 
@@ -65,7 +78,7 @@ Is there an opportunity for you to use a cooldown earlier in the opener (to gain
 
 Let's face it, Queen really puts the *auto* in "automaton". It can be boring to press one button
 and watch your pet do the rest on its own. For this reason, you might just overlook how completely bonkers its
-damage is. A 100-battery Queen deals **2600 potency** (around 2314 player potency)! That's over four Drills worth of damage, which means that
+damage is. A 100-Battery Queen deals **2660 potency** (around 2367 player potency)! That's over four Drills worth of damage, which means that
 **Queen is the single most important action to align to raid buffs**. If you're serious about optimizing an encounter,
 the best place to start is by carefully planning out the timing for your Queen summons to fit as many of her hits as possible
 into raid buffs. 
@@ -92,23 +105,24 @@ is roughly equivalent to 106.8 potency from your direct damaging actions.
 ## Summon Timings
 
 Timing Queen can be a bit tricky due to her long wind-up animation, which lasts about 5 seconds from
-button press to her first hit. Crowned Collider snapshots around 21.5s (90 battery) or 23.5s (100 battery) 
+button press to her first hit. Crowned Collider snapshots around 21.5s (90 Battery) or 23.5s (100 Battery) 
 after you press the button. Because of this, you'll need to anticipate buff windows and give your
-summons some lead time to fit in as much potency as possible. 
+summons some lead time to fit in as much potency as possible. Something to note is that Queen does
+one Arm Punch (her 1.5s filler GCD) for every 10 points of gauge. For example, a max Battery Queen does 10 punches.
 
-In a two minute cycle you can expect to generate 180-190 battery, which is enough for two large queens –
+In a two minute cycle you can expect to generate 180-190 Battery, which is enough for two large Queens –
 one aligned to buffs and one outside buffs. 
 
-If there's a downtime phase in the fight, you need to be strategic about where you use your battery.
+If there's a downtime phase in the fight, you need to be strategic about where you use your Battery.
 Certain kinds of add phases lend themselves to building gauge so you can spend it all in a big reopener
-when the boss becomes targetable. In these situations, you should make sure to dump battery before
+when the boss becomes targetable. In these situations, you should make sure to dump Battery before
 the downtime so that you don't overcap.
 
 ## Battery Manipulation
 
-Sometimes you want to delay your Queen summon without taking battery away from the Queen that comes after.
+Sometimes you want to delay your Queen summon without taking Battery away from the Queen that comes after.
 To do this, **you can use Hypercharge to delay your upcoming Clean Shot** which increases the amount of time you
-have to summon Queen without generating more battery. If you're in this situation, see if you can manipulate
+have to summon Queen without generating more Battery. If you're in this situation, see if you can manipulate
 your Hypercharge timings to make this work.
 
 In a two-target cleave, another option is to **use Scattergun to delay your upcoming Clean Shot**. Note that
@@ -200,20 +214,20 @@ a full extra use more than makes up for it.
 ## Automaton Queen
 
 An interesting new facet of the Machinist rotation in Endwalker is the ability to summon Queen in the opener.
-To do so requires generating 50 battery over a minimum of 5 full GCDs (HC1 + HC2 + HC3, AA, CS)
+To do so requires generating 50 Battery over a minimum of 5 full GCDs (HC1 + HC2 + HC3, AA, CS)
 prior to your first Hypercharge window. In practice this becomes 6 full GCDs since we'll need to get Drill
 on cooldown before Wildfire as well.
 Since this Queen comes out so late it can only land a few punches under raid buffs,
 but **it will resolve its full damage under an opener tincture** if you choose to use one here.
 
-Using an opener Queen is usually a good way to squeeze some extra juice out of your battery gauge.
+Using an opener Queen is usually a good way to squeeze some extra juice out of your Battery gauge.
 However, with certain kill times **the 6 GCD requirement may end up delaying your Wildfire enough to lose a use**!
 
 ## Wildfire
 
 As mentioned above, there may be situations where we need to skip the opener Queen in order to get Wildfire
 on cooldown earlier. Setting up Wildfire in the opener is a bit more involved than other cooldowns: 
-first, we need the 50 heat from Barrel Stabilizer.
+first, we need the 50 Heat from Barrel Stabilizer.
 Second, we need to dump a minimum of 3 charges total of Gauss Round and Ricochet to prevent them from overcapping
 during Hypercharge. **The earliest we can use Wildfire without overcapping is after the 2nd GCD**. 
 To do so requires a WF > GCD > HC setup – you can see an example in the "fast opener" at the end of this section.
@@ -328,7 +342,91 @@ to use a sub-2.50 set for this particular encounter.
 
 # Potency Analysis
 
-\< The numerical stuff -- will add pending 6.1 patch notes & TC \>
+After reading the above you should have a general sense of *how* to adapt your rotation to suit a particular encounter.
+The missing puzzle piece is knowing *when* you should adapt your rotation, and what the expected gains and losses might be.
+This section will spend some time introducing the basics of potency analysis for Machinist actions, which will hopefully
+enable you to theorycraft your own rotations. 
+
+## Battery
+
+Queen's damage scales linearly per point of gauge spent, so figuring out Battery's PPG is pretty straightforward.
+A max gauge Queen does **2660 potency** (10 \* 120 + 680 + 780). Since Queen's damage scales differently than the
+Machinist's does, we need to apply a normalization factor. As noted previously, in a typical raid setting the
+normalization factor is **89%** meaning the equivalent player potency is about **2367p**. We can then divide this
+number by the 100 gauge spent to conclude that Battery is worth **23.67 PPG**.
+
+This value is useful for evaluating the actions which generate gauge in the first place. Drill and Air Anchor
+are both 580p, but Air Anchor generates 20 Battery which we now know is worth **473.4 potency** (23.67 \* 20)
+assuming we can spend it before the fight ends.
+
+## Heat
+
+Since getting value out of spending Heat gauge requires displacing three GCDs, evaluating this resource is a bit
+more complicated than evaluating Battery. To properly evaluate Heat we need to subtract the potency of the three GCDs 
+which our Hypercharge Combo replaces, which will almost always be a full Heated Combo (single target) or three
+Scatterguns (AoE). Since these actions all generate Heat themselves, we have to define Heat's effective potency recursively!
+
+In single target, the full equation for evaluating Heat (i.e. *x*) is as follows: 
+
+```
+x = (Heat Blast Combo potency - Heated Combo potency) / (Heat cost of Hypercharge)
+x = (200*5 + 120*2.5 + 120*2.5 - (200 + 280 + 360 + 15x + 10*23.67))
+x = 8.05
+```
+
+Thus, Heat is worth **8.05 PPG** in single target. Using similar math we can determine the value of Heat in AoE
+scenarios, replacing the Heat Blast and Heated Combo potencies with Auto Crossbow and Scattergun potencies as needed.
+Below is the value of Heat from 1-6 targets:
+
+| Targets | Hypercharge Combo | Filler Replacement | PPG  |
+|---------|-------------------|--------------------|------|
+| 1       | Heat Blast        | Combo              | 8.05 |
+| 2       | Heat Blast        | Combo              | 10.4 |
+| 3       | Auto Crossbow     | Scattergun         | 9.38 |
+| 4       | Auto Crossbow     | Scattergun         | 12.5 |
+| 5       | Auto Crossbow     | Scattergun         | 15.6 |
+| 6       | Auto Crossbow     | Scattergun         | 17.8 |
+
+Note the dip in PPG going from two targets to three targets. Perhaps surprisingly, we can observe that it's actually **less
+effective to spend Heat on three targets** compared to any other number of targets. I encourage you to take a second
+to think about why this is the case.
+
+## Heated Combo
+
+The hard work has been done for us already. All that's left to do to evaluate the potency of our Heated Combo
+is to add up the direct potency, Heat PPG, and Battery PPG for each action:
+
+| Action | Direct Potency | Heat  | Battery | Total  |
+|--------|----------------|-------|---------|--------|
+| Split  | 200            | 40.25 | 0       | 240.25 |
+| Slug   | 280            | 40.25 | 0       | 320.25 |
+| Clean  | 360            | 40.25 | 236.7   | 636.95 |
+| Avg.   | 280            | 40.25 | 78.9    | 399.15 |
+
+Here we can observe that **Heated Clean Shot's potency is nearly double Heated Slug Shot's** assuming
+the respective gauges can be spent before the end of the fight. 
+
+## Tools
+
+Finally, we can put together PPS models for each of the three Tool GCDs. Since these GCDs replace a Heated Combo
+in single target, we can subtract the average potency of a combo GCD calculated above to determine the effective potency
+of each action:
+
+| Action     | Direct Potency | Battery | Replacement | Total |
+|------------|----------------|---------|-------------|-------|
+| Drill      | 580            | 0       | -399.15     | 180.9 |
+| Air Anchor | 580            | 473.4   | -399.15     | 654.3 |
+| Chain Saw  | 580            | 473.4   | -399.15     | 654.3 |
+
+Note that since Drill does not generate any gauge, it's actually a fairly weak effective potency gain.
+If we analyze each single target Tool in terms of their cooldowns, we quickly see that **Air Anchor generates the 
+highest PPS of the three** (`654.3 / 40 > 180.9 / 20`). 
+This is why we choose to use Air Anchor as our first GCD in the general opener!
+
+It's important to keep track of context when comparing these numbers. For example, if we're in the "post-battery" phase
+of the fight, all three tools are worth the exact same amount of potency since we cannot spend the gauge they generate. 
+Similarly, if we're strictly analyzing the direct potency that we can put into raid buffs, the gauge that these actions 
+generate may not be spent in time to benefit from the buffs and therefore all three tools are again worth the same.
 
 # The Machinist's Toolbelt
 
