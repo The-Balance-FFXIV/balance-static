@@ -370,7 +370,7 @@ In single target, the full equation for evaluating Heat (i.e. *x*) is as follows
 
 ```
 x = (Heat Blast Combo potency - Heated Combo potency) / (Heat cost of Hypercharge)
-x = (200*5 + 120*2.5 + 120*2.5 - (200 + 280 + 360 + 15x + 10*23.67))
+x = (200*5 + 120*2.5 + 120*2.5 - (200 + 280 + 360 + 15x + 10*23.67)) / 50
 x = 8.05
 ```
 
