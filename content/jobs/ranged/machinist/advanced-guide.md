@@ -10,7 +10,6 @@ changelog:
   - date: 2022-04-13T08:10:50.487Z
     message: Guide published.
 ---
-
 *This guide is intended to give the reader the tools needed to approach encounter optimization as a Machinist.
 It assumes you are already familiar with the fundamentals of the job – if you need a refresher, please
 read the [Basic Guide](https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/) and come back when you're done.*
@@ -31,7 +30,7 @@ Here are some common terms used when discussing job theorycrafting and optimizat
 | Kill Time (KT)             | The time frame where you expect to kill a boss or end a phase. This could be precise (i.e. 7:10 target killtime) or approximate (i.e. somewhere between 7:00 and 7:20).                                               |
 | Drift / Delay / Hold       | Not using an action even though it came off cooldown. When this happens unintentionally or is forced it's usually called "drift". When it happens on purpose it's usually called a "delay" or a "hold".               |
 | Even Minute / Burst Window | A window where multiple raid buff windows are active simultaneously. Since these all have two minute cooldowns, in full uptime they should happen on every even minute (2:00, 4:00, 6:00, ...).                       |
-
+&nbsp;
 
 ## The Golden Rules
 
@@ -163,6 +162,8 @@ table to identify kill times (or phase times) where you won't lose a use by full
 | 5:12.5     | 5:42.5   | Yes                  |
 | 7:12.5     | 7:20     | Yes                  |
 | 7:20       | ∞        | No                   |
+
+&nbsp;
 
 Note that if your kill time isn't within any of the above ranges, that doesn't necessarily mean you should use Reassemble
 fully on cooldown – it just means you won't be able to fit two Reassembles in *every* buff window.
@@ -373,6 +374,8 @@ x = (200*5 + 120*2.5 + 120*2.5 - (200 + 280 + 360 + 15x + 10*23.67)) / 50
 x = 8.05
 ```
 
+&nbsp;
+
 Thus, Heat is worth **8.05 PPG** in single target. Using similar math we can determine the value of Heat in AoE
 scenarios, replacing the Heat Blast and Heated Combo potencies with Auto Crossbow and Scattergun potencies as needed.
 Below is the value of Heat from 1-6 targets:
@@ -385,6 +388,8 @@ Below is the value of Heat from 1-6 targets:
 | 4       | Auto Crossbow     | Scattergun         | 12.5 |
 | 5       | Auto Crossbow     | Scattergun         | 15.6 |
 | 6       | Auto Crossbow     | Scattergun         | 17.8 |
+
+&nbsp;
 
 Note the dip in PPG going from two targets to three targets. Perhaps surprisingly, we can observe that it's actually **less
 effective to spend Heat on three targets** compared to any other number of targets. I encourage you to take a second
@@ -402,6 +407,8 @@ is to add up the direct potency, Heat PPG, and Battery PPG for each action:
 | Clean  | 360            | 40.25 | 236.7   | 636.95 |
 | Avg.   | 280            | 40.25 | 78.9    | 399.15 |
 
+&nbsp;
+
 Here we can observe that **Heated Clean Shot's potency is nearly double Heated Slug Shot's** assuming
 the respective gauges can be spent before the end of the fight. 
 
@@ -416,6 +423,8 @@ effective potency of each action (in the average case):
 | Drill      | 580            | 0       | -399.15     | 180.9 |
 | Air Anchor | 580            | 473.4   | -399.15     | 654.3 |
 | Chain Saw  | 580            | 473.4   | -399.15     | 654.3 |
+
+&nbsp;
 
 Note that since Drill does not generate any gauge, it's actually a fairly weak effective potency gain.
 If we analyze each single target Tool in terms of their cooldowns, we quickly see that **Air Anchor generates the 
@@ -446,12 +455,15 @@ multiplier**:
 expected crit multiplier = (1 + (crit modifier - 1) * crit rate)
 ```
 
+&nbsp;
+
 For example, if your crit multiplier is 1.5x and your crit rate is 20%, your expected multiplier is
 `(1 + (1.5 - 1) * 0.2) = 1.1`. We can do the same for DH:
 
 ```
 expected DH multiplier = (1 + (0.25 * DH rate))
 ```
+&nbsp;
 
 Now we're all set to compare potency across different crit / DH scenarios. Usually we call this model
 of potency which incorporates crit and DH rates **"effective potency"** (or, ePotency). 
@@ -473,6 +485,8 @@ Reassembled Drill ePotency = 580 * (1 + (crit modifier - 1) * crit rate) * (1 + 
 Reassembled Drill ePotency = 580 * (1 + (1.581 - 1) * 1) * (1 + (0.25 * 1))
 Reassembled Drill ePotency = 1146p
 ```
+
+&nbsp;
 
 As we can see, Reassemble adds **430 ePotency** (1146 - 716) to the tool it buffs. Of course,
 this number will change depending on your exact crit and DH stats. Note that the higher your crit / DH
@@ -496,7 +510,7 @@ rest assured it's because of stat tiering. To learn more about tiers, check out 
 
 ## Going the Speed Limit
 
-We covered how Skill Speed affects the rotation loop in the [Skill Speed Adjustments](#Skill-Speed-Adjustments) section,
+We covered how Skill Speed affects the rotation loop in the [Skill Speed Adjustments](#skill-speed-adjustments) section,
 but why do we almost always prefer a 2.50 GCD over one of the other looping tiers like 2.44 or 2.38? The value of Speed as a
 stat is directly tied to how much damage is gained by speeding up our GCD rotation. While Machinist damage is almost entirely
 tied to the GCD – Heat and Battery gauge are both generated by GCDs, Ricochet and Gauss Round are generated by Heat – 
@@ -522,8 +536,6 @@ This actually works out such that we prefer the crit stat even more than we woul
 
 At the end of the day, the only way to know which of two gearsets is better is to run it through a gear spreadsheet
 or simulator. When in doubt, [Just Sim It](https://docs.google.com/spreadsheets/d/1sw8s6py29G2lIG7mBn-H2yGaFPQ2Y2VKnxHgRlT2ycs/edit?usp=sharing).
-
-
 
 # Graduate Studies: The Machinist's Toolbelt
 
