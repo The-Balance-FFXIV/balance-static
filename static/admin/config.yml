@@ -524,7 +524,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Patch", name: "patch", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
             name: "changelog"
@@ -811,7 +811,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Patch", name: "patch", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
             name: "changelog"
@@ -1098,7 +1098,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Patch", name: "patch", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
             name: "changelog"
@@ -1385,7 +1385,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Patch", name: "patch", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
             name: "changelog"
@@ -1672,7 +1672,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Patch", name: "patch", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
             name: "changelog"
@@ -1959,7 +1959,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Patch", name: "patch", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
             name: "changelog"
@@ -2246,7 +2246,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Patch", name: "patch", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
             name: "changelog"
@@ -2533,7 +2533,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Patch", name: "patch", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
             name: "changelog"
@@ -2820,7 +2820,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Patch", name: "patch", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
             name: "changelog"
@@ -3107,7 +3107,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Patch", name: "patch", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
             name: "changelog"
@@ -3394,7 +3394,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Patch", name: "patch", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
             name: "changelog"
@@ -3681,7 +3681,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Patch", name: "patch", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
             name: "changelog"
@@ -3968,7 +3968,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Patch", name: "patch", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
             name: "changelog"
@@ -4255,7 +4255,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Patch", name: "patch", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
             name: "changelog"
@@ -4542,7 +4542,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Patch", name: "patch", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
             name: "changelog"
@@ -4829,7 +4829,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Patch", name: "patch", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
             name: "changelog"
@@ -5116,7 +5116,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Patch", name: "patch", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
             name: "changelog"
@@ -5403,7 +5403,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Patch", name: "patch", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
             name: "changelog"
@@ -5690,7 +5690,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Patch", name: "patch", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
           - {label: "Last Updated", name: "lastmod", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - label: "Changelog entry"
             name: "changelog"
