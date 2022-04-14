@@ -1,8 +1,8 @@
 ---
 title: Black Mage Best in Slot (BiS)
 layout: bis
-patch: "6.05"
-lastmod: 2022-01-07T07:19:56.792Z
+patch: "6.1"
+lastmod: 2022-04-14T23:32:24.633Z
 changelog:
   - date: 2022-01-07T07:20:02.394Z
     message: Added 6.05 sets
