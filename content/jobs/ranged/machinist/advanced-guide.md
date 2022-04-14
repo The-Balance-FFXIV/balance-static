@@ -535,7 +535,7 @@ This actually works out such that we prefer the crit stat even more than we woul
 ## Just Sim It
 
 At the end of the day, the only way to know which of two gearsets is better is to run it through a gear spreadsheet
-or simulator. When in doubt, [Just Sim It](https://docs.google.com/spreadsheets/d/1sw8s6py29G2lIG7mBn-H2yGaFPQ2Y2VKnxHgRlT2ycs/edit?usp=sharing).
+or simulator. When in doubt, [just sim it](https://docs.google.com/spreadsheets/d/1sw8s6py29G2lIG7mBn-H2yGaFPQ2Y2VKnxHgRlT2ycs/edit?usp=sharing).
 
 # Graduate Studies: The Machinist's Toolbelt
 
