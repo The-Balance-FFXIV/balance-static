@@ -125,7 +125,7 @@ changelog:
 
 ### **Cure III**
 
-* AoE heal in a very small 6y radius around your targeted party member  (600p), 2s cast time
+* AoE heal in a small 10y radius around your targeted party member  (600p), 2s cast time
 * Use in situations where you need a big burst heal in one GCD radius
 * Cure III can target someone further away and heal in a 6y radius around them
 
@@ -189,7 +189,7 @@ changelog:
 * Use if you're about to GCD heal and you need additional healing, its low cooldown makes it more flexible.
 * Especially potent for tougher healing checks where you’ll be casting multiple GCD heals during the buff.
 
-## **Other Actions** 
+## **Other Actions**
 
 ![Temperance](https://xivapi.com/i/002000/002645_hr1.png)
 
