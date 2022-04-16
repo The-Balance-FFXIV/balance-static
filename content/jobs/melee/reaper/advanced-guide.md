@@ -15,6 +15,8 @@ changelog:
   - date: 2022-01-29T03:46:23.852Z
     message: Updated Fast Shroud Opener, Assigning Values to Soul Shroud, Gluttony
       and Two Target Prioritization
+  - date: 2022-04-16T22:07:33.451Z
+    message: Removed Trick Attack stuff
 ---
 ## Reaper Advanced Rotational Theory
 
@@ -26,7 +28,7 @@ changelog:
 
 I wanted to start this guide off with talking about the FFLogs metrics and how they relate to Reaper, as well as how they can and should be used to measure performance. Currently, as it stands, FFLogs has three main metrics it measures DPS with:
 
-* **rDPS** - Short for raid damage per second. This represents the damage you deal to an enemy over time, but it will subtract damage gained from external buffs and add damage you give through your buffs. So, if you deal 105 damage, but 5% of that was from Trick Attack, then only 100 of that damage will count towards your parse. Alternatively, if the ninja did 103 damage, but 3% of that was from your Arcane Circle, then three DPS of that damage will count towards your parse.
+* **rDPS** - Short for raid damage per second. This represents the damage you deal to an enemy over time, but it will subtract damage gained from external buffs and add damage you give through your buffs. So, if you deal 105 damage, but 5% of that was from Mug, then only 100 of that damage will count towards your parse. Alternatively, if the ninja did 103 damage, but 3% of that was from your Arcane Circle, then three DPS of that damage will count towards your parse.
 * **nDPS** - Short for neutral DPS. This represents the damage that you did but removes any assistance from raid buffs. It currently has very limited uses for Reaper and should rarely be used as a metric for any sort of measurement.
 * **aDPS** - Short for adjusted damage per second, this will factor in all the damage you do, but subtract specific single target buffs like Dragon Sight, Standard Step, Devilment and Astrologian cards.
 
@@ -293,7 +295,7 @@ Description:
 
 We won’t always have to use Harvest Moon for movement, as it is likely that there will be a few bosses where we can maintain full uptime on a boss and will want to use Harvest Moon for damage. As of right now, this is the best spot we have found for it. Due to how restrictive our burst is and how the trade to fit Harvest Moon in the opener is small, replacing a 300 potency GCD under potion is going to be its best damage gain.
 
-This optimization requires you to insert a Shadow of Death sometime before you enter your Double Shroud window, and it will create a very tight Arcane Circle weave window. If pulled off successfully, you will land a Harvest Moon on the enemy with most raid buffs in play, the exceptions being Trick Attack and Dancer buffs. 
+This optimization requires you to insert a Shadow of Death sometime before you enter your Double Shroud window, and it will create a very tight Arcane Circle weave window. If pulled off successfully, you will land a Harvest Moon on the enemy with most raid buffs in play, the exception being Dancer buffs. 
 
 #### Double Shroud Variant - Single SoD
 
@@ -395,12 +397,6 @@ Below you can see the effect of a potion used in the opener at six minutes vs. a
 ## Odd Minute Enshroud
 
 Reaper generates three shrouds every two minutes but only two can really be used in the 2-minute burst window. This leaves the an extra Shroud that can be used for a few things
-
-### Trick Enshroud
-
-If you are playing with a Ninja you can use the extra Enshroud into the odd minute trick windows. This will be a pretty significant gain to your adps and your ninjs rdps. 
-
-There are two ways to track Trick Attack timing without asking your Ninja every 20 seconds. The first will be your Gluttony cooldown timer. Trick’s end will roughly align when Gluttony comes off the cooldown. If your Gluttony has about 15 seconds left on its cooldown, then it is safe to assume that Trick is coming up. The next best way to tell is using your Shadow of Death timing. Assuming you aren’t overcapping, it will be a few GCDs after the timer goes below 30s between burst windows. You can almost always use Shadow of Death before Trick Attack to bring your timer closer to 60 and then enter Enshroud a bit afterwards. This Enshroud window doesn’t have any special mechanics, and can be executed like normal.
 
 ### Astrologian Cards
 
