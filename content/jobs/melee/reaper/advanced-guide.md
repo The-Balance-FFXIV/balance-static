@@ -15,6 +15,8 @@ changelog:
   - date: 2022-01-29T03:46:23.852Z
     message: Updated Fast Shroud Opener, Assigning Values to Soul Shroud, Gluttony
       and Two Target Prioritization
+  - date: 2022-04-16T22:07:33.451Z
+    message: Removed Trick Attack stuff
 ---
 ## Reaper Advanced Rotational Theory
 
