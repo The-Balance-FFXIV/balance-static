@@ -266,7 +266,7 @@ Below is an infographic on what combo flexibility looks like when using Gnashing
 
 &nbsp;
 
-**Using any weaponskill before you use your Continuation ability gained from using Gnashing Fang Combo will cause you will lose the Continuation buff. For example:**
+**Using any weaponskill before you use your Continuation ability gained from using Gnashing Fang Combo will cause you to lose the Continuation buff. For example:**
 
 ![ContBreak](/img/jobs/gnb/break.png "Broken Continuation")
 
