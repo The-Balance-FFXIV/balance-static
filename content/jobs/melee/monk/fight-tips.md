@@ -19,7 +19,6 @@ Nothing much to say, this is a dummy fight; do the optimal drift rotation for ma
 
 Make sure you and the group are as central as possible during Intemperance 1 and Intemperance 2 to ensure you’re going to hit everyone. If this still doesn’t work, you do have the following option, which consists of holding your Brotherhood (BH) if you aren’t sure to hit everyone and use it once you do the in/out mechanics. Note that if you hold it too long you may lose a use depending on the killtime.﻿
 
-
 # Hippokampos
 
 What is special about P2S is the potential for Limit Cut downtime to be handled incorrectly by holding to 4:30, making us lose Riddle of Fires (RoFs), BHs, and Perfect Balances (PBs) depending on kill time.
@@ -80,7 +79,7 @@ You can check how it works in the links below:
 
 <https://xivanalysis.com/fflogs/a6PvF2RHW7VjJTCG/12/1>
 
-<https://xivanalysis.com/fflogs/nH3C24AYBcFqgzT8/11/3>\
+<https://xivanalysis.com/fflogs/nH3C24AYBcFqgzT8/11/3>
 
 # Phoinix
 
@@ -97,6 +96,10 @@ For this fight you will prepot -5s and do Lunar Solar opener as it’s more dama
 
 Double Lunar rotation is used in this fight for the sweet one minute burst being a Rising Phoenix, it will be aligned for the orbs, so you will simply press Rising Phoenix and hit the boss, plus both orbs, which optimize the damage dealt to both.
 
+The opener should look like this :![](https://lh6.googleusercontent.com/ODmV_z4t4KLSzHxiWHrv0xNKBgPLEAckF6wx4SEfsxWR_WArwsHh30_4itgpdg2J4Gny_wyEkjT8KIsp_pdAnigHuA-RlSk8X7Ro3nSpYpvuSugrk5XCN6LdDcGQ6CD8B4QkbFK0)
+
+RoF is weaved late because like all the Double Lunar we play it as a RoF + BH 2 window, this will allow us to refresh buffs between both Blitz.
+
 For the two minutes, you play it like how I explained it in the next section: Optimal Drift into Double Lunar
 
 ### Optimal Drift into Double Lunar
@@ -110,7 +113,6 @@ So it means delaying your RoF for post PB (still use BH on CD): 
 Refresh buffs > Opo > PB Opo > RoF > Opo > Opo > Elixir Field > Opo > Twin > Demo > Opo PB Opo x3 > Elixir Field
 
 ![](/img/jobs/mnk/rof-bh-2.png "RoF + BH 2")
-
 
 ## After Adds:
 
@@ -166,4 +168,4 @@ And this is it, thank you for reading the whole encounter guide for the first ti
 
 Thank you to The Balance for giving me the chance to contribute to the well being of monk guides. 
 
-- Ailarra
+* Ailarra
