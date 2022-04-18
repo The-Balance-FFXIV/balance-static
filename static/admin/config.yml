@@ -1329,11 +1329,11 @@ collections:
             summary: "{{fields.date}}: {{fields.message}}"
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+              - {label: "Message", name: "message", widget: "string"}
           - label: "Tags"
             name: "tags"
             widget: "list"
             default: ["Gunbreaker", "GNB"]
-              - {label: "Message", name: "message", widget: "string"}
       - label: "Basic guide"
         name: "basic-guide"
         file: "content/jobs/tanks/gunbreaker/basic-guide.md"
