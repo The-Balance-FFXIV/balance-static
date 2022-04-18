@@ -4,11 +4,17 @@ title = "Balance Guides"
 theme = "glam"
 enableRobotsTXT = true
 
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
 [params]
   maxTierGearsets = 8
   maxUltimateGearsets = 4
   maxGearsets = 12
   discord = 'discord.gg/thebalanceffxiv'
+  description = 'High-quality job and raid guides for Final Fantasy XIV (FFXIV).'
   copyrightMessage = '© SQUARE ENIX CO., LTD. All Rights Reserved | FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd. | All content © their respective authors | The Balance is a non-profit community-owned website.'
 
 [markup]
