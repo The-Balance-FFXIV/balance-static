@@ -1,11 +1,13 @@
 ---
 title: Gunbreaker Best in Slot (BiS)
 layout: bis
-patch: "6.08"
+patch: "6.1"
 lastmod: 2022-02-03T00:16:22.266Z
 changelog:
   - date: 2022-02-03T00:16:26.730Z
     message: Updated for Endwalker patch 6.08.
+  - date: 2022-04-18T00:03:20.964Z
+    message: Updated 2.42 GCD for 6.1 Gear
 bis:
   - type: etro
     description: ""
