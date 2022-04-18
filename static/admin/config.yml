@@ -279,6 +279,10 @@ collections:
         fields:
           - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
           - {label: "Message", name: "message", widget: "string"}
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        default: []
   ##
   # Warrior guide
   ##
@@ -304,6 +308,10 @@ collections:
                 fields:
                   - {label: "Name", name: "name", widget: "select", options: ["Warrior"], default: ["Warrior"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["tanks"], default: ["tanks"]}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Warrior", "WAR"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/tanks/warrior/leveling-guide.md"
@@ -329,6 +337,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Warrior", "WAR"]
       - label: "Basic guide"
         name: "basic-guide"
         file: "content/jobs/tanks/warrior/basic-guide.md"
@@ -354,6 +366,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Warrior", "WAR"]
       - label: "Skills overview"
         name: "skills-overview"
         file: "content/jobs/tanks/warrior/skills-overview.md"
@@ -379,6 +395,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Warrior", "WAR"]
       - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/tanks/warrior/openers.md"
@@ -404,6 +424,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Warrior", "WAR"]
       - label: "Frequently Asked Questions"
         name: "faq"
         file: "content/jobs/tanks/warrior/faq.md"
@@ -435,6 +459,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Warrior", "WAR"]
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/tanks/warrior/advanced-guide.md"
@@ -460,6 +488,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Warrior", "WAR"]
       - label: "Fight Tips"
         name: "fight-tips"
         file: "content/jobs/tanks/warrior/fight-tips.md"
@@ -485,6 +517,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Warrior", "WAR"]
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/tanks/warrior/best-in-slot.md"
@@ -518,6 +554,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Warrior", "WAR"]
       - label: "Stat Priority"
         name: "stat-priority"
         file: "content/jobs/tanks/warrior/stat-priority.md"
@@ -543,6 +583,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Warrior", "WAR"]
       - label: "Job Changes"
         name: "job-changes"
         file: "content/jobs/tanks/warrior/job-changes.md"
@@ -566,6 +610,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Warrior", "WAR"]
   ##
   # Paladin guide
   ##
@@ -591,6 +639,10 @@ collections:
                 fields:
                   - {label: "Name", name: "name", widget: "select", options: ["Paladin"], default: ["Paladin"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["tanks"], default: ["tanks"]}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Paladin", "PLD"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/tanks/paladin/leveling-guide.md"
@@ -616,6 +668,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Paladin", "PLD"]
       - label: "Basic guide"
         name: "basic-guide"
         file: "content/jobs/tanks/paladin/basic-guide.md"
@@ -641,6 +697,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Paladin", "PLD"]
       - label: "Skills overview"
         name: "skills-overview"
         file: "content/jobs/tanks/paladin/skills-overview.md"
@@ -666,6 +726,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Paladin", "PLD"]
       - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/tanks/paladin/openers.md"
@@ -691,6 +755,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Paladin", "PLD"]
       - label: "Frequently Asked Questions"
         name: "faq"
         file: "content/jobs/tanks/paladin/faq.md"
@@ -722,6 +790,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Paladin", "PLD"]
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/tanks/paladin/advanced-guide.md"
@@ -747,6 +819,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Paladin", "PLD"]
       - label: "Fight Tips"
         name: "fight-tips"
         file: "content/jobs/tanks/paladin/fight-tips.md"
@@ -772,6 +848,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Paladin", "PLD"]
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/tanks/paladin/best-in-slot.md"
@@ -805,6 +885,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Paladin", "PLD"]
       - label: "Stat Priority"
         name: "stat-priority"
         file: "content/jobs/tanks/paladin/stat-priority.md"
@@ -830,6 +914,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Paladin", "PLD"]
       - label: "Job Changes"
         name: "job-changes"
         file: "content/jobs/tanks/paladin/job-changes.md"
@@ -853,6 +941,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Paladin", "PLD"]
   ##
   # Dark Knight guide
   ##
@@ -878,6 +970,10 @@ collections:
                 fields:
                   - {label: "Name", name: "name", widget: "select", options: ["Dark Knight"], default: ["Dark Knight"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["tanks"], default: ["tanks"]}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dark Knight", "DRK"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/tanks/dark-knight/leveling-guide.md"
@@ -903,6 +999,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dark Knight", "DRK"]
       - label: "Basic guide"
         name: "basic-guide"
         file: "content/jobs/tanks/dark-knight/basic-guide.md"
@@ -928,6 +1028,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dark Knight", "DRK"]
       - label: "Skills overview"
         name: "skills-overview"
         file: "content/jobs/tanks/dark-knight/skills-overview.md"
@@ -953,6 +1057,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dark Knight", "DRK"]
       - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/tanks/dark-knight/openers.md"
@@ -978,6 +1086,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dark Knight", "DRK"]
       - label: "Frequently Asked Questions"
         name: "faq"
         file: "content/jobs/tanks/dark-knight/faq.md"
@@ -1009,6 +1121,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dark Knight", "DRK"]
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/tanks/dark-knight/advanced-guide.md"
@@ -1034,6 +1150,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dark Knight", "DRK"]
       - label: "Fight Tips"
         name: "fight-tips"
         file: "content/jobs/tanks/dark-knight/fight-tips.md"
@@ -1059,6 +1179,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dark Knight", "DRK"]
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/tanks/dark-knight/best-in-slot.md"
@@ -1092,6 +1216,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dark Knight", "DRK"]
       - label: "Stat Priority"
         name: "stat-priority"
         file: "content/jobs/tanks/dark-knight/stat-priority.md"
@@ -1117,6 +1245,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dark Knight", "DRK"]
       - label: "Job Changes"
         name: "job-changes"
         file: "content/jobs/tanks/dark-knight/job-changes.md"
@@ -1140,6 +1272,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dark Knight", "DRK"]
   ##
   # Gunbreaker guide
   ##
@@ -1165,6 +1301,10 @@ collections:
                 fields:
                   - {label: "Name", name: "name", widget: "select", options: ["Gunbreaker"], default: ["Gunbreaker"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["tanks"], default: ["tanks"]}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Gunbreaker", "GNB"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/tanks/gunbreaker/leveling-guide.md"
@@ -1189,6 +1329,10 @@ collections:
             summary: "{{fields.date}}: {{fields.message}}"
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Gunbreaker", "GNB"]
               - {label: "Message", name: "message", widget: "string"}
       - label: "Basic guide"
         name: "basic-guide"
@@ -1215,6 +1359,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Gunbreaker", "GNB"]
       - label: "Skills overview"
         name: "skills-overview"
         file: "content/jobs/tanks/gunbreaker/skills-overview.md"
@@ -1240,6 +1388,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Gunbreaker", "GNB"]
       - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/tanks/gunbreaker/openers.md"
@@ -1265,6 +1417,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Gunbreaker", "GNB"]
       - label: "Frequently Asked Questions"
         name: "faq"
         file: "content/jobs/tanks/gunbreaker/faq.md"
@@ -1296,6 +1452,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Gunbreaker", "GNB"]
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/tanks/gunbreaker/advanced-guide.md"
@@ -1321,6 +1481,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Gunbreaker", "GNB"]
       - label: "Fight Tips"
         name: "fight-tips"
         file: "content/jobs/tanks/gunbreaker/fight-tips.md"
@@ -1346,6 +1510,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Gunbreaker", "GNB"]
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/tanks/gunbreaker/best-in-slot.md"
@@ -1379,6 +1547,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Gunbreaker", "GNB"]
       - label: "Stat Priority"
         name: "stat-priority"
         file: "content/jobs/tanks/gunbreaker/stat-priority.md"
@@ -1404,6 +1576,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Gunbreaker", "GNB"]
       - label: "Job Changes"
         name: "job-changes"
         file: "content/jobs/tanks/gunbreaker/job-changes.md"
@@ -1427,6 +1603,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Gunbreaker", "GNB"]
   ##
   # White Mage guide
   ##
@@ -1452,6 +1632,10 @@ collections:
                 fields:
                   - {label: "Name", name: "name", widget: "select", options: ["White Mage"], default: ["White Mage"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["healers"], default: ["healers"]}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["White Mage", "WHM"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/healers/white-mage/leveling-guide.md"
@@ -1477,6 +1661,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["White Mage", "WHM"]
       - label: "Basic guide"
         name: "basic-guide"
         file: "content/jobs/healers/white-mage/basic-guide.md"
@@ -1502,6 +1690,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["White Mage", "WHM"]
       - label: "Skills overview"
         name: "skills-overview"
         file: "content/jobs/healers/white-mage/skills-overview.md"
@@ -1527,6 +1719,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["White Mage", "WHM"]
       - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/healers/white-mage/openers.md"
@@ -1552,6 +1748,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["White Mage", "WHM"]
       - label: "Frequently Asked Questions"
         name: "faq"
         file: "content/jobs/healers/white-mage/faq.md"
@@ -1583,6 +1783,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["White Mage", "WHM"]
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/healers/white-mage/advanced-guide.md"
@@ -1608,6 +1812,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["White Mage", "WHM"]
       - label: "Fight Tips"
         name: "fight-tips"
         file: "content/jobs/healers/white-mage/fight-tips.md"
@@ -1633,6 +1841,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["White Mage", "WHM"]
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/healers/white-mage/best-in-slot.md"
@@ -1666,6 +1878,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["White Mage", "WHM"]
       - label: "Stat Priority"
         name: "stat-priority"
         file: "content/jobs/healers/white-mage/stat-priority.md"
@@ -1691,6 +1907,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["White Mage", "WHM"]
       - label: "Job Changes"
         name: "job-changes"
         file: "content/jobs/healers/white-mage/job-changes.md"
@@ -1714,6 +1934,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["White Mage", "WHM"]
   ##
   # Scholar guide
   ##
@@ -1739,6 +1963,10 @@ collections:
                 fields:
                   - {label: "Name", name: "name", widget: "select", options: ["Scholar"], default: ["Scholar"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["healers"], default: ["healers"]}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Scholar", "SCH"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/healers/scholar/leveling-guide.md"
@@ -1764,6 +1992,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Scholar", "SCH"]
       - label: "Basic guide"
         name: "basic-guide"
         file: "content/jobs/healers/scholar/basic-guide.md"
@@ -1789,6 +2021,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Scholar", "SCH"]
       - label: "Skills overview"
         name: "skills-overview"
         file: "content/jobs/healers/scholar/skills-overview.md"
@@ -1814,6 +2050,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Scholar", "SCH"]
       - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/healers/scholar/openers.md"
@@ -1839,6 +2079,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Scholar", "SCH"]
       - label: "Frequently Asked Questions"
         name: "faq"
         file: "content/jobs/healers/scholar/faq.md"
@@ -1870,6 +2114,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Scholar", "SCH"]
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/healers/scholar/advanced-guide.md"
@@ -1895,6 +2143,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Scholar", "SCH"]
       - label: "Fight Tips"
         name: "fight-tips"
         file: "content/jobs/healers/scholar/fight-tips.md"
@@ -1920,6 +2172,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Scholar", "SCH"]
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/healers/scholar/best-in-slot.md"
@@ -1953,6 +2209,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Scholar", "SCH"]
       - label: "Stat Priority"
         name: "stat-priority"
         file: "content/jobs/healers/scholar/stat-priority.md"
@@ -1978,6 +2238,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Scholar", "SCH"]
       - label: "Job Changes"
         name: "job-changes"
         file: "content/jobs/healers/scholar/job-changes.md"
@@ -2001,6 +2265,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Scholar", "SCH"]
   ##
   # Astrologian guide
   ##
@@ -2026,6 +2294,10 @@ collections:
                 fields:
                   - {label: "Name", name: "name", widget: "select", options: ["Astrologian"], default: ["Astrologian"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["healers"], default: ["healers"]}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Astrologian", "AST"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/healers/astrologian/leveling-guide.md"
@@ -2051,6 +2323,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Astrologian", "AST"]
       - label: "Basic guide"
         name: "basic-guide"
         file: "content/jobs/healers/astrologian/basic-guide.md"
@@ -2076,6 +2352,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Astrologian", "AST"]
       - label: "Skills overview"
         name: "skills-overview"
         file: "content/jobs/healers/astrologian/skills-overview.md"
@@ -2101,6 +2381,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Astrologian", "AST"]
       - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/healers/astrologian/openers.md"
@@ -2126,6 +2410,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Astrologian", "AST"]
       - label: "Frequently Asked Questions"
         name: "faq"
         file: "content/jobs/healers/astrologian/faq.md"
@@ -2157,6 +2445,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Astrologian", "AST"]
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/healers/astrologian/advanced-guide.md"
@@ -2182,6 +2474,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Astrologian", "AST"]
       - label: "Fight Tips"
         name: "fight-tips"
         file: "content/jobs/healers/astrologian/fight-tips.md"
@@ -2207,6 +2503,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Astrologian", "AST"]
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/healers/astrologian/best-in-slot.md"
@@ -2240,6 +2540,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Astrologian", "AST"]
       - label: "Stat Priority"
         name: "stat-priority"
         file: "content/jobs/healers/astrologian/stat-priority.md"
@@ -2265,6 +2569,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Astrologian", "AST"]
       - label: "Job Changes"
         name: "job-changes"
         file: "content/jobs/healers/astrologian/job-changes.md"
@@ -2288,6 +2596,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Astrologian", "AST"]
   ##
   # Sage guide
   ##
@@ -2313,6 +2625,10 @@ collections:
                 fields:
                   - {label: "Name", name: "name", widget: "select", options: ["Sage"], default: ["Sage"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["healers"], default: ["healers"]}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Sage", "SGE"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/healers/sage/leveling-guide.md"
@@ -2338,6 +2654,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Sage", "SGE"]
       - label: "Basic guide"
         name: "basic-guide"
         file: "content/jobs/healers/sage/basic-guide.md"
@@ -2363,6 +2683,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Sage", "SGE"]
       - label: "Skills overview"
         name: "skills-overview"
         file: "content/jobs/healers/sage/skills-overview.md"
@@ -2388,6 +2712,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Sage", "SGE"]
       - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/healers/sage/openers.md"
@@ -2413,6 +2741,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Sage", "SGE"]
       - label: "Frequently Asked Questions"
         name: "faq"
         file: "content/jobs/healers/sage/faq.md"
@@ -2444,6 +2776,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Sage", "SGE"]
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/healers/sage/advanced-guide.md"
@@ -2469,6 +2805,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Sage", "SGE"]
       - label: "Fight Tips"
         name: "fight-tips"
         file: "content/jobs/healers/sage/fight-tips.md"
@@ -2494,6 +2834,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Sage", "SGE"]
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/healers/sage/best-in-slot.md"
@@ -2527,6 +2871,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Sage", "SGE"]
       - label: "Stat Priority"
         name: "stat-priority"
         file: "content/jobs/healers/sage/stat-priority.md"
@@ -2552,6 +2900,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Sage", "SGE"]
       - label: "Job Changes"
         name: "job-changes"
         file: "content/jobs/healers/sage/job-changes.md"
@@ -2575,6 +2927,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Sage", "SGE"]
   ##
   # Dragoon guide
   ##
@@ -2600,6 +2956,10 @@ collections:
                 fields:
                   - {label: "Name", name: "name", widget: "select", options: ["Dragoon"], default: ["Dragoon"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["melee"], default: ["melee"]}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dragoon", "DRG"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/melee/dragoon/leveling-guide.md"
@@ -2625,6 +2985,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dragoon", "DRG"]
       - label: "Basic guide"
         name: "basic-guide"
         file: "content/jobs/melee/dragoon/basic-guide.md"
@@ -2650,6 +3014,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dragoon", "DRG"]
       - label: "Skills overview"
         name: "skills-overview"
         file: "content/jobs/melee/dragoon/skills-overview.md"
@@ -2675,6 +3043,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dragoon", "DRG"]
       - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/melee/dragoon/openers.md"
@@ -2700,6 +3072,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dragoon", "DRG"]
       - label: "Frequently Asked Questions"
         name: "faq"
         file: "content/jobs/melee/dragoon/faq.md"
@@ -2731,6 +3107,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dragoon", "DRG"]
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/melee/dragoon/advanced-guide.md"
@@ -2756,6 +3136,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dragoon", "DRG"]
       - label: "Fight Tips"
         name: "fight-tips"
         file: "content/jobs/melee/dragoon/fight-tips.md"
@@ -2781,6 +3165,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dragoon", "DRG"]
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/melee/dragoon/best-in-slot.md"
@@ -2814,6 +3202,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dragoon", "DRG"]
       - label: "Stat Priority"
         name: "stat-priority"
         file: "content/jobs/melee/dragoon/stat-priority.md"
@@ -2839,6 +3231,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dragoon", "DRG"]
       - label: "Job Changes"
         name: "job-changes"
         file: "content/jobs/melee/dragoon/job-changes.md"
@@ -2862,6 +3258,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dragoon", "DRG"]
   ##
   # Reaper guide
   ##
@@ -2887,6 +3287,10 @@ collections:
                 fields:
                   - {label: "Name", name: "name", widget: "select", options: ["Reaper"], default: ["Reaper"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["melee"], default: ["melee"]}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Reaper", "RPR"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/melee/reaper/leveling-guide.md"
@@ -2912,6 +3316,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Reaper", "RPR"]
       - label: "Basic guide"
         name: "basic-guide"
         file: "content/jobs/melee/reaper/basic-guide.md"
@@ -2937,6 +3345,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Reaper", "RPR"]
       - label: "Skills overview"
         name: "skills-overview"
         file: "content/jobs/melee/reaper/skills-overview.md"
@@ -2962,6 +3374,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Reaper", "RPR"]
       - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/melee/reaper/openers.md"
@@ -2987,6 +3403,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Reaper", "RPR"]
       - label: "Frequently Asked Questions"
         name: "faq"
         file: "content/jobs/melee/reaper/faq.md"
@@ -3018,6 +3438,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Reaper", "RPR"]
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/melee/reaper/advanced-guide.md"
@@ -3043,6 +3467,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Reaper", "RPR"]
       - label: "Fight Tips"
         name: "fight-tips"
         file: "content/jobs/melee/reaper/fight-tips.md"
@@ -3068,6 +3496,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Reaper", "RPR"]
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/melee/reaper/best-in-slot.md"
@@ -3101,6 +3533,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Reaper", "RPR"]
       - label: "Stat Priority"
         name: "stat-priority"
         file: "content/jobs/melee/reaper/stat-priority.md"
@@ -3126,6 +3562,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Reaper", "RPR"]
       - label: "Job Changes"
         name: "job-changes"
         file: "content/jobs/melee/reaper/job-changes.md"
@@ -3149,6 +3589,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Reaper", "RPR"]
   ##
   # Samurai guide
   ##
@@ -3174,6 +3618,10 @@ collections:
                 fields:
                   - {label: "Name", name: "name", widget: "select", options: ["Samurai"], default: ["Samurai"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["melee"], default: ["melee"]}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Samurai", "SAM"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/melee/samurai/leveling-guide.md"
@@ -3199,6 +3647,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Samurai", "SAM"]
       - label: "Basic guide"
         name: "basic-guide"
         file: "content/jobs/melee/samurai/basic-guide.md"
@@ -3224,6 +3676,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Samurai", "SAM"]
       - label: "Skills overview"
         name: "skills-overview"
         file: "content/jobs/melee/samurai/skills-overview.md"
@@ -3249,6 +3705,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Samurai", "SAM"]
       - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/melee/samurai/openers.md"
@@ -3274,6 +3734,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Samurai", "SAM"]
       - label: "Frequently Asked Questions"
         name: "faq"
         file: "content/jobs/melee/samurai/faq.md"
@@ -3305,6 +3769,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Samurai", "SAM"]
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/melee/samurai/advanced-guide.md"
@@ -3330,6 +3798,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Samurai", "SAM"]
       - label: "Fight Tips"
         name: "fight-tips"
         file: "content/jobs/melee/samurai/fight-tips.md"
@@ -3355,6 +3827,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Samurai", "SAM"]
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/melee/samurai/best-in-slot.md"
@@ -3388,6 +3864,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Samurai", "SAM"]
       - label: "Stat Priority"
         name: "stat-priority"
         file: "content/jobs/melee/samurai/stat-priority.md"
@@ -3413,6 +3893,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Samurai", "SAM"]
       - label: "Job Changes"
         name: "job-changes"
         file: "content/jobs/melee/samurai/job-changes.md"
@@ -3436,6 +3920,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Samurai", "SAM"]
   ##
   # Monk guide
   ##
@@ -3461,6 +3949,10 @@ collections:
                 fields:
                   - {label: "Name", name: "name", widget: "select", options: ["Monk"], default: ["Monk"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["melee"], default: ["melee"]}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Monk", "MNK"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/melee/monk/leveling-guide.md"
@@ -3486,6 +3978,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Monk", "MNK"]
       - label: "Basic guide"
         name: "basic-guide"
         file: "content/jobs/melee/monk/basic-guide.md"
@@ -3511,6 +4007,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Monk", "MNK"]
       - label: "Skills overview"
         name: "skills-overview"
         file: "content/jobs/melee/monk/skills-overview.md"
@@ -3536,6 +4036,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Monk", "MNK"]
       - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/melee/monk/openers.md"
@@ -3561,6 +4065,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Monk", "MNK"]
       - label: "Frequently Asked Questions"
         name: "faq"
         file: "content/jobs/melee/monk/faq.md"
@@ -3592,6 +4100,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Monk", "MNK"]
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/melee/monk/advanced-guide.md"
@@ -3617,6 +4129,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Monk", "MNK"]
       - label: "Fight Tips"
         name: "fight-tips"
         file: "content/jobs/melee/monk/fight-tips.md"
@@ -3642,6 +4158,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Monk", "MNK"]
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/melee/monk/best-in-slot.md"
@@ -3675,6 +4195,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Monk", "MNK"]
       - label: "Stat Priority"
         name: "stat-priority"
         file: "content/jobs/melee/monk/stat-priority.md"
@@ -3700,6 +4224,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Monk", "MNK"]
       - label: "Job Changes"
         name: "job-changes"
         file: "content/jobs/melee/monk/job-changes.md"
@@ -3723,6 +4251,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Monk", "MNK"]
   ##
   # Ninja guide
   ##
@@ -3748,6 +4280,10 @@ collections:
                 fields:
                   - {label: "Name", name: "name", widget: "select", options: ["Ninja"], default: ["Ninja"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["melee"], default: ["melee"]}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Ninja", "NIN"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/melee/ninja/leveling-guide.md"
@@ -3773,6 +4309,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Ninja", "NIN"]
       - label: "Basic guide"
         name: "basic-guide"
         file: "content/jobs/melee/ninja/basic-guide.md"
@@ -3798,6 +4338,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Ninja", "NIN"]
       - label: "Skills overview"
         name: "skills-overview"
         file: "content/jobs/melee/ninja/skills-overview.md"
@@ -3823,6 +4367,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Ninja", "NIN"]
       - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/melee/ninja/openers.md"
@@ -3848,6 +4396,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Ninja", "NIN"]
       - label: "Frequently Asked Questions"
         name: "faq"
         file: "content/jobs/melee/ninja/faq.md"
@@ -3879,6 +4431,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Ninja", "NIN"]
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/melee/ninja/advanced-guide.md"
@@ -3904,6 +4460,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Ninja", "NIN"]
       - label: "Fight Tips"
         name: "fight-tips"
         file: "content/jobs/melee/ninja/fight-tips.md"
@@ -3929,6 +4489,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Ninja", "NIN"]
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/melee/ninja/best-in-slot.md"
@@ -3962,6 +4526,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Ninja", "NIN"]
       - label: "Stat Priority"
         name: "stat-priority"
         file: "content/jobs/melee/ninja/stat-priority.md"
@@ -3987,6 +4555,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Ninja", "NIN"]
       - label: "Job Changes"
         name: "job-changes"
         file: "content/jobs/melee/ninja/job-changes.md"
@@ -4010,6 +4582,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Ninja", "NIN"]
   ##
   # Machinist guide
   ##
@@ -4035,6 +4611,10 @@ collections:
                 fields:
                   - {label: "Name", name: "name", widget: "select", options: ["Machinist"], default: ["Machinist"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["ranged"], default: ["ranged"]}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Machinist", "MCH"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/ranged/machinist/leveling-guide.md"
@@ -4060,6 +4640,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Machinist", "MCH"]
       - label: "Basic guide"
         name: "basic-guide"
         file: "content/jobs/ranged/machinist/basic-guide.md"
@@ -4085,6 +4669,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Machinist", "MCH"]
       - label: "Skills overview"
         name: "skills-overview"
         file: "content/jobs/ranged/machinist/skills-overview.md"
@@ -4110,6 +4698,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Machinist", "MCH"]
       - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/ranged/machinist/openers.md"
@@ -4135,6 +4727,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Machinist", "MCH"]
       - label: "Frequently Asked Questions"
         name: "faq"
         file: "content/jobs/ranged/machinist/faq.md"
@@ -4166,6 +4762,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Machinist", "MCH"]
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/ranged/machinist/advanced-guide.md"
@@ -4191,6 +4791,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Machinist", "MCH"]
       - label: "Fight Tips"
         name: "fight-tips"
         file: "content/jobs/ranged/machinist/fight-tips.md"
@@ -4216,6 +4820,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Machinist", "MCH"]
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/ranged/machinist/best-in-slot.md"
@@ -4249,6 +4857,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Machinist", "MCH"]
       - label: "Stat Priority"
         name: "stat-priority"
         file: "content/jobs/ranged/machinist/stat-priority.md"
@@ -4274,6 +4886,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Machinist", "MCH"]
       - label: "Job Changes"
         name: "job-changes"
         file: "content/jobs/ranged/machinist/job-changes.md"
@@ -4297,6 +4913,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Machinist", "MCH"]
   ##
   # Dancer guide
   ##
@@ -4322,6 +4942,10 @@ collections:
                 fields:
                   - {label: "Name", name: "name", widget: "select", options: ["Dancer"], default: ["Dancer"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["ranged"], default: ["ranged"]}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dancer", "DNC"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/ranged/dancer/leveling-guide.md"
@@ -4347,6 +4971,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dancer", "DNC"]
       - label: "Basic guide"
         name: "basic-guide"
         file: "content/jobs/ranged/dancer/basic-guide.md"
@@ -4372,6 +5000,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dancer", "DNC"]
       - label: "Skills overview"
         name: "skills-overview"
         file: "content/jobs/ranged/dancer/skills-overview.md"
@@ -4397,6 +5029,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dancer", "DNC"]
       - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/ranged/dancer/openers.md"
@@ -4422,6 +5058,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dancer", "DNC"]
       - label: "Frequently Asked Questions"
         name: "faq"
         file: "content/jobs/ranged/dancer/faq.md"
@@ -4453,6 +5093,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dancer", "DNC"]
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/ranged/dancer/advanced-guide.md"
@@ -4478,6 +5122,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dancer", "DNC"]
       - label: "Fight Tips"
         name: "fight-tips"
         file: "content/jobs/ranged/dancer/fight-tips.md"
@@ -4503,6 +5151,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dancer", "DNC"]
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/ranged/dancer/best-in-slot.md"
@@ -4536,6 +5188,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dancer", "DNC"]
       - label: "Stat Priority"
         name: "stat-priority"
         file: "content/jobs/ranged/dancer/stat-priority.md"
@@ -4561,6 +5217,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dancer", "DNC"]
       - label: "Job Changes"
         name: "job-changes"
         file: "content/jobs/ranged/dancer/job-changes.md"
@@ -4584,6 +5244,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Dancer", "DNC"]
   ##
   # Bard guide
   ##
@@ -4609,6 +5273,10 @@ collections:
                 fields:
                   - {label: "Name", name: "name", widget: "select", options: ["Bard"], default: ["Bard"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["ranged"], default: ["ranged"]}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Bard", "BRD"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/ranged/bard/leveling-guide.md"
@@ -4634,6 +5302,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Bard", "BRD"]
       - label: "Basic guide"
         name: "basic-guide"
         file: "content/jobs/ranged/bard/basic-guide.md"
@@ -4659,6 +5331,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Bard", "BRD"]
       - label: "Skills overview"
         name: "skills-overview"
         file: "content/jobs/ranged/bard/skills-overview.md"
@@ -4684,6 +5360,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Bard", "BRD"]
       - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/ranged/bard/openers.md"
@@ -4709,6 +5389,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Bard", "BRD"]
       - label: "Frequently Asked Questions"
         name: "faq"
         file: "content/jobs/ranged/bard/faq.md"
@@ -4740,6 +5424,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Bard", "BRD"]
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/ranged/bard/advanced-guide.md"
@@ -4765,6 +5453,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Bard", "BRD"]
       - label: "Fight Tips"
         name: "fight-tips"
         file: "content/jobs/ranged/bard/fight-tips.md"
@@ -4790,6 +5482,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Bard", "BRD"]
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/ranged/bard/best-in-slot.md"
@@ -4823,6 +5519,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Bard", "BRD"]
       - label: "Stat Priority"
         name: "stat-priority"
         file: "content/jobs/ranged/bard/stat-priority.md"
@@ -4848,6 +5548,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Bard", "BRD"]
       - label: "Job Changes"
         name: "job-changes"
         file: "content/jobs/ranged/bard/job-changes.md"
@@ -4871,6 +5575,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Bard", "BRD"]
   ##
   # Black Mage guide
   ##
@@ -4896,6 +5604,10 @@ collections:
                 fields:
                   - {label: "Name", name: "name", widget: "select", options: ["Black Mage"], default: ["Black Mage"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["casters"], default: ["casters"]}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Black Mage", "BLM"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/casters/black-mage/leveling-guide.md"
@@ -4921,6 +5633,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Black Mage", "BLM"]
       - label: "Basic guide"
         name: "basic-guide"
         file: "content/jobs/casters/black-mage/basic-guide.md"
@@ -4946,6 +5662,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Black Mage", "BLM"]
       - label: "Skills overview"
         name: "skills-overview"
         file: "content/jobs/casters/black-mage/skills-overview.md"
@@ -4971,6 +5691,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Black Mage", "BLM"]
       - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/casters/black-mage/openers.md"
@@ -4996,6 +5720,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Black Mage", "BLM"]
       - label: "Frequently Asked Questions"
         name: "faq"
         file: "content/jobs/casters/black-mage/faq.md"
@@ -5027,6 +5755,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Black Mage", "BLM"]
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/casters/black-mage/advanced-guide.md"
@@ -5052,6 +5784,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Black Mage", "BLM"]
       - label: "Fight Tips"
         name: "fight-tips"
         file: "content/jobs/casters/black-mage/fight-tips.md"
@@ -5077,6 +5813,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Black Mage", "BLM"]
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/casters/black-mage/best-in-slot.md"
@@ -5110,6 +5850,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Black Mage", "BLM"]
       - label: "Stat Priority"
         name: "stat-priority"
         file: "content/jobs/casters/black-mage/stat-priority.md"
@@ -5135,6 +5879,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Black Mage", "BLM"]
       - label: "Job Changes"
         name: "job-changes"
         file: "content/jobs/casters/black-mage/job-changes.md"
@@ -5158,6 +5906,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Black Mage", "BLM"]
   ##
   # Summoner guide
   ##
@@ -5183,6 +5935,10 @@ collections:
                 fields:
                   - {label: "Name", name: "name", widget: "select", options: ["Summoner"], default: ["Summoner"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["casters"], default: ["casters"]}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Summoner", "SMN"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/casters/summoner/leveling-guide.md"
@@ -5208,6 +5964,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Summoner", "SMN"]
       - label: "Basic guide"
         name: "basic-guide"
         file: "content/jobs/casters/summoner/basic-guide.md"
@@ -5233,6 +5993,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Summoner", "SMN"]
       - label: "Skills overview"
         name: "skills-overview"
         file: "content/jobs/casters/summoner/skills-overview.md"
@@ -5258,6 +6022,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Summoner", "SMN"]
       - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/casters/summoner/openers.md"
@@ -5283,6 +6051,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Summoner", "SMN"]
       - label: "Frequently Asked Questions"
         name: "faq"
         file: "content/jobs/casters/summoner/faq.md"
@@ -5314,6 +6086,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Summoner", "SMN"]
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/casters/summoner/advanced-guide.md"
@@ -5339,6 +6115,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Summoner", "SMN"]
       - label: "Fight Tips"
         name: "fight-tips"
         file: "content/jobs/casters/summoner/fight-tips.md"
@@ -5364,6 +6144,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Summoner", "SMN"]
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/casters/summoner/best-in-slot.md"
@@ -5397,6 +6181,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Summoner", "SMN"]
       - label: "Stat Priority"
         name: "stat-priority"
         file: "content/jobs/casters/summoner/stat-priority.md"
@@ -5422,6 +6210,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Summoner", "SMN"]
       - label: "Job Changes"
         name: "job-changes"
         file: "content/jobs/casters/summoner/job-changes.md"
@@ -5445,6 +6237,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Summoner", "SMN"]
   ##
   # Red Mage guide
   ##
@@ -5470,6 +6266,10 @@ collections:
                 fields:
                   - {label: "Name", name: "name", widget: "select", options: ["Red Mage"], default: ["Red Mage"]}
                   - {label: "Parent", name: "parent", widget: "select", options: ["casters"], default: ["casters"]}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Red Mage", "RDM"]
       - label: "Leveling Guide"
         name: "leveling-guide"
         file: "content/jobs/casters/red-mage/leveling-guide.md"
@@ -5495,6 +6295,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Red Mage", "RDM"]
       - label: "Basic guide"
         name: "basic-guide"
         file: "content/jobs/casters/red-mage/basic-guide.md"
@@ -5520,6 +6324,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Red Mage", "RDM"]
       - label: "Skills overview"
         name: "skills-overview"
         file: "content/jobs/casters/red-mage/skills-overview.md"
@@ -5545,6 +6353,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Red Mage", "RDM"]
       - label: "Openers and Rotation"
         name: "openers"
         file: "content/jobs/casters/red-mage/openers.md"
@@ -5570,6 +6382,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Red Mage", "RDM"]
       - label: "Frequently Asked Questions"
         name: "faq"
         file: "content/jobs/casters/red-mage/faq.md"
@@ -5601,6 +6417,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Red Mage", "RDM"]
       - label: "Advanced guide"
         name: "advanced-guide"
         file: "content/jobs/casters/red-mage/advanced-guide.md"
@@ -5626,6 +6446,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Red Mage", "RDM"]
       - label: "Fight Tips"
         name: "fight-tips"
         file: "content/jobs/casters/red-mage/fight-tips.md"
@@ -5651,6 +6475,10 @@ collections:
             fields:
               - {label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false}
               - {label: "Message", name: "message", widget: "string"}
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Red Mage", "RDM"]
       - label: "Best in Slot"
         name: "bis"
         file: "content/jobs/casters/red-mage/best-in-slot.md"
@@ -5684,6 +6512,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Red Mage", "RDM"]
       - label: "Stat Priority"
         name: "stat-priority"
         file: "content/jobs/casters/red-mage/stat-priority.md"
@@ -5709,6 +6541,10 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Red Mage", "RDM"]
       - label: "Job Changes"
         name: "job-changes"
         file: "content/jobs/casters/red-mage/job-changes.md"
@@ -5732,4 +6568,8 @@ collections:
             search_fields: ["username", "name"]
             value_field: "username"
             display_fields: ["username", "name"]
+          - label: "Tags"
+            name: "tags"
+            widget: "list"
+            default: ["Red Mage", "RDM"]
 
