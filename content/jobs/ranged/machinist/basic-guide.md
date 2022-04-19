@@ -16,6 +16,9 @@ changelog:
     message: Updated.
   - date: 2022-04-11T23:33:26.599Z
     message: Potencies updated for 6.1
+tags:
+  - Machinist
+  - MCH
 ---
 # Basic Machinist Guide
 
