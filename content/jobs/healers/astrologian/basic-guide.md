@@ -103,7 +103,7 @@ The base Astrologian opener is as follows:
 
 &nbsp;
 
-That is a large graphic, but a majority of it is just to show every possible opener because of Redraw. Reminder, you are aiming for a two-Seal Astrodyne, and as many melee cars as possible.
+That is a large graphic, but a majority of it is just to show every possible opener because of Redraw. Reminder, you are aiming for a two-Seal Astrodyne, and as many melee cards as possible.
 
 If you would like to see a general priority list for which jobs to card, there is one provided in the #ast_resources section of [The Balance](https://www.discord.gg/thebalanceffxiv). Once we have a proper graphic constructed to represent this, you will also find this graphic here.
 
