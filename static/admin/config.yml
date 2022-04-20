@@ -542,7 +542,7 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "spreadsheet", "sleepyshiba"], default: "etro"}
+              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "gsheets", "sleepyshiba"], default: "etro"}
               - {label: "Link", name: "link", widget: "string"}
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
           - label: "Author(s)"
@@ -873,7 +873,7 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "spreadsheet", "sleepyshiba"], default: "etro"}
+              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "gsheets", "sleepyshiba"], default: "etro"}
               - {label: "Link", name: "link", widget: "string"}
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
           - label: "Author(s)"
@@ -1204,7 +1204,7 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "spreadsheet", "sleepyshiba"], default: "etro"}
+              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "gsheets", "sleepyshiba"], default: "etro"}
               - {label: "Link", name: "link", widget: "string"}
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
           - label: "Author(s)"
@@ -1535,7 +1535,7 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "spreadsheet", "sleepyshiba"], default: "etro"}
+              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "gsheets", "sleepyshiba"], default: "etro"}
               - {label: "Link", name: "link", widget: "string"}
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
           - label: "Author(s)"
@@ -1866,7 +1866,7 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "spreadsheet", "sleepyshiba"], default: "etro"}
+              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "gsheets", "sleepyshiba"], default: "etro"}
               - {label: "Link", name: "link", widget: "string"}
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
           - label: "Author(s)"
@@ -2197,7 +2197,7 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "spreadsheet", "sleepyshiba"], default: "etro"}
+              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "gsheets", "sleepyshiba"], default: "etro"}
               - {label: "Link", name: "link", widget: "string"}
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
           - label: "Author(s)"
@@ -2528,7 +2528,7 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "spreadsheet", "sleepyshiba"], default: "etro"}
+              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "gsheets", "sleepyshiba"], default: "etro"}
               - {label: "Link", name: "link", widget: "string"}
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
           - label: "Author(s)"
@@ -2859,7 +2859,7 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "spreadsheet", "sleepyshiba"], default: "etro"}
+              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "gsheets", "sleepyshiba"], default: "etro"}
               - {label: "Link", name: "link", widget: "string"}
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
           - label: "Author(s)"
@@ -3190,7 +3190,7 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "spreadsheet", "sleepyshiba"], default: "etro"}
+              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "gsheets", "sleepyshiba"], default: "etro"}
               - {label: "Link", name: "link", widget: "string"}
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
           - label: "Author(s)"
@@ -3521,7 +3521,7 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "spreadsheet", "sleepyshiba"], default: "etro"}
+              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "gsheets", "sleepyshiba"], default: "etro"}
               - {label: "Link", name: "link", widget: "string"}
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
           - label: "Author(s)"
@@ -3852,7 +3852,7 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "spreadsheet", "sleepyshiba"], default: "etro"}
+              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "gsheets", "sleepyshiba"], default: "etro"}
               - {label: "Link", name: "link", widget: "string"}
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
           - label: "Author(s)"
@@ -4183,7 +4183,7 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "spreadsheet", "sleepyshiba"], default: "etro"}
+              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "gsheets", "sleepyshiba"], default: "etro"}
               - {label: "Link", name: "link", widget: "string"}
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
           - label: "Author(s)"
@@ -4514,7 +4514,7 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "spreadsheet", "sleepyshiba"], default: "etro"}
+              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "gsheets", "sleepyshiba"], default: "etro"}
               - {label: "Link", name: "link", widget: "string"}
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
           - label: "Author(s)"
@@ -4845,7 +4845,7 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "spreadsheet", "sleepyshiba"], default: "etro"}
+              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "gsheets", "sleepyshiba"], default: "etro"}
               - {label: "Link", name: "link", widget: "string"}
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
           - label: "Author(s)"
@@ -5176,7 +5176,7 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "spreadsheet", "sleepyshiba"], default: "etro"}
+              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "gsheets", "sleepyshiba"], default: "etro"}
               - {label: "Link", name: "link", widget: "string"}
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
           - label: "Author(s)"
@@ -5507,7 +5507,7 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "spreadsheet", "sleepyshiba"], default: "etro"}
+              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "gsheets", "sleepyshiba"], default: "etro"}
               - {label: "Link", name: "link", widget: "string"}
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
           - label: "Author(s)"
@@ -5838,7 +5838,7 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "spreadsheet", "sleepyshiba"], default: "etro"}
+              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "gsheets", "sleepyshiba"], default: "etro"}
               - {label: "Link", name: "link", widget: "string"}
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
           - label: "Author(s)"
@@ -6169,7 +6169,7 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "spreadsheet", "sleepyshiba"], default: "etro"}
+              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "gsheets", "sleepyshiba"], default: "etro"}
               - {label: "Link", name: "link", widget: "string"}
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
           - label: "Author(s)"
@@ -6500,7 +6500,7 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - {label: "Name", name: "name", widget: "string"}
-              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "spreadsheet", "sleepyshiba"], default: "etro"}
+              - {label: "Type", name: "type", widget: "select", options: ["etro", "ariyala", "gsheets", "sleepyshiba"], default: "etro"}
               - {label: "Link", name: "link", widget: "string"}
               - {label: "Description", name: "description", widget: "markdown", required: false, default: ""}
           - label: "Author(s)"
