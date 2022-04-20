@@ -187,17 +187,7 @@ Tinctures of Strength (currently the Grade 6 Tincture of Strength) can be used a
 
 Our buffs fall on timers that function pretty well together in the duration of an encounter. Generally speaking, every **six minutes** our three buffs should automatically re-align. Talking in seconds, our buffs should align like so:
 
-<div align="center">
-
-| Time | ![](https://xivapi.com/i/000000/000309_hr1.png) | ![](https://xivapi.com/i/002000/002587_hr1.png) | ![](https://xivapi.com/i/002000/002585_hr1.png) |
-| ---- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| 0s   | x                                               | x                                               | x                                               |
-| 60s  | x                                               |                                                 |                                                 |
-| 120s | x                                               | x                                               | x                                               |
-| 180s | x                                               |                                                 |                                                 |
-| 240s | x                                               | x                                               | x                                               |
-| 300s | x                                               |                                                 |                                                 |
-| 360s | x                                               | x                                               | x                                               |
+![Basic buff rotation](https://i.imgur.com/wCfUtSr.png "Basic Buff Rotation")
 
 &nbsp;
 
