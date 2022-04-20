@@ -28,6 +28,10 @@ bis:
       otherwise prevent fitting 11 GCDs in Fight or Flight.
     name: 2.40 GCD — Pumpkin Potage
     link: ca8e2ea6-2e6a-4e69-93b0-711a51db0a27
+  - type: gsheets
+    description: Useful to put in your own gear options.
+    name: Gear Sheet
+    link: https://docs.google.com/spreadsheets/d/e/2PACX-1vQx37TZPpgIZ6Ld9S9V-rQ6hcTmuz8tuzzxg6D2w10loW8EXGTQrMKhj0vdany9UA9O7A1cLdQ8YutE/pubhtml
 authors:
   - Balance-PLD-Staff
   - nikroulah
