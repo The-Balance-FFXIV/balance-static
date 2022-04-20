@@ -88,7 +88,9 @@ bis:
       ~9:30 where sheet says 13:06. The speed sets listed in this calc run out
       of mana before most average parties can kill bosses, so they should
       absolutely only be used in organized speed runs if you are positive you
-      can get away with the mp drain."
+      can get away with the mp drain. You can check it out
+      [here](https://docs.google.com/spreadsheets/d/1zYf3el2qfZhHp67DaF4d8U2PkH\
+      6pd7eX8IC6u3LgtuM/edit#gid=422994635)."
     name: Gear Calc
     link: https://docs.google.com/spreadsheets/d/e/2PACX-1vQcnOrmuOQq7HoMIfiJZwdY9GuUCUGD1BmFaHWpSWupXVUkHvOxWrCWExav6CAFhNrJ_7-dEMcc-MAP/pubhtml
 authors:
