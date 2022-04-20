@@ -25,6 +25,12 @@ bis:
     description: More casual set for non week 1 clears.
     name: Budget Crafted Set
     link: 4e770122-e3fb-4cf7-8bc7-1783286c2472
+  - type: gsheets
+    description: Usually offers multiple other options on top of the provided ones
+      above. Check it out
+      [here](https://docs.google.com/spreadsheets/d/1t3EYSOPuMceqCFrU4WAbzSd4gbYi-J7YeMB36dNmaWM/edit#gid=654212594)
+    name: Gear Sheet
+    link: https://docs.google.com/spreadsheets/d/e/2PACX-1vSCsbn5CJAMRXv-WJEV-W1FCPtrVhZeMU0JD8SleJ_Ga_5ur7wgLisKdca5M-KzTqahrtCjAP9qLtvG/pubhtml
 authors:
   - xenitan
   - Fürst-Blumier
