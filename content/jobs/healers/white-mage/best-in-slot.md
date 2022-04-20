@@ -82,7 +82,7 @@ bis:
       Relic stats: 280 Crit/Det/SpS/Piety
     name: Old Ultimates
     link: 7cdc296b-4889-43c9-ad1b-a21fab6e6001
-  - type: spreadsheet
+  - type: gsheets
     description: "Disclaimer: MP uptime on the sheet is higher than in reality, for
       example the recommended low-piety sets appears to run out of mana around
       ~9:30 where sheet says 13:06. The speed sets listed in this calc run out
@@ -90,7 +90,7 @@ bis:
       absolutely only be used in organized speed runs if you are positive you
       can get away with the mp drain."
     name: Gear Calc
-    link: https://bit.ly/WHMGearCalc
+    link: https://docs.google.com/spreadsheets/d/e/2PACX-1vQcnOrmuOQq7HoMIfiJZwdY9GuUCUGD1BmFaHWpSWupXVUkHvOxWrCWExav6CAFhNrJ_7-dEMcc-MAP/pubhtml
 authors:
   - Balance-WHM-Staff
 ---
