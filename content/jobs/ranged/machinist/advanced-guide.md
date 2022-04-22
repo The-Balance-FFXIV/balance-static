@@ -368,11 +368,11 @@ Scatterguns (AoE). Since these actions all generate Heat themselves, we have to 
 
 In single target, the full equation for evaluating Heat (i.e. *x*) is as follows: 
 
-```
+{{< codeblock >}}
 x = (Heat Blast Combo potency - Heated Combo potency) / (Heat cost of Hypercharge)
 x = (200*5 + 120*2.5 + 120*2.5 - (200 + 280 + 360 + 15x + 10*23.67)) / 50
-x = 8.05
-```
+x = 8.05{{< /codeblock >}}
+
 
 &nbsp;
 
@@ -451,18 +451,17 @@ To be able to adequately evaluate actions like Wildfire and Reassemble, as well 
 to augment our potency model with crit / DH normalizations. The following formula can be used to determine your **expected crit
 multiplier**:
 
-```
-expected crit multiplier = (1 + (crit modifier - 1) * crit rate)
-```
+{{< codeblock >}}
+expected crit multiplier = (1 + (crit modifier - 1) * crit rate){{< /codeblock >}}
+
 
 &nbsp;
 
 For example, if your crit multiplier is 1.5x and your crit rate is 20%, your expected multiplier is
 `(1 + (1.5 - 1) * 0.2) = 1.1`. We can do the same for DH:
 
-```
-expected DH multiplier = (1 + (0.25 * DH rate))
-```
+{{< codeblock >}}
+expected DH multiplier = (1 + (0.25 * DH rate)){{< /codeblock >}}
 &nbsp;
 
 Now we're all set to compare potency across different crit / DH scenarios. Usually we call this model
