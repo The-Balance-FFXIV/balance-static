@@ -3,13 +3,16 @@ title: Monk Basic Guide
 card_header_image: /img/jobs/mnk/basic.png
 authors:
   - Perfect-Balance
-patch: "6.0"
-lastmod: 2022-02-15T10:21:31.984Z
+patch: "6.1"
+lastmod: 2022-04-22T16:43:52.036Z
 changelog:
   - date: 2021-10-28T03:44:08.486Z
     message: Created page
   - date: 2022-02-15T10:21:35.356Z
     message: Updated for Endwalker
+  - date: 2022-04-22T16:43:57.854Z
+    message: Updated Cursed Knowledge section to bring the guide up to date; added
+      Triple Blitz, Brotherhood Damage vs Chakra, and Dragon Kick Spam.
 ---
 # **A Monk Guide by Perfect Balance**
 
@@ -94,11 +97,11 @@ Explanations:  [Critical Hit](https://www.akhmorning.com/allagan-studies/stats/c
 
 ### Useful Plugins
 
-| Plugin                    | Description                                                              | Link / Info                                                                                                                                                                                                                                                                                                                                            |
-| ------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Triggernometry            | Many triggers we typically use hinge on Triggernometry to function       | [GitHub](https://github.com/paissaheavyindustries/Triggernometry/releases)                                                                                                                                                                                                                                                                             |
-| Auto-Attack timer         | Displays a bar showing your auto-attack timer                            | [XML Guide](https://cdn.discordapp.com/attachments/166036664341364737/920290186762534932/auto_timer_guide_edition.xml)                                                                                                                                                                                                                                 |
-| Missed positional trigger | Says "miss" when you miss a positional. (Doesn't require Triggernometry) | Go to Custom Triggers in ACT and import XML.  Change "NAME HERE" to your character's name and copy below to your clipboard: <Trigger R="^A[^ ]* 15:[^:]+:NAME HERE:((38|42|8CF|8D2|1D3\[9A]|5F3\[EF]|DE\[24]|64AC):[^:]+:[^:]+:[^:]+:(7|3\[AD]|4\[04])|(58|DEB):[^:]+:[^:]+:[^:]+:3\[6AE])" SD="Miss" ST="3" CR="F" C=" General" T="F" TN="" Ta="F" /> |
+| Plugin                    | Description                                                              | Link / Info                                                                                                                                                             |     |     |     |          |          |         |                            |        |         |     |                                                                                             |
+| ------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- | -------- | -------- | ------- | -------------------------- | ------ | ------- | --- | ------------------------------------------------------------------------------------------- |
+| Triggernometry            | Many triggers we typically use hinge on Triggernometry to function       | [GitHub](https://github.com/paissaheavyindustries/Triggernometry/releases)                                                                                              |     |     |     |          |          |         |                            |        |         |     |                                                                                             |
+| Auto-Attack timer         | Displays a bar showing your auto-attack timer                            | [XML Guide](https://cdn.discordapp.com/attachments/166036664341364737/920290186762534932/auto_timer_guide_edition.xml)                                                  |     |     |     |          |          |         |                            |        |         |     |                                                                                             |
+| Missed positional trigger | Says "miss" when you miss a positional. (Doesn't require Triggernometry) | Go to Custom Triggers in ACT and import XML.  Change "NAME HERE" to your character's name and copy below to your clipboard: <Trigger R="^A[^ ]* 15:[^:]+:NAME HERE:((38 | 42  | 8CF | 8D2 | 1D3\[9A] | 5F3\[EF] | DE\[24] | 64AC):[^:]+:[^:]+:[^:]+:(7 | 3\[AD] | 4\[04]) | (58 | DEB):[^:]+:[^:]+:[^:]+:3\[6AE])" SD="Miss" ST="3" CR="F" C=" General" T="F" TN="" Ta="F" /> |
 
 &nbsp;
 
@@ -371,6 +374,8 @@ The image above demonstrates the DPS difference between each of the three rotati
 
 #### Braindead Looping Rotation
 
+This rotation is recommended mostly for either casual play or for getting your first taste of Monk before advancing to Optimal Drift. The reasoning for this is that while Optimal Drift contains various different ways of entering and forming your burst windows, the Loop essentially takes one of those possibilities and freezes it, making it loop forever. As such, once you become comfortable with the Loop progressing on to Optimal Drift should come quite naturally. 
+
 This rotation always begins with the Lunar Solar opener. As mentioned previously, we make certain concessions in order to facilitate the loop, with the first of these being immediately following the opener. While best practice is typically using an Opo GCD as our free post-Blitz Formless GCD, in order to loop we will instead press Twin Snakes after the Rising Phoenix in our opener. This sets the rotation back two GCDs, allowing for the loop to exist.
 
 Following this you simply press buttons according to the Monk Flowchart until the first odd Riddle of Fire window. At this point, you will do the following:
@@ -406,6 +411,8 @@ But how do we know which nine GCDs to look at? Well, if we work backwards, we kn
 *Form-to-RoF CD Alignment*
 
 This is when we simply end up in the wrong form as Riddle of Fire comes off of CD. Thankfully, learning how to fix Demolish timers helps to resolve this issue. Odd window alignment can be solved by learning the rules mentioned in the Demolish timer section. If you were, for example, to enter the RoF window from a Raptor GCD, the usual Demolish you'd be waiting for is now the 7th GCD in RoF, meaning that your Blitz will fall out of your RoF window. However, if you were going into this situation aware of the nine GCD Demolish rule you'd be able to identify that you should be building your PB based on the Demolish that is three GCDs before the RoF in order to avoid the Blitz falling out. If there's no further downtime, this sequence is now what will loop on every subsequent odd window. Again even windows effectively fix themselves by merit of being attached to a PB use.
+
+While you can put the effort into learning these various tricks to realigning the loop, I would instead advise you to use the same amount of brainpower and apply effectively the same rules to instead look at learning Optimal Drift.
 
 #### Optimal Drift Rotation
 
@@ -481,6 +488,40 @@ You'll likely have noticed that in this guide I say "if you're able to double we
 As with all 3rd party programs you should not discuss it in-game, and although to my knowledge no one has been banned for its use as of yet, I do want to say **use at your own discretion.**
 You can download it [here](https://github.com/Soreepeong/XivAlexander).
 
+### Triple Blitzing
+
+Triple Blitz windows are reliant on long periods of downtime in order to leverage the 20 second durations of both Perfect Balance + Masterful Blitz in order to charge up a Blitz, then hold it into your next Riddle of Fire where the 40 second cooldown of Perfect Balance will have refreshed, allowing for an additional Blitz in an Even Riddle of Fire window at no cost. This is doable due to the fact that AoE skills will grant a Beast chakra even if they don’t hit a target.
+There are 2 potential different entries to these Extra Blitz windows depending on the rotation you use.
+
+**Optimal Drift** - You will be doing a Triple Blitz Even window starting with no Nadi.
+
+Given that you go into this window with no Nadi, you are provided with options on how you structure this window. Starting with Elixir Field; starting with Rising Phoenix - whatever you pick, the way that you progress within the window will have to be different to accommodate your choice. As for which one to choose - it depends. Demolish usage will be different depending on which you use, either clipping or falling off, resulting in subsequent Demolish uses being in different places following each burst window.  As a result, phase timing can push one option ahead of the other in terms of DPS. Listed are two potential reopener sequences.
+
+![](https://i.imgur.com/l2LUzb7.png)
+
+Following this your rotation is going to have to change to accommodate your new Nadi alignment, as you will be entering even windows with a single Lunar nadi built up. This means all subsequent Even windows become a strange Optimal Drift/Double Solar hybrid, whereby you have to do Rising Phoenix -> Phantom Rush. This is fine initially as you’re doing RoF+BH 1 windows, but when you start to hit RoF+BH 3s it gets awkward. Again though, this is such a specific technique that when using it you should be planning out your entire rotation anyway, and as such will have to come up with your own solutions to the problems you find arising in whatever scenario ends up accommodating Triple Blitzes that follow on from an Optimal Drift start, as there are too many variables to apply a one-size-fits-all solution.
+
+**Double Solar** - You will be doing a Triple Blitz Even window starting with a Lunar Nadi.
+
+As you are beginning with a Nadi already, you are relatively locked in as to how the rest of the window is sequenced.
+
+![](https://i.imgur.com/tEds9B7.png)
+
+This is much simpler than the previous examples, and essentially lets your rotation continue entirely unmolested.
+
+Key things to keep in mind regardless of which route you choose to follow when attempting a Triple Blitz is that it starts quite late relative to other jobs reopeners. As such you might have to modify your burst to better catch your groups timings and to have the ability to place Brotherhood in a better spot for your team. This means potentially doing an early reopener variant, starting on Twin snakes and inverting all following Opo GCDs. 
+Also, due to the specific conditions required to execute a Triple Blitz window it’s going to be incredibly rare that you actually have an opportunity to implement this technique, and given the particular nature of these windows each will likely require some additional fine tuning/planning to account for the specific encounter therein. I cannot stress enough that this is no universal solution to the ways these windows will occur in real encounters, and will require meticulous planning if you want to squeeze out the absolute most potency possible.
+
+### Dragon Kick Spam
+
+Dragon Kick spamming is a way to pull tiny potency gains out of our core rotation at the end of a phase/fight. Assuming that a fight is coming to an end, you aren’t in a burst window, and all of your PB charges are off cooldown, you may be used to timing an SSS as your final GCD and think no more of it than that. However, we can take advantage of the fact that an uncomboed Dragon Kick is higher upfront potency than any of our other 6 core GCDs. We have a priority checklist to keep in mind that determines how long you can spam DK for at the end of a phase;
+
+* Any remaining Leaden Fist procs should be spent on a Bootshine with Form bonus if possible.
+* Disciplined Fist cannot fall off.
+* SSS should be the final GCD.
+
+Once any remaining Leaden Fists are spent and you have enough time left on Disciplined Fist, you can simply press Dragon Kick up until the penultimate GCD of the phase. Sometimes this might result in just getting a single extra DK before using SSS, other times it might mean getting multiple, it depends on where your rotation is at the end of a fight.
+
 ### Brotherhood Chakra Application
 
 ![Ghosting Ranking](/img/jobs/mnk/mnkguide_0013_ghostrank.png "Ghosting Ranking")
@@ -490,6 +531,26 @@ You can download it [here](https://github.com/Soreepeong/XivAlexander).
 These images show the damage application on a number of Monk skills. It's called the "Ghost Ranking" because if you press the button and the boss goes invulnerable in a shorter amount of time than is displayed, the damage will not apply, it will "ghost".
 
 This is relevant to Brotherhood because Brotherhood Chakra are granted upon damage application too. This means that if you have four Chakra opened, Brotherhood on, and you press Demolish, you won't get a Chakra until 1.604 seconds after you've pressed that Demolish. Effectively this means that by the time you do receive your 5th Chakra, it's too late and you have to press your next Opo GCD now, forcing a Chakra overcap.
+
+### Brotherhood: Damage vs Chakra
+
+Brotherhood is split into 2 halves; the 5% damage buff, and the Meditative chakra gain buff. Awkwardly, these two halves function differently to one another. The 5% buff aspect works the same as every other buff in the game; if the buff is active when your action snapshots, the 5% damage up will be applied. This is not the case for Chakra generation, which instead occurs on damage application - for both your actions and the actions of your group. 
+
+What this means practically is that if you were to press the notoriously slow Demolish with 0.1s of Brotherhood left on its duration it will gain the +5% damage, but it will not generate a Chakra. Inversely, if you press Brotherhood then Demolish, it will generate a Chakra but will not have the +5% damage applied.
+
+Generally it is advised to early weave Brotherhood. This is because Brotherhood is an AoE buff, and AoE buffs take around 0.75s to apply to yourself as opposed to single target personal buffs like Riddle of Fire which are instant. What this means is that if you weave Brotherhood late, there is a good chance it won’t apply until after your next action, thereby losing the +5% damage on that GCD. It is worth keeping in mind, however, that even if +5% damage is missed on that GCD, hitting an additional damage application in Brotherhood is now worth 20% of a Forbidden Chakra. On average, this outperforms getting the +5% damage buff on an extra GCD.
+
+At a 1.94 GCD, an early weave Brotherhood leaves roughly 0.7s of Brotherhood duration left after the final GCD you use in Brotherhood. That’s not enough to catch the damage application of anything other than Six-Sided Star, which will not be a particularly common action to be used there. However, a late weave Brotherhood has a whole 1.4s left there, which is enough to catch the damage application of anything but Demolish. This means that late weave Brotherhood generally outperforms early weave Brotherhood now.
+
+You may be feeling confused, upset, or even lied to here, as all of the openers listed in this guide contain an early weave Brotherhood. This is because at the end of the day Brotherhood is a raid buff, and while we can adjust it all we like to the perfect spot for us, the damage we would gain is quickly outweighed by placing Brotherhood in a worse spot for the rest of the party. That being said, the damage application on Demolish is so slow that an early weave Brotherhood will actually still catch the additional Chakra generation; which would be ideal were we able to place Brotherhood before Demolish in our opener. Nonetheless, just because we aren’t able to do the “perfect” Brotherhood in the opener is not the end of the world; there are still avenues open to us to take advantage of this mechanic in actual encounters, where mechanics, kill timings, and composition can allow us certain freedoms with how we place Brotherhood.
+
+With all of this in mind, here are the three possible ways a Brotherhood window can go:
+
+* 8 snapshot, 7 chakra Brotherhood: Happens when you early weave Brotherhood after anything but Demolish. Buffs the damage of the next 8 GCDs, but only has 0.7s duration remaining after the final Brotherhood GCD so it will not get chakra from it unless it’s Six-sided Star (very unlikely).
+* 7 snapshot, 8 chakra Brotherhood: Happens when you late weave Brotherhood and your final Brotherhood GCD is anything but Demolish (pretty likely, you’re generally in the PB window to prepare for using Phantom Rush there and would like to be spamming Dragon Kick and Bootshine), but you miss the damage snapshot of the GCD directly after Brotherhood. Better on average than 8 snapshot, 7 chakra Brotherhood.
+* 8 snapshot, 8 chakra Brotherhood: The king of all Brotherhood windows. Happens when you early weave Brotherhood after Demolish or you perform the legendary Brotherhood “middle weave”, using it just late enough to have time for Brotherhood to apply to yourself (this weave would be just a tiny bit earlier than your standard Riddle of Fire late weave) but leaving as much extra Brotherhood duration as possible to catch the final GCD’s damage application (except if it’s Demolish, but that’s rare). One concern with this is that Dragon Kick takes a whole 1.3s to apply its damage and Dragon Kick is your final GCD pretty frequently. However, this being a possible window to hit has already been tested ingame with a bit below 100ms leeway at 1.94 GCD. 
+
+By the way, you’re at the absolute worst losing around 35 potency by just settling for 7 snapshot, 8 chakra Brotherhood windows every time, not to mention that this is looking at Brotherhood in a vacuum for your own GCDs when there’s a high chance the truly best optimal time to pop it in a high-end optimization context will be relative to where your entire group’s GCDs generally fall each pull. You’ve already lost more time of your life by reading this section than you’ll ever get back in the total time saved killing bosses with perfect Brotherhood play over the entire expansion.
 
 ### Auto-attacks
 
@@ -514,7 +575,7 @@ There has been some questions regarding Double Lunar as a low-level option, but 
 ### FPS Locking
 
 In memoriam.\
-Dead tech killed by the \[REDACTED] plugin.
+Dead tech made redundant by the \[REDACTED] plugin.
 
 - - -
 
