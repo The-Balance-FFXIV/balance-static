@@ -14,7 +14,7 @@ enableRobotsTXT = true
   maxUltimateGearsets = 4
   maxGearsets = 12
   discord = 'discord.gg/thebalanceffxiv'
-  description = 'High-quality job and raid guides for Final Fantasy XIV (FFXIV).'
+  description = 'The Balance provides high-quality job and raid guides for Final Fantasy XIV (FFXIV).'
   copyrightMessage = '© SQUARE ENIX CO., LTD. All Rights Reserved | FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd. | All content © their respective authors | The Balance is a non-profit community-owned website.'
 
 [markup]
