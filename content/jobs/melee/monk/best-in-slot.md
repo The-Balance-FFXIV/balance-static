@@ -9,7 +9,7 @@ changelog:
   - date: 2022-02-04T10:01:08.677Z
     message: Updated for Endwalker
 bis:
-  - type: spreadsheet
+  - type: etro
     description: Recommended to use some form of frame-locking feature in order to
       minimise your RoF drift each minute. Do not use this set if you play at 60
       FPS. Check the FAQs if you want to know why.
@@ -20,20 +20,20 @@ bis:
       DPS behind our other 1.94 set.
     name: (99.995%) 1.94 GCD
     link: https://etro.gg/gearset/6e777a1a-4e8d-4e47-b8f6-547f79687c30
-  - type: spreadsheet
+  - type: etro
     description: "Allows RoF to be used perfectly on cooldown without having to
       slightly drift to accommodate a late-weave, playable even on a Nintendo
       Wii.\r\n"
     name: (99.923%) 1.93 GCD
     link: https://etro.gg/gearset/44bbd5d1-a7a8-49b5-a750-6d54a737dc31
-  - type: spreadsheet
+  - type: etro
     description: Fragmentally worse than the other 1.93 set but doesn't rely on SkS
       food to hit 1.93 GCD.
     name: (99.911%) 1.93 GCD
-    link: https://i.imgur.com/modMsXr.png
-  - type: spreadsheet
+    link: https://etro.gg/gearset/1b147be6-e559-4a40-8a67-930c713e0776
+  - type: gsheets
     description: ""
-    link: https://docs.google.com/document/d/1Qk1miOkniQ3szZJO0H4Si8TqBnoEDLhVuPPPH5z63kc/edit?usp=sharing
+    link: https://docs.google.com/document/d/e/2PACX-1vTr8EtW1PgpwCHIGw5pEq0LD_uLRgtdk6mNJEe2b4LvAMwTpB8KqNjcxLbxsgfIRkesAUCrhkg_ICxN/pub
     name: BIS sets for Ultimate encounters
 authors:
   - Balance-MNK-Staff
