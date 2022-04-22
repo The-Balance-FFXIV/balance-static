@@ -33,7 +33,7 @@ bis:
     link: https://etro.gg/gearset/1b147be6-e559-4a40-8a67-930c713e0776
   - type: gsheets
     description: ""
-    link: https://docs.google.com/document/d/e/2PACX-1vTr8EtW1PgpwCHIGw5pEq0LD_uLRgtdk6mNJEe2b4LvAMwTpB8KqNjcxLbxsgfIRkesAUCrhkg_ICxN/pub
+    link: https://docs.google.com/document/d/e/2PACX-1vR2Wip1bAhnSkMxSEH2m-ZRFIh6YDmMB-AfrrD8PtU1Xovpuz8Ix4N-Mbf9Cd2Md9f81FktdTgFb9fq/pub
     name: BIS sets for Ultimate encounters
 authors:
   - Balance-MNK-Staff
