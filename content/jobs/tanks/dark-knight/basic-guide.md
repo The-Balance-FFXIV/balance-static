@@ -4,13 +4,15 @@ card_header_image: /img/jobs/drk/basic.png
 authors:
   - nikroulah
   - silaqui-amakiir
-patch: "6.05"
+patch: "6.1"
 lastmod: 2021-10-27T17:24:00.336Z
 changelog:
   - date: 2021-10-27T17:33:50.039Z
     message: Added
   - date: 2022-03-15T01:19:29.210Z
     message: (Minor) updates for 6.05
+  - date: 2022-04-22T15:32:55.904Z
+    message: (Preliminary) Updates for 6.1
 ---
 # Introduction to Dark Knight
 
@@ -44,13 +46,13 @@ Goals for DRK openers include:
 
 Best raid buff alignment and a good default choice
 
+![Tentative 6.1 Dark Knight Opener](/img/jobs/drk/drk_6.1_tentative_opener.png "Standard")
 
-
-![Standard Dark Knight Opener](/img/jobs/drk/drk_6.0_standard_opener_v3.png "Standard")
-
-> Text version: Prepull The Blackest Night > Prepull Blood Weapon just before pull > Hard Slash + Edge of Shadow + Delirium > Syphon Strike + Potion > Souleater + Living Shadow + Salted Earth > Hard Slash + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
+> Text version: Prepull Blood Weapon > Prepull The Blackest Night > Provoke (if pulling) > Hard Slash + Edge of Shadow + Delirium > Syphon Strike + Potion > Souleater + Living Shadow + Salted Earth > Hard Slash + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
 
 The potion used is whatever the current tier’s Strength potion is (as of the time of writing, it is the Grade 6 Tincture of Strength HQ).
+
+Provoke should be used if you want to start with aggro, and left out otherwise.
 
 Opener notes:
 
