@@ -15,7 +15,7 @@ bis:
       FPS. Check the FAQs if you want to know why.
     name: (100%) 1.94 GCD
     link: https://etro.gg/gearset/6244cfbb-7712-475d-a98a-a75577e1d164
-  - type: spreadsheet
+  - type: etro
     description: This set is compatible with Samurai's 2.14 set while only being 0.5
       DPS behind our other 1.94 set.
     name: (99.995%) 1.94 GCD
