@@ -3,7 +3,7 @@ title: Machinist Leveling Guide
 card_header_image: /img/jobs/mch/leveling.png
 authors:
   - dook
-patch: "6.0"
+patch: "6.1"
 lastmod: 2022-02-10T04:10:24.500Z
 changelog:
   - date: 2021-10-25T21:55:43.292Z
