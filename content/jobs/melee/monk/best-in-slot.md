@@ -30,7 +30,7 @@ bis:
     description: Fragmentally worse than the other 1.93 set but doesn't rely on SkS
       food to hit 1.93 GCD.
     name: (99.911%) 1.93 GCD
-    link: https://i.imgur.com/modMsXr.png
+    link: https://etro.gg/gearset/1b147be6-e559-4a40-8a67-930c713e0776
   - type: gsheets
     description: ""
     link: https://docs.google.com/document/d/e/2PACX-1vTr8EtW1PgpwCHIGw5pEq0LD_uLRgtdk6mNJEe2b4LvAMwTpB8KqNjcxLbxsgfIRkesAUCrhkg_ICxN/pub
