@@ -90,7 +90,7 @@ Make sure to dump any remaining Pitch Perfect stacks in the last oGCD window, be
 
 To put things together, an example of a two-minute burst sequence could look like this. Note **this is merely an example**, you will not have this exact sequence every time:
 
-[![Bard 2-minute burst](/img/jobs/brd/brd_burst_2.png "Bard 2-minute burst")](/img/jobs/brd/brd_burst_2.png "Bard 2-minute burst")
+![Bard 2-minute burst](/img/jobs/brd/brd_burst_2.png "Bard 2-minute burst")]
 
 ## Proc handling
 

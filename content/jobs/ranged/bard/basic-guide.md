@@ -75,8 +75,6 @@ Bard is a priority-based kit. Both your GCD (global cooldown) skills and oGCD (o
 
 It looks like a lot, but you don't need to absorb all of this at once; it's okay to work things in little by little.
 
-![](https://img.spacergif.org/v1/spacer.gif)
-
 ## GCD Priority
 
 {{< inline >}}
@@ -85,7 +83,7 @@ It looks like a lot, but you don't need to absorb all of this at once; it's okay
 ![Iron Jaws](https://xivapi.com/i/002000/002608_hr1.png)
 {{< /inline >}} 
 
-![](https://img.spacergif.org/v1/spacer.gif)
+&nbsp;
 
 {{< inline >}}
 ![Refulgent Arrow](https://xivapi.com/i/002000/002616_hr1.png)
@@ -93,7 +91,7 @@ It looks like a lot, but you don't need to absorb all of this at once; it's okay
 ![Blast Arrow](https://xivapi.com/i/002000/002621_hr1.png)
 {{< /inline >}}
 
-![](https://img.spacergif.org/v1/spacer.gif)
+&nbsp;
 
 ### 1. Maintain your DoTs.
 
@@ -109,7 +107,7 @@ If your Soul Gauge is full, go ahead and **Apex Arrow**. Otherwise use **Refulge
 
 If none of the above are true, fire off **Burst Shots** until you have something better to do with your GCDs.
 
-![](https://img.spacergif.org/v1/spacer.gif)
+&nbsp;
 
 ## oGCD Priority
 
@@ -119,7 +117,7 @@ If none of the above are true, fire off **Burst Shots** until you have something
 ![Army's Paeon](https://xivapi.com/i/002000/002603_hr1.png)
 {{< /inline >}}
 
-![](https://img.spacergif.org/v1/spacer.gif)
+&nbsp;
 
 {{< inline >}}
 ![Raging Strikes](https://xivapi.com/i/000000/000352_hr1.png)
@@ -127,14 +125,14 @@ If none of the above are true, fire off **Burst Shots** until you have something
 ![Radiant Finale](https://xivapi.com/i/002000/002622_hr1.png)
 {{< /inline >}}
 
-![](https://img.spacergif.org/v1/spacer.gif)
+&nbsp;
 
 {{< inline >}}
 ![Pitch Perfect](https://xivapi.com/i/002000/002611_hr1.png)
 ![Bloodletter](https://xivapi.com/i/000000/000361_hr1.png)
 {{< /inline >}}
 
-![](https://img.spacergif.org/v1/spacer.gif)
+&nbsp;
 
 {{< inline >}}
 ![Empyreal Arrow](https://xivapi.com/i/002000/002606_hr1.png)
@@ -142,7 +140,7 @@ If none of the above are true, fire off **Burst Shots** until you have something
 ![Sidewinder](https://xivapi.com/i/002000/002610_hr1.png)
 {{< /inline >}}
 
-![](https://img.spacergif.org/v1/spacer.gif)
+&nbsp;
 
 ### 1. Always have a song running.
 
@@ -170,7 +168,7 @@ Be careful not to use Barrage if you have a Refulgent Arrow already. Barrage giv
 
 As a charged action **Bloodletter** is generally lower priority, so long as you aren't at risk of capping the charges. 
 
-![](https://img.spacergif.org/v1/spacer.gif)
+&nbsp;
 
 ## Song Cycle
 
@@ -186,7 +184,7 @@ So, you should always have one of your three songs running while in combat. Beca
 |-|-|-|
 |![The Wanderer's Minuet](https://xivapi.com/i/002000/002607_hr1.png)|![Mage's Ballad](https://xivapi.com/i/002000/002602_hr1.png)|![Army's Paeon](https://xivapi.com/i/002000/002603_hr1.png)|
 
-![](https://img.spacergif.org/v1/spacer.gif)
+&nbsp;
 
 **The Wanderer's Minuet** is our strongest song by far, which is why we use it first. 
 
@@ -203,7 +201,7 @@ In terms of song timer, that means leaving each song at 2-3s left, 11-12s left, 
 ![Pitch Perfect](https://xivapi.com/i/002000/002611_hr1.png)
 {{< /inline >}}
 
-![](https://img.spacergif.org/v1/spacer.gif)
+&nbsp;
 
 In WM, procs give you up to three stacks that you spend on **Pitch Perfect**. Try to use PP at three stacks, but two stacks is okay if you're worried about **Empyreal Arrow** + a proc overflowing you.
 
@@ -216,7 +214,7 @@ You have three seconds between proc chances, so you should never need to delay y
 ![Bloodletter](https://xivapi.com/i/000000/000361_hr1.png)
 {{< /inline >}}
 
-![](https://img.spacergif.org/v1/spacer.gif)
+&nbsp;
 
 While in MB, each proc restores half of a charge of **Bloodletter**. BL's normal 15-second cooldown keeps running too, plus you have **Empyreal Arrow** procs. So the charges can fill up faster than you'd think -  but if you keep using BL when able you'll be fine. 
 
@@ -228,13 +226,13 @@ AP makes your GCD and auto-attacks up to 16% faster as you get procs. This can f
 
 Make sure to stay on top of the GCD as its pace accelerates. It's easy to lose damage by being out of rhythm. Also, try not to double weave at full stacks, as that's likely to cut into your next GCD.
 
-![](https://img.spacergif.org/v1/spacer.gif)
+&nbsp;
 
 ## Opener
 
 This should be your go-to for starting a single target fight:
 
-[![Bard Level 90 6.00 Opener](/img/jobs/brd/brd_600_opener.png "Bard Level 90 6.00 Opener")](/img/jobs/brd/brd_600_opener.png)
+![Bard Level 90 6.00 Opener](/img/jobs/brd/brd_600_opener.png "Bard Level 90 6.00 Opener")
   
 Use **Bloodletters** and three stack **Pitch Perfects** as able (they aren't displayed here). 
 
@@ -281,7 +279,7 @@ After the opener, you'll have a large burst window at the start of Wanderer's Mi
 ![Shadowbite](https://xivapi.com/i/002000/002617_hr1.png)
 {{< /inline >}}
 
-![](https://img.spacergif.org/v1/spacer.gif)
+&nbsp;
 
 Bard's AoE core is much like its single target. **Ladonsbite** and **Shadowbite** play the role of **Burst Shot** and **Refulgent Arrow**, respectively. 
 
@@ -299,7 +297,7 @@ Don't be afraid to use your two minute buffs on packs either. But unlike with **
 ![Blast Arrow](https://xivapi.com/i/002000/002621_hr1.png)
 {{< /inline >}}
 
-![](https://img.spacergif.org/v1/spacer.gif)
+&nbsp;
 
 For **Apex Arrow** and **Blast Arrow**, there's normally not much of a difference between using Apex at 80 vs. 100 gauge. You can mostly just use it whenever you want. 
 
@@ -324,7 +322,7 @@ Meanwhile, **Shadowbite** and **Rain of Death** want you to be targeting somethi
 ![Radiant Finale](https://xivapi.com/i/002000/002622_hr1.png)
 {{< /inline >}}
 
-![](https://img.spacergif.org/v1/spacer.gif)
+&nbsp;
 
 **Battle Voice** - One of two party-wide damage buffs. You should try to be using this on cooldown. Most jobs have damage spikes on 120-second timers, so you want to land your buff on those.
 
@@ -376,7 +374,7 @@ Meanwhile, **Shadowbite** and **Rain of Death** want you to be targeting somethi
 ![Foot Graze](https://xivapi.com/i/000000/000842_hr1.png)
 {{< /inline >}}
 
-![](https://img.spacergif.org/v1/spacer.gif)
+&nbsp;
 
 **Leg Graze**, **Foot Graze** - It has been several years since these have been useful in endgame group content. They're handy sometimes in solo-friendly content if you need to kite or run away. That's about it though.
 

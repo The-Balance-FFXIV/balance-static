@@ -471,7 +471,7 @@ If we have a crit buff up, we simply need to adjust the crit rate variable in th
 If we have Reassemble up on a GCD, we simply set the crit rate and DH rates to 100%. Using this information,
 we can calculate exactly how much effective potency we gain by using Reassemble on a tool GCD:
 
-```
+{{< codeblock >}}
 Variables:
 crit rate = 23.1%
 crit multiplier = 1.581
@@ -483,8 +483,7 @@ Drill ePotency = 716p
 
 Reassembled Drill ePotency = 580 * (1 + (crit modifier - 1) * crit rate) * (1 + (0.25 * DH rate))
 Reassembled Drill ePotency = 580 * (1 + (1.581 - 1) * 1) * (1 + (0.25 * 1))
-Reassembled Drill ePotency = 1146p
-```
+Reassembled Drill ePotency = 1146p{{< /codeblock >}}
 
 &nbsp;
 
