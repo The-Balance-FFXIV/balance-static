@@ -26,9 +26,9 @@ White Mage is considered by many people to be the most beginner friendly healer,
 * GCD (Global Cooldown): Spells that share the same base recast time. On WHM, these are anything categorized as “Spell” on the official job guide. This guide will also categorize skills based on whether they’re GCDs or not.
 * Instant (Instant Cast): GCD Spells that do not have a cast bar.
 * oGCD (Off Global Cooldown): Abilities that don’t share the 2.5s base recast time and therefore can be used while GCD spells are on cooldown. These abilities are also explicitly categorized in this guide as such.
-* Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely weave 2 oGCDs after an instant cast GCD, or 1 oGCD after Glare.
-* HoT (Heal over Time)/Regen: Actions that heal the target over a period of time. These actions heal for their listed potency once every 3 seconds.
-* DoT (Damage over Time): Actions that damage the target over a period of time. These actions deal damage for their listed potency once every 3 seconds.
+* Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely weave 2 oGCDs after an instant cast GCD, or one oGCD after Glare.
+* HoT (Heal over Time)/Regen: Actions that heal the target over a period of time. These actions heal for their listed potency once every three seconds.
+* DoT (Damage over Time): Actions that damage the target over a period of time. These actions deal damage for their listed potency once every three seconds.
 * AoE (Area of Effect): Actions that affect every target in a specified area. AoE heals heal all allies in a circle around their source. AoE damage abilities affect all enemies in an area specified by the ability; enemies can perform AoE attacks too.
 
 # Job Gauge: Lilies*
@@ -49,7 +49,7 @@ Healing Lilies allow you the use of Afflatus Solace (Lv. 52) and Afflatus Raptur
 * Consumes one Healing Lily
 * 0 MP cost
 * Instant-cast, so you can weave two oGCDs after each Afflatus spell
-* Grants you one Blood Lily stack(post Lv. 74)
+* Grants you one Blood Lily stack (post-Lvl. 74)
 
 Unlocked at level 74, Blood Lily stacks are generated when you use Afflatus Solace or Afflatus Rapture, up to a maximum of three, which allows you to execute Afflatus Misery, a targeted AoE damaging GCD that costs three Blood Lily stacks. Unlike Healing Lilies, Blood Lily stacks can be charged outside of combat when you use any Afflatus healing spell. However, make sure to not use any Healing Lilies when you have three Blood Lily stacks so you don’t overcap on Blood Lily stacks. Aim to use Afflatus Misery first before starting a new Lily set. 
 
@@ -57,15 +57,15 @@ Unlocked at level 74, Blood Lily stacks are generated when you use Afflatus Sola
 
 ## GCD
 
-**Glare III (“Glare” for simplicity)**
+### **Glare III (“Glare” for simplicity)**
 
 Your standard damage filler spell that you should aim to cast whenever possible, Glare does 310p per cast and has a 1.5s cast time assuming base recast of 2.5s. This allows you to weave one oGCD per hardcasted Glare without clipping your next GCD. At lower levels, “Stone” variants will be your filler spell.
 
-**Dia***
+### **Dia***
 
 An instant cast DoT spell that deals 60p upfront and then ticks for 30s, dealing 60p per tick for a total of 660p if allowed to run its full duration. As this is a gain over your standard Glare filler, this DoT should be maintained on the boss at all times, unless it is about to die in less than 15s. This also applies if the boss is about to disappear, as DoTs don’t tick on untargetable bosses for the vast majority of cases. At lower levels, “Aero” variants will be your DoT spell. 
 
-**Holy III (“Holy” for simplicity)**
+### **Holy III (“Holy” for simplicity)**
 
 An AoE centered on you that damages enemies within 8y by 150p and applies a stun effect. Enemies who are susceptible to the stun effect do build resistance to it, halving its duration with each application until they become temporarily immune to stun. This spell is very strong in dungeons where the cumulative 7s of stun helps mitigate a significant amount of tank damage in trash pulls. In raid scenarios, Holy is rarely used as it requires hitting three enemies to beat a Glare cast, though it can be used in niche optimization scenarios where you precast a Holy to hit the boss right as they come back from an untargetable phase. 
 
