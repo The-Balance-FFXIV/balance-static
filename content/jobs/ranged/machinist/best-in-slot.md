@@ -2,7 +2,7 @@
 title: Machinist Best in Slot (BiS)
 layout: bis
 patch: "6.1"
-lastmod: 2022-01-24T06:22:34.682Z
+lastmod: 2022-04-23T19:03:36.089Z
 changelog:
   - date: 2021-10-25T22:11:04.615Z
     message: Created page
