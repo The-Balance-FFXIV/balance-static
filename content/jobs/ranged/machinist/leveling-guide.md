@@ -3,7 +3,7 @@ title: Machinist Leveling Guide
 card_header_image: /img/jobs/mch/leveling.png
 authors:
   - dook
-patch: "6.0"
+patch: "6.1"
 lastmod: 2022-02-10T04:10:24.500Z
 changelog:
   - date: 2021-10-25T21:55:43.292Z
@@ -49,7 +49,7 @@ For clarity purposes:
 ## Levels 52 - 60
 
 * The Heated Split Shot and Heated Slug Shot upgrades are a potency upgrade with new animations when used, but otherwise they’re the same as their unheated counterparts.
-* Auto-Crossbow is the AoE equivalent of Heat Blast and should be used as long as there are 3 or more enemies.
+* Auto-Crossbow is the AoE equivalent of Heat Blast and should be used as long as there are three or more enemies.
 * Tactician is a mitigative tool that can either be used to reduce damage when the party is about to take damage, or on mob pulls to help the tank in your dungeon take less damage. Use generously and your parties will love you for it.
 * Drill is the big game changer here. From level 58 until level 90, Drill and Reassemble should always be paired together in single-target encounters. 
 
@@ -61,7 +61,7 @@ For clarity purposes:
 
 * The additions to the job in these levels are almost entirely quality of life upgrades or multi-mob actions. Flamethrower should be used on mob packs, as well as Bioblaster so long as the enemies stay alive for the full duration of the DoT it applies. Hot Shot upgrades to Air Anchor, which aside from aesthetics and more potency with a higher priority on usage, it’s the same action as before. Rook becomes Queen Automaton at level 80. It’s still a set-and-forget type pet, she just does a lot more damage now. Try using her in boss fights if possible while in dungeons.
 
-## Level 82 - 83
+## Levels 82 - 83
 
 * Level 82 will give you Scattergun, and until Machinist gets its trait at level 84 that increases our single-target combo actions, Scattergun will be better on two target fights than the main combo. You should still be using Heat Blast with any Heat you have on two.
 
@@ -69,7 +69,7 @@ For clarity purposes:
 
 # Level 70 Rotation Differences
 
-If you’re doing 4.x Ultimate fights, or just syncing down to min-ilvl for fun on old Savage fights, you will notice slight differences in Machinist’s job kit. The overall feel of the job remains the same, so if you’re familiar with level 80 Machinist, the changes will make little to no difference for you. Listed below are the changes, in order of importance:
+If you’re doing 4.x Ultimate fights, or just syncing down to min-iLvl for fun on old Savage fights, you will notice slight differences in Machinist’s job kit. The overall feel of the job remains the same, so if you’re familiar with level 80 Machinist, the changes will make little to no difference for you. Listed below are the changes, in order of importance:
 
 * Gauss Round and Ricochet only hold two charges
 * Air Anchor doesn’t exist; you’re left with Hot Shot
@@ -83,9 +83,9 @@ Hot Shot should still be used on cooldown, even with its lowered potency, but it
 
 For the most part, Rook functions the same as Automaton Queen. Each ability requires a minimum of 50 Battery to use, and should be summoned inside raid buff windows to achieve maximum potential. The biggest differences here are the amount of potency gained per ten Battery and the lack of wind-up animation on Rook. Rook has a maximum potency of 800 potency over a course of 15 seconds. Each Volley Fire accounts for 70 potency, while Overdrive (Rook’s version of Pilebunker) accounts for anywhere from 200 - 400 potency, based on the amount of Battery when summoned. Since Rook has no wind-up animation, you’ll need to summon it a few seconds later than normal to get most of the potency inside buff windows.
 
-The Wildfire change is straightforward. The ability functions identical to how it does at 80 where you want 6 GCDs inside of the damage window. The only difference is each GCD only counts for 150 potency. Lower scaling, but the same priority in the rotation.
+The Wildfire change is straightforward. The ability functions identical to how it does at 80 where you want six GCDs inside of the damage window. The only difference is each GCD only counts for 150 potency. Lower scaling, but the same priority in the rotation.
 
-The absence of Bioblaster does not change much. With the only option being Drill,  it just means there’s no thought process on two-target and three-target encounters. At four targets, Spread Shot becomes a gain over Drill, but this isn’t something you need to worry about in high-end content. Outside of Drill and Hot Shot, Spread Shot now becomes the go-to for the basic 3+ target rotation. Battery is less valued due to Rook doing less damage overall compared to Queen, which directly correlates to the expected damage of Clean Shot and the combo system as a whole.
+The absence of Bioblaster does not change much. With the only option being Drill, it just means there’s no thought process on two-target and three-target encounters. At four targets, Spread Shot becomes a gain over Drill, but this isn’t something you need to worry about in high-end content. Outside of Drill and Hot Shot, Spread Shot now becomes the go-to for the basic 3+ target rotation. Battery is less valued due to Rook doing less damage overall compared to Queen, which directly correlates to the expected damage of Clean Shot and the combo system as a whole.
 
 ![](/img/jobs/mch/mchred.png)
 
@@ -96,7 +96,7 @@ This section will mostly be used if you’re attempting The Epic of Alexander or
 * Reassemble is brought down to one charge. You’ll want to make sure you’re using it as much as possible, mostly on Drill, occasionally on Air Anchor in single target.
 * Chainsaw has been removed from the rotation. Due to this we generate less Battery, but more Heat.
 * Queen Automaton now deals less damage since she’s missing Crowned Collider. This means Battery is worth less damage for the amount used compared to level 90. Crowned Collider missing also means Queen’s damage duration ends sooner and should be taken into account when summoning her.
-* Heat gain in a 2-minute window is slightly higher. After the first usage of Barrel Stabilizer in full uptime situations, you’ll be forced to delay it to after the Hypercharge used for Wildfire or you’ll risk losing Heat that could be used for later Hypercharge windows.
+* Heat gain in a two-minute window is slightly higher. After the first usage of Barrel Stabilizer in full uptime situations, you’ll be forced to delay it to after the Hypercharge used for Wildfire or you’ll risk losing Heat that could be used for later Hypercharge windows.
 
 Bioblaster comes out to about 600 potency at two targets, so while it’s a gain on a normal Drill, Reassembled Drill takes priority with an estimated 1000 potency. 
 
