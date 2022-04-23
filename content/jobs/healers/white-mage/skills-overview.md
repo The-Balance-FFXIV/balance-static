@@ -59,7 +59,7 @@ changelog:
 * You gain Blood Lily charges when using a Lily charge, you need three lily usages to gain a Blood Lily. Misery can only be activated if you have a Blood Lily
 * Three Lilies and a Misery is a DPS gain on two or more targets. Be aware of its small 5y radius and make sure it is hitting two targets.
 * Your priority for Misery should be Movement if you have nothing else > Using it into Putting it into raid buffs > before the fight ends
-* If you have at least one Blood Lily charge, it's a gain to use as many Lillies as you need to get a Blood Lily before the fight ends.
+* If you have at least one Blood Lily charge, it's a gain to use as many Lilies as you need to get a Blood Lily before the fight ends.
 
 ## **oGCD**
 
@@ -83,28 +83,28 @@ changelog:
 
 * Single target heal (500p), 1.5s cast time, 400MP cost
 * Can weave one oGCD after this
-* Once you have Cure II, Cure is only used when you're out of mana and it's your only available heal
+* Once you have Cure II, Cure is only used when you're out of mana and it's your only available heal.
 
 ![Cure II](https://xivapi.com/i/000000/000406_hr1.png)
 
 ### **Cure II**
 
 * Single target heal (800p), 2.0s cast time, 1000MP cost
-* Use in niche scenarios where you need a single target heal, every other single target heal is on cooldown,  and it's too late to use Regen
+* Use in niche scenarios where you need a single target heal, every other single target heal is on cooldown, and it's too late to use Regen.
 
 ![Afflatus Solace](https://xivapi.com/i/002000/002640_hr1.png)
 
 ### **Afflatus Solace**
 
 * Single target heal (800p), instant cast
-* Use in most scenarios over Cure II as Misery can refund some of the lost Glare potency
+* Use in most scenarios over Cure II as Misery can refund some of the lost Glare potency.
 
 ![Regen](https://xivapi.com/i/002000/002628_hr1.png)
 
 ### **Regen**
 
 * Single target strong regen (six ticks of 250p), Total heal: 1,500.
-* Regen has substantially higher total potency than Cure II if you don't need immediate healing
+* Regen has substantially higher total potency than Cure II if you don't need immediate healing.
 * Regen won’t proc Divine Veil
 
 ![Medica](https://xivapi.com/i/000000/000408_hr1.png)
@@ -112,7 +112,7 @@ changelog:
 ### **Medica**
 
 * Aoe heal in a 15y radius around you (400p), 2s cast time
-* Use in niche scenarios where you need extra AoE healing, can't wait for a tick of Medica II, and have no Lillies.
+* Use in niche scenarios where you need extra AoE healing, can't wait for a tick of Medica II, and have no Lilies.
 
 ![Medica II](https://xivapi.com/i/000000/000409_hr1.png)
 
