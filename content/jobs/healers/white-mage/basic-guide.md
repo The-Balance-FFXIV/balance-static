@@ -75,7 +75,7 @@ An instant-cast GCD that deals 1240p damage to the primary target and 620p to en
 
 Afflatus Misery quickly becomes more of a potency gain when downtime and multi-target scenarios are involved. As using Afflatus healing spells during downtime does not cost you any DPS, you should proactively ‘dump’ any available Healing Lilies without overcapping on your Blood Lily stacks so you have an Afflatus Misery at your disposal for when the boss comes back. In multi-target scenarios, if Afflatus Misery can even hit one additional target, it becomes a gain to proactively use Afflatus healing spells beforehand to prepare an Afflatus Misery.
 
-Always aim to finish any partial lily sets before a fight ends, since Afflatus healing spells being potency neutral requires the execution of Afflatus Misery. 
+Always aim to finish any partial Lily sets before a fight ends, since Afflatus healing spells being potency neutral requires the execution of Afflatus Misery. 
 
 ## oGCD
 
@@ -144,7 +144,7 @@ Afflatus Rapture, and Lily spells in general, also fulfill a less obvious role i
 
 ### Single Target Abilities
 
-**Benediction***
+**Benediction**
 
 Heals the target for 100% of their max HP. As this skill is on a lengthy 180s CD, its usage should definitely be planned out in an encounter. Don’t let this powerful single target oGCD simply sit in your kit for ‘emergency scenarios’. In both dungeon pulls and raid scenarios, this can be used as a planned heal to top off the tank after letting them get extremely low from damage. 
 
@@ -162,15 +162,15 @@ Applies a 15% mitigation effect to the target for eight seconds, this stacks wit
 
 ### AoE Abilities
 
-**Asylum***
+**Asylum**
 
-Places an 10y radius ground effect at a designated location. Party members within Asylum will be healed for 100p per tick, for 8 ticks over 24s if standing in Asylum for its full duration. However, ground effects such as Asylum have a special effect where they apply an instant tick upon placement to all party members within range, bringing up the total healing to 9 ticks of 100p each. 
+Places an 10y radius ground effect at a designated location. Party members within Asylum will be healed for 100p per tick, for 8 ticks over 24s if standing in Asylum for its full duration. However, ground effects such as Asylum have a special effect where they apply an instant tick upon placement to all party members within range, bringing up the total healing to nine ticks of 100p each. 
 
 At level 78, Asylum also applies a 10% healing received buff to allies inside its range. This healing buff works on both GCD and oGCDs, including itself, making Asylum ticks 110p for all intents and purposes. However, this healing buff does not apply to the extra tick upon placement, resulting a total Asylum potency of 8  *100*  1.1 + 100 = 980p. 
 
 The high total potency as well as short CD of 90s makes Asylum your best option for partywide healing in a lot of cases, provided that party members can stand in its range for a prolonged time. Even in scenarios where additional healing is required, the healing received buff Asylum provides in addition to its regen can take a lot of pressure off the healing requirements. In dungeons, use this during trash pulls for an additional regen on the tank instead of saving it exclusively for raidwide damage.
 
-Asylum is a placed skill, for tips on making ground placement less janky, see 
+Asylum is a placed skill, for tips on making ground placement less janky, see: 
 
 [Ground Effect Placement](#heading=h.ocwpqov6slrq).
 
@@ -180,7 +180,7 @@ This ability applies a 10s buff called “Confession” to all party members wit
 
 **Temperance**
 
-This ability has two effects. First, it grants you a 20% outgoing healing buff, which only applies to 
+This ability has two effects. First, it grants you a 20% outgoing healing buff, which only applies to:
 
 GCD heals. Secondly, it grants any party member within 30y a 10% mitigation buff. Interestingly enough, this mitigation buff is implemented not as a conventional timed buff, but rather an effect that is regularly refreshed as long as they’re within 30y of you. If someone moves too far away from you, they will lose the mitigation buff after a few seconds, though they will regain it if they come in range again later on. This is rarely a detriment as 30y is a huge range and there are very few cases where party members need to be that far from you for an extended period of time. In addition, the mitigation buff of Temperance also applies instantly due to its unique implementation and does not suffer the standard cascading delay that most buffs in this game are plagued with.
 
@@ -192,7 +192,7 @@ Places a Liturgic Bell (“Bell” for simplicity) at a designated location and 
 
 The Bell’s healing effect procs on all forms of damage to the WHM, be it direct damage dealt by an enemy, a DoT effect from a debuff, or even environmental effects such as stepping into poison puddles. It does not proc if the WHM takes 0 damage due to shields or any other factor. 
 
-While Bell’s total healing potency of 2000p may seem very powerful on the surface, it is fairly rare to get its full effect as it requires five separate damage instances on the WHM within 15s. A portion of that healing is ‘refunded’ as the Bell dissipates, but due to its long cooldown of 3 minutes, you should definitely aim to maximize Bell procs per usage where possible. 
+While Bell’s total healing potency of 2000p may seem very powerful on the surface, it is fairly rare to get its full effect as it requires five separate damage instances on the WHM within 15s. A portion of that healing is ‘refunded’ as the Bell dissipates, but due to its long cooldown of three minutes, you should definitely aim to maximize Bell procs per usage where possible. 
 
 A unique advantage that Bell offers is the ability to place it. The fact that its healing originates from the Bell and not the WHM means that you do not need to worry about your positioning relative to other party members when Bell healing goes off. This is very useful when party members are taking damage but need to spread out to complete a mechanic. The large 20y on Bell’s healing also means that it’ll reach everyone if properly centered, as most circular raid arenas are 20y in radius. 
 
@@ -210,7 +210,7 @@ Bell is a placed skill, for tips on making ground placement less janky, see
 
 **Raise**
 
-Your standard resurrection spell. It has a long cast time and should generally be used with Swiftcast and Thin Air to remove both the cast time and MP cost. Unfortunately, this means you’ll often be forced to clip Swiftcast + Thin Air unless you have an instant cast GCD ready to double weave those two oGCDs .
+Your standard resurrection spell. It has a long cast time and should generally be used with Swiftcast and Thin Air to remove both the cast time and MP cost. Unfortunately, this means you’ll often be forced to clip Swiftcast + Thin Air unless you have an instant cast GCD ready to double weave those two oGCDs.
 
 **Repose** (Role Action)
 
@@ -310,11 +310,11 @@ Sprint also extends how much distance you can cover with slidecasting quite sign
 
 <https://www.youtube.com/watch?v=JNfYQShpXJY>
 
-*Example of slidecasting without sprint, watch how the emote bar lights up each cast*
+*Example of slidecasting without sprint, watch how the emote bar lights up each cast.*
 
 <https://www.youtube.com/watch?v=09Cl4T2kzOY>
 
-*Example of slidecasting with sprint*
+*Example of slidecasting with sprint.*
 
 Prepositioning can also help you get the most out of your slidecasts. For example, if a semi-random mechanic requires you to be in one of two locations depending on the telegraph, you can preposition yourself between the two potential safe spots so you have an easy time reaching either of them. 
 
@@ -348,11 +348,11 @@ Let’s face it - at some point, you are going to run out of HP, whether by your
 
 The most important part of death recovery is choosing a time where you won’t immediately die after. Many new players fall into the trap of instantly taking a raise, instantly trying to heal themselves and then dying to unavoidable damage. The raise buff stays for a long time, so pick a time to raise when you don’t need to immediately do mechanics or heal yourself. 
 
-On top of having a lot of flexibility in choosing your raise timing, you also get a Transcendent buff that lasts for five seconds after you raise, which makes you invulnerable to most attacks in this game *as long as you don’t take any actions. _Moving around, and _receiving* healing from other party members are fine, but actions such as using sprint will end your buff early. Take advantage of this buff if you raise into incoming damage. However, there are several attacks that will pierce this invulnerability, which further emphasizes the importance of picking a good timing to raise. Knockbacks tend to also go through this invulnerability, even if they do not do damage to you. A lot of debuffs, such as Vulnerability Up or Damage Down will also apply through res invulnerability.
+On top of having a lot of flexibility in choosing your raise timing, you also get a Transcendent buff that lasts for five seconds after you raise, which makes you invulnerable to most attacks in this game *as long as you don’t take any actions. Moving around, and receiving* healing from other party members are fine, but actions such as using sprint will end your buff early. Take advantage of this buff if you raise into incoming damage. However, there are several attacks that will pierce this invulnerability, which further emphasizes the importance of picking a good timing to raise. Knockbacks tend to also go through this invulnerability, even if they do not do damage to you. A lot of debuffs, such as Vulnerability Up or Damage Down will also apply through res invulnerability.
 
 ## Stabilize Yourself
 
-As the healer, you are often one of the most important party members that needs to remain alive. Even if the rest of your party dies, you can salvage a near wipe with a well timed healer LB3. Assuming that you’ve chosen a raise timing where you won’t be in immediate danger, you should still ensure that you have enough HP to survive the next onset of unavoidable damage. Oftentimes, any AoE healing that the party needs will cover your own healing requirements, so you may not need to do anything specifically for yourself. If not, your cohealer (in content where this is applicable) can assist you, or you can simply toss a Regen on yourself.
+As the healer, you are often one of the most important party members that needs to remain alive. Even if the rest of your party dies, you can salvage a near wipe with a well timed healer LB3. Assuming that you’ve chosen a raise timing where you won’t be in immediate danger, you should still ensure that you have enough HP to survive the next onset of unavoidable damage. Oftentimes, any AoE healing that the party needs will cover your own healing requirements, so you may not need to do anything specifically for yourself. If not, your co-healer (in content where this is applicable) can assist you, or you can simply toss a Regen on yourself.
 
 Your MP is also an important resource to take care of after death. If Lucid Dreaming is not available, you can use a Super Ether HQ to recover some MP. You lose all accumulated Healing Lilies upon death, significantly limiting your healing options, so make sure you have enough MP for any upcoming heal checks. While we want to avoid not casting anything whenever possible, it may be necessary during post death recovery when limited on MP tools. 
 
@@ -438,7 +438,7 @@ However, as mentioned previously, Afflatus Misery is a pure damage loss in the v
 
 With this in mind, the answer to ‘Does WHM have severe MP issues?’ becomes twofold.
 
-**In progression or non optimal scenarios**, where the expectation is that the WHM will use Afflatus spells for healing, WHM MP is completely fine. You will need to take extra piety for progression as usual, but the same applies to most other healers. Thin Air’s value as an MP sustain tool also rises significantly as it’ll likely be used to cover a hefty Raise cost or a Cure III, and the MP cost of your general damage rotation is mostly compensated for by a combination of Assize and Lily usage. 
+**In progression or non-optimal scenarios**, where the expectation is that the WHM will use Afflatus spells for healing, WHM MP is completely fine. You will need to take extra piety for progression as usual, but the same applies to most other healers. Thin Air’s value as an MP sustain tool also rises significantly as it’ll likely be used to cover a hefty Raise cost or a Cure III, and the MP cost of your general damage rotation is mostly compensated for by a combination of Assize and Lily usage. 
 
 **In optimization scenarios**, WHM MP begins to suffer as you will do two things when moving towards optimization: a) shed piety on your gear as much as possible, and b) reduce all GCD healing, including Afflatus spells. Optimizing your healing to only involve oGCDs significantly worsens WHM’s MP sustain as you now have to spend more time casting MP costing spells. This essentially means that WHM often cannot shed as much piety as the other healers for optimization without inflicting severe, sometimes unrealistic, killtime restrictions to not run out of MP.  
 
@@ -450,15 +450,15 @@ Unless you’re specifically aiming to drop every shred of piety from your gear 
 
 # Gearing and Stats
 
-During the leveling process, you should simply equip higher ilvl gear as you obtain them through dungeons, tome currencies or quest rewards. As gear will be replaced every few levels, do not bother melding materia or optimizing substats. 
+During the leveling process, you should simply equip higher iLvl gear as you obtain them through dungeons, tome currencies or quest rewards. As gear will be replaced every few levels, do not bother melding materia or optimizing substats. 
 
-At level cap, you should generally prefer higher ilvl gear as usual, though the multiple options offered at each ilvl make substats a bigger factor when choosing gear.
+At level cap, you should generally prefer higher iLvl gear as usual, though the multiple options offered at each iLvl make substats a bigger factor when choosing gear.
 
 In general, WHM’s stat priority is:
 
 Magic Damage >>>>> Mind >>> Piety to required levels > Crit > Direct Hit/Determination > Spell Speed
 
-**Magic Damage** (or “Weapon Damage”) is only found on weapons and is your most impactful stat as it factors *significantly* in both healing and damage calculations. **Mind**, your main stat, also affects healing and damage, though to a lesser degree than Magic Damage. Your Mind increases naturally as you upgrade your gear to higher ilvls. 
+**Magic Damage** (or “Weapon Damage”) is only found on weapons and is your most impactful stat as it factors *significantly* in both healing and damage calculations. **Mind**, your main stat, also affects healing and damage, though to a lesser degree than Magic Damage. Your Mind increases naturally as you upgrade your gear to higher iLvls. 
 
  \
 **Piety** affects your natural MP regen in combat which ticks every three seconds. While the substat itself does not provide a direct damage increase, it is critical that we take enough piety to maintain full casting uptime while fulfilling healing requirements. Running out of MP to cast Glares in the middle of a fight is a significant damage loss, and not having enough MP to GCD heal and raise in prog is being an active detriment to your team. “Enough” piety in this case is extremely context- and player skill-dependent, and very much a variable that will change as you get more comfortable with fights. 
