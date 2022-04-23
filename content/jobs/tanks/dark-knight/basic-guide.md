@@ -5,7 +5,7 @@ authors:
   - nikroulah
   - silaqui-amakiir
 patch: "6.1"
-lastmod: 2021-10-27T17:24:00.336Z
+lastmod: 2022-04-23T21:23:19.185Z
 changelog:
   - date: 2021-10-27T17:33:50.039Z
     message: Added
