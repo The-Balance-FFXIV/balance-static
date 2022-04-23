@@ -16,9 +16,9 @@ changelog:
 ---
 # **Basic Monk Guide**
 
-Welcome to the basic guide for Monk, which will cover all of the information necessary to get you off your feet and onto your hands while you kick some voidsent in the face. Included is a look into the various systems that come together to define the Monk playstyle, suggested openers, and explanations on how to correctly form burst windows. If your thirst for knowledge remains unsated once you reach the conclusion of this guide, head on over to the Advanced guide where we will dive further into the depths of forbidden Monk information.
+Welcome to the basic guide for Monk, which will cover all of the information necessary to get you off your feet and onto your hands while you kick some voidsent in the face. Included is a look into the various systems that come together to define the Monk playstyle, suggested openers, and explanations on how to correctly form burst windows. If your thirst for knowledge remains unsated once you reach the conclusion of this guide, head on over to the [Advanced guide](/jobs/melee/monk/advanced-guide/) where we will dive further into the depths of forbidden Monk information.
 
-Throughout this guide I will be referring to all skills as if you were level 90. This is significant if you're still levelling, as some skills start out with a different name and upgrade upon reaching a certain level. The skills affected by this are as follows:
+Throughout this guide I will be referring to all skills as if you were level 90. This is significant if you're still leveling, as some skills start out with a different name and upgrade upon reaching a certain level. The skills affected by this are as follows:
 
 | Initial  Name        | Upgraded Name           |
 | -------------------- | ----------------------- |
@@ -34,7 +34,7 @@ Throughout this guide I will be referring to all skills as if you were level 90.
 
 ### Uptime
 
-As a Monk, uptime should be your top priority. Uptime itself is a multifaceted word; firstly, it refers to how physically close you are to an enemy. You can't punch that which you are far away from, and as such always keep in mind that you want to be as close as possible for as long as possible. Of course, if you have to step away to do a mechanic or dodge an aoe do so, but the mind of a Monk should always be looking to *minimse* the amount of time we spend not-hitting something; whether that's not running so far away to do aforementioned mechanics, or running back to the boss sooner after aoe damage snapshots, it is something to always be working on.
+As a Monk, uptime should be your top priority. Uptime itself is a multifaceted word; firstly, it refers to how physically close you are to an enemy. You can't punch that which you are far away from, and as such always keep in mind that you want to be as close as possible for as long as possible. Of course, if you have to step away to do a mechanic or dodge an aoe do so, but the mind of a Monk should always be looking to *minimize* the amount of time we spend not-hitting something; whether that's not running so far away to do aforementioned mechanics, or running back to the boss sooner after aoe damage snapshots, it is something to always be working on.
 
 Secondly, uptime refers to the amount of time you spend hitting the boss. It's great if you can stay within striking distance of your foe permanently, but if you aren't pressing buttons, you're not doing any damage. Don't fret too much about only wanting to press the "correct" buttons for your rotation; pressing something is better than pressing nothing. You have plenty of time to review mistakes and correct yourself on what you *should've* done after the fact, the key is to make sure you're always doing *something.*
 
@@ -42,7 +42,7 @@ Of course uptime isn't exclusively important to Monk, but it *is* a key aspect t
 
 ### Positionals
 
-It's unlikely that you've made the decision to play Monk while remaining unaware of the P-word, but in case you've not come across it before, a "positional" is a skill that only gains maximum effect when used at a specific part of an enemy's hitbox: in Monk's case, either flank or rear.  Alas, where we once had six positionals, in Endwalker we've been reduced to having simply two:
+It's unlikely that you've made the decision to play Monk while remaining unaware of the P-word, but in case you've not come across it before, a "positional" is a skill that only gains maximum effect when used at a specific part of an enemy's hitbox: in Monk's case, either flank or rear. Alas, where we once had six positionals, in Endwalker we've been reduced to having simply two:
 
 * **Demolish** deals maximum damage when executed from behind an enemy.
 * **Snap Punch**, on the other hand, is best used from an enemy's flank (side).
@@ -51,7 +51,7 @@ Missing either positional is a 60 potency loss, which will add up over a fight. 
 
 ![](https://i.imgur.com/DBLRYTX.png "Combat Dummy - Positional Indicator")
 
-The arrow on the top indicates the target's front. The the 2 arrows either side are another indication of where a target is facing, as well as defining the left and right of a boss. The entire section at the back where the double line ends counts as the "rear", whereas the double lines either side count as the "flank". As such, you are able to stand at the intercardinal of a hitbox and take just a step to the left/right to adjust for your positionals, as opposed to having to run all the way from directly rear to directly left, for example.
+The arrow on the top indicates the target's front. The the two arrows either side are another indication of where a target is facing, as well as defining the left and right of a boss. The entire section at the back where the double line ends counts as the "rear", whereas the double lines either side count as the "flank". As such, you are able to stand at the intercardinal of a hitbox and take just a step to the left/right to adjust for your positionals, as opposed to having to run all the way from directly rear to directly left, for example.
 
 In some instances you will encounter a hitbox that is a completely closed circle. These enemies are omnipositional, meaning you will always get the positional bonus regardless of where you are.
 
@@ -134,7 +134,7 @@ Demolish is our strongest Coeurl form GCD, and given that it's a DoT, we're able
 
 Chakra is the simpler of our two job gauges. Chakra can be stacked up to five times, and once five stacks have been built, we can spend them on either a single target oGCD or an AoE oGCD, depending on the scenario.
 
-"How do we build Chakra PB?" I hear you ask.  We have a number of different ways:
+"How do we build Chakra, PB?" I hear you ask. We have a number of different ways:
 
 |                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
