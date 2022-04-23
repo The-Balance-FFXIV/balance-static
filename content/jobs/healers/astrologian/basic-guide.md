@@ -49,7 +49,7 @@ You can see these resources in the picture below:
 
 &nbsp;
 
-The simplified gauge looks as so:
+The simplified gauge looks like so:
 
 ![](/img/jobs/ast/simple-gauge.png "Simple Gauge")
 
@@ -83,7 +83,7 @@ Additionally, you will execute Minor Arcana every minute, and try to hold Lord o
 
 Use the following graphic to see how your overall card rotation will thus play out:
 
-(This is a huge graphic, so digest it as you can. The timeline at the top is most important)
+(This is a huge graphic, so digest it as you can. The timeline at the top is most important.)
 
 ![](/img/jobs/ast/astrodyne_timeline.png "Astrodyne and card timeline")
 
@@ -112,13 +112,13 @@ If you would like to see a general priority list for which jobs to card, there i
 Important oGCD abilities:
 
 * Macrocosmos: Malefic-power spell that accumulates damage taken **directly to HP\_ \_**(post-mitigation damage; note that shielded damage does not count); upon effect timeout or on early execution through Microcosmos, heals the party for 50% of this accrued damage
-* Earthly Star: Large-radius ability with significant healing and damage. Upgrades both effects after ten seconds
-* Horoscope: small heal that can be buffed upon execution of Helios or Aspected Helios, increasing its potency and time allowed for execution
-* Celestial Opposition: strong raidwide heal with an attached regen
-* Collective Unconscious: strong raidwide regen with attached mitigation
-* Essential Dignity: single target heal that scales with targets missing health, capping out at 30% max HP
-* Neutral Sect: increases healing magic potency (applies to “Helios” and “Benefic”, and their Aspected versions, as well as Benefic II)
-* Exaltation: single target mitigation with a brief heal upon expiration of the buff
+* Earthly Star: Large-radius ability with significant healing and damage. Upgrades both effects after ten seconds.
+* Horoscope: small heal that can be buffed upon execution of Helios or Aspected Helios, increasing its potency and time allowed for execution.
+* Celestial Opposition: strong raidwide heal with an attached regen.
+* Collective Unconscious: strong raidwide regen with attached mitigation.
+* Essential Dignity: single target heal that scales with targets missing health, capping out at 30% max HP.
+* Neutral Sect: increases healing magic potency (applies to “Helios” and “Benefic”, and their Aspected versions, as well as Benefic II).
+* Exaltation: single target mitigation with a brief heal upon expiration of the buff.
 
 # Defensive:
 
@@ -129,7 +129,7 @@ Important oGCD abilities:
 
 Surecast will be your knockback-prevention skill.
 
-Rescue allows you to pull an ally to your side, but due to its long cooldown and slight delay on activation, is relatively hard to use.
+Rescue allows you to pull an ally to your side, but due to its long cooldown and slight delay on activation, it is relatively hard to use.
 
 # Core Concepts
 
