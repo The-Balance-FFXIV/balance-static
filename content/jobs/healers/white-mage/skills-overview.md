@@ -12,9 +12,9 @@ changelog:
 ---
 # **Notable Endwalker Changes**
 
-* Thin Air has two charges but only reduces mana cost on one spell per cast
-* Glare cast time reduced to 1.5s
-* Presence of Mind changes to a 120s cooldown
+* Thin Air has two charges but only reduces mana cost on one spell per cast.
+* Glare cast time reduced to 1.5s.
+* Presence of Mind changes to a 120s cooldown.
 
 # **Damage**
 
