@@ -14,26 +14,11 @@ changelog:
     message: Updated Cursed Knowledge section to bring the guide up to date; added
       Triple Blitz, Brotherhood Damage vs Chakra, and Dragon Kick Spam.
 ---
-# **A Monk Guide by Perfect Balance**
+# **Basic Monk Guide**
 
-## Prelude
+Welcome to the basic guide for Monk, which will cover all of the information necessary to get you off your feet and onto your hands while you kick some voidsent in the face. Included is a look into the various systems that come together to define the Monk playstyle, suggested openers, and explanations on how to correctly form burst windows. If your thirst for knowledge remains unsated once you reach the conclusion of this guide, head on over to the Advanced guide where we will dive further into the depths of forbidden Monk information.
 
-#### Preamble
-
-Well, we're finally here. More than eight years in the making, and Intern-kun has finally decided that enough is enough; he's going to intentionally change Monk gameplay in the 6.0 expansion. It's been a long road -- from a series of accidents birthing TK gameplay, to Anatman encouraging Monks everywhere to equip their Fisher job stones -- but this is the expansion where, in theory, the rotational changes are going to be calculated, deliberate, and above all hold no emergent gameplay value resulting from a severe lack of foresight and/or understanding of how the game works..... Right?
-
-#### Shilling
-
-Allow me to formally welcome you to Monk. Unfortunately for you, due to a lack of suitable candidates, the task of writing the guide for 6.x Monk falls to me, Perfect Balance. Fortunately for you, the ineffable Aya Liz has dedicated a watchful eye to overseeing this project, ensuring at the very least a bare minimum standard of content. All that being said, allow me to capitalize on this captive audience to self-promote, just a teensy bit.
-
-* [Youtube](https://www.youtube.com/c/PerfectBalanceIsntDead/videos) - for Monk related content, be it guides, fight POVs, or optimization tips, I'll be making an effort to post more throughout the duration of 6.x.
-* [Twitch](https://www.twitch.tv/theperfectbalance) - I stream raids during progression/farm, and you can subscribe to me for free with Twitch Prime.
-
-Alright I'm done.  Hopefully that wasn’t too painful.
-
-#### Quick Note About Skill Names
-
-In this guide, I'll be referring to all skills as if you were level 90. This is significant if you're still levelling, as some skills start out with a different name and upgrade upon reaching a certain level. The skills affected by this are as follows:
+Throughout this guide I will be referring to all skills as if you were level 90. This is significant if you're still levelling, as some skills start out with a different name and upgrade upon reaching a certain level. The skills affected by this are as follows:
 
 | Initial  Name        | Upgraded Name           |
 | -------------------- | ----------------------- |
@@ -43,111 +28,17 @@ In this guide, I'll be referring to all skills as if you were level 90. This is 
 | Flint Strike         | Rising Phoenix          |
 | Tornado Kick         | Phantom Rush            |
 
-## Section One: Resources
+- - -
 
-### Best in Slot Gear
-
-Various gearset options can be found on the [Monk Best-in-Slot](/jobs/melee/monk/best-in-slot) page.
-
-### General Melding Priority
-
-General information on melding priority can be found on the [Monk job](/jobs/melee/monk/) page.
-
-### Stat Tiers
-
-Explanations:  [Critical Hit](https://www.akhmorning.com/allagan-studies/stats/crit/#explaining-critical-hit-rate)  |  [Direct Hit](https://www.akhmorning.com/allagan-studies/stats/dh/#explaining-direct-hit)  |  [Determination](https://www.akhmorning.com/allagan-studies/stats/det/#explaining-determination)
-
-| SpS/SkS | GCD  |
-| ------- | ---- |
-| 415     | 1.99 |
-| 474     | 1.98 |
-| 561     | 1.97 |
-| 620     | 1.96 |
-| 707     | 1.95 |
-| 766     | 1.94 |
-| 854     | 1.93 |
-| 912     | 1.92 |
-| 1000    | 1.91 |
-| 1058    | 1.90 |
-| 1146    | 1.89 |
-| 1204    | 1.88 |
-| 1292    | 1.87 |
-| 1350    | 1.86 |
-| 1438    | 1.85 |
-| 1497    | 1.84 |
-| 1584    | 1.83 |
-| 1643    | 1.82 |
-| 1730    | 1.81 |
-| 1789    | 1.80 |
-| 1877    | 1.79 |
-| 1935    | 1.78 |
-| 2023    | 1.77 |
-| 2081    | 1.76 |
-| 2169    | 1.75 |
-| 2227    | 1.74 |
-| 2315    | 1.73 |
-| 2374    | 1.72 |
-| 2461    | 1.71 |
-| 2520    | 1.70 |
-| 2607    | 1.69 |
-| 2666    | 1.68 |
-| 2754    | 1.67 |
-
-&nbsp;
-
-### Useful Plugins
-
-| Plugin                    | Description                                                              | Link / Info                                                                                                                                                                                                                                                                                                                                            |     |     |     |     |     |     |     |     |     |     |     |
-| ------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Triggernometry            | Many triggers we typically use hinge on Triggernometry to function       | [GitHub](https://github.com/paissaheavyindustries/Triggernometry/releases)                                                                                                                                                                                                                                                                             |     |     |     |     |     |     |     |     |     |     |     |
-| Auto-Attack timer         | Displays a bar showing your auto-attack timer                            | [XML Guide](https://cdn.discordapp.com/attachments/166036664341364737/920290186762534932/auto_timer_guide_edition.xml)                                                                                                                                                                                                                                 |     |     |     |     |     |     |     |     |     |     |     |
-| Missed positional trigger | Says "miss" when you miss a positional. (Doesn't require Triggernometry) | Go to Custom Triggers in ACT and import XML.  Change "NAME HERE" to your character's name and copy below to your clipboard: <Trigger R="^A[^ ]* 15:[^:]+:NAME HERE:((38|42|8(CF|D2)|5F3\[EF]|DE\[B24]|64AC|1D3\[9A]):[^:]+:[^:]+:[^:]+:(7|3\[9ADF]|46)|(DEB|58):[^:]+:[^:]+:[^:]+:(36|44))" SD="Miss" ST="3" CR="F" C=" General" T="F" TN="" Ta="F" /> |     |     |     |     |     |     |     |     |     |     |     |
-
-&nbsp;
-
-### Glossary
-
-|          |                                                  |
-| -------- | ------------------------------------------------ |
-| PB       | Perfect Balance                                  |
-| Boot     | Bootshine                                        |
-| DK       | Dragon Kick                                      |
-| TS       | True Strike                                      |
-| Twin/TwS | Twin Snakes                                      |
-| Demo     | Demolish                                         |
-| Snap/SP  | Snap Punch                                       |
-| SotD     | Shadow of the Destroyer                          |
-| FPF      | Four-point Fury                                  |
-| RB       | Rockbreaker                                      |
-| SSS      | Six-sided Star                                   |
-| RoF      | Riddle of Fire                                   |
-| BH       | Brotherhood                                      |
-| ROW      | Riddle of Wind                                   |
-| EF       | Elixir Field                                     |
-| RP       | Rising Phoenix                                   |
-| PR       | Phantom Rush                                     |
-| TFC      | The Forbidden Chakra                             |
-| Opo      | Any GCD with Opo form bonus (Boot, DK, SotD)     |
-| Raptor   | Any GCD With Raptor form bonus (True, Twin, FPF) |
-| Coeurl   | Any GCD with Coeurl form bonus (Demo, Snap, RB)  |
-| Blitz    | Any Masterful Blitz GCD (EF, RP, PR)             |
-| GCD      | Global Cooldown                                  |
-| oGCD     | Off-Global Cooldown                              |
-| DoT      | Damage over Time                                 |
-| AoE      | Area of Effect                                   |
-| BiS      | Best in Slot                                     |
-
-## Section Two: Monk Basics
+## Monk Basics
 
 ### Uptime
 
-"Uptime" is the golden word for melee DPS, the one simple trick FFLogs parsers DON'T want you to know about, and the absolute key to doing good DPS. As someone who has been in the Balance since before it was the Balance (shout-out individual job Discords), I've helped a lot of people to improve over the years, and I am not exaggerating when I tell you that the main reason people do low DPS -- the difference between being green and being purple -- is melee uptime. A lot of people will look at their parse and wonder why it's not as high as they think it should be, then immediately jump to looking at minor, specific elements of the rotation, or blame gear/materia. In reality, the most important part of your parse is your uptime: how often you're hitting the boss. It sounds simple, but ensuring that you are actually hitting the boss for as long as humanly possible is essential to doing good damage. While there are always further fine tweaks you can make when playing at the high-end, no amount of tweaking is ever going to beat the gains of simply "hitting the boss more."
+As a Monk, uptime should be your top priority. Uptime itself is a multifaceted word; firstly, it refers to how physically close you are to an enemy. You can't punch that which you are far away from, and as such always keep in mind that you want to be as close as possible for as long as possible. Of course, if you have to step away to do a mechanic or dodge an aoe do so, but the mind of a Monk should always be looking to *minimse* the amount of time we spend not-hitting something; whether that's not running so far away to do aforementioned mechanics, or running back to the boss sooner after aoe damage snapshots, it is something to always be working on.
 
-Now when I say uptime, I mean it in two different senses of the word. 
+Secondly, uptime refers to the amount of time you spend hitting the boss. It's great if you can stay within striking distance of your foe permanently, but if you aren't pressing buttons, you're not doing any damage. Don't fret too much about only wanting to press the "correct" buttons for your rotation; pressing something is better than pressing nothing. You have plenty of time to review mistakes and correct yourself on what you *should've* done after the fact, the key is to make sure you're always doing *something.*
 
-First and foremost is what you may be thinking of already when you hear the word "uptime," and that's simply making sure you're in melee range as much as possible so you can continue to hit the boss. It's okay to have poor uptime as you're learning a fight, since you won't know the timings on mechanics or the ranges on certain boss AoEs. As time progresses, however, you will start to learn these things, and you want to minimize downtime by only running out barely beyond the danger zone on an AoE so that you can get back in quicker, as well as simply running back in quicker once you know that damage has resolved and the AoE is now gone. This is where most people falter; they "respect" AoEs too much, meaning they run away too far and for too long.
-
-The second piece of uptime is keeping your GCD rolling in general. Some people will choose to prioritize positionals more than rolling their GCDs, and so will stop hitting the boss for a second or so in order to make sure they're in position to continue hitting. This is bad and you shouldn't do this. If you're unable to hit a positional, keep your GCD rolling anyway, as the amount of time wasted waiting for the positional to become available will add up to an incredible amount of potential missed GCDs over a fight, which is far more punishing than simply missing the positional.
+Of course uptime isn't exclusively important to Monk, but it *is* a key aspect to being a *good* Monk, and so it's important to keep these principles in mind as you're learning; after all, as the job with the fastest GCD in the game, each second wasted not casting is comparably more valuable to a Monk than to another job.
 
 ### Positionals
 
@@ -158,6 +49,12 @@ It's unlikely that you've made the decision to play Monk while remaining unaware
 
 Missing either positional is a 60 potency loss, which will add up over a fight. Try to ensure you're never missing any positionals.
 
+![](https://i.imgur.com/DBLRYTX.png "Combat Dummy - Positional Indicator")
+
+The arrow on the top indicates the target's front. The the 2 arrows either side are another indication of where a target is facing, as well as defining the left and right of a boss. The entire section at the back where the double line ends counts as the "rear", whereas the double lines either side count as the "flank". As such, you are able to stand at the intercardinal of a hitbox and take just a step to the left/right to adjust for your positionals, as opposed to having to run all the way from directly rear to directly left, for example.
+
+In some instances you will encounter a hitbox that is a completely closed circle. These enemies are omnipositional, meaning you will always get the positional bonus regardless of where you are.
+
 ### The Form System
 
 Forms are a concept unique to Monk, and are what separates it from standard combo-based melee jobs. Unlike other jobs that simply have combos that trigger each other in a static manner, you can combo any GCD into any other GCD - providing that you're progressing your form forward. Each GCD also gains a bonus effect when used in the correct form, meaning you want to keep your forms advancing forward and not break your combo, else you'll drop your form and your damage will suffer.
@@ -167,6 +64,10 @@ You have three forms: Opo-Opo, Raptor, and Coeurl:
 * In Opo-Opo form, Bootshine, Dragon Kick, and Shadow of the Destroyer gain additional effects. Using an Opo-opo GCD grants you Raptor form.
 * In Raptor form, True Strike, Twin Snakes, and Four-point Fury gain additional effects. Using a Raptor GCD grants you Coeurl form.
 * In Coeurl form, Demolish, Snap Punch, and Rockbreaker gain additional effects. Using a Coeurl GCD grants you Opo-opo form.
+
+
+
+- - -
 
 ### Core GCDs
 
@@ -225,6 +126,10 @@ Endwalker has greatly simplified our AoE options. As you can see, all of our AoE
 
 Demolish is our strongest Coeurl form GCD, and given that it's a DoT, we're able to simply rotate it between targets for maximum DPS in multi-target scenarios. However, because it's a DoT, it relies on ticking fully for max value, and so you should estimate whether or not the DoT will tick for long enough to be worthwhile before applying it.
 
+
+
+- - -
+
 ### Chakra
 
 Chakra is the simpler of our two job gauges. Chakra can be stacked up to five times, and once five stacks have been built, we can spend them on either a single target oGCD or an AoE oGCD, depending on the scenario.
@@ -275,6 +180,10 @@ Celestial Revolution is just bad; we never want to use this skill. This is essen
 
 Phantom Rush. Phantom Rush is our strongest Masterful Blitz, and as such is the skill we're always building toward. As mentioned, Phantom Rush will be executed regardless of your Beast Chakra combination provided you have both Nadi available. In theory then, you'd want to use the 3x Opo-Opo PB window to execute Phantom Rush every time, as that's the highest raw potency.
 
+
+
+- - -
+
 ### Riddle of Fire + Brotherhood
 
 | Icon                                            | Name               | Effect                                                                                                                   | Duration | Cooldown |
@@ -314,23 +223,21 @@ This is the part where I cover everything that's been missed until now. We've co
 | ![](https://xivapi.com/i/000000/000821_hr1.png) | **Second Wind** is an oGCD with a 120s CD. It instantly heals you with a cure potency of 500. Similar to Bloodbath, it's good to keep yourself alive in emergencies.                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ![](https://xivapi.com/i/000000/000824_hr1.png) | **Leg Sweep** is an oGCD stun on a 40s CD. It's generally not ever used, as the few stuns that do pop up across the various encounters in this game are typically covered by a tank. Still, not entirely worthless if no-one else in your group knows/is able to correctly time their stun.                                                                                                                                                                                                                                                                                                                |
 
-## Section Three: Gameplay Choices
+- - -
+
+## Rotational Choices
 
 ### Openers
 
-There are two openers available to us, with each of those openers having an early variation for a grand total of four potential openers. The Lunar Solar opener can be treated as a default opener, as it ensures maximum Phantom Rush usages over an unknown killtime while also allowing us to play the easier, looping variation of Monk. This opener also affords us the opportunity to be flexible with where we place RP in our two minute burst window. This is beneficial, as when doing Double Solar our first PB in the two minute window is a PR, for which we want to follow an EF PB sequence, i.e., 3x Opo GCD spam. This means that in a scenario where you're required to burst immediately following downtime, those Opo PB GCDs would potentially have to be sacrificed in order to refresh Twin Snakes/Demolish. With the flexibility of PR PB sequence in our two minutes, we can accomplish this while losing nothing.
+There are two primary openers available to us, though additional options and variations can be found in the advanced guide. The **Lunar Solar** opener can be treated as a default opener, as it ensures maximum Phantom Rush usages over an unknown killtime. This opener also affords us the opportunity to be flexible with where we place Rising Phoenix in our two minute burst window. This is beneficial, as it allows for greater flexibility of our burst window to account for our current Disciplined Fist/Demolish state. 
 
-The Double Solar opener is something that becomes more worthwhile to switch to when you have a greater understanding of an encounter and its nuances -- primarily, having an estimated killtime that you are reasonably confident you'll achieve. A few reasons you may use this opener would include knowing that you aren't going to lose a PR by doing so, or that it won't have any other adverse effects on your burst windows.
+The **Double Solar** opener is something that only becomes worthwhile to switch to when you have a greater understanding of an encounter and its nuances -- primarily, having an estimated killtime that you are reasonably confident you'll achieve, and the knowledge that that killtime will not lose you a usage of Phantom Rush if you follow a Double Solar opener. 
 
-The early variations may be chosen in situations where a combination of phase length and killtime demands a "suboptimal" use of buffs in order to get the most out of them. This kind of situation may be something like a phase transition that happens midway into your buffs, but if you were to hold them until after the transition it would cause you to lose a usage over the course of the fight. These openers simply get our buffs out quicker, allowing us to leverage slightly more useful active buff time than the standard openers.
-
-Chakra usage in the opener depends on if you are able to double weave without clipping. If you can do so, simply use TFC as soon as it becomes available every time following the first usage. If you cannot do so, then there will be times when you are forced to sit on Chakra stacks for a GCD or two, as although you still want to use it as soon as possible, your priority is using your other oGCDs in the correct places.
+Chakra usage in the opener depends on if you are able to double weave without clipping. If you can do so, simply use TFC as soon as it becomes available every time following the first usage. If you cannot do so, then there will be times when you are forced to sit on Chakra stacks for a GCD or two, as although you still want to use it as soon as possible, your priority is using your buffs in the correct places.
 
 #### Lunar Solar
 
 ![Lunar Solar Opener](/img/jobs/mnk/mnkguide_0000_lunarsolar.png "Lunar Solar Opener")
-
-![Lunar Solar Opener - Rotation Detail](/img/jobs/mnk/mnkguide_0001_lunarsolar_detail.png "Lunar Solar Opener - Rotation Detail")
 
 This opener is effectively the "Guaranteed Max Phantom Rush uses" opener; it starts out by generating both a Lunar and a Solar Nadi and banishing our PR to the land of the one-minute buffs. The opener requires a double weave if you wish to preserve the same Brotherhood timing as the double Solar opener.  If you and your group are fine to delay BH by one GCD, simply move it + Riddle of Wind one oGCD slot down.
 
@@ -338,39 +245,21 @@ This opener is effectively the "Guaranteed Max Phantom Rush uses" opener; it sta
 
 ![Double Solar Opener](/img/jobs/mnk/mnkguide_0002_doublesolar.png "Double Solar Opener")
 
-![Double Solar Opener - Rotation Detail](/img/jobs/mnk/mnkguide_0003_doublesolar_detail.png "Double Solar Opener - Rotation Detail")
+Doing two Rising Phoenix overcaps us on Solar Nadi; that is intentional. This is done for Phantom Rush alignment, as pushing PR into the 2 minute window can be beneficial provided we have an ideal killtime and a party composition with a lot of 2 minute buffs.
 
-Yes, doing two Rising Phoenix overcaps us on Solar Nadi. Yes, that is intentional. This is done for Phantom Rush alignment.
-
-We can't pre-pull PB, but we can pre-pull Form Shift. This means we can start on a Dragon Kick to get our Leaden Fist ready. You might be tempted to start on Twin Snakes to get Disciplined Fist up sooner, but doing so is wasting a Leaden Fist and would only end up skewing Disciplined Fist uptime as it'd fall off mid-burst later.
-
-Our PB window following this sets up a Rising Phoenix while at the same time not wasting any low-value PB GCDs in RoF; only the high value GCDs of Demolish and Bootshine fall inside the buff window.
-
-Following the Rising Phoenix we leverage the free Formless Fist for another Opo GCD, before going into another Rising Phoenix PB window: Bootshine because it's strong, Snap Punch because we have to, and Twin Snakes for the Disciplined Fist refresh before our Blitz.  Following Rising Phoenix we simply begin our normal rotation, rounding out the RoF window with a snapshotted Demolish.
-
-Brotherhood's placement is flexible should it ever need to be moved to account for your party comp, but where it is currently placed is pretty good based on current information.
-
-#### Early Lunar Solar
-
-![Early Lunar Solar Opener](/img/jobs/mnk/mnkguide_0004_earlylunarsolar.png "Early Lunar Solar Opener")
-
-#### Early Double Solar
-
-![Early Lunar Solar Opener - Rotation Detail](/img/jobs/mnk/mnkguide_0005_earlydoublesolar.png "Early Lunar Solar Opener - Rotation Detail")
-
-Both early openers require a pre-pull Tincture.
+Brotherhood's placement is flexible should it ever need to be moved to account for your party composition.
 
 ### Picking Your Path
 
-Monk now has three different primary choices as to how you'd like to play. Available to us are the "braindead looping" rotation, the "optimal drift" rotation, and the "double solar" rotation:
+Monk now has three different primary choices as to how you'd like to play. Available to us are the **braindead looping** rotation, the **optimal drift** rotation, and the **double solar** rotation:
 
-* The braindead looping rotation forces a couple of minor "misplays" in order to form a rotation that naturally loops itself every two minutes, providing a much easier gameplay experience. 
-* The optimal drift rotation consists of more nuanced burst windows, with multiple potential even windows depending on your Coeurl GCD and abilities of future-sight.
-* The double solar rotation follows a set of rules based on Perfect Balance entries around Riddle of Fire windows for higher DPS that relies on stricter conditions to excel.
+* The looping rotation forces a couple of minor "misplays" in order to form a rotation that naturally loops itself every two minutes, providing an easier gameplay experience for first timers. 
+* The optimal drift rotation consists of more nuanced burst windows, with multiple potential even windows depending on which Coeurl GCD happens around a Riddle of Fire.
+* The double solar rotation follows a set of rules based on Perfect Balance entries around Riddle of Fire windows for potentially higher DPS that relies on stricter conditions to excel.
 
 ![Opener Analysis](/img/jobs/mnk/mnkguide_0006_rotations.png "Opener Analysis")
 
-The image above demonstrates the DPS difference between each of the three rotations given an uninterrupted 8:30 sim. As you can see, it's incredibly tight between all three options, and so I'd recommend playing braindead Monk for everything outside of optimised scenarios. Double Solar becomes comparatively stronger the longer an encounter is, provided that it isn't a killtime that results in a PR loss. The more awkward and janky situations a fight contains, the more potential the optimal drift rotation has to gain ground as a result of the aforementioned options for playing the two-minute burst windows differently to account for any strange hoops the fight will force you to jump through.
+The image above demonstrates the DPS difference between each of the 3 rotations given an uninterrupted 8:30 sim. As you can see it’s incredibly tight between all 3 options. I would recommend starting out with the loop to get a feel for the job, progressing on to Optimal Drift if you decide you enjoy it and wish to push the job further. Double Solar is relegated to specific scenarios; it must be a kill time that will not lose you a use of Phantom Rush (6:30, 8:30, etc) and your party composition should contain a reasonable amount of 2 minute raid buffs to really leverage the enhanced 2 minute burst. In 99% of situations you are better using Optimal Drift, however when the stars align Double Solar does get to have its’ time in the sun (all puns intended). Double Solar becomes comparatively stronger than the other options the longer a fight goes (assuming you do not lose a Phantom Rush), and can sometimes gain an edge by allowing you to better use either the targeted AoE or the AoE centered around yourself in order to cleave more targets.
 
 #### Braindead Looping Rotation
 
@@ -412,7 +301,7 @@ But how do we know which nine GCDs to look at? Well, if we work backwards, we kn
 
 This is when we simply end up in the wrong form as Riddle of Fire comes off of CD. Thankfully, learning how to fix Demolish timers helps to resolve this issue. Odd window alignment can be solved by learning the rules mentioned in the Demolish timer section. If you were, for example, to enter the RoF window from a Raptor GCD, the usual Demolish you'd be waiting for is now the 7th GCD in RoF, meaning that your Blitz will fall out of your RoF window. However, if you were going into this situation aware of the nine GCD Demolish rule you'd be able to identify that you should be building your PB based on the Demolish that is three GCDs before the RoF in order to avoid the Blitz falling out. If there's no further downtime, this sequence is now what will loop on every subsequent odd window. Again even windows effectively fix themselves by merit of being attached to a PB use.
 
-While you can put the effort into learning these various tricks to realigning the loop, I would instead advise you to use the same amount of brainpower and apply effectively the same rules to instead look at learning Optimal Drift.
+While you can put the effort into learning these various tricks to realigning the loop, I would instead advise you to use the same amount of brainpower to instead look at learning Optimal Drift, as the rules used to fix the loop are a part of the rules that build the optimal drift rotation.
 
 #### Optimal Drift Rotation
 
@@ -428,35 +317,21 @@ How do we know where to start looking for this Demolish, though? Well, it's the 
 
 Similarly to how we build our odd windows from a Demolish, we also build our even windows from a Coeurl GCD. As opposed to looking across nine GCDs for a Demolish to build from, here we are simply looking across three GCDs for a Coeurl GCD. There is slightly more distinction here than simply Demolish/Snap Punch however. Over nine GCDs, our Coeurl sequence has two Snap Punches between each Demolish, with each Snap Punch being unique and providing a different even window depending on which one we hit. To distinguish between Coeurl GCDs, we're going to break them down into Demo, Snap 1, and Snap 2. 
 
-Similarly again to how you'd build odd windows, working backwards from the end of the RoF window we can see that we are looking at the two GCDs prior to, and one GCD following RoF in order to be able to fit our entire burst into RoF. Now depending on which of your three potential Coeurl GCDs falls into this window, you have three distinct potential burst windows. This can be a little bit hard for some to grasp, so we have a number of different ways to represent how these windows can look in the hopes that at least one of them will work for you.
-
-*Spreadsheet Representation*
-
-![Optimal Drift Rotation - Spreadsheet](/img/jobs/mnk/mnkguide_0009_optimaldrifttable.png "Optimal Drift Rotation - Spreadsheet")
-
-*\*Note: RoF can be coming up at any point within three GCDs of where it's shown in these images.*
-
-*Visual Representation*
-
-![Optimal Drift Rotation - Visual](/img/jobs/mnk/mnkguide_0010_optimaldriftvisual.png "Optimal Drift Rotation - Visual")
-
-*Even Windows Explained*
+Similarly again to how you'd build odd windows, working backwards from the end of the RoF window we can see that we are looking at the two GCDs prior to, and one GCD following RoF in order to be able to fit our entire burst into RoF. Now depending on which of your three potential Coeurl GCDs falls into this window, you have three distinct potential burst windows. This is effectively due to needing to find a natural Demolish refresh mid-Riddle of Fire that doesn't waste any of our free Formless GCDs on anything other than an Opo GCD.
 
 ![Optimal Drift Rotation - Even Windows Explained](/img/jobs/mnk/mnkguide_0011_optimaldrifteven.png "Optimal Drift Rotation - Even Windows Explained")
 
-Here is a [spreadsheet representation](https://docs.google.com/spreadsheets/d/1Ruf5jdBSn9enS3RefS02m3YI-GUBfU0rnsB6sqGcm9c/edit#gid=0) of every possible even window.
-
-The most confusing of these is arguably RoF+BH 2, as Snap 1 would fall into that window, but in order to play it correctly you need to have already used PB.  
+The most confusing of these is arguably RoF+BH 2, as Snap 1 *would* fall into that window, but in order to play it correctly you need to have already used PB.  
 
 The most practical way to actually learn how to do this is check what Coeurl GCD you're hitting between when Riddle of Fire is on cooldown between 21.34 - 15.52, as in nine GCDs you'll be pressing the same Coeurl GCD in the -2/+1 GCD window around RoF that we're looking for. If the Coeurl GCD in this window is Demolish, you'll be doing ROF+BH 3. If it's Snap 1, you're doing ROF+BH2, if it's Snap 2 then you're doing ROF+BH 1.
 
-In full uptime, RoF+BH 3 doesn't occur. To ensure that you're practicing effectively and not just muscle memory-ing the same patterns over and over, randomly insert SSS casts into your dummy rotation to ensure you know the rules well enough to pick the correct windows.
+To ensure that you're practicing effectively and not just muscle memory-ing the same patterns over and over, randomly insert SSS casts into your dummy rotation to ensure you know the rules well enough to pick the correct windows.
 
 If you want to practice this and cross-reference with a log, here is a [raw action sequence list](https://docs.google.com/spreadsheets/d/1dIbpQfFuMO4HpYAinPbM7SgHSzkcLGUI4v_VCyszUCs/edit#gid=0) you can compare against to make sure you're doing it right.
 
 #### Double Solar Rotation
 
-Again, the Double Solar rotation splits itself by odd and even RoF windows. The odd windows follow the exact same rules as the Optimal Drift odd windows, so I'm not going to rewrite them here. The even windows are slightly different however.
+Again, the Double Solar rotation splits itself by odd and even RoF windows. The odd windows follow the exact same rules as the Optimal Drift odd windows, and so I will not rewrite them here. The even windows are slightly different however.
 
 **Even windows**
 
@@ -478,104 +353,6 @@ Once you've succeeded in doing this, the rest of the even window basically plays
 Again, in simple terms what this means is: Always press RoF on cooldown, whether we're at 2:03, 4:03, etc. What we're looking out for here is our Coeurl GCD that is either two GCDs before, or one GCD after RoF. Once we've identified this, we make sure to use a Demolish as that Coeurl GCD, and we always precede it with a Twin Snakes. As I mentioned before, the burst window effectively plays itself from this point as we do our natural Opo GCD before jumping into our back to back PBs.
 
 ![](/img/jobs/mnk/mnkguide_0012_doublesolarrof.png)
-
-## Section Four: Cursed Knowledge
-
-### Double Weaving
-
-You'll likely have noticed that in this guide I say "if you're able to double weave without clipping" a lot. Realistically, you probably can't do this unless you're living right next to the servers. For those of us that don't sleep in a nice warm server room, you can use XIVAlexander to mitigate your problems. XIVAlex works by effectively simulating a low ping environment by removing some animation lock, which should enable double weaving on a worse connection. If your connection is laughably bad, i.e., you're playing on NA from EU, this probably isn't going to be good enough, but if you're playing on the right server and your internet by itself just isn't good enough, this should definitely help.
-
-As with all 3rd party programs you should not discuss it in-game, and although to my knowledge no one has been banned for its use as of yet, I do want to say **use at your own discretion.**
-You can download it [here](https://github.com/Soreepeong/XivAlexander).
-
-### Triple Blitzing
-
-Triple Blitz windows are reliant on long periods of downtime in order to leverage the 20 second durations of both Perfect Balance + Masterful Blitz in order to charge up a Blitz, then hold it into your next Riddle of Fire where the 40 second cooldown of Perfect Balance will have refreshed, allowing for an additional Blitz in an Even Riddle of Fire window at no cost. This is doable due to the fact that AoE skills will grant a Beast chakra even if they don’t hit a target.
-There are 2 potential different entries to these Extra Blitz windows depending on the rotation you use.
-
-**Optimal Drift** - You will be doing a Triple Blitz Even window starting with no Nadi.
-
-Given that you go into this window with no Nadi, you are provided with options on how you structure this window. Starting with Elixir Field; starting with Rising Phoenix - whatever you pick, the way that you progress within the window will have to be different to accommodate your choice. As for which one to choose - it depends. Demolish usage will be different depending on which you use, either clipping or falling off, resulting in subsequent Demolish uses being in different places following each burst window.  As a result, phase timing can push one option ahead of the other in terms of DPS. Listed are two potential reopener sequences.
-
-![](https://i.imgur.com/l2LUzb7.png)
-
-Following this your rotation is going to have to change to accommodate your new Nadi alignment, as you will be entering even windows with a single Lunar nadi built up. This means all subsequent Even windows become a strange Optimal Drift/Double Solar hybrid, whereby you have to do Rising Phoenix -> Phantom Rush. This is fine initially as you’re doing RoF+BH 1 windows, but when you start to hit RoF+BH 3s it gets awkward. Again though, this is such a specific technique that when using it you should be planning out your entire rotation anyway, and as such will have to come up with your own solutions to the problems you find arising in whatever scenario ends up accommodating Triple Blitzes that follow on from an Optimal Drift start, as there are too many variables to apply a one-size-fits-all solution.
-
-**Double Solar** - You will be doing a Triple Blitz Even window starting with a Lunar Nadi.
-
-As you are beginning with a Nadi already, you are relatively locked in as to how the rest of the window is sequenced.
-
-![](https://i.imgur.com/tEds9B7.png)
-
-This is much simpler than the previous examples, and essentially lets your rotation continue entirely unmolested.
-
-Key things to keep in mind regardless of which route you choose to follow when attempting a Triple Blitz is that it starts quite late relative to other jobs reopeners. As such you might have to modify your burst to better catch your groups timings and to have the ability to place Brotherhood in a better spot for your team. This means potentially doing an early reopener variant, starting on Twin snakes and inverting all following Opo GCDs. 
-Also, due to the specific conditions required to execute a Triple Blitz window it’s going to be incredibly rare that you actually have an opportunity to implement this technique, and given the particular nature of these windows each will likely require some additional fine tuning/planning to account for the specific encounter therein. I cannot stress enough that this is no universal solution to the ways these windows will occur in real encounters, and will require meticulous planning if you want to squeeze out the absolute most potency possible.
-
-### Dragon Kick Spam
-
-Dragon Kick spamming is a way to pull tiny potency gains out of our core rotation at the end of a phase/fight. Assuming that a fight is coming to an end, you aren’t in a burst window, and all of your PB charges are off cooldown, you may be used to timing an SSS as your final GCD and think no more of it than that. However, we can take advantage of the fact that an uncomboed Dragon Kick is higher upfront potency than any of our other 6 core GCDs. We have a priority checklist to keep in mind that determines how long you can spam DK for at the end of a phase;
-
-* Any remaining Leaden Fist procs should be spent on a Bootshine with Form bonus if possible.
-* Disciplined Fist cannot fall off.
-* SSS should be the final GCD.
-
-Once any remaining Leaden Fists are spent and you have enough time left on Disciplined Fist, you can simply press Dragon Kick up until the penultimate GCD of the phase. Sometimes this might result in just getting a single extra DK before using SSS, other times it might mean getting multiple, it depends on where your rotation is at the end of a fight.
-
-### Brotherhood Chakra Application
-
-![Ghosting Ranking](/img/jobs/mnk/mnkguide_0013_ghostrank.png "Ghosting Ranking")
-
-![Damage Application](/img/jobs/mnk/mnkguide_0014_damageapp.png "Damage Application")
-
-These images show the damage application on a number of Monk skills. It's called the "Ghost Ranking" because if you press the button and the boss goes invulnerable in a shorter amount of time than is displayed, the damage will not apply, it will "ghost".
-
-This is relevant to Brotherhood because Brotherhood Chakra are granted upon damage application too. This means that if you have four Chakra opened, Brotherhood on, and you press Demolish, you won't get a Chakra until 1.604 seconds after you've pressed that Demolish. Effectively this means that by the time you do receive your 5th Chakra, it's too late and you have to press your next Opo GCD now, forcing a Chakra overcap.
-
-### Brotherhood: Damage vs Chakra
-
-Brotherhood is split into 2 halves; the 5% damage buff, and the Meditative chakra gain buff. Awkwardly, these two halves function differently to one another. The 5% buff aspect works the same as every other buff in the game; if the buff is active when your action snapshots, the 5% damage up will be applied. This is not the case for Chakra generation, which instead occurs on damage application - for both your actions and the actions of your group. 
-
-What this means practically is that if you were to press the notoriously slow Demolish with 0.1s of Brotherhood left on its duration it will gain the +5% damage, but it will not generate a Chakra. Inversely, if you press Brotherhood then Demolish, it will generate a Chakra but will not have the +5% damage applied.
-
-Generally it is advised to early weave Brotherhood. This is because Brotherhood is an AoE buff, and AoE buffs take around 0.75s to apply to yourself as opposed to single target personal buffs like Riddle of Fire which are instant. What this means is that if you weave Brotherhood late, there is a good chance it won’t apply until after your next action, thereby losing the +5% damage on that GCD. It is worth keeping in mind, however, that even if +5% damage is missed on that GCD, hitting an additional damage application in Brotherhood is now worth 20% of a Forbidden Chakra. On average, this outperforms getting the +5% damage buff on an extra GCD.
-
-At a 1.94 GCD, an early weave Brotherhood leaves roughly 0.7s of Brotherhood duration left after the final GCD you use in Brotherhood. That’s not enough to catch the damage application of anything other than Six-Sided Star, which will not be a particularly common action to be used there. However, a late weave Brotherhood has a whole 1.4s left there, which is enough to catch the damage application of anything but Demolish. This means that late weave Brotherhood generally outperforms early weave Brotherhood now.
-
-You may be feeling confused, upset, or even lied to here, as all of the openers listed in this guide contain an early weave Brotherhood. This is because at the end of the day Brotherhood is a raid buff, and while we can adjust it all we like to the perfect spot for us, the damage we would gain is quickly outweighed by placing Brotherhood in a worse spot for the rest of the party. That being said, the damage application on Demolish is so slow that an early weave Brotherhood will actually still catch the additional Chakra generation; which would be ideal were we able to place Brotherhood before Demolish in our opener. Nonetheless, just because we aren’t able to do the “perfect” Brotherhood in the opener is not the end of the world; there are still avenues open to us to take advantage of this mechanic in actual encounters, where mechanics, kill timings, and composition can allow us certain freedoms with how we place Brotherhood.
-
-With all of this in mind, here are the three possible ways a Brotherhood window can go:
-
-* 8 snapshot, 7 chakra Brotherhood: Happens when you early weave Brotherhood after anything but Demolish. Buffs the damage of the next 8 GCDs, but only has 0.7s duration remaining after the final Brotherhood GCD so it will not get chakra from it unless it’s Six-sided Star (very unlikely).
-* 7 snapshot, 8 chakra Brotherhood: Happens when you late weave Brotherhood and your final Brotherhood GCD is anything but Demolish (pretty likely, you’re generally in the PB window to prepare for using Phantom Rush there and would like to be spamming Dragon Kick and Bootshine), but you miss the damage snapshot of the GCD directly after Brotherhood. Better on average than 8 snapshot, 7 chakra Brotherhood.
-* 8 snapshot, 8 chakra Brotherhood: The king of all Brotherhood windows. Happens when you early weave Brotherhood after Demolish or you perform the legendary Brotherhood “middle weave”, using it just late enough to have time for Brotherhood to apply to yourself (this weave would be just a tiny bit earlier than your standard Riddle of Fire late weave) but leaving as much extra Brotherhood duration as possible to catch the final GCD’s damage application (except if it’s Demolish, but that’s rare). One concern with this is that Dragon Kick takes a whole 1.3s to apply its damage and Dragon Kick is your final GCD pretty frequently. However, this being a possible window to hit has already been tested ingame with a bit below 100ms leeway at 1.94 GCD. 
-
-By the way, you’re at the absolute worst losing around 35 potency by just settling for 7 snapshot, 8 chakra Brotherhood windows every time, not to mention that this is looking at Brotherhood in a vacuum for your own GCDs when there’s a high chance the truly best optimal time to pop it in a high-end optimization context will be relative to where your entire group’s GCDs generally fall each pull. You’ve already lost more time of your life by reading this section than you’ll ever get back in the total time saved killing bosses with perfect Brotherhood play over the entire expansion.
-
-### Auto-attacks
-
-We have a very minor optimization available to use through Riddle of Wind, where the placement of RoW between auto-attack swings can gain additional autos overall. Again, this is incredibly minor and you can likely expect less than additional two autos compared to someone who is just pressing RoW on CD, but nevertheless this is an option if you so choose to push Monk to the absolute limit.
-
-![Auto-Attack Usage](/img/jobs/mnk/mnkguide_0015_autos.png "Auto-Attack Usage")
-
-This image from Aya demonstrates in slightly more detail what the auto-attack timer you'll see in-game is. It essentially shows the best and worst times to press RoW. Green is the best, Red is awful, and orange is fine. The closer to green the orange is the better, the further away from green orange is, the worse. It is not worth holding RoW multiple GCDs for more favorable auto-attack timer alignment; this is simply to be used to identify a better injection point in the early/late weave window.
-
-Upon installing the plugin via Triggernometry, it should look something like this:
-
-![Auto-Attack Trigger](/img/jobs/mnk/mnkguide_0016_aatrigger.png "Auto-Attack Trigger")
-
-If you click on the !README and then click Edit, you'll see a "Move me" action. This can be used to move the element wherever you would like on your screen.
-
-### Sub-90 Play
-
-Until some poor soul goes back and dedicates time to 70/80 Ultimate resources, the best generic advice we can give is to just play Lunar Solar opener. Double Solar struggles as Flint Strike is weaker than Rising Phoenix is at Level 90. Lunar Solar also offers greater flexibility in the two minute windows.
-
-There has been some questions regarding Double Lunar as a low-level option, but the way things stand currently, it looks unlikely to ever be the case. Double Lunar has to make too many compromises in both the opener and its two minute windows due to lack of flexibility caused by fitting in so many Opo GCDs, and so probably isn't ever worthwhile.
-
-### FPS Locking
-
-In memoriam.\
-Dead tech made redundant by the \[REDACTED] plugin.
 
 - - -
 
