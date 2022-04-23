@@ -16,13 +16,13 @@ changelog:
 ---
 # Introduction to Dark Knight
 
-## The useless pre-Endwalker guide by nikroulah#1605 (now updated for 6.x)
+## The useless pre-Endwalker guide by nikroulah#1605 (now updated for 6.x).
 
 - - -
 
 # Introduction
 
-Dark Knight (DRK) is one of the four tanks available in Final Fantasy XIV: Shadowbringers. Its rotation features large bursts of damage, accompanied by spikes in actions per minute (APM) and requires managing both MP and a Blood Gauge, putting many hard-hitting attacks into party raid buff windows. It also has access to one of the most powerful single-target mitigation abilities available in The Blackest Night (TBN).
+Dark Knight (DRK) is one of the four tanks available in Final Fantasy XIV: Endwalker. Its rotation features large bursts of damage, accompanied by spikes in actions per minute (APM) and requires managing both MP and a Blood Gauge, putting many hard-hitting attacks into party raid buff windows. It also has access to one of the most powerful single-target mitigation abilities available in The Blackest Night (TBN).
 
 The purpose of this guide is to give an overview of Dark Knight’s abilities and to allow you to hit the ground running when picking up Dark Knight, as well as giving a peek into optimization in high-end content.
 
@@ -30,7 +30,7 @@ The purpose of this guide is to give an overview of Dark Knight’s abilities an
 
 # Skills and Abilities Overview
 
-Skills and abilities can be found on the [this page](https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/skills-overview/)
+Skills and abilities can be found on the [this page.](https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/skills-overview/)
 
 - - -
 
@@ -59,7 +59,7 @@ Opener notes:
 * Blood Weapon is used prepull to ensure that Living Shadow is used as soon as possible. Any later and a hit will get pushed out of raid buffs.
 * The pre-pull TBN is used to prevent MP overcap from the first Hard Slash under Blood Weapon, since if it breaks it refunds the MP cost in the form of a free Edge of Shadow.
 
-  * If the pre-pull TBN will not break, then simply omit it and overcap 600-800 MP before your first Edge of Shadow
+  * If the pre-pull TBN will not break, then simply omit it and overcap 600-800 MP before your first Edge of Shadow.
 * Try to avoid pulling with Unmend, as doing so will delay Living Shadow. If you need to start with aggro, Provoke can be used to pull.
 
 - - -
@@ -141,7 +141,7 @@ FFXIV macros do not queue, so hitting a macro while in animation lock from anoth
 
 <mo> will attempt to target whatever your mouse cursor is currently hovering over when that macro line is reached, whether it be their physical model or a name on your party list.
 
-<2> targets the second player on your party list, which is the other tank by default in 8-man content.
+<2> targets the second player on your party list, which is the other tank by default in eight-player content.
 
 - - -
 
@@ -149,7 +149,7 @@ FFXIV macros do not queue, so hitting a macro while in animation lock from anoth
 
 Before obtaining best-in-slot gear, pick gear and meld according to stat priority on each piece of gear. Best-in-slot sets can be found on the [BiS page](/jobs/tanks/dark-knight/best-in-slot/) or in the Balance discord.
 
-Because of stat tiering, the Tank Gear Calc is the best tool to directly compare specific gear pieces [Linked here.](https://bit.ly/XIV-TANKDPSCALC-EW).
+Because of stat tiering, the Tank Gear Calc is the best tool to directly compare specific gear pieces. [Linked here.](https://bit.ly/XIV-TANKDPSCALC-EW).
 
 **Highest priority**
 
@@ -209,7 +209,7 @@ There are a variety of ways to ensure you pull all of the mobs in a pack quickly
 * Run up to the mobs so they see and run to you and use an AoE combo GCD once they are in range to secure aggro.
 * Tab through the mobs and use Unmend while weaving any damaging oGCDs or Provoke.
 
-Try to position the mobs so that they are in a tight clump: this lets you, your dps, and your healers use their AoE damage more effectively. Pull melee enemies onto ranged enemies so that the ranged enemies are also in the clump. Alternatively, drag mobs around a corner so the ranged enemies are forced to run next to you in order to attack.
+Try to position the mobs so that they are in a tight clump: this lets you, your DPS, and your healers use their AoE damage more effectively. Pull melee enemies onto ranged enemies so that the ranged enemies are also in the clump. Alternatively, drag mobs around a corner so the ranged enemies are forced to run next to you in order to attack.
 
 ## Mitigation
 
