@@ -1,8 +1,8 @@
 ---
 title: Machinist Best in Slot (BiS)
 layout: bis
-patch: "6.05"
-lastmod: 2022-01-24T06:22:34.682Z
+patch: "6.1"
+lastmod: 2022-04-23T19:03:36.089Z
 changelog:
   - date: 2021-10-25T22:11:04.615Z
     message: Created page
@@ -31,7 +31,7 @@ bis:
       to clear.
 
 
-      Due to iLvL syncing, you can achieve the same result with different pieces using the same stat distribution as long as they are above ilvl 470 for UCoB.
+      Due to ilvl syncing, you can achieve the same result with different pieces using the same stat distribution as long as they are above ilvl 470 for UCoB.
     name: UCoB Synced Best in Slot
     link: 1f5046a0-4984-42a5-b343-c5b6061a7630
   - type: etro
@@ -42,7 +42,7 @@ bis:
       to clear.
 
 
-      Due to iLvL syncing, you can achieve the same result with different pieces using the same stat distribution as long as they are above ilvl 500 for UWU.
+      Due to ilvl syncing, you can achieve the same result with different pieces using the same stat distribution as long as they are above ilvl 500 for UWU.
     name: UWU Synced Best in Slot
     link: 0510b8b9-93bd-4c5b-a451-7d0f99d2ea9d
   - type: etro
@@ -53,7 +53,7 @@ bis:
       to clear.
 
 
-      Due to iLvL syncing, you can achieve the same result with different pieces using the same stat distribution as long as they are above iLvL 595 for TEA.
+      Due to ilvl syncing, you can achieve the same result with different pieces using the same stat distribution as long as they are above ilvl 595 for TEA.
     name: TEA Synced Best in Slot
     link: 73df674c-ac05-4001-833d-ca52896fd1d5
 authors:
