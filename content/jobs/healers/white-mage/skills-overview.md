@@ -81,7 +81,7 @@ changelog:
 
 ### **Cure**
 
-* Single target heal (500p), 1.5s cast time, 400MP cost
+* Single target heal (500p), 1.5s cast time, 400 MP cost
 * Can weave one oGCD after this
 * Once you have Cure II, Cure is only used when you're out of mana and it's your only available heal.
 
@@ -89,7 +89,7 @@ changelog:
 
 ### **Cure II**
 
-* Single target heal (800p), 2.0s cast time, 1000MP cost
+* Single target heal (800p), 2.0s cast time, 1000 MP cost
 * Use in niche scenarios where you need a single target heal, every other single target heal is on cooldown, and it's too late to use Regen.
 
 ![Afflatus Solace](https://xivapi.com/i/002000/002640_hr1.png)
