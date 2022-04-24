@@ -68,7 +68,7 @@ RoF holding is exactly what it sounds like; strategically holding your Riddle of
 
 This concept provides the Monk rotation with even further freedom, allowing us a way to safely (depending on killtime) drift our RoF if needed to avoid mechanics/downtime, while simultaneously ensuring that we will not end a fight with RoF on cooldown while having a PB charge available.
 
-The example provided demonstrates two different practical applications of RoF holds in order to leverage more buffed blitzes without losing RoF time. The 2nd example demonstrates how you can avoid having to “re-drift” to realign on the following even window, in cases where your group holds their 2 minute burst effectively allowing for a 2 blitz odd window into a 1 blitz odd window into an even window.
+The example provided demonstrates two different practical applications of RoF holds in order to leverage more buffed blitzes without losing RoF time. The 2nd example demonstrates how you can avoid having to “re-drift” to realign on the following even window, in cases where your group holds their two minute burst effectively allowing for a two blitz odd window into a one blitz odd window into an even window.
 
 ![](https://i.imgur.com/lwgYkRU.png)
 
@@ -77,7 +77,7 @@ Keep in mind that since this is putting an extra blitz into an odd window, it ha
 ## Triple Blitzing
 
 Triple Blitz windows are reliant on long periods of downtime in order to leverage the 20 second durations of both Perfect Balance + Masterful Blitz in order to charge up a Blitz, then hold it into your next Riddle of Fire where the 40 second cooldown of Perfect Balance will have refreshed, allowing for an additional Blitz in an Even Riddle of Fire window at no cost. This is doable due to the fact that AoE skills will grant a Beast chakra even if they don’t hit a target.
-Given the freedom Monk’s rotation allows, and the penchant it has for bending the rules when optimising, there are 4 potential entry states for an extra blitz window depending on your nadi.
+Given the freedom Monk’s rotation allows, and the penchant it has for bending the rules when optimising, there are four potential entry states for an extra blitz window depending on your nadi.
 
 ### 0 Nadi
 
@@ -103,7 +103,7 @@ Much like the single prepped Lunar, having a Nadi already generated leaves us wi
 
 ### 2 Nadi
 
-As with the 0 Nadi triple blitz, this window offers us options. The main difference between the 2 suggested windows here are again, the Demolish timings, where subsequent phase length is going to dictate which option is the better choice.
+As with the 0 Nadi triple blitz, this window offers us options. The main difference between the two suggested windows here are again, the Demolish timings, where subsequent phase length is going to dictate which option is the better choice.
 
 ![](https://i.imgur.com/hb1bnYK.png)
 
