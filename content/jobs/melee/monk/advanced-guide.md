@@ -43,11 +43,11 @@ Generally the only reason for using this opener is going to be if the delayed bl
 
 ## Useful Plugins
 
-| Plugin                    | Description                                                              | Link / Info                                                                                                                                                                                                                                                                                                                                        |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| ------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Triggernometry            | Many triggers we typically use hinge on Triggernometry to function       | [GitHub](https://github.com/paissaheavyindustries/Triggernometry/releases)                                                                                                                                                                                                                                                                         |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Auto-Attack timer         | Displays a bar showing your auto-attack timer                            | [XML Guide](https://cdn.discordapp.com/attachments/166036664341364737/920290186762534932/auto_timer_guide_edition.xml)                                                                                                                                                                                                                             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Missed positional trigger | Says "miss" when you miss a positional. (Doesn't require Triggernometry) | Go to Custom Triggers in ACT and import XML.  Change "NAME HERE" to your character's name and copy below to your clipboard: <Trigger R="^A[^ ]* 15:[^:]+:NAME HERE:((38428(CFD2)5F3\\\[EF]DE\\\[B24]64AC1D3\\\[9A]):[^:]+:[^:]+:[^:]+:(73\\\[9ADF]46)(DEB58):[^:]+:[^:]+:[^:]+:(3644))" SD="Miss" ST="3" CR="F" C=" General" T="F" TN="" Ta="F" /> |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| Plugin                    | Description                                                              | Link / Info                                                                                                                                                                                                                                                                                                                                            |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| ------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Triggernometry            | Many triggers we typically use hinge on Triggernometry to function       | [GitHub](https://github.com/paissaheavyindustries/Triggernometry/releases)                                                                                                                                                                                                                                                                             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| Auto-Attack timer         | Displays a bar showing your auto-attack timer                            | [XML Guide](https://cdn.discordapp.com/attachments/166036664341364737/920290186762534932/auto_timer_guide_edition.xml)                                                                                                                                                                                                                                 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| Missed positional trigger | Says "miss" when you miss a positional. (Doesn't require Triggernometry) | Go to Custom Triggers in ACT and import XML.  Change "NAME HERE" to your character's name and copy below to your clipboard: <Trigger R="^A[^ ]* 15:[^:]+:NAME HERE:((38428(CFD2)5F3\\\\[EF]DE\\\\[B24]64AC1D3\\\\[9A]):[^:]+:[^:]+:[^:]+:(73\\\\[9ADF]46)(DEB58):[^:]+:[^:]+:[^:]+:(3644))" SD="Miss" ST="3" CR="F" C=" General" T="F" TN="" Ta="F" /> |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 
 &nbsp;
 
@@ -62,29 +62,53 @@ You'll likely have noticed that across the basic guide I say "if you're able to 
 As with all 3rd party programs you should not discuss it in-game, and although to my knowledge no one has been banned for its use as of yet, I do want to say **use at your own discretion.**
 You can download it [here](https://github.com/Soreepeong/XivAlexander).
 
+### RoF Holding - Double Blitz
+
+RoF holding is exactly what it sounds like; strategically holding your Riddle of Fire. The general advice for Monk so far has been to keep things strictly on cooldown, both for the sake of reaching maximum potential CD uses while staying in sync with raid buffs. That being said, in an optimised scenario with a pre-planned killtime, we have the option of holding our RoF in order to fit an extra blitz into odd RoF windows. Generally you would hold the odd RoF anywhere from 10-20 seconds depending on where the natural Demolish refresh occurs in order to fit the 2nd blitz into the tail end of RoF. On the following Even window, another delay of a similar duration is required in order to allow both PB charges to cool down again.
+
+This concept provides the Monk rotation with even further freedom, allowing us a way to safely (depending on killtime) drift our RoF if needed to avoid mechanics/downtime, while simultaneously ensuring that we will not end a fight with RoF on cooldown while having a PB charge available.
+
+The example provided demonstrates two different practical applications of RoF holds in order to leverage more buffed blitzes without losing RoF time. The 2nd example demonstrates how you can avoid having to “re-drift” to realign on the following even window, in cases where your group holds their 2 minute burst effectively allowing for a 2 blitz odd window into a 1 blitz odd window into an even window.
+
+![](https://i.imgur.com/lwgYkRU.png)
+
+Keep in mind that since this is putting an extra blitz into an odd window, it has the added effect of pushing your Phantom Rush “back” a window, either knocking you into or out of Double Solar even windows. Generally, you want a double blitz odd window to be Double Lunar; this is because it will set up following Even windows to be Solar - Lunar sequences, allowing for greater freedom of entry than doing a Lunar - Solar sequence where you are forced into doing a Solar sequenced Phantom Rush. That being said, as always everything is fight, comp, and killtime specific, as this kind of optimisation doesn’t have any one solution that is going to be correct 100% of the time; experimentation is key to find what’s right for you.
+
 ### Triple Blitzing
 
 Triple Blitz windows are reliant on long periods of downtime in order to leverage the 20 second durations of both Perfect Balance + Masterful Blitz in order to charge up a Blitz, then hold it into your next Riddle of Fire where the 40 second cooldown of Perfect Balance will have refreshed, allowing for an additional Blitz in an Even Riddle of Fire window at no cost. This is doable due to the fact that AoE skills will grant a Beast chakra even if they don’t hit a target.
-There are two potential different entries to these Extra Blitz windows depending on the rotation you use.
+Given the freedom Monk’s rotation allows, and the penchant it has for bending the rules when optimising, there are 4 potential entry states for an extra blitz window depending on your nadi.
 
-**Optimal Drift** - You will be doing a Triple Blitz Even window starting with no Nadi.
+#### 0 Nadi
 
 Given that you go into this window with no Nadi, you are provided with options on how you structure this window. Starting with Elixir Field; starting with Rising Phoenix - whatever you pick, the way that you progress within the window will have to be different to accommodate your choice. As for which one to choose - it depends. Demolish usage will be different depending on which you use, either clipping or falling off, resulting in subsequent Demolish uses being in different places following each burst window.  As a result, phase timing can push one option ahead of the other in terms of DPS. Listed are two potential reopener sequences.
 
-![](https://i.imgur.com/l2LUzb7.png)
+![](https://i.imgur.com/ikn50Fd.png)
 
 Following this your rotation is going to have to change to accommodate your new Nadi alignment, as you will be entering even windows with a single Lunar nadi built up. This means all subsequent Even windows become a strange Optimal Drift/Double Solar hybrid, whereby you have to do Rising Phoenix -> Phantom Rush. This is fine initially as you’re doing RoF+BH 1 windows, but when you start to hit RoF+BH 3s it gets awkward. Again though, this is such a specific technique that when using it you should be planning out your entire rotation anyway, and as such will have to come up with your own solutions to the problems you find arising in whatever scenario ends up accommodating Triple Blitzes that follow on from an Optimal Drift start, as there are too many variables to apply a one-size-fits-all solution.
 
-**Double Solar** - You will be doing a Triple Blitz Even window starting with a Lunar Nadi.
+#### 1 Nadi: Lunar
 
-As you are beginning with a Nadi already, you are relatively locked in as to how the rest of the window is sequenced.
+As you are beginning with a Nadi already, you are relatively locked in as to how the rest of the window is sequenced. We are able to leverage the freedom afforded to us by Phantom Rush and Rising Phoenix for favourable Twin/Demo reapplications.
 
-![](https://i.imgur.com/tEds9B7.png)
+![](https://i.imgur.com/8AwsAdn.png)
 
 This is much simpler than the previous examples, and essentially lets your rotation continue entirely unmolested.
 
+#### 1 Nadi: Solar
+
+Much like the single prepped Lunar, having a Nadi already generated leaves us without too much room for how to interpret this window.
+
+![](https://i.imgur.com/D2OOOSV.png)
+
+#### 2 Nadi
+
+As with the 0 Nadi triple blitz, this window offers us options. The main difference between the 2 suggested windows here are again, the Demolish timings, where subsequent phase length is going to dictate which option is the better choice.
+
+![](https://i.imgur.com/hb1bnYK.png)
+
 Key things to keep in mind regardless of which route you choose to follow when attempting a Triple Blitz is that it starts quite late relative to other jobs reopeners. As such you might have to modify your burst to better catch your groups timings and to have the ability to place Brotherhood in a better spot for your team. This means potentially doing an early reopener variant, starting on Twin snakes and inverting all following Opo GCDs. 
-Also, due to the specific conditions required to execute a Triple Blitz window it’s going to be incredibly rare that you actually have an opportunity to implement this technique, and given the particular nature of these windows each will likely require some additional fine tuning/planning to account for the specific encounter therein. I cannot stress enough that this is no universal solution to the ways these windows will occur in real encounters, and will require meticulous planning if you want to squeeze out the absolute most potency possible.
+Also, due to the specific conditions required to execute a Triple Blitz window it’s going to be incredibly rare that you actually have an opportunity to implement this technique, and given the particular nature of these windows each will likely require some additional fine tuning/planning to account for the specific encounter therein. There are a myriad of potential tweaks that could be made to better fine tune these burst windows to specific encounters, from adjusting Demolishes to swapping Blitzes around entirely. I cannot stress enough that what is presented here are in no way universal solutions to the ways these windows will occur in real encounters, and they will require meticulous planning if you want to squeeze out the absolute most potency possible.
 
 ### Dragon Kick Spam
 
