@@ -15,23 +15,23 @@ changelog:
 
 - - -
 
-## Opener Variations
+# Opener Variations
 
 The two basic opener choices are not going to work perfectly in every situation. As such, we can modify our openers quite easily in order to better suit our needs.
 
-### Early Openers
+## Early Openers
 
 An early opener is exactly what it sounds like. By skipping past the Opo GCD straight into a Twin Snakes, we are able to get our buffs on cooldown sooner. These openers are generally used in situations where a phase or fight would end while we are still in a buff window in order to squeeze more effective usage out of those buffs. If, for instance, an encounter ends at 6:20 and we are using a standard opener timing, we will only be able to leverage roughly 16 seconds out of Riddle of Fire, and 12 seconds of Brotherhood. By doing an early opener, we would instead be able to get the full usage of both buffs.
 
-#### Early Lunar Solar
+### Early Lunar Solar
 
 ![](https://i.imgur.com/ARMMArp.png "Early Lunar Solar Opener")
 
-#### Early Double Solar
+### Early Double Solar
 
 ![](https://i.imgur.com/bq5YNEX.png "Early Double Solar Opener")
 
-### Double Lunar
+## Double Lunar
 
 It goes without saying, but the Double Lunar opener is *incredibly* fight specific. It's a much slower opener than any of our other options, with Riddle of Fire not being used until after the 4th GCD. Ideally for *us*, Brotherhood would also come out later to better cover our burst, however the slight gains that we would personally get from this do not outweigh the negative effect it would have on our teammates. 
 
@@ -41,28 +41,28 @@ Generally the only reason for using this opener is going to be if the delayed bl
 
 - - -
 
-## Useful Plugins
+# Useful Plugins
 
-| Plugin                    | Description                                                              | Link / Info                                                                                                                                                                                                                                                                                                                                            |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| ------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Triggernometry            | Many triggers we typically use hinge on Triggernometry to function       | [GitHub](https://github.com/paissaheavyindustries/Triggernometry/releases)                                                                                                                                                                                                                                                                             |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Auto-Attack timer         | Displays a bar showing your auto-attack timer                            | [XML Guide](https://cdn.discordapp.com/attachments/166036664341364737/920290186762534932/auto_timer_guide_edition.xml)                                                                                                                                                                                                                                 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Missed positional trigger | Says "miss" when you miss a positional. (Doesn't require Triggernometry) | Go to Custom Triggers in ACT and import XML.  Change "NAME HERE" to your character's name and copy below to your clipboard: <Trigger R="^A[^ ]* 15:[^:]+:NAME HERE:((38428(CFD2)5F3\\\\[EF]DE\\\\[B24]64AC1D3\\\\[9A]):[^:]+:[^:]+:[^:]+:(73\\\\[9ADF]46)(DEB58):[^:]+:[^:]+:[^:]+:(3644))" SD="Miss" ST="3" CR="F" C=" General" T="F" TN="" Ta="F" /> |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| Plugin                    | Description                                                              | Link / Info                                                                                                                                                                                                                                                                                                                                                |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| ------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Triggernometry            | Many triggers we typically use hinge on Triggernometry to function       | [GitHub](https://github.com/paissaheavyindustries/Triggernometry/releases)                                                                                                                                                                                                                                                                                 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| Auto-Attack timer         | Displays a bar showing your auto-attack timer                            | [XML Guide](https://cdn.discordapp.com/attachments/166036664341364737/920290186762534932/auto_timer_guide_edition.xml)                                                                                                                                                                                                                                     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| Missed positional trigger | Says "miss" when you miss a positional. (Doesn't require Triggernometry) | Go to Custom Triggers in ACT and import XML.  Change "NAME HERE" to your character's name and copy below to your clipboard: <Trigger R="^A[^ ]* 15:[^:]+:NAME HERE:((38428(CFD2)5F3\\\\\[EF]DE\\\\\[B24]64AC1D3\\\\\[9A]):[^:]+:[^:]+:[^:]+:(73\\\\\[9ADF]46)(DEB58):[^:]+:[^:]+:[^:]+:(3644))" SD="Miss" ST="3" CR="F" C=" General" T="F" TN="" Ta="F" /> |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 
 &nbsp;
 
 - - -
 
-## Cursed Knowledge
+# Cursed Knowledge
 
-### Double Weaving
+## Double Weaving
 
 You'll likely have noticed that across the basic guide I say "if you're able to double weave without clipping" a lot. Realistically, you probably can't do this unless you're living right next to the servers. For those of us that don't sleep in a nice warm server room, you can use XIVAlexander to mitigate your problems. XIVAlex works by effectively simulating a low ping environment by removing some animation lock, which should enable double weaving on a worse connection. If your connection is laughably bad, i.e., you're playing on NA from EU, this probably isn't going to be good enough, but if you're playing on the right server and your internet by itself just isn't good enough, this should definitely help.
 
 As with all 3rd party programs you should not discuss it in-game, and although to my knowledge no one has been banned for its use as of yet, I do want to say **use at your own discretion.**
 You can download it [here](https://github.com/Soreepeong/XivAlexander).
 
-### RoF Holding - Double Blitz
+## RoF Holding - Double Blitz
 
 RoF holding is exactly what it sounds like; strategically holding your Riddle of Fire. The general advice for Monk so far has been to keep things strictly on cooldown, both for the sake of reaching maximum potential CD uses while staying in sync with raid buffs. That being said, in an optimised scenario with a pre-planned killtime, we have the option of holding our RoF in order to fit an extra blitz into odd RoF windows. Generally you would hold the odd RoF anywhere from 10-20 seconds depending on where the natural Demolish refresh occurs in order to fit the 2nd blitz into the tail end of RoF. On the following Even window, another delay of a similar duration is required in order to allow both PB charges to cool down again.
 
@@ -74,12 +74,12 @@ The example provided demonstrates two different practical applications of RoF ho
 
 Keep in mind that since this is putting an extra blitz into an odd window, it has the added effect of pushing your Phantom Rush “back” a window, either knocking you into or out of Double Solar even windows. Generally, you want a double blitz odd window to be Double Lunar; this is because it will set up following Even windows to be Solar - Lunar sequences, allowing for greater freedom of entry than doing a Lunar - Solar sequence where you are forced into doing a Solar sequenced Phantom Rush. That being said, as always everything is fight, comp, and killtime specific, as this kind of optimisation doesn’t have any one solution that is going to be correct 100% of the time; experimentation is key to find what’s right for you.
 
-### Triple Blitzing
+## Triple Blitzing
 
 Triple Blitz windows are reliant on long periods of downtime in order to leverage the 20 second durations of both Perfect Balance + Masterful Blitz in order to charge up a Blitz, then hold it into your next Riddle of Fire where the 40 second cooldown of Perfect Balance will have refreshed, allowing for an additional Blitz in an Even Riddle of Fire window at no cost. This is doable due to the fact that AoE skills will grant a Beast chakra even if they don’t hit a target.
 Given the freedom Monk’s rotation allows, and the penchant it has for bending the rules when optimising, there are 4 potential entry states for an extra blitz window depending on your nadi.
 
-#### 0 Nadi
+### 0 Nadi
 
 Given that you go into this window with no Nadi, you are provided with options on how you structure this window. Starting with Elixir Field; starting with Rising Phoenix - whatever you pick, the way that you progress within the window will have to be different to accommodate your choice. As for which one to choose - it depends. Demolish usage will be different depending on which you use, either clipping or falling off, resulting in subsequent Demolish uses being in different places following each burst window.  As a result, phase timing can push one option ahead of the other in terms of DPS. Listed are two potential reopener sequences.
 
@@ -87,7 +87,7 @@ Given that you go into this window with no Nadi, you are provided with options o
 
 Following this your rotation is going to have to change to accommodate your new Nadi alignment, as you will be entering even windows with a single Lunar nadi built up. This means all subsequent Even windows become a strange Optimal Drift/Double Solar hybrid, whereby you have to do Rising Phoenix -> Phantom Rush. This is fine initially as you’re doing RoF+BH 1 windows, but when you start to hit RoF+BH 3s it gets awkward. Again though, this is such a specific technique that when using it you should be planning out your entire rotation anyway, and as such will have to come up with your own solutions to the problems you find arising in whatever scenario ends up accommodating Triple Blitzes that follow on from an Optimal Drift start, as there are too many variables to apply a one-size-fits-all solution.
 
-#### 1 Nadi: Lunar
+### 1 Nadi: Lunar
 
 As you are beginning with a Nadi already, you are relatively locked in as to how the rest of the window is sequenced. We are able to leverage the freedom afforded to us by Phantom Rush and Rising Phoenix for favourable Twin/Demo reapplications.
 
@@ -95,13 +95,13 @@ As you are beginning with a Nadi already, you are relatively locked in as to how
 
 This is much simpler than the previous examples, and essentially lets your rotation continue entirely unmolested.
 
-#### 1 Nadi: Solar
+### 1 Nadi: Solar
 
 Much like the single prepped Lunar, having a Nadi already generated leaves us without too much room for how to interpret this window.
 
 ![](https://i.imgur.com/D2OOOSV.png)
 
-#### 2 Nadi
+### 2 Nadi
 
 As with the 0 Nadi triple blitz, this window offers us options. The main difference between the 2 suggested windows here are again, the Demolish timings, where subsequent phase length is going to dictate which option is the better choice.
 
@@ -110,7 +110,7 @@ As with the 0 Nadi triple blitz, this window offers us options. The main differe
 Key things to keep in mind regardless of which route you choose to follow when attempting a Triple Blitz is that it starts quite late relative to other jobs reopeners. As such you might have to modify your burst to better catch your groups timings and to have the ability to place Brotherhood in a better spot for your team. This means potentially doing an early reopener variant, starting on Twin snakes and inverting all following Opo GCDs. 
 Also, due to the specific conditions required to execute a Triple Blitz window it’s going to be incredibly rare that you actually have an opportunity to implement this technique, and given the particular nature of these windows each will likely require some additional fine tuning/planning to account for the specific encounter therein. There are a myriad of potential tweaks that could be made to better fine tune these burst windows to specific encounters, from adjusting Demolishes to swapping Blitzes around entirely. I cannot stress enough that what is presented here are in no way universal solutions to the ways these windows will occur in real encounters, and they will require meticulous planning if you want to squeeze out the absolute most potency possible.
 
-### Dragon Kick Spam
+## Dragon Kick Spam
 
 Dragon Kick spamming is a way to pull tiny potency gains out of our core rotation at the end of a phase/fight. Assuming that a fight is coming to an end, you aren’t in a burst window, and all of your PB charges are off cooldown, you may be used to timing an SSS as your final GCD and think no more of it than that. However, we can take advantage of the fact that an uncomboed Dragon Kick is higher upfront potency than any of our other six core GCDs. We have a priority checklist to keep in mind that determines how long you can spam DK for at the end of a phase:
 
@@ -122,7 +122,7 @@ Once any remaining Leaden Fists are spent and you have enough time left on Disci
 
 At the other end of the spectrum, once you understand and can apply this to the *end* of a fight, you can look back to to the opener and use it at the *beginning* of a fight too. Assuming you have mapped out every GCD of a phase and know that the phase/fight will end with filler GCDs, you can replace all of the filler following your opener while your potion is still active with Dragon Kicks. This is the exact same principle as above, but requires a perfectly mapped fight in order to squeeze even more miniscule potency amounts out of your opener tincture.
 
-### Brotherhood Chakra Application
+## Brotherhood Chakra Application
 
 ![Ghosting Ranking](/img/jobs/mnk/mnkguide_0013_ghostrank.png "Ghosting Ranking")
 
@@ -132,7 +132,7 @@ These images show the damage application on a number of Monk skills. It's called
 
 This is relevant to Brotherhood because Brotherhood Chakra are granted upon damage application too. This means that if you have four Chakra opened, Brotherhood on, and you press Demolish, you won't get a Chakra until 1.604 seconds after you've pressed that Demolish. Effectively this means that by the time you do receive your 5th Chakra, it's too late and you have to press your next Opo GCD now, forcing a Chakra overcap.
 
-### Brotherhood: Damage vs Chakra
+## Brotherhood: Damage vs Chakra
 
 Brotherhood is split into two halves; the 5% damage buff, and the Meditative chakra gain buff. Awkwardly, these two halves function differently to one another. The 5% buff aspect works the same as every other buff in the game; if the buff is active when your action snapshots, the 5% damage up will be applied. This is not the case for Chakra generation, which instead occurs on damage application - for both your actions and the actions of your group. 
 
@@ -152,7 +152,7 @@ With all of this in mind, here are the three possible ways a Brotherhood window 
 
 By the way, you’re at the absolute worst losing around 35 potency by just settling for seven snapshot, eight chakra Brotherhood windows every time, not to mention that this is looking at Brotherhood in a vacuum for your own GCDs when there’s a high chance the truly best optimal time to pop it in a high-end optimization context will be relative to where your entire group’s GCDs generally fall each pull. You’ve already lost more time of your life by reading this section than you’ll ever get back in the total time saved killing bosses with perfect Brotherhood play over the entire expansion.
 
-### Auto-attacks
+## Auto-attacks
 
 We have a very minor optimization available to use through Riddle of Wind, where the placement of RoW between auto-attack swings can gain additional autos overall. Again, this is incredibly minor and you can likely expect less than additional two autos compared to someone who is just pressing RoW on CD, but nevertheless this is an option if you so choose to push Monk to the absolute limit.
 
@@ -166,13 +166,13 @@ Upon installing the plugin via Triggernometry, it should look something like thi
 
 If you click on the !README and then click Edit, you'll see a "Move me" action. This can be used to move the element wherever you would like on your screen.
 
-### Sub-90 Play
+## Sub-90 Play
 
 Until some poor soul goes back and dedicates time to 70/80 Ultimate resources, the best generic advice we can give is to just play Lunar Solar opener. Double Solar struggles as Flint Strike is weaker than Rising Phoenix is at Level 90. Lunar Solar also offers greater flexibility in the two minute windows.
 
 There have been some questions regarding Double Lunar as a low-level option, but the way things stand currently, it looks unlikely to ever be the case. Double Lunar has to make too many compromises in both the opener and its two minute windows due to lack of flexibility caused by fitting in so many Opo GCDs, and so probably isn't ever worthwhile.
 
-### FPS Locking
+## FPS Locking
 
 In memoriam.\
 Dead tech made redundant by the \[REDACTED] plugin.
