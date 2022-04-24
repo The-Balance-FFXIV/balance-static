@@ -4,7 +4,7 @@ card_header_image: /img/jobs/mnk/advanced.png
 authors:
   - Perfect-Balance
 patch: "6.1"
-lastmod: 2021-11-15T21:07:21.818Z
+lastmod: 2022-04-24T21:05:02.073Z
 changelog:
   - date: 2021-11-15T21:07:56.881Z
     message: Added page
