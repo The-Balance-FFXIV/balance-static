@@ -30,9 +30,9 @@ Throughout this guide I will be referring to all skills as if you were level 90.
 
 - - -
 
-## Monk Basics
+# Monk Basics
 
-### Uptime
+## Uptime
 
 As a Monk, uptime should be your top priority. Uptime itself is a multifaceted word; firstly, it refers to how physically close you are to an enemy. You can't punch that which you are far away from, and as such always keep in mind that you want to be as close as possible for as long as possible. Of course, if you have to step away to do a mechanic or dodge an aoe do so, but the mind of a Monk should always be looking to *minimize* the amount of time we spend not-hitting something; whether that's not running so far away to do aforementioned mechanics, or running back to the boss sooner after aoe damage snapshots, it is something to always be working on.
 
@@ -40,7 +40,7 @@ Secondly, uptime refers to the amount of time you spend hitting the boss. It's g
 
 Of course uptime isn't exclusively important to Monk, but it *is* a key aspect to being a *good* Monk, and so it's important to keep these principles in mind as you're learning; after all, as the job with the fastest GCD in the game, each second wasted not casting is comparably more valuable to a Monk than to another job.
 
-### Positionals
+## Positionals
 
 It's unlikely that you've made the decision to play Monk while remaining unaware of the P-word, but in case you've not come across it before, a "positional" is a skill that only gains maximum effect when used at a specific part of an enemy's hitbox: in Monk's case, either flank or rear. Alas, where we once had six positionals, in Endwalker we've been reduced to having simply two:
 
@@ -55,7 +55,7 @@ The arrow on the top indicates the target's front. The the two arrows either sid
 
 In some instances you will encounter a hitbox that is a completely closed circle. These enemies are omnipositional, meaning you will always get the positional bonus regardless of where you are.
 
-### The Form System
+## The Form System
 
 Forms are a concept unique to Monk, and are what separates it from standard combo-based melee jobs. Unlike other jobs that simply have combos that trigger each other in a static manner, you can combo any GCD into any other GCD - providing that you're progressing your form forward. Each GCD also gains a bonus effect when used in the correct form, meaning you want to keep your forms advancing forward and not break your combo, else you'll drop your form and your damage will suffer.
 
@@ -65,11 +65,9 @@ You have three forms: Opo-Opo, Raptor, and Coeurl:
 * In Raptor form, True Strike, Twin Snakes, and Four-point Fury gain additional effects. Using a Raptor GCD grants you Coeurl form.
 * In Coeurl form, Demolish, Snap Punch, and Rockbreaker gain additional effects. Using a Coeurl GCD grants you Opo-opo form.
 
-
-
 - - -
 
-### Core GCDs
+## Core GCDs
 
 As previously mentioned, Monk has six core single-target GCDs.
 
@@ -85,7 +83,7 @@ As previously mentioned, Monk has six core single-target GCDs.
 
 &nbsp;
 
-### Basic Rotation in a Vacuum
+## Basic Rotation in a Vacuum
 
 With the knowledge of these GCDs, we can actually already begin to build what will be the foundation of our rotation. Now, we know that we're going to be doing a three-step combo, but that we have two options for GCDs at each step; how do we decide which one to press?
 
@@ -101,7 +99,7 @@ At first glance this might seem confusing, and you may feel like you're constant
 
 After doing this enough times, it will become pure muscle memory.
 
-### AoE Rotation
+## AoE Rotation
 
 Our AoE rotation is quite simple. As opposed to other jobs that will have an entirely different combo for AoE, we simply have an AoE option for each of our forms.
 
@@ -126,11 +124,9 @@ Endwalker has greatly simplified our AoE options. As you can see, all of our AoE
 
 Demolish is our strongest Coeurl form GCD, and given that it's a DoT, we're able to simply rotate it between targets for maximum DPS in multi-target scenarios. However, because it's a DoT, it relies on ticking fully for max value, and so you should estimate whether or not the DoT will tick for long enough to be worthwhile before applying it.
 
-
-
 - - -
 
-### Chakra
+## Chakra
 
 Chakra is the simpler of our two job gauges. Chakra can be stacked up to five times, and once five stacks have been built, we can spend them on either a single target oGCD or an AoE oGCD, depending on the scenario.
 
@@ -155,7 +151,7 @@ We can spend our Chakra on either of the following two oGCDs:
 
 &nbsp;
 
-### Beast Chakra - How They Work
+## Beast Chakra - How They Work
 
 Beast Chakra is new in Endwalker, and hinges around the changes to Perfect Balance (the skill, not me).
 
@@ -180,11 +176,9 @@ Celestial Revolution is just bad; we never want to use this skill. This is essen
 
 Phantom Rush. Phantom Rush is our strongest Masterful Blitz, and as such is the skill we're always building toward. As mentioned, Phantom Rush will be executed regardless of your Beast Chakra combination provided you have both Nadi available. In theory then, you'd want to use the 3x Opo-Opo PB window to execute Phantom Rush every time, as that's the highest raw potency.
 
-
-
 - - -
 
-### Riddle of Fire + Brotherhood
+## Riddle of Fire + Brotherhood
 
 | Icon                                            | Name               | Effect                                                                                                                   | Duration | Cooldown |
 | ----------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------ | -------- | -------- |
@@ -197,7 +191,7 @@ On the face of it, Riddle of Fire and Brotherhood are pretty simple skills. We p
 
 Some terminology I would like to introduce before we get deeper into the guide is the idea of odd and even Riddle of Fire windows. The "odd" window occurs on odd minutes (one, three, five, etc.), and consists solely of Riddle of Fire. The "even" window occurs on even minutes (two, four, six, etc), and contains both Riddle of Fire and Brotherhood. 
 
-### Riddle of Wind
+## Riddle of Wind
 
 Functionally, you can think of Riddle of Wind as a DoT, or as a damaging oGCD. Given that it has a 90s CD, it's sometimes going to fall out of buffs; this is okay. In a vacuum, you just press Riddle of Wind on CD forever, getting the maximum amount of uses while every other usage misaligns itself from your buffs. In a real scenario, such as an encounter where you have a specific killtime/phase time in mind, you can afford to hold it into buffs when you know you aren't going to lose a usage by doing so.
 
@@ -205,7 +199,7 @@ I'll give an example of a six minute encounter. Over the course of six minutes, 
 
 What you could instead do is pop it at 0:00, 2:00, 3:30, 5:00. Here you get one use in your even RoF, as well as another usage at 5:00 in an odd RoF.
 
-### Utility and Misc. Skills
+## Utility and Misc. Skills
 
 This is the part where I cover everything that's been missed until now. We've covered everything you'd need to know in a dummy scenario, so now let's take a quick tour of the toolkit that we find ourselves using as soon as we leave the dummy and get into a real encounter.
 
@@ -225,9 +219,9 @@ This is the part where I cover everything that's been missed until now. We've co
 
 - - -
 
-## Rotational Choices
+# Rotational Choices
 
-### Openers
+## Openers
 
 There are two primary openers available to us, though additional options and variations can be found in the advanced guide. The **Lunar Solar** opener can be treated as a default opener, as it ensures maximum Phantom Rush usages over an unknown killtime. This opener also affords us the opportunity to be flexible with where we place Rising Phoenix in our two minute burst window. This is beneficial, as it allows for greater flexibility of our burst window to account for our current Disciplined Fist/Demolish state. 
 
@@ -235,13 +229,13 @@ The **Double Solar** opener is something that only becomes worthwhile to switch 
 
 Chakra usage in the opener depends on if you are able to double weave without clipping. If you can do so, simply use TFC as soon as it becomes available every time following the first usage. If you cannot do so, then there will be times when you are forced to sit on Chakra stacks for a GCD or two, as although you still want to use it as soon as possible, your priority is using your buffs in the correct places.
 
-#### Lunar Solar
+### Lunar Solar
 
 ![Lunar Solar Opener](/img/jobs/mnk/mnkguide_0000_lunarsolar.png "Lunar Solar Opener")
 
 This opener is effectively the "Guaranteed Max Phantom Rush uses" opener; it starts out by generating both a Lunar and a Solar Nadi and banishing our PR to the land of the one-minute buffs. The opener requires a double weave if you wish to preserve the same Brotherhood timing as the double Solar opener. If you and your group are fine to delay BH by one GCD, simply move it + Riddle of Wind one oGCD slot down.
 
-#### Double Solar
+### Double Solar
 
 ![Double Solar Opener](/img/jobs/mnk/mnkguide_0002_doublesolar.png "Double Solar Opener")
 
@@ -249,7 +243,7 @@ Doing two Rising Phoenix overcaps us on Solar Nadi; that is intentional. This is
 
 Brotherhood's placement is flexible should it ever need to be moved to account for your party composition.
 
-### Picking Your Path
+## Picking Your Path
 
 Monk now has three different primary choices as to how you'd like to play. Available to us are the **braindead looping** rotation, the **optimal drift** rotation, and the **double solar** rotation:
 
@@ -261,7 +255,7 @@ Monk now has three different primary choices as to how you'd like to play. Avail
 
 The image above demonstrates the DPS difference between each of the three rotations given an uninterrupted 8:30 sim. As you can see it’s incredibly tight between all three options. I would recommend starting out with the loop to get a feel for the job, progressing on to Optimal Drift if you decide you enjoy it and wish to push the job further. Double Solar is relegated to specific scenarios; it must be a kill time that will not lose you a use of Phantom Rush (6:30, 8:30, etc) and your party composition should contain a reasonable amount of two minute raid buffs to really leverage the enhanced two minute burst. In 99% of situations you are better using Optimal Drift, however when the stars align Double Solar does get to have its’ time in the sun (all puns intended). Double Solar becomes comparatively stronger than the other options the longer a fight goes (assuming you do not lose a Phantom Rush), and can sometimes gain an edge by allowing you to better use either the targeted AoE or the AoE centered around yourself in order to cleave more targets.
 
-#### Braindead Looping Rotation
+### Braindead Looping Rotation
 
 This rotation is recommended mostly for either casual play or for getting your first taste of Monk before advancing to Optimal Drift. The reasoning for this is that while Optimal Drift contains various different ways of entering and forming your burst windows, the Loop essentially takes one of those possibilities and freezes it, making it loop forever. As such, once you become comfortable with the Loop progressing on to Optimal Drift should come quite naturally. 
 
@@ -281,7 +275,7 @@ Very important here is the Twin Snakes following the Elixir Field, which serves 
 
 If you want to practice this and cross-reference with a log, here is a [raw action sequence list](https://docs.google.com/spreadsheets/d/14zk-VaiP-Lqt-fF0cTPBsQhrPD2TskixXB8r-JUX3T8/edit#gid=0) you can compare against to make sure you're doing it right.
 
-**Fixing the Loop**
+### **Fixing the Loop**
 
 As this is a looping rotation, in a dummy scenario, this will repeat ad infinitum. However, not every encounter is a dummy, and so sometimes through no fault of your own the loop will be broken. There are three ways in which this can happen:
 
@@ -303,17 +297,17 @@ This is when we simply end up in the wrong form as Riddle of Fire comes off of C
 
 While you can put the effort into learning these various tricks to realigning the loop, I would instead advise you to use the same amount of brainpower to instead look at learning Optimal Drift, as the rules used to fix the loop are a part of the rules that build the optimal drift rotation.
 
-#### Optimal Drift Rotation
+### Optimal Drift Rotation
 
 Like the basic loop, this always begins with the Lunar Solar opener in order to take advantage of the greater amount of options afforded in the two-minute windows. This rotation splits more dramatically between the odd and even Riddle of Fire windows.
 
-**Odd Windows**
+#### **Odd Windows**
 
 Our odd RoF windows are all built around a natural Demolish. This is because we want to have just refreshed Demolish prior to beginning our PB window so that it won't fall off during our burst. Similarly, we want the GCD before that Demolish to have been a Twin Snakes for the same reason. 
 
 How do we know where to start looking for this Demolish, though? Well, it's the same logic that we use to fix our Demo timer in the basic looping rotation. We work backwards and realise that we need four GCDs from PB to get our Blitz out, meaning the Demolish we need can be no later than six GCDs into our RoF window. This means that we're once again looking at the string of nine GCDs on either side of Riddle of Fire, up to three prior to or six following. Once we locate that Demolish, we put a Twin Snakes before it, and PB after the Opo GCD that follows this Demolish.
 
-**Even Windows**
+#### **Even Windows**
 
 Similarly to how we build our odd windows from a Demolish, we also build our even windows from a Coeurl GCD. As opposed to looking across nine GCDs for a Demolish to build from, here we are simply looking across three GCDs for a Coeurl GCD. There is slightly more distinction here than simply Demolish/Snap Punch however. Over nine GCDs, our Coeurl sequence has two Snap Punches between each Demolish, with each Snap Punch being unique and providing a different even window depending on which one we hit. To distinguish between Coeurl GCDs, we're going to break them down into Demo, Snap 1, and Snap 2. 
 
@@ -329,11 +323,11 @@ To ensure that you're practicing effectively and not just muscle memory-ing the 
 
 If you want to practice this and cross-reference with a log, here is a [raw action sequence list](https://docs.google.com/spreadsheets/d/1dIbpQfFuMO4HpYAinPbM7SgHSzkcLGUI4v_VCyszUCs/edit#gid=0) you can compare against to make sure you're doing it right.
 
-#### Double Solar Rotation
+### Double Solar Rotation
 
 Again, the Double Solar rotation splits itself by odd and even RoF windows. The odd windows follow the exact same rules as the Optimal Drift odd windows, and so I will not rewrite them here. The even windows are slightly different however.
 
-**Even windows**
+#### **Even windows**
 
 Similar to the odd windows of other rotations, we build our even window around a Demolish. However, due to the way this rotation works we don't always have the luxury of waiting for a natural Demolish, and may sometimes need to force clip one. So how do we do this?
 
