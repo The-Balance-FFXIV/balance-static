@@ -31,7 +31,7 @@ White Mage is considered by many people to be the most beginner friendly healer,
 * DoT (Damage over Time): Actions that damage the target over a period of time. These actions deal damage for their listed potency once every three seconds.
 * AoE (Area of Effect): Actions that affect every target in a specified area. AoE heals heal all allies in a circle around their source. AoE damage abilities affect all enemies in an area specified by the ability; enemies can perform AoE attacks too.
 
-# Job Gauge: Lilies*
+# Job Gauge: Lilies
 
 
 
@@ -61,7 +61,7 @@ Unlocked at level 74, Blood Lily stacks are generated when you use Afflatus Sola
 
 Your standard damage filler spell that you should aim to cast whenever possible, Glare does 310p per cast and has a 1.5s cast time assuming base recast of 2.5s. This allows you to weave one oGCD per hardcasted Glare without clipping your next GCD. At lower levels, “Stone” variants will be your filler spell.
 
-### **Dia***
+### **Dia**
 
 An instant cast DoT spell that deals 60p upfront and then ticks for 30s, dealing 60p per tick for a total of 660p if allowed to run its full duration. As this is a gain over your standard Glare filler, this DoT should be maintained on the boss at all times, unless it is about to die in less than 15s. This also applies if the boss is about to disappear, as DoTs don’t tick on untargetable bosses for the vast majority of cases. At lower levels, “Aero” variants will be your DoT spell. 
 
@@ -69,7 +69,7 @@ An instant cast DoT spell that deals 60p upfront and then ticks for 30s, dealing
 
 An AoE centered on you that damages enemies within 8y by 150p and applies a stun effect. Enemies who are susceptible to the stun effect do build resistance to it, halving its duration with each application until they become temporarily immune to stun. This spell is very strong in dungeons where the cumulative 7s of stun helps mitigate a significant amount of tank damage in trash pulls. In raid scenarios, Holy is rarely used as it requires hitting three enemies to beat a Glare cast, though it can be used in niche optimization scenarios where you precast a Holy to hit the boss right as they come back from an untargetable phase. 
 
-**Afflatus Misery (Lily spell)***
+**Afflatus Misery (Lily spell)**
 
 An instant-cast GCD that deals 1240p damage to the primary target and 620p to enemies around it within 5y. Afflatus Misery requires three Blood Lily stacks to use, which in turn requires the use of three Afflatus healing spells. From a pure potency perspective, Afflatus Misery is neutral in single target scenarios as it costs four GCDs to execute - three Afflatus healing spells and one Afflatus misery - and deals 1240p, same as the 1240p that you would’ve dealt replacing all those Afflatus casts with Glares. However, it can be an overall DPS gain if Afflatus Misery is placed under raid buffs and/or potion. 
 
@@ -126,7 +126,7 @@ A basic AoE healing spell that heals all allies within 15y for 400p. It is outcl
 Heals all allies within 20y for 250p and applies a 15s regen of 150p per tick, totaling 1000p healing over its full duration. It is your most powerful AoE healing option provided that you can afford to wait out all its ticks. With one tick, it already breaks even with Medica in healing, and surpasses Medica with just two ticks. It also offers 5y of additional range compared to most AoE healing spells, making it easier for you to hit party members that may be spread out for mechanics.
 
 
-**Cure III***
+**Cure III**
 
 A spell that heals allies within 10y for 600p, Cure III offers the most upfront partywide healing out of all healing tools that aren’t limited by a cooldown. It is one of the reasons that WHM excels at recovery, as Cure III spam alone can brute force a large amount of healing checks. Its main drawbacks are its slightly limited range of 10y compared to standard AOE healing spells, as well as a costly 1500MP per cast, though the MP cost can be mitigated via the use of Thin Air. 
 
@@ -134,7 +134,7 @@ While you’ll be using Cure III as a self-originated spell in most cases, Cure 
 
 Not to be confused for a Cure II upgrade - you never use Cure III in single target healing scenarios. 
 
-**Afflatus Rapture (Lily spell)***
+**Afflatus Rapture (Lily spell)**
 
 An instant cast, 0 MP spell that heals allies within 20y for 400p. While it heals the same amount as a Medica, Afflatus Rapture is our top priority for AoE GCD healing due to the damage refund of the Blood Lily system essentially making all Afflatus healing spells potency neutral. As an instant cast spell, it often doubles as a movement option for when slidecasting isn’t quite enough.
 
@@ -186,7 +186,7 @@ GCD heals. Secondly, it grants any party member within 30y a 10% mitigation buff
 
 Due to the combination of its mitigation and healing buff effects, Temperance is a powerful CD to use in any scenario where the party is taking significant damage that needs to be healed through. However, in optimized scenarios, you may find yourself using Temperance more for its mitigation effect than the healing buff as GCD healing is used very little, if at all. It is on a fairly long cooldown of two minutes, so its usage in a fight should definitely be planned out in advance.
 
-**Liturgy of the Bell***
+**Liturgy of the Bell**
 
 Places a Liturgic Bell (“Bell” for simplicity) at a designated location and grants you five stacks of a buff called “Liturgy of the Bell”. In the next 15s, every time you (the WHM specifically) take damage, one stack of “Liturgy of the Bell” is consumed and the Bell heals all allies within 20y of its placed location for 400p. The Bell dissipates naturally when all five stacks are consumed or when 15s have passed, whichever comes first. Any remaining “Liturgy of the Bell” stacks will be expended at the end of this 15s to heal allies within 20y for 200p per stack. You can also manually dismiss Bell anytime before its natural expiration to trigger this heal. 
 
@@ -226,7 +226,7 @@ Removes one random cleansable debuff (as indicated by the white bar above the ic
 
 ### oGCD
 
-**Thin Air***
+**Thin Air**
 
 A 60s CD on two charges, this ability negates the MP cost of the next spell you cast. It is *not* consumed when you cast a spell with 0MP cost naturally, such as Afflatus spells. Thin Air should be used whenever you need to cast MP costing GCD heals or Raise to negate their heavy MP cost. If neither scenario applies, you *can* use Thin Air on a Glare or Dia to save 400MP, but it is perfectly fine to let it sit at two charges as WHM’s DPS rotation can be sustained entirely without Thin Air. In progression scenarios, saving Thin Air for MP costing GCD heals and raises should be the default approach. 
 
@@ -322,7 +322,7 @@ Prepositioning can also help you get the most out of your slidecasts. For exampl
 
 Dia is an instant cast GCD which allows you a full GCD of movement, so try to utilize it to cover as much useful ground as possible. If you know a Dia refresh window is coming up, you can afford to greed a few more casts in the danger zone before making a swift escape with Dia. 
 
-### Afflatus Spells*
+### Afflatus Spells
 
 All of your Lily spells are instant cast GCDs, and Lily sets are DPS neutral if fully completed. Since you get one Healing Lily charge every 20s, this means you have four instant casts per minute available including Afflatus Misery, which can cover the majority of movement requirements in any fight. If you know you’ll be using Lilies to move for an upcoming mechanic, try to structure your healing plan so that those Lilies won’t be completely overhealing. 
 
@@ -366,23 +366,23 @@ While Macros are generally not recommended due to their lack of queueing, ground
 
 /merror off
 
-/ac "Asylum" &lt;t>
+/ac "Asylum" <t>
 
-/ac "Asylum" &lt;t>
+/ac "Asylum" <t>
 
-/ac "Asylum" &lt;t>
+/ac "Asylum" <t>
 
-/ac "Asylum" &lt;t>
+/ac "Asylum" <t>
 
-/ac "Asylum" &lt;t>
+/ac "Asylum" <t>
 
-/ac "Asylum" &lt;t>
+/ac "Asylum" <t>
 
-/ac "Asylum" &lt;t>
+/ac "Asylum" <t>
 
-/ac "Asylum" &lt;t>
+/ac "Asylum" <t>
 
-/ac "Asylum" &lt;t>
+/ac "Asylum" <t>
 
 /micon "Asylum"
 
@@ -420,27 +420,7 @@ These macros will drop the ground effect wherever your cursor is. However, given
 
 This option requires setting up your Character Configuration as shown, but will allow you to confirm ground effect placement using the same keybind for the skill itself, which means that using that keybind twice in succession will drop the ground effect on wherever your cursor is. Unlike the macro options, double tap placement does queue like a normal oGCD and can feel smoother to execute for some.
 
-# MP issues?
 
-Whether you’re a new player or experienced player looking for a new job to play, you may have heard comments surrounding WHM’s MP issues and how bad they are. A lot of those comments are often exaggerated or do not capture the full picture. This section will hopefully shine some light on the situation surrounding WHM MP in a fair manner. 
-
-As of patch 6.08, WHM does have the worst MP sustain out of all healers. This is evident by just taking a look at their MP recovery tools outside of Lucid Dreaming, which is shared across all healers. 
-
-* Astrologian has Draw on a 30s CD that grants them 500MP per use, and at least one Astrodyne usage per two minutes that restores 2500MP. 
-* Scholar has Aetherflow which restores 2000MP per minute.
-* Sage has Addersgall stacks that are generated at 20s intervals and grants 700MP per use. Every 90s, they can also get an extra stack. 
-
-In contrast, WHM only has Assize that grants 500MP per 45s, and one Thin Air usage per minute that amounts to 400MP saved when used on damage filler GCDs. To make matters worse, WHM also has Presence of Mind’s 20% haste effect every two minutes, which increases MP drain as you’re casting more GCDs. 
-
-However, WHMs do have another MP sustain tool in the form of Lilies. Afflatus spells cost 0MP, which means you effectively get 1600MP saved per Lily set for the four GCDs that 3x Afflatus healing spells + Afflatus Misery replaces. As a Lily set can be completed in 90s, this is a significant reduction and brings WHM’s MP sustain more in line with what other healers have.
-
-However, as mentioned previously, Afflatus Misery is a pure damage loss in the vast majority of uptime scenarios, making it an unreliable form of MP sustain compared to the other healers’ MP tools that can always be used at no damage cost to themselves.  
-
-With this in mind, the answer to ‘Does WHM have severe MP issues?’ becomes twofold.
-
-**In progression or non-optimal scenarios**, where the expectation is that the WHM will use Afflatus spells for healing, WHM MP is completely fine. You will need to take extra piety for progression as usual, but the same applies to most other healers. Thin Air’s value as an MP sustain tool also rises significantly as it’ll likely be used to cover a hefty Raise cost or a Cure III, and the MP cost of your general damage rotation is mostly compensated for by a combination of Assize and Lily usage. 
-
-**In optimization scenarios**, WHM MP begins to suffer as you will do two things when moving towards optimization: a) shed piety on your gear as much as possible, and b) reduce all GCD healing, including Afflatus spells. Optimizing your healing to only involve oGCDs significantly worsens WHM’s MP sustain as you now have to spend more time casting MP costing spells. This essentially means that WHM often cannot shed as much piety as the other healers for optimization without inflicting severe, sometimes unrealistic, killtime restrictions to not run out of MP.  
 
 **What if I’m just a casual roulette player?** 
 
@@ -460,7 +440,7 @@ Magic Damage >>>>> Mind >>> Piety to required levels > Crit > Direct Hit/Determi
 
 **Magic Damage** (or “Weapon Damage”) is only found on weapons and is your most impactful stat as it factors *significantly* in both healing and damage calculations. **Mind**, your main stat, also affects healing and damage, though to a lesser degree than Magic Damage. Your Mind increases naturally as you upgrade your gear to higher iLvls. 
 
- \
+ 
 **Piety** affects your natural MP regen in combat which ticks every three seconds. While the substat itself does not provide a direct damage increase, it is critical that we take enough piety to maintain full casting uptime while fulfilling healing requirements. Running out of MP to cast Glares in the middle of a fight is a significant damage loss, and not having enough MP to GCD heal and raise in prog is being an active detriment to your team. “Enough” piety in this case is extremely context- and player skill-dependent, and very much a variable that will change as you get more comfortable with fights. 
 
 **Critical Hit** increases both our chance to score a critical hit when healing or dealing damage, and how much that critical hit heals or damages for; this includes both direct damage/healing as well as DoTs and HoTs. While it does affect our healing, Crit is preferred due to its impact on our damage output as critical heals should not be part of a healing plan due to their unpredictable nature. 
