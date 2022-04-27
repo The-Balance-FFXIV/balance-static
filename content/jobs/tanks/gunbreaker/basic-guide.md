@@ -382,6 +382,8 @@ This isn’t an error or a mistake, it’s guaranteed in the rotation and will h
 
 Although we are leaving Gnashing Fang and Jugular Rip out of No Mercy, it secures an extra Burst Strike in No Mercy while ensuring that No Mercy does not drift out of raid buffs. It has been discussed and assessed and, as odd as it is, No Mercy after Gnashing is the optimal play and is something you will need to get used to.
 
+*As of update 6.11, the buff to the Gnashing Fang combo means that Gnashing+Jugular Rip are now stronger than Burst Strike+Hypervelocity. This means GF->NM is now a loss, however it still ensures no delay on No Mercy. It is difficult to give a baseline and state which is optimal (GF->NM or delaying NM to place GF inside the window) and will become a case by case basis both for kill times and openers. This is still being theorycrafted but for now you can continue with either option so long as all other rules of the class are upheld.*
+
 ## Bloodfest
 
 Bloodfest is our second indirect/buffing offensive ability. Granting us a full Powder Gauge, it simply enables more gauge expenditure and therefore more damage. Using Bloodfest effectively is a way we can enter an optimal No Mercy without worrying about carts or can provide three Burst Strikes within No Mercy. The two biggest mistakes I see new Gunbreakers do is hold Bloodfest for No Mercy or to use it as reset for downtime; although the latter is not a bad option, it should not be used exclusively for that purpose.
