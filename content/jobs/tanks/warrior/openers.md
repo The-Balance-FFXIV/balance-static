@@ -4,7 +4,7 @@ authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
 patch: "6.08"
-lastmod: 2022-02-26T22:14:02.458Z
+lastmod: 2022-04-29T23:55:16.922Z
 changelog:
   - date: 2022-01-31T07:37:24.695Z
     message: Updated for Endwalker
