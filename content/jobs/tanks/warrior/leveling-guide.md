@@ -121,7 +121,7 @@ The basic opener for single-targets:
 
 So, you finally hit lvl 70 and unlocked the trait that turns Berserk into Inner Release.  \
 
-This is where the end-game rotation begins. Read the tooltip of Inner Release and realize that you get a free pass to use Gauge spenders for three GCDs. Remember to use these stacks on Fell Cleaves, and nothing else.
+This is where the end-game rotation begins. Read the tooltip of Inner Release and realize that you get a free pass to use Gauge spenders for three GCDs. Remember to use these stacks on Fell Cleaves and Decimates.
 
 There are variations to the opener, but we’ll go with the one below for now.
 
@@ -129,7 +129,7 @@ Opener is:
 
 * Tomahawk +Infuriate
 * Heavy Swing
-* Maim
+* Maim (+Potion)
 * Storm’s Eye +Inner Release
 * Fell Cleave +Upheaval +Onslaught
 * Fell Cleave +Onslaught
@@ -173,17 +173,17 @@ You recover health seven times, your party member recovers health seven times. \
 
 At lvl 80, using Infuriate turns your Fell Cleave into Inner Chaos. Much like Chaotic Cyclone, IC always Direct Hit Crits, hitting big.
 
-At this point of the game, the opener changes again. As Inner Chaos always Direct Hit + Crits, we don't want to use it inside Inner Release.
+At this point of the game, the opener changes again - slightly. Our first Fell Cleave is now Inner Chaos and since the patch of 6.1, Inner Chaos (and most other GCDs) don't consume IR stacks.
 
 Opener:
 
 * Tomahawk +Infuriate
 * Heavy Swing
-* Maim
-* Storm’s Eye
-* Inner Chaos +Upheaval +Inner Release
+* Maim (+Potion)
+* Storm’s Eye +Inner Release
+* Inner Chaos +Upheaval +Onslaught
 * Fell Cleave +Onslaught
-* Fell Cleave +Onslaught
+* Fell Cleave 
 * Fell Cleave +Infuriate
 * Inner Chaos
 * Heavy
@@ -200,7 +200,7 @@ The trait "Raw Intuition Mastery" is unlocked, changing Raw Intuition into Blood
 
 # 86: Orogeny
 
-The AoE version of Upheaval is unlocked. At the time of writing this (patch 6.08), it should be used on three or more targets.  
+The AoE version of Upheaval is unlocked. At the time of writing this (patch 6.11), it should be used on three or more targets.  
 
 # 88: The Third Onslaught
 
