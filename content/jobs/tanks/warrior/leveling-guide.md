@@ -30,17 +30,17 @@ We want Strength and Vitality. And Weapon Damage. *Lots of Weapon Damage.* The m
 
 - - -
 
-# 1-30: Do the combo
+# Levels 1-30: Do the combo
 
 Use Berserk, as it gives you more damage and there’s no downside to it. You’ll only hit combo GCDs for now, along with Overpower. Use Tomahawk when pulling single targets.  
 
-Raw Potency-wise, Overpower is equally effective at two targets before lvl 26. When you unlock the Storm’s Path (lvl26), that balance tips over to “Overpower at three targets and up”. You still want to use Overpower to initially grab packs of mobs in one hit, though.
+Raw Potency-wise, Overpower is equally effective at two targets before level 26. When you unlock the Storm’s Path (level 26), that balance tips over to “Overpower at three targets and up”. You still want to use Overpower to initially grab packs of mobs in one hit, though.
 
 Thrill of Battle (level 30) is nice, as it acts as a re-fillable bubble. Use it to survive damage spikes.
 
 - - -
 
-# 31-49: We got a Beast Gauge!
+# Levels 31-49: We got a Beast Gauge!
 
 Notable mentions are:
 
@@ -58,7 +58,7 @@ Aim to spend gauge on Inner Beast during Berserk, or when you would overcap, oth
 
 - - -
 
-# 50-63: Berserks will be full of Inner Beast / Fell Cleave as there is Infuriate.
+# Levels 50-63: Berserks will be full of Inner Beast / Fell Cleave as there is Infuriate.
 
 This is a large level range. Our notable mentions are:
 
@@ -82,12 +82,12 @@ The basic opener for single-target fights is:
 * Maim
 * Storm's Path
 
-Once you hit lvl 54, your Inner Beast turns into Fell Cleave. At lvl 60, your Steel Cyclone turns into Decimate.
+Once you hit level 54, your Inner Beast turns into Fell Cleave. At level 60, your Steel Cyclone turns into Decimate.
 
 The AoE effectiveness basics are:
 
-* Fell Cleave at one to two targets
-* Decimate at three or more targets
+* Fell Cleave at one to two targets.
+* Decimate at three or more targets.
 * Again, we are skipping the basic AoE rotation effectiveness here, and the Beast Gauge, entirely.
 
 Basic rotation is:
@@ -100,7 +100,7 @@ The following Berserks will rotate between three and four IB/FC within them due 
 
 - - -
 
-# 64-69: Upheaval on cooldown
+# Levels 64-69: Upheaval on cooldown
 
 Carry on as before, but this time with a slight addition:
 ***Upheaval***
@@ -119,9 +119,9 @@ The basic opener for single-targets:
 
 - - -
 
-# 70-71: Unleash the Inner Release
+# Levels 70-71: Unleash the Inner Release
 
-So, you finally hit lvl 70 and unlocked the trait that turns Berserk into Inner Release.  \
+So, you finally hit level 70 and unlocked the trait that turns Berserk into Inner Release.  \
 
 This is where the end-game rotation begins. Read the tooltip of Inner Release and realize that you get a free pass to use Gauge spenders for three GCDs. Remember to use these stacks on Fell Cleaves and Decimates.
 
@@ -149,7 +149,7 @@ Opener is:
 
 - - -
 
-# 72+: Nascent Chaos enters the arena.
+# Level 72+: Nascent Chaos enters the arena.
 
 At level 72, we unlock the “Nascent Chaos” buff that triggers every time after using Infuriate. This turns our Gauge spenders into a more powerful version of themselves. We don’t get the upgraded Fell Cleave yet, though. We get the AoE upgrades first. Enter “Chaotic Cyclone”. Read the tooltip.
 
@@ -157,7 +157,7 @@ For now, we’ll be using Chaotic Cyclone as a 50 Gauge spender, even on single-
 
 - - -
 
-# 76: Nascent Flash
+# Level 76: Nascent Flash
 
 Funny skill! Use it on a party member that you wish to heal. For each weapon skill (GCD) you land on a target (or targets), you recover health to the party member, and yourself. This skill also comes with 10% (4s) + 10% (8s) mitigation for your party member, that doubles up for a total of 19% mitigation for the first four seconds.\
 \
@@ -171,9 +171,9 @@ You recover health seven times, your party member recovers health seven times. \
 
 - - -
 
-# 80: Inner Chaos
+# Level 80: Inner Chaos
 
-At lvl 80, using Infuriate turns your Fell Cleave into Inner Chaos. Much like Chaotic Cyclone, IC always Direct Hit Crits, hitting big.
+At level 80, using Infuriate turns your Fell Cleave into Inner Chaos. Much like Chaotic Cyclone, IC always Direct Hit Crits, hitting big.
 
 At this point of the game, the opener changes again - slightly. Our first Fell Cleave is now Inner Chaos and since the patch of 6.1, Inner Chaos (and most other GCDs) don't consume IR stacks.
 
@@ -196,15 +196,15 @@ Opener:
 * Inner Chaos\
   … Storm’s Path, Storm’s Eye, Upheaval etc. as per usual rotation.
 
-# 82: Bloodwhetting
+# Level 82: Bloodwhetting
 
 The trait "Raw Intuition Mastery" is unlocked, changing Raw Intuition into Bloodwhetting. If you thought Raw Intuition was good, now it's even better. Remember to use it lots.
 
-# 86: Orogeny
+# Level 86: Orogeny
 
 The AoE version of Upheaval is unlocked. At the time of writing this (patch 6.11), it should be used on three or more targets.  
 
-# 88: The Third Onslaught
+# Level 88: The Third Onslaught
 
 Square Enix decided to give us a third stack of Onslaught.
 
