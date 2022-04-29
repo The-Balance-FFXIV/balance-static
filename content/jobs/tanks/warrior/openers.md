@@ -35,21 +35,23 @@ oGCDs
 * The expected timing for all buffs to be up is approximately 7.80s after Tomahawk lands.
 
 
-#### IC IR IC Opener
+#### All-Around Opener
 
-![IC IR IC Opener](https://cdn.discordapp.com/attachments/583965306071023616/917968991706841108/unknown.png)
-
-Catches party buffs, however the second Inner Chaos is tight with Trick Attack. There's nothing special about this. This is your usual opener, probably.
-
-#### IC IC IR
+![All-Around Opener](https://cdn.discordapp.com/attachments/277962807813865472/963548326433796116/unknown.png "All-Around Opener")
 
 
+The IR stacks last right until the 3rd Fell Cleave at 2.50 GCD. There's nothing special about this. This is your usual opener, probably.
+
+#### Early-IR Opener
 
 
-![IC IC IR Opener](https://cdn.discordapp.com/attachments/583965306071023616/924377661252456478/unknown.png "IC IC IR opener")
 
-Our strongest skills catch all the buffs, including Trick Attack. However, this comes at the cost of delaying IR by a GCD.  
-Nothing special apart from the slight IR + Rend delay.
+
+![Early-IR Opener](https://cdn.discordapp.com/attachments/583965306071023616/968622446498418758/unknown.png "Early-IR Opener")
+
+Requires a faster set (eg. 2.40 GCD).  
+Expected to do 13 GCD Potion to fit in 3 IC.  
+Does not require a Face Pull, but doing so should fit in 2IC 1Rend to most buffs.
 
 
 #### Cursed Prepull IR Openers
