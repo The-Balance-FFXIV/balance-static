@@ -4,11 +4,13 @@ card_header_image: /img/jobs/war/basic.png
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
-patch: "6.08"
-lastmod: 2022-02-26T22:13:33.552Z
+patch: "6.11"
+lastmod: 2022-04-29T21:59:39.632Z
 changelog:
   - date: 2022-02-26T14:53:27.569Z
     message: Uploaded the new GDoc guide for EW WAR
+  - date: 2022-04-29T21:59:46.536Z
+    message: Adjusted things to account for Patch 6.11
 ---
 # Final Fantasy 14: Endwalker guide for Warrior
 By Mox Xinmagar & The Happy Team of Warriors  
