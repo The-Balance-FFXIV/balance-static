@@ -565,7 +565,7 @@ When doing dungeons, it’s important to space your cooldowns out. You have thre
 **Support Cooldown** ➞ Use one per big pull to debuff all targets
 
 * Reprisal
-* Arm’s Lengt
+* Arm’s Length
 
 **Other:**
 
@@ -597,7 +597,7 @@ No one can tell you what the best speed is, this is down to your preference!
 **Materia:** If you are new to endgame content then please ensure you are melding your gear with Materia. Materia is a huge contributing factor to your DPS, as it is a hefty gain in your substats. Empty Materia slots are never acceptable when doing anything higher than Extreme Primals. 
 
 **Food:** Food provides a temporary (and practically mandatory) stat boost, contributing to both your total HP and your damage stats. Some builds even require food to hit your intended GCD. \
-As of Patch 6.1 we use Pumpkin Potage or Pumpkin Ratatouille, both High Quality
+As of Patch 6.1 we use Pumpkin Potage or Pumpkin Ratatouille, both High Quality.
 
 **Pots:** When doing Savage and Ultimates you’ll also want to use Pots (short for potions). These provide a limited window of a large boost in your main stat (strength for tanks) that makes your damage spike. These, when used optimally, can contribute a huge amount of DPS in a raid. Using them is something you may have to get used to and you will notice their timings marked in our openers above.\
 You should always use the highest grade of Strength pot.
