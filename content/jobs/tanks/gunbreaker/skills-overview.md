@@ -2,8 +2,8 @@
 title: Gunbreaker Skills Overview
 authors:
   - Balance-GNB-Staff
-patch: "6.08"
-lastmod: 2022-04-09T21:51:27.171Z
+patch: "6.11"
+lastmod: 2022-04-29T01:03:52.804Z
 changelog:
   - date: 2021-10-25T21:30:58.365Z
     message: Added Superbolide w/ EW buff
@@ -21,8 +21,8 @@ changelog:
 | ![SolidBarrel](/img/jobs/tanks/gunbreaker/Solid_Barrel.png)       | **Solid Barrel**    | The final skill of our basic combo. 340 potency when used after Brutal Shell. Generates one Cartridge in the Powder Gauge.                                                   |
 | ![BurstStrike](/img/jobs/tanks/gunbreaker/Burst_Strike.png)       | **Burst Strike**    | 380 potency attack that consumes one Cartridge. Grants Ready to Blast.                                                                                                                             |
 | ![GnashingFang](/img/jobs/tanks/gunbreaker/Gnashing_Fang.png)     | **Gnashing Fang**   | 360 potency attack that consumes one Cartridge. 30 second base cooldown that is reduced by skill speed. Triggers Ready To Rip.                             |
-| ![SavageClaw](/img/jobs/tanks/gunbreaker/Savage_Claw.png)         | **Savage Claw**     | 440 potency attack that can only be used following Gnashing Fang. Triggers Ready To Tear.                                                                                    |
-| ![WickedTalon](/img/jobs/tanks/gunbreaker/Wicked_Talon.png)       | **Wicked Talon**    | 520 potency attack that can only be used following Savage Claw. Triggers Ready To Gouge.                                                                                     |
+| ![SavageClaw](/img/jobs/tanks/gunbreaker/Savage_Claw.png)         | **Savage Claw**     | 460 potency attack that can only be used following Gnashing Fang. Triggers Ready To Tear.                                                                                    |
+| ![WickedTalon](/img/jobs/tanks/gunbreaker/Wicked_Talon.png)       | **Wicked Talon**    | 540 potency attack that can only be used following Savage Claw. Triggers Ready To Gouge.                                                                                     |
 | ![SonicBreak](/img/jobs/tanks/gunbreaker/Sonic_Break.png)         | **Sonic Break**     | 300 potency attack that applies a 60 potency Damage over Time (DoT) for 30 seconds (900 potency total from the DoT). 60 second base cooldown that is reduced by skill speed. |
 | ![LightingShot](/img/jobs/tanks/gunbreaker/Lightning_Shot.png)    | **Lightning Shot**  | Ranged attack skill with a potency of 150 and a range of 20y.                                                                                                                |
 | ![DemonSlice](/img/jobs/tanks/gunbreaker/Demon_Slice.png)         | **Demon Slice**     | First skill of our Area of Effect (AoE) combo. 100 potency to all targets in a 5y circle centered around you.                                                                |
@@ -37,9 +37,9 @@ changelog:
 | ![NoMercy](/img/jobs/tanks/gunbreaker/No_Mercy.png)           | **No Mercy**      | 20% damage increase for 20 seconds. 60 second cooldown.                                                                                                                                           |
 | ![Bloodfest](/img/jobs/tanks/gunbreaker/Bloodfest.png)        | **Bloodfest**     | Immediately gives 3 Cartridges in the Powder Gauge. 90 second cooldown.                                                                                                                           |
 | ![Continuation](/img/jobs/tanks/gunbreaker/Continuation.png)  | **Continuation**  | Turns into Jugular Rip, Abdomen Tear, or Eye Gouge when under the effect of Ready To Rip, Ready To Tear, or Ready To Gouge respectively. Also allows you to use Hypervelocity after Burst Strike.                                                         |
-| ![JugularRip](/img/jobs/tanks/gunbreaker/Jugular_Rip.png)     | **Jugular Rip**   | 180 potency attack. Can only be used under Ready To Rip triggered by Gnashing Fang.                                                                                                               |
-| ![AbdomenTear](/img/jobs/tanks/gunbreaker/Abdomen_Tear.png)   | **Abdomen Tear**  | 220 potency attack. Can only be used under Ready To Tear triggered by Savage Claw.                                                                                                                |
-| ![EyeGouge](/img/jobs/tanks/gunbreaker/Eye_Gouge.png)         | **Eye Gouge**     | 260 potency attack. Can only be used under Ready To Gouge triggered by Wicked Talon. 
+| ![JugularRip](/img/jobs/tanks/gunbreaker/Jugular_Rip.png)     | **Jugular Rip**   | 200 potency attack. Can only be used under Ready To Rip triggered by Gnashing Fang.                                                                                                               |
+| ![AbdomenTear](/img/jobs/tanks/gunbreaker/Abdomen_Tear.png)   | **Abdomen Tear**  | 240 potency attack. Can only be used under Ready To Tear triggered by Savage Claw.                                                                                                                |
+| ![EyeGouge](/img/jobs/tanks/gunbreaker/Eye_Gouge.png)         | **Eye Gouge**     | 280 potency attack. Can only be used under Ready To Gouge triggered by Wicked Talon. 
 | ![Hypervelocity](https://xivapi.com/i/003000/003431_hr1.png)        | **Hypervelocity**     | Delivers an attack with a potency of 180. Can only be used when Ready to Blast.                                                                                                                          |                                                                                                            
 | ![DangerZone](/img/jobs/tanks/gunbreaker/Danger_Zone.png)     | **Danger Zone**   | 250 potency attack with a 30 second cooldown. Becomes Blasting Zone at level 80.                                                                                                                  |
 | ![BlastingZone](/img/jobs/tanks/gunbreaker/Blasting_Zone.png) | **Blasting Zone** | 700 potency attack with a 30 second cooldown.                                                                                                                                                     |
