@@ -205,48 +205,13 @@ Syntax
 * oGCDs and potions are on the upper part of the image.
 * Going forward, all the skills will be listed as _GCD +oGCD1 +oGCD2._
 
-#### Basic IC IR IC
-Catches party buffs, however the second Inner Chaos is tight with Trick Attack.  
+#### All-Around Opener
+Catches party buffs, burns all our resources as soon as possible.  
 
 
-There's nothing special about this. This is your usual opener.
+There's nothing special about this. This is your usual opener. The IR stacks last right until the 3rd Fell Cleave at 2.50 GCD.
 
-![IC IR IC Opener](https://cdn.discordapp.com/attachments/583965306071023616/917968991706841108/unknown.png "IC IR IC opener")
-
-
-The order of actions is:
-
-* Tomahawk +Infuriate
-* Heavy Swing
-* Maim +Potion
-* Storm’s Eye
-* Inner Chaos +Upheaval +Inner Release
-* Primal Rend +Onslaught
-* Fell Cleave +Onslaught
-* Fell Cleave +Onslaught
-* Fell Cleave +Infuriate
-* Inner Chaos
-* Heavy Swing
-* Maim
-* Storm’s Path
-* Fell Cleave +Infuriate
-* Inner Chaos
-* Heavy Swing
-* Maim +Upheaval
-* Storm’s Eye
-
-
-
-
-
-
-#### Basic IC IC IR
-
-Our strongest skills catch all the buffs, including Trick Attack. However, this comes at the cost of delaying IR by a GCD. 
-
-Nothing special apart from the slight IR + Rend delay.
-
-![IC IC IR Opener](https://cdn.discordapp.com/attachments/583965306071023616/924377661252456478/unknown.png "IC IC IR opener")
+![All-Around Opener](https://cdn.discordapp.com/attachments/277962807813865472/963548326433796116/unknown.png "All-Around Opener")
 
 
 The order of actions is:
@@ -254,12 +219,12 @@ The order of actions is:
 * Tomahawk +Infuriate
 * Heavy Swing
 * Maim +Potion
-* Storm’s Eye
-* Inner Chaos +Upheaval +Infuriate
-* Inner Chaos +Inner Release +Onslaught
-* Primal Rend +Onslaught
+* Storm’s Eye +Inner Release
+* Inner Chaos +Upheaval +Onslaught
+* Primal Rend +Infuriate
+* Inner Chaos +Onslaught
 * Fell Cleave +Onslaught
-* Fell Cleave
+* Fell Cleave 
 * Fell Cleave
 * Heavy Swing
 * Maim
@@ -269,6 +234,40 @@ The order of actions is:
 * Heavy Swing
 * Maim +Upheaval
 * Storm’s Eye
+
+
+
+
+
+
+#### Early-IR Opener
+
+Requires a faster set (eg. 2.40 GCD). Expected to do 13 GCD Potion to fit in 3 IC. Does not require a Face Pull, but doing so should fit in 2IC 1Rend to most buffs. If you need to position the boss, start with a Tomahawk. This will push your skills forward by a GCD, possibly causing Rend and IC slip out of the buff window.
+
+This gets Inner Release on cooldown earlier, but any gains are very fight-specific - and you need a faster skill speed to pull off the 3IC Potion, and to get the 3rd IR Fell Cleave out.
+
+![Early-IR Opener](https://cdn.discordapp.com/attachments/583965306071023616/968622446498418758/unknown.png "Early-IR Opener")
+
+
+The order of actions is:
+
+* Provoke
+* Heavy Swing +Infuriate +Inner Release
+* Maim
+* Storm's Eye +Potion
+* Inner Chaos +Upheaval +Onslaught
+* Fell Cleave +Onslaught
+* Fell Cleave +Onslaught
+* Fell Cleave +Infuriate
+* Primal Rend
+* Inner Chaos
+* Heavy Swing
+* Maim
+* Storm's Eye
+* Heavy Swing
+* Maim
+* Fell Cleave +Infuriate
+* Inner Chaos
 
 #### Cursed Prepull IR
 
@@ -360,15 +359,16 @@ That’s a lot of things that you might not know about, so we’ll break it into
 #### Upheaval
 * Should be used on cooldown. It's on a 30s timer, meaning that it should hit every party buff.
 * As long as those buffs are up every 60/120 seconds, that is.
-* Doesn't matter if it's inside Inner Release or not, as IR only affects Weaponskills now.
+* Doesn't matter if it's inside Inner Release or not, as IR only affects Fell Cleave and Decimate now.
 
 #### Inner Release
 * Our "Free Fell Cleaves" button.
-* Using ANY GCD (except Rend) spends the stacks. We get three stacks, no more. Stacks last for 15 seconds.
-* Having a single Stack lets us negate Knockbacks.
-* Inner Release should be used **ONLY** on **Fell Cleaves**, or **Decimates**.
-* Do not use Inner Chaos inside Inner Release. Unless the fight is about to end.
-* Do not use Infuriate inside Inner Release. Unless the fight is about to end.
+* Stacks last for 15 seconds. This is is 5-6 GCDs depending on your skill speed.
+* Grants Inner Strength, negating some effects such as knockback for 15 seconds.
+* Inner Release stacks are used only by Fell Cleave or Decimate.
+* Be mindful of using combo GCDs, Rend and ICs during the stacks, as it is easy to drop the 3rd stack.
+* Be mindful about the amount of gauge you enter IR with. If you have 60g, you cannot get rid of any gauge until the IR stacks end.
+* Using Infuriate during IR lets us use Inner Chaos instead of an IR Fell Cleave. Remember to avoid overcapping gauge.
 * Use IR on cooldown. Unless the fight downtime would waste it.
 
 ### Area of Effect
@@ -444,20 +444,12 @@ Sitting at 100 gauge, and the next combo GCD is Maim/Path/Eye? Better Fell Cleav
 
 It is beneficial to avoid hitting two full stacks of Infuriate, as to gain the full advantage of the timer ticking. Therefore, we may run into moments where our Infuriate would hit two stacks during Inner Release.  
 
-To avoid hitting two stacks of Infuriate, we will do the following math:
-* Inner Release lasts for 3 GCDs (2.50s each) => 7.5s
-* Each Fell Cleave pushes the timer forward by 5 seconds => 15s
-* A total of 22.5s
+To avoid hitting two stacks of Infuriate, we aim to do the following:
+* Enter Inner Release with <=50 gauge, or
+* Enter Inner Release and the next Infuriate is >30 seconds away, or 
+* Burn gauge before Inner Release, as this gives us free reign over our Infuriates, making it possible to hit 2IC 1Rend 3IRFC inside party buffs.
 
-Having over 50 gauge pushes this timer forward by yet another GCD, that would be Fell Cleave. A total of 30s. As a note, this math expects that a single Fell Cleave pushes the Infuriate timer by 7.5 seconds (2.5s GCD + 5s Infuriate Trait)
-
-So, to avoid hitting two Infuriate stacks during Inner Release, the following timers apply
-
-* \<=50 gauge?
-* Infuriate should be >22 seconds away.
-* \>=60 gauge?
-* Infuriate should be >30 seconds away.
-
+Setting up the last option takes a bit of planning and depends on the fight and skill speed.
 
 
 
@@ -731,7 +723,7 @@ Shirk the second Party member. Often your co-tank.
 
 
 
-## Best-in-Slot aka BIS (Patch 6.08)
+## Best-in-Slot aka BIS (Patch 6.11)
 
 
 ### Food and Potions  
@@ -739,37 +731,38 @@ Pumpkin Potage HQ (if running a slow BIS set)
 Pumpkin Ratatouille HQ (if running the 2.40 GCD set)  
 Grade 6 Tincture of Strength HQ
 
+### Gear Sets
+Please see the Warrior's main page for different gear sets. 
+Some of the gear sets have very specific melds, some of which might go against the usual meld priority.
 
-#### 2.40 GCD - Simulated 5527.7 dps  
-[Etro.gg for 2.40 GCD](https://etro.gg/gearset/d6944631-b67f-468f-aca8-7d28d3187f6a)  
-In case Etro.gg fails to load:  
-[Tank Calc screencap](https://cdn.discordapp.com/attachments/583965306071023616/928240970976329738/unknown-37.png)  
-Notes:  
-Upheaval and IR may come up in ugly spots regarding our GCD timer.  
+Here are some DPS numbers as of Patch 6.11:
 
+#### 2.40 GCD
+5527.7 dps  
+Upheaval drifts, or has to be clipped every 2nd use.  
+This is a non-issue in most fights.  
+ 
+#### 2.45 GCD
+5525.6 dps  
+Uses an Augmented Crafted Ring (i590).  
+Upheaval and Inner Release do not come up cleanly all the time. Non-issue, but something to keep in mind.
 
-#### 2.46 GCD - Simulated 5524.4 dps  
-[Etro.gg for 2.46 GCD](https://etro.gg/gearset/6d0d2d4d-a477-44ea-8002-862eca8ef91d)  
-In case Etro.gg fails to load:  
-[Tank Calc screencap](https://cdn.discordapp.com/attachments/277962749630349312/927852783430942740/unknown.png)  
+#### 2.46
+5524.4 dps  
+The Bread-and-butter gearset that follows the stat priorities and gear restrictions.  
+Upheaval and Inner Release do not come up cleanly all the time. Non-issue, but something to keep in mind.  
 
-#### 2.50 GCD - Simulated 5514.9 dps
-[Etro.gg for 2.50 GCD](https://etro.gg/gearset/1e409c3f-a2ae-4236-8434-1947bb3a32a2)  
-In case Etro.gg fails to load:  
-[Tank Calc screencap](https://cdn.discordapp.com/attachments/277962749630349312/927877483162902588/unknown.png)
-
-#### Savage Progression set - Simulated 4942.6 dps  
-[Etro.gg link](https://etro.gg/gearset/db39eccd-3f87-423b-898e-d72fccf94ddf)   
-In case Etro.gg fails to load:  
-[Tank Calc screencap](https://cdn.discordapp.com/attachments/277962749630349312/927852751524859944/unknown.png)   
-Ring has 2x SkS melds due to stat tiering. This results in around +12 DPS gains.  
+#### 2.50 GCD
+5523.9 dps  
+Does not drift Upheaval or Inner Release.  
+Boots have an odd set of Det+Det melds, resulting in a simulated +3.3 dps!  
 
 #### What’s the difference? Why not just use the one with the highest simulated DPS?
 
 The simulations are made with a simulated infinite rotational loop, which also heavily skews the value of skill speed.  
-
-Also #1: Fights are not infinite, and often come with downtime.  
-Also #2: Slower GCDs offer some rotational tricks to maximize Party buff windows.
+Fights are not infinite, and often come with downtime.  
+Slower GCDs offer some rotational tricks to maximize Party buff windows.  
+Simulations are also pure math based on our best understanding and knowledge of the game's mechanics. Practice always differs from theory.
 
 
 
