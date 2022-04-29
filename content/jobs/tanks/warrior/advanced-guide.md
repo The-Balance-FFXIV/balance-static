@@ -4,8 +4,8 @@ card_header_image: /img/jobs/war/advanced.png
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
-patch: "6.08"
-lastmod: 2022-03-06T12:38:50.200Z
+patch: "6.11"
+lastmod: 2022-04-29T22:05:58.255Z
 changelog:
   - date: 2021-11-15T18:36:27.000Z
     message: Created page
@@ -16,6 +16,8 @@ changelog:
   - date: 2022-03-06T12:38:53.619Z
     message: Added an image to the Nascent Chaos carrying section. Filled some text
       in Potion sections.
+  - date: 2022-04-29T22:06:02.454Z
+    message: Patch number update
 ---
 ## The Optimization
 
