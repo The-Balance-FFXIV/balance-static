@@ -4,13 +4,15 @@ card_header_image: /img/jobs/war/leveling.png
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
-patch: "6.08"
-lastmod: 2022-02-26T22:13:16.684Z
+patch: "6.11"
+lastmod: 2022-04-29T22:00:31.480Z
 changelog:
   - date: 2021-10-27T07:46:10.431Z
     message: Created
   - date: 2022-02-02T23:32:30.225Z
     message: Updated for Endwalker.
+  - date: 2022-04-29T22:00:35.226Z
+    message: Updated for Patch 6.11
 ---
 Henlo team!
 
