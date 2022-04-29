@@ -20,6 +20,12 @@ changes:
   - patch: "6.1"
     description: View the latest changes for 6.1 at the Official Site, located
       [here](https://na.finalfantasyxiv.com/jobguide/warrior/)!
+  - patch: "6.11"
+    description: >-
+      Inner Release stacks are no longer consumed by GCDs other than Fell Cleave
+      and Decimate.  
+
+      Inner Release now grants Inner Strength, negating various status effects.
 authors:
   - Balance-WAR-Staff
 ---
