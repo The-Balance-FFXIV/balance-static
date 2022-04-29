@@ -8,6 +8,8 @@ changelog:
     message: Lists added
   - date: 2022-02-02T23:35:34.677Z
     message: Updated for Endwalker.
+  - date: 2022-04-29T23:53:15.937Z
+    message: Updated 6.11
 bis:
   - type: etro
     description: "Speedy option for those looking to play other tanks with the same
@@ -18,11 +20,11 @@ bis:
       Upheaval drifts, or has to be clipped every 2nd use.\r
 
       Inner Release doesn't drift."
-    name: 2.40 GCD - 5527.7 dps - Pumpkin Ratatouille
+    name: 2.40 GCD - 5527.7 DPS - Pumpkin Ratatouille
     link: d6944631-b67f-468f-aca8-7d28d3187f6a
   - type: etro
     description: Uses the Augmented Crafted Ring (i590).
-    name: 2.45 GCD - 5525.6 dps - Pumpkin Potage
+    name: 2.45 GCD - 5525.6 DPS - Pumpkin Potage
     link: 20063557-6351-440e-aca0-b2527b39fc8a
   - type: etro
     description: >-
@@ -30,18 +32,18 @@ bis:
 
       Upheaval and Inner Release don't come up at clean moments, which is mostly a non-issue but good to keep in mind.
     link: 6d0d2d4d-a477-44ea-8002-862eca8ef91d
-    name: 2.46 GCD - 5524.4 dps - Pumpkin Potage
+    name: 2.46 GCD - 5524.4 DPS - Pumpkin Potage
   - type: etro
     description: |-
       Crafted Ring that avoids Skill Speed and Tenacity.  
       No Upheaval or Inner Release drift, or clipped GCDs.  
-      Has odd Det+Det melds in boots for +3.3 dps!
-    name: 2.50 GCD - 5523.9 dps - Pumpkin Potage
+      Has odd Det+Det melds in boots for +3.3 DPS!
+    name: 2.50 GCD - 5523.9 DPS - Pumpkin Potage
     link: 1e409c3f-a2ae-4236-8434-1947bb3a32a2
   - type: etro
     description: Ring has 2x SkS melds due to stat tiering. This results in around
-      +12 dps gains.
-    name: 2.45 GCD - 4942.6 dps - Pentamelded Savage Progression set
+      +12 DPS gain.
+    name: 2.45 GCD - 4942.6 DPS - Pentamelded Savage Progression set
     link: db39eccd-3f87-423b-898e-d72fccf94ddf
 authors:
   - Balance-WAR-Staff
