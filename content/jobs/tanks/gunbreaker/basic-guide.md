@@ -4,13 +4,15 @@ card_header_image: /img/jobs/gnb/basic.png
 authors:
   - azazael
   - Balance-GNB-Staff
-patch: "6.08"
-lastmod: 2022-04-09T19:50:37.411Z
+patch: "6.11"
+lastmod: 2022-04-30T02:08:08.026Z
 changelog:
   - date: 2021-10-25T21:29:10.159Z
     message: Created article
   - date: 2022-04-05T18:01:38.826Z
     message: Updated for Endwalker
+  - date: 2022-04-30T02:08:11.464Z
+    message: Updated for 6.11 adjustments
 ---
 # Introduction to Gunbreaker
 
@@ -153,7 +155,7 @@ CD: 60s
 **Rough Divide**
 
 150 potency attack that dashes you to the target with a 25y range. \
-Has two charges\
+Has two charges.\
 CD: 30s per charge
 
 # Rotation
@@ -208,7 +210,7 @@ There are **four** Weaponskills that require carts to use:
 
 **Gnashing Fang Combo (30s CD) (GCD Dependent)**
 
-* This is a 3-weaponskill combo that includes some of your heaviest hitting weaponskills. 
+* This is a three-weaponskill combo that includes some of your heaviest hitting weaponskills. 
   The initial weaponskill Gnashing Fang requires one Cartridge to activate but the subsequent combo weaponskills Savage Claw and Wicked Talon are free. We will touch on the Gnashing combo below.
 
 **Double Down (60s CD) (GCD Dependent)**
@@ -382,7 +384,7 @@ This isn’t an error or a mistake, it’s guaranteed in the rotation and will h
 
 Although we are leaving Gnashing Fang and Jugular Rip out of No Mercy, it secures an extra Burst Strike in No Mercy while ensuring that No Mercy does not drift out of raid buffs. It has been discussed and assessed and, as odd as it is, No Mercy after Gnashing is the optimal play and is something you will need to get used to.
 
-*As of update 6.11, the buff to the Gnashing Fang combo means that Gnashing+Jugular Rip are now stronger than Burst Strike+Hypervelocity. This means GF->NM is now a loss, however it still ensures no delay on No Mercy. It is difficult to give a baseline and state which is optimal (GF->NM or delaying NM to place GF inside the window) and will become a case by case basis both for kill times and openers. This is still being theorycrafted but for now you can continue with either option so long as all other rules of the class are upheld.*
+*As of update 6.11, the buff to the Gnashing Fang combo means that Gnashing+Jugular Rip are now stronger than Burst Strike + Hypervelocity. This means GF->NM is now a loss, however it still ensures no delay on No Mercy. It is difficult to give a baseline and state which is optimal (GF->NM or delaying NM to place GF inside the window) and will become a case by case basis both for kill times and openers. This is still being theorycrafted but for now you can continue with either option so long as all other rules of the class are upheld.*
 
 ## Bloodfest
 
@@ -393,7 +395,7 @@ Bloodfest is our second indirect/buffing offensive ability. Granting us a full P
 **Bloodfest is up but No Mercy is on cooldown:**\
 Burst Strike or Fated Circle until your gauge is empty, then use Bloodfest to refill. 
 
-* If Gnashing Fang is coming up, you can use Gnashing Fang to dump 1 cart unless waiting for Gnashing will cause you to hold Bloodfest for several GCDs, in that case, Burst Strike to zero Cartridges ➞ Bloodfest ➞ Gnashing Fang.
+* If Gnashing Fang is coming up, you can use Gnashing Fang to dump 1 cartridge unless waiting for Gnashing will cause you to hold Bloodfest for several GCDs, in that case, Burst Strike to zero Cartridges ➞ Bloodfest ➞ Gnashing Fang.
 
 **Bloodfest is up and No Mercy is ready:**\
 No Mercy is to be entered the same as any other window, being already at 3/3 Cartridges. 
@@ -464,7 +466,7 @@ Duration: 20s\
 
 Reduces HP to 1 and renders you impervious to most attacks.\
 Duration: 10s**\
-CD: 360s / 6 Minutes**
+CD: 360s / Six Minutes**
 
 ![HeartOfStone](/img/jobs/tanks/gunbreaker/Heart_of_Stone.png)
 **Heart of Stone**
@@ -522,7 +524,7 @@ Using your defensive cooldowns properly is an important part of maximizing your 
 
 **Weaving mitigation** is a topic a lot of people bring up. Using Mitigations such as Rampart and Camouflage can be done before your No Mercy as they have a substantial duration, and abilities such as Heart of Corundum can be weaved around a GCD such as Double Down and Sonic Break, as neither have forced oGCDs due to lacking Continuation. If you need to weave during the later part of No Mercy you can float Rough Divide, as it is the lowest-potency attack inside a No Mercy Window.
 
-We have three self mits that last a decent duration *but* have a lengthy cooldown.
+We have three self-mits that last a decent duration *but* have a lengthy cooldown.
 
 * Rampart: Is an all around solid defensive CD due to its duration. 20% and 20s uptime, meaning it can take a tank buster and persist long enough to cover following autos if needed. Ideally you want to alternate between Rampart and Nebula when dealing with tank busters, and you rarely want to stack them as it’ll leave you with fewer options later. A more appropriate option is to stack Camouflage with Rampart, as they share the same duration and same cooldown.
 * Nebula: One of your best cooldowns as it provides a better percentage reduction than Rampart, but it has a shorter duration and longer cooldown. As such, it requires some planning - you need to be aware that it will be up less, which means that using it pre-emptively will require stricter planning, and planning ahead is also going to be stricter due to the longer cooldown. While a great tool, you need to ensure you have it up when needed and to make sure you have options available when it isn’t.
