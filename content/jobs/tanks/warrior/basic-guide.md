@@ -26,7 +26,7 @@ By Mox Xinmagar & The Happy Team of Warriors
 Hello team!
 There should be an intro here, but I am bad at writing those.  
 Therefore I shall skip the funny talks about the Angriest Healer of FFXIV and let the rest of the guide do the talking.  
-This intro is focused on Lv90 Endwalker Warrior. Please get to level 90 soon.
+This intro is focused on Lvl90 Endwalker Warrior. Please get to level 90 soon.
 
 
 
@@ -66,9 +66,9 @@ _Abbr, Skill name (Special mentions)_
 
 **Single-target Gauge Spenders**:
 
-* IB, Inner Beast (Lv35) 
-* FC, Fell Cleave (Lv54, trait upgrades Inner Beast) 
-* IC, Inner Chaos (Lv80, Infuriate unlocks Inner Chaos) 
+* IB, Inner Beast (Lvl 35) 
+* FC, Fell Cleave (Lvl 54, trait upgrades Inner Beast) 
+* IC, Inner Chaos (Lvl 80, Infuriate unlocks Inner Chaos) 
 * These are all on a single button. 
 
 
@@ -79,9 +79,9 @@ _Abbr, Skill name (Special mentions)_
 
 
 
-* Steel Cyclone (Lv50) 
-* Decimate (Lv60, trait upgrades Steel Cyclone) 
-* Chaotic Cyclone (Lv72, Infuriate unlocks Chaotic Cyclone) 
+* Steel Cyclone (Lvl 50) 
+* Decimate (Lvl 60, trait upgrades Steel Cyclone) 
+* Chaotic Cyclone (Lvl 72, Infuriate unlocks Chaotic Cyclone) 
 * These are all on a single button. 
 
 
@@ -90,7 +90,7 @@ _Abbr, Skill name (Special mentions)_
 
 **Special mention**:
 
-* Rend, Primal Rend (Lv90) 
+* Rend, Primal Rend (Lvl 90) 
 * Has an animation lock, cannot be double-weaved with. 
 
 
@@ -101,8 +101,8 @@ _Abbr, Skill name (Special mentions)_
 **Single-target oGCDs**:
 
 
-* Uph, Upheaval (Lv64)  
-* Ons, Onslaught (Lv62)  
+* Uph, Upheaval (Lvl 64)  
+* Ons, Onslaught (Lvl 62)  
 
 
 
@@ -111,7 +111,7 @@ _Abbr, Skill name (Special mentions)_
 **Multi-target oGCDs**:
 
 
-* Orogeny (Lv86)
+* Orogeny (Lvl 86)
   
 
 
@@ -119,8 +119,8 @@ _Abbr, Skill name (Special mentions)_
 
 **Damage Buffs**   
 
-* Zerk, Berserk (Lv6)  
-* IR, Inner Release (Lv70, trait upgrades Berserk)  
+* Zerk, Berserk (Lvl 6)  
+* IR, Inner Release (Lvl 70, trait upgrades Berserk)  
 
 
 
@@ -133,13 +133,13 @@ _Abbr, Skill name (Special mentions)_
 
 **Warrior-specific**  
 
-* Thrill, Thrill of Battle (Lv30)
-* Veng, Vengeance (Lv38)
-* Holm, Holmgang (Lv42)
-* RI, Raw Intuition (Lv56)
-* SIO, Shake It Off (Lv68)
-* NF, Nascent Flash (Lv76)
-* BW, Bloodwhetting (Lv82, trait upgrades Raw Intuition)  
+* Thrill, Thrill of Battle (Lvl 30)
+* Veng, Vengeance (Lvl 38)
+* Holm, Holmgang (Lvl 42)
+* RI, Raw Intuition (Lvl 56)
+* SIO, Shake It Off (Lvl 68)
+* NF, Nascent Flash (Lvl 76)
+* BW, Bloodwhetting (Lvl 82, trait upgrades Raw Intuition)  
 
 
 
@@ -152,9 +152,9 @@ _Abbr, Skill name (Special mentions)_
 
 **Mitigation**:
 
-* Ramp, Rampart (Lv8)
-* Reprisal (Lv22)
-* Arm’s Length (Lv32)
+* Ramp, Rampart (Lvl 8)
+* Reprisal (Lvl 22)
+* Arm’s Length (Lvl 32)
 
 
 
@@ -162,8 +162,8 @@ _Abbr, Skill name (Special mentions)_
 
 **Interruptions**:
 
-* Low Blow (Lv12)
-* Interject (Lv18)
+* Low Blow (Lvl 12)
+* Interject (Lvl 18)
 
 
 
@@ -171,8 +171,8 @@ _Abbr, Skill name (Special mentions)_
 
 **Aggro Management**:
 
-* Provoke (Lv15)
-* Shirk (Lv48)
+* Provoke (Lvl 15)
+* Shirk (Lvl 48)
 
 
 
@@ -470,7 +470,7 @@ Consider the following situation:
 
 * Tank buster will hit for 100% of our HP.
 * Warrior has all their cooldowns available.
-* Thrill of Battle is used. Warrior’s MaxHP is now 120%.
+* Thrill of Battle is used. Warrior’s Max HP is now 120%.
 * Rampart is used. Tank buster now hits for 80% of the original.
 
 
@@ -500,16 +500,16 @@ The original tank buster of 100% now hits for 64.8% -- a reduction of 35.2%.
 
 #### Usual Sets of Cooldowns
 
-As for practical uses, we assume a good use of the Bloodwhetting - Granting us a total of 19% mitigation for 4 seconds.
+As for practical uses, we assume a good use of the Bloodwhetting - Granting us a total of 19% mitigation for four seconds.
 
-##### Sets of 2
+##### Sets of Two
 
 * Bloodwhetting + Thrill of Battle
 * Bloodwhetting + Rampart
 * Bloodwhetting + Vengeance
 * *Bloodwhetting + Reprisal
 
-##### Sets of 3
+##### Sets of Three
 
 * Bloodwhetting + Thrill of Battle + Rampart
 * Bloodwhetting + Thrill of Battle + Vengeance
@@ -517,7 +517,7 @@ As for practical uses, we assume a good use of the Bloodwhetting - Granting us a
 * *Bloodwhetting + Reprisal + Vengeance
 * *Bloodwhetting + Reprisal + Thrill of Battle
 
-##### Sets of 4
+##### Sets of Four
 
 _also known as Kitchen Sink**_
 
@@ -538,6 +538,7 @@ _We are throwing **everything** at the problem._
 ## Healing
 
 Warrior is the third healer of the party. With Bloodwhetting, Equilibrium, Nascent Flash and Shake It Off, we are blessed with the responsibilities of saving people who stand in stupid.  
+
 In this section, we will go over the very basics of Warrior Heals.
 
 ### Thrill of Battle
@@ -549,7 +550,7 @@ In this section, we will go over the very basics of Warrior Heals.
 * Weird like that
 
 ### Bloodwhetting
-* Get 4 GCDs in by popping this in the second oGCD slot.
+* Get four GCDs in by popping this in the second oGCD slot.
 * Heals per hit, very powerful in dungeons.
 * May Crit a heal randomly. Luck!
 * Primal Rend, Chaotic Cyclone and Inner Chaos always force a Crit heal.
