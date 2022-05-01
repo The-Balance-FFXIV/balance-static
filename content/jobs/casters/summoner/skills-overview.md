@@ -1,12 +1,14 @@
 ---
 title: Summoner Skills Overview
 authors:
-  - Balance-SMN-Staff
-patch: "5.58"
-lastmod: 2021-11-29T23:12:34.987Z
+  - juliacare
+patch: "6.11"
+lastmod: 2022-05-01T02:58:40.480Z
 changelog:
   - date: 2021-11-29T23:13:41.431Z
     message: Added page
+  - date: 2022-05-01T02:58:41.035Z
+    message: Updated for Endwalker
 ---
 # Actions
 
