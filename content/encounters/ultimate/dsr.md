@@ -56,65 +56,65 @@ A possible setup for markers is as follows:
 
 First, establish where people will bait the Hyperdimensional Slash earthshakers.
 
-## One example setup could be to have t/h take outer baits, and dps take inner baits, with casters of both groups always planting in order to minimise people over adjusting and clipping each other. Another example setup would be to order players in a line and the order of the markers from left to right will take the waymarks behind them from left to right.
+One example setup could be to have t/h take outer baits, and dps take inner baits, with casters of both groups always planting in order to minimise people over adjusting and clipping each other. Another example setup would be to order players in a line and the order of the markers from left to right will take the waymarks behind them from left to right.
 
-## Light Party setups can be helpful going into the last mechanic of this phase, Pure of Heart. You could assign 1 light party to have left protean baits and the other to grab right protean baits.
+Light Party setups can be helpful going into the last mechanic of this phase, Pure of Heart. You could assign 1 light party to have left protean baits and the other to grab right protean baits.
 
-## **Phase 1 Mechanics**
+## Phase 1 Mechanics
 
-### ☆ Things to Note ☆
+**Things to Note:**
 
 This is primarily a two boss phase consisting of Ser Grinnaux and Ser Adelphel. They’ll need to be tanked by separate tanks but they can be stacked together for double target damage.
 
 Keep a close eye on their health percentages. If one is killed before the other, then they’ll cast Bull’s Steel/Brightblade’s Steel and become impossible to kill. The cast time is *very* quick. Make sure to have them both at about a 1% difference before burning them down.
 
-### Holiest of Holy
+**Holiest of Holy**
 
 Heavy Raidwide from Adelphel.
 
-### Empty Dimension
+**Empty Dimension**
 
 Donut/Dynamo AOE on Ser Grinnaux’s position.
 
-### Full Dimension
+**Full Dimension**
 
 Out/Chariot AOE on Ser Grinnaux’s position.
 
-### Heavensblaze
+**Heavensblaze**
 
 A tether appears on a random player. This needs to be grabbed by a tank for the following tankbuster and heavily mitigated. The party and the non-tethered tank will need to stack up and mitigate the following shared aoe.
 
-### Hyperdimensional Slash
+**Hyperdimensional Slash**
 
 2 sets of earthshaker markers will randomly target 4 people each. Each set of 4 marked players will be shot with a wide line aoe that will spawn a portal at its edge. At the same time, the unmarked people will be hit by a conal aoe targeted randomly on an unmarked player. If the portals are too close to each other then they will tether to each other and detonate, causing a wipe. If a player is too close to a portal, it will tether to them and kill them instantly.
 
-### Faith Unmoving
+**Faith Unmoving**
 
 Ser Grinnaux knocks back all players relative to his location
 
-### Holiest of Holy 2
+**Holiest of Holy 2**
 
 Ser Adelphel will spawn on a random cardinal edge, cast a holiest of holy raidwide and begin dashing 4 times, spawning orbs in his path which kill those that are hit. After the 4 dashes, Adelphel strikes the highest enmity target with a small aoe tankbuster. These orbs can tether to the portals from the previous mechanic and will detonate, wiping the party.
 
 Ser Adelphel’s dash pattern goes cw/ccw, across, opposite of the first movement (cw/ccw), then across again. This pattern takes an hourglass shape.
 
-### Holiest Hallowing
+**Holiest Hallowing**
 
 Ser Adelphel will begin casting a heal on Ser Grinnaux, this needs to be interrupted or Ser Grinnaux will recover 30% of his hp.
 
-### Heavensflame
+**Heavensflame**
 
 4 pairs of symbols will appear on 8 random players. These indicate the player pairs that will be chained soon after. These chains need to be broken immediately by distance or both chained players will begin receiving heavy damage.
 
 Soon after, every player will be hit with individual circular aoes that deal heavy damage, and afflicting them with a magic vuln up. These will kill others if they overlap.
 
-DPS will get: **2** **circles**, **1 triangle**, and **1 square**.
+DPS will get: two circles, one triangle, and one square.
 
-Tanks will get: **1 square**, **1 cross**.
+Tanks will get: one square, one cross.
 
-Healers will get: **1 triangle**, **1 cross**.
+Healers will get: one triangle, one cross.
 
-### The Bull’s Steel & Brightblade’s Steel
+**The Bull’s Steel & Brightblade’s Steel**
 
 Soft enrage. Damage buff & full heal for both Grinnaux and Adelphel if cast goes off. Ser Grinnaux will then immediately start casting a Full Dimension, killing everyone at the end of the cast. This happens when one of Ser Grinnaux or Ser Adelphel dies too soon before the other or after a certain period of time as a soft enrage.
 
@@ -122,13 +122,15 @@ Soft enrage. Damage buff & full heal for both Grinnaux and Adelphel if cast goes
 
 Haurchefant will block Ser Zephirin’s spear outside of the circle during Pure of Heart, receiving damage until death and creating raidwide shockwaves during each tick while alive. He will also gain an infirmity debuff which reduces his health regeneration from external sources by 100%.
 
-### Pure of Heart
+**Pure of Heart**
 
 DPS Check. Ser Grinnaux will chain everyone within a small circle, exiting this circle will kill you instantly. Meanwhile, Ser Charibert will begin casting Pure of Heart. Once his cast finishes he will deal damage to players proportional to the % of his remaining health. Bring him below ~20% for transition to the next phase.
 
 Two players at a time will be targeted by protean waves baited on the closest players. Players hit by the protean will later receive a 5s Skyblind debuff and drop a twister/stepped leader at their location when the timer hits 0, dealing heavy damage to those in it. These can be baited away from the initial protean position.
 
-## **Phase 1 Timeline**
+## Phase 1 Timeline
+
+*******************THIS WILL NEED TO BE A TABLE***************
 
 Times are at snapshot / end of cast
 
@@ -188,23 +190,23 @@ Times are at snapshot / end of cast
 
 0:36 	**4th Skyblind**
 
-## **Phase 1 Strat**s
+## Phase 1 Strats
 
-### Beginning
+**Beginning:**
 
 Stack both bosses together in the middle with the party at south and at max melee. 
 
-### Holiest of Holy
+**Holiest of Holy:**
 
 Raidwide. Need to just mitigate and shield through this.
 
-### Empty Dimension & Heavensblaze
+**Empty Dimension & Heavensblaze:**
 
 Donut, Tank Tether, Shared AoE. The party will stack south right outside of Ser Grinnaux’s hitbox. One of the two tanks will move south to grab the tether and head to the opposite side of the hitbox of the party while the other tank stacks with the party. The tethered tank will need heavy mitigation while the party will need at least 2 mitigations & shields to survive the shared aoe.
 
 If the tethered tank is finding it difficult to grab the tether, they can pull Adelphel slightly north of Grinnaux to increase the tether distance from the party. Just keep in mind the size of the Empty Dimension donut.
 
-### Hyperdimensional Slash
+**Hyperdimensional Slash:**
 
 4 players will be targeted with line earthshakers, players with these markers will position themselves starting either north/south toward corners, being careful not to be too close to others or too close to the bosses so as to not get cleaved by the earthshaker. Meanwhile, unmarked players will stack opposite of the marked players to receive a cleave targeted randomly on one of the unmarked players.
 
@@ -216,7 +218,7 @@ Since the DPS check for this phase is quite lenient, for prog reasons and for co
 
 Example: Hyperdimensional Slash
 
-### Faith Unmoving & Holiest of Holy
+**Faith Unmoving & Holiest of Holy:**
 
 Identify the cardinal direction Ser Adelphel is, move opposite of him and pop knockback resistance. Ser Adelphel will cast a Holiest of Holy raidwide and begin dashing. The raidwide may catch people off guard, remember to mitigate this as needed when getting into your initial positions.
 
@@ -234,11 +236,11 @@ Example: Holiest of Holy 2 Safe Spot
 
 The exact tip of this arrow is always safe.
 
-### Holiest Hallowing
+**Holiest Hallowing:**
 
 First of the heals that come from Ser Adelphel, 3 of these will happen throughout P1 and must be interrupted so plan out the order of interrupts and call them out if necessary. The DPS check will be impossible if even one of these goes off. 
 
-### Faith Unmoving & Heavensflame (AKA Playstation)
+**Faith Unmoving & Heavensflame (AKA Playstation):**
 
 Knockback into chains & individual aoes. There will be 4 random pairs of symbols above each person’s head. Start close to Grinnaux and opposite of your paired partner and get knocked back, then run slightly to the edge to ensure that your chains break and you’re not clipping anyone with the resulting spread aoe.
 
@@ -252,7 +254,7 @@ Tanks will get: **1 square**, **1 cross**
 
 Healers will get: **1 triangle**, **1 cross**
 
-#### **Static Positions Strat**
+* Static Positions Strat:
 
 Tanks will start North, DPS start Southeast, Healers start Southwest. This drastically reduces the amount of adjusting and thinking needed.
 
@@ -264,13 +266,13 @@ Initial Setups
 
 Final Positions
 
-**Note:** If you’re a warrior, your Inner Release comes up at around this time so either delay it, use it pre-pull, or click off the knockback resistance portion. You can create a macro with /statusoff "Inner Strength" to help with this.
+*Note:* If you’re a warrior, your Inner Release comes up at around this time so either delay it, use it pre-pull, or click off the knockback resistance portion. You can create a macro with /statusoff "Inner Strength" to help with this.
 
-### Holiest Hallowing
+**Holiest Hallowing:**
 
 2nd holiest hallowing cast, just be sure to target Adelphel and interrupt this if it’s your responsibility.
 
-### Empty/Full Dimension & Holiest of Holy
+**Empty/Full Dimension & Holiest of Holy:**
 
 Raidwide into in/out. Empty = In, Full = Out. 
 
@@ -278,19 +280,19 @@ Be careful of the casts here. The cast of the in/out will start, the Holiest of 
 
 Additionally, your healers may not have as many resources here so plan mits as needed.
 
-### Holiest Hallowing
+**Holiest Hallowing:**
 
 Last holiest hallowing cast, interrupt based on how you assigned them. Should be noted that whomever interrupted the first can interrupt this one.
 
-**Holiest of Holy**
+**Holiest of Holy:**
 
 Another raidwide, heal through this and mitigate as needed.
 
-### Bull’s Steel & Brightblade’s Steel
+**Bull’s Steel & Brightblade’s Steel:**
 
 Soft enrages cast by both Grinnaux and Adelphel. This cast is relatively quick so make sure they’re both at the same percentage before you burn them down.
 
-### Pure of Heart (Hard Enrage)
+**Pure of Heart (Hard Enrage):**
 
 Once Adelphel and Grinnaux hit 0, Grinnaux chains everyone in a small circle and Charibert begins his cast. Leaving the circle kills you instantly so try not to leave it.
 
@@ -314,7 +316,7 @@ Ranged move to the back to drop off their stepped leader/twister while melee mov
 
 Melee move to the side max melee and drop off their stepped leader/twister while healers move in to bait their proteans.
 
-# **Phase 2: Thordan & The Knights of the Round**
+# Phase 2: Thordan and the Knights of the Round
 
 This phase has you fighting Thordan and the Knights of the Round, with Thordan becoming untargetable during Knights (trio) mechanics. Unlike previous ultimates, this fight features a checkpoint and further wipes in the instance will continue from Phase 2. The DPS check here isn’t too strict without deaths. Burst heavy jobs will perform well in this phase due to minute long downtime phases allowing for your cooldowns to become available. However, singular deaths during some mechanics can easily snowball into wipes if not recovered well. 
 
@@ -328,59 +330,53 @@ Assign light parties for Strength of the Ward & Sanctity of the Ward or use the 
 
 Assign t/h and dps pairs for 2nd Trio on cardinals. 
 
-## **Phase 2 Mechanics**
+## Phase 2 Mechanics
 
-### ☆ Things to Note ☆
+* Things to Note:
 
 Thordan’s auto attacks cleave for heavy damage so be careful not to be in front of him in between mechanics during damage phases.
 
-### Ascalon’s Mercy Concealed
+**Ascalon’s Mercy Concealed:**
 
 Baited proteans on every player, stay close to the boss until the cast disappears and sidestep to avoid them.
 
-**Ascalon’s Might**
+**Ascalon’s Might:**
 
 3 consecutive tankbuster cleaves at the highest enmity target. Mitigate as needed.
 
-### Strength of the Ward
+**Strength of the Ward:**
 
 Thordan becomes untargetable and summons knights for the first combination mechanic.
 
 The major mechanics in this are as follows:
 
-Spiral Thrust
+* Spiral Thrust
+* Lightning Storm
+* Heavy Impact
+* Ascalon’s Mercy Concealed
 
-Lightning Storm
-
-Heavy Impact
-
-Ascalon’s Mercy Concealed
-
-#### Spiral Thrust
+### Spiral Thrust
 
 A knight appears at the edge and divebombs, cleaving through the arena in a wide line aoe. 3 of these will appear at cardinal, or intercardinal spots and eliminate 6/8 safe spots.
 
-#### Lightning Storm
+### Lightning Storm
 
 Every player is hit with a spread AoE, applying a Lightning Resistance Down II debuff for 3s. These will kill any player that overlaps them.
 
-#### Heavy Impact
+### Heavy Impact
 
 Ser Gerrique casts an earthquake with expanding rings, dodge into the aoes as they appear. Getting hit by an earthquake will stun you.
 
-### 1st Trio: Dimensional Collapse & Conviction & The Dragon’s Rage
+**First Trio: Dimensional Collapse & Conviction and The Dragon’s Rage:**
 
 Thordan becomes untargetable and summons knights for another combination mechanic. 
 
 The major mechanics in this are as follows:
 
-Dimensional Collapse
-
-Conviction
-
-The Dragon’s Rage
-
-Holy Shield Bash
+* Dimensional Collapse
+* Conviction
+* The Dragon’s Rage
+* Holy Shield Bash
 
 #### Dimensional Collapse
 
