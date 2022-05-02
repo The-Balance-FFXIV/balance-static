@@ -21,6 +21,12 @@ tags:
   - Ultimate
   - encounter guide
   - fight guide
+  - dsr
+  - dru
+  - dsw
+  - dragonsong
+  - reprise
+  - dragonsong's
 ---
 Dragonsong’s Reprise is the fourth Ultimate to be released in FFXIV. Added in Patch 6.11, the fight is mechanically fast-paced and features multiple strict DPS checks on patch. It can be unlocked at the Wandering Minstrel in Old Sharlayan (X:12.7, Y:14.2) after completing Asphodelos: The Fourth Circle (Savage).
 
