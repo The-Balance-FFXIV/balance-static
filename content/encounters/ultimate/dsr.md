@@ -22,103 +22,25 @@ tags:
   - encounter guide
   - fight guide
 ---
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 64.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
+Dragonsong’s Reprise is the fourth Ultimate to be released in FFXIV. Added in Patch 6.11, the fight is mechanically fast-paced and features multiple strict DPS checks on patch. It can be unlocked at the Wandering Minstrel in Old Sharlayan (X:12.7, Y:14.2) after completing Asphodelos: The Fourth Circle (Savage).
 
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
+# Introduction
 
-![]()
-
-
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-<a href="#gdcalert9">alert9</a>
-<a href="#gdcalert10">alert10</a>
-<a href="#gdcalert11">alert11</a>
-<a href="#gdcalert12">alert12</a>
-<a href="#gdcalert13">alert13</a>
-<a href="#gdcalert14">alert14</a>
-<a href="#gdcalert15">alert15</a>
-<a href="#gdcalert16">alert16</a>
-<a href="#gdcalert17">alert17</a>
-<a href="#gdcalert18">alert18</a>
-<a href="#gdcalert19">alert19</a>
-<a href="#gdcalert20">alert20</a>
-<a href="#gdcalert21">alert21</a>
-<a href="#gdcalert22">alert22</a>
-<a href="#gdcalert23">alert23</a>
-<a href="#gdcalert24">alert24</a>
-<a href="#gdcalert25">alert25</a>
-<a href="#gdcalert26">alert26</a>
-<a href="#gdcalert27">alert27</a>
-<a href="#gdcalert28">alert28</a>
-<a href="#gdcalert29">alert29</a>
-<a href="#gdcalert30">alert30</a>
-<a href="#gdcalert31">alert31</a>
-<a href="#gdcalert32">alert32</a>
-<a href="#gdcalert33">alert33</a>
-<a href="#gdcalert34">alert34</a>
-<a href="#gdcalert35">alert35</a>
-<a href="#gdcalert36">alert36</a>
-<a href="#gdcalert37">alert37</a>
-<a href="#gdcalert38">alert38</a>
-<a href="#gdcalert39">alert39</a>
-<a href="#gdcalert40">alert40</a>
-<a href="#gdcalert41">alert41</a>
-<a href="#gdcalert42">alert42</a>
-<a href="#gdcalert43">alert43</a>
-<a href="#gdcalert44">alert44</a>
-<a href="#gdcalert45">alert45</a>
-<a href="#gdcalert46">alert46</a>
-<a href="#gdcalert47">alert47</a>
-<a href="#gdcalert48">alert48</a>
-<a href="#gdcalert49">alert49</a>
-<a href="#gdcalert50">alert50</a>
-<a href="#gdcalert51">alert51</a>
-<a href="#gdcalert52">alert52</a>
-<a href="#gdcalert53">alert53</a>
-<a href="#gdcalert54">alert54</a>
-<a href="#gdcalert55">alert55</a>
-<a href="#gdcalert56">alert56</a>
-<a href="#gdcalert57">alert57</a>
-<a href="#gdcalert58">alert58</a>
-<a href="#gdcalert59">alert59</a>
-<a href="#gdcalert60">alert60</a>
-<a href="#gdcalert61">alert61</a>
-<a href="#gdcalert62">alert62</a>
-<a href="#gdcalert63">alert63</a>
-<a href="#gdcalert64">alert64</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](/img/encounters/ultimate/dsrimage1.png "image_tooltip")
-
-Dragonsong’s Reprise is the fourth Ultimate to be released in FFXIV. Added in Patch 6.11, the fight is mechanically fast paced and features multiple strict DPS checks on patch. It can be unlocked at the Wandering Minstrel in Old Sharlayan (X:12.7, Y:14.2) after completing Asphodelos: The Fourth Circle (Savage).
-
-**Introduction**
-
-Everything here is subject to change as I learn more about specificities of strats, see more of how different groups perform different mechanics, and figure out what works best in terms of document formatting. I hope this document proves useful to your early prog while we’re all trying to figure out this fight! Needless to say, ***heavy spoilers ahead.*** Continue at your own risk if you’re looking to go blind.
+**Everything here is subject to change as I learn more about specificities of strats, see more of how different groups perform different mechanics, and figure out what works best in terms of document formatting.** I hope this document proves useful to your early prog while we’re all trying to figure out this fight! Needless to say, ***heavy spoilers ahead.*** Continue at your own risk if you’re looking to go blind.
 
 I will be updating this document frequently with new phases and their respective mechanics as I see and understand them.
 
-Currently working on: Phase 5 & Phase 6
+Currently working on: Phase 5 and Phase 6
 
-Let me know if anything’s wrong, if there’s any inconsistencies or if you have suggestions for areas of improvement in the doc on discord @ Nashira#0615.
+Let me know if anything’s wrong, if there are any inconsistencies, or if you have suggestions for areas of improvement in the doc on Discord at Nashira#0615.
 
 - - -
 
 # Phase 1: The Vault Bosses
 
-The first phase of the fight will have you facing the original trio from The Vault dungeon in Heavensward, Ser Adelphel, Ser Grinnaux, and Ser Charibert. Clearing this phase will checkpoint and cause further pulls in the instance to begin at Thordan. The limit bar gauge will be capped at 2 bars in this phase. 
+The first phase of the fight will have you facing the original trio from The Vault dungeon in Heavensward: Ser Adelphel, Ser Grinnaux, and Ser Charibert. Clearing this phase will trigger a checkpoint and cause further pulls in the instance to begin at Thordan. The limit bar gauge will be capped at two bars in this phase. 
 
-Another thing worth noting is that throughout the entire fight, if you fail to execute a mechanic correctly but survive, you will be afflicted with a 50% damage down that lasts 3 minutes.
+Another thing worth noting is that throughout the entire fight, if you fail to execute a mechanic correctly but survive, you will be afflicted with a 50% damage down that lasts three minutes.
 
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
