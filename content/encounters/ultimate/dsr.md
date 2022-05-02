@@ -628,31 +628,23 @@ Rune locations.
 
 **Sanctity of the Ward Example** (Credit to BagelGoose’s group for the screencaps)
 
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image20.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image20.png "image_tooltip")
+![](/img/encounters/ultimate/image44.png)
 
 Example: Initial counterclockwise setup, positioned a bit past the 1 intercard marker. 
 
 Make sure not to look at the gaze.
 
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image21.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image21.png "image_tooltip")
+![](/img/encounters/ultimate/image25.png)
 
 Adjust slightly as needed and wait for the orb to go off
 
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image22.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image22.png "image_tooltip")
+![](/img/encounters/ultimate/image61.png)
 
 Move into where the orb was once it goes off & mechanic resolved
 
 #### Sancity Movement Diagram
 
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image23.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image23.png "image_tooltip")
+![](/img/encounters/ultimate/image20.png)
 
 Example Movement. First Dash:
 
@@ -662,17 +654,13 @@ Party with 1 Sword slightly CCW opposite of Dark Knight.
 
 Party with 2 Swords slightly CCW next to Dark Knight.
 
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image24.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image24.png "image_tooltip")
+![](/img/encounters/ultimate/image23.png)
 
 2nd Dash:
 
 Parties can remain a bit and wait for the orb in front of them to blow up.
 
-<p id="gdcalert25" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image25.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert26">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image25.png "image_tooltip")
+![](/img/encounters/ultimate/dsrimage11.png)
 
 3rd Dash:
 
@@ -696,9 +684,7 @@ At the end of the Hiemal Storm cast, shiva puddles will appear under the players
 
 **Important!** Pairs will be responsible for towers within their respective NESW quadrants. An example of this, and the checklist for determining your tower between you and your partner is shown below. Try not to overstep if possible, but there may be cursed permutations that force this.
 
-<p id="gdcalert26" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image26.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert27">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image26.png "image_tooltip")
+![](/img/encounters/ultimate/image17.png)
 
 Possible Tower Positions. Credit to Saeyr#0081
 
@@ -737,33 +723,23 @@ The 7 meteors will finish dropping a bit before the Conviction cast goes off. If
 
 #### 2nd Trio Example (Easy Pattern)
 
-<p id="gdcalert27" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image27.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert28">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image27.png "image_tooltip")
+![](/img/encounters/ultimate/dsrimage3.png)
 
 Example: Initial configuration, prey randomly assigned to both melee and opposite outer towers are north and south. So west melee and north ranged need to swap.
 
-<p id="gdcalert28" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image28.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert29">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image28.png "image_tooltip")
+![](/img/encounters/ultimate/image28.png)
 
 Shiva puddles are baited on either t/h or dps in these cardinal positions
 
-<p id="gdcalert29" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image29.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert30">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image29.png "image_tooltip")
+![](/img/encounters/ultimate/dsrimage8.png)
 
 Once shiva circles drop, the pairs split into their respective towers, with prey marked players having priority on the directly opposite towers.
 
-<p id="gdcalert30" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image30.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert31">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image30.png "image_tooltip")
+![](/img/encounters/ultimate/image18.png)
 
 Meteors begin dropping 7x on the prey marked players, these two need to move clockwise and end up on the opposite side. Prey marked players need to keep an eye on the Faith Unmoving cast and prep knockback resist as needed as they go to drop their 5th-6th meteors. Each meteor deals raidwide damage upon landing, they won’t kill others if they land on them, just make sure they don’t land on the prey target or another meteor.
 
-<p id="gdcalert31" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image31.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert32">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image31.png "image_tooltip")
+![](/img/encounters/ultimate/image29.png)
 
 Faith Unmoving knockback happens from the centre and puddles disappear. Either get knocked into a tower or kb resist and sit in a tower. DPS taking cardinals and t/h intercard in this example.
 
@@ -815,25 +791,19 @@ Third in Line: This person’s debuff will fall off in 30s and they will be hit 
 
 Debuffs:
 
-*
+![](/img/encounters/ultimate/image26.png)
 
-<p id="gdcalert32" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image32.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert33">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-![alt_text](images/image32.png "image_tooltip")
 High Jump: Tower will spawn at the same location as the character.
 
-*
+![](/img/encounters/ultimate/image36.png)
 
-<p id="gdcalert33" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image33.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert34">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-![alt_text](images/image33.png "image_tooltip")
 Elusive Jump: Tower will spawn opposite the character’s facing.
 
-*
+![](/img/encounters/ultimate/dsrimage9.png)
 
-<p id="gdcalert34" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image34.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert35">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-![alt_text](images/image34.png "image_tooltip")
 Spineshatter: Tower will spawn in front of the character’s facing.
 
 Nidhogg will apply numbers from 1-3 to all players as well as one of three debuffs. Once the respective debuff next to the timer ticks down to 0, the player will be hit with a small aoe, become afflicted with a 12s fire resistance down debuff, and a 2s physical vuln up, and spawn a tower at their location. 
@@ -995,73 +965,51 @@ Third in Line Order of Operations:
 
 **Dive from Grace Example**
 
-<p id="gdcalert35" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image35.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert36">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image35.png "image_tooltip")
+![](/img/encounters/ultimate/image49.png)
 
 Example: First in Line tower baits, everyone else groups up for a baited Eye of the Tyrant stack aoe.
 
 Boss casts Gnash and Lash or Lash and Gnash
 
-<p id="gdcalert36" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image36.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert37">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image36.png "image_tooltip")
+![](/img/encounters/ultimate/image40.png)
 
 Party dodges inward for Lash, Third in Line move in position to soak
 
-<p id="gdcalert37" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image37.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert38">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image37.png "image_tooltip")
+![](/img/encounters/ultimate/image32.png)
 
 Party dodges out of Gnash, Third in Line soaks and Second in Line moves into position.
 
-<p id="gdcalert38" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image38.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert39">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image38.png "image_tooltip")
+![](/img/encounters/ultimate/image51.png)
 
 Third in Line bait clone lines, wait until Geirskogul cast appears then move
 
-<p id="gdcalert39" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image39.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert40">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image39.png "image_tooltip")
+![](/img/encounters/ultimate/image16.png)
 
 Third in Line regroups, Second in Line drop their towers. Resolve debuffs as needed.
 
-<p id="gdcalert40" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image40.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert41">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image40.png "image_tooltip")
+![](/img/encounters/ultimate/dsrimage7.png)
 
 2 of the previous First in Line players soak the Second in Line towers. Third in Line players move to their spots.
 
-<p id="gdcalert41" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image41.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert42">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image41.png "image_tooltip")
+![](/img/encounters/ultimate/image63.png)
 
 Bait the clones while resolving the debuffs, and dodge out of them when you see the Geirskogul cast. Nidhogg will begin casting Gnash and Lash or Lash and Gnash.
 
-<p id="gdcalert42" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image42.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert43">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image42.png "image_tooltip")
+![](/img/encounters/ultimate/dsrimage13.png)
 
 Third in Line goes off while the party takes Eye of the Tyrant AoE.
 
-<p id="gdcalert43" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image43.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert44">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image43.png "image_tooltip")
+![](/img/encounters/ultimate/dsrimage2.png)
 
 Party dodges Lash while the three leftover players without debuffs take tower soaks.
 
-<p id="gdcalert44" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image44.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert45">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image44.png "image_tooltip")
+![](/img/encounters/ultimate/image56.png)
 
 Dodge out of Gnash while the tower soakers bait the last set of clone Geirskoguls. 
 
 Move out when you see the cast.
 
-<p id="gdcalert45" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image45.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert46">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image45.png "image_tooltip")
+![](/img/encounters/ultimate/image53.png)
 
 Regroup and heal up for the next mechanic. Nidhogg will start cleaving the maintank so be careful of your movement.
 
@@ -1083,45 +1031,33 @@ Once this resolves, Nidhogg will continue auto attacking the maintank.
 
 **Darkdragon Dive Example**
 
-<p id="gdcalert46" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image46.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert47">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image46.png "image_tooltip")
+![](/img/encounters/ultimate/image33.png)
 
 Darkdragon Dive Initial Setup. Intercardinal Pairs.
 
-<p id="gdcalert47" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image47.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert48">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image47.png "image_tooltip")
+![](/img/encounters/ultimate/image24.png)
 
 Towers Appear. Since NE tower has 1, WAR moves over to 3. 
 
 Everyone else has 2 or more so they stay still.
 
-<p id="gdcalert48" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image48.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert49">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image48.png "image_tooltip")
+![](/img/encounters/ultimate/image35.png)
 
 All tower conditions are fulfilled.
 
-<p id="gdcalert49" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image49.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert50">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image49.png "image_tooltip")
+![](/img/encounters/ultimate/image54.png)
 
 Clones & Tethers appear. 
 
 Party moves to their closest east/west cardinal to bait Geirskoguls.
 
-<p id="gdcalert50" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image50.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert51">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image50.png "image_tooltip")
+![](/img/encounters/ultimate/image47.png)
 
 Geirskoguls are baited, party moves south. 
 
 Offtank grabs Nidhogg tether while Maintank grabs clone tether.
 
-<p id="gdcalert51" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image51.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert52">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image51.png "image_tooltip")
+![](/img/encounters/ultimate/dsrimage4.png)
 
 Tanks take tethers in their designated spots away from others and mitigate/invuln as needed.
 
