@@ -282,7 +282,7 @@ collections:
       - label: "Tags"
         name: "tags"
         widget: "list"
-        default: []
+        default: ["Pandaemonium", "savage", "encounter guide", "fight guide"]
   - label: "Ultimates"
     name: "ultimate"
     folder: "content/encounters/ultimate"
@@ -357,7 +357,7 @@ collections:
       - label: "Tags"
         name: "tags"
         widget: "list"
-        default: []
+        default: ["Ultimate", "encounter guide", "fight guide"]
   ##
   # Warrior guide
   ##
