@@ -378,31 +378,31 @@ The major mechanics in this are as follows:
 * The Dragon’s Rage
 * Holy Shield Bash
 
-#### Dimensional Collapse
+### Dimensional Collapse
 
 Expanding black circles will appear, being in these at the end of their expansion will kill you. There will be safe zones available at either cardinals or intercardinals for players to resolve later mechanics within. An easy method of determining safe edges is to be between two outer circles or at the edge of an inner one.
 
-#### Conviction (1st Trio)
+### Conviction (First Trio)
 
 6 towers will appear and will need to be soaked by the end of the mechanic or the towers will deal heavy raidwide damage, in addition to inflicting paralysis and damage downs to anyone still alive.
 
-#### The Dragon’s Rage
+### The Dragon’s Rage
 
 3 players will receive blue defamation markers and will need to move to individual safe spots. Meanwhile, a shared AoE from Thordan will go off on one of the unmarked players. Players will need shields and mitigation to survive either of these.
 
-#### Holy Shield Bash
+### Holy Shield Bash
 
 Two knights will spawn south relative to Thordan’s position and tether to random unmarked players. Both tanks will need to grab these tethers and move into the Thordan safe zone. The tethered targets and anyone in the path of the tether will be hit with a Shield Bash dealing heavy damage and afflicting Down for the Count for 5s. The tethered target will then be hit with multiple frontal cone cleaves.
 
-### Ancient Quaga
+**Ancient Quaga:**
 
 Heavy Raidwide. Heal through this and mitigate as needed.
 
-### Heavenly Heel
+**Heavenly Heel:**
 
 Tankswap at cast. Player with highest enmity receives a slashing resist down debuff then Thordan cleaves 3 times at the highest enmity target with Ascalon’s Might.
 
-### Sanctity of the Ward
+**Sanctity of the Ward:**
 
 Thordan becomes untargetable and begins the next combined mechanic.
 
@@ -412,17 +412,19 @@ The paladins will begin dashing throughout the arena 3 times total, leaving behi
 
 The dark knight will begin plunging at the players with the sword markers with a shared AoE, dealing less damage the further away they are. First toward the player with 1 sword, then at the player with 2 swords, back to the 1, then finishing with 2.
 
-**The Dragon’s Gaze**
+**The Dragon’s Gaze:**
 
 Gaze attack originating from both a giant eye and Thordan at the edge of the arena, players will need to be looking away from both at the cast or be afflicted by Hysteria.
 
-### 2nd Trio: Conviction & Hiemal Storm & Holy Comet & Heaven’s Stake
+**Second Trio: Conviction & Hiemal Storm & Holy Comet and Heaven’s Stake:**
 
 Thordan becomes untargetable and begins this last combined mechanic and probably the trickiest of this phase. To make things easier, this mechanic will be broken down into 2 parts.
 
-Order of mechanics are as follows.
+Order of mechanics are as follows:
 
-<span style="text-decoration:underline;">Part 1:</span>
+- - -
+
+* Part 1:
 
 4x Heaven’s Stake (puddles at consistent intercard locations) 
 
@@ -432,7 +434,7 @@ Order of mechanics are as follows.
 
 4x Hiemal’s Storm (puddles baited on t/h or dps)
 
-<span style="text-decoration:underline;">Part 2:</span>
+* Part 2:
 
 7x Holy comets on the Prey marked players
 
@@ -440,11 +442,13 @@ Faith Unmoving (knockback)
 
 8x Conviction Towers
 
-#### Hiemal’s Storm
+- - - 
+
+**Hiemal’s Storm:**
 
 <span style="text-decoration:underline;">Part 1:</span> Either 4 t/h or 4 dps will be targeted with an unmarked Hiemal’s Storm, dropping a lingering shiva puddle at their location at the end of the cast. Move out of these quickly or you’ll receive a heavy bleed debuff and likely die.
 
-#### Holy Comet
+**Holy Comet:**
 
 <span style="text-decoration:underline;">Part 1:</span> 2 players of the same role, t/h or dps will receive a prey marker. Players with these markers will begin dropping meteors at their location 7 times and will need to move to prevent these meteors from dropping on themselves or an existing meteor. If a meteor lands on another, it will detonate and wipe the raid.
 
@@ -452,11 +456,11 @@ Unmarked players will need to move to designated positions, adjusting for prey m
 
 <span style="text-decoration:underline;">Part 2:</span> Once the first set of Conviction towers resolve, meteors will begin dropping on the prey players 7 times. These will inflict raidwide damage upon landing and will detonate an existing meteor or kill the prey player if they land directly on either.
 
-#### Heaven’s Stake
+**Heaven’s Stake:**
 
 The edge of the arena will be targeted with an AoE donut, dealing damage to those within the aoe at the end of the cast. 4 lingering fire aoes will also drop on the intercardinal positions, dealing heavy damage to anyone that enters them.
 
-**Conviction** (2nd Trio)
+**Conviction (Second Trio):**
 
 <span style="text-decoration:underline;">Part 1:</span> 8 Conviction towers will appear in random locations either in the centre or near the edge. There will always be 2-3 inner towers and 5-6 outer towers. Two of the outer towers will always be guaranteed to be 150° apart from each other in the worst case.
 
@@ -464,19 +468,22 @@ The edge of the arena will be targeted with an AoE donut, dealing damage to thos
 
 These need to be soaked by the end of the cast or they will detonate and wipe the raid.
 
-### Faith Unmoving
+**Faith Unmoving:**
 
 <span style="text-decoration:underline;">Part 2:</span> Ser Grinnaux appears in the centre and knocks back all players relative to his location.
 
-### Ultimate End
+**Ultimate End:**
 
 Thordan becomes targetable at the North edge and begins the animation for Ultimate End, a heavy hitting raidwide that needs heavy mitigation and shielding in order to survive. This has no cast, so mitigate and shield during the animation.
 
-### Broad Swing
+**Broad Swing:**
 
 At the end of the cast, Thordan cleaves 120° to his left/right, the opposite side from his first swing, then rear for heavy damage dependent on his current facing. Dodge from his rear to the side that was swung at after the first cleave. Getting hit by a swing will deal damage to the player and knock them back a far distance.
 
 ## Phase 2 Timeline
+
+
+**********************THIS WILL NEED A TABLE********************
 
 Times are at snapshot / end of cast
 
@@ -542,19 +549,22 @@ Times are at snapshot / end of cast
 
 ## Phase 2 Strats
 
-### Beginning
+**Beginning:**
 
 Party starts stacked south of the boss while the main tank is on the opposite side.
 
-### Ascalon’s Mercy Concealed
+**Ascalon’s Mercy Concealed:**
 
 Wait until the cast finishes then sidestep the resulting protean waves. 
 
-### Ascalon’s Might
+**Ascalon’s Might:**
 
 Thordan will begin cleaving the target with highest enmity 3 times. *Don’t invuln this* unless you’re a warrior as you’ll need it for later in P3. Tank just needs to mitigate heavily.
 
-### Strength of the Ward: Lightning Storm & Heavy Impact & 3x Spiral Thrust -> Ascalon’s Mercy
+**Strength of the Ward: Lightning Storm & Heavy Impact & 3x Spiral Thrust -> Ascalon’s Mercy
+
+
+))))****-----&&&&& STOPPED EDITING HERE &&&&&&-------*****(((
 
 Light parties split east/west and identify the two safe spots without a knight on either end and spread in an inverse T pattern looking in.
 
