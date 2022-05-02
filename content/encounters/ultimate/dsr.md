@@ -42,15 +42,13 @@ The first phase of the fight will have you facing the original trio from The Vau
 
 Another thing worth noting is that throughout the entire fight, if you fail to execute a mechanic correctly but survive, you will be afflicted with a 50% damage down that lasts three minutes.
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+A possible setup for markers is as follows:
 
-![alt_text](images/image2.png "image_tooltip")
-
-Possible Markers
+![Possible Markers](/img/encounters/ultimate/image57.png)
 
 ## Phase 1 Setup
 
-## Establish where people will bait the Hyperdimensional Slash earthshakers.
+First, establish where people will bait the Hyperdimensional Slash earthshakers.
 
 ## One example setup could be to have t/h take outer baits, and dps take inner baits, with casters of both groups always planting in order to minimise people over adjusting and clipping each other. Another example setup would be to order players in a line and the order of the markers from left to right will take the waymarks behind them from left to right.
 
@@ -208,9 +206,7 @@ Once the first set is done, the unmarked players will then be marked and do the 
 
 Since the DPS check for this phase is quite lenient, for prog reasons and for consistency, try to always place yourself right on the marker to ensure the lines don’t stray too far from the corners.
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image3.png "image_tooltip")
+![](/img/encounters/ultimate/image60.png)
 
 Example: Hyperdimensional Slash
 
@@ -224,15 +220,11 @@ The tank with enmity on Adelphel will then need to move out of the party since h
 
 The person with the first interrupt should then prepare for when Adelphel becomes targetable while the tanks recenter the bosses for the next mechanic.
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image4.png "image_tooltip")
+![](/img/encounters/ultimate/image19.png)
 
 Example: Holiest of Holy 2 Safe Spot
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image5.png "image_tooltip")
+![](/img/encounters/ultimate/image39.png)
 
 The exact tip of this arrow is always safe.
 
@@ -258,15 +250,11 @@ Healers will get: **1 triangle**, **1 cross**
 
 Tanks will start North, DPS start Southeast, Healers start Southwest. This drastically reduces the amount of adjusting and thinking needed.
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image6.png "image_tooltip")
+![](/img/encounters/ultimate/image22.png)
 
 Initial Setups
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image7.png "image_tooltip")
+![](/img/encounters/ultimate/image48.png)
 
 Final Positions
 
@@ -304,27 +292,19 @@ Players will start taking intermittent shockwaves as Haurchefant drops to 0 hp. 
 
 Charibert will protean cleave two of the closest players to him, applying a 5s Skyblind debuff which will drop a twister at the player’s current location after falling off. Determine your order, have the players bait, move out and drop their twister, then move back into the party and repeat until Charibert is brought low enough for the phase transition (below 30%). There’s a raidwide at the end before the transition so make sure people aren’t completely low. **Don’t forget about the last set of twisters.**
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image8.png "image_tooltip")
+![](/img/encounters/ultimate/image30.png)
 
 Example Uptime Strat: Tanks bait first proteans, party stands off to the side in max melee range.
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image9.png "image_tooltip")
+![](/img/encounters/ultimate/image15.png)
 
 Tanks drop their stepped leader/twisters on opposite side at max melee once debuffs fall off, ranged move into place.
 
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image10.png "image_tooltip")
+![alt_text](/img/encounters/ultimate/image50.png "image_tooltip")
 
 Ranged move to the back to drop off their stepped leader/twister while melee move in to bait their proteans.
 
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image11.png "image_tooltip")
+![](/img/encounters/ultimate/image34.png)
 
 Melee move to the side max melee and drop off their stepped leader/twister while healers move in to bait their proteans.
 
@@ -332,9 +312,7 @@ Melee move to the side max melee and drop off their stepped leader/twister while
 
 This phase has you fighting Thordan and the Knights of the Round, with Thordan becoming untargetable during Knights (trio) mechanics. Unlike previous ultimates, this fight features a checkpoint and further wipes in the instance will continue from Phase 2. The DPS check here isn’t too strict without deaths. Burst heavy jobs will perform well in this phase due to minute long downtime phases allowing for your cooldowns to become available. However, singular deaths during some mechanics can easily snowball into wipes if not recovered well. 
 
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image12.png "image_tooltip")
+![](/img/encounters/ultimate/image38.png)
 
 Possible markers. Use the lines outside the edge of the arena to align your waymarks.
 
@@ -580,27 +558,19 @@ Light parties split east/west and identify the two safe spots without a knight o
 
 Once the lightning storms go off, move toward the edge and wait until the earthquake is close enough to step into. When you think you’ll be safe to step in, move directly into it while keeping an eye on the Ascalon’s Mercy cast (not left/right or you’ll end up clipping your party members). Once the cast finishes, sidestep out of the baited proteans.
 
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image13.png "image_tooltip")
+![](/img/encounters/ultimate/image42.png)
 
 Example: Inverse T setup at an intercardinal position
 
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image14.png "image_tooltip")
+![](/img/encounters/ultimate/image10.png)
 
 Stack and wait for earthquake
 
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image15.png "image_tooltip")
+![](/img/encounters/ultimate/image12.png)
 
 Move directly into the earthquake when it’s close enough while keeping an eye on Ascalon’s Mercy
 
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image16.png "image_tooltip")
+![](/img/encounters/ultimate/image31.png)
 
 Sidestep once the cast disappears
 
@@ -622,13 +592,11 @@ Once these mechanics resolve, non-tanks go soak your respective tower since tank
 
 <p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-![alt_text](images/image17.png "image_tooltip")
+![](/img/encounters/ultimate/image59.png)
 
 Example: Tanks grab tethers and move to where Thordan is at the edges of the dimensional collapses. Unmarked players stack up away from tanks. Marked players are by themselves at their own edges.
 
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image18.png "image_tooltip")
+![](/img/encounters/ultimate/image21.png)
 
 Mechanics are done, non-tanks move in to soak their Conviction towers and prepare for an Ancient Quaga raidwide.
 
@@ -654,9 +622,7 @@ The dark knight will be plunging in a small shared aoe for heavy damage at the s
 
 **Note:** If you have trouble refining your movement here and gauging the distance of the orbs, you can use the notches on the side of the arena as your guide. If you start just before the 3rd notch on the intercardinal, then your next movement will be the 3rd notch at the next cardinal.
 
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image19.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image19.png "image_tooltip")
+![](/img/encounters/ultimate/dsrimage1.png)
 
 Rune locations.
 
