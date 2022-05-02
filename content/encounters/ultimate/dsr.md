@@ -11,7 +11,7 @@ weight: 0
 tier_weight: 1
 expansion: ew
 authors:
-  - Balance-AST-Staff
+  - nashira
 lastmod: 2022-05-02T00:57:22.277Z
 patch: "6.11"
 changelog:
@@ -1169,9 +1169,7 @@ Haurchefant will tether a random player and Ysayle will tether Alphinaud, stack 
 
 Begin by focusing down the Right Eye, dotting both eyes if possible to assist in alleviating the dps check. Players will start in a loose spread around the Right Eye while the Left Eye tank stays put on his add.
 
-<p id="gdcalert52" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image52.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert53">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image52.png "image_tooltip")
+![](/img/encounters/ultimate/image27.png)
 
 Initial Positioning
 
@@ -1189,9 +1187,7 @@ The Melee will take the (1st) yellow orb pops on the Right Eye while the Ranged 
 
 When the cast begins, start moving to the side corresponding to your group’s orb soaks but in a loose spread. Be careful not to move into anyone unnecessarily to prevent unwanted swaps.
 
-<p id="gdcalert53" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image53.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert54">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image53.png "image_tooltip")
+![](/img/encounters/ultimate/image64.png)
 
 Hatebound Initial Setup
 
@@ -1203,33 +1199,23 @@ If you don’t have the correct chain colour, move directly into the centre betw
 
 #### Hatebound & Orbs Example
 
-<p id="gdcalert54" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image54.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert55">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image54.png "image_tooltip")
+![](/img/encounters/ultimate/image46.png)
 
 Chains go out. Since both healers have blue and are 1st pop, they need to swap. Since pld & brd have red and are 2nd pop, they need to swap. Players can use this time to apply some shields and mitigations.
 
-<p id="gdcalert55" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image55.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert56">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image55.png "image_tooltip")
+![](/img/encounters/ultimate/image58.png)
 
 Swaps happen quickly in the middle, everyone else in position off to the side.
 
-<p id="gdcalert56" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image56.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert57">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image56.png "image_tooltip")
+![](/img/encounters/ultimate/image45.png)
 
 1st pop, shield and mitigate as needed.
 
-<p id="gdcalert57" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image57.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert58">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image57.png "image_tooltip")
+![](/img/encounters/ultimate/dsrimage6.png)
 
 Blue chained players move at the same time through the eye to grab their red chains.
 
-<p id="gdcalert58" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image58.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert59">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image58.png "image_tooltip")
+![](/img/encounters/ultimate/image62.png)
 
 2nd pop, shield and mitigate as needed.
 
@@ -1241,9 +1227,7 @@ When getting into position, keep note that players with blue chains will run dir
 
 At the end of the Mirage Dive cast, two random red chained players at a time will begin being targeted with Mirage Dives, 4 sets total with 5 seconds between each pair of dives. Ensure you’re a good enough distance away from each other as to not clip someone if this is you.
 
-<p id="gdcalert59" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image59.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert60">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image59.png "image_tooltip")
+![](/img/encounters/ultimate/dsrimage5.png)
 
 Mirage Dive Initial Setup
 
@@ -1255,27 +1239,19 @@ When doing your swaps, the red chained players will <span style="text-decoration
 
 #### Mirage Dive Example (Strat from Xeno’s group)
 
-<p id="gdcalert60" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image60.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert61">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image60.png "image_tooltip")
+![](/img/encounters/ultimate/image41.png)
 
 1st set of Mirage Dives. Healers swap.
 
-<p id="gdcalert61" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image61.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert62">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image61.png "image_tooltip")
+![](/img/encounters/ultimate/image43.png)
 
 2nd set of Mirage Dives. Melee swap.
 
-<p id="gdcalert62" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image62.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert63">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![](/img/encounters/ultimate/image14.png)
 
-![alt_text](images/image62.png "image_tooltip")
+Third set of Mirage Dives. 1s debuff players swap (BRD & PLD in this example)
 
-3rd set of Mirage Dives. 1s debuff players swap (BRD & PLD in this example)
-
-<p id="gdcalert63" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image63.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert64">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image63.png "image_tooltip")
+![](/img/encounters/ultimate/image37.png)
 
 Last set of Mirage Dives. Mechanic resolved.
 
@@ -1421,9 +1397,7 @@ Wide line AoE/Divebomb from Darkscale/Vidofnir. The direction of the divebombs f
 
 Image of Darkscale added below in case you need help identifying him for 2nd Trio, but he’s the only dark dragon of the three so it shouldn’t be difficult to point him out.
 
-<p id="gdcalert64" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image64.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert65">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image64.png "image_tooltip")
+![](/img/encounters/ultimate/image52.png)
 
 Darkscale
 
