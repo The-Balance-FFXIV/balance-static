@@ -55,9 +55,9 @@ A possible setup for markers is as follows:
 
 ## Phase 1 Setup
 
-First, establish where people will bait the Hyperdimensional Slash earthshakers.
+First, establish where people will bait the Hyperdimensional Slash Earthshakers.
 
-One example setup could be to have t/h take outer baits, and dps take inner baits, with casters of both groups always planting in order to minimise people over adjusting and clipping each other. Another example setup would be to order players in a line and the order of the markers from left to right will take the waymarks behind them from left to right.
+One example setup could be to have tanks/healers take outer baits, and DPS take inner baits, with casters of both groups always planting in order to minimise people overadjusting and clipping each other. Another example setup would be to order players in a line and the order of the markers from left to right will take the waymarks behind them from left to right.
 
 Light Party setups can be helpful going into the last mechanic of this phase, Pure of Heart. You could assign 1 light party to have left protean baits and the other to grab right protean baits.
 
