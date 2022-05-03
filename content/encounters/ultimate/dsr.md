@@ -9,6 +9,7 @@ tier_name: Ultimate
 series_name: Ultimate
 weight: 0
 tier_weight: 1
+coming_soon: false
 expansion: ew
 authors:
   - nashira
