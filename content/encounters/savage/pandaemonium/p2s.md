@@ -1,21 +1,22 @@
 ---
+spoiler: false
 title: "Asphodelos: The Second Circle (Savage)"
 fight_title: p2s
-banner_image: /img/encounters/savage/pandaemonium/p2.jpg
+difficulty: savage
 card_image: /img/encounters/savage/pandaemonium/p2.jpg
+banner_image: /img/encounters/savage/pandaemonium/p2.jpg
 tier_image: /img/encounters/savage/pandaemonium/p2.jpg
-encounter_category: savage
 tier_name: Pandaemonium
 series_name: Pandaemonium Series
 weight: 4
 tier_weight: 1
 coming_soon: false
-spoiler: false
 expansion: ew
 authors:
   - lyra
 lastmod: 2022-01-05T20:20:19.198Z
 patch: "6.05"
+encounter_category: savage
 changelog:
   - date: 2022-01-05T22:22:21.433Z
     message: Created page
