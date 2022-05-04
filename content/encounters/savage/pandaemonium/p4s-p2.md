@@ -1,21 +1,22 @@
 ---
+spoiler: false
 title: "Asphodelos: The Fourth Circle (Savage) Phase Two"
 fight_title: p4s-p2
-banner_image: /img/encounters/savage/pandaemonium/p4-2-banner.png
+difficulty: savage
 card_image: /img/encounters/savage/pandaemonium/p4-2.png
+banner_image: /img/encounters/savage/pandaemonium/p4-2-banner.png
 tier_image: /img/encounters/savage/pandaemonium/p4-2.png
-encounter_category: savage
 tier_name: Pandaemonium
 series_name: Pandaemonium Series
 weight: 1
 tier_weight: 1
 coming_soon: false
-spoiler: false
 expansion: ew
 authors:
   - lyra
 lastmod: 2022-01-09T19:14:12.671Z
 patch: "6.05"
+encounter_category: savage
 changelog:
   - date: 2022-01-10T09:16:06.704Z
     message: Created page
