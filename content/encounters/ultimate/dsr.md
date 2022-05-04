@@ -33,7 +33,7 @@ tags:
 
 If you'd like to view the current iteration of the guide as it is, please do so by clicking [here!](https://docs.google.com/document/d/1QrJtXdVE3n52uT45Or6es7mfaRr9QrYUgaKHITCDZak/edit#heading=h.56jqy1f7ddrw)
 
-- - - 
+- - -
 
 Dragonsong’s Reprise is the fourth Ultimate to be released in FFXIV. Added in Patch 6.11, the fight is mechanically fast-paced and features multiple strict DPS checks on patch. It can be unlocked at the Wandering Minstrel in Old Sharlayan (X:12.7, Y:14.2) after completing Asphodelos: The Fourth Circle (Savage).
 
@@ -137,65 +137,7 @@ Two players at a time will be targeted by protean waves baited on the closest pl
 
 ## Phase 1 Timeline
 
-*******************THIS WILL NEED TO BE A TABLE***************
-
-Times are at snapshot / end of cast
-
-0:09	**Holiest of Holy** (Raidwide)
-
-0:21	**Empty Dimension & Holy Shield Bash** (Donut -> TB)
-
-0:27	**Heavensblaze** (Stack AoE)
-
-0:43	**Hyperdimensional Slash 1** (Earthshakers)
-
-0:51	**Hyperdimensional Slash 2** (Earthshakers)
-
-0:58	**Faith Unmoving** (KB)
-
-1:00	**Holiest of Holy** -> **Dashes**
-
-1:08	**Execution** (on Adelphel Tank)
-
-1:11	**Holiest Hallowing** (Interrupt)
-
-1:20	**Playstation Chains Appear**
-
-1:24 	**Faith Unmoving** (KB)
-
-1:27	**Heavensflame** (Spread AoE)
-
-1:29	**Holiest Hallowing** (Interrupt)
-
-1:41	**Holiest of Holy** (Raidwide)
-
-1:43	**Empty/Full Dimension** (In/Out)
-
-1:47 	**Holiest Hallowing** (Interrupt)
-
-2:02	**Holiest of Holy** (Raidwide)
-
-2:07	**The Bull’s Steel & Brightblade’s Steel** (Soft Enrage)
-
-*Time Dependent on Adelphel & Grinnaux Kills*
-
-0:00	**Pure of Heart Cast Starts** (Hard Enrage)
-
-0:12	**Shockwaves Start**
-
-0:16	**1st Brightwing** (Protean)
-
-0:18	**Shockwaves End**
-
-0:21	**2nd Brightwing & 1st Skyblind** (Protean & Stepped Leader)
-
-0:26	**3rd Brightwing & 2nd Skyblind**
-
-0:31 	**4th Brightwing & 3rd Skyblind**
-
-0:35 	**Pure of Heart Cast Finishes**
-
-0:36 	**4th Skyblind**
+![](/img/encounters/ultimate/timelinewipp1.png)
 
 ## Phase 1 Strats
 
