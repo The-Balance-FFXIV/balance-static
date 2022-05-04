@@ -1,7 +1,7 @@
 ---
 title: Dragonsong's Reprise
 fight_title: DSR
-encounter_category: ultimate
+difficulty: ultimate
 card_image: /img/encounters/ultimate/image55.jpg
 banner_image: /img/encounters/ultimate/image55.jpg
 tier_image: /img/encounters/ultimate/image55.jpg
@@ -10,11 +10,12 @@ series_name: Ultimate
 weight: 0
 tier_weight: 1
 coming_soon: false
-expansion: ew
 authors:
   - nashira
-lastmod: 2022-05-02T00:57:22.277Z
 patch: "6.11"
+encounter_category: ultimate
+expansion: ew
+lastmod: 2022-05-02T00:57:22.277Z
 changelog:
   - date: 2022-05-02T01:09:36.593Z
     message: Page added
