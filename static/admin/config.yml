@@ -228,7 +228,7 @@ collections:
         widget: "string"
         pattern: ["[A-Za-z0-9-]", "Cannot use spaces. Please only use letters, numbers, and dashes"]
       - label: "Encounter Category"
-        name: "encounter_category" 
+        name: "difficulty" 
         widget: "select"
         options: ["savage", "ultimate", "extreme"]
       - {label: "Fight Card Image", name: "card_image", widget: "image", choose_url: false}
