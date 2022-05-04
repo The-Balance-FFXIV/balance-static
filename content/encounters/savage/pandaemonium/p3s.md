@@ -1,21 +1,22 @@
 ---
+spoiler: false
 title: "Asphodelos: The Third Circle (Savage)"
 fight_title: p3s
-banner_image: /img/encounters/savage/pandaemonium/p3-banner.jpg
+difficulty: savage
 card_image: /img/encounters/savage/pandaemonium/p3.jpg
+banner_image: /img/encounters/savage/pandaemonium/p3-banner.jpg
 tier_image: /img/encounters/savage/pandaemonium/p3.jpg
-encounter_category: savage
 tier_name: Pandaemonium
 series_name: Pandaemonium Series
 weight: 3
 tier_weight: 1
 coming_soon: false
-spoiler: false
 expansion: ew
 authors:
   - lyra
 lastmod: 2022-01-06T17:50:18.582Z
 patch: "6.05"
+encounter_category: savage
 changelog:
   - date: 2022-01-09T19:17:50.446Z
     message: Added tank invuln (myta (noob)) strat for Storms of Asphodelos. Added
