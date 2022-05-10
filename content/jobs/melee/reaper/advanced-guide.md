@@ -367,11 +367,11 @@ While there isn’t much optimization or advanced theorycrafting here, I wanted 
 ![Image](/img/jobs/rpr/odd_to_even_filler.png)
 
 * After Single Enshroud (Odd Minute) Windows
-* 8 Filler GCDS (Combo actions are preferred)
-* 2 Soul Slices
+* Eight filler GCDS (Combo actions are preferred)
+* Two Soul Slices
 * One Shadow of Death, do not overwrite above 60 seconds
-* 1 Gluttony, 3 Blood Stalk Variants
-* 5 Gibbet / Gallows
+* One Gluttony, three Blood Stalk Variants
+* Five Gibbet / Gallows
 
 Understanding how these work is crucial to understanding the next part of this document. These filler windows assume you are Enshrouding every minute and twice every two minutes, and that the filler count begins after the Communio. 
 
