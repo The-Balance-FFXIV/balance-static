@@ -484,7 +484,7 @@ Sequence:
 * Cross Reaping > Lemure’s Slice
 * Void Reaping
 * Cross Reaping > Lemure’s Slice
-* Communio >> Priority System
+* Communio > Priority System
 
   * If no combo, 50 Soul and Gluttony off CD use Gluttony and do Gibbet / Gallows.
   * If no combo, < 50 Soul then use Soul Slice into Gluttony and do Gibbet / Gallows.
