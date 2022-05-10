@@ -335,8 +335,6 @@ Below you can see the effect of a potion used in the opener at six minutes vs. a
 
 ![](/img/jobs/rpr/opener_two_minute_potion.png)
 
-
-
 - - -
 
 ## Odd Minute Enshroud
@@ -452,13 +450,13 @@ Nothing super special here. Limit Break Three will cost us about three GCDs, or 
 
 ![](/img/jobs/rpr/2021-12-07_00-02-00-559_almastudio_colorpop.png)
 
-
-
 - - -
 
 # Graduate Studies: Burst Windows
 
 While everything above is considered crucial to optimization, the next section is catered to even further learning and should only be applied once a base understanding of the previous sections has been attained. 
+
+- - -
 
 ## **Double Enshroud, Harvest Moon Variant**
 
@@ -510,6 +508,8 @@ We won’t always have to use Harvest Moon for movement, as it is likely that th
 
 This optimization requires you to insert a Shadow of Death sometime before you enter your Double Shroud window, and it will create a very tight Arcane Circle weave window. If pulled off successfully, you will land a Harvest Moon on the enemy with most raid buffs in play, the exception being Dancer buffs. 
 
+- - -
+
 ## Double Shroud Variant, Single SoD
 
 ![Image](/img/jobs/rpr/double_enshroud_single_extension.png)
@@ -545,6 +545,8 @@ Description:
 There will be cases where you will be unable to Shadow of Death twice during Shroud and Harvest Moon either isn’t available, or will need to be used later. It could be an untimely boss jump, weird re-opener, or a forced buff hold period. The goal for these situations is to at least extend the first Lemure phase by one Shadow of Death, so entering Shroud with sub-30s on Death’s Design is optimal. The position of the Shadow of Death is variable, but ideally you want to use it right before you will use Arcane Circle. This variation is the weakest of our burst options, since your last Communio can miss a good chunk of raid buffs. 
 
 Sometimes, if the fight allows it, it may be better to just correct your Death’s Design timer and go for a default double Shroud window. This can be accomplished at the cost of only 10 Soul, which means fights that end with 40 or less Soul can do this without worrying about punishment. 
+
+- - -
 
 ## Triple Shroud Window
 
@@ -634,7 +636,7 @@ Ultimately, we aren’t sure what will be better for content until we have the c
 
 - - -
 
-# Graduate Studies: Assigning Value to Resource 
+# Graduate Studies: Assigning Value to Resource
 
 This section will provide some insight on how we are valuing the Shroud and Soul Gauges. This will get a bit technical, but will also make several assumptions. The only way that we can effectively view these gauges is in a vacuum where we assume every 10 Gauge will be spent. 
 
