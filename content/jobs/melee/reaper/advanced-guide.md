@@ -17,6 +17,8 @@ changelog:
       and Two Target Prioritization
   - date: 2022-04-16T22:07:33.451Z
     message: Removed Trick Attack stuff
+  - date: 2022-05-10T22:28:11.731Z
+    message: Updated Early Gluttony Opener picture and the text under it.
 ---
 ## Reaper Advanced Rotational Theory
 
@@ -107,7 +109,7 @@ Note: The Sequence of Gibbet / Gallows and Void / Cross Reaping are not a requir
 
 ![](/img/jobs/rpr/earlyshroud.png)
 
-* Soul Sow pre-pull
+* Soul Sow Pre-pull
 * Harpe at two seconds on the countdown
 * Shadow of Death > Arcane Circle
 * Soul Slice 
@@ -149,13 +151,13 @@ Let’s break apart this opener and discuss and explain a few things:
 
 ### Early Gluttony Opener
 
-![](/img/jobs/rpr/early_gluttony.png)
+![](/img/jobs/rpr/early_gluttony_-from_resources-.png)
 
 * Prepull Soul Sow
-* Potion @ 3s on countdown if you can’t use potion at two/ minute mark
+* (If your GCD is <2.47 pre-pull Pot at 3s on countdown)
 * Harpe at 2s on countdown
-* Shadow of Death >> Arcane Circle
-* Soul Slice > Gluttony
+* Shadow of Death >> Middle weave Potion (If you can’t at two minutes) 
+* Soul Slice > Arcane Circle (If your GCD is <2.47 use AC one GCD earlier) > Gluttony
 * Gibbet
 * Gallows
 * Plentiful Harvest > Enshroud
@@ -174,10 +176,10 @@ Let’s break apart this opener and discuss and explain a few things:
 * Where is the potion? 
 
   * Optimally, we would prefer not to use a potion in the opener but we will have to based on certain fight timings or mechanics. I will go more into the potion windows below.
-  * If you need to use a potion, you can use either 3s on pre-pull or weave it late after the first Gibbet/Gallows.
-* Why is Arcane Circle so Early?
+  * If you need to use a potion, you can use either 3s on pre-pull with <2.47 GCD or use it after Shadow of Death with a GCD >2.47.
+* Why does my GCD affect where I should weave Arcane Circle ?
 
-  * The main advantage of the first GCD Arcane Circle is that we don’t clip Plentiful Harvest. If you are able to, without clipping Plentiful Harvest, you can position the Arcane Circle after the first Soul Slice for a minor DPS gain.
+  * If your GCD is >2.47 you can use PH two GCD's after early weaving Arcane Circle without clipping your GCD. However with a GCD faster than 2.48 you will be clipping PH which is why you would want to use it one GCD earlier instead.
 * Where is Harvest Moon? 
 
   * Harvest Moon would only replace a 520 potency ability in this opener and would ultimately shift Gluttony further down the timeline, potentially pushing it more quickly out of buff windows. Harvest Moon will have a better space in a future buff window, or for a disengage.
@@ -312,11 +314,13 @@ Sequence:
 * After Soul Slice use Blood Stalk Variant + Gibbet/Gallows
 
 Shadow of Death is not a necessary filler here but still recommended, as long as you don’t overcap. 
+You will want one if you are potion weaving. If you are unable to maintain your combo, due to high 
+ping or other factors it is recommended that you simply play a priority rotation instead. 
 
-
-You will want one if you are potion weaving. If you are unable to maintain your combo, due to high ping or other factors it is recommended that you simply play a priority rotation instead. 
-
-Ultimately, if you are playing Reaper as a priority system and putting less effort into optimizing your burst, the Early Gluttony opener may be the safer bet. It will lose out on rDPS when fitting potency into raid buffs, but it will always guarantee that your Gluttony will be used on cooldown. If you are looking to optimize, be very familiar with this opener and burst phase, as the chance of it being best 
+Ultimately, if you are playing Reaper as a priority system and putting less effort into optimizing your 
+burst, the Early Gluttony opener may be the safer bet. It will lose out on rDPS when fitting 
+potency into raid buffs, but it will always guarantee that your Gluttony will be used on cooldown. If you 
+are looking to optimize, be very familiar with this opener and burst phase, as the chance of it being best 
 for a fight is likely.
 
 ![](/img/jobs/rpr/edgy-reaper-1.png)
@@ -358,20 +362,20 @@ While there isn’t much optimization or advanced theorycrafting here, I wanted 
 ![](/img/jobs/rpr/even_to_odd_filler.png)
 
 * After opener Enshroud and Double Enshroud phases
-* Ten filler GCDs  (Combo actions are preferred)
-* Two Soul Slices
-* Two Shadow of Deaths, do not overwrite above 60 seconds
-* One Gluttony, three Blood Stalk Variants
-* Five Gibbet / Gallows
+* 10 Filler GCDs  (Combo actions are preferred)
+* 2 Soul Slices
+* 2 Shadow of Deaths, do not overwrite above 60 seconds
+* 1 Gluttony, 3 Blood Stalk Variants
+* 5 Gibbet / Gallows
 
 ![Image](/img/jobs/rpr/odd_to_even_filler.png)
 
 * After Single Enshroud (Odd Minute) Windows
-* Eight filler GCDS (Combo actions are preferred)
-* Two Soul Slices
+* 8 Filler GCDS (Combo actions are preferred)
+* 2 Soul Slices
 * One Shadow of Death, do not overwrite above 60 seconds
-* One Gluttony, three Blood Stalk Variants
-* Five Gibbet / Gallows
+* 1 Gluttony, 3 Blood Stalk Variants
+* 5 Gibbet / Gallows
 
 Understanding how these work is crucial to understanding the next part of this document. These filler windows assume you are Enshrouding every minute and twice every two minutes, and that the filler count begins after the Communio. 
 
