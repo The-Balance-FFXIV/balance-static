@@ -107,7 +107,7 @@ Note: The Sequence of Gibbet / Gallows and Void / Cross Reaping are not a requir
 
 ![](/img/jobs/rpr/earlyshroud.png)
 
-* Soul Sow Pre-pull
+* Soul Sow pre-pull
 * Harpe at two seconds on the countdown
 * Shadow of Death > Arcane Circle
 * Soul Slice 
