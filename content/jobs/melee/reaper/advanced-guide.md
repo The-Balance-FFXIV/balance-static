@@ -358,11 +358,11 @@ While there isn’t much optimization or advanced theorycrafting here, I wanted 
 ![](/img/jobs/rpr/even_to_odd_filler.png)
 
 * After opener Enshroud and Double Enshroud phases
-* 10 Filler GCDs  (Combo actions are preferred)
-* 2 Soul Slices
-* 2 Shadow of Deaths, do not overwrite above 60 seconds
-* 1 Gluttony, 3 Blood Stalk Variants
-* 5 Gibbet / Gallows
+* Ten filler GCDs  (Combo actions are preferred)
+* Two Soul Slices
+* Two Shadow of Deaths, do not overwrite above 60 seconds
+* One Gluttony, three Blood Stalk Variants
+* Five Gibbet / Gallows
 
 ![Image](/img/jobs/rpr/odd_to_even_filler.png)
 
