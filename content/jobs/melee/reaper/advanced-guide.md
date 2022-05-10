@@ -179,7 +179,7 @@ Let’s break apart this opener and discuss and explain a few things:
   * If you need to use a potion, you can use either 3s on pre-pull with <2.47 GCD or use it after Shadow of Death with a GCD >2.47.
 * Why does my GCD affect where I should weave Arcane Circle ?
 
-  * If your GCD is >2.47 you can use PH two GCD's after early weaving Arcane Circle without clipping your GCD. However with a GCD faster than 2.48 you will be clipping PH which is why you would want to use it one GCD earlier instead.
+  * If your GCD is >2.47 you can use Plentiful Harvest two GCD's after early weaving Arcane Circle without clipping your GCD. However with a GCD faster than 2.48 you will be clipping Plentiful Harvest which is why you would want to use it one GCD earlier instead.
 * Where is Harvest Moon? 
 
   * Harvest Moon would only replace a 520 potency ability in this opener and would ultimately shift Gluttony further down the timeline, potentially pushing it more quickly out of buff windows. Harvest Moon will have a better space in a future buff window, or for a disengage.
