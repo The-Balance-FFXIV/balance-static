@@ -312,13 +312,11 @@ Sequence:
 * After Soul Slice use Blood Stalk Variant + Gibbet/Gallows
 
 Shadow of Death is not a necessary filler here but still recommended, as long as you don’t overcap. 
-You will want one if you are potion weaving. If you are unable to maintain your combo, due to high 
-ping or other factors it is recommended that you simply play a priority rotation instead. 
 
-Ultimately, if you are playing Reaper as a priority system and putting less effort into optimizing your 
-burst, the Early Gluttony opener may be the safer bet. It will lose out on rDPS when fitting 
-potency into raid buffs, but it will always guarantee that your Gluttony will be used on cooldown. If you 
-are looking to optimize, be very familiar with this opener and burst phase, as the chance of it being best 
+
+You will want one if you are potion weaving. If you are unable to maintain your combo, due to high ping or other factors it is recommended that you simply play a priority rotation instead. 
+
+Ultimately, if you are playing Reaper as a priority system and putting less effort into optimizing your burst, the Early Gluttony opener may be the safer bet. It will lose out on rDPS when fitting potency into raid buffs, but it will always guarantee that your Gluttony will be used on cooldown. If you are looking to optimize, be very familiar with this opener and burst phase, as the chance of it being best 
 for a fight is likely.
 
 ![](/img/jobs/rpr/edgy-reaper-1.png)
