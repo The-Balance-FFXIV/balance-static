@@ -64,8 +64,6 @@ To perform these dances correctly, you simply look at the gauge and perform the 
 
 (A dance will never have the same step twice.)
 
-
-
 {{< youtube "FbVqyAfM-hg?start=167" >}}
 
 &nbsp;
@@ -82,13 +80,13 @@ Differences in gear and other factors can have an effect on who the optimal danc
 
 In a vacuum where gear and skill level is equal the priority would be such: 
 
-SAM > RPR/MNK > DRG/SMN/BLM/NIN/RDM > MCH > BRD > DNC
+NIN > MNK/RPR > DRG/SAM > RDM/BLM > SMN > MCH > BRD > DNC
 
 Dance partner does stack, so if you’re ever in a situation where you have two Dancers in a dungeon, you can partner each other.
 
 (Esprit generation is only a minor consideration as this is largely standardized between different jobs.)
 
-There is also a dance partner calculator which you can use to determine exactly who the best value dance partner is. This tool is still being updated for the Endwalker changes, but can be found [here](http://partnercalc.herokuapp.com).
+There is also a dance partner calculator which you can use to determine exactly who the best value dance partner is. It can be found [here](http://partnercalc.herokuapp.com).
 
 # Your rotation
 
@@ -118,13 +116,9 @@ Next we have the main dance, Standard Step. We use this ability mostly on cooldo
 
 At very high levels of optimization, there can be exceptions. These exceptions are the reason why a gearset with a small degree of skill speed is recommended for the most recent raid tier. This discussion is beyond the scope of this document.
 
-Flourish is our one-minute cooldown. It grants all possible procs: Fan Dance III, Reverse Cascade, Fountainfall, and Fan Dance IV. It is important to only use Flourish if none of these procs are currently active. Make sure to use up all your procs when Flourish is about to come off cooldown. If you do have a proc when Flourish comes off cooldown simply delay flourish by one GCD like so:
-
-![](/img/jobs/dnc/dnc4.png)
+Flourish is our one-minute cooldown. It grants all possible procs: Fan Dance III, Reverse Cascade, Fountainfall, and Fan Dance IV. It is important to only use Flourish if you do not have Fan Dance III already procced, to avoid overwriting. As per 6.1 this doesn’t matter for Reverse Cascade and Fountainfall, these proc’s stack additive with flourish.
 
 &nbsp;
-
-If you don’t have any procs, you can also use Saber Dance as the GCD prior to Flourish.  It does not generate any procs, so you do not risk overwriting any with Flourish.
 
 Lastly, your two-minute cooldowns are Devilment and Technical Step. Devilment grants you and your dance partner 20% Crit and Direct Hit rating, while Technical Finish gives your entire party a 5% flat damage buff and the ability to generate Esprit for you. All of these buffs last 20 seconds, and as they have the same cooldown, it’s best to keep them aligned with each other. During its duration, Devilment also transforms into Starfall Dance, a hard hitting GCD, and Technical Finish transforms into Tillana, which refreshes the Standard Finish buff.  
 
