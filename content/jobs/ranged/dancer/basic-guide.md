@@ -3,8 +3,8 @@ title: Dancer Basic Guide
 card_header_image: /img/jobs/dnc/basic.png
 authors:
   - juliacare
-patch: "6.08"
-lastmod: 2022-04-01T01:48:02.901Z
+patch: "6.1"
+lastmod: 2022-05-12T01:48:02.901Z
 changelog:
   - date: 2021-10-26T02:04:43.843Z
     message: Page created
@@ -13,14 +13,16 @@ changelog:
       adapted for Endwalker
   - date: 2022-04-01T01:48:05.000Z
     message: Updated to new basic guide.
+  - date: 2022-05-12T17:46:39.061Z
+    message: Updated for 6.1
 ---
 # Foreword
 
 Welcome to the basic Dancer guide. Within this document, you’ll find all the information you’ll need to learn to play the job. Other links will be included below for further references and resources. Any further questions can also be directed to the Dancer channels in the Balance’s Discord. 
 
-For a video version of this guide [click here](https://www.youtube.com/watch?v=FbVqyAfM-hg)!
+For a video version of this guide [click here!](https://www.youtube.com/watch?v=fvafO3u3VcA)
 
-{{< youtube FbVqyAfM-hg >}}
+{{< youtube fvafO3u3VcA >}}
 
 # Useful Resources
 
@@ -64,7 +66,7 @@ To perform these dances correctly, you simply look at the gauge and perform the 
 
 (A dance will never have the same step twice.)
 
-{{< youtube "FbVqyAfM-hg?start=167" >}}
+{{< youtube "fvafO3u3VcA?start=167" >}}
 
 &nbsp;
 
