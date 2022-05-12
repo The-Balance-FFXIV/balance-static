@@ -26,7 +26,9 @@ Welcome to the Basic Machinist Guide! Within this document, you'll find all the 
 
 [Openers](https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/)
 
-Advanced Guide (WIP)
+[Advanced Guide](https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/)
+
+[Video Guide](https://www.youtube.com/watch?v=-OPOskH-llQ)
 
 [Meld Priority](https://www.thebalanceffxiv.com/jobs/ranged/machinist/) (Listed on the landing page.)
 
