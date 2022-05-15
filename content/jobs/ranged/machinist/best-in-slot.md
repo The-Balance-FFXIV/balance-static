@@ -8,10 +8,18 @@ changelog:
     message: Created page
   - date: 2022-01-24T06:22:27.663Z
     message: Updated for Endwalker
+  - date: 2022-05-13T03:20:44.503Z
+    message: Added 6.1 BiS with the DSR weapon.
 bis:
   - type: etro
-    description: The BiS for the current patch.
-    name: 6.05 Savage Best in Slot
+    description: The BiS for the current patch for those who have the weapon from
+      Dragonsong's Reprise.
+    name: 6.1 Best in Slot (Ultimate Weapon)
+    link: f2fe3df9-07d9-47db-839a-877eed852909
+  - type: etro
+    description: The BiS for the current patch for those without the weapon from
+      Dragonsong's Reprise.
+    name: 6.1 Best in Slot (No Ultimate Weapon)
     link: 6b4b1ba5-a821-41a0-b070-b1f50e986f85
   - type: etro
     description: A good option for beginning Savage progression, as a jumping-in point.
@@ -59,4 +67,12 @@ bis:
 authors:
   - dook
   - Laille-Ormesaing
+  - hint
+tags:
+  - Machinist
+  - MCH
+  - BiS
+  - Gear
+  - Etro
+  - FFXIV
 ---
