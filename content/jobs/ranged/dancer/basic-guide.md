@@ -26,15 +26,15 @@ For a video version of this guide [click here!](https://www.youtube.com/watch?v=
 
 # Useful Resources
 
-[Skill Overview](https://www.thebalanceffxiv.com/jobs/ranged/dancer/skills-overview/)
+[Skill Overview](/jobs/ranged/dancer/skills-overview/)
 
-[Opener Infographic](https://www.thebalanceffxiv.com/jobs/ranged/dancer/openers/)
+[Opener Infographic](/jobs/ranged/dancer/openers/)
 
-[Io's Raiding Primer](https://www.thebalanceffxiv.com/jobs/ranged/dancer/advanced-guide/)
+[Io's Raiding Primer](/jobs/ranged/dancer/advanced-guide/)
 
 [Ringabel's Advanced Guide](https://bit.ly/DNCGuideEW)
 
-[Leveling Guide](https://www.thebalanceffxiv.com/jobs/ranged/dancer/leveling-guide/)
+[Leveling Guide](/jobs/ranged/dancer/leveling-guide/)
 
 # What is a Dancer?
 
@@ -50,7 +50,7 @@ Dancer’s Job Gauges are central to their gameplay.
 
 &nbsp;
 
-On the top, you see up to four green Feathers appear. These represent your available stored uses of Fan Dance (also known as Fourfold Feathers); these charges have a chance of being generated when using certain abilities. Each displayed feather allows a single use of either Fan Dance, or its AoE counterpart, Fan Dance II.
+On the top, you see up to four green Feathers appear. These represent your available stored uses of Fan Dance (also known as Fourfold Feathers); these charges have a chance of being generated when using certain abilities. Each displayed Feather allows a single use of either Fan Dance, or its AoE counterpart, Fan Dance II.
 
 The yellow bar, with the corresponding number, is your Esprit gauge. This resource is unlocked at level 76.  Esprit is generated as you or your dance partner use GCD weapon skills or spells. After using Technical Finish, your entire party also will contribute to generating Esprit until the raid buff expires. This resource is consumed by using Saber Dance, a very hard hitting GCD. Use it proactively to avoid wasting Esprit.
 
@@ -92,7 +92,7 @@ There is also a dance partner calculator which you can use to determine exactly 
 
 # Your rotation
 
-Before reading this part of the guide, it might be wise to read up on all of Dancer’s abilities [here](https://www.thebalanceffxiv.com/jobs/ranged/dancer/skills-overview/)
+Before reading this part of the guide, it might be wise to read up on all of Dancer’s abilities [here](/jobs/ranged/dancer/skills-overview/)
 
 The backbone of Dancer's rotation is a set of four GCD combo actions that are simple, yet flexible. 
 
@@ -102,7 +102,7 @@ Reverse Cascade and Fountainfall can be used flexibly in any order, and they can
 
 1. Don't use Fountain uncombo'd, and don't use Cascade when a combo'd Fountain is available.  
 2. If you have Reverse Cascade available, avoid using Cascade, and similarly for Fountainfall and Fountain. Reverse Cascade and Fountainfall have a 50% chance to generate a Fourfold Feather, which can be spent on Fan Dance I or Fan Dance II, which are oGCDs.
-3. Try and use up procs (Reverse Cascade and Fountainfall) as they come up. This becomes important to avoid delaying Flourish, an ability learned at level 72.
+3. Try to use up procs (Reverse Cascade and Fountainfall) as they come up. This becomes important to avoid delaying Flourish, an ability learned at level 72.
 
 Graph of our procs:
 
@@ -118,7 +118,7 @@ Next we have the main dance, Standard Step. We use this ability mostly on cooldo
 
 At very high levels of optimization, there can be exceptions. These exceptions are the reason why a gearset with a small degree of skill speed is recommended for the most recent raid tier. This discussion is beyond the scope of this document.
 
-Flourish is our one-minute cooldown. It grants all possible procs: Fan Dance III, Reverse Cascade, Fountainfall, and Fan Dance IV. It is important to only use Flourish if you do not have Fan Dance III already procced, to avoid overwriting. As per 6.1 this doesn’t matter for Reverse Cascade and Fountainfall, these proc’s stack additive with flourish.
+Flourish is our one-minute cooldown. It grants all possible procs: Fan Dance III, Reverse Cascade, Fountainfall, and Fan Dance IV. It is important to only use Flourish if you do not have Fan Dance III already procced, to avoid overwriting. As per 6.1 this doesn’t matter for Reverse Cascade and Fountainfall, these proc’s stack additive with Flourish.
 
 &nbsp;
 
@@ -134,23 +134,23 @@ Since Dancer heavily revolves around RNG procs, your opener and two-minute burst
 
 For the opener, we use Standard Step 15.5 seconds before the pull. Do both of the random steps, but hold off from finishing the dance. 
 
-We recommend using peloton before the pull, as it will help your melees and tanks get into range quickly.
+We recommend using Peloton before the pull, as it will help your melees and tanks get into range quickly.
 
-Use the appropriate dexterity potion at 1.5 seconds left. 
+Use the appropriate Dexterity potion at 1.5 seconds left. 
 
-Instantly afterwards, use Standard Finish before going into the Technical Step. 
+Instantly afterward, use Standard Finish before going into the Technical Step. 
 
 Use all four steps and do Technical Finish, weaving in Devilment. Use Starfall Dance, weaving in Flourish and Fan Dance III.
 
 Next, use Tillana, weaving in Fan Dance IV.  
 
-Now this is where RNG starts to factor in. From here on out, focus on spending all your Fan Dance Is and their corresponding Fan Dance IIIs whilst preventing Esprit from overcapping by using Saber Dance as much as possible. Once you’re out of Esprit, use up your Fountainfall and Reverse Cascade procs.  If you run out of all of the above with at least five seconds left in Technical Finish, use Standard Step.
+Now this is where RNG starts to factor in. From here on out, focus on spending all your Fan Dance I's and their corresponding Fan Dance III's whilst preventing Esprit from overcapping by using Saber Dance as much as possible. Once you’re out of Esprit, use up your Fountainfall and Reverse Cascade procs. If you run out of all of the above with at least five seconds left in Technical Finish, use Standard Step.
 
 It’s encouraged to use Saber Dance over Standard Step if you risk overcapping. 
 
-For the two-minute burst window, we do the exact same except for the prepull part. We use Technical step on cooldown and go into our burst in the exact same manner afterwards.
+For the two-minute burst window, we do the exact same except for the pre-pull part. We use Technical step on cooldown and go into our burst in the exact same manner afterward.
 
-If due to standard step drifting (not using it on cooldown immediately as it becomes available), your Standard Step comes off cooldown less than six seconds before Technical Step, then hold the ability. It’s more important to perfectly align your Technical Step than it is to keep your Standard Step on cooldown.
+If due to Standard Step drifting (not using it on cooldown immediately as it becomes available), your Standard Step comes off cooldown less than six seconds before Technical Step, then hold the ability. It’s more important to perfectly align your Technical Step than it is to keep your Standard Step on cooldown.
 
 It is worth noting that the opener and two-minute burst are the most difficult parts of the rotation. It is recommended to practice the opener several times before stepping further into the rotation. You can do so at the Stone, Sea, Sky dummies or any training dummies in housing districts. Dancer’s opener is a lot less wild if you do it without an active Dance Partner. Therefore, when practicing the opener, it’s wise to ask a friend to do so with you. For further practice in an eight player setting, consider trying content such as normal raids.
 
@@ -177,8 +177,11 @@ As previously mentioned, Dancer brings a lot of utility to the raid. By properly
 The noteworthy abilities are as follows:
 
 1. Shield Samba. This ability has a 90 second cooldown and applies a 15 second buff to all nearby party members that reduces all damage taken by 10%. This is one of the strongest damage mitigations a DPS can bring, as you do not have to target the boss and because the duration is considerably longer than other DPS mitigation abilities. These abilities will not stack with the Bard and Machinist versions, Troubadour and Tactician.
-2. Curing Waltz. This 60 second cooldown heals party members in a 3 yalm range around you and your dancer partner for a small amount. That said, if you and your dance partner are stacked up the heal becomes notably more potent. Having your party stack up within this three yalm circle can heal a good chunk of damage on a fairly short cooldown.  While it is worth coordinating the usage of this ability in a static, I do not recommend getting Party Finder groups to play around this ability. In Party Finder, simply use it on cooldown when the party is stacked up and is not at full health.
+
+2. Curing Waltz. This 60 second cooldown heals party members in a three yalm range around you and your dancer partner for a small amount. That said, if you and your dance partner are stacked up the heal becomes notably more potent. Having your party stack up within this three yalm circle can heal a good chunk of damage on a fairly short cooldown.  While it is worth coordinating the usage of this ability in a static, I do not recommend getting Party Finder groups to play around this ability. In Party Finder, simply use it on cooldown when the party is stacked up and is not at full health.
+
 3. Improvisation. This ability, when used, provides a  regen on all party members within an eight yalm range. It also grants a stack of the Rising Rhythm buff every three seconds up to a maximum of four stacks. When the ability is used a second time, the button changes to Improvised Finish, which applies a barrier equal to a percentage of the player's max HP. The barrier strength scales with the duration that it was channeled. Using this ability makes it so you are unable to deal damage, and thus it is  recommended to only fully channel the ability if there is downtime with no boss or adds targetable and you cannot prepare either Standard Step or Technical Step during the downtime instead.
+
 4. En Avant. This oGCD has up to three charges and allows you to quickly dash for ten yalms in a straight line. Using this ability at key moments makes you very mobile.
 
 # Final Notes
