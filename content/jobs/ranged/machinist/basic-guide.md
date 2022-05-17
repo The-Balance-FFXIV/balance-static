@@ -6,7 +6,7 @@ authors:
   - lynn-nuvestrahl
   - Balance-MCH-Staff
 patch: "6.1"
-lastmod: 2022-04-09T07:26:36.327Z
+lastmod: 2022-05-17T06:23:22.053Z
 changelog:
   - date: 2021-10-25T21:57:19.219Z
     message: Created page
@@ -24,23 +24,23 @@ tags:
 
 Welcome to the Basic Machinist Guide! Within this document, you'll find all the information you'll need to play the job well. The links below can be used as teleports to other pages if you need the information while learning the job. Any questions can be directed to the Machinist channels in our Discord.
 
-[Openers](https://www.thebalanceffxiv.com/jobs/ranged/machinist/openers/)
+[Openers](/jobs/ranged/machinist/openers/)
 
-[Advanced Guide](https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/)
+[Advanced Guide](/jobs/ranged/machinist/advanced-guide/)
 
 [Video Guide](https://www.youtube.com/watch?v=-OPOskH-llQ)
 
-[Meld Priority](https://www.thebalanceffxiv.com/jobs/ranged/machinist/) (Listed on the landing page.)
+[Meld Priority](/jobs/ranged/machinist/) (Listed on the landing page.)
 
-[Gearing](https://www.thebalanceffxiv.com/jobs/ranged/machinist/best-in-slot/)
+[Gearing](/jobs/ranged/machinist/best-in-slot/)
 
-[Skills Overview](https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/)
+[Skills Overview](/jobs/ranged/machinist/skills-overview/)
 
-[Frequently Asked Questions](https://www.thebalanceffxiv.com/jobs/ranged/machinist/faq/)
+[Frequently Asked Questions](/jobs/ranged/machinist/faq/)
 
 # Job Overview
 
-Machinist is a fast-paced physical ranged job that excels at quick burst damage and has the added benefit of free movement. While the base rotation for this job is somewhat strict, Machinist excels in dumping burst into raid buffs with flexible use of its gauge system. This guide’s aim is to break down the job’s rotation into something easy to digest while providing good practices to follow for overall gameplay.
+Machinist is a fast-paced physical ranged job that excels at quick burst damage and has the added benefit of free movement. While the base rotation for this job is somewhat strict, Machinist excels in dumping burst into raid buffs with flexible use of its gauge system. This guide aims to break down the job’s rotation into something easy to digest while providing good practices to follow for overall gameplay.
 
 If you’re new to the job and would just like a basic overview of Machinist during the leveling process, [click here](/jobs/ranged/machinist/leveling-guide/).
 
@@ -60,8 +60,8 @@ While reading this guide, the following image can be referenced to get a better 
 
 The most basic description of the level 90 rotation can be broken down by following these rules:
 
-* Not drifting Drill, Air Anchor, Chainsaw, or Wildfire
-* Not overcapping resources. This includes Heat, Battery, and Gauss Round / Ricochet charges
+* Not drifting Drill, Air Anchor, Chainsaw, or Wildfire.
+* Not overcapping resources. This includes Heat, Battery, and Gauss Round / Ricochet charges.
 * Using your flexible burst inside of raid buffs as much as possible.
 
 The base rotation for Machinist revolves around two minute windows starting and ending with Wildfire application. Wildfire and Barrel Stabilizer are outliers in our kit as the cooldown does not scale with skill speed. While Heat and Battery will not loop perfectly due to differing Hypercharge windows in these segments, Wildfire can still be used as a landmark in the rotation for tracking other cooldowns in our kit, mechanics or even just used to help reset our rotation in case mistakes were made with some of the more strict timers.
@@ -70,7 +70,7 @@ In between your burst windows, you will default to pressing your combo actions (
 
 ![](/img/jobs/mch/2022-01-03_16-03-43-500_okamiazure.png)
 
-## Piecing Together The Multi-Tool and Heat System
+## Piecing Together the Multi-Tool and Heat System
 
 As of 6.0, the timer before combo actions break has been increased to 30 seconds. Prior to Endwalker, Machinist required spacing between its burst windows to allow the combo to continue without breaking, working around Hypercharge. That is no longer the case, and while it's still possible to break combo, it requires a very specific string of actions consisting of Air Anchor, two Drills, Chainsaw, and three Hypercharge windows. In a standard burst window with two Hypercharge segments carrying over the Heated combo will not be an issue.
 
@@ -127,11 +127,11 @@ The basic AoE priority is as follows:
 
 * Same as above, except you should delay Air Anchor until there’s less enemies.
 
-If making the choice between what to Reassemble between Drill, Chainsaw, and Air Anchor on 2 target fights, Chainsaw should be what’s chosen, followed by Air Anchor as a second choice. You’ll never be forced to use Reassemble on Drill anymore when at 90.
+If making the choice between what to Reassemble between Drill, Chainsaw, and Air Anchor on two target fights, Chainsaw should be the first choice, followed by Air Anchor as a second choice. You’ll never be forced to use Reassemble on Drill when at 90.
 
 Auto Crossbow should only be used on three or more enemies since, unlike Heat Blast, Auto Crossbow does not generate Gauss Round or Ricochet charges.
 
-As far as Flamethrower is concerned, it’s equal in potency to a 3-target rotation using Auto Crossbow. The graph below shows a side by side comparison of Flamethrower and Auto Crossbow.
+As far as Flamethrower is concerned, it’s equal in potency to a three-target rotation using Auto Crossbow. The graph below shows a side by side comparison of Flamethrower and Auto Crossbow.
 
 ![](/img/jobs/mch/mch-heat-vs-ft.png)
 
@@ -169,6 +169,6 @@ You may have noticed parts of the Machinist rotation feeling somewhat unresponsi
 
 Mudfish can be configured for FFXIV using [this guide](https://docs.google.com/document/d/1lOrglaY6D1E_LRMUDyQLETNzH-KL4XOSkWYFZJI3OPg/edit). The best VPN for you will differ based on location and ISP. It’s suggested that you try all possible options before deciding on one since they do cost money to use on top of your sub. Most, if not all of these should come with free trials so you can see if they help your connection.
 
-After attempting to fix these issues with the above suggestions, the only thing you can really do without the use of illegal ToS breaking software, is adjust your rotation in a way that won’t have you doing double Hypercharge windows. This lessens the need to weave between Heat Blasts. As long as you’re capable of getting all 6 GCDs in Wildfire while also not overcapping on Gauss Round and Ricochet, you should have no issues playing the job. 
+After attempting to fix these issues with the above suggestions, the only thing you can really do without the use of illegal ToS breaking software, is adjust your rotation in a way that won’t have you doing double Hypercharge windows. This lessens the need to weave between Heat Blasts. As long as you’re capable of getting all six GCDs in Wildfire while also not overcapping on Gauss Round and Ricochet, you should have no issues playing the job. 
 
 If you’re on a PC, and you’re okay with the morality issues of injection based programs, [QuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher) has a plug-in called [NoClippy](https://github.com/UnknownX7/NoClippy) that will help your clipping issue. This program will simulate a low ping environment specifically for the animation lock of combat actions. This will not actually lower your ping or make your connection to the servers any more stable than it already is or isn’t. The instructions on how to enable NoClippy are listed on the GitHub page. While I’ve not heard of anyone being punished by Square Enix for using programs like this, the reality of the situation is they could potentially endanger your service account. Please keep this in mind if you decide to use QuickLauncher and any plug-in associated with it.
