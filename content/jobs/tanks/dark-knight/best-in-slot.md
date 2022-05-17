@@ -2,28 +2,32 @@
 title: Dark Knight Best in Slot (BiS)
 layout: bis
 patch: "6.05"
-lastmod: 2021-10-27T17:44:42.391Z
+lastmod: 2022-05-17T06:03:52.153Z
 changelog:
   - date: 2021-10-27T17:45:00.078Z
     message: Added
   - date: 2022-01-11T22:47:14.275Z
     message: Updated for 6.05 --- removed old sets, added in new BiS.
+  - date: 2022-05-16T07:52:57.378Z
+    message: Updated for 6.10 --- removed old sets, added in new BiS.
 bis:
   - type: etro
-    description: ""
-    link: dda8aef5-41e4-40b6-813c-df306e1f1cee
-    name: 6.05 2.43 GCD set
-  - type: etro
-    description: ""
-    name: 6.05 2.40 GCD set
-    link: 61e6c1e6-83a9-4d3b-9eb9-17f22be19bd9
-  - type: etro
-    description: "Note: If you can reliably fit 5 GCDs in Blood Weapon at one of
-      these speeds, it is generally recommended to take the slowest set that
-      allows that. If none of these speeds allow you to fit 5 GCDs in Blood
-      Weapon, we suggest the 2.45 set."
-    name: 6.05 2.45 GCD set
+    description: >-
+      There are a couple variations on this set that can be run for ease of
+      acquisition or for the slightly higher vitality:
+
+
+      * Augmented crafted ring with Crit+SkS melds is a low single-digit expected DPS loss.
+
+      * Augmented tome ring with Crit+SkS melds plus Ashpodelos helm with 2x Crit melds is a very low double-digit expected DPS loss.
     link: 038bd13b-f408-4cb2-acb0-00ac33ccfe64
+    name: 6.1 2.45 GCD set
+  - type: etro
+    description: You may opt to replace one DH meld with SkS to reach a 2.49 GCD
+      speed. This is a very low double-digit loss in theoretical DPS, and allows
+      for some minor clipping without causing issues with oGCD alignment.
+    name: 6.1 2.50 GCD set
+    link: 67850297-8b4b-4acf-a37e-12e682b3f303
 authors:
   - Balance-DRK-Staff
   - apileofcats
