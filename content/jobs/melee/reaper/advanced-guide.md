@@ -4,7 +4,7 @@ card_header_image: /img/jobs/rpr/screenshot_5-edit.jpg
 authors:
   - ellunavi
 patch: "6.08"
-lastmod: 2022-01-31T08:59:14.826Z
+lastmod: 2022-05-17T06:30:32.149Z
 changelog:
   - date: 2021-11-27T12:55:28.038Z
     message: Added page.
@@ -218,7 +218,7 @@ The priority for playing Reaper in such a manner is the following:
 
 - - -
 
-## **2 Minute Burst Windows**
+## **Two Minute Burst Windows**
 
 ### **Double Enshroud Window**
 
@@ -291,7 +291,7 @@ Below is an example of what a two minute burst could look like while trying to k
 Sequence:
 
 * Do Shadow of Death before your combo weapon skill
-* < 6 seconds left on Arcane Circle CD
+* < six seconds left on Arcane Circle CD
 * Any Combo GCD >> Enshroud
 * Void Reaping
 * Shadow of Death >> Middle weave potion
@@ -313,15 +313,9 @@ Sequence:
 * Soul Slice if previously had to use combo
 * After Soul Slice use Blood Stalk Variant + Gibbet/Gallows
 
-Shadow of Death is not a necessary filler here but still recommended, as long as you don’t overcap. 
-You will want one if you are potion weaving. If you are unable to maintain your combo, due to high 
-ping or other factors it is recommended that you simply play a priority rotation instead. 
+Shadow of Death is not a necessary filler here but still recommended, as long as you don’t overcap. You will want one if you are potion weaving. If you are unable to maintain your combo, due to high ping or other factors it is recommended that you simply play a priority rotation instead. 
 
-Ultimately, if you are playing Reaper as a priority system and putting less effort into optimizing your 
-burst, the Early Gluttony opener may be the safer bet. It will lose out on rDPS when fitting 
-potency into raid buffs, but it will always guarantee that your Gluttony will be used on cooldown. If you 
-are looking to optimize, be very familiar with this opener and burst phase, as the chance of it being best 
-for a fight is likely.
+Ultimately, if you are playing Reaper as a priority system and putting less effort into optimizing your burst, the Early Gluttony opener may be the safer bet. It will lose out on rDPS when fitting potency into raid buffs, but it will always guarantee that your Gluttony will be used on cooldown. If you are looking to optimize, be very familiar with this opener and burst phase, as the chance of it being best for a fight is likely.
 
 ![](/img/jobs/rpr/edgy-reaper-1.png)
 
@@ -341,7 +335,7 @@ Below you can see the effect of a potion used in the opener at six minutes vs. a
 
 ## Odd Minute Enshroud
 
-Reaper generates three shrouds every two minutes but only two can really be used in the 2-minute burst window. This leaves the an extra Shroud that can be used for a few things
+Reaper generates three Shrouds every two minutes but only two can really be used in the two-minute burst window. This leaves the an extra Shroud that can be used for a few things
 
 ### Astrologian Cards
 
@@ -363,19 +357,19 @@ While there isn’t much optimization or advanced theorycrafting here, I wanted 
 
 * After opener Enshroud and Double Enshroud phases
 * 10 Filler GCDs  (Combo actions are preferred)
-* 2 Soul Slices
-* 2 Shadow of Deaths, do not overwrite above 60 seconds
-* 1 Gluttony, 3 Blood Stalk Variants
-* 5 Gibbet / Gallows
+* Two Soul Slices
+* Two Shadow of Deaths, do not overwrite above 60 seconds
+* One Gluttony, Three Blood Stalk Variants
+* Five Gibbet / Gallows
 
 ![Image](/img/jobs/rpr/odd_to_even_filler.png)
 
 * After Single Enshroud (Odd Minute) Windows
-* 8 Filler GCDS (Combo actions are preferred)
-* 2 Soul Slices
+* Eight Filler GCDS (Combo actions are preferred)
+* Two Soul Slices
 * One Shadow of Death, do not overwrite above 60 seconds
-* 1 Gluttony, 3 Blood Stalk Variants
-* 5 Gibbet / Gallows
+* One Gluttony, Three Blood Stalk Variants
+* Five Gibbet / Gallows
 
 Understanding how these work is crucial to understanding the next part of this document. These filler windows assume you are Enshrouding every minute and twice every two minutes, and that the filler count begins after the Communio. 
 
@@ -446,7 +440,7 @@ Lastly you can also use the odd-minute Enshroud to plan your disconnects. See th
 
 - - -
 
-## Limit Break 3
+## Limit Break Three
 
 Nothing super special here. Limit Break Three will cost us about three GCDs, or roughly around 1539 potency (assuming that Soul could have been turned into something). Early-combat LB3 will be pretty rough on Reaper, and will most likely mean skipping or delaying a Shroud window. Ideally, you want to LB3 towards the end of combat, after your last Enshroud window.
 
@@ -557,7 +551,7 @@ Sometimes, if the fight allows it, it may be better to just correct your Death�
 Sequence:
 
 * Should have 100 Shroud
-* Less than 9 seconds left on Arcane Circle CD
+* Less than nine seconds left on Arcane Circle CD
 
   * If you used first oGCD Arcane Circle opener then this should be 6 seconds if this is your first two minute burst window
 * Infernal Slice (You have to be combo neutral otherwise this doesn’t work) > Enshroud
@@ -611,8 +605,8 @@ The concept of Dead Zoning is pooling our resources during the first minute of t
 * 24 Filler GCDs (Combo actions preferred)
 * Three Soul Slices, careful not to overcap soul
 * Three Shadow of Deaths
-* 2 Gluttonys, 5 Blood Stalk Variants
-* 9 Gibbet / Gallows
+* Two Gluttonys, Five Blood Stalk Variants
+* Nine Gibbet / Gallows
 
 By doing this we do a few things:
 
