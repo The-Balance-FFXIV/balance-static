@@ -30,7 +30,10 @@ Here are some common terms used when discussing job theorycrafting and optimizat
 | Kill Time (KT)             | The time frame where you expect to kill a boss or end a phase. This could be precise (i.e. 7:10 target killtime) or approximate (i.e. somewhere between 7:00 and 7:20).                                               |
 | Drift / Delay / Hold       | Not using an action even though it came off cooldown. When this happens unintentionally or is forced it's usually called "drift". When it happens on purpose it's usually called a "delay" or a "hold".               |
 | Even Minute / Burst Window | A window where multiple raid buff windows are active simultaneously. Since these all have two minute cooldowns, in full uptime they should happen on every even minute (2:00, 4:00, 6:00, ...).                       |
+
 &nbsp;
+
+
 
 ## The Golden Rules
 
