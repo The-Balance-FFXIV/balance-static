@@ -2,23 +2,25 @@
 title: Reaper Advanced Guide
 card_header_image: /img/jobs/rpr/screenshot_5-edit.jpg
 authors:
-  - ellunavi
-patch: "6.08"
-lastmod: 2022-05-17T06:30:32.149Z
-changelog:
-  - date: 2021-11-27T12:55:28.038Z
-    message: Added page.
-  - date: 2022-01-04T20:36:20.903Z
-    message: Removed Dancer Dilemna section, due to no longer being required.
-  - date: 2022-01-16T20:20:01.175Z
-    message: Updated some headers and wording in a few sections.
-  - date: 2022-01-29T03:46:23.852Z
-    message: Updated Fast Shroud Opener, Assigning Values to Soul Shroud, Gluttony
-      and Two Target Prioritization
-  - date: 2022-04-16T22:07:33.451Z
-    message: Removed Trick Attack stuff
-  - date: 2022-05-10T22:28:11.731Z
-    message: Updated Early Gluttony Opener picture and the text under it.
+- ellunavi
+  patch: "6.08"
+  lastmod: 2022-05-17T06:30:32.149Z
+  changelog:
+- date: 2021-11-27T12:55:28.038Z
+  message: Added page.
+- date: 2022-01-04T20:36:20.903Z
+  message: Removed Dancer Dilemna section, due to no longer being required.
+- date: 2022-01-16T20:20:01.175Z
+  message: Updated some headers and wording in a few sections.
+- date: 2022-01-29T03:46:23.852Z
+  message: Updated Fast Shroud Opener, Assigning Values to Soul Shroud, Gluttony
+  and Two Target Prioritization
+- date: 2022-04-16T22:07:33.451Z
+  message: Removed Trick Attack stuff
+- date: 2022-05-10T22:28:11.731Z
+  message: Updated Early Gluttony Opener picture and the text under it.
+- date: 2022-05-20T14:49:11.731Z
+  message: Calli removed minor reference to 1Min Trick deadzoning, still need to update some numbers.
 ---
 ## Reaper Advanced Rotational Theory
 
@@ -38,7 +40,7 @@ I wanted to start this guide off with talking about the FFLogs metrics and how t
 
 ## Theorycrafting vs. Practice
 
-Theorycrafting is an important piece to talk about before you dive too deep into this document. There are always two parts to theorycrafting: the crafting of the actual theory and testing the theory by putting it into live play. Thanks to the release of Endwalker, we can now actually test and play Reaper. That being said, not every scenario or situation can immediately be tested. As of re-writing this section we do not have Savage raids or Ultimates so some of these concepts may not work within whatever limitations the fights put on us. Lastly, as we discover new theories they will be listed here but I will try to notate them as “not tested” if required. The aim of this guide is to maximize Reaper’s potential without using any third party tools, so optimizations that require their use will be left out. 
+Theorycrafting is an important piece to talk about before you dive too deep into this document. There are always two parts to theorycrafting: the crafting of the actual theory and testing the theory by putting it into live play. Thanks to the release of Endwalker, we can now actually test and play Reaper. That being said, not every scenario or situation can immediately be tested. As of re-writing this section we do not have Savage raids or Ultimates so some of these concepts may not work within whatever limitations the fights put on us. Lastly, as we discover new theories they will be listed here but I will try to notate them as “not tested” if required. The aim of this guide is to maximize Reaper’s potential without using any third party tools, so optimizations that require their use will be left out.
 
 ![](/img/jobs/rpr/ffxiv_02012022_002717_188.png)
 
@@ -64,7 +66,7 @@ I believe it to be important that our first topic we discuss is about how a Reap
 
 In total, there are 39 GCDs outside of Enshroud, which will take 97.5 seconds, and three Enshroud phases, which will take a total of 25.5 seconds. This totals the rotation to 123 seconds at a 2.5 GCD, lowering by .39 seconds with each GCD tier.
 
-Obviously, there is a major issue with Reaper taking 123 seconds to be net neutral, which is the fact that raid buffs happen every 120s.  So, what is the solution? How do we mold our rotation to fit into a 120s rotation? The answer is that we cut a combo ability from the two minute timeline, which aligns us better with raid buffs at 120.5 seconds. Unfortunately, this cuts out 10 important Soul from our rotation, which is crucial to perform our ideal rotation. When we start the fight, we have an additional Soul Slice charged, which will replace a single combo GCD, netting us a total of 40 Soul (+50 for the Soul Slice, -10 for the replaced combo). 
+Obviously, there is a major issue with Reaper taking 123 seconds to be net neutral, which is the fact that raid buffs happen every 120s.  So, what is the solution? How do we mold our rotation to fit into a 120s rotation? The answer is that we cut a combo ability from the two minute timeline, which aligns us better with raid buffs at 120.5 seconds. Unfortunately, this cuts out 10 important Soul from our rotation, which is crucial to perform our ideal rotation. When we start the fight, we have an additional Soul Slice charged, which will replace a single combo GCD, netting us a total of 40 Soul (+50 for the Soul Slice, -10 for the replaced combo).
 
 In short, we start the fight with 40 additional Soul and in order to align with raid buffs, we lose 10 Soul every two minutes, meaning we will start drifting from raid buff windows at the ten minute window because we will have to start doing a 123 second rotation. In a vacuum, this isn’t a big deal. However, when dealing with fight mechanics, each disconnect will cost us 10 Soul, which will lower that timer by two minutes.
 
@@ -74,15 +76,15 @@ In short, we start the fight with 40 additional Soul and in order to align with 
 
 Before we get too deep into this theory document, I wanted to address a few abilities specifically and talk about their limitations and uses; the first being Harvest Moon. This ability is extremely unique, and we have already received a few questions about why it isn’t in the opener or where it should be used in the opener. Harvest Moon is an instant cast, 25 yalm range/five yalm radius AoE ability, which is 600 potency, which makes it our third strongest-hitting attack in our kit. That said, it comes with some huge caveats:
 
-* The ability can only be used with the Soul Sow buff, which can be applied instantly out of combat, but takes five seconds to re-apply in combat. The Soul Sow buff lasts indefinitely. 
+* The ability can only be used with the Soul Sow buff, which can be applied instantly out of combat, but takes five seconds to re-apply in combat. The Soul Sow buff lasts indefinitely.
 * The ability does not generate any Soul. As we learned above, this would push us out of raid buff alignment at the eight minute mark, instead of the ten minute mark.
 * In order to use it in the opener to capture raid buffs, it pushes Gluttony back one oGCD and is ultimately replacing a 520 potency attack under buffs.
 
-This begs the question, so when is it best to use Harvest Moon? 
+This begs the question, so when is it best to use Harvest Moon?
 
 * Its most optimal use will be in multi-target situations. The ability has a 50% falloff, therefore will be hitting for (600+(300\*(n-1)))\*1.1, where n is the number of enemies hit and 1.1 is the damage gained from Death’s Design. This is a net gain of 330 potency if it hits only one additional target, which will always beat out anything it would gain in buffs.
-* The second most optimal time, which will most likely be how we use it the most, will be for a disengage window. Whenever we have to disengage from a target for more than one GCD, we will need to use either Harpe or Harvest Moon. Harvest Moon is a gain of 330 potency over Harpe, which is a giant potency gain, and the chances of us never having to use a disengage tool in a fight are low. 
-* Another use for Harvest Moon is to manipulate the timing before or during Shroud phases to allow for smoother burst windows. Objectively, we benefit from entering burst windows with no combo running, allowing us to use Soul Slice in most cases and to more quickly add damage to our windows. It can also be used to extend the time we are in Shroud, which would allow us to Shroud back-to-back if necessary. 
+* The second most optimal time, which will most likely be how we use it the most, will be for a disengage window. Whenever we have to disengage from a target for more than one GCD, we will need to use either Harpe or Harvest Moon. Harvest Moon is a gain of 330 potency over Harpe, which is a giant potency gain, and the chances of us never having to use a disengage tool in a fight are low.
+* Another use for Harvest Moon is to manipulate the timing before or during Shroud phases to allow for smoother burst windows. Objectively, we benefit from entering burst windows with no combo running, allowing us to use Soul Slice in most cases and to more quickly add damage to our windows. It can also be used to extend the time we are in Shroud, which would allow us to Shroud back-to-back if necessary.
 * Lastly, we could use it for buff windows, but this comes with its own set of problems. The Reaper burst window is selfish, and pretty demanding on which abilities need to be placed where. So, its usage needs to be thoroughly examined and mapped.
 
 ![](/img/jobs/rpr/ffxiv_12212021_125816_970.png)
@@ -91,9 +93,9 @@ This begs the question, so when is it best to use Harvest Moon? 
 
 ## Gluttony
 
-This ability lives up to its namesake, as it is indeed a glutton. Just like it consumes 50 Soul Gauge and two GCD slots, it will now consume half a page of text and about one minute of your life (probably 30 minutes of mine). Gluttony is a very selfish skill; it has a 60 second cooldown, consumes 50 Soul Gauge and will require your next two GCDs to be Reaver spenders. We ideally want to use it on cooldown, which means every 60 seconds you are locked into Gluttony’s jaws for about five seconds. 
+This ability lives up to its namesake, as it is indeed a glutton. Just like it consumes 50 Soul Gauge and two GCD slots, it will now consume half a page of text and about one minute of your life (probably 30 minutes of mine). Gluttony is a very selfish skill; it has a 60 second cooldown, consumes 50 Soul Gauge and will require your next two GCDs to be Reaver spenders. We ideally want to use it on cooldown, which means every 60 seconds you are locked into Gluttony’s jaws for about five seconds.
 
-The time required to execute these abilities isn’t its only gluttonous trait though; the 60 second cooldown is a pretty rough thing for a job sitting on a 123 second rotation. Due to our awkward Enshroud phases, we will almost never be able to use Gluttony at the same time, and it will end up drifting little by little. Lastly, it costs a steep 50 Soul Gauge, which given our deficient 120.5 second rotation and busy burst phase, can sometimes be hard to obtain at the right time. 
+The time required to execute these abilities isn’t its only gluttonous trait though; the 60 second cooldown is a pretty rough thing for a job sitting on a 123 second rotation. Due to our awkward Enshroud phases, we will almost never be able to use Gluttony at the same time, and it will end up drifting little by little. Lastly, it costs a steep 50 Soul Gauge, which given our deficient 120.5 second rotation and busy burst phase, can sometimes be hard to obtain at the right time.
 
 Because of all of these traits, you will often find that Gluttony may drift. Due to its relatively late position in the opener and two minute burst window, it will most likely drift out of some pretty powerful raid buffs. This will ultimately be a pain that we will have to accept as we strive for the best burst windows and timings.
 
@@ -101,7 +103,7 @@ Because of all of these traits, you will often find that Gluttony may drift. Due
 
 ## The Openers
 
-We can finally start talking about the nitty-gritty of Reaper, what makes it tick and how we can make it tock. The opener is one of our weakest bursts, but it is also when we are the most flexible. Optimizing our opener around the raid buffs we have available is crucial for maximizing our damage. 
+We can finally start talking about the nitty-gritty of Reaper, what makes it tick and how we can make it tock. The opener is one of our weakest bursts, but it is also when we are the most flexible. Optimizing our opener around the raid buffs we have available is crucial for maximizing our damage.
 
 Note: The Sequence of Gibbet / Gallows and Void / Cross Reaping are not a requirement and can be swapped around as long as you alternate them. Some fights may recommend that you open with one or the other first for better positional alignment later on.
 
@@ -112,7 +114,7 @@ Note: The Sequence of Gibbet / Gallows and Void / Cross Reaping are not a requir
 * Soul Sow Pre-pull
 * Harpe at two seconds on the countdown
 * Shadow of Death > Arcane Circle
-* Soul Slice 
+* Soul Slice
 * Soul Slice >> Middle weave Potion (If you can’t at two minutes)
 * Plentiful Harvest > Enshroud
 * Void Reaping
@@ -128,7 +130,7 @@ Description:
 
 Let’s break apart this opener and discuss and explain a few things:
 
-* Where is the potion? 
+* Where is the potion?
 
   * Optimally, we would prefer not to use a potion in the opener, but we will have to based on certain fight timings or mechanics. I will go more into the potion windows below.
   * If you need to use a potion, you can use it after the second Soul Slice. If you do this it will catch your third Soul Slice the proceeding Unveiled Action and Gibbet or Gallows.
@@ -136,10 +138,10 @@ Let’s break apart this opener and discuss and explain a few things:
 
   * Moving it late means it captures more buffs at their tail end. Using it early may have us using it before buffs -- using it later will get it and its Reaver spenders into more buffs.
   * Whenever we get to our two minute burst window, it would be pushed to this position either way.
-* Where is Harvest Moon? 
+* Where is Harvest Moon?
 
   * Harvest Moon would only replace a 520 potency ability in this opener and would ultimately shift Gluttony further down the timeline, potentially pushing it more quickly out of buff windows. Harvest Moon will have a better space in a future buff window, or for a disengage.
-* Plentiful Harvest is really tight. 
+* Plentiful Harvest is really tight.
 
   * At 2.47 GCD, the Plentiful Harvest will clip slightly. If your ping is bad, it will always clip. If you are playing into raid buffs and looking to maximize aDPS, a slight clip of .3s or less is still an overall gain. If you feel like you are clipping enough, you can use the Early Gluttony opener below to execute Plentiful Harvest without clipping.
 * Why am I starting with Harpe?
@@ -156,7 +158,7 @@ Let’s break apart this opener and discuss and explain a few things:
 * Prepull Soul Sow
 * (If your GCD is <2.47 pre-pull Pot at 3s on countdown)
 * Harpe at 2s on countdown
-* Shadow of Death >> Middle weave Potion (If you can’t at two minutes) 
+* Shadow of Death >> Middle weave Potion (If you can’t at two minutes)
 * Soul Slice > Arcane Circle (If your GCD is <2.47 use AC one GCD earlier) > Gluttony
 * Gibbet
 * Gallows
@@ -173,14 +175,14 @@ Description:
 
 Let’s break apart this opener and discuss and explain a few things:
 
-* Where is the potion? 
+* Where is the potion?
 
   * Optimally, we would prefer not to use a potion in the opener but we will have to based on certain fight timings or mechanics. I will go more into the potion windows below.
   * If you need to use a potion, you can use either 3s on pre-pull with <2.47 GCD or use it after Shadow of Death with a GCD >2.47.
 * Why does my GCD affect where I should weave Arcane Circle ?
 
   * If your GCD is >2.47 you can use Plentiful Harvest two GCD's after early weaving Arcane Circle without clipping your GCD. However with a GCD faster than 2.48 you will be clipping Plentiful Harvest which is why you would want to use it one GCD earlier instead.
-* Where is Harvest Moon? 
+* Where is Harvest Moon?
 
   * Harvest Moon would only replace a 520 potency ability in this opener and would ultimately shift Gluttony further down the timeline, potentially pushing it more quickly out of buff windows. Harvest Moon will have a better space in a future buff window, or for a disengage.
 * Why am I starting with Harpe?
@@ -189,9 +191,9 @@ Let’s break apart this opener and discuss and explain a few things:
 * Why would I use this opener? There are actually three main reasons you would consider using this opener:
 
   * Better Gluttony alignment. Because it uses Gluttony so early it could net you an extra or more favorable use. Endwalkers first two EX trials both see unique cases of this. Such as the first trial allowing you to secure an Extra Harvest Moon in the first or the second EX who jumps at around the time Gluttony comes off CD.
-  * Prevent Plentiful Harvest from clipping. This is your best option to ensure that you can Plentiful Harvest with no clip at higher skillspeed or ping. 
-  * * When using this opener you have a few options for the two minute burst window. If you still need to maintain Gluttony on cooldown you can do a Shroud > Gluttony > Shroud burst window which is detailed below in the Gluttony Split section below. 
-    * You can also enter into a Double or Triple Enshroud window, this will push back Gluttony to the later time slot but this may be useful if later on in a fight if the aim was to get Gluttony earlier in a phase. You enter this burst sequence at any two minute marker of the fight.
+  * Prevent Plentiful Harvest from clipping. This is your best option to ensure that you can Plentiful Harvest with no clip at higher skillspeed or ping.
+  * * When using this opener you have a few options for the two minute burst window. If you still need to maintain Gluttony on cooldown you can do a Shroud > Gluttony > Shroud burst window which is detailed below in the Gluttony Split section below.
+  * You can also enter into a Double or Triple Enshroud window, this will push back Gluttony to the later time slot but this may be useful if later on in a fight if the aim was to get Gluttony earlier in a phase. You enter this burst sequence at any two minute marker of the fight.
 
 - - -
 
@@ -208,7 +210,7 @@ The priority for playing Reaper in such a manner is the following:
 5. Use Gibbet, Gallows or Guillotine if you have any amount of Reaver stacks.
 6. Use Waxing Slice,  Infernal Slice, or Nightmare Scythe if your combo is going to fall off.
 
-   * Remember that combos last 30s in Endwalker!
+  * Remember that combos last 30s in Endwalker!
 7. Maintain Death’s Design on all targets that will take damage.
 8. Use Soul Slice if you have 50 or less Soul Gauge.
 9. Use Plentiful Harvest if you have 50 or less Shroud Gauge
@@ -232,7 +234,7 @@ Sequence:
 
   * Death’s Design should only have 5-6 seconds left at this point.
   * If you opened with a first oGCD Arcane Circle, the first two minute burst should be at 6s on Arcane Circle CD.
-* Do whatever combo action you are on. Whatever you click here will change the ending of this sequence. 
+* Do whatever combo action you are on. Whatever you click here will change the ending of this sequence.
 * Enshroud (Immediately after GCD)
 * Void Reaping
 * Shadow of Death >> Middle Weave Potion
@@ -255,7 +257,7 @@ Sequence:
 
 Description:
 
-* The ideal time to enter Enshroud is after a GCD where your Arcane Circle recast is below nine seconds. The GCD you hit before you enter Enshroud is important because it will impact how the end of this rotation looks. 
+* The ideal time to enter Enshroud is after a GCD where your Arcane Circle recast is below nine seconds. The GCD you hit before you enter Enshroud is important because it will impact how the end of this rotation looks.
 
   * You ideally want Arcane Circle to happen around XX5 on the clock. If you opened with a first oGCD Arcane Circle then you will want to push it back during your first two minute window. You can do this by simply entering the first Double Enshroud a GCD later.
 * If you are looking to potion during this window, you ideally want your first Shroud GCD to be the unbuffed version of either Void or Cross Reaping. Your second GCD will be Shadow of Death, and this is where you will want to weave your potion. After that, you will want to use the other Void or Cross Reaping ability.
@@ -277,11 +279,11 @@ Description:
 If you use the Early Gluttony opener to maintain Gluttony’s cooldown, you will also need to alter your burst window in order to maintain its cooldown. This burst window is objectively weaker but comes with the upside of extra Gluttony usages depending on the fight's phasing or kill time. This burst window doesn’t come without its own set of issues though and at some point you will want to play Reaper with a priority system.
 
 * Slot Consistency: Gluttony will just naturally drift and there isn’t much we can do to control it other than play at higher Skill Speed values. Since our rotation will never be exactly 120 seconds, it will constantly be pressed at a different time in relation to our global cooldown, eventually pushing it to an entirely different time.
-* Soul Generation: At some point, we simply will be unable to accumulate the Soul needed to perform a Double Shroud window with Gluttony in the middle. Ultimately, this changes our burst window and will eventually put us into playing more “ad hoc” (ad hoc meaning where we just play off of a priority system rather 
+* Soul Generation: At some point, we simply will be unable to accumulate the Soul needed to perform a Double Shroud window with Gluttony in the middle. Ultimately, this changes our burst window and will eventually put us into playing more “ad hoc” (ad hoc meaning where we just play off of a priority system rather
   than trying to map out our burst).
 * Combo GCD is extremely tight: When executed perfectly the last combo has less than a second remaining.
 
-Currently this burst window only works at the two minute mark of the fight. Gluttony’s unruly oGCD Timer makes it difficult to pull off and maintain a reasonable window with Arcane Circle. It is recommended to either switch to 
+Currently this burst window only works at the two minute mark of the fight. Gluttony’s unruly oGCD Timer makes it difficult to pull off and maintain a reasonable window with Arcane Circle. It is recommended to either switch to
 a standard Double Shroud window at four minutes or play using a priority system afterwards.
 
 Below is an example of what a two minute burst could look like while trying to keep Gluttony on CD:
@@ -313,7 +315,7 @@ Sequence:
 * Soul Slice if previously had to use combo
 * After Soul Slice use Blood Stalk Variant + Gibbet/Gallows
 
-Shadow of Death is not a necessary filler here but still recommended, as long as you don’t overcap. You will want one if you are potion weaving. If you are unable to maintain your combo, due to high ping or other factors it is recommended that you simply play a priority rotation instead. 
+Shadow of Death is not a necessary filler here but still recommended, as long as you don’t overcap. You will want one if you are potion weaving. If you are unable to maintain your combo, due to high ping or other factors it is recommended that you simply play a priority rotation instead.
 
 Ultimately, if you are playing Reaper as a priority system and putting less effort into optimizing your burst, the Early Gluttony opener may be the safer bet. It will lose out on rDPS when fitting potency into raid buffs, but it will always guarantee that your Gluttony will be used on cooldown. If you are looking to optimize, be very familiar with this opener and burst phase, as the chance of it being best for a fight is likely.
 
@@ -371,7 +373,7 @@ While there isn’t much optimization or advanced theorycrafting here, I wanted 
 * One Gluttony, Three Blood Stalk Variants
 * Five Gibbet / Gallows
 
-Understanding how these work is crucial to understanding the next part of this document. These filler windows assume you are Enshrouding every minute and twice every two minutes, and that the filler count begins after the Communio. 
+Understanding how these work is crucial to understanding the next part of this document. These filler windows assume you are Enshrouding every minute and twice every two minutes, and that the filler count begins after the Communio.
 
 - - -
 
@@ -412,7 +414,7 @@ At a 2.5s GCD, Arcane circle drifts .5s each rotation and Gluttony drifts anywhe
 
 ![](https://lh4.googleusercontent.com/W_q6GzJ6Sbu9HXKWO0aagP0kLJm4YRPAw7wwCfVIyAPg1RBQB4eDTLjfeOqPbjwB6R00px_L6zuocURZdEPFObn9bKjCOe4vVyUqH4XhTFSyRYHrl2O-A4avw76uqNVVJzbaHct6 "Chart")![](/img/jobs/rpr/arcanedrift.png "Chart")
 
-All of these rotations assumed full uptime, except for one disconnect at around three minutes, in which Harvest Moon was used. 
+All of these rotations assumed full uptime, except for one disconnect at around three minutes, in which Harvest Moon was used.
 
 As we can tell, in terms of drifting management, a 2.48 GCD offers us the least risk, with 2.49 not being too far behind. 2.49 is only a single skill speed meld, while 2.48 will require some investment.  As of 6.05 and the new raid gear, the natural 2.5s GCD set is really strong and hits stat tiers really well. It is currently ahead of a single meld 2.49 set by a slight margin. While we know that 2.49 aligns better with raid buffs, the gain vs. loss of the two sets will have to be compared.
 
@@ -430,11 +432,11 @@ Below is the damage delay for all of the Reaper weaponskills, abilities and spel
 
 ## Disconnect Mapping
 
-Disconnecting will not be super exciting for Reaper. We have one Harvest Moon we can use in between each phase, and one Instant Harpe every 20 seconds from Egress. Outside of that, we will have to slidecast, which isn’t always possible. 
+Disconnecting will not be super exciting for Reaper. We have one Harvest Moon we can use in between each phase, and one Instant Harpe every 20 seconds from Egress. Outside of that, we will have to slidecast, which isn’t always possible.
 
 It is important to remember that you don’t have to use Ingress/Egress and go for the instant Harpe immediately. A good example is Shiva’s Icelit Dragonsong. Here, melees will have to disconnect for upward of four GCDs, and will have to move quite a bit during one of those GCDs. What you can do here is hardcast two Harpes, before having the move to dodge your puddles, where you can Harvest Moon and then Ingress and instant cast Harpe to maintain uptime.
 
-Plentiful Harvest and Guillotine also have some large ranges, and may also be used for disconnect optimization depending on the fight. This will require planning, otherwise you will lose a lot of potency. 
+Plentiful Harvest and Guillotine also have some large ranges, and may also be used for disconnect optimization depending on the fight. This will require planning, otherwise you will lose a lot of potency.
 
 Lastly you can also use the odd-minute Enshroud to plan your disconnects. See the Odd Minute Enshroud section above for more information.
 
@@ -450,7 +452,7 @@ Nothing super special here. Limit Break Three will cost us about three GCDs, or 
 
 # Graduate Studies: Burst Windows
 
-While everything above is considered crucial to optimization, the next section is catered to even further learning and should only be applied once a base understanding of the previous sections has been attained. 
+While everything above is considered crucial to optimization, the next section is catered to even further learning and should only be applied once a base understanding of the previous sections has been attained.
 
 - - -
 
@@ -466,7 +468,7 @@ Sequence:
 
     * Unlike the previous burst you will want to Shadow of Death once before the burst.
   * If you opened with a first oGCD Arcane Circle, the first two minute burst should be at 6s on Arcane Circle CD.
-* Do whatever combo action you are on. Whatever you click here will change the ending of this sequence. 
+* Do whatever combo action you are on. Whatever you click here will change the ending of this sequence.
 * Enshroud (Immediately after GCD)
 * Void Reaping
 * Cross Reaping
@@ -502,7 +504,7 @@ Description:
 
 We won’t always have to use Harvest Moon for movement, as it is likely that there will be a few bosses where we can maintain full uptime on a boss and will want to use Harvest Moon for damage. As of right now, this is the best spot we have found for it. Due to how restrictive our burst is and how the trade to fit Harvest Moon in the opener is small, replacing a 300 potency GCD under potion is going to be its best damage gain.
 
-This optimization requires you to insert a Shadow of Death sometime before you enter your Double Shroud window, and it will create a very tight Arcane Circle weave window. If pulled off successfully, you will land a Harvest Moon on the enemy with most raid buffs in play, the exception being Dancer buffs. 
+This optimization requires you to insert a Shadow of Death sometime before you enter your Double Shroud window, and it will create a very tight Arcane Circle weave window. If pulled off successfully, you will land a Harvest Moon on the enemy with most raid buffs in play, the exception being Dancer buffs.
 
 - - -
 
@@ -538,9 +540,9 @@ Sequence:
 
 Description:
 
-There will be cases where you will be unable to Shadow of Death twice during Shroud and Harvest Moon either isn’t available, or will need to be used later. It could be an untimely boss jump, weird re-opener, or a forced buff hold period. The goal for these situations is to at least extend the first Lemure phase by one Shadow of Death, so entering Shroud with sub-30s on Death’s Design is optimal. The position of the Shadow of Death is variable, but ideally you want to use it right before you will use Arcane Circle. This variation is the weakest of our burst options, since your last Communio can miss a good chunk of raid buffs. 
+There will be cases where you will be unable to Shadow of Death twice during Shroud and Harvest Moon either isn’t available, or will need to be used later. It could be an untimely boss jump, weird re-opener, or a forced buff hold period. The goal for these situations is to at least extend the first Lemure phase by one Shadow of Death, so entering Shroud with sub-30s on Death’s Design is optimal. The position of the Shadow of Death is variable, but ideally you want to use it right before you will use Arcane Circle. This variation is the weakest of our burst options, since your last Communio can miss a good chunk of raid buffs.
 
-Sometimes, if the fight allows it, it may be better to just correct your Death’s Design timer and go for a default double Shroud window. This can be accomplished at the cost of only 10 Soul, which means fights that end with 40 or less Soul can do this without worrying about punishment. 
+Sometimes, if the fight allows it, it may be better to just correct your Death’s Design timer and go for a default double Shroud window. This can be accomplished at the cost of only 10 Soul, which means fights that end with 40 or less Soul can do this without worrying about punishment.
 
 - - -
 
@@ -584,7 +586,7 @@ Triple Shroud Windows are a tool that we have available in our kit. Using the ab
 
 * The setup is extremely restrictive. You must enter the triple Shroud window combo neutral, otherwise you throw away any potency you gain from either overcapping Soul Slice or dropping combo.
 * You have to skip your second Enshroud window to have enough Shroud to perform this.
-* The potion timing is extremely tight and with high ping could miss the last Communio. 
+* The potion timing is extremely tight and with high ping could miss the last Communio.
 * At 2.49, with full uptime, this can happen naturally if the fight allows it.
 
 The triple Shroud window is near-peak optimization for Reaper, requiring specific restrictions and mapping. The overall DPS gains are very minor and it can be quite risky to pool a lot of resources for so long, making a death extremely punishing. At 2.49 this will line up perfectly in a full uptime scenario so if it's something you are looking to attempt you should certainly try but keep in mind the risks and difficulty when attempting it. If, for whatever reason, you attempt the Triple Shroud Window and you cannot enter combo neutral, then do the Double Enshroud and dump your extra Enshroud somewhere later in the fight.
@@ -611,7 +613,7 @@ The concept of Dead Zoning is pooling our resources during the first minute of t
 By doing this we do a few things:
 
 1. Ensure we have enough Soul every time we enter a double Shroud window to execute Gluttony at the end.
-2. Create an insurance policy, in the event we have to disconnect or the boss jumps at odd times. 
+2. Create an insurance policy, in the event we have to disconnect or the boss jumps at odd times.
 
 ![](/img/jobs/rpr/soul_chart.png)
 
@@ -619,7 +621,7 @@ Above you can see how, on average, we have enough Shroud and Soul to execute our
 
 ![](/img/jobs/rpr/regular_vs_dead_zone.png)
 
-Above you can see the benefits of Dead Zoning. This was simulated using a party composition containing a Ninja, Red Mage and Dancer in order to show the effect it has on our aDPS. Despite missing out on a Shroud during a Trick at the one minute mark, Dead Zoning pulls ahead when the resources are dumped at around the 9:00 minute mark. This resource dump can happen anytime after the 5:30 minute mark, and the pooling strategy will end better, as more Gluttonys fit into more raid buffs. Below, you can see the effect that Dead Zoning has on minimizing Gluttony’s drift.
+Above you can see the benefits of Dead Zoning. This was simulated using a party composition containing a Ninja, Red Mage and Dancer in order to show the effect it has on our aDPS. Dead Zoning pulls ahead when the resources are dumped at around the 9:00 minute mark. This resource dump can happen anytime after the 5:30 minute mark, and the pooling strategy will end better, as more Gluttonys fit into more raid buffs. Below, you can see the effect that Dead Zoning has on minimizing Gluttony’s drift.
 
 ![](/img/jobs/rpr/dzgluttonydrift.png)
 
@@ -634,13 +636,13 @@ Ultimately, we aren’t sure what will be better for content until we have the c
 
 # Graduate Studies: Assigning Value to Resource
 
-This section will provide some insight on how we are valuing the Shroud and Soul Gauges. This will get a bit technical, but will also make several assumptions. The only way that we can effectively view these gauges is in a vacuum where we assume every 10 Gauge will be spent. 
+This section will provide some insight on how we are valuing the Shroud and Soul Gauges. This will get a bit technical, but will also make several assumptions. The only way that we can effectively view these gauges is in a vacuum where we assume every 10 Gauge will be spent.
 
 - - -
 
 ## Assigning Values to Soul and Shroud
 
-Because both Soul and Shroud have GCD values tied to their resource usage, we need to establish what GCDs they are effectively “replacing”. The safest assumption will be our combo GCDs, so we need to establish an average there, which is 380 potency. 
+Because both Soul and Shroud have GCD values tied to their resource usage, we need to establish what GCDs they are effectively “replacing”. The safest assumption will be our combo GCDs, so we need to establish an average there, which is 380 potency.
 
 Special thanks to June over on The Balance discord for coming up with a better way to solve this equation:
 
@@ -658,7 +660,7 @@ Next we can evaluate how much Soul is worth. This equation is slightly easier if
 
 60X = 540 +10Y
 
-The cross section of both X and Y using both of these equations can be identify by either using an Algebra Calculator, graphing them out or working out the formulas yourself. Regardless the answer is: 
+The cross section of both X and Y using both of these equations can be identify by either using an Algebra Calculator, graphing them out or working out the formulas yourself. Regardless the answer is:
 
 10 Soul = 144.55 Potency
 
