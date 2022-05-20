@@ -3,9 +3,9 @@ title: Reaper Advanced Guide
 card_header_image: /img/jobs/rpr/screenshot_5-edit.jpg
 authors:
 - ellunavi
-  patch: "6.08"
-  lastmod: 2022-05-17T06:30:32.149Z
-  changelog:
+patch: "6.08"
+lastmod: 2022-05-17T06:30:32.149Z
+changelog:
 - date: 2021-11-27T12:55:28.038Z
   message: Added page.
 - date: 2022-01-04T20:36:20.903Z
