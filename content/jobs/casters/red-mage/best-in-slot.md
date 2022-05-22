@@ -1,8 +1,8 @@
 ---
 title: Red Mage Best in Slot (BiS)
 layout: bis
-patch: "6.08"
-lastmod: 2022-01-21T22:20:02.419Z
+patch: "6.11"
+lastmod: 2022-05-22T22:58:32.214Z
 changelog:
   - date: 2021-10-26T01:30:27.164Z
     message: Created page
@@ -10,9 +10,13 @@ changelog:
     message: Updated for Endwalker with pre-Savage BiS.
   - date: 2022-01-21T22:19:36.866Z
     message: Updated with post-savage release BiS
+  - date: 2022-05-22T22:58:35.645Z
+    message: Updated with note regarding DSR weapon melding.
 bis:
   - type: etro
-    description: Higher damage and higher Vitality than 2.5 set. Use for 6.1's Ultimate.
+    description: Higher damage and higher Vitality than 2.5 set. Use for 6.1's
+      Ultimate. If using the Ultimate weapon from DSR, meld three Direct Hit
+      melds.
     name: ilvl 600 2.48 Savage BiS
     link: 80fdec19-1109-4ca2-8172-53d4dda44144
   - type: etro
