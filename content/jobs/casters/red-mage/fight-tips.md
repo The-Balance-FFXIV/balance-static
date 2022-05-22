@@ -152,7 +152,7 @@ If your group is killing fast enough to skip the six-minute buff window and seco
 
 ### Act 1
 
-Movement for this mechanic can be handled with either a melee combo or by slidecasting and using Acceleration or Swiftcast. If you are in an outer tower or you have a Ninja in your party and want to hold your combo for Trick Attack, a single usage of Swiftcast or Acceleration allows you to keep full uptime here and will not cause any oGCD drift as you will be using a combo shortly after. 
+Movement for this mechanic can be handled with either a melee combo or by slidecasting and using Acceleration or Swiftcast. If you are in an outer tower, a single usage of Swiftcast or Acceleration allows you to keep full uptime here and will not cause any oGCD drift as you will be using a combo shortly after. 
 
 **Example using Swiftcast/Acceleration:**
 
