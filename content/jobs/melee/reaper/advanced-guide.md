@@ -3,8 +3,8 @@ title: Reaper Advanced Guide
 card_header_image: /img/jobs/rpr/screenshot_5-edit.jpg
 authors:
   - ellunavi
-patch: "6.08"
-lastmod: 2022-05-17T06:30:32.149Z
+patch: "6.11"
+lastmod: 2022-05-22T23:02:28.018Z
 changelog:
   - date: 2021-11-27T12:55:28.038Z
     message: Added page.
@@ -19,6 +19,8 @@ changelog:
     message: Removed Trick Attack stuff
   - date: 2022-05-10T22:28:11.731Z
     message: Updated Early Gluttony Opener picture and the text under it.
+  - date: 2022-05-22T23:02:29.287Z
+    message: Updated for 6.11
 ---
 ## Reaper Advanced Rotational Theory
 
@@ -440,9 +442,9 @@ Lastly you can also use the odd-minute Enshroud to plan your disconnects. See th
 
 - - -
 
-## Limit Break Three
+## Limit Break III
 
-Nothing super special here. Limit Break Three will cost us about three GCDs, or roughly around 1539 potency (assuming that Soul could have been turned into something). Early-combat LB3 will be pretty rough on Reaper, and will most likely mean skipping or delaying a Shroud window. Ideally, you want to LB3 towards the end of combat, after your last Enshroud window.
+Nothing super special here. Limit Break III will cost us about three GCDs, or roughly around 1539 potency (assuming that Soul could have been turned into something). Early-combat LB3 will be pretty rough on Reaper, and will most likely mean skipping or delaying a Shroud window. Ideally, you want to LB3 towards the end of combat, after your last Enshroud window.
 
 ![](/img/jobs/rpr/2021-12-07_00-02-00-559_almastudio_colorpop.png)
 
@@ -619,7 +621,7 @@ Above you can see how, on average, we have enough Shroud and Soul to execute our
 
 ![](/img/jobs/rpr/regular_vs_dead_zone.png)
 
-Above you can see the benefits of Dead Zoning. This was simulated using a party composition containing a Ninja, Red Mage and Dancer in order to show the effect it has on our aDPS. Despite missing out on a Shroud during a Trick at the one minute mark, Dead Zoning pulls ahead when the resources are dumped at around the 9:00 minute mark. This resource dump can happen anytime after the 5:30 minute mark, and the pooling strategy will end better, as more Gluttonys fit into more raid buffs. Below, you can see the effect that Dead Zoning has on minimizing Gluttony’s drift.
+Above you can see the benefits of Dead Zoning. This was simulated using a party composition containing a Ninja, Red Mage and Dancer in order to show the effect it has on our aDPS. Dead Zoning pulls ahead when the resources are dumped at around the 9:00 minute mark. This resource dump can happen anytime after the 5:30 minute mark, and the pooling strategy will end better, as more Gluttonys fit into more raid buffs. Below, you can see the effect that Dead Zoning has on minimizing Gluttony’s drift.
 
 ![](/img/jobs/rpr/dzgluttonydrift.png)
 
