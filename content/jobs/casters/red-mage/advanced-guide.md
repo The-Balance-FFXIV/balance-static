@@ -47,7 +47,7 @@ We generally aim to fit a double melee combo under each two minute buff window, 
 
 Mapping out your melee combo timings on a per-fight basis will allow you to get the most use out of your combo and lower the amount of Swiftcasts and Accelerations you will need to use to keep uptime. The melee part of our combo is 5.2s which is followed by \~7.5s of finishers, leaving us with \~12.7s of movement without cast times. If a movement-heavy mechanic requires you to move out of melee range, such as in the clip above, it is important to time your combo so that your finishers align with any movement required outside of melee range. 
 
-There are two situations where your extra combo between two-minute windows is not fully flexible. The first and most significant one is if a Ninja is in the party, meaning Trick Attack will be applied to the boss in every odd minute as well as even minutes, locking our extra combo to every odd-minute window. The second exception is if an Astrologian card is applied to you in between buff windows – similar to Trick, you should use your combo under this buff. Unlike Trick, however, this exception is not necessarily guaranteed every minute if an Astrologian is in the party. Both of these exceptions will leave Red Mage with far less mobility, placing a greater importance on Swiftcast and Acceleration planning.
+There is one situation where your extra combo between two-minute windows is not fully flexible, which is if an Astrologian card is applied to you in between buff windows, during which you should use your combo. This exception is not necessarily guaranteed every minute if an Astrologian is in the party. However, this still will leave Red Mage with far less mobility, placing a greater importance on Swiftcast and Acceleration planning.
 
 ### 2. Swiftcast and Acceleration
 
@@ -203,11 +203,9 @@ One prime example of this is **The Minstrel’s Ballad: Hydaelyn’s Call**. The
 
 The sixth use at 02:15 is when the boss is no longer targetable, which means a lost use (given the length of the phase transition). This means that if we are optimizing, we need to use our Fleche earlier in the opener at no later than four seconds. With low ping, one way to do this is clip a potion with Fleche, like so:
 
-
 ![alt_text](/img/jobs/rdm/11.png "image_tooltip")
 
 As you can see on the timeline, the final Fleche is used just in time before the boss is untargetable, with the next use during adds phase at 2:35.
-
 
 ![alt_text](/img/jobs/rdm/12.png "image_tooltip")
 
@@ -227,9 +225,7 @@ Corps-a-corps (130 potency) and Engagement (180 potency) have two charges, and s
 
 Downtime complicates this further. As a general rule of thumb, **if you notice Corps-a-corps and Engagement go from 0 to 1 charge when there’s less than 30 seconds left on Embolden, that means you will be able to guarantee two uses under buffs.**
 
-
 ![alt_text](/img/jobs/rdm/13.png "image_tooltip")
-
 
 ![alt_text](/img/jobs/rdm/14.png "image_tooltip")
 
@@ -298,8 +294,8 @@ Once you can address the above and reasonably replicate a clean rotation in raid
 
 Below is a chart showing the delay between when an action is used and when the damage is actually applied to a boss. This is helpful to note because some abilities, like Scorch, are more likely to ghost when a boss becomes untargetable. However, for the purposes of snapshotting an action under buffs, the delay doesn’t matter as the damage calculation is already done when you press the button (for instant casts) or near the end of your castbar (for hardcasted spells). Please note that due to the slight variance in damage application, these numbers have been rounded up to the second decimal. 
 
-|  **Action**            | **Delay** |
-|------------------------|-----------|
+| **Action**             | **Delay** |
+| ---------------------- | --------- |
 | Jolt II                | 0.76      |
 | Veraero III            | 0.76      |
 | Verthunder III         | 0.76      |
