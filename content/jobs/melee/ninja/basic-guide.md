@@ -141,7 +141,7 @@ We should try to fit x1 Hyosho, x2 Raitons, x2 Raijus, Dream Within A Dream, and
 
 If Bunshin was used 45s within an odd Trick window, and Phantom Kamaitachi was NOT used to disengage from the boss, we should also have x1 Phantom Kamaitachi within an odd window. 
 
-**Examples:**
+#### **Examples:**
 
 **[Infographic](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9078c445-96b1-45cc-87ea-5ed775a0a033/df0x5wf-e741c245-8ba6-4a65-bf82-6f3da7873152.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkwNzhjNDQ1LTk2YjEtNDVjYy04N2VhLTVlZDc3NWEwYTAzM1wvZGYweDV3Zi1lNzQxYzI0NS04YmE2LTRhNjUtYmY4Mi02ZjNkYTc4NzMxNTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.faU_p7GnOz_m_vxS5V8XW4tPnGSvcg6ugTRBwYukFf4)**
 
@@ -180,7 +180,7 @@ Easy, no thought answer: Just use it within even Trick every time if it was not 
 2. If Mug is 1 GCD before Trick AND an early-mid weave: Use Phantom Kamaitachi as the GCD between Mug and Trick. If you attempt to use it in Trick, you will push a Raiju out of Mug, which is worse.
 3. If Mug is 1 GCD before Trick AND a late weave: Use Phantom Kamaitachi within Trick. 
 
-**Examples:** 
+#### **Examples:** 
 
 **Note**: There are plenty of ways to execute an even/2m Trick window, as long as the optimal amount of abilities are within the window. Below are some examples demonstrating the order I recommend. 
 
