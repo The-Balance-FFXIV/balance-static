@@ -224,10 +224,6 @@ Unfortunately the decision may not always be clear. Trick remaining aligned is c
 
 //TODO; 2m reopeners should look very similar to a 2m window. Generally start Trick either 2nd-3rd GCD. 
 
-![]()
-
-![]()
-
 ### Holding Trick
 
 There may be situations where we may have to hold Trick Attack, along with our cooldowns, due to a mechanic, alignment, or a boss phasing. For the most part, we will try to keep Trick Attack strictly off cooldown to maximize our cooldown usages - especially if we do not know when we will be killing the boss. 
