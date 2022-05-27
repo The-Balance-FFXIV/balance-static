@@ -47,8 +47,6 @@ Furthermore, we ought to avoid ever overcapping on Ninki, even if we must burn g
 | ------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------- | --------- | --------- |
 | Spinning Edge, Gust Slash, Death Blossom, Hakke Mujinsatsu, Fleeting Raiju, Forked Raiju, Throwing Dagger, Huraijin | Phantom Kamaitachi | Aeolian Edge, Armor Crush | Mug       | Meisui    |
 
-&nbsp;
-
 ⦿ Trick Attack is our single-target personal buff that increases damage by 10% you do to the target for 15.77 seconds every minute. Our goal is to utilize our own Trick Attack and fit as many high potency abilities as we can before it ends. 
 
 At a glance, we want to fit Hyosho Ranyru, x2 Raitons, Ten-Chi-Jin, Dream Within a Dream, x2 Fleeting/Forked Raijus, Meisui, and as many Bhavacakras as we can weave. 
