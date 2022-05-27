@@ -165,14 +165,13 @@ As Mug is 20.50s long and Trick is 15.77s long, it is best that Mug is used befo
 
 We should try to fit x1 Hyosho, x2 Raitons, x2 Raijus, Dream Within A Dream, Ten-Chi-Jin, Meisui, 2-3 Bhavacakras within Trick Attack. Optionally, Phantom Kamaitachi may be in a 2m window, but is situational (more explained below).
 
-Meanwhile, the allowance for Mug is x1 Trick Attack, x1 Hyosho, x2 Raitons, 3 Raijus + 1-2 additional GCDs, Dream Within A Dream, Ten-Chi-Jin, Meisui, 2-3 Bhavacakras. If Mug is used as an early weave, you will only catch 1 additional GCD. If used as a mid to late weave, you will catch 2 additional GCDs. As Mug is a raid buff, it shouldn’t be used selfishly, so never purposely late weave and drift this oGCD (beyond alignment reasons).
-
+Meanwhile, the allowance for Mug is x1 Trick Attack, x1 Hyosho, x2 Raitons, 3 Raijus + 1-2 additional GCDs, Dream Within A Dream, Ten-Chi-Jin, Meisui, 2-3 Bhavacakras. If Mug is used as an early weave, you will only catch 1 additional GCD. If used as a mid to late weave, you will catch 2 additional GCDs. As Mug is a raid buff, it shouldn’t be used selfishly, so never purposely late weave and drift this oGCD (beyond alignment reasons).\
 **\
 So how do we handle Phantom Kamaitachi?** 
 
 Easy, no thought answer: Just use it within even Trick every time if it was not used for a disengagement, except if Bunshin is active.
 
-Situational answer (that nobody asked for): 
+**Situational answer** (that nobody asked for): 
 
 ⦿ If Bunshin is active, never use Phantom Kamaitachi in an even Trick & save for Mug instead. \
 ⦿ Note that Ninki generation, under very edge case situations, may throw these rules out the window.
@@ -182,8 +181,6 @@ Situational answer (that nobody asked for): 
 3. If Mug is 1 GCD before Trick AND a late weave: Use Phantom Kamaitachi within Trick. 
 
 **Examples:** 
-
-**[Infographic](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9078c445-96b1-45cc-87ea-5ed775a0a033/df0x5w6-2c6aff1b-0805-4ec1-939c-76ae8f1d26c2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkwNzhjNDQ1LTk2YjEtNDVjYy04N2VhLTVlZDc3NWEwYTAzM1wvZGYweDV3Ni0yYzZhZmYxYi0wODA1LTRlYzEtOTM5Yy03NmFlOGYxZDI2YzIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B6IQht5_Ek1oDlbwcNpERxnrev6kUZbe89vAeZxZpC4)**
 
 **Note**: There are plenty of ways to execute an even/2m Trick window, as long as the optimal amount of abilities are within the window. Below are some examples demonstrating the order I recommend. 
 
