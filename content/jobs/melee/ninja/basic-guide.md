@@ -3,36 +3,41 @@ title: Ninja Basic Guide
 card_header_image: /img/jobs/nin/basic.png
 authors:
   - jackal
-patch: "6.08"
+patch: "6.10"
 lastmod: 2022-03-20T03:55:05.969Z
 changelog:
   - date: 2021-10-29T03:08:27.069Z
     message: Created page
   - date: 2022-03-20T03:55:08.156Z
     message: Updated for Endwalker
+  - date: 2022-05-27T17:56:53.705Z
+    message: "Updated guide to 6.10. "
 ---
-If you have any questions, feel free to reach out to me on discord, Jackal#0002 or ask in the Balance #nin_questions channel ♥ 
+If you have any questions, feel free to ask in the #nin_questions channel.
 
 ## Overview
 
-Ninja is a fast-paced yet flexible job with a high focus on a powerful burst every one and two minutes. It is unique from other jobs with its utilization of Ninjutsus, a combo-like system allowing a Ninja to form a multitude of ranged attacks. It also has one of the most frequent raid buffs (Trick Attack) where we emphasize landing all our biggest attacks within 15.77s. 
+Ninja is a fast-paced yet flexible job with a high focus on a powerful burst every one and two minutes. It is unique from other jobs with its utilization of Ninjutsus, a combo-like system allowing a Ninja to form a multitude of ranged attacks. We have a personal buff every minute (Trick Attack) where we emphasize landing all of our biggest attacks within 15.77s.  
 
 If you want a melee job with the most flexibility for disengagements and has a fast-paced burst phase and relaxing filler phase, then Ninja might just be the job for you!
 
 **Resources**
 
-* [Video Demonstration](https://youtu.be/CQeABjRFbFs) of a 6-minute fight. 
-* [Rotation Planner](https://docs.google.com/spreadsheets/d/1v0fbsALOoQFNTBkk--vzAYrcBSPd7em85TmVMi9UCSI/edit?usp=sharing) for an visualization of a 6-minute rotation or the ability to spreadsheet any rotation.
-* [XIVAnalysis](https://xivanalysis.com/) is good for checking general mistakes and an improved timeline of a fight. 
-* [Gear Planner](http://bit.ly/Gear-Planner) simulates predicted DPS based off gear, great for creating a set. 
+⦿ [Video Demo](https://youtu.be/J_sEsvLXBYo): 6:30m fight demonstration following something similar to the rotation planner.
+
+⦿ [Rotation Planner](https://bit.ly/364UOqG) for an visualization of a 6-minute rotation or the ability to spreadsheet any rotation.
+
+⦿ [XIVAnalysis](https://xivanalysis.com/) is good for checking general mistakes and an improved timeline of a fight. \
+**\
+⦿ [Gear Planner](http://bit.ly/Gear-Planner) simulates predicted DPS based off gear, great for creating a set.**
 
 ## Core Concepts
 
-Huton grants us with a 15% reduction in auto-attack delay and skill-speed. This is one of the first gauges we get, and it is crucial for us to maintain this gauge with the use of Armor Crush when the gauge is 30s or below. Use of Armor Crush above 30s will result in waste of Huton gauge, which should be avoided. To start using Huton, we will cast Huton prepull. Huraijin is only ever used if our Huton drops on accident, on death, or through a long downtime segment.   
+**⦿**Huton grants us with a 15% reduction in auto-attack delay and skill-speed. This is one of the first gauges we get, and it is crucial for us to maintain this gauge with the use of Armor Crush when the gauge is 30s or below. Use of Armor Crush above 30s will result in waste of Huton gauge, which should be avoided. To start using Huton, we will cast Huton prepull. Huraijin is only ever used if our Huton drops on accident, on death, or through a long downtime segment.   
 
 ![](/img/jobs/nin/image24.png)
 
-Ninki is the second gauge we receive, and allows us to accumulate resources for use of Bhavacakra, Hellfrog Medium or Bunshin. Below is a table listing every ability and their Ninki amount. Bunshin will also add +5 Ninki to any GCD that consumes a stack of Bunshin. 
+**⦿** Ninki is the second gauge we receive, and allows us to accumulate resources for use of Bhavacakra, Hellfrog Medium or Bunshin. Below is a table listing every ability and their Ninki amount. Bunshin will also add +5 Ninki to any GCD that consumes a stack of Bunshin. 
 
 Furthermore, we ought to avoid ever overcapping on Ninki, even if we must burn gauge right before Trick Attack. Overcapped Ninki is potential oGCD loss, which is a far larger loss than the gain of getting more Bhavacakras under Trick. 
 
@@ -44,27 +49,35 @@ Furthermore, we ought to avoid ever overcapping on Ninki, even if we must burn g
 
 &nbsp;
 
-Trick Attack is our single-target raid buff that increases damage by 5% for anyone hitting the target for 15.77 seconds every minute. This is one of our most important skills and provides a tremendous amount of utility for the party and yourself. Our goal is to utilize our own Trick Attack and fit as many high potency abilities as we can before it ends. 
+⦿ Trick Attack is our single-target personal buff that increases damage by 10% you do to the target for 15.77 seconds every minute. Our goal is to utilize our own Trick Attack and fit as many high potency abilities as we can before it ends. 
 
-At a glance, we want to fit Hyosho Ranyru, x2 Raitons, Ten-Chi-Jin, Dream Within a Dream, x2 Fleeting/Forked Raijus, Meisui, and as many Bhavacakras as we can weave. 
+At a glance, we want to fit Hyosho Ranyru, x2 Raitons, Ten-Chi-Jin, Dream Within a Dream, x2 Fleeting/Forked Raijus, Meisui, and as many Bhavacakras as we can weave. 
 
-Ninjutsus are unique abilities that we formulate with the Mudras: Ten, Chi and Jin. Refer to this [cheat sheet](https://media.discordapp.net/attachments/919447066168668171/920093248360439818/MUDRA_GUIDE_ew.png?width=704&height=545) for all the different mudra combinations.
+**⦿** Mug is our new raid buff that afflicts the target with a vulnerability debuff that increases damage taken by 5% for everyone hitting the target every 2-minutes. This provides a ton of utility for the group and should **NOT** be used selfishly after the opener. We use it 4.5s in the opener to allow earlier execution of Bunshin, but Mug should be delayed 1 GCD at 2m for better alignment with other raid buffs. Then used strictly off cooldown thereafter.
 
-Kassatsu is an oGCD that grants an additional Ninjutsu and converts certain Ninjutsu combinations into much more powerful Ninjutsus. The buff lasts 15 seconds, so weaving this within the Trick Attack window is generally unnecessary. Kassatsu transforms Hyoton into Hyosho, and Katon into Goka Mekkyaku. 
+**⦿** Ninjutsus are unique abilities that we formulate with the Mudras: Ten, Chi and Jin. Refer to this [cheat sheet](https://media.discordapp.net/attachments/919447066168668171/920093248360439818/MUDRA_GUIDE_ew.png?width=704&height=545) for all the different mudra combinations.
 
-## Opener
+**⦿** Kassatsu is an oGCD that grants an additional Ninjutsu and converts certain Ninjutsu combinations into much more powerful Ninjutsus. The buff lasts 15 seconds, so weaving this within the Trick Attack window is generally unnecessary. Kassatsu transforms Hyoton into Hyosho, and Katon into Goka Mekkyaku. 
+
+## Openers
+
+You may use **either** opener, but if you are unsure you can use the 3rd GCD Trick, as this helps avoid drift and gives the option to begin your Trick Attack burst sooner rather than a GCD later if needed
 
 ### Standard 3rd GCD Opener
 
 ![](/img/jobs/nin/ninopener.png)
 
-[Opener](https://cdn.discordapp.com/attachments/277968398103609344/929518167036928070/nin2.png)
+⦿ It is important for the Suiton prepull to start being prepared at -6s on the countdown and used at -1s. This will not early pull the boss and will allow future Mudras to come off cooldown sooner.\
+⦿ Late weave Trick Attack as much as possible without clipping.\
+**⦿** Mug should be held a GCD after the opener (at next usage) then used strictly off cooldown after.
 
-This is the best general play opener for NIN. Unlike Shadowbringers, we will be using Trick Attack slightly earlier to align with other buffs and jobs. Some important notes are preparing Suiton at -6s and then casting at -1s to ensure you pull on time. This will not early pull the boss, as the damage takes one second to register. Doing this means our Mudra cooldown will be sooner, and that we will be able to fit x2 Raitons within all Trick windows post opener. 
+### 4rd GCD Alternate Opener
 
-Next, we will be **late weaving** Trick Attack. This is **ONLY** for the opener and is done for alignment purposes. You should late weave as much as possible without clipping your next GCD. This will depend on your ping. After the opener, we should strictly keep Trick Attack off cooldown and prevent it from drifting as much as possible. 
+![](/img/jobs/nin/4th-gcd.png)
 
-Lastly, getting that last Spinning Edge is extremely tight but possible on any GCD speed 2.12 or below. If you play at >40ms ping, you can skip the Spinning Edge and go straight into casting Raiton. 
+⦿ This version uses Trick Attack at 4th GCD instead of the standard 3rd. Susceptible to Trick drifting a GCD later in a full uptime fight, which could separate Trick from Mug by 2 GCDs, unless Mug was also held an additional GCD (at most, 1 GCD separation between Trick and Mug is desired).\
+⦿ Exits the opener only slightly higher than 3rd GCD Trick, however under full uptime performs nearly the same. ⦿ Hold Mug a GCD after the opener (next usage) then strictly off cooldown after. This will align it with other 20s and 15s buffs.\
+⦿ It is important for the Suiton prepull to start being prepared at -6s on the countdown and used at -1s. This will not early pull the boss and will allow future Mudras to come off cooldown sooner
 
 ## Basic Rotation
 
@@ -111,29 +124,24 @@ Holding Trick and downtime are common causes for mudra overcap. Most of the time
 
 ### Multi-Target
 
-**Doton** does 70p per tick (every three), with one additional tick happening the moment you drop the Doton. That’s a total of nine ticks for 630p. You should use this pre-pull for boss pulls, if you are able to. Otherwise, Doton should be used on two targets when they sit within the Doton for at least \~18s (or seven ticks), three targets for at least \~12s (5 ticks) and four targets for at least ~6s (three ticks). 
+⦿ **Doton** does 80p per tick (every 3s), with one additional tick happening the moment you drop the Doton. That’s a total of 7 ticks for 560p. At level 90, use Doton on x3 targets when they remain in it for the full duration.\
+⦿ **Katon** should only be used on 3+ targets, and ideally when Doton is placed to be able to proc Hollow Nozuchi. \
+⦿ **Goka Mekkyaku** is much like Katon and should only be used on 3+ targets, and ideally within Doton. \
+⦿ **Death Blossom & Hakke** can be used on a group of mobs of 3+ targets and ideally within Doton.⦿ **Hellfrog Medium** should also be used on a group of mobs of 3+ targets with the exception when the Meisui buff is active. When Meisui is active, use Hellfrog over Bhavacakra on 4+ targets.
 
-**Katon** should only be used on 3+ targets, and ideally when Doton is placed to be able to proc Hollow Nozuchi. 
-
-**Goka Mekkyaku** is much like Katon and should only be used on 3+ targets, and ideally within Doton. 
-
-**Death Blossom & Hakke** can be used on a group of mobs of 3+ targets and ideally within Doton.
-
-**Hellfrog Medium** should also be used on a group of mobs of 3+ targets with the exception when the Meisui buff is active. When Meisui is active, use Hellfrog over Bhavacakra on 4+ targets.
-
-## **Trick Attack Burst**
+## **Trick Attack and Mug Burst**
 
 One of the most important steps to learning Ninja and playing optimally is understanding and getting confidence with execution of our Trick Attack windows. Given that Trick is 15.77s long, we will be cramming a large array of abilities in a short period of time. 
 
-We have two versions of our Trick Attack burst, the **odd** (1m, 3m, 5m…) windows and **even** (2m, 4m, 6m…) windows. 
+We have two versions of our Trick Attack burst, the odd (1m, 3m, 5m…) windows and even (2m, 4m, 6m…) windows. 
 
 ### Odd Trick
 
 This is a window that happens every odd minute or is better identified by its absence of 2-minute cooldowns. This window is easier to execute than the Even Window, for there are a lot less abilities we will cram within the window. 
 
-We should try to fit one **Hyosho**, two **Raitons**, two **Raijus**, **Dream Within A Dream**, and as many **Bhavacakras** as we have available. Any extra time we have, we will use our standard 1-2-3 combos.
+We should try to fit x1 Hyosho, x2 Raitons, x2 Raijus, Dream Within A Dream, and as many Bhavacakras as we have available. Any extra time we have, we will use our standard 1-2-3 combos.
 
-If Bunshin was used 45s within an odd Trick window, and Phantom Kamaitachi was NOT used to disengage from the boss, we should also have x1 **Phantom Kamaitachi** within an odd window. 
+If Bunshin was used 45s within an odd Trick window, and Phantom Kamaitachi was NOT used to disengage from the boss, we should also have x1 Phantom Kamaitachi within an odd window. 
 
 **Examples:**
 
@@ -151,35 +159,53 @@ This final example is when we want to drift Phantom Kamaitachi into the odd wind
 
 ![](/img/jobs/nin/odd_3.png)
 
-### Even Trick
+### Even Trick + Mug
 
-This is a window that occurs every even minute or is a window that has all our 2-minute cooldowns available. The Even window is much like our Odd Trick, but will have Ten-Chi-Jin, Meisui and optionally Mug included. 
+This is a window that occurs every even minute or is a window that has all our 2-minute cooldowns available. The Even window is much like our Odd Trick, but is stronger for we will be also bursting within Mug and have Ten-Chi-Jin available to us. 
 
-We should try to fit one **Hyosho**, two **Raitons**, two **Raijus**, **Dream Within A Dream**, **Ten-Chi-Jin**, **Meisui**, and as many **Bhavacakras** as possible. If you are able to double weave (<40ms ping), you can also drift **Mug** into Trick for an additional Bhavacakra. 
+As Mug is 20.50s long and Trick is 15.77s long, it is best that Mug is used before Trick to catch the entire duration. If Mug is used within Trick, we risk severe drifting of one or both oGCDs.
 
-Phantom Kamaitachi, however, should **NOT** be used within an Even Trick window, as it does less damage than either of our Raijus. There are some exceptions, such as if the extra Ninki would otherwise grant you an extra Bhavacakra, or if replacing a Raiton results in a gain of two GCDs (i,e. a late-woven Trick).
+We should try to fit x1 Hyosho, x2 Raitons, x2 Raijus, Dream Within A Dream, Ten-Chi-Jin, Meisui, 2-3 Bhavacakras within Trick Attack. Optionally, Phantom Kamaitachi may be in a 2m window, but is situational (more explained below).
+
+Meanwhile, the allowance for Mug is x1 Trick Attack, x1 Hyosho, x2 Raitons, 3 Raijus + 1-2 additional GCDs, Dream Within A Dream, Ten-Chi-Jin, Meisui, 2-3 Bhavacakras. If Mug is used as an early weave, you will only catch 1 additional GCD. If used as a mid to late weave, you will catch 2 additional GCDs. As Mug is a raid buff, it shouldn’t be used selfishly, so never purposely late weave and drift this oGCD (beyond alignment reasons).
+
+**\
+So how do we handle Phantom Kamaitachi?** 
+
+Easy, no thought answer: Just use it within even Trick every time if it was not used for a disengagement, except if Bunshin is active.
+
+Situational answer (that nobody asked for): 
+
+⦿ If Bunshin is active, never use Phantom Kamaitachi in an even Trick & save for Mug instead. \
+⦿ Note that Ninki generation, under very edge case situations, may throw these rules out the window.
+
+1. If Mug + Trick are woven together: Use Phantom in Trick Attack. As Mug is an early weave, you will catch 3 Raijus + Phantom Kamaitachi.
+2. If Mug is 1 GCD before Trick AND an early-mid weave: Use Phantom Kamaitachi as the GCD between Mug and Trick. If you attempt to use it in Trick, you will push a Raiju out of Mug, which is worse.
+3. If Mug is 1 GCD before Trick AND a late weave: Use Phantom Kamaitachi within Trick. 
 
 **Examples:** 
 
 **[Infographic](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9078c445-96b1-45cc-87ea-5ed775a0a033/df0x5w6-2c6aff1b-0805-4ec1-939c-76ae8f1d26c2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkwNzhjNDQ1LTk2YjEtNDVjYy04N2VhLTVlZDc3NWEwYTAzM1wvZGYweDV3Ni0yYzZhZmYxYi0wODA1LTRlYzEtOTM5Yy03NmFlOGYxZDI2YzIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B6IQht5_Ek1oDlbwcNpERxnrev6kUZbe89vAeZxZpC4)**
 
-**Note**: There are plenty of ways to execute an even/2-minute Trick window, as long as the optimal amount of abilities are within the window. Below are some examples demonstrating the order I recommend. 
+**Note**: There are plenty of ways to execute an even/2m Trick window, as long as the optimal amount of abilities are within the window. Below are some examples demonstrating the order I recommend. 
 
-This example utilizes **Mug** and requires the ability to double-weave. This is my suggested order of GCDs: **Hyosho -> Raiton -> Fleeting -> TCJ -> Fleeting -> Raiton**. Then utilize the available weave slots. Recall that after a Ninjutsu, you can only single weave, and after a standard GCD, you can only double weave (with good ping): 
+**\[Red bar = Trick ends, Orange bar = Mug ends]**
 
-![](/img/jobs/nin/even_1.png)
+In this example, Trick & Mug are 1 GCD separated. Phantom Kamaitachi is used between Trick and Mug as Mug is an early weave. Thus, Mug ends after the 3rd Raiju. Trick window fits 3 Bhavas as we enter on 100 Ninki. Bunshin is **NOT** active here.
 
-This example is much like the first, however, Trick is used in the early weave slot and opens up the weave slot directly after it for Bhavacakra. Ideally if the option is available and you can double-weave, this is recommended. The drawback is, because we opened up a weave slot at the start of the window, the weave slot after the final Raiton will not be within Trick. 
+![](/img/jobs/nin/5.png)
 
-![](/img/jobs/nin/even_2.png)
+This one, Mug and Trick are woven together. I have placed Phantom Kamaitachi within Trick, as Mug will catch x3 Raijus + Phantom Kamaitachi without issue.
 
-The next example does NOT use **Mug** within Trick, and only ever single weaves. I also assume we have entered Trick at 90-95 Ninki here, allowing us to get three Bhavacakras within the window:
+![](/img/jobs/nin/1.png)
 
-![](/img/jobs/nin/even_3.png)
+An example where Mug is a late weave, meaning the allowance is x3 Raijus + 2 extra GCDs. In this case, it’s better to use PK within Trick, and finish Mug on a Raiju.
 
-This last example is if we enter Trick at 100 Ninki and are able to fit four Bhavacakras under Trick. Fitting x4 Bhavacakras under Trick is also possible at 90-95 Ninki, but requires swapping out a Raiju for an Aeolian Edge (only if available): 
+![](/img/jobs/nin/3.png)
 
-![](/img/jobs/nin/even_4.png)
+Another late woven Mug, but this time it’s like our 6m window with Bunshin active. Phantom Kamaitachi is used right after Trick Attack. Mug still catches 3 Raijus, PK and an additional GCD. We have entered Trick at 80 Ninki here for 3 Bhavas.
+
+![](/img/jobs/nin/2.png)
 
 ## Miscellaneous
 
@@ -201,21 +227,11 @@ Unfortunately the decision may not always be clear. Trick remaining aligned is c
 
 ### Reopeners
 
-How a reopener may look is fight and kill time dependent. but for the most part we can expect to use Trick on the reopener within two to three GCDs. Below are some examples of generic reopeners for reference. Pot may be weaved alone in any open weave slot. 
+//TODO; 2m reopeners should look very similar to a 2m window. Generally start Trick either 2nd-3rd GCD. 
 
-#### 100 Ninki + Bunshin + 2nd GCD
+![]()
 
-![](/img/jobs/nin/reopener_1.png)
-
-#### 100 Ninki + Bunshin + 1st GCD
-
-![](/img/jobs/nin/reopener_2.png)
-
-#### 70 Ninki + 2nd GCD
-
-![](/img/jobs/nin/reopener_3.png)
-
-Cooldowns may be available at different times or pot may be present as well. Above examples are just for reference and may not be applicable for certain fights. 
+![]()
 
 ### Holding Trick
 
@@ -223,15 +239,15 @@ There may be situations where we may have to hold Trick Attack, along with our c
 
 However, there are plenty of cases where we can’t or should not use Trick off cooldown. Such as a downtime phase that would cut our burst off prematurely, or if holding otherwise wouldn’t result in us losing a Trick Attack and its cooldowns later in the fight. 
 
-If you choose to hold Trick Attack, it is important to know that doing so will overcap your Mudra stacks if an additional Ninjutsu (aside from Suiton) is not used outside of Trick Attack. Even if using a Raiton outside of Trick means one less Raiton + Raiju outside of Trick for the rest of the fight, overcapping is the potential loss of one Raiton + Raiju. 
+If you choose to hold Trick Attack, it is important to know that doing so will overcap your Mudra stacks if an additional Ninjutsu (aside from Suiton) is not used outside of Trick Attack. Even if using a Raiton outside of Trick means 1 less Raiton + Raiju outside of Trick for the rest of the fight, overcapping is the potential loss of 1 Raiton + Raiju. 
 
 ## Improvement
 
 ### Keep Your GCD Rolling
 
-An important note for all job classes, it is crucial that a player always keeps their GCD rolling to maximize their damage. To put simply, if you’re able to press a Global Cooldown (GCD) and aren’t, then you’re not keeping your GCD rolling. Every moment your GCD is not rolling is damage that you’re losing out on by the end of the fight. Hitting something is usually better than hitting nothing at all.
+An important note for all job classes, it is crucial that a player always keeps their GCD rolling to maximize their damage. To put simply, if you’re able to press a Global Cooldown (GCD) and aren’t, then you’re not keeping your GCD rolling. Every moment your GCD is not rolling is damage that you’re losing out on by the end of the fight. Hitting something is usually better than hitting nothing at all.\
 
-As melee, we may need to disconnect from the boss. While we have a ranged GCD - Throwing Dagger - we still should try to avoid it. If the disconnect happens 45s after Bunshin, we simply adjust where we use Phantom Kamaitachi. The disengagement priority can be found in the Boss Disengagement section below. 
+As melee, we may need to disconnect from the boss. While we have a ranged GCD - Throwing Dagger - we still should try to avoid it. If the disconnect happens 45s after Bunshin, we simply adjust where we use Phantom Kamaitachi. The disengagement priority can be found in the Boss Disengagement section below. \
 
 Positionals follow the same logic. It is better to use a GCD without hitting the positional requirement than it is to clip and hit a GCD with the positional requirement. Or if you’re at the flank of the boss, and need to hit Aeolian Edge next, simply using Armor Crush and overcapping your Huton is better than missing the Aeolian Edge positional.
 
@@ -265,42 +281,26 @@ As one of the most flexible melee in terms of disconnecting from the boss, Ninja
 
 ### FAQ
 
-**Why does our BiS not follow the stat priority?**
+**⦿ Why does our BiS not follow the stat priority?**
 
-Because of stat tiering, and how it works together with our rotation, our rotation sim brought this exact combination of materia out to be a higher average DPS value than fully going with our stat priority. If you want to know more about the math behind stats and stat tiering, go to the sub stats tier list up above by the spreadsheets. 
+Because of stat tiering, and how it works together with our rotation, our rotation sim brought this exact combination of materia out to be a higher average dps value than fully going with our stat priority. If you want to know more about the math behind stats and stat tiering, go to the sub stats tier list up above by the spreadsheets. 
 
-**How much ping do I need to double-weave?**
+**⦿ How much ping do I need to double-weave?**
 
 The threshold is around ~40ms.
 
-**Should I always weave Trick late?**
+**⦿ Should I always weave Trick late?**
 
-Only purposely weave Trick late in the opener. Anywhere else, use off cooldown. 
+Only purposely weave Trick late in the opener. Anywhere else, use off cooldown as much as possible. Ideally, you do not drift this more than 2s for a 6-7m fight.  
 
-**Should I save Bunshin for Trick, or use it on cooldown?**
+**⦿ Should I save Bunshin for Trick, or use it on cooldown?**
 
 Use on cooldown.
 
-**Should I use Phantom Kamaitachi immediately or save it for Trick Attack?**
+**⦿ Should I be using Forked Raiju or Fleeting Raiju?**
 
-First priority of Phantom Kamaitachi is to use it as a disengagement tool over Raiton or Throwing Dagger. If there is none, you generally can save it for the next Trick window. Some important things to keep in mind:
+Both Forked Raiju and Fleeting Raiju have an identical potency of 560. Forked Raiju is a gapcloser, whereas Fleeting Raiju is a standard melee gcd which allows it freedom of movement. Realistically you should always be using Fleeting Raiju, however if you need to use a gapcloser then use Forked Raiju. Tldr; use whatever you want.
 
-**1.** Odd Trick Windows (no-TCJ): Most of the time prefer Phantom. 
-
-**2**. Even/2m Trick Windows (with TCJ): Generally, you do not want Phantom in 2m windows.
-
-**Should I be using Forked Raiju or Fleeting Raiju?**
-
-Both Forked Raiju and Fleeting Raiju have an identical potency of 560. Forked Raiju is a gapcloser, whereas Fleeting Raiju is a standard melee GCD which allows it freedom of movement. Realistically you should always be using Fleeting Raiju, however if you need to use a gapcloser then use Forked Raiju. 
-
-**TL;DR**: use whatever you want.
-
-**Does Kassatsu damage percent affect Hyosho and Goka?**
+**⦿ Does Kassatsu %damage affect Hyosho and Goka?**
 
 Yes it does.
-
-## Acknowledgments
-
-Special thanks to all the theorycrafters that came together to work on Endwalker Ninja! Sheenda, Shalfu, Stella, Kayu, Makar, Kaladin, Elena, Alfie, Akashi, Immo. Shoutout to Makar and Shalfu for all the help with the Ninja Rotation Planner, it wouldn't be as good as it is without you all. Finally, thank you Kouki Suigetsu for being my first Ninja master and teaching me the ropes at the start of Shadowbringers ♥ 
-
-Getting involved with the theorycrafting truly solidified my understanding of Ninja. I hope to continue doing this in the future so that I could help other players starting off or even those shooting for the top. And thank you everyone who asks questions to improve or helps others in the Balance! Don’t be afraid to ask questions, we’ve all been there once.
