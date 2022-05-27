@@ -1,7 +1,7 @@
 ---
 title: Ninja Best in Slot (BiS)
 layout: bis
-patch: "6.08"
+patch: "6.10"
 lastmod: 2022-02-18T04:19:32.716Z
 changelog:
   - date: 2021-10-29T03:14:26.634Z
@@ -13,27 +13,6 @@ bis:
     description: "BiS 2.12 GCD is best for general play. "
     name: 2.12 GCD Savage BIS
     link: b9876a4d-aba9-48f0-9c03-cb542af46a29
-  - type: etro
-    description: "(May be outdated for EW.) "
-    name: UCoB BiS
-    link: a6f033eb-2d74-4a2a-bd08-f7823d415fc3
-  - type: etro
-    description: |-
-      Can use other pieces; needs the following all above ilvl 470:
-
-      * Relic weapon: CRT 318/DH 318/DET 314/SKS 217 
-      * Body/pants: 2x CRT/DET
-      * Helmet/gloves/boots: 2x CRT/DH, 1x CRT/DET
-      * Accessories: 3x CRT/DET, 3x CRT/DH
-      * Food: Smoked Chicken HQ
-
-      (May be outdated for EW.)
-    name: UWU BiS (Credit to Io)
-    link: 74be6ffe-4d39-4513-96fb-be800c372592
-  - type: etro
-    description: (May be outdated for EW.)
-    name: The Epic of Alexander BiS
-    link: a25fcb8e-7f1a-432f-a627-bbf6eabfe77c
 authors:
   - Balance-NIN-Staff
 ---
