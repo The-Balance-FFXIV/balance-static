@@ -1,29 +1,32 @@
 ---
 title: Ninja Openers
 authors:
-  - zhotacton
   - Balance-NIN-Staff
-patch: "6.08"
+  - jackal
+patch: "6.10"
 lastmod: 2022-02-18T04:21:21.404Z
 changelog:
   - date: 2021-10-29T03:10:02.993Z
     message: Created page
   - date: 2022-02-18T04:21:22.235Z
     message: Updated for Endwalker
+  - date: 2022-05-27T17:38:00.555Z
+    message: "Updated opener with 6.10 3rd and 4th GCD Trick opener. "
 ---
-Huton (-11s)  → Doton (-7.5s) → Suiton (-1s) → Kassatsu →  Spinning Edge → Dex Tincture → Gust Slash → Mug + Bunshin →  Aeolian Edge → Trick Attack (2nd weave slot) → Phantom Kamaitachi → Dream Within A Dream → Hyosho Ranryu → Raiton → Ten-Chi-Jin → Fuma Shuriken \[Ten] →  Raiton \[Chi] → Suiton \[Jin] → Meisui → Forked/Fleeting Raiju →  Bhavacakra → Forked/Fleeting Raiju  → Bhavacakra  → Spinning Edge (Trick Ends)  →  Raiton→ Forked/Fleeting Raiju 
 
-![Ninja standard opener graphic. ](/img/jobs/nin/nin2.png "Ninja Standard Opener")
 
-It is important for the Suiton pre-pull to start being prepared at -6s on the countdown and used at -1s. This will not early pull the boss and will allow future Mudras to come off cooldown sooner.
+![Ninja standard opener graphic. ](/img/jobs/nin/earlymug3.png "Ninja Standard Opener")
 
 
 
-Trick Attack is also a late weave in the opener to align with other raid buffs. Weave it as late as you can without clipping. 
+⦿ Late weave Trick Attack as much as possible without clipping. \
+⦿ Mug should be held a GCD after the opener (at next usage) then used strictly off cooldown after.\
+⦿ It is important for the Suiton prepull to start being prepared at -6s on the countdown and used at -1s. This will not early pull the boss and will allow future Mudras to come off cooldown sooner.
 
 
 
-*Note: Trick is only purposefully weaved late in the opener. Use on cooldown after the opener.*
- 
+![](/img/jobs/nin/4th-gcd.png)
 
-If you play at high ping (>40ms), you may skip the Spinning Edge at the end of the opener and go straight into Raiton instead, as fitting Spinning Edge under Trick is extremely tight.
+⦿ This version uses  Trick Attack at 4th GCD instead of the standard 3rd. Susceptible to Trick drifting a GCD later in a full uptime fight, which could separate Trick from Mug by 2 GCDs, unless Mug was also held an additional GCD (at most, 1 GCD separation between Trick and Mug is desired).\
+⦿ Exits the opener only slightly higher than 3rd GCD Trick, however under full uptime performs nearly the same. ⦿ Hold Mug a GCD after the opener (next usage) then strictly off cooldown after. This will align it with other 20s and 15s buffs.\
+⦿ It is important for the Suiton prepull to start being prepared at -6s on the countdown and used at -1s. This will not early pull the boss and will allow future Mudras to come off cooldown sooner.
