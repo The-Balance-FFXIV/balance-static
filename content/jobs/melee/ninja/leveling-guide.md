@@ -8,6 +8,8 @@ lastmod: 2021-10-29T03:07:41.055Z
 changelog:
   - date: 2021-10-29T03:07:56.596Z
     message: Added page
+  - date: 2022-05-27T18:28:17.501Z
+    message: "Updated leveling guide for 6.10. "
 ---
 This guide was written by Akashi Seraph for players who are seeking to, or are currently leveling Ninja. The guide aims to inform players about how to initially play as Ninja, what gear they should use while they level and where to find it, the key basics of the job, as well as some example openers for lower levels.If you are already a level 90 Ninja and are looking for information pertaining to the job at level 90, or  [6.10 Ninja Guide](https://bit.ly/3JVy1eG).
 
