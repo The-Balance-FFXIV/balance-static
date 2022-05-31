@@ -1,39 +1,48 @@
 ---
 title: Ninja Best in Slot (BiS)
 layout: bis
-patch: "6.08"
-lastmod: 2022-02-18T04:19:32.716Z
+patch: "6.11"
+lastmod: 2022-05-31T02:52:04.484Z
 changelog:
   - date: 2021-10-29T03:14:26.634Z
     message: Created page
   - date: 2022-02-18T04:19:31.349Z
     message: Updated for Endwalker
+  - date: 2022-05-27T18:29:17.622Z
+    message: "Updated for 6.10. "
 bis:
   - type: etro
     description: "BiS 2.12 GCD is best for general play. "
     name: 2.12 GCD Savage BIS
     link: b9876a4d-aba9-48f0-9c03-cb542af46a29
   - type: etro
-    description: "(May be outdated for EW.) "
-    name: UCoB BiS
-    link: a6f033eb-2d74-4a2a-bd08-f7823d415fc3
+    description: ""
+    name: 2.12 GCD with DSU Daggers
+    link: ff32cb2c-8faa-4b69-9c66-73bd02cc13dd
   - type: etro
-    description: |-
-      Can use other pieces; needs the following all above ilvl 470:
-
-      * Relic weapon: CRT 318/DH 318/DET 314/SKS 217 
-      * Body/pants: 2x CRT/DET
-      * Helmet/gloves/boots: 2x CRT/DH, 1x CRT/DET
-      * Accessories: 3x CRT/DET, 3x CRT/DH
-      * Food: Smoked Chicken HQ
-
-      (May be outdated for EW.)
-    name: UWU BiS (Credit to Io)
-    link: 74be6ffe-4d39-4513-96fb-be800c372592
+    description: ""
+    name: TEA BIS (With Relic)
+    link: a129cf44-95cb-4e5d-a3e9-d07c58c26f2f
   - type: etro
-    description: (May be outdated for EW.)
-    name: The Epic of Alexander BiS
-    link: a25fcb8e-7f1a-432f-a627-bbf6eabfe77c
+    description: ""
+    name: TEA BIS (Without Relic)
+    link: 19f0d8cf-65ad-483b-88ae-31fd01456cf4
+  - type: etro
+    description: ""
+    name: UWU BIS (With Relic)
+    link: 511241f5-ab42-446e-9424-8f504bc7be9a
+  - type: etro
+    description: ""
+    name: UWU BIS (Without Relic)
+    link: 55fa7f84-f900-4d26-81a7-e9483c71a220
+  - type: etro
+    description: ""
+    name: UCOB BIS (With Relic)
+    link: e159cca3-7376-4203-b83b-44248f630a6b
+  - type: etro
+    description: ""
+    name: UCOB BIS (Without Relic)
+    link: fb4a1090-3fa8-4980-b58b-0cf7926a3c10
 authors:
   - Balance-NIN-Staff
 ---
