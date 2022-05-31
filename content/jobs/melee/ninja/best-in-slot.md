@@ -1,8 +1,8 @@
 ---
 title: Ninja Best in Slot (BiS)
 layout: bis
-patch: "6.10"
-lastmod: 2022-02-18T04:19:32.716Z
+patch: "6.11"
+lastmod: 2022-05-31T02:52:04.484Z
 changelog:
   - date: 2021-10-29T03:14:26.634Z
     message: Created page
