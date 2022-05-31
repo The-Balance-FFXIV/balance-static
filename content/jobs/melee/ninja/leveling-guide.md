@@ -3,15 +3,15 @@ title: Ninja Leveling Guide
 card_header_image: /img/jobs/nin/leveling.png
 authors:
   - Balance-NIN-Staff
-patch: "5.58"
-lastmod: 2021-10-29T03:07:41.055Z
+patch: "6.11"
+lastmod: 2022-05-31T02:58:22.049Z
 changelog:
   - date: 2021-10-29T03:07:56.596Z
     message: Added page
   - date: 2022-05-27T18:28:17.501Z
-    message: "Updated leveling guide for 6.10. "
+    message: "Updated leveling guide for 6.11. "
 ---
-This guide was written by Akashi Seraph for players who are seeking to, or are currently leveling Ninja. The guide aims to inform players about how to initially play as Ninja, what gear they should use while they level and where to find it, the key basics of the job, as well as some example openers for lower levels.If you are already a level 90 Ninja and are looking for information pertaining to the job at level 90, or  [6.10 Ninja Guide](https://bit.ly/3JVy1eG).
+This guide was written by Akashi Seraph for players who are seeking to, or are currently leveling Ninja. The guide aims to inform players about how to initially play as Ninja, what gear they should use while they level and where to find it, the key basics of the job, as well as some example openers for lower levels.If you are already a level 90 Ninja and are looking for information pertaining to the job at level 90, or [6.11 Ninja Guide](https://bit.ly/3JVy1eG).
 
 ## **INTRODUCTION**
 
@@ -59,11 +59,7 @@ Materia can be melded following the stat priority list abovedDue to the nature o
 **⦿** Unlocked at level 45, the Huton Gauge is an icon on your HUD that indicates the duration remaining on your Huton buff.\
 **⦿** The Huton buff is granted by casting the ninjutsu Huton. It decreases your GCD recast speed by 15%, turning your 2.5 second GCD to 2.12 seconds.
 
-
-
 ![](/img/jobs/nin/image24.png)
-
-
 
 #### Huton Management
 
