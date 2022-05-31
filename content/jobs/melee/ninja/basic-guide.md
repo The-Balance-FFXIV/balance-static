@@ -3,8 +3,8 @@ title: Ninja Basic Guide
 card_header_image: /img/jobs/nin/basic.png
 authors:
   - jackal
-patch: "6.10"
-lastmod: 2022-03-20T03:55:05.969Z
+patch: "6.11"
+lastmod: 2022-05-31T02:54:02.653Z
 changelog:
   - date: 2021-10-29T03:08:27.069Z
     message: Created page
@@ -69,7 +69,7 @@ You may use **either** opener, but if you are unsure you can use the 3rd GCD Tri
 ⦿ Late weave Trick Attack as much as possible without clipping.\
 **⦿** Mug should be held a GCD after the opener (at next usage) then used strictly off cooldown after.
 
-### 4rd GCD Alternate Opener
+### 4th GCD Alternate Opener
 
 ![](/img/jobs/nin/4th-gcd.png)
 
@@ -165,7 +165,7 @@ As Mug is 20.50s long and Trick is 15.77s long, it is best that Mug is used befo
 
 We should try to fit x1 Hyosho, x2 Raitons, x2 Raijus, Dream Within A Dream, Ten-Chi-Jin, Meisui, 2-3 Bhavacakras within Trick Attack. Optionally, Phantom Kamaitachi may be in a 2m window, but is situational (more explained below).
 
-Meanwhile, the allowance for Mug is x1 Trick Attack, x1 Hyosho, x2 Raitons, 3 Raijus + 1-2 additional GCDs, Dream Within A Dream, Ten-Chi-Jin, Meisui, 2-3 Bhavacakras. If Mug is used as an early weave, you will only catch 1 additional GCD. If used as a mid to late weave, you will catch 2 additional GCDs. As Mug is a raid buff, it shouldn’t be used selfishly, so never purposely late weave and drift this oGCD (beyond alignment reasons).\
+Meanwhile, the allowance for Mug is x1 Trick Attack, x1 Hyosho, x2 Raitons, three Raijus + 1-2 additional GCDs, Dream Within A Dream, Ten-Chi-Jin, Meisui, 2-3 Bhavacakras. If Mug is used as an early weave, you will only catch one additional GCD. If used as a mid to late weave, you will catch two additional GCDs. As Mug is a raid buff, it shouldn’t be used selfishly, so never purposely late weave and drift this oGCD (beyond alignment reasons).\
 **\
 So how do we handle Phantom Kamaitachi?** 
 
@@ -176,11 +176,11 @@ Easy, no thought answer: Just use it within even Trick every time if it was not 
 ⦿ If Bunshin is active, never use Phantom Kamaitachi in an even Trick & save for Mug instead. \
 ⦿ Note that Ninki generation, under very edge case situations, may throw these rules out the window.
 
-1. If Mug + Trick are woven together: Use Phantom in Trick Attack. As Mug is an early weave, you will catch 3 Raijus + Phantom Kamaitachi.
+1. If Mug + Trick are woven together: Use Phantom in Trick Attack. As Mug is an early weave, you will catch three Raijus + Phantom Kamaitachi.
 2. If Mug is 1 GCD before Trick AND an early-mid weave: Use Phantom Kamaitachi as the GCD between Mug and Trick. If you attempt to use it in Trick, you will push a Raiju out of Mug, which is worse.
 3. If Mug is 1 GCD before Trick AND a late weave: Use Phantom Kamaitachi within Trick. 
 
-#### **Examples:** 
+#### **Examples:**
 
 **Note**: There are plenty of ways to execute an even/2m Trick window, as long as the optimal amount of abilities are within the window. Below are some examples demonstrating the order I recommend. 
 
