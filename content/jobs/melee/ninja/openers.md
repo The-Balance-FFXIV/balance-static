@@ -3,8 +3,8 @@ title: Ninja Openers
 authors:
   - Balance-NIN-Staff
   - jackal
-patch: "6.10"
-lastmod: 2022-02-18T04:21:21.404Z
+patch: "6.11"
+lastmod: 2022-05-31T02:32:48.612Z
 changelog:
   - date: 2021-10-29T03:10:02.993Z
     message: Created page
