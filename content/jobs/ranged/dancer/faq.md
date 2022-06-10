@@ -11,10 +11,10 @@ changelog:
 qna:
   - question: Who do I Dance Partner?
     answer: >-
-      SAM > RPR/MNK > DRG/SMN/BLM/NIN/RDM > MCH > BRD > DNC
+      NIN > MNK/RPR > DRG/SAM > RDM/BLM > SMN > MCH > BRD > DNC
 
 
-      *Exact rankings list is currently unavailable until Hint's DNC Partner Calculator comes online for further analysis.
+      There is also a dance partner calculator which you can use to determine exactly who the best value dance partner is. It can be found [here](http://partnercalc.herokuapp.com).
   - question: What is BiS for old Ultimate fights?
     answer: >-
       With ilvl sync, you can max out on both secondary stats on a gear piece as
