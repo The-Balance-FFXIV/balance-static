@@ -2,12 +2,14 @@
 title: Monk Best in Slot (BiS)
 layout: bis
 patch: "6.0"
-lastmod: 2022-02-15T11:27:04.630Z
+lastmod: 2022-06-11T02:21:48.534Z
 changelog:
   - date: 2021-10-28T03:54:36.354Z
     message: Created page
   - date: 2022-02-04T10:01:08.677Z
     message: Updated for Endwalker
+  - date: 2022-06-11T02:21:44.077Z
+    message: Small update
 bis:
   - type: etro
     description: Recommended to use some form of frame-locking feature in order to
