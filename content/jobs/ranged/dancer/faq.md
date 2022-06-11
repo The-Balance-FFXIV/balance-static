@@ -2,12 +2,14 @@
 title: Dancer FAQ
 layout: qna
 patch: "6.08"
-lastmod: 2022-02-02T23:21:00.685Z
+lastmod: 2022-06-11T02:19:24.716Z
 changelog:
   - date: 2021-10-26T02:08:20.163Z
     message: Created page
   - date: 2022-02-02T23:20:54.057Z
     message: Updated for Endwalker.
+  - date: 2022-06-11T02:19:30.810Z
+    message: Small Update
 qna:
   - question: Who do I Dance Partner?
     answer: >-
@@ -17,15 +19,15 @@ qna:
       There is also a dance partner calculator which you can use to determine exactly who the best value dance partner is. It can be found [here](http://partnercalc.herokuapp.com).
   - question: What is BiS for old Ultimate fights?
     answer: >-
-      With ilvl sync, you can max out on both secondary stats on a gear piece as
-      long as that gear piece is above a certain ilvl based on the encounter's
-      ilvl sync.
+      With iLvl sync, you can max out on both secondary stats on a gear piece as
+      long as that gear piece is above a certain iLvl based on the encounter's
+      iLvl sync.
 
 
-      Recommended Gearsets for these fights are items that are at the ilvl needed to max both secondaries and have Crit and either Det or DH.
+      Recommended Gearsets for these fights are items that are at the iLvl needed to max both secondaries and have Crit and either Det or DH.
 
 
-      ilvl for max stats:
+      iLvl for max stats:
 
       **UCoB**: 470
 
@@ -34,12 +36,12 @@ qna:
       **TEA**: 600
 
 
-      The best weapon for all of these ilvl synced fights is the ilvl 535 Save the Queen relic weapon "Blade's Euphoria" with specific stat allocation that maximizes how many secondary stats you can get for the fight:
+      The best weapon for all of these iLvl synced fights is the iLvl 535 Save the Queen relic weapon "Blade's Euphoria" with specific stat allocation that maximizes how many secondary stats you can get for the fight:
 
 
-      **UCoB**: 127 Crit, 127 Det, 123 DH, 90 SkS (4 points from DH moved to SkS to match with a 2.46 GCD tier)
+      **UCoB**: 127 Crit, 127 Det, 123 DH, 90 SkS (four points from DH moved to SkS to match with a 2.46 GCD tier)
 
-      **UWU**: 136 Crit, 136 Det, 132 DH, 63 SkS (4 points from DH moved to SkS to match with a 2.47 GCD tier)
+      **UWU**: 136 Crit, 136 Det, 132 DH, 63 SkS (four points from DH moved to SkS to match with a 2.47 GCD tier)
 
       **TEA**:  184 Crit, 184 Det, 99 DH, 0 SkS
 
@@ -53,8 +55,8 @@ qna:
       fT6Lx1t54Ba0/edit)"
   - question: How should I approach gearing up the class?
     answer: You can review Ringabel's guide on how to best approach gearing DNC in
-      6.08 by clicking
-      [here!](https://docs.google.com/document/d/18tfimdrblUKKmmp5PHXWextlIRupyRprshc7yWAViDY/edit)
+      6.11 by clicking
+      [here!](https://docs.google.com/document/d/1BkaVg7n_rcjwWjiPheHF4MZxlP67KlhoU0SkW3n1UX0/edit)
   - question: Are there any Dancer-specific fight guides for P1S-P4S?
     answer: There are! Click
       [here](https://docs.google.com/document/d/1zvvx3iFnk_HlLSudCw-nO1HKxsHLakr4Svdsbetgi0A/edit)
