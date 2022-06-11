@@ -2,24 +2,26 @@
 title: Monk Best in Slot (BiS)
 layout: bis
 patch: "6.0"
-lastmod: 2022-02-15T11:27:04.630Z
+lastmod: 2022-06-11T02:21:48.534Z
 changelog:
   - date: 2021-10-28T03:54:36.354Z
     message: Created page
   - date: 2022-02-04T10:01:08.677Z
     message: Updated for Endwalker
+  - date: 2022-06-11T02:21:44.077Z
+    message: Small update
 bis:
   - type: etro
     description: Recommended to use some form of frame-locking feature in order to
       minimise your RoF drift each minute. Do not use this set if you play at 60
       FPS. Check the FAQs if you want to know why.
     name: (100%) 1.94 GCD
-    link: https://etro.gg/gearset/6244cfbb-7712-475d-a98a-a75577e1d164
+    link: https://etro.gg/gearset/bf6a8993-911d-467a-bb0a-aa66b461844c
   - type: etro
     description: This set is compatible with Samurai's 2.14 set while only being 0.5
       DPS behind our other 1.94 set.
     name: (99.995%) 1.94 GCD
-    link: https://etro.gg/gearset/6e777a1a-4e8d-4e47-b8f6-547f79687c30
+    link: https://etro.gg/gearset/841ecfdb-41fe-44b4-8764-b3b08e223f8c
   - type: etro
     description: "Allows RoF to be used perfectly on cooldown without having to
       slightly drift to accommodate a late-weave, playable even on a Nintendo
@@ -30,7 +32,7 @@ bis:
     description: Fragmentally worse than the other 1.93 set but doesn't rely on SkS
       food to hit 1.93 GCD.
     name: (99.911%) 1.93 GCD
-    link: https://etro.gg/gearset/1b147be6-e559-4a40-8a67-930c713e0776
+    link: https://etro.gg/gearset/23fd9918-b2aa-440f-89f0-cba5ea8229f3
   - type: gsheets
     description: ""
     link: https://docs.google.com/document/d/e/2PACX-1vR2Wip1bAhnSkMxSEH2m-ZRFIh6YDmMB-AfrrD8PtU1Xovpuz8Ix4N-Mbf9Cd2Md9f81FktdTgFb9fq/pub
