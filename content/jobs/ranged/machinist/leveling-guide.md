@@ -4,12 +4,14 @@ card_header_image: /img/jobs/mch/leveling.png
 authors:
   - dook
 patch: "6.1"
-lastmod: 2022-02-10T04:10:24.500Z
+lastmod: 2022-06-11T02:22:19.447Z
 changelog:
   - date: 2021-10-25T21:55:43.292Z
     message: Created page
   - date: 2022-02-10T04:10:25.078Z
     message: Updated for Endwalker
+  - date: 2022-06-11T02:22:20.188Z
+    message: Updated for 6.1
 ---
 # Simple Pointers for New Machinists
 
@@ -81,7 +83,7 @@ Gauss Round and Ricochet only having two charges can feel very clunky. It is hig
 
 Hot Shot should still be used on cooldown, even with its lowered potency, but it becomes less flexible with reopeners. At 80, in niche situations, you can re-open after downtime with Reassembled Air Anchor -> Drill and due to the 55s cooldown timer, Reassemble would be back up for the 60s Drill. At level 70, Reassemble must be used on Drill or it will result in a massive loss in damage. Hot Shot still generates 20 Battery though, and should be used on cooldown.
 
-For the most part, Rook functions the same as Automaton Queen. Each ability requires a minimum of 50 Battery to use, and should be summoned inside raid buff windows to achieve maximum potential. The biggest differences here are the amount of potency gained per ten Battery and the lack of wind-up animation on Rook. Rook has a maximum potency of 800 potency over a course of 15 seconds. Each Volley Fire accounts for 70 potency, while Overdrive (Rook’s version of Pilebunker) accounts for anywhere from 200 - 400 potency, based on the amount of Battery when summoned. Since Rook has no wind-up animation, you’ll need to summon it a few seconds later than normal to get most of the potency inside buff windows.
+For the most part, Rook functions the same as Automaton Queen. Each ability requires a minimum of 50 Battery to use, and should be summoned inside raid buff windows to achieve maximum potential. The biggest differences here are the amount of potency gained per ten Battery and the lack of wind-up animation on Rook. Rook has a maximum potency of 770 potency over a course of 15 seconds. Each Volley Fire accounts for 70 potency, while Overdrive (Rook’s version of Pilebunker) accounts for anywhere from 160 - 320 potency, based on the amount of Battery when summoned. Since Rook has no wind-up animation, you’ll need to summon it a few seconds later than normal to get most of the potency inside buff windows.
 
 The Wildfire change is straightforward. The ability functions identical to how it does at 80 where you want six GCDs inside of the damage window. The only difference is each GCD only counts for 150 potency. Lower scaling, but the same priority in the rotation.
 
