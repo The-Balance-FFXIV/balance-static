@@ -4,12 +4,14 @@ card_header_image: /img/jobs/mch/leveling.png
 authors:
   - dook
 patch: "6.1"
-lastmod: 2022-02-10T04:10:24.500Z
+lastmod: 2022-06-11T02:22:19.447Z
 changelog:
   - date: 2021-10-25T21:55:43.292Z
     message: Created page
   - date: 2022-02-10T04:10:25.078Z
     message: Updated for Endwalker
+  - date: 2022-06-11T02:22:20.188Z
+    message: Updated for 6.1
 ---
 # Simple Pointers for New Machinists
 
