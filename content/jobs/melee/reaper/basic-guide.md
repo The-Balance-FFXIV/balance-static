@@ -11,6 +11,8 @@ changelog:
 ---
 # Basic Reaper Guide
 
+# Basic Reaper Guide
+
 Welcome to the Basic Guide for Reaper, which will cover everything you need to know to get started with becoming a Reaper! Included are an overview of the job’s playstyle, basic priority, abilities and core concepts.
 
 Whether you’re a fresh level 90, a returning player, or just need a refresh, this guide will give you the tools you need to feel comfortable playing Reaper.
@@ -145,8 +147,6 @@ Reaper can be played well by just following a priority system. Below is the reco
 * Slidecasting: Soul Sow, Harpe and Communio all have cast times associated with them. You can start moving about 80% through the cast bar and still execute the ability. Utilize this to not miss damage and not take unnecessary damage. 
 
 ![](/img/jobs/rpr/ffxiv_12262021_003254_124.png)
-
-
 
 ## Adjustments for High Ping on Reaper
 
