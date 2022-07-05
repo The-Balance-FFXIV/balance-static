@@ -23,7 +23,7 @@ Bards use "Aiming" gear, so if you see that label on a coffer quest reward, that
 
 ## Your Role
 
-As a ranged physical dps, you deal a little bit less damage in exchange for complete freedom of mobility. 
+As a ranged physical DPS, you deal a little bit less damage in exchange for complete freedom of mobility. 
 
 Your job is to take full advantage of this. If it can be dodged, you should be dodging it. If someone needs to be across the room to deal with some mechanic out there, that someone should be you. 
 
@@ -55,15 +55,15 @@ Bard has a priority-based skill kit. In other words, your skill use boils down t
 
 As you level, you gain more weaponskill (GCDs) options, and abilities (oGCDs) you can use between them.
 
-## Level 1-29
+## Levels 1-29
 
 ### GCDs
 
 Your single-target priorities in these early levels look like:
 
-1. Use **Venomous Bite** if it is not on the enemy
-2. Use **Straight Shot** if it's available
-3. Use **Heavy Shot** otherwise
+1. Use **Venomous Bite** if it is not on the enemy.
+2. Use **Straight Shot** if it's available.
+3. Use **Heavy Shot** otherwise.
 
 In other words, press Heavy Shot most of the time, but hit Straight Shot when it triggers. A random effect like this is often called a "proc". Then at the start of each fight and every 45 seconds after, use Venomous Bite and get that damage over time rolling.
 
@@ -79,7 +79,7 @@ You also have a few abilities in this range. Abilities can be used between GCD s
 
 ### Role actions
 
-The role skills **Leg Graze** and **Foot Graze** are neat when solo questing but that's about it. **Peloton** is welcome by groups to get from one fight to the next a bit quicker, or to charge a boss a little faster. 
+The role skills **Leg Graze** and **Foot Graze** are neat when solo questing but that's about it. **Peloton** is welcome by groups to get from one fight to the next a bit quicker, or to charge a boss a little faster. It does not work in combat. 
 
 **Second Wind** is a simple self-heal. In group content, it's best used when you take damage you could have avoided, or miss an area heal for whatever reason. You also get **Head Graze** in this level range. 
 
@@ -87,21 +87,21 @@ The role skills **Leg Graze** and **Foot Graze** are neat when solo questing but
 
 Against two or more enemies, you can switch to spamming **Quick Nock** instead of your usual GCDs. Don't forget to use **Raging Strikes** and **Bloodletter**, even if the latter is single target. Free damage is free damage.
 
-## Level 30-51
+## Levels 30-51
 
 ### GCDs
 
 Your single-target priorities change little here, only adding **Windbite**:
 
-1. Use **Windbite** and **Venomous Bite** if they aren't on the enemy
-2. Use **Straight Shot** if it's available
-3. Use **Heavy Shot** otherwise
+1. Use **Windbite** and **Venomous Bite** if they aren't on the enemy.
+2. Use **Straight Shot** if it's available.
+3. Use **Heavy Shot** otherwise.
 
 ### Songs
 
 The main change at these levels is that you become a Bard! This introduces the song mechanic. 
 
-The skills **Mage's Ballad** and **Army's Paeon** put you in a song for the next 45 seconds. During a song, every three seconds (at 42, 39, 36 etc. on the timer) you have an 80% chance to get some "repertoire" effect. You also give the party a small buff for the duration.
+The skills **Mage's Ballad** and **Army's Paeon** put you in a song for the next 45 seconds. During a song, every three seconds (at 42, 39, 36 etc. on the timer) you have an 80% chance to get some "Repertoire" effect. You also give the party a small buff for the duration.
 
 The effect in Mage's Ballad is to recharge half of a Bloodletter / Rain of Death. So, you'll use those skills more often during this song. Army's Paeon triggers make your global cooldown a little bit faster, up to four times. Make sure you keep up!
 
@@ -123,7 +123,7 @@ You also get **The Warden's Paean**. This utility skill cleanses or (usually) pr
 
 Your multi-target damage gets a big boost from **Rain of Death**, an AoE version of Bloodletter. It's a shared cooldown, so Mage's Ballad gives you more uses of either. Otherwise, you're still spamming **Quick Nock** for your GCDs.
 
-## Level 52-55
+## Levels 52-55
 
 ### The Wanderer's Minuet
 
@@ -140,7 +140,7 @@ This is your strongest song, and enables you to keep a song running at all times
 
 Level 54 brings **Empyreal Arrow**, a simple 15-second cooldown ability that deals damage. Because it's so short, forgetting about it for a few seconds is a more meaningful loss. So try to get used to staying on top of it, as it will get more important later.
 
-## Level 56-75
+## Levels 56-75
 
 ### Iron Jaws and an Opener
 
@@ -148,10 +148,10 @@ With **Iron Jaws** at level 56, you have all the core pieces of Bard's kit. Late
 
 Your GCD priority now looks like:
 
-1. Use **Windbite** and **Venomous Bite** if they aren't on the enemy
-2. Use **Iron Jaws** if the above are close to falling off
-3. Use **Straight Shot** if it's available
-4. Use **Heavy Shot** otherwise
+1. Use **Windbite** and **Venomous Bite** if they aren't on the enemy.
+2. Use **Iron Jaws** if the above are close to falling off.
+3. Use **Straight Shot** if it's available.
+4. Use **Heavy Shot** otherwise.
 
 As for Iron Jaws itself, note that it acts like a brand new appplication of your DoTs. This means that we want to use it under a lot of buffs to make those next 45 seconds of ticks extra strong.
 
@@ -177,21 +177,21 @@ This opener will be the standard all the way through level 90. You'll add a coup
 
 **Stormbite** and **Caustic Bite** are simple upgrades of Windbite and Venomous Bite. Use them in all the same ways and enjoy the animations.
 
-**Refulgent Arrow** is likewise an upgrade to Straight Shot. The buff for the proc is still named "Straight Shot Ready", but it enables Refulgent Arrow now instead. Once again, use it the same way you did Straight Shot and enjoy the animation. (Note: This is the last skill that comes from job quests)
+**Refulgent Arrow** is likewise an upgrade to Straight Shot. The buff for the proc is still named "Straight Shot Ready", but it enables Refulgent Arrow now instead. Once again, use it the same way you did Straight Shot and enjoy the animation. (Note: This is the last skill that comes from job quests.)
 
 **Shadowbite** is like Refulgent Arrow, but for AoE. Each Quick Nock will have a chance to proc it. Note that it has a much smaller hit area than Quick Nock - a small circle around the middle of your targeted enemy. So you may want to skip using it if the enemies aren't tightly gathered.
 
 ### oGCDs and traits
 
-**Sidewinder** is a basic damage oGCD. Press it every minute (including in the opener under buffs), free damage it good.
+**Sidewinder** is a basic damage oGCD. Press it every minute (including in the opener under buffs), free damage is good.
 
 **Troubadour** is Bard's version of the MCH/DNC skills Tactician and Shield Samba. It's a very good party-wide defensive cooldown, use it if you expect the team to take a lot of damage.
 
 **Nature's Minne** is a handy support skill that boosts healing *received* by the target. You want to use it on the player getting healed, not the one doing the healing. You'll mostly put it on tanks for big dungeon pulls, but it has other uses as well.
 
-At level 68, you get the trait **Enhanced Empyreal Arrow**. This causes Empyreal to trigger a repertoire, making it even more valuable. In Wanderer's Minuet, if an upcoming Empyreal might overfill your Pitch Perfect stacks, use a two-stack Pitch Perfect to clear the way.
+At level 68, you get the trait **Enhanced Empyreal Arrow**. This causes Empyreal to trigger a Repertoire, making it even more valuable. In Wanderer's Minuet, if an upcoming Empyreal might overfill your Pitch Perfect stacks, use a two-stack Pitch Perfect to clear the way.
 
-## Level 76-89
+## Levels 76-89
 
 ### Updated song cycle
 
@@ -208,7 +208,7 @@ At the same time, your proc rate for Refulgent Arrow will increase, and can also
 
 ### Apex and Blast Arrow
 
-**Apex Arrow** and the Soul Gauge unlock at level 80. The gauge simply goes up any time you get a repertoire proc. **Blast Arrow** at level 86 adds a follow-up attack, provided you spent 80 gauge or more. 
+**Apex Arrow** and the Soul Gauge unlock at level 80. The gauge simply goes up any time you get a Repertoire proc. **Blast Arrow** at level 86 adds a follow-up attack, provided you spent 80 gauge or more. 
 
 The gauge fills around once per minute on average. So the best way to time Apex uses is to try to land them under your two-minute buff windows. 
 
@@ -216,11 +216,11 @@ That means using Apex at some point between windows. A good rule of thumb is to 
 
 Adding them into our GCD priority:
 
-1. Use **Stormbite** and **Caustic Bite** if they aren't on the enemy
-2. Use **Iron Jaws** if the above are close to falling off
-3. Use **Apex Arrow** and **Blast Arrow** at the appropriate times
-4. Use **Refulgent Arrow** if it's available
-5. Use **Burst Shot** otherwise
+1. Use **Stormbite** and **Caustic Bite** if they aren't on the enemy.
+2. Use **Iron Jaws** if the above are close to falling off.
+3. Use **Apex Arrow** and **Blast Arrow** at the appropriate times.
+4. Use **Refulgent Arrow** if it's available.
+5. Use **Burst Shot** otherwise.
 
 In AoE situations, Apex Arrow especially is very strong, so try to line it up to hit as many targets as you can. 
 
@@ -232,4 +232,4 @@ From 82-88, you'll get the Quick Nock upgrade **Ladonsbite**, a third Bloodlette
 
 - - -
 
-Next is level 90 - congratulations! Check out the endgame [basics guide](https://www.thebalanceffxiv.com/jobs/ranged/bard/basic-guide/) for a complete overview of Bard at level 90, much of which you've already read here. When you're more comfortable, you can check out the [advanced guide](https://www.thebalanceffxiv.com/jobs/ranged/bard/advanced-guide/) for some finer details and small optimizations. Thanks for reading!
+Next is level 90 - congratulations! Check out the endgame [basics guide](/jobs/ranged/bard/basic-guide/) for a complete overview of Bard at level 90, much of which you've already read here. When you're more comfortable, you can check out the [advanced guide](/jobs/ranged/bard/advanced-guide/) for some finer details and small optimizations. Thanks for reading!
