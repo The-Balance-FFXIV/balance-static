@@ -1,6 +1,6 @@
 ---
 title: Red Mage Stat Priority
-patch: "6.0"
+patch: "6.18"
 lastmod: 2021-12-27T00:20:05.640Z
 changelog:
   - date: 2021-10-26T01:33:52.024Z
