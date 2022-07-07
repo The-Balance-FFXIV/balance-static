@@ -4,7 +4,7 @@ card_header_image: /img/jobs/rdm/rdm-fight-tips.jpg
 authors:
   - lana
   - argen
-patch: "6.08"
+patch: "6.1"
 lastmod: 2022-03-19T04:24:50.457Z
 changelog:
   - date: 2022-03-17T04:22:20.559Z
