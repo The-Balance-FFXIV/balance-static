@@ -5,13 +5,14 @@ authors:
   - meru
   - lana
   - Balance-RDM-Staff
-patch: "6.08"
+patch: "6.18"
 lastmod: 2021-12-26T21:11:47.823Z
 changelog:
   - date: 2021-11-15T18:49:06.143Z
     message: Created page
   - date: 2021-12-26T21:12:15.668Z
     message: Guide updated for Endwalker.
+tags: []
 ---
 # Red Mage Leveling Guide for 6.x
 
