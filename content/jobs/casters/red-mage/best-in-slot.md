@@ -1,7 +1,7 @@
 ---
 title: Red Mage Best in Slot (BiS)
 layout: bis
-patch: "6.11"
+patch: "6.18"
 lastmod: 2022-05-22T22:58:32.214Z
 changelog:
   - date: 2021-10-26T01:30:27.164Z
