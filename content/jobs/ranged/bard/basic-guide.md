@@ -232,7 +232,7 @@ Make sure to stay on top of the GCD as its pace accelerates. It's easy to lose d
 
 This should be your go-to for starting a single target fight:
 
-![Bard Level 90 6.00 Opener](/img/jobs/brd/brd_600_opener.png "Bard Level 90 6.00 Opener")
+![Bard Level 90 6.00 Opener](/img/jobs/brd/brd_opener.png "Bard Level 90 6.00 Opener")
   
 Use **Bloodletters** and three stack **Pitch Perfects** as able (they aren't displayed here). 
 
