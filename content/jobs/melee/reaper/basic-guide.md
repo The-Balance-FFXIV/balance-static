@@ -162,7 +162,7 @@ You may have noticed Enshroud windows feeling somewhat unresponsive to your butt
   * NoPing
   * BattlePing
 
-Mudfish can be configured for FFXIV using [this guide](https://docs.google.com/document/d/1lOrglaY6D1E_LRMUDyQLETNzH-KL4XOSkWYFZJI3OPg/edit). The best VPN for you will differ based on location and ISP. It’s suggested that you try all possible options before deciding on one since they do cost money to use on top of your sub. Most, if not all of these should come with free trials so you can see if they help your connection.
+A full explanation on how VPNs work and how to check your ping for FFXIV specifically can be found in [this guide](https://www.icy-veins.com/ffxiv/vpn-guide-for-ffxiv). The best VPN for you will differ based on location and ISP. It’s suggested that you try all possible options before deciding on one since they do cost money to use on top of your sub. Most, if not all of these should come with free trials so you can see if they help your connection.
 
 After attempting to fix these issues with the above suggestions, the only thing you can really do without the use of illegal ToS breaking software, is adjust your rotation. Avoid Double Communio and focus on a rotation based more around priority spending of resources. This lessens the clipping you’ll see in burst windows. Using Shadow of Death mid-Enshroud and using it to weave Lemure Slice is also a very viable option. The longer GCD on Shadow of Death should help avoid clipping. Just make sure you’re not overcapping your Death’s Design timer to do this. 
 
