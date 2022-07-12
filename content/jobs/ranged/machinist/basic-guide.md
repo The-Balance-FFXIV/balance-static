@@ -30,9 +30,7 @@ Welcome to the Basic Machinist Guide! Within this document, you'll find all the 
 
 [Video Guide](https://www.youtube.com/watch?v=-OPOskH-llQ)
 
-[Meld Priority](/jobs/ranged/machinist/) (Listed on the landing page.)
-
-[Gearing](/jobs/ranged/machinist/best-in-slot/)
+[Gearing and Meld Priority](/jobs/ranged/machinist/best-in-slot/) 
 
 [Skills Overview](/jobs/ranged/machinist/skills-overview/)
 
