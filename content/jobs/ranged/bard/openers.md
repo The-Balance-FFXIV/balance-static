@@ -18,7 +18,7 @@ For all openers:
 * Hold Barrage until the next GCD if you already have an Refulgent proc.
 * The best potion as of 6.00 is high-quality Grade 5 Tincture of Dexterity. 
 
-![Bard Level 90 6.00 Opener](/img/jobs/brd/brd_600_opener.png "Bard Level 90 6.00 Opener")
+![Bard Level 90 6.00 Opener](/img/jobs/brd/brd_opener.png "Bard Level 90 6.00 Opener")
 
 - - -
 
@@ -28,13 +28,13 @@ For all openers:
 
 Yes, by the next two-minute burst you will have gotten three more coda.
 
---
+\--
 
 > *Should I use Refulgent Arrow between Stormbite and Caustic Bite if I get a proc?*
 
 No, getting both DoTs up as soon as possible is slightly better.
 
---
+\--
 
 > *I've heard about using Tinctures at two minutes, why is it here?*
 
