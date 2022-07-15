@@ -45,17 +45,15 @@ Delivers an attack with a potency of 100 to all nearby enemies. This is an Area 
 ![HakkeMujinsatsu](https://xivapi.com/i/002000/002923_hr1.png)\
 **Hakke Mujinsatsu**
 
-Delivers an attack with a potency of 100 to all nearby enemies. If done as the second part of our AoE combo, it instead delivers an attack with a potency of 130 to all nearby enemies, and adds 10seconds to your Huton timer, assuming your Huton timer is already active, to a maximum of 60 seconds. Just like Death Blossom, this is an AoE attack that deals damage in a five yalm radius around you. Grants 5 Ninki if used in combo.
+Delivers an attack with a potency of 100 to all nearby enemies. If done as the second part of our AoE combo, it instead delivers an attack with a potency of 130 to all nearby enemies, and adds 10 seconds to your Huton timer, assuming your Huton timer is already active, to a maximum of 60 seconds. Just like Death Blossom, this is an AoE attack that deals damage in a five yalm radius around you. Grants 5 Ninki if used in combo.
 
 ![](https://xivapi.com/i/002000/002929_hr1.png)
 
 **Phantom Kamaitachi**
 
-Orders your shadow to deliver an attack with a potency of 600 to target, and 50% less to all remaining enemies. Additionally, it also adds 10 seconds to your Huton timer, assuming your Huton timer is already active, to a maximum of 60 seconds. Increases Ninki gauge by 10. This GCD can only be used under the effect of Phantom Kamaitachi Ready, granted by Bunshin, and consumes the buff when used. Using this skill while Bunshin is still active does not consume a stack, nor does it gain extra damage or ninki. This action cannot be assigned to the hotbar, and replaces Bunshin while the Phantom Kamiatacha Ready buff is active. Has a range of 20 yalms.
+Orders your shadow to deliver an attack with a potency of 600 to target, and 50% less to all remaining enemies. Additionally, it also adds 10 seconds to your Huton timer, assuming your Huton timer is already active, to a maximum of 60 seconds. Increases Ninki gauge by 10. This GCD can only be used under the effect of Phantom Kamaitachi Ready, granted by Bunshin, and consumes the buff when used. Using this skill while Bunshin is still active does not consume a stack, nor does it gain extra damage or ninki. This action cannot be assigned to the hotbar, and replaces Bunshin while the Phantom Kamiatachi Ready buff is active. Has a range of 20 yalms.
 
 Damage from Phantom Kamaitachi counts as 'Pet' damage, and is thus roughly 2% less potency than stated.
-
-
 
 ![](https://xivapi.com/i/002000/002930_hr1.png)
 
@@ -63,13 +61,11 @@ Damage from Phantom Kamaitachi counts as 'Pet' damage, and is thus roughly 2% le
 
 Automatically deals earth damage with a potency of 50 to all enemies within an active Doton upon the execution of Katon, Goka Mekkyaku, Phantom Kamaitachi, or upon the execution of Hakke Mujinsatsu as a combo action after Death Blossom. This action cannot be assigned to the hotbar.
 
-
-
 ![](https://xivapi.com/i/002000/002931_hr1.png)
 
 **Forked Raiju**
 
-Delivers a lightning attack with a potency of 560. Grants 5 ninki. Can only be used while under the effect of Raiju Ready, granted by Raiton, and consumes 1 stack of the buff when used. Forked Raiju is a gapcloser with a range of 20 yalms. 
+Delivers a lightning attack with a potency of 560. Grants 5 ninki. Can only be used while under the effect of Raiju Ready, granted by Raiton, and consumes one stack of the buff when used. Forked Raiju is a gapcloser with a range of 20 yalms. 
 
  ![](https://xivapi.com/i/002000/002932_hr1.png)
 
@@ -77,11 +73,9 @@ Delivers a lightning attack with a potency of 560. Grants 5 ninki. Can only be u
 
 Delivers a lightning attack with a potency of 560. Grants 5 ninki. Can only be used while under the effect of Raiju Ready, granted by Raiton, and consumes 1 stack of the buff when used. Fleeting Raiju is a regular melee GCD. 
 
-
-
 # Ninjutsus/Mudras (GCDs)
 
-Ninjutsu set off a global cooldown of 1.5 seconds upon use, not reducible by Huton or skill speed, and each use of a ninjutsu will use up one nunjutsu charge. Mudras have a shared 2 charges, a charge time of 20 seconds per charge, and can only be started when a normal GCD could be started. Instead of a 2.5 or 1.5 second global cooldown, the mudras themselves only give a .5 second global cooldown. Using the first mudra will instantly consume a ninjutsu charge and grant a 6 second buff. If a ninjutsu is not executed within these 6 seconds, the charge is lost. Inputting two of the same mudra in a combination, or using any other action while the buff is active (including sprint, food, tinctures, role actions, LB etc) will result in a Rabbit Medium, or 'Bunny'.
+Ninjutsu set off a global cooldown of 1.5 seconds upon use, not reducible by Huton or skill speed, and each use of a ninjutsu will use up one nunjutsu charge. Mudras have a shared  two charges, a charge time of 20 seconds per charge, and can only be started when a normal GCD could be started. Instead of a 2.5 or 1.5 second global cooldown, the mudras themselves only give a .5 second global cooldown. Using the first mudra will instantly consume a ninjutsu charge and grant a six second buff. If a ninjutsu is not executed within these six seconds, the charge is lost. Inputting two of the same mudra in a combination, or using any other action while the buff is active (including sprint, food, tinctures, role actions, LB etc) will result in a Rabbit Medium, or 'Bunny'.
 
 ![Ten](https://xivapi.com/i/002000/002901_hr1.png)\
 **Ten**
@@ -106,7 +100,7 @@ Delivers a ranged ninjutsu attack with a potency of 450. This is achieved with a
 ![Raiton](https://xivapi.com/i/002000/002912_hr1.png)\
 **Raiton**
 
-Deals lightning damage with a potency of 650, and grants a stack of Raiju Ready, up to a maximum of 3. This is achieved by any two-mudra combination that ends with Chi. So, Ten>Chi or Jin>Chi. Has a range of 20 yalms. 
+Deals lightning damage with a potency of 650, and grants a stack of Raiju Ready, up to a maximum of three. This is achieved by any two-mudra combination that ends with Chi. So, Ten>Chi or Jin>Chi. Has a range of 20 yalms. 
 
 ![Katon](https://xivapi.com/i/002000/002908_hr1.png)\
 **Katon**
@@ -116,7 +110,7 @@ Deals fire damage with a potency of 350 to target and all enemies nearby it. Thi
 ![Hyoton](https://xivapi.com/i/002000/002909_hr1.png)\
 **Hyoton**
 
-Deals ice damage with a potency of 350. This also puts a bind on the target for 15s. This is achieved with any two-mudra combination that ends with Jin. So, Ten>Jin or Chi>Jin. Has a range of 25 yalms.
+Deals ice damage with a potency of 350. This also puts a bind on the target for 15 seconds. This is achieved with any two-mudra combination that ends with Jin. So, Ten>Jin or Chi>Jin. Has a range of 25 yalms.
 
 ![Huton](https://xivapi.com/i/002000/002910_hr1.png)\
 **Huton**
@@ -156,7 +150,7 @@ These are your regular abilities that can be used at any time when you are not i
 ![Mug](https://xivapi.com/i/000000/000613_hr1.png)\
 **Mug**
 
-Delivers an attack with a potency of 150. Grants 40 Ninki gauge on use. In addition, it debuffs the enemy for 20s with a vulnerability up, increasing the enemy’s damage taken by 5% from all sources during this time. Also increases the chance of additional items being dropped by target if mug is dealt before, or as, the finishing blow. This extra thing is mostly irrelevant since it only works on basic drops that you don't end up caring about, like Bat Fangs. This skill has a personal cooldown of 120 seconds. 
+Delivers an attack with a potency of 150. Grants 40 Ninki gauge on use. In addition, it debuffs the enemy for 20 seconds with a vulnerability up, increasing the enemy’s damage taken by 5% from all sources during this time. Also increases the chance of additional items being dropped by target if mug is dealt before, or as, the finishing blow. This extra thing is mostly irrelevant since it only works on basic drops that you don't end up caring about, like Bat Fangs. This skill has a personal cooldown of 120 seconds. 
 
 ![TrickAttack](https://xivapi.com/i/000000/000618_hr1.png)\
 **Trick Attack**
@@ -176,7 +170,7 @@ Delivers a three-hit attack, with each attack hitting for 150 potency for a tota
 ![TenChiJin](https://xivapi.com/i/002000/002922_hr1.png)\
 **Ten Chi Jin (TCJ)**
 
-Temporarily converts each of the three mudra into a ninjutsu action. Executing one of these actions will convert the remaining mudra into different ninjutsu actions until all three have been executed or the Ten Chi Jin effect expires. You can only use ninjutsu during this, and the same ninjutsu cannot be executed twice. This ability cannot be activated while under the effects of Kassatsu. This effect ends upon moving. This effect has a duration of 6 seconds. In essence, this allows you to use one one-step ninjutsu, one two-step ninjutsu, and one three-step ninjutsu in a row. Common uses are Fuma>Raiton>Suiton, Fuma>Katon>Doton, and Fuma>Katon>Suiton. Using Raiton under TCJ will still grant Raiju Ready as normal. This ability has a personal cooldown of 120 seconds.
+Temporarily converts each of the three mudra into a ninjutsu action. Executing one of these actions will convert the remaining mudra into different ninjutsu actions until all three have been executed or the Ten Chi Jin effect expires. You can only use ninjutsu during this, and the same ninjutsu cannot be executed twice. This ability cannot be activated while under the effects of Kassatsu. This effect ends upon moving. This effect has a duration of six seconds. In essence, this allows you to use one one-step ninjutsu, one two-step ninjutsu, and one three-step ninjutsu in a row. Common uses are Fuma>Raiton>Suiton, Fuma>Katon>Doton, and Fuma>Katon>Suiton. Using Raiton under TCJ will still grant Raiju Ready as normal. This ability has a personal cooldown of 120 seconds.
 
 ![Meisui](https://xivapi.com/i/002000/002924_hr1.png)\
 **Meisui**
