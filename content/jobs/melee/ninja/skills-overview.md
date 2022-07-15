@@ -65,13 +65,13 @@ Automatically deals earth damage with a potency of 50 to all enemies within an a
 
 **Forked Raiju**
 
-Delivers a lightning attack with a potency of 560. Grants 5 ninki. Can only be used while under the effect of Raiju Ready, granted by Raiton, and consumes one stack of the buff when used. Forked Raiju is a gapcloser with a range of 20 yalms. 
+Delivers a lightning attack with a potency of 560. Grants 5 Ninki. Can only be used while under the effect of Raiju Ready, granted by Raiton, and consumes one stack of the buff when used. Forked Raiju is a gapcloser with a range of 20 yalms. 
 
  ![](https://xivapi.com/i/002000/002932_hr1.png)
 
 **Fleeting Raiju**
 
-Delivers a lightning attack with a potency of 560. Grants 5 ninki. Can only be used while under the effect of Raiju Ready, granted by Raiton, and consumes 1 stack of the buff when used. Fleeting Raiju is a regular melee GCD. 
+Delivers a lightning attack with a potency of 560. Grants 5 Ninki. Can only be used while under the effect of Raiju Ready, granted by Raiton, and consumes 1 stack of the buff when used. Fleeting Raiju is a regular melee GCD. 
 
 # Ninjutsus/Mudras (GCDs)
 
