@@ -179,7 +179,7 @@ Temporarily converts each of the three mudra into a ninjutsu action. Executing o
 ![Meisui](https://xivapi.com/i/002000/002924_hr1.png)\
 **Meisui**
 
-Dispels the Suiton buff, and in return increases the Ninki gauge by 50. Additionally, increases the potency of the next Bhavacakra used from 350 to 500. This ability can only be used while in combat. This ability has a personal cooldown of 120 seconds.
+Dispels the Suiton buff, and in return increases the Ninki gauge by 50. Additionally, increases the potency of the next Bhavacakra used within 30 seconds from 350 to 500. This ability can only be used while in combat. This ability has a personal cooldown of 120 seconds.
 
 # Ninki Abilities (oGCDs)
 
@@ -316,3 +316,21 @@ Increases Ninki gauge by 10 upon successfully landing Shadow Fang or completing 
 **Shukiho III**
 
 Increases Ninki gauge by 15 upon successfully landing Shadow Fang or completing a combo with Aeolian Edge or Armor Crush. Gained at level 84.
+
+![](https://xivapi.com/i/006000/006802_hr1.png)
+
+**Melee Mastery II**
+
+Increases the base potency of Spinning Edge to 220 and Gust Slash to 160. Gained at level 84.
+
+![](https://xivapi.com/i/005000/005418_hr1.png)
+
+**Enhanced Meisui**
+
+Increases the potency of the next Bhavacakra used within 30 seconds from 350 to 500. Gained at level 88.
+
+![](https://xivapi.com/i/005000/005419_hr1.png)
+
+**Enhanced Raiton**
+
+Grants a stack of Raiju Ready upon executing Raiton, up to a maximum of 3, and allowing the use of Forked and Fleeting Raiju. The effect of Raiju Ready ends upon the execution of any weaponskill/GCD excluding Phantom Kamaitachi and Throwing Daggers. Gained at level 90.
