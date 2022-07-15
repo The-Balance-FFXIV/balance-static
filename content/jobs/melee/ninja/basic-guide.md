@@ -12,6 +12,8 @@ changelog:
     message: Updated for Endwalker
   - date: 2022-05-27T17:56:53.705Z
     message: "Updated guide to 6.10. "
+  - date: 2022-07-15T18:21:56.384Z
+    message: Unchanged, updated for 6.18 to parity other NIN changes
 ---
 If you have any questions, feel free to ask in the #nin_questions channel.
 
