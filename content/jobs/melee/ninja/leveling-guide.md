@@ -3,7 +3,7 @@ title: Ninja Leveling Guide
 card_header_image: /img/jobs/nin/leveling.png
 authors:
   - Balance-NIN-Staff
-patch: "6.11"
+patch: "6.18"
 lastmod: 2022-05-31T02:58:22.049Z
 changelog:
   - date: 2021-10-29T03:07:56.596Z
