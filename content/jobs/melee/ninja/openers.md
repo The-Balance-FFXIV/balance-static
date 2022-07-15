@@ -3,7 +3,7 @@ title: Ninja Openers
 authors:
   - Balance-NIN-Staff
   - jackal
-patch: "6.11"
+patch: "6.18"
 lastmod: 2022-05-31T02:32:48.612Z
 changelog:
   - date: 2021-10-29T03:10:02.993Z
@@ -12,6 +12,8 @@ changelog:
     message: Updated for Endwalker
   - date: 2022-05-27T17:38:00.555Z
     message: "Updated opener with 6.10 3rd and 4th GCD Trick opener. "
+  - date: 2022-07-15T18:22:54.027Z
+    message: No changes, updated to 6.18 for parity
 ---
 
 
