@@ -3,7 +3,7 @@ title: Ninja Basic Guide
 card_header_image: /img/jobs/nin/basic.png
 authors:
   - jackal
-patch: "6.11"
+patch: "6.18"
 lastmod: 2022-05-31T02:54:02.653Z
 changelog:
   - date: 2021-10-29T03:08:27.069Z
