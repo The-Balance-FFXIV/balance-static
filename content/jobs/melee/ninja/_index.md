@@ -8,4 +8,4 @@ menu:
     name: Ninja
     parent: melee
 ---
-Ninja is a melee DPS focused on super high burst windows. The rotation is super flexible, with one of the strongest raid DPS buffs in the game. Mudras are the backbone of our burst, which with its charges, allows us to do insane damage inside of buffs. On top of that, ninja is the most mobile melee and can adapt easily to any situation that may present itself.
+Ninja is a melee DPS focused on high-output burst windows. The rotation is extremely flexible, with one of the strongest raid buff contributions in the game. Mudras are the backbone of our burst, and combined with their charge system, allows us to do insane damage inside of buffs while also having plenty of options when forced to disconnect. On top of that, ninja is the most mobile melee and can adapt easily to any situation that may present itself.
