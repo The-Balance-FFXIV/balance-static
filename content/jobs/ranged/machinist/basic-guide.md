@@ -30,9 +30,7 @@ Welcome to the Basic Machinist Guide! Within this document, you'll find all the 
 
 [Video Guide](https://www.youtube.com/watch?v=-OPOskH-llQ)
 
-[Meld Priority](/jobs/ranged/machinist/) (Listed on the landing page.)
-
-[Gearing](/jobs/ranged/machinist/best-in-slot/)
+[Gearing and Meld Priority](/jobs/ranged/machinist/best-in-slot/) 
 
 [Skills Overview](/jobs/ranged/machinist/skills-overview/)
 
@@ -167,7 +165,7 @@ You may have noticed parts of the Machinist rotation feeling somewhat unresponsi
   * NoPing
   * BattlePing
 
-Mudfish can be configured for FFXIV using [this guide](https://docs.google.com/document/d/1lOrglaY6D1E_LRMUDyQLETNzH-KL4XOSkWYFZJI3OPg/edit). The best VPN for you will differ based on location and ISP. It’s suggested that you try all possible options before deciding on one since they do cost money to use on top of your sub. Most, if not all of these should come with free trials so you can see if they help your connection.
+A full explanation on how VPNs work and how to check your ping for FFXIV specifically can be found in [this guide](https://www.icy-veins.com/ffxiv/vpn-guide-for-ffxiv). The best VPN for you will differ based on location and ISP. It’s suggested that you try all possible options before deciding on one since they do cost money to use on top of your sub. Most, if not all of these should come with free trials so you can see if they help your connection.
 
 After attempting to fix these issues with the above suggestions, the only thing you can really do without the use of illegal ToS breaking software, is adjust your rotation in a way that won’t have you doing double Hypercharge windows. This lessens the need to weave between Heat Blasts. As long as you’re capable of getting all six GCDs in Wildfire while also not overcapping on Gauss Round and Ricochet, you should have no issues playing the job. 
 
