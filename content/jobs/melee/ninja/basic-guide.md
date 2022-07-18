@@ -19,29 +19,29 @@ If you have any questions, feel free to ask in the #nin_questions channel.
 
 ## Overview
 
-Ninja is a fast-paced yet flexible job with a high focus on a powerful burst every one and two minutes. It is unique from other jobs with its utilization of Ninjutsus, a combo-like system allowing a Ninja to form a multitude of ranged attacks. We have a personal buff every minute (Trick Attack) where we emphasize landing all of our biggest attacks within 15.77s.  
+Ninja is a fast-paced yet flexible job with a high focus on a powerful burst every one and two minutes. It is unique from other jobs with its utilization of Ninjutsus, a combo-like system that allows a Ninja to form a multitude of ranged attacks. We have a personal buff every minute (Trick Attack) where we emphasize landing all of our biggest attacks within 15.77 seconds.
 
-If you want a melee job with the most flexibility for disengagements and has a fast-paced burst phase and relaxing filler phase, then Ninja might just be the job for you!
+If you want a melee job with the most flexibility for disengagements and a fast-paced burst phase and relaxing filler phase, then Ninja might just be the job for you!
 
 **Resources**
 
-⦿ [Video Demo](https://youtu.be/J_sEsvLXBYo): 6:30m fight demonstration following something similar to the rotation planner.
+⦿ [Video Demo](https://youtu.be/J_sEsvLXBYo): 6:30 minute fight demonstration following something similar to the rotation planner.
 
-⦿ [Rotation Planner](https://bit.ly/364UOqG) for an visualization of a 6-minute rotation or the ability to spreadsheet any rotation.
+⦿ [Rotation Planner](https://bit.ly/364UOqG) for a visualization of a 6-minute rotation or the ability to spreadsheet any rotation.
 
-⦿ [XIVAnalysis](https://xivanalysis.com/) is good for checking general mistakes and an improved timeline of a fight. \
-**\
-⦿ [Gear Planner](http://bit.ly/Gear-Planner) simulates predicted DPS based off gear, great for creating a set.**
+⦿ [XIVAnalysis](https://xivanalysis.com/) is good for checking general mistakes and an improved timeline of a fight. 
+
+⦿ [Gear Planner](http://bit.ly/Gear-Planner) simulates predicted DPS based off gear. Great for creating a set.
 
 ## Core Concepts
 
-**⦿**Huton grants us with a 15% reduction in auto-attack delay and skill-speed. This is one of the first gauges we get, and it is crucial for us to maintain this gauge with the use of Armor Crush when the gauge is 30s or below. Use of Armor Crush above 30s will result in waste of Huton gauge, which should be avoided. To start using Huton, we will cast Huton prepull. Huraijin is only ever used if our Huton drops on accident, on death, or through a long downtime segment.   
+⦿ Huton grants us a 15% reduction in auto-attack delay and skill-speed. This is one of the first gauges we get, and it is crucial for us to maintain this gauge with the use of Armor Crush when the gauge is 30 second or below. The use of Armor Crush above 30 seconds results in a waste of Huton gauge which should be avoided. To start using Huton, we will cast Huton prepull. Huraijin is only ever used if our Huton drops by accident, on death, or through a long downtime segment.
 
 ![](/img/jobs/nin/image24.png)
 
-**⦿** Ninki is the second gauge we receive, and allows us to accumulate resources for use of Bhavacakra, Hellfrog Medium or Bunshin. Below is a table listing every ability and their Ninki amount. Bunshin will also add +5 Ninki to any GCD that consumes a stack of Bunshin. 
+⦿ Ninki is the second gauge we receive and allows us to accumulate resources for use of Bhavacakra, Hellfrog Medium or Bunshin. Below is a table listing every ability and their Ninki amount. Bunshin will also add +5 Ninki to any GCD that consumes a stack of Bunshin. 
 
-Furthermore, we ought to avoid ever overcapping on Ninki, even if we must burn gauge right before Trick Attack. Overcapped Ninki is potential oGCD loss, which is a far larger loss than the gain of getting more Bhavacakras under Trick. 
+Furthermore, we ought to avoid overcapping on Ninki, even if we must burn gauge right before Trick Attack. Overcapped Ninki is potential oGCD loss, which is a far larger loss than the gain of getting more Bhavacakras under Trick. 
 
 ![](/img/jobs/nin/image25.png)
 
@@ -49,27 +49,27 @@ Furthermore, we ought to avoid ever overcapping on Ninki, even if we must burn g
 | ------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------- | --------- | --------- |
 | Spinning Edge, Gust Slash, Death Blossom, Hakke Mujinsatsu, Fleeting Raiju, Forked Raiju, Throwing Dagger, Huraijin | Phantom Kamaitachi | Aeolian Edge, Armor Crush | Mug       | Meisui    |
 
-⦿ Trick Attack is our single-target personal buff that increases damage by 10% you do to the target for 15.77 seconds every minute. Our goal is to utilize our own Trick Attack and fit as many high potency abilities as we can before it ends. 
+⦿ Trick Attack is our single target personal buff that increases the damage you do to the target by 10% for 15.77 seconds every minute. Our goal is to utilize our own Trick Attack and fit in as many high potency abilities as we can before it ends. 
 
-At a glance, we want to fit Hyosho Ranyru, x2 Raitons, Ten-Chi-Jin, Dream Within a Dream, x2 Fleeting/Forked Raijus, Meisui, and as many Bhavacakras as we can weave. 
+At a glance, we want to fit Hyosho Ranyru, two Raitons, Ten-Chi-Jin, Dream Within a Dream, two Fleeting/Forked Raijus, Meisui, and as many Bhavacakras as we can weave. 
 
-**⦿** Mug is our new raid buff that afflicts the target with a vulnerability debuff that increases damage taken by 5% for everyone hitting the target every 2-minutes. This provides a ton of utility for the group and should **NOT** be used selfishly after the opener. We use it 4.5s in the opener to allow earlier execution of Bunshin, but Mug should be delayed 1 GCD at 2m for better alignment with other raid buffs. Then used strictly off cooldown thereafter.
+⦿ Mug is our new raid buff that afflicts the target with a vulnerability debuff that increases damage taken by 5% for everyone hitting the target every two minutes. This provides a ton of utility for the group and should **NOT** be used selfishly after the opener. We use it 4.5 seconds in the opener to allow earlier execution of Bunshin, but Mug should be delayed one GCD at 2 minutes for better alignment with other raid buffs, then used strictly off cooldown thereafter.
 
-**⦿** Ninjutsus are unique abilities that we formulate with the Mudras: Ten, Chi and Jin. Refer to this [cheat sheet](https://media.discordapp.net/attachments/919447066168668171/920093248360439818/MUDRA_GUIDE_ew.png?width=704&height=545) for all the different mudra combinations.
+⦿ Ninjutsus are unique abilities that we formulate with the mudras: Ten, Chi and Jin. Refer to this [cheat sheet](https://media.discordapp.net/attachments/919447066168668171/920093248360439818/MUDRA_GUIDE_ew.png?width=704&height=545) for all the different mudra combinations.
 
-**⦿** Kassatsu is an oGCD that grants an additional Ninjutsu and converts certain Ninjutsu combinations into much more powerful Ninjutsus. The buff lasts 15 seconds, so weaving this within the Trick Attack window is generally unnecessary. Kassatsu transforms Hyoton into Hyosho, and Katon into Goka Mekkyaku. 
+**⦿** Kassatsu is an oGCD that grants an additional ninjutsu and converts certain ninjutsu combinations into much more powerful ninjutsus. The buff lasts 15 seconds, so weaving this within the Trick Attack window is generally unnecessary. Kassatsu transforms Hyoton into Hyosho and Katon into Goka Mekkyaku, respectively.
 
 ## Openers
 
-You may use **either** opener, but if you are unsure you can use the 3rd GCD Trick, as this helps avoid drift and gives the option to begin your Trick Attack burst sooner rather than a GCD later if needed
+You may use **either** opener, but if you are unsure then you can use the 3rd GCD Trick as this helps avoid drift and gives the option to begin your Trick Attack burst sooner rather than a GCD later if needed.
 
 ### Standard 3rd GCD Opener
 
 ![](/img/jobs/nin/ninopener.png)
 
-⦿ It is important for the Suiton prepull to start being prepared at -6s on the countdown and used at -1s. This will not early pull the boss and will allow future Mudras to come off cooldown sooner.\
+⦿ It is important to start preparing the Suiton prepull at -6 seconds on the countdown and used at -1 second. This will not pull the boss early and will allow future mudras to come off cooldown sooner.\
 ⦿ Late weave Trick Attack as much as possible without clipping.\
-**⦿** Mug should be held a GCD after the opener (at next usage) then used strictly off cooldown after.
+⦿ Mug should be held a GCD after the opener (at next usage) then used strictly off cooldown after.
 
 ### 4th GCD Alternate Opener
 
