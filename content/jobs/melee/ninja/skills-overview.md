@@ -20,17 +20,17 @@ Delivers an attack with a potency of 220. Grants 5 Ninki. This is the first part
 ![GustSlash](https://xivapi.com/i/000000/000602_hr1.png)\
 **Gust Slash**
 
-Delivers an attack with a potency of 160. If used after Spinning Edge in the combo, it will instead deliver an attack with a potency of 320. Grants 5 Ninki if used in combo. This is the second part of our basic combo.
+Delivers an attack with a potency of 160. If used after Spinning Edge in the combo, it will instead deliver an attack with a potency of 320. Grants 5 Ninki if used in the combo. This is the second part of our basic combo.
 
 ![AeolianEdge](https://xivapi.com/i/000000/000605_hr1.png)\
 **Aeolian Edge**
 
-Delivers an attack with a potency of 140, 200 potency if done from the rear of the enemy. If this is used after Gust Slash as the third part of our combo, it will instead deliver an attack with a potency of 380, 440 if done from the rear of the enemy. Grants 15 Ninki if used in combo. This is one of two options for the third part of our basic combo.
+Delivers an attack with a potency of 140, or 200 potency if done from the rear of the enemy. If this is used after Gust Slash as the third part of our combo, it will instead deliver an attack with a potency of 380, or 440 if done from the enemy's rear. Grants 15 Ninki if used in the combo. This is one of two options for the third part of our basic combo.
 
 ![ArmorCrush](https://xivapi.com/i/002000/002915_hr1.png)\
 **Armor Crush**  
 
-Delivers an attack with a potency of 140, 200 if done from the flank of the enemy. If this is used after Gust Slash as the third part of the combo, it will instead deliver an attack with a potency of 360, 420 if done from the flank of the enemy. If done as part of the combo, it will also add 30 seconds to your Huton timer, assuming your Huton timer is already active, to a maximum of 60 seconds. Grants 15 Ninki if used in combo. This is one of two options for the third part of our basic combo.
+Delivers an attack with a potency of 140, or 200 if done from the enemy's flank. If this is used after Gust Slash as the third part of the combo, it will instead deliver an attack with a potency of 360, or 420 if done from the enemy's flank. If done as part of the combo, it will also add 30 seconds to your Huton timer, assuming your Huton timer is already active, to a maximum of 60 seconds. Grants 15 Ninki if used in the combo. This is one of two options for the third part of our basic combo.
 
 ![ThrowingDagger](https://xivapi.com/i/000000/000614_hr1.png)\
 **Throwing Dagger**
@@ -40,108 +40,108 @@ Delivers a ranged attack with a potency of 120. The range for this GCD is 20 yal
 ![DeathBlossom](https://xivapi.com/i/000000/000615_hr1.png)\
 **Death Blossom**
 
-Delivers an attack with a potency of 100 to all nearby enemies. This is an Area of Effect (AoE) ability and deals damage in a five yalm radius around you. This is the first part of our AoE combo. Grants 5 Ninki.
+Delivers an attack with a potency of 100 to all nearby enemies. This Area of Effect (AoE) ability deals damage in a five-yalm radius around you. This is the first part of our AoE combo. Grants 5 Ninki.
 
 ![HakkeMujinsatsu](https://xivapi.com/i/002000/002923_hr1.png)\
 **Hakke Mujinsatsu**
 
-Delivers an attack with a potency of 100 to all nearby enemies. If done as the second part of our AoE combo, it instead delivers an attack with a potency of 130 to all nearby enemies, and adds 10 seconds to your Huton timer, assuming your Huton timer is already active, to a maximum of 60 seconds. Just like Death Blossom, this is an AoE attack that deals damage in a five yalm radius around you. Grants 5 Ninki if used in combo.
+Delivers an attack with a potency of 100 to all nearby enemies. If done as the second part of our AoE combo, it instead delivers an attack with a potency of 130 to all nearby enemies and adds 10 seconds to your Huton timer, assuming your Huton timer is already active, to a maximum of 60 seconds. Just like Death Blossom, this an AoE attack deals damage in a five-yalm radius around you. Grants 5 Ninki if used in the combo.
 
 ![](https://xivapi.com/i/002000/002929_hr1.png)
 
 **Phantom Kamaitachi**
 
-Orders your shadow to deliver an attack with a potency of 600 to target, and 50% less to all remaining enemies. Additionally, it also adds 10 seconds to your Huton timer, assuming your Huton timer is already active, to a maximum of 60 seconds. Increases Ninki gauge by 10. This GCD can only be used under the effect of Phantom Kamaitachi Ready, granted by Bunshin, and consumes the buff when used. Using this skill while Bunshin is still active does not consume a stack, nor does it gain extra damage or ninki. This action cannot be assigned to the hotbar, and replaces Bunshin while the Phantom Kamiatachi Ready buff is active. Has a range of 20 yalms.
+Orders your shadow to deliver an attack with a potency of 600 to the target, and 50% less to all remaining enemies. Additionally, it also adds 10 seconds to your Huton timer, assuming your Huton timer is already active, to a maximum of 60 seconds. Increases Ninki gauge by 10. This GCD can only be used under the effect of Phantom Kamaitachi Ready, granted by Bunshin, and consumes the buff when used. Using this skill while Bunshin is still active neither consumes a stack nor gains extra damage or Ninki. This action cannot be assigned to the hotbar and replaces Bunshin while the Phantom Kamiatachi Ready buff is active. It has a range of 20 yalms.
 
-Damage from Phantom Kamaitachi counts as 'Pet' damage, and is thus roughly 2% less potency than stated.
+Damage from Phantom Kamaitachi counts as pet damage, and is therefore roughly 2% less potency than stated.
 
 ![](https://xivapi.com/i/002000/002930_hr1.png)
 
 **Hollow Nozuchi**
 
-Automatically deals earth damage with a potency of 50 to all enemies within an active Doton upon the execution of Katon, Goka Mekkyaku, Phantom Kamaitachi, or upon the execution of Hakke Mujinsatsu as a combo action after Death Blossom. This action cannot be assigned to the hotbar.
+Upon the execution of Katon, Goka Mekkyaku, Phantom Kamaitachi—or Hakke Mujinsatsu as a combo action after Death Blossom—it automatically deals earth damage with a potency of 50 to all enemies within an active Doton. This action cannot be assigned to the hotbar.
 
 ![](https://xivapi.com/i/002000/002931_hr1.png)
 
 **Forked Raiju**
 
-Delivers a lightning attack with a potency of 560. Grants 5 Ninki. Can only be used while under the effect of Raiju Ready, granted by Raiton, and consumes one stack of the buff when used. Forked Raiju is a gapcloser with a range of 20 yalms. 
+Delivers a lightning attack with a potency of 560. Grants 5 Ninki. Can only be used while under the effect of Raiju Ready, granted by Raiton, and consumes one stack of the buff when used. Forked Raiju is a gap-closer with a range of 20 yalms. 
 
  ![](https://xivapi.com/i/002000/002932_hr1.png)
 
 **Fleeting Raiju**
 
-Delivers a lightning attack with a potency of 560. Grants 5 Ninki. Can only be used while under the effect of Raiju Ready, granted by Raiton, and consumes 1 stack of the buff when used. Fleeting Raiju is a regular melee GCD. 
+Delivers a lightning attack with a potency of 560. Grants 5 Ninki. Can only be used while under the effect of Raiju Ready, granted by Raiton, and consumes one stack of the buff when used. Fleeting Raiju is a regular melee GCD. 
 
 # Ninjutsus/Mudras (GCDs)
 
-Ninjutsu set off a global cooldown of 1.5 seconds upon use, not reducible by Huton or skill speed, and each use of a ninjutsu will use up one nunjutsu charge. Mudras have a shared  two charges, a charge time of 20 seconds per charge, and can only be started when a normal GCD could be started. Instead of a 2.5 or 1.5 second global cooldown, the mudras themselves only give a .5 second global cooldown. Using the first mudra will instantly consume a ninjutsu charge and grant a six second buff. If a ninjutsu is not executed within these six seconds, the charge is lost. Inputting two of the same mudra in a combination, or using any other action while the buff is active (including sprint, food, tinctures, role actions, LB etc) will result in a Rabbit Medium, or 'Bunny'.
+Ninjutsu sets off a global cooldown of 1.5 seconds upon use, not reducible by Huton or skill speed, and each use of a ninjutsu will use up one ninjutsu charge. Mudras have a shared two charges, a charge time of 20 seconds per charge, and can only be started when a normal GCD could be started. Instead of a 2.5 or 1.5 second GCD, the mudras themselves only give a 0.5 second GCD. Using the first mudra will instantly consume a Ninjutsu charge and grant a six-second buff. If a Ninjutsu is not executed within these six seconds then the charge is lost. Inputting two of the same mudra in a combination, or using any other action while the buff is active (including Sprint, food, tinctures, role actions, Limit Break, etc.) will result in a Rabbit Medium, or "Bunny."
 
 ![Ten](https://xivapi.com/i/002000/002901_hr1.png)\
 **Ten**
 
-Make the ritual mudra hand gesture for “Heaven”.
+Make the ritual mudra hand gesture for “heaven.”
 
 ![Chi](https://xivapi.com/i/002000/002902_hr1.png)\
 **Chi**
 
-Make the ritual mudra hand gesture for “Earth”.
+Make the ritual mudra hand gesture for “earth.”
 
 ![Jin](https://xivapi.com/i/002000/002903_hr1.png)\
 **Jin**
 
-Make the ritual mudra hand gesture for “Man”.
+Make the ritual mudra hand gesture for “man.”
 
 ![FumaShuriken](https://xivapi.com/i/002000/002907_hr1.png)\
 **Fuma Shuriken**
 
-Delivers a ranged ninjutsu attack with a potency of 450. This is achieved with any single mudra use. Has a range of 25 yalms.
+Delivers a ranged Ninjutsu attack with a potency of 450. This is achieved with any single mudra use. Has a range of 25 yalms.
 
 ![Raiton](https://xivapi.com/i/002000/002912_hr1.png)\
 **Raiton**
 
-Deals lightning damage with a potency of 650, and grants a stack of Raiju Ready, up to a maximum of three. This is achieved by any two-mudra combination that ends with Chi. So, Ten>Chi or Jin>Chi. Has a range of 20 yalms. 
+Deals lightning damage with a potency of 650 and grants a stack of Raiju Ready, up to a maximum of three. This is achieved by any two-mudra combination that ends with Chi. So, Ten > Chi or Jin > Chi. Has a range of 20 yalms. 
 
 ![Katon](https://xivapi.com/i/002000/002908_hr1.png)\
 **Katon**
 
-Deals fire damage with a potency of 350 to target and all enemies nearby it. This does damage to all targets in a five yalm radius around the target. This is achieved by any two-mudra combination that ends with Ten. So, Chi>Ten or Jin>Ten. Has a range of 20 yalms. 
+Deals fire damage with a potency of 350 to the target and all nearby enemies within a five-yalm radius. This is achieved by any two-mudra combination that ends with Ten, such as Chi > Ten or Jin > Ten. Has a range of 20 yalms. 
 
 ![Hyoton](https://xivapi.com/i/002000/002909_hr1.png)\
 **Hyoton**
 
-Deals ice damage with a potency of 350. This also puts a bind on the target for 15 seconds. This is achieved with any two-mudra combination that ends with Jin. So, Ten>Jin or Chi>Jin. Has a range of 25 yalms.
+Deals ice damage with a potency of 350. This also puts a bind on the target for 15 seconds. This is achieved with any two-mudra combination that ends with Jin, such as Ten > Jin or Chi > Jin. Has a range of 25 yalms.
 
 ![Huton](https://xivapi.com/i/002000/002910_hr1.png)\
 **Huton**
 
-Reduces weaponskill recast time and auto-attack delay by 15%. Starts with a duration of 60 seconds which can be added on to in increments from Armor Crush and Hakke Mujinsatsu back to the maximum of 60 seconds. This is achieved by any three-mudra combination ending in Ten. So Jin>Chi>Ten or Chi>Jin>Ten. Buff is only applied to yourself. This buff can also be obtained by using Huraijin.
+Reduces weaponskill recast time and auto-attack delay by 15%. Starts with a duration of 60 seconds and can be increased incrementally back to the maximum of 60 seconds from Armor Crush and Hakke Mujinsatsu. This is achieved by any three-mudra combination ending in Ten, such as Jin > Chi > Ten or Chi > Jin > Ten. The buff is only applied to yourself. It can also be obtained by using Huraijin.
 
 ![Doton](https://xivapi.com/i/002000/002911_hr1.png)\
 **Doton**  
 
-Creates a patch of corrupted earth that acts like a stationary DoT that does 80 potency to enemies who are in it when it ticks for damage and 80 potency to anyone in the AoE as it is created. Also applies a 40% heavy on enemies in this AoE. This lasts for 18 seconds, resulting in 480 potency over all the ticks, to a combined potency of 560 altogether. This is achieved by any three-mudra combination ending in Chi. So, Ten>Jin>Chi or Jin>Ten>Chi. The AoE has a radius of five yalms.
+Creates a patch of corrupted earth that acts like a stationary Damage over Time (DoT) and deals 80 potency to enemies within it, as well as 80 potency to anyone in the AoE as it is created. Also applies a 40% heavy on enemies in the AoE which lasts for 18 seconds, resulting in 480 total potency, and a combined potency of 560 altogether. This is achieved by any three-mudra combination ending in Chi, such as Ten > Jin > Chi or Jin > Ten > Chi. The AoE has a radius of five yalms.
 
 ![Suiton](https://xivapi.com/i/002000/002913_hr1.png)\
 **Suiton**
 
-Deals water damage with a potency of 500. In addition this grants the effect of Suiton, for 20 seconds, which allows you to use any ability previously only usable under Hidden, like Trick Attack. This is achieved by any three-mudra combination that ends with Jin. So Ten>Chi>Jin or Chi>Ten>Jin. Has a range of 20 yalms. 
+Deals water damage with a potency of 500. This also grants the effect of Suiton for 20 seconds, which allows you to use any ability that was previously only usable under Hidden, such as Trick Attack. This is achieved by any three-mudra combination that ends with Jin: Ten > Chi > Jin or Chi > Ten > Jin. Has a range of 20 yalms. 
 
 ![GokaMekkyaku](https://xivapi.com/i/002000/002925_hr1.png)\
 **Goka Mekkyaku**
 
-Deals fire damage with a potency of 600 to target and any other enemies nearby the target. This does damage to all targets in a five yalm radius around the target. This is achieved by any two-mudra combination that ends with Ten. So, Chi>Ten or Jin>Ten. Has a range of 20 yalms. In addition, this is only usable under the effects of Kassatsu and is a replacement for Katon when under the effects of Kassatsu. Because of the boost from Kassatsu, the true potency is 780.
+Deals fire damage with a potency of 600 to the target and enemies within a five-yalm radius near the target. This is achieved by any two-mudra combination that ends with Ten, such as Chi > Ten or Jin > Ten. Has a range of 20 yalms. In addition, this is only usable under the effects of Kassatsu and is a replacement for Katon when under the effects of Kassatsu. Because of the boost from Kassatsu, the true potency is 780.
 
 ![HyoshoRanryu](https://xivapi.com/i/002000/002926_hr1.png)\
 **Hyosho Ranryu**
 
-Deals ice damage with a potency of 1300. This is achieved with any two-mudra combination that ends with Jin. So, Ten>Jin or Chi>Jin. Has a range of 25 yalms. In addition, this is only usable under the effects of Kassatsu and is a replacement for Hyoton when under the effects of Kassatsu. Because of the boost from Kassatsu, the true potency is 1690.
+Deals ice damage with a potency of 1300. This is achieved with any two-mudra combination that ends with Jin. So, Ten > Jin or Chi > Jin. Has a range of 25 yalms. In addition, this is only usable under the effects of Kassatsu and is a replacement for Hyoton. Because of the boost from Kassatsu, the true potency is 1690.
 
 ![](https://xivapi.com/i/002000/002914_hr1.png)
 
-**Rabbit Medium ('Bunny')**
+**Rabbit Medium ("Bunny")**
 
-This ninjutsu does no damage, and has no effect aside from spawning a small rabbit on the head of the player. It  still triggers the 1.5s recast like all other Ninjutsu.
+This Ninjutsu does no damage and has no effect aside from spawning a small rabbit on the player's head. It still triggers the 1.5 second recast like all other Ninjutsu.
 
 # Regular Abilities (oGCDs)
 
