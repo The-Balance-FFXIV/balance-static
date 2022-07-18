@@ -53,7 +53,7 @@ Delivers an attack with a potency of 100 to all nearby enemies. If done as the s
 
 Orders your shadow to deliver an attack with a potency of 600 to the target, and 50% less to all remaining enemies. Additionally, it also adds 10 seconds to your Huton timer, assuming your Huton timer is already active, to a maximum of 60 seconds. Increases Ninki gauge by 10. This GCD can only be used under the effect of Phantom Kamaitachi Ready, granted by Bunshin, and consumes the buff when used. Using this skill while Bunshin is still active neither consumes a stack nor gains extra damage or Ninki. This action cannot be assigned to the hotbar and replaces Bunshin while the Phantom Kamiatachi Ready buff is active. It has a range of 20 yalms.
 
-Damage from Phantom Kamaitachi counts as pet damage, and is therefore roughly 2% less potency than stated.
+Damage from Phantom Kamaitachi counts as pet damage, so it is roughly 2% less potency than stated.
 
 ![](https://xivapi.com/i/002000/002930_hr1.png)
 
@@ -75,7 +75,7 @@ Delivers a lightning attack with a potency of 560. Grants 5 Ninki. Can only be u
 
 # Ninjutsus/Mudras (GCDs)
 
-Ninjutsu sets off a global cooldown of 1.5 seconds upon use, not reducible by Huton or skill speed, and each use of a ninjutsu will use up one ninjutsu charge. Mudras have a shared two charges, a charge time of 20 seconds per charge, and can only be started when a normal GCD could be started. Instead of a 2.5 or 1.5 second GCD, the mudras themselves only give a 0.5 second GCD. Using the first mudra will instantly consume a Ninjutsu charge and grant a six-second buff. If a Ninjutsu is not executed within these six seconds then the charge is lost. Inputting two of the same mudra in a combination, or using any other action while the buff is active (including Sprint, food, tinctures, role actions, Limit Break, etc.) will result in a Rabbit Medium, or "Bunny."
+Ninjutsu sets off a global cooldown of 1.5 seconds upon use, not reducible by Huton or skill speed, and each use of a ninjutsu will use up one ninjutsu charge. Mudras have a shared two charges, a charge time of 20 seconds per charge, and can only be started when a normal GCD could be started. Instead of a 2.5 or 1.5 second GCD, the mudras themselves only give a 0.5 second GCD. Using the first mudra will instantly consume a ninjutsu charge and grant a six-second buff. If a ninjutsu is not executed within these six seconds then the charge is lost. Inputting two of the same mudra in a combination, or using any other action while the buff is active (including Sprint, food, tinctures, role actions, Limit Break, etc.) will result in a Rabbit Medium, or "Bunny."
 
 ![Ten](https://xivapi.com/i/002000/002901_hr1.png)\
 **Ten**
@@ -95,7 +95,7 @@ Make the ritual mudra hand gesture for “man.”
 ![FumaShuriken](https://xivapi.com/i/002000/002907_hr1.png)\
 **Fuma Shuriken**
 
-Delivers a ranged Ninjutsu attack with a potency of 450. This is achieved with any single mudra use. Has a range of 25 yalms.
+Delivers a ranged ninjutsu attack with a potency of 450. This is achieved with any single mudra use. Has a range of 25 yalms.
 
 ![Raiton](https://xivapi.com/i/002000/002912_hr1.png)\
 **Raiton**
@@ -141,7 +141,7 @@ Deals ice damage with a potency of 1300. This is achieved with any two-mudra com
 
 **Rabbit Medium ("Bunny")**
 
-This Ninjutsu does no damage and has no effect aside from spawning a small rabbit on the player's head. It still triggers the 1.5 second recast like all other Ninjutsu.
+This ninjutsu does no damage and has no effect aside from spawning a small rabbit on the player's head. It still triggers the 1.5 second recast like all other ninjutsu.
 
 # Regular Abilities (oGCDs)
 
@@ -150,17 +150,17 @@ These are your regular abilities that can be used at any time when you are not i
 ![Mug](https://xivapi.com/i/000000/000613_hr1.png)\
 **Mug**
 
-Delivers an attack with a potency of 150. Grants 40 Ninki gauge on use. In addition, it debuffs the enemy for 20 seconds with a vulnerability up, increasing the enemy’s damage taken by 5% from all sources during this time. Also increases the chance of additional items being dropped by target if mug is dealt before, or as, the finishing blow. This extra thing is mostly irrelevant since it only works on basic drops that you don't end up caring about, like Bat Fangs. This skill has a personal cooldown of 120 seconds. 
+Delivers an attack with a potency of 150. Grants 40 Ninki gauge on use. In addition, it debuffs the enemy for 20 seconds with a Vulnerability Up, increasing the enemy’s damage taken by 5% from all sources during this time. It also increases the chance of additional items dropped by the target if Mug is dealt before or as the finishing blow. This extra effect is mostly irrelevant since it only works on basic drops that you don't end up caring about, such as Bat Fangs. This skill has a personal cooldown of 120 seconds. 
 
 ![TrickAttack](https://xivapi.com/i/000000/000618_hr1.png)\
 **Trick Attack**
 
-Delivers an attack with a potency of 300, 400 if done from the rear of the target enemy. In addition, it debuffs the enemy for 15s with a vulnerability up, increasing the enemy’s damage taken from you alone by 10% during this time. This can only be used under the effect Hidden. (See Suiton for how to use this in combat). This ability has a personal cooldown of 60 seconds.
+Delivers an attack with a potency of 300, or 400 if done from the target enemy's rear. It also applies a Vulnerability Up debuff to the enemy for 15 seconds, increasing the enemy’s damage taken from you alone by 10%. This can only be used under the effect Hidden. (See Suiton for how to use this in combat). This ability has a personal cooldown of 60 seconds.
 
 ![Kassatsu](https://xivapi.com/i/002000/002906_hr1.png)\
 **Kassatsu**
 
-Allows the use of a single ninjutsu without consuming a mudra charge. In addition, it increases the damage of the ninjutsu used during this buff by 30%. This buff allows you to use Hyosho Ranryu and Goka Mekkyaku. The damage buff does also apply to Goka Mekkyaku and Hyosho Ranryu. This buff has a duration of 15 seconds and is lost upon the use of the next ninjutsu or the timer running out. This ability has a personal cooldown of 60 seconds. 
+Allows the use of a single ninjutsu without consuming a mudra charge. In addition, it increases the damage of the ninjutsu used during this buff by 30%. This buff allows you to use Hyosho Ranryu and Goka Mekkyaku. The damage buff also applies to Goka Mekkyaku and Hyosho Ranryu. This buff has a duration of 15 seconds and is lost upon the use of the next ninjutsu or the timer running out. This ability has a personal cooldown of 60 seconds. 
 
 ![DreamWithinADream](https://xivapi.com/i/002000/002918_hr1.png)\
 **Dream Within A Dream**
@@ -170,21 +170,21 @@ Delivers a three-hit attack, with each attack hitting for 150 potency for a tota
 ![TenChiJin](https://xivapi.com/i/002000/002922_hr1.png)\
 **Ten Chi Jin (TCJ)**
 
-Temporarily converts each of the three mudra into a ninjutsu action. Executing one of these actions will convert the remaining mudra into different ninjutsu actions until all three have been executed or the Ten Chi Jin effect expires. You can only use ninjutsu during this, and the same ninjutsu cannot be executed twice. This ability cannot be activated while under the effects of Kassatsu. This effect ends upon moving. This effect has a duration of six seconds. In essence, this allows you to use one one-step ninjutsu, one two-step ninjutsu, and one three-step ninjutsu in a row. Common uses are Fuma>Raiton>Suiton, Fuma>Katon>Doton, and Fuma>Katon>Suiton. Using Raiton under TCJ will still grant Raiju Ready as normal. This ability has a personal cooldown of 120 seconds.
+Temporarily converts each of the three mudra into a ninjutsu action. Executing one of these actions will convert the remaining mudra into different ninjutsu actions until either all three have been executed or the Ten Chi Jin effect expires. You can only use ninjutsu during this, and the same ninjutsu cannot be executed twice. This ability cannot be activated while under the effects of Kassatsu. This effect ends upon moving. This effect has a duration of six seconds. In essence, this allows you to use one one-step ninjutsu, one two-step ninjutsu, and one three-step ninjutsu in a row. Common uses are Fuma > Raiton > Suiton, Fuma > Katon > Doton, and Fuma > Katon > Suiton. Using Raiton under TCJ will still grant Raiju Ready as normal. This ability has a personal cooldown of 120 seconds.
 
 ![Meisui](https://xivapi.com/i/002000/002924_hr1.png)\
 **Meisui**
 
-Dispels the Suiton buff, and in return increases the Ninki gauge by 50. Additionally, increases the potency of the next Bhavacakra used within 30 seconds from 350 to 500. This ability can only be used while in combat. This ability has a personal cooldown of 120 seconds.
+Dispels the Suiton buff and in return increases the Ninki gauge by 50. Additionally, increases the potency of the next Bhavacakra from 300 to 500 if used within 30 seconds. This ability can only be used while in combat. This ability has a personal cooldown of 120 seconds.
 
 # Ninki Abilities (oGCDs)
 
-Ninki abilities are like normal oGCDs except for the fact that they require 50 Ninki to use. You can store up to 100 Ninki at once.
+Ninki abilities are like normal oGCDs except that they require 50 Ninki to use. You can store up to 100 Ninki at once.
 
 ![HellfrogMedium](https://xivapi.com/i/002000/002920_hr1.png)\
 **Hellfrog Medium** 
 
-Deals fire damage with a potency of 160 to target and any other enemies near the target. Costs 50 Ninki to use. This ability has a range of 25 yalms and does damage in a radius of six yalms around the target.
+Deals fire damage with a potency of 160 to the target and any other enemies near the target. Costs 50 Ninki to use. This ability has a range of 25 yalms and deals damage in a six-yalm radius around the target.
 
 ![Bhavacakra](https://xivapi.com/i/002000/002921_hr1.png)\
 **Bhavacakra**
@@ -194,17 +194,17 @@ Deals unaspected damage with a potency of 350. Costs 50 Ninki to use.
 ![Bunshin](https://xivapi.com/i/002000/002927_hr1.png)\
 **Bunshin**
 
-Grants five stacks of the buff Bunshin, each stack allowing your shadow to attack enemies each time you execute a weaponskill. Additionally, grants the effect Phantom Kamaitachi Ready for 45 seconds. Shadow attack potency varies based on the attack executed, but is not affected by combo bonuses. Each attack from the shadow will grant you five Ninki, for a total of 25 ninki if all five stacks of Bunshin are used before the time limit. his buff has a duration of 30 seconds. Costs 50 ninki to use. This ability has a personal cooldown of 90 seconds.
+Grants five stacks of the buff Bunshin. Each stack allows your shadow to attack enemies each time you execute a weaponskill. Additionally, grants the effect Phantom Kamaitachi Ready for 45 seconds. The shadow attack potency varies based on the attack executed, but is not affected by combo bonuses. Each attack from the shadow will grant you five Ninki for a total of 25 Ninki if all five stacks of Bunshin are used before the time limit. This buff has a duration of 30 seconds and costs 50 Ninki to use. This ability has a personal cooldown of 90 seconds.
 
 Melee attack: 160 potency.
 Ranged attack: 160 potency.
 AoE attack: 80 potency to all enemies hit.
 
-Damage from Bunshin counts as 'Pet' Damage, and is thus roughly 2% less potency than stated.
+Damage from Bunshin counts as pet damage, so it is roughly 2% less potency than stated.
 
 # Utility Abilities (oGCDs)
 
-These are oGCDs that don’t deal damage so aren’t necessarily used on cooldown, but are used more when they are specifically needed.
+These are oGCDs that don’t deal damage, so they aren’t necessarily used on cooldown. Instead, they are used more when specifically needed.
 
 ![ShadeShift](https://xivapi.com/i/000000/000607_hr1.png)\
 **Shade Shift**
@@ -214,7 +214,7 @@ Gives yourself a shield equal to 20% of your maximum HP. This shield lasts 20 se
 ![Hide](https://xivapi.com/i/000000/000609_hr1.png)\
 **Hide**
 
-Blend in with your surroundings, making it impossible for most enemies to detect you, but reducing movement speed by 50%. Has no effect on enemies ten levels higher than you, or certain enemies with special sight. Grants the buff Hidden. This cannot be executed in combat, and you will lose the Hidden buff and be taken out of Hide if you enter combat. This effect also ends upon the use of any action except for Sprint, or upon the reuse of Hide. In addition, the use of this ability will restore two charges of your mudras. 
+Blend in with your surroundings, making it impossible for most enemies to detect you, but reducing movement speed by 50%. Has no effect on enemies ten levels higher than you, or certain enemies with special sight. Grants the buff Hidden. This cannot be executed in combat, and you will lose the Hidden buff and be taken out of Hide if you enter combat. This effect also ends upon the use of any action except for Sprint, or upon the reuse of Hide. The use of this ability will also restore two charges of your mudras. 
 
 ![Shukuchi](https://xivapi.com/i/002000/002905_hr1.png)\
 **Shukuchi**
@@ -229,7 +229,7 @@ Instantly restores own HP. Has a cure potency of 500. Has a personal cooldown of
 ![LegSweep](https://xivapi.com/i/000000/000824_hr1.png)\
 **Leg Sweep**
 
-Stuns target for three seconds. Has a personal cooldown of 40 seconds.
+Stuns the target for three seconds. Has a personal cooldown of 40 seconds.
 
 ![Bloodbath](https://xivapi.com/i/000000/000823_hr1.png)\
 **Bloodbath**
@@ -244,7 +244,7 @@ Lowers target’s physical damage dealt by 10%, and magical damage dealt by 5%. 
 ![ArmsLength](https://xivapi.com/i/000000/000822_hr1.png)\
 **Arm's Length**
 
-Creates a barrier nullifying most knockback and draw-in effects. Has a duration of 6 seconds. Applies a 20% slow for 15 seconds on any target that hits you during this 6 second duration. Has a personal cooldown of 120 seconds. 
+Creates a barrier nullifying most knockback and draw-in effects. Has a duration of six seconds. Applies a 20% slow for 15 seconds on any target that hits you during this six second duration. Has a personal cooldown of 120 seconds. 
 
 ![TrueNorth](https://xivapi.com/i/000000/000830_hr1.png)\
 **True North**
@@ -289,7 +289,7 @@ Increases Ninki gauge by 40 when successfully landing Mug. Gained at level 66.
 ![EnhancedShukuchi2](https://xivapi.com/i/005000/005415_hr1.png)\
 **Enhanced Shukuchi II**
 
-Allows the accumulation of up to 2 charges for Shukuchi to allow for multiple consecutive uses of Shukuchi. Gained at level 74.
+Allows the accumulation of up to two charges for Shukuchi. Charges are for consecutive uses of Shukuchi. Gained at level 74.
 
 ![](https://xivapi.com/i/006000/006801_hr1.png)
 
@@ -300,12 +300,12 @@ Increases the base potency of Gust Slash to 120, Aeolian Edge to 140, and Armor 
 ![EnhancedKassatsu](https://xivapi.com/i/005000/005414_hr1.png)\
 **Enhanced Kassatsu**
 
-Upgrades Katon and Hyoton to Goka Mekkyaku and Hyosho Ranryu respectively while under the effects of Kassatsu. Gained at level 76.
+Upgrades Katon and Hyoton to Goka Mekkyaku and Hyosho Ranryu, respectively, while under the effects of Kassatsu. Gained at level 76.
 
 ![Shukiho2](https://xivapi.com/i/005000/005416_hr1.png)\
 **Shukiho II**
 
-Increases Ninki gauge by 10 upon successfully landing Shadow Fang or completing a combo with Aeolian Edge or Armor Crush. Gained at level 78.
+Increases Ninki gauge by ten upon successfully landing Shadow Fang or completing a combo with Aeolian Edge or Armor Crush. Gained at level 78.
 
 ![](https://xivapi.com/i/005000/005417_hr1.png)
 
@@ -323,10 +323,10 @@ Increases the base potency of Spinning Edge to 220 and Gust Slash to 160. Gained
 
 **Enhanced Meisui**
 
-Increases the potency of the next Bhavacakra used within 30 seconds from 350 to 500. Gained at level 88.
+Increases the potency of the next Bhavacakra from 350 to 500 when used within 30 seconds. Gained at level 88.
 
 ![](https://xivapi.com/i/005000/005419_hr1.png)
 
 **Enhanced Raiton**
 
-Grants a stack of Raiju Ready upon executing Raiton, up to a maximum of 3, and allowing the use of Forked and Fleeting Raiju. The effect of Raiju Ready ends upon the execution of any weaponskill/GCD excluding Phantom Kamaitachi and Throwing Daggers. Gained at level 90.
+Grants a stack of Raiju Ready upon executing Raiton, up to a maximum of 3, and allowing the use of Forked and Fleeting Raiju. The effect of Raiju Ready ends upon the execution of any weaponskill or GCD, excluding Phantom Kamaitachi and Throwing Daggers. Gained at level 90.
