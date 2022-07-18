@@ -19,10 +19,11 @@ changelog:
 
 ⦿ Late weave Trick Attack as much as possible without clipping. \
 ⦿ Mug should be held a GCD after the opener (at next usage) then used strictly off cooldown after.\
-⦿ It is important to prepare the Suiton prepull at -6s on the countdown and use at -1s. This will not pull the boss early and will allow future Mudras to come off cooldown sooner.
+⦿ It is important to prepare the Suiton prepull at -6s on the countdown and use at -1s. This will not pull the boss early and allows future Mudras to come off cooldown sooner.
 
 ![](/img/jobs/nin/4th-gcd.png)
 
-⦿ This version uses Trick Attack at 4th GCD instead of the standard 3rd. Susceptible to Trick drifting a GCD later in a full uptime fight, which could separate Trick from Mug by 2 GCDs, unless Mug was also held an additional GCD (at most, 1 GCD separation between Trick and Mug is desired).\
-⦿ Exits the opener only slightly higher than 3rd GCD Trick, however under full uptime performs nearly the same. ⦿ Hold Mug a GCD after the opener (next usage) then strictly off cooldown after. This will align it with other 20s and 15s buffs.\
-⦿ It is important for the Suiton prepull to start being prepared at -6s on the countdown and used at -1s. This will not early pull the boss and will allow future Mudras to come off cooldown sooner.
+⦿ This version uses Trick Attack at the 4th GCD instead of the standard third. It is susceptible to Trick drifting a GCD later in a full uptime fight, which could separate Trick from Mug by two GCDs, unless Mug was also held an additional GCD (at most, one GCD separation between Trick and Mug is desired).\
+⦿ Exits the opener only slightly higher than 3rd GCD Trick; however, under full uptime performs nearly the same.\
+⦿ Hold Mug one GCD after the opener (next usage) then strictly off cooldown after. This aligns it with other 20 and 15 second buffs.\
+⦿ It is important for the Suiton prepull to start being prepared at -6 seconds on the countdown and used at -1 second. This will not pull the boss early and allows future Mudras to come off cooldown sooner.
