@@ -19,7 +19,7 @@ changelog:
 
 ⦿ Late weave Trick Attack as much as possible without clipping. \
 ⦿ Mug should be held a GCD after the opener (at next usage) then used strictly off cooldown after.\
-⦿ It is important to prepare the Suiton prepull at -6 seconds on the countdown and use at -1 second. This will not pull the boss early and allows future Mudras to come off cooldown sooner.
+⦿ It is important to prepare the Suiton prepull at -6 seconds on the countdown and use at -1 second. This will not pull the boss early and allows future mudras to come off cooldown sooner.
 
 ![](/img/jobs/nin/4th-gcd.png)
 
