@@ -27,7 +27,7 @@ If you want a melee job with the most flexibility for disengagements and a fast-
 
 ⦿ [Video Demo](https://youtu.be/J_sEsvLXBYo): 6:30 minute fight demonstration following something similar to the rotation planner.
 
-⦿ [Rotation Planner](https://bit.ly/364UOqG) for a visualization of a 6-minute rotation or the ability to spreadsheet any rotation.
+⦿ [Rotation Planner](https://bit.ly/364UOqG) for a visualization of a six-minute rotation or the ability to spreadsheet any rotation.
 
 ⦿ [XIVAnalysis](https://xivanalysis.com/) is good for checking general mistakes and an improved timeline of a fight. 
 
@@ -53,7 +53,7 @@ Furthermore, we ought to avoid overcapping on Ninki, even if we must burn gauge 
 
 At a glance, we want to fit Hyosho Ranyru, two Raitons, Ten-Chi-Jin, Dream Within a Dream, two Fleeting/Forked Raijus, Meisui, and as many Bhavacakras as we can weave. 
 
-⦿ Mug is our new raid buff that afflicts the target with a vulnerability debuff that increases damage taken by 5% for everyone hitting the target every two minutes. This provides a ton of utility for the group and should **NOT** be used selfishly after the opener. We use it 4.5 seconds in the opener to allow earlier execution of Bunshin, but Mug should be delayed one GCD at 2 minutes for better alignment with other raid buffs, then used strictly off cooldown thereafter.
+⦿ Mug is our new raid buff that afflicts the target with a vulnerability debuff that increases damage taken by 5% for everyone hitting the target every two minutes. This provides a ton of utility for the group and should **NOT** be used selfishly after the opener. We use it 4.5 seconds in the opener to allow earlier execution of Bunshin, but Mug should be delayed one GCD at two minutes for better alignment with other raid buffs, then used strictly off cooldown thereafter.
 
 ⦿ Ninjutsus are unique abilities that we formulate with the mudras: Ten, Chi and Jin. Refer to this [cheat sheet](https://media.discordapp.net/attachments/919447066168668171/920093248360439818/MUDRA_GUIDE_ew.png?width=704&height=545) for all the different mudra combinations.
 
@@ -67,7 +67,7 @@ You may use **either** opener, but if you are unsure then you can use the 3rd GC
 
 ![](/img/jobs/nin/ninopener.png)
 
-⦿ It is important to start preparing the Suiton prepull at -6 seconds on the countdown and used at -1 second. This will not pull the boss early and will allow future mudras to come off cooldown sooner.\
+⦿ It is important to start preparing the Suiton prepull at -six seconds on the countdown and used at -one second. This will not pull the boss early and will allow future mudras to come off cooldown sooner.\
 ⦿ Late weave Trick Attack as much as possible without clipping.\
 ⦿ Mug should be held a GCD after the opener (at next usage) then used strictly off cooldown after.
 
@@ -78,7 +78,7 @@ You may use **either** opener, but if you are unsure then you can use the 3rd GC
 ⦿ This version uses Trick Attack at the 4th GCD instead of the standard 3rd. It is susceptible to Trick drifting a GCD later in a full uptime fight, which could separate Trick from Mug by two GCDs, unless Mug was also held an additional GCD (at most, one GCD separation between Trick and Mug is desired).\
 ⦿ Exits the opener only slightly higher than 3rd GCD Trick; however, under full uptime performs nearly the same.\
 ⦿ Hold Mug one GCD after the opener (next usage) then strictly off cooldown after. This will align it with other 20 second and 15 second buffs.\
-⦿ It is important for the Suiton prepull to start being prepared at -6 seconds on the countdown and used at -1 second. This will not pull the boss early and will allow future mudras to come off cooldown sooner
+⦿ It is important for the Suiton prepull to start being prepared at -six seconds on the countdown and used at -one second. This will not pull the boss early and will allow future mudras to come off cooldown sooner
 
 ## Basic Rotation
 
@@ -110,7 +110,7 @@ Throughout our rotation we will be building resources and spending Ninki as need
 
 **[Cheat sheet](https://media.discordapp.net/attachments/919447066168668171/920093248360439818/MUDRA_GUIDE_ew.png?width=704&height=545)**
 
-It is important for a Ninja to understand and confidently know each ninjutsu combination, as our rotation demands excessive use of Ten, Chi and Jin to formulate some of our strongest GCDs. With a 20 second cooldown on our mudras, we expect to get three natural ninjutsus a minute. One ninjutsu will be used on **Suiton** when Trick Attack is 20s or less on cooldown, as we need the Suiton buff to use Trick. The other two should be used ideally within Trick Attack as **Raitons**. 
+It is important for a Ninja to understand and confidently know each ninjutsu combination, as our rotation demands excessive use of Ten, Chi and Jin to formulate some of our strongest GCDs. With a 20 second cooldown on our mudras, we expect to get three natural ninjutsus a minute. One ninjutsu will be used on **Suiton** when Trick Attack is 20 seconds or less on cooldown, as we need the Suiton buff to use Trick. The other two should be used ideally within Trick Attack as **Raitons**. 
 
 **Kassatsu** provides us with an additional ninjutsu every minute and should be used as Hyosho Ranyru on one to two targets, or as Goka Mekkyaku when there are three+ targets. 
 
@@ -135,7 +135,7 @@ Holding Trick and downtime are common causes for mudra overcap. Most of the time
 
 One of the most important steps to learning Ninja and playing optimally is understanding and getting confidence with execution of our Trick Attack windows. Given that Trick is 15.77 seconds long, we will be cramming in a large array of abilities in a short period of time. 
 
-We have two versions of our Trick Attack burst, the odd (1 minute, 3 minute, 5 minute...) windows and even (2 minute, 4 minute, 6 minute...) windows. 
+We have two versions of our Trick Attack burst, the odd (one minute, three minute, five minute...) windows and even (two minute, four minute, six minute...) windows. 
 
 ### Odd Trick
 
@@ -167,9 +167,9 @@ This is a window that occurs every even minute or is a window that has all our t
 
 As Mug is 20.50 seconds long and Trick is 15.77 seconds long, it is best that Mug is used before Trick to catch the entire duration. If Mug is used within Trick, we risk severe drifting of one or both oGCDs.
 
-We should try to fit one Hyosho, two Raitons, two Raijus, Dream Within A Dream, Ten-Chi-Jin, Meisui, and two to three Bhavacakras within Trick Attack. Optionally, Phantom Kamaitachi may be in a 2 minute window, but is situational (more explained below).
+We should try to fit one Hyosho, two Raitons, two Raijus, Dream Within A Dream, Ten-Chi-Jin, Meisui, and two to three Bhavacakras within Trick Attack. Optionally, Phantom Kamaitachi may be in a two minute window, but is situational (more explained below).
 
-Meanwhile, the allowance for Mug is one Trick Attack, one Hyosho, two Raitons, three Raijus + one to two additional GCDs, Dream Within A Dream, Ten-Chi-Jin, Meisui, and two to three Bhavacakras. If Mug is used as an early weave, you will only catch one additional GCD. If used as a mid to late weave, you will catch two additional GCDs. As Mug is a raid buff, it shouldn’t be used selfishly, so never purposely late weave and drift this oGCD (beyond alignment reasons).\
+Meanwhile, the allowance for Mug is one Trick Attack, one Hyosho, two Raitons, three Raijus + one to two additional GCDs, Dream Within A Dream, Ten-Chi-Jin, Meisui, and two to three Bhavacakras. If Mug is used as an early weave, you will only catch one additional GCD. If used as a mid to late weave, you will catch two additional GCDs. As Mug is a raid buff, it should not be used selfishly, so never purposely late weave and drift this oGCD (beyond alignment reasons).\
 **\
 So how do we handle Phantom Kamaitachi?** 
 
@@ -186,7 +186,7 @@ Easy, no thought answer: Just use it within even Trick every time if it was not 
 
 #### **Examples:**
 
-**Note**: There are plenty of ways to execute an even/2 minute Trick window, as long as the optimal amount of abilities are within the window. Below are some examples demonstrating the order I recommend. 
+**Note**: There are plenty of ways to execute an even/two minute Trick window, as long as the optimal amount of abilities are within the window. Below are some examples demonstrating the order I recommend. 
 
 **\[Red bar = Trick ends, Orange bar = Mug ends]**
 
