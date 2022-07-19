@@ -226,7 +226,7 @@ Unfortunately, the decision may not always be clear. Trick remaining aligned is 
 
 ### Reopeners
 
-//TODO; 2 minute reopeners should look very similar to a 2 minute window. Generally start Trick either 2nd-3rd GCD. 
+//TODO; two minute reopeners should look very similar to a two minute window. Generally start Trick either 2nd-3rd GCD. 
 
 ### Holding Trick
 
@@ -234,7 +234,7 @@ There may be situations where we may have to hold Trick Attack, along with our c
 
 However, there are plenty of cases where we can’t or should not use Trick off cooldown. Such as a downtime phase that would cut our burst off prematurely, or if holding otherwise wouldn’t result in us losing a Trick Attack and its cooldowns later in the fight. 
 
-If you choose to hold Trick Attack, it is important to know that doing so will overcap your mudra stacks if an additional Ninjutsu (aside from Suiton) is not used outside of Trick Attack. Even if using a Raiton outside of Trick means 1 less Raiton + Raiju outside of Trick for the rest of the fight, overcapping is the potential loss of 1 Raiton + Raiju. 
+If you choose to hold Trick Attack, it is important to know that doing so will overcap your mudra stacks if an additional Ninjutsu (aside from Suiton) is not used outside of Trick Attack. Even if using a Raiton outside of Trick means one less Raiton + Raiju outside of Trick for the rest of the fight, overcapping is the potential loss of one Raiton + Raiju. 
 
 ## Improvement
 
