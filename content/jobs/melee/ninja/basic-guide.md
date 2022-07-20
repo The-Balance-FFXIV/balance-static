@@ -4,7 +4,7 @@ card_header_image: /img/jobs/nin/basic.png
 authors:
   - jackal
 patch: "6.18"
-lastmod: 2022-05-31T02:54:02.653Z
+lastmod: 2022-07-20T18:59:40.195Z
 changelog:
   - date: 2021-10-29T03:08:27.069Z
     message: Created page
@@ -31,7 +31,7 @@ If you want a melee job with the most flexibility for disengagements and a fast-
 
 ⦿ [XIVAnalysis](https://xivanalysis.com/) is good for checking general mistakes and an improved timeline of a fight. 
 
-⦿ [Gear Planner](http://bit.ly/Gear-Planner) simulates predicted DPS based off gear. Great for creating a set.
+⦿ [Gear Planner](http://bit.ly/Gear-Planner) simulates predicted DPS based on gear. Great for creating a set.
 
 ## Core Concepts
 
@@ -49,15 +49,15 @@ Furthermore, we ought to avoid overcapping on Ninki, even if we must burn gauge 
 | ------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------- | --------- | --------- |
 | Spinning Edge, Gust Slash, Death Blossom, Hakke Mujinsatsu, Fleeting Raiju, Forked Raiju, Throwing Dagger, Huraijin | Phantom Kamaitachi | Aeolian Edge, Armor Crush | Mug       | Meisui    |
 
-⦿ Trick Attack is our single target personal buff that increases the damage you do to the target by 10% for 15.77 seconds every minute. Our goal is to utilize our own Trick Attack and fit in as many high potency abilities as we can before it ends. 
+⦿ Trick Attack is our single target personal buff that increases the personal damage we do to the target by 10% for 15.77 seconds every minute. Our goal is to utilize our own Trick Attack and fit in as many high potency abilities as we can before it ends. 
 
 At a glance, we want to fit Hyosho Ranyru, two Raitons, Ten-Chi-Jin, Dream Within a Dream, two Fleeting/Forked Raijus, Meisui, and as many Bhavacakras as we can weave. 
 
-⦿ Mug is our new raid buff that afflicts the target with a vulnerability debuff that increases damage taken by 5% for everyone hitting the target every two minutes. This provides a ton of utility for the group and should **NOT** be used selfishly after the opener. We use it 4.5 seconds in the opener to allow earlier execution of Bunshin, but Mug should be delayed one GCD at two minutes for better alignment with other raid buffs, then used strictly off cooldown thereafter.
+⦿ Mug is our new raid buff that afflicts the target with a vulnerability debuff which increases the target's damage taken by 5% from all sources every two minutes. This provides a ton of utility for the group and should **NOT** be used selfishly after the opener. We use it 4.5 seconds into the opener to allow earlier execution of Bunshin, but Mug should be delayed one GCD at two minutes for better alignment with other raid buffs, then used strictly on cooldown thereafter.
 
 ⦿ Ninjutsus are unique abilities that we formulate with the mudras: Ten, Chi and Jin. Refer to this [cheat sheet](https://media.discordapp.net/attachments/919447066168668171/920093248360439818/MUDRA_GUIDE_ew.png?width=704&height=545) for all the different mudra combinations.
 
-**⦿** Kassatsu is an oGCD that grants an additional ninjutsu and converts certain ninjutsu combinations into much more powerful ninjutsus. The buff lasts 15 seconds, so weaving this within the Trick Attack window is generally unnecessary. Kassatsu transforms Hyoton into Hyosho and Katon into Goka Mekkyaku, respectively.
+**⦿** Kassatsu is an oGCD that grants an additional Ninjutsu and converts certain Ninjutsu combinations into much more powerful Ninjutsus. The buff lasts 15 seconds, so weaving this within the Trick Attack window is generally unnecessary. Kassatsu transforms Hyoton into Hyosho and Katon into Goka Mekkyaku, respectively.
 
 ## Openers
 
@@ -69,7 +69,7 @@ You may use **either** opener, but if you are unsure then you can use the 3rd GC
 
 ⦿ It is important to start preparing the Suiton prepull at -six seconds on the countdown and used at -one second. This will not pull the boss early and will allow future mudras to come off cooldown sooner.\
 ⦿ Late weave Trick Attack as much as possible without clipping.\
-⦿ Mug should be held a GCD after the opener (at next usage) then used strictly off cooldown after.
+⦿ Mug should be held a GCD after the opener (at next usage) then used strictly on cooldown after.
 
 ### 4th GCD Alternate Opener
 
@@ -92,16 +92,16 @@ While we will normally be using Aeolian Edge as our standard combo finisher, we 
 * We need to cap Huton gauge to pull us through a long downtime segment. It would be better to overcap on Huton than drop it and be forced to use Huraijin on the reopener. 
 * We are at the flank of the boss and are unable to go to the rear or do not have True North available. Even if we overcap gauge, an Armor Crush with positional bonus is better than an Aeolian Edge without positional bonus.
 
-**Note:** Huraijin shouldn’t be part of our rotation and isn’t the optimal GCD to use to maintain our Huton gauge. We will only use Huraijin in situations where our Huton drops, such as on accident, death or through a long downtime segment.
+**Note:** Huraijin shouldn’t be part of our rotation and isn’t the optimal GCD to use to maintain our Huton gauge. We will only use Huraijin in situations where our Huton drops, such as by accident, due to death or through a long downtime segment.
 
 ### Ninki Maintenance
 
-Throughout our rotation we will be building resources and spending Ninki as needed. Optimally, it is best if we pool our Ninki as high as possible **without** overcapping for our Trick Attack window, then dump as much Bhavacakras as weave space provides. Generally this will look to be between one to four Bhavacakras per Trick window.
+Throughout our rotation we will be building resources and spending Ninki as needed. Optimally, it is best if we pool our Ninki as high as possible **without** overcapping for our Trick Attack window, then dump as many Bhavacakras as weave space provides. Generally this will look to be between one to four Bhavacakras per Trick window.
 
 | Ability         | Usage                                                                                                                          |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Bunshin         | Use on cooldown. Don't hold for Trick Attack unless it is towards the end of the fight, and holding it won't cost you a usage. |
-| Bhavacakra      | When there is only one or two targets. Only use on three targets if Bhavacakra is buffed by Meisui.                            |
+| Bhavacakra      | When there are only one or two targets. Only use on three targets if Bhavacakra is buffed by Meisui.                           |
 | Hellfrog Medium | When there are three or more targets, even if Trick Attack is active.                                                          |
 
 &nbsp;
@@ -110,26 +110,26 @@ Throughout our rotation we will be building resources and spending Ninki as need
 
 **[Cheat sheet](https://media.discordapp.net/attachments/919447066168668171/920093248360439818/MUDRA_GUIDE_ew.png?width=704&height=545)**
 
-It is important for a Ninja to understand and confidently know each ninjutsu combination, as our rotation demands excessive use of Ten, Chi and Jin to formulate some of our strongest GCDs. With a 20 second cooldown on our mudras, we expect to get three natural ninjutsus a minute. One ninjutsu will be used on **Suiton** when Trick Attack is 20 seconds or less on cooldown, as we need the Suiton buff to use Trick. The other two should be used ideally within Trick Attack as **Raitons**. 
+It is important for a Ninja to understand and confidently know each Ninjutsu combination, as our rotation demands excessive use of Ten, Chi and Jin to formulate some of our strongest GCDs. With a 20 second cooldown on our mudras, we expect to get three natural Ninjutsus a minute. One Ninjutsu will be used on **Suiton** when Trick Attack is 20 seconds or less on cooldown, as we need the Suiton buff to use Trick. The other two should be used ideally within Trick Attack as **Raitons**. 
 
-**Kassatsu** provides us with an additional ninjutsu every minute and should be used as Hyosho Ranyru on one to two targets, or as Goka Mekkyaku when there are three+ targets. 
+**Kassatsu** provides us with an additional Ninjutsu every minute and should be used as Hyosho Ranyru on one to two targets, or as Goka Mekkyaku when there are three or more targets. 
 
 The only time we should **not use** Raiton within Trick Attack is when one of the following is met:
 
-1. We must disconnect from the boss and do not have Phantom Kamaitachi or have the option to use Suiton to prepare Trick Attack. Using Raton to disconnect and keep our GCD rolling is far better than using Throwing Dagger, even if that means one less Raiton + Raiju in Trick Attack. 
-2. We need to prevent mudra **overcap** by using a ninjutsu. If Trick is used strictly off cooldown then we will not ever have this issue, and two Raitons will naturally be within Trick with little to no overcap. However, a common occurrence is if we ever **hold** Trick Attack, normally for a mechanic. Any time we hold Trick Attack, we will overcap Mudra stacks if attempting to fit both Raitons within Trick. Therefore, one Raiton must be used outside of Trick Attack to prevent overcap. 
+1. We must disconnect from the boss and do not have Phantom Kamaitachi or have the option to use Suiton to prepare Trick Attack. Using Raiton to disconnect and keep our GCD rolling is far better than using Throwing Dagger, even if that means one less Raiton + Raiju in Trick Attack. 
+2. We need to prevent mudra **overcap** by using a Ninjutsu. If Trick is used strictly on cooldown then we will not ever have this issue, and two Raitons will naturally be within Trick with little to no overcap. However, a common occurrence is if we ever **hold** Trick Attack, normally for a mechanic. Any time we hold Trick Attack, we will overcap Mudra stacks if attempting to fit both Raitons within Trick. Therefore, one Raiton must be used outside of Trick Attack to prevent overcap. 
 
-**Overcapping** should be avoided when it comes to our mudra stacks. This happens when our mudra stacks to x2. Any time spent with overcapped mudra is time that pushes our mudra cooldown backwards into our rotation timeline. Doing so can make fitting two Raitons into Trick difficult or even cost us an entire use of a Raiton by the end of the fight. 
+**Overcapping** should be avoided when it comes to our mudra stacks. This happens when our mudra stacks to two. Any time spent with overcapped mudra is time that pushes our mudra cooldown backward into our rotation timeline. Doing so can make fitting two Raitons into Trick difficult or even cost us an entire use of a Raiton by the end of the fight. 
 
 Holding Trick and downtime are common causes for mudra overcap. Most of the time, it is best to use Raiton to avoid overcap, even if that means one less Raiton within Trick. 
 
 ### Multi-Target
 
-⦿ **Doton** does 80 potency per tick every three seconds, with one additional tick happening the moment you drop the Doton, for a total of seven ticks for 560 potency. At level 90, use Doton on x3 targets when they remain in it for the full duration.\
-⦿ **Katon** should only be used on three+ targets, and when Doton is placed, Hollow Nozuchi will be able to proc.\
-⦿ **Goka Mekkyaku** is much like Katon and should only be used on three+ targets and ideally within Doton. \
-⦿ **Death Blossom & Hakke** can be used on a group of three+ targets and ideally within Doton.\
-⦿ **Hellfrog Medium** should also be used on a group of three+ targets, with the exception when the Meisui buff is active. When Meisui is active, use Hellfrog over Bhavacakra on four+ targets.
+⦿ **Doton** does 80 potency per tick every three seconds, with one additional tick happening the moment you drop the Doton, for a total of seven ticks for 560 potency. At level 90, use Doton on three targets when they remain in it for the full duration.\
+⦿ **Katon** should only be used on three or more targets, and when Doton is placed, Hollow Nozuchi will be able to proc.\
+⦿ **Goka Mekkyaku** is much like Katon and should only be used on three or more targets and ideally within Doton. \
+⦿ **Death Blossom & Hakke** can be used on a group of three or more targets and ideally within Doton.\
+⦿ **Hellfrog Medium** should also be used on a group of three or more targets, with the exception when the Meisui buff is active. When Meisui is active, use Hellfrog over Bhavacakra on four+ targets.
 
 ## **Trick Attack and Mug Burst**
 
@@ -139,7 +139,7 @@ We have two versions of our Trick Attack burst, the odd (one minute, three minut
 
 ### Odd Trick
 
-This is a window that happens every odd minute or is better identified by its absence of 2-minute cooldowns. This window is easier to execute than the even window because there are a lot less abilities we will cram within the window. 
+This is a window that happens every odd minute or is better identified by its absence of two-minute cooldowns. This window is easier to execute than the even window because there are a lot less abilities we will cram within the window. 
 
 We should try to fit one Hyosho, two Raitons, two Raijus, Dream Within A Dream, and as many Bhavacakras as we have available. We will use our standard 1-2-3 combos with any extra time we have.
 
@@ -147,9 +147,12 @@ If Bunshin was used 45 seconds within an odd Trick window, and Phantom Kamaitach
 
 #### **Examples:**
 
+![](/img/jobs/nin/nininfographicwindows.png)
+
+\
 **[Infographic](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9078c445-96b1-45cc-87ea-5ed775a0a033/df0x5wf-e741c245-8ba6-4a65-bf82-6f3da7873152.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkwNzhjNDQ1LTk2YjEtNDVjYy04N2VhLTVlZDc3NWEwYTAzM1wvZGYweDV3Zi1lNzQxYzI0NS04YmE2LTRhNjUtYmY4Mi02ZjNkYTc4NzMxNTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.faU_p7GnOz_m_vxS5V8XW4tPnGSvcg6ugTRBwYukFf4)**
 
-This example uses Spinning Edge first, allowing us to sooner use Dream Within A Dream to mitigate drift. As we will have standard GCDs within Trick in odd windows regardless, it does not matter if we start the window off with a GCD:
+This example uses Spinning Edge first, allowing us to use Dream Within A Dream sooner to mitigate drift. As we will have standard GCDs within Trick in odd windows regardless, it does not matter if we start the window off with a GCD:
 
 ![](/img/jobs/nin/odd_1.png)
 
@@ -167,7 +170,7 @@ This is a window that occurs every even minute or is a window that has all our t
 
 As Mug is 20.50 seconds long and Trick is 15.77 seconds long, it is best that Mug is used before Trick to catch the entire duration. If Mug is used within Trick, we risk severe drifting of one or both oGCDs.
 
-We should try to fit one Hyosho, two Raitons, two Raijus, Dream Within A Dream, Ten-Chi-Jin, Meisui, and two to three Bhavacakras within Trick Attack. Optionally, Phantom Kamaitachi may be in a two minute window, but is situational (more explained below).
+We should try to fit one Hyosho, two Raitons, two Raijus, Dream Within A Dream, Ten-Chi-Jin, Meisui, and two to three Bhavacakras within Trick Attack. Optionally, Phantom Kamaitachi may be in a two minute window, but is situational (explained more below).
 
 Meanwhile, the allowance for Mug is one Trick Attack, one Hyosho, two Raitons, three Raijus + one to two additional GCDs, Dream Within A Dream, Ten-Chi-Jin, Meisui, and two to three Bhavacakras. If Mug is used as an early weave, you will only catch one additional GCD. If used as a mid to late weave, you will catch two additional GCDs. As Mug is a raid buff, it should not be used selfishly, so never purposely late weave and drift this oGCD (beyond alignment reasons).\
 **\
@@ -175,10 +178,10 @@ So how do we handle Phantom Kamaitachi?** 
 
 Easy, no thought answer: Just use it within even Trick every time if it was not used for a disengagement, except if Bunshin is active.
 
-**Situational answer** (that nobody asked for): 
+**Situational answer** (which nobody asked for): 
 
 ⦿ If Bunshin is active, never use Phantom Kamaitachi in an even Trick and save for Mug instead. \
-⦿ Note that Ninki generation, under very edge case situations, may throw these rules out the window.
+⦿ Note that Ninki generation under very edge case situations may throw these rules out the window.
 
 1. If Mug + Trick are woven together: Use Phantom in Trick Attack. As Mug is an early weave, you will catch three Raijus + Phantom Kamaitachi.
 2. If Mug is one GCD before Trick AND an early-mid weave: Use Phantom Kamaitachi as the GCD between Mug and Trick. If you attempt to use it in Trick, you will push a Raiju out of Mug which is worse.
@@ -186,11 +189,11 @@ Easy, no thought answer: Just use it within even Trick every time if it was not 
 
 #### **Examples:**
 
-**Note**: There are plenty of ways to execute an even/two minute Trick window, as long as the optimal amount of abilities are within the window. Below are some examples demonstrating the order I recommend. 
+**Note**: There are plenty of ways to execute an even/two minute Trick window, as long as the optimal number of abilities are within the window. Below are some examples demonstrating the order I recommend. 
 
 **\[Red bar = Trick ends, Orange bar = Mug ends]**
 
-In this example, Trick & Mug are one separated by one GCD. Phantom Kamaitachi is used between Trick and Mug, as Mug is an early weave. Thus, Mug ends after the 3rd Raiju. Trick window fits three Bhavas as we enter on 100 Ninki. Bunshin is **NOT** active here.
+In this example, Trick & Mug are one separated by one GCD. Phantom Kamaitachi (PK) is used between Trick and Mug, as Mug is an early weave. Thus, Mug ends after the 3rd Raiju. Trick window fits three Bhavas as we enter on 100 Ninki. Bunshin is **NOT** active here.
 
 ![](/img/jobs/nin/5.png)
 
@@ -202,7 +205,7 @@ An example where Mug is a late weave, meaning the allowance is three Raijus + tw
 
 ![](/img/jobs/nin/3.png)
 
-Another late woven Mug, but this time it is like our 6 minute window with Bunshin active. Phantom Kamaitachi is used right after Trick Attack. Mug still catches three Raijus, PK and an additional GCD. We have entered Trick at 80 Ninki here for three Bhavas.
+Another late woven Mug, but this time it is like our six minute window with Bunshin active. Phantom Kamaitachi is used right after Trick Attack. Mug still catches three Raijus, PK and an additional GCD. We have entered Trick at 80 Ninki here for three Bhavas.
 
 ![](/img/jobs/nin/2.png)
 
@@ -210,12 +213,12 @@ Another late woven Mug, but this time it is like our 6 minute window with Bunshi
 
 ### Downtime
 
-Handling downtime is rather simple on Ninja. Our filler rotation being flexible means that there is very little for us to do in terms of preparing for a segment where the boss is untargetable. Unless the downtime happens right before or during Trick, Ninja does well in handling downtime because our cooldowns will continue to tick down. This is why we do so well in fights with downtime; examples include E6S, E11S and E12S Phase Two. 
+Handling downtime is rather simple on Ninja. Our filler rotation being flexible means that there is very little for us to do in terms of preparing for a segment where the boss is untargetable. Unless the downtime happens right before or during Trick, Ninja does well handling downtime because our cooldowns will continue to tick down. This is why we do so well in fights with downtime; examples include E6S, E11S and E12S Phase Two. 
 
 **Notes:**
 
-* If we are to overcap mudra during downtime, use a ninjutsu before the boss is untargetable to avoid overcapping. 
-* Since preparing a ninjutsu takes time (one to two seconds), we can prepare a ninjutsu during downtime and promptly use it when the boss is targetable again. Such as, if Trick is to be ready within 20 seconds, we can Suiton or otherwise possibly use Raiton. By doing this, we may gain a GCD in the post-downtime phase. 
+* If we are going to overcap mudra during downtime, use a Ninjutsu before the boss is untargetable to avoid overcapping. 
+* Since preparing a Ninjutsu takes time (one to two seconds), we can prepare a Ninjutsu during downtime and promptly use it when the boss is targetable again. Such as, if Trick is to be ready within 20 seconds, we can Suiton or otherwise possibly use Raiton. By doing this, we may gain a GCD in the post-downtime phase. 
 
 Some fights (P2S notably) may have downtime that happens mid-Trick. Your options are to use Trick before or after the downtime segment. The decision comes down to two factors:
 
@@ -248,7 +251,7 @@ Positionals follow the same logic. It is better to use a GCD without hitting the
 
 ### Use Your Cooldowns
 
-A common mistake amongst new Ninjas is severely drifting oGCDs such as Trick Attack, Bunshin, Dream Within A Dream, etc. Unless you know that drifting or moving a cooldown won’t cost you a use or are expecting a certain kill time, then don’t do it. Due to the high-burst nature of the job, we’re reliant on our oGCDs and fitting damage into burst. Drifting your cooldowns may force you to lose a use or have your damage fall out of Trick Attack and/or other raid buffs. Every lost use of a cooldown or burst ability drifted out of buffs causes a significant loss to your personal damage.
+A common mistake among new Ninjas is severely drifting oGCDs such as Trick Attack, Bunshin, Dream Within A Dream, etc. Unless you know that drifting or moving a cooldown won’t cost you a use or are expecting a certain kill time, then don’t do it. Due to the high-burst nature of the job, we’re reliant on our oGCDs and fitting damage into burst. Drifting your cooldowns may force you to lose a use or have your damage fall out of Trick Attack and/or other raid buffs. Every lost use of a cooldown or burst ability drifted out of buffs causes a significant loss to your personal damage.
 
 ### What if my cooldowns become misaligned from Trick?
 
@@ -272,7 +275,7 @@ As one of the most flexible melee in terms of disconnecting from the boss, Ninja
 1. If Trick is to be off cooldown in 20 seconds, use Suiton to disengage. 
 2. If the disengage is within 45 seconds after using Bunshin, save Phantom Kamaitachi to keep your GCD rolling. 
 3. Use Raiton, even if that means one Raiton less in Trick. 
-4. Throwing Dagger
+4. Throwing Dagger.
 
 ### FAQ
 
@@ -286,7 +289,7 @@ The threshold is around ~40ms.
 
 **⦿ Should I always weave Trick late?**
 
-Only purposely weave Trick late in the opener. Anywhere else, use off cooldown as much as possible. Ideally, you do not drift this more than two seconds for a six to seven minute fight.  
+Only purposefully weave Trick late in the opener. Anywhere else, use on cooldown as much as possible. Ideally, you do not drift this more than two seconds for a six to seven minute fight.  
 
 **⦿ Should I save Bunshin for Trick, or use it on cooldown?**
 
