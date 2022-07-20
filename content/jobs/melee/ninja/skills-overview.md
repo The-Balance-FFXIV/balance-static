@@ -75,7 +75,7 @@ Delivers a lightning attack with a potency of 560. Grants 5 Ninki. Can only be u
 
 # Ninjutsus/Mudras (GCDs)
 
-Ninjutsu sets off a global cooldown of 1.5 seconds upon use, not reducible by Huton or skill speed, and each use of a ninjutsu will use up one ninjutsu charge. Mudras have a shared two charges, a charge time of 20 seconds per charge, and can only be started when a normal GCD could be started. Instead of a 2.5 or 1.5 second GCD, the mudras themselves only give a 0.5 second GCD. Using the first mudra will instantly consume a ninjutsu charge and grant a six-second buff. If a ninjutsu is not executed within these six seconds then the charge is lost. Inputting two of the same mudra in a combination, or using any other action while the buff is active (including Sprint, food, tinctures, role actions, Limit Break, etc.) will result in a Rabbit Medium, or "Bunny."
+Ninjutsu sets off a global cooldown of 1.5 seconds upon use, not reducible by Huton or skill speed, and each use of a Ninjutsu will use up one Ninjutsu charge. Mudras have a shared two charges, a charge time of 20 seconds per charge, and can only be started when a normal GCD could be started. Instead of a 2.5 or 1.5 second GCD, the mudras themselves only give a 0.5 second GCD. Using the first mudra will instantly consume a Ninjutsu charge and grant a six-second buff. If a Ninjutsu is not executed within these six seconds then the charge is lost. Inputting two of the same mudra in a combination, or using any other action while the buff is active (including Sprint, food, tinctures, role actions, Limit Break, etc.) will result in a Rabbit Medium, or "Bunny."
 
 ![Ten](https://xivapi.com/i/002000/002901_hr1.png)\
 **Ten**
@@ -95,7 +95,7 @@ Make the ritual mudra hand gesture for “man.”
 ![FumaShuriken](https://xivapi.com/i/002000/002907_hr1.png)\
 **Fuma Shuriken**
 
-Delivers a ranged ninjutsu attack with a potency of 450. This is achieved with any single mudra use. Has a range of 25 yalms.
+Delivers a ranged Ninjutsu attack with a potency of 450. This is achieved with any single mudra use. Has a range of 25 yalms.
 
 ![Raiton](https://xivapi.com/i/002000/002912_hr1.png)\
 **Raiton**
@@ -120,7 +120,7 @@ Reduces weaponskill recast time and auto-attack delay by 15%. Starts with a dura
 ![Doton](https://xivapi.com/i/002000/002911_hr1.png)\
 **Doton**  
 
-Creates a patch of corrupted earth that acts like a stationary Damage over Time (DoT) and deals 80 potency to enemies within it, as well as 80 potency to anyone in the AoE as it is created. Also applies a 40% heavy on enemies in the AoE which lasts for 18 seconds, resulting in 480 total potency, and a combined potency of 560 altogether. This is achieved by any three-mudra combination ending in Chi, such as Ten > Jin > Chi or Jin > Ten > Chi. The AoE has a radius of five yalms.
+Creates a patch of corrupted earth that acts like a stationary Damage over Time (DoT) and deals 80 potency to enemies within it, as well as 80 potency to any enemies in the AoE as it is created. Also applies a 40% heavy on enemies in the AoE which lasts for 18 seconds, resulting in 480 total potency, and a combined potency of 560 altogether. This is achieved by any three-mudra combination ending in Chi, such as Ten > Jin > Chi or Jin > Ten > Chi. The AoE has a radius of five yalms.
 
 ![Suiton](https://xivapi.com/i/002000/002913_hr1.png)\
 **Suiton**
@@ -141,7 +141,7 @@ Deals ice damage with a potency of 1300. This is achieved with any two-mudra com
 
 **Rabbit Medium ("Bunny")**
 
-This ninjutsu does no damage and has no effect aside from spawning a small rabbit on the player's head. It still triggers the 1.5 second recast like all other ninjutsu.
+This Ninjutsu does no damage and has no effect aside from spawning a small rabbit on the player's head. It still triggers the 1.5 second recast like all other Ninjutsu.
 
 # Regular Abilities (oGCDs)
 
@@ -160,7 +160,7 @@ Delivers an attack with a potency of 300, or 400 if done from the target enemy's
 ![Kassatsu](https://xivapi.com/i/002000/002906_hr1.png)\
 **Kassatsu**
 
-Allows the use of a single ninjutsu without consuming a mudra charge. In addition, it increases the damage of the ninjutsu used during this buff by 30%. This buff allows you to use Hyosho Ranryu and Goka Mekkyaku. The damage buff also applies to Goka Mekkyaku and Hyosho Ranryu. This buff has a duration of 15 seconds and is lost upon the use of the next ninjutsu or the timer running out. This ability has a personal cooldown of 60 seconds. 
+Allows the use of a single Ninjutsu without consuming a mudra charge. In addition, it increases the damage of the Ninjutsu used during this buff by 30%. This buff allows you to use Hyosho Ranryu and Goka Mekkyaku. The damage buff also applies to Goka Mekkyaku and Hyosho Ranryu. This buff has a duration of 15 seconds and is lost upon the use of the next ninjutsu or the timer running out. This ability has a personal cooldown of 60 seconds. 
 
 ![DreamWithinADream](https://xivapi.com/i/002000/002918_hr1.png)\
 **Dream Within A Dream**
@@ -170,7 +170,7 @@ Delivers a three-hit attack, with each attack hitting for 150 potency for a tota
 ![TenChiJin](https://xivapi.com/i/002000/002922_hr1.png)\
 **Ten Chi Jin (TCJ)**
 
-Temporarily converts each of the three mudra into a ninjutsu action. Executing one of these actions will convert the remaining mudra into different ninjutsu actions until either all three have been executed or the Ten Chi Jin effect expires. You can only use ninjutsu during this, and the same ninjutsu cannot be executed twice. This ability cannot be activated while under the effects of Kassatsu. This effect ends upon moving. This effect has a duration of six seconds. In essence, this allows you to use one one-step ninjutsu, one two-step ninjutsu, and one three-step ninjutsu in a row. Common uses are Fuma > Raiton > Suiton, Fuma > Katon > Doton, and Fuma > Katon > Suiton. Using Raiton under TCJ will still grant Raiju Ready as normal. This ability has a personal cooldown of 120 seconds.
+Temporarily converts each of the three mudra into a Ninjutsu action. Executing one of these actions will convert the remaining mudra into different Ninjutsu actions until either all three have been executed or the Ten Chi Jin effect expires. You can only use Ninjutsu during this, and the same Ninjutsu cannot be executed twice. This ability cannot be activated while under the effects of Kassatsu. This effect ends upon moving. This effect has a duration of six seconds. In essence, this allows you to use one one-step Ninjutsu, one two-step Ninjutsu, and one three-step Ninjutsu in a row. Common uses are Fuma > Raiton > Suiton, Fuma > Katon > Doton, and Fuma > Katon > Suiton. Using Raiton under TCJ will still grant Raiju Ready as normal. This ability has a personal cooldown of 120 seconds.
 
 ![Meisui](https://xivapi.com/i/002000/002924_hr1.png)\
 **Meisui**
@@ -204,7 +204,7 @@ Damage from Bunshin counts as pet damage, so it is roughly 2% less potency than 
 
 # Utility Abilities (oGCDs)
 
-These are oGCDs that don’t deal damage, so they aren’t necessarily used on cooldown. Instead, they are used more when specifically needed.
+These are oGCDs which don’t deal damage, so they aren’t necessarily used on cooldown. Instead, they are used when specifically needed.
 
 ![ShadeShift](https://xivapi.com/i/000000/000607_hr1.png)\
 **Shade Shift**
@@ -219,7 +219,7 @@ Blend in with your surroundings, making it impossible for most enemies to detect
 ![Shukuchi](https://xivapi.com/i/002000/002905_hr1.png)\
 **Shukuchi**
 
-Moves you quickly to a target location chosen by you. Has two charges. Has a charge time of 60 seconds per charge, but a charge is also granted by the use of a two-mudra ninjutsu. Has a range of 20 yalms.
+Moves you quickly to a target location chosen by you. Has two charges. Has a charge time of 60 seconds per charge, but a charge is also granted by the use of a two-mudra Ninjutsu. Has a range of 20 yalms.
 
 ![SecondWind](https://xivapi.com/i/000000/000821_hr1.png)\
 **Second Wind**
