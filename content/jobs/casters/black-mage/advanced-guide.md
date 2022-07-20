@@ -167,7 +167,7 @@ Unless specified, the blank white GCDs in this guide refer to T3P and Xenoglossy
 
 Swift and Triple can be weaved to facilitate casts during the fire phase. When a Despair is instant cast, it can substitute as the first instant GCD into Umbral Ice. Example 4xF4 Transpose with Swift and Triplecast used. 
 
-![](https://lh5.googleusercontent.com/dzvAh_Be6Zr66jdyvT_fPm_srgbBdjfE4HorJUCjdrslywZ9Kx609VfejVNFMAe1g9q0fHgAEJWKVQJOT2G_JlfyqV7SIIM9KGpk27vtjPCkRhsLUQdi0okpme6rUJpoNvPsC177)
+![](/img/jobs/blm/asdfa.png)
 
 In many Transpose lines, the middle filler can be used to hardcast refresh Thunder. One tick before the Thunder cast is needed as a hardcast Thunder has a cost of 400 MP. Beware of how this MP cost interacts with the MP requirement and generation of the line. There should be an instant cast before the hardcast Thunder for the first Transpose, and another instant after the hardcast Thunder if it is a Double Transpose. 
 
@@ -271,78 +271,6 @@ Same concept as AF1 HF2 Double Flare, but with more targets in mind. At a higher
 
 # Intermediate
 
-## F3P Concepts
-
-### F3P producer and F3P consumer lines
-
-Lines can be categorized into whether they are able to produce a F3P, or consume a F3P. Examples of F3P producers include Standard and Double Paradox, and F3P consumers include all of the F3P Transpose lines previously discussed. Some lines neither produce nor consume a F3P, and some lines can produce as well as consume F3Ps. Another way to conceptualize this is to treat lines as F3P plus, F3P neutral, or F3P minus. Some of the strongest lines are F3P minus lines: these lines consume a F3P and must be paired with a F3P plus line in order to be looped. 
-
-This concept has several applications. For one, it is less ideal to end a phase or fight on a F3P producing line, as that F3P that could be used to enable a strong line is now wasted. In addition, this also plays a factor in line lengths. Imagine two F3P producing lines with the same PPS but have different lengths. The shorter line would then be stronger as it can enable F3P lines more frequently. Finally, when evaluating a line’s strength, its capability of producing a F3P must also be considered. 
-
-### Evaluating F3P lines
-
-When looking at F3P lines on their own, they seem to have ridiculously high PPS. While this is true, it doesn’t paint the whole picture of their strength. Keep in mind that F3P lines are F3P consumers. In order to obtain a F3P line, we must first go through a F3P plus line, and F3P lines should be evaluated alongside F3P producing lines. Within the F3P line, we can either rely on the natural proc rate, or use a Sharpcast. Whichever option we choose, there are additional costs associated with F3P lines that reduce their effectiveness. It is important to consider the management of these resources when evaluating if the gain in DPS is worth it. 
-
-### Variation as a result of F3P lines
-
-Unlike the singular GCD of a F3P, F3P lines are done across a sequence of casts. This means whether a F3P procs or not can vary the rotation by some 10-20 seconds. This is a huge variance when aiming to align with mechanics and phases, and manipulating this variance can be challenging. For this reason, it may be preferred to choose a line without such variation, such as Sharpcasting a Standard line, over relying on the proc chance of a F3P producing line such as Double Paradox. 
-
-## Double Paradox
-
-![](https://lh3.googleusercontent.com/lH5xOpG2lJ4v7S57mFPIpgbZi40eHS4pm6Y-Tn5n7mccg5TGRe_HraUIRmudqwvfwzWX260cTL1DumrNFcfa9nlAO1ORJ96Yu8BJ5-xXE2Iw7OaZxCG8NShOFMojF7FlIZFu4Gh2)
-
-Paradox has the unique property of being unaffected by AF and UI multipliers while giving a AF/UI stack. With Transpose, we can use Paradox to obtain AF2 without losing any value. We can then continue the fire phase in various ways. 
-
-### Double Paradox 4xF4 \[N15]
-
-![](https://lh3.googleusercontent.com/-4e_hP0zKrxreppJatMSfjXSeS2W7Tnin08NK_k4b-Mg42szqinYNdOGcWhV3pD2J-yBJLl7KSotfpAeQ_WSVoWIeYrSvo4LhPtmupAy2SVOymNrxrjugzEH0l_8dc4vTOQvY0oa)
-
-From AF2 after Paradox, a F1 is used to obtain AF3. Two F4s are sacrificed to trade an AF2 F1 in place of a weak UI3 F3. Overall, this line is about 0.6% lower in PPS compared to standard. However, this does not paint the whole picture. Recall that F3Ps are highly potent and enable strong lines. Compared to Standard’s mere 40% chance of proccing a F3P, this line has a 64% chance of proccing a F3P. The F3P can then be used in F3P lines. With the consideration of F3P lines, this results in an overall higher gain from this line than Standard. 
-
-The strength of Double Paradox comes from its prospect of producing a F3P. If the first Paradox yields a F3P and we intend on using the F3P for a F3P line, then the F1’s chance of proccing F3P is ignored. Variations of other F3P usage are discussed below. Due to the large amount of hardcasts in the fire phase without filler space after the F1, this line requires a long period of stillness, which often makes it less effective than Standard.
-
-**4xF4 Double Paradox + 3xF4 Double Transpose F3P \[N82]**
-
-![](https://lh5.googleusercontent.com/XzE6Dn-zorEuFk9ajIFK9AeMq6Mx-gs9GE3Uoplec6p7hzo_nXBlOxoq-wQY20pHQ0UjImiO2VUBAkpN7l1Op3SEwmGOz_GVLMO9zysgzeglJ_OPnpTXQwNwNf8F5qxXckTcadHm)
-
-Compared to the average gain of 1.6% when Standard is combined with 3xF4 Double Transpose F3P, Double Paradox 4xF4 yields a 2.0% gain when combined with this F3P line. 
-
-**Double Paradox AF2 F4 variation \[N16.1]**
-
-![](https://lh4.googleusercontent.com/DCQaT2bnAZBv4qdq0FmPiQNV9YhJ6sXFbIOnmoLPYRTP_GKF8CkLaDcIR7-Zd_gJFKkK4uKvDpfOZC50BK1OvGi3XveZRQ6lmBX6GxHsPISogBDTDZXHe-raqFXwpf8KOCZ8_ct1)
-
-Uses F1’s refresh to enable one more F4 under AF2. The AF2 F4 makes it very slightly higher in PPS at a longer line length. As the gain of Double Paradox is from the high proc rate for strong F3Ps, when F3P lines are considered, this line is overall slightly lower with the AF2 F4 compared to Double Paradox without it.
-
-**4xF4 Double Paradox F3P F4 variation \[N17]**
-
-![](https://lh4.googleusercontent.com/CAuw7Jl2WNBrHtikyCLdHVVmacQa3Cw77kGlNRn-2bP_vZ0FZQDyB6l45nmD8or3AKvTk43GJBh8uIuzbB3mXuDOc4O0xeuCqWm7Toe9gIlD1MXtOA7N3KcKDIlnuUB47Sk9rjbt)
-
-Another use of the F3P is to grant an extra F4. This line by itself is about 0.2% stronger than standard, but also weaker when F3P lines are factored. 
-
-**5xF4 Double Paradox \[N19]**
-
-![](https://lh3.googleusercontent.com/5CmjTlx4kOSvheeYN59dNtDv0fQJZxWWmrM6c1Z-F5osehJaCK9sMKgpYCQHjPkWnaVp_OmHd1WECz7Dr_KVLhVWW83eVwKz2pQ1sQ0tGZQINIld716MLyB5Cxk8Bf0K_Qtq5GQ5)
-
-Gaining an additional F4 under LL while still keeping the high F3P proc rate. This line is 0.6% stronger than Standard and is preferred over Standard during LL. 
-
-### AF1 Paradox reopener \[N129]
-
-![](https://lh4.googleusercontent.com/v8ahAwXg0D_sJF42_m_ZPgk9HaGA1Gj1shtPJgl3YVFXhZd97sQfW0XFf99bru4TzWXF6Kodp5-WiBjhi_yWgQfZFfSxlv37tqVccMaZWth4Cg0qEbycc7L-Q7meJOnv5d4M2iYl)
-
-The concept of Double Paradox can be extended to reopeners. Instead of starting in UI3 and casting a weak F3, we can instead start in AF1 and reach AF3 with Paradox and F1. 
-
-![](https://lh5.googleusercontent.com/qRooy1461c63KXr7I-JOYW06U-eS1s7wtEsbYTx155V27orER57erYSViE5cyQzvIe9ai6dikpx770dH3AI3IEMrhogsu6J-SFi99s2OP-q4fM11hQzOiWMvwv3fNJEgIV9Kmesy)
-
-If the UI Paradox is available (reminder that during long actionable downtime, obtaining the UI Paradox is guaranteed), we can use it before Transposing to AF. 
-
-![](https://lh5.googleusercontent.com/pQkagj2xm1rWrK9kknmrZjEla7udLyaacSr4C2I0FiMmR34Hl45N0H02Yp0vvFTn0jlpbWdnMEEQhAqKFjVvlAJ6RYytXw5nT6NbVSyv_AyqmSknwSGb0mncojesCRKe4ambGPjp)
-
-Sharp and Triple can be used to upgrade the AF2 F1 to an AF2 F3P while still keeping four F4s. Note that it might be better to save the F3P for a F3P line afterwards. 
-
-![](https://lh5.googleusercontent.com/MJ-FS12wrNT60KmCiidD_UdZhVpk8lTeHSW85vAelwx67_KyoTxK4gjoyeoORVkFeTuj--WNHRZ2fTBwKYspv6Tt9UUCHefi-SaLe6l4hiJhuMiT8Vw8KsVNEGRD1J_r0zVasug_)
-
-With LL and Triple, we can acquire an additional F4 for 5xF4. A minimum of 2.36 GCD or 1117 SpS is required, with more SpS recommended for leniency.
-
 ## Transpose Instant F3
 
 In addition to using F3P with Transpose, we can also utilize Swift and Triple to instant cast the F3. Doing so has the opportunity cost of not using them on F4 or Despair, but does not require a F3P producing line to yield an instant F3. In the comparisons below, Swift and Triple usage are compared to a Standard line where they are used on Despair and F4s.
@@ -414,6 +342,78 @@ Slightly stronger than 4xF4 Transpose instant F3. Xeno can be used during UI to 
 ![](https://lh4.googleusercontent.com/KZ5oefyYSEC-dASY7WaYPyWEhxUI0SXpMzDJ7JtBSTGo8MuGoVGsRgs859NRECBnTZBWh3N9Fqfc94iLoa8FHC-wtr2lWlhtgLCtvSJUp7yI4aO6HO_8toixbFMKB2_WnYHGUeKD)
 
 A long opener that utilizes the strong Double Transpose F3P line. It is about equal in strength compared to the 4xF4 Transpose with instant F3 variation, but aligns worse with buffs and requires a much longer period of stillness. This opener can be useful for alignment reasons. In addition, it is worth noting that opening with B3 and B4 only serves the purpose of enabling a Double Transpose F3P line, and any B3 openers without the F3P line are otherwise worse than F3 openers. 
+
+## Double Paradox
+
+![](https://lh3.googleusercontent.com/lH5xOpG2lJ4v7S57mFPIpgbZi40eHS4pm6Y-Tn5n7mccg5TGRe_HraUIRmudqwvfwzWX260cTL1DumrNFcfa9nlAO1ORJ96Yu8BJ5-xXE2Iw7OaZxCG8NShOFMojF7FlIZFu4Gh2)
+
+Paradox has the unique property of being unaffected by AF and UI multipliers while giving a AF/UI stack. With Transpose, we can use Paradox to obtain AF2 without losing any value. We can then continue the fire phase in various ways. 
+
+### Double Paradox 4xF4 \[N15]
+
+![](https://lh3.googleusercontent.com/-4e_hP0zKrxreppJatMSfjXSeS2W7Tnin08NK_k4b-Mg42szqinYNdOGcWhV3pD2J-yBJLl7KSotfpAeQ_WSVoWIeYrSvo4LhPtmupAy2SVOymNrxrjugzEH0l_8dc4vTOQvY0oa)
+
+From AF2 after Paradox, a F1 is used to obtain AF3. Two F4s are sacrificed to trade an AF2 F1 in place of a weak UI3 F3. Overall, this line is about 0.6% lower in PPS compared to standard. However, this does not paint the whole picture. Recall that F3Ps are highly potent and enable strong lines. Compared to Standard’s mere 40% chance of proccing a F3P, this line has a 64% chance of proccing a F3P. The F3P can then be used in F3P lines. With the consideration of F3P lines, this results in an overall higher gain from this line than Standard. 
+
+The strength of Double Paradox comes from its prospect of producing a F3P. If the first Paradox yields a F3P and we intend on using the F3P for a F3P line, then the F1’s chance of proccing F3P is ignored. Variations of other F3P usage are discussed below. Due to the large amount of hardcasts in the fire phase without filler space after the F1, this line requires a long period of stillness, which often makes it less effective than Standard.
+
+**4xF4 Double Paradox + 3xF4 Double Transpose F3P \[N82]**
+
+![](https://lh5.googleusercontent.com/XzE6Dn-zorEuFk9ajIFK9AeMq6Mx-gs9GE3Uoplec6p7hzo_nXBlOxoq-wQY20pHQ0UjImiO2VUBAkpN7l1Op3SEwmGOz_GVLMO9zysgzeglJ_OPnpTXQwNwNf8F5qxXckTcadHm)
+
+Compared to the average gain of 1.6% when Standard is combined with 3xF4 Double Transpose F3P, Double Paradox 4xF4 yields a 2.0% gain when combined with this F3P line. 
+
+**Double Paradox AF2 F4 variation \[N16.1]**
+
+![](https://lh4.googleusercontent.com/DCQaT2bnAZBv4qdq0FmPiQNV9YhJ6sXFbIOnmoLPYRTP_GKF8CkLaDcIR7-Zd_gJFKkK4uKvDpfOZC50BK1OvGi3XveZRQ6lmBX6GxHsPISogBDTDZXHe-raqFXwpf8KOCZ8_ct1)
+
+Uses F1’s refresh to enable one more F4 under AF2. The AF2 F4 makes it very slightly higher in PPS at a longer line length. As the gain of Double Paradox is from the high proc rate for strong F3Ps, when F3P lines are considered, this line is overall slightly lower with the AF2 F4 compared to Double Paradox without it.
+
+**4xF4 Double Paradox F3P F4 variation \[N17]**
+
+![](https://lh4.googleusercontent.com/CAuw7Jl2WNBrHtikyCLdHVVmacQa3Cw77kGlNRn-2bP_vZ0FZQDyB6l45nmD8or3AKvTk43GJBh8uIuzbB3mXuDOc4O0xeuCqWm7Toe9gIlD1MXtOA7N3KcKDIlnuUB47Sk9rjbt)
+
+Another use of the F3P is to grant an extra F4. This line by itself is about 0.2% stronger than standard, but also weaker when F3P lines are factored. 
+
+**5xF4 Double Paradox \[N19]**
+
+![](https://lh3.googleusercontent.com/5CmjTlx4kOSvheeYN59dNtDv0fQJZxWWmrM6c1Z-F5osehJaCK9sMKgpYCQHjPkWnaVp_OmHd1WECz7Dr_KVLhVWW83eVwKz2pQ1sQ0tGZQINIld716MLyB5Cxk8Bf0K_Qtq5GQ5)
+
+Gaining an additional F4 under LL while still keeping the high F3P proc rate. This line is 0.6% stronger than Standard and is preferred over Standard during LL. 
+
+### AF1 Paradox reopener \[N129]
+
+![](https://lh4.googleusercontent.com/v8ahAwXg0D_sJF42_m_ZPgk9HaGA1Gj1shtPJgl3YVFXhZd97sQfW0XFf99bru4TzWXF6Kodp5-WiBjhi_yWgQfZFfSxlv37tqVccMaZWth4Cg0qEbycc7L-Q7meJOnv5d4M2iYl)
+
+The concept of Double Paradox can be extended to reopeners. Instead of starting in UI3 and casting a weak F3, we can instead start in AF1 and reach AF3 with Paradox and F1. 
+
+![](https://lh5.googleusercontent.com/qRooy1461c63KXr7I-JOYW06U-eS1s7wtEsbYTx155V27orER57erYSViE5cyQzvIe9ai6dikpx770dH3AI3IEMrhogsu6J-SFi99s2OP-q4fM11hQzOiWMvwv3fNJEgIV9Kmesy)
+
+If the UI Paradox is available (reminder that during long actionable downtime, obtaining the UI Paradox is guaranteed), we can use it before Transposing to AF. 
+
+![](https://lh5.googleusercontent.com/pQkagj2xm1rWrK9kknmrZjEla7udLyaacSr4C2I0FiMmR34Hl45N0H02Yp0vvFTn0jlpbWdnMEEQhAqKFjVvlAJ6RYytXw5nT6NbVSyv_AyqmSknwSGb0mncojesCRKe4ambGPjp)
+
+Sharp and Triple can be used to upgrade the AF2 F1 to an AF2 F3P while still keeping four F4s. Note that it might be better to save the F3P for a F3P line afterwards. 
+
+![](https://lh5.googleusercontent.com/MJ-FS12wrNT60KmCiidD_UdZhVpk8lTeHSW85vAelwx67_KyoTxK4gjoyeoORVkFeTuj--WNHRZ2fTBwKYspv6Tt9UUCHefi-SaLe6l4hiJhuMiT8Vw8KsVNEGRD1J_r0zVasug_)
+
+With LL and Triple, we can acquire an additional F4 for 5xF4. A minimum of 2.36 GCD or 1117 SpS is required, with more SpS recommended for leniency.
+
+## F3P Concepts
+
+### F3P producer and F3P consumer lines
+
+Lines can be categorized into whether they are able to produce a F3P, or consume a F3P. Examples of F3P producers include Standard and Double Paradox, and F3P consumers include all of the F3P Transpose lines previously discussed. Some lines neither produce nor consume a F3P, and some lines can produce as well as consume F3Ps. Another way to conceptualize this is to treat lines as F3P plus, F3P neutral, or F3P minus. Some of the strongest lines are F3P minus lines: these lines consume a F3P and must be paired with a F3P plus line in order to be looped. 
+
+This concept has several applications. For one, it is less ideal to end a phase or fight on a F3P producing line, as that F3P that could be used to enable a strong line is now wasted. In addition, this also plays a factor in line lengths. Imagine two F3P producing lines with the same PPS but have different lengths. The shorter line would then be stronger as it can enable F3P lines more frequently. Finally, when evaluating a line’s strength, its capability of producing a F3P must also be considered. 
+
+### Evaluating F3P lines
+
+When looking at F3P lines on their own, they seem to have ridiculously high PPS. While this is true, it doesn’t paint the whole picture of their strength. Keep in mind that F3P lines are F3P consumers. In order to obtain a F3P line, we must first go through a F3P plus line, and F3P lines should be evaluated alongside F3P producing lines. Within the F3P line, we can either rely on the natural proc rate, or use a Sharpcast. Whichever option we choose, there are additional costs associated with F3P lines that reduce their effectiveness. It is important to consider the management of these resources when evaluating if the gain in DPS is worth it. 
+
+### Variation as a result of F3P lines
+
+Unlike the singular GCD of a F3P, F3P lines are done across a sequence of casts. This means whether a F3P procs or not can vary the rotation by some 10-20 seconds. This is a huge variance when aiming to align with mechanics and phases, and manipulating this variance can be challenging. For this reason, it may be preferred to choose a line without such variation, such as Sharpcasting a Standard line, over relying on the proc chance of a F3P producing line such as Double Paradox. 
 
 ## Additional Double Transpose Lines
 
@@ -585,11 +585,13 @@ Sharpcast at -18 seconds. 1:53 in length, 2.32 GCD. The last 3xF4 Double Transpo
 
 It’s possible for opener sequences to be much longer than what is shown. The limitation to how long a dummy opener sequence can be planned comes from the variance in T3 and F3 procs. The exact tick timing and optimal sequence not only depends on the fight’s mechanics and timeline, but also on the individual player’s spell speed and ping. It’s up to you to figure out what is possible and optimal.
 
-**Example Endwalker 1st extreme trial phase one + adds (spoiler alert)**
+**Example Endwalker P2S opener sequence** 
 
-<https://xivanalysis.com/fflogs/kPMvgNx1tHa3XdKf/2/1> 
+<https://i.imgur.com/MF4Dpar.png> 
 
-Unfortunately I updated this sequence late into my ex runs and didn’t have a run with it. This will be replaced by Pandaemonium sequences. No MP tick trigger was used when making this sequence. With an MP trigger, undoubtedly a better sequence can be made. 
+<https://xivanalysis.com/fflogs/G6PA4X8LQtKCaMhp/21/1> 
+
+Up until the first frozen wave push. 3 minutes 5 seconds in length.
 
 ### Sequence branching
 
@@ -662,6 +664,18 @@ This must be a Double Transpose to be a gain. One or more F4s can be cast before
 ![](https://lh5.googleusercontent.com/WDv3YwjyKsSOa-x8VXt4aWV6rU6dUI3e88yGbLO8gZ780gw1JzSPECuT4SlLUzu-FD0h-jX_eEtT3jP6jmJxXrkzASZDKTFnXnqIJDpI-nYJR5j9jGZ4osM_YblVsJQ4PFJFolnt)
 
 Example Triple Transpose finisher. 
+
+### Rushing Sharpcast during opener 
+
+There may be times when specific timings of Sharpcasts are required and having Sharpcast available sooner is beneficial. We can look to prioritize Sharpcast and use it earlier prepull as well as in the opener. 
+
+![](https://lh4.googleusercontent.com/5sYIVMVJNYfp5Urwy6TOQo3v_gqamGfiXGx3ZQR0XJEsAzbkA8FUHKNtSOtpIA49NfV7yVizGH3XGi27T-Nj3RuuqwwI8VLsoHmYVnwNOMclD9DWc6nBwVtCPtC-5v5HG2hRv-rJYoxCBinSnA)
+
+Sharpcast used at ~21 seconds prepull. 
+
+![](https://lh3.googleusercontent.com/xd4d4CstEvv0DDH5ZOlyvwx-FYKvceAZVv8sRL_1SCI93o9IB9CiXgFjaL5_m2OI08heBO1_u22DbPBFt684qrTGM1fgqX1UgVeJsb246BBBMvMKBiIy2xTIiw0Zsjh71wp5O0JONNKvpN6LhQ)
+
+Sharpcast double weaved with pot in an extreme case. Not recommended for players with high ping. Sharpcast used at ~23 seconds prepull.
 
 ## Tracking Filler Skips with Triggers
 
