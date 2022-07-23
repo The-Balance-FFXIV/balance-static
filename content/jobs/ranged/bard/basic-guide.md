@@ -19,7 +19,7 @@ This is a basic introduction to level 90 Bard. It will not go into many nuances,
 
 If you're looking for such information, you may find it in one of the dedicated guides below: 
 
-- **Leveling Guide** (not yet available)
+- [Leveling Guide](/jobs/ranged/bard/leveling-guide/)
 - [Skills Overview](/jobs/ranged/bard/skills-overview/)
 - [Gearing](/jobs/ranged/bard/best-in-slot)
 - [Frequently Asked Questions](/jobs/ranged/bard/faq/)
