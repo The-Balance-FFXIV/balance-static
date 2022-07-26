@@ -36,9 +36,9 @@ The Paladin rotation revolves around its two main buffs: Fight or Flight, which 
 
 There are a few key concepts that are fundamental to the game and carry over between jobs.
 
-* Keeping your GCD on cooldown is one of the most important parts of playing any job. Pressing something wrong is almost always better than pressing nothing at all.
-* As a primarily melee job, it's important to know how to keep melee uptime on the boss. This includes knowing when mechanics snapshot and where you can greed for extra GCDs before and after disengaging for mechanics.
-* Keep oGCDs on cooldown. Damaging oGCDs should be used roughly as they come off cooldown, as long as using them wouldn't delay your next GCD due to animation lock.
+* Keeping your Global Cooldown (GCD) on cooldown is one of the most important parts of playing any job. Pressing something wrong is almost always better than pressing nothing at all.
+* As a primarily melee job, it is important to know how to keep melee uptime on the boss. This includes knowing when mechanics snapshot and where you can greed for extra GCDs before and after disengaging for mechanics.
+* Keep off-Global Cooldowns (oGCDs) on cooldown. Damaging oGCDs should be used roughly as they come off cooldown, as long as using them does not delay your next GCD due to animation lock.
 
 ## The Rotation
 
@@ -47,7 +47,7 @@ There are a few key concepts that are fundamental to the game and carry over bet
 Goals for the opener include:
 
 * Apply Goring Blade early
-* Use damaging off-global cooldowns (oGCDs) inside tincture and raid-buff windows. Most raid-buffs will come out shortly before the 4th GCD).
+* Use damaging oGCDs inside tincture and raid-buff windows. Most raid-buffs will come out shortly before the 4th GCD).
 
 ![Standard Opener for Paladin](/img/jobs/pld/61-fullfof.png)
 
@@ -64,7 +64,7 @@ At high latency, if double weaves would cause your GCD to clip, move oGCDs aroun
 
 **Opener notes:**  
 
-* We pull with a precast Holy Spirit as a medium-potency GCD that only costs half a GCD (due to precasting). Pulling with Shield Lob would be less potency and starts the GCD rolling later while pulling with Intervene moves an Intervene out of Fight or Flight.
+* We pull with a precast Holy Spirit as a medium-potency GCD that only costs half a GCD (due to precasting). Pulling with Shield Lob would be less potency and starts the GCD rolling later, while pulling with Intervene moves an Intervene out of Fight or Flight.
 * Since the Requiescat oGCD itself does damage, and the Requiescat buff lasts for a long time, we use Requiescat early in the opener to put it under raid buffs like Bard's Battle Voice or Dancer's Technical Finish.
 
 ### Rotation Loop
@@ -95,7 +95,7 @@ Each Fight or Flight window should also contain one Circle of Scorn and one Expi
 
 * At three or more targets, replace single target melee combos with Total Eclipse and Prominence.
 * At two or more targets, replace Holy Spirit with Holy Circle
-* In dungeons use Requiescat before Fight or Flight, since it is stronger in multi-target situations
+* In dungeons, use Requiescat before Fight or Flight, since it is stronger in multi-target situations
 
 For prolonged two-target encounters (rarely found outside of Ultimate raids), see the Advanced Guide (Coming Soon!) for more information.
 
