@@ -107,7 +107,7 @@ Divine Veil provides a party-wide shield and heal (excluding yourself) after bei
 
 ![Passage of Arms](https://xiv.sleepyshiba.com/pld/assets/skill-passageofarms.png)
 
-Passage of Arms applies a buff to all party members behind you, granting them a 15% reduction in damage taken. The buff lingers for five seconds after you cancel it, so the most common use-case is flashing it onto the party before high raid-wide damage.
+Passage of Arms applies a buff to all party members behind you, granting them a 15% reduction in damage taken. The buff lingers for five seconds after you cancel it, so the most common use case is flashing it onto the party before high raid-wide damage.
 
 ![Intervention](https://xiv.sleepyshiba.com/pld/assets/skill-intervention.png)
 
@@ -207,9 +207,9 @@ FFXIV macros do not queue, so hitting a macro while in animation lock from anoth
 
 ## Further Reading
 
-For high-end optimization concepts, see the Advanced Guide (Coming Soon!)
+For high-end optimization concepts, see the Advanced Guide (Coming Soon!).
 
-For fight-specific optimizations, see the Encounter Optimization Guide (Coming Soon!)
+For fight-specific optimizations, see the Encounter Optimization Guide (Coming Soon!).
 
 ### Stats and Itemization
 
@@ -264,4 +264,4 @@ The Paladin rotation is functional at almost all skill speeds. The only requirem
 
 Outside of high-end optimization, choice of skill speed has little impact on the Paladin rotation, and can be chosen for comfort (faster speeds are more forgiving and latency-friendly for fitting 11 GCDs into FoF).
 
-In optimization, each encounter must be considered separately to determine how many GCDs are gained or lost by different skill speeds, as well as lining up the GCD with any melee disengages. In general, the slowest speed that doesn't lose any major GCDs within a phase will be the strongest choice.
+In optimization, each encounter must be considered separately to determine how many GCDs are gained or lost by different skill speeds, as well as to line up the GCD with any melee disengages. In general, the slowest speed that doesn't lose any major GCDs within a phase will be the strongest choice.
