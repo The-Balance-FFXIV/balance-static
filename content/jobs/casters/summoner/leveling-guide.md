@@ -58,9 +58,7 @@ Level 15 will unlock your second special summon, with Summon Topaz. Activating 
 \
 Topaz Ruin will also be made available when Summon Topaz is activated.\
 \
-From this point you’ll now have 2 special summons to play with, allowing you chain Summon Ruby and Summon Topaz consecutively once their arcanum is made available.\
-\
-\
+From this point you’ll now have 2 special summons to play with, allowing you chain Summon Ruby and Summon Topaz consecutively once their arcanum is made available.
 
 ### Quick Rotation Goals:
 
@@ -128,7 +126,7 @@ Level 45 will then introduce the third primal upgrade, with Summon Emerald trans
 
 With all of your summons now upgraded, remember that this does not change the core of your rotation in any way. Upgraded summons just provide additional damage with their ultimate abilities, elemental attunement will remain consistent.  
 
-\
+
 
 ### Quick Rotation Goals:
 
@@ -162,7 +160,7 @@ Outburst will temporarily transform into Astral Flare.
 
 Astral Flow will be introduced at Level 60. Astral Flow is a unique ability, providing a special ability throughout the duration of your trance or primal summon. At Level 60, you’ll have access to your first Astral Flow ability with Deathflare upon activating your Dreadwyrm Trance.
 
-\
+
 
 ### Quick Rotation Goals:
 
@@ -175,7 +173,7 @@ Astral Flow will be introduced at Level 60. Astral Flow is a unique ability, pr
 * Weave Energy Drain whenever it becomes available; spend your Aetherflow Gauge on Fester for single target damage, or Painflare for AoE damage.
 * Use Radiant Aegis if you need additional survivability (can be important while playing solo or doing quests).
 
-\
+
 
 ## Levels 61 - 70
 
@@ -214,8 +212,6 @@ At Level 72, you’ll unlock upgrades to your Gemshine primal abilities, providi
 | Titan  | Topaz Ruin        | Topaz Rite   |
 | Garuda | Emerald Ruin      | Emerald Rite |
 
-
-
 Outburst will upgrade to Tri-disaster at Level 74. This upgrade will also include your Precious Brilliance abilities: Ruby Tri-disaster, Topaz Tri-disaster, and Emerald Tri-disaster.
 
 Once you reach Level 80, you’ll unlock Summon Phoenix. Summon Phoenix will activate Firebird Trance, sharing a cooldown with Dreadwyrm Trance, as well summoning another demi-primal with Demi-Phoenix. \
@@ -243,8 +239,6 @@ Demi-Phoenix will provide two distinct attacks while spawned:
 ## Levels 81 - 90
 
 At Level 82, you’ll unlock upgrades to your Precious Brilliance primal abilities, providing new unique GCDs to replace your elemental Tri-disasters:
-
-
 
 | Summon | Old Precious Brilliance | New Precious Brilliance |
 | ------ | ----------------------- | ----------------------- |
