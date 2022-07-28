@@ -3,16 +3,17 @@ title: Paladin Basics Guide
 card_header_image: /img/jobs/pld/basic.png
 authors:
   - nikroulah
-patch: "6.05"
+patch: "6.1"
 lastmod: 2022-01-10T00:21:36.984Z
 changelog:
   - date: 2021-10-27T17:21:54.665Z
     message: Added
   - date: 2022-01-10T00:21:39.923Z
     message: Endwalker update
+  - date: 2022-07-26T20:34:27.725Z
+    message: Updated opener graphics
 ---
 Welcome to the Basics Guide for Paladin! Whether you are a fresh level 90, a returning player, or just need a refresher, this guide will get you started and hit the ground running.
-
 
 Since this is a basic introduction to level 90 Paladin, this guide will not go into many nuances and topics that are tied to high-end optimization. If you are looking for such information, you may find it in one of the dedicated guides below:
 
@@ -35,34 +36,35 @@ The Paladin rotation revolves around its two main buffs: Fight or Flight, which 
 
 There are a few key concepts that are fundamental to the game and carry over between jobs.
 
-* Keeping your GCD on cooldown is one of the most important parts of playing any job. Pressing something wrong is almost always better than pressing nothing at all.
-* As a primarily melee job, it's important to know how to keep melee uptime on the boss. This includes knowing when mechanics snapshot and where you can greed for extra GCDs before and after disengaging for mechanics.
-* Keep oGCDs on cooldown. Damaging oGCDs should be used roughly as they come off cooldown, as long as using them wouldn't delay your next GCD due to animation lock.
+* Keeping your Global Cooldown (GCD) on cooldown is one of the most important parts of playing any job. Pressing something wrong is almost always better than pressing nothing at all.
+* As a primarily melee job, it is important to know how to keep melee uptime on the boss. This includes knowing when mechanics snapshot and where you can greed for extra GCDs before and after disengaging for mechanics.
+* Keep off-Global Cooldowns (oGCDs) on cooldown. Damaging oGCDs should be used roughly as they come off cooldown, as long as using them does not delay your next GCD due to animation lock.
 
-## The Basic Rotation
+## The Rotation
 
-### The Opener
+### Basic Opener
 
 Goals for the opener include:
-* Apply Goring Blade early
-* Use damaging off-global cooldowns (oGCDs) inside tincture and raid-buff windows. Most raid-buffs will come out shortly before the 4th GCD).
 
-![Standard Opener for Paladin](https://xiv.sleepyshiba.com/pld/img/standard-opener.png)
+* Apply Goring Blade early
+* Use damaging oGCDs inside tincture and raid-buff windows. Most raid-buffs will come out shortly before the 4th GCD).
+
+![Standard Opener for Paladin](/img/jobs/pld/61-fullfof.png)
 
 **Text version:** prepull Holy Spirit at -2s > Fast Blade + late weave Fight or Flight > Riot Blade + Tincture > Goring Blade + Circle of Scorn > Fast Blade + Expiacion + Intervene > Riot Blade + Requiescat + Intervene > Royal Authority > Atonement > Atonement > Atonement > Fast Blade > Riot Blade > Goring Blade > Holy Spirit > Holy Spirit > Holy Spirit + Circle of Scorn > Holy Spirit + Expiacion > Confiteor > Blade of Faith > Blade of Truth > Blade of Valor
 \
-Full size: [Standard Opener for Paladin](https://xiv.sleepyshiba.com/pld/img/standard-opener.png)
+Full size: [Full FoF Opener for Paladin](https://xiv.sleepyshiba.com/pld/img/61-fullfof.png)
 
 ![](https://xivapi.com/i/020000/020710_hr1.png)
 
-The potion used is whatever the current tier's Strength potion is (as of Savage release in patch 6.05, it is the Grade 6 Tincture of Strength).
+The potion used is whatever the current tier's Strength potion is (as of patch 6.18, it is the Grade 6 Tincture of Strength).
 
 **High Latency Adjustments:**\
 At high latency, if double weaves would cause your GCD to clip, move oGCDs around to stick to single-weaving.
 
 **Opener notes:**  
 
-* We pull with a precast Holy Spirit as a medium-potency GCD that only costs half a GCD (due to precasting). Pulling with Shield Lob would be less potency and starts the GCD rolling later while pulling with Intervene moves an Intervene out of Fight or Flight.
+* We pull with a precast Holy Spirit as a medium-potency GCD that only costs half a GCD (due to precasting). Pulling with Shield Lob would be less potency and starts the GCD rolling later, while pulling with Intervene moves an Intervene out of Fight or Flight.
 * Since the Requiescat oGCD itself does damage, and the Requiescat buff lasts for a long time, we use Requiescat early in the opener to put it under raid buffs like Bard's Battle Voice or Dancer's Technical Finish.
 
 ### Rotation Loop
@@ -93,7 +95,7 @@ Each Fight or Flight window should also contain one Circle of Scorn and one Expi
 
 * At three or more targets, replace single target melee combos with Total Eclipse and Prominence.
 * At two or more targets, replace Holy Spirit with Holy Circle
-* In dungeons use Requiescat before Fight or Flight, since it is stronger in multi-target situations
+* In dungeons, use Requiescat before Fight or Flight, since it is stronger in multi-target situations
 
 For prolonged two-target encounters (rarely found outside of Ultimate raids), see the Advanced Guide (Coming Soon!) for more information.
 
@@ -105,7 +107,7 @@ Divine Veil provides a party-wide shield and heal (excluding yourself) after bei
 
 ![Passage of Arms](https://xiv.sleepyshiba.com/pld/assets/skill-passageofarms.png)
 
-Passage of Arms applies a buff to all party members behind you, granting them a 15% reduction in damage taken. The buff lingers for five seconds after you cancel it, so the most common use-case is flashing it onto the party before high raid-wide damage.
+Passage of Arms applies a buff to all party members behind you, granting them a 15% reduction in damage taken. The buff lingers for five seconds after you cancel it, so the most common use case is flashing it onto the party before high raid-wide damage.
 
 ![Intervention](https://xiv.sleepyshiba.com/pld/assets/skill-intervention.png)
 
@@ -125,7 +127,7 @@ Use your other defensive cooldowns to reduce incoming damage and make life easie
 ![Clemency](https://xiv.sleepyshiba.com/pld/assets/skill-clemency.png)
 ![Cover](https://xiv.sleepyshiba.com/pld/assets/skill-cover.png)
 
-These skills are very niche and infrequently used but have their time and place to shine. Clemency is a _significant_ DPS loss but enables soloing dungeon bosses when the healer is dead or saving runs when progging raids and trials. Cover can be used in niche optimization strategies or for saving a party member from otherwise-lethal damage. Covered damage ignores Hallowed Ground.
+These skills are very niche and infrequently used but have their time and place to shine. Clemency is a *significant* DPS loss but enables soloing dungeon bosses when the healer is dead or saving runs when progging raids and trials. Cover can be used in niche optimization strategies or for saving a party member from otherwise-lethal damage. Covered damage ignores Hallowed Ground.
 
 - - -
 
@@ -134,6 +136,7 @@ These skills are very niche and infrequently used but have their time and place 
 Co-tank macros assume your co-tank is in party slot two (default party sorting)
 
 **Intervention on Co-tank**  
+
 ```
 /merror off 
 /ac Intervention <2>
@@ -150,9 +153,10 @@ Co-tank macros assume your co-tank is in party slot two (default party sorting)
 /ac Intervention <2>
 /ac Intervention <2>
 /micon Intervention  
-``` 
+```
 
 **Mouseover Cover:**
+
 ```
 /merror off
 /ac Cover <mo>
@@ -171,10 +175,9 @@ Co-tank macros assume your co-tank is in party slot two (default party sorting)
 /micon Cover  
 ```
 
-&nbsp;
-
 **Shirk on Co-Tank**
-```  
+
+```
 /merror off
 /ac Shirk <2>
 /ac Shirk <2>
@@ -192,8 +195,6 @@ Co-tank macros assume your co-tank is in party slot two (default party sorting)
 /micon Shirk  
 ```
 
-&nbsp;
-
 **Why are there so many repeated lines?**
 FFXIV macros do not queue, so hitting a macro while in animation lock from another action will cause the macro to not go off. Since macros execute lines sequentially at around one line per frame, repeating the /action lines simulates mashing the ability every frame for ~15 frames and gives the macro a semblance of queuing.
 
@@ -206,9 +207,9 @@ FFXIV macros do not queue, so hitting a macro while in animation lock from anoth
 
 ## Further Reading
 
-For high-end optimization concepts, see the Advanced Guide (Coming Soon!)
+For high-end optimization concepts, see the Advanced Guide (Coming Soon!).
 
-For fight-specific optimizations, see the Encounter Optimization Guide (Coming Soon!)
+For fight-specific optimizations, see the Encounter Optimization Guide (Coming Soon!).
 
 ### Stats and Itemization
 
@@ -222,7 +223,6 @@ Because of stat tiering, the [Tank Gear Calculator](https://bit.ly/XIV-TANKDPSCA
 
 * Significantly affects all damage dealt.
 * Proportional to item level.
-
 
 **Strength**
 
@@ -264,4 +264,4 @@ The Paladin rotation is functional at almost all skill speeds. The only requirem
 
 Outside of high-end optimization, choice of skill speed has little impact on the Paladin rotation, and can be chosen for comfort (faster speeds are more forgiving and latency-friendly for fitting 11 GCDs into FoF).
 
-In optimization, each encounter must be considered separately to determine how many GCDs are gained or lost by different skill speeds, as well as lining up the GCD with any melee disengages. In general, the slowest speed that doesn't lose any major GCDs within a phase will be the strongest choice.
+In optimization, each encounter must be considered separately to determine how many GCDs are gained or lost by different skill speeds, as well as to line up the GCD with any melee disengages. In general, the slowest speed that doesn't lose any major GCDs within a phase will be the strongest choice.
