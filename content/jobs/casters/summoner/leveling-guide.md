@@ -18,64 +18,64 @@ changelog:
 
 Welcome! This page is written to assist you throughout your leveling journey and provide insight on how the Summoner job will evolve from level one to level 80.  Summoner may appear as a bit of a “unique” job with a lot of moving parts and multiple avenues of attacking enemies.  
 
-Throughout this leveling guide, we will provide you with a basic fundamental understanding of each spell that you’ll unlock, as well as provide some quick rotation priorities and visualization examples. Our goal is to break things down into simple and easy-to-understand concepts to help you piece together the various moving parts that Summoner’s kit is built from.  
+Throughout this leveling guide, we will provide you with a basic fundamental understanding of each spell that you will unlock, as well as provide some quick rotation priorities and visualization examples. Our goal is to break things down into simple and easy-to-understand concepts to help you piece together the various moving parts that Summoner’s kit is built from.  
 
-We will also break it down into smaller leveling “sections”, to allow you to focus on priorities specific to each section, and slowly incorporate new priorities as you move to the next. We hope you enjoy your leveling and learning experience with Summoner, and be sure to have fun with it!
+We will also break it down into smaller leveling “sections" to allow you to focus on priorities that are specific to each section, then slowly incorporate new priorities as you move to the next. We hope you enjoy your leveling and learning experience with Summoner, and be sure to have fun with it!
 
 ## Levels 1 - 10
 
-First beginning at Level 1 will give you access to Ruin, as your base GCD option.  You should cast Ruin as often as you can on your target.\
+Beginning at level one will give you access to Ruin as your base Global Cooldown (GCD) option. You should cast Ruin as often as you can on your target.\
 \
-Level 2 will bring Summon Carbuncle, allowing you to summon a carbuncle by your side.  This carbuncle is only responsible for casting two support actions, one of which you’ll unlock immediately.\
+Level two will bring Summon Carbuncle, allowing you to summon a carbuncle to your side.  This carbuncle is only responsible for casting two support actions, one of which you will unlock immediately.\
 \
-Radiant Aegis will also unlock at Level 2, as the first support action that can be used from your carbuncle. Radiant Aegis will command your carbuncle to cast a substantial shield onto yourself, for survivability purposes.  
+Radiant Aegis will also unlock at level two and is the first support action that can be used from your carbuncle. Radiant Aegis will command your carbuncle to cast a substantial shield onto yourself for survivability purposes.
 
-Physick will unlock at Level 4, as a GCD heal option. At this level range, Physick is a useful spell if additional healing is required, however is not the primary focus for Summoners to use during combat.  
+Physick will unlock at level four as a GCD heal option. At this level range, Physick is a useful spell if additional healing is required; however, it is not the primary focus for Summoners to use during combat.  
 
-Upon reaching Level 6 you’ll unlock Aethercharge. Aethercharge is the prequel to your trance spells that will be unlocked much later, increasing the potency of your Ruin (and later Outburst) GCDs + providing elemental arcanum that can be used for special summons.
+Upon reaching level six, you’ll unlock Aethercharge. Aethercharge is the prequel to your trance spells that will be unlocked much later, increasing the potency of your Ruin (and later Outburst) GCDs and providing elemental arcanum that can be used for special summons.
 
-Level 6 will also unlock Summon Ruby, as the first of these special summons. Activating Summon Ruby will summon a Ruby Carbuncle to cast its ultimate ability, Glittering Ruby, as well as providing you with 2x fire attunement stacks to be spent with special actions that will be made available. \
+Level six will also unlock Summon Ruby, the first of these special summons. Activating Summon Ruby will summon a Ruby Carbuncle to cast its ultimate ability, Glittering Ruby, as well as provide you with two fire attunement stacks to be spent with special actions that will be made available. \
 \
-Gemshine also unlocks at Level 6, as the first special action to be used with your pet summons. With each summon that is used, Gemshine will be infused with elemental attunement, allowing you to cast an infused ability that is stronger than the original Ruin spells.\
+Gemshine also unlocks at level six as the first special action to be used with your pet summons. With each summon that is used, Gemshine will be infused with elemental attunement, allowing you to cast an infused ability that is stronger than the original Ruin spells.\
 \
 When Summon Ruby is activated, this means Gemshine will turn into the Ruby Ruin spell.  Each Ruby Ruin will consume one of your fire attunement stacks, dealing high damage to your target, but with a longer cast time.  
 
-At Level 10 you will unlock Energy Drain and Fester. Energy Drain is an oGCD ability that will provide you with Aetherflow Gauge, which can be spent on unique oGCD abilities. Fester is the first of these abilities, dealing significant single target damage to your target.
+At level ten you will unlock Energy Drain and Fester. Energy Drain is an off-Global Cooldown (oGCD) ability that will provide you with Aetherflow Gauge, which can be spent on unique oGCD abilities. Fester is the first of these abilities, dealing significant single target damage to your target.
 
 ### Quick Rotation Goals:
 
 * Cast Ruin as much as possible on your target
-* Activate Aethercharge whenever it becomes available, for additional damage gains on Ruin
-* Use Summon Ruby when you have Ruby Arcanum available, spend your fire attunement stacks on Ruby Ruin.
-* Weave Energy Drain whenever it becomes available, spend your Aetherflow Gauge on Fester.
+* Activate Aethercharge whenever it becomes available for additional damage gains on Ruin
+* Use Summon Ruby when you have Ruby Arcanum available and spend your fire attunement stacks on Ruby Ruin.
+* Weave Energy Drain whenever it becomes available and spend your Aetherflow Gauge on Fester.
 * Use Radiant Aegis or Physick if you need additional survivability (can be important while playing solo or doing quests).  
 
 ## Levels 11 - 20
 
-At Level 12 you will unlock Resurrection. Resurrection allows you to raise downed party members, making it a very important utility action.
+At level 12 you will unlock Resurrection. Resurrection allows you to raise downed party members, making it a very important utility action.
 
-Level 15 will unlock your second special summon, with Summon Topaz. Activating Summon Topaz will summon Topaz Carbuncle to cast its ultimate ability, Glittering Topaz, as well as provide you with 4x earth attunement stacks. \
+Level 15 will unlock Summon Topaz, your second special summon. Activating Summon Topaz will summon Topaz Carbuncle to cast its ultimate ability, Glittering Topaz, as well as provide you with four earth attunement stacks. \
 \
 Topaz Ruin will also be made available when Summon Topaz is activated.\
 \
-From this point you’ll now have 2 special summons to play with, allowing you chain Summon Ruby and Summon Topaz consecutively once their arcanum is made available.
+From this point you will now have two special summons to play with, allowing you to chain Summon Ruby and Summon Topaz consecutively once their arcanum is made available.
 
 ### Quick Rotation Goals:
 
-* Cast Ruin as much as possible on your target
-* Activate Aethercharge whenever it becomes available, for additional damage gains on Ruin
-* Use Summon Ruby when you have Ruby Arcanum available, spend your fire attunement stacks on Ruby Ruin.
-* Use Summon Topaz when you have Topaz Arcanum available, spend your earth attunement stacks on Topaz Ruin.
+* Cast Ruin as much as possible on your target.
+* Activate Aethercharge whenever it becomes available for additional damage gains on Ruin.
+* Use Summon Ruby when you have Ruby Arcanum available and spend your fire attunement stacks on Ruby Ruin.
+* Use Summon Topaz when you have Topaz Arcanum available and spend your earth attunement stacks on Topaz Ruin.
 * Weave Energy Drain whenever it becomes available, spend your Aetherflow Gauge on Fester.
 * Use Radiant Aegis or Physick if you need additional survivability (can be important while playing solo or doing quests).  
 
 ## Levels 21 - 30
 
-Level 22 will unlock your third special summon, with Summon Emerald. Activating Summon Emerald will summon Emerald Carbuncle to cast its ultimate ability, Glittering Emerald, as well as provide you with 4x wind attunement stacks. 
+Level 22 will unlock Summon Emerald, your third special summon. Activating Summon Emerald will summon Emerald Carbuncle to cast its ultimate ability, Glittering Emerald, as well as provide you with four wind attunement stacks. 
 
 Emerald Ruin will also be made available when Summon Emerald is activated.
 
-From this point you’ll now have all three summons to play with, allowing you to chain Summon Ruby, Summon Topaz, and Summon Emerald consecutively once their arcanum is made available.
+From this point you will now have all three summons to play with, allowing you to chain Summon Ruby, Summon Topaz, and Summon Emerald consecutively once their arcanum is made available.
 
 | Summon            | Gemshine     | Description                                     |
 | ----------------- | ------------ | ----------------------------------------------- |
@@ -85,17 +85,17 @@ From this point you’ll now have all three summons to play with, allowing you t
 
 \
 \
-Reaching Level 26 will introduce the capability of attacking multiple enemies at once, allowing you to choose between using single target actions, or AoE actions.
+Reaching level 26 will introduce the capability of attacking multiple enemies at once, allowing you to choose between using single target actions, or area-of-effect (AoE) actions.
 
-At Level 26 you’ll unlock Outburst, which will be your AoE filler GCD. Use Outburst anytime you’re fighting 3+ enemies in close proximity to each other. \
+At level 26 you will unlock Outburst, your AoE filler GCD. Use Outburst anytime you are fighting three or more enemies in close proximity to each other. \
 \
-You’ll also receive Precious Brilliance at Level 26, the second special action to be used by your summons. Just like Gemshine, Precious Brilliance will be infused with elemental attunement, allowing you to cast abilities that will be stronger than your base Outburst.\
+You will also receive Precious Brilliance at level 26, the second special action to be used by your summons. Just like Gemshine, Precious Brilliance will be infused with elemental attunement, allowing you to cast abilities that will be stronger than your base Outburst.\
 \
 While you only have Carbuncle summons at this moment, your Precious Brilliance will transform into the following abilities:
 
 | Summon            | Precious Brilliance | Description                                         |
 | ----------------- | ------------------- | --------------------------------------------------- |
-| Ruby Carbuncle    | Ruby Outburst       | A AoE GCD cast with a long cast time.               |
+| Ruby Carbuncle    | Ruby Outburst       | An AoE GCD cast with a long cast time.              |
 | Topaz Carbuncle   | Topaz Outburst      | An instant cast AoE GCD.                            |
 | Emerald Carbuncle | Emerald Outburst    | An instant cast AoE GCD with a shorter recast time. |
 
@@ -125,8 +125,6 @@ With Painflare unlocked, you will now have the choice to spend Aetherflow Gauge 
 Level 45 will then introduce the third primal upgrade, with Summon Emerald transforming into Summon Garuda. Summon Garuda provides the same elemental attunement as Summon Emerald, but instead will summon Garuda-Egi to cast Aerial Blast, as a much stronger ultimate ability.
 
 With all of your summons now upgraded, remember that this does not change the core of your rotation in any way. Upgraded summons just provide additional damage with their ultimate abilities, elemental attunement will remain consistent.  
-
-
 
 ### Quick Rotation Goals:
 
@@ -160,8 +158,6 @@ Outburst will temporarily transform into Astral Flare.
 
 Astral Flow will be introduced at Level 60. Astral Flow is a unique ability, providing a special ability throughout the duration of your trance or primal summon. At Level 60, you’ll have access to your first Astral Flow ability with Deathflare upon activating your Dreadwyrm Trance.
 
-
-
 ### Quick Rotation Goals:
 
 * Cast Ruin II, and later Ruin III, when fighting one or two enemies.
@@ -172,8 +168,6 @@ Astral Flow will be introduced at Level 60. Astral Flow is a unique ability, pr
 * Use Summon Garuda when you have Emerald Arcanum available. Spend your wind attunement stacks on Emerald Ruin III when fighting one or two enemies, or Emerald Outburst when fighting three or more enemies in close proximity.
 * Weave Energy Drain whenever it becomes available; spend your Aetherflow Gauge on Fester for single target damage, or Painflare for AoE damage.
 * Use Radiant Aegis if you need additional survivability (can be important while playing solo or doing quests).
-
-
 
 ## Levels 61 - 70
 
