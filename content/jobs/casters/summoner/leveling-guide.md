@@ -172,33 +172,33 @@ Astral Flow will be introduced at level 60. Astral Flow is a unique ability, pr
 ## Levels 61 - 70
 
 \
-Further Ruin and Ruin IV will be unlocked at Level 62. Each time you use Energy Drain or Energy Siphon, you will receive a proc of Further Ruin, allowing you to use Ruin IV. This proc will last for 60 seconds, giving you plenty of time to use during your rotation.\
+Further Ruin and Ruin IV will be unlocked at level 62. Each time you use Energy Drain or Energy Siphon you will receive a proc of Further Ruin, allowing you to use Ruin IV. This proc will last for 60 seconds, giving you plenty of time to use it during your rotation.\
 \
-Upon reaching Level 66, you will unlock Searing Light. Searing Light is the second support ability available from your carbuncle. Activating Searing Light will command your carbuncle to apply a buff to yourself and all party members to deal 3% additional damage.
+Upon reaching level 66, you will unlock Searing Light. Searing Light is the second support ability available from your carbuncle. Activating Searing Light will command your carbuncle to apply a buff to yourself and all party members to deal 3% additional damage.
 
-Once you reach Level 70, your Dreadwyrm Trance will be upgraded to Summon Bahamut. This upgrade will maintain the previous effects of Dreadwyrm Trance, but will now include your first demi summon with Demi-Bahamut.\
+Once you reach level 70, your Dreadwyrm Trance will be upgraded to Summon Bahamut. This upgrade will maintain the previous effects of Dreadwyrm Trance, but will now include your first demi summon with Demi-Bahamut.\
 \
 Demi-Bahamut will provide two distinct attacks while spawned:
 
-* Enkindle Bahamut - Will command Demi-Bahamut to cast his ultimate ability, Akh Morn.
-* Wyrmwave - Demi-Bahamut’s auto attack, will cast automatically.
+* Enkindle Bahamut: Will command Demi-Bahamut to cast his ultimate ability, Akh Morn.
+* Wyrmwave: Demi-Bahamut’s auto attack. Will cast automatically.
 
 ### Quick Rotation Goals:
 
-* Cast Ruin III, when fighting one or two enemies.
+* Cast Ruin III when fighting one or two enemies.
 * Cast Outburst when fighting three or more enemies in close proximity.
-* Activate Summon Bahamut whenever it’s available; cast Astral Impulse if fighting one or two targets, or Astral Flare when fighting three or more enemies in close proximity.
-* Activate Summon Phoenix whenever it’s available; cast Fountain of Fire if fighting one or two targets, cast Brand of Purgatory if fighting three or more enemies in close proximity.
+* Activate Summon Bahamut whenever it is available. Cast Astral Impulse if fighting one or two targets, or Astral Flare when fighting three or more enemies in close proximity.
+* Activate Summon Phoenix whenever it is available. Cast Fountain of Fire if fighting one or two targets, and cast Brand of Purgatory if fighting three or more enemies in close proximity.
 * Remember to use Enkindle Bahamut and Enkindle Phoenix when you spawn your demi primals.
 * Use Summon Ifrit when you have Ruby Arcanum available. Spend your fire attunement stacks on Ruby Ruin III when fighting one or two enemies, or Ruby Outburst when fighting three or more enemies in close proximity.
 * Use Summon Titan when you have Topaz Arcanum available. Spend your earth attunement stacks on Topaz Ruin III when fighting one or two enemies, or Topaz Outburst when fighting three or more enemies in close proximity.
 * Use Summon Garuda when you have Emerald Arcanum available. Spend your wind attunement stacks on Emerald Ruin III when fighting one or two enemies, or Emerald Outburst when fighting three or more enemies in close proximity.
-* Weave Energy Drain or Energy Siphon whenever it becomes available; spend your Aetherflow Gauge on Fester for single target damage, or Painflare for AoE damage.
+* Weave Energy Drain or Energy Siphon whenever it becomes available. Spend your Aetherflow Gauge on Fester for single target damage or Painflare for AoE damage.
 * Use Radiant Aegis if you need additional survivability (can be important while playing solo or doing quests).
 
 ## Levels 71 - 80
 
-At Level 72, you’ll unlock upgrades to your Gemshine primal abilities, providing new unique GCDs to replace your elemental Ruins:
+At level 72, you will unlock upgrades to your Gemshine primal abilities that provide new unique GCDs to replace your elemental Ruins:
 
 | Summon | Precious Gemshine | New Gemshine |
 | ------ | ----------------- | ------------ |
@@ -208,31 +208,31 @@ At Level 72, you’ll unlock upgrades to your Gemshine primal abilities, providi
 
 Outburst will upgrade to Tri-disaster at Level 74. This upgrade will also include your Precious Brilliance abilities: Ruby Tri-disaster, Topaz Tri-disaster, and Emerald Tri-disaster.
 
-Once you reach Level 80, you’ll unlock Summon Phoenix. Summon Phoenix will activate Firebird Trance, sharing a cooldown with Dreadwyrm Trance, as well summoning another demi-primal with Demi-Phoenix. \
+Once you reach level 80, you will unlock Summon Phoenix. Summon Phoenix will activate Firebird Trance which shares a cooldown with Dreadwyrm Trance, as well as summon another demi-primal with Demi-Phoenix. \
 \
-Firebird Trance will provide you with two unique abilities, with Ruin III transforming into Fountain of Fire, and Tri-disaster transforming into Brand of Purgatory.\
+Firebird Trance will provide you with two unique abilities, with Ruin III transforming into Fountain of Fire and Tri-disaster transforming into Brand of Purgatory.\
 \
 Demi-Phoenix will provide two distinct attacks while spawned:
 
-* Enkindle Phoenix - Will command Demi-Phoenix to cast his ultimate ability, Revelation.
-* Scarlet Flame - Demi-Phoenix’s auto attack, will cast automatically.
+* Enkindle Phoenix: Will command Demi-Phoenix to cast his ultimate ability, Revelation.
+* Scarlet Flame: Demi-Phoenix’s auto attack. Will cast automatically.
 
 ### Quick Rotation Goals:
 
-* Cast Ruin III, when fighting one or two enemies.
+* Cast Ruin III when fighting one or two enemies.
 * Cast Outburst, and later Tri-disaster, when fighting three or more enemies in close proximity.
-* Activate Summon Bahamut whenever it’s available;  Cast Astral Impulse if fighting one or two targets, or Astral Flare when fighting three or more enemies in close proximity.
-* Activate Summon Phoenix whenever it’s available; cast Fountain of Fire if fighting one or two targets, cast Brand of Purgatory if fighting three or more enemies in close proximity.
+* Activate Summon Bahamut whenever it’s available. Cast Astral Impulse if fighting one or two targets, or Astral Flare when fighting three or more enemies in close proximity.
+* Activate Summon Phoenix whenever it’s available. Cast Fountain of Fire if fighting one or two targets, and cast Brand of Purgatory if fighting three or more enemies in close proximity.
 * Remember to use Enkindle Bahamut and Enkindle Phoenix when you spawn your demi primals.
 * Use Summon Ifrit when you have Ruby Arcanum available. Spend your fire attunement stacks on Ruby Ruin III when fighting one or two enemies, or Ruby Tri-disaster when fighting three or more enemies in close proximity.  
 * Use Summon Titan when you have Topaz Arcanum available. Spend your earth attunement stacks on Topaz Ruin III when fighting one or two enemies, or Topaz Tri-disaster when fighting three or more enemies in close proximity.  
 * Use Summon Garuda when you have Emerald Arcanum available. Spend your wind attunement stacks on Emerald Ruin III when fighting one or two enemies, or Emerald Tri-disaster when fighting three or more enemies in close proximity.  
-* Weave Energy Drain or Energy Siphon whenever it becomes available; spend your Aetherflow Gauge on Fester for single target damage, or Painflare for AoE damage.
+* Weave Energy Drain or Energy Siphon whenever it becomes available. Spend your Aetherflow Gauge on Fester for single target damage, or Painflare for AoE damage.
 * Use Radiant Aegis if you need additional survivability (can be important while playing solo or doing quests).
 
 ## Levels 81 - 90
 
-At Level 82, you’ll unlock upgrades to your Precious Brilliance primal abilities, providing new unique GCDs to replace your elemental Tri-disasters:
+At level 82, you will unlock upgrades to your Precious Brilliance primal abilities that provide new unique GCDs to replace your elemental Tri-disasters:
 
 | Summon | Old Precious Brilliance | New Precious Brilliance |
 | ------ | ----------------------- | ----------------------- |
@@ -240,21 +240,21 @@ At Level 82, you’ll unlock upgrades to your Precious Brilliance primal abiliti
 | Titan  | Topaz Disaster          | Topaz Catastrophe       |
 | Garuda | Emerald Disaster        | Emerald Catastrophe     |
 
-Upon reaching Level 86, you’ll unlock a buff for each primal summon you use: Ifrit’s Favor, Titan’s Favor, and Garuda’s Favor. Each of these buffs have a unique interaction, and unlocks a special ability to be used with Astral Flow.
+Upon reaching level 86, you will unlock a buff for each primal summon you use: Ifrit’s Favor, Titan’s Favor, and Garuda’s Favor. Each of these buffs have a unique interaction and unlocks a special ability to be used with Astral Flow.
 
 | Summon | Astral Flow                      | Description                                                                                                                 |
 | ------ | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Ifrit  | Crimson Cyclone & Crimson Strike | Two-part melee combo, with Crimson Cyclone as a gap closer to your target.                                                  |
+| Ifrit  | Crimson Cyclone & Crimson Strike | Two-part melee combo with Crimson Cyclone as a gap closer to your target.                                                   |
 | Titan  | Mountain Buster                  | An oGCD that becomes available after each Topaz Rite or Topaz Catastrophe cast.                                             |
 | Garuda | Slipstream                       | A GCD cast, with a prolonged cast time. Also spawns a wind puddle under your target that deals additional damage-over-time. |
 
 * Cast Ruin III, when fighting one or two enemies.
 * Cast Outburst, and later Tri-disaster, when fighting three or more enemies in close proximity.
-* Activate Summon Bahamut whenever it’s available; cast Astral Impulse if fighting one or two targets, or Astral Flare when fighting three or more enemies in close proximity.
-* Activate Summon Phoenix whenever it’s available; cast Fountain of Fire if fighting one or two targets, cast Brand of Purgatory if fighting three or more enemies in close proximity.
+* Activate Summon Bahamut whenever it’s available. Cast Astral Impulse if fighting one or two targets, or Astral Flare when fighting three or more enemies in close proximity.
+* Activate Summon Phoenix whenever it’s available. Cast Fountain of Fire if fighting one or two targets, and cast Brand of Purgatory if fighting three or more enemies in close proximity.
 * Remember to use Enkindle Bahamut and Enkindle Phoenix when you spawn your demi-primals.
-* Use Summon Ifrit when you have Ruby Arcanum available. Spend your fire attunement stacks on Ruby Rite when fighting one or two enemies, or Ruby Catastrophe when fighting three or more enemies in close proximity. Remember to use your Crimson Cyclone + Crimson Strike combo whenever you can safely be in melee range.
+* Use Summon Ifrit when you have Ruby Arcanum available. Spend your fire attunement stacks on Ruby Rite when fighting one or two enemies, or Ruby Catastrophe when fighting three or more enemies in close proximity. Remember to use your Crimson Cyclone and Crimson Strike combo whenever you can safely be in melee range.
 * Use Summon Titan when you have Topaz Arcanum available. Spend your earth attunement stacks on Topaz Rite when fighting one or two enemies, or Topaz Catastrophe when fighting three or more enemies in close proximity. Remember to use your Mountain Buster procs.
 * Use Summon Garuda when you have Emerald Arcanum available. Spend your wind attunement stacks on Emerald Rite when fighting one or two enemies, or Emerald Catastrophe when fighting three or more enemies in close proximity. Remember to use your Slipstream ability.
-* Weave Energy Drain or Energy Siphon whenever it becomes available; spend your Aetherflow Gauge on Fester for single target damage, or Painflare for AoE damage.
+* Weave Energy Drain or Energy Siphon whenever it becomes available. Spend your Aetherflow Gauge on Fester for single target damage or Painflare for AoE damage.
 * Use Radiant Aegis if you need additional survivability (can be important while playing solo or doing quests).
