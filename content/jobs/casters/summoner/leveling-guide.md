@@ -99,32 +99,32 @@ While you only have Carbuncle summons at this moment, your Precious Brilliance w
 | Topaz Carbuncle   | Topaz Outburst      | An instant cast AoE GCD.                            |
 | Emerald Carbuncle | Emerald Outburst    | An instant cast AoE GCD with a shorter recast time. |
 
-Level 30 will introduce the first upgrade to your summons, with Summon Ruby transforming into Summon Ifrit. Summon Ifrit provides the same elemental attunement as Summon Ruby, but instead will summon Ifrit-Egi to cast Inferno, as a much stronger ultimate ability. 
+Level 30 will introduce the first upgrade to your summons, with Summon Ruby transforming into Summon Ifrit. Summon Ifrit provides the same elemental attunement as Summon Ruby, but instead will summon Ifrit-Egi to cast Inferno, a much stronger ultimate ability. 
 
-Level 30 will also provide an upgrade to your Ruin ability, upgrading to Ruin II.  This upgrade will also include your Gemshine abilities: Ruby Ruin II, Topaz Ruin II, and Emerald Ruin II.
+Level 30 will also provide an upgrade to your Ruin ability, upgrading it to Ruin II.  This upgrade will also include your Gemshine abilities: Ruby Ruin II, Topaz Ruin II, and Emerald Ruin II.
 
 ### Quick Rotation Goals:
 
-* Cast Ruin, and later Ruin II, when fighting 1 or 2 enemies.
-* Cast Outburst when fighting 3 or more enemies in close proximity.
-* Activate Aethercharge whenever it becomes available, for additional damage gains on Ruin
-* Use Summon Ifrit when you have Ruby Arcanum available. Spend your fire attunement stacks on Ruby Ruin II when fighting 1-2 enemies, or Ruby Outburst when fighting 3 or more enemies in close proximity.
-* Use Summon Titan when you have Topaz Arcanum available. Spend your earth attunement stacks on Topaz Ruin II when fighting 1-2 enemies, or Topaz Outburst when fighting 3 or more enemies in close proximity.
-* Use Summon Garuda when you have Emerald Arcanum available. Spend your wind attunement stacks on Emerald Ruin II when fighting 1-2 enemies, or Emerald Outburst when fighting 3 or more enemies in close proximity.
+* Cast Ruin, and later Ruin II, when fighting one or two enemies.
+* Cast Outburst when fighting three or more enemies in close proximity.
+* Activate Aethercharge whenever it becomes available for additional damage gains on Ruin.
+* Use Summon Ifrit when you have Ruby Arcanum available. Spend your fire attunement stacks on Ruby Ruin II when fighting one to two enemies, or Ruby Outburst when fighting three or more enemies in close proximity.
+* Use Summon Titan when you have Topaz Arcanum available. Spend your earth attunement stacks on Topaz Ruin II when fighting one or two enemies, or Topaz Outburst when fighting three or more enemies in close proximity.
+* Use Summon Garuda when you have Emerald Arcanum available. Spend your wind attunement stacks on Emerald Ruin II when fighting one or two enemies, or Emerald Outburst when fighting three or more enemies in close proximity.
 * Weave Energy Drain whenever it becomes available, spend your Aetherflow Gauge on Fester.
 * Use Radiant Aegis or Physick if you need additional survivability (can be important while playing solo or doing quests).  
 
 ## Levels 31 - 50
 
-Level 35 will introduce your second primal upgrade, with Summon Topaz transforming into Summon Titan.  Summon Titan provides the same elemental attunement as Summon Topaz, but instead will summon Titan-Egi to cast Earthen Fury, as a much stronger ultimate ability.
+Level 35 will introduce your second primal upgrade, with Summon Topaz transforming into Summon Titan.  Summon Titan provides the same elemental attunement as Summon Topaz, but instead will summon Titan-Egi to cast Earthen Fury, a much stronger ultimate ability.
 
-Upon reaching Level 40, you’ll unlock Painflare.  Painflare is another option for spending Aetherflow Gauge, dealing damage to your target and any other nearby targets.\
+Upon reaching level 40, you will unlock Painflare. Painflare is another option for spending Aetherflow Gauge, dealing damage to your target and any other nearby targets.\
 \
 With Painflare unlocked, you will now have the choice to spend Aetherflow Gauge for single target or AoE purposes.
 
-Level 45 will then introduce the third primal upgrade, with Summon Emerald transforming into Summon Garuda. Summon Garuda provides the same elemental attunement as Summon Emerald, but instead will summon Garuda-Egi to cast Aerial Blast, as a much stronger ultimate ability.
+Level 45 will then introduce the third primal upgrade, with Summon Emerald transforming into Summon Garuda. Summon Garuda provides the same elemental attunement as Summon Emerald, but instead will summon Garuda-Egi to cast Aerial Blast, a much stronger ultimate ability.
 
-With all of your summons now upgraded, remember that this does not change the core of your rotation in any way. Upgraded summons just provide additional damage with their ultimate abilities, elemental attunement will remain consistent.  
+With all of your summons now upgraded, remember that this does not change the core of your rotation in any way. Upgraded summons just provide additional damage with their ultimate abilities. Elemental attunement will remain consistent.  
 
 ### Quick Rotation Goals:
 
@@ -134,14 +134,14 @@ With all of your summons now upgraded, remember that this does not change the co
 * Use Summon Ifrit when you have Ruby Arcanum available. Spend your fire attunement stacks on Ruby Ruin II when fighting one or two enemies, or Ruby Outburst when fighting three or more enemies in close proximity.
 * Use Summon Titan when you have Topaz Arcanum available. Spend your earth attunement stacks on Topaz Ruin II when fighting one or two enemies, or Topaz Outburst when fighting three or more enemies in close proximity.
 * Use Summon Garuda when you have Emerald Arcanum available. Spend your wind attunement stacks on Emerald Ruin II when fighting one or two enemies, or Emerald Outburst when fighting three or more enemies in close proximity.
-* Weave Energy Drain whenever it becomes available; spend your Aetherflow Gauge on Fester for single target damage, or Painflare for AoE damage..
+* Weave Energy Drain whenever it becomes available. Spend your Aetherflow Gauge on Fester for single target damage, or Painflare for AoE damage.
 * Use Radiant Aegis or Physick if you need additional survivability (can be important while playing solo or doing quests).  
 
 ## Levels 51 - 60
 
-Energy Siphon will become available at Level 52, as another option for refreshing Aetherflow Gauge. Once you’ve unlocked this ability, you should use it when fighting three or more targets.  
+Energy Siphon will become available at level 52 as another option for refreshing Aetherflow Gauge. Once you have unlocked this ability, you should use it when fighting three or more targets.  
 
-At Level 54, you will receive your final ruin upgrade, with Ruin II upgrading to Ruin III.  This upgrade will also include your Gemshine abilities: \
+At level 54, you will receive your final ruin upgrade, with Ruin II upgrading to Ruin III.  This upgrade will also include your Gemshine abilities: \
 \
 Ruby Ruin II —> Ruby Ruin III
 
@@ -149,24 +149,24 @@ Topaz Ruin II —> Topaz Ruin III
 
 Emerald Ruin II —> Emerald Ruin III
 
-Once you reach Level 58, you’ll unlock Dreadwyrm Trance. Dreadwyrm Trance will upgrade from Aethercharge, providing additional effects alongside providing elemental arcanum.\
+Once you reach level 58, you will unlock Dreadwyrm Trance. Dreadwyrm Trance will upgrade from Aethercharge, providing additional effects along with providing elemental arcanum.\
 \
 Instead of increasing the potency of your Ruin and Outburst GCDs, Dreadwyrm Trance will provide you with two new unique GCDs:
 
 Ruin III will temporarily transform into Astral Impulse.\
 Outburst will temporarily transform into Astral Flare.
 
-Astral Flow will be introduced at Level 60. Astral Flow is a unique ability, providing a special ability throughout the duration of your trance or primal summon. At Level 60, you’ll have access to your first Astral Flow ability with Deathflare upon activating your Dreadwyrm Trance.
+Astral Flow will be introduced at level 60. Astral Flow is a unique ability, providing a special ability throughout the duration of your trance or primal summon. At level 60, you’ll have access to your first Astral Flow ability with Deathflare upon activating your Dreadwyrm Trance.
 
 ### Quick Rotation Goals:
 
 * Cast Ruin II, and later Ruin III, when fighting one or two enemies.
 * Cast Outburst when fighting three or more enemies in close proximity.
-* Activate Dreadwyrm Trance whenever it’s available; cast Astral Impulse if fighting one or two targets, cast Astral Flare if fighting three or more enemies in close proximity.
+* Activate Dreadwyrm Trance whenever it’s available. Cast Astral Impulse if fighting one or two targets, and cast Astral Flare if fighting three or more enemies in close proximity.
 * Use Summon Ifrit when you have Ruby Arcanum available. Spend your fire attunement stacks on Ruby Ruin III when fighting one or two enemies, or Ruby Outburst when fighting three or more enemies in close proximity.
 * Use Summon Titan when you have Topaz Arcanum available. Spend your earth attunement stacks on Topaz Ruin III when fighting one or two enemies, or Topaz Outburst when fighting three or more enemies in close proximity.
 * Use Summon Garuda when you have Emerald Arcanum available. Spend your wind attunement stacks on Emerald Ruin III when fighting one or two enemies, or Emerald Outburst when fighting three or more enemies in close proximity.
-* Weave Energy Drain whenever it becomes available; spend your Aetherflow Gauge on Fester for single target damage, or Painflare for AoE damage.
+* Weave Energy Drain whenever it becomes available. Spend your Aetherflow Gauge on Fester for single target damage or Painflare for AoE damage.
 * Use Radiant Aegis if you need additional survivability (can be important while playing solo or doing quests).
 
 ## Levels 61 - 70
