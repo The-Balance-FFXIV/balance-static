@@ -736,13 +736,13 @@ The strength of SAM’s AOE rotation lies in the fact that both two-GCD AoE comb
 
 **What happens if there are two targets?**
 
-If both targets will last long enough, use Higanbana on each and reapply as necessary. Do not use Kaeshi: Higanbana, even in this scenario it is more worthwhile to build one Sen with Yukikaze and apply the DoT that way than it is to burn Kaeshi on Higanbana. Two targets also introduces its own unique rotation, where you are using Fuko > Mangetsu/Oka to generate your Getsu/Ka Sen but using Hakaze > Yukikaze to generate your Setsu Sen, then spend them on Tenka Goken instead of building three Sen and using Midare Setsugekka. This is because Tenka Goken is also the most efficient in terms of Sen usage as you can perform it three times over six Sen, as opposed to Midare Setsugekka twice over the same amount of Sens.
+If both targets will last long enough, use Higanbana on each and reapply as necessary. Do not use Kaeshi: Higanbana; even in this scenario, it is more worthwhile to build one Sen with Yukikaze and apply the DoT that way than it is to burn Kaeshi on Higanbana. Two targets also introduce a unique rotation where you are using Fuko > Mangetsu/Oka to generate your Getsu/Ka Sen, but using Hakaze > Yukikaze to generate your Setsu Sen, then spending them on Tenka Goken instead of building three Sen and using Midare Setsugekka. This is because Tenka Goken is also the most efficient in terms of Sen usage as you can perform it three times over six Sen, as opposed to Midare Setsugekka twice over the same amount of Sens.
 
 # Conclusion
 
-Being a good DPS player is not only being able to execute well, but also to adapt as the job and fights change over time. It is because of players like you who are interested in this job, that the tactics and the nuances of this job will become clear over time in the fights and against bosses. As such, please use this guide as a reference point on how you can start as a Samurai - the best form of growth will come from your own practice and your own growth as a player!
+Being a good DPS player is not only being able to execute well, but also adapting as the job and fights change over time. It is because of players like you who are interested in this job that the tactics and the nuances in the fights and against bosses become clear over time. As such, please use this guide as a reference point on how you can start as a Samurai. The best form of growth will come from your own practice and your own growth as a player!
 
-With this, the guide has come to its conclusion. I hope you enjoyed the guide and were able to learn about the job, Samurai. Please don’t hesitate to let me know if anything about this guide can be improved.
+With this, the guide has come to its conclusion. I hope you enjoyed the guide and were able to learn about Samurai. Please don’t hesitate to let me know if anything about this guide can be improved.
 
 **Thank you for reading this guide.**
 
