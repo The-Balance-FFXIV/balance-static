@@ -1,14 +1,16 @@
 ---
 title: Samurai Skills Overview
 authors:
-  - boxer
-patch: "6.0"
-lastmod: 2021-12-06T21:56:50.850Z
+  - Balance-SAM-Staff
+patch: "6.18"
+lastmod: 2022-08-03T02:24:52.117Z
 changelog:
   - date: 2021-10-28T03:25:40.964Z
     message: Created page
   - date: 2021-12-06T21:59:05.859Z
     message: Updated for Patch 6.0
+  - date: 2022-08-03T02:24:52.588Z
+    message: Updated for 6.18
 ---
 # Samurai Skills Overview
 
@@ -16,12 +18,12 @@ changelog:
 
 |Icon|Name|Description|
 |---|---|---|
-|![Hakaze](https://xivapi.com/i/003000/003151_hr1.png)|Hakaze|Single target combo starter. 150 potency. +5 Kenki.|
-|![Jinpu](https://xivapi.com/i/003000/003152_hr1.png)|Jinpu|Single target second step combo. 100 potency, 250 potency if combo from Hakaze. Combo Bonus: Fugetsu buff (increased damage dealt by 13% for 40s), +5 Kenki.|
-|![Shifu](https://xivapi.com/i/003000/003156_hr1.png)|Shifu|Single target second step combo. 100 potency, 250 potency if combo from Hakaze. Combo Bonus: Fuka buff (reduces GCD and autoattack delay by 13%) for 40s, +5 Kenki.|
-|![Gekko](https://xivapi.com/i/003000/003158_hr1.png)|Gekko|Single target third step combo. 100 potency, 150 from rear. If combo from Jinpu, increases to 320 potency, 370 potency from rear. Combo Bonus: Getsu Sen, +10 Kenki.|
-|![Kasha](https://xivapi.com/i/003000/003164_hr1.png)|Kasha|Single target third step combo. 100 potency, 150 from flank. If combo from Shifu, increases to 320 potency, 370 potency from flank. Combo Bonus: Ka Sen, +10 Kenki.|
-|![Yukikaze](https://xivapi.com/i/003000/003166_hr1.png)|Yukikaze|Single target second step combo. 100 potency, 280 potency if combo from Hakaze. Combo Bonus: Setsu Sen, +15 Kenki.|
+|![Hakaze](https://xivapi.com/i/003000/003151_hr1.png)|Hakaze|Single target combo starter. 200 potency. +5 Kenki.|
+|![Jinpu](https://xivapi.com/i/003000/003152_hr1.png)|Jinpu|Single target second step combo. 120 potency, 280 potency if combo from Hakaze. Combo Bonus: Fugetsu buff (increased damage dealt by 13% for 40s), +5 Kenki.|
+|![Shifu](https://xivapi.com/i/003000/003156_hr1.png)|Shifu|Single target second step combo. 120 potency, 280 potency if combo from Hakaze. Combo Bonus: Fuka buff (reduces GCD and autoattack delay by 13%) for 40s, +5 Kenki.|
+|![Gekko](https://xivapi.com/i/003000/003158_hr1.png)|Gekko|Single target third step combo. 120 potency. If combo from Jinpu, increases to 330 potency, 380 potency from rear. Combo Bonus: Getsu Sen, +10 Kenki.|
+|![Kasha](https://xivapi.com/i/003000/003164_hr1.png)|Kasha|Single target third step combo. 120 potency. If combo from Shifu, increases to 330 potency, 380 potency from flank. Combo Bonus: Ka Sen, +10 Kenki.|
+|![Yukikaze](https://xivapi.com/i/003000/003166_hr1.png)|Yukikaze|Single target second step combo. 120 potency, 300 potency if combo from Hakaze. Combo Bonus: Setsu Sen, +15 Kenki.|
 |![Enpi](https://xivapi.com/i/003000/003155_hr1.png)|Enpi|Single target ranged attack, 100 potency, 260 if combo (Yaten). +10 Kenki.|
 
 ## Global Cooldown Actions (Area of Effect)
@@ -29,8 +31,8 @@ changelog:
 |---|---|---|
 |![Fuga](https://xivapi.com/i/003000/003157_hr1.png)|Fuga|AoE frontal cone, 90 potency. +5 Kenki.|
 |![Fuko](https://xivapi.com/i/003000/003189_hr1.png)|Fuko|Upgraded Fuga. AoE in a circle around you, 100 potency. +10 Kenki.|
-|![Mangetsu](https://xivapi.com/i/003000/003163_hr1.png)|Mangetsu|AoE in a circle around you, 100 potency, 110 if combo. Combo Bonus: Getsu Sen, Fugetsu buff. +10 Kenki.|
-|![Oka](https://xivapi.com/i/003000/003165_hr1.png)|Oka|AoE in a circle around you, 100 potency, 110 if combo. Combo Bonus: Ka Sen, Fuka buff. +10 Kenki.|
+|![Mangetsu](https://xivapi.com/i/003000/003163_hr1.png)|Mangetsu|AoE in a circle around you, 100 potency, 120 if combo. Combo Bonus: Getsu Sen, Fugetsu buff. +10 Kenki.|
+|![Oka](https://xivapi.com/i/003000/003165_hr1.png)|Oka|AoE in a circle around you, 100 potency, 120 if combo. Combo Bonus: Ka Sen, Fuka buff. +10 Kenki.|
 
 
 ## off-Global Cooldown Actions
@@ -41,10 +43,9 @@ changelog:
 |![Meditate](https://xivapi.com/i/003000/003172_hr1.png)|Meditate|Channeled Kenki and Meditation stack generation for 15s. Initial cast on the GCD. +10 Kenki (Max 50) and +1 Meditation stack (Max 3) per tick. Cancelled upon movement or action. Can only be used in combat. 60s CD.|
 |![Hagakure](https://xivapi.com/i/003000/003176_hr1.png)|Hagakure|Consumes all Sen, +10 Kenki for each consumed. 5s CD.|
 |![Ikishoten](https://xivapi.com/i/003000/003179_hr1.png)|Ikishoten|+50 Kenki. Can only be used in combat. Grants Ogi Namikiri Ready buff for 30s. 120s CD.|
-|![Hissatsu: Kaiten](https://xivapi.com/i/003000/003168_hr1.png)|Hissatsu: Kaiten|+50% potency to next Weaponskill. -20 Kenki. 15s CD.|
 |![Hissatsu: Gyoten](https://xivapi.com/i/003000/003169_hr1.png)|Hissatsu: Gyoten|Dash to target (20-yalm range), 100 potency. -10 Kenki. 10s CD|
 |![Hissatsu: Yaten](https://xivapi.com/i/003000/003170_hr1.png)|Hissatsu: Yaten|10-yalm backstep, 100 potency. Combos into Enpi. -10 Kenki. 10s CD.|
-|![Hissatsu: Shinten](https://xivapi.com/i/003000/003173_hr1.png)|Hissatsu: Shinten|Single target attack, 270 potency. -25 Kenki. 15s CD.|
+|![Hissatsu: Shinten](https://xivapi.com/i/003000/003173_hr1.png)|Hissatsu: Shinten|Single target attack, 250 potency. -25 Kenki. 15s CD.|
 |![Hissatsu: Kyuten](https://xivapi.com/i/003000/003174_hr1.png)|Hissatsu: Kyuten|AoE in a circle around you, 110 potency. -25 Kenki. 15s CD.|
 |![Hissatsu: Guren](https://xivapi.com/i/003000/003177_hr1.png)|Hissatsu: Guren|Line AOE, 500 potency with 50% damage falloff. -25 Kenki. 2m CD, shared with Senei.|
 |![Hissatsu: Senei](https://xivapi.com/i/003000/003178_hr1.png)|Hissatsu: Senei|Single target nuke, 800 potency. -25 Kenki. 2min CD, shared with Guren..|
@@ -55,15 +56,15 @@ changelog:
 |Icon|Name|Description|
 |---|---|---|
 |![Iaijutsu](https://xivapi.com/i/003000/003159_hr1.png)|Iaijutsu|1.3s casted Weaponskill. Effect depends on the number of Sen held. +1 Meditation stack (Max 3).|
-|![Higanbana](https://xivapi.com/i/003000/003160_hr1.png)|Higanbana|Single target 50s DoT. 200 potency initial hit, 30 potency ticks. Total 800.|
-|![Tenka Goken](https://xivapi.com/i/003000/003161_hr1.png)|Tenka Goken|AoE frontal cone. 280 potency.|
-|![Midare Setsugekka](https://xivapi.com/i/003000/003162_hr1.png)|Midare Setsugekka|Single target nuke. 660 potency.|
+|![Higanbana](https://xivapi.com/i/003000/003160_hr1.png)|Higanbana|Single target 60s DoT. 200 potency initial hit, 45 potency ticks. Total 1100.|
+|![Tenka Goken](https://xivapi.com/i/003000/003161_hr1.png)|Tenka Goken|Circle AoE. 280 potency.|
+|![Midare Setsugekka](https://xivapi.com/i/003000/003162_hr1.png)|Midare Setsugekka|Single target nuke. 600 potency. This attack will always critical hit.|
 |![Tsubame-gaeshi](https://xivapi.com/i/003000/003180_hr1.png)|Tsubame-gaeshi|Ability, combos off laijutsu. Recasts previous laijutsu with higher potency. 60s CD. Can hold two charges.|
-|![Kaeshi: Higanbana](https://xivapi.com/i/003000/003181_hr1.png)|Kaeshi: Higanbana|Single target 60s DoT. 300 potency initial hit, 45 potency ticks. Total 1200. Does not stack with Higanbana.|
-|![Kaeshi: Goken](https://xivapi.com/i/003000/003182_hr1.png)|Kaeshi: Goken|AoE frontal cone. 420 potency.|
-|![Kaeshi: Setsugekka](https://xivapi.com/i/003000/003183_hr1.png)|Kaeshi: Setsugekka|Single target nuke. 990 potency.|
-|![Ogi Namikiri](https://xivapi.com/i/003000/003187_hr1.png)|Ogi Namikiri|AoE frontal cone. 800 potency with 75% damage falloff. +1 Meditation stack (Max 3).|
-|![Kaeshi: Namikiri](https://xivapi.com/i/003000/003188_hr1.png)|Kaeshi: Namikiri|AoE frontal cone. 1200 potency with 75% damage falloff.|
+|![Kaeshi: Higanbana](https://xivapi.com/i/003000/003181_hr1.png)|Kaeshi: Higanbana|Single target 60s DoT. 200 potency initial hit, 45 potency ticks. Total 1100. Does not stack with Higanbana.|
+|![Kaeshi: Goken](https://xivapi.com/i/003000/003182_hr1.png)|Kaeshi: Goken|AoE frontal cone. 280 potency.|
+|![Kaeshi: Setsugekka](https://xivapi.com/i/003000/003183_hr1.png)|Kaeshi: Setsugekka|Single target nuke. 600 potency. This attack will always critical hit.|
+|![Ogi Namikiri](https://xivapi.com/i/003000/003187_hr1.png)|Ogi Namikiri|AoE frontal cone. 800 potency with 75% damage falloff. This attack will always critical hit. +1 Meditation stack (Max 3).|
+|![Kaeshi: Namikiri](https://xivapi.com/i/003000/003188_hr1.png)|Kaeshi: Namikiri|AoE frontal cone. 1200 potency with 75% damage falloff. This attack will always critical hit.|
 
 ## Role Actions
 |Icon|Name|Description|
