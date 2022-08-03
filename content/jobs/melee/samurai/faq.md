@@ -11,12 +11,12 @@ changelog:
 qna:
   - question: Is X better than Y for me?
     answer: >-
-      * For weapons: item level (ilvl)/weapon damage (wd) wins, regardless of
+      * For weapons: item level (iLvl)/weapon damage (WD) wins, regardless of
       substats.
 
-      * For armor: ilvl usually wins, unless 5 materia slots.
+      * For armor: iLvl usually wins, unless 5 materia slots.
 
-      * For same-ilvl pieces: substat itemization can be in your favor or not depending on the rest of your gear and stat tiering.
+      * For same-iLvl pieces: substat itemization can be in your favor or not depending on the rest of your gear and stat tiering.
 
 
       When in doubt, use the Gear Planner - only here can you get an accurate answer for **your** setup!
