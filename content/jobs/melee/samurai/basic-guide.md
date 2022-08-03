@@ -554,32 +554,32 @@ If the Sen system and Ogi Namikiri and its 800 potency is what catches people’
 | Gyoten             | \= 100p/10k      | \= 10p/k                                     |
 | Kyuten             | \= 110p/25k      | \= 4.4p/k per mob                            |
 
-From the numbers above, a few conclusions can be drawn.
+From the numbers above, a few conclusions can be drawn:
 
 * Guren and Senei are extremely powerful oGCDs and carry a very high potency/kenki. Just the sheer potency number makes you want to use this ASAP on an opener. Guren is a gain starting on three targets.
 * Senei gives you the biggest bang for your buck.
 * Gyoten and Yaten are worth the same as Shinten, allowing you to use them to manipulate Kenki before buff windows or dump more during buff windows.
 * Kyuten outperforms Shinten at 3 mobs and above.
 
-In addition, it means that **<span style="text-decoration:underline;">each time you successfully use Third Eye you have effectively gained 100 potency.</span>** This potency can add up very quickly by the end of an encounter, so always try to press Third Eye when you know there is upcoming damage.
+In addition, it means that **<span style="text-decoration:underline;">each time you successfully use Third Eye you have effectively gained 100 potency.</span>** This potency can add up very quickly by the end of an encounter, so always try to press Third Eye when you know there is incoming damage.
 
-*Note regarding Yaten-Enpi-Gyoten:* If you factor only the Yaten-Enpi combo, it is 10 Kenki cost for an additional 260 potency and regenerates 10 Kenki, and that gives you 26 potency per Kenki. <span style="text-decoration:underline;">However, this combo does not give you any benefits to reapply your buffs or adding a Sen.</span> While it is a potent 1-GCD combo, it cannot be used reliably outside of very specific situations such as dodging out of an AOE while being unable to go back to the boss soon or off-setting your GCDs by one. Gyoten can be used as a gap closer if Sprint won’t do the job, or to manipulate your Kenki bar for more damage under buffs.
+*Note regarding Yaten-Enpi-Gyoten:* If you factor only the Yaten-Enpi combo, it is 10 Kenki cost for an additional 260 potency and regenerates 10 Kenki, and that gives you 26 potency per Kenki. <span style="text-decoration:underline;">However, this combo does not give you any benefits to reapply your buffs or for adding a Sen.</span> While it is a potent one GCD combo, it cannot be used reliably outside of very specific situations, such as dodging out of an AOE while being unable to go back to the boss soon or off-setting your GCDs by one. Gyoten can be used as a gap closer if Sprint won’t do the job, or to manipulate your Kenki bar for more damage under buffs.
 
 ## To Enpi or to Not Enpi (And Gyoten and Yaten)
 
-That is the question. Most of the time, the answer can be summed up as: Don’t if you can just run.
+That is the question. Most of the time, the answer can be summed up as: Do not if you can just run.
 
-A common mistake that I’ve seen from many Samurai is that they happily use Yaten - Enpi - Gyoten combo to get out of an AOE and dash back in immediately. However, that method will push our GCDs back by one - it is an inefficient use of GCD if you could have simply moved out of an AOE between GCD.
+A common mistake that I have seen from many Samurai is that they happily use Yaten - Enpi - Gyoten combo to get out of an AOE and dash back in immediately. However, that method will push our GCDs back by one, and it is an inefficient use of GCD if you could have simply moved out of an AOE between GCD.
 
 So what are the values of Gyoten/Yaten/Enpi?
 
-<span style="text-decoration:underline;">They are good only if you gain a GCD that would have been otherwise impossible without them</span>
+<span style="text-decoration:underline;">They are good only if you gain a GCD that would have been otherwise impossible without them.</span>
 
-Gyoten/Yaten gain value if using them allows you to get an extra GCD compared to not using it, such as moving from one target at one end of a map to another one at the other end. If the targets are close enough that you could have run or used Sprint and not lose GCDs, then it is inefficient.
+Gyoten/Yaten gain value if using them allows you to get an extra GCD compared to not using them, such as moving from one target at one end of a map to another one at the other end. If the targets are close enough that you could have run or used Sprint and not lose GCDs, then it is inefficient.
 
-Enpi is the same. It gains value only if there are time periods where you could have used a ranged attack but not melee attack- which is often a rare situation.
+Enpi is the same. It gains value only if there are time periods where you could have used a ranged attack but not melee attack, which is often a rare situation.
 
-Of course, exceptions always happen, but you will recognize the exceptions in the fight situation as you gain experience.
+Of course, exceptions always happen. You will recognize the exceptions in the fight situation as you gain experience.
 
 As of 5.0, usage of Enpi has extended into the potential for keeping rotational alignment. Please refer to the section on looping or to the 6.0 SAM optimization guide for more information.
 
@@ -587,15 +587,15 @@ As of 5.0, usage of Enpi has extended into the potential for keeping rotational 
 
 With the changes to Meikyo Shisui and combo enders (Gekko/Kasha) in 6.0, its role as a tool in our rotation has changed in a big way going into Endwalker. Instead of existing solely as an optimization tool and a way to fix our rotational alignment to maximize our Iaijustu and Tsubame usage, it now offers a way to avoid the ramp-up/buff application period that defined Samurai in Shadowbringers.
 
-The goal of Meikyo is to manipulate your Sen so you can apply your buffs as quickly as possible and maximize Iaijutsu usage. For example, in the opener we use Meikyo to quickly apply both of our buffs, get all 3 Sen, and open with a fully buffed Midare in raid buffs. We also use Meikyo in every 60s burst window to manipulate our Sen to quickly perform a buffed Higanbana right on time. While leveling or in dungeon content, it can also be used to quickly perform Tenka Goken for AoE purposes.
+The goal of Meikyo is to manipulate your Sen so you can apply your buffs as quickly as possible and maximize Iaijutsu usage. For example, in the opener we use Meikyo to quickly apply both of our buffs, get all three Sen, and open with a fully buffed Midare in raid buffs. We also use Meikyo in every 60s burst window to manipulate our Sen and quickly perform a buffed Higanbana right on time. While leveling or in dungeon content, it can also be used to quickly perform Tenka Goken for AoE purposes.
 
-**Tip:** Iaijutsu doesn’t count as one of the three Weaponskills on Meikyo, so you can use it in between the three to put up Higanbana with ease. For example: Meikyo starts > Kasha > Higanbana > Kasha > Gekko (Meikyo ends)
+**Tip:** Iaijutsu doesn’t count as one of the three Weaponskills on Meikyo, so you can use it between the three to put up Higanbana with ease. For example: Meikyo starts > Kasha > Higanbana > Kasha > Gekko (Meikyo ends).
 
-In relation to the order of the Sen, it is important to note *which* finishers to use if you are planning to come out of the Meikyo with one or two Sen. You need to look at the remaining duration of the buffs you have and keep track of the order of the buffs that need to be refreshed. The reasoning being that the first combo you do after a Meikyo will likely be the buff that needs to be refreshed or has the shortest duration—thus you will reapply the buff and its Sen immediately after, followed by the next. As such, if you are ending a Meikyo with one or two Sen, use the Sen with the longest buff duration last in Meikyo.
+In relation to the order of the Sen, it is important to note *which* finishers to use if you are planning to come out of the Meikyo with one or two Sen. You need to look at the remaining duration of the buffs you have and keep track of the order of the buffs that need to be refreshed. The reason being that the first combo you do after a Meikyo will likely be the buff that needs to be refreshed or has the shortest duration; therefore, you will reapply the buff and its Sen immediately after and then followed by the next. As such, if you are ending a Meikyo with one or two Sen, use the Sen with the longest buff duration last in Meikyo.
 
 **For example:** If you just performed a Gekko combo and have a 
 ![alt_text](https://lh3.googleusercontent.com/vh7p32RLojf1eVxekvJgdXj61Q4h4w8FTI0f7K-8QtGKUQRpqBsgIPqjGvTIp8jl1EQEHtDCan8xoegKxMtxnHN94Ti4koHcV69g5liT5ExglUdUoxa7vkyRQF0bock5ZcTtnFzH=s0 "Getsu")
- Sen and Higanbana needs to be refreshed in 4 GCDs, but you cannot wait. 
+ Sen and Higanbana need to be refreshed in four GCDs, but you cannot wait. 
 
 With Meikyo it is possible for you to go the following sequence: 
 
@@ -611,7 +611,7 @@ With Meikyo it is possible for you to go the following sequence:
 **\->**
 ![alt_text](https://xivapi.com/i/003000/003160_hr1.png "Higanbana")
 
-Now, how to use Meikyo to increase your damage? Consider Meikyo as a GCD saver after you’ve refreshed both your Fugetsu and Fuka buffs, as it lets you skip an entire two GCDs in your Kasha and Gekko combos. Thus, the most ideal situation is one where you use all three of Meikyo’s GCDs on Kasha and Gekko only, as using Yukikaze in Meikyo saves you only once GCD and Yukikaze is a weaker finisher.
+Now, how to use Meikyo to increase your damage? Consider Meikyo as a GCD saver after you have refreshed both your Fugetsu and Fuka buffs, as it lets you skip an entire two GCDs in your Kasha and Gekko combos. The most ideal situation is one where you use all three of Meikyo’s GCDs on Kasha and Gekko only, as using Yukikaze in Meikyo saves you only once GCD and Yukikaze is a weaker finisher.
 
 <span style="text-decoration:underline;">An example of Meikyo with ideal usage as long as the buffs do not fall off:</span>
 
@@ -637,31 +637,31 @@ The intended purpose for the reintroduction of Hagakure from SE seemed to be fro
 
 ## Higanbana Timing
 
-Of all moves that a Samurai can use, the single most powerful move is Higanbana. As you recall, Higanbana is 1100 potency of damage over the course of 60 seconds. Because of its sheer damage compacted into a single GCD, this is strongly amplified under raid buffs. The nice thing about raid buffs is that a good chunk of them will line up with Higanbana timing: Trick Attack, Battle Voice, Dragon Sight, Battle Litany, Chain Stratagem, Technical Step, etc. tend to fall under a cooldown time that is a multiple of 60s. As such, you should be able to land your Higanbana within those raid buffs at the time of refresh.
+Of all the moves a Samurai can use, the single most powerful move is Higanbana. As you recall, Higanbana is 1100 potency of damage over the course of 60 seconds. Because of its sheer damage compacted into a single GCD, this is strongly amplified under raid buffs. The nice thing about raid buffs is that a good chunk of them will line up with Higanbana timing: Trick Attack, Battle Voice, Dragon Sight, Battle Litany, Chain Stratagem, Technical Step, etc. tend to fall under a cooldown time that is a multiple of 60s. As such, you should be able to land your Higanbana within those raid buffs at the time of refresh.
 
-Now that said, how do you know when to *not* use Higanbana? Some bosses go invincible for a period of time during which your Higanbana is ineffective. When that happens, if your Higanbana did not get to make use of its duration, then it is lost DPS. 
+With that said, how do you know when to *not* use Higanbana? Some bosses go invincible for a period of time during which your Higanbana is ineffective. When that happens, if your Higanbana did not get to make use of its duration, then it is lost DPS.
 
-Comparing Midare Setsugekka with Higanbana; it takes about 42s of ticks for Higanbana to outdamage Midare Setsugekka in the same GCD.
+Comparing Midare Setsugekka with Higanbana, it takes about 42s of ticks for Higanbana to outdamage Midare Setsugekka in the same GCD.
 
-The rule of thumb is that if Higanbana was not able to tick for more than about 42s of its duration, it would have been better to not use it. This is doubly true if using Higanbana would have prevented you from using a Midare Setsugekka in the same period of time. So generally speaking, fight phases of 1:30 should have only one Higanbana used, 3:20 only three Higanbana, and so on. Fight phases of, for example, 3:50 should have four Higanbana used *only* if you are able to use a buffed (already under Fugetsu at absolute minimum) Higanbana at the very first GCD and have perfect refresh timing. There are some situations where it is proper to use Higanbana when it would not tick for its full duration, such as at the end of a fight where you are ending on two meditation stacks in order to generate the extra stack and use Shoha, but that is a per-fight optimization that should be mathed out according to the rest of the encounter.
+The rule of thumb is that if Higanbana was not able to tick for more than about 42s of its duration then it would have been better not to use it. This is doubly true if using Higanbana would have prevented you from using a Midare Setsugekka in the same period of time. Generally speaking, fight phases of 1:30 should have only one Higanbana used, 3:20 only three Higanbana, and so on. Fight phases of 3:50, for example, should have four Higanbana used *only* if you are able to use a buffed (already under Fugetsu at absolute minimum) Higanbana at the very first GCD and have perfect refresh timing. There are some situations where it is proper to use Higanbana when it would not tick for its full duration, such as at the end of a fight where you are ending on two meditation stacks in order to generate the extra stack and use Shoha, but that is a per-fight optimization that should be mathematically figured out according to the rest of the encounter.
 
-Higanbana is responsible for much of a Samurai’s damage, but applying it liberally and improperly only means you’ll suffer in the long run.
+Higanbana is responsible for much of a Samurai’s damage, but applying it liberally and improperly only means you will suffer in the long run.
 
 ## Rotation & Looping
 
-Samurai’s high potency rotation revolves around executing our biggest cooldown abilities as soon as they are available to ensure that we use all the available charges of each skill, as well as to ensure buff uptime and in order to never drop Higanbana. To do so, we use what is referred to as a ‘looping’ rotation, where the order of skills repeats every 120s after the opener. This looping rotation is separated into 3 distinct parts: the opener, the cooldown phase, and the burst phase. 
+Samurai’s high potency rotation revolves around executing our biggest cooldown abilities as soon as they are available to ensure that we use all the available charges of each skill, as well as to ensure buff uptime in order to never drop Higanbana. To do so, we use what is referred to as a ‘looping’ rotation, where the order of skills repeats every 120s after the opener. This looping rotation is separated into three distinct parts: the opener, the cooldown phase, and the burst phase. 
 
 In the opener, we use Meikyo Shisui before pulling the boss in order to have it up on pull to use Gekko and Kasha and apply our buffs as fast as possible. We then immediately use all of our large cooldown abilities (Senei, Ikishoten, both our Tsubame Gaeshi charges, and our second Meikyo Shisui charge) to get their cooldowns rolling. 
 
 In the cooldown phase we are just passing the time waiting for our Higanbana timer to tick down and for our cooldowns to come back. To do this, we simply use our natural combos to build a Midare, and then build the three Sen again a second time. These three Sen then lead into your burst phase.
 
-In the burst phase, we will use whichever of our big cooldowns are available to do our maximum amount of damage inside the buffs provided by the rest of our team. It starts by using those three Sen we gathered in the cooldown phase to use both Midare and Kaeshi: Setsugekka, then uses Meikyo Shisui to acquire the sen to reapply Higanbana, as well as preparing for another Midare inside buffs. If we have Ikishoten+Senei+Ogi Namikiri, we will use them here. If we do not, we will have to use filler to align our loop. 
+In the burst phase, we will use whichever big cooldowns are available to do our maximum amount of damage inside the buffs provided by the rest of our team. It starts by using the three Sen we gathered in the cooldown phase in order to use both Midare and Kaeshi: Setsugekka, then use Meikyo Shisui to acquire the sen to reapply Higanbana, and then prepare for another Midare inside the buffs. If we have Ikishoten + Senei + Ogi Namikiri, we will use them here. If we do not, we will have to use filler to align our loop.
 
 ## Filler
 
 Filler is often the part of the Samurai rotation that new players struggle the most with, but once understood, is the key to successfully landing your big skills where you want them and not having to wait for skills to come off cooldown in the middle of your rotation. 
 
-Every minute of your Samurai rotation has either 28, 29, or 30 GCDs depending on which GCD tier you are using (2.14/2.07/2.00 respectively). Our normal cooldown+burst phase (not including Ogi+Kaeshi Namikiri) is 26 GCDs. This means that each time we execute our cooldown+burst, we need to ‘fill’ another 2/3/4 GCDs. To do so, we use Ogi Namikiri and Kaeshi: Namikiri when we can (2 GCDs) and combos+Hagakure when we can’t. This allows us to fill the ‘empty space’ in our rotation with as much potency as we can, while still keeping all of our abilities lined up to execute on time.
+Every minute of your Samurai rotation has either 28, 29, or 30 GCDs depending on which GCD tier you are using (2.14 / 2.07 / 2.00 respectively). Our normal cooldown and burst phase (not including Ogi+Kaeshi Namikiri) is 26 GCDs. This means that each time we execute our cooldown and burst, we need to fill another 2 / 3 / 4 GCDs. To do so, we use Ogi Namikiri and Kaeshi: Namikiri when we can (two GCDs) and combos and Hagakure when we cannot. This allows us to fill the empty space in our rotation with as much potency as we can, while still keeping all of our abilities lined up to execute on time.
 
 List of filler:
 
@@ -720,7 +720,7 @@ List of filler:
 
 # AoE Rotations
 
-Rule of thumb: Always AoE when there are three or more enemies. When AoEing groups of enemies as a SAM, you will want to put your buffs up with Meikyo Shisui + Mangetsu/Oka, and then follow the below basic rotation:
+Rule of thumb: Always AoE when there are three or more enemies. When AoEing groups of enemies as a SAM, you will want to put your buffs up with Meikyo Shisui and Mangetsu/Oka and then follow the below basic rotation:
 
 ![alt_text](https://xivapi.com/i/003000/003189_hr1.png "Fuko")
 **\->**
@@ -732,7 +732,7 @@ Rule of thumb: Always AoE when there are three or more enemies. When AoEing grou
 **\->**
 ![alt_text](https://xivapi.com/i/003000/003161_hr1.png "Tenka Goken")
 
-The strength of SAM’s AOE rotation lies in the fact that both two-GCD AOE combo generates a different Sen each, allowing you to flow into a Tenka Goken easily. They also will naturally upkeep your buff timers, so you won't have to awkwardly switch from AoE to single target back and forth. Their strongest Hissatsu move, Guren, is an extremely potent AOE as well and it is worth saving Guren for adds or AOE as long as you’re not holding on to it for longer than its cooldown. Once you reach three targets or more, excess Kenki should be spent on Kyuten instead of Shinten.
+The strength of SAM’s AOE rotation lies in the fact that both two-GCD AoE combos generate a different Sen each, allowing you to easily flow into a Tenka Goken. They also will naturally upkeep your buff timers, so you will not have to awkwardly switch back and forth from AoE to single target.. Their strongest Hissatsu move, Guren, is an extremely potent AoE as well and it is worth saving Guren for adds or AoE as long as you are not holding onto it for longer than its cooldown. Once you reach three targets or more, excess Kenki should be spent on Kyuten instead of Shinten.
 
 **What happens if there are two targets?**
 
