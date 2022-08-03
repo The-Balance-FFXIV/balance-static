@@ -2,11 +2,13 @@
 title: Paladin Skills Overview
 authors:
   - nikroulah
-patch: "5.5"
+patch: "6.18"
 lastmod: 2021-10-27T08:27:54.472Z
 changelog:
   - date: 2021-10-27T17:21:39.738Z
     message: Added
+  - date: 2022-08-03T05:02:15.872Z
+    message: updated for EW (sorry for the delay!)
 ---
 ## Buffs
 
@@ -33,15 +35,9 @@ By using Fight or Flight late into the GCD (just before the next GCD), it is pos
 
 60s cooldown.
 
-150-550 potency (magical) depending on current MP.
+400 potency (magical).
 
-Scales linearly from 150 potency at 0 MP to 550 potency at max MP.
-
-If used with at least 8,000 MP, provides a 12 second buff:
-
-* +50% Magic Damage.
-* Spells have no cast time (Lv. 78).
-* Enables use of Confiteor, which removes the buff when used (Lv. 80).
+Provides 5 stacks of Requiescat, granting instant casts and increasing the potency of Holy Spirit, Holy Circle, and enabling the use of Confiteor.
 
 ## Single Target GCDs
 
@@ -51,7 +47,7 @@ If used with at least 8,000 MP, provides a 12 second buff:
 |-|-|-|
 |![](https://xivapi.com/i/000000/000158_hr1.png) | ![](https://xivapi.com/i/000000/000156_hr1.png) | ![](https://xivapi.com/i/002000/002506_hr1.png)|
 
-200 > 300 > 390 potency + 595 potency DoT over 21 seconds (physical damage).
+200 > 300 > 250 potency + 455 potency DoT over 21 seconds (physical damage).
 
 The DoT portion snapshots buffs and debuffs when Goring Blade is cast.
 
@@ -63,7 +59,7 @@ The DoT portion snapshots buffs and debuffs when Goring Blade is cast.
 |-|-|-|
 |![](https://xivapi.com/i/000000/000158_hr1.png) | ![](https://xivapi.com/i/000000/000156_hr1.png) | ![](https://xivapi.com/i/002000/002507_hr1.png)|
 
-200 > 300 > 550 potency (physical damage)
+200 > 300 > 420 potency (physical damage)
 
 +3 Sword Oath
 
@@ -74,7 +70,7 @@ The DoT portion snapshots buffs and debuffs when Goring Blade is cast.
 **Atonement**
 ![](https://xivapi.com/i/002000/002519_hr1.png)
 
-550 potency (physical)
+420 potency (physical)
 
 Costs one Sword Oath.
 
@@ -83,43 +79,61 @@ Costs one Sword Oath.
 **Holy Spirit**
 ![](https://xivapi.com/i/002000/002514_hr1.png)
 
-350 potency (magical) | 1.5s cast time
+270 potency (magical) | 1.5s cast time | Does not break combo
 
-Costs 2000 MP.
+540 potency under Requiescat.
+
+Heals self for 400 potency.
+
+Costs 1000 MP.
 
 **Confiteor**
 ![](https://xivapi.com/i/002000/002518_hr1.png)
 
-800 potency (magical damage).
+900 potency (magical damage).
 
-Costs 2,000 MP.
+Heals self for 400 potency.
+
+Costs 1000 MP.
 
 AoE around target.
 
-Requires and consumes the Requiescat buff.
+Requires the Requiescat buff and consumes all stacks on use.
+
+**Blade of Valor Combo**
+
+|**Blade of Faith >** | **Blade of Truth >** | **Blade of Valor**|
+|-|-|-|
+|![](https://xivapi.com/i/002000/002952_hr1.png) | ![](https://xivapi.com/i/002000/002953_hr1.png) | ![](https://xivapi.com/i/002000/002954_hr1.png)|
+
+420 > 500 > 580 potency + 560 potency DoT over 21 seconds (magical damage).
+
+Replaces the Confiteor button when the Requiescat buff ends, usually because Confiteor was used. The Blade of Faith Ready buff acts exactly like a combo, meaning most other GCDs will cause Blade of Faith Ready to fall off.
+
+400 potency heal and +500MP per hit.
 
 ## Offensive Abilities (oGCDs)
 
-**Spirits Within**
-![](https://xivapi.com/i/002000/002503_hr1.png)
+**Expiacion**
+![](https://xivapi.com/i/002000/002951_hr1.png)
 
-100-370 potency depending on current HP (physical damage). | 30s cooldown.
+340 potency | 30s cooldown.
 
-Scales linearly from 100 potency at 1 HP to 370 potency at max HP.
+AoE around target, 50% less damage on secondary targets.
 
 +500 MP
 
 **Circle of Scorn**
 ![](https://xivapi.com/i/000000/000161_hr1.png)
 
-120 potency + 175 potency DoT over 15 seconds (physical damage). | 25s cooldown.
+100 potency + 150 potency DoT over 15 seconds (physical damage). | 30s cooldown.
 
 AoE centered on self.
 
 **Intervene**
 ![](https://xivapi.com/i/002000/002520_hr1.png)
 
-200 potency (physical damage). | 2 charges.
+150 potency (physical damage). | 2 charges.
 
 30s charge time.
 
@@ -139,16 +153,14 @@ AoE centered on self.
 
 15s duration | 120s cooldown
 
-**Sheltron**
-![](https://xivapi.com/i/002000/002510_hr1.png)
+**Holy Sheltron**
+![](https://xivapi.com/i/002000/002950_hr1.png)
 
-Guarantees blocks.
+Costs 50 Oath Gauge (generated at a rate of 50 per ~23s) | 5s cooldown.
 
-20% damage reduction (at Lv. 80).
-
-6s duration | 6s cooldown
-
-Costs 50 Oath Gauge, which is generated at a rate of 50 per ~23s.
+* Guarantees blocks (20% at Lv. 90) | 8s duration
+* 15% damage reduction | 4s duration
+* 1000 potency regen over 12s
 
 **Passage of Arms**
 ![](https://xivapi.com/i/002000/002515_hr1.png)
@@ -166,7 +178,7 @@ Cancelled by taking any action (including turning your character).
 **Divine Veil**
 ![](https://xivapi.com/i/002000/002508_hr1.png)
 
-If you receive a GCD heal from anybody in the next 30s, party members near you get a shield for 10% of your HP
+If you receive a GCD heal from anybody in the next 30s, party members near you get a shield for 10% of your HP, as well as a 400 potency heal.
 
 Shield duration: 30s | 90s cooldown
 
@@ -180,21 +192,22 @@ Shield duration: 30s | 90s cooldown
 **Intervention**
 ![](https://xivapi.com/i/002000/002512_hr1.png)
 
-10% damage reduction
+Costs 50 Oath Gauge | 10s cooldown.
 
-6s duration | 10s cooldown
+* 10% damage reduction (20% instead if at least one of Rampart or Sentinel is active on you) | 8s duration
+* 10% damage reduction | 4s duration
+* 1000 potency regen over 12s
 
-If either Rampart or Sentinel are active on you *when you cast Intervention*, damage reduction is increased to 20% or 25% respectively, or 35% if both are active.
+**Cover**
+![](https://xivapi.com/i/002000/002501_hr1.png)
 
-**Cover**<br>![](https://xivapi.com/i/002000/002501_hr1.png)
+Costs 50 Oath Gauge | 12s duration | 120s cooldown
 
-Tether to target party member as long as they are within 10y
+Tether to target party member as long as they are within 10y.
 
-12s duration | 120s cooldown
+Redirect most damage and knockbacks on the covered target to you (exceptions exist).
 
-Redirect most damage and knockbacks on the covered target to you (exceptions exist)
-
-Uses your buffs/debuffs (except Hallowed Ground) to calculate damage and ignores the covered target's
+Uses your buffs/debuffs (except Hallowed Ground) to calculate damage and ignores the covered target's.
 
 **Provoke**
 ![](https://xivapi.com/i/000000/000803_hr1.png)
@@ -227,7 +240,7 @@ Applies a 20% auto-attack and cast time slow for 15s to enemies that attack you 
 |-|-|
 |![](https://xivapi.com/i/002000/002511_hr1.png) | ![](https://xivapi.com/i/002000/002516_hr1.png)|
 
-120 > 220 potency (physical damage).
+100 > 170 potency (physical damage).
 
 +500 MP
 
@@ -238,11 +251,17 @@ Replaces single target combos at 3+ enemies.
 **Holy Circle**
 ![](https://xivapi.com/i/002000/002517_hr1.png)
 
-250 potency (magical damage)
+130 potency (magical) | 1.5s cast time
+
+300 potency under Requiescat.
+
+Heals self for 400 potency.
+
+Costs 1000 MP.
 
 Circle AoE centered on self.
 
-Replaces Holy Spirit at 3+ enemies.
+Replaces Holy Spirit at 2+ enemies.
 
 # Other Actions (Infrequently Used)
 
@@ -251,24 +270,24 @@ Replaces Holy Spirit at 3+ enemies.
 **Clemency**
 ![](https://xivapi.com/i/002000/002509_hr1.png)
 
-1200 potency heal on target.
+1000 potency heal on target.
 
-2000 MP (4,000 before Lv. 64)
+Costs 2000 MP | 1.5s cast time | Does not break combo.
 
 When used on another target, also heals you for half as much.
 
 **Shield Lob**
 ![](https://xivapi.com/i/000000/000164_hr1.png)
 
-120 potency (physical damage)
+100 potency (physical damage) | Does not break combo.
 
-* Enmity multiplier 
+* 7x Enmity multiplier 
 * Ranged attack
 
 **Shield Bash**
 ![](https://xivapi.com/i/000000/000154_hr1.png)
 
-110 potency (physical damage)
+100 potency (physical damage)
 
 6s stun
 
