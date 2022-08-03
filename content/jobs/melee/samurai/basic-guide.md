@@ -754,15 +754,15 @@ For the complete beginners to melee DPS and this game’s terminology in general
 
 ## Glossary
 
-So you signed up for being a melee DPS, that means you want to hurt things, and you want to hurt things *up close and personal*. To maximize hurting things, let’s go over some basic concepts.
+So you signed up for being a melee DPS, that means you want to hurt things, and you want to hurt things *up close and personal*. To maximize hurting things, let us go over some basic concepts.
 
 <span style="text-decoration:underline;">Potency:</span> The basic unit of how much damage a move will do. Comparing potencies between combos or rotations is useful only within the specific class.
 
-<span style="text-decoration:underline;">Global Cooldown:</span> (GCD) Can refer to two things. One is the skills themselves, also called Weaponskills. These are skills grouped together under a global cooldown  and go on cooldown the same time they are pressed, and in almost all cases come off cooldown simultaneously. Always be using them when you can. Could also refer to *how long* your GCD is, or how long these skills are on cooldown when pressed. Examples: Hakaze is a GCD. My GCD is 2.13(seconds). 
+<span style="text-decoration:underline;">Global Cooldown:</span> (GCD) Can refer to two things. One is the skills themselves, also called Weaponskills. These are skills grouped together under a global cooldownand go on cooldown the same time they are pressed, and in almost all cases come off cooldown simultaneously. Always be using them when you can. Could also refer to *how long* your GCD is, or how long these skills are on cooldown when pressed. Examples: Hakaze is a GCD. My GCD is 2.13(seconds). 
 
 <span style="text-decoration:underline;">Off-Global Cooldown:</span> (oGCD) are abilities that have their own cooldowns that act independently of other abilities with job-specific exceptions. The abilities have a variety of effects like buffs or damage and are meant to be cast in the downtime between two consecutive GCDs.
 
-<span style="text-decoration:underline;">Combo:</span> If you read the tooltips of some of your skills, you’ll notice that some of them have lines like “Combo Potency” or “Combo Effect” and list another move. That means you must do the moves in a sequence to receive the full effect and potency of all moves. Always do moves in the entire combo sequence to maximize damage done.
+<span style="text-decoration:underline;">Combo:</span> If you read the tooltips of some of your skills, you will notice that some of them have lines like “Combo Potency” or “Combo Effect” and list another move. That means you must do the moves in a sequence to receive the full effect and potency of all moves. Always do moves in the entire combo sequence to maximize damage done.
 
 <span style="text-decoration:underline;">Positional:</span> Some moves have additional effects that indicate a bonus buff, damage, or resource if you use a move and it hits the target’s flank or rear. The rear is indicated by the missing chunk in the target circles of an enemy, and the flanks on the adjacent quarters. Enemies with full circles are omnidirectional, meaning all positional effects with triggers without regard for where you stand.
 
