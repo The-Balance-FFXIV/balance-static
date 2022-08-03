@@ -655,7 +655,7 @@ In the opener, we use Meikyo Shisui before pulling the boss in order to have it 
 
 In the cooldown phase we are just passing the time waiting for our Higanbana timer to tick down and for our cooldowns to come back. To do this, we simply use our natural combos to build a Midare, and then build the three Sen again a second time. These three Sen then lead into your burst phase.
 
-In the burst phase, we will use whichever big cooldowns are available to do our maximum amount of damage inside the buffs provided by the rest of our team. It starts by using the three Sen we gathered in the cooldown phase in order to use both Midare and Kaeshi: Setsugekka, then use Meikyo Shisui to acquire the sen to reapply Higanbana, and then prepare for another Midare inside the buffs. If we have Ikishoten + Senei + Ogi Namikiri, we will use them here. If we do not, we will have to use filler to align our loop.
+In the burst phase, we will use whichever big cooldowns are available to do our maximum amount of damage inside the buffs provided by the rest of our team. It starts by using the three Sen we gathered in the cooldown phase in order to use both Midare and Kaeshi: Setsugekka, using Meikyo Shisui to acquire the sen to reapply Higanbana and preparing for another Midare inside the buffs. If we have Ikishoten + Senei + Ogi Namikiri, we will use them here. If we do not, we will have to use filler to align our loop.
 
 ## Filler
 
@@ -736,7 +736,7 @@ The strength of SAM’s AOE rotation lies in the fact that both two-GCD AoE comb
 
 **What happens if there are two targets?**
 
-If both targets will last long enough, using Higanbana on each and reapply as necessary. Do not use Kaeshi: Higanbana, even in this scenario it is more worthwhile to build one Sen with Yukikaze and apply the DoT that way than it is to burn Kaeshi on Higanbana. Two targets also introduces its own unique rotation, where you are using Fuko > Mangetsu/Oka to generate your Getsu/Ka Sen but using Hakaze > Yukikaze to generate your Setsu Sen, then spend them on Tenka Goken instead of building three Sen and using Midare Setsugekka. This is because Tenka Goken is also the most efficient in terms of Sen usage as you can perform it three times over six Sen, as opposed to Midare Setsugekka twice over the same amount of Sens.
+If both targets will last long enough, use Higanbana on each and reapply as necessary. Do not use Kaeshi: Higanbana, even in this scenario it is more worthwhile to build one Sen with Yukikaze and apply the DoT that way than it is to burn Kaeshi on Higanbana. Two targets also introduces its own unique rotation, where you are using Fuko > Mangetsu/Oka to generate your Getsu/Ka Sen but using Hakaze > Yukikaze to generate your Setsu Sen, then spend them on Tenka Goken instead of building three Sen and using Midare Setsugekka. This is because Tenka Goken is also the most efficient in terms of Sen usage as you can perform it three times over six Sen, as opposed to Midare Setsugekka twice over the same amount of Sens.
 
 # Conclusion
 
