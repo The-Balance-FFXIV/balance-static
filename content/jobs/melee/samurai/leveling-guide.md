@@ -12,6 +12,7 @@ changelog:
     message: Updated for 6.18
 ---
 # Level 50
+
 [Level 50 Opener](https://ffxivrotations.com/3et8)
 
 Rotate through your combos and smash that Midare button. Use Meikyo for Gekko and Kasha past the opener. Refresh Higanbana as close to 0 as possible.
@@ -21,6 +22,7 @@ Rotate through your combos and smash that Midare button. Use Meikyo for Gekko an
 Introduces Kenki Gauge and Hissatsu: Shinten. Use it when you want and be sure not to overcap.
 
 # Level 60
+
 [Level 60 Opener](https://ffxivrotations.com/3lvo)
 
 Once you begin accruing Kenki to spend on Shinten, the opener should look like this.
@@ -31,18 +33,20 @@ Introduces Kenki gain to all of your combos, mash that Shinten button harder to 
 
 # Level 68
 
-When first introduced Hagakure is only really used in dungeons to try and clean up leftover Sen, it does not see a real rotational use until LV76-LV78 with the introduction of Tsubame-gaeshi and the reduction of your GCD.
+When first introduced Hagakure is only really used in dungeons to try and clean up leftover Sen, it does not see a real rotational use until levels 76 through 78 with the introduction of Tsubame-gaeshi and the reduction of your GCD.
 
 # Level 70
+
 [Level 70 Opener](https://ffxivrotations.com/3lvp)
 
-By LV70 your opener should be utilizing your new skills you've picked up along the way and look similar to this, still getting buffs up early and following up with a quick Higanbana.
+By level 70 your opener should be utilizing your new skills you've picked up along the way and look similar to this, still getting buffs up early and following up with a quick Higanbana.
 
 # Level 76
 
 Use exclusively after Midare Setsugekka or Tenka Goken, never after Higanbana. Begin learning about filler in order to keep your rotation lined up. An infographic with a quick primer on filler can be found in the [basic guide.](https://www.thebalanceffxiv.com/jobs/melee/samurai/basic-guide/)
 
-# Level 80 
+# Level 80
+
 [Level 80 Opener](https://ffxivrotations.com/3lvq)
 
 The opener should feel familiar by this point! At level 80 we are simply adding skills we have learned or replacing skills with their more powerful versions. You should be set to use this single-target opener and the basics of play (keep Higanbana up, don't drop buffs, push your cooldowns) until you reach level 90 and can utilize the [basic guide.](https://www.thebalanceffxiv.com/jobs/melee/samurai/basic-guide/)
