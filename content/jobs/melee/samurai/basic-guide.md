@@ -2,151 +2,587 @@
 title: Samurai Basic Guide
 card_header_image: /img/jobs/sam/basic.png
 authors:
-  - boxer
   - Balance-SAM-Staff
-patch: "6.08"
-lastmod: 2022-04-04T22:59:16.133Z
+patch: "6.18"
+lastmod: 2022-08-03T01:49:13.562Z
 changelog:
   - date: 2021-10-28T03:23:16.783Z
     message: Created page
   - date: 2022-04-04T22:59:17.068Z
     message: Updated for Endwalker.
+  - date: 2022-08-03T01:49:24.835Z
+    message: Updated for 6.18
 ---
-Updated by Zombii (Alice Quates of Faerie) and Sweaty Boxer of Midgardsormr
-. 
-
-With thanks to members of the Balance Discord for discussion and theorycrafting (Jahudant and Boxer)
-
-Images and icons are properties of Square Enix.
-
-- - -
-
 # Foreword
 
-With the release of Endwalker, Samurai is now celebrating four years in the game. With Boxer’s permission, I’m updating this guide for Endwalker. 6.0 doesn’t change a whole lot about the fundamentals of playing Samurai or melee, but this guide is still intended for newer players. 
+With the release of Endwalker, Samurai is now celebrating four years in the game. With Boxer’s permission I’m updating this guide for Endwalker. ~~6.0 doesn’t change a whole lot about the fundamentals of playing Samurai or melee~~ 6.1 has fundamentally changed the way Samurai plays in Endwalker, and the changes will be covered in this document. Despite this, this guide is still intended for newer players. 
 
-\-Zombii
+-Zombii
 
-- - -
 
-The following section summarizes Samurai's abilities. You may also refer to [Square Enix's Samurai Job Guide](https://na.finalfantasyxiv.com/jobguide/samurai) for specific skill and trait text. Feel free to skip this section if you're familiar with Samurai's skills.
+---
 
-- - -
+The following section summarizes Samurai’s abilities. You may also refer to [Square Enix’s Samurai Job Guide](https://na.finalfantasyxiv.com/jobguide/samurai/) for specific skill and trait text. Feel free to skip this section if you’re familiar with Samurai’s skills.
+
+---
 
 # Actions
 
+
 ## Weaponskills (GCD)
 
-|                                                 |                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                     |
-| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/003000/003151_hr1.png) |                                                                                                                                                                                                                                                                                     | **Hakaze**  Single target combo starter. 150 potency. +5 Kenki.                                                                                                                                                     |
-| ![](https://xivapi.com/i/003000/003152_hr1.png) |                                                                                                                                                                                                                                                                                     | **Jinpu**  Single target second step combo. 100 potency, 250 potency if comboed from Hakaze. Combo Bonus: Increases damage dealt by 13% for 40s, +5 Kenki.                                                          |
-| ![](https://xivapi.com/i/003000/003156_hr1.png) |                                                                                                                                                                                                                                                                                     | **Shifu**  Single target second step combo. 100 potency, 250 potency if comboed from Hakaze.  Combo Bonus: Reduces GCD and autoattack delay by 13% for 40s, +5 Kenki.                                               |
-| ![](https://xivapi.com/i/003000/003166_hr1.png) | ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Setsu.png](https://lh6.googleusercontent.com/lW5486Um3Pv47vhQ8JbdZRN2hoXIOEj0mGBUN499CrqfPsbdmRGrEsD9qtyDzJSocNthd8tfnDa6jLKu_LdDQngUjBnFpeqv-pgAa57L_WuyxYH2JW6RcJzAXJ6y4TnAURE4csu3=s0) | **Yukikaze**  Single target second step combo. 100 potency, 280 potency if comboed from Hakaze.  Combo Bonus: Setsu Sen, +15 Kenki.                                                                                 |
-| ![](https://xivapi.com/i/003000/003158_hr1.png) | ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Getsu.png](https://lh3.googleusercontent.com/vh7p32RLojf1eVxekvJgdXj61Q4h4w8FTI0f7K-8QtGKUQRpqBsgIPqjGvTIp8jl1EQEHtDCan8xoegKxMtxnHN94Ti4koHcV69g5liT5ExglUdUoxa7vkyRQF0bock5ZcTtnFzH=s0) | **Gekko**  Single target third step combo 100 potency, 320 if comboed from Jinpu, 370 if also hit from the rear.  Combo Bonus: Getsu Sen, +5 Kenki. +10 Kenki if Rear Combo.                                        |
-| ![](https://xivapi.com/i/003000/003164_hr1.png) | ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Ka.png](https://lh6.googleusercontent.com/jSAYprY7WsOG_OyYhh-kYdWo9El9MvFzNKO3Tv4a6GyON8h_i1ToYCAG8bnb-QeQAmhiftTf26kbDKTAG7yoWR7wK0D3VcltTG80NWZ46-y5zZoGuRkcol9hM_LjJljycbeOcYcG=s0)    | **Kasha**  Single target third step combo. 100 potency, 320 if comboed from Shifu, 320 if from the flank.  Combo Bonus: Ka Sen, +5 Kenki. +10 Kenki if Flank Combo. Applies Fuka if used under Meikyo Shisui.       |
-| ![](https://xivapi.com/i/003000/003159_hr1.png) |                                                                                                                                                                                                                                                                                     | **laijutsu**  1.3s casted Weaponskill. Effect depends on number of Sen held.  +1 Meditation stack (Max 3).                                                                                                          |
-|                                                 | ![](https://xivapi.com/i/003000/003160_hr1.png)                                                                                                                                                                                                                                     | **Higanbana**  Single target 60s DoT, 200 potency initial hit, 30 potency ticks. Total 800.                                                                                                                         |
-|                                                 | ![](https://xivapi.com/i/003000/003161_hr1.png)                                                                                                                                                                                                                                     | **Tenka Goken**  AoE frontal cone, 280 potency.                                                                                                                                                                     |
-|                                                 | ![](https://xivapi.com/i/003000/003162_hr1.png)                                                                                                                                                                                                                                     | **Midare Setsugekka**  Single target nuke, 660 potency.                                                                                                                                                             |
-| ![](https://xivapi.com/i/003000/003180_hr1.png) |                                                                                                                                                                                                                                                                                     | **Tsubame-gaeshi**  Ability, combos off laijutsu. Recasts previous laijutsu with higher potency. Two charges, 60s CD.                                                                                               |
-|                                                 | ![](https://xivapi.com/i/003000/003181_hr1.png)                                                                                                                                                                                                                                     | **Kaeshi: Higanbana**   Single target 60s DoT, 300 potency initial hit, 45 potency ticks. Total 1200.  Does not stack with Higanbana.                                                                               |
-|                                                 | ![](https://xivapi.com/i/003000/003182_hr1.png)                                                                                                                                                                                                                                     | **Kaeshi: Goken**  AoE frontal cone, 420 potency.                                                                                                                                                                   |
-|                                                 | ![](https://xivapi.com/i/003000/003183_hr1.png)                                                                                                                                                                                                                                     | **Kaeshi: Setsugekka**  Single target nuke, 990 potency.                                                                                                                                                            |
-| ![](https://xivapi.com/i/003000/003187_hr1.png) |                                                                                                                                                                                                                                                                                     | **Tsubame-gaeshi**  Weaponskill. Conal AoE. May only be executed while under the effect of Ogi Namikiri Ready. 800 potency with 75% damage falloff for each enemy past the first. +1 Meditation Stack (Max 3).      |
-|                                                 | ![](https://xivapi.com/i/003000/003188_hr1.png)                                                                                                                                                                                                                                     | **Kaeshi Namikiri**   Ability. Conal AoE. May only be executed immediately following the execution of Ogi Namikiri by pushing the button again. 1200 potency with 75% damage falloff for each enemy past the first. |
-| ![](https://xivapi.com/i/003000/003155_hr1.png) |                                                                                                                                                                                                                                                                                     | **Enpi**   Single target ranged attack, 100 potency, 260 if comboed (Yaten). +10 Kenki.                                                                                                                             |
-| ![](https://xivapi.com/i/003000/003189_hr1.png) |                                                                                                                                                                                                                                                                                     | **Fuko**  AoE frontal cone, 100 potency. +10 Kenki.                                                                                                                                                                 |
-| ![](https://xivapi.com/i/003000/003163_hr1.png) | ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Getsu.png](https://lh3.googleusercontent.com/vh7p32RLojf1eVxekvJgdXj61Q4h4w8FTI0f7K-8QtGKUQRpqBsgIPqjGvTIp8jl1EQEHtDCan8xoegKxMtxnHN94Ti4koHcV69g5liT5ExglUdUoxa7vkyRQF0bock5ZcTtnFzH=s0) | **Mangetsu**   AoE in a circle around you, 100 potency, 110 if comboed.  Combo Bonus: Getsu Sen, extends Jinpu buff by 15s (Max 40s). +10 Kenki.                                                                    |
-| ![](https://xivapi.com/i/003000/003165_hr1.png) | ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Ka.png](https://lh6.googleusercontent.com/jSAYprY7WsOG_OyYhh-kYdWo9El9MvFzNKO3Tv4a6GyON8h_i1ToYCAG8bnb-QeQAmhiftTf26kbDKTAG7yoWR7wK0D3VcltTG80NWZ46-y5zZoGuRkcol9hM_LjJljycbeOcYcG=s0)    | **Oka**   AoE in a circle around you, 100 potency, 110 if comboed.  Combo Bonus: Ka Sen, extends Shifu buff by 15s (Max 40s). +10 Kenki.                                                                            |
 
-## Off-Global CDs
+<table>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003151_hr1.png" width="" alt="alt_text" title="Hakaze">
 
-|                                                 |     |                                                                                                                                                  |
-| ----------------------------------------------- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![](https://xivapi.com/i/003000/003179_hr1.png) |     | **Ikishoten**   +50 Kenki. Can only be used in combat. 120s CD.                                                                                  |
-| ![](https://xivapi.com/i/003000/003176_hr1.png) |     | **Hagakure**   Consumes all Sen, +10 Kenki for each consumed. 5s CD.                                                                             |
-| ![](https://xivapi.com/i/003000/003168_hr1.png) |     | **Hissatsu: Kaiten**   +50% potency to next Weaponskill. -20 Kenki. 1s CD.                                                                       |
-| ![](https://xivapi.com/i/003000/003173_hr1.png) |     | **Hissatsu: Shinten**   Single target attack, 270 potency. -25 Kenki. 1s CD.                                                                     |
-| ![](https://xivapi.com/i/003000/003177_hr1.png) |     | **Hissatsu: Guren**   Line AoE, 500 potency with 50% damage falloff for each target past the first. -25 Kenki. Two minute CD, shared with Senei. |
-| ![](https://xivapi.com/i/003000/003178_hr1.png) |     | **Hissatsu: Senei**   Single target nuke, 800 potency. -25 Kenki. Two minute CD, shared with Guren.                                              |
-| ![](https://xivapi.com/i/003000/003170_hr1.png) |     | **Hissatsu: Yaten**   10-yalm backstep, 100 potency. Combos into Enpi. -10 Kenki. 10s CD.                                                        |
-| ![](https://xivapi.com/i/003000/003169_hr1.png) |     | **Hissatsu: Gyoten**   Dash to target (20-yalm range), 100 potency. -10 Kenki. 10s CD                                                            |
-| ![](https://xivapi.com/i/003000/003174_hr1.png) |     | **Hissatsu: Kyuten**   AoE in a circle around you, 110 potency. -25 Kenki. 1s CD.                                                                |
-| ![](https://xivapi.com/i/003000/003184_hr1.png) |     | **Shoha**   Single target attack, 600 potency. -3 Meditation stacks. 15s CD, shared with Shoha II                                                |
-| ![](https://xivapi.com/i/003000/003185_hr1.png) |     | **Shoha II**   AoE in a circle around you, 200 potency. -3 Meditation stacks. 15s CD, shared with Shoha.                                         |
+   </td>
+   <td><strong>Hakaze</strong>
+<p>
+Single target combo starter. 200 potency. +5 Kenki.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003152_hr1.png" width="" alt="alt_text" title="Jinpu">
 
-# Buffs
+   </td>
+   <td><strong>Jinpu</strong>
+<p>
+Single target second step combo. 120 potency, 280 potency if combo from Hakaze.
+<p>
+Combo Bonus: Applies Fugetsu (Increases damage dealt by 13% for 40s), +5 Kenki.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003156_hr1.png" width="" alt="alt_text" title="Shifu">
 
-|                                                 |     |                                                                                                                                                                                                                                          |
-| ----------------------------------------------- | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/003000/003167_hr1.png) |     | **Meikyo Shisui**   Allows use of three Weaponskills without combo requirements. Allows Gekko and Kasha to apply their combo chain’s respective buffs. Excludes laijutsu. 15s duration, 55s CD.                                          |
-| ![](https://xivapi.com/i/003000/003172_hr1.png) |     | **Meditate**   Channeled Kenki and Meditation stack generation for 15s. Initial cast on the GCD. +10 Kenki (Max 50) and +1 Meditation stack (Max three) per tick. Cancelled upon movement or action. Can only be used in combat. 60s CD. |
-| ![](https://xivapi.com/i/003000/003153_hr1.png) |     | **Third Eye**   Reduces next damage taken by 10%. If hit, grants 10 Kenki. 3s duration, 15s CD.                                                                                                                                          |
+   </td>
+   <td><strong>Shifu</strong>
+<p>
+Single target second step combo. 120 potency, 280 potency if combo from Hakaze.
+<p>
+Combo Bonus: Applies Fuka (Reduces GCD and autoattack delay by 13% for 40s), +5 Kenki.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003166_hr1.png" width="" alt="alt_text" title="Yukikaze">
+
+<img src="https://lh6.googleusercontent.com/lW5486Um3Pv47vhQ8JbdZRN2hoXIOEj0mGBUN499CrqfPsbdmRGrEsD9qtyDzJSocNthd8tfnDa6jLKu_LdDQngUjBnFpeqv-pgAa57L_WuyxYH2JW6RcJzAXJ6y4TnAURE4csu3=s0" width="" alt="alt_text" title="Setsu">
+
+   </td>
+   <td><strong>Yukikaze</strong>
+<p>
+Single target second step combo. 120 potency, 300 potency if combo from Hakaze.
+<p>
+Combo Bonus: Setsu Sen, +15 Kenki.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003158_hr1.png" width="" alt="alt_text" title="Gekko">
+
+<img src="https://lh3.googleusercontent.com/vh7p32RLojf1eVxekvJgdXj61Q4h4w8FTI0f7K-8QtGKUQRpqBsgIPqjGvTIp8jl1EQEHtDCan8xoegKxMtxnHN94Ti4koHcV69g5liT5ExglUdUoxa7vkyRQF0bock5ZcTtnFzH=s0" width="" alt="alt_text" title="Getsu">
+
+   </td>
+   <td><strong>Gekko</strong>
+<p>
+Single target third step combo. 120 potency, 330 if combo from Jinpu, 380 if also hit from the rear.
+<p>
+Applies Fugetsu if used under Meikyo Shisui.
+<p>
+Combo Bonus: Getsu Sen, +10 Kenki. 
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003164_hr1.png" width="" alt="alt_text" title="Kasha">
+
+<img src="https://lh6.googleusercontent.com/jSAYprY7WsOG_OyYhh-kYdWo9El9MvFzNKO3Tv4a6GyON8h_i1ToYCAG8bnb-QeQAmhiftTf26kbDKTAG7yoWR7wK0D3VcltTG80NWZ46-y5zZoGuRkcol9hM_LjJljycbeOcYcG=s0" width="" alt="alt_text" title="Setsu">
+
+   </td>
+   <td><strong>Kasha</strong>
+<p>
+Single target third step combo. 120 potency, 330 if combo from Shifu, 380 if also hit from the flank.
+<p>
+Applies Fuka if used under Meikyo Shisui.
+<p>
+Combo Bonus: Ka Sen, +10 Kenki.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003159_hr1.png" width="" alt="alt_text" title="Iaijutsu">
+
+   </td>
+   <td><strong>Iaijutsu</strong>
+<p>
+1.3s casted Weaponskill. Effect depends on number of Sen held. 
+<p>
++1 Meditation stack (Max 3).
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003160_hr1.png" width="" alt="alt_text" title="Higanbana">
+
+   </td>
+   <td><strong>Higanbana</strong>
+<p>
+Single target 60s DoT, 200 potency initial hit, 45 potency ticks. Total 1100. 
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003161_hr1.png" width="" alt="alt_text" title="Tenka Goken">
+
+   </td>
+   <td><strong>Tenka Goken</strong>
+<p>
+AoE in a circle around you, 280 potency.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003162_hr1.png" width="" alt="alt_text" title="Midare Setsugekka">
+
+   </td>
+   <td><strong>Midare Setsugekka</strong>
+<p>
+Single target nuke, 600 potency. This attack will always be a critical hit.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003180_hr1.png" width="" alt="alt_text" title="Tsubame-gaeshi">
+
+   </td>
+   <td><strong>Tsubame-gaeshi</strong>
+<p>
+Ability, combos off Iaijutsu. Recasts previous Iaijutsu. 2 charges. 60s CD. 
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003181_hr1.png" width="" alt="alt_text" title="Kaeshi: Higanbana">
+
+   </td>
+   <td><strong>Kaeshi: Higanbana</strong>
+<p>
+Single target 60s DoT, 200 potency initial hit, 45 potency ticks. Total 1100.
+<p>
+Does not stack with Higanbana.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003182_hr1.png" width="" alt="alt_text" title="Kaeshi: Goken">
+
+   </td>
+   <td><strong>Kaeshi: Goken</strong>
+<p>
+AoE in a circle around you, 280 potency.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003183_hr1.png" width="" alt="alt_text" title="Kaeshi: Setsugekka">
+
+   </td>
+   <td><strong>Kaeshi: Setsugekka</strong>
+<p>
+Single target nuke, 600 potency. This attack will always be a critical hit.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003187_hr1.png" width="" alt="alt_text" title="Ogi Namikiri">
+
+   </td>
+   <td><strong>Ogi Namikiri</strong>
+<p>
+AoE frontal cone. Requires Ogi Namikiri Ready from Ikishoten. 800 potency with 75% damage falloff. This attack will always be a critical hit. +1 Meditation Stack (Max 3).
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003188_hr1.png" width="" alt="alt_text" title="Kaeshi: Namikiri">
+
+   </td>
+   <td><strong>Kaeshi: Namikiri</strong>
+<p>
+AoE frontal cone. Must be used immediately after Ogi Namikiri. 800 potency with 75% damage falloff for each enemy past the first. This attack will always be a critical hit.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003155_hr1.png" width="" alt="alt_text" title="Enpi">
+
+   </td>
+   <td><strong>Enpi</strong>
+<p>
+Single target ranged attack, 100 potency, 260 if combo (Yaten). +10 Kenki. Will not consume a Meikyo Shisui charge.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003189_hr1.png" width="" alt="alt_text" title="Fuko">
+
+   </td>
+   <td><strong>Fuko</strong>
+<p>
+AoE in a circle around you, 100 potency. +10 Kenki.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003163_hr1.png" width="" alt="alt_text" title="Mangetsu">
+
+<img src="https://lh3.googleusercontent.com/vh7p32RLojf1eVxekvJgdXj61Q4h4w8FTI0f7K-8QtGKUQRpqBsgIPqjGvTIp8jl1EQEHtDCan8xoegKxMtxnHN94Ti4koHcV69g5liT5ExglUdUoxa7vkyRQF0bock5ZcTtnFzH=s0" width="" alt="alt_text" title="Getsu">
+
+   </td>
+   <td><strong>Mangetsu</strong>
+<p>
+AoE in a circle around you, 100 potency, 120 if combo. 
+<p>
+Combo Bonus: Getsu Sen, applies or extends Fugetsu by 15s (Max 40s). +10 Kenki. 
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003165_hr1.png" width="" alt="alt_text" title="Oka">
+
+<img src="https://lh6.googleusercontent.com/jSAYprY7WsOG_OyYhh-kYdWo9El9MvFzNKO3Tv4a6GyON8h_i1ToYCAG8bnb-QeQAmhiftTf26kbDKTAG7yoWR7wK0D3VcltTG80NWZ46-y5zZoGuRkcol9hM_LjJljycbeOcYcG=s0" width="" alt="alt_text" title="Setsu">
+
+   </td>
+   <td><strong>Oka</strong>
+<p>
+AoE in a circle around you, 100 potency, 120 if combo. 
+<p>
+Combo Bonus: Ka Sen, applies or extends Fuka by 15s (Max 40s). +10 Kenki. 
+   </td>
+  </tr>
+</table>
+
+
+  
+
+
+## Off GCDs
+
+
+<table>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003179_hr1.png" width="" alt="alt_text" title="Ikishoten">
+
+   </td>
+   <td><strong>Ikishoten</strong>
+<p>
++50 Kenki. Grants Ogi Namikiri Ready. Can only be used in combat. 120s CD.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003176_hr1.png" width="" alt="alt_text" title="Hagakure">
+
+   </td>
+   <td><strong>Hagakure</strong>
+<p>
+Consumes all Sen, +10 Kenki for each consumed. 5s CD.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003173_hr1.png" width="" alt="alt_text" title="Hissatsu: Shinten">
+
+   </td>
+   <td><strong>Hissatsu: Shinten</strong>
+<p>
+Single target attack, 250 potency. -25 Kenki. 1s CD.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003177_hr1.png" width="" alt="alt_text" title="Hissatsu: Guren">
+
+   </td>
+   <td><strong>Hissatsu: Guren</strong>
+<p>
+Line AoE, 500 potency with 50% damage falloff. -25 Kenki. 2min CD, shared with Senei.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003178_hr1.png" width="" alt="alt_text" title="Hissatsu: Senei">
+
+   </td>
+   <td><strong>Hissatsu: Senei</strong>
+<p>
+Single target nuke, 800 potency. -25 Kenki. 2min CD, shared with Guren.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003170_hr1.png" width="" alt="alt_text" title="Hissatsu: Yaten">
+
+   </td>
+   <td><strong>Hissatsu: Yaten</strong>
+<p>
+10-yalm backstep, 100 potency. Combos into Enpi. -10 Kenki. 10s CD.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003169_hr1.png" width="" alt="alt_text" title="Hissatsu: Gyoten">
+
+   </td>
+   <td><strong>Hissatsu: Gyoten</strong>
+<p>
+Dash to target (20-yalm range), 100 potency. -10 Kenki. 10s CD
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003174_hr1.png" width="" alt="alt_text" title="Hissatsu: Kyuten">
+
+   </td>
+   <td><strong>Hissatsu: Kyuten</strong>
+<p>
+AoE in a circle around you, 110 potency. -25 Kenki. 1s CD.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003184_hr1.png" width="" alt="alt_text" title="Shoha">
+
+   </td>
+   <td><strong>Shoha</strong>
+<p>
+Single target attack, 500 potency. -3 Meditation stacks. 15s CD, shared with Shoha II.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003185_hr1.png" width="" alt="alt_text" title="Shoha II">
+
+   </td>
+   <td><strong>Shoha II</strong>
+<p>
+AoE in a circle around you, 200 potency. -3 Meditation stacks. 15s CD, shared with Shoha.
+   </td>
+  </tr>
+</table>
+
+
+
+## Buffs
+
+
+<table>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003167_hr1.png" width="" alt="alt_text" title="Meikyo Shisui">
+
+   </td>
+   <td><strong>Meikyo Shisui</strong>
+<p>
+Allows use of 3 Weaponskills without combo requirements. Allows Gekko and Kasha to apply their combo chain’s respective buffs. Excludes Iaijutsu and Enpi. 
+<p>
+2 Charges, 15s duration, 55s CD.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003172_hr1.png" width="" alt="alt_text" title="Meditate">
+
+   </td>
+   <td><strong>Meditate</strong>
+<p>
+Channeled Kenki and Meditation stack generation for 15s. Initial cast on the GCD. +10 Kenki (Max 50) and +1 Meditation stack (Max 3) per tick. Cancelled upon movement or action. Can only be used in combat. 60s CD.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/003000/003153_hr1.png" width="" alt="alt_text" title="Third Eye">
+
+   </td>
+   <td><strong>Third Eye</strong>
+<p>
+Reduces next damage taken by 10%. If hit, grants 10 Kenki. 
+<p>
+3s duration, 15s CD.
+   </td>
+  </tr>
+</table>
+
+
 
 ## Role Actions
 
 All jobs also have a several role-specific actions that they can use
 
-|                                                 |     |                                                                                                |
-| ----------------------------------------------- | --- | ---------------------------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/000000/000828_hr1.png) |     | **Feint**   Lowers target’s physical damage dealt by 10% and magic damage dealt by 5%. 90s CD. |
-| ![](https://xivapi.com/i/000000/000830_hr1.png) |     | **True North**   Eliminates positional requirements for 10s. 45s CD, 2 charges.                |
-| ![](https://xivapi.com/i/000000/000823_hr1.png) |     | **Bloodbath**   Heal for a portion of damage dealt for 20s. 90s CD.                            |
-| ![](https://xivapi.com/i/000000/000821_hr1.png) |     | **Second Wind**   Self heal, 500 potency. 120s CD.                                             |
-| ![](https://xivapi.com/i/000000/000824_hr1.png) |     | **Leg Sweep**   Stuns target enemy. 40s CD.                                                    |
-| ![](https://xivapi.com/i/000000/000822_hr1.png) |     | **Arm's Length**   Nullifies knockback and draw-in for 6s. 120s CD.                            |
 
-In an 8-man instance such as a Primal Extreme or Savage Raid, all of these but Leg Sweep will see at least some use. Bloodbath, Second Wind, and Feint may all be used situationally depending on your party’s strategy to assist healers, while Arm’s Length is useful in any fight with a knockback/pull mechanic such as floors 2-4 of Pandaemonium Savage. True North will be useful in a majority of fights, as getting a full omni-directional fight is very uncommon these days.
+<table>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/000000/000828_hr1.png" width="" alt="alt_text" title="Feint">
 
-- - -
+   </td>
+   <td><strong>Feint</strong>
+<p>
+Lowers target’s physical damage dealt by 10% and magic damage dealt by 5%. 90s CD.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/000000/000830_hr1.png" width="" alt="alt_text" title="True North">
+
+   </td>
+   <td><strong>True North</strong>
+<p>
+Eliminates positional requirements for 10s. 45s CD, 2 charges.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/000000/000823_hr1.png" width="" alt="alt_text" title="Bloodbath">
+
+   </td>
+   <td><strong>Bloodbath</strong>
+<p>
+Heal for a portion of damage dealt for 20s. 90s CD.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/000000/000821_hr1.png" width="" alt="alt_text" title="Second Wind">
+
+   </td>
+   <td><strong>Second Wind</strong>
+<p>
+Self heal, 500 potency. 120s CD.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/000000/000824_hr1.png" width="" alt="alt_text" title="Leg Sweep">
+
+   </td>
+   <td><strong>Leg Sweep</strong>
+<p>
+Stuns target enemy. 40s CD.
+   </td>
+  </tr>
+  <tr>
+   <td>
+<img src="https://xivapi.com/i/000000/000822_hr1.png" width="" alt="alt_text" title="Arm's Length">
+
+   </td>
+   <td><strong>Arm's Length</strong>
+<p>
+Nullifies knockback and draw-in for 6s. 120s CD.
+   </td>
+  </tr>
+</table>
+
+
+In an 8-man instance such as a Primal Extreme or Savage Raid, all of these but Leg Sweep will see at least some use and Leg Sweep has seen situational use in the past. Bloodbath, Second Wind, and Feint may all be used situationally depending on your party’s strategy to assist healers, while Arm’s Length is useful in any fight with a knockback/pull mechanic such as floors 2/4 of Pandaemonium Savage. True North will be useful in a majority of fights, as getting a full omni-directional fight is very uncommon these days.
+
 
 # Shape of the Blade: Introduction to Samurai
 
+
 ## Playstyle
 
-High similarity to Dragoon with simple GCD structure at a glance. However, SAM is a job that is capable of an extremely high skill ceiling due to flexibility in its Kenki usage. This is a job that emphasizes using the complete toolkit given the circumstances. Samurai manage two different resources to do heavy damage, Sen and Kenki.
+High similarity to Dragoon with simple GCD structure at a glance. However, SAM is a job that is capable of an extremely high skill ceiling due to its flexibility in its Kenki usage and Sen/GCD optimization. This is a job that emphasizes using the complete toolkit given the circumstances. Samurai manage two different resources to do heavy damage, Sen and Kenki.
 
 Every time SAM completes a certain GCD combo, its corresponding Sen is collected; there are three types of Sen to collect:
 
-Snow (Setsu) ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Setsu.png](https://lh6.googleusercontent.com/lW5486Um3Pv47vhQ8JbdZRN2hoXIOEj0mGBUN499CrqfPsbdmRGrEsD9qtyDzJSocNthd8tfnDa6jLKu_LdDQngUjBnFpeqv-pgAa57L_WuyxYH2JW6RcJzAXJ6y4TnAURE4csu3=s0), 
-Moon (Getsu) ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Getsu.png](https://lh3.googleusercontent.com/vh7p32RLojf1eVxekvJgdXj61Q4h4w8FTI0f7K-8QtGKUQRpqBsgIPqjGvTIp8jl1EQEHtDCan8xoegKxMtxnHN94Ti4koHcV69g5liT5ExglUdUoxa7vkyRQF0bock5ZcTtnFzH=s0), 
-and Flower (Ka) ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Ka.png](https://lh6.googleusercontent.com/jSAYprY7WsOG_OyYhh-kYdWo9El9MvFzNKO3Tv4a6GyON8h_i1ToYCAG8bnb-QeQAmhiftTf26kbDKTAG7yoWR7wK0D3VcltTG80NWZ46-y5zZoGuRkcol9hM_LjJljycbeOcYcG=s0)
+Snow (Setsu) 
+![alt_text](https://lh6.googleusercontent.com/lW5486Um3Pv47vhQ8JbdZRN2hoXIOEj0mGBUN499CrqfPsbdmRGrEsD9qtyDzJSocNthd8tfnDa6jLKu_LdDQngUjBnFpeqv-pgAa57L_WuyxYH2JW6RcJzAXJ6y4TnAURE4csu3=s0 "Setsu")
+, Moon (Getsu) 
+![alt_text](https://lh3.googleusercontent.com/vh7p32RLojf1eVxekvJgdXj61Q4h4w8FTI0f7K-8QtGKUQRpqBsgIPqjGvTIp8jl1EQEHtDCan8xoegKxMtxnHN94Ti4koHcV69g5liT5ExglUdUoxa7vkyRQF0bock5ZcTtnFzH=s0 "Getsu")
+, and Flower (Ka) 
+![alt_text](https://lh6.googleusercontent.com/jSAYprY7WsOG_OyYhh-kYdWo9El9MvFzNKO3Tv4a6GyON8h_i1ToYCAG8bnb-QeQAmhiftTf26kbDKTAG7yoWR7wK0D3VcltTG80NWZ46-y5zZoGuRkcol9hM_LjJljycbeOcYcG=s0 "Ka")
+
 
 The resulting Iaijutsu differs based on the number of Sen held, regardless of the combination. If you use a combo that normally grants you an Sen that you already have, it will not give you any extra Sen and thus, the Sen is wasted.
 
-Kenki is SAM’s second, but extremely vital resource. All of SAM’s GCD skills (except Iaijutsu) and one off-GCD generate a certain amount of Kenki. Kenki is then spent on Hissatsu moves, which are off-GCD abilities with very short cooldowns (except Guren/Senei).
+Kenki is SAM’s second but extremely vital resource. All of SAM’s GCD skills (Only Iaijutsu doesn’t generate Kenki) and one off-GCD generate a certain amount of Kenki. Kenki is then spent on Hissatsu moves, which are off-GCD abilities with very short cooldowns (except Guren/Senei).
 
-![](https://lh6.googleusercontent.com/N5l7MMkxdxZPGnOQxlRvFNY-CoA9050lRAwwk8DjgjUTIX23JF0H_nD9oHXHs9x3vVKjCEhvm9mN1Ux-iAghqJrs-__lOigDQF_j9QnPo8Wn2KHSgQp96IAbeig0Y9JcavdTnNoM=s0)
+**Key points of dealing damage as a Samurai:**
 
-![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh4.googleusercontent.com/PUVPaVqSqGopjFmZ4mRt12PP-aOAuW_5WfhDlMR2NMu3f5X1FH_twdzv8JMjGxW4bZI4ShuqyVETr5aHGbUJFsjjjgn3PI3FnYEWoQtA77Sk7J3tJ7HqGNvmC9KmvFns0dbvVtN_=s0) **Key points of dealing damage as a Samurai**:
 
-* Minimizing resource waste by not overwriting Sen/Meditation or generating excess Kenki
-* Maximizing bursts within raid buffs
-* Awareness of fight transitions to know how much Sen/Kenki to start or end a phase with
-* Tsubame-gaeshi and Meikyo CD timing
 
-![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh5.googleusercontent.com/vp2cqEtT6Sk20L6kBXZfW1dYTVPztIvDepJFALOMWiY2QRLDp33bz_vSRrFdA_fbzHTKU9NfzrY-WvDGKaOgNlsAlz0RTIIOp2SDIIiqsmntvWwVcApQQShbOmMW-f9F-w9NUAwt=s0) **Advantages**:
+* 
+Minimizing resource waste by not overwriting Sen/Meditation or generating excess Kenki
 
-* Low entry barrier to learn the basics of Samurai, high skill ceiling allows for skill expression
-* Heavy 120s burst
-* Lenient buff uptimes tied to mandatory combos
-* Incredible mobility with backstep + charge
-* Lenient positionals
 
-![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh5.googleusercontent.com/psrR1-YmqTUaur9iUltPTIP_hOp9ADatuppiqAnbxhw6Yt57keIbM4iaUQllUEALobl7yNEdYw2hM7NCRCQHyfhvA0HWxxAOfNrc19kNwb_X-FonZ61e-o0CBUoJDlYqmUQMF8Gs=s0) **Disadvantages**:
+* 
+Maximizing bursts within raid buffs
 
-* Fast ramp time is dependent on the availability of Meikyo Shisui. Otherwise takes a long windup to recover from losing its buffs.
-* The sheer flexibility means optimization becomes a fight-to-fight basis; require high adaptability
-* Complete lack of raid utility; whether or not a SAM is worth bringing to raid is entirely up to the skill of the player.
 
-- - -
+* 
+Awareness of fight transitions to know how much Sen/Kenki to start or end a phase with
+
+
+* 
+Tsubame-gaeshi, Meikyo, and Ikishoten/Ogi CD timing
+
+
+**Advantages:**
+
+
+
+* 
+Low entry barrier to learn the basics of Samurai, high skill ceiling allows for skill expression
+
+
+* 
+Heavy 120s burst, with good 60s burst as well
+
+
+* 
+Lenient buff uptimes tied to mandatory combos
+
+
+* 
+Incredible mobility with backstep + charge
+
+
+* 
+Lenient positionals
+
+
+**Disadvantages:**
+
+
+
+* 
+Fast ramp time is dependent on the availability of Meikyo Shisui. Otherwise takes a long windup to recover from losing its buffs.
+
+
+* 
+The sheer flexibility means optimization becomes a fight-to-fight basis; require high adaptability
+
+
+* 
+Complete lack of raid utility; whether or not a SAM is worth bringing to raid is entirely up to the skill of the player.
 
 # Swinging the Blade: Practicing the Strokes
 
+
 ## Combo and Buffs Priority
 
-Starting with zero buffs, the opening combo order will usually go:
+Starting with 0 buffs, the opening buff order will depend on whether or not you have Meikyo Shisui available. If you do, go:
+
+Gekko combo > Kasha combo > Yukikaze combo.
+
+If you don’t, go:
 
 Kasha combo > Gekko combo > Yukikaze combo.
 
@@ -154,177 +590,235 @@ Meikyo Shisui allows us to put our buffs up immediately, removing the long ramp-
 
 Due to the aforementioned Meikyo changes allowing us to apply buffs more quickly, we have shifted from applying Fuka (formerly Shifu) first to applying Fugetsu (formerly Jinpu) first. Since we can apply Fuka on the second GCD, we lose less from applying it second. However, we gain a large amount of potency from its application GCD (Kasha when under Meikyo) under Fugetsu.
 
-When we don’t have Meikyo, the first buff up often is Fuka, the haste buff. I’m using “haste” in this document to shorten the full effect, which is “reduces Weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay”. This buff means that our GCD timer will be reduced (to a maximum of 2.18, assuming no skill speed on gear) and that auto-attacks will happen more often while it is up. Note that this does not affect the damage over time from Higanbana. What it does do, however, is rotate you through your combos quicker to acquire more Sen and Kenki and minimise the opportunity to drop your buffs.
+When we don’t have Meikyo, the first buff up often is Fuka, the haste buff. I’m using “haste” in this document to shorten the full effect, which is “reduces Weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay”. This buff means that our GCD timer will be reduced (to a maximum of 2.18, assuming no skill speed on gear) and that auto-attacks will happen more often while it is up. Note that this _does not_ affect the damage over time from Higanbana. What it does do, however, is rotate you through your combos quicker to acquire more Sen and Kenki and minimise the opportunity to drop your buffs.
 
-Fugetsu is a 13% flat damage increase to all your abilities, including Higanbana’s damage over time portion. As such, you want to make sure that this buff is up every time you use Higanbana or Midare to take advantage of its enormous potency value, as Fuka doesn’t increase damage dealt. Coming from downtime with no buffs and three Sen up, you will want to prioritise Jinpu.
+Fugetsu is a 13% flat damage increase to all your abilities, including Higanbana’s damage over time portion. As such, you want to make sure that this buff is up every time you use Higanbana or Midare to take advantage of its enormous potency value, as Fuka doesn’t increase damage dealt. Coming from downtime with no buffs and three Sen up you will want to prioritise Jinpu.
 
-Lastly, Yukikaze would be the least significant combo out of the three in the opener, but one of the most significant throughout the fight. SAM’s opener relies on lining up the buffs and CDs to maximize damage with raid buffs, and Yukikaze offers no self-buff to Samurai. By starting Yukikaze, Samurai will end up not being able to have both Shifu or Jinpu up by the time raid buffs go out, as everything will be delayed by a combo. During the fight, Yukikaze is great to have as your only Sen up leading into downtime, as it allows you to get both buffs back up before using Midare. It can also be used to help as an alignment tool. 
+Lastly, Yukikaze would be the least significant combo out of the three in the opener but one of the most significant throughout the fight. SAM’s opener relies on lining up the buffs and CDs to maximize damage with raid buffs, and Yukikaze offers no self-buff to Samurai. By starting Yukikaze, Samurai will end up not being able to have both Shifu or Jinpu up by the time raid buffs go out, as everything will be delayed by a combo. During the fight, Yukikaze is great to have as your only Sen up leading into downtime, as it allows you to get both buffs back up before using Midare. It can also be used to help as an alignment tool. 
 
-![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh5.googleusercontent.com/nKOaHBLn54QdOt2ec5AT_Ab_fas_dXFKsqvoZ-Oucg2iECDb7H6_9zh5TuscJazvqmIDZwvUhQx3AtlhMkYfGINAOW_0VVZlhgW5KiS1rVa5-Zd9H67govHujtJccSOTpTAAV4oJ=s0) **Tip**: Remember Iaijutsu does not break combo. If you need to reapply Higanbana but Fugetsu is down and you’re already sitting on one Sen, you can do a Hakaze > Jinpu > Iaijutsu > Gekko and you will have the Fugetsu buff applied on your Higanbana without wasting the Sen on the combo.
+**Tip:** <span style="text-decoration:underline;">Remember Iaijutsu does not break combo.</span> If you need to reapply Higanbana but Fugetsu is down and you’re already sitting on one Sen, you can do a Hakaze > Jinpu > Iaijutsu > Gekko and you will have the Fugetsu buff applied on your Higanbana without wasting the Sen on the combo.
 
-- - -
+
+## 
+
 
 ## Honing the Blade: Kenki and Potency
 
-If the Sen system and Midare Setsugekka and its 800 potency (1200 potency with Kaiten) is what catches people’s attention with its flash, then SAM’s Kenki system is what makes the engine run and deal out damage over the fight. Kenki generation is 100% predictable and tied to your GCDs, and in an ideal world you want to finish a fight with zero Kenki. As such, you will generate and expend similar amounts of Kenki over the same duration. To understand how much Kenki is worth to your damage, it may be preferable to use Potency/Kenki, and use your most common Kenki skill (Shinten) as a baseline.
+If the Sen system and Ogi Namikiri and its 800 potency is what catches people’s attention with its flash, then SAM’s Kenki system is what makes the engine run and deal out damage over the fight. Kenki generation is 100% predictable and tied to your GCDs, and in an ideal world you want to finish a fight with 0 Kenki. As such, you will generate and expend similar amounts of Kenki over the same duration. To understand how much Kenki is worth to your damage, it may be preferable to use Potency/Kenki, and use your most common Kenki skill (Shinten) as a baseline.
 
 |                                   |                  |                                              |
 | --------------------------------- | ---------------- | -------------------------------------------- |
-| Kaiten (on Higanbana)             | \= 400p/20k      | \= 20p/k                                     |
 | Senei                             | \= 800p/25k      | \= 32p/k                                     |
-| Kaiten (on Midare Setsugekka)     | \= 330p/20k      | \= 16.5p/k                                   |
 | Guren                             | \= 500p/25k      | \= 20p/k for the first mob, 10 per mob after |
-| <mark> **Shinten**                | <mark>= 270p/25k | \= <mark> **12.8p/k**                        |
-| Kaiten (on a 370 pot combo ender) | \= 240p/20k      | \= 9.25p/k                                   |
+| <mark> **Shinten**                | <mark>= 250p/25k | \= <mark> **10p/k**                        |
 | Yaten                             | \= 100p/10k      | \= 10p/k                                     |
 | Gyoten                            | \= 100p/10k      | \= 10p/k                                     |
 | Kyuten                            | \= 110p/25k      | \= 4.4p/k per mob                            |
 
 From the numbers above, a few conclusions can be drawn.
 
-* Kaiten is not worth using on a move less than 440 base potency (11p/k).
-* Guren and Senei are extremely powerful oGCDs and carry a very high potency/Kenki. Just the sheer potency number makes you want to use this ASAP on an opener. Guren is a gain starting on three targets.
-* Senei, ten Kaiten on Higanbana and Midare Setsugekka gives you the biggest bang for your buck.
+
+
+* Guren and Senei are extremely powerful oGCDs and carry a very high potency/kenki. Just the sheer potency number makes you want to use this ASAP on an opener. Guren is a gain starting on three targets.
+* Senei gives you the biggest bang for your buck.
+* Gyoten and Yaten are worth the same as Shinten, allowing you to use them to manipulate Kenki before buff windows or dump more during buff windows.
 * Kyuten outperforms Shinten at 3 mobs and above.
 
-In addition, it means that each time you successfully use Third Eye you have effectively gained 108 potency. This potency can add up very quickly by the end of an encounter, so always try to press Third Eye when you know there is upcoming damage.
+In addition, it means that **<span style="text-decoration:underline;">each time you successfully use Third Eye you have effectively gained 100 potency.</span>** This potency can add up very quickly by the end of an encounter, so always try to press Third Eye when you know there is upcoming damage.
 
-![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh5.googleusercontent.com/opKkExneRE4ctCf35V4T6wTd98SajNd87xPAHuOpoWwQhxBCGMiSh1cDBvQyLvvfRcGezcxncauym16oQFiVoqnF-zPfKxMRNVGOd25fLn-bYsT7oLNhTuSj9M9gmrKpTl-ThavH=s0) *Note regarding Yaten-Enpi-Gyoten*: If you factor only the Yaten-Enpi combo, it is 10 Kenki cost for a 260 additional potency and regenerates 10 Kenki, and that gives you 26 potency per Kenki.  However, this combo does not give you any benefits to reapply your buffs or adding a Sen.  Thus, while it is a potent one GCD combo, it cannot be used reliably outside of very specific situations such as dodging out of an AOE while being unable to go back to the boss soon or off-setting your GCDs by one. Gyoten should be used only as a gap closer if Sprint won’t do the job.
+_Note regarding Yaten-Enpi-Gyoten:_ If you factor only the Yaten-Enpi combo, it is 10 Kenki cost for an additional 260 potency and regenerates 10 Kenki, and that gives you 26 potency per Kenki. <span style="text-decoration:underline;">However, this combo does not give you any benefits to reapply your buffs or adding a Sen.</span> While it is a potent 1-GCD combo, it cannot be used reliably outside of very specific situations such as dodging out of an AOE while being unable to go back to the boss soon or off-setting your GCDs by one. Gyoten can be used as a gap closer if Sprint won’t do the job, or to manipulate your Kenki bar for more damage under buffs.
 
-- - -
 
 ## To Enpi or to Not Enpi (And Gyoten and Yaten)
 
-That is the question. Most of the time, the answer can be summed up as: don’t if you can just run.
+That is the question. Most of the time, the answer can be summed up as: Don’t if you can just run.
 
-A common mistake that I’ve seen from many Samurai is that they happily use Yaten - Enpi - Gyoten combo to get out of an AoE and dash back in immediately. However, that method is not very efficient on Kenki usage as demonstrated in the previous page. In addition, it is an inefficient use of GCD if you could have simply moved out of an AOE between GCD.
+A common mistake that I’ve seen from many Samurai is that they happily use Yaten - Enpi - Gyoten combo to get out of an AOE and dash back in immediately. However, that method will push our GCDs back by one - it is an inefficient use of GCD if you could have simply moved out of an AOE between GCD.
 
 So what are the values of Gyoten/Yaten/Enpi?
 
-![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh3.googleusercontent.com/PCAoLfk5jZ9kscihyK8xZyZAHDIDWOAfE1yqTLbac9bDOcw3LqBEWLxibHmzZMQHtkJ-bFw1v3AIdx8F6EE1HHiV0_zUZRhpfTowg25IAgAKc3RBLsLqCTM2sOD3XaDXBAatuNax=s0) They are good only if you gain a GCD that would have been otherwise impossible without them.
+<span style="text-decoration:underline;">They are good only if you gain a GCD that would have been otherwise impossible without them</span>
 
 Gyoten/Yaten gain value if using them allows you to get an extra GCD compared to not using it, such as moving from one target at one end of a map to another one at the other end. If the targets are close enough that you could have run or used Sprint and not lose GCDs, then it is inefficient.
 
-Enpi is the same. It gains value only if there are time periods where you could have used a ranged attack but not melee attack- which is often a rare situation. 
+Enpi is the same. It gains value only if there are time periods where you could have used a ranged attack but not melee attack- which is often a rare situation.
 
 Of course, exceptions always happen, but you will recognize the exceptions in the fight situation as you gain experience.
 
-In 5.0, usage of Enpi has extended into the potential for keeping rotational alignment. Please refer to the section on looping or to the 6.0 SAM optimization guide for more information.
+As of 5.0, usage of Enpi has extended into the potential for keeping rotational alignment. Please refer to the section on looping or to the 6.0 SAM optimization guide for more information.
 
-- - -
 
 ## Meikyo Shisui: A Mirror in Still Water
 
 With the changes to Meikyo Shisui and combo enders (Gekko/Kasha) in 6.0, its role as a tool in our rotation has changed in a big way going into Endwalker. Instead of existing solely as an optimization tool and a way to fix our rotational alignment to maximize our Iaijustu and Tsubame usage, it now offers a way to avoid the ramp-up/buff application period that defined Samurai in Shadowbringers.
 
-The goal of Meikyo is to manipulate your Sen so you can apply your buffs as quickly as possible and maximize Iaijutsu usage. For example, in the opener we use Meikyo to quickly apply both of our buffs, get all thre Sen, and open with a fully buffed Midare in raid buffs. We also use Meikyo in every 60s burst window to manipulate our Sen to quickly perform a buffed Higanbana right on time. While leveling or in dungeon content, it can also be used to quickly perform Tenka Goken for AoE purposes.
+The goal of Meikyo is to manipulate your Sen so you can apply your buffs as quickly as possible and maximize Iaijutsu usage. For example, in the opener we use Meikyo to quickly apply both of our buffs, get all 3 Sen, and open with a fully buffed Midare in raid buffs. We also use Meikyo in every 60s burst window to manipulate our Sen to quickly perform a buffed Higanbana right on time. While leveling or in dungeon content, it can also be used to quickly perform Tenka Goken for AoE purposes.
 
-![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh3.googleusercontent.com/lzrUGoEHjQpBgrWqUxfgAd5fgaBnJ_Pa9AZWUIMK6-2_GB3q1X_i_Qqz0cXjcPlszcuOkqSa1erKe6T8jfb4QT6JIN9omhm-3aoO4oGbdgaLrv-GtUnaZCoXJGo9IwxOyuYalDWl=s0)
-**Tip**: Iaijutsu doesn’t count as one of the three Weaponskills on Meikyo, so you can use it in between the three to put up Higanbana with ease. For example: Meikyo starts > Kasha > Higanbana > Kasha > Gekko (Meikyo ends)
+**Tip:** Iaijutsu doesn’t count as one of the three Weaponskills on Meikyo, so you can use it in between the three to put up Higanbana with ease. For example: Meikyo starts > Kasha > Higanbana > Kasha > Gekko (Meikyo ends)
 
-In relation to the order of the Sen, it is important to note which finishers to use if you are planning to come out of the Meikyo with one or two Sen. You need to look at the remaining duration of the buffs you have and keep track of the order of the buffs that need to be refreshed. The reasoning being that the first combo you do after a Meikyo will likely be the buff that needs to be refreshed or has the shortest duration — thus you will reapply the buff and its Sen immediately after, followed by the next. As such, if you are ending a Meikyo with one or two Sen, use the Sen with the longest buff duration last in Meikyo.
+In relation to the order of the Sen, it is important to note _which_ finishers to use if you are planning to come out of the Meikyo with one or two Sen. You need to look at the remaining duration of the buffs you have and keep track of the order of the buffs that need to be refreshed. The reasoning being that the first combo you do after a Meikyo will likely be the buff that needs to be refreshed or has the shortest duration—thus you will reapply the buff and its Sen immediately after, followed by the next. As such, if you are ending a Meikyo with one or two Sen, use the Sen with the longest buff duration last in Meikyo.
 
-![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh3.googleusercontent.com/lzrUGoEHjQpBgrWqUxfgAd5fgaBnJ_Pa9AZWUIMK6-2_GB3q1X_i_Qqz0cXjcPlszcuOkqSa1erKe6T8jfb4QT6JIN9omhm-3aoO4oGbdgaLrv-GtUnaZCoXJGo9IwxOyuYalDWl=s0) **For example**: If you just performed a Gekko combo and have a ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\Sen\_-\_Getsu.png](https://lh3.googleusercontent.com/l7ffdscrISGsQL8CS7dd-f-f-VXhxxW-Hta-GVY2XUCUvOeRKr1F96h6ymqLTODOwb0znfFlJu5tqZLxzmXboCPwCP186CEWjFjWTXiyEUlGNeAn3hP2pnI_1ox4aVtj5q8PjWyw=s0) Sen and Higanbana needs to be refreshed in four GCDs, but you cannot wait. 
+**For example:** If you just performed a Gekko combo and have a 
+![alt_text](https://lh3.googleusercontent.com/vh7p32RLojf1eVxekvJgdXj61Q4h4w8FTI0f7K-8QtGKUQRpqBsgIPqjGvTIp8jl1EQEHtDCan8xoegKxMtxnHN94Ti4koHcV69g5liT5ExglUdUoxa7vkyRQF0bock5ZcTtnFzH=s0 "Getsu")
+ Sen and Higanbana needs to be refreshed in 4 GCDs, but you cannot wait. 
 
-With Meikyo it is possible for you to go the following sequence: 
+With Meikyo it is possible for you to go the following sequence: 
 
-![](https://lh6.googleusercontent.com/G9cntHbIhkETX4MmlGi2yd1AHZEZPWgI-ukKxqKHQSRo22KU3as-nEe5Zb2SVWnE8Alk4aMr9iCyK8AKlKgtLIBtRHytlIuZFjgvNUoKa4g-lovzaUqetBDmMkI7PMJqgEB55og6=s0)
 
-Now, how to use Meikyo to increase your damage? Consider Meikyo as a GCD saver after you’ve refreshed both your Fufetsu and Fuka buffs, as it lets you skip an entire two GCDs in your Kasha and Gekko combos. Thus, the most ideal situation is one where you use all three of Meikyo’s GCDs on Kasha and Gekko only, as using Yukikaze in Meikyo saves you only once GCD and Yukikaze is a weaker finisher.
+![alt_text](https://xivapi.com/i/003000/003167_hr1.png "Meikyo Shisui")
+**->**
+![alt_text](https://xivapi.com/i/003000/003166_hr1.png "Yukikaze")
+**->**
+![alt_text](https://xivapi.com/i/003000/003164_hr1.png "Kasha")
+**->**
+![alt_text](https://xivapi.com/i/003000/003162_hr1.png "Midare Setsugekka")
+**->**
+![alt_text](https://xivapi.com/i/003000/003158_hr1.png "Gekko")
+**->**
+![alt_text](https://xivapi.com/i/003000/003160_hr1.png "Higanbana")
 
- An example of Meikyo with ideal usage as long as the buffs do not fall off :
 
-![](https://lh3.googleusercontent.com/p01OJgrKTxUqEVGYDSSldWxrkAJMutPP9nBgAxYG0v5uZNDiKsjasTGqHK0p9AZIw6l7vbax-DQCPHCC52XjuRdp1-dGQWbdEyu_-2dI3nYvNi8SyI0V4wNXwlnd59-tppS1T-Wp=s0)
+Now, how to use Meikyo to increase your damage? Consider Meikyo as a GCD saver after you’ve refreshed both your Fugetsu and Fuka buffs, as it lets you skip an entire two GCDs in your Kasha and Gekko combos. Thus, the most ideal situation is one where you use all three of Meikyo’s GCDs on Kasha and Gekko only, as using Yukikaze in Meikyo saves you only once GCD and Yukikaze is a weaker finisher.
 
-&nbsp;
+<span style="text-decoration:underline;">An example of Meikyo with ideal usage as long as the buffs do not fall off:</span>
 
-- - -
+
+![alt_text](https://xivapi.com/i/003000/003151_hr1.png "Hakaze")
+->
+![alt_text](https://xivapi.com/i/003000/003166_hr1.png "Yukikaze")
+**->**
+![alt_text](https://xivapi.com/i/003000/003167_hr1.png "Meikyo Shisui")
+**->**
+![alt_text](https://xivapi.com/i/003000/003158_hr1.png "Gekko")
+**->**
+![alt_text](https://xivapi.com/i/003000/003164_hr1.png "Kasha")
+**->**
+![alt_text](https://xivapi.com/i/003000/003162_hr1.png "Midare Setsugekka")
+**->**
+![alt_text](https://xivapi.com/i/003000/003158_hr1.png "Gekko")
+
+
 
 ## Hagakure Usage
 
-Hagakure is an oGCD ability re-added to the game in patch 5.05 as a shadow of its former self. Originally a cornerstone of a Samurai’s rotation and toolkit in Stormblood, this ability now allows you to trade all of your Sen in for 10 Kenki each on a five-second cooldown. 
+Hagakure is an oGCD ability re-added to the game in patch 5.05 as a shadow of its former self. Originally a cornerstone of a Samurai’s rotation and toolkit in Stormblood, this ability now allows you to trade all of your Sen in for 10 Kenki each on a five-second cooldown. 
 
 The intended purpose for the reintroduction of Hagakure from SE seemed to be from the outcry of players who were upset that in dungeons they would sometimes have leftover Sen and Hagakure would allow them to “wipe clean” this gauge in order to enter a dungeon boss without having to overcap existing Sen while re-applying buffs. In a raid setting, however, Hagakure serves a similar purpose: it wipes away the Sen we build while filling time to keep rotational alignment. Please refer to the section on looping to learn more.
 
-- - -
 
 ## Higanbana Timing
 
-Of all moves that a Samurai can use, the single most powerful move is Higanbana. As you recall, Higanbana is 800 potency of damage over time. Under the effect of Kaiten, that increases to 1200 potency of hurt, spread out over one minute. For the sake of simplicity, since every Higanbana simply must be used under Kaiten, we will use 1200 as its base potency. Under that situation, each tick of Higanbana is worth 45 potency.
+Of all moves that a Samurai can use, the single most powerful move is Higanbana. As you recall, Higanbana is 1100 potency of damage over the course of 60 seconds. Because of its sheer damage compacted into a single GCD, this is strongly amplified under raid buffs. The nice thing about raid buffs is that a good chunk of them will line up with Higanbana timing: Trick Attack, Battle Voice, Dragon Sight, Battle Litany, Chain Stratagem, Technical Step, etc. tend to fall under a cooldown time that is a multiple of 60s. As such, you should be able to land your Higanbana within those raid buffs at the time of refresh.
 
-Because of its sheer damage compacted into a single GCD, this is strongly amplified under raid buffs. The nice thing about raid buffs is that a good chunk of them will line up with Higanbana timing: Trick Attack, Battle Voice, Dragon Sight, Battle Litany, Chain Stratagem, Technical Step, etc. tend to fall under a cooldown time that is a multiple of 60s. As such, you should be able to land your Higanbana within those raid buffs at the time of refresh.
+Now that said, how do you know when to _not_ use Higanbana? Some bosses go invincible for a period of time during which your Higanbana is ineffective. When that happens, if your Higanbana did not get to make use of its duration, then it is lost DPS. 
 
-Now, that said, how do you know when to *not* use Higanbana? Some bosses go invincible for a period of time during which your Higanbana is ineffective. When that happens, if your Higanbana did not get to make use of its duration, then it is lost DPS. 
+Comparing Midare Setsugekka with Higanbana; it takes about 42s of ticks for Higanbana to outdamage Midare Setsugekka in the same GCD.
 
-Comparing Midare Setsugekka with Higanbana; it takes only about 48s of ticks for Higanbana to outdamage Midare Setsugekka in the same GCD.
+The rule of thumb is that if Higanbana was not able to tick for more than about 42s of its duration, it would have been better to not use it. This is doubly true if using Higanbana would have prevented you from using a Midare Setsugekka in the same period of time. So generally speaking, fight phases of 1:30 should have only one Higanbana used, 3:20 only three Higanbana, and so on. Fight phases of, for example, 3:50 should have four Higanbana used *only* if you are able to use a buffed (already under Fugetsu at absolute minimum) Higanbana at the very first GCD and have perfect refresh timing. There are some situations where it is proper to use Higanbana when it would not tick for its full duration, such as at the end of a fight where you are ending on two meditation stacks in order to generate the extra stack and use Shoha, but that is a per-fight optimization that should be mathed out according to the rest of the encounter.
 
-The rule of thumb is that if Higanbana was not able to tick for more than about 48s of its duration, it would have been better to not use it. This is doubly true if using Higanbana would have prevented you from using a Midare Setsugekka in the same period of time. So generally speaking, fight phases of 1:30 should have only one Higanbana used, 3:20 only three Higanbana, and so on. Fight phases of, for example, 3:50 should have four Higanbana used \*only\* if you are able to use a buffed (already under Fugetsu and Kaiten at absolute minimum) Higanbana at the very first GCD and have perfect refresh timing.
+Higanbana is responsible for much of a Samurai’s damage, but applying it liberally and improperly only means you’ll suffer in the long run.
 
-Higanbana is just that much of a Samurai’s damage, but applying it liberally and improperly only means you’ll suffer in the long run.
 
-- - -
+## Rotation & Looping
 
-# Rotation and Looping
-
-Samurai’s high potency rotation revolves around executing our biggest cooldown abilities as soon as they are available to ensure that we use all the available charges of each skill, as well as to ensure buff uptime and in order to never drop Higanbana. To do so, we use what is referred to as a ‘looping’ rotation, where the order of skills repeats every 120s after the opener. This looping rotation is separated into three distinct parts: the opener, the cooldown phase, and the burst phase. 
+Samurai’s high potency rotation revolves around executing our biggest cooldown abilities as soon as they are available to ensure that we use all the available charges of each skill, as well as to ensure buff uptime and in order to never drop Higanbana. To do so, we use what is referred to as a ‘looping’ rotation, where the order of skills repeats every 120s after the opener. This looping rotation is separated into 3 distinct parts: the opener, the cooldown phase, and the burst phase. 
 
 In the opener, we use Meikyo Shisui before pulling the boss in order to have it up on pull to use Gekko and Kasha and apply our buffs as fast as possible. We then immediately use all of our large cooldown abilities (Senei, Ikishoten, both our Tsubame Gaeshi charges, and our second Meikyo Shisui charge) to get their cooldowns rolling. 
 
-In the cooldown phase, we are just passing the time waiting for our Higanbana timer to tick down and for our cooldowns to come back. To do this, we simply use our natural combos to build a Midare, and then build the three Sen again a second time. These three Sen then lead into your burst phase.
+In the cooldown phase we are just passing the time waiting for our Higanbana timer to tick down and for our cooldowns to come back. To do this, we simply use our natural combos to build a Midare, and then build the three Sen again a second time. These three Sen then lead into your burst phase.
 
-In the burst phase, we will use whichever of our big cooldowns are available to do our maximum amount of damage inside the buffs provided by the rest of our team. It starts by using those three Sen we gathered in the cooldown phase to use both Midare and Kaeshi: Setsugekka, then uses Meikyo Shisui to acquire the sen to reapply Higanbana, as well as preparing for another Midare inside buffs. If we have Ikishoten + Senei + Ogi Namikiri, we will use them here. If we do not, we will have to use filler to align our loop. 
+In the burst phase, we will use whichever of our big cooldowns are available to do our maximum amount of damage inside the buffs provided by the rest of our team. It starts by using those three Sen we gathered in the cooldown phase to use both Midare and Kaeshi: Setsugekka, then uses Meikyo Shisui to acquire the sen to reapply Higanbana, as well as preparing for another Midare inside buffs. If we have Ikishoten+Senei+Ogi Namikiri, we will use them here. If we do not, we will have to use filler to align our loop. 
 
-- - -
 
-# Filler
+## Filler
 
 Filler is often the part of the Samurai rotation that new players struggle the most with, but once understood, is the key to successfully landing your big skills where you want them and not having to wait for skills to come off cooldown in the middle of your rotation. 
 
-Every minute of your Samurai rotation has either 28, 29, or 30 GCDs depending on which GCD tier you are using (2.14/2.07/2.00 respectively). Our normal cooldown+burst phase (not including Ogi + Kaeshi Namikiri) is 26 GCDs. This means that each time we execute our cooldown + burst, we need to ‘fill’ another 2/3/4 GCDs. To do so, we use Ogi Namikiri and Kaeshi: Namikiri when we can (Two GCDs) and combos + Hagakure when we can’t. This allows us to fill the ‘empty space’ in our rotation with as much potency as we can, while still keeping all of our abilities lined up to execute on time.
+Every minute of your Samurai rotation has either 28, 29, or 30 GCDs depending on which GCD tier you are using (2.14/2.07/2.00 respectively). Our normal cooldown+burst phase (not including Ogi+Kaeshi Namikiri) is 26 GCDs. This means that each time we execute our cooldown+burst, we need to ‘fill’ another 2/3/4 GCDs. To do so, we use Ogi Namikiri and Kaeshi: Namikiri when we can (2 GCDs) and combos+Hagakure when we can’t. This allows us to fill the ‘empty space’ in our rotation with as much potency as we can, while still keeping all of our abilities lined up to execute on time.
 
-Refer to the following image for lists of filler:
+List of filler:
 
-![](/img/jobs/sam/sam-filler.png)
+1 GCD: ![alt_text](https://xivapi.com/i/003000/003170_hr1.png "Hissatsu: Yaten")
+**->**
+![alt_text](https://xivapi.com/i/003000/003155_hr1.png "Enpi")
 
-- - -
+
+2 GCDs: 
+![alt_text](https://xivapi.com/i/003000/003151_hr1.png "Hakaze")
+**->**
+![alt_text](https://xivapi.com/i/003000/003166_hr1.png "Yukikaze")
+**->**
+![alt_text](https://xivapi.com/i/003000/003176_hr1.png "Hagakure")
+
+
+3 GCDs: 
+![alt_text](https://xivapi.com/i/003000/003151_hr1.png "Hakaze")
+**->**
+![alt_text](https://xivapi.com/i/003000/003152_hr1.png "Jinpu")
+**->**
+![alt_text](https://xivapi.com/i/003000/003158_hr1.png "Gekko")
+**->**
+![alt_text](https://xivapi.com/i/003000/003176_hr1.png "Hagakure")
+** OR **
+![alt_text](https://xivapi.com/i/003000/003151_hr1.png "Hakaze")
+**->**
+![alt_text](https://xivapi.com/i/003000/003156_hr1.png "Shifu")
+**->**
+![alt_text](https://xivapi.com/i/003000/003164_hr1.png "Kasha")
+**->**
+![alt_text](https://xivapi.com/i/003000/003176_hr1.png "Hagakure")
+
+
+4 GCDs: 
+![alt_text](https://xivapi.com/i/003000/003151_hr1.png "Hakaze")
+**->**
+![alt_text](https://xivapi.com/i/003000/003166_hr1.png "Yukikaze")
+**->**
+![alt_text](https://xivapi.com/i/003000/003176_hr1.png "Hagakure")
+**->**
+![alt_text](https://xivapi.com/i/003000/003151_hr1.png "Hakaze")
+**->**
+![alt_text](https://xivapi.com/i/003000/003166_hr1.png "Yukikaze")
+**->**
+![alt_text](https://xivapi.com/i/003000/003176_hr1.png "Hagakure")
+
+
+## 
 
 # Opener
 
-![](/img/jobs/sam/sam_ew_opener.png)
+![](/img/jobs/sam/sam_ew_6_1_opener.png)
 
-&nbsp;
+# Rotation Guide
 
-- - -
-
-# Rotation Graphic
-
-![](/img/jobs/sam/sam-rotation-loop-ew.jpg)
-
-&nbsp;
-
-- - -
+![](/img/jobs/sam/sam_ew_6_1_Rotation_Loop.png)
 
 # Filler Guide
 
 ![](/img/jobs/sam/sam_filler.png)
 
-&nbsp;
-
-- - -
-
 # AoE Rotations
 
-Rule of thumb: Always AoE when there are three or more enemies. When AoEing groups of enemies as a SAM, you will want to put your buffs up with  Meikyo Shisui + Mangetsu/Oka, and then follow the below basic rotation:
+Rule of thumb: Always AoE when there are three or more enemies. When AoEing groups of enemies as a SAM, you will want to put your buffs up with Meikyo Shisui + Mangetsu/Oka, and then follow the below basic rotation:
 
-![](https://lh3.googleusercontent.com/numQT6H0qJhcPq916tUyTWxWrOQS9sjdhPlCZ4TQFH87HHfmUcfApY1N7TOlmKwp5OC5XZRLgwxCLT_ssODME-bCBq42DRciJizIvtReX4LMSsrRnyrqcYzBKXbsvn0hSxlZXdTY=s0)
 
-The strength of SAM’s AOE rotation lies in the fact that both two-GCD AOE combo generates a different Sen each, allowing you to flow into a Tenka Goken easily. They also will naturally upkeep your buff timers, so you won't have to awkwardly switch from AoE to single target back and forth. Their strongest Hissatsu move, Guren, is an extremely potent AOE as well and it is worth saving Guren for adds or AOE as long as you’re not holding on to it for longer than its cooldown. Once you reach three targets or more, excess Kenki should be spent on Kyuten instead of Shinten(but remember to keep some for Kaiten on Tenka!)
+![alt_text](https://xivapi.com/i/003000/003189_hr1.png "Fuko")
+**->**
+![alt_text](https://xivapi.com/i/003000/003165_hr1.png "Oka")
+**->**
+![alt_text](https://xivapi.com/i/003000/003189_hr1.png "Fuko")
+**->**
+![alt_text](https://xivapi.com/i/003000/003163_hr1.png "Mangetsu")
+**->**
+![alt_text](https://xivapi.com/i/003000/003161_hr1.png "Tenka Goken")
+
+
+The strength of SAM’s AOE rotation lies in the fact that both two-GCD AOE combo generates a different Sen each, allowing you to flow into a Tenka Goken easily. They also will naturally upkeep your buff timers, so you won't have to awkwardly switch from AoE to single target back and forth. Their strongest Hissatsu move, Guren, is an extremely potent AOE as well and it is worth saving Guren for adds or AOE as long as you’re not holding on to it for longer than its cooldown. Once you reach three targets or more, excess Kenki should be spent on Kyuten instead of Shinten.
 
 **What happens if there are two targets?**
 
-If both targets will last long enough, using Higanbana on each and reapply as necessary. Do not use Kaeshi: Higanbana, even in this scenario, it is more worthwhile to build one Sen with Yukikaze and apply the DoT that way than it is to burn Kaeshi on Higanbana. Two targets also introduces its own unique rotation, where you are using Fuko > Mangetsu/Oka to generate your Getsu/Ka Sen but using Hakaze > Yukikaze to generate your Setsu Sen, then spend them on Tenka Goken instead of building three Sen and using Midare Setsugekka. This is because Kaiten Tenka Goken is also the most efficient in terms of Sen usage as you can perform it three times over six Sen, as opposed to Kaiten Midare Setsugekka twice over the same amount of Sens.
+If both targets will last long enough, using Higanbana on each and reapply as necessary. Do not use Kaeshi: Higanbana, even in this scenario it is more worthwhile to build 1 Sen with Yukikaze and apply the DoT that way than it is to burn Kaeshi on Higanbana. Two targets also introduces its own unique rotation, where you are using Fuko > Mangetsu/Oka to generate your Getsu/Ka Sen but using Hakaze > Yukikaze to generate your Setsu Sen, then spend them on Tenka Goken instead of building 3 Sen and using Midare Setsugekka. This is because Tenka Goken is also the most efficient in terms of Sen usage as you can perform it three times over six Sen, as opposed to Midare Setsugekka twice over the same amount of Sens.
 
-- - -
 
 # Conclusion
 
@@ -334,42 +828,126 @@ With this, the guide has come to its conclusion. I hope you enjoyed the guide an
 
 **Thank you for reading this guide.**
 
+
 ![](https://lh4.googleusercontent.com/WYFGvb-_0xV2iCbfRhsYKe_QMAGvuQEO6wKAjoy3FhPpc6qUtJzO574h1NDE_DqwPxdVxILiiDcHCPQDG4JHGMBCBJru_bzpQlAHcclp_mrFccKC-9zvXjlkbVkKUPbNX2IzAwGO=s0)
 
-- - -
+
+
+# 
+
 
 # Complete Beginner’s Guide
 
 For the complete beginners to melee DPS and this game’s terminology in general.
 
+
 ## Glossary
 
-So you signed up for being a melee DPS, that means you want to hurt things, and you want to hurt things up close and personal. To maximize hurting things, let’s go over some basic concepts.
+So you signed up for being a melee DPS, that means you want to hurt things, and you want to hurt things _up close and personal_. To maximize hurting things, let’s go over some basic concepts.
 
-Potency: The basic unit of how much damage a move will do. Comparing potencies between combos or rotations is useful only among the specific class.
+<span style="text-decoration:underline;">Potency:</span> The basic unit of how much damage a move will do. Comparing potencies between combos or rotations is useful only among the specific class.
 
-Global Cooldown: (GCD) Can refer to two things. One is the skills themselves, also called Weaponskills. These are skills grouped together under a global cooldown and go on cooldown the same time they are pressed, and in almost all cases come off cooldown simultaneously. Always be using them when you can. Could also refer to how long your GCD is, or how long these skills are on cooldown when pressed. Examples: Hakaze is a GCD. My GCD is 2.13 (seconds). 
+<span style="text-decoration:underline;">Global Cooldown:</span> (GCD) Can refer to two things. One is the skills themselves, also called Weaponskills. These are skills grouped together under a global cooldown and go on cooldown the same time they are pressed, and in almost all cases come off cooldown simultaneously. Always be using them when you can. Could also refer to _how long_ your GCD is, or how long these skills are on cooldown when pressed. Examples: Hakaze is a GCD. My GCD is 2.13(seconds). 
 
-Off-Global Cooldown: (oGCD) are abilities that have their own cooldowns that act independently of other abilities with job-specific exceptions. The abilities have a variety of effects like buffs or damage and are meant to be cast in the downtime between two consecutive GCDs.
+<span style="text-decoration:underline;">Off-Global Cooldown:</span> (oGCD) are abilities that have their own cooldowns that act independently of other abilities with job-specific exceptions. The abilities have a variety of effects like buffs or damage and are meant to be cast in the downtime between two consecutive GCDs.
 
-Combo: If you read the tooltips of some of your skills, you’ll notice that some of them have lines like “Combo Potency” or “Combo Effect” and lists another move. That means you must do the moves in a sequence to receive the full effect and potency of all moves. Always do moves in the entire combo sequence to maximize damage done.
+<span style="text-decoration:underline;">Combo:</span> If you read the tooltips of some of your skills, you’ll notice that some of them have lines like “Combo Potency” or “Combo Effect” and lists another move. That means you must do the moves in a sequence to receive the full effect and potency of all moves. Always do moves in the entire combo sequence to maximize damage done.
 
-Positional: Some moves have additional effects that indicate a bonus buff, damage, or resource if you use a move and it hits the target’s flank or rear. The rear is indicated by the missing chunk in the target circles of an enemy, and the flanks on the adjacent quarters. Enemies with full circles are omnidirectional, meaning all positional effects with triggers without regards to where you stand at.
+<span style="text-decoration:underline;">Positional:</span> Some moves have additional effects that indicate a bonus buff, damage, or resource if you use a move and it hits the target’s flank or rear. The rear is indicated by the missing chunk in the target circles of an enemy, and the flanks on the adjacent quarters. Enemies with full circles are omnidirectional, meaning all positional effects with triggers without regards to where you stand at.
 
-Damage-over-Time: (DoT) are moves that leave a ticking debuff on an enemy while doing a certain amount of damage every server tick of three seconds. Total potency is determined by dividing the duration by three, then multiply it with the tick potency. You can safely estimate that for every three seconds, the DoT is overwritten/cancelled before reaching zero or the DoT is not applied on the target, you lose that many ticks of potency. To maximize the damage from a DoT, the countdown must be allowed to reach one or zero every time and have the DoT reapplied as close as possible to zero.
+<span style="text-decoration:underline;">Damage-over-Time:</span> (DoT) are moves that leave a ticking debuff on an enemy while doing a certain amount of damage every server tick of 3 seconds. Total potency is determined by dividing the duration by three, then multiply it with the tick potency. You can safely estimate that for every 3 seconds the DoT is overwritten/cancelled before reaching 0 or the DoT is not applied on the target, you lose that many ticks of potency. To maximize the damage from a DoT, the countdown must be allowed to reach 1 or 0 every time and have the DoT reapplied as soon as possible to 0.
 
-Buffs: are beneficial effects that you have when they’re up. If a buff can be kept up 100% of the time, do it. oGCD buffs often cannot be maintained 100% so you should be selective when you use them to maximize the damage on a target, or use moves that extend the duration of the said buffs.
+<span style="text-decoration:underline;">Buffs:</span> are beneficial effects that you have when they’re up. If a buff can be kept up 100% of the time, do it. oGCD buffs often cannot be maintained 100% so you should be selective when you use them to maximize the damage on a target, or use moves that extend the duration of the said buffs.
 
-Debuffs: are harmful effects that you apply on enemies to either maximize the damage they’ll take or reduce the damage they can do. Again, use wisely to maximize damage or safety of your tanks.
+<span style="text-decoration:underline;">Debuffs:</span> are harmful effects that you apply on enemies to either maximize the damage they’ll take or reduce the damage they can do. Again, use wisely to maximize damage or safety of your tanks.
+
 
 ## Rules of Thumb
 
-* ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh6.googleusercontent.com/ZsoaL2z3o1xOLyRJ8ASJpCFJyeMdz6ZuHUUoOPercq6akUSGc2dbvkVk1GnNrEioTwqDH6EEc5X9o35MuMUS_cWrfhmtYiQydLDpj0MWC-kKE7x98131d4HH9tCqPov-aQO3gHkn=s0) *Rotate through the combos*: For classes with multiple combos with different effects, rotate through all of them for maximum effect. 
-* ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh5.googleusercontent.com/5MN4bkIOcz6kJZsk6FzRWrNr3eRpQbM9_moiWIb6nT8AMvSOJp-GOePbRaiCTIljyYQcLUkpkrveDcLdhQkpErQw4eBhx5GCI9vnnZQHzHvhyiHEpVPDjV2BbRduWf-JvYZqgTNy=s0) *How many oGCDs between two GCDs?*: At base GCD recast time, do not use more than two oGCDs between two consecutive GCDs. At reduced GCD recast time or high latency, use one oGCD unless the situation calls for it. Most of the time you don’t want to use one after a GCD with a cast time. There are certain oGCD that have a longer lock. For example using a potion will not allow you to double weave between two GCDs.
-* ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh6.googleusercontent.com/WfCyQS4LAr4acVAi0Ch3B_hUjHFFlq4JRRDOmMrR1bqS_REh8UpJEAGJiDa_EgjxW58VLLnkyE8YKo78CR07sfY-TpLTrbl4K271_utUd8wT8jr6rIvNFEEnmUoUIWBr_gUAE9Xg=s0) *Taking a break on positionals*: To minimize the movement required on moving between rear and flank for positional moves, position yourself at the point where the targeting circle breaks. By positioning yourself on the boundary between rear and flank you only need to move a foot either side for the positionals.
 
-![](https://lh4.googleusercontent.com/iugvrxCSRoRG7NMfhhDlT6txW2o5EwTSE8J2FOlnH1TyiiSnJWn8KrUIRaTATPYvB7oA3_XIlM7dvwaLmGQXO9qswp27-lNU0fvN1enOh2iHVFsQQThVOwNmPNFEQAFBng7XcTwx=s0)
 
-###### Figure 1: How to position yourself to minimize movements for positionals!
+* 
+_<span style="text-decoration:underline;">Rotate through the combos:</span>_ For classes with multiple combos with different effects, rotate through all of them for maximum effect. 
 
-* ![C:\\Users\\Clovis\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\SAMPotDSprite.png](https://lh5.googleusercontent.com/14fbdNCDFcXpUP89NL2f0aRAwC8L8IXB9QpK4KNp7rt7otaGq3f2lW9a3AQsCLQ0p32puRxC0TFTNNcJ5B7HKIZiD_jAgU3knH1Uslplc0A3EotA4bDPlA1dljTn7oXLojAztWQv=s0)  *Dead DPS does no damage* : Avoid dying at all cost unless the team strategy or mechanics require you to die so the encounter won’t wipe. A dead person contributes nothing while and will be raised with reduced battle stats.
+
+* 
+_<span style="text-decoration:underline;">How many oGCDs between two GCDs?:</span>_ At base GCD recast time, do not use more than two oGCDs between two consecutive GCDs. At reduced GCD recast time or high latency, use one oGCD unless the situation calls for it. Most of the time you don’t want to use one after a GCD with a cast time. There are certain oGCD that have a longer lock. For example using a potion will not allow you to double weave between two GCDs.
+
+
+* 
+_<span style="text-decoration:underline;">Taking a break on positionals:</span>_ To minimize the movement required on moving between rear and flank for positional moves, position yourself at the point where the targeting circle breaks. By positioning yourself on the boundary between rear and flank you only need to move a foot either side for the positionals.
+
+![](https://lh4.googleusercontent.com/iugvrxCSRoRG7NMfhhDlT6txW2o5EwTSE8J2FOlnH1TyiiSnJWn8KrUIRaTATPYvB7oA3_XIlM7dvwaLmGQXO9qswp27-lNU0fvN1enOh2iHVFsQQThVOwNmPNFEQAFBng7XcTwx=s0 "image_tooltip")
+
+
+_Figure 1: How to position yourself to minimize movements for positionals!_
+
+
+
+* 
+_<span style="text-decoration:underline;">Dead DPS does no damage:</span>_ Avoid dying at all cost unless the team strategy or mechanics require you to die so the encounter won’t wipe. A dead person contributes nothing while and will be raised with reduced battle stats.
+
+# Changelog
+
+March 2018, Patch 4.2
+
+
+
+* 
+No changes to SAM since Stormblood launch
+
+
+* 
+Restructured guide
+
+
+* 
+Added section on Higanbana, Yaten-Enpi-Gyoten
+
+
+* 
+Added fight specific tips as of Sigmascape: Savage
+May 2018, Patch 4.3
+
+
+
+* +20 Potency to Jinpu, Shifu, Yukikaze, Gekko, and Kasha
+* Third Eye damage reduction increased to 10%
+* Additional effect on Merciful Eyes: 20% current enmity reduction
+
+Sept 2018, Patch 4.4
+
+
+
+* +20 Potency to Yukikaze, Gekko, Kasha, and Enpi
+
+July 2019, Patch 5.0
+
+
+
+* Boxer takes over for Aureum as caretaker.
+* Large-scale updates to everything coinciding with expansion changes.
+
+November 2019, Patch 5.1
+
+
+
+* 5.1 changes added and guide finally fully updated for Shadowbringers.
+
+January 2022, Patch 6.05
+
+
+
+* First draft of an updated guide for Endwalker.
+
+March 2022, Pre-Patch 6.1
+
+
+
+* Added Rotation/Looping+Filler sections.
+
+August 2022, Pre-Patch 6.2
+
+
+
+* Adjusted math and guidance (re:Kaiten Removal) for Patch 6.1 changes.
