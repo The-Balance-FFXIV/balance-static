@@ -1,0 +1,539 @@
+---
+title: Dragonsong's Reprise (Ultimate)
+authors: []
+patch: "6.1"
+lastmod: 2022-08-04T01:19:10.386Z
+---
+# Reaper Guide for Dragonsong’s Reprise (Ultimate)
+
+
+
+### Introduction:
+
+
+
+Dragonsong’s Reprise (Ultimate) is the first Ultimate released in FFXIV: Endwalker. This entire encounter is about 22 minutes long and split into seven Phases and one Intermission; The Vault Knights, King Thordan, Nidhogg, The Eyes, Rewind Intermission, King Thordan II, The Great Wyrms, and The Dragon King. This guide will go over the rotational structure for Reaper in this encounter and provide tips for different push-timings, Arcane Circle and pot examples, Re-Opener and give some general ideas for how to execute your burst. This guide assumes that you have a basic understanding of the class and its fundamentals. I would advise to activate the following feature in your settings so you have an easier time hitting your first GCD on a boss after there was downtime.
+
+[![2022-07-13-12-07-56](https://i.im.ge/2022/08/04/F3Uoex.2022-07-13-12-07-56.png)](https://im.ge/i/F3Uoex)
+
+### Best in Slot (2.49)
+
+[Etro](https://etro.gg/gearset/b301e789-96da-42f2-9628-95f68345e35b)
+
+Your iLvl will be synced down to 605.The 2.49 set will be the recommended one for this encounter. You can learn more about this in the [advanced guide](https://www.thebalanceffxiv.com/jobs/melee/reaper/advanced-guide/#the-25-249-248-global-cooldown).
+
+# Phase 1: The Vault Knights
+
+The first Phase starts with a two target fight. We have some AoE skills in our basic single target rotation that affect a second target but otherwise we won't use any AoE alternative besides one Whorl of Death in the Opener. Use your entire Opener on Ser Adelphel as he will become untargetable right after and this will help to keep both of the knights on even HP later on.
+
+### Recommended Opener: Modified Early Shroud Opener
+
+[![Phase 1](https://i.im.ge/2022/08/04/F35UUq.Phase-1.png)](https://im.ge/i/F35UUq)
+
+- Pre-pull Soulsow
+- Pre-pull Harpe @2s (On Ser Adelphel)
+- Whorl of Death > Arcane Circle
+- Soul Slice
+- Soul Slice
+- Plentiful Harvest > Enshroud
+- Void Reaping
+- Cross Reaping > Lemure’s Slice
+- Void Reaping
+- Cross Reaping > Lemure’s Slice
+- Communio
+- Harvest Moon > Gluttony
+- Gallows
+- Gibbet > Unveiled Gallows
+- Gallows
+- Shadow of Death (On Ser Grinnaux)
+
+### Whorl of Death on two targets and Harvest Moon
+
+The Whorl of Death in the Opener is the *ONLY* time where it will be a gain in this encounter. Every other Whorl of Death would be a loss here. This is also the only AoE alternative we will use in this encounter. Using Harvest Moon in the Opener will be the most we get out of it for this Phase. Cast one Harpe later after the knockback from **Faith Unmoving**. Replacing this with Harvest Moon is not a DPS gain.
+
+### Rotational tips for Phase 1
+
+For **Hyperdimensional Slash** you can go out to your position after hitting Infernal Slice. If you're on the second set for **Hyperdimensional Slash** go for another combo rotation and go out again after hitting Infernal Slice. Use Arm’s Length for the **Faith Unmoving** right after and move to the save spot while doing your melee GCD’s. Enter Enshroud on 50 Soul gauge and use Shadow of Death on Ser Adelphel as he becomes targetable again shortly after. This should be the timing where both knights should be in the middle again and you should be able to hit both of them with Communio and with Gluttony right afterwards. Use Harpe for after the next **Faith Unmoving**. Build your gauge until you have 50 Shroud again and save your Enshroud and Arcane Circle as it should come back up shortly before they hit their enrage.
+
+### Ser Charibert
+
+Use Enshroud right after you’ve killed both knights. Ser Charibert is just a DPS check so you can do a normal double Shroud sequence here. The order in which you have to go in for the protean bait doesn’t matter. You will always be able to execute a normal double Enshroud window.
+
+### Feint and Arcane Crest examples
+
+Here are some examples for when to use Feint or Arcane Crest. Feint can only be used twice in total for this Phase.
+
+- Feint either the first **Holiest of Holy** or the second one, prior to enrage. If you have a second melee, **Hyperdimensional** Slash is also a candidate for Feint.
+- Use Arcane Crest for **Heavensblaze** in the Opener and again for the **Hyperdimensional Slash** stack. You can use another Arcane Crest for the **Heavensflame** after the knockback from **Faith Unmoving**. Last but not least, you can use Arcane Crest for the **Brightwing** protean waves from Ser Charibert.
+
+# Phase 2: King thordan
+
+This is the Phase with the most downtime in it. Reaper suffers the most in this Phase due to us not being able to build our gauges during downtime scenarios. I recommend to hold at the end of this Phase for a somewhat slower kill time if your group is killing him too early as this gives most classes a better Re-Opener for the next Phase. A kill time somewhere between 3:08-3:13 is good enough for this which is during/after **Broad Swing 2**
+
+
+### Foreword about push timings and Gluttony:
+With faster kill times on the earlier phases Gluttony can become somewhat of a pain to hold on cooldown. If you used Gluttony somewhere and the Boss dies keep the Soul Reavers until the next boss becomes targetable. Building your gauge is more important than a Harvest Moon in that scenario. If you are on later Phases already and the boss in a Phase dies while you have one Soul Reaver from Gluttony, try to enter **Sanctity of the Ward** with >50 Soul gauge and use Shadow of Death into Gluttony directly after **Sanctity of the Ward**. This can be done by just doing one Gibbet/Gallows less between **Strength of the Ward** and **Sanctity of the Ward** to hold on the >50 Soul gauge.
+
+
+### When to use which Re-Opener after **Sanctity of the Ward**
+- Use the "Burst" Re-Opener if your group needs the damage on Thordan or you don't want to do a 100/100 Re-Opener on Nidhogg. Generally not advised as holding on Thordan until he starts his enrage cast leads to way better Gluttony timings and better Re-Openers on Nidhogg.
+- Use the "Deadzoning" Re-Opener if you want to go into Nidhogg with 100/100 or if Thordan would die too fast if you burst.
+- Use the "Deadzoning" Re-Opener if your group kills Thordan too fast and wants to kill him slower to get their defensive cooldowns back
+
+### Recommended Opener: Early Shroud Opener
+
+[![Phase 2 Opener](https://i.im.ge/2022/08/04/F39cCP.Phase-2-Opener.png)](https://im.ge/i/F39cCP)
+
+- Shadow of Death > Arcane Circle
+- Soul Slice
+- Soul Slice
+- Plentiful Harvest > Enshroud
+- Void Reaping
+- Cross Reaping > Lemure’s Slice
+- Void Reaping
+- Cross Reaping > Lemure’s Slice
+- Communio
+- Harvest Moon > Gluttony
+- Gallows
+- Gibbet
+- Shadow of Death
+- Shadow of Death > Unveiled Gallows
+- Gallows
+
+**Why the double Shadow of Death at the end?**
+- Death's Design would fall off for the very last GCD if we don't refresh it. Thordan is untargetable for around 30 seconds so he would become targetable with about 24 seconds on Death's Design. The next Re-Opener will have one Shadow of Death less in it which can be replaced by a stronger GCD. Gallows is our last GCD because it is less likely to get ghosted due to application delay.
+
+
+**Would it not be more DPS to use Soul Slice before Shadow of Death?**
+- No. It's less dps and also won't give us another Soul Slice use.
+
+
+**Why do we not use Harpe Pre-pull for Thordan?**
+
+- Using Harpe Pre-pull will delay our first GCD by a very small amount. This generally is no problem at all and always a gain. However the last GCD in our Opener is very tight and using Harpe Pre-pull will most likely result in you ghosting your very last GCD. It was very inconsistent for me but you can try it out by yourself to see if you can use Harpe Pre-pull without ghosting your last GCD consistently.
+
+### Re-Opener after Strength of the Ward
+
+[![After Strength](https://i.im.ge/2022/08/04/F394Sa.After-Strength.png)](https://im.ge/i/F394Sa)
+
+- Soul Slice > Unveiled Gibbet
+- Gibbet
+- Soul Slice
+- Harvest Moon
+- Slice
+- Waxing slice
+- Infernal Slice > Gluttony
+- Gallows
+- Gibbet
+- Shadow of Death
+- Slice
+- Waxing Slice > Unveiled Gibbet
+- Gibbet
+- Soul Slice > Unveiled Gallows
+- Gallows
+
+**What about Enshroud?**
+- This depends on when your group wants to use their raidbuffs on Thordan. Some groups may use them later which would mean you would overcap on gauges and abilities while waiting for the raidbuffs. If this happens use the Enshroud after Gluttony in this Re-Opener and try to end on Soul Slice -> Gibbet/Gallows.
+
+**The late Soul Slice and the Gibbet/Gallows:**
+- Be sure that your last GCDs, before Thordan becomes untargetable again, are Gibbet/Gallows and Soul Slice. Using Gibbet/Gallows this late before Thordan becomes untargetable will help us to not drop our enhanced Gibbet/Gallows buff.
+
+**When to use Harvest Moon in this Re-Opener:**
+- For this Re-Opener it doesn’t really matter when exactly you want to use Harvest Moon as there won’t be any party buffs until the next time Thordan becomes untargetable. If you get an Astrologian Card, use it inside that window.
+
+### Re-Opener after Sanctity of the Ward: bursting
+
+[![After Sanctity (burst)](https://i.im.ge/2022/08/04/F39B6J.After-Sanctity-burst.png)](https://im.ge/i/F39B6J)
+
+- Shadow of Death
+- Soul Slice > Gluttony
+- Gibbet
+- Gallows > Enshroud
+- Shadow of Death > Arcane Circle
+- Void Reaping
+- Cross Reaping
+- Void Reaping
+- Cross Reaping > Lemure's Slice
+- Harvest Moon > Lemure's Slice
+- Communio
+- Plentiful Harvest > Enshroud
+- Void Reaping
+- Cross Reaping > Lemure’s Slice
+- Void Reaping
+- Cross Reaping > Lemure’s Slice
+- Communio
+- Soul Slice > Unveiled Gibbet
+- Gibbet
+- Soul Slice > Unveiled Gallows
+- Gallows
+
+**Why do we use Gluttony so early?**
+- Using Gluttony right after **Sanctity of the Ward** gives us better times on when Gluttony comes off cooldown again for later Phases.
+
+
+**About the Harvest Moon Placement:**
+- Thordan gets a debuff with which he get more damage from all sources. This debuff should apply right when you hit your 4th reaping ability here. Everything after that will hit stronger due to this debuff.
+
+
+**When should I use Arcane Circle?**
+- Every group has different timings on when they want to use their party buffs. I am only gonna show examples in this guide. When party buffs will come out should be clarified with your party or else you will misalign them.
+
+
+**Double Communio in raid buffs:**
+- Sadly we won’t be able to hit both Communios under 15 seconds raid buffs, without delaying them for too long. Due to the immense downtime in **Sanctity of the Ward** we will have to use Soul Slice to not overcap on it and then use Gibbet/Gallows directly after to not drop our Enhanced Gibbet/Gallows buff.
+
+
+**What if Thordan dies before I can get off my entire burst?**
+- If Thordan dies before you can hit Soul Slice after your second Communio go for the “Deadzoning Re-Opener” after **Sanctity of the Ward**.
+
+### Re-Opener after Sanctity of the Ward: Deadzoning
+
+[![After Sanctity (hold)](https://i.im.ge/2022/08/04/F3w6pG.After-Sanctity-hold.png)](https://im.ge/i/F3w6pG)
+
+- Shadow of Death
+- Soul Slice > Gluttony
+- Gibbet 
+- Gallows > Enshroud
+- Shadow of Death > Arcane Circle
+- Void Reaping
+- Cross Reaping
+- Void Reaping
+- Cross Reaping > Lemure's Slice
+- Harvest Moon > Lemure’s Slice
+- Communio
+- Plentiful Harvest
+- Soul Slice
+- Slice
+- Waxing Slice
+- Infernal Slice
+
+**Why do we use Gluttony so early?**
+- Using Gluttony right after **Sanctity of the Ward** gives us better times on when Gluttony comes off cooldown again for later Phases.
+
+
+**About the Harvest Moon Placement:**
+- Thordan gets a debuff with which he get more damage from all sources. This debuff should apply right when you hit your 4th reaping ability here. Everything after that will hit stronger due to this debuff.
+
+
+**When should I use Arcane Circle?**
+- This is very group dependent as every group uses their party buffs at different windows. I am only gonna show examples in this guide on where you can weave it. When party buffs should come out should be clarified with your party or else you will misalign Arcane Circle.
+
+
+### Rotational tips and more:
+
+- Having a slower kill time in this Phase is almost fundamental to hit Gluttony in later Phases on cooldown. I would suggest killing him everytime after he said the Phrase "This is the power of light?" (start of enrage cast).
+- Moments to cast Soulsow for **Strength of the Ward** are when you go to your savespot and wait for the expanding AoE's. There is a lot of time to cast Soulsow safely. For **Sanctity of the Ward** cast it directly after Thordan becomes untargetable.
+
+### Feint and Arcane Crest examples:
+
+- Use Feint either on the **Ancient Quaga** and then on the **Ultimate End** later or use Feint on **Heavenly Heel**, which will also cover the three **Ascalon’s Might** afterwards, and then the first **Eye of the Tyrant** in the Nidhogg Phase.
+- You can use Arcane Crest for these: **Lightning Storm**, **The Dragon’s Rage**, **Ancient Quaga**, **Sever**, **Heaven’s Stake** and **Ultimate End**
+
+# Phase 3: Nidhogg Estinien
+
+This Phase is a standard 100% melee uptime fight so there is nothing special about this Phase. It only really matters with how much gauge you enter this Phase. It won’t affect your burst later on. When to use your Arcane Circle later depends on when your party wants to use their buffs.
+
+
+
+### 100/100 Re-Opener: with combo
+
+[![Phase 3 (combo)](https://i.im.ge/2022/08/04/F3wCly.Phase-3-combo.png)](https://im.ge/i/F3wCly)
+
+- Soulsow before Nidhogg becomes targetable
+- Shadow of Death 
+- Continue combo (skip this if combo neutral) > Enshroud
+- Void Reaping
+- Cross Reaping > Lemure’s Slice
+- Void Reaping
+- Cross Reaping > Lemure’s Slice
+- Communio > Gluttony
+- Gallows
+- Gibbet 
+- Soul Slice > Unveiled Gallows
+- Gallows 
+- Soul Slice > Unveiled Gibbet
+- Gibbet
+- Shadow of Death 
+- Continue combo (skip this if combo neutral) > Unveiled Gallows
+- Gallows > Enshroud
+- Void Reaping
+- Cross Reaping > Lemure’s Slice
+- Void Reaping
+- Cross Reaping > Lemure’s Slice
+- Communio
+
+### Notes for this Re-Opener:
+
+I we are combo neutral we start with an Enshroud so we can get rid of our gauges without overcapping on anything. After the Enshroud we should use Gluttony to keep it on cooldown. Use Soul Slice as soon as possible without overcapping on Soul gauge or it will overcap on charges. We will be able to use another Enshroud right afterwards from all the Shroud gauge we get from the five Gibbet/Gallows we hit. Use this Enshroud and save the one afterwards for the burst window.
+
+### Double Shroud Window:
+
+Before I go into this, depending on the kill time for Thordan, when your group uses their raid buffs and if you're combo neutral you can go for two different burst windows: the single Shadow of Death double Enshroud variant if you're in a combo or the normal double Enshroud window if you're combo neutral.
+
+
+### Burst with Single Shadow of Death double Shroud variant:
+
+[![Phase 3 burst](https://i.im.ge/2022/08/04/F3wxcz.Phase-3-burst.png)](https://im.ge/i/F3wxcz)
+
+- Start with Death's Design <30s
+- Any GCD > Gluttony (best case is Infernal Slice)
+- Gibbet
+- Gallows > Enshroud
+- Void Reaping
+- Cross Reaping 
+- Shadow of Death > Arcane Circle
+- Void Reaping > Lemure's Slice
+- Cross Reaping > Lemure's Slice
+- Communio
+- Continue combo/Soul Slice
+- Plentiful Harvest > Enshroud
+- Void Reaping
+- Cross Reaping > Lemure's Slice
+- Void Reaping
+- Cross Reaping > Lemure's Slice
+- Communio
+- Soul Slice (If >50 Soul skip this) > Unveiled Gibbet
+- Gibbet
+
+### Rotational tips for this Phase:
+- The Re-Opener after bursting on Phase 2 is nothing special. Just hold Gluttony on cooldown.
+- If your group is not placing the **Second in Line** towers in max melee range, use Harvest moon for that instead. Otherwise use it if you are baiting the **Geirskogul** from the **Second in Line** tower.
+- If you're consistently entering your double Shroud Window after using Slice, you can use Harvest Moon somewhere before to enter your burst combo neutral and go for a normal double Shroud window.
+- Try to end this Phase with zero Soul Slice charges
+
+### Feint and Arcane Crest examples:
+- Feint either the first or second **Eye of the Tyrant**. Feinting the tankbuster tethers later might also be a good idea if your tanks need more mitigation there.
+- Use Arcane Crest for any of the **Final Chorus**, any of the **Eye of the Tyrant** and **Darkdragon Dive's**
+
+# Phase 4: The Eyes
+
+This is again a Phase with two targets. This Phase is pretty simple rotation wise. We won't have any AoE's to hit both targets as they are too far away from each other. Our only Skill which would hit both would be Plentiful Harvest but using raid buffs in this Phase will not be a gain as they will probably die or enrage before you can get off your burst. So we will hold Arcane Circle for the Intermission afterwards.
+
+### Notes for the Phase:
+
+- If you entered the Phase with an ongoing combo, continue it after Shadow of Death or it will probably expire.
+- Use Gluttony on cooldown. If you have a slower kill time, around 97-99 of the duty bar, you can use Gluttony twice in this Phase. If you end the Phase with Soul Reaver, save it for the Intermission and don't cast Soulsow
+- If you have problems hitting the second Gluttony in this Phase due to the eyes dying too fast, try to enter the Phase with >50 Soul gauge and instantly use Gluttony while still in the group stack and then do g/g. These will be unbuffed by Shadow of Death but it will still be a gain over losing the Gluttony.
+- The Re-Opener is more comfier with no Soul Slice charges but it's not a problem if you enter with one. Best case you use it before Nidhogg dies and you enter with >50 Soul for Gluttony at the start
+- You can use one Enshroud anytime in this Phase. Save the second one you get for the Intermission. 
+- You can use Harvest Moon for when you have to go out of melee range to swap your tether out at the beginning.
+
+### Feint and Arcane Crest examples
+- Use Feint for the **Steep of Rage** cast of the Left Eye.
+- Use Arcane Crest for the bleeding damage from **Resentment** at the beginning and then again at the end for the **Steep of Rage**.
+
+# The Intermission
+
+The Intermission works pretty much the same as in Phase 1. You just have to burst Ser Charibert to ~20% to not die to his raidwide and then destroy the Spear before it ends it's cast. Try to enter this Phase combo neutral and with zero Soul Slice charges. There is a chance that you can hit an additional GCD while you're getting pulled inside the circle by Ser Charibert thanks to the Auto-target Setting.
+
+### Re-Opener: double Shroud 
+
+[![Intermission](https://i.im.ge/2022/08/04/F3w3e6.Intermission.png)](https://im.ge/i/F3w3e6)
+
+- Cast Soulsow
+- Enshroud before Ser Charibert becomes targetable, if you're combo neutral and with zero Soul Slice charges
+- Shadow of Death
+- Void Reaping
+- Cross Reaping
+- Shadow of Death > Arcane Circle
+- Void Reaping > Lemure's Slice
+- Cross Reaping > Lemure's Slice
+- Communio
+- Plentiful Harvest > Enshroud
+- Void Reaping
+- Cross Reaping > Lemure's Slice
+- Void Reaping
+- Cross Reaping > Lemure's Slice
+- Communio
+- Continue combo (if combo neutral skip this)
+- Soul Slice (if >50 Soul skip this) > Gluttony
+- Gibbet
+- Gallows
+- Soul Slice > Unveiled Gibbet
+- Gibbet
+
+**About Gluttony:**
+- If you enter this Intermission with Gluttony off cooldown, use it before you're doing your double Shroud window.
+
+
+**If you're not combo neutral:**
+- Use your combo while getting pulled by Ser Charibert. Otherwise hit it after your first Shadow of Death and then Enshroud.
+
+
+**About Soul Slice:**
+- I would advise trying to enter this Intermission with zero Soul Slice charges as it would overcap during the burst. Otherwise use Soul Slice before you're getting pulled by Ser Charibert. If you can't get that one out, use Soul Slice after Shadow of Death.
+
+
+**Where to use Harvest Moon:**
+- I would recommend using this on the spear to still have a somewhat strong GCD to help kill the spear faster.
+
+### Feint, Arcane Crest and Bloodbath usage:
+- Feint on Ser Charibert at the end of the **Pure of Heart** cast or some of the **Brightwing** protean waves.
+- Use Arcane Crest for the damage over time from the shockwaves to help your healers out with the regen effect.
+- Use Bloodbath for the damage over time from the shockwaves for extra healing.
+
+# Phase 5: King Thordan II
+
+Phase 5 is the other heavy downtime Phase in this encounter. You should enter this Phase with one Enshroud ready.
+
+
+### Re-Opener: before Wrath of the Heavens
+
+As your kill times on the earlier phases decides how you enter this Phase, I will again give some tips on what to keep track off before Thordan jumps away. If you enter this Phase with 80 Shroud gauge, use an Enshroud before **Wrath of the Heavens** as you would overcap on gauges. Otherwise save the Enshroud and be careful not to overcap on your Shroud gauge.
+
+- Start with Shadow of Death as your first GCD and use it anywhere again before he becomes untargetable. Thordan will become targetable again with about 5 seconds on Death's Design.
+- Use Gluttony as soon as it comes off cooldown. This will probably be about two GCD's before Thordan jumps away for **Wrath of the Heavens** but you should be able to hit both Gibbet/Gallows after. If you end this with one or more Soul Reaver Stacks, don't cast Soulsow but use the Gibbet/Gallows after **Wrath of the Heavens** instead.
+- Try to enter **Wrath of the Heavens** with zero Soul Slice charges.
+- Use Harvest Moon anywhere here and recast Soulsow during **Wrath of the Heavens**.
+- Use Enshroud if you entered with about 50 Soul gauge and 70 Shroud gauge.
+
+### Re-Opener: after Wrath of the Heavens
+
+[![Phase 5 after Wrath](https://i.im.ge/2022/08/04/F360f8.Phase-5-after-Wrath.png)](https://im.ge/i/F360f8)
+
+- Enshroud before Thordan is targetable (If you entered **Wrath of the Heavens** with zero Soul Slice charges)
+- Void Reaping
+- Shadow of Death
+- Cross Reaping
+- Harvest Moon > Arcane Circle
+- Void Reaping > Lemure's Slice
+- Cross Reaping > Lemure's Slice
+- Communio
+- Plentiful Harvest > Enshroud
+- Void Reaping
+- Cross Reaping > Lemure's Slice
+- Void Reaping
+- Cross Reaping > Lemure's Slice
+- Communio > Unveiled Gibbet
+- Gibbet
+- Soul Slice > Gluttony
+- Gallows
+- Gibbet
+- Soul Slice
+
+### Notes for this Re-Opener:
+- If you enter **Wrath of the Heavens** with a Soul Slice charge, use it before Enshrouding.
+- If you enter **Wrath of the Heavens** with Gluttony ready, use it before your first Enshroud window but you probably already lost one use over the fight.
+- Here again, try to end with zero Soul Slice charges.
+- If you get Gluttony right before Thordan jumps away use it even if you can only hit one Gibbet/Gallows. Otherwise you will lose a use over the fight.
+
+
+### Tips for the Meteors after Death of the Heavens
+- Use Shadow of Death on your initial meteor. For the rest just hit them without Death's Design.
+- I would suggest to save 50 Shroud gauge so you can use one Enshroud on the Meteors. Especially if you're still progging the fight. Otherwise you can safe it if your group has no problem there.
+- You can hit three Meteors at once with Grim Reaping and Lemure's Scythe if you stand on the outer tiles of the inner Ring. A Picture for reference:
+
+[![2022-06-28-14-01-00](https://i.im.ge/2022/08/04/F36m8Y.2022-06-28-14-01-00.png)](https://im.ge/i/F36m8Y)
+
+### Feint and Arcane Crest examples:
+- Feint both of the **Ancient Quaga** or both of the **Heavenly Heel** which would also cover the three **Ascalons Might**. You may have to use Feint a bit before the **Heavenly Heel** cast starts so you can get it back before the next one happens.
+- Use Arcane Crest for the **Spiral Pierce** if you get the tether, **Skyward Leap** if you get the blue marker, **Ascalons Mercy Revealed**, **Liquid hells** if you get the baits, **Lightning Storm** if you get the thunder debuff, **Ancient Quaga** and for the **Heavensblaze** after the knockback.
+
+# Phase 6: The Great Wyrms:
+
+For this Phase we will fight again both, Nidhogg & Hraesvelgr. This is a 100% uptime, two target fight and both dragons are Omnidirectional. Plentiful Harvest will be the only Skill with which you can hit both targets at once. Changing the target in this fight might be a bit unfortunate for Reaper as you will have to apply your Death's Design on the target first. Beforehand: Whorl of Death will **NOT** be a gain on this Phase. Use Shadow of Death to apply Death's Design. Enter this Phase with >50 Shroud gauge and, if you can, combo neutral and with no Soul Slice charges.
+
+
+### Re-Opener:
+
+[![Phase 6 opener](https://i.im.ge/2022/08/04/F36NI4.Phase-6-opener.png)](https://im.ge/i/F36NI4)
+
+- Cast Soulsow, Enshroud as soon as the battleground changes.
+- Shadow of Death
+- Void Reaping
+- Shadow of Death 
+- Cross Reaping > Arcane Circle
+- Void Reaping > Lemure's Slice
+- Cross Reaping > Lemure's Slice
+- Communio
+- combo GCD/Soul Slice
+- Plentiful Harvest > Enshroud
+- Void Reaping
+- Cross Reaping > Lemure's Slice
+- Void Reaping
+- Cross Reaping > Lemure's Slice
+- Communio
+- Soul Slice (if >50 Soul skip this) > Gluttony
+- Gibbet
+- Gallows
+
+### Notes for this Re-Opener:
+- You can go out for **Wyrmsbreath** after hitting your combo GCD/Soul Slice and use Plentiful Harvest while being on your spot. If you have to adjust to one of the back spots, you can use any extra GCD after the combo GCD/Soul Slice and then go out to use Plentiful Harvest on your spot.
+- The best case for Reaper is to attack Hraesvelgr at the beginning so you don't have to use another Shadow of Death on Hraesvelgr after Nidhogg jumps away. Of course this depends on how your group wants to handle the opener on the dragons for this Phase.
+
+### Rotational notes:
+- For the first **Hallowed Wings** if this is the pattern where you have to go out of melee range, you can use your odd minute Enshroud here and go out after your 4th Reaping to cast Communio after going out.
+- If you get the pattern in **Wroth Flames** where you have to go out of melee range, you can use Hell's Ingress/Egress to teleport to the stack spot and use your Enhanced Harpe that you gain + Harvest Moon.
+- If your group wants to use their raid buffs after **Touchdown**, I would advise to use the second Enshroud you get in this Phase as soon as you get it. Reason is that you probably won't get off an Enshroud, Gluttony and Plentiful Harvest before the dragons die.
+- Arcane Circle will come back up during **Wyrmsbreath 2**. I would advise holding raid buffs here as you will not hit everyone and both dragons will jump away soon afterwards.
+
+### Touchdown:
+- If you have a Ninja or Scholar in the group I would advise to focus down one of the dragons to get the most value out of Mug and Chain Strategem.
+- The most important thing here is to hit Gluttony and Plentiful Harvest before both of them die.
+- End with zero Soul Slice charges.
+
+### Feint and Arcane Crest examples:
+- I would advise to use Feint for either one of the **Hallowed Plume** tankbusters, if your tank need help with them, or for the **Akh Morn** during **Wroth Flames** as these hit pretty hard and every mitigation here would help.
+- Use Arcane Crest pretty much on cooldown. For **Wyrmsbreath 1**, **Akh Afah**, **Akh Morn** or the Stack/Spread, **Wyrmsbreath 2** or **Touchdown**.
+
+# Phase 7: The Dragon King
+
+The final Phase in this whole encounter. This is a 100% uptime Phase where you may have to go out of melee range for one GCD for **Exaflare's Edge** depending on which strat you do. You may enter this Phase with between 80-100 Shroud gauge and depending on this you may have to adjust some abilities in the follwing Re-Opener. If you entered this Phase with <80 Shroud Gauge you can use Enshroud twice and then safe the third one for your 2 minute burst, similar to Phase 3.
+
+
+### Re-Opener:
+
+- Shadow of Death 
+- Soul Slice (Skip this if >50 Soul gauge) > Unveiled Gibbet
+- Gibbet (skip this if you would overcap on shroud gauge) > Enshroud
+- Void Reaping
+- Cross Reaping > Lemure's Slice
+- Void Reaping
+- Cross Reaping > Lemure's Slice
+- Communio > Gluttony
+- Gibbet
+- Gallows
+- Soul Slice > Unveiled Gibbet
+- Gibbet
+
+###Notes for this Re-Opener:
+- If you Enshroud right after Shadow of Death your Communio will line up right at the end of the **Exaflare's Edge** cast which is not a good or safe time to cast Communio. I would then advise to use Shadow of Death again so it happens after the first Exaflares dropped.
+- If you enter this Phase with >50 Soul gauge you can start with a Soul Slice after Shadow of Death
+- You can use Gluttony before you Enshroud if you entered this Phase with >80 Shroud Gauge. Otherwise use it after Enshroud
+- It is possible to not drop your enhanced Gibbet/Gallows buff during the transition if one of your last two GCD's at the end of Phase 6 were Gibbet/Gallows. One of your first two GCD's in Phase 7 have to be Gibbet/Gallow for that. It's not worth if you would overcap on Shroud gauge by doing this.
+
+### 2 Minute burst:
+Most groups probably want to delay their raid buffs to after the first **Gigaflare's Edge's** first hit goes off so it will better realign with 60 second cooldowns. It doesn't matter where you used Gluttony in the opener, I would advise to push it back to after your 2nd Communio in the double Enshroud window. Use Shadow of Death again before Gigaflare so you enter it with >30 seconds on Death's Design. Enshroud when your Death's Design hits 33 seconds and go for a Harvest Moon Double Enshroud variant. If you already used Harvest Moon before, go for a standard double Enshroud window.
+
+### Harvest Moon Double Enshroud:
+
+[![HM double Shroud](https://i.im.ge/2022/08/04/F363uf.HM-double-Shroud.png)](https://im.ge/i/F363uf)
+
+- Enshroud after the next GCD as soon as Death's Design hits 33 seconds
+- Void Reaping
+- Cross Reaping
+- Shadow of Death > Pot
+- Void Reaping > Arcane Circle
+- Cross Reaping > Lemure's Slice
+- Harvest moon > Lemure's Slice
+- Communio
+- Plentiful Harvest > Enshroud
+- Void Reaping
+- Cross Reaping > Lemure's Slice
+- Void Reaping
+- Cross Reaping > Lemure's Slice
+- Communio
+- Continue combo > Gluttony (skip if combo neutral)
+- Gibbet
+- Gallows
+- Soul Slice > Unveiled Gibbet
+- Gibbet
+
+### What if you are the melee who has to LB?
+This is totally fine and not a problem at all for us if done at the correct timings. If you want to use an LB3 with an LB1 later on then you can just use the LB3 during the first **Akh Morn's Edge** and then use the LB1 at the end before **Morn Afah's Edge**. If you only want to use the LB3 at the end to hold it for safety, then use it after the last **Akh Morn's Edge**.
+
+
+### Feint, Arcane Crest and Bloodbath examples:
+- You can get two uses of Feint in this Phase. To get the maximum uses out I would advise to either use it on the first **Akh Morn's Edge** and the second **Gigaflare's Edge** or on the first **Gigaflare's Edge** and the third **Akh Morn's Edge**.
+- Use Arcane Crest pretty much on cooldown. Your healers will thank you for using it during every **Akh Morn's Edge** and **Gigaflare's Edge**. And of course for every **Trinity Auto Attack**.
+- Use Bloodbath for the first and third **Akh Morn's Edge** to make it easier for your healers.
