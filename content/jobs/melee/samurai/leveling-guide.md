@@ -3,40 +3,50 @@ title: Samurai Leveling Guide
 card_header_image: /img/jobs/sam/leveling.png
 authors:
   - Balance-SAM-Staff
-patch: "5.58"
-lastmod: 2021-10-28T03:18:12.573Z
+patch: "6.18"
+lastmod: 2022-08-03T02:07:13.475Z
 changelog:
   - date: 2021-10-28T03:18:27.850Z
     message: Created page
+  - date: 2022-08-03T02:07:14.775Z
+    message: Updated for 6.18
 ---
 # Level 50
-[Level 50 Opener](http://ffxivrotations.com/1ndy)
 
-Keep buffs up, reapply your Higanbana as close to zero as possible, Midare goes brrrrrr. 
+[Level 50 Opener](https://ffxivrotations.com/3et8)
+
+Rotate through your combos and smash that Midare button. Use Meikyo for Gekko and Kasha past the opener. Refresh Higanbana as close to 0 as possible.
 
 # Level 52
 
-You learn Kenki Mastery I, which introduces the Kenki gauge and positionals on Gekko/Kasha. Use Kaiten exclusively on Iaijutsu (Higanbana > Midare).
+Introduces Kenki Gauge and Hissatsu: Shinten. Use it when you want and be sure not to overcap.
 
 # Level 60
 
-[Level 60 Opener](http://ffxivrotations.com/2rqm)
+[Level 60 Opener](https://ffxivrotations.com/3lvo)
 
-Use the above and read Level 52 for the rest.
+Once you begin accruing Kenki to spend on Shinten, the opener should look like this.
 
 # Level 62
 
-You learn Kenki Mastery II. Begin to Kaiten all Iaijutsu, use excess Kenki on Shinten, use Level 70 Openers. 
+Introduces Kenki gain to all of your combos, mash that Shinten button harder to prevent overcapping.
 
-[Level 70 Bana 1st Opener](http://ffxivrotations.com/2r8w)  
-[Level 70 Midare 1st Opener](http://ffxivrotations.com/2r8x)
+# Level 68
 
-Reserve Midare 1st for encounters that require you to move exactly as you need to cast Higanbana with Bana 1st opener (e.g. UCoB Twintania).
+When first introduced Hagakure is only really used in dungeons to try and clean up leftover Sen, it does not see a real rotational use until levels 76 through 78 with the introduction of Tsubame-gaeshi and the reduction of your GCD.
+
+# Level 70
+
+[Level 70 Opener](https://ffxivrotations.com/3lvp)
+
+By level 70 your opener should be utilizing your new skills you've picked up along the way and look similar to this, still getting buffs up early and following up with a quick Higanbana.
 
 # Level 76
 
-You learn Tsubame-gaeshi. Use this exclusively after Midare Setsugekka (ST) or Tenka (AoE), never after Higanbana.
+Use exclusively after Midare Setsugekka or Tenka Goken, never after Higanbana. Begin learning about filler in order to keep your rotation lined up. An infographic with a quick primer on filler can be found in the [basic guide.](https://www.thebalanceffxiv.com/jobs/melee/samurai/basic-guide/)
 
-# Level 78
+# Level 80
 
-You learn Enhanced Jinpu and Shifu. Congratulations! You can now study up on the max level rotation and practice it on Innocence.
+[Level 80 Opener](https://ffxivrotations.com/3lvq)
+
+The opener should feel familiar by this point! At level 80 we are simply adding skills we have learned or replacing skills with their more powerful versions. You should be set to use this single-target opener and the basics of play (keep Higanbana up, don't drop buffs, push your cooldowns) until you reach level 90 and can utilize the [basic guide.](https://www.thebalanceffxiv.com/jobs/melee/samurai/basic-guide/)
