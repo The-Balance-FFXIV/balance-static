@@ -1,18 +1,20 @@
 ---
 title: Samurai Best in Slot (BiS)
 layout: bis
-patch: "6.0"
-lastmod: 2022-02-14T05:56:12.822Z
+patch: "6.18"
+lastmod: 2022-08-03T02:15:28.668Z
 changelog:
   - date: 2021-10-28T03:30:20.029Z
     message: Created page
   - date: 2022-02-14T05:56:07.147Z
     message: Updated for Endwalker
+  - date: 2022-08-03T02:15:29.836Z
+    message: Updated for 6.18
 bis:
   - type: etro
     description: |-
       * 28 GCD loop, 2 filler GCDs 
-      * 8727.21 DPS including 5% party buff.
+      * 8740.34 DPS including 5% party buff.
       * Classic "Slow SAM". Highest DPS, easiest weaving.
     link: https://etro.gg/gearset/3a7c7f45-b715-465d-a377-db458045506a
     name: 2.14 Savage BiS
@@ -20,7 +22,7 @@ bis:
     description: >-
       * 29 GCD loop, 3 filler GCDs 
 
-      * 8641.28 DPS including 5% party buff. 
+      * 8656.47 DPS including 5% party buff.
 
       * Small hit in DPS in exchange for a slightly extended rotation, offering more flexibility with mechanic downtime.
     name: 2.07 Savage BiS
@@ -29,26 +31,25 @@ bis:
     description: >-
       * 30 GCD loop, 4 filler GCDs
 
-      * 8626.34 DPS including 5% party buff.
+      * 8649.80 DPS including 5% party buff.
 
       * Classic "Fast SAM". Trades a ~1% DPS loss for a faster playstyle with even more filler to maneuver mechanic downtime. May have difficulty iai/double weaving even on the best of connections.
     name: 2.00 Savage BiS
     link: https://etro.gg/gearset/84c1f493-7f65-4d9e-bd3c-34965c75cf41
-  - type: spreadsheet
+  - type: gsheets
     description: >-
       Sets for these fights are community-sourced through use of Jahaudant's
       Gear Planner. The below sets have been sourced from Niche.
 
 
-      [UCoB](https://i.imgur.com/bdSwAUj.png)\
+      [UCoB](https://i.imgur.com/KnHYimM.png)\
 
-      [UWU](https://i.imgur.com/cu22dMY.png)\
+      [UWU](https://i.imgur.com/igyekfg.png)\
 
-      [TEA](https://i.imgur.com/mYs9nYp.png)
+      [TEA](https://i.imgur.com/hehTgp0.png)
     name: 'Ultimate/Unreal Sync "BiS" Sets:'
-    link: https://i.imgur.com/bdSwAUj.png
+    link: https://bit.ly/Gear-Planner
 authors:
-  - boxer
   - Balance-SAM-Staff
 ---
 # Samurai Savage Best In Slot:
