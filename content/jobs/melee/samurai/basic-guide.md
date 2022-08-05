@@ -481,7 +481,7 @@ In an eight-person instance such as a Primal Extreme or Savage Raid, all of thes
 
 ## Playstyle
 
-High similarity to Dragoon with simple GCD structure at a glance. However, SAM is a job that is capable of an extremely high skill ceiling due to its flexibility in its Kenki usage and Sen/GCD optimization. This is a job that emphasizes using the complete toolkit given the circumstances. Samurai manage two different resources to do heavy damage: Sen and Kenki.
+High similarity to Dragoon with simple GCD structure at a glance. However, SAM is a job that is capable of an extremely high skill ceiling due to the flexibility in its Kenki usage and Sen/GCD optimization. This is a job that emphasizes using the complete toolkit given the circumstances. Samurai manage two different resources to do heavy damage: Sen and Kenki.
 
 Every time SAM completes a certain GCD combo, its corresponding Sen is collected. There are three types of Sen to collect:
 
@@ -611,7 +611,7 @@ With Meikyo it is possible for you to go the following sequence:
 **\->**
 ![alt_text](https://xivapi.com/i/003000/003160_hr1.png "Higanbana")
 
-Now, how to use Meikyo to increase your damage? Consider Meikyo as a GCD saver after you have refreshed both your Fugetsu and Fuka buffs, as it lets you skip an entire two GCDs in your Kasha and Gekko combos. The most ideal situation is one where you use all three of Meikyo’s GCDs on Kasha and Gekko only, as using Yukikaze in Meikyo saves you only once GCD and Yukikaze is a weaker finisher.
+Now, how to use Meikyo to increase your damage? Consider Meikyo as a GCD saver after you have refreshed both your Fugetsu and Fuka buffs, as it lets you skip an entire two GCDs in your Kasha and Gekko combos. The most ideal situation is one where you use all three of Meikyo’s GCDs on Kasha and Gekko only, as using Yukikaze in Meikyo saves you only one GCD and Yukikaze is a weaker finisher.
 
 <span style="text-decoration:underline;">An example of Meikyo with ideal usage as long as the buffs do not fall off:</span>
 
@@ -758,7 +758,7 @@ So you signed up for being a melee DPS, that means you want to hurt things, and 
 
 <span style="text-decoration:underline;">Potency:</span> The basic unit of how much damage a move will do. Comparing potencies between combos or rotations is useful only within the specific class.
 
-<span style="text-decoration:underline;">Global Cooldown:</span> (GCD) Can refer to two things. One is the skills themselves, also called Weaponskills. These are skills grouped together under a global cooldownand go on cooldown the same time they are pressed, and in almost all cases come off cooldown simultaneously. Always be using them when you can. Could also refer to *how long* your GCD is, or how long these skills are on cooldown when pressed. Examples: Hakaze is a GCD. My GCD is 2.13(seconds). 
+<span style="text-decoration:underline;">Global Cooldown:</span> (GCD) Can refer to two things. One is the skills themselves, also called Weaponskills. These are skills grouped together under a global cooldown and go on cooldown the same time they are pressed, and in almost all cases come off cooldown simultaneously. Always be using them when you can. Could also refer to *how long* your GCD is, or how long these skills are on cooldown when pressed. Examples: Hakaze is a GCD. My GCD is 2.13(seconds). 
 
 <span style="text-decoration:underline;">Off-Global Cooldown:</span> (oGCD) are abilities that have their own cooldowns that act independently of other abilities with job-specific exceptions. The abilities have a variety of effects like buffs or damage and are meant to be cast in the downtime between two consecutive GCDs.
 
@@ -782,7 +782,7 @@ So you signed up for being a melee DPS, that means you want to hurt things, and 
 
 *Figure 1: How to position yourself to minimize movements for positionals!*
 
-* *<span style="text-decoration:underline;">Dead DPS does no damage:</span>* Avoid dying at all cost unless the team strategy or mechanics require you to die so the encounter won’t wipe. A dead person contributes nothing while and will be raised with reduced battle stats.
+* *<span style="text-decoration:underline;">Dead DPS does no damage:</span>* Avoid dying at all costs unless the team strategy or mechanics require you to die so the encounter won’t wipe. A dead person contributes nothing while dead and will be raised with reduced battle stats.
 
 # Changelog
 
