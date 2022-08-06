@@ -502,8 +502,8 @@ The final Phase in this whole encounter. This is a 100% uptime Phase where you m
 
 ###Notes for this Re-Opener:
 - If you Enshroud right after Shadow of Death your Communio will line up right at the end of the **Exaflare's Edge** cast which is not a good or safe time to cast Communio. I would then advise to use Shadow of Death again so it happens after the first Exaflares dropped.
-- If you enter this Phase with > 50 Soul gauge you can start with a Soul Slice after Shadow of Death
-- You can use Gluttony before you Enshroud if you entered this Phase with > 80 Shroud Gauge. Otherwise use it after Enshroud.
+- If you enter this Phase with less than 50 Soul gauge you can start with a Soul Slice after Shadow of Death
+- You can use Gluttony before you Enshroud if you entered this Phase with under 80 Shroud Gauge. Otherwise use it after Enshroud.
 - It is possible to not drop your enhanced Gibbet/Gallows buff during the transition if one of your last two GCD's at the end of Phase Six were Gibbet/Gallows. One of your first two GCD's in Phase Seven have to be Gibbet/Gallow for that. It's not worth if you would overcap on Shroud gauge by doing this.
 
 ### Two Minute burst:
