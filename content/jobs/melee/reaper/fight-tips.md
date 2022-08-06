@@ -118,7 +118,7 @@ With faster kill times on the earlier phases Gluttony can become somewhat of a p
 
 ### Re-Opener after Strength of the Ward
 
-[![After Strength](https://i.im.ge/2022/08/04/F394Sa.After-Strength.png)](https://im.ge/i/F394Sa)
+[![After Strength](https://i.im.ge/2022/08/06/FceyYK.After-Strength.png)](https://im.ge/i/FceyYK)
 
 - Soul Slice > Unveiled Gibbet
 - Gibbet
