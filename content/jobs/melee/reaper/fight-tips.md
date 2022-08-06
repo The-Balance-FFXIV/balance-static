@@ -482,7 +482,7 @@ For this Phase we will fight again both, Nidhogg & Hraesvelgr. This is a 100% up
 
 # Phase Seven: The Dragon King
 
-The final Phase in this whole encounter. This is a 100% uptime Phase where you may have to go out of melee range for one GCD for **Exaflare's Edge** depending on which strat you do. You may enter this Phase with between 80-100 Shroud gauge and depending on this you may have to adjust some abilities in the follwing Re-Opener. If you entered this Phase with < 80 Shroud Gauge you can use Enshroud twice and then safe the third one for your two minute burst, similar to Phase Three.
+The final Phase in this whole encounter. This is a 100% uptime Phase where you may have to go out of melee range for one GCD for **Exaflare's Edge** depending on which strat you do. You may enter this Phase with between 80-100 Shroud gauge and depending on this you may have to adjust some abilities in the follwing Re-Opener. If you entered this Phase with more than 80 Shroud Gauge you can use Enshroud twice and then save the third one for your two minute burst, similar to Phase Three.
 
 
 ### Re-Opener:
