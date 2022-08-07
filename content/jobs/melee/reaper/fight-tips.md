@@ -1,5 +1,6 @@
 ---
 title: Dragonsong's Reprise (Ultimate)
+card_header_image: /img/jobs/rpr/front-picture.png
 authors:
   - sekki
 patch: "6.1"
