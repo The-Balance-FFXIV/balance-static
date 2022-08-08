@@ -3,7 +3,7 @@ title: Monk Leveling Guide
 card_header_image: /img/jobs/mnk/leveling.png
 authors:
   - Perfect-Balance
-patch: "6.1"
+patch: "6.18"
 lastmod: 2022-08-08T20:05:57.740Z
 changelog:
   - date: 2021-11-15T21:06:38.491Z
@@ -23,7 +23,7 @@ While it is a loss to miss your Positionals, landing them should be your last pr
 1. **Handle Mechanics**\
    If you fail mechanics, you could cause a potential raid wipe and a fight reset. You do not want to be the cause of that. Nothing is more important than properly handling mechanics.
 2. **Stay Alive**\
-   Don’t die. Plain and simple. If you have to sacrifice uptime to not die, you know the choice to make. Deaths cause much larger losses than having to use a few Piercing Talons.
+   Don’t die. Plain and simple. If you have to sacrifice uptime to not die, you know the choice to make. Deaths cause much larger losses than missing a GCD or two.
 3. **Maintain Uptime (ABC - Always Be Casting)**\
    Stick to the boss like glue, assuming you meet 1 and 2. Don’t let your GCD stop spinning.
 4. **Land Positionals**\
