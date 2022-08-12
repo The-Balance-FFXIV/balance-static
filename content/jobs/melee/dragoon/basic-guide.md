@@ -14,8 +14,8 @@ changelog:
     message: Fixed broken <inline> tags; potency adjustments; animation lock
       adjustments; fixed some line breaks; fixed buff timings; fixed DS macros
   - date: 2022-08-12T17:06:16.913Z
-    message: "Updated DS textand life cycle text, various formatting fixes (DS
-      macros, rotation table, column size, "
+    message: Updated DS textand life cycle text, various formatting fixes (DS
+      macros, rotation table, column size, spaces), fixed link to BiS page
 ---
 # Saving The Dragoon
 
