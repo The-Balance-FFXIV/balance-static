@@ -13,6 +13,9 @@ changelog:
   - date: 2022-04-20T07:47:47.854Z
     message: Fixed broken <inline> tags; potency adjustments; animation lock
       adjustments; fixed some line breaks; fixed buff timings; fixed DS macros
+  - date: 2022-08-12T17:06:16.913Z
+    message: "Updated DS textand life cycle text, various formatting fixes (DS
+      macros, rotation table, column size, "
 ---
 # Saving The Dragoon
 
@@ -201,7 +204,7 @@ In general, the buffs will all come out together every two minutes, with Lance C
 
 ![Basic buff rotation](https://i.imgur.com/wCfUtSr.png "Basic Buff Rotation")
 
-&nbsp;
+&nbsp;\
 
 - - -
 
@@ -378,6 +381,7 @@ Once you have three or more targets, you should cycle through your Coerthan Torm
 | ![](https://xivapi.com/i/002000/002594_hr1.png) | ![](https://xivapi.com/i/002000/002586_hr1.png) | ![](https://xivapi.com/i/002000/002590_hr1.png) |
 
 &nbsp;\
+
 You ideally want to also keep all of your other area-of-effect attacks rolling as often as possible in these situations, as well, and keep in mind that Life Surge does work on Coerthan Torment, to force a critical hit on every target all at once. Make sure to prioritize High Jump the same as always to get into Life of the Dragon quickly, as Nastrond and Stardiver are two of your strongest multi-target actions.
 
 - - -
