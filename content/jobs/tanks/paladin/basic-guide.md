@@ -13,7 +13,7 @@ changelog:
   - date: 2022-07-26T20:34:27.725Z
     message: Updated opener graphics
 ---
-Welcome to the Basics Guide for Paladin! Whether you are a fresh level 90, a returning player, or just need a refresher, this guide will get you started and hit the ground running.
+Welcome to the Basics Guide for Paladin! Whether you are a fresh level 90, a returning player, or just need a refresher, this guide will get you started and allow you to hit the ground running.
 
 Since this is a basic introduction to level 90 Paladin, this guide will not go into many nuances and topics that are tied to high-end optimization. If you are looking for such information, you may find it in one of the dedicated guides below:
 
@@ -47,7 +47,7 @@ There are a few key concepts that are fundamental to the game and carry over bet
 Goals for the opener include:
 
 * Apply Goring Blade early
-* Use damaging oGCDs inside tincture and raid-buff windows. Most raid-buffs will come out shortly before the 4th GCD).
+* Use damaging oGCDs inside tincture and raid buff windows. Most raid buffs will come out shortly before the 4th GCD).
 
 ![Standard Opener for Paladin](/img/jobs/pld/61-fullfof.png)
 
@@ -77,9 +77,9 @@ Following Blade of Valor, the Paladin rotation enters into a loop with three pha
 \
 Full size: [Paladin Rotation Loop](https://xiv.sleepyshiba.com/pld/img/loop.png)
 
-During the filler phase, only two out of three Atonements are used because the natural rotation is approximately 64 seconds long. Dropping a GCD minimizes the natural drift on the 60-second cooldown Fight or Flight and Requiescat and is the best option in a vacuum.
+During the filler phase, only two out of three Atonements are used because the natural rotation is approximately 64 seconds long. Dropping a GCD minimizes the natural drift on the 60-second cooldown Fight or Flight, and Requiescat and is the best option in a vacuum.
 
-Damaging oGCDs like Circle of Scorn and Expiacion should be used on cooldown, ideally with two charges of Intervene being pooled for Fight or Flight. Requiescat can be used any time after the fourth Fight or Flight GCD for the buff to last until Confiteor.
+Damaging oGCDs like Circle of Scorn and Expiacion should be used on cooldown, ideally with two charges of Intervene being pooled for Fight or Flight. Requiescat can be used any time after the 4th Fight or Flight GCD for the buff to last until Confiteor.
 
 ### Using Fight or Flight
 
@@ -87,7 +87,7 @@ With a 25-second duration, at most common skill speeds, it is possible to fit 11
 
 ![](https://xiv.sleepyshiba.com/pld/assets/fofgcd.png)
 
-In order to fit all 11 GCDs in the buff window, Fight or Flight must be weaved late in the GCD timer. The approximate timing is two-thirds of the way into the GCD after Fast Blade, though the timing may vary depending on your latency and skill speed. As long as the buff icon is on your buff bar when your last GCD is cast, then it was buffed. The in-game battle log and floating damage text are inaccurate for determining whether the last GCD was buffed or not.
+In order to fit all 11 GCDs in the buff window, Fight or Flight must be weaved late in the GCD timer. The approximate timing is two-thirds of the way into the GCD after Fast Blade, though the timing may vary depending on your latency and Skill Speed. As long as the buff icon is on your buff bar when your last GCD is cast, then it was buffed. The in-game battle log and floating damage text are inaccurate for determining whether the last GCD was buffed or not.
 
 Each Fight or Flight window should also contain one Circle of Scorn and one Expiacion. Using them roughly on cooldown should naturally line them up with Fight or Flight. Intervene is ideally pooled for two uses during Fight or Flight, but should be used to keep melee uptime if needed.
 
@@ -111,7 +111,7 @@ Passage of Arms applies a buff to all party members behind you, granting them a 
 
 ![Intervention](https://xiv.sleepyshiba.com/pld/assets/skill-intervention.png)
 
-Intervention gives your target a buff reducing damage taken, as well as providing a small regen effect. The damage reduction buff can be buffed by having either Rampart or Sentinel active when casting Intervention.
+Intervention gives your target a buff that reduces damage taken, as well as provides a small regen effect. The damage reduction buff can be buffed by having either Rampart or Sentinel active when casting Intervention.
 
 ![Reprisal](https://xiv.sleepyshiba.com/pld/assets/skill-reprisal.png)
 
@@ -127,15 +127,15 @@ Use your other defensive cooldowns to reduce incoming damage and make life easie
 ![Clemency](https://xiv.sleepyshiba.com/pld/assets/skill-clemency.png)
 ![Cover](https://xiv.sleepyshiba.com/pld/assets/skill-cover.png)
 
-These skills are very niche and infrequently used but have their time and place to shine. Clemency is a *significant* DPS loss but enables soloing dungeon bosses when the healer is dead or saving runs when progging raids and trials. Cover can be used in niche optimization strategies or for saving a party member from otherwise-lethal damage. Covered damage ignores Hallowed Ground.
+These skills are very niche and infrequently used but have their time and place to shine. Clemency is a *significant* DPS loss but enables soloing dungeon bosses when the healer is dead, or saving runs when progging raids and trials. Cover can be used in niche optimization strategies or for saving a party member from otherwise lethal damage. Covered damage ignores Hallowed Ground.
 
 - - -
 
 ## Helpful Macros
 
-Co-tank macros assume your co-tank is in party slot two (default party sorting)
+Co-tank macros assume your co-tank is in party slot two (default party sorting).
 
-**Intervention on Co-tank**  
+**Intervention on Co-Tank**  
 
 ```
 /merror off 
@@ -201,7 +201,7 @@ FFXIV macros do not queue, so hitting a macro while in animation lock from anoth
 **Mouseover? `<2>`?**\
 `<mo>` will attempt to target whatever your mouse cursor is currently hovering over when that macro line is reached, whether it be their physical model or a name on your party list.
 
-`<2>` targets the second player on your party list, which is the other tank by default in 8-man content.
+`<2>` targets the second player on your party list, which is the other tank by default in eight-person content.
 
 - - -
 
@@ -215,7 +215,7 @@ For fight-specific optimizations, see the Encounter Optimization Guide (Coming S
 
 Before obtaining best-in-slot gear, pick gear and meld according to stat priority on each piece of gear. Best-in-slot sets can be found [in the Balance Discord](https://discord.com/channels/277897135515762698/580300460179718146/847963997952016394) or [the Best in Slot page on this website](/jobs/tanks/paladin/best-in-slot/).
 
-Because of stat tiering, the [Tank Gear Calculator](https://bit.ly/XIV-TANKDPSCALC-EW) gets the last word on any specific gearing questions.
+Because of stat tiering, the [Tank Gear Calculator](https://bit.ly/XIV-TANKDPSCALC-EW) gets the last word on any specific gearing question.
 
 **Highest Priority**
 
@@ -262,6 +262,6 @@ Because of stat tiering, the [Tank Gear Calculator](https://bit.ly/XIV-TANKDPSCA
 
 The Paladin rotation is functional at almost all skill speeds. The only requirement is a minimum level of skill speed in order to get 11 GCDs in Fight or Flight, which is possible at virtually any recast speed faster than 2.50 (more reasonably, anything less than 2.47). Common GCD speeds lie anywhere between 2.40 and 2.45.
 
-Outside of high-end optimization, choice of skill speed has little impact on the Paladin rotation, and can be chosen for comfort (faster speeds are more forgiving and latency-friendly for fitting 11 GCDs into FoF).
+Outside of high-end optimization, choice of skill speed has little impact on the Paladin rotation, and can be chosen for comfort (faster speeds are more forgiving and latency-friendly for fitting 11 GCDs into Fight or Flight).
 
 In optimization, each encounter must be considered separately to determine how many GCDs are gained or lost by different skill speeds, as well as to line up the GCD with any melee disengages. In general, the slowest speed that doesn't lose any major GCDs within a phase will be the strongest choice.
