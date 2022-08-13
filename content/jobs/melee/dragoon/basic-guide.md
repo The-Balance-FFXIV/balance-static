@@ -21,7 +21,7 @@ changelog:
 
 ## Overview
 
-Dragoon is a relatively static melee DPS job with a high focus on weaving off-GCD actions in-between a rigid 10-hit sequence of GCD actions. Burst windows can get hectic, and prioritizing the various skills you need to execute can become a rather significant hassle in some instances. Endwalker has doubled down on this by introducing the ability to utilize yet more off-GCD actions at regular intervals, as if we didn’t have enough already.
+Dragoon is a relatively static melee DPS job with a high focus on weaving off-Global Cooldown (oGCD) actions between a rigid 10-hit sequence of Global Cooldown (GCD) actions. Burst windows can get hectic, and prioritizing the various skills you need to execute can become a rather significant hassle in some instances. Endwalker has doubled down on this by introducing the ability to utilize even more oGCD actions at regular intervals, as if we didn’t have enough already.
 
 - - -
 
@@ -50,7 +50,7 @@ To be added!
 
 # Weaponskills
 
-Also known as your Global Cooldown (GCD) actions, weaponskills form the backbone upon which you weave the meat of your rotation - your Abilities (off-GCD actions). These skills are strung together in specific orders to form combos, which amplify their effects.
+Also known as your GCD actions, weaponskills form the backbone upon which you weave the meat of your rotation - your abilities (oGCD actions). These skills are strung together in specific orders to form combos which amplify the skill effects.
 
 ## The Chaotic Spring Combo
 
@@ -59,7 +59,7 @@ Also known as your Global Cooldown (GCD) actions, weaponskills form the backbone
 | ![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/002000/002596_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) |
 
 &nbsp;\
-This combo allows Disembowel to apply the Power Surge buff, amplifying your damage by 10% and Chaotic Spring to inflict a damage-over-time effect that will keep constant damage rolling, even outside of your normal attacking skills.
+This combo allows Disembowel to apply the Power Surge buff, amplifying your damage by 10% and Chaotic Spring to inflict a damage-over-time (DoT) effect that will keep constant damage rolling, even outside of your normal attacking skills.
 
 ## The Heavens' Thrust Combo
 
@@ -68,7 +68,7 @@ This combo allows Disembowel to apply the Power Surge buff, amplifying your dama
 | ![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/002000/002595_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
 
 &nbsp;\
-This combo just deals raw damage, with your highest individual Weaponskill potency of Heavens’ Thrust’s 480. As it doesn’t apply any buffs, you want to make sure you only use this while Power Surge and Chaotic Spring are active already.
+This combo just deals raw damage, with your highest individual weaponskill potency of Heavens’ Thrust’s 480. As it doesn’t apply any buffs, you want to make sure you only use this while Power Surge and Chaotic Spring are active already.
 
 #### The Coerthan Torment Combo
 
@@ -77,11 +77,11 @@ This combo just deals raw damage, with your highest individual Weaponskill poten
 | ![](https://xivapi.com/i/000000/000306_hr1.png) | ![](https://xivapi.com/i/002000/002586_hr1.png) | ![](https://xivapi.com/i/002000/002590_hr1.png) |
 
 &nbsp;\
-This combo affects a line of enemies in front of you. It allows Sonic Thrust to apply the Power Surge buff, amplifying your damage by 10%. This combo is only worth using when you are faced with 3 or more enemies in combat that all can be hit by each skill.
+This combo affects a line of enemies in front of you. It allows Sonic Thrust to apply the Power Surge buff, amplifying your damage by 10%. This combo is only worth using when you are faced with three or more enemies in combat that can all be hit by each skill.
 
 #### Draconian Fire
 
-Upon properly completing any of the above combos, you will gain the buff Draconian Fire. This buff augments the next True Thrust or Doom Spike you do into Raiden Thrust or Draconian Fury, respectively. These Weaponskills combo the exact same as their unbuffed versions. They also give you 1 charge of Firstminds’ Focus, which is discussed in more detail later.
+Upon properly completing any of the above combos, you will gain the buff Draconian Fire. This buff augments the next True Thrust or Doom Spike you use into Raiden Thrust or Draconian Fury, respectively. These weaponskills combo the exact same as their unbuffed versions. They also give you one charge of Firstminds’ Focus, which is discussed in more detail later.
 
 | **True Thrust >**                               | **Raiden Thrust >**                             |
 | ----------------------------------------------- | ----------------------------------------------- |
@@ -97,29 +97,29 @@ Upon properly completing any of the above combos, you will gain the buff Draconi
 
 #### Piercing Talon
 
-While you always want to maintain your uptime on the above combos as much as possible, occasionally an encounter may push you off for an extended period of time. Rather than doing nothing, you can utilize Piercing Talon. It doesn’t break *any* of the above combos, nor does it negate your Draconian Fire. This is only worth doing if you would be unable to re-engage before your GCD spin completes.
+While you always want to maintain your uptime on the above combos as much as possible, occasionally an encounter may push you off for an extended period of time. Rather than doing nothing, you can utilize Piercing Talon. It doesn’t break *any* of the above combos or negates your Draconian Fire. This is only worth doing if you would be unable to re-engage before your GCD spin completes.
 
 ![](https://xivapi.com/i/000000/000315_hr1.png)
 
 ## Basic Rotation
 
-| <div style="width:100px">**Raiden Thrust >**</div>                             | <div style="width:100px">**Disembowel >**</div>                                | <div style="width:100px">**Chaotic Spring >**</div>                            | <div style="width:100px">**Wheeling Thrust >**</div>                           | <div style="width:100px">**Fang and Claw >**</div>                             | <div style="width:100px">**Raiden Thrust >**</div>                             | <div style="width:100px">**Vorpal Thrust >**</div>                             | <div style="width:100px">**Heavens' Thrust >**</div>                           | <div style="width:100px">**Fang and Claw >**</div>                             | <div style="width:100px">**Wheeling Thrust >**</div>                             |
-| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/002000/002596_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/002000/002595_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
+| <div style="width:100px">**Raiden Thrust >**</div> | <div style="width:100px">**Disembowel >**</div> | <div style="width:100px">**Chaotic Spring >**</div> | <div style="width:100px">**Wheeling Thrust >**</div> | <div style="width:100px">**Fang and Claw >**</div> | <div style="width:100px">**Raiden Thrust >**</div> | <div style="width:100px">**Vorpal Thrust >**</div> | <div style="width:100px">**Heavens' Thrust >**</div> | <div style="width:100px">**Fang and Claw >**</div> | <div style="width:100px">**Wheeling Thrust >**</div> |
+| -------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------- |
+| ![](https://xivapi.com/i/002000/002592_hr1.png)    | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/002000/002596_hr1.png)     | ![](https://xivapi.com/i/002000/002584_hr1.png)      | ![](https://xivapi.com/i/002000/002582_hr1.png)    | ![](https://xivapi.com/i/002000/002592_hr1.png)    | ![](https://xivapi.com/i/000000/000312_hr1.png)    | ![](https://xivapi.com/i/002000/002595_hr1.png)      | ![](https://xivapi.com/i/002000/002582_hr1.png)    | ![](https://xivapi.com/i/002000/002584_hr1.png)      |
 
 &nbsp;\
-Putting the above information to work, we see that, barring unforeseen circumstances, in a single-target encounter, our rotation will simply be the Chaotic Spring Combo followed by the Heavens’ Thrust Combo. We repeat this infinitely, assuming nothing interrupts our rotation.
+Putting the above information to work, in a single-target encounter, our rotation will simply be the Chaotic Spring Combo followed by the Heavens’ Thrust Combo. We repeat this infinitely, assuming nothing interrupts our rotation.
 
 #### Mistakes
 
-Everyone makes them. If, in attempting to follow this rotation to the best of your ability, you make a mistake and press the wrong second hit, **commit to the mistake**. Restarting the combo is a larger loss than just continuing the incorrect combo string. After the mistaken combo, just return to the alternating rotation. Do not attempt to course-correct back into the old order.
+Everyone makes them. In attempting to follow this rotation to the best of your ability, if you make a mistake and press the wrong second hit, **commit to the mistake**. Restarting the combo is a larger loss than just continuing the incorrect combo string. After the mistaken combo, just return to the alternating rotation. Do not attempt to course-correct back into the old order.
 
 - - -
 
 #### Wyrmwind Thrust
 
-Every time you land Raiden Thrust or Draconian Fury, you gain 1 charge of your Firstminds’ Focus. Two charges of this allows you to activate Wyrmwind Thrust. Because we don’t start fights with Draconian Fire, the first charge comes during the Heavens’ Thrust combo and the second during the following Chaotic Spring combo. From there, you will always be using Wyrmwind Thrust during your
- Chaotic Spring combo, barring any rotational errors you encounter along the way, due to user error or forced downtime. You **must** press Wyrmwind Thrust **before** your next Raiden Thrust or Draconian Fury, when it is ready to be used, otherwise you will **not** gain the charge of Firstminds’ Focus, leading to a drastic loss in damage.
+Every time you land Raiden Thrust or Draconian Fury, you gain one charge of your Firstminds’ Focus. Two charges allows you to activate Wyrmwind Thrust. Because we don’t start fights with Draconian Fire, the first charge comes during the Heavens’ Thrust combo and the second during the following Chaotic Spring combo. From there, you will always be using Wyrmwind Thrust during your
+ Chaotic Spring combo, barring any rotational errors you encounter along the way. When it's ready to to be used, you **must** press Wyrmwind Thrust **before** your next Raiden Thrust or Draconian Fury, otherwise you will **not** gain the charge of Firstminds’ Focus, leading to a drastic loss in damage.
 
 ![](https://xivapi.com/i/002000/002597_hr1.png)
 
@@ -127,7 +127,7 @@ Every time you land Raiden Thrust or Draconian Fury, you gain 1 charge of your F
 
 # Positionals
 
-Some actions in the kit deal more damage from the **side** of a boss, and some deal more from the **rear**. You want to be sure to set up to hit these for extra damage whenever possible.
+Some actions in the kit deal more damage from the **side** of a boss and some deal more from the **rear**. You want to be sure to position yourself to hit these for extra damage whenever possible.
 
 #### How do I know if I'm at the **side** or **rear** of a target?
 
@@ -135,13 +135,13 @@ Some actions in the kit deal more damage from the **side** of a boss, and some d
 
 The arrow at the top is the **front** of the target. You get no special bonuses by attacking here, other than lots of bonus deaths for standing in tank busters and cleaves.
 
-On the left and right, you will find the **sides** or **flanks** of the target. They account for 90° of the target on either side, but you will generally want to stand near the base of the visible line.
+On the left and right sides, you will find the **sides** or **flanks** of the target. They account for 90° of the target on either side, but you will generally want to stand near the base of the visible line.
 
-At the bottom of the image, there’s a gap between the two **sides** of the target. This empty space is the **rear**. When standing at the base of one **side**, it becomes easy to decipher between the two positions - you either attack the empty space, or the line.
+At the bottom of the image, there’s a gap between the two **sides** of the target. This empty space is the **rear**. When standing at the base of one **side**, it becomes easy to identify the two positions; you either attack the empty space or the line.
 
-Some enemies will have the **side** mark wrapping their entire hitbox, with no arrow to indicate a **front**. These target rings are special, in that you will get positional bonuses from every action without needing to worry about where you attack from. All the enemies in the Palace of the Dead, for example, have this special targeting ring.
+Some enemies will have the **side** mark wrapping their entire hitbox with no arrow to indicate a **front**. These target rings are special because you will get positional bonuses from every action without needing to worry about where you attack from. All the enemies in the Palace of the Dead, for example, have this special targeting ring.
 
-As a Dragoon, we only have Positional requirements on three of our actions. Each of them provides an additional 40 potency when they hit the proper side of the target. Important to note is that we occasionally use Life Surge on the fifth hit of our Chaotic Spring and Heavens’ Thrust combos, but only if we manage to land the positional on it. True North is particularly useful in these situations, to guarantee success.
+As a Dragoon, we only have positional requirements on three of our actions. Each of them provides an additional 40 potency when they hit the proper side of the target. Important to note is that we occasionally use Life Surge on the fifth hit of our Chaotic Spring and Heavens’ Thrust combos, but only if we manage to land the positional on it. True North is particularly useful in these situations to guarantee success.
 
 #### Side Positionals
 
@@ -163,14 +163,14 @@ As a Dragoon, we only have Positional requirements on three of our actions. Each
 
 #### Combat Priority
 
-While it is a loss to miss your Positionals, landing them should be your last priority, after you have met all of the other combat priority requirements of a melee DPS job. These are listed in order from largest to smallest loss of damage if you fail that level.
+While it is a loss to miss your positionals, landing them should be your last priority. Prioritize meeting all of the other combat priority requirements of a melee DPS job. These are listed in order from largest to smallest loss of damage if you fail that level.
 
 **1. Handle Mechanics**\
    If you fail mechanics, you could cause a potential raid wipe and a fight reset. You do not want to be the cause of that. Nothing is more important than properly handling mechanics.\
 **2. Stay Alive**\
-   Don’t die. Plain and simple. If you have to sacrifice uptime to not die, you know the choice to make. Deaths cause much larger losses than having to use a few Piercing Talons.\
+   Don’t die. Plain and simple. If you have to sacrifice uptime to stay alive then you know the choice to make. Deaths cause much larger losses than having to use a few Piercing Talons.\
 **3. Maintain Uptime (ABC - Always Be Casting)**\
-   Stick to the boss like glue, assuming you meet one and two. Don’t let your GCD stop spinning.\
+   Stick to the boss like glue, assuming you meet one and two. Do not let your GCD stop spinning.\
 **4. Land Positionals**\
    And then, once you have one through three down, worry about maintaining proper positionals.
 
@@ -178,7 +178,7 @@ While it is a loss to miss your Positionals, landing them should be your last pr
 
 # Abilities
 
-Also more commonly known as your off-Global Cooldown (oGCD) skills, these are the most important part of your rotational parity as a Dragoon. Once you have your GCD skeleton laid out, you overlay the oGCD rotation on top of it to form the full rotation.
+Also more commonly known as your oGCD skills, these are the most important part of your rotational parity as a Dragoon. Once you have your GCD skeleton laid out, you overlay the oGCD rotation on top of it to form the full rotation.
 
 ## Buffs
 
@@ -365,10 +365,9 @@ When you have more than one target to attack, your backbone GCD rotation changes
 
 When up against two targets, you drop the Heavens’ Thrust combo and just double down on the Chaotic Spring combo, alternating targets to maintain both damage-over-time effects.
 
-
-|       &nbsp;                                    |       &nbsp;                                          | Target One                                      |       &nbsp;                                          |       &nbsp;                                    |       &nbsp;                                          |       &nbsp;                                    | Target Two                                      |       &nbsp;                                    |       &nbsp;                          |
+| &nbsp;                                          | &nbsp;                                          | Target One                                      | &nbsp;                                          | &nbsp;                                          | &nbsp;                                          | &nbsp;                                          | Target Two                                      | &nbsp;                                          | &nbsp;                                          |
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/002000/002596_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/002000/002596_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png)     |
+| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/002000/002596_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/002000/002596_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) |
 
 &nbsp;\
 
