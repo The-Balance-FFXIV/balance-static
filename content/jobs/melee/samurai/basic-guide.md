@@ -37,7 +37,7 @@ In an eight-person instance such as an Extreme Primal or Savage Raid, all action
 
 ## Playstyle
 
-High similarity to Dragoon with simple GCD structure at a glance. However, SAM is a job that is capable of an extremely high skill ceiling due to the flexibility in its Kenki usage and Sen/GCD optimization. This is a job that emphasizes using the complete toolkit given the circumstances. Samurai manage two different resources to do heavy damage: Sen and Kenki.
+High similarity to Dragoon with simple Global Cooldown (GCD) structure at a glance. However, SAM is a job that is capable of an extremely high skill ceiling due to the flexibility in its Kenki usage and Sen/GCD optimization. This is a job that emphasizes using the complete toolkit given the circumstances. Samurai manage two different resources to do heavy damage: Sen and Kenki.
 
 Every time SAM completes a certain GCD combo, its corresponding Sen is collected. There are three types of Sen to collect:
 
@@ -45,7 +45,7 @@ Snow (Setsu) ![alt_text](https://lh6.googleusercontent.com/lW5486Um3Pv47vhQ8JbdZ
 
 The resulting Iaijutsu differs based on the number of Sen held, regardless of the combination. If you use a combo that normally grants you a Sen that you already have, it will not give you any extra Sen, making it wasted.
 
-Kenki is SAM’s second but extremely vital resource. All of SAM’s GCD skills (only Iaijutsu does not generate Kenki) and one oGCD generate a certain amount of Kenki. Kenki is then spent on Hissatsu moves, which are oGCD abilities with very short cooldowns (CDs) (except Guren/Senei).
+Kenki is SAM’s second but extremely vital resource. All of SAM’s GCD skills (only Iaijutsu does not generate Kenki) and one off-Global Cooldown (oGCD) generate a certain amount of Kenki. Kenki is then spent on Hissatsu moves, which are oGCD abilities with very short cooldowns (CDs) (except Guren/Senei).
 
 **Key points of dealing damage as a Samurai:**
 
@@ -84,17 +84,17 @@ Meikyo Shisui allows us to put our buffs up immediately, removing the long ramp-
 
 Due to the aforementioned Meikyo changes that allow us to apply buffs more quickly, we have shifted from applying Fuka (formerly Shifu) first to applying Fugetsu (formerly Jinpu) first. Since we can apply Fuka on the second GCD, we lose less from applying it second. However, we gain a large amount of potency from its application GCD (Kasha when under Meikyo) under Fugetsu.
 
-When we don’t have Meikyo, the first buff that is up is often Fuka, the haste buff. I am using “haste” in this document to shorten the full effect, which is “reduces Weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay”. This buff means that our GCD timer will be reduced (to a maximum of 2.18, assuming no skill speed on gear) and that auto-attacks will happen more often while it is up. Note that this *does not* affect the damage over time from Higanbana. However, it does rotate you through your combos quicker to acquire more Sen and Kenki and minimize the opportunity to drop your buffs.
+When we don’t have Meikyo, the first buff that is up is often Fuka, the haste buff. I am using “haste” in this document to shorten the full effect which is “reduces Weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay.” This buff means that our GCD timer will be reduced (to a maximum of 2.18, assuming no Skill Speed on gear) and that auto-attacks will happen more often while it is up. Note that this *does not* affect the damage over time from Higanbana. However, it does rotate you through your combos quicker to acquire more Sen and Kenki and minimize the opportunity to drop your buffs.
 
-Fugetsu is a 13% flat damage increase to all your abilities, including Higanbana’s damage over time portion. As such, you want to make sure that this buff is up every time you use Higanbana or Midare to take advantage of its enormous potency value, as Fuka doesn’t increase damage dealt. Coming from downtime with no buffs and three Sen up, you will want to prioritise Jinpu.
+Fugetsu is a 13% flat damage increase to all your abilities, including Higanbana’s damage over time (DoT) portion. As such, you want to make sure that this buff is up every time you use Higanbana or Midare to take advantage of its enormous potency value, as Fuka doesn’t increase damage dealt. Coming from downtime with no buffs and three Sen up, you will want to prioritize Jinpu.
 
-Lastly, Yukikaze would be the least significant combo out of the three in the opener, but one of the most significant throughout the fight. SAM’s opener relies on lining up the buffs and CDs to maximize damage with raid buffs, and Yukikaze offers no self-buff to Samurai. By starting Yukikaze, Samurai will end up not being able to have both Shifu or Jinpu up by the time raid buffs go out, as everything will be delayed by a combo. During the fight, Yukikaze is great to have as your only Sen up leading into downtime, as it allows you to get both buffs back up before using Midare. It can also be used to help as an alignment tool. 
+Lastly, Yukikaze would be the least significant combo out of the three in the opener, but one of the most significant throughout the fight. SAM’s opener relies on lining up the buffs and CDs to maximize damage with raid buffs, and Yukikaze offers no self-buff to Samurai. By starting Yukikaze, Samurai will end up not being able to have both Shifu or Jinpu up by the time raid buffs go out, as everything will be delayed by a combo. During the fight, Yukikaze is great to have as your only Sen up leading into downtime because it allows you to get both buffs back up before using Midare. It can also be used to help as an alignment tool. 
 
 **Tip:** <span style="text-decoration:underline;">Remember Iaijutsu does not break combo.</span> If you need to reapply Higanbana but Fugetsu is down and you’re already sitting on one Sen, you can do a Hakaze > Jinpu > Iaijutsu > Gekko and you will have the Fugetsu buff applied on your Higanbana without wasting the Sen on the combo.
 
 ## Honing the Blade: Kenki and Potency
 
-If the Sen system and Ogi Namikiri and its 800 potency is what catches people’s attention with its flash, then SAM’s Kenki system is what makes the engine run and deal out damage over the fight. Kenki generation is 100% predictable and tied to your GCDs, and in an ideal world you want to finish a fight with 0 Kenki. As such, you will generate and expend similar amounts of Kenki over the same duration. To understand how much Kenki is worth to your damage, it may be preferable to use Potency/Kenki, and use your most common Kenki skill (Shinten) as a baseline.
+If the Sen system and Ogi Namikiri and its 800 potency is what catches people’s attention with its flash, then SAM’s Kenki system is what makes the engine run and deal out damage over the fight. Kenki generation is 100% predictable and tied to your GCDs, and in an ideal world you want to finish a fight with 0 Kenki. As such, you will generate and expend similar amounts of Kenki over the same duration. To understand how much Kenki is worth to your damage, it may be preferable to use potency/Kenki and use your most common Kenki skill (Shinten) as a baseline.
 
 |                    |                  |                                              |
 | ------------------ | ---------------- | -------------------------------------------- |
@@ -107,10 +107,10 @@ If the Sen system and Ogi Namikiri and its 800 potency is what catches people’
 
 From the numbers above, a few conclusions can be drawn:
 
-* Guren and Senei are extremely powerful oGCDs and carry a very high potency/kenki. Just the sheer potency number makes you want to use this ASAP on an opener. Guren is a gain starting on three targets.
+* Guren and Senei are extremely powerful oGCDs and carry a very high potency/Kenki. Just the sheer potency number makes you want to use this ASAP on an opener. Guren is a gain starting on three targets.
 * Senei gives you the biggest bang for your buck.
 * Gyoten and Yaten are worth the same as Shinten, allowing you to use them to manipulate Kenki before buff windows or dump more during buff windows.
-* Kyuten outperforms Shinten at 3 mobs and above.
+* Kyuten outperforms Shinten at three mobs and above.
 
 In addition, it means that **<span style="text-decoration:underline;">each time you successfully use Third Eye you have effectively gained 100 potency.</span>** This potency can add up very quickly by the end of an encounter, so always try to press Third Eye when you know there is incoming damage.
 
@@ -120,7 +120,7 @@ In addition, it means that **<span style="text-decoration:underline;">each time 
 
 That is the question. Most of the time, the answer can be summed up as: Do not if you can just run.
 
-A common mistake that I have seen from many Samurai is that they happily use Yaten - Enpi - Gyoten combo to get out of an AOE and dash back in immediately. However, that method will push our GCDs back by one, and it is an inefficient use of GCD if you could have simply moved out of an AOE between GCD.
+A common mistake that I have seen from many Samurai is that they happily use Yaten - Enpi - Gyoten combo to get out of an AoE and then dash back in immediately. However, that method will push our GCDs back by one, and it is an inefficient use of GCD if you could have simply moved out of an AoE between GCDs.
 
 So what are the values of Gyoten/Yaten/Enpi?
 
@@ -140,13 +140,13 @@ With the changes to Meikyo Shisui and combo enders (Gekko/Kasha) in 6.0, its rol
 
 The goal of Meikyo is to manipulate your Sen so you can apply your buffs as quickly as possible and maximize Iaijutsu usage. For example, in the opener we use Meikyo to quickly apply both of our buffs, get all three Sen, and open with a fully buffed Midare in raid buffs. We also use Meikyo in every 60s burst window to manipulate our Sen and quickly perform a buffed Higanbana right on time. While leveling or in dungeon content, it can also be used to quickly perform Tenka Goken for AoE purposes.
 
-**Tip:** Iaijutsu doesn’t count as one of the three Weaponskills on Meikyo, so you can use it between the three to put up Higanbana with ease. For example: Meikyo starts > Kasha > Higanbana > Kasha > Gekko (Meikyo ends).
+**Tip:** Iaijutsu does not count as one of the three Weaponskills on Meikyo, so you can use it between the three to put up Higanbana with ease. For example: Meikyo starts > Kasha > Higanbana > Kasha > Gekko (Meikyo ends).
 
 In relation to the order of the Sen, it is important to note *which* finishers to use if you are planning to come out of the Meikyo with one or two Sen. You need to look at the remaining duration of the buffs you have and keep track of the order of the buffs that need to be refreshed. The reason being that the first combo you do after a Meikyo will likely be the buff that needs to be refreshed or has the shortest duration; therefore, you will reapply the buff and its Sen immediately after and then followed by the next. As such, if you are ending a Meikyo with one or two Sen, use the Sen with the longest buff duration last in Meikyo.
 
 **For example:** If you just performed a Gekko combo and have a ![alt_text](https://lh3.googleusercontent.com/vh7p32RLojf1eVxekvJgdXj61Q4h4w8FTI0f7K-8QtGKUQRpqBsgIPqjGvTIp8jl1EQEHtDCan8xoegKxMtxnHN94Ti4koHcV69g5liT5ExglUdUoxa7vkyRQF0bock5ZcTtnFzH=s0 "Getsu") Sen and Higanbana need to be refreshed in four GCDs, but you cannot wait. 
 
-With Meikyo it is possible for you to go the following sequence: 
+With Meikyo, it is possible for you to go the following sequence: 
 
 ![alt_text](https://xivapi.com/i/003000/003167_hr1.png "Meikyo Shisui") **\->** ![alt_text](https://xivapi.com/i/003000/003166_hr1.png "Yukikaze") **\->**
 ![alt_text](https://xivapi.com/i/003000/003164_hr1.png "Kasha") **\->**
@@ -164,7 +164,7 @@ Now, how to use Meikyo to increase your damage? Consider Meikyo as a GCD saver a
 
 Hagakure is an oGCD ability re-added to the game in patch 5.05 as a shadow of its former self. Originally a cornerstone of a Samurai’s rotation and toolkit in Stormblood, this ability now allows you to trade all of your Sen in for 10 Kenki each on a five-second cooldown. 
 
-The intended purpose for the reintroduction of Hagakure from SE seemed to be from the outcry of players who were upset that in dungeons they would sometimes have leftover Sen and Hagakure would allow them to “wipe clean” this gauge in order to enter a dungeon boss without having to overcap existing Sen while re-applying buffs. In a raid setting, however, Hagakure serves a similar purpose: it wipes away the Sen we build while filling time to keep rotational alignment. Please refer to the section on looping to learn more.
+The intended purpose for the reintroduction of Hagakure from Square Enix seemed to be from the outcry of players who were upset that in dungeons they would sometimes have leftover Sen, and Hagakure would allow them to “wipe clean” this gauge in order to enter a dungeon boss without having to overcap existing Sen while re-applying buffs. In a raid setting, however, Hagakure serves a similar purpose: it wipes away the Sen we build while filling time to keep rotational alignment. Please refer to the section on looping to learn more.
 
 ## Higanbana Timing
 
@@ -222,9 +222,7 @@ List of filler:
 Rule of thumb: Always AoE when there are three or more enemies. When AoEing groups of enemies as a SAM, you will want to put your buffs up with Meikyo Shisui and Mangetsu/Oka and then follow the below basic rotation:
 
 ![alt_text](https://xivapi.com/i/003000/003189_hr1.png "Fuko") **\->** ![alt_text](https://xivapi.com/i/003000/003165_hr1.png "Oka") **\->** ![alt_text](https://xivapi.com/i/003000/003189_hr1.png "Fuko") **\->** ![alt_text](https://xivapi.com/i/003000/003163_hr1.png "Mangetsu") **\->** ![](https://xivapi.com/i/003000/003161_hr1.png)
-![]()
-
-[//]: # (Note to the editor: I don't know why this blank image embed is necessary, but if it is deleted, the previous line of images will not render. I don't know if it's an error in the WYSIWYG editor or what. Sorry. This is a comment btw.)
+![](<>)
 
 The strength of SAM’s AOE rotation lies in the fact that both two-GCD AoE combos generate a different Sen each, allowing you to easily flow into a Tenka Goken. They also will naturally upkeep your buff timers, so you will not have to awkwardly switch back and forth from AoE to single target.. Their strongest Hissatsu move, Guren, is an extremely potent AoE as well and it is worth saving Guren for adds or AoE as long as you are not holding onto it for longer than its cooldown. Once you reach three targets or more, excess Kenki should be spent on Kyuten instead of Shinten.
 
