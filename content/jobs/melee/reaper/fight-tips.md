@@ -267,11 +267,11 @@ This Phase is a standard 100% melee uptime fight so there is nothing special abo
 
 ### Notes for this Re-Opener:
 
-If we are combo neutral we start with an Enshroud so we can get rid of our gauges without overcapping on anything. After the Enshroud we should use Gluttony to keep it on cooldown. Use Soul Slice as soon as possible without overcapping on Soul gauge or it will overcap on charges. We will be able to use another Enshroud right afterward from all the Shroud gauge we get from the five Gibbet/Gallows we hit. Use this Enshroud and save the one afterward for the burst window.
+If we are combo neutral, we start with an Enshroud so we can get rid of our gauges without overcapping anything. After the Enshroud we should use Gluttony to keep it on cooldown. Use Soul Slice as soon as possible without overcapping on Soul gauge or it will overcap on charges. We will be able to use another Enshroud right afterward from all the Shroud gauge we get from the five Gibbet/Gallows we hit. Use this Enshroud and save the one afterward for the burst window.
 
 ### Double Shroud Window:
 
-Before I go into this, depending on the kill time for Thordan, when your group uses their raid buffs and if you're combo neutral you can go for two different burst windows: the single Shadow of Death double Enshroud variant if you're in a combo or the normal double Enshroud window if you're combo neutral.
+Before I go into this, depending on the kill time for Thordan, when your group uses their raid buffs and if you're combo neutral, you can go for two different burst windows: the single Shadow of Death double Enshroud variant if you are in a combo or the normal double Enshroud window if you are combo neutral.
 
 ### Burst with Single Shadow of Death double Shroud variant:
 
@@ -302,23 +302,23 @@ Before I go into this, depending on the kill time for Thordan, when your group u
 * The Re-Opener after bursting on Phase Two is nothing special. Just hold Gluttony on cooldown.
 * If your group is not placing the **Second in Line** towers in max melee range, use Harvest moon for that instead. Otherwise use it if you are baiting the **Geirskogul** from the **Second in Line** tower.
 * If you're consistently entering your double Shroud Window after using Slice, you can use Harvest Moon somewhere before to enter your burst combo neutral and go for a normal double Shroud window.
-* Try to end this Phase with zero Soul Slice charges
+* Try to end this Phase with zero Soul Slice charges.
 
 ### Feint and Arcane Crest examples:
 
 * Feint either the first or second **Eye of the Tyrant**. Feinting the tankbuster tethers later might also be a good idea if your tanks need more mitigation there.
-* Use Arcane Crest for any of the **Final Chorus**, any of the **Eye of the Tyrant** and **Darkdragon Dive's**
+* Use Arcane Crest for any of the **Final Chorus**, any of the **Eye of the Tyrant** and **Darkdragon Dive's.**
 
 # Phase Four: The Eyes
 
-This is again a Phase with two targets. This Phase is pretty simple rotation wise. We won't have any AoEs to hit both targets as they are too far away from each other. Our only Skill which would hit both would be Plentiful Harvest but using raid buffs in this Phase will not be a gain as they will probably die or enrage before you can get off your burst. So we will hold Arcane Circle for the Intermission afterwards.
+This is again a Phase with two targets. This Phase is pretty simple rotation wise. We will not have any AoEs to hit both targets as they are too far away from each other. Our only Skill which would hit both would be Plentiful Harvest, but using raid buffs in this Phase will not be a gain as they will probably die or enrage before you can get your burst off. We will hold Arcane Circle for the Intermission afterwards.
 
 ### Notes for the Phase:
 
 * If you entered the Phase with an ongoing combo, continue it after Shadow of Death or it will probably expire.
-* Use Gluttony on cooldown. If you have a slower kill time, around 97-99 of the duty bar, you can use Gluttony twice in this Phase. If you end the Phase with Soul Reaver, save it for the Intermission and don't cast Soulsow
-* If you have problems hitting the second Gluttony in this Phase due to the eyes dying too fast, try to enter the Phase with > 50 Soul gauge and instantly use Gluttony while still in the group stack and then do g/g. These will be unbuffed by Shadow of Death but it will still be a gain over losing the Gluttony.
-* The Re-Opener is more comfier with no Soul Slice charges but it's not a problem if you enter with one. Best case you use it before Nidhogg dies and you enter with >50 Soul for Gluttony at the start
+* Use Gluttony on cooldown. If you have a slower kill time, around 97-99 of the duty bar, you can use Gluttony twice in this Phase. If you end the Phase with Soul Reaver, save it for the Intermission and don't cast Soulsow.
+* If you have problems hitting the second Gluttony in this Phase due to the eyes dying too fast, try to enter the Phase with >50 Soul gauge and instantly use Gluttony while still in the group stack and then do g/g. These will be unbuffed by Shadow of Death but it will still be a gain over losing the Gluttony.
+* The Re-Opener is more comfier with no Soul Slice charges but it is not a problem if you enter with one. Best case, you use it before Nidhogg dies and you enter with >50 Soul for Gluttony at the start.
 * You can use one Enshroud anytime in this Phase. Save the second one you get for the Intermission. 
 * You can use Harvest Moon for when you have to go out of melee range to swap your tether out at the beginning.
 
@@ -329,14 +329,14 @@ This is again a Phase with two targets. This Phase is pretty simple rotation wis
 
 # The Intermission
 
-The Intermission works pretty much the same as in Phase One. You just have to burst Ser Charibert to ~20% to not die to his raidwide and then destroy the Spear before it ends its cast. Try to enter this Phase combo neutral and with zero Soul Slice charges. There is a chance that you can hit an additional GCD while you're getting pulled inside the circle by Ser Charibert thanks to the Auto-target Setting.
+The Intermission works pretty much the same as in Phase One. You just have to burst Ser Charibert to ~20% to not die to his raid-wide, and then destroy the Spear before it ends its cast. Try to enter this Phase combo neutral and with zero Soul Slice charges. There is a chance that you can hit an additional GCD while you are getting pulled inside the circle by Ser Charibert thanks to the auto-target setting.
 
 ### Re-Opener: double Shroud
 
 [![Intermission](https://i.im.ge/2022/08/04/F3w3e6.Intermission.png)](https://im.ge/i/F3w3e6)
 
 * Cast Soulsow
-* Enshroud before Ser Charibert becomes targetable, if you're combo neutral and with zero Soul Slice charges
+* Enshroud before Ser Charibert becomes targetable, if you are combo neutral and with zero Soul Slice charges
 * Shadow of Death
 * Void Reaping
 * Cross Reaping
@@ -359,7 +359,7 @@ The Intermission works pretty much the same as in Phase One. You just have to bu
 
 **About Gluttony:**
 
-* If you enter this Intermission with Gluttony off cooldown, use it before you're doing your double Shroud window.
+* If you enter this Intermission with Gluttony off cooldown, use it before you are doing your double Shroud window.
 
 **If you're not combo neutral:**
 
@@ -367,7 +367,7 @@ The Intermission works pretty much the same as in Phase One. You just have to bu
 
 **About Soul Slice:**
 
-* I would advise trying to enter this Intermission with zero Soul Slice charges as it would overcap during the burst. Otherwise use Soul Slice before you're getting pulled by Ser Charibert. If you can't get that one out, use Soul Slice after Shadow of Death.
+* I would advise trying to enter this Intermission with zero Soul Slice charges as it would overcap during the burst. Otherwise use Soul Slice before you're getting pulled by Ser Charibert. If you cannot get that one out, use Soul Slice after Shadow of Death.
 
 **Where to use Harvest Moon:**
 
@@ -385,10 +385,10 @@ Phase Five is the other heavy downtime Phase in this encounter. You should enter
 
 ### Re-Opener: before Wrath of the Heavens
 
-As your kill times on the earlier phases decides how you enter this Phase, I will again give some tips on what to keep track off before Thordan jumps away. If you enter this Phase with 80 Shroud gauge, use an Enshroud before **Wrath of the Heavens** as you would overcap on gauges. Otherwise save the Enshroud and be careful not to overcap on your Shroud gauge.
+As your kill times on the earlier phases decide how you enter this Phase, I will again give some tips on what to keep track off before Thordan jumps away. If you enter this Phase with 80 Shroud gauge, use an Enshroud before **Wrath of the Heavens** as you would overcap on gauges. Otherwise, save the Enshroud and be careful not to overcap on your Shroud gauge.
 
 * Start with Shadow of Death as your first GCD and use it anywhere again before he becomes untargetable. Thordan will become targetable again with about five seconds on Death's Design.
-* Use Gluttony as soon as it comes off cooldown. This will probably be about two GCD's before Thordan jumps away for **Wrath of the Heavens** but you should be able to hit both Gibbet/Gallows after. If you end this with one or more Soul Reaver Stacks, don't cast Soulsow but use the Gibbet/Gallows after **Wrath of the Heavens** instead.
+* Use Gluttony as soon as it comes off cooldown. This will probably be about two GCDs before Thordan jumps away for **Wrath of the Heavens,** but you should be able to hit both Gibbet/Gallows after. If you end this with one or more Soul Reaver Stacks, do not cast Soulsow and instead use the Gibbet/Gallows after **Wrath of the Heavens**.
 * Try to enter **Wrath of the Heavens** with zero Soul Slice charges.
 * Use Harvest Moon anywhere here and recast Soulsow during **Wrath of the Heavens**.
 * Use Enshroud if you entered with about 50 Soul gauge and 70 Shroud gauge.
@@ -420,14 +420,14 @@ As your kill times on the earlier phases decides how you enter this Phase, I wil
 ### Notes for this Re-Opener:
 
 * If you enter **Wrath of the Heavens** with a Soul Slice charge, use it before Enshrouding.
-* If you enter **Wrath of the Heavens** with Gluttony ready, use it before your first Enshroud window but you probably already lost one use over the fight.
+* If you enter **Wrath of the Heavens** with Gluttony ready, use it before your first Enshroud window, but you probably already lost one use over the fight.
 * Here again, try to end with zero Soul Slice charges.
-* If you get Gluttony right before Thordan jumps away use it even if you can only hit one Gibbet/Gallows. Otherwise you will lose a use over the fight.
+* If you get Gluttony right before Thordan jumps away, use it even if you can only hit one Gibbet/Gallows, otherwise you will lose a use over the fight.
 
 ### Tips for the Meteors after Death of the Heavens
 
-* Use Shadow of Death on your initial meteor. For the rest just hit them without Death's Design.
-* I would suggest to save 50 Shroud gauge so you can use one Enshroud on the Meteors. Especially if you're still progging the fight. Otherwise you can safe it if your group has no problem there.
+* Use Shadow of Death on your initial meteor. For the rest, just hit them without Death's Design.
+* I would suggest to save 50 Shroud gauge so you can use one Enshroud on the Meteors, especially if you are still progging the fight. Otherwise you can safe it if your group has no problem there.
 * You can hit three Meteors at once with Grim Reaping and Lemure's Scythe if you stand on the outer tiles of the inner Ring. A Picture for reference:
 
 [![2022-06-28-14-01-00](https://i.im.ge/2022/08/04/F36m8Y.2022-06-28-14-01-00.png)](https://im.ge/i/F36m8Y)
@@ -439,7 +439,7 @@ As your kill times on the earlier phases decides how you enter this Phase, I wil
 
 # Phase Six: The Great Wyrms:
 
-For this Phase we will fight again both, Nidhogg & Hraesvelgr. This is a 100% uptime, two target fight and both dragons are Omnidirectional. Plentiful Harvest will be the only Skill with which you can hit both targets at once. Changing the target in this fight might be a bit unfortunate for Reaper as you will have to apply your Death's Design on the target first. Beforehand: Whorl of Death will **NOT** be a gain on this Phase. Use Shadow of Death to apply Death's Design. Enter this Phase with > 50 Shroud gauge and, if you can, combo neutral and with no Soul Slice charges.
+For this Phase we will fight both again, Nidhogg and Hraesvelgr. This is a 100% uptime, two target fight, and both dragons are omnidirectional. Plentiful Harvest will be the only Skill with which you can hit both targets at once. Changing the target in this fight might be a bit unfortunate for Reaper as you will have to apply your Death's Design on the target first. Beforehand: Whorl of Death will **NOT** be a gain on this Phase. Use Shadow of Death to apply Death's Design. Enter this Phase with >50 Shroud gauge and, if you can, combo neutral and with no Soul Slice charges.
 
 ### Re-Opener:
 
@@ -467,7 +467,7 @@ For this Phase we will fight again both, Nidhogg & Hraesvelgr. This is a 100% up
 ### Notes for this Re-Opener:
 
 * You can go out for **Wyrmsbreath** after hitting your combo GCD/Soul Slice and use Plentiful Harvest while being on your spot. If you have to adjust to one of the back spots, you can use any extra GCD after the combo GCD/Soul Slice and then go out to use Plentiful Harvest on your spot.
-* The best case for Reaper is to attack Hraesvelgr at the beginning so you don't have to use another Shadow of Death on Hraesvelgr after Nidhogg jumps away. Of course this depends on how your group wants to handle the opener on the dragons for this Phase.
+* The best case for Reaper is to attack Hraesvelgr at the beginning so you do not have to use another Shadow of Death on Hraesvelgr after Nidhogg jumps away. Of course this depends on how your group wants to handle the opener on the dragons for this Phase.
 
 ### Rotational notes:
 
@@ -478,7 +478,7 @@ For this Phase we will fight again both, Nidhogg & Hraesvelgr. This is a 100% up
 
 ### Touchdown:
 
-* If you have a Ninja or Scholar in the group I would advise to focus down one of the dragons to get the most value out of Mug and Chain Strategem.
+* If you have a Ninja or Scholar in the group, I would advise to focus down one of the dragons to get the most value out of Mug and Chain Strategem.
 * The most important thing here is to hit Gluttony and Plentiful Harvest before both of them die.
 * End with zero Soul Slice charges.
 
@@ -489,7 +489,7 @@ For this Phase we will fight again both, Nidhogg & Hraesvelgr. This is a 100% up
 
 # Phase Seven: The Dragon King
 
-The final Phase in this whole encounter. This is a 100% uptime Phase where you may have to go out of melee range for one GCD for **Exaflare's Edge** depending on which strat you do. You may enter this Phase with between 80-100 Shroud gauge and depending on this you may have to adjust some abilities in the follwing Re-Opener. If you entered this Phase with more than 80 Shroud Gauge you can use Enshroud twice and then save the third one for your two minute burst, similar to Phase Three.
+The final Phase in this whole encounter. This is a 100% uptime Phase where you may have to go out of melee range for one GCD for **Exaflare's Edge,** depending on which strat you do. You may enter this Phase with between 80-100 Shroud gauge and depending on this you may have to adjust some abilities in the following Re-Opener. If you entered this Phase with more than 80 Shroud Gauge you can use Enshroud twice and then save the third one for your two minute burst, similar to Phase Three.
 
 ### Re-Opener:
 
@@ -508,14 +508,14 @@ The final Phase in this whole encounter. This is a 100% uptime Phase where you m
 
 \###Notes for this Re-Opener:
 
-* If you Enshroud right after Shadow of Death your Communio will line up right at the end of the **Exaflare's Edge** cast which is not a good or safe time to cast Communio. I would then advise to use Shadow of Death again so it happens after the first Exaflares dropped.
+* If you Enshroud right after Shadow of Death then your Communio will line up right at the end of the **Exaflare's Edge** cast which is not a good or safe time to cast Communio. I would then advise to use Shadow of Death again so it happens after the first Exaflares dropped.
 * If you enter this Phase with less than 50 Soul gauge you can start with a Soul Slice after Shadow of Death
 * You can use Gluttony before you Enshroud if you entered this Phase with under 80 Shroud Gauge. Otherwise use it after Enshroud.
-* It is possible to not drop your enhanced Gibbet/Gallows buff during the transition if one of your last two GCD's at the end of Phase Six were Gibbet/Gallows. One of your first two GCD's in Phase Seven have to be Gibbet/Gallow for that. It's not worth if you would overcap on Shroud gauge by doing this.
+* It is possible to not drop your enhanced Gibbet/Gallows buff during the transition if one of your last two GCDs at the end of Phase Six were Gibbet/Gallows. One of your first two GCDs in Phase Seven have to be Gibbet/Gallow for that. It is not worth it if you would overcap on Shroud gauge by doing this.
 
 ### Two Minute burst:
 
-Most groups probably want to delay their raid buffs to after the first **Gigaflare's Edge's** first hit goes off so it will better realign with 60 second cooldowns. It doesn't matter where you used Gluttony in the opener, I would advise to push it back to after your 2nd Communio in the double Enshroud window. Use Shadow of Death again before Gigaflare so you enter it with > 30 seconds on Death's Design. Enshroud when your Death's Design hits 33 seconds and go for a Harvest Moon Double Enshroud variant. If you already used Harvest Moon before, go for a standard double Enshroud window.
+Most groups probably want to delay their raid buffs to after the first **Gigaflare's Edge's** first hit goes off so it will better realign with 60 second cooldowns. It does not matter where you used Gluttony in the opener. I would advise to push it back to after your 2nd Communio in the double Enshroud window. Use Shadow of Death again before Gigaflare so you enter it with >30 seconds on Death's Design. Enshroud when your Death's Design hits 33 seconds and go for a Harvest Moon Double Enshroud variant. If you already used Harvest Moon before then go for a standard double Enshroud window.
 
 ### Harvest Moon Double Enshroud:
 
