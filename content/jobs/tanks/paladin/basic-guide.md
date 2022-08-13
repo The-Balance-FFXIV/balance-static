@@ -51,7 +51,7 @@ Goals for the opener include:
 
 ![Standard Opener for Paladin](/img/jobs/pld/61-fullfof.png)
 
-**Text version:** prepull Holy Spirit at -2s > Fast Blade + late weave Fight or Flight > Riot Blade + Tincture > Goring Blade + Circle of Scorn > Fast Blade + Expiacion + Intervene > Riot Blade + Requiescat + Intervene > Royal Authority > Atonement > Atonement > Atonement > Fast Blade > Riot Blade > Goring Blade > Holy Spirit > Holy Spirit > Holy Spirit + Circle of Scorn > Holy Spirit + Expiacion > Confiteor > Blade of Faith > Blade of Truth > Blade of Valor
+**Text version:** prepull Holy Spirit at -2s > Fast Blade + late weave Fight or Flight > Riot Blade > Goring Blade > Fast Blade + Tincture > Riot Blade + Circle of Scorn + Intervene > Royal Authority + Expiacion + Requiescat > Atonement + Intervene > Atonement > Atonement > Fast Blade > Riot Blade > Goring Blade > Holy Spirit > Holy Spirit > Holy Spirit > Holy Spirit > Confiteor + Circle of Scorn > Blade of Faith + Expiacion > Blade of Truth > Blade of Valor
 \
 Full size: [Full FoF Opener for Paladin](https://xiv.sleepyshiba.com/pld/img/61-fullfof.png)
 
