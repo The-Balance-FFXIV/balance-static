@@ -219,12 +219,12 @@ List of filler:
 
 # AoE Rotations
 
-Rule of thumb: Always AoE when there are three or more enemies. When AoEing groups of enemies as a SAM, you will want to put your buffs up with Meikyo Shisui and Mangetsu/Oka and then follow the below basic rotation:
+Rule of thumb: Always AoE when there are three or more enemies. When AoEing groups of enemies as a SAM, you will want to put your buffs up with Meikyo Shisui and Mangetsu/Oka and then follow the basic rotation below:
 
 ![alt_text](https://xivapi.com/i/003000/003189_hr1.png "Fuko") **\->** ![alt_text](https://xivapi.com/i/003000/003165_hr1.png "Oka") **\->** ![alt_text](https://xivapi.com/i/003000/003189_hr1.png "Fuko") **\->** ![alt_text](https://xivapi.com/i/003000/003163_hr1.png "Mangetsu") **\->** ![](https://xivapi.com/i/003000/003161_hr1.png)
 ![](<>)
 
-The strength of SAM’s AOE rotation lies in the fact that both two-GCD AoE combos generate a different Sen each, allowing you to easily flow into a Tenka Goken. They also will naturally upkeep your buff timers, so you will not have to awkwardly switch back and forth from AoE to single target.. Their strongest Hissatsu move, Guren, is an extremely potent AoE as well and it is worth saving Guren for adds or AoE as long as you are not holding onto it for longer than its cooldown. Once you reach three targets or more, excess Kenki should be spent on Kyuten instead of Shinten.
+The strength of SAM’s AoE rotation lies in the fact that both two-GCD AoE combos generate a different Sen each, allowing you to easily flow into a Tenka Goken. They also will naturally upkeep your buff timers, so you will not have to awkwardly switch back and forth from AoE to single target.. Their strongest Hissatsu move, Guren, is an extremely potent AoE as well and it is worth saving Guren for adds or AoE as long as you are not holding onto it for longer than its cooldown. Once you reach three targets or more, excess Kenki should be spent on Kyuten instead of Shinten.
 
 **What happens if there are two targets?**
 
