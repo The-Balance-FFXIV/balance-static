@@ -13,7 +13,7 @@ changelog:
 
 ### Introduction:
 
-Dragonsong’s Reprise (Ultimate) is the first Ultimate released in FFXIV: Endwalker. This entire encounter is about 22 minutes long and split into seven Phases and one Intermission: The Vault Knights, King Thordan, Nidhogg, The Eyes, Rewind Intermission, King Thordan II, The Great Wyrms, and The Dragon King. This guide will go over the rotational structure for Reaper in this encounter and provide tips for different push-timings, Arcane Circle and pot examples, Re-Opener and give some general ideas for how to execute your burst. This guide assumes that you have a basic understanding of the class and its fundamentals. I would advise activating the following feature in your settings so you have an easier time hitting your first GCD on a boss after there was downtime.
+Dragonsong’s Reprise (Ultimate) is the first Ultimate released in Final Fantasy XIV: Endwalker. This entire encounter is about 22 minutes long and split into seven Phases and one Intermission: The Vault Knights, King Thordan, Nidhogg, The Eyes, Rewind Intermission, King Thordan II, The Great Wyrms, and The Dragon King. This guide will go over the rotational structure for Reaper in this encounter and provide tips for different push-timings, Arcane Circle and pot examples, Re-Opener and give some general ideas for how to execute your burst. This guide assumes that you have a basic understanding of the class and its fundamentals. I would advise activating the following feature in your settings so you have an easier time hitting your first GCD on a boss after there was downtime.
 
 [![2022-07-13-12-07-56](https://i.im.ge/2022/08/04/F3Uoex.2022-07-13-12-07-56.png)](https://im.ge/i/F3Uoex)
 
