@@ -17,13 +17,13 @@ Welcome to the Basics Guide for Paladin! Whether you are a fresh level 90, a ret
 
 Since this is a basic introduction to level 90 Paladin, this guide will not go into many nuances and topics that are tied to high-end optimization. If you are looking for such information, you may find it in one of the dedicated guides below:
 
-* Leveling Guide (Coming Soon!)
+* [Leveling Guide](https://www.thebalanceffxiv.com/jobs/tanks/paladin/leveling-guide/)
 * [Openers](/jobs/tanks/paladin/openers)
 * Advanced Guide (Coming Soon!)
 * Fight Tips (Coming Soon!)
 * Stats and Materia (see [main page](/jobs/tanks/paladin))
 * [Gearing](/jobs/tanks/paladin/best-in-slot)
-* Skill Overview (Coming Soon!)
+* [Skill Overview](https://www.thebalanceffxiv.com/jobs/tanks/paladin/skills-overview/)
 * [Frequently Asked Questions](/jobs/tanks/paladin/faq)
 
 - - -
