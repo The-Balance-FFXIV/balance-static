@@ -9,11 +9,9 @@ changelog:
   - date: 2021-11-15T21:06:38.491Z
     message: Added page
 ---
-# Monk Levelling Guide
-
 ## Know Your Role
 
-Melee DPS jobs have a unique mechanic in Positionals. Certain actions will deal more damage when executed from the rear or flank of a target. Targets with continuous Target Rings will always take the increased damage from positional actions. \
+Melee DPS jobs have a unique mechanic in positionals. Certain actions will deal more damage when executed from the rear or flank of a target. Targets with continuous Target Rings will always take the increased damage from positional actions. \
 The Role Action True North allows you to disregard positional requirements for ten seconds per use.
 
 ![Positional Zone](/img/jobs/mnk/anoqtwm-1-.png "Positional Zone")
