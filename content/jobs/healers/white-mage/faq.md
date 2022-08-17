@@ -33,24 +33,14 @@ qna:
 
       Useful healing in this context means healing that cannot be covered by your or another healer’s oGCDs.
   - question: How do I use lilies?
-    answer: "Lilies are a damage loss on single target as Misery is 900p and takes
-      four GCDs, four Glare IIIs is 1240p. Thus, Lilies should only be used for
-      healing that oGCDs cannot cover, or for extended movement that you cannot
-      slidecast and don't have a Dia refresh or Swiftcast for.\ 
+    answer: >+
+      How do I use Lilies?: Lilies are used for healing, movement and MP
+      control, as they are free instant cast spells with equivalent potency to a
+      glare.
 
 
-      Glare > Glare > Glare > Glare = 4 GCDs for 1240p\\
+      Three Lilies and a Misery is equal in potency to four Glare III's on a single target and a damage gain over Glare III when used in buffs or in multi-target. Lilies should generally be used for healing while aiming to have at least one Misery in each two-minute buff window. Lilies can also be used in downtime where they are effectively free extra Glare III's.
 
-      Rapture > Rapture > Rapture > Misery = 4 GCDs for 900p
-
-
-      Lilies should be used in downtime whenever possible as they are free
-      potency gains.  If Misery can be used to cleave any additional targets,
-      then Lilies become a damage gain, but should still be used in downtime
-      when possible.\r
-
-
-      \n"
   - question: Why are PoM and Assize used later in the opener?
     answer: Presence of Mind and Assize are held until 3rd/4th GCD raid buffs to
       maximize damage under raid buffs like Trick Attack, however they can be
