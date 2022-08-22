@@ -674,6 +674,7 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Author(s)"
         name: "authors"
@@ -1010,6 +1011,7 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Author(s)"
         name: "authors"
@@ -1345,6 +1347,7 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Author(s)"
         name: "authors"
@@ -1680,6 +1683,7 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Author(s)"
         name: "authors"
@@ -2015,6 +2019,7 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Author(s)"
         name: "authors"
@@ -2351,6 +2356,7 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Author(s)"
         name: "authors"
@@ -2687,6 +2693,7 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Author(s)"
         name: "authors"
@@ -3022,6 +3029,7 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Author(s)"
         name: "authors"
@@ -3357,6 +3365,7 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Author(s)"
         name: "authors"
@@ -3692,6 +3701,7 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Author(s)"
         name: "authors"
@@ -4027,6 +4037,7 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Author(s)"
         name: "authors"
@@ -4362,6 +4373,7 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Author(s)"
         name: "authors"
@@ -4697,6 +4709,7 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Author(s)"
         name: "authors"
@@ -5032,6 +5045,7 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Author(s)"
         name: "authors"
@@ -5369,6 +5383,7 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Author(s)"
         name: "authors"
@@ -5705,6 +5720,7 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Author(s)"
         name: "authors"
@@ -6041,6 +6057,7 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Author(s)"
         name: "authors"
@@ -6376,6 +6393,7 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Author(s)"
         name: "authors"
@@ -6711,6 +6729,7 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - {label: "Card Header Image", name: "card_header_image", widget: "image", choose_url: false, required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Author(s)"
         name: "authors"
