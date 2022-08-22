@@ -1,5 +1,5 @@
 ---
-title: Black Mage Raid Guide
+title: Asphodelos Raid Guide
 authors:
   - rika-vanih
 patch: "6.1"
