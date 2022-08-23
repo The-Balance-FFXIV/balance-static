@@ -16,7 +16,7 @@ bis:
       damage by a slight margin but at 2.5s Arcane Circle will drift .5s every 2
       minutes. This could cause problems with alignment or fight specific needs.
     name: 2.5 GCD BiS
-    link: 7b72fc2a-f07e-4df9-9a23-05dfa2c46619
+    link: 00b6b315-5807-4238-9164-428ab3dedeaa
   - type: etro
     description: BiS built around a 2.49s GCD. The damage difference between this
       set and the 2.5s GCD set will be almost unnoticeably worse. A 2.49s GCD
@@ -24,39 +24,21 @@ bis:
       potentially allowing for better raid alignment. This is currently our
       recommended option.
     name: 2.49 BiS
-    link: b301e789-96da-42f2-9628-95f68345e35b
+    link: c293f73b-5c58-4855-b43d-aae55b212611
   - type: etro
-    description: >-
-      BiS built around a 2.48s GCD. Worse than either the 2.5 or 2.49 set but
-      has perfect alignment on Arcane Circle. May also provide additional
-      benefits based on the raid fight or other circumstances.\
-
-      \
-
-      If you are looking to optimize around a different GCD tier due to either fight specific optimization or personal comfort feel free to ask for set recommendations in the Balance Discord.
-    name: 2.48 BiS
-    link: 806fb1a8-ce8f-4a09-963f-8f7ccd1cb485
+    description: If do not plan on buying the Tome Weapon week 1 of the Savage raid
+      then run with this set to get the most out of your gear.
+    name: Day 1 Savage set (No tome weapon)
+    link: "de49272d-30cc-4a6b-a5d1-93860aebc80e "
   - type: etro
-    description: >-
-      Run with this set if you are looking to get into the raid tier with the
-      best optimal gear. This is a 2.46 GCD set, so your Plentiful Harvest may
-      clip on your opener if you aren't doing the early Gluttony adjustment.
-
-
-      Replace pieces with BiS tome and raid gear as you get them.
-    name: Pre-raid penta-melded set
-    link: 86789b62-eeca-471b-bd07-7f8fe7ee8bf2
-  - type: etro
-    description: >-
-      This is another pre-raid set with a significantly lower cost. It is about
-      4-5% damage behind the penta-melded set. This is a 2.5 GCD set so Arcane
-      Circle will drift .5s every 2 minutes, replace a single determination meld
-      with SKS if you want to play at 2.49.
-
-
-      Replace pieces with BiS tome and raid gear as you get them.
-    name: Pre-raid Economy set
-    link: fb122aa1-7086-45f5-ba60-4bf462d7c218
+    description: If you are planning on getting the Tome weapon week 1 then use this
+      set to get the most out of your gear. It is generally recommended that
+      least one DPS in a static gets assigned the tome weapon as it is a
+      significant upgrade. The decision is entirely up to you and your static,
+      just know that the Tome weapon will put you a week behind on gearing
+      towards BiS.
+    name: Day 1 Savage set with Tome Weapon
+    link: 3dbb7e8c-50ac-4db5-8013-3c1538e97744
 authors:
   - Balance-RPR-Staff
 ---
