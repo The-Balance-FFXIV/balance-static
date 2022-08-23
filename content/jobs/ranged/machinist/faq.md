@@ -1,7 +1,7 @@
 ---
 title: Machinist FAQ
 layout: qna
-patch: "6.0"
+patch: "6.2"
 lastmod: 2021-12-19T02:31:01.659Z
 changelog:
   - date: 2021-10-25T22:06:08.013Z
