@@ -3,8 +3,8 @@ title: Dancer Basic Guide
 card_header_image: /img/jobs/dnc/basic.png
 authors:
   - juliacare
-patch: "6.1"
-lastmod: 2022-05-12T01:48:02.901Z
+patch: "6.18"
+lastmod: 2022-08-23T03:44:18.296Z
 changelog:
   - date: 2021-10-26T02:04:43.843Z
     message: Page created
