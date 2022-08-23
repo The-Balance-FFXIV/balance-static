@@ -3,8 +3,8 @@ title: Dancer Basic Guide
 card_header_image: /img/jobs/dnc/basic.png
 authors:
   - juliacare
-patch: "6.1"
-lastmod: 2022-05-12T01:48:02.901Z
+patch: "6.18"
+lastmod: 2022-08-23T03:44:18.296Z
 changelog:
   - date: 2021-10-26T02:04:43.843Z
     message: Page created
@@ -102,7 +102,6 @@ Reverse Cascade and Fountainfall can be used flexibly in any order, and they can
 
 1. Don't use Fountain uncombo'd, and don't use Cascade when a combo'd Fountain is available.  
 2. If you have Reverse Cascade available, avoid using Cascade, and similarly for Fountainfall and Fountain. Reverse Cascade and Fountainfall have a 50% chance to generate a Fourfold Feather, which can be spent on Fan Dance I or Fan Dance II, which are oGCDs.
-3. Try to use up procs (Reverse Cascade and Fountainfall) as they come up. This becomes important to avoid delaying Flourish, an ability learned at level 72.
 
 Graph of our procs:
 
@@ -122,7 +121,7 @@ Flourish is our one-minute cooldown. It grants all possible procs: Fan Dance III
 
 &nbsp;
 
-Lastly, your two-minute cooldowns are Devilment and Technical Step. Devilment grants you and your dance partner 20% Crit and Direct Hit rating, while Technical Finish gives your entire party a 5% flat damage buff and the ability to generate Esprit for you. All of these buffs last 20 seconds, and as they have the same cooldown, it’s best to keep them aligned with each other. During its duration, Devilment also transforms into Starfall Dance, a hard hitting GCD, and Technical Finish transforms into Tillana, which refreshes the Standard Finish buff.  
+Lastly, your two-minute cooldowns are Devilment and Technical Step. Devilment grants you and your dance partner 20% Crit and Direct Hit rating, while Technical Finish gives your entire party a 5% flat damage buff and the ability to generate Esprit for you. All of these buffs last 20 seconds, and as they have the same cooldown, it’s best to keep them aligned with each other. During its duration, Devilment also grants access to Starfall Dance, a hard hitting GCD, and Technical Finish transforms into Tillana, which refreshes the Standard Finish buff.  
 
 Since these abilities are on a two minute cooldown, there's a specific sequence of how to use them. Outside of that, you do not have to worry about these abilities.
 
@@ -177,11 +176,8 @@ As previously mentioned, Dancer brings a lot of utility to the raid. By properly
 The noteworthy abilities are as follows:
 
 1. Shield Samba. This ability has a 90 second cooldown and applies a 15 second buff to all nearby party members that reduces all damage taken by 10%. This is one of the strongest damage mitigations a DPS can bring, as you do not have to target the boss and because the duration is considerably longer than other DPS mitigation abilities. These abilities will not stack with the Bard and Machinist versions, Troubadour and Tactician.
-
 2. Curing Waltz. This 60 second cooldown heals party members in a three yalm range around you and your dancer partner for a small amount. That said, if you and your dance partner are stacked up the heal becomes notably more potent. Having your party stack up within this three yalm circle can heal a good chunk of damage on a fairly short cooldown.  While it is worth coordinating the usage of this ability in a static, I do not recommend getting Party Finder groups to play around this ability. In Party Finder, simply use it on cooldown when the party is stacked up and is not at full health.
-
 3. Improvisation. This ability, when used, provides a  regen on all party members within an eight yalm range. It also grants a stack of the Rising Rhythm buff every three seconds up to a maximum of four stacks. When the ability is used a second time, the button changes to Improvised Finish, which applies a barrier equal to a percentage of the player's max HP. The barrier strength scales with the duration that it was channeled. Using this ability makes it so you are unable to deal damage, and thus it is  recommended to only fully channel the ability if there is downtime with no boss or adds targetable and you cannot prepare either Standard Step or Technical Step during the downtime instead.
-
 4. En Avant. This oGCD has up to three charges and allows you to quickly dash for ten yalms in a straight line. Using this ability at key moments makes you very mobile.
 
 # Final Notes
