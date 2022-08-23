@@ -275,16 +275,15 @@ Both Haima and Panhaima snapshot their potency on the initial cast, so it can be
 
 AoE healing and mitigation
 
-* AoE 300p heal
+* AoE 300p heal and 300p shield
 * Applies 10% mitigation
 * Stacks with Taurochole/Kerachole
 
 Roughly the AoE equivalent of Taurochole, but a normal cooldown rather than Addersgall. It applies a 300p heal, and a
  10% mitigation for 20 seconds.
 
-Like Taurochole, it is ideal if you can make full use out of both the heal and mitigation. If you only need the
- mitigation, consider using Kerachole. However, if you do need to use it purely for mitigation, the heal being only 300p
- means it isn't the end of the world.
+Like Taurochole, it is ideal if you can make full use out of every aspect (healing, shielding and mitigation). If you only need the mitigation, consider using Kerachole. However, if you do need to use it purely for mitigation, the heal being only 300p
+ means it isn't the end of the world. 
 
 # GCD Heals
 
