@@ -97,14 +97,6 @@ Pneuma is a combination damage and healing ability. It is damage-neutral compare
 Due to it being AoE, it is also useful for dungeons, as well as situations such as P3S where it might be possible to hit
  multiple targets.
 
-### "But My Pneuma Didn't Heal!"
-
-Due to game engine limitations, Pneuma works in a very odd way. The "target" of the ability is the enemies that it
- damages, while the heal is actually implemented as a heal over time tick that applies instantly. However, even though it has applied on the server side, sometimes the game client
- won't correctly show the change in HP, which can mislead people into thinking that it didn't work at all. In addition, the heal applies
-as soon as the ability snapshots (0.5 seconds from the end of the cast, i.e. same as slidecasting), so it is
- easy to waste the heal by healing too early.
-
 ## Toxikon
 
 ![Toxikon II](https://xivapi.com/i/003000/003684_hr1.png)
