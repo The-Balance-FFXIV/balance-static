@@ -21,6 +21,8 @@ changelog:
     message: Updated Early Gluttony Opener picture and the text under it.
   - date: 2022-05-22T23:02:29.287Z
     message: Updated for 6.11
+  - date: 2022-08-23T15:53:20.048Z
+    message: Updated Values for assigning potency to soul and shroud
 ---
 ## Reaper Advanced Rotational Theory
 
@@ -642,29 +644,29 @@ This section will provide some insight on how we are valuing the Shroud and Soul
 
 ## Assigning Values to Soul and Shroud
 
-Because both Soul and Shroud have GCD values tied to their resource usage, we need to establish what GCDs they are effectively “replacing”. The safest assumption will be our combo GCDs, so we need to establish an average there, which is 380 potency. 
+Because both Soul and Shroud have GCD values tied to their resource usage, we need to establish what GCDs they are effectively “replacing”. The safest assumption will be our combo GCDs, so we need to establish an average there, which is 407 potency. 
 
 Special thanks to June over on The Balance discord for coming up with a better way to solve this equation:
 
 For all of these equations Soul = X, Shroud = Y
 
-Shroud is 3420 potency over the course of 8.5 seconds. In order to best represent the GCD gain loss over the period of Enshroud, we need to examine how many GCDs we could have used within that Shroud window, which at a 2.5 GCD is 3.4. With the aforementioned assumption that  a GCD is 380 potency, plus the value of Soul, we get the following equation for the value of 50 Shroud:
+Shroud is 3420 potency over the course of 8.5 seconds. In order to best represent the GCD gain loss over the period of Enshroud, we need to examine how many GCDs we could have used within that Shroud window, which at a 2.5 GCD is 3.4. With the aforementioned assumption that  a GCD is 407 potency, plus the value of Soul, we get the following equation for the value of 50 Shroud:
 
-50Y = 3420 - 3.4(380 + 10x)
+50Y = 3420 - 3.4(407 + 10x)
 
-50Y = 2128 - 34x
+50Y = 2036.2 - 34x
 
 Next we can evaluate how much Soul is worth. This equation is slightly easier if we assume that 50 Soul will give us a 400 potency oGCD (the Unveiled actions), in addition to a Gibbet or Gallow (a 520 potency GCD). If we make these assumptions, we get the following equation. Note: the Gibbet or Gallows replaces a combo GCD, which would generate 10 Soul as well, so they are removed from the equation:
 
-50X = 400 + 520 + 10Y - 380 - 10X
+50X = 400 + 520 + 10Y - 407 - 10X
 
-60X = 540 +10Y
+60X = 513 +10Y
 
 The cross section of both X and Y using both of these equations can be identify by either using an Algebra Calculator, graphing them out or working out the formulas yourself. Regardless the answer is: 
 
-10 Soul = 144.55 Potency
+10 Soul = 137.76 Potency
 
-10 Shroud = 327.31 Potency
+10 Shroud = 313.56 Potency
 
 - - -
 
@@ -673,7 +675,7 @@ The cross section of both X and Y using both of these equations can be identify 
 While it may not be super important to assign a potency value to Gluttony, it could potentially be useful for scenarios or quickly napkin-mathing situations. The best way to look at a Gluttony isn’t by itself, but as a replacement for a Bloodstalk variant. They both share the same cost, but Blood Stalks are always available, while Gluttony has a minute-long cooldown.  We can do this by using some bits and pieces of the equation about to piece things together:
 
 * Gluttony gains +100p over an Unveiled action on use.
-* Gluttony provides an additional Shroud building GCD or = 520 + 10Y - 380 -10X
+* Gluttony provides an additional Shroud building GCD or = 520 + 10Y - 407 -10X
 
-  * Since we have the values for X and Y, we can plugin them into come up with a potency gain of 322.76, assuming we are able to utilize the Shroud.
-* We can conclude that if the Shroud is used, then Gluttony is gain of 422.76 potency. If we remove the resources from the equation to simulate losing a Gluttony cast that would not gain a Shroud or lose a Soul spender, we get that its gain is only 240 potency.
+  * Since we have the values for X and Y, we can plugin them into come up with a potency gain of 288.8, assuming we are able to utilize the Shroud.
+* We can conclude that if the Shroud is used, then Gluttony is gain of 388.8 potency. If we remove the resources from the equation to simulate losing a Gluttony cast that would not gain a Shroud or lose a Soul spender, we get that its gain is only 213 potency.
