@@ -1,5 +1,5 @@
 ---
-title: Red Mage Fight Tips
+title: Asphodelos Raid Guide
 card_header_image: /img/jobs/rdm/rdm-fight-tips.jpg
 authors:
   - lana
