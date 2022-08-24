@@ -359,7 +359,7 @@ collections:
         widget: "list"
         default: ["Ultimate", "encounter guide", "fight guide"]
 - label: "EW Extremes"
-    name: "encounter-data"
+    name: "ew-extremes"
     folder: "content/encounters/savage/extreme"
     media_folder: "/static/img/encounters/savage/extreme"
     public_folder: "/img/encounters/savage/extreme"
