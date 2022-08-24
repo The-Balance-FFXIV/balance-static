@@ -358,7 +358,7 @@ collections:
         name: "tags"
         widget: "list"
         default: ["Ultimate", "encounter guide", "fight guide"]
-- label: "EW-Extremes"
+  - label: "EW-Extremes"
     name: "ew-extremes"
     folder: "content/encounters/savage/extreme"
     media_folder: "/static/img/encounters/savage/extreme"
