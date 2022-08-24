@@ -5,7 +5,7 @@ authors:
   - dook
   - lynn-nuvestrahl
   - Balance-MCH-Staff
-patch: "6.1"
+patch: "6.2"
 lastmod: 2022-05-17T06:23:22.053Z
 changelog:
   - date: 2021-10-25T21:57:19.219Z
@@ -19,6 +19,7 @@ changelog:
 tags:
   - Machinist
   - MCH
+  - FFXIV
 ---
 # Basic Machinist Guide
 
@@ -52,7 +53,7 @@ Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge whi
 
 While reading this guide, the following image can be referenced to get a better grasp of what's being talked about.
 
-![](/img/jobs/mch/mch_rotation.png)
+![](/img/jobs/mch/mch-infographic.jpg)
 
 &nbsp;
 
@@ -82,16 +83,16 @@ One of the themes in our level 90 Generalized Opener is maintaining three GCDs w
 
 The three things that make up Machinist’s flexible burst are the Heat gauge, the Battery gauge, and the charges of Gauss Round Ricochet, and Reassemble. The first rule for these resources is to never allow them to overcap if possible. The second rule is to use as many of them as you can before an encounter ends, preferring to end a fight with these gauges as close to zero as possible.
 
-Automaton Queen is Machinist’s most flexible burst and is also the most powerful of the three. Automaton Queen’s damage scaling is linear to the amount of battery she was summoned at. For every 10 Battery, the summon is worth 266 potency, with Pile Bunker being 68 potency and Crowned Collider being 78 potency per 10 gauge. At maximum Battery, Automaton Queen will last 21s and is worth 2660 potency, with 680 of that coming from Pile Bunker and another 780 coming from Crowned Collider. Below is a chart listing all Battery levels and their information.
+Automaton Queen is Machinist’s most flexible burst and is also the most powerful of the three. Automaton Queen’s damage scaling is linear to the amount of battery she was summoned at. For every 10 Battery, the summon is worth 266 potency, with Pile Bunker being 68 potency and Crowned Collider being 78 potency per 10 gauge. Regardless of the Battery amount when summoned, Queen will always be active for a total of 12 seconds. At maximum Battery, Automaton Queen is worth 2660 potency, with 680 of that coming from Pile Bunker and another 780 coming from Crowned Collider. Below is a chart listing all Battery levels and their information.
 
-| Battery Amount | Battery Timer | Actual Time Active | Punches | Potency Per Battery | Pile Bunker Potency | Crowned Collider Potency | Total Normalized Pet Potency |
-| -------------- | ------------- | ------------------ | ------- | ------------------- | ------------------- | ------------------------ | ---------------------------- |
-| 50             | 12.5 seconds  | 15.5 seconds       | 5       | 26.6                | 340                 | 390                      | 1184                         |
-| 60             | 14 seconds    | 17 seconds         | 6       | 26.6                | 408                 | 468                      | 1421                         |
-| 70             | 15.5 seconds  | 18.5s              | 7       | 26.6                | 476                 | 546                      | 1658                         |
-| 80             | 17 seconds    | 20 seconds         | 8       | 26.6                | 544                 | 624                      | 1894                         |
-| 90             | 18.5 seconds  | 21.5 seconds       | 9       | 26.6                | 612                 | 702                      | 2131                         |
-| 100            | 20.5 seconds  | 23.5 seconds       | 10      | 26.6                | 680                 | 780                      | 2368                         |
+| Battery Amount | Potency Per Battery | Pile Bunker Potency | Crowned Collider Potency | Total Normalized Pet Potency |
+| -------------- | ------------------- | ------------------- | ------------------------ | ---------------------------- |
+| 50             | 26.6                | 340                 | 390                      | 1184                         |
+| 60             | 26.6                | 408                 | 468                      | 1421                         |
+| 70             | 26.6                | 476                 | 546                      | 1658                         |
+| 80             | 26.6                | 544                 | 624                      | 1894                         |
+| 90             | 26.6                | 612                 | 702                      | 2131                         |
+| 100            | 26.6                | 680                 | 780                      | 2368                         |
 
 Queen’s summon should be delayed if scripted downtime is about to happen. Using Overdrive is always a loss and should be avoided unless a fight is ending and you have no other option to get the Pile Bunker and Crowned Collider off. Ultimately, you should be planning your Battery usage in such a way Queen’s finishers go off naturally, and so that you end a fight with as little excess Battery as possible.
 
