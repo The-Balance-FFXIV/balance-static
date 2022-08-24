@@ -53,7 +53,7 @@ Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge whi
 
 While reading this guide, the following image can be referenced to get a better grasp of what's being talked about.
 
-![](/img/jobs/mch/mch_rotation.png)
+![](/img/jobs/mch/mch-infographic.jpg)
 
 &nbsp;
 
@@ -86,7 +86,7 @@ The three things that make up Machinist’s flexible burst are the Heat gauge, t
 Automaton Queen is Machinist’s most flexible burst and is also the most powerful of the three. Automaton Queen’s damage scaling is linear to the amount of battery she was summoned at. For every 10 Battery, the summon is worth 266 potency, with Pile Bunker being 68 potency and Crowned Collider being 78 potency per 10 gauge. Regardless of the Battery amount when summoned, Queen will always be active for a total of 12 seconds. At maximum Battery, Automaton Queen is worth 2660 potency, with 680 of that coming from Pile Bunker and another 780 coming from Crowned Collider. Below is a chart listing all Battery levels and their information.
 
 | Battery Amount | Potency Per Battery | Pile Bunker Potency | Crowned Collider Potency | Total Normalized Pet Potency |
-| -------------- | -------------  ------------------- | ------------------- | ------------------------ | ---------------------------- |
+| -------------- | ------------------- | ------------------- | ------------------------ | ---------------------------- |
 | 50             | 26.6                | 340                 | 390                      | 1184                         |
 | 60             | 26.6                | 408                 | 468                      | 1421                         |
 | 70             | 26.6                | 476                 | 546                      | 1658                         |
