@@ -360,9 +360,9 @@ collections:
         default: ["Ultimate", "encounter guide", "fight guide"]
   - label: "EW Extremes"
     name: "ew-extremes"
-    folder: "content/encounters/savage/extreme"
-    media_folder: "/static/img/encounters/savage/extreme"
-    public_folder: "/img/encounters/savage/extreme"
+    folder: "content/encounters/extreme"
+    media_folder: "/static/img/encounters/extreme"
+    public_folder: "/img/encounters/extreme"
     identifier_field: "fight_title"
     create: true
     fields:
