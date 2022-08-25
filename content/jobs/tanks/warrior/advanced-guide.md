@@ -130,14 +130,6 @@ Talk with your party regarding your potion timings. Some jobs and fights favor d
 
 This section requires more research.
 
-### 2 IC Trick Attacks
-
-This section requires more research.  
-
-[FFLogs parse for the image below](https://xivanalysis.com/fflogs/vLgXHM7wyjZYNAPd/16/193) 
-
-![alt_text](https://cdn.discordapp.com/attachments/937834268950925433/947119620618338385/unknown.png "2IC Tricks")
-
 ## Disrespecting mechanics
 
 Since the beginning of FFXIV, the game has worked on simple boolean logic checks.
@@ -211,51 +203,13 @@ There's not much to this tech; Use Onslaught whenever you're pushed back, while 
 
 ## Wanted: Party Buffs
 
-Warriors are kind of picky eaters when it comes to party buffs and debuffs. We don’t care much for the Critical Rate% buffs such as Chain Stratagem or Battle Litany, or Direct Hit Rate % buffs such as <bard songs, dancer things>, because a good chunk of our kit already has 100% Direct Crit rate.
+Thanks to Patch 6.2, Warriors kind of like everything when it comes to party buffs and debuffs. Now Critical Hit rate% buffs and Direct Hit rate% buffs affect our biggest skills:
 
 Inner Chaos? 100% Direct Crit.  
 Primal Rend? 100% Direct Crit.  
 Inner Release’d Fell Cleaves? 100% Direct Crit.  
 
-
-
-### Nice buffs for Warriors are Damage Increase% 
-Buffs that give flat dmg% increase are great.  
-
-
-* Brotherhood (MNK)
-* Arcane Circle (RPR)
-* Divination (AST)
-* Radiant Finale (BRD)
-* Mage’s Ballad (BRD)
-* Technical Step (DNC)
-* Embolden (RDM)
-* Searing Light (SMN)
-* *Dragon Sight (DRG)
-* *Arcana Cards (AST)
-* *Standard Finish (DNC)
-
-_*Asterisk buffs are often given to DPS players, but there are times when someone feels like buffing the little Warrior._
-
-
-
-
-### Nice debuffs-on-boss for Warriors are also Damage Increase % 
-Debuffs that cause the target to take more damage are great.
-
-* Trick Attack (NIN)
-
-
-### Nice-but-not-as-nice buffs and debuffs 
-These would be the Crit Rate% and Direct Hit Rate % changes.
-
-* Battle Litany (DRG)
-* Chain Stratagem (SCH)
-* Army’s Paeon (BRD)
-* Wanderer’s Minuet (BRD)
-
-
-*It’s not worth it to list them all here, since a good handful of our kit does not get anything out of these.*  
+As of 2022-08-25, the exact effects are not yet known.
 
 
 
