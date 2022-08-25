@@ -11,8 +11,10 @@ changes:
       [here](https://na.finalfantasyxiv.com/jobguide/paladin/) for updated
       tooltips."
   - patch: "6.2"
-    description: Blade of Valor combo buffed by 40 potency per hit. No changes to
-      rotation. 18s prepull opener is still preferred for an unknown killtime.
+    description: Blade of Valor combo buffed by 40 potency per hit and Holy Spirit
+      buffed by 20 potency under Requiescat. No changes to rotation. 18s prepull
+      opener is still preferred for an unknown killtime. Holy Spirit also buffed
+      pre-lv84 (20p unbuffed, 40p under Requiescat)
 authors:
   - Balance-PLD-Staff
 ---
