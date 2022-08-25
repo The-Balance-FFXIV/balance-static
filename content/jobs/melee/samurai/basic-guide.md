@@ -43,7 +43,11 @@ High similarity to Dragoon with simple Global Cooldown (GCD) structure at a glan
 
 Every time SAM completes a certain GCD combo, its corresponding Sen is collected. There are three types of Sen to collect:
 
-Snow (Setsu) ![alt_text](https://lh6.googleusercontent.com/lW5486Um3Pv47vhQ8JbdZRN2hoXIOEj0mGBUN499CrqfPsbdmRGrEsD9qtyDzJSocNthd8tfnDa6jLKu_LdDQngUjBnFpeqv-pgAa57L_WuyxYH2JW6RcJzAXJ6y4TnAURE4csu3=s0 "Setsu"), Moon (Getsu) ![alt_text](https://lh3.googleusercontent.com/vh7p32RLojf1eVxekvJgdXj61Q4h4w8FTI0f7K-8QtGKUQRpqBsgIPqjGvTIp8jl1EQEHtDCan8xoegKxMtxnHN94Ti4koHcV69g5liT5ExglUdUoxa7vkyRQF0bock5ZcTtnFzH=s0 "Getsu"), and Flower (Ka) ![alt_text](https://lh6.googleusercontent.com/jSAYprY7WsOG_OyYhh-kYdWo9El9MvFzNKO3Tv4a6GyON8h_i1ToYCAG8bnb-QeQAmhiftTf26kbDKTAG7yoWR7wK0D3VcltTG80NWZ46-y5zZoGuRkcol9hM_LjJljycbeOcYcG=s0 "Ka")
+Snow (Setsu): ![alt_text](https://lh6.googleusercontent.com/lW5486Um3Pv47vhQ8JbdZRN2hoXIOEj0mGBUN499CrqfPsbdmRGrEsD9qtyDzJSocNthd8tfnDa6jLKu_LdDQngUjBnFpeqv-pgAa57L_WuyxYH2JW6RcJzAXJ6y4TnAURE4csu3=s0 "Setsu")
+
+Moon (Getsu): ![alt_text](https://lh3.googleusercontent.com/vh7p32RLojf1eVxekvJgdXj61Q4h4w8FTI0f7K-8QtGKUQRpqBsgIPqjGvTIp8jl1EQEHtDCan8xoegKxMtxnHN94Ti4koHcV69g5liT5ExglUdUoxa7vkyRQF0bock5ZcTtnFzH=s0 "Getsu")
+
+Flower (Ka): ![alt_text](https://lh6.googleusercontent.com/jSAYprY7WsOG_OyYhh-kYdWo9El9MvFzNKO3Tv4a6GyON8h_i1ToYCAG8bnb-QeQAmhiftTf26kbDKTAG7yoWR7wK0D3VcltTG80NWZ46-y5zZoGuRkcol9hM_LjJljycbeOcYcG=s0 "Ka")
 
 The resulting Iaijutsu differs based on the number of Sen held, regardless of the combination. If you use a combo that normally grants you a Sen that you already have, it will not give you any extra Sen, making it wasted.
 
@@ -101,15 +105,15 @@ If the Sen system and Ogi Namikiri and its 800 potency is what catches people’
 |                    |                  |                                              |
 | ------------------ | ---------------- | -------------------------------------------- |
 | Senei              | \= 800p/25k      | \= 32p/k                                     |
-| Guren              | \= 500p/25k      | \= 20p/k for the first mob, 10 per mob after |
+| Guren              | \= 500p/25k      | \= 20p/k for the first mob, 15 per mob after |
 | <mark> **Shinten** | <mark>= 250p/25k | \= <mark> **10p/k**                          |
 | Yaten              | \= 100p/10k      | \= 10p/k                                     |
 | Gyoten             | \= 100p/10k      | \= 10p/k                                     |
-| Kyuten             | \= 110p/25k      | \= 4.4p/k per mob                            |
+| Kyuten             | \= 120p/25k      | \= 4.8p/k per mob                            |
 
 From the numbers above, a few conclusions can be drawn:
 
-* Guren and Senei are extremely powerful oGCDs and carry a very high potency/Kenki. Just the sheer potency number makes you want to use this ASAP on an opener. Guren is a gain starting on three targets.
+* Guren and Senei are extremely powerful oGCDs and carry a very high potency/Kenki. Just the sheer potency number makes you want to use this ASAP on an opener. Guren is a gain starting on two targets.
 * Senei gives you the biggest bang for your buck.
 * Gyoten and Yaten are worth the same as Shinten, allowing you to use them to manipulate Kenki before buff windows or dump more during buff windows.
 * Kyuten outperforms Shinten at three mobs and above.
