@@ -1,7 +1,7 @@
 ---
 title: Warrior Changes
 layout: changes
-lastmod: 2022-04-29T23:52:57.281Z
+lastmod: 2022-08-25T16:27:14.787Z
 changes:
   - patch: "5.58"
     description: "[Placeholder for Endwalker]"
