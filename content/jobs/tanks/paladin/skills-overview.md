@@ -9,6 +9,8 @@ changelog:
     message: Added
   - date: 2022-08-03T05:02:15.872Z
     message: updated for EW (sorry for the delay!)
+  - date: 2022-08-25T05:38:50.315Z
+    message: Updated for 6.2
 ---
 ## Buffs
 
