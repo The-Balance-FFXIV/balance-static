@@ -26,6 +26,13 @@ changes:
       and Decimate.  
 
       Inner Release now grants Inner Strength, negating various status effects.
+  - patch: "6.2"
+    description: >-
+      Direct Hit melds now affect 100% DCritting skills.  
+
+      Party buffs affecting Crit rate% and DHit rate% now affect 100% DCritting skills.  
+
+      Maim and Storm's Eye/Storm's Path potency increased by 20 and 10/10 respectively.
 authors:
   - Balance-WAR-Staff
 ---
