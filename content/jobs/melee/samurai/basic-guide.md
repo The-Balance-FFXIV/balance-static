@@ -3,8 +3,8 @@ title: Samurai Basic Guide
 card_header_image: /img/jobs/sam/basic.png
 authors:
   - Balance-SAM-Staff
-patch: "6.18"
-lastmod: 2022-08-06T02:59:12.031Z
+patch: "6.2"
+lastmod: 2022-08-25T04:12:03.747Z
 changelog:
   - date: 2021-10-28T03:23:16.783Z
     message: Created page
@@ -14,6 +14,8 @@ changelog:
     message: Updated for 6.18
   - date: 2022-08-06T02:59:12.849Z
     message: Fixed formatting
+  - date: 2022-08-25T04:11:54.647Z
+    message: Updated for 6.2
 ---
 # Foreword
 
@@ -144,21 +146,17 @@ The goal of Meikyo is to manipulate your Sen so you can apply your buffs as quic
 
 In relation to the order of the Sen, it is important to note *which* finishers to use if you are planning to come out of the Meikyo with one or two Sen. You need to look at the remaining duration of the buffs you have and keep track of the order of the buffs that need to be refreshed. The reason being that the first combo you do after a Meikyo will likely be the buff that needs to be refreshed or has the shortest duration; therefore, you will reapply the buff and its Sen immediately after and then followed by the next. As such, if you are ending a Meikyo with one or two Sen, use the Sen with the longest buff duration last in Meikyo.
 
-**For example:** If you just performed a Gekko combo and have a ![alt_text](https://lh3.googleusercontent.com/vh7p32RLojf1eVxekvJgdXj61Q4h4w8FTI0f7K-8QtGKUQRpqBsgIPqjGvTIp8jl1EQEHtDCan8xoegKxMtxnHN94Ti4koHcV69g5liT5ExglUdUoxa7vkyRQF0bock5ZcTtnFzH=s0 "Getsu") Sen and Higanbana need to be refreshed in four GCDs, but you cannot wait. 
+**For example:** If you just performed a Gekko combo and have a Getsu Sen and Higanbana need to be refreshed in four GCDs, but you cannot wait. 
 
 With Meikyo, it is possible for you to go the following sequence: 
 
-![alt_text](https://xivapi.com/i/003000/003167_hr1.png "Meikyo Shisui") **\->** ![alt_text](https://xivapi.com/i/003000/003166_hr1.png "Yukikaze") **\->**
-![alt_text](https://xivapi.com/i/003000/003164_hr1.png "Kasha") **\->**
-![alt_text](https://xivapi.com/i/003000/003162_hr1.png "Midare Setsugekka") **\->** ![alt_text](https://xivapi.com/i/003000/003158_hr1.png "Gekko") **\->** ![alt_text](https://xivapi.com/i/003000/003160_hr1.png "Higanbana")
+![](/img/jobs/sam/meikyoExample.png)
 
 Now, how to use Meikyo to increase your damage? Consider Meikyo as a GCD saver after you have refreshed both your Fugetsu and Fuka buffs, as it lets you skip an entire two GCDs in your Kasha and Gekko combos. The most ideal situation is one where you use all three of Meikyo’s GCDs on Kasha and Gekko only, as using Yukikaze in Meikyo saves you only one GCD and Yukikaze is a weaker finisher.
 
 <span style="text-decoration:underline;">An example of Meikyo with ideal usage as long as the buffs do not fall off:</span>
 
-![alt_text](https://xivapi.com/i/003000/003151_hr1.png "Hakaze") **\->** ![alt_text](https://xivapi.com/i/003000/003166_hr1.png "Yukikaze") **\->**
-![alt_text](https://xivapi.com/i/003000/003167_hr1.png "Meikyo Shisui") **\->** ![alt_text](https://xivapi.com/i/003000/003158_hr1.png "Gekko") **\->**
-![alt_text](https://xivapi.com/i/003000/003164_hr1.png "Kasha") **\->** ![alt_text](https://xivapi.com/i/003000/003162_hr1.png "Midare Setsugekka") **\->** ![alt_text](https://xivapi.com/i/003000/003158_hr1.png "Gekko")
+![](/img/jobs/sam/optimalMeikyo.png)
 
 ## Hagakure Usage
 
@@ -194,16 +192,9 @@ Filler is often the part of the Samurai rotation that new players struggle the m
 
 Every minute of your Samurai rotation has either 28, 29, or 30 GCDs depending on which GCD tier you are using (2.14 / 2.07 / 2.00 respectively). Our normal cooldown and burst phase (not including Ogi+Kaeshi Namikiri) is 26 GCDs. This means that each time we execute our cooldown and burst, we need to fill another 2 / 3 / 4 GCDs. To do so, we use Ogi Namikiri and Kaeshi: Namikiri when we can (two GCDs) and combos and Hagakure when we cannot. This allows us to fill the empty space in our rotation with as much potency as we can, while still keeping all of our abilities lined up to execute on time.
 
-List of filler:
+A list of filler for a given amount of GCDs is as follows:
 
-1 GCD: ![alt_text](https://xivapi.com/i/003000/003170_hr1.png "Hissatsu: Yaten") **\->** ![alt_text](https://xivapi.com/i/003000/003155_hr1.png "Enpi")
-
-2 GCDs: ![alt_text](https://xivapi.com/i/003000/003151_hr1.png "Hakaze") **\->** ![alt_text](https://xivapi.com/i/003000/003166_hr1.png "Yukikaze") **\->** ![alt_text](https://xivapi.com/i/003000/003176_hr1.png "Hagakure")
-
-3 GCDs: ![alt_text](https://xivapi.com/i/003000/003151_hr1.png "Hakaze") **\->** ![alt_text](https://xivapi.com/i/003000/003152_hr1.png "Jinpu") **\->** ![alt_text](https://xivapi.com/i/003000/003158_hr1.png "Gekko") **\->** ![alt_text](https://xivapi.com/i/003000/003176_hr1.png "Hagakure") **OR** ![alt_text](https://xivapi.com/i/003000/003151_hr1.png "Hakaze") **\->** ![alt_text](https://xivapi.com/i/003000/003156_hr1.png "Shifu") **\->** ![alt_text](https://xivapi.com/i/003000/003164_hr1.png "Kasha") **\->** ![alt_text](https://xivapi.com/i/003000/003176_hr1.png "Hagakure")
-
-4 GCDs: ![alt_text](https://xivapi.com/i/003000/003151_hr1.png "Hakaze") **\->**
-![alt_text](https://xivapi.com/i/003000/003166_hr1.png "Yukikaze") **\->** ![alt_text](https://xivapi.com/i/003000/003176_hr1.png "Hagakure") **\->** ![alt_text](https://xivapi.com/i/003000/003151_hr1.png "Hakaze") **\->** ![alt_text](https://xivapi.com/i/003000/003166_hr1.png "Yukikaze") **\->** ![alt_text](https://xivapi.com/i/003000/003176_hr1.png "Hagakure")
+![](/img/jobs/sam/simpleFillerChart.png)
 
 # Opener
 
@@ -228,7 +219,7 @@ The strength of SAM’s AoE rotation lies in the fact that both two-GCD AoE comb
 
 **What happens if there are two targets?**
 
-If both targets will last long enough, use Higanbana on each and reapply as necessary. Do not use Kaeshi: Higanbana; even in this scenario, it is more worthwhile to build one Sen with Yukikaze and apply the DoT that way than it is to burn Kaeshi on Higanbana. Two targets also introduce a unique rotation where you are using Fuko > Mangetsu/Oka to generate your Getsu/Ka Sen, but using Hakaze > Yukikaze to generate your Setsu Sen, then spending them on Tenka Goken instead of building three Sen and using Midare Setsugekka. This is because Tenka Goken is also the most efficient in terms of Sen usage as you can perform it three times over six Sen, as opposed to Midare Setsugekka twice over the same amount of Sens.
+If both targets will last long enough, using Higanbana on each and reapply as necessary. Do not use Kaeshi: Higanbana, even in this scenario it is more worthwhile to build 1 Sen with Yukikaze and apply the DoT that way than it is to burn Kaeshi on Higanbana. Two targets also introduces its own unique rotation, where you are using Fuko > Mangetsu/Oka to generate your Getsu/Ka Sen and using Hakaze > Yukikaze to generate your Setsu Sen, then spending them on Midare Setsugekka. However, despite being more potency per GCD, this rotation requires more GCDs to go through (as it needs all 3 Sen). In the case that you would gain a usage of Tenka Goken over Midare in the time provided, it would be a gain to do that instead. Hissatsu: Guren is also a gain on two or more targets and should be used over Hissatsu: Senei in these scenarios.
 
 # Conclusion
 
