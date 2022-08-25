@@ -6,6 +6,9 @@ authors:
   - dook
 patch: "6.08"
 lastmod: 2022-02-26T22:13:49.885Z
+changelog:
+  - date: 2022-08-25T16:07:53.875Z
+    message: Patch 6.2 changes
 ---
 # Warrior Skills Overview
 
