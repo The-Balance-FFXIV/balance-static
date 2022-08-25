@@ -10,6 +10,9 @@ changes:
     description: "6.1: No rotational changes! See
       [here](https://na.finalfantasyxiv.com/jobguide/paladin/) for updated
       tooltips."
+  - patch: "6.2"
+    description: Blade of Valor combo buffed by 40 potency per hit. No changes to
+      rotation. 18s prepull opener is still preferred for an unknown killtime.
 authors:
   - Balance-PLD-Staff
 ---
