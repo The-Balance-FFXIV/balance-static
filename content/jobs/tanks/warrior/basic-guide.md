@@ -11,6 +11,8 @@ changelog:
     message: Uploaded the new GDoc guide for EW WAR
   - date: 2022-04-29T21:59:46.536Z
     message: Adjusted things to account for Patch 6.11
+  - date: 2022-08-25T16:04:39.829Z
+    message: Patch 6.2 adjustments
 ---
 # Final Fantasy 14: Endwalker guide for Warrior
 By Mox Xinmagar & The Happy Team of Warriors  
@@ -275,7 +277,7 @@ The order of actions is:
 
 The cursed tech of “Prepull IR” refers to getting Inner Release on cooldown before the pull has even started. This has some very big downsides, and some very situational up-sides.
 
-**Do not use these unless you know what you’re doing.**
+Do not use these unless you know what you’re doing.
 
 The main reasoning for the opener is to get IR on cooldown faster, gaining extra uses before specific fight phases. An example of this would be a heavy-padding Zodiark Extreme, where the aim is to get Inner Release for the Orbs phase.
 
@@ -382,7 +384,7 @@ For Endwalker Warriors, the options are pretty clear-cut. At level 90, the AoE r
 
 Here’s a nice table comparing various skills and combos, and their effective potency at different situations.
 
-![AoE effectiveness](https://cdn.discordapp.com/attachments/583965306071023616/926218374885806140/unknown.png "AoE effectiveness")
+![AoE effectiveness](https://cdn.discordapp.com/attachments/245514861063176193/1012388365439615046/unknown.png "AoE effectiveness")
 
 That’s a bunch of numbers, and Warriors are known to be bad at reading, so let's summarize:
 
@@ -583,11 +585,8 @@ Soon you’ll have all sorts of confusion, and question various things you’ve 
 First things first:
 
 * Warriors are strength-based. Vitality is nice, but it always walks hand in hand with strength upgrades. 
-* We don't exactly want Direct Hit because of our skills, which is why Tenacity gives bigger gains. 
-* A single Direct Hit meld may be god-like for that one parse, but on average Tenacity wins out. 
-
-For the god parse, you will want that one DH meld - because only the BEST parse matters.  
-Statistical averages aren't ranked, only the high-end outliers.
+* Since Patch 6.2, having Direct Hit melds increases the damage of our 100% DCrit skills.
+* Since Patch 6.2, party buffs affecting Crit and DHit rates also boost the damage of our 100% DCrit skills.
 
 ### Universal Stat Priorities
 Weapon Damage >>> Main Stat >>>> Substats. 
@@ -595,12 +594,12 @@ Weapon Damage >>> Main Stat >>>> Substats.
 _Very few exceptions have existed before Endwalker._
 
 ### Warrior Substat Priority
-_Crit > Det > Tnc_  
+_Crit > comfy SkS > DH >= Det > Tnc_  
 Also applies to Materia Melds.
 
-#### Why is Direct Hit not desirable? 
-Direct Hit as a stat only increases the DH Rate % of the skills, and not the damage.  
-As we have multiple skills that already have baked-in Direct Hit, any DH melds quickly lose value, giving Tenacity a chance to shine (dimly).
+#### What happened with Direct Hit not being desirable? 
+Patch 6.2 made DHit provide bonus damage to skills that have 100% Direct Hit and 100% Critical Hit rates. \
+After 2 full expacs, DHit is good for us again.
 
 #### Skill Speed
 We don’t deliberately avoid Skill Speed, but we don’t prioritize it at all.  
@@ -613,7 +612,7 @@ A rule of thumb is to delay the oGCD in most situations.
 Tenacity increases all damage dealt, much like Determination.  
 While it offers some mitigation bonuses, it is often very little and near impossible to observe due to the game already having a 5% variance in incoming damage.
 
-#### Determination vs Tenacity
+#### Stats in general (Det vs Tnc example)
 To gain +0.1% damage, we need to reach the next breakpoint.  
 We will refer to these +0.1% gains as "tiers".  
 These tiers are separated from each other approximately as follows:
@@ -630,10 +629,10 @@ If we were to have 2000 points to use on either Determination or Tenacity, we wo
 
 
 #### Multi-tank melds
-Do you play other tanks? This would be called “Omni-tanking”.  
-Meld WAR, use DH in non-WAR weapons.  
-Consider melding Skill Speed somewhere if your other tanks need it. WARs don't.  
-Better Omni-tank writeups exist, but they are not a part of this guide.
+Patch 6.2 brought Direct Hit melds back to WAR!
+
+While WARs try to hit GCD numbers around 2.50, 2.45, 2.40, other tanks might have more specific numbers.  \
+While melding for multiple tanks, consider what skill speed you want to use on GNB, PLD or DRK.
 
 
 
@@ -730,51 +729,20 @@ Shirk the second Party member. Often your co-tank.
 
 
 ### Food and Potions  
-Pumpkin Potage HQ (if running a slow BIS set)  
-Pumpkin Ratatouille HQ (if running the 2.40 GCD set)  
-Grade 6 Tincture of Strength HQ
+> Carrot Pudding HQ, or  \
+> Sunset Carrot Nibbles HQ.  \
+> Grade 7 Tincture of Strength HQ.
 
 ### Gear Sets
 Please see the Warrior's main page for different gear sets. 
 Some of the gear sets have very specific melds, some of which might go against the usual meld priority.
 
-Here are some DPS numbers as of Patch 6.11:
-
-#### 2.40 GCD
-5527.7 dps  
-Upheaval drifts, or has to be clipped every 2nd use.  
-This is a non-issue in most fights.  
- 
-#### 2.45 GCD
-5525.6 dps  
-Uses an Augmented Crafted Ring (i590).  
-Upheaval and Inner Release do not come up cleanly all the time. Non-issue, but something to keep in mind.
-
-#### 2.46
-5524.4 dps  
-The Bread-and-butter gearset that follows the stat priorities and gear restrictions.  
-Upheaval and Inner Release do not come up cleanly all the time. Non-issue, but something to keep in mind.  
-
-#### 2.50 GCD
-5523.9 dps  
-Does not drift Upheaval or Inner Release.  
-Boots have an odd set of Det+Det melds, resulting in a simulated +3.3 dps!  
-
-#### What’s the difference? Why not just use the one with the highest simulated DPS?
+#### What’s the different GCD speeds? Why not just use the one with the highest simulated DPS?
 
 The simulations are made with a simulated infinite rotational loop, which also heavily skews the value of skill speed.  
 Fights are not infinite, and often come with downtime.  
 Slower GCDs offer some rotational tricks to maximize Party buff windows.  
 Simulations are also pure math based on our best understanding and knowledge of the game's mechanics. Practice always differs from theory.
-
-
-
-
-
-
-
-
-
 
 
 
