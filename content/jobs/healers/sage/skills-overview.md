@@ -3,8 +3,8 @@ title: Sage Skills
 authors:
   - Balance-SGE-Staff
   - wynn
-patch: "6.10"
-lastmod: 2022-04-12T19:59:51.652Z
+patch: "6.2"
+lastmod: 2022-08-26T19:29:11.092Z
 changelog:
   - date: 2022-01-24T08:39:05.371Z
     message: Added page
@@ -14,6 +14,8 @@ changelog:
     message: Fixed Heading Levels
   - date: 2022-04-12T19:59:56.557Z
     message: Removed trick attack
+  - date: 2022-08-26T19:29:14.372Z
+    message: Updated for 6.2
 ---
 # Before you Start: Eukrasia
 
@@ -238,7 +240,7 @@ In terms of co-healer planning, Sage should be the absolute last priority for GC
 
 ![Diagnosis](https://xivapi.com/i/003000/003652_hr1.png)
 
-Single target 450p heal. Rough equivalent of Physick/Cure I/Benefic I. That is, something to be avoided except during downtime or when you have insufficient mana for anything larger.
+Single target 450p heal. Rough equivalent of Physick/Cure I/Benefic I - that is, something to be avoided except during downtime or when you have insufficient mana for anything larger.
 
 ## Eukrasian Diagnosis
 
@@ -322,7 +324,7 @@ Like Scholar's Emergency Tactics, but in reverse (you use the heal first, then u
 * Increases healing received by a target by 20%
 * 10 second duration
 * 60 second cooldown
-* Cast this on the target that you want to heal, not yourself/co-healer
+* Cast this on the target that you want to heal, not yourself/ or your co-healer
 
 ## Role Actions
 
