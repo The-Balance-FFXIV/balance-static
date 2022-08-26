@@ -2,7 +2,7 @@
 title: Warrior FAQ
 layout: qna
 patch: "6.08"
-lastmod: 2022-02-26T22:20:41.983Z
+lastmod: 2022-08-25T16:10:23.703Z
 changelog:
   - date: 2021-10-27T07:27:07.049Z
     message: Added page.
@@ -31,17 +31,9 @@ qna:
     answer: "[The 6.x Guide](/jobs/tanks/warrior/basic-guide/)"
   - question: What do I meld?
     answer: Check the [Stat Priority](/jobs/tanks/warrior/stat-priority/) page!
-  - question: Tenacity over Direct Hit?
-    answer: "Direct Hit as a stat only increases the DH Rate% of the skills, and not
-      the damage.\r
-
-      As we have multiple skills that already have baked-in Direct Hit,
-      any DH melds quickly lose value, giving Tenacity a chance to shine
-      (dimly). \ 
-
-
-      Tenacity increases all damage dealt, much like Determination. While
-      it offers some mitigation bonuses, it is often very little and near
+  - question: Why do we have any Tenacity in our equipment?
+    answer: "Tenacity increases all damage dealt, much like Determination. While it
+      offers some mitigation bonuses, it is often very little and near
       impossible to observe due to the game already having a 5% variance in
       incoming damage.  "
   - question: How much Skill Speed do I need?
@@ -50,25 +42,15 @@ qna:
 
       oGCD lineups referring to situations where our GCD and oGCDs come up
       at the same time, forcing us to delay one or the other."
-  - question: Warrior uses weird Melds, and I play other tanks?
-    answer: "Meld WAR, use DH in non-WAR weapons.  \r
-
-      Consider melding SkS somewhere if your other tanks need it. WARs
-      don't.  \r
-
-      Warrior loses more with DH melds, than other tanks lose with Det
-      melds."
+  - question: What happened to Warriors' weird melds?
+    answer: Patch 6.2 made things better for most of us.
   - question: Food? Potions?
-    answer: "These can be found in the BIS sets, but here's a quick summary.
+    answer: |-
+      These can be found in the BIS sets, but here's a quick summary.
 
-
-      As of patch 6.08: \ 
-
-      Pumpkin Potage HQ (if running a slow BIS set)  \r
-
-      Pumpkin Ratatouille HQ (if running the 2.40 GCD set)  \r
-
-      Grade 6 Tincture of Strength HQ  "
+      As of patch 6.2:
+      Carrot Pudding HQ, or Sunset Carrot Nibbles HQ.
+      Grade 7 Tincture of Strength HQ.
 authors:
   - Balance-WAR-Staff
 ---
