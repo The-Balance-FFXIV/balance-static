@@ -175,7 +175,7 @@ Guarantees blocks.
 
 Provides 15% damage reduction to party members behind you (lasts at least 5s, [see FAQ](/jobs/tanks/paladin/faq/) for more details).
 
-Cancelled by taking any action (including turning your character).
+Canceled by taking any action (including turning your character).
 
 **Divine Veil**
 ![](https://xivapi.com/i/002000/002508_hr1.png)
