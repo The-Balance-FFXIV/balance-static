@@ -9,6 +9,8 @@ changelog:
     message: Added
   - date: 2022-08-03T05:02:15.872Z
     message: updated for EW (sorry for the delay!)
+  - date: 2022-08-25T05:38:50.315Z
+    message: Updated for 6.2
 ---
 ## Buffs
 
@@ -79,9 +81,9 @@ Costs one Sword Oath.
 **Holy Spirit**
 ![](https://xivapi.com/i/002000/002514_hr1.png)
 
-270 potency (magical) | 1.5s cast time | Does not break combo
+280 potency (magical) | 1.5s cast time | Does not break combo
 
-540 potency under Requiescat.
+560 potency under Requiescat.
 
 Heals self for 400 potency.
 
@@ -106,7 +108,7 @@ Requires the Requiescat buff and consumes all stacks on use.
 |-|-|-|
 |![](https://xivapi.com/i/002000/002952_hr1.png) | ![](https://xivapi.com/i/002000/002953_hr1.png) | ![](https://xivapi.com/i/002000/002954_hr1.png)|
 
-420 > 500 > 580 potency + 560 potency DoT over 21 seconds (magical damage).
+460 > 540 > 620 potency + 560 potency DoT over 21 seconds (magical damage).
 
 Replaces the Confiteor button when the Requiescat buff ends, usually because Confiteor was used. The Blade of Faith Ready buff acts exactly like a combo, meaning most other GCDs will cause Blade of Faith Ready to fall off.
 
@@ -173,7 +175,7 @@ Guarantees blocks.
 
 Provides 15% damage reduction to party members behind you (lasts at least 5s, [see FAQ](/jobs/tanks/paladin/faq/) for more details).
 
-Cancelled by taking any action (including turning your character).
+Canceled by taking any action (including turning your character).
 
 **Divine Veil**
 ![](https://xivapi.com/i/002000/002508_hr1.png)
