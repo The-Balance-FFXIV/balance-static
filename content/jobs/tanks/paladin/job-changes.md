@@ -1,7 +1,7 @@
 ---
 title: Paladin Changes
 layout: changes
-lastmod: 2022-04-12T00:16:36.365Z
+lastmod: 2022-08-26T17:21:22.483Z
 changes:
   - patch: "6.0"
     description: "[Click here to view the full list of changes on the Official
