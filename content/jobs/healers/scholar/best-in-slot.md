@@ -1,8 +1,8 @@
 ---
 title: Scholar Best in Slot (BiS)
 layout: bis
-patch: "6.10"
-lastmod: 2022-04-13T04:00:01.963Z
+patch: "6.20"
+lastmod: 2022-08-26T16:42:19.427Z
 changelog:
   - date: 2021-10-26T23:42:52.063Z
     message: Article Created.
@@ -14,67 +14,41 @@ changelog:
     message: Added Augmented 2.40 set
 bis:
   - type: etro
-    description: |-
-      * Safe to run in any environment.  
-      * A ton of extra MP for those who don't care about optimizing
-      * Gives a good Chain and Bio alignment
-      * 2.50 GCD
-    name: 2.50 High Piety Set
-    link: 30122448-70c8-421c-bd8c-820e2905858b
-  - type: etro
-    description: |-
-      * Safe to run in any environment.
-      * Perfect for those with no interest in optimizing or a fear of PF.
-      * Gives a good Chain alignment, but a poor Bio alignment
-      * 2.41 GCD
-    name: 2.41 Mid Piety Set
-    link: f1802c19-d766-40f0-b781-f5b965cb964e
-  - type: etro
-    description: |-
-      * Be careful using in unoptimized environments 
-      * Has extra piety for reclears, works well with good mana fundamentals
-      * Gives perfect Chain alignment, but poor Bio alignment
-      * 2.40 GCD
-    name: 2.40 Low Piety Set
-    link: ff3ffc7a-e28c-45bf-a310-a8d8496f8ebf
+    description: |2
+      
+          * Safe to run in any environment.
+          * Perfect for those with no interest in optimizing or a fear of PF.
+          * Gives a good Chain alignment, but a poor Bio alignment
+          * 2.40 GCD
+    name: 2.40 mid-pi set
+    link: https://etro.gg/gearset/03f4b5a3-e9ab-434b-8cc2-b358546fcb60
   - type: etro
     description: >-
-      * DO NOT USE IN UNOPTIMZED ENVIRONMENTS
+      * This set has slightly lower average damage than the SpS BiS but higher
+      variance due to a higher amount of DH. This may be of value to you if
+      you're a parser or speedrunner looking exclusively for high roll runs.
 
-      * This set has slightly lower average damage than the SpS BiS but higher variance due to a higher amount of Crit and DH. This may be of value to you if you're a parser or speedrunner looking exclusively for high roll runs.
-
-      * Gives perfect Chain alignment, but poor Bio alignment
+      * Gives good Chain alignment and poor Bio alignment
 
       * 2.40 GCD
-    name: 2.40 Min Piety Crit BiS
-    link: 7942af0b-011a-4719-85e9-e5f64d6c07f5
+    name: 2.40 low-pi set
+    link: https://etro.gg/gearset/fdc331e0-aa1a-45d1-9640-a38e691ad063
   - type: etro
-    description: >-
-      I<!--StartFragment-->
-
-
-      f you don't want to deal with pentamelding, this is effectively identical average dps to the Penta set, but sacrifices ~1 meld worth of Crit (only relevant if you're trying for high rolls).
-
-
-      <!--EndFragment-->
-    name: "2.40 Min Pi Crit BiS [Augmented Alternative] "
-    link: https://etro.gg/gearset/0e76723c-0433-4208-a611-eea23b4f8b0a
-  - type: etro
-    description: >-
-      * DO NOT USE IN UNOPTIMIZED ENVIORNMENT
-
-      * This set has the highest average damage of the two BiS sets and is the more consistent one. It has very dangerous MP economy due to the fast GCD and min Piety.
+    description: >
+      * This set has the highest average damage of the two BiS sets and is the
+      more consistent one. It has very dangerous MP economy due to the fast GCD
+      and min Piety.
 
       * Gives good Chain and Bio alignment
 
-      * 2.32 GCD
-    name: 2.32 Min Piety SpS BiS
-    link: 848869dc-ea7b-42e0-a0a5-1bfdeae8d7e2
+      * 2.31 GCD
+    link: https://etro.gg/gearset/41c65b56-fa08-4c6a-b86b-627fd14d04ff
+    name: 2.31 low-pi set
   - type: etro
     description: >-
-      * Safe to run in any enviorment.
+      * Safe to run in any environment.
 
-      * A ton of extra MP for those who want to start high before removing piety
+      * A ton of extra MP for those who want to start high before removing Piety.
 
       * Gives a good Chain and Bio alignment, however downtime will mess this up.
 
@@ -85,7 +59,7 @@ bis:
     description: >-
       * Safe to run
 
-      * This set should be safe to run, but you may need to add extra piety if you need to
+      * This set should be safe to run, but you may need to add extra Piety.
 
       * Gives a good Chain and Bio alignment, however downtime will mess this up.
 
