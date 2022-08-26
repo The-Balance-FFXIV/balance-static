@@ -4,7 +4,7 @@ authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
   - dook
-patch: "6.08"
+patch: "6.2"
 lastmod: 2022-08-26T20:19:44.490Z
 changelog:
   - date: 2022-08-25T16:07:53.875Z
