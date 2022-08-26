@@ -19,11 +19,7 @@ changelog:
 
 ![Eukrasia](https://xivapi.com/i/003000/003658_hr1.png)
 
-First, a note about skills with "Eukrasian" in the name - these are upgraded versions of other skills that you would
- access by using the "Eukrasia" skill first. For example, to cast Eukrasian Dosis, first cast Eukrasia, then cast Dosis.
- Eukrasia itself is a 1-second instant-cast GCD, and the buffed ability will become a 1.5-second instant-cast GCD.
-Neither of these cast times are affected by spell speed, so any Eukrasian GCD will always be 2.5 seconds. In addition,
- unlike a real 2.5 second instant GCD, you will only be able to weave one oGCD without clipping.
+First, a note about skills with "Eukrasian" in the name. These are upgraded versions of other skills that you would access by using the "Eukrasia" skill first. For example, to cast Eukrasian Dosis, first cast Eukrasia, then cast Dosis. Eukrasia itself is a 1-second, instant cast Global Cooldown (GCD) and the buffed ability will become a 1.5-second, instant-cast GCD. Neither of these cast times are affected by spell speed, so any Eukrasian GCD will always be 2.5 seconds. Additionally, unlike a real 2.5 second instant GCD, you will only be able to weave one oGCD without clipping.
 
 If you press Eukrasia by mistake, you cannot press it again to turn it off. However, you can use a `statusoff` macro
 like so:
@@ -34,79 +30,57 @@ like so:
 
 # Offensive Skills
 
-While Sage does not offer a raid buff, it makes up for it by having the highest personal DPS of all the healers. The
- general formula is similar, but Sage is the only healer to have a burst GCD (Phlegma). In addition, every offensive GCD
- provides free healing to your Kardion target. Let's take a look at how Sage's offensive skills mesh with each other:
+While Sage does not offer a raid buff, it makes up for it by having the highest personal DPS of all the healers. The general formula is similar, but Sage is the only healer to have a burst GCD (Phlegma). In addition, every offensive GCD provides free healing to your Kardion target. Let us take a look at how Sage's offensive skills mesh with each other:
 
 ## Dosis
 
 ![Dosis III](https://xivapi.com/i/003000/003680_hr1.png)
 
-This is your main filler offensive GCD. When you have nothing higher priority to cast, use this. At 330 potency, it is
- the most powerful of all the healer single target filler GCDs.
+This is your main filler offensive GCD. When you have nothing higher priority to cast, use this. At 330 potency, it is the most powerful of all the healer single target filler GCDs.
 
 ## Eukrasian Dosis
 
 ![Eukrasian Dosis III](https://xivapi.com/i/003000/003682_hr1.png)
 
-Eukrasian Dosis is your damage over time skill. Like the other healers, it lasts 30 seconds. DoT (and HoT) effects in
- FFXIV operate on "server ticks", once every three seconds. On each of these ticks, DoTs and HoTs will apply their listed
- potency. Thus, the total potency of Eukrasian Dosis is 700 (10 ticks of 70 potency). Typically, it should be re-applied
- as closely as possibly to when it would expire. To keep 100% uptime, you need to factor in the one second needed to cast
- Eukrasia, but the debuff application itself is instant.
+Eukrasian Dosis is your damage over time skill. Like the other healers, it lasts 30 seconds. DoT (and HoT) effects in FFXIV operate on "server ticks," once every three seconds. On each of these ticks, DoTs and HoTs will apply their listed potency. Thus, the total potency of Eukrasian Dosis is 700 (10 ticks of 70 potency). Typically, it should be re-applied as closely as possibly to when it would expire. To keep 100% uptime, you need to factor in the one second needed to cast Eukrasia, but the debuff application itself is instant.
 
 ## Dyskrasia
 
 ![Dyskrasia II](https://xivapi.com/i/003000/003683_hr1.png)
 
-Your spammable AoE cooldown. With 170 potency per target, compared to 330 on Dosis, It becomes a gain on just two
- targets. In addition, it is an instant cast, so it can be used while moving. Ideally, it would never be used on a single
- target, but it *can* function as a last resort movement skill.
+Your spammable area-of-effect (AoE) cooldown. With 170 potency per target, compared to 330 on Dosis, It becomes a gain on just two targets. It is also an instant cast, so it can be used while moving. Ideally, it would never be used on a single target, but it *can* function as a last resort movement skill.
 
 ## Phlegma
 
 ![Phlegma III](https://xivapi.com/i/003000/003681_hr1.png)
 
-Phlegma is unique as it is the only healer offensive GCD that operates on a charge system while still being a DPS gain.
- It deals 510 damage to the main target, and 255 on other targets within a five yalm radius of the primary target. The range
- is only six yards, so you will need to be somewhat close to the target. It is your most powerful single-target *and* AoE
- ability.
+Phlegma is unique as it is the only healer offensive GCD that operates on a charge system while still being a DPS gain. It deals 510 damage to the main target and 255 on other targets within a five-yalm radius of the primary target. The range is only six yards, so you will need to be somewhat close to the target. It is your most powerful single-target *and* AoE ability.
 
-Due to having two charges, it does not have a strict alignment need like you'd get out of other GCDs with a cooldown.
+Due to having two charges, it does not have a strict alignment need like you would get out of other GCDs with a cooldown.
 The general priority for when to use Phlegma charges is:
 
 1. AoE, when needed. Hitting even just one additional target puts it at +50% potency.
-2. Two-minute burst windows. On a full-uptime fight, you will be able to use two charges in the opener, and then again at:
-   Two, six, eight, and twelve minute marks.
+2. Two-minute burst windows. On a full-uptime fight, you will be able to use two charges in the opener and then again at: Two, six, eight, and twelve minute marks.
 3. Movement. Phlegma is an instant GCD, so it allows free movement for its entire recast time.
-4. Dump any remaining charges to avoid overcapping, or before a boss goes untargetable for a long enough period of time
-   to make you overcap.
+4. Dump any remaining charges to avoid overcapping, or before a boss goes untargetable for a long enough period of time to make you overcap.
 
-For dungeons, the priority would be to use them on packs, once the tank has finished pulling all the mobs together. Make
- sure that you're targeting a mob that is within range of all the others, otherwise it may not hit everything if the mobs
- are a bit more spread out.
+For dungeons, the priority would be to use them on packs once the tank has finished pulling all the mobs together. Make sure that you're targeting a mob that is within range of all the others, otherwise it may not hit everything if the mobs are a bit more spread out.
 
 ## Pneuma
 
 ![Pneuma](https://xivapi.com/i/003000/003686_hr1.png)
 
-Pneuma is a combination damage and healing ability. It is damage-neutral compared to Dosis, with the same 330 potency on
- the main target. For multiple targets, it is 198p on each target, making it fall behind only Phlegma for AoE. The 600p
- heal is already decent, but it is best used with Zoe for a 900p damage-neutral AoE heal.
+Pneuma is a combination damage and healing ability. It is damage-neutral compared to Dosis, with the same 330 potency on the main target. For multiple targets, it is 198p on each target, making it fall behind only Phlegma for AoE. The 600p heal is already decent, but it is best used with Zoe for a 900p damage-neutral AoE heal.
 
-Due to it being AoE, it is also useful for dungeons, as well as situations such as P3S where it might be possible to hit
- multiple targets.
+Due to it being an AoE, it is also useful for dungeons and situations such as P3S where it might be possible to hit multiple targets.
 
 ## Toxikon
 
 ![Toxikon II](https://xivapi.com/i/003000/003684_hr1.png)
 
-Toxikon is an instant cast 330 potency single target GCD. This makes it a damage neutral movement tool for single target
- encounters. However, it consumes Addersting charges (which are gained from your Eukrasian Diagnosis shield being
- consumed fully), meaning you'll need to plan out your uses. For AoE scenarios, it behaves similar to Dyskrasia, but has
-different scaling, giving it more overall damage in all practical scenarios.
+Toxikon is an instant cast 330 potency single target GCD. This makes it a damage neutral movement tool for single target encounters. However, it consumes Addersting charges (which are gained from your Eukrasian Diagnosis shield being consumed fully), meaning you will need to plan out your uses. For AoE scenarios, it behaves similarly to Dyskrasia, but has different scaling, giving it more overall damage in all practical scenarios.
 
-In order to use this, you'll need to use Eukrasian Diagnosis, which unfortunately is a GCD heal. However, you start the instance with three charges. Apart from the three freebies, it is best charged during downtime so that it remains DPS-neutral.
+In order to use this, you will need to use Eukrasian Diagnosis, which unfortunately is a GCD heal. However, you start the instance with three charges. Apart from the three freebies, it is best charged during downtime so that it remains DPS-neutral.
 
 # Addersgall Heals
 
@@ -116,8 +90,7 @@ The heals in this section have a few things in common:
 * They restore 7% of your maximum MP when used.
 * They are oGCD.
 
-You get an Addersgall charge every 20 seconds, and can store up to three. Since these give mana, you can and should use
- them liberally even if would be overheal.
+You get an Addersgall charge every 20 seconds, and can store up to three. Since these give mana, you can and should use them liberally even if it would be overheal.
 
 ## Kerachole
 
