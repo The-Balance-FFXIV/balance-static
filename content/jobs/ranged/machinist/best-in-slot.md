@@ -25,14 +25,11 @@ bis:
     name: Normal Mode Raid Earrings Progression Set
     link: 32dbc977-5392-4afb-a6f7-6b697e66fa7c
   - type: etro
-    description: The BiS for Dragonsong's Reprise using the Savage weapon.
+    description: The BiS for Dragonsong's Reprise in Patch 6.2 using the Savage
+      weapon from Asphodelos. If using the Ultimate weapon, place a Direct Hit
+      meld in the third slot.
     name: 6.1 Best in Slot (No Ultimate Weapon)
-    link: 6b4b1ba5-a821-41a0-b070-b1f50e986f85
-  - type: etro
-    description: The BiS for Dragonsong's Reprise incorporating the Ultimate weapon
-      and extra Materia slot.
-    name: 6.1 Best in Slot (Ultimate Weapon)
-    link: f2fe3df9-07d9-47db-839a-877eed852909
+    link: 7fdd9cea-211c-4205-b39c-6d20818fabb4
   - type: etro
     description: >-
       This set, using the Shadowbringers relic weapon, provides a 3.54% gain
