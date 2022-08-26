@@ -5,7 +5,7 @@ authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
 patch: "6.2"
-lastmod: 2022-04-29T22:05:58.255Z
+lastmod: 2022-08-26T20:18:44.738Z
 changelog:
   - date: 2021-11-15T18:36:27.000Z
     message: Created page
@@ -23,7 +23,8 @@ changelog:
 ---
 ## The Optimization
 
-Warrior Optimization focuses on manipulating the Surging Tempest buff refreshes, and “Carrying buffs” such as Nascent Chaos and Primal Rend Ready.  
+Warrior Optimization focuses on manipulating the Surging Tempest buff refreshes, and “Carrying buffs” such as Nascent Chaos and Primal Rend Ready. 
+ 
 There’s also the case of pushing out “3 IC Pot” windows and “2 IC Tricks”, but also disrespecting various mechanics by zeroing out the damage, or canceling a knockback with our Onslaught. Also, if you want a high percentile in FFLogs, you're at the mercy of a good kill time. Bosses dying right after an entire Inner Release + resource burn window? That's a nice percentile.
 
 ### Surging Tempest 
@@ -61,6 +62,7 @@ With Inner Release'd Fell Cleaves being less impactful than Primal Rend and Inne
 Using Inner Release unlocks Primal Rend for 30 seconds. If the fight favors using Inner Release early, but Party buffs are coming up later, you may want to carry that Rend into the buffs. A moment like this would be when the fight makes us use Prepull IR openers, but the party buffs still came up at the usual time.
 
 Emptying the Beast Gauge and using Infuriate puts us anywhere between 50 and 90 beast gauge. This lets us carry Inner Chaos into a slightly later moment, when party buffs would be up.  
+
 Be mindful about the gauge, as you don't want to overcap unless you know what you're doing, in which case why are you reading this?
 
 Regarding Inner Chaos and Infuriate, it is possible to hit the following rotational milestones:
@@ -77,7 +79,7 @@ These milestones would let us empty our beast gauge, hit Infuriate, and carry it
 * Make sure to take advantage of Heavy Swing not giving any gauge
 * Spend the Inner Chaos, hopefully inside Party buffs
 
-Congratulations, you just carried Inner Chaos for multiple GCDs
+Congratulations, you just carried Inner Chaos for multiple GCDs.
 
 As for how this would look like in FFLogs, here's a handy image.  
 To replicate this view, go to [Character > Buffs > Drop-down menu: Nascent Chaos](https://www.fflogs.com/reports/Gya7HRZ69QpDdrxm#fight=1&type=auras&source=1&ability=1001897)
@@ -141,14 +143,14 @@ Since the beginning of FFXIV, the game has worked on simple boolean logic checks
   
 Not all fights work like this, but a good handful of them do. This lets us disrespect some mechanics that would force us to disengage from the boss.
 
-The main check that the game uses is “Loss of Health”, or “Mechanic’s Damage Done was >0”. This means that mitigating a hit by 100% often works wonders, and results in dodging debuffs and knockbacks.  
+The main check that the game uses is “Loss of Health”, or “Mechanic’s Damage Done was > 0”. This means that mitigating a hit by 100% often works wonders, and results in dodging debuffs and knockbacks.  
 
 Shame that Warriors don’t have Superbolide or Hallowed Ground. So what are our options then? Shields.
 
 Shake It Off and Bloodwhetting both offer shields to Warriors. If we were to mitigate a hit enough so that it only scratched our shields, we would “Zero Out” the entire mechanic, and most likely any debuffs that come from it. Endwalker’s first raid tier, Pandaemonium, comes with a fight that lets us do just that. There have been similar opportunities before, but we’ll use a more relevant example here.  
   
 
-Towards the midway point of the fight, the entire party gets to handle a mechanic where everybody has to sit tight inside a tiny safe square, while also managing a Stack Hit, and two Knockback Hits. The two Knockback Hits are always on a Tank, and a DPS. The usual way to handle this is to have the entire party right next to the boss, while the DPS player hides in the corner of the arena, and the tank hides in another corner of the safe area.
+Toward the midway point of the fight, the entire party gets to handle a mechanic where everybody has to sit tight inside a tiny safe square, while also managing a Stack Hit, and two Knockback Hits. The two Knockback Hits are always on a Tank, and a DPS. The usual way to handle this is to have the entire party right next to the boss, while the DPS player hides in the corner of the arena, and the tank hides in another corner of the safe area.
 
 Not being in the safe area means getting hit by the Cataract mechanic, which gives a Damage Down debuff if the player takes damage from it.  _If the player takes damage from it…_
 
