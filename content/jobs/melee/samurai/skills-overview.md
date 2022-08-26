@@ -41,7 +41,7 @@ changelog:
 |Icon|Name|Description|
 |---|---|---|
 |![Third Eye](https://xivapi.com/i/003000/003153_hr1.png)|Third Eye|Reduces next damage taken by 10%. +10 Kenki if hit. 3s duration, 15s CD.|
-|![Meikyo Shisui](https://xivapi.com/i/003000/003167_hr1.png)|Meikyo Shisui|Allows use of up to 3 Weaponskills without combo requirements. Grants Fugetsu on use of Gekko and Fuka on use of Kasha. Excludes laijutsu and Ogi Namikiri. 15s duration, 55s CD.|
+|![Meikyo Shisui](https://xivapi.com/i/003000/003167_hr1.png)|Meikyo Shisui|Allows use of up to three Weaponskills without combo requirements. Grants Fugetsu on use of Gekko and Fuka on use of Kasha. Excludes laijutsu and Ogi Namikiri. 15s duration, 55s CD.|
 |![Meditate](https://xivapi.com/i/003000/003172_hr1.png)|Meditate|Channeled Kenki and Meditation stack generation for 15s. Initial cast on the GCD. +10 Kenki (Max 50) and +1 Meditation stack (Max 3) per tick. Cancelled upon movement or action. Can only be used in combat. 60s CD.|
 |![Hagakure](https://xivapi.com/i/003000/003176_hr1.png)|Hagakure|Consumes all Sen, +10 Kenki for each consumed. 5s CD.|
 |![Ikishoten](https://xivapi.com/i/003000/003179_hr1.png)|Ikishoten|+50 Kenki. Can only be used in combat. Grants Ogi Namikiri Ready buff for 30s. 120s CD.|
