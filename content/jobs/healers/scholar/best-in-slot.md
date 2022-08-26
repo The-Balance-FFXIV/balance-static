@@ -46,9 +46,9 @@ bis:
     name: 2.31 low-pi set
   - type: etro
     description: >-
-      * Safe to run in any enviorment.
+      * Safe to run in any environment.
 
-      * A ton of extra MP for those who want to start high before removing piety
+      * A ton of extra MP for those who want to start high before removing Piety.
 
       * Gives a good Chain and Bio alignment, however downtime will mess this up.
 
@@ -59,7 +59,7 @@ bis:
     description: >-
       * Safe to run
 
-      * This set should be safe to run, but you may need to add extra piety if you need to
+      * This set should be safe to run, but you may need to add extra Piety.
 
       * Gives a good Chain and Bio alignment, however downtime will mess this up.
 
