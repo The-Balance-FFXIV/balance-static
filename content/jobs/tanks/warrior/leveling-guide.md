@@ -13,13 +13,15 @@ changelog:
     message: Updated for Endwalker.
   - date: 2022-04-29T22:00:35.226Z
     message: Updated for Patch 6.11
+  - date: 2022-08-25T15:53:46.126Z
+    message: Added a lv90 note.
 ---
 Henlo team!
 
 We heard you needed some pointers on how to play WAR while leveling. The splits below are done based on what skills you unlock, and what you should take into account.
 
 * Do your job quests every five levels.
-* Upgrade your gear every 2-5 levels.
+* Upgrade your gear every two to five levels.
 * Remember your role actions.
 
 - - -
@@ -213,5 +215,7 @@ We can now spend three stacks inside even-minute party buffs, and one stack insi
 
 
 This leads to cycles of 3-1, which repeats every two minutes.
+
+# Level 90: Primal Rend
 
 **You did it.** You reached the end-game. Go read [the full guide](/jobs/tanks/warrior/basic-guide).
