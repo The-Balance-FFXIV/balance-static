@@ -1,8 +1,8 @@
 ---
 title: Bard Best in Slot (BiS)
 layout: bis
-patch: "6.05"
-lastmod: 2022-01-06T00:57:44.723Z
+patch: "6.20"
+lastmod: 2022-08-24T12:31:38.436Z
 changelog:
   - date: 2021-10-26T02:40:27.765Z
     message: Created page
@@ -12,21 +12,14 @@ changelog:
     message: i600 6.05 BiS set added, i580 pentamelded prog BiS added
 bis:
   - type: etro
-    description: >-
-      We recommend you purchase the tome bracelet first, then boots, then
-      pants. 
-
-
-      The order of the last three pieces can depend on your loot rolls, etc. But if you're upgrading from pentamelds, the accessories will be slightly better upgrades than the hat.
-
-
-      Note the food and the SkS meld in the bow. This is to hit 2.48 with the best possible efficiency, which we like for some advanced rotational reasons. See [Frequently Asked Questions](/jobs/ranged/bard/faq/) for details until the advanced guide is ready.
-    link: cec981af-25c7-4ffb-905e-3024411b797a
-    name: i600 Best In Slot
+    description: We recommend you purchase the tome bracelet first, then ring, then
+      gloves, then pants. If you win a twine early, get pants before gloves.
+    name: i630 Best In Slot
+    link: 2a242f9b-8a41-4d09-9e14-3c8fb08e97e4
   - type: etro
     description: ""
-    name: i580 pentamelded Asphodelos prog BiS
-    link: 26b27945-d54b-4f86-a4a2-6334447875aa
+    name: i612 Pentamelded Abyssos Savage Week 1 Prog Set
+    link: 74dca178-9958-490c-a605-5a4fdb88f1ac
 authors:
   - Balance-BRD-Staff
 ---
