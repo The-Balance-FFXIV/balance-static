@@ -358,22 +358,22 @@ While there is not much optimization or advanced theorycrafting here, I wanted t
 ![](/img/jobs/rpr/even_to_odd_filler.png)
 
 * After opener Enshroud and Double Enshroud phases
-* 10 Filler GCDs  (Combo actions are preferred)
+* 10 Filler GCDs (combo actions are preferred)
 * Two Soul Slices
 * Two Shadow of Deaths, do not overwrite above 60 seconds
-* One Gluttony, Three Blood Stalk Variants
+* One Gluttony, three Blood Stalk Variants
 * Five Gibbet / Gallows
 
 ![Image](/img/jobs/rpr/odd_to_even_filler.png)
 
-* After Single Enshroud (Odd Minute) Windows
-* Eight Filler GCDS (Combo actions are preferred)
+* After single Enshroud (odd Minute) windows
+* Eight filler GCDS (combo actions are preferred)
 * Two Soul Slices
 * One Shadow of Death, do not overwrite above 60 seconds
-* One Gluttony, Three Blood Stalk Variants
+* One Gluttony, three Blood Stalk variants
 * Five Gibbet / Gallows
 
-Understanding how these work is crucial to understanding the next part of this document. These filler windows assume you are Enshrouding every minute and twice every two minutes, and that the filler count begins after the Communio. 
+Understanding how these work is crucial to understanding the next part of this document. These filler windows assume you are Enshrouding every minute and twice every two minutes and that the filler count begins after the Communio. 
 
 - - -
 
@@ -387,14 +387,14 @@ There are three situations here:
 2. Shadow of Death both targets and execute our burst.
 3. Whorl of Death both targets, use a combo action and execute our burst.
 
-Since we have worked out the value of an average combo GCD, we can work this out. First, let's establish the splash values on the three aforementioned abilities:
+Since we have worked out the value of an average combo GCD, we can work this out. First, let us establish the splash values on the three aforementioned abilities:
 
 * Gluttony: 375
 * Plentiful Harvest: 320
 * Communio: 400
 * Total: 1095
 
-Now, let's break apart each situation and their potency gain.
+Now, let us break apart each situation and their potency gain.
 
 1. 300 (Shadow of Death) + 525 (Combo Action) + 1095 (Splash damage) = 1920
 2. 300 (Shadow of Death) + 300 (Shadow of Death) + 1095 (Splash damage) * 1.1 (Death's Design on splash target) + 133 (10 extra Soul)  = 1949.5
@@ -402,7 +402,7 @@ Now, let's break apart each situation and their potency gain.
 
 From this evaluation, we can see that situation number three offers us the best result, as long as that extra combo action turns into potency later on down the line.
 
-Another situation to examine is if the two targets would both live and die with the buff which is a relatively easy solve. The extra 10 Soul gained on the WoD has an estimated value of 144.55 potency, while the potency lost is 100 when you WoD on two targets. This gain is furthered if you end up placing a single GCD on the second target.
+Another situation to examine is if the two targets would both live and die with the buff, which is a relatively easy solve. The extra 10 Soul gained on the WoD has an estimated value of 144.55 potency, while the potency lost is 100 when you WoD on two targets. This gain is furthered if you end up placing a single GCD on the second target.
 
 - - -
 
@@ -414,9 +414,9 @@ At a 2.5s GCD, Arcane circle drifts .5s each rotation and Gluttony drifts anywhe
 
 ![](https://lh4.googleusercontent.com/W_q6GzJ6Sbu9HXKWO0aagP0kLJm4YRPAw7wwCfVIyAPg1RBQB4eDTLjfeOqPbjwB6R00px_L6zuocURZdEPFObn9bKjCOe4vVyUqH4XhTFSyRYHrl2O-A4avw76uqNVVJzbaHct6 "Chart")![](/img/jobs/rpr/arcanedrift.png "Chart")
 
-All of these rotations assumed full uptime, except for one disconnect at around three minutes, in which Harvest Moon was used. 
+All of these rotations assumed full uptime, except for one disconnect at around three minutes in which Harvest Moon was used. 
 
-As we can tell, in terms of drifting management, a 2.48 GCD offers us the least risk, with 2.49 not being too far behind. 2.49 is only a single skill speed meld, while 2.48 will require some investment.  As of 6.05 and the new raid gear, the natural 2.5s GCD set is really strong and hits stat tiers really well. It is currently ahead of a single meld 2.49 set by a slight margin. While we know that 2.49 aligns better with raid buffs, the gain vs. loss of the two sets will have to be compared.
+As we can tell, in terms of drifting management, a 2.48 GCD offers us the least risk, with 2.49 not being too far behind. 2.49 is only a single skill speed meld, while 2.48 will require some investment.  As of 6.05 and the new raid gear, the natural 2.5s GCD set is really strong and hits stat tiers very well. It is currently ahead of a single meld 2.49 set by a slight margin. While we know that 2.49 aligns better with raid buffs, the gain vs. loss of the two sets will have to be compared.
 
 ![](/img/jobs/rpr/ffxiv_22122021_150141_799.png)
 
@@ -424,7 +424,7 @@ As we can tell, in terms of drifting management, a 2.48 GCD offers us the least 
 
 ## Reaper Damage Delay
 
-Below is the damage delay for all of the Reaper weaponskills, abilities and spells. Big thanks to Shalfu Nyan for putting this together. This information is incredibly useful because it will help determine when an ability will fall into raid buffs or when you may risk ghosting a weaponskill. For example, if a boss is about to jump you want to try and avoid using Soul Slice, Plentiful Harvest or Harvest Moon as they take a long time to register damage and may end up being ghosted.
+Below is the damage delay for all of the Reaper weaponskills, abilities and spells. Big thanks to Shalfu Nyan for putting this together. This information is incredibly useful because it will help determine when an ability will fall into raid buffs or when you may risk ghosting a weaponskill. For example, if a boss is about to jump, you want to try and avoid using Soul Slice, Plentiful Harvest or Harvest Moon as they take a long time to register damage and may end up being ghosted.
 
 ![](/img/jobs/rpr/damagedelayrpr.png)
 
@@ -432,9 +432,9 @@ Below is the damage delay for all of the Reaper weaponskills, abilities and spel
 
 ## Disconnect Mapping
 
-Disconnecting will not be super exciting for Reaper. We have one Harvest Moon we can use in between each phase, and one Instant Harpe every 20 seconds from Egress. Outside of that, we will have to slidecast, which isn’t always possible. 
+Disconnecting will not be super exciting for Reaper. We have one Harvest Moon we can use between each phase and one Instant Harpe every 20 seconds from Egress. Outside of that, we will have to slidecast, which is not always possible. 
 
-It is important to remember that you don’t have to use Ingress/Egress and go for the instant Harpe immediately. A good example is Shiva’s Icelit Dragonsong. Here, melees will have to disconnect for upward of four GCDs, and will have to move quite a bit during one of those GCDs. What you can do here is hardcast two Harpes, before having the move to dodge your puddles, where you can Harvest Moon and then Ingress and instant cast Harpe to maintain uptime.
+It is important to remember that you do not have to use Ingress/Egress and go for the instant Harpe immediately. A good example is Shiva’s Icelit Dragonsong. Here, melees will have to disconnect for upward of four GCDs, and will have to move quite a bit during one of those GCDs. What you can do here is hardcast two Harpes before having to move to dodge your puddles, then you can Harvest Moon and then Ingress and instant cast Harpe to maintain uptime.
 
 Plentiful Harvest and Guillotine also have some large ranges, and may also be used for disconnect optimization depending on the fight. This will require planning, otherwise you will lose a lot of potency. 
 
@@ -444,7 +444,7 @@ Lastly you can also use the odd-minute Enshroud to plan your disconnects. See th
 
 ## Limit Break III
 
-Nothing super special here. Limit Break III will cost us about three GCDs, or roughly around 1539 potency (assuming that Soul could have been turned into something). Early-combat LB3 will be pretty rough on Reaper, and will most likely mean skipping or delaying a Shroud window. Ideally, you want to LB3 towards the end of combat, after your last Enshroud window.
+Nothing super special here. Limit Break III (LB3) will cost us about three GCDs, or roughly around 1539 potency (assuming that Soul could have been turned into something). Early combat LB3 will be pretty rough on Reaper and will most likely mean skipping or delaying a Shroud window. Ideally, you want to LB3 towards the end of combat after your last Enshroud window.
 
 ![](/img/jobs/rpr/2021-12-07_00-02-00-559_almastudio_colorpop.png)
 
@@ -469,7 +469,7 @@ Sequence:
     * Unlike the previous burst you will want to Shadow of Death once before the burst.
   * If you opened with a first oGCD Arcane Circle, the first two minute burst should be at 6s on Arcane Circle CD.
 * Do whatever combo action you are on. Whatever you click here will change the ending of this sequence. 
-* Enshroud (Immediately after GCD)
+* Enshroud (immediately after GCD)
 * Void Reaping
 * Cross Reaping
 * Shadow of Death >> Middle Weave Potion
@@ -491,18 +491,18 @@ Sequence:
 
 Description:
 
-* The ideal time to enter Enshroud is after a GCD where your Arcane Circle recast is below nine seconds. The GCD you hit before you enter Enshroud is important because it will impact how the end of this rotation looks.
+* The ideal time to enter Enshroud is after a GCD when your Arcane Circle recast is below nine seconds. The GCD you hit before you enter Enshroud is important because it will impact how the end of this rotation looks.
 
   * You ideally want Arcane Circle to happen around XX5 on the clock. If you opened with a first oGCD Arcane Circle then you will want to push it back during your first two minute window. You can do this by simply entering the first Double Enshroud a GCD later.
 * Your first two GCDs in this sequence should be two Reaping abilities and your third should be Shadow of Death followed by a late weave potion. This will be key to squeezing out as much potency as you can with a potion.
-* Your fourth GCD will be a reaping ability and this will be where you want to squeeze Arcane Circle into.
+* Your 4th GCD will be a reaping ability and this will be where you want to squeeze Arcane Circle into.
 * After your second Communio, you have a few potential paths based on your current situation:
 
   * If you are not in a combo, have 50 Soul, and Gluttony is off cooldown, use it after the Communio and follow up with Gibbet/Gallows
-  * If you are not in a combo, don’t have 50 Soul, or Gluttony is on cooldown, then use a Soul Slice as long as it won’t overcap you, and proceed with Gluttony into Gibbet/Gallows
-  * If you are in a combo, then you must use a combo ability here in order to maintain it. The window is tight, so don’t hesitate. Following that combo, if you have 50 Soul, then execute Gluttony, otherwise you will have to Soul Slice here, followed by Gluttony.
+  * If you are not in a combo, do not have 50 Soul, or Gluttony is on cooldown, then use a Soul Slice, as long as it will not overcap you, and proceed with Gluttony into Gibbet/Gallows
+  * If you are in a combo, then you must use a combo ability here in order to maintain it. The window is tight, so do not hesitate. Following that combo, if you have 50 Soul, then execute Gluttony, otherwise you will have to Soul Slice here, followed by Gluttony.
 
-We won’t always have to use Harvest Moon for movement, as it is likely that there will be a few bosses where we can maintain full uptime on a boss and will want to use Harvest Moon for damage. As of right now, this is the best spot we have found for it. Due to how restrictive our burst is and how the trade to fit Harvest Moon in the opener is small, replacing a 300 potency GCD under potion is going to be its best damage gain.
+We will not always have to use Harvest Moon for movement, as it is likely that there will be a few bosses where we can maintain full uptime on a boss and will want to use Harvest Moon for damage. As of right now, this is the best spot we have found for it. Due to how restrictive our burst is and how the trade to fit Harvest Moon in the opener is small, replacing a 300 potency GCD under potion is going to be its best damage gain.
 
 This optimization requires you to insert a Shadow of Death sometime before you enter your Double Shroud window, and it will create a very tight Arcane Circle weave window. If pulled off successfully, you will land a Harvest Moon on the enemy with most raid buffs in play, the exception being Dancer buffs. 
 
@@ -540,7 +540,7 @@ Sequence:
 
 Description:
 
-There will be cases where you will be unable to Shadow of Death twice during Shroud and Harvest Moon either isn’t available, or will need to be used later. It could be an untimely boss jump, weird re-opener, or a forced buff hold period. The goal for these situations is to at least extend the first Lemure phase by one Shadow of Death, so entering Shroud with sub-30s on Death’s Design is optimal. The position of the Shadow of Death is variable, but ideally you want to use it right before you will use Arcane Circle. This variation is the weakest of our burst options, since your last Communio can miss a good chunk of raid buffs. 
+There will be cases when you will be unable to Shadow of Death twice during Shroud and Harvest Moon either is not available or will need to be used later. It could be an untimely boss jump, weird re-opener, or a forced buff hold period. The goal for these situations is to at least extend the first Lemure phase by one Shadow of Death, so entering Shroud with sub-30s on Death’s Design is optimal. The position of the Shadow of Death is variable, but ideally you want to use it right before you will use Arcane Circle. This variation is the weakest of our burst options, since your last Communio can miss a good chunk of raid buffs. 
 
 Sometimes, if the fight allows it, it may be better to just correct your Death’s Design timer and go for a default double Shroud window. This can be accomplished at the cost of only 10 Soul, which means fights that end with 40 or less Soul can do this without worrying about punishment. 
 
@@ -555,8 +555,8 @@ Sequence:
 * Should have 100 Shroud
 * Less than nine seconds left on Arcane Circle CD
 
-  * If you used first oGCD Arcane Circle opener then this should be 6 seconds if this is your first two minute burst window
-* Infernal Slice (You have to be combo neutral otherwise this doesn’t work) > Enshroud
+  * If you used first oGCD Arcane Circle opener then this should be six seconds if this is your first two minute burst window
+* Infernal Slice (you have to be combo neutral otherwise this does not work) > Enshroud
 * Shadow of Death
 * Void Reaping
 * Cross Reaping > Lemure’s Slice
@@ -589,13 +589,13 @@ Triple Shroud Windows are a tool that we have available in our kit. Using the ab
 * The potion timing is extremely tight and with high ping could miss the last Communio. 
 * At 2.49, with full uptime, this can happen naturally if the fight allows it.
 
-The triple Shroud window is near-peak optimization for Reaper, requiring specific restrictions and mapping. The overall DPS gains are very minor and it can be quite risky to pool a lot of resources for so long, making a death extremely punishing. At 2.49 this will line up perfectly in a full uptime scenario so if it's something you are looking to attempt you should certainly try but keep in mind the risks and difficulty when attempting it. If, for whatever reason, you attempt the Triple Shroud Window and you cannot enter combo neutral, then do the Double Enshroud and dump your extra Enshroud somewhere later in the fight.
+The triple Shroud window is near-peak optimization for Reaper, requiring specific restrictions and mapping. The overall DPS gains are very minor and it can be quite risky to pool a lot of resources for so long, making a death extremely punishing. At 2.49 this will line up perfectly in a full uptime scenario, so if it is something you are looking to attempt then you should certainly try, but keep in mind the risks and difficulty when attempting it. If, for whatever reason, you attempt the Triple Shroud Window and you cannot enter combo neutral, then do the Double Enshroud and dump your extra Enshroud somewhere later in the fight.
 
 - - -
 
 # Graduate Studies: Dead Zoning
 
-Now, let’s talk about the most boring part of Reaper optimization, a phase that I am calling the “Dead Zone” because of how lifeless it may feel. As we already discussed, in order to adapt to the 120s buff cycle, the Reaper has to remove one GCD from its 123 second rotation. This means that every 120s, the Reaper loses about 10 Soul. This isn’t super problematic in terms of Enshrouding on time, as we won’t have to delay Enshroud until around the ten minute mark. It is, however, problematic when it comes to our best friend, Gluttony.
+Now, let us talk about the most boring part of Reaper optimization: a phase that I am calling the “Dead Zone” because of how lifeless it may feel. As we already discussed, in order to adapt to the 120s buff cycle, the Reaper has to remove one GCD from its 123 second rotation. This means that every 120s, the Reaper loses about 10 Soul. This is not super problematic in terms of Enshrouding on time, as we will not have to delay Enshroud until around the ten minute mark. It is, however, problematic when it comes to our best friend, Gluttony.
 
 As we discussed during the Double Shroud windows, there are three factors that will cause Gluttony to drift: entering double Shroud with a combo, ending double Shroud without enough Soul, and Gluttony naturally drifting due to its 60 second cooldown and the 120.5s rotation that Reaper has. Ultimately, we can only really control one of those factors without losing any potency, and that is how much Soul we have when exiting our second Shroud.
 
@@ -603,21 +603,21 @@ The concept of Dead Zoning is pooling our resources during the first minute of t
 
 ![Image](/img/jobs/rpr/dead_zone_filler.png)
 
-* After Opener Enshroud
-* 24 Filler GCDs (Combo actions preferred)
+* After opener Enshroud
+* 24 filler GCDs (combo actions preferred)
 * Three Soul Slices, careful not to overcap soul
 * Three Shadow of Deaths
-* Two Gluttonys, Five Blood Stalk Variants
+* Two Gluttonys, five Blood Stalk variants
 * Nine Gibbet / Gallows
 
 By doing this we do a few things:
 
 1. Ensure we have enough Soul every time we enter a double Shroud window to execute Gluttony at the end.
-2. Create an insurance policy, in the event we have to disconnect or the boss jumps at odd times. 
+2. Create an insurance policy in the event we have to disconnect or the boss jumps at odd times. 
 
 ![](/img/jobs/rpr/soul_chart.png)
 
-Above you can see how, on average, we have enough Shroud and Soul to execute our burst at any time when we pool for the first minute. You will ultimately be holding onto a lot of resources all the time and the issue of overcapping becomes a potential problem if you aren’t paying attention.
+Above you can see how, on average, we have enough Shroud and Soul to execute our burst at any time when we pool for the first minute. You will ultimately be holding onto a lot of resources all the time and the issue of overcapping becomes a potential problem if you are not paying attention.
 
 ![](/img/jobs/rpr/regular_vs_dead_zone.png)
 
@@ -630,25 +630,25 @@ Dead Zoning comes with some disadvantages though, which are important to talk ab
 * You are holding onto a lot of resources all the time. This makes an untimely death a bigger hit on your DPS than just using your resources as needed.
 * Overcapping is a real monster that you have to worry about.
 
-Ultimately, we aren’t sure what will be better for content until we have the content, but Dead Zoning could definitely be a tactic we use in optimization. Due to its high risk factor though, we recommend not doing it during prog, as a death could lead to a lot more potency lost.
+Ultimately, we are not sure what will be better for content until we have the content, but Dead Zoning could definitely be a tactic we use in optimization. Due to its high risk factor though, we recommend not doing it during prog, as a death could lead to a lot more potency lost.
 
 - - -
 
 # Graduate Studies: Assigning Value to Resource
 
-This section will provide some insight on how we are valuing the Shroud and Soul Gauges. This will get a bit technical, but will also make several assumptions. The only way that we can effectively view these gauges is in a vacuum where we assume every 10 Gauge will be spent. 
+This section will provide some insight into how we are valuing the Shroud and Soul Gauges. This will get a bit technical and will also make several assumptions. The only way we can effectively view these gauges is in a vacuum where we assume every 10 Gauge will be spent. 
 
 - - -
 
 ## Assigning Values to Soul and Shroud
 
-Because both Soul and Shroud have GCD values tied to their resource usage, we need to establish what GCDs they are effectively “replacing”. The safest assumption will be our combo GCDs, so we need to establish an average there, which is 407 potency. 
+Because both Soul and Shroud have GCD values tied to their resource usage, we need to establish what GCDs they are effectively “replacing.” The safest assumption will be our combo GCDs, so we need to establish an average there, which is 407 potency. 
 
 Special thanks to June over on The Balance discord for coming up with a better way to solve this equation:
 
 For all of these equations Soul = X, Shroud = Y
 
-Shroud is 3420 potency over the course of 8.5 seconds. In order to best represent the GCD gain loss over the period of Enshroud, we need to examine how many GCDs we could have used within that Shroud window, which at a 2.5 GCD is 3.4. With the aforementioned assumption that  a GCD is 407 potency, plus the value of Soul, we get the following equation for the value of 50 Shroud:
+Shroud is 3420 potency over the course of 8.5 seconds. In order to best represent the GCD gain loss over the period of Enshroud, we need to examine how many GCDs we could have used within that Shroud window, which at a 2.5 GCD is 3.4. With the aforementioned assumption that a GCD is 407 potency, plus the value of Soul, we get the following equation for the value of 50 Shroud:
 
 50Y = 3420 - 3.4(407 + 10x)
 
@@ -660,7 +660,7 @@ Next we can evaluate how much Soul is worth. This equation is slightly easier if
 
 60X = 513 +10Y
 
-The cross section of both X and Y using both of these equations can be identify by either using an Algebra Calculator, graphing them out or working out the formulas yourself. Regardless the answer is: 
+The cross section of both X and Y using both of these equations can be identified by either using an Algebra Calculator, graphing them out or working out the formulas yourself. Regardless, the answer is: 
 
 10 Soul = 137.76 Potency
 
@@ -670,10 +670,10 @@ The cross section of both X and Y using both of these equations can be identify 
 
 ## Assigning Value to Gluttony
 
-While it may not be super important to assign a potency value to Gluttony, it could potentially be useful for scenarios or quickly napkin-mathing situations. The best way to look at a Gluttony isn’t by itself, but as a replacement for a Bloodstalk variant. They both share the same cost, but Blood Stalks are always available, while Gluttony has a minute-long cooldown.  We can do this by using some bits and pieces of the equation about to piece things together:
+While it may not be super important to assign a potency value to Gluttony, it could potentially be useful for scenarios or quickly napkin-mathing situations. The best way to look at a Gluttony isn’t by itself, but as a replacement for a Bloodstalk variant. They both share the same cost, but Blood Stalks are always available, while Gluttony has a minute-long cooldown.  We can do this by using some bits of the equation and piecing things together:
 
 * Gluttony gains +100p over an Unveiled action on use.
 * Gluttony provides an additional Shroud building GCD or = 520 + 10Y - 407 -10X
 
-  * Since we have the values for X and Y, we can plugin them into come up with a potency gain of 288.8, assuming we are able to utilize the Shroud.
-* We can conclude that if the Shroud is used, then Gluttony is gain of 388.8 potency. If we remove the resources from the equation to simulate losing a Gluttony cast that would not gain a Shroud or lose a Soul spender, we get that its gain is only 213 potency.
+  * Since we have the values for X and Y, we can plug them in and come up with a potency gain of 288.8, assuming we are able to utilize the Shroud.
+* We can conclude that if the Shroud is used, then Gluttony is a gain of 388.8 potency. If we remove the resources from the equation to simulate losing a Gluttony cast that would not gain a Shroud or lose a Soul spender, we get that its gain is only 213 potency.
