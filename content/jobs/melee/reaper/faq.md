@@ -10,8 +10,8 @@ changelog:
     message: Updated Potion/Food FAQ
 qna:
   - question: Which Potion/Food should RPR use?
-    answer: The highest available Strength potion. Currently, that is Grade 6
-      Tincture of Strength. Current food is Pumpkin Potage
+    answer: The highest available Strength potion. Currently, that is Grade 7
+      Tincture of Strength. Current food is Carrot Pudding
   - question: Why do we use Arcane Circle halfway through the GCD instead of in the
       second weave space?
     answer: "Because there are six seconds after using Arcane Circle before you are
