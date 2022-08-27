@@ -192,10 +192,10 @@ Let’s break apart this opener and discuss and explain a few things:
   * Harpe has a 1.3s cast time and a small damage delay time. You can start casting Harpe at 2s and have it go off around the time a fight starts. The remaining 1.1-.1.2 seconds will cover the fact that you have to run (or Ingress) to the boss in order to start meleeing. It is essentially free damage that should never be overlooked.
 * Why would I use this opener? There are actually three main reasons you would consider using this opener:
 
-  * For Better Gluttony alignment. Because it uses Gluttony so early, it could net you an extra or more favorable use. Endwalker's first two Extreme trials both see unique cases of this. The first trial allowing you to secure an Extra Harvest Moon in the first or the second EX who jumps at around the time Gluttony comes off CD.
-  * Prevent Plentiful Harvest from clipping. This is your best option to ensure that you can Plentiful Harvest with no clip at higher skillspeed or ping. 
-  * * When using this opener you have a few options for the two minute burst window. If you still need to maintain Gluttony on cooldown you can do a Shroud > Gluttony > Shroud burst window which is detailed below in the Gluttony Split section below. 
-    * You can also enter into a Double or Triple Enshroud window, this will push back Gluttony to the later time slot but this may be useful if later on in a fight if the aim was to get Gluttony earlier in a phase. You enter this burst sequence at any two minute marker of the fight.
+  * For Better Gluttony alignment. Because it uses Gluttony so early, it could net you an extra or more favorable use. Endwalker's first two Extreme trials both see unique cases of this, with the first trial allowing you to secure an Extra Harvest Moon and the second Extreme that has the boss jump at around the time Gluttony comes off CD.
+  * Prevent Plentiful Harvest from clipping. This is your best option to ensure that you can Plentiful Harvest with no clip at higher skill speed or ping. 
+  * * When using this opener, you have a few options for the two minute burst window. If you still need to maintain Gluttony on cooldown you can do a Shroud > Gluttony > Shroud burst window which is detailed below in the Gluttony Split section. 
+    * You can also enter into a Double or Triple Enshroud window, which will push back Gluttony to the later time slot, but this may be useful later on in a fight if the aim was to get Gluttony earlier in a phase. You enter this burst sequence at any two minute marker of the fight.
 
 - - -
 
@@ -210,15 +210,15 @@ The priority for playing Reaper in such a manner is the following:
 3. Use Harpe if you are out of melee range for one GCD.
 4. Use Plentiful Harvest IF it is about to fall off or you would lose a usage.
 5. Use Gibbet, Gallows or Guillotine if you have any amount of Reaver stacks.
-6. Use Waxing Slice,  Infernal Slice, or Nightmare Scythe if your combo is going to fall off.
+6. Use Waxing Slice, Infernal Slice, or Nightmare Scythe if your combo is going to fall off.
 
    * Remember that combos last 30s in Endwalker!
 7. Maintain Death’s Design on all targets that will take damage.
 8. Use Soul Slice if you have 50 or less Soul Gauge.
-9. Use Plentiful Harvest if you have 50 or less Shroud Gauge
+9. Use Plentiful Harvest if you have 50 or less Shroud Gauge.
 10. Enter Enshroud if you have 50 Shroud and Gluttony has a cooldown greater than ten seconds.
-11. Use a Blood Stalk variant if you have 50 Soul and Gluttony isn’t about to come of cooldown
-12. Use a Combo action such as Slice, Waxing Slice, Infernal Slice, Spinning Scythe or Nightmare Scythe as filler.
+11. Use a Blood Stalk variant if you have 50 Soul and Gluttony is not about to come off cooldown.
+12. Use a combo action such as Slice, Waxing Slice, Infernal Slice, Spinning Scythe or Nightmare Scythe as filler.
 
 - - -
 
@@ -226,7 +226,7 @@ The priority for playing Reaper in such a manner is the following:
 
 ### **Double Enshroud Window**
 
-Every two minutes, we will be entering our burst. We currently have two types of burst windows that we can do on the two minute mark. The first, and overall best, will be the Double Shroud window. Normally, doing two Enshrouds back to back, or within one GCD of each other, is impossible because of the 15 second cooldown timer of Enshroud. We can, however, extend the time we are in Shroud by using the few GCDs we have available during the buff that do not interact with the buff itself. Shadow of Death, Harvest Moon and Harpe are all available to be used while we are in Enshroud and out of those three, one of them is critical to how we play the job -- Shadow of Death. Of course, we don’t want to overcap our Death’s Design timers, so the goal here is to enter Enshroud with only a few seconds left on the Death’s Design debuff. Here is the breakdown of what the ideal Double Enshroud window looks like:
+Every two minutes, we will be entering our burst. We currently have two types of burst windows that we can do on the two minute mark. The first, and overall best, will be the Double Shroud window. Normally, doing two Enshrouds back to back, or within one GCD of each other, is impossible because of the 15 second cooldown timer of Enshroud. We can, however, extend the time we are in Shroud by using the few GCDs we have available during the buff that do not interact with the buff itself. Shadow of Death, Harvest Moon and Harpe are all available while we are in Enshroud. Out of those three, one is critical to how we play the job: Shadow of Death. Of course, we do not want to overcap our Death’s Design timers, so the goal here is to enter Enshroud with only a few seconds left on the Death’s Design debuff. Here is the breakdown of what the ideal Double Enshroud window looks like:
 
 ![](/img/jobs/rpr/double_communio.png)
 
@@ -237,7 +237,7 @@ Sequence:
   * Death’s Design should only have 5-6 seconds left at this point.
   * If you opened with a first oGCD Arcane Circle, the first two minute burst should be at 6s on Arcane Circle CD.
 * Do whatever combo action you are on. Whatever you click here will change the ending of this sequence. 
-* Enshroud (Immediately after GCD)
+* Enshroud (immediately after GCD)
 * Void Reaping
 * Shadow of Death >> Middle Weave Potion
 * Cross Reaping
@@ -254,7 +254,7 @@ Sequence:
 
   * If no combo, 50 Soul and Gluttony on CD use Gluttony and do Gibbet / Gallows.
   * If no combo, < 50 Soul then use Soul Slice into Gluttony and do Gibbet / Gallows.
-  * If in combo then use the combo action. After combo if you are sub-50 Soul you will have to soul slice then Gluttony, otherwise Gluttony after combo and do Gibbet / Gallows.
+  * If in combo then use the combo action. After combo if you are sub-50 Soul you will have to Soul Slice then Gluttony, otherwise Gluttony after combo and do Gibbet / Gallows.
 * Finish spending Soul Slices and Soul after this sequence to maximize potion.
 
 Description:
@@ -265,28 +265,26 @@ Description:
 * If you are looking to potion during this window, you ideally want your first Shroud GCD to be the unbuffed version of either Void or Cross Reaping. Your second GCD will be Shadow of Death, and this is where you will want to weave your potion. After that, you will want to use the other Void or Cross Reaping ability.
 
   * The order of these first three GCDs only really matter when you are trying to min/max your potion timing. Almost all double Shroud windows can follow this pattern and be fine, but some timelines or mappings may require you to Shadow of Death on the first GCD to maintain the Death’s Design debuff.
-* Your fourth GCD in this Shroud window should be Shadow of Death, and you will want to weave an Arcane Circle in between this period.
+* Your 4th GCD in this Shroud window should be Shadow of Death, and you will want to weave an Arcane Circle within this period.
 
-  * It’s possible to rework this rotation and weave Arcane Circle in between the Reaping skill, but the timer is a lot more strict which could lead to unnecessary drift. (You will see an example of this when we discuss using Harvest Moon in this window).
+  * It is possible to rework this rotation and weave Arcane Circle between the Reaping skill, but the timer is a lot more strict and could lead to unnecessary drift. (You will see an example of this when we discuss using Harvest Moon in this window.)
 * After your second Communio, you have a few potential paths based on your current situation:
 
   * If you are not in a combo, have 50 Soul, and Gluttony is off cooldown, use it after the Communio and follow up with Gibbet/Gallows.
-  * If you are not in a combo, don’t have 50 Soul, or Gluttony is on cooldown, then use a Soul Slice as long as it won’t overcap you, and proceed with Gluttony into Gibbet/Gallows.
-  * If you are in a combo, then you must use a combo ability here in order to maintain it. The window is tight, so don’t hesitate. Following that combo, if you have 50 Soul, then execute Gluttony, otherwise you will have to Soul Slice here, followed by Gluttony.
+  * If you are not in a combo, do not have 50 Soul, or Gluttony is on cooldown, then use a Soul Slice as long as it will not overcap you, and proceed with Gluttony into Gibbet/Gallows.
+  * If you are in a combo, then you must use a combo ability here in order to maintain it. The window is tight, so do not hesitate. Following that combo, if you have 50 Soul, then execute Gluttony, otherwise you will have to Soul Slice here, followed by Gluttony.
 
-    * This can potentially drift your Gluttony further than it naturally drifts -- that is okay.
+    * This can potentially drift your Gluttony further than it naturally drifts and that is okay.
 
 ## Gluttony Split Enshroud
 
-If you use the Early Gluttony opener to maintain Gluttony’s cooldown, you will also need to alter your burst window in order to maintain its cooldown. This burst window is objectively weaker but comes with the upside of extra Gluttony usages depending on the fight's phasing or kill time. This burst window doesn’t come without its own set of issues though and at some point you will want to play Reaper with a priority system.
+If you use the Early Gluttony opener to maintain Gluttony’s cooldown, you will also need to alter your burst window in order to maintain its cooldown. This burst window is objectively weaker but comes with the upside of extra Gluttony usages depending on the fight's phasing or kill time. This burst window does not come without its own set of issues though, and at some point you will want to play Reaper with a priority system.
 
-* Slot Consistency: Gluttony will just naturally drift and there isn’t much we can do to control it other than play at higher Skill Speed values. Since our rotation will never be exactly 120 seconds, it will constantly be pressed at a different time in relation to our global cooldown, eventually pushing it to an entirely different time.
-* Soul Generation: At some point, we simply will be unable to accumulate the Soul needed to perform a Double Shroud window with Gluttony in the middle. Ultimately, this changes our burst window and will eventually put us into playing more “ad hoc” (ad hoc meaning where we just play off of a priority system rather 
-  than trying to map out our burst).
-* Combo GCD is extremely tight: When executed perfectly the last combo has less than a second remaining.
+* Slot Consistency: Gluttony will just naturally drift and there is not much we can do to control it other than play at higher Skill Speed values. Since our rotation will never be exactly 120 seconds, it will constantly be pressed at a different time in relation to our global cooldown, eventually pushing it to an entirely different time.
+* Soul Generation: At some point, we simply will be unable to accumulate the Soul needed to perform a Double Shroud window with Gluttony in the middle. Ultimately, this changes our burst window and will eventually put us into playing more “ad hoc” (ad hoc meaning where we just play off of a priority system rather than trying to map out our burst).
+* Combo GCD is extremely tight: When executed perfectly, the last combo has less than a second remaining.
 
-Currently this burst window only works at the two minute mark of the fight. Gluttony’s unruly oGCD Timer makes it difficult to pull off and maintain a reasonable window with Arcane Circle. It is recommended to either switch to 
-a standard Double Shroud window at four minutes or play using a priority system afterwards.
+Currently this burst window only works at the two minute mark of the fight. Gluttony’s unruly oGCD timer makes it difficult to pull off and maintain a reasonable window with Arcane Circle. It is recommended to either switch to a standard Double Shroud window at four minutes or play using a priority system afterward.
 
 Below is an example of what a two minute burst could look like while trying to keep Gluttony on CD:
 
@@ -313,11 +311,11 @@ Sequence:
 * Communio
 * Combo GCD or Soul Slice if not in combo
 
-  * The combo will be tight, so with high ping you may miss it.
+  * The combo will be tight, so with high ping you may miss it
 * Soul Slice if previously had to use combo
 * After Soul Slice use Blood Stalk Variant + Gibbet/Gallows
 
-Shadow of Death is not a necessary filler here but still recommended, as long as you don’t overcap. You will want one if you are potion weaving. If you are unable to maintain your combo, due to high ping or other factors it is recommended that you simply play a priority rotation instead. 
+Shadow of Death is not a necessary filler here but is still recommended, as long as you do not overcap. You will want one if you are potion weaving. If you are unable to maintain your combo, due to high ping or other factors, it is recommended that you simply play a priority rotation instead. 
 
 Ultimately, if you are playing Reaper as a priority system and putting less effort into optimizing your burst, the Early Gluttony opener may be the safer bet. It will lose out on rDPS when fitting potency into raid buffs, but it will always guarantee that your Gluttony will be used on cooldown. If you are looking to optimize, be very familiar with this opener and burst phase, as the chance of it being best for a fight is likely.
 
@@ -327,9 +325,9 @@ Ultimately, if you are playing Reaper as a priority system and putting less effo
 
 ## The Two Minute Potion
 
-Historically, FFXIV players have opted to use potions for the opening burst, for a lot of good reasons. A potion in the opener is sure to catch all raid buffs, will most likely not be interrupted by boss mechanics and ensures that you can get a second or third potion if available. Furthermore, it was almost always optimal. Endwalker is coming to shatter that reality a bit, and it isn’t just for Reaper, but for other jobs as well. The two minute potion option is incredibly potent for Reaper, netting an additional 2000+ potency under potion if you are able to use it at the two minute mark.
+Historically, FFXIV players have opted to use potions for the opening burst, for a lot of good reasons. A potion in the opener is sure to catch all raid buffs, will most likely not be interrupted by boss mechanics and ensures that you can get a second or third potion if available. Furthermore, it was almost always optimal. Endwalker is coming to shatter that reality a bit, and it is not just for Reaper, but for other jobs as well. The two minute potion option is incredibly potent for Reaper, netting an additional 2000+ potency under potion if you are able to use it at the two minute mark.
 
-This isn’t without risk. Due to the potion's cooldown, there is a small window where an opener potion would be better. Fights with a duration of between five to 6.5 minutes and between 9.5 to 11 minutes will always favor an opener potion because you can get a second or third respectively. There is also a chance that the boss may jump during the two minute potion window, which would overall lower its potency.
+This is not without risk. Due to the potion's cooldown, there is a small window where an opener potion would be better. Fights with a duration of between 5 to 6.5 minutes and between 9.5 to 11 minutes will always favor an opener potion because you can get a second or third respectively. There is also a chance that the boss may jump during the two minute potion window, which would overall lower its potency.
 
 Below you can see the effect of a potion used in the opener at six minutes vs. a potion used at two minutes, and then at 6:30. This chart shows us two things: losing a potion usage is never optimal and, if possible, the two minute potion is our best bet.
 
@@ -339,7 +337,7 @@ Below you can see the effect of a potion used in the opener at six minutes vs. a
 
 ## Odd Minute Enshroud
 
-Reaper generates three Shrouds every two minutes but only two can really be used in the two-minute burst window. This leaves the an extra Shroud that can be used for a few things
+Reaper generates three Shrouds every two minutes but only two can really be used in the two-minute burst window. This leaves an extra Shroud that can be used for a few things.
 
 ### Astrologian Cards
 
@@ -347,15 +345,15 @@ An Astrologian can draw a fresh card every 30s and just like us they usually hav
 
 ### Ranged Utility
 
-Lastly you can use this Enshroud for some unique utility optimization. Because Communio has a range of 25y you can plan an Enshroud windows around disconnect windows. Because Enshroud gcds have a 1.5s recast you will have to use a Shadow of Death to more comfortable move out of range. A good example of this is in the first Endwalker Extreme trial. You can see Emiya Bolir perform this trick in this video: https://www.twitch.tv/videos/1231915656.
+Lastly you can use this Enshroud for some unique utility optimization. Because Communio has a range of 25y, you can plan Enshroud windows around disconnect windows. Because Enshroud GCDs have a 1.5s recast, you will have to use a Shadow of Death to more comfortably move out of range. A good example of this is in the first Endwalker Extreme trial. You can see Emiya Bolir perform this trick in this video: https://www.twitch.tv/videos/1231915656.
 
-Be warned that when doing it this way, you want to not over Shadow of Death and you also need to be able to perform all of your Reaping GCDs otherwise this is a loss over just using Harpe for the disconnect.
+Be warned that when doing it this way, you want to not over Shadow of Death and you also need to be able to perform all of your Reaping GCDs, otherwise this is a loss over just using Harpe for the disconnect.
 
 - - -
 
 ## The Filler Period
 
-While there isn’t much optimization or advanced theorycrafting here, I wanted to provide a little insight into what our filler windows look like:
+While there is not much optimization or advanced theorycrafting here, I wanted to provide a little insight into what our filler windows look like:
 
 ![](/img/jobs/rpr/even_to_odd_filler.png)
 
