@@ -34,12 +34,12 @@ The first skill of our basic combo. 170 potency.
 ![BrutalShell](/img/jobs/tanks/gunbreaker/Brutal_Shell.png)
 **Brutal Shell**
 
-The second skill of our basic combo. 260 potency when used after Keen Edge. Heals for 200 potency and gives a shield equal to the amount healed. 
+The second skill of our basic combo. 270 potency when used after Keen Edge. Heals for 200 potency and gives a shield equal to the amount healed. 
 
 ![SolidBarrel](/img/jobs/tanks/gunbreaker/Solid_Barrel.png)
 **Solid Barrel**
 
-The final skill of our basic combo. 340 potency when used after Brutal Shell. Generates one Cartridge in the Powder Gauge. 
+The final skill of our basic combo. 360 potency when used after Brutal Shell. Generates one Cartridge in the Powder Gauge. 
 
 ![BurstStrike](/img/jobs/tanks/gunbreaker/Burst_Strike.png)
 **Burst Strike**
@@ -64,7 +64,7 @@ Grants Ready To Blast
 
 ![Double Down](https://xivapi.com/i/003000/003432_hr1.png)
 
-Delivers an attack to all within 5y of you with a potency of 1,200 for the first enemy, and 20% less for all remaining enemies.
+Delivers an attack to all within 5y of you with a potency of 1,200 for the first enemy, and 15% less for all remaining enemies.
 Cartridge Cost: 2
 
 ![SonicBreak](/img/jobs/tanks/gunbreaker/Sonic_Break.png)
@@ -91,7 +91,7 @@ Second skill of our AoE combo. 150 potency to all targets in a 5y circle around 
 ![FatedCircle](/img/jobs/tanks/gunbreaker/Fated_Circle.png)
 **Fated Circle**
 
-Consumes one Cartridge. 290 potency to all targets in a 5y circle around you. 
+Consumes one Cartridge. 300 potency to all targets in a 5y circle around you. 
 
 ## Offensive Off Global Cooldown Abilities
 
@@ -106,7 +106,7 @@ Cooldown (CD): 60s
 
 Immediately gives three Cartridges in the Powder Gauge. \
 **Only grants two Cartridges below Lvl. 88* \
-CD: 90s
+CD: 120s
 
 ![Continuation](/img/jobs/tanks/gunbreaker/Continuation.png)
 **Continuation**
@@ -142,7 +142,7 @@ CD: 30s
 ![BlastingZone](/img/jobs/tanks/gunbreaker/Blasting_Zone.png)
 **Blasting Zone**
 
-Delivers an attack with a potency of 700.\
+Delivers an attack with a potency of 720.\
 CD: 30s
 
 ![BowShock](/img/jobs/tanks/gunbreaker/Bow_Shock.png)
@@ -329,11 +329,7 @@ One of the main changes is where in your Solid Barrel combo you’ll be when you
 
 Once you finish your Gnashing Fang Combo (Which will contain Double Down and Sonic Break), your next goal is to empty remaining carts (granted by Bloodfest), when your Power Gauge is empty, you revert back to your Solid Barrel combo. If the No Mercy buff is still present and you have generated a cart from Solid Barrel, you immediately dump the cart into Burst Strike to get it under the 20% damage up. You can see the variations below.
 
-The father of Gunbreaker, Rin Karigani, made a chart showing an opener and the subsequent No Mercy Windows in a full uptime scenario.
-
-You can see an example of this rotation here in Rin’s 12 minute rotation showcase: [Endwalker Gunbreaker Opener & 12 minute Rotation | No Commentary](https://youtu.be/Seua-yrZC6s)
-
-![NM Windows](/img/jobs/gnb/gnbopener.jpg "1-2-3 No Mercy + Windows")
+![NM Windows]( "1-2-3 No Mercy + Windows")
 
 &nbsp;
 
@@ -364,7 +360,7 @@ I also have a video where I touch on this. Although it is from Shadowbringers, i
 Something to know about before we go any further is how Skill Speed affects your weaponskills. The more Skill Speed you have, the faster your GCD is but also the shorter the cooldown of your weaponskills. Failure to use Reverse Drift properly can result in messy No Mercy windows and ability placements so it’s worth looking into.
 
 \
-For example: at 2.41GCD (Approx 883 SKS stat) Gnashing has a CD of 29.01s, Double Down has a CD of 58.02s. However SkS does not affect abilities such as No Mercy, Blasting Zone, Rough Divide and Bloodfest. Regardless of your Skill Speed, they will retain their 30s, 60s and 90s cooldowns respectively. 
+For example: at 2.41GCD (Approx 883 SKS stat) Gnashing has a CD of 29.01s, Double Down has a CD of 58.02s. However SkS does not affect abilities such as Blasting Zone, Rough Divide, No Mercy and Bloodfest. Regardless of your Skill Speed, they will retain their 30s, 60s and 120s cooldowns respectively. 
 
 What does this mean?
 
@@ -409,7 +405,7 @@ Bloodfest will always grant three Cartridges. So using it with any carts loaded 
 
 ## **AOE Priority**
 
-![AOE Prio](/img/jobs/gnb/image41.png "AOE Rotation/Priority")
+![AOE Prio](/img/jobs/gnb/gnb-ammended.png "AOE Rotation/Priority")
 
 ## Final Notes
 
