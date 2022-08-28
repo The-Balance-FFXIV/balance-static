@@ -389,21 +389,11 @@ Although we are leaving Gnashing Fang and Jugular Rip out of No Mercy, it secure
 
 Bloodfest is our second indirect/buffing offensive ability. Granting us a full Powder Gauge, it simply enables more gauge expenditure and therefore more damage. Using Bloodfest effectively is a way we can enter an optimal No Mercy without worrying about carts or can provide three Burst Strikes within No Mercy. The two biggest mistakes I see new Gunbreakers do is hold Bloodfest for No Mercy or to use it as reset for downtime; although the latter is not a bad option, it should not be used exclusively for that purpose.
 
-**Bloodfest should be used on cooldown** and, if done so, will line up for big burst windows with No Mercy naturally every three minutes. Delaying Bloodfest is extremely situational and should not be done excessively as it will result in lost usages. Lost usages means lost ammo, lost ammo means lost damage.
+With the changes to Bloodfest in update 6.2, the cooldown is now 2m, which means it'll line up with every 2nd NM after the opener. This forces us to have a hefty burst inside raid buffs now and similarly to other jobs have all of our offensive cooldowns consistently lined up with one another through out the rotation. This in turn makes Bloodfest a lot easier to manage and learn than before.
 
-**Bloodfest is up but No Mercy is on cooldown:**\
-Burst Strike or Fated Circle until your gauge is empty, then use Bloodfest to refill. 
+Similar to before, but now serving a singular purpose, it allows you to refill your Cartridge gauge to place three Burst Strikes into No Mercy. However with BF now also 2m, it can act as a soft reset to the job if you have died or screwed your cart gen.
 
-* If Gnashing Fang is coming up, you can use Gnashing Fang to dump 1 cartridge unless waiting for Gnashing will cause you to hold Bloodfest for several GCDs, in that case, Burst Strike to zero Cartridges ➞ Bloodfest ➞ Gnashing Fang.
-
-**Bloodfest is up and No Mercy is ready:**\
-No Mercy is to be entered the same as any other window, being already at 3/3 Cartridges. 
-
-* Utilize  Gnashing Fang and  Double Down to get to 0/3 Cartridges, then use Bloodfest to gain 3/3 Cartridges again. 
-
-This allows you to refill your Cartridge gauge to place three Burst Strikes into No Mercy.
-
-Bloodfest will always grant three Cartridges. So using it with any carts loaded is a loss.\
+Bloodfest will always grant **three** Cartridges. So using it with any carts loaded is a loss.\
 1 cart loaded + 3 carts from Bloodfest = four Cartridges, **one lost due to overcap!**
 
 ## **AOE Priority**
