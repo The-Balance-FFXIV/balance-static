@@ -4,7 +4,7 @@ card_header_image: /img/jobs/gnb/basic.png
 authors:
   - azazael
   - Balance-GNB-Staff
-patch: "6.11"
+patch: "6.2"
 lastmod: 2022-04-30T02:08:08.026Z
 changelog:
   - date: 2021-10-25T21:29:10.159Z
@@ -13,6 +13,9 @@ changelog:
     message: Updated for Endwalker
   - date: 2022-04-30T02:08:11.464Z
     message: Updated for 6.11 adjustments
+  - date: 2022-08-28T21:10:49.542Z
+    message: Amended potencies for 6.2, adjusted info in AOE info, removed outdated
+      flow chart.
 ---
 # Introduction to Gunbreaker
 
