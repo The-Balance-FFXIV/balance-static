@@ -5,8 +5,8 @@ authors:
   - meru
   - lana
   - Balance-RDM-Staff
-patch: "6.18"
-lastmod: 2021-12-26T21:11:47.823Z
+patch: "6.2"
+lastmod: 2022-08-30T00:52:04.328Z
 changelog:
   - date: 2021-11-15T18:49:06.143Z
     message: Created page
