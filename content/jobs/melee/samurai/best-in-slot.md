@@ -2,7 +2,7 @@
 title: Samurai Best in Slot (BiS)
 layout: bis
 patch: "6.2"
-lastmod: 2022-08-25T04:17:41.346Z
+lastmod: 2022-08-30T00:41:31.245Z
 changelog:
   - date: 2021-10-28T03:30:20.029Z
     message: Created page
@@ -12,30 +12,38 @@ changelog:
     message: Updated for 6.18
   - date: 2022-08-25T04:17:45.751Z
     message: Updated for 6.2
+  - date: 2022-08-30T00:41:37.239Z
+    message: Changed set descriptions.
 bis:
   - type: etro
-    description: The 2.15 GCD Savage BiS set is the highest simulated DPS output of
-      all current Savage BiS gear sets. As it does not need to spend any melds
-      into Skill Speed, it is able to maximize the amount put into other more
-      beneficial substats. This gear set is also recommended for those newer to
-      the job or with higher ping, as more time between GCDs is more lenient for
-      double weaves or being unsure of your next button in the rotation.
+    description: |
+      28 GCD loop, 2 filler GCDs.
+
+      10814.28 dps DPS including 5% party buff.
+
+      Classic "Slow SAM". Highest DPS, easiest weaving.
     link: https://etro.gg/gearset/4356046d-2f05-432a-a98c-632f11098ade
     name: 2.15 Savage BiS
   - type: etro
-    description: The 2.07 GCD Savage BiS set is roughly 0.5% below 2.15 in simulated
-      DPS and may cause some issues with weaving depending on player ping. In
-      exchange for this, it extends the rotation by one to 29 GCDs per minute,
-      allowing for more flexibility with mechanic downtime to keep your burst
-      phases aligned with your party.
+    description: >
+      29 GCD loop, 3 filler GCDs.
+
+
+      10755.76 DPS including 5% party buff.
+
+
+      Small hit in DPS in exchange for a slightly extended rotation, offering more flexibility with mechanic downtime.
     name: 2.07 Savage BiS
     link: https://etro.gg/gearset/56e084de-6194-45a5-8af7-6834f902f791
   - type: etro
-    description: The 2.00 GCD Savage BiS set is also roughly 1% below 2.15 in
-      simulated DPS, and it nearly guarantees issues with Iai and double weaves
-      without the use of third party software. The benefits of this set are that
-      the rotation is extended one further to 30 GCDs per minute, and has a
-      faster playstyle similar to Monk.
+    description: >
+      30 GCD loop, 4 filler GCDs.
+
+
+      10684.28 DPS including 5% party buff.
+
+
+      Classic "Fast SAM". Trades a ~1% DPS loss for a faster playstyle with even more filler to maneuver mechanic downtime. May have difficulty iai/double weaving even on the best of connections.
     name: 2.00 Savage BiS
     link: https://etro.gg/gearset/601428-cf57-456b-a2ed-321fd2c25ff7
   - type: gsheets
