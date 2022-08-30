@@ -3,8 +3,8 @@ title: Reaper Advanced Guide
 card_header_image: /img/jobs/rpr/screenshot_5-edit.jpg
 authors:
   - ellunavi
-patch: "6.11"
-lastmod: 2022-05-22T23:02:28.018Z
+patch: "6.2"
+lastmod: 2022-08-30T00:45:13.404Z
 changelog:
   - date: 2021-11-27T12:55:28.038Z
     message: Added page.
@@ -23,6 +23,8 @@ changelog:
     message: Updated for 6.11
   - date: 2022-08-23T15:53:20.048Z
     message: Updated Values for assigning potency to soul and shroud
+  - date: 2022-08-30T00:45:16.250Z
+    message: Updated for Patch 6.2
 ---
 ## Reaper Advanced Rotational Theory
 
