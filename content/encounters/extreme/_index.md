@@ -48,6 +48,8 @@ Lynx of Imperious Wind Flute
 
 All players require clock positions for spreads, with tanks north and south, healers east and west, and DPS on intercardinals. Additionally, split the party into two light parties of one tank, one healer, and two DPS each.
 
+During the Wind Phase, the outside of the arena will be engulfed in a storm. Players who move into it will receive a windburn DoT.
+
 ### Normal Phase
 
 **Void Aero IV**  
@@ -219,6 +221,11 @@ Hair Raid
 Deadly Twist OR Hair Spray  
 Void Aero IV  
 Raging Storm  
-Maelstorm (enrage)
+Maelstrom (enrage)
 
-Enrage is a hardcasted Maelstorm over 9 seconds, wiping the party at 11:14.
+Enrage is a hardcasted Maelstrom over 9 seconds, wiping the party at 11:14.
+
+## Fight Strategy
+
+**Phase 1**
+* 
