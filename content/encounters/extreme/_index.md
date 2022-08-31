@@ -48,7 +48,7 @@ Lynx of Imperious Wind Flute
 
 All players require clock positions for spreads, with tanks north and south, healers east and west, and DPS on intercardinals. Additionally, split the party into two light parties of one tank, one healer, and two DPS each.
 
-### Phase One
+### Normal Phase
 
 **Void Aero IV**  
 Moderate raidwide magical damage.
@@ -76,18 +76,27 @@ AoE markers appear on all players.
 A magical tank buster on the main tank that inflicts a Wind Resistance Down debuff. This forces a tank swap.
 
 **Teasing Tangles**  
+Barbariccia will fetter all players and tether one support and one DPS to four tangle circles that appear at cardinals. This tether will decrease player movement speed, and players cannot leave their tether or else they will be forcibly dragged back in the middle and take a DoT.
 
 **Secret Breeze**  
+A conal AoE towards all four cardinals. After the first hit, all players are targeted with an invisible physical conal AoE that inflicts a physical vuln debuff.
 
 **Hair Flay**  
+A large AoE marker appears on one player from each tangle.
 
 **Upbraid**  
+A two-player stack marker on two players from opposite tangles.
 
 **Curling Iron**  
+The transition to the wind phase. Players in the middle will be knocked out of her hitbox by Voidstrom, and both attacks do light magical damage.
+
+**Entanglement**  
+Starting from the second normal phase, Barbariccia will tether players together in tangles. This works the same way as Teasing Tangles - players cannot leave the circle, and their movement speed is reduced.
 
 **Catabasis**  
+Barbariccia's ultimate attack, dealing massive raidwide magical damage.
 
-### Phase Two
+### Wind Phase
 
 **Brutal Rush**  
 
@@ -96,3 +105,21 @@ A magical tank buster on the main tank that inflicts a Wind Resistance Down debu
 **Boulder Break**  
 
 **Brittle Boulder**  
+
+**Tornado Chain**  
+
+**Knuckle Drum**  
+
+**Blow Away**  
+
+**Bold Boulder**  
+
+**Impact**  
+
+**Trample**  
+
+**Blustery Ruler**  
+
+**Dry Blows**  
+
+**Iron Out**  
