@@ -42,6 +42,12 @@ Faded Copy of Battle with the Four Fiends (Buried Memory)
 Barbariccia Card
 Lynx of Imperious Wind Flute
 
+## Video Guide
+
+If you would prefer to learn the fight from a visual perspective, our very own Dragoon Mentor, Hope, has created a video guide. Pair this with our text guide to ensure your prog is smooth!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNTixAkrU_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Mechanics
 
 All players require clock positions for spreads, with tanks north and south, healers east and west, and DPS on intercardinals. Additionally, split the party into two light parties with one tank, one healer, and two DPS in each.
