@@ -46,7 +46,7 @@ Embolden should be aligned to where the rest of your group is using their raid b
 
 As with other fights in the game, Vercure can be used during downtime in-between phases in order to prepare a Dualcast for when the boss becomes targetable again. In addition to this, in phases where the boss isn’t targetable and heavy raid damage is going out, Vercure can be used to assist your healers with healing wherever it may be needed.  
 
-# Phase 1: Garuda
+# Phase One: Garuda 
 
 ## Opener and Feathers
 
@@ -64,7 +64,7 @@ When Garuda becomes targetable after the Feather Rain following Friction and cle
 
 Addle in this phase will be used on either Friction or Aerial Blast. With only one caster, Addle is higher value on Friction as it will cover the cleanses being done as well, but it is up to your healers to decide where it is wanted most. 
 
-# Phase 2: Ifrit
+# Phase Two: Ifrit 
 
 ## Potion Usage
 
@@ -88,7 +88,7 @@ For the Eruption baits following nails, you can retain uptime by using a paired 
 
 The main use for Addle in this phase will be for Hellfire. If you have a second caster, their Addle can be used on the Flaming Crush stack, although this will usually not be necessary. 
 
-# Phase 3: Titan
+# Phase Three: Titan 
 
 ## Weight of the Lands
 
@@ -98,7 +98,7 @@ For the final Weight of the Land during boulders, it is common for ranged to bai
 
 ## Landslides
 
-Many Landslides occur during this phase, some of which may not always align with your GCD. To mitigate this, you should consider holding your Swiftcast for when a Landslide occurs that does not align with your GCD to avoid drifting. Additionally, if a Landslide occurs when you are above 50 | 50 mana, it is possible to keep full uptime on the boss using your melee combo while dodging landslides. If dodging in melee range, you should be sure to dodge Landslides behind the boss, as dodging in front of the boss will kill you. 
+Many Landslides occur during this phase, some of which may not always align with your GCD. To mitigate this, you should consider holding your Swiftcast for when a Landslide occurs that does not align with your GCD to avoid drifting. Additionally, if a Landslide occurs when you are above 50 | 50 mana, it is possible to keep full uptime on the boss using your melee combo while dodging Landslides. If dodging in melee range, you should be sure to dodge Landslides behind the boss, as dodging in front of the boss will kill you. 
 
 [A diagram showing melee safe spots during Landslides, created by ZhephZaeora, can be found here.](https://gfycat.com/dapperdamagedcats)
 
@@ -106,7 +106,7 @@ Many Landslides occur during this phase, some of which may not always align with
 
 Addle in this phase should mainly be used on Tumults. The most common one to Addle is the first Tumult, as a healer being Gaoled can make this harder to heal, but all three Tumults are very high value to Addle, and should be discussed with healers. It is also possible to Addle Earthen Fury, although this is usually not as high priority as Tumults. 
 
-# Phase 4: Ultima Weapon
+# Phase Four: Ultima Weapon 
 
 ## Intermission
 
