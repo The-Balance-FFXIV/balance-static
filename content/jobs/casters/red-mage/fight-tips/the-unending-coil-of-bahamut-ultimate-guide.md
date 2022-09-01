@@ -15,11 +15,11 @@ changelog:
 
 Manafication’s damage buff and 110 second cooldown is granted by a trait at Lv.74 meaning that in Lv.70 content it functions the same way it did in Stormblood: with no damage buff and a 120s cooldown. As a result of there being no damage buff it should be used slightly differently than in level 80 and 90 content.
 
-While you should still aim to finish phases with as much Black and White mana as possible, in the scenario that your mana is at 50 | 50 or below, you can use Manafication during downtime during or in between phases to get it on cooldown faster. This should be done whenever possible to avoid the possibility of losing a use of Manafication throughout the fight.
+While you should still aim to finish phases with as much Black and White mana as possible, in the scenario that your mana is at 50 | 50 or below, you can use Manafication during downtime during or between phases to get it on cooldown faster. This should be done whenever possible to avoid the possibility of losing a use of Manafication throughout the fight.
 
 ## Potion Usage
 
-Potions in UCoB should be used during raid buff windows in order to maximize the gain received from them. Just as with level 90 content you should still aim to get 2 melee combos under a potion buff whenever you can.
+Potions in UCoB should be used during raid buff windows in order to maximize the gain received from them. Just as with level 90 content you should still aim to get two melee combos under a potion buff whenever you can.
 
 ## Embolden Usage
 
@@ -29,9 +29,9 @@ The reason for this is that you will only be using two sets of 120s raid buffs d
 
 ## Vercure Usage
 
-As with other fights in the game, Vercure can be used during downtime in-between phases in order to prepare a Dualcast for when the boss becomes targetable again. In addition to this, in phases where the boss isn’t targetable and heavy raid damage is going out, Vercure can be used to assist your healers with healing wherever it may be needed. This is especially useful during the Trios in Bahamut Prime as the boss is often not targetable during these mechanics.
+As with other fights in the game, Vercure can be used during downtime between phases in order to prepare a Dualcast for when the boss becomes targetable again. In addition to this, in phases where the boss isn’t targetable and heavy raid damage is going out, Vercure can be used to assist your healers with healing wherever it may be needed. This is especially useful during the Trios in Bahamut Prime as the boss is often not targetable during these mechanics.
 
-# Phase 1: Twintania
+# Phase One: Twintania
 
 ## Opener
 
