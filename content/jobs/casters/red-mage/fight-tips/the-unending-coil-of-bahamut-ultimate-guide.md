@@ -161,4 +161,4 @@ If you have two casters and it is your job to mitigate the second and the fourth
 
 [Hinoka Shirasagi](https://www.youtube.com/watch?v=hp6Oz67IwWI&feature=youtu.be)
 
-[Laille Ormesaing](https://www.youtube.com/watch?v=PZQ5AQnM2h4&feature=youtu.be>
+[Laille Ormesaing](https://www.youtube.com/watch?v=PZQ5AQnM2h4&feature=youtu.be)
