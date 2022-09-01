@@ -15,6 +15,9 @@ authors:
 lastmod: 2022-08-31T17:12:13.252Z
 patch: "6.2"
 layout: encounters/list
+changelog:
+  - date: 2022-08-31T14:56:50.037Z
+    message: Article Created
 role_hero_image: /img/jobs/tanks/tanks_group.png
 menu:
   main:
@@ -147,7 +150,7 @@ The transition to the normal phase. Players in the middle will be knocked out of
 
 ## Fight Mechanics
 
-### Phase 1
+### Phase One
 
 Void Aero IV\
 Raging Storm\
@@ -167,7 +170,7 @@ Void Aero IV\
 Curling Iron\
 Catabasis
 
-### Phase 2
+### Phase Two
 
 Brutal Rush (supports)\
 Winding Gale\
@@ -188,7 +191,7 @@ Secret Breeze\
 Knuckle Drum\
 Iron Out  
 
-### Phase 3
+### Phase Three
 
 Raging Storm\
 Entanglement\
@@ -207,7 +210,7 @@ Void Aero IV\
 Raging Storm\
 Curling Iron  
 
-### Phase 4
+### Phase Four
 
 Brutal Rush (supports)\
 Knuckle Drum\
@@ -223,7 +226,7 @@ Bold Boulder + Trample\
 Knuckle Drum\
 Iron Out
 
-### Phase 5
+### Phase Five
 
 Entanglement\
 Secret Breeze\
@@ -238,7 +241,7 @@ Enrage is a hard-casted Maelstrom over nine seconds, wiping the party at 11:14.
 
 ## Fight Strategy
 
-**Phase 1**
+**Phase One**
 
 * There is lots of AoE chip damage in this fight from raid-wides such as Void Aero IV, Raging Storm, and Knuckle Drum.
 * Barbariccia begins by casting one version of Savage Barbery. Either stand to her side away from the sword if she is holding it up, or inside her hitbox away from the sword if she is holding it down.
@@ -246,11 +249,11 @@ Enrage is a hard-casted Maelstrom over nine seconds, wiping the party at 11:14.
 * She then does the other version of the mechanic that was not done previously with Savage Barbery, Hair Raid, and stack or spread.
 * After the second set of mechanics, Barbariccia will do a raid-wide into a tank buster. The off tank (OT) will need to provoke the boss during the cast bar of Void Aero III.
 * All players get fettered and tethered to a tangle. Players are not allowed to leave their tangle.
-* Four players will receive Hair Flay, two players will receive Upbraid, and two players will receive no mechanic. Have players with Upbraid and players with no mechanic move towards each other on one side of the Secret Breeze cone to stack together, while players with the large AoE move away on the other side to avoid clipping them. After stacking, spread slightly to avoid clipping each other with the protean from Secret Breeze.
+* Four players will receive Hair Flay, two players will receive Upbraid, and two players will receive no mechanic. Have players with Upbraid and players with no mechanic move toward each other on one side of the Secret Breeze cone to stack together, while players with the large AoE move away on the other side to avoid clipping them. After stacking, spread slightly to avoid clipping each other with the protean from Secret Breeze.
 * Return to the middle and heal up for the instances of raid-wide damage.
 * After Barbariccia disappears, stack up and heavily mitigate for Catabasis.
 
-**Phase 2**
+**Phase Two**
 
 * Tanks and healers should head to their clock spots to make baiting and moving for Brutal Rush easier.
 * Afterwards, the OT should move north to stack with the main tank (MT) for Boulder Break.
@@ -267,7 +270,7 @@ Enrage is a hard-casted Maelstrom over nine seconds, wiping the party at 11:14.
 * One player from each stack should go left and one player should go right. This will ensure players can stack with each other for Upbraid, which is cast on four players. Dodge Secret Breeze afterward.
 * Return to the middle to heal and mitigate the AoEs that come as she transitions back to the normal phase.
 
-**Phase 3**
+**Phase Three**
 
 * Barbariccia will jump to the middle of the arena with Raging Storm.
 * She casts Entanglement, tethering one DPS to one support each. Each pair should stand in one intercardinal.
@@ -279,7 +282,7 @@ Enrage is a hard-casted Maelstrom over nine seconds, wiping the party at 11:14.
 * The other version of Savage Barbery, Hair Raid, and stack / spread that was not cast yet in this phase is performed next.
 * Return to the middle and heal and mitigate for the raid-wide and transition to another wind phase.
 
-**Phase 4**
+**Phase Four**
 
 * Tanks and healers should head to their clock spots to make baiting and moving for Brutal Rush easier.
 * Afterward, stack north for Knuckle Drum and to begin baits for Blow Away.
@@ -294,7 +297,7 @@ Enrage is a hard-casted Maelstrom over nine seconds, wiping the party at 11:14.
 * This is because tanks will receive proximity busters and a random healer will get Trample, the stack marker. There is no knockback during this part.
 * Stack together to mitigate for Knuckle Drum as well as the transition back into the final normal phase of the fight.
 
-**Phase 5**
+**Phase Five**
 
 * The final phase is all previously seen mechanics.
 * She does Entanglement into Secret Breeze, so head to intercardinals and spread after while staying inside the circle.
