@@ -47,9 +47,9 @@ Be sure you wait for the debuff to fall off before you Dualcast, as it often tak
 
 ## Liquid Hell Bait
 
-When the physical ranged is marked by Hatch, a backup person will be asked to either bait Liquid Hells or intercept the Hatch on the Neurolink. While it is generally advisable to have a healer—or a SMN, if your group has one—to do these tasks, some groups may ask their RDM to do it.  
+When the physical ranged is marked by Hatch, a backup person will be asked to either bait Liquid Hells or intercept the Hatch on the Neurolink. While it is generally advisable to have a healer—or a SMN, if your group has one—do these tasks, some groups may ask their RDM to do it.  
  
-In the scenario that you are doing a backup bait, consider holding Swiftcast or Acceleration when you can for any possible Liquid Hell baits, as it is not possible to cast in between each bait.
+In the scenario that you are doing a backup bait, consider holding Swiftcast or Acceleration when you can for any possible Liquid Hell baits, as it is not possible to cast between each bait.
 
 For the final pair of Hatches and Liquid Hells, a random person will be targeted by Liquid Hells. You can store enough mana for a melee combo here, which you can use to keep uptime on the boss while avoiding the Liquid Hells if you are targeted.
 
@@ -61,7 +61,7 @@ Most push timings will generally want to use 2nd set of 120s raid buff cooldowns
 
 Addle in this phase will be used to mitigate the Fireball stacks from Twintania. While you should discuss with your healers which should be addled, common ones to addle are the second Fireball before the first Neurolink drop if it is not skipped, and the Fireball during random Liquid Hell baits after the second Neurolink drop. You should avoid Addling the first Fireball to generate extra Limit Break Gauge. 
 
-# Phase 2: Nael Van Darnus
+# Phase Two: Nael Van Darnus
 
 ## Reopener
 
@@ -73,7 +73,7 @@ If you need to wait until after Iron Chariot for your second melee combo, you ca
 
 ## Maintaining Uptime
 
-There are many mechanics in this phase that snapshot early and can kill you and the party instantly if not handled correctly. As such you should always be ready and willing to drop a cast if you need to in order to avoid a mechanic. Your priority should always be to stay alive, as losing 1 or 2 GCDs is far less of a loss compared to dying. Common mechanics where you may need to drop casts depending on alignment are Iron Chariot, Wings of Salvation and Thunderstruck. Holding your Swiftcast and Acceleration for movement in this phase can help mitigate these losses from movement.
+There are many mechanics in this phase that snapshot early and can kill you and the party instantly if not handled correctly. As such you should always be ready and willing to drop a cast if you need to in order to avoid a mechanic. Your priority should always be to stay alive, as losing one or two GCDs is far less of a loss compared to dying. Common mechanics where you may need to drop casts depending on alignment are Iron Chariot, Wings of Salvation and Thunderstruck. Holding your Swiftcast and Acceleration for movement in this phase can help mitigate these losses from movement.
 
 ## Divebombs
 
@@ -85,7 +85,7 @@ Something you can also consider doing is holding a Displacement charge towards t
 
 Addle in this phase will be used to mitigate Thermionic Beam. The most common mitigated with Addle is the Thermionic Beam in the beginning of the second quote, while another option is the Thermionic Beam after Divebombs if the quote is for a stack instead of a spread.
 
-# Phase 3: Bahamut Prime
+# Phase Three: Bahamut Prime
 
 ## Reopener
 
@@ -93,7 +93,7 @@ You do not have enough time to execute three melee combos in your reopener. If y
 
 ## Damage Phases
 
-This phase consists of multiple damage phases in between mechanics when the boss is targetable. Continue doing your rotation as normal during these phases, but beware of using heavy hitters such as Verflare/Verholy and Fleche as the boss is becoming untargetable as there is a high chance of it ghosting. You should also discuss with your party which of these short damage phases you will be using your buffs in for the highest possible damage output. 
+This phase consists of multiple damage phases when the boss is targetable between mechanics. Continue doing your rotation as normal during these phases, but beware of using heavy hitters such as Verflare/Verholy and Fleche as the boss is becoming untargetable as there is a high chance of it ghosting. You should also discuss with your party which of these short damage phases you will be using your buffs in for the highest possible damage output.
 
 ## Fleche and Contre Sixte
 
@@ -103,11 +103,11 @@ You will only be able to use one Contre Sixte per damage window, so aim to use t
 
 ## Addle Mitigation
 
-Addle in this phase will be used to mitigate the raid-wide damage from Gigaflare. After every Trio, Bahamut will cast a Gigaflare, and a total of 2 (per caster) can be Addled throughout the phase.
+Addle in this phase will be used to mitigate the raid-wide damage from Gigaflare. After every Trio, Bahamut will cast a Gigaflare, and a total of two (per caster) can be Addled throughout the phase.
 
 Your second Addle usage in this phase will depend on your first one. If you are using Addle on the Gigaflare after Blackfire Trio, you can also Addle either the Gigaflare after Heavensfall Trio or the Gigaflare after Tenstrike Trio. If you Addle the Gigaflare after Fellruin Trio, your second Addle must be on the Gigaflare after Tenstrike Trio.
 
-# Phase 4: Adds Phase
+# Phase Four: Adds Phase
 
 ## Reopener
 
@@ -127,7 +127,7 @@ While it is important to keep uptime on the bosses whenever possible, be wary of
 
 Addle in this phase will be used on one of the Megaflare casts from Nael. It is generally advised to Addle the first Megaflare cast as Addling the second one may cause you to not have Addle back in time for the first Morn Afah in Golden Bahamut.
 
-# Phase 5: Golden Bahamut
+# Phase Five: Golden Bahamut
 
 ## Opener
 
@@ -151,9 +151,9 @@ Toward the end of the phase, you should aim for at least a double melee combo un
 
 Addle in this phase will be used to mitigate the Morn Afah stacks. You should discuss with your party where you will be using Addle, as there are five total casts of Morn Afah.
 
-Using 90s mitigations (Addle included) on the odd Morn Afahs will give you 3 total uses, so you should be using it on 1, 3, and 5 if you have one caster.
+Using 90s mitigations (Addle included) on the odd Morn Afahs will give you three total uses, so you should be using it on one, three, and five if you have one caster. 
 
-If you have two casters and it is your job to mitigate the 2nd and the fourth Morn Afah, do consider the timing of where you use Addle for the second Morn Afah. You have to use it a few seconds before the cast for Morn Afah begins, or it will be late for the fourth one.
+If you have two casters and it is your job to mitigate the second and the fourth Morn Afah, do consider the timing of where you use Addle for the second Morn Afah. You have to use it a few seconds before the cast for Morn Afah begins, or it will be late for the fourth one.
 
 # Clear PoVs (Shadowbringers)
 
