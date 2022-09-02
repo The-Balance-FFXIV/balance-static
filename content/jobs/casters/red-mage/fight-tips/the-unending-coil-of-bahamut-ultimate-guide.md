@@ -1,5 +1,6 @@
 ---
 title: The Unending Coil of Bahamut (Ultimate) Guide
+card_header_image: /img/rdm-fight-tips.jpg
 authors:
   - lana
   - verdandi
