@@ -13,10 +13,6 @@ changelog:
   - date: 2022-09-04T11:53:58.711Z
     message: Updated for Patch 6.2
 bis:
-  - type: gsheets
-    description: Archive of old BIS sets from patch 6.11.
-    name: Patch 6.11 Archival
-    link: https://pastebin.com/pDWaPnAh
   - type: etro
     description: ""
     name: "BIS - 2.5 GCD: Carrot Pudding"
@@ -49,6 +45,10 @@ bis:
     description: ""
     name: "Prog - 2.40 GCD: Sunset Nibbles"
     link: https://etro.gg/gearset/72da57ea-94e6-42f3-848a-950d28f4c3ce
+  - type: gsheets
+    description: Archive of old BIS sets from patch 6.11.
+    name: Patch 6.11 Archival
+    link: https://pastebin.com/pDWaPnAh
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
