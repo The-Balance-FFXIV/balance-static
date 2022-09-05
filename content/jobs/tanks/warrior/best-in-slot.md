@@ -2,7 +2,7 @@
 title: Warrior Best in Slot (BiS)
 layout: bis
 patch: "6.2"
-lastmod: 2022-08-25T16:17:08.326Z
+lastmod: 2022-09-04T11:54:08.799Z
 changelog:
   - date: 2021-10-27T07:22:13.566Z
     message: Lists added
@@ -10,18 +10,49 @@ changelog:
     message: Updated for Endwalker.
   - date: 2022-04-29T23:53:15.937Z
     message: Updated 6.11
+  - date: 2022-09-04T11:53:58.711Z
+    message: Updated for Patch 6.2
 bis:
+  - type: etro
+    description: ""
+    name: "BIS - 2.5 GCD: Carrot Pudding"
+    link: https://etro.gg/gearset/f3f765a3-56a5-446e-b1e1-1c7cdd23f24b
+  - type: etro
+    description: ""
+    name: "BIS - 2.46 GCD: Carrot Pudding"
+    link: https://etro.gg/gearset/95b030ff-0ab3-4954-831c-99cabb94ff16
+  - type: etro
+    description: ""
+    link: https://etro.gg/gearset/95e676d3-3013-44b6-be05-910c86363f60
+    name: "BIS - 2.45 GCD: Sunset Nibbles"
+  - type: etro
+    description: ""
+    name: "BIS - 2.40 GCD: Carrot Pudding"
+    link: https://etro.gg/gearset/388ef835-f18b-4e18-994b-b1d5fa83aa12
+  - type: etro
+    description: ""
+    name: "Prog - 2.5 GCD: Carrot Pudding"
+    link: https://etro.gg/gearset/268518ec-ec1c-4455-8841-36319d06af76
+  - type: etro
+    description: ""
+    link: https://etro.gg/gearset/a1c69e11-193b-44e2-b68a-e53d1c91219f
+    name: "Prog - 2.46 GCD: Carrot Pudding"
+  - type: etro
+    description: ""
+    name: "Prog - 2.45 GCD: Carrot Pudding"
+    link: https://etro.gg/gearset/fde6a8cc-46d3-4ed3-9f92-d1f940fdf6b1
+  - type: etro
+    description: ""
+    name: "Prog - 2.40 GCD: Sunset Nibbles"
+    link: https://etro.gg/gearset/72da57ea-94e6-42f3-848a-950d28f4c3ce
   - type: gsheets
     description: Archive of old BIS sets from patch 6.11.
     name: Patch 6.11 Archival
     link: https://pastebin.com/pDWaPnAh
-  - type: etro
-    description: To be finalized due to DH/Crit changes.
-    name: Savage Progression (Pentamelded +Ex weapon)
-    link: https://etro.gg/gearset/3e6ca536-946e-4eef-8711-866737a7260f
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
+tags: []
 ---
 # What is the BiS for Ultimates? UCoB / UWU / TEA ?
 
