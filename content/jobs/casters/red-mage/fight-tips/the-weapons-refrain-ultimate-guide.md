@@ -3,7 +3,7 @@ title: The Weapon's Refrain (Ultimate) Guide
 authors:
   - Laille-Ormesaing
   - lana
-  - Balance-RDM-Staff
+  - mazz
 patch: "6.2"
 lastmod: 2022-08-30T01:02:53.978Z
 changelog:
