@@ -8,6 +8,8 @@ changelog:
     message: Updated for Endwalker patch 6.08.
   - date: 2022-04-18T00:03:20.964Z
     message: Updated 2.42 GCD for 6.1 Gear
+  - date: 2022-09-10T17:11:34.984Z
+    message: "6.2 BIS updated: 2.42, 2.45 + Respective race BIS."
 bis:
   - type: etro
     description: ""
