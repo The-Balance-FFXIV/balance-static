@@ -5,7 +5,7 @@ difficulty: extreme
 card_image: /img/encounters/extreme/storm-s_crown_-extreme-.png
 banner_image: /img/encounters/extreme/phase-1-barb.jpg
 tier_image: /img/encounters/extreme/phase-1-barb.jpg
-tier_name: EW EX Trials
+tier_name: Extreme Trials
 series_name: EW EX Trials
 weight: 4
 tier_weight: 1
