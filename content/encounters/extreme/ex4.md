@@ -13,7 +13,7 @@ tier_weight: 1
 coming_soon: false
 expansion: ew
 authors:
-  - dook
+  - Balance-Encounter-Staff
 lastmod: 2022-09-12T23:46:26.004Z
 patch: "6.2"
 tags:
