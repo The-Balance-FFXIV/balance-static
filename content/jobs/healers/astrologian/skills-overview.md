@@ -3,13 +3,15 @@ title: Astrologian Skills Overview
 card_header_image: /img/jobs/ast/2022-03-11_15-30-57-810_okamipassion.jpg
 authors:
   - shy
-patch: "6.08"
-lastmod: 2022-04-01T23:24:46.108Z
+patch: "6.21"
+lastmod: 2022-09-13T04:58:09.233Z
 changelog:
   - date: 2021-10-26T20:48:51.241Z
     message: "Article created. "
   - date: 2022-03-11T17:32:02.897Z
     message: Updated for Endwalker
+  - date: 2022-09-13T04:58:10.621Z
+    message: Updated Redraw section
 ---
 # ***Notable Endwalker Changes***
 
