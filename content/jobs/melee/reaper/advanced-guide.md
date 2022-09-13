@@ -27,7 +27,7 @@ changelog:
     message: Updated for Patch 6.2
   - date: 2022-09-13T13:58:10.174Z
     message: Removed Theorycrafting vs. Practice section. Added more context under
-      Dead Zoning. Updated Patch Number
+      Dead Zoning. Updated GCD Tier section. Updated Patch Number
 ---
 ## Reaper Advanced Rotational Theory
 
@@ -417,7 +417,7 @@ At a 2.5s GCD, Arcane circle drifts .5s each rotation and Gluttony drifts anywhe
 
 All of these rotations assumed full uptime, except for one disconnect at around three minutes in which Harvest Moon was used. 
 
-As we can tell, in terms of drifting management, a 2.48 GCD offers us the least risk, with 2.49 not being too far behind. 2.49 is only a single skill speed meld, while 2.48 will require some investment.  As of 6.05 and the new raid gear, the natural 2.5s GCD set is really strong and hits stat tiers very well. It is currently ahead of a single meld 2.49 set by a slight margin. While we know that 2.49 aligns better with raid buffs, the gain vs. loss of the two sets will have to be compared.
+As we can tell, in terms of drifting management, a 2.48 GCD offers us the least risk, with 2.49 not being too far behind. 2.49 is only a single skill speed meld, while 2.48 will require some investment.  As of 6.21 we have found very little need for the tight alignment that 2.48 provides making 2.49 the preferred default set. If you are interested in the 2.48 BiS please feel free to ping Ellunavi in the Balance Discord. 
 
 ![](/img/jobs/rpr/ffxiv_22122021_150141_799.png)
 
