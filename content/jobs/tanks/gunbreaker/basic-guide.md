@@ -4,7 +4,7 @@ card_header_image: /img/jobs/gnb/basic.png
 authors:
   - azazael
   - Balance-GNB-Staff
-patch: "6.11"
+patch: "6.2"
 lastmod: 2022-04-30T02:08:08.026Z
 changelog:
   - date: 2021-10-25T21:29:10.159Z
@@ -13,6 +13,9 @@ changelog:
     message: Updated for Endwalker
   - date: 2022-04-30T02:08:11.464Z
     message: Updated for 6.11 adjustments
+  - date: 2022-08-28T21:10:49.542Z
+    message: Amended potencies for 6.2, adjusted info in AOE info, removed outdated
+      flow chart.
 ---
 # Introduction to Gunbreaker
 
@@ -34,12 +37,12 @@ The first skill of our basic combo. 170 potency.
 ![BrutalShell](/img/jobs/tanks/gunbreaker/Brutal_Shell.png)
 **Brutal Shell**
 
-The second skill of our basic combo. 260 potency when used after Keen Edge. Heals for 200 potency and gives a shield equal to the amount healed. 
+The second skill of our basic combo. 270 potency when used after Keen Edge. Heals for 200 potency and gives a shield equal to the amount healed. 
 
 ![SolidBarrel](/img/jobs/tanks/gunbreaker/Solid_Barrel.png)
 **Solid Barrel**
 
-The final skill of our basic combo. 340 potency when used after Brutal Shell. Generates one Cartridge in the Powder Gauge. 
+The final skill of our basic combo. 360 potency when used after Brutal Shell. Generates one Cartridge in the Powder Gauge. 
 
 ![BurstStrike](/img/jobs/tanks/gunbreaker/Burst_Strike.png)
 **Burst Strike**
@@ -64,7 +67,7 @@ Grants Ready To Blast
 
 ![Double Down](https://xivapi.com/i/003000/003432_hr1.png)
 
-Delivers an attack to all within 5y of you with a potency of 1,200 for the first enemy, and 20% less for all remaining enemies.
+Delivers an attack to all within 5y of you with a potency of 1,200 for the first enemy, and 15% less for all remaining enemies.
 Cartridge Cost: 2
 
 ![SonicBreak](/img/jobs/tanks/gunbreaker/Sonic_Break.png)
@@ -91,7 +94,7 @@ Second skill of our AoE combo. 150 potency to all targets in a 5y circle around 
 ![FatedCircle](/img/jobs/tanks/gunbreaker/Fated_Circle.png)
 **Fated Circle**
 
-Consumes one Cartridge. 290 potency to all targets in a 5y circle around you. 
+Consumes one Cartridge. 300 potency to all targets in a 5y circle around you. 
 
 ## Offensive Off Global Cooldown Abilities
 
@@ -106,7 +109,7 @@ Cooldown (CD): 60s
 
 Immediately gives three Cartridges in the Powder Gauge. \
 **Only grants two Cartridges below Lvl. 88* \
-CD: 90s
+CD: 120s
 
 ![Continuation](/img/jobs/tanks/gunbreaker/Continuation.png)
 **Continuation**
@@ -142,7 +145,7 @@ CD: 30s
 ![BlastingZone](/img/jobs/tanks/gunbreaker/Blasting_Zone.png)
 **Blasting Zone**
 
-Delivers an attack with a potency of 700.\
+Delivers an attack with a potency of 720.\
 CD: 30s
 
 ![BowShock](/img/jobs/tanks/gunbreaker/Bow_Shock.png)
@@ -329,11 +332,7 @@ One of the main changes is where in your Solid Barrel combo you’ll be when you
 
 Once you finish your Gnashing Fang Combo (Which will contain Double Down and Sonic Break), your next goal is to empty remaining carts (granted by Bloodfest), when your Power Gauge is empty, you revert back to your Solid Barrel combo. If the No Mercy buff is still present and you have generated a cart from Solid Barrel, you immediately dump the cart into Burst Strike to get it under the 20% damage up. You can see the variations below.
 
-The father of Gunbreaker, Rin Karigani, made a chart showing an opener and the subsequent No Mercy Windows in a full uptime scenario.
-
-You can see an example of this rotation here in Rin’s 12 minute rotation showcase: [Endwalker Gunbreaker Opener & 12 minute Rotation | No Commentary](https://youtu.be/Seua-yrZC6s)
-
-![NM Windows](/img/jobs/gnb/gnbopener.jpg "1-2-3 No Mercy + Windows")
+![NM Windows]( "1-2-3 No Mercy + Windows")
 
 &nbsp;
 
@@ -364,7 +363,7 @@ I also have a video where I touch on this. Although it is from Shadowbringers, i
 Something to know about before we go any further is how Skill Speed affects your weaponskills. The more Skill Speed you have, the faster your GCD is but also the shorter the cooldown of your weaponskills. Failure to use Reverse Drift properly can result in messy No Mercy windows and ability placements so it’s worth looking into.
 
 \
-For example: at 2.41GCD (Approx 883 SKS stat) Gnashing has a CD of 29.01s, Double Down has a CD of 58.02s. However SkS does not affect abilities such as No Mercy, Blasting Zone, Rough Divide and Bloodfest. Regardless of your Skill Speed, they will retain their 30s, 60s and 90s cooldowns respectively. 
+For example: at 2.41GCD (Approx 883 SKS stat) Gnashing has a CD of 29.01s, Double Down has a CD of 58.02s. However SkS does not affect abilities such as Blasting Zone, Rough Divide, No Mercy and Bloodfest. Regardless of your Skill Speed, they will retain their 30s, 60s and 120s cooldowns respectively. 
 
 What does this mean?
 
@@ -390,26 +389,16 @@ Although we are leaving Gnashing Fang and Jugular Rip out of No Mercy, it secure
 
 Bloodfest is our second indirect/buffing offensive ability. Granting us a full Powder Gauge, it simply enables more gauge expenditure and therefore more damage. Using Bloodfest effectively is a way we can enter an optimal No Mercy without worrying about carts or can provide three Burst Strikes within No Mercy. The two biggest mistakes I see new Gunbreakers do is hold Bloodfest for No Mercy or to use it as reset for downtime; although the latter is not a bad option, it should not be used exclusively for that purpose.
 
-**Bloodfest should be used on cooldown** and, if done so, will line up for big burst windows with No Mercy naturally every three minutes. Delaying Bloodfest is extremely situational and should not be done excessively as it will result in lost usages. Lost usages means lost ammo, lost ammo means lost damage.
+With the changes to Bloodfest in update 6.2, the cooldown is now 2m, which means it'll line up with every 2nd NM after the opener. This forces us to have a hefty burst inside raid buffs now and similarly to other jobs have all of our offensive cooldowns consistently lined up with one another through out the rotation. This in turn makes Bloodfest a lot easier to manage and learn than before.
 
-**Bloodfest is up but No Mercy is on cooldown:**\
-Burst Strike or Fated Circle until your gauge is empty, then use Bloodfest to refill. 
+Similar to before, but now serving a singular purpose, it allows you to refill your Cartridge gauge to place three Burst Strikes into No Mercy. However with BF now also 2m, it can act as a soft reset to the job if you have died or screwed your cart gen.
 
-* If Gnashing Fang is coming up, you can use Gnashing Fang to dump 1 cartridge unless waiting for Gnashing will cause you to hold Bloodfest for several GCDs, in that case, Burst Strike to zero Cartridges ➞ Bloodfest ➞ Gnashing Fang.
-
-**Bloodfest is up and No Mercy is ready:**\
-No Mercy is to be entered the same as any other window, being already at 3/3 Cartridges. 
-
-* Utilize  Gnashing Fang and  Double Down to get to 0/3 Cartridges, then use Bloodfest to gain 3/3 Cartridges again. 
-
-This allows you to refill your Cartridge gauge to place three Burst Strikes into No Mercy.
-
-Bloodfest will always grant three Cartridges. So using it with any carts loaded is a loss.\
+Bloodfest will always grant **three** Cartridges. So using it with any carts loaded is a loss.\
 1 cart loaded + 3 carts from Bloodfest = four Cartridges, **one lost due to overcap!**
 
 ## **AOE Priority**
 
-![AOE Prio](/img/jobs/gnb/image41.png "AOE Rotation/Priority")
+![AOE Prio](/img/jobs/gnb/gnb-ammended.png "AOE Rotation/Priority")
 
 ## Final Notes
 
