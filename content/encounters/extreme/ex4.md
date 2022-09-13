@@ -11,7 +11,7 @@ weight: 4
 tier_weight: 1
 expansion: ew
 authors:
-  - Balance-AST-Staff
+  - dook
 lastmod: 2022-09-12T23:46:26.004Z
 patch: "6.2"
 tags:
