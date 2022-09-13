@@ -1,7 +1,7 @@
 ---
 title: Gunbreaker FAQ
 layout: qna
-patch: "6.08"
+patch: "6.2"
 lastmod: 2022-04-01T23:21:08.165Z
 changelog:
   - date: 2021-11-15T03:49:47.299Z
@@ -10,6 +10,8 @@ changelog:
     message: Updated for Endwalker
   - date: 2022-04-02T20:41:57.590Z
     message: Added Endwalker relevant questions.
+  - date: 2022-08-28T21:16:30.164Z
+    message: Removed Bloodfest Question as no longer relevant
 qna:
   - question: I heard GNB is clunky and bad to play, is this true?
     answer: That’s the opinion of some players but that’s all it is, opinion. Others
@@ -39,11 +41,6 @@ qna:
       gain. It’s not substantial enough to change the rotation or risk moving
       harder hitting abilities later which may result in missing No Mercy’s
       buff.
-  - question: Do I hold Bloodfest for No Mercy?
-    answer: No. Bloodfest is a 90s CD and NM is 60s, meaning they’ll eventually line
-      up if both are used on cooldown. Holding Bloodfest frequently will cause
-      you to lose usages and in turn lose damage. You should only hold usages if
-      they are a damage gain, and losing a usage is rarely actually a gain.
   - question: What if I misaligned my Gnashing Fang from No Mercy because of
       Downtime/user error?
     answer: >-
