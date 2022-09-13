@@ -4,7 +4,7 @@ card_header_image: /img/jobs/sge/sgebasic.png
 authors:
   - Balance-SGE-Staff
   - wynn
-patch: "6.10"
+patch: "6.20"
 lastmod: 2022-04-13T05:59:22.628Z
 changelog:
   - date: 2022-01-24T06:59:41.157Z
@@ -140,7 +140,7 @@ Next up, your other oGCD heals. These do not cost anything other than the cooldo
 * {{< inline >}} ![Physis II](https://xivapi.com/i/003000/003670_hr1.png) {{< /inline >}} Physis - AoE regen plus heal boost on a 60 second cooldown. The regen is 650 potency total over 15 seconds (five ticks of 130p each). The healing up effect only last ten seconds, and affects all incoming healing on affected targets.
 * {{< inline >}} ![Haima](https://xivapi.com/i/003000/003673_hr1.png) {{< /inline >}}Haima - A shield that repeatedly re-applies itself when absorbed (up to five times, not including the initial shield). Each shield is 300 potency, so the best case scenario is 1800p total absorbed. It also applies a small heal at the end of the duration based on how many stacks are remaining, so it can still be useful even if only two or three stacks are consumed.
 * {{< inline >}} ![Panhaima](https://xivapi.com/i/003000/003679_hr1.png) {{< /inline >}}Panhaima - Like Haima, but AoE, with a lower potency to compensate.
-* {{< inline >}} ![Holos](https://xivapi.com/i/003000/003678_hr1.png) {{< /inline >}}Holos - Similar effect to Taurochole, but AoE. However, it does stack with Kerachole or Taurochole. The 300p heal is minor, but still something, so ideally you want to make use of both the healing and damage reduction.
+* {{< inline >}} ![Holos](https://xivapi.com/i/003000/003678_hr1.png) {{< /inline >}}Holos - Applies a 300p heal, a 300p shield, and a 10% incoming damage reduction to nearby party members. While you should *try* to use it when you will benefit from all three (for example, topping the party up before a raidwide), there may be situations where it is okay to use it when the party is already at full HP.
 
 Again, these cost nothing - try to use them as much as possible!
 
