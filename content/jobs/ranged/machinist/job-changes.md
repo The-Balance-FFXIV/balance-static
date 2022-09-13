@@ -9,6 +9,9 @@ changes:
   - patch: "6.1"
     description: View the latest changes for 6.1 at the Official Site, located
       [here](https://na.finalfantasyxiv.com/jobguide/machinist/)!
+  - patch: "6.2"
+    description: View the latest changes for 6.2 at the Official Site, located
+      [here](https://na.finalfantasyxiv.com/jobguide/machinist/)!
 authors:
   - Laille-Ormesaing
   - Balance-MCH-Staff
