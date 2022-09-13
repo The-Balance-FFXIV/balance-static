@@ -4,12 +4,12 @@ layout: bis
 patch: "6.2"
 lastmod: 2022-09-13T06:56:03.766Z
 changelog:
+  - date: 2022-09-13T06:56:06.298Z
+    message: Added 6.2 sets
   - date: 2022-01-07T07:20:02.394Z
     message: Added 6.05 sets
   - date: 2021-10-26T01:58:33.491Z
     message: Created page
-  - date: 2022-09-13T06:56:06.298Z
-    message: Added 6.2 sets
 bis:
   - type: etro
     description: ""
