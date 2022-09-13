@@ -3,13 +3,15 @@ title: Astrologian Skills Overview
 card_header_image: /img/jobs/ast/2022-03-11_15-30-57-810_okamipassion.jpg
 authors:
   - shy
-patch: "6.08"
-lastmod: 2022-04-01T23:24:46.108Z
+patch: "6.21"
+lastmod: 2022-09-13T04:58:09.233Z
 changelog:
   - date: 2021-10-26T20:48:51.241Z
     message: "Article created. "
   - date: 2022-03-11T17:32:02.897Z
     message: Updated for Endwalker
+  - date: 2022-09-13T04:58:10.621Z
+    message: Updated Redraw section
 ---
 # ***Notable Endwalker Changes***
 
@@ -284,7 +286,7 @@ changelog:
 * Draws a card from your deck.
 * Using Draw ability recovers 500mp.
 * Cards can be played with the Play ability after drawing a card.
-* Draws one of six cards split by Melee cards and Ranged cards
+* Draws one of six cards split by Melee cards and Ranged cards.
 * Melee cards can be identified by the Teal border. They increase damage for Melee and Tank jobs by six percent and Ranged, Caster and Healer classes by three percent.
 * Ranged cards can be identified by the Purple border. They increase damage for Ranged, Caster and Healer classes by six percent and Melee and Tank jobs by three percent.
 * If you are colorblind, melee cards have a + to the side of the card while ranged cards have a little o+ to the side of the card.
@@ -292,10 +294,18 @@ changelog:
 * Try not to over-cap on Draw charges (keep the cooldown ticking constantly).
 * Playing one card every one minute and three cards every two minutes is optimal in raid boss fights.
 * In dungeons use cards as you get them on trash.
+* Redraw, draw, and play each use a weave window.
+
+
+
+![](/img/jobs/ast/003105_hr1.png)
+
+**Redraw**
+
 * The Draw ability gives you Clarifying Draw giving you the ability to use Redraw.
-* Redraw draws a different card from your deck replacing the card you had
-* You can only use Redraw once, and you can not draw the same card you had but you can draw the same sign type.
-* Redraw, draw and play each use a weave window.
+* Redraws a card from your deck replacing your current drawn card.
+* You can only use Redraw once and you can not draw the same Astrosign when using Redraw.
+* Redraw, draw, and play each use a weave window.
 
 ![](/img/jobs/ast/minor-arcana.png)
 
@@ -336,12 +346,10 @@ changelog:
 * Uses a weave window.
 * This buff grants effects based on the number of unique seals you have.
 
- 
-   * One unique seal gives you 500mp over 15s.
-   * Two unique seals give you 10% haste plus 500mp over 15s.
-   * Three unique seals increase your outgoing damage and healing by 5% plus 10% haste and 500mp over 15s.
-   * Aim to get at least two unique seals to get the haste buff, while it's ideal to get three unique seals, it's not always optimal to redraw for it and the damage buff is a small gain compared to the haste buff.
-
+  * One unique seal gives you 500mp over 15s.
+  * Two unique seals give you 10% haste plus 500mp over 15s.
+  * Three unique seals increase your outgoing damage and healing by 5% plus 10% haste and 500mp over 15s.
+  * Aim to get at least two unique seals to get the haste buff, while it's ideal to get three unique seals, it's not always optimal to redraw for it and the damage buff is a small gain compared to the haste buff.
 * Haste isn't the same as spellspeed so it will not increase DoT damage
 * You can hold Astrodyne for the two minute window, and if you do, your six minute window will have two Astrodynes. I suggest looking at the Astrodyne and Cards timeline for an idea on how two minute Astrodyne works.
 * Overwriting cards in the Arcana gauge is never worth it unless you know you won't gain another Astrodyne before the fight ends.
