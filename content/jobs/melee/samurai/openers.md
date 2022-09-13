@@ -2,8 +2,8 @@
 title: Samurai Openers
 authors:
   - Balance-SAM-Staff
-patch: "6.18"
-lastmod: 2022-08-03T02:14:11.198Z
+patch: "6.21"
+lastmod: 2022-09-13T04:34:24.266Z
 changelog:
   - date: 2021-10-28T03:26:44.525Z
     message: Created page
