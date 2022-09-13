@@ -8,6 +8,8 @@ lastmod: 2022-09-13T22:19:08.907Z
 changelog:
   - date: 2021-10-26T02:38:08.428Z
     message: Created page
+  - date: 2022-09-13T22:19:12.615Z
+    message: Removed long MB section, due to the auto-DH changes
 ---
 Hello! In this guide, you'll find a series of details and optimizations for Endwalker Bard. 
 
