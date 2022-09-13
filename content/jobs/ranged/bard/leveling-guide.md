@@ -3,7 +3,7 @@ title: Bard Leveling Guide
 card_header_image: /img/jobs/brd/leveling.png
 authors:
   - TKCetonis
-patch: "6.18"
+patch: "6.2"
 lastmod: 2022-07-04T17:42:30.123Z
 changelog:
   - date: 2021-10-26T02:15:03.972Z
