@@ -1,7 +1,7 @@
 ---
 title: Samurai Changes
 layout: changes
-lastmod: 2022-04-12T00:20:10.003Z
+lastmod: 2022-09-13T04:34:56.569Z
 changes:
   - patch: "5.58"
     description: "[Placeholder for Endwalker]"
@@ -15,6 +15,9 @@ changes:
 
       New Skills, Traits, and Abilities.
   - patch: "6.1"
+    description: View the latest changes for 6.1 at the Official Site, located
+      [here](https://na.finalfantasyxiv.com/jobguide/samurai/)!
+  - patch: "6.2"
     description: View the latest changes for 6.1 at the Official Site, located
       [here](https://na.finalfantasyxiv.com/jobguide/samurai/)!
 authors:
