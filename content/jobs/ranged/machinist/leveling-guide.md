@@ -3,8 +3,8 @@ title: Machinist Leveling Guide
 card_header_image: /img/jobs/mch/leveling.png
 authors:
   - dook
-patch: "6.1"
-lastmod: 2022-06-11T02:22:19.447Z
+patch: "6.2"
+lastmod: 2022-09-14T02:22:19.447Z
 changelog:
   - date: 2021-10-25T21:55:43.292Z
     message: Created page
@@ -12,6 +12,8 @@ changelog:
     message: Updated for Endwalker
   - date: 2022-06-11T02:22:20.188Z
     message: Updated for 6.1
+  - date: 2022-09-13T23:10:44.160Z
+    message: Updated for 6.2
 ---
 # Simple Pointers for New Machinists
 
