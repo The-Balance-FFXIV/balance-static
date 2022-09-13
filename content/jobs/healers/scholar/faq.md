@@ -1,7 +1,7 @@
 ---
 title: Scholar FAQ
 layout: qna
-patch: "6.0"
+patch: "6.2"
 lastmod: 2022-02-14T05:14:40.665Z
 changelog:
   - date: 2021-10-26T23:57:58.555Z
