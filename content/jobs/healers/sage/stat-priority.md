@@ -1,6 +1,6 @@
 ---
 title: Sage Stat Priority
-patch: "6.20"
+patch: "6.2"
 lastmod: 2022-01-24T07:10:20.198Z
 changelog:
   - date: 2022-01-24T07:11:41.884Z
