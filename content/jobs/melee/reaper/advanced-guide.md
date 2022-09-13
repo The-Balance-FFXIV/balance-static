@@ -25,6 +25,9 @@ changelog:
     message: Updated Values for assigning potency to soul and shroud
   - date: 2022-08-30T00:45:16.250Z
     message: Updated for Patch 6.2
+  - date: 2022-09-13T13:58:10.174Z
+    message: Removed Theorycrafting vs. Practice section. Added more context under
+      Dead Zoning. Updated Patch Number
 ---
 ## Reaper Advanced Rotational Theory
 
