@@ -18,7 +18,7 @@ changes:
     description: View the latest changes for 6.1 at the Official Site, located
       [here](https://na.finalfantasyxiv.com/jobguide/samurai/)!
   - patch: "6.2"
-    description: View the latest changes for 6.1 at the Official Site, located
+    description: View the latest changes for 6.2 at the Official Site, located
       [here](https://na.finalfantasyxiv.com/jobguide/samurai/)!
 authors:
   - Balance-SAM-Staff
