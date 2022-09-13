@@ -1,7 +1,7 @@
 ---
 title: Sage FAQ
 layout: qna
-patch: "6.08"
+patch: "6.20"
 lastmod: 2022-02-13T03:57:29.668Z
 changelog:
   - date: 2022-02-13T03:57:41.295Z
