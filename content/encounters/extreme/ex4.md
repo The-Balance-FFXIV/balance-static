@@ -1,7 +1,7 @@
 ---
-title: Storm's Crown (Extreme)
 spoiler: false
-fight_title: Ex4
+title: Storm's Crown (Extreme)
+fight_title: EX4
 difficulty: extreme
 card_image: /img/encounters/extreme/storm-s_crown_-extreme-.png
 banner_image: /img/encounters/extreme/phase-1-barb.jpg
