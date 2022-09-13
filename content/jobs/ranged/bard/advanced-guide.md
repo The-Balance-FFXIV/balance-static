@@ -329,32 +329,6 @@ If you remember from [earlier](#Empyreal-Arrow), one GCD of EA drift makes it a 
 The risk of losing an EA use is worse than the upside, in a vacuum. It's also a loss if you're on the 4x Bloodletter side of the BL cooldown coin flip. 
 
 Still, if you know it won't cost a use (due to i.e. the boss leaving soon), and you're on the 3x Bloodletter coin flip, you can delay EA here for potential gain.
-
-## Long Mage's Ballad Cycle
-
-> **Disclaimer**: This relies on the specific nature of the 6.05 BiS set, and the i600 gear options available. If you are not BiS, or it's patch 6.2 or later and this hasn't been updated, disregard this section.
->
-> **Disclaimer 2**: This is more of an academic note than a useful tip. The gain is less than direct hitting an extra auto-attack, for an unreasonable effort. It's mainly for the curious, and for any Mage's Ballad die-hards out there.
-
-If:
-
-* You're in a static with a Warrior, and
-* You can count on your party to consistently maintain uptime
-
-It is a *very* small gain (5-9p / 1.5-3 dps depending on comp) at i600 to do a 42s Mage's Ballad and a 33s Army's Paeon instead of the norm. To repeat, this is less of a gain than direct hitting an extra auto-attack. 
-
-Under normal circumstances, a Warrior will be using at least a couple of its big auto-Crit+DH hits during that x:18-x:27 timespan. The Army's Paeon party passive does not affect this at all, so the Mage's buff is a bigger gain on those hits than usual.
-
-In order for this cycle to work out, you want a 2.49s GCD. The cycle mapping is at the far right of the [cycles spreadsheet](https://bit.ly/3Ij53Fu) (it works fine for extended cycles too). You can find the BiS set for 2.49s [here](https://etro.gg/gearset/28491a8f-2bed-43c9-9696-44e82fea3b00). 
-
-Due to the gear available, this set increases your raw damage vs. the 2.48 BiS by more than usual. As miniscule as substat gaps are, we're relating to an also-small 0.275%-ish party buff gap. So, there's an amplified effect.
-
-You MUST use this set - if you take the 2.48 BiS set and swap food, you'll wipe out the gain. You need to adjust the melds and commit to this set. Though you can start with this set and swap food to have a slightly (about -4 dps) suboptimal 2.48 set. 
-
-Along the same lines, cooking up a random 2.49 set while gearing up is not likely to lead to similar gains. And there's no guarantee that future level cap BiS sets will either.
-
-Again, all of this is very trivial. Without a Warrior (but with the 2.49 BiS), you should lose about 3-7p per cycle; even more meaningless than the gain. So it won't be optimal, but if you just *want* to spend more time in MB, it's unlikely to hurt enough to matter in 6.05-6.1. 
-
 - - -
 
 # Credits
