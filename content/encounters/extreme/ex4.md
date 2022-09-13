@@ -1,5 +1,6 @@
 ---
 title: Storm's Crown (Extreme)
+spoiler: false
 fight_title: Ex4
 difficulty: extreme
 card_image: /img/encounters/extreme/storm-s_crown_-extreme-.png
@@ -10,7 +11,6 @@ series_name: EW EX Trials
 weight: 4
 tier_weight: 1
 coming_soon: false
-spoilers: false
 expansion: ew
 authors:
   - dook
