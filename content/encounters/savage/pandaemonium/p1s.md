@@ -1,22 +1,22 @@
 ---
 spoiler: false
-title: "Asphodelos: The First Circle (Savage)"
 fight_title: p1s
+banner_image: /img/encounters/savage/pandaemonium/p1.jpg
+tier_name: Pandaemonium
+authors:
+  - lyra
+patch: "6.05"
+encounter_category: savage
+title: "Asphodelos: The First Circle (Savage)"
 difficulty: savage
 card_image: /img/encounters/savage/pandaemonium/p1.jpg
-banner_image: /img/encounters/savage/pandaemonium/p1.jpg
 tier_image: /img/encounters/savage/pandaemonium/p1.jpg
-tier_name: Pandaemonium
 series_name: Pandaemonium Series
 weight: 5
 tier_weight: 1
 coming_soon: false
-expansion: ew
-authors:
-  - lyra
+spoilers: false
 lastmod: 2022-01-05T17:28:46.845Z
-patch: "6.05"
-encounter_category: savage
 changelog:
   - date: 2022-01-05T21:23:01.622Z
     message: Created page
@@ -24,6 +24,7 @@ aliases:
   - /encounters/savage/pandaemonium/p1s/
   - /encounters/pandaemonium/p1s/
   - /encounters/p1s/
+expansion: ew
 ---
 
 ## Introduction
