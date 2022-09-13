@@ -3,7 +3,7 @@ title: Sage Leveling Guide
 card_header_image: /img/jobs/sge/sgeleveling.png
 authors:
   - meru
-patch: "6.20"
+patch: "6.2"
 lastmod: 2022-04-11T20:47:25.473Z
 changelog:
   - date: 2022-01-24T06:59:04.463Z
