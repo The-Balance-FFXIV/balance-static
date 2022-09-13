@@ -256,7 +256,7 @@ collections:
         widget: "boolean"
         required: false
       - label: "Spoilers?"
-        name: "spoilers"
+        name: "spoiler"
         hint: This adds the spoiler overlay. Only enable Coming Soon or Spoilers. Not both.
         widget: "boolean"
         required: false
@@ -331,7 +331,7 @@ collections:
         widget: "boolean"
         required: false
       - label: "Spoilers?"
-        name: "spoilers"
+        name: "spoiler"
         hint: This adds the spoiler overlay. Only enable Coming Soon or Spoilers. Not both.
         widget: "boolean"
         required: false
@@ -404,7 +404,7 @@ collections:
         widget: "boolean"
         required: false
       - label: "Spoilers?"
-        name: "spoilers"
+        name: "spoiler"
         hint: This adds the spoiler overlay. Only enable Coming Soon or Spoilers. Not both.
         widget: "boolean"
         required: false
