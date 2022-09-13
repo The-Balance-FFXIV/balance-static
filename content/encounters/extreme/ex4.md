@@ -9,6 +9,8 @@ tier_name: Extreme Trials
 series_name: EW EX Trials
 weight: 4
 tier_weight: 1
+coming_soon: false
+spoilers: false
 expansion: ew
 authors:
   - dook
