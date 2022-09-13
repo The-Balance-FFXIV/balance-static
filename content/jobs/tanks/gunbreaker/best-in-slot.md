@@ -1,52 +1,35 @@
 ---
 title: Gunbreaker Best in Slot (BiS)
 layout: bis
-patch: "6.1"
+patch: "6.2"
 lastmod: 2022-04-29T23:52:33.772Z
 changelog:
   - date: 2022-02-03T00:16:26.730Z
     message: Updated for Endwalker patch 6.08.
   - date: 2022-04-18T00:03:20.964Z
     message: Updated 2.42 GCD for 6.1 Gear
+  - date: 2022-09-10T17:11:34.984Z
+    message: "6.2 BIS updated: 2.42, 2.45 + Respective race BIS."
 bis:
-  - type: etro
-    description: ""
-    name: 2.40 GCD
-    link: 88fbea7d-3b43-479c-adb8-b87c9d6cb5f9
-  - type: etro
-    description: |
-      Popular, tried and true, decent on all fights.
-    name: 2.41 GCD
-    link: c2962f7b-ea07-4aa9-9b84-21eb8ac03d90
   - type: etro
     description: ""
     name: 2.42 GCD
     link: 0c777bae-1680-4b0e-ac7e-56217df5611e
-  - type: etro
-    description: >
-      2.43 works really well when doing Purgation uptime in P1S and feels good
-      in P2S/P3S/P4S.
-    name: 2.43 GCD
-    link: e863ace7-ffcb-4c3d-b8de-8038f99a7308
-  - type: etro
-    description: Might clip your GCD in P1S to Purgation and might clip your GCD if
-      you're moving Hesperos on Doorboss for Pinax. Other fights feel fine.
-    name: 2.44 GCD
-    link: b8d9ed19-8b42-41de-b414-ee83ed799416
   - type: etro
     description: Feels good on all fights, use if you like 2.45 and don't lose your
       9th GCD in No Mercy. Utilizes crafted ring.
     name: 2.45 GCD
     link: d6f564f3-e918-4dc8-8bf7-95764ada60a7
   - type: etro
-    description: ""
-    name: 2.46 GCD
-    link: a69c29ce-50f2-4fd2-9db3-6a4704c707d8
+    description: D﻿ue to STR tiering, a separate bis is required for optimal DPS on
+      certain races. Use this bis if you are either of these three races.)
+    name: Race Specific 2.42 (Use if Seekers of the Sun, Midlander, or Sea Wolf)
+    link: https://etro.gg/gearset/559c9e70-eeea-400d-a71f-7cb4ba304181
   - type: etro
-    description: Untested so far, but felt really good in previous tiers when
-      gearing allowed. 9th GCD under No Mercy requires decent ping.
-    name: 2.47 GCD
-    link: d7343b12-6ce4-47bf-912f-c219874905f3
+    description: D﻿ue to STR tiering, a separate bis is required for optimal DPS on
+      certain races. Use this bis if you are either of these three races.)
+    name: Race Specific  2.45 (Use if Seekers of the Sun, Midlander, or Sea Wolf)
+    link: https://etro.gg/gearset/1300c0c9-cf6b-474c-aba9-f1bfeb31976d
 authors:
   - Balance-GNB-Staff
 ---
