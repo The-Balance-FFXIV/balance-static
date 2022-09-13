@@ -1,7 +1,7 @@
 ---
 title: Bard FAQ
 layout: qna
-patch: "6.0"
+patch: "6.2"
 lastmod: 2022-02-13T04:37:30.363Z
 changelog:
   - date: 2021-10-26T02:32:02.540Z
