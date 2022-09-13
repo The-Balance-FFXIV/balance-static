@@ -3,7 +3,7 @@ title: Reaper Advanced Guide
 card_header_image: /img/jobs/rpr/screenshot_5-edit.jpg
 authors:
   - ellunavi
-patch: "6.2"
+patch: "6.21"
 lastmod: 2022-08-30T00:45:13.404Z
 changelog:
   - date: 2021-11-27T12:55:28.038Z
@@ -41,10 +41,6 @@ I wanted to start this guide off with talking about the FFLogs metrics and how t
 * **aDPS** - Short for adjusted damage per second. This will factor in all the damage you do, but subtract specific single target buffs like Dragon Sight, Standard Step, Devilment and Astrologian cards.
 
 - - -
-
-## Theorycrafting vs. Practice
-
-Theorycrafting is an important piece to talk about before you dive too deep into this document. There are always two parts to theorycrafting: the crafting of the actual theory and testing the theory by putting it into live play. Thanks to the release of Endwalker, we can now actually test and play Reaper. That being said, not every scenario or situation can immediately be tested. As of re-writing this section, we do not have Savage raids or Ultimates, so some of these concepts may not work within whatever limitations the fights put on us. Lastly, new theories will be listed here as we discover them, but I will try to notate them as “not tested” if required. The aim of this guide is to maximize Reaper’s potential without using any third party tools, so optimizations that require their use will be left out. 
 
 ![](/img/jobs/rpr/ffxiv_02012022_002717_188.png)
 
@@ -632,7 +628,7 @@ Dead Zoning comes with some disadvantages though, which are important to talk ab
 * You are holding onto a lot of resources all the time. This makes an untimely death a bigger hit on your DPS than just using your resources as needed.
 * Overcapping is a real monster that you have to worry about.
 
-Ultimately, we are not sure what will be better for content until we have the content, but Dead Zoning could definitely be a tactic we use in optimization. Due to its high risk factor though, we recommend not doing it during prog, as a death could lead to a lot more potency lost.
+Ultimately, Dead Zoning has had a few practical uses but is still remains relatively risky. It plays out really well in phased encounters and is useful in a fight like P8S Phase 2 where pooling additional resources for a big buff phase plays out. We also find some use for it in DSR allowing us to pool resources for the second and Final Phases.
 
 - - -
 
