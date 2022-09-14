@@ -5,7 +5,7 @@ authors:
   - TKCetonis
   - infinitestory
   - Balance-BRD-Staff
-patch: "6.0"
+patch: "6.2"
 lastmod: 2021-12-13T02:09:03.870Z
 changelog:
   - date: 2021-10-26T02:17:16.801Z
