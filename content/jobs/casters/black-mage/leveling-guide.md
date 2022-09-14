@@ -4,7 +4,7 @@ card_header_image: /img/jobs/blm/leveling.png
 authors:
   - Fürst-Blumier
   - rika-vanih
-patch: "6.1"
+patch: "6.2"
 lastmod: 2022-04-12T09:46:26.448Z
 changelog:
   - date: 2022-01-29T17:49:36.231Z
