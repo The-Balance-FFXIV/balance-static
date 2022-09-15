@@ -28,6 +28,8 @@ changelog:
   - date: 2022-09-13T13:58:10.174Z
     message: Removed Theorycrafting vs. Practice section. Added more context under
       Dead Zoning. Updated GCD Tier section. Updated Patch Number
+  - date: 2022-09-15T19:27:57.206Z
+    message: Modified the wording under Damage Delay Section
 ---
 ## Reaper Advanced Rotational Theory
 
@@ -425,7 +427,7 @@ As we can tell, in terms of drifting management, a 2.48 GCD offers us the least 
 
 ## Reaper Damage Delay
 
-Below is the damage delay for all of the Reaper weaponskills, abilities and spells. Big thanks to Shalfu Nyan for putting this together. This information is incredibly useful because it will help determine when an ability will fall into raid buffs or when you may risk ghosting a weaponskill. For example, if a boss is about to jump, you want to try and avoid using Soul Slice, Plentiful Harvest or Harvest Moon as they take a long time to register damage and may end up being ghosted.
+Below is the damage delay for all of the Reaper weaponskills, abilities and spells. Big thanks to Shalfu Nyan for putting this together. This information is incredibly useful because it will help determine when you may risk ghosting a weaponskill. For example, if a boss is about to jump, you want to try and avoid using Soul Slice, Plentiful Harvest or Harvest Moon as they take a long time to register damage and may end up being ghosted. It is also useful for determining if casted spells like Communio will land into raid buffs.
 
 ![](/img/jobs/rpr/damagedelayrpr.png)
 
