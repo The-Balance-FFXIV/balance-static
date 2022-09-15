@@ -3,8 +3,8 @@ title: Warrior Openers
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
-patch: "6.08"
-lastmod: 2022-04-29T23:55:16.922Z
+patch: "6.21"
+lastmod: 2022-09-15T13:49:24.649Z
 changelog:
   - date: 2022-01-31T07:37:24.695Z
     message: Updated for Endwalker
