@@ -1,8 +1,8 @@
 ---
 title: Warrior FAQ
 layout: qna
-patch: "6.08"
-lastmod: 2022-08-25T16:10:23.703Z
+patch: "6.21"
+lastmod: 2022-09-15T13:57:18.758Z
 changelog:
   - date: 2021-10-27T07:27:07.049Z
     message: Added page.
@@ -51,6 +51,20 @@ qna:
       As of patch 6.2:
       Carrot Pudding HQ, or Sunset Carrot Nibbles HQ.
       Grade 7 Tincture of Strength HQ.
+  - question: When do I refresh the Surging Tempest buff?
+    answer: >-
+      Generally speaking, refresh the buff between 7 and 15 seconds.  
+
+      Depending on the fight and downtime between phases, it may be beneficial to refresh the buff earlier, gathering 31-60 seconds of it.
+  - question: What GCD / Skill Speed should I get?
+    answer: >-
+      Warriors can work with pretty much any GCD / Skill Speed. Most used ones
+      are 2.50 (400-414 SkS), 2.45 (649-706 SkS) and 2.40 (941-999 SkS).  
+
+      Main differences between the GCD speeds are how our weapon skills line up with our off-global cooldowns. The 2.50 setup rarely delays either our weapon skills or off-global cooldowns, whereas 2.45 and 2.40 come with some delays.  
+
+
+      The best GCD speed is often a question of comfort and fights.
 authors:
   - Balance-WAR-Staff
 ---
