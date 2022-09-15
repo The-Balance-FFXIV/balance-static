@@ -427,9 +427,15 @@ As we can tell, in terms of drifting management, a 2.48 GCD offers us the least 
 
 ## Reaper Damage Delay
 
-Below is the damage delay for all of the Reaper weaponskills, abilities and spells. Big thanks to Shalfu Nyan for putting this together. This information is incredibly useful because it will help determine when you may risk ghosting a weaponskill. For example, if a boss is about to jump, you want to try and avoid using Soul Slice, Plentiful Harvest or Harvest Moon as they take a long time to register damage and may end up being ghosted. It is also useful for determining if casted spells like Communio will land into raid buffs.
+Below is the damage delay for all of the Reaper weaponskills, abilities and spells. Big thanks to Shalfu Nyan for putting this together. This information is incredibly useful because it will help determine when you may risk ghosting a weaponskill. For example, if a boss is about to jump, you want to try and avoid using Soul Slice, Plentiful Harvest or Harvest Moon as they take a long time to register damage and may end up being ghosted.  The damage delay for Communio and casted Harpe apply to the period after the damage has been snapshotted. From start of cast to application Communio takes roughly 1.38s to apply its damage.
 
 ![](/img/jobs/rpr/damagedelayrpr.png)
+
+#### C﻿asting Damage Calculations
+
+W﻿hen factoring buffs instant weaponskills, instant spells, and abilities calculate their damage immediately. Reaper's casted spells, however, do not calculate buffs and potency until their slidecast window ends which is roughly .76s into the cast of Harpe and Communio. This the same window that allows you to move during a cast. 
+
+
 
 - - -
 
@@ -633,7 +639,7 @@ Dead Zoning comes with some disadvantages though, which are important to talk ab
 * You are holding onto a lot of resources all the time. This makes an untimely death a bigger hit on your DPS than just using your resources as needed.
 * Overcapping is a real monster that you have to worry about.
 
-Ultimately, Dead Zoning has had a few practical uses but is still remains relatively risky. It plays out really well in phased encounters and is useful in a fight like P8S Phase 2 where pooling additional resources for a big buff phase plays out. We also find some use for it in DSR allowing us to pool resources for the second and Final Phases.
+Ultimately, Dead Zoning has had a few practical uses but still remains relatively risky. It plays out really well in phased encounters and is useful in a fight like P8S Phase 2 where pooling additional resources for a big buff phase plays out. We also find some use for it in DSR allowing us to pool resources for the third and final phases.
 
 - - -
 
