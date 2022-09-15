@@ -11,7 +11,7 @@ changelog:
   - date: 2022-05-13T03:20:44.503Z
     message: Added 6.1 BiS with the DSR weapon.
   - date: 2022-08-23T22:48:19.786Z
-    message: Updated for early 6.2
+    message: Updated for 6.2
 bis:
   - type: etro
     description: Savage Progression Set for Patch 6.2. Use this if you're
