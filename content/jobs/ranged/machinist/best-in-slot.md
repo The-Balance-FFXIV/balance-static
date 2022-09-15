@@ -11,7 +11,7 @@ changelog:
   - date: 2022-05-13T03:20:44.503Z
     message: Added 6.1 BiS with the DSR weapon.
   - date: 2022-08-23T22:48:19.786Z
-    message: Updated for early 6.2
+    message: Updated for 6.2
 bis:
   - type: etro
     description: Savage Progression Set for Patch 6.2. Use this if you're
@@ -24,6 +24,18 @@ bis:
       Crafted Earring set.\r\n"
     name: Normal Mode Raid Earrings Progression Set
     link: 32dbc977-5392-4afb-a6f7-6b697e66fa7c
+  - type: etro
+    description: ""
+    name: Patch 6.2 Best-in-Slot 2.50 GCD
+    link: 8a0bdf80-80f5-42e8-b10a-160b0fc2d151
+  - type: etro
+    description: ""
+    name: Patch 6.2 Best-in-Slot 2.47 GCD
+    link: d48aaab2-102d-4b29-aa58-f1d7eb035fa0
+  - type: etro
+    description: ""
+    name: Patch 6.2 Best-in-Slot 2.44 GCD
+    link: 7262fe54-54d1-4cae-9e0f-3ac26caef33a
   - type: etro
     description: The BiS for Dragonsong's Reprise in Patch 6.2 using the Savage
       weapon from Asphodelos. If using the Ultimate weapon, place a Direct Hit
