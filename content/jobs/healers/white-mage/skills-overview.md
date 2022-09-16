@@ -178,7 +178,7 @@ changelog:
 * Places a Bell at a designated location and gives the WHM a 5-stack buff
 * When the White Mage takes damage, Bell uses one stack and heals allies within a 20y radius (400p). Bell’s healing originates from itself, not the WHM.
 * Bell can be triggered again at any time to heal all allies (200p per stack)
-* After 15s Bell expires and any remaining stacks heal allies within a 20y radius (200p per stack)
+* After 20s Bell expires and any remaining stacks heal allies within a 20y radius (200p per stack)
 * It's most effective at healing multiple raidwides, however don't be afraid to use it to heal one or two raidwides and the leftover stacks can top the party.
 
 ![Plenary Indulgence](https://xivapi.com/i/002000/002639_hr1.png)
