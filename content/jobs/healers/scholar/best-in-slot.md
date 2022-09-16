@@ -46,17 +46,6 @@ bis:
     name: 2.31 low-pi set
   - type: etro
     description: >-
-      * Safe to run in any environment.
-
-      * A ton of extra MP for those who want to start high before removing Piety.
-
-      * Gives a good Chain and Bio alignment, however downtime will mess this up.
-
-      * 2.50 GCD
-    name: 2.50 high piety DSW set
-    link: https://etro.gg/gearset/ec325832-c1d5-4120-839c-60f9576e23cc
-  - type: etro
-    description: >-
       * Safe to run
 
       * This set should be safe to run, but you may need to add extra Piety.
