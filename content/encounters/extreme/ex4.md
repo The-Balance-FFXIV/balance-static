@@ -1,5 +1,4 @@
 ---
-spoiler: false
 title: Storm's Crown (Extreme)
 fight_title: EX4
 difficulty: extreme
@@ -11,9 +10,10 @@ series_name: EW EX Trials
 weight: 4
 tier_weight: 1
 coming_soon: false
+spoiler: false
 expansion: ew
 authors:
-  - Balance-Encounter-Staff
+  - lyra-rose
 lastmod: 2022-09-12T23:46:26.004Z
 patch: "6.2"
 tags:
