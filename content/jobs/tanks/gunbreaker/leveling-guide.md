@@ -4,7 +4,7 @@ card_header_image: /img/jobs/gnb/leveling.png
 authors:
   - azazael
   - Balance-GNB-Staff
-patch: "6.1"
+patch: "6.2"
 lastmod: 2022-04-12T00:13:47.884Z
 changelog:
   - date: 2021-10-25T21:25:48.261Z
