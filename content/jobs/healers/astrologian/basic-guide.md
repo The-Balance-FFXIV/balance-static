@@ -3,6 +3,7 @@ title: Astrologian Basic Guide
 card_header_image: /img/jobs/ast/basic.png
 authors:
   - Balance-AST-Staff
+  - Ahriqi
 patch: "6.08"
 lastmod: 2022-04-12T05:46:39.982Z
 changelog:
