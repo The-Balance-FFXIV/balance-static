@@ -1,42 +1,76 @@
 ---
 title: Astrologian Best in Slot (BiS)
 layout: bis
-patch: "6.0"
-lastmod: 2022-02-14T05:32:34.911Z
+patch: "6.2"
+lastmod: 2022-09-17T22:46:41.890Z
 changelog:
   - date: 2021-10-26T21:05:27.755Z
     message: Article Created.
   - date: 2022-02-14T05:31:40.938Z
     message: Updated for Endwalker
+  - date: 2022-09-17T22:46:47.690Z
+    message: Updated for 6.2
 bis:
   - type: etro
-    description: For likely only this first tier, SpS is in fact stronger than Crit
-      on average across the board. Use this for pretty much any scenario *if*
-      you can handle double weaving at 2.09 under Lightspeed. This is locked to
-      folks who play with very low ping, or through use of NoClippy (please use
-      responsibly).
-    name: '"what is life" (SpS/Crafted) 2.32GCD'
-    link: "https://etro.gg/gearset/88647808-8a28-477b-b285-687bdcbff2d4 "
-  - type: etro
-    description: This will do a bit less damage than a full SpS build, but offers a
-      bit more Crit for those that wish to go that route. It's very close to the
-      full SpS build, and is a bit more ping friendly.
-    name: '"Pumpkins." (Mix/Crafted) 2.36GCD'
-    link: https://etro.gg/gearset/90d1ba33-8293-4474-ae98-c03c20e1d594
+    description: >-
+      With the advent of Crit finally outscaling Spell Speed...we still are in a
+      position to stack a LOT of Spell Speed. Even when we optimize to minimize
+      Piety and maximize Crit, we have lots of leftover melding slots, and we
+      pick between Spell Speed, and Direct Hit. In terms of damage, the choice
+      between these two is blatantly clear, as Spell Speed is more
+      multiplicative while Direct Hit is more linear. This set is the maximum
+      damage possible regardless of whether you crave variance or not.
+
+
+      Be wary of the MP economy of this one, it is a bit hefty. If you are concerned about your mana despite playing AST, the easiest upgrade is to take a Tome ring instead. We have a set for this.
+
+
+      2.31 is an awkward GCD that has some pretty poor Star and Minor Arcana drift, but it will not cause either to drift out of buffs or cause a lost usage in almost all cases. Divination is fine at 2.31. 
+
+
+      This set is identical to the SCH max-damage BiS, and will work fine for anyone playing SCH as well.
+    name: '"fresh bizza" (Crafted) 2.31GCD'
+    link: https://etro.gg/gearset/64a6dfe2-a91e-455a-a24b-cc41cf71f9c4
   - type: etro
     description: >-
-      For those with less friendly ping, this will only do slightly less damage
-      on average compared to a SpS build; also for those wishing to fish for
-      high ceiling runs, and are okay with a majority of their runs on average
-      being a little lower.
+      This is the Tome variant of the "fresh bizza" set above. Slightly better
+      mana economy, slightly different melds.
 
 
-      Note - this will also be your most compatible set with SGE and WHM (SCH can use any of these sets). If you are concerned with playing SGE or WHM *primarily* with AST secondary to them, use their BiS--AST will fill in with it just fine. For those concerned about MP: don't. With all the MP refund tools AST has at its disposal, you can die with the 2.32 set and *still* recover MP. The gearcalc will show you exactly how ridiculously good our MP economy is, if you care to check. 
+      This should be the set all 2.31 users should have on hand for the expected 6.3 Ultimate (essentially, make sure you have a Tome ring ready for that encounter).
+    name: '"Outpizza the Hut" (Tome) 2.31GCD'
+    link: https://etro.gg/gearset/a2201358-04ad-4b07-81e4-003a514f0694
+  - type: etro
+    description: >-
+      As the name would suggest, this is a set that is more tailored towards
+      being an "omni-healer" set. It meshes a bit better with all the other
+      healers, particularly SGE. Instead of prio-melding Spell Speed, this set
+      will replace a bunch of SpS melds for less-desirable Direct Hit in order
+      to slow down the GCD to reach 2.40.
 
 
-      All sets include a crafted ring. If you wish to use the tome ring, we have provided the highest simulated examples in the gear calc: [https://bit.ly/astdmgcalc](https://bit.ly/astdmgcalc "https\://bit.ly/astdmgcalc") If you wish to do some testing yourself, please feel free to `Make a Copy` and play with the spreadsheet to your hearts' desires. As always be sure to look at your food. And definitely pay attention to melds this tier.
-    name: '"Variance is a Drug" (Crit/Crafted) 2.44GCD'
-    link: https://etro.gg/gearset/f7f17b16-822d-461a-a275-e50a727810fd
+      This set has *mildly* better mana economy, but that is largely irrelevant.
+    name: '"healing is fun" (Crafted) 2.40GCD'
+    link: https://etro.gg/gearset/ffe41e05-d7df-4111-a3e6-1c16e1dd885c
+  - type: etro
+    description: >-
+      The tome variant of the above "healing is fun" set. Slightly better mana
+      economy, slightly different melds.
+
+
+      This should be the set all 2.40 users should have on hand for the expected 6.3 Ultimate (essentially, make sure you have a Tome ring ready for that encounter).
+    name: '"Puddingway" (Tome) 2.40GCD'
+    link: https://etro.gg/gearset/0fa5f146-9133-4349-a3ee-969a042e88b9
+  - type: etro
+    description: >-
+      A go-to mid Piety range set for those that are in situations that, for
+      whatever the reason, they feel they need more Piety than a Tome ring set
+      can provide. It replaces the tome gloves with Abyssos gloves.
+
+
+      This set should not have any mana issues at all in any situation, barring extreme examples.
+    name: crit scales Copium
+    link: https://etro.gg/gearset/533e13de-7ce4-4183-9304-3cfa2b7a92b5
 authors:
   - Ahriqi
 ---
