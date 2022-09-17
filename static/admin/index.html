@@ -12,6 +12,14 @@
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <!-- Darkreader -->
     <script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.27/darkreader.min.js"></script>
+    <!-- accurate previews -->
+    <script src="/theme-assets/editor/job-preview.js"></script>
+    <style>
+      /* fixes editor issues - remove after netlify-cms issue 5902 is fixed – https://github.com/netlify/netlify-cms/issues/5902 */
+      [data-slate-editor] {
+        -webkit-user-modify: read-write !important;
+      }
+    </style>
   </head>
   <body>
     <!-- Include the script that builds the page and powers Netlify CMS -->
@@ -20,7 +28,12 @@
     <script src="https://sharadcodes.github.io/hugo-shortcodes-netlify-cms/dist/hugo_shortcodes_netlify_cms.js"></script>
     <script>
       DarkReader.enable(); // Enable darkreader
-      CMS.registerPreviewStyle("preview.css"); // Register preview styles in Netlify
+      CMS.registerPreviewStyle("/css/main.css"); // Register preview styles in Netlify
+      /* job guide previews */
+      CMS.registerPreviewTemplate("leveling-guide", GenericJobGuide);
+      CMS.registerPreviewTemplate("basic-guide", GenericJobGuide);
+      CMS.registerPreviewTemplate("skills-overview", GenericJobGuide);
+      CMS.registerPreviewTemplate("openers", GenericJobGuide);
     </script>
   </body>
 </html>
