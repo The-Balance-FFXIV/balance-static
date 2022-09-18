@@ -1,7 +1,7 @@
 ---
 title: Monk FAQ
 layout: qna
-patch: "6.0"
+patch: "6.21"
 lastmod: 2022-02-04T11:17:20.380Z
 changelog:
   - date: 2021-10-28T03:52:05.648Z
