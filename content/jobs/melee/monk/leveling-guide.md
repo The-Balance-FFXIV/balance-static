@@ -3,7 +3,7 @@ title: Monk Leveling Guide
 card_header_image: /img/jobs/mnk/leveling.png
 authors:
   - Perfect-Balance
-patch: "6.18"
+patch: "6.21"
 lastmod: 2022-08-08T20:05:57.740Z
 changelog:
   - date: 2021-11-15T21:06:38.491Z
