@@ -1,7 +1,7 @@
 ---
 title: Summoner FAQ
 layout: qna
-patch: "6.2"
+patch: "6.21"
 lastmod: 2022-09-14T05:00:05.633Z
 changelog:
   - date: 2021-11-28T01:53:18.458Z
@@ -95,7 +95,7 @@ qna:
 
       2. Hold Festers whenever possible to place as many in buffs. If you can afford to delay Energy Drain without losing a use to place four Festers in buffs, you should.
 
-      3. You should almost never delay your demi for your team’s buffs. It will require you to use extra Ruin 3s, and each extra Ruin 3 is a significant potency loss. The cost of aligning your burst in buffs is higher than the potency you would gain by aligning with buffs. There is sometimes, very rarely, an argument to use 1 or 2 extra Ruin 3s, at most. Any more than that quickly becomes mathematically impossible to gain enough potency from buffs to offset what you would lose.
+      3. You should almost never delay your demi for your team’s buffs. It will require you to use extra Ruin IIIs, and each extra Ruin III is a significant potency loss. The cost of aligning your burst in buffs is higher than the potency you would gain by aligning with buffs. There is sometimes, very rarely, an argument to use one or two extra Ruin IIIs, at most. Any more than that quickly becomes mathematically impossible to gain enough potency from buffs to offset what you would lose.
 authors:
   - Balance-SMN-Staff
 ---
