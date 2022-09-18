@@ -26,9 +26,10 @@
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
     <!-- Include the script for previewing Hugo shortcodes -->
     <script src="https://sharadcodes.github.io/hugo-shortcodes-netlify-cms/dist/hugo_shortcodes_netlify_cms.js"></script>
+    {{ $styles := resources.Get "css/main.css" | postCSS }}       
     <script>
       DarkReader.enable(); // Enable darkreader
-      CMS.registerPreviewStyle("/css/main.css"); // Register preview styles in Netlify
+      CMS.registerPreviewStyle("{{ $styles.RelPermalink }}"); // Register preview styles in Netlify
       /* job guide previews */
       CMS.registerPreviewTemplate("leveling-guide", GenericJobGuide);
       CMS.registerPreviewTemplate("basic-guide", GenericJobGuide);
