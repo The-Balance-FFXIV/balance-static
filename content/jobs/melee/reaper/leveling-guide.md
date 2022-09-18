@@ -4,7 +4,7 @@ card_header_image: /img/jobs/rpr/rpr-leveling.png
 authors:
   - Balance-RPR-Staff
 patch: "6.21"
-lastmod: 2022-01-02T00:47:43.848Z
+lastmod: 2022-09-18T06:38:02.392Z
 changelog:
   - date: 2022-09-13T13:43:48.819Z
     message: Updated patch number
