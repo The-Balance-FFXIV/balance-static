@@ -4,7 +4,7 @@ card_header_image: /img/jobs/smn/leveling.png
 authors:
   - elevation
   - Balance-SMN-Staff
-patch: "6.18"
+patch: "6.21"
 lastmod: 2022-07-05T03:04:47.023Z
 changelog:
   - date: 2021-11-15T21:18:27.784Z
