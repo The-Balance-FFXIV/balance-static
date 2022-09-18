@@ -3,8 +3,8 @@ title: Monk Basic Guide
 card_header_image: /img/jobs/mnk/basic.png
 authors:
   - Perfect-Balance
-patch: "6.1"
-lastmod: 2022-04-22T16:43:52.036Z
+patch: "6.21"
+lastmod: 2022-09-18T08:02:53.698Z
 changelog:
   - date: 2021-10-28T03:44:08.486Z
     message: Created page
