@@ -3,7 +3,7 @@ title: Reaper Advanced Guide
 card_header_image: /img/jobs/rpr/screenshot_5-edit.jpg
 authors:
   - ellunavi
-patch: "6.2"
+patch: "6.21"
 lastmod: 2022-08-30T00:45:13.404Z
 changelog:
   - date: 2021-11-27T12:55:28.038Z
@@ -25,6 +25,11 @@ changelog:
     message: Updated Values for assigning potency to soul and shroud
   - date: 2022-08-30T00:45:16.250Z
     message: Updated for Patch 6.2
+  - date: 2022-09-13T13:58:10.174Z
+    message: Removed Theorycrafting vs. Practice section. Added more context under
+      Dead Zoning. Updated GCD Tier section. Updated Patch Number
+  - date: 2022-09-15T19:27:57.206Z
+    message: Modified the wording under Damage Delay Section
 ---
 ## Reaper Advanced Rotational Theory
 
@@ -41,10 +46,6 @@ I wanted to start this guide off with talking about the FFLogs metrics and how t
 * **aDPS** - Short for adjusted damage per second. This will factor in all the damage you do, but subtract specific single target buffs like Dragon Sight, Standard Step, Devilment and Astrologian cards.
 
 - - -
-
-## Theorycrafting vs. Practice
-
-Theorycrafting is an important piece to talk about before you dive too deep into this document. There are always two parts to theorycrafting: the crafting of the actual theory and testing the theory by putting it into live play. Thanks to the release of Endwalker, we can now actually test and play Reaper. That being said, not every scenario or situation can immediately be tested. As of re-writing this section, we do not have Savage raids or Ultimates, so some of these concepts may not work within whatever limitations the fights put on us. Lastly, new theories will be listed here as we discover them, but I will try to notate them as “not tested” if required. The aim of this guide is to maximize Reaper’s potential without using any third party tools, so optimizations that require their use will be left out. 
 
 ![](/img/jobs/rpr/ffxiv_02012022_002717_188.png)
 
@@ -418,7 +419,7 @@ At a 2.5s GCD, Arcane circle drifts .5s each rotation and Gluttony drifts anywhe
 
 All of these rotations assumed full uptime, except for one disconnect at around three minutes in which Harvest Moon was used. 
 
-As we can tell, in terms of drifting management, a 2.48 GCD offers us the least risk, with 2.49 not being too far behind. 2.49 is only a single skill speed meld, while 2.48 will require some investment.  As of 6.05 and the new raid gear, the natural 2.5s GCD set is really strong and hits stat tiers very well. It is currently ahead of a single meld 2.49 set by a slight margin. While we know that 2.49 aligns better with raid buffs, the gain vs. loss of the two sets will have to be compared.
+As we can tell, in terms of drifting management, a 2.48 GCD offers us the least risk, with 2.49 not being too far behind. 2.49 is only a single skill speed meld, while 2.48 will require some investment.  As of 6.21 we have found very little need for the tight alignment that 2.48 provides making 2.49 the preferred default set. If you are interested in the 2.48 BiS please feel free to ping Ellunavi in the Balance Discord. 
 
 ![](/img/jobs/rpr/ffxiv_22122021_150141_799.png)
 
@@ -426,9 +427,13 @@ As we can tell, in terms of drifting management, a 2.48 GCD offers us the least 
 
 ## Reaper Damage Delay
 
-Below is the damage delay for all of the Reaper weaponskills, abilities and spells. Big thanks to Shalfu Nyan for putting this together. This information is incredibly useful because it will help determine when an ability will fall into raid buffs or when you may risk ghosting a weaponskill. For example, if a boss is about to jump, you want to try and avoid using Soul Slice, Plentiful Harvest or Harvest Moon as they take a long time to register damage and may end up being ghosted.
+Below is the damage delay for all of the Reaper weaponskills, abilities and spells. Big thanks to Shalfu Nyan for putting this together. This information is incredibly useful because it will help determine when you may risk ghosting a weaponskill. For example, if a boss is about to jump, you want to try and avoid using Soul Slice, Plentiful Harvest or Harvest Moon as they take a long time to register damage and may end up being ghosted.  The damage delay for Communio and casted Harpe apply to the period after the damage has been snapshotted. From start of cast to application Communio takes roughly 1.38s to apply its damage.
 
 ![](/img/jobs/rpr/damagedelayrpr.png)
+
+#### C﻿asting Damage Calculations
+
+W﻿hen factoring buffs instant weaponskills, instant spells, and abilities calculate their damage immediately. Reaper's casted spells, however, do not calculate buffs and potency until their slidecast window ends which is roughly .76s into the cast of Harpe and Communio. This the same window that allows you to move during a cast. 
 
 - - -
 
@@ -623,7 +628,7 @@ Above you can see how, on average, we have enough Shroud and Soul to execute our
 
 ![](/img/jobs/rpr/regular_vs_dead_zone.png)
 
-Above you can see the benefits of Dead Zoning. This was simulated using a party composition containing a Ninja, Red Mage and Dancer in order to show the effect it has on our aDPS. Dead Zoning pulls ahead when the resources are dumped at around the 9:00 minute mark. This resource dump can happen anytime after the 5:30 minute mark, and the pooling strategy will end better, as more Gluttonys fit into more raid buffs. Below, you can see the effect that Dead Zoning has on minimizing Gluttony’s drift.
+Above, you can see the benefits of Dead Zoning. This was simulated using a party composition containing a Ninja, Red Mage and Dancer in order to show the effect it has on our aDPS. Dead Zoning pulls ahead when the resources are dumped at around the 9:00 minute mark. This resource dump can happen anytime after the 5:30 minute mark, and the pooling strategy will end better, as more Gluttonys fit into more raid buffs. Below, you can see the effect that Dead Zoning has on minimizing Gluttony’s drift.
 
 ![](/img/jobs/rpr/dzgluttonydrift.png)
 
@@ -632,7 +637,7 @@ Dead Zoning comes with some disadvantages though, which are important to talk ab
 * You are holding onto a lot of resources all the time. This makes an untimely death a bigger hit on your DPS than just using your resources as needed.
 * Overcapping is a real monster that you have to worry about.
 
-Ultimately, we are not sure what will be better for content until we have the content, but Dead Zoning could definitely be a tactic we use in optimization. Due to its high risk factor though, we recommend not doing it during prog, as a death could lead to a lot more potency lost.
+Ultimately, Dead Zoning has had a few practical uses but still remains relatively risky. It plays out really well in phased encounters and is useful in a fight like P8S Phase 2 where pooling additional resources for a big buff phase plays out. We also find some use for it in DSR allowing us to pool resources for the third and final phases.
 
 - - -
 
