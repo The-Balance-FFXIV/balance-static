@@ -4,8 +4,8 @@ card_header_image: /img/jobs/ast/basic.png
 authors:
   - Balance-AST-Staff
   - Ahriqi
-patch: "6.08"
-lastmod: 2022-04-12T05:46:39.982Z
+patch: "6.21"
+lastmod: 2022-09-18T06:39:25.616Z
 changelog:
   - date: 2021-10-26T19:28:39.310Z
     message: Created article.
