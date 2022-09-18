@@ -435,8 +435,6 @@ Below is the damage delay for all of the Reaper weaponskills, abilities and spel
 
 W﻿hen factoring buffs instant weaponskills, instant spells, and abilities calculate their damage immediately. Reaper's casted spells, however, do not calculate buffs and potency until their slidecast window ends which is roughly .76s into the cast of Harpe and Communio. This the same window that allows you to move during a cast. 
 
-
-
 - - -
 
 ## Disconnect Mapping
@@ -630,7 +628,7 @@ Above you can see how, on average, we have enough Shroud and Soul to execute our
 
 ![](/img/jobs/rpr/regular_vs_dead_zone.png)
 
-Above you can see the benefits of Dead Zoning. This was simulated using a party composition containing a Ninja, Red Mage and Dancer in order to show the effect it has on our aDPS. Dead Zoning pulls ahead when the resources are dumped at around the 9:00 minute mark. This resource dump can happen anytime after the 5:30 minute mark, and the pooling strategy will end better, as more Gluttonys fit into more raid buffs. Below, you can see the effect that Dead Zoning has on minimizing Gluttony’s drift.
+Above, you can see the benefits of Dead Zoning. This was simulated using a party composition containing a Ninja, Red Mage and Dancer in order to show the effect it has on our aDPS. Dead Zoning pulls ahead when the resources are dumped at around the 9:00 minute mark. This resource dump can happen anytime after the 5:30 minute mark, and the pooling strategy will end better, as more Gluttonys fit into more raid buffs. Below, you can see the effect that Dead Zoning has on minimizing Gluttony’s drift.
 
 ![](/img/jobs/rpr/dzgluttonydrift.png)
 
