@@ -1,126 +1,68 @@
 ---
 title: Summoner Best in Slot (BiS)
 layout: bis
-patch: "6.0"
-lastmod: 2022-02-16T09:12:23.515Z
+patch: "6.21"
+lastmod: 2022-09-18T07:55:30.037Z
 changelog:
   - date: 2021-11-09T04:29:30.904Z
     message: Created page
   - date: 2022-02-16T09:12:09.460Z
     message: Updated for Endwalker
+  - date: 2022-09-18T07:55:22.254Z
+    message: Updated for 6.2 sets
 bis:
   - type: etro
-    description: All builds are viable and competitive with each other. Crit builds
-      are better in full uptime scenarios and better at aligning with buffs, but
-      the speed SMN playstyle is still a viable option if you prefer it. Please
-      note the exact melds are tentative to change based on future testing, but
-      the pieces are concrete for the sets.
-    name: 2.46 General (with SpS melds)
-    link: 840a5088-23fa-49c5-a12a-3731ca55b4a6
+    description: Sets below 2.48 GCD are for comfort with demi windows. They will
+      generally not be better than 2.48 unless the encounter favors a slightly
+      faster GCD If you cannot reliably hit six demi GCDs, consider these.
+    name: 2.48 Crit Set
+    link: b3567b2d-5c92-4ba1-a18a-eb91b614e944
   - type: etro
-    description: All builds are viable and competitive with each other. Crit builds
-      are better in full uptime scenarios and better at aligning with buffs, but
-      the speed SMN playstyle is still a viable option if you prefer it. Please
-      note the exact melds are tentative to change based on future testing, but
-      the pieces are concrete for the sets.
-    name: 2.48 General (no SpS melds)
-    link: 79f43ffa-6b37-417c-bc24-8b36ea303ee8
+    description: ""
+    name: 2.47 Crit Set
+    link: 42575c18-b518-473d-a082-efdc580f0ec2
   - type: etro
-    description: All builds are viable and competitive with each other. Crit builds
-      are better in full uptime scenarios and better at aligning with buffs, but
-      the speed SMN playstyle is still a viable option if you prefer it. Please
-      note the exact melds are tentative to change based on future testing, but
-      the pieces are concrete for the sets.
-    name: 2.20 Speed Build (with SpS melds)
-    link: 0dc3c04b-07bd-43c5-b07d-e196e93aa29f
+    description: ""
+    name: 2.46 Crit Set
+    link: 750617ed-aad2-42a0-b68a-1f59b2ea035f
   - type: etro
-    description: All builds are viable and competitive with each other. Crit builds
-      are better in full uptime scenarios and better at aligning with buffs, but
-      the speed SMN playstyle is still a viable option if you prefer it. Please
-      note the exact melds are tentative to change based on future testing, but
-      the pieces are concrete for the sets.
-    name: 2.25 Speed Build (no SpS melds)
-    link: dd37ae1d-6341-4fd0-bc46-d406db34562d
+    description: ""
+    name: 2.45 Crit
+    link: bb37ef05-9cd3-498d-889b-dcc4934fc4bf
   - type: etro
-    description: "This set is our **preliminary thought** on BiS for UWU. It is not
-      necessarily the absolutely best set you can possibly make, but it is our
-      best current guess based on what we know right now. The goal is to get
-      seven Astral Impulses per Bahamut and spam as many Bahamuts as possible.\r
-
-      \r
-
-      They also follow with the disclaimer that **you do not need the
-      exact BiS shown here to clear an ultimate.** Even post stat squish, the
-      DPS checks appear quite lenient.
-
-
-      \r
-
-      \r
-
-      You can also swap any piece of gear for another that has the same
-      combination of stats provided it is above the minimum ilvl to fully sync
-      (500 for UWU).
-
-
-      \r
-
-      \r
-
-      **If you are playing Summoner in level 70 content, Emerald Ruin is
-      less PPS than Ruin 3.** Emerald Ruin is only worth it if you would not
-      otherwise get a Ruin 3 (for example, if the boss is phasing) or if it
-      otherwise allows better alignment. You can still use it for emergency
-      movement as well.
-
-
-      It is possible to make a Crit/SpS focused set as well, but from our
-      sims and math it appears worse overall than focusing on Det/DH. This may
-      be different in a composition with heavy Crit buffs. The math has not been
-      fully mapped out yet, so please take these as what they are: our
-      **preliminary thoughts**."
-    name: UWU - 2.12 GCD (Det/DH)
-    link: d0dbe2ca-29b7-4b8c-9b13-5ab01af3ab99
+    description: SpS is an alternative playstyle for SMN that centers around
+      lowering the demi cooldown as much as possible. Please note that these
+      sets are perfectly viable to clear content, but generally will perform
+      slightly worse than Crit sets unless the encounter timeline favors them.
+    name: 2.19 SpS Set
+    link: cd0105ef-f8fb-4dca-aeb2-7853db4ad27a
   - type: etro
-    description: "This set is our **preliminary thought** on BiS for UCOB. It is not
-      necessarily the absolutely best set you can possibly make, but it is our
-      best current guess based on what we know right now. The goal is to get
-      seven Astral Impulses per Bahamut and spam as many Bahamuts as possible.\r
-
-      \r
-
-      They also follow with the disclaimer that **you do not need the
-      exact BiS shown here to clear an ultimate.** Even post stat squish, the
-      DPS checks appear quite lenient.
-
-
-      \r
-
-      \r
-
-      You can also swap any piece of gear for another that has the same
-      combination of stats provided it is above the minimum ilvl to fully sync
-      (470 for UCOB).
-
-
-      \r
-
-      \r
-
-      **If you are playing Summoner in level 70 content, Emerald Ruin is
-      less PPS than Ruin 3.** Emerald Ruin is only worth it if you would not
-      otherwise get a Ruin 3 (for example, if the boss is phasing) or if it
-      otherwise allows better alignment. You can still use it for emergency
-      movement as well.
-
-
-      It is possible to make a Crit/SpS focused set as well, but from our
-      sims and math it appears worse overall than focusing on Det/DH. This may
-      be different in a composition with heavy Crit buffs. The math has not been
-      fully mapped out yet, so please take these as what they are: our
-      **preliminary thoughts**."
-    name: UCOB - 2.14 GCD (Det/DH)
-    link: d528b344-6090-43c6-93da-7357004602c8
+    description: SpS is an alternative playstyle for SMN that centers around
+      lowering the demi cooldown as much as possible. Please note that these
+      sets are perfectly viable to clear content, but generally will perform
+      slightly worse than Crit sets unless the encounter timeline favors them.
+    name: 2.18 SpS Set
+    link: 58739dc7-c265-4874-90e5-dd875eb29dad
+  - type: etro
+    description: ""
+    name: Pre-Savage Crit Set
+    link: 091ef4f1-1ca2-4df2-87c5-745d6ccf1252
+  - type: etro
+    description: ""
+    name: Pre-Savage SpS Set
+    link: 8a2e2c56-60ef-4519-a090-7d56af0e4afc
+  - type: etro
+    description: ""
+    name: Pre-Savage Crit Full Crafted Set
+    link: c4c3b54d-06e5-4208-b40f-166f527a7823
+  - type: etro
+    description: ""
+    name: Pre-Savage Budget Crit No Crafted Set
+    link: 90ee912d-be60-4c8e-81b3-bc01cdbae8a3
+  - type: etro
+    description: ""
+    name: Pre-Savage Budget SpS Set
+    link: 6b7d6d4d-42fe-4bae-8ea6-e4e39a8fc3a4
 authors:
   - Balance-SMN-Staff
 ---
