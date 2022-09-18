@@ -3,7 +3,7 @@ title: Summoner Basic Guide
 card_header_image: /img/jobs/smn/basic.png
 authors:
   - argen
-patch: "6.08"
+patch: "6.21"
 lastmod: 2022-04-02T03:25:18.702Z
 changelog:
   - date: 2021-11-15T21:19:02.069Z
