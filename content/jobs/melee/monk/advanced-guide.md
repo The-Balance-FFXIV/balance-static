@@ -3,7 +3,7 @@ title: Monk Advanced Guide
 card_header_image: /img/jobs/mnk/advanced.png
 authors:
   - Perfect-Balance
-patch: "6.1"
+patch: "6.21"
 lastmod: 2022-04-24T21:05:02.073Z
 changelog:
   - date: 2021-11-15T21:07:56.881Z
