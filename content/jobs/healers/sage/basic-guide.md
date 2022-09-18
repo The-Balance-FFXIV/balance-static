@@ -5,12 +5,14 @@ authors:
   - Balance-SGE-Staff
   - wynn
 patch: "6.2"
-lastmod: 2022-04-13T05:59:22.628Z
+lastmod: 2022-09-18T05:29:35.044Z
 changelog:
   - date: 2022-01-24T06:59:41.157Z
     message: Added page
   - date: 2022-04-12T19:58:08.567Z
     message: Removed trick attack note
+  - date: 2022-09-18T05:29:53.405Z
+    message: Updated Holos section
 ---
 # Sage: The Basics
 
