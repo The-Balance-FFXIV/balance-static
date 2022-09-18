@@ -1,7 +1,7 @@
 ---
 title: Monk Changes
 layout: changes
-lastmod: 2022-04-12T00:20:32.101Z
+lastmod: 2022-09-18T08:04:13.179Z
 changes:
   - patch: "5.58"
     description: "[Placeholder for Endwalker]"
