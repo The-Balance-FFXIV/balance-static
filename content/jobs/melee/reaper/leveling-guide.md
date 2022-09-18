@@ -3,8 +3,11 @@ title: Reaper Leveling Guide
 card_header_image: /img/jobs/rpr/rpr-leveling.png
 authors:
   - Balance-RPR-Staff
-patch: "6.01"
-lastmod: 2022-01-02T00:47:43.848Z
+patch: "6.21"
+lastmod: 2022-09-18T06:38:02.392Z
+changelog:
+  - date: 2022-09-13T13:43:48.819Z
+    message: Updated patch number
 ---
 This guide is targeted at players looking to play and understand Reaper as they level up. It will cover some basic priorities for each level tier and will also serve as a priority list for playing Reaper at lower levels (for ultimates and such). If you are level 90 and looking to explore other guides please visit the following links:
 
