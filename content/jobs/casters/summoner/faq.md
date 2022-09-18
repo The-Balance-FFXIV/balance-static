@@ -1,8 +1,8 @@
 ---
 title: Summoner FAQ
 layout: qna
-patch: "6.0"
-lastmod: 2022-02-16T09:20:56.725Z
+patch: "6.21"
+lastmod: 2022-09-14T05:00:05.633Z
 changelog:
   - date: 2021-11-28T01:53:18.458Z
     message: Created page
@@ -87,6 +87,15 @@ qna:
       use Crit set. Speed build sets are only listed for those that really want
       to go fast, or optimize to particular fight timelines in a similar vein as
       the Extreme trial sets listed.
+  - question: My team is asking me to delay my burst and searing light for buffs.
+      What do I do?
+    answer: >-
+      1. Always use Searing Light with your team’s buffs, no matter what. If
+      they delay it, you delay it.
+
+      2. Hold Festers whenever possible to place as many in buffs. If you can afford to delay Energy Drain without losing a use to place four Festers in buffs, you should.
+
+      3. You should almost never delay your demi for your team’s buffs. It will require you to use extra Ruin IIIs, and each extra Ruin III is a significant potency loss. The cost of aligning your burst in buffs is higher than the potency you would gain by aligning with buffs. There is sometimes, very rarely, an argument to use one or two extra Ruin IIIs, at most. Any more than that quickly becomes mathematically impossible to gain enough potency from buffs to offset what you would lose.
 authors:
   - Balance-SMN-Staff
 ---
