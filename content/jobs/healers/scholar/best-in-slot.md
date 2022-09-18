@@ -15,12 +15,11 @@ changelog:
 bis:
   - type: etro
     description: |2
-      
           * Safe to run in any environment.
           * Perfect for those with no interest in optimizing or a fear of PF.
           * Gives a good Chain alignment, but a poor Bio alignment
           * 2.40 GCD
-    name: 2.40 mid-pi set
+    name: 2.40 Mind-Pie Set
     link: https://etro.gg/gearset/03f4b5a3-e9ab-434b-8cc2-b358546fcb60
   - type: etro
     description: >-
@@ -31,7 +30,7 @@ bis:
       * Gives good Chain alignment and poor Bio alignment
 
       * 2.40 GCD
-    name: 2.40 low-pi set
+    name: 2.40 Low-Pie Set
     link: https://etro.gg/gearset/fdc331e0-aa1a-45d1-9640-a38e691ad063
   - type: etro
     description: >
@@ -43,7 +42,7 @@ bis:
 
       * 2.31 GCD
     link: https://etro.gg/gearset/41c65b56-fa08-4c6a-b86b-627fd14d04ff
-    name: 2.31 low-pi set
+    name: 2.31 Low-Pie Set
   - type: etro
     description: >-
       * Safe to run
