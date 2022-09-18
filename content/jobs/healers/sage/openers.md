@@ -2,8 +2,8 @@
 title: Sage Openers
 authors:
   - Balance-SGE-Staff
-patch: "6.08"
-lastmod: 2022-01-24T06:50:31.275Z
+patch: "6.2"
+lastmod: 2022-09-18T06:39:07.198Z
 changelog:
   - date: 2022-01-24T06:51:23.100Z
     message: Created page
