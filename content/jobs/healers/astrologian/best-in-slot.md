@@ -13,11 +13,11 @@ changelog:
 bis:
   - type: etro
     description: >-
-      With the advent of Crit finally outscaling Spell Speed...we still are in a
-      position to stack a LOT of Spell Speed. Even when we optimize to minimize
-      Piety and maximize Crit, we have lots of leftover melding slots, and we
-      pick between Spell Speed, and Direct Hit. In terms of damage, the choice
-      between these two is blatantly clear, as Spell Speed is more
+      With the advent of Crit finally outscaling Spell Speed... We still are in
+      a position to stack a LOT of Spell Speed. Even when we optimize to
+      minimize Piety and maximize Crit, we have lots of leftover melding slots,
+      and we pick between Spell Speed, and Direct Hit. In terms of damage, the
+      choice between these two is blatantly clear, as Spell Speed is more
       multiplicative while Direct Hit is more linear. This set is the maximum
       damage possible regardless of whether you crave variance or not.
 
@@ -29,7 +29,7 @@ bis:
 
 
       This set is identical to the SCH max-damage BiS, and will work fine for anyone playing SCH as well.
-    name: '"fresh bizza" (Crafted) 2.31GCD'
+    name: '"Fresh bizza" (Crafted) 2.31GCD'
     link: https://etro.gg/gearset/64a6dfe2-a91e-455a-a24b-cc41cf71f9c4
   - type: etro
     description: >-
@@ -69,7 +69,7 @@ bis:
 
 
       This set should not have any mana issues at all in any situation, barring extreme examples.
-    name: crit scales Copium
+    name: Crit Scales Copium
     link: https://etro.gg/gearset/533e13de-7ce4-4183-9304-3cfa2b7a92b5
 authors:
   - Ahriqi
