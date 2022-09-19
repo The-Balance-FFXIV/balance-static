@@ -1,8 +1,8 @@
 ---
 title: White Mage Best in Slot (BiS)
 layout: bis
-patch: "6.1"
-lastmod: 2022-04-14T01:50:40.792Z
+patch: "6.2"
+lastmod: 2022-09-17T21:01:18.551Z
 changelog:
   - date: 2021-10-27T00:19:11.972Z
     message: Article Created.
@@ -14,26 +14,43 @@ changelog:
     message: Updated 6.1 sets
 bis:
   - type: etro
-    description: >-
-      
-
-      This set has plenty of piety to handle extra deaths and raises and is always a good option, though it lacks some of the damage of the sets below.
-    link: https://etro.gg/gearset/e78a29e3-1dcf-4e53-bbcf-234f33b2c831
-    name: 2.48 Min piety | 592 Piety
+    description: This is the slowest of the 3 Min-Piety BiS sets, its higher GCD may
+      be more comfortable for those on higher ping. This set also has the
+      highest DHit for those looking to farm Crit/DHit runs. Unlike the other
+      sets, this set uses Carrot Pudding as it's preferred food. Min-piety sets
+      are only designed for use in controlled environments with minimal GCD
+      healing and raising.
+    name: 2.42 GCD Slow BiS
+    link: https://etro.gg/gearset/b0ff484d-5441-4563-a6f7-9e50f57924a4
   - type: etro
-    description: These sets have no additional piety and are risky to run in any
-      sort of progression environment. 2.37 is more damage on average but 2.45
-      has much higher DHit for crit farming. AST/SCH 2.32 sps set is also a good
-      option.
-    link: https://etro.gg/gearset/1b4eb42c-5e3c-4736-b7ad-25afb7ec0ad4
-    name: " 2.45 Min piety (Crit BiS) "
+    description: This set offers is mostly identical to the 2.42 min-piety set but
+      has slightly more spellspeed, slightly lower DHit, and uses Garlean Pizza
+      instead of Carrot Pudding, but the expected damage is the same. This set
+      is identical to the 2.40 SCH BiS for more comfortable job swapping.
+      Min-piety sets are only designed for use in controlled environments with
+      minimal GCD healing and raising.
+    name: 2.40 GCD Slow BiS
+    link: https://etro.gg/gearset/23e7d85a-b6aa-441a-a088-208ee65177d9
   - type: etro
-    description: These sets have no additional piety and are risky to run in any
-      sort of progression environment. 2.37 is more damage on average but 2.45
-      has much higher DHit for crit farming. AST/SCH 2.32 sps set is also a good
-      option.
-    name: " 2.37 Min piety (Mixed BiS) "
-    link: https://etro.gg/gearset/9d1d3b92-9d02-4844-be4f-7622d69de67b
+    description: This set is considerably faster than the other min-piety sets and
+      has the lowest DHit. This set has the least PoM drift of the BiS sets, but
+      the lowest amount of DHit. Its expected damage is still identical to the
+      other min-piety sets. Min-piety sets are only designed for use in
+      controlled environments with minimal GCD healing and raising.
+    name: 2.33 GCD Fast BiS
+    link: https://etro.gg/gearset/da9ef350-7568-4c98-8ecc-959040d9ba3a
+  - type: etro
+    description: This set sacrifices a tiny bit of damage for slightly more piety.
+      It offers a bit more leeway with GCD healing and raising, but not enough
+      for constant raising and deaths.
+    name: 2.42 GCD Low-Piety
+    link: https://etro.gg/gearset/a7cb866f-6a5f-4744-b682-dddba4339143
+  - type: etro
+    description: This set is a fantastic set for all content as it has enough piety
+      for substantial amounts of GCD heals or recovery from death. It does have
+      the least damage of the listed sets as is expected for higher-piety sets.
+    name: 2.44 GCD Mid-Piety
+    link: https://etro.gg/gearset/e2fc82de-9629-48fd-ad46-5b13be00aaba
   - type: etro
     description: This set sacrifices some piety for damage but should still provide
       enough MP to cover most prog situations.
