@@ -46,7 +46,7 @@ Best raid buff alignment and a good default choice
 
 > Text version: Prepull Blood Weapon > Prepull The Blackest Night > Provoke if starting with aggro > Hard Slash + Edge of Shadow + Delirium > Syphon Strike + Potion > Souleater + Living Shadow + Salted Earth > Hard Slash + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
 
-![Standard Dark Knight Opener](/img/jobs/drk/drk_6.0_standard_opener_v3.png "Standard")
+![Standard Dark Knight Opener](/img/jobs/drk/drk_6.1_tentative_opener.png "Standard")
 
 ## Early Delirium Opener
 
