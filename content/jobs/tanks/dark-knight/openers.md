@@ -11,6 +11,8 @@ changelog:
     message: Added
   - date: 2022-01-02T22:59:40.775Z
     message: Updated for 6.01. Non-standard opener images are still placeholders.
+  - date: 2022-09-19T08:31:01.249Z
+    message: Updated for 6.21.
 ---
 # Dark Knight Openers and Rotation
 
