@@ -13,10 +13,17 @@ changelog:
 ---
 # Paladin Openers
 
-Tanks currently use Grade 6 Tinctures of Strength 
+Tanks currently use Grade 7 Tinctures of Strength 
 (Strength also affects tank magic potency, including healing)
 
 The choice of opener is encounter-specific and depends on factors such as when downtime happens, melee disengages and choice of strat, kill-times, etc. See the Encounter Optimization page (Coming Soon!) for encounter-specific optimization.
 
-## In-depth Opener and Rotation Graphic
-![Alternative](https://xiv.sleepyshiba.com/pld/img/info60.png)
+## In-depth Opener and Rotation Graphics
+
+### Slow GCD Rotation (new with 6.2, for 2.46 and slower GCD)
+
+![Paladin Slow GCD Opener and Rotation infographic](https://xiv.sleepyshiba.com/pld/img/infoslow.png)
+
+### Fast GCD Rotation (legacy, for 2.45 and faster GCD)
+
+![Paladin Fast GCD Opener and Rotation infographic](https://xiv.sleepyshiba.com/pld/img/info60.png)
