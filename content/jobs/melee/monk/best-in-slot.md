@@ -1,8 +1,8 @@
 ---
 title: Monk Best in Slot (BiS)
 layout: bis
-patch: "6.0"
-lastmod: 2022-06-11T02:21:48.534Z
+patch: "6.21"
+lastmod: 2022-09-18T08:04:46.954Z
 changelog:
   - date: 2021-10-28T03:54:36.354Z
     message: Created page
@@ -12,31 +12,21 @@ changelog:
     message: Small update
 bis:
   - type: etro
-    description: Recommended to use some form of frame-locking feature in order to
-      minimise your RoF drift each minute. Do not use this set if you play at 60
-      FPS. Check the FAQs if you want to know why.
-    name: (100%) 1.94 GCD
-    link: https://etro.gg/gearset/bf6a8993-911d-467a-bb0a-aa66b461844c
+    description: Compatible with 2.14 GCD Samurai
+    name: 1.94 GCD
+    link: 3ab677f7-9934-4578-aa3f-553344d35421
   - type: etro
-    description: This set is compatible with Samurai's 2.14 set while only being 0.5
-      DPS behind our other 1.94 set.
-    name: (99.995%) 1.94 GCD
-    link: https://etro.gg/gearset/841ecfdb-41fe-44b4-8764-b3b08e223f8c
+    description: ""
+    name: 1.93 GCD
+    link: 53ef792e-7e35-4ff4-80f2-476e646cd986
   - type: etro
-    description: "Allows RoF to be used perfectly on cooldown without having to
-      slightly drift to accommodate a late-weave, playable even on a Nintendo
-      Wii.\r\n"
-    name: (99.923%) 1.93 GCD
-    link: https://etro.gg/gearset/44bbd5d1-a7a8-49b5-a750-6d54a737dc31
-  - type: etro
-    description: Fragmentally worse than the other 1.93 set but doesn't rely on SkS
-      food to hit 1.93 GCD.
-    name: (99.911%) 1.93 GCD
-    link: https://etro.gg/gearset/23fd9918-b2aa-440f-89f0-cba5ea8229f3
+    description: Compatible with 2.15 GCD SAM, 1 DPS lower than other 1.94 set.
+    name: 1.94 GCD (2.15 GCD SAM)
+    link: 337dbe69-cce9-4b33-9f04-92554b729e2e
   - type: gsheets
     description: ""
-    link: https://docs.google.com/document/d/e/2PACX-1vR2Wip1bAhnSkMxSEH2m-ZRFIh6YDmMB-AfrrD8PtU1Xovpuz8Ix4N-Mbf9Cd2Md9f81FktdTgFb9fq/pub
-    name: BIS sets for Ultimate encounters
+    name: Ultimate/Unreal Sets
+    link: https://docs.google.com/document/d/1Qk1miOkniQ3szZJO0H4Si8TqBnoEDLhVuPPPH5z63kc/edit?usp=sharing
 authors:
   - Balance-MNK-Staff
 ---
