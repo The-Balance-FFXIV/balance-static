@@ -15,6 +15,10 @@ changes:
       buffed by 20 potency under Requiescat. No changes to rotation. 18s prepull
       opener is still preferred for an unknown killtime. Holy Spirit also buffed
       pre-lv84 (20p unbuffed, 40p under Requiescat).
+  - patch: "6.21"
+    description: Blade of Faith and Blade of Truth buffed by 20p each. Holy Spirit
+      buffed by 40p (under Requiescat). Expiacion buffed by 80p. Overall a ~2.7%
+      buff. See guides for more info on rotational changes.
 authors:
   - Balance-PLD-Staff
 ---
