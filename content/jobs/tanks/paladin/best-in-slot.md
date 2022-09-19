@@ -1,8 +1,8 @@
 ---
 title: Paladin Best in Slot (BiS)
 layout: bis
-patch: "6.05"
-lastmod: 2022-01-11T03:30:17.670Z
+patch: "6.21"
+lastmod: 2022-09-19T01:45:45.831Z
 changelog:
   - date: 2021-10-28T03:10:04.413Z
     message: Created page
@@ -10,28 +10,37 @@ changelog:
     message: Updated for first Savage tier
   - date: 2022-01-11T03:30:20.411Z
     message: Updated note for 2.40 set to be more clear
+  - date: 2022-09-19T01:41:49.583Z
+    message: Updated for 6.2
 bis:
-  - type: etro
-    description: ""
-    name: 2.45 GCD — Pumpkin Potage
-    link: 38fe3778-f2c1-4300-99e4-b58a0445e969
-  - type: etro
-    description: ""
-    link: 8cbbfbed-e2da-4866-8873-ffba3276b682
-    name: 2.44 GCD — Pumpkin Potage
-  - type: etro
-    description: ""
-    name: 2.42 GCD — Pumpkin Potage
-    link: bb893548-09aa-4a75-bb2f-90971bdcab38
-  - type: etro
-    description: Avoid using 2.40 unless you have significant latency issues that
-      otherwise prevent fitting 11 GCDs in Fight or Flight.
-    name: 2.40 GCD — Pumpkin Potage
-    link: ca8e2ea6-2e6a-4e69-93b0-711a51db0a27
   - type: gsheets
     description: Useful to put in your own gear options.
     name: Gear Sheet
     link: https://docs.google.com/spreadsheets/d/e/2PACX-1vQx37TZPpgIZ6Ld9S9V-rQ6hcTmuz8tuzzxg6D2w10loW8EXGTQrMKhj0vdany9UA9O7A1cLdQ8YutE/pubhtml
+  - type: etro
+    description: For Slow GCD rotation (see guides for more info).
+    link: https://etro.gg/gearset/3e6864e6-ea46-402d-96a2-3fe07bb2506b
+    name: 2.50 Carrot Pudding
+  - type: etro
+    description: For Slow GCD rotation (see guides for more info).
+    link: https://etro.gg/gearset/2d58543d-2bd0-4124-a5d2-458ad4a6e924
+    name: 2.48 Sunset Carrot Nibbles
+  - type: etro
+    description: For Slow GCD rotation (see guides for more info).
+    name: 2.46 Carrot Pudding
+    link: https://etro.gg/gearset/46ba4b76-ad9f-449e-a2a3-d450cf618ec7
+  - type: etro
+    description: For Fast GCD rotation (see guides for more info).
+    name: 2.45 Sunset Carrot Nibbles
+    link: https://etro.gg/gearset/0c8ba3f0-efe4-453f-9b38-16745a11a7b5
+  - type: etro
+    description: >-
+      For Fast GCD rotation (see guides for more info).
+
+
+      Only recommended for high-latency players who do not wish to learn the Slow GCD Rotation.
+    name: 2.42 Sunset Carrot Nibbles
+    link: https://etro.gg/gearset/8361ed48-9503-449b-9e6c-f446dc8b0382
 authors:
   - Balance-PLD-Staff
   - nikroulah
