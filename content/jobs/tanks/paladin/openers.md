@@ -10,6 +10,8 @@ changelog:
     message: Created
   - date: 2022-01-10T00:28:18.632Z
     message: Initial update for Endwalker
+  - date: 2022-09-19T01:34:45.966Z
+    message: Updated for 6.2 with slow rotation info
 ---
 # Paladin Openers
 
