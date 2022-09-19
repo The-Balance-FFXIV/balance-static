@@ -3,7 +3,7 @@ title: Paladin Skills Overview
 authors:
   - nikroulah
 patch: "6.21"
-lastmod: 2022-08-03T15:43:48.615Z
+lastmod: 2022-09-19T01:47:43.181Z
 changelog:
   - date: 2021-10-27T17:21:39.738Z
     message: Added
