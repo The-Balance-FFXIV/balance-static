@@ -9,7 +9,7 @@ changelog:
   - date: 2021-12-30T21:53:46.376Z
     message: Updated FAQ for 6.01
   - date: 2022-09-19T08:10:08.008Z
-    message: FAQ updated for 6.2
+    message: FAQ updated for 6.21
 qna:
   - question: How do I spend my MP?
     answer: >-
