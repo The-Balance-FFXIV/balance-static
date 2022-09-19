@@ -85,7 +85,7 @@ Since you cannot spend Blood Gauge with Bloodspiller/Quietus during Delirium, th
 
 Edge of Shadow and Bloodspiller can be delayed without loss, as long as MP and Blood Gauge do not overcap. Dark Knight is thus uniquely able to pool a massive amount of potency for use during party raid buff windows, which typically come in multiples of 60 seconds.
 
-Dark Knight generates around 12000 MP per minute, from a combination of Blood Weapon, Syphon Strike, Carve and Spit, Delirium, and natural MP regen ticks. Since MP caps at 10000, we delay the first (and only the first) Blood Weapon after the opener in full uptime to prevent overcapping before raid buffs come out, allowing four Edge of Shadow to naturally fall in every 1-minute raid buff window.
+Dark Knight generates around 12000 MP per minute, from a combination of Blood Weapon, Syphon Strike, Carve and Spit, Delirium, and natural MP regen ticks. Since MP caps at 10000, we delay the first (and only the first) Blood Weapon after the opener in full uptime to prevent overcapping before raid buffs come out, allowing four Edge of Shadow to naturally fall in every 2-minute raid buff window.
 
 By using The Blackest Night (TBN) outside of buffs, it is possible to use the resulting Dark Arts, 9000+ MP, and the MP from Blood Weapon to get five Edge of Shadow (EoS) under raid buffs. Since Dark Knight only generates 12000 MP per minute, this fifth EoS is effectively being delayed from the previous minute. This then makes it possible to spend five EoS during the stronger even-minute buffs (0m, 2m, 4m, ...) and only three during the odd minutes, plus a TBN somewhere in the odd minutes to store a Dark Arts for the even-minute buffs.
 
