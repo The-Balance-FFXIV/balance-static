@@ -4,7 +4,7 @@ card_header_image: /img/jobs/drk/basic.png
 authors:
   - nikroulah
   - silaqui-amakiir
-patch: "6.1"
+patch: "6.21"
 lastmod: 2022-04-23T21:23:19.185Z
 changelog:
   - date: 2021-10-27T17:33:50.039Z
@@ -13,6 +13,8 @@ changelog:
     message: (Minor) updates for 6.05
   - date: 2022-04-22T15:32:55.904Z
     message: (Preliminary) Updates for 6.1
+  - date: 2022-09-19T08:49:40.968Z
+    message: Updates for 6.21
 ---
 # Introduction to Dark Knight
 
@@ -50,7 +52,7 @@ Best raid buff alignment and a good default choice
 
 > Text version: Prepull Blood Weapon > Prepull The Blackest Night > Provoke (if pulling) > Hard Slash + Edge of Shadow + Delirium > Syphon Strike + Potion > Souleater + Living Shadow + Salted Earth > Hard Slash + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
 
-The potion used is whatever the current tier’s Strength potion is (as of the time of writing, it is the Grade 6 Tincture of Strength HQ).
+The potion used is whatever the current tier’s Strength potion is (as of the time of writing, it is the Grade 7 Tincture of Strength HQ).
 
 Provoke should be used if you want to start with aggro, and left out otherwise.
 
@@ -79,15 +81,15 @@ Dark Knight’s rotation is deceptively simple, and follows these simple princip
 
 Both Blood Weapon and Delirium should be used as they come up, without being held for extended periods of time (i.e. in the opener, at \~1:00, at \~2:00, etc).
 
-The second Blood Weapon in the fight can (and should) be delayed by ~three GCDs to avoid overcapping Blood and MP before raid buffs.
+The second Blood Weapon in the fight (around 1:00) can (and should) be delayed until 2 GCDs after Delirium is used. This means using Delirum -> 2 combo GCDs -> Blood Weapon -> 1 combo GCD -> start spending Delirium stacks. This delay allows you to avoid overcapping on MP and Blood Gauge before raid buffs come up.
 
 ## Pooling Resources for Raid Buffs
 
 Edge of Shadow and Bloodspiller can be delayed without loss, as long as MP and Blood do not overcap. Dark Knight is thus uniquely able to pool a massive amount of potency for use during party raid buff windows, which typically come in multiples of 60 seconds.
 
-Dark Knight generates around 12000 MP per minute, from a combination of Blood Weapon, Syphon Strike, Carve and Spit, Delirium, and natural MP regen ticks. Since MP caps at 10000, we delay the first (and only the first) Blood Weapon after the opener in full uptime to prevent overcapping before raid buffs come out, allowing four Edge of Shadow to naturally fall in every one-minute raid buff window.
+Dark Knight generates around 12000 MP per minute, from a combination of Blood Weapon, Syphon Strike, Carve and Spit, Delirium, and natural MP regen ticks. Since MP caps at 10000, we delay the first (and only the first) Blood Weapon after the opener in full uptime to prevent overcapping before raid buffs come out, allowing four Edge of Shadow to naturally fall in every 2-minute raid buff window.
 
-Similarly, try to use three Blood Gauge spenders (i.e. Living Shadow, Bloodspiller) during every one-minute raid buff window.
+Similarly, try to use three Blood Gauge spenders (i.e. Living Shadow, Bloodspiller) in addition to your free Delirium Bloodspillers during every 2-minute raid buff window.
 
 - - -
 
@@ -110,6 +112,26 @@ Similarly, try to use three Blood Gauge spenders (i.e. Living Shadow, Bloodspill
 /ac "The Blackest Night" <mo>
 /ac "The Blackest Night" <mo>
 /ac "The Blackest Night" <mo>
+/micon "The Blackest Night"
+```
+
+## Oblation (mouseover)
+
+```
+/merror off
+/ac "Oblation" <mo>
+/ac "Oblation" <mo>
+/ac "Oblation" <mo>
+/ac "Oblation" <mo>
+/ac "Oblation" <mo>
+/ac "Oblation" <mo>
+/ac "Oblation" <mo>
+/ac "Oblation" <mo>
+/ac "Oblation" <mo>
+/ac "Oblation" <mo>
+/ac "Oblation" <mo>
+/ac "Oblation" <mo>
+/ac "Oblation" <mo>
 /micon "The Blackest Night"
 ```
 
@@ -225,14 +247,16 @@ Living Dead can be extremely strong in dungeons, as a single AoE GCD will often 
  ![2 target](https://lh5.googleusercontent.com/je8u42LVxCMC4a2qHgEwjNHOuFNng5tvWD_Vl-r-IspjuXKoUq091qE2kA24aE_g19LmOEtxqKKx6iz9mMHa95Dzru1oK2lJfo6-fjwgYzRCHAi0o8a4deheL5zW8nhGXetcFPWv=s0)\
 On two or more targets, replace Souleater combo with Stalwart Soul Combo.
 
-| **Quietus**                                                                                                                                                                                 | **Flood**                                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![3 targets](https://lh3.googleusercontent.com/kpxcMMzdmTBcdwK0upDws_tzb4Fp4CCfPRtvfP-KLuFi9abH9GiJ-bLAvmJ2epSO0jM9bEh8BRAdXUrdmvsRYBwvw9QEn_TP0jy9nYPqbKhz0aa_9iEr_wWzzrqVjCChnAay7Hus=s0) | ![3 target 2](https://lh6.googleusercontent.com/QXWUuYy7BBdBNo51JQjI20dfFVoxMThHIGkYEW376YDH6w1HsfVhXzwC27j8OyQlO85t8EtI46ZI2Q27rSELupUfhcQ12LbgKkocZhsB8gRy1Rv-hhoOrLbnu0BfK1-S1iwPSg16=s0) |
 
-On 3+ targets, replace Bloodspiller with Quietus and Edge of Shadow/Darkness with Flood of Shadow/Darkness
+| **Quietus** | **Flood** | **Abyssal** |
+| --- | --- | --- |
+| ![3 targets](https://lh3.googleusercontent.com/kpxcMMzdmTBcdwK0upDws_tzb4Fp4CCfPRtvfP-KLuFi9abH9GiJ-bLAvmJ2epSO0jM9bEh8BRAdXUrdmvsRYBwvw9QEn_TP0jy9nYPqbKhz0aa_9iEr_wWzzrqVjCChnAay7Hus=s0)  | ![3 target 2](https://lh6.googleusercontent.com/QXWUuYy7BBdBNo51JQjI20dfFVoxMThHIGkYEW376YDH6w1HsfVhXzwC27j8OyQlO85t8EtI46ZI2Q27rSELupUfhcQ12LbgKkocZhsB8gRy1Rv-hhoOrLbnu0BfK1-S1iwPSg16=s0) | ![ad](https://lh3.googleusercontent.com/IqgiYLYvy2whmfx7LTqjDR-MHQRFbIhtMqwzTHjGUtOTSvCFO7C9-QpAGGFN_R3aNX0IyWn7JsFl_1zaTgQQB_N1ABKlvQLhP2XwKjnVRaKkFDYu6o9or-bsnnaqPwRODecz0Mkp=s0) |
 
- ![ad](https://lh3.googleusercontent.com/IqgiYLYvy2whmfx7LTqjDR-MHQRFbIhtMqwzTHjGUtOTSvCFO7C9-QpAGGFN_R3aNX0IyWn7JsFl_1zaTgQQB_N1ABKlvQLhP2XwKjnVRaKkFDYu6o9or-bsnnaqPwRODecz0Mkp=s0)\
-On 4+ targets, replace Carve and Spit with Abyssal Drain.
+
+On 3+ targets, replace:
+* Bloodspiller with Quietus
+* Edge of Shadow/Darkness with Flood of Shadow/Darkness
+* Carve and Spit with Abyssal Drain
 
 ![aoe 1](https://lh4.googleusercontent.com/RVzpcFuEas91IqZHJRjI-lSj70urqNF7Bg_xl8n1y96zIeXlOrZ81wlaILjc5Gj3X2uOUJdqGaCxR5oe0ioygq0aA9B6TuJWAsR4dX9rroodCwiYlUZiO41VxUoMhxoLaOLe63Js=s0)\
 Try to maximize the number of targets you hit with Salted Earth.
