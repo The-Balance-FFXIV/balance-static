@@ -10,6 +10,9 @@ changelog:
     message: Updated for 6.05 --- removed old sets, added in new BiS.
   - date: 2022-05-16T07:52:57.378Z
     message: Updated for 6.10 --- removed old sets, added in new BiS.
+  - date: 2022-09-19T08:20:38.279Z
+    message: Updated for 6.20/6.21 --- added in new BiS, and marked 6.1 sets as for
+      ultimate.
 bis:
   - type: etro
     description: >-
