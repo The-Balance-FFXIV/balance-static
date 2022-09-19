@@ -75,7 +75,7 @@ For oGCDs:
 * Hold two charges of Plunge for 2-minute raid buffs, unless it can be used to maintain better uptime --- gaining even an autoattack is generally a better use of Plunge than saving it for buffs.
 * Use other damaging or buffing oGCDs (such as Salted Earth, Carve and Spit, Blood Weapon, and Delirium) on cooldown.
 
-  * Your second Blood Weapon (around 1:00) can (and should) be delayed until 2 GCDs after Delirium is used. As in the opener, this means using Delirum -> 2 combo GCDs -> Blood Weapon -> 1 combo GCD -> Start spending Delirium stacks. This delay allows you to avoid overcapping on MP and Blood Gauge before raid buffs come up.
+  * Your second Blood Weapon (around 1:00) can (and should) be delayed until 2 GCDs after Delirium is used. This means using Delirum -> 2 combo GCDs -> Blood Weapon -> 1 combo GCD -> Start spending Delirium stacks. This delay allows you to avoid overcapping on MP and Blood Gauge before raid buffs come up.
 
 ## Using Blood Weapon and Delirium
 
