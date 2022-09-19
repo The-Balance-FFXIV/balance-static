@@ -4,7 +4,7 @@ card_header_image: /img/jobs/drk/leveling.png
 authors:
   - apileofcats
   - silaqui-amakiir
-patch: "6.1"
+patch: "6.21"
 lastmod: 2022-02-08T20:09:08.788Z
 changelog:
   - date: 2021-10-27T17:23:27.257Z
@@ -14,6 +14,9 @@ changelog:
   - date: 2022-04-13T00:29:35.508Z
     message: Updated for 6.1, changing Blood Weapon's effect and moving Stalwart
       Soul to level 40.
+  - date: 2022-09-19T08:36:29.754Z
+    message: Updated for 6.21, changing the priority for Abyssal Drain from 4+ to 3+
+      targets.
 ---
 # Introduction
 
@@ -32,7 +35,7 @@ One last word of warning: **Be careful about using crafted gear.** Crafted gear 
 ## Dungeons
 
 * Keep Grit active at all times. This multiplies all of your enmity generation by ten, allowing you to easily keep the attention of any enemies you damage. Entering a duty which syncs your level down will automatically toggle Grit off, so make sure the icon is present in your list of buffs before proceeding.
-* Make sure you establish hate on all targets. Even if there are only a couple targets present, or if one enemy needs to be singled out to kill first, don't be afraid to fire off a couple AoE actions to make sure you keep the attention of all enemies before switching to single-target.
+* Make sure you establish enmity on all targets. Even if there are only a couple targets present, or if one enemy needs to be singled out to kill first, don't be afraid to fire off a couple AoE actions to make sure you keep the attention of all enemies before switching to single-target.
 * Rotate through your defensive cooldowns. Large groups of "trash" mobs usually deal significantly more damage than bosses do, so don't be afraid to use all of your mitigation to get through a pull. In addition to Rampart, Shadow Wall, and The Blackest Night, remember that Reprisal and Arm's Length are also potent tools. The term "slow" in the description of Arm's Length means an attack speed reduction ("heavy" is a movement speed reduction), so it will inflict a significant debuff to all mobs which attack you. However, this is ineffective on almost all bosses.
 * Try to keep moving until you have gathered up all the enemies you wish to pull at once, and then stay in one spot until they are all dead. Many jobs have ground-targeted AoE abilities which will heal you or damage enemies and which cannot be moved after being placed. Players also regenerate HP and mana much more quickly while not in combat, so bringing stragglers over to the next group will impact your resource generation, which is especially dangerous for healers.
 * Don't be afraid to pull more than one group at once. Even in very low-level dungeons, your AoE damage output is quite high and can make up for any party members stuck with only single-target actions. Healing actions are also relatively strong at low levels, so it takes an extremely large group of enemies to outpace your healer's output.
@@ -107,27 +110,27 @@ New action: Abyssal Drain. This is an AoE action that does a moderate amount of 
 
 ### Level 60
 
-New action: Carve and Spit. This shares a cooldown with Abyssal Drain and deals high potency to a single target while also generating a small amount of mana. Abyssal Drain needs to hit four targets to beat the potency of Carve and Spit, but your primary concern when deciding between the two is whether you need the healing from Abyssal Drain or not.
+New action: Carve and Spit. This shares a cooldown with Abyssal Drain and deals high potency to a single target while also generating a small amount of mana. Abyssal Drain needs to hit three targets to beat the potency of Carve and Spit, but your primary concern when deciding between the two is whether you need the healing from Abyssal Drain or not.
 
 * Souleater combo on 1 target.
 * Stalwart Soul combo on 2+ targets.
 * Edge of Darkness on 1-2 targets.
 * Flood of Darkness on 3+ targets.
-* Carve and Spit on 1-3 targets.
-* Abyssal Drain on 4+ targets or when healing is needed.
+* Carve and Spit on 1-2 targets.
+* Abyssal Drain on 3+ targets or when healing is needed.
 
 ## Levels 61-70
 
 #### Level 62
 
-New action: Bloodspiller. While you unlocked your AoE mana spender before the single-target version, the reverse is true for your blood gauge spenders. Bloodspiller does quite a bit of damage, will not break your combo, and is worth using even in smaller multi-target situations. Blood Weapon will also now grant blood per successful GCD landed during its effect.
+New action: Bloodspiller. While you unlocked your AoE mana spender before the single-target version, the reverse is true for your Blood Gauge spenders. Bloodspiller does quite a bit of damage, will not break your combo, and is worth using even in smaller multi-target situations. Blood Weapon will also now grant Blood Gauge per successful GCD landed during its effect.
 
 * Souleater combo on 1 target.
 * Stalwart Soul combo on 2+ targets.
 * Edge of Darkness on 1-2 targets.
 * Flood of Darkness on 3+ targets.
-* Carve and Spit on 1-3 targets.
-* Abyssal Drain on 4+ targets or when healing is needed.
+* Carve and Spit on 1-2 targets.
+* Abyssal Drain on 3+ targets or when healing is needed.
 * Bloodspiller on 1-2 targets.
 
 #### Level 64
@@ -138,8 +141,8 @@ New action: Quietus. The AoE version of Bloodspiller. Like Flood, Quietus takes 
 * Stalwart Soul combo on 2+ targets.
 * Edge of Darkness on 1-2 targets.
 * Flood of Darkness on 3+ targets.
-* Carve and Spit on 1-3 targets.
-* Abyssal Drain on 4+ targets or when healing is needed.
+* Carve and Spit on 1-2 targets.
+* Abyssal Drain on 3+ targets or when healing is needed.
 * Bloodspiller on 1-2 targets.
 * Quietus on 3+ targets.
 
@@ -151,8 +154,8 @@ New action: Delirium. This nullifies the blood cost of the next three uses of Bl
 * Stalwart Soul combo on 2+ targets.
 * Edge of Darkness on 1-2 targets.
 * Flood of Darkness on 3+ targets.
-* Carve and Spit on 1-3 targets.
-* Abyssal Drain on 4+ targets or when healing is needed.
+* Carve and Spit on 1-2 targets.
+* Abyssal Drain on 3+ targets or when healing is needed.
 * Bloodspiller on 1-2 targets.
 * Quietus on 3+ targets.
 
@@ -164,8 +167,8 @@ New action: The Blackest Night ("TBN"). While Dark Knight can feel a bit squishy
 * Stalwart Soul combo on 2+ targets.
 * Edge of Darkness on 1-2 target.
 * Flood of Darkness on 3+ targets.
-* Carve and Spit on 1-3 targets.
-* Abyssal Drain on 4+ targets or when healing is needed.
+* Carve and Spit on 1-2 targets.
+* Abyssal Drain on 3+ targets or when healing is needed.
 * Bloodspiller on 1-2 targets.
 * Quietus on 3+ targets.
 
@@ -179,8 +182,8 @@ New action: Living Shadow. Living Shadow summons a clone which, after a delay, w
 * Stalwart Soul combo on 2+ targets.
 * Edge of Shadow on 1-2 targets.
 * Flood of Shadow on 3+ targets.
-* Carve and Spit on 1-3 targets.
-* Abyssal Drain on 4+ targets or when healing is needed.
+* Carve and Spit on 1-2 targets.
+* Abyssal Drain on 3+ targets or when healing is needed.
 * Living Shadow when available.
 * Bloodspiller on 1-2 targets.
 * Quietus on 3+ targets.
