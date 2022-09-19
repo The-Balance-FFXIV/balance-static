@@ -2,7 +2,7 @@
 title: Paladin FAQ
 layout: qna
 patch: "6.21"
-lastmod: 2022-01-10T00:28:58.348Z
+lastmod: 2022-09-19T01:47:16.817Z
 changelog:
   - date: 2021-10-27T17:20:21.199Z
     message: Added
