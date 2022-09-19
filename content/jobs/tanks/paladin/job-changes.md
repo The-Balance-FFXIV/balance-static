@@ -21,4 +21,5 @@ changes:
       buff. See guides for more info on rotational changes.
 authors:
   - Balance-PLD-Staff
+  - nikroulah
 ---
