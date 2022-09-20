@@ -11,7 +11,7 @@ changelog:
 bis:
   - type: etro
     description: ""
-    name: 6.2 ilvl 630 2.47 GCD BIS
+    name: 6.2 iLvl 630 2.47 GCD BIS
     link: fb5976d5-a94c-4052-9092-3c3990fefa76
   - type: etro
     description: ""
