@@ -1,7 +1,7 @@
 ---
 title: Dark Knight Best in Slot (BiS)
 layout: bis
-patch: "6.05"
+patch: "6.21"
 lastmod: 2022-05-17T06:03:52.153Z
 changelog:
   - date: 2021-10-27T17:45:00.078Z
@@ -10,7 +10,40 @@ changelog:
     message: Updated for 6.05 --- removed old sets, added in new BiS.
   - date: 2022-05-16T07:52:57.378Z
     message: Updated for 6.10 --- removed old sets, added in new BiS.
+  - date: 2022-09-19T08:20:38.279Z
+    message: Updated for 6.20/6.21 --- added in new BiS, and marked 6.1 sets as for
+      ultimate.
 bis:
+  - type: etro
+    description: >-
+      This set is generally the strongest set available currently, and has
+      better alignment of oGCDs with your rotation than other options. Players
+      who prefer a faster speed may want to use a different set despite this.
+
+
+      22-strength races (Midlander Hyur, Seeker of the Sun Miqo'te, and Sea Wolf Roegadyn) can mitigate the damage loss from their strength being slightly lower than maximum with a slightly different set: https://etro.gg/gearset/88da32ad-e4e5-4f02-b194-840aaf5cf684
+
+      All other races can use the default set.
+    name: 6.2 2.50 GCD set
+    link: 9467c373-ba77-4f20-aa76-06c8e6f926b8
+  - type: etro
+    description: >-
+      22-strength races (Midlander Hyur, Seeker of the Sun Miqo'te, and Sea Wolf
+      Roegadyn) can mitigate the damage loss from their strength being slightly
+      lower than maximum with a slightly different set:
+      https://etro.gg/gearset/69ccd962-34bd-4da5-8989-9dc9a3feb9eb
+
+      All other races can use the default set.
+    name: 6.2 2.45 GCD set
+    link: 8456e35b-2ae2-411a-b9cb-62ebe7f8b1f0
+  - type: etro
+    description: >-
+      This set is not recommended, as it sacrifices a large amount of substats
+      for speed, but is the best option available if you prefer this speed.
+
+      No adjustments based on race are necessary for this set.
+    name: "6.2 2.40 GCD i629 set "
+    link: 009ba6c7-c0f6-4e03-b26f-5f64970c4c48
   - type: etro
     description: >-
       There are a couple variations on this set that can be run for ease of
@@ -21,16 +54,17 @@ bis:
 
       * Augmented tome ring with Crit+SkS melds plus Ashpodelos helm with 2x Crit melds is a very low double-digit expected DPS loss.
     link: 038bd13b-f408-4cb2-acb0-00ac33ccfe64
-    name: 6.1 2.45 GCD set
+    name: 6.1 2.45 GCD set (For ultimate or players on earlier patches)
   - type: etro
     description: You may opt to replace one DH meld with SkS to reach a 2.49 GCD
       speed. This is a very low double-digit loss in theoretical DPS, and allows
       for some minor clipping without causing issues with oGCD alignment.
-    name: 6.1 2.50 GCD set
+    name: 6.1 2.50 GCD set (For ultimate or players on earlier patches)
     link: 67850297-8b4b-4acf-a37e-12e682b3f303
 authors:
   - Balance-DRK-Staff
   - apileofcats
+  - silaqui-amakiir
 ---
 # Dark Knight Best In Slot
 
