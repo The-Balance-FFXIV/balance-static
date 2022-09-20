@@ -26,7 +26,7 @@ Since this is a basic introduction to level 90 Paladin, this guide will not go i
 
 * [Leveling Guide](/jobs/tanks/paladin/leveling-guide/)
 * [Openers](/jobs/tanks/paladin/openers)
-* Advanced Guide (Coming Soon!)
+* [Advanced Guide] (/jobs/tanks/paladin/advanced-guide/)
 * Fight Tips (Coming Soon!)
 * Stats and Materia (see [main page](/jobs/tanks/paladin))
 * [Gearing](/jobs/tanks/paladin/best-in-slot)
