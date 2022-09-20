@@ -70,8 +70,8 @@ A couple of key points while playing DNC at all levels:
 1. Use Standard Step off cooldown. Not only does this ability grant you and your Dance Partner a damage buff, it is one of your hardest hitting abilities. It is a 30 second cooldown and can be executed by initiating Standard Step and then pressing the two dance steps in the order they appear and then completing the dance sequence with Standard Finish. Altogether this dance takes five seconds to complete. During downtime in dungeons, you can prepare Standard Step outside of combat and then use it within 15 seconds of initiating the Standard Step sequence. This will help increase your damage by doing the dance steps (which don’t do any damage) outside of combat . 
 2. For single target situations, use Cascade → Fountain as your main combo weapon skills. For situations where there are two or more targets, use Windmill → Bladeshower as your main combo weapon skills (which are both five yalm radius AoEs around you). In AoE situations, it tends to be a loss to use Standard Finish when there are four or more targets (except to refresh the %damage buff).
 3. Cascade or Windmill have a 50% chance of granting you a “Silken Symmetry” proc, which you can use on Reverse Cascade (for single target situations) or Rising Windmill (for situations with two or more targets).
-4. Fountain or Bladeshower have a 50% chance of granting you a “Flourishing Flow” proc, which you can use on Fountainfall (for single target situations) or Bloodshower (for situations with two or more targets).
-5. Use your proc weaponskills before using the base combo weaponskills that have a chance of generating that proc (otherwise you risk losing the opportunity of that combo weaponskill generating the proc). For example, if you have a “Flourishing Symmetry” proc, you should use Reverse Cascade before using Cascade.
+4. Fountain or Bladeshower have a 50% chance of granting you a “Silken Flow” proc, which you can use on Fountainfall (for single target situations) or Bloodshower (for situations with two or more targets).
+5. Use your proc weaponskills before using the base combo weaponskills that have a chance of generating that proc (otherwise you risk losing the opportunity of that combo weaponskill generating the proc). For example, if you have a “Silken Symmetry” proc, you should use Reverse Cascade before using Cascade.
 6. Your proc weaponskills have a 50% chance of generating a Fourfold Feather which allows you to use either Fan Dance (which should only be used on single target situations) or Fan Dance II (which should only be used when there are two or more targets that can get hit in a 5y radius around you). These are both abilities that can be weaved on the oGCD (meaning you can use Fan Dance while waiting for your GCD to come back to use your next weaponskill).
 7. If you have four Fourfold Feathers (the maximum amount you can carry) you will want to use a feather before you use a proc weaponskill otherwise you lose the potential of gaining a Feather from that weaponskill.
 
@@ -101,7 +101,8 @@ At level 70, DNC gains Technical Step. This is a four step dance that is on a 12
 
 ## Level 72
 
-At level 72, DNC gains Flourish. This ability is on a 60 sec cooldown. It grants the Flourishing Symmetry, Flourishing Flow, and Flourishing Fan Dance buffs which allow access to Reverse Cascade / Rising Windmill, Fountainfall / Bloodshower, and Fan Dance III. It should be used off cooldown as much as possible. It can also be used out of combat as long as you will be using the procs before they expire (procs lasts 30 seconds). In an ideal world where nothing drifts, you can use it before using Technical Step, so the sequence of actions would look like (Flourish → Technical Step → Technical Finish → Devilment → Proc weaponskills etc...). It is important to note that you should not use Flourish if you have any procs currently available. If you have procs when Flourish comes off cooldown, use the procs first before using Flourish otherwise you will lose the proc that would have been generated from the Flourish. To prevent this delay of Flourish, it is important to use your procs before Flourish comes off cooldown.
+At level 72, DNC gains Flourish. This ability is on a 60 sec cooldown. It grants the Flourishing Symmetry, Flourishing Flow, and Flourishing Fan Dance buffs which allow access to Reverse Cascade / Rising Windmill, Fountainfall / Bloodshower, and Fan Dance III. It should be used off cooldown as much as possible. It can also be used out of combat as long as you will be using the procs before they expire (procs lasts 30 seconds). In an ideal world where nothing drifts, you can use it before using Technical Step, so the sequence of actions would look like (Flourish → Technical Step → Technical Finish → Devilment → Proc weaponskills etc...).\
+These "Flourishing" procs can be active at the same time as the "Silken" procs from your normal combo GCDs, but the game will always prioritize consuming the "Silken" proc.
 
 ## Level 76
 
@@ -119,7 +120,7 @@ At level 82, DNC gains Tillana. Tillana is a dance finishing move that is availa
 
 ## Level 84
 
-At level 84, DNC gains a trait where Reverse Cascade, Fountainfall, Rising Windmill, and Bloodshower (your Flourished weaponskill procs) generate 10 Esprit instead of 5, which allows for Saber Dance to be used more often.
+At level 84, DNC gains a trait where Reverse Cascade, Fountainfall, Rising Windmill, and Bloodshower (your weaponskill procs) generate 10 Esprit instead of 5, which allows for Saber Dance to be used more often.
 
 ## Level 86
 
