@@ -7,8 +7,6 @@ authors:
 patch: "6.2"
 lastmod: 2022-09-20T21:07:30.454Z
 changelog:
-  - date: 2021-10-25T21:29:10.159Z
-    message: Created article
   - date: 2022-04-05T18:01:38.826Z
     message: Updated for Endwalker
   - date: 2022-04-30T02:08:11.464Z
