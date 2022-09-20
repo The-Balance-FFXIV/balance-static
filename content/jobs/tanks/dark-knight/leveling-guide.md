@@ -176,7 +176,7 @@ New action: The Blackest Night ("TBN"). While Dark Knight can feel a bit squishy
 
 #### Level 80
 
-New action: Living Shadow. Living Shadow summons a clone which, after a delay, will autonomously attack nearby targets. Because of its extremely high potency per hit, it is superior to any other form of blood expenditure if it can get a single hit off against 2+ targets, or two hits versus a single target. It should be used as often as possible unless you can hold it for a short amount of time for a more efficient usage in the near future.
+New action: Living Shadow. Living Shadow summons a clone which, after a delay, will autonomously attack nearby targets. Because of its extremely high potency per hit, it is superior to any other form of blood expenditure if it can get a single hit off against two or more targets, or two hits versus a single target. It should be used as often as possible unless you can hold it for a short amount of time for a more efficient usage in the near future.
 
 * Souleater combo on one or two targets.
 * Stalwart Soul combo on two or more targets.
