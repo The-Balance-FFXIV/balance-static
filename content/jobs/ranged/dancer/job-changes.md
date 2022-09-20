@@ -17,10 +17,10 @@ changes:
   - patch: "6.2"
     description: >-
       Dancer has not been changed directly in this patch. However, it is
-      affected by the changed interactions between guaranteed crit or dhit
-      abilities and crit or dhit rate buffs.\
+      affected by the changed interactions between guaranteed Crit or Direct Hit
+      abilities and Crit or Direct Hit rate buffs.\
 
-      For one, there is now no longer a consideration to avoid crit or dhit buffs with Starfall Dance, since the Ability will now receive full benefit from these buffs.\
+      For one, there is now no longer a consideration to avoid Crit or DH buffs with Starfall Dance, since the Ability will now receive full benefit from these buffs.\
 
       Additionally, the Dance Partner priority list will change, since a major factor in Dance Partner choice was the benefit from Devilment.
 authors:
