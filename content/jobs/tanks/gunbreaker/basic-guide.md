@@ -5,7 +5,7 @@ authors:
   - azazael
   - Balance-GNB-Staff
 patch: "6.2"
-lastmod: 2022-04-30T02:08:08.026Z
+lastmod: 2022-09-20T21:07:30.454Z
 changelog:
   - date: 2021-10-25T21:29:10.159Z
     message: Created article
