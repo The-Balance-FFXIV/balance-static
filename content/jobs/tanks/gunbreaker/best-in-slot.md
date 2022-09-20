@@ -2,7 +2,7 @@
 title: Gunbreaker Best in Slot (BiS)
 layout: bis
 patch: "6.2"
-lastmod: 2022-04-29T23:52:33.772Z
+lastmod: 2022-09-19T23:00:00.000Z
 changelog:
   - date: 2022-02-03T00:16:26.730Z
     message: Updated for Endwalker patch 6.08.
@@ -16,8 +16,7 @@ bis:
     name: 2.42 GCD
     link: 0c777bae-1680-4b0e-ac7e-56217df5611e
   - type: etro
-    description: Feels good on all fights, use if you like 2.45 and don't lose your
-      9th GCD in No Mercy. Utilizes crafted ring.
+    description: ""
     name: 2.45 GCD
     link: d6f564f3-e918-4dc8-8bf7-95764ada60a7
   - type: etro
