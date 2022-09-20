@@ -1,8 +1,8 @@
 ---
 title: Ninja Best in Slot (BiS)
 layout: bis
-patch: "6.11"
-lastmod: 2022-05-31T02:52:04.484Z
+patch: "6.2"
+lastmod: 2022-09-20T06:27:00.113Z
 changelog:
   - date: 2021-10-29T03:14:26.634Z
     message: Created page
@@ -12,19 +12,29 @@ changelog:
     message: "Updated for 6.10. "
 bis:
   - type: etro
-    description: "BiS 2.12 GCD is best for general play. "
+    description: This is slightly worse than 2.10 in simulated damage, but is much
+      comfier to play.
     name: 2.12 GCD Savage BIS
-    link: b9876a4d-aba9-48f0-9c03-cb542af46a29
+    link: 9e07d761-8105-4ee5-9921-8f35d8b4a631
+  - type: etro
+    description: This is the highest simulated set, but is slightly harder to play
+      perfectly.
+    name: 2.10 GCD Savage BIS
+    link: c0c2ba50-b93a-4d18-8cba-a0ebb0705fed
   - type: etro
     description: ""
-    name: 2.12 GCD with DSU Daggers
+    name: DSR BIS (With Clear)
     link: ff32cb2c-8faa-4b69-9c66-73bd02cc13dd
+  - type: etro
+    description: ""
+    name: DSR BIS (Without Clear)
+    link: 606c802d-98b6-49a6-8505-5fe98251bdba
   - type: etro
     description: ""
     name: TEA BIS (With Relic)
     link: a129cf44-95cb-4e5d-a3e9-d07c58c26f2f
   - type: etro
-    description: ""
+    description: If you do not have the daggers from TEA, use the Asphodelos daggers.
     name: TEA BIS (Without Relic)
     link: 19f0d8cf-65ad-483b-88ae-31fd01456cf4
   - type: etro
