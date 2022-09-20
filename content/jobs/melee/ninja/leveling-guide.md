@@ -3,8 +3,8 @@ title: Ninja Leveling Guide
 card_header_image: /img/jobs/nin/leveling.png
 authors:
   - Balance-NIN-Staff
-patch: "6.18"
-lastmod: 2022-05-31T02:58:22.049Z
+patch: "6.2"
+lastmod: 2022-09-20T06:31:18.692Z
 changelog:
   - date: 2021-10-29T03:07:56.596Z
     message: Added page
@@ -12,6 +12,8 @@ changelog:
     message: "Updated leveling guide for 6.11. "
   - date: 2022-07-15T18:20:04.289Z
     message: Updated levelling guide for 6.18 (no changes beyond grammar and formatting)
+  - date: 2022-09-20T06:31:23.405Z
+    message: Updated for 6.20 (no changes)
 ---
 This guide was written by Akashi Seraph for players who are seeking to, or are currently leveling Ninja. The guide aims to inform players about how to initially play as Ninja, what gear they should use while they level and where to find it, the key basics of the job, as well as some example openers for lower levels. If you are already a level 90 Ninja and are looking for information pertaining to the job at level 90, please see the [Basic Ninja Guide](/jobs/melee/ninja/basic-guide/).
 
