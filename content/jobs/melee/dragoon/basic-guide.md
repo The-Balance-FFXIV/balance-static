@@ -3,8 +3,8 @@ title: Dragoon Basic Guide
 card_header_image: /img/jobs/drg/basic.png
 authors:
   - Balance-DRG-Staff
-patch: "6.1"
-lastmod: 2022-04-19T23:36:23.710Z
+patch: "6.2"
+lastmod: 2022-09-20T12:20:16.942Z
 changelog:
   - date: 2021-10-29T02:49:11.086Z
     message: Created page
@@ -40,11 +40,7 @@ Contact: **Rhy Tamok#0001** on Discord
 **Rubix Bob** (Cerberus) - Probably a bigger math nerd than Eve, Rubix created and maintains a wonderful rotation tool on his personal website and is similarly knowledgeable about the class.
 Contact: **Rubixbob#5304** on Discord
 
-- - -
 
-# Resources
-
-To be added!
 
 - - -
 
