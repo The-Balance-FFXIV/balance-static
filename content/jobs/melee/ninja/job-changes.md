@@ -1,7 +1,7 @@
 ---
 title: Ninja Changes
 layout: changes
-lastmod: 2022-04-12T00:20:55.496Z
+lastmod: 2022-09-20T06:39:37.411Z
 changes:
   - patch: "5.58"
     description: "[Placeholder for Endwalker]"
