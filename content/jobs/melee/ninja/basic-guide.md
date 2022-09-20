@@ -3,8 +3,8 @@ title: Ninja Basic Guide
 card_header_image: /img/jobs/nin/basic.png
 authors:
   - jackal
-patch: "6.18"
-lastmod: 2022-07-20T18:59:40.195Z
+patch: "6.2"
+lastmod: 2022-09-20T06:32:36.315Z
 changelog:
   - date: 2021-10-29T03:08:27.069Z
     message: Created page
@@ -14,6 +14,8 @@ changelog:
     message: "Updated guide to 6.10. "
   - date: 2022-07-15T18:21:56.384Z
     message: Unchanged, updated for 6.18 to parity other NIN changes
+  - date: 2022-09-20T06:32:43.850Z
+    message: Updated for 6.2 (no changes)
 ---
 If you have any questions, feel free to ask in the #nin_questions channel.
 
