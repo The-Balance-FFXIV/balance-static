@@ -1,8 +1,8 @@
 ---
 title: Dancer FAQ
 layout: qna
-patch: "6.08"
-lastmod: 2022-06-11T02:19:24.716Z
+patch: "6.2"
+lastmod: 2022-09-20T12:59:51.750Z
 changelog:
   - date: 2021-10-26T02:08:20.163Z
     message: Created page
@@ -11,6 +11,21 @@ changelog:
   - date: 2022-06-11T02:19:30.810Z
     message: Small Update
 qna:
+  - question: Who do I Dance Partner?
+    answer: >-
+      The tentative dance partner priority for patch 6.2 is:\
+
+      \
+
+      SAM>NIN>MNK>DRG/RPR>RDM/BLM>SMN>MCH>BRD>DNC\
+
+      \
+
+      This is tentative because we don't yet have a clear picture of how the 6.2 changes, especially the crit/dhit changes, will impact the rankings. There is also a dance partner calculator which you can use to determine exactly who the best value dance partner is. It can be found [here](http://partnercalc.herokuapp.com).
+  - question: How should I approach gearing up the class?
+    answer: You can review Ringabel's guide on how to best approach gearing DNC in
+      6.2 by clicking
+      [](https://docs.google.com/document/d/1BkaVg7n_rcjwWjiPheHF4MZxlP67KlhoU0SkW3n1UX0/edit)<https://bit.ly/DNCGearingGuide-6-20>
   - question: Who do I Dance Partner?
     answer: >-
       NIN > MNK/RPR > DRG/SAM > RDM/BLM > SMN > MCH > BRD > DNC
@@ -53,14 +68,6 @@ qna:
     answer: "[Click here to read Io's raiding primer guide for
       DNC!](https://docs.google.com/document/d/1O1fxoeMUgE4qthBExZ1tYfMQCxMxOY_\
       fT6Lx1t54Ba0/edit)"
-  - question: How should I approach gearing up the class?
-    answer: You can review Ringabel's guide on how to best approach gearing DNC in
-      6.11 by clicking
-      [here!](https://docs.google.com/document/d/1BkaVg7n_rcjwWjiPheHF4MZxlP67KlhoU0SkW3n1UX0/edit)
-  - question: Are there any Dancer-specific fight guides for P1S-P4S?
-    answer: There are! Click
-      [here](https://docs.google.com/document/d/1zvvx3iFnk_HlLSudCw-nO1HKxsHLakr4Svdsbetgi0A/edit)
-      to access Io's guides for the current Savage tier, as of 6.08.
 authors:
   - Balance-DNC-Staff
   - Ringabel-Dim
