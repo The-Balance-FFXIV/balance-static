@@ -1,13 +1,15 @@
 ---
 title: Ninja FAQ
 layout: qna
-patch: "6.0"
-lastmod: 2022-02-18T04:10:39.079Z
+patch: "6.2"
+lastmod: 2022-09-20T06:36:43.085Z
 changelog:
   - date: 2021-10-29T03:10:48.026Z
     message: Created page
   - date: 2022-02-18T04:10:40.479Z
     message: Updated for Endwalker
+  - date: 2022-09-20T06:37:48.963Z
+    message: Updated for 6.2 (no changes)
 qna:
   - question: Why does our BiS not follow the stat priority?
     answer: Because of stat tiering and how it works together with our rotation, our
@@ -66,8 +68,6 @@ qna:
       loss if used over Armor Crush. It’s primarily used to gain full Huton
       gauge after a death, after a long fight transition, or if the boss is
       pulled before you get to cast Huton pre-pull. "
-  - question: Should I save Bunshin for Trick, or use it on cooldown?
-    answer: Use it on cooldown.
   - question: Does Kassatsu's % damage affect Hyosho and Goka?
     answer: Yes it does.
   - question: Do uncombo-ed skills give Ninki?
