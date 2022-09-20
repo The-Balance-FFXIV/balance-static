@@ -3,8 +3,8 @@ title: Dragoon Leveling Guide
 card_header_image: /img/jobs/drg/leveling.png
 authors:
   - Balance-DRG-Staff
-patch: "6.0"
-lastmod: 2022-01-24T06:14:47.347Z
+patch: "6.2"
+lastmod: 2022-09-20T12:18:48.441Z
 changelog:
   - date: 2021-10-29T02:48:36.195Z
     message: Created page
