@@ -1,8 +1,8 @@
 ---
 title: Dancer Best in Slot (BiS)
 layout: bis
-patch: "6.08"
-lastmod: 2022-02-02T23:12:02.555Z
+patch: "6.2"
+lastmod: 2022-09-20T13:09:25.666Z
 changelog:
   - date: 2021-10-26T02:11:25.028Z
     message: Created page
@@ -11,26 +11,16 @@ changelog:
 bis:
   - type: etro
     description: ""
-    name: 2.47 GCD General All-Purpose Set
-    link: fd333e44-0f90-42a6-a070-044b332bb54e
-  - type: etro
-    description: In order to figure out if one of these gearsets is better for you,
-      you'll have to do some homework. For most players, use the 2.47 set listed
-      above and read up on changes to rotation.
-    name: 2.5 GCD Set
-    link: ae461afa-fc40-46a1-b713-e17fb9eee292
+    name: 6.2 ilvl 630 2.47 GCD BIS
+    link: fb5976d5-a94c-4052-9092-3c3990fefa76
   - type: etro
     description: ""
-    name: 2.49 GCD Set
+    name: 2.47 GCD DSR BIS
+    link: fd333e44-0f90-42a6-a070-044b332bb54e
+  - type: etro
+    description: ""
+    name: 2.49 GCD DSR BIS
     link: eb9c642d-fbaf-4381-95ce-988f8b9ff621
-  - type: etro
-    description: Better than the 2.48 set below if there are crit raid buffs.
-    name: 2.48 GCD Set (Potage)
-    link: fc9341ef-6acf-4389-a0b7-1015c9f46ffa
-  - type: etro
-    description: Better than the 2.48 set above if there are no crit raid buffs
-    name: "2.48 GCD Set (Pumpkin) "
-    link: c87a3739-8176-4c87-9bb2-9f93c388bb3a
 authors:
   - Balance-DNC-Staff
 ---
