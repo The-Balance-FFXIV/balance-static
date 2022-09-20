@@ -1,7 +1,7 @@
 ---
 title: Paladin Stat Priority
-patch: "6.05"
-lastmod: 2022-01-10T00:16:09.490Z
+patch: "6.21"
+lastmod: 2022-01-10T00:00:00.000Z
 changelog:
   - date: 2021-10-27T17:20:37.349Z
     message: Added
