@@ -30,7 +30,7 @@ The best daily roulettes for obtaining poetics are Normal Raid, Alliance Raid, M
 
 At level 70 and level 80, you’ll be able to purchase gearsets for those levels using poetics (iLvl 400 for level 70, iLvl 530 for level 80). Note: you can use the Menphina's Earring from Endwalker pre-order if you have it for the 60 and 70 sets.
 
-All of these poetics gearsets do a good job helping you through each set of 10 levels. You can get slightly better gear pieces as you level through the leveling dungeons and craftable gear pieces. (Note: it is strongly recommended to use high quality crafted pieces as opposed to normal quality crafted pieces due to normal quality pieces missing significant amounts of stats).
+All of these poetics gearsets do a good job helping you through each set of 10 levels. You can get slightly better gear pieces as you level through the leveling dungeons and craftable gear pieces. (Note: it is strongly recommended to use high quality crafted pieces as opposed to normal quality crafted pieces due to normal quality pieces missing a significant amount of stats).
 
 For some content, your gear level will not matter (such as Deep Dungeon - Heaven on High, PVP, or Bozja). However, if doing dungeons, duty roulettes, or open world content (such as FATEs and Beast Tribe quests) to level, it will be important to keep your gear relatively up to date for ease of completing the content as well as for considerations for the other members of the duties you may be queueing for.
 
@@ -61,15 +61,16 @@ Additionally, DNC has some utility actions as part of their kit, including Physi
 ## DNC Specific Utility Actions
 
 **Curing Waltz** - Small AoE heal on yourself and your dance partner. AoE heal effect stacks (i.e. if you stand on top of your dance partner and use Curing Waltz, everyone in that small AoE will receive two heals). Curing Waltz has a 60 second cooldown and is useful for keeping yourself alive. It can even be used to give the tank a small little heal if it is safe to stand on top of them. 
-Shield Samba - 10% damage reduction for self and all nearby allies for 15 sec. 120 second cooldown (90 sec cooldown with the level 88 trait). For leveling content, it’s free and helpful mitigation you can provide for the party or even just the tank on large dungeon pulls.
+
+**Shield Samba** - 10% damage reduction for self and all nearby allies for 15 sec. 120 second cooldown (90 sec cooldown with the level 88 trait). For leveling content, it’s free and helpful mitigation you can provide for the party or even just the tank on large dungeon pulls.
 
 **Improvisation** (Level 80) - 120 sec cooldown, channeled ability, small AoE regen heal, can use Improvised Finish which ends Improvisation and grants and shield to self and nearby party members. Generally not worth it to continue channeling while in combat but can flash it (i.e. press Improvisation and then immediately use Improvised Finish) to grant the party a quick small shield without losing any damage.
 
-# General Rotation for all Levels
+# General Dancer Rotation for all Levels
 
 A couple of key points while playing DNC at all levels:
 
-1. Use Standard Step off cooldown. Not only does this ability grant you and your Dance Partner a damage buff, it is one of your hardest hitting abilities. It is a 30 second cooldown and can be executed by initiating Standard Step and then pressing the two dance steps in the order they appear and then completing the dance sequence with Standard Finish. Altogether this dance takes five seconds to complete. During downtime in dungeons, you can prepare Standard Step outside of combat and then use it within 15 seconds of initiating the Standard Step sequence. This will help increase your damage by doing the dance steps (which don’t do any damage) outside of combat . 
+1. Use Standard Step off cooldown. Not only does this ability grant you and your Dance Partner a damage buff, it is one of your hardest hitting abilities. It is a 30 second cooldown and can be executed by initiating Standard Step and then pressing the two dance steps in the order they appear and then completing the dance sequence with Standard Finish. Altogether this dance takes five seconds to complete. During downtime in dungeons, you can prepare Standard Step outside of combat and then use it within 15 seconds of initiating the Standard Step sequence. This will help increase your damage by doing the dance steps (which don’t do any damage) outside of combat. 
 2. For single target situations, use Cascade → Fountain as your main combo weapon skills. For situations where there are two or more targets, use Windmill → Bladeshower as your main combo weapon skills (which are both five yalm radius AoEs around you). In AoE situations, it tends to be a loss to use Standard Finish when there are four or more targets (except to refresh the %damage buff).
 3. Cascade or Windmill have a 50% chance of granting you a “Silken Symmetry” proc, which you can use on Reverse Cascade (for single target situations) or Rising Windmill (for situations with two or more targets).
 4. Fountain or Bladeshower have a 50% chance of granting you a “Silken Flow” proc, which you can use on Fountainfall (for single target situations) or Bloodshower (for situations with two or more targets).
@@ -77,7 +78,7 @@ A couple of key points while playing DNC at all levels:
 6. Your proc weaponskills have a 50% chance of generating a Fourfold Feather which allows you to use either Fan Dance (which should only be used on single target situations) or Fan Dance II (which should only be used when there are two or more targets that can get hit in a 5y radius around you). These are both abilities that can be weaved on the oGCD (meaning you can use Fan Dance while waiting for your GCD to come back to use your next weaponskill).
 7. If you have four Fourfold Feathers (the maximum amount you can carry) you will want to use a feather before you use a proc weaponskill otherwise you lose the potential of gaining a Feather from that weaponskill.
 
-# Rotations
+# Dancer Rotations
 
 ## Levels 1-59
 
