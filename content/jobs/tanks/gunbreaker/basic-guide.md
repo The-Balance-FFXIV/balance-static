@@ -598,16 +598,15 @@ You should always use the highest grade of Strength pot.
 Below is your best-in-slot. Before you ask, there is no best of the best. If one was universally better we would only list that one set. There are trade offs and benefits for each set and it comes down to what you want to run. Keep in mind not only do gear pieces change from set to set but melds and food as well.
 
 #### **GCD:**
-[2.45] (https://etro.gg/gearset/1cdcf24b-af97-4d6b-ab88-dcfee79f791c)
-[2.42] (https://etro.gg/gearset/afa282c8-d5b9-41a8-8adf-aca95bc3de33)
+[2.45](https://etro.gg/gearset/1cdcf24b-af97-4d6b-ab88-dcfee79f791c)
+[2.42](https://etro.gg/gearset/afa282c8-d5b9-41a8-8adf-aca95bc3de33)
 
 Race Specific Bis:
 
-Seekers of the Sun, Midlanders, and Sea Wolves use:
+Use if you are a Seeker of the Sun, Midlander, and Sea Wolf:
 *Why different BiS for race? - Because racial stats have a difference in strength that makes the double tome ring better for these races*
-[2.45] (https://etro.gg/gearset/1300c0c9-cf6b-474c-aba9-f1bfeb31976d)
-[2.42] (https://etro.gg/gearset/559c9e70-eeea-400d-a71f-7cb4ba304181)
-
+[2.45](https://etro.gg/gearset/1300c0c9-cf6b-474c-aba9-f1bfeb31976d)
+[2.42](https://etro.gg/gearset/559c9e70-eeea-400d-a71f-7cb4ba304181)
 
 ## Ultimates
 
