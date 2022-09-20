@@ -10,6 +10,8 @@ changelog:
     message: Updated for Endwalker
   - date: 2022-05-27T18:29:17.622Z
     message: "Updated for 6.10. "
+  - date: 2022-09-20T06:38:14.890Z
+    message: Updated for 6.2.
 bis:
   - type: etro
     description: This is slightly worse than 2.10 in simulated damage, but is much
