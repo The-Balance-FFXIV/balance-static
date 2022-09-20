@@ -16,7 +16,7 @@ changelog:
 # Paladin Openers
 
 Tanks currently use Grade 7 Tinctures of Strength 
-(Strength also affects tank magic potency, including healing)
+(Strength also affects tank magic potency, including healing).
 
 The choice of opener is encounter-specific and depends on factors such as when downtime happens, melee disengages and choice of strat, kill-times, etc. See the Encounter Optimization page (Coming Soon!) for encounter-specific optimization.
 
