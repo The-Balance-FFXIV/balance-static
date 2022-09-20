@@ -14,21 +14,21 @@ bis:
   - type: etro
     description: ""
     name: 2.42 GCD
-    link: 0c777bae-1680-4b0e-ac7e-56217df5611e
+    link: afa282c8-d5b9-41a8-8adf-aca95bc3de33
   - type: etro
     description: ""
     name: 2.45 GCD
-    link: d6f564f3-e918-4dc8-8bf7-95764ada60a7
+    link: 1cdcf24b-af97-4d6b-ab88-dcfee79f791c
   - type: etro
     description: D﻿ue to STR tiering, a separate bis is required for optimal DPS on
       certain races. Use this bis if you are either of these three races.)
     name: Race Specific 2.42 (Use if Seekers of the Sun, Midlander, or Sea Wolf)
-    link: https://etro.gg/gearset/559c9e70-eeea-400d-a71f-7cb4ba304181
+    link: 559c9e70-eeea-400d-a71f-7cb4ba304181
   - type: etro
     description: D﻿ue to STR tiering, a separate bis is required for optimal DPS on
       certain races. Use this bis if you are either of these three races.)
     name: Race Specific  2.45 (Use if Seekers of the Sun, Midlander, or Sea Wolf)
-    link: https://etro.gg/gearset/1300c0c9-cf6b-474c-aba9-f1bfeb31976d
+    link: 1300c0c9-cf6b-474c-aba9-f1bfeb31976d
 authors:
   - Balance-GNB-Staff
 ---
