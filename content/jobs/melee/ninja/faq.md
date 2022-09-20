@@ -68,8 +68,6 @@ qna:
       loss if used over Armor Crush. It’s primarily used to gain full Huton
       gauge after a death, after a long fight transition, or if the boss is
       pulled before you get to cast Huton pre-pull. "
-  - question: Should I save Bunshin for Trick, or use it on cooldown?
-    answer: Use it on cooldown.
   - question: Does Kassatsu's % damage affect Hyosho and Goka?
     answer: Yes it does.
   - question: Do uncombo-ed skills give Ninki?
