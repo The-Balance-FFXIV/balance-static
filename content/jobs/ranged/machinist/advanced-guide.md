@@ -4,19 +4,20 @@ card_header_image: /img/jobs/mch/advanced.png
 authors:
   - hint
   - Balance-MCH-Staff
-patch: "6.1"
-lastmod: 2022-04-10T03:51:56.710Z
+patch: "6.2"
+lastmod: 2022-09-20T23:30:17.792Z
 changelog:
   - date: 2022-04-13T08:10:50.487Z
     message: Guide published.
+  - date: 2022-09-20T23:30:23.414Z
+    message: Updated to reflect the new Crit / DH formulas in patch 6.2.
 tags:
   - Machinist
   - MCH
   - FFXIV
-  - rotation
-  - opener
-  - guide
-  - advanced
+  - machinist rotation
+  - machinist opener
+  - machinist guide
 ---
 *This guide is intended to give the reader the tools needed to approach encounter optimization as a Machinist.
 It assumes you are already familiar with the fundamentals of the job – if you need a refresher, please
