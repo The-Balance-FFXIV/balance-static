@@ -14,18 +14,23 @@ changelog:
     message: Updated opener graphics
   - date: 2022-09-19T01:32:12.497Z
     message: Updated for 6.2
+tags:
+  - Rotation
+  - PaladinRotation
+  - Opener
+  - PaladinOpener
 ---
 Welcome to the Basics Guide for Paladin! Whether you are a fresh level 90, a returning player, or just need a refresher, this guide will get you started and allow you to hit the ground running.
 
 Since this is a basic introduction to level 90 Paladin, this guide will not go into many nuances and topics that are tied to high-end optimization. If you are looking for such information, you may find it in one of the dedicated guides below:
 
-* [Leveling Guide](https://www.thebalanceffxiv.com/jobs/tanks/paladin/leveling-guide/)
+* [Leveling Guide](/jobs/tanks/paladin/leveling-guide/)
 * [Openers](/jobs/tanks/paladin/openers)
 * Advanced Guide (Coming Soon!)
 * Fight Tips (Coming Soon!)
 * Stats and Materia (see [main page](/jobs/tanks/paladin))
 * [Gearing](/jobs/tanks/paladin/best-in-slot)
-* [Skill Overview](https://www.thebalanceffxiv.com/jobs/tanks/paladin/skills-overview/)
+* [Skill Overview](/jobs/tanks/paladin/skills-overview/)
 * [Frequently Asked Questions](/jobs/tanks/paladin/faq)
 
 - - -
@@ -48,7 +53,7 @@ With Patch 6.2 gearing options and recent job changes, there are now two rotatio
 
 ### Slow GCD Rotation (6.2)
 
-#### The Opener
+#### Paladin Opener
 
 ![Slow GCD Opener for Paladin](https://cdn.discordapp.com/attachments/1009922395403976825/1019114452580307006/opener250.png)
 
@@ -56,7 +61,7 @@ The potion used is whatever the current tier's Strength potion is (as of patch 6
 
 After the opener, go into the rotation loop (pictured and explained below) by doing a Royal Authority combo and using Fight or Flight after the Riot Blade.
 
-#### The Rotation Loop
+#### Paladin Rotation Loop
 
 ![Full Slow GCD Rotation Loop for Paladin][https://cdn.discordapp.com/attachments/1009922395403976825/1019114451439460472/loop250.png]
 
@@ -72,7 +77,7 @@ If playing a speed faster than 2.50, you will occasionally need to hardcast a Ho
 
 ### Fast GCD Rotation (Legacy)
 
-#### The Opener
+#### Paladin Opener
 
 ![Fast GCD Opener for Paladin](https://cdn.discordapp.com/attachments/1009922395403976825/1019114452261543986/opener18s.png)
 
@@ -85,7 +90,7 @@ If a 20-second countdown for the encounter is not feasible, simply skip the pre-
 **High Latency Adjustments:**\
 At high latency, if double weaves would cause your GCD to clip, move oGCDs around to stick to single-weaving.
 
-#### The Rotation Loop
+#### Paladin Rotation Loop
 
 Following Blade of Valor, the Paladin rotation enters into a loop with three phases, with a short filler phase before repeating the Fight or Flight and Requiescat windows as in the opener.
 
