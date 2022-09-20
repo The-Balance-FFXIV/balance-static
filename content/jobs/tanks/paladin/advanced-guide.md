@@ -27,7 +27,7 @@ Because of this, knowing phase timings and projected killtimes is crucial to Pal
 
 While the 18-second pre-pull FoF opener is the best option for most killtimes, sometimes this leads to ending on weak GCDs, for example right as or right before Fight or Flight begins. In these cases it is best to shift Fight or Flight back a bit, as long as you don't lose a use of Requiescat.
 
-### 4-Second Pre-Pull FoF Opener
+### Four-Second Pre-Pull FoF Opener
 
 Note that the order of the Royal Authority combo and the Goring Blade combo doesn't matter for personal damage. However, by doing Royal Authority first, the Goring Blade, which is the stronger GCD, can be used under raid buffs. This opener is also better than the standard opener for raid buff contribution further into the fight.
 
