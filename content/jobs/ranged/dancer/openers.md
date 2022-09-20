@@ -2,8 +2,8 @@
 title: Dancer Openers
 authors:
   - Balance-DNC-Staff
-patch: "6.08"
-lastmod: 2022-02-02T22:49:34.939Z
+patch: "6.2"
+lastmod: 2022-09-20T12:56:08.304Z
 changelog:
   - date: 2021-10-26T02:07:05.022Z
     message: Created page
