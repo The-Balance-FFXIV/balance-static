@@ -23,6 +23,11 @@ bis:
     link: eb9c642d-fbaf-4381-95ce-988f8b9ff621
 authors:
   - Balance-DNC-Staff
+tags:
+  - Dancer
+  - DancerBiS
+  - BIS
+  - bestinslot
 ---
 # Best-in-Slot (BiS) / Itemization
 
