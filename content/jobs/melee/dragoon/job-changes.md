@@ -10,6 +10,16 @@ changes:
       | Wyrmwind Thrust |  Potency has been increased from 370 to 420. |
       | Geirskogul      |  Potency has been increased from 250 to 260. |
       | Nastrond        |  Potency has been increased from 350 to 360. |
+  - patch: "6.11"
+    description: >+
+      | Action          | Adjustment                                  |
+
+      | --------------- | ------------------------------------------- |
+
+      | Jump            | When Jump changes to Mirage Dive, there will now be a small input delay to prevent the unintended execution of Mirage Dive. |
+
+      | High Jump       | When Jump changes to Mirage Dive, there will now be a small input delay to prevent the unintended execution of Mirage Dive. |
+
   - patch: "6.1"
     description: >-
       | Action            |
@@ -30,16 +40,6 @@ changes:
       | Spineshatter Dive | Action animation has been shortened.                                                                                  |
 
       | Eragonfire Dive   | Action animation has been shortened.                                                                                  |
-  - patch: "6.11"
-    description: >+
-      | Action          | Adjustment                                  |
-
-      | --------------- | ------------------------------------------- |
-
-      | Jump            | When Jump changes to Mirage Dive, there will now be a small input delay to prevent the unintended execution of Mirage Dive. |
-
-      | High Jump       | When Jump changes to Mirage Dive, there will now be a small input delay to prevent the unintended execution of Mirage Dive. |
-
   - patch: "6.2"
     description: "| Action          |  Adjustment                                  |
 
