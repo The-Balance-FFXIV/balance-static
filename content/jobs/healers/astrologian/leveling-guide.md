@@ -4,8 +4,8 @@ card_header_image: /img/jobs/ast/leveling.png
 authors:
   - Balance-AST-Staff
   - Ahriqi
-patch: "6.0"
-lastmod: 2022-02-14T06:25:36.416Z
+patch: "6.21"
+lastmod: 2022-09-21T23:34:17.681Z
 changelog:
   - date: 2021-11-15T20:51:12.622Z
     message: Created page
