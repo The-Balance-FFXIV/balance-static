@@ -5,7 +5,7 @@ authors:
   - silaqui-amakiir
   - athunin
 patch: "6.21"
-lastmod: 2022-01-03T21:58:08.434Z
+lastmod: 2022-09-21T00:09:58.138Z
 changelog:
   - date: 2021-10-27T17:35:21.786Z
     message: Added
@@ -16,35 +16,35 @@ changelog:
 ---
 # Dark Knight Openers and Rotation
 
-# Openers
+# Dark Knight Openers
 
 DRK has several different options for openers, not all of which are listed here.
 Fight timings and party composition can both affect which opener is best, based on when you can keep uptime on the boss and when raid buffs are used.
 Fight-specific opener information can be found in #drk_encounter and #drk_questions (often in the pins).
 This section will list some **General-purpose** DRK openers which work relatively well in most situations.
 
-Tanks currently use Grade 7 Tinctures of Strength
+Tanks currently use Grade 7 Tinctures of Strength.
 <br>*(Strength also affects tank magic potency, including healing)*
 
 Goals for DRK openers include:
 
-* Get Living Shadow out as early as possible; its long spawn animation means that any delays will push some hits out of raid buffs
-* Get buffs like Blood Weapon and Delirium, and damaging abilities like Carve and Spit and Salted Earth on cooldown early
-* Use as many big hits and spend as much MP as possible inside potion and raid buff windows (which typically come up around the third or fourth GCD)
+* Get Living Shadow out as early as possible; its long spawn animation means that any delays will push some hits out of raid buffs.
+* Get buffs like Blood Weapon and Delirium, and damaging abilities like Carve and Spit and Salted Earth on cooldown early.
+* Use as many big hits and spend as much MP as possible inside potion and raid buff windows (which typically come up around the third or fourth GCD).
 
 Opener notes:
 
-* Blood Weapon is used prepull to ensure that Living Shadow is used as soon as possible. Any later and a hit will get pushed out of raid buffs.
-* The prepull TBN is used to prevent MP overcap from the first Hard Slash under Blood Weapon, since if it breaks it refunds the MP cost in the form of a free Edge of Shadow.
+* Blood Weapon is used pre-pull to ensure that Living Shadow is used as soon as possible. Any later and a hit will get pushed out of raid buffs.
+* The pre-pull TBN is used to prevent MP overcap from the first Hard Slash under Blood Weapon, since if it breaks it refunds the MP cost in the form of a free Edge of Shadow.
 
-  * If the prepull TBN will not break, leave it out and overcap 600-800 MP before your first Edge of Shadow. This is generally a smaller loss than delaying Living Shadow.
+  * If the pre-pull TBN will not break, leave it out and overcap 600-800 MP before your first Edge of Shadow. This is generally a smaller loss than delaying Living Shadow.
 * Try to avoid pulling with Unmend, as doing so will delay Living Shadow. If you need to start with aggro, either pull with Provoke or consider having your co-tank pull with stance on and use Provoke after your opener.
 
 ## Standard Opener
 
 Best raid buff alignment and a good default choice
 
-> Text version: Prepull Blood Weapon > Prepull The Blackest Night > Provoke if starting with aggro > Hard Slash + Edge of Shadow + Delirium > Syphon Strike + Potion > Souleater + Living Shadow + Salted Earth > Hard Slash + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
+> Text version: Pre-pull Blood Weapon > Pre-pull The Blackest Night > Provoke if starting with aggro > Hard Slash + Edge of Shadow + Delirium > Syphon Strike + Potion > Souleater + Living Shadow + Salted Earth > Hard Slash + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
 
 ![Standard Dark Knight Opener](/img/jobs/drk/drk_6.1_tentative_opener.png "Standard")
 
@@ -52,7 +52,7 @@ Best raid buff alignment and a good default choice
 
 Useful if a fight benefits from a slightly earlier Delirium due to downtime or phasing
 
-> Text version: Prepull Delirium > Prepull The Blackest Night > Prepull Blood Weapon just before pull > Hard Slash + Edge of Shadow > Syphon Strike + Potion > Souleater + Living Shadow + Salted Earth > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Hard Slash + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
+> Text version: Pre-pull Delirium > Pre-pull The Blackest Night > Pre-pull Blood Weapon just before pull > Hard Slash + Edge of Shadow > Syphon Strike + Potion > Souleater + Living Shadow + Salted Earth > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Hard Slash + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
 
 ![Early Delirium Opener](https://cdn.discordapp.com/attachments/583964695266983944/925284132886552576/tmp4.PNG "Early Delirium")
 
@@ -71,11 +71,11 @@ For GCDs:
 For oGCDs:
 
 * Use Edge of Shadow under raid buffs or to prevent overcapping on MP.
-* Hold both charges of Shadowbringer for 2-minute raid buffs.
-* Hold two charges of Plunge for 2-minute raid buffs, unless it can be used to maintain better uptime --- gaining even an autoattack is generally a better use of Plunge than saving it for buffs.
+* Hold both charges of Shadowbringer for two-minute raid buffs.
+* Hold two charges of Plunge for two-minute raid buffs, unless it can be used to maintain better uptime --- gaining even an autoattack is generally a better use of Plunge than saving it for buffs.
 * Use other damaging or buffing oGCDs (such as Salted Earth, Carve and Spit, Blood Weapon, and Delirium) on cooldown.
 
-  * Your second Blood Weapon (around 1:00) can (and should) be delayed until 2 GCDs after Delirium is used. This means using Delirum -> 2 combo GCDs -> Blood Weapon -> 1 combo GCD -> start spending Delirium stacks. This delay allows you to avoid overcapping on MP and Blood Gauge before raid buffs come up.
+  * Your second Blood Weapon (around 1:00) can (and should) be delayed until two GCDs after Delirium is used. This means using Delirum -> two combo GCDs -> Blood Weapon -> one combo GCD -> start spending Delirium stacks. This delay allows you to avoid overcapping on MP and Blood Gauge before raid buffs come up.
 
 ## Using Blood Weapon and Delirium
 
