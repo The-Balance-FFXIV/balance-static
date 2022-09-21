@@ -3,6 +3,16 @@ title: Dragoon Changes
 layout: changes
 lastmod: 2022-09-21T20:47:10.288Z
 changes:
+  - patch: "6.11"
+    description: >+
+      | Action          | Adjustment                                  |
+
+      | --------------- | ------------------------------------------- |
+
+      | Jump            | When Jump changes to Mirage Dive, there will now be a small input delay to prevent the unintended execution of Mirage Dive. |
+
+      | High Jump       | When Jump changes to Mirage Dive, there will now be a small input delay to prevent the unintended execution of Mirage Dive. |
+
   - patch: "6.05"
     description: |-
       | Action          |  Adjustment                                  |
@@ -30,16 +40,6 @@ changes:
       | Spineshatter Dive | Action animation has been shortened.                                                                                  |
 
       | Eragonfire Dive   | Action animation has been shortened.                                                                                  |
-  - patch: "6.11"
-    description: >+
-      | Action          | Adjustment                                  |
-
-      | --------------- | ------------------------------------------- |
-
-      | Jump            | When Jump changes to Mirage Dive, there will now be a small input delay to prevent the unintended execution of Mirage Dive. |
-
-      | High Jump       | When Jump changes to Mirage Dive, there will now be a small input delay to prevent the unintended execution of Mirage Dive. |
-
   - patch: "6.2"
     description: "| Action          |  Adjustment                                  |
 
