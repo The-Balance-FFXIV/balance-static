@@ -4,7 +4,7 @@ card_header_image: /img/jobs/drg/basic.png
 authors:
   - Balance-DRG-Staff
 patch: "6.2"
-lastmod: 2022-09-20T12:20:16.942Z
+lastmod: 2022-09-21T18:15:31.171Z
 changelog:
   - date: 2021-10-29T02:49:11.086Z
     message: Created page
@@ -16,6 +16,8 @@ changelog:
   - date: 2022-08-12T17:06:16.913Z
     message: Updated DS textand life cycle text, various formatting fixes (DS
       macros, rotation table, column size, spaces), fixed link to BiS page
+  - date: 2022-09-21T18:15:35.821Z
+    message: Editorial changes and updates.
 ---
 # Saving The Dragoon
 
@@ -39,8 +41,6 @@ Contact: **Rhy Tamok#0001** on Discord
 
 **Rubix Bob** (Cerberus) - Probably a bigger math nerd than Eve, Rubix created and maintains a wonderful rotation tool on his personal website and is similarly knowledgeable about the class.
 Contact: **Rubixbob#5304** on Discord
-
-
 
 - - -
 
@@ -110,7 +110,8 @@ Putting the above information to work, in a single-target encounter, our rotatio
 
 Everyone makes them. In attempting to follow this rotation to the best of your ability, if you make a mistake and press the wrong second hit, **commit to the mistake**. Restarting the combo is a larger loss than just continuing the incorrect combo string. After the mistaken combo, just return to the alternating rotation. Do not attempt to course-correct back into the old order.
 
-If you accidentally use an uncomboed GCD (and therefore break your combo) 
+If you accidentally use an uncomboed GCD (and therefore break your combo) you have to start a fresh combo. Look at your remaining time on the Power Surge buff. If it is still high enough you want to start a Heavens' Thrust combo. Move on with a Chaotic Spring combo otherweise.
+
 - - -
 
 #### Wyrmwind Thrust
@@ -138,7 +139,7 @@ At the bottom of the image, there’s a gap between the two **sides** of the tar
 
 Some enemies will have the **side** mark wrapping their entire hitbox. These target rings are special because you will get positional bonuses from every action without needing to worry about where you attack from. All the enemies in the Palace of the Dead, for example, have this special targeting ring.
 
-As a Dragoon, we only have positional requirements on three of our actions. Each of them provides an additional 40 potency when they hit the proper side of the target. Important to note is that we occasionally use Life Surge on the fifth hit of our Chaotic Spring and Heavens’ Thrust combos, but only if we manage to land the positional on it. True North is particularly useful in these situations to guarantee success.
+As a Dragoon, we only have positional requirements on three of our actions. Each of them provides an additional 40 potency when they hit the proper side of the target. 
 
 #### Side Positionals
 
@@ -169,7 +170,7 @@ While it is a loss to miss your positionals, landing them should be your last pr
 **3. Maintain Uptime (ABC - Always Be Casting)**\
    Stick to the boss like glue, assuming you meet one and two. Do not let your GCD stop spinning.\
 **4. Land Positionals**\
-   And then, once you have one through three down, worry about maintaining proper positionals.
+   And then, once you have one through three down, worry about maintaining proper positionals. Missing *every single* positional is only a 5% dps loss - much less than mistakes in the aforementioned points.
 
 - - -
 
@@ -190,10 +191,11 @@ Dragon Sight gives the same damage boost as Lance Charge, but less frequently. T
 Battle Litany is a powerful raid buff that enhances everyone’s critical hit rate. As it shares a timer with Dragon Sight, the two should generally be paired together, with Battle Litany coming second due to its shortened duration.
 
 ![](https://xivapi.com/i/000000/000304_hr1.png)\
-Life Surge forces your next weaponskill to automatically land a critical hit. The effect does not apply to DoT effects, which means we tend to use it on either Heavens’ Thrust or the fifth hit of our single-target combos, assuming we hit the positional. With two charges of Life Surge, we generally only ever use it when paired with our other buffs to maximize its usage. Very rarely will you be in danger of over-capping your charges outside of a buff window.
+Life Surge forces your next weaponskill to automatically land a critical hit. The effect does not apply to DoT effects, which means we tend to use it on either Heavens’ Thrust or the fifth hit of our single-target combos, assuming we hit the positional and every buff is up. It does however affect every hit of AoE GCDs. We therefore use it on Coerthan Torment when facing three or more targets. \
+Try to hold a charge for buff windows as long as you don't overcap both charges.
 
 ![](https://xivapi.com/i/020000/020710_hr1.png)\
-Tinctures of Strength (currently the Grade 6 Tincture of Strength) can be used as an additional 30s damage buff in combat. Potency-wise, they are weaker than our other main buff options, but they exist in addition to them. These are in no way necessary to use in order to play this game and are simply an additional option should you enjoy fully min/maxing your damage. They are always optimal to use.
+Tinctures of Strength can be used as an additional 30s damage buff in combat. Potency-wise, they are weaker than our other main buff options, but they exist in addition to them. These are in no way necessary to use in order to play this game and are simply an additional option should you enjoy fully min/maxing your damage. They are always optimal to use.
 
 ## Basic Buff Rotation
 
@@ -207,12 +209,12 @@ In general, the buffs will be used together every two minutes, with Lance Charge
 
 ## Dragon Sight
 
-Dragon Sight is a pain in the ass. We all know it. It’s not going anywhere, though, so let us just get that out of the way and move on to how to mitigate this logistical nightmare of a party-targeted ability. While you can use it without a target, are you really that selfish? Can you afford to be?
+Dragon Sight is a pain in the ass. We all know it. It’s not going anywhere, though, so let us just get that out of the way and move on to how to mitigate this logistical nightmare of a party-targeted ability. You could theoretically use it without a target but this should never be a consideration as the 5% buff will simply be lost. *You do **not** get a 15% buff this way!*
 
 This being said, the best ways to handle using it vary based on playstyle.
 
-If you play on mouse/keyboard, we recommend using a Mouseover (`<mo>`) macro.\
-If you play on a gamepad/controller, you can simply use soft targeting (up/down on d-pad).
+If you play on mouse/keyboard, we recommend using a macro.
+If you play on a gamepad/controller, you can simply use soft targeting (up/down on d-pad), dropping all reliance on macros.
 
 Different macro options are listed below, along with pros and cons.
 
@@ -280,10 +282,7 @@ Specifically targets whoever is at position 2. The number or party list can be a
 /micon "Dragon Sight"
 ```
 
-This mixes the aforementioned macro to create a macro that would prioritize your mouseover target, but default to your preferred party list position/member. Useful if you don’t trust your ability to mouseover, but you should really just practice that and shift to the mouseover one eventually instead.
-
-For controller, I recommend learning to soft-target and dropping all reliance on macros.
-For keyboard/mouse, I recommend one to three specific ally macros for reliable friends and a mouseover as a backup (or primary, it is your call).
+This mixes the aforementioned macros to create a macro that would prioritize your mouseover target, but default to your preferred party list position/member. Useful if you don’t trust your ability to mouseover, but you should really just practice that and shift to the mouseover one eventually instead.
 
 - - -
 
@@ -346,9 +345,8 @@ In certain encounters, we may shuffle the location of certain buttons in order t
 
 ## Re-Openers
 
-During fights or dungeons, you may find yourself encountering a situation where you are coming up against a boss with resources already in the tank. This shuffles your opener around and makes things harder to manage. Thankfully, there are a finite amount of permutations for these resources to hit you. We will be covering the situations where you have every oGCD action ready to go (with full charges) along with some stocked Mirage Dive activations (eyes) and/or stocked charges for Wyrmwind Thrust (scales). 
-
-Images coming soon!
+During fights or dungeons, you may find yourself encountering a situation where you are coming up against a boss with resources already in the tank. This shuffles your opener around and makes things harder to manage. \
+In general you want to use your buffs first, followed by high priority oGCDs (mainly Geirskogul and High Jump). Double weaving with jumps is required in reopeners to get everything under buffs. 
 
 - - -
 
@@ -390,6 +388,6 @@ Due to the slight buff of Determination with Endwalker, it is now preferable to 
 
 We want to go as slow as possible, but reducing Skill Speed does not matter nearly as much as maximizing your main stat.
 
-I recommend you use the [gear comparison tool](http://bit.ly/DRG-Gear-EW) to actually get a better idea of how melds affect your DPS!
+We recommend you use the [gear comparison tool](http://bit.ly/DRG-Gear-EW) to actually get a better idea of how melds affect your DPS!
 
 Check out [the BiS page](/jobs/melee/dragoon/best-in-slot/) for the current BiS Dragoon gear sets.
