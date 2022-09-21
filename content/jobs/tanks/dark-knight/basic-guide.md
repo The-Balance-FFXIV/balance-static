@@ -5,7 +5,7 @@ authors:
   - nikroulah
   - silaqui-amakiir
 patch: "6.21"
-lastmod: 2022-04-23T21:23:19.185Z
+lastmod: 2022-09-21T00:11:44.217Z
 changelog:
   - date: 2021-10-27T17:33:50.039Z
     message: Added
@@ -32,11 +32,11 @@ The purpose of this guide is to give an overview of Dark Knight’s abilities an
 
 # Skills and Abilities Overview
 
-Skills and abilities can be found on the [this page.](https://www.thebalanceffxiv.com/jobs/tanks/dark-knight/skills-overview/)
+Skills and abilities can be found on the [this page.](/jobs/tanks/dark-knight/skills-overview/)
 
 - - -
 
-# Opener
+# Dark Knight Opener
 
 Goals for DRK openers include:
 
@@ -58,7 +58,7 @@ Provoke should be used if you want to start with aggro, and left out otherwise.
 
 Opener notes:
 
-* Blood Weapon is used prepull to ensure that Living Shadow is used as soon as possible. Any later and a hit will get pushed out of raid buffs.
+* Blood Weapon is used pre-pull to ensure that Living Shadow is used as soon as possible. Any later and a hit will get pushed out of raid buffs.
 * The pre-pull TBN is used to prevent MP overcap from the first Hard Slash under Blood Weapon, since if it breaks it refunds the MP cost in the form of a free Edge of Shadow.
 
   * If the pre-pull TBN will not break, then simply omit it and overcap 600-800 MP before your first Edge of Shadow.
@@ -81,7 +81,7 @@ Dark Knight’s rotation is deceptively simple, and follows these simple princip
 
 Both Blood Weapon and Delirium should be used as they come up, without being held for extended periods of time (i.e. in the opener, at \~1:00, at \~2:00, etc).
 
-The second Blood Weapon in the fight (around 1:00) can (and should) be delayed until 2 GCDs after Delirium is used. This means using Delirum -> 2 combo GCDs -> Blood Weapon -> 1 combo GCD -> start spending Delirium stacks. This delay allows you to avoid overcapping on MP and Blood Gauge before raid buffs come up.
+The second Blood Weapon in the fight (around 1:00) can (and should) be delayed until two GCDs after Delirium is used. This means using Delirum -> two combo GCDs -> Blood Weapon -> one combo GCD -> start spending Delirium stacks. This delay allows you to avoid overcapping on MP and Blood Gauge before raid buffs come up.
 
 ## Pooling Resources for Raid Buffs
 
@@ -303,7 +303,7 @@ Useful if a fight benefits from a slightly earlier Delirium due to downtime or p
 
 ![Early Delirium Opener](https://cdn.discordapp.com/attachments/583964695266983944/925284132886552576/tmp4.PNG "Early Delirium")
 
-> Text version: Prepull Delirium > Prepull The Blackest Night > Prepull Blood Weapon just before pull > Hard Slash + Edge of Shadow > Syphon Strike + Potion > Souleater + Living Shadow + Salted Earth > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Hard Slash + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
+> Text version: Pre-pull Delirium > Pre-pull The Blackest Night > Pre-pull Blood Weapon just before pull > Hard Slash + Edge of Shadow > Syphon Strike + Potion > Souleater + Living Shadow + Salted Earth > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Hard Slash + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
 
 ## Fight-specific optimization
 
