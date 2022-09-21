@@ -110,6 +110,7 @@ Putting the above information to work, in a single-target encounter, our rotatio
 
 Everyone makes them. In attempting to follow this rotation to the best of your ability, if you make a mistake and press the wrong second hit, **commit to the mistake**. Restarting the combo is a larger loss than just continuing the incorrect combo string. After the mistaken combo, just return to the alternating rotation. Do not attempt to course-correct back into the old order.
 
+If you accidentally use an uncomboed GCD (and therefore break your combo) 
 - - -
 
 #### Wyrmwind Thrust
