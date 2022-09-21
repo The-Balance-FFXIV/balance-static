@@ -2,8 +2,8 @@
 title: Paladin Skills Overview
 authors:
   - nikroulah
-patch: "6.18"
-lastmod: 2022-08-03T15:43:48.615Z
+patch: "6.21"
+lastmod: 2022-09-19T01:47:43.181Z
 changelog:
   - date: 2021-10-27T17:21:39.738Z
     message: Added
@@ -11,6 +11,8 @@ changelog:
     message: updated for EW (sorry for the delay!)
   - date: 2022-08-25T05:38:50.315Z
     message: Updated for 6.2
+  - date: 2022-09-19T01:35:23.613Z
+    message: Updated for 6.21
 ---
 ## Buffs
 
@@ -81,9 +83,9 @@ Costs one Sword Oath.
 **Holy Spirit**
 ![](https://xivapi.com/i/002000/002514_hr1.png)
 
-280 potency (magical) | 1.5s cast time | Does not break combo
+300 potency (magical) | 1.5s cast time | Does not break combo
 
-560 potency under Requiescat.
+600 potency under Requiescat.
 
 Heals self for 400 potency.
 
@@ -108,7 +110,7 @@ Requires the Requiescat buff and consumes all stacks on use.
 |-|-|-|
 |![](https://xivapi.com/i/002000/002952_hr1.png) | ![](https://xivapi.com/i/002000/002953_hr1.png) | ![](https://xivapi.com/i/002000/002954_hr1.png)|
 
-460 > 540 > 620 potency + 560 potency DoT over 21 seconds (magical damage).
+480 > 560 > 620 potency + 560 potency DoT over 21 seconds (magical damage).
 
 Replaces the Confiteor button when the Requiescat buff ends, usually because Confiteor was used. The Blade of Faith Ready buff acts exactly like a combo, meaning most other GCDs will cause Blade of Faith Ready to fall off.
 
@@ -119,7 +121,7 @@ Replaces the Confiteor button when the Requiescat buff ends, usually because Con
 **Expiacion**
 ![](https://xivapi.com/i/002000/002951_hr1.png)
 
-340 potency | 30s cooldown.
+420 potency | 30s cooldown.
 
 AoE around target, 50% less damage on secondary targets.
 
@@ -159,7 +161,6 @@ AoE centered on self.
 ![](https://xivapi.com/i/002000/002950_hr1.png)
 
 Costs 50 Oath Gauge (generated at a rate of 50 per ~23s) | 5s cooldown.
-
 * Guarantees blocks (20% at Lv. 90) | 8s duration
 * 15% damage reduction | 4s duration
 * 1000 potency regen over 12s
