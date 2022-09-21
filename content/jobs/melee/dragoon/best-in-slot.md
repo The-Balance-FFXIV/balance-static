@@ -1,11 +1,13 @@
 ---
 title: Dragoon Best in Slot (BiS)
 layout: bis
-patch: "6.05"
-lastmod: 2022-01-14T14:12:49.044Z
+patch: "6.2"
+lastmod: 2022-09-21T17:13:19.414Z
 changelog:
   - date: 2021-10-29T03:01:01.840Z
     message: Created page
+  - date: 2022-09-21T17:29:39.621Z
+    message: Updated all sets to patch 6.2. Added DSR BiS.
 bis:
   - type: etro
     description: >-
@@ -14,30 +16,45 @@ bis:
 
 
       This set is also identical to the Reaper 2.49/2.50 set.
-    link: 8bdd42db-a318-41a0-8903-14efa5e0774b
+    link: de153cb0-05e7-4f23-a924-1fc28c7ae8db
     name: 2.50 GCD
   - type: etro
-    description: In case you prefer a slightly faster set. Requires you to get nine
-      GCD buff windows for equal performance to the 2.50 set.
+    description: "In case you prefer a slightly faster set. Can be preferable in
+      some fights due to better GCD alignment but is much harder to play
+      optimally. Requires you to get nine GCD buff windows for equal performance
+      to the 2.50 set. "
     name: 2.46 GCD
-    link: 77868a5e-80af-4ca2-8e0b-be2870b6ffc8
+    link: d723087d-3d5b-4c77-9b59-f925c15d294c
   - type: etro
     description: ""
     name: Pentamelded Crafted
-    link: 44dd1933-c9b7-4665-81a8-8d68a4187d79
+    link: b7c2b384-174f-49e8-813b-7bd1d91c7448
   - type: etro
-    description: Ultimate sets have not been updated for 6.0 yet. Using these sets
-      is perfectly fine as big changes are unlikely.
+    description: Gear pieces with equal stats can be used instead of the listed i600
+      pieces as long as they are above i595.
     name: TEA BiS
-    link: 25f4327c-1be2-4186-b1e1-075255bbfe35
+    link: 9216be5c-217f-4841-9c39-e250652db390
   - type: etro
-    description: ""
-    name: TEA BiS With TEA Weapon
-    link: 87ec6bc6-cf13-4091-a9b8-66a2c44fc0c9
+    description: >-
+      !!Example set!! You have many options for each gear slot. Synced gear has
+      to be at least i470. Please refer to etro or ariyala for other options.
+
+      Materia does not matter in synced gear.
+    name: UCoB BiS
+    link: 9d1e65ae-5adc-423b-9367-91ffccf5a37a
   - type: etro
-    description: ""
-    name: TEA BiS With Relic
-    link: fbd244ec-c215-4581-8e9b-3d3053239d70
+    description: >-
+      !!Example set!! You have many options for each gear slot. Synced gear has
+      to be at least i500. Please refer to etro or ariyala for other options.
+
+      Materia does not matter in synced gear.
+    name: UWU BiS
+    link: da1ae77a-3ff7-4c5e-8451-133205b63c29
+  - type: etro
+    description: Syncing gear is currently not a viable option for this fight due to
+      the massive loss of substats from materia.
+    name: DSR BiS
+    link: 8bdd42db-a318-41a0-8903-14efa5e0774b
 authors:
   - Balance-DRG-Staff
 ---
