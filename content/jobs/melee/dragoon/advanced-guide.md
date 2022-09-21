@@ -3,10 +3,14 @@ title: Dragoon Advanced Guide
 card_header_image: /img/jobs/drg/advanced.png
 authors:
   - Balance-DRG-Staff
-patch: "5.58"
-lastmod: 2021-11-15T21:02:42.189Z
+patch: "6.2"
+lastmod: 2022-09-21T20:41:44.518Z
 changelog:
   - date: 2021-11-15T21:03:02.264Z
     message: Added page
+  - date: 2022-09-21T20:41:46.745Z
+    message: Added a reference to the basic guide. No separate advanced guide
+      planned at this point.
 ---
-Oops, we don't have that guide yet! Interested in contributing? Keep an eye on the site for additional information, coming soon!
+
+Due to the nature of the DRG job design, advanced content is included and covered within the [Basic Guide](https://www.thebalanceffxiv.com/jobs/melee/dragoon/basic-guide/). If you have further questions for optimization, please feel free to ask in the Discord server.
