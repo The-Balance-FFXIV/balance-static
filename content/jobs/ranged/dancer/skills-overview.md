@@ -4,8 +4,8 @@ authors:
   - Balance-DNC-Staff
   - Ringabel-Dim
   - Laille-Ormesaing
-patch: "6.08"
-lastmod: 2022-02-02T22:49:01.302Z
+patch: "6.2"
+lastmod: 2022-09-20T12:55:00.557Z
 changelog:
   - date: 2021-10-26T02:05:59.099Z
     message: Added page
