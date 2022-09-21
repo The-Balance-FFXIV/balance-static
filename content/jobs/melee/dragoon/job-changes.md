@@ -1,7 +1,7 @@
 ---
 title: Dragoon Changes
 layout: changes
-lastmod: 2022-04-12T00:19:25.725Z
+lastmod: 2022-09-21T20:47:10.288Z
 changes:
   - patch: "6.05"
     description: |-
