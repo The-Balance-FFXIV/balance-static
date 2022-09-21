@@ -2,7 +2,7 @@
 title: Gunbreaker FAQ
 layout: qna
 patch: "6.2"
-lastmod: 2022-04-01T23:21:08.165Z
+lastmod: 2022-09-20T21:06:55.198Z
 changelog:
   - date: 2021-11-15T03:49:47.299Z
     message: Created
