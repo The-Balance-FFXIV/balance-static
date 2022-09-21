@@ -2,13 +2,15 @@
 title: Dragoon Openers
 authors:
   - Balance-DRG-Staff
-patch: "6.0"
-lastmod: 2021-12-30T19:29:26.326Z
+patch: "6.2"
+lastmod: 2022-09-21T16:39:43.540Z
 changelog:
   - date: 2021-10-29T02:55:52.808Z
     message: Created page
   - date: 2021-12-28T12:43:04.720Z
     message: Initial update for Endwalker
+  - date: 2022-09-21T16:39:46.296Z
+    message: Minor editorial changes
 ---
 # Dragoon Opener and Rotation
 
@@ -18,7 +20,7 @@ These openers have not been too thoroughly tested as of yet, so please take them
 
 ## Standard Opener
 
-The backbone of ten GCDs in sequence will - in general - never be changed, but the two blocks of skills (**Buffs** and **Attacks**) can be shuffled around within their respective slots if necessary to accommodate specific encounter timings.
+The backbone of ten GCDs in sequence will - in general - never be changed, but the two blocks of oGCDs (**Buffs** and **Attacks**) can be shuffled around within their respective slots if necessary to accommodate specific encounter timings.
 
 ![Standard Opener](https://cdn.discordapp.com/attachments/841722176017268826/925365578728898560/DRG_ew_opener.png)
 
