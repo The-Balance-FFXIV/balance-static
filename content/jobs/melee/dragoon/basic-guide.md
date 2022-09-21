@@ -99,9 +99,8 @@ While you always want to maintain your uptime on the above combos as much as pos
 
 ## Basic Rotation
 
-| <div style="width:100px">**Raiden Thrust >**</div> | <div style="width:100px">**Disembowel >**</div> | <div style="width:100px">**Chaotic Spring >**</div> | <div style="width:100px">**Wheeling Thrust >**</div> | <div style="width:100px">**Fang and Claw >**</div> | <div style="width:100px">**Raiden Thrust >**</div> | <div style="width:100px">**Vorpal Thrust >**</div> | <div style="width:100px">**Heavens' Thrust >**</div> | <div style="width:100px">**Fang and Claw >**</div> | <div style="width:100px">**Wheeling Thrust >**</div> |
-| -------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002592_hr1.png)    | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/002000/002596_hr1.png)     | ![](https://xivapi.com/i/002000/002584_hr1.png)      | ![](https://xivapi.com/i/002000/002582_hr1.png)    | ![](https://xivapi.com/i/002000/002592_hr1.png)    | ![](https://xivapi.com/i/000000/000312_hr1.png)    | ![](https://xivapi.com/i/002000/002595_hr1.png)      | ![](https://xivapi.com/i/002000/002582_hr1.png)    | ![](https://xivapi.com/i/002000/002584_hr1.png)      |
+![](https://cdn.discordapp.com/attachments/877670675425394709/1022227736019865731/drg_rotation.png)
+
 
 &nbsp;\
 Putting the above information to work, in a single-target encounter, our rotation will simply be the Chaotic Spring Combo followed by the Heavens’ Thrust Combo. We repeat this infinitely, assuming nothing interrupts our rotation.
