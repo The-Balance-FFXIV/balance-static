@@ -3,8 +3,8 @@ title: Paladin Basics Guide
 card_header_image: /img/jobs/pld/basic.png
 authors:
   - nikroulah
-patch: "6.18"
-lastmod: 2022-08-14T17:53:10.232Z
+patch: "6.21"
+lastmod: 2022-09-19T01:48:07.113Z
 changelog:
   - date: 2021-10-27T17:21:54.665Z
     message: Added
@@ -12,18 +12,25 @@ changelog:
     message: Endwalker update
   - date: 2022-07-26T20:34:27.725Z
     message: Updated opener graphics
+  - date: 2022-09-19T01:32:12.497Z
+    message: Updated for 6.2
+tags:
+  - Rotation
+  - PaladinRotation
+  - Opener
+  - PaladinOpener
 ---
 Welcome to the Basics Guide for Paladin! Whether you are a fresh level 90, a returning player, or just need a refresher, this guide will get you started and allow you to hit the ground running.
 
 Since this is a basic introduction to level 90 Paladin, this guide will not go into many nuances and topics that are tied to high-end optimization. If you are looking for such information, you may find it in one of the dedicated guides below:
 
-* [Leveling Guide](https://www.thebalanceffxiv.com/jobs/tanks/paladin/leveling-guide/)
+* [Leveling Guide](/jobs/tanks/paladin/leveling-guide/)
 * [Openers](/jobs/tanks/paladin/openers)
-* Advanced Guide (Coming Soon!)
+* [Advanced Guide] (/jobs/tanks/paladin/advanced-guide/)
 * Fight Tips (Coming Soon!)
 * Stats and Materia (see [main page](/jobs/tanks/paladin))
 * [Gearing](/jobs/tanks/paladin/best-in-slot)
-* [Skill Overview](https://www.thebalanceffxiv.com/jobs/tanks/paladin/skills-overview/)
+* [Skill Overview](/jobs/tanks/paladin/skills-overview/)
 * [Frequently Asked Questions](/jobs/tanks/paladin/faq)
 
 - - -
@@ -42,52 +49,64 @@ There are a few key concepts that are fundamental to the game and carry over bet
 
 ## The Rotation
 
-### Basic Opener
+With Patch 6.2 gearing options and recent job changes, there are now two rotations for the job: a slow GCD rotation (for use if your GCD is 2.46 or higher), and a fast GCD rotation (for use if your GCD is 2.45 or faster). The new, slow GCD rotation loop is generally preferred, but sticking to the old, fast GCD rotation loop can be done for familiarity with a minor DPS loss.
 
-Goals for the opener include:
+### Slow GCD Rotation (6.2)
 
-* Apply Goring Blade early
-* Use damaging oGCDs inside tincture and raid buff windows. Most raid buffs will come out shortly before the 4th GCD).
+#### Paladin Opener
 
-![Standard Opener for Paladin](/img/jobs/pld/61-fullfof.png)
+![Slow GCD Opener for Paladin](https://cdn.discordapp.com/attachments/1009922395403976825/1019114452580307006/opener250.png)
 
-**Text version:** prepull Holy Spirit at -2s > Fast Blade + late weave Fight or Flight > Riot Blade > Goring Blade > Fast Blade + Tincture > Riot Blade + Circle of Scorn + Intervene > Royal Authority + Expiacion + Requiescat > Atonement + Intervene > Atonement > Atonement > Fast Blade > Riot Blade > Goring Blade > Holy Spirit > Holy Spirit > Holy Spirit > Holy Spirit > Confiteor + Circle of Scorn > Blade of Faith + Expiacion > Blade of Truth > Blade of Valor
-\
-Full size: [Full FoF Opener for Paladin](https://xiv.sleepyshiba.com/pld/img/61-fullfof.png)
+The potion used is whatever the current tier's Strength potion is (as of patch 6.2, it is the Grade 7 Tincture of Strength).
+
+After the opener, go into the rotation loop (pictured and explained below) by doing a Royal Authority combo and using Fight or Flight after the Riot Blade.
+
+#### Paladin Rotation Loop
+
+![Full Slow GCD Rotation Loop for Paladin][https://cdn.discordapp.com/attachments/1009922395403976825/1019114451439460472/loop250.png]
+
+The loop looks complicated, but essentially boils down to:
+1. Magic Phase (4x Holy Spirit, Confiteor, Blade of Valor combo)
+1. Royal Authority combo + 3x Atonement
+1. Goring Blade combo
+1. Royal Authority combo + 3x Atonement
+1. *If Requiescat would not come up in time for the next GCD*, use a Goring Blade combo
+1. Repeat.
+
+If playing a speed faster than 2.50, you will occasionally need to hardcast a Holy Spirit. At 2.46 and 2.47, you can hardcast a Holy Spirit after every third Confiteor (the one after your unbuffed Goring Blade combo). At 2.48 and 2.49, this is also the ideal place to hardcast if the encounter lasts long enough for your Fight or Flight and Requiescat to start clipping your GCD.
+
+### Fast GCD Rotation (Legacy)
+
+#### Paladin Opener
+
+![Fast GCD Opener for Paladin](https://cdn.discordapp.com/attachments/1009922395403976825/1019114452261543986/opener18s.png)
 
 ![](https://xivapi.com/i/020000/020710_hr1.png)
 
-The potion used is whatever the current tier's Strength potion is (as of patch 6.18, it is the Grade 6 Tincture of Strength).
+The potion used is whatever the current tier's Strength potion is (as of patch 6.2, it is the Grade 7 Tincture of Strength).
+
+If a 20-second countdown for the encounter is not feasible, simply skip the pre-pull Fight or Flight and use it where it would normally come up during the rotation loop.
 
 **High Latency Adjustments:**\
 At high latency, if double weaves would cause your GCD to clip, move oGCDs around to stick to single-weaving.
 
-**Opener notes:**  
-
-* We pull with a precast Holy Spirit as a medium-potency GCD that only costs half a GCD (due to precasting). Pulling with Shield Lob would be less potency and starts the GCD rolling later, while pulling with Intervene moves an Intervene out of Fight or Flight.
-* Since the Requiescat oGCD itself does damage, and the Requiescat buff lasts for a long time, we use Requiescat early in the opener to put it under raid buffs like Bard's Battle Voice or Dancer's Technical Finish.
-
-### Rotation Loop
+#### Paladin Rotation Loop
 
 Following Blade of Valor, the Paladin rotation enters into a loop with three phases, with a short filler phase before repeating the Fight or Flight and Requiescat windows as in the opener.
 
 ![Paladin Rotation Loop](https://xiv.sleepyshiba.com/pld/img/loop.png)
 
-**Text Version:** Loop Start > Fast Blade > Riot Blade > Royal Authority > Atonement > Atonement > Fast Blade + late weave Fight or Flight > Riot Blade > Goring Blade > Fast Blade > Riot Blade > Royal Authority > Atonement > Atonement > Atonement > Fast Blade > Riot Blade > Goring Blade + Requiescat > Holy Spirit > Holy Spirit > Holy Spirit > Holy Spirit > Confiteor > Blade of Faith > Blade of Truth > Blade of Valor
-\
-Full size: [Paladin Rotation Loop](https://xiv.sleepyshiba.com/pld/img/loop.png)
-
-During the filler phase, only two out of three Atonements are used because the natural rotation is approximately 64 seconds long. Dropping a GCD minimizes the natural drift on the 60-second cooldown Fight or Flight, and Requiescat and is the best option in a vacuum.
+During the filler phase, only two out of three Atonements are used because the natural rotation would be approximately 64 seconds long. Dropping a GCD minimizes the natural drift on Fight or Flight, Requiescat, and other oGCDs and is the best option in a vacuum.
 
 Damaging oGCDs like Circle of Scorn and Expiacion should be used on cooldown, ideally with two charges of Intervene being pooled for Fight or Flight. Requiescat can be used any time after the 4th Fight or Flight GCD for the buff to last until Confiteor.
 
-### Using Fight or Flight
+#### Weaving Fight or Flight
 
-With a 25-second duration, at most common skill speeds, it is possible to fit 11 GCDs in the Fight or Flight buff window. In the standard rotation these GCDs will be Riot Blade, Goring Blade, a Royal Atonement combo and three Atonements, and another Goring Blade combo. The buff on Goring Blade's damage-over-time effect (DoT) will persist as long as Goring Blade itself was buffed by Fight or Flight.
+With a 25-second duration, at fast GCD rotation skill speeds, it is possible to fit 11 GCDs in the Fight or Flight buff window. In the standard rotation these GCDs will be Riot Blade, Goring Blade, a Royal Atonement combo and three Atonements, and another Goring Blade combo. The buff on Goring Blade's damage-over-time effect (DoT) will persist as long as Goring Blade itself was buffed by Fight or Flight.
 
 ![](https://xiv.sleepyshiba.com/pld/assets/fofgcd.png)
 
-In order to fit all 11 GCDs in the buff window, Fight or Flight must be weaved late in the GCD timer. The approximate timing is two-thirds of the way into the GCD after Fast Blade, though the timing may vary depending on your latency and Skill Speed. As long as the buff icon is on your buff bar when your last GCD is cast, then it was buffed. The in-game battle log and floating damage text are inaccurate for determining whether the last GCD was buffed or not.
+In order to fit all 11 GCDs in the buff window, Fight or Flight must be weaved late in the GCD timer. The approximate timing is two-thirds of the way into the GCD after Fast Blade, though the timing may vary depending on your latency and Skill Speed. As long as the buff icon was on your buff bar when your last GCD is cast, then it was buffed. The in-game battle log, animations, and floating damage text are inaccurate for determining whether the last GCD was buffed or not.
 
 Each Fight or Flight window should also contain one Circle of Scorn and one Expiacion. Using them roughly on cooldown should naturally line them up with Fight or Flight. Intervene is ideally pooled for two uses during Fight or Flight, but should be used to keep melee uptime if needed.
 
@@ -196,7 +215,7 @@ Co-tank macros assume your co-tank is in party slot two (default party sorting).
 ```
 
 **Why are there so many repeated lines?**
-FFXIV macros do not queue, so hitting a macro while in animation lock from another action will cause the macro to not go off. Since macros execute lines sequentially at around one line per frame, repeating the /action lines simulates mashing the ability every frame for ~15 frames and gives the macro a semblance of queuing.
+FFXIV macros do not queue, so hitting a macro while in animation lock from another action will cause the macro to not go off. Since macros execute lines sequentially at around one line per frame, repeating the /action lines simulates mashing the ability every frame for \~15 frames and gives the macro a semblance of queuing.
 
 **Mouseover? `<2>`?**\
 `<mo>` will attempt to target whatever your mouse cursor is currently hovering over when that macro line is reached, whether it be their physical model or a name on your party list.
@@ -260,8 +279,8 @@ Because of stat tiering, the [Tank Gear Calculator](https://bit.ly/XIV-TANKDPSCA
 
 #### Choosing your skill speed
 
-The Paladin rotation is functional at almost all skill speeds. The only requirement is a minimum level of skill speed in order to get 11 GCDs in Fight or Flight, which is possible at virtually any recast speed faster than 2.50 (more reasonably, anything less than 2.47). Common GCD speeds lie anywhere between 2.40 and 2.45.
+The Paladin rotation is functional at almost all skill speeds. For the Fast GCD rotation, the only requirement is a minimum level of skill speed in order to get 11 GCDs in Fight or Flight, which is possible at virtually any recast speed faster than 2.50 (more reasonably, anything less than 2.47). Common Fast GCD speeds lie anywhere between 2.42 and 2.45. The Slow GCD rotation is a gain over the Fast GCD rotation at 2.46 and slower.
 
-Outside of high-end optimization, choice of skill speed has little impact on the Paladin rotation, and can be chosen for comfort (faster speeds are more forgiving and latency-friendly for fitting 11 GCDs into Fight or Flight).
+Outside of high-end optimization, choice of skill speed has little impact on the Paladin rotation, and can be chosen for comfort. For high latency it is recommended to use the Slow GCD rotation with a slower GCD (like 2.50). Alternatively, you can use the Fast GCD rotation and go with a faster GCD (2.40) to compensate for your latency.
 
 In optimization, each encounter must be considered separately to determine how many GCDs are gained or lost by different skill speeds, as well as to line up the GCD with any melee disengages. In general, the slowest speed that doesn't lose any major GCDs within a phase will be the strongest choice.
