@@ -14,9 +14,7 @@ changelog:
 ---
 # Dragoon Opener and Rotation
 
-The primary use of the Opener is to prepare your cooldown alignment for the rest of the encounter. With our new job design, it’s possible that we’ll actually have fight-specific openers down the stretch, and they’ll all be added here!
-
-These openers have not been too thoroughly tested as of yet, so please take them with a grain of salt, and if you discover anything that flies counter to what we have listed here, please don’t hesitate to ask!
+The primary use of the Opener is to prepare your cooldown alignment for the rest of the encounter. With our new job design, it’s possible that we’ll actually have fight-specific openers down the stretch.
 
 ## Standard Opener
 
