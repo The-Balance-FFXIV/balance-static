@@ -21,7 +21,7 @@ tags:
 ---
 *This guide is intended to give the reader the tools needed to approach encounter optimization as a Machinist.
 It assumes you are already familiar with the fundamentals of the job – if you need a refresher, please
-read the [Basic Guide](https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/) and come back when you're done.*
+read the [Basic Guide](/jobs/ranged/machinist/basic-guide/) and come back when you're done.*
 
 # Introduction to Optimization
 
@@ -55,48 +55,28 @@ This leads us to the second rule:
 
 **2. Make your cooldowns deal as much damage as possible.**
 
-What separates good Machinists from great Machinists is their ability to coordinate as many cooldowns and resources
-as possible into periods where there they have raid buffs, tinctures, or other fight-specific burst phases. This is why
-the general opener calls for delaying **Chain Saw** and **Wildfire** into raid buffs, but is that always the right choice? 
+What separates good Machinists from great Machinists is their ability to coordinate as many cooldowns and resources as possible into periods where there they have raid buffs, tinctures, or other fight-specific burst phases. This is why the general opener calls for delaying **Chain Saw** and **Wildfire** into raid buffs, but is that always the right choice? 
 
-We'll tackle opener optimization shortly, but hopefully it's clear to you that the two golden rules work in
-opposition to each other. Delaying your cooldowns for raid buffs means potentially losing uses,
-and using your cooldowns as early as possible means potentially missing raid buffs.
-The key to encounter optimization is therefore to **identify how many uses** you can get in a fight, and then
-**plan those uses effectively**.
+We'll tackle opener optimization shortly, but hopefully it's clear to you that the two golden rules work in opposition to each other. Delaying your cooldowns for raid buffs means potentially losing uses, and using your cooldowns as early as possible means potentially missing raid buffs. The key to encounter optimization is therefore to **identify how many uses** you can get in a fight, and then **plan those uses effectively**.
 
 ## Average Case vs. Fixed Case
 
-The general rotation is designed for the **average case**. These are the situations where kill time is
-completely unknown. This is why the general opener delays certain cooldowns into raid buffs: *on average*
-you deal more damage by following this opener, even though there's a chance that you will lose uses at
-the end of the fight.
+The general rotation is designed for the **average case**. These are the situations where kill time is completely unknown. This is why the general opener delays certain cooldowns into raid buffs: *on average* you deal more damage by following this opener, even though there's a chance that you will lose uses at the end of the fight.
 
-The average case is a good framework for general theorycrafting, but when we're optimizing an encounter
-we're generally dealing with the **fixed case**. In this scenario, we know exactly how long each phase is
-and we have a fairly good idea of what our kill time will be. This enables us to be precise with our
-cooldown usage: we can use the delayed opener, or a rushed opener (which we'll see shortly), or
-any number of tricks which allow us to maximize the two golden rules. 
+The average case is a good framework for general theorycrafting, but when we're optimizing an encounter we're generally dealing with the **fixed case**. In this scenario, we know exactly how long each phase is and we have a fairly good idea of what our kill time will be. This enables us to be precise with our cooldown usage: we can use the delayed opener, or a rushed opener (which we'll see shortly), or any number of tricks which allow us to maximize the two golden rules. 
 
-When raiding, try to always be aware of which of the above cases you're currently in. Do you know exactly
-when the boss is going to disappear for downtime? If so, do you know which GCD you'll hit the boss with last?
-Is there an opportunity for you to use a cooldown earlier in the opener (to gain a use) or, if not, later in the opener
-(to align with more buffs)?
+When raiding, try to always be aware of which of the above cases you're currently in. Do you know exactly when the boss is going to disappear for downtime? If so, do you know which GCD you'll hit the boss with last? Is there an opportunity for you to use a cooldown earlier in the opener (to gain a use) or, if not, later in the opener (to align with more buffs)?
 
 # Battery
 
-Let's face it, Queen really puts the *auto* in "automaton". It can be boring to press one button
-and watch your pet do the rest on its own. For this reason, you might just overlook how completely bonkers its
-damage is. A 100-Battery Queen deals **2660 potency** (around 2367 player potency)! That's over four Drills worth of damage, which means that
-**Queen is the single most important action to align to raid buffs**. If you're serious about optimizing an encounter,
-the best place to start is by carefully planning out the timing for your Queen summons to fit as many of her hits as possible
-into raid buffs. 
+Let's face it, Queen really puts the *auto* in "automaton". It can be boring to press one button and watch your pet do the rest on its own. For this reason, you might just overlook how completely bonkers its damage is. A 100-Battery Queen deals **2660 potency** (around 2367 player potency)! That's over four Drills worth of damage, which means that
+**Queen is the single most important action to align to raid buffs**. If you're serious about optimizing an encounter, the best place to start is by carefully planning out the timing for your Queen summons to fit as many of her hits as possible into raid buffs. 
 
 ## Queen Mechanics
 
 Pets have slightly different stat modifiers than player characters do. Here are some of Queen's quirks, in no particular order:
 
-* Queen mirrors our raid buffs, including tincture, in real time.
+* Queen mirrors our raid buffs, including Tinctures, in real time.
 
   * Queen is unaffected by Dragon Sight.
 * Queen mirrors our debuffs, including damage downs and stuns, in real time.
@@ -109,53 +89,33 @@ Pets have slightly different stat modifiers than player characters do. Here are 
 * Queen does not benefit from the Party Bonus mainstat buff.
 * Queen does not benefit from the player's racial stat bonuses.
 
-Altogether, Queen's potency is worth about **89% of the player's potency**. For example, the 120 potency Arm Punch
-is roughly equivalent to 106.8 potency from your direct damaging actions.
+Altogether, Queen's potency is worth about **89% of the player's potency**. For example, the 120 potency Arm Punch is roughly equivalent to 106.8 potency from your direct damaging actions.
 
 ## Summon Timings
 
-In a two minute cycle you can expect to generate 180-190 Battery, which is enough for two large Queens –
-one aligned to buffs and one outside buffs. 
+In a two minute cycle you can expect to generate 180-190 Battery, which is enough for two large Queens – one aligned to buffs and one outside buffs. 
 
-If there's a downtime phase in the fight, you need to be strategic about where you use your Battery.
-Certain kinds of add phases lend themselves to building gauge so you can spend it all in a big reopener
-when the boss becomes targetable. In these situations, you should make sure to dump Battery before
-the downtime so that you don't overcap.
+If there's a downtime phase in the fight, you need to be strategic about where you use your Battery. Certain kinds of add phases lend themselves to building gauge so you can spend it all in a big reopener when the boss becomes targetable. In these situations, you should make sure to dump Battery before the downtime so that you don't overcap.
 
 ## Battery Manipulation
 
-Sometimes you want to delay your Queen summon without taking Battery away from the Queen that comes after.
-To do this, **you can use Hypercharge to delay your upcoming Clean Shot** which increases the amount of time you
-have to summon Queen without generating more Battery. If you're in this situation, see if you can manipulate
-your **Hypercharge** timings to make this work.
+Sometimes you want to delay your Queen summon without taking Battery away from the Queen that comes after. To do this, **you can use Hypercharge to delay your upcoming Clean Shot** which increases the amount of time you have to summon Queen without generating more Battery. If you're in this situation, see if you can manipulate your **Hypercharge** timings to make this work.
 
-In a two-target cleave, another option is to **use Scattergun to delay your upcoming Clean Shot**. Note that
-**Scattergun** is a small potency loss compared to your Heated Combo against two targets, so you're going to need
-a really good reason for delaying Queen before this becomes an option.
+In a two-target cleave, another option is to **use Scattergun to delay your upcoming Clean Shot**. Note that **Scattergun** is a small potency loss compared to your Heated Combo against two targets, so you're going to need a really good reason for delaying Queen before this becomes an option.
 
 ## Post-Battery Phase
 
-If you've already summoned your last Queen of the fight, you've entered the "post-battery" phase. This
-has no consequence on single target fights, but it does shift the AoE priority slightly. **In post-battery
-situations, Scattergun is a gain over Heated Combo on two targets**.
+If you've already summoned your last Queen of the fight, you've entered the "post-battery" phase. This has no consequence on single target fights, but it does shift the AoE priority slightly. **In post-battery situations, Scattergun is a gain over Heated Combo on two targets**.
 
 # Reassemble
 
-In Endwalker we received a second charge of **Reassemble** which has some interesting consequences.
-Since we generate two charges every 110 seconds, this cooldown doesn't loop cleanly with our two minute cycle. 
-If we try to always use **Reassemble** under buffs we'll drift the cooldown by 10 seconds every two minutes which
-generally (but not necessarily) results in a missed use for typical full uptime fights.
+In Endwalker we received a second charge of **Reassemble** which has some interesting consequences. Since we generate two charges every 110 seconds, this cooldown doesn't loop cleanly with our two minute cycle.  If we try to always use **Reassemble** under buffs we'll drift the cooldown by 10 seconds every two minutes which generally (but not necessarily) results in a missed use for typical full uptime fights.
 
-**Still, fitting two Reassembles into as many buff windows as possible without losing a use is a key element of
-encounter optimization**. The best way to work this out for yourself is with a spreadsheet that includes
-the timings of each of your tool uses as well as the time ranges where raid buffs are located.
-Note that raid buff windows where tinctures are used are especially important to try to fit two Reassembles into 
-if the fight allows it.
+**Still, fitting two Reassembles into as many buff windows as possible without losing a use is a key element of encounter optimization**. The best way to work this out for yourself is with a spreadsheet that includes the timings of each of your tool uses as well as the time ranges where raid buffs are located. Note that raid buff windows where tinctures are used are especially important to try to fit two Reassembles into  if the fight allows it.
 
 ## General Rotation Cheatsheet
 
-If you are strictly following the general opener's tool timings in a full uptime fight, you can use the following
-table to identify kill times (or phase times) where you won't lose a use by fully aligning **Reassemble** to buffs:
+If you are strictly following the general opener's tool timings in a full uptime fight, you can use the following table to identify kill times (or phase times) where you won't lose a use by fully aligning **Reassemble** to buffs:
 
 | Start Time | End Time | Reassemble in Buffs? |
 | ---------- | -------- | -------------------- |
@@ -170,14 +130,11 @@ table to identify kill times (or phase times) where you won't lose a use by full
 
 &nbsp;
 
-Note that if your kill time isn't within any of the above ranges, that doesn't necessarily mean you should use **Reassemble**
-fully on cooldown – it just means you won't be able to fit two Reassembles in *every* buff window.
+Note that if your kill time isn't within any of the above ranges, that doesn't necessarily mean you should use **Reassemble** fully on cooldown – it just means you won't be able to fit two Reassembles in *every* buff window.
 
 # Wildfire Setups
 
-At a 2.50 GCD with full uptime, **Wildfire**'s cooldown loops cleanly over our GCD rotation and we can effectively
-follow the same pattern for weaving **Wildfire** as we did in the opener every two minutes. However, if there's awkward
-downtime or you need to hold **Wildfire** for delayed burst, you might need to weave **Wildfire** differently to get it
+At a 2.50 GCD with full uptime, **Wildfire**'s cooldown loops cleanly over our GCD rotation and we can effectively follow the same pattern for weaving **Wildfire** as we did in the opener every two minutes. However, if there's awkward downtime or you need to hold **Wildfire** for delayed burst, you might need to weave **Wildfire** differently to get it
 on cooldown at the right time without interfering with your GCD rotation. Below are the most common options:
 
 ## WF > HC
@@ -200,34 +157,22 @@ This one exists too.
 
 # Opener Optimization
 
-The order in which you use cooldowns in the opener sets the pace for the rest of the encounter. If you use
-something outside of buffs in the opener, then in a full uptime scenario it will fall outside of buffs in all
-future burst windows too. While the two golden rules of optimization will ultimately dictate which cooldowns you
+The order in which you use cooldowns in the opener sets the pace for the rest of the encounter. If you use something outside of buffs in the opener, then in a full uptime scenario it will fall outside of buffs in all future burst windows too. While the two golden rules of optimization will ultimately dictate which cooldowns you
 choose to align to buffs, this section will offer some advice on how to optimize your openers.
 
 ## Tools
 
-We'll cover potency analysis in a separate section, but the tl;dr is that in terms of potency per second,
-**Air Anchor > Drill > Chain Saw**. That's why in the general opener we choose to use our tools
-in this order. In the fixed case we can manipulate this order or rush tools to prevent losing uses, and
-similarly we can delay tool uses to fit all of them under buffs if it doesn't result in lost uses.
+We'll cover potency analysis in a separate section, but the tl;dr is that in terms of potency per second, **Air Anchor > Drill > Chain Saw**. That's why in the general opener we choose to use our tools in this order. In the fixed case we can manipulate this order or rush tools to prevent losing uses, and similarly we can delay tool uses to fit all of them under buffs if it doesn't result in lost uses.
 
-As an example, with the general opener and full uptime we would use **Drill** at 6:02.5 and **Chain Saw** at 6:12.5.
-If the boss is expected to die around 6:10 at the latest, we can move **Chain Saw** earlier in our opener to
-get the final cast off at 6:05. This might lose some buff alignment on the previous **Chain Saw** casts, but gaining
+As an example, with the general opener and full uptime we would use **Drill** at 6:02.5 and **Chain Saw** at 6:12.5. If the boss is expected to die around 6:10 at the latest, we can move **Chain Saw** earlier in our opener to get the final cast off at 6:05. This might lose some buff alignment on the previous **Chain Saw** casts, but gaining
 a full extra use more than makes up for it.
 
 ## Automaton Queen
 
-An interesting facet of the Machinist rotation in Endwalker is the ability to summon Queen in the opener.
-To do so requires generating 50 Battery over a minimum of 5 full GCDs (HC1 + HC2 + HC3, AA, CS)
-prior to your first **Hypercharge** window. In practice this becomes 6 full GCDs since we'll need to get **Drill**
-on cooldown before **Wildfire** as well.
-Since this Queen comes out so late it can only land a few punches under raid buffs,
+An interesting facet of the Machinist rotation in Endwalker is the ability to summon Queen in the opener. To do so requires generating 50 Battery over a minimum of five full GCDs (HC1 + HC2 + HC3, AA, CS) prior to your first **Hypercharge** window. In practice this becomes six full GCDs since we'll need to get **Drill** on cooldown before **Wildfire** as well. Since this Queen comes out so late it can only land a few punches under raid buffs,
 but **it will resolve its full damage under an opener tincture** if you choose to use one here.
 
-Using an opener Queen is usually a good way to squeeze some extra juice out of your Battery gauge.
-However, with certain kill times **the 6 GCD requirement may end up delaying your Wildfire enough to lose a use**!
+Using an opener Queen is usually a good way to squeeze some extra juice out of your Battery gauge. However, with certain kill times **the six GCD requirement may end up delaying your Wildfire enough to lose a use**!
 
 ## Wildfire
 
