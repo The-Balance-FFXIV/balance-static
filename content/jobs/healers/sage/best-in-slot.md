@@ -1,8 +1,8 @@
 ---
 title: Sage Best in Slot
 layout: bis
-patch: "6.08"
-lastmod: 2022-01-24T07:06:15.406Z
+patch: "6.2"
+lastmod: 2022-09-18T18:41:08.451Z
 changelog:
   - date: 2022-01-24T07:07:39.406Z
     message: Created page
@@ -10,25 +10,32 @@ changelog:
     message: DSW prog BiS update
 bis:
   - type: etro
-    description: Pick a set that meets your Piety needs.
-    name: 6.05 Tome Ring (479 Piety)
-    link: 3c7d9741-0e74-41d7-9ec4-1b2e7c1673a5
+    description: Highest damage set for optimized play.
+    name: 6.2 Crafted Ring, DH
+    link: 80bec2f5-8e9e-43fb-adcf-0cd7f7018c02
   - type: etro
-    description: Pick a set that meets your Piety needs.
-    name: 6.05 Crafted Ring (390 Piety)
-    link: 32c72ae2-3c53-49cf-ac02-b989c693d8b5
+    description: Compared to the DH set, this set has .2% less damage, but about 3%
+      higher healing.
+    name: 6.2 Crafted Ring, Det
+    link: a38499b0-25d9-4397-8c15-ec9fe1765227
   - type: etro
-    description: Pick a set that meets your Piety needs.
-    name: 6.05 Heavy Piety (849 Piety)
-    link: b9611dfd-2ea4-4068-9deb-fef7f3d7ed01
+    description: Slightly higher vitality and better MP economy compared to crafted
+      ring sets, at the cost of about 0.5% less damage.
+    link: 39c93c65-e049-4d2c-9439-4812499f6acc
+    name: 6.2 Tome Ring, Det
   - type: etro
-    description: Pick a set that meets your Piety needs.
-    name: 6.05 Base Speed (719 Piety)
-    link: fac7475e-7580-4a93-9f19-8a76b7723857
+    description: Gains about .02% DPS over the Det equivalent above, at the cost of
+      about 1% healing.
+    name: 6.2 Tome Ring, DH
+    link: 87d29e07-c56d-408f-858b-8394711a6740
   - type: etro
-    description: A base set to prepare for Savage raiding.
-    name: Raid-ready Set
-    link: e6488dbc-1b2a-48c6-8690-f4aaa9366c2d
+    description: "Provides less damage and healing, but more piety for safety. "
+    name: 6.2 More Piety Set
+    link: e1182236-e00e-49ed-a606-0a27e1daa721
+  - type: etro
+    description: "Provides unnecessary amounts of piety. "
+    link: 89a8ea05-b590-42e9-9b02-152b97e35c4c
+    name: 6.2 Even More Piety Set
   - type: etro
     description: This set sacrifices some piety for damage but should still provide
       enough MP to cover most prog situations.
