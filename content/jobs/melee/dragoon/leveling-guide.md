@@ -15,7 +15,7 @@ changelog:
 
 ## Gear
 
-Always use the highest Item Level gear available to you. The increase of Strength and survivability outweighs potentially more favorable substats in lower Item Level gear.
+Always use the highest Item Level gear available to you. The increase of Strength and survivability outweighs potentially more favorable substats in lower Item Level gear. The total amount of substats is also higher.
 
 Dragoons use Maiming armor and Slaying accessories.
 Low level gear may not be labeled as such, so make sure you always equip gear that gives a bonus to Strength.
@@ -23,8 +23,8 @@ Low level gear may not be labeled as such, so make sure you always equip gear th
 ## Know Your Role
 
 Melee DPS jobs have a unique mechanic in Positionals. Certain actions will deal more damage when executed from the rear or flank of a target. Targets with continuous Target Rings will always take the increased damage from positional actions. \
-The Role Action True North allows you to disregard positional requirements for ten seconds per use.
-
+The Role Action True North allows you to disregard positional requirements for ten seconds per use. \
+A continuous target ring will always count positionals as successful, regardless of your position.
 ![Positional zones](https://imgur.com/ANOqtwM.png "Positional zones")
 
 While it is a loss to miss your Positionals, landing them should be your last priority, after you have met all of the other combat priority requirements of a melee DPS job. These are listed in order from largest to smallest loss of damage if you fail that level.
@@ -83,7 +83,7 @@ New action: Doom Spike. Your first AoE weaponskill. Use it when facing three or 
 ### Levels 50-55
 
 New action: Chaos Thrust. The next weaponskill in the Buff combo and the first Rear positional. This action applies a Damage-over-Time (DoT) effect to the target. The general rotation idea does not change. This is our strongest weaponskill, however Life Surge does not apply to the DoT so it should still be used on Full Thrust or Doom Spike.
-When facing two enemies you want to apply to DoT to both first.
+When facing two enemies you want to apply the DoT to both first.
 
 * Buffing Single Target combo \
   True Thrust -> Disembowel -> Chaos Thrust
