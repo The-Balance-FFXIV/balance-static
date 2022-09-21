@@ -1,13 +1,15 @@
 ---
 title: Dragoon FAQ
 layout: qna
-patch: "6.05"
-lastmod: 2022-01-14T12:53:01.436Z
+patch: "6.2"
+lastmod: 2022-09-21T17:12:08.365Z
 changelog:
   - date: 2021-10-29T02:57:06.403Z
     message: Created page
   - date: 2022-01-14T12:52:20.784Z
     message: Updated for Endwalker.
+  - date: 2022-09-21T17:12:09.451Z
+    message: Editorial changes and updates
 qna:
   - question: How do Raiden Thrust and Draconian Fury work?
     answer: Raiden Thrust is an upgraded True Thrust and Draconian Fury is an
@@ -31,17 +33,14 @@ qna:
       The **only** exception to this rule is a situation where you are running with a **static, consistent team** and have a specific kill time in mind. In this sort of coordinated environment (**and only in this case**) it can be prudent to shift your buff times to line up with allies for net gains to raid DPS. This is a very niche case and most of the time should not be taken into consideration.
   - question: Who should I tether with Dragon Sight?
     answer: >-
-      In a pug group, prioritize whoever will actually be close to you when it’s
-      Dragon Sight time. Delaying GCDs hunting down your Bard because they asked
-      for tether but live in Narnia will cause more issues than it solves. If
-      someone specifically asks for it, just tell them they need to be close to
-      you when it’s time.
+      The general priority, assuming equal gear and skill level, for regular two
+      minute buff windows is:
 
 
-      In a static group, on initial pulls of the fight while learning, prioritize in the same way as a pug group. After you have a few pulls, filter a series of FFLogs parses from your group through <https://tethercalc.herokuapp.com/> to get specific answers for each tether for your particular group on that particular fight.
+      ![](https://i.imgur.com/97rARed.png)
 
 
-      There is no hard-and-fast rule of who to tether, but Summoner tends to be low on the totem pole, because the tether does not affect any pets.
+      In a static group, on initial pulls of the fight while learning, prioritize in the same way as above. After you have a few pulls, filter a series of FFLogs parses from your group through <https:///tethercalc.com/> to get specific answers for each tether for your particular group on that particular fight.
   - question: Is it okay to hold High Jump, Spineshatter Dive, or Dragonfire Dive
       for raid buffs? Personal buffs?
     answer: >-
@@ -53,31 +52,35 @@ qna:
 
 
       However, if you know your target kill time and are certain that the delays will **not** cost a use on the fight, then it is perfectly acceptable to do so. Just be aware that delaying is **never** worth it if you end up with one fewer cast on the encounter because of it, *especially* in the case of High Jump and Mirage Dive.
-  - question: Do we still delay Life of the Dragon?
+  - question: What does delaying Life of the Dragon mean?
     answer: >-
-      With a 60s recast on Lance Charge we will ideally delay every life window.
-      The arrangement of Geirskogul and High Jump in the Opener remains this way
-      forever, with every odd landing immediately after Lance Charge Lance
-      Charge, Dragon Sight and Battle Litany and entering Life. As such, we no
-      longer need to think about early/late life and double life windows are a
-      thing of the past. 
+      You will enter Life of the Dragon (LotD) with your next cast of Geirskogul
+      after accruing two dragon eyes through Mirage Dive. You delay the LotD by
+      using Geirskogul before the second Mirage Dive. \  
+
+      For example: You gain the first eye in your opener and the second one 30 seconds later. You could enter LotD at this point but your buffs are still on cooldown. By using Geirskogul before the second Mirage Dive you will sit on two eyes for another 30 seconds without being in LotD.
 
 
-      If a specific fight doesn't allow delayed life windows we will adapt to that in the (Re-)Opener. Please refer to the [Encounter Tips](https://www.thebalanceffxiv.com/jobs/melee/dragoon/ "Encounter Tips") section for fight specific Openers and rotation tips.
+      With a 60s recast on Lance Charge we will ideally delay every life window. The arrangement of Geirskogul and High Jump in the Opener remains this way forever, with every odd one landing immediately after Lance Charge or Lance Charge, Dragon Sight and Battle Litany and entering Life.  
+
+
+      Specific fights may not allow a delayed life due to unfortunate phase timings. We have to adapt the (Re-)Opener in that case and use Mirage Dive before Geirskogul to enter life right away.
+
+      This also applies to the last life in a fight. Do not lose out on Nastrond or Stardiver casts by delaying a life when the boss is about to die!
   - question: Should I double up Chaos Thrust on two targets? What about three?
     answer: >-
-      The short answer is yes - -if you have two targets that will both be
-      active for > 30 seconds, you want to alternate targets, maintaining Chaos
-      Thrust on both:
+      The short answer is yes - if you have two targets that will both be active
+      for > 30 seconds, you want to alternate targets, maintaining Chaos Thrust
+      on both:
 
 
-      Raiden Thrust - Disembowel - Chaos Thrust - Wheeling Thrust - Fang and Claw - Raiden Thrust - Disembowel - Chaos Thrust - Wheeling Thrust - Fang and Claw
+      Raiden Thrust - Disembowel - Chaotic Spring - Wheeling Thrust - Fang and Claw - Raiden Thrust - Disembowel - Chaotic Spring - Wheeling Thrust - Fang and Claw
 
 
-      If any Life Surge comes up in these scenarios, just use it on a Fang and Claw that has a positional hit, as it has no effect on the damage-over-time effect of Chaos Thrust. This rotation has approximately a 3% gain over the usual rotation if you have two targets to spread Chaos Thrust on.
+      If any Life Surge comes up in these scenarios, just use it on a Fang and Claw that has a positional hit, as it has no effect on the damage-over-time effect of Chaos Thrust. This rotation has approximately a 3% gain over the usual rotation if you have two targets to spread Chaotic Spring on.
 
 
-      When extending to three targets, if they're all within range, you actually want to swap to your AoE rotation (Draconian Fury / Sonic Thrust / Coerthan Torment).
+      When extending to three targets, if they're all within range, you actually want to swap to your AoE rotation (Draconian Fury / Sonic Thrust / Coerthan Torment) and use Life Surge on Coerthan Torment.
 authors:
   - Balance-DRG-Staff
 ---
