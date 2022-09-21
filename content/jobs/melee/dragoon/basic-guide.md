@@ -83,13 +83,13 @@ Upon properly completing any of the above combos, you will gain the buff Draconi
 | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) |
 
-&nbsp;\
+&nbsp;
 
 | **Doom Spike >**                                | **Draconian Fury**                              |
 | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/000000/000306_hr1.png) | ![](https://xivapi.com/i/002000/002594_hr1.png) |
 
-&nbsp;\
+&nbsp;
 
 #### Piercing Talon
 
@@ -127,7 +127,7 @@ Some actions in the kit deal more damage from the **side** of a boss and some de
 
 #### How do I know if I'm at the **side** or **rear** of a target?
 
-![](/img/pos.png)
+![Positional zones](https://imgur.com/ANOqtwM.png "Positional zones")
 
 The arrow at the top is the **front** of the target. You get no special bonuses by attacking here, other than lots of bonus deaths for standing in tank busters and cleaves.
 
@@ -135,7 +135,7 @@ On the left and right sides, you will find the **sides** or **flanks** of the ta
 
 At the bottom of the image, there’s a gap between the two **sides** of the target. This empty space is the **rear**. When standing at the base of one **side**, it becomes easy to identify the two positions; you either attack the empty space or the line.
 
-Some enemies will have the **side** mark wrapping their entire hitbox with no arrow to indicate a **front**. These target rings are special because you will get positional bonuses from every action without needing to worry about where you attack from. All the enemies in the Palace of the Dead, for example, have this special targeting ring.
+Some enemies will have the **side** mark wrapping their entire hitbox. These target rings are special because you will get positional bonuses from every action without needing to worry about where you attack from. All the enemies in the Palace of the Dead, for example, have this special targeting ring.
 
 As a Dragoon, we only have positional requirements on three of our actions. Each of them provides an additional 40 potency when they hit the proper side of the target. Important to note is that we occasionally use Life Surge on the fifth hit of our Chaotic Spring and Heavens’ Thrust combos, but only if we manage to land the positional on it. True North is particularly useful in these situations to guarantee success.
 
@@ -200,7 +200,7 @@ In general, the buffs will be used together every two minutes, with Lance Charge
 
 ![Basic buff rotation](https://i.imgur.com/wCfUtSr.png "Basic Buff Rotation")
 
-&nbsp;\
+&nbsp;
 
 - - -
 
@@ -310,7 +310,7 @@ Wyrmwind Thrust is just a strong oGCD action you should use whenever possible. I
 ![](https://xivapi.com/i/002000/002583_hr1.png)\
 Geirskogul and its relationship with High Jump form the basis of the overall oGCD rotation for Dragoon. This dictates when and where you will enter your Life cycles and how well those cycles will sync up with your above-mentioned buff rotations. As you will see, in the opener, we use Geirskogul before High Jump so that we always skip entering Life during the un-buffed actions, and instead save it for our one-minute buff windows.
 
-# Life Cycle
+# Life of the Dragon
 
 After using a pair of Mirage Dives, you will enter Life of the Dragon on your next cast of Geirskogul that deals damage. Entering Life turns Geirskogul into Nastrond and unlocks the ability to use Stardiver. Over the following 30 seconds, you can use three Nastronds and one Stardiver, but beyond that they can be shifted somewhat freely to adjust to mechanics and buffs.
 
@@ -358,12 +358,13 @@ When you have more than one target to attack, your backbone GCD rotation changes
 ## Two Targets
 
 When up against two targets, you drop the Heavens’ Thrust combo and just double down on the Chaotic Spring combo, alternating targets to maintain both DoT effects.
+Only Chaotic Spring has to be alternated between targets. Every other combo action can be used on either target.
 
 | &nbsp;                                          | &nbsp;                                          | Target One                                      | &nbsp;                                          | &nbsp;                                          | &nbsp;                                          | &nbsp;                                          | Target Two                                      | &nbsp;                                          | &nbsp;                                          |
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/002000/002596_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/002000/002596_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) |
 
-&nbsp;\
+&nbsp;
 
 ## Three or More Targets
 
@@ -373,7 +374,7 @@ Once you have three or more targets, you should cycle through your Coerthan Torm
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/002000/002594_hr1.png) | ![](https://xivapi.com/i/002000/002586_hr1.png) | ![](https://xivapi.com/i/002000/002590_hr1.png) |
 
-&nbsp;\
+&nbsp;
 
 You ideally want to keep all of your other AoE attacks rolling as often as possible in these situations. Keep in mind that Life Surge does work on Coerthan Torment to force a critical hit on every target all at once. Make sure to prioritize High Jump the same as always to get into Life of the Dragon quickly, as Nastrond and Stardiver are two of your strongest multi-target actions.
 
