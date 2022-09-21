@@ -15,6 +15,8 @@ changelog:
     message: Updated to new basic guide.
   - date: 2022-05-12T17:46:39.061Z
     message: Updated for 6.1
+  - date: 2022-09-21T00:05:23.458Z
+    message: Updated for 6.2
 ---
 # Foreword
 
@@ -52,7 +54,7 @@ Dancer’s Job Gauges are central to their gameplay.
 
 On the top, you see up to four green Feathers appear. These represent your available stored uses of Fan Dance (also known as Fourfold Feathers); these charges have a chance of being generated when using certain abilities. Each displayed Feather allows a single use of either Fan Dance, or its AoE counterpart, Fan Dance II.
 
-The yellow bar, with the corresponding number, is your Esprit gauge. This resource is unlocked at level 76.  Esprit is generated as you or your dance partner use GCD weapon skills or spells. After using Technical Finish, your entire party also will contribute to generating Esprit until the raid buff expires. This resource is consumed by using Saber Dance, a very hard hitting GCD. Use it proactively to avoid wasting Esprit.
+The yellow bar, with the corresponding number, is your Esprit gauge. This resource is unlocked at level 76. Esprit is generated as you or your dance partner use GCD weapon skills or spells. After using Technical Finish, your entire party also will contribute to generating Esprit until the raid buff expires. This resource is consumed by using Saber Dance, a very hard hitting GCD. Use it proactively to avoid wasting Esprit.
 
 ![](/img/jobs/dnc/dnc2.png)
 
@@ -74,7 +76,7 @@ Standard Step should be generally used whenever it becomes available -- even whe
 
 # Understanding Dance Partner
 
-Dancer’s main gimmick is the dance partner mechanic. Using Closed Position on a party member sets them as your dance partner, allowing several of your skills (Standard Finish and Devilment) to buff said party member and to provide significant boosts to their damage output.
+Dancer’s main gimmick is the Dance Partner mechanic. Using Closed Position on a party member sets them as your Dance Partner, allowing several of your skills (Standard Finish and Devilment) to buff said party member and to provide significant boosts to their damage output.
 
 You therefore want to put your Dance Partner on someone that does a lot of damage and is able to utilize said buffs to their fullest extent. 
 
@@ -88,11 +90,11 @@ Dance partner does stack, so if you’re ever in a situation where you have two 
 
 (Esprit generation is only a minor consideration as this is largely standardized between different jobs.)
 
-There is also a dance partner calculator which you can use to determine exactly who the best value dance partner is. It can be found [here](http://partnercalc.herokuapp.com).
+There is also a Dance Partner calculator which you can use to determine exactly who the best value Dance Partner is. It can be found [here](http://partnercalc.herokuapp.com).
 
-# Your rotation
+# Dancer Rotation
 
-Before reading this part of the guide, it might be wise to read up on all of Dancer’s abilities [here](/jobs/ranged/dancer/skills-overview/)
+Before reading this part of the guide, it might be wise to read up on all of Dancer’s abilities [here.](/jobs/ranged/dancer/skills-overview/)
 
 The backbone of Dancer's rotation is a set of four GCD combo actions that are simple, yet flexible. 
 
