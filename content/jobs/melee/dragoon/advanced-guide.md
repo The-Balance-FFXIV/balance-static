@@ -13,4 +13,4 @@ changelog:
       planned at this point.
 ---
 
-Due to the nature of the DRG job design, advanced content is included and covered within the [Basic Guide](https://www.thebalanceffxiv.com/jobs/melee/dragoon/basic-guide/). If you have further questions for optimization, please feel free to ask in the Discord server.
+Due to the nature of the Dragoon job design, advanced content is included and covered within the [Basic Guide](/jobs/melee/dragoon/basic-guide/). If you have further questions regarding DRG optimization, please feel free to ask in the Discord server.
