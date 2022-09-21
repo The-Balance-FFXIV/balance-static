@@ -3,6 +3,13 @@ title: Dragoon Changes
 layout: changes
 lastmod: 2022-09-21T20:47:10.288Z
 changes:
+  - patch: "6.05"
+    description: |-
+      | Action          |  Adjustment                                  |
+      | --------------- |  ------------------------------------------- |
+      | Wyrmwind Thrust |  Potency has been increased from 370 to 420. |
+      | Geirskogul      |  Potency has been increased from 250 to 260. |
+      | Nastrond        |  Potency has been increased from 350 to 360. |
   - patch: "6.11"
     description: >+
       | Action          | Adjustment                                  |
@@ -13,13 +20,6 @@ changes:
 
       | High Jump       | When Jump changes to Mirage Dive, there will now be a small input delay to prevent the unintended execution of Mirage Dive. |
 
-  - patch: "6.05"
-    description: |-
-      | Action          |  Adjustment                                  |
-      | --------------- |  ------------------------------------------- |
-      | Wyrmwind Thrust |  Potency has been increased from 370 to 420. |
-      | Geirskogul      |  Potency has been increased from 250 to 260. |
-      | Nastrond        |  Potency has been increased from 350 to 360. |
   - patch: "6.1"
     description: >-
       | Action            |
