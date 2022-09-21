@@ -2,8 +2,8 @@
 title: Astrologian Openers
 authors:
   - Balance-AST-Staff
-patch: "6.08"
-lastmod: 2022-03-04T21:43:53.771Z
+patch: "6.21"
+lastmod: 2022-09-21T23:34:41.839Z
 changelog:
   - date: 2021-10-26T20:51:46.607Z
     message: Article Created.
