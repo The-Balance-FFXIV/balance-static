@@ -20,6 +20,10 @@ bis:
     description: ""
     name: i612 Pentamelded Abyssos Savage Week 1 Prog Set
     link: 74dca178-9958-490c-a605-5a4fdb88f1ac
+  - type: etro
+    description: ""
+    name: i600 Dragonsong's Reprise Best In Slot
+    link: cec981af-25c7-4ffb-905e-3024411b797a
 authors:
   - Balance-BRD-Staff
 ---
