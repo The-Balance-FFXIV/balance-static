@@ -3,8 +3,8 @@ title: White Mage Leveling Guide
 card_header_image: /img/jobs/whm/leveling.png
 authors:
   - shy
-patch: "6.1"
-lastmod: 2022-05-29T20:59:56.963Z
+patch: "6.21"
+lastmod: 2022-09-22T01:48:41.012Z
 changelog:
   - date: 2021-10-30T03:45:37.404Z
     message: Article Created.
