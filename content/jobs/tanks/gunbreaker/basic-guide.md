@@ -63,9 +63,11 @@ Grants Ready To Blast
 
 520 potency attack that can only be used following Savage Claw. Grants Ready To Gouge.
 
-![Double Down](https://xivapi.com/i/003000/003432_hr1.png)
+![Double Down](/img/jobs/gnb/dd.png)
 
-Delivers an attack to all within 5y of you with a potency of 1,200 for the first enemy, and 15% less for all remaining enemies.
+**Double Down**
+
+Delivers an attack to all within 5y of you with a potency of 1,200 for the first enemy, and 15% less for all remaining enemies.\
 Cartridge Cost: 2
 
 ![SonicBreak](/img/jobs/tanks/gunbreaker/Sonic_Break.png)
@@ -129,8 +131,9 @@ Turns into Jugular Rip, Abdomen Tear, Eye Gouge, or Hypervelocity when under the
 
 260 potency attack. Can only be used under Ready To Gouge triggered by Wicked Talon.
 
-![Hypervelocity](https://xivapi.com/i/003000/003431_hr1.png)
+![Hypervelocity](/img/jobs/gnb/hv.png)
 
+**Hypervelocity**\
 180 potency attack. Can only be used under Ready to Blast triggered by Burst Strike. 
 
 ![DangerZone](/img/jobs/tanks/gunbreaker/Danger_Zone.png)
@@ -598,6 +601,7 @@ You should always use the highest grade of Strength pot.
 Below is your best-in-slot. Before you ask, there is no best of the best. If one was universally better we would only list that one set. There are trade offs and benefits for each set and it comes down to what you want to run. Keep in mind not only do gear pieces change from set to set but melds and food as well.
 
 #### **GCD:**
+
 [2.45](https://etro.gg/gearset/1cdcf24b-af97-4d6b-ab88-dcfee79f791c)
 [2.42](https://etro.gg/gearset/afa282c8-d5b9-41a8-8adf-aca95bc3de33)
 
