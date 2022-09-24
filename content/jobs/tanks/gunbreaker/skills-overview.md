@@ -12,7 +12,7 @@ changelog:
   - date: 2022-09-17T20:29:36.863Z
     message: Updated potencies and BF CD
   - date: 2022-09-24T23:53:58.662Z
-    message: Updated images.
+    message: Updated icons.
 ---
 # Gunbreaker Skills Overview
 
