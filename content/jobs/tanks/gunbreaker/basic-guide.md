@@ -14,6 +14,8 @@ changelog:
   - date: 2022-08-28T21:10:49.542Z
     message: Amended potencies for 6.2, adjusted info in AOE info, removed outdated
       flow chart.
+  - date: 2022-09-24T23:54:18.906Z
+    message: Removed outdated content until guide is reworked and new info added.
 ---
 # Introduction to Gunbreaker
 
