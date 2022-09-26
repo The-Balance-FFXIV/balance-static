@@ -78,4 +78,4 @@ Coming Soon!
 
 For fight-specific optimization, especially in fights with fixed-length phases, it is recommended to map out all GCDs and FoF/Req timings to try and maximize total potency across phases.
 
-See the Current Tier BiS and Fight Tips (Coming Soon!) pages for more on encounter-specific optimization, or join the Balance discord for more up-to-date fight rotations.
+See the Current Tier BiS and Fight Tips pages for more on encounter-specific optimization, or join the Balance discord for more up-to-date fight rotations.
