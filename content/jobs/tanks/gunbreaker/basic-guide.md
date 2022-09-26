@@ -14,6 +14,8 @@ changelog:
   - date: 2022-08-28T21:10:49.542Z
     message: Amended potencies for 6.2, adjusted info in AOE info, removed outdated
       flow chart.
+  - date: 2022-09-24T23:54:18.906Z
+    message: Removed outdated content until guide is reworked and new info added.
 ---
 # Introduction to Gunbreaker
 
@@ -63,9 +65,11 @@ Grants Ready To Blast
 
 520 potency attack that can only be used following Savage Claw. Grants Ready To Gouge.
 
-![Double Down](https://xivapi.com/i/003000/003432_hr1.png)
+![Double Down](/img/jobs/gnb/dd.png)
 
-Delivers an attack to all within 5y of you with a potency of 1,200 for the first enemy, and 15% less for all remaining enemies.
+**Double Down**
+
+Delivers an attack to all within 5y of you with a potency of 1,200 for the first enemy, and 15% less for all remaining enemies.\
 Cartridge Cost: 2
 
 ![SonicBreak](/img/jobs/tanks/gunbreaker/Sonic_Break.png)
@@ -129,8 +133,9 @@ Turns into Jugular Rip, Abdomen Tear, Eye Gouge, or Hypervelocity when under the
 
 260 potency attack. Can only be used under Ready To Gouge triggered by Wicked Talon.
 
-![Hypervelocity](https://xivapi.com/i/003000/003431_hr1.png)
+![Hypervelocity](/img/jobs/gnb/hv.png)
 
+**Hypervelocity**\
 180 potency attack. Can only be used under Ready to Blast triggered by Burst Strike. 
 
 ![DangerZone](/img/jobs/tanks/gunbreaker/Danger_Zone.png)
@@ -194,9 +199,7 @@ Combo Actions: Keen Edge ➞ Brutal Shell ➞ Solid Barrel\
 Demon Combo (Area of Effect): Builds **one Cartridge**
 Combo Actions: Demon Slice ➞ Demon Slaughter
 
-This combo is utilized in 2+ Target scenarios to build one Cartridge.
-
-Use it to build your gauge when fighting multiple enemies. 
+Demon combo is utilized in 2+ Target scenarios to build one Cartridge. Use it to build your gauge when fighting multiple enemies. Do note: 
 
 * It is weaker in single target scenarios than the Solid Barrel Combo, however can be used in niche circumstances such as fight specific phasings to generate more cartridges that otherwise would have been lost. Do not use this combo in single target situations outside of these special cases.
 
@@ -292,9 +295,9 @@ See below for a quick reference of each weaponskill and their corresponding Cont
 
 No Mercy is the backbone of our burst. It provides a 20% damage increase for 20s.
 
-* This duration allows us to fit nine GCDs into the buff, ensuring the damage of those nine weaponskills is amplified. 
+* This duration allows us to fit nine GCDs into the buff (if not running a very slow build), ensuring the damage of those nine weaponskills is amplified. 
 
-No Mercy will always contain the following:
+No Mercy should always contain the following:
 
 \
 GCD:
@@ -322,26 +325,19 @@ As you can see, this is where GNB gets its busy reputation because of all the ab
 * This requires you to have three Cartridges in your Powder Gauge as Gnashing Fang requires one Cartridge and Double Down requires two Cartridges. 
 * This is a fundamental rule of No Mercy and should never change. You should never be in a situation where you enter No Mercy without three Cartridges loaded.
 * You ideally want two Rough Divides in every No Mercy; however you can use Rough Divide to gap close if you would otherwise lose several GCD’s due to running across the arena chasing the boss. 
+* You can substitute Demon Combo and Fated Circle for Solid Barrel Combo and Burst Strike when appropriate. 
 
 *\*At level 90, the Gnashing Fang + Jugular Rip part of your GF combo is sometimes omitted in some No Mercy windows (see Gnashing Fang ➞ No Mercy below), but before level 90, you aim to keep all of GF in every NM Window.*
 
 **So what changes between each No Mercy Window?**\
 One of the main changes is where in your Solid Barrel combo you’ll be when you enter No Mercy. As a result of this the placement of Burst Strike(s) and your combo changes but the core usage of abilities is the same.
 
-Once you finish your Gnashing Fang Combo (Which will contain Double Down and Sonic Break), your next goal is to empty remaining carts (granted by Bloodfest), when your Power Gauge is empty, you revert back to your Solid Barrel combo. If the No Mercy buff is still present and you have generated a cart from Solid Barrel, you immediately dump the cart into Burst Strike to get it under the 20% damage up. You can see the variations below.
-
-![NM Windows]( "1-2-3 No Mercy + Windows")
-
-&nbsp;
-
-The Pull is the opening of the fight which is why it will contain a Tincture of Strength. If you are the Main Tank ensure you have Royal Guard on to ensure enmity. Each subsequent window is their number after the Opener. For example, One Minute Window is one minute after the opener, Two Minute Window is two minute later and so on. **Please note, these windows change if you adjust your opener to something else such as Keen Mercy opener.**
-
-As you can see, each window contains the above abilities. **The remainder of the Solid Barrel combo** is determined by what part of the combo was rolling when entering No Mercy. For example, in the two minute window, you would have already used Keen Edge and Brutal Shell before using No Mercy, allowing you to end on a Solid Barrel after concluding the Gnashing Fang combo.
+Once you finish your Gnashing Fang Combo (Which will contain Double Down and Sonic Break), your next goal is to empty remaining carts (granted by Bloodfest), when your Power Gauge is empty, you revert back to your Solid Barrel combo. If the No Mercy buff is still present and you have generated a cart from Solid Barrel, you immediately dump the cart into Burst Strike to get it under the 20% damage up. 
 
 The reason we begin Gnashing Fang and use Double Down followed by Sonic Break before finishing our Gnashing Fang combo is to maximize usages.
 
 * The cooldown of an ability begins from the moment it is pressed. 
-* If we wait until after Gnashing Fang even though it doesn’t interrupt it, then we’re just holding it for two GCDs for no reason which can lose a usage over the course of a fight.
+* If we wait until after Gnashing Fang combo even though it doesn’t interrupt it, then we’re just holding it for 2+ GCDs for no reason, and if downtime occurs, can cause you to heavily push Double Down or Sonic Break away from the CD of No Mercy.
 
 **Fitting Nine GCDs:**\
 A number of factors play into allowing for nine GCDs inside No Mercy: 
@@ -377,9 +373,9 @@ Due to the nature of how Gunbreaker is in Endwalker, if you follow the rotation 
 * Solid Barrel is ready to cast at the next GCD.
 * No Mercy is still on cooldown until after the next GCD. 
 
-This isn’t an error or a mistake, it’s guaranteed in the rotation and will happen. The most optimal choice for this is to use Gnashing Fang ➞ Jugular Rip ➞ No Mercy. (See three minute window above). 
+This isn’t an error or a mistake, it’s guaranteed in the rotation and will happen. One of the optimal choices for this is to use Gnashing Fang ➞ Jugular Rip ➞ No Mercy. 
 
-Although we are leaving Gnashing Fang and Jugular Rip out of No Mercy, it secures an extra Burst Strike in No Mercy while ensuring that No Mercy does not drift out of raid buffs. It has been discussed and assessed and, as odd as it is, No Mercy after Gnashing is the optimal play and is something you will need to get used to.
+Although we are leaving Gnashing Fang and Jugular Rip out of No Mercy, we are gaining a Burst Strike in No Mercy in its place while ensuring that No Mercy does not drift out of raid buffs by being used when it available ASAP. 
 
 *As of update 6.11, the buff to the Gnashing Fang combo means that Gnashing+Jugular Rip are now stronger than Burst Strike + Hypervelocity. This means GF->NM is now a loss, however it still ensures no delay on No Mercy. It is difficult to give a baseline and state which is optimal (GF->NM or delaying NM to place GF inside the window) and will become a case by case basis both for kill times and openers. This is still being theorycrafted but for now you can continue with either option so long as all other rules of the class are upheld.*
 
@@ -431,7 +427,7 @@ Reduces damage taken by 20% for 20 seconds. \
 Reduces damage taken by 30% for 15 seconds. \
 **CD: 120s**
 
-![Heart of Corundum](https://xivapi.com/i/003000/003430_hr1.png)
+![Heart of Corundum](/img/jobs/gnb/hoc.png "Heart of Corundum")
 
 **Heart of Corundum** \
 Reduces damage taken by a party member or self by 15%.\
@@ -583,13 +579,12 @@ No one can tell you what the best speed is, this is down to your preference!
 
 #### Additional Items:
 
-**Materia:** If you are new to endgame content then please ensure you are melding your gear with Materia. Materia is a huge contributing factor to your DPS, as it is a hefty gain in your substats. Empty Materia slots are never acceptable when doing anything higher than Extreme Primals. 
+**Materia:** If you are new to endgame content then please ensure you are melding your gear with Materia. Materia is a huge contributing factor to your DPS, as it is a hefty gain in your substats. Empty Materia slots are never acceptable when doing anything higher in difficulty than dungeons. 
 
-**Food:** Food provides a temporary (and practically mandatory) stat boost, contributing to both your total HP and your damage stats. Some builds even require food to hit your intended GCD. \
-As of Patch 6.1 we use Pumpkin Potage or Pumpkin Ratatouille, both High Quality.
+**Food:** Food provides a temporary (and practically mandatory) stat boost, contributing to both your total HP and your damage stats. Some builds even require food to hit your intended GCD. High quality food provide a higher gain than normal quality.
 
 **Pots:** When doing Savage and Ultimates you’ll also want to use Pots (short for potions). These provide a limited window of a large boost in your main stat (strength for tanks) that makes your damage spike. These, when used optimally, can contribute a huge amount of DPS in a raid. Using them is something you may have to get used to and you will notice their timings marked in our openers above.\
-You should always use the highest grade of Strength pot.
+You should always use the highest grade of High Quality Strength pot.
 
 # Best-In-Slot
 
@@ -598,14 +593,17 @@ You should always use the highest grade of Strength pot.
 Below is your best-in-slot. Before you ask, there is no best of the best. If one was universally better we would only list that one set. There are trade offs and benefits for each set and it comes down to what you want to run. Keep in mind not only do gear pieces change from set to set but melds and food as well.
 
 #### **GCD:**
-[2.45](https://etro.gg/gearset/1cdcf24b-af97-4d6b-ab88-dcfee79f791c)
+
+[2.45](https://etro.gg/gearset/1cdcf24b-af97-4d6b-ab88-dcfee79f791c)\
 [2.42](https://etro.gg/gearset/afa282c8-d5b9-41a8-8adf-aca95bc3de33)
 
-Race Specific Bis:
-
+Race Specific Bis:\
 Use if you are a Seeker of the Sun, Midlander, and Sea Wolf:
-*Why different BiS for race? - Because racial stats have a difference in strength that makes the double tome ring better for these races*
-[2.45](https://etro.gg/gearset/1300c0c9-cf6b-474c-aba9-f1bfeb31976d)
+*Why different BiS for race? - Because racial stats have a difference in strength that makes the double tome ring better for these races*\
+**GCD:**
+
+
+[2.45](https://etro.gg/gearset/1300c0c9-cf6b-474c-aba9-f1bfeb31976d)\
 [2.42](https://etro.gg/gearset/559c9e70-eeea-400d-a71f-7cb4ba304181)
 
 ## Ultimates
