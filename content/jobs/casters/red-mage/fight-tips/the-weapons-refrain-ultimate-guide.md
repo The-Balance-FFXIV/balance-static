@@ -1,5 +1,6 @@
 ---
 title: The Weapon's Refrain (Ultimate) Guide
+card_header_image: /img/rdm-fight-tips.jpg
 authors:
   - Laille-Ormesaing
   - lana
