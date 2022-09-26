@@ -4,7 +4,7 @@ card_header_image: /img/jobs/pld/advanced.png
 authors:
   - nikroulah
 patch: "6.21"
-lastmod: 2022-09-19T01:47:02.373Z
+lastmod: 2022-09-26T03:34:04.234Z
 changelog:
   - date: 2021-10-27T17:21:01.212Z
     message: Created
