@@ -1,8 +1,8 @@
 ---
 title: Bard Best in Slot (BiS)
 layout: bis
-patch: "6.2"
-lastmod: 2022-08-24T12:31:38.436Z
+patch: "6.21"
+lastmod: 2022-09-26T02:47:01.488Z
 changelog:
   - date: 2021-10-26T02:40:27.765Z
     message: Created page
@@ -20,6 +20,10 @@ bis:
     description: ""
     name: i612 Pentamelded Abyssos Savage Week 1 Prog Set
     link: 74dca178-9958-490c-a605-5a4fdb88f1ac
+  - type: etro
+    description: ""
+    name: i600 Dragonsong's Reprise Best In Slot
+    link: cec981af-25c7-4ffb-905e-3024411b797a
 authors:
   - Balance-BRD-Staff
 ---
