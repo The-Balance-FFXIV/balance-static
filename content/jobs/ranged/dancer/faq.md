@@ -13,25 +13,21 @@ changelog:
 qna:
   - question: Who do I Dance Partner?
     answer: >-
-      The tentative dance partner priority for patch 6.2 is:\
+      The tentative dance partner priority for patch 6.21 is:\
 
       \
 
-      SAM>NIN>MNK>DRG/RPR>RDM/BLM>SMN>MCH>BRD>DNC\
+      SAM > NIN > MNK > RPR > DRG > BLM > SMN > RDM > MCH > BRD > DNC
 
-      \
 
-      This is tentative because we don't yet have a clear picture of how the 6.2 changes, especially the crit/dhit changes, will impact the rankings. There is also a dance partner calculator which you can use to determine exactly who the best value dance partner is. It can be found [here](http://partnercalc.herokuapp.com).
+      There is still not a large enough sample size of good logs to fully determine the exact differences between some of the jobs. More updates may come with Week 8+ of savage when more BiS logs are expected to be available.
+
+
+      For more accurate results for your group and needs, plug in logs into Hint's Partner Calculator: [http://partnercalc.herokuapp.com](http://partnercalc.herokuapp.com/ "http\://partnercalc.herokuapp.com/")
   - question: How should I approach gearing up the class?
     answer: You can review Ringabel's guide on how to best approach gearing DNC in
       6.2 by clicking
       [](https://docs.google.com/document/d/1BkaVg7n_rcjwWjiPheHF4MZxlP67KlhoU0SkW3n1UX0/edit)<https://bit.ly/DNCGearingGuide-6-20>
-  - question: Who do I Dance Partner?
-    answer: >-
-      NIN > MNK/RPR > DRG/SAM > RDM/BLM > SMN > MCH > BRD > DNC
-
-
-      There is also a dance partner calculator which you can use to determine exactly who the best value dance partner is. It can be found [here](http://partnercalc.herokuapp.com).
   - question: What is BiS for old Ultimate fights?
     answer: >-
       With iLvl sync, you can max out on both secondary stats on a gear piece as
@@ -71,7 +67,6 @@ qna:
 authors:
   - Balance-DNC-Staff
   - Ringabel-Dim
-  - Laille-Ormesaing
 ---
 # DANCE PARTNER PRIORITY
 
