@@ -6,7 +6,7 @@ authors:
   - infinitestory
   - Balance-BRD-Staff
 patch: "6.2"
-lastmod: 2021-12-13T02:09:03.870Z
+lastmod: 2022-09-26T02:46:43.651Z
 changelog:
   - date: 2021-10-26T02:17:16.801Z
     message: Created page
@@ -19,13 +19,13 @@ This is a basic introduction to level 90 Bard. It will not go into many nuances,
 
 If you're looking for such information, you may find it in one of the dedicated guides below: 
 
-- [Leveling Guide](/jobs/ranged/bard/leveling-guide/)
-- [Skills Overview](/jobs/ranged/bard/skills-overview/)
-- [Gearing](/jobs/ranged/bard/best-in-slot)
-- [Frequently Asked Questions](/jobs/ranged/bard/faq/)
-- [Opener](/jobs/ranged/bard/openers/)
-- [Advanced Guide](/jobs/ranged/bard/advanced-guide/)
-- [Fight-Specific Tips (google doc)](https://docs.google.com/document/d/1l3X2PB5hAqTNBLKKTfkkOfCsNExhPSvAi1Aqgh09HHI/)
+* [Leveling Guide](/jobs/ranged/bard/leveling-guide/)
+* [Skills Overview](/jobs/ranged/bard/skills-overview/)
+* [Gearing](/jobs/ranged/bard/best-in-slot)
+* [Frequently Asked Questions](/jobs/ranged/bard/faq/)
+* [Opener](/jobs/ranged/bard/openers/)
+* [Advanced Guide](/jobs/ranged/bard/advanced-guide/)
+* [Fight-Specific Tips (google doc)](https://docs.google.com/document/d/1l3X2PB5hAqTNBLKKTfkkOfCsNExhPSvAi1Aqgh09HHI/)
 
 (Note: These pages will be added or updated over time.)
 
@@ -57,7 +57,6 @@ As a physical job, Bard's **GCD** skills - skills that share a 2.5 second base c
 Normally, you have enough time between GCD skills to use two oGCD skills. If you aren't already, get used to the pattern of (GCD - up to two oGCDs - GCD - up to two oGCDs - GCD - etc.). 
 
 Also, note that you can press a GCD skill a little in advance, and it will fire as soon as possible. Use this fact to make sure your global cooldown never stops spinning.
-
 
 ## Positioning
 
@@ -180,9 +179,9 @@ So, you should always have one of your three songs running while in combat. Beca
 
 ### Song Order
 
-|**43s**|**34s**|**43s**|
-|-|-|-|
-|![The Wanderer's Minuet](https://xivapi.com/i/002000/002607_hr1.png)|![Mage's Ballad](https://xivapi.com/i/002000/002602_hr1.png)|![Army's Paeon](https://xivapi.com/i/002000/002603_hr1.png)|
+| **43s**                                                              | **34s**                                                      | **43s**                                                     |
+| -------------------------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- |
+| ![The Wanderer's Minuet](https://xivapi.com/i/002000/002607_hr1.png) | ![Mage's Ballad](https://xivapi.com/i/002000/002602_hr1.png) | ![Army's Paeon](https://xivapi.com/i/002000/002603_hr1.png) |
 
 &nbsp;
 
@@ -232,8 +231,8 @@ Make sure to stay on top of the GCD as its pace accelerates. It's easy to lose d
 
 This should be your go-to for starting a single target fight:
 
-![Bard Level 90 6.00 Opener](/img/jobs/brd/brd_opener.png "Bard Level 90 6.00 Opener")
-  
+![Bard Level 90 6.00 Opener](/img/jobs/brd/brd_opener_p.png "Bard Level 90 6.00 Opener")
+
 Use **Bloodletters** and three stack **Pitch Perfects** as able (they aren't displayed here). 
 
 If **Refulgent Arrow** is available when you would **Barrage**, use **Sidewinder** instead, then Barrage after spending the RA proc.
@@ -242,27 +241,36 @@ It's worth dumping any Pitch Perfect stacks you have (even just one) before buff
 
 In text form:
 
-- Stormbite
-  - The Wanderer's Minuet
-  - Raging Strikes
-- Caustic Bite
-  - Empyreal Arrow
-  - Bloodletter
-- Burst Shot / Refulgent Arrow
-  - Radiant Finale
-  - Battle Voice
-- Burst Shot / Refulgent Arrow
-  - Barrage / Sidewinder
-- Burst Shot / Refulgent Arrow
-  - Barrage / Sidewinder
-- Burst Shot / Refulgent Arrow
-  - (open)
-- Burst Shot / Refulgent Arrow
-  - (open)
-- Burst Shot / Refulgent Arrow
-  - Empyreal Arrow
-- Iron Jaws
-  - Pitch Perfect
+* Stormbite
+
+  * The Wanderer's Minuet
+  * Raging Strikes
+* Caustic Bite
+
+  * Empyreal Arrow
+  * Bloodletter
+* Burst Shot / Refulgent Arrow
+
+  * Radiant Finale
+  * Battle Voice
+* Burst Shot / Refulgent Arrow
+
+  * Barrage / Sidewinder
+* Burst Shot / Refulgent Arrow
+
+  * Barrage / Sidewinder
+* Burst Shot / Refulgent Arrow
+
+  * (open)
+* Burst Shot / Refulgent Arrow
+
+  * (open)
+* Burst Shot / Refulgent Arrow
+
+  * Empyreal Arrow
+* Iron Jaws
+
+  * Pitch Perfect
 
 ## Two-minute burst
 
@@ -285,7 +293,6 @@ Bard's AoE core is much like its single target. **Ladonsbite** and **Shadowbite*
 
 While enemies are gathering, go ahead and drop some Stormbites on them for free damage. Once you can start hitting everything with Ladonsbite / Shadowbite, swap to using those.
 
-
 ## Songs and Cooldowns
 
 Keep your songs running during dungeon packs as normal. It's fine to have songs rolling between packs too; you'll still get procs and gauge outside of combat.
@@ -302,7 +309,6 @@ Don't be afraid to use your two minute buffs on packs either. But unlike with **
 For **Apex Arrow** and **Blast Arrow**, there's normally not much of a difference between using Apex at 80 vs. 100 gauge. You can mostly just use it whenever you want. 
 
 But if there's a mob with a lot more HP than the others, try to use Apex at 80 gauge and target your Blast Arrow at that enemy. The "first enemy" that takes 600p from Blast Arrow is whichever one you're targeting. You can use this to help even out mob HP.
-
 
 ## Targeting
 
@@ -330,20 +336,20 @@ Meanwhile, **Shadowbite** and **Rain of Death** want you to be targeting somethi
 
 **Raging Strikes** - A simple but meaty damage increase. You want this to be running alongside your party-wide buffs.
 
-
 ## Defense / Support
 
-![Troubadour](https://xivapi.com/i/002000/002612_hr1.png) 
+![Troubadour](https://xivapi.com/i/002000/002612_hr1.png)
 
 **Troubadour** - Simply enough, try to use this when the party is going to take a lot of damage. In harder content, your healers should be able to tell you when they want it. If they haven't, make the best guesses you can.
 
 ![Nature's Minne](https://xivapi.com/i/002000/002615_hr1.png)
 
 **Nature's Minne** - This increases all healing received. That includes any shields that are based on a potency. Nature's Minne has a lot of good uses:
-- Helping when healers need to single heal more than just the tank.
-- Putting it on the tank on big dungeon pulls.
-- Coordinating with a Scholar to buff an **Adloquium** + **Deployment Tactics**.
-- Using it on yourself when you make a mistake or miss a heal.
+
+* Helping when healers need to single heal more than just the tank.
+* Putting it on the tank on big dungeon pulls.
+* Coordinating with a Scholar to buff an **Adloquium** + **Deployment Tactics**.
+* Using it on yourself when you make a mistake or miss a heal.
 
 ![The Warden's Paean](https://xivapi.com/i/002000/002609_hr1.png)
 
@@ -353,7 +359,7 @@ Meanwhile, **Shadowbite** and **Rain of Death** want you to be targeting somethi
 
 **Second Wind** - A simple self-heal. It's useful for solo play, and also if you need more healing than the rest of your party for any reason. 
 
-![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png) 
+![Arm's Length](https://xivapi.com/i/000000/000822_hr1.png)
 
 **Arm's Length** - Canceling a knockback can be useful sometimes, so have this ready on your hotbar. Note that there are a few knockback mechanics that ignore it.
 
@@ -382,12 +388,12 @@ Meanwhile, **Shadowbite** and **Rain of Death** want you to be targeting somethi
 
 # Credits
 
-Sana Cetonis [Mateus] - Primary author
+Sana Cetonis \[Mateus] - Primary author
 
-Verzell Varion [Adamantoise] - Theorycrafter
+Verzell Varion \[Adamantoise] - Theorycrafter
 
-Yumiya Nagatsuki [Behemoth] - Theorycrafter
+Yumiya Nagatsuki \[Behemoth] - Theorycrafter
 
-Elya Kura [Ragnarok] - Theorycrafter
+Elya Kura \[Ragnarok] - Theorycrafter
 
-Stephia Deleva [Goblin] - Contributor
+Stephia Deleva \[Goblin] - Contributor
