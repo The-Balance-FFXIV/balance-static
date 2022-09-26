@@ -33,7 +33,7 @@ Make sure you understand which of your abilities are GCDs, and which are oGCDs. 
 
 For Dancers, as we do not need to worry about cast bars, our GCDs will look something like this (assuming a minimum skill speed set):
 
-![](images/image1.png)
+![](/img/dncimage1.png)
 
 This means that after each GCD you use, after a forced animation lock of around \~0.7s, you will have the ability to weave two abilities before you can recast your next GCD. These will generally be Fans, but can include a large variety of other oGCD abilities. These will also, with some exceptions, usually have animation locks of \~0.7s. The biggest exception to this rule are potions, which have a lock of ~1.2s.
 
