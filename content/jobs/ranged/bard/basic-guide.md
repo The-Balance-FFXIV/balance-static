@@ -6,7 +6,7 @@ authors:
   - infinitestory
   - Balance-BRD-Staff
 patch: "6.2"
-lastmod: 2021-12-13T02:09:03.870Z
+lastmod: 2022-09-26T02:46:43.651Z
 changelog:
   - date: 2021-10-26T02:17:16.801Z
     message: Created page
