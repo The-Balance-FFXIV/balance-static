@@ -361,6 +361,7 @@ Congratulations!
 ## Aligned Manafication
 
 God Okonkwo: <https://bit.ly/3xTno97> \
+\
 Lana White: <https://bit.ly/3DSW7Yo> 
 
 ## Manafication Rush
