@@ -317,7 +317,7 @@ The downside to this is that, if not executed properly, it is easier for people 
 
 Clip: <https://youtu.be/ElRQd4ASBtw?t=796> 
 
-# Phase Seven: Dragon King Thordan (Final Phase)
+# Phase Seven: Dragon King Thordan
 
 Compared to previous phases, P7 is fairly simple for DPS and is significantly more challenging for tanks and healers. Be sure your party has a clear mitigation plan before you start progging this phase, and review the DSR caster mitigation guide again (<https://bit.ly/3AHEMxZ>) if required. If your static or PF does not have any mitigation plan going in, fix that now.
 
