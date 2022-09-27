@@ -35,7 +35,7 @@ Please be sure to read Meru's Addle and Magick Barrier Guide: <https://bit.ly/3A
 
 When progressing this fight, there are two common approaches people will take with regard to their Manafication timings:
 
-## Aligned 2-min Manafic
+## Aligned Two-Minute Manafic
 
 This rotation involves aligning Manafication with every raid buff window, making for cleaner burst windows and more flexibility around fast or slow phase killtimes.
 
@@ -54,7 +54,7 @@ The most common and useful potion windows in this fight are as follows:
 * P6 opener.
 * P7 during either Gigaflare 1 or Akh Morn 3, or after Exaflare 1 and Gigaflare 2 (depending on which buff timing your party chooses.
 
-Alternative potion timings can exist for more niche optimization (e.g. Eyes or later in P2), but are considered less common and its benefits to the party are more situational. The potion timings above are more suited to progression.
+Alternative potion timings can exist for more niche optimization (e.g. Eyes or later in P2), but are considered less common and their benefits to the party are more situational. The potion timings above are more suited to progression.
 
 ## Embolden Timings
 
@@ -67,7 +67,7 @@ As always, Embolden should be used to achieve the best possible gains for your g
 * Rewind: Once Charibert is targetable.
 * P5: Between Wrath of the Heavens and Death of the Heavens.
 * P6: Opener, and either during Wyrm’s Breath 2 or after Touchdown.
-* P7: During or after Gigaflare 1, during Akh Morn 3 / After first exaflare and after Gigaflare 2 (hold one minute burst for 20 seconds, only possible if 2-minute buffs are used during Wyrm’s Breath 2) 
+* P7: During or after Gigaflare 1, during Akh Morn 3 / After first exaflare and after Gigaflare 2 (hold one minute burst for 20 seconds, only possible if two-minute buffs are used during Wyrm’s Breath 2).
 
 ## AoE for Mana Generation and Holding DPS
 
@@ -75,7 +75,7 @@ During various phases, you may need to “hold DPS” to give more time for defe
 
 When you need to artificially slow down how fast you kill a boss, the suggested approach would be to cast Veraero/Verthunder II, as these spells do noticeably less damage in single target scenarios but generate the most mana out of our regular GCDs (7 of white/black).
 
-# Phase 1: Vault (Door Boss)
+# Phase One: Vault (Door Boss)
 
 The DPS check in this phase is very lenient, and movement isn’t particularly difficult compared to Savage. As such, the main adjustments in this phase are around getting the most value out of two target spells or abilities.
 
@@ -101,7 +101,7 @@ Since our melee combo finishers cleave, you should at minimum, **save your secon
 
 Your second Manafication may come up before the Charibert phase begins, depending on your group DPS. In this scenario, you should generally use Manafication and use a melee combo on the two bosses, as killing these two bosses as soon as possible is more valuable than doing extra damage to Charibert. One exception to this is if the damage is not needed there and would be more useful on Charibert due to deaths or damage downs.
 
-# Phase 2: Thordan
+# Phase Two: Thordan
 
 Much like the door boss, the DPS check in this phase is also very lenient. This is a “trios” phase where all the difficult mechanics occur when the boss is untargetable, but when the boss is targetable, not much is going on at all. As such, most optimization around this phase revolves around oGCD usage and phase timings. 
 
@@ -127,13 +127,11 @@ Note that for Manafic rush, you should press Manafic on cooldown during Sanctity
 
 ## Strength into Sanctity
 
-There is a short phase of uptime between the first two trio mechanics of this fight. If doing an 
-
-aligned 2-minute rotation, you can just Dualcast through this whole phase and double melee combo into buffs later. If doing Manafic rush, you have to do a full or partial melee combo (full combo recommended) to avoid overcapping during Sanctity.
+There is a short phase of uptime between the first two trio mechanics of this fight. If doing an aligned two-minute rotation, you can just Dualcast through this whole phase and double melee combo into buffs later. If doing Manafic rush, you have to do a full or partial melee combo (full combo recommended) to avoid overcapping during Sanctity.
 
 If auto boss targeting settings are enabled, you can clip your first and last Contre Sixte of this phase (i.e. use it at the start before your first Dualcasted GCD) to squeeze out an additional use, then still get a final GCD off.
 
-**Example of Contre Sixte clipping for a 2-minute aligned Manafication timeline (no combo):**
+**Example of Contre Sixte clipping for a two-minute aligned Manafication timeline (no combo):**
 
 ![](/img/rdmdsrimage2.png)
 
@@ -153,7 +151,7 @@ These techniques can be situational and ruined by having a Defamation marker in 
 
 The reopener here is very flexible, and will depend on your overall fight plan. 
 
-Some players may wish to put more burst damage into Thordan when he has the Discomposed debuff (increase damage taken). If you wish to take advantage of this, you will want to start your melee combo 5 GCD spells after the boss becomes targetable. This will align your three finishers with the Discomposed debuff. 
+Some players may wish to put more burst damage into Thordan when he has the Discomposed debuff (increase damage taken). If you wish to take advantage of this, you will want to start your melee combo five GCD spells after the boss becomes targetable. This will align your three finishers with the Discomposed debuff. 
 
 Otherwise, you can prepare a Dualcast with Vercure, and even an Acceleration before the boss is targetable while soaking your outer tower in Sanctity. You can then use back-to-back instant cast Veraero/thunder III before entering a melee combo, or simply go straight into melee combo after one cast. This allows you to weave more oGCD abilities earlier as required depending on your Addle plan and agreed party raid buff timing.
 
@@ -169,7 +167,7 @@ However, you can freely hold your\*\* **second uses of Contre Sixte, Engagement 
 
 ![](/img/rdmdsrimage6.png)
 
-# Phase 3: Nidhogg/“Nidstinien”
+# Phase Three: Nidhogg/“Nidstinien”
 
 This phase has the first “challenging” DPS check in the raid. It is a full uptime phase. In general, it is recommended to enter this phase with between 70|70 to 80|80 mana from P2, and to do four melee combos throughout the phase. Doing three or five are possible, but are generally for uncommon niche scenarios with limited benefit, and can adversely impact other phases.
 
@@ -177,7 +175,7 @@ This phase has the first “challenging” DPS check in the raid. It is a full u
 
 You can use your first melee combo (second one if Manafic rushing) for movement for the first set of towers.
 
-Unless you are adjusting for the enumeration towers, the best use of sprint in this phase is if you are marked 1 south (thus soaking the third south tower), and you get an “out first” Gnash and Lash pattern.
+Unless you are adjusting for the enumeration towers, the best use of sprint in this phase is if you are marked one south (thus soaking the third south tower), and you get an “out first” Gnash and Lash pattern.
 
 If two towers are dropped too far into the boss, there is also a risk of getting clipped by Geirskogul if you loop fully around the outside. You can avoid this by taking the stack damage slightly inside the boss hitbox, then sprinting diagonally through the boss before curving around to the south tower.
 
@@ -187,9 +185,9 @@ If you have the “look away” tower (either Elusive Jump or Spineshatter Dive,
 
 ## Potion Window
 
-During and after Enumeration towers, we either do a standard triple melee combo for aligned 2-minute Manafic, or a partially buffed double combo if rushing Manafic. In either scenario, you should start your first combo any time during the Drachenlance cast before the Enumeration towers appear. This will allow you to use your melee combo finishers to bait the clone and move out, or even move to another tower if needed (if you are one of the adjusting players)
+During and after Enumeration towers, we either do a standard triple melee combo for aligned two-minute Manafic, or a partially buffed double combo if rushing Manafic. In either scenario, you should start your first combo any time during the Drachenlance cast before the Enumeration towers appear. This will allow you to use your melee combo finishers to bait the clone and move out, or even move to another tower if needed (if you are one of the adjusting players)
 
-## Aligned 2-Minute Manafic Example
+## Aligned Two-Minute Manafic Example
 
 ![](/img/rdmdsrimage5.png)
 
@@ -221,7 +219,7 @@ RDM should proactively revive party members over healers for almost all of the f
 
 After the potion window is complete, try to save at least one charge of Acceleration and Swiftcast for Eyes phase, as they may be needed for cleaner movement during Mirage Dives.
 
-# Phase 4: Eyes
+# Phase Four: Eyes
 
 Optimization and uptime in this phase revolves almost entirely around using Resolution to cleave both eyes, and managing your Mirage Dive movements with Acceleration or Swiftcast where required.
 
@@ -247,7 +245,7 @@ Depending on your strat and previous phase kill times, Manafication may come off
 
 The key is to keep the Manafication cooldown going, and once Charibert is below 29.9% HP, any additional damage on him doesn’t matter at all. Be sure to prepare a Dualcast with Vercure once the spear is destroyed if needed to ensure you open the next phase on an instant cast.
 
-# Phase 5: Thordan II
+# Phase Five: Thordan II
 
 This phase is much like the first Thordan, a trio based phase with a (mostly) lenient DPS check that cycles between “full uptime with barely anything happening” and “a lot of mechanics happening, but the boss is not targetable”.
 
@@ -285,7 +283,7 @@ When the meteors appear, you will want to use Verfinisher and Scorch on one mete
 
 Clip: <https://youtu.be/G0ZbQMSHNkY?t=611> 
 
-# Phase 6: Double Dragons
+# Phase Six: Double Dragons
 
 While the DPS check here in terms of boss HP is quite low, clean enrage wipes can happen if players are not comfortable keeping uptime while doing mechanics safely. There is a lot of movement and some precision required in this phase. With how Hraesvelgr’s Vow works, it is also hard to recover from mistakes. You usually want to end this phase with around 90|90 or more mana heading into P7 to comfortably get 8 melee combos in the final phase.
 
@@ -319,7 +317,7 @@ The downside to this is that, if not executed properly, it is easier for people 
 
 Clip: <https://youtu.be/ElRQd4ASBtw?t=796> 
 
-# Phase 7: Dragon King Thordan (Final Phase)
+# Phase Seven: Dragon King Thordan (Final Phase)
 
 Compared to previous phases, P7 is fairly simple for DPS and is significantly more challenging for tanks and healers. Be sure your party has a clear mitigation plan before you start progging this phase, and review the DSR caster mitigation guide again (<https://bit.ly/3AHEMxZ>) if required. If your static or PF does not have any mitigation plan going in, fix that now.
 
