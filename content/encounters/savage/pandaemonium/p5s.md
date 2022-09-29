@@ -4,6 +4,7 @@ fight_title: p5s
 difficulty: savage
 card_image: /img/encounters/savage/pandaemonium/p5.jpg
 banner_image: /img/encounters/savage/pandaemonium/p5.jpg
+tier_image: /img/encounters/savage/pandaemonium/p5.jpg
 tier_name: Abyssos
 series_name: Pandaemonium Series
 weight: 5
@@ -153,3 +154,5 @@ This is the main mechanic of the fight, colloquially referred to as **Devour**. 
 As the fight begins, Proto-Carbuncle will immediately start with **Sonic Howl** followed by **Ruby Glow**, so mitigate and heal in between the two raidwides. After the first Ruby Glow cast, the arena will be divided into four quadrants. Two **Topaz Stones** will make two quadrants unsafe and two expanding poison pools will spawn, cutting players off from different parts of the room. Head to one of the quadrants that doesn't have a Topaz Stone in it and won't be hit by the expanding poison.
 
 After the poison puddles disappear, the boss will cast **Venomous Pool** into **Toxic Crunch**, a sequence that's repeated several times in this fight. The current main tank needs to move away from the party and use mitigation, as Venomous Pool deals damage in an AoE around the target. During the Venomous Pool castbar, the off tank needs to provoke and use mitigation to take the **Toxic Crunch**.
+
+### Ruby Glow 2
