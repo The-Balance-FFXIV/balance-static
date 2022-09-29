@@ -153,6 +153,16 @@ This is the main mechanic of the fight, colloquially referred to as **Devour**. 
 
 As the fight begins, Proto-Carbuncle will immediately start with **Sonic Howl** followed by **Ruby Glow**, so mitigate and heal in between the two raidwides. After the first Ruby Glow cast, the arena will be divided into four quadrants. Two **Topaz Stones** will make two quadrants unsafe and two expanding poison pools will spawn, cutting players off from different parts of the room. Head to one of the quadrants that doesn't have a Topaz Stone in it and won't be hit by the expanding poison.
 
-After the poison puddles disappear, the boss will cast **Venomous Pool** into **Toxic Crunch**, a sequence that's repeated several times in this fight. The current main tank needs to move away from the party and use mitigation, as Venomous Pool deals damage in an AoE around the target. During the Venomous Pool castbar, the off tank needs to provoke and use mitigation to take the **Toxic Crunch**.
+After the poison puddles disappear, the boss will cast **Venomous Pool** into **Toxic Crunch**, a sequence that's repeated several times in this fight. The current main tank needs to move away from the party and use mitigation, as Venomous Pool deals damage in an AoE around the target. During the Venomous Pool castbar, the off tank needs to provoke and use mitigation to take the Toxic Crunch. After the tankbuster sequence, the boss should be pulled towards the middle in preparation for **Toxicosis Puddles**.
+
+Four puddles will spawn - two in melee range, two near the edge of the arena - which need to be soaked by two players each. The puddles apply a heavy hitting DoT whilst standing inside of them, so it's ideal to move in as late as possible to soak them to avoid taking excess damage. To determine which tower each role will take, we will orient using north. Tanks and healers will take the first inner and outer towers respectively starting from north and going clockwise. Melee and ranged DPS will take the first inner and outer towers respectively starting from northwest and going anticlockwise.
+
+After the puddle sequence, the boss will cast another **Venomous Mass** into **Toxic Crunch** before casting the second **Ruby Glow**.
 
 ### Ruby Glow 2
+
+After the second **Ruby Glow** cast, Proto-Carbuncle will divide the arena into two halves diagonally. The boss will then cast **Topaz Stones**, summoning one stone that will reflect in one half of the room and an expanding poison puddle opposite it. After this, the boss will jump to the middle and cast **Double Rush**. Double Rush deals heavy physical damage, which if unmitigated can be lethal to casters and healers, so ensure that this damage is mitigated. To resolve this mechanic, the party must first stand behind the boss before its first dash, then possibly move to the safe side to avoid the Topaz Stone's Ruby Reflection. If the party is already safe from Ruby Reflection by standing behind the boss, they can simply stand still to finish the mechanic. Make sure to use knockback resistance abilities near the end of the Double Rush castbar or position appropriately to avoid being knocked to the wall.
+
+### **Ruby Glow 3**
+
+After the third **Ruby Glow** cast, Proto-Carbuncle will divide the arena into four quadrants.
