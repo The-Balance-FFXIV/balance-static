@@ -13,23 +13,28 @@ changelog:
 ## Openers
 
 ### Lunar Solar
+
 ![](https://i.imgur.com/srvYnTD.png)
 
 ### Double Solar
+
 ![](https://i.imgur.com/W2t6mG6.png)
 
 ### Early Lunar Solar
+
 ![](https://i.imgur.com/JuWVG3L.png)
 
 ### Early Double Solar
+
 ![](https://i.imgur.com/0E1FKUw.png)
 
 ### Other Resources
+
 Video Guide: [Monk Openers Explained](https://youtu.be/JbLJQKIFJQs)
 
-&nbsp;\
+&nbsp;
 
----
+- - -
 
 ## Rotation
 
@@ -39,11 +44,11 @@ Video Guide: [Monk Openers Explained](https://youtu.be/JbLJQKIFJQs)
 
 ### Korean translation - ![](https://cdn.discordapp.com/attachments/917663279126552576/925809066406727750/6.0_monk_braindead_cheatsheet.png)
 
-
 ### Other Resources
 
 Videos: 
+
 * [Braindead Looping 6:30 dummy rotation](https://youtu.be/c4JlsvC4VIg)
-* [Optimal Drift 6:30 dummy rotation](https://youtu.be/suUrxb3CohQ)
+* [Optimal Drift 6:30 dummy rotation](https://youtu.be/suUrxb3CohQ)
 * [Double Solar 6:30 dummy rotation](https://youtu.be/Aqpt0aqC5z0)
 * [6:30 Double Solar dummy + explanation](https://youtu.be/L-wrn2P7M_M) (French)
