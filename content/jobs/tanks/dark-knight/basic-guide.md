@@ -132,7 +132,7 @@ Similarly, try to use three Blood Gauge spenders (i.e. Living Shadow, Bloodspill
 /ac "Oblation" <mo>
 /ac "Oblation" <mo>
 /ac "Oblation" <mo>
-/micon "The Blackest Night"
+/micon "Oblation"
 ```
 
 ## Shirk (assumes party slot two)
