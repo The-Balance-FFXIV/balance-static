@@ -12,7 +12,7 @@ changelog:
   - date: 2022-09-21T16:39:46.296Z
     message: Minor editorial changes
 ---
-https://cdn.discordapp.com/attachments/841722176017268826/925365578728898560/DRG_ew_opener.png# Dragoon Opener and Rotation
+\# Dragoon Opener and Rotation
 
 The primary use of the Opener is to prepare your cooldown alignment for the rest of the encounter. With our new job design, it’s possible that we’ll actually have fight-specific openers down the stretch.
 
@@ -21,6 +21,8 @@ The primary use of the Opener is to prepare your cooldown alignment for the rest
 The backbone of ten GCDs in sequence will - in general - never be changed, but the two blocks of oGCDs (**Buffs** and **Attacks**) can be shuffled around within their respective slots if necessary to accommodate specific encounter timings.
 
 ![Standard Opener](https://cdn.discordapp.com/attachments/841722176017268826/925365578728898560/DRG_ew_opener.png)
+
+[View full size](https://cdn.discordapp.com/attachments/841722176017268826/925365578728898560/DRG_ew_opener.png)
 
 The default order of Geirskogul and High Jump remains this way for forever, with every odd Geirskogul landing immediately after Lance Charge or Lance Charge, Dragon Sight and Battle Litany and entering Life of the Dragon. As such, we no longer need to think about early/late life and double life as those windows are a thing of the past, barring potential fight-specific optimizations.
 
