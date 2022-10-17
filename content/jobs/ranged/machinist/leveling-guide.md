@@ -4,7 +4,7 @@ card_header_image: /img/jobs/mch/leveling.png
 authors:
   - dook
 patch: "6.2"
-lastmod: 2022-09-14T02:22:19.447Z
+lastmod: 2022-10-17T20:29:39.362Z
 changelog:
   - date: 2021-10-25T21:55:43.292Z
     message: Created page
@@ -14,6 +14,8 @@ changelog:
     message: Updated for 6.1
   - date: 2022-09-13T23:10:44.160Z
     message: Updated for 6.2
+  - date: 2022-10-17T20:29:40.350Z
+    message: Fixed 80 opener image quality
 ---
 # Simple Pointers for New Machinists
 
@@ -106,4 +108,4 @@ Bioblaster comes out to about 600 potency at two targets, so while it’s a gain
 
 Below is the standard opener you’ll want to use at level 80.
 
-![](/img/jobs/mch/mch80.png)
+![Level 80 Machinist Opener](/img/jobs/mch/level80-mch.png "Level 80 Machinist Opener")
