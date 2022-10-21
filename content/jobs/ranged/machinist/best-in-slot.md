@@ -1,7 +1,7 @@
 ---
 title: Machinist Best in Slot (BiS)
 layout: bis
-patch: "6.2"
+patch: "6.25"
 lastmod: 2022-08-23T22:48:17.335Z
 changelog:
   - date: 2021-10-25T22:11:04.615Z
@@ -37,11 +37,14 @@ bis:
     name: Patch 6.2 Best-in-Slot 2.44 GCD
     link: 7262fe54-54d1-4cae-9e0f-3ac26caef33a
   - type: etro
-    description: The BiS for Dragonsong's Reprise in Patch 6.2 using the Savage
-      weapon from Asphodelos. If using the Ultimate weapon, place a Direct Hit
-      meld in the third slot.
-    name: 6.1 Best in Slot (No Ultimate Weapon)
-    link: 7fdd9cea-211c-4205-b39c-6d20818fabb4
+    description: The BiS for Dragonsong's Reprise in Patch 6.25 using the Relic
+      weapon. Relic weapon is better than Asphodelos, and easier to obtain.
+    name: Dragonsong's Reprise Best-in-Slot (No Ultimate Weapon)
+    link: 48d39c9d-eb8b-4274-8529-3455a8853a83
+  - type: etro
+    description: ""
+    name: Dragonsong's Reprise Best-in-Slot (Ultimate Weapon)
+    link: https://etro.gg/gearset/65d29ebb-439b-4206-ba52-690c7470eb5b
   - type: etro
     description: >-
       This set, using the Shadowbringers relic weapon, provides a 3.54% gain
@@ -51,19 +54,8 @@ bis:
 
 
       Due to iLvl syncing, you can achieve the same result with different pieces using the same stat distribution as long as they are above iLvl 470 for UCoB.
-    name: UCoB Synced Best in Slot
+    name: UCoB Synced Best-in-Slot
     link: 1f5046a0-4984-42a5-b343-c5b6061a7630
-  - type: etro
-    description: >-
-      This set, using the Shadowbringers relic weapon, provides a 1.11% gain
-      over the 605 Savage weapon. It's up to you to make the distinction on
-      whether or not this is worth the effort. The relic weapon is not required
-      to clear.
-
-
-      Due to iLvl syncing, you can achieve the same result with different pieces using the same stat distribution as long as they are above iLvl 595 for TEA.
-    name: TEA Synced Best in Slot
-    link: 73df674c-ac05-4001-833d-ca52896fd1d5
   - type: etro
     description: >-
       This set, using the Shadowbringers relic weapon, provides a 3.46% gain
@@ -73,8 +65,19 @@ bis:
 
 
       Due to iLvl syncing, you can achieve the same result with different pieces using the same stat distribution as long as they are above iLvl 500 for UWU.
-    name: UWU Synced Best in Slot
+    name: UWU Synced Best-in-Slot
     link: 0510b8b9-93bd-4c5b-a451-7d0f99d2ea9d
+  - type: etro
+    description: >-
+      This set, using the Shadowbringers relic weapon, provides a 1.11% gain
+      over the 605 Savage weapon. It's up to you to make the distinction on
+      whether or not this is worth the effort. The relic weapon is not required
+      to clear.
+
+
+      Due to iLvl syncing, you can achieve the same result with different pieces using the same stat distribution as long as they are above iLvl 595 for TEA.
+    name: TEA Synced Best-in-Slot
+    link: 73df674c-ac05-4001-833d-ca52896fd1d5
 authors:
   - dook
   - Laille-Ormesaing
