@@ -15,13 +15,13 @@ changelog:
 
 Dragonsong’s Reprise (Ultimate) is the first Ultimate released in Final Fantasy XIV: Endwalker. This entire encounter is about 22 minutes long and split into seven Phases and one Intermission: The Vault Knights, King Thordan, Nidhogg, The Eyes, Rewind Intermission, King Thordan II, The Great Wyrms, and The Dragon King. This guide will go over the rotational structure for Reaper in this encounter and provide tips for different push-timings, Arcane Circle and pot examples, Re-Opener and give some general ideas for how to execute your burst. This guide assumes that you have a basic understanding of the class and its fundamentals. I would advise activating the following feature in your settings so you have an easier time hitting your first GCD on a boss after there was downtime.
 
-[![2022-07-13-12-07-56](https://i.im.ge/2022/08/04/F3Uoex.2022-07-13-12-07-56.png)](https://im.ge/i/F3Uoex)
+[![2022-07-13-12-07-56](https://i.im.ge/2022/08/04/F3Uoex.2022-07-13-12-07-56.png)]
 
 ### Best in Slot (2.49)
 
 [Etro](https://etro.gg/gearset/b301e789-96da-42f2-9628-95f68345e35b)
 
-Your item level will be synced down to 605. The 2.49 set will be the recommended one for this encounter. You can learn more about this in the [advanced guide](/jobs/melee/reaper/advanced-guide/#the-25-249-248-global-cooldown).
+Your item level will be synced down to 605. The 2.49 Asphodelos BiS will be the recommended one for this encounter. You can replace the Asphodelos weapon for the manderville weapon for a slight DPS gain by just replacing one Direct Hit meld in any gearpiece with one +36 Skill Speed meld to get the 2.49 GCD. You can learn more about the GCD tiers in the [advanced guide](/jobs/melee/reaper/advanced-guide/#the-25-249-248-global-cooldown).
 
 # Phase One: The Vault Knights
 
