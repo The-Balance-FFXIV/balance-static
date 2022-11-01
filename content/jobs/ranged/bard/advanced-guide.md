@@ -132,7 +132,7 @@ You can mitigate both issues to a degree, with the right choice of Skill Speed a
 
 There are a lot of forces complicating any effort to keep Empyreal Arrow strictly on time. The natural drift of a 15 second cooldown vs a 2.4x GCD, Army's Paeon & Muse, and proc collisions. 
 
-But you definitely want it to stay on time. Each GCD of drift means a one in six chance to lose an EA over the course of the fight. That is a big loss - not only 200 potency, but also a repertoire proc and the soul gauge that comes with it.
+But you definitely want it to stay on time. Each GCD of drift means a one in six chance to lose an EA over the course of the fight. That is a big loss - not only 230 potency, but also a repertoire proc and the soul gauge that comes with it.
 
 Moreover, if it drifts on top of your Radiant Finale + Battle Voice timing, you will need to delay it another GCD. Once it is that far off the rails, you are due for more forced delays down the road.
 
