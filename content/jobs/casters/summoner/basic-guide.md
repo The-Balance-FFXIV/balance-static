@@ -237,7 +237,7 @@ There are also middle ground situations where you can “rush” through your pr
 
 # Critical Hit vs Spell Speed Summoner Builds
 
-As mentioned, Summoner can either run low Spell Speed (2.48 or 2.46 GCD) or high Spell Speed (2.20 or 2.25 GCD). The low Spell Speed/high Critical Hit build tends to be better for most situations, as the spell speed build’s effectiveness is more subject to encounter timelines. However, you can choose to run the spell speed build blindly and perform adequately regardless.
+As mentioned, Summoner can either run low Spell Speed (2.48 or 2.46 GCD) or high Spell Speed (2.20 or 2.25 GCD). The low Spell Speed/high Critical Hit build tends to be better for most situations, as the spell speed build’s effectiveness is more subject to encounter timelines. However, you can choose to run the spell speed build blindly and perform adequately regardless. Taking more sps scales down the cooldown for Summon Bahamut and Summon Phoenix. With enough time, you will be able to gain a usage of either.
 
 Note that a 2.48 GCD (474 Spell Speed or higher) is the slowest we can use to ensure we get six Astral Impulse/Fountain of Fire casts during demi-summon phases. Do not attempt to run 2.49 or 2.50 GCD, as that will result in a significant DPS loss.
 
