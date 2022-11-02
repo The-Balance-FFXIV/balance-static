@@ -4,17 +4,15 @@ authors:
   - Balance-MCH-Staff
   - dook
   - hint
-patch: "6.2"
-lastmod: 2022-06-13T18:40:44.348Z
+patch: "6.28"
+lastmod: 2022-11-02T15:46:41.832Z
 changelog:
   - date: 2021-10-25T22:02:55.843Z
     message: Created page
   - date: 2022-01-01T05:10:23.615Z
     message: Updated for EW
-  - date: 2022-04-11T23:35:07.990Z
-    message: Potencies updated for 6.1
-  - date: 2022-06-13T18:42:15.909Z
-    message: Minor adjustments + potencies updated for 6.11
+  - date: 2022-11-02T15:46:55.163Z
+    message: Potency adjusted for Patch 6.28
 tags:
   - MCH
   - Machinist
