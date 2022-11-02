@@ -16,6 +16,12 @@ changes:
 
 
       View the latest changes for 6.1 at the Official Site, located [here](https://na.finalfantasyxiv.com/jobguide/bard/)!
+  - patch: "6.28"
+    description: >-
+      - Empyreal Arrow potency increased from 200 to 230
+
+
+      View the latest changes for 6.28 at the Official Site, located [here](https://na.finalfantasyxiv.com/jobguide/bard/)!
 authors:
   - Balance-BRD-Staff
 ---
