@@ -56,7 +56,7 @@ Your spammable area-of-effect (AoE) cooldown. With 170 potency per target, compa
 
 ![Phlegma III](https://xivapi.com/i/003000/003681_hr1.png)
 
-Phlegma is unique as it is the only healer offensive GCD that operates on a charge system while still being a DPS gain. It deals 510 damage to the main target and 255 on other targets within a five-yalm radius of the primary target. The range is only six yards, so you will need to be somewhat close to the target. It is your most powerful single-target *and* AoE ability.
+Phlegma is unique as it is the only healer offensive GCD that operates on a charge system while still being a DPS gain. It deals 600 damage to the main target and 255 on other targets within a five-yalm radius of the primary target. The range is only six yards, so you will need to be somewhat close to the target. It is your most powerful single-target *and* AoE ability.
 
 Due to having two charges, it does not have a strict alignment need like you would get out of other GCDs with a cooldown.
 The general priority for when to use Phlegma charges is:
