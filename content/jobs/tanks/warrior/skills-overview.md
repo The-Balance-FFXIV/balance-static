@@ -5,10 +5,12 @@ authors:
   - Mox-Xinmagar
   - dook
 patch: "6.2"
-lastmod: 2022-08-26T20:19:44.490Z
+lastmod: 2022-11-03T02:48:33.333Z
 changelog:
   - date: 2022-08-25T16:07:53.875Z
     message: Patch 6.2 changes
+  - date: 2022-11-03T02:48:38.571Z
+    message: 6.28 Adjustments
 ---
 # Warrior Skills Overview
 
