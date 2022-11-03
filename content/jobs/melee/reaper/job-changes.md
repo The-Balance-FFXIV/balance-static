@@ -1,7 +1,7 @@
 ---
 title: Reaper Job Changes
 layout: changes
-lastmod: 2022-08-26T17:00:07.538Z
+lastmod: 2022-11-03T02:46:33.944Z
 changes:
   - patch: "6.0"
     description: Job added to game.
@@ -41,7 +41,7 @@ changes:
       Lemure's Slice went from 200 potency to 220 potency
 
 
-      This is about 2.3% increase and ultimately makes the job more competitive with other melee. All of this damage is in their burst window which also impacts how well a RPR performs in raid buffs.
+      This is about 2.3% increase and ultimately makes the job more competitive with other melee. All of this damage is in the burst window which also impacts how well a RPR performs in raid buffs.
 authors:
   - Laille-Ormesaing
   - Balance-RPR-Staff
