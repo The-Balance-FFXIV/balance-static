@@ -30,7 +30,7 @@ changes:
 
 
       This change doesn't impact anything rotationally for Reaper is about a 1.5% increase in overall damage
-  - patch: "6.3"
+  - patch: "6.28"
     description: >-
       Plentiful Harvest went from 520-800 Potency up to 720-1000 potency.
 
