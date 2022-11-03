@@ -3,7 +3,7 @@ title: Reaper Skill Overview
 authors:
   - dook
 patch: "6.21"
-lastmod: 2022-08-26T19:31:35.017Z
+lastmod: 2022-11-03T02:49:13.686Z
 changelog:
   - date: 2022-01-04T20:37:59.400Z
     message: Updated Crest of Time Returned potency from 100 to 50.
@@ -11,6 +11,8 @@ changelog:
     message: Updated for 6.2 potency changes.
   - date: 2022-09-13T13:46:17.594Z
     message: Updated patch number
+  - date: 2022-11-03T02:49:15.475Z
+    message: 6.28 potency changes
 ---
 ## Single-Target Actions
 
