@@ -1,7 +1,7 @@
 ---
 title: Bard Changes
 layout: changes
-lastmod: 2022-07-17T06:01:37.793Z
+lastmod: 2022-11-03T02:47:02.826Z
 changes:
   - patch: "6.0"
     description: "[Click here to view new changes on the Official
@@ -16,6 +16,12 @@ changes:
 
 
       View the latest changes for 6.1 at the Official Site, located [here](https://na.finalfantasyxiv.com/jobguide/bard/)!
+  - patch: "6.28"
+    description: >-
+      - Empyreal Arrow potency increased from 200 to 230
+
+
+      View the latest changes for 6.28 at the Official Site, located [here](https://na.finalfantasyxiv.com/jobguide/bard/)!
 authors:
   - Balance-BRD-Staff
 ---
