@@ -1,7 +1,7 @@
 ---
 title: Warrior Changes
 layout: changes
-lastmod: 2022-08-25T16:27:14.787Z
+lastmod: 2022-11-02T17:33:48.934Z
 changes:
   - patch: "5.58"
     description: "[Placeholder for Endwalker]"
@@ -33,6 +33,8 @@ changes:
       Party buffs affecting Crit rate% and DHit rate% now affect 100% DCritting skills.  
 
       Maim and Storm's Eye/Storm's Path potency increased by 20 and 10/10 respectively.
+  - patch: 6.21, 6.28
+    description: Potency increases to Combo actions, Fell Cleave, Upheaval.
 authors:
   - Balance-WAR-Staff
 ---
