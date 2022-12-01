@@ -19,7 +19,7 @@ bis:
           * Perfect for those with no interest in optimizing or a fear of PF.
           * Gives a good Chain alignment, but a poor Bio alignment
           * 2.40 GCD
-    name: 2.40 Mind-Pie Set
+    name: 2.40 Mid-Pie Set
     link: https://etro.gg/gearset/03f4b5a3-e9ab-434b-8cc2-b358546fcb60
   - type: etro
     description: >-
