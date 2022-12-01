@@ -3,11 +3,13 @@ title: Dragonsong's Reprise (Ultimate)
 card_header_image: /img/jobs/rpr/front-picture.png
 authors:
   - sekki
-patch: "6.1"
-lastmod: 2022-08-04T01:19:10.386Z
+patch: "6.2"
+lastmod: 2022-12-01T04:36:01.371Z
 changelog:
   - date: 2022-08-05T15:12:19.623Z
     message: Article Created.
+  - date: 2022-12-01T04:36:02.282Z
+    message: "Updated. "
 ---
 # Reaper Guide for Dragonsong’s Reprise (Ultimate)
 
@@ -67,13 +69,13 @@ Here are some examples for when to use Feint or Arcane Crest. Feint can only be 
 * Feint either the first **Holiest of Holy** or the second one, prior to enrage. If you have a second melee, **Hyperdimensional** **Slash** is also a candidate for Feint.
 * Use Arcane Crest for **Heavensblaze** in the Opener and again for the **Hyperdimensional Slash** stack. You can use another Arcane Crest for the **Heavensflame** after the knockback from **Faith Unmoving**. Last but not least, you can use Arcane Crest for the **Brightwing** protean waves from Ser Charibert.
 
-# Phase Two: King thordan
+# Phase Two: King Thordan
 
 This is the Phase with the most downtime. Reaper suffers the most in this Phase due to us not being able to build our gauges during downtime scenarios. I recommend to hold at the end of this Phase for a somewhat slower kill time if your group is killing him too early as this gives most classes a better Re-Opener for the next Phase. A kill time somewhere between 3:08-3:13 is good enough for this which is during/after **Broad Swing 2.**
 
 ### Foreword about push timings and Gluttony:
 
-With faster kill times on the earlier phases, Gluttony can become somewhat of a pain to hold on cooldown. If you used Gluttony somewhere and the Boss dies, keep the Soul Reavers until the next boss becomes targetable. Building your gauge is more important than a Harvest Moon in that scenario. If you are on later Phases already and the boss in a Phase dies while you have one Soul Reaver from Gluttony, try to enter **Sanctity of the Ward** with >50 Soul gauge and use Shadow of Death into Gluttony directly after **Sanctity of the Ward**. This can be done by just doing one Gibbet/Gallows less between **Strength of the Ward** and **Sanctity of the Ward** to hold on the >50 Soul gauge.
+With faster kill times on the earlier phases, Gluttony can become somewhat of a pain to hold on cooldown. If you used Gluttony somewhere and the Boss dies, keep the Soul Reavers until the next boss becomes targetable. Building your gauge is more important than a Harvest Moon in that scenario. If you are on later Phases already and the boss in a Phase dies while you have one Soul Reaver from Gluttony, try to enter **Sanctity of the Ward** with > 50 Soul gauge and use Shadow of Death into Gluttony directly after **Sanctity of the Ward**. This can be done by just doing one Gibbet/Gallows less between **Strength of the Ward** and **Sanctity of the Ward** to hold on the >50 Soul gauge.
 
 ### When to use which Re-Opener after **Sanctity of the Ward**
 
@@ -111,7 +113,7 @@ With faster kill times on the earlier phases, Gluttony can become somewhat of a 
 
 **Why do we not use Harpe Pre-pull for Thordan?**
 
-* Using Harpe Pre-pull will delay our first GCD by a very small amount. This generally is no problem and always a gain. However, the last GCD in our Opener is very tight and using Harpe pre-pull will most likely result in you ghosting your very last GCD. It was very inconsistent for me but you can try it out by yourself to see if you can use Harpe pre-pull without ghosting your last GCD consistently.
+* Using Harpe pre-pull will delay our first GCD by a very small amount. This generally is no problem and always a gain. However, the last GCD in our Opener is very tight and using Harpe pre-pull will most likely result in you ghosting your very last GCD. It was very inconsistent for me but you can try it out by yourself to see if you can use Harpe pre-pull without ghosting your last GCD consistently.
 
 ### Re-Opener after Strength of the Ward
 
@@ -227,7 +229,7 @@ With faster kill times on the earlier phases, Gluttony can become somewhat of a 
 ### Rotational tips and more:
 
 * Having a slower kill time in this Phase is almost fundamental to hit Gluttony in later Phases on cooldown. I would suggest killing him everytime after he said the Phrase "This is the power of light?" (start of enrage cast).
-* Moments to cast Soulsow for **Strength of the Ward** are when you go to your safe spot and wait for the expanding AoE's. There is a lot of time to cast Soulsow safely. For **Sanctity of the Ward,** cast it directly after Thordan becomes untargetable.
+* Moments to cast Soulsow for **Strength of the Ward** are when you go to your safe spot and wait for the expanding AoEs. There is a lot of time to cast Soulsow safely. For **Sanctity of the Ward,** cast it directly after Thordan becomes untargetable.
 
 ### Feint and Arcane Crest examples:
 
@@ -317,7 +319,7 @@ This is again a Phase with two targets. This Phase is pretty simple rotation wis
 
 * If you entered the Phase with an ongoing combo, continue it after Shadow of Death or it will probably expire.
 * Use Gluttony on cooldown. If you have a slower kill time, around 97-99 of the duty bar, you can use Gluttony twice in this Phase. If you end the Phase with Soul Reaver, save it for the Intermission and don't cast Soulsow.
-* If you have problems hitting the second Gluttony in this Phase due to the eyes dying too fast, try to enter the Phase with >50 Soul gauge and instantly use Gluttony while still in the group stack and then do g/g. These will be unbuffed by Shadow of Death but it will still be a gain over losing the Gluttony.
+* If you have problems hitting the second Gluttony in this Phase due to the eyes dying too fast, try to enter the Phase with > 50 Soul gauge and instantly use Gluttony while still in the group stack and then do g/g. These will be unbuffed by Shadow of Death but it will still be a gain over losing the Gluttony.
 * The Re-Opener is more comfier with no Soul Slice charges but it is not a problem if you enter with one. Best case, you use it before Nidhogg dies and you enter with >50 Soul for Gluttony at the start.
 * You can use one Enshroud anytime in this Phase. Save the second one you get for the Intermission. 
 * You can use Harvest Moon for when you have to go out of melee range to swap your tether out at the beginning.
@@ -351,7 +353,7 @@ The Intermission works pretty much the same as in Phase One. You just have to bu
 * Cross Reaping > Lemure's Slice
 * Communio
 * Continue combo (if combo neutral skip this)
-* Soul Slice (if >50 Soul skip this) > Gluttony
+* Soul Slice (if > 50 Soul skip this) > Gluttony
 * Gibbet
 * Gallows
 * Soul Slice > Unveiled Gibbet
@@ -439,7 +441,7 @@ As your kill times on the earlier phases decide how you enter this Phase, I will
 
 # Phase Six: The Great Wyrms:
 
-For this Phase we will fight both again, Nidhogg and Hraesvelgr. This is a 100% uptime, two target fight, and both dragons are omnidirectional. Plentiful Harvest will be the only Skill with which you can hit both targets at once. Changing the target in this fight might be a bit unfortunate for Reaper as you will have to apply your Death's Design on the target first. Beforehand: Whorl of Death will **NOT** be a gain on this Phase. Use Shadow of Death to apply Death's Design. Enter this Phase with >50 Shroud gauge and, if you can, combo neutral and with no Soul Slice charges.
+For this Phase we will fight both again, Nidhogg and Hraesvelgr. This is a 100% uptime, two target fight, and both dragons are omnidirectional. Plentiful Harvest will be the only Skill with which you can hit both targets at once. Changing the target in this fight might be a bit unfortunate for Reaper as you will have to apply your Death's Design on the target first. Beforehand: Whorl of Death will **NOT** be a gain on this Phase. Use Shadow of Death to apply Death's Design. Enter this Phase with > 50 Shroud gauge and, if you can, combo neutral and with no Soul Slice charges.
 
 ### Re-Opener:
 
@@ -460,7 +462,7 @@ For this Phase we will fight both again, Nidhogg and Hraesvelgr. This is a 100% 
 * Void Reaping
 * Cross Reaping > Lemure's Slice
 * Communio
-* Soul Slice (if >50 Soul skip this) > Gluttony
+* Soul Slice (if > 50 Soul skip this) > Gluttony
 * Gibbet
 * Gallows
 
@@ -494,7 +496,7 @@ The final Phase in this whole encounter. This is a 100% uptime Phase where you m
 ### Re-Opener:
 
 * Shadow of Death 
-* Soul Slice (Skip this if >50 Soul gauge) > Unveiled Gibbet
+* Soul Slice (Skip this if > 50 Soul gauge) > Unveiled Gibbet
 * Gibbet (skip this if you would overcap on shroud gauge) > Enshroud
 * Void Reaping
 * Cross Reaping > Lemure's Slice
@@ -515,7 +517,7 @@ The final Phase in this whole encounter. This is a 100% uptime Phase where you m
 
 ### Two Minute burst:
 
-Most groups probably want to delay their raid buffs to after the first **Gigaflare's Edge's** first hit goes off so it will better realign with 60 second cooldowns. It does not matter where you used Gluttony in the opener. I would advise to push it back to after your 2nd Communio in the double Enshroud window. Use Shadow of Death again before Gigaflare so you enter it with >30 seconds on Death's Design. Enshroud when your Death's Design hits 33 seconds and go for a Harvest Moon Double Enshroud variant. If you already used Harvest Moon before then go for a standard double Enshroud window.
+Most groups probably want to delay their raid buffs to after the first **Gigaflare's Edge's** first hit goes off so it will better realign with 60 second cooldowns. It does not matter where you used Gluttony in the opener. I would advise to push it back to after your 2nd Communio in the double Enshroud window. Use Shadow of Death again before Gigaflare so you enter it with > 30 seconds on Death's Design. Enshroud when your Death's Design hits 33 seconds and go for a Harvest Moon Double Enshroud variant. If you already used Harvest Moon before then go for a standard double Enshroud window.
 
 ### Harvest Moon Double Enshroud:
 
