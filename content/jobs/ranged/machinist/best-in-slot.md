@@ -47,37 +47,42 @@ bis:
     link: https://etro.gg/gearset/65d29ebb-439b-4206-ba52-690c7470eb5b
   - type: etro
     description: >-
-      This set, using the Shadowbringers relic weapon, provides a 3.54% gain
-      over the 605 Savage weapon. It's up to you to make the distinction on
-      whether or not this is worth the effort. The relic weapon is not required
-      to clear.
+      We've decided to not include full gear sets for the older ultimates
+      anymore, as your gear choices make very little difference in how much
+      damange you do due to how gear syncs and removes melds. The item levels
+      listed below will outline what item level is required to max out both
+      substats on gear for each fight. All gear above the specified item level
+      will work:
 
 
-      Due to iLvl syncing, you can achieve the same result with different pieces using the same stat distribution as long as they are above iLvl 470 for UCoB.
-    name: UCoB Synced Best-in-Slot
-    link: 1f5046a0-4984-42a5-b343-c5b6061a7630
-  - type: etro
-    description: >-
-      This set, using the Shadowbringers relic weapon, provides a 3.46% gain
-      over the 605 Savage weapon. It's up to you to make the distinction on
-      whether or not this is worth the effort. The relic weapon is not required
-      to clear.
 
 
-      Due to iLvl syncing, you can achieve the same result with different pieces using the same stat distribution as long as they are above iLvl 500 for UWU.
-    name: UWU Synced Best-in-Slot
-    link: 0510b8b9-93bd-4c5b-a451-7d0f99d2ea9d
-  - type: etro
-    description: >-
-      This set, using the Shadowbringers relic weapon, provides a 1.11% gain
-      over the 605 Savage weapon. It's up to you to make the distinction on
-      whether or not this is worth the effort. The relic weapon is not required
-      to clear.
+      * The Unending Coil of Bahamut: Item level 470
+
+      * The Weapon's Refrain: Item level 500
+
+      * The Epic of Alexander: Item level 595
 
 
-      Due to iLvl syncing, you can achieve the same result with different pieces using the same stat distribution as long as they are above iLvl 595 for TEA.
-    name: TEA Synced Best-in-Slot
-    link: 73df674c-ac05-4001-833d-ca52896fd1d5
+
+
+      With that being said, the biggest difference that can be made to your gear set is be equipping a Shadowbringers Relic weapon. Due to the nature of how substats are allocated on these weapons, it enables you to utilize more substats than what's intended on a normal weapon. The Relic weapon can provide anywhere from a 3.5% increase (UCoB and UWU) to a 1% increase (TEA) depending on which fight you're using it in. Stat allocation for each fight is listed below:
+
+
+
+
+      * The Unending Coil of Bahamut: 127 Critical Hit / 127 Determination / 123 Direct Hit / 90 Skill Speed
+
+      * The Weapon's Refrain: 136 Critical Hit / 136 Determination / 133 Direct Hit / 63 Skill Speed
+
+      * The Epic of Alexander: 184 Critical Hit / 184 Determination / 99 Direct Hit
+
+
+
+
+      Keep in mind, the Relic weapon is **NOT** mandatory to clear these fights. It only provides a buffer for mistakes. It's up to the player to make the distinction if the grind is worth it.
+    name: Older Ultimate BiS
+    link: https://etro.gg/
 authors:
   - dook
   - Laille-Ormesaing
