@@ -42,19 +42,13 @@ bis:
     name: Dragonsong's Reprise Best-in-Slot (No Ultimate Weapon)
     link: 48d39c9d-eb8b-4274-8529-3455a8853a83
   - type: etro
-    description: ""
-    name: Dragonsong's Reprise Best-in-Slot (Ultimate Weapon)
-    link: https://etro.gg/gearset/65d29ebb-439b-4206-ba52-690c7470eb5b
-  - type: etro
     description: >-
-      We've decided to not include full gear sets for the older ultimates
-      anymore, as your gear choices make very little difference in how much
-      damange you do due to how gear syncs and removes melds. The item levels
-      listed below will outline what item level is required to max out both
-      substats on gear for each fight. All gear above the specified item level
-      will work:
+      # Older Ultimate Best-in-Slot
 
 
+
+
+      We've decided to not include full gear sets for the older ultimates anymore, as your gear choices make very little difference in how much damange you do due to how gear syncs and removes melds. The item levels listed below will outline what item level is required to max out both substats on gear for each fight. All gear above the specified item level will work:
 
 
       * The Unending Coil of Bahamut: Item level 470
@@ -64,11 +58,7 @@ bis:
       * The Epic of Alexander: Item level 595
 
 
-
-
       With that being said, the biggest difference that can be made to your gear set is be equipping a Shadowbringers Relic weapon. Due to the nature of how substats are allocated on these weapons, it enables you to utilize more substats than what's intended on a normal weapon. The Relic weapon can provide anywhere from a 3.5% increase (UCoB and UWU) to a 1% increase (TEA) depending on which fight you're using it in. Stat allocation for each fight is listed below:
-
-
 
 
       * The Unending Coil of Bahamut: 127 Critical Hit / 127 Determination / 123 Direct Hit / 90 Skill Speed
@@ -78,11 +68,9 @@ bis:
       * The Epic of Alexander: 184 Critical Hit / 184 Determination / 99 Direct Hit
 
 
-
-
       Keep in mind, the Relic weapon is **NOT** mandatory to clear these fights. It only provides a buffer for mistakes. It's up to the player to make the distinction if the grind is worth it.
-    name: Older Ultimate BiS
-    link: https://etro.gg/
+    name: Dragonsong's Reprise Best-in-Slot (Ultimate Weapon)
+    link: https://etro.gg/gearset/65d29ebb-439b-4206-ba52-690c7470eb5b
 authors:
   - dook
   - Laille-Ormesaing
