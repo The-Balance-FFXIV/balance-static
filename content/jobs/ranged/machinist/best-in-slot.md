@@ -46,8 +46,6 @@ bis:
       # Older Ultimate Best-in-Slot
 
 
-
-
       We've decided to not include full gear sets for the older ultimates anymore, as your gear choices make very little difference in how much damange you do due to how gear syncs and removes melds. The item levels listed below will outline what item level is required to max out both substats on gear for each fight. All gear above the specified item level will work:
 
 
@@ -58,7 +56,7 @@ bis:
       * The Epic of Alexander: Item level 595
 
 
-      With that being said, the biggest difference that can be made to your gear set is be equipping a Shadowbringers Relic weapon. Due to the nature of how substats are allocated on these weapons, it enables you to utilize more substats than what's intended on a normal weapon. The Relic weapon can provide anywhere from a 3.5% increase (UCoB and UWU) to a 1% increase (TEA) depending on which fight you're using it in. Stat allocation for each fight is listed below:
+      With that being said, the biggest difference that can be made to your gear set will be equipping a Shadowbringers Relic weapon. Due to the nature of how substats are allocated on these weapons, it enables you to utilize more substats than what's intended on a normal weapon. The Relic weapon can provide anywhere from a 3.5% increase (UCoB and UWU) to a 1% increase (TEA) depending on which fight you're using it in. Stat allocation for each fight is listed below:
 
 
       * The Unending Coil of Bahamut: 127 Critical Hit / 127 Determination / 123 Direct Hit / 90 Skill Speed
