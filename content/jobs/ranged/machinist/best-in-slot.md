@@ -46,7 +46,7 @@ bis:
       # Older Ultimate Best-in-Slot
 
 
-      We've decided to not include full gear sets for the older ultimates anymore, as your gear choices make very little difference in how much damange you do due to how gear syncs and removes melds. The item levels listed below will outline what item level is required to max out both substats on gear for each fight. All gear above the specified item level will work:
+      We've decided to not include full gear sets for the older ultimates anymore, as your gear choices make very little difference in how much damagge you do due to how gear syncs and removes melds. The item levels listed below will outline what item level is required to max out both substats on gear for each fight. All gear above the specified item level will work:
 
 
       * The Unending Coil of Bahamut: Item level 470
