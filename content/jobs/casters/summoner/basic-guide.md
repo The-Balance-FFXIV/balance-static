@@ -243,6 +243,12 @@ Note that a 2.48 GCD (474 Spell Speed or higher) is the slowest we can use to en
 
 When choosing between builds, one key consideration is whether you intend to play other caster jobs. Red Mage is more compatible with little to no spell speed, while Black Mage is more compatible with high spell speed values. This makes Summoner arguably the best choice for being a “second caster” due to this gearing flexibility.
 
+Spellspeed lowers the cooldown of both Summon Bahamut and Summon Phoenix in order to gain more usages. Use Bahamut and Phoenix when they are available to capitalize on spellspeed. Delaying summoms to align with buffs results in lower damage in most circumstances.
+
+One issue players may experience from the cooldown reduction is a disjointed rotation because spellspeed does not affect ability cooldowns like Energy Drain and Searing Light, which remain at 60 and 120 seconds.
+
+Keep these two abilities aligned with your party’s buff windows. Use energy drain when it is available and delay festers from odd minutes so that you can use four festers in even minute buff windows. Keep searing light with your party’s buff windows.
+
 # Utility and Party Support
 
 FFXIV raid encounters are designed in such a way that DPS are sometimes required to assist the party with defensive utility from role skills or unique individual abilities. This is one area where Summoner truly excels, with an often-underrated arsenal of defensive abilities that can save the party during progression or help healers with optimization.
