@@ -119,7 +119,7 @@ With faster kill times on the earlier phases, Gluttony can become somewhat of a 
 
 ### Re-Opener after Strength of the Ward
 
-![Imgur](https://i.imgur.com/8ZcxH7z.png)
+![Imgur](https://i.imgur.com/YvCFkdJ.png)
 
 * Soul Slice > Unveiled Gibbet
 * Gibbet
@@ -151,7 +151,7 @@ With faster kill times on the earlier phases, Gluttony can become somewhat of a 
 
 ### Re-Opener after Sanctity of the Ward: bursting
 
-![Imgur](https://i.imgur.com/hyBdbyU.png)
+![Imgur](https://i.imgur.com/rGtf2BR.png)
 
 * Shadow of Death
 * Soul Slice > Gluttony
@@ -197,7 +197,7 @@ With faster kill times on the earlier phases, Gluttony can become somewhat of a 
 
 ### Re-Opener after Sanctity of the Ward: Deadzoning
 
-![Imgur](https://i.imgur.com/pfdJIyV.png)
+![Imgur](https://i.imgur.com/OIT53Bl.png)
 
 * Shadow of Death
 * Soul Slice > Gluttony
