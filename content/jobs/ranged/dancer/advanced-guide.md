@@ -14,6 +14,12 @@ changelog:
     message: Updated for Endwalker
   - date: 2022-09-26T03:18:35.564Z
     message: Updated for 6.21
+tags:
+  - Dancer
+  - DNC
+  - FFXIV
+  - Guide
+  - Advanced
 ---
 by Io Whitespirit (Faerie)
 
@@ -168,7 +174,7 @@ This double weave is recommended for players with higher ping, but is obviously 
 
 ## Partner Priority and Partner Swapping
 
-A partner priority list will not be discussed in this guide as balance patches and updates will often change the ranking order. Please visit the Balance for the most up-to-date priority list, or use Partnercalc when released. Top choices at time of writing are SAM, RPR, and MNK.
+A partner priority list will not be discussed in this guide as balance patches and updates will often change the ranking order. Please visit the Balance for the most up-to-date priority list, or use [partnercalc](https://partnercalc.app/) to find the best partner for your specific logs. Top choices at time of writing are SAM, RPR, and MNK.
 
 For higher end optimization, partner swapping refers to switching your dance partner mid-fight. The most common reason for this is a death of the currently partnered player, but for more optimized groups this may also be to catch a DPS player’s burst.
 
@@ -209,7 +215,7 @@ This will target the sixth player on your party list. The repeated entries are d
 
 ## Partnercalc
 
-Made by Hint, one of the mentors and head admins of the Balance -- can quantify player damage under a given Standard Step window. This tool is likely your best bet for objective data. A link is provided below.
+Made by Hint, one of the mentors and head admins of the Balance -- can quantify player damage under a given Standard Step window. This tool is likely your best bet for objective data. You can find partnercalc [here](https://partnercalc.app/).
 
 As for the potential of performing Tillana swaps after a Technical window is done, it is possible, but not enough data exists to justify it at this point in time as avoiding its use during your Technical Window will lose you a GCD under your own buffs.
 
@@ -264,6 +270,6 @@ For a more in depth look on the class, including details that were omitted in th
 
 A helpful site in which players can upload logs and have their gameplay analyzed in order to make adjustments and improvements.
 
-4. [Partnercalc](https://partnercalc.herokuapp.com/) 
+4. [Partnercalc](https://partnercalc.app/) 
 
 A site by Hint which analyzes each Standard Step window in a given log and determines which players were best to partner. Damage breakdowns are included.
