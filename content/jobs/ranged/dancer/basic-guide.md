@@ -90,7 +90,7 @@ Dance partner does stack, so if you’re ever in a situation where you have two 
 
 (Esprit generation is only a minor consideration as this is largely standardized between different jobs.)
 
-There is also a Dance Partner calculator which you can use to determine exactly who the best value Dance Partner is. It can be found [here](http://partnercalc.herokuapp.com).
+There is also a Dance Partner calculator which you can use to determine exactly who the best value Dance Partner is. It can be found [here](https://partnercalc.app/).
 
 # Dancer Rotation
 
