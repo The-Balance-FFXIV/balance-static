@@ -23,7 +23,7 @@ qna:
       There is still not a large enough sample size of good logs to fully determine the exact differences between some of the jobs. More updates may come with Week 8+ of savage when more BiS logs are expected to be available.
 
 
-      For more accurate results for your group and needs, plug in logs into Hint's Partner Calculator: [http://partnercalc.herokuapp.com](http://partnercalc.herokuapp.com/ "http\://partnercalc.herokuapp.com/")
+      For more accurate results for your group and needs, plug your logs into [partnercalc](https://partnercalc.app/).
   - question: How should I approach gearing up the class?
     answer: You can review Ringabel's guide on how to best approach gearing DNC in
       6.2 by clicking
@@ -67,6 +67,12 @@ qna:
 authors:
   - Balance-DNC-Staff
   - Ringabel-Dim
+tags:
+  - Dancer
+  - FAQ
+  - Guide
+  - FFXIV
+  - DNC
 ---
 # DANCE PARTNER PRIORITY
 
