@@ -237,11 +237,17 @@ There are also middle ground situations where you can “rush” through your pr
 
 # Critical Hit vs Spell Speed Summoner Builds
 
-As mentioned, Summoner can either run low Spell Speed (2.48 or 2.46 GCD) or high Spell Speed (2.20 or 2.25 GCD). The low Spell Speed/high Critical Hit build tends to be better for most situations, as the spell speed build’s effectiveness is more subject to encounter timelines. However, you can choose to run the spell speed build blindly and perform adequately regardless.
+As mentioned, Summoner can either run low Spell Speed (2.48 or 2.46 GCD) or high Spell Speed (2.20 or 2.25 GCD). The low Spell Speed/high Critical Hit build tends to be better for most situations, as the spell speed build’s effectiveness is more subject to encounter timelines. However, you can choose to run the spell speed build blindly and perform adequately regardless. Taking more sps scales down the cooldown for Summon Bahamut and Summon Phoenix. With enough time, you will be able to gain a usage of either.
 
 Note that a 2.48 GCD (474 Spell Speed or higher) is the slowest we can use to ensure we get six Astral Impulse/Fountain of Fire casts during demi-summon phases. Do not attempt to run 2.49 or 2.50 GCD, as that will result in a significant DPS loss.
 
 When choosing between builds, one key consideration is whether you intend to play other caster jobs. Red Mage is more compatible with little to no spell speed, while Black Mage is more compatible with high spell speed values. This makes Summoner arguably the best choice for being a “second caster” due to this gearing flexibility.
+
+Spellspeed lowers the cooldown of both Summon Bahamut and Summon Phoenix in order to gain more usages. Use Bahamut and Phoenix when they are available to capitalize on spellspeed. Delaying summoms to align with buffs results in lower damage in most circumstances.
+
+One issue players may experience from the cooldown reduction is a disjointed rotation because spellspeed does not affect ability cooldowns like Energy Drain and Searing Light, which remain at 60 and 120 seconds.
+
+Keep these two abilities aligned with your party’s buff windows. Use energy drain when it is available and delay festers from odd minutes so that you can use four festers in even minute buff windows. Keep searing light with your party’s buff windows.
 
 # Utility and Party Support
 
