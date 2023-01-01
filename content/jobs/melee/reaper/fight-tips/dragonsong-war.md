@@ -10,6 +10,8 @@ changelog:
     message: Article Created.
   - date: 2022-12-01T04:36:02.282Z
     message: "Updated. "
+  - date: 2022-12-19T17:59:59.107Z
+    message: Refreshed every image on the guide.
 ---
 # Reaper Guide for Dragonsong’s Reprise (Ultimate)
 
@@ -17,7 +19,7 @@ changelog:
 
 Dragonsong’s Reprise (Ultimate) is the first Ultimate released in Final Fantasy XIV: Endwalker. This entire encounter is about 22 minutes long and split into seven Phases and one Intermission: The Vault Knights, King Thordan, Nidhogg, The Eyes, Rewind Intermission, King Thordan II, The Great Wyrms, and The Dragon King. This guide will go over the rotational structure for Reaper in this encounter and provide tips for different push-timings, Arcane Circle and pot examples, Re-Opener and give some general ideas for how to execute your burst. This guide assumes that you have a basic understanding of the class and its fundamentals. I would advise activating the following feature in your settings so you have an easier time hitting your first GCD on a boss after there was downtime.
 
-[![2022-07-13-12-07-56](https://i.im.ge/2022/08/04/F3Uoex.2022-07-13-12-07-56.png)]
+![Imgur](https://i.imgur.com/hvAMmOA.png)
 
 ### Best in Slot (2.49)
 
@@ -31,7 +33,7 @@ The first Phase starts with a two target fight. We have some AoE skills in our b
 
 ### Recommended Opener: Modified Early Shroud Opener
 
-[![Phase 1](https://i.im.ge/2022/08/04/F35UUq.Phase-1.png)](https://im.ge/i/F35UUq)
+![Imgur](https://i.imgur.com/2Lf5Mjm.png)
 
 * Pre-pull Soulsow
 * Pre-pull Harpe @2s (On Ser Adelphel)
@@ -85,7 +87,7 @@ With faster kill times on the earlier phases, Gluttony can become somewhat of a 
 
 ### Recommended Opener: Early Shroud Opener
 
-[![Phase 2 Opener](https://i.im.ge/2022/08/04/F39cCP.Phase-2-Opener.png)](https://im.ge/i/F39cCP)
+![Imgur](https://i.imgur.com/gw41ipG.png)
 
 * Shadow of Death > Arcane Circle
 * Soul Slice
@@ -117,7 +119,7 @@ With faster kill times on the earlier phases, Gluttony can become somewhat of a 
 
 ### Re-Opener after Strength of the Ward
 
-[![After Strength](https://i.im.ge/2022/08/06/FceyYK.After-Strength.png)](https://im.ge/i/FceyYK)
+![Imgur](https://i.imgur.com/YvCFkdJ.png)
 
 * Soul Slice > Unveiled Gibbet
 * Gibbet
@@ -149,7 +151,7 @@ With faster kill times on the earlier phases, Gluttony can become somewhat of a 
 
 ### Re-Opener after Sanctity of the Ward: bursting
 
-[![After Sanctity (burst)](https://i.im.ge/2022/08/04/F39B6J.After-Sanctity-burst.png)](https://im.ge/i/F39B6J)
+![Imgur](https://i.imgur.com/rGtf2BR.png)
 
 * Shadow of Death
 * Soul Slice > Gluttony
@@ -195,7 +197,7 @@ With faster kill times on the earlier phases, Gluttony can become somewhat of a 
 
 ### Re-Opener after Sanctity of the Ward: Deadzoning
 
-[![After Sanctity (hold)](https://i.im.ge/2022/08/04/F3w6pG.After-Sanctity-hold.png)](https://im.ge/i/F3w6pG)
+![Imgur](https://i.imgur.com/OIT53Bl.png)
 
 * Shadow of Death
 * Soul Slice > Gluttony
@@ -242,7 +244,7 @@ This Phase is a standard 100% melee uptime fight so there is nothing special abo
 
 ### 100/100 Re-Opener: with combo
 
-[![Phase 3 (combo)](https://i.im.ge/2022/08/04/F3wCly.Phase-3-combo.png)](https://im.ge/i/F3wCly)
+![Imgur](https://i.imgur.com/NEbckzF.png)
 
 * Soulsow before Nidhogg becomes targetable
 * Shadow of Death 
@@ -277,7 +279,7 @@ Before I go into this, depending on the kill time for Thordan, when your group u
 
 ### Burst with Single Shadow of Death double Shroud variant:
 
-[![Phase 3 burst](https://i.im.ge/2022/08/04/F3wxcz.Phase-3-burst.png)](https://im.ge/i/F3wxcz)
+![Imgur](https://i.imgur.com/t8BKtU5.png)
 
 * Start with Death's Design <30s
 * Any GCD > Gluttony (best case is Infernal Slice)
@@ -335,7 +337,7 @@ The Intermission works pretty much the same as in Phase One. You just have to bu
 
 ### Re-Opener: double Shroud
 
-[![Intermission](https://i.im.ge/2022/08/04/F3w3e6.Intermission.png)](https://im.ge/i/F3w3e6)
+![Imgur](https://i.imgur.com/gz2EXdq.png)
 
 * Cast Soulsow
 * Enshroud before Ser Charibert becomes targetable, if you are combo neutral and with zero Soul Slice charges
@@ -397,7 +399,7 @@ As your kill times on the earlier phases decide how you enter this Phase, I will
 
 ### Re-Opener: after Wrath of the Heavens
 
-[![Phase 5 after Wrath](https://i.im.ge/2022/08/04/F360f8.Phase-5-after-Wrath.png)](https://im.ge/i/F360f8)
+![Imgur](https://i.imgur.com/5cLEjy2.png)
 
 * Enshroud before Thordan is targetable (If you entered **Wrath of the Heavens** with zero Soul Slice charges)
 * Void Reaping
@@ -432,7 +434,7 @@ As your kill times on the earlier phases decide how you enter this Phase, I will
 * I would suggest to save 50 Shroud gauge so you can use one Enshroud on the Meteors, especially if you are still progging the fight. Otherwise you can safe it if your group has no problem there.
 * You can hit three Meteors at once with Grim Reaping and Lemure's Scythe if you stand on the outer tiles of the inner Ring. A Picture for reference:
 
-[![2022-06-28-14-01-00](https://i.im.ge/2022/08/04/F36m8Y.2022-06-28-14-01-00.png)](https://im.ge/i/F36m8Y)
+![Imgur](https://i.imgur.com/m6Y9o2J.png)
 
 ### Feint and Arcane Crest examples:
 
@@ -445,7 +447,7 @@ For this Phase we will fight both again, Nidhogg and Hraesvelgr. This is a 100% 
 
 ### Re-Opener:
 
-[![Phase 6 opener](https://i.im.ge/2022/08/04/F36NI4.Phase-6-opener.png)](https://im.ge/i/F36NI4)
+![Imgur](https://i.imgur.com/gnf92WQ.png)
 
 * Cast Soulsow, Enshroud as soon as the battleground changes.
 * Shadow of Death
@@ -521,7 +523,7 @@ Most groups probably want to delay their raid buffs to after the first **Gigafla
 
 ### Harvest Moon Double Enshroud:
 
-[![HM double Shroud](https://i.im.ge/2022/08/04/F363uf.HM-double-Shroud.png)](https://im.ge/i/F363uf)
+![Imgur](https://i.imgur.com/TqSYfTe.png)
 
 * Enshroud after the next GCD as soon as Death's Design hits 33 seconds
 * Void Reaping
