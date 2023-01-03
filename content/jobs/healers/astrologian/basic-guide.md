@@ -62,7 +62,7 @@ Using as many ‘Cards’ in a fight as you can is crucial to good AST play.
 
 # Divination and Card Rotation
 
-Before discussing anything else, I believe it is most important to establish some foundations for how to use your cards on Astrologian. Again, there are obviously a *ton* of nuances to this, and we are going to just get you started for now.
+Before discussing anything else, it is most important to establish some foundations for how to use your cards on Astrologian. Again, there are obviously a *ton* of nuances to this, and we are going to just get you started for now.
 
 Cards have three core fundamentals to begin with:
 
