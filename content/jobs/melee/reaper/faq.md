@@ -119,14 +119,12 @@ qna:
 
 
       If the fight is not long enough to get two potions during Double Enshroud burst windows, an option potion is still used. As potion uses are fight-specific, refer to fight specific resources for optimal timings.
-  - question: When do we use the Fast Shroud Opener vs. Early Gluttony Opener or
-      other Openers?
-    answer: Early Gluttony Opener is the safer opener for general purpose because
-      you minimize your chances of losing a use of Gluttony due to fight
-      alignment. However, Fast Shroud Opener is better for putting more potency
-      in raid buffs. Using one opener over another is going to be a
-      fight-specific optimization, and most fights will have their own openers
-      tailored to the fight phasing/downtime.
+  - question: How much Skill Speed does RPR want and why?
+    answer: Reaper functions best at either 2.49 or 2.48. These speeds align the
+      rotation close to a clean 120 second loop. Going any slower will cause
+      resource generation issues later in the rotation and any faster you’ll
+      begin to clip Plentiful Harvest in your opener. Skill Speed is also our
+      lowest scaling stat, so the more we meld, the lower our overall damage.
   - question: How do Arcane Circle, Immortal Sacrifice, and Plentiful Harvest work?
     answer: >-
       Arcane Circle is a 3% damage up buff for 20s that is applied to all party
