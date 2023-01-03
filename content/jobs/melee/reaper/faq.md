@@ -15,7 +15,8 @@ changelog:
 qna:
   - question: Which Potion/Food should RPR use?
     answer: The highest available Strength potion. Currently, that is **Grade 7
-      Tincture of Strength**. Current food is **Carrot Pudding.**
+      Tincture of Strength**. Current food is **Carrot Pudding.** Always use
+      High Quality!
   - question: Why do we use Arcane Circle halfway through the GCD instead of in the
       second weave space?
     answer: Plentiful Harvest cannot be used for 6.7s after using Arcane Circle. You
