@@ -12,6 +12,8 @@ changelog:
     message: Added 6.11 ultimate sets
   - date: 2022-04-13T03:59:58.924Z
     message: Added Augmented 2.40 set
+  - date: 2023-01-03T23:06:43.871Z
+    message: Added Sets for the TOP
 bis:
   - type: etro
     description: |2
@@ -54,6 +56,25 @@ bis:
       * 2.50 GCD
     name: 2.50 Mid Piety DSW set
     link: https://etro.gg/gearset/115d146d-8828-4c05-8fd2-81042e953e9c
+  - type: etro
+    description: |-
+      * safe to run
+      * The next set has extra pieces for more piety if needed
+      * Terrible alignment but in ultimates that matters a little less.
+      * 2.47
+    name: 2.47 Mid PI TOP set
+    link: https://etro.gg/gearset/a91cf8ba-5ea1-4050-82c0-b90862a77ac0
+  - type: etro
+    description: >-
+      * Ultra safe set to run
+
+      * Has extra piety pieces of the ultimate feels like it's needed
+
+      * Gives great chain and Bio Alignment but in ultimates it matters a little less.
+
+      * 2.50
+    name: 2.50 High Pi TOP set
+    link: https://etro.gg/gearset/76244ceb-8cec-49c9-898e-3e7610d6ccf6
 authors:
   - Balance-SCH-Staff
 ---
