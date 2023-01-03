@@ -11,13 +11,13 @@ changelog:
 qna:
   - question: What about Macros?
     answer: >-
-      **MACRO ABILITIES ARE NEVER OPTIMAL FOR AST, EVER.**
+      **MACRO ABILITIES ARE NEVER OPTIMAL FOR AST**
 
 
-      Does not matter what it is. If it's Star, if it's cards, if it's Malefic (heavens no), macros should never be desired. If using any, the goal should ALWAYS be to work out of needing them. Yes, this includes you controller players. I play on it without any macros, you can too.
+      Does not matter what it is. If it's Star, cards, mouseovers, Malefic (heavens no), macros should never be desired. They may be helpful when learning but are not optimal, and if using any, the goal should ALWAYS be to work toward not needing them. Yes, this includes controller players. 
 
 
-      There is one set of macro types I will excuse under the condition that using them, the player understands:
+      If still wanting to use macros, the player must keep in mind:
 
 
       1. It is objectively unoptimal and is costing them DPS and performance.
