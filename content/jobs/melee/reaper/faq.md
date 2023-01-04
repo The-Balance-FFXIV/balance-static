@@ -54,7 +54,7 @@ qna:
       doesn't go out until the cast is finished which means the damage does not
       land until the countdown reaches 0. By the time you actually reach the
       boss, you have gained a free GCD. Harvest Moon is an instant cast, so if
-      you try to do the same thing with it, you will early pull by 2 seconds.
+      you try to do the same thing with it, you will early pull by two seconds.
       Running in and immediately doing Shadow of Death lands the Shadow of Death
       at roughly the same time as if you precasted Harpe (about 0.5s
       difference), which means that precasting Harpe is just free damage in most
