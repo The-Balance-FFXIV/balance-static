@@ -25,7 +25,7 @@ If you're looking for such information, you may find it in one of the dedicated 
 * [Frequently Asked Questions](/jobs/ranged/bard/faq/)
 * [Opener](/jobs/ranged/bard/openers/)
 * [Advanced Guide](/jobs/ranged/bard/advanced-guide/)
-* [Fight-Specific Tips (google doc)](https://docs.google.com/document/d/1l3X2PB5hAqTNBLKKTfkkOfCsNExhPSvAi1Aqgh09HHI/)
+* [Fight-Specific Tips (google doc)](https://docs.google.com/document/d/1rtm0uv_y9dEyBCDaQjp5ntXOL8DiJhBYxdNuAjQPuHU/)
 
 (Note: These pages will be added or updated over time.)
 
