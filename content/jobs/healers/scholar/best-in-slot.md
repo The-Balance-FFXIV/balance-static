@@ -73,7 +73,7 @@ bis:
       * Gives great chain and Bio Alignment but in ultimates it matters a little less.
 
       * 2.50
-    name: 2.50 High Pi TOP set
+    name: 2.50 High Piety TOP set
     link: 76244ceb-8cec-49c9-898e-3e7610d6ccf6
 authors:
   - Balance-SCH-Staff
