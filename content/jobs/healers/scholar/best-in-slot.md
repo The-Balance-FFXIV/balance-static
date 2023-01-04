@@ -22,7 +22,7 @@ bis:
           * Gives a good Chain alignment, but a poor Bio alignment
           * 2.40 GCD
     name: 2.40 Mid-Pie Set
-    link: https://etro.gg/gearset/03f4b5a3-e9ab-434b-8cc2-b358546fcb60
+    link: 03f4b5a3-e9ab-434b-8cc2-b358546fcb60
   - type: etro
     description: >-
       * This set has slightly lower average damage than the SpS BiS but higher
@@ -33,7 +33,7 @@ bis:
 
       * 2.40 GCD
     name: 2.40 Low-Pie Set
-    link: https://etro.gg/gearset/fdc331e0-aa1a-45d1-9640-a38e691ad063
+    link: fdc331e0-aa1a-45d1-9640-a38e691ad063
   - type: etro
     description: >
       * This set has the highest average damage of the two BiS sets and is the
@@ -43,7 +43,7 @@ bis:
       * Gives good Chain and Bio alignment
 
       * 2.31 GCD
-    link: https://etro.gg/gearset/41c65b56-fa08-4c6a-b86b-627fd14d04ff
+    link: 41c65b56-fa08-4c6a-b86b-627fd14d04ff
     name: 2.31 Low-Pie Set
   - type: etro
     description: >-
@@ -55,15 +55,15 @@ bis:
 
       * 2.50 GCD
     name: 2.50 Mid Piety DSW set
-    link: https://etro.gg/gearset/115d146d-8828-4c05-8fd2-81042e953e9c
+    link: 115d146d-8828-4c05-8fd2-81042e953e9c
   - type: etro
     description: |-
       * safe to run
       * The next set has extra pieces for more piety if needed
       * Terrible alignment but in ultimates that matters a little less.
       * 2.47
-    name: 2.47 Mid PI TOP set
-    link: https://etro.gg/gearset/a91cf8ba-5ea1-4050-82c0-b90862a77ac0
+    name: 2.47 Mid Piety TOP set
+    link: a91cf8ba-5ea1-4050-82c0-b90862a77ac0
   - type: etro
     description: >-
       * Ultra safe set to run
@@ -74,7 +74,7 @@ bis:
 
       * 2.50
     name: 2.50 High Pi TOP set
-    link: https://etro.gg/gearset/76244ceb-8cec-49c9-898e-3e7610d6ccf6
+    link: 76244ceb-8cec-49c9-898e-3e7610d6ccf6
 authors:
   - Balance-SCH-Staff
 ---
