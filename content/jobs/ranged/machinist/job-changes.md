@@ -1,18 +1,13 @@
 ---
 title: Machinist Changes
 layout: changes
-lastmod: 2022-04-12T00:21:21.020Z
+lastmod: 2023-01-10T20:23:33.571Z
 changes:
-  - patch: "6.0"
+  - patch: "6.3"
     description: "[Click here to view the latest changes on the Official
       Site](https://na.finalfantasyxiv.com/jobguide/machinist/)"
-  - patch: "6.1"
-    description: View the latest changes for 6.1 at the Official Site, located
-      [here](https://na.finalfantasyxiv.com/jobguide/machinist/)!
-  - patch: "6.2"
-    description: View the latest changes for 6.2 at the Official Site, located
-      [here](https://na.finalfantasyxiv.com/jobguide/machinist/)!
 authors:
   - Laille-Ormesaing
   - Balance-MCH-Staff
+  - dook
 ---
