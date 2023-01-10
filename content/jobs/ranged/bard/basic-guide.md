@@ -344,12 +344,7 @@ Meanwhile, **Shadowbite** and **Rain of Death** want you to be targeting somethi
 
 ![Nature's Minne](https://xivapi.com/i/002000/002615_hr1.png)
 
-**Nature's Minne** - This increases all healing received. That includes any shields that are based on a potency. Nature's Minne has a lot of good uses:
-
-* Helping when healers need to single heal more than just the tank.
-* Putting it on the tank on big dungeon pulls.
-* Coordinating with a Scholar to buff an **Adloquium** + **Deployment Tactics**.
-* Using it on yourself when you make a mistake or miss a heal.
+**Nature's Minne** - This increases all healing received by party members in range. It's similar in purpose to Troubadour, but affecting heals changes some of the use cases and timing.
 
 ![The Warden's Paean](https://xivapi.com/i/002000/002609_hr1.png)
 
