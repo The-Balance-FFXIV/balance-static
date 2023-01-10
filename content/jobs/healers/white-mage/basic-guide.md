@@ -3,8 +3,8 @@ title: White Mage Basic Guide
 card_header_image: /img/jobs/whm/basic.png
 authors:
   - meru
-patch: "6.2"
-lastmod: 2022-04-18T18:47:43.857Z
+patch: "6.3"
+lastmod: 2023-01-10T16:41:16.415Z
 changelog:
   - date: 2021-10-29T03:52:37.749Z
     message: Created page
@@ -12,6 +12,8 @@ changelog:
     message: Updated for Endwalker.
   - date: 2022-04-18T18:47:46.059Z
     message: Updated for patch 6.1
+  - date: 2023-01-10T16:41:19.574Z
+    message: Updated for patch 6.3
 ---
 # Introduction
 
@@ -83,7 +85,7 @@ A 15s buff on a two minute cooldown that grants you a haste buff that speeds up 
 
 Assize recovers 500MP per use, deals 400p of damage and also heals allies within range for 400p. It is a damaging oGCD that happens to do healing, but unlike your actual healing oGCDs, there is not much leeway to move Assize around for healing purposes as delays can risk losing an entire Assize usage in a fight, which is a significant potency loss. On top of that, Assize is also integral to WHM’s MP sustain, and should be used on cooldown in pretty much all scenarios. Assize can be delayed for multi-target scenarios even if it means losing a use, as it only needs to hit two targets to break even, and quickly becomes a gain at higher target counts. 
 
-However, you can and should take advantage of Assize’s healing portion by structuring your other healing oGCDs around it. For example, if you know that Assize naturally aligns to heal before an upcoming raid-wide, you can delay your Asylum to heal the party at a later point in the fight. Assize’s 45s cooldown means that it will align with useful healing opportunities more often than not, but only if you let it do its work. 
+However, you can and should take advantage of Assize’s healing portion by structuring your other healing oGCDs around it. For example, if you know that Assize naturally aligns to heal before an upcoming raid-wide, you can delay your Asylum to heal the party at a later point in the fight. Assize’s 40s cooldown means that it will align with useful healing opportunities more often than not, but only if you let it do its work. 
 
 # Healing & Mitigation Overview
 
