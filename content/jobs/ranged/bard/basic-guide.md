@@ -5,13 +5,15 @@ authors:
   - TKCetonis
   - infinitestory
   - Balance-BRD-Staff
-patch: "6.2"
-lastmod: 2022-09-26T02:46:43.651Z
+patch: "6.3"
+lastmod: 2023-01-10T16:40:28.311Z
 changelog:
   - date: 2021-10-26T02:17:16.801Z
     message: Created page
   - date: 2021-12-13T02:08:26.409Z
     message: Updated for 6.00
+  - date: 2023-01-10T16:40:31.598Z
+    message: 6.3 Updates
 ---
 Welcome to the Basics Guide for Bard! Whether you're a fresh level 90, a returning player, or just need a refresher, this guide will get you started and help you feel comfortable.
 
