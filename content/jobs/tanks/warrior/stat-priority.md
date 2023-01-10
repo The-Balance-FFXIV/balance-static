@@ -1,6 +1,6 @@
 ---
 title: Warrior Stat Priority
-patch: "6.2"
+patch: "6.3"
 lastmod: 2023-01-10T18:10:58.411Z
 changelog:
   - date: 2022-02-02T23:35:01.842Z
