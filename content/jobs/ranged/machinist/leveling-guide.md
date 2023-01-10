@@ -59,9 +59,13 @@ For clarity purposes:
 * Tactician is a mitigative tool that can either be used to reduce damage when the party is about to take damage, or on mob pulls to help the tank in your dungeon take less damage. Use generously and your parties will love you for it.
 * Drill is the big game changer here. From level 58 until level 90, Drill and Reassemble should always be paired together in single-target encounters. 
 
+## Level 62
+
+* Dismantle is added to our arsenal. While it's less versatile than Tactician, Dismantle can fill in for missing mitigation, more specifically during single-target encounters. Use this to prevent all types of raid-wide damage, or to help a tank out with mitigating tankbusters.
+
 ## Level 66
 
-* Barrel Stabilizer is huge. You can start encounters with 50 heat and get Wildfire on cooldown very early in a fight. It can be used for on demand burst during mob pulls as well for instant burst.
+* Barrel Stabilizer is huge. You can start encounters with 50 heat and get Wildfire on cooldown very early in a fight. This is also useful for mob pulls in dungeons, as it provides on demand heat for longer burst cycles.
 
 ## Level 70 - 80
 
