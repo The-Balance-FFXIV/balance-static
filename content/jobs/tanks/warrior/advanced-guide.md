@@ -20,6 +20,8 @@ changelog:
     message: Patch number update
   - date: 2022-08-25T16:15:38.003Z
     message: Patch 6.2 changes
+  - date: 2023-01-10T18:32:18.684Z
+    message: Updated for 6.3
 ---
 ## The Optimization
 
