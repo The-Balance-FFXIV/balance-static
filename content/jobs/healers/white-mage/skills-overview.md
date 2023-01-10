@@ -3,13 +3,15 @@ title: White Mage Skills Overview
 authors:
   - shy
   - pyre
-patch: "6.2"
-lastmod: 2022-09-18T06:35:06.343Z
+patch: "6.3"
+lastmod: 2023-01-10T16:41:53.657Z
 changelog:
   - date: 2021-10-27T01:09:43.442Z
     message: Article Created.
   - date: 2022-04-09T23:28:29.733Z
     message: Updated for Endwalker
+  - date: 2023-01-10T16:41:58.611Z
+    message: Updated for patch 6.3
 ---
 # **Notable Endwalker Changes**
 
