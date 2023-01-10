@@ -3,11 +3,13 @@ title: Warrior fight tips
 authors:
   - Mox-Xinmagar
   - Balance-WAR-Staff
-patch: "6.08"
+patch: "6.30"
 lastmod: 2022-02-26T22:19:07.904Z
 changelog:
   - date: 2022-02-26T21:51:38.096Z
     message: Added quick and dirty notes for Pandaemonium 1 Savage.
+  - date: 2023-01-10T17:56:03.745Z
+    message: Added quick and dirty notes for Pandaemonium 2 Savage.
 ---
 Quick and dirty notes for non-speedrunners.  
 
