@@ -4,13 +4,15 @@ authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
   - dook
-patch: "6.2"
-lastmod: 2022-11-03T02:48:33.333Z
+patch: "6.3"
+lastmod: 2023-01-10T17:59:52.999Z
 changelog:
   - date: 2022-08-25T16:07:53.875Z
     message: Patch 6.2 changes
   - date: 2022-11-03T02:48:38.571Z
     message: 6.28 Adjustments
+  - date: 2023-01-10T16:40:07.879Z
+    message: Patch 6.3 updates
 ---
 # Warrior Skills Overview
 
@@ -55,7 +57,7 @@ Abilities will be presented in a tabular format for easy reading.
 | ![](https://xivapi.com/i/000000/000267_hr1.png) | Vengeance        | Veng         | 38    | Ability | 120 seconds | Reduces damage taken by 30% and delivers an attack worth 55 potency every time you're hit with physical damage.                                                                                                                                                                                                                                                                                                                                                                         |
 | ![](https://xivapi.com/i/000000/000266_hr1.png) | Holmgang         | Holm         | 42    | Ability | 240 seconds | Warrior's invuln. Prevents most attacks from lowering your HP below 1 for 10 seconds.                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ![](https://xivapi.com/i/002000/002560_hr1.png) | Equilibrium      | EQ           | 58    | Ability | 60 seconds  | Restores the users HP for 1,200 potency. Gradually restores HP for 200 potency over 15 seconds, totaling 1000 potency.                                                                                                                                                                                                                                                                                                                                                                  |
-| ![](https://xivapi.com/i/002000/002563_hr1.png) | Shake It Off     | SIO          | 68    | Ability | 90 seconds  | Places a shield on self and all nearby party members totaling 15% of party member's maximum HP for up to 15 seconds.  Dispels Thrill of Battle, Vengeance, and Bloodwhetting, increasing the shield by 2% for each effect dispelled. Heals self and all nearby party members for 300 potency.                                                                                                                                                                                                          |
+| ![](https://xivapi.com/i/002000/002563_hr1.png) | Shake It Off     | SIO          | 68    | Ability | 90 seconds  | Places a shield on self and all nearby party members totaling 15% of party member's maximum HP for up to 30 seconds. Dispels Thrill of Battle, Vengeance, and Bloodwhetting, increasing the shield by 2% for each effect dispelled. Heals self and all nearby party members for 300 potency. Gradually restores HP over time for 15 seconds.                                                                                                                                                                                                          |
 | ![](https://xivapi.com/i/002000/002567_hr1.png) | Nascent Flash    | NF           | 76    | Ability | 25 seconds  | Grants Nascent Flash to self, restoring HP for each weaponskill delivered for eight seconds. Grants Nascent Glint to target, restoring 100% HP of that recovered by the Nascent Flash target.  Reduces damage taken by target by 10% for eight seconds. Grants Stem the Tide to target, shielding the target and absorbing damage worth a 400 potency heal. Grants Stem the Flow to target, reducing damage taken by an additional 10% for four seconds. Shares a recast timer with Bloodwhetting. |
 | ![](https://xivapi.com/i/002000/002569_hr1.png) | Bloodwhetting    | BW           | 82    | Ability | 25 seconds  | Reduces damage taken by 10% and restores HP for each weaponskill delivered for 8 seconds.  Grants Stem the Tide, shields the user and absorbs damage worth a 400 potency heal. Grants Stem the Flow, reduces damage taken by an additional 10% for four seconds. Shares a recast timer with Nascent Flash.                                                                                                                                                                                 |
 
