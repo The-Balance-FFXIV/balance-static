@@ -13,6 +13,8 @@ changelog:
     message: Adjusted things to account for Patch 6.11
   - date: 2022-08-25T16:04:39.829Z
     message: Patch 6.2 adjustments
+  - date: 2023-01-10T18:31:20.691Z
+    message: Updated for 6.3
 ---
 # Final Fantasy 14: Endwalker guide for Warrior
 
