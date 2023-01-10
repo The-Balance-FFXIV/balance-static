@@ -4,8 +4,8 @@ card_header_image: /img/jobs/war/advanced.png
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
-patch: "6.2"
-lastmod: 2022-08-26T20:18:44.738Z
+patch: "6.30"
+lastmod: 2023-01-10T18:08:23.928Z
 changelog:
   - date: 2021-11-15T18:36:27.000Z
     message: Created page
@@ -20,12 +20,14 @@ changelog:
     message: Patch number update
   - date: 2022-08-25T16:15:38.003Z
     message: Patch 6.2 changes
+  - date: 2023-01-10T18:32:18.684Z
+    message: Updated for 6.3
 ---
 ## The Optimization
 
 Warrior Optimization focuses on manipulating the Surging Tempest buff refreshes, and “Carrying buffs” such as Nascent Chaos and Primal Rend Ready. 
  
-There’s also the case of pushing out “3 IC Pot” windows and “2 IC Tricks”, but also disrespecting various mechanics by zeroing out the damage, or canceling a knockback with our Onslaught. Also, if you want a high percentile in FFLogs, you're at the mercy of a good kill time. Bosses dying right after an entire Inner Release + resource burn window? That's a nice percentile.
+There’s the case of pushing out “3 IC Pot” windows and other rotational niches, but also disrespecting various mechanics by zeroing out the damage, or canceling a knockback with our Onslaught. Also, if you want a high percentile in FFLogs, you're at the mercy of a good kill time and Crit RNG. Bosses dying right after an entire Inner Release + resource burn window? That's a nice percentile.
 
 ### Surging Tempest 
 
