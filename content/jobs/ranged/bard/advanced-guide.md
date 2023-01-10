@@ -256,7 +256,7 @@ If you are dead at a time that was supposed to have a burst, it can be tricky. T
 
 ## Targeting macros
 
-Nature's Minne and The Warden's Paean both target a party member. The act of doing this normally can take some time, will de-target the boss, and could delay an auto-attack. 
+The Warden's Paean targets a party member. The act of doing this normally can take some time, will de-target the boss, and could delay an auto-attack. 
 
 This is the one combat situation where macros can help us: targeting. You do not need to worry about the macro delay slowing your GCD since they are abilities. Pragmatically, the delay is less than you would have using the skills the hard way.
 
@@ -268,19 +268,6 @@ For The Warden's Paean, you can set it to a mouseover macro.
 /micon "The Warden's Paean"`
 
 The `<mo>` stands for mouseover. You can hover someone on the party list, click your macro'd button or keybind, and it will use Warden's on that member. Listing the skill multiple times is just insurance to make sure it goes off. It is possibly more superstition than anything, but does not hurt.
-
-For Nature's Minne, you can do a similar mouseover macro, or you can bind multiple macros for specific common targets like tanks (or do both). This is what is going on when you see a Bard that has four to six Minne buttons on their bar.
-
-As an example, if your role sort (Character Config -> UI Settings -> Party List) puts tanks first, this will Minne the top tank on the list:
-
-`/ac "Nature's Minne" <2>  
-/ac "Nature's Minne" <2>  
-/ac "Nature's Minne" <2>  
-/micon "Nature's Minne"`
-
-The `<2>` targets the second person on the party list. You can have a macro like this for each tank, a mouseover macro, and a regular bind to use on yourself or someone else. 
-
-If you have another slot, you can add one to target Scholars. They often Deployment Tactics off of themselves, and you almost always want to Minne deploys. Go into your Role Sort Settings in that same menu to make sure Scholar is always the first or last healer on the list.
 
 - - -
 
