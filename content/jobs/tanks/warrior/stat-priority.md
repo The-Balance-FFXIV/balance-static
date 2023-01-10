@@ -9,6 +9,8 @@ changelog:
     message: Added a bigger body text to explain our stat choices
   - date: 2022-08-25T16:24:46.809Z
     message: Patch 6.2 changes
+  - date: 2023-01-10T18:31:53.207Z
+    message: Updated for 6.3
 priority: Critical Hit > Comfy Skill Speed > Direct Hit >= Determination > Tenacity
 authors:
   - Balance-WAR-Staff
