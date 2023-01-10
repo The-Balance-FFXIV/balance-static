@@ -33,3 +33,18 @@ Holmgang the busters, all the other cooldowns are free for auto-attacks.
 **P4s phase 2:**  
 Nothing special here.  
 Normal opener, nearly full uptime depending on your group's strats.
+
+**P5s:**
+You may skip Tomahawk and opt for an earlier IR. Keep IR rolling and get 3 FCs off before Devour. Save Primal Rend for after boss is targetable again.
+
+**P6s:**
+Nothing special. Full uptime fight.
+
+**P7s:**
+As with P5s, you may skip Tomahawk. Keep IR on cooldown. Fight lines up nicely with 2.45, as most of the knock-ups happen during GCD downtime.
+
+**P8s phase 1:**
+Full uptime fight, apart from Dog 2 phase.
+
+**P8s phase 2:**
+Recommended 2.45 GCD. -11s IR opener, get IR FCs + Primal Rend off before HC1. Keep IR on cooldown for the most part. On HC2, wait for the adds tethers and then use IR, reopen with 3 FCs. Nearly full uptime fight.
