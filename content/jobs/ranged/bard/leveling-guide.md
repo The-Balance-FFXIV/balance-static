@@ -3,13 +3,15 @@ title: Bard Leveling Guide
 card_header_image: /img/jobs/brd/leveling.png
 authors:
   - TKCetonis
-patch: "6.2"
-lastmod: 2022-07-04T17:42:30.123Z
+patch: "6.3"
+lastmod: 2023-01-10T16:42:51.758Z
 changelog:
   - date: 2021-10-26T02:15:03.972Z
     message: Created page
   - date: 2022-07-04T17:42:34.230Z
     message: (finally) Updated for Endwalker
+  - date: 2023-01-10T16:42:54.569Z
+    message: Updated for 6.3 changes
 ---
 # Bard Leveling Guide
 
