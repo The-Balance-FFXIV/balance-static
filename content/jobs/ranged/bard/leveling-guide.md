@@ -187,7 +187,7 @@ This opener will be the standard all the way through level 90. You'll add a coup
 
 **Troubadour** is Bard's version of the MCH/DNC skills Tactician and Shield Samba. It's a very good party-wide defensive cooldown, use it if you expect the team to take a lot of damage.
 
-**Nature's Minne** is a handy support skill that boosts healing *received* by the target. You want to use it on the player getting healed, not the one doing the healing. You'll mostly put it on tanks for big dungeon pulls, but it has other uses as well.
+**Nature's Minne** is a handy support skill that boosts healing received by party members in range. Use it to help out when there's a lot of healing needed.
 
 At level 68, you get the trait **Enhanced Empyreal Arrow**. This causes Empyreal to trigger a Repertoire, making it even more valuable. In Wanderer's Minuet, if an upcoming Empyreal might overfill your Pitch Perfect stacks, use a two-stack Pitch Perfect to clear the way.
 
