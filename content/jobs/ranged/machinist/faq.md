@@ -8,6 +8,8 @@ changelog:
     message: Created page
   - date: 2021-12-19T02:31:02.378Z
     message: Updated for initial EW changes
+  - date: 2023-01-10T20:36:21.885Z
+    message: Updated to include Dismantle vs Tactician for 6.3
 qna:
   - question: When do I use Hypercharge?
     answer: >-
