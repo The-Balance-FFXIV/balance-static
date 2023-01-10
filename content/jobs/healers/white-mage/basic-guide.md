@@ -83,7 +83,7 @@ A 15s buff on a two minute cooldown that grants you a haste buff that speeds up 
 
 Assize recovers 500MP per use, deals 400p of damage and also heals allies within range for 400p. It is a damaging oGCD that happens to do healing, but unlike your actual healing oGCDs, there is not much leeway to move Assize around for healing purposes as delays can risk losing an entire Assize usage in a fight, which is a significant potency loss. On top of that, Assize is also integral to WHM’s MP sustain, and should be used on cooldown in pretty much all scenarios. Assize can be delayed for multi-target scenarios even if it means losing a use, as it only needs to hit two targets to break even, and quickly becomes a gain at higher target counts. 
 
-However, you can and should take advantage of Assize’s healing portion by structuring your other healing oGCDs around it. For example, if you know that Assize naturally aligns to heal before an upcoming raid-wide, you can delay your Asylum to heal the party at a later point in the fight. Assize’s 45s cooldown means that it will align with useful healing opportunities more often than not, but only if you let it do its work. 
+However, you can and should take advantage of Assize’s healing portion by structuring your other healing oGCDs around it. For example, if you know that Assize naturally aligns to heal before an upcoming raid-wide, you can delay your Asylum to heal the party at a later point in the fight. Assize’s 40s cooldown means that it will align with useful healing opportunities more often than not, but only if you let it do its work. 
 
 # Healing & Mitigation Overview
 
