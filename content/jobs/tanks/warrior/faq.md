@@ -1,8 +1,8 @@
 ---
 title: Warrior FAQ
 layout: qna
-patch: "6.21"
-lastmod: 2022-09-15T13:57:18.758Z
+patch: "6.30"
+lastmod: 2023-01-10T18:05:34.978Z
 changelog:
   - date: 2021-10-27T07:27:07.049Z
     message: Added page.
