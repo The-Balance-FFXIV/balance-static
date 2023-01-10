@@ -2,8 +2,8 @@
 title: Machinist Openers
 authors:
   - dook
-patch: "6.2"
-lastmod: 2021-12-17T23:03:46.511Z
+patch: "6.3"
+lastmod: 2023-01-10T20:37:11.460Z
 changelog:
   - date: 2021-10-25T22:04:20.477Z
     message: Created page
