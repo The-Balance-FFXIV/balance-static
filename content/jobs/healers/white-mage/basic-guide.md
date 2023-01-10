@@ -3,8 +3,8 @@ title: White Mage Basic Guide
 card_header_image: /img/jobs/whm/basic.png
 authors:
   - meru
-patch: "6.2"
-lastmod: 2022-04-18T18:47:43.857Z
+patch: "6.3"
+lastmod: 2023-01-10T16:41:16.415Z
 changelog:
   - date: 2021-10-29T03:52:37.749Z
     message: Created page
@@ -12,6 +12,8 @@ changelog:
     message: Updated for Endwalker.
   - date: 2022-04-18T18:47:46.059Z
     message: Updated for patch 6.1
+  - date: 2023-01-10T16:41:19.574Z
+    message: Updated for patch 6.3
 ---
 # Introduction
 
