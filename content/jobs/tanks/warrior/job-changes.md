@@ -35,6 +35,19 @@ changes:
       Maim and Storm's Eye/Storm's Path potency increased by 20 and 10/10 respectively.
   - patch: 6.21, 6.28
     description: Potency increases to Combo actions, Fell Cleave, Upheaval.
+  - patch: "6.3"
+    description: "Shake It Off: \\
+
+      Barrier effect duration has been increased from 15 to 30 seconds.
+      \\\r
+
+      The additional effect \"Gradually restores HP\" has been added with
+      a cure potency of 100.
+
+
+      Defiance: \\
+
+      Recast time has been reduced from 3 to 2 seconds."
 authors:
   - Balance-WAR-Staff
 ---
