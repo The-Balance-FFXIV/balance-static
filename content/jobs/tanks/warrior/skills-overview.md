@@ -4,13 +4,15 @@ authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
   - dook
-patch: "6.2"
-lastmod: 2022-11-03T02:48:33.333Z
+patch: "6.3"
+lastmod: 2023-01-10T16:40:02.386Z
 changelog:
   - date: 2022-08-25T16:07:53.875Z
     message: Patch 6.2 changes
   - date: 2022-11-03T02:48:38.571Z
     message: 6.28 Adjustments
+  - date: 2023-01-10T16:40:07.879Z
+    message: Patch 6.3 updates
 ---
 # Warrior Skills Overview
 
