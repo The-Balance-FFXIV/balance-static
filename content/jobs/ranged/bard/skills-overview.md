@@ -2,13 +2,15 @@
 title: Bard Skills Overview
 authors:
   - TKCetonis
-patch: "6.2"
-lastmod: 2021-12-18T19:34:13.272Z
+patch: "6.3"
+lastmod: 2023-01-10T16:42:24.915Z
 changelog:
   - date: 2021-10-26T02:24:56.512Z
     message: Create page
   - date: 2021-12-18T19:34:14.850Z
     message: Updated for 6.00
+  - date: 2023-01-10T16:42:28.023Z
+    message: Updated for Patch 6.3
 ---
 Here you'll find notes and clarifications about Bard's skills. If you're looking for tooltips, check [the official website](https://na.finalfantasyxiv.com/jobguide/bard/). 
 
