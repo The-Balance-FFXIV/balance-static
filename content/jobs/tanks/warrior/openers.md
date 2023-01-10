@@ -10,6 +10,8 @@ changelog:
     message: Updated for Endwalker
   - date: 2022-02-26T22:05:45.816Z
     message: Added IC IC IR and -29s IR into Rend
+  - date: 2023-01-10T18:30:58.728Z
+    message: Updated for 6.3
 ---
 # Warrior Openers and Rotation
 
