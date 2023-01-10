@@ -66,7 +66,7 @@ changelog:
 
 ![Assize](https://xivapi.com/i/002000/002634_hr1.png)
 
-### **Assize (45s CD)**
+### **Assize (40s CD)**
 
 * AoE damage in a 15y radius around you (400p) and an AoE heal in a 15y radius around you (400p)
 * Should  always be used on cooldown for damage.
