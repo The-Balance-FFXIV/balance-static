@@ -1,13 +1,15 @@
 ---
 title: Machinist FAQ
 layout: qna
-patch: "6.2"
-lastmod: 2021-12-19T02:31:01.659Z
+patch: "6.3"
+lastmod: 2023-01-10T20:33:15.016Z
 changelog:
   - date: 2021-10-25T22:06:08.013Z
     message: Created page
   - date: 2021-12-19T02:31:02.378Z
     message: Updated for initial EW changes
+  - date: 2023-01-10T20:36:21.885Z
+    message: Updated to include Dismantle vs Tactician for 6.3
 qna:
   - question: When do I use Hypercharge?
     answer: >-
@@ -56,6 +58,13 @@ qna:
   - question: Should I use Flamethrower?
     answer: Yes, for AoE, except if the fight is about to end and you have to choose
       between Flamethrower and Hypercharge, then Hypercharge wins out.
+  - question: How do Dismantle and Tactician interact?
+    answer: Both Dismantle and Tactician work independently of each other, meaning
+      they can be stacked. They function slightly differently. Dismantle
+      requires a target, while Tactician does not, but both cover both physical
+      and magical damage. As a generalized statement, try to stagger usage of
+      these mitigative actions, but if you're unsure of where they're needed,
+      ask your healers where they would like them.
   - question: What is the AoE priority?
     answer: |-
       1. Bioblaster 2+ targets
