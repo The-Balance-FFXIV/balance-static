@@ -3,11 +3,9 @@ title: Machinist Leveling Guide
 card_header_image: /img/jobs/mch/leveling.png
 authors:
   - dook
-patch: "6.2"
-lastmod: 2022-10-17T20:29:39.362Z
+patch: "6.3"
+lastmod: 2023-01-11T02:34:19.936Z
 changelog:
-  - date: 2021-10-25T21:55:43.292Z
-    message: Created page
   - date: 2022-02-10T04:10:25.078Z
     message: Updated for Endwalker
   - date: 2022-06-11T02:22:20.188Z
@@ -16,6 +14,8 @@ changelog:
     message: Updated for 6.2
   - date: 2022-10-17T20:29:40.350Z
     message: Fixed 80 opener image quality
+  - date: 2021-10-25T21:55:43.292Z
+    message: Created page
 ---
 # Simple Pointers for New Machinists
 
@@ -59,11 +59,15 @@ For clarity purposes:
 * Tactician is a mitigative tool that can either be used to reduce damage when the party is about to take damage, or on mob pulls to help the tank in your dungeon take less damage. Use generously and your parties will love you for it.
 * Drill is the big game changer here. From level 58 until level 90, Drill and Reassemble should always be paired together in single-target encounters. 
 
+## Level 62
+
+* Dismantle is added to our arsenal. While it's less versatile than Tactician, Dismantle can fill in for missing mitigation, more specifically during single-target encounters. Use this to prevent all types of raid-wide damage, or to help a tank out with mitigating tankbusters.
+
 ## Level 66
 
-* Barrel Stabilizer is huge. You can start encounters with 50 heat and get Wildfire on cooldown very early in a fight. It can be used for on demand burst during mob pulls as well for instant burst.
+* Barrel Stabilizer is huge. You can start encounters with 50 heat and get Wildfire on cooldown very early in a fight. This is also useful for mob pulls in dungeons, as it provides on demand heat for longer burst cycles.
 
-## Level 70 - 80
+## Levels 70 - 80
 
 * The additions to the job in these levels are almost entirely quality of life upgrades or multi-mob actions. Flamethrower should be used on mob packs, as well as Bioblaster so long as the enemies stay alive for the full duration of the DoT it applies. Hot Shot upgrades to Air Anchor, which aside from aesthetics and more potency with a higher priority on usage, it’s the same action as before. Rook becomes Queen Automaton at level 80. It’s still a set-and-forget type pet, she just does a lot more damage now. Try using her in boss fights if possible while in dungeons.
 
