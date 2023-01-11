@@ -1,8 +1,8 @@
 ---
 title: Warrior Best in Slot (BiS)
 layout: bis
-patch: "6.2"
-lastmod: 2022-09-04T11:54:08.799Z
+patch: "6.30"
+lastmod: 2023-01-10T18:09:54.522Z
 changelog:
   - date: 2021-10-27T07:22:13.566Z
     message: Lists added
@@ -49,6 +49,10 @@ bis:
     description: Archive of old BIS sets from patch 6.11.
     name: Patch 6.11 Archival
     link: https://pastebin.com/pDWaPnAh
+  - type: gsheets
+    description: Compilation of BIS sets for various Ultimate raids.
+    name: Ultimate Raids
+    link: https://bit.ly/XIV-EW-Warrior-Ulti
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
