@@ -2,7 +2,7 @@
 title: Scholar Best in Slot (BiS)
 layout: bis
 patch: "6.3"
-lastmod: 2023-01-03T23:10:40.676Z
+lastmod: 2023-01-11T03:02:51.183Z
 changelog:
   - date: 2021-10-26T23:42:52.063Z
     message: Article Created.
@@ -14,6 +14,8 @@ changelog:
     message: Added Augmented 2.40 set
   - date: 2023-01-03T23:06:43.871Z
     message: Added Sets for the TOP
+  - date: 2023-01-11T02:57:03.989Z
+    message: Temporarily deleted dsr set
 bis:
   - type: etro
     description: |2
@@ -46,17 +48,6 @@ bis:
     link: 41c65b56-fa08-4c6a-b86b-627fd14d04ff
     name: 2.31 Low-Pie Set
   - type: etro
-    description: >-
-      * Safe to run
-
-      * This set should be safe to run, but you may need to add extra Piety.
-
-      * Gives a good Chain and Bio alignment, however downtime will mess this up.
-
-      * 2.50 GCD
-    name: 2.50 Mid Piety DSW set
-    link: 115d146d-8828-4c05-8fd2-81042e953e9c
-  - type: etro
     description: |-
       * safe to run
       * The next set has extra pieces for more piety if needed
@@ -77,4 +68,6 @@ bis:
     link: 76244ceb-8cec-49c9-898e-3e7610d6ccf6
 authors:
   - Balance-SCH-Staff
+tags:
+  - Scholar
 ---
