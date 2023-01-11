@@ -1,8 +1,8 @@
 ---
 title: Machinist Best in Slot (BiS)
 layout: bis
-patch: "6.25"
-lastmod: 2022-08-23T22:48:17.335Z
+patch: "6.3"
+lastmod: 2023-01-11T09:58:43.451Z
 changelog:
   - date: 2021-10-25T22:11:04.615Z
     message: Created page
@@ -14,17 +14,6 @@ changelog:
     message: Updated for 6.2
 bis:
   - type: etro
-    description: Savage Progression Set for Patch 6.2. Use this if you're
-      comfortable adjusting for Skill Speed.
-    name: Crafted Earrings Progression Set
-    link: 89e6b22e-e700-440e-a9e1-3dbb3043d075
-  - type: etro
-    description: "Savage Progression Set for Patch 6.2. Use this set if you want to
-      maintain a 2.5 second GCD while still doing comparable damage to the
-      Crafted Earring set.\r\n"
-    name: Normal Mode Raid Earrings Progression Set
-    link: 32dbc977-5392-4afb-a6f7-6b697e66fa7c
-  - type: etro
     description: ""
     name: Patch 6.2 Best-in-Slot 2.50 GCD
     link: 8a0bdf80-80f5-42e8-b10a-160b0fc2d151
@@ -33,14 +22,20 @@ bis:
     name: Patch 6.2 Best-in-Slot 2.47 GCD
     link: d48aaab2-102d-4b29-aa58-f1d7eb035fa0
   - type: etro
-    description: ""
-    name: Patch 6.2 Best-in-Slot 2.44 GCD
-    link: 7262fe54-54d1-4cae-9e0f-3ac26caef33a
-  - type: etro
     description: The BiS for Dragonsong's Reprise in Patch 6.25 using the Relic
       weapon. Relic weapon is better than Asphodelos, and easier to obtain.
-    name: Dragonsong's Reprise Best-in-Slot (No Ultimate Weapon)
+    name: Dragonsong's Reprise Best-in-Slot (No Dungeon Gear - 7,648 Expected DPS)
     link: 48d39c9d-eb8b-4274-8529-3455a8853a83
+  - type: etro
+    description: ""
+    name: Dragonsong's Reprise Best-in-Slot (Savage Weapon w/ Dungeon Gear - 7,721
+      Expected DPS)
+    link: https://etro.gg/gearset/8bb27125-69a4-4b0a-be85-22882e1ad7cb
+  - type: etro
+    description: ""
+    name: Dragonsong's Reprise Best-in-Slot (Relic Weapon w/ Dungeon Gear - 7,730
+      Expected DPS)
+    link: https://etro.gg/gearset/14c82b7b-bce4-4f6d-b8eb-183a8c6bb790
   - type: etro
     description: >-
       # Older Ultimate Best-in-Slot
@@ -67,8 +62,9 @@ bis:
 
 
       Keep in mind, the Relic weapon is **NOT** mandatory to clear these fights. It only provides a buffer for mistakes. It's up to the player to make the distinction if the grind is worth it.
-    name: Dragonsong's Reprise Best-in-Slot (Ultimate Weapon)
-    link: https://etro.gg/gearset/65d29ebb-439b-4206-ba52-690c7470eb5b
+    name: Dragonsong's Reprise Best-in-Slot (Ultimate Weapon w/ Dungeon Gear - 7,741
+      Expected DPS)
+    link: https://etro.gg/gearset/a3d405b8-3bd9-41b1-b039-7a71c4c9f6d2
 authors:
   - dook
   - Laille-Ormesaing
