@@ -110,13 +110,14 @@ The basic AoE priority is as follows:
 
 * The Heated Combo is a gain over Scattergun
 * Heat Blast should still be used over Auto-Crossbow
-* Bioblaster is a gain over Drill as long as the entire duration of the DoT will tick
+* Bioblaster is equal to Drill as long as the entire duration of the DoT will tick
 * Reassemble priority is on Chainsaw
 
 **Three Targets**
 
 * Flamethrower > Scattergun 
 * Auto-Crossbow becomes a gain over Heat Blast while in Hypercharge
+* Bioblaster is a gain over Drill, so long as the full duration of DoT ticks is allowed to register
 
 **4-6 Targets**
 
