@@ -4,8 +4,8 @@ authors:
   - Balance-MCH-Staff
   - dook
   - hint
-patch: "6.28"
-lastmod: 2022-11-02T15:46:41.832Z
+patch: "6.3"
+lastmod: 2023-01-11T02:35:01.732Z
 changelog:
   - date: 2021-10-25T22:02:55.843Z
     message: Created page
@@ -13,6 +13,8 @@ changelog:
     message: Updated for EW
   - date: 2022-11-02T15:46:55.163Z
     message: Potency adjusted for Patch 6.28
+  - date: 2023-01-10T20:20:27.431Z
+    message: Added Dismantle and adjusted potency / descriptions for Patch 6.3
 tags:
   - MCH
   - Machinist
@@ -25,16 +27,16 @@ tags:
 | Icon                                            | Action            | Abbreviation | Level | Type        | Recast      | Description                                                                                                                                                                         |
 | ----------------------------------------------- | ----------------- | ------------ | ----- | ----------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![](https://xivapi.com/i/003000/003031_hr1.png) | Heated Split Shot | HS1          | 54    | Weaponskill | 2.5 seconds | The first skill in your main combo.  Delivers an attack with a potency of 200.  Generates 5 Heat. Upgraded from Split Shot.                                                         |
-| ![](https://xivapi.com/i/003000/003032_hr1.png) | Heated Slug Shot  | HS2          | 60    | Weaponskill | 2.5 seconds | The second skill in your main combo. Delivers an attack with a combo potency of 280. Generates 5 Heat. Upgraded from Slug Shot.                                                     |
-| ![](https://xivapi.com/i/003000/003033_hr1.png) | Heated Clean Shot | HS3          | 64    | Weaponskill | 2.5 seconds | The third skill in your main combo. Delivers an attack with a combo potency of 360. Generates 5 Heat and 10 Battery. Upgraded from Clean Shot.                                      |
+| ![](https://xivapi.com/i/003000/003032_hr1.png) | Heated Slug Shot  | HS2          | 60    | Weaponskill | 2.5 seconds | The second skill in your main combo. Delivers an attack with a combo potency of 300. Generates 5 Heat. Upgraded from Slug Shot.                                                     |
+| ![](https://xivapi.com/i/003000/003033_hr1.png) | Heated Clean Shot | HS3          | 64    | Weaponskill | 2.5 seconds | The third skill in your main combo. Delivers an attack with a combo potency of 380. Generates 5 Heat and 10 Battery. Upgraded from Clean Shot.                                      |
 | ![](https://xivapi.com/i/003000/003043_hr1.png) | Drill             | DR           | 58    | Weaponskill | 20 seconds  | Delivers an attack with a potency of 600.  Shares a recast timer with Bioblaster                                                                                                    |
 | ![](https://xivapi.com/i/003000/003045_hr1.png) | Air Anchor        | AA           | 76    | Weaponskill | 40 seconds  | Delivers an attack with a potency of 600. Generates 20 Battery.                                                                                                                     |
 | ![](https://xivapi.com/i/003000/003048_hr1.png) | Chain Saw         | CS           | 90    | Weaponskill | 60 seconds  | Delivers an attack with a potency of 600. Generates 20 Battery. Damage fall-off of 65% for all other enemies in a line to the target.                                               |
 | ![](https://xivapi.com/i/003000/003022_hr1.png) | Reassemble        | REA          | 10    | Ability     | 55 seconds  | Guarantees the next weaponskill is a critical direct hit. Can hold up to 2 stacks.                                                                                                  |
-| ![](https://xivapi.com/i/003000/003041_hr1.png) | Hypercharge       | HC           | 30    | Ability     | 10 seconds  | Enables the usage of Heat Blast. Buffs single-target weaponskills for the next 8 seconds. Costs 50 Heat.                                                                            |
+| ![](https://xivapi.com/i/003000/003041_hr1.png) | Hypercharge       | HC           | 30    | Ability     | 10 seconds  | Enables the usage of Heat Blast. Grants five stacks of Overheat to buff single-target weaponskills for the next 10 seconds. Costs 50 Heat.                                          |
 | ![](https://xivapi.com/i/003000/003030_hr1.png) | Heat Blast        | HB           | 35    | Weaponskill | 1.5 seconds | Only usable under the effect of Hypercharge. Delivers an attack with a potency of 200. Reduces the cooldown of Gauss Round and Ricochet by 15 seconds each.                         |
-| ![](https://xivapi.com/i/003000/003017_hr1.png) | Ricochet          | Rico         | 50    | Ability     | 30 seconds  | Delivers an attack with a potency of 120.  Damage fall-off of 50% for all other nearby enemies.                                                                                     |
-| ![](https://xivapi.com/i/003000/003005_hr1.png) | Gauss Round       | GR           | 15    | Ability     | 30 seconds  | Delivers an attack with a potency of 120.                                                                                                                                           |
+| ![](https://xivapi.com/i/003000/003017_hr1.png) | Ricochet          | Rico         | 50    | Ability     | 30 seconds  | Delivers an attack with a potency of 130.  Damage fall-off of 50% for all other nearby enemies.                                                                                     |
+| ![](https://xivapi.com/i/003000/003005_hr1.png) | Gauss Round       | GR           | 15    | Ability     | 30 seconds  | Delivers an attack with a potency of 130.                                                                                                                                           |
 | ![](https://xivapi.com/i/003000/003018_hr1.png) | Wildfire          | WF           | 45    | Ability     | 120 seconds | Deals 240 potency for each weaponskill delivered over a duration of 10 seconds. Wildfire deals its damage when the timer ends.  Can be manually detonated early by using Detonator. |
 | ![](https://xivapi.com/i/003000/003034_hr1.png) | Barrel Stabilizer | BS           | 66    | Ability     | 120 seconds | Generates 50 Heat.                                                                                                                                                                  |
 
@@ -63,6 +65,7 @@ tags:
 | Icon                                            | Action       | Abbreviation | Level | Type    | Recast      | Description                                                                                                                           |
 | ----------------------------------------------- | ------------ | ------------ | ----- | ------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | ![](https://xivapi.com/i/003000/003040_hr1.png) | Tactician    | Tact         | 56    | Ability | 90 seconds  | Reduces damage taken by self and nearby party members by 10% for 15 seconds. This can not be stacked with Troubadour or Shield Samba. |
+| ![](https://xivapi.com/i/003000/003011_hr1.png) | Dismantle    | \-           | 62    | Ability | 120 seconds | 10% damage reduction on a single target for    10 seconds.                                                                            |
 | ![](https://xivapi.com/i/000000/000843_hr1.png) | Leg Graze    | \-           | 6     | Ability | 30 seconds  | Afflicts target with a 40% heavy.                                                                                                     |
 | ![](https://xivapi.com/i/000000/000842_hr1.png) | Foot Graze   | \-           | 10    | Ability | 30 seconds  | Binds target for 10 seconds.                                                                                                          |
 | ![](https://xivapi.com/i/000000/000848_hr1.png) | Head Graze   | \-           | 24    | Ability | 30 seconds  | Interrupt.                                                                                                                            |
