@@ -3,13 +3,15 @@ title: Warrior Openers
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
-patch: "6.21"
-lastmod: 2022-09-15T13:49:24.649Z
+patch: "6.30"
+lastmod: 2023-01-10T18:04:53.722Z
 changelog:
   - date: 2022-01-31T07:37:24.695Z
     message: Updated for Endwalker
   - date: 2022-02-26T22:05:45.816Z
     message: Added IC IC IR and -29s IR into Rend
+  - date: 2023-01-10T18:30:58.728Z
+    message: Updated for 6.3
 ---
 # Warrior Openers and Rotation
 
@@ -79,6 +81,9 @@ Triple cursed:
 **-29s IR into Rend**  
 [Prepull IR into Rend](https://cdn.discordapp.com/attachments/583965306071023616/939467751079161877/unknown.png) 
 
+## More on various openers
+
+There are more "Early IR" openers, and they all have various niche use cases. For a short documentation on these, please see this [Google doc](https://bit.ly/ew-war-openers)
 
 ## Rotation Optimization
 
