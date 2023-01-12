@@ -1,8 +1,8 @@
 ---
 title: Bard Best in Slot (BiS)
 layout: bis
-patch: "6.21"
-lastmod: 2022-09-26T02:47:01.488Z
+patch: "6.3"
+lastmod: 2023-01-12T03:44:51.062Z
 changelog:
   - date: 2021-10-26T02:40:27.765Z
     message: Created page
@@ -10,6 +10,10 @@ changelog:
     message: 6.00 BiS set added
   - date: 2022-01-06T00:57:48.344Z
     message: i600 6.05 BiS set added, i580 pentamelded prog BiS added
+  - date: 2022-08-24T02:25:40.722Z
+    message: i630 BiS set added, i612 prog BiS added
+  - date: 2023-01-12T03:26:39.329Z
+    message: DSR prog BiS updated
 bis:
   - type: etro
     description: We recommend you purchase the tome bracelet first, then ring, then
@@ -22,8 +26,8 @@ bis:
     link: 74dca178-9958-490c-a605-5a4fdb88f1ac
   - type: etro
     description: ""
-    name: i600 Dragonsong's Reprise Best In Slot
-    link: 252bdabf-9183-4bd0-9384-3033328852be
+    name: Dragonsong's Reprise (prog) Best In Slot
+    link: 384802e4-6112-4882-9670-5e332688713f
 authors:
   - Balance-BRD-Staff
 ---
