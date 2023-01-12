@@ -10,6 +10,10 @@ changelog:
     message: 6.00 BiS set added
   - date: 2022-01-06T00:57:48.344Z
     message: i600 6.05 BiS set added, i580 pentamelded prog BiS added
+  - date: 2022-08-24T02:25:40.722Z
+    message: i630 BiS set added, i610 prog BiS added
+  - date: 2023-01-12T03:26:39.329Z
+    message: DSR prog BiS updated
 bis:
   - type: etro
     description: We recommend you purchase the tome bracelet first, then ring, then
