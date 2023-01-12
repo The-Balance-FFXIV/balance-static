@@ -66,4 +66,7 @@ changes:
       | Life Surge      |  Recast time has been reduced from 45 to 40 seconds. |
 authors:
   - Balance-DRG-Staff
+tags:
+  - Dragoon
+  - JobChanges
 ---
