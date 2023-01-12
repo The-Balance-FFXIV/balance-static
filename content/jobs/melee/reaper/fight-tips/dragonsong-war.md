@@ -17,15 +17,15 @@ changelog:
 
 ### Introduction:
 
-Dragonsong’s Reprise (Ultimate) is the first Ultimate released in Final Fantasy XIV: Endwalker. This entire encounter is about 22 minutes long and split into seven Phases and one Intermission: The Vault Knights, King Thordan, Nidhogg, The Eyes, Rewind Intermission, King Thordan II, The Great Wyrms, and The Dragon King. This guide will go over the rotational structure for Reaper in this encounter and provide tips for different push-timings, Arcane Circle and pot examples, Re-Opener and give some general ideas for how to execute your burst. This guide assumes that you have a basic understanding of the class and its fundamentals. I would advise activating the following feature in your settings so you have an easier time hitting your first GCD on a boss after there was downtime.
+Dragonsong’s Reprise (Ultimate) is the first Ultimate released in Final Fantasy XIV: Endwalker. This entire encounter is about 22 minutes long and split into seven Phases and one Intermission: The Vault Knights, King Thordan, Nidhogg, The Eyes, Rewind Intermission, King Thordan II, The Great Wyrms, and The Dragon King. This guide will go over the rotational structure for Reaper in this encounter and provide tips for different push-timings, Arcane Circle and pot examples, Opener and give some general ideas for how to execute your burst. This guide assumes that you have a basic understanding of the class and its fundamentals. I would advise activating the following feature in your settings so you have an easier time hitting your first GCD on a boss after there was downtime.
 
 ![Imgur](https://i.imgur.com/hvAMmOA.png)
 
 ### Best in Slot (2.49)
 
-[Etro](https://etro.gg/gearset/b301e789-96da-42f2-9628-95f68345e35b)
+[Etro](https://etro.gg/gearset/d2c44499-c41e-47ba-8457-f6e99b97fdd1)
 
-Your item level will be synced down to 605. The 2.49 Asphodelos BiS will be the recommended one for this encounter. You can replace the Asphodelos weapon for the manderville weapon for a slight DPS gain by just replacing one Direct Hit meld in any gearpiece with one +36 Skill Speed meld to get the 2.49 GCD. You can learn more about the GCD tiers in the [advanced guide](/jobs/melee/reaper/advanced-guide/#the-25-249-248-global-cooldown).
+Your item level will be synced down to 605. This etro link has the Best in Slot gear for DSR at the moment. If you do not want to farm the dungeon gear, you can also use the set that was Best in Slot during the Asphodelos raid tier. You can find that gear set in the reaper resources on the balance discord. You can learn more about the GCD tiers in the [advanced guide](/jobs/melee/reaper/advanced-guide/#the-25-249-248-global-cooldown).
 
 # Phase One: The Vault Knights
 
@@ -73,7 +73,7 @@ Here are some examples for when to use Feint or Arcane Crest. Feint can only be 
 
 # Phase Two: King Thordan
 
-This is the Phase with the most downtime. Reaper suffers the most in this Phase due to us not being able to build our gauges during downtime scenarios. I recommend to hold at the end of this Phase for a somewhat slower kill time if your group is killing him too early as this gives most classes a better Re-Opener for the next Phase. A kill time somewhere between 3:08-3:13 is good enough for this which is during/after **Broad Swing 2.**
+This is the Phase with the most downtime. Reaper suffers the most in this Phase due to us not being able to build our gauges during downtime scenarios. I recommend to hold at the end of this Phase for a somewhat slower kill time if your group is killing him too early as this gives most classes a better Opener for the next Phase. A kill time somewhere between 3:08-3:13 is good enough for this which is during/after **Broad Swing 2.**
 
 ### Foreword about push timings and Gluttony:
 
@@ -107,7 +107,7 @@ With faster kill times on the earlier phases, Gluttony can become somewhat of a 
 
 **Why the double Shadow of Death at the end?**
 
-* Death's Design would fall off for the very last GCD if we do not refresh it. Thordan is untargetable for around 30 seconds, so he would become targetable with about 24 seconds on Death's Design. The next Re-Opener will have one Shadow of Death less in it which can be replaced by a stronger GCD. Gallows is our last GCD because it is less likely to get ghosted due to application delay.
+* Death's Design would fall off for the very last GCD if we do not refresh it. Thordan is untargetable for around 30 seconds, so he would become targetable with about 24 seconds on Death's Design. The next Opener will have one Shadow of Death less in it which can be replaced by a stronger GCD. Gallows is our last GCD because it is less likely to get ghosted due to application delay.
 
 **Would it not be more DPS to use Soul Slice before Shadow of Death?**
 
@@ -117,7 +117,7 @@ With faster kill times on the earlier phases, Gluttony can become somewhat of a 
 
 * Using Harpe pre-pull will delay our first GCD by a very small amount. This generally is no problem and always a gain. However, the last GCD in our Opener is very tight and using Harpe pre-pull will most likely result in you ghosting your very last GCD. It was very inconsistent for me but you can try it out by yourself to see if you can use Harpe pre-pull without ghosting your last GCD consistently.
 
-### Re-Opener after Strength of the Ward
+### Opener after Strength of the Ward
 
 ![Imgur](https://i.imgur.com/YvCFkdJ.png)
 
@@ -139,15 +139,15 @@ With faster kill times on the earlier phases, Gluttony can become somewhat of a 
 
 **What about Enshroud?**
 
-* This depends on when your group wants to use their raid buffs on Thordan. Some groups may use them later which would mean you would overcap on gauges and abilities while waiting for the raid buffs. If this happens, use the Enshroud after Gluttony in this Re-Opener and try to end on Soul Slice -> Gibbet/Gallows.
+* This depends on when your group wants to use their raid buffs on Thordan. Some groups may use them later which would mean you would overcap on gauges and abilities while waiting for the raid buffs. If this happens, use the Enshroud after Gluttony in this Opener and try to end on Soul Slice -> Gibbet/Gallows.
 
 **The late Soul Slice and the Gibbet/Gallows:**
 
 * Be sure that your last GCDs, before Thordan becomes untargetable again, are Gibbet/Gallows and Soul Slice. Using Gibbet/Gallows this late before Thordan becomes untargetable will help us to not drop our enhanced Gibbet/Gallows buff.
 
-**When to use Harvest Moon in this Re-Opener:**
+**When to use Harvest Moon in this Opener:**
 
-* For this Re-Opener it doesn’t really matter when exactly you want to use Harvest Moon as there will not be any party buffs until the next time Thordan becomes untargetable. If you get an Astrologian Card, use it inside that window.
+* For this Opener it doesn’t really matter when exactly you want to use Harvest Moon as there will not be any party buffs until the next time Thordan becomes untargetable. If you get an Astrologian Card, use it inside that window.
 
 ### Re-Opener after Sanctity of the Ward: bursting
 
@@ -242,7 +242,7 @@ With faster kill times on the earlier phases, Gluttony can become somewhat of a 
 
 This Phase is a standard 100% melee uptime fight so there is nothing special about this Phase. It only really matters with how much gauge you enter this Phase. It will not affect your burst later on. When to use your Arcane Circle later depends on when your party wants to use their buffs.
 
-### 100/100 Re-Opener: with combo
+### 100/100 Opener: with combo
 
 ![Imgur](https://i.imgur.com/NEbckzF.png)
 
@@ -269,7 +269,7 @@ This Phase is a standard 100% melee uptime fight so there is nothing special abo
 * Cross Reaping > Lemure’s Slice
 * Communio
 
-### Notes for this Re-Opener:
+### Notes for this Opener:
 
 If we are combo neutral, we start with an Enshroud so we can get rid of our gauges without overcapping anything. After the Enshroud we should use Gluttony to keep it on cooldown. Use Soul Slice as soon as possible without overcapping on Soul gauge or it will overcap on charges. We will be able to use another Enshroud right afterward from all the Shroud gauge we get from the five Gibbet/Gallows we hit. Use this Enshroud and save the one afterward for the burst window.
 
@@ -303,7 +303,7 @@ Before I go into this, depending on the kill time for Thordan, when your group u
 
 ### Rotational tips for this Phase:
 
-* The Re-Opener after bursting on Phase Two is nothing special. Just hold Gluttony on cooldown.
+* The Opener after bursting on Phase Two is nothing special. Just hold Gluttony on cooldown.
 * If your group is not placing the **Second in Line** towers in max melee range, use Harvest moon for that instead. Otherwise use it if you are baiting the **Geirskogul** from the **Second in Line** tower.
 * If you're consistently entering your double Shroud Window after using Slice, you can use Harvest Moon somewhere before to enter your burst combo neutral and go for a normal double Shroud window.
 * Try to end this Phase with zero Soul Slice charges.
@@ -322,7 +322,7 @@ This is again a Phase with two targets. This Phase is pretty simple rotation wis
 * If you entered the Phase with an ongoing combo, continue it after Shadow of Death or it will probably expire.
 * Use Gluttony on cooldown. If you have a slower kill time, around 97-99 of the duty bar, you can use Gluttony twice in this Phase. If you end the Phase with Soul Reaver, save it for the Intermission and don't cast Soulsow.
 * If you have problems hitting the second Gluttony in this Phase due to the eyes dying too fast, try to enter the Phase with > 50 Soul gauge and instantly use Gluttony while still in the group stack and then do g/g. These will be unbuffed by Shadow of Death but it will still be a gain over losing the Gluttony.
-* The Re-Opener is more comfier with no Soul Slice charges but it is not a problem if you enter with one. Best case, you use it before Nidhogg dies and you enter with >50 Soul for Gluttony at the start.
+* The Opener is more comfier with no Soul Slice charges but it is not a problem if you enter with one. Best case, you use it before Nidhogg dies and you enter with >50 Soul for Gluttony at the start.
 * You can use one Enshroud anytime in this Phase. Save the second one you get for the Intermission. 
 * You can use Harvest Moon for when you have to go out of melee range to swap your tether out at the beginning.
 
@@ -387,7 +387,7 @@ The Intermission works pretty much the same as in Phase One. You just have to bu
 
 Phase Five is the other heavy downtime Phase in this encounter. You should enter this Phase with one Enshroud ready.
 
-### Re-Opener: before Wrath of the Heavens
+### Opener: before Wrath of the Heavens
 
 As your kill times on the earlier phases decide how you enter this Phase, I will again give some tips on what to keep track off before Thordan jumps away. If you enter this Phase with 80 Shroud gauge, use an Enshroud before **Wrath of the Heavens** as you would overcap on gauges. Otherwise, save the Enshroud and be careful not to overcap on your Shroud gauge.
 
@@ -493,9 +493,9 @@ For this Phase we will fight both again, Nidhogg and Hraesvelgr. This is a 100% 
 
 # Phase Seven: The Dragon King
 
-The final Phase in this whole encounter. This is a 100% uptime Phase where you may have to go out of melee range for one GCD for **Exaflare's Edge,** depending on which strat you do. You may enter this Phase with between 80-100 Shroud gauge and depending on this you may have to adjust some abilities in the following Re-Opener. If you entered this Phase with more than 80 Shroud Gauge you can use Enshroud twice and then save the third one for your two minute burst, similar to Phase Three.
+The final Phase in this whole encounter. This is a 100% uptime Phase where you may have to go out of melee range for one GCD for **Exaflare's Edge,** depending on which strat you do. You may enter this Phase with between 80-100 Shroud gauge and depending on this you may have to adjust some abilities in the following Opener. If you entered this Phase with more than 80 Shroud Gauge you can use Enshroud twice and then save the third one for your two minute burst, similar to Phase Three.
 
-### Re-Opener:
+### Opener:
 
 * Shadow of Death 
 * Soul Slice (Skip this if > 50 Soul gauge) > Unveiled Gibbet
@@ -510,7 +510,7 @@ The final Phase in this whole encounter. This is a 100% uptime Phase where you m
 * Soul Slice > Unveiled Gibbet
 * Gibbet
 
-\###Notes for this Re-Opener:
+\###Notes for this Opener:
 
 * If you Enshroud right after Shadow of Death then your Communio will line up right at the end of the **Exaflare's Edge** cast which is not a good or safe time to cast Communio. I would then advise to use Shadow of Death again so it happens after the first Exaflares dropped.
 * If you enter this Phase with less than 50 Soul gauge you can start with a Soul Slice after Shadow of Death
