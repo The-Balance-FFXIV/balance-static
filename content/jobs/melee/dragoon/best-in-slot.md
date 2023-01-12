@@ -69,6 +69,10 @@ bis:
     link: da1ae77a-3ff7-4c5e-8451-133205b63c29
 authors:
   - Balance-DRG-Staff
+tags:
+  - Dragoon
+  - BIS
+  - best-in-slot
 ---
 # Dragoon Best-in-Slot Lists
 
