@@ -28,7 +28,8 @@ qna:
       are delayed by 1 second every hardcast. On average, **hardcast Holy Spirit
       is equivalent to 320 potency**.
   - question: What GCD speed should I use?
-    answer: 2.50 is ideal (see the *Best-in-Slot* page)
+    answer: 2.50 is ideal (see the [Best-in-Slot](/jobs/tanks/paladin/best-in-slot)
+      page)
   - question: How do I play with a faster GCD speed?
     answer: "Weave **Fight or Flight** late in the GCD like so:
       ![:lateweave~1:](https://cdn.discordapp.com/emojis/918961425890816040.web\
