@@ -78,17 +78,17 @@ bis:
 
       * Suggested if you're currently progging the fight
     name: 322 DSR set
-    link: https://etro.gg/gearset/ec325832-c1d5-4120-839c-60f9576e23cc
+    link: ec325832-c1d5-4120-839c-60f9576e23cc
   - type: etro
     description: >-
-      **The piety requirements vary depending on your p7 strat for akh morns.
+      **The piety requirements vary depending on your P7 strat for akh morns.
       332 requires more GCD healing while 611 is laxer.**
 
 
       * If you use this set with 332 or you're unsure how to properly manage your mana you will oom. 
 
       * Suggested if you want to optimize after clearing
-    link: https://etro.gg/gearset/a4876dd0-8535-403d-b2bd-293e3663c400
+    link: a4876dd0-8535-403d-b2bd-293e3663c400
     name: 611 dsr set
 authors:
   - Balance-SCH-Staff
