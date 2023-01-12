@@ -2,7 +2,7 @@
 title: Reaper Skill Overview
 authors:
   - dook
-patch: "6.21"
+patch: "6.3"
 lastmod: 2022-11-03T02:49:13.686Z
 changelog:
   - date: 2022-01-04T20:37:59.400Z
@@ -13,6 +13,8 @@ changelog:
     message: Updated patch number
   - date: 2022-11-03T02:49:15.475Z
     message: 6.28 potency changes
+  - date: 2023-01-12T22:26:11.024Z
+    message: Updated patch number
 ---
 ## Single-Target Actions
 
