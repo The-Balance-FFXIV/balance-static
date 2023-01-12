@@ -1,13 +1,15 @@
 ---
 title: Dragoon Best in Slot (BiS)
 layout: bis
-patch: "6.2"
-lastmod: 2022-09-21T17:13:19.414Z
+patch: "6.3"
+lastmod: 2023-01-12T11:14:12.393Z
 changelog:
   - date: 2021-10-29T03:01:01.840Z
     message: Created page
   - date: 2022-09-21T17:29:39.621Z
     message: Updated all sets to patch 6.2. Added DSR BiS.
+  - date: 2023-01-12T11:14:13.412Z
+    message: Added new DSR sets
 bis:
   - type: etro
     description: >-
@@ -30,6 +32,21 @@ bis:
     name: Pentamelded Crafted
     link: b7c2b384-174f-49e8-813b-7bd1d91c7448
   - type: etro
+    description: Syncing gear is currently not a viable option for this fight due to
+      the massive loss of substats from materia.
+    name: DSR Relic BiS
+    link: bb9d14b8-fcb4-4f3b-b560-3ab79d1a550c
+  - type: etro
+    description: Syncing gear is currently not a viable option for this fight due to
+      the massive loss of substats from materia.
+    name: DSR Weapon BiS
+    link: 5b4391a1-bfb5-4cf6-91f2-d9fa4f1d4767
+  - type: etro
+    description: Syncing gear is currently not a viable option for this fight due to
+      the massive loss of substats from materia.
+    name: DSR Raid Weapon BiS
+    link: 21c96f1f-1cdb-4d68-b268-ef5fbcacd6c9
+  - type: etro
     description: Gear pieces with equal stats can be used instead of the listed i600
       pieces as long as they are above i595.
     name: TEA BiS
@@ -50,11 +67,6 @@ bis:
       Materia does not matter in synced gear.
     name: UWU BiS
     link: da1ae77a-3ff7-4c5e-8451-133205b63c29
-  - type: etro
-    description: Syncing gear is currently not a viable option for this fight due to
-      the massive loss of substats from materia.
-    name: DSR BiS
-    link: 8bdd42db-a318-41a0-8903-14efa5e0774b
 authors:
   - Balance-DRG-Staff
 ---
