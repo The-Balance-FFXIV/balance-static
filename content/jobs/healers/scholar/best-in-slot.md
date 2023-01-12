@@ -16,6 +16,8 @@ changelog:
     message: Added Sets for the TOP
   - date: 2023-01-11T02:57:03.989Z
     message: Temporarily deleted dsr set
+  - date: 2023-01-12T00:43:03.702Z
+    message: Added new DSR sets
 bis:
   - type: etro
     description: |2
@@ -66,6 +68,28 @@ bis:
       * 2.50
     name: 2.50 High Piety TOP set
     link: 76244ceb-8cec-49c9-898e-3e7610d6ccf6
+  - type: etro
+    description: >-
+      **The piety requirements vary depending on your p7 strat for akh morns.
+      332 requires more GCD healing while 611 is laxer.**
+
+
+      * A very good amount of piety for prog and a slow GCD to help conserve mp.
+
+      * Suggested if you're currently progging the fight
+    name: 322 DSR set
+    link: https://etro.gg/gearset/ec325832-c1d5-4120-839c-60f9576e23cc
+  - type: etro
+    description: >-
+      **The piety requirements vary depending on your p7 strat for akh morns.
+      332 requires more GCD healing while 611 is laxer.**
+
+
+      * If you use this set with 332 or you're unsure how to properly manage your mana you will oom. 
+
+      * Suggested if you want to optimize after clearing
+    link: https://etro.gg/gearset/a4876dd0-8535-403d-b2bd-293e3663c400
+    name: 611 dsr set
 authors:
   - Balance-SCH-Staff
 tags:
