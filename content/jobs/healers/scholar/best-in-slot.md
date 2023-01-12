@@ -2,7 +2,7 @@
 title: Scholar Best in Slot (BiS)
 layout: bis
 patch: "6.3"
-lastmod: 2023-01-11T03:02:51.183Z
+lastmod: 2023-01-12T00:47:37.636Z
 changelog:
   - date: 2021-10-26T23:42:52.063Z
     message: Article Created.
