@@ -2,7 +2,7 @@
 title: Scholar Best in Slot (BiS)
 layout: bis
 patch: "6.3"
-lastmod: 2023-01-11T03:02:51.183Z
+lastmod: 2023-01-12T00:47:37.636Z
 changelog:
   - date: 2021-10-26T23:42:52.063Z
     message: Article Created.
@@ -16,6 +16,8 @@ changelog:
     message: Added Sets for the TOP
   - date: 2023-01-11T02:57:03.989Z
     message: Temporarily deleted dsr set
+  - date: 2023-01-12T00:43:03.702Z
+    message: Added new DSR sets
 bis:
   - type: etro
     description: |2
@@ -51,7 +53,7 @@ bis:
     description: |-
       * safe to run
       * The next set has extra pieces for more piety if needed
-      * Terrible alignment but in ultimates that matters a little less.
+      * Terrible alignment but in ultimates, but that matters a little less.
       * 2.47
     name: 2.47 Mid Piety TOP set
     link: a91cf8ba-5ea1-4050-82c0-b90862a77ac0
@@ -66,8 +68,32 @@ bis:
       * 2.50
     name: 2.50 High Piety TOP set
     link: 76244ceb-8cec-49c9-898e-3e7610d6ccf6
+  - type: etro
+    description: >-
+      **The piety requirements vary depending on your P7 strat for Akh Morns.
+      332 requires more GCD healing while 611 is laxer.**
+
+
+      * A very good amount of piety for prog and a slow GCD to help conserve mana.
+
+      * Suggested if you're currently progging the fight
+    name: 322 DSR set
+    link: ec325832-c1d5-4120-839c-60f9576e23cc
+  - type: etro
+    description: >-
+      **The piety requirements vary depending on your P7 strat for Akh Morns.
+      332 requires more GCD healing while 611 is laxer.**
+
+
+      * If you use this set with 332 or if you're unsure how to properly manage your mana you will run out of mana. 
+
+      * Suggested if you want to optimize after clearing
+    link: a4876dd0-8535-403d-b2bd-293e3663c400
+    name: 611 dsr set
 authors:
   - Balance-SCH-Staff
 tags:
   - Scholar
+  - BIS
+  - Best-In-Slot
 ---
