@@ -45,8 +45,10 @@ bis:
     description: ""
     name: "Prog - 2.40 GCD: Sunset Nibbles"
     link: https://etro.gg/gearset/72da57ea-94e6-42f3-848a-950d28f4c3ce
-  - type: gsheets
-    description: Archive of old BIS sets from patch 6.11.
+  - type: sleepyshiba
+    description: |-
+      Archive of old BIS sets from patch 6.11.
+      https://pastebin.com/pDWaPnAh 
     name: Patch 6.11 Archival
     link: https://pastebin.com/pDWaPnAh
   - type: gsheets
