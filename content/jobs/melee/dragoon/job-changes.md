@@ -1,7 +1,7 @@
 ---
 title: Dragoon Changes
 layout: changes
-lastmod: 2022-09-21T20:47:10.288Z
+lastmod: 2023-01-12T11:09:03.547Z
 changes:
   - patch: "6.05"
     description: |-
@@ -59,6 +59,14 @@ changes:
 
       The recast timer of Jump and High Jump no longer affects the
       execution of Mirage Dive."
+  - patch: "6.3"
+    description: |
+      | Action          |  Adjustment                                  |
+      | --------------- |  ------------------------------------------- |
+      | Life Surge      |  Recast time has been reduced from 45 to 40 seconds. |
 authors:
   - Balance-DRG-Staff
+tags:
+  - Dragoon
+  - JobChanges
 ---
