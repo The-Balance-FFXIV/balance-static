@@ -14,6 +14,8 @@ changelog:
     message: Updated opener graphics
   - date: 2022-09-19T01:32:12.497Z
     message: Updated for 6.2
+  - date: 2023-01-12T19:47:24.201Z
+    message: Updated for 6.3
 tags:
   - Rotation
   - PaladinRotation
