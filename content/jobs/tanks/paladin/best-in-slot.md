@@ -32,6 +32,10 @@ bis:
       For high latency, use the 2.50 set.
     name: 2.42 Sunset Carrot Nibbles
     link: https://etro.gg/gearset/8361ed48-9503-449b-9e6c-f446dc8b0382
+  - type: sleepyshiba
+    description: Omit a Direct Hit meld on the weapon if you do not have it.
+    link: https://xiv.sleepyshiba.com/pld/sets/607dsr63.png
+    name: 2.50 Dragonsong's Reprise (Ultimate)
 authors:
   - Balance-PLD-Staff
   - nikroulah
