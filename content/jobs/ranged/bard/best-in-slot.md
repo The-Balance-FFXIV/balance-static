@@ -22,8 +22,8 @@ bis:
     link: 74dca178-9958-490c-a605-5a4fdb88f1ac
   - type: etro
     description: ""
-    name: i600 Dragonsong's Reprise Best In Slot
-    link: 252bdabf-9183-4bd0-9384-3033328852be
+    name: Dragonsong's Reprise (prog) Best In Slot
+    link: 384802e4-6112-4882-9670-5e332688713f
 authors:
   - Balance-BRD-Staff
 ---
