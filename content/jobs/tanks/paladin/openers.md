@@ -3,7 +3,7 @@ title: Paladin Openers
 authors:
   - Balance-PLD-Staff
   - nikroulah
-patch: "6.21"
+patch: "6.3"
 lastmod: 2022-09-19T01:47:29.624Z
 changelog:
   - date: 2021-10-27T17:21:23.427Z
@@ -12,20 +12,23 @@ changelog:
     message: Initial update for Endwalker
   - date: 2022-09-19T01:34:45.966Z
     message: Updated for 6.2 with slow rotation info
+  - date: 2023-01-12T19:51:26.453Z
+    message: Updated for 6.3
 ---
 # Paladin Openers
 
 Tanks currently use Grade 7 Tinctures of Strength 
 (Strength also affects tank magic potency, including healing).
 
-The choice of opener is encounter-specific and depends on factors such as when downtime happens, melee disengages and choice of strat, kill-times, etc. See the Encounter Optimization page (Coming Soon!) for encounter-specific optimization.
+## In-depth Opener and Rotation Graphic
 
-## In-depth Opener and Rotation Graphics
+![Paladin Slow GCD Opener and Rotation infographic](https://xiv.sleepyshiba.com/pld/img/63-v2.png?)
 
-### Slow GCD Rotation (new with 6.2, for 2.46 and slower GCD)
+## Alternative Rotations
 
-![Paladin Slow GCD Opener and Rotation infographic](https://xiv.sleepyshiba.com/pld/img/infoslow.png)
+These rotations drop Atonements or hardcast Holy Spirits to maintain a 1- or 2-minute loop. **Not recommended to use** — these are harder to learn and adjust, and there is practically 0 difference in DPS performance.
 
-### Fast GCD Rotation (legacy, for 2.45 and faster GCD)
+How to read: Execute the first line once, then keep repeating the entire loop section.
 
-![Paladin Fast GCD Opener and Rotation infographic](https://xiv.sleepyshiba.com/pld/img/info60.png)
+* 1-min loop: [https://xiv.sleepyshiba.com/pld/img/63-60stentative2.png](https://xiv.sleepyshiba.com/pld/img/63-60stentative2.png "https\://xiv.sleepyshiba.com/pld/img/63-60stentative2.png")
+* 2-min loop (2.50 GCD only): [https://xiv.sleepyshiba.com/pld/img/63-120stentative1.png](https://xiv.sleepyshiba.com/pld/img/63-120stentative1.png "https\://xiv.sleepyshiba.com/pld/img/63-120stentative1.png")
