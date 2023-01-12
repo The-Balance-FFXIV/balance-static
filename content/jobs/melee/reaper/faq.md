@@ -1,7 +1,7 @@
 ---
 title: Reaper FAQ
 layout: qna
-patch: "6.28"
+patch: "6.3"
 lastmod: 2023-01-03T22:49:17.427Z
 changelog:
   - date: 2021-12-04T04:55:35.452Z
