@@ -2,8 +2,8 @@
 title: Dragoon Skills Overview
 authors:
   - Balance-DRG-Staff
-patch: "6.2"
-lastmod: 2022-09-21T16:32:36.961Z
+patch: "6.3"
+lastmod: 2023-01-12T11:16:08.108Z
 changelog:
   - date: 2021-10-29T02:55:23.237Z
     message: Created page
@@ -15,6 +15,8 @@ changelog:
     message: Potencies updated
   - date: 2022-09-21T16:32:39.195Z
     message: Added level, fixed some outdated information
+  - date: 2023-01-12T11:15:50.656Z
+    message: Updated Life Surge according to 6.3 patch notes
 ---
 # Dragoon Skills Overview
 
@@ -67,7 +69,7 @@ All potencies assume level 90, meaning potency increases through traits are alre
 | ![Lance Charge](https://xivapi.com/i/000000/000309_hr1.png)         | Lance Charge                 | LC|30      | Increases damage dealt by 10% for 20s. 60s cooldown                                                                                                                               |
 | ![Dragon Sight](https://xivapi.com/i/002000/002587_hr1.png)         | Dragon Sight                 | DS|66      | Increases own damage dealt by 10% and the damage dealt by a specified target within 12y by 5% for 20s. 120s cooldown. Refer to the Basic Guide for tips on how to use this.       |
 | ![Battle Litany](https://xivapi.com/i/002000/002585_hr1.png)        | Battle Litany                | BL|52      | Increases the Critical Hit Rate by self and party members within 15y by 10% for 15s. 120s cooldown.                                                                               |
-| ![Life Surge](https://xivapi.com/i/000000/000304_hr1.png)           | Life Surge                   | LS |6     | Guarantees a Critical Hit on the next Global Cooldown Action within 5s. 45s cooldown. Also works on AoE actions. Absorbs 10% of the damage dealt from the buffed action as own HP. Gains a second charge at level 88. |
+| ![Life Surge](https://xivapi.com/i/000000/000304_hr1.png)           | Life Surge                   | LS |6     | Guarantees a Critical Hit on the next Global Cooldown Action within 5s. 40s cooldown. Also works on AoE actions. Absorbs 10% of the damage dealt from the buffed action as own HP. Gains a second charge at level 88. |
 | ![Tincture of Strength](https://xivapi.com/i/020000/020710_hr1.png) | Current Tincture of Strength | Pot| \-     | Increases Strength by 10% for 30s. 270s cooldown.                                                                                                                                 |
 
 ## Role Actions
