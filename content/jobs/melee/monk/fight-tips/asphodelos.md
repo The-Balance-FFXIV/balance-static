@@ -8,6 +8,8 @@ lastmod: 2022-04-10T17:43:26.107Z
 changelog:
   - date: 2022-04-12T06:09:38.045Z
     message: Added guide.
+  - date: 2023-01-13T23:17:42.584Z
+    message: Added more visuals infographics
 ---
 Hello, Monks. Welcome to the encounter guide for the first tier of Endwalker.
 
@@ -39,7 +41,7 @@ It allows us to burst before Limit Cut with your team (they have to do it too) a
 
 Due to the numbers of downtime on this fight, we will have an early PB in the opener, making us doing Solar Lunar. Either you follow it like a Double Solar opener, but with a Lunar Nadi for second Blitz, or you have the Peepo Smilers(tm) opener you can see under making us gain one Opo:
 
-![](https://lh5.googleusercontent.com/Ai89BALV1rOZ4LS5Tw1OK19sovmcnKyyaVTc2WwQMzLN3dgVMOji_qVPdpf5PQ_JytpmMNcXu_N1-uWnLi2Nzb8582ian3k02V8IMuIeuNp-tmcCTVoeFDGk55Z-3V6N4fIAnpK5 "Solar Lunar Opener in P2S")
+![](/img/solar-lunar.png "Solar Lunar Opener in P2S")
 
 &nbsp;
 
@@ -96,7 +98,11 @@ For this fight you will prepot -5s and do Lunar Solar opener as it’s more dama
 
 Double Lunar rotation is used in this fight for the sweet one minute burst being a Rising Phoenix, it will be aligned for the orbs, so you will simply press Rising Phoenix and hit the boss, plus both orbs, which optimize the damage dealt to both.
 
-The opener should look like this :![](https://lh6.googleusercontent.com/ODmV_z4t4KLSzHxiWHrv0xNKBgPLEAckF6wx4SEfsxWR_WArwsHh30_4itgpdg2J4Gny_wyEkjT8KIsp_pdAnigHuA-RlSk8X7Ro3nSpYpvuSugrk5XCN6LdDcGQ6CD8B4QkbFK0)
+The opener should look like this :
+
+![](/img/double-lunar.png "Double Lunar")
+
+
 
 RoF is weaved late because like all the Double Lunar we play it as a RoF + BH Two window, this will allow us to refresh buffs between both Blitz.
 
@@ -132,7 +138,7 @@ I will quote Perfect Balance guides for this section as it’s easily understand
 
 For P3S it will be at the same moment you press RoF, four GCDs after. See the sheet below:
 
-![](https://lh3.googleusercontent.com/PUKgrrUoj96JzQingjrik0Qln1A1U8cr_hpYln8rqVKGhjxwRMyfB5xGv0YjbhNPHOGESOXlYgGDOTRfRN3BqeUgpciakLFcxhTsTI23pC1I2EbsgbOy4oP9j7t28d_aE3j_lYXf "Sheet Reopener P3S")
+![](/img/triple-blitz.png "Triple Blitz P3S")
 
 &nbsp;
 
