@@ -4,13 +4,16 @@ card_header_image: /img/jobs/mch/advanced.png
 authors:
   - hint
   - Balance-MCH-Staff
-patch: "6.2"
-lastmod: 2022-09-20T23:30:17.792Z
+patch: "6.3"
+lastmod: 2023-01-14T19:57:50.174Z
 changelog:
   - date: 2022-04-13T08:10:50.487Z
     message: Guide published.
   - date: 2022-09-20T23:30:23.414Z
     message: Updated to reflect the new Crit / DH formulas in patch 6.2.
+  - date: 2023-01-14T19:57:55.740Z
+    message: Updated math for patch 6.3, replaced WF > HC with HC > WF, and added a
+      new tip about using GCDs during HC.
 tags:
   - Machinist
   - MCH
@@ -137,23 +140,26 @@ Note that if your kill time isn't within any of the above ranges, that doesn't n
 At a 2.50 GCD with full uptime, **Wildfire**'s cooldown loops cleanly over our GCD rotation and we can effectively follow the same pattern for weaving **Wildfire** as we did in the opener every two minutes. However, if there's awkward downtime or you need to hold **Wildfire** for delayed burst, you might need to weave **Wildfire** differently to get it
 on cooldown at the right time without interfering with your GCD rotation. Below are the most common options:
 
-## WF > HC
+## HC > WF
 
-The standard and most ping-friendly **Wildfire** setup. 
+The standard and most ping-friendly **Wildfire** setup.
+![HC > WF](https://i.imgur.com/mQrevVY.png)
 
-![WF > HC](https://i.imgur.com/AI9YFak.png)
+Clipping tolerance: **1.7s** (**1.3s** if you end on a tool GCD).
 
 ## WF > GCD > HC
 
 If you need to weave **Wildfire** before a tool GCD, use this setup.
-
 ![WF > GCD > HC](https://i.imgur.com/sjBViLP.png)
+
+Clipping tolerance: **0.7s**.
 
 ## HC > HB > WF
 
-This one exists too.
-
+This setup exists in case you need to drift **Wildfire** back.
 ![HC > HB > WF](https://i.imgur.com/j2KijBX.png)
+
+Clipping tolerance: **0.7s** (**0.3s** if you need to end on a tool GCD).
 
 # Opener Optimization
 
@@ -201,7 +207,7 @@ under raid buffs. The second charge can then be used on the **Drill** which foll
 ## Secondary Hypercharges
 
 You may recall from the [Basic Guide](https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/) that
-we intentionally use three consecutive combo GCDs in the opener to allow for a **Hypercharge** to fit in subsequent
+the general purpose opener intentionally uses three consecutive combo GCDs in the opener to allow for a **Hypercharge** to fit in subsequent
 burst windows. When optimizing your opener you should consider the placement of these secondary **Hypercharge** windows
 since they increase the amount of potency we can fit into raid buffs.
 
@@ -218,7 +224,7 @@ which you may find useful (feel free to rearrange the order of the tool GCDs as 
 In situations where you can safely drift all three tools without losing any uses, this variant is great for
 maximizing buff alignment. 
 
-![Delayed Tools](https://i.imgur.com/x0Ah7a2.png "Delayed Tools")
+![Delayed Tools]( "Delayed Tools")
 
 ### Fast
 
@@ -306,7 +312,7 @@ normalization factor is **89%** meaning the equivalent player potency is about *
 number by the 100 gauge spent to conclude that Battery is worth **23.67 PPG**.
 
 This value is useful for evaluating the actions which generate gauge in the first place. **Drill** and **Air Anchor**
-are both 580p, but **Air Anchor** generates 20 Battery which we now know is worth **473.4 potency** (23.67 * 20)
+are both 600p, but **Air Anchor** generates 20 Battery which we now know is worth **473.4 potency** (23.67 * 20)
 assuming we can spend it before the fight ends.
 
 ## Heat
@@ -316,12 +322,12 @@ more complicated than evaluating Battery. To properly evaluate Heat we need to s
 which our **Hypercharge** Combo replaces, which will almost always be a full Heated Combo (single target) or three
 **Scatterguns** (AoE). Since these actions all generate Heat themselves, we have to define Heat's effective potency recursively!
 
-In single target, the full equation for evaluating Heat (i.e. *x*) is as follows: 
+In single target, the full equation for evaluating Heat (denoted here as *x*) is as follows: 
 
 {{< codeblock >}}
 x = (Heat Blast Combo potency - Heated Combo potency) / (Heat cost of Hypercharge)
-x = (200*5 + 120*2.5 + 120*2.5 - (200 + 280 + 360 + 15x + 10*23.67)) / 50
-x = 8.05{{< /codeblock >}}
+x = (220*5 + 130*2.5 + 130*2.5 - (200 + 300 + 380 + 15x + 10*23.67)) / 50
+x = 9.74{{< /codeblock >}}
 
 &nbsp;
 
@@ -331,8 +337,8 @@ Below is the value of Heat from 1-6 targets:
 
 | Targets | Hypercharge Combo | Filler Replacement | PPG  |
 | ------- | ----------------- | ------------------ | ---- |
-| 1       | Heat Blast        | Combo              | 8.05 |
-| 2       | Heat Blast        | Combo              | 10.4 |
+| 1       | Heat Blast        | Combo              | 9.74 |
+| 2       | Heat Blast        | Combo              | 12.2 |
 | 3       | Auto Crossbow     | Scattergun         | 9.38 |
 | 4       | Auto Crossbow     | Scattergun         | 12.5 |
 | 5       | Auto Crossbow     | Scattergun         | 15.6 |
@@ -351,14 +357,11 @@ is to add up the direct potency, Heat PPG, and Battery PPG for each action:
 | Action | Direct Potency | Heat  | Battery | Total  |
 | ------ | -------------- | ----- | ------- | ------ |
 | Split  | 200            | 40.25 | 0       | 240.25 |
-| Slug   | 280            | 40.25 | 0       | 320.25 |
-| Clean  | 360            | 40.25 | 236.7   | 636.95 |
-| Avg.   | 280            | 40.25 | 78.9    | 399.15 |
+| Slug   | 300            | 40.25 | 0       | 340.25 |
+| Clean  | 380            | 40.25 | 236.7   | 656.95 |
+| Avg.   | 293.3          | 40.25 | 78.9    | 412.48 |
 
 &nbsp;
-
-Here we can observe that **Heated Clean Shot's potency is nearly double Heated Slug Shot's** assuming
-the respective gauges can be spent before the end of the fight. 
 
 ## Tools
 
@@ -368,15 +371,15 @@ effective potency of each action (in the average case):
 
 | Action     | Direct Potency | Battery | Replacement | Total |
 | ---------- | -------------- | ------- | ----------- | ----- |
-| Drill      | 580            | 0       | \-399.15    | 180.9 |
-| Air Anchor | 580            | 473.4   | \-399.15    | 654.3 |
-| Chain Saw  | 580            | 473.4   | \-399.15    | 654.3 |
+| Drill      | 600            | 0       | \-412.48    | 187.5 |
+| Air Anchor | 600            | 473.4   | \-412.48    | 660.9 |
+| Chain Saw  | 600            | 473.4   | \-412.48    | 660.9 |
 
 &nbsp;
 
 Note that since **Drill** does not generate any gauge, it's actually a fairly weak effective potency gain.
-If we analyze each single target Tool in terms of their cooldowns, we quickly see that **Air Anchor generates the 
-highest PPS of the three** (`654.3 / 40 > 180.9 / 20`). 
+If we analyze each single target tool in terms of their cooldowns, we quickly see that **Air Anchor generates the 
+highest PPS of the three** (`660.9 / 40 > 187.5 / 20`). 
 This is why we choose to use **Air Anchor** as our first GCD in the general opener!
 
 It's important to keep track of context when comparing these numbers. For example, if we're in the "post-battery" phase
@@ -435,18 +438,19 @@ DH rate = 35.4%
 crit buffs = 0%
 DH buffs = 0%
 
-Drill ePotency = 580 * (1 + (crit modifier - 1) * crit rate) * (1 + (0.25 * DH rate))
-Drill ePotency = 580 * (1 + (1.581 - 1) * 0.231) * (1 + (0.25 * 0.354))
-Drill ePotency = 716p
+Drill ePotency = 600 * (1 + (crit modifier - 1) * crit rate) * (1 + (0.25 * DH rate))
+Drill ePotency = 600 * (1 + (1.581 - 1) * 0.231) * (1 + (0.25 * 0.354))
+Drill ePotency = 740.7p
 
-Reassembled Drill ePotency = 580 * 1.25 * crit modifier * (1 + (buff crit rate * (crit modifier - 1)) * (1 + ((DH rate + buff DH rate) * 0.25))
-Reassembled Drill ePotency = 580 * 1.25 * 1.581 * (1 + (0 * (1.581 - 1))) * (1 + ((0.354 + 0) * 0.25))
-Reassembled Drill ePotency = 1248p{{< /codeblock >}}
+Reassembled Drill ePotency = 600 * 1.25 * crit modifier * (1 + (buff crit rate * (crit modifier - 1)) * (1 + ((DH rate + buff DH rate) * 0.25))
+Reassembled Drill ePotency = 600 * 1.25 * 1.581 * (1 + (0 * (1.581 - 1))) * (1 + ((0.354 + 0) * 0.25))
+Reassembled Drill ePotency = 1290.7p
+{{< /codeblock >}}
 
 &nbsp;
 
-As we can see, **Reassemble** adds **532 ePotency** (1248 - 716) to the tool it buffs in this scenario. Of course,
-this number will change depending on your exact crit and DH stats as well as the buffs you have up. As of patch 6.2, we always want to align **Reassemble** with as many buffs as possible if we can avoid losing a use.
+As we can see, **Reassemble** adds **550 ePotency** (1290.7 - 740.7) to the tool it buffs in this scenario. Of course,
+this number will change depending on your exact crit and DH stats as well as the buffs you have up. We always want to align **Reassemble** with as many buffs as possible if we can avoid losing a use.
 
 # Graduate Studies: Substat Theory
 
@@ -488,9 +492,20 @@ or simulator. When in doubt, [just sim it](https://docs.google.com/spreadsheets/
 
 # Graduate Studies: The Machinist's Toolbelt
 
-As a Machinist, you have a variety of miscellaneous optimization "tools" available to you in your "toolbelt" (please laugh). 
+As a Machinist, you have a variety of miscellaneous optimization tricks available to you.
 We'll cover each one briefly, but ultimately it's up to you to find the best places to apply them in a given encounter.
 If you've made it this far in the guide you should have no problem with that!
+
+## Mid-HC AoE GCDs
+
+Since **Hypercharge** stacks are only consumed by single-target GCDs, you can actually use certain AoE GCDs like
+**Chain Saw** or **Bioblaster** during **Hypercharge** and still get all 5 stacks off. Since **Chain Saw** is gainfully
+used on single targets, you may find situations where this tech is useful. For example:
+
+* **Chain Saw** will be off cooldown in less than 8 seconds, but you're about to overcap Heat. In this case just use **Hypercharge** and fit **Chain Saw** in as it comes up.
+* You need an extra weave slot to get off all charges of **Ricochet** and **Gauss Round** during burst. In this case you can pull **Chain Saw** into your **Hypercharge** window (e.g. use it on the 4th GCD in your opener) and now you've got an extra weave slot.
+
+Note that you will need to micro-drift your **Chain Saw** cooldown because it does not evenly align with 1.5s recast GCDs.
 
 ## Ricochet Pooling
 
@@ -500,18 +515,6 @@ but it's an easy 60 extra potency per target per charge of **Ricochet**. Due to 
 the enemies will need to be stacked quite close to each other to take advantage of Ricochet's cleave.
 
 **Tip: distance is calculated from the center of your target's hitbox to the edge of the hitboxes of other enemies**.
-
-## 7-GCD Wildfire
-
-Thanks to FFXIV's spaghetti code, there's a tech that uses the game's delayed damage propagation of AoE actions
-coupled with Machinist's long damage delays on certain actions to land a sneaky 7th GCD under **Wildfire**:
-
-1. Position yourself so that your desired **Wildfire** target is the furthest enemy (i.e. other enemies are between you and the target).
-2. Use an AoE GCD.
-3. Immediately apply **Wildfire** to your target.
-
-This tech has been confirmed to work with as few as **two targets (Scattergun)** or **four targets (Chain Saw, Bioblaster)**. The higher your
-ping is, the more targets you'll need in order to delay the GCD damage into the **Wildfire** debuff. 
 
 ## Flamethrower Buff Extension
 
