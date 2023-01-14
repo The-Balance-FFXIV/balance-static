@@ -12,6 +12,9 @@ changelog:
     message: Updated patch number
   - date: 2023-01-12T22:24:57.601Z
     message: Updated patch number
+tags:
+  - Reaper
+  - guide
 ---
 # Basic Reaper Guide
 
