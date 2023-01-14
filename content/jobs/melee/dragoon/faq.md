@@ -85,6 +85,9 @@ qna:
       When extending to three targets, if they're all within range, you actually want to swap to your AoE rotation (Draconian Fury / Sonic Thrust / Coerthan Torment) and use Life Surge on Coerthan Torment.
 authors:
   - Balance-DRG-Staff
+tags:
+  - Dragoon
+  - faq
 ---
 # Frequently Asked Questions
 
