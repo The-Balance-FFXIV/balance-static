@@ -1,8 +1,8 @@
 ---
 title: Dragoon FAQ
 layout: qna
-patch: "6.2"
-lastmod: 2022-09-21T17:12:08.365Z
+patch: "6.3"
+lastmod: 2023-01-14T17:23:09.413Z
 changelog:
   - date: 2021-10-29T02:57:06.403Z
     message: Created page
@@ -10,6 +10,8 @@ changelog:
     message: Updated for Endwalker.
   - date: 2022-09-21T17:12:09.451Z
     message: Editorial changes and updates
+  - date: 2023-01-14T17:23:10.219Z
+    message: Updated Dragon Sight Priority graphic
 qna:
   - question: How do Raiden Thrust and Draconian Fury work?
     answer: Raiden Thrust is an upgraded True Thrust and Draconian Fury is an
