@@ -32,6 +32,11 @@ changelog:
     message: Modified the wording under Damage Delay Section
   - date: 2023-01-12T22:28:35.240Z
     message: Updated patch number
+tags:
+  - Reaper
+  - optimization
+  - advanced
+  - guide
 ---
 ## Reaper Advanced Rotational Theory
 
