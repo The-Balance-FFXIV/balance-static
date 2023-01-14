@@ -37,7 +37,7 @@ qna:
       minute buff windows is:
 
 
-      ![](https://i.imgur.com/97rARed.png)
+      ![](https://cdn.discordapp.com/attachments/610019474673762347/1063464157552332880/DRG_6.3_Dragon_Sight_v1.02_Blue.png)
 
 
       In a static group, on initial pulls of the fight while learning, prioritize in the same way as above. After you have a few pulls, filter a series of FFLogs parses from your group through <https:///tethercalc.com/> to get specific answers for each tether for your particular group on that particular fight.
