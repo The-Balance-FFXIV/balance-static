@@ -224,7 +224,7 @@ which you may find useful (feel free to rearrange the order of the tool GCDs as 
 In situations where you can safely drift all three tools without losing any uses, this variant is great for
 maximizing buff alignment. 
 
-![Delayed Tools]( "Delayed Tools")
+![Delayed Tools](https://i.imgur.com/x0Ah7a2.png "Delayed Tools")
 
 ### Fast
 
