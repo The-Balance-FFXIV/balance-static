@@ -1,7 +1,7 @@
 ---
 title: Sage FAQ
 layout: qna
-patch: "6.2"
+patch: "6.3"
 lastmod: 2022-09-18T06:37:30.688Z
 changelog:
   - date: 2022-02-13T03:57:41.295Z
@@ -27,13 +27,14 @@ qna:
 
       ![](https://cdn.discordapp.com/attachments/756684559831269426/942157543432667146/shields_between_sage_and_scholar.jpg)
   - question: How do I fit Phlegma into 2-minute buffs?
-    answer: "\r
-
-      [This spreadsheet by
-      Aeya](https://docs.google.com/spreadsheets/d/1q3ZU_fY2fUYxpp-hfOUaxgIuUUs\
-      9HcYKXHxyR9BgkPM/edit?usp=sharing) should give you an idea on how your 45s
-      cooldown works with buff windows. Be aware fitting in your second Phlegma
-      in 2-minute buff windows is really tight."
+    answer: "\rNow that the cooldown has been reduced from 45 seconds to 40 seconds
+      in patch 6.3, fitting Phlegma into buffs is easy. Every two minutes,
+      you'll receive three charges total. This allows you to put two of them
+      into buffs, and use the third outside of buffs. Assuming your party is
+      doing a normal opener and bursting every two minutes thereafter, you would
+      use your first two charges as soon as raid buffs go up. The third charge
+      is free to use anywhere from 0:40 to 2:00, and then you'll have two
+      charges available at the next two minute window."
 authors:
   - Balance-SGE-Staff
 ---
