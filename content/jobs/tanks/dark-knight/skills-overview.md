@@ -11,6 +11,8 @@ changelog:
     message: Added
   - date: 2022-09-19T08:06:03.396Z
     message: Updated skills to reflect 6.2.
+  - date: 2023-01-18T23:05:52.694Z
+    message: Updated Grit for 6.3
 ---
 # Dark Knight Skills Overview
 
