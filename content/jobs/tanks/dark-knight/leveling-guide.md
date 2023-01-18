@@ -4,7 +4,7 @@ card_header_image: /img/jobs/drk/leveling.png
 authors:
   - apileofcats
   - silaqui-amakiir
-patch: "6.21"
+patch: "6.3"
 lastmod: 2022-09-20T23:45:21.739Z
 changelog:
   - date: 2021-10-27T17:23:27.257Z
