@@ -16,6 +16,16 @@ changelog:
     message: updated DSR/TOP set
 bis:
   - type: etro
+    description: This set is identical to the 6.2 Mid-Piety Set but swaps most of
+      the DH melds to Det.
+    link: https://etro.gg/gearset/00e98ace-9cc5-4f97-b8ae-c4dd6980f4ea
+    name: Mid-Piety TOP prog set
+  - type: etro
+    description: This set swaps tome gloves for raid gloves for a bit more piety and
+      a bit slower GCD.
+    name: High-Piety TOP prog set
+    link: https://etro.gg/gearset/9b228909-1959-41e8-a416-bc5dc112cbf2
+  - type: etro
     description: This is the slowest of the 3 Min-Piety BiS sets, its higher GCD may
       be more comfortable for those on higher ping. This set also has the
       highest DHit for those looking to farm Crit/DHit runs. Unlike the other
@@ -116,11 +126,6 @@ bis:
       6pd7eX8IC6u3LgtuM/edit#gid=422994635)."
     name: Gear Calc
     link: https://docs.google.com/spreadsheets/d/e/2PACX-1vQcnOrmuOQq7HoMIfiJZwdY9GuUCUGD1BmFaHWpSWupXVUkHvOxWrCWExav6CAFhNrJ_7-dEMcc-MAP/pubhtml
-  - type: etro
-    description: This set is identical to the 6.2 Mid-Piety Set but swaps most of
-      the DH melds to Det.
-    link: https://etro.gg/gearset/00e98ace-9cc5-4f97-b8ae-c4dd6980f4ea
-    name: Mid-Piety TOP prog set
 authors:
   - Balance-WHM-Staff
 ---
