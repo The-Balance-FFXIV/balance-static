@@ -2,13 +2,15 @@
 title: Scholar Openers
 authors:
   - Balance-SCH-Staff
-patch: "6.2"
-lastmod: 2022-02-14T05:22:06.216Z
+patch: "6.3"
+lastmod: 2023-01-19T16:46:05.491Z
 changelog:
   - date: 2021-10-27T00:14:33.377Z
     message: Article Created.
   - date: 2022-02-14T05:22:07.470Z
     message: Updated for Endwalker
+  - date: 2023-01-19T16:46:06.099Z
+    message: Patch Update 6.3
 ---
 **Remember that the exact ability usage in these openers is not strict.** If you need to use a heal in the opener or hold an AF stack for later healing do so. This is the ability usage you'd do on a dummy, but not every fight allows for it.
 
