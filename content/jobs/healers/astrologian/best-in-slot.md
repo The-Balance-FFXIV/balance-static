@@ -10,6 +10,8 @@ changelog:
     message: Updated for Endwalker
   - date: 2022-09-17T22:46:47.690Z
     message: Updated for 6.2
+  - date: 2023-01-19T04:55:44.909Z
+    message: Updated DSR sets
 bis:
   - type: etro
     description: >-
