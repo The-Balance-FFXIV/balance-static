@@ -4,8 +4,8 @@ authors:
   - Balance-DRK-Staff
   - silaqui-amakiir
   - athunin
-patch: "6.21"
-lastmod: 2022-09-21T00:09:58.138Z
+patch: "6.3"
+lastmod: 2023-01-19T04:46:20.045Z
 changelog:
   - date: 2021-10-27T17:35:21.786Z
     message: Added
