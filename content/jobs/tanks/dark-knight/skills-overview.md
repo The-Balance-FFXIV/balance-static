@@ -4,8 +4,8 @@ authors:
   - nikroulah
   - dook
   - silaqui-amakiir
-patch: "6.21"
-lastmod: 2021-10-27T17:34:19.148Z
+patch: "6.3"
+lastmod: 2023-01-19T04:44:21.471Z
 changelog:
   - date: 2021-10-27T17:34:49.525Z
     message: Added
