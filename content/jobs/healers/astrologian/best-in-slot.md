@@ -1,8 +1,8 @@
 ---
 title: Astrologian Best in Slot (BiS)
 layout: bis
-patch: "6.2"
-lastmod: 2022-09-17T22:46:41.890Z
+patch: "6.3"
+lastmod: 2023-01-19T04:55:35.842Z
 changelog:
   - date: 2021-10-26T21:05:27.755Z
     message: Article Created.
