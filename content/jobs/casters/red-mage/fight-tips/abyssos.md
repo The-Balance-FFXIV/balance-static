@@ -1,5 +1,7 @@
 ---
 title: "Abyssos "
+authors:
+  - Balance-RDM-Staff
 patch: "6.3"
 lastmod: 2023-01-19T18:05:25.771Z
 changelog:
