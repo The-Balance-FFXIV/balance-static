@@ -1,11 +1,13 @@
 ---
 title: White Mage Stat Priority
-patch: "5.58"
-lastmod: 2021-10-27T00:54:54.098Z
+patch: "6.3"
+lastmod: 2023-01-19T16:37:11.068Z
 changelog:
   - date: 2021-10-27T00:54:56.938Z
     message: Article Created
-priority: Magic Damage >> Mind >> Crit > DHit/Det > SpS
+  - date: 2023-01-19T16:37:04.397Z
+    message: Updated to 6.3
+priority: Magic Damage >> Mind >> Crit > SpS to GCD tier > DHit/Det
 authors:
   - pyre
 ---
