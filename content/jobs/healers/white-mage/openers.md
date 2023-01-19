@@ -2,13 +2,15 @@
 title: White Mage Openers
 authors:
   - Balance-WHM-Staff
-patch: "6.21"
-lastmod: 2022-09-26T04:02:14.711Z
+patch: "6.3"
+lastmod: 2023-01-19T16:35:15.080Z
 changelog:
   - date: 2021-10-27T01:10:24.558Z
     message: Article Created.
   - date: 2022-02-14T04:57:55.417Z
     message: Updated for Endwalker
+  - date: 2023-01-19T16:35:18.835Z
+    message: Confirmed for 6.3
 ---
 # Standard Opener
 
