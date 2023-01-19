@@ -1,8 +1,8 @@
 ---
 title: White Mage Best in Slot (BiS)
 layout: bis
-patch: "6.2"
-lastmod: 2022-09-17T21:01:18.551Z
+patch: "6.3"
+lastmod: 2023-01-19T04:56:41.419Z
 changelog:
   - date: 2021-10-27T00:19:11.972Z
     message: Article Created.
@@ -12,6 +12,8 @@ changelog:
     message: Added DSWU sets
   - date: 2022-04-14T01:50:49.898Z
     message: Updated 6.1 sets
+  - date: 2023-01-19T04:56:31.660Z
+    message: updated DSR set
 bis:
   - type: etro
     description: This is the slowest of the 3 Min-Piety BiS sets, its higher GCD may
