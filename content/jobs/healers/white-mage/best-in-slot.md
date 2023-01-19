@@ -52,15 +52,19 @@ bis:
     name: 2.44 GCD Mid-Piety
     link: https://etro.gg/gearset/e2fc82de-9629-48fd-ad46-5b13be00aaba
   - type: etro
-    description: This set sacrifices some piety for damage but should still provide
-      enough MP to cover most prog situations.
-    name: 2.50 Mid Piety set DSWU set
-    link: https://etro.gg/gearset/72f8759c-50e4-4943-a8a0-87cda1f7b5ee
+    description: This is a higher piety set aimed for people progging for the first
+      time especially if you are running the 233 P& strat which requires
+      substantially more GCD healing. This set also gives more wiggle room for
+      raises. You can addd or remove piety melds as you progress, or look to one
+      of the higher damage sets.
+    name: 2.50 High Piety set DSWU set
+    link: " https://etro.gg/gearset/1e73eb3d-b0d7-4f4f-a54c-f4fe5fc2a8ad"
   - type: etro
-    description: This set provides a ton of extra MP for raises and GCD heals, you
-      cannot go wrong with this set.
-    name: 2.50 High piety set DSWU set
-    link: https://etro.gg/gearset/af94f623-6956-475f-b7c5-de2f5bd6d47e
+    description: This is a higher damage set mostly aimed at people running the 611
+      P7 strategy or for reclears. This set should be avoided if you are
+      progging and using a 233 P& strat.
+    name: 2.50 Low piety set DSWU set
+    link: https://etro.gg/gearset/57e81486-cd1b-4b47-8307-c060539faca3
   - type: etro
     description: >-
       ## TEA Prog set (linked)
