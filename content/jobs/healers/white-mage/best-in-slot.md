@@ -13,7 +13,7 @@ changelog:
   - date: 2022-04-14T01:50:49.898Z
     message: Updated 6.1 sets
   - date: 2023-01-19T04:56:31.660Z
-    message: updated DSR set
+    message: updated DSR/TOP set
 bis:
   - type: etro
     description: This is the slowest of the 3 Min-Piety BiS sets, its higher GCD may
@@ -116,6 +116,11 @@ bis:
       6pd7eX8IC6u3LgtuM/edit#gid=422994635)."
     name: Gear Calc
     link: https://docs.google.com/spreadsheets/d/e/2PACX-1vQcnOrmuOQq7HoMIfiJZwdY9GuUCUGD1BmFaHWpSWupXVUkHvOxWrCWExav6CAFhNrJ_7-dEMcc-MAP/pubhtml
+  - type: etro
+    description: This set is identical to the 6.2 Mid-Piety Set but swaps most of
+      the DH melds to Det.
+    link: https://etro.gg/gearset/00e98ace-9cc5-4f97-b8ae-c4dd6980f4ea
+    name: Mid-Piety TOP prog set
 authors:
   - Balance-WHM-Staff
 ---
