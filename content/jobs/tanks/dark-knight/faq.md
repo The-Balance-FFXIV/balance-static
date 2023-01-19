@@ -2,7 +2,7 @@
 title: Dark Knight FAQ
 layout: qna
 patch: "6.3"
-lastmod: 2022-09-20T23:54:16.893Z
+lastmod: 2023-01-19T04:45:38.945Z
 changelog:
   - date: 2021-10-27T17:50:54.106Z
     message: Added
@@ -10,6 +10,8 @@ changelog:
     message: Updated FAQ for 6.01
   - date: 2022-09-19T08:10:08.008Z
     message: FAQ updated for 6.21
+  - date: 2023-01-19T04:45:43.180Z
+    message: Updated for 6.3
 qna:
   - question: How do I spend my MP?
     answer: >-
