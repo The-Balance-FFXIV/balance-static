@@ -71,6 +71,16 @@ bis:
       This set should not have any mana issues at all in any situation, barring extreme examples.
     name: Crit Scales Copium
     link: https://etro.gg/gearset/533e13de-7ce4-4183-9304-3cfa2b7a92b5
+  - type: etro
+    description: This set is for if you're progging the fight it'll help recover any
+      major mistakes.
+    name: DSR progging set
+    link: " https://etro.gg/gearset/23747f65-9353-4477-ba13-b4a04e32d584"
+  - type: etro
+    description: This set is for people who have cleared and want to do more
+      optimiation. Avoid this set if you're progging and using a 322 p7 strat.
+    name: DSR 611 opti set
+    link: " https://etro.gg/gearset/a8ad0cdd-7267-4a8c-aeee-5978e5843e53"
 authors:
   - Ahriqi
 ---
