@@ -3,13 +3,15 @@ title: Scholar Skills Overview
 authors:
   - tealjaker
   - potato
-patch: "6.2"
-lastmod: 2022-04-11T20:01:04.710Z
+patch: 6.e
+lastmod: 2023-01-19T16:45:28.969Z
 changelog:
   - date: 2021-10-26T21:37:23.610Z
     message: Article Created.
   - date: 2022-03-08T16:38:31.778Z
     message: Updated for Endwalker
+  - date: 2023-01-19T16:45:29.795Z
+    message: Patch update 6.3
 ---
 # Notable Endwalker Changes
 
