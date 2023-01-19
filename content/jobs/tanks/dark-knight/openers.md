@@ -4,8 +4,8 @@ authors:
   - Balance-DRK-Staff
   - silaqui-amakiir
   - athunin
-patch: "6.21"
-lastmod: 2022-09-21T00:09:58.138Z
+patch: "6.3"
+lastmod: 2023-01-19T04:46:20.045Z
 changelog:
   - date: 2021-10-27T17:35:21.786Z
     message: Added
@@ -13,6 +13,8 @@ changelog:
     message: Updated for 6.01. Non-standard opener images are still placeholders.
   - date: 2022-09-19T08:31:01.249Z
     message: Updated for 6.21.
+  - date: 2023-01-18T23:05:24.499Z
+    message: Opener update, bump to 6.3
 ---
 # Dark Knight Openers and Rotation
 
@@ -44,9 +46,9 @@ Opener notes:
 
 Best raid buff alignment and a good default choice
 
-> Text version: Pre-pull Blood Weapon > Pre-pull The Blackest Night > Provoke if starting with aggro > Hard Slash + Edge of Shadow + Delirium > Syphon Strike + Potion > Souleater + Living Shadow + Salted Earth > Hard Slash + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
+> Text version: Prepull Blood Weapon (-4) > Prepull The Blackest Night (-3) > Prepull Potion (-2) > Provoke (if pulling) > Hard Slash + Edge of Shadow + Delirium > Syphon Strike > Souleater + Living Shadow + Salted Earth > Hard Slash + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
 
-![Standard Dark Knight Opener](/img/jobs/drk/drk_6.1_tentative_opener.png "Standard")
+![Standard Dark Knight Opener](/img/jobs/drk/drk_standard_6.2_v1.png "Standard")
 
 ## Early Delirium Opener
 
@@ -55,7 +57,6 @@ Useful if a fight benefits from a slightly earlier Delirium due to downtime or p
 > Text version: Pre-pull Delirium > Pre-pull The Blackest Night > Pre-pull Blood Weapon just before pull > Hard Slash + Edge of Shadow > Syphon Strike + Potion > Souleater + Living Shadow + Salted Earth > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Hard Slash + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
 
 ![Early Delirium Opener](https://cdn.discordapp.com/attachments/583964695266983944/925284132886552576/tmp4.PNG "Early Delirium")
-
 
 - - -
 
