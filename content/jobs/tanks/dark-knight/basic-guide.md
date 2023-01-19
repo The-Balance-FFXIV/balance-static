@@ -4,8 +4,8 @@ card_header_image: /img/jobs/drk/basic.png
 authors:
   - nikroulah
   - silaqui-amakiir
-patch: "6.21"
-lastmod: 2022-09-21T00:11:44.217Z
+patch: "6.3"
+lastmod: 2023-01-19T04:46:39.495Z
 changelog:
   - date: 2021-10-27T17:33:50.039Z
     message: Added
@@ -15,6 +15,8 @@ changelog:
     message: (Preliminary) Updates for 6.1
   - date: 2022-09-19T08:49:40.968Z
     message: Updates for 6.21
+  - date: 2023-01-18T23:02:37.977Z
+    message: Opener update and patch bump to 6.3.
 ---
 # Introduction to Dark Knight
 
@@ -48,9 +50,9 @@ Goals for DRK openers include:
 
 Best raid buff alignment and a good default choice
 
-![Tentative 6.1 Dark Knight Opener](/img/jobs/drk/drk_6.1_tentative_opener.png "Standard")
+![6.2 Dark Knight Opener](/img/jobs/drk/drk_standard_6.2_v1.png "Standard")
 
-> Text version: Prepull Blood Weapon > Prepull The Blackest Night > Provoke (if pulling) > Hard Slash + Edge of Shadow + Delirium > Syphon Strike + Potion > Souleater + Living Shadow + Salted Earth > Hard Slash + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
+> Text version: Prepull Blood Weapon (-4) > Prepull The Blackest Night (-3) > Prepull Potion (-2) > Provoke (if pulling) > Hard Slash + Edge of Shadow + Delirium > Syphon Strike > Souleater + Living Shadow + Salted Earth > Hard Slash + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
 
 The potion used is whatever the current tier’s Strength potion is (as of the time of writing, it is the Grade 7 Tincture of Strength HQ).
 
@@ -247,13 +249,12 @@ Living Dead can be extremely strong in dungeons, as a single AoE GCD will often 
  ![2 target](https://lh5.googleusercontent.com/je8u42LVxCMC4a2qHgEwjNHOuFNng5tvWD_Vl-r-IspjuXKoUq091qE2kA24aE_g19LmOEtxqKKx6iz9mMHa95Dzru1oK2lJfo6-fjwgYzRCHAi0o8a4deheL5zW8nhGXetcFPWv=s0)\
 On two or more targets, replace Souleater combo with Stalwart Soul Combo.
 
-
-| **Quietus** | **Flood** | **Abyssal** |
-| --- | --- | --- |
-| ![3 targets](https://lh3.googleusercontent.com/kpxcMMzdmTBcdwK0upDws_tzb4Fp4CCfPRtvfP-KLuFi9abH9GiJ-bLAvmJ2epSO0jM9bEh8BRAdXUrdmvsRYBwvw9QEn_TP0jy9nYPqbKhz0aa_9iEr_wWzzrqVjCChnAay7Hus=s0)  | ![3 target 2](https://lh6.googleusercontent.com/QXWUuYy7BBdBNo51JQjI20dfFVoxMThHIGkYEW376YDH6w1HsfVhXzwC27j8OyQlO85t8EtI46ZI2Q27rSELupUfhcQ12LbgKkocZhsB8gRy1Rv-hhoOrLbnu0BfK1-S1iwPSg16=s0) | ![ad](https://lh3.googleusercontent.com/IqgiYLYvy2whmfx7LTqjDR-MHQRFbIhtMqwzTHjGUtOTSvCFO7C9-QpAGGFN_R3aNX0IyWn7JsFl_1zaTgQQB_N1ABKlvQLhP2XwKjnVRaKkFDYu6o9or-bsnnaqPwRODecz0Mkp=s0) |
-
+| **Quietus**                                                                                                                                                                                 | **Flood**                                                                                                                                                                                    | **Abyssal**                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![3 targets](https://lh3.googleusercontent.com/kpxcMMzdmTBcdwK0upDws_tzb4Fp4CCfPRtvfP-KLuFi9abH9GiJ-bLAvmJ2epSO0jM9bEh8BRAdXUrdmvsRYBwvw9QEn_TP0jy9nYPqbKhz0aa_9iEr_wWzzrqVjCChnAay7Hus=s0) | ![3 target 2](https://lh6.googleusercontent.com/QXWUuYy7BBdBNo51JQjI20dfFVoxMThHIGkYEW376YDH6w1HsfVhXzwC27j8OyQlO85t8EtI46ZI2Q27rSELupUfhcQ12LbgKkocZhsB8gRy1Rv-hhoOrLbnu0BfK1-S1iwPSg16=s0) | ![ad](https://lh3.googleusercontent.com/IqgiYLYvy2whmfx7LTqjDR-MHQRFbIhtMqwzTHjGUtOTSvCFO7C9-QpAGGFN_R3aNX0IyWn7JsFl_1zaTgQQB_N1ABKlvQLhP2XwKjnVRaKkFDYu6o9or-bsnnaqPwRODecz0Mkp=s0) |
 
 On 3+ targets, replace:
+
 * Bloodspiller with Quietus
 * Edge of Shadow/Darkness with Flood of Shadow/Darkness
 * Carve and Spit with Abyssal Drain
