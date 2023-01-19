@@ -17,6 +17,8 @@ changelog:
   - date: 2022-09-19T08:36:29.754Z
     message: Updated for 6.21, changing the priority for Abyssal Drain from 4+ to 3+
       targets.
+  - date: 2023-01-19T04:45:21.480Z
+    message: Updated for 6.3
 ---
 # Introduction
 
