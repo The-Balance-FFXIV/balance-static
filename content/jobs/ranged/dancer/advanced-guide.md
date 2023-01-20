@@ -3,8 +3,8 @@ title: Dancer Advanced Guide
 card_header_image: /img/jobs/dnc/advanced.png
 authors:
   - Balance-DNC-Staff
-patch: "6.21"
-lastmod: 2022-09-26T03:18:34.329Z
+patch: "6.3"
+lastmod: 2023-01-20T15:16:38.091Z
 changelog:
   - date: 2021-11-15T21:14:20.824Z
     message: Added page
@@ -14,6 +14,8 @@ changelog:
     message: Updated for Endwalker
   - date: 2022-09-26T03:18:35.564Z
     message: Updated for 6.21
+  - date: 2023-01-20T15:16:39.276Z
+    message: Updated for 6.3
 tags:
   - Dancer
   - DNC
