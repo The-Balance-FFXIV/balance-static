@@ -23,6 +23,9 @@ changes:
       For one, there is now no longer a consideration to avoid Crit or DH buffs with Starfall Dance, since the Ability will now receive full benefit from these buffs.\
 
       Additionally, the Dance Partner priority list will change, since a major factor in Dance Partner choice was the benefit from Devilment.
+  - patch: "6.3"
+    description: Dancer is now able to execute Curing Waltz and Shield Samba while
+      performing the Steps for a Standard or Technical Finish.
 authors:
   - Balance-DNC-Staff
 ---
