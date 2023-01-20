@@ -2,8 +2,8 @@
 title: Dancer Openers
 authors:
   - Balance-DNC-Staff
-patch: "6.2"
-lastmod: 2022-09-20T12:56:08.304Z
+patch: "6.3"
+lastmod: 2023-01-20T15:13:37.828Z
 changelog:
   - date: 2021-10-26T02:07:05.022Z
     message: Created page
@@ -11,6 +11,8 @@ changelog:
     message: Updated for Endwalker.
   - date: 2022-09-20T23:59:37.842Z
     message: Updated for 6.2; Text opener version added.
+  - date: 2023-01-20T15:13:38.632Z
+    message: Updated for 6.3
 ---
 # OPENER INFOGRAPHIC
 
