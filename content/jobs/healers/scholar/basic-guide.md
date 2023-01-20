@@ -4,13 +4,15 @@ card_header_image: /img/jobs/sch/basic.png
 authors:
   - tealjaker
   - potato
-patch: "6.2"
-lastmod: 2022-04-11T23:56:06.853Z
+patch: "6.3"
+lastmod: 2023-01-19T16:45:00.895Z
 changelog:
   - date: 2021-10-26T21:53:11.912Z
     message: Article Created.
   - date: 2022-04-11T23:55:59.352Z
     message: Updated for Endwalker.
+  - date: 2023-01-19T16:45:02.074Z
+    message: Patch update 6.3
 ---
 This guide is intended for players who are looking to play Scholar in level 90 trials and raids. For information about playing Scholar while leveling, please see our Leveling Guide.
 
