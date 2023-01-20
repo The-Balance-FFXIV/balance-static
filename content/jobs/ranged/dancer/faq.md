@@ -27,7 +27,8 @@ qna:
   - question: How should I approach gearing up the class?
     answer: You can review Ringabel's guide on how to best approach gearing DNC in
       6.2 by clicking
-      [](https://docs.google.com/document/d/1BkaVg7n_rcjwWjiPheHF4MZxlP67KlhoU0SkW3n1UX0/edit)<https://bit.ly/DNCGearingGuide-6-20>
+      [](https://docs.google.com/document/d/1BkaVg7n_rcjwWjiPheHF4MZxlP67KlhoU0SkW3n1UX0/edit)[https://bit.ly/DNCGearingGuide6-30](https://bit.ly/DNCGearingGuide6-30
+      "https\://bit.ly/DNCGearingGuide6-30")
   - question: What is BiS for old Ultimate fights?
     answer: >-
       With iLvl sync, you can max out on both secondary stats on a gear piece as
