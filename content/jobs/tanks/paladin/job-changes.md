@@ -1,7 +1,7 @@
 ---
 title: Paladin Changes
 layout: changes
-lastmod: 2022-09-20T19:19:56.648Z
+lastmod: 2023-01-12T21:02:18.023Z
 changes:
   - patch: "6.0"
     description: "[Click here to view the full list of changes on the Official
@@ -19,6 +19,11 @@ changes:
     description: Blade of Faith and Blade of Truth buffed by 20p each. Holy Spirit
       buffed by 40p (under Requiescat). Expiacion buffed by 80p. Overall a ~2.7%
       buff. See guides for more info on rotational changes.
+  - patch: "6.3"
+    description: Big rework! DoTs removed, FoF shorter but buffs all damage, Royal
+      Authority gives an empowered Holy Spirit, Requiescat now used exclusively
+      on Confiteor combo, and Goring changed to a strong GCD with a one minute
+      cooldown
 authors:
   - Balance-PLD-Staff
   - nikroulah
