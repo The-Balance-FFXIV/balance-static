@@ -21,9 +21,11 @@ bis:
     name: i630 Best In Slot
     link: 2a242f9b-8a41-4d09-9e14-3c8fb08e97e4
   - type: etro
-    description: ""
-    name: i612 Pentamelded Abyssos Savage Week 1 Prog Set
-    link: 74dca178-9958-490c-a605-5a4fdb88f1ac
+    description: This gear set is for players just starting out with gearing their
+      level 90 Bard. Everything here can be attained in your first week - 375
+      Causality tomes, and a bunch of farming Astronomy.
+    name: i620 Starter gear set
+    link: c52da8fd-8bb9-44ee-bc3d-a62cd5c31e91
   - type: etro
     description: ""
     name: Dragonsong's Reprise (prog) Best In Slot
