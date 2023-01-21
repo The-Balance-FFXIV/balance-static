@@ -3,13 +3,15 @@ title: White Mage Leveling Guide
 card_header_image: /img/jobs/whm/leveling.png
 authors:
   - shy
-patch: "6.21"
-lastmod: 2022-09-22T01:48:41.012Z
+patch: "6.3"
+lastmod: 2023-01-19T16:33:56.335Z
 changelog:
   - date: 2021-10-30T03:45:37.404Z
     message: Article Created.
   - date: 2022-05-29T21:00:01.354Z
     message: Updated for endwalker
+  - date: 2023-01-19T16:33:57.967Z
+    message: "6.3"
 ---
 # Gear and Job Quests
 
