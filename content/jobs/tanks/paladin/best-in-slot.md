@@ -1,8 +1,8 @@
 ---
 title: Paladin Best in Slot (BiS)
 layout: bis
-patch: "6.21"
-lastmod: 2022-09-19T01:45:45.831Z
+patch: "6.3"
+lastmod: 2023-01-12T19:58:57.395Z
 changelog:
   - date: 2021-10-28T03:10:04.413Z
     message: Created page
@@ -12,35 +12,30 @@ changelog:
     message: Updated note for 2.40 set to be more clear
   - date: 2022-09-19T01:41:49.583Z
     message: Updated for 6.2
+  - date: 2023-01-12T19:58:58.707Z
+    message: Updated for 6.3
 bis:
   - type: gsheets
     description: Useful to put in your own gear options.
     name: Gear Sheet
     link: https://docs.google.com/spreadsheets/d/e/2PACX-1vQx37TZPpgIZ6Ld9S9V-rQ6hcTmuz8tuzzxg6D2w10loW8EXGTQrMKhj0vdany9UA9O7A1cLdQ8YutE/pubhtml
   - type: etro
-    description: For Slow GCD rotation (see guides for more info).
+    description: 2.50 is PLD's preferred speed and the gearing for it is great, use this!
     link: https://etro.gg/gearset/3e6864e6-ea46-402d-96a2-3fe07bb2506b
     name: 2.50 Carrot Pudding
   - type: etro
-    description: For Slow GCD rotation (see guides for more info).
-    link: https://etro.gg/gearset/2d58543d-2bd0-4124-a5d2-458ad4a6e924
-    name: 2.48 Sunset Carrot Nibbles
-  - type: etro
-    description: For Slow GCD rotation (see guides for more info).
-    name: 2.46 Carrot Pudding
-    link: https://etro.gg/gearset/46ba4b76-ad9f-449e-a2a3-d450cf618ec7
-  - type: etro
-    description: For Fast GCD rotation (see guides for more info).
+    description: Will perform worse than the 2.50 set, provided for completeness.
     name: 2.45 Sunset Carrot Nibbles
     link: https://etro.gg/gearset/0c8ba3f0-efe4-453f-9b38-16745a11a7b5
   - type: etro
-    description: >-
-      For Fast GCD rotation (see guides for more info).
-
-
-      Only recommended for high-latency players who do not wish to learn the Slow GCD Rotation.
+    description: Will perform worse than the 2.50 set, provided for completeness.
+      For high latency, use the 2.50 set.
     name: 2.42 Sunset Carrot Nibbles
     link: https://etro.gg/gearset/8361ed48-9503-449b-9e6c-f446dc8b0382
+  - type: sleepyshiba
+    description: Omit a Direct Hit meld on the weapon if you do not have it.
+    link: https://xiv.sleepyshiba.com/pld/sets/607dsr63.png
+    name: 2.50 Dragonsong's Reprise (Ultimate)
 authors:
   - Balance-PLD-Staff
   - nikroulah
