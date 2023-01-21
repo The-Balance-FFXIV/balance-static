@@ -3,13 +3,15 @@ title: Paladin Leveling Guide
 card_header_image: /img/jobs/pld/leveling.png
 authors:
   - nikroulah
-patch: "6.21"
-lastmod: 2022-08-03T15:42:21.481Z
+patch: "6.3"
+lastmod: 2023-01-21T03:22:38.731Z
 changelog:
   - date: 2021-10-27T17:22:16.067Z
     message: Added
   - date: 2022-08-03T05:26:09.656Z
     message: Updated for EW (sorry for the delay!)
+  - date: 2023-01-21T03:22:40.058Z
+    message: Updated for 6.3
 ---
 # Paladin Leveling
 
@@ -54,7 +56,7 @@ This section will start at level 15, since that is the level requirement for the
 
 **Single Target:**
 
-* Spam the Rage of Halone combo (Fast Blade, Riot Blade, Rage of Halone). Continue using Fight or Flight late in the global cooldown after Fast Blade (right before Riot Blade) to fit the last Rage of Halone into the buff window.
+* Spam the Rage of Halone combo (Fast Blade, Riot Blade, Rage of Halone). Continue using Fight or Flight late in the global cooldown to fit the last Rage of Halone 9 GCDs in the buff window
 
 ### Level 30
 
@@ -74,8 +76,8 @@ This section will start at level 15, since that is the level requirement for the
 
 **Single Target:**
 
-* The single target loop consists of one Goring Blade combo (Fast Blade, Riot Blade, Goring Blade) followed by two Rage of Halone combos, then repeat.
-* Fight or Flight should be used late in the GCD after the Fast Blade in the Goring Blade combo, resulting in both Goring Blades being buffed by the Fight or Flight buff
+* Use Goring Blade inside of the Fight or Flight buff window and on cooldown. Goring Blade does not break combo so you do not need to finish your current combo before using it.
+* Since you will have some skill speed while leveling, you can late weave Fight or Flight after Fast Blade to fit 9 GCDs in the buff window (Goring Blade, Riot Blade, Rage of Halone, and two more Rage of Halone combos).
 
 ### Level 60
 
@@ -83,20 +85,37 @@ This section will start at level 15, since that is the level requirement for the
 
 * Rage of Halone gets upgraded to Royal Authority.
 
+### Level 64
+
+**Single Target:**
+
+* Royal Authority now grants Divine Might, empowering your next Holy Spirit. Only use Holy Spirit when you have the Divine Might buff.
+* Holy Spirit, like Goring Blade, does not break combo.
+* Your Fight or Flight window should now contain (in some order):
+  * Goring Blade
+  * 2x Royal Authority combo + Holy Spirit
+
 ### Level 68
 
 **Single Target:**
 
-* Use Requiescat when you have around 15 seconds left on Fight or Flight (this will be after the *second* Riot Blade and before the *first* Royal Authority in the Fight or Flight window).
-* After the second Goring Blade in the Fight or Flight window, use Holy Spirit five times.
-* Use another Goring Blade combo followed by two Royal Authority combos before beginning the loop again with a Goring Blade combo with Fight or Flight.
+* Use Requiescat inside Fight or Flight, and spend the 4 stacks on Holy Spirit.
+* Your Fight or Flight window should now contain:
+  * Goring Blade
+  * Requiescat + 4x Holy Spirit
+  * 3x "combo" GCDs (Fast Blade, Riot Blade, Royal Authority, or Holy Spirit)
+  * \*With so many spells in the Fight or Flight window, it is very difficult to get 9 GCDs in Fight or Flight and not worth worrying about
+* It is usually possible to hold an earlier Holy Spirit into the Fight or Flight window, but be sure to:
+  * Avoid overwriting the Divine Might buff; if Divine Might is available, always spend it before your next Royal Authority (e.g. Fast Blade, Riot Blade, Holy Spirit, Royal Authority is fine).
+  * Keep using Fight or Flight on cooldown.
 
 ### Level 72
 
 **Multi Target:**
 
-* Whenever Requiescat is available, use it and then use Holy Circle five times.
-* In multi-target situations, prioritize using Requiescat before Fight or Flight.
+* Prominence combo now grants Divine Might.
+* Spend Requiescat stacks and Divine Might on Holy Circle in multi-target situations.
+* Continue using Goring Blade in Fight or Flight; for maximum efficiency, there is usually an enemy with higher HP to use it on.
 
 ### Level 74
 
@@ -106,28 +125,27 @@ This section will start at level 15, since that is the level requirement for the
 
 **Single Target:**
 
-* In every group of two Royal Authority combos, replace the second one with three Atonements.
-* The loop should now look like:
-
-  * Goring Blade combo (Fight or Flight late in the GCD after Fast Blade)
-  * Royal Authority combo (Requiescat any time after the Riot Blade here and before the first Holy Spirit)
-  * 3x Atonement
-  * Goring Blade combo
-  * 5x Holy Spirit
-  * Goring Blade combo
-  * Royal Authority combo
-  * 3x Atonement
-  * Repeat.
+* At this point, you can use the level 90 [rotation graphic](/jobs/tanks/paladin/openers), replacing Confiteor and Blade of Valor combo with four Holy Spirits and Expiacion with Spirits Within. The rotation priority system is summarized below:
+  * Use your Divine Might with Holy Spirit any time before it gets overwritten by your next Royal Authority
+  * Spend Atonements as you get them
+  * Start a Royal Authority combo when you are out of Atonements / Sword Oath
+  * Use Circle of Scorn and Spirits Within on cooldown
+  * Hold both charges of Intervene for Fight or Flight unless you need it for uptime
+  * Use Fight or Flight on cooldown. Upon using it, begin your burst phase, then pick up your filler combo where you left off
+  * Your burst phase should include:
+    * Goring Blade
+    * Requiescat + 4x Holy Spirit
+    * 3 filler GCDs (Holy Spirit, Atonement, or Royal Authority combo GCDs)
 
 ### Level 80
 
 **Single Target:**
 
-* Replace the fifth Holy Spirit with Confiteor.
+* Replace the first Holy Spirit with Confiteor.
 
 **Multi Target:**
 
-* Replace the fifth Holy Circle with Confiteor.
+* Replace the first Holy Circle with Confiteor.
 
 ### Level 86
 
@@ -135,4 +153,4 @@ This section will start at level 15, since that is the level requirement for the
 
 ### Level 90
 
-* After using Confiteor, follow up with the Blade of Valor combo.
+* Requiescat stacks should now be spend exclusively on Confiteor and the Blade of Valor combo. Do not spend them on Holy Spirit (if you have both Divine Might and Requiescat, Holy Spirit will consume only the Divine Might).
