@@ -28,7 +28,7 @@ bis:
     link: c52da8fd-8bb9-44ee-bc3d-a62cd5c31e91
   - type: etro
     description: ""
-    name: Dragonsong's Reprise (prog) Best In Slot
+    name: Dragonsong's Reprise (prog) BiS
     link: 384802e4-6112-4882-9670-5e332688713f
 authors:
   - Balance-BRD-Staff
