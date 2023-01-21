@@ -22,7 +22,7 @@ changes:
   - patch: "6.3"
     description: Big rework! DoTs removed, FoF shorter but buffs all damage, Royal
       Authority gives an empowered Holy Spirit, Requiescat now used exclusively
-      on Confiteor combo, and Goring changed to a strong GCD with a 1min
+      on Confiteor combo, and Goring changed to a strong GCD with a one minute
       cooldown
 authors:
   - Balance-PLD-Staff
