@@ -2,8 +2,8 @@
 title: Paladin Skills Overview
 authors:
   - nikroulah
-patch: "6.21"
-lastmod: 2022-09-19T01:47:43.181Z
+patch: "6.3"
+lastmod: 2023-01-12T20:28:26.124Z
 changelog:
   - date: 2021-10-27T17:21:39.738Z
     message: Added
@@ -13,13 +13,15 @@ changelog:
     message: Updated for 6.2
   - date: 2022-09-19T01:35:23.613Z
     message: Updated for 6.21
+  - date: 2023-01-12T20:28:26.854Z
+    message: Updated for 6.3
 ---
 ## Buffs
 
 **Iron Will**
 ![](https://xivapi.com/i/002000/002505_hr1.png)
 
-Toggle | 10s cooldown after toggling on. | No cooldown for toggling off.
+Toggle | 3s cooldown after toggling on. | 1s cooldown after toggling off.
 
 Increases enmity generation by 10x (Enmity is also known as aggro, hate, etc.).
 
@@ -30,32 +32,26 @@ Keep this on in dungeons or as the main tank (in content with more than one tank
 
 60s cooldown.
 
-+25% physical damage for 25 seconds.
-
-By using Fight or Flight late into the GCD (just before the next GCD), it is possible to fit 11 physical GCDs into the buff window.
++25% damage dealt for 20 seconds.
 
 **Requiescat**
 ![](https://xivapi.com/i/002000/002513_hr1.png)
 
 60s cooldown.
 
-400 potency (magical).
+300 potency.
 
-Provides 5 stacks of Requiescat, granting instant casts and increasing the potency of Holy Spirit, Holy Circle, and enabling the use of Confiteor.
+Provides 4 stacks of Requiescat, granting instant casts and increasing the potency of Holy Spirit, Holy Circle, Confiteor, and the Blade of Valor combo actions. Stacks are consumed by casting any spell. Also grants Confiteor Ready, enabling the use of Confiteor.
 
 ## Single Target GCDs
 
-**Goring Blade Combo**
+**Goring Blade**
 
-|**Fast Blade >** | **Riot Blade >** | **Goring Blade**|
-|-|-|-|
-|![](https://xivapi.com/i/000000/000158_hr1.png) | ![](https://xivapi.com/i/000000/000156_hr1.png) | ![](https://xivapi.com/i/002000/002506_hr1.png)|
+![](https://xivapi.com/i/002000/002506_hr1.png)
 
-200 > 300 > 250 potency + 455 potency DoT over 21 seconds (physical damage).
+700 potency
 
-The DoT portion snapshots buffs and debuffs when Goring Blade is cast.
-
-+1000 MP from Riot Blade
+Does not interrupt combos.
 
 **Royal Authority Combo**
 
@@ -63,9 +59,9 @@ The DoT portion snapshots buffs and debuffs when Goring Blade is cast.
 |-|-|-|
 |![](https://xivapi.com/i/000000/000158_hr1.png) | ![](https://xivapi.com/i/000000/000156_hr1.png) | ![](https://xivapi.com/i/002000/002507_hr1.png)|
 
-200 > 300 > 420 potency (physical damage)
+200 > 280 > 380 potency
 
-+3 Sword Oath
++3 Sword Oath, grants Divine Might
 
 +1000 MP from Riot Blade
 
@@ -74,7 +70,7 @@ The DoT portion snapshots buffs and debuffs when Goring Blade is cast.
 **Atonement**
 ![](https://xivapi.com/i/002000/002519_hr1.png)
 
-420 potency (physical)
+380 potency (physical)
 
 Costs one Sword Oath.
 
@@ -83,45 +79,38 @@ Costs one Sword Oath.
 **Holy Spirit**
 ![](https://xivapi.com/i/002000/002514_hr1.png)
 
-300 potency (magical) | 1.5s cast time | Does not break combo
+350 potency | 1.5s cast time | Does not break combo
 
-600 potency under Requiescat.
+450 potency and instant with Divine Might (consumes Divine Might)
 
-Heals self for 400 potency.
-
-Costs 1000 MP.
-
-**Confiteor**
-![](https://xivapi.com/i/002000/002518_hr1.png)
-
-900 potency (magical damage).
+650 potency and instant with Requiescat (consumes 1 stack of Requiescat)
 
 Heals self for 400 potency.
 
 Costs 1000 MP.
-
-AoE around target.
-
-Requires the Requiescat buff and consumes all stacks on use.
 
 **Blade of Valor Combo**
 
-|**Blade of Faith >** | **Blade of Truth >** | **Blade of Valor**|
-|-|-|-|
-|![](https://xivapi.com/i/002000/002952_hr1.png) | ![](https://xivapi.com/i/002000/002953_hr1.png) | ![](https://xivapi.com/i/002000/002954_hr1.png)|
+| **Confiteor >** | **Blade of Faith >** | **Blade of Truth >** | **Blade of Valor**|
+|-|-|-|-|
+|![](https://xivapi.com/i/002000/002518_hr1.png)|![](https://xivapi.com/i/002000/002952_hr1.png) | ![](https://xivapi.com/i/002000/002953_hr1.png) | ![](https://xivapi.com/i/002000/002954_hr1.png)|
 
-480 > 560 > 620 potency + 560 potency DoT over 21 seconds (magical damage).
+900 > 700 > 800 > 900 potency
 
-Replaces the Confiteor button when the Requiescat buff ends, usually because Confiteor was used. The Blade of Faith Ready buff acts exactly like a combo, meaning most other GCDs will cause Blade of Faith Ready to fall off.
+Each combo action consumes a stack of Requiescat, does very little damage unless buffed by Requiescat.
 
-400 potency heal and +500MP per hit.
+400 potency heal per hit.
+
+Costs 1000 MP per hit.
+
+Does not Interrupt Royal Authority combo.
 
 ## Offensive Abilities (oGCDs)
 
 **Expiacion**
 ![](https://xivapi.com/i/002000/002951_hr1.png)
 
-420 potency | 30s cooldown.
+450 potency | 30s cooldown.
 
 AoE around target, 50% less damage on secondary targets.
 
@@ -130,14 +119,14 @@ AoE around target, 50% less damage on secondary targets.
 **Circle of Scorn**
 ![](https://xivapi.com/i/000000/000161_hr1.png)
 
-100 potency + 150 potency DoT over 15 seconds (physical damage). | 30s cooldown.
+100 potency + 150 potency DoT over 15 seconds. | 30s cooldown.
 
 AoE centered on self.
 
 **Intervene**
 ![](https://xivapi.com/i/002000/002520_hr1.png)
 
-150 potency (physical damage). | 2 charges.
+150 potency. | 2 charges.
 
 30s charge time.
 
@@ -157,12 +146,19 @@ AoE centered on self.
 
 15s duration | 120s cooldown
 
+**Bulwark**
+![](https://xivapi.com/i/000000/000167_hr1.png)
+
+Guaranteed block (20% damage reduction at level 90, on average about 15% damage reduction if accounting for random blocks).
+
+10s duration | 90s cooldown
+
 **Holy Sheltron**
 ![](https://xivapi.com/i/002000/002950_hr1.png)
 
 Costs 50 Oath Gauge (generated at a rate of 50 per ~23s) | 5s cooldown.
-* Guarantees blocks (20% at Lv. 90) | 8s duration
-* 15% damage reduction | 4s duration
+* 15% damage reduction | 8s duration
+* 15% additional damage reduction | 4s duration
 * 1000 potency regen over 12s
 
 **Passage of Arms**
@@ -174,14 +170,14 @@ Guarantees blocks.
 
 120s cooldown
 
-Provides 15% damage reduction to party members behind you (lasts at least 5s, [see FAQ](/jobs/tanks/paladin/faq/) for more details).
+Provides 15% damage reduction to party members behind you.
 
 Canceled by taking any action (including turning your character).
 
 **Divine Veil**
 ![](https://xivapi.com/i/002000/002508_hr1.png)
 
-If you receive a GCD heal from anybody in the next 30s, party members near you get a shield for 10% of your HP, as well as a 400 potency heal.
+Shields you and party members near you for 10% of your maximum HP, as well as heals for 400 potency.
 
 Shield duration: 30s | 90s cooldown
 
@@ -245,6 +241,8 @@ Applies a 20% auto-attack and cast time slow for 15s to enemies that attack you 
 
 100 > 170 potency (physical damage).
 
+Grants Divine Might
+
 +500 MP
 
 Circle AoE centered on self.
@@ -254,9 +252,11 @@ Replaces single target combos at 3+ enemies.
 **Holy Circle**
 ![](https://xivapi.com/i/002000/002517_hr1.png)
 
-130 potency (magical) | 1.5s cast time
+100 potency (magical) | 1.5s cast time
 
-300 potency under Requiescat.
+200 potency and instant under Divine Might (also consumes Divine Might).
+
+300 potency and instant under Requiescat (also consumes a stack of Requiescat).
 
 Heals self for 400 potency.
 
@@ -264,7 +264,7 @@ Costs 1000 MP.
 
 Circle AoE centered on self.
 
-Replaces Holy Spirit at 2+ enemies.
+Replaces Holy Spirit at 3+ enemies.
 
 # Other Actions (Infrequently Used)
 
