@@ -3,8 +3,8 @@ title: "Pandaemonium: Asphodelos Encounter with Monk"
 card_header_image: /img/jobs/mnk/mnk-fight-tips-1-.jpg
 authors:
   - Balance-MNK-Staff
-patch: "6.08"
-lastmod: 2022-04-10T17:43:26.107Z
+patch: "6.3"
+lastmod: 2023-01-22T00:46:44.281Z
 changelog:
   - date: 2022-04-12T06:09:38.045Z
     message: Added guide.
