@@ -53,7 +53,7 @@ There are a few key concepts that are fundamental to the game and carry over bet
 
 ### Paladin Opener
 
-![6.3 Paladin Standard Opener](https://xiv.sleepyshiba.com/pld/img/63-v2.png)
+![6.3 Paladin Standard Opener](https://xiv.sleepyshiba.com/pld/img/63-v2opener.png)
 
 The potion used is whatever the current tier's Strength potion is (as of patch 6.3, it is the Grade 7 Tincture of Strength).
 
@@ -61,7 +61,7 @@ After the opener, we cycle between a filler phase and a burst phase (explained b
 
 ### Paladin Rotation
 
-![6.3 Paladin Rotation]()
+![6.3 Paladin Rotation](https://xiv.sleepyshiba.com/pld/img/63-v2rotation.png)
 
 #### **Burst Phase**
 
