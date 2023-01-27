@@ -2,22 +2,16 @@
 title: Scholar Best in Slot (BiS)
 layout: bis
 patch: "6.3"
-lastmod: 2023-01-12T00:47:37.636Z
+lastmod: 2023-01-27T07:19:18.098Z
 changelog:
-  - date: 2021-10-26T23:42:52.063Z
-    message: Article Created.
-  - date: 2022-01-31T23:22:09.979Z
-    message: Added 6.05 bis
-  - date: 2022-04-05T17:26:33.489Z
-    message: Added 6.11 ultimate sets
   - date: 2022-04-13T03:59:58.924Z
     message: Added Augmented 2.40 set
   - date: 2023-01-03T23:06:43.871Z
     message: Added Sets for the TOP
-  - date: 2023-01-11T02:57:03.989Z
-    message: Temporarily deleted dsr set
   - date: 2023-01-12T00:43:03.702Z
     message: Added new DSR sets
+  - date: 2023-01-27T07:19:06.942Z
+    message: Added a 2.40 set for TOP
 bis:
   - type: etro
     description: |2
@@ -59,15 +53,13 @@ bis:
     link: a91cf8ba-5ea1-4050-82c0-b90862a77ac0
   - type: etro
     description: >-
-      * Ultra safe set to run
+      * This Set makes it much smoother to slidecast during Pantokrator
 
-      * Has extra piety pieces of the ultimate feels like it's needed
+      * Still has a good amount of piety
 
-      * Gives great chain and Bio Alignment but in ultimates it matters a little less.
-
-      * 2.50
-    name: 2.50 High Piety TOP set
-    link: 76244ceb-8cec-49c9-898e-3e7610d6ccf6
+      * If you want to drop some piety you can swap earring or gloves, but be very careful doing so as later phaes could have harsher MP requirements.
+    name: 2.40 mid piety TOP set
+    link: https://etro.gg/gearset/a91cf8ba-5ea1-4050-82c0-b90862a77ac0
   - type: etro
     description: >-
       **The piety requirements vary depending on your P7 strat for Akh Morns.
