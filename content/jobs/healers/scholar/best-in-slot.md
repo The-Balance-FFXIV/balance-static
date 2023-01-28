@@ -50,7 +50,7 @@ bis:
       * Terrible alignment but in ultimates, but that matters a little less.
       * 2.47
     name: 2.47 Mid Piety TOP set
-    link: a91cf8ba-5ea1-4050-82c0-b90862a77ac0
+    link: https://etro.gg/gearset/593cc02b-895a-4501-8275-ab765b2eb903
   - type: etro
     description: >-
       * This Set makes it much smoother to slidecast during Pantokrator
