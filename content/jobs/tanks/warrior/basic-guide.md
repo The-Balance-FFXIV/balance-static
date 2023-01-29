@@ -439,13 +439,13 @@ As for practical uses, we assume a good use of the Bloodwhetting, granting us a 
 
 ##### Sets of Four
 
-*also known as Kitchen Sink\*\**
+\*also known as Kitchen Sink\*\*\*
 
 * Bloodwhetting + Thrill of Battle + Rampart + Vengeance
 * \*Bloodwhetting + Reprisal + Rampart + Vengeance
 * Just Holmgang at this point, honestly.
 
-Anything with a Reprisal* in them is considered *very situational* and should be used with care.\
+Anything with a Reprisal *in them is considered* very situational* and should be used with care.\
 If you are using Reprisal to survive a tank buster, remember that it might be down for the next raid-wide damage.\
 Other sources of 10% mitigation exist, such as Exaltation on Astrologians.
 
@@ -602,7 +602,7 @@ Holmgang is weird. If your Holmgang target dies, you lose the effect. Self-cast 
 
 Nascent Flash goes on a friend. Most often on the co-tank of your eight-person party.\
 They are, by default, the second member in your party list, which is what the <2> refers to.\
-You may make a mouseover macro by using <mo>, or you may make multiple macros for each of your party member by using <3>, <4>, etc.
+You may make a mouseover macro by using \<mo>, or you may make multiple macros for each of your party member by using <3>, <4>, etc.
 
 ```
 	/merror off
