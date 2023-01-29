@@ -45,20 +45,20 @@ bis:
     name: 2.31 Low-Pie Set
   - type: etro
     description: |-
-      * safe to run
+      * Safe to run
       * The next set has extra pieces for more piety if needed
-      * Terrible alignment but in ultimates, but that matters a little less.
+      * Terrible alignment but in Ultimates, but that matters a little less.
       * 2.47
     name: 2.47 Mid Piety TOP set
     link: https://etro.gg/gearset/593cc02b-895a-4501-8275-ab765b2eb903
   - type: etro
     description: >-
-      * This Set makes it much smoother to slidecast during Pantokrator
+      * This set makes it much smoother to slidecast during Pantokrator
 
       * Still has a good amount of piety
 
-      * If you want to drop some piety you can swap earring or gloves, but be very careful doing so as later phaes could have harsher MP requirements.
-    name: 2.40 mid piety TOP set
+      * If you want to drop some piety you can swap earrings or gloves, but be very careful doing so as later phases could have harsher MP requirements.
+    name: 2.40 Mid Piety TOP set
     link: https://etro.gg/gearset/a91cf8ba-5ea1-4050-82c0-b90862a77ac0
   - type: etro
     description: >-
@@ -77,11 +77,11 @@ bis:
       332 requires more GCD healing while 611 is laxer.**
 
 
-      * If you use this set with 332 or if you're unsure how to properly manage your mana you will run out of mana. 
+      * If you use this set with 332, or if you're unsure how to properly manage your mana, you will run out of mana. 
 
       * Suggested if you want to optimize after clearing
     link: a4876dd0-8535-403d-b2bd-293e3663c400
-    name: 611 dsr set
+    name: 611 DSR set
 authors:
   - Balance-SCH-Staff
 tags:
