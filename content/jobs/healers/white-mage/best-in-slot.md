@@ -14,6 +14,8 @@ changelog:
     message: Updated 6.1 sets
   - date: 2023-01-19T04:56:31.660Z
     message: updated DSR/TOP set
+  - date: 2023-02-03T04:48:06.087Z
+    message: Updated TOP sets to include 2.4
 bis:
   - type: etro
     description: This set is identical to the 6.2 Mid-Piety Set but swaps most of
