@@ -439,13 +439,13 @@ As for practical uses, we assume a good use of the Bloodwhetting, granting us a 
 
 ##### Sets of Four
 
-*also known as Kitchen Sink\*\**
+\*also known as Kitchen Sink\*\*\*
 
 * Bloodwhetting + Thrill of Battle + Rampart + Vengeance
 * \*Bloodwhetting + Reprisal + Rampart + Vengeance
 * Just Holmgang at this point, honestly.
 
-Anything with a Reprisal* in them is considered *very situational* and should be used with care.\
+Anything with a Reprisal *in them is considered* very situational* and should be used with care.\
 If you are using Reprisal to survive a tank buster, remember that it might be down for the next raid-wide damage.\
 Other sources of 10% mitigation exist, such as Exaltation on Astrologians.
 
@@ -644,7 +644,7 @@ Shirk the second Party member. Often your co-tank.
 	/micon "Shirk" 
 ```
 
-## Best-in-Slot aka BIS (Patch 6.11)
+## Best-in-Slot aka BIS (Patch 6.31)
 
 ### Food and Potions
 
