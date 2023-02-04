@@ -132,7 +132,7 @@ This is also where understanding weaving is important. Of the following two imag
 
 2.
 
-![](/img/jobs/dnc/dncimage4.png)
+![](/img/jobs/dnc/advanced4.png)
 
 Both are from real logs. **THE TOP IMAGE IS NOT WHAT WE MEAN BY POOLING AND IS NOT WHAT YOU SHOULD DO DUE TO INCORRECT WEAVING**. The bottom image is more correct, with pooled feathers slowly being dumped between GCDs.
 
