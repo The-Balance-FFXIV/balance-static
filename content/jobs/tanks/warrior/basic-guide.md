@@ -602,7 +602,7 @@ Holmgang is weird. If your Holmgang target dies, you lose the effect. Self-cast 
 
 Nascent Flash goes on a friend. Most often on the co-tank of your eight-person party.\
 They are, by default, the second member in your party list, which is what the <2> refers to.\
-You may make a mouseover macro by using \<mo>, or you may make multiple macros for each of your party member by using <3>, <4>, etc.
+You may make a mouseover macro by using <mo>, or you may make multiple macros for each of your party member by using <3>, <4>, etc.
 
 ```
 	/merror off
@@ -644,7 +644,7 @@ Shirk the second Party member. Often your co-tank.
 	/micon "Shirk" 
 ```
 
-## Best-in-Slot aka BIS (Patch 6.11)
+## Best-in-Slot aka BIS (Patch 6.31)
 
 ### Food and Potions
 
