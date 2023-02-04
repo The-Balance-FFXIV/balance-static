@@ -3,8 +3,8 @@ title: Dancer Advanced Guide
 card_header_image: /img/jobs/dnc/advanced.png
 authors:
   - Balance-DNC-Staff
-patch: "6.21"
-lastmod: 2022-09-26T03:18:34.329Z
+patch: "6.3"
+lastmod: 2023-01-20T15:16:38.091Z
 changelog:
   - date: 2021-11-15T21:14:20.824Z
     message: Added page
@@ -14,6 +14,8 @@ changelog:
     message: Updated for Endwalker
   - date: 2022-09-26T03:18:35.564Z
     message: Updated for 6.21
+  - date: 2023-01-20T15:16:39.276Z
+    message: Updated for 6.3
 tags:
   - Dancer
   - DNC
@@ -130,7 +132,7 @@ This is also where understanding weaving is important. Of the following two imag
 
 2.
 
-![](/img/jobs/dnc/dncimage4.png)
+![](/img/jobs/dnc/advanced4.png)
 
 Both are from real logs. **THE TOP IMAGE IS NOT WHAT WE MEAN BY POOLING AND IS NOT WHAT YOU SHOULD DO DUE TO INCORRECT WEAVING**. The bottom image is more correct, with pooled feathers slowly being dumped between GCDs.
 
