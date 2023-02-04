@@ -13,7 +13,7 @@ changelog:
   - date: 2022-04-14T01:50:49.898Z
     message: Updated 6.1 sets
   - date: 2023-01-19T04:56:31.660Z
-    message: updated DSR/TOP set
+    message: Updated DSR/TOP set
   - date: 2023-02-03T04:48:06.087Z
     message: Updated TOP sets to include 2.4
 bis:
@@ -23,10 +23,10 @@ bis:
     link: https://etro.gg/gearset/00e98ace-9cc5-4f97-b8ae-c4dd6980f4ea
     name: 2.44 Mid-Piety TOP prog set
   - type: etro
-    description: This set has a bit faster sps to help with slidecasting Panto, this
-      in combination with the dot refresh and Lillies makes Panto extremely
+    description: This set has a bit faster SpS to help with slidecasting Panto, this
+      in combination with the DoT refresh and Lillies makes Panto extremely
       comfy for WHM.
-    name: 2.40 mid-piety TOP prog set
+    name: 2.40 Mid-piety TOP prog set
     link: https://etro.gg/gearset/1b0b906d-632e-4441-8b8b-19b136085db6
   - type: etro
     description: This is the slowest of the 3 Min-Piety BiS sets, its higher GCD may
