@@ -2,7 +2,7 @@
 title: White Mage Best in Slot (BiS)
 layout: bis
 patch: "6.3"
-lastmod: 2023-01-19T04:56:41.419Z
+lastmod: 2023-02-03T04:47:54.172Z
 changelog:
   - date: 2021-10-27T00:19:11.972Z
     message: Article Created.
@@ -13,18 +13,21 @@ changelog:
   - date: 2022-04-14T01:50:49.898Z
     message: Updated 6.1 sets
   - date: 2023-01-19T04:56:31.660Z
-    message: updated DSR/TOP set
+    message: Updated DSR/TOP set
+  - date: 2023-02-03T04:48:06.087Z
+    message: Updated TOP sets to include 2.4
 bis:
   - type: etro
     description: This set is identical to the 6.2 Mid-Piety Set but swaps most of
       the DH melds to Det.
     link: https://etro.gg/gearset/00e98ace-9cc5-4f97-b8ae-c4dd6980f4ea
-    name: Mid-Piety TOP prog set
+    name: 2.44 Mid-Piety TOP prog set
   - type: etro
-    description: This set swaps tome gloves for raid gloves for a bit more piety and
-      a bit slower GCD.
-    name: High-Piety TOP prog set
-    link: https://etro.gg/gearset/9b228909-1959-41e8-a416-bc5dc112cbf2
+    description: This set has a bit faster SpS to help with slidecasting Panto, this
+      in combination with the DoT refresh and Lillies makes Panto extremely
+      comfy for WHM.
+    name: 2.40 Mid-piety TOP prog set
+    link: https://etro.gg/gearset/1b0b906d-632e-4441-8b8b-19b136085db6
   - type: etro
     description: This is the slowest of the 3 Min-Piety BiS sets, its higher GCD may
       be more comfortable for those on higher ping. This set also has the
@@ -69,13 +72,13 @@ bis:
       substantially more GCD healing. This set also gives more wiggle room for
       raises. You can addd or remove piety melds as you progress, or look to one
       of the higher damage sets.
-    name: 2.50 High Piety set DSWU set
+    name: 2.45 High Piety set DSWU set
     link: " https://etro.gg/gearset/1e73eb3d-b0d7-4f4f-a54c-f4fe5fc2a8ad"
   - type: etro
     description: This is a higher damage set mostly aimed at people running the 611
       P7 strategy or for reclears. This set should be avoided if you are
       progging and using a 233 P& strat.
-    name: 2.50 Low piety set DSWU set
+    name: 2.45 Low piety set DSWU set
     link: https://etro.gg/gearset/57e81486-cd1b-4b47-8307-c060539faca3
   - type: etro
     description: >-
