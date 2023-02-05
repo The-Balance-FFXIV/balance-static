@@ -4,8 +4,8 @@ card_header_image: /img/jobs/dnc/leveling.png
 authors:
   - Balance-DNC-Staff
   - Ringabel-Dim
-patch: "6.2"
-lastmod: 2022-09-20T12:53:43.579Z
+patch: "6.3"
+lastmod: 2023-01-20T15:10:43.393Z
 changelog:
   - date: 2021-11-15T21:12:55.751Z
     message: Added page
@@ -13,6 +13,8 @@ changelog:
     message: "Updated: November 24, 2021 (for Patch 6.0)"
   - date: 2022-09-20T12:53:46.657Z
     message: Updated the guide for 6.2
+  - date: 2023-01-20T15:12:31.778Z
+    message: Updated the guide for 6.3
 ---
 # Leveling Guide for Dancer (DNC)
 
