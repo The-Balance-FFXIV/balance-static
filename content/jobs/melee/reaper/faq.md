@@ -132,19 +132,19 @@ qna:
       members within 15y of the caster.
 
 
-      Circle of Sacrifice is a 5s buff that checks whether or not the RPR that used Arcane Circle and each party member with the buff successfully lands a weaponskill or spell. 
+      Circle of Sacrifice is a 5s buff that checks whether or not the RPR that used Arcane Circle and each party member with the buff successfully uses a weaponskill or spell that **does damage/applies a negative effect** to the target. Because of this criterion, DNC steps and healing spells do not count.
 
 
-      Bloodsown Circle lasts 6s and gives you one Immortal Sacrifice stack for each party member (including yourself) that lands a weaponskill/spell under Circle of Sacrifice (maximum of one stack per person). 
+      Bloodsown Circle lasts 6s and gives you one Immortal Sacrifice stack for each party member (including yourself) that uses a weaponskill/spell that **does damage/applies a negative effect** under Circle of Sacrifice (maximum of one stack per person). 
 
 
       Immortal Sacrifice stacks up to eight stacks, and lasts for up to 30s. Immortal Sacrifice stacks allow Plentiful Harvest to be used. 
 
 
-      Plentiful Harvest consumes all Immortal Sacrifice stacks and gains 40 potency for every additional stack, starting at 520 and maxing out at 800 potency at eight stacks. Your own stack is already included in the base potency of 520, as it is required to even use the skill. You cannot use Plentiful Harvest until Bloodsown Circle has expired. 
+      Plentiful Harvest consumes all Immortal Sacrifice stacks and gains 40 potency for every additional stack, starting at 720 and maxing out at 1000 potency at eight stacks. Your own stack is already included in the base potency of 720, as it is required to even use the skill. You cannot use Plentiful Harvest until Bloodsown Circle has expired. 
 
 
-      Simply put: Arcane Circle gives a +3% damage buff for 20s. It also gives one stack of Immortal Sacrifice for every party member (including yourself) that lands a weaponskill/spell in the first 5s of Arane Circle's duration. Immortal Sacrifice stacks allow the use of Plentiful Harvest, and increase the potency of Plentiful Harvest by 40 per stack, up to 800 potency at eight stacks. Plentiful Harvest cannot be used until Bloodsown Circle expires, which happens 6s after using Arcane Circle.
+      Simply put: Arcane Circle gives a +3% damage buff for 20s. It also gives one stack of Immortal Sacrifice for every party member (including yourself) that lands a weaponskill/spell in the first 5s of Arane Circle's duration. Immortal Sacrifice stacks allow the use of Plentiful Harvest, and increase the potency of Plentiful Harvest by 40 per stack, up to 1000 potency at eight stacks. Plentiful Harvest cannot be used until Bloodsown Circle expires, which happens 6s after using Arcane Circle.
 authors:
   - ToraelValdis
 ---
