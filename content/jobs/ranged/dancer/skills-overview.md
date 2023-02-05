@@ -4,13 +4,15 @@ authors:
   - Balance-DNC-Staff
   - Ringabel-Dim
   - Laille-Ormesaing
-patch: "6.2"
-lastmod: 2022-09-20T12:55:00.557Z
+patch: "6.3"
+lastmod: 2023-01-20T15:13:00.049Z
 changelog:
   - date: 2021-10-26T02:05:59.099Z
     message: Added page
   - date: 2022-02-02T22:49:01.974Z
     message: Updated for patch 6.08.
+  - date: 2023-01-20T15:13:00.785Z
+    message: Updated for patch 6.3
 ---
 # Actions
 
