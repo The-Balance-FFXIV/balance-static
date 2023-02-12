@@ -113,7 +113,7 @@ bis:
 
       Relic stats: 127 Crit/Det/SpS, 87 Piety
     name: Old Ultimates
-    link: " "
+    link: Use Synced Gear
   - type: gsheets
     description: "Disclaimer: MP uptime on the sheet is higher than in reality, for
       example the recommended low-piety sets appears to run out of mana around
