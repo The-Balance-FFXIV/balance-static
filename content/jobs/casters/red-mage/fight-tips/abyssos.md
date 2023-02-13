@@ -127,38 +127,44 @@ In general, there is no absolutely guaranteed way to get full uptime with every 
 
 However, there are still some safe uptime tricks we can use as a caster at no risk. For many camera settings, casting spells on the boss will make us face it directly. For the first set of snakes, this means you can slidecast your way into either A) having the snakes directly behind you if they are diagonal to each other, or B) having both snakes out of sight beside you if they are across each other. If doing this, ensure you are standing inside the boss hitbox. Examples:
 
+![Diagrams of snake Line of Sight](/img/snakesnakecombined.png "Snake ExamplesP8 door")
+
 This does not work for the second set of snakes, but you can minimize loss by paying attention to timing. However, much like the first set, it is not worth wiping the raid over a GCD here, especially this late into the fight. Consider the Vercure tactic to cut your losses if needed.
 
 If you are resolving your gaze or poison puddle mechanic and you find that you need to start a hardcast (but it’s unsafe to do so), you can cut your losses by Vercuring yourself while facing outward to proc a Dualcast, so you can immediately use Verthunder/aero III once the gaze resolves. This is not so much an optimization min-maxing tactic, but a way to cut your losses while playing safely.
 
-Example with Gaze: https://youtu.be/xCqHY4eA6Uw
-Example with First Puddle:https://youtu.be/SKz3Cqsj8zU
+Example with Gaze: <https://youtu.be/xCqHY4eA6Uw>
 
-Manifold Flames Uptime
+Example with First Puddle: <https://youtu.be/SKz3Cqsj8zU>
+
+## Manifold Flames Uptime
 
 How your melee mana and melee combo usage aligns for Manifold Flames will vary depending on what pattern you get, although how you approach movement for it will mostly be the same. Consider holding a charge of Corps-a-corps for Nest of Flamevipers if you need to move into the boss, although it is not necessary.
 
 For the Torch Flame following this, one option is to use a melee combo for easier movement to the safe spot. You can also handle this easily by standing in the center of the arena when the mechanic starts and slidecasting to the safe spot once the flames intersect at the southwest corner.
 
-Example: https://youtu.be/JBnsuHal8BU
+Example: <https://youtu.be/JBnsuHal8BU>
 
-Fourfold Flames Uptime
+## Fourfold Flames Uptime
 
 The set of Fourfold Flames movements can be tricky to keep full uptime. Since this mechanic happens at the end of 2-minute buff window, the general flow is to use:
 
-Combo finishers from the 2-minute burst window for the first set of movements
-Swiftcast and/or Acceleration with Sprint for the second set
-A normal melee combo for the third set
+* Combo finishers from the 2-minute burst window for the first set of movements
+* Swiftcast and/or Acceleration with Sprint for the second set
+* A normal melee combo for the third set
 
 It is also important to note that you do not necessarily have to run all the way to the wall, with the exception of certain Octaflare spread positions (particularly if opposite corners are safe for the second set). Paying attention to where you can stand for the first and third set will help reduce your required travel distance.
 
-Demo clip (dog first): https://clips.twitch.tv/TubularOptimisticPrariedogOneHand-RjFCkmPE-IfxMFas 
-Demo clip (snake first): https://youtu.be/XpmTEVtlmEM?t=267 
-P8S P2
+Demo clip (dog first): <https://clips.twitch.tv/TubularOptimisticPrariedogOneHand-RjFCkmPE-IfxMFas> 
+Demo clip (snake first): <https://youtu.be/XpmTEVtlmEM?t=267>
 
-Adjusted Opener: Contre Sixte
+# P8S P2
+
+## Adjusted Opener: Contre Sixte
 
 Similar to P7S, when using a standard opener, you will usually lose a Contre Sixte to downtime if it’s not shifted earlier in the opener (or lose a use of Corps-a-corps/Engagement). Due to this, you can consider double weaving Contre Sixte with your potion in the opener, or simply replacing the potion weave with Contre Sixte if opting to pot at a later point in the fight.
+
+![Example of rotation under potion for P8S phase 2](/img/image4.png "Rush C6 opener")
 
 If you find that double weaving potion and an oGCD together causes you to noticeably clip, or you struggle to get the final GCD before High Concept 1, you can opt to run a 2.47s recast by using Garlean Pizza (Crit/SPS food) instead of Carrot Pudding. 
 
