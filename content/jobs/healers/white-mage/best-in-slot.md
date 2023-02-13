@@ -16,6 +16,8 @@ changelog:
     message: Updated DSR/TOP set
   - date: 2023-02-03T04:48:06.087Z
     message: Updated TOP sets to include 2.4
+  - date: 2023-02-12T04:12:34.669Z
+    message: Updated Old Ultimate Sets
 bis:
   - type: etro
     description: This set is identical to the 6.2 Mid-Piety Set but swaps most of
@@ -68,56 +70,50 @@ bis:
     link: https://etro.gg/gearset/e2fc82de-9629-48fd-ad46-5b13be00aaba
   - type: etro
     description: This is a higher piety set aimed for people progging for the first
-      time especially if you are running the 233 P& strat which requires
+      time especially if you are running the 233 P7 strat which requires
       substantially more GCD healing. This set also gives more wiggle room for
       raises. You can addd or remove piety melds as you progress, or look to one
       of the higher damage sets.
     name: 2.45 High Piety set DSWU set
-    link: " https://etro.gg/gearset/1e73eb3d-b0d7-4f4f-a54c-f4fe5fc2a8ad"
+    link: https://etro.gg/gearset/1e73eb3d-b0d7-4f4f-a54c-f4fe5fc2a8ad
   - type: etro
     description: This is a higher damage set mostly aimed at people running the 611
       P7 strategy or for reclears. This set should be avoided if you are
-      progging and using a 233 P& strat.
+      progging and using a 233 P7 strat.
     name: 2.45 Low piety set DSWU set
     link: https://etro.gg/gearset/57e81486-cd1b-4b47-8307-c060539faca3
   - type: etro
     description: >-
-      ## TEA Prog set (linked)
+      ## TEA / UWU / UCOB
 
 
-      2.42 GCD | 1364 Piety\
-
-      Flexible set able to accommodate a wide range of Piety levels and two different GCDs. Standard setup uses Smoked Chicken for 2.42, you can use Twilight Popoto Salad for 2.41 or Golden Pineapple Juice for some extra Piety. You can put Piety instead of Det on Relic if desired (in any amount you want) and the Piety melds can be stripped out for Det/DH if you feel you want to go lower. (Existing Det melds can be swapped to DH too).  
+      Synced down gear is your best bet for old ultimates as they will cap both substats and max out your mind and vit. The biggest gear upgrade **by far** is the 515 or 535 Shadowbringers relic, as you can cap multiple substats, but again they are hardly required.  I personally recommend 3+ piety pieces for prog, with your remaining gear prioritizing Crit > Det/SpS wherever possible, and you can always swap the piety slots to higher damage gear if you don't find yourself having MP issues.  Don't worry about getting perfect stats, they won't make a difference for anything but rank one.
 
 
-      **Edenmorn Chest is BiS, use 520 Nier or Augmented Deepshadow otherwise.**  
+      ### **The Weapon's Refrain (UWU)**
 
 
-      **TL;DR: Use this as a starting point and adjust to comfort.**
+      Gear at item level 595 and above will cap both substats.\
 
-
-      ## UWU / UCOB
-
-
-      The damage checks in UWU and UCOB are trivial with current gear, food and potions. The biggest gear upgrade **by far** is the 515 or 535 relic, as you can cap multiple substats, but again they are hardly required.  I personally recommend 1k+ Piety for prog, with your remaining gear prioritizing Crit > Det/SpS wherever possible.  Don't worry about getting perfect stats, they won't make a difference for anything but rank one.
+      Relic stats: 184 Crit/Det, 100 SpS/Piety
 
 
       ### The Weapon's Refrain (UWU)
 
 
-      Gear at item level 470 and above will cap both substats.\
+      Gear at item level 500 and above will cap both substats.\
 
-      Relic stats: 318 Crit, 318 Det, 318 SpS, 213+ Piety
+      Relic stats: 136 Crit/Det/SpS, 60 Piety
 
 
       ### The Unending Coil of Bahamut (UCOB)
 
 
-      Gear at item level 418 and above will cap both substats.\
+      Gear at item level 470 and above will cap both substats.\
 
-      Relic stats: 280 Crit/Det/SpS/Piety
+      Relic stats: 127 Crit/Det/SpS, 87 Piety
     name: Old Ultimates
-    link: 7cdc296b-4889-43c9-ad1b-a21fab6e6001
+    link: Use Synced Gear
   - type: gsheets
     description: "Disclaimer: MP uptime on the sheet is higher than in reality, for
       example the recommended low-piety sets appears to run out of mana around
