@@ -170,36 +170,41 @@ If you find that double weaving potion and an oGCD together causes you to notice
 
 Less optimal alternatives without clipping include:
 
-Standard opener but swapping the order of Fleche and Contre Sixte. This loses our second Fleche under potion and gives less leeway to drift Contre Sixte at all, but is still good if you get the final use of Contre Sixte.
-Pre-pull potion 6 seconds before pulling with a hardcasted Veraero/thunder III, then put Fleche and Contre Sixte where the potion usually is in the standard opener.
-Pre-pull potion 3 seconds before pulling with Jolt II and put Fleche and Contre Sixte as your first double weave, allowing you to get the second Fleche and one more GCD under potion in exchange for the weaker pre-casted spell. 
+\* Standard opener but swapping the order of Fleche and Contre Sixte. This loses our second Fleche under potion and gives less leeway to drift Contre Sixte at all, but is still good if you get the final use of Contre Sixte.
+\* Pre-pull potion six seconds before pulling with a hardcasted Veraero/thunder III, then put Fleche and Contre Sixte where the potion usually is in the standard opener.
+
+* Pre-pull potion three seconds before pulling with Jolt II and put Fleche and Contre Sixte as your first double weave, allowing you to get the second Fleche and one more GCD under potion in exchange for the weaker pre-casted spell. 
 
 The potency for any of these options are close enough to be a sidegrade depending on comfort and how much leeway you want for the Contre Sixte.
 
-Manafication Usage
+## Manafication Usage
 
 Most possible kill times in this phase encourage rushing Manafication, as holding it to align with raid buffs will cause a significant amount of drift due to buff holds forced by downtime mechanics. Rushing Manafication in this fight involves casting it during downtime twice, during both High Concept mechanics, throwing away the 5% self buff but moving it significantly further ahead in the timeline. 
 
 It is imperative that you enter these downtime phases with less than 50|50 mana if you intend to rush Manafication as entering with mana above that value will cause overcap. When rushing you will only be able to get one combo under the ~4:40 buff window, but this is still preferable to losing a melee combo throughout the course of the fight.
 
-Melee Combo and oGCDs before High Concept 1
+## Melee Combo and oGCDs before High Concept 1
 
 At the end of the opening phase, you may find yourself having a lot of oGCDs to weave; using Addle on the High Concept cast is a common recommendation, and will be done at the same time as our final use of Fleche, Contre Sixte, Corps-a-corps and Engagement coming up.
 
 The way to handle this is to delay your last melee combo of the phase up until 15 seconds is left on the Manafication timer, and use Acceleration and Swiftcast mid-combo ahead of time. This will allow you to have a longer sequence of instant casts to use your oGCDs conveniently as they come up. If you try to Dualcast your way through the whole sequence, you may find yourself out of weave slots for the final use of Corps-a-corps and Engagement, or the boss disappears mid hard-cast.
 
-Demo clip: https://clips.twitch.tv/AbstemiousGiantScorpionPJSalt-6LD-NgXV3rYq48lL 
+Demo clip: <https://clips.twitch.tv/AbstemiousGiantScorpionPJSalt-6LD-NgXV3rYq48lL>
 
-Potion Usage
+## Potion Usage
 
 There are two options for potion usage in this fight depending on when your party is using buffs.
 
-Buffing immediately after cutscene
+### Buffing immediately after cutscene
+
 If buffing immediately after the cutscene, around 6:50 into the fight, it is preferable to use a potion in your opener and during the last burst after the cutscene. In this scenario, it is preferable to do a full double combo immediately under raid buffs, potion, and the phoenix buff.
 
-Buffing around first Dominion towers
+### Buffing around first Dominion towers
+
 If your group opts to hold buffs until ~7:15 around the start of Dominion 1, to compensate for later potion usages and using 60s buffs before the cutscene, it is ideal to use your first potion at 2:40 with the buff window after High Concept 1 (double combo), with your second potion coming off cooldown around the time your final burst will start (triple combo).
 
 An ideal 2:40 window will look like this, if you are able to enter High Concept 1 with 36|31 (becoming 86|81 after Manafication and 92|81 after your first GCD in the phase) or more mana.
+
+![Rotation example for the 2:40 RDM Dominion burst](/img/rotation240.png "RDM 2:40 Rotation")
 
 If you entered High Concept 1 with less than the specified mana value due to a lost GCD or Verraise, you may have to Dualcast once between both combos. While this will result in a weaker raid buff combo window, you will still get two full combos under potion.
