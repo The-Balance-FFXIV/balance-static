@@ -1,5 +1,6 @@
 ---
 title: The Epic of Alexander (Ultimate) - TEA
+card_header_image: /img/drg_fight_tips.jpeg
 authors:
   - Balance-DRG-Staff
 patch: "6.31"
