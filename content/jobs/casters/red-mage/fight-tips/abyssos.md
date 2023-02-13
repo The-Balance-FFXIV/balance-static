@@ -8,47 +8,45 @@ changelog:
   - date: 2023-01-19T18:05:50.757Z
     message: Page created
 ---
-For information on Addle and Magick Barrier usage, see https://bit.ly/3AHEMxZ
-P5S 
+For information on Addle and Magick Barrier usage, see <https://bit.ly/3AHEMxZ>
 
-Potion Usage
+# P5S
 
+## Potion Usage
 
 Due to the fight being ten minutes long, using potion off cooldown for progression is recommended as that will get you three potions before enrage. However, it is fairly common for even undergeared parties to kill the boss before or around nine minutes, with kill times going as fast as near seven minutes now. 
 
 With this in mind, it is usually better to use your first potion at two minutes with a triple combo. The downtime from Devour will naturally lead to most parties using the 4-minute buff window at 4:30 instead, which in turn makes the next buff window come up around 6:30 after Ruby 5, allowing you to use your second potion approximately off cooldown.
 
-Manafication Usage
+## Manafication Usage
 
 Most possible kill times here encourage rushing Manafication, especially due to the downtime from Devour and raid buffs typically being delayed. In this scenario, you may only get a single combo under potion and buff window at 6:30. Holding an earlier melee combo for this buff window will generally result in a small amount of overcap.
 
-For very optimized parties, it is possible to consistently kill the boss faster than ~7:30. Since you can’t get a clean fifth Manafication combo at this time, this is the only reliable kill time range where you would align Manafication with Embolden. The ~8:40 to ~9:15 approximate kill time range also technically allows for aligning, but is very narrow and unrealistic to replicate.
+For very optimized parties, it is possible to consistently kill the boss faster than \~7:30. Since you can’t get a clean fifth Manafication combo at this time, this is the only reliable kill time range where you would align Manafication with Embolden. The \~8:40 to ~9:15 approximate kill time range also technically allows for aligning, but is very narrow and unrealistic to replicate.
 
-Adjusted Opener: Fleche and Contre Sixte
+## Adjusted Opener: Fleche and Contre Sixte
 
 Due to 2-minute and 6:30 potion windows being the default recommendation, we have more space in the opener to weave Fleche and Contre Sixte early. This is useful because the standard opener will result in Fleche and Contre Sixte coming up early into the Devour mechanic, causing significant drift. Instead, you can use this opener:
 
-
+![Example timeline of adjusted P5 opener. ](/img/image5.png "P5 Flech C6 Opener")
 
 If you keep Fleche and Contre Sixte strictly on cooldown here, you can get a final use of these abilities before Devour. Doing this will allow around two seconds of leeway for drift for each ability, but any longer and you may ghost the abilities.
 
-
-
-First Two-Minute Buff Window
+## First Two-Minute Buff Window
 
 Due to the Double Rush cast during this buff window, it is important to align things to avoid the risk of losing GCDs due to not being in melee range or ghosting Resolution. While the boss is dashing, using Resolution on him will risk it missing the boss and not dealing any damage. An option to deal with this is to begin your first melee combo when Embolden’s cooldown has 12 seconds on it, which will result in you using Verholy/Verflare and Scorch while the boss is dashing. This timing is especially useful if your group chooses to hold buffs until after the dash, as it allows you to still get two Resolutions under buffs. 
 
+Demo clip: <https://www.youtube.com/watch?v=7prkHAA5h_c>
 
-Demo clip: https://www.youtube.com/watch?v=7prkHAA5h_c
-
-Melee Combo for Movement
+## Melee Combo for Movement
 
 Movement is not particularly hectic in this fight, but every sequence of Venom Squall and/or Surge mechanics are useful timings to hold a normal melee combo in advance, in case you do not have instants available. For the one that occurs in two quadrants after Ruby 5, remember to start the melee combo as the poison starts to expand before crossing into the safe quadrant.
 
 Another mechanic that may require fast movement is the memory game mechanic (Ruby 3). However, this comes shortly after a 2-minute burst window, and just before the first Venom Squall and/or Surge. As such, it is better we handle that mechanic with slidecasting, Acceleration and/or Swiftcast instead.
-P6S
 
-Potion and Manafication Usage
+# P6S
+
+## Potion and Manafication Usage
 
 While still progging or pushing enrage, you should use potions on cooldown as it is possible to get three potions. However, most groups will eventually begin killing the boss in less than nine minutes, making a two-minute potion followed by an eight-minute one optimal for this fight. 
 
@@ -56,34 +54,35 @@ The same applies to Manafication. It should be used on cooldown when progging or
 
 Eight minute (e.g. ~8:0X) or faster killtimes are possible, which would potentially encourage rushing Manafication and adjusting potion timings to the opener and six minute window. But these times are not likely to be achieved outside of highly coordinated optimization groups.
 
-Melee Combo for Movement
+## Melee Combo for Movement
 
 Depending on the strat you’re doing, Pathogenic Cells movement can be tighter to slidecast around. You can hold your second melee combo all the way until this mechanic occurs without overcapping, which will allow you to move in and out of your spot as required.
 
 A normal melee combo can also be useful for Cachexia 1 movement when party members have to take turns baiting Dual Predation, particularly if you are doing a strat that has people rotating their positions. Start this combo during the Dual Predation castbar. However, if you are aligning Manafication with raid buffs, this will require you to use Manafication around five seconds before the six minute raid buff window to do a clean double melee combo under buffs (i.e. two sets of finishers under 20 second buffs).
 
-Demo clip: https://www.youtube.com/watch?v=RH9NeGazhh4 
+Demo clip: <https://www.youtube.com/watch?v=RH9NeGazhh4> 
 
 If you are rushing Manafication, a combo will naturally line up with this mechanic. The mechanic occurs from ~5:33 to 5:45, and you should have a use of Manafication come up around then.
 
-Displacement Dark Ashes
+## Displacement Dark Ashes
 
 These mechanics are a rare instance of Displacement lining up nicely with movement. While not a DPS gain in any way, it does give you more leeway to stay in range of heals or AOE mitigations before going to a corner tile. The arena’s size also makes it safe to do, with little to no risk of backflipping into a wall (note: be sure to use this ability while inside the boss hitbox).
-P7S
 
-Opener
+# P7S
+
+## Opener
 
 When doing the standard opener, our second use of Contre Sixte will come back up during the knock-up stun mechanic that occurs early into the fight, leading to a few seconds of drift. To address this, we can clip Contre Sixte with the potion in the opener. This ensures we can use our second Contre Sixte comfortably before the knock-up, while still getting two Fleche under potion and one under buffs.
 
+![RDM P7S rotation under potion](/img/image4.png "P7S RDM Opener")
 
-Demo clip: https://www.youtube.com/watch?v=P6QmA-O0SLA 
+Demo clip: <https://www.youtube.com/watch?v=P6QmA-O0SLA>
 
-Potion, Manafication and Buff Timings
+## Potion, Manafication and Buff Timings
 
 The way this raid is designed leads to a number of viable buff and Manafication timings.
 
-Progression/Standard Reclears
-
+### Progression/Standard Reclears
 
 The fight lasts until around 11:13, which provides a lot of leeway to use three potions. There are multiple ways to handle this, but arguably the safest way is to use buffs close to on cooldown with potions used at 0-5-10. Potions should be used in the opener, on an unbuffed double combo around 5-minutes (Knockback Multicast into Blades of Attis, so it doubles as a useful movement tool), and for the final buff window at around 10 minutes. 
 
@@ -91,47 +90,42 @@ For the 5-minute potion window, remember to save one charge each of Engagement a
 
 0-6-10:30 potions are also viable. It benefits the most by delaying 10 minute buffs, allowing both potions to align with buffs. However, the 6-minute buff window occurs just before Inviolate Purgation and also has a knock-up stun. Even if you hold buffs until after the knock-up (which could misalign some jobs’ burst windows), you may wish to hold a combo for movement there. All-in-all, the 6-minute buff window is not ideal for bursting under potion, which is why we prefer the 10-minute buff window instead, where nothing else is going on.
 
-It is safe to align Manafication with raid buffs in this scenario, as common progression and reclear kill times are 10 minutes or longer, allowing you to use Manafication every 2 minutes and use the last one 10 seconds earlier if the boss HP is very low by then. When used very strictly on cooldown, you can theoretically squeeze out a final use just after ~11:08, but that requires zero drift through the entire encounter and you will only get a partial combo before enrage at 11:13, which is very high effort for very negligible gain.
+It is safe to align Manafication with raid buffs in this scenario, as common progression and reclear kill times are 10 minutes or longer, allowing you to use Manafication every two minutes and use the last one 10 seconds earlier if the boss HP is very low by then. When used very strictly on cooldown, you can theoretically squeeze out a final use just after ~11:08, but that requires zero drift through the entire encounter and you will only get a partial combo before enrage at 11:13, which is very high effort for very negligible gain.
 
-Optimization
+### Optimization
 
 Optimized parties tend to kill the boss faster than 10 minutes, with the fastest around the 9 minute mark. This puts common optimized kill times in an awkward space where triple potion is often possible, but you could end up not getting good value from the second and/or third potion when using everything on cooldown. 
 
-Some parties will do custom buff timings, such as 0-2-4-7-9. In this scenario, using a triple potion off cooldown is fine.
-2-minute and 8-minute potions (or 7-minute if people delay) are optimal for highly optimized parties that kill the boss into the early 9-minute mark.
+* Some parties will do custom buff timings, such as 0-2-4-7-9. In this scenario, using a triple potion off cooldown is fine.
+* 2-minute and 8-minute potions (or 7-minute if people delay) are optimal for highly optimized parties that kill the boss into the early 9-minute mark.
 
 Another dilemma is that rushing Manafication here becomes optimal again when kill times fall under the mid to late 9-minute range (we get a ~9:18 use when rushing), but with the fastest parties killing the boss closer to 9:15 or faster, 2-minute alignment becomes better.
 
-Purgation Uptime
+## Purgation Uptime
 
-With most groups now using the static position strategy for this mechanic, Red Mage movement is extremely manageable here and can be done by primarily slidecasting, as well as a melee combo or an instant when needed. If possible, try taking the spread position closest to the bridge for less movement between AOEs. If you need to do a longer movement, such as Stack->Stack, a single instant will be more than enough to make the movement comfier. You should also have enough mana for a melee combo by the second set of AOEs, which can be used as needed for easier movement. Keep in mind you should try to stay within the range of heals for Light of Life casts, but this should generally not be an issue even when slidecasting. 
+With most groups now using the static position strategy for this mechanic, Red Mage movement is extremely manageable here and can be done by primarily slidecasting, as well as a melee combo or an instant when needed. If possible, try taking the spread position closest to the bridge for less movement between AOEs. If you need to do a longer movement, such as Stack -> Stack, a single instant will be more than enough to make the movement comfier. You should also have enough mana for a melee combo by the second set of AOEs, which can be used as needed for easier movement. Keep in mind you should try to stay within the range of heals for Light of Life casts, but this should generally not be an issue even when slidecasting. 
 
+Demo clip: <https://clips.twitch.tv/ConcernedIronicHamburgerBrokeBack-pPmIoHfgPsKv3J9J> 
 
-Demo clip: https://clips.twitch.tv/ConcernedIronicHamburgerBrokeBack-pPmIoHfgPsKv3J9J 
-P8S Door
+# P8S Door
 
-Early Buff Opener
-
+## Early Buff Opener
 
 Some groups may choose to use buffs earlier in the opener to account for the possibility of getting the Hippokampus pattern first. If you need to use Embolden early, you can handle this by weaving Embolden with Acceleration after your first GCD, and clipping Manafication with your potion after. This opener will allow your Resolution to be caught by 15 second buffs, making it a viable alternative for when you need to buff earlier. 
 
+![Example timeline of the P8S door boss variant opener](/img/image2rdmp7s.png "Opener Example")
 
+\## Manafication Usage
 
-Manafication Usage
-
-
-If progging to beat enrage or your group is having issues beating the DPS check, using Manafication very strictly on cooldown allows for a final use and additional combo at the very end of the fight. Since the DPS check was nerfed in week 3 and people have gotten more gear, however, it has become common to simply align Manafication with Embolden every time. This works with almost all killtimes outside of enrage while being significantly easier to execute.
+If progging to beat enrage or your group is having issues beating the DPS check, using Manafication very strictly on cooldown allows for a final use and additional combo at the very end of the fight. Since the DPS check was nerfed in week three and people have gotten more gear, however, it has become common to simply align Manafication with Embolden every time. This works with almost all killtimes outside of enrage while being significantly easier to execute.
 
 While progressing with a static, you can consider strictly rushing Manafication first in case your group may need it to beat enrage. If you clear and find you don’t need it, adjusting to a 2-minute aligned rotation should be simple and not introduce any new difficulties.
 
-Dealing with Snake Gazes
-
+\## Dealing with Snake Gazes
 
 In general, there is no absolutely guaranteed way to get full uptime with every snake mechanic or combination. Greeding that one GCD at the risk of wiping the raid is not worth the time it wastes in progression.
 
 However, there are still some safe uptime tricks we can use as a caster at no risk. For many camera settings, casting spells on the boss will make us face it directly. For the first set of snakes, this means you can slidecast your way into either A) having the snakes directly behind you if they are diagonal to each other, or B) having both snakes out of sight beside you if they are across each other. If doing this, ensure you are standing inside the boss hitbox. Examples:
-
-
 
 This does not work for the second set of snakes, but you can minimize loss by paying attention to timing. However, much like the first set, it is not worth wiping the raid over a GCD here, especially this late into the fight. Consider the Vercure tactic to cut your losses if needed.
 
@@ -139,7 +133,6 @@ If you are resolving your gaze or poison puddle mechanic and you find that you n
 
 Example with Gaze: https://youtu.be/xCqHY4eA6Uw
 Example with First Puddle:https://youtu.be/SKz3Cqsj8zU
-
 
 Manifold Flames Uptime
 
@@ -165,10 +158,7 @@ P8S P2
 
 Adjusted Opener: Contre Sixte
 
-
 Similar to P7S, when using a standard opener, you will usually lose a Contre Sixte to downtime if it’s not shifted earlier in the opener (or lose a use of Corps-a-corps/Engagement). Due to this, you can consider double weaving Contre Sixte with your potion in the opener, or simply replacing the potion weave with Contre Sixte if opting to pot at a later point in the fight.
-
-
 
 If you find that double weaving potion and an oGCD together causes you to noticeably clip, or you struggle to get the final GCD before High Concept 1, you can opt to run a 2.47s recast by using Garlean Pizza (Crit/SPS food) instead of Carrot Pudding. 
 
@@ -194,7 +184,6 @@ The way to handle this is to delay your last melee combo of the phase up until 1
 
 Demo clip: https://clips.twitch.tv/AbstemiousGiantScorpionPJSalt-6LD-NgXV3rYq48lL 
 
-
 Potion Usage
 
 There are two options for potion usage in this fight depending on when your party is using buffs.
@@ -207,6 +196,4 @@ If your group opts to hold buffs until ~7:15 around the start of Dominion 1, to 
 
 An ideal 2:40 window will look like this, if you are able to enter High Concept 1 with 36|31 (becoming 86|81 after Manafication and 92|81 after your first GCD in the phase) or more mana.
 
-
-
-If you entered High Concept 1 with less than the specified mana value due to a lost GCD or Verraise, you may have to Dualcast once between both combos. While this will result in a weaker raid buff combo window, you will still get two full combos under potion. 
+If you entered High Concept 1 with less than the specified mana value due to a lost GCD or Verraise, you may have to Dualcast once between both combos. While this will result in a weaker raid buff combo window, you will still get two full combos under potion.
