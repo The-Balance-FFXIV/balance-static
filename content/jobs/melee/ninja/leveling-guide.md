@@ -2,8 +2,8 @@
 title: Ninja Leveling Guide
 card_header_image: /img/jobs/nin/leveling.png
 authors:
-  - Balance-NIN-Staff
-patch: "6.2"
+  - Akashi
+patch: "6.3"
 lastmod: 2022-09-20T06:31:18.692Z
 changelog:
   - date: 2021-10-29T03:07:56.596Z
