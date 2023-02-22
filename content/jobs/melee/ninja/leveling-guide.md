@@ -2,7 +2,7 @@
 title: Ninja Leveling Guide
 card_header_image: /img/jobs/nin/leveling.png
 authors:
-  - Akashi
+  - akashi
 patch: "6.3"
 lastmod: 2022-09-20T06:31:18.692Z
 changelog:
@@ -14,8 +14,10 @@ changelog:
     message: Updated levelling guide for 6.18 (no changes beyond grammar and formatting)
   - date: 2022-09-20T06:31:23.405Z
     message: Updated for 6.20 (no changes)
+  - date: 2023-02-22T03:39:30.934Z
+    message: Updated to 6.3; minor grammar/style edits
 ---
-This guide was written by Akashi Seraph for players who are seeking to, or are currently leveling Ninja. The guide aims to inform players about how to initially play as Ninja, what gear they should use while they level and where to find it, the key basics of the job, as well as some example openers for lower levels. If you are already a level 90 Ninja and are looking for information pertaining to the job at level 90, please see the [Basic Ninja Guide](/jobs/melee/ninja/basic-guide/).
+This guide was written by Akashi for players who are seeking to, or are currently leveling Ninja. The guide aims to inform players about how to initially play as Ninja, what gear they should use while they level and where to find it, the key basics of the job, as well as some example openers for lower levels. If you are already a level 90 Ninja and are looking for information pertaining to the job at level 90, please see the [Basic Ninja Guide](/jobs/melee/ninja/basic-guide/).
 
 ## **INTRODUCTION**
 
@@ -23,7 +25,7 @@ Rogue, which later evolves into Ninja, is a melee DPS role, which focuses on dea
 
 ### **How to Become a Ninja**
 
-Unfortunately you cannot start the game as a Rogue/Ninja, so if you’re dedicated to playing as a Ninja throughout your Main Story Question journey then you’ll want to start the game as either an Arcanist or a Marauder. Both of these classes start in the city of Limsa Lominsa, which is also where you can pick up Rogue. Once you get either of these classes to level 10 and complete the associated class quests up to that level, you can then pick up the first quest to unlock Rogue from Lonwoerd in the Limsa Lominsa Lower Decks (x:8.1, y:16.1).
+Unfortunately you cannot start the game as a Rogue/Ninja, so if you’re dedicated to playing as a Ninja throughout your Main Story Quest (MSQ) journey then you’ll want to start the game as either an Arcanist or a Marauder. Both of these classes start in the city of Limsa Lominsa, which is also where you can pick up Rogue. Once you get either of these classes to level 10 and complete the associated class quests up to that level, you can then pick up the first quest to unlock Rogue from Lonwoerd in the Limsa Lominsa Lower Decks (x:8.1, y:16.1).
 
 ## Gear
 
@@ -32,10 +34,10 @@ Rogue/Ninja currently has its own unique subclass of gear, called Scouting. Howe
 Generally the gear you receive from the MSQ and dungeons is substantial enough to ensure you’re not undergeared until you reach level 50.
 
 **Level 50:**\
-Once you hit level 50 you can purchase iLevel 130 Augmented Ironworks gear from Auriana in Mor Dhona (x:22, y:6) using Allagan Tomestones of Poetics. A full set will set you back around 4,000 poetics and will last you until level 60, though level 54 gear and beyond will have a higher iLevel.
+Once you hit level 50 you can purchase item level 130 Augmented Ironworks gear from Auriana in Mor Dhona (x:22, y:6) using Allagan Tomestones of Poetics. A full set will set you back around 4,000 poetics and will last you until level 60, though level 54 gear and beyond will have a higher iLevel.
 
 **Level 60:**\
-From level 60 you can purchase iLevel 270 Augmented Shire gear from Hismena in Idyllshire (x:5.6, y:5.2) using Allagan Tomestones of Poetics. A full set should cost you the same as a full set of Augmented Ironworks gear. Similar to Ironworks gear, this will last you until level 70 but is outscaled by gear for level 64 and beyond.
+From level 60 you can purchase iLevel 270 Augmented Shire gear from Hismena in Idyllshire (x:5.6, y:5.2) using Allagan Tomestones of Poetics. A full set should cost you the same as a full set of Augmented Ironworks gear. Similar to Ironworks gear, this will last you until level 70 but is outscaled by gear from level 64 and beyond.
 
 **Level 70:**\
 From level 70 you can purchase iLevel 400 Augmented Scaevan gear from Eschina in Rhalgr’s Reach (x:13.8, y:11.8) using Allagan Tomestones of Poetics. A full set should, once again, cost you around 4,000 Tomestones and last you all the way to 80 unless you replace it with level 74 or higher pieces. Shadowbringers MSQ will give you gear coffers as you progress through it.
@@ -50,7 +52,7 @@ Once you reach level 89, and have progressed through the MSQ far enough, you can
 
 Ninja currently follows the stat priority of: Weapon Damage >>> Dexterity >>> Critical Hit > Determination > Direct Hit, while avoiding Skill Speed as much as possible. However, always use the highest iLevel gear you have available to you, as it will always be a DPS gain over lower iLevel alternatives with more desirable stats.
 
-### Materia & BIS
+### Materia & BiS
 
 Materia can be melded following the stat priority list above. Due to the nature of gearsets frequently changing, you can find the most up to date BiS gearsets in the #nin_resources channel in the Balance discord server, or on the Ninja [Best In Slot](/jobs/melee/ninja/best-in-slot/) page on this website. 
 
@@ -90,7 +92,7 @@ Materia can be melded following the stat priority list above. Due to the nature 
 
 ### Filler
 
-Filler is defined by our rotation in-between our primary burst window (Trick Attack once per minute, with Mug alongside it once every two minutes). Given Trick Attack is only 15s long, most of our time is spent within our filler. 
+Filler is defined by our rotation between our primary burst window (Trick Attack once per minute, with Mug alongside it once every two minutes). Given Trick Attack is only 15s long, most of our time is spent within our filler. 
 
 Make sure between your burst windows you:
 
@@ -107,7 +109,7 @@ Make sure between your burst windows you:
 
 Ensure before each opener you always cast ‘Huton’ roughly 10 seconds before the pull, and use ‘Hide’ to reset your mudra stacks back to full.
 
-### Level 50-59
+### Levels 50-59
 
 ![](/img/jobs/nin/image4.png)
 
@@ -123,7 +125,7 @@ If you drop Huton during a fight, either due to > 60s cutscene/stunned downtime 
 
 ### Levels 70-72
 
-**NOTE:** Due to this opener only being useful for a couple of levels, it is recommended to skip this opener and do the Level 73 - 79 opener instead, unless you plan on doing Level 70 Ultimate content such as the Unending Coil of Bahamut (Ultimate), or the Ultima Weapon’s Refrain (Ultimate).\
+**NOTE:** Due to this opener only being useful for a couple of levels, it is recommended to skip this opener and do the Levels 73 - 79 opener instead, unless you plan on doing Level 70 Ultimate content such as the Unending Coil of Bahamut (Ultimate), or the Ultima Weapon’s Refrain (Ultimate).\
 For more information on the level 70 rotation, see the pin in the #nin_questions channel.
 
 ![](/img/jobs/nin/image1.png)
