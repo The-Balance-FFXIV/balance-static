@@ -32,4 +32,4 @@ The best SCH openers are as follows:
 
 
 
-Lastly, potions. Use these at -3s pre-pull so that the animation lock is resolved accordingly and we can begin casting Broil pre-pull. The current best potion for Scholars to use are Grade 6 Tinctures of Mind.
+Lastly, potions. Use these at -3s pre-pull so that the animation lock is resolved accordingly and we can begin casting Broil pre-pull. Use the current highest grade tincture of minds available.
