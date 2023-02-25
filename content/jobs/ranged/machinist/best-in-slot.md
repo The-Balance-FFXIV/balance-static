@@ -14,13 +14,18 @@ changelog:
     message: Updated for 6.2
 bis:
   - type: etro
-    description: ""
-    name: Patch 6.2 Best-in-Slot 2.50 GCD
-    link: 8a0bdf80-80f5-42e8-b10a-160b0fc2d151
+    description: Recommended set, lines up well with savage uptime. Replace TOP
+      weapon with P8S weapon if you don't have it. Remove one DH meld if using
+      P8S weapon. See MCH_QUESTIONS pins for our recommendation for dealing with
+      the 2.47s recast time.
+    name: Patch 6.3 Best-in-Slot 2.47 GCD
+    link: 4f190994-bb9f-424b-8269-c51eee777664
   - type: etro
-    description: ""
-    name: Patch 6.2 Best-in-Slot 2.47 GCD
-    link: d48aaab2-102d-4b29-aa58-f1d7eb035fa0
+    description: More comfortable rotation, slightly lower Vit and lower (sub 1%)
+      Expected DPS. Lines up poorly with the current savage tier. Not
+      recommended for use inside of TOP.
+    name: Patch 6.3 Best-in-Slot 2.50 GCD
+    link: 8a0bdf80-80f5-42e8-b10a-160b0fc2d151
   - type: etro
     description: The BiS for Dragonsong's Reprise in Patch 6.25 using the Relic
       weapon. Relic weapon is better than Asphodelos, and easier to obtain.
