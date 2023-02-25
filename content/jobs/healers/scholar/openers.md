@@ -3,7 +3,7 @@ title: Scholar Openers
 authors:
   - Balance-SCH-Staff
 patch: "6.3"
-lastmod: 2023-01-19T16:46:05.491Z
+lastmod: 2023-02-25T20:40:26.793Z
 changelog:
   - date: 2021-10-27T00:14:33.377Z
     message: Article Created.
@@ -11,10 +11,12 @@ changelog:
     message: Updated for Endwalker
   - date: 2023-01-19T16:46:06.099Z
     message: Patch Update 6.3
+  - date: 2023-02-25T20:40:31.522Z
+    message: "Minor updates. "
 ---
 **Remember that the exact ability usage in these openers is not strict.** If you need to use a heal in the opener or hold an AF stack for later healing do so. This is the ability usage you'd do on a dummy, but not every fight allows for it.
 
-Chain Stratagem is varied, it has several factors that impact its usage within a raid setting. Usually, it is dependent on composition, but may also need to be adjusted for fight timings, though these situations are fairly rare. 
+Chain Stratagem is varied, there are several factors that impact its usage within a raid setting. Usually, it is dependent on composition, but may also need to be adjusted for fight timings, though these situations are fairly rare. 
 
 **Dissipation First Openers:** You can swap the place of Aetherflow and Dissipation in both of the above openers. This can have several advantages: the fairy comes back about 15s earlier due to an earlier Dissipation (giving you access to her healing again), the 2000mp from Aetherflow comes later (meaning it won't be wasted to overcapping), and it aligns Aetherflow correctly for a six ED buff window at two minutes. The last benefit is minor as you can simply delay the two minute Aetherflow instead if using an Aetherflow first opener. The main drawback of doing a Dissipation first opener is the risk of losing an Aetherflow use over the course of the fight or the phase, though this risk is shared by any rotation that does six ED buff windows every two minutes. It also changes the timings of when you get AF stacks back which make an impact on your healing plan. Consider the positives and negatives of Dissipation first when planning out the fight. 
 
@@ -28,7 +30,7 @@ The best SCH openers are as follows:
 
 ![](/img/jobs/sch/sch_ew_swift_opener.png "Swiftcast Opener")
 
-**Swift Opener**: 6 EDs in Chain if done properly, requires a bit of Spell Speed (2.43 GCD should be plenty). The ED directly after Chain cannot be used until the Chain debuff actually applies to the enemy, or else it won't get the Crit buff. **Don't do this opener if you're not going to be trying for all 6 EDs.**
+**Swift Opener**: Six EDs in Chain if done properly, requires a bit of Spell Speed (2.43 GCD should be plenty). The ED directly after Chain cannot be used until the Chain debuff actually applies to the enemy, or else it won't get the Crit buff. **Don't do this opener if you're not going to be trying for all six EDs.**
 
 
 
