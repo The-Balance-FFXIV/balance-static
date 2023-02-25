@@ -1,8 +1,8 @@
 ---
 title: Ninja Best in Slot (BiS)
 layout: bis
-patch: "6.2"
-lastmod: 2022-09-20T06:27:00.113Z
+patch: "6.31"
+lastmod: 2023-02-24T22:03:22.563Z
 changelog:
   - date: 2021-10-29T03:14:26.634Z
     message: Created page
@@ -12,17 +12,28 @@ changelog:
     message: "Updated for 6.10. "
   - date: 2022-09-20T06:38:14.890Z
     message: Updated for 6.2.
+  - date: 2023-02-24T22:03:29.032Z
+    message: Updated for 6.31.
 bis:
+  - type: etro
+    description: ""
+    name: 2.10 GCD TOP BIS (With Clear)
+    link: https://etro.gg/gearset/48376486-c63b-4867-bb94-d766151397a4
   - type: etro
     description: This is slightly worse than 2.10 in simulated damage, but is much
       comfier to play.
-    name: 2.12 GCD Savage BIS
-    link: 9e07d761-8105-4ee5-9921-8f35d8b4a631
+    name: 2.12 GCD TOP BIS (With Clear)
+    link: 37dadadf-7fa3-4236-8f7f-39d2d8ab6ccf
   - type: etro
     description: This is the highest simulated set, but is slightly harder to play
       perfectly.
-    name: 2.10 GCD Savage BIS
+    name: 2.10 GCD TOP BIS (Without Clear)
     link: c0c2ba50-b93a-4d18-8cba-a0ebb0705fed
+  - type: etro
+    description: This is slightly worse than 2.10 in simulated damage, but is much
+      comfier to play.
+    name: 2.12 GCD TOP BIS (Without Clear)
+    link: 9e07d761-8105-4ee5-9921-8f35d8b4a631
   - type: etro
     description: ""
     name: DSR BIS (With Clear)
