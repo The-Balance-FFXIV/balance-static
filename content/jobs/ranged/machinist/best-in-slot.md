@@ -15,9 +15,9 @@ changelog:
 bis:
   - type: etro
     description: Recommended set, lines up well with savage uptime. Replace TOP
-      weapon with p8s weapon if you don't have it. Remove one DH meld if using
-      p8s weapon. See MCH_QUESTIONS pins for our recommendation for dealing with
-      the 2.47 recast time.
+      weapon with P8S weapon if you don't have it. Remove one DH meld if using
+      P8S weapon. See MCH_QUESTIONS pins for our recommendation for dealing with
+      the 2.47s recast time.
     name: Patch 6.3 Best-in-Slot 2.47 GCD
     link: 4f190994-bb9f-424b-8269-c51eee777664
   - type: etro
