@@ -23,7 +23,7 @@ bis:
     description: This is slightly worse than 2.10 in simulated damage, but is much
       comfier to play.
     name: 2.12 GCD TOP BIS (With Clear)
-    link: https://etro.gg/gearset/37dadadf-7fa3-4236-8f7f-39d2d8ab6ccf
+    link: 37dadadf-7fa3-4236-8f7f-39d2d8ab6ccf
   - type: etro
     description: This is the highest simulated set, but is slightly harder to play
       perfectly.
