@@ -3,13 +3,15 @@ title: Monk Advanced Guide
 card_header_image: /img/jobs/mnk/advanced.png
 authors:
   - Perfect-Balance
-patch: "6.21"
-lastmod: 2022-04-24T21:05:02.073Z
+patch: "6.3"
+lastmod: 2023-03-06T14:29:47.038Z
 changelog:
   - date: 2021-11-15T21:07:56.881Z
     message: Added page
   - date: 2022-04-23T16:13:41.661Z
     message: Moved everything from the Basic guide that needs to be here.
+  - date: 2023-03-06T14:29:48.655Z
+    message: Added Macromania.
 ---
 # Advanced Monk Gameplay Techniques: Reaching Enlightenment
 
@@ -43,11 +45,11 @@ Generally the only reason for using this opener is going to be if the delayed bl
 
 # Useful Plugins
 
-| Plugin                    | Description                                                              | Link / Info                                                                                                                                                                                                                                                                                                                                                
-| ------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
-| Triggernometry            | Many triggers we typically use hinge on Triggernometry to function       | [GitHub](https://github.com/paissaheavyindustries/Triggernometry/releases)                                                                                                                                                                                                                                                                                 |
-| Auto-Attack timer         | Displays a bar showing your auto-attack timer                            | [XML Guide](https://cdn.discordapp.com/attachments/166036664341364737/920290186762534932/auto_timer_guide_edition.xml)                                                                                                                                                                                                                                   |
-| Missed positional trigger | Says "miss" when you miss a positional. (Doesn't require Triggernometry) | Go to Custom Triggers in ACT and import XML.  Change "NAME HERE" to your character's name and copy below to your clipboard: ```<Trigger R="^A[^ ]* 15:[^:]+:NAME HERE:((38428(CFD2)5F3\\\\\[EF]DE\\\\\[B24]64AC1D3\\\\\[9A]):[^:]+:[^:]+:[^:]+:(73\\\\\[9ADF]46)(DEB58):[^:]+:[^:]+:[^:]+:(3644))" SD="Miss" ST="3" CR="F" C=" General" T="F" TN="" Ta="F" />``` |
+| Plugin                    | Description                                                              | Link / Info                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Triggernometry            | Many triggers we typically use hinge on Triggernometry to function       | [GitHub](https://github.com/paissaheavyindustries/Triggernometry/releases)                                                                                                                                                                                                                                                                                   |
+| Auto-Attack timer         | Displays a bar showing your auto-attack timer                            | [XML Guide](https://cdn.discordapp.com/attachments/166036664341364737/920290186762534932/auto_timer_guide_edition.xml)                                                                                                                                                                                                                                       |
+| Missed positional trigger | Says "miss" when you miss a positional. (Doesn't require Triggernometry) | Go to Custom Triggers in ACT and import XML.  Change "NAME HERE" to your character's name and copy below to your clipboard: `<Trigger R="^A[^ ]* 15:[^:]+:NAME HERE:((38428(CFD2)5F3\\\\\[EF]DE\\\\\[B24]64AC1D3\\\\\[9A]):[^:]+:[^:]+:[^:]+:(73\\\\\[9ADF]46)(DEB58):[^:]+:[^:]+:[^:]+:(3644))" SD="Miss" ST="3" CR="F" C=" General" T="F" TN="" Ta="F" />` |
 
 &nbsp;
 
@@ -165,6 +167,194 @@ Upon installing the plugin via Triggernometry, it should look something like thi
 ![Auto-Attack Trigger](/img/jobs/mnk/mnkguide_0016_aatrigger.png "Auto-Attack Trigger")
 
 If you click on the !README and then click Edit, you'll see a "Move me" action. This can be used to move the element wherever you would like on your screen.
+
+# Macromania - By guest author Mantra Bot
+
+Hello monks, my name is Mantra Bot and I am here to tell you all about the wonderful applications of macros when they aren’t being used for crafting rotations and fancy collapsable hotbars. Special thanks to Speedy Ben for discovering mouseover macro GCDs with me, Neiru Salwa for their macro queue diagrams, Andy Lee for being a good lab rat, Aya Liz for knowing all of this tech better than I do already, and the plethora of people who gave suggestions on my WIPs you know who you are.
+
+## Macro Queuing
+
+When you press most actions anytime in a 0.5 second window before they’re able to be cast, the game will “queue” the input for you. That is, after animation lock ends and the cooldown on the action is complete, the action will be cast.
+
+Something this action queue does not apply to is macros, macros execute independently of anything else. So your 4 line suiton macro with ten chi and jin lines will still go off even if you’re in the middle of the GCD roll, doing utterly nothing as the animation lock is not yet complete–the lines of the macro attempt to execute, but are not able to. Time it slightly less incorrectly and maybe you’ll do a hyoton.
+
+What this section will instead try to explain is how you can emulate the normal action queue for a single ability, spell, or weaponskill through the use of properly written macros.
+
+To start, the lines of a macro are executed every frame. That is, let’s say you have a macro where the first 14 lines are /ac “Leg Sweep” and the final line is /micon “Leg Sweep” in order to track its cooldown.
+
+This macro will attempt to input Leg Sweep every single frame for 14 frames. This means that if you press this macro anytime in the 14 frame window before the animation lock from your last ability or weaponskill is over, it will cast Leg Sweep on the first frame on which you’re able to. Conversely, if you had only used a single line of ‘/ac “Leg Sweep”’, you would have to be frame perfect on your macro press in order to cast Leg Sweep on the first frame on which animation lock is over. 
+
+Because the normal 0.5s action queue also executes your action on the first frame on which it’s able to, the 14 line macro queue is functionally the same, albeit with a much smaller timing window.
+
+“action queue comparison” by Neiru Salwa
+
+![](https://lh6.googleusercontent.com/OUwBNX_pBqHNUOIsvG7VljYVwd3F_maoqHBEREihXemt72so9LZlZTwqco4Un6f1A2dZzWPGasnCFQgrj3s1IDilMs8u0RxJvA5bTVJj3lmQN-98LUTCWnyB9c5XNoL8IiZrnIibHamX_-N_O-FMsbo)
+
+The diagram above by Neiru Salwa attempts to visualize how the normal 0.5s action queue and the 14 frame macro queue can be considered to be functionally the same. With the knowledge that the lower green portion is when the action is cast, notice that the normal Leg Sweep and the 14 line macroed Leg Sweep are cast at exactly the same time–the frame after animation lock completes. The 1 line macroed Leg Sweep has no queue time at all and therefore does not cast the action when used at the same time as the other two–a frame perfect input would have had to be executed in order to use Leg Sweep the frame after animation lock completed.
+
+However, do understand that higher framerates will make this 14 frame window much tighter. At 60 fps, a 14 frame window is roughly 0.25 seconds of queue time. Increase your framerate to 120 and suddenly that queue time is halved to roughly 0.125 seconds. The reverse is as expected: at 30fps the 14 frame window takes up almost a full 0.5 seconds. At all framerates, the normal 0.5 second action queue stays constant.
+
+![](https://lh5.googleusercontent.com/hROtrDcqteSdt__iQl4Tg0U0c01FbXC0oLQEF8dWHym3canj9eXi6RwLy3n9SNiBxt0LlptUp1qgVVk53P1fiRVw0qI624xOTzk7CvOFEyVZnRYE3XQYjv44-Cijmd2Nxlh8RFKo1FL-SDjiT1MyDUs "Chart")
+
+The importance of this information is more in how it applies to abilities such as DRG’s Dragon Sight or DNC’s Closed Position, allowing you to use a mouseover macro for instance while still being able to double weave it with other abilities. This also explains why our mouseover Thunderclap macro is written the way it is.
+
+### Applications
+
+Where macro queuing truly shines is how it can be used to queue inputs when you normally cannot. Take the situation where a boss becomes targetable after a period of downtime (P5S’s Devour, P8S’s High Concepts, etc). You can’t actually use the normal 0.5 second action queue here, as there’s nothing to target. This means that with normal button presses, you’ll be stuck in the same situation as the single line macro: to cast your gcd on the frame on which the boss becomes targetable, you must be frame perfect with your input. We can fix this issue through the use of macro queuing: the lines of the macro will always attempt to execute even if the conditions to use your GCD are not met. Therefore, press your shiny first GCD macro in the 14 frame window before the boss becomes targetable and you will cast your GCD on the very first frame on which the boss is targetable.
+
+“targetability queuing” by Dr. Salwa
+
+![](https://lh5.googleusercontent.com/-T2vlYG3DIJCsPUuruolAsPQfZnJvO5oPpY_hebCS1RJNiDfbC4ROSVTJAGrPaZPEHnrWfVegwaG8gWdOS02HMq3gNAGBmZz7HQ6ZUttHTGRXLRCpdtXp-RufRDNxCwVmlnWpAgnJfwbdxz1A4k9408)
+
+Note that the use of a macro queue in this scenario is pretty much a more ethical version of a third party tool, such as an AutoHotKey script, that spams your buttons every single frame.
+
+As a side note, you also have to address the problem of actually targeting the boss. The easiest solution here is to turn on auto-target in the character configuration. This option has no downsides, at least from my experience–your macro will both target and execute your GCD as soon as it’s pressed. If you still refuse to yield, know that holding tab will also target on the first frame; as opposed to mashing tab, which falls into the same trap as the normal action queue when a boss goes targetable.
+
+Macro queuing also applies to any scenario in which your animation lock and GCD are over but you can’t actually use anything due to stuns, knockups, etc (i.e. the stuns in P6S, the knockup in P7S). Similarly, in these cases you can’t queue your next action using the normal action queue due to the evil “cannot execute at this time” message. Instead, you can use the macro queue to cast immediately after the said stun or knockup finishes.
+
+Additionally, this applies to moving back into a skill’s range after your GCD roll and animation lock are finished. In this case, there isn’t an actual timer or status you’re trying to queue your input on, rather you cannot use the normal action queue while outside of the range of a skill: You’re using the macro queue to cast on the first frame you get back in range. On Monk, this applies to moving back into melee range to use a weaponskill or ability, as well as moving back into the 20y Thunderclap range.
+
+However, don’t leave this guide and convert your entire hotbar to macroed abilities and GCDs. At most, all you gain is very, very slight consistency on where your cast is at the start of a phase, maybe frame 1 versus frame 7. Not to mention the smaller queue time inducing possible GCD clips if you’re not pressing the macros at the correct times. What I personally recommend if you want to use this tech is to have separate buttons for the GCDs that you want to macro, ideally bound to a key that you can spam comfortably (dare I say it, even a clicked macro could work here 😬). 
+
+The last place where the macro queue was truly helpful was the mythical “ripple GCD” of Dragonsong’s Reprise (Ultimate) during the rewind phase. Because the stun from Grinnaux had propagation delay as it applied to each player–closest were stunned first, farther players received the stun last–you could actually hit Charibert right before the stun applied to you. However, because of Charibert only being targetable as the stun initially goes out, hitting this GCD as the anything but the 8th person to receive the stun propagation was difficult. The macro queue alleviated this problem as a way to consistently hit the GCD and remove the overreliance on being the 8th person in line for the stun propagation–you could go as far as the 5th person in line and still hit the GCD. ![](https://lh5.googleusercontent.com/4mrBofkc8uZnIYrX0velIYpOBIzFXSg8LD8p09Dlwui7GZWK5dry4zReGUkh3QukgwHjDulc8lFe1ZSfEji956Dfk5R2Y9RU0FV9Q3cBJtdEkkHfFxLbNHuctMM83LSxmN7NLdYsHZ_KwHDRT94kaJs)
+
+(non-macroed farthest person away clip: <https://streamable.com/sl7cce>) 
+
+**Addendum: The \<t>echnology**
+
+Thanks to the efforts of Nyan Pls, there is now another application of the macro queue. It turns out that adding <t> to a /ac line will force you to have a target in order to execute the action.
+
+This means that, for example, if you hold tab and spam a 14-line /ac Rockbreaker <t> macro, it will macro-queue the Rockbreaker for when the boss is targetable. Obviously this doesn’t really apply to Monk, as in most scenarios you’ll start post-downtime with an Opo or Twin - 1st GCD post-downtime blitz is usually avoided. This is much more important on jobs such as Dancer, as it allows you to queue something like Standard or Tech Step out of downtime.
+
+## Macrochakra
+
+Now that you understand how macro queuing works thanks to the last section, we can now lessen the burden of chakra as a mechanic.
+
+![](/img/jobs/mnk/6_meditation-macro-lines.png)
+
+
+
+If you’ve played Monk, you’ve definitely felt a sort of “clunkiness” when it came to mashing your Forbidden Chakra button during Brotherhood. That awkwardness can be blamed on the fact that you can’t queue TFC when not at 5/5 chakra. There’s another problem too: mashing too hard on a late chakra proc and queuing a Meditation instead. This is because of how long the 0.5s action queue is compared to Mediation and TFC’s shared 1s recast time.
+
+(note: an /ac “Meditation” macro line will execute The Forbidden Chakra when at 5/5 chakra)
+
+A macro solves both of these problems. TFC being unqueueable when outside of the 5/5 chakra state is the same situation that has been solved in the previous macro queue applications–by using a macro you have a 14 frame queue on whenever you get 5/5 chakra within the GCD. The problem of queuing a Mediation is also alleviated because of the much smaller 14 frame queue (at normal framerates) leading to less accidental queues. But this is also because of how the normal action queue takes precedence over macro lines when queuing an action–if you’ve already queued your next weaponskill and attempt to use a macro in that 0.5s window, it will ignore the macro actions entirely and queue the weaponskill cast.
+
+Although this seems like nothing but a gain because of dodging most of the chakra overcaps during Brotherhood, there is one important caveat: you must work with a 14 frame queue for every single Forbidden Chakra cast. This means that if you’re in the situation of 5/5 chakra during animation lock (e.g. hitting Bootshine at 4/5) you must adjust your TFC cast time such that the 14 frames overlap with the completion of the animation lock. Essentially, you are accelerating your progression to carpal tunnel status because of the obligation to spam this Meditation macro anytime you approach 5/5 chakra. 
+
+While you can use both a macroed TFC and a normal TFC button at the same time, consider that you’d have to adjust on the fly to which button to use at the right time–normal TFC’s during animation locks and macroed TFC’s outside of animation locks during Brotherhood. An easier, less brain intensive and muscle memory shattering fix is to lower your framerate to get a relatively longer 14 frame queue window. If you’re still sticking to the 2-button chakra solution, consider remapping mousewheel to your macro keybind similar to how source games bind jump to mousewheel in order to bhop.
+
+If you use ReAction, you might be wondering about how sundered chakra plays into this. Actions that do not meet their requirements to be used cannot be queued, therefore even after splitting TFC into a separate button you can’t use the normal action queue to queue the 5/5 chakra state during Brotherhood. A consequence of chakra sundering is that the /ac “Meditation” lines won’t use TFC when at 5/5 chakra anymore. Because you cannot macro actions that cannot be assigned to your hotbar, the only solution here (barring finding a plugin that allows macroed TFC) is to turn off chakra sundering.
+
+### Early and Late Queues
+
+With the information that macro line actions essentially stop working once you’ve queued an action, there is a certain rotational choice we can use to further guarantee less chakra overcap. 
+
+As soon as you use an action inside of the normal 0.5s action queue window, it is “locked” into being cast at the end of animation lock. Macro queues do not possess this quality and can be said to have a “lower priority” than other actions. For example if you were to use your TFC macro 14 frames before animation lock completes then queue a PB cast say 12 frames later, even though you “cast” your TFC first, the PB input will take priority and be cast instead of the TFC. Take the other extreme where you queued your PB input a full 0.5s before animation lock completed and then spammed the living hell out of your TFC macro. In this case, the PB input is already locked into the action queue–even if you do attain 5/5 chakra during the 0.5s normal action queue, nothing can be done to use that chakra.
+
+“the early early weave vs. the late early weave”
+
+![](https://lh3.googleusercontent.com/J11nG__fur_EFzOQoDOFontzlVR2RxzM1-hXRQcZof_l9NfsBRA8j6pOA_tJshF5HwZQTdbI0u2yrMNZQFEM0-i3UB2vTE6_VlC9z7A_PZKaEMIpxzGkmGZU2pOewpRC8AAPmRnbT2KIfvc-E7Nu9ig)
+
+With the concept of the action queue lock in mind, there is a very small but meaningful rotational adjustment we can make to play around it during Brotherhood. By delaying any first weave oGCD queues until as late into animation lock from your GCD as possible, you leave yourself the option to early weave TFC and reduce the amount of time you're sitting on 5/5 chakra during Brotherhood in the event you reach 5 chakra during the previous GCD's animation lock.
+
+Ideally this is just another tool used during Brotherhood in tandem with any personal chakra proc prediction/gambling methods that you’ve built up while playing monk.
+
+### Going Cyberpsycho
+
+Another concept born from the knowledge of the action queue lock and Brotherhood chakra procs is the complete automation of Brotherhood chakra procs as a mechanic. First, use the Dalamud plugin NoClippy to increase the normal action queue size from 0.5s to 0.6s (or 0.7s if you’re scared). This means that with proper button mashing of both your GCDs and your Meditation macro, even the worst case scenario of reaching 5/5 chakra at the beginning of the normal action queue won’t result in you clipping your next GCD due to animation lock on TFC. Next, find a way to mash your Meditation macro keybind constantly during Brotherhood’s duration (mashing outside of Brotherhood could potentially ruin a Perfect Balance + Riddle of Fire weave). An toggleable AutoHotkey button spam script works here, with a more ethical version being binding your mousewheel to your macro keybind then [using a pressurized air can on your unlocked Logitech mouse scroll wheel](https://youtu.be/dap5lEuS5uM).
+
+If you refuse to use AutoHotkey and are too poor to buy compressed air, a worthy alternative that still results in complete chakra automation during Brotherhood is to use the Dalamud plugin Macro Chain. With the usage of /nextmacro lines you can increase the number of frames a single meditation macro queue covers–all the way up to a potential 1399 frames if you’re willing to commit ritual sacrifice and convert one of your entire macro pages to meditation macros. Unfortunately this only covers the entire of Brotherhood while at 93 FPS or below, so if you’re a 144hz gamer you might have to press the macro a 2nd time during BH 😔
+
+“average Macro Chain enjoyer”
+
+![](https://lh5.googleusercontent.com/ZW2QTEHunadEC32QZah94emcXFsvgrQnuGpI7aaZf3L236VVdlI8-Lp_d8bNrgt3grG1nQjlc04C-IqpTeyMLdAgTFOeelhZe2yssAibUhrVwaa6-nLiWK81CaLCKEBRGYVHdHCtCye7LwZLCA99Ko0)
+
+One of the downsides of chakra automation would be the situation of planning to late-weave an action during Brotherhood and getting a mid-weave 5/5 chakra. Realistically, the only time where a late-weave would be “required” while already inside Brotherhood would be unfortunate Riddle of Wind or Feint timing. Otherwise, usual chakra prediction methods and late queuing of normal oGCDs still apply even in the world of automated chakra and high speed mousewheel gaming.
+
+## Mouseover Macroed GCDs & Application Delay Adjustment
+
+Another wacky application of macros is exploiting how a mouseover action can execute a weaponskill on a target without queuing an auto, allowing you to delay your first damage application.
+
+To actually dig into this, I have to first explain how initial boss aggro–the start of an encounter–actually works. The usual suspect is aggro range: when a person stands within a specific radius of the boss and the magical invisible and impossible to predict (for now) aggro ticks automatically aggro the boss to that person. The other even more usual suspect is the first instance of threat generation, usually the first damage application by anyone in the party. 
+
+Notice however that this is specifically the damage application and not the cast: theoretically if you timed your first cast before the pull started such that the application delay lined up perfectly with the countdown hitting zero, you’d pull on time, e.g. pressing Dragon Kick at -1.29 seconds. This is pretty much the same idea as a wizard’s precast, barring the fact that they are also dealing with their own application delays.
+
+“the auto attack limiter”
+
+![](https://lh5.googleusercontent.com/jrWjpksY0FB9ERetXykDkd8G6VWORDy-YmyQ5HbvSuZNOzwAsXcHZbwTko_TnHa7vtj3OdGGfoxhEdKuGq-MVX-Mdy2BZGyRec4GCpeQK5eX0PL9FTpp-LmBuVB5SBg7fPVb3XJSArU00Zg-SsU5FbU)
+
+Unfortunately, using a weaponskill with the boss targeted while in melee range will also cast auto attack which has an application delay of around ~0.53 seconds. This means we’re limited by this auto application delay, unless we were to miraculously find a way to cast a weaponskill on a target without queuing an auto…
+
+As it turns out we have our savior in the form of a mouseover macroed action:
+
+![](https://lh6.googleusercontent.com/Wl6OAg7t57YSKzTBbDlzP4WY6ZdEMORtEQcRXXyEOQpYa8ENcR0L50NJR59MhQ0MmneiN-bzhXzj9k7J98OxBM810e8or-g45pHBPE_tIYy0Z1Y5KKc52pc_QkqdO_ialEMrAZegU2Nd8ZsNRfOIVwc)
+
+A mouseover will execute our action, Dragon Kick, without the need to target the boss and it happens that using such a mouseover action without the boss targeted will cast the weaponskill without queuing an auto.
+
+We have almost reached the promised land, but there is one last very important thing we need to take care of: applying the same application delay adjustment on our first auto. We must time our first auto attack cast such that the auto damage application will happen at exactly the same time as Dragon Kick’s damage application. If you timed your Dragon Kick correctly this means queuing an auto at around -0.53 seconds: 0.76s after your initial Dragon Kick.
+
+“the promised land”
+
+![](https://lh3.googleusercontent.com/e0KYoJ-fnLv_goHV25Vkoo_IPKsrdmxYycdxP_p93fBosy14x1M3F6gxr5aIg7bfQGWGQxTtQjTem6YbOoddG4tZkG32StiVbeGRQFWpUWc9dmgaXLX_m-p3pLFI3nWlkZPkL02JJD5H1hwQwZYUAm4)
+
+To cast this auto, either you can right click on the boss from an untargeted state which is my recommended method as you’re already doing a mouseover action, or you can press your “confirm” keybind twice: once to target the boss, and the other to start autos. A good visual/audio cue for when to time the auto is on the 2nd “swing” of the Dragon Kick animation: <https://streamable.com/jnxzr4>
+
+If you’re doing a normal lunar solar opener this means weaving your tincture in while doing these wacky inputs. Because cybernetic augmentations that do these inputs for you do not exist (unless you make them yourself), you’re on your own here–with enough practice it becomes very consistent.
+
+While this tech does apply to every job’s first gcd, a given job has to have an application delay long enough to actually gain anything out of it. For example, Samurai’s Gekko has an application delay of around 0.76s so they would only start around 0.23s faster compared to normal auto application. Wizards have it rather easy, as their casts do not start autos and damage those autos do are rather negligible: if they weren’t already adjusting for application delay they stand to gain a huge amount of time from application delay adjustment, compounded with their actual precast times. Black Mage, for instance, has an application delay of \~1.29 on Fire III, the same as Dragon Kick. Also consider the special case of White Mage, wherein you can exploit Holy III’s \~2.14 application time and full GCD cast time to precast it in AOE range if and only if you don’t lose a Glare III cast compared to the timeline where you just precasted and application delay adjusted a Glare III instead. In an organized party setting, ideally you would have everyone “reverse ripple” their application delays–syncing their first casts such that every damage application occurs at the same time.
+
+Not all parties are created equally of course, and finding yourself paired with a machinist early pull demon who presses Air Anchor at -1.2s which pulls the boss 0.76 seconds later due to machinist auto attack application delay might be inevitable. If an exorcism isn’t viable, consider adjusting your own application delay adjustment to be for their first damage application (in the case of the machinist demon, a -1.73 Dragon Kick to be in line for their first auto application at -0.44)
+
+### The FFLogs Discrepancy 
+
+However there is a problem that makes mouseover macroed GCDs wholly worthless in most scenarios if you care about your funny FFLogs number: the discrepancy between when boss aggro is initiated and when FFLogs decides to start a log.
+
+![](https://lh4.googleusercontent.com/WQIq4dzCo7L_jdDJiApVB1lzMMgi4ZQ1sgL53rnKNYwgEwz-1z5YfRNcDVrE92dR9sRQavYApqnINjM60VwnUuP-DTFV0TftX7RjmIC_7UKmdQIGyQwSM7A7LaWGeXcsNTHcn642WoOIak4h1PJ0K-g)
+
+In the log snippet above, resident monk player Mister Andy Lee does a perfectly executed mouseover macro DK and lines up his first damage application with when the countdown hits zero. Notice how it is not the damage application of his first cast at the timestamp 00:00.000, but rather the cast of his first instance of damage application. This means that if you do execute application delay perfectly, any time that you “gained” from a delayed application just gets added to the log anyway. Not to mention that because of the delayed auto application, there is a chance that you will lose autos versus if they had just queued with your first weaponskill. 
+
+“the dead zone”
+
+![](https://lh4.googleusercontent.com/zWFY7VHrbYAHU2gF7lUysp2y18CDhRy1O-WC_Ps-YvDY6SUK44GVhaI9HAt9rVfn2t6LcLH5U-Ila7U9EfTjTaHF151txtbvA8KcdkgbtLzoyfhLr9FshKWqW4M5uz3-tZJz8GIBhM86Ht6O4T3_69M)
+
+With this “dead time” in mind, if you’re not gaining an extra GCD because of the tech, you are only going to lose DPS from both missed autos and a very slightly longer encounter time. This is of course, only for FFLogs: in-game enrage timer is based off of initial boss aggro time–you can only stand to gain from this tech if we’re strictly looking at how much damage you can do before the boss enrages. 
+
+This also means that in an organized party setting, in order to remove as much “dead time” as possible, every single player would ideally just sync up their casts instead–pressing weaponskills as close to 0s as possible and precasting spells such that casts finish immediately at 0s. While this is definitely not as cool as reverse rippling, it’ll ensure that you don’t get almost a full second added to your speed kill because of a goblin Black Mage.
+
+Note that Khira, the creator of FFLogs has identified this as an issue and plans to fix it eventually™. When fixed, this means that application delay adjustment will hopefully have no downsides, as logs would start at initial boss aggro.
+
+### Applications for Monk
+
+Now you might be wondering what applications of mouseover macro technology exist. The short answer is that there are almost none. 🙂
+
+You have to consider that this is only applicable to bosses where you can start in melee range without pulling the boss. In addition, because of FFLogs behaviour it’s only ever a 100% gain if you can guarantee an extra GCD through the use of this tech. Also, because of the “in-combat” state being so delayed relative to your GCD spin because of the longer first application time, Perfect Balance will be impossible to weave before your 2nd weaponskill without clipping: standard double solar and solar lunar openers will be impossible to execute. Despite these three factors weighing heavily on the viability of a mouseover macro DK, there are still situations in the current tier where you can gain from it.
+
+#### Hephaistos II
+
+On Monk, the only instance where you stand to definitely gain a GCD from this is in P8P2. There, after using a macroed mouseover Dragon Kick, you can gain one (1) GCD before Mr. Hephaistos Two from FFLogs leaves for the first High Concept:
+
+“the illustrious hc1 sss”
+
+![](https://lh6.googleusercontent.com/sxmNErEDro464rde45krKneN0WxfH89qCtcP7xYDoUro6UXBrttCmmtF5xRom5eo7VK_JB5dcXiE5hm52NdfjJCHinrTuV3CDdddz0ddapDlf7R5gb_DpnQ34PiLxbm2ktgaccf1vSjFsFfU6j0iyxg)
+
+The top timeline has a Dragon Kick as the first damage application at ~1.29, and the bottom timeline has a Dragon Kick application that is more in line with a non-application delay adjustment button presser. If the below timeline had instead gone for an extra filler Dragon Kick before the Six-Sided Star, their Six-Sided Star would have surely ghosted (in this case, they started so late that the cast wouldn’t have gone off in the first place). By starting with a mouseover macroed DK, the top timeline assures that they get a small window to cast their final SSS without ghosting.
+
+At 1.94 the window to hit this GCD is about 0.26s (varying based on packet memes): if your damage application isn’t what’s pulling the boss or if you clip in the slightest then it’ll be impossible to hit. While switching to 1.93 would make this window much larger, the effort exerted in remelding to 1.93 would be much more than simply learning how to better execute the window.
+
+#### Agdistis
+
+The other, more questionable use of mouseover macroed Dragon Kick is in P7S. Using it allows you to opt for a Six-Sided Star cast in the place of a Twin Snakes for the GCD immediately before the first Immortal’s Obol cast (the first knockup). However, it requires 1.93 in order to not clip your post knockup GCD with SSS recast by ~0.3 seconds:
+
+“one-point-nine tree”
+
+![](https://lh6.googleusercontent.com/UmNHQf41L98MUp5ZpXVyisYx4ZAKz1nx-qbIgySNofvyeR62zKEp7KaxlbgNHjoy9cjcHaFGfxBazIvyaPZUmA7egl3MKiDiUo--VUOBMkPQYdl-nj1wOSN_8WSypB3XfZW7TqRcloYXbRI-UXODark)
+
+The top timeline has a mouseover macro DK start, and the bottom is just a normal start. Notice that considering the GCD alignment of the bottom timeline, a Six-Sided Star in place of the Twin Snakes would have surely clipped their post knockup Snap Punch. The top timeline, with their GCD roll accelerated relative to boss mechanics because of their mouseover macro Dragon Kick opening, can manage to get this Six-Sided Star cast without any clip at all on their post knockup Twin Snakes.
+
+While this definitely seems like a gain in the ballpark of ~270 potency, because of the added FFLogs encounter time due to the application delay of DK, along with how a SSS drifts your Demolish timings, you’d have to see for a given killtime if doing this is even a gain. If in doubt, completely ignore this tech and just do a normal, very slightly early DK to ensure you get the pre-knockup Twin.
+
+<!--EndFragment-->
 
 ## Sub-90 Play
 
