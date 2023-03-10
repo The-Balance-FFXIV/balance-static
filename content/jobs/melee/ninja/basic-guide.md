@@ -3,8 +3,8 @@ title: Ninja Basic Guide
 card_header_image: /img/jobs/nin/basic.png
 authors:
   - jackal
-patch: "6.2"
-lastmod: 2022-09-20T06:32:36.315Z
+patch: "6.3"
+lastmod: 2023-03-01T11:03:50.958Z
 changelog:
   - date: 2021-10-29T03:08:27.069Z
     message: Created page
@@ -16,6 +16,8 @@ changelog:
     message: Unchanged, updated for 6.18 to parity other NIN changes
   - date: 2022-09-20T06:32:43.850Z
     message: Updated for 6.2 (no changes)
+  - date: 2023-03-01T11:03:53.786Z
+    message: Updated opener graphics for 6.3
 ---
 If you have any questions, feel free to ask in the #nin_questions channel.
 
@@ -67,7 +69,7 @@ You may use **either** opener, but if you are unsure then you can use the 3rd GC
 
 ### Standard 3rd GCD Opener
 
-![](/img/jobs/nin/ninopener.png)
+![](/img/jobs/nin/earlymug3.png)
 
 ⦿ It is important to start preparing the Suiton prepull at -six seconds on the countdown and used at -one second. This will not pull the boss early and will allow future mudras to come off cooldown sooner.\
 ⦿ Late weave Trick Attack as much as possible without clipping.\
