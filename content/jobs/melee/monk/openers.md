@@ -2,37 +2,23 @@
 title: Monk Openers
 authors:
   - Perfect-Balance
-patch: "6.21"
-lastmod: 2022-02-15T11:38:29.016Z
+patch: "6.3"
+lastmod: 2023-03-06T14:15:35.076Z
 changelog:
   - date: 2021-10-28T03:51:16.591Z
     message: Created page
   - date: 2022-02-04T09:16:22.196Z
     message: Updated for Endwalker
+  - date: 2023-03-06T14:16:19.723Z
+    message: Added new opener graphic and updated video links.
 ---
 ## Openers
 
-### Lunar Solar
+![](https://cdn.discordapp.com/attachments/895060190506913802/1066337894773563422/All_openers.jpg "Monk Openers")
 
-![](https://i.imgur.com/srvYnTD.png)
 
-### Double Solar
-
-![](https://i.imgur.com/W2t6mG6.png)
-
-### Early Lunar Solar
-
-![](https://i.imgur.com/JuWVG3L.png)
-
-### Early Double Solar
-
-![](https://i.imgur.com/0E1FKUw.png)
 
 ### Other Resources
-
-Video Guide: [Monk Openers Explained](https://youtu.be/JbLJQKIFJQs)
-
-&nbsp;
 
 - - -
 
@@ -46,8 +32,9 @@ Video Guide: [Monk Openers Explained](https://youtu.be/JbLJQKIFJQs)
 
 ### Other Resources
 
-Videos: 
+Videos:
 
+* [Comprehensive Monk Video Guide](https://youtu.be/cVkARdaslMQ)
 * [Braindead Looping 6:30 dummy rotation](https://youtu.be/c4JlsvC4VIg)
 * [Optimal Drift 6:30 dummy rotation](https://youtu.be/suUrxb3CohQ)
 * [Double Solar 6:30 dummy rotation](https://youtu.be/Aqpt0aqC5z0)
