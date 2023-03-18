@@ -53,7 +53,7 @@ Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge whi
 
 While reading this guide, the following image can be referenced to get a better grasp of what's being talked about.
 
-![](/img/jobs/mch/mch_rotation.jpg)
+![](https://cdn.discordapp.com/attachments/277968251789639680/1086348727691780226/mch_rotation.png)
 
 &nbsp;
 
