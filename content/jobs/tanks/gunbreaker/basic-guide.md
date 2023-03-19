@@ -19,275 +19,156 @@ changelog:
 ---
 # Introduction to Gunbreaker
 
-Gunbreaker is one of the four tanks available to the player; unlocked at Lvl. 60, it provides its own unique playstyle of rewarding damage through maintaining fast-paced burst windows. In this guide we’ll cover as much as possible from the basics to the advanced stuff while answering all the FAQs, so make sure to read everything!
+Gunbreaker is a more fast paced builder-spender rotation that requires good management of its cartridge gauge to make effective use of its damage buff, No Mercy.
+
+Gunbreaker is a powerhouse that deals consistently high DPS in exchange for good usage of its gauge and cooldowns. The better you treat it, the better it will treat you.
+
+The purpose of this guide is to introduce how to use the cartridge gauge, how to use No Mercy properly, and how to fulfill the rotational goals surrounding them including an introduction to endgame optimization.
+
+We hope you find this guide resourceful, and if you have any questions or comments please feel free to reach out in The Balance in either #gnb_lounge or #gnb_questions and ask us about anything.
 
 ## Author
 
+Krom Ulus\
 Azazel Raine | Balmung (NA) | Azazel#1000
-
-# Skills and Abilities
-
-## Offensive On Global Cool Down Abilities
-
-![KeenEdge](/img/jobs/tanks/gunbreaker/Keen_Edge.png)
-**Keen Edge**
-
-The first skill of our basic combo. 170 potency.
-
-![BrutalShell](/img/jobs/tanks/gunbreaker/Brutal_Shell.png)
-**Brutal Shell**
-
-The second skill of our basic combo. 270 potency when used after Keen Edge. Heals for 200 potency and gives a shield equal to the amount healed. 
-
-![SolidBarrel](/img/jobs/tanks/gunbreaker/Solid_Barrel.png)
-**Solid Barrel**
-
-The final skill of our basic combo. 360 potency when used after Brutal Shell. Generates one Cartridge in the Powder Gauge. 
-
-![BurstStrike](/img/jobs/tanks/gunbreaker/Burst_Strike.png)
-**Burst Strike**
-
-380 potency attack that consumes one Cartridge.\
-Grants Ready To Blast
-
-![GnashingFang](/img/jobs/tanks/gunbreaker/Gnashing_Fang.png)
-**Gnashing Fang**
-
-360 potency attack that consumes one Cartridge. 30 second base cooldown that is reduced by skill speed (discussed later). Grants Ready To Rip.
-
-![SavageClaw](/img/jobs/tanks/gunbreaker/Savage_Claw.png)
-**Savage Claw**
-
-440 potency attack that can only be used following Gnashing Fang. Grants Ready To Tear.
-
-![WickedTalon](/img/jobs/tanks/gunbreaker/Wicked_Talon.png)
-**Wicked Talon**
-
-520 potency attack that can only be used following Savage Claw. Grants Ready To Gouge.
-
-![Double Down](/img/jobs/gnb/dd.png)
-
-**Double Down**
-
-Delivers an attack to all within 5y of you with a potency of 1,200 for the first enemy, and 15% less for all remaining enemies.\
-Cartridge Cost: 2
-
-![SonicBreak](/img/jobs/tanks/gunbreaker/Sonic_Break.png)
-**Sonic Break**
-
-300 potency attack that applies a 60 potency Damage over Time (DoT) for 30 seconds (600 potency total from the DoT). 60 second base cooldown that is reduced by skill speed (discussed later).
-
-![LightingShot](/img/jobs/tanks/gunbreaker/Lightning_Shot.png)
-**Lightning Shot**
-
-Ranged attack skill with a potency of 150 and a range of 20y. \
-Additional Effect: Increased Emnity
-
-![DemonSlice](/img/jobs/tanks/gunbreaker/Demon_Slice.png)
-**Demon Slice**
-
-First skill of our Area of Effect (AoE) combo. 100 potency to all targets in a 5y circle centered around you.
-
-![DemonSlaughter](/img/jobs/tanks/gunbreaker/Demon_Slaughter.png)
-**Demon Slaughter**
-
-Second skill of our AoE combo. 150 potency to all targets in a 5y circle around you when used after Demon Slice. Generates one Cartridge in the Powder Gauge. 
-
-![FatedCircle](/img/jobs/tanks/gunbreaker/Fated_Circle.png)
-**Fated Circle**
-
-Consumes one Cartridge. 300 potency to all targets in a 5y circle around you. 
-
-## Offensive Off Global Cooldown Abilities
-
-![NoMercy](/img/jobs/tanks/gunbreaker/No_Mercy.png)
-**No Mercy**
-
-20% damage increase for 20 seconds. \
-Cooldown (CD): 60s
-
-![Bloodfest](/img/jobs/tanks/gunbreaker/Bloodfest.png)
-**Bloodfest**
-
-Immediately gives three Cartridges in the Powder Gauge. \
-**Only grants two Cartridges below Lvl. 88* \
-CD: 120s
-
-![Continuation](/img/jobs/tanks/gunbreaker/Continuation.png)
-**Continuation**
-
-Turns into Jugular Rip, Abdomen Tear, Eye Gouge, or Hypervelocity when under the effect of Ready To Rip, Ready To Tear, Ready To Gouge, or Ready to Blast respectively. 
-
-![JugularRip](/img/jobs/tanks/gunbreaker/Jugular_Rip.png)
-**Jugular Rip**
-
-180 potency attack. Can only be used under Ready To Rip triggered by Gnashing Fang. 
-
-![AbdomenTear](/img/jobs/tanks/gunbreaker/Abdomen_Tear.png)
-**Abdomen Tear**
-
-220 potency attack. Can only be used under Ready To Tear triggered by Savage Claw.
-
-![EyeGouge](/img/jobs/tanks/gunbreaker/Eye_Gouge.png)
-**Eye Gouge**
-
-260 potency attack. Can only be used under Ready To Gouge triggered by Wicked Talon.
-
-![Hypervelocity](/img/jobs/gnb/hv.png)
-
-**Hypervelocity**\
-180 potency attack. Can only be used under Ready to Blast triggered by Burst Strike. 
-
-![DangerZone](/img/jobs/tanks/gunbreaker/Danger_Zone.png)
-**Danger Zone**
-
-Delivers an attack with a potency of 250\
-Becomes Blasting Zone at level 80.\
-CD: 30s
-
-![BlastingZone](/img/jobs/tanks/gunbreaker/Blasting_Zone.png)
-**Blasting Zone**
-
-Delivers an attack with a potency of 720.\
-CD: 30s
-
-![BowShock](/img/jobs/tanks/gunbreaker/Bow_Shock.png)
-**Bow Shock**
-
-150 potency attack to all targets in a 5y circle around you. Also applies a 60 potency DoT for 15s to all targets hit by the initial attack (for a total of 300 potency per target from the DoT).\
-CD: 60s
-
-![RoughDivide](/img/jobs/tanks/gunbreaker/Rough_Divide.png)
-**Rough Divide**
-
-150 potency attack that dashes you to the target with a 25y range. \
-Has two charges.\
-CD: 30s per charge
 
 # Rotation
 
-The Gunbreaker rotation is a builder-spender rotation built around attempting to maximize damage inside our personal buff, No Mercy, every 60 seconds.
+The Gunbreaker rotation is a builder-spender rotation built around attempting to maximize damage inside the personal buff, No Mercy, every 60 seconds.
 
-* This requires us to build Cartridges and spend them every minute with the objective of arriving at every No Mercy window with 3/3 cartridges.
-* We must have used all of our damage cooldowns on cooldown effectively without overcapping cartridges or drifting usages.
+The **powder gauge** is used to save cartridges that can be spent on various weaponskills. At Level 30, the Powder Gauge will hold **2 cartridges** and at Level 88 it's expanded to **3 Cartidges.**
+There are three ways to generate cartridges:
 
-The rotation revolves around the same one minute process of:
+* The Solid Barrel combo.
+* The Demon Slaughter combo.
+* Bloodfest: A Level 76 oGCD action.   
 
-* Building maximum Cartridges using our cart combos.
-* Using Gnashing Fang.
-* Using Burst Strike/Fated Circle to prevent overcapping cartridges when at 3/3 to ensure proper resource pooling.
-* Using all of the highest potency damage cooldowns under No Mercy.
-* Using Bloodfest on cooldown at zero Cartridges to maximize Cartridge gain.
+The Solid Barrel combo consists of three single-target weaponskills, Keen Edge, Brutal Shell, and Solid Barrel. 
+By completing one full combo, one cartridge is granted to the powder gauge.
 
-Gunbreaker starts with two Cartridge slots from level 30 to level 87. 
+The Demon Slaughter combo consists of two AOE weaponskills, Demon Slice, and Demon Slaughter. 
+By completing one full combo, one cartridge is granted to the powder gauge.
+This replaces the Solid Barrel combo at 2+ targets.
 
-* Upon reaching level 88, you will gain "Cartridge Charge II", granting a third Cartridge.
+Bloodfest is an off-global cooldown that has a 120 second cooldown. 
+The powder gauge is completely filled when using this action.
+Do not use Bloodfest until the powder gauge is empty, or cartridges will be overwritten.
 
-\
-All of a Gunbreaker’s offensive ability and weaponskill cooldowns are divisible by 30 seconds, meaning they will always fit into a one minute window at certain time intervals, or can simply be used every 30 seconds.
+It is very important to not overcap the powder gauge. Whenever the powder gauge is full, and the next combo action will generate a cartridge, a cartridge must be spent instead first.
 
-![CartGen](/img/jobs/gnb/image67.png "Cart Generation")
+### Using the Powder Gauge
 
-&nbsp;
+- - -
 
-As detailed in the introduction to Gunbreaker’s rotation, we want to ensure we are building cartridges without overcapping for the purpose of spending as many as possible under No Mercy, and keeping Gnashing Fang on cooldown both in and outside No Mercy.
+When cartridges have been generated, they can be spent on **four different weaponskills**:
 
-To do this, we have two options available to build Cartridges:\
-Solid Barrel Combo (Single Target): Builds **one Cartridge**
-Combo Actions: Keen Edge ➞ Brutal Shell ➞ Solid Barrel\
-\
-Demon Combo (Area of Effect): Builds **one Cartridge**
-Combo Actions: Demon Slice ➞ Demon Slaughter
+1. Gnashing Fang.
+2. Double Down.
+3. Burst Strike.
+4. Fated Circle.  
 
-Demon combo is utilized in 2+ Target scenarios to build one Cartridge. Use it to build your gauge when fighting multiple enemies. Do note: 
+**Gnashing Fang** is a combo chain composed of three weaponskills costing one cartridge.
 
-* It is weaker in single target scenarios than the Solid Barrel Combo, however can be used in niche circumstances such as fight specific phasings to generate more cartridges that otherwise would have been lost. Do not use this combo in single target situations outside of these special cases.
+* Continuation should be cast with every action in this combo chain.
+* Failing to cast Continuation on the same GCD will lose that usage.
+* This should be cast once within No Mercy, and once outside of it.
 
-Keep in mind that in a single target environment such as raids, it takes three GCDs to build a cart (two in specific cases by using Demon Slaughter), but only takes one to spend. As such, over spending is very destructive so you must be careful when dumping carts between Gnashing Fang and No Mercy windows.
+**Double Down** is a powerful AOE weaponskill costing two cartridges used within No Mercy.
 
-There are **four** Weaponskills that require carts to use:
+**Burst Strike** costs one cartridge, and will proc Continuation at level 86+.
 
-* **Gnashing Fang (1)**
-* **Double Down (2)**
-* **Burst strike (1)**
-* **Fated Circle (1)**
+* Burst Strike is used in No Mercy, or used to prevent overcapping the powder gauge.
+* Prioritize cartridge spending on Gnashing Fang and Double Down first.
 
-**Gnashing Fang Combo (30s CD) (GCD Dependent)**
+**Fated Circle** is the AOE version of Burst Strike, costing one cartridge.
 
-* This is a three-weaponskill combo that includes some of your heaviest hitting weaponskills. 
-  The initial weaponskill Gnashing Fang requires one Cartridge to activate but the subsequent combo weaponskills Savage Claw and Wicked Talon are free. We will touch on the Gnashing combo below.
+- - -
 
-**Double Down (60s CD) (GCD Dependent)**
+To understand how to manage the gauge, break the rotation down into two phases:
 
-* Unique in that it requires **two cartridges** to use and is actually one of the biggest reasons that getting as many Cartridges as possible in your No Mercy Window is optimal, requiring all three Cartridges ready to hit both Gnashing Fang and Double Down in quick succession.
+* The filler phase.
+* The burst phase.
 
-**Burst Strike**
+The basic rotational loop is continuously transitioning from the filler phase to the burst phase. The burst phase begins when No Mercy is activated, and the filler phase begins when No Mercy ends.
 
-* Used both as a tool to prevent overcapping and to do damage inside No Mercy.
+### Filler Phase
 
-**Fated Circle**
+- - -
 
-* Has the same purpose as Burst Strike but in a 2+ Target situation.
+The filler phase is active whenever No Mercy **is not active**. It is used to *prepare* for No Mercy.
 
-## Gnashing Fang Combo & Continuation
+Use the Solid Barrel or Demon Slaughter combos to generate cartridges for No Mercy.
 
-Here we will discuss two things: The Gnashing Fang Combo and Continuation.
+* Do not allow the cartridge gauge to overcap. Spend a cartridge if the next action is going to overcap the cartridge gauge.
 
-Your Gnashing Fang combo is a combo containing three high potency weaponskills that can only be used every 30s and require one Cartridge to start the combo. This is pretty much your burst window’s core and is further complemented by No Mercy every 60s.
-Upon using your Gnashing Fang attack you’ll begin your combo while activating Continuation:
+Gnashing Fang and Blasting Zone should be used off cooldown.
 
-![Continuation](/img/jobs/gnb/image60.png "Continuation")
+* Hold Gnashing Fang into No Mercy if it comes off cooldown right before No Mercy.
 
-&nbsp;
+Once No Mercy comes off cooldown, cast it and enter the burst phase.
 
-Continuation is a follow up off-GCD hit for each of the above abilities that you use directly after each GCD. This is where Gunbreaker’s fast pace comes in, as you have these quick succession hits following your big hitters - think of every activation as a one-two punch. You will be required to get Gunbreaker to level 70 to gain these abilities.
+### Burst Phase
 
-**Gnashing Fang** will turn into **Savage Claw** and then into **Wicked Talon**, while your Continuation button will change from **Jugular Rip** to **Abdomen Tear** to **Eye Gouge.**
+- - -
 
-Upon reaching level 86 you will get Enhanced Continuation, which grants Continuation to Burst Strike, giving you access to **Hypervelocity**.
+Cast No Mercy and all available damage cooldowns inside of it to use the 20% damage bonus.
 
-**What does a Gnashing Fang Combo look like?**
-Since Gnashing Fang is **30s** and No Mercy is **60s**. Every second Gnashing Fang Combo will be without No Mercy. As a result it’s not as strong but not as busy. However it still requires **one Cartridge** to use. Blasting Zone is also 30s so we want to keep Gnashing Fang and Blasting Zone together since they’ll both line up with No Mercy at 60s. This is a standard Gnashing Fang outside of No Mercy. We’ll take a look at the full No Mercy window further on in the guide.
+* Do not delay No Mercy if the cartridge gauge isn’t completely full. Any buffed potency is a gain - delaying can risk usage loss.
 
-![](/img/jobs/gnb/alt.png)
+No Mercy should contain a full Gnashing Fang combo, Double Down, Sonic Break, and as many usages of Burst Strike as possible.
 
-&nbsp;
+* Prioritize cart spending on Gnashing Fang and Double Down over Burst Strike.
+* Use combo actions when no damage cooldowns are available and the gauge is at 0 cartridges.
+* If a combo action generates a cartridge; spend immediately on most optimal weaponskill available while No Mercy is active.
+* Lightning Shot can be used if the boss is outside melee range.
 
-The order of a possible Gnashing Fang Combo is as follows:
-Gnashing Fang ➞ Jugular Rip
-Savage Claw ➞ Blasting Zone + Abdomen Tear
-Wicked Talon ➞ Eye Gouge 
+Blasting Zone, Bow Shock, Continuation, Bloodfest, and Rough Divide are oGCD actions that should be used within No Mercy.
 
-The placement of Blasting Zone can shift as it is not affected by SkS but GF combo is, as such it won’t line up in the same spot.  
+* Bloodfest should not be used until all cartridges have been spent.
+* Bloodfest doesn’t need to be prioritized over other abilities unless a cartridge is needed for the next GCD action.
+* Rough Divide may be used outside of No Mercy if additional melee uptime can be gained by gap closing to the boss. It is more optimal to use Rough Divide for its intended purpose as a gap closer to continue your uptime/avoid Lightning Shot to chase bosses than to place it under No Mercy as it is only 30 additional potency.
 
-One thing to keep in mind is that your Gnashing Fang is a combo, but it has flexibility. 
+Once No Mercy ends, the filler phase begins again in preparation for the next burst phase.
 
-* Certain actions can be used inside this combo (and are done so for optimal damage in buffs) without breaking it. 
-* The combo can still be broken by using any of your basic combo actions (Solid Barrel or Demon Slaughter combos). 
-* Breaking your Gnashing Fang is never worth it and to do so is one of the most destructive things to your DPS.
+*To help visualize these fundamental goals, there are several infographics that have been developed to assist in seeing what to do. Please review over these, and if you would like high-definition versions to download, please refer to The Balance in #gnb_resources.*
 
-Below is an infographic on what combo flexibility looks like when using Gnashing Fang.
 
-![ComboFlex](/img/jobs/gnb/al2.png "Combo Flexibility")
 
-&nbsp;
+### Simple Loop Infographic
 
-**Using any weaponskill before you use your Continuation ability gained from using Gnashing Fang Combo will cause you to lose the Continuation buff. For example:**
+- - -
 
-![ContBreak](/img/jobs/gnb/break.png "Broken Continuation")
+Designed to visualize the **filler phase** and **burst phase** that were previously mentioned.
 
-&nbsp;
+The combo actions have been homogenized into one action to demonstrate that the general idea is just to build cartridges over that period of time without specifying which combo action to use.
 
-Since Sonic Break was used **before** Jugular Rip was activated, the Continuation buff that allows you to execute Jugular Rip is lost, thus you lose a usage/damage. 
+![GNB Rotation Simplified](/img/jobs/gnb/simplegnbr40.png "GNB Rotation")
 
-It is important to land your Continuation hits before moving onto the next GCD to avoid losing usages.
 
-See below for a quick reference of each weaponskill and their corresponding Continuation:
 
-* Gnashing Fang procs Jugular Rip
-* Savage Claw procs Abdomen Tear 
-* Wicked Talon procs Eye Gouge
-* Burst Strike procs Hypervelocity
+
+
+### Gnashing Fang & Continuation Infographic
+
+- - -
+
+These are to demonstrate how to appropriately use both Gnashing Fang and Continuation.
+
+Using any combo action that is not a part of the Gnashing Fang combo will cause it to break.
+
+* Gnashing Fang will activate Continuation with every action in its combo. 
+* Continuation must be used with the same GCD that activated it, or else it will be lost.
+
+
+
+These are to demonstrate how to appropriately use both Gnashing Fang and Continuation.
+
+Using any combo action that is not a part of the Gnashing Fang combo will cause it to break.
+
+* Gnashing Fang will activate Continuation with every action in its combo. 
+* Continuation must be used with the same GCD that activated it, or else it will be lost.
+
+
 
 ## No Mercy & Bloodfest
 
@@ -601,7 +482,6 @@ Race Specific Bis:\
 Use if you are a Seeker of the Sun, Midlander, and Sea Wolf:
 *Why different BiS for race? - Because racial stats have a difference in strength that makes the double tome ring better for these races*\
 **GCD:**
-
 
 [2.45](https://etro.gg/gearset/1300c0c9-cf6b-474c-aba9-f1bfeb31976d)\
 [2.42](https://etro.gg/gearset/559c9e70-eeea-400d-a71f-7cb4ba304181)
