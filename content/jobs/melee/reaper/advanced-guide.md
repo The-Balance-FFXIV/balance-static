@@ -124,7 +124,7 @@ Note: The Sequence of Gibbet / Gallows and Void / Cross Reaping are not a requir
 ![](/img/jobs/rpr/rpr_6.3_early_enshroud.png)
 
 * Soul Sow Pre-pull
-* Harpe at two seconds on the countdown
+* Harpe shortly after two appears on the countdown
 * Shadow of Death > Arcane Circle
 * Soul Slice 
 * Soul Slice >> Middle weave Potion (if you can't at two minutes)
@@ -169,7 +169,7 @@ Let us break apart this opener and discuss and explain a few things:
 
 * Prepull Soul Sow
 * (If your GCD is < 2.47 pre-pull Pot at 3s on countdown)
-* Harpe at 2s on countdown
+* Harpe shortly after two appears on the countdown
 * Shadow of Death >> Middle weave Potion (If you can’t at two minutes) 
 * Soul Slice > Arcane Circle (If your GCD is < 2.47 use AC one GCD earlier) > Gluttony
 * Gibbet
