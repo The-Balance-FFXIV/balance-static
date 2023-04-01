@@ -14,12 +14,12 @@ changelog:
 ---
 ## Fast Enshroud Opener
 
-![](/img/jobs/rpr/earlyshroud.png)
+![](/img/jobs/rpr/rpr_6.3_early_enshroud.png)
 
-[Full Size](https://www.thebalanceffxiv.com/img/jobs/rpr/earlyshroud.png)
+[Full Size](/img/jobs/rpr/rpr_6.3_early_enshroud.png)
 
 * Soul Sow pre-pull
-* Cast Harpe at -2s on the countdown
+* Cast Harpe after 2 appears on the countdown
 * Shadow of Death
 
   * Arcane Circle as fast possible
@@ -50,13 +50,13 @@ changelog:
 
 ## Early Gluttony Opener
 
-![](/img/jobs/rpr/early_gluttony.png)
+![](/img/jobs/rpr/rpr_6.3_early_gluttony.png)
 
-[Full Size](https://i.imgur.com/zETY1li.png)
+[Full Size](rpr_6.3_early_gluttony.png)
 
 * Soul Sow pre-pull
 * Use Tincture / Potion at 3s on Countdown
-* Cast Harpe at 2s on the countdown
+* Cast Harpe after 2 appears on the countdown
 * Shadow of Death
 
   * Arcane Circle - If possible, move this to after the next GCD. Only do it here if your Plentiful Harvest clips later on.
