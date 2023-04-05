@@ -121,10 +121,10 @@ Note: The Sequence of Gibbet / Gallows and Void / Cross Reaping are not a requir
 
 ### **Fast Enshroud Opener**
 
-![](/img/jobs/rpr/earlyshroud.png)
+![](/img/jobs/rpr/rpr_6.3_early_enshroud.png)
 
 * Soul Sow Pre-pull
-* Harpe at two seconds on the countdown
+* Harpe shortly after two appears on the countdown
 * Shadow of Death > Arcane Circle
 * Soul Slice 
 * Soul Slice >> Middle weave Potion (if you can't at two minutes)
@@ -165,11 +165,11 @@ Let us break apart this opener and discuss and explain a few things:
 
 ### Early Gluttony Opener
 
-![](/img/jobs/rpr/early_gluttony_-from_resources-.png)
+![](/img/jobs/rpr/rpr_6.3_early_gluttony.png)
 
 * Prepull Soul Sow
 * (If your GCD is < 2.47 pre-pull Pot at 3s on countdown)
-* Harpe at 2s on countdown
+* Harpe shortly after two appears on the countdown
 * Shadow of Death >> Middle weave Potion (If you can’t at two minutes) 
 * Soul Slice > Arcane Circle (If your GCD is < 2.47 use AC one GCD earlier) > Gluttony
 * Gibbet
@@ -472,7 +472,7 @@ While everything above is considered crucial to optimization, the next section i
 
 ## **Double Enshroud, Harvest Moon Variant**
 
-![](/img/jobs/rpr/harvest_moon_adjustment.png)
+![](/img/jobs/rpr/harvest-moon-double-enshroud.png)
 
 Sequence:
 
