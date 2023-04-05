@@ -80,11 +80,11 @@ Reaper has access to a few resources that you will need to master to play the jo
 
 #### The Opener:
 
-![](/img/jobs/rpr/early_gluttony.png)
+![](/img/jobs/rpr/rpr_6.3_early_gluttony.png)
 
-* Soul before the pull
+* Soul Sow before the pull
 * Use a potion/tincture of Strength with 3s left on the countdown
-* Begin casting Harpe with 2s left on the countdown > Ingress into boss if necessary
+* Begin casting Harpe shortly after 2s appears on the countdown > Ingress into boss if necessary
 * Shadow of Death > Arcane Circle late into the global cooldown
 * Soul Slice > Gluttony
 * Gallows
