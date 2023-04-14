@@ -3,6 +3,7 @@ title: Machinist Advanced Guide
 card_header_image: /img/jobs/mch/advanced.png
 authors:
   - hint
+  - juliacare
   - Balance-MCH-Staff
 patch: "6.3"
 lastmod: 2023-01-14T19:57:50.174Z
@@ -219,14 +220,14 @@ See the fast opener below.
 There are dozens of viable ways to get things on cooldown as a Machinist. Below are a couple very different variations
 which you may find useful (feel free to rearrange the order of the tool GCDs as needed):
 
-### Delayed Tools
+### 123 Tools
 
 In situations where you can safely drift all three tools without losing any uses, this variant is great for
-maximizing buff alignment. 
+maximizing buff alignment. This opener also allows you to the 10x Heatblast burst mentioned further down the guide. This is good for full uptime fights where you use tinctures on the 2nd and 8th minute.  
 
-![Delayed Tools](https://i.imgur.com/x0Ah7a2.png "Delayed Tools")
+![123 Tools](/img/jobs/mch/mch-123-ew-opener.png "123 Tools")
 
-### Fast
+### Fast Wildfire
 
 On the other end of the spectrum, you might face a situation where you need to get everything on cooldown ASAP.
 This variant uses Drill last to enable double **Hypercharge** windows in between **Drill** casts.
@@ -422,8 +423,6 @@ expected Reassemble multiplier = 1.25 \* crit modifier \* (1 + (buff crit rate \
 
 For example, if your crit multiplier is 1.5x, your DH rate is 30%, you have +10% crit rate from buffs, and you have +10% DH rate from buffs, your Reassemble multiplier is `1.25 * 1.5 * (1 + (0.1 * (1.5 - 1)) * (1 + ((0.3 + 0.1) * 0.25)) = 1.978`. 
 
-
-
 Now we're all set to compare potency across different crit / DH scenarios. Usually we call this model
 of potency which incorporates crit and DH rates **"effective potency"** (or, ePotency). 
 If we have a crit buff up, we simply need to adjust the crit rate variable in the crit multiplier.
@@ -438,12 +437,12 @@ DH rate = 35.4%
 crit buffs = 0%
 DH buffs = 0%
 
-Drill ePotency = 600 * (1 + (crit modifier - 1) * crit rate) * (1 + (0.25 * DH rate))
-Drill ePotency = 600 * (1 + (1.581 - 1) * 0.231) * (1 + (0.25 * 0.354))
+Drill ePotency = 600  *(1 + (crit modifier - 1)*  crit rate)  *(1 + (0.25*  DH rate))
+Drill ePotency = 600  *(1 + (1.581 - 1)*  0.231)  *(1 + (0.25*  0.354))
 Drill ePotency = 740.7p
 
-Reassembled Drill ePotency = 600 * 1.25 * crit modifier * (1 + (buff crit rate * (crit modifier - 1)) * (1 + ((DH rate + buff DH rate) * 0.25))
-Reassembled Drill ePotency = 600 * 1.25 * 1.581 * (1 + (0 * (1.581 - 1))) * (1 + ((0.354 + 0) * 0.25))
+Reassembled Drill ePotency = 600  *1.25*  crit modifier  *(1 + (buff crit rate*  (crit modifier - 1))  *(1 + ((DH rate + buff DH rate)*  0.25))
+Reassembled Drill ePotency = 600  *1.25*  1.581  *(1 + (0*  (1.581 - 1)))  *(1 + ((0.354 + 0)*  0.25))
 Reassembled Drill ePotency = 1290.7p
 {{< /codeblock >}}
 
@@ -507,6 +506,14 @@ used on single targets, you may find situations where this tech is useful. For e
 
 Note that you will need to micro-drift your **Chain Saw** cooldown because it does not evenly align with 1.5s recast GCDs.
 
+## 10x Heatblast burst
+
+Utilizing the previously mentioned fact that **Chainsaw** does not consume a **hypercharge** stack, we can setup our burst windows to use 10 **Heatblasts** in a row. This is a gain for burst windows where you use your **tincture**.
+
+The burst goes like so: (Tincture) AA Drill (Late weave HC) CS (Late weave WF) HBx5 (HC) HBx5 Drill
+
+This burst can only be achieved if you use your tools in that sequence as **Drill** drifts if you use it earlier, and you require **Chainsaw** to bethe last GCD before entering the burst. The 123 Tools opener makes this possible in full uptime encounters.
+
 ## Ricochet Pooling
 
 If an AoE situation is coming up in the fight, you can pool your **Ricochet** charges to take advantage
@@ -520,7 +527,7 @@ the enemies will need to be stacked quite close to each other to take advantage 
 
 Another AoE tech, this time involving everyone's favorite Machinist action. **Flamethrower** functions like other ground DoTs:
 it snapshots buffs on the player at the time of casting the action (although it doesn't snapshot debuffs on the target, such as
-**Chain Stratagem**). This means **if you start channeling **Flamethrower** on the last GCD of buffs, they'll last for the full
+**Chain Stratagem**). This means **if you start channeling** Flamethrower **on the last GCD of buffs, they'll last for the full
 duration**. This only requires a modest 1.13x buff multiplier for **Flamethrower** to edge out Heated Combo on two targets,
 and of course it's an even bigger gain on three or more targets.
 
@@ -530,3 +537,7 @@ This tech is so minor and impractical that it's basically not worth doing, but i
 completeness. If you begin channeling **Flamethrower** during downtime where a boss is untargetable, you can potentially
 land a tick on the boss right as it returns without costing any GCD time. Just remember to **begin channeling at least
 2.5 seconds before the boss is targetable** so that **Flamethrower** doesn't clip your GCD.
+
+## Queen extension
+
+As we know, **Automaton Queen** always uses 5 GCDs before the **Pile Bunker** and **Crowned Collider** finishers. These 5 GCDs can be filled with **Arm Punch**es and **Roller Dash**es. The former taking up one GCD slot, and the latter two for double the damage. You can force **Automaton Queen** to use a **Roller Dash** on her 5th GCD. This effectively gives her 6 GCDs worth of damage. To do this, have your tank pull the boss away from **Automaton Queen**'s melee range between her 4th and 5th GCD.
