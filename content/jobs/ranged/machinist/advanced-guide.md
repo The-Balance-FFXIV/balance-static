@@ -508,11 +508,11 @@ Note that you will need to micro-drift your **Chain Saw** cooldown because it do
 
 ## 10x Heatblast burst
 
-Utilizing the previously mentioned fact that **Chainsaw** does not consume a **hypercharge** stack, we can setup our burst windows to use 10 **Heatblasts** in a row. This is a gain for burst windows where you use your **tincture**.
+Utilizing the previously mentioned fact that **Chain Saw** does not consume a **Hypercharge** stack, we can setup our burst windows to use 10 **Heat Blasts** in a row. This is a gain for burst windows where you use your **tincture**.
 
 The burst goes like so: (Tincture) AA Drill (Late weave HC) CS (Late weave WF) HBx5 (HC) HBx5 Drill
 
-This burst can only be achieved if you use your tools in that sequence as **Drill** drifts if you use it earlier, and you require **Chainsaw** to bethe last GCD before entering the burst. The 123 Tools opener makes this possible in full uptime encounters.
+This burst can only be achieved if you use your tools in that sequence as **Drill** drifts if you use it earlier, and you require **Chain Saw** to be the last GCD before entering the burst. The 123 Tools opener makes this possible in full uptime encounters.
 
 ## Ricochet Pooling
 
