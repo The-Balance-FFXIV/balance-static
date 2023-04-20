@@ -29,8 +29,8 @@ qna:
     answer: No. 1.5s GCD allows a single weave only.
   - question: How do I use Wildfire? How many GCDs should it fit?
     answer: Pair it with Hypercharge to get six GCDs into it. Wildfire can be used
-      one GCD before or after Hypercharge but double weaving (Wildfire →
-      Hypercharge) is the most ping friendly. It should fit five Heat Blast/Auto
+      one GCD before or after Hypercharge but double weaving (Hypercharge→
+      Wildfire) is the most ping friendly. It should fit five Heat Blast/Auto
       Crossbow + one GCD when double weaved or used one GCD before Hypercharge,
       OR four Heat Blast/Auto Crossbow + two GCDs if used after the first GCD in
       Hypercharge.
