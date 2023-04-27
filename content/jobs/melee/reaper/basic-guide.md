@@ -83,20 +83,20 @@ Reaper has access to a few resources that you will need to master to play the jo
 ![](/img/jobs/rpr/rpr_6.3_early_gluttony.png)
 
 * Soul Sow before the pull
-* Use a potion/tincture of Strength with 3s left on the countdown
+* (If your GCD is < 2.47 pre-pull Pot at 3s on countdown)
 * Begin casting Harpe shortly after 2s appears on the countdown > Ingress into boss if necessary
-* Shadow of Death > Arcane Circle late into the global cooldown
-* Soul Slice > Gluttony
-* Gallows
+* Shadow of Death > Middle weave Potion (If you can’t at two minutes)
+* Soul Slice > Arcane Circle (If your GCD is < 2.47 use AC one GCD earlier) > Gluttony
 * Gibbet
-* Plentiful Harvest > Enshroud
-* Cross Reaping
-* Void Reaping > Lemure’s Slice
-* Cross Reaping
-* Void Reaping  > Lemure’s Slice
-* Communio
-* Soul Slice > Unveiled Gallows
 * Gallows
+* Plentiful Harvest > Enshroud
+* Void Reaping
+* Cross Reaping > Lemure’s Slice
+* Void Reaping
+* Cross Reaping  > Lemure’s Slice
+* Communio
+* Soul Slice > Unveiled Gibbet
+* Gibbet
 
 ## Priority System
 
