@@ -1,5 +1,5 @@
 ---
-title: Scholar TOP
+title: SCH TOP Fight Tips
 authors:
   - Balance-SCH-Staff
 patch: "6.38"
