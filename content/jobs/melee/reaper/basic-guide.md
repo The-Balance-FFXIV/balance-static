@@ -83,7 +83,7 @@ Reaper has access to a few resources that you will need to master to play the jo
 ![](/img/jobs/rpr/rpr_6.3_early_gluttony.png)
 
 * Soul Sow before the pull
-* (If your GCD is < 2.47 pre-pull Pot at 3s on countdown)
+* (If your GCD is < 2.47 pre-pull Pot at 3s on countdown if you can’t at two minutes)
 * Begin casting Harpe shortly after 2s appears on the countdown > Ingress into boss if necessary
 * Shadow of Death > Middle weave Potion (If you can’t at two minutes)
 * Soul Slice > Arcane Circle (If your GCD is < 2.47 use AC one GCD earlier) > Gluttony
