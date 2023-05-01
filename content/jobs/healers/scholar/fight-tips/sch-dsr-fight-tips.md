@@ -9,25 +9,19 @@ lastmod: 2023-04-25T16:26:51.507Z
 
 This document contains suggestions on how to use your cooldowns effectively and small things you can do to maximize them such as using Soil for two back-to-back damage instances that are just under 30s from each other. Ideally, you should communicate with your co-Healer to make a plan that reduces stress for both of you and maximizes damage between you while being safe.
 
-
 # Dragonsong Reprise (DSR)
-
 
 ## Gearing
 
 Gearing is pretty easy, you can take a 2.5 mid-piety set, which comes with a lot of piety for progging I would hold off on dropping any piety until you’ve cleared as p7 is the most mana-intensive part of this fight while p1-p5 will have you often over capping on mana thanks to all of the downtime.
 
-<[https://etro.gg/gearset/115d146d-8828-4c05-8fd2-81042e953e9c](https://etro.gg/gearset/115d146d-8828-4c05-8fd2-81042e953e9c)>
+[\[https://etro.gg/gearset/115d146d-8828-4c05-8fd2-81042e953e9c](https://etro.gg/gearset/115d146d-8828-4c05-8fd2-81042e953e9c)]([https://etro.gg/gearset/115d146d-8828-4c05-8fd2-81042e953e9c](https://etro.gg/gearset/115d146d-8828-4c05-8fd2-81042e953e9c))
 
 You can bring the 615 relic weapon it gives an extra 9 crit over the 605 raid weapon, the 605 ultimate weapon still beats both just add one DH X meld
 
-
 ## Phase By Phase Fight Tips
 
-
 ### Phase Two: King Thordan
-
-
 
 * Thordan Opening
 * Healing isn’t too heavy here only the Tank takes damage but if they aren’t using invulnerability they can take a lot. 
@@ -35,24 +29,21 @@ You can bring the 615 relic weapon it gives an extra 9 crit over the 605 raid we
 * It’s important to understand how your Tanks will be handling busters in this phase. Tanks will require healing during Ascalon’s might if they’re using cooldowns instead of their Invulns. Discuss with your Tanks how they’re planning mitigation and invulns so you can be prepared with excogs and shields.
 * Strength healing advice
 * Be aware of where you can go even when healing if you have defamation markers look at where people are going so you can quickly get to a spot without forcing someone else to adjust for you
-* Seraph has a good use here I usually summon her after dodging so I can get my second Consolation before Ancient Quaga (Note Seraph can also be used in Sanctity to help survive ⅗ splits during prog both are good spots to use Seraph and it’ll be back up in time for Nidhogg)
-* Expedient is a good use here, letting everyone quickly get to their spot and mitigating the significant damage. I press it after my succor so it’ll last as long as it can.
+* Seraph has a good use here I usually summon her after dodging so I can get my second Consolation before Ancient Quaga (Note: Seraph can also be used in Sanctity to help survive ⅗ splits during prog both are good spots to use Seraph and it’ll be back up in time for Nidhogg)
+* Expedient is a good use here, letting everyone quickly get to their spot and mitigating the significant damage. I press it after my Succor so it’ll last as long as it can.
 * Tethers are proximity based crossing them will make Tanks take less damage.
 * Thordan post Strength
 * Ancient Quaga into busters. Reminder Soil applies instantly so a later Soil can help mitigate and give regen to Tanks taking the buster while also mitigating Quaga.
-* You can start recitation at the start of Thordan’s Tank buster and start casting Adlo after the second/third swing. This ensures recite spreadlo is back up for Nidhogg transition if your group doesn’t want to hold for whatever reason.
+* You can start Recitation at the start of Thordan’s Tank buster and start casting Adlo after the second/third swing. This ensures Recite Spreadlo is back up for Nidhogg transition if your group doesn’t want to hold for whatever reason.
 * Sanctity 
-* With Recitation Spreadlo you only really need small mitigation and succor to heal this however you can add an Indom if you want to be safer. (You can move seraph to this during prog to help heal ⅗ jumps)
-* You can queue up a swiftcast after taking the second damage just in case someone dies you can be ready to raise them instantly. If they don’t die you can just succor in the middle.
+* With Recitation Spreadlo you only really need small mitigation and Succor to heal this however you can add an Indom if you want to be safer. (You can move Seraph to this during prog to help heal ⅗ jumps)
+* You can queue up a Swiftcast after taking the second damage just in case someone dies you can be ready to raise them instantly. If they don’t die you can just Succor in the middle.
 * If you’re in the 1 group start casting Succor when the cast bar for The Dragon’s Gaze is nearly complete.
 * If you’re in the 2 group start casting Succor when the cast bar for The Dragon’s Gaze is complete.
 * Thordan post Sanctity
 * Shields and Soil are needed for this, with proper mitigation you will barely live but you don’t want to over-mitigate this.
 
-
-### Phase Three: Nidhogg 
-
-
+### Phase Three: Nidhogg
 
 * Transition
 * With Tanks, regen Healer, and personal mitigation being given out you only need two 10% mitigation to live this cleanly. To play it safe you should also add a fey illumination to boost your healing and give an additional 5%
@@ -64,19 +55,13 @@ You can bring the 615 relic weapon it gives an extra 9 crit over the 605 raid we
 * Nidhogg Tank healing advice
 * Tanks can either invuln the buster or mitigate it, It’s important to help Tanks out as it can become very close if they aren’t using invuln.  they’ll need help for the auto chain afterward, I suggest Protraction and Fey Union plus excog if needed but be aware you have a co-Healer who can deal with the autos extremely well.
 
-
 ### Phase Four: The Eyes of Nidhogg
-
-
 
 * Eyes healing advice
 * Orbs do more than max hp so your group needs shields for it
 * Dives also do more than max hp raw so shields and Soil are also needed here.
 
-
 ### Intermission
-
-
 
 * How to heal Haurchefant advice
 * Any spells/ability that does not list party members in the description can target Haurchefant. 
@@ -86,10 +71,7 @@ You can bring the 615 relic weapon it gives an extra 9 crit over the 605 raid we
 * You can create a macro that targets and focus targets Haurchefant when he appears, remember he can’t be targeted until he stops and takes his stance. (Image in #hosted-images
 * Controller players should turn on cycle through NPCs Objects to make targeting Haurcefant possible (image in #host-images)
 
-
 ### Phase Five: Dark King Thordan
-
-
 
 * Tank healing advice
 * Busters are the same as Phase Two except they do more damage now, if you’re planning on doing 6-1-1 in p7 then chances are your Tanks are just going to invuln these busters. If you aren’t doing 6-1-1 maybe they won’t invuln these busters if so you must be proactive with healing give excog, protraction, and your co-healer should also be giving out mitigation and heal in-between hits.
@@ -101,10 +83,7 @@ You can bring the 615 relic weapon it gives an extra 9 crit over the 605 raid we
 * Your party should have full health and shields before the knockback
 * Soil can be used here it gives a lingering mitigation buff that is long enough for the knockback and explosion (Note Soil turns your character and you can end up looking at Thordan or an eye, make sure to turn your character after placing Soil)
 
-
 ### Phase Six: The Great Wyrms
-
-
 
 * Wyrm’s breath 1 healing advice
 * Seraph is great here it’ll also come back up for Cauterize
@@ -124,13 +103,11 @@ You can bring the 615 relic weapon it gives an extra 9 crit over the 605 raid we
 * Place soil in front of the dragon making sure both Tanks are in it to help them take the wild charge damage. Soil is pretty helpful since this does a lot of damage and there is another aoe coming up afterward.
 * Soil in front of the dragons so it catches both Tanks as well.
 
-
 ### Phase Seven: Dragon-King Thordan
 
-
-    **<span style="text-decoration:underline;">DO NOT USE SWIFTCAST UNLESS IT’S A LAST RESORT, LET WHM/AST OR CASTERS DO IT BEFORE YOU.</span>**
-
-
+```
+**<span style="text-decoration:underline;">DO NOT USE SWIFTCAST UNLESS IT’S A LAST RESORT, LET WHM/AST OR CASTERS DO IT BEFORE YOU.</span>**
+```
 
 * Thordan transition advice
 * Alt End is a strong raid buster, however with Recitation Spreadlo you can shave some mitigation and use it for Dragon-King Thordan. With personal mitigations, four 10% mitigation, and additional mitigation from your regen healer and Tanks spreading out on as many people as possible Alt End should be no problem.
@@ -145,17 +122,13 @@ You can bring the 615 relic weapon it gives an extra 9 crit over the 605 raid we
 * Soil advice
 * First Soil can be placed after the second Trinity auto, this makes sure it’ll be up for Gigaflare also, doing this you can Soil all Akh Morns and Gigaflares
 
-
 # Heal Partners
 
 Below, we’ve supplied a brief rundown of the strengths and weaknesses of each cohealer option when paired with a Scholar in DSR. Keep in mind that every healer combination (of unique healers at least) can and has cleared the fight, but Scholar especially tends to lend itself to very strong pairings. As such, none of these options are poor but offer differing strengths and potential weak points to pay extra attention to. If in a pug situation, these pros and cons can be utilized to shift your use of tools to an extent, and if you’re planning to prog the fight with a static, these can be helpful to your cohealer choosing a job, if they’re flexible between multiple healers.
 
-
 ## AST
 
 Astrologian: On paper, Astrologian is probably the most powerful general co-healer option, and as such tends to be favored by cutting edge progression groups. However, AST’s kit can be difficult to leverage at times. 
-
-
 
 * Pros: 
 * Neutral Sect is the strongest healing cooldown in the game, and when combined with SCH’s kit, serves to outright invalidate certain mechanics, along with a steroid on the heal over time + shield that can stack with your own 
@@ -166,12 +139,9 @@ Astrologian: On paper, Astrologian is probably the most powerful general co-heal
 * Low personal DPS means burst window execution becomes even more important, and some (especially in Dragon King Thordan) can be quite busy mechanically while handing out cards 
 * Astro does lack an automatic answer to multi-hit abilities in the mold of Lilybell and Panhaima. Macrocosmos works, but needs more planning and/or a manual pop
 
-
 ## WHM
 
 White Mage: Of the three options for a co-healer, White Mage is probably the most straightforward and can play a bit more reactively if needed. As such, many pugs will include a WHM, and the healing potencies on offer do allow extra safety in some areas 
-
-
 
 * Pros: 
 * Instant cast lilies, especially when paired with Plenary Indulgence, are super powerful as a repeatable, high throughput source of healing that doesn’t rely upon swiftcast. Wroth Flame and Gigaflares especially appreciate these. 
@@ -181,12 +151,9 @@ White Mage: Of the three options for a co-healer, White Mage is probably the mos
 * Compared with the other two options, WHM is essentially missing an entire source of mitigation. Even the other regen option in AST offers CU in addition to Neutral, while WHM packs only Temperance, demanding more mitigation from others 
 * Bell and Temperance both feel solid, but lack the raw power of things like Neutral Sect or Kerachole
 
-
 ## SGE
 
 Sage: The double shield healer pairing is one that was talked about a lot coming into Dragonsong, and in retrospect, there have been interesting lessons learned from such. It is important to note that we massively recommend you plan to do 6/1/1 Akh Morns for Phase 7 if you plan to run SCH/SGE, otherwise the lack of high potency/regen GCDs becomes a liability for Akh Morns. 
-
-
 
 * Pros: 
 * Stacking Sacred Soil with Kerachole is incredibly powerful. Offering mitigation + OGCD regens on 30s cds is tremendously powerful, with the ability to put both on literally every mechanic in the fight 
@@ -197,10 +164,7 @@ Sage: The double shield healer pairing is one that was talked about a lot coming
 * Without 6/1/1 Akh Morn Tank invuln strats, Sage is left spamming Prognosis to heal through Akh Morns. This is pretty inefficient, especially compared to the other options which can leverage regens (in the form of Aspected Helios/Medica 2), and just simply more powerful base-level heals (in Helios/Medica). This, in turn, makes planning where you plan your other cds, namely Pneuma, Ixochole, and Indom extremely important 
 * Lack of attention to shields can end in disaster if a deployment is overwritten
 
-
 # Credits
-
-
 
 * Morgan - Providing the heal partner section
 * Scholar Helpfuls for looking over and correcting any mistakes
