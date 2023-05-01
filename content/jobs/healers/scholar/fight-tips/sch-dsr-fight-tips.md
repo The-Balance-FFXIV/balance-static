@@ -5,6 +5,11 @@ authors:
 patch: "6.38"
 lastmod: 2023-04-25T16:26:51.507Z
 ---
+# NOTES: UPDATE GEARING TO INCLUDE NEW SETS, ADD IMAGES FOR CONTROLLER
+
+
+
+
 # Introduction
 
 This document contains suggestions on how to use your cooldowns effectively and small things you can do to maximize them such as using Soil for two back-to-back damage instances that are just under 30s from each other. Ideally, you should communicate with your co-Healer to make a plan that reduces stress for both of you and maximizes damage between you while being safe.
@@ -57,7 +62,7 @@ You can bring the 615 relic weapon it gives an extra 9 crit over the 605 raid we
 
 ### Phase Four: The Eyes of Nidhogg
 
-* Eyes healing advice
+#### Eyes healing advice
 * Orbs do more than max hp so your group needs shields for it
 * Dives also do more than max hp raw so shields and Soil are also needed here.
 
