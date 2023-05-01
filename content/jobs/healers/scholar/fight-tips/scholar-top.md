@@ -9,21 +9,15 @@ lastmod: 2023-04-25T16:25:37.968Z
 
 This document contains suggestions on how to use your cooldowns effectively and small things you can do to play each phase as effectively as possible. Ideally, you should communicate with your co-Healer to make a plan that reduces stress for both of you and maximizes damage between you while being safe.
 
-
 # The Omega Protocol (TOP)
-
 
 ## Gearing
 
-TOP requires less mana than DSR so you can just use this [2.40 set](https://etro.gg/gearset/a91cf8ba-5ea1-4050-82c0-b90862a77ac0). The benefits of 2.40 can come from good Chain/Aetherflow alignment and the ability to cast more broils during Pantokrator. That being said once you’re more comfortable with the first phase you will need to start holding at the end so as not to kill Omega too fast so the more broils will become more and more worthless. 
-
+TOP requires less mana than DSR so you can just use this [2.40 set](https://etro.gg/gearset/a91cf8ba-5ea1-4050-82c0-b90862a77ac0). The benefits of 2.40 can come from good Chain/Aetherflow alignment and the ability to cast more broils during Pantokrator. That being said once you’re more comfortable with the first phase you will need to start holding at the end so as not to kill Omega too fast so the additional Broils will become more and more worthless. 
 
 ## Phase By Phase Fight Tips
 
-
 ### Phase One: Omega
-
-
 
 * Program Loop
 * Excogitation can be put on a Third-in-Line or Fourth-in-Line player as soon as debuffs go out, it will pop after their max hp debuff falls off
@@ -31,17 +25,14 @@ TOP requires less mana than DSR so you can just use this [2.40 set](https://etro
 * Pantokrator
 * As mentioned in 
 
+[Gearing](<>), 2.40 lets you slide cast more of this mechanic but not all of it, realize when you’re losing pace and use a Ruin II. **<span style="text-decoration:underline;">Part of the trick here is to move up two puddles worth during the free movement of Ruin II so that you have an easy time on the next slidecast, but don't grief with the puddle.</span>**
 
-[Gearing](), 2.40 lets you slide cast more of this mechanic but not all of it, realize when you’re losing pace and use a Ruin II. **<span style="text-decoration:underline;">Part of the trick here is to move up two puddles worth during the free movement of Ruin II so that you have an easy time on the next slidecast, but don't grief with the puddle.</span>**
 * Wave Cannon Kyrios
 * Use Recitation Deploy and Expedient before moving out, use Seraph for healing during the mechanic. If you have enough mit you won’t need to Consolation until after the second set of missiles/stacks. 
 * **<span style="text-decoration:underline;">It’s better for your group to use aoe mit at the start of Pantokrator and use targeted mits for the later missile/laser waves. </span>**
 * While progging I highly suggest you hold if you’re going to kill too fast. Bringing DPS into p2 will make it much easier to beat the check if you’re way ahead of the check in Omega.
 
-
 ### Phase Two: Omega-M/F
-
-
 
 * Firewall
 * Dot does not work on anyone you’re firewalled against so do not double dot.
@@ -57,10 +48,7 @@ TOP requires less mana than DSR so you can just use this [2.40 set](https://etro
 * **<span style="text-decoration:underline;">Stacking flares is easy for scholars as long as your group uses all non-targeted mitigation. Seraph can also be used after tank buster covering meteor and the aoe afterward. Doing so will make Seraph come back up for the second set of towers in Hello, World.</span>**
 * Soil can be used once flare markers show up and will last through Cosmo Memory
 
-
 ### Phase Three: Omega Reconfigured
-
-
 
 * Intermission
 * Make sure to use a Succor after Omega-F dies before people spread out
@@ -75,10 +63,7 @@ TOP requires less mana than DSR so you can just use this [2.40 set](https://etro
 * Requires no mitigation, only does about 50k damage. Just make sure the party has enough hp
 * **<span style="text-decoration:underline;">You can use Art of War if your monitor resolves at an awkward time to keep your GCD rolling </span>**
 
-
 ### Phase Four: Blue Screen
-
-
 
 * Wave Cannon
 * Recitation Deploy can be used in the downtime between p3 and p4, will be back for p5
@@ -87,10 +72,7 @@ TOP requires less mana than DSR so you can just use this [2.40 set](https://etro
 * Blue Screen
 * Succor and Sacred Soil, ensure party is full hp
 
-
 ### Phase Five: Run: Dynamis
-
-
 
 * Run: Dynamis(Delta)
 * Use shields when Omega-M and Omega-F disappear during the transition, they’ll last through the RDD hit
@@ -113,10 +95,7 @@ TOP requires less mana than DSR so you can just use this [2.40 set](https://etro
 * Tanks that take the Blaster tethers will require healing since they’re set to 1% HP
 * Make sure to Succor for Blind Faith
 
-
 ### Phase Six: Alpha Omega
-
-
 
 * General Soil tip
 * You can use macros for soil to help with brain space. It’s strongly recommended to use a target soil macro for Cosmo Meteors to get it directly middle allowing everyone to be inside of it. 
@@ -144,7 +123,7 @@ TOP requires less mana than DSR so you can just use this [2.40 set](https://etro
 * Again abuse Ruin 2 for exaflare movement as needed
 * Cosmo Meteor
 * Preshield the party while stacked mid for the Cosmo Meteor baits
-* Recitation Deploy is highly recommended here. You can let your cohealer take mid during meteors and Reci Deploy off them between the first and second sets to maximize healing/shielding. **Make sure the party does not move too far out, or Deploy may miss some people. **If not necessary you can just Deploy while stacked mid for baits
+* Recitation Deploy is highly recommended here. You can let your cohealer take mid during meteors and Reci Deploy off them between the first and second sets to maximize healing/shielding. **Make sure the party does not move too far out, or Deploy may miss some people.** If not necessary you can just Deploy while stacked mid for baits
 * Summon Seraph is also highly recommended here, use Consolation after the first set of meteor spreads, and then after the second set of meteor spreads to maximize effectiveness. Summon Seraph itself can be used while moving out to your spot after doing the mid baits
 * Swift Succor and Indom can both be done between second meteor spreads and flare/stack for safety
 * Magic Numbers
