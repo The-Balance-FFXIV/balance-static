@@ -18,9 +18,7 @@ For level 70 Ultimates and Healers, we can mostly get away with using all synced
 
 Moving on to stats if you’re using synced gear go in with three pieces of CRIT/PIETY and the rest can be CRIT/DET, Ultimates ruin any spell speed Alignment so spell speed in Ultimates is mostly to help with mechanics like dodging twisters or to help to get in a GCDs before downtime. You can check your stats when synced for UCoB in O6S with the minimum item level option turned on. For your relic weapon (515/535), you can copy what’s below. Relic is a good damage increase but not 100% needed to clear the fight.
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-![alt_text](images/image1.png "image_tooltip")
 
 # Phase by Phase fight tips
 
@@ -50,9 +48,7 @@ Moving on to stats if you’re using synced gear go in with three pieces of CRIT
 * The best Swiftcast uses is Black Fire when running to the wall and Heavensfall Trio after the fireball stack.
 * If Swiftcast is down for Blackfire Trio, you can use this example to try to heal everyone. 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-![alt_text](images/image2.png "image_tooltip")
 
 * During Grand Octet you want to Succor as a stack that can do more than max hp, but if you’re using LB3 to cheese you don’t need to Succor however it’s less healing before adds.
 
