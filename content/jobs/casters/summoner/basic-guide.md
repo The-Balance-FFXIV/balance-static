@@ -155,7 +155,7 @@ Titan’s Astral Flow equivalent, **Mountain Buster**, is an oGCD proc that is m
 
 **Ifrit phase** damage is lower than Titan but higher than Garuda. Notably, Ifrit has the most movement restrictions. It is generally best to use this during parts of an encounter where it is safe to be in melee range and there are no movement-heavy mechanics.
 
-Its main spells, **Ruby Rite** and **Ruby Catastrophe**, are both hard casts. The cast time is slightly longer than the recast time (e.g. assuming no spell speed, the cast will be 2.8 seconds with a 2.5 recast time). We cast two of these spells during the phase.
+Its main spells, **Ruby Rite** and **Ruby Catastrophe**, are both hard casts.
 
 Ifrit’s Astral Flow equivalent is a 1-2 melee combo. The first ability, **Crimson Cyclone**, also functions as a gapcloser. The second ability, **Crimson Strike**, needs to be used in melee range. Note that this combo can be broken, so do not cast any other GCD spell between both hits.
 
@@ -341,7 +341,7 @@ Ensures the next spell can be cast immediately. Swiftcast on Summoner has three 
 
 1. Used on Resurrection to instantly revive a teammate. This should be the primary usage in progression as well as anytime when extra damage is not necessary.
 2. The second most important use is to keep GCD uptime during movement when it would otherwise be impossible or very risky to slidecast. This is generally preventable with better fight planning due to how many instant casts Summoner has, but it is a valid way to use Swiftcast if needed.
-3. Lastly, when used on certain spells, Swiftcast can situationally result in a small DPS gain. The primary use for this is snapshotting Garuda’s Slipstream under buffs, such as during certain potion windows or in the fast Garuda opener. The other one is Ruby Rite (or Castrophe for AOE), which has a \~2.8s cast time, but a \~2.5 recast time at base spell speed. This means that using Swiftcast on Ruby spells repeatedly can theoretically lead to a gained GCD or so by the end of an encounter, but this is highly situational and can cause other issues with demi-summon alignment with Searing Light. As such, it is not recommended for general practice.
+3. Lastly, when used on certain spells, Swiftcast can situationally result in a small DPS gain. The primary use for this is snapshotting Garuda’s Slipstream under buffs, such as during certain potion windows or in the fast Garuda opener. 
 
 ## Sleep (Role Action)
 
