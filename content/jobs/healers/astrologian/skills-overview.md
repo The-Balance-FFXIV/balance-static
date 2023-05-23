@@ -149,7 +149,7 @@ changelog:
 
 **Collective Unconscious 60s CD**
 
-* AoE buff in a 8y radius around you
+* AoE buff in a 30y radius around you
 * Regen (five ticks of 100p) and mitigation (10%)
 * Total heal potency: 500p if not held
 * Use as a group mitigation and regen
@@ -331,10 +331,10 @@ changelog:
 
 **Divination 120s CD**
 
-* Raid Buff: Increases the damage of allies within 15y by 6%.
+* Raid Buff: Increases the damage of allies within 30y by 6%.
 * Uses a weave window.
 * Stacks multiplicatively with other damage buffs.
-* In raid boss fights are used during the third GCD in your opener and on cooldown throughout the fight. Only delay its usage if your group is coordinating raid buffs.
+* In raid boss fights this is used during the third GCD in your opener and on cooldown throughout the fight. Only delay its usage if your group is coordinating raid buffs.
 * In dungeons use on trash and bosses do not save it unless trash will die very soon.
 
 ![](/img/jobs/ast/astrodyne.png)
