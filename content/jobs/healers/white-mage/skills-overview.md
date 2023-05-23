@@ -46,7 +46,7 @@ changelog:
 
 ### **Dia**
 
-* Single target damage (60p) and DoT (10 ticks of 60p), instant cast. Total Potency: 660
+* Single target damage (65p) and DoT (10 ticks of 65p), instant cast. Total Potency: 660
 * At lower levels you'll have Aero, this is replaced by Dia at level 72
 * In dungeons, apply Dia while running and spam Holy when the tank stops
 * If Optimizing: 
@@ -167,7 +167,7 @@ changelog:
 
 ### **Asylum (90s CD)**
 
-* Places a 10y ground AoE (Nine ticks of 100p)
+* Places a 15y ground AoE (Nine ticks of 100p)
 * Asylum gives 10% increased healing to both GCD and oGCD heals except select few cases
 * Asylum gives an additional regen tick when first placed
 * Asylum increases its own potency to 110p per tick except for the initial one on placement
@@ -198,7 +198,7 @@ changelog:
 
 ### **Temperance (2m CD - oGCD)**
 
-* Grants Temperance a 20s buff that increases your GCD healing by 20% and gives a 10% mitigation to allies within a 30y radius.
+* Grants Temperance a 20s buff that increases your GCD healing by 20% and gives a 10% mitigation to allies within a 50y radius.
 * Use to mitigate heavy raidwides and to help with heal checks that force you to GCD heal.
 
 ![Aquaveil](https://xivapi.com/i/002000/002648_hr1.png)
