@@ -61,7 +61,7 @@ Your standard damage filler spell that you should aim to cast whenever possible,
 
 ### **Dia**
 
-An instant cast DoT spell that deals 60p upfront and then ticks for 30s, dealing 60p per tick for a total of 660p if allowed to run its full duration. As this is a gain over your standard Glare filler, this DoT should be maintained on the boss at all times, unless it is about to die in less than 15s. This also applies if the boss is about to disappear, as DoTs do not tick on untargetable bosses for the vast majority of cases. At lower levels, “Aero” variants will be your DoT spell. 
+An instant cast DoT spell that deals 65p upfront and then ticks for 30s, dealing 65p per tick for a total of 715p if allowed to run its full duration. As this is a gain over your standard Glare filler, this DoT should be maintained on the boss at all times, unless it is about to die in less than 15s. This also applies if the boss is about to disappear, as DoTs do not tick on untargetable bosses for the vast majority of cases. At lower levels, “Aero” variants will be your DoT spell. 
 
 ### **Holy III (“Holy” for simplicity)**
 
