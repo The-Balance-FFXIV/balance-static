@@ -1,7 +1,7 @@
 ---
 title: Bard Changes
 layout: changes
-lastmod: 2022-11-03T02:47:02.826Z
+lastmod: 2023-05-25T03:49:56.213Z
 changes:
   - patch: "6.0"
     description: "[Click here to view new changes on the Official
