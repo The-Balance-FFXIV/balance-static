@@ -3,7 +3,7 @@ title: Ninja Openers
 authors:
   - Balance-NIN-Staff
   - jackal
-patch: "6.2"
+patch: "6.4"
 lastmod: 2022-09-20T06:34:29.139Z
 changelog:
   - date: 2021-10-29T03:10:02.993Z
@@ -16,6 +16,8 @@ changelog:
     message: No changes, updated to 6.18 for parity
   - date: 2022-09-20T06:34:32.678Z
     message: Updated for 6.2 (no changes)
+  - date: 2023-05-25T20:43:36.539Z
+    message: Updated for 6.4 (no changes)
 ---
 ![Ninja standard opener graphic. ](/img/jobs/nin/earlymug3.png "Ninja Standard Opener")
 
