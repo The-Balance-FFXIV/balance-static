@@ -2,8 +2,8 @@
 title: Dragoon Openers
 authors:
   - Balance-DRG-Staff
-patch: "6.2"
-lastmod: 2022-09-21T16:39:43.540Z
+patch: "6.4"
+lastmod: 2023-05-25T17:38:56.583Z
 changelog:
   - date: 2021-10-29T02:55:52.808Z
     message: Created page
@@ -11,6 +11,8 @@ changelog:
     message: Initial update for Endwalker
   - date: 2022-09-21T16:39:46.296Z
     message: Minor editorial changes
+  - date: 2023-05-25T17:38:58.123Z
+    message: Added a paragraph about Geirskogul drift with 2.46
 ---
 # Dragoon Opener and Rotation
 
@@ -25,6 +27,8 @@ The primary use of the Opener is to prepare your cooldown alignment for the rest
 The backbone of ten GCDs in sequence will - in general - never be changed, but the two blocks of oGCDs (**Buffs** and **Attacks**) can be shuffled around within their respective slots if necessary to accommodate specific encounter timings.
 
 The default order of Geirskogul and High Jump remains this way for forever, with every odd Geirskogul landing immediately after Lance Charge or Lance Charge, Dragon Sight and Battle Litany and entering Life of the Dragon. As such, we no longer need to think about early/late life and double life as those windows are a thing of the past, barring potential fight-specific optimizations.
+
+When using skill speed (such as having a 2.46 GCD) it's recommended to put Geirskogul in the slot after Battle Litany to help reduce the drift that will naturally occur over time.
 
 This video has a full six minute rotation at a 2.50 GCD, using the opener above.
 
