@@ -20,6 +20,7 @@ changelog:
 # Gunbreaker Rotation Guide
 
 #### Authors
+
 **Krom Ulus** | Adamantoise (Aether) | krom#7427\
 **Azazel Raine** | Balmung (Crystal) | Azazel#1000
 
@@ -90,6 +91,7 @@ Prioritize using cartridges on major cooldowns or to stop the gauge from overcap
 * Spends **1 cartridge**.
 * Replaces **Burst Strike** at 2+ targets.
 * Replaces **Gnashing Fang** at 4+ targets.
+
 - - -
 
 ## the Priority System
@@ -153,6 +155,7 @@ This forces us to enter **No Mercy** with two cartridges if we use **No Mercy** 
 ![](/img/jobs/gnb/2cnm_lr.png)
 
 ## **AOE Priority**
+
 - - -
 
 ![AOE Prio](/img/jobs/gnb/gnb-ammended.png "AOE Rotation/Priority")
@@ -160,9 +163,11 @@ This forces us to enter **No Mercy** with two cartridges if we use **No Mercy** 
 ## Notable Utility
 
 - - -
+
 ![Heart of Corundum](/img/jobs/gnb/hoc.png "Heart of Corundum")
 
 **Heart of Corundum** provides your target with a buff that reduces their damage taken by 27.75% for the first 4 seconds it was applied, and 15% for the next 4 seconds after that. It also applies a 900 potency heal that will proc onto that target upon their maximum HP reaching less than 50%, or when the buff expires 20 seconds later.
+
 * The heal is extremely powerful, and due to the proc or timer expiration requirement, it can be used as a plannable healing tool that can heal almost half of a DPS's health bar.
 
 ![Camouflage](/img/jobs/tanks/gunbreaker/Aurora.png)
@@ -172,6 +177,7 @@ This forces us to enter **No Mercy** with two cartridges if we use **No Mercy** 
 ![Camouflage](/img/jobs/tanks/gunbreaker/Camouflage.png)
 
 **Camouflage** reduces damage taken by 10% for 20 seconds. Provides an additive +50% parry rate (for a total of 60% parry rate) for 20 seconds. Parry applies a 15% damage reduction, but only to physical attacks.
+
 * The 10% damage reduction always applies to every damage instance.
 
 ![Rampart](/img/jobs/tanks/gunbreaker/Rampart.png)
@@ -180,7 +186,6 @@ This forces us to enter **No Mercy** with two cartridges if we use **No Mercy** 
 **CD: 90s**
 
 Reduces damage taken by 20% for 20 seconds.
-
 
 ![Nebula](/img/jobs/tanks/gunbreaker/Nebula.png)
 
@@ -196,14 +201,12 @@ CD: 360s / 6m
 
 Reduces HP to 1 and renders you impervious to most attacks for 10 seconds.
 
-
 ![ArmsLength](/img/jobs/tanks/gunbreaker/Arms_Length.png)
 
 **Arm’s Length**\
 **CD: 120s**
 
 Role action. Makes you immune to most knockback or draw-in effects for six seconds. Applies a 20% slow to enemies that attack you while Arm’s Length is active (This means enemies will attack you 20% slower, very useful for dungeons!).
-
 
 ## Utility Off Global Cool Down Abilities
 
@@ -309,29 +312,6 @@ When doing dungeons, it’s important to space your cooldowns out. You have thre
 The above “plan” is of course not set in stone. In an ideal world, your dungeon DPS are fast enough to kill a pack of monsters before your main cooldown wears off. However, this may not happen and you may in turn have to cycle through cooldowns or change things. There’s nothing wrong with using more than expected and taking the next few pulls slow. The reason why we use these cooldowns and do big pulls is that besides them making runs faster, you rarely need Rampart or Nebula for dungeon bosses, as their tank busters don’t hit very hard and can be taken with a well timed Heart of Corundum.
 
 Due to Clarity of Corundum’s duration being so short, I recommend waiting a GCD or two once you have all the enemies rounded up before using Heart of Corundum. If you prepull Heart of Corundum and run in, chances are Clarity of Corundum will fall off.
-
-## Ultimates
-
-Ultimates are timeless content due to their difficulty and rewards but are forced sync and cannot be done above their release level. This affects the gear you enter the encounter with, but is more lenient as all three past Ultimates' entry IL are far below our current standard. Food and Pots do not sync, but still have a soft cap so you don’t need the absolute top current food and pots for something like UCoB as its sync is relatively low. The relic from Shadowbringers is the best choice of weapon for previous Ultimates, But will require you to get it to at least the [Augmented Law’s Order](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/3111076df9e/) stage to assign substats. [Blade’s Resolve](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/b723d663158/) gives you more substat to work with but this realistically is of only benefit in TEA, as you’ll reach cap for the substats with Law’s Order in the other two Ultimates, as such unless you want to really optimize and push as much damage as you want for TEA, you can settle for Augmented Law’s Order. If you don’t want to grind the Blade’s Resistance Relic, you can use any weapon with optimal substats that exceed the encounter’s max IL. 
-
-**The Unending Coil of Bahamut (UCoB):**\
-IL Cap: 470\
-BIS: [UCoB/UWU Combination BIS](https://cdn.discordapp.com/attachments/541353216307232788/950220623873990656/unknown.png)\
-Relic Stat cap: 127
-
-**The Weapon’s Refrain (UWU):**\
-IL Cap: 500\
-BIS: UCoB/UWU Combination BIS\
-Relic Stat cap: 136
-
-**The Epic of Alexander (TEA):**\
-IL Cap: 595 \
-BIS: [2.40 GCD](https://cdn.discordapp.com/attachments/541353216307232788/945234729865728030/unknown.png)\
-Relic Stat cap: 184
-
-**Dragonsong’s Reprise (DSW/DSR):**\
-IL Cap: N/A\
-BIS: [2.40](https://etro.gg/gearset/88fbea7d-3b43-479c-adb8-b87c9d6cb5f9) 
 
 ## Special Thanks
 
