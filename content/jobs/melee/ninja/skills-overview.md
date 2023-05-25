@@ -2,7 +2,7 @@
 title: Ninja Skills Overview
 authors:
   - zhotacton
-patch: "6.2"
+patch: "6.4"
 lastmod: 2022-09-20T06:33:49.543Z
 changelog:
   - date: 2021-10-28T04:09:39.139Z
@@ -11,6 +11,8 @@ changelog:
     message: Article Updated
   - date: 2022-09-20T06:33:53.037Z
     message: Updated for 6.2 (no changes(
+  - date: 2023-05-25T20:43:05.211Z
+    message: Updated to 6.4 (no changes)
 ---
 # Weaponskills (Commonly referred to as GCDs)
 
