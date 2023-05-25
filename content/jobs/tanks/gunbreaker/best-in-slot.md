@@ -1,8 +1,8 @@
 ---
 title: Gunbreaker Best in Slot (BiS)
 layout: bis
-patch: "6.2"
-lastmod: 2022-09-19T23:00:00.000Z
+patch: "6.4"
+lastmod: 2023-05-25T01:14:02.146Z
 changelog:
   - date: 2022-02-03T00:16:26.730Z
     message: Updated for Endwalker patch 6.08.
@@ -10,27 +10,31 @@ changelog:
     message: Updated 2.42 GCD for 6.1 Gear
   - date: 2022-09-10T17:11:34.984Z
     message: "6.2 BIS updated: 2.42, 2.45 + Respective race BIS."
+  - date: 2023-05-25T01:14:14.848Z
+    message: Updated for 6.4.
 bis:
   - type: etro
-    description: ""
-    name: 2.42 GCD
-    link: afa282c8-d5b9-41a8-8adf-aca95bc3de33
+    description: >-
+      * Suggested set to use in most content.
+
+      * Special usage case for forced 2-cartridge No Mercy. Refer to !faq 2cartnm.
+    name: "2.50"
+    link: https://etro.gg/gearset/1dee5389-9906-4690-88b7-55419a342932
   - type: etro
-    description: ""
-    name: 2.45 GCD
-    link: 1cdcf24b-af97-4d6b-ab88-dcfee79f791c
+    description: >-
+      * 9 GCD NM may be inconsistent or impossible for even moderate latency
+      (50-100ms) users.
+
+      * Slowest option that can reasonably/consistently attain 9 GCD NM.
+    name: "2.46"
+    link: https://etro.gg/gearset/f5d14a05-593c-454d-8614-077974c0b98c
   - type: etro
-    description: D﻿ue to STR tiering, a separate bis is required for optimal DPS on
-      certain races. Use this bis if you are either of these three races.)
-    name: Race Specific 2.42 (Use if Seekers of the Sun, Midlander, or Sea Wolf)
-    link: 559c9e70-eeea-400d-a71f-7cb4ba304181
-  - type: etro
-    description: D﻿ue to STR tiering, a separate bis is required for optimal DPS on
-      certain races. Use this bis if you are either of these three races.)
-    name: Race Specific  2.45 (Use if Seekers of the Sun, Midlander, or Sea Wolf)
-    link: 1300c0c9-cf6b-474c-aba9-f1bfeb31976d
+    description: "* Suggested if you don't want to play on 2.50."
+    name: "2.44"
+    link: https://etro.gg/gearset/b3847bc9-2fda-4b7b-a8a1-e1720b51a46e
 authors:
   - Balance-GNB-Staff
+tags: []
 ---
 # Gunbreaker Best in Slot
 
