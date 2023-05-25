@@ -17,22 +17,19 @@ changelog:
   - date: 2022-09-24T23:54:18.906Z
     message: Removed outdated content until guide is reworked and new info added.
 ---
-# Introduction to Gunbreaker
+# Gunbreaker Rotation Guide
 
-### Authors
-
+#### Authors
 **Krom Ulus** | Adamantoise (Aether) | krom#7427\
 **Azazel Raine** | Balmung (Crystal) | Azazel#1000
 
 - - -
 
-Gunbreaker is a higher APM job with a focus on building and spending cartridges to deal very high damage inside of tight burst windows. This guide will introduce the relevant actions, gauge usage, and priority system to manage your rotation.
-
-If you have any questions or comments please feel free to reach out in The Balance in either **\#gnb_lounge** or **\#gnb_questions** and ask about anything.
-
-## Rotation
+## Playstyle and Core Concepts
 
 - - -
+
+Gunbreaker is a higher APM job with a focus on building and spending cartridges to deal very high damage inside of tight burst windows. This guide will introduce the relevant actions, gauge usage, and priority system to manage your rotation.
 
 The rotation is a builder-spender rotation focused on maximizing damage inside the personal 20% damage buff, **No Mercy**, every 60 seconds.
 
@@ -93,8 +90,9 @@ Prioritize using cartridges on major cooldowns or to stop the gauge from overcap
 * Spends **1 cartridge**.
 * Replaces **Burst Strike** at 2+ targets.
 * Replaces **Gnashing Fang** at 4+ targets.
+- - -
 
-### the Priority System
+## the Priority System
 
 - - -
 
@@ -104,6 +102,8 @@ Splitting the rotation into two main phases helps understand the fundamentals be
 * The **burst phase**.
 
 The burst phase begins when **No Mercy** is activated, and the filler phase begins when  **No Mercy** ends.
+
+![GNB Simple Infographic](/img/jobs/gnb/priorotation.png "GNB Rotation")
 
 ### Filler Phase
 
@@ -136,44 +136,19 @@ Once **No Mercy** is off cooldown, use it off cooldown and begin using your cool
 * **Bloodfest** should not be used until all cartridges have been spent.
 * **Rough Divide** should be used outside of **No Mercy** if it allows for melee uptime.
 
-When **No Mercy** ends, return to the **filler phase**.
-
-- - -
-
-*To help visualize these fundamental goals, there are several infographics that have been developed to assist in seeing what to do. Please review over these, and if you would like high-definition versions to download, please refer to The Balance in #gnb_resources.*
-
-### Priority System Infographic
-
-- - -
-
-Visualizes the aforementioned **filler** and **burst phases**.
-
-The combo actions have been homogenized into one action to demonstrate that the general idea is just to build cartridges over that period of time without specifying which combo action to use at that moment.
-
-![GNB Simple Infographic](/img/jobs/gnb/priorotation.png "GNB Rotation")
-
-Looking at the notes at the top, the filler phase tells us to focus on generating cartridges with a generic combo when other cooldowns cannot be used. We use **Gnashing Fang** off cooldown when it's ready.
-
-* The reason for the note "Hold 2nd **Gnashing Fang** into **No Mercy**" exists because skill speed will reduce the cooldown of **Gnashing Fang** to be less than 30 seconds.  This causes **Gnashing Fang** to come off cooldown before **No Mercy**, so we just hold it instead. This is known as **reverse drift**.
-
-When the gauge completely fills, it may be necessary to use **Burst Strike** to stop the gauge from overcapping cartridges. 
-
-* This is only when the next combo action to use is **Solid Barrel**, and the gauge is completely full.
-* Sometimes, this may happen on the same GCD that **No Mercy** comes off cooldown. The next section will explain how to handle this.
-
-Upon **No Mercy** coming off cooldown, we use it and then use all of our cooldowns within No Mercy to take advantage of the 20% damage bonus. When it finishes, we go back to the filler phase.
+When **No Mercy** ends, return to the **filler phase**. 
 
 ### Forced 2-Cartridge Burst Phase 
 
 - - -
 
-It is possible to encounter a situation where:
+It is possible for this scenario to occur within your rotation:
 
 * The cartridge gauge is full.
 * The next combo action is **Solid Barrel**.
 * **No Mercy** will be off cooldown after using the next GCD.
 
-This causes us to enter No Mercy with two cartridges if we use No Mercy off cooldown. There is more than one solution to this, so refer to the infographic.
+This forces us to enter **No Mercy** with two cartridges if we use **No Mercy** off cooldown. There is more than one solution to this, so refer to the infographic.
 
 ![](/img/jobs/gnb/2cnm_lr.png)
 
@@ -182,84 +157,53 @@ This causes us to enter No Mercy with two cartridges if we use No Mercy off cool
 
 ![AOE Prio](/img/jobs/gnb/gnb-ammended.png "AOE Rotation/Priority")
 
-## Final Notes
-
-Gunbreaker doesn’t have a simple “loop”. It’s simply a shifting priority system bending around 30s and 60s burst windows. There is some static nature to the class while others are a bit fluid. Below is a flow chart that you can use to get yourself accustomed to what you should be doing when and where in the rotation. GNB has a large amount of rigidity to its rotation so bending it or trying to set up for very specific things is not something we encourage as it can have knock-on effects in your rotation.
-
-![](/img/jobs/gnb/flow1.png)
-
-## Defensive Off Global Cool Down Abilities
+## Notable Utility
 
 - - -
+![Heart of Corundum](/img/jobs/gnb/hoc.png "Heart of Corundum")
 
-![Aurora](/img/jobs/tanks/gunbreaker/Aurora.png)
+**Heart of Corundum** provides your target with a buff that reduces their damage taken by 27.75% for the first 4 seconds it was applied, and 15% for the next 4 seconds after that. It also applies a 900 potency heal that will proc onto that target upon their maximum HP reaching less than 50%, or when the buff expires 20 seconds later.
+* The heal is extremely powerful, and due to the proc or timer expiration requirement, it can be used as a plannable healing tool that can heal almost half of a DPS's health bar.
 
-**Aurora**
+![Camouflage](/img/jobs/tanks/gunbreaker/Aurora.png)
 
-200 potency Heal over Time (HoT) for 18 seconds. 1200 potency heal total. 60 second cooldown. Can be used on self or a target party member in a 30y range. \
-Two charges at level 84\
-CD: 60s per charge
+**Aurora** is a targeted 18 second heal over time effect that heals your target for 200 potency every 3 seconds. It has two stacks, which makes it an effective regen effect to apply to any player that requires extra healing over a certain duration.
 
 ![Camouflage](/img/jobs/tanks/gunbreaker/Camouflage.png)
 
-**Camouflage**
-
-Reduces damage taken by 10% for 20 seconds. Gives +50% parry rate (for a total of 60% parry rate) for 20 seconds. Parry only works on physical damage and reduces damage by 15% when it applies. \[The 10% damage reduction applies regardless of if the attack is physical or magical.]\
-**CD: 90s**
+**Camouflage** reduces damage taken by 10% for 20 seconds. Provides an additive +50% parry rate (for a total of 60% parry rate) for 20 seconds. Parry applies a 15% damage reduction, but only to physical attacks.
+* The 10% damage reduction always applies to every damage instance.
 
 ![Rampart](/img/jobs/tanks/gunbreaker/Rampart.png)
 
-**Rampart**
-
-Reduces damage taken by 20% for 20 seconds. \
+**Rampart**\
 **CD: 90s**
+
+Reduces damage taken by 20% for 20 seconds.
+
 
 ![Nebula](/img/jobs/tanks/gunbreaker/Nebula.png)
 
-**Nebula**
-
-Reduces damage taken by 30% for 15 seconds. \
+**Nebula**\
 **CD: 120s**
 
-![HeartOfStone](/img/jobs/tanks/gunbreaker/Heart_of_Stone.png)
-
-**Heart of Stone**
-
-Reduces damage taken by 15% for seven seconds. Can be used on self or a target party member in a 30y range. If used on a party member, any existing Brutal Shell shield will be copied onto them. \
-**CD: 25s**\
-*\*Upgraded to Heart of Corundum upon reaching level 82*
-
-![Heart of Corundum](/img/jobs/gnb/hoc.png "Heart of Corundum")
-
-**Heart of Corundum** \
-Reduces damage taken by a party member or self by 15%.\
-Duration: 8s\
-Additional Effect: When targeting a party member while under the effect of Brutal Shell, that effect is also granted to the target\
-Duration: 30s\
-Additional Effect: Grants Clarity of Corundum to target \
-Clarity of Corundum Effect: Reduces damage taken by 15%\
-Duration: 4s\
-Additional Effect: Grants Catharsis of Corundum to target\
-Catharsis of Corundum Effect: Restores HP when HP falls below 50% or upon effect duration expiration\
-Cure Potency: 900\
-Duration: 20s\
-**CD: 25s**\
-*We will go in depth about Heart of Corundum below.*
+Reduces damage taken by 30% for 15 seconds.
 
 ![Superbolide](/img/jobs/tanks/gunbreaker/Superbolide.png)
 
-**Superbolide**
+**Superbolide**\
+CD: 360s / 6m
 
-Reduces HP to 1 and renders you impervious to most attacks.\
-Duration: 10s**\
-CD: 360s / Six Minutes**
+Reduces HP to 1 and renders you impervious to most attacks for 10 seconds.
+
 
 ![ArmsLength](/img/jobs/tanks/gunbreaker/Arms_Length.png)
 
-**Arm’s Length**
-
-Role action. Makes you immune to most knockback or draw-in effects for six seconds. Applies a 20% slow to enemies that attack you while Arm’s Length is active (This means enemies will attack you 20% slower, very useful for dungeons!). \
+**Arm’s Length**\
 **CD: 120s**
+
+Role action. Makes you immune to most knockback or draw-in effects for six seconds. Applies a 20% slow to enemies that attack you while Arm’s Length is active (This means enemies will attack you 20% slower, very useful for dungeons!).
+
 
 ## Utility Off Global Cool Down Abilities
 
@@ -323,7 +267,7 @@ We have three self-mits that last a decent duration *but* have a lengthy cooldow
 
 * Heart of Corundum: 15% DR to self or party member for 8s
 * Clarity of Corundum: 15% DR to self or party member for 4s.
-* Catharsis of Corundum: 900 potency heal when effect expires or when health is reduced below 50% on self or target. Buff duration 25s.
+* Catharsis of Corundum: 900 potency heal when effect expires or when health is reduced below 50% on self or target. Buff duration 20s.
   *The effect of your Brutal Shell shield is also granted to another target, but use on yourself will not affect your own Brutal Shell shield. This is also present for Heart of Stone.
 
 Heart of Corundum provides a 27.75%~ damage reduction for the first four seconds of its duration as the two damage reductions from Heart of Corundum and Clarity of Corundum stack together to provide a very strong opening effect which decays to 15% after four seconds. While this persists, you have Catharsis of Corundum which provides a great 900 pot heal (which can crit!). Corundum has no cost, no drawback, and a short cooldown, and is therefore an extremely powerful and versatile tool to use for support and self-sustain. However, utilizing it to its maximum potential requires you to make use of **Clarity of Corundum**. Personally, when double weaving any mitigation, I tend to weave Corundum second to ensure Clarity is present for the tank buster. That being said, keep in mind that any late mitigation will miss the damage snapshot and instead of a nice 27.75% you’ll get 0%. You ideally always want your main mitigations with Heart of Corundum for heavy hitting tank busters.
