@@ -313,6 +313,29 @@ The above “plan” is of course not set in stone. In an ideal world, your dung
 
 Due to Clarity of Corundum’s duration being so short, I recommend waiting a GCD or two once you have all the enemies rounded up before using Heart of Corundum. If you prepull Heart of Corundum and run in, chances are Clarity of Corundum will fall off.
 
+## Ultimates
+
+Ultimates are timeless content due to their difficulty and rewards but are forced sync and cannot be done above their release level. This affects the gear you enter the encounter with, but is more lenient as all three past Ultimates' entry IL are far below our current standard. Food and Pots do not sync, but still have a soft cap so you don’t need the absolute top current food and pots for something like UCoB as its sync is relatively low. The relic from Shadowbringers is the best choice of weapon for previous Ultimates, But will require you to get it to at least the [Augmented Law’s Order](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/3111076df9e/) stage to assign substats. [Blade’s Resolve](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/b723d663158/) gives you more substat to work with but this realistically is of only benefit in TEA, as you’ll reach cap for the substats with Law’s Order in the other two Ultimates, as such unless you want to really optimize and push as much damage as you want for TEA, you can settle for Augmented Law’s Order. If you don’t want to grind the Blade’s Resistance Relic, you can use any weapon with optimal substats that exceed the encounter’s max IL. 
+
+**The Unending Coil of Bahamut (UCoB):**\
+IL Cap: 470\
+BIS: [UCoB/UWU Combination BIS](https://cdn.discordapp.com/attachments/541353216307232788/950220623873990656/unknown.png)\
+Relic Stat cap: 127
+
+**The Weapon’s Refrain (UWU):**\
+IL Cap: 500\
+BIS: UCoB/UWU Combination BIS\
+Relic Stat cap: 136
+
+**The Epic of Alexander (TEA):**\
+IL Cap: 595 \
+BIS: [2.40 GCD](https://cdn.discordapp.com/attachments/541353216307232788/945234729865728030/unknown.png)\
+Relic Stat cap: 184
+
+**Dragonsong’s Reprise (DSW/DSR):**\
+IL Cap: N/A\
+BIS: [2.40](https://etro.gg/gearset/88fbea7d-3b43-479c-adb8-b87c9d6cb5f9) 
+
 ## Special Thanks
 
 This guide was only possible with the help and support of the key members of the GNB Community. Special thanks to Krom, Rin Karigani, Bec, and especially Torael Valdis who taught me to be the GNB I am today and all my victories are owed to him.
