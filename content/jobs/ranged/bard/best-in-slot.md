@@ -14,18 +14,29 @@ changelog:
     message: i630 BiS set added, i612 prog BiS added
   - date: 2023-01-12T03:26:39.329Z
     message: DSR prog BiS updated
+  - date: 2023-05-25T03:46:55.528Z
+    message: Added initial 6.4 sets
 bis:
   - type: etro
-    description: We recommend you purchase the tome bracelet first, then ring, then
-      gloves, then pants. If you win a twine early, get pants before gloves.
-    name: i630 Best In Slot
-    link: 2a242f9b-8a41-4d09-9e14-3c8fb08e97e4
+    description: We recommend you purchase the tome boots first, then bracelet. The
+      remaining three are flexible, but (ring > chest > earring) is a good
+      default if doing savage.
+    name: i660 Best In Slot
+    link: f2426d1e-2da8-4151-bf52-74ca67b5f4a2
   - type: etro
-    description: This gear set is for players just starting out with gearing their
-      level 90 Bard. Everything here can be attained in your first week - 375
-      Causality tomes, and a bunch of farming Astronomy.
-    name: i620 Starter gear set
-    link: c52da8fd-8bb9-44ee-bc3d-a62cd5c31e91
+    description: >-
+      Prioritize buying boots with your tomes. Ideally, trade in one line of
+      Wondrous Tales, or do a quick dungeon run, to buy them before Savage goes
+      up.
+
+
+      Until you get the tome bracelet, use the crafted one with all Crit melds.
+    name: i642 Week 1 Savage progression set
+    link: 087224e3-4228-4294-a1ec-2589eae56fb3
+  - type: etro
+    description: ""
+    name: The Omega Protocol (prog) BiS
+    link: 2a242f9b-8a41-4d09-9e14-3c8fb08e97e4
   - type: etro
     description: ""
     name: Dragonsong's Reprise (prog) BiS
