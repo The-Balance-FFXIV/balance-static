@@ -10,6 +10,8 @@ changelog:
     message: Updated all sets to patch 6.2. Added DSR BiS.
   - date: 2023-01-12T11:14:13.412Z
     message: Added new DSR sets
+  - date: 2023-05-25T16:27:59.307Z
+    message: Sets updated for Patch 6.4, updated DSR sets and added TOP sets
 bis:
   - type: etro
     description: Choosing this 2.50 set is highly recommended. It is much easier to
