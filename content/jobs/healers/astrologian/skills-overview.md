@@ -149,11 +149,13 @@ changelog:
 
 **Collective Unconscious 60s CD**
 
-* AoE buff in a 30y radius around you
+* AoE Mitigation in an 8y radius around you
+* AoE regen in a 30y radius around you
 * Regen (five ticks of 100p) and mitigation (10%)
 * Total heal potency: 500p if not held
 * Use as a group mitigation and regen
 * If you use CU and cancel it instantly, you'll have five seconds of mitigation
+* Holding CU will refresh the mitigaiton buff every server tick three seconds a part from each other
 * Do not hold Collective Unconscious during most uptime scenarios
 
 ![](/img/jobs/ast/star.png)
