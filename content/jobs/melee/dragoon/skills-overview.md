@@ -17,6 +17,8 @@ changelog:
     message: Added level, fixed some outdated information
   - date: 2023-01-12T11:15:50.656Z
     message: Updated Life Surge according to 6.3 patch notes
+  - date: 2023-05-25T16:27:10.297Z
+    message: Updated skills according to the Patch 6.4 notes.
 ---
 # Dragoon Skills Overview
 
