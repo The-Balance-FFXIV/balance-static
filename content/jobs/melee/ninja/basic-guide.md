@@ -3,7 +3,7 @@ title: Ninja Basic Guide
 card_header_image: /img/jobs/nin/basic.png
 authors:
   - jackal
-patch: "6.3"
+patch: "6.4"
 lastmod: 2023-03-01T11:03:50.958Z
 changelog:
   - date: 2021-10-29T03:08:27.069Z
@@ -18,6 +18,8 @@ changelog:
     message: Updated for 6.2 (no changes)
   - date: 2023-03-01T11:03:53.786Z
     message: Updated opener graphics for 6.3
+  - date: 2023-05-25T20:42:23.204Z
+    message: Updated to 6.4 (no changes)
 ---
 If you have any questions, feel free to ask in the #nin_questions channel.
 
