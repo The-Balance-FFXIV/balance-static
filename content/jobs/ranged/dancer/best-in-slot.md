@@ -2,12 +2,14 @@
 title: Dancer Best in Slot (BiS)
 layout: bis
 patch: "6.4"
-lastmod: 2022-09-20T13:09:25.666Z
+lastmod: 2023-05-25T16:47:32.307Z
 changelog:
   - date: 2021-10-26T02:11:25.028Z
     message: Created page
   - date: 2022-02-02T23:12:03.090Z
     message: Updated for Endwalker.
+  - date: 2023-05-25T16:47:13.205Z
+    message: Updated for patch 6.4
 bis:
   - type: etro
     description: ""
