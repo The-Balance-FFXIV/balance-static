@@ -3,7 +3,7 @@ title: Reaper Advanced Guide
 card_header_image: /img/jobs/rpr/screenshot_5-edit.jpg
 authors:
   - ellunavi
-patch: "6.3"
+patch: "6.4"
 lastmod: 2023-01-12T22:45:15.452Z
 changelog:
   - date: 2021-11-27T12:55:28.038Z
@@ -31,6 +31,8 @@ changelog:
   - date: 2022-09-15T19:27:57.206Z
     message: Modified the wording under Damage Delay Section
   - date: 2023-01-12T22:28:35.240Z
+    message: Updated patch number
+  - date: 2023-05-27T15:49:45.752Z
     message: Updated patch number
 tags:
   - Reaper
