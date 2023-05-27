@@ -2,7 +2,7 @@
 title: Reaper Openers
 authors:
   - Balance-RPR-Staff
-patch: "6.3"
+patch: "6.4"
 lastmod: 2023-01-12T22:44:52.291Z
 changelog:
   - date: 2022-01-29T01:54:23.902Z
