@@ -2,7 +2,7 @@
 title: Reaper Skill Overview
 authors:
   - dook
-patch: "6.3"
+patch: "6.4"
 lastmod: 2023-01-12T22:44:33.061Z
 changelog:
   - date: 2022-01-04T20:37:59.400Z
