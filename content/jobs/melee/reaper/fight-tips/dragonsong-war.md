@@ -12,6 +12,11 @@ changelog:
     message: "Updated. "
   - date: 2022-12-19T17:59:59.107Z
     message: Refreshed every image on the guide.
+  - date: 2023-05-27T11:32:42.138Z
+    message: Added an alternative for the Phase 2 Opener if playing with high ping &
+      a note for playing with a dancer in the group. Also added a note for
+      bursting during Wyrmbreath 2 & an example video for how to properly uptime
+      downtime Hallowed Plume 1.
 ---
 # Reaper Guide for Dragonsong’s Reprise (Ultimate)
 
@@ -25,7 +30,7 @@ Dragonsong’s Reprise (Ultimate) is the first Ultimate released in Final Fantas
 
 [Etro](https://etro.gg/gearset/d2c44499-c41e-47ba-8457-f6e99b97fdd1)
 
-Your item level will be synced down to 605. This etro link has the Best in Slot gear for DSR at the moment. If you do not want to farm the dungeon gear, you can also use the set that was Best in Slot during the Asphodelos raid tier. You can find that gear set in the reaper resources on the balance discord. You can learn more about the GCD tiers in the [advanced guide](/jobs/melee/reaper/advanced-guide/#the-25-249-248-global-cooldown).
+Your item level will be synced down to 605. This etro link has the Best in Slot gear for DSR at the moment. The Manderville 615 and Amazing Manderville 630 weapons are exactly identical in DSR due to item level sync. Use what you have available. If you do not want to farm the dungeon gear, you can also use the set that was Best in Slot during the Asphodelos raid tier. You can find that gear set in the reaper resources on the balance discord. You can learn more about the GCD tiers in the [advanced guide](/jobs/melee/reaper/advanced-guide/#the-25-249-248-global-cooldown).
 
 # Phase One: The Vault Knights
 
@@ -116,6 +121,10 @@ With faster kill times on the earlier phases, Gluttony can become somewhat of a 
 **Why do we not use Harpe Pre-pull for Thordan?**
 
 * Using Harpe pre-pull will delay our first GCD by a very small amount. This generally is no problem and always a gain. However, the last GCD in our Opener is very tight and using Harpe pre-pull will most likely result in you ghosting your very last GCD. It was very inconsistent for me but you can try it out by yourself to see if you can use Harpe pre-pull without ghosting your last GCD consistently.
+
+**Important Notes:**
+* Be aware that if you have a Dancer in your party, you will most likely not get the 8th stack for Plentiful Harvest from them due to us skipping Harpe in the Opener which means Arcane Circle will come out ~0.5s earllier than usual. This is a 40p loss but adjusting the Rotation around this will be a bigger loss so sadly you have to bite the bullet here.
+* If you are playing on a high ping and struggle to use Plentiful Harvest right as it come up as thus clip your GCD due that, you will miss the very last Gibbet or Gallows in this opener which is obivously a big loss. If this is the case for you, swap to the Early Gluttony Opener instead and do the adjustment where you send Arcane Circle right after Shadow of Death so that you will not clip your Plentiful Harvest in the Opener and can safely hit the very last GCD.
 
 ### Opener after Strength of the Ward
 
@@ -475,10 +484,10 @@ For this Phase we will fight both again, Nidhogg and Hraesvelgr. This is a 100% 
 
 ### Rotational notes:
 
-* For the first **Hallowed Wings** if this is the pattern where you have to go out of melee range, you can use your odd minute Enshroud here and go out after your 4th Reaping to cast Communio after going out.
+* For the first **Hallowed Wings** if this is the pattern where you have to go out of melee range, you can use your odd minute Enshroud here and go out after your 4th Reaping to cast Communio after going out. An example video for that can be found further below.
 * If you get the pattern in **Wroth Flames** where you have to go out of melee range, you can use Hell's Ingress/Egress to teleport to the stack spot and use your Enhanced Harpe that you gain + Harvest Moon.
 * If your group wants to use their raid buffs after **Touchdown**, I would advise to use the second Enshroud you get in this Phase as soon as you get it. Reason is that you probably won't get off an Enshroud, Gluttony and Plentiful Harvest before the dragons die.
-* Arcane Circle will come back up during **Wyrmsbreath 2**. I would advise holding raid buffs here as you will not hit everyone and both dragons will jump away soon afterwards.
+* Arcane Circle will come back up during **Wyrmsbreath 2**. If your group wants to use their raid buffs during that window, do a single Enshroud in this window and keep building gauge afterwards to be able to enter with 100/100 into Phase 7.
 
 ### Touchdown:
 
@@ -490,6 +499,10 @@ For this Phase we will fight both again, Nidhogg and Hraesvelgr. This is a 100% 
 
 * I would advise using Feint for either one of the **Hallowed Plume** tankbusters, if your tank needs help with them, or for the **Akh Morn** during **Wroth Flames** as these hit pretty hard and every mitigation here would help.
 * Use Arcane Crest pretty much on cooldown. For **Wyrmsbreath 1**, **Akh Afah**, **Akh Morn** or the Stack/Spread, **Wyrmsbreath 2** or **Touchdown**.
+
+For the example video for the melee downtime Hallowed Plume 1 pattern, [click here!](https://www.youtube.com/watch?v=auST5IYsfYA)
+
+{{< youtube auST5IYsfYA >}}
 
 # Phase Seven: The Dragon King
 
