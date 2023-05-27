@@ -43,7 +43,7 @@ changes:
 
       This is about 2.3% increase and ultimately makes the job more competitive with other melee. All of this damage is in the burst window which also impacts how well a RPR performs in raid buffs.
   - patch: "6.4"
-    description: The radius for our Raid buff Arcane Circle has been doubled from
+    description: The radius for our Raid buff, Arcane Circle, has been doubled from
       15y to 30y.
 authors:
   - Laille-Ormesaing
