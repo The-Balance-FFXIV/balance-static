@@ -1,7 +1,7 @@
 ---
 title: Reaper FAQ
 layout: qna
-patch: "6.3"
+patch: "6.4"
 lastmod: 2023-01-03T22:49:17.427Z
 changelog:
   - date: 2021-12-04T04:55:35.452Z
@@ -129,7 +129,7 @@ qna:
   - question: How do Arcane Circle, Immortal Sacrifice, and Plentiful Harvest work?
     answer: >-
       Arcane Circle is a 3% damage up buff for 20s that is applied to all party
-      members within 15y of the caster.
+      members within 30y of the caster.
 
 
       Circle of Sacrifice is a 5s buff that checks whether or not the RPR that used Arcane Circle and each party member with the buff successfully uses a weaponskill or spell that **does damage/applies a negative effect** to the target. Because of this criterion, DNC steps and healing spells do not count.
