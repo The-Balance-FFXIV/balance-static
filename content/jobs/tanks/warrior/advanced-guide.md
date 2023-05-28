@@ -113,13 +113,12 @@ If the fight lasts for well over nine minutes, we opt for a three potion fight. 
 What if the fight lasts for less than nine minutes plus some odd seconds? We go for two impactful potions.\
 With most of the party buffs being ready in six minute cycles, most parties aim to sync everything for that specific "6-min window". This means that we're deliberately delaying our second potion all the way until the six minute mark of the fight.
 
- **Prepull into Six Min:** 
-
+**Prepull into Six Min:** 
 * \-00:02 Potion
 * 00:00 Pull
 * 06:00 Potion
 
-  **Standard into Six Min:**
+**Standard into Six Min:**
 * 00:00 Pull
 * 00:05 Potion
 * 06:00 Potion
