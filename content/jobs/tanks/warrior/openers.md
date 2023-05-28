@@ -3,8 +3,8 @@ title: Warrior Openers
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
-patch: "6.30"
-lastmod: 2023-01-10T18:04:53.722Z
+patch: "6.4"
+lastmod: 2023-05-28T14:25:44.227Z
 changelog:
   - date: 2022-01-31T07:37:24.695Z
     message: Updated for Endwalker
@@ -12,6 +12,8 @@ changelog:
     message: Added IC IC IR and -29s IR into Rend
   - date: 2023-01-10T18:30:58.728Z
     message: Updated for 6.3
+tags:
+  - warrior
 ---
 # Warrior Openers and Rotation
 
