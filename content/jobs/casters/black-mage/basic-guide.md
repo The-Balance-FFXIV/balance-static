@@ -4,13 +4,15 @@ card_header_image: /img/jobs/blm/basic.png
 authors:
   - Balance-BLM-Staff
   - rika-vanih
-patch: "6.2"
-lastmod: 2022-04-12T09:47:09.978Z
+patch: "6.4"
+lastmod: 2023-05-28T19:38:51.767Z
 changelog:
   - date: 2021-10-26T01:47:44.292Z
     message: Added page
   - date: 2022-01-29T17:09:28.490Z
     message: 6.X Guide initial version
+  - date: 2023-05-28T19:39:48.130Z
+    message: 6.4 Adjustments
 ---
 # **6.x Standard BLM Guide**
 
@@ -147,9 +149,13 @@ While Paradox will be available with each swap, it will generally be ignored for
 
 ## **2-Target Situations**
 
-For 2-Target situations, the standard single target rotation is used, with a few adjustments. Use Foul over Xenoglossy for a polyglot spender, and use High Blizzard II/High Fire II instead of Blizzard III/Fire III.
+For 2-Target situations, the standard single target rotation is used, with a few adjustments. Use High Blizzard II/High Fire II instead of Blizzard III/Fire III.
 
 Use Thunder III on each target. Flare can be a gain over Despair if you can make it instant cast (via Swiftcast or Triplecast), even without the Enhanced Flare buff.
+
+
+
+As of Patch 6.4, Foul is no longer a gain over using Xenoglossy until there are three or more targets.
 
 # **oGCD Abilities**
 
@@ -342,7 +348,7 @@ For this document, full names of spells, buffs, and abilities were used for clar
 * MF: Manafont
 * Lucid: Lucid Dreaming
 * SpS/sps: Spellspeed
-* Pot: Main stat (Intelligence) potion, current strongest option is HQ Grade 6 Tincture of Intelligence
+* Pot: Main stat (Intelligence) potion, current strongest option is HQ Grade 8 Tincture of Intelligence
 
 ## **Acknowledgements**
 
