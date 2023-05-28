@@ -1,7 +1,7 @@
 ---
 title: Warrior Best in Slot (BiS)
 layout: bis
-patch: "6.30"
+patch: "6.4"
 lastmod: 2023-01-10T18:09:54.522Z
 changelog:
   - date: 2021-10-27T07:22:13.566Z
@@ -12,44 +12,30 @@ changelog:
     message: Updated 6.11
   - date: 2022-09-04T11:53:58.711Z
     message: Updated for Patch 6.2
+  - date: 2023-05-28T14:32:34.619Z
+    message: Updated for Patch 6.4
 bis:
   - type: etro
     description: ""
-    name: "BIS - 2.5 GCD: Carrot Pudding"
-    link: https://etro.gg/gearset/f3f765a3-56a5-446e-b1e1-1c7cdd23f24b
+    name: BIS - 2.50 GCD - Baked Eggplant
+    link: https://etro.gg/gearset/1103c082-1c80-4bf3-bb56-83734971d5ea
   - type: etro
     description: ""
-    name: "BIS - 2.46 GCD: Carrot Pudding"
-    link: https://etro.gg/gearset/95b030ff-0ab3-4954-831c-99cabb94ff16
+    name: BIS - 2.47 GCD - Baked Eggplant
+    link: https://etro.gg/gearset/81236bab-3711-4dff-bbc4-ee12223690cc
   - type: etro
     description: ""
-    link: https://etro.gg/gearset/95e676d3-3013-44b6-be05-910c86363f60
-    name: "BIS - 2.45 GCD: Sunset Nibbles"
+    link: https://etro.gg/gearset/ccabf244-3ea0-4a33-a817-da4cebe6efc6
+    name: BIS - 2.45 GCD - Baba Ghanoush
   - type: etro
     description: ""
-    name: "BIS - 2.40 GCD: Carrot Pudding"
-    link: https://etro.gg/gearset/388ef835-f18b-4e18-994b-b1d5fa83aa12
-  - type: etro
-    description: ""
-    name: "Prog - 2.5 GCD: Carrot Pudding"
-    link: https://etro.gg/gearset/268518ec-ec1c-4455-8841-36319d06af76
-  - type: etro
-    description: ""
-    link: https://etro.gg/gearset/a1c69e11-193b-44e2-b68a-e53d1c91219f
-    name: "Prog - 2.46 GCD: Carrot Pudding"
-  - type: etro
-    description: ""
-    name: "Prog - 2.45 GCD: Carrot Pudding"
-    link: https://etro.gg/gearset/fde6a8cc-46d3-4ed3-9f92-d1f940fdf6b1
-  - type: etro
-    description: ""
-    name: "Prog - 2.40 GCD: Sunset Nibbles"
-    link: https://etro.gg/gearset/72da57ea-94e6-42f3-848a-950d28f4c3ce
+    name: BIS - 2.40 GCD - Baba Ghanoush
+    link: https://etro.gg/gearset/9343cf54-e21f-4343-ba9d-c4030eb25dd0
   - type: sleepyshiba
     description: |-
-      Archive of old BIS sets from patch 6.11.
-      https://pastebin.com/pDWaPnAh 
-    name: Patch 6.11 Archival
+      Archive of old BIS sets.
+      https://pastebin.com/cDMuDYhF
+    name: Archive of Old BIS
     link: https://pastebin.com/pDWaPnAh
   - type: gsheets
     description: Compilation of BIS sets for various Ultimate raids.
