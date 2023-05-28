@@ -96,17 +96,13 @@ Depending on the kill time and fight downtimes, Warriors aim for the following P
 
 If the fight lasts for well over nine minutes, we opt for a three potion fight. Note that the potion lasts for 30 seconds, and if the kill time is right on 09:05, the third potion was nearly useless.
 
- **Prepull Window:**
- 
-
+**Prepull Window:**
 * \-00:02 Potion
 * 00:00 Pull
 * 04:30 Potion
-* 09:00 Potion
+* 09:00 Potion 
 
- **Standard Window:**
- 
-
+**Standard Window:**
 * 00:00 Pull
 * 00:05 Potion
 * 04:35 Potion
@@ -119,14 +115,11 @@ With most of the party buffs being ready in six minute cycles, most parties aim 
 
  **Prepull into Six Min:** 
 
-
 * \-00:02 Potion
 * 00:00 Pull
 * 06:00 Potion
 
- **Standard into Six Min:**
- 
-
+  **Standard into Six Min:**
 * 00:00 Pull
 * 00:05 Potion
 * 06:00 Potion
@@ -215,8 +208,6 @@ Primal Rend? 100% Direct Crit.\
 Inner Release’d Fell Cleaves? 100% Direct Crit.  
 
 The effects of DH / Crit buffs are now more or less known:
-
-
 
 Bonus damage from DH buffs  \
 `1 + (Σdh%_from_status_effects) x 0.25`
