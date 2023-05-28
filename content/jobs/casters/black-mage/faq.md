@@ -1,8 +1,8 @@
 ---
 title: Black Mage FAQ
 layout: qna
-patch: "6.2"
-lastmod: 2022-04-12T09:49:30.734Z
+patch: "6.4"
+lastmod: 2023-05-28T20:24:31.889Z
 changelog:
   - date: 2021-10-26T01:53:18.078Z
     message: Added page
