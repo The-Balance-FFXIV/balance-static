@@ -154,6 +154,16 @@ This forces us to enter **No Mercy** with two cartridges if we use **No Mercy** 
 
 ![](/img/jobs/gnb/2cnm_lr.png)
 
+### **What can break the Gnashing Fang Combo**
+
+- - -
+
+One thing to keep in mind is that the Gnashing Fang is a combo **but** it has some flexibility. Certain weaponskills can be used inside this combo (and are done so for optimal damage in buffs) without breaking it. However! The combo can still be broken by using any of cartridge generating combo actions such as Solid Barrel or Demon Slaughter combos. Breaking a Gnashing Fang is never worth it and to do so is one of the most destructive things to a Gunbreaker’s DPS.\
+\
+Failure to utilise any of the Continuation buffs applied by the previously used weaponskill before the following weaponskill will result in losing the ability to execute said Continuation. Ensure that continuation is hit following every GCD that provides the buff.
+
+![What can break Gnashing Fang Combo](/img/jobs/gnb/gnb_combobreaker_v2.1.png "What can break Gnashing Fang Combo")
+
 ## **AOE Priority**
 
 - - -
@@ -216,7 +226,7 @@ Role action. Makes you immune to most knockback or draw-in effects for six secon
 
 **Heart of Light**
 
-Reduces magic damage taken by 10% for self and party members in a 15y radius around you for 15 seconds. 90 second cooldown. 
+Reduces magic damage taken by 10% for self and party members in a 30y radius around you for 15 seconds. 90 second cooldown. 
 
 ![Reprisal](/img/jobs/tanks/gunbreaker/Reprisal.png)
 
