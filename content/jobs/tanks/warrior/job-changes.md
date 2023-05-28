@@ -48,6 +48,13 @@ changes:
       Defiance: \\
 
       Recast time has been reduced from 3 to 2 seconds."
+  - patch: "6.4"
+    description: >-
+      DPS buffed by ~2.88%, Vengeance effects combined into one buff, Shake It
+      Off radius increased to 30 yalms.
+
+
+      Storm's Path, Storm's Eye, Fell Cleave, Inner Chaos and Upheaval buffed by 10~30 potency each.
 authors:
   - Balance-WAR-Staff
 ---
