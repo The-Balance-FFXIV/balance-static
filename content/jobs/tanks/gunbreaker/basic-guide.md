@@ -4,8 +4,8 @@ card_header_image: /img/jobs/gnb/basic.png
 authors:
   - azazael
   - Balance-GNB-Staff
-patch: "6.2"
-lastmod: 2022-09-20T21:07:30.454Z
+patch: "6.4"
+lastmod: 2023-05-28T13:28:36.724Z
 changelog:
   - date: 2022-04-05T18:01:38.826Z
     message: Updated for Endwalker
@@ -16,6 +16,9 @@ changelog:
       flow chart.
   - date: 2022-09-24T23:54:18.906Z
     message: Removed outdated content until guide is reworked and new info added.
+  - date: 2023-05-28T13:11:20.082Z
+    message: Added 6.4 infographics. Adjusted information relative to 6.4 changes.
+      Adjusted Ult BIS for DSR and TOP.
 ---
 # Gunbreaker Rotation Guide
 
@@ -182,7 +185,7 @@ Failure to utilise any of the Continuation buffs applied by the previously used 
 
 ![Camouflage](/img/jobs/tanks/gunbreaker/Aurora.png)
 
-**Aurora** is a targeted 18 second heal over time effect that heals your target for 200 potency every 3 seconds. It has two stacks, which makes it an effective regen effect to apply to any player that requires extra healing over a certain duration.
+**Aurora** is a targeted 18 second heal over time effect that heals yourself or your target for 200 potency every 3 seconds (1200 total). It has two stacks, which makes it an effective regen effect to apply to any player that requires extra healing over a certain duration. However, this effect does not stack so you cannot apply a double Aurora to someone, it'll merely refresh the duration.
 
 ![Camouflage](/img/jobs/tanks/gunbreaker/Camouflage.png)
 
@@ -216,7 +219,7 @@ Reduces HP to 1 and renders you impervious to most attacks for 10 seconds.
 **Arm’s Length**\
 **CD: 120s**
 
-Role action. Makes you immune to most knockback or draw-in effects for six seconds. Applies a 20% slow to enemies that attack you while Arm’s Length is active (This means enemies will attack you 20% slower, very useful for dungeons!).
+Role action. Makes you immune to most knockback or draw-in effects for six seconds. Applies a 20% slow to enemies that attack you while Arm’s Length is active (This means enemies will attack you 20% slower, very useful for dungeons).
 
 ## Utility Off Global Cool Down Abilities
 
@@ -224,27 +227,31 @@ Role action. Makes you immune to most knockback or draw-in effects for six secon
 
 ![HeartOfLight](/img/jobs/tanks/gunbreaker/Heart_of_Light.png)
 
-**Heart of Light**
+**Heart of Light**\
+**CD: 90s**
 
-Reduces magic damage taken by 10% for self and party members in a 30y radius around you for 15 seconds. 90 second cooldown. 
+Reduces magic damage taken by 10% for self and party members in a 30y radius around you for 15 seconds.
 
 ![Reprisal](/img/jobs/tanks/gunbreaker/Reprisal.png)
 
-**Reprisal**
+**Reprisal**\
+**CD: 60s**
 
-Role action. Reduces damage dealt by all enemies in a 5y circle around you by 10% for 10 seconds. 60 second cooldown.
+Role action. Reduces damage dealt by all enemies in a 5y radius around you by 10% for 10 seconds. 
 
 ![LowBlow](/img/jobs/tanks/gunbreaker/Low_Blow.png)
 
-**Low Blow**
+**Low Blow**\
+**CD: 25s**
 
-Role action. Stuns a target for five seconds. Enemies that get stunned repeatedly will develop stun immunity. 25s cooldown.
+Role action. Stuns a target for five seconds. Enemies that get stunned repeatedly will develop stun immunity.
 
 ![Interject](/img/jobs/tanks/gunbreaker/Interject.png)
 
-**Interject**
+**Interject**\
+**CD: 30s**
 
-Role action. Cancels a target's cast (if it is an interruptible cast). 30 second cooldown.
+Role action. Cancels a target's cast (if it is an interruptible cast). 
 
 ![RoyalGuard](/img/jobs/tanks/gunbreaker/Royal_Guard.png)
 
@@ -325,7 +332,9 @@ Due to Clarity of Corundum’s duration being so short, I recommend waiting a GC
 
 ## Ultimates
 
-Ultimates are timeless content due to their difficulty and rewards but are forced sync and cannot be done above their release level. This affects the gear you enter the encounter with, but is more lenient as all three past Ultimates' entry IL are far below our current standard. Food and Pots do not sync, but still have a soft cap so you don’t need the absolute top current food and pots for something like UCoB as its sync is relatively low. The relic from Shadowbringers is the best choice of weapon for previous Ultimates, But will require you to get it to at least the [Augmented Law’s Order](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/3111076df9e/) stage to assign substats. [Blade’s Resolve](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/b723d663158/) gives you more substat to work with but this realistically is of only benefit in TEA, as you’ll reach cap for the substats with Law’s Order in the other two Ultimates, as such unless you want to really optimize and push as much damage as you want for TEA, you can settle for Augmented Law’s Order. If you don’t want to grind the Blade’s Resistance Relic, you can use any weapon with optimal substats that exceed the encounter’s max IL. 
+Ultimates are timeless content due to their difficulty and rewards but are forced sync and cannot be done above their release level. This affects the gear you enter the encounter with, but is more lenient as all three past Ultimates' entry IL are far below our current standard. Food and Pots do not sync, but still have a soft cap so you don’t need the absolute top current food and pots for something like UCoB as its sync is relatively low. The relic from Shadowbringers is the best choice of weapon for previous Ultimates, But will require you to get it to at least the [Augmented Law’s Order](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/3111076df9e/) stage to assign substats. [Blade’s Resolve](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/b723d663158/) gives you more substat to work with but this realistically is of only benefit in TEA, as you’ll reach cap for the substats with Law’s Order in the other two Ultimates, as such unless you want to really optimize and push as much damage as you want for TEA, you can settle for Augmented Law’s Order. If you don’t want to grind the Blade’s Resistance Relic, you can use any weapon with optimal substats that exceed the encounter’s max IL. \
+\
+The reason why The Manderville Relic (Stage I or Stage II) is an ideal substitute over the Asphodelos Gunblade for Dragonsong's Reprise is the fact both substats are capped. Even with 2xMelds on the Asphodelos Weapon, the substat total is still less. You do not need to meld the Manderville Weapon in this case as the melds will be ingored.
 
 **The Unending Coil of Bahamut (UCoB):**\
 IL Cap: 470\
@@ -334,18 +343,24 @@ Relic Stat cap: 127
 
 **The Weapon’s Refrain (UWU):**\
 IL Cap: 500\
-BIS: UCoB/UWU Combination BIS\
+BIS: [UCoB/UWU Combination BIS](https://cdn.discordapp.com/attachments/541353216307232788/950220623873990656/unknown.png)\
 Relic Stat cap: 136
 
 **The Epic of Alexander (TEA):**\
 IL Cap: 595 \
-BIS: [2.40 GCD](https://cdn.discordapp.com/attachments/541353216307232788/945234729865728030/unknown.png)\
+BIS: [2.40](https://cdn.discordapp.com/attachments/541353216307232788/945234729865728030/unknown.png)\
 Relic Stat cap: 184
 
 **Dragonsong’s Reprise (DSW/DSR):**\
 IL Cap: N/A\
-BIS: [2.40](https://etro.gg/gearset/88fbea7d-3b43-479c-adb8-b87c9d6cb5f9) 
+BIS Options: [2.50](https://cdn.discordapp.com/attachments/541353216307232788/1062495701277343865/image.png), [2.40,](https://media.discordapp.net/attachments/889729119867265095/1063214948420952155/image.png) [2.40 (22 STR Race).](https://media.discordapp.net/attachments/889729119867265095/1063304909035946055/image.png)\
+Alt Weapon: Use Manderville Relic if you do not possess Ultimate Gunblade of the Heavens. [](https://etro.gg/gearset/88fbea7d-3b43-479c-adb8-b87c9d6cb5f9)
+
+**The Omega Protocol (TOP):**\
+IL Cap: N/A\
+BIS Options: [2.50](https://etro.gg/gearset/6eee20c5-a3a0-447a-8ed0-9f250c1a6daa), [2.42.](https://etro.gg/gearset/e102cb6b-528b-43bb-99ac-f66146a857a2)\
+Alt Weapon: Use Abyssos Gunblade if you do not possess Ultimate Omega Bayonet.
 
 ## Special Thanks
 
-This guide was only possible with the help and support of the key members of the GNB Community. Special thanks to Krom, Rin Karigani, Bec, and especially Torael Valdis who taught me to be the GNB I am today and all my victories are owed to him.
+This guide was only possible with the help of Krom Ulus for tireless theorycrafting as well as key members of the GNB Community and support of The Balance Staff.
