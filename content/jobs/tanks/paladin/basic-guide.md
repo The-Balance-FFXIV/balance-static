@@ -3,7 +3,7 @@ title: Paladin Basics Guide
 card_header_image: /img/jobs/pld/basic.png
 authors:
   - nikroulah
-patch: "6.3"
+patch: "6.4"
 lastmod: 2023-01-12T19:52:04.847Z
 changelog:
   - date: 2021-10-27T17:21:54.665Z
@@ -16,6 +16,8 @@ changelog:
     message: Updated for 6.2
   - date: 2023-01-12T19:47:24.201Z
     message: Updated for 6.3
+  - date: 2023-05-25T01:08:48.236Z
+    message: Text updated for 6.4
 tags:
   - Rotation
   - PaladinRotation
@@ -49,17 +51,19 @@ There are a few key concepts that are fundamental to the game and carry over bet
 * As a primarily melee job, it is important to know how to keep melee uptime on the boss. This includes knowing when mechanics snapshot and where you can greed for extra GCDs before and after disengaging for mechanics.
 * Keep off-Global Cooldowns (oGCDs) on cooldown. Damaging oGCDs should be used roughly as they come off cooldown, as long as using them does not delay your next GCD due to animation lock.
 
-## The Rotation (as of patch 6.3)
+## The Rotation (as of patch 6.4)
 
 ### Paladin Opener
 
 ![6.3 Paladin Standard Opener](https://xiv.sleepyshiba.com/pld/img/63-v2opener.png)
 
-The potion used is whatever the current tier's Strength potion is (as of patch 6.3, it is the Grade 7 Tincture of Strength).
+The potion used is whatever the current tier's Strength potion is (as of patch 6.4, it is the Grade 8 Tincture of Strength).
 
 After the opener, we cycle between a filler phase and a burst phase (explained below).
 
 ### Paladin Rotation
+
+(Image not up to date for patch 6.4)
 
 ![6.3 Paladin Rotation](https://xiv.sleepyshiba.com/pld/img/63-v2rotation.png)
 
@@ -72,7 +76,7 @@ The burst phase begins with the use of Fight or Flight, and should contain the f
 * Blade of Faith
 * Blade of Truth
 * Blade of Valor
-* 3 filler GCDs (if you have the Divine Might buff, prioritize Holy Spirit)
+* 3 "extra" GCDs (if you have the Divine Might buff, prioritize Holy Spirit)
 
 The exact GCD order is flexible. Since Goring Blade and the Confiteor combo actions do not break combo, it is recommended to use them first in the Fight or Flight window to avoid losing uses.
 
@@ -87,22 +91,13 @@ Each Fight or Flight should also include the following actions:
 
 During the filler phase, abide by the following rules:
 
-* Use Holy Spirit to consume Divine Might any time before the next Royal Authority (to avoid wasting Divine Might)
-
-  * Sometimes, it may be possible to hold a Holy Spirit into the Fight or Flight window without overwriting Divine Might
-* Spend Sword Oath stacks on Atonements as you get them
-* Begin a Royal Authority combo when out of Atonements
+* Avoid overwriting Divine Might and Sword Oath stacks by spending your empowered Holy Spirit and Atonements before you next press Royal Authority.
+* You can (and should) start a Royal Authority combo before spending your Divine Might and Sword Oath — This enables you to hold strong GCDs to be your three "extra" Fight or Flight GCDs. Ensure that before actually pressing Royal Authority, you spend any remaining procs.
 * Use Circle of Scorn and Expiacion on cooldown — you will naturally get one use for free between Fight or Flight windows
 * Try to hold both Intervenes for Fight or Flight
-* Use Fight or Flight on cooldown, this begins another burst phase
+* Use Fight or Flight and Requiescat on cooldown, beginning another burst phase
 
-  * You can (and should) begin a burst phase as soon as Fight or Flight comes up, even if you are mid combo. Goring Blade and Confiteor combo actions do not break your Royal Authority combo.
-
-#### Weaving Fight or Flight (fast GCD only)
-
-If playing at a weaponskill recast speed (GCD speed) faster than 2.50, weave Fight or Flight late in the GCD so that it can cover 9 GCDs. Depending on latency and execution, this might not be possible at slower speeds (2.45-2.49). See the [Frequently Asked Questions](/jobs/tanks/paladin/faq) page to understand why playing at 2.50 is recommended.
-
-![](https://cdn.discordapp.com/emojis/918961425890816040.webp?size=240&quality=lossless)
+  * Fight or Flight may come up at any point during your filler — that is okay, and you should use it immediately regardless of what point during your combo you are. Since Goring Blade and the Blade of Valor combo do not break combo, you can easily pick up your filler combo afterwards.
 
 ### Multiple Targets
 
@@ -216,12 +211,6 @@ FFXIV macros do not queue, so hitting a macro while in animation lock from anoth
 
 - - -
 
-## Further Reading
-
-For high-end optimization concepts, see the Advanced Guide (Coming Soon!).
-
-For fight-specific optimizations, see the Encounter Optimization Guide (Coming Soon!).
-
 ### Stats and Itemization
 
 Before obtaining best-in-slot gear, pick gear and meld according to stat priority on each piece of gear. Best-in-slot sets can be found [in the Balance Discord](https://discord.com/channels/277897135515762698/580300460179718146/847963997952016394) or [the Best in Slot page on this website](/jobs/tanks/paladin/best-in-slot/).
@@ -248,12 +237,6 @@ Because of stat tiering, the [Tank Gear Calculator](https://bit.ly/XIV-TANKDPSCA
 * Often naturally capped on BiS gear pieces.
 * Priority meld on all gear (unless that gear piece would overcap, i.e. the number turns red when melding).
 
-**Skill Speed**
-
-* Reduces weaponskill recast time.
-* Meld only to reach preferred GCD speed (**usually this is 2.50, or in other words, 0 additional skill speed**).
-* See [precise skill speed tiers](https://www.akhmorning.com/allagan-studies/stats/speed/), courtesy of the folks over at Allagan Studies.
-
 **Direct Hit**
 
 * Affects only direct hit chance.
@@ -268,5 +251,11 @@ Because of stat tiering, the [Tank Gear Calculator](https://bit.ly/XIV-TANKDPSCA
 
 * Increases damage dealt, healing done, and reduces damage taken.
 * Rarely melded due to weak scaling and minimal impact of mitigation.
+
+**Skill Speed**
+
+* Reduces weaponskill recast time.
+* Skill speed is inefficient on Paladin and should be avoided where possible, though usually not at the expense of item level
+* See [precise skill speed tiers](https://www.akhmorning.com/allagan-studies/stats/speed/), courtesy of the folks over at Allagan Studies.
 
 **Lowest Priority**
