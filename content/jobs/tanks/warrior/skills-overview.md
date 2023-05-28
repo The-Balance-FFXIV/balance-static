@@ -14,7 +14,7 @@ changelog:
   - date: 2023-01-10T16:40:07.879Z
     message: Patch 6.3 updates
   - date: 2023-05-28T14:21:51.774Z
-    message: Adjusted potency of various skills according to Patch 6.4 WAR changes.
+    message: Patch 6.4 WAR changes.
 tags:
   - warrior
 ---
