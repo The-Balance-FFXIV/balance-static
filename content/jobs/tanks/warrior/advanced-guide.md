@@ -4,8 +4,8 @@ card_header_image: /img/jobs/war/advanced.png
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
-patch: "6.30"
-lastmod: 2023-01-10T18:08:23.928Z
+patch: "6.4"
+lastmod: 2023-05-28T14:37:21.282Z
 changelog:
   - date: 2021-11-15T18:36:27.000Z
     message: Created page
@@ -22,21 +22,21 @@ changelog:
     message: Patch 6.2 changes
   - date: 2023-01-10T18:32:18.684Z
     message: Updated for 6.3
+  - date: 2023-05-28T14:37:23.677Z
+    message: Added the math formula for DH / Crit buffs
 ---
 ## The Optimization
 
 Warrior Optimization focuses on manipulating the Surging Tempest buff refreshes, and “Carrying buffs” such as Nascent Chaos and Primal Rend Ready. 
- 
+
 There’s the case of pushing out “3 IC Pot” windows and other rotational niches, but also disrespecting various mechanics by zeroing out the damage, or canceling a knockback with our Onslaught. Also, if you want a high percentile in FFLogs, you're at the mercy of a good kill time and Crit RNG. Bosses dying right after an entire Inner Release + resource burn window? That's a nice percentile.
 
-### Surging Tempest 
+### Surging Tempest
 
 Using Storm’s Eye or Mythril Tempest in a combo grants us 30 seconds of the Surging Tempest, buffing all of our damage by 10%. This buff can be stacked up to 60s, giving us some breathing room for various optimization reasons.
 
-
-
 While Warriors often aim to refresh the buff between seven and 15 seconds, there are moments when it’s desirable to refresh right after the buff hits 30 seconds. These moments include Fight Downtime, and manipulating our gauge in a very minor way. For example, using Storm’s Eye combo twice in a row grants us 40 gauge, but also risks overcapping the buff itself.  
- 
+
 In the situation that we would have 50 gauge, or use Infuriate, the total sum of gauge would be at 90.  
 
 This lets us push Fell Cleave / Inner Chaos further:
@@ -45,19 +45,17 @@ This lets us push Fell Cleave / Inner Chaos further:
 * Maim (100g)  
 * Fell Cleave / Inner Chaos (50g) 
 
-
 For comparison, using Storm’s Eye and Storm’s Path combo grants us 50 gauge. 
 This would change the situation above slightly, as we would hit 100 gauge earlier, forcing us to use Fell Cleave or Inner Chaos.
 
-
-Some fights also favor stacking up 30+ seconds of Surging Tempest right before any downtime occurs. This would let us skip getting the buff back up once the boss reappears, giving us the option of using Inner Release right off the bat.The gauge gained from Storm’s Path is quickly outvalued by being able to use Inner Release faster, making it possible to gain an extra use before the fight ends, or before yet another downtime.
-  
+Some fights also favor stacking up 30+ seconds of Surging Tempest right before any downtime occurs. This would let us skip getting the buff back up once the boss reappears, giving us the option of using Inner Release right off the bat.
+The gauge gained from Storm’s Path is quickly outvalued by being able to use Inner Release faster, making it possible to gain an extra use before the fight ends, or before yet another downtime.
 
 Or you know, having our burst right inside the party buffs, instead of being delayed by the GCDs you’d use to put up the Surging Tempest.
 
 ### Carrying Buffs
 
-_This works best with a very slow GCD, and the images shown here are taken from runs with a 2.50 GCD. Your mileage may vary._
+*This works best with a very slow GCD, and the images shown here are taken from runs with a 2.50 GCD. Your mileage may vary.*
 
 With Inner Release'd Fell Cleaves being less impactful than Primal Rend and Inner Chaos, it may sometimes be worth it to carry these big hitters into a later moment.
 
@@ -74,6 +72,7 @@ Regarding Inner Chaos and Infuriate, it is possible to hit the following rotatio
 * Even-minute buffs are coming up
 
 These milestones would let us empty our beast gauge, hit Infuriate, and carry it until party buffs.
+
 * Empty the gauge (0g), Infuriate hits close to 0s
 * Hit Infuriate (50g - 90g), Inner Chaos is unlocked
 * Gather more gauge with Storm’s Path, or refresh the Tempest buff
@@ -83,7 +82,7 @@ These milestones would let us empty our beast gauge, hit Infuriate, and carry it
 
 Congratulations, you just carried Inner Chaos for multiple GCDs.
 
-As for how this would look like in FFLogs, here's a handy image.  
+As for how this would look like in FFLogs, here's a handy image.\
 To replicate this view, go to [Character > Buffs > Drop-down menu: Nascent Chaos](https://www.fflogs.com/reports/Gya7HRZ69QpDdrxm#fight=1&type=auras&source=1&ability=1001897)
 ![Carried Inner Chaos](https://cdn.discordapp.com/attachments/937834268950925433/950005284972142642/unknown.png)
 
@@ -91,20 +90,23 @@ To replicate this view, go to [Character > Buffs > Drop-down menu: Nascent Chaos
 
 Warriors have a couple of tricks up their sleeve when it comes to potions. Three is more than two, but there are things to consider. For example, never use NQ potions as they have a lesser effect and a longer recast time, and in a normal scenario our Inner Release starts only after 00:10'ish.  
 
-
 Depending on the kill time and fight downtimes, Warriors aim for the following Potions:
 
 #### Three Potion Windows:
 
 If the fight lasts for well over nine minutes, we opt for a three potion fight. Note that the potion lasts for 30 seconds, and if the kill time is right on 09:05, the third potion was nearly useless.
 
-** Prepull Window: **
-* -00:02 Potion
+ **Prepull Window:**
+ 
+
+* \-00:02 Potion
 * 00:00 Pull
 * 04:30 Potion
 * 09:00 Potion
 
-** Standard Window: **
+ **Standard Window:**
+ 
+
 * 00:00 Pull
 * 00:05 Potion
 * 04:35 Potion
@@ -112,17 +114,19 @@ If the fight lasts for well over nine minutes, we opt for a three potion fight. 
 
 #### Two Potion Windows:
 
-What if the fight lasts for less than nine minutes plus some odd seconds? We go for two impactful potions.  
+What if the fight lasts for less than nine minutes plus some odd seconds? We go for two impactful potions.\
 With most of the party buffs being ready in six minute cycles, most parties aim to sync everything for that specific "6-min window". This means that we're deliberately delaying our second potion all the way until the six minute mark of the fight.
 
+ **Prepull into Six Min:** 
 
 
-** Prepull into Six Min: **
-* -00:02 Potion
+* \-00:02 Potion
 * 00:00 Pull
 * 06:00 Potion
 
-** Standard into Six Min: **
+ **Standard into Six Min:**
+ 
+
 * 00:00 Pull
 * 00:05 Potion
 * 06:00 Potion
@@ -141,8 +145,8 @@ This section requires more research.
 Since the beginning of FFXIV, the game has worked on simple boolean logic checks.
 
 * Player One took damage? 
-* Give them a debuff / deal a follow-up action.  
-  
+* Give them a debuff / deal a follow-up action.  
+
 Not all fights work like this, but a good handful of them do. This lets us disrespect some mechanics that would force us to disengage from the boss.
 
 The main check that the game uses is “Loss of Health”, or “Mechanic’s Damage Done was > 0”. This means that mitigating a hit by 100% often works wonders, and results in dodging debuffs and knockbacks.  
@@ -150,13 +154,10 @@ The main check that the game uses is “Loss of Health”, or “Mechanic’s Da
 Shame that Warriors don’t have Superbolide or Hallowed Ground. So what are our options then? Shields.
 
 Shake It Off and Bloodwhetting both offer shields to Warriors. If we were to mitigate a hit enough so that it only scratched our shields, we would “Zero Out” the entire mechanic, and most likely any debuffs that come from it. Endwalker’s first raid tier, Pandaemonium, comes with a fight that lets us do just that. There have been similar opportunities before, but we’ll use a more relevant example here.  
-  
 
 Toward the midway point of the fight, the entire party gets to handle a mechanic where everybody has to sit tight inside a tiny safe square, while also managing a Stack Hit, and two Knockback Hits. The two Knockback Hits are always on a Tank, and a DPS. The usual way to handle this is to have the entire party right next to the boss, while the DPS player hides in the corner of the arena, and the tank hides in another corner of the safe area.
 
-Not being in the safe area means getting hit by the Cataract mechanic, which gives a Damage Down debuff if the player takes damage from it.  _If the player takes damage from it…_
-
-
+Not being in the safe area means getting hit by the Cataract mechanic, which gives a Damage Down debuff if the player takes damage from it.  *If the player takes damage from it…*
 
 ### Zero Out the P2S Cataract
 
@@ -189,14 +190,12 @@ Moment of Hit
 
 Leftovers
 
-
 * (Shield - Damage) must be >0 to avoid the debuff:
-* = 21320 - 19051
-* = 2269
+* \= 21320 - 19051
+* \= 2269
 
-You just spent four CDs to disrespect a mechanic, gaining a GCD or two. On the other hand, you didn't risk wiping the raid for uptime. _Now take the following Tank Buster solo with Holmgang, because you have nothing else available._
-
-
+You just spent four CDs to disrespect a mechanic, gaining a GCD or two. On the other hand, you didn't risk wiping the raid for uptime.
+ *Now take the following Tank Buster solo with Holmgang, because you have nothing else available.*
 
 This is something that is actually used in weekly re-clears and speedruns, as it leaves more room for the rest of the party while also letting us stay in and hit the boss. 
 Just don’t get hit by two Cataracts.
@@ -211,14 +210,16 @@ There's not much to this tech; Use Onslaught whenever you're pushed back, while 
 
 Thanks to Patch 6.2, Warriors kind of like everything when it comes to party buffs and debuffs. Now Critical Hit rate% buffs and Direct Hit rate% buffs affect our biggest skills:
 
-Inner Chaos? 100% Direct Crit.  
-Primal Rend? 100% Direct Crit.  
+Inner Chaos? 100% Direct Crit.\
+Primal Rend? 100% Direct Crit.\
 Inner Release’d Fell Cleaves? 100% Direct Crit.  
 
-As of 2022-08-25, the exact effects are not yet known.
+The effects of DH / Crit buffs are now more or less known:
 
 
 
+Bonus damage from DH buffs  \
+`1 + (Σdh%_from_status_effects) x 0.25`
 
-
-
+Bonus damage from Crit buffs \
+`1 + (Σcrit_rate%_from_status_effects) x crit_dmg_bonus`
