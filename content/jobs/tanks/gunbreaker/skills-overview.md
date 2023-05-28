@@ -15,6 +15,8 @@ changelog:
     message: Updated icons.
   - date: 2023-05-25T04:30:40.251Z
     message: Updated potencies.
+  - date: 2023-05-28T13:01:14.571Z
+    message: Updated range value of Heart of Light.
 ---
 # Gunbreaker Skills Overview
 
@@ -69,7 +71,7 @@ changelog:
 
 |                                                                |                    |                                                                                                                                          |
 | -------------------------------------------------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| ![HeartOfLight](/img/jobs/tanks/gunbreaker/Heart_of_Light.png) | **Heart of Light** | Reduces magic damage taken by 10% for self and party members in a 15y radius around you for 15 seconds. 90 second cooldown.              |
+| ![HeartOfLight](/img/jobs/tanks/gunbreaker/Heart_of_Light.png) | **Heart of Light** | Reduces magic damage taken by 10% for self and party members in a  30y radius around you for 15 seconds. 90 second cooldown.             |
 | ![Reprisal](/img/jobs/tanks/gunbreaker/Reprisal.png)           | **Reprisal**       | Role action. Reduces damage dealt by all enemies in a 5y circle around you by 10% for 10 seconds. 60 second cooldown.                    |
 | ![LowBlow](/img/jobs/tanks/gunbreaker/Low_Blow.png)            | **Low Blow**       | Role action. Stuns a target for five seconds. Enemies that get stunned repeatedly will develop stun immunity. 25s cooldown.              |
 | ![Interject](/img/jobs/tanks/gunbreaker/Interject.png)         | **Interject**      | Role action. Cancels a target's cast (if it is an interruptible cast). 30 second cooldown.                                               |
