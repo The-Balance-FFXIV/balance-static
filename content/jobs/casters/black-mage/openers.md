@@ -2,8 +2,8 @@
 title: Black Mage Openers
 authors:
   - Balance-BLM-Staff
-patch: "6.2"
-lastmod: 2022-04-12T09:48:37.117Z
+patch: "6.4"
+lastmod: 2023-05-28T20:24:12.684Z
 changelog:
   - date: 2021-11-15T02:42:11.541Z
     message: Article Created.
