@@ -1,7 +1,7 @@
 ---
 title: Warrior FAQ
 layout: qna
-patch: "6.30"
+patch: "6.4"
 lastmod: 2023-01-10T18:05:34.978Z
 changelog:
   - date: 2021-10-27T07:27:07.049Z
@@ -10,6 +10,8 @@ changelog:
     message: Updated for Endwalker.
   - date: 2022-02-26T22:10:13.082Z
     message: Added some FAQs for quick notes
+  - date: 2023-05-28T14:41:32.512Z
+    message: Adjusted Consumables
 qna:
   - question: What is wrong with my log? How do I improve?
     answer: >-
@@ -48,9 +50,10 @@ qna:
     answer: |-
       These can be found in the BIS sets, but here's a quick summary.
 
-      As of patch 6.2:
-      Carrot Pudding HQ, or Sunset Carrot Nibbles HQ.
-      Grade 7 Tincture of Strength HQ.
+      As of patch 6.4:  
+      Baked Eggplant HQ (Det>Crit), or  
+      Baba Ghanoush HQ (Crit>SKS).  
+      Grade 8 Tincture of Strength HQ.
   - question: When do I refresh the Surging Tempest buff?
     answer: >-
       Generally speaking, refresh the buff between 7 and 15 seconds.  
