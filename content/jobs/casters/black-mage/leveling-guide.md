@@ -11,6 +11,8 @@ changelog:
     message: 6.0 Update
   - date: 2021-10-26T01:45:42.954Z
     message: Added page
+  - date: 2023-05-29T18:08:49.400Z
+    message: 6.4 Update, Mild Style Edits
 ---
 # Single Target Leveling Rotation
 
