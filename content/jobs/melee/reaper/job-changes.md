@@ -1,7 +1,7 @@
 ---
 title: Reaper Job Changes
 layout: changes
-lastmod: 2022-11-03T02:46:33.944Z
+lastmod: 2023-05-29T18:05:07.102Z
 changes:
   - patch: "6.0"
     description: Job added to game.
@@ -42,6 +42,9 @@ changes:
 
 
       This is about 2.3% increase and ultimately makes the job more competitive with other melee. All of this damage is in the burst window which also impacts how well a RPR performs in raid buffs.
+  - patch: "6.4"
+    description: The radius for our Raid buff, Arcane Circle, has been doubled from
+      15y to 30y.
 authors:
   - Laille-Ormesaing
   - Balance-RPR-Staff
