@@ -1,7 +1,7 @@
 ---
 title: Bard Changes
 layout: changes
-lastmod: 2022-11-03T02:47:02.826Z
+lastmod: 2023-05-25T03:49:56.213Z
 changes:
   - patch: "6.0"
     description: "[Click here to view new changes on the Official
@@ -26,6 +26,11 @@ changes:
     description: "- Nature's Minne is no longer a single-target skill. It affects
       all party members in a 20 yalm range, increasing healing received by 15%.
       It now has a 120s cooldown."
+  - patch: "6.4"
+    description: >-
+      * The range of song passive buffs extended to 50 yalms
+
+      * The range of Troubadour, Nature's Minne, Battle Voice, Radiant Finale, and Peloton increased to 30 yalms
 authors:
   - Balance-BRD-Staff
 ---
