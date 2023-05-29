@@ -1,8 +1,8 @@
 ---
 title: Ninja FAQ
 layout: qna
-patch: "6.2"
-lastmod: 2022-09-20T06:36:43.085Z
+patch: "6.4"
+lastmod: 2023-05-29T18:05:41.123Z
 changelog:
   - date: 2021-10-29T03:10:48.026Z
     message: Created page
@@ -10,6 +10,8 @@ changelog:
     message: Updated for Endwalker
   - date: 2022-09-20T06:37:48.963Z
     message: Updated for 6.2 (no changes)
+  - date: 2023-05-25T20:44:09.126Z
+    message: Updated for 6.4 (no changes)
 qna:
   - question: Why does our BiS not follow the stat priority?
     answer: Because of stat tiering and how it works together with our rotation, our
