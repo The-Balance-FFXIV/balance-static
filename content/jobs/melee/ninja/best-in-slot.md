@@ -1,8 +1,8 @@
 ---
 title: Ninja Best in Slot (BiS)
 layout: bis
-patch: "6.31"
-lastmod: 2023-02-24T22:03:22.563Z
+patch: "6.4"
+lastmod: 2023-05-29T18:02:14.335Z
 changelog:
   - date: 2021-10-29T03:14:26.634Z
     message: Created page
@@ -14,7 +14,13 @@ changelog:
     message: Updated for 6.2.
   - date: 2023-02-24T22:03:29.032Z
     message: Updated for 6.31.
+  - date: 2023-05-25T20:25:04.448Z
+    message: Updated for 6.4
 bis:
+  - type: etro
+    description: ""
+    link: https://etro.gg/gearset/6556da3a-4514-439e-b4f4-07e0ccc85e93
+    name: 6.4 Anabaseios Savage BiS
   - type: etro
     description: ""
     name: 2.10 GCD TOP BIS (With Clear)
@@ -68,6 +74,7 @@ bis:
     link: fb4a1090-3fa8-4980-b58b-0cf7926a3c10
 authors:
   - Balance-NIN-Staff
+  - akashi
 ---
 # Best-in-Slot (BiS)
 
