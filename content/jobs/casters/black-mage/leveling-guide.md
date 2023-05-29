@@ -19,17 +19,17 @@ Fire I (F1) spam > Transpose > Blizzard I (B1) until max MP > Transpose > repeat
 
 Refresh Thunder I (T1) as necessary.
 
-## Level 35-59
+## Levels 35-59
 Blizzard III (B3) > optional B1 for MP tick > Thunder III (T3)/T1 > Fire III (F3) > F1 spam until low MP > repeat
 
 Use your Fire III proc (F3P) as you get them, but don't cancel casts to use procs. Use T3Ps when DoTs run out. Use Blizzard IV (B4) instead of B1 when you get it.
 
-## Level 60-71
+## Levels 60-71
 B3 > B4 > T3 > F3 > Fire IV (F4) > F4 > F4 > F1 > F4 > F4 > F4 > repeat
 
 Use Foul whenever.
 
-## Level 72-89
+## Levels 72-89
 B3 > B4 > T3 > F3 > F4 > F4 > F4 > F1 > F4 > F4 > F4 > Despair > repeat
 
 Use Foul whenever. Use Xenoglossy (Xeno) instead of Foul when you get it at level 80. 
@@ -43,31 +43,31 @@ See [the main guide](/jobs/casters/black-mage/basic-guide/#single-target-rotatio
 
 # AoE Leveling Rotation
 
-## Level 12-19
+## Levels 12-19
 
 Spam Blizzard II (B2).
 
-## Level 20-39
+## Levels 20-39
 B2 > until full MP > F2 > F2 > F2 > F2 > repeat
 
 Keep up T2 DoT when you get it at 26
 
-## Level 40-49
+## Levels 40-49
 B2 > Freeze > T2 > F2 > F2 > F2 > F2 > repeat
 
 Use a second Freeze if you don't have to refresh T2.
 
-## Level 50-57
+## Levels 50-57
 B2 > Freeze > T2 > F2 > F2 > F2 > F2 > Flare > repeat
 
 Use a second Freeze if you don't have to refresh T2.
 
-## Level 58-81
+## Levels 58-81
 B2 > Freeze > F2 > F2 > F2 > Flare > Flare > repeat
 
 Use T2/Thunder IV (T4) or Foul as needed. Skip a F2 if things die quickly or you want to use Triplecast.
 
-## Level 82-90
+## Levels 82-90
 High Blizzard II (HB2) > Freeze > High Fire II (HB2) > HF2 > HF2 > Flare > Flare > repeat
 
 Use T4 or Foul as needed. Skip an HF2 if things die quickly or you want to use Triplecast.
