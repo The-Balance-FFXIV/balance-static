@@ -1,7 +1,7 @@
 ---
 title: Ninja Stat Priority
 patch: "6.4"
-lastmod: 2022-09-20T06:38:48.290Z
+lastmod: 2023-05-29T18:07:41.941Z
 changelog:
   - date: 2021-10-29T03:16:20.398Z
     message: Created page
