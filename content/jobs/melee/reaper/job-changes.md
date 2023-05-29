@@ -1,7 +1,7 @@
 ---
 title: Reaper Job Changes
 layout: changes
-lastmod: 2022-11-03T02:46:33.944Z
+lastmod: 2023-05-29T18:05:07.102Z
 changes:
   - patch: "6.0"
     description: Job added to game.
