@@ -1,8 +1,8 @@
 ---
 title: Dragoon Best in Slot (BiS)
 layout: bis
-patch: "6.3"
-lastmod: 2023-01-12T11:14:12.393Z
+patch: "6.4"
+lastmod: 2023-05-25T16:22:53.947Z
 changelog:
   - date: 2021-10-29T03:01:01.840Z
     message: Created page
@@ -10,15 +10,14 @@ changelog:
     message: Updated all sets to patch 6.2. Added DSR BiS.
   - date: 2023-01-12T11:14:13.412Z
     message: Added new DSR sets
+  - date: 2023-05-25T16:27:59.307Z
+    message: Sets updated for Patch 6.4, updated DSR sets and added TOP sets
 bis:
   - type: etro
-    description: >-
-      Recommended for everyone because of the simple and comfortable playstyle
-      with a 2.50 GCD.
-
-
-      This set is also identical to the Reaper 2.49/2.50 set.
-    link: de153cb0-05e7-4f23-a924-1fc28c7ae8db
+    description: Choosing this 2.50 set is highly recommended. It is much easier to
+      play, more comfortable and will thus likely yield better results in
+      practice. It is also identical to the Reaper BiS.
+    link: 8a907f52-75a4-4085-9deb-6a63ffa2abd8
     name: 2.50 GCD
   - type: etro
     description: "In case you prefer a slightly faster set. Can be preferable in
@@ -26,26 +25,41 @@ bis:
       optimally. Requires you to get nine GCD buff windows for equal performance
       to the 2.50 set. "
     name: 2.46 GCD
-    link: d723087d-3d5b-4c77-9b59-f925c15d294c
+    link: ba65b9ee-ec73-4b80-86c1-66a71849a5c8
   - type: etro
-    description: ""
-    name: Pentamelded Crafted
-    link: b7c2b384-174f-49e8-813b-7bd1d91c7448
+    description: Once again we recommend 2.50 for players who aren't comfortable
+      with 2.46. However the **crafted 2.46 set is significantly better than the
+      2.50 set**, even if you are not perfectly familiar with playing around the
+      skill speed it is likely you will achieve better results.
+    name: Pentamelded Crafted 2.46
+    link: 3fd240b1-6640-4992-92b7-7a13b0e2cdcc
+  - type: etro
+    description: Once again we recommend 2.50 for players who aren't comfortable
+      with 2.46. However the **crafted 2.46 set is significantly better than the
+      2.50 set**, even if you are not perfectly familiar with playing around the
+      skill speed it is likely you will achieve better results.
+    name: Pentamelded Crafted 2.50
+    link: 8064c028-c64a-482f-a74c-75e158f34d9b
   - type: etro
     description: Syncing gear is currently not a viable option for this fight due to
       the massive loss of substats from materia.
-    name: DSR Relic BiS
+    name: TOP Prog BiS
+    link: de153cb0-05e7-4f23-a924-1fc28c7ae8db
+  - type: etro
+    description: Syncing gear is currently not a viable option for this fight due to
+      the massive loss of substats from materia.
+    name: TOP Weapon BiS
+    link: 59d3afe5-e7ac-465b-a0f5-7440efe389e3
+  - type: etro
+    description: Syncing gear is currently not a viable option for this fight due to
+      the massive loss of substats from materia.
+    name: DSR Prog BiS
     link: bb9d14b8-fcb4-4f3b-b560-3ab79d1a550c
   - type: etro
     description: Syncing gear is currently not a viable option for this fight due to
       the massive loss of substats from materia.
     name: DSR Weapon BiS
     link: 5b4391a1-bfb5-4cf6-91f2-d9fa4f1d4767
-  - type: etro
-    description: Syncing gear is currently not a viable option for this fight due to
-      the massive loss of substats from materia.
-    name: DSR Raid Weapon BiS
-    link: 21c96f1f-1cdb-4d68-b268-ef5fbcacd6c9
   - type: etro
     description: Gear pieces with equal stats can be used instead of the listed i600
       pieces as long as they are above i595.
@@ -54,19 +68,19 @@ bis:
   - type: etro
     description: >-
       !!Example set!! You have many options for each gear slot. Synced gear has
-      to be at least i470. Please refer to etro or ariyala for other options.
-
-      Materia does not matter in synced gear.
-    name: UCoB BiS
-    link: 9d1e65ae-5adc-423b-9367-91ffccf5a37a
-  - type: etro
-    description: >-
-      !!Example set!! You have many options for each gear slot. Synced gear has
       to be at least i500. Please refer to etro or ariyala for other options.
 
       Materia does not matter in synced gear.
     name: UWU BiS
     link: da1ae77a-3ff7-4c5e-8451-133205b63c29
+  - type: etro
+    description: >-
+      !!Example set!! You have many options for each gear slot. Synced gear has
+      to be at least i470. Please refer to etro or ariyala for other options.
+
+      Materia does not matter in synced gear.
+    name: UCoB BiS
+    link: 9d1e65ae-5adc-423b-9367-91ffccf5a37a
 authors:
   - Balance-DRG-Staff
 tags:
