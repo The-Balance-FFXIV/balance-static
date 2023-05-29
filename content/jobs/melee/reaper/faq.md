@@ -14,8 +14,8 @@ changelog:
     message: "Updated to be consistent with our Discord RPR Resources page. "
 qna:
   - question: Which Potion/Food should RPR use?
-    answer: The highest available Strength potion. Currently, that is **Grade 7
-      Tincture of Strength**. Current food is **Carrot Pudding.** Always use
+    answer: The highest available Strength potion. Currently, that is **Grade 8
+      Tincture of Strength**. Current food is **Baked Eggplant.** Always use
       High Quality!
   - question: Why do we use Arcane Circle halfway through the GCD instead of in the
       second weave space?
@@ -99,7 +99,7 @@ qna:
       the moment you need to use Arcane Circle, it is forced to be delayed
       another ~1 second, which causes Arcane Circle to drift out of alignment
       with party buffs. This also means that since Arcane Circle will be later,
-      Plentiful Harvest to be ready later, which is highly likely to cause a
+      Plentiful Harvest will be ready later, which is highly likely to cause a
       clip as well as push the second Communio out of 15s raid buffs.
   - question: When should I use a Potion?
     answer: If a fight allows for it, Potions should be used at the 2:XX and 8:XX
