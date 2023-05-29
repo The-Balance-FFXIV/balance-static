@@ -1,8 +1,8 @@
 ---
 title: Black Mage Best in Slot (BiS)
 layout: bis
-patch: "6.2"
-lastmod: 2022-09-13T06:56:03.766Z
+patch: "6.4"
+lastmod: 2023-05-28T20:08:48.538Z
 changelog:
   - date: 2022-09-13T06:56:06.298Z
     message: Added 6.2 sets
@@ -10,32 +10,29 @@ changelog:
     message: Added 6.05 sets
   - date: 2021-10-26T01:58:33.491Z
     message: Created page
+  - date: 2023-05-28T20:08:52.122Z
+    message: Added 6.4 sets
 bis:
   - type: etro
     description: ""
-    name: 2287 SpS High SpS BiS
-    link: https://etro.gg/gearset/bd1b7a52-5893-4928-9d7c-d47aea22d8d2
+    name: 2521 SpS High SpS BiS
+    link: https://etro.gg/gearset/1d113f03-16e3-4a47-83a9-c3366a0fff84
   - type: etro
     description: ""
     name: 1292 SpS High Crit BiS
-    link: https://etro.gg/gearset/12deb5db-9f38-42e1-bdba-f8be8ddcb97d
+    link: https://etro.gg/gearset/29cc921f-570a-4069-926f-427fc95b3acb
   - type: etro
     description: Not recommended for beginners, primarily for advanced nonstandard gameplay
-    name: 840 SpS High Crit BiS
-    link: https://etro.gg/gearset/73f9f3af-2fa1-4871-85a3-a0f6adbb5e28
-  - type: etro
-    description: This is very close in dps to the crit BiS, but uses 1 less Tome
-      piece and saves 1 week of Tomes acquirement.
-    name: 1300 SpS High Crit Set
-    link: https://etro.gg/gearset/5fd2d450-27a0-420d-af93-a5dec9f87a55
+    name: 824 SpS High Crit BiS
+    link: https://etro.gg/gearset/46e5dde8-3d11-418f-948b-f6452fb0c7e3
   - type: etro
     description: ""
-    name: Pentameld w/ EX Weapon
-    link: https://etro.gg/gearset/b3369c60-4045-4274-a409-faee278b46b2
+    name: High Crit Prog Set with Tome Chest
+    link: https://etro.gg/gearset/9dadf972-1bfe-4346-b6cf-6f2c3b1d80c8
   - type: etro
     description: ""
-    name: Budget, Single Overmeld
-    link: https://etro.gg/gearset/cb0f23b4-f65f-4823-9888-bf775782b124
+    name: High SpS Prog Set with Tome Pants
+    link: https://etro.gg/gearset/7af8b25f-d2df-4065-bb54-2751c8fe6e70
   - type: etro
     description: ""
     name: DSR 2171 SpS Speed BiS
