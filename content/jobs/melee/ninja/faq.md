@@ -2,7 +2,7 @@
 title: Ninja FAQ
 layout: qna
 patch: "6.4"
-lastmod: 2022-09-20T06:36:43.085Z
+lastmod: 2023-05-29T18:05:41.123Z
 changelog:
   - date: 2021-10-29T03:10:48.026Z
     message: Created page
