@@ -1,7 +1,7 @@
 ---
 title: Dragoon Changes
 layout: changes
-lastmod: 2023-01-12T11:09:03.547Z
+lastmod: 2023-05-29T18:06:51.677Z
 changes:
   - patch: "6.05"
     description: |-
@@ -27,13 +27,9 @@ changes:
 
       | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
 
-      | Jump              | Action animation has been shortened. \
+      | Jump              | Action animation has been shortened. Action now changes to Mirage Dive while under the effect of Mirage Dive Ready. |
 
-      Action now changes to Mirage Dive while under the effect of Mirage Dive Ready. |
-
-      | High Jump         | Action animation has been shortened. \
-
-      Action now changes to Mirage Dive while under the effect of Mirage Dive Ready. |
+      | High Jump         | Action animation has been shortened. Action now changes to Mirage Dive while under the effect of Mirage Dive Ready. |
 
       | Elusive Jump      | Action animation has been shortened.                                                                                  |
 
@@ -53,7 +49,7 @@ changes:
 
 
       Following this change, Mirage Dive must now be set to the hotbar
-      separately. \\\ 
+      separately.
 
       \r
 
@@ -64,6 +60,17 @@ changes:
       | Action          |  Adjustment                                  |
       | --------------- |  ------------------------------------------- |
       | Life Surge      |  Recast time has been reduced from 45 to 40 seconds. |
+  - patch: "6.4"
+    description: >
+      | Action          |  Adjustment                                  |
+
+      | --------------- |  ------------------------------------------- |
+
+      | (High) Jump      |  Can now be executed while bound. To improve the functionality of this action, Jump will no longer affect the character's position as recognized by the server. The camera will no longer follow your character when executing Jump. |
+
+      | Battle Litany | Effect radius has been increased from 15 to 30 yalms. |
+
+      | Dragon Sight | Now nullifies action direction requirements for self. This is the same effect as True North, meaning all your positionals will automatically hit while the buff is up - regardless of your position. |
 authors:
   - Balance-DRG-Staff
 tags:
