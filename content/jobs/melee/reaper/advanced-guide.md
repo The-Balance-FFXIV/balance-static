@@ -62,7 +62,7 @@ I wanted to start this guide off with talking about the FFLogs metrics and how t
 
 ## Reaper Resource Management
 
-First, let's discuss how a Reaper generates its resources. You should have a good understanding of all the resources we are gathering between Soul, Reavers, Shroud, Lemure Orbs and Void Orbs, but let uss talk about how much we generate and in what timeframe. At a 2.5 GCD, the following is the ability breakdown and resource generation of a level 90 Reaper over 123 seconds:
+First, let's discuss how a Reaper generates its resources. You should have a good understanding of all the resources we are gathering between Soul, Reavers, Shroud, Lemure Orbs and Void Orbs, but let us talk about how much we generate and in what timeframe. At a 2.5 GCD, the following is the ability breakdown and resource generation of a level 90 Reaper over 123 seconds:
 
 * Four Shadow of Deaths
 * 20 Combo abilities (Slice, Waxing Slice, Infernal Slice). +200 Soul Gauge
