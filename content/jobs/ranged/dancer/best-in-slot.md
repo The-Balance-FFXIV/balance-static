@@ -1,26 +1,49 @@
 ---
 title: Dancer Best in Slot (BiS)
 layout: bis
-patch: "6.2"
-lastmod: 2022-09-20T13:09:25.666Z
+patch: "6.4"
+lastmod: 2023-05-25T16:47:32.307Z
 changelog:
   - date: 2021-10-26T02:11:25.028Z
     message: Created page
   - date: 2022-02-02T23:12:03.090Z
     message: Updated for Endwalker.
+  - date: 2023-05-25T16:47:13.205Z
+    message: Updated for patch 6.4
 bis:
   - type: etro
     description: ""
-    name: 6.2 iLvl 630 2.47 GCD BIS
-    link: fb5976d5-a94c-4052-9092-3c3990fefa76
+    name: 6.4 - ilvl 660 2.49 GCD BiS
+    link: 50746158-5be1-4972-82f4-84a577f4bcce
   - type: etro
     description: ""
-    name: 2.47 GCD DSR BIS
-    link: fd333e44-0f90-42a6-a070-044b332bb54e
+    name: 6.4 - ilvl 640 Baseline Gearset (pentamelded crafted + normal raid)
+    link: f053edc9-290e-4776-89e4-26e749aad4a9
   - type: etro
     description: ""
-    name: 2.49 GCD DSR BIS
-    link: eb9c642d-fbaf-4381-95ce-988f8b9ff621
+    name: 6.4 - ilvl 642 Niche Week 1 Gearset (pentamelded crafted + 870 Tomestones
+      of Comedy)
+    link: 6b2d0b38-2e57-462c-b6da-6bbeed9e5fa5
+  - type: etro
+    description: ""
+    name: 6.4 - TOP BiS 2.47 GCD (with TOP weapon)
+    link: 78aafc38-9409-4a05-8a8a-86b5b64a3296
+  - type: etro
+    description: ""
+    name: 6.4 - TOP BiS 2.47 GCD (with P8S weapon)
+    link: 3840581d-37a7-4dc9-8d02-cf293c069fbb
+  - type: etro
+    description: ""
+    name: 6.4 - DSR BiS 2.49 GCD (with DSR weapon)
+    link: 14c76b56-7ace-45c6-8b73-5d7f515a9994
+  - type: etro
+    description: ""
+    name: 6.4 - DSR BiS 2.49 GCD (with Manderville Relic Weapon i615 or i630)
+    link: c6f8d052-1a34-47e7-8d1f-9bdfeb2020fc
+  - type: etro
+    description: ""
+    name: 6.4 - DSR BiS 2.49 GCD (with P4S weapon)
+    link: fae08d67-fdaf-4494-9920-062524c4b583
 authors:
   - Balance-DNC-Staff
 tags:
