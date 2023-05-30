@@ -2,13 +2,15 @@
 title: Monk Skills Overview
 authors:
   - Perfect-Balance
-patch: "6.21"
-lastmod: 2022-02-15T12:19:39.503Z
+patch: "6.4"
+lastmod: 2023-05-30T00:32:09.885Z
 changelog:
   - date: 2021-10-28T03:50:38.305Z
     message: Created page
   - date: 2022-02-15T12:19:41.580Z
     message: Updated for Endwalker
+  - date: 2023-05-30T00:32:11.375Z
+    message: Updated to 6.4
 ---
 # Single Target GCDs
 
