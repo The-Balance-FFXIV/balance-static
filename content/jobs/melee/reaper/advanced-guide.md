@@ -355,12 +355,6 @@ Reaper generates three Shrouds every two minutes but only two can really be used
 
 An Astrologian can draw a fresh card every 30s and just like us they usually have an extra one that can be dropped outside of the main burst windows. Because our Enshroud window is flexible, you can plan out its usage to be paired with a potential Astrologian card. This card will usually happen at the 60 second window but its recommended you coordinate with your Astrologian and other raid members as you have a very flexible burst.
 
-### Ranged Utility
-
-Lastly you can use this Enshroud for some unique utility optimization. Because Communio has a range of 25y, you can plan Enshroud windows around disconnect windows. Because Enshroud GCDs have a 1.5s recast, you will have to use a Shadow of Death to more comfortably move out of range. A good example of this is in the first Endwalker Extreme trial. You can see Emiya Bolir perform this trick in this video: https://www.twitch.tv/videos/1231915656.
-
-Be warned that when doing it this way, you want to not over Shadow of Death and you also need to be able to perform all of your Reaping GCDs, otherwise this is a loss over just using Harpe for the disconnect.
-
 - - -
 
 ## The Filler Period
