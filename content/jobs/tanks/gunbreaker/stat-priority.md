@@ -7,6 +7,8 @@ changelog:
     message: Created page
   - date: 2022-02-03T00:14:02.820Z
     message: Bumped patch to 6.08, as no changes to priority.
+  - date: 2023-05-30T23:46:08.004Z
+    message: Patch 6.4
 priority: Item Level > Critical Hit > Direct Hit > Determination > Tenacity, SKS
   for GCD tier.
 authors:
