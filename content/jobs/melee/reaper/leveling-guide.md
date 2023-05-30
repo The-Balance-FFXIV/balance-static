@@ -4,12 +4,14 @@ card_header_image: /img/jobs/rpr/rpr-leveling.png
 authors:
   - Balance-RPR-Staff
 patch: "6.4"
-lastmod: 2023-01-12T22:43:54.811Z
+lastmod: 2023-05-30T23:39:05.194Z
 changelog:
   - date: 2022-09-13T13:43:48.819Z
     message: Updated patch number
   - date: 2023-01-12T22:16:41.910Z
     message: Updated patch number to 6.3
+  - date: 2023-05-30T23:39:38.441Z
+    message: Update for 6.4
 tags:
   - Reaper
   - guide
