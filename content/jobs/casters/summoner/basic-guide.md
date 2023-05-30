@@ -3,13 +3,15 @@ title: Summoner Basic Guide
 card_header_image: /img/jobs/smn/basic.png
 authors:
   - argen
-patch: "6.21"
-lastmod: 2022-04-02T03:25:18.702Z
+patch: "6.4"
+lastmod: 2023-05-30T23:34:01.504Z
 changelog:
   - date: 2021-11-15T21:19:02.069Z
     message: Added page
   - date: 2022-04-02T03:25:18.157Z
     message: Updated for Endwalker.
+  - date: 2023-05-30T23:34:02.348Z
+    message: Patch Update 6.4
 ---
 # Introduction
 
