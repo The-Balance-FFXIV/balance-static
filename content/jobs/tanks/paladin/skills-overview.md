@@ -2,8 +2,8 @@
 title: Paladin Skills Overview
 authors:
   - nikroulah
-patch: "6.3"
-lastmod: 2023-01-12T20:28:26.124Z
+patch: "6.4"
+lastmod: 2023-05-25T00:20:28.241Z
 changelog:
   - date: 2021-10-27T17:21:39.738Z
     message: Added
@@ -15,6 +15,8 @@ changelog:
     message: Updated for 6.21
   - date: 2023-01-12T20:28:26.854Z
     message: Updated for 6.3
+  - date: 2023-05-25T00:20:31.175Z
+    message: Updated for 6.4
 ---
 ## Buffs
 
@@ -55,11 +57,11 @@ Does not interrupt combos.
 
 **Royal Authority Combo**
 
-|**Fast Blade >** | **Riot Blade >** | **Royal Authority**|
-|-|-|-|
-|![](https://xivapi.com/i/000000/000158_hr1.png) | ![](https://xivapi.com/i/000000/000156_hr1.png) | ![](https://xivapi.com/i/002000/002507_hr1.png)|
+| **Fast Blade >**                                | **Riot Blade >**                                | **Royal Authority**                             |
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| ![](https://xivapi.com/i/000000/000158_hr1.png) | ![](https://xivapi.com/i/000000/000156_hr1.png) | ![](https://xivapi.com/i/002000/002507_hr1.png) |
 
-200 > 280 > 380 potency
+200 > 300 > 400 potency
 
 +3 Sword Oath, grants Divine Might
 
@@ -70,7 +72,7 @@ Does not interrupt combos.
 **Atonement**
 ![](https://xivapi.com/i/002000/002519_hr1.png)
 
-380 potency (physical)
+400 potency (physical)
 
 Costs one Sword Oath.
 
@@ -91,9 +93,9 @@ Costs 1000 MP.
 
 **Blade of Valor Combo**
 
-| **Confiteor >** | **Blade of Faith >** | **Blade of Truth >** | **Blade of Valor**|
-|-|-|-|-|
-|![](https://xivapi.com/i/002000/002518_hr1.png)|![](https://xivapi.com/i/002000/002952_hr1.png) | ![](https://xivapi.com/i/002000/002953_hr1.png) | ![](https://xivapi.com/i/002000/002954_hr1.png)|
+| **Confiteor >**                                 | **Blade of Faith >**                            | **Blade of Truth >**                            | **Blade of Valor**                              |
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| ![](https://xivapi.com/i/002000/002518_hr1.png) | ![](https://xivapi.com/i/002000/002952_hr1.png) | ![](https://xivapi.com/i/002000/002953_hr1.png) | ![](https://xivapi.com/i/002000/002954_hr1.png) |
 
 900 > 700 > 800 > 900 potency
 
@@ -119,7 +121,7 @@ AoE around target, 50% less damage on secondary targets.
 **Circle of Scorn**
 ![](https://xivapi.com/i/000000/000161_hr1.png)
 
-100 potency + 150 potency DoT over 15 seconds. | 30s cooldown.
+120 potency + 150 potency DoT over 15 seconds. | 30s cooldown.
 
 AoE centered on self.
 
@@ -157,6 +159,7 @@ Guaranteed block (20% damage reduction at level 90, on average about 15% damage 
 ![](https://xivapi.com/i/002000/002950_hr1.png)
 
 Costs 50 Oath Gauge (generated at a rate of 50 per ~23s) | 5s cooldown.
+
 * 15% damage reduction | 8s duration
 * 15% additional damage reduction | 4s duration
 * 1000 potency regen over 12s
@@ -235,9 +238,9 @@ Applies a 20% auto-attack and cast time slow for 15s to enemies that attack you 
 
 **Prominence Combo**
 
-|**Total Eclipse >** | **Prominence**|
-|-|-|
-|![](https://xivapi.com/i/002000/002511_hr1.png) | ![](https://xivapi.com/i/002000/002516_hr1.png)|
+| **Total Eclipse >**                             | **Prominence**                                  |
+| ----------------------------------------------- | ----------------------------------------------- |
+| ![](https://xivapi.com/i/002000/002511_hr1.png) | ![](https://xivapi.com/i/002000/002516_hr1.png) |
 
 100 > 170 potency (physical damage).
 
