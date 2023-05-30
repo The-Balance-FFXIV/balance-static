@@ -15,23 +15,30 @@ changelog:
 bis:
   - type: etro
     description: >-
-      * Suggested set to use in most content.
+      \
+
+      Suggested set to use in most content.
 
       * Special usage case for forced 2-cartridge No Mercy. Refer to !faq 2cartnm.
     name: "2.50"
     link: https://etro.gg/gearset/1dee5389-9906-4690-88b7-55419a342932
   - type: etro
     description: >-
-      * 9 GCD NM may be inconsistent or impossible for even moderate latency
-      (50-100ms) users.
+      \
 
-      * Slowest option that can reasonably/consistently attain 9 GCD NM.
+      9 GCD NM may be inconsistent or impossible for even moderate latency (50-100ms) users.
     name: "2.46"
     link: https://etro.gg/gearset/f5d14a05-593c-454d-8614-077974c0b98c
   - type: etro
-    description: "* Suggested if you don't want to play on 2.50."
+    description: Suggested if you don't want to play on 2.50.
     name: "2.44"
     link: https://etro.gg/gearset/b3847bc9-2fda-4b7b-a8a1-e1720b51a46e
+  - type: etro
+    description: |-
+      \
+      Comfort set that has better cooldown alignment than 2.44 with less drift.
+    name: "2.41"
+    link: https://etro.gg/gearset/b0552aae-c8e8-4beb-bd42-f77637a4b254
 authors:
   - Balance-GNB-Staff
 tags: []
