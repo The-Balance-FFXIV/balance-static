@@ -2,13 +2,15 @@
 title: Monk Skills Overview
 authors:
   - Perfect-Balance
-patch: "6.21"
-lastmod: 2022-02-15T12:19:39.503Z
+patch: "6.4"
+lastmod: 2023-05-30T00:32:09.885Z
 changelog:
   - date: 2021-10-28T03:50:38.305Z
     message: Created page
   - date: 2022-02-15T12:19:41.580Z
     message: Updated for Endwalker
+  - date: 2023-05-30T00:32:11.375Z
+    message: Updated to 6.4
 ---
 # Single Target GCDs
 
@@ -59,7 +61,7 @@ There are multiple ways to generate Chakra.
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![](https://xivapi.com/i/002000/002534_hr1.png) | Meditation is a GCD with a one-second cooldown that opens a single Chakra upon being pressed. When outside of combat, it generates five stacks of Chakra instantly.                                                                                                                                                                                                                                                                                          |
 | ![](https://xivapi.com/i/005000/005238_hr1.png) | Deep Meditation I & II are two job traits. Deep Meditation I grants an 80% chance of generating a Chakra upon landing a critical weaponskill. Deep Meditation II increases that 80% chance into a 100% chance.                                                                                                                                                                                                                                               |
-| ![](https://xivapi.com/i/002000/002542_hr1.png) | Brotherhood has multiple effects, but specifically as to Chakra generation, upon execution, all party members within 15 yalms will gain the effect of Meditative Brotherhood for 15 seconds.  While this buff is active on an ally, every time they execute a weaponskill or a spell, there is a 20% chance of gaining a stack of Chakra. While the buff is active on yourself, you have a 100% chance to gain a Chakra each time you execute a weaponskill. |
+| ![](https://xivapi.com/i/002000/002542_hr1.png) | Brotherhood has multiple effects, but specifically as to Chakra generation, upon execution, all party members within 30 yalms will gain the effect of Meditative Brotherhood for 15 seconds.  While this buff is active on an ally, every time they execute a weaponskill or a spell, there is a 20% chance of gaining a stack of Chakra. While the buff is active on yourself, you have a 100% chance to gain a Chakra each time you execute a weaponskill. |
 
 # Beast Chakra
 
@@ -81,5 +83,5 @@ In terms of other oGCDs, Monk has three core buffs:
 | Icon                                            | Name            | Cooldown        | Duration       | Effect                                                                                                                                                                  |
 | ----------------------------------------------- | --------------- | --------------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![](https://xivapi.com/i/002000/002541_hr1.png) | Riddle of Fire  | 60s             | 20s            | Increases damage dealt by 15%.                                                                                                                                          |
-| ![](https://xivapi.com/i/002000/002542_hr1.png) | Brotherhood     | 120s            | 15s            | Applies two effects to you and all party members within 15 yalms. The first is a 5% damage increase. The second is Meditative Brotherhood, which helps generate Chakra. |
+| ![](https://xivapi.com/i/002000/002542_hr1.png) | Brotherhood     | 120s            | 15s            | Applies two effects to you and all party members within 30 yalms. The first is a 5% damage increase. The second is Meditative Brotherhood, which helps generate Chakra. |
 | ![](https://xivapi.com/i/000000/000217_hr1.png) | Perfect Balance | 40s (2 charges) | 20s / 3 stacks | Enables the use of any GCD as if you have its form bonus.  Also grants Beast Chakra corresponding to GCDs used.                                                         |
