@@ -4,7 +4,7 @@ card_header_image: /img/jobs/nin/leveling.png
 authors:
   - akashi
 patch: "6.4"
-lastmod: 2022-09-20T06:31:18.692Z
+lastmod: 2023-05-30T23:47:57.084Z
 changelog:
   - date: 2021-10-29T03:07:56.596Z
     message: Added page
