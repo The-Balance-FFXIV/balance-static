@@ -3,7 +3,7 @@ title: Ninja Skills Overview
 authors:
   - zhotacton
 patch: "6.4"
-lastmod: 2022-09-20T06:33:49.543Z
+lastmod: 2023-05-30T23:44:33.722Z
 changelog:
   - date: 2021-10-28T04:09:39.139Z
     message: Article Created.
