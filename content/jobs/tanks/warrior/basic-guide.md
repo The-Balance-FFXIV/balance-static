@@ -4,8 +4,8 @@ card_header_image: /img/jobs/war/basic.png
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
-patch: "6.30"
-lastmod: 2023-01-10T17:59:22.907Z
+patch: "6.4"
+lastmod: 2023-05-28T14:24:35.981Z
 changelog:
   - date: 2022-02-26T14:53:27.569Z
     message: Uploaded the new GDoc guide for EW WAR
@@ -15,6 +15,8 @@ changelog:
     message: Patch 6.2 adjustments
   - date: 2023-01-10T18:31:20.691Z
     message: Updated for 6.3
+  - date: 2023-05-28T14:24:37.838Z
+    message: Updated the AoE vs ST damage table
 ---
 # Final Fantasy 14: Endwalker guide for Warrior
 
@@ -315,7 +317,7 @@ For Endwalker Warriors, the options are pretty clear cut. At level 90, the AoE r
 
 Here is a nice table comparing various skills and combos and their effective potency at different situations.
 
-![AoE effectiveness](https://cdn.discordapp.com/attachments/245514861063176193/1012388365439615046/unknown.png "AoE effectiveness")
+![AoE effectiveness](/img/jobs/war/image.png "AoE effectiveness")
 
 That is a bunch of numbers, and Warriors are known to be bad at reading, so let us summarize:
 
