@@ -189,7 +189,7 @@ Failure to utilise any of the Continuation buffs applied by the previously used 
 
 ![Camouflage](/img/jobs/tanks/gunbreaker/Camouflage.png)
 
-**Camouflage** reduces damage taken by 10% for 20 seconds. Provides an additive +50% **parry rate** (for a total of 60% parry rate) for 20 seconds. **Parry** applies 15% damage reduction to **physical attacks only**.
+**Camouflage** reduces damage taken by 10% for 20 seconds. Provides an additive +50% **parry rate** (for a total of 60% parry rate) for 20 seconds. **Parrying** applies a 15% damage reduction to **physical attacks only**.
 
 * The 10% damage reduction always applies to every damage instance.
 
