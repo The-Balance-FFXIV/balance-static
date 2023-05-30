@@ -3,13 +3,15 @@ title: Black Mage Advanced Guide
 card_header_image: /img/jobs/blm/advanced.png
 authors:
   - reina-kousaka-1
-patch: "6.2"
-lastmod: 2022-04-12T09:50:23.892Z
+patch: "6.4"
+lastmod: 2023-05-28T20:24:51.799Z
 changelog:
   - date: 2021-10-26T01:57:17.611Z
     message: Added page
   - date: 2022-02-18T04:51:23.726Z
     message: Updated for Endwalker
+  - date: 2023-05-30T00:31:35.488Z
+    message: Updated for 6.4
 ---
 *Written by Reina Kousaka of Leviathan* 
 
