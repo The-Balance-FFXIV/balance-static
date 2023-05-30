@@ -1,87 +1,42 @@
 ---
 title: Scholar Best in Slot (BiS)
 layout: bis
-patch: "6.3"
-lastmod: 2023-01-27T07:19:18.098Z
+patch: "6.4"
+lastmod: 2023-05-30T15:43:44.130Z
 changelog:
-  - date: 2022-04-13T03:59:58.924Z
-    message: Added Augmented 2.40 set
   - date: 2023-01-03T23:06:43.871Z
     message: Added Sets for the TOP
   - date: 2023-01-12T00:43:03.702Z
     message: Added new DSR sets
   - date: 2023-01-27T07:19:06.942Z
     message: Added a 2.40 set for TOP
+  - date: 2023-05-30T15:43:34.302Z
+    message: "Added 6.4 bis "
 bis:
   - type: etro
-    description: |2
-          * Safe to run in any environment.
-          * Perfect for those with no interest in optimizing or a fear of PF.
-          * Gives a good Chain alignment, but a poor Bio alignment
-          * 2.40 GCD
-    name: 2.40 Mid-Pie Set
-    link: 03f4b5a3-e9ab-434b-8cc2-b358546fcb60
+    description: This set is a good for those who want extra mp economy for
+      unoptimized enviorments such as Party finder. 2.40 has good Chain
+      alignment, but poor bio alignment
+    name: 2.40 mid-pi set
+    link: https://etro.gg/gearset/dd23abd5-ac82-4a51-8d66-323695bb3556
   - type: etro
-    description: >-
-      * This set has slightly lower average damage than the SpS BiS but higher
-      variance due to a higher amount of DH. This may be of value to you if
-      you're a parser or speedrunner looking exclusively for high roll runs.
-
-      * Gives good Chain alignment and poor Bio alignment
-
-      * 2.40 GCD
-    name: 2.40 Low-Pie Set
-    link: fdc331e0-aa1a-45d1-9640-a38e691ad063
+    description: "This set is a good all around choice for those who need to deal
+      with unoptimized environments such as Party Finder. 2.40 has good Chain
+      alignment, but poor Bio alignment. "
+    name: 2.40 lo-pi set
+    link: https://etro.gg/gearset/91cd8ea6-3ee9-4e3c-a38f-7341bd94fee1
   - type: etro
-    description: >
-      * This set has the highest average damage of the two BiS sets and is the
-      more consistent one. It has very dangerous MP economy due to the fast GCD
-      and min Piety.
-
-      * Gives good Chain and Bio alignment
-
-      * 2.31 GCD
-    link: 41c65b56-fa08-4c6a-b86b-627fd14d04ff
-    name: 2.31 Low-Pie Set
+    description: This set has slightly lower average damage than the SpS BiS but is
+      less ping sensitive and has better MP economy due to a slower GCD. 2.40
+      gives perfect Chain alignment, but poor Bio alignment.
+    name: 2.40 min-pi bis (DO NOT USE IN UNOPTIMZED ENVIRONMENTS)
+    link: https://etro.gg/gearset/d7b63d98-5c7f-4b3a-bc0c-f99eb049a8d4
   - type: etro
-    description: |-
-      * Safe to run
-      * The next set has extra pieces for more piety if needed
-      * Terrible alignment but in Ultimates, but that matters a little less.
-      * 2.47
-    name: 2.47 Mid Piety TOP set
-    link: https://etro.gg/gearset/593cc02b-895a-4501-8275-ab765b2eb903
-  - type: etro
-    description: >-
-      * This set makes it much smoother to slidecast during Pantokrator
-
-      * Still has a good amount of piety
-
-      * If you want to drop some piety you can swap earrings or gloves, but be very careful doing so as later phases could have harsher MP requirements.
-    name: 2.40 Mid Piety TOP set
-    link: https://etro.gg/gearset/a91cf8ba-5ea1-4050-82c0-b90862a77ac0
-  - type: etro
-    description: >-
-      **The piety requirements vary depending on your P7 strat for Akh Morns.
-      332 requires more GCD healing while 611 is laxer.**
-
-
-      * A very good amount of piety for prog and a slow GCD to help conserve mana.
-
-      * Suggested if you're currently progging the fight
-    name: 322 DSR set
-    link: ec325832-c1d5-4120-839c-60f9576e23cc
-  - type: etro
-    description: >-
-      **The piety requirements vary depending on your P7 strat for Akh Morns.
-      332 requires more GCD healing while 611 is laxer.**
-
-
-      * If you use this set with 332, or if you're unsure how to properly manage your mana, you will run out of mana. 
-
-      * Suggested if you want to optimize after clearing
-    link: a4876dd0-8535-403d-b2bd-293e3663c400
-    name: 611 DSR set
+    description: "This set has the highest average damage of the two BiS sets and is
+      the more consistent one. It has very dangerous MP economy due to the fast
+      GCD and min Piety. 2.31 gives it good Chain and Bio alignment. "
+    name: 2.31 min-pi bis (DO NOT USE IN UNOPTIMZED ENVIRONMENTS)
+    link: https://etro.gg/gearset/4c241674-2c6e-42aa-a390-5e5ac29b9ab5
 authors:
   - Balance-SCH-Staff
 tags:
