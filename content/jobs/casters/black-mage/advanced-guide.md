@@ -10,6 +10,8 @@ changelog:
     message: Added page
   - date: 2022-02-18T04:51:23.726Z
     message: Updated for Endwalker
+  - date: 2023-05-30T00:31:35.488Z
+    message: Updated for 6.4
 ---
 *Written by Reina Kousaka of Leviathan* 
 
