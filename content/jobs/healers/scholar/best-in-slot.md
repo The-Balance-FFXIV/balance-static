@@ -2,7 +2,7 @@
 title: Scholar Best in Slot (BiS)
 layout: bis
 patch: "6.4"
-lastmod: 2023-05-30T15:43:44.130Z
+lastmod: 2023-05-30T15:48:12.257Z
 changelog:
   - date: 2023-01-03T23:06:43.871Z
     message: Added Sets for the TOP
