@@ -3,13 +3,15 @@ title: Dragoon Leveling Guide
 card_header_image: /img/jobs/drg/leveling.png
 authors:
   - Balance-DRG-Staff
-patch: "6.2"
-lastmod: 2022-09-20T12:18:48.441Z
+patch: "6.4"
+lastmod: 2023-05-29T13:33:46.278Z
 changelog:
   - date: 2021-10-29T02:48:36.195Z
     message: Created page
   - date: 2022-01-24T06:14:50.042Z
     message: Endwalker update
+  - date: 2023-05-29T13:33:57.559Z
+    message: Updated patch - no changes
 ---
 # Dragoon Leveling Guide
 
