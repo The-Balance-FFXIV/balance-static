@@ -1,8 +1,8 @@
 ---
 title: Black Mage FAQ
 layout: qna
-patch: "6.2"
-lastmod: 2022-04-12T09:49:30.734Z
+patch: "6.4"
+lastmod: 2023-05-28T20:24:31.889Z
 changelog:
   - date: 2021-10-26T01:53:18.078Z
     message: Added page
@@ -10,6 +10,8 @@ changelog:
     message: Initial 6.0 update
   - date: 2022-01-29T17:22:31.658Z
     message: 6.08 Update
+  - date: 2023-05-30T23:49:00.154Z
+    message: 6.4 Patch Update
 qna:
   - question: What is the secondary stat/meld priority?
     answer: SpS to comfort first and foremost. Probably around 1.3k SpS is where
