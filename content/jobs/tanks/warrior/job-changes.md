@@ -1,7 +1,7 @@
 ---
 title: Warrior Changes
 layout: changes
-lastmod: 2023-01-10T18:01:27.786Z
+lastmod: 2023-05-30T23:49:32.525Z
 changes:
   - patch: "5.58"
     description: "[Placeholder for Endwalker]"
@@ -48,6 +48,13 @@ changes:
       Defiance: \\
 
       Recast time has been reduced from 3 to 2 seconds."
+  - patch: "6.4"
+    description: >-
+      DPS buffed by ~2.88%, Vengeance effects combined into one buff, Shake It
+      Off radius increased to 30 yalms.
+
+
+      Storm's Path, Storm's Eye, Fell Cleave, Inner Chaos and Upheaval buffed by 10~30 potency each.
 authors:
   - Balance-WAR-Staff
 ---
