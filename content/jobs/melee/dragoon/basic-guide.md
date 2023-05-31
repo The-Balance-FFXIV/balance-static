@@ -3,8 +3,8 @@ title: Dragoon Basic Guide
 card_header_image: /img/jobs/drg/basic.png
 authors:
   - Balance-DRG-Staff
-patch: "6.2"
-lastmod: 2022-09-21T18:15:31.171Z
+patch: "6.4"
+lastmod: 2023-05-29T13:35:33.573Z
 changelog:
   - date: 2021-10-29T02:49:11.086Z
     message: Created page
@@ -18,6 +18,8 @@ changelog:
       macros, rotation table, column size, spaces), fixed link to BiS page
   - date: 2022-09-21T18:15:35.821Z
     message: Editorial changes and updates.
+  - date: 2023-05-29T13:35:37.429Z
+    message: Updated patch - no changes
 ---
 # Saving The Dragoon
 
