@@ -1,7 +1,7 @@
 ---
 title: Black Mage Changes
 layout: changes
-lastmod: 2022-04-12T00:22:18.005Z
+lastmod: 2023-05-28T19:51:02.856Z
 changes:
   - patch: "6.0"
     description: "[Click here to view all Endwalker changes on the Official
@@ -20,6 +20,16 @@ changes:
       [here](https://na.finalfantasyxiv.com/jobguide/blackmage/)!
   - description: No changes since 6.08.
     patch: "6.2"
+  - patch: "6.4"
+    description: >-
+      | Action                |   |
+      Adjustment                                  |
+
+      |-----------------------|---|---------------------------------------------|
+
+      | Xenoglossy            |   | Potency has been increased from 800 to 880. |
+
+      | Enhanced Enochian III |   | Magic damage increase has been changed from 21% to 23%. |
 authors:
   - Balance-BLM-Staff
 ---
