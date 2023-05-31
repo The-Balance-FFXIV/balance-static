@@ -3,7 +3,7 @@ title: Reaper Advanced Guide
 card_header_image: /img/jobs/rpr/screenshot_5-edit.jpg
 authors:
   - ellunavi
-patch: "6.3"
+patch: "6.4"
 lastmod: 2023-01-12T22:45:15.452Z
 changelog:
   - date: 2021-11-27T12:55:28.038Z
@@ -31,6 +31,8 @@ changelog:
   - date: 2022-09-15T19:27:57.206Z
     message: Modified the wording under Damage Delay Section
   - date: 2023-01-12T22:28:35.240Z
+    message: Updated patch number
+  - date: 2023-05-27T15:49:45.752Z
     message: Updated patch number
 tags:
   - Reaper
@@ -60,7 +62,7 @@ I wanted to start this guide off with talking about the FFLogs metrics and how t
 
 ## Reaper Resource Management
 
-First, let's discuss how a Reaper generates its resources. You should have a good understanding of all the resources we are gathering between Soul, Reavers, Shroud, Lemure Orbs and Void Orbs, but let uss talk about how much we generate and in what timeframe. At a 2.5 GCD, the following is the ability breakdown and resource generation of a level 90 Reaper over 123 seconds:
+First, let's discuss how a Reaper generates its resources. You should have a good understanding of all the resources we are gathering between Soul, Reavers, Shroud, Lemure Orbs and Void Orbs, but let us talk about how much we generate and in what timeframe. At a 2.5 GCD, the following is the ability breakdown and resource generation of a level 90 Reaper over 123 seconds:
 
 * Four Shadow of Deaths
 * 20 Combo abilities (Slice, Waxing Slice, Infernal Slice). +200 Soul Gauge
@@ -352,12 +354,6 @@ Reaper generates three Shrouds every two minutes but only two can really be used
 ### Astrologian Cards
 
 An Astrologian can draw a fresh card every 30s and just like us they usually have an extra one that can be dropped outside of the main burst windows. Because our Enshroud window is flexible, you can plan out its usage to be paired with a potential Astrologian card. This card will usually happen at the 60 second window but its recommended you coordinate with your Astrologian and other raid members as you have a very flexible burst.
-
-### Ranged Utility
-
-Lastly you can use this Enshroud for some unique utility optimization. Because Communio has a range of 25y, you can plan Enshroud windows around disconnect windows. Because Enshroud GCDs have a 1.5s recast, you will have to use a Shadow of Death to more comfortably move out of range. A good example of this is in the first Endwalker Extreme trial. You can see Emiya Bolir perform this trick in this video: https://www.twitch.tv/videos/1231915656.
-
-Be warned that when doing it this way, you want to not over Shadow of Death and you also need to be able to perform all of your Reaping GCDs, otherwise this is a loss over just using Harpe for the disconnect.
 
 - - -
 
