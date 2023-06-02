@@ -8,11 +8,11 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
@@ -24,16 +24,16 @@ jobs:
           extended: true
 
       - name: Setup node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v2
         with:
-          node-version: '14.13'
+          node-version: '14.17'
 
       - name: Install dependencies
         run: |
           yarn
           yarn global add postcss-cli@8.3.1 autoprefixer postcss tailwindcss
 
-      - uses: actions/cache@v2
+      - uses: actions/cache@v3
         with:
           path: /tmp/hugo_cache
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
