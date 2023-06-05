@@ -60,7 +60,7 @@ qna:
 
 
 
-      To view image full size, [click here] (/img/jobs/ast/astrodyne_timeline.png).
+      To view image full size, [click here](/img/jobs/ast/astrodyne_timeline.png).
   - question: "Cards? Gauges? "
     answer: >-
       ![](/img/jobs/ast/carding_fundamentals_ew.png "Card Fundamentals")
