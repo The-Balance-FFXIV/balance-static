@@ -47,7 +47,7 @@ The **powder gauge** is used to hold cartridges that may be used on any weaponsk
 
 * We want as much potency in this buff as possible.
 * We want as many GCDs in this buff as possible.
-* **[How To Fit 9 GCDs In No Mercy](https://youtu.be/rdNHJv7aLAg) (<2.48 GCD)** 
+* **[How To Fit 9 GCDs In No Mercy](https://youtu.be/rdNHJv7aLAg) (≤ 2.47 GCD)** 
 
 ### Generation
 
@@ -97,7 +97,7 @@ Prioritize using cartridges on major cooldowns or to stop the gauge from overcap
 
 - - -
 
-## the Priority System
+## The Priority System
 
 - - -
 
@@ -108,7 +108,7 @@ Splitting the rotation into two main phases helps understand the fundamentals be
 
 The burst phase begins when **No Mercy** is activated, and the filler phase begins when  **No Mercy** ends.
 
-![GNB Simple Infographic](/img/jobs/gnb/priorotation.png "GNB Rotation")
+![GNB Simple Infographic](/img/jobs/gnb/gnb-fundamental-recovered.png "GNB Rotation")
 
 ### Filler Phase
 
@@ -157,13 +157,16 @@ This forces us to enter **No Mercy** with two cartridges if we use **No Mercy** 
 
 ![](/img/jobs/gnb/2cnm_lr.png)
 
-### **What can break the Gnashing Fang Combo**
+### **Gnashing Fang Combo**
 
 - - -
 
-One thing to keep in mind is that the Gnashing Fang is a combo **but** it has some flexibility. Certain weaponskills can be used inside this combo (and are done so for optimal damage in buffs) without breaking it. However! The combo can still be broken by using any of cartridge generating combo actions such as Solid Barrel or Demon Slaughter combos. Breaking a Gnashing Fang is never worth it and to do so is one of the most destructive things to a Gunbreaker’s DPS.\
-\
-Failure to utilise any of the Continuation buffs applied by the previously used weaponskill before the following weaponskill will result in losing the ability to execute said Continuation. Ensure that continuation is hit following every GCD that provides the buff.
+The **Gnashing Fang** combo is the most valuable action Gunbreaker has, so making complete use of it is important.
+
+* This means that this combo should never be broken or cut off and lost by downtime if possible.
+* You can only break the **Gnashing Fang** combo by continuing a different combo.
+* Every combo action in the **Gnashing Fang** combo will refresh the combo timer to 30 seconds.
+* Every usage of **Continuation** must be used on the same GCD that it was granted, or it will be lost forever.
 
 ![What can break Gnashing Fang Combo](/img/jobs/gnb/gnb_combobreaker_v2.1.png "What can break Gnashing Fang Combo")
 
