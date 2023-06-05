@@ -17,11 +17,11 @@ changelog:
 ---
 # Opener
 
-Your opener is flexible and No Mercy can be used earlier than what is listed in either of these openers if necessary to allow for additional uses to be used before phases or mechanics.
+Your opener is flexible and **No Mercy** can be used earlier than what is listed in either of these openers if necessary to allow for additional uses to be used before phases or mechanics.
 
-The Lightning Shot is not required in these, but is **heavily suggested** for engagement timing. Facepulling is not consistent unless you can pull from within melee range without beginning the encounter.
+The **Lightning Shot** is not required in these, but is **heavily suggested** for engagement timing. Facepulling is not consistent unless you can pull from within melee range without beginning the encounter.
 
-### Standard Opener (<2.47 GCD)
+### Standard Opener (**≤** 2.47 GCD)
 
 ![1-2-3 NM / Standard Opener](/img/jobs/gnb/9gcdopener.png "Standard Opener")
 
