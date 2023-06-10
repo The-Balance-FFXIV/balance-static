@@ -98,7 +98,7 @@ Basic rotation is:
 * Gather Gauge with Storm’s Path.
 * Don’t overcap your Gauge, use IB/FC only to avoid that from happening.
 
-The following Berserks will rotate between three and four IB/FC within them due to the Infuriate cooldown.
+The following Berserks will rotate between two and three IB/FC within them due to the Infuriate cooldown.
 
 - - -
 
