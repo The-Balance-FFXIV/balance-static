@@ -1,7 +1,7 @@
 ---
 title: Paladin Changes
 layout: changes
-lastmod: 2023-01-12T21:02:18.023Z
+lastmod: 2023-05-25T01:20:47.146Z
 changes:
   - patch: "6.0"
     description: "[Click here to view the full list of changes on the Official
@@ -24,6 +24,10 @@ changes:
       Authority gives an empowered Holy Spirit, Requiescat now used exclusively
       on Confiteor combo, and Goring changed to a strong GCD with a one minute
       cooldown
+  - patch: "6.4"
+    description: Royal Authority, Atonement, Riot Blade, and Circle of Scorn buffed.
+      Atonement no longer breaks combo so we can hold them for Fight or Flight
+      (don't overwrite stacks!)
 authors:
   - Balance-PLD-Staff
   - nikroulah
