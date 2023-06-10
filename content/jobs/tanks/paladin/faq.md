@@ -1,8 +1,8 @@
 ---
 title: Paladin FAQ
 layout: qna
-patch: "6.3"
-lastmod: 2023-01-12T19:52:42.509Z
+patch: "6.4"
+lastmod: 2023-05-25T01:14:02.346Z
 changelog:
   - date: 2021-10-27T17:20:21.199Z
     message: Added
@@ -12,12 +12,9 @@ changelog:
     message: Updated for 6.2
   - date: 2023-01-12T19:52:46.452Z
     message: Updated for 6.3
+  - date: 2023-05-25T01:14:04.904Z
+    message: Updated for 6.4
 qna:
-  - question: Which rotation should I use?
-    answer: The damage between each is almost exactly the same. The standard
-      rotation (infographic embedded above) is recommended over the looping
-      rotations due to ease of learning, but you can pick whichever one you
-      prefer.
   - question: Why no Holy Spirit during Requiescat?
     answer: Holy Spirit consumes Requiescat stacks, as do the Confiteor combo
       actions. The Confiteor combo actions are barely worth using with no
@@ -30,46 +27,12 @@ qna:
   - question: What GCD speed should I use?
     answer: 2.50 is ideal (see the [Best-in-Slot](/jobs/tanks/paladin/best-in-slot)
       page)
-  - question: How do I play with a faster GCD speed?
-    answer: "Weave **Fight or Flight** late in the GCD like so:
-      ![:lateweave~1:](https://cdn.discordapp.com/emojis/918961425890816040.web\
-      p?size=96&quality=lossless)"
-  - question: Why don't we want 9 GCDs in Fight or Flight? It's free potency.
-    answer: >-
-      You need to give up damaging substats to get a faster GCD, so it's not
-      free. Plus, a significant portion of Paladin's rotation is made up of
-      spells, which aren't affected by Skill Speed.
-
-
-      At slow speeds like 2.48, it's possible to get 9 GCDs in FoF by clipping your GCD every minute, but the performance is identical to 2.50 and is infeasible unless you have <10ms ping.
-
-
-      At faster speeds like 2.40-2.45, you need to add an extra GCD every minute, which causes oGCDs and buff windows to drift significantly.
-
-
-      At even faster speeds (<2.40), you're giving up so many damaging substats to get an additional filler GCD and reduce drift by a tiny amount, it is never worth it.
-  - question: I have very high latency (100+ ms), what speed should I play?
-    answer: Getting 9 GCDs in Fight or Flight is highly execution and latency
-      dependent, on top of being worse than 2.50 in almost all cases. Use 2.50
-      and avoid double weaving.
-  - question: Spell Speed?
-    answer: Spell Speed affects even less of the rotation than Skill Speed does
-  - question: How does Paladin stack up in 6.3?
-    answer: On an infinite simulation (aka worst case killtime, not suitable for any
-      meaningful comparisons) it's ~3% worse. The stronger burst has made it so
-      that it's likely the same or better than 6.2 Paladin in real encounters.
-      We expect it to be similar to WAR/GNB but only time can tell.
-  - question: Should I use Requiescat before or after Fight or Flight?
-    answer: Requiescat does a decent chunk of damage and FoF buffs all damage. Use
-      Requiescat inside of Fight or Flight
-  - question: How do I recover the rotation if I lose uptime or make a mistake?
-    answer: >-
-      6.3 Paladin is easier to recover than ever.
-
-
-      * With the standard rotation, as long as your **Fight or Flight**, **Goring Blade**, and **Requiescat** cooldowns remain together, you can continue with the rotation as if nothing happened.
-
-      * With looping rotations, you can either add filler **Holy Spirits**, drop **Atonements**, or give up on the loop and switch to the priority based rotation. The exact number of fillers you need to add or remove is situation-dependent and requires both experience and a thorough understanding of the rotation.
+  - question: How do the 6.4 changes affect the rotation?
+    answer: You can now also hold Atonements for Fight or Flight like we could do
+      with Holy Spirit before, making Fight or Flight windows that previously
+      have Fast Blade or Riot Blade stronger. Simply begin a new Royal Authority
+      combo before spending any Atonements/Holy Spirit, but make sure to spend
+      them before finishing the combo.
 authors:
   - nikroulah
 ---
