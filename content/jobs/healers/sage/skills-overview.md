@@ -3,8 +3,8 @@ title: Sage Skills
 authors:
   - Balance-SGE-Staff
   - wynn
-patch: "6.28"
-lastmod: 2022-11-03T01:57:33.259Z
+patch: "6.4"
+lastmod: 2023-05-30T23:38:01.900Z
 changelog:
   - date: 2022-01-24T08:39:05.371Z
     message: Added page
@@ -18,6 +18,8 @@ changelog:
     message: Updated for 6.2
   - date: 2022-11-03T01:57:39.258Z
     message: Updated for 6.28
+  - date: 2023-05-30T23:38:06.800Z
+    message: Update for 6.4
 ---
 # Before you Start: Eukrasia
 
@@ -46,7 +48,7 @@ This is your main filler offensive GCD. When you have nothing higher priority to
 
 ![Eukrasian Dosis III](https://xivapi.com/i/003000/003682_hr1.png)
 
-Eukrasian Dosis is your damage over time skill. Like the other healers, it lasts 30 seconds. DoT (and HoT) effects in FFXIV operate on "server ticks," once every three seconds. On each of these ticks, DoTs and HoTs will apply their listed potency. Thus, the total potency of Eukrasian Dosis is 700 (10 ticks of 70 potency). Typically, it should be re-applied as closely as possibly to when it would expire. To keep 100% uptime, you need to factor in the one second needed to cast Eukrasia, but the debuff application itself is instant.
+Eukrasian Dosis is your damage over time skill. Like the other healers, it lasts 30 seconds. DoT (and HoT) effects in FFXIV operate on "server ticks," once every three seconds. On each of these ticks, DoTs and HoTs will apply their listed potency. Thus, the total potency of Eukrasian Dosis is 750 (10 ticks of 75 potency). Typically, it should be re-applied as closely as possibly to when it would expire. To keep 100% uptime, you need to factor in the one second needed to cast Eukrasia, but the debuff application itself is instant.
 
 ## Dyskrasia
 
