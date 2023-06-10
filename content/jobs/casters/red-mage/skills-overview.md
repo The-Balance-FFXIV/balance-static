@@ -2,13 +2,15 @@
 title: Red Mage Skills Overview
 authors:
   - Balance-RDM-Staff
-patch: "6.2"
-lastmod: 2021-12-26T20:21:21.704Z
+patch: "6.4"
+lastmod: 2023-06-10T03:35:09.816Z
 changelog:
   - date: 2021-10-26T01:26:01.468Z
     message: Created page
   - date: 2021-12-26T20:21:22.409Z
     message: Updated for Endwalker.
+  - date: 2023-06-10T03:35:08.717Z
+    message: No changes ( :( ), updated patch number
 ---
 # Red Mage Skill Overview
 
