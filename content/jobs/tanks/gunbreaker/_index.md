@@ -8,4 +8,4 @@ menu:
     name: Gunbreaker
     parent: tanks
 ---
-Gunbreaker is the newest tank to FFXIV, added in the Shadowbringers expansion. It features a high damage output with a burst phase that happenes every 60s, fitting cleanly into party buffs. GNB also features a higher casts-per-minute than other tanks, which, combined with its strong mitigation toolkit, make it feel like a party-focused DPS.
+Gunbreaker is the newest tank to FFXIV that was added in Shadowbringers. It features high damage, high actions-per-minute burst phases that fit cleanly into party buffs. GNB's high actions-per-minute combined with its strong mitigation toolkit make it feel like a party-focused DPS.
