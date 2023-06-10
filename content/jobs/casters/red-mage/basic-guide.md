@@ -6,13 +6,15 @@ authors:
   - argen
   - meru
   - Balance-RDM-Staff
-patch: "6.2"
-lastmod: 2022-01-03T20:49:22.531Z
+patch: "6.4"
+lastmod: 2023-06-10T03:34:42.588Z
 changelog:
   - date: 2021-10-26T01:24:41.469Z
     message: Created page
   - date: 2022-01-02T20:49:23.183Z
     message: Updated for Endwalker
+  - date: 2023-06-10T03:34:39.485Z
+    message: No changes, updated patch number
 ---
 # Red Mage Level 90 Guide for 6.x
 
