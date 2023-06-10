@@ -1,8 +1,8 @@
 ---
 title: Machinist Best in Slot (BiS)
 layout: bis
-patch: "6.3"
-lastmod: 2023-01-11T09:58:43.451Z
+patch: "6.4"
+lastmod: 2023-05-25T08:58:43.451Z
 changelog:
   - date: 2021-10-25T22:11:04.615Z
     message: Created page
@@ -12,19 +12,33 @@ changelog:
     message: Added 6.1 BiS with the DSR weapon.
   - date: 2022-08-23T22:48:19.786Z
     message: Updated for 6.2
+  - date: 2023-05-24T22:46:07.999Z
+    message: 6.4 update
 bis:
+  - type: etro
+    description: ""
+    name: 6.4 BiS 2.5 GCD
+    link: https://etro.gg/gearset/0001cd0d-ee54-4b85-8bb6-8ed79e9e7745
+  - type: etro
+    description: ""
+    name: 6.4 Week 1 BiS 2.47 GCD
+    link: https://etro.gg/gearset/ee71f5b1-7772-413d-9a68-a6adeee5a80a
+  - type: etro
+    description: ""
+    name: 6.4 Week 1 Alternative set 2.5 GCD
+    link: https://etro.gg/gearset/e8ddbad4-90ed-44dd-914e-bf521baba55d
   - type: etro
     description: Recommended set, lines up well with savage uptime. Replace TOP
       weapon with P8S weapon if you don't have it. Remove one DH meld if using
       P8S weapon. See MCH_QUESTIONS pins for our recommendation for dealing with
       the 2.47s recast time.
-    name: Patch 6.3 Best-in-Slot 2.47 GCD
+    name: TOP Best-in-Slot 2.47 GCD
     link: 4f190994-bb9f-424b-8269-c51eee777664
   - type: etro
     description: More comfortable rotation, slightly lower Vit and lower (sub 1%)
       Expected DPS. Lines up poorly with the current savage tier. Not
       recommended for use inside of TOP.
-    name: Patch 6.3 Best-in-Slot 2.50 GCD
+    name: TOP Alternative set 2.50 GCD
     link: 8a0bdf80-80f5-42e8-b10a-160b0fc2d151
   - type: etro
     description: The BiS for Dragonsong's Reprise in Patch 6.25 using the Relic
@@ -74,6 +88,7 @@ authors:
   - dook
   - Laille-Ormesaing
   - hint
+  - juliacare
 tags:
   - Machinist
   - MCH
