@@ -3,8 +3,8 @@ title: White Mage Basic Guide
 card_header_image: /img/jobs/whm/basic.png
 authors:
   - meru
-patch: "6.3"
-lastmod: 2023-01-10T16:41:16.415Z
+patch: "6.4"
+lastmod: 2023-05-30T23:48:40.941Z
 changelog:
   - date: 2021-10-29T03:52:37.749Z
     message: Created page
@@ -14,6 +14,8 @@ changelog:
     message: Updated for patch 6.1
   - date: 2023-01-10T16:41:19.574Z
     message: Updated for patch 6.3
+  - date: 2023-05-30T23:48:42.937Z
+    message: Updated for 6.4
 ---
 # Introduction
 
@@ -61,7 +63,7 @@ Your standard damage filler spell that you should aim to cast whenever possible,
 
 ### **Dia**
 
-An instant cast DoT spell that deals 60p upfront and then ticks for 30s, dealing 60p per tick for a total of 660p if allowed to run its full duration. As this is a gain over your standard Glare filler, this DoT should be maintained on the boss at all times, unless it is about to die in less than 15s. This also applies if the boss is about to disappear, as DoTs do not tick on untargetable bosses for the vast majority of cases. At lower levels, “Aero” variants will be your DoT spell. 
+An instant cast DoT spell that deals 65p upfront and then ticks for 30s, dealing 65p per tick for a total of 715p if allowed to run its full duration. As this is a gain over your standard Glare filler, this DoT should be maintained on the boss at all times, unless it is about to die in less than 15s. This also applies if the boss is about to disappear, as DoTs do not tick on untargetable bosses for the vast majority of cases. At lower levels, “Aero” variants will be your DoT spell. 
 
 ### **Holy III (“Holy” for simplicity)**
 
