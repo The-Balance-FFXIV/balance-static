@@ -9,18 +9,20 @@
 <link rel=apple-touch-icon sizes=180x180 href=/apple-touch-icon.png>
 <link rel=icon type=image/png sizes=32x32 href=/favicon-32x32.png>
 <link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png><meta itemprop=name content="Gunbreaker Basic Guide">
-<meta itemprop=description content="Introduction to Gunbreaker Gunbreaker is one of the four tanks available to the player; unlocked at Lvl. 60, it provides its own unique playstyle of rewarding damage through maintaining fast-paced burst windows. In this guide we’ll cover as much as possible from the basics to the advanced stuff while answering all the FAQs, so make sure to read everything!
-Author Azazel Raine | Balmung (NA) | Azazel#1000
-Skills and Abilities Offensive On Global Cool Down Abilities   Keen Edge">
-<meta itemprop=dateModified content="2022-09-20T21:07:30+00:00">
-<meta itemprop=wordCount content="6296">
+<meta itemprop=description content="Gunbreaker Rotation Guide Authors Krom Ulus | Adamantoise (Aether) | krom#7427
+Azazel Raine | Balmung (Crystal) | Azazel#1000
+ Playstyle and Core Concepts  Gunbreaker is a higher APM job with a focus on building and spending cartridges to deal very high damage inside of tight burst windows. This guide will introduce the relevant actions, gauge usage, and priority system to manage your rotation.
+The rotation is a builder-spender rotation focused on maximizing damage inside the personal 20% damage buff, No Mercy, every 60 seconds.">
+<meta itemprop=dateModified content="2023-05-28T13:28:36+00:00">
+<meta itemprop=wordCount content="3302">
 <meta itemprop=keywords content><meta property="og:title" content="Gunbreaker Basic Guide">
-<meta property="og:description" content="Introduction to Gunbreaker Gunbreaker is one of the four tanks available to the player; unlocked at Lvl. 60, it provides its own unique playstyle of rewarding damage through maintaining fast-paced burst windows. In this guide we’ll cover as much as possible from the basics to the advanced stuff while answering all the FAQs, so make sure to read everything!
-Author Azazel Raine | Balmung (NA) | Azazel#1000
-Skills and Abilities Offensive On Global Cool Down Abilities   Keen Edge">
+<meta property="og:description" content="Gunbreaker Rotation Guide Authors Krom Ulus | Adamantoise (Aether) | krom#7427
+Azazel Raine | Balmung (Crystal) | Azazel#1000
+ Playstyle and Core Concepts  Gunbreaker is a higher APM job with a focus on building and spending cartridges to deal very high damage inside of tight burst windows. This guide will introduce the relevant actions, gauge usage, and priority system to manage your rotation.
+The rotation is a builder-spender rotation focused on maximizing damage inside the personal 20% damage buff, No Mercy, every 60 seconds.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.thebalanceffxiv.com/jobs/tanks/gunbreaker/basic-guide/"><meta property="article:section" content="jobs">
-<meta property="article:modified_time" content="2022-09-20T21:07:30+00:00">
+<meta property="article:modified_time" content="2023-05-28T13:28:36+00:00">
 <link rel=manifest href=/site.webmanifest>
 <link rel=mask-icon href=/safari-pinned-tab.svg color=#ff9900>
 <meta name=msapplication-TileColor content="#ffffff">
@@ -305,8 +307,8 @@ Newsfeed
 <div class=guide-info-container>
 <div class="card-title pt-5 pb-4">Guide Info</div>
 <div class="py-3 space-y-2 text-gray-light font-bold">
-<div>Last Updated: 20 Sep, 2022</div>
-<div>Patch Applicable: 6.2</div>
+<div>Last Updated: 28 May, 2023</div>
+<div>Patch Applicable: 6.4</div>
 </div>
 <div class="py-4 text-right">
 <a href=# class=link>Jump to recent changes »</a>
@@ -323,37 +325,16 @@ Newsfeed
 <div class="nested-link font-bold py-2">
 <nav id=TableOfContents>
 <ul>
-<li><a href=#introduction-to-gunbreaker>Introduction to Gunbreaker</a>
+<li><a href=#gunbreaker-rotation-guide>Gunbreaker Rotation Guide</a>
 <ul>
-<li><a href=#author>Author</a></li>
-</ul>
-</li>
-<li><a href=#skills-and-abilities>Skills and Abilities</a>
-<ul>
-<li><a href=#offensive-on-global-cool-down-abilities>Offensive On Global Cool Down Abilities</a></li>
-<li><a href=#offensive-off-global-cooldown-abilities>Offensive Off Global Cooldown Abilities</a></li>
-</ul>
-</li>
-<li><a href=#rotation>Rotation</a>
-<ul>
-<li><a href=#gnashing-fang-combo--continuation>Gnashing Fang Combo & Continuation</a></li>
-<li><a href=#no-mercy--bloodfest>No Mercy & Bloodfest</a></li>
-<li><a href=#bloodfest>Bloodfest</a></li>
+<li></li>
+<li><a href=#playstyle-and-core-concepts>Playstyle and Core Concepts</a></li>
+<li><a href=#the-priority-system>The Priority System</a></li>
 <li><a href=#aoe-priority><strong>AOE Priority</strong></a></li>
-<li><a href=#final-notes>Final Notes</a></li>
-</ul>
-</li>
-<li><a href=#defensive-off-global-cool-down-abilities>Defensive Off Global Cool Down Abilities</a>
-<ul>
+<li><a href=#notable-utility>Notable Utility</a></li>
 <li><a href=#utility-off-global-cool-down-abilities>Utility Off Global Cool Down Abilities</a></li>
 <li><a href=#defensive-breakdown>Defensive Breakdown</a></li>
 <li><a href=#dungeon-tipsinfo>Dungeon Tips/Info</a></li>
-<li><a href=#gearing--skill-speeds><strong>Gearing & Skill Speeds:</strong></a></li>
-</ul>
-</li>
-<li><a href=#best-in-slot>Best-In-Slot</a>
-<ul>
-<li><a href=#abyssos-savage>Abyssos Savage</a></li>
 <li><a href=#ultimates>Ultimates</a></li>
 <li><a href=#special-thanks>Special Thanks</a></li>
 </ul>
@@ -365,498 +346,252 @@ Newsfeed
 </div>
 <div class=job-guides-container>
 <div class="markdown max-w-none">
-<h1 id=introduction-to-gunbreaker>Introduction to Gunbreaker</h1>
-<p>Gunbreaker is one of the four tanks available to the player; unlocked at Lvl. 60, it provides its own unique playstyle of rewarding damage through maintaining fast-paced burst windows. In this guide we’ll cover as much as possible from the basics to the advanced stuff while answering all the FAQs, so make sure to read everything!</p>
-<h2 id=author>Author</h2>
-<p>Azazel Raine | Balmung (NA) | Azazel#1000</p>
-<h1 id=skills-and-abilities>Skills and Abilities</h1>
-<h2 id=offensive-on-global-cool-down-abilities>Offensive On Global Cool Down Abilities</h2>
-<p>
-<div class=md__image>
-<img id="[48 334 403 249 461 261]" src=/img/jobs/tanks/gunbreaker/Keen_Edge.png onclick=openModal(this.id) alt=KeenEdge>
-</div>
-<strong>Keen Edge</strong></p>
-<p>The first skill of our basic combo. 170 potency.</p>
-<p>
-<div class=md__image>
-<img id="[108 119 248 54 232 17]" src=/img/jobs/tanks/gunbreaker/Brutal_Shell.png onclick=openModal(this.id) alt=BrutalShell>
-</div>
-<strong>Brutal Shell</strong></p>
-<p>The second skill of our basic combo. 270 potency when used after Keen Edge. Heals for 200 potency and gives a shield equal to the amount healed.</p>
-<p>
-<div class=md__image>
-<img id="[312 59 325 475 171 284]" src=/img/jobs/tanks/gunbreaker/Solid_Barrel.png onclick=openModal(this.id) alt=SolidBarrel>
-</div>
-<strong>Solid Barrel</strong></p>
-<p>The final skill of our basic combo. 360 potency when used after Brutal Shell. Generates one Cartridge in the Powder Gauge.</p>
-<p>
-<div class=md__image>
-<img id="[427 473 329 67 121 244]" src=/img/jobs/tanks/gunbreaker/Burst_Strike.png onclick=openModal(this.id) alt=BurstStrike>
-</div>
-<strong>Burst Strike</strong></p>
-<p>380 potency attack that consumes one Cartridge.<br>
-Grants Ready To Blast</p>
-<p>
-<div class=md__image>
-<img id="[153 451 6 464 250 226]" src=/img/jobs/tanks/gunbreaker/Gnashing_Fang.png onclick=openModal(this.id) alt=GnashingFang>
-</div>
-<strong>Gnashing Fang</strong></p>
-<p>360 potency attack that consumes one Cartridge. 30 second base cooldown that is reduced by skill speed (discussed later). Grants Ready To Rip.</p>
-<p>
-<div class=md__image>
-<img id="[124 33 438 397 252 468]" src=/img/jobs/tanks/gunbreaker/Savage_Claw.png onclick=openModal(this.id) alt=SavageClaw>
-</div>
-<strong>Savage Claw</strong></p>
-<p>440 potency attack that can only be used following Gnashing Fang. Grants Ready To Tear.</p>
-<p>
-<div class=md__image>
-<img id="[412 405 429 479 37 109]" src=/img/jobs/tanks/gunbreaker/Wicked_Talon.png onclick=openModal(this.id) alt=WickedTalon>
-</div>
-<strong>Wicked Talon</strong></p>
-<p>520 potency attack that can only be used following Savage Claw. Grants Ready To Gouge.</p>
-<p>
-<div class=md__image>
-<img id="[352 444 263 86 454 458]" src=/img/jobs/gnb/dd.png onclick=openModal(this.id) alt="Double Down">
-</div>
-</p>
+<h1 id=gunbreaker-rotation-guide>Gunbreaker Rotation Guide</h1>
+<h4 id=authors>Authors</h4>
+<p><strong>Krom Ulus</strong> | Adamantoise (Aether) | krom#7427<br>
+<strong>Azazel Raine</strong> | Balmung (Crystal) | Azazel#1000</p>
+<hr>
+<h2 id=playstyle-and-core-concepts>Playstyle and Core Concepts</h2>
+<hr>
+<p>Gunbreaker is a higher APM job with a focus on building and spending cartridges to deal very high damage inside of tight burst windows. This guide will introduce the relevant actions, gauge usage, and priority system to manage your rotation.</p>
+<p>The rotation is a builder-spender rotation focused on maximizing damage inside the personal 20% damage buff, <strong>No Mercy</strong>, every 60 seconds.</p>
+<p>The <strong>powder gauge</strong> is used to hold cartridges that may be used on any weaponskills requiring them, typically used in <strong>No Mercy</strong>. The gauge can hold two cartridges at level 30, and three cartridges at level 88.</p>
+<h3 id=no-mercy>No Mercy</h3>
+<hr>
+<p><strong>No Mercy</strong> is a 20% damage buff that lasts for 20 seconds.</p>
+<ul>
+<li>We want as much potency in this buff as possible.</li>
+<li>We want as many GCDs in this buff as possible.</li>
+<li><strong><a href=https://youtu.be/rdNHJv7aLAg>How To Fit 9 GCDs In No Mercy</a> (≤ 2.47 GCD)</strong></li>
+</ul>
+<h3 id=generation>Generation</h3>
+<hr>
+<p>Completing certain combo chains or using certain abilities generate gauge. <strong>Do not overcap the cartridge gauge</strong>.</p>
+<p><strong>Solid Barrel Combo</strong></p>
+<ul>
+<li>Generates 1 cartridge.</li>
+</ul>
+<p><strong>Demon Slaughter Combo</strong></p>
+<ul>
+<li>Replaces Solid Barrel Combo at 3+ targets.</li>
+<li>Generates 1 cartridge.</li>
+</ul>
+<p><strong>Bloodfest</strong></p>
+<ul>
+<li>Completely fills the cartridge gauge.</li>
+<li>Only use this when the gauge is <strong>empty</strong>, or else it will overwrite any existing cartridges.</li>
+</ul>
+<h3 id=spending-gauge>Spending Gauge</h3>
+<hr>
+<p>Prioritize using cartridges on major cooldowns or to stop the gauge from overcapping.</p>
+<p><strong>Gnashing Fang Combo</strong></p>
+<ul>
+<li>Requires <strong>1 cartridge</strong>.</li>
+<li>Use <strong>Continuation</strong> with every GCD in this combo.</li>
+</ul>
 <p><strong>Double Down</strong></p>
-<p>Delivers an attack to all within 5y of you with a potency of 1,200 for the first enemy, and 15% less for all remaining enemies.<br>
-Cartridge Cost: 2</p>
-<p>
-<div class=md__image>
-<img id="[365 352 97 290 497 160]" src=/img/jobs/tanks/gunbreaker/Sonic_Break.png onclick=openModal(this.id) alt=SonicBreak>
-</div>
-<strong>Sonic Break</strong></p>
-<p>300 potency attack that applies a 60 potency Damage over Time (DoT) for 30 seconds (600 potency total from the DoT). 60 second base cooldown that is reduced by skill speed (discussed later).</p>
-<p>
-<div class=md__image>
-<img id="[117 199 438 58 404 259]" src=/img/jobs/tanks/gunbreaker/Lightning_Shot.png onclick=openModal(this.id) alt=LightingShot>
-</div>
-<strong>Lightning Shot</strong></p>
-<p>Ranged attack skill with a potency of 150 and a range of 20y.<br>
-Additional Effect: Increased Emnity</p>
-<p>
-<div class=md__image>
-<img id="[489 272 329 429 49 116]" src=/img/jobs/tanks/gunbreaker/Demon_Slice.png onclick=openModal(this.id) alt=DemonSlice>
-</div>
-<strong>Demon Slice</strong></p>
-<p>First skill of our Area of Effect (AoE) combo. 100 potency to all targets in a 5y circle centered around you.</p>
-<p>
-<div class=md__image>
-<img id="[274 67 7 277 316 314]" src=/img/jobs/tanks/gunbreaker/Demon_Slaughter.png onclick=openModal(this.id) alt=DemonSlaughter>
-</div>
-<strong>Demon Slaughter</strong></p>
-<p>Second skill of our AoE combo. 150 potency to all targets in a 5y circle around you when used after Demon Slice. Generates one Cartridge in the Powder Gauge.</p>
-<p>
-<div class=md__image>
-<img id="[484 187 53 480 303 42]" src=/img/jobs/tanks/gunbreaker/Fated_Circle.png onclick=openModal(this.id) alt=FatedCircle>
-</div>
-<strong>Fated Circle</strong></p>
-<p>Consumes one Cartridge. 300 potency to all targets in a 5y circle around you.</p>
-<h2 id=offensive-off-global-cooldown-abilities>Offensive Off Global Cooldown Abilities</h2>
-<p>
-<div class=md__image>
-<img id="[378 106 408 10 55 125]" src=/img/jobs/tanks/gunbreaker/No_Mercy.png onclick=openModal(this.id) alt=NoMercy>
-</div>
-<strong>No Mercy</strong></p>
-<p>20% damage increase for 20 seconds.<br>
-Cooldown (CD): 60s</p>
-<p>
-<div class=md__image>
-<img id="[447 37 456 461 397 383]" src=/img/jobs/tanks/gunbreaker/Bloodfest.png onclick=openModal(this.id) alt=Bloodfest>
-</div>
-<strong>Bloodfest</strong></p>
-<p>Immediately gives three Cartridges in the Powder Gauge.<br>
-*<em>Only grants two Cartridges below Lvl. 88</em><br>
-CD: 120s</p>
-<p>
-<div class=md__image>
-<img id="[38 449 422 132 26 286]" src=/img/jobs/tanks/gunbreaker/Continuation.png onclick=openModal(this.id) alt=Continuation>
-</div>
-<strong>Continuation</strong></p>
-<p>Turns into Jugular Rip, Abdomen Tear, Eye Gouge, or Hypervelocity when under the effect of Ready To Rip, Ready To Tear, Ready To Gouge, or Ready to Blast respectively.</p>
-<p>
-<div class=md__image>
-<img id="[87 94 293 318 404 211]" src=/img/jobs/tanks/gunbreaker/Jugular_Rip.png onclick=openModal(this.id) alt=JugularRip>
-</div>
-<strong>Jugular Rip</strong></p>
-<p>180 potency attack. Can only be used under Ready To Rip triggered by Gnashing Fang.</p>
-<p>
-<div class=md__image>
-<img id="[124 161 140 400 482 208]" src=/img/jobs/tanks/gunbreaker/Abdomen_Tear.png onclick=openModal(this.id) alt=AbdomenTear>
-</div>
-<strong>Abdomen Tear</strong></p>
-<p>220 potency attack. Can only be used under Ready To Tear triggered by Savage Claw.</p>
-<p>
-<div class=md__image>
-<img id="[77 362 294 165 91 376]" src=/img/jobs/tanks/gunbreaker/Eye_Gouge.png onclick=openModal(this.id) alt=EyeGouge>
-</div>
-<strong>Eye Gouge</strong></p>
-<p>260 potency attack. Can only be used under Ready To Gouge triggered by Wicked Talon.</p>
-<p>
-<div class=md__image>
-<img id="[357 332 320 146 347 308]" src=/img/jobs/gnb/hv.png onclick=openModal(this.id) alt=Hypervelocity>
-</div>
-</p>
-<p><strong>Hypervelocity</strong><br>
-180 potency attack. Can only be used under Ready to Blast triggered by Burst Strike.</p>
-<p>
-<div class=md__image>
-<img id="[323 235 11 311 97 438]" src=/img/jobs/tanks/gunbreaker/Danger_Zone.png onclick=openModal(this.id) alt=DangerZone>
-</div>
-<strong>Danger Zone</strong></p>
-<p>Delivers an attack with a potency of 250<br>
-Becomes Blasting Zone at level 80.<br>
-CD: 30s</p>
-<p>
-<div class=md__image>
-<img id="[36 244 206 101 259 66]" src=/img/jobs/tanks/gunbreaker/Blasting_Zone.png onclick=openModal(this.id) alt=BlastingZone>
-</div>
-<strong>Blasting Zone</strong></p>
-<p>Delivers an attack with a potency of 720.<br>
-CD: 30s</p>
-<p>
-<div class=md__image>
-<img id="[213 228 42 454 328 480]" src=/img/jobs/tanks/gunbreaker/Bow_Shock.png onclick=openModal(this.id) alt=BowShock>
-</div>
-<strong>Bow Shock</strong></p>
-<p>150 potency attack to all targets in a 5y circle around you. Also applies a 60 potency DoT for 15s to all targets hit by the initial attack (for a total of 300 potency per target from the DoT).<br>
-CD: 60s</p>
-<p>
-<div class=md__image>
-<img id="[191 178 155 23 257 195]" src=/img/jobs/tanks/gunbreaker/Rough_Divide.png onclick=openModal(this.id) alt=RoughDivide>
-</div>
-<strong>Rough Divide</strong></p>
-<p>150 potency attack that dashes you to the target with a 25y range.<br>
-Has two charges.<br>
-CD: 30s per charge</p>
-<h1 id=rotation>Rotation</h1>
-<p>The Gunbreaker rotation is a builder-spender rotation built around attempting to maximize damage inside our personal buff, No Mercy, every 60 seconds.</p>
 <ul>
-<li>This requires us to build Cartridges and spend them every minute with the objective of arriving at every No Mercy window with 3/3 cartridges.</li>
-<li>We must have used all of our damage cooldowns on cooldown effectively without overcapping cartridges or drifting usages.</li>
-</ul>
-<p>The rotation revolves around the same one minute process of:</p>
-<ul>
-<li>Building maximum Cartridges using our cart combos.</li>
-<li>Using Gnashing Fang.</li>
-<li>Using Burst Strike/Fated Circle to prevent overcapping cartridges when at 3/3 to ensure proper resource pooling.</li>
-<li>Using all of the highest potency damage cooldowns under No Mercy.</li>
-<li>Using Bloodfest on cooldown at zero Cartridges to maximize Cartridge gain.</li>
-</ul>
-<p>Gunbreaker starts with two Cartridge slots from level 30 to level 87. </p>
-<ul>
-<li>Upon reaching level 88, you will gain &ldquo;Cartridge Charge II&rdquo;, granting a third Cartridge.</li>
-</ul>
-<p><br>
-All of a Gunbreaker’s offensive ability and weaponskill cooldowns are divisible by 30 seconds, meaning they will always fit into a one minute window at certain time intervals, or can simply be used every 30 seconds.</p>
-<p>
-<div class=md__image>
-<img id="[267 31 180 397 16 213]" src=/img/jobs/gnb/image67.png onclick=openModal(this.id) alt=CartGen title="Cart Generation">
-</div>
-</p>
-<p> </p>
-<p>As detailed in the introduction to Gunbreaker’s rotation, we want to ensure we are building cartridges without overcapping for the purpose of spending as many as possible under No Mercy, and keeping Gnashing Fang on cooldown both in and outside No Mercy.</p>
-<p>To do this, we have two options available to build Cartridges:<br>
-Solid Barrel Combo (Single Target): Builds <strong>one Cartridge</strong>
-Combo Actions: Keen Edge ➞ Brutal Shell ➞ Solid Barrel<br>
-<br>
-Demon Combo (Area of Effect): Builds <strong>one Cartridge</strong>
-Combo Actions: Demon Slice ➞ Demon Slaughter</p>
-<p>Demon combo is utilized in 2+ Target scenarios to build one Cartridge. Use it to build your gauge when fighting multiple enemies. Do note:</p>
-<ul>
-<li>It is weaker in single target scenarios than the Solid Barrel Combo, however can be used in niche circumstances such as fight specific phasings to generate more cartridges that otherwise would have been lost. Do not use this combo in single target situations outside of these special cases.</li>
-</ul>
-<p>Keep in mind that in a single target environment such as raids, it takes three GCDs to build a cart (two in specific cases by using Demon Slaughter), but only takes one to spend. As such, over spending is very destructive so you must be careful when dumping carts between Gnashing Fang and No Mercy windows.</p>
-<p>There are <strong>four</strong> Weaponskills that require carts to use:</p>
-<ul>
-<li><strong>Gnashing Fang (1)</strong></li>
-<li><strong>Double Down (2)</strong></li>
-<li><strong>Burst strike (1)</strong></li>
-<li><strong>Fated Circle (1)</strong></li>
-</ul>
-<p><strong>Gnashing Fang Combo (30s CD) (GCD Dependent)</strong></p>
-<ul>
-<li>This is a three-weaponskill combo that includes some of your heaviest hitting weaponskills.
-The initial weaponskill Gnashing Fang requires one Cartridge to activate but the subsequent combo weaponskills Savage Claw and Wicked Talon are free. We will touch on the Gnashing combo below.</li>
-</ul>
-<p><strong>Double Down (60s CD) (GCD Dependent)</strong></p>
-<ul>
-<li>Unique in that it requires <strong>two cartridges</strong> to use and is actually one of the biggest reasons that getting as many Cartridges as possible in your No Mercy Window is optimal, requiring all three Cartridges ready to hit both Gnashing Fang and Double Down in quick succession.</li>
+<li>Requires <strong>2 cartridges</strong>.</li>
 </ul>
 <p><strong>Burst Strike</strong></p>
 <ul>
-<li>Used both as a tool to prevent overcapping and to do damage inside No Mercy.</li>
+<li>Spends <strong>1 cartridge</strong>.</li>
+<li>Use cartridges <strong>Gnashing Fang</strong> and <strong>Double Down</strong> first if possible.</li>
 </ul>
 <p><strong>Fated Circle</strong></p>
 <ul>
-<li>Has the same purpose as Burst Strike but in a 2+ Target situation.</li>
+<li>Spends <strong>1 cartridge</strong>.</li>
+<li>Replaces <strong>Burst Strike</strong> at 2+ targets.</li>
+<li>Replaces <strong>Gnashing Fang</strong> at 4+ targets.</li>
 </ul>
-<h2 id=gnashing-fang-combo--continuation>Gnashing Fang Combo & Continuation</h2>
-<p>Here we will discuss two things: The Gnashing Fang Combo and Continuation.</p>
-<p>Your Gnashing Fang combo is a combo containing three high potency weaponskills that can only be used every 30s and require one Cartridge to start the combo. This is pretty much your burst window’s core and is further complemented by No Mercy every 60s.
-Upon using your Gnashing Fang attack you’ll begin your combo while activating Continuation:</p>
+<hr>
+<h2 id=the-priority-system>The Priority System</h2>
+<hr>
+<p>Splitting the rotation into two main phases helps understand the fundamentals behind gauge usage:</p>
+<ul>
+<li>The <strong>filler phase</strong>.</li>
+<li>The <strong>burst phase</strong>.</li>
+</ul>
+<p>The burst phase begins when <strong>No Mercy</strong> is activated, and the filler phase begins when <strong>No Mercy</strong> ends.</p>
 <p>
 <div class=md__image>
-<img id="[455 229 477 35 453 354]" src=/img/jobs/gnb/image60.png onclick=openModal(this.id) alt=Continuation title=Continuation>
+<img id="[38 72 417 377 100 101]" src=/img/jobs/gnb/gnb-fundamental-recovered.png onclick=openModal(this.id) alt="GNB Simple Infographic" title="GNB Rotation">
 </div>
 </p>
-<p> </p>
-<p>Continuation is a follow up off-GCD hit for each of the above abilities that you use directly after each GCD. This is where Gunbreaker’s fast pace comes in, as you have these quick succession hits following your big hitters - think of every activation as a one-two punch. You will be required to get Gunbreaker to level 70 to gain these abilities.</p>
-<p><strong>Gnashing Fang</strong> will turn into <strong>Savage Claw</strong> and then into <strong>Wicked Talon</strong>, while your Continuation button will change from <strong>Jugular Rip</strong> to <strong>Abdomen Tear</strong> to <strong>Eye Gouge.</strong></p>
-<p>Upon reaching level 86 you will get Enhanced Continuation, which grants Continuation to Burst Strike, giving you access to <strong>Hypervelocity</strong>.</p>
-<p><strong>What does a Gnashing Fang Combo look like?</strong>
-Since Gnashing Fang is <strong>30s</strong> and No Mercy is <strong>60s</strong>. Every second Gnashing Fang Combo will be without No Mercy. As a result it’s not as strong but not as busy. However it still requires <strong>one Cartridge</strong> to use. Blasting Zone is also 30s so we want to keep Gnashing Fang and Blasting Zone together since they’ll both line up with No Mercy at 60s. This is a standard Gnashing Fang outside of No Mercy. We’ll take a look at the full No Mercy window further on in the guide.</p>
+<h3 id=filler-phase>Filler Phase</h3>
+<hr>
+<p>The <strong>Solid Barrel</strong> combo should be used continuously to fill the cartridge gauge for <strong>No Mercy</strong>.</p>
+<ul>
+<li>Use <strong>Gnashing Fang</strong> and <strong>Blasting Zone</strong> off cooldown <strong>once</strong>.</li>
+<li>Use <strong>Burst Strike</strong> only when the cartridge gauge is about to overcap on cartridges.</li>
+</ul>
+<p>When <strong>No Mercy</strong> comes off cooldown, enter the <strong>burst phase</strong>.</p>
+<ul>
+<li>If <strong>Gnashing Fang</strong> comes off cooldown again before <strong>No Mercy</strong>, hold it into <strong>No Mercy</strong>.</li>
+</ul>
+<h3 id=burst-phase>Burst Phase</h3>
+<hr>
+<p>Once <strong>No Mercy</strong> is off cooldown, use it off cooldown and begin using your cooldowns inside of the buff.</p>
+<p><strong>No Mercy</strong> should contain:</p>
+<ul>
+<li>A <strong>Gnashing Fang</strong> combo, <strong>Double Down</strong>, <strong>Sonic Break</strong>, and as many usages of <strong>Burst Strike</strong> as possible.</li>
+<li>Prioritize using <strong>Gnashing Fang</strong> and <strong>Double Down</strong> over <strong>Burst Strike</strong>.</li>
+<li>Use a <strong>combo action</strong> when nothing else can be spent or used.</li>
+<li>Use <strong>Lightning Shot</strong> if you cannot remain in melee range.</li>
+</ul>
+<p><strong>Blasting Zone</strong>, <strong>Bow Shock</strong>, <strong>Continuation</strong>, <strong>Bloodfest</strong>, and <strong>Rough Divide</strong> are oGCD actions that should be used within <strong>No Mercy</strong>.</p>
+<ul>
+<li><strong>Bloodfest</strong> should not be used until all cartridges have been spent.</li>
+<li><strong>Rough Divide</strong> should be used outside of <strong>No Mercy</strong> if it allows for melee uptime.</li>
+</ul>
+<p>When <strong>No Mercy</strong> ends, return to the <strong>filler phase</strong>.</p>
+<h3 id=forced-2-cartridge-burst-phase>Forced 2-Cartridge Burst Phase </h3>
+<hr>
+<p>It is possible for this scenario to occur within your rotation:</p>
+<ul>
+<li>The cartridge gauge is full.</li>
+<li>The next combo action is <strong>Solid Barrel</strong>.</li>
+<li><strong>No Mercy</strong> will be off cooldown after using the next GCD.</li>
+</ul>
+<p>This forces us to enter <strong>No Mercy</strong> with two cartridges if we use <strong>No Mercy</strong> off cooldown. There is more than one solution to this, so refer to the infographic.</p>
 <p>
 <div class=md__image>
-<img id="[117 389 492 149 231 358]" src=/img/jobs/gnb/alt.png onclick=openModal(this.id) alt>
+<img id="[349 482 147 198 248 104]" src=/img/jobs/gnb/2cnm_lr.png onclick=openModal(this.id) alt>
 </div>
 </p>
-<p> </p>
-<p>The order of a possible Gnashing Fang Combo is as follows:
-Gnashing Fang ➞ Jugular Rip
-Savage Claw ➞ Blasting Zone + Abdomen Tear
-Wicked Talon ➞ Eye Gouge</p>
-<p>The placement of Blasting Zone can shift as it is not affected by SkS but GF combo is, as such it won’t line up in the same spot.</p>
-<p>One thing to keep in mind is that your Gnashing Fang is a combo, but it has flexibility. </p>
+<h3 id=gnashing-fang-combo><strong>Gnashing Fang Combo</strong></h3>
+<hr>
+<p>The <strong>Gnashing Fang</strong> combo is the most valuable action Gunbreaker has, so making complete use of it is important.</p>
 <ul>
-<li>Certain actions can be used inside this combo (and are done so for optimal damage in buffs) without breaking it. </li>
-<li>The combo can still be broken by using any of your basic combo actions (Solid Barrel or Demon Slaughter combos). </li>
-<li>Breaking your Gnashing Fang is never worth it and to do so is one of the most destructive things to your DPS.</li>
-</ul>
-<p>Below is an infographic on what combo flexibility looks like when using Gnashing Fang.</p>
-<p>
-<div class=md__image>
-<img id="[72 97 449 466 178 393]" src=/img/jobs/gnb/al2.png onclick=openModal(this.id) alt=ComboFlex title="Combo Flexibility">
-</div>
-</p>
-<p> </p>
-<p><strong>Using any weaponskill before you use your Continuation ability gained from using Gnashing Fang Combo will cause you to lose the Continuation buff. For example:</strong></p>
-<p>
-<div class=md__image>
-<img id="[51 236 76 83 41 239]" src=/img/jobs/gnb/break.png onclick=openModal(this.id) alt=ContBreak title="Broken Continuation">
-</div>
-</p>
-<p> </p>
-<p>Since Sonic Break was used <strong>before</strong> Jugular Rip was activated, the Continuation buff that allows you to execute Jugular Rip is lost, thus you lose a usage/damage.</p>
-<p>It is important to land your Continuation hits before moving onto the next GCD to avoid losing usages.</p>
-<p>See below for a quick reference of each weaponskill and their corresponding Continuation:</p>
-<ul>
-<li>Gnashing Fang procs Jugular Rip</li>
-<li>Savage Claw procs Abdomen Tear</li>
-<li>Wicked Talon procs Eye Gouge</li>
-<li>Burst Strike procs Hypervelocity</li>
-</ul>
-<h2 id=no-mercy--bloodfest>No Mercy & Bloodfest</h2>
-<h3 id=no-mercy>No Mercy</h3>
-<p>No Mercy is the backbone of our burst. It provides a 20% damage increase for 20s.</p>
-<ul>
-<li>This duration allows us to fit nine GCDs into the buff (if not running a very slow build), ensuring the damage of those nine weaponskills is amplified. </li>
-</ul>
-<p>No Mercy should always contain the following:</p>
-<p><br>
-GCD:</p>
-<ul>
-<li>Gnashing Fang*</li>
-<li>Double Down</li>
-<li>Sonic Break</li>
-<li>Savage Claw</li>
-<li>Wicked Talon</li>
-<li>Burst Strike(s)</li>
-<li>Remainder of your Solid Barrel combo</li>
-</ul>
-<p>oGCD:</p>
-<ul>
-<li>Jugular Rip*</li>
-<li>Abdomen Tear</li>
-<li>Eye Gouge</li>
-<li>Blasting Zone</li>
-<li>Bow Shock</li>
-<li>Rough Divide</li>
-</ul>
-<p>As you can see, this is where GNB gets its busy reputation because of all the above abilities, in one form or another, having to be used inside a 20s window every minute. </p>
-<ul>
-<li>As a result, you need to ensure you’re always ready for a full No Mercy Window. </li>
-<li>This requires you to have three Cartridges in your Powder Gauge as Gnashing Fang requires one Cartridge and Double Down requires two Cartridges. </li>
-<li>This is a fundamental rule of No Mercy and should never change. You should never be in a situation where you enter No Mercy without three Cartridges loaded.</li>
-<li>You ideally want two Rough Divides in every No Mercy; however you can use Rough Divide to gap close if you would otherwise lose several GCD’s due to running across the arena chasing the boss. </li>
-<li>You can substitute Demon Combo and Fated Circle for Solid Barrel Combo and Burst Strike when appropriate.</li>
-</ul>
-<p><em>*At level 90, the Gnashing Fang + Jugular Rip part of your GF combo is sometimes omitted in some No Mercy windows (see Gnashing Fang ➞ No Mercy below), but before level 90, you aim to keep all of GF in every NM Window.</em></p>
-<p><strong>So what changes between each No Mercy Window?</strong><br>
-One of the main changes is where in your Solid Barrel combo you’ll be when you enter No Mercy. As a result of this the placement of Burst Strike(s) and your combo changes but the core usage of abilities is the same.</p>
-<p>Once you finish your Gnashing Fang Combo (Which will contain Double Down and Sonic Break), your next goal is to empty remaining carts (granted by Bloodfest), when your Power Gauge is empty, you revert back to your Solid Barrel combo. If the No Mercy buff is still present and you have generated a cart from Solid Barrel, you immediately dump the cart into Burst Strike to get it under the 20% damage up.</p>
-<p>The reason we begin Gnashing Fang and use Double Down followed by Sonic Break before finishing our Gnashing Fang combo is to maximize usages.</p>
-<ul>
-<li>The cooldown of an ability begins from the moment it is pressed. </li>
-<li>If we wait until after Gnashing Fang combo even though it doesn’t interrupt it, then we’re just holding it for 2+ GCDs for no reason, and if downtime occurs, can cause you to heavily push Double Down or Sonic Break away from the CD of No Mercy.</li>
-</ul>
-<p><strong>Fitting Nine GCDs:</strong><br>
-A number of factors play into allowing for nine GCDs inside No Mercy: </p>
-<ul>
-<li>Skill Speed: The time at which the No Mercy buff applies allows us just under 20 seconds to fit nine GCDs. This requires us to have a GCD recast speed that fits the ninth GCD usage while No Mercy is still active. To do this reliably and consistently, you should try to be at 2.46 or faster.</li>
-<li>Latency: high ping can cause a delay in your ability to immediately recast the GCD, causing “clipping” that make it difficult or impossible to get 9/9 GCDs.</li>
-<li>Most importantly, the time at which you hit No Mercy. The later in the GCD clock you hit No Mercy, the more you shift the buff and as such gives you more time to land the ninth GCD. This is an important piece of optimization. You ideally want to hit No Mercy roughly when a weaponskill icon looks like this:</li>
+<li>This means that this combo should never be broken or cut off and lost by downtime if possible.</li>
+<li>You can only break the <strong>Gnashing Fang</strong> combo by continuing a different combo.</li>
+<li>Every combo action in the <strong>Gnashing Fang</strong> combo will refresh the combo timer to 30 seconds.</li>
+<li>Every usage of <strong>Continuation</strong> must be used on the same GCD that it was granted, or it will be lost forever.</li>
 </ul>
 <p>
 <div class=md__image>
-<img id="[313 140 479 417 63 123]" src=https://i.imgur.com/VEV9uhQ.png?1649180326 onclick=openModal(this.id) alt=NoMercyClock title="No Mercy GCD">
+<img id="[205 483 86 421 42 150]" src=/img/jobs/gnb/gnb_combobreaker_v2.1.png onclick=openModal(this.id) alt="What can break Gnashing Fang Combo" title="What can break Gnashing Fang Combo">
 </div>
 </p>
-<p> </p>
-<p>I also have a video where I touch on this. Although it is from Shadowbringers, it is still applicable to Endwalker. It can be seen here:** <a href=https://youtu.be/rdNHJv7aLAg>How to Fit nine GCDs in No Mercy on GNB</a>**</p>
-<h4 id=reverse-drift>Reverse Drift</h4>
-<p>Something to know about before we go any further is how Skill Speed affects your weaponskills. The more Skill Speed you have, the faster your GCD is but also the shorter the cooldown of your weaponskills. Failure to use Reverse Drift properly can result in messy No Mercy windows and ability placements so it’s worth looking into.</p>
-<p><br>
-For example: at 2.41GCD (Approx 883 SKS stat) Gnashing has a CD of 29.01s, Double Down has a CD of 58.02s. However SkS does not affect abilities such as Blasting Zone, Rough Divide, No Mercy and Bloodfest. Regardless of your Skill Speed, they will retain their 30s, 60s and 120s cooldowns respectively. </p>
-<p>What does this mean?</p>
-<p>If weaponskills like Gnashing Fang are used on cooldown they will eventually misalign as they are not perfect 30s or 60s and as such will come up sooner and sooner, relative to something like No Mercy. As a result we need to apply one filler GCD every 60s to keep everything lined up or else No Mercy windows will be messy and can lose optimal weaponskills inside of them.</p>
-<ul>
-<li>A filler can count as anything that is a combo action, Lightning Shot (if you are out of range), or pure downtime. (Try to avoid downtime).</li>
-</ul>
-<h4 id=gnashing-fang--no-mercy>Gnashing Fang ➞ No Mercy </h4>
-<p>Due to the nature of how Gunbreaker is in Endwalker, if you follow the rotation as intended you will eventually come to a situation at certain intervals where you will have:</p>
-<ul>
-<li>Three Cartridges prepped.</li>
-<li>Solid Barrel is ready to cast at the next GCD.</li>
-<li>No Mercy is still on cooldown until after the next GCD. </li>
-</ul>
-<p>This isn’t an error or a mistake, it’s guaranteed in the rotation and will happen. One of the optimal choices for this is to use Gnashing Fang ➞ Jugular Rip ➞ No Mercy.</p>
-<p>Although we are leaving Gnashing Fang and Jugular Rip out of No Mercy, we are gaining a Burst Strike in No Mercy in its place while ensuring that No Mercy does not drift out of raid buffs by being used when it available ASAP.</p>
-<p><em>As of update 6.11, the buff to the Gnashing Fang combo means that Gnashing+Jugular Rip are now stronger than Burst Strike + Hypervelocity. This means GF->NM is now a loss, however it still ensures no delay on No Mercy. It is difficult to give a baseline and state which is optimal (GF->NM or delaying NM to place GF inside the window) and will become a case by case basis both for kill times and openers. This is still being theorycrafted but for now you can continue with either option so long as all other rules of the class are upheld.</em></p>
-<h2 id=bloodfest>Bloodfest</h2>
-<p>Bloodfest is our second indirect/buffing offensive ability. Granting us a full Powder Gauge, it simply enables more gauge expenditure and therefore more damage. Using Bloodfest effectively is a way we can enter an optimal No Mercy without worrying about carts or can provide three Burst Strikes within No Mercy. The two biggest mistakes I see new Gunbreakers do is hold Bloodfest for No Mercy or to use it as reset for downtime; although the latter is not a bad option, it should not be used exclusively for that purpose.</p>
-<p>With the changes to Bloodfest in update 6.2, the cooldown is now 2m, which means it&rsquo;ll line up with every 2nd NM after the opener. This forces us to have a hefty burst inside raid buffs now and similarly to other jobs have all of our offensive cooldowns consistently lined up with one another through out the rotation. This in turn makes Bloodfest a lot easier to manage and learn than before.</p>
-<p>Similar to before, but now serving a singular purpose, it allows you to refill your Cartridge gauge to place three Burst Strikes into No Mercy. However with BF now also 2m, it can act as a soft reset to the job if you have died or screwed your cart gen.</p>
-<p>Bloodfest will always grant <strong>three</strong> Cartridges. So using it with any carts loaded is a loss.<br>
-1 cart loaded + 3 carts from Bloodfest = four Cartridges, <strong>one lost due to overcap!</strong></p>
 <h2 id=aoe-priority><strong>AOE Priority</strong></h2>
+<hr>
 <p>
 <div class=md__image>
-<img id="[203 366 372 339 235 335]" src=/img/jobs/gnb/gnb-ammended.png onclick=openModal(this.id) alt="AOE Prio" title="AOE Rotation/Priority">
+<img id="[200 235 320 190 234 345]" src=/img/jobs/gnb/gnb-ammended.png onclick=openModal(this.id) alt="AOE Prio" title="AOE Rotation/Priority">
 </div>
 </p>
-<h2 id=final-notes>Final Notes</h2>
-<p>Gunbreaker doesn’t have a simple “loop”. It’s simply a shifting priority system bending around 30s and 60s burst windows. There is some static nature to the class while others are a bit fluid. Below is a flow chart that you can use to get yourself accustomed to what you should be doing when and where in the rotation. GNB has a large amount of rigidity to its rotation so bending it or trying to set up for very specific things is not something we encourage as it can have knock-on effects in your rotation.</p>
+<h2 id=notable-utility>Notable Utility</h2>
+<hr>
 <p>
 <div class=md__image>
-<img id="[89 345 27 62 306 170]" src=/img/jobs/gnb/flow1.png onclick=openModal(this.id) alt>
+<img id="[396 190 261 219 161 332]" src=/img/jobs/gnb/hoc.png onclick=openModal(this.id) alt="Heart of Corundum" title="Heart of Corundum">
 </div>
 </p>
-<h1 id=defensive-off-global-cool-down-abilities>Defensive Off Global Cool Down Abilities</h1>
+<p><strong>Heart of Corundum</strong> provides your target with a buff that reduces their damage taken by 27.75% for the first 4 seconds it was applied, and 15% for the next 4 seconds after that. It also applies a 900 potency heal that will proc onto that target upon their maximum HP reaching less than 50%, or when the buff expires 20 seconds later.</p>
+<ul>
+<li>The heal is extremely powerful, and due to the proc or timer expiration requirement, it can be used as a plannable healing tool that can heal almost half of a DPS&rsquo;s health bar.</li>
+</ul>
 <p>
 <div class=md__image>
-<img id="[185 331 387 288 63 232]" src=/img/jobs/tanks/gunbreaker/Aurora.png onclick=openModal(this.id) alt=Aurora>
+<img id="[66 54 263 244 271 8]" src=/img/jobs/tanks/gunbreaker/Aurora.png onclick=openModal(this.id) alt=Camouflage>
 </div>
-<strong>Aurora</strong></p>
-<p>200 potency Heal over Time (HoT) for 18 seconds. 1200 potency heal total. 60 second cooldown. Can be used on self or a target party member in a 30y range.<br>
-Two charges at level 84<br>
-CD: 60s per charge</p>
+</p>
+<p><strong>Aurora</strong> is a targeted 18 second heal over time effect that heals yourself or your target for 200 potency every 3 seconds (1200 total). It has two stacks, which makes it an effective regen effect to apply to any player that requires extra healing over a certain duration. However, this effect does not stack so you cannot apply a double Aurora to someone, it&rsquo;ll merely refresh the duration.</p>
 <p>
 <div class=md__image>
-<img id="[390 417 335 448 285 107]" src=/img/jobs/tanks/gunbreaker/Camouflage.png onclick=openModal(this.id) alt=Camouflage>
+<img id="[352 204 173 13 101 447]" src=/img/jobs/tanks/gunbreaker/Camouflage.png onclick=openModal(this.id) alt=Camouflage>
 </div>
-<strong>Camouflage</strong></p>
-<p>Reduces damage taken by 10% for 20 seconds. Gives +50% parry rate (for a total of 60% parry rate) for 20 seconds. Parry only works on physical damage and reduces damage by 15% when it applies. [The 10% damage reduction applies regardless of if the attack is physical or magical.]<br>
+</p>
+<p><strong>Camouflage</strong> reduces damage taken by 10% for 20 seconds. Provides an additive +50% <strong>parry rate</strong> (for a total of 60% parry rate) for 20 seconds. <strong>Parrying</strong> applies a 15% damage reduction to <strong>physical attacks only</strong>.</p>
+<ul>
+<li>The 10% damage reduction always applies to every damage instance.</li>
+</ul>
+<p>
+<div class=md__image>
+<img id="[14 250 493 118 196 224]" src=/img/jobs/tanks/gunbreaker/Rampart.png onclick=openModal(this.id) alt=Rampart>
+</div>
+</p>
+<p><strong>Rampart</strong><br>
 <strong>CD: 90s</strong></p>
+<p>Reduces damage taken by 20% for 20 seconds.</p>
 <p>
 <div class=md__image>
-<img id="[70 43 257 207 19 147]" src=/img/jobs/tanks/gunbreaker/Rampart.png onclick=openModal(this.id) alt=Rampart>
-</div>
-<strong>Rampart</strong></p>
-<p>Reduces damage taken by 20% for 20 seconds.<br>
-<strong>CD: 90s</strong></p>
-<p>
-<div class=md__image>
-<img id="[88 118 282 351 331 69]" src=/img/jobs/tanks/gunbreaker/Nebula.png onclick=openModal(this.id) alt=Nebula>
-</div>
-<strong>Nebula</strong></p>
-<p>Reduces damage taken by 30% for 15 seconds.<br>
-<strong>CD: 120s</strong></p>
-<p>
-<div class=md__image>
-<img id="[10 16 492 130 255 99]" src=/img/jobs/gnb/hoc.png onclick=openModal(this.id) alt="Heart of Corundum" title="Heart of Corundum">
+<img id="[114 330 129 396 461 194]" src=/img/jobs/tanks/gunbreaker/Nebula.png onclick=openModal(this.id) alt=Nebula>
 </div>
 </p>
-<p><strong>Heart of Corundum</strong><br>
-Reduces damage taken by a party member or self by 15%.<br>
-Duration: 8s<br>
-Additional Effect: When targeting a party member while under the effect of Brutal Shell, that effect is also granted to the target<br>
-Duration: 30s<br>
-Additional Effect: Grants Clarity of Corundum to target <br>
-Clarity of Corundum Effect: Reduces damage taken by 15%<br>
-Duration: 4s<br>
-Additional Effect: Grants Catharsis of Corundum to target<br>
-Catharsis of Corundum Effect: Restores HP when HP falls below 50% or upon effect duration expiration<br>
-Cure Potency: 900<br>
-Duration: 20s<br>
-<strong>CD: 25s</strong><br>
-<em>We will go in depth about Heart of Corundum below.</em></p>
-<p>
-<div class=md__image>
-<img id="[189 53 188 341 89 19]" src=/img/jobs/tanks/gunbreaker/Superbolide.png onclick=openModal(this.id) alt=Superbolide>
-</div>
-<strong>Superbolide</strong></p>
-<p>Reduces HP to 1 and renders you impervious to most attacks.<br>
-Duration: 10s**<br>
-CD: 360s / Six Minutes**</p>
-<p>
-<div class=md__image>
-<img id="[110 158 20 345 330 445]" src=/img/jobs/tanks/gunbreaker/Heart_of_Stone.png onclick=openModal(this.id) alt=HeartOfStone>
-</div>
-<strong>Heart of Stone</strong></p>
-<p>Reduces damage taken by 15% for seven seconds. Can be used on self or a target party member in a 30y range. If used on a party member, any existing Brutal Shell shield will be copied onto them.<br>
-<strong>CD: 25s</strong><br>
-<em>*Upgraded to Heart of Corundum upon reaching level 82</em></p>
-<p>
-<div class=md__image>
-<img id="[385 459 310 252 139 411]" src=/img/jobs/tanks/gunbreaker/Arms_Length.png onclick=openModal(this.id) alt=ArmsLength>
-</div>
-<strong>Arm’s Length</strong></p>
-<p>Role action. Makes you immune to most knockback or draw-in effects for six seconds. Applies a 20% slow to enemies that attack you while Arm’s Length is active (This means enemies will attack you 20% slower, very useful for dungeons!).<br>
+<p><strong>Nebula</strong><br>
 <strong>CD: 120s</strong></p>
+<p>Reduces damage taken by 30% for 15 seconds.</p>
+<p>
+<div class=md__image>
+<img id="[435 410 110 358 471 33]" src=/img/jobs/tanks/gunbreaker/Superbolide.png onclick=openModal(this.id) alt=Superbolide>
+</div>
+</p>
+<p><strong>Superbolide</strong><br>
+CD: 360s / 6m</p>
+<p>Reduces HP to 1 and renders you impervious to most attacks for 10 seconds.</p>
+<p>
+<div class=md__image>
+<img id="[396 233 317 430 46 213]" src=/img/jobs/tanks/gunbreaker/Arms_Length.png onclick=openModal(this.id) alt=ArmsLength>
+</div>
+</p>
+<p><strong>Arm’s Length</strong><br>
+<strong>CD: 120s</strong></p>
+<p>Role action. Makes you immune to most knockback or draw-in effects for six seconds. Applies a 20% slow to enemies that attack you while Arm’s Length is active (This means enemies will attack you 20% slower, very useful for dungeons).</p>
 <h2 id=utility-off-global-cool-down-abilities>Utility Off Global Cool Down Abilities</h2>
+<hr>
 <p>
 <div class=md__image>
-<img id="[213 309 270 402 409 465]" src=/img/jobs/tanks/gunbreaker/Heart_of_Light.png onclick=openModal(this.id) alt=HeartOfLight>
+<img id="[201 10 439 259 4 113]" src=/img/jobs/tanks/gunbreaker/Heart_of_Light.png onclick=openModal(this.id) alt=HeartOfLight>
 </div>
-<strong>Heart of Light</strong></p>
-<p>Reduces magic damage taken by 10% for self and party members in a 15y radius around you for 15 seconds. 90 second cooldown.</p>
+</p>
+<p><strong>Heart of Light</strong><br>
+<strong>CD: 90s</strong></p>
+<p>Reduces magic damage taken by 10% for self and party members in a 30y radius around you for 15 seconds.</p>
 <p>
 <div class=md__image>
-<img id="[150 56 201 102 483 401]" src=/img/jobs/tanks/gunbreaker/Reprisal.png onclick=openModal(this.id) alt=Reprisal>
+<img id="[433 187 188 180 378 463]" src=/img/jobs/tanks/gunbreaker/Reprisal.png onclick=openModal(this.id) alt=Reprisal>
 </div>
-<strong>Reprisal</strong></p>
-<p>Role action. Reduces damage dealt by all enemies in a 5y circle around you by 10% for 10 seconds. 60 second cooldown.</p>
+</p>
+<p><strong>Reprisal</strong><br>
+<strong>CD: 60s</strong></p>
+<p>Role action. Reduces damage dealt by all enemies in a 5y radius around you by 10% for 10 seconds.</p>
 <p>
 <div class=md__image>
-<img id="[314 257 466 248 231 219]" src=/img/jobs/tanks/gunbreaker/Low_Blow.png onclick=openModal(this.id) alt=LowBlow>
+<img id="[239 171 189 225 35 220]" src=/img/jobs/tanks/gunbreaker/Low_Blow.png onclick=openModal(this.id) alt=LowBlow>
 </div>
-<strong>Low Blow</strong></p>
-<p>Role action. Stuns a target for five seconds. Enemies that get stunned repeatedly will develop stun immunity. 25s cooldown.</p>
+</p>
+<p><strong>Low Blow</strong><br>
+<strong>CD: 25s</strong></p>
+<p>Role action. Stuns a target for five seconds. Enemies that get stunned repeatedly will develop stun immunity.</p>
 <p>
 <div class=md__image>
-<img id="[305 134 360 288 98 188]" src=/img/jobs/tanks/gunbreaker/Interject.png onclick=openModal(this.id) alt=Interject>
+<img id="[472 489 237 4 205 71]" src=/img/jobs/tanks/gunbreaker/Interject.png onclick=openModal(this.id) alt=Interject>
 </div>
-<strong>Interject</strong></p>
-<p>Role action. Cancels a target&rsquo;s cast (if it is an interruptible cast). 30 second cooldown.</p>
+</p>
+<p><strong>Interject</strong><br>
+<strong>CD: 30s</strong></p>
+<p>Role action. Cancels a target&rsquo;s cast (if it is an interruptible cast).</p>
 <p>
 <div class=md__image>
-<img id="[227 148 45 460 51 150]" src=/img/jobs/tanks/gunbreaker/Royal_Guard.png onclick=openModal(this.id) alt=RoyalGuard>
+<img id="[89 115 285 130 221 439]" src=/img/jobs/tanks/gunbreaker/Royal_Guard.png onclick=openModal(this.id) alt=RoyalGuard>
 </div>
-<strong>Royal Guard</strong></p>
+</p>
+<p><strong>Royal Guard</strong></p>
 <p>Tank stance. While toggled on, applies a 10x enmity modifier to all abilities.</p>
 <p>
 <div class=md__image>
-<img id="[71 27 431 137 464 500]" src=/img/jobs/tanks/gunbreaker/Provoke.png onclick=openModal(this.id) alt=Provoke>
+<img id="[220 104 200 78 10 417]" src=/img/jobs/tanks/gunbreaker/Provoke.png onclick=openModal(this.id) alt=Provoke>
 </div>
-<strong>Provoke</strong></p>
+</p>
+<p><strong>Provoke</strong></p>
 <p>Role action. Puts you at the top of the enmity list and gives 2000 potency worth of additional enmity (20,000 if Royal Guard is active).</p>
 <p>
 <div class=md__image>
-<img id="[182 478 106 305 110 234]" src=/img/jobs/tanks/gunbreaker/Shirk.png onclick=openModal(this.id) alt=Shirk>
+<img id="[420 343 316 203 456 9]" src=/img/jobs/tanks/gunbreaker/Shirk.png onclick=openModal(this.id) alt=Shirk>
 </div>
-<strong>Shirk</strong></p>
+</p>
+<p><strong>Shirk</strong></p>
 <p>Role action. Transfers 25% of your enmity to a target party member. This effect applies to all enemies on your aggro table.</p>
 <h2 id=defensive-breakdown>Defensive Breakdown</h2>
 <p>Using your defensive cooldowns properly is an important part of maximizing your effectiveness as a tank, and timing your abilities correctly will ensure you’re getting the most out of your kit while reducing your total incoming damage for the encounter. Stacking mitigation is also optimal to do, especially in high end content where the damage received is likely going to KO you without stacking your mitigation together. However, you can also stack too much which will leave you without options later, so make sure you’re pacing yourself appropriately for the encounter. </p>
@@ -871,7 +606,7 @@ CD: 360s / Six Minutes**</p>
 <ul>
 <li>Heart of Corundum: 15% DR to self or party member for 8s</li>
 <li>Clarity of Corundum: 15% DR to self or party member for 4s.</li>
-<li>Catharsis of Corundum: 900 potency heal when effect expires or when health is reduced below 50% on self or target. Buff duration 25s.
+<li>Catharsis of Corundum: 900 potency heal when effect expires or when health is reduced below 50% on self or target. Buff duration 20s.
 *The effect of your Brutal Shell shield is also granted to another target, but use on yourself will not affect your own Brutal Shell shield. This is also present for Heart of Stone.</li>
 </ul>
 <p>Heart of Corundum provides a 27.75%~ damage reduction for the first four seconds of its duration as the two damage reductions from Heart of Corundum and Clarity of Corundum stack together to provide a very strong opening effect which decays to 15% after four seconds. While this persists, you have Catharsis of Corundum which provides a great 900 pot heal (which can crit!). Corundum has no cost, no drawback, and a short cooldown, and is therefore an extremely powerful and versatile tool to use for support and self-sustain. However, utilizing it to its maximum potential requires you to make use of <strong>Clarity of Corundum</strong>. Personally, when double weaving any mitigation, I tend to weave Corundum second to ensure Clarity is present for the tank buster. That being said, keep in mind that any late mitigation will miss the damage snapshot and instead of a nice 27.75% you’ll get 0%. You ideally always want your main mitigations with Heart of Corundum for heavy hitting tank busters.</p>
@@ -904,53 +639,32 @@ CD: 360s / Six Minutes**</p>
 </ul>
 <p>The above “plan” is of course not set in stone. In an ideal world, your dungeon DPS are fast enough to kill a pack of monsters before your main cooldown wears off. However, this may not happen and you may in turn have to cycle through cooldowns or change things. There’s nothing wrong with using more than expected and taking the next few pulls slow. The reason why we use these cooldowns and do big pulls is that besides them making runs faster, you rarely need Rampart or Nebula for dungeon bosses, as their tank busters don’t hit very hard and can be taken with a well timed Heart of Corundum.</p>
 <p>Due to Clarity of Corundum’s duration being so short, I recommend waiting a GCD or two once you have all the enemies rounded up before using Heart of Corundum. If you prepull Heart of Corundum and run in, chances are Clarity of Corundum will fall off.</p>
-<h2 id=gearing--skill-speeds><strong>Gearing & Skill Speeds:</strong></h2>
-<p>Gearing GNB, like any tank, is rather simple. Our goal when we gear up is to prioritize increasing our damage stats, as the damage reduction in our armor scales with our iLvl and as such means we don’t actually have to pick between defensive options and offensive options (which is awesome!). This means you can focus on making your gear help to make you hit as hard as you can</p>
-<p>When melding new gear either while leveling or while grabbing new pieces while working your way towards BiS, you want to focus on the following order:</p>
-<h4 id=skill-speed-to-your-personal-comfort--critical-hit--direct-hit--determination--tenacity>Skill Speed to your personal comfort > Critical Hit > Direct Hit > Determination > Tenacity</h4>
-<p>Skill Speed reduces the cooldown of weaponskills like Gnashing Fang and Double Down while also speeding up your Global Cooldown, which will make the job faster the more you stack. Everyone has their preferences on speeds and right now (as of Patch 6.05) there is nothing showing one speed is superior to the others. Speeds impact various things from getting nine GCDs in No Mercy to GCD clipping (abilities being used in conjunction so fast that they fail to immediately go off, causing a delay). </p>
-<p>There are positives and negatives to all builds and we absolutely recommend testing various speeds. </p>
-<ul>
-<li>You can do so by equipping or unequipping various random pieces of gear you have lying around with Skill Speed to up/lower your SKS value and practicing on a dummy. </li>
-<li>You can check your GCD by hovering over any standard weaponskill like Keen Edge.</li>
-</ul>
-<p>No one can tell you what the best speed is, this is down to your preference!</p>
-<h4 id=additional-items>Additional Items:</h4>
-<p><strong>Materia:</strong> If you are new to endgame content then please ensure you are melding your gear with Materia. Materia is a huge contributing factor to your DPS, as it is a hefty gain in your substats. Empty Materia slots are never acceptable when doing anything higher in difficulty than dungeons. </p>
-<p><strong>Food:</strong> Food provides a temporary (and practically mandatory) stat boost, contributing to both your total HP and your damage stats. Some builds even require food to hit your intended GCD. High quality food provide a higher gain than normal quality.</p>
-<p><strong>Pots:</strong> When doing Savage and Ultimates you’ll also want to use Pots (short for potions). These provide a limited window of a large boost in your main stat (strength for tanks) that makes your damage spike. These, when used optimally, can contribute a huge amount of DPS in a raid. Using them is something you may have to get used to and you will notice their timings marked in our openers above.<br>
-You should always use the highest grade of High Quality Strength pot.</p>
-<h1 id=best-in-slot>Best-In-Slot</h1>
-<h2 id=abyssos-savage>Abyssos Savage</h2>
-<p>Below is your best-in-slot. Before you ask, there is no best of the best. If one was universally better we would only list that one set. There are trade offs and benefits for each set and it comes down to what you want to run. Keep in mind not only do gear pieces change from set to set but melds and food as well.</p>
-<h4 id=gcd><strong>GCD:</strong></h4>
-<p><a href=https://etro.gg/gearset/1cdcf24b-af97-4d6b-ab88-dcfee79f791c>2.45</a><br>
-<a href=https://etro.gg/gearset/afa282c8-d5b9-41a8-8adf-aca95bc3de33>2.42</a></p>
-<p>Race Specific Bis:<br>
-Use if you are a Seeker of the Sun, Midlander, and Sea Wolf:
-<em>Why different BiS for race? - Because racial stats have a difference in strength that makes the double tome ring better for these races</em><br>
-<strong>GCD:</strong></p>
-<p><a href=https://etro.gg/gearset/1300c0c9-cf6b-474c-aba9-f1bfeb31976d>2.45</a><br>
-<a href=https://etro.gg/gearset/559c9e70-eeea-400d-a71f-7cb4ba304181>2.42</a></p>
 <h2 id=ultimates>Ultimates</h2>
-<p>Ultimates are timeless content due to their difficulty and rewards but are forced sync and cannot be done above their release level. This affects the gear you enter the encounter with, but is more lenient as all three past Ultimates' entry IL are far below our current standard. Food and Pots do not sync, but still have a soft cap so you don’t need the absolute top current food and pots for something like UCoB as its sync is relatively low. The relic from Shadowbringers is the best choice of weapon for previous Ultimates, But will require you to get it to at least the <a href=https://na.finalfantasyxiv.com/lodestone/playguide/db/item/3111076df9e/>Augmented Law’s Order</a> stage to assign substats. <a href=https://na.finalfantasyxiv.com/lodestone/playguide/db/item/b723d663158/>Blade’s Resolve</a> gives you more substat to work with but this realistically is of only benefit in TEA, as you’ll reach cap for the substats with Law’s Order in the other two Ultimates, as such unless you want to really optimize and push as much damage as you want for TEA, you can settle for Augmented Law’s Order. If you don’t want to grind the Blade’s Resistance Relic, you can use any weapon with optimal substats that exceed the encounter’s max IL. </p>
+<p>Ultimates are timeless content due to their difficulty and rewards but are forced sync and cannot be done above their release level. This affects the gear you enter the encounter with, but is more lenient as all three past Ultimates' entry IL are far below our current standard. Food and Pots do not sync, but still have a soft cap so you don’t need the absolute top current food and pots for something like UCoB as its sync is relatively low. The relic from Shadowbringers is the best choice of weapon for previous Ultimates, But will require you to get it to at least the <a href=https://na.finalfantasyxiv.com/lodestone/playguide/db/item/3111076df9e/>Augmented Law’s Order</a> stage to assign substats. <a href=https://na.finalfantasyxiv.com/lodestone/playguide/db/item/b723d663158/>Blade’s Resolve</a> gives you more substat to work with but this realistically is of only benefit in TEA, as you’ll reach cap for the substats with Law’s Order in the other two Ultimates, as such unless you want to really optimize and push as much damage as you want for TEA, you can settle for Augmented Law’s Order. If you don’t want to grind the Blade’s Resistance Relic, you can use any weapon with optimal substats that exceed the encounter’s max IL. <br>
+<br>
+The reason why The Manderville Relic (Stage I or Stage II) is an ideal substitute over the Asphodelos Gunblade for Dragonsong&rsquo;s Reprise is the fact both substats are capped. Even with 2xMelds on the Asphodelos Weapon, the substat total is still less. You do not need to meld the Manderville Weapon in this case as the melds will be ingored.</p>
 <p><strong>The Unending Coil of Bahamut (UCoB):</strong><br>
 IL Cap: 470<br>
 BIS: <a href=https://cdn.discordapp.com/attachments/541353216307232788/950220623873990656/unknown.png>UCoB/UWU Combination BIS</a><br>
 Relic Stat cap: 127</p>
 <p><strong>The Weapon’s Refrain (UWU):</strong><br>
 IL Cap: 500<br>
-BIS: UCoB/UWU Combination BIS<br>
+BIS: <a href=https://cdn.discordapp.com/attachments/541353216307232788/950220623873990656/unknown.png>UCoB/UWU Combination BIS</a><br>
 Relic Stat cap: 136</p>
 <p><strong>The Epic of Alexander (TEA):</strong><br>
 IL Cap: 595 <br>
-BIS: <a href=https://cdn.discordapp.com/attachments/541353216307232788/945234729865728030/unknown.png>2.40 GCD</a><br>
+BIS: <a href=https://cdn.discordapp.com/attachments/541353216307232788/945234729865728030/unknown.png>2.40</a><br>
 Relic Stat cap: 184</p>
 <p><strong>Dragonsong’s Reprise (DSW/DSR):</strong><br>
 IL Cap: N/A<br>
-BIS: <a href=https://etro.gg/gearset/88fbea7d-3b43-479c-adb8-b87c9d6cb5f9>2.40</a> </p>
+BIS Options: <a href=https://cdn.discordapp.com/attachments/541353216307232788/1062495701277343865/image.png>2.50</a>, <a href=https://media.discordapp.net/attachments/889729119867265095/1063214948420952155/image.png>2.40,</a> <a href=https://media.discordapp.net/attachments/889729119867265095/1063304909035946055/image.png>2.40 (22 STR Race).</a><br>
+Alt Weapon: Use Manderville Relic if you do not possess Ultimate Gunblade of the Heavens. <a href=https://etro.gg/gearset/88fbea7d-3b43-479c-adb8-b87c9d6cb5f9></a></p>
+<p><strong>The Omega Protocol (TOP):</strong><br>
+IL Cap: N/A<br>
+BIS Options: <a href=https://etro.gg/gearset/6eee20c5-a3a0-447a-8ed0-9f250c1a6daa>2.50</a>, <a href=https://etro.gg/gearset/e102cb6b-528b-43bb-99ac-f66146a857a2>2.42.</a><br>
+Alt Weapon: Use Abyssos Gunblade if you do not possess Ultimate Omega Bayonet.</p>
 <h2 id=special-thanks>Special Thanks</h2>
-<p>This guide was only possible with the help and support of the key members of the GNB Community. Special thanks to Rin Karigani, Bec, Krom and especially Torael Valdis who taught me to be the GNB I am today and all my victories are owed to him.</p>
+<p>This guide was only possible with the help of Krom Ulus for tireless theorycrafting as well as key members of the GNB Community and support of The Balance Staff.</p>
 </div>
 </div>
 </div>
@@ -1026,6 +740,10 @@ BIS: <a href=https://etro.gg/gearset/88fbea7d-3b43-479c-adb8-b87c9d6cb5f9>2.40</
 <div class="tab-content meta-content">
 <div>24 Sep, 2022</div>
 <div>Removed outdated content until guide is reworked and new info added.</div>
+</div>
+<div class="tab-content meta-content">
+<div>28 May, 2023</div>
+<div>Added 6.4 infographics. Adjusted information relative to 6.4 changes. Adjusted Ult BIS for DSR and TOP.</div>
 </div>
 </li>
 </ul>
