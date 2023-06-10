@@ -1,8 +1,8 @@
 ---
 title: Paladin Best in Slot (BiS)
 layout: bis
-patch: "6.3"
-lastmod: 2023-01-12T19:58:57.395Z
+patch: "6.4"
+lastmod: 2023-05-25T01:16:21.787Z
 changelog:
   - date: 2021-10-28T03:10:04.413Z
     message: Created page
@@ -14,24 +14,24 @@ changelog:
     message: Updated for 6.2
   - date: 2023-01-12T19:58:58.707Z
     message: Updated for 6.3
+  - date: 2023-05-25T01:16:23.309Z
+    message: Updated for 6.4
 bis:
   - type: gsheets
     description: Useful to put in your own gear options.
     name: Gear Sheet
     link: https://docs.google.com/spreadsheets/d/e/2PACX-1vQx37TZPpgIZ6Ld9S9V-rQ6hcTmuz8tuzzxg6D2w10loW8EXGTQrMKhj0vdany9UA9O7A1cLdQ8YutE/pubhtml
   - type: etro
-    description: 2.50 is PLD's preferred speed and the gearing for it is great, use this!
+    description: Best-in-Slot gear for Anabaseios (Savage)
+    link: https://etro.gg/gearset/3a2d77ff-57e1-434d-b1da-72a7d4f44944
+    name: 2.50 Baked Eggplant
+  - type: etro
+    description: |-
+      \*Not updated for 6.4 food
+
+      If you have the ultimate weapon, add a Direct Hit meld.
     link: https://etro.gg/gearset/3e6864e6-ea46-402d-96a2-3fe07bb2506b
-    name: 2.50 Carrot Pudding
-  - type: etro
-    description: Will perform worse than the 2.50 set, provided for completeness.
-    name: 2.45 Sunset Carrot Nibbles
-    link: https://etro.gg/gearset/0c8ba3f0-efe4-453f-9b38-16745a11a7b5
-  - type: etro
-    description: Will perform worse than the 2.50 set, provided for completeness.
-      For high latency, use the 2.50 set.
-    name: 2.42 Sunset Carrot Nibbles
-    link: https://etro.gg/gearset/8361ed48-9503-449b-9e6c-f446dc8b0382
+    name: 2.50 Omega Weapon (Oltimate)
   - type: sleepyshiba
     description: Omit a Direct Hit meld on the weapon if you do not have it.
     link: https://xiv.sleepyshiba.com/pld/sets/607dsr63.png
