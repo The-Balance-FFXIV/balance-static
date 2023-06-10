@@ -2,13 +2,15 @@
 title: Red Mage Openers
 authors:
   - Balance-RDM-Staff
-patch: "6.2"
-lastmod: 2021-12-27T00:11:44.954Z
+patch: "6.4"
+lastmod: 2023-06-10T03:35:34.304Z
 changelog:
   - date: 2021-10-26T01:26:40.899Z
     message: Created page
   - date: 2021-12-27T00:11:45.529Z
     message: Updated for Endwalker
+  - date: 2023-06-10T03:35:34.874Z
+    message: No changes, updated patch number
 ---
 ![](/img/jobs/rdm/rdm_ew_opener.png)
 
