@@ -12,6 +12,9 @@ changelog:
     message: Moved everything from the Basic guide that needs to be here.
   - date: 2023-03-06T14:29:48.655Z
     message: Added Macromania.
+  - date: 2023-06-11T15:12:35.402Z
+    message: Updated Macromania section. Added The Nuclear Option and adjusted
+      Mouseover Macroed GCDs section.
 ---
 # Advanced Monk Gameplay Techniques: Reaching Enlightenment
 
@@ -220,7 +223,7 @@ The last place where the macro queue was truly helpful was the mythical “rippl
 
 (non-macroed farthest person away clip: <https://streamable.com/sl7cce>) 
 
-**Addendum: The \<t>echnology**
+**Addendum: The <t>echnology**
 
 Thanks to the efforts of Nyan Pls, there is now another application of the macro queue. It turns out that adding <t> to a /ac line will force you to have a target in order to execute the action.
 
@@ -231,8 +234,6 @@ This means that, for example, if you hold tab and spam a 14-line /ac Rockbreaker
 Now that you understand how macro queuing works thanks to the last section, we can now lessen the burden of chakra as a mechanic.
 
 ![](/img/jobs/mnk/6_meditation-macro-lines.png)
-
-
 
 If you’ve played Monk, you’ve definitely felt a sort of “clunkiness” when it came to mashing your Forbidden Chakra button during Brotherhood. That awkwardness can be blamed on the fact that you can’t queue TFC when not at 5/5 chakra. There’s another problem too: mashing too hard on a late chakra proc and queuing a Meditation instead. This is because of how long the 0.5s action queue is compared to Mediation and TFC’s shared 1s recast time.
 
@@ -272,6 +273,12 @@ If you refuse to use AutoHotkey and are too poor to buy compressed air, a worthy
 
 One of the downsides of chakra automation would be the situation of planning to late-weave an action during Brotherhood and getting a mid-weave 5/5 chakra. Realistically, the only time where a late-weave would be “required” while already inside Brotherhood would be unfortunate Riddle of Wind or Feint timing. Otherwise, usual chakra prediction methods and late queuing of normal oGCDs still apply even in the world of automated chakra and high speed mousewheel gaming.
 
+### The Nuclear Option
+
+ReAction has a configuration setting for enabling turbo hotbar keybinds. The usage of which allows you to spam a particular keybind with a certain millisecond delay between presses as long as you hold the button down. While this does allow you to reach the same effect of queueing 5/5 chakra during Brotherhood it does not fix the problem of accidental meditation usage in uptime—proper usage of this feature requires you to either sunder chakra or use a macro. The results are frightening: by simply holding down your chakra keybind while pressing your other buttons any and all TFC casts during Brotherhood are automatically dealt with. Your hands free and safe from the threat of carpal tunnel due the requirement of having to press chakra 10 times per second at 140 fps being abolished.
+
+Personally I’m against the usage of this feature. Automating your own inputs to this degree feels a little too close to botting, however I cannot deny that in the long run your hands will thank you. Ethical considerations aside, the end result of queued chakra is exactly the same. How you get there, whether it’s through the 1500 line macro chain or dual macrochakra binds on separate buttons, is entirely up to you.
+
 ## Mouseover Macroed GCDs & Application Delay Adjustment
 
 Another wacky application of macros is exploiting how a mouseover action can execute a weaponskill on a target without queuing an auto, allowing you to delay your first damage application.
@@ -306,55 +313,17 @@ While this tech does apply to every job’s first gcd, a given job has to have a
 
 Not all parties are created equally of course, and finding yourself paired with a machinist early pull demon who presses Air Anchor at -1.2s which pulls the boss 0.76 seconds later due to machinist auto attack application delay might be inevitable. If an exorcism isn’t viable, consider adjusting your own application delay adjustment to be for their first damage application (in the case of the machinist demon, a -1.73 Dragon Kick to be in line for their first auto application at -0.44)
 
-### The FFLogs Discrepancy 
+### The FFLogs Accord
 
-However there is a problem that makes mouseover macroed GCDs wholly worthless in most scenarios if you care about your funny FFLogs number: the discrepancy between when boss aggro is initiated and when FFLogs decides to start a log.
+Starting in patch 6.4, FFlogs has changed from starting fights at first prepares to starting fights at initial boss aggro. Previously, a -1.29s Dragon Kick would just end up adding 1.29 seconds to the fight time, meaning that it was wholly worthless outside of situations where you could 100% gain an extra gcd before downtime.
 
-![](https://lh4.googleusercontent.com/WQIq4dzCo7L_jdDJiApVB1lzMMgi4ZQ1sgL53rnKNYwgEwz-1z5YfRNcDVrE92dR9sRQavYApqnINjM60VwnUuP-DTFV0TftX7RjmIC_7UKmdQIGyQwSM7A7LaWGeXcsNTHcn642WoOIak4h1PJ0K-g)
+![Screenshot of FFLogs events tab](/img/jobs/mnk/image-1-.png "He did not queue auto")
 
-In the log snippet above, resident monk player Mister Andy Lee does a perfectly executed mouseover macro DK and lines up his first damage application with when the countdown hits zero. Notice how it is not the damage application of his first cast at the timestamp 00:00.000, but rather the cast of his first instance of damage application. This means that if you do execute application delay perfectly, any time that you “gained” from a delayed application just gets added to the log anyway. Not to mention that because of the delayed auto application, there is a chance that you will lose autos versus if they had just queued with your first weaponskill. 
-
-“the dead zone”
-
-![](https://lh4.googleusercontent.com/zWFY7VHrbYAHU2gF7lUysp2y18CDhRy1O-WC_Ps-YvDY6SUK44GVhaI9HAt9rVfn2t6LcLH5U-Ila7U9EfTjTaHF151txtbvA8KcdkgbtLzoyfhLr9FshKWqW4M5uz3-tZJz8GIBhM86Ht6O4T3_69M)
-
-With this “dead time” in mind, if you’re not gaining an extra GCD because of the tech, you are only going to lose DPS from both missed autos and a very slightly longer encounter time. This is of course, only for FFLogs: in-game enrage timer is based off of initial boss aggro time–you can only stand to gain from this tech if we’re strictly looking at how much damage you can do before the boss enrages. 
-
-This also means that in an organized party setting, in order to remove as much “dead time” as possible, every single player would ideally just sync up their casts instead–pressing weaponskills as close to 0s as possible and precasting spells such that casts finish immediately at 0s. While this is definitely not as cool as reverse rippling, it’ll ensure that you don’t get almost a full second added to your speed kill because of a goblin Black Mage.
-
-Note that Khira, the creator of FFLogs has identified this as an issue and plans to fix it eventually™. When fixed, this means that application delay adjustment will hopefully have no downsides, as logs would start at initial boss aggro.
+Now, any prepare lines that happen before the initial boss aggro are not counted towards the encounter time. However do note that currently this seemingly only applies to actual clear logs. Wipe logs will still have the old behaviour.
 
 ### Applications for Monk
 
-Now you might be wondering what applications of mouseover macro technology exist. The short answer is that there are almost none. 🙂
-
-You have to consider that this is only applicable to bosses where you can start in melee range without pulling the boss. In addition, because of FFLogs behaviour it’s only ever a 100% gain if you can guarantee an extra GCD through the use of this tech. Also, because of the “in-combat” state being so delayed relative to your GCD spin because of the longer first application time, Perfect Balance will be impossible to weave before your 2nd weaponskill without clipping: standard double solar and solar lunar openers will be impossible to execute. Despite these three factors weighing heavily on the viability of a mouseover macro DK, there are still situations in the current tier where you can gain from it.
-
-#### Hephaistos II
-
-On Monk, the only instance where you stand to definitely gain a GCD from this is in P8P2. There, after using a macroed mouseover Dragon Kick, you can gain one (1) GCD before Mr. Hephaistos Two from FFLogs leaves for the first High Concept:
-
-“the illustrious hc1 sss”
-
-![](https://lh6.googleusercontent.com/sxmNErEDro464rde45krKneN0WxfH89qCtcP7xYDoUro6UXBrttCmmtF5xRom5eo7VK_JB5dcXiE5hm52NdfjJCHinrTuV3CDdddz0ddapDlf7R5gb_DpnQ34PiLxbm2ktgaccf1vSjFsFfU6j0iyxg)
-
-The top timeline has a Dragon Kick as the first damage application at ~1.29, and the bottom timeline has a Dragon Kick application that is more in line with a non-application delay adjustment button presser. If the below timeline had instead gone for an extra filler Dragon Kick before the Six-Sided Star, their Six-Sided Star would have surely ghosted (in this case, they started so late that the cast wouldn’t have gone off in the first place). By starting with a mouseover macroed DK, the top timeline assures that they get a small window to cast their final SSS without ghosting.
-
-At 1.94 the window to hit this GCD is about 0.26s (varying based on packet memes): if your damage application isn’t what’s pulling the boss or if you clip in the slightest then it’ll be impossible to hit. While switching to 1.93 would make this window much larger, the effort exerted in remelding to 1.93 would be much more than simply learning how to better execute the window.
-
-#### Agdistis
-
-The other, more questionable use of mouseover macroed Dragon Kick is in P7S. Using it allows you to opt for a Six-Sided Star cast in the place of a Twin Snakes for the GCD immediately before the first Immortal’s Obol cast (the first knockup). However, it requires 1.93 in order to not clip your post knockup GCD with SSS recast by ~0.3 seconds:
-
-“one-point-nine tree”
-
-![](https://lh6.googleusercontent.com/UmNHQf41L98MUp5ZpXVyisYx4ZAKz1nx-qbIgySNofvyeR62zKEp7KaxlbgNHjoy9cjcHaFGfxBazIvyaPZUmA7egl3MKiDiUo--VUOBMkPQYdl-nj1wOSN_8WSypB3XfZW7TqRcloYXbRI-UXODark)
-
-The top timeline has a mouseover macro DK start, and the bottom is just a normal start. Notice that considering the GCD alignment of the bottom timeline, a Six-Sided Star in place of the Twin Snakes would have surely clipped their post knockup Snap Punch. The top timeline, with their GCD roll accelerated relative to boss mechanics because of their mouseover macro Dragon Kick opening, can manage to get this Six-Sided Star cast without any clip at all on their post knockup Twin Snakes.
-
-While this definitely seems like a gain in the ballpark of ~270 potency, because of the added FFLogs encounter time due to the application delay of DK, along with how a SSS drifts your Demolish timings, you’d have to see for a given killtime if doing this is even a gain. If in doubt, completely ignore this tech and just do a normal, very slightly early DK to ensure you get the pre-knockup Twin.
-
-<!--EndFragment-->
+Realistically, a mouseover macro Dragon Kick can be used on any fight where you start within melee range of the boss. In Anabaseios, this includes Pandaemonium and Pallas Athena. Both are rather boring full uptime wall bosses so the actual effects of a mouseover macroed start will be left as an exercise for the reader.
 
 ## Sub-90 Play
 
