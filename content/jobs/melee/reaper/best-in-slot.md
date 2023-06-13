@@ -1,7 +1,7 @@
 ---
 title: Reaper Best-in-Slot
 layout: bis
-patch: "6.3"
+patch: "6.4"
 lastmod: 2023-03-11T01:23:35.108Z
 changelog:
   - date: 2022-01-02T23:10:40.632Z
@@ -14,38 +14,35 @@ changelog:
     message: "Updated sets for patch 6.3. "
   - date: 2023-03-11T01:24:05.973Z
     message: Updated Pre-Savage gear section with 6.35 gear.
+  - date: 2023-05-30T14:54:03.101Z
+    message: Updated sets for patch 6.4.
 bis:
   - type: etro
     description: BiS built around a 2.49s GCD. The damage difference between this
-      set and the 2.5s GCD set will be almost unnoticeably worse. A 2.49s GCD
-      means Arcane Circle will only drift .12-.13 seconds every two minutes
-      potentially allowing for better raid alignment. This is currently our
-      recommended option.
+      set and the 2.5s GCD set will be almost unnoticeably worse. This set does
+      not share perfect compatibility with DRG. You can swap the DH melds on the
+      chest to DET to have perfect compatibility with DRG for a minor single
+      digit DPS loss (estimated at ~4 dps). A 2.49s GCD means Arcane Circle will
+      only drift .12-.13 seconds every two minutes potentially allowing for
+      better raid alignment. This is currently our recommended option.
     name: 2.49 BiS
-    link: c293f73b-5c58-4855-b43d-aae55b212611
+    link: 3c8ec7ad-ccfc-42ce-a129-13bd032e2220
   - type: etro
-    description: BiS built around have a 2.5s GCD. The best option for our personal
+    description: BiS built around have a 2.5s GCD. This Set shares full
+      compatibility with the 2.5s GCD DRG set. The best option for our personal
       damage by a slight margin but at 2.5s Arcane Circle will drift .5s every
       two minutes. This could cause problems with alignment or fight specific
       needs.
     name: 2.5 GCD BiS
-    link: 00b6b315-5807-4238-9164-428ab3dedeaa
+    link: dbedcbfc-21d0-420c-9c91-ed2e946adbe4
   - type: etro
-    description: >-
-      **The above gear set is only an example, there are tons of options!**\
-
-      \
-
-      6.3 introduces two new sources of 620 gear and a new 625 weapon. As such it is extremely easy to get at least ilvl 620. Because there are now so many options, pick what is easiest/most affordable for you to get. When choosing between items of the same item level, prioritize items that do not have skill speed where possible. Remember when spending tomes to **buy BiS tome pieces first**. Upgrade the tome pieces with the Alliance Raid tokens and fill in the rest of the pieces with 620 augmented crafted or Alliance Raid pieces until you can get the BiS pieces. If you are not doing savage, just grab the highest ilvl pieces available, which will mean eventually getting all tome pieces and upgrading them to 630 using Alliance Raid tokens. \
-
-      \
-
-      6.35 update: 630 Amazing Manderville weapon is better than the 630 Augmented Lunar Envoy weapon, but is not better than the 635 Abyssos weapon due to item level. 
-
-
-      If you want to know specific differences between pieces, consult the Gear Planner as it will heavily depend on what the rest of your gear is!
+    description: This is a good set to start with if you plan to go into the
+      Anabaseios savage tier. This is one of three possible sets that you can go
+      for. The set shown above only features the crafted set with one normal
+      raid piece. The normal raid earring beats the crafted set earring if the
+      latter is not pentamelded.
     name: What to wear before getting savage BiS?
-    link: 26c25264-bc83-47f7-8162-b8080c63f8e9
+    link: b377ab03-2327-4fef-b2df-e8c53b5b858b
   - type: etro
     description: >-
       If using the scythe from DSR, meld two Direct Hit X's and one
