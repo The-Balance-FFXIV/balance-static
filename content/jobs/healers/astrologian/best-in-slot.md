@@ -10,17 +10,17 @@ bis:
   - type: etro
     description: "This set is for if you aren't raiding with a bard or you don't
       know what you'll be raiding with. "
-    link: https://etro.gg/gearset/83845599-bb32-4539-b829-971501856d7e
+    link: 83845599-bb32-4539-b829-971501856d7e
     name: '":yuricry:" (2.34) - if you do not raid with a BRD '
   - type: etro
     description: The DH buff from BRD makes this set better than the other, it's
       suggested to use the non-BRD set if you're doing pugs.
     name: March 7th (2.33) - if you do raid with a BRD
-    link: https://etro.gg/gearset/4da0c670-21b4-4f5e-8594-bb9cc311074e
+    link: 4da0c670-21b4-4f5e-8594-bb9cc311074e
   - type: etro
     description: This set is for people who are more comfortable with slower sets.
     name: Rampardos Theorem
-    link: https://etro.gg/gearset/60d1fcc9-8a2e-4e68-8205-f8b25a9de39a
+    link: 60d1fcc9-8a2e-4e68-8205-f8b25a9de39a
   - type: etro
     description: You can find these and other sets listed with their dps in the SGE
       gear calc. Please don't leave the master sheet open as it causes slowdown
@@ -30,6 +30,7 @@ bis:
     name: AST dmg calc
 authors:
   - Ahriqi
+  - Balance-AST-Staff
 ---
 # 5.5 AST BiS SETS
 
