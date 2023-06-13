@@ -21,6 +21,10 @@ bis:
     description: This set is for people who are more comfortable with slower sets.
     name: Rampardos Theorem
     link: https://etro.gg/gearset/60d1fcc9-8a2e-4e68-8205-f8b25a9de39a
+  - type: etro
+    description: ""
+    link: https://bit.ly/astdmgcalc
+    name: AST dmg calc
 authors:
   - Ahriqi
 ---
