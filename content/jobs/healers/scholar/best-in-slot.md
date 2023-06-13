@@ -33,6 +33,10 @@ bis:
       GCD and min Piety. 2.31 gives it good Chain and Bio alignment. "
     link: https://etro.gg/gearset/4c241674-2c6e-42aa-a390-5e5ac29b9ab5
     name: 2.31 min pi sps BiS
+  - type: etro
+    description: ""
+    name: sch dmg calc
+    link: "https://bit.ly/Healer-Gear "
 authors:
   - Balance-SCH-Staff
 tags:
