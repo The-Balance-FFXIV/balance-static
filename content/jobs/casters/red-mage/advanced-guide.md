@@ -5,13 +5,15 @@ authors:
   - argen
   - lana
   - Balance-RDM-Staff
-patch: "6.2"
-lastmod: 2022-02-19T17:16:11.933Z
+patch: "6.4"
+lastmod: 2023-06-10T03:36:15.055Z
 changelog:
   - date: 2021-10-26T01:30:02.246Z
     message: Created page
   - date: 2022-02-19T17:16:13.628Z
     message: Updated for Endwalker
+  - date: 2023-06-10T03:36:15.783Z
+    message: No changes, updated patch number
 ---
 # 6.X Red Mage Advanced Optimization Guide
 
