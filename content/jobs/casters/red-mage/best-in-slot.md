@@ -1,8 +1,8 @@
 ---
 title: Red Mage Best in Slot (BiS)
 layout: bis
-patch: "6.2"
-lastmod: 2022-08-30T00:46:05.806Z
+patch: "6.4"
+lastmod: 2023-06-10T03:37:41.426Z
 changelog:
   - date: 2021-10-26T01:30:27.164Z
     message: Created page
@@ -12,19 +12,24 @@ changelog:
     message: Updated with post-savage release BiS
   - date: 2022-05-22T22:58:35.645Z
     message: Updated with note regarding DSR weapon melding.
+  - date: 2023-06-10T03:37:29.042Z
+    message: Added patch 6.4 savage BiS and BiS set for TOP.
 bis:
   - type: etro
-    description: Use with Carrot Pudding HQ as indicated in the Etro.
-    name: ilvl 630 2.48 Savage BiS
-    link: 5f972eb8-c3cd-44da-aa73-0fa769957e5b
+    description: |-
+      Food: Baked Eggplant HQ 
+
+      Potion: Grade 8 Tincture of Intelligence HQ
+    name: ilvl 660 2.48 Savage BiS
+    link: https://etro.gg/gearset/6d7a091d-52f5-49ec-9b2e-d7b1d4c45733
+  - type: etro
+    description: If using the TOP weapon, meld three DET.
+    name: ilvl 630 2.48 The Omega Protocol BiS
+    link: https://etro.gg/gearset/5f972eb8-c3cd-44da-aa73-0fa769957e5b
   - type: etro
     description: Use three DH melds if using Ultimate weapon.
     name: ilvl 600 2.48 Dragonsong's Reprise BiS
     link: 80fdec19-1109-4ca2-8172-53d4dda44144
-  - type: etro
-    description: ""
-    name: Pre-Savage 2.47s raid set
-    link: 140edcbc-be35-4bae-8c4b-2bbcc513e4b0
 authors:
   - Balance-RDM-Staff
 tags:
