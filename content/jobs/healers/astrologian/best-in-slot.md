@@ -1,90 +1,36 @@
 ---
 title: Astrologian Best in Slot (BiS)
 layout: bis
-patch: "6.3"
-lastmod: 2023-01-19T04:55:35.842Z
+patch: "6.4"
+lastmod: 2023-06-13T07:33:45.913Z
 changelog:
-  - date: 2021-10-26T21:05:27.755Z
-    message: Article Created.
-  - date: 2022-02-14T05:31:40.938Z
-    message: Updated for Endwalker
-  - date: 2022-09-17T22:46:47.690Z
-    message: Updated for 6.2
-  - date: 2023-01-19T04:55:44.909Z
-    message: Updated DSR sets
+  - date: 2023-06-13T07:33:46.627Z
+    message: Updated for 6.4
 bis:
   - type: etro
-    description: >-
-      With the advent of Crit finally outscaling Spell Speed... We still are in
-      a position to stack a LOT of Spell Speed. Even when we optimize to
-      minimize Piety and maximize Crit, we have lots of leftover melding slots,
-      and we pick between Spell Speed, and Direct Hit. In terms of damage, the
-      choice between these two is blatantly clear, as Spell Speed is more
-      multiplicative while Direct Hit is more linear. This set is the maximum
-      damage possible regardless of whether you crave variance or not.
-
-
-      Be wary of the MP economy of this one, it is a bit hefty. If you are concerned about your mana despite playing AST, the easiest upgrade is to take a Tome ring instead. We have a set for this.
-
-
-      2.31 is an awkward GCD that has some pretty poor Star and Minor Arcana drift, but it will not cause either to drift out of buffs or cause a lost usage in almost all cases. Divination is fine at 2.31. 
-
-
-      This set is identical to the SCH max-damage BiS, and will work fine for anyone playing SCH as well.
-    name: '"Fresh bizza" (Crafted) 2.31GCD'
-    link: https://etro.gg/gearset/64a6dfe2-a91e-455a-a24b-cc41cf71f9c4
+    description: "This set is for if you aren't raiding with a bard or you don't
+      know what you'll be raiding with. "
+    link: 83845599-bb32-4539-b829-971501856d7e
+    name: '":yuricry:" (2.34) - if you do not raid with a BRD '
   - type: etro
-    description: >-
-      This is the Tome variant of the "fresh bizza" set above. Slightly better
-      mana economy, slightly different melds.
-
-
-      This should be the set all 2.31 users should have on hand for the expected 6.3 Ultimate (essentially, make sure you have a Tome ring ready for that encounter).
-    name: '"Outpizza the Hut" (Tome) 2.31GCD'
-    link: https://etro.gg/gearset/a2201358-04ad-4b07-81e4-003a514f0694
+    description: The DH buff from BRD makes this set better than the other, it's
+      suggested to use the non-BRD set if you're doing pugs.
+    name: March 7th (2.33) - if you do raid with a BRD
+    link: 4da0c670-21b4-4f5e-8594-bb9cc311074e
   - type: etro
-    description: >-
-      As the name would suggest, this is a set that is more tailored towards
-      being an "omni-healer" set. It meshes a bit better with all the other
-      healers, particularly SGE. Instead of prio-melding Spell Speed, this set
-      will replace a bunch of SpS melds for less-desirable Direct Hit in order
-      to slow down the GCD to reach 2.40.
-
-
-      This set has *mildly* better mana economy, but that is largely irrelevant.
-    name: '"healing is fun" (Crafted) 2.40GCD'
-    link: https://etro.gg/gearset/ffe41e05-d7df-4111-a3e6-1c16e1dd885c
+    description: This set is for people who are more comfortable with slower sets.
+    name: Rampardos Theorem
+    link: 60d1fcc9-8a2e-4e68-8205-f8b25a9de39a
   - type: etro
-    description: >-
-      The tome variant of the above "healing is fun" set. Slightly better mana
-      economy, slightly different melds.
-
-
-      This should be the set all 2.40 users should have on hand for the expected 6.3 Ultimate (essentially, make sure you have a Tome ring ready for that encounter).
-    name: '"Puddingway" (Tome) 2.40GCD'
-    link: https://etro.gg/gearset/0fa5f146-9133-4349-a3ee-969a042e88b9
-  - type: etro
-    description: >-
-      A go-to mid Piety range set for those that are in situations that, for
-      whatever the reason, they feel they need more Piety than a Tome ring set
-      can provide. It replaces the tome gloves with Abyssos gloves.
-
-
-      This set should not have any mana issues at all in any situation, barring extreme examples.
-    name: Crit Scales Copium
-    link: https://etro.gg/gearset/533e13de-7ce4-4183-9304-3cfa2b7a92b5
-  - type: etro
-    description: This set is for if you're progging the fight it'll help recover any
-      major mistakes.
-    name: DSR progging set
-    link: " https://etro.gg/gearset/23747f65-9353-4477-ba13-b4a04e32d584"
-  - type: etro
-    description: This set is for people who have cleared and want to do more
-      optimiation. Avoid this set if you're progging and using a 322 p7 strat.
-    name: DSR 611 opti set
-    link: " https://etro.gg/gearset/a8ad0cdd-7267-4a8c-aeee-5978e5843e53"
+    description: You can find these and other sets listed with their dps in the SGE
+      gear calc. Please don't leave the master sheet open as it causes slowdown
+      when many people have the same sheet open. You can Make a Copy of the
+      sheet from the File menu.
+    link: https://bit.ly/astdmgcalc
+    name: AST dmg calc
 authors:
   - Ahriqi
+  - Balance-AST-Staff
 ---
 # 5.5 AST BiS SETS
 
