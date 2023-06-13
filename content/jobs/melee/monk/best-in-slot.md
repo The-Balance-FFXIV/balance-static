@@ -2,7 +2,7 @@
 title: Monk Best in Slot (BiS)
 layout: bis
 patch: "6.3"
-lastmod: 2023-02-26T16:04:20.500Z
+lastmod: 2023-05-24T22:26:31.440Z
 changelog:
   - date: 2021-10-28T03:54:36.354Z
     message: Created page
@@ -10,31 +10,17 @@ changelog:
     message: Updated for Endwalker
   - date: 2022-06-11T02:21:44.077Z
     message: Small update
+  - date: 2023-05-24T22:26:32.442Z
+    message: Updated for 6.4 BiS.
 bis:
   - type: etro
     description: Compatible with 2.14 GCD Samurai
-    name: Abyssos Baghnakhs - 1.94 GCD
-    link: 3ab677f7-9934-4578-aa3f-553344d35421
+    name: 1.94 GCD
+    link: cc22e1aa-6d78-4ffe-bc53-e8466373b6bc
   - type: etro
     description: ""
-    name: Abyssos Baghnakhs - 1.93 GCD
-    link: 53ef792e-7e35-4ff4-80f2-476e646cd986
-  - type: etro
-    description: Compatible with 2.15 GCD SAM, 1 DPS lower than other 1.94 set.
-    name: Abyssos Baghnakhs - 1.94 GCD (2.15 SAM)
-    link: 337dbe69-cce9-4b33-9f04-92554b729e2e
-  - type: etro
-    description: Compatible with 2.15 GCD Sam, 1 DPS higher than the other 1.94 set.
-    name: Ultimate Omega Knuckles - 1.94 (2.15 Sam)
-    link: https://etro.gg/gearset/94b0e68d-1d6f-41c0-b994-00e2fd93e3e1
-  - type: etro
-    description: ""
-    name: Ultimate Omega Knuckles - 1.94
-    link: https://etro.gg/gearset/3894e8b8-b2d6-4540-9911-f353c6aa45aa
-  - type: etro
-    description: ""
-    link: https://etro.gg/gearset/eb521ba4-b99b-47d0-bb2a-bdb30ea5f2ef
-    name: Ultimate Omega Knuckles - 1.93
+    name: 1.93 GCD
+    link: aacac26e-56b3-4341-95ff-2ae0cc97e233
   - type: gsheets
     description: ""
     name: Ultimate/Unreal Sets
