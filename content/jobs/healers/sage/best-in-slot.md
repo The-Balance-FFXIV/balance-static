@@ -1,50 +1,34 @@
 ---
 title: Sage Best in Slot
 layout: bis
-patch: "6.2"
-lastmod: 2022-09-18T18:41:08.451Z
+patch: "6.4"
+lastmod: 2023-06-13T07:36:40.394Z
 changelog:
-  - date: 2022-01-24T07:07:39.406Z
-    message: Created page
-  - date: 2022-04-10T18:24:27.590Z
-    message: DSW prog BiS update
+  - date: 2023-06-13T07:36:31.670Z
+    message: Updated for 6.4
 bis:
   - type: etro
-    description: Highest damage set for optimized play.
-    name: 6.2 Crafted Ring, DH
-    link: 80bec2f5-8e9e-43fb-adcf-0cd7f7018c02
+    description: Identical to WHM's 2.45. This is the overall best option for DPS if
+      Piety is not a concern.
+    name: 2.45 We gave you up (no piety)
+    link: "efc239cb-6371-4d1e-b645-8dd7600575b5 "
   - type: etro
-    description: Compared to the DH set, this set has .2% less damage, but about 3%
-      higher healing.
-    name: 6.2 Crafted Ring, Det
-    link: a38499b0-25d9-4397-8c15-ec9fe1765227
+    description: This set is slightly slower and has more Piety. This should fix any
+      MP economy issues you may be having.
+    name: 2.46 Maybe let you down (mid-pi)
+    link: d5b50da5-a8e9-4ba0-9f2e-32f1c36ee8b4
   - type: etro
-    description: Slightly higher vitality and better MP economy compared to crafted
-      ring sets, at the cost of about 0.5% less damage.
-    link: 39c93c65-e049-4d2c-9439-4812499f6acc
-    name: 6.2 Tome Ring, Det
+    description: With even more Piety and a slower GCD, this set should give you no
+      problems with MP.
+    name: 2.47 Probably Ran Around (higher piety)
+    link: ae3151cd-68b8-4cc5-b03b-a195ed80cb4b
   - type: etro
-    description: Gains about .02% DPS over the Det equivalent above, at the cost of
-      about 1% healing.
-    name: 6.2 Tome Ring, DH
-    link: 87d29e07-c56d-408f-858b-8394711a6740
-  - type: etro
-    description: "Provides less damage and healing, but more piety for safety. "
-    name: 6.2 More Piety Set
-    link: e1182236-e00e-49ed-a606-0a27e1daa721
-  - type: etro
-    description: "Provides unnecessary amounts of piety. "
-    link: 89a8ea05-b590-42e9-9b02-152b97e35c4c
-    name: 6.2 Even More Piety Set
-  - type: etro
-    description: This set sacrifices some piety for damage but should still provide
-      enough MP to cover most prog situations.
-    name: 2.50 GCD, Mid Piety DSW prog set
-    link: " https://etro.gg/gearset/187bf763-fae2-465f-9f20-25d8415c88bc"
-  - type: etro
-    description: This set provides a ton of extra MP for raises and GCD heals.
-    name: 2.50 GCD, High Piety DSW prog set
-    link: https://etro.gg/gearset/0787dd69-6899-4dc1-b7df-668943de9805
+    description: You can find these and other sets listed with their dps in the SGE
+      gear calc. Please don't leave the master sheet open as it causes slowdown
+      when many people have the same sheet open. You can Make a Copy of the
+      sheet from the File menu.
+    name: SGE dmg calc
+    link: http://bit.ly/sgegearcalc
 authors:
   - Balance-SGE-Staff
 ---
