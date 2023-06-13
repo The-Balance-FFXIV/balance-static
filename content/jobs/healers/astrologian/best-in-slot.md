@@ -22,7 +22,10 @@ bis:
     name: Rampardos Theorem
     link: https://etro.gg/gearset/60d1fcc9-8a2e-4e68-8205-f8b25a9de39a
   - type: etro
-    description: ""
+    description: You can find these and other sets listed with their dps in the SGE
+      gear calc. Please don't leave the master sheet open as it causes slowdown
+      when many people have the same sheet open. You can Make a Copy of the
+      sheet from the File menu.
     link: https://bit.ly/astdmgcalc
     name: AST dmg calc
 authors:
