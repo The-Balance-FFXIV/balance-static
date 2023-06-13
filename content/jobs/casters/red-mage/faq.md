@@ -1,13 +1,15 @@
 ---
 title: Red Mage FAQ
 layout: qna
-patch: "6.2"
-lastmod: 2021-12-27T00:15:08.098Z
+patch: "6.4"
+lastmod: 2023-06-10T03:35:53.350Z
 changelog:
   - date: 2021-10-26T01:27:20.609Z
     message: Created page
   - date: 2021-12-27T00:15:08.804Z
     message: Updated for Endwalker
+  - date: 2023-06-10T03:35:53.926Z
+    message: No changes, updated patch number
 qna:
   - question: How should I use Manafication?
     answer: You should be using Manafication on cooldown, or as close to on cooldown
