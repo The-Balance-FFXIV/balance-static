@@ -33,12 +33,12 @@ bis:
     link: 4c241674-2c6e-42aa-a390-5e5ac29b9ab5
     name: 2.31 Min-Pi SpS BiS
   - type: etro
-    description: You can find these and other sets listed with their dps in the SGE
+    description: You can find these and other sets listed with their dps in the SCH
       gear calc. Please don't leave the master sheet open as it causes slowdown
       when many people have the same sheet open. You can Make a Copy of the
       sheet from the File menu.
     name: sch dmg calc
-    link: "https://bit.ly/Healer-Gear "
+    link: https://bit.ly/SCHDMGCalc
 authors:
   - Balance-SCH-Staff
 tags:
