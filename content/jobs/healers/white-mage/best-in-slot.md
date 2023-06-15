@@ -33,6 +33,13 @@ bis:
       bit of extra cushion for pf parties
     link: https://etro.gg/gearset/45c7391c-cd9d-4247-8047-c190d1fedacc
     name: 2.38 GCD | Hurt You (low piety)
+  - type: etro
+    description: "You can find these and other sets listed with their dps in the WHM
+      gear calc. Please don’t leave the master sheet open as it causes slowdown
+      when many people have the same sheet open. You can Make a Copy of the
+      sheet from the File menu. "
+    link: "https://bit.ly/WHMGearCalc "
+    name: WHM DMG Calc
 authors:
   - Balance-WHM-Staff
 ---
