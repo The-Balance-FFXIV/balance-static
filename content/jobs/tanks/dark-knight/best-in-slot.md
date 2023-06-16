@@ -2,7 +2,7 @@
 title: Dark Knight Best in Slot (BiS)
 layout: bis
 patch: "6.4"
-lastmod: 2023-01-19T04:44:40.169Z
+lastmod: 2023-06-16T16:59:30.006Z
 changelog:
   - date: 2021-10-27T17:45:00.078Z
     message: Added
