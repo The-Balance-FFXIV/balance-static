@@ -13,6 +13,9 @@ changelog:
   - date: 2022-09-19T08:20:38.279Z
     message: Updated for 6.20/6.21 --- added in new BiS, and marked 6.1 sets as for
       ultimate.
+  - date: 2023-06-16T08:07:35.808Z
+    message: Updated for 6.4 --- added new BiS sets for 6.4 and for Dragonsong
+      Ultimate, marked 6.2 sets as old.
 bis:
   - type: etro
     description: The generally recommended set for 6.4 content.
