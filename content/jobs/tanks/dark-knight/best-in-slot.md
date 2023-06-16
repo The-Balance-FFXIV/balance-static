@@ -1,7 +1,7 @@
 ---
 title: Dark Knight Best in Slot (BiS)
 layout: bis
-patch: "6.3"
+patch: "6.4"
 lastmod: 2023-01-19T04:44:40.169Z
 changelog:
   - date: 2021-10-27T17:45:00.078Z
@@ -15,6 +15,26 @@ changelog:
       ultimate.
 bis:
   - type: etro
+    description: The generally recommended set for 6.4 content.
+    name: 6.4 2.50 GCD set
+    link: dcd2eb34-7c43-4840-a17b-2eb790f19cf4
+  - type: etro
+    description: This set is not recommended unless you have a specific use case in
+      mind --- it performs at best around the same as the 2.50 set, but is more
+      difficult to use.
+    name: 6.4 2.45 GCD set
+    link: 7bf649c3-9cca-4c9d-8050-84ab406a9088
+  - type: etro
+    description: Manderville weapon and Asphodelus weapon are both viable
+      replacements for the Claymore of the Heavens if you haven't cleared yet.
+    name: Dragonsong's Reprise (Ultimate) 2.50 GCD set
+    link: 6b674a61-9625-4cce-b324-b3787283e55b
+  - type: etro
+    description: Manderville weapon and Asphodelus weapon are both viable
+      replacements for the Claymore of the Heavens if you haven't cleared yet.
+    link: acd62d68-32b9-47eb-8295-5cf9df8d4ff6
+    name: Dragonsong's Reprise (Ultimate) 2.45 GCD set
+  - type: etro
     description: >-
       This set is generally the strongest set available currently, and has
       better alignment of oGCDs with your rotation than other options. Players
@@ -24,7 +44,8 @@ bis:
       22-strength races (Midlander Hyur, Seeker of the Sun Miqo'te, and Sea Wolf Roegadyn) can mitigate the damage loss from their strength being slightly lower than maximum with a slightly different set: https://etro.gg/gearset/88da32ad-e4e5-4f02-b194-840aaf5cf684
 
       All other races can use the default set.
-    name: 6.2 2.50 GCD set
+    name: 6.2 2.50 GCD set (For players on earlier patches and The Omega Protocol
+      (Ultimate))
     link: 9467c373-ba77-4f20-aa76-06c8e6f926b8
   - type: etro
     description: >-
@@ -34,33 +55,9 @@ bis:
       https://etro.gg/gearset/69ccd962-34bd-4da5-8989-9dc9a3feb9eb
 
       All other races can use the default set.
-    name: 6.2 2.45 GCD set
+    name: 6.2 2.45 GCD set (For players on earlier patches and The Omega Protocol
+      (Ultimate))
     link: 8456e35b-2ae2-411a-b9cb-62ebe7f8b1f0
-  - type: etro
-    description: >-
-      This set is not recommended, as it sacrifices a large amount of substats
-      for speed, but is the best option available if you prefer this speed.
-
-      No adjustments based on race are necessary for this set.
-    name: "6.2 2.40 GCD i629 set "
-    link: 009ba6c7-c0f6-4e03-b26f-5f64970c4c48
-  - type: etro
-    description: >-
-      There are a couple variations on this set that can be run for ease of
-      acquisition or for the slightly higher vitality:
-
-
-      * Augmented crafted ring with Crit+SkS melds is a low single-digit expected DPS loss.
-
-      * Augmented tome ring with Crit+SkS melds plus Ashpodelos helm with 2x Crit melds is a very low double-digit expected DPS loss.
-    link: 038bd13b-f408-4cb2-acb0-00ac33ccfe64
-    name: 6.1 2.45 GCD set (For ultimate or players on earlier patches)
-  - type: etro
-    description: You may opt to replace one DH meld with SkS to reach a 2.49 GCD
-      speed. This is a very low double-digit loss in theoretical DPS, and allows
-      for some minor clipping without causing issues with oGCD alignment.
-    name: 6.1 2.50 GCD set (For ultimate or players on earlier patches)
-    link: 67850297-8b4b-4acf-a37e-12e682b3f303
 authors:
   - Balance-DRK-Staff
   - apileofcats
