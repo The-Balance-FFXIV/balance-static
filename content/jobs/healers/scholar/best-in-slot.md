@@ -9,9 +9,9 @@ changelog:
 bis:
   - type: etro
     description: This set is a good for those who want extra MP economy for
-      unoptimized enviorments such as Party finder. 2.40 has good Chain
-      alignment, but poor Bio alignment
-    name: 2.40 mid-pi
+      unoptimized enviorments such as Party Finder. 2.40 has good Chain
+      alignment, but poor Bio alignment.
+    name: 2.40 Mid-Pi
     link: dd23abd5-ac82-4a51-8d66-323695bb3556
   - type: etro
     description: "This set is a good all around choice for those who need to deal
@@ -33,12 +33,12 @@ bis:
     link: 4c241674-2c6e-42aa-a390-5e5ac29b9ab5
     name: 2.31 Min-Pi SpS BiS
   - type: etro
-    description: You can find these and other sets listed with their dps in the SGE
+    description: You can find these and other sets listed with their DPS in the SCH
       gear calc. Please don't leave the master sheet open as it causes slowdown
       when many people have the same sheet open. You can Make a Copy of the
       sheet from the File menu.
     name: sch dmg calc
-    link: "https://bit.ly/Healer-Gear "
+    link: https://bit.ly/SCHDMGCalc
 authors:
   - Balance-SCH-Staff
 tags:
