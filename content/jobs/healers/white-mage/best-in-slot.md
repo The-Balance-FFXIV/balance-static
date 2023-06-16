@@ -12,11 +12,11 @@ bis:
       that these will probably work just fine even in sloppy PF runs but higher
       piety options are listed below.
     name: 2.45 | Give you up
-    link: https://etro.gg/gearset/a581634a-6def-4150-903f-2d91026471b6
+    link: a581634a-6def-4150-903f-2d91026471b6
   - type: etro
     description: Run Around and Desert You appears to offer the best damage and PoM
       alignment by a marginal amount but won't work as well on other healers.
-    link: https://etro.gg/gearset/aee5c1f4-5e59-47fb-88ff-3eeffbef6231
+    link: aee5c1f4-5e59-47fb-88ff-3eeffbef6231
     name: 2.38 | Run Around and Desert You
   - type: etro
     description: Make you cry is identical to the AST No BRD set allowing you to
@@ -25,13 +25,13 @@ bis:
     name: 2.34 GCD | Make You Cry
   - type: etro
     description: Identical to give you up with a ring swap, gives a bit of extra
-      cushion for pf parties
+      cushion for Party Finder parties.
     name: 2.45 GCD | Tell a Lie (low piety)
-    link: https://etro.gg/gearset/dc3e4a03-b6db-4d47-9c4d-b31b087d18e3
+    link: dc3e4a03-b6db-4d47-9c4d-b31b087d18e3
   - type: etro
     description: Identical to Run Around and Desert You with a ring swap, gives a
-      bit of extra cushion for pf parties
-    link: https://etro.gg/gearset/45c7391c-cd9d-4247-8047-c190d1fedacc
+      bit of extra cushion for PF parties.
+    link: 45c7391c-cd9d-4247-8047-c190d1fedacc
     name: 2.38 GCD | Hurt You (low piety)
   - type: etro
     description: "You can find these and other sets listed with their dps in the WHM
