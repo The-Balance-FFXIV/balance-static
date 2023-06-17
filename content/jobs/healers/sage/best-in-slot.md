@@ -28,7 +28,7 @@ bis:
       when many people have the same sheet open. You can Make a Copy of the
       sheet from the File menu.
     name: SGE dmg calc
-    link: http://bit.ly/sgegearcalc
+    link: https://docs.google.com/spreadsheets/d/1KTKl5k38qMZLDyyVg0sRLqtt4zddDzEAFJaKxyKaF3Y/edit#gid=873110083
 authors:
   - Balance-SGE-Staff
 ---
