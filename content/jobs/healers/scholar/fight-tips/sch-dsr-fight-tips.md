@@ -6,7 +6,7 @@ authors:
 patch: "6.38"
 lastmod: 2023-04-25T16:26:51.507Z
 ---
-# NOTES: UPDATE GEARING TO INCLUDE NEW SETS, ADD IMAGES FOR CONTROLLER PLAYERS AND ADD HEADER IMAGE
+
 
 # Introduction
 
@@ -85,8 +85,12 @@ You can bring the 615 relic weapon it gives an extra 9 crit over the 605 raid we
 
 #### Targeting Haurchefant advice
 
-* You can create a macro that targets and focus targets Haurchefant when he appears, remember he can’t be targeted until he stops and takes his stance. (Image in #hosted-images
-* Controller players should turn on cycle through NPCs Objects to make targeting Haurcefant possible (image in #host-images)
+* You can create a macro that targets and focus targets Haurchefant when he appears, remember he can’t be targeted until he stops and takes his stance. 
+
+  ![](/img/horseface.png "Target Haurchefant")
+* Controller players should turn on cycle through NPCs Objects to make targeting Haurcefant possible 
+
+  ![](/img/controller.png "Target Haurcefant controller")
 
 ### Phase Five: Dark King Thordan
 
@@ -138,7 +142,9 @@ DO NOT USE SWIFTCAST UNLESS IT’S A LAST RESORT, LET WHM/AST OR CASTERS DO IT B
 
 * Alt End is a strong raid buster, however with Recitation Spreadlo you can shave some mitigation and use it for Dragon-King Thordan. With personal mitigations, four 10% mitigation, and additional mitigation from your regen healer and Tanks spreading out on as many people as possible Alt End should be no problem.
 * As a follow up some personal DPS are harder to time, for these short-duration mitigations like Third eye or Arcane Crest you want to use it when Thordan extends his swords. <https://cdn.discordapp.com/attachments/957060880514813973/1058164749805822092/Samurai_and_Reaper_defensive_timing.webm>
+
 #### Akh Morn advice
+
 * For 3-2-2 Timing Succor to go off right after the first hit is important to keep up pace with the damage of this mechanic. 
 * For 6-1-1 timing is less important as everyone takes very low damage, make sure to keep an eye on your non-invulning Tanks, however.
 
