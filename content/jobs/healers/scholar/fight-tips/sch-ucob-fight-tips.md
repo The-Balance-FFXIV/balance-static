@@ -1,5 +1,6 @@
 ---
 title: SCH UCOB fight tips
+card_header_image: /img/ffxiv_dx11_2023-04-27_16-34-19.jpg
 authors:
   - shy
   - Balance-SCH-Staff
@@ -17,8 +18,6 @@ This document contains suggestions on how to use your cooldowns effectively and 
 For level 70 Ultimates and Healers, we can mostly get away with using all synced gear with at least ilevel 470. However, if you want to go out of your way to pick up some gear, Orator’s Mortarboard +2, Bonewicca Soother’s Chestpiece, Orator’s Shoes +2, and Bonewicca Ring of Healing are solid options when melded with Direct Hit. Reminder getting these pieces is not necessary and syncing gear down is a 4 DPS loss which truly does not matter.
 
 Moving on to stats if you’re using synced gear go in with three pieces of CRIT/PIETY and the rest can be CRIT/DET, Ultimates ruin any spell speed Alignment so spell speed in Ultimates is mostly to help with mechanics like dodging twisters or to help to get in a GCDs before downtime. You can check your stats when synced for UCoB in O6S with the minimum item level option turned on. For your relic weapon (515/535), you can copy what’s below. Relic is a good damage increase but not 100% needed to clear the fight.
-
-
 
 # Phase by Phase fight tips
 
@@ -43,14 +42,13 @@ Moving on to stats if you’re using synced gear go in with three pieces of CRIT
 * Seventh Umbral Era hits hard, you need shields before it slams down and before Bahamut erupts from it. Tank LB is needed if you pushed fast you could end up with LB2 even with LB cheese at the start but it’s very doable. 
 * LB2 needs spam healing, remember LB2 has a longer duration than LB3 so Tanks can pop it earlier mitigating the knockback as well as the Calamitous Blaze. 
 * LB3 only needs a burst of healing before the final hit.
-* If you miss time Succor and you think it may fall off at an awkward time you can use spreadlo always to overwrite it.
+* If you miss time Succor and you think it may fall off at an awkward time you can use spreadlo to always overwrite bad shields.
 * Saving swiftcast for mechanics where you need to move and heal is needed, try to let your RDM/SMN raise before you and try to hard raise over swiftcast for prog.
 * The best Swiftcast uses is Black Fire when running to the wall and Heavensfall Trio after the fireball stack.
 * If Swiftcast is down for Blackfire Trio, you can use this example to try to heal everyone. 
 
-
-
-* During Grand Octet you want to Succor as a stack that can do more than max hp, but if you’re using LB3 to cheese you don’t need to Succor however it’s less healing before adds.
+  ![How to blackfire without swiftcast](/img/unknown.png "Swiftcastless blackfire")
+* During Grand Octet you want to Succor as a stack that can do more than max hp, but if you’re using LB3 to cheese you don’t need to Succor.
 
 ## Adds
 
