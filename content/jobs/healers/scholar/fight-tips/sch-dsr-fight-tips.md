@@ -16,10 +16,7 @@ This document contains suggestions on how to use your cooldowns effectively and 
 
 ## Gearing
 
-You can take a 2.5 mid-piety set, which comes with a lot of piety for progging I would hold off on dropping any piety until you’ve cleared as p7 is the most mana-intensive part of this fight while p1-p5 will have you often over capping on mana thanks to all of the downtime. After clearing you can change to one of the lower piety sets as long as you're doing the 6-1-1 strat in p7.\
-Prog set: <https://etro.gg/gearset/ec325832-c1d5-4120-839c-60f9576e23cc>
-
-6-1-1 post prog set: <https://etro.gg/gearset/a4876dd0-8535-403d-b2bd-293e3663c400>
+You can take a [2.5 mid-piety set](https://etro.gg/gearset/ec325832-c1d5-4120-839c-60f9576e23cc>), which comes with a lot of piety for progging I would hold off on dropping any piety until you’ve cleared as p7 is the most mana-intensive part of this fight while p1-p5 will have you often over capping on mana thanks to all of the downtime. After clearing you can change to one of the lower piety sets as long as you're doing the [6-1-1 strat in p7](https://etro.gg/gearset/a4876dd0-8535-403d-b2bd-293e3663c400).
 
 You can bring the 615 relic weapon it gives an extra 9 crit over the 605 raid weapon, the 605 ultimate weapon still beats both just add one DH X meld
 
