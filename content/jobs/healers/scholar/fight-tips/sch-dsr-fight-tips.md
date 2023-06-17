@@ -6,8 +6,6 @@ authors:
 patch: "6.38"
 lastmod: 2023-04-25T16:26:51.507Z
 ---
-
-
 # Introduction
 
 This document contains suggestions on how to use your cooldowns effectively and small things you can do to maximize them such as using Soil for two back-to-back damage instances that are just under 30s from each other. Ideally, you should communicate with your co-Healer to make a plan that reduces stress for both of you and maximizes damage between you while being safe.
@@ -141,7 +139,9 @@ DO NOT USE SWIFTCAST UNLESS IT’S A LAST RESORT, LET WHM/AST OR CASTERS DO IT B
 #### Thordan transition advice
 
 * Alt End is a strong raid buster, however with Recitation Spreadlo you can shave some mitigation and use it for Dragon-King Thordan. With personal mitigations, four 10% mitigation, and additional mitigation from your regen healer and Tanks spreading out on as many people as possible Alt End should be no problem.
-* As a follow up some personal DPS are harder to time, for these short-duration mitigations like Third eye or Arcane Crest you want to use it when Thordan extends his swords. <https://cdn.discordapp.com/attachments/957060880514813973/1058164749805822092/Samurai_and_Reaper_defensive_timing.webm>
+* As a follow up some personal DPS are harder to time, for these short-duration mitigations like Third eye or Arcane Crest you want to use it when Thordan extends his swords. 
+
+  {{< youtube https://youtu.be/5MyYFyLZGzs >}}
 
 #### Akh Morn advice
 
