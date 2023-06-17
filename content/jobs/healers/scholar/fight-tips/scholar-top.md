@@ -1,13 +1,12 @@
 ---
 title: SCH TOP Fight Tips
+card_header_image: /img/image.png
 authors:
   - Balance-SCH-Staff
 patch: "6.38"
 lastmod: 2023-04-25T16:25:37.968Z
 ---
-# THINGS TO ADD: IMAGE HEADER 
-
-# Introduction
+ # Introduction
 
 This document contains suggestions on how to use your cooldowns effectively and small things you can do to play each phase as effectively as possible. Ideally, you should communicate with your co-Healer to make a plan that reduces stress for both of you and maximizes damage between you while being safe.
 
