@@ -2,7 +2,7 @@
 title: Summoner Basic Guide
 card_header_image: /img/jobs/smn/basic.png
 authors:
-  - argen
+  - Balance-SMN-Staff
 patch: "6.4"
 lastmod: 2023-05-30T23:34:01.504Z
 changelog:
