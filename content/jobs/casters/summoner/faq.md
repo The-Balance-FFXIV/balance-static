@@ -1,7 +1,7 @@
 ---
 title: Summoner FAQ
 layout: qna
-patch: "6.21"
+patch: "6.4"
 lastmod: 2022-09-14T05:00:05.633Z
 changelog:
   - date: 2021-11-28T01:53:18.458Z
