@@ -3,7 +3,7 @@ title: Summoner Openers
 authors:
   - elevation
   - Balance-SMN-Staff
-patch: "6.21"
+patch: "6.4"
 lastmod: 2022-09-18T07:52:22.844Z
 changelog:
   - date: 2021-11-29T21:13:18.048Z
