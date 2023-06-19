@@ -21,12 +21,12 @@ bis:
     description: This set is for people who are more comfortable with slower sets.
     name: Rampardos Theorem
     link: 60d1fcc9-8a2e-4e68-8205-f8b25a9de39a
-  - type: etro
+  - type: gsheets
     description: You can find these and other sets listed with their DPS in the AST
       gear calc. Please don't leave the master sheet open as it causes slowdown
       when many people have the same sheet open. You can Make a Copy of the
       sheet from the File menu.
-    link: https://bit.ly/astdmgcalc
+    link: https://docs.google.com/spreadsheets/d/1w-lpfQ2DeI-vveYwZlZEuBLXuaY3hVJFajBSZWM5JWo/edit#gid=743002648
     name: AST dmg calc
 authors:
   - Ahriqi
