@@ -120,8 +120,6 @@ If doing the standard 90 opener, the cost of Program Loop being slightly tighter
 
 In this phase, we want to use Manafication on cooldown, and for our last GCD of the phase to be Verholy/Verflare. This is because at the start of P2, we can cleave the bosses for two GCDs before Firewall comes up, so we want those GCDs to be Scorch and Resolution. You will also want to hold your last use of Contre Sixte. Holding Fleche, as well as one charge each of Corps-a-corps and Engagement, can also be beneficial depending on how ahead or behind you are of the P1 DPS check. Consider these oGCDs as flexible resources.
 
-The video below demonstrates all of the concepts outlined above: \[Link]
-
 # **Phase 2: Omega M/F**
 
 Unlike the previous phase, there is little to no movement optimization in P2, especially if the party decides to just stack and mitigate meteors. Instead, optimization here revolves around planning our cleave timings. Typically, Manafication will come up here around the time Sagittarius arrow comes out. Use it on cooldown here. You should have around 50|50 mana or slightly above, in which case you can use Manafication after Enchanted Redoublement.
@@ -256,8 +254,6 @@ For the final phase, the baseline is to execute nine melee combos across the pha
 **Movement, Combos and Potions** \
 A: Entering P6 with ~80/80 mana: \
 Most commonly, your goal here is to begin by immediately spending a charge of Corps-a-Corps to start a melee combo, with Embolden after Redoublement. Manafication comes off cooldown shortly after your first combo, make sure to use it as well as the combo gained immediately here. Your combos here look like this:
-
- 
 
 1. Opener 
 2. Post opener before Cosmo Arrow (Manafication)
