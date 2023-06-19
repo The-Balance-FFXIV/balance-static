@@ -22,13 +22,13 @@ bis:
       problems with MP.
     name: 2.47 Probably Ran Around (higher piety)
     link: ae3151cd-68b8-4cc5-b03b-a195ed80cb4b
-  - type: etro
+  - type: gsheets
     description: You can find these and other sets listed with their dps in the SGE
       gear calc. Please don't leave the master sheet open as it causes slowdown
       when many people have the same sheet open. You can Make a Copy of the
       sheet from the File menu.
     name: SGE dmg calc
-    link: http://bit.ly/sgegearcalc
+    link: https://docs.google.com/spreadsheets/d/1KTKl5k38qMZLDyyVg0sRLqtt4zddDzEAFJaKxyKaF3Y/edit#gid=873110083
 authors:
   - Balance-SGE-Staff
 ---
