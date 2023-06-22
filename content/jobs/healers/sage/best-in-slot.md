@@ -2,7 +2,7 @@
 title: Sage Best in Slot
 layout: bis
 patch: "6.4"
-lastmod: 2023-06-13T07:36:40.394Z
+lastmod: 2023-06-22T00:49:08.722Z
 changelog:
   - date: 2023-06-13T07:36:31.670Z
     message: Updated for 6.4
