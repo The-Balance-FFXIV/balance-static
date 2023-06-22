@@ -11,7 +11,7 @@ bis:
     description: Identical to WHM's 2.45. This is the overall best option for DPS if
       Piety is not a concern.
     name: 2.45 We gave you up (no piety)
-    link: https://etro.gg/gearset/efc239cb-6371-4d1e-b645-8dd7600575b5
+    link: efc239cb-6371-4d1e-b645-8dd7600575b5
   - type: etro
     description: This set is slightly slower and has more Piety. This should fix any
       MP economy issues you may be having.
