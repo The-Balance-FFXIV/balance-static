@@ -2,7 +2,7 @@
 title: Sage Best in Slot
 layout: bis
 patch: "6.4"
-lastmod: 2023-06-13T07:36:40.394Z
+lastmod: 2023-06-22T00:49:08.722Z
 changelog:
   - date: 2023-06-13T07:36:31.670Z
     message: Updated for 6.4
@@ -11,7 +11,7 @@ bis:
     description: Identical to WHM's 2.45. This is the overall best option for DPS if
       Piety is not a concern.
     name: 2.45 We gave you up (no piety)
-    link: efc239cb-6371-4d1e-b645-8dd7600575b5
+    link: https://etro.gg/gearset/efc239cb-6371-4d1e-b645-8dd7600575b5
   - type: etro
     description: This set is slightly slower and has more Piety. This should fix any
       MP economy issues you may be having.
