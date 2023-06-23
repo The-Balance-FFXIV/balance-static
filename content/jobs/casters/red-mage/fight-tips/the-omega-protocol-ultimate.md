@@ -1,5 +1,5 @@
 ---
-title: The Omega Protocol (Ultimate)
+title: The Omega Protocol (Ultimate) Guide
 authors:
   - argen
   - lana
@@ -52,7 +52,7 @@ P6\*\*: Opening, after second Cosmo Arrow, and after Magic Number
 
 \*If you only enter P3 with enough mana for a single melee combo, you can potion a double combo after the first set of towers instead as Manafication comes back up.
 
- \
+\
 \*\*Your potion in P6 can be used in any buff window, with the first and final being preferred as there are little mechanics happening and it is easier to have the mana for a triple combo potion in these windows. 
 
 \### B. Monitors: 1 use in P2, 2 uses in P3, and 0 uses in P4 with melee LB3
@@ -70,9 +70,8 @@ P5: After Run: Delta \[Potion], and during Run: Omega.
 
 P6\*\*: Opening, after second Cosmo Arrow, and after Magic Number
 
-\*If you only enter P3 with enough mana for a single melee combo, you can potion a double combo after the first set of towers instead as Manafication comes back up.
-
- \
+\*If you only enter P3 with enough mana for a single melee combo, you can potion a double combo after the first set of towers instead as Manafication comes back up.\
+\
 \*\*Your potion in P6 can be used in any buff window, with the first and final being preferred as there are little mechanics happening and it is easier to have the mana for a triple combo potion in these windows. 
 
 \### C. On cooldown: 2 uses in P2, 1 use in P3 with melee LB3, and 1 use in P4
