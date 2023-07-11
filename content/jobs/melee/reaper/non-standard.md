@@ -2,7 +2,7 @@
 title: Reaper Non-Standard Guide
 card_header_image: /img/jobs/rpr/screenshot_5-edit.jpg
 authors:
-  - Balance RPR Staff
+  - Balance-RPR-Staff
 patch: "6.4"
 lastmod: 2023-07-10T22:45:15.452Z
 changelog:
