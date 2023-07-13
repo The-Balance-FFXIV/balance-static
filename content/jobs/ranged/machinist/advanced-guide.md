@@ -207,30 +207,26 @@ under raid buffs. The second charge can then be used on the **Drill** which foll
 
 ## Secondary Hypercharges
 
-You may recall from the [Basic Guide](https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/) that
-the general purpose opener intentionally uses three consecutive combo GCDs in the opener to allow for a **Hypercharge** to fit in subsequent
-burst windows. When optimizing your opener you should consider the placement of these secondary **Hypercharge** windows
-since they increase the amount of potency we can fit into raid buffs.
+**Hypercharge** deals more immediate damage than a Heated Combo, so it's a good idea to try to maximize the number of **Heat Blasts** you can fit into raid buffs. You should always have one use of **Hypercharge** ready to fulfill **Wildfire**, but with **Barrel Stabilizer** + pooled Heat you should also be thinking about the placement of your "secondary" **Hypercharge** uses under buffs.
 
-If you're doing a fast **Wildfire** opener, another alternative is to **make space for your secondary Hypercharge after Wildfire**.
-See the fast opener below.
+Since **Hypercharge** replaces 3 GCDs, you can choose to intentionally leave a 3-GCD gap between two tool uses in your opener in order to fit a **Hypercharge** usage in subsequent burst windows. Depending on when raid buffs come out in your group, this **Hypercharge** placement is likely to align better than a **Hypercharge** that gets used after **Wildfire**.
 
 ## Example Openers
 
-There are dozens of viable ways to get things on cooldown as a Machinist. Below are a couple very different variations
-which you may find useful (feel free to rearrange the order of the tool GCDs as needed):
+There are dozens of viable ways to get things on cooldown as a Machinist. Below are two very different but potentially useful variations
+which you may find illustrative (note that you may rearrange the order of the tool GCDs here as needed):
 
 ### 123 Tools
 
 In situations where you can safely drift all three tools without losing any uses, this variant is great for
-maximizing buff alignment. This opener also allows you to the 10x Heatblast burst mentioned further down the guide. This is good for full uptime fights where you use tinctures on the 2nd and 8th minute.  
+maximizing buff alignment.
 
 ![123 Tools](/img/jobs/mch/mch-123-ew-opener.png "123 Tools")
 
 ### Fast Wildfire
 
 On the other end of the spectrum, you might face a situation where you need to get everything on cooldown ASAP.
-This variant uses Drill last to enable double **Hypercharge** windows in between **Drill** casts.
+This variant uses **Drill** last to enable double **Hypercharge** windows in between **Drill** casts.
 
 ![Fast Opener](https://i.imgur.com/Hg0WVeE.png "Fast Opener")
 
@@ -332,7 +328,7 @@ x = 9.74{{< /codeblock >}}
 
 &nbsp;
 
-Thus, Heat is worth **8.05 PPG** in single target. Using similar math we can determine the value of Heat in AoE
+Thus, Heat is worth **9.75 PPG** in single target. Using similar math we can determine the value of Heat in AoE
 scenarios, replacing the **Heat Blast** and Heated Combo potencies with **Auto Crossbow** and **Scattergun** potencies as needed.
 Below is the value of Heat from 1-6 targets:
 
@@ -343,7 +339,7 @@ Below is the value of Heat from 1-6 targets:
 | 3       | Auto Crossbow     | Scattergun         | 9.38 |
 | 4       | Auto Crossbow     | Scattergun         | 12.5 |
 | 5       | Auto Crossbow     | Scattergun         | 15.6 |
-| 6       | Auto Crossbow     | Scattergun         | 17.8 |
+| 6       | Auto Crossbow     | Scattergun         | 18.7 |
 
 &nbsp;
 
@@ -357,10 +353,10 @@ is to add up the direct potency, Heat PPG, and Battery PPG for each action:
 
 | Action | Direct Potency | Heat  | Battery | Total  |
 | ------ | -------------- | ----- | ------- | ------ |
-| Split  | 200            | 40.25 | 0       | 240.25 |
-| Slug   | 300            | 40.25 | 0       | 340.25 |
-| Clean  | 380            | 40.25 | 236.7   | 656.95 |
-| Avg.   | 293.3          | 40.25 | 78.9    | 412.48 |
+| Split  | 200            | 48.7  | 0       | 248.7  |
+| Slug   | 300            | 48.7  | 0       | 348.7  |
+| Clean  | 380            | 48.7  | 236.7   | 665.4  |
+| Avg.   | 293.3          | 48.7  | 78.9    | 420.9  |
 
 &nbsp;
 
@@ -372,16 +368,16 @@ effective potency of each action (in the average case):
 
 | Action     | Direct Potency | Battery | Replacement | Total |
 | ---------- | -------------- | ------- | ----------- | ----- |
-| Drill      | 600            | 0       | \-412.48    | 187.5 |
-| Air Anchor | 600            | 473.4   | \-412.48    | 660.9 |
-| Chain Saw  | 600            | 473.4   | \-412.48    | 660.9 |
+| Drill      | 600            | 0       | \-420.9     | 179.1 |
+| Air Anchor | 600            | 473.4   | \-420.9     | 652.5 |
+| Chain Saw  | 600            | 473.4   | \-420.9     | 652.5 |
 
 &nbsp;
 
 Note that since **Drill** does not generate any gauge, it's actually a fairly weak effective potency gain.
 If we analyze each single target tool in terms of their cooldowns, we quickly see that **Air Anchor generates the 
-highest PPS of the three** (`660.9 / 40 > 187.5 / 20`). 
-This is why we choose to use **Air Anchor** as our first GCD in the general opener!
+highest PPS of the three** (`652.5 / 40 > 179.1 / 20`). 
+This is why we generally choose to use **Air Anchor** as our first GCD in the opener!
 
 It's important to keep track of context when comparing these numbers. For example, if we're in the "post-battery" phase
 of the fight, all three tools are worth the exact same amount of potency since we cannot spend the gauge they generate. 
@@ -506,9 +502,9 @@ used on single targets, you may find situations where this tech is useful. For e
 
 Note that you will need to micro-drift your **Chain Saw** cooldown because it does not evenly align with 1.5s recast GCDs.
 
-## 10x Heatblast burst
+## 10x Heat Blast Burst
 
-Utilizing the previously mentioned fact that **Chain Saw** does not consume a **Hypercharge** stack, we can setup our burst windows to use 10 **Heat Blasts** in a row. This is a gain for burst windows where you use your **tincture**.
+Utilizing the previously mentioned fact that **Chain Saw** does not consume a **Hypercharge** stack, we can setup our burst windows to use 10 **Heat Blasts** in a row. This is a gain for burst windows where you use your tincture.
 
 The burst goes like so: (Tincture) AA Drill (Late weave HC) CS (Late weave WF) HBx5 (HC) HBx5 Drill
 
