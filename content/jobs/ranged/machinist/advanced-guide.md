@@ -15,6 +15,9 @@ changelog:
   - date: 2023-01-14T19:57:55.740Z
     message: Updated math for patch 6.3, replaced WF > HC with HC > WF, and added a
       new tip about using GCDs during HC.
+  - date: 2023-07-13T00:04:00.446Z
+    message: Further math and wording updates to reflect the state of the Machinist
+      job in 6.4.
 tags:
   - Machinist
   - MCH
@@ -73,7 +76,7 @@ When raiding, try to always be aware of which of the above cases you're currentl
 
 # Battery
 
-Let's face it, Queen really puts the *auto* in "automaton". It can be boring to press one button and watch your pet do the rest on its own. For this reason, you might just overlook how completely bonkers its damage is. A 100-Battery Queen deals **2660 potency** (around 2367 player potency)! That's over four Drills worth of damage, which means that
+Let's face it, Queen really puts the *auto* in "automaton". It can be boring to press one button and watch your pet do the rest on its own. For this reason, you might just overlook how completely bonkers its damage is. A 100-Battery Queen deals **2660 potency** (around 2367 player potency)! That's over four **Drills** worth of damage, which also means that
 **Queen is the single most important action to align to raid buffs**. If you're serious about optimizing an encounter, the best place to start is by carefully planning out the timing for your Queen summons to fit as many of her hits as possible into raid buffs. 
 
 ## Queen Mechanics
@@ -514,7 +517,7 @@ This burst can only be achieved if you use your tools in that sequence as **Dril
 
 If an AoE situation is coming up in the fight, you can pool your **Ricochet** charges to take advantage
 of their cleave damage. Maybe this is obvious to you or maybe you've never thought about it until now,
-but it's an easy 60 extra potency per target per charge of **Ricochet**. Due to the 5y radius of this action,
+but it's an easy 65 extra potency per target per charge of **Ricochet**. Due to the 5y radius of this action,
 the enemies will need to be stacked quite close to each other to take advantage of Ricochet's cleave.
 
 **Tip: distance is calculated from the center of your target's hitbox to the edge of the hitboxes of other enemies**.
