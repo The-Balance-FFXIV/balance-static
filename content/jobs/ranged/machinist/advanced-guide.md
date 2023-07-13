@@ -5,8 +5,8 @@ authors:
   - hint
   - juliacare
   - Balance-MCH-Staff
-patch: "6.3"
-lastmod: 2023-01-14T19:57:50.174Z
+patch: "6.4"
+lastmod: 2023-07-13T00:10:15.776Z
 changelog:
   - date: 2022-04-13T08:10:50.487Z
     message: Guide published.
