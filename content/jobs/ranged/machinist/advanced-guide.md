@@ -18,6 +18,8 @@ changelog:
   - date: 2023-07-13T00:04:00.446Z
     message: Further math and wording updates to reflect the state of the Machinist
       job in 6.4.
+  - date: 2023-07-13T17:20:40.239Z
+    message: Additional infographics for the opener section and macro pulling section.
 tags:
   - Machinist
   - MCH
@@ -219,6 +221,18 @@ Since **Hypercharge** replaces 3 GCDs, you can choose to intentionally leave a 3
 There are dozens of viable ways to get things on cooldown as a Machinist. Below are two very different but potentially useful variations
 which you may find illustrative (note that you may rearrange the order of the tool GCDs here as needed):
 
+### Delayed Tools
+
+The preferred opener, delays your tools into most raid buffs without the increased risk of missing a drill usage.
+
+![Delayed Tools](/img/jobs/mch/delayed-tools.png "Delayed Tools")
+
+### Early AA
+
+In situations where you might lose a usage of Air Anchor by delaying it, you can opt to use this version of the opener.
+
+![Early AA](/img/jobs/mch/early-aa-opener.png "Early AA")
+
 ### 123 Tools
 
 In situations where you can safely drift all three tools without losing any uses, this variant is great for
@@ -354,12 +368,12 @@ effective to spend Heat on three targets** compared to any other number of targe
 The hard work has been done for us already. All that's left to do to evaluate the potency of our Heated Combo
 is to add up the direct potency, Heat PPG, and Battery PPG for each action:
 
-| Action | Direct Potency | Heat  | Battery | Total  |
-| ------ | -------------- | ----- | ------- | ------ |
-| Split  | 200            | 48.7  | 0       | 248.7  |
-| Slug   | 300            | 48.7  | 0       | 348.7  |
-| Clean  | 380            | 48.7  | 236.7   | 665.4  |
-| Avg.   | 293.3          | 48.7  | 78.9    | 420.9  |
+| Action | Direct Potency | Heat | Battery | Total |
+| ------ | -------------- | ---- | ------- | ----- |
+| Split  | 200            | 48.7 | 0       | 248.7 |
+| Slug   | 300            | 48.7 | 0       | 348.7 |
+| Clean  | 380            | 48.7 | 236.7   | 665.4 |
+| Avg.   | 293.3          | 48.7 | 78.9    | 420.9 |
 
 &nbsp;
 
@@ -540,3 +554,19 @@ land a tick on the boss right as it returns without costing any GCD time. Just r
 ## Queen extension
 
 As we know, **Automaton Queen** always uses 5 GCDs before the **Pile Bunker** and **Crowned Collider** finishers. These 5 GCDs can be filled with **Arm Punch**es and **Roller Dash**es. The former taking up one GCD slot, and the latter two for double the damage. You can force **Automaton Queen** to use a **Roller Dash** on her 5th GCD. This effectively gives her 6 GCDs worth of damage. To do this, have your tank pull the boss away from **Automaton Queen**'s melee range between her 4th and 5th GCD.
+
+## Macro pulling
+
+Like talked about before, tools have a delayed in when they deal damage. This exact delay varies slightly from tool to tool but for the sake of this section we'll just say 1.1 seconds. When starting an encounter, usually the first thing that hits a boss and pulls aggro is your auto attack that starts to fire after 0.6s. We can stop this auto attack timer from starting by pulling with a mouse over macro. This means the first hit you do to the boss is your first GCD action. With tools in particular this means you can effectily use your tool 0.5s earlier than before. (At -1.1s instead of -0.6s) This can make getting a last tool usage in before downtime slightly more comfortable and recently has been very nice to use on the 12th fight of pandaemonium, Athena savage, as this gives you slightly more leeway to hit your last Air Anchor before the downtime on her Limit Cut mechanic starts, assuming you open with the Early AA opener. The macro goes as follows (Replace Air Anchor with the desired first GCD):
+
+<!--StartFragment-->
+
+/micon "Air Anchor" action 
+
+/ac "Air Anchor" <mo> 
+
+/ta <mo> <wait.1> 
+
+/ac Auto-Attack
+
+<!--EndFragment-->
