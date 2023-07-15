@@ -14,15 +14,14 @@ changelog:
     message: Updated for Patch 6.2
   - date: 2023-05-28T14:32:34.619Z
     message: Updated for Patch 6.4
+  - date: 2023-07-11T20:00:14.733Z
+    message: Removed the 2.47 GCD set, as the Savage tier does not offer any fights
+      where such GCD speed is useful.
 bis:
   - type: etro
     description: ""
     name: BIS - 2.50 GCD - Baked Eggplant
     link: https://etro.gg/gearset/1103c082-1c80-4bf3-bb56-83734971d5ea
-  - type: etro
-    description: ""
-    name: BIS - 2.47 GCD - Baked Eggplant
-    link: https://etro.gg/gearset/81236bab-3711-4dff-bbc4-ee12223690cc
   - type: etro
     description: ""
     link: https://etro.gg/gearset/ccabf244-3ea0-4a33-a817-da4cebe6efc6
