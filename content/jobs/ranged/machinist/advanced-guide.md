@@ -361,7 +361,7 @@ Below is the value of Heat from 1-6 targets:
 &nbsp;
 
 Note the dip in PPG going from two targets to three targets. Perhaps surprisingly, we can observe that it's actually **less
-effective to spend Heat on three targets** compared to any other number of targets.
+effective to spend Heat on three targets** compared to any other number of targets. This is because **Auto Crossbow** is less of a gain relative to our AoE filler, **Scattergun**, than **Heat Blast** is relative to our ST filler **Heated Combo**. When mapping a multi-target phase of an encounter, it's worth considering whether you should spend your accumulated Heat or save it for a later phase.
 
 ## Heated Combo
 
@@ -557,7 +557,7 @@ As we know, **Automaton Queen** always uses 5 GCDs before the **Pile Bunker** an
 
 ## Macro pulling
 
-Like talked about before, tools have a delay in when they deal damage. This exact delay varies slightly from tool to tool but for the sake of this section we'll just say 1.1 seconds. When starting an encounter, usually the first thing that hits a boss and pulls aggro is your auto attack that starts to fire after 0.6s. We can stop this auto attack timer from starting by pulling with a mouse over macro. This means the first hit you do to the boss is your first GCD action. With tools in particular this means you can effectively use your tool 0.5s earlier than before. (At -1.1s instead of -0.6s) This can make getting a last tool usage in before downtime slightly more comfortable and recently has been very nice to use on the 12th fight of pandaemonium, Athena savage, as this gives you slightly more leeway to hit your last Air Anchor before the downtime on her Limit Cut mechanic starts, assuming you open with the Early AA opener. The macro goes as follows (Replace Air Anchor with the desired first GCD):
+Like talked about before, tools have a delay in when they deal damage. This exact delay varies slightly from tool to tool but for the sake of this section we'll just say 1.1 seconds. When starting an encounter, usually the first thing that hits a boss and pulls aggro is your auto attack that starts to fire after 0.6s. We can stop this auto attack timer from starting by pulling with a mouse over macro. This means the first hit you do to the boss is your first GCD action. With tools in particular this means you can effectively use your tool 0.5s earlier than before. (At -1.1s instead of -0.6s) This can make getting a last tool usage in before downtime slightly more comfortable and recently has been very nice to use on the 12th fight of Pandaemonium, Athena savage, as this gives you slightly more leeway to hit your last Air Anchor before the downtime on her Limit Cut mechanic starts, assuming you open with the Early AA opener. The macro goes as follows (Replace Air Anchor with the desired first GCD):
 
 {{< codeblock >}} 
 
