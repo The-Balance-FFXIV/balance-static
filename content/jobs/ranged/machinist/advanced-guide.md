@@ -345,7 +345,7 @@ x = 9.74{{< /codeblock >}}
 
 &nbsp;
 
-Thus, Heat is worth **9.75 PPG** in single target. Using similar math we can determine the value of Heat in AoE
+Thus, Heat is worth **9.74 PPG** in single target. Using similar math we can determine the value of Heat in AoE
 scenarios, replacing the **Heat Blast** and Heated Combo potencies with **Auto Crossbow** and **Scattergun** potencies as needed.
 Below is the value of Heat from 1-6 targets:
 
