@@ -1,8 +1,8 @@
 ---
 title: Dragoon Best in Slot (BiS)
 layout: bis
-patch: "6.4"
-lastmod: 2023-05-25T16:22:53.947Z
+patch: "6.45"
+lastmod: 2023-07-18T18:18:40.787Z
 changelog:
   - date: 2021-10-29T03:01:01.840Z
     message: Created page
@@ -12,6 +12,9 @@ changelog:
     message: Added new DSR sets
   - date: 2023-05-25T16:27:59.307Z
     message: Sets updated for Patch 6.4, updated DSR sets and added TOP sets
+  - date: 2023-07-18T18:18:46.746Z
+    message: Updated DSR and TOP sets with thew new relic. Removed separate prog
+      sets for these fights.
 bis:
   - type: etro
     description: Choosing this 2.50 set is highly recommended. It is much easier to
@@ -42,24 +45,16 @@ bis:
     link: 8064c028-c64a-482f-a74c-75e158f34d9b
   - type: etro
     description: Syncing gear is currently not a viable option for this fight due to
-      the massive loss of substats from materia.
-    name: TOP Prog BiS
-    link: de153cb0-05e7-4f23-a924-1fc28c7ae8db
+      the massive loss of substats from materia. The relic weapon is an
+      exception.
+    name: TOP BiS
+    link: d83f9fff-378e-4555-99d8-8e90575d688f
   - type: etro
     description: Syncing gear is currently not a viable option for this fight due to
-      the massive loss of substats from materia.
-    name: TOP Weapon BiS
-    link: 59d3afe5-e7ac-465b-a0f5-7440efe389e3
-  - type: etro
-    description: Syncing gear is currently not a viable option for this fight due to
-      the massive loss of substats from materia.
-    name: DSR Prog BiS
-    link: bb9d14b8-fcb4-4f3b-b560-3ab79d1a550c
-  - type: etro
-    description: Syncing gear is currently not a viable option for this fight due to
-      the massive loss of substats from materia.
-    name: DSR Weapon BiS
-    link: 5b4391a1-bfb5-4cf6-91f2-d9fa4f1d4767
+      the massive loss of substats from materia. The relic weapon is an
+      exception.
+    name: DSR BiS
+    link: 555df43d-4012-4757-96da-3f68fca985d0
   - type: etro
     description: Gear pieces with equal stats can be used instead of the listed i600
       pieces as long as they are above i595.
