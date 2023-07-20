@@ -28,9 +28,9 @@ bis:
     name: 6.4 Week 1 Alternative set 2.5 GCD
     link: https://etro.gg/gearset/e8ddbad4-90ed-44dd-914e-bf521baba55d
   - type: etro
-    description: Highest DPS set. Can change one piece for an SKS piece to obtain
-      2.47, this can be beneficial for certain kill times.
-    name: TOP Best-in-Slot 2.5 GCD
+    description: Highest DPS set, works best with phase timings. Can change one ring
+      for a non SKS piece to obtain 2.5, this may be more comfortable for some.
+    name: TOP Best-in-Slot 2.47 GCD
     link: https://etro.gg/gearset/4cacb4a1-2683-4a8f-99b5-7c5bdf0f4bbc
   - type: etro
     description: The BiS for Dragonsong's Reprise in Patch 6.45 using the Relic
