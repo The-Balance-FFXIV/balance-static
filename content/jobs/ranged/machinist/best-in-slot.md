@@ -1,8 +1,8 @@
 ---
 title: Machinist Best in Slot (BiS)
 layout: bis
-patch: "6.4"
-lastmod: 2023-05-25T08:58:43.451Z
+patch: "6.45"
+lastmod: 2023-07-24T20:29:30.276Z
 changelog:
   - date: 2021-10-25T22:11:04.615Z
     message: Created page
@@ -14,6 +14,8 @@ changelog:
     message: Updated for 6.2
   - date: 2023-05-24T22:46:07.999Z
     message: 6.4 update
+  - date: 2023-07-24T20:29:03.578Z
+    message: Updated TOP and DSR sets for 6.45
 bis:
   - type: etro
     description: ""
