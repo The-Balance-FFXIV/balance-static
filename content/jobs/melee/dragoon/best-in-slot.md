@@ -2,7 +2,7 @@
 title: Dragoon Best in Slot (BiS)
 layout: bis
 patch: "6.45"
-lastmod: 2023-07-18T18:18:40.787Z
+lastmod: 2023-07-24T18:18:40.787Z
 changelog:
   - date: 2021-10-29T03:01:01.840Z
     message: Created page
@@ -13,8 +13,8 @@ changelog:
   - date: 2023-05-25T16:27:59.307Z
     message: Sets updated for Patch 6.4, updated DSR sets and added TOP sets
   - date: 2023-07-18T18:18:46.746Z
-    message: Updated DSR and TOP sets with thew new relic. Removed separate prog
-      sets for these fights.
+    message: Updated DSR and TOP sets with the new relic. Removed separate prog sets
+      for these fights.
 bis:
   - type: etro
     description: Choosing this 2.50 set is highly recommended. It is much easier to
