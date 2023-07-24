@@ -6,7 +6,7 @@ authors:
   - juliacare
   - Balance-MCH-Staff
 patch: "6.4"
-lastmod: 2023-07-13T00:10:15.776Z
+lastmod: 2023-07-24T20:31:10.456Z
 changelog:
   - date: 2022-04-13T08:10:50.487Z
     message: Guide published.
@@ -557,12 +557,4 @@ As we know, **Automaton Queen** always uses 5 GCDs before the **Pile Bunker** an
 
 ## Macro pulling
 
-Like talked about before, tools have a delay in when they deal damage. This exact delay varies slightly from tool to tool but for the sake of this section we'll just say 1.1 seconds. When starting an encounter, usually the first thing that hits a boss and pulls aggro is your auto attack that starts to fire after 0.6s. We can stop this auto attack timer from starting by pulling with a mouse over macro. This means the first hit you do to the boss is your first GCD action. With tools in particular this means you can effectively use your tool 0.5s earlier than before. (At -1.1s instead of -0.6s) This can make getting a last tool usage in before downtime slightly more comfortable and recently has been very nice to use on the 12th fight of Pandaemonium, Athena savage, as this gives you slightly more leeway to hit your last Air Anchor before the downtime on her Limit Cut mechanic starts, assuming you open with the Early AA opener. The macro goes as follows (Replace Air Anchor with the desired first GCD):
-
-{{< codeblock >}} 
-
-/micon "Air Anchor" action 
-
-/ac "Air Anchor" <mo> 
-
-{{< /codeblock >}}
+Like talked about before, tools have a delay in when they deal damage. This exact delay varies slightly from tool to tool [( More info on delay )](https://docs.google.com/spreadsheets/d/1Emevsz5_oJdmkXy23hZQUXimirZQaoo5BejSzL3hZ9I/edit#gid=668268003) but for the sake of this section we'll just say 1.15 seconds. When starting an encounter, usually the first thing that hits a boss and pulls aggro is your auto attack that deals damage after 0.75s. We can stop this auto attack timer from starting by pulling with a macro. This means the first hit you do to the boss is your first GCD action. With tools in particular this means you can effectively use your tool 0.4s earlier than before. (At -1.15s instead of -0.75s) This can make getting a last tool usage in before downtime slightly more comfortable. An example of where this tech can be useful is the 12th fight of Pandaemonium, Athena savage, as this gives you slightly more leeway to hit your last Air Anchor before the downtime on her Limit Cut mechanic starts, assuming you open with the Early AA opener. You can find a more in-depth explanation of macro pulling here: [\[Kerokaeru's write-up]](https://gist.github.com/AlexCMueller/1f3d5393f765ef8d1cda2f3615d4a0c7)
