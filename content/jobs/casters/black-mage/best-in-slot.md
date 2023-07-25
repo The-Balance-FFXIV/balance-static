@@ -1,8 +1,8 @@
 ---
 title: Black Mage Best in Slot (BiS)
 layout: bis
-patch: "6.4"
-lastmod: 2023-05-28T20:08:48.538Z
+patch: "6.45"
+lastmod: 2023-07-25T00:47:39.964Z
 changelog:
   - date: 2022-09-13T06:56:06.298Z
     message: Added 6.2 sets
@@ -12,6 +12,8 @@ changelog:
     message: Created page
   - date: 2023-05-28T20:08:52.122Z
     message: Added 6.4 sets
+  - date: 2023-07-25T00:46:26.216Z
+    message: Added 6.45 Manderville relic sets for TOP and DSR
 bis:
   - type: etro
     description: ""
@@ -35,20 +37,36 @@ bis:
     link: https://etro.gg/gearset/7af8b25f-d2df-4065-bb54-2751c8fe6e70
   - type: etro
     description: ""
-    name: DSR 2171 SpS Speed BiS
-    link: https://etro.gg/gearset/327d090b-2d5a-4c3c-9eb9-8fd42342cce3
+    name: TOP 2293 SpS BiS
+    link: https://etro.gg/gearset/69a2d970-4191-4312-906d-1db87a41f23a
   - type: etro
     description: ""
-    link: https://etro.gg/gearset/3be02273-b36d-4297-9f28-69d40641a64b
-    name: DSR 1352 SpS Crit BiS
+    name: TOP 1296 SpS BiS
+    link: https://etro.gg/gearset/dc517c4c-b2f9-40e4-86f6-24d7cf2298d6
   - type: etro
-    description: Primarily for higher level non-standard optimizations, less
-      recommended for the average player for prog.
-    name: DSR 884 SpS Crit BiS
-    link: https://etro.gg/gearset/3cf2e303-4197-4afa-91a5-7c2d74d742c9
+    description: ""
+    name: TOP 844 SpS BiS
+    link: https://etro.gg/gearset/e0cb9c92-cc04-4259-9d22-5404d046af88
+  - type: etro
+    description: ""
+    name: DSR 2126 SpS Speed BiS
+    link: https://etro.gg/gearset/4dad290e-26d4-4bb7-9820-df0ec941a8e5
+  - type: etro
+    description: ""
+    link: https://etro.gg/gearset/10cef1dd-d61f-45dd-b083-b04a4e7467db
+    name: DSR 1354 SpS Crit BiS
+  - type: etro
+    description: ""
+    name: DSR 828 SpS BiS
+    link: https://etro.gg/gearset/db71200b-af75-429a-9d1a-d8c6bc42413f
+  - type: etro
+    description: ""
+    name: DSR 1356 SpS Max VIT
+    link: https://etro.gg/gearset/5a819e8a-b41c-4929-8c9a-df10f7e4afb1
   - type: gsheets
-    description: Usually offers multiple other options on top of the provided ones
-      above. Check it out
+    description: Contains alternative sets to the ones provided above, including
+      sets at different SpS values as well as non-relic TOP/DSR sets. Check it
+      out
       [here](https://docs.google.com/spreadsheets/d/1t3EYSOPuMceqCFrU4WAbzSd4gbYi-J7YeMB36dNmaWM/edit#gid=654212594)
     name: Gear Sheet
     link: https://docs.google.com/spreadsheets/d/e/2PACX-1vSCsbn5CJAMRXv-WJEV-W1FCPtrVhZeMU0JD8SleJ_Ga_5ur7wgLisKdca5M-KzTqahrtCjAP9qLtvG/pubhtml
