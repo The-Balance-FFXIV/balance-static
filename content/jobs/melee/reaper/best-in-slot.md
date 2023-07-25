@@ -65,17 +65,17 @@ bis:
     name: Dragonsong's Reprise (Ultimate) BiS (No 6.3 Dungeon Gear Option)
     link: b301e789-96da-42f2-9628-95f68345e35b
   - type: etro
+    description: Recommended gearset to prog TOP as of patch 6.45. The 645
+      Manderville Relic is slightly ahead of the TOP Scythe, putting this set
+      slightly ahead of the other option.
+    name: The Omega Protocol (Ultimate) BiS (6.45 Relic Option)
+    link: 4f0280fb-557a-4de1-af4b-62e85ca282fa
+  - type: etro
     description: This is just the Abyssos 2.49 BiS, which is slightly lower in DPS
       than the Relic option. If using the TOP scythe, meld two Direct Hit X's
       and one Skill Speed X.
     name: The Omega Protocol (Ultimate) BiS (No Relic Option)
     link: c293f73b-5c58-4855-b43d-aae55b212611
-  - type: etro
-    description: Recommended gearset to prog TOP as of patch 6.45. The 645
-      Manderville Relic is slightly ahead of the TOP Scythe, putting this set
-      slightly ahead of the other option.
-    name: The Omega Protocol (Ultimate) BiS (6.45 Relic Option
-    link: 4f0280fb-557a-4de1-af4b-62e85ca282fa
 authors:
   - Balance-RPR-Staff
 ---
