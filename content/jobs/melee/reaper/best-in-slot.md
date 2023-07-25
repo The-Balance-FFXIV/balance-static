@@ -51,19 +51,31 @@ bis:
       DH DH SKS on the weapon.
 
 
+      If you do not have the 645 Manderville weapon, you should use the following weapon priority to determine what to use based on what you have available:\
+
+      645 Manderville > DSR Scythe > 615/630 Manderville > Asphodelos Scythe
+
+
       Note: The 615 and 630 versions of the Manderville weapons sync identically in DSR and are therefore the same. Use whichever you have available.
-    name: Dragonsong's Reprise (Ultimate) BiS (6.3 Dungeon Gear Option)
-    link: d2c44499-c41e-47ba-8457-f6e99b97fdd1
+    name: Dragonsong's Reprise (Ultimate) BiS (6.3 Dungeon Gear + 6.45 Relic Option)
+    link: 4aa0f252-5ecf-4887-916a-b38ccddfe258
   - type: etro
     description: The original BiS used for DSR. Use this if you do not want to farm
       the dungeon gear.
     name: Dragonsong's Reprise (Ultimate) BiS (No 6.3 Dungeon Gear Option)
     link: b301e789-96da-42f2-9628-95f68345e35b
   - type: etro
-    description: This is just the Abyssos 2.49 BiS, which is recommended for TOP. If
-      using the TOP scythe, meld two Direct Hit X's and one Skill Speed X.
-    name: The Omega Protocol (Ultimate) BiS
+    description: This is just the Abyssos 2.49 BiS, which is slightly lower in DPS
+      than the Relic option. If using the TOP scythe, meld two Direct Hit X's
+      and one Skill Speed X.
+    name: The Omega Protocol (Ultimate) BiS (No Relic Option)
     link: c293f73b-5c58-4855-b43d-aae55b212611
+  - type: etro
+    description: Recommended gearset to prog TOP as of patch 6.45. The 645
+      Manderville Relic is slightly ahead of the TOP Scythe, putting this set
+      slightly ahead of the other option.
+    name: The Omega Protocol (Ultimate) BiS (6.45 Relic Option
+    link: 4f0280fb-557a-4de1-af4b-62e85ca282fa
 authors:
   - Balance-RPR-Staff
 ---
