@@ -16,6 +16,8 @@ changelog:
     message: Updated Pre-Savage gear section with 6.35 gear.
   - date: 2023-05-30T14:54:03.101Z
     message: Updated sets for patch 6.4.
+  - date: 2023-07-25T01:39:21.226Z
+    message: Updated DSR and TOP sets for the 6.45 Relic
 bis:
   - type: etro
     description: BiS built around a 2.49s GCD. The damage difference between this
