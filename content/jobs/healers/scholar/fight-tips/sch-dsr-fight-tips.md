@@ -150,7 +150,7 @@ DO NOT USE SWIFTCAST UNLESS IT’S A LAST RESORT, LET WHM/AST OR CASTERS DO IT B
 
 #### Gigaflare advice
 
-* You can Soil in the middle of the boss and your party can stand just outside of the hitbox for each Gigaflare hit. If you can’t get people to stay in the Soil for all three hits you can place Soil opposite your starting location so they’ll be in it for the last two hits.
+* You can Soil in the middle of the boss. 
 * Time for your succor to go off right after the first Gigaflare hit.
 * Swiftcast succor after the second hit, do not waste Swiftcast in this fight to raise unless you’re the last option
 
