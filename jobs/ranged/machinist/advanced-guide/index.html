@@ -12,14 +12,14 @@
 <link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png><meta itemprop=name content="Machinist Advanced Guide">
 <meta itemprop=description content="This guide is intended to give the reader the tools needed to approach encounter optimization as a Machinist. It assumes you are already familiar with the fundamentals of the job – if you need a refresher, please read the Basic Guide and come back when you&rsquo;re done.
 Introduction to Optimization This section will introduce some core concepts for optimizing encounters in FFXIV. If you are already familiar with optimization on other jobs, you can feel free to skip ahead!">
-<meta itemprop=dateModified content="2023-07-24T20:31:10+00:00">
-<meta itemprop=wordCount content="5828">
+<meta itemprop=dateModified content="2023-09-14T12:15:43+00:00">
+<meta itemprop=wordCount content="6442">
 <meta itemprop=keywords content="Machinist,MCH,FFXIV,machinist rotation,machinist opener,machinist guide,"><meta property="og:title" content="Machinist Advanced Guide">
 <meta property="og:description" content="This guide is intended to give the reader the tools needed to approach encounter optimization as a Machinist. It assumes you are already familiar with the fundamentals of the job – if you need a refresher, please read the Basic Guide and come back when you&rsquo;re done.
 Introduction to Optimization This section will introduce some core concepts for optimizing encounters in FFXIV. If you are already familiar with optimization on other jobs, you can feel free to skip ahead!">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.thebalanceffxiv.com/jobs/ranged/machinist/advanced-guide/"><meta property="article:section" content="jobs">
-<meta property="article:modified_time" content="2023-07-24T20:31:10+00:00">
+<meta property="article:modified_time" content="2023-09-14T12:15:43+00:00">
 <link rel=manifest href=/site.webmanifest>
 <link rel=mask-icon href=/safari-pinned-tab.svg color=#ff9900>
 <meta name=msapplication-TileColor content="#ffffff">
@@ -304,7 +304,7 @@ Newsfeed
 <div class=guide-info-container>
 <div class="card-title pt-5 pb-4">Guide Info</div>
 <div class="py-3 space-y-2 text-gray-light font-bold">
-<div>Last Updated: 24 Jul, 2023</div>
+<div>Last Updated: 14 Sep, 2023</div>
 <div>Patch Applicable: 6.4</div>
 </div>
 <div class="py-4 text-right">
@@ -396,7 +396,16 @@ Newsfeed
 <li><a href=#flamethrower-buff-extension>Flamethrower Buff Extension</a></li>
 <li><a href=#tick-fishing>Tick Fishing</a></li>
 <li><a href=#queen-extension>Queen extension</a></li>
-<li><a href=#macro-pulling>Macro Pulling</a></li>
+</ul>
+</li>
+<li><a href=#macro-pulling>Macro Pulling</a>
+<ul>
+<li><a href=#why-macro-the-first-gcd>Why macro the first GCD?</a></li>
+<li><a href=#how-to-suppress-autos>How to suppress autos?</a></li>
+<li><a href=#what-macro-should-i-use>What macro should I use?</a></li>
+<li><a href=#a-note-on-potion-friendliness>A note on potion friendliness</a></li>
+<li><a href=#a-list-of-usable-placeholders-in-no-particular-order>A list of usable placeholders, in no particular order</a></li>
+<li><a href=#an-especially-transparent-potion-unfriendly-macro>An especially transparent potion-unfriendly macro</a></li>
 </ul>
 </li>
 </ul>
@@ -566,21 +575,21 @@ on cooldown at the right time without interfering with your GCD rotation. Below 
 <h2 id=hc--wf>HC > WF</h2>
 <p>The standard and most ping-friendly <strong>Wildfire</strong> setup.
 <div class=md__image>
-<img id="[286 115 97 335 156 411]" src=https://i.imgur.com/mQrevVY.png onclick=openModal(this.id) alt="HC &amp;gt; WF">
+<img id="[98 7 485 324 404 317]" src=https://i.imgur.com/mQrevVY.png onclick=openModal(this.id) alt="HC &amp;gt; WF">
 </div>
 </p>
 <p>Clipping tolerance: <strong>1.7s</strong> (<strong>1.3s</strong> if you end on a tool GCD).</p>
 <h2 id=wf--gcd--hc>WF > GCD > HC</h2>
 <p>If you need to weave <strong>Wildfire</strong> before a tool GCD, use this setup.
 <div class=md__image>
-<img id="[50 225 494 140 72 472]" src=https://i.imgur.com/sjBViLP.png onclick=openModal(this.id) alt="WF &amp;gt; GCD &amp;gt; HC">
+<img id="[168 275 4 365 292 463]" src=https://i.imgur.com/sjBViLP.png onclick=openModal(this.id) alt="WF &amp;gt; GCD &amp;gt; HC">
 </div>
 </p>
 <p>Clipping tolerance: <strong>0.7s</strong>.</p>
 <h2 id=hc--hb--wf>HC > HB > WF</h2>
 <p>This setup exists in case you need to drift <strong>Wildfire</strong> back.
 <div class=md__image>
-<img id="[438 50 136 473 472 256]" src=https://i.imgur.com/j2KijBX.png onclick=openModal(this.id) alt="HC &amp;gt; HB &amp;gt; WF">
+<img id="[245 445 77 91 247 312]" src=https://i.imgur.com/j2KijBX.png onclick=openModal(this.id) alt="HC &amp;gt; HB &amp;gt; WF">
 </div>
 </p>
 <p>Clipping tolerance: <strong>0.7s</strong> (<strong>0.3s</strong> if you need to end on a tool GCD).</p>
@@ -624,14 +633,14 @@ which you may find illustrative (note that you may rearrange the order of the to
 <p>The preferred opener, delays your tools into most raid buffs without the increased risk of missing a drill usage.</p>
 <p>
 <div class=md__image>
-<img id="[354 442 226 15 324 389]" src=/img/jobs/mch/delayed-tools.png onclick=openModal(this.id) alt="Delayed Tools" title="Delayed Tools">
+<img id="[95 241 272 210 280 307]" src=/img/jobs/mch/delayed-tools.png onclick=openModal(this.id) alt="Delayed Tools" title="Delayed Tools">
 </div>
 </p>
 <h3 id=early-aa>Early AA</h3>
 <p>In situations where you might lose a usage of Air Anchor by delaying it, you can opt to use this version of the opener.</p>
 <p>
 <div class=md__image>
-<img id="[423 185 93 109 50 467]" src=/img/jobs/mch/early-aa-opener.png onclick=openModal(this.id) alt="Early AA" title="Early AA">
+<img id="[300 6 390 479 473 348]" src=/img/jobs/mch/early-aa-opener.png onclick=openModal(this.id) alt="Early AA" title="Early AA">
 </div>
 </p>
 <h3 id=123-tools>123 Tools</h3>
@@ -639,7 +648,7 @@ which you may find illustrative (note that you may rearrange the order of the to
 maximizing buff alignment.</p>
 <p>
 <div class=md__image>
-<img id="[270 92 153 345 159 160]" src=/img/jobs/mch/mch-123-ew-opener.png onclick=openModal(this.id) alt="123 Tools" title="123 Tools">
+<img id="[481 159 225 8 250 11]" src=/img/jobs/mch/mch-123-ew-opener.png onclick=openModal(this.id) alt="123 Tools" title="123 Tools">
 </div>
 </p>
 <h3 id=fast-wildfire>Fast Wildfire</h3>
@@ -647,7 +656,7 @@ maximizing buff alignment.</p>
 This variant uses <strong>Drill</strong> last to enable double <strong>Hypercharge</strong> windows in between <strong>Drill</strong> casts.</p>
 <p>
 <div class=md__image>
-<img id="[73 272 112 258 11 137]" src=https://i.imgur.com/Hg0WVeE.png onclick=openModal(this.id) alt="Fast Opener" title="Fast Opener">
+<img id="[389 292 312 447 163 156]" src=https://i.imgur.com/Hg0WVeE.png onclick=openModal(this.id) alt="Fast Opener" title="Fast Opener">
 </div>
 </p>
 <h1 id=tinctures>Tinctures</h1>
@@ -1040,8 +1049,50 @@ land a tick on the boss right as it returns without costing any GCD time. Just r
 2.5 seconds before the boss is targetable</strong> so that <strong>Flamethrower</strong> doesn&rsquo;t clip your GCD.</p>
 <h2 id=queen-extension>Queen extension</h2>
 <p>As we know, <strong>Automaton Queen</strong> always uses 5 GCDs before the <strong>Pile Bunker</strong> and <strong>Crowned Collider</strong> finishers. These 5 GCDs can be filled with <strong>Arm Punch</strong>es and <strong>Roller Dash</strong>es. The former taking up one GCD slot, and the latter two for double the damage. You can force <strong>Automaton Queen</strong> to use a <strong>Roller Dash</strong> on her 5th GCD. This effectively gives her 6 GCDs worth of damage. To do this, have your tank pull the boss away from <strong>Automaton Queen</strong>&rsquo;s melee range between her 4th and 5th GCD.</p>
-<h2 id=macro-pulling>Macro Pulling</h2>
-<p>As talked about before, tools have a delay between when they&rsquo;re cast and when they deal damage. This exact delay varies slightly for each action (click <a href="https://docs.google.com/spreadsheets/d/1Emevsz5_oJdmkXy23hZQUXimirZQaoo5BejSzL3hZ9I/edit#gid=668268003">here</a> for more info on damage delay) but for <strong>Drill</strong> and <strong>Air Anchor</strong> it&rsquo;s 1.15 seconds. When starting an encounter, usually the first thing that hits a boss and pulls aggro is your auto attack which deals damage after 0.75s. We can stop this auto attack from firing by pulling with a macro instead. This means the first hit you land on the boss will be your first GCD action. With tools in particular this means you can effectively cast them 0.4s earlier than before (At -1.15s instead of -0.75s). This can make getting a last tool usage in before downtime slightly more comfortable. An example of where this tech can be useful is in the 12th fight of Pandaemonium, Athena savage, as it gives you slightly more leeway to hit your last <strong>Air Anchor</strong> before the downtime on her Limit Cut mechanic starts, assuming you open with the Early AA opener. You can find a more in-depth explanation of macro pulling in <a href=https://gist.github.com/AlexCMueller/1f3d5393f765ef8d1cda2f3615d4a0c7>Kerokaeru&rsquo;s write-up</a>.</p>
+<h1 id=macro-pulling>Macro Pulling</h1>
+<h2 id=why-macro-the-first-gcd>Why macro the first GCD?</h2>
+<p>Machinist&rsquo;s tools have a long delay between <em>preparation</em> and <em>damage application</em>. The ideal way to pull the boss is to line up the <em>damage application</em> of the tool with the countdown, so your gcd is rolling for a bit before the pull, and you gain that time. This pulls your timeline forwards and can earn a gcd sometimes, and makes landing tight gcds at the end of certain phases more lenient&ndash;particularly in p12sp1, where you can gain one last air anchor before LC.</p>
+<p>Unfortunately, if you simply press the tool at -1, auto-attacks enable immediately and apply damage well before the tool, causing an early pull. Macro pulling is a way to suppress this automatic enabling of auto-attacks until after air anchor lands, and enable the above optimization.</p>
+<h2 id=how-to-suppress-autos>How to suppress autos?</h2>
+<p>The core idea is to use the /action text command to do your first gcd, in conjunction with a <a href=https://ffxiv.consolegameswiki.com/wiki/Placeholders>placeholder</a> that allows you to specify the boss for the air anchor command without having the boss selected. This prevents auto-attacks from being enabled. As a note, the boss not being selected at the time of the /ac command is an important component to this working.</p>
+<h2 id=what-macro-should-i-use>What macro should I use?</h2>
+<p>This is a problem where there are so many different possible solutions that the exact macro you should use is down to preference and specific requirements. The exact macro you should use is a matter of UI rather than optimization for the most part, so instead of giving a single macro, I&rsquo;ll detail the various options and leave you to decide what works best for you.</p>
+<h2 id=a-note-on-potion-friendliness>A note on potion friendliness</h2>
+<p>Due to the lack of queueing associated with macros, the most reliably fast way to use a macroed action at the end of a prepull potion&rsquo;s animation lock is to basically spam the action command on every line of the macro. If this is important to you (and it probably is, unless you&rsquo;re using a really weird opener or a 2 min potion), the macro more or less <em>has</em> to look like the below</p>
+<pre><code>/ac &quot;Air Anchor&quot; &lt;pl&gt;
+/ac &quot;Air Anchor&quot; &lt;pl&gt;
+/ac &quot;Air Anchor&quot; &lt;pl&gt;
+/ac &quot;Air Anchor&quot; &lt;pl&gt;
+/ac &quot;Air Anchor&quot; &lt;pl&gt;
+/ac &quot;Air Anchor&quot; &lt;pl&gt;
+/ac &quot;Air Anchor&quot; &lt;pl&gt;
+/ac &quot;Air Anchor&quot; &lt;pl&gt;
+/ac &quot;Air Anchor&quot; &lt;pl&gt;
+/ac &quot;Air Anchor&quot; &lt;pl&gt;
+/ac &quot;Air Anchor&quot; &lt;pl&gt;
+/ac &quot;Air Anchor&quot; &lt;pl&gt;
+/ac &quot;Air Anchor&quot; &lt;pl&gt;
+/ac &quot;Air Anchor&quot; &lt;pl&gt;
+/micon &quot;Air Anchor&quot; action
+</code></pre><p>&mldr;where <code>&lt;pl></code> is a nonexistent placeholder to be replaced with one of the below. The last line can obviously be replaced with an extra /ac text command if you don&rsquo;t care about the ugly and uninformative placeholder macro icon. The tool can be swapped out if you&rsquo;re using something like first gcd drill, as well.</p>
+<h2 id=a-list-of-usable-placeholders-in-no-particular-order>A list of usable placeholders, in no particular order</h2>
+<p>Remember that in every case, <em>you cannot have the boss selected when pulling</em>. All of these have this requirement.</p>
+<ul>
+<li><code>&lt;tt></code>: Target another party member, and <code>/ac "Air Anchor" &lt;tt></code> <em>should</em> target the boss. Targeting the caster prepull is a stable choice. Requires the target party member to be targeting the boss at the time you use the macro, which should be a given. Switching from targeting a party member to targeting the boss is awkward because you can&rsquo;t simply press tab.</li>
+<li><code>&lt;f></code>: Focus target the boss, and this can work. Remember that you have to reapply focus target every pull. Obviously interferes with focus targeting party members.</li>
+<li><code>&lt;lt></code>, <code>&lt;le></code>: Target the boss, then don&rsquo;t target anything else, and these can work. <code>&lt;le></code> is more forgiving, in that it doesn&rsquo;t break if you target a party member between targeting the boss and pulling.</li>
+<li><code>&lt;attackN></code>, <code>&lt;bindN></code>, <code>&lt;square></code>, etc.: Overhead markers. You&rsquo;d need to apply these to the boss before every pull, and this can conflict with marker-based solves.</li>
+<li><code>&lt;mo></code>: Hover your mouse cursor over the boss when pressing this. Not friendly for controller, but otherwise simple and flexible.</li>
+</ul>
+<h2 id=an-especially-transparent-potion-unfriendly-macro>An especially transparent potion-unfriendly macro</h2>
+<p>If you&rsquo;re not using a prepull potion, such as if the fight calls for a 2 minute pot, and you still wish to open with a tool, I can recommend this:</p>
+<pre><code>/nt
+/ta &lt;0&gt;
+/ac &quot;Air Anchor&quot; &lt;le&gt;
+/ta &lt;le&gt;
+/micon &quot;Air Anchor&quot; action
+</code></pre><p>In single target, using this macro is about the same as simply pressing air anchor, but without any queueing. This macro is especially easy to use and is unlikely to mess with anything else. The starting <code>/nt</code> is optional, it just selects the boss if you haven&rsquo;t yet. The command is basically the same as pressing tab.</p>
+<p>None of the above is remotely practical with heated split shot instead of tools, at most you&rsquo;re moving the timeline forward by about 0.05 seconds. The damage application delay is simply too short with heated combo gcds.</p>
 </div>
 </div>
 </div>
