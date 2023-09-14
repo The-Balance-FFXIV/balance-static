@@ -6,7 +6,7 @@ authors:
   - juliacare
   - Balance-MCH-Staff
 patch: "6.4"
-lastmod: 2023-07-24T20:31:10.456Z
+lastmod: 2023-09-14T12:15:43.111Z
 changelog:
   - date: 2022-04-13T08:10:50.487Z
     message: Guide published.
@@ -555,6 +555,60 @@ land a tick on the boss right as it returns without costing any GCD time. Just r
 
 As we know, **Automaton Queen** always uses 5 GCDs before the **Pile Bunker** and **Crowned Collider** finishers. These 5 GCDs can be filled with **Arm Punch**es and **Roller Dash**es. The former taking up one GCD slot, and the latter two for double the damage. You can force **Automaton Queen** to use a **Roller Dash** on her 5th GCD. This effectively gives her 6 GCDs worth of damage. To do this, have your tank pull the boss away from **Automaton Queen**'s melee range between her 4th and 5th GCD.
 
-## Macro Pulling
+# Macro Pulling
+## Why macro the first gcd?
+Machinist's tools have a long delay between *preparation* and *damage application*. The ideal way to pull the boss is to line up the *damage application* of the tool with the countdown, so your gcd is rolling for a bit before the pull, and you gain that time. This pulls your timeline forwards and can earn a gcd sometimes, and makes landing tight gcds at the end of certain phases more lenient--particularly in p12sp1, where you can gain one last air anchor before LC.
 
-As talked about before, tools have a delay between when they're cast and when they deal damage. This exact delay varies slightly for each action (click [here](https://docs.google.com/spreadsheets/d/1Emevsz5_oJdmkXy23hZQUXimirZQaoo5BejSzL3hZ9I/edit#gid=668268003) for more info on damage delay) but for **Drill** and **Air Anchor** it's 1.15 seconds. When starting an encounter, usually the first thing that hits a boss and pulls aggro is your auto attack which deals damage after 0.75s. We can stop this auto attack from firing by pulling with a macro instead. This means the first hit you land on the boss will be your first GCD action. With tools in particular this means you can effectively cast them 0.4s earlier than before (At -1.15s instead of -0.75s). This can make getting a last tool usage in before downtime slightly more comfortable. An example of where this tech can be useful is in the 12th fight of Pandaemonium, Athena savage, as it gives you slightly more leeway to hit your last **Air Anchor** before the downtime on her Limit Cut mechanic starts, assuming you open with the Early AA opener. You can find a more in-depth explanation of macro pulling in [Kerokaeru's write-up](https://gist.github.com/AlexCMueller/1f3d5393f765ef8d1cda2f3615d4a0c7).
+Unfortunately, if you simply press the tool at -1, auto-attacks enable immediately and apply damage well before the tool, causing an early pull. Macro pulling is a way to suppress this automatic enabling of auto-attacks until after air anchor lands, and enable the above optimization.
+
+## How to suppress autos?
+The core idea is to use the /action text command to do your first gcd, in conjunction with a [placeholder](https://ffxiv.consolegameswiki.com/wiki/Placeholders) that allows you to specify the boss for the air anchor command without having the boss selected. This prevents auto-attacks from being enabled. As a note, the boss not being selected at the time of the /ac command is an important component to this working.
+
+## What macro should I use?
+This is a problem where there are so many different possible solutions that the exact macro you should use is down to preference and specific requirements. The exact macro you should use is a matter of UI rather than optimization for the most part, so instead of giving a single macro, I'll detail the various options and leave you to decide what works best for you.
+
+## A note on potion friendliness
+Due to the lack of queueing associated with macros, the most reliably fast way to use a macroed action at the end of a prepull potion's animation lock is to basically spam the action command on every line of the macro. If this is important to you (and it probably is, unless you're using a really weird opener or a 2 min potion), the macro more or less *has* to look like the below
+
+```
+/ac "Air Anchor" <pl>
+/ac "Air Anchor" <pl>
+/ac "Air Anchor" <pl>
+/ac "Air Anchor" <pl>
+/ac "Air Anchor" <pl>
+/ac "Air Anchor" <pl>
+/ac "Air Anchor" <pl>
+/ac "Air Anchor" <pl>
+/ac "Air Anchor" <pl>
+/ac "Air Anchor" <pl>
+/ac "Air Anchor" <pl>
+/ac "Air Anchor" <pl>
+/ac "Air Anchor" <pl>
+/ac "Air Anchor" <pl>
+/micon "Air Anchor" action
+```
+
+...where `<pl>` is a nonexistent placeholder to be replaced with one of the below. The last line can obviously be replaced with an extra /ac text command if you don't care about the ugly and uninformative placeholder macro icon. The tool can be swapped out if you're using something like first gcd drill, as well.
+
+## A list of usable placeholders, in no particular order
+Remember that in every case, *you cannot have the boss selected when pulling*. All of these have this requirement.
+  - `<tt>`: Target another party member, and `/ac "Air Anchor" <tt>` *should* target the boss. Targeting the caster prepull is a stable choice. Requires the target party member to be targeting the boss at the time you use the macro, which should be a given. Switching from targeting a party member to targeting the boss is awkward because you can't simply press tab.
+  - `<f>`: Focus target the boss, and this can work. Remember that you have to reapply focus target every pull. Obviously interferes with focus targeting party members. 
+  - `<lt>`, `<le>`: Target the boss, then don't target anything else, and these can work. `<le>` is more forgiving, in that it doesn't break if you target a party member between targeting the boss and pulling.
+  - `<attackN>`, `<bindN>`, `<square>`, etc.: Overhead markers. You'd need to apply these to the boss before every pull, and this can conflict with marker-based solves.
+  - `<mo>`: Hover your mouse cursor over the boss when pressing this. Not friendly for controller, but otherwise simple and flexible.
+
+## An especially transparent potion-unfriendly macro
+
+If you're not using a prepull potion, such as if the fight calls for a 2 minute pot, and you still wish to open with a tool, I can recommend this:
+```
+/nt
+/ta <0>
+/ac "Air Anchor" <le>
+/ta <le>
+/micon "Air Anchor" action
+```
+
+In single target, using this macro is about the same as simply pressing air anchor, but without any queueing. This macro is especially easy to use and is unlikely to mess with anything else. The starting `/nt` is optional, it just selects the boss if you haven't yet. The command is basically the same as pressing tab.
+
+None of the above is remotely practical with heated split shot instead of tools, at most you're moving the timeline forward by about 0.05 seconds. The damage application delay is simply too short with heated combo gcds.
