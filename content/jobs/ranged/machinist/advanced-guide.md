@@ -556,18 +556,23 @@ land a tick on the boss right as it returns without costing any GCD time. Just r
 As we know, **Automaton Queen** always uses 5 GCDs before the **Pile Bunker** and **Crowned Collider** finishers. These 5 GCDs can be filled with **Arm Punch**es and **Roller Dash**es. The former taking up one GCD slot, and the latter two for double the damage. You can force **Automaton Queen** to use a **Roller Dash** on her 5th GCD. This effectively gives her 6 GCDs worth of damage. To do this, have your tank pull the boss away from **Automaton Queen**'s melee range between her 4th and 5th GCD.
 
 # Macro Pulling
-## Why macro the first gcd?
+
+## Why macro the first GCD?
+
 Machinist's tools have a long delay between *preparation* and *damage application*. The ideal way to pull the boss is to line up the *damage application* of the tool with the countdown, so your gcd is rolling for a bit before the pull, and you gain that time. This pulls your timeline forwards and can earn a gcd sometimes, and makes landing tight gcds at the end of certain phases more lenient--particularly in p12sp1, where you can gain one last air anchor before LC.
 
 Unfortunately, if you simply press the tool at -1, auto-attacks enable immediately and apply damage well before the tool, causing an early pull. Macro pulling is a way to suppress this automatic enabling of auto-attacks until after air anchor lands, and enable the above optimization.
 
 ## How to suppress autos?
+
 The core idea is to use the /action text command to do your first gcd, in conjunction with a [placeholder](https://ffxiv.consolegameswiki.com/wiki/Placeholders) that allows you to specify the boss for the air anchor command without having the boss selected. This prevents auto-attacks from being enabled. As a note, the boss not being selected at the time of the /ac command is an important component to this working.
 
 ## What macro should I use?
+
 This is a problem where there are so many different possible solutions that the exact macro you should use is down to preference and specific requirements. The exact macro you should use is a matter of UI rather than optimization for the most part, so instead of giving a single macro, I'll detail the various options and leave you to decide what works best for you.
 
 ## A note on potion friendliness
+
 Due to the lack of queueing associated with macros, the most reliably fast way to use a macroed action at the end of a prepull potion's animation lock is to basically spam the action command on every line of the macro. If this is important to you (and it probably is, unless you're using a really weird opener or a 2 min potion), the macro more or less *has* to look like the below
 
 ```
@@ -591,16 +596,19 @@ Due to the lack of queueing associated with macros, the most reliably fast way t
 ...where `<pl>` is a nonexistent placeholder to be replaced with one of the below. The last line can obviously be replaced with an extra /ac text command if you don't care about the ugly and uninformative placeholder macro icon. The tool can be swapped out if you're using something like first gcd drill, as well.
 
 ## A list of usable placeholders, in no particular order
+
 Remember that in every case, *you cannot have the boss selected when pulling*. All of these have this requirement.
-  - `<tt>`: Target another party member, and `/ac "Air Anchor" <tt>` *should* target the boss. Targeting the caster prepull is a stable choice. Requires the target party member to be targeting the boss at the time you use the macro, which should be a given. Switching from targeting a party member to targeting the boss is awkward because you can't simply press tab.
-  - `<f>`: Focus target the boss, and this can work. Remember that you have to reapply focus target every pull. Obviously interferes with focus targeting party members. 
-  - `<lt>`, `<le>`: Target the boss, then don't target anything else, and these can work. `<le>` is more forgiving, in that it doesn't break if you target a party member between targeting the boss and pulling.
-  - `<attackN>`, `<bindN>`, `<square>`, etc.: Overhead markers. You'd need to apply these to the boss before every pull, and this can conflict with marker-based solves.
-  - `<mo>`: Hover your mouse cursor over the boss when pressing this. Not friendly for controller, but otherwise simple and flexible.
+
+* `<tt>`: Target another party member, and `/ac "Air Anchor" <tt>` *should* target the boss. Targeting the caster prepull is a stable choice. Requires the target party member to be targeting the boss at the time you use the macro, which should be a given. Switching from targeting a party member to targeting the boss is awkward because you can't simply press tab.
+* `<f>`: Focus target the boss, and this can work. Remember that you have to reapply focus target every pull. Obviously interferes with focus targeting party members. 
+* `<lt>`, `<le>`: Target the boss, then don't target anything else, and these can work. `<le>` is more forgiving, in that it doesn't break if you target a party member between targeting the boss and pulling.
+* `<attackN>`, `<bindN>`, `<square>`, etc.: Overhead markers. You'd need to apply these to the boss before every pull, and this can conflict with marker-based solves.
+* `<mo>`: Hover your mouse cursor over the boss when pressing this. Not friendly for controller, but otherwise simple and flexible.
 
 ## An especially transparent potion-unfriendly macro
 
 If you're not using a prepull potion, such as if the fight calls for a 2 minute pot, and you still wish to open with a tool, I can recommend this:
+
 ```
 /nt
 /ta <0>
