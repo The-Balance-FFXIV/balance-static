@@ -5,11 +5,14 @@ authors:
   - Laille-Ormesaing
   - lana
   - mazz
-patch: "6.2"
-lastmod: 2022-08-30T01:02:53.978Z
+patch: "6.4"
+lastmod: 2023-09-18T19:03:40.135Z
 changelog:
   - date: 2022-08-30T01:03:30.417Z
     message: Created page
+  - date: 2023-09-18T19:03:01.466Z
+    message: Updated Garuda opener and Ultima reopener infographics with correct
+      image links
 ---
 # General Fight Tips
 
@@ -47,13 +50,13 @@ Embolden should be aligned to where the rest of your group is using their raid b
 
 As with other fights in the game, Vercure can be used during downtime in-between phases in order to prepare a Dualcast for when the boss becomes targetable again. In addition to this, in phases where the boss isn’t targetable and heavy raid damage is going out, Vercure can be used to assist your healers with healing wherever it may be needed.  
 
-# Phase One: Garuda 
+# Phase One: Garuda
 
 ## Opener and Feathers
 
  Your opener on Garuda will ideally have you aligning your Verholy/Verflare finisher to cleave the plumes when they’re in proximity of the boss. If your group asks for it, you can also use three Enchanted Moulinet to proc your finisher as well. You can also choose to follow your finisher with a Contre Sixte and Acceleration-proc’d Impact for additional AoE damage, as illustrated below:
 
-![Garuda Opener](/img/image2.png "Garuda Opener")
+![Garuda Opener](/img/rdm_uwu_garuda_opener.png "Garuda Opener")
 
 If you are unable to double weave your potion with Fleche, all oGCDs will have to be shifted back slightly - [this link has an example sequence](https://ffxivrotations.com/3qv6). If following the example sequence, Fleche will be drifted slightly, either being used on the Spiny Plume or on Garuda when she comes back to do Frictions. This drift will likely not cause a lost usage throughout the phase, but depending on your killtime you can consider adjusting the opener as you see fit.
 
@@ -65,7 +68,7 @@ When Garuda becomes targetable after the Feather Rain following Friction and cle
 
 Addle in this phase will be used on either Friction or Aerial Blast. With only one caster, Addle is higher value on Friction as it will cover the cleanses being done as well, but it is up to your healers to decide where it is wanted most. 
 
-# Phase Two: Ifrit 
+# Phase Two: Ifrit
 
 ## Potion Usage
 
@@ -89,7 +92,7 @@ For the Eruption baits following nails, you can retain uptime by using a paired 
 
 The main use for Addle in this phase will be for Hellfire. If you have a second caster, their Addle can be used on the Flaming Crush stack, although this will usually not be necessary. 
 
-# Phase Three: Titan 
+# Phase Three: Titan
 
 ## Weight of the Lands
 
@@ -107,7 +110,7 @@ Many Landslides occur during this phase, some of which may not always align with
 
 Addle in this phase should mainly be used on Tumults. The most common one to Addle is the first Tumult, as a healer being Gaoled can make this harder to heal, but all three Tumults are very high value to Addle, and should be discussed with healers. It is also possible to Addle Earthen Fury, although this is usually not as high priority as Tumults. 
 
-# Phase Four: Ultima Weapon 
+# Phase Four: Ultima Weapon
 
 ## Intermission
 
@@ -123,7 +126,7 @@ For consistency's sake, a macro can be used to LB the Magitek Bits more easily w
 
 You should use your potion before Ultima becomes targetable. You only have a few seconds of a window in order to potion and not lose the buff on the final Fleche. You can use your potion about a second after the white light disappears. 
 
-![Ultima Reopener](/img/image1.png "Ultima Reopener")
+![Ultima Reopener](/img/rdm_uwu_ultima_reopener.png "Ultima Reopener")
 
 ## Ultimate Annihilation Uptime
 
