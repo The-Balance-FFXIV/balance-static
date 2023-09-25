@@ -16,7 +16,7 @@ This document contains suggestions on how to use your cooldowns effectively and 
 
 You can take a [2.5 mid-piety set](https://etro.gg/gearset/ec325832-c1d5-4120-839c-60f9576e23cc>), which comes with a lot of piety for progging. I would recommend to hold off on dropping any Piety until you’ve cleared, as phase 7 is the most mana-intensive part of this fight, while P1-P5 will have you often overcapping on mana thanks to all of the downtime. After clearing, you can change to one of the lower piety sets as long as you're doing the [6-1-1 strat in P7](https://etro.gg/gearset/a4876dd0-8535-403d-b2bd-293e3663c400).
 
-You can bring the 615 relic weapon. It gives an extra nine Crit over the 605 raid weapon, though the 605 Ultimate weapon still beats both -- just add one Direct Hit X meld.
+You can bring the 615 relic weapon. It gives an extra 9 Crit over the 605 raid weapon, though the 605 Ultimate weapon still beats both -- just add one Direct Hit X meld.
 
 ## Phase By Phase Fight Tips
 
@@ -24,17 +24,16 @@ You can bring the 615 relic weapon. It gives an extra nine Crit over the 605 rai
 
 #### Thordan Opening
 
-* Healing isn’t too heavy here only the Tank takes damage but if they aren’t using invulnerability they can take a lot. 
-* Prepull Recitation lines up well for this fight so feel free to excog your Tanks
-* It’s important to understand how your Tanks will be handling busters in this phase. Tanks will require healing during Ascalon’s might if they’re using cooldowns instead of their Invulns. Discuss with your Tanks how they’re planning mitigation and invulns so you can be prepared with excogs and shields.
+* Healing isn’t too heavy here -- only the tank takes damage, but if they aren’t using invulnerability they can take a lot. 
+* Prepull Recitation lines up well for this fight, so feel free to excog your tanks.
+* It’s important to understand how your tanks will be handling busters in this phase. Tanks will require healing during Ascalon’s might if they’re using cooldowns instead of their invulns. Discuss with your tanks how they’re planning mitigation and invulns so you can be prepared with Excog and shields.
 
-#### Strength healing advice
+#### Strength Healing Advice
 
-* Be aware of where you can go even when healing if you have defamation markers look at where people are going so you can quickly get to a spot without forcing someone else to adjust for you
-* Seraph has a good use here I usually summon her after dodging so I can get my second Consolation before Ancient Quaga (Note: Seraph can also be used in Sanctity to help survive ⅗ splits during prog both are good spots to use Seraph and it’ll be back up in time for Nidhogg)
+* Be aware of where you can go, even when healing. If you have defamation markers, look at where people are going so you can quickly get to a spot without forcing someone else to adjust for you.
+* Seraph has a good use here. I usually summon her after dodging so I can get my second Consolation before Ancient Quaga. (Note: Seraph can also be used in Sanctity to help survive 3/5 splits during prog. Both are good spots to use Seraph and it’ll be back up in time for Nidhogg)
 * Expedient is a good use here, letting everyone quickly get to their spot and mitigating the significant damage. I press it after my Succor so it’ll last as long as it can.
-* Tethers are proximity based crossing them will make Tanks take less damage.
-* Thordan post Strength
+* Tethers are proximity based. Crossing them will make tanks take less damage.
 * Ancient Quaga into busters. Reminder Soil applies instantly so a later Soil can help mitigate and give regen to Tanks taking the buster while also mitigating Quaga.
 * You can start Recitation at the start of Thordan’s Tank buster and start casting Adlo after the second/third swing. This ensures Recite Spreadlo is back up for Nidhogg transition if your group doesn’t want to hold for whatever reason.
 
