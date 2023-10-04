@@ -3,7 +3,7 @@ title: Dragonsong's Reprise (Ultimate)
 card_header_image: /img/jobs/rpr/front-picture.png
 authors:
   - sekki
-patch: "6.4"
+patch: "6.5"
 lastmod: 2022-12-01T04:36:01.371Z
 changelog:
   - date: 2022-08-05T15:12:19.623Z
@@ -17,6 +17,8 @@ changelog:
       a note for playing with a dancer in the group. Also added a note for
       bursting during Wyrmbreath 2 & an example video for how to properly uptime
       downtime Hallowed Plume 1.
+  - date: 2023-10-04T17:30:53.033Z
+    message: Updated Patch number.
 ---
 # Reaper Guide for Dragonsong’s Reprise (Ultimate)
 
