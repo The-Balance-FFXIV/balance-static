@@ -1,8 +1,8 @@
 ---
 title: Machinist Best in Slot (BiS)
 layout: bis
-patch: "6.45"
-lastmod: 2023-07-24T20:29:30.276Z
+patch: "6.5"
+lastmod: 2023-10-04T10:36:20.649Z
 changelog:
   - date: 2021-10-25T22:11:04.615Z
     message: Created page
@@ -16,6 +16,8 @@ changelog:
     message: 6.4 update
   - date: 2023-07-24T20:29:03.578Z
     message: Updated TOP and DSR sets for 6.45
+  - date: 2023-10-04T10:36:00.506Z
+    message: top bis updated for 6.5
 bis:
   - type: etro
     description: ""
@@ -30,10 +32,9 @@ bis:
     name: 6.4 Week 1 Alternative set 2.5 GCD
     link: https://etro.gg/gearset/e8ddbad4-90ed-44dd-914e-bf521baba55d
   - type: etro
-    description: Highest DPS set, works best with phase timings. Can change one ring
-      for a non SKS piece to obtain 2.5, this may be more comfortable for some.
-    name: TOP Best-in-Slot 2.47 GCD
-    link: https://etro.gg/gearset/4cacb4a1-2683-4a8f-99b5-7c5bdf0f4bbc
+    description: Highest DPS, abuses 6.5 dungeon gear and the 645 relic weapon.
+    name: TOP Best-in-Slot 2.5 GCD
+    link: https://etro.gg/gearset/179676c8-dbb8-4a8b-990e-5e7fbc3b6df6
   - type: etro
     description: The BiS for Dragonsong's Reprise in Patch 6.45 using the Relic
       weapon. Relic weapon is the best available weapon for DSR. Alternatives
