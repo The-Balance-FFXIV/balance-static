@@ -14,6 +14,8 @@ changelog:
     message: Updated patch number
   - date: 2023-05-30T23:34:47.099Z
     message: Patch Update
+  - date: 2023-10-04T16:51:04.278Z
+    message: Updated patch number to 6.5
 tags:
   - Reaper
   - guide
