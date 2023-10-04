@@ -24,19 +24,13 @@ bis:
     name: i660 Best In Slot
     link: f2426d1e-2da8-4151-bf52-74ca67b5f4a2
   - type: etro
-    description: >-
-      Prioritize buying boots with your tomes. Ideally, trade in one line of
-      Wondrous Tales, or do a quick dungeon run, to buy them before Savage goes
-      up.
-
-
-      Until you get the tome bracelet, use the crafted one with all Crit melds.
-    name: i642 Week 1 Savage progression set
-    link: 087224e3-4228-4294-a1ec-2589eae56fb3
+    description: ""
+    name: The Omega Protocol (prog) BiS (more hp)
+    link: 5f02a28a-4114-41e7-a9b4-349089a8b387
   - type: etro
     description: ""
-    name: The Omega Protocol (prog) BiS
-    link: 2a242f9b-8a41-4d09-9e14-3c8fb08e97e4
+    name: The Omega Protocol (prog) BiS (max dmg)
+    link: b80d186b-8c73-4282-adab-5fda3909ec54
   - type: etro
     description: ""
     name: Dragonsong's Reprise (prog) BiS
