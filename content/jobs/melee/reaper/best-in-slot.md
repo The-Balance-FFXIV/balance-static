@@ -1,7 +1,7 @@
 ---
 title: Reaper Best-in-Slot
 layout: bis
-patch: "6.4"
+patch: "6.5"
 lastmod: 2023-03-11T01:23:35.108Z
 changelog:
   - date: 2022-01-02T23:10:40.632Z
@@ -67,16 +67,17 @@ bis:
     name: Dragonsong's Reprise (Ultimate) BiS (No 6.3 Dungeon Gear Option)
     link: b301e789-96da-42f2-9628-95f68345e35b
   - type: etro
-    description: Recommended gearset to prog TOP as of patch 6.45. The 645
-      Manderville Relic is slightly ahead of the TOP Scythe, putting this set
-      slightly ahead of the other option.
-    name: The Omega Protocol (Ultimate) BiS (6.45 Relic Option)
-    link: 4f0280fb-557a-4de1-af4b-62e85ca282fa
+    description: Recommended gearset to prog TOP as of patch 6.5. This set includes
+      the Dungeon Gear from patch 6.5, putting this set slightly ahead of the
+      other option.
+    name: The Omega Protocol (Ultimate) BiS (6.5 Dungeon Gear + 6.45 Relic Option)
+    link: d40f9b9d-c459-4ca4-a9e6-570c4034ecb2
   - type: etro
     description: This is just the Abyssos 2.49 BiS, which is slightly lower in DPS
-      than the Relic option. If using the TOP scythe, meld two Direct Hit X's
-      and one Skill Speed X.
-    name: The Omega Protocol (Ultimate) BiS (No Relic Option)
+      than the Dungeon Gear + Relic option. If using the TOP scythe, meld two
+      Direct Hit X's and one Skill Speed X.
+    name: The Omega Protocol (Ultimate) BiS (No 6.5 Dungeon Gear + No 6.45 Relic
+      Option)
     link: c293f73b-5c58-4855-b43d-aae55b212611
 authors:
   - Balance-RPR-Staff
