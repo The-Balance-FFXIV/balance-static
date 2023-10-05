@@ -16,30 +16,23 @@ changelog:
     message: Updated for 6.31.
   - date: 2023-05-25T20:25:04.448Z
     message: Updated for 6.4
+  - date: 2023-10-05T19:39:55.107Z
+    message: Updated for 6.5
 bis:
   - type: etro
     description: ""
     link: https://etro.gg/gearset/6556da3a-4514-439e-b4f4-07e0ccc85e93
     name: 6.4 Anabaseios Savage BiS
   - type: etro
-    description: ""
-    name: 2.10 GCD TOP BIS (With Clear)
-    link: https://etro.gg/gearset/48376486-c63b-4867-bb94-d766151397a4
+    description: The recommended set.
+    name: 2.10 GCD TOP BIS
+    link: https://etro.gg/gearset/9f28fd54-55fe-4814-aee1-f19e419d95d0
   - type: etro
-    description: This is slightly worse than 2.10 in simulated damage, but is much
-      comfier to play.
-    name: 2.12 GCD TOP BIS (With Clear)
-    link: 37dadadf-7fa3-4236-8f7f-39d2d8ab6ccf
-  - type: etro
-    description: This is the highest simulated set, but is slightly harder to play
-      perfectly.
-    name: 2.10 GCD TOP BIS (Without Clear)
-    link: c0c2ba50-b93a-4d18-8cba-a0ebb0705fed
-  - type: etro
-    description: This is slightly worse than 2.10 in simulated damage, but is much
-      comfier to play.
-    name: 2.12 GCD TOP BIS (Without Clear)
-    link: 9e07d761-8105-4ee5-9921-8f35d8b4a631
+    description: Sims ~12dps higher than the 2.10 set, however will lose you GCDs
+      due to the nature of TOP having frequent downtime periods which will cause
+      you to ghost GCDs as the boss becomes untargetable.
+    name: 2.12 GCD TOP BIS
+    link: https://etro.gg/gearset/3678acdd-df85-4c7e-a8ae-528859211913
   - type: etro
     description: ""
     name: DSR BIS (With Clear)
