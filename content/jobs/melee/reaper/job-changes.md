@@ -45,6 +45,11 @@ changes:
   - patch: "6.4"
     description: The radius for our Raid buff, Arcane Circle, has been doubled from
       15y to 30y.
+  - patch: "6.5"
+    description: |-
+      Gluttony went from 500 potency to 520 potency.
+
+      Lemure's Slice went from 220 potency to 240 potency.
 authors:
   - Laille-Ormesaing
   - Balance-RPR-Staff
