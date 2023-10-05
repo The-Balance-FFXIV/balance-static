@@ -1,8 +1,8 @@
 ---
 title: Dragoon Best in Slot (BiS)
 layout: bis
-patch: "6.45"
-lastmod: 2023-07-24T18:18:40.787Z
+patch: "6.5"
+lastmod: 2023-10-03T17:06:08.996Z
 changelog:
   - date: 2021-10-29T03:01:01.840Z
     message: Created page
@@ -15,6 +15,8 @@ changelog:
   - date: 2023-07-18T18:18:46.746Z
     message: Updated DSR and TOP sets with the new relic. Removed separate prog sets
       for these fights.
+  - date: 2023-10-03T17:06:15.459Z
+    message: Added new TOP sets, removed pentamelded crafted sets
 bis:
   - type: etro
     description: Choosing this 2.50 set is highly recommended. It is much easier to
@@ -30,25 +32,15 @@ bis:
     name: 2.46 GCD
     link: ba65b9ee-ec73-4b80-86c1-66a71849a5c8
   - type: etro
-    description: Once again we recommend 2.50 for players who aren't comfortable
-      with 2.46. However the **crafted 2.46 set is significantly better than the
-      2.50 set**, even if you are not perfectly familiar with playing around the
-      skill speed it is likely you will achieve better results.
-    name: Pentamelded Crafted 2.46
-    link: 3fd240b1-6640-4992-92b7-7a13b0e2cdcc
-  - type: etro
-    description: Once again we recommend 2.50 for players who aren't comfortable
-      with 2.46. However the **crafted 2.46 set is significantly better than the
-      2.50 set**, even if you are not perfectly familiar with playing around the
-      skill speed it is likely you will achieve better results.
-    name: Pentamelded Crafted 2.50
-    link: 8064c028-c64a-482f-a74c-75e158f34d9b
-  - type: etro
     description: Syncing gear is currently not a viable option for this fight due to
       the massive loss of substats from materia. The relic weapon is an
       exception.
-    name: TOP BiS
-    link: d83f9fff-378e-4555-99d8-8e90575d688f
+    name: TOP BiS 2.46 (10,542 dps)
+    link: 7593a2bb-23f0-4732-b650-e914f05de91c
+  - type: etro
+    description: ""
+    name: TOP BiS 2.50 (10,504 dps)
+    link: 12ca87f3-1569-410d-8fc3-53151065139a
   - type: etro
     description: Syncing gear is currently not a viable option for this fight due to
       the massive loss of substats from materia. The relic weapon is an
