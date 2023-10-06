@@ -2,7 +2,7 @@
 title: Reaper Openers
 authors:
   - Balance-RPR-Staff
-patch: "6.4"
+patch: "6.5"
 lastmod: 2023-05-30T23:32:26.914Z
 changelog:
   - date: 2022-01-29T01:54:23.902Z
@@ -13,6 +13,8 @@ changelog:
     message: Updated patch number
   - date: 2023-05-30T23:32:31.048Z
     message: Patch check 6.4
+  - date: 2023-10-04T16:56:09.014Z
+    message: Updated patch number to 6.5
 ---
 ## Fast Enshroud Opener
 
