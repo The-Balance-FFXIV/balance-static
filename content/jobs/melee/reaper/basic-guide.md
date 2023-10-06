@@ -3,7 +3,7 @@ title: "Reaper Basic Guide "
 card_header_image: /img/jobs/rpr/rpr-basic.png
 authors:
   - ellunavi
-patch: "6.4"
+patch: "6.5"
 lastmod: 2023-05-30T23:34:44.604Z
 changelog:
   - date: 2022-01-02T21:17:24.172Z
@@ -14,6 +14,8 @@ changelog:
     message: Updated patch number
   - date: 2023-05-30T23:34:47.099Z
     message: Patch Update
+  - date: 2023-10-04T16:51:04.278Z
+    message: Updated patch number to 6.5
 tags:
   - Reaper
   - guide
@@ -56,6 +58,15 @@ Reaper has access to a few resources that you will need to master to play the jo
 **Enshroud**: Enshroud is Reaper's burst window which changes how the Reaper looks, activates a job gauge and changes a few abilities and weaponskills. For more detailed information on what changes, visit the Skill Details page. When you first Enshroud you generate five blue orbs (Lemure Shroud) which can be spent on the rapid 1.5s global cooldown weaponskills Void Reaping, Cross Reaping and Grim Reaping. When spending a blue orb, this way it will generate a purple orb (Void Shroud), which you can spend in sets of two on off-global abilities -- Lemure’s Slice and Lemure’s Scythe. Lastly, you can end the Enshroud phase by spending all of your Lemure Shroud, or by using the powerful spell Communio. 
 
 ![](/img/jobs/rpr/2021-12-20_02-49-47-723_eg9-darklite.png)
+
+# Melee Positionals:
+All melee DPS have skills that deal additional potency when used from the Rear of Flank of the target. This means you must be positioned correctly relative to the target's hitbox ring to meet the requirement. Positional zones are shown here on the left image under this section.
+
+Some targets have a closed circle target ring or are a "wall-style" target that it is impossible to get to the rear of. Positional requirements are fulfilled no matter where you stand relative to the target. These types of enemies can be identified by the front-facing arrow being inside the hitbox instead of outside of the hitbox (as shown in the image to the right).
+
+![](/img/jobs/rpr/anoqtwm.png)
+
+Do be aware, that Gibbet and Gallows are the only skills that have positional requirements. Void Reaping and Cross Reaping **DO NOT** have positional requirements.
 
 # Basic Rotation
 
