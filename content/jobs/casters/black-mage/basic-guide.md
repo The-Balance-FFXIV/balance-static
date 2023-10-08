@@ -153,8 +153,6 @@ For 2-Target situations, the standard single target rotation is used, with a few
 
 Use Thunder III on each target. Flare can be a gain over Despair if you can make it instant cast (via Swiftcast or Triplecast), even without the Enhanced Flare buff.
 
-
-
 As of Patch 6.4, Foul is no longer a gain over using Xenoglossy until there are three or more targets.
 
 # **oGCD Abilities**
@@ -162,6 +160,8 @@ As of Patch 6.4, Foul is no longer a gain over using Xenoglossy until there are 
 Whenever possible, oGCD abilities should be weaved to avoid delays in casting. One oGCD ability can be used after Fire III/High Fire II from Umbral Ice III, and after Blizzard III/High Blizzard II from Astral Fire III. Up to two oGCD abilities can be weaved after instant-cast spells (Xenoglossy/Foul, Paradox in Umbral Ice, Thundercloud/Firestarter procs, or spells made instant via Swiftcast/Triplecast).
 
 In case of emergency to prevent deaths (using Addle/Manaward/panic Aetherial Manipulation), or to keep uptime where it otherwise would not be possible, it situationally can still be good to use oGCD abilities even without weaving them. However, it is recommended to later figure out a better way to deal with the situation without relying on clipping oGCD abilities.
+
+![](/img/jobs/blm/blmweaving.png)
 
 Below are general recommendations for usage of various oGCD abilities for BLM.
 
