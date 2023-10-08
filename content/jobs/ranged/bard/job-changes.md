@@ -31,6 +31,10 @@ changes:
       * The range of song passive buffs extended to 50 yalms
 
       * The range of Troubadour, Nature's Minne, Battle Voice, Radiant Finale, and Peloton increased to 30 yalms
+  - patch: "6.5"
+    description: |-
+      * Empyreal Arrow potency increased from 230 to 240
+      * Sidewinder potency increased from 300 to 320
 authors:
   - Balance-BRD-Staff
 ---
