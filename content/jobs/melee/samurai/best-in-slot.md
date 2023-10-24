@@ -1,8 +1,8 @@
 ---
 title: Samurai Best in Slot (BiS)
 layout: bis
-patch: "6.2"
-lastmod: 2022-08-30T00:41:31.245Z
+patch: "6.5"
+lastmod: 2023-10-25T00:41:31.245Z
 changelog:
   - date: 2021-10-28T03:30:20.029Z
     message: Created page
@@ -14,49 +14,43 @@ changelog:
     message: Updated for 6.2
   - date: 2022-08-30T00:41:37.239Z
     message: Changed set descriptions.
+  - date: 2023-10-24T22:43:46.067Z
+    message: Updated for 6.5
 bis:
   - type: etro
-    description: |
+    description: >-
       28 GCD loop, 2 filler GCDs.
 
-      10814.28 dps DPS including 5% party buff.
 
       Classic "Slow SAM". Highest DPS, easiest weaving.
-    link: https://etro.gg/gearset/4356046d-2f05-432a-a98c-632f11098ade
+
+
+      For 2.14 and a direct meld cross with MNK BiS swap 2 DH melds for 2 SKS melds.
+    link: https://etro.gg/gearset/d4b6bfc6-a82f-4732-8e55-7c13e094fc1d
     name: 2.15 Savage BiS
   - type: etro
-    description: >
+    description: >-
       29 GCD loop, 3 filler GCDs.
 
 
-      10755.76 DPS including 5% party buff.
-
-
       Small hit in DPS in exchange for a slightly extended rotation, offering more flexibility with mechanic downtime.
-    name: 2.07 Savage BiS
-    link: https://etro.gg/gearset/56e084de-6194-45a5-8af7-6834f902f791
+    name: 2.08 Savage BiS
+    link: https://etro.gg/gearset/b25e8d82-3dcc-4656-aa62-07dce32f2976
   - type: etro
-    description: >
+    description: >-
       30 GCD loop, 4 filler GCDs.
 
 
-      10684.28 DPS including 5% party buff.
-
-
-      Classic "Fast SAM". Trades a ~1% DPS loss for a faster playstyle with even more filler to maneuver mechanic downtime. May have difficulty iai/double weaving even on the best of connections.
+      Classic "Fast SAM". Trades a ~1% DPS loss for a faster playstyle with even more filler to maneuver mechanic downtime. May have difficulty Iai/double weaving even on the best of connections.
     name: 2.00 Savage BiS
-    link: https://etro.gg/gearset/601428-cf57-456b-a2ed-321fd2c25ff7
+    link: https://etro.gg/gearset/b0db96d2-564d-4850-971e-54a4436d63bd
   - type: gsheets
     description: >-
       Sets for these fights are community-sourced through use of Jahaudant's
-      Gear Planner. The below sets have been sourced from Niche.
+      Gear Planner. The below sets have been sourced from Niche and boxer.
 
 
-      [UCoB](https://i.imgur.com/KnHYimM.png)\
-
-      [UWU](https://i.imgur.com/igyekfg.png)\
-
-      [TEA](https://i.imgur.com/hehTgp0.png)
+      [UCoB](https://i.imgur.com/aniy6ht.png) | [UWU](https://i.imgur.com/QEmLdA9.png) | [TEA](https://i.imgur.com/2awgvoO.png) | [DSR](https://i.imgur.com/wHvW0JZ.png) | [TOP](https://i.imgur.com/AhgK3CY.png)
     name: 'Ultimate/Unreal Sync "BiS" Sets:'
     link: https://bit.ly/Gear-Planner
 authors:
