@@ -1,13 +1,15 @@
 ---
 title: Samurai FAQ
 layout: qna
-patch: "6.21"
-lastmod: 2022-09-13T04:35:22.359Z
+patch: "6.5"
+lastmod: 2023-10-24T04:35:22.359Z
 changelog:
   - date: 2021-10-28T03:27:15.029Z
     message: Created page
   - date: 2022-08-03T02:08:57.771Z
     message: Updated for 6.18
+  - date: 2023-10-24T23:07:45.272Z
+    message: Updated for 6.5
 qna:
   - question: Is X better than Y for me?
     answer: >-
