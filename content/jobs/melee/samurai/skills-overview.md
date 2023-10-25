@@ -2,8 +2,8 @@
 title: Samurai Skills Overview
 authors:
   - Balance-SAM-Staff
-patch: "6.21"
-lastmod: 2022-09-13T04:34:05.264Z
+patch: "6.5"
+lastmod: 2023-10-24T04:34:05.264Z
 changelog:
   - date: 2021-10-28T03:25:40.964Z
     message: Created page
@@ -13,6 +13,8 @@ changelog:
     message: Updated for 6.18
   - date: 2022-08-25T04:01:48.819Z
     message: Updated for 6.2
+  - date: 2023-10-24T23:05:45.996Z
+    message: Updated for 6.5
 ---
 # Samurai Skills Overview
 
