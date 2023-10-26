@@ -221,13 +221,13 @@ Inevitably when learning a fight (and the job itself), there will be situations 
 
 The most common situation to encounter is running out of time on the Astral Fire timer. In order to try to prevent dropping Astral Fire entirely, there are a few options to consider:
 
-![](/img/jobs/blm/b1recovery.png)
-
 * Pre-emptively using Sharpcast on the Astral Fire Paradox, then using the Firestarter proc to later refresh the Astral Fire timer to make it possible to finish the phase without losing any Fire IV casts or the Despair cast
 * Using Triplecast and/or Swiftcast in order to speed up the Astral Fire phase, making Fire IV casts and potentially the Despair instant. Since instant Despair refreshes Astral Fire sooner than a casted Despair, this will sometimes allow for finishing the phase properly.
 * If other options are not available, using Despair early to prematurely end the phase will generally be stronger than casting Fire to refresh the Astral Fire timer, then finishing off the phase
 
 If all else fails, attempt to salvage things by using Blizzard III prematurely, or as a last ditch effort, use Transpose to switch to Umbral Ice and consider the following sequence to recover before returning back to the standard rotation:
+
+![](/img/jobs/blm/b1recovery.png)
 
 Using Transpose to swap from Astral Fire III to Umbral Ice will grant the Paradox. Paradox in Umbral Ice will give another Umbral Ice stack, so only Blizzard is required to build up to Umbral Ice III.
 
