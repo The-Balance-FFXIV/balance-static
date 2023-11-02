@@ -39,6 +39,7 @@ You can bring the 615 relic weapon. It gives an extra 9 Crit over the 605 raid w
 
 #### Sanctity
 
+* If your Thordan kill time is fast you may need to dissipation before Thordan casts Sanctity. You can cast Adlo after the third hit of the tank buster and it'll last through jumps. Doing this will make sure Recite is back up before Nidhogg transition.
 * With Recitation Spreadlo you only really need small mitigation and Succor to heal this however you can add an Indom if you want to be safer. (You can move Seraph to this during prog to help heal ⅗ jumps)
 * You can queue up a Swiftcast after taking the second damage just in case someone dies you can be ready to raise them instantly. If they don’t die you can just Succor in the middle.
 * If you’re in the 1 group start casting Succor when the cast bar for The Dragon’s Gaze is nearly complete.
@@ -63,7 +64,7 @@ You can bring the 615 relic weapon. It gives an extra 9 Crit over the 605 raid w
 
 #### Nidhogg Tank healing advice
 
-* Tanks can either invuln the buster or mitigate it, It’s important to help Tanks out as it can become very close if they aren’t using invuln.  they’ll need help for the auto chain afterward, I suggest Protraction and Fey Union plus excog if needed but be aware you have a co-Healer who can deal with the autos extremely well.
+* Tanks can either invuln the buster or mitigate it, tanks can make mistakes when first progging it and excog on a non invuln tank can help..  they’ll need help for the auto chain afterward, I suggest Protraction and Fey Union plus excog if needed but be aware you have a co-Healer who can deal with the autos extremely well.
 
 ### Phase Four: The Eyes of Nidhogg
 
