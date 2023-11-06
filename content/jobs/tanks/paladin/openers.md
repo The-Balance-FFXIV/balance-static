@@ -17,9 +17,9 @@ changelog:
 ---
 # Paladin Openers
 
-Tanks currently use Grade 7 Tinctures of Strength 
+Tanks currently use Grade 8 Tinctures of Strength 
 (Strength also affects tank magic potency, including healing).
 
 ## In-depth Opener and Rotation Graphic
 
-![Paladin Slow GCD Opener and Rotation infographic](https://xiv.sleepyshiba.com/pld/img/63-v2.png?)
+![Paladin Opener and Rotation infographic](https://xiv.sleepyshiba.com/pld/img/64-v1.png)
