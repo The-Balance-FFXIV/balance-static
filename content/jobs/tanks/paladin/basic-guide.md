@@ -3,8 +3,8 @@ title: Paladin Basics Guide
 card_header_image: /img/jobs/pld/basic.png
 authors:
   - nikroulah
-patch: "6.4"
-lastmod: 2023-01-12T19:52:04.847Z
+patch: "6.5"
+lastmod: 2023-11-06T06:04:35.317Z
 changelog:
   - date: 2021-10-27T17:21:54.665Z
     message: Added
@@ -18,6 +18,8 @@ changelog:
     message: Updated for 6.3
   - date: 2023-05-25T01:08:48.236Z
     message: Text updated for 6.4
+  - date: 2023-11-06T06:04:37.880Z
+    message: Updated infographic for 6.4 changes
 tags:
   - Rotation
   - PaladinRotation
@@ -63,9 +65,7 @@ After the opener, we cycle between a filler phase and a burst phase (explained b
 
 ### Paladin Rotation
 
-(Image not up to date for patch 6.4)
-
-![6.3 Paladin Rotation](https://xiv.sleepyshiba.com/pld/img/63-v2rotation.png)
+![6.3 Paladin Rotation](https://xiv.sleepyshiba.com/pld/img/64-v1.png)
 
 #### **Burst Phase**
 
