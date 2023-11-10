@@ -1,7 +1,7 @@
 ---
 title: Paladin Changes
 layout: changes
-lastmod: 2023-05-25T01:20:47.146Z
+lastmod: 2023-11-06T06:07:07.502Z
 changes:
   - patch: "6.0"
     description: "[Click here to view the full list of changes on the Official
@@ -28,6 +28,9 @@ changes:
     description: Royal Authority, Atonement, Riot Blade, and Circle of Scorn buffed.
       Atonement no longer breaks combo so we can hold them for Fight or Flight
       (don't overwrite stacks!)
+  - patch: "6.51"
+    description: Circle of Scorn, Requescat, and all 4 hits of the Blade of Valor
+      combo are buffed by 20 potency. No gameplay changes.
 authors:
   - Balance-PLD-Staff
   - nikroulah
