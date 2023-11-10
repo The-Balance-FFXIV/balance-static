@@ -3,8 +3,8 @@ title: Paladin Openers
 authors:
   - Balance-PLD-Staff
   - nikroulah
-patch: "6.3"
-lastmod: 2023-01-12T19:52:14.241Z
+patch: "6.5"
+lastmod: 2023-11-06T06:06:31.641Z
 changelog:
   - date: 2021-10-27T17:21:23.427Z
     message: Created
@@ -14,12 +14,14 @@ changelog:
     message: Updated for 6.2 with slow rotation info
   - date: 2023-01-12T19:51:26.453Z
     message: Updated for 6.3
+  - date: 2023-11-06T06:06:32.632Z
+    message: Updated graphic for 6.4 changes
 ---
 # Paladin Openers
 
-Tanks currently use Grade 7 Tinctures of Strength 
+Tanks currently use Grade 8 Tinctures of Strength 
 (Strength also affects tank magic potency, including healing).
 
 ## In-depth Opener and Rotation Graphic
 
-![Paladin Slow GCD Opener and Rotation infographic](https://xiv.sleepyshiba.com/pld/img/63-v2.png?)
+![Paladin Opener and Rotation infographic](https://xiv.sleepyshiba.com/pld/img/64-v1.png)
