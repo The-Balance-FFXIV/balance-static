@@ -280,27 +280,19 @@ As the first Unlimited Wave Cannon has proteans immediately after it, you can ei
 
 Caster Limit Break 3 is required to resolve Cosmo Meteor. To do this, Use LB3 as soon as you’re safe from the telegraphed AOEs, standing around the red line on the hitbox, allowing you to still be in proximity for healing as you’ll be animation locked for ~12.5 seconds. You need to place your LB3 at the center of the boss so that you can hit all of the meteors. It is strongly recommended that you use a macro to do this, as you will be running away from the boss to dodge the baited AOEs. Here is a working example:
 
+```
 /ac "Limit Break" <t>
-
 /ac "Limit Break" <t>
-
 /ac "Limit Break" <t>
-
 /ac "Limit Break" <t>
-
 /ac "Limit Break" <t>
-
 /ac "Limit Break" <t>
-
 /ac "Limit Break" <t>
-
 /ac "Limit Break" <t>
-
 /ac "Limit Break" <t>
-
 /merror off
-
 /micon "Limit Break" action
+```
 
 **Potion Usage**
 
