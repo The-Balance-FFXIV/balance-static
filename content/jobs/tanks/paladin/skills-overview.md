@@ -2,8 +2,8 @@
 title: Paladin Skills Overview
 authors:
   - nikroulah
-patch: "6.4"
-lastmod: 2023-05-25T00:20:28.241Z
+patch: "6.5"
+lastmod: 2023-11-06T06:05:16.641Z
 changelog:
   - date: 2021-10-27T17:21:39.738Z
     message: Added
@@ -17,6 +17,8 @@ changelog:
     message: Updated for 6.3
   - date: 2023-05-25T00:20:31.175Z
     message: Updated for 6.4
+  - date: 2023-11-06T06:03:25.563Z
+    message: Updated for 6.5
 ---
 ## Buffs
 
@@ -41,7 +43,7 @@ Keep this on in dungeons or as the main tank (in content with more than one tank
 
 60s cooldown.
 
-300 potency.
+320 potency.
 
 Provides 4 stacks of Requiescat, granting instant casts and increasing the potency of Holy Spirit, Holy Circle, Confiteor, and the Blade of Valor combo actions. Stacks are consumed by casting any spell. Also grants Confiteor Ready, enabling the use of Confiteor.
 
@@ -97,7 +99,7 @@ Costs 1000 MP.
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/002000/002518_hr1.png) | ![](https://xivapi.com/i/002000/002952_hr1.png) | ![](https://xivapi.com/i/002000/002953_hr1.png) | ![](https://xivapi.com/i/002000/002954_hr1.png) |
 
-900 > 700 > 800 > 900 potency
+920 > 720 > 820 > 920 potency
 
 Each combo action consumes a stack of Requiescat, does very little damage unless buffed by Requiescat.
 
@@ -121,7 +123,7 @@ AoE around target, 50% less damage on secondary targets.
 **Circle of Scorn**
 ![](https://xivapi.com/i/000000/000161_hr1.png)
 
-120 potency + 150 potency DoT over 15 seconds. | 30s cooldown.
+140 potency + 150 potency DoT over 15 seconds. | 30s cooldown.
 
 AoE centered on self.
 
