@@ -3,8 +3,8 @@ title: Scholar Skills Overview
 authors:
   - tealjaker
   - potato
-patch: "6.4"
-lastmod: 2023-05-30T23:50:52.917Z
+patch: "6.5"
+lastmod: 2024-01-08T02:49:35.136Z
 changelog:
   - date: 2021-10-26T21:37:23.610Z
     message: Article Created.
