@@ -73,8 +73,12 @@ Do be aware, that Gibbet and Gallows are the only skills that have positional re
 
 ## Reaper Fundamentals
 
-* Use <img src="https://xivapi.com/i/003000/003606_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> (or <img src="https://xivapi.com/i/003000/003607_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> with 3+ targets) to prevent <img src="https://xivapi.com/i/012000/012926.png" style="width:1.5rem; vertical-align:text-bottom;padding-top:0.rem"/> from falling off (any time when <img src="https://xivapi.com/i/012000/012926.png" style="width:1.5rem; vertical-align:text-bottom;padding-top:0.rem"/> is 30s or less)
+* Use <img src="https://xivapi.com/i/003000/003606_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> at any time when <img src="https://xivapi.com/i/012000/012926.png" style="width:1.5rem; vertical-align:text-bottom;padding-top:0.rem"/> is 30s or less to prevent <img src="https://xivapi.com/i/012000/012926.png" style="width:1.5rem; vertical-align:text-bottom;padding-top:0.rem"/> from falling off.
+
+
 * Use <img src="https://xivapi.com/i/003000/003601_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>/<img src="https://xivapi.com/i/003000/003602_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>/<img src="https://xivapi.com/i/003000/003603_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>/<img src="https://xivapi.com/i/003000/003608_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>to build Soul (red) gauge
+
+
 * Use <img src="https://xivapi.com/i/003000/003621_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> ->  (<img src="https://xivapi.com/i/003000/003610_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>/<img src="https://xivapi.com/i/003000/003611_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>) -> (<img src="https://xivapi.com/i/003000/003611_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>/<img src="https://xivapi.com/i/003000/003610_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>) as soon as <img src="https://xivapi.com/i/003000/003621_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> is off cooldown
 * Weave <img src="https://xivapi.com/i/003000/003618_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>/<img src="https://xivapi.com/i/003000/003619_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>, immediately folllowed by <img src="https://xivapi.com/i/003000/003610_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>/<img src="https://xivapi.com/i/003000/003611_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> to spend Soul (red) gauge and build Shroud (blue) gauge. (Alternate which of <img src="https://xivapi.com/i/003000/003610_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>/<img src="https://xivapi.com/i/003000/003611_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> you use each time)
 
@@ -82,9 +86,6 @@ Do be aware, that Gibbet and Gallows are the only skills that have positional re
 
 * **Shadow of Death** applies <img src="https://xivapi.com/i/012000/012926.png" style="width:1.5rem; vertical-align:text-bottom;padding-top:0.rem"/> Death's Design to the target, which increases damage taken from you by 10%. Use it at any time when the <img src="https://xivapi.com/i/012000/012926.png" style="width:1.5rem; vertical-align:text-bottom;padding-top:0.rem"/> **Death's Design** timer is between 0 and 30s. Don't let it fall off.
 * Use  when there's 3 or more targets
-
-
-
 * Your basic gauge builders. Use these to gain soul (red) gauge when you have nothing else to do.
 * Use <img src="https://xivapi.com/i/003000/003604_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>/<img src="https://xivapi.com/i/003000/003605_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> instead when there's 3 or more targets.
 
