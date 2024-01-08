@@ -20,6 +20,11 @@
       "name": "Summoner",
       "job_link": "/jobs/casters/summoner/",
       "icon": "/theme-assets/jobs/casters/summoner/summoner.svg"
+    },
+    {
+      "name": "Pictomancer",
+      "job_link": "/jobs/casters/pictomancer/",
+      "icon": "/theme-assets/jobs/casters/red_mage/pictomancer.svg"
     }
   ],
   "title": "casters",
