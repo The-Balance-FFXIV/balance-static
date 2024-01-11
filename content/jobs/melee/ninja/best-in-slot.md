@@ -1,7 +1,7 @@
 ---
 title: Ninja Best in Slot (BiS)
 layout: bis
-patch: "6.4"
+patch: "6.55"
 lastmod: 2023-05-29T18:02:14.335Z
 changelog:
   - date: 2021-10-29T03:14:26.634Z
@@ -18,6 +18,8 @@ changelog:
     message: Updated for 6.4
   - date: 2023-10-05T19:39:55.107Z
     message: Updated for 6.5
+  - date: 2024-01-11T03:00:34.962Z
+    message: Added updated TEA and DSR BiS sets
 bis:
   - type: etro
     description: ""
@@ -35,20 +37,16 @@ bis:
     link: https://etro.gg/gearset/3678acdd-df85-4c7e-a8ae-528859211913
   - type: etro
     description: ""
-    name: DSR BIS (With Clear)
-    link: ff32cb2c-8faa-4b69-9c66-73bd02cc13dd
-  - type: etro
-    description: ""
-    name: DSR BIS (Without Clear)
-    link: 606c802d-98b6-49a6-8505-5fe98251bdba
+    name: DSR BIS
+    link: 5914d3fa-14eb-494c-92be-5e05e12e08d9
   - type: etro
     description: ""
     name: TEA BIS (With Relic)
-    link: a129cf44-95cb-4e5d-a3e9-d07c58c26f2f
+    link: cbdfa82d-dafd-419b-9413-870f14849998
   - type: etro
     description: If you do not have the daggers from TEA, use the Asphodelos daggers.
     name: TEA BIS (Without Relic)
-    link: 19f0d8cf-65ad-483b-88ae-31fd01456cf4
+    link: f1dd990d-bf0d-4c24-91e2-7f1d0819696f
   - type: etro
     description: ""
     name: UWU BIS (With Relic)
