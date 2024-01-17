@@ -2,7 +2,7 @@
 title: Reaper Best-in-Slot
 layout: bis
 patch: "6.5"
-lastmod: 2023-03-11T01:23:35.108Z
+lastmod: 2024-01-17T06:11:35.284Z
 changelog:
   - date: 2022-01-02T23:10:40.632Z
     message: Created page
@@ -18,31 +18,62 @@ changelog:
     message: Updated sets for patch 6.4.
   - date: 2023-07-25T01:39:21.226Z
     message: Updated DSR and TOP sets for the 6.45 Relic
+  - date: 2024-01-17T06:11:38.048Z
+    message: "Updated BiS for 6.55 Manderville Weapon. "
 bis:
   - type: etro
-    description: BiS built around a 2.49s GCD. The damage difference between this
-      set and the 2.5s GCD set will be almost unnoticeably worse. This set does
-      not share perfect compatibility with DRG. You can swap the DH melds on the
-      chest to DET to have perfect compatibility with DRG for a minor single
-      digit DPS loss (estimated at ~4 dps). A 2.49s GCD means Arcane Circle will
-      only drift .12-.13 seconds every two minutes potentially allowing for
-      better raid alignment. This is currently our recommended option.
-    name: 2.49 BiS
+    description: BiS set designed around a 2.49 GCD while using the final step of
+      the Manderville weapon. This set does not share compatibility with DRG,
+      however, due to differing melds. If you do not care about compatibility
+      with DRG, use this set, otherwise use the DRG compatible Relic option.
+    name: 2.49 Relic BiS
+    link: d2a87a16-cb92-493a-b613-8904feeab83b
+  - type: etro
+    description: Built around a 2.49 GCD, this set trades a minor DPS loss for more
+      compatibility with DRG's BiS to avoid needing to remeld frequently when
+      playing both jobs. The Skill Speed meld will still need to be swapped out
+      when playing DRG. If you do not wish to remeld frequently, you can fully
+      use DRG 2.5 BiS melds and use Baba Ghanoush food instead of Baked Eggplant
+      for an estimated 20 DPS loss in exchange for no longer needing to remeld
+      for 2.49 on RPR.
+    name: 2.49 DRG Compatible Relic Option
+    link: 6226b95e-f905-4e22-83f0-706631e20371
+  - type: etro
+    description: >-
+      This is the original Anabaseios Savage BiS before the final Manderville
+      step was released. Use this if you don't have the final Manderville weapon
+      step. 
+
+
+      \
+
+      BiS built around a 2.49s GCD.  A 2.49s GCD means Arcane Circle will only drift .12-.13 seconds every two minutes potentially allowing for better raid alignment. This is currently our recommended option.
+    name: 2.49 No Relic Option
     link: 3c8ec7ad-ccfc-42ce-a129-13bd032e2220
   - type: etro
-    description: BiS built around have a 2.5s GCD. This Set shares full
-      compatibility with the 2.5s GCD DRG set. The best option for our personal
-      damage by a slight margin but at 2.5s Arcane Circle will drift .5s every
-      two minutes. This could cause problems with alignment or fight specific
-      needs.
-    name: 2.5 GCD BiS
-    link: dbedcbfc-21d0-420c-9c91-ed2e946adbe4
-  - type: etro
-    description: This is a good set to start with if you plan to go into the
-      Anabaseios savage tier. This is one of three possible sets that you can go
-      for. The set shown above only features the crafted set with one normal
-      raid piece. The normal raid earring beats the crafted set earring if the
-      latter is not pentamelded.
+    description: >-
+      This is a good set to start with if you plan to go into the Anabaseios
+      savage tier. This is one of three possible sets that you can go for. The
+      set shown above only features the crafted set with one normal raid piece.
+      The normal raid earring beats the crafted set earring if the latter is not
+      pentamelded.
+
+
+
+
+      As of 6.5 there are a lot of options for getting gear that is i640+. 
+
+
+      Just follow this simple priority for gearing until you get BiS pieces:
+
+
+      * Take the highest iLvl piece available to you
+
+      * Follow meld priority for non BiS pieces
+
+      * For options within the same iLvl, prioritize pieces that do not have skill speed
+
+      * Replace with BiS pieces when possible
     name: What to wear before getting savage BiS?
     link: b377ab03-2327-4fef-b2df-e8c53b5b858b
   - type: etro
@@ -53,12 +84,7 @@ bis:
       DH DH SKS on the weapon.
 
 
-      If you do not have the 645 Manderville weapon, you should use the following weapon priority to determine what to use based on what you have available:\
-
-      645 Manderville > DSR Scythe > 615/630 Manderville > Asphodelos Scythe
-
-
-      Note: The 615 and 630 versions of the Manderville weapons sync identically in DSR and are therefore the same. Use whichever you have available.
+      Note: The 645 and 665 versions of the Manderville weapon are functionally the same in DSR. Use whichever you have and allocate the stats as shown in the etro link.
     name: Dragonsong's Reprise (Ultimate) BiS (6.3 Dungeon Gear + 6.45 Relic Option)
     link: 4aa0f252-5ecf-4887-916a-b38ccddfe258
   - type: etro
@@ -67,9 +93,13 @@ bis:
     name: Dragonsong's Reprise (Ultimate) BiS (No 6.3 Dungeon Gear Option)
     link: b301e789-96da-42f2-9628-95f68345e35b
   - type: etro
-    description: Recommended gearset to prog TOP as of patch 6.5. This set includes
-      the Dungeon Gear from patch 6.5, putting this set slightly ahead of the
-      other option.
+    description: >-
+      Recommended gearset to prog TOP as of patch 6.5. This set includes the
+      Dungeon Gear from patch 6.5, putting this set slightly ahead of the other
+      option.
+
+
+      Note: The 645 and 665 versions of the Manderville weapons are functionally the same in TOP. Use whichever you have and allocate the stats as shown in the etro link.
     name: The Omega Protocol (Ultimate) BiS (6.5 Dungeon Gear + 6.45 Relic Option)
     link: d40f9b9d-c459-4ca4-a9e6-570c4034ecb2
   - type: etro
