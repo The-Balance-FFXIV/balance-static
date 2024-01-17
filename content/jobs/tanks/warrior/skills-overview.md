@@ -4,8 +4,8 @@ authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
   - dook
-patch: "6.4"
-lastmod: 2023-05-28T14:21:49.595Z
+patch: "6.55"
+lastmod: 2024-01-17T20:07:47.177Z
 changelog:
   - date: 2022-08-25T16:07:53.875Z
     message: Patch 6.2 changes
