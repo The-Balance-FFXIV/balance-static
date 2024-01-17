@@ -10,6 +10,8 @@ changelog:
     message: Updated for Endwalker.
   - date: 2023-05-25T16:47:13.205Z
     message: Updated for patch 6.4
+  - date: 2024-01-17T12:21:12.331Z
+    message: Updated for patch 6.55
 bis:
   - type: etro
     description: >-
