@@ -15,6 +15,8 @@ changelog:
     message: Updated for 6.2
   - date: 2023-10-24T23:05:45.996Z
     message: Updated for 6.5
+  - date: 2024-01-17T05:40:59.325Z
+    message: Updated for 6.55
 ---
 # Samurai Skills Overview
 
