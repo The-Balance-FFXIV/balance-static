@@ -1,7 +1,7 @@
 ---
 title: Samurai Changes
 layout: changes
-lastmod: 2023-10-24T04:34:56.569Z
+lastmod: 2024-01-17T04:34:56.569Z
 changes:
   - patch: "5.58"
     description: "[Placeholder for Endwalker]"
@@ -23,6 +23,12 @@ changes:
   - description: View the latest changes for 6.5 at the Official Site, located
       [here](https://na.finalfantasyxiv.com/jobguide/samurai/)!
     patch: "6.5"
+  - patch: "6.55"
+    description: >-
+      No change to the job - rotation and stat priority remains unchanged.
+
+
+      Final relic weapon step brings with it updated endgame Best in Slot sets, Ultimate Best in Slot sets are unchanged due to item level sync.
 authors:
   - Balance-SAM-Staff
   - boxer
