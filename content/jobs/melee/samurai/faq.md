@@ -1,8 +1,8 @@
 ---
 title: Samurai FAQ
 layout: qna
-patch: "6.5"
-lastmod: 2023-10-24T04:35:22.359Z
+patch: "6.55"
+lastmod: 2024-01-17T04:35:22.359Z
 changelog:
   - date: 2021-10-28T03:27:15.029Z
     message: Created page
