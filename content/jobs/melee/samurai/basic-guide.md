@@ -3,8 +3,8 @@ title: Samurai Basic Guide
 card_header_image: /img/jobs/sam/basic.png
 authors:
   - Balance-SAM-Staff
-patch: "6.5"
-lastmod: 2023-10-24T04:35:43.004Z
+patch: "6.55"
+lastmod: 2024-01-17T04:35:43.004Z
 changelog:
   - date: 2021-10-28T03:23:16.783Z
     message: Created page
