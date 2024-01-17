@@ -3,8 +3,8 @@ title: Samurai Leveling Guide
 card_header_image: /img/jobs/sam/leveling.png
 authors:
   - Balance-SAM-Staff
-patch: "6.5"
-lastmod: 2023-10-24T04:33:47.475Z
+patch: "6.55"
+lastmod: 2024-01-17T04:33:47.475Z
 changelog:
   - date: 2021-10-28T03:18:27.850Z
     message: Created page
