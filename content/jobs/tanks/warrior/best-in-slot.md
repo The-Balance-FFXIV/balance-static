@@ -1,8 +1,8 @@
 ---
 title: Warrior Best in Slot (BiS)
 layout: bis
-patch: "6.4"
-lastmod: 2024-01-17T20:01:53.017Z
+patch: "6.55"
+lastmod: 2024-01-17T20:09:39.019Z
 changelog:
   - date: 2021-10-27T07:22:13.566Z
     message: Lists added
