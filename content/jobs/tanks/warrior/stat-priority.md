@@ -1,7 +1,7 @@
 ---
 title: Warrior Stat Priority
-patch: "6.4"
-lastmod: 2023-05-28T14:29:32.959Z
+patch: "6.55"
+lastmod: 2024-01-17T20:09:57.042Z
 changelog:
   - date: 2022-02-02T23:35:01.842Z
     message: Updated for Endwalker
