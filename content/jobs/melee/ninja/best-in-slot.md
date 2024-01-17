@@ -1,7 +1,7 @@
 ---
 title: Ninja Best in Slot (BiS)
 layout: bis
-patch: "6.4"
+patch: "6.55"
 lastmod: 2023-05-29T18:02:14.335Z
 changelog:
   - date: 2021-10-29T03:14:26.634Z
@@ -18,37 +18,31 @@ changelog:
     message: Updated for 6.4
   - date: 2023-10-05T19:39:55.107Z
     message: Updated for 6.5
+  - date: 2024-01-11T03:00:34.962Z
+    message: Added updated TEA and DSR BiS sets
+  - date: 2024-01-17T10:07:51.628Z
+    message: Updated for 6.55
 bis:
   - type: etro
     description: ""
-    link: https://etro.gg/gearset/6556da3a-4514-439e-b4f4-07e0ccc85e93
-    name: 6.4 Anabaseios Savage BiS
+    link: 8b59d095-30b9-4315-96d6-daea6f578c4c
+    name: 6.55 Standard BiS
   - type: etro
-    description: The recommended set.
-    name: 2.10 GCD TOP BIS
-    link: https://etro.gg/gearset/9f28fd54-55fe-4814-aee1-f19e419d95d0
+    description: The i665 relic weapon can be substituted for the i645 relic.
+    name: 6.55 TOP BIS
+    link: 9f28fd54-55fe-4814-aee1-f19e419d95d0
   - type: etro
-    description: Sims ~12dps higher than the 2.10 set, however will lose you GCDs
-      due to the nature of TOP having frequent downtime periods which will cause
-      you to ghost GCDs as the boss becomes untargetable.
-    name: 2.12 GCD TOP BIS
-    link: https://etro.gg/gearset/3678acdd-df85-4c7e-a8ae-528859211913
-  - type: etro
-    description: ""
-    name: DSR BIS (With Clear)
-    link: ff32cb2c-8faa-4b69-9c66-73bd02cc13dd
-  - type: etro
-    description: ""
-    name: DSR BIS (Without Clear)
-    link: 606c802d-98b6-49a6-8505-5fe98251bdba
+    description: The i665 relic weapon can be substituted for the i645 relic.
+    name: 6.55 DSR BIS
+    link: 5914d3fa-14eb-494c-92be-5e05e12e08d9
   - type: etro
     description: ""
     name: TEA BIS (With Relic)
-    link: a129cf44-95cb-4e5d-a3e9-d07c58c26f2f
+    link: cbdfa82d-dafd-419b-9413-870f14849998
   - type: etro
     description: If you do not have the daggers from TEA, use the Asphodelos daggers.
     name: TEA BIS (Without Relic)
-    link: 19f0d8cf-65ad-483b-88ae-31fd01456cf4
+    link: f1dd990d-bf0d-4c24-91e2-7f1d0819696f
   - type: etro
     description: ""
     name: UWU BIS (With Relic)
