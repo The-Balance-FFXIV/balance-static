@@ -4,8 +4,8 @@ card_header_image: /img/jobs/war/advanced.png
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
-patch: "6.4"
-lastmod: 2023-05-28T14:37:21.282Z
+patch: "6.55"
+lastmod: 2024-01-17T20:09:18.973Z
 changelog:
   - date: 2021-11-15T18:36:27.000Z
     message: Created page
