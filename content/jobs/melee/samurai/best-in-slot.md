@@ -27,7 +27,7 @@ bis:
       Classic "Slow SAM". Highest DPS, easiest weaving.
 
 
-      Some fights may allow for an extra GCD if on a slightly faster GCD speed - for 2.14 swap 1 DH/1 Det melds for 2 SKS melds.
+      Some fights may allow for an extra GCD if on a slightly faster GCD speed. For 2.14 -3 Det melds, +2 SKS/1 DH melds
     link: https://etro.gg/gearset/d4b6bfc6-a82f-4732-8e55-7c13e094fc1d
     name: 2.15 Savage BiS
   - type: etro
