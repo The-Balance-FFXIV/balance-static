@@ -1,8 +1,8 @@
 ---
 title: Dancer Best in Slot (BiS)
 layout: bis
-patch: "6.4"
-lastmod: 2023-05-25T16:47:32.307Z
+patch: "6.55"
+lastmod: 2024-01-17T12:05:35.163Z
 changelog:
   - date: 2021-10-26T02:11:25.028Z
     message: Created page
@@ -12,37 +12,43 @@ changelog:
     message: Updated for patch 6.4
 bis:
   - type: etro
+    description: >-
+      <!--StartFragment-->
+
+
+      The 2.49 set is the one that sims the highest under most circumstances so therefore it is the recommended set. If you desire a different GCD, the tiered gearsets for 2.50, 2.48, and 2.47 are provided in link: <https://bit.ly/DNC-Gearsets>
+
+
+      <!--EndFragment-->
+    name: 6.55 - ilvl 660 2.49 GCD BiS (with Relic weapon)
+    link: 79c323c7-d333-417f-abd2-20cb35ea851d
+  - type: etro
     description: ""
-    name: 6.4 - ilvl 660 2.49 GCD BiS
+    name: 6.55 - ilvl 660 2.49 GCD BiS (with P12S/AAI weapon)
     link: 50746158-5be1-4972-82f4-84a577f4bcce
   - type: etro
     description: ""
-    name: 6.4 - ilvl 640 Baseline Gearset (pentamelded crafted + normal raid)
-    link: f053edc9-290e-4776-89e4-26e749aad4a9
+    name: 6.50 - ilvl 650 Baseline Gearset (augmented crafted + normal raid)
+    link: cee3802c-0a54-4935-96a0-a807793d8574
   - type: etro
     description: ""
-    name: 6.4 - ilvl 642 Niche Week 1 Gearset (pentamelded crafted + 870 Tomestones
-      of Comedy)
-    link: 6b2d0b38-2e57-462c-b6da-6bbeed9e5fa5
+    name: 6.50 - TOP / ASS / ASS (Savage) BiS 2.47 GCD
+    link: 685ecbec-5fc5-4664-b5d5-31af8ded0995
   - type: etro
     description: ""
-    name: 6.4 - TOP BiS 2.47 GCD (with TOP weapon)
-    link: 78aafc38-9409-4a05-8a8a-86b5b64a3296
+    name: 6.50 - DSR BiS 2.49 GCD
+    link: 61a7cfc7-e873-43a2-aad3-5f3fd74c773f
   - type: etro
     description: ""
-    name: 6.4 - TOP BiS 2.47 GCD (with P8S weapon)
-    link: 3840581d-37a7-4dc9-8d02-cf293c069fbb
-  - type: etro
-    description: ""
-    name: 6.4 - DSR BiS 2.49 GCD (with DSR weapon)
+    name: 6.50 - DSR BiS 2.49 GCD (with DSR weapon)
     link: 14c76b56-7ace-45c6-8b73-5d7f515a9994
   - type: etro
     description: ""
-    name: 6.4 - DSR BiS 2.49 GCD (with Manderville Relic Weapon i615 or i630)
+    name: 6.50 - DSR BiS 2.49 GCD (with Manderville Relic Weapon i615 or i630)
     link: c6f8d052-1a34-47e7-8d1f-9bdfeb2020fc
   - type: etro
     description: ""
-    name: 6.4 - DSR BiS 2.49 GCD (with P4S weapon)
+    name: 6.50 - DSR BiS 2.49 GCD (with P4S weapon)
     link: fae08d67-fdaf-4494-9920-062524c4b583
 authors:
   - Balance-DNC-Staff
