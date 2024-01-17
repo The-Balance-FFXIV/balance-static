@@ -1,7 +1,7 @@
 ---
 title: Reaper Best-in-Slot
 layout: bis
-patch: "6.5"
+patch: "6.55"
 lastmod: 2024-01-17T06:11:35.284Z
 changelog:
   - date: 2022-01-02T23:10:40.632Z
