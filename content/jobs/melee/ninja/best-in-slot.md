@@ -20,24 +20,20 @@ changelog:
     message: Updated for 6.5
   - date: 2024-01-11T03:00:34.962Z
     message: Added updated TEA and DSR BiS sets
+  - date: 2024-01-17T10:07:51.628Z
+    message: Updated for 6.55
 bis:
   - type: etro
     description: ""
-    link: https://etro.gg/gearset/6556da3a-4514-439e-b4f4-07e0ccc85e93
-    name: 6.4 Anabaseios Savage BiS
+    link: 8b59d095-30b9-4315-96d6-daea6f578c4c
+    name: 6.55 Standard BiS
   - type: etro
-    description: The recommended set.
-    name: 2.10 GCD TOP BIS
-    link: https://etro.gg/gearset/9f28fd54-55fe-4814-aee1-f19e419d95d0
+    description: The i665 relic weapon can be substituted for the i645 relic.
+    name: 6.55 TOP BIS
+    link: 9f28fd54-55fe-4814-aee1-f19e419d95d0
   - type: etro
-    description: Sims ~12dps higher than the 2.10 set, however will lose you GCDs
-      due to the nature of TOP having frequent downtime periods which will cause
-      you to ghost GCDs as the boss becomes untargetable.
-    name: 2.12 GCD TOP BIS
-    link: https://etro.gg/gearset/3678acdd-df85-4c7e-a8ae-528859211913
-  - type: etro
-    description: ""
-    name: DSR BIS
+    description: The i665 relic weapon can be substituted for the i645 relic.
+    name: 6.55 DSR BIS
     link: 5914d3fa-14eb-494c-92be-5e05e12e08d9
   - type: etro
     description: ""
