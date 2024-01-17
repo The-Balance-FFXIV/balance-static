@@ -1,8 +1,8 @@
 ---
 title: Machinist Best in Slot (BiS)
 layout: bis
-patch: "6.5"
-lastmod: 2023-10-04T10:36:20.649Z
+patch: "6.55"
+lastmod: 2024-01-16T23:00:00.000Z
 changelog:
   - date: 2021-10-25T22:11:04.615Z
     message: Created page
@@ -19,6 +19,10 @@ changelog:
   - date: 2023-10-04T10:36:00.506Z
     message: top bis updated for 6.5
 bis:
+  - type: etro
+    description: ""
+    name: 6.55 BiS 2.5 GCD
+    link: https://etro.gg/gearset/bf221c97-b585-4de1-9376-c9b59bbc7b65
   - type: etro
     description: ""
     name: 6.4 BiS 2.5 GCD
