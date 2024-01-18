@@ -1,8 +1,8 @@
 ---
 title: Paladin Best in Slot (BiS)
 layout: bis
-patch: "6.4"
-lastmod: 2023-05-25T01:16:21.787Z
+patch: "6.55"
+lastmod: 2024-01-18T07:27:49.335Z
 changelog:
   - date: 2021-10-28T03:10:04.413Z
     message: Created page
