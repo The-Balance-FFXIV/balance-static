@@ -1,8 +1,8 @@
 ---
 title: Samurai Best in Slot (BiS)
 layout: bis
-patch: "6.5"
-lastmod: 2023-10-25T00:41:31.245Z
+patch: "6.55"
+lastmod: 2024-01-17T00:41:31.245Z
 changelog:
   - date: 2021-10-28T03:30:20.029Z
     message: Created page
@@ -16,6 +16,8 @@ changelog:
     message: Changed set descriptions.
   - date: 2023-10-24T22:43:46.067Z
     message: Updated for 6.5
+  - date: 2024-01-17T05:42:27.651Z
+    message: Updated for 6.55
 bis:
   - type: etro
     description: >-
@@ -25,7 +27,7 @@ bis:
       Classic "Slow SAM". Highest DPS, easiest weaving.
 
 
-      For 2.14 and a direct meld cross with MNK BiS swap 2 DH melds for 2 SKS melds.
+      Some fights may allow for an extra GCD if on a slightly faster GCD speed. For 2.14 -3 Det melds, +2 SKS/1 DH melds
     link: https://etro.gg/gearset/d4b6bfc6-a82f-4732-8e55-7c13e094fc1d
     name: 2.15 Savage BiS
   - type: etro
@@ -34,7 +36,7 @@ bis:
 
 
       Small hit in DPS in exchange for a slightly extended rotation, offering more flexibility with mechanic downtime.
-    name: 2.08 Savage BiS
+    name: 2.07 Savage BiS
     link: https://etro.gg/gearset/b25e8d82-3dcc-4656-aa62-07dce32f2976
   - type: etro
     description: >-
