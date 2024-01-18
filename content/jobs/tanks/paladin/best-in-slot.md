@@ -16,6 +16,8 @@ changelog:
     message: Updated for 6.3
   - date: 2023-05-25T01:16:23.309Z
     message: Updated for 6.4
+  - date: 2024-01-18T07:28:41.441Z
+    message: Updated for 6.55
 bis:
   - type: gsheets
     description: Useful to put in your own gear options.
