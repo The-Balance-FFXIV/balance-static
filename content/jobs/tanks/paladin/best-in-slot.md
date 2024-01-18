@@ -42,7 +42,7 @@ bis:
       sync)
 
 
-      If you do not have the Ultimate sword, use the 645 or 665 sword (with Crit + Det > Ten).
+      If you do not have the Ultimate sword, use the 645 or 665 relic sword (with Crit + Det > Ten).
     link: https://etro.gg/gearset/8672b1bd-18db-4b80-8834-018be0a88952
     name: 2.50 Dragonsong's Reprise (Ultimate)
 authors:
