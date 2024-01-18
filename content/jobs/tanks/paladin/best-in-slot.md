@@ -23,18 +23,25 @@ bis:
     link: https://docs.google.com/spreadsheets/d/e/2PACX-1vQx37TZPpgIZ6Ld9S9V-rQ6hcTmuz8tuzzxg6D2w10loW8EXGTQrMKhj0vdany9UA9O7A1cLdQ8YutE/pubhtml
   - type: etro
     description: Best-in-Slot gear for Anabaseios (Savage)
-    link: https://etro.gg/gearset/3a2d77ff-57e1-434d-b1da-72a7d4f44944
+    link: https://etro.gg/gearset/689a306f-c571-4c6d-8a5b-04759ff50cde
     name: 2.50 Baked Eggplant
   - type: etro
-    description: |-
-      \*Not updated for 6.4 food
+    description: >-
+      Note: 665 relic can be used in place of 645 relic (no stat change due to
+      sync)
 
-      If you have the ultimate weapon, add a Direct Hit meld.
-    link: https://etro.gg/gearset/3e6864e6-ea46-402d-96a2-3fe07bb2506b
+
+      If you do not have the Ultimate sword, use the 645 or 665 relic sword (with Crit + Det > Ten) and replace dungeon ring with 660 tome ring.
+    link: https://etro.gg/gearset/ed6dd991-8e70-472a-a729-3182f4b14554
     name: 2.50 Omega Weapon (Oltimate)
-  - type: sleepyshiba
-    description: Omit a Direct Hit meld on the weapon if you do not have it.
-    link: https://xiv.sleepyshiba.com/pld/sets/607dsr63.png
+  - type: etro
+    description: >-
+      Note: 665 relic can be used in place of 645 relic (no stat change due to
+      sync)
+
+
+      If you do not have the Ultimate sword, use the 645 or 665 sword (with Crit + Det > Ten).
+    link: https://etro.gg/gearset/8672b1bd-18db-4b80-8834-018be0a88952
     name: 2.50 Dragonsong's Reprise (Ultimate)
 authors:
   - Balance-PLD-Staff
