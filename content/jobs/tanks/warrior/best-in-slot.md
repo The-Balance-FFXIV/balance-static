@@ -1,8 +1,8 @@
 ---
 title: Warrior Best in Slot (BiS)
 layout: bis
-patch: "6.4"
-lastmod: 2023-05-30T23:35:56.615Z
+patch: "6.55"
+lastmod: 2024-01-17T20:09:39.019Z
 changelog:
   - date: 2021-10-27T07:22:13.566Z
     message: Lists added
@@ -17,18 +17,32 @@ changelog:
   - date: 2023-07-11T20:00:14.733Z
     message: Removed the 2.47 GCD set, as the Savage tier does not offer any fights
       where such GCD speed is useful.
+  - date: 2024-01-17T20:00:00.368Z
+    message: Added Relic BIS sets
 bis:
   - type: etro
     description: ""
-    name: BIS - 2.50 GCD - Baked Eggplant
+    name: Relic - 2.50 GCD - Baked Eggplant
+    link: https://etro.gg/gearset/6c8f063a-cf04-4e9b-b1dd-fb54c3d6cd66
+  - type: etro
+    description: ""
+    name: Non-Relic - 2.50 GCD - Baked Eggplant
     link: https://etro.gg/gearset/1103c082-1c80-4bf3-bb56-83734971d5ea
   - type: etro
     description: ""
-    link: https://etro.gg/gearset/ccabf244-3ea0-4a33-a817-da4cebe6efc6
-    name: BIS - 2.45 GCD - Baba Ghanoush
+    name: Relic - 2.45 GCD - Baba Ghanoush
+    link: https://etro.gg/gearset/9b1f8efc-6ecd-4775-b752-53b5bf3e0946
   - type: etro
     description: ""
-    name: BIS - 2.40 GCD - Baba Ghanoush
+    link: https://etro.gg/gearset/ccabf244-3ea0-4a33-a817-da4cebe6efc6
+    name: Non-Relic - 2.45 GCD - Baba Ghanoush
+  - type: etro
+    description: ""
+    name: Relic - 2.40 GCD - Baba Ghanoush
+    link: https://etro.gg/gearset/dc1f6937-d095-4e02-89b5-f8617456656e
+  - type: etro
+    description: ""
+    name: Non-Relic - 2.40 GCD - Baba Ghanoush
     link: https://etro.gg/gearset/9343cf54-e21f-4343-ba9d-c4030eb25dd0
   - type: sleepyshiba
     description: |-
