@@ -2,8 +2,8 @@
 title: Scholar Openers
 authors:
   - Balance-SCH-Staff
-patch: "6.3"
-lastmod: 2023-02-25T20:40:26.793Z
+patch: "6.5"
+lastmod: 2024-01-08T02:52:56.516Z
 changelog:
   - date: 2021-10-27T00:14:33.377Z
     message: Article Created.
