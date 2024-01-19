@@ -1,7 +1,7 @@
 ---
 title: Samurai Stat Priority
-patch: "6.5"
-lastmod: 2023-10-24T05:02:59.068Z
+patch: "6.55"
+lastmod: 2024-01-17T05:02:59.068Z
 changelog:
   - date: 2021-10-28T03:34:12.784Z
     message: Created page.
@@ -9,6 +9,8 @@ changelog:
     message: Updated for Endwalker
   - date: 2023-10-24T23:09:31.814Z
     message: Updated for 6.5
+  - date: 2024-01-17T05:54:40.804Z
+    message: Updated for 6.55
 priority: SKS (to tier) > Crit > Det >= DH
 authors:
   - Balance-SAM-Staff
