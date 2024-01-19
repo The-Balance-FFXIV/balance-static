@@ -33,7 +33,7 @@ jobs:
           yarn
           yarn global add postcss-cli@8.3.1 autoprefixer postcss tailwindcss
 
-      - uses: actions/cache@v3
+      - uses: actions/cache@v4
         with:
           path: /tmp/hugo_cache
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
