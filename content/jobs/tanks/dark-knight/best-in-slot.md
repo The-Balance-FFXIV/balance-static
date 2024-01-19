@@ -1,8 +1,8 @@
 ---
 title: Dark Knight Best in Slot (BiS)
 layout: bis
-patch: "6.4"
-lastmod: 2023-06-16T16:59:30.006Z
+patch: "6.55"
+lastmod: 2024-01-18T09:16:25.249Z
 changelog:
   - date: 2021-10-27T17:45:00.078Z
     message: Added
@@ -16,6 +16,9 @@ changelog:
   - date: 2023-06-16T08:07:35.808Z
     message: Updated for 6.4 --- added new BiS sets for 6.4 and for Dragonsong
       Ultimate, marked 6.2 sets as old.
+  - date: 2024-01-18T09:20:14.908Z
+    message: Updates for 6.55 --- new BiS sets with relic, some small updates to
+      ultimate sets.
 bis:
   - type: etro
     description: The generally recommended set for 6.4 content.
@@ -28,39 +31,41 @@ bis:
     name: 6.4 2.45 GCD set
     link: 7bf649c3-9cca-4c9d-8050-84ab406a9088
   - type: etro
-    description: Manderville weapon and Asphodelus weapon are both viable
-      replacements for the Claymore of the Heavens if you haven't cleared yet.
+    description: The DSR weapon and the Asphodelus weapon are both viable (but
+      slightly worse) replacements for the Manderville weapon, melded with DH
+      for the 2.50 set, and SkS for the 2.45 set. The 6.55 relic can replace the
+      older relic with no changes to the set.
+    link: 9123964d-1353-4d59-baad-b27419c9ad50
     name: Dragonsong's Reprise (Ultimate) 2.50 GCD set
-    link: 6b674a61-9625-4cce-b324-b3787283e55b
   - type: etro
-    description: Manderville weapon and Asphodelus weapon are both viable
-      replacements for the Claymore of the Heavens if you haven't cleared yet.
-    link: acd62d68-32b9-47eb-8295-5cf9df8d4ff6
+    description: The DSR weapon and the Asphodelus weapon are both viable (but
+      slightly worse) replacements for the Manderville weapon, melded with DH
+      for the 2.50 set, and SkS for the 2.45 set. The 6.55 relic can replace the
+      older relic with no changes to the set.
+    link: b5b20e4d-3dac-4258-a4df-ead7b6f6f5ed
     name: Dragonsong's Reprise (Ultimate) 2.45 GCD set
   - type: etro
-    description: >-
-      This set is generally the strongest set available currently, and has
-      better alignment of oGCDs with your rotation than other options. Players
-      who prefer a faster speed may want to use a different set despite this.
-
-
-      22-strength races (Midlander Hyur, Seeker of the Sun Miqo'te, and Sea Wolf Roegadyn) can mitigate the damage loss from their strength being slightly lower than maximum with a slightly different set: https://etro.gg/gearset/88da32ad-e4e5-4f02-b194-840aaf5cf684
-
-      All other races can use the default set.
-    name: 6.2 2.50 GCD set (For players on earlier patches and The Omega Protocol
-      (Ultimate))
-    link: 9467c373-ba77-4f20-aa76-06c8e6f926b8
+    description: The TOP weapon and the Abyssos weapons are both viable (but
+      slightly worse) replacements for the Manderville weapon, melded with DH
+      for the 2.50 set, and SkS for the 2.45 set. The 6.55 relic can replace the
+      older relic with no changes to the set.
+    name: 6.55 The Omega Protocol (Ultimate) 2.50 GCD set
+    link: 836cb50e-aac5-4543-b2c7-a2bed5fc1760
   - type: etro
-    description: >-
-      22-strength races (Midlander Hyur, Seeker of the Sun Miqo'te, and Sea Wolf
-      Roegadyn) can mitigate the damage loss from their strength being slightly
-      lower than maximum with a slightly different set:
-      https://etro.gg/gearset/69ccd962-34bd-4da5-8989-9dc9a3feb9eb
-
-      All other races can use the default set.
-    name: 6.2 2.45 GCD set (For players on earlier patches and The Omega Protocol
-      (Ultimate))
-    link: 8456e35b-2ae2-411a-b9cb-62ebe7f8b1f0
+    description: The TOP weapon and the Abyssos weapons are both viable (but
+      slightly worse) replacements for the Manderville weapon, melded with DH
+      for the 2.50 set, and SkS for the 2.45 set. The 6.55 relic can replace the
+      older relic with no changes to the set.
+    name: 6.55 The Omega Protocol (Ultimate) 2.45 GCD set
+    link: "55a352a2-f4c1-40a3-b2bd-ed3a7eba5033 "
+  - type: etro
+    description: ""
+    name: 6.55 2.50 GCD with Relic
+    link: fa98d10d-40a9-455c-8ee4-2c9a3c1ed6b5
+  - type: etro
+    description: ""
+    name: 6.55 2.45 GCD with Relic
+    link: https://etro.gg/gearset/e0ecb2d6-117f-4169-9845-d345b04642be
 authors:
   - Balance-DRK-Staff
   - apileofcats
