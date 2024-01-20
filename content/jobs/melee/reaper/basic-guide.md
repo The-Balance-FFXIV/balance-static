@@ -60,7 +60,6 @@ Reaper has access to a few resources that you will need to master to play the jo
 ![](/img/jobs/rpr/2021-12-20_02-49-47-723_eg9-darklite.png)
 
 # Melee Positionals:
-
 All melee DPS have skills that deal additional potency when used from the Rear of Flank of the target. This means you must be positioned correctly relative to the target's hitbox ring to meet the requirement. Positional zones are shown here on the left image under this section.
 
 Some targets have a closed circle target ring or are a "wall-style" target that it is impossible to get to the rear of. Positional requirements are fulfilled no matter where you stand relative to the target. These types of enemies can be identified by the front-facing arrow being inside the hitbox instead of outside of the hitbox (as shown in the image to the right).
@@ -73,33 +72,6 @@ Do be aware, that Gibbet and Gallows are the only skills that have positional re
 
 ## Reaper Fundamentals
 
-* Use <img src="https://xivapi.com/i/003000/003606_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> at any time when <img src="https://xivapi.com/i/012000/012926.png" style="width:1.5rem; vertical-align:text-bottom;padding-top:0.rem"/> is 30s or less to prevent <img src="https://xivapi.com/i/012000/012926.png" style="width:1.5rem; vertical-align:text-bottom;padding-top:0.rem"/> from falling off.
-
-
-* Use <img src="https://xivapi.com/i/003000/003601_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>/<img src="https://xivapi.com/i/003000/003602_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>/<img src="https://xivapi.com/i/003000/003603_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>/<img src="https://xivapi.com/i/003000/003608_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>to build Soul (red) gauge
-
-
-* Use <img src="https://xivapi.com/i/003000/003621_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> ->  (<img src="https://xivapi.com/i/003000/003610_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>/<img src="https://xivapi.com/i/003000/003611_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>) -> (<img src="https://xivapi.com/i/003000/003611_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>/<img src="https://xivapi.com/i/003000/003610_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>) as soon as <img src="https://xivapi.com/i/003000/003621_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> is off cooldown
-* Weave <img src="https://xivapi.com/i/003000/003618_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>/<img src="https://xivapi.com/i/003000/003619_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>, immediately folllowed by <img src="https://xivapi.com/i/003000/003610_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>/<img src="https://xivapi.com/i/003000/003611_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> to spend Soul (red) gauge and build Shroud (blue) gauge. (Alternate which of <img src="https://xivapi.com/i/003000/003610_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>/<img src="https://xivapi.com/i/003000/003611_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> you use each time)
-
-#### <img src="https://xivapi.com/i/003000/003606_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> **Shadow of Death**
-
-* **Shadow of Death** applies <img src="https://xivapi.com/i/012000/012926.png" style="width:1.5rem; vertical-align:text-bottom;padding-top:0.rem"/> Death's Design to the target, which increases damage taken from you by 10%. Use it at any time when the <img src="https://xivapi.com/i/012000/012926.png" style="width:1.5rem; vertical-align:text-bottom;padding-top:0.rem"/> **Death's Design** timer is between 0 and 30s. Don't let it fall off.
-* Use  when there's 3 or more targets
-* Your basic gauge builders. Use these to gain soul (red) gauge when you have nothing else to do.
-* Use <img src="https://xivapi.com/i/003000/003604_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>/<img src="https://xivapi.com/i/003000/003605_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> instead when there's 3 or more targets.
-
-#### <img src="https://xivapi.com/i/003000/003608_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> **Soul Slice**
-
-* Gives 50 Soul (red) gauge, has a 30s cooldown and stacks up to 2 usages. Use when its off cd but make sure you have less than 50 gauge to avoid overcapping.
-
-#### <img src="https://xivapi.com/i/003000/003610_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>/<img src="https://xivapi.com/i/003000/003611_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> Gibbet/Gallows
-
-* <img src="https://xivapi.com/i/003000/003610_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> **Gibbet:** Increased damage when used from the flank. 
-
-  * Gives <img src="https://xivapi.com/i/012000/012928_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/>**Enhanced Gallows**, which increases <img src="https://xivapi.com/i/003000/003611_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> **Gallows**'s damage and lasts 60s. It's consumed on the next usage of <img src="https://xivapi.com/i/003000/003611_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> **Gallows**
-* <img src="https://xivapi.com/i/003000/003611_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> **Gallows:** Increased damage when used from the rear. Gives  <img src="https://xivapi.com/i/012000/012927_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> **Enhanced Gibbet**
-* Gibbet and Gallows are twin abilities that grant 10 Shroud (blue) gauge. Note that using <img src="https://xivapi.com/i/003000/003610_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> **Gibbet** increases the damage of the next <img src="https://xivapi.com/i/003000/003611_hr1.png" style="width:1.5rem; vertical-align:text-top;padding-right:0.2rem;"/> **Gallows**, and vise-versa. This means that we need to alternate between using the two
 * Gibbet and Gallows are positional weaponskills. Gibbet receives additional damage if you use it from the target's flank and Gallows receives the bonus if used from target's rear. These abilities also buff each other, whenever you use Gibbet your next Gallows will be buffed and when you use Gallows your next Gibbet will be buffed. This buff lasts for 60 seconds and will also upgrade your Blood Stalk into an Unveiled Gibbet or Unveiled Gallows based on whichever buff you have. When you see these weaponskills mentioned, you can do either/or, but always make sure you are using the buffed version if applicable.
 
   * The Unveiled Gibbet or Gallows does not consume the buff.
