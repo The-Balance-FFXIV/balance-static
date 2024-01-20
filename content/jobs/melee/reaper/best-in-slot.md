@@ -29,7 +29,7 @@ bis:
       Manderville weapon. 
 
 
-      This set is fully compatible with SAM 2.15 BiS and MNK's "SAM 2.15 Meld Compatible" BiS. However, this set does not share compatibility with DRG due to differing melds. If you do not care about compatibility with DRG, use this set, otherwise use the DRG compatible Relic option.
+      This set's accessory melds are fully compatible with SAM 2.15 BiS and MNK's "SAM 2.15 Meld Compatible" BiS. However, this set does not share compatibility with DRG due to many differing melds. If you do not care about compatibility with DRG, use this set, otherwise use the DRG compatible Relic option.
     name: 2.49 Relic BiS
     link: c3831920-8a4a-43c8-b9d7-20618899fb6f
   - type: etro
