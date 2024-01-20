@@ -22,7 +22,7 @@ tags:
 ---
 # Basic Reaper Guide
 
-Welcome to the Basic Guide fafdsor Reaper, which will cover everything you need to know to get started with becoming a Reaper! Included are an overview of the job’s playstyle, basic priority, abilities and core concepts.
+Welcome to the Basic Guide fafdsor Reaper, which afdwill cover everything you need to know to get started with becoming a Reaper! Included are an overview of the job’s playstyle, basic priority, abilities and core concepts.
 
 Whether you’re a fresh level 90, a returning player, or just need a refresh, this guide will give you the tools you need to feel comfortable playing Reaper.
 
