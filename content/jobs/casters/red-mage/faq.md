@@ -1,7 +1,7 @@
 ---
 title: Red Mage FAQ
 layout: qna
-patch: "6.4"
+patch: "6.55"
 lastmod: 2023-06-10T03:35:53.350Z
 changelog:
   - date: 2021-10-26T01:27:20.609Z
