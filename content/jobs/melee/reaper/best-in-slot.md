@@ -20,14 +20,18 @@ changelog:
     message: Updated DSR and TOP sets for the 6.45 Relic
   - date: 2024-01-17T06:11:38.048Z
     message: "Updated BiS for 6.55 Manderville Weapon. "
+  - date: 2024-01-20T10:33:53.004Z
+    message: updated "2.49 RPR Relic BiS" for compatible melds with SAM/MNK
 bis:
   - type: etro
-    description: BiS set designed around a 2.49 GCD while using the final step of
-      the Manderville weapon. This set does not share compatibility with DRG,
-      however, due to differing melds. If you do not care about compatibility
-      with DRG, use this set, otherwise use the DRG compatible Relic option.
+    description: >-
+      BiS set designed around a 2.49 GCD while using the final step of the
+      Manderville weapon. 
+
+
+      This set's accessory melds are fully compatible with SAM 2.15 BiS and MNK's "SAM 2.15 Meld Compatible" BiS. However, this set does not share compatibility with DRG due to many differing melds. If you do not care about compatibility with DRG, use this set, otherwise use the DRG compatible Relic option.
     name: 2.49 Relic BiS
-    link: d2a87a16-cb92-493a-b613-8904feeab83b
+    link: c3831920-8a4a-43c8-b9d7-20618899fb6f
   - type: etro
     description: Built around a 2.49 GCD, this set trades a minor DPS loss for more
       compatibility with DRG's BiS to avoid needing to remeld frequently when
