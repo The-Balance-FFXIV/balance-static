@@ -1,8 +1,8 @@
 ---
 title: Bard Best in Slot (BiS)
 layout: bis
-patch: "6.5"
-lastmod: 2023-10-04T03:15:35.190Z
+patch: "6.55"
+lastmod: 2024-01-23T02:25:56.516Z
 changelog:
   - date: 2021-10-26T02:40:27.765Z
     message: Created page
@@ -16,6 +16,8 @@ changelog:
     message: DSR prog BiS updated
   - date: 2023-05-25T03:46:55.528Z
     message: Added initial 6.4 sets
+  - date: 2024-01-23T02:25:58.289Z
+    message: i660 BiS updated with i665 relic
 bis:
   - type: etro
     description: We recommend you purchase the tome boots first, then bracelet. The
