@@ -23,7 +23,7 @@ bis:
       * Best choice for users with bad ping.
 
       * Handles 2-cartridge **No Mercy** differently. Refer to the infographic in the guide.
-    name: "2.50"
+    name: 2.50 w/ Relic
     link: https://etro.gg/gearset/b123d3ab-cd0f-404a-9c60-bbdc9b4ff7be
   - type: etro
     description: >-
