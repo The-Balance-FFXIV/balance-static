@@ -2,7 +2,7 @@
 title: Red Mage Openers
 authors:
   - Balance-RDM-Staff
-patch: "6.4"
+patch: "6.55"
 lastmod: 2023-06-10T03:35:34.304Z
 changelog:
   - date: 2021-10-26T01:26:40.899Z
