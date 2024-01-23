@@ -1,40 +1,38 @@
 ---
 title: Black Mage Best in Slot (BiS)
 layout: bis
-patch: "6.45"
-lastmod: 2023-07-25T00:47:39.964Z
+patch: "6.55"
+lastmod: 2024-01-20T02:19:23.107Z
 changelog:
+  - date: 2024-01-20T02:11:30.616Z
+    message: Added BiS sets using Manderville Relic
+  - date: 2023-07-25T00:46:26.216Z
+    message: Added 6.45 Manderville relic sets for TOP and DSR
+  - date: 2023-05-28T20:08:52.122Z
+    message: Added 6.4 sets
   - date: 2022-09-13T06:56:06.298Z
     message: Added 6.2 sets
   - date: 2022-01-07T07:20:02.394Z
     message: Added 6.05 sets
   - date: 2021-10-26T01:58:33.491Z
     message: Created page
-  - date: 2023-05-28T20:08:52.122Z
-    message: Added 6.4 sets
-  - date: 2023-07-25T00:46:26.216Z
-    message: Added 6.45 Manderville relic sets for TOP and DSR
 bis:
   - type: etro
     description: ""
-    name: 2521 SpS High SpS BiS
-    link: https://etro.gg/gearset/1d113f03-16e3-4a47-83a9-c3366a0fff84
+    name: 2469 SpS High SpS BiS
+    link: https://etro.gg/gearset/974e1ca4-41cf-4432-802e-fa3f4b9cf14f
   - type: etro
     description: ""
-    name: 1292 SpS High Crit BiS
-    link: https://etro.gg/gearset/29cc921f-570a-4069-926f-427fc95b3acb
+    name: 1302 SpS High Crit BiS
+    link: https://etro.gg/gearset/a5f74976-a0d2-43e4-b788-b918348d3787
   - type: etro
     description: Not recommended for beginners, primarily for advanced nonstandard gameplay
-    name: 824 SpS High Crit BiS
-    link: https://etro.gg/gearset/46e5dde8-3d11-418f-948b-f6452fb0c7e3
+    name: 826 SpS High Crit BiS
+    link: https://etro.gg/gearset/38b4d8d1-f3dc-4c4f-8718-669054fa8a3d
   - type: etro
-    description: ""
-    name: High Crit Prog Set with Tome Chest
-    link: https://etro.gg/gearset/9dadf972-1bfe-4346-b6cf-6f2c3b1d80c8
-  - type: etro
-    description: ""
-    name: High SpS Prog Set with Tome Pants
-    link: https://etro.gg/gearset/7af8b25f-d2df-4065-bb54-2751c8fe6e70
+    description: Compatible with RDM/SMN BiS by changing the SpS meld on the earring to Det.
+    name: 844 SpS High Crit BiS (RDM/SMN-friendly)
+    link: https://etro.gg/gearset/be89a292-5c43-4c93-86a1-59adbd9cfff9
   - type: etro
     description: ""
     name: TOP 2293 SpS BiS
@@ -65,8 +63,7 @@ bis:
     link: https://etro.gg/gearset/5a819e8a-b41c-4929-8c9a-df10f7e4afb1
   - type: gsheets
     description: Contains alternative sets to the ones provided above, including
-      sets at different SpS values as well as non-relic TOP/DSR sets. Check it
-      out
+      sets at different SpS values as well as non-relic sets. Check it out
       [here](https://docs.google.com/spreadsheets/d/1t3EYSOPuMceqCFrU4WAbzSd4gbYi-J7YeMB36dNmaWM/edit#gid=654212594)
     name: Gear Sheet
     link: https://docs.google.com/spreadsheets/d/e/2PACX-1vSCsbn5CJAMRXv-WJEV-W1FCPtrVhZeMU0JD8SleJ_Ga_5ur7wgLisKdca5M-KzTqahrtCjAP9qLtvG/pubhtml
