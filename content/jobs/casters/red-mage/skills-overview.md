@@ -2,7 +2,7 @@
 title: Red Mage Skills Overview
 authors:
   - Balance-RDM-Staff
-patch: "6.5"
+patch: "6.55"
 lastmod: 2023-10-06T02:21:21.237Z
 changelog:
   - date: 2021-10-26T01:26:01.468Z
