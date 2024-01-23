@@ -1,8 +1,8 @@
 ---
 title: Dragoon Best in Slot (BiS)
 layout: bis
-patch: "6.5"
-lastmod: 2023-10-03T17:06:08.996Z
+patch: "6.55"
+lastmod: 2024-01-23T07:01:06.129Z
 changelog:
   - date: 2021-10-29T03:01:01.840Z
     message: Created page
@@ -17,11 +17,16 @@ changelog:
       for these fights.
   - date: 2023-10-03T17:06:15.459Z
     message: Added new TOP sets, removed pentamelded crafted sets
+  - date: 2024-01-23T07:01:12.275Z
+    message: etro sets changed to 6.55 BiS
 bis:
   - type: etro
-    description: Choosing this 2.50 set is highly recommended. It is much easier to
-      play, more comfortable and will thus likely yield better results in
-      practice. It is also identical to the Reaper BiS.
+    description: >-
+      Choosing this 2.50 set is highly recommended. It is much easier to play,
+      more comfortable and will thus likely yield better results in practice. 
+
+
+      Compatibility to Reaper sets is very limited.
     link: 8a907f52-75a4-4085-9deb-6a63ffa2abd8
     name: 2.50 GCD
   - type: etro
