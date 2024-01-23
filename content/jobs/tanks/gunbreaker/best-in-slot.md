@@ -33,10 +33,7 @@ bis:
       Handles No Mercy uniquely.
 
 
-      [Click here](https://youtu.be/3DYfkc0alzI "Click here
-
-
-      (https\://youtu.be/3DYfkc0alzI)") to watch a video demonstrating using  **No Mercy** off-cooldown on 2.45.
+      [Click Here](https://youtu.be/3DYfkc0alzI) to watch to watch a video demonstrating using  **No Mercy** off-cooldown on 2.45.
     name: 2.45 w/ Relic
     link: https://etro.gg/gearset/8c477a5f-d7aa-4b75-a906-ebbfb9b572cd
   - type: etro
