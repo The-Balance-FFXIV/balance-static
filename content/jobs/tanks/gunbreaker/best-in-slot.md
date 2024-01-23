@@ -1,8 +1,8 @@
 ---
 title: Gunbreaker Best in Slot (BiS)
 layout: bis
-patch: "6.4"
-lastmod: 2023-05-25T01:14:02.146Z
+patch: "6.55"
+lastmod: 2024-01-23T02:14:02.146Z
 changelog:
   - date: 2022-02-03T00:16:26.730Z
     message: Updated for Endwalker patch 6.08.
@@ -23,36 +23,24 @@ bis:
       * Best choice for users with bad ping.
 
       * Handles 2-cartridge **No Mercy** differently. Refer to the infographic in the guide.
-    name: "2.50"
-    link: https://etro.gg/gearset/1dee5389-9906-4690-88b7-55419a342932
-  - type: etro
-    description: Easiest set to obtain with minimal SKS melding.
-    name: "2.44"
-    link: https://etro.gg/gearset/b3847bc9-2fda-4b7b-a8a1-e1720b51a46e
+    name: 2.50 w/ Relic
+    link: https://etro.gg/gearset/b123d3ab-cd0f-404a-9c60-bbdc9b4ff7be
   - type: etro
     description: >-
-      \
-
-      Alternative to 2.44 that has better cooldown alignment and less drift.
+      Can outperform 2.50 on various encounters.
 
 
-      * Trades DH to gain comfort and reduce naturally occurring drift from party buffs.
+      Handles No Mercy uniquely.
 
-      * Comparable to the 2.44 set. (Not expected to outperform on average.)
-    name: "2.41"
-    link: https://etro.gg/gearset/b0552aae-c8e8-4beb-bd42-f77637a4b254
+
+      [Click Here](https://youtu.be/3DYfkc0alzI) to watch to watch a video demonstrating using  **No Mercy** off-cooldown on 2.45.
+    name: 2.45 w/ Relic
+    link: https://etro.gg/gearset/8c477a5f-d7aa-4b75-a906-ebbfb9b572cd
   - type: etro
-    description: >-
-      \
-
-      Simplest method of making 9 GCD NM consistently possible from the 2.50 omni-tank set.
-
-
-      * 9 GCD NM may be inconsistent or impossible even for users with moderate latency (>50-100ms).
-
-      * Poor cooldown alignment will cause drift from party buffs during uptime.
-    name: "2.46"
-    link: https://etro.gg/gearset/f5d14a05-593c-454d-8614-077974c0b98c
+    description: Average DPS is lower, but negligibly different and within 1% on all
+      encounters.
+    name: 2.40 w/ Relic
+    link: https://etro.gg/gearset/b24c81eb-440d-4218-9a5d-e0bd13e5d41d
 authors:
   - Balance-GNB-Staff
 tags: []
