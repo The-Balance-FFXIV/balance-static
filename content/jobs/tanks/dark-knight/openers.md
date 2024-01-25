@@ -44,11 +44,13 @@ Opener notes:
 
 ## Standard Opener
 
-Best raid buff alignment and a good default choice
+Best raid buff alignment and a good default choice.\
+The Edge of Shadow near the end of the opener is intended to fit in the potion window, but not most raid buffs.\
+Note: The potion can be moved to after the second GCD (Syphon Strike) for a minor loss if this is more comfortable or aligns better with a fight's mitigation timings (e.g. if the sixth edge of shadow cannot be fit into a prepull potion window without losing a key use of The Blackest Night)
 
-> Text version: Prepull Blood Weapon (-4) > Prepull The Blackest Night (-3) > Prepull Potion (-2) > Provoke (if pulling) > Hard Slash + Edge of Shadow + Delirium > Syphon Strike > Souleater + Living Shadow + Salted Earth > Hard Slash + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
+> Text version: Prepull Blood Weapon (-4) > Prepull The Blackest Night (-3) > Prepull Potion (-2) > Provoke (if pulling) > Hard Slash + Edge of Shadow + Delirium > Syphon Strike > Souleater + Living Shadow > Hard Slash Salted Earth + Edge of Shadow > Bloodspiller + Shadowbringer + Edge of Shadow  > Bloodspiller Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Syphon Strike + Salt and Darkness + Edge of Shadow **\>** Salt and Darkness + Edge of Shadow > Souleater+ Plunge > Hard Slash > Syphon Strike + Edge of Shadow > Souleater > Bloodspiller
 
-![Standard Dark Knight Opener](/img/jobs/drk/drk_standard_6.2_v1.png "Standard")
+![Standard Dark Knight Opener](/img/jobs/drk/opengraphic2.png "Standard")
 
 ## Early Delirium Opener
 
