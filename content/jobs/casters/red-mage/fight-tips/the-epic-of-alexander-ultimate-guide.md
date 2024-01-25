@@ -33,7 +33,7 @@ For brevity's sake, please refer to the abbreviations of boss names and phases b
 
 If you're bringing a Shadowbringers relic into this fight, the maximum stat value for your weapon at this fight's item level sync is 184. You should allocate as much Crit as possible while not going above the highest stat breakpoint you can hit, then allocate the rest into Det and DH according to your gearset, wasting as few substats as possible.
 
-Your ideal GCD speed for this fight is 2.50, as phasing and boss untargetability mean that you won't really feel the 0.2s of oGCD drift from each melee combo. However, if you are using synced gear or simply want a slightly faster speed, any speed from 2.50 to 2.48 is perfectly fine. If you want to play at 2.49, use gear with no SpS and allocate 10 points from the ShB relic into Spell Speed. If you don’t have the ShB relic, simply pick a weapon with Crit and either Det or DH, at iLVL 595 or above.
+Your ideal GCD speed for this fight is 2.50, as phasing and boss untargetability mean that you won't really feel the 0.2s of oGCD drift from each melee combo. However, if you are using synced gear or simply want a slightly faster speed, any speed from 2.50 to 2.48 is perfectly fine. If you want to play at 2.49, use gear with no SpS and allocate ten points from the ShB relic into Spell Speed. If you don’t have the ShB relic, simply pick a weapon with Crit and either Det or DH, at iLVL 595 or above.
 
 In terms of gear, any gear pieces at iLVL 595 and above will sync down to cap both substats. You can construct a completely functional gear set by picking pieces with Crit as one of the two substats and Det/DH as the other substat, roughly balancing the two. You can see a sample gearset using the ShB relic below:
 
@@ -179,7 +179,7 @@ There is an alternate opener that can be used by players who have low enough pin
 
 The primary differences in movement arise during Protean 1 and Protean 2. If Acceleration and Swiftcast are utilized in the initial pot window for P1, the rotation can be aligned to the mechanics in a manner that where baits go out as you can keep your GCD rolling freely.
 
-Protean 1 can be resolved and reacted to easily by either casting your GCDs or doing an additional melee combo between feeding dolls and the start of the mechanic. Since your melee combo is 10 seconds long, with a GCD speed of 2.50, Protean 1 can be resolved by simply slidecasting out after the initial baits from Living Liquid, then slidecasting to your Protean Wave bait spot after the initial puddle drops.
+Protean 1 can be resolved and reacted to easily by either casting your GCDs or doing an additional melee combo between feeding dolls and the start of the mechanic. Since your melee combo is ten seconds long, with a GCD speed of 2.50, Protean 1 can be resolved by simply slidecasting out after the initial baits from Living Liquid, then slidecasting to your Protean Wave bait spot after the initial puddle drops.
 
 Unlike Protean 1, the second protean will not be aligned to your GCD rolling if one instant cast is not used between the opener and Protean 2. One of Swiftcast or Acceleration should be used in order for the initial Protean baits to come out as your GCD rolls. As you go out, you can either use an instant Impact as you reach your Liquid Rage followed by a Dualcast pair, or begin with the Dualcast pair and then use an instant Impact as you move back in after the second set of baits.
 
@@ -249,7 +249,7 @@ Ideally, you want two instants, three Dualcast pairs, and a single melee combo. 
 
 ## Building Mana with AoE
 
-During Inception, there is a period of 8 GCDs where you can safely build up mana on the invulnerable True Heart, meaning that you can gain 56 mana by Dualcasting Veraero II and Verthunder II. Make sure you are standing far enough away that the Tetrashatters do not kill you before you start attempting to cast, as you will be out of range until the Tetrashatters resolve. With the standard marker set, it is safe to stand a step or two outside of the A/C marker, on the side closest to the wall.
+During Inception, there is a period of eight GCDs where you can safely build up mana on the invulnerable True Heart, meaning that you can gain 56 mana by Dualcasting Veraero II and Verthunder II. Make sure you are standing far enough away that the Tetrashatters do not kill you before you start attempting to cast, as you will be out of range until the Tetrashatters resolve. With the standard marker set, it is safe to stand a step or two outside of the A/C marker, on the side closest to the wall.
 
 ## Post-Inception
 
@@ -259,7 +259,7 @@ Aside from these considerations, your priority here should be the same as post-T
 
 ## Wormhole
 
-It can be nice to use Vercure during Wormhole to ensure that healing before the stack goes well; however, strictly speaking, it is optional, and you should prioritize resolving the mechanic first and foremost. You can, however, prepare a Dualcast in order to use Verraise if someone dies during the mechanic. This is particularly useful if you are assigned a number from 3 to 6, as you can move middle after the third dash and raise in the middle.
+It can be nice to use Vercure during Wormhole to ensure that healing before the stack goes well; however, strictly speaking, it is optional, and you should prioritize resolving the mechanic first and foremost. You can, however, prepare a Dualcast in order to use Verraise if someone dies during the mechanic. This is particularly useful if you are assigned a number from three to six, as you can move middle after the third dash and raise in the middle.
 
 Prepare a Dualcast during the stack telegraph, weave Fleche and C6 in your first weave window, then Dualcast normally until Trio Enrage.
 
@@ -269,11 +269,11 @@ If you are rushing Manafication, it is likely that you will need a melee combo b
 
 The most common and arguably most valuable Addle usage in this phase is on the Mega Holy raidwides after Wormhole. Some groups may request for Addle during JWaves instead, around when CC dies. If in a double caster composition, these two will be the expected uses. Technically speaking, you can also Addle the first tankbuster for free, but most tanks will use their invulnerability on this buster, rendering this pointless.
 
-For mitigating Mega Holies, you should weave Addle late in your second weave window, either as the second weave of a double weave, or 2/3 of the way through your weave window, to ensure that you catch both raidwides.
+For mitigating Mega Holies, you should weave Addle late in your second weave window, either as the second weave of a double weave, or two thirds of the way through your weave window, to ensure that you catch both raidwides.
 
 ## Trio Enrage
 
-You should aim to perform two melee combos right after using Embolden, regardless of your buff alignment. If doing the clear-ready buff timing, you’ll be buffing around 3 Dualcasts (6 GCDs) after the Trio Enrage begins. If double comboing at this time will cause overcap, use the first combo prior to buffs and only do a single combo under buffs instead. This is because it is important to ensure you have gauge before PA.
+You should aim to perform two melee combos right after using Embolden, regardless of your buff alignment. If doing the clear-ready buff timing, you’ll be buffing around three Dualcasts (6 GCDs) after the Trio Enrage begins. If double comboing at this time will cause overcap, use the first combo prior to buffs and only do a single combo under buffs instead. This is because it is important to ensure you have gauge before PA.
 
 Once both BJ and CC are down, your group may choose to intentionally lower their DPS in order to build resources, and in the case of groups using buffs off cooldown, this may also be necessary if you want to have buffs at the start of PA, as there are roughly 70 seconds between when the boss goes untargetable and when you regain control. Ideally, you want to have at least 81|81 going into the phase transition, assuming that you will have buffs at the start.
 
