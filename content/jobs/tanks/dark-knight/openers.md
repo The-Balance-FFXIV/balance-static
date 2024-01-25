@@ -4,8 +4,8 @@ authors:
   - Balance-DRK-Staff
   - silaqui-amakiir
   - athunin
-patch: "6.3"
-lastmod: 2023-01-19T04:46:20.045Z
+patch: "6.5"
+lastmod: 2024-01-25T08:36:34.887Z
 changelog:
   - date: 2021-10-27T17:35:21.786Z
     message: Added
@@ -15,6 +15,8 @@ changelog:
     message: Updated for 6.21.
   - date: 2023-01-18T23:05:24.499Z
     message: Opener update, bump to 6.3
+  - date: 2024-01-25T08:36:30.623Z
+    message: Small opener update, mostly to highlight final edge in potion window)
 ---
 # Dark Knight Openers and Rotation
 
