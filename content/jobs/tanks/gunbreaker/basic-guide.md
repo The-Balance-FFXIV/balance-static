@@ -108,7 +108,7 @@ Splitting the rotation into two main phases helps understand the fundamentals be
 
 The burst phase begins when **No Mercy** is activated, and the filler phase begins when  **No Mercy** ends.
 
-![GNB Simple Infographic](/img/jobs/gnb/gnb-fundamental-recovered.png "GNB Rotation")
+![GNB Simple Infographic](/img/jobs/gnb/gnb_rg_40.png "GNB Rotation")
 
 ### Filler Phase
 
@@ -341,28 +341,26 @@ The reason why The Manderville Relic (Stage I or Stage II) is an ideal substitut
 
 **The Unending Coil of Bahamut (UCoB):**\
 IL Cap: 470\
-BIS: [UCoB/UWU Combination BIS](https://cdn.discordapp.com/attachments/541353216307232788/950220623873990656/unknown.png)\
+BIS: [UCoB/UWU Combination BIS](https://media.discordapp.net/attachments/541353216307232788/1162357818872045569/image.png)\
 Relic Stat cap: 127
 
 **The Weapon’s Refrain (UWU):**\
 IL Cap: 500\
-BIS: [UCoB/UWU Combination BIS](https://cdn.discordapp.com/attachments/541353216307232788/950220623873990656/unknown.png)\
+BIS: [UCoB/UWU Combination BIS](https://cdn.discordapp.com/attachments/541353216307232788/1162380400300130364/image.png)\
 Relic Stat cap: 136
 
 **The Epic of Alexander (TEA):**\
 IL Cap: 595 \
-BIS: [2.40](https://cdn.discordapp.com/attachments/541353216307232788/945234729865728030/unknown.png)\
+BIS: [2.40](https://i.imgur.com/nZrxF4X.png)\
 Relic Stat cap: 184
 
 **Dragonsong’s Reprise (DSW/DSR):**\
 IL Cap: N/A\
-BIS Options: [2.50](https://cdn.discordapp.com/attachments/541353216307232788/1062495701277343865/image.png), [2.40,](https://media.discordapp.net/attachments/889729119867265095/1063214948420952155/image.png) [2.40 (22 STR Race).](https://media.discordapp.net/attachments/889729119867265095/1063304909035946055/image.png)\
-Alt Weapon: Use Manderville Relic if you do not possess Ultimate Gunblade of the Heavens. [](https://etro.gg/gearset/88fbea7d-3b43-479c-adb8-b87c9d6cb5f9)
+BIS Options: [2.40,](https://etro.gg/gearset/5d0cb3c9-6d8b-4364-bbe3-11b92d22d4e9) [2.45](https://etro.gg/gearset/ed47410a-6714-4fcb-a78e-2729c28c5beb)
 
 **The Omega Protocol (TOP):**\
 IL Cap: N/A\
-BIS Options: [2.50](https://etro.gg/gearset/6eee20c5-a3a0-447a-8ed0-9f250c1a6daa), [2.42.](https://etro.gg/gearset/e102cb6b-528b-43bb-99ac-f66146a857a2)\
-Alt Weapon: Use Abyssos Gunblade if you do not possess Ultimate Omega Bayonet.
+BIS Options: [2.50](https://etro.gg/gearset/273b03e4-3bf5-4d0e-af52-b13e812633ed)
 
 ## Special Thanks
 
