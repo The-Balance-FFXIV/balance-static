@@ -2,9 +2,9 @@
 title: The Epic of Alexander (Ultimate) RDM Guide
 card_header_image: /img/rdm-fight-tips.jpg
 authors:
-  - CyclopsDragon
+  - cyclopsdragon
   - lemoncobra
-  - NMemories
+  - nmemories
   - Balance-RDM-Staff
 patch: "6.55"
 lastmod: 2024-01-25T13:45:06.583Z
