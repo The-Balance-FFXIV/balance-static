@@ -272,15 +272,9 @@ For mitigating Mega Holies, you should weave Addle late in your second weave win
 
 ## Trio Enrage
 
-You should aim to perform two melee combos right after using Embolden, regardless of your buff alignment. If doing the clear-ready buff timing, you’ll be buffing around three Dualcasts (6 GCDs) after the Trio Enrage begins. If double comboing at this time will cause overcap, use the first combo prior to buffs and only do a single combo under buffs instead. This is because it is important to ensure you have gauge before PA.
+You should aim to perform two melee combos right after using Embolden, regardless of your buff alignment. If doing the clear-ready buff timing, you’ll be buffing around three Dualcasts (six GCDs) after the Trio Enrage begins. If double comboing at this time will cause overcap, use the first combo prior to buffs and only do a single combo under buffs instead. This is because it is important to ensure you have gauge before PA.
 
 Once both BJ and CC are down, your group may choose to intentionally lower their DPS in order to build resources, and in the case of groups using buffs off cooldown, this may also be necessary if you want to have buffs at the start of PA, as there are roughly 70 seconds between when the boss goes untargetable and when you regain control. Ideally, you want to have at least 81|81 going into the phase transition, assuming that you will have buffs at the start.
-
-## Recovery
-
-While it is possible to save a run by Verraising someone into their enumeration tower if they die to the first Drachenlance or tank autos, the timing for doing so is much tighter than P2 trios.
-
-RDM should proactively revive party members over healers for almost all of the fight. With that said, the raid buff and potion window here (after enumeration towers) is one of the least convenient times for RDM to raise due to how many melee combos occur with raid buffs and potions being up. It is also one of the easier phases for healers to recover, given that there is minimal movement and raid damage here. Given the tight DPS check, you can give your healers a heads up to cover the first revive if someone dies to the tankbuster tethers. 
 
 ## Further Optimization
 
@@ -359,7 +353,7 @@ On the subject of optimizing potions, if either Acceleration or Swiftcast has le
 
 # Clear PoVs
 
-Draid Kylian, with specific concessions made to account for having higher DPS than expected: [https://www.youtube.com/watch?v=1ojyevVK5Og](https://www.youtube.com/watch?v=1ojyevVK5Og) 
+Draid Kylian, with specific concessions made to account for having higher DPS than expected: <https://www.youtube.com/watch?v=1ojyevVK5Og> 
 
 Accompanying log: <https://www.fflogs.com/reports/WB7MxrHpVaLCgZyR#fight=22&type=damage-done>
 
