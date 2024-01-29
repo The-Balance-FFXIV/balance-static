@@ -34,10 +34,10 @@ enableRobotsTXT = true
   #   url = '#'
   #   weight = 20
    [[menu.main]]
-   identifier = 'encounters'
-   name = 'Encounters'
-   url = '/encounters/'
-   weight = 30
+  # identifier = 'encounters'
+  # name = 'Encounters'
+  # url = '/encounters/'
+  # weight = 30
   # [[menu.main]]
   #   identifier = 'tools'
   #   name = 'Tools'
