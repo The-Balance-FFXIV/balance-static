@@ -1,11 +1,13 @@
 ---
 title: Astrologian Best in Slot (BiS)
 layout: bis
-patch: "6.45"
-lastmod: 2023-06-13T07:33:45.913Z
+patch: "6.55"
+lastmod: 2024-01-29T22:59:38.682Z
 changelog:
   - date: 2023-06-13T07:33:46.627Z
     message: Updated for 6.4
+  - date: 2024-01-29T22:59:32.336Z
+    message: Updated TOP/DSR sets for 6.55
 bis:
   - type: etro
     description: "This set is for if you aren't raiding with a bard or you don't
@@ -28,9 +30,26 @@ bis:
       sheet from the File menu.
     link: https://docs.google.com/spreadsheets/d/1w-lpfQ2DeI-vveYwZlZEuBLXuaY3hVJFajBSZWM5JWo/edit#gid=743002648
     name: AST dmg calc
+  - type: etro
+    description: ""
+    name: SpS Relic - 2.31 TOP
+    link: efd447cd-58db-4469-aa5c-3b84c2033678
+  - type: etro
+    description: ""
+    name: DET Relic - 2.37 TOP
+    link: 1a1ec6b6-7959-4641-bc87-db3ecfb4f139
+  - type: etro
+    description: ""
+    name: SpS Relic - 2.34 DSR
+    link: 94febc10-6779-486b-b57f-7993b766f41e
+  - type: etro
+    description: ""
+    name: DET Relic - 2.39 DSR
+    link: 577e9cb6-3b19-4fe2-b20e-f0a6dac6a241
 authors:
-  - Ahriqi
   - Balance-AST-Staff
+  - zyrk
+  - Ahriqi
 ---
 # 5.5 AST BiS SETS
 
