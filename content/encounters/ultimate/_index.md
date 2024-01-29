@@ -1,6 +1,6 @@
 ---
 menu:
-  main:
+#  main:
     name: Ultimate
     parent: encounters
 layout: encounters/list
