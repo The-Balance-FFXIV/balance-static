@@ -30,6 +30,11 @@
       "name": "Reaper",
       "job_link": "/jobs/melee/reaper/",
       "icon": "/theme-assets/jobs/melee/reaper/reaper.svg"
+    },
+    {
+      "name": "Viper",
+      "job_link": "/jobs/melee/viper/",
+      "icon": "/theme-assets/jobs/melee/viper/viper.svg"
     }
   ],
   "title": "melee",
