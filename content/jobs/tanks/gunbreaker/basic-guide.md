@@ -24,8 +24,8 @@ changelog:
 
 #### Authors
 
-**Krom Ulus** | Adamantoise (Aether) | krom#7427\
-**Azazel Raine** | Balmung (Crystal) | Azazel#1000
+**Krom Ulus** | Adamantoise (Aether) | discord: krom.ulus\
+**Azazel Raine** | Balmung (Crystal) | discord: azazelraine
 
 - - -
 
