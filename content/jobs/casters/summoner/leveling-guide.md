@@ -14,7 +14,7 @@ changelog:
   - date: 2022-07-05T03:04:48.328Z
     message: Updated for patch 6.0
 ---
-# Introduction
+# Introduction 
 
 Welcome! This page is written to assist you throughout your leveling journey and provide insight on how the Summoner job will evolve from level one to level 80.  Summoner may appear as a bit of a “unique” job with a lot of moving parts and multiple avenues of attacking enemies.  
 
