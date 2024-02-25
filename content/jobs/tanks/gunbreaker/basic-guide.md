@@ -24,8 +24,8 @@ changelog:
 
 #### Authors
 
-**Krom Ulus** | Adamantoise (Aether) | krom#7427\
-**Azazel Raine** | Balmung (Crystal) | Azazel#1000
+**Krom Ulus** | Adamantoise (Aether) | discord: krom.ulus\
+**Azazel Raine** | Balmung (Crystal) | discord: azazelraine
 
 - - -
 
@@ -155,7 +155,7 @@ It is possible for this scenario to occur within your rotation:
 
 This forces us to enter **No Mercy** with two cartridges if we use **No Mercy** off cooldown. There is more than one solution to this, so refer to the infographic.
 
-![](/img/jobs/gnb/2cnm_lr.png)
+![](/img/jobs/gnb/gnb_2c_sh2.1_1080p.png)
 
 ### **Gnashing Fang Combo**
 
