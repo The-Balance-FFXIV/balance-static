@@ -60,7 +60,7 @@ Useful if a fight benefits from a slightly earlier Delirium due to downtime or p
 
 > Text version: Pre-pull Delirium > Pre-pull The Blackest Night > Pre-pull Blood Weapon just before pull > Hard Slash + Edge of Shadow > Syphon Strike + Potion > Souleater + Living Shadow + Salted Earth > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Hard Slash + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
 
-![Early Delirium Opener](https://cdn.discordapp.com/attachments/583964695266983944/925284132886552576/tmp4.PNG "Early Delirium")
+![Early Delirium Opener](/img/jobs/drk/drk-opener-6.4-early-del.png "Early Delirium")
 
 - - -
 
