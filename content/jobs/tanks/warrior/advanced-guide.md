@@ -84,7 +84,7 @@ Congratulations, you just carried Inner Chaos for multiple GCDs.
 
 As for how this would look like in FFLogs, here's a handy image.\
 To replicate this view, go to [Character > Buffs > Drop-down menu: Nascent Chaos](https://www.fflogs.com/reports/Gya7HRZ69QpDdrxm#fight=1&type=auras&source=1&ability=1001897)
-![Carried Inner Chaos](https://cdn.discordapp.com/attachments/937834268950925433/950005284972142642/unknown.png)
+![Carried Inner Chaos](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/ic_carry.png?raw=true)
 
 ### Potions
 
@@ -196,7 +196,7 @@ Just don’t get hit by two Cataracts.
 
 There's not much to this tech; Use Onslaught whenever you're pushed back, while out of the target's hitbox. The knockback cancel works when Onslaught changes your character's direction of movement. The most satisfying thing is to cancel the knockback on the first "frame".
 
-![Shar's Warrior imagery](https://cdn.discordapp.com/attachments/937834268950925433/947158285683937330/unknown.png)
+![Shar's Warrior imagery](https://github.com/Moxfi/XIV/blob/main/WAR/WAR_glam/shar%20-%20war%20img.png?raw=true)
 
 ## Wanted: Party Buffs
 
