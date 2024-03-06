@@ -34,7 +34,7 @@ This intro is focused on Lvl90 Endwalker Warrior. Please get to level 90 soon.
 
 The order of skills is pretty straight forward. Here is an image to visualize it all:
 
-[Long image is looooong](https://cdn.discordapp.com/attachments/277962749630349312/900866377915695124/unknown.png) 
+[Long image is looooong](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/skills_by_level.png?raw=true) 
 
 Traits on the left, damaging skills in the middle-ish, and cooldowns/buffs on the right.
 
@@ -120,7 +120,7 @@ For ease of reading, the following list entries have their abbreviations first, 
 * Provoke (Lvl 15)
 * Shirk (Lvl 48)
 
-![NishYou's WAR imagery](https://cdn.discordapp.com/attachments/937834268950925433/947156582263816232/unknown.png)
+![NishYou's WAR imagery](https://github.com/Moxfi/XIV/blob/main/WAR/WAR_glam/nishyou%20-%202021-09-27_02-58-12-798_EG11%20-%2000%20-%20Shadowbringers%20Gameplay.png?raw=true)
 
 ## Warrior Gameplay
 
@@ -153,7 +153,7 @@ Catches party buffs, burns all our resources as soon as possible.
 
 There is nothing special about this. This is your usual opener. The IR stacks last right until the 3rd Fell Cleave at 2.50 GCD.
 
-![All-Around Opener](https://cdn.discordapp.com/attachments/277962807813865472/963548326433796116/unknown.png "All-Around Opener")
+![All-Around Opener](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/Openers/WAR_Standard.png?raw=true "All-Around Opener")
 
 The order of actions is:
 
@@ -182,7 +182,7 @@ Requires a faster set (eg. 2.40 GCD). Expected to do 13 GCD Potion to fit in 3 I
 
 This gets Inner Release on cooldown earlier, but any gains are very fight-specific and you need a faster skill speed to pull off the 3IC Potion and to get the 3rd IR Fell Cleave out.
 
-![Early-IR Opener](https://cdn.discordapp.com/attachments/583965306071023616/968622446498418758/unknown.png "Early-IR Opener")
+![Early-IR Opener](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/Openers/WAR_EarlyIR.png?raw=true "Early-IR Opener")
 
 The order of actions is:
 
@@ -221,13 +221,13 @@ Pull timers are:
 The previews have been removed to force the reader to read the text above, before clicking random links on the internet.
 
 **\-9s IR into Eye**\
-[Prepull IR into Eye](https://cdn.discordapp.com/attachments/583965306071023616/925063725193527306/unknown.png)
+[Prepull IR into Eye](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/Openers/WAR_-9s.png?raw=true)
 
 **\-9s IR into Tempest**\
-[Prepull IR into Tempest](https://cdn.discordapp.com/attachments/583965306071023616/926221989377609798/unknown.png) 
+[Prepull IR into Tempest](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/Openers/WAR_-9stempest.png?raw=true) 
 
 **\-29s IR into Rend**\
-[Prepull IR into Rend](https://cdn.discordapp.com/attachments/583965306071023616/939467751079161877/unknown.png)  
+[Prepull IR into Rend](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/Openers/WAR_-29s.png?raw=true)  
 
 We expect you to do your own adjustments for any fight-specific needs. There is no support for these openers.
 
@@ -333,7 +333,7 @@ Two or less targets available?
 * Fell Cleave or Inner Beast
 * Upheaval
 
-![Greg's Warrior imagery](https://cdn.discordapp.com/attachments/937834268950925433/947156799298097182/unknown.png)
+![Greg's Warrior imagery](https://github.com/Moxfi/XIV/blob/main/WAR/WAR_glam/greg%20-%20ffxiv_01292022_161109_125.png?raw=true)
 
 ## Getting Advanced
 
@@ -385,7 +385,7 @@ To avoid hitting two stacks of Infuriate, we aim to do the following:
 
 Setting up the last option takes a bit of planning and depends on the fight and skill speed.
 
-![Larxy Couteau's Warrior imagery](https://cdn.discordapp.com/attachments/937834268950925433/947157073240674324/unknown.png)
+![Larxy Couteau's Warrior imagery](https://github.com/Moxfi/XIV/blob/main/WAR/WAR_glam/Larxy%20Couteau%20-%20image%2020.png?raw=true)
 
 ## Staying Alive
 
@@ -406,7 +406,7 @@ The gap between the new max HP and the new tank buster is now “40%.”
 
 While math does not work this way exactly, it is good enough to paint a mental image of the survivability increase.
 
-![Cooldowns vs Buster](https://cdn.discordapp.com/attachments/937834268950925433/947118361198854175/unknown.png "Cooldowns vs Buster")
+![Cooldowns vs Buster](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/hp_vs_buster.png?raw=true "Cooldowns vs Buster")
 
 As another example, consider Bloodwhetting + Rampart.
 
@@ -494,7 +494,7 @@ In this section, we will go over the very basics of Warrior Heals.
 * Be the healer of the party.
 * Inner Release’d skills do not force a Crit heal.
 
-![Lars' Warrior imagery](https://cdn.discordapp.com/attachments/937834268950925433/947157367018098698/unknown.png)
+![Lars' Warrior imagery](https://github.com/Moxfi/XIV/blob/main/WAR/WAR_glam/lars%20-%20war%20img.png?raw=true)
 
 ## Stats and Gear
 
@@ -559,7 +559,7 @@ Patch 6.2 brought Direct Hit melds back to WAR!
 While WARs try to hit GCD numbers around 2.50, 2.45, 2.40, other tanks might have more specific numbers.  \
 While melding for multiple tanks, consider what skill speed you want to use on GNB, PLD or DRK.
 
-![Sunless's Warrior imagery](https://cdn.discordapp.com/attachments/937834268950925433/947157641925369876/unknown.png)
+![Sunless's Warrior imagery](https://github.com/Moxfi/XIV/blob/main/WAR/WAR_glam/Sunless%20-%20war%20img.png?raw=true)
 
 ## Macros
 
