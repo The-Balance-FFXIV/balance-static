@@ -75,7 +75,7 @@ However, it is possible to do a basic IC IR IC opener, and keep IR on cooldown w
 **P10s:**  
 * Mitigation is the most important optimization, see [spreadsheet](
 https://docs.google.com/spreadsheets/d/1R0PyFFwRgmJEMnu3U2p2-Kq4IYj9TGw6iUmV3P6A3u8/edit?usp=sharing).  
-* See this image for [Tower knockback](https://cdn.discordapp.com/attachments/1112824356687585401/1113228862260793374/image.png).  
+* See this image for [Tower knockback](https://github.com/Moxfi/XIV/blob/main/WAR/Encounters/P10s_tower_spot.png?raw=true).  
 * Full uptime.
 
 **P11s:**  
