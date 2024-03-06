@@ -41,7 +41,7 @@ oGCDs
 
 #### All-Around Opener
 
-![All-Around Opener](https://cdn.discordapp.com/attachments/277962807813865472/963548326433796116/unknown.png "All-Around Opener")
+![All-Around Opener](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/Openers/WAR_Standard.png?raw=true "All-Around Opener")
 
 
 The IR stacks last right until the 3rd Fell Cleave at 2.50 GCD. There's nothing special about this. This is your usual opener, probably.
@@ -51,7 +51,7 @@ The IR stacks last right until the 3rd Fell Cleave at 2.50 GCD. There's nothing 
 
 
 
-![Early-IR Opener](https://cdn.discordapp.com/attachments/583965306071023616/968622446498418758/unknown.png "Early-IR Opener")
+![Early-IR Opener](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/Openers/WAR_EarlyIR.png?raw=true "Early-IR Opener")
 
 Requires a faster set (eg. 2.40 GCD).  
 Expected to do 13 GCD Potion to fit in 3 IC.  
@@ -73,15 +73,15 @@ Tightest of the tightest timers are:
 * Pull at 00:00s
 
 **-9s IR into Eye**  
-[Prepull IR into Eye](https://cdn.discordapp.com/attachments/583965306071023616/925063725193527306/unknown.png)
+[Prepull IR into Eye](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/Openers/WAR_-9s.png?raw=true)
 
 **-9s IR into Tempest**  
-[Prepull IR into Tempest](https://cdn.discordapp.com/attachments/583965306071023616/926221989377609798/unknown.png) 
+[Prepull IR into Tempest](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/Openers/WAR_-9stempest.png?raw=true) 
 
 
 Triple cursed:  
 **-29s IR into Rend**  
-[Prepull IR into Rend](https://cdn.discordapp.com/attachments/583965306071023616/939467751079161877/unknown.png) 
+[Prepull IR into Rend](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/Openers/WAR_-29s.png?raw=true) 
 
 ## More on various openers
 
