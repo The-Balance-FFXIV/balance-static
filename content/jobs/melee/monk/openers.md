@@ -2,7 +2,7 @@
 title: Monk Openers
 authors:
   - Perfect-Balance
-patch: "6.3"
+patch: "6.5"
 lastmod: 2023-03-06T14:15:35.076Z
 changelog:
   - date: 2021-10-28T03:51:16.591Z
@@ -14,9 +14,7 @@ changelog:
 ---
 ## Openers
 
-![](https://cdn.discordapp.com/attachments/895060190506913802/1066337894773563422/All_openers.jpg "Monk Openers")
-
-
+![](/img/jobs/mnk/all-openers.jpg "Monk Openers")
 
 ### Other Resources
 
@@ -24,11 +22,21 @@ changelog:
 
 ## Rotation
 
-### Looping rotation -  ![](https://cdn.discordapp.com/attachments/916516650466025543/922746168851726366/unknown.png)
+### Looping rotation
 
-### French translation - ![](https://cdn.discordapp.com/attachments/895060190506913802/925839536477589564/Guide_visuel_Monk_6.0_traduit.png)
+![](/img/jobs/mnk/braindead-rotation.png)
 
-### Korean translation - ![](https://cdn.discordapp.com/attachments/917663279126552576/925809066406727750/6.0_monk_braindead_cheatsheet.png)
+### French translation
+
+<https://i.imgur.com/oNLFJOi.png>
+
+### Korean translation
+
+[https://i.imgur.com/EBK6Ury.png](https://imgur.com/EBK6Ury)
+
+### Russian translation
+
+<https://i.imgur.com/2ERCPDM.png>
 
 ### Other Resources
 
