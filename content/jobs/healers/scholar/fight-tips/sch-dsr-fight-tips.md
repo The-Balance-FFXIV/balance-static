@@ -14,9 +14,9 @@ This document contains suggestions on how to use your cooldowns effectively and 
 
 ## Gearing
 
-You can take a [2.5 mid-piety set](https://etro.gg/gearset/ec325832-c1d5-4120-839c-60f9576e23cc>), which comes with a lot of piety for progging. I would recommend to hold off on dropping any Piety until you’ve cleared, as phase 7 is the most mana-intensive part of this fight, while P1-P5 will have you often overcapping on mana thanks to all of the downtime. After clearing, you can change to one of the lower piety sets as long as you're doing the [6-1-1 strat in P7](https://etro.gg/gearset/a4876dd0-8535-403d-b2bd-293e3663c400).
+We have provided [multiple sets](https://xivgear.app/#/bis/sch/endwalker/dsr) based on your P7 Akh Morn strategy and heal plan.
 
-You can bring the 615 relic weapon. It gives an extra 9 Crit over the 605 raid weapon, though the 605 Ultimate weapon still beats both -- just add one Direct Hit X meld.
+The BiS weapon for this fight is the Endwalker SCH relic (645/665 are functionally the same). If you choose to do the 3-3-2 strat for P7 Akh Morn, you should allocate stats into Crit/Det > SPS. If you choose to do the 6-1-1 strat, stats should be allocated into Crit/SPS > Det.
 
 ## Phase By Phase Fight Tips
 
@@ -25,8 +25,8 @@ You can bring the 615 relic weapon. It gives an extra 9 Crit over the 605 raid w
 #### Thordan Opening
 
 * Healing isn’t too heavy here -- only the tank takes damage, but if they aren’t using invulnerability they can take a lot. 
-* Prepull Recitation lines up well for this fight, so feel free to excog your tanks.
-* It’s important to understand how your tanks will be handling busters in this phase. Tanks will require healing during Ascalon’s might if they’re using cooldowns instead of their invulns. Discuss with your tanks how they’re planning mitigation and invulns so you can be prepared with Excog and shields.
+* Prepull Recitation lines up well for this fight, so feel free to Excog your tanks.
+* It’s important to understand how your tanks will be handling busters in this phase. Tanks will require healing during Ascalon’s Might if they’re using cooldowns instead of their invulns. Discuss with your tanks how they’re planning mitigation and invulns so you can be prepared with Excog and shields.
 
 #### Strength Healing Advice
 
@@ -34,20 +34,20 @@ You can bring the 615 relic weapon. It gives an extra 9 Crit over the 605 raid w
 * Seraph has a good use here. I usually summon her after dodging so I can get my second Consolation before Ancient Quaga. (Note: Seraph can also be used in Sanctity to help survive 3/5 splits during prog. Both are good spots to use Seraph and it’ll be back up in time for Nidhogg)
 * Expedient is a good use here, letting everyone quickly get to their spot and mitigating the significant damage. I press it after my Succor so it’ll last as long as it can.
 * Tethers are proximity based. Crossing them will make tanks take less damage.
-* Ancient Quaga into busters. Reminder Soil applies instantly so a later Soil can help mitigate and give regen to Tanks taking the buster while also mitigating Quaga.
+* Use Soil for the Ancient Quaga into tankbusters. As a reminder, Soil applies instantly so a later Soil can help mitigate and give regen to Tanks taking the buster while also mitigating Quaga.
 * You can start Recitation at the start of Thordan’s Tank buster and start casting Adlo after the second/third swing. This ensures Recite Spreadlo is back up for Nidhogg transition if your group doesn’t want to hold for whatever reason.
 
 #### Sanctity
 
-* If your Thordan kill time is fast you may need to dissipation before Thordan casts Sanctity. You can cast Adlo after the third hit of the tank buster and it'll last through jumps. Doing this will make sure Recite is back up before Nidhogg transition.
-* With Recitation Spreadlo you only really need small mitigation and Succor to heal this however you can add an Indom if you want to be safer. (You can move Seraph to this during prog to help heal ⅗ jumps)
-* You can queue up a Swiftcast after taking the second damage just in case someone dies you can be ready to raise them instantly. If they don’t die you can just Succor in the middle.
-* If you’re in the 1 group start casting Succor when the cast bar for The Dragon’s Gaze is nearly complete.
-* If you’re in the 2 group start casting Succor when the cast bar for The Dragon’s Gaze is complete.
+* If your Thordan kill time is fast, you may need to Dissipation before Thordan casts Sanctity. You can cast Adlo after the third hit of the tank buster and it'll last through jumps. Doing this will make sure Recite is back up before Nidhogg transition.
+* With Recitation Spreadlo, you only really need small mitigation and Succor to heal this. However, you can add an Indom if you want to be safer. (You can move Seraph to this during prog to help heal ⅗ jumps)
+* You can queue up a Swiftcast after taking the second damage -- in case someone dies, you can be ready to raise them instantly. If they don’t die, you can just Succor in the middle.
+* If you’re in the 1 group, start casting Succor when the cast bar for The Dragon’s Gaze is nearly complete.
+* If you’re in the 2 group, start casting Succor when the cast bar for The Dragon’s Gaze is complete.
 
-#### Thordan post Sanctity
+#### Thordan Post-Sanctity
 
-* Shields and Soil are needed for this, with proper mitigation you will barely live but you don’t want to over-mitigate this.
+* Shields and Soil are needed for this. With proper mitigation, you will barely live, but you don’t want to over-mitigate this.
 
 ### Phase Three: Nidhogg
 
@@ -57,69 +57,75 @@ You can bring the 615 relic weapon. It gives an extra 9 Crit over the 605 raid w
 * Spreadlo & mitigation from your group and personal mitigation from Tanks and party members can make this liable skipping Soil entirely which helps for stacks
 * Most damage in this phase comes from stacks so they should be your main priority for mitigation and healing
 
-#### Niddhog stacks
+#### Nidhogg stacks
 
 * You can Soil every stack if you use your first Soil when numbers appear over your head and then on cooldown. (Note: Soil turns your character which can mess up tower facing when using it too close to the dive timing.)
-* I use Seraph for the first stack and Expedient for the second stack, contributing most of the mitigation and shields from me, making much smaller room for error. (If you used Seraph during Sanctity it may not be up, just switch the order and expedient the first stack and Seraph the second stack.)
+* I use Seraph for the first stack and Expedient for the second stack, contributing most of the mitigation and shields from me, making much smaller room for error. (If you used Seraph during Sanctity, it may not be up. Just switch the order and Expedient the first stack and Seraph the second stack.
 
 #### Nidhogg Tank healing advice
 
-* Tanks can either invuln the buster or mitigate it, tanks can make mistakes when first progging it and excog on a non invuln tank can help..  they’ll need help for the auto chain afterward, I suggest Protraction and Fey Union plus excog if needed but be aware you have a co-Healer who can deal with the autos extremely well.
+* Tanks can either invuln the buster or mitigate it. Excog on a non-invuln tank can help with burst healing after the tether tankbuster. For the auto chain afterward, I suggest Protraction and Fey Union plus Excog (if needed), but remember that you have a co-Healer who can deal with the autos extremely well.
 
 ### Phase Four: The Eyes of Nidhogg
 
 #### Eyes healing advice
 
-* Orbs do more than max hp so your group needs shields for it
-* Dives also do more than max hp raw so shields and Soil are also needed here.
+* Orbs do more than max HP, so your group needs shields for them.
+* Dives also do more than max HP raw, so shields and Soil are also needed here.
 
 ### Intermission
 
 #### How to heal Haurchefant advice
 
-* Any spells/ability that does not list party members in the description can target Haurchefant. 
+* Any spells/abilities that do not list party members in the description can target Haurchefant. 
 * Adloquium, Lustrate, and Physick can target him
-* I suggest always giving him an Adloquium that combined with regens gives him a lot of healing over the duration and WHM can instantly top him with bene or you can give another Adloquium before the end of Charibert’s cast to help an AST give Haurchefant enough hp to survive. 
+* I suggest always giving him an Adloquium. Combined with regens, this gives him a lot of healing over the duration. WHM can instantly top him with Bene or you can give another Adloquium before the end of Charibert’s cast to help an AST give Haurchefant enough HP to survive. 
 
 #### Targeting Haurchefant advice
 
-* You can create a macro that targets and focus targets Haurchefant when he appears, remember he can’t be targeted until he stops and takes his stance. 
+* You can create a macro that targets and focus targets Haurchefant when he appears. Remember: he can’t be targeted until he stops and takes his stance. 
 
   ![](/img/horseface.png "Target Haurchefant")
-* Controller players should turn on cycle through NPCs Objects to make targeting Haurcefant possible 
+* Controller players should turn on Cycle through NPCs Objects to make targeting Haurchefant possible 
 
-  ![](/img/controller.png "Target Haurcefant controller")
+  ![](/img/controller.png "Target Haurchefant controller")
+
+
 
 ### Phase Five: Dark King Thordan
 
 #### Tank healing advice
 
-* Busters are the same as Phase Two except they do more damage now, if you’re planning on doing 6-1-1 in p7 then chances are your Tanks are just going to invuln these busters. If you aren’t doing 6-1-1 maybe they won’t invuln these busters if so you must be proactive with healing give excog, protraction, and your co-healer should also be giving out mitigation and heal in-between hits.
+* Busters are the same as Phase Two except they do more damage now. If you’re planning on doing 6-1-1 in P7 then chances are that your Tanks are just going to invuln these busters. If you aren’t doing 6-1-1, tanks might not invuln these busters. If that's the case, you must be proactive with healing. Give Excog and Protraction, and your co-healer should also be giving out mitigation and heals in-between hits.
 
 #### Intermission heal timing advice
 
-* Recitation Spreadlo for the upcoming downtime mechanic
-* Seraph is also helpful in this mechanic one after the initial damage and a second one before Quaga
-* Pay attention to your fire baiter they can easily die from the fire baits
-* Intermission 2 heal timing advice
-* Your party should have full health and shields before the knockback
-* Soil can be used here it gives a lingering mitigation buff that is long enough for the knockback and explosion (Note Soil turns your character and you can end up looking at Thordan or an eye, make sure to turn your character after placing Soil)
+* Recitation Spreadlo for the upcoming downtime mechanic.
+* Seraph is also helpful in this mechanic: one Consolation after the initial damage and a second one before Quaga.
+* Pay attention to your fire baiter as they can easily die from the fire baits.
+
+#### Intermission 2 heal timing advice
+
+* Your party should have full health and shields before the knockback.
+* Soil can be used here as it gives a lingering mitigation buff that is long enough for the knockback and explosion. (Note: Soil turns your character and you can end up looking at Thordan or an eye, so make sure to turn your character after placing Soil)
 
 ### Phase Six: The Great Wyrms
 
 #### Wyrm’s breath 1 healing advice
 
-* Seraph is great here it’ll also come back up for Cauterize
-* Tank healing advice
-* Tanks take a lot of damage here with autos into pretty big busters, keep an eye on them. 
-* Healers need to give personal mitigation to Tanks to help them with busters my priority for giving the strongest mitigation is GNB = WAR > PLD > DRK. Dark shouldn’t need help unless they’ve made a mistake and asked for help. Don’t be afraid to Adloquium a Tank the DPS check should be easy if no one is dying.
-* Personal mitigation and healing include protraction, Fey Union, Excog, and Adloquium
+* Seraph is great here as it’ll also come back up for Cauterize
+
+#### Tank healing advice
+
+* Tanks take a lot of damage here with autos into pretty big busters, so keep an eye on them. 
+* Healers need to give personal mitigation to Tanks to help them with busters. my priority for giving the strongest mitigation is GNB = WAR > PLD > DRK. DRK shouldn’t need help unless they’ve made a mistake and asked for help. Don’t be afraid to Adloquium a Tank -- the DPS check should be easy if no one is dying.
+* Personal mitigation and healing that can be used effectively on tanks include Protraction, Fey Union, Excog, and Adloquium.
 
 #### Wroth healing advice
 
-* Place your Soil as soon as you find the starting spot for Wroth so it’ll be back up for Akh Afah
-* Place your Soil so your allies are in the tip of it at the start and can run through it giving you as long of mitigation as possible. Reminder Soil gives a mitigation buff so even when out of it they’ll still have it for 5s after the last Soil tick.
-* Spreadlo is important for the first hit making healing this a breeze keep a Swiftcast so you can swift succor as well
+* Place your Soil as soon as you find the starting spot for Wroth so that it’ll be back up for Akh Afah.
+* Place your Soil so that your allies are in the tip of it at the start and can run through it giving you as long of mitigation as possible. Reminder: Soil gives a mitigation buff so even when out of it they’ll still have it for 5s after the last Soil tick.
+* Spreadlo is important for the first hit making healing this a breeze. Keep a Swiftcast so you can swift Succor as well.
 
 #### Post Wroth TB advice
 
@@ -128,35 +134,34 @@ You can bring the 615 relic weapon. It gives an extra 9 Crit over the 605 raid w
 #### Cauterize advice
 
 * Seraph is great to use on cooldown for WB2 and it comes back up before Cauterize
-* Tanks take a strong dot after Cauterize, make sure to pay attention and properly heal/regen them
-* Place soil in front of the dragon making sure both Tanks are in it to help them take the wild charge damage. Soil is pretty helpful since this does a lot of damage and there is another aoe coming up afterward.
-* Soil in front of the dragons so it also catches both Tanks as well.
+* Tanks take a strong DOT after Cauterize. Make sure to pay attention and properly heal/regen them
+* Place Soil in front of the dragon and make sure both Tanks are in it to help them take the wild charge damage. Soil is pretty helpful since this does a lot of damage and there is another aoe coming up afterward.
 
 ### Phase Seven: Dragon-King Thordan
 
-DO NOT USE SWIFTCAST UNLESS IT’S A LAST RESORT, LET WHM/AST OR CASTERS DO IT BEFORE YOU.
+DO NOT USE SWIFTCAST UNLESS IT’S A LAST RESORT. LET WHM/AST OR CASTERS DO IT BEFORE YOU.
 
 #### Thordan transition advice
 
-* Alt End is a strong raid buster, however with Recitation Spreadlo you can shave some mitigation and use it for Dragon-King Thordan. With personal mitigations, four 10% mitigation, and additional mitigation from your regen healer and Tanks spreading out on as many people as possible Alt End should be no problem.
-* As a follow up some personal DPS are harder to time, for these short-duration mitigations like Third eye or Arcane Crest you want to use it when Thordan extends his swords. 
+* Alt End is a strong raid buster, however with Recitation Spreadlo you can shave some mitigation and use it for Dragon-King Thordan. With personal mitigations, four 10% mitigation, and additional mitigation from your regen healer and Tanks spreading out on as many people as possible, Alt End should be no problem.
+* As a follow-up, some personal DPS mitigations are harder to time. For these short-duration mitigations like Third Eye or Arcane Crest, you want to use it when Thordan extends his swords. 
 
   {{< youtube https://youtu.be/5MyYFyLZGzs >}}
 
 #### Akh Morn advice
 
-* For 3-2-2 Timing Succor to go off right after the first hit is important to keep up pace with the damage of this mechanic. 
-* For 6-1-1 timing is less important as everyone takes very low damage, make sure to keep an eye on your non-invulning Tanks, however.
+* For 3-2-2: Timing Succor to go off right after the first hit is important to keep up pace with the damage of this mechanic. 
+* For 6-1-1: Timing is less important as everyone takes very low damage. Make sure to keep an eye on your non-invulning Tanks, however.
 
 #### Gigaflare advice
 
 * You can Soil in the middle of the boss. 
-* Time for your succor to go off right after the first Gigaflare hit.
-* Swiftcast succor after the second hit, do not waste Swiftcast in this fight to raise unless you’re the last option
+* Time your Succor to go off right after the first Gigaflare hit.
+* Swiftcast Succor after the second hit. Do not waste Swiftcast in this fight to raise unless you’re the last option
 
 #### Soil advice
 
-* First Soil can be placed after the second Trinity auto, this makes sure it’ll be up for Gigaflare also, by doing this you can Soil all Akh Morns and Gigaflares
+* First Soil can be placed after the second Trinity auto. This ensures that it’ll be up for Gigaflare. By doing this, you can Soil all Akh Morns and Gigaflares.
 
 # Heal Partners
 
@@ -168,7 +173,7 @@ Astrologian: On paper, Astrologian is probably the most powerful general co-heal
 
 #### Pros:
 
-* Neutral Sect is the strongest healing cooldown in the game, and when combined with SCH’s kit, serves to outright invalidate certain mechanics, along with a steroid on the heal over time + shield that can stack with your own 
+* Neutral Sect is the strongest healing cooldown in the game, and, when combined with SCH’s kit, serves to outright invalidate certain mechanics, along with a steroid on the heal over time + shield that can stack with your own 
 * Collective Unconscious provides an extra 10%, 60s cd form of mitigation, as well as regen 
 * P5 Meteors quickly become a joke with Macrocosmos + Earthly Star + Lord of Crowns
 
