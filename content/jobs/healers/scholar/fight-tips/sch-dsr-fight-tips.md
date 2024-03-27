@@ -85,12 +85,10 @@ The BiS weapon for this fight is the Endwalker SCH relic (645/665 are functional
 
 * You can create a macro that targets and focus targets Haurchefant when he appears. Remember: he can’t be targeted until he stops and takes his stance. 
 
-  ![](/img/horseface.png "Target Haurchefant")
+  ![](/img/target-horseface.jpeg "Target Haurchefant")
 * Controller players should turn on Cycle through NPCs Objects to make targeting Haurchefant possible 
 
-  ![](/img/controller.png "Target Haurchefant controller")
-
-
+  ![](/img/cycle-npc.png "Target Haurchefant controller")
 
 ### Phase Five: Dark King Thordan
 
