@@ -133,7 +133,7 @@ There are very few changes to how Sage handles healing Ifrit and Titan whether y
 
 ### Enrage
 
-If you’ve survived the third Primal during this Primal Roulette phase, there is no more damage to consider during the fight! You will likely enter the Enrage sequence – during this time, Ultima traps players and depletes their health in order of lowest DPS to highest DPS. As Sage is a relatively high-damage healer, it is possible to take any spot from first gaol to fourth gaol. However the run has gone to this point, ensure that you use the appropriate Tincture of Mind and use both Phlegma charges before the boss traps you in a gaol.
+If you’ve survived the third Primal during this Primal Roulette phase, there is no more damage to consider during the fight! You will likely enter the Enrage sequence – during this time, Ultima traps players and depletes their health in order of lowest DPS to highest DPS. As Sage is a relatively high-damage healer, it is possible to take any spot from first gaol to fourth gaol. However the run has gone to this point, ensure that you use the appropriate Tincture of Mind and use both Phlegma charges before the boss traps you in a gaol. Your final cast before getting gaoled will likely be a refresh of your DoT, Eukrasian Dosis.
 
 Good luck! Happy raiding, and enjoy ultimate prog!
 
