@@ -89,39 +89,39 @@ There are very few changes to how Sage handles healing Ifrit and Titan whether y
 * When Ultima Weapon is about to cast Ultima, use E. Prog and Kerachole. This will help minimize damage and will allow natural regen to tick an appropriate amount to heal your party after the serious damage. You will need tank LB3 to survive this.
 * Following the Ultima cast you have a few options. You can either heal to full using your abilities such as Ixochole or a hardcast Prognosis, or you can allow regen ticks to go off and heal the party. Either way, ensure Kerachole and Zoe + E. Prog are both on the party before Ultima casts Tank Purge. If you cast them when the screen’s color changes to indicate that the arena is changing, both will cover the upcoming Tank Purge damage.
 
-## Ultima Weapon - Predation
+## Ultima Weapon - Active Phase 1
 
 **Note:** Throughout Ultima, it is far more important that your party survives raidwides and tankbusters than you casting a Dosis. If you feel that you are unsure on mitigation (party finder, new to the phase, etc.), you should err on the side of caution and cast Eukrasian Diagnosis and Eukrasian Prognosis liberally. Don’t lose a potential clear to not having shields.
 
 * Give the party a prepull Kerachole and Zoe + E. Prog to ensure security and safety after the Tank Purge cast.
 * You should cast Haima on your main tank immediately after Tank Purge to assist them with the autos and stack tankbuster, Viscous Aetheroplasm. Give your other tank Taurochole to assist with the Homing Laser tankbuster. If you are unsure of your party’s mitigations, you should use E. Diag on your tank that is taking the Homing Laser tankbuster.
 
-### Predation
+### Ultimate Predation
 
 * When Ultima goes non-targetable after casting Ultimate Predation, you should use Ixochole and E. Prog to heal to full.
 * Once your party has dodged to the wall and before Ifrit dashes, you should refresh E. Prog to maximize your group’s shield. You should also use Kerachole. This will help ensure safety if anything goes wrong.
 * Before Ultima becomes targetable again, ensure that the tank taking autos has a shield from E. Diag. 
 
-## Ultima Weapon - Annihilation
+## Ultima Weapon - Active Phase 2
 
 * Your main tank should start this active phase with a shield from E. Diag. You can also use Taurochole to heal the MT and assist them with their own mitigation throughout the active phase as they will be taking autos throughout while also taking raidwide damage and tankbusters at the end. However, Titan’s two tankbusters will likely be invulned, so feel free to use single-target cooldowns (other than Haima) liberally.
 * Roughly 30 seconds after the active phase begins, there will be several instances of raidwide damage occurring back-to-back. This includes a series of 7 Tumults and one Mistral Shriek. When your party splits following the Landslide dodge, use Kerachole to mitigate all of these hits. After the first Tumult, use Physis to assist with healing and regen. It is recommended to use Ixochole at some point during the raidwide sequence. As there are several instances of damage at this time, you will likely want to cast E. Prog before the Mistral Shriek damage and potentially once or twice throughout the Tumult damage. 
 
-### Annihilation
+### Ultimate Annihilation
 
 * When Ultima disappears briefly after casting Ultimate Annihilation, use E. Prog to assist with upcoming damage from the Fireball stack. You can use Kerachole during the second Titan puddle in order to catch the Fireball damage and help your tanks with orb bursts.
 * Following the third puddle, give Haima to the Searing Wind healer. Additionally, use Zoe + E. Prog to mitigate upcoming light Super Cyclone and heavy Tank Purge raidwide damage. If you are the Searing Wind healer, there is very little you can do at this point other than ensure that your party has a shield before you run out. If you are not the Searing Wind healer, ensure that your party is completely healthy through a mix of Ixochole, E. Prog, and Prognosis. As most of this mechanic is reliant on heals from one healer, do not greed damage casts in exchange for healing. Do not let people die in exchange for a Dosis.
 
-## Ultima Weapon - Suppression
+## Ultima Weapon - Active Phase 3
 
 * Between Ultimate Annihilation and Ultimate Suppression, Ultima will have a brief active phase. During this time, tanks will have to handle tankbusters. If you see past the tankbusters, the entire party will need shields from Eukrasian Prognosis to survive the knockback. Critically, you should not move into the party until the Searing Wind debuff from Ultimate Annihilation resolves. 
 
-### Suppression
+### Ultimate Suppression
 
 * Ultimate Suppression damage can be split into four major instances: the Mistral Song cleaves, Fireball stack, Super Cyclone tether resolution, and Tank Purge raidwide. It is possible to have Kerachole cover each of these hits; if you use Kerachole one GCD, or roughly 2-3 seconds after the Ultimate Suppression cast finishes, it will be available again just before damage from the Fireball stack applies. The first Kerachole will cover damage from the Mistral Song cleaves, and the second Kerachole will cover damage from the Fireball, Super Cyclone, and Tank Purge. Between each damage instance, ensure that the party has Eukrasian Prognosis and look to see if anyone needs to be topped off. If you are looking to farm Toxikon stacks, these will come naturally through casting Eukrasian Prognosis on each hit of this mechanic. 
 * There is plenty of time to heal between Mistral Song and the next damage instance, Fireball. However, your primary focus when cleaves go off should be freeing the player who gets stuck in the Titan gaol. If you use Physis about 3 GCDs into the gaol spawn, it will help heal during the consecutive hits (Fireball, Super Cyclone, and Tank Purge). You should also have Ixochole available, but you might want to hold it for the upcoming mechanic. For reference, an unmitigated Tank Purge should be expected to do roughly 15000 raidwide damage.
 
-## Ultima Weapon - Aetheric Boom
+## Ultima Weapon - Active Phase 4
 
 * Immediately top everyone off following Ultima’s Tank Purge cast. Ensure everyone has shields, but do not spend a resource such as Kerachole for the Ultima raidwide. This will primarily be covered by Tank LB3.
 * After Ultima is finished, cast Zoe + Eukrasian Prognosis and Kerachole at your first available opportunity. Now is also a good time to use single target shields (Eukrasian Diagnosis) on both of your tanks. Continue pressing Eukrasian Prognosis through each hit of this mechanic. Following the explosion of the first sets of orbs, use Ixochole to heal before taking the second set of orbs. You might also consider something like a Swiftcast + Prognosis in addition to Eukrasian Prognosis between hits. The orbs are an instance of two extremely high damage hits in a row, so feel free to spend as much resource in your kit as you can. Though this is an uptime mechanic, do not die to greeding a damage cast.
@@ -136,7 +136,5 @@ There are very few changes to how Sage handles healing Ifrit and Titan whether y
 If you’ve survived the third Primal during this Primal Roulette phase, there is no more damage to consider during the fight! You will likely enter the Enrage sequence – during this time, Ultima traps players and depletes their health in order of lowest DPS to highest DPS. As Sage is a relatively high-damage healer, it is possible to take any spot from first gaol to fourth gaol. However the run has gone to this point, ensure that you use the appropriate Tincture of Mind and use both Phlegma charges before the boss traps you in a gaol.
 
 Good luck! Happy raiding, and enjoy ultimate prog!
-
-
 
 Questions can be directed to .symph. on Discord.
