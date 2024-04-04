@@ -84,7 +84,7 @@ In total, there are 39 GCDs outside of Enshroud, which will take 97.5 seconds, a
 
 Obviously, there is a major issue with Reaper taking 123 seconds to be net neutral, which is the fact that raid buffs happen every 120s.  So, what is the solution? How do we mold our rotation to fit into a 120s rotation? The answer is that we cut a combo ability from the two minute timeline, which aligns us better with raid buffs at 120.5 seconds. Unfortunately, this cuts out 10 important Soul from our rotation, which is crucial to perform our ideal rotation. When we start the fight, we have an additional Soul Slice charged, which will replace a single combo GCD, netting us a total of 40 Soul (+50 for the Soul Slice, -10 for the replaced combo). 
 
-In short, we start the fight with 40 additional Soul, and in order to align with raid buffs, we lose 10 Soul every two minutes. This means we will start drifting from raid buff windows at the ten minute window because we will have to start doing a 123 second rotation. In a vacuum, this isn’t a big deal. However, when dealing with fight mechanics, each disconnect will cost us 10 Soul, which will lower that timer by two minutes.
+In short, we start the fight with 40 additional Soul, and in order to align with raid buffs, we lose 10 Soul every two minutes but reset this counter at the 2 minute window with our one GCD delay. This means, if we use Harvest Moon prior, we will be forced to drift our burst at the 12 minute window or 14 minutes if we hold onto Harvest Moon until then. For each GCD loss or Harpe we use this timeframe goes down by 2 minutes.
 
 - - -
 
