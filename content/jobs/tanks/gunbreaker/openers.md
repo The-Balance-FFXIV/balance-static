@@ -3,8 +3,8 @@ title: Gunbreaker Openers
 authors:
   - Balance-GNB-Staff
   - azazael
-patch: "6.4"
-lastmod: 2023-05-25T02:21:00.434Z
+patch: "6.5"
+lastmod: 2024-04-12T20:04:19.222Z
 changelog:
   - date: 2021-10-25T21:38:35.164Z
     message: Created article
@@ -15,7 +15,7 @@ changelog:
   - date: 2023-05-25T02:16:24.450Z
     message: Updated for 6.4.
 ---
-# Opener
+# Openers
 
 Your opener is flexible and **No Mercy** can be used earlier than what is listed in either of these openers if necessary to allow for additional uses to be used before phases or mechanics.
 
@@ -23,14 +23,10 @@ The **Lightning Shot** is not required in these, but is **heavily suggested** fo
 
 ### Standard Opener (**≤** 2.47 GCD)
 
-![1-2-3 NM / Standard Opener](/img/jobs/gnb/9gcdopener.png "Standard Opener")
-
-[Full Size](https://cdn.discordapp.com/attachments/1034203718045945967/1105285219998761021/9GCDOPENER.png)
+![Standard Opener](/img/jobs/gnb/9gcdopener.png "Standard Opener")
 
 ### 2.50 Opener
 
-This opener may also be used by other speeds, but is specifically suggested for 2.50.
+This opener may also be used by other speeds, but is specifically suggested for 2.50 for the sake of long-term buff alignment.
 
-![Keen Mercy Opener](/img/jobs/gnb/250opener.png "Keen Mercy Opener")
-
-[Full Size](https://cdn.discordapp.com/attachments/1034203718045945967/1105285248595546194/250OPENER.png)
+![2.50 Opener](/img/jobs/gnb/250opener.png "2.50 Opener")
