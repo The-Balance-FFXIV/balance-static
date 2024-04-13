@@ -2,8 +2,8 @@
 title: Dragoon Openers
 authors:
   - Balance-DRG-Staff
-patch: "6.4"
-lastmod: 2023-05-29T13:59:39.346Z
+patch: "6.55"
+lastmod: 2024-04-13T20:37:12.406Z
 changelog:
   - date: 2021-10-29T02:55:52.808Z
     message: Created page
@@ -13,6 +13,8 @@ changelog:
     message: Minor editorial changes
   - date: 2023-05-25T17:38:58.123Z
     message: Added a section about 2.46 opener and rotation
+  - date: 2024-04-13T20:37:15.315Z
+    message: Fixed 2.46 image link
 ---
 # Dragoon Opener and Rotation
 
@@ -33,7 +35,7 @@ This video shows a full six minute rotation at a 2.50 GCD, using the opener abov
 {{< youtube UOeJywv1ILA >}}
 
 ## 2.46 GCD Opener and Rotation
-![2.46 Opener](https://cdn.discordapp.com/attachments/277967841729445888/1111730663440253119/DRG_6.4_2.46_Opener.png)
+![2.46 Opener](https://i.imgur.com/91zUUtA.png)
 
 #### Why 2.46?
 Due to our preferred GCD of 2.50 having to avoid any gear and food with Skill Speed, there will often be sets that can use these Skill Speed pieces to hit slightly better stat tiers or have more crit than 2.50, this combined with 2.46 giving us the best result for a low amount of Skill Speed with easy to hit 9GCD buffs and minimal oGCD drift causes it to often be on par, or better in performance at perfect play than 2.50.
