@@ -2,7 +2,7 @@
 title: Dragoon Best in Slot (BiS)
 layout: bis
 patch: "6.55"
-lastmod: 2024-01-23T07:01:06.129Z
+lastmod: 2024-04-13T20:34:06.560Z
 changelog:
   - date: 2021-10-29T03:01:01.840Z
     message: Created page
@@ -19,6 +19,8 @@ changelog:
     message: Added new TOP sets, removed pentamelded crafted sets
   - date: 2024-01-23T07:01:12.275Z
     message: etro sets changed to 6.55 BiS
+  - date: 2024-04-13T20:34:08.221Z
+    message: Cleared up RPR compatibility on 2.50
 bis:
   - type: etro
     description: >-
@@ -26,7 +28,9 @@ bis:
       more comfortable and will thus likely yield better results in practice. 
 
 
-      Compatibility to Reaper sets is very limited.
+      Compatibility with Reaper:
+
+      When using the [DRG Compatible BiS](https://www.thebalanceffxiv.com/jobs/melee/reaper/best-in-slot/#1), RPR can eat Baba Ghanoush for a ~20 dps loss without remelding, or can change 1 Direct Hit -> Skill Speed and back for no loss when swapping between DRG and RPR to keep 2.49 GCD.
     link: 8a907f52-75a4-4085-9deb-6a63ffa2abd8
     name: 2.50 GCD
   - type: etro
