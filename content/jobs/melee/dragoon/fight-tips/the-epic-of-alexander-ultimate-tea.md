@@ -3,11 +3,13 @@ title: The Epic of Alexander (Ultimate) - TEA
 card_header_image: /img/drg_fight_tips.jpeg
 authors:
   - Balance-DRG-Staff
-patch: "6.31"
-lastmod: 2023-02-09T08:39:30.136Z
+patch: "6.55"
+lastmod: 2024-04-13T20:39:20.116Z
 changelog:
   - date: 2023-02-13T16:28:04.622Z
     message: Page Expanded.
+  - date: 2024-04-13T20:39:25.439Z
+    message: Fixed image links.
 ---
 The Epic of Alexander (Ultimate) is the Ultimate released in Final Fantasy XIV: Shadowbringers. This encounter is split into 4 Phases: Living Liquid, Brute Justice & Cruise Chaser, Alexander Prime and Perfect Alexander. This guide will go over the Operners, rotations and provide tips for different push-timings and general oGCD usage. This guide assumes that you have a basic understanding of the class and its fundamentals. 
 
@@ -18,7 +20,7 @@ The Epic of Alexander (Ultimate) is the Ultimate released in Final Fantasy XIV: 
 ## Phase One: Living Liquid:
 
 Opener:
-![](https://media.discordapp.net/attachments/950101769797636116/1072878368657248306/DRG_6.3_TEA_Opener.png?width=959&height=235)
+![](https://i.imgur.com/qGPeS4X.png)
 
 Enter your life window early when the Jagd Doll spawns by doing Wheeling Thrust > High Jump > Fang and Claw > Mirage Dive > Geirskogul and hold your Stardiver for your Lance Charge buff. 
 
@@ -32,7 +34,7 @@ Cleave both bosses with every Geirskogul, Nastrond, Stardiver and Dragonfire Div
 
 Depending on killtime you may consider using High Jump immediately after True Thrust to prevent a lost usage, in this case your opener would look as follows:
 
-![](https://cdn.discordapp.com/attachments/950101769797636116/1072878431462772786/DRG_6.3_TEA_BJCC.png)
+![](https://i.imgur.com/kGzBQAg.png)
 
 ## Phase Three: Alexander Prime
 
