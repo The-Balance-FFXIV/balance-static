@@ -1,8 +1,6 @@
 ---
 title: The Omega Protocol (Ultimate) Guide
 authors:
-  - argen
-  - lana
   - Balance-RDM-Staff
 patch: "6.4"
 lastmod: 2023-06-19T04:00:20.589Z
@@ -23,73 +21,59 @@ There are six phases in this raid. Generally, every phase has a DPS check that r
 * Run: Dynamis: P5
 * Alpha Omega: P6
 
-**Addle and Magick Barrier Usage**
+### **Addle and Magick Barrier Usage**
 
 Please be sure to read [Meru's Addle and Magick Barrier Guide](https://bit.ly/3AHEMxZ) for tips and disclaimers on your various mitigation options.
 
-**Manafication Timings**
+### **Manafication Timings**
 
 The default approach in this raid is to use Manafication strictly on cooldown, which means pressing it even during downtime. This results in an extra use of Manafication in the fight, which typically results in an additional melee combo around the start of P4 (allowing three sets of combo finishers in the phase instead of two) and an extra usage in the final damage window of P5. Manafication will realign with buff windows in P6 following this timeline.
 
-**Buff and Potion Timings**
+### **Buff and Potion Timings**
 
 In general, buff timings are standardized in P1 (on cooldown), P5 (after Delta, and then on cooldown) and P6 (on cooldown). Note that unlike many previous Ultimates, Phase 1 in this raid has a reasonably tight DPS check, so using a potion in the opener is generally a requirement. Otherwise, there are multiple ways to approach buff timings in P2, P3 and P4, which will be briefly outlined below with the pros and cons listed.
 
-\### A. Recommended: 1 use in P2, 1 use in P3 with melee LB3, 1 use in P4
+**A. Recommended: 1 use in P2, 1 use in P3 with melee LB3, 1 use in P4**
 
 This is considered optimal because all raid buff windows occur while no difficult mechanics are going on, and because 2-minute raid buffs will re-align with people who de-sync their 1-minute damage cooldowns at the end of P2.
 
-P1: Opening \[Potion]
-
-P2: Opening
-
-P3: Opening  \[Potion*] (melee LB3 used during this phase) \
-P4: Between second and third sets of lasers
-
-P5: After Run: Delta \[Potion], and during Run: Omega.
-
-P6\*\*: Opening, after second Cosmo Arrow, and after Magic Number
+* P1: Opening \[Potion]
+* P2: Opening
+* P3: Opening  \[Potion*] (melee LB3 used during this phase) 
+* P4: Between second and third sets of lasers
+* P5: After Run: Delta \[Potion], and during Run: Omega.
+* P6\*\*: Opening, after second Cosmo Arrow, and after Magic Number
 
 \*If you only enter P3 with enough mana for a single melee combo, you can potion a double combo after the first set of towers instead as Manafication comes back up.
 
-\
 \*\*Your potion in P6 can be used in any buff window, with the first and final being preferred as there are little mechanics happening and it is easier to have the mana for a triple combo potion in these windows. 
 
-\### B. Monitors: 1 use in P2, 2 uses in P3, and 0 uses in P4 with melee LB3
+**B. Monitors: 1 use in P2, 2 uses in P3, and 0 uses in P4 with melee LB3**
 
 Similar to above, but melee LB3 is held for P4, and a second use of raid buffs is used at the end of P3 instead during monitors. The downside of this is that bursting during monitors can be suboptimal due to mechanics generally requiring some players to drop GCDs. This can sometimes be preferred if using LB1 at the start of P2, due to LB generation being tighter in P3 in that scenario.
 
-P1: Opening
-
-P2: Opening
-
-P3: Opening \[Potion*], monitors \
-P4: None (melee LB3 used in this phase)
-
-P5: After Run: Delta \[Potion], and during Run: Omega.
-
-P6\*\*: Opening, after second Cosmo Arrow, and after Magic Number
+* P1: Opening
+* P2: Opening
+* P3: Opening \[Potion*], monitors 
+* P4: None (melee LB3 used in this phase)
+* P5: After Run: Delta \[Potion], and during Run: Omega.
+* P6\*\*: Opening, after second Cosmo Arrow, and after Magic Number
 
 \*If you only enter P3 with enough mana for a single melee combo, you can potion a double combo after the first set of towers instead as Manafication comes back up.\
 \
 \*\*Your potion in P6 can be used in any buff window, with the first and final being preferred as there are little mechanics happening and it is easier to have the mana for a triple combo potion in these windows. 
 
-\### C. On cooldown: 2 uses in P2, 1 use in P3 with melee LB3, and 1 use in P4
+**C. On cooldown: 2 uses in P2, 1 use in P3 with melee LB3, and 1 use in P4**
 
 This assumes there are two uses of 2-minute raid buffs in P2 (used on cooldown). The third use occurs in the middle of the Hello World mechanic in P3, and the fourth use occurs mid-way through P4. The benefit of here is that there is an extra use of 2-minute raid buffs in P2, but the P3 burst window during Hello World is more difficult to execute. This is the only setup where it can be better to align Manafication with Embolden, due to the faster expected P2 killtime and the additional use of raid buffs across P2-P4.
 
-P1: Opening \[Potion]
-
-P2: Opening, during burn phase at the end after meteors
-
-P3: Mid-way through Hello World \[Potion] (between second and third set of towers) \
-P4: Between second and third sets of lasers
-
-P5: After Run: Delta \[Potion], and during Run: Omega.
-
-P6\*\*: Opening, after second Cosmo Arrow, and after Magic Number
-
-\*\*Your potion in P6 can be used in any buff window, with the final being preferred when going for a first clear as there are little mechanics happening and it is easier to have the mana for a triple combo potion in these windows. 
+* P1: Opening \[Potion]
+* P2: Opening, during burn phase at the end after meteors
+* P3: Mid-way through Hello World \[Potion] (between second and third set of towers) 
+* P4: Between second and third sets of lasers
+* P5: After Run: Delta \[Potion], and during Run: Omega.
+* P6\*\*: Opening, after second Cosmo Arrow, and after Magic Number
+* \*\*Your potion in P6 can be used in any buff window, with the final being preferred when going for a first clear as there are little mechanics happening and it is easier to have the mana for a triple combo potion in these windows. 
 
 **Holding DPS**
 
@@ -223,9 +207,9 @@ If you’re 100|100 or very close from the downtime Manafication, your re-opener
 
 ![](/img/topimage5.png)
 
-\### Tips and notes:
+**Tips and notes:**
 
-* It is safe to be in max melee range immediately after the Near/Far World’s resolve, including if you are the last green/red tether and your partner is also max melee. See a clip of this here: <https://youtu.be/hkH2AczmxuA?t=616> 
+* It is safe to be in max melee range immediately after the Near/Far World’s resolve, including if you are the last green/red tether and your partner is also max melee.
 * The boss is targetable here for under 35 seconds, so you can hold Contre Sixte, and two charges each of Corps-a-corps and Engagement for party member buffs.
 * The last GCD has a high chance of ghosting, even with full uptime or if you started the phase with a Verthunder/aero III cast. Use it anyway for the mana.
 * Holding Fleche for buffs is possible too, but can become tighter and you may not get two in potion, so it’s not always worth it.
@@ -236,7 +220,7 @@ If opting for “option B” of the P2-P4 buff timings (using a second 2-minute 
 
 This trio marks the first part of this phase where we have to do our rotation while also doing mechanics. That said, the movements aren’t too large, so complicated movement planning is unnecessary. The standard play is to start this phase with a single melee combo after Run: Sigma. You would have used Manafication during downtime in Run: Sigma around the time you get knocked back into towers. You would then hold your second combo for raid buffs, which doubles as a movement tool for dodging from the first safe spot from Omega’s clones into the second.
 
-\### Optimizing oGCD use:
+**Optimizing oGCD use in Run: Omega**
 
 * You can only get two uses of Contre Sixte here, so put the second one under buffs.
 * You can only get three uses of Corps-a-corps/Engagement here, so spend only one charge each at the start, and then you can save your second charge of each for raid buffs. The third charge for both abilities will come up during the buff window, but be careful not to use the second Corps-a-corps at the wrong time here and gap close into one of the clone kicks or slashes.
@@ -244,7 +228,7 @@ This trio marks the first part of this phase where we have to do our rotation wh
 
 Manafication comes back up near the end of Run: Omega. Spend one more combo here, as you will be close to 90|90 or higher, then cast spells for the remainder of the “burn phase”. By the end, you should have around 80|80 mana. The boss only needs to be below 20% HP, so you can start casting AOE spells to build more mana if needed.
 
-Alternately, you can choose to overcap to 100|100 and skip one full combo at the end, but this 20|20 difference doesn’t necessarily gain you an additional melee combo in P6. At 80|80, ten combos are already possible in P6, but the last one is very tight and for slow kill times when barely beating enrage (making nine combos the norm for P6). Entering the phase at 100|100 only makes the last combo easier to get with a little bit more room for error for slow kill times.
+Alternately, you can choose to overcap to 100|100 and skip one full combo at the end, but at 80|80, ten combos are already possible in P6, but the last one is very tight and for slow kill times when barely beating enrage (making nine combos the norm for P6). Entering the phase at 100|100 makes the last combo easier to get if you are overperforming the DPS check for P5.
 
 # **Phase 6: Alpha Omega**
 
@@ -268,9 +252,9 @@ Most commonly, your goal here is to begin by immediately spending a charge of Co
 **Cosmo Arrow** \
 Most of your instants during this phase will likely be used for Cosmo Arrow dodges. For the initial pulses of Cosmo Arrow it’s safe to cast during “two pulse” arrows, then rely on Acceleration/Swiftcast for “one pulse” arrows. Do not attempt to greed this mechanic, as it will easily end a pull.
 
-Out patterns: <https://youtu.be/hkH2AczmxuA?t=910> & <https://youtu.be/hkH2AczmxuA?t=986> 
+Out pattern with combo: [](https://youtu.be/hkH2AczmxuA?t=910)<https://youtu.be/CVEho7efY1I?t=924> 
 
-In pattern: <https://youtu.be/CVEho7efY1I?t=1002>  \
+In pattern with casting: <https://youtu.be/CVEho7efY1I?t=1002>  \
  \
 **Unlimited Wave Cannon (Exaflares)** Both sets of Exaflares allow you to stay within max melee, allowing you to primarily rely on melee combos for movement. Before each set of Exaflares you should cast as long as you can in the center of the arena until the initial AOE appears beneath you, at which point you can begin your combo.  \
  \
@@ -302,7 +286,6 @@ Congratulations!
 
  \
 **Fight POVs** \
-Lana White: <https://youtu.be/hkH2AczmxuA> \
 Mazz Maryoku: [https://youtu.be/CVEho7efY1I ](https://youtu.be/CVEho7efY1I)
 
 –
