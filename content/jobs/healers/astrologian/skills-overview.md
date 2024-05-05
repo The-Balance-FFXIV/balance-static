@@ -45,7 +45,7 @@ changelog:
 **Combust III**
 
 * Single target DoT (10 ticks of 55 potency), instant cast. Total potency: 550. 
-* In dungeons, apply Gravity while running and use Gravity when the tank stops. 
+* In dungeons, apply Combust while running and use Gravity when the tank stops. 
 * If Optimizing: 
 
   * Refreshing Combust early can be a gain if you know your kill/phase time and you know you will lose ticks anyway.
