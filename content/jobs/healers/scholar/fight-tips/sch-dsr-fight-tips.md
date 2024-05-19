@@ -147,7 +147,7 @@ DO NOT USE SWIFTCAST UNLESS IT’S A LAST RESORT. LET WHM/AST OR CASTERS DO IT B
 * Alt End is a strong raid buster, however with Recitation Spreadlo you can shave some mitigation and use it for Dragon-King Thordan. With personal mitigations, four 10% mitigation, and additional mitigation from your regen healer and Tanks spreading out on as many people as possible, Alt End should be no problem.
 * As a follow-up, some personal DPS mitigations are harder to time. For these short-duration mitigations like Third Eye or Arcane Crest, you want to use it when Thordan extends his swords. 
 
-  {{< youtube https://youtu.be/5MyYFyLZGzs >}}
+  {{< youtube 5MyYFyLZGzs >}}
 
 #### Akh Morn advice
 
