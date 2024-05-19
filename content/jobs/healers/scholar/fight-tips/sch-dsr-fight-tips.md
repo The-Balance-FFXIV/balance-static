@@ -3,8 +3,11 @@ title: SCH DSR Fight Tips
 card_header_image: /img/2022-05-31_23-37-13-999_okamipassion.jpg
 authors:
   - shy
-patch: "6.38"
-lastmod: 2023-04-25T16:26:51.507Z
+patch: "6.58"
+lastmod: 2024-05-19T03:14:37.776Z
+changelog:
+  - date: 2024-05-19T03:14:39.966Z
+    message: Article added
 ---
 # Introduction
 
