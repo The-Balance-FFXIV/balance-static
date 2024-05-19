@@ -2,16 +2,19 @@
 title: SGE UWU Fight Tips
 authors:
   - Balance-SGE-Staff
-patch: "6.5"
-lastmod: 2024-03-28T18:24:21.102Z
+patch: "6.58"
+lastmod: 2024-05-19T03:24:54.054Z
+changelog:
+  - date: 2024-05-19T03:24:54.813Z
+    message: Article added
 ---
 ## Gearing
 
 <https://xivgear.app/#/bis/sge/stormblood/uwu>
 
-This link includes 3 different sets for UWU prog. All three of these sets should be considered viable and fairly easy to obtain. If there is a piece that you are missing, you can swap it for any gear piece with an item level over 500 that has the same substat distributions (i.e. you can swap a Crit/Det piece in the set for any Crit/Det piece with an item level higher than 500).
+This link includes three different sets for UWU prog. All three of these sets should be considered viable and fairly easy to obtain. If there is a piece that you are missing, you can swap it for any gear piece with an item level over 500 that has the same substat distributions (i.e. you can swap a Crit/Det piece in the set for any Crit/Det piece with an item level higher than 500).
 
-During ultimate prog, it’s always recommended to have 2-3 pieces with Piety as a substat until you are comfortable with the fight and understand the necessary healing output. One of these sets includes 3 Piety pieces and is highly appropriate and effective for prog.
+During Ultimate prog, it’s always recommended to have 2-3 pieces with Piety as a substat until you are comfortable with the fight and understand the necessary healing output. One of these sets includes three Piety pieces and is highly appropriate and effective for prog.
 
 The other two sets are differentiated by synced pieces (gear over item level 500) and the inclusion of unsynced pieces (gear either item level 370 or 375 with appropriate materia).
 
