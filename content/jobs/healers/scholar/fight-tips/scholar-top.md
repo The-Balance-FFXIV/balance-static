@@ -3,12 +3,15 @@ title: SCH TOP Fight Tips
 card_header_image: /img/image.png
 authors:
   - Balance-SCH-Staff
-patch: "6.38"
-lastmod: 2023-04-25T16:25:37.968Z
+patch: "6.58"
+lastmod: 2024-05-19T03:23:21.989Z
+changelog:
+  - date: 2024-05-19T03:23:23.480Z
+    message: Added article
 ---
 # Introduction
 
-This document contains suggestions on how to use your cooldowns effectively and small things you can do to play each phase as effectively as possible. Ideally, you should communicate with your co-Healer to make a plan that reduces stress for both of you and maximizes damage between you while being safe.
+This document contains suggestions on how to use your cooldowns effectively and small things you can do to play each phase as effectively as possible. Ideally, you should communicate with your cohealer to make a plan that reduces stress for both of you and maximizes damage between you while being safe.
 
 # The Omega Protocol (TOP)
 
@@ -38,7 +41,7 @@ TOP requires less mana than DSR so you can just use this [2.40 set](https://etro
 #### Firewall
 
 * Dot does not work on anyone you’re firewalled against so do not double dot.
-* It’s best to have 3 strong dps on one boss with your highest dealing tank and the rest on the other boss. This lets you put Chain and other targeted raid buffs on the boss with 3 dps maximizing its value vs 2 dps
+* It’s best to have three strong DPS on one boss with your highest dealing tank and the rest on the other boss. This lets you put Chain and other targeted raid buffs on the boss with 3 dps maximizing its value vs two DPS.
 * Art of War is a 65 potency gain over Broil IV and Bio is 70 damage per tick so it’s better to Bio first in the opener.
 * Soil is excellent for double tank busters, giving 10% mitigation on both tanks with powerful regen on both
 * It’s free to end this first uptime phase with a Swiftcast Broil to guarantee it doesn’t ghost
@@ -46,7 +49,7 @@ TOP requires less mana than DSR so you can just use this [2.40 set](https://etro
 #### Party Synergy
 
 * Just Succor before each hit during this downtime mechanic
-* **Dissipation will come back around the knockback if you use a Dissipation first opener. If you use this, make sure to drain your Aetherflow gauge since Aetherflow ability will be almost off cd.** 
+* **Dissipation will come back around the knockback if you use a Dissipation first opener. If you use this, make sure to drain your Aetherflow gauge since Aetherflow ability will be almost off CD.** 
 
 #### Limitless Synergy
 
@@ -66,13 +69,13 @@ TOP requires less mana than DSR so you can just use this [2.40 set](https://etro
 * You’ll want enough shields and mitigation on each set that you don’t need to heal during sets.
 * You should be going center for every set so you can Succor the party
 * Recitation Deploy can be used for the first set and will be ready to use for P4
-* Seraph can be used to cover sets 2 and 3 and will come back at the start of P4
+* Seraph can be used to cover sets two and three and will come back at the start of P4
 * Abuse other remote healing/mitigation options such as Fey Illumination, Whispering Dawn, and Fey Blessing while the party is spread out
 
 #### Monitors
 
-* Requires no mitigation, only does about 50k damage. Just make sure the party has enough hp
-* **<span style="text-decoration:underline;">You can use Art of War if your monitor resolves at an awkward time to keep your GCD rolling </span>**
+* Requires no mitigation, only does about 50k damage. Just make sure the party has enough HP
+* You can use Art of War if your monitor resolves at an awkward time to keep your GCD rolling
 
 ### Phase Four: Blue Screen
 
@@ -80,15 +83,15 @@ TOP requires less mana than DSR so you can just use this [2.40 set](https://etro
 
 * Recitation Deploy can be used in the downtime between P3 and P4 and will be back for P5.
 * Use Summon Seraph early on in this phase so that it comes back in the second half of RDD.
-* Soil used near the end of the Wave Cannon castbar will cover stacks 1 and 2 and be back for Blue Screen
+* Soil used near the end of the Wave Cannon castbar will cover stacks one and two and be back for Blue Screen
 
 #### Blue Screen
 
-* Succor and Sacred Soil. Ensure party is full hp.
+* Succor and Sacred Soil. Ensure party is full HP.
 
 ### Phase Five: Run: Dynamis
 
-#### Run: Dynamis(Delta)
+#### Run: Dynamis (Delta)
 
 * Use shields when Omega-M and Omega-F disappear during the transition so that they’ll last through the RDD hit.
 * Highly recommend Recitation Deploy is used **after** the RDD hit to help make healing easier during the actual mechanics
@@ -97,7 +100,7 @@ TOP requires less mana than DSR so you can just use this [2.40 set](https://etro
 * Use Succors during this mechanic when you’re standing still and there are unshielded party members, it’s free
 * Excog and single-target tank CDs can be used on a squishy party member during this mechanic for safety.
 
-#### Run: Dynamis(Sigma)
+#### Run: Dynamis (Sigma)
 
 * Succor between each hit of this mechanic
 * Whispering Dawn is easy to get on everyone while waiting to be knocked back
@@ -111,7 +114,7 @@ TOP requires less mana than DSR so you can just use this [2.40 set](https://etro
 * Excogitation, Whispering Dawn, Fey Union, and Sacred Soil are all useful for keeping the tank taking autos healthy during the clone dodges
 * Try to Succor for each Hello World hit, but it shouldn’t be vital
 * Fey Blessing and Consolation again provide easy-to-use healing between Hello World sets
-* You can pre-place Soil at the end of the Run: Dynamis (Omega) to mit busters at the end of the mechanic, feel free to Adlo a tank at the end of the mechanic too. You must do it near the end of Run: Dynamis(Omega) to make sure it's up for Blind Faith if you're using it for it.
+* You can pre-place Soil at the end of the Run: Dynamis (Omega) to mit busters at the end of the mechanic, feel free to Adlo a tank at the end of the mechanic too. You must do it near the end of Run: Dynamis (Omega) to make sure it's up for Blind Faith if you're using it for it.
 * Tanks that take the Blaster tethers will require healing since they’re set to 1% HP
 * Make sure to Succor for Blind Faith
 
@@ -128,7 +131,7 @@ TOP requires less mana than DSR so you can just use this [2.40 set](https://etro
 
 #### Cosmo Dive 1
 
-* Preshield can be done when the second auto-attack occurs after Cosmo Memory
+* Pre-shield can be done when the second auto-attack occurs after Cosmo Memory
 * Seraph can be used to cover both this and the first hits of Wave Cannon 1, and will then be back for Cosmo Meteor. The easiest way to time this is to Summon Seraph when Cosmo Dive begins casting and use the first charge immediately. Use the second charge when the second autoattack after Dive occurs
 
 #### Wave Cannon 1
