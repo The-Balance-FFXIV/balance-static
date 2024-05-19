@@ -112,7 +112,7 @@ The BiS weapon for this fight is the Endwalker SCH relic (645/665 are functional
 
 ### Phase Six: The Great Wyrms
 
-#### Wyrm’s breath 1 healing advice
+#### Wyrm’s Breath 1 healing advice
 
 * Seraph is great here as it’ll also come back up for Cauterize
 
@@ -128,7 +128,7 @@ The BiS weapon for this fight is the Endwalker SCH relic (645/665 are functional
 * Place your Soil so that your allies are in the tip of it at the start and can run through it giving you as long of mitigation as possible. Reminder: Soil gives a mitigation buff so even when out of it they’ll still have it for 5s after the last Soil tick.
 * Spreadlo is important for the first hit making healing this a breeze. Keep a Swiftcast so you can swift Succor as well.
 
-#### Post Wroth TB advice
+#### Post-Wroth TB advice
 
 * Some Tanks could use help here, Paladin > GNB = WAR is my priority for giving help, DRK shouldn’t need help unless they’ve made a mistake and asked for help. Don’t be afraid to Adloquium a Tank the DPS check should be easy if no one is dying
 
@@ -136,7 +136,7 @@ The BiS weapon for this fight is the Endwalker SCH relic (645/665 are functional
 
 * Seraph is great to use on cooldown for WB2 and it comes back up before Cauterize
 * Tanks take a strong DOT after Cauterize. Make sure to pay attention and properly heal/regen them
-* Place Soil in front of the dragon and make sure both Tanks are in it to help them take the wild charge damage. Soil is pretty helpful since this does a lot of damage and there is another aoe coming up afterward.
+* Place Soil in front of the dragon and make sure both Tanks are in it to help them take the wild charge damage. Soil is pretty helpful since this does a lot of damage and there is another AoE coming up afterward.
 
 ### Phase Seven: Dragon-King Thordan
 
@@ -205,14 +205,14 @@ Sage: The double shield healer pairing is one that was talked about a lot coming
 
 #### Pros:
 
-* Stacking Sacred Soil with Kerachole is incredibly powerful. Offering mitigation + OGCD regens on 30s cds is tremendously powerful, with the ability to put both on literally every mechanic in the fight 
+* Stacking Sacred Soil with Kerachole is incredibly powerful. Offering mitigation + OGCD regens on 30s CDs is tremendously powerful, with the ability to put both on literally every mechanic in the fight 
 * The addition of a shield to Holos has only served to make this combo’s single-hit mitigation potential even more ridiculous. While not recommended, it’s totally reasonable to say you can handle even an Alternative End level hit utilizing only healer mitigation, which allows even further flexibility in the Mitigation sheet planning of abilities. 
 * Sage’s notable weakness of lacking deploy is masked with an SCH co-healer, and the ability to leverage Zoe more often on Pneuma instead of worrying about shielding with such allows for strong burst healing on Sage’s side 
 
 #### Cons:
 
 * More than any other combo, SCH/SGE relies upon the strength of mitigation. Missing forms of mitigation can snowball things very badly quickly, and this duo lacks a bit of brute force heal vomit compared to other options if this occurs 
-* Without 6/1/1 Akh Morn Tank invuln strats, Sage is left spamming Prognosis to heal through Akh Morns. This is pretty inefficient, especially compared to the other options which can leverage regens (in the form of Aspected Helios/Medica 2), and just simply more powerful base-level heals (in Helios/Medica). This, in turn, makes planning where you plan your other cds, namely Pneuma, Ixochole, and Indom extremely important 
+* Without 6/1/1 Akh Morn Tank invuln strats, Sage is left spamming Prognosis to heal through Akh Morns. This is pretty inefficient, especially compared to the other options which can leverage regens (in the form of Aspected Helios/Medica 2), and just simply more powerful base-level heals (in Helios/Medica). This, in turn, makes planning where you plan your other CDs, namely Pneuma, Ixochole, and Indom extremely important 
 * Lack of attention to shields can end in disaster if a deployment is overwritten
 
 # Credits
