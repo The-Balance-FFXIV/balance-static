@@ -104,7 +104,7 @@ For the final Weight of the Land during boulders, it is common for ranged to bai
 
 Many Landslides occur during this phase, some of which may not always align with your GCD. To mitigate this, you should consider holding your Swiftcast for when a Landslide occurs that does not align with your GCD to avoid drifting. Additionally, if a Landslide occurs when you are above 50 | 50 mana, it is possible to keep full uptime on the boss using your melee combo while dodging Landslides. If dodging in melee range, you should be sure to dodge Landslides behind the boss, as dodging in front of the boss will kill you. 
 
-[A diagram showing melee safe spots during Landslides, created by ZhephZaeora, can be found here.](https://gfycat.com/dapperdamagedcats)
+[A diagram showing melee safe spots during Landslides, created by ZhephZaeora, can be found here.](https://i.imgur.com/vEhkopa.mp4)
 
 ## Addle Mitigation
 
