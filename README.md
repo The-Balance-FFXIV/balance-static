@@ -21,3 +21,13 @@ hugo server --disableFastRender
 
 # Server starts by default on `localhost:1313`
 ```
+
+## Docker
+
+### Build the image
+
+`docker build -t balance-static:latest .`
+
+### Run the image
+
+`docker run --name balance-static -p 1313:1313 balance-static:latest`
