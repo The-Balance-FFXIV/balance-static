@@ -41,8 +41,10 @@ COPY package.json .
 COPY postcss.config.js .
 COPY tailwind.config.js .
 COPY yarn.lock .
+# Copy the entrypoint script to the root
+COPY scripts/entrypoint.sh entrypoint.sh
 # Start the server
 # The server runs on 1313 by default
 EXPOSE 1313
 ENV HUGO_ENVIRONMENT=production
-CMD ["server"]
+ENTRYPOINT ["./entrypoint.sh"]
