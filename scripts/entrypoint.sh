@@ -1,2 +1,2 @@
 #!/bin/sh
-hugo server
+hugo-official server
