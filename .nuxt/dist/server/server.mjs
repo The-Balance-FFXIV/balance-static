@@ -1,0 +1,1 @@
+export { default } from "file:///Users/sneakycrow/git/The-Balance-FFXIV/balance-static/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"

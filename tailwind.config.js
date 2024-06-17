@@ -1,1 +1,0 @@
-themes/glam/tailwind.config.js
