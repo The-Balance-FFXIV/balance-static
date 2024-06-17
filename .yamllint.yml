@@ -6,6 +6,8 @@ yaml-files:
   - '.yamllint'
 
 rules:
+  indentation:
+    indent-sequences: consistent
   # TODO:
   braces: disable
   #braces: enable
@@ -26,7 +28,6 @@ rules:
   #empty-lines: enable
   empty-values: disable
   hyphens: enable
-  indentation: enable
   key-duplicates: enable
   key-ordering: disable
   # Default line length is 80 characters

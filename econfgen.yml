@@ -1,0 +1,50 @@
+---
+default:
+  # set up a backend
+  backend:
+    name: git-gateway
+  local_backend: true
+  # the jobs section is as follows:
+  # jobs:
+  #   ROLE:
+  #   - ['Long Job Name', 'lgn']
+  jobs:
+    tanks:
+    - ['Paladin', 'pld']
+    - ['Warrior', 'war']
+    - ['Dark Knight', 'drk']
+    - ['Gunbreaker', 'gbn']
+    healers:
+    - ['Scholar', 'sch']
+    - ['White Mage', 'whm']
+    - ['Astrologian', 'ast']
+    - ['Sage', 'sge']
+    melee:
+    - ['Monk', 'mnk']
+    - ['Dragoon', 'drg']
+    - ['Ninja', 'nin']
+    - ['Samurai', 'sam']
+    - ['Reaper', 'rpr']
+    - ['Viper', 'vpr']
+    ranged:
+    - ['Bard', 'brd']
+    - ['Machinist', 'mch']
+    - ['Dancer', 'dnc']
+    casters:
+    - ['Black Mage', 'blm']
+    - ['Red Mage', 'rdm']
+    - ['Summoner', 'smn']
+    - ['Pictomancer', 'pct']
+prod:
+  # any items here will override everything in the default
+  local_backend: false
+  publish_mode: editorial_workflow
+  site_url: https://www.thebalanceffxiv.com/
+  show_preview_links: true
+  backend: 
+    name: github
+    repo: The-Balance-FFXIV/balance-static
+    branch: main
+    base_url: https://auth2.thebalanceffxiv.com
+    site_domain: www.thebalanceffxiv.com
+    cms_label_prefix: cms/
