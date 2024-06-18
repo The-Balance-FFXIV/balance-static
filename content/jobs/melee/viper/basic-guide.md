@@ -13,6 +13,8 @@ changelog:
 
 F﻿irst off, this guide was made possible by the myriad contributions of Akashi, Azazel, Azrael, Jackal, Rhy, and Stella. 
 
+P﻿lease note that this guide is intended for Viper at Level 100. For information prior to reaching Level 100, please visit the \[LEVELING GUIDE LINK].
+
 ## 1﻿.1 Overview
 
 Viper (VPR) is a fast-paced melee DPS that alternates between fast dual wield attacks and heavy hitting twinblade attacks. Its core gameplay revolves around the classic builder-spender playstyle, building gauge with its dual wield and twinblade attacks and spending that gauge on a powerful burst window called Reawaken. VPR joins the Melee DPS roster as a Scouting class, and therefore shares gear with Ninja. 
@@ -98,4 +100,82 @@ V﻿iper has six abilities with positional requirements. Each positional increas
 
 
 
-For the dual wield combo, both flank positionals will always follow Hunter’s Sting, while both rear positionals will always follow Swiftkin’s Sting. Due to the nature of the combos, players will always alternate rear/flanks during dual wield combos. Twinblade combos allow you to choose which positional you want to do first each time.
+For the dual wield combo, both flank positionals will always follow Hunter’s Sting, while both rear positionals will always follow Swiftkin’s Sting. Due to the nature of the combos, players will always alternate rear/flanks during dual wield combos. Twinblade combos allow you to choose which positional you want to do first each time. 
+
+# 4﻿. Viper Gauges
+
+V﻿iper has two gauges, the Anguine Tribute gauge and the Rattling Coil gauge. 
+
+## 4﻿.1 Rattling Coils
+
+One Rattling Coil is generated when using either twinblade combo starter, or from using Serpent’s Ire. Rattling Coils are located on the bottom of the Viper’s Sight Gauge. For each Rattling Coil stored, a red gem will light up, with a maximum of three Rattling Coils able to be stored at once. 
+
+![](/img/jobs/vpr/rattlingcoil.png)
+
+Rattling Coils are spent to use the ranged ability Uncoiled Fury. This ability has a GCD recast timer of 3.5s (2.97s with 15% haste buff) and allows for the execution of two follow up oGCDs, Uncoiled Twinfang then Uncoiled Twinblood. These oGCDs must be used in this order, as using Uncoiled Twinfang grants the buff that allows for the use of Uncoiled Twinblood. Uncoiled Fury can be used to keep the GCD rolling during melee downtime mechanics, and will also be used as rotation filler even in full uptime due to its high potency relative to time ratio. 
+
+## 4﻿.2 Serpent's Offering Gauge
+
+The Serpent Offerings gauge is made of two parts. The gauge counter, which displays your current total of Serpent Offerings, and the Anguine Tribute counter, which displays how many actions you can use while under the effect of Reawaken. The latter part of the gauge remains inactive until Reawaken is activated. Serpent Offerings are generated from dual wield combo finishers (+10 per finisher), or from the second and third hits of the twinblade combos (+5 from each hit, +10 total for each twinblade combo). As offerings are generated, the gauge gradually fills with a red liquid which becomes blue upon reaching 50 offerings. 
+
+![](/img/jobs/vpr/juicegauge.png)
+
+After reaching 50 or more Serpent Offerings, the player can enter Reawaken. This powerful burst window costs 50 Offerings to enter, or is free to enter when under the effect of Ready to Reawaken, granted by Serpent’s Ire. Reawaken makes the Anguine Tribute counter glow with five blue orbs, indicating that the Viper can use five Reawaken abilities. For each ability used, one orb becomes inactive again. 
+
+![](/img/jobs/vpr/awakenedjuice.png)
+
+T﻿he number to the right of the Anguine Tribute counter indicates the amount of time remaining to use all Anguine Tributes before the effect of Reawakened expires. 
+
+Activating Reawaken turns Viper’s dual wield and twinblade combo actions into First, Second, Third, and Fourth Generation. Reawaken itself gets replaced with the Reawaken finisher, Ouroboros. Each hit of First through Fourth Generation grants access to an oGCD ability called First through Fourth Legacy that must be used after each respective Generation hit. This makes the full Reawaken combo as follows (credit to Akashi for the image):
+
+![](/img/jobs/vpr/reawakened.png)
+
+Reawaken-> First Generation-> First Legacy-> Second Generation-> Second Legacy-> Third Generation-> Third Legacy-> Fourth Generation-> Fourth Legacy-> Ouroboros 
+
+The whole Reawaken combo takes 13.2s (11.22s with the 15% haste buff) with no skill speed, as Reawaken has a base recast of 2.2s, each Generation GCD has a base recast of 2s long, and Ouroboros has a base recast of 3.0.
+
+# 5﻿. Button Replacements
+
+I﻿t might be tricky to understand what button replaces what on this job, so please see this visual made by Rhy to help understand what is happening. 
+
+![](/img/jobs/vpr/button-replacements.png)
+
+# 6﻿. Viper Basic Rotation
+
+## 6﻿.1 Opener(s)
+
+### S﻿tandard Opener
+
+![](/img/jobs/vpr/tentativeprereleaseopener.png)
+
+## 6﻿.2 Always Be Casting
+
+In FFXIV there is one thing that is absolutely fundamental to every combat job. The **ABC**s of FFXIV: **A**lways **B**e **C**asting. This does not necessarily refer to casts in the literal sense of using abilities that have cast times before activating. Instead, what this means is to always be “rolling” your GCD clock. Every time a weaponskill or spell is used, it will trigger a cooldown clock on every other skill that is on the Global Cooldown (GCD). There should never be a point in time where that clock stops spinning when there is something that can be attacked. Do not underestimate the importance of this! If you have a 10 minute long fight, and you have 90% GCD uptime, that means for 10% of the fight your GCD was not rolling. This translates to 60 whole seconds of GCD downtime. That's a full minute of doing 0 DPS! It is often better to press things in the incorrect order than to not press anything. Some damage is better than no damage. 
+
+## 6﻿.3 Rotation Priorities
+
+Viper rotation can be presented in its simplest form as a priority system. 
+
+1. K﻿eep Noxious Gnash active by using Dread Fangs or Dreadwinder in single target situations, and Dread Maw and Pit of Dread for AoE situations. 
+2. K﻿eep Hunter's Instinct and Swiftscaled active at all times.
+3. U﻿se Serpent's Ire as soon as it is ready. 
+4. E﻿nter Reawaken and spend all Reawakened actions following Serpent's Ire, using the Ready to Reawaken buff. 
+5. U﻿se Reawaken and spend all Reawakened actions when at or above 50 Offerings.
+6. Use twinblade abilities when they are available.
+7. Spend Rattling Coils as you get them.
+
+   \-﻿ Save one at all times to cover potential disengages, but spend them before using Serpent's Ire as it will grant another. Avoid overcapping Coils and spend them before the end of the fight unless you can Reawaken instead. 
+8. Rotate through the dual wield combo cycle, ensuring the correct actions are used to execute the buffed finisher. 
+
+## 6﻿.4 The Next Level of Viper Rotation
+
+Having a firm grasp of the concepts above will be more than enough to get players through more casual content like Normal Raids, Dungeons, and Extreme trials. ***Playing the job as a pure priority system is not optimal and anyone looking to contribute more to their team with better DPS should understand this***. In higher level content such as Savage Raids and Ultimate Raids, players are expected to know how to play their job with party buffs in mind in order to maximize the damage the party can do. If you feel like you’ve got a firm grasp of the concepts presented in this guide, head over to the VPR Intermediate Guide to learn how to play VPR into party buffs and optimize its damage. 
+
+The intermediate guide can be found here: \[INTERMEDIATE GUIDE LINK]
+
+Here is a sample of some of the things discussed in the Intermediate Guide:
+
+* The two minute burst window (how to play in party buffs)
+* Planning for downtime/melee disconnects
+* Potion usage
+* a﻿nd more!
