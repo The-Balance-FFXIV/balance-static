@@ -17,7 +17,7 @@ jobs:
       - run: yarn install
       - run: yarn build --preset github_pages
         env:
-          NUXT_APP_BASE_URL: https://sneakycrow.github.io/balance-static
+          NUXT_APP_BASE_URL: /balance-static/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
