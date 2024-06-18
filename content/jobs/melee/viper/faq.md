@@ -1,5 +1,5 @@
 ---
-title: Viper FAQs
+title: Viper Frequently Asked Questions
 layout: qna
 patch: "7.0"
 lastmod: 2024-06-18T02:03:31.251Z
