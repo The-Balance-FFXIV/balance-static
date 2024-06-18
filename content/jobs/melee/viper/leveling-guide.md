@@ -5,11 +5,7 @@ authors:
   - Balance-VPR-Staff
 lastmod: 2024-06-17T23:32:14.858Z
 ---
-<!--StartFragment-->
-
-- - -
-
-<h1 style="text-align: center;">TENTATIVE Viper Leveling Guide</h1>
+# TENTATIVE Viper Leveling Guide
 
 - - -
 
@@ -171,5 +167,3 @@ Will update on Dawntrail release
 ## Multi-Target (3+) Rotation
 
 Viper’s multi-target rotation is fairly identical to its single-target rotation. Both the doubleblade combo and the twinblade combo have an AOE variant that follows similar logic as their single-target counterparts. So outside of swapping to the AOE variants in multi-target scenarios Viper has no other multi-target optimization.
-
-<!--EndFragment-->
