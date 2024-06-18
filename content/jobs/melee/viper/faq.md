@@ -37,6 +37,16 @@ qna:
       target twinblade combo will have both a rear and flank positional, the
       order of which can be freely chosen each time assuming the order doesn't
       matter for buff upkeep.
+  - question: When do I use Rattling Coil stacks?
+    answer: These stacks should be used primarily to maintain uptime during a melee
+      disconnect, otherwise the stacks can be spent during filler rotation.
+  - question: What breaks VPR combos?
+    answer: >-
+      Dual wield combos are not broken by anything other than starting the AoE
+      combo while in single target combo, and vice versa. 
+
+
+      Twinblade combo is broken by any non-twinblade GCD with the exception of Writhing Snap and Uncoiled Fury. This means you cannot Reawaken during twinblade! Twinblade combos are also broken by starting the AoE version while in single target combo, and vice versa.
 authors:
   - Balance-VPR-Staff
 ---
