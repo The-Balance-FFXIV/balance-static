@@ -1,0 +1,42 @@
+---
+title: Viper FAQs
+layout: qna
+patch: "7.0"
+lastmod: 2024-06-18T02:03:31.251Z
+qna:
+  - question: Are Reawaken skills affected by Haste/Skill Speed? What speeds are
+      VPRs GCDs?
+    answer: "A﻿ll of Viper's GCDs are affected by both Haste and Skillspeed. Viper
+      has a 15% haste buff that is upkept in its rotation. Vipe also has five
+      different GCD speeds. Assuming no Skillspeed, this chart shows the speed
+      of each category of GCD.
+
+
+      | Type                    | No Haste | Haste |\r
+
+      |-------------------------|----------|-------|\r
+
+      | Generations             | 2.00     | 1.70  |\r
+
+      | Reawaken                | 2.20     | 1.87  |\r
+
+      | Dual Wield              | 2.50     | 2.12  |\r
+
+      | Twinblade and Ouroboros | 3.00     | 2.55  |\r
+
+      | Uncoiled Fury           | 3.5      | 2.97  |"
+  - question: Does Reawaken have a cooldown?
+    answer: N﻿o. You can enter it multiple times in a row without needing fillers.
+  - question: Will I be able to double weave on high ping?
+    answer: Y﻿es, almost all of Viper's double weaves are after long GCDs (2.55 or
+      2.97s). Even someone with higher ping should be able to do them without
+      clipping.
+  - question: How many positionals does Viper have?
+    answer: S﻿ix total, three flanks and three rear. Every single target dual wield
+      combo will end in one positional, alternating each time. Every single
+      target twinblade combo will have both a rear and flank positional, the
+      order of which can be freely chosen each time assuming the order doesn't
+      matter for buff upkeep.
+authors:
+  - Balance-VPR-Staff
+---
