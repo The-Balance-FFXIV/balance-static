@@ -63,7 +63,7 @@ Dual wield AoE is much simpler, and has only six total buttons to choose from: t
 
 ![](/img/jobs/vpr/dwaoecombo.jpg "Dual Wield AoE Flowchart")
 
-## 2﻿.2 Doubleblade Combos 
+## 2﻿.2 Doubleblade Combos
 
 Official localization calls these “doubleblade combos,” but that is confusing terminology when used with dual wield combos. For clarity they will be called twinblade combos instead. Twinblade combos execute actions using both swords attached at the hilts to form a single, double bladed weapon. Twinblade attacks have a longer GCD of 3.0s (2.55s with 15% haste buff), with no skill speed. Twinblade combo openers are on a 40s cooldown with two charges, and share a cooldown and charges with each other (i.e. using the single target combo opener also uses one charge of the AoE combo opener and vice versa). 
 
@@ -84,3 +84,18 @@ The Twinblade AoE combo functions exactly like its single target counterpart. St
 ![](/img/jobs/vpr/twinbladeaoecombo.png)
 
 # 3﻿. Viper Positionals
+
+V﻿iper has six abilities with positional requirements. Each positional increases the potency of its respective ability by +50 when successfully executed from the required direction.
+
+| Icon | Skill Name        | Positional |
+| ---- | ----------------- | ---------- |
+|      | Hunter's Coil     | Flank      |
+|      | Swiftskin's Coil  | Rear       |
+|      | Flanksting Strike | Flank      |
+|      | Flanksbane Fang   | Flank      |
+|      | Hindsting Strike  | Rear       |
+|      | Hindsbane Fang    | Rear       |
+
+
+
+For the dual wield combo, both flank positionals will always follow Hunter’s Sting, while both rear positionals will always follow Swiftkin’s Sting. Due to the nature of the combos, players will always alternate rear/flanks during dual wield combos. Twinblade combos allow you to choose which positional you want to do first each time.
