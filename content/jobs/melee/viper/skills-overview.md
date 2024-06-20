@@ -1,5 +1,12 @@
 ---
+authors:
+  - ToraelValdis
+  - Balance-VPR-Staff
+patch: "7.0"
 lastmod: 2024-06-20T19:16:55.732Z
+changelog:
+  - date: 2024-06-20T21:56:01.856Z
+    message: Guide added to website
 ---
 # 1. Dual Wield Abilities
 ## 1.1 Single Target
@@ -60,3 +67,13 @@ lastmod: 2024-06-20T19:16:55.732Z
 |   ![](https://cdn.discordapp.com/emojis/1248314665646424215.webp?size=160&quality=lossless)   | Fourth Generation | Weaponskill | 2.00s/1.7s          | Combo action that can be used after Third Generation. <br>Deals an attack with a potency of 400 to target and all nearby enemies. <br>Potency increased to 500 when used after Third Generation.<br>Costs 1 Anguine Tribute.   |
 |   ![](https://cdn.discordapp.com/emojis/1248314682100551732.webp?size=160&quality=lossless)   | Fourth Legacy     | Ability     | 1.00s               | Can only be used after Fourth Generation. <br>Deals an attack with a potency of 350 to target an all nearby enemies.                                                                                                           |
 |   ![](https://cdn.discordapp.com/emojis/1248314854847156244.webp?size=160&quality=lossless)   | Ouroboros         | Weaponskill | 3.00s/2.55s         | Deals an attack with a potency of 1000 to target and all nearby enemies.<br>Requires at least one Anguine Tribute stack and consumes all remaining stacks, ending Reawakened upon use.                                         |
+
+# 4. Other Abilities
+| Icon | Name               | Type        | Recast/Haste Recast | Description                                                                                                                                                                                                                |
+|------|--------------------|-------------|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   ![](https://cdn.discordapp.com/emojis/1248314476110024836.webp?size=160&quality=lossless)   | Uncoiled Fury      | Weaponskill | 3.5s/2.97s          | Deal a ranged attack with a potency of 500 to target and all nearby enemies.<br>Costs 1 Rattling Coil.<br>Grants Poised for Twinfang.                                                                                      |
+|   ![](https://cdn.discordapp.com/emojis/1249766977417908366.webp?size=160&quality=lossless)   | Uncoiled Twinfang  | Ability     | 1.00s               | Can only be used after Uncoiled Fury.<br>Deals an attack with a potency of 100 to target and all nearby enemies.<br>Potency increased to 200 when under the effect of Poised for Twinfang.<br>Grants Poised for Twinblood. |
+|   ![](https://cdn.discordapp.com/emojis/1249767025165729863.webp?size=160&quality=lossless)   | Uncoiled Twinblood | Ability     | 1.00s               | Can only be used after Uncoiled Fury.<br>Deals an attack with a potency of 100 to target and all nearby enemies.<br>Potency increased to 200 when under the effect of Poised for Twinblood.                                |
+|   ![](https://cdn.discordapp.com/emojis/1248314502089539615.webp?size=160&quality=lossless)   | Writhing Snap      | Weaponskill | 2.5s/2.12s          | Deals a ranged attack with a potency of 200.                                                                                                                                                                               |
+|   ![](https://cdn.discordapp.com/emojis/1248315038071263325.webp?size=160&quality=lossless)   | Slither            | Ability     | 1.00s               | Dash to target enemy or party member.<br>3 max charges, 30 second recharge time.<br>Cannot be used while bound.                                                                                                            |
+|   ![](https://cdn.discordapp.com/emojis/1248314997281652767.webp?size=160&quality=lossless)   | Serpent's Ire      | Ability     | 120s                | Grants 1 Rattling Coil.<br>Grants Ready to Reawaken for 30 seconds.<br>Ready to Reawaken allows for Reawaken to be used without Serpents Offering cost.                                                                    |
