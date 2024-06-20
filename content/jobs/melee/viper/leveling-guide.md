@@ -96,6 +96,8 @@ If one of the swords is glowing blue, as seen in the image to the right, it mean
 \
 After you finish a combo you gain a buff for another combo of the opposite side. So if you ended a combo with a ‘Flank’ combo finisher the buff you receive will be for a ‘Hind’ finisher, and vice versa.
 
+The Vipersight gauge also functions in the same way with the AOE combo.
+
 It is important to note that both combo finishers after Hunter’s Sting will be ‘Flank’ finishers, and both combo finishers after Swiftskin’s Sting will be ‘Hind’ finishers. This causes the player to naturally alternate between Hunter’s Sting and Swiftskin’s Sting.
 
 ## Rattling Coil Gauge
