@@ -176,9 +176,7 @@ Viper rotation can be presented in its simplest form as a priority system.
 
 Having a firm grasp of the concepts above will be more than enough to get players through more casual content like Normal Raids, Dungeons, and Extreme trials. ***Playing the job as a pure priority system is not optimal and anyone looking to contribute more to their team with better DPS should understand this***. In higher level content such as Savage Raids and Ultimate Raids, players are expected to know how to play their job with party buffs in mind in order to maximize the damage the party can do. If you feel like you’ve got a firm grasp of the concepts presented in this guide, head over to the VPR Intermediate Guide to learn how to play VPR into party buffs and optimize its damage. 
 
-[The intermediate guide can be found here.](https://www.thebalanceffxiv.com/jobs/melee/viper/intermediate-guide/)
-
-Here is a sample of some of the things discussed in the Intermediate Guide:
+Here is a sample of some of the things discussed in the [Intermediate Guide](https://www.thebalanceffxiv.com/jobs/melee/viper/intermediate-guide/):
 
 * The two minute burst window (how to play in party buffs)
 * Planning for downtime/melee disconnects
