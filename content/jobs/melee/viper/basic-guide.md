@@ -128,7 +128,7 @@ After reaching 50 or more Serpent Offerings, the player can enter Reawaken. This
 
 T﻿he number to the right of the Anguine Tribute counter indicates the amount of time remaining to use all Anguine Tributes before the effect of Reawakened expires. 
 
-Activating Reawaken turns Viper’s dual wield and twinblade combo actions into First, Second, Third, and Fourth Generation. Reawaken itself gets replaced with the Reawaken finisher, Ouroboros. Each hit of First through Fourth Generation grants access to an oGCD ability called First through Fourth Legacy that must be used after each respective Generation hit. This makes the full Reawaken combo as follows (credit to Akashi for the image):
+Activating Reawaken turns Viper’s dual wield and twinblade combo actions into First, Second, Third, and Fourth Generation. Reawaken itself gets replaced with the Reawaken finisher, Ouroboros. Each hit of First through Fourth Generation grants access to an oGCD ability called First through Fourth Legacy that must be used after each respective Generation hit. This makes the full Reawaken combo as follows:
 
 ![](/img/jobs/vpr/viper-reawakened-sequence.png)
 
