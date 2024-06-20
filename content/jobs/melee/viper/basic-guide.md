@@ -13,7 +13,7 @@ changelog:
 
 F﻿irst off, this guide was made possible by the myriad contributions of Akashi, Azazel, Azrael, Jackal, Rhy, and Stella. 
 
-P﻿lease note that this guide is intended for Viper at Level 100. For information prior to reaching Level 100, please visit the \[LEVELING GUIDE LINK].
+P﻿lease note that this guide is intended for Viper at Level 100. For information prior to reaching Level 100, please visit the [Leveling Guide.](https://www.thebalanceffxiv.com/jobs/melee/viper/leveling-guide/)
 
 ## 1﻿.1 Overview
 
@@ -21,11 +21,11 @@ Viper (VPR) is a fast-paced melee DPS that alternates between fast dual wield at
 
 ## 1﻿.2 Where to Unlock Viper
 
-V﻿iper can be unlocked in Ul'dah from \[PLACEHOLDER]. Picking up the quest requires having at least one level 80 Disciple of War or Magic, as well as the purchase of the Dawntrail expansion. 
+V﻿iper can be unlocked in Ul'dah from \[PLACEHOLDER - Will be updated when we know the quest location]. Picking up the quest requires having at least one level 80 Disciple of War or Magic, as well as the purchase of the Dawntrail expansion. 
 
 ## 1﻿.3 Skills Overview
 
-F﻿or a complete list of Viper skills and their tooltips, please see \[SKILLS OVERVIEW LINK]
+F﻿or a complete list of Viper skills and their tooltips, please see the [Skills Overview page](https://www.thebalanceffxiv.com/jobs/melee/viper/skills-overview/).
 
 # 2﻿. Viper Combos
 
@@ -89,14 +89,14 @@ The Twinblade AoE combo functions exactly like its single target counterpart. St
 
 V﻿iper has six abilities with positional requirements. Each positional increases the potency of its respective ability by +50 when successfully executed from the required direction.
 
-| Icon | Skill Name        | Positional |
-| ---- | ----------------- | ---------- |
-|      | Hunter's Coil     | Flank      |
-|      | Swiftskin's Coil  | Rear       |
-|      | Flanksting Strike | Flank      |
-|      | Flanksbane Fang   | Flank      |
-|      | Hindsting Strike  | Rear       |
-|      | Hindsbane Fang    | Rear       |
+| Skill Name        | Positional |
+| ----------------- | ---------- |
+| Hunter's Coil     | Flank      |
+| Swiftskin's Coil  | Rear       |
+| Flanksting Strike | Flank      |
+| Flanksbane Fang   | Flank      |
+| Hindsting Strike  | Rear       |
+| Hindsbane Fang    | Rear       |
 
 For the dual wield combo, both flank positionals will always follow Hunter’s Sting, while both rear positionals will always follow Swiftkin’s Sting. Due to the nature of the combos, players will always alternate rear/flanks during dual wield combos. Twinblade combos allow you to choose which positional you want to do first each time. 
 
@@ -169,7 +169,7 @@ Viper rotation can be presented in its simplest form as a priority system.
 
 Having a firm grasp of the concepts above will be more than enough to get players through more casual content like Normal Raids, Dungeons, and Extreme trials. ***Playing the job as a pure priority system is not optimal and anyone looking to contribute more to their team with better DPS should understand this***. In higher level content such as Savage Raids and Ultimate Raids, players are expected to know how to play their job with party buffs in mind in order to maximize the damage the party can do. If you feel like you’ve got a firm grasp of the concepts presented in this guide, head over to the VPR Intermediate Guide to learn how to play VPR into party buffs and optimize its damage. 
 
-The intermediate guide can be found here: \[INTERMEDIATE GUIDE LINK]
+[The intermediate guide can be found here.](https://www.thebalanceffxiv.com/jobs/melee/viper/intermediate-guide/)
 
 Here is a sample of some of the things discussed in the Intermediate Guide:
 
