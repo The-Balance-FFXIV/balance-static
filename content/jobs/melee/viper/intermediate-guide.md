@@ -55,14 +55,11 @@ There are three primary variations of our burst that we will use for most situat
    * This sequence should almost always be done during standard gameplay. 
    * It also assumes that the most recent combo finisher was completed after the most recent twinblade combo. Attempting to do this window without meeting this condition will result in the combo finisher buff dropping.
    * ![](/img/jobs/vpr/standarddoublev1.png)
-
-
 2. **Finisher-Split Double Reawaken**
 
    * This Double Reawaken can only be executed if there is an active dual wield combo chain, and the next GCD in the chain is any of the four combo finishers. A buffed combo finisher plus Death Rattle has equal potency to a Generation plus Legacy from the Reawaken window. This window is performed by using Serpent’s Ire on cooldown, and following it immediately with the first Reawaken. After using Ouroboros, use the active combo finisher and Death Rattle, then immediately enter Reawaken again. 
-   *
-   *
-   *
-   *
-   *
+   * Finisher-Split Double Reawaken delays the second Reawaken by one GCD. This window should only be used as a last resort if the combo finisher buff would fall off before the end of the second Reawaken. It is best to avoid this window if possible by managing twinblade and dual wield combos properly, but is an option if this is not possible for whatever reason. 
+   * ![](/img/jobs/vpr/finishersplitdoublev1.png)
+3. **Immediate Double Reawaken**
+
    *
