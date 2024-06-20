@@ -49,8 +49,6 @@ At first glance, this may seem like an overwhelming amount of things going on fo
 
 ![](/img/jobs/vpr/dwstcombo.png "Dual Wield ST Combo Flowchart")
 
-
-
 As shown in this flowchart (credit: Akashi), players will choose either Dread Fangs or Steel Fangs depending on if they need to reapply Noxious Gnash to begin the combo chain. 
 
 Next, players will select Hunter’s Sting or Swiftskin’s Sting. Due to the nature of the combo finisher buff, players will always alternate this hit to have access to the combo finisher that is currently buffed. 
@@ -95,15 +93,14 @@ The Twinblade AoE combo functions exactly like its single target counterpart. St
 
 V﻿iper has six abilities with positional requirements. Each positional increases the potency of its respective ability by +50 when successfully executed from the required direction.
 
-| Icon | Skill Name        | Positional |
-|------|-------------------|------------|
-|   ![](https://cdn.discordapp.com/emojis/1248314759829393523.webp?size=160&quality=lossless)   | Hunter's Coil     | Flank      |
-|   ![](https://cdn.discordapp.com/emojis/1248314152582254684.webp?size=160&quality=lossless)   | Swiftskin's Coil  | Rear       |
-|   ![](https://cdn.discordapp.com/emojis/1249350833775186083.webp?size=160&quality=lossless)   | Flanksting Strike | Flank      |
-|   ![](https://cdn.discordapp.com/emojis/1248314644766920836.webp?size=160&quality=lossless)   | Flanksbane Fang   | Flank      |
-|   ![](https://cdn.discordapp.com/emojis/1248314727675990046.webp?size=160&quality=lossless)   | Hindsting Strike  | Rear       |
-|   ![](https://cdn.discordapp.com/emojis/1248314706079387688.webp?size=160&quality=lossless)   | Hindsbane Fang    | Rear       |
-
+| Icon                                                                                      | Skill Name        | Positional |
+| ----------------------------------------------------------------------------------------- | ----------------- | ---------- |
+| ![](https://cdn.discordapp.com/emojis/1248314759829393523.webp?size=160&quality=lossless) | Hunter's Coil     | Flank      |
+| ![](https://cdn.discordapp.com/emojis/1248314152582254684.webp?size=160&quality=lossless) | Swiftskin's Coil  | Rear       |
+| ![](https://cdn.discordapp.com/emojis/1249350833775186083.webp?size=160&quality=lossless) | Flanksting Strike | Flank      |
+| ![](https://cdn.discordapp.com/emojis/1248314644766920836.webp?size=160&quality=lossless) | Flanksbane Fang   | Flank      |
+| ![](https://cdn.discordapp.com/emojis/1248314727675990046.webp?size=160&quality=lossless) | Hindsting Strike  | Rear       |
+| ![](https://cdn.discordapp.com/emojis/1248314706079387688.webp?size=160&quality=lossless) | Hindsbane Fang    | Rear       |
 
 For the dual wield combo, both flank positionals will always follow Hunter’s Sting, while both rear positionals will always follow Swiftkin’s Sting. Due to the nature of the combos, players will always alternate rear/flanks during dual wield combos. Twinblade combos allow you to choose which positional you want to do first each time. 
 
@@ -133,9 +130,9 @@ T﻿he number to the right of the Anguine Tribute counter indicates the amount o
 
 Activating Reawaken turns Viper’s dual wield and twinblade combo actions into First, Second, Third, and Fourth Generation. Reawaken itself gets replaced with the Reawaken finisher, Ouroboros. Each hit of First through Fourth Generation grants access to an oGCD ability called First through Fourth Legacy that must be used after each respective Generation hit. This makes the full Reawaken combo as follows (credit to Akashi for the image):
 
-![](/img/jobs/vpr/reawakened.png)
+![](/img/jobs/vpr/viper-reawakened-sequence.png)
 
-Reawaken-> First Generation-> First Legacy-> Second Generation-> Second Legacy-> Third Generation-> Third Legacy-> Fourth Generation-> Fourth Legacy-> Ouroboros 
+
 
 The whole Reawaken combo takes 13.2s (11.22s with the 15% haste buff) with no skill speed, as Reawaken has a base recast of 2.2s, each Generation GCD has a base recast of 2s long, and Ouroboros has a base recast of 3.0.
 
