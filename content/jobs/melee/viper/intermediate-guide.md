@@ -134,7 +134,39 @@ Using these rules can plan our pot uses for a full uptime fight based on the fol
 * A fight lasting less than 9 mins but more than 8:30 will use a pot at 2 minutes and 8 minutes.
 * A fight lasting more than 9:30 but less than 10:00 will get 3 uses of pot if used exactly on cooldown at the opener, 4:30, and 9:00.
 * A fight lasting more than 10:30 but less than 12:00 can use a pot in the opener, a pot at 5:00, and a final pot at 10:00.
-* A fight lasting more than 12:00 can use a pot at the opener, 6:00, and 12:00. Historically, there has never been a fight without downtime that is longer than about 12 minutes, so planning past that point is not necessary. This is a general overview, and does not take into account fight specific optimizations where the group shifts their party buffs instead of using them on cooldown. Additionally, exactly what should be put into pots that are not part of two minute windows will be something that will depend on the specific fight. *Fight specific optimizations take precedence but need to be properly planned out to avoid losses.* 
-*
-*
-*
+* A fight lasting more than 12:00 can use a pot at the opener, 6:00, and 12:00. 
+
+Historically, there has never been a fight without downtime that is longer than about 12 minutes, so planning past that point is not necessary. This is a general overview, and does not take into account fight specific optimizations where the group shifts their party buffs instead of using them on cooldown. Additionally, exactly what should be put into pots that are not part of two minute windows will be something that will depend on the specific fight. *Fight specific optimizations take precedence but need to be properly planned out to avoid losses.*
+
+**At the moment, we believe that the optimal place to pot when entering two minute windows is the GCD before Serpent’s Ire will be used.**
+
+## 2.6 Viper 10 Minute Rotation Overview
+
+Assuming full uptime, we can use the information above to have a general idea of the flow of the rotation over 10 mins while putting as much potency into party buffs as possible. We can reliably force a Standard Burst window with no issues following the standard rules discussed above until 6 minutes. Because VPR is a gauge positive job, we are able to use two Reawakens between the 6 and 8 minute burst window without compromising our ability to Double Reawaken at those windows. However, to compensate for this, we cannot use 4 Rattling Coils between 6 and 8 minutes, as they do not generate gauge. In order to have gauge for the 8 mins buffs, we spend only two of our four Rattling Coils between 6 and 8 minutes. This means we will cap at three Rattling Coils at the 8 min burst when we use Serpent’s Ire. 
+
+Since we are capped, we must spend at least one Rattling Coil before starting the next twinblade combo. The easiest way to do this is to use it right after finishing the current dual wield combo that is active during the burst. Follow the standard rotation priorities and spend all Rattling Coils before starting the Double Reawakening window at 10 mins. Be sure to only use dual wield combos within ten seconds of Serpent’s Ire coming off cooldown. From here, due to the alignment changes caused by the extra Reawaken between 6 and 8 mins, we need to do an Immediate Double Reawaken to stay aligned with party buffs. Doing a Standard Burst here is technically possible, but if party buffs have not drifted at all, the final Ouroboros will only have a 0.4s leeway for catching party buffs before they expire. This makes our 10 minute overview of the rotation look something like this:
+
+All values include the Opener and Double Reawakening sequences.
+Dual wield combo count includes only finishers done within that time frame. Combos started in one time frame but finished in another are counted in the time frame in which they are finished.
+
+| Time        | 2min Burst Window Type | Reawakens | Twinblade Combos | Rattling Coils | Dual Wield Finishers |
+| ----------- | ---------------------- | --------- | ---------------- | -------------- | -------------------- |
+| 0:00-1:59   | Standard               | 2         | 4                | 5              | 8                    |
+| 2:00-3:59   | Standard               | 3         | 3                | 4              | 8                    |
+| 4:00-5:59   | Standard               | 3         | 3                | 4              | 9                    |
+| 6:00-7:59   | Standard               | 4         | 3                | 2              | 7                    |
+| 8:00-9:59   | Standard               | 3         | 3                | 6              | 7                    |
+| 10:00-10:59 | Immediate              | 2         | 2                | 2              | 3                    |
+
+The 10 minute burst can be a Standard Burst depending on party buffs' natural drift, 
+but Immediate is safer for getting the second Ouroboros into buffs.
+
+We care very little for the specific placement of Reawakens, twinblade combos, Rattling Coils, and dual wield combos outside of Double Reawaken as long as we keep our debuffs and buffs active, avoid dropping the combo finisher buff, and avoid overcapping Rattling Coils, twinblade stacks, and Offering gauge. Feel free to move things around as needed as long as these conditions are met. 
+
+## 2.7 Triple Ouroboros in Pot Buff
+
+Given the length of pot buff and the seeming flexibility of Reawaken, it is natural to want to fit three Ouroboros under a pot. However, after much testing, we believe that it is currently not possible to do so without dropping some combination of Hunter’s Instinct, Swiftscaled, Noxious Gnash, and the combo finisher buff or from dropping a Generation GCD plus Legacy oGCD from one Reawaken. While technically possible to fit three Ouroboros under the pot, the losses from dropping the aforementioned buffs or Generation plus Legacy result in a potency loss that outweighs the gains from the extra pot potency. It is possible that some sequence will be found in the future, especially if there will be a fight with downtime that somehow aligns everything to allow for it. Furthermore, it is possible for a potential triple at the end of the fight if the fight would end before dropping combos/buffs becomes an issue. ***This is extremely fight-specific and will need spreadsheeting to see if it is actually a gain!*** For now however, in full uptime this will always equate to a net potency loss. 
+
+## 2.8 Buffless Party Compositions
+
+With the addition of VPR, it is now possible to have an eight-player party with no party buffs. This comp would consist of any two tanks, SGE, WHM, SAM, VPR, MCH, and BLM. With this comp, there is no need to optimize the rotation around feeding potency into party buffs. Instead, ensure that the basic rules of the job are followed. Put extra potency, if possible, into your own potion windows, *but remember that trying to fit three Ouroboros in pot is still going to be a loss overall as it guarantees dropping the combo finisher buff or personal haste/damage buffs and target debuff.*
