@@ -1336,6 +1336,76 @@ collections:
       - description
       value_field: tag
       widget: relation
+    file: content/jobs/tanks/paladin/intermediate-guide.md
+    label: Intermediate Guide
+    name: intermediate-guide
+  - fields:
+    - label: Title
+      name: title
+      required: false
+      widget: string
+    - label: Body
+      name: body
+      required: false
+      widget: markdown
+    - choose_url: false
+      label: Card Header Image
+      name: card_header_image
+      required: false
+      widget: image
+    - collection: author-profile
+      display_fields:
+      - username
+      - name
+      label: Author(s)
+      multiple: true
+      name: authors
+      required: false
+      search_fields:
+      - username
+      - name
+      value_field: username
+      widget: relation
+    - label: Patch
+      name: patch
+      required: false
+      widget: string
+    - date_format: YYYY-MM-DD
+      label: Last Updated
+      name: lastmod
+      required: false
+      time_format: false
+      widget: datetime
+    - fields:
+      - date_format: YYYY-MM-DD
+        label: Date
+        name: date
+        required: false
+        time_format: false
+        widget: datetime
+      - label: Message
+        name: message
+        required: false
+        widget: string
+      label: Changelog Entry
+      name: changelog
+      required: false
+      summary: '{{fields.date}}: {{fields.message}}'
+      widget: list
+    - label: SEO Description
+      name: description
+      required: false
+      widget: string
+    - collection: seo-tags
+      label: SEO Tags (only the first six can be used)
+      multiple: true
+      name: tags
+      required: false
+      search_fields:
+      - tag
+      - description
+      value_field: tag
+      widget: relation
     file: content/jobs/tanks/paladin/advanced-guide.md
     label: Advanced Guide
     name: advanced-guide
@@ -1968,6 +2038,76 @@ collections:
     file: content/jobs/tanks/warrior/faq.md
     label: Frequently Asked Questions
     name: faq
+  - fields:
+    - label: Title
+      name: title
+      required: false
+      widget: string
+    - label: Body
+      name: body
+      required: false
+      widget: markdown
+    - choose_url: false
+      label: Card Header Image
+      name: card_header_image
+      required: false
+      widget: image
+    - collection: author-profile
+      display_fields:
+      - username
+      - name
+      label: Author(s)
+      multiple: true
+      name: authors
+      required: false
+      search_fields:
+      - username
+      - name
+      value_field: username
+      widget: relation
+    - label: Patch
+      name: patch
+      required: false
+      widget: string
+    - date_format: YYYY-MM-DD
+      label: Last Updated
+      name: lastmod
+      required: false
+      time_format: false
+      widget: datetime
+    - fields:
+      - date_format: YYYY-MM-DD
+        label: Date
+        name: date
+        required: false
+        time_format: false
+        widget: datetime
+      - label: Message
+        name: message
+        required: false
+        widget: string
+      label: Changelog Entry
+      name: changelog
+      required: false
+      summary: '{{fields.date}}: {{fields.message}}'
+      widget: list
+    - label: SEO Description
+      name: description
+      required: false
+      widget: string
+    - collection: seo-tags
+      label: SEO Tags (only the first six can be used)
+      multiple: true
+      name: tags
+      required: false
+      search_fields:
+      - tag
+      - description
+      value_field: tag
+      widget: relation
+    file: content/jobs/tanks/warrior/intermediate-guide.md
+    label: Intermediate Guide
+    name: intermediate-guide
   - fields:
     - label: Title
       name: title
@@ -2734,6 +2874,76 @@ collections:
       - description
       value_field: tag
       widget: relation
+    file: content/jobs/tanks/dark-knight/intermediate-guide.md
+    label: Intermediate Guide
+    name: intermediate-guide
+  - fields:
+    - label: Title
+      name: title
+      required: false
+      widget: string
+    - label: Body
+      name: body
+      required: false
+      widget: markdown
+    - choose_url: false
+      label: Card Header Image
+      name: card_header_image
+      required: false
+      widget: image
+    - collection: author-profile
+      display_fields:
+      - username
+      - name
+      label: Author(s)
+      multiple: true
+      name: authors
+      required: false
+      search_fields:
+      - username
+      - name
+      value_field: username
+      widget: relation
+    - label: Patch
+      name: patch
+      required: false
+      widget: string
+    - date_format: YYYY-MM-DD
+      label: Last Updated
+      name: lastmod
+      required: false
+      time_format: false
+      widget: datetime
+    - fields:
+      - date_format: YYYY-MM-DD
+        label: Date
+        name: date
+        required: false
+        time_format: false
+        widget: datetime
+      - label: Message
+        name: message
+        required: false
+        widget: string
+      label: Changelog Entry
+      name: changelog
+      required: false
+      summary: '{{fields.date}}: {{fields.message}}'
+      widget: list
+    - label: SEO Description
+      name: description
+      required: false
+      widget: string
+    - collection: seo-tags
+      label: SEO Tags (only the first six can be used)
+      multiple: true
+      name: tags
+      required: false
+      search_fields:
+      - tag
+      - description
+      value_field: tag
+      widget: relation
     file: content/jobs/tanks/dark-knight/advanced-guide.md
     label: Advanced Guide
     name: advanced-guide
@@ -3366,6 +3576,76 @@ collections:
     file: content/jobs/tanks/gunbreaker/faq.md
     label: Frequently Asked Questions
     name: faq
+  - fields:
+    - label: Title
+      name: title
+      required: false
+      widget: string
+    - label: Body
+      name: body
+      required: false
+      widget: markdown
+    - choose_url: false
+      label: Card Header Image
+      name: card_header_image
+      required: false
+      widget: image
+    - collection: author-profile
+      display_fields:
+      - username
+      - name
+      label: Author(s)
+      multiple: true
+      name: authors
+      required: false
+      search_fields:
+      - username
+      - name
+      value_field: username
+      widget: relation
+    - label: Patch
+      name: patch
+      required: false
+      widget: string
+    - date_format: YYYY-MM-DD
+      label: Last Updated
+      name: lastmod
+      required: false
+      time_format: false
+      widget: datetime
+    - fields:
+      - date_format: YYYY-MM-DD
+        label: Date
+        name: date
+        required: false
+        time_format: false
+        widget: datetime
+      - label: Message
+        name: message
+        required: false
+        widget: string
+      label: Changelog Entry
+      name: changelog
+      required: false
+      summary: '{{fields.date}}: {{fields.message}}'
+      widget: list
+    - label: SEO Description
+      name: description
+      required: false
+      widget: string
+    - collection: seo-tags
+      label: SEO Tags (only the first six can be used)
+      multiple: true
+      name: tags
+      required: false
+      search_fields:
+      - tag
+      - description
+      value_field: tag
+      widget: relation
+    file: content/jobs/tanks/gunbreaker/intermediate-guide.md
+    label: Intermediate Guide
+    name: intermediate-guide
   - fields:
     - label: Title
       name: title
@@ -4132,6 +4412,76 @@ collections:
       - description
       value_field: tag
       widget: relation
+    file: content/jobs/healers/scholar/intermediate-guide.md
+    label: Intermediate Guide
+    name: intermediate-guide
+  - fields:
+    - label: Title
+      name: title
+      required: false
+      widget: string
+    - label: Body
+      name: body
+      required: false
+      widget: markdown
+    - choose_url: false
+      label: Card Header Image
+      name: card_header_image
+      required: false
+      widget: image
+    - collection: author-profile
+      display_fields:
+      - username
+      - name
+      label: Author(s)
+      multiple: true
+      name: authors
+      required: false
+      search_fields:
+      - username
+      - name
+      value_field: username
+      widget: relation
+    - label: Patch
+      name: patch
+      required: false
+      widget: string
+    - date_format: YYYY-MM-DD
+      label: Last Updated
+      name: lastmod
+      required: false
+      time_format: false
+      widget: datetime
+    - fields:
+      - date_format: YYYY-MM-DD
+        label: Date
+        name: date
+        required: false
+        time_format: false
+        widget: datetime
+      - label: Message
+        name: message
+        required: false
+        widget: string
+      label: Changelog Entry
+      name: changelog
+      required: false
+      summary: '{{fields.date}}: {{fields.message}}'
+      widget: list
+    - label: SEO Description
+      name: description
+      required: false
+      widget: string
+    - collection: seo-tags
+      label: SEO Tags (only the first six can be used)
+      multiple: true
+      name: tags
+      required: false
+      search_fields:
+      - tag
+      - description
+      value_field: tag
+      widget: relation
     file: content/jobs/healers/scholar/advanced-guide.md
     label: Advanced Guide
     name: advanced-guide
@@ -4764,6 +5114,76 @@ collections:
     file: content/jobs/healers/white-mage/faq.md
     label: Frequently Asked Questions
     name: faq
+  - fields:
+    - label: Title
+      name: title
+      required: false
+      widget: string
+    - label: Body
+      name: body
+      required: false
+      widget: markdown
+    - choose_url: false
+      label: Card Header Image
+      name: card_header_image
+      required: false
+      widget: image
+    - collection: author-profile
+      display_fields:
+      - username
+      - name
+      label: Author(s)
+      multiple: true
+      name: authors
+      required: false
+      search_fields:
+      - username
+      - name
+      value_field: username
+      widget: relation
+    - label: Patch
+      name: patch
+      required: false
+      widget: string
+    - date_format: YYYY-MM-DD
+      label: Last Updated
+      name: lastmod
+      required: false
+      time_format: false
+      widget: datetime
+    - fields:
+      - date_format: YYYY-MM-DD
+        label: Date
+        name: date
+        required: false
+        time_format: false
+        widget: datetime
+      - label: Message
+        name: message
+        required: false
+        widget: string
+      label: Changelog Entry
+      name: changelog
+      required: false
+      summary: '{{fields.date}}: {{fields.message}}'
+      widget: list
+    - label: SEO Description
+      name: description
+      required: false
+      widget: string
+    - collection: seo-tags
+      label: SEO Tags (only the first six can be used)
+      multiple: true
+      name: tags
+      required: false
+      search_fields:
+      - tag
+      - description
+      value_field: tag
+      widget: relation
+    file: content/jobs/healers/white-mage/intermediate-guide.md
+    label: Intermediate Guide
+    name: intermediate-guide
   - fields:
     - label: Title
       name: title
@@ -5530,6 +5950,76 @@ collections:
       - description
       value_field: tag
       widget: relation
+    file: content/jobs/healers/astrologian/intermediate-guide.md
+    label: Intermediate Guide
+    name: intermediate-guide
+  - fields:
+    - label: Title
+      name: title
+      required: false
+      widget: string
+    - label: Body
+      name: body
+      required: false
+      widget: markdown
+    - choose_url: false
+      label: Card Header Image
+      name: card_header_image
+      required: false
+      widget: image
+    - collection: author-profile
+      display_fields:
+      - username
+      - name
+      label: Author(s)
+      multiple: true
+      name: authors
+      required: false
+      search_fields:
+      - username
+      - name
+      value_field: username
+      widget: relation
+    - label: Patch
+      name: patch
+      required: false
+      widget: string
+    - date_format: YYYY-MM-DD
+      label: Last Updated
+      name: lastmod
+      required: false
+      time_format: false
+      widget: datetime
+    - fields:
+      - date_format: YYYY-MM-DD
+        label: Date
+        name: date
+        required: false
+        time_format: false
+        widget: datetime
+      - label: Message
+        name: message
+        required: false
+        widget: string
+      label: Changelog Entry
+      name: changelog
+      required: false
+      summary: '{{fields.date}}: {{fields.message}}'
+      widget: list
+    - label: SEO Description
+      name: description
+      required: false
+      widget: string
+    - collection: seo-tags
+      label: SEO Tags (only the first six can be used)
+      multiple: true
+      name: tags
+      required: false
+      search_fields:
+      - tag
+      - description
+      value_field: tag
+      widget: relation
     file: content/jobs/healers/astrologian/advanced-guide.md
     label: Advanced Guide
     name: advanced-guide
@@ -6162,6 +6652,76 @@ collections:
     file: content/jobs/healers/sage/faq.md
     label: Frequently Asked Questions
     name: faq
+  - fields:
+    - label: Title
+      name: title
+      required: false
+      widget: string
+    - label: Body
+      name: body
+      required: false
+      widget: markdown
+    - choose_url: false
+      label: Card Header Image
+      name: card_header_image
+      required: false
+      widget: image
+    - collection: author-profile
+      display_fields:
+      - username
+      - name
+      label: Author(s)
+      multiple: true
+      name: authors
+      required: false
+      search_fields:
+      - username
+      - name
+      value_field: username
+      widget: relation
+    - label: Patch
+      name: patch
+      required: false
+      widget: string
+    - date_format: YYYY-MM-DD
+      label: Last Updated
+      name: lastmod
+      required: false
+      time_format: false
+      widget: datetime
+    - fields:
+      - date_format: YYYY-MM-DD
+        label: Date
+        name: date
+        required: false
+        time_format: false
+        widget: datetime
+      - label: Message
+        name: message
+        required: false
+        widget: string
+      label: Changelog Entry
+      name: changelog
+      required: false
+      summary: '{{fields.date}}: {{fields.message}}'
+      widget: list
+    - label: SEO Description
+      name: description
+      required: false
+      widget: string
+    - collection: seo-tags
+      label: SEO Tags (only the first six can be used)
+      multiple: true
+      name: tags
+      required: false
+      search_fields:
+      - tag
+      - description
+      value_field: tag
+      widget: relation
+    file: content/jobs/healers/sage/intermediate-guide.md
+    label: Intermediate Guide
+    name: intermediate-guide
   - fields:
     - label: Title
       name: title
@@ -6928,6 +7488,76 @@ collections:
       - description
       value_field: tag
       widget: relation
+    file: content/jobs/melee/monk/intermediate-guide.md
+    label: Intermediate Guide
+    name: intermediate-guide
+  - fields:
+    - label: Title
+      name: title
+      required: false
+      widget: string
+    - label: Body
+      name: body
+      required: false
+      widget: markdown
+    - choose_url: false
+      label: Card Header Image
+      name: card_header_image
+      required: false
+      widget: image
+    - collection: author-profile
+      display_fields:
+      - username
+      - name
+      label: Author(s)
+      multiple: true
+      name: authors
+      required: false
+      search_fields:
+      - username
+      - name
+      value_field: username
+      widget: relation
+    - label: Patch
+      name: patch
+      required: false
+      widget: string
+    - date_format: YYYY-MM-DD
+      label: Last Updated
+      name: lastmod
+      required: false
+      time_format: false
+      widget: datetime
+    - fields:
+      - date_format: YYYY-MM-DD
+        label: Date
+        name: date
+        required: false
+        time_format: false
+        widget: datetime
+      - label: Message
+        name: message
+        required: false
+        widget: string
+      label: Changelog Entry
+      name: changelog
+      required: false
+      summary: '{{fields.date}}: {{fields.message}}'
+      widget: list
+    - label: SEO Description
+      name: description
+      required: false
+      widget: string
+    - collection: seo-tags
+      label: SEO Tags (only the first six can be used)
+      multiple: true
+      name: tags
+      required: false
+      search_fields:
+      - tag
+      - description
+      value_field: tag
+      widget: relation
     file: content/jobs/melee/monk/advanced-guide.md
     label: Advanced Guide
     name: advanced-guide
@@ -7560,6 +8190,76 @@ collections:
     file: content/jobs/melee/dragoon/faq.md
     label: Frequently Asked Questions
     name: faq
+  - fields:
+    - label: Title
+      name: title
+      required: false
+      widget: string
+    - label: Body
+      name: body
+      required: false
+      widget: markdown
+    - choose_url: false
+      label: Card Header Image
+      name: card_header_image
+      required: false
+      widget: image
+    - collection: author-profile
+      display_fields:
+      - username
+      - name
+      label: Author(s)
+      multiple: true
+      name: authors
+      required: false
+      search_fields:
+      - username
+      - name
+      value_field: username
+      widget: relation
+    - label: Patch
+      name: patch
+      required: false
+      widget: string
+    - date_format: YYYY-MM-DD
+      label: Last Updated
+      name: lastmod
+      required: false
+      time_format: false
+      widget: datetime
+    - fields:
+      - date_format: YYYY-MM-DD
+        label: Date
+        name: date
+        required: false
+        time_format: false
+        widget: datetime
+      - label: Message
+        name: message
+        required: false
+        widget: string
+      label: Changelog Entry
+      name: changelog
+      required: false
+      summary: '{{fields.date}}: {{fields.message}}'
+      widget: list
+    - label: SEO Description
+      name: description
+      required: false
+      widget: string
+    - collection: seo-tags
+      label: SEO Tags (only the first six can be used)
+      multiple: true
+      name: tags
+      required: false
+      search_fields:
+      - tag
+      - description
+      value_field: tag
+      widget: relation
+    file: content/jobs/melee/dragoon/intermediate-guide.md
+    label: Intermediate Guide
+    name: intermediate-guide
   - fields:
     - label: Title
       name: title
@@ -8326,6 +9026,76 @@ collections:
       - description
       value_field: tag
       widget: relation
+    file: content/jobs/melee/ninja/intermediate-guide.md
+    label: Intermediate Guide
+    name: intermediate-guide
+  - fields:
+    - label: Title
+      name: title
+      required: false
+      widget: string
+    - label: Body
+      name: body
+      required: false
+      widget: markdown
+    - choose_url: false
+      label: Card Header Image
+      name: card_header_image
+      required: false
+      widget: image
+    - collection: author-profile
+      display_fields:
+      - username
+      - name
+      label: Author(s)
+      multiple: true
+      name: authors
+      required: false
+      search_fields:
+      - username
+      - name
+      value_field: username
+      widget: relation
+    - label: Patch
+      name: patch
+      required: false
+      widget: string
+    - date_format: YYYY-MM-DD
+      label: Last Updated
+      name: lastmod
+      required: false
+      time_format: false
+      widget: datetime
+    - fields:
+      - date_format: YYYY-MM-DD
+        label: Date
+        name: date
+        required: false
+        time_format: false
+        widget: datetime
+      - label: Message
+        name: message
+        required: false
+        widget: string
+      label: Changelog Entry
+      name: changelog
+      required: false
+      summary: '{{fields.date}}: {{fields.message}}'
+      widget: list
+    - label: SEO Description
+      name: description
+      required: false
+      widget: string
+    - collection: seo-tags
+      label: SEO Tags (only the first six can be used)
+      multiple: true
+      name: tags
+      required: false
+      search_fields:
+      - tag
+      - description
+      value_field: tag
+      widget: relation
     file: content/jobs/melee/ninja/advanced-guide.md
     label: Advanced Guide
     name: advanced-guide
@@ -8958,6 +9728,76 @@ collections:
     file: content/jobs/melee/samurai/faq.md
     label: Frequently Asked Questions
     name: faq
+  - fields:
+    - label: Title
+      name: title
+      required: false
+      widget: string
+    - label: Body
+      name: body
+      required: false
+      widget: markdown
+    - choose_url: false
+      label: Card Header Image
+      name: card_header_image
+      required: false
+      widget: image
+    - collection: author-profile
+      display_fields:
+      - username
+      - name
+      label: Author(s)
+      multiple: true
+      name: authors
+      required: false
+      search_fields:
+      - username
+      - name
+      value_field: username
+      widget: relation
+    - label: Patch
+      name: patch
+      required: false
+      widget: string
+    - date_format: YYYY-MM-DD
+      label: Last Updated
+      name: lastmod
+      required: false
+      time_format: false
+      widget: datetime
+    - fields:
+      - date_format: YYYY-MM-DD
+        label: Date
+        name: date
+        required: false
+        time_format: false
+        widget: datetime
+      - label: Message
+        name: message
+        required: false
+        widget: string
+      label: Changelog Entry
+      name: changelog
+      required: false
+      summary: '{{fields.date}}: {{fields.message}}'
+      widget: list
+    - label: SEO Description
+      name: description
+      required: false
+      widget: string
+    - collection: seo-tags
+      label: SEO Tags (only the first six can be used)
+      multiple: true
+      name: tags
+      required: false
+      search_fields:
+      - tag
+      - description
+      value_field: tag
+      widget: relation
+    file: content/jobs/melee/samurai/intermediate-guide.md
+    label: Intermediate Guide
+    name: intermediate-guide
   - fields:
     - label: Title
       name: title
@@ -9724,6 +10564,76 @@ collections:
       - description
       value_field: tag
       widget: relation
+    file: content/jobs/melee/reaper/intermediate-guide.md
+    label: Intermediate Guide
+    name: intermediate-guide
+  - fields:
+    - label: Title
+      name: title
+      required: false
+      widget: string
+    - label: Body
+      name: body
+      required: false
+      widget: markdown
+    - choose_url: false
+      label: Card Header Image
+      name: card_header_image
+      required: false
+      widget: image
+    - collection: author-profile
+      display_fields:
+      - username
+      - name
+      label: Author(s)
+      multiple: true
+      name: authors
+      required: false
+      search_fields:
+      - username
+      - name
+      value_field: username
+      widget: relation
+    - label: Patch
+      name: patch
+      required: false
+      widget: string
+    - date_format: YYYY-MM-DD
+      label: Last Updated
+      name: lastmod
+      required: false
+      time_format: false
+      widget: datetime
+    - fields:
+      - date_format: YYYY-MM-DD
+        label: Date
+        name: date
+        required: false
+        time_format: false
+        widget: datetime
+      - label: Message
+        name: message
+        required: false
+        widget: string
+      label: Changelog Entry
+      name: changelog
+      required: false
+      summary: '{{fields.date}}: {{fields.message}}'
+      widget: list
+    - label: SEO Description
+      name: description
+      required: false
+      widget: string
+    - collection: seo-tags
+      label: SEO Tags (only the first six can be used)
+      multiple: true
+      name: tags
+      required: false
+      search_fields:
+      - tag
+      - description
+      value_field: tag
+      widget: relation
     file: content/jobs/melee/reaper/advanced-guide.md
     label: Advanced Guide
     name: advanced-guide
@@ -10356,6 +11266,76 @@ collections:
     file: content/jobs/melee/viper/faq.md
     label: Frequently Asked Questions
     name: faq
+  - fields:
+    - label: Title
+      name: title
+      required: false
+      widget: string
+    - label: Body
+      name: body
+      required: false
+      widget: markdown
+    - choose_url: false
+      label: Card Header Image
+      name: card_header_image
+      required: false
+      widget: image
+    - collection: author-profile
+      display_fields:
+      - username
+      - name
+      label: Author(s)
+      multiple: true
+      name: authors
+      required: false
+      search_fields:
+      - username
+      - name
+      value_field: username
+      widget: relation
+    - label: Patch
+      name: patch
+      required: false
+      widget: string
+    - date_format: YYYY-MM-DD
+      label: Last Updated
+      name: lastmod
+      required: false
+      time_format: false
+      widget: datetime
+    - fields:
+      - date_format: YYYY-MM-DD
+        label: Date
+        name: date
+        required: false
+        time_format: false
+        widget: datetime
+      - label: Message
+        name: message
+        required: false
+        widget: string
+      label: Changelog Entry
+      name: changelog
+      required: false
+      summary: '{{fields.date}}: {{fields.message}}'
+      widget: list
+    - label: SEO Description
+      name: description
+      required: false
+      widget: string
+    - collection: seo-tags
+      label: SEO Tags (only the first six can be used)
+      multiple: true
+      name: tags
+      required: false
+      search_fields:
+      - tag
+      - description
+      value_field: tag
+      widget: relation
+    file: content/jobs/melee/viper/intermediate-guide.md
+    label: Intermediate Guide
+    name: intermediate-guide
   - fields:
     - label: Title
       name: title
@@ -11122,6 +12102,76 @@ collections:
       - description
       value_field: tag
       widget: relation
+    file: content/jobs/ranged/bard/intermediate-guide.md
+    label: Intermediate Guide
+    name: intermediate-guide
+  - fields:
+    - label: Title
+      name: title
+      required: false
+      widget: string
+    - label: Body
+      name: body
+      required: false
+      widget: markdown
+    - choose_url: false
+      label: Card Header Image
+      name: card_header_image
+      required: false
+      widget: image
+    - collection: author-profile
+      display_fields:
+      - username
+      - name
+      label: Author(s)
+      multiple: true
+      name: authors
+      required: false
+      search_fields:
+      - username
+      - name
+      value_field: username
+      widget: relation
+    - label: Patch
+      name: patch
+      required: false
+      widget: string
+    - date_format: YYYY-MM-DD
+      label: Last Updated
+      name: lastmod
+      required: false
+      time_format: false
+      widget: datetime
+    - fields:
+      - date_format: YYYY-MM-DD
+        label: Date
+        name: date
+        required: false
+        time_format: false
+        widget: datetime
+      - label: Message
+        name: message
+        required: false
+        widget: string
+      label: Changelog Entry
+      name: changelog
+      required: false
+      summary: '{{fields.date}}: {{fields.message}}'
+      widget: list
+    - label: SEO Description
+      name: description
+      required: false
+      widget: string
+    - collection: seo-tags
+      label: SEO Tags (only the first six can be used)
+      multiple: true
+      name: tags
+      required: false
+      search_fields:
+      - tag
+      - description
+      value_field: tag
+      widget: relation
     file: content/jobs/ranged/bard/advanced-guide.md
     label: Advanced Guide
     name: advanced-guide
@@ -11754,6 +12804,76 @@ collections:
     file: content/jobs/ranged/machinist/faq.md
     label: Frequently Asked Questions
     name: faq
+  - fields:
+    - label: Title
+      name: title
+      required: false
+      widget: string
+    - label: Body
+      name: body
+      required: false
+      widget: markdown
+    - choose_url: false
+      label: Card Header Image
+      name: card_header_image
+      required: false
+      widget: image
+    - collection: author-profile
+      display_fields:
+      - username
+      - name
+      label: Author(s)
+      multiple: true
+      name: authors
+      required: false
+      search_fields:
+      - username
+      - name
+      value_field: username
+      widget: relation
+    - label: Patch
+      name: patch
+      required: false
+      widget: string
+    - date_format: YYYY-MM-DD
+      label: Last Updated
+      name: lastmod
+      required: false
+      time_format: false
+      widget: datetime
+    - fields:
+      - date_format: YYYY-MM-DD
+        label: Date
+        name: date
+        required: false
+        time_format: false
+        widget: datetime
+      - label: Message
+        name: message
+        required: false
+        widget: string
+      label: Changelog Entry
+      name: changelog
+      required: false
+      summary: '{{fields.date}}: {{fields.message}}'
+      widget: list
+    - label: SEO Description
+      name: description
+      required: false
+      widget: string
+    - collection: seo-tags
+      label: SEO Tags (only the first six can be used)
+      multiple: true
+      name: tags
+      required: false
+      search_fields:
+      - tag
+      - description
+      value_field: tag
+      widget: relation
+    file: content/jobs/ranged/machinist/intermediate-guide.md
+    label: Intermediate Guide
+    name: intermediate-guide
   - fields:
     - label: Title
       name: title
@@ -12520,6 +13640,76 @@ collections:
       - description
       value_field: tag
       widget: relation
+    file: content/jobs/ranged/dancer/intermediate-guide.md
+    label: Intermediate Guide
+    name: intermediate-guide
+  - fields:
+    - label: Title
+      name: title
+      required: false
+      widget: string
+    - label: Body
+      name: body
+      required: false
+      widget: markdown
+    - choose_url: false
+      label: Card Header Image
+      name: card_header_image
+      required: false
+      widget: image
+    - collection: author-profile
+      display_fields:
+      - username
+      - name
+      label: Author(s)
+      multiple: true
+      name: authors
+      required: false
+      search_fields:
+      - username
+      - name
+      value_field: username
+      widget: relation
+    - label: Patch
+      name: patch
+      required: false
+      widget: string
+    - date_format: YYYY-MM-DD
+      label: Last Updated
+      name: lastmod
+      required: false
+      time_format: false
+      widget: datetime
+    - fields:
+      - date_format: YYYY-MM-DD
+        label: Date
+        name: date
+        required: false
+        time_format: false
+        widget: datetime
+      - label: Message
+        name: message
+        required: false
+        widget: string
+      label: Changelog Entry
+      name: changelog
+      required: false
+      summary: '{{fields.date}}: {{fields.message}}'
+      widget: list
+    - label: SEO Description
+      name: description
+      required: false
+      widget: string
+    - collection: seo-tags
+      label: SEO Tags (only the first six can be used)
+      multiple: true
+      name: tags
+      required: false
+      search_fields:
+      - tag
+      - description
+      value_field: tag
+      widget: relation
     file: content/jobs/ranged/dancer/advanced-guide.md
     label: Advanced Guide
     name: advanced-guide
@@ -13152,6 +14342,76 @@ collections:
     file: content/jobs/casters/black-mage/faq.md
     label: Frequently Asked Questions
     name: faq
+  - fields:
+    - label: Title
+      name: title
+      required: false
+      widget: string
+    - label: Body
+      name: body
+      required: false
+      widget: markdown
+    - choose_url: false
+      label: Card Header Image
+      name: card_header_image
+      required: false
+      widget: image
+    - collection: author-profile
+      display_fields:
+      - username
+      - name
+      label: Author(s)
+      multiple: true
+      name: authors
+      required: false
+      search_fields:
+      - username
+      - name
+      value_field: username
+      widget: relation
+    - label: Patch
+      name: patch
+      required: false
+      widget: string
+    - date_format: YYYY-MM-DD
+      label: Last Updated
+      name: lastmod
+      required: false
+      time_format: false
+      widget: datetime
+    - fields:
+      - date_format: YYYY-MM-DD
+        label: Date
+        name: date
+        required: false
+        time_format: false
+        widget: datetime
+      - label: Message
+        name: message
+        required: false
+        widget: string
+      label: Changelog Entry
+      name: changelog
+      required: false
+      summary: '{{fields.date}}: {{fields.message}}'
+      widget: list
+    - label: SEO Description
+      name: description
+      required: false
+      widget: string
+    - collection: seo-tags
+      label: SEO Tags (only the first six can be used)
+      multiple: true
+      name: tags
+      required: false
+      search_fields:
+      - tag
+      - description
+      value_field: tag
+      widget: relation
+    file: content/jobs/casters/black-mage/intermediate-guide.md
+    label: Intermediate Guide
+    name: intermediate-guide
   - fields:
     - label: Title
       name: title
@@ -13918,6 +15178,76 @@ collections:
       - description
       value_field: tag
       widget: relation
+    file: content/jobs/casters/red-mage/intermediate-guide.md
+    label: Intermediate Guide
+    name: intermediate-guide
+  - fields:
+    - label: Title
+      name: title
+      required: false
+      widget: string
+    - label: Body
+      name: body
+      required: false
+      widget: markdown
+    - choose_url: false
+      label: Card Header Image
+      name: card_header_image
+      required: false
+      widget: image
+    - collection: author-profile
+      display_fields:
+      - username
+      - name
+      label: Author(s)
+      multiple: true
+      name: authors
+      required: false
+      search_fields:
+      - username
+      - name
+      value_field: username
+      widget: relation
+    - label: Patch
+      name: patch
+      required: false
+      widget: string
+    - date_format: YYYY-MM-DD
+      label: Last Updated
+      name: lastmod
+      required: false
+      time_format: false
+      widget: datetime
+    - fields:
+      - date_format: YYYY-MM-DD
+        label: Date
+        name: date
+        required: false
+        time_format: false
+        widget: datetime
+      - label: Message
+        name: message
+        required: false
+        widget: string
+      label: Changelog Entry
+      name: changelog
+      required: false
+      summary: '{{fields.date}}: {{fields.message}}'
+      widget: list
+    - label: SEO Description
+      name: description
+      required: false
+      widget: string
+    - collection: seo-tags
+      label: SEO Tags (only the first six can be used)
+      multiple: true
+      name: tags
+      required: false
+      search_fields:
+      - tag
+      - description
+      value_field: tag
+      widget: relation
     file: content/jobs/casters/red-mage/advanced-guide.md
     label: Advanced Guide
     name: advanced-guide
@@ -14617,6 +15947,76 @@ collections:
       - description
       value_field: tag
       widget: relation
+    file: content/jobs/casters/summoner/intermediate-guide.md
+    label: Intermediate Guide
+    name: intermediate-guide
+  - fields:
+    - label: Title
+      name: title
+      required: false
+      widget: string
+    - label: Body
+      name: body
+      required: false
+      widget: markdown
+    - choose_url: false
+      label: Card Header Image
+      name: card_header_image
+      required: false
+      widget: image
+    - collection: author-profile
+      display_fields:
+      - username
+      - name
+      label: Author(s)
+      multiple: true
+      name: authors
+      required: false
+      search_fields:
+      - username
+      - name
+      value_field: username
+      widget: relation
+    - label: Patch
+      name: patch
+      required: false
+      widget: string
+    - date_format: YYYY-MM-DD
+      label: Last Updated
+      name: lastmod
+      required: false
+      time_format: false
+      widget: datetime
+    - fields:
+      - date_format: YYYY-MM-DD
+        label: Date
+        name: date
+        required: false
+        time_format: false
+        widget: datetime
+      - label: Message
+        name: message
+        required: false
+        widget: string
+      label: Changelog Entry
+      name: changelog
+      required: false
+      summary: '{{fields.date}}: {{fields.message}}'
+      widget: list
+    - label: SEO Description
+      name: description
+      required: false
+      widget: string
+    - collection: seo-tags
+      label: SEO Tags (only the first six can be used)
+      multiple: true
+      name: tags
+      required: false
+      search_fields:
+      - tag
+      - description
+      value_field: tag
+      widget: relation
     file: content/jobs/casters/summoner/advanced-guide.md
     label: Advanced Guide
     name: advanced-guide
@@ -15249,6 +16649,76 @@ collections:
     file: content/jobs/casters/pictomancer/faq.md
     label: Frequently Asked Questions
     name: faq
+  - fields:
+    - label: Title
+      name: title
+      required: false
+      widget: string
+    - label: Body
+      name: body
+      required: false
+      widget: markdown
+    - choose_url: false
+      label: Card Header Image
+      name: card_header_image
+      required: false
+      widget: image
+    - collection: author-profile
+      display_fields:
+      - username
+      - name
+      label: Author(s)
+      multiple: true
+      name: authors
+      required: false
+      search_fields:
+      - username
+      - name
+      value_field: username
+      widget: relation
+    - label: Patch
+      name: patch
+      required: false
+      widget: string
+    - date_format: YYYY-MM-DD
+      label: Last Updated
+      name: lastmod
+      required: false
+      time_format: false
+      widget: datetime
+    - fields:
+      - date_format: YYYY-MM-DD
+        label: Date
+        name: date
+        required: false
+        time_format: false
+        widget: datetime
+      - label: Message
+        name: message
+        required: false
+        widget: string
+      label: Changelog Entry
+      name: changelog
+      required: false
+      summary: '{{fields.date}}: {{fields.message}}'
+      widget: list
+    - label: SEO Description
+      name: description
+      required: false
+      widget: string
+    - collection: seo-tags
+      label: SEO Tags (only the first six can be used)
+      multiple: true
+      name: tags
+      required: false
+      search_fields:
+      - tag
+      - description
+      value_field: tag
+      widget: relation
+    file: content/jobs/casters/pictomancer/intermediate-guide.md
+    label: Intermediate Guide
+    name: intermediate-guide
   - fields:
     - label: Title
       name: title
