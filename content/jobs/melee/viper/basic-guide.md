@@ -27,7 +27,7 @@ V﻿iper can be unlocked in Ul'dah from \[PLACEHOLDER - Will be updated when we 
 
 ## 1﻿.3 Skills Overview
 
-F﻿or a complete list of Viper skills and their tooltips, please see the [Skills Overview page](https://www.thebalanceffxiv.com/jobs/melee/viper/skills-overview/).
+F﻿or a complete list of Viper skills and their tooltips, please see the [Skills Overview](https://www.thebalanceffxiv.com/jobs/melee/viper/skills-overview/) page.
 
 # 2﻿. Viper Combos
 
@@ -48,6 +48,8 @@ Selecting Hunter’s Sting gives the player access to two combo finishers, Flank
 At first glance, this may seem like an overwhelming amount of things going on for one combo chain, but the combo finishers buffing a specific other finisher in the cycle makes this an extremely linear pattern. Players will always go through the cycle in the order of Flanksting Strike -> Hindsting Strike -> Flanksbane Fang -> Hindsbane Fang -> repeat from Flanksting Strike. 
 
 ![](/img/jobs/vpr/dwstcombo.png "Dual Wield ST Combo Flowchart")
+
+
 
 As shown in this flowchart (credit: Akashi), players will choose either Dread Fangs or Steel Fangs depending on if they need to reapply Noxious Gnash to begin the combo chain. 
 
@@ -93,14 +95,15 @@ The Twinblade AoE combo functions exactly like its single target counterpart. St
 
 V﻿iper has six abilities with positional requirements. Each positional increases the potency of its respective ability by +50 when successfully executed from the required direction.
 
-| Skill Name        | Positional |
-| ----------------- | ---------- |
-| Hunter's Coil     | Flank      |
-| Swiftskin's Coil  | Rear       |
-| Flanksting Strike | Flank      |
-| Flanksbane Fang   | Flank      |
-| Hindsting Strike  | Rear       |
-| Hindsbane Fang    | Rear       |
+| Icon | Skill Name        | Positional |
+|------|-------------------|------------|
+|   ![](https://cdn.discordapp.com/emojis/1248314759829393523.webp?size=160&quality=lossless)   | Hunter's Coil     | Flank      |
+|   ![](https://cdn.discordapp.com/emojis/1248314152582254684.webp?size=160&quality=lossless)   | Swiftskin's Coil  | Rear       |
+|   ![](https://cdn.discordapp.com/emojis/1249350833775186083.webp?size=160&quality=lossless)   | Flanksting Strike | Flank      |
+|   ![](https://cdn.discordapp.com/emojis/1248314644766920836.webp?size=160&quality=lossless)   | Flanksbane Fang   | Flank      |
+|   ![](https://cdn.discordapp.com/emojis/1248314727675990046.webp?size=160&quality=lossless)   | Hindsting Strike  | Rear       |
+|   ![](https://cdn.discordapp.com/emojis/1248314706079387688.webp?size=160&quality=lossless)   | Hindsbane Fang    | Rear       |
+
 
 For the dual wield combo, both flank positionals will always follow Hunter’s Sting, while both rear positionals will always follow Swiftkin’s Sting. Due to the nature of the combos, players will always alternate rear/flanks during dual wield combos. Twinblade combos allow you to choose which positional you want to do first each time. 
 
