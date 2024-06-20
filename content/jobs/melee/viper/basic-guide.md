@@ -67,6 +67,8 @@ Dual wield AoE is much simpler, and has only six total buttons to choose from: t
 
 ![](/img/jobs/vpr/dwaoecombo.jpg "Dual Wield AoE Flowchart")
 
+Similarly to how the Viper's Sight gauge guides you through the single target version, the gauge also guides you through the correct buttons to press for the AoE version in order to hit the correct combo finisher.
+
 ## 2﻿.2 Doubleblade Combos
 
 Official localization calls these “doubleblade combos,” but that is confusing terminology when used with dual wield combos. For clarity they will be called twinblade combos instead. Twinblade combos execute actions using both swords attached at the hilts to form a single, double bladed weapon. Twinblade attacks have a longer GCD of 3.0s (2.55s with 15% haste buff), with no skill speed. Twinblade combo openers are on a 40s cooldown with two charges, and share a cooldown and charges with each other (i.e. using the single target combo opener also uses one charge of the AoE combo opener and vice versa). 
