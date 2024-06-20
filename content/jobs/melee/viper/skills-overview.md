@@ -8,7 +8,7 @@ changelog:
   - date: 2024-06-20T21:56:01.856Z
     message: Guide added to website
 ---
-# 1. Dual Wield Abilities
+# 1. Dual Wield Actions
 ## 1.1 Single Target
 
 | Icon | Name              | Type        | Recast/Haste Recast | Description                                                                                                                                                                                                                                                                                                                                                          |
@@ -35,7 +35,7 @@ changelog:
 |   ![](https://cdn.discordapp.com/emojis/1248314814141304975.webp?size=160&quality=lossless)   | Jagged Maw       | Weaponskill | 2.50s/2.12s         | Combo action that can be used after either Hunter's Bite or Swiftskin's Bite.<br>Deals a 200 potency attack to all nearby enemies.<br>Potency is increased to 250 under the effect of Grimhunter's Venom.<br>Grants Grimskin's Venom.<br>Increases the Serpent Offering gauge by 10.  |
 |   ![](https://cdn.discordapp.com/emojis/1248314837117702144.webp?size=160&quality=lossless)   | Last Lash        | Ability     | 1.00s               | Can only be executed after Jagged Maw or Bloodied Maw.<br>Delivers an attack with a potency of 150 to all nearby enemies.                                                                                                                                                             |
 
-# 2. Doubleblade Abilities (also known as Twinblade Abilities)
+# 2. Doubleblade Actions (also known as Twinblade Actions)
 ## 2.1 Single Target
 | Icon | Name             | Type        | Recast/Haste Recast | Description                                                                                                                                                                                                                                                                                                               |
 |------|------------------|-------------|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -54,7 +54,7 @@ changelog:
 |   ![](https://cdn.discordapp.com/emojis/1248314451778867231.webp?size=160&quality=lossless)   | Twinfang Thresh  | Ability     | 1.00s               | Can only be used after Hunter's Den or Swiftskin's Den.<br>Deals an attack with a potency of 50 to all nearby enemies.<br>Potency increases to 100 while under the effect of Fellhunter's Venom.<br>Grants Fellskin's Venom if used immediately after Hunter's Den.                                                                         |
 |   ![](https://cdn.discordapp.com/emojis/1248314383558512701.webp?size=160&quality=lossless)   | Twinblood Thresh | Ability     | 1.00s               | Can only be used after Hunter's Den or Swiftskin's Den.<br>Deals an attack with a potency of 50 to all nearby enemies.<br>Potency increases to 100 while under the effect of Fellskin's Venom.<br>Grants Fellhunter's Venom if used immediately after Swiftskin's Den.                                                                      |
 
-# 3. Reawaken Abilities
+# 3. Reawaken Actions
 | Icon | Name              | Type        | Recast/Haste Recast | Description                                                                                                                                                                                                                    |
 |------|-------------------|-------------|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   ![](https://cdn.discordapp.com/emojis/1248314900569260155.webp?size=160&quality=lossless)   | Reawaken          | Weaponskill | 2.20s/1.87s         | Deals an attack with a potency of 600 to all nearby enemies.<br>Grants 5 stacks of Anguine Tribute. Stacks expire if not spent within 30s of using Reawaken.<br>Costs 50 Serpent Offerings to use.                             |
@@ -68,7 +68,7 @@ changelog:
 |   ![](https://cdn.discordapp.com/emojis/1248314682100551732.webp?size=160&quality=lossless)   | Fourth Legacy     | Ability     | 1.00s               | Can only be used after Fourth Generation. <br>Deals an attack with a potency of 350 to target an all nearby enemies.                                                                                                           |
 |   ![](https://cdn.discordapp.com/emojis/1248314854847156244.webp?size=160&quality=lossless)   | Ouroboros         | Weaponskill | 3.00s/2.55s         | Deals an attack with a potency of 1000 to target and all nearby enemies.<br>Requires at least one Anguine Tribute stack and consumes all remaining stacks, ending Reawakened upon use.                                         |
 
-# 4. Other Abilities
+# 4. Other Viper Actions
 | Icon | Name               | Type        | Recast/Haste Recast | Description                                                                                                                                                                                                                |
 |------|--------------------|-------------|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   ![](https://cdn.discordapp.com/emojis/1248314476110024836.webp?size=160&quality=lossless)   | Uncoiled Fury      | Weaponskill | 3.5s/2.97s          | Deal a ranged attack with a potency of 500 to target and all nearby enemies.<br>Costs 1 Rattling Coil.<br>Grants Poised for Twinfang.                                                                                      |
@@ -77,3 +77,13 @@ changelog:
 |   ![](https://cdn.discordapp.com/emojis/1248314502089539615.webp?size=160&quality=lossless)   | Writhing Snap      | Weaponskill | 2.5s/2.12s          | Deals a ranged attack with a potency of 200.                                                                                                                                                                               |
 |   ![](https://cdn.discordapp.com/emojis/1248315038071263325.webp?size=160&quality=lossless)   | Slither            | Ability     | 1.00s               | Dash to target enemy or party member.<br>3 max charges, 30 second recharge time.<br>Cannot be used while bound.                                                                                                            |
 |   ![](https://cdn.discordapp.com/emojis/1248314997281652767.webp?size=160&quality=lossless)   | Serpent's Ire      | Ability     | 120s                | Grants 1 Rattling Coil.<br>Grants Ready to Reawaken for 30 seconds.<br>Ready to Reawaken allows for Reawaken to be used without Serpents Offering cost.                                                                    |
+
+## 5. Role Actions
+| Icon | Name         | Type    | Recast/Haste Recast | Description                                                                                                                                       |
+|------|--------------|---------|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+|   ![](https://xivapi.com/i/000000/000830_hr1.png)   | True North   | Ability | 1.00s               | Nullifies positonal requirements for 10 seconds.<br>2 max charges, 45 second recharge time.                                                       |
+|   ![](https://xivapi.com/i/000000/000828_hr1.png)   | Feint        | Ability | 90s                 | Reduces target's physical damage dealt by 10% and magical damage dealt by 5% for 15 seconds.                                                      |
+|   ![](https://xivapi.com/i/000000/000823_hr1.png)   | Bloodbath    | Ability | 90s                 | Heals player based on a portion of physical damage dealt for 20 seconds.                                                                          |
+|   ![](https://xivapi.com/i/000000/000821_hr1.png)   | Second Wind  | Ability | 120s                | Heals player for 800 potency.                                                                                                                     |
+|   ![](https://xivapi.com/i/000000/000822_hr1.png)   | Arm's Length | Ability | 120s                | Nullifies most knockback or draw in effects for 6 seconds.<br>Applies a 20% slow debuff to enemies who attack player that are not immune to slow. |
+|   ![](https://xivapi.com/i/000000/000824_hr1.png)   | Leg Sweep    | Ability | 40s                 | Stuns target for 3 seconds. <br>Stun duration becomes shorter and shorter until target is immune if target has been stunned recently.             |
