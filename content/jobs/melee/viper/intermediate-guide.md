@@ -49,23 +49,28 @@ The simplest way to set up your dual wield combo for an upcoming two minute burs
 
 There are three primary variations of our burst that we will use for most situations:
 
-1. **Standard Double Reawaken**
+* **Standard Double Reawaken**
 
-   * This Double Reawaken variant is the standard burst window for putting maximum potency in party buffs. It uses a GCD between Ire and Reawaken, and is performed by using Serpent’s Ire on cooldown, then using the next dual wield combo GCD, then immediately using two full Reawakens back to back. This delays the entire burst sequence by one GCD, without delaying Ire to do so. This allows for an extra Reawaken ability in party buffs. 
-   * This sequence should almost always be done during standard gameplay. 
-   * It also assumes that the most recent combo finisher was completed after the most recent twinblade combo. Attempting to do this window without meeting this condition will result in the combo finisher buff dropping.
-   * ![](/img/jobs/vpr/standarddoublev1.png)
-2. **Finisher-Split Double Reawaken**
+  * This Double Reawaken variant is the standard burst window for putting maximum potency in party buffs. It uses a GCD between Ire and Reawaken, and is performed by using Serpent’s Ire on cooldown, then using the next dual wield combo GCD, then immediately using two full Reawakens back to back. This delays the entire burst sequence by one GCD, without delaying Ire to do so. This allows for an extra Reawaken ability in party buffs. 
+  * This sequence should almost always be done during standard gameplay. 
+  * It also assumes that the most recent combo finisher was completed after the most recent twinblade combo. Attempting to do this window without meeting this condition will result in the combo finisher buff dropping.
 
-   * This Double Reawaken can only be executed if there is an active dual wield combo chain, and the next GCD in the chain is any of the four combo finishers. A buffed combo finisher plus Death Rattle has equal potency to a Generation plus Legacy from the Reawaken window. This window is performed by using Serpent’s Ire on cooldown, and following it immediately with the first Reawaken. After using Ouroboros, use the active combo finisher and Death Rattle, then immediately enter Reawaken again. 
-   * Finisher-Split Double Reawaken delays the second Reawaken by one GCD. This window should only be used as a last resort if the combo finisher buff would fall off before the end of the second Reawaken. It is best to avoid this window if possible by managing twinblade and dual wield combos properly, but is an option if this is not possible for whatever reason. 
-   * ![](/img/jobs/vpr/finishersplitdoublev1.png)
-3. **Immediate Double Reawaken**
+![](/img/jobs/vpr/standarddoublev1.png)
 
-   * This Double Reawaken variant starts the first Reawaken immediately after Ire, and uses no fillers between Reawakens. Serpent’s Ire is used off cooldown, directly followed by the first Reawaken of this window. After completing the first Reawaken, immediately enter and complete the second Reawaken. 
-   * This window can be used as a means of getting more potency out before the end of a fight or before the end of phase. However, it should not be used regularly as the party buff contribution of this window is lower.
-   * This sequence assumes that the most recent combo finisher was completed after the most recent twinblade combo. Attempting to do this window without meeting this condition will result in the combo finisher buff dropping.
-   * ![](/img/jobs/vpr/immediatedoublev1.png)
+* **Finisher-Split Double Reawaken**
+
+  * This Double Reawaken can only be executed if there is an active dual wield combo chain, and the next GCD in the chain is any of the four combo finishers. A buffed combo finisher plus Death Rattle has equal potency to a Generation plus Legacy from the Reawaken window. This window is performed by using Serpent’s Ire on cooldown, and following it immediately with the first Reawaken. After using Ouroboros, use the active combo finisher and Death Rattle, then immediately enter Reawaken again. 
+  * Finisher-Split Double Reawaken delays the second Reawaken by one GCD. This window should only be used as a last resort if the combo finisher buff would fall off before the end of the second Reawaken. It is best to avoid this window if possible by managing twinblade and dual wield combos properly, but is an option if this is not possible for whatever reason. 
+
+![](/img/jobs/vpr/immediatedoublev1.png)
+
+* **Immediate Double Reawaken**
+
+  * This Double Reawaken variant starts the first Reawaken immediately after Ire, and uses no fillers between Reawakens. Serpent’s Ire is used off cooldown, directly followed by the first Reawaken of this window. After completing the first Reawaken, immediately enter and complete the second Reawaken. 
+  * This window can be used as a means of getting more potency out before the end of a fight or before the end of phase. However, it should not be used regularly as the party buff contribution of this window is lower.
+  * This sequence assumes that the most recent combo finisher was completed after the most recent twinblade combo. Attempting to do this window without meeting this condition will result in the combo finisher buff dropping.
+
+![](/img/jobs/vpr/immediatedoublev1.png)
 
 ## 2.2 Planning For Downtime
 
