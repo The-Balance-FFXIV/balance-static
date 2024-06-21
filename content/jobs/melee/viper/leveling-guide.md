@@ -5,11 +5,11 @@ authors:
   - Balance-VPR-Staff
 lastmod: 2024-06-17T23:32:14.858Z
 ---
-# TENTATIVE Viper Leveling Guide
+# Tentative Viper Leveling Guide
 
 - - -
 
-**THIS GUIDE WAS WRITTEN PRIOR TO THE FULL RELEASE OF DAWNTRAIL. READ AT YOUR OWN RISK.**
+**THIS WAS WRITTEN PRIOR TO THE FULL RELEASE OF DAWNTRAIL. READ AT YOUR OWN RISK.**
 
 This guide was written to inform players who are seeking to, or are currently levelling Viper. The guide aims to inform players about how to initially play as Viper, what gear they should use while levelling and where to find it, the key basics of the job, as well as some example openers for lower levels. If you are already a level 100 Viper and are looking for information pertaining to the job at level 100, please see the Basic Viper Guide.
 
@@ -23,13 +23,13 @@ Once you obtain your job stone at level 80 after completing the quest “Insert 
 
 Viper is unlockable at level 80 for players who have purchased the Dawntrail expansion and have at least one combat job at level 80 or higher.
 
-The quest to unlock Viper, \[quest name here], can be found in Ul'dah (x0.0, y0.0), from the NPC \[insert name here].
+The quest to unlock Viper, \[TO BE UPDATED], can be found in Ul'dah (x?.?, y?.?), from the NPC \[TO BE UPDATED].
 
 ## Gearing
 
 Viper is a Scouting class and thus it shares gear with Ninja and uses Aiming accessories.
 
-As the job starts at level 80 only gear above level 80 will be discussed in this section. Gearsets for content below level 80, such as Ultimates like UCoB, will be expanded upon in \[insert section here].
+As the job starts at level 80 only gear above level 80 will be discussed in this section. Gearsets for content below level 80, such as Ultimates like UCoB, will be expanded upon in a seperate section in the future.
 
 ### Level 80
 
@@ -41,7 +41,7 @@ It is recommended to purchase a combination of Ascension and Augmented Credendum
 
 ### Level 100
 
-Will update on Dawntrail release
+Will update on Dawntrail release.
 
 ### Stat Priority And Materia
 
@@ -133,6 +133,28 @@ The timer signifies the duration of the ‘Reawakened State’, however consumin
 
 Filler is defined by the sections of our rotation between our two minute burst windows. Since these burst windows are approximately 20 seconds long every two minutes, most of our time will be spent doing filler.
 
+#### Doubleblade Combo
+
+![](https://i.imgur.com/mDoDNEv.png)
+\
+The doubleblade combo can be started with either Dread Fangs or Steel Fangs, with the difference being that Dread Fangs applies and refreshes Noxious Gnash at the cost of being 100 potency less.
+
+The second GCD in the combo can be either Swiftskin's Sting or Hunter's Sting. Swiftskin's Sting applies and refreshes Swiftscaled, the haste buff, while Hunter's Sting applies and refreshes Hunter's Instinct, the damage buff. 
+
+Finally, after either Swiftskin's Sting or Hunter's Sting there will be a choice of two combo finishers. Both finishers have the same positional requirements and potency.
+
+If you simply push whichever button is is highlighted on your hotbar then your buffs will naturally be maintained, with the only buff you need to pay attention to being Noxious Gnash.
+
+#### Twinblade Combo
+
+![](https://i.imgur.com/kFSxVRA.png)
+\
+The twinblade combo starts with Dreadwinder, which applies and refreshes Noxious Gnash, but is restricted to two charges on a 40 second cooldown per charge. 
+
+Following Dreadwinder you can choose to either use Hunter's Coil or Swiftskin's Coil which apply and refresh Hunter's Instinct and Swiftscaled respectively, just like their doubleblade combo counterparts.
+
+#### Filler Continued
+
 Make sure between your burst windows you:
 
 * Use Dread Fangs to refresh Noxious Gnash when it has less than 20 seconds of duration remaining, and Dreadwinder will not be used during that time.
@@ -142,29 +164,27 @@ Make sure between your burst windows you:
 * Use Dreadwinder stacks on cooldown (unless you’re about to enter a two minute window).
 * Spend Rattling Coils between combos, ensuring no buffs fall off.
 
-# :: Openers & Rotation
+# Openers & Rotation
 
 ## Levels 70-74
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfK-izoZQEyYdaV_AemegjvEbqMEIJVi6gy0ktRAwUsFTtxXm4EELaPulIo4qlb4kWNSeHbhjCgiCZh9OayyQfWebG4dEpCI4Bbv-ebeHQlw07pz-rHcHlExPNfgYu9G3F2nAkpKXBEGrr22adHV6s_XpQP?key=NE5d9l2QP4SJ48pAlvVruA)
+![](https://i.imgur.com/4Y9Arhq.png)
 
 ## Levels 75-89
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdog5Zynfuu43k840PM8l_vItM-CjMTjSqArqUEkY0gGQfr-vPyg4pCvLiLk9YuJdzHg9HXq8umeOluAj-wYHTqNMBG982KbBLpC5Xupbm8oONlBnb6Nkhr-Xw_UOO1C_MlhI0XjxtqLLXslJjgvFM9IKq8?key=NE5d9l2QP4SJ48pAlvVruA)
+![](https://i.imgur.com/x3E2TSj.png)
 
 ## Levels 90-95
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeofKk40ulZSVMoU8GXHFkqXyWAW07D-5l7P_xjW84KHBX_bXTMaKJJ5OAesDWFPZxNTbebWOV8_UhGsqYJiV6-iCE2l86z0pdSFwZkKGSgKb_R6axg9-bi5e9xozZzTMhapWu0IUi01xSHLzAb2uqyDg3Y?key=NE5d9l2QP4SJ48pAlvVruA)
-
+![](https://i.imgur.com/EI2f2AD.png)
+\
 It is important to note that Uncoiled Fury is a damage loss until level 92, before it has follow-up oGCDs. Before level 92 players should only use Uncoiled Fury to maintain uptime when necessary.
 
-## Levels 96-99
+## Levels 96-100
 
-Will update on Dawntrail release
-
-## Levels 100
-
-Will update on Dawntrail release
+![](https://i.imgur.com/kjW9ExM.png)
+\
+Prior to level 100 you will not have access to the Reawaken Legacy oGCDs, however the opener and the rotation remain the same.
 
 ## Multi-Target (3+) Rotation
 
