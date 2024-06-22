@@ -16,7 +16,7 @@ description: Black Mage, Nonstandard, Non-standard
 ---
 *Written by Reina Leigh*
 
-*Last updated: Jun 22 2024*
+*Last updated: May 23 2024*
 
 # Prologue 
 
