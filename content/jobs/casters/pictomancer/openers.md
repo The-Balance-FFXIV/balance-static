@@ -10,7 +10,7 @@ changelog:
 ---
 # Openers
 
-The following are openers you can follow at the beginning of the fight to set up the rest of your rotation and burst windows. 
+The following are openers you can follow at the beginning of the fight to set up the rest of your rotation and burst windows. For more details about the opener, as well as the skills used within, please read the Basic Guide, by Eydis. (Link to guide and relevant section forthcoming)
 
 ## 9 Spell Single Muse Opener
 
