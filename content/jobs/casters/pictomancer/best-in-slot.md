@@ -26,6 +26,7 @@ bis:
 
 
       If you don't have the savage gear accessible for the above set, this old pre-savage set is a bit easier to obtain.
+    link: d37912d9-c40e-4d44-bcd7-4f640b2f7eaf
 authors:
   - Laille-Ormesaing
   - Balance-PCT-Staff
