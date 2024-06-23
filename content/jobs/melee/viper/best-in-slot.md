@@ -30,5 +30,6 @@ bis:
 
       Replace these gear pieces with higher iLvl pieces as you recieve them.
 authors:
+  - akashi
   - Balance-VPR-Staff
 ---
