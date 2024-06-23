@@ -33,9 +33,10 @@ menu:
 * Lyall
 
 
-## Frontend
+## Frontend / Graphics
 
 * Moth
+* Piyo
 
 ## Screenshot Credits
 
