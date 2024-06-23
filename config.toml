@@ -58,3 +58,6 @@ enableRobotsTXT = true
     name = 'Info'
     url = '#'
     weight = 60
+
+[markup.goldmark.renderer]
+  unsafe = true
