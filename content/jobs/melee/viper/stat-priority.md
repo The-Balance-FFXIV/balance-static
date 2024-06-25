@@ -1,7 +1,10 @@
 ---
 title: Viper Stat Priority
-patch: "6.55"
+patch: "7.0"
 lastmod: 2024-06-23T13:12:43.775Z
+changelog:
+  - date: 2024-06-25T23:52:23.313Z
+    message: Added article.
 authors:
   - Balance-VPR-Staff
 ---
