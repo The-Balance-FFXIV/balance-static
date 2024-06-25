@@ -23,7 +23,7 @@ Viper (VPR) is a fast-paced melee DPS that alternates between fast dual wield at
 
 ## 1﻿.2 Where to Unlock Viper
 
-V﻿iper can be unlocked in Ul'dah from \[PLACEHOLDER - Will be updated when we know the quest location]. Picking up the quest requires having at least one level 80 Disciple of War or Magic, as well as the purchase of the Dawntrail expansion. 
+V﻿iper can be unlocked in Ul'dah at from Worried Weaver at (X: 9.3, Y:9.2). The Quest is called "Enter the Viper," and picking it up requires having at least one level 80 Disciple of War or Magic, as well as the purchase of the Dawntrail expansion. 
 
 ## 1﻿.3 Skills Overview
 
@@ -131,8 +131,6 @@ T﻿he number to the right of the Anguine Tribute counter indicates the amount o
 Activating Reawaken turns Viper’s dual wield and twinblade combo actions into First, Second, Third, and Fourth Generation. Reawaken itself gets replaced with the Reawaken finisher, Ouroboros. Each hit of First through Fourth Generation grants access to an oGCD ability called First through Fourth Legacy that must be used after each respective Generation hit. This makes the full Reawaken combo as follows:
 
 ![](/img/jobs/vpr/viper-reawakened-sequence.png)
-
-
 
 The whole Reawaken combo takes 13.2s (11.22s with the 15% haste buff) with no skill speed, as Reawaken has a base recast of 2.2s, each Generation GCD has a base recast of 2s long, and Ouroboros has a base recast of 3.0.
 
