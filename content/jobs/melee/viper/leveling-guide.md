@@ -23,13 +23,13 @@ Once you obtain your job stone at level 80 after completing the quest \[Insert Q
 
 Viper is unlockable at level 80 for players who have purchased the Dawntrail expansion and have at least one combat job at level 80 or higher.
 
-The quest to unlock Viper, \[TO BE UPDATED], can be found in Ul'dah (x?.?, y?.?), from the NPC \[TO BE UPDATED].
+The quest to unlock Viper, "Enter the Viper", can be found in Ul'dah, Steps of Nald(x9.3, y9.2), from the Worried Weaver NPC.
 
 ## Gearing
 
 Viper is a Scouting class and thus it shares gear with Ninja and uses Aiming accessories.
 
-As the job starts at level 80 only gear above level 80 will be discussed in this section. Gearsets for content below level 80, such as Ultimates like UCoB, will be expanded upon in a seperate section in the future.
+As the job starts at level 80 only gear above level 80 will be discussed in this section. Gearsets for content below level 80, such as Ultimates like UCoB, will be expanded upon in a separate section in the future.
 
 ### Level 80
 
