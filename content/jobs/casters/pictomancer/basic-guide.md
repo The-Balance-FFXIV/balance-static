@@ -2,7 +2,7 @@
 title: Pictomancer Basic Guide
 lastmod: 2024-06-24T00:51:55.634Z
 ---
-**Putting It All Together**
+**Basic Overview**
 
 Let’s go over how the individual pieces of the Pictomancer kit fit together. We can broadly group the job’s mechanics into these subsystems:
 
@@ -18,15 +18,16 @@ Pictomancer has two primary combo foundations: “Palette” and “Motif”. Th
 
 Let’s start with spell combos and the **Palette Gauge** of Pictomancer. 
 
-<p id="gdcalert38" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image38.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert39">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![](/img/jobs/pct/how-palette-gauge-works-pct.png)
 
-![alt_text](images/image38.png "image_tooltip")
+<br>
+
+<br>
+
+**Basic Combo**
 
 <table>
-  <tr>
-   <td colspan="5" ><strong>Basic Combo</strong>
-   </td>
-  </tr>
+
   <tr>
    <td><strong>Fire in Red</strong>
    </td>
@@ -42,46 +43,33 @@ Let’s start with spell combos and the **Palette Gauge** of Pictomancer.
   <tr>
    <td>
 
-<p id="gdcalert39" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image39.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert40">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![](/img/jobs/pct/PCTFireInRed.png)
 
-<img src="images/image39.jpg" width="" alt="alt_text" title="image_tooltip">
 
-   </td>
-   <td><strong><code>></code></strong>
-   </td>
-   <td>
-
-<p id="gdcalert40" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image40.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert41">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<img src="images/image40.jpg" width="" alt="alt_text" title="image_tooltip">
 
    </td>
    <td><strong><code>></code></strong>
    </td>
    <td>
 
-<p id="gdcalert41" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image41.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert42">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![](/img/jobs/pct/PCTAeroInGreen.png)
 
-<img src="images/image41.jpg" width="" alt="alt_text" title="image_tooltip">
+
+
+   </td>
+   <td><strong><code>></code></strong>
+   </td>
+   <td>
+
+![](/img/jobs/pct/PCTWaterInBlue.png)
+
+
 
    </td>
   </tr>
 </table>
 
-<table>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+<br>
 
 **Fire in Red** > **Aero in Green** > **Water in Blue** is Pictomancer’s basic combo. The basic combo and its AoE counterpart generates 25 **Palette Gauge** and a **White Paint** charge. **Palette Gauge** is the main payoff for executing a basic combo and White Paint is used to cast **Holy in White**, the main resource used for movement. 
 
@@ -121,25 +109,19 @@ Subtractive will convert a stack of **White Paint** to **Black Paint**. If a cha
 
 </p>
 
+   </td>
+   <td><strong><code>></code></strong>
+   </td>
+   <td>
 
+![](/img/jobs/pct/PCTStoneInYellow.png)
 
    </td>
    <td><strong><code>></code></strong>
    </td>
    <td>
 
-<p id="gdcalert43" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image43.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert44">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<img src="images/image43.jpg" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-   <td><strong><code>></code></strong>
-   </td>
-   <td>
-
-<p id="gdcalert44" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image44.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert45">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<img src="images/image44.jpg" width="" alt="alt_text" title="image_tooltip">
+![](/img/jobs/pct/PCTThunderInMagenta.png)
 
    </td>
   </tr>
