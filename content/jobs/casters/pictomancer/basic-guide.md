@@ -103,11 +103,11 @@ Subtractive will convert a stack of **White Paint** to **Black Paint**. If a cha
   <tr>
    <td>
 
-<p id="gdcalert42" >
+
 
 ![](/img/jobs/pct/PCTBlizzardInCyan.png)
 
-</p>
+
 
    </td>
    <td><strong><code>></code></strong>
@@ -127,6 +127,8 @@ Subtractive will convert a stack of **White Paint** to **Black Paint**. If a cha
   </tr>
 </table>
 
+<br>
+
 The Subtractive Combo is significantly stronger than the basic combo. However both the Subtractive Combo and **Comet in Black** have a longer recast time than normal GCDs. This gets reduced under the effect of **Hyperphantasia** during **Starry Muse,** but we will go over that later. 
 
 Successfully executing the Subtractive Combo and its AoE counterpart won’t grant **Palette Gauge**, but it will grant a charge of **White Paint**. 
@@ -145,13 +147,13 @@ Now, let’s talk about each type of **Motif** and its related **Muse.**
 
 **Creature Motifs**
 
-<p id="gdcalert45" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image45.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert46">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![](/img/jobs/pct/PCTCreatureMotif.png)
 
-![alt_text](images/image45.jpg "image_tooltip")
+<br>
 
-<p id="gdcalert46" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image46.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert47">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![](/img/jobs/pct/motif-and-muse-order-pct.jpg)
 
-![alt_text](images/image46.png "image_tooltip")
+<br>
 
 There are four **Creature Motifs** that must be used in the order of **Pom** > **Wing** > **Claw** > **Maw**. **Creature Motifs** grant the ability to use **Living Muses**. 
 
@@ -161,16 +163,14 @@ There are four **Creature Motifs** that must be used in the order of **Pom** > *
   <tr>
    <td>
 
-<p id="gdcalert47" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image47.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert48">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<img src="images/image47.jpg" width="" alt="alt_text" title="image_tooltip">
+![](/img/jobs/pct/PCTPomMotif.png)
 
    </td>
    <td>
 
-<p id="gdcalert48" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image48.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert49">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![](/img/jobs/pct/PCTPomMuse.png)
 
-<img src="images/image48.jpg" width="" alt="alt_text" title="image_tooltip">
+
 
    </td>
    <td>
@@ -181,23 +181,19 @@ There are four **Creature Motifs** that must be used in the order of **Pom** > *
   <tr>
    <td>
 
-<p id="gdcalert49" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image49.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert50">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<img src="images/image49.jpg" width="" alt="alt_text" title="image_tooltip">
+![](/img/jobs/pct/PCTWingMotif.png)
 
    </td>
    <td>
 
-<p id="gdcalert50" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image50.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert51">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![](/img/jobs/pct/PCTWingedMuse.png)
 
-<img src="images/image50.jpg" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
+</td>
    <td>
 
-<p id="gdcalert51" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image51.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert52">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![](/img/jobs/pct/PCTMogOfTheAges.png)
 
-<img src="images/image51.jpg" width="" alt="alt_text" title="image_tooltip">
+
 
    </td>
    <td><strong>Wing Motif</strong> grants <strong>Winged Muse</strong> which grants<strong> Mog of the Ages</strong>
