@@ -91,7 +91,9 @@ The twinblade AoE combo functions exactly like its single target counterpart. St
 
 # 3. When to Use Single Target or AoE
 
-The only abilities that Viper needs to make a decision whether to use the Single Target or AoE forms are the dual wield and twinblade combo actions. All other damaging abilities have natural AoE damage, with the exception of Writhing Snap. For both the dual wield and twinblade combos, it is only a gain to use the AoE forms when fighting three or more targets. For one or two enemies, continue to use the single target versions. 
+The only abilities that Viper needs to make a decision whether to use the Single Target or AoE forms are the dual wield and twinblade combo actions. All other damaging abilities have natural AoE damage, with the exception of Writhing Snap. 
+
+For both the dual wield and twinblade combos, it is only a gain to use the AoE forms when fighting three or more targets. For one or two enemies, continue to use the single target versions. 
 
 # 4. Viper Positionals
 
