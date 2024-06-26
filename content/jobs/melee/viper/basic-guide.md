@@ -146,7 +146,7 @@ I﻿t might be tricky to understand what button replaces what on this job, so pl
 
 ### S﻿tandard Opener
 
-![](/img/jobs/vpr/tentativeprereleaseopener.png)
+![](/img/jobs/vpr/standardopenerv2.png)
 
 ## 6﻿.2 Always Be Casting
 
