@@ -85,11 +85,15 @@ After selecting Hunter’s Coil or Swiftskin’s Coil, the opposite skill become
 
 ### 2﻿.2.2 Area of Effect (AoE)
 
-The Twinblade AoE combo functions exactly like its single target counterpart. Start the combo with Pit of Dread, which applies Noxious Gnash for 20s. Next use either Hunter’s Den or Swiftskin’s Den, the former applying Hunter’s Instinct and the latter applying Swiftscaled. Finally finish the combo with whichever of Hunter’s and Swiftskin’s Dens that was not used for the second hit. Hunter’s Den will allow execution of Twinfang Thresh then Twinblood Thresh, and Swiftskin’s Den will allow execution of Twinblood Thresh then Twinfang Thresh. Like the single target versions, be sure to hit the oGCDs in the correct order to avoid a potency loss. Below is a visual representation of this combo, provided by Akashi. 
+The twinblade AoE combo functions exactly like its single target counterpart. Start the combo with Pit of Dread, which applies Noxious Gnash for 20s. Next use either Hunter’s Den or Swiftskin’s Den, the former applying Hunter’s Instinct and the latter applying Swiftscaled. Finally finish the combo with whichever of Hunter’s and Swiftskin’s Dens that was not used for the second hit. Hunter’s Den will allow execution of Twinfang Thresh then Twinblood Thresh, and Swiftskin’s Den will allow execution of Twinblood Thresh then Twinfang Thresh. Like the single target versions, be sure to hit the oGCDs in the correct order to avoid a potency loss. Below is a visual representation of this combo, provided by Akashi. 
 
 ![](/img/jobs/vpr/twinbladeaoecombo.png)
 
-# 3﻿. Viper Positionals
+# 3. When to Use Single Target or AoE
+
+The only abilities that Viper needs to make a decision whether to use the Single Target or AoE forms are the dual wield and twinblade combo actions. All other damaging abilities have natural AoE damage, with the exception of Writhing Snap. For both the dual wield and twinblade combos, it is only a gain to use the AoE forms when fighting three or more targets. For one or two enemies, continue to use the single target versions. 
+
+# 4. Viper Positionals
 
 V﻿iper has six abilities with positional requirements. Each positional increases the potency of its respective ability by +50 when successfully executed from the required direction.
 
@@ -104,11 +108,11 @@ V﻿iper has six abilities with positional requirements. Each positional increas
 
 For the dual wield combo, both flank positionals will always follow Hunter’s Sting, while both rear positionals will always follow Swiftkin’s Sting. Due to the nature of the combos, players will always alternate rear/flanks during dual wield combos. Twinblade combos allow you to choose which positional you want to do first each time. 
 
-# 4﻿. Viper Gauges
+# 5﻿. Viper Gauges
 
 V﻿iper has two gauges, the Anguine Tribute gauge and the Rattling Coil gauge. 
 
-## 4﻿.1 Rattling Coils
+## 5.1 Rattling Coils
 
 One Rattling Coil is generated when using either twinblade combo starter, or from using Serpent’s Ire. Rattling Coils are located on the bottom of the Viper’s Sight Gauge. For each Rattling Coil stored, a red gem will light up, with a maximum of three Rattling Coils able to be stored at once. 
 
@@ -116,7 +120,7 @@ One Rattling Coil is generated when using either twinblade combo starter, or fro
 
 Rattling Coils are spent to use the ranged ability Uncoiled Fury. This ability has a GCD recast timer of 3.5s (2.97s with 15% haste buff) and allows for the execution of two follow up oGCDs, Uncoiled Twinfang then Uncoiled Twinblood. These oGCDs must be used in this order, as using Uncoiled Twinfang grants the buff that allows for the use of Uncoiled Twinblood. Uncoiled Fury can be used to keep the GCD rolling during melee downtime mechanics, and will also be used as rotation filler even in full uptime due to its high potency relative to time ratio. 
 
-## 4﻿.2 Serpent's Offering Gauge
+## 5﻿.2 Serpent's Offering Gauge
 
 The Serpent Offerings gauge is made of two parts. The gauge counter, which displays your current total of Serpent Offerings, and the Anguine Tribute counter, which displays how many actions you can use while under the effect of Reawaken. The latter part of the gauge remains inactive until Reawaken is activated. Serpent Offerings are generated from dual wield combo finishers (+10 per finisher), or from the second and third hits of the twinblade combos (+5 from each hit, +10 total for each twinblade combo). As offerings are generated, the gauge gradually fills with a red liquid which becomes blue upon reaching 50 offerings. 
 
@@ -134,25 +138,25 @@ Activating Reawaken turns Viper’s dual wield and twinblade combo actions into 
 
 The whole Reawaken combo takes 13.2s (11.22s with the 15% haste buff) with no skill speed, as Reawaken has a base recast of 2.2s, each Generation GCD has a base recast of 2s long, and Ouroboros has a base recast of 3.0.
 
-# 5﻿. Button Replacements
+# 6﻿. Button Replacements
 
 I﻿t might be tricky to understand what button replaces what on this job, so please see this visual made by Rhy to help understand what is happening. 
 
 ![](/img/jobs/vpr/button-replacements.png)
 
-# 6﻿. Viper Basic Rotation
+# 7﻿. Viper Basic Rotation
 
-## 6﻿.1 Opener(s)
+## 7.1 Opener(s)
 
 ### S﻿tandard Opener
 
 ![](/img/jobs/vpr/standardopenerv2.png)
 
-## 6﻿.2 Always Be Casting
+## 7﻿.2 Always Be Casting
 
 In FFXIV there is one thing that is absolutely fundamental to every combat job. The **ABC**s of FFXIV: **A**lways **B**e **C**asting. This does not necessarily refer to casts in the literal sense of using abilities that have cast times before activating. Instead, what this means is to always be “rolling” your GCD clock. Every time a weaponskill or spell is used, it will trigger a cooldown clock on every other skill that is on the Global Cooldown (GCD). There should never be a point in time where that clock stops spinning when there is something that can be attacked. Do not underestimate the importance of this! If you have a 10 minute long fight, and you have 90% GCD uptime, that means for 10% of the fight your GCD was not rolling. This translates to 60 whole seconds of GCD downtime. That's a full minute of doing 0 DPS! It is often better to press things in the incorrect order than to not press anything. Some damage is better than no damage. 
 
-## 6﻿.3 Rotation Priorities
+## 7﻿.3 Rotation Priorities
 
 Viper rotation can be presented in its simplest form as a priority system. 
 
@@ -167,7 +171,9 @@ Viper rotation can be presented in its simplest form as a priority system.
    \-﻿ Save one at all times to cover potential disengages, but spend them before using Serpent's Ire as it will grant another. Avoid overcapping Coils and spend them before the end of the fight unless you can Reawaken instead. 
 8. Rotate through the dual wield combo cycle, ensuring the correct actions are used to execute the buffed finisher. 
 
-## 6﻿.4 The Next Level of Viper Rotation
+When fighting **three or more enemies**, continue to follow this priority system, but use the AoE versions of the dual wield and twinblade combos.
+
+# 8. The Next Level of Viper Rotation
 
 Having a firm grasp of the concepts above will be more than enough to get players through more casual content like Normal Raids, Dungeons, and Extreme trials. ***Playing the job as a pure priority system is not optimal and anyone looking to contribute more to their team with better DPS should understand this***. In higher level content such as Savage Raids and Ultimate Raids, players are expected to know how to play their job with party buffs in mind in order to maximize the damage the party can do. If you feel like you’ve got a firm grasp of the concepts presented in this guide, head over to the VPR Intermediate Guide to learn how to play VPR into party buffs and optimize its damage. 
 
