@@ -1,6 +1,9 @@
 ---
 title: Pictomancer Basic Guide
 lastmod: 2024-06-24T00:51:55.634Z
+changelog:
+  - date: 2024-06-26T05:44:32.570Z
+    message: "Needs coloring on text. Unsure on how to do that. "
 ---
 **Basic Overview**
 
