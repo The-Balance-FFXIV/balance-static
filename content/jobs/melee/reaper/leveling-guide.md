@@ -18,7 +18,7 @@ tags:
   - Reaper
   - guide
 ---
-This guide is targeted at players looking to play and understand Reaper as they level up. It will cover some basic priorities for each level tier and will also serve as a priority list for playing Reaper at lower levels (for ultimates and such). If you are level 90 and looking to explore other guides please visit the following links:
+This guide is targeted at players looking to play and understand Reaper as they level up. It will cover some basic priorities for each level tier and will also serve as a priority list for playing Reaper at lower levels (for ultimates and such). If you are level 100 and looking to explore other guides please visit the following links:
 
 [Basic Guide](/jobs/melee/reaper/basic-guide/)
 
@@ -273,8 +273,6 @@ Multi-target  \[3 or more Targets]
 
 * Grim Reaping > Grim Reaping > Lemure's Scythe > Grim Reaping > Grim Reaping > Lemure's Scythe > Communio
 
-
-
 At level 92, you will learn a new ability called Sacrificium. Sacrificium can be used once during every Enshroud window.
 
 Your new Enshroud rotation will look like this:
@@ -286,8 +284,6 @@ Single Target
 Multi-target  \[3 or more Targets]
 
 * Grim Reaping → Sacrificium → Grim Reaping → Lemure's Scythe → Grim Reaping → Grim Reaping → Lemure's Scythe → Communio
-
-
 
 At level 96, Gluttony will grant Executioners instead of Reavers allowing access to the more powerful Executioner weaponskills.
 
