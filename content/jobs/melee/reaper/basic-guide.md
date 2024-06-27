@@ -94,7 +94,7 @@ Do be aware, that Gibbet and Gallows are the only skills that have positional re
 
 #### The Opener:
 
-![](/img/jobs/rpr/rpr_6.3_early_gluttony.png)
+![](/img/jobs/rpr/reaper_opener_3rd_gcd_ac_.png)
 
 * Soul Sow pre-pull
 * Cast Harpe after 2 appears on the countdown, or at 1.7s exactly.
