@@ -45,9 +45,9 @@ Selecting either option allows the player to now choose between Hunter’s Sting
 
 Selecting Hunter’s Sting gives the player access to two combo finishers, Flanksting Strike and Flanksbane Fang. Selecting Swiftskin’s Sting grants access to the other two combo finishers, Hindsting Strike and Hindsbane Fang. Each combo finisher also grants a buff that makes a different combo finisher do more damage. Flanksting Strike buffs Hindsting Strike, Hindsting Strike buffs Flanksbane Fang, Flanksbane Fang buffs Hindsbane Fang, and Hindsbane Fang completes the cycle by buffing Flanksting Strike. 
 
-At first glance, this may seem like an overwhelming amount of things going on for one combo chain, but the combo finishers buffing a specific other finisher in the cycle makes this an extremely linear pattern. Players will always go through the cycle in the order of Flanksting Strike -> Hindsting Strike -> Flanksbane Fang -> Hindsbane Fang -> repeat from Flanksting Strike. 
+At first glance, this may seem like an overwhelming amount of things going on for one combo chain, but the combo finishers buffing a specific other finisher in the cycle makes this an extremely linear pattern. Players will always go through the cycle in the order of Flanksting Strike -> Hindsting Strike -> Flanksbane Fang -> Hindsbane Fang -> repeat from Flanksting Strike. Please note that the cycle starts from **whichever combo finisher you did for your first dual wield combo** and does not need to start from Flanksting Strike. This was just used as an example. 
 
-![](/img/jobs/vpr/dwstcombo.png "Dual Wield ST Combo Flowchart")
+![](/img/jobs/vpr/vprdualsingletargetcombo.png "Dual Wield ST Combo Flowchart")
 
 As shown in this flowchart (credit: Akashi), players will choose either Dread Fangs or Steel Fangs depending on if they need to reapply Noxious Gnash to begin the combo chain. 
 
@@ -99,8 +99,8 @@ For both the dual wield and twinblade combos, it is only a gain to use the AoE f
 
 V﻿iper has six abilities with positional requirements. Each positional increases the potency of its respective ability by +50 when successfully executed from the required direction.
 
-| Icon                                                                                      | Skill Name        | Positional |
-| ----------------------------------------------------------------------------------------- | ----------------- | ---------- |
+| Icon                                            | Skill Name        | Positional |
+| ----------------------------------------------- | ----------------- | ---------- |
 | ![](https://xivapi.com/i/003000/003716_hr1.png) | Hunter's Coil     | Flank      |
 | ![](https://xivapi.com/i/003000/003717_hr1.png) | Swiftskin's Coil  | Rear       |
 | ![](https://xivapi.com/i/003000/003705_hr1.png) | Flanksting Strike | Flank      |
