@@ -1,5 +1,7 @@
 ---
 title: Pictomancer Basic Guide
+authors:
+  - Eydis-Darkbane
 lastmod: 2024-06-24T00:51:55.634Z
 changelog:
   - date: 2024-06-26T05:44:32.570Z
@@ -34,11 +36,7 @@ Let’s start with spell combos and the **Palette Gauge** of Pictomancer.
   <tr>
    <td><strong>Fire in Red</strong>
    </td>
-   <td>
-   </td>
    <td><strong>Aero in Green</strong>
-   </td>
-   <td>
    </td>
    <td><strong>Water in Blue</strong>
    </td>
@@ -48,25 +46,17 @@ Let’s start with spell combos and the **Palette Gauge** of Pictomancer.
 
 ![](/img/jobs/pct/PCTFireInRed.png)
 
-
-
    </td>
-   <td><strong><code>></code></strong>
    </td>
    <td>
 
 ![](/img/jobs/pct/PCTAeroInGreen.png)
 
-
-
    </td>
-   <td><strong><code>></code></strong>
    </td>
    <td>
 
 ![](/img/jobs/pct/PCTWaterInBlue.png)
-
-
 
    </td>
   </tr>
@@ -93,34 +83,27 @@ Subtractive will convert a stack of **White Paint** to **Black Paint**. If a cha
 <table>
   <tr>
    <td><strong>Blizzard in Cyan</strong>
-   </td>
-   <td>
+
    </td>
    <td><strong>Stone in Yellow</strong>
    </td>
-   <td>
-   </td>
+
    <td><strong>Thunder in Magenta</strong>
    </td>
   </tr>
   <tr>
    <td>
 
-
-
 ![](/img/jobs/pct/PCTBlizzardInCyan.png)
 
-
-
    </td>
-   <td><strong><code>></code></strong>
+
    </td>
    <td>
 
 ![](/img/jobs/pct/PCTStoneInYellow.png)
 
    </td>
-   <td><strong><code>></code></strong>
    </td>
    <td>
 
@@ -173,8 +156,6 @@ There are four **Creature Motifs** that must be used in the order of **Pom** > *
 
 ![](/img/jobs/pct/PCTPomMuse.png)
 
-
-
    </td>
    <td>
    </td>
@@ -196,8 +177,6 @@ There are four **Creature Motifs** that must be used in the order of **Pom** > *
 
 ![](/img/jobs/pct/PCTMogOfTheAges.png)
 
-
-
    </td>
    <td><strong>Wing Motif</strong> grants <strong>Winged Muse</strong> which grants<strong> Mog of the Ages</strong>
    </td>
@@ -205,16 +184,12 @@ There are four **Creature Motifs** that must be used in the order of **Pom** > *
   <tr>
    <td>
 
-<p id="gdcalert52" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image52.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert53">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<img src="images/image52.jpg" width="" alt="alt_text" title="image_tooltip">
+![](/img/jobs/pct/PCTClawMotif.png)
 
    </td>
    <td>
 
-<p id="gdcalert53" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image53.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert54">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<img src="images/image53.jpg" width="" alt="alt_text" title="image_tooltip">
+![](/img/jobs/pct/PCTClawedMuse.png)
 
    </td>
    <td>
@@ -225,23 +200,17 @@ There are four **Creature Motifs** that must be used in the order of **Pom** > *
   <tr>
    <td>
 
-<p id="gdcalert54" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image54.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert55">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<img src="images/image54.jpg" width="" alt="alt_text" title="image_tooltip">
+![](/img/jobs/pct/PCTMawMotif.png)
 
    </td>
    <td>
 
-<p id="gdcalert55" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image55.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert56">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<img src="images/image55.jpg" width="" alt="alt_text" title="image_tooltip">
+![](/img/jobs/pct/PCTFangedMuse.png)
 
    </td>
    <td>
 
-<p id="gdcalert56" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image56.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert57">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<img src="images/image56.jpg" width="" alt="alt_text" title="image_tooltip">
+![](/img/jobs/pct/PCTRetributionOfTheMadeen.png)
 
    </td>
    <td><strong>Maw Motif</strong> grants <strong>Fanged Muse </strong>which grants<strong> Retribution of the Madeen</strong>
@@ -249,17 +218,19 @@ There are four **Creature Motifs** that must be used in the order of **Pom** > *
   </tr>
 </table>
 
+<br>
+
 **Living Muses** are all 1000 potency off-global damage abilities and share a 40 second charge cooldown with a maximum of three charges. The **Wing** and **Maw Living Muses** (second and fourth **Muses**) also grant the ability to use **Portraits**. A **Portrait** is an off-global ability with an even higher potency. **Wing Muse** grants the ability to use the **Mog of the Ages**, while **Fanged Muse** grants the ability to use **Portrait of the Madeen**. 
 
 **Weapon Motif**
 
-<p id="gdcalert57" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image57.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert58">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![](/img/jobs/pct/PCTWeaponMotif.png)
 
-![alt_text](images/image57.jpg "image_tooltip")
+<br>
 
-<p id="gdcalert58" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image58.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert59">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![](/img/jobs/pct/image47.png)
 
-![alt_text](images/image58.png "image_tooltip")
+<br>
 
 Currently there is only one **Weapon Motif:** the **Hammer Motif**. 
 
@@ -273,13 +244,9 @@ Each Hammer Combo spell is a guaranteed critical direct hit.
 
 **Landscape Motif**
 
-<p id="gdcalert59" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image59.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert60">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![](/img/jobs/pct/starry-sky-motif-and-muse-pct-jpeg.jpg)
 
-![alt_text](images/image59.jpg "image_tooltip")
-
-<p id="gdcalert60" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image60.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert61">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/image60.png "image_tooltip")
+<br>
 
 Currently there is only one **Landscape Motif:** the **Starry Sky Motif**.
 
