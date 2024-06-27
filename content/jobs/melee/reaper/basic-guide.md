@@ -212,4 +212,4 @@ If you’re on a PC, and you’re okay with the morality issues of injection bas
 
 ## Next Level
 
-When you feel like you have mastered the basics of Reaper, you can start doing Double Enshroud during our 2 minute burst. The idea here is that we want to squeeze as much damage into raid buffs as possible. We currently have two variations of the Double Enshroud buff window.
+When you feel like you have mastered the basics of Reaper, you will want to start exploring our burst windows. I recommend heading over to the intermediate guide.
