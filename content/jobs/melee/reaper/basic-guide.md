@@ -60,6 +60,7 @@ Reaper has access to a few resources that you will need to master to play the jo
 ![](/img/jobs/rpr/2021-12-20_02-49-47-723_eg9-darklite.png)
 
 # Melee Positionals:
+
 All melee DPS have skills that deal additional potency when used from the Rear of Flank of the target. This means you must be positioned correctly relative to the target's hitbox ring to meet the requirement. Positional zones are shown here on the left image under this section.
 
 Some targets have a closed circle target ring or are a "wall-style" target that it is impossible to get to the rear of. Positional requirements are fulfilled no matter where you stand relative to the target. These types of enemies can be identified by the front-facing arrow being inside the hitbox instead of outside of the hitbox (as shown in the image to the right).
@@ -95,27 +96,49 @@ Do be aware, that Gibbet and Gallows are the only skills that have positional re
 
 ![](/img/jobs/rpr/rpr_6.3_early_gluttony.png)
 
-* Soul Sow before the pull
-* (If your GCD is < 2.47 pre-pull Pot at 3s on countdown if you can’t at two minutes)
-* Begin casting Harpe shortly after 2s appears on the countdown > Ingress into boss if necessary
-* Shadow of Death > Middle weave Potion (If you can’t at two minutes)
-* Soul Slice > Arcane Circle (If your GCD is < 2.47 use AC one GCD earlier) > Gluttony
-* Gibbet
-* Gallows
-* Plentiful Harvest > Enshroud
+* Soul Sow pre-pull
+* Cast Harpe after 2 appears on the countdown, or at 1.7s exactly.
+* Shadow of Death
+* Soul Slice
+
+  * Potion here if you are using potion in the opener
+* Shadow of Death
+
+  * Arcane Circle
+  * Gluttony
+* Executioner's Gibbet
+* Executioner's Gallows
+* Plentiful Harvest
+
+  * This will clip if your GCD is faster than 2.47, or you have high ping. If the clip here is bothersome, or over a quarter of your GCD cast, use the Early Gluttony opener.
+  * Enshroud
 * Void Reaping
-* Cross Reaping > Lemure’s Slice
+
+  * Sacrificium
+* Cross Reaping
+
+  * Lemure's Slice
 * Void Reaping
-* Cross Reaping  > Lemure’s Slice
+* Cross Reaping
+
+  * Lemure's Slice
 * Communio
-* Soul Slice > Unveiled Gibbet
+* Perfectio
+* Soul Slice
+
+  * Unveiled Gibbet
 * Gibbet
+* Slice
+* Soul Slice
+
+  * Unveiled Gallows <-- Potion is done here.
+* Gallows.
 
 ## Priority System
 
 Reaper can be played well by just following a priority system. Below is the recommended priority system for single target
 
-* Spend Soul Reavers on Gibbet or Gallows (whichever is buffed) if you have them.
+* Spend Soul Reavers and Executioners on Gibbet or Gallows (whichever is buffed) if you have them.
 
   * Use Guillotine if you can hit three or more enemies.
 * Maintain Death’s design by using Shadow of Death.
@@ -126,8 +149,9 @@ Reaper can be played well by just following a priority system. Below is the reco
 * Soul Slice on Cooldown (Do not overcap your Soul!)
 
   * Use Soul Scythe if you can hit three or more enemies.
+* Perfectio if you have the Perfection Parata buff.
 * Plentiful Harvest if available.
-* Enshroud when at 50 or more Shroud.
+* Enshroud when at 50 or more Shroud or if you have the Ideal Host buff.
 
   * Alternate Void and Cross Reaping four times, as they buff each other.
 
@@ -135,6 +159,7 @@ Reaper can be played well by just following a priority system. Below is the reco
   * Weave Lemure’s Slice after every other weapon skills.
 
     * Use Lemure’s Scythe if you can hit three or more enemies.
+  * Weave Sacrificium once during Enshroud.
   * Use Communio when you have one Blue Orb remaining.
 * Unveiled Gibbet / Unveiled Gallows / Blood Stalk if at 50 or more Soul.
 
@@ -178,7 +203,6 @@ You may have noticed Enshroud windows feeling somewhat unresponsive to your butt
   * WTFast
   * Pingzapper
   * NoPing
-  * BattlePing
 
 A full explanation on how VPNs work and how to check your ping for FFXIV specifically can be found in [this guide](https://www.icy-veins.com/ffxiv/vpn-guide-for-ffxiv). The best VPN for you will differ based on location and ISP. It’s suggested that you try all possible options before deciding on one since they do cost money to use on top of your sub. Most, if not all of these should come with free trials so you can see if they help your connection.
 
@@ -188,6 +212,4 @@ If you’re on a PC, and you’re okay with the morality issues of injection bas
 
 ## Next Level
 
-When you feel like you have mastered the basics of Reaper, head over the [Advanced Guide](https://www.thebalanceffxiv.com/jobs/melee/reaper/advanced-guide/) to learn how to play the job into raid buffs. The Advanced guide will cover a lot from Double Shroud windows to specific fight mapping tools!
-
-Special thanks to Moth Kira and Jackal for the infographs!
+When you feel like you have mastered the basics of Reaper, you can start doing Double Enshroud during our 2 minute burst. The idea here is that we want to squeeze as much damage into raid buffs as possible. We currently have two variations of the Double Enshroud buff window.
