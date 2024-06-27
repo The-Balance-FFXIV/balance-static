@@ -282,9 +282,9 @@ Going into a 2-minute buff window, we want to make sure **Striking Muse** and **
 
 ## **Movement**
 
-As touched upon in the previous section, we want to use our long cast spells such as **Motifs** and Subtractive Combo spells during periods of low movement. Spell combos will grant us **Holy in White** and **Comet in Black** resources to use during periods of high movement.\*\* \*\*
+As touched upon in the previous section, we want to use our long cast spells such as **Motifs** and Subtractive Combo spells during periods of low movement. Spell combos will grant us **Holy in White** and **Comet in Black** resources to use during periods of high movement.
 
-Preferably, the\*\* **Hammer Combo** **and** Comet in Black **should be used over** Holy in White **in terms of instant casts for movement, assuming the fight has low enough allowable movement. This is because** Holy in White **is a very slight DPS loss, as it fills up space where we could have used the Basic or Subtractive Combo instead. However, this is often not possible when fights have more movement than those spells and our regular fast casts can cover.** Do not sacrifice GCD uptime trying to minimize usage of Holy in White. \*\*This is something that should only be considered for extremely low movement fights.
+Preferably, the **Hammer Combo** **and** Comet in Black **should be used over** Holy in White **in terms of instant casts for movement, assuming the fight has low enough allowable movement. This is because** Holy in White **is a very slight DPS loss, as it fills up space where we could have used the Basic or Subtractive Combo instead. However, this is often not possible when fights have more movement than those spells and our regular fast casts can cover.** Do not sacrifice GCD uptime trying to minimize usage of Holy in White. \*\*This is something that should only be considered for extremely low movement fights.
 
 **Outside of movement, the most important aspect of Holy in White usage is adjusting GCD timelines to get the ideal entrance into buff windows.** Care should be taken not to overfocus on generic potency per second averages, and instead to examine specific sequence setups in optimized scenarios. 
 
