@@ -16,26 +16,31 @@ changelog:
   - date: 2023-10-04T16:56:09.014Z
     message: Updated patch number to 6.5
 ---
-## Fast Enshroud Opener
+## 3rd GCD AC Opener
 
 ![](/img/jobs/rpr/rpr_6.3_early_enshroud.png)
 
 [Full Size](/img/jobs/rpr/rpr_6.3_early_enshroud.png)
 
 * Soul Sow pre-pull
-* Cast Harpe after 2 appears on the countdown
+* Cast Harpe after 2 appears on the countdown, or at 1.7s exactly.
 * Shadow of Death
-
-  * Arcane Circle as fast possible
-* Soul Slice
 * Soul Slice
 
   * Potion here if you are using potion in the opener
+* Shadow of Death
+
+  * Arcane Circle
+  * Gluttony
+* Executioner's Gibbet
+* Executioner's Gallows
 * Plentiful Harvest
 
   * This will clip if your GCD is faster than 2.47, or you have high ping. If the clip here is bothersome, or over a quarter of your GCD cast, use the Early Gluttony opener.
   * Enshroud
 * Void Reaping
+
+  * Sacrificium
 * Cross Reaping
 
   * Lemure's Slice
@@ -44,35 +49,42 @@ changelog:
 
   * Lemure's Slice
 * Communio
+* Perfectio
+* Soul Slice
 
-  * Gluttony
+  * Unveiled Gibbet
 * Gibbet
-* Gallows
+* Slice
+* Soul Slice
 
-  * Unveilled Gibbet
-* Gibbet
+  * Unveiled Gallows <-- Potion is done here.
+* Gallows.
 
-## Early Gluttony Opener
+## 2nd GCD AC
 
 ![](/img/jobs/rpr/rpr_6.3_early_gluttony.png)
 
 [Full Size](rpr_6.3_early_gluttony.png)
 
 * Soul Sow pre-pull
-* Use Tincture / Potion at 3s on Countdown
-* Cast Harpe after 2 appears on the countdown
+* Cast Harpe after 2 appears on the countdown, or at 1.7s exactly.
 * Shadow of Death
-
-  * Arcane Circle - If possible, move this to after the next GCD. Only do it here if your Plentiful Harvest clips later on.
 * Soul Slice
 
+  * Late weave Arcane Circle
+* Shadow of Death
+
+  * Potion
   * Gluttony
-* Gibbet
-* Gallows
+* Executioner's Gibbet
+* Executioner's Gallows
 * Plentiful Harvest
 
+  * This will clip if your GCD is faster than 2.47, or you have high ping. If the clip here is bothersome, or over a quarter of your GCD cast, use the Early Gluttony opener.
   * Enshroud
 * Void Reaping
+
+  * Sacrificium
 * Cross Reaping
 
   * Lemure's Slice
@@ -81,9 +93,15 @@ changelog:
 
   * Lemure's Slice
 * Communio
+* Perfectio
 * Soul Slice
 
-  * Unveilled Gibbet
+  * Unveiled Gibbet
 * Gibbet
+* Slice
+* Soul Slice
 
-Special thanks to Moth, Kira, and Jackal for the infographs!
+  * Unveiled Gallows
+* Gallows <-- Potion is done here.
+
+This opener is only valid if you are able to double weave potion and only a gain if you are using potion in the opener.
