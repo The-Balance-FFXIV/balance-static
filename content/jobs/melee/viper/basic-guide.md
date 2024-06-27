@@ -59,15 +59,15 @@ The game systems do a very good job of guiding the player to select the correct 
 
 ![](/img/jobs/vpr/vswholev2.png)
 
-Furthermore, the Viper’s Sight Gauge is there to guide you through which combo you should use. As shown above, when there is no combo active, both swords will be gray and will not have a glow. After using the combo starter, each sword will have half of it glow orange to indicate that the Viper is on the second combo in the chain. Either the left or right sword will have a red aura around it, which indicates which of the two middle combo actions is the current one that should be pressed to get to the correct combo finisher. The first time through, both sides will have the red aura, indicating that either of the two actions may be used. After pressing a middle combo action, the gauge will have both swords glow half blue and half orange, indicating that the combo finisher is the next action in sequence. One side will have a blue aura, indicating which specific combo finisher should be pressed. The first time through, both sides will have the blue aura, indicating that either of the two actions may be used. This gauge is purely a visual representation of what the combo ants on the abilities show as the sequence progresses. Simply follow the combo ants or the Viper’s Sight gauge to correctly execute the combo chain.
+Furthermore, the Vipersight Gauge is there to guide you through which combo you should use. As shown above, when there is no combo active, both swords will be gray and will not have a glow. After using the combo starter, each sword will have half of it glow orange to indicate that the Viper is on the second combo in the chain. Either the left or right sword will have a red aura around it, which indicates which of the two middle combo actions is the current one that should be pressed to get to the correct combo finisher. The first time through, both sides will have the red aura, indicating that either of the two actions may be used. After pressing a middle combo action, the gauge will have both swords glow half blue and half orange, indicating that the combo finisher is the next action in sequence. One side will have a blue aura, indicating which specific combo finisher should be pressed. The first time through, both sides will have the blue aura, indicating that either of the two actions may be used. This gauge is purely a visual representation of what the combo ants on the abilities show as the sequence progresses. Simply follow the combo ants or the Vipersight gauge to correctly execute the combo chain.
 
 ### 2﻿.1.2 Area of Effect (AoE)
 
 Dual wield AoE is much simpler, and has only six total buttons to choose from: two starters, two middle hits, and two finishers. Similar to the single target version, this combo starts with a choice of Steel Maw or Dread Maw. Steel Maw has a higher potency, while Dread Maw applies Noxious Gnash. The next hit is a choice of Hunter’s Bite or Swiftskin’s Bite. The former applies Hunter's Instinct, and the latter applies Swiftscaled. The combo finisher is a choice of Jagged Maw or Bloodied Maw. Similar to the single target combo, using one combo finisher buffs the other, creating an AoE combo cycle of selecting the first combo action based on if you need Noxious Gnash reapplied, then alternating the second and third combo actions. Successfully completing the combo grants an AoE oGCD called Last Lash. Below is a visual representation of this combo, made by Akashi. 
 
-![](/img/jobs/vpr/dwaoecombo.jpg "Dual Wield AoE Flowchart")
+![](/img/jobs/vpr/dualwieldaoe.png "Dual Wield AoE Flowchart")
 
-Similarly to how the Viper's Sight gauge guides you through the single target version, the gauge also guides you through the correct buttons to press for the AoE version in order to hit the correct combo finisher.
+Similarly to how the Vipersight gauge guides you through the single target version, the gauge also guides you through the correct buttons to press for the AoE version in order to hit the correct combo finisher.
 
 ## 2﻿.2 Doubleblade Combos
 
@@ -116,7 +116,7 @@ V﻿iper has two gauges, the Anguine Tribute gauge and the Rattling Coil gauge.
 
 ## 5.1 Rattling Coils
 
-One Rattling Coil is generated when using either twinblade combo starter, or from using Serpent’s Ire. Rattling Coils are located on the bottom of the Viper’s Sight Gauge. For each Rattling Coil stored, a red gem will light up, with a maximum of three Rattling Coils able to be stored at once. 
+One Rattling Coil is generated when using either twinblade combo starter, or from using Serpent’s Ire. Rattling Coils are located on the bottom of the Vipersight Gauge. For each Rattling Coil stored, a red gem will light up, with a maximum of three Rattling Coils able to be stored at once. 
 
 ![](/img/jobs/vpr/rattlingcoil.png)
 
