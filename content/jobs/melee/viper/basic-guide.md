@@ -97,7 +97,7 @@ For both the dual wield and twinblade combos, it is only a gain to use the AoE f
 
 # 4. Viper Positionals
 
-V﻿iper has six abilities with positional requirements. Each positional increases the potency of its respective ability by +50 when successfully executed from the required direction.
+V﻿iper has six abilities with positional requirements. Each positional increases the potency of its respective ability by +60 for dual wield finishers and +50 for twinblade abilities when successfully executed from the required direction.
 
 | Icon                                            | Skill Name        | Positional |
 | ----------------------------------------------- | ----------------- | ---------- |
