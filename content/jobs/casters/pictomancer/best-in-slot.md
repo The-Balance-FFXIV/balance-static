@@ -9,7 +9,7 @@ changelog:
 bis:
   - type: etro
     link: 29fe89e2-179f-45a9-9c0a-b6fae45306d5
-    name: PCT Leveling Set
+    name: PCT 80 Leveling Set
     description: >-
       Please replace the RDM weapon with the equivalent PCT weapon, as well as
       the earring with the Azeyma Earring for the extra EXP boost. PCT and this
@@ -27,6 +27,12 @@ bis:
 
       If you don't have the savage gear accessible for the above set, this old pre-savage set is a bit easier to obtain.
     link: d37912d9-c40e-4d44-bcd7-4f640b2f7eaf
+  - type: etro
+    name: PCT Level 90 Leveling Set
+    link: c352874f-c7fa-494b-b8e7-480998af607f
+    description: Should be replaced around level 95. Use the best level 90 weapon
+      you can -- if you have an extra ultimate totem from TOP, you can use this
+      instead.
 authors:
   - Laille-Ormesaing
   - Balance-PCT-Staff
