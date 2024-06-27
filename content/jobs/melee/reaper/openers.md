@@ -18,7 +18,7 @@ changelog:
 ---
 ## 3rd GCD AC Opener
 
-![](/img/jobs/rpr/rpr_6.3_early_enshroud.png)
+![](/img/jobs/rpr/reaper_opener_3rd_gcd_ac_.png)
 
 [Full Size](/img/jobs/rpr/rpr_6.3_early_enshroud.png)
 
@@ -62,7 +62,7 @@ changelog:
 
 ## 2nd GCD AC
 
-![](/img/jobs/rpr/rpr_6.3_early_gluttony.png)
+![](/img/jobs/rpr/reaper_opener_2nd_gcd_ac_.png)
 
 [Full Size](rpr_6.3_early_gluttony.png)
 
