@@ -259,9 +259,9 @@ At level 88, you learn Plentiful Harvest. You will gain a passive that alters ho
   * Immortal Sacrifice stacks will enable you to cast Plentiful Harvest.
 * Plentiful Harvest will become available to cast as long as you obtained a single Immortal Sacrifice stack, six seconds after you initially use Arcane Circle. 
 
-  * Plentiful Harvest builds 50 shroud allowing you enshroud instantly right after.
+  * Plentiful Harvest grants the buff Ideal Host allowing you enshroud instantly right after without consuming resources.
 
-At level 90, you will learn your final skill, Communio. Communio is a cast spell that is only available during Enshroud and will effectively replace the last global cooldown during the Enshroud. 
+At level 90, you will learn your a new spell, Communio. Communio is a cast spell that is only available during Enshroud and will effectively replace the last global cooldown during the Enshroud. 
 
 Your new Enshroud rotation will look like this:
 
@@ -273,7 +273,27 @@ Multi-target  \[3 or more Targets]
 
 * Grim Reaping > Grim Reaping > Lemure's Scythe > Grim Reaping > Grim Reaping > Lemure's Scythe > Communio
 
-That’s it! You made it to level 90. I hope this leveling guide helped you ease your way into playing Reaper. When you have a good grasp of your abilities, I recommend you head on over to the Reaper Basics guide located [here](/jobs/reaper/basic-guide/) to learn some more about how to more effectively play Reaper.
+
+
+At level 92, you will learn a new ability called Sacrificium. Sacrificium can be used once during every Enshroud window.
+
+Your new Enshroud rotation will look like this:
+
+Single Target
+
+* Void Reaping → Sacrificium → Cross Reaping → Lemure's Slice → Void Reaping → Cross Reaping → Lemure's Slice → Communio
+
+Multi-target  \[3 or more Targets]
+
+* Grim Reaping → Sacrificium → Grim Reaping → Lemure's Scythe → Grim Reaping → Grim Reaping → Lemure's Scythe → Communio
+
+
+
+At level 96, Gluttony will grant Executioners instead of Reavers allowing access to the more powerful Executioner weaponskills.
+
+At level 100, using Plentiful Harvest will no give you a buff called "Perfectio Occulta" which will transform into "Perfectio Parata" after you use Communio with Occulta on. Perfectio Parata allows you to cast Perfectio, a new powerful long-range weaponskill.
+
+That’s it! You made it to level 100. I hope this leveling guide helped you ease your way into playing Reaper. When you have a good grasp of your abilities, I recommend you head on over to the Reaper Basics guide located [here](/jobs/reaper/basic-guide/) to learn some more about how to more effectively play Reaper.
 
 ![](/img/jobs/rpr/2021-12-20_03-06-55-218_eg9-darklite.png)
 
