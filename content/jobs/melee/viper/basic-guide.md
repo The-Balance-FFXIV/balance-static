@@ -81,7 +81,7 @@ Hunter’s Coil allows for the immediate execution of two oGCD skills, Twinfang 
 
 After selecting Hunter’s Coil or Swiftskin’s Coil, the opposite skill becomes available. The image below (credit: Akashi) shows a visual representation of how the combo works. 
 
-![](/img/jobs/vpr/twinbladestcombo.png)
+![](/img/jobs/vpr/dreadwindercombo.png)
 
 ### 2﻿.2.2 Area of Effect (AoE)
 
