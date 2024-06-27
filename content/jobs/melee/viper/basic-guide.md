@@ -101,12 +101,12 @@ V﻿iper has six abilities with positional requirements. Each positional increas
 
 | Icon                                                                                      | Skill Name        | Positional |
 | ----------------------------------------------------------------------------------------- | ----------------- | ---------- |
-| ![](https://cdn.discordapp.com/emojis/1248314759829393523.webp?size=160&quality=lossless) | Hunter's Coil     | Flank      |
-| ![](https://cdn.discordapp.com/emojis/1248314152582254684.webp?size=160&quality=lossless) | Swiftskin's Coil  | Rear       |
-| ![](https://cdn.discordapp.com/emojis/1249350833775186083.webp?size=160&quality=lossless) | Flanksting Strike | Flank      |
-| ![](https://cdn.discordapp.com/emojis/1248314644766920836.webp?size=160&quality=lossless) | Flanksbane Fang   | Flank      |
-| ![](https://cdn.discordapp.com/emojis/1248314727675990046.webp?size=160&quality=lossless) | Hindsting Strike  | Rear       |
-| ![](https://cdn.discordapp.com/emojis/1248314706079387688.webp?size=160&quality=lossless) | Hindsbane Fang    | Rear       |
+| ![](https://xivapi.com/i/003000/003716_hr1.png) | Hunter's Coil     | Flank      |
+| ![](https://xivapi.com/i/003000/003717_hr1.png) | Swiftskin's Coil  | Rear       |
+| ![](https://xivapi.com/i/003000/003705_hr1.png) | Flanksting Strike | Flank      |
+| ![](https://xivapi.com/i/003000/003706_hr1.png) | Flanksbane Fang   | Flank      |
+| ![](https://xivapi.com/i/003000/003707_hr1.png) | Hindsting Strike  | Rear       |
+| ![](https://xivapi.com/i/003000/003708_hr1.png) | Hindsbane Fang    | Rear       |
 
 For the dual wield combo, both flank positionals will always follow Hunter’s Sting, while both rear positionals will always follow Swiftkin’s Sting. Due to the nature of the combos, players will always alternate rear/flanks during dual wield combos. Twinblade combos allow you to choose which positional you want to do first each time. 
 
