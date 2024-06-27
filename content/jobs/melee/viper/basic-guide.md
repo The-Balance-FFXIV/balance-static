@@ -87,7 +87,7 @@ After selecting Hunter’s Coil or Swiftskin’s Coil, the opposite skill become
 
 The twinblade AoE combo functions exactly like its single target counterpart. Start the combo with Pit of Dread, which applies Noxious Gnash for 20s. Next use either Hunter’s Den or Swiftskin’s Den, the former applying Hunter’s Instinct and the latter applying Swiftscaled. Finally finish the combo with whichever of Hunter’s and Swiftskin’s Dens that was not used for the second hit. Hunter’s Den will allow execution of Twinfang Thresh then Twinblood Thresh, and Swiftskin’s Den will allow execution of Twinblood Thresh then Twinfang Thresh. Like the single target versions, be sure to hit the oGCDs in the correct order to avoid a potency loss. Below is a visual representation of this combo, provided by Akashi. 
 
-![](/img/jobs/vpr/twinbladeaoecombo.png)
+![](/img/jobs/vpr/pitofdreadcombo.png)
 
 # 3. When to Use Single Target or AoE
 
