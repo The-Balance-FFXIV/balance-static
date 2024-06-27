@@ -166,18 +166,57 @@ Make sure between your burst windows you:
 
 ![](https://i.imgur.com/4Y9Arhq.png)
 
-## Levels 75-89
+<br>
+
+### Pre-90 Even Minute Window
+
+![](https://i.imgur.com/tHuQead.png)
+
+Prior to level 90 your even minute window will look something like this. Using one Dreadwinder stack between even minute windows, which allows you to enter the even minute window with Dreadwinder right before your charges cap.
+
+After level 82, when you unlock Uncoiled Fury you will hold the Rattling Coil stack from the Dreadwinder between even minute windows to use as a filler GCD during Double Dreadwinder.
+
+The filler GCDs are to minimize Noxious Gnash overcap. It is advised this is limited to two GCDs, however it is possible to fit three split-blade GCDs as filler without pushing anything out of buffs.
+
+
+<br>
+
+## Levels 75-82
 
 ![](https://i.imgur.com/x3E2TSj.png)
+<br>
 
-## Levels 90-95
+## Levels 82-89
 
-![](https://i.imgur.com/EI2f2AD.png)
+![](https://i.imgur.com/GAF81hZ.png)
+<br>
 
+## Levels 90-91
 
-## Levels 96-100
+![](https://i.imgur.com/BR9JyDl.png)
+<br>
 
-![](https://i.imgur.com/o9JRsOi.png)
+### Post-90 Even Minute Window
+
+![](https://i.imgur.com/pINanba.png)
+
+After obtaining Reawaken at level 90 the even minute burst window changes to replace Dreadwinders for Reawaken. After the opener, use Serpent's Ire off cooldown then use a filler GCD before using two Reawakens back to back.
+
+Between each even minute window, one Reawaken will be used.
+
+Due to Reawaken being stronger, Dreadwinder charges will now be used as filler rather than for burst.
+
+Prior to level 96 you will not have access to Ouroboros, however the window will remain identical otherwise.
+
+Prior to level 100 you will not have access to Legacy oGCDs, however the window will remain identical otherwise. 
+
+<br>
+
+## Levels 92-100
+
+![](https://i.imgur.com/x37R29t.png)
+
+Prior to level 96 you will not have access to Ouroboros, however the opener and the rotation remain the same.
 
 Prior to level 100 you will not have access to the Reawaken Legacy oGCDs, however the opener and the rotation remain the same.
 
