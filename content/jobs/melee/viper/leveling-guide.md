@@ -131,7 +131,9 @@ Filler is defined by the sections of our rotation between our two minute burst w
 
 #### Split-Blade Combo
 
-![](https://i.imgur.com/mDoDNEv.png)
+![](/img/jobs/vpr/vpr-standardcombo.png)
+
+
 \
 The doubleblade combo can be started with either Dread Fangs or Steel Fangs, with the difference being that Dread Fangs applies and refreshes Noxious Gnash at the cost of being 100 potency less.
 
@@ -143,7 +145,9 @@ If you simply push whichever button is is highlighted on your hotbar then your b
 
 #### Combined-Blade Combo
 
-![](https://i.imgur.com/kFSxVRA.png)
+![](/img/jobs/vpr/dreadwindercombo.png)
+
+
 \
 The twinblade combo starts with Dreadwinder, which applies and refreshes Noxious Gnash, but is restricted to two charges on a 40 second cooldown per charge. 
 
@@ -177,7 +181,6 @@ Prior to level 90 your even minute window will look something like this. Using o
 After level 82, when you unlock Uncoiled Fury you will hold the Rattling Coil stack from the Dreadwinder between even minute windows to use as a filler GCD during Double Dreadwinder.
 
 The filler GCDs are to minimize Noxious Gnash overcap. It is advised this is limited to two GCDs, however it is possible to fit three split-blade GCDs as filler without pushing anything out of buffs.
-
 
 <br>
 
@@ -223,3 +226,13 @@ Prior to level 100 you will not have access to the Reawaken Legacy oGCDs, howeve
 ## Multi-Target (3+) Rotation
 
 Viper’s multi-target rotation is fairly identical to its single-target rotation. Both the split-blade combo and the combined-blade combo have an AOE variant that follows similar logic as their single-target counterparts. So outside of swapping to the AOE variants in multi-target scenarios Viper has no other multi-target optimization.
+
+#### Split-blade AOE Combo
+
+![](/img/jobs/vpr/wedoalittlerotation.png)
+
+#### <br>
+
+#### Combined-blade AOE Combo
+
+![](/img/jobs/vpr/pitofdreadcombo.png)
