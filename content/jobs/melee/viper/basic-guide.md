@@ -152,6 +152,8 @@ I﻿t might be tricky to understand what button replaces what on this job, so pl
 
 ![](/img/jobs/vpr/standardopenerv2.png)
 
+[Click here](https://www.thebalanceffxiv.com/img/jobs/vpr/standardopenerv2.png) for a full size image. 
+
 ## 7﻿.2 Always Be Casting
 
 In FFXIV there is one thing that is absolutely fundamental to every combat job. The **ABC**s of FFXIV: **A**lways **B**e **C**asting. This does not necessarily refer to casts in the literal sense of using abilities that have cast times before activating. Instead, what this means is to always be “rolling” your GCD clock. Every time a weaponskill or spell is used, it will trigger a cooldown clock on every other skill that is on the Global Cooldown (GCD). There should never be a point in time where that clock stops spinning when there is something that can be attacked. Do not underestimate the importance of this! If you have a 10 minute long fight, and you have 90% GCD uptime, that means for 10% of the fight your GCD was not rolling. This translates to 60 whole seconds of GCD downtime. That's a full minute of doing 0 DPS! It is often better to press things in the incorrect order than to not press anything. Some damage is better than no damage. 
