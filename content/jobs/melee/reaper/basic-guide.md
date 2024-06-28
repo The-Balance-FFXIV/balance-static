@@ -24,7 +24,7 @@ tags:
 
 Welcome to the Basic Guide for Reaper, which will cover everything you need to know to get started with becoming a Reaper! Included are an overview of the job’s playstyle, basic priority, abilities and core concepts.
 
-Whether you’re a fresh level 90, a returning player, or just need a refresh, this guide will give you the tools you need to feel comfortable playing Reaper.
+Whether you’re a fresh level 100, a returning player, or just need a refresh, this guide will give you the tools you need to feel comfortable playing Reaper.
 
 This guide is intended to be relatively basic and doesn’t go into huge explanations of specific situations or small nuances. If you’re looking for something specific, check out the more detailed guides below:
 
@@ -49,13 +49,13 @@ Reaper has access to a few resources that you will need to master to play the jo
 
 ![](/img/jobs/rpr/reapergauge1.png)
 
-**Soul**: Soul is one of the main Resources that Reaper has and is represented by the red bar on the job gauge. You build 10 of it by using your combo weaponskills (Slice, Waxing Slice, Infernal Slice, Spinning Scythe, Nightmare Scythe) and 50 by using Soul Slice / Scythe. You spend it on off-global abilities that generate Soul Reavers (Blood Stalk, Grim Swathe, Unveiled Gibbet, Unveiled Gallows, Gluttony). You spend 50 Soul at a time and can store up to 100 so that you have some wiggle room on when you use it.
+**Soul**: Soul is one of the main Resources that Reaper has and is represented by the red bar on the job gauge. You build 10 of it by using your combo weaponskills (Slice, Waxing Slice, Infernal Slice, Spinning Scythe, Nightmare Scythe) or your ranged spells (Harvest Moon and Harpe) and 50 by using Soul Slice / Scythe. You spend it on off-global abilities that generate Soul Reavers (Blood Stalk, Grim Swathe, Unveiled Gibbet, Unveiled Gallows) or Executioners (Gluttony). You spend 50 Soul at a time and can store up to 100 so that you have some wiggle room on when you use it.
 
-**Shroud**: Shroud is the other main resource that Reaper has and is represented by the Blue bar on the job gauge. You build 10 Shroud by spending Soul Reavers (the resource you get from spending Soul) on the powerful weapon skills Gibbet, Gallows or Guillotine. Reavers must be spent on Shroud generating skills, using any other weaponskill will have them fall off immediately. While most Soul Spenders generate 1 Soul Reaver, Gluttony will generate two. You can also build 50 Shroud by using Plentiful Harvest, which is only available once every two minutes. 50 Shroud is spent on a transformative buff called Enshroud and you can hold up to 100 Shroud at a time.
+**Shroud**: Shroud is the other main resource that Reaper has and is represented by the blue bar on the job gauge. You build 10 Shroud by spending Soul Reavers (the resource you get from spending Soul) on the powerful weaponskills Gibbet, Gallows or Guillotine and Executioners on their upgraded counterparts. Reavers must be spent on Shroud generating skills, using any other weaponskill will have them fall off immediately. While most Soul Spenders generate 1 Soul Reaver, Gluttony will generate 2 Executioners. You can also build 50 Shroud by using Plentiful Harvest, which is only available once every two minutes. 50 Shroud is spent on a transformative buff called Enshroud and you can hold up to 100 Shroud at a time.
 
 ![](/img/jobs/rpr/lemuregauge.png)
 
-**Enshroud**: Enshroud is Reaper's burst window which changes how the Reaper looks, activates a job gauge and changes a few abilities and weaponskills. For more detailed information on what changes, visit the Skill Details page. When you first Enshroud you generate five blue orbs (Lemure Shroud) which can be spent on the rapid 1.5s global cooldown weaponskills Void Reaping, Cross Reaping and Grim Reaping. When spending a blue orb, this way it will generate a purple orb (Void Shroud), which you can spend in sets of two on off-global abilities -- Lemure’s Slice and Lemure’s Scythe. Lastly, you can end the Enshroud phase by spending all of your Lemure Shroud, or by using the powerful spell Communio. 
+**Enshroud**: Enshroud is Reaper's burst window which changes how the Reaper looks, activates a job gauge and changes a few abilities and weaponskills. For more detailed information on what changes, visit the Skill Details page. When you first Enshroud, you generate five blue orbs (Lemure Shroud) which can be spent on the rapid 1.5s global cooldown weaponskills Void Reaping, Cross Reaping and Grim Reaping. When spending a blue orb, it will generate a purple orb (Void Shroud), which you can spend in sets of two on off-global abilities -- Lemure’s Slice and Lemure’s Scythe. Lastly, you can end the Enshroud phase by spending all of your Lemure Shroud, or by using the powerful spell Communio. 
 
 ![](/img/jobs/rpr/2021-12-20_02-49-47-723_eg9-darklite.png)
 
@@ -140,33 +140,33 @@ Reaper can be played well by just following a priority system. Below is the reco
 
 * Spend Soul Reavers and Executioners on Gibbet or Gallows (whichever is buffed) if you have them.
 
-  * Use Guillotine if you can hit three or more enemies.
+  * Use Guillotine if you can hit multiple enemies (**four** or more for the base skill, **three** or more for the Executioner counterpart).
 * Maintain Death’s design by using Shadow of Death.
 
-  * Use Whorl of Death if you can hit three or more enemies.
+  * Use Whorl of Death if you can hit **three** or more enemies.
 * Arcane Circle on Cooldown (unless boss will jump during duration).
-* Gluttony on Cooldown (as long as you can spend both reavers).
+* Gluttony on Cooldown (as long as you can spend both Executioners).
 * Soul Slice on Cooldown (Do not overcap your Soul!)
 
-  * Use Soul Scythe if you can hit three or more enemies.
+  * Use Soul Scythe if you can hit **three** or more enemies.
 * Perfectio if you have the Perfection Parata buff.
 * Plentiful Harvest if available.
 * Enshroud when at 50 or more Shroud or if you have the Ideal Host buff.
 
   * Alternate Void and Cross Reaping four times, as they buff each other.
 
-    * Use Grim Reaping if you can hit three or more enemies.
+    * Use Grim Reaping if you can hit **three** or more enemies.
   * Weave Lemure’s Slice after every other weapon skills.
 
-    * Use Lemure’s Scythe if you can hit three or more enemies.
+    * Use Lemure’s Scythe if you can hit **three** or more enemies.
   * Weave Sacrificium once during Enshroud.
   * Use Communio when you have one Blue Orb remaining.
 * Unveiled Gibbet / Unveiled Gallows / Blood Stalk if at 50 or more Soul.
 
-  * Use Grim Swathe if you can hit three or more enemies.
+  * Use Grim Swathe if you can hit **four** or more enemies.
 * Combo actions as filler (Slice, Waxing Slice, Infernal Slice).
 
-  * Use AoE combo (Spinning Scythe, Nightmare Scythe) if you can hit three or more enemies.
+  * Use AoE combo (Spinning Scythe, Nightmare Scythe) if you can hit **three** or more enemies.
 * Harvest Moon if you are not in melee range of the boss and it’s available.
 
   * Ensure to get one Harvest Moon between each pull and downtime!
@@ -185,9 +185,9 @@ Reaper can be played well by just following a priority system. Below is the reco
 
 ## Core Concepts
 
-* Maintain uptime: Try to solve mechanics in a way that would allow you to stay on the bosses hit box. If you have to disengage you can utilize Harvest Moon to not lose any DPS. Harpe is also excellent if you have to disengage and can’t attack the boss.
-* Hit your positionals: Gibbet and Gallows have rear and flank positionals respectively. Make sure you are attacking in the correct position when using them. Reaper has a lot of flexibility on when you can use these abilities so try to hold them if you can’t hit them. If you must hit them then utilize True North to hit them from any angle.
-* Slidecasting: Soul Sow, Harpe and Communio all have cast times associated with them. You can start moving about 80% through the cast bar and still execute the ability. Utilize this to not miss damage and not take unnecessary damage. 
+* **Maintain uptime:** Try to solve mechanics in a way that would allow you to stay on the bosses hitbox. If you have to disengage, you can utilize Harvest Moon to not lose any DPS. Harpe is also excellent if you have to disengage and can’t attack the boss.
+* **Hit your positionals:** Gibbet and Gallows have rear and flank positionals respectively. Make sure you are attacking in the correct position when using them. Reaper has a lot of flexibility on when you can use these abilities so try to hold them if you can’t hit them. If you must hit them then utilize True North to hit them from any angle.
+* **Slidecasting:** Soul Sow, Harpe and Communio all have cast times associated with them. You can start moving about 80% through the cast bar and still execute the ability. Utilize this to not miss damage and not take unnecessary damage. 
 
 ![](/img/jobs/rpr/ffxiv_12262021_003254_124.png)
 
@@ -204,7 +204,7 @@ You may have noticed Enshroud windows feeling somewhat unresponsive to your butt
   * Pingzapper
   * NoPing
 
-A full explanation on how VPNs work and how to check your ping for FFXIV specifically can be found in [this guide](https://www.icy-veins.com/ffxiv/vpn-guide-for-ffxiv). The best VPN for you will differ based on location and ISP. It’s suggested that you try all possible options before deciding on one since they do cost money to use on top of your sub. Most, if not all of these should come with free trials so you can see if they help your connection.
+A full explanation on how VPNs work and how to check your ping for FFXIV specifically can be found in [this guide](https://www.icy-veins.com/ffxiv/vpn-guide-for-ffxiv). The best VPN for you will differ based on location and ISP. It’s suggested that you try all possible options before deciding on one since they do cost money to use on top of your sub. Most, if not all, of these should come with free trials so you can see if they help your connection.
 
 After attempting to fix these issues with the above suggestions, the only thing you can really do without the use of illegal ToS breaking software, is adjust your rotation. Avoid Double Communio and focus on a rotation based more around priority spending of resources. This lessens the clipping you’ll see in burst windows. Using Shadow of Death mid-Enshroud and using it to weave Lemure Slice is also a very viable option. The longer GCD on Shadow of Death should help avoid clipping. Just make sure you’re not overcapping your Death’s Design timer to do this. 
 
