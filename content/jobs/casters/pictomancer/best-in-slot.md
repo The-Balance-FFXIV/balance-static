@@ -8,6 +8,11 @@ changelog:
     message: Added page with leveling sets. BiS will come after expansion launch.
 bis:
   - type: etro
+    name: Level 100 Pre-Savage Set
+    link: e7002e97-cf99-48b0-8304-6709f48530f0
+    description: This set is ideal for EX trials and the like, prior to the drop of
+      the normal and savage raid tier. This will be updated then.
+  - type: etro
     link: 29fe89e2-179f-45a9-9c0a-b6fae45306d5
     name: PCT 80 Leveling Set
     description: >-
