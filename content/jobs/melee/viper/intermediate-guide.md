@@ -56,7 +56,7 @@ There are three primary variations of our burst that we will use for most situat
   * It also assumes that the most recent combo finisher was completed after the most recent twinblade combo. Attempting to do this window without meeting this condition will result in the combo finisher buff dropping.
   * **Combo GCDs are an example and may not be the same every time.**
 
-![](/img/jobs/vpr/standarddoublev1.png)
+![](/img/jobs/vpr/viperstandarddoublereawakenv3.png)
 
 * **Finisher-Split Double Reawaken**
 
@@ -64,7 +64,7 @@ There are three primary variations of our burst that we will use for most situat
   * Finisher-Split Double Reawaken delays the second Reawaken by one GCD. This window should only be used as a last resort if the combo finisher buff would fall off before the end of the second Reawaken. A buffed combo finisher plus Death Rattle has lower potency than a Generation plus Legacy from the Reawaken window, which is a potency loss in party buffs. It is best to avoid this window if possible by managing twinblade and dual wield combos properly, but is an option if this is not possible for whatever reason. 
   * **Combo GCDs shown here are an example and may not be the same every time. However, for this specific burst the two GCDs before Serpent's Ire will be the first two hits of a dual wield combo, and the GCD between Reawakens will be a combo finisher.**
 
-![](/img/jobs/vpr/finishersplitdoublev1.png)
+![](/img/jobs/vpr/viperfinisher-splitdoublereawakenv2.png)
 
 * **Immediate Double Reawaken**
 
@@ -73,7 +73,7 @@ There are three primary variations of our burst that we will use for most situat
   * This sequence assumes that the most recent combo finisher was completed after the most recent twinblade combo. Attempting to do this window without meeting this condition will result in the combo finisher buff dropping.
   * **Combo GCDs shown here are an example and may not be the same every time.**
 
-![](/img/jobs/vpr/immediatedoublev1.png)
+![](/img/jobs/vpr/viperimmediatedoublereawakenv2.png)
 
 ## 2.2 Planning For Downtime
 
