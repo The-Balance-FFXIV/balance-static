@@ -2,8 +2,10 @@
 title: Pictomancer Best in Slot
 layout: bis
 patch: "7.0"
-lastmod: 2024-06-23T02:22:07.292Z
+lastmod: 2024-07-01T01:13:02.563Z
 changelog:
+  - date: 2024-07-01T01:13:03.564Z
+    message: Added pre-savage level 100 set
   - date: 2024-06-23T02:22:20.509Z
     message: Added page with leveling sets. BiS will come after expansion launch.
 bis:
