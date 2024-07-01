@@ -45,7 +45,7 @@ Selecting Hunter’s Sting gives the player access to two combo finishers, Flank
 
 At first glance, this may seem like an overwhelming amount of things going on for one combo chain, but the combo finishers buffing a specific other finisher in the cycle makes this an extremely linear pattern. Players will always go through the cycle in the order of Flanksting Strike -> Hindsting Strike -> Flanksbane Fang -> Hindsbane Fang -> repeat from Flanksting Strike. Please note that the cycle starts from **whichever combo finisher you did for your first dual wield combo** and does not need to start from Flanksting Strike. This was just used as an example. 
 
-![](/img/jobs/vpr/vprdualsingletargetcombo.png "Dual Wield ST Combo Flowchart")
+![](/img/jobs/vpr/basiccombobutwithgcdsonthecorrectside.png "Dual Wield ST Combo Flowchart")
 
 As shown in this flowchart (credit: Akashi), players will choose either Dread Fangs or Steel Fangs depending on if they need to reapply Noxious Gnash to begin the combo chain. 
 
@@ -63,7 +63,7 @@ Furthermore, the Vipersight Gauge is there to guide you through which combo you 
 
 Dual wield AoE is much simpler, and has only six total buttons to choose from: two starters, two middle hits, and two finishers. Similar to the single target version, this combo starts with a choice of Steel Maw or Dread Maw. Steel Maw has a higher potency, while Dread Maw applies Noxious Gnash. The next hit is a choice of Hunter’s Bite or Swiftskin’s Bite. The former applies Hunter's Instinct, and the latter applies Swiftscaled. The combo finisher is a choice of Jagged Maw or Bloodied Maw. Similar to the single target combo, using one combo finisher buffs the other, creating an AoE combo cycle of selecting the first combo action based on if you need Noxious Gnash reapplied, then alternating the second and third combo actions. Successfully completing the combo grants an AoE oGCD called Last Lash. Below is a visual representation of this combo, made by Akashi. 
 
-![](/img/jobs/vpr/dualwieldaoe.png "Dual Wield AoE Flowchart")
+![](/img/jobs/vpr/aoecombobutcorrectsides.png "Dual Wield AoE Flowchart")
 
 Similarly to how the Vipersight gauge guides you through the single target version, the gauge also guides you through the correct buttons to press for the AoE version in order to hit the correct combo finisher.
 
@@ -134,7 +134,7 @@ T﻿he number to the right of the Anguine Tribute counter indicates the amount o
 
 Activating Reawaken turns Viper’s dual wield and twinblade combo actions into First, Second, Third, and Fourth Generation. Reawaken itself gets replaced with the Reawaken finisher, Ouroboros. Each hit of First through Fourth Generation grants access to an oGCD ability called First through Fourth Legacy that must be used after each respective Generation hit. This makes the full Reawaken combo as follows:
 
-![](/img/jobs/vpr/viper-reawakened-sequence.png)
+![](/img/jobs/vpr/viper-reawaken-sequence-v2-.png)
 
 The whole Reawaken combo takes 13.2s (11.22s with the 15% haste buff) with no skill speed, as Reawaken has a base recast of 2.2s, each Generation GCD has a base recast of 2s long, and Ouroboros has a base recast of 3.0.
 
@@ -150,9 +150,9 @@ I﻿t might be tricky to understand what button replaces what on this job, so pl
 
 ### S﻿tandard Opener
 
-![](/img/jobs/vpr/standardopenerv2.png)
+![](/img/jobs/vpr/viper-tentative-standard-opener.png)
 
-[Click here](https://www.thebalanceffxiv.com/img/jobs/vpr/standardopenerv2.png) for a full size image. 
+[Click here](https://www.thebalanceffxiv.com/img/jobs/vpr/viper-tentative-standard-opener.png) for a full size image. 
 
 ## 7﻿.2 Always Be Casting
 
