@@ -6,8 +6,8 @@ authors:
   - juliacare
   - lynn-nuvestrahl
   - Balance-MCH-Staff
-patch: "6.3"
-lastmod: 2022-05-17T06:23:22.053Z
+patch: "7.0"
+lastmod: 2024-07-02T21:52:02.178Z
 changelog:
   - date: 2021-10-25T21:57:19.219Z
     message: Created page
@@ -17,6 +17,8 @@ changelog:
     message: Updated.
   - date: 2022-04-11T23:33:26.599Z
     message: Potencies updated for 6.1
+  - date: 2024-07-02T21:52:02.861Z
+    message: Updated for Dawntrail.
 tags:
   - Machinist
   - MCH
@@ -64,14 +66,14 @@ While reading this guide, the following images can be referenced to get a better
 
 * The Opener Queen is used immediately upon 60 Battery (After Excavator, as seen in the opener).
 * The one minute Burst Queen is used at 90, this is to help the two minute Queen to be used after Air Anchor to maximize it fully in raid buffs. Subsequent odd minute summons will have to be broken down between two Queens. Compared to Endwalker where our subsequent summons were at 90/100, we are given extra battery every minute via Excavator, so our summons are at 110/120 gauge. Thus forcing us to split it between two summons to prevent overcap. The first odd minute queen is almost always used at 50 and the second is split between either a 60 or 70 Queen depending on the minute.
-* Two minute Queen is summoned at 100 Battery at 2:01 after the Air Anchor. This is to fully maximize buffs, with summoning Queen after the Air Anchor, we synchronize our Queen to start its attack as soon as buffs are out. This is because of Queen lasting roughly 16 seconds but it takes 5 seconds before starting its autos.
+* Two minute Queen is summoned at 100 Battery at 2:01 after the Air Anchor. This is to fully maximize buffs, with summoning Queen after the Air Anchor, we synchronize our Queen to start its attack as soon as buffs are out. This is because of Queen lasting roughly 16 seconds but it takes five seconds before starting its autos.
 
 ### Cheatsheet
 
 * Ensure you have at least 50 Heat going into your even minute burst. With this rotation we run into an issue at the four minute burst window, going into it with only 45 Heat. 
 * Weave Checkmate and Double Check as necessary to not overcap their charges. However, try to pool them for all burst windows and especially all pot windows. 
 * Attempt to use a Reassemble under raid buffs if you can. Reassemble charges can be held for a pot window at two minutes if applicable.
-* Double Hypercharge windows are only crucial for the first 2 Minute Burst and/or all bursts where you are potting. Despite this, it is highly recommended and advised to double hypercharge for all windows post opener for maximum buff feed and to adjust for the change for all raid buffs being 20 seconds long.
+* Double Hypercharge windows are only crucial for the first 2-Minute Burst and/or all bursts where you are potting. Despite this, it is highly recommended and advised to double hypercharge for all windows post opener for maximum buff feed and to adjust for the change for all raid buffs being 20 seconds long.
 
 The most basic description of the level 100 rotation can be broken down by following these rules:
 
@@ -81,7 +83,7 @@ The most basic description of the level 100 rotation can be broken down by follo
 
 The base rotation for Machinist revolves around two minute windows starting and ending with Wildfire application. Wildfire and Barrel Stabilizer are outliers in our kit as the cooldown does not scale with skill speed. While Heat and Battery will not loop perfectly due to differing Hypercharge windows in these segments, Wildfire can still be used as a landmark in the rotation for tracking other cooldowns in our kit, mechanics or even just used to help reset our rotation in case mistakes were made with some of the more strict timers.
 
-In between your burst windows, you will default to pressing your combo actions (Heated Split Shot, Heated Slug Shot, and Heated Clean Shot) in order to build resource gauge and maintain uptime on the enemy while also ensuring your Multi-Tool actions (Drill, Air Anchor, and Chain Saw) are used immediately as they are available. With the new addition of Excavator, the combo attack of Chain Saw, we have up to 30 seconds to use before expiration, while in burst windows we want to use it as soon as possible from the initial Chain Saw press, we have extreme flexibility in the odd minute windows. For example, with the surplus of battery gained in Dawntrail, we have windows where we want to send out a 60 battery Queen but currently only have 50 after the Chain Saw press. Instead of following up with Excavator and getting 70, we can delay it for a full main combo or whenever we have Heated Clean Shot to get the 60 without spending Excavator to send that Queen. Giving us extreme flexibility and helping us achieve 100 Queen for the next 2 minute burst.
+In between your burst windows, you will default to pressing your combo actions (Heated Split Shot, Heated Slug Shot, and Heated Clean Shot) in order to build resource gauge and maintain uptime on the enemy while also ensuring your Multi-Tool actions (Drill, Air Anchor, and Chain Saw) are used immediately as they are available. With the new addition of Excavator, the combo attack of Chain Saw, we have up to 30 seconds to use before expiration, while in burst windows we want to use it as soon as possible from the initial Chain Saw press, we have extreme flexibility in the odd minute windows. For example, with the surplus of battery gained in Dawntrail, we have windows where we want to send out a 60 battery Queen but currently only have 50 after the Chain Saw press. Instead of following up with Excavator and getting 70, we can delay it for a full main combo or whenever we have Heated Clean Shot to get the 60 without spending Excavator to send that Queen. Giving us extreme flexibility and helping us achieve 100 Queen for the next 2-minute burst.
 
 # Two-Minute Variations
 
@@ -89,36 +91,26 @@ Previously, we gave an infographic for our Static 2-Minute Burst, but it is actu
 
 ![](/img/jobs/mch/machinist-example-120s-burst-10x-hb-1-.png)
 
-<!--StartFragment-->
+<br>
+<br>
 
-Assuming we carry on as usual, our first 2-minute burst will look something like this. If 2-minute potting, we want to use it before the Air Anchor. An extremely important note is that this ONLY works for the very first 2 minute window (120 seconds into the fight), this will be explained later on. We end this window with Drill, and since we have two stacks, it is not drifted but rather delayed in order to give us more Heat Blasts in buffs, and since we used Drill earlier, we never risk overcapping charges of Drill. It can be difficult to late weave Hypercharge before FMF/Chain Saw and still get the full 5 Blazing Shots, so this is only recommended on low ping/proper ping mitigation tools. 
-
-
-
-<!--EndFragment-->
+Assuming we carry on as usual, our first 2-minute burst will look something like this. If 2-minute potting, we want to use it before the Air Anchor. An extremely important note is that this ONLY works for the very first 2-minute window (120 seconds into the fight), this will be explained later on. We end this window with Drill, and since we have two stacks, it is not drifted but rather delayed in order to give us more Heat Blasts in buffs, and since we used Drill earlier, we never risk overcapping charges of Drill. It can be difficult to late weave Hypercharge before FMF/Chain Saw and still get the full five Blazing Shots, so this is only recommended on low ping/proper ping mitigation tools. 
 
 ![](/img/jobs/mch/machinist-example-120s-burst-standard-2-.png)
 
-<!--StartFragment-->
-
+<br>
 This is exactly the same set up as the previous infographic, but to account for non 10x HB. We get rid of the late weave Hypercharge and push it to the next GCD. Since there is a gap in our Hypercharge windows, we now need a filler. This window is not ideal because we have to put our weakest potency GCD in buffs and potentially pot (Heated Split Shot). We want to avoid this at all costs, so while this window does work, we want to try our best to stick to the 10x Blazing Shot window for the first 2-Minute to avoid the heated split shot in buffs, but we switch to this window for all future bursts for better alignment due to the brand new issue caused by the 4-Minute window. While it is not optimal to put a combo GCD in buffs, if your connection does not allow you to do 10x HB, this is sadly the only choice for the first 2-Minute window.
 
 Why can’t we hold 2/2 Drill charges to remove the combo GCD? While it is possible to be able to Drill immediately if the previous one before the 2-Minute is held, this causes a brand new issue. The 120s burst window only works the way it does because we enter this window combo neutral (ending our combo), this is done with the assumption you’re using Drill off cooldown. Holding the previous usage will simply require us to do an extra combo GCD to replace the Drill we chose to hold, which makes us go into the burst window NOT combo neutral and thus having to combo in burst anyways to not let the combo expire.
 
-<!--EndFragment-->
-
-
 
 ![](/img/jobs/mch/machinist-static-2-minute-burst-standard-2-.png)
 
-<!--StartFragment-->
+<br>
 
-We run into our first Dawntrail specific issue after the first 2-Minute burst. With the reduction in Heat generation per minute compared to now, we enter the 4-Minute burst with only 45 Heat. To resolve this and eliminate any use of non Heat Blast/Tools in all raid buffs, we delay one of our Drill to account for this. After the Air Anchor, we want to instantly continue our combo to gain the extra 5 Heat needed for our double HyperCharge window. Following the same rotation but pushing our Drill for after Excavator, which pushes Full Metal Field as well, and since we are not drifting Drill, and FMF is a combo from Barrel Stabilizer, we are not drifting any of these GCDs from their original cooldown. However, Wildfire is being drifted by a GCD in this window, thus the rest of the fight. So even though we don’t have the Heat issues for the next bursts, we want to still follow this static setup to give us a permanent rotation and fully maximize buffs. Only problem is having to miss an Air Anchor out of pot but this ultimately helps us by not having to combo mid burst to fully but everything inside of raid buffs. In order to make this static and not have to switch 2-minutes after the very first one, we can apply this to every 2-minute window. Even though we go into the 120s window combo neutral, we can still start a new one post Air Anchor and follow this setup to keep all of our bursts relatively static. We follow this instead of 10x HB because of the added bonus of putting our 2nd Drill inside of raid buffs, if buffs come out in the same manner as they did in Endwalker, we are replacing a Blazing Shot and oGCD with a Drill, which is a potency gain for buffs.
+We run into our first Dawntrail-specific issue after the first 2-Minute burst. With the reduction in Heat generation per minute compared to now, we enter the 4-Minute burst with only 45 Heat. To resolve this and eliminate any use of non Heat Blast/Tools in all raid buffs, we delay one of our Drill to account for this. After the Air Anchor, we want to instantly continue our combo to gain the extra five Heat needed for our double Hypercharge window. Following the same rotation but pushing our Drill for after Excavator, which pushes Full Metal Field as well, and since we are not drifting Drill, and FMF is a combo from Barrel Stabilizer, we are not drifting any of these GCDs from their original cooldown. However, Wildfire is being drifted by a GCD in this window, thus the rest of the fight. 
 
-<!--EndFragment-->
-
-
-
+So even though we don’t have the Heat issues for the next bursts, we want to still follow this static setup to give us a permanent rotation and fully maximize buffs. Only problem is having to miss an Air Anchor out of pot but this ultimately helps us by not having to combo mid burst to fully but everything inside of raid buffs. In order to make this static and not have to switch 2-minutes after the very first one, we can apply this to every 2-minute window. Even though we go into the 120s window combo neutral, we can still start a new one post Air Anchor and follow this setup to keep all of our bursts relatively static. We follow this instead of 10x HB because of the added bonus of putting our 2nd Drill inside of raid buffs, if buffs come out in the same manner as they did in Endwalker, we are replacing a Blazing Shot and oGCD with a Drill, which is a potency gain for buffs.
 
 
 ![](/img/jobs/mch/2022-01-03_16-03-43-500_okamiazure.png)
@@ -169,24 +161,15 @@ With the addition of Excavator, we are gaining 20 extra battery every one minute
 | 10:00:75           | 15th Queen (10 Minute Burst) | 100                   | Used instantly after Air Anchor to fully align itself with buffs                                           |
 
 
-
 While the Heat gauge may not be as flexible as the Battery gauge, there is still some finesse that can be had around its timings to make sure that you get the most out of your Hypercharge windows. Hypercharge windows can be chained together, but require a single GCD in between each window. Not only is this a good way to avoid overcapping heat during certain parts of the rotation, but it is also an excellent way of making the most out of raid buffs that may be lingering longer than a full Hypercharge window.
 
 Reassemble comes on a charge system, stacking up to two charges. Since Drill, Air Anchor, Chainsaw, and Excavator are all the same potency and Reassemble is no longer on a strict timer, we can place Reassemble on any four of these GCDs depending on our opening alignment, the raid buffs we have in our party, down time, and kill time. 
 
 ## Double Queen
 
-<!--StartFragment-->
+Double Queen is a window that was used towards the end of Endwalker that practically gained us an extra Automation Queen for our tincture/pot windows. The setup needed was to send our Queen roughly ~10 seconds before pot, since we needed a full combo (7.5 seconds) to gain 10 extra battery, with the 10 battery gained, after the next Air Anchor and Chain Saw in the burst window, we would have enough battery to send another 50 Queen. Because we sent the 1st Queen earlier than our pot, we have enough time to get most of the 1st in pot as well as the entire duration of the second Queen, ending up to be a sizable potency gain if any pot window allowed it. 
 
-Double Queen is a window that was used towards the end of Endwalker that practically gained us an extra Automation Queen for our tincture/pot windows. The setup needed was to send our Queen roughly ~10 seconds before pot, since we needed a full combo (7.5 seconds) to gain 10 extra battery, with the 10 battery gained, after the next Air Anchor and Chain Saw in the burst window, we would have enough battery to send another 50 Queen. Because we sent the 1st Queen earlier than our pot, we have enough time to get most of the 1st in pot as well as the entire duration of the 2nd Queen, ending up to be a sizable potency gain if any pot window allowed it. 
-
-
-
-With the addition of Excavator comboing off of Chain Saw, the extra 20 battery given means that we can effectively go into a Double Queen window for all of our 2-minute windows, including our pot windows if we are doing 2/8 minute pots. While it is still expected to specifically plan for Double Queen windows ahead of time, with the surplus of battery, we can do it with very minimal planning. It is important to note that while Automation Queen lasts roughly 16 seconds from start to finish, we cannot summon the 2nd Queen until ~21 seconds after the very first Automation Queen summoned. This means we can follow the same window that we currently do in 6.5. Send our Queen 10 seconds before our tincture/pot to properly get the entire duration in our window. With all raid buffs being extended to 20 seconds, we can catch some of the 2nd Queen in it, though it pretty much only being limited to 2-3 autos from our 2nd Queen. It is key to note that this is worse feed for raid buffs for an added benefit to our personal pot.
-
-
-
-<!--EndFragment-->
+With the addition of Excavator comboing off of Chain Saw, the extra 20 battery given means that we can effectively go into a Double Queen window for all of our 2-minute windows, including our pot windows if we are doing 2/8 minute pots. While it is still expected to specifically plan for Double Queen windows ahead of time, with the surplus of battery, we can do it with very minimal planning. It is important to note that while Automation Queen lasts roughly 16 seconds from start to finish, we cannot summon the 2nd Queen until ~21 seconds after the very first Automation Queen summoned. This means we can follow the same window that we currently do in 6.5. Send our Queen 10 seconds before our tincture/pot to properly get the entire duration in our window. With all raid buffs being extended to 20 seconds, we can catch some of the 2nd Queen in it, though it pretty much only being limited to 2-3 autos from our second Queen. It is key to note that this is worse feed for raid buffs for an added benefit to our personal pot.
 
 ![](/img/jobs/mch/2022-01-03_15-35-21-553_okaminightlight.png)
 
