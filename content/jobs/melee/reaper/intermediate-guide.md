@@ -1,6 +1,13 @@
 ---
 title: Intermediate Guide
+authors:
+  - Balance-RPR-Staff
+  - ellunavi
+patch: "7.0"
 lastmod: 2024-06-27T22:16:08.925Z
+changelog:
+  - date: 2024-07-02T21:55:37.160Z
+    message: Created article.
 ---
 # Reaper Intermediate Guide
 
