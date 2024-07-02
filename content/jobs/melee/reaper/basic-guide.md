@@ -3,8 +3,8 @@ title: "Reaper Basic Guide "
 card_header_image: /img/jobs/rpr/rpr-basic.png
 authors:
   - ellunavi
-patch: "6.5"
-lastmod: 2023-05-30T23:34:44.604Z
+patch: "7.0"
+lastmod: 2024-07-02T21:52:30.358Z
 changelog:
   - date: 2022-01-02T21:17:24.172Z
     message: Created page
@@ -16,6 +16,8 @@ changelog:
     message: Patch Update
   - date: 2023-10-04T16:51:04.278Z
     message: Updated patch number to 6.5
+  - date: 2024-07-02T21:52:31.144Z
+    message: Updated for Dawntrail.
 tags:
   - Reaper
   - guide
