@@ -24,10 +24,6 @@ The following are examples of burst setups for your two-minute windows. Please n
 
 ![Pictomancer 9 Spell Single Muse Burst](/img/jobs/pct/pictomancer9spellsinglemuseburst.png "Pictomancer 9 Spell Single Muse Burst")
 
-## 8 Spell Single Muse Burst
-
-![Pictomancer 8 Spell Single Muse Burst](/img/jobs/pct/pictomancer8spellsinglemuseburst.png "Pictomancer 8 Spell Single Muse Burst")
-
 ## 8 Spell Triple Muse Burst
 
 ![Pictomancer 8 Spell Triple Muse Burst](/img/jobs/pct/pictomancer8spelltriplemuseburst.png "Pictomancer 8 Spell Triple Muse Burst")
