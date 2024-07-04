@@ -4,7 +4,7 @@ card_header_image: /img/jobs/rpr/rpr-basic.png
 authors:
   - ellunavi
 patch: "7.0"
-lastmod: 2024-07-04T21:52:30.358Z
+lastmod: 2024-07-02T21:52:30.358Z
 changelog:
   - date: 2022-01-02T21:17:24.172Z
     message: Created page
@@ -18,8 +18,6 @@ changelog:
     message: Updated patch number to 6.5
   - date: 2024-07-02T21:52:31.144Z
     message: Updated for Dawntrail.
-  - date: 2024-07-04T19:58:32.640Z
-    message: Updated Opener.
 tags:
   - Reaper
   - guide
@@ -83,21 +81,22 @@ Do be aware, that Gibbet and Gallows are the only skills that have positional re
 * Shadow of Death applies the Death's Design debuff to your target, Whorl of Death applies the debuff to all targets within five yalms. This debuff can stack on itself with a maximum duration of 60s.
 * The following skills are upgraded when you use Enshroud:
 
-  * Gibbet turns into Void Reaping
-  * Gallows turns into Cross Reaping
-  * Guillotine turns into Grim Reaping
-  * Blood Stalk turns into Lemure's Slice
-  * Grim Swathe turns into Lemure's Scythe
-  * Gluttony turns into Sacrificium
+  * Gibbet turns into Void Reaping;
+  * Gallows turns into Cross Reaping;
+  * Guillotine turns into Grim Reaping;
+  * Blood Stalk turns into Lemure's Slice;
+  * Grim Swathe turns into Lemure's Scythe;
+  * Gluttony turns into Sacrificium.
 * The following skill(s) will be upgraded under different scenarios:
 
-  * Communio turns into Perfectio while under Perfectio Parata
+  * Communio turns into Perfectio while under Perfectio Parata;
+  * Gibbet, Gallows and Guillotine turn into their "Executioner's" correspondent when holding Exeuctioners stacks from Gluttony.
 * Void Reaping and Cross Reaping buff each other similarly to how Gibbet and Gallows do. Whenever you use Void Reaping, your next Cross Reaping will deal more damage. This buff does not persist when Enshroud ends so you are able to start on whichever Reaping skill you want every Enshroud. When you see these weaponskills mentioned, you can do either/or, but always make sure you are using the buffed version if applicable.
 * Soul Sow is spell with a five second cast time in combat but is instant outside of combat. When applied, the Soul Sow ability will change into Harvest Moon. Harvest Moon is a long-range spell that does a large amount of AoE damage. There are a few ways to utilize this ability:
 
-  * Harvest Moon whenever you have to disengage from an enemy for longer than global cooldown.
-  * Harvest Moon when you are able to deal AoE damage with it.
-  * Harvest Moon at least once each encounter.
+  * Harvest Moon whenever you have to disengage from an enemy for longer than global cooldown;
+  * Harvest Moon when you are able to deal AoE damage with it;
+  * Harvest Moon at least once each encounter;
   * Soul Sow before every boss pull and in-between dungeon packs.
 
 #### The Opener:
@@ -108,16 +107,16 @@ Do be aware, that Gibbet and Gallows are the only skills that have positional re
 * Cast Harpe after 2 appears on the countdown, or at 1.7s exactly.
 * Shadow of Death
 
-  * Potion *see note below for Potion Optimization
+  * Potion -- see Opener section for more info.
 * Soul Slice
 
-  * Arcane Circle
+  * Arcane Circle -- press this **ASAP** after the GCD to avoid clipping.
   * Gluttony
 * Executioner's Gibbet
 * Executioner's Gallows
 * Plentiful Harvest
 
-  * This will clip if your GCD is faster than 2.47, or you have high ping. Please see High ping/ SKS optimizations below.
+  * This will clip if your GCD is faster than 2.47, or you have high ping. Moving the Soul Slice from after Perfectio to before this GCD is a viable option. Please, see high ping section below.
   * Enshroud
 * Void Reaping
 
@@ -136,11 +135,7 @@ Do be aware, that Gibbet and Gallows are the only skills that have positional re
   * Unveiled Gibbet
 * Gibbet
 * Shadow of Death
-* Slice <--- Standard Potion is done here.
-* Soul Slice
-
-  * Unveiled Gallows
-* Gallows.
+* Slice -- Potion ends here.
 
 ## Priority System
 
@@ -148,7 +143,7 @@ Reaper can be played well by just following a priority system. Below is the reco
 
 * Spend Soul Reavers and Executioners on Gibbet or Gallows (whichever is buffed) if you have them.
 
-  * Use Guillotine if you can hit multiple enemies (**four** or more for the base skill, **three** or more for the Executioner counterpart).
+  * Use Guillotine if you can hit multiple enemies (at least **three** -- **four** if you have an Enhanced Gibbet/Gallows buff -- for the base skill, **three** or more for the Executioner counterpart).
 * Enshroud if the Ideal Host buff is about to fall off.
 * Perfectio if the Perfectio Parata buff is about to fall off.
 * Maintain Death’s design by using Shadow of Death.
@@ -165,7 +160,7 @@ Reaper can be played well by just following a priority system. Below is the reco
 
   * Alternate Void and Cross Reaping four times, as they buff each other.
 
-    * Use Grim Reaping if you can hit **three** or more enemies.
+    * Use Grim Reaping if you can hit **three** -- **four** if you have an Enhanced Gibbet/Gallows buff -- or more enemies.
   * Weave Lemure’s Slice after every other weapon skills.
 
     * Use Lemure’s Scythe if you can hit **three** or more enemies.
