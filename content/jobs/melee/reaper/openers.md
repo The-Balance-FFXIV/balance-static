@@ -2,8 +2,8 @@
 title: Reaper Openers
 authors:
   - Balance-RPR-Staff
-patch: "6.5"
-lastmod: 2023-05-30T23:32:26.914Z
+patch: "7.0"
+lastmod: 2024-07-04T23:32:26.914Z
 changelog:
   - date: 2022-01-29T01:54:23.902Z
     message: Updated Fast Shroud opener (Adjusted potion for better timing)
@@ -15,64 +15,33 @@ changelog:
     message: Patch check 6.4
   - date: 2023-10-04T16:56:09.014Z
     message: Updated patch number to 6.5
+  - date: 2024-07-04T19:40:07.603Z
+    message: Added Dawntrail Opener
 ---
-## Fast Enshroud Opener
+## 2nd GCD AC
 
-![](/img/jobs/rpr/rpr_6.3_early_enshroud.png)
-
-[Full Size](/img/jobs/rpr/rpr_6.3_early_enshroud.png)
-
-* Soul Sow pre-pull
-* Cast Harpe after 2 appears on the countdown
-* Shadow of Death
-
-  * Arcane Circle as fast possible
-* Soul Slice
-* Soul Slice
-
-  * Potion here if you are using potion in the opener
-* Plentiful Harvest
-
-  * This will clip if your GCD is faster than 2.47, or you have high ping. If the clip here is bothersome, or over a quarter of your GCD cast, use the Early Gluttony opener.
-  * Enshroud
-* Void Reaping
-* Cross Reaping
-
-  * Lemure's Slice
-* Void Reaping
-* Cross Reaping
-
-  * Lemure's Slice
-* Communio
-
-  * Gluttony
-* Gibbet
-* Gallows
-
-  * Unveilled Gibbet
-* Gibbet
-
-## Early Gluttony Opener
-
-![](/img/jobs/rpr/rpr_6.3_early_gluttony.png)
+![](/img/jobs/rpr/second-gcd-ac.png)
 
 [Full Size](rpr_6.3_early_gluttony.png)
 
 * Soul Sow pre-pull
-* Use Tincture / Potion at 3s on Countdown
-* Cast Harpe after 2 appears on the countdown
+* Cast Harpe after 2 appears on the countdown, or at 1.7s exactly.
 * Shadow of Death
 
-  * Arcane Circle - If possible, move this to after the next GCD. Only do it here if your Plentiful Harvest clips later on.
+  * Potion -- see note below for Potion Optimization.
 * Soul Slice
 
+  * Arcane Circle -- press this **ASAP** after the GCD to avoid clipping.
   * Gluttony
-* Gibbet
-* Gallows
+* Executioner's Gibbet
+* Executioner's Gallows
 * Plentiful Harvest
 
+  * This will clip if your GCD is faster than 2.47, or you have high ping. Moving the Soul Slice from after Perfectio to before this GCD is a viable option. 
   * Enshroud
 * Void Reaping
+
+  * Sacrificium
 * Cross Reaping
 
   * Lemure's Slice
@@ -81,9 +50,29 @@ changelog:
 
   * Lemure's Slice
 * Communio
+* Perfectio
 * Soul Slice
 
-  * Unveilled Gibbet
+  * Unveiled Gibbet
 * Gibbet
+* Shadow of Death
+* Slice -- Potion ends here.
+* Soul Slice
 
-Special thanks to Moth, Kira, and Jackal for the infographs!
+  * Unveiled Gallows
+* Gallows.
+
+### Potion Optimization
+
+Ideally, we would rather potion at the 2nd minute mark, but this isn't always the case in some encounters. There are actually three ways to optimize potion, each with different effectiveness.
+
+* Triple-weave Potion after Arcane Circle, before Gluttony.
+
+  * This require immaculate ping and potentially the aid of third party software. The gains here are minor, but it is our best usage.
+* In a low raid buff situation (1 additional raid buffer other than you) we can alter the opener slightly:
+
+  * Move the second Shadow of Death to after the first Soul Slice;
+  * Late-weave AC after the Soul Slice;
+  * Double-weave Potion and Gluttony after the new second Shadow of Death positioning.
+
+Lastly, you can execute it like the image is above with very little impact on our overall DPS.
