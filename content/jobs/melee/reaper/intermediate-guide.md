@@ -24,7 +24,7 @@ Welcome to Reaper Intermediate Guide! The objective of this guide is to tackle s
 
 ## Two Minute Burst Windows
 
-Optimizing your two minute burst window to better play into buffs is what really set you apart as a Reaper. An optimized Double Enshroud Window is putting around 2000 more potency into raid buffs than an optimized Single Enshroud one. Reaper has a lot of options for Burst windows and some win out based on the number of raid buffs you have or even win out based on the current timeline of the fight you are in. Below is the safest option for your two minute burst window, that will work best in most situations. 
+Optimizing your two minute burst window to better play into buffs is what really set you apart as a Reaper. An optimized Double Enshroud Window is putting around 2000 more potency into raid buffs than an optimized Single Enshroud one. Reaper has a lot of options for burst windows that are better discussed in the Advanced Guide. Below is the safest option for your two minute burst window, that will work best in most situations. 
 
 ![](/img/jobs/rpr/standardouble.png "Reaper Standard Burst")
 
@@ -35,14 +35,14 @@ The ending is a bit complicated in wording but simple in nature. We have two maj
 
 The best ending in terms of damage would be Perfectio -> Gluttony, but we will almost always be restricted by combo here. Because of that we need to keep some combo keeping situations in mind:
 
-* If you delay anywhere at all during this burst sequence, Combo instead of Perfectio (the window to maintain combo is really tight).
-* If enter the first Enshroud on a non-combo GCD while still being in combo, then you will need to use Combo before Perfectio.
+* If you clip your GCD anywhere at all during this burst sequence, Combo instead of Perfectio (the window to maintain combo is really tight).
+* If you enter the first Enshroud on a non-combo GCD while still being in combo, then you will need to use Combo before Perfectio.
 
 Gluttony also has some considerations regarding its cooldown timer and the gauge you have available. If cooldown is an issue but gauge and combo aren't, you can also suppliment this space with an Unveilled action for a tiny bit more damage in raid buffs.
 
-### Variant Two Minute Bursts
+### Different Two Minute Bursts
 
-Reaper has more than one potential burst window, but the variant being used needs to be carefully considered. More of the how and when to use them will be covered in the advanced guide, but just know that their gains are typically sub .2% of our DPS.
+Reaper has more than one potential burst window, but the variant being used needs to be carefully considered. More of the how and when to use them will be covered in the Advanced Guide, but just know that their gains are typically sub .2% of our DPS.
 
 #### Combo Entry Point
 
@@ -50,7 +50,7 @@ One of the neat things about Dawntrail Reaper is that Perfectio fills in a role 
 
 #### The 9th Hour (Minute)
 
-In a full uptime scenario, the 10 minute burst will not function anymore due to gauge negativity. This can happen at the 8th minute as well if you lose a single GCD before then. It is recommended, when this happens, to just bank the Enshroud at the 9th minute (7th minute if you would mess up the 8th minute). This is called "Deadzoning" and usually reserved for advanced purposes, but it is overall a net gain for us to do it in these windows. Do note, that dying with this gauge is way more of a loss than dying without the gauge if the fight is tough and you think you may perish before reaching the burst window it is recommended to not hold the gauge.
+In a full uptime scenario, the 10 minute burst will not function anymore due to gauge negativity. This can happen at the 8th minute as well if you lose a single GCD before then. It is recommended, when this happens, to just bank the Enshroud at the 9th minute (7th minute if you would mess up the 8th minute). This is called "Deadzoning" and usually reserved for advanced purposes, but it is overall a net gain for us to do it in these windows. Do note, that dying with this gauge is way more of a loss than dying without the gauge. If the fight is tough and you think that you may perish before reaching the burst window it is recommended to not hold the gauge.
 
 #### Single Enshroud Burst
 
@@ -67,7 +67,7 @@ Reaper received a major change in Dawntrail, that being that Harvest Moon and Ha
 * **Harvest Moon** is your first line of uptime defense. You only get one in any encounter where the boss doesn't leave the arena for 5s or more and using it to maintain uptime is crucial. It is an instant cast and is 800p, meaning that using it at any point in the fight will always be a gain.
 * Perfectio is your second line of uptime defense and arguable the most complicated piece. In standard burst sequences, Perfectio can be brought outside of the burst for potential uptime gains within 30s of the final Communio. By using Perfectio instead of Harpe, you more-or-less secure a combo action which will net you anywhere from 132-330p. 
 * Enhanced Harpe is another great option just because its instant cast and will allow for more mobility. You get this from simply using Hell's Ingress or Hell's Regress which are both great tools for maintaining uptime.
-* Hard-cast Harpe - Sometimes the teleport skills go to far, or the downtime is extended and we will have to utilize hardcast Harpe. This isn't to terribly difficult with its short cast time.
+* Hard-cast Harpe - Sometimes the teleport skills go to far, or the downtime is extended and we will have to utilize hardcast Harpe. This isn't too terribly difficult with its short cast time.
 
 #### Perfectio Ranged Flex
 
