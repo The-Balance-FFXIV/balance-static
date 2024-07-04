@@ -73,7 +73,6 @@ Ideally, we would rather potion at the 2nd minute mark, but this isn't always th
 
   * Move the second Shadow of Death to after the first Soul Slice;
   * Late-weave AC after the Soul Slice;
-  * Double-weave Potion and Gluttony after the new second Shadow of Death positioning;
-  * Change the Soul Slice from after Perfectio to before Plentiful Harvest.
+  * Double-weave Potion and Gluttony after the new second Shadow of Death positioning.
 
 Lastly, you can execute it like the image is above with very little impact on our overall DPS.
