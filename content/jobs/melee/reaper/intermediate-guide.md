@@ -48,6 +48,10 @@ Reaper has more than one potential burst window, but the variant being used need
 
 One of the neat things about Dawntrail Reaper is that Perfectio fills in a role that used to be occupied by a 19th combo GCD. This means we will do 18 combo GCDs between each burst sequence. In full-uptime scenarios, you will most likely always enter your burst on the same combo point. The caveat here is that every Harpe and Harvest Moon will shift this combo window by one GCD. So there are cases, like a 2 ranged GCD filler rotation, where our burst window will enter combo neutral.
 
+#### The 9th Hour (Minute)
+
+In a full uptime scenario, the 10 minute burst will not function anymore due to gauge negativity. This can happen at the 8th minute as well if you lose a single GCD before then. It is recommended, when this happens, to just bank the Enshroud at the 9th minute (7th minute if you would mess up the 8th minute). This is called "Deadzoning" and usually reserved for advanced purposes, but it is overall a net gain for us to do it in these windows. Do note, that dying with this gauge is way more of a loss than dying without the gauge if the fight is tough and you think you may perish before reaching the burst window it is recommended to not hold the gauge.
+
 #### Single Enshroud Burst
 
 In Endwalker, Single Enshroud was significantly weaker than our Double Enshroud burst. In Dawntrail, it is now a lot closer. With Gluttony being a much stronger GCD with its two 820p follow up attacks, we now need to take more consideration of losing a use. The best way to prevent losing that use is to utilize a Single Enshroud windows. 
