@@ -18,9 +18,6 @@ Welcome to Reaper Intermediate Guide! The objective of this guide is to tackle s
 * Standard Two-Minute Burst Window
 * Variant Two-Minute Burst Windows
 * Uptime Optimization
-* Dead Zoning
-* The 10 Minute Window
-* Potion Optimization
 
 ## Two Minute Burst Windows
 
@@ -75,8 +72,8 @@ Perfectio's availability can be stretched out to nearly a minute after Plentiful
 
 <https://docs.google.com/spreadsheets/d/16zo0BorEt3UMv2hXjTFNcyKQjooRW1jwXp7eGAc7BiY/edit?usp=sharing>
 
-The following topics will be covered sometime after DT launch:
 
-* Deadzoning
-* 10 Minute burst Window
-* Potion Optimization
+
+#### Executioner's Gallows
+
+Executioner's Gallows has a damage delay of 2.12s! This is a massive delay in damage and can potentially cause ghosting. If you ever end up using Gluttony before a boss jumps and you get both GCDs it will always be safe to finish with Executioner's Gibbet instead of Gallows. Keep in mind, that if you discover this is a problem then you will most likely have to re-organized your whole Gibbet -> Gallows rotation. While we are unsure if this will impact any fights in Dawntrail, I recommend checking the Encounter sections for each fight to figure out the best Gibbet -> Gallows rotation for each fight.
