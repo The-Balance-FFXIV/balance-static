@@ -71,9 +71,7 @@ Reaper received a major change in Dawntrail, that being that Harvest Moon and Ha
 
 #### Perfectio Ranged Flex
 
-Perfectio's availability can be stretched out to nearly a minute after Plentiful Harvests or almost 90s after Arcane Circle has been used. This does require some planning to utilize but we do have the ability to utilizing windows such as the one in the spreadsheet below to not sacrifice too much damage in our burst window and also allowing us uptime pretty far into the future. This may be a non-standard optimization or it could be a niche tool for certain encounters, but I believe understanding how good Perfectio as a ranged tool is will be a differential when it comes to skill expression.
-
-You can view an example of this theory here:
+Perfectio's availability can be stretched out to nearly a minute after Plentiful Harvests or almost 90s after Arcane Circle has been used. This does require some planning to utilize but we do have the ability to utilizing windows such as the one in the spreadsheet below to not sacrifice too much damage in our burst window and also allowing us uptime pretty far into the future. This may be a non-standard optimization or it could be a niche tool for certain encounters, but I believe understanding how good Perfectio as a ranged tool is will be a differential when it comes to skill expression. You can view an example of this theory here.
 
 <https://docs.google.com/spreadsheets/d/16zo0BorEt3UMv2hXjTFNcyKQjooRW1jwXp7eGAc7BiY/edit?usp=sharing>
 
