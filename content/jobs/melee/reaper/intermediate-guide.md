@@ -27,12 +27,12 @@ Optimizing your two minute burst window to better play into buffs is what really
 
 The ending is a bit complicated in wording but simple in nature. We have two major goals:
 
-* Maintain our Combo
+* Maintain our Combo;
 * Push as much Potency into raid buffs.
 
-The best ending in terms of damage would be Perfectio -> Gluttony, but we will almost always be restricted by combo here. Because of that we need to keep some combo keeping situations in mind:
+The best ending in terms of damage would be Perfectio → Gluttony, but we will almost always be restricted by combo here. Because of that we need to keep some combo keeping situations in mind:
 
-* If you clip your GCD anywhere at all during this burst sequence, Combo instead of Perfectio (the window to maintain combo is really tight).
+* If you clip your GCD anywhere at all during this burst sequence, Combo instead of Perfectio (the window to maintain combo is really tight);
 * If you enter the first Enshroud on a non-combo GCD while still being in combo, then you will need to use Combo before Perfectio.
 
 Gluttony also has some considerations regarding its cooldown timer and the gauge you have available. If cooldown is an issue but gauge and combo aren't, you can also suppliment this space with an Unveilled action for a tiny bit more damage in raid buffs.
@@ -61,9 +61,9 @@ Single Enshrouds are somewhat more complicated than Doubles because of the Enshr
 
 Reaper received a major change in Dawntrail, that being that Harvest Moon and Harpe now generate 10 Soul. Reaper also received a new action in their rotation that generates no Soul -- Perfectio. Because of this the risk of not having enough gauge intensifies, meaning that with enough wasted downtime the burst window at even 8 minutes could be in jeopardy. One of the challenges will be for RPR to utilize their ranged tools to maintain uptime for not only more damage but also to ensure that their rotation later down the line doesn't suffer.
 
-* **Harvest Moon** is your first line of uptime defense. You only get one in any encounter where the boss doesn't leave the arena for 5s or more and using it to maintain uptime is crucial. It is an instant cast and is 800p, meaning that using it at any point in the fight will always be a gain.
-* Perfectio is your second line of uptime defense and arguable the most complicated piece. In standard burst sequences, Perfectio can be brought outside of the burst for potential uptime gains within 30s of the final Communio. By using Perfectio instead of Harpe, you more-or-less secure a combo action which will net you anywhere from 132-330p. 
-* Enhanced Harpe is another great option just because its instant cast and will allow for more mobility. You get this from simply using Hell's Ingress or Hell's Regress which are both great tools for maintaining uptime.
+* **Harvest Moon** is your first line of uptime defense. You only get one in any encounter where the boss doesn't leave the arena for 5s or more and using it to maintain uptime is crucial. It is an instant cast and is 800p, meaning that using it at any point in the fight will always be a gain;
+* Perfectio is your second line of uptime defense and arguable the most complicated piece. In standard burst sequences, Perfectio can be brought outside of the burst for potential uptime gains within 30s of the final Communio. By using Perfectio instead of Harpe, you more-or-less secure a combo action which will net you anywhere from 132-330p;
+* Enhanced Harpe is another great option just because its instant cast and will allow for more mobility. You get this from simply using Hell's Ingress or Hell's Regress which are both great tools for maintaining uptime;
 * Hard-cast Harpe - Sometimes the teleport skills go to far, or the downtime is extended and we will have to utilize hardcast Harpe. This isn't too terribly difficult with its short cast time.
 
 #### Perfectio Ranged Flex
@@ -72,8 +72,6 @@ Perfectio's availability can be stretched out to nearly a minute after Plentiful
 
 <https://docs.google.com/spreadsheets/d/16zo0BorEt3UMv2hXjTFNcyKQjooRW1jwXp7eGAc7BiY/edit?usp=sharing>
 
-
-
 #### Executioner's Gallows
 
-Executioner's Gallows has a damage delay of 2.12s! This is a massive delay in damage and can potentially cause ghosting. If you ever end up using Gluttony before a boss jumps and you get both GCDs it will always be safe to finish with Executioner's Gibbet instead of Gallows. Keep in mind, that if you discover this is a problem then you will most likely have to re-organized your whole Gibbet -> Gallows rotation. While we are unsure if this will impact any fights in Dawntrail, I recommend checking the Encounter sections for each fight to figure out the best Gibbet -> Gallows rotation for each fight.
+Executioner's Gallows has a damage delay of 2.12s! This is a massive delay in damage and can potentially cause ghosting. If you ever end up using Gluttony before a boss jumps and you get both GCDs, it will always be safe to finish with Executioner's Gibbet instead of Gallows. Keep in mind that, if you discover this is a problem, then you will most likely have to re-organize your whole Gibbet/Gallows rotation. While we are unsure if this will impact any fights in Dawntrail, I recommend checking the Encounter sections for each fight to figure out the best Gibbet/Gallows rotation for each fight.
