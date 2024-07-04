@@ -4,7 +4,7 @@ card_header_image: /img/jobs/rpr/rpr-basic.png
 authors:
   - ellunavi
 patch: "7.0"
-lastmod: 2024-07-02T21:52:30.358Z
+lastmod: 2024-07-04T21:52:30.358Z
 changelog:
   - date: 2022-01-02T21:17:24.172Z
     message: Created page
@@ -18,6 +18,8 @@ changelog:
     message: Updated patch number to 6.5
   - date: 2024-07-02T21:52:31.144Z
     message: Updated for Dawntrail.
+  - date: 2024-07-04T19:58:32.640Z
+    message: Updated Opener.
 tags:
   - Reaper
   - guide
