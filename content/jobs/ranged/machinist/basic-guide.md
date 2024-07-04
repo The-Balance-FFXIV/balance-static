@@ -58,9 +58,7 @@ While reading this guide, the following images can be referenced to get a better
 
 ![](/img/jobs/mch/machinist-standard-opener-aa-6-.png)
 
-![](/img/jobs/mch/machinist-static-2-minute-burst-standard-2-.png)
-
-
+![](/img/jobs/mch/machinist-static-2-minute-burst-carrying-combo-.png)
 
 ## Generalized Battery Usage
 
@@ -87,31 +85,43 @@ In between your burst windows, you will default to pressing your combo actions (
 
 # Two-Minute Variations
 
-Previously, we gave an infographic for our Static 2-Minute Burst, but it is actually not needed for the very first two minute burst of the fight (120 seconds). This is because during the 4-Minute burst, we run into a very brand new issue, only having 45 Heat previous to the window. While this is explained in more depth later, for those that do not want to juggle between different burst windows in the same rotation, we can stick to the same static rotation shown earlier to keep all of our 2-Minute windows the same.
+Previously, we gave an infographic for our Static 2-Minute Burst, but it is actually not needed for the very first two minute burst of the fight (120 seconds). This is because during the 4-Minute burst, we run into a very brand new issue and having the possibility to have our combo expire. With much more buttons in our burst windows, we run the risk of having our combo fall off if not maintained properly. However, for the first 2 minute window, we enter the burst on Heated Clean Shot, allowing us to burst normally without any problem. The ideal window is a 10x Blazing Shot window since without it, regardless of not needing to continue combo, we have a GCD filler after the 5th Blazing Shot. While this is can be fixed with Drill first in the opener (allowing it to a used a GCD earlier in burst), we recommend 10x Blazing Shot windows when able to do so. Although 10x is ideal, it is a little tough to properly do if on high ping to late weave the Hypercharge before Full Metal Field. If you are absolutely unable to do this setup, we still recommend the Heated Combo GCD after the 5th Blazing followed by the Drill into the next HC window. 
 
 ![](/img/jobs/mch/machinist-example-120s-burst-10x-hb-1-.png)
 
 <br>
 <br>
 
-Assuming we carry on as usual, our first 2-minute burst will look something like this. If 2-minute potting, we want to use it before the Air Anchor. An extremely important note is that this ONLY works for the very first 2-minute window (120 seconds into the fight), this will be explained later on. We end this window with Drill, and since we have two stacks, it is not drifted but rather delayed in order to give us more Heat Blasts in buffs, and since we used Drill earlier, we never risk overcapping charges of Drill. It can be difficult to late weave Hypercharge before FMF/Chain Saw and still get the full five Blazing Shots, so this is only recommended on low ping/proper ping mitigation tools. 
-
-![](/img/jobs/mch/machinist-example-120s-burst-standard-2-.png)
+Assuming we carry on as usual, our first 2-minute burst will look something like this. If 2-minute potting, we want to use it before the Air Anchor. An extremely important note is that this **ONLY** works for the very first 2-minute window (120 seconds into the fight), this will be explained later on. We end this window with Drill, and since we have two stacks, it is not drifted but rather delayed in order to give us more Heat Blasts in buffs, and since we used Drill earlier, we never risk overcapping charges of Drill. It can be difficult to late weave Hypercharge before FMF/Chain Saw and still get the full five Blazing Shots, so this is only recommended on low ping/proper ping mitigation tools. 
 
 <br>
-This is exactly the same set up as the previous infographic, but to account for non 10x HB. We get rid of the late weave Hypercharge and push it to the next GCD. Since there is a gap in our Hypercharge windows, we now need a filler. This window is not ideal because we have to put our weakest potency GCD in buffs and potentially pot (Heated Split Shot). We want to avoid this at all costs, so while this window does work, we want to try our best to stick to the 10x Blazing Shot window for the first 2-Minute to avoid the heated split shot in buffs, but we switch to this window for all future bursts for better alignment due to the brand new issue caused by the 4-Minute window. While it is not optimal to put a combo GCD in buffs, if your connection does not allow you to do 10x HB, this is sadly the only choice for the first 2-Minute window.
+
+
+
+![](/img/jobs/mch/akt1w0i.png)
+
+<br>
+<!--StartFragment-->
+
+This is exactly the same set up as the previous infographic, but to account for non 10x HB. We get rid of the late weave Hypercharge and push it to the next GCD. Since there is a gap in our Hypercharge windows, we now need a filler. This window is not ideal because we have to put our weakest potency GCD in buffs and potentially pot (Heated Split Shot). We want to avoid this at all costs, so while this window does work, we want to try our best to stick to the 10x HB window for the first 2-Minute to avoid the heated split shot in buffs, but we switch to this window for all future bursts for better alignment due to the brand new issue caused by the 4-Minute window and to prevent letting our combo expire. While it is not optimal to put a combo gcd in buffs, if your connection does not allow you to do 10x Blazing Shot, this is sadly the only choice for the first 2-Minute window.<br> 
 
 Why can’t we hold 2/2 Drill charges to remove the combo GCD? While it is possible to be able to Drill immediately if the previous one before the 2-Minute is held, this causes a brand new issue. The 120s burst window only works the way it does because we enter this window combo neutral (ending our combo), this is done with the assumption you’re using Drill off cooldown. Holding the previous usage will simply require us to do an extra combo GCD to replace the Drill we chose to hold, which makes us go into the burst window NOT combo neutral and thus having to combo in burst anyways to not let the combo expire.
 
 
-![](/img/jobs/mch/machinist-static-2-minute-burst-standard-2-.png)
+
+<!--EndFragment-->
+
+![](/img/jobs/mch/machinist-static-2-minute-burst-carrying-combo-.png)
 
 <br>
 
-We run into our first Dawntrail-specific issue after the first 2-Minute burst. With the reduction in Heat generation per minute compared to now, we enter the 4-Minute burst with only 45 Heat. To resolve this and eliminate any use of non Heat Blast/Tools in all raid buffs, we delay one of our Drill to account for this. After the Air Anchor, we want to instantly continue our combo to gain the extra five Heat needed for our double Hypercharge window. Following the same rotation but pushing our Drill for after Excavator, which pushes Full Metal Field as well, and since we are not drifting Drill, and FMF is a combo from Barrel Stabilizer, we are not drifting any of these GCDs from their original cooldown. However, Wildfire is being drifted by a GCD in this window, thus the rest of the fight. 
+<!--StartFragment-->
 
-So even though we don’t have the Heat issues for the next bursts, we want to still follow this static setup to give us a permanent rotation and fully maximize buffs. Only problem is having to miss an Air Anchor out of pot but this ultimately helps us by not having to combo mid burst to fully but everything inside of raid buffs. In order to make this static and not have to switch 2-minutes after the very first one, we can apply this to every 2-minute window. Even though we go into the 120s window combo neutral, we can still start a new one post Air Anchor and follow this setup to keep all of our bursts relatively static. We follow this instead of 10x HB because of the added bonus of putting our 2nd Drill inside of raid buffs, if buffs come out in the same manner as they did in Endwalker, we are replacing a Blazing Shot and oGCD with a Drill, which is a potency gain for buffs.
+We run into our first Dawntrail specific issue after the first 2-Minute burst. With the reduction in Heat generation per minute compared to now, we enter the 4-Minute burst with only 45 Heat. To resolve this we continue the same thought process from the previous infographics and we want to continue our burst as usual, even if we go into this window combo neutral, it does not matter since we are only entering with 45 Heat. We have to find a way to obtain the extra 5 from a Heated Combo GCD regardless. The previous infographics had us delaying our Drill and shifting Drill after Excavator and thus pushing Full Metal Field a GCD after. While this does work, it is extremely inconsistent with 2.50 GCD speed, which is normally ideal for us, so for the time being we are moving away from it. It can be considered again if we are using anything faster than 2.5 gcd. To continue with this window, after our default burst, we want to Heated Combo GCD to continue the combo timer and follow up with Drill to maximize buffs. The Heated Combo is definitely a loss for buff feed and a slightly weaker pot window, but an efficient way to continue with our rotations and to set up better windows in the future. 
 
+
+
+<!--EndFragment-->
 
 ![](/img/jobs/mch/2022-01-03_16-03-43-500_okamiazure.png)
 
@@ -145,7 +155,7 @@ With the addition of Excavator, we are gaining 20 extra battery every one minute
 | **Fight Duration** | **Number of Queen**          | **Amount of Battery** | **Notes**                                                                                                  |
 | ------------------ | ---------------------------- | --------------------- | ---------------------------------------------------------------------------------------------------------- |
 | 00:07:50           | 1st Queen (Opener)           | 60                    | Used instantly, 4th GCD                                                                                    |
-| 01:08:25           | 2nd Queen                    | 90                    |                                                                                                            |
+| 01:08:25           | 2nd Queen                    | 90                    | If not early Hypercharging, delay Excavator for Heated Clean Shot to also get the 90 battery.              |
 | 02:01:50           | 3rd Queen  (2 Minute Burst)  | 100                   | Used instantly after Air Anchor to fully align itself with buffs                                           |
 | 02:38:25           | 4th Queen                    | 50                    |                                                                                                            |
 | 03:08:25           | 5th Queen                    | 60                    | We delay Excavator a single GCD  (or whenever the next Heated Clean Shot is available to get the 60 gauge) |
@@ -159,7 +169,6 @@ With the addition of Excavator, we are gaining 20 extra battery every one minute
 | 08:35:75           | 13th Queen                   | 50                    |                                                                                                            |
 | 09:08:25           | 14th Queen                   | 60                    | We delay Excavator a single GCD (or whenever the next Heated Clean Shot is available to get the 60 gauge)  |
 | 10:00:75           | 15th Queen (10 Minute Burst) | 100                   | Used instantly after Air Anchor to fully align itself with buffs                                           |
-
 
 While the Heat gauge may not be as flexible as the Battery gauge, there is still some finesse that can be had around its timings to make sure that you get the most out of your Hypercharge windows. Hypercharge windows can be chained together, but require a single GCD in between each window. Not only is this a good way to avoid overcapping heat during certain parts of the rotation, but it is also an excellent way of making the most out of raid buffs that may be lingering longer than a full Hypercharge window.
 
