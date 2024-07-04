@@ -142,7 +142,7 @@ The whole Reawaken combo takes 13.2s (11.22s with the 15% haste buff) with no sk
 
 I﻿t might be tricky to understand what button replaces what on this job, so please see this visual made by Rhy to help understand what is happening. 
 
-![](/img/jobs/vpr/button-replacements.png)
+![](/img/jobs/vpr/skill_replacementv2.png)
 
 # 7﻿. Viper Basic Rotation
 
