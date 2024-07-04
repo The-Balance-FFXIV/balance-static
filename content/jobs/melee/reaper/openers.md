@@ -28,16 +28,16 @@ changelog:
 * Cast Harpe after 2 appears on the countdown, or at 1.7s exactly.
 * Shadow of Death
 
-  * Potion *see note below for Potion Optimization
+  * Potion -- see note below for Potion Optimization.
 * Soul Slice
 
-  * Arcane Circle
+  * Arcane Circle -- press this **ASAP** after the GCD to avoid clipping.
   * Gluttony
 * Executioner's Gibbet
 * Executioner's Gallows
 * Plentiful Harvest
 
-  * This will clip if your GCD is faster than 2.47, or you have high ping. Please see High ping/ SKS optimizations below.
+  * This will clip if your GCD is faster than 2.47, or you have high ping. Moving the Soul Slice from after Perfectio to before this GCD is a viable option. 
   * Enshroud
 * Void Reaping
 
@@ -56,7 +56,7 @@ changelog:
   * Unveiled Gibbet
 * Gibbet
 * Shadow of Death
-* Slice <--- Standard Potion is done here.
+* Slice -- Potion ends here.
 * Soul Slice
 
   * Unveiled Gallows
@@ -64,20 +64,16 @@ changelog:
 
 ### Potion Optimization
 
-Ideally we would rather potion at the 2nd minute mark, but this isn't always the case in some encounters. There are actually three ways to optimize potion, each with different effectiveness.
+Ideally, we would rather potion at the 2nd minute mark, but this isn't always the case in some encounters. There are actually three ways to optimize potion, each with different effectiveness.
 
-* Triple weave Potion after Arcane Circle, before Gluttony.
+* Triple-weave Potion after Arcane Circle, before Gluttony.
 
-  * This require immaculate ping and potentially the aid of third party software, the gains here are minor but it is our best usage.
+  * This require immaculate ping and potentially the aid of third party software. The gains here are minor, but it is our best usage.
 * In a low raid buff situation (1 additional raid buffer other than you) we can alter the opener slightly:
 
-  * Move the second Shadow of Death to after the First Soul Slice
-  * Late Weave AC after the Soul Slice
-  * Double Weave Potion and Gluttony after the new Second Shadow of Death positioning.
-* Lastly, you can execute it like the image is above with very little impact on our overall DPS.
+  * Move the second Shadow of Death to after the first Soul Slice;
+  * Late-weave AC after the Soul Slice;
+  * Double-weave Potion and Gluttony after the new second Shadow of Death positioning;
+  * Change the Soul Slice from after Perfectio to before Plentiful Harvest.
 
-
-
-### High Ping / SKS Optimization
-
-If you are playing at below a 2.47 GCD or have high ping, you can move the the Soul Slice after Perfection to before Plentiful Harvest. This will allow for ease of use and come at minor to almost no potency loss depending on external raid buffs.
+Lastly, you can execute it like the image is above with very little impact on our overall DPS.
