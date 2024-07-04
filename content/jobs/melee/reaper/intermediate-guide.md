@@ -27,7 +27,7 @@ Optimizing your two minute burst window to better play into buffs is what really
 
 The ending is a bit complicated in wording but simple in nature. We have two major goals:
 
-* Maintain our Combo;
+* Maintain our combo;
 * Push as much Potency into raid buffs.
 
 The best ending in terms of damage would be Perfectio → Gluttony, but we will almost always be restricted by combo here. Because of that we need to keep some combo keeping situations in mind:
@@ -62,13 +62,13 @@ Single Enshrouds are somewhat more complicated than Doubles because of the Enshr
 Reaper received a major change in Dawntrail, that being that Harvest Moon and Harpe now generate 10 Soul. Reaper also received a new action in their rotation that generates no Soul -- Perfectio. Because of this the risk of not having enough gauge intensifies, meaning that with enough wasted downtime the burst window at even 8 minutes could be in jeopardy. One of the challenges will be for RPR to utilize their ranged tools to maintain uptime for not only more damage but also to ensure that their rotation later down the line doesn't suffer.
 
 * **Harvest Moon** is your first line of uptime defense. You only get one in any encounter where the boss doesn't leave the arena for 5s or more and using it to maintain uptime is crucial. It is an instant cast and is 800p, meaning that using it at any point in the fight will always be a gain;
-* Perfectio is your second line of uptime defense and arguable the most complicated piece. In standard burst sequences, Perfectio can be brought outside of the burst for potential uptime gains within 30s of the final Communio. By using Perfectio instead of Harpe, you more-or-less secure a combo action which will net you anywhere from 132-330p;
-* Enhanced Harpe is another great option just because its instant cast and will allow for more mobility. You get this from simply using Hell's Ingress or Hell's Regress which are both great tools for maintaining uptime;
-* Hard-cast Harpe - Sometimes the teleport skills go to far, or the downtime is extended and we will have to utilize hardcast Harpe. This isn't too terribly difficult with its short cast time.
+* **Perfectio** is your second line of uptime defense and arguable the most complicated piece. In standard burst sequences, Perfectio can be brought outside of the burst for potential uptime gains within 30s of the final Communio. By using Perfectio instead of Harpe, you more-or-less secure a combo action which will net you anywhere from 132-330p;
+* **Enhanced Harpe** is another great option just because its instant cast and will allow for more mobility. You get this from simply using Hell's Ingress or Hell's Regress which are both great tools for maintaining uptime;
+* **Hardcast Harpe** is the final option. Sometimes the teleport skills go too far, or the downtime is extended and we will have to utilize a hardcasted Harpe. This isn't too terribly difficult with its short cast time.
 
 #### Perfectio Ranged Flex
 
-Perfectio's availability can be stretched out to nearly a minute after Plentiful Harvests or almost 90s after Arcane Circle has been used. This does require some planning to utilize but we do have the ability to utilizing windows such as the one in the spreadsheet below to not sacrifice too much damage in our burst window and also allowing us uptime pretty far into the future. This may be a non-standard optimization or it could be a niche tool for certain encounters, but I believe understanding how good Perfectio as a ranged tool is will be a differential when it comes to skill expression. You can view an example of this theory here.
+Perfectio's availability can be stretched out to nearly a minute after Plentiful Harvests or almost 90s after Arcane Circle has been used. This does require some planning to utilize, but we do have the ability to utilizing windows such as the one in the spreadsheet below to not sacrifice too much damage in our burst window and also allowing us uptime pretty far into the future. This may be a non-standard optimization or it could be a niche tool for certain encounters, but I believe understanding how good Perfectio as a ranged tool is will be a differential when it comes to skill expression. You can view an example of this theory here.
 
 <https://docs.google.com/spreadsheets/d/16zo0BorEt3UMv2hXjTFNcyKQjooRW1jwXp7eGAc7BiY/edit?usp=sharing>
 
