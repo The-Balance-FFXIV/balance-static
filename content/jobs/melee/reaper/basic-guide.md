@@ -57,7 +57,7 @@ Reaper has access to a few resources that you will need to master to play the jo
 
 ![](/img/jobs/rpr/lemuregauge.png)
 
-**Enshroud**: Enshroud is Reaper's burst window which changes how the Reaper looks, activates a job gauge and changes a few abilities and weaponskills. For more detailed information on what changes, visit the Skill Details page. When you first Enshroud, you generate five blue orbs (Lemure Shroud) which can be spent on the rapid 1.5s global cooldown weaponskills Void Reaping, Cross Reaping and Grim Reaping. When spending a blue orb, it will generate a purple orb (Void Shroud), which you can spend in sets of two on off-global abilities -- Lemure’s Slice and Lemure’s Scythe. Lastly, you can end the Enshroud phase by spending all of your Lemure Shroud, or by using the powerful spell Communio. 
+**Enshroud**: Enshroud is Reaper's burst window which changes how the Reaper looks, activates a job gauge and changes a few abilities and weaponskills. For more detailed information on what changes, visit the Skill Details page. When you first Enshroud, you generate five blue orbs (Lemure Shroud) which can be spent on the rapid 1.5s global cooldown weaponskills Void Reaping, Cross Reaping and Grim Reaping. When spending a blue orb, it will generate a purple orb (Void Shroud), which you can spend in sets of two on off-global abilities -- Lemure’s Slice and Lemure’s Scythe. Lastly, you can end the Enshroud phase by spending all of your Lemure Shroud, or by using the powerful spell Communio. At level 92, we get Gluttony will transform into Sacrificium which can be used one during each Enshroud window.
 
 ![](/img/jobs/rpr/2021-12-20_02-49-47-723_eg9-darklite.png)
 
@@ -81,38 +81,42 @@ Do be aware, that Gibbet and Gallows are the only skills that have positional re
 * Shadow of Death applies the Death's Design debuff to your target, Whorl of Death applies the debuff to all targets within five yalms. This debuff can stack on itself with a maximum duration of 60s.
 * The following skills are upgraded when you use Enshroud:
 
-  * Gibbet turns into Void Reaping
-  * Gallows turns into Cross Reaping
-  * Guillotine turns into Grim Reaping
-  * Blood Stalk turns into Lemure's Slice
-  * Grim Swathe turns into Lemure's Scythe
+  * Gibbet turns into Void Reaping;
+  * Gallows turns into Cross Reaping;
+  * Guillotine turns into Grim Reaping;
+  * Blood Stalk turns into Lemure's Slice;
+  * Grim Swathe turns into Lemure's Scythe;
+  * Gluttony turns into Sacrificium.
+* The following skill(s) will be upgraded under different scenarios:
+
+  * Communio turns into Perfectio while under Perfectio Parata;
+  * Gibbet, Gallows and Guillotine turn into their "Executioner's" correspondent when holding Exeuctioners stacks from Gluttony.
 * Void Reaping and Cross Reaping buff each other similarly to how Gibbet and Gallows do. Whenever you use Void Reaping, your next Cross Reaping will deal more damage. This buff does not persist when Enshroud ends so you are able to start on whichever Reaping skill you want every Enshroud. When you see these weaponskills mentioned, you can do either/or, but always make sure you are using the buffed version if applicable.
 * Soul Sow is spell with a five second cast time in combat but is instant outside of combat. When applied, the Soul Sow ability will change into Harvest Moon. Harvest Moon is a long-range spell that does a large amount of AoE damage. There are a few ways to utilize this ability:
 
-  * Harvest Moon whenever you have to disengage from an enemy for longer than global cooldown.
-  * Harvest Moon when you are able to deal AoE damage with it.
-  * Harvest Moon at least once each encounter.
+  * Harvest Moon whenever you have to disengage from an enemy for longer than global cooldown;
+  * Harvest Moon when you are able to deal AoE damage with it;
+  * Harvest Moon at least once each encounter;
   * Soul Sow before every boss pull and in-between dungeon packs.
 
 #### The Opener:
 
-![](/img/jobs/rpr/reaper_opener_3rd_gcd_ac_.png)
+![](/img/jobs/rpr/second-gcd-ac.png)
 
 * Soul Sow pre-pull
 * Cast Harpe after 2 appears on the countdown, or at 1.7s exactly.
 * Shadow of Death
+
+  * Potion -- see Opener section for more info.
 * Soul Slice
 
-  * Potion here if you are using potion in the opener
-* Shadow of Death
-
-  * Arcane Circle
+  * Arcane Circle -- press this **ASAP** after the GCD to avoid clipping.
   * Gluttony
 * Executioner's Gibbet
 * Executioner's Gallows
 * Plentiful Harvest
 
-  * This will clip if your GCD is faster than 2.47, or you have high ping. If the clip here is bothersome, or over a quarter of your GCD cast, use the Early Gluttony opener.
+  * This will clip if your GCD is faster than 2.47, or you have high ping. Moving the Soul Slice from after Perfectio to before this GCD is a viable option. Please, see high ping section below.
   * Enshroud
 * Void Reaping
 
@@ -130,11 +134,8 @@ Do be aware, that Gibbet and Gallows are the only skills that have positional re
 
   * Unveiled Gibbet
 * Gibbet
-* Slice
-* Soul Slice
-
-  * Unveiled Gallows <-- Potion is done here.
-* Gallows.
+* Shadow of Death
+* Slice -- Potion ends here.
 
 ## Priority System
 
@@ -142,7 +143,9 @@ Reaper can be played well by just following a priority system. Below is the reco
 
 * Spend Soul Reavers and Executioners on Gibbet or Gallows (whichever is buffed) if you have them.
 
-  * Use Guillotine if you can hit multiple enemies (**four** or more for the base skill, **three** or more for the Executioner counterpart).
+  * Use Guillotine if you can hit multiple enemies (at least **three** -- **four** if you have an Enhanced Gibbet/Gallows buff -- for the base skill, **three** or more for the Executioner counterpart).
+* Enshroud if the Ideal Host buff is about to fall off.
+* Perfectio if the Perfectio Parata buff is about to fall off.
 * Maintain Death’s design by using Shadow of Death.
 
   * Use Whorl of Death if you can hit **three** or more enemies.
@@ -151,13 +154,13 @@ Reaper can be played well by just following a priority system. Below is the reco
 * Soul Slice on Cooldown (Do not overcap your Soul!)
 
   * Use Soul Scythe if you can hit **three** or more enemies.
-* Perfectio if you have the Perfection Parata buff.
+* Perfectio if you have the Perfectio Parata buff.
 * Plentiful Harvest if available.
 * Enshroud when at 50 or more Shroud or if you have the Ideal Host buff.
 
   * Alternate Void and Cross Reaping four times, as they buff each other.
 
-    * Use Grim Reaping if you can hit **three** or more enemies.
+    * Use Grim Reaping if you can hit **three** -- **four** if you have an Enhanced Gibbet/Gallows buff -- or more enemies.
   * Weave Lemure’s Slice after every other weapon skills.
 
     * Use Lemure’s Scythe if you can hit **three** or more enemies.
@@ -197,18 +200,19 @@ Reaper can be played well by just following a priority system. Below is the reco
 
 You may have noticed Enshroud windows feeling somewhat unresponsive to your button pushing. This is a common occurrence that can happen for a multitude of reasons, almost always related to poor connection to the server. What you’re experiencing is referred to as “clipping”, due to prolonged animation lock that happens when your ping exceeds the allotted time the game gives you between GCDs to use your oGCDs. Reaper suffers more than most other jobs simply because of the Enshroud window forcing a 1.5 second GCD and also requiring you to weave between two Lemure’s Slices. There are a few ways to handle this:
 
-* If possible, ensure you are using a wired connection. WiFi can be spotty and result in packet loss.
-* If playing on an older computer, lower graphics settings and turn off particle effects to increase your framerate. This only matters when your frame rate is so low that it is visibly affecting your gameplay.
-* Utilize a gaming VPN. Occasionally, ISPs will route your connection inefficiently, and a VPN can correct the issue by lowering packet loss and ping, creating a more stable connection to the server. Listed below are VPN options.
-* * Mudfish
-  * ExitLag
-  * WTFast
-  * Pingzapper
-  * NoPing
+* If possible, ensure you are using a wired connection. WiFi can be spotty and result in packet loss;
+* If playing on an older computer, lower graphics settings and turn off particle effects to increase your framerate. This only matters when your frame rate is so low that it is visibly affecting your gameplay;
+* Utilize a gaming VPN. Occasionally, ISPs will route your connection inefficiently, and a VPN can correct the issue by lowering packet loss and ping, creating a more stable connection to the server. Listed below are VPN options:
+
+  * NoPing;
+  * Mudfish;
+  * ExitLag;
+  * WTFast;
+  * Pingzapper.
 
 A full explanation on how VPNs work and how to check your ping for FFXIV specifically can be found in [this guide](https://www.icy-veins.com/ffxiv/vpn-guide-for-ffxiv). The best VPN for you will differ based on location and ISP. It’s suggested that you try all possible options before deciding on one since they do cost money to use on top of your sub. Most, if not all, of these should come with free trials so you can see if they help your connection.
 
-After attempting to fix these issues with the above suggestions, the only thing you can really do without the use of illegal ToS breaking software, is adjust your rotation. Avoid Double Communio and focus on a rotation based more around priority spending of resources. This lessens the clipping you’ll see in burst windows. Using Shadow of Death mid-Enshroud and using it to weave Lemure Slice is also a very viable option. The longer GCD on Shadow of Death should help avoid clipping. Just make sure you’re not overcapping your Death’s Design timer to do this. 
+After attempting to fix these issues with the above suggestions, the only thing you can really do without the use of illegal ToS breaking software is adjusting your rotation. Avoid Double Enshrouds and focus on a rotation based more around priority spending of resources. This lessens the clipping you’ll see in burst windows. Using Shadow of Death mid-Enshroud and using it to weave the related oGCDs is also a very viable option. The longer GCD on Shadow of Death should help avoid clipping. Just make sure you’re not overcapping your Death’s Design timer to do this. 
 
 If you’re on a PC, and you’re okay with the morality issues of injection based programs, [QuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher) has a plug-in called [NoClippy](https://github.com/UnknownX7/NoClippy) that will help your clipping issue. This program will simulate a low ping environment specifically for the animation lock of combat actions. This will not actually lower your ping or make your connection to the servers any more stable than it already is or isn’t. The instructions on how to enable NoClippy are listed on the GitHub page. While I’ve not heard of anyone being punished by Square Enix for using programs like this, the reality of the situation is they could potentially endanger your service account. Please keep this in mind if you decide to use QuickLauncher and any plug-in associated with it.
 
