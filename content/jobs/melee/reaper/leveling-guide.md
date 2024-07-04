@@ -3,8 +3,8 @@ title: Reaper Leveling Guide
 card_header_image: /img/jobs/rpr/rpr-leveling.png
 authors:
   - Balance-RPR-Staff
-patch: "6.5"
-lastmod: 2023-05-30T23:39:05.194Z
+patch: "7.0"
+lastmod: 2024-07-04T02:45:39.994Z
 changelog:
   - date: 2022-09-13T13:43:48.819Z
     message: Updated patch number
@@ -14,6 +14,8 @@ changelog:
     message: Update for 6.4
   - date: 2023-10-04T16:49:35.377Z
     message: Updated patch number to 6.5
+  - date: 2024-07-04T02:45:41.470Z
+    message: Updated for Dawntrail.
 tags:
   - Reaper
   - guide
