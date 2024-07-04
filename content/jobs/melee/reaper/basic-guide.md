@@ -57,7 +57,7 @@ Reaper has access to a few resources that you will need to master to play the jo
 
 ![](/img/jobs/rpr/lemuregauge.png)
 
-**Enshroud**: Enshroud is Reaper's burst window which changes how the Reaper looks, activates a job gauge and changes a few abilities and weaponskills. For more detailed information on what changes, visit the Skill Details page. When you first Enshroud, you generate five blue orbs (Lemure Shroud) which can be spent on the rapid 1.5s global cooldown weaponskills Void Reaping, Cross Reaping and Grim Reaping. When spending a blue orb, it will generate a purple orb (Void Shroud), which you can spend in sets of two on off-global abilities -- Lemure’s Slice and Lemure’s Scythe. Lastly, you can end the Enshroud phase by spending all of your Lemure Shroud, or by using the powerful spell Communio. 
+**Enshroud**: Enshroud is Reaper's burst window which changes how the Reaper looks, activates a job gauge and changes a few abilities and weaponskills. For more detailed information on what changes, visit the Skill Details page. When you first Enshroud, you generate five blue orbs (Lemure Shroud) which can be spent on the rapid 1.5s global cooldown weaponskills Void Reaping, Cross Reaping and Grim Reaping. When spending a blue orb, it will generate a purple orb (Void Shroud), which you can spend in sets of two on off-global abilities -- Lemure’s Slice and Lemure’s Scythe. Lastly, you can end the Enshroud phase by spending all of your Lemure Shroud, or by using the powerful spell Communio. At level 92, we get Gluttony will transform into Sacrificium which can be used one during each Enshroud window.
 
 ![](/img/jobs/rpr/2021-12-20_02-49-47-723_eg9-darklite.png)
 
@@ -86,6 +86,10 @@ Do be aware, that Gibbet and Gallows are the only skills that have positional re
   * Guillotine turns into Grim Reaping
   * Blood Stalk turns into Lemure's Slice
   * Grim Swathe turns into Lemure's Scythe
+  * Gluttony turns into Sacrificium
+* The following skill(s) will be upgraded under different scenarios:
+
+  * Communio turns into Perfectio while under Perfectio Parata
 * Void Reaping and Cross Reaping buff each other similarly to how Gibbet and Gallows do. Whenever you use Void Reaping, your next Cross Reaping will deal more damage. This buff does not persist when Enshroud ends so you are able to start on whichever Reaping skill you want every Enshroud. When you see these weaponskills mentioned, you can do either/or, but always make sure you are using the buffed version if applicable.
 * Soul Sow is spell with a five second cast time in combat but is instant outside of combat. When applied, the Soul Sow ability will change into Harvest Moon. Harvest Moon is a long-range spell that does a large amount of AoE damage. There are a few ways to utilize this ability:
 
@@ -96,15 +100,14 @@ Do be aware, that Gibbet and Gallows are the only skills that have positional re
 
 #### The Opener:
 
-![](/img/jobs/rpr/reaper_opener_3rd_gcd_ac_.png)
+![](/img/jobs/rpr/second-gcd-ac.png)
 
 * Soul Sow pre-pull
 * Cast Harpe after 2 appears on the countdown, or at 1.7s exactly.
 * Shadow of Death
-* Soul Slice
 
-  * Potion here if you are using potion in the opener
-* Shadow of Death
+  * Potion *see note below for Potion Optimization
+* Soul Slice
 
   * Arcane Circle
   * Gluttony
@@ -112,7 +115,7 @@ Do be aware, that Gibbet and Gallows are the only skills that have positional re
 * Executioner's Gallows
 * Plentiful Harvest
 
-  * This will clip if your GCD is faster than 2.47, or you have high ping. If the clip here is bothersome, or over a quarter of your GCD cast, use the Early Gluttony opener.
+  * This will clip if your GCD is faster than 2.47, or you have high ping. Please see High ping/ SKS optimizations below.
   * Enshroud
 * Void Reaping
 
@@ -130,10 +133,11 @@ Do be aware, that Gibbet and Gallows are the only skills that have positional re
 
   * Unveiled Gibbet
 * Gibbet
-* Slice
+* Shadow of Death
+* Slice <--- Standard Potion is done here.
 * Soul Slice
 
-  * Unveiled Gallows <-- Potion is done here.
+  * Unveiled Gallows
 * Gallows.
 
 ## Priority System
@@ -143,6 +147,8 @@ Reaper can be played well by just following a priority system. Below is the reco
 * Spend Soul Reavers and Executioners on Gibbet or Gallows (whichever is buffed) if you have them.
 
   * Use Guillotine if you can hit multiple enemies (**four** or more for the base skill, **three** or more for the Executioner counterpart).
+* Enshroud if the Ideal Host buff is about to fall off.
+* Perfectio if the Perfectio Parata buff is about to fall off.
 * Maintain Death’s design by using Shadow of Death.
 
   * Use Whorl of Death if you can hit **three** or more enemies.
@@ -151,7 +157,7 @@ Reaper can be played well by just following a priority system. Below is the reco
 * Soul Slice on Cooldown (Do not overcap your Soul!)
 
   * Use Soul Scythe if you can hit **three** or more enemies.
-* Perfectio if you have the Perfection Parata buff.
+* Perfectio if you have the Perfectio Parata buff.
 * Plentiful Harvest if available.
 * Enshroud when at 50 or more Shroud or if you have the Ideal Host buff.
 
