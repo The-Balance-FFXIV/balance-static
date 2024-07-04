@@ -43,7 +43,7 @@ The simplest way to manage these Reawakens and still put maximum potency into pa
 
 ### 2.1.1 Two Minute Burst Windows
 
-There are three primary sequences that we can use to put two Reawakens into party buffs, henceforth referred to as Double Reawaken windows. To set up each window, it is assumed that four Rattling Coils and three twinblade combos have been used between each burst window. (Please note that the 6-8 min section only uses two Rattling Coils, and the 8-10 min section uses six as a direct result of having an extra Reawaken at around 7:00. This is discussed more later in this guide.) Furthermore, at least 30 seconds of Noxious Gnash is required to complete these windows without the debuff falling off. It is recommended to use Dread Fang to start your final dual wield combo before entering Reawaken. 
+There are two primary sequences that we can use to put two Reawakens into party buffs, henceforth referred to as Double Reawaken windows. To set up each window, it is assumed that four Rattling Coils and three twinblade combos have been used between each burst window. (Please note that the 6-8 min section only uses two Rattling Coils, and the 8-10 min section uses six as a direct result of having an extra Reawaken at around 7:00. This is discussed more later in this guide.) Furthermore, at least 30 seconds of Noxious Gnash is required to complete these windows without the debuff falling off. It is recommended to use Dread Fang to start your final dual wield combo before entering Reawaken. 
 
 The simplest way to set up your dual wield combo for an upcoming two minute burst window is to use Serpents Ire as a timer. Around 15s left on Ire’s cooldown, you should start a dual wield combo. After completing that combo, start another combo with Dread Fangs. This will ensure that there is enough time on Noxious Gnash to last through the burst window. These combos need to be dual wield combos, and not twinblade combos, in order to maintain the combo finisher buff through the burst window. Twinblade combo instead would cause it to fall off, or in some permutations where it doesn't fall off, delay the second Ouroboros out of party buffs. If this is not enough, start the previous combo with Dread Fangs as well. From there, follow the burst windows below.
 
@@ -57,14 +57,6 @@ There are three primary variations of our burst that we will use for most situat
   * **Party buffs shown are an estimate.**
 
 ![](/img/jobs/vpr/viperstandarddoublereawakenv3.png)
-
-* **Finisher-Split Double Reawaken**
-
-  * This Double Reawaken can only be executed if there is an active dual wield combo chain, and the next GCD in the chain is any of the four dual wield single target combo finishers.  This window is performed by using Serpent’s Ire on cooldown, and following it immediately with the first Reawaken. After using Ouroboros, use the active combo finisher and Death Rattle, then immediately enter Reawaken again. 
-  * Finisher-Split Double Reawaken delays the second Reawaken by one GCD. This window should only be used as a last resort if the combo finisher buff would fall off before the end of the second Reawaken. A buffed combo finisher plus Death Rattle has lower potency than a Generation plus Legacy from the Reawaken window, which is a potency loss in party buffs. It is best to avoid this window if possible by managing twinblade and dual wield combos properly, but is an option if this is not possible for whatever reason. 
-  * **Party buffs shown are an estimate.**
-
-![](/img/jobs/vpr/viperfinisher-splitdoublereawakenv2.png)
 
 * **Immediate Double Reawaken**
 
