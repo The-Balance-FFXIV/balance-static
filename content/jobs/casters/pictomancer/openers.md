@@ -7,6 +7,8 @@ lastmod: 2024-06-23T05:35:11.446Z
 changelog:
   - date: 2024-06-23T05:35:29.142Z
     message: Added article
+description: The Balance's openers page for Final Fantasy XIV (FF14) reviews the
+  openers from our basic job guide, as well as burst setups for fights.
 ---
 # Openers
 
