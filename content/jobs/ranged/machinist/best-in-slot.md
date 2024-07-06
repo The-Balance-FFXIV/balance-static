@@ -1,8 +1,8 @@
 ---
 title: Machinist Best in Slot (BiS)
 layout: bis
-patch: "6.55"
-lastmod: 2024-01-16T23:00:00.000Z
+patch: "7.0"
+lastmod: 2024-07-06T12:37:20.435Z
 changelog:
   - date: 2021-10-25T22:11:04.615Z
     message: Created page
@@ -20,21 +20,8 @@ changelog:
     message: top bis updated for 6.5
 bis:
   - type: etro
-    description: ""
-    name: 6.55 BiS 2.5 GCD
-    link: https://etro.gg/gearset/bf221c97-b585-4de1-9376-c9b59bbc7b65
-  - type: etro
-    description: ""
-    name: 6.4 BiS 2.5 GCD
-    link: https://etro.gg/gearset/0001cd0d-ee54-4b85-8bb6-8ed79e9e7745
-  - type: etro
-    description: ""
-    name: 6.4 Week 1 BiS 2.47 GCD
-    link: https://etro.gg/gearset/ee71f5b1-7772-413d-9a68-a6adeee5a80a
-  - type: etro
-    description: ""
-    name: 6.4 Week 1 Alternative set 2.5 GCD
-    link: https://etro.gg/gearset/e8ddbad4-90ed-44dd-914e-bf521baba55d
+    name: Pre-raid Extreme+Tomestone BiS
+    link: https://etro.gg/gearset/d0993d6e-4816-4905-9ba6-6a206c073314
   - type: etro
     description: Highest DPS, abuses 6.5 dungeon gear and the 645 relic weapon.
     name: TOP Best-in-Slot 2.5 GCD
