@@ -21,7 +21,7 @@ Viper (VPR) is a fast-paced melee DPS that alternates between fast dual wield at
 
 ## 1﻿.2 Where to Unlock Viper
 
-V﻿iper can be unlocked in Ul'dah at from Worried Weaver at (X: 9.3, Y:9.2). The Quest is called "Enter the Viper," and picking it up requires having at least one level 80 Disciple of War or Magic, as well as the purchase of the Dawntrail expansion. 
+V﻿iper can be unlocked in Ul'dah from Worried Weaver at (X: 9.3, Y:9.2). The Quest is called "Enter the Viper," and picking it up requires having at least one level 80 Disciple of War or Magic, as well as the purchase of the Dawntrail expansion. 
 
 ## 1﻿.3 Skills Overview
 
