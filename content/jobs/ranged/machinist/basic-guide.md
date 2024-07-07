@@ -210,12 +210,6 @@ The basic AoE priority is as follows:
 
 **Auto Crossbow** should only be used on four or more enemies since, unlike **Blazing Shot**, **Auto Crossbow** does not generate **Double Check** or **Checkmate** charges.
 
-![](/img/jobs/mch/mch-heat-vs-ft.png)
-
-&nbsp;
-
-There are some niche cases where Flamethrower is a small gain on two targets but it’s heavily reliant upon phasing and current Heat and Battery gauge levels. Two target Flamethrower is something that needs to be mapped out on a per-fight-basis and should not be the standard. 
-
 # Gearing and Stat Allocation
 
 As far as stats are concerned, the priority is as follows:\
