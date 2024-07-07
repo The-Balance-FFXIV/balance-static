@@ -1,7 +1,7 @@
 ---
 title: Summoner Stat Priority
-patch: "6.4"
-lastmod: 2022-02-16T09:16:30.885Z
+patch: "7.0"
+lastmod: 2024-07-07T17:53:22.104Z
 changelog:
   - date: 2021-11-09T04:33:22.593Z
     message: Created page
@@ -16,10 +16,4 @@ As a general rule we recommend:
 
 SpS to 2.46-2.48 > Crit > Det >= DH > More SpS
 
-
-
-There is an alternative way to play the job that focuses on maximizing SpS and minimizing Crit instead, which would use this priority:
-
-SpS > Det >= DH > Crit
-
-In general, the Crit set appears better for most situations. Spell speed as a stat excels when it can be fine-tuned around a fight’s timeline, but you can choose to use the SpS set blindly if you wish.
+Previously, SpS was more viable due to the the general potencies being a negligible gain or loss whether the demi phase drifted outside of buffs, but with the addition of Solar Bahamut at Lv. 100, it's now more important to align with with raid buffs. SpS is also weaker at the beginning of the expansion, as a suitable amount of SpS to make the build remotely viable isn't possible to get natively. Because of this, SpS builds are not recommended, and generally won't be recommended throughout the expansion.
