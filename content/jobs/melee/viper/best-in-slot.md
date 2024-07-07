@@ -3,32 +3,22 @@ title: Viper Best in Slot
 layout: bis
 patch: "7.0"
 lastmod: 2024-06-23T13:58:39.836Z
+changelog: []
 bis:
   - type: etro
-    name: Viper Level 80 Leveling Set (Eden's Promise BiS)
-    link: 6838881f-79fe-422c-b68d-44ffbbc1e2a4
-    description: >-
-      Replace the weapon listed with the Viper equivalent.
-
-
-      This set works even if you are using the Azeyma Earring obtained via the Dawntrail Pre-order bonus.
-
-
-      Replace these gear pieces with higher iLvl pieces as you recieve them.
-
-
-      There is no need to get the Edenmorn pieces if you do not already have them, you can use all Cryptlurker gear instead, shown below.
+    name: Viper 7.0 BiS
+    link: 3f906d18-f633-467b-8744-7d9fc5f087d5
+    description: This set will only remain until 7.05.
   - type: etro
-    link: 68420644-cc8f-4575-a338-c43dc15bb315
-    name: Viper Level 80 Leveling Set (Cryptlurker Gear Only)
-    description: >-
-      Replace the weapon listed with the Viper equivalent.
-
-
-      If you are not using Azeyma's Earring with this set then replace one Direct Hit materia with a Determination materia.
-
-
-      Replace these gear pieces with higher iLvl pieces as you recieve them.
+    link: a890605f-8a5a-4748-9f8b-09e311f502e8
+    name: Viper TOP BiS (with weapon)
+    description: ""
+  - type: etro
+    name: Viper TOP BiS (no weapon)
+    link: 1fee217c-afea-47dc-8bea-a93ed97b19c8
+    description: Due to substat tiering the i700 weapon performs better than the
+      i710 weapon.
 authors:
+  - akashi
   - Balance-VPR-Staff
 ---
