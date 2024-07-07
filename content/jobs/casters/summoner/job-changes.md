@@ -1,7 +1,7 @@
 ---
 title: Summoner Job Changes
 layout: changes
-lastmod: 2022-09-18T08:00:53.631Z
+lastmod: 2024-07-07T19:49:04.196Z
 changes:
   - patch: "5.58"
     description: "[Placeholder for Endwalker]"
