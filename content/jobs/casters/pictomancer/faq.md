@@ -20,6 +20,8 @@ qna:
       move. You have an extra Hammer between 2 minute bursts, which has priority
       for movement over Holy due to higher potency per second. One hammer will
       virtually always go into raid buffs.
+  - question: How about in AoE?
+    answer: Holy is a DPS gain on two or more targets -- use it as you'd like!
   - question: Do combos break?
     answer: "No, you can execute other actions between hits of your standard Red ->
       Green -> Blue combo, as well as during your three-hit hammer combo. You
