@@ -1,7 +1,6 @@
 ---
 title: Pictomancer Leveling Guide
 authors:
-  - Eydis-Darkbane
   - Balance-PCT-Staff
 patch: "7.0"
 lastmod: 2024-06-27T05:57:14.430Z
@@ -21,7 +20,7 @@ Use creature Muses for damage. They do more potency in AoE situations than on bo
 
 ## Level 50 - 60
 
-Hammer Motif/Striking Muse should be used on cooldown for damage at this level until otherwise noted later on.
+Hammer Motif/Striking Muse should be used on cooldown for damage at this level until otherwise noted later on. There is a 30 second window to use it once it is pressed. Attempt to use that 30s window to also cover movement. 
 
 ## Level 60 - 70
 
@@ -41,7 +40,7 @@ Use Comet In Black after subtractive Palette.
 
 ## Level 92 - 96
 
-Use Rainbow drip pre-pull at around 4 seconds. Swiftcast Rainbow Drip before downtime. 
+Use Rainbow drip pre-pull at around four seconds. Swiftcast Rainbow Drip before downtime. 
 
 ## Level 96 - 100
 
@@ -53,35 +52,52 @@ After Moogle has been used, two new Motifs can be used to create Madeen, which i
 
 ## Sub-Level 30
 
-TBD
+**One/Two Target:** Fire In Red -> Aero in Green -> Water In Blue
+Three Targets: Fire II In Red -> Aero In Green -> Water In Blue
+Four Targets+: Fire II In Red spam
 
 ## Level 30 - 50
 
-Use Creature Muses and Moogle in AoE. Even hardcasted, they are more potency than the general AoE combo.
+Use Creature Muses and Moogle in AoE. Even hardcasted, they are more potency than the general AoE combo. Use downtime between pulls to prepare Muses.
 
-## Level 50 - 60
+## Level 50 - 54
 
 Use Hammer charges in AoE. It is one of the highest potency abilities in Pictomancer’s kit for AoE damage, as it is a guaranteed direct crit on everything it hits. 
 
+## Level 54 - 60
+
+One/Two Targets: Fire in Red -> Aero In Green -> Water In Blue
+Three Targets: Fire in Red -> Aero In Green -> Water In Blue/Water II In Blue
+4+ Targets: Fire II In Red -> Aero II In Green -> Water II In Blue
+
 ## Level 60 - 70
 
-TBD
+
+The basic spells remain unchanged. For Subtractive Palette, follow this priority: 
+
+
+One/Two Targets: Blizzard In Cyan -> Stone in Yellow -> Thunder in Magenta
+Three Targets+: Blizzard II in Cyan -> Stone II In Yellow -> Thunder II In Magenta
 
 ## Level 70 - 80
 
-Use raid buffs in AoE situations for damage in dungeons when possible.
+Use raid buffs in AoE situations for damage in dungeons when possible. The level 60 priority for Subtractive Palette still applies, as does the level 54 priority for basic AoE spells.
 
 ## Level 80 - 90
 
-Use Holy in White for AOE damage after Muses have been consumed. Holy is superior to general spam in terms of potency on two or more targets.
+Use Holy in White for AOE damage after Muses have been consumed. Holy is superior to general spam in terms of potency on two or more targets and is always better than Fire/Aero/Water AoE combos.
 
-## Level 90 - 92
+## Level 90 - 94
 
-Use Comet In Black in AoE situations. Use Creature Muses, Hammer Muses, then Subtractive Palette and use Comet. After Comet, spam any banked Holies, then do your subtractive AoE combo, then the general Red/Green/Blue AoE combo. 
+Use Comet in Black after Creature and Weapon muses if Subtractive Palette is available. 
 
-## Level 92 - 100
+## Level 94 - 100
 
-TBD
+Fire II In Red, Aero II in Green, Water II in Blue are all now gains at four or more targets. Blizzard In Cyan, Stone in Yellow, and Thunder in Magenta are also now gains at four or more targets. 
+
+
+
+Holy is better in AoE than Subtractive Palette, but Comet is better than Holy. Use Comet instead if Subtractive Palette is available.
 
 ## Level 100
 
