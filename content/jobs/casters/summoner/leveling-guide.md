@@ -4,7 +4,7 @@ card_header_image: /img/jobs/smn/leveling.png
 authors:
   - elevation
   - Balance-SMN-Staff
-patch: "6.4"
+patch: "7.0"
 lastmod: 2022-07-05T03:04:47.023Z
 changelog:
   - date: 2021-11-15T21:18:27.784Z
@@ -13,10 +13,12 @@ changelog:
     message: Added guide
   - date: 2022-07-05T03:04:48.328Z
     message: Updated for patch 6.0
+  - date: 2024-07-07T20:31:59.176Z
+    message: Updated for patch 7.0
 ---
 # Introduction 
 
-Welcome! This page is written to assist you throughout your leveling journey and provide insight on how the Summoner job will evolve from level one to level 80.  Summoner may appear as a bit of a “unique” job with a lot of moving parts and multiple avenues of attacking enemies.  
+Welcome! This page is written to assist you throughout your leveling journey and provide insight on how the Summoner job will evolve from level one to level 100.  Summoner may appear as a bit of a “unique” job with a lot of moving parts and multiple avenues of attacking enemies.  
 
 Throughout this leveling guide, we will provide you with a basic fundamental understanding of each spell that you will unlock, as well as provide some quick rotation priorities and visualization examples. Our goal is to break things down into simple and easy-to-understand concepts to help you piece together the various moving parts that Summoner’s kit is built from.  
 
@@ -171,7 +173,6 @@ Astral Flow will be introduced at level 60. Astral Flow is a unique ability, pr
 
 ## Levels 61 - 70
 
-\
 Further Ruin and Ruin IV will be unlocked at level 62. Each time you use Energy Drain or Energy Siphon you will receive a proc of Further Ruin, allowing you to use Ruin IV. This proc will last for 60 seconds, giving you plenty of time to use it during your rotation.\
 \
 Upon reaching level 66, you will unlock Searing Light. Searing Light is the second support ability available from your carbuncle. Activating Searing Light will command your carbuncle to apply a buff to yourself and all party members to deal 3% additional damage.
@@ -205,7 +206,7 @@ At level 72, you will unlock upgrades to your Gemshine primal abilities that pro
 | Ifrit  | Ruby Ruin         | Ruby Rite    |
 | Titan  | Topaz Ruin        | Topaz Rite   |
 | Garuda | Emerald Ruin      | Emerald Rite |
-
+\
 Outburst will upgrade to Tri-disaster at Level 74. This upgrade will also include your Precious Brilliance abilities: Ruby Tri-disaster, Topaz Tri-disaster, and Emerald Tri-disaster.
 
 Once you reach level 80, you will unlock Summon Phoenix. Summon Phoenix will activate Firebird Trance which shares a cooldown with Dreadwyrm Trance, as well as summon another demi-primal with Demi-Phoenix. \
@@ -239,7 +240,7 @@ At level 82, you will unlock upgrades to your Precious Brilliance primal abiliti
 | Ifrit  | Ruby Disaster           | Ruby Catastrophe        |
 | Titan  | Topaz Disaster          | Topaz Catastrophe       |
 | Garuda | Emerald Disaster        | Emerald Catastrophe     |
-
+\
 Upon reaching level 86, you will unlock a buff for each primal summon you use: Ifrit’s Favor, Titan’s Favor, and Garuda’s Favor. Each of these buffs have a unique interaction and unlocks a special ability to be used with Astral Flow.
 
 | Summon | Astral Flow                      | Description                                                                                                                 |
@@ -247,9 +248,10 @@ Upon reaching level 86, you will unlock a buff for each primal summon you use: I
 | Ifrit  | Crimson Cyclone & Crimson Strike | Two-part melee combo with Crimson Cyclone as a gap closer to your target.                                                   |
 | Titan  | Mountain Buster                  | An oGCD that becomes available after each Topaz Rite or Topaz Catastrophe cast.                                             |
 | Garuda | Slipstream                       | A GCD cast, with a prolonged cast time. Also spawns a wind puddle under your target that deals additional damage-over-time. |
-
+###
+### Quick Rotation Goals
 * Cast Ruin III, when fighting one or two enemies.
-* Cast Outburst, and later Tri-disaster, when fighting three or more enemies in close proximity.
+* Cast Tri-disaster when fighting three or more enemies in close proximity.
 * Activate Summon Bahamut whenever it’s available. Cast Astral Impulse if fighting one or two targets, or Astral Flare when fighting three or more enemies in close proximity.
 * Activate Summon Phoenix whenever it’s available. Cast Fountain of Fire if fighting one or two targets, and cast Brand of Purgatory if fighting three or more enemies in close proximity.
 * Remember to use Enkindle Bahamut and Enkindle Phoenix when you spawn your demi-primals.
@@ -257,4 +259,23 @@ Upon reaching level 86, you will unlock a buff for each primal summon you use: I
 * Use Summon Titan when you have Topaz Arcanum available. Spend your earth attunement stacks on Topaz Rite when fighting one or two enemies, or Topaz Catastrophe when fighting three or more enemies in close proximity. Remember to use your Mountain Buster procs.
 * Use Summon Garuda when you have Emerald Arcanum available. Spend your wind attunement stacks on Emerald Rite when fighting one or two enemies, or Emerald Catastrophe when fighting three or more enemies in close proximity. Remember to use your Slipstream ability.
 * Weave Energy Drain or Energy Siphon whenever it becomes available. Spend your Aetherflow Gauge on Fester for single target damage or Painflare for AoE damage.
+* Use Radiant Aegis if you need additional survivability (can be important while playing solo or doing quests).
+
+## Levels 91 - 100
+At level 96, you will unlock Searing Flash, the follow up ability to Searing Light, which should be used while under the effects of Searing Light and other party buffs.
+
+Upon reaching level 100, a new demi-primal will be added to Bahamut and Phoenix: Solar Bahamut. At this point, the demi-summon order will function with Solar Bahamut being between each use of Bahamut and Phoenix (e.g. Solar Bahamut → Bahamut → Solar Bahamut → Phoenix). You'll also gain the new ability Lux Solaris, which is a party heal skill only usable after summoning Solar Bahamut.
+
+### Quick Rotation Goals
+* Cast Ruin III, when fighting one or two enemies.
+* Cast Tri-disaster when fighting three or more enemies in close proximity.
+* Activate Summon Bahamut whenever it’s available. Cast Astral Impulse if fighting one or two targets, or Astral Flare when fighting three or more enemies in close proximity.
+* Activate Summon Phoenix whenever it’s available. Cast Fountain of Fire if fighting one or two targets, and cast Brand of Purgatory if fighting three or more enemies in close proximity.
+* Activate Summon Solar Bahamut whenever it's available. Cast Umbral Impulse if fighting one or two targets, or Umbral Flare when fighting three or more enemies in close proximity.
+* Remember to use Enkindle Bahamut, Enkindle Phoenix, and Enkindle Solar Bahamut when you spawn your demi-primals.
+* Remember to use Searing Flash before the effects of Searing Light finish.
+* Use Summon Ifrit when you have Ruby Arcanum available. Spend your fire attunement stacks on Ruby Rite when fighting one or two enemies, or Ruby Catastrophe when fighting three or more enemies in close proximity. Remember to use your Crimson Cyclone and Crimson Strike combo whenever you can safely be in melee range.
+* Use Summon Titan when you have Topaz Arcanum available. Spend your earth attunement stacks on Topaz Rite when fighting one or two enemies, or Topaz Catastrophe when fighting three or more enemies in close proximity. Remember to use your Mountain Buster procs.
+* Use Summon Garuda when you have Emerald Arcanum available. Spend your wind attunement stacks on Emerald Rite when fighting one or two enemies, or Emerald Catastrophe when fighting three or more enemies in close proximity. Remember to use your Slipstream ability.
+* Weave Energy Drain or Energy Siphon whenever it becomes available. Spend your Aetherflow Gauge on Necrotize for single target damage or Painflare for AoE damage.
 * Use Radiant Aegis if you need additional survivability (can be important while playing solo or doing quests).
