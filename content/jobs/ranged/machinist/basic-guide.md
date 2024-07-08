@@ -96,8 +96,6 @@ Assuming we carry on as usual, our first 2-minute burst will look something like
 
 <br>
 
-
-
 ![](/img/jobs/mch/akt1w0i.png)
 
 <br>
@@ -106,8 +104,6 @@ Assuming we carry on as usual, our first 2-minute burst will look something like
 This is exactly the same set up as the previous infographic, but to account for non 10x HB. We get rid of the late weave Hypercharge and push it to the next GCD. Since there is a gap in our Hypercharge windows, we now need a filler. This window is not ideal because we have to put our weakest potency GCD in buffs and potentially pot (Heated Split Shot). We want to avoid this at all costs, so while this window does work, we want to try our best to stick to the 10x HB window for the first 2-Minute to avoid the heated split shot in buffs, but we switch to this window for all future bursts for better alignment due to the brand new issue caused by the 4-Minute window and to prevent letting our combo expire. While it is not optimal to put a combo gcd in buffs, if your connection does not allow you to do 10x Blazing Shot, this is sadly the only choice for the first 2-Minute window.<br> 
 
 Why can’t we hold 2/2 Drill charges to remove the combo GCD? While it is possible to be able to Drill immediately if the previous one before the 2-Minute is held, this causes a brand new issue. The 120s burst window only works the way it does because we enter this window combo neutral (ending our combo), this is done with the assumption you’re using Drill off cooldown. Holding the previous usage will simply require us to do an extra combo GCD to replace the Drill we chose to hold, which makes us go into the burst window NOT combo neutral and thus having to combo in burst anyways to not let the combo expire.
-
-
 
 <!--EndFragment-->
 
@@ -118,8 +114,6 @@ Why can’t we hold 2/2 Drill charges to remove the combo GCD? While it is possi
 <!--StartFragment-->
 
 We run into our first Dawntrail specific issue after the first 2-Minute burst. With the reduction in Heat generation per minute compared to now, we enter the 4-Minute burst with only 45 Heat. To resolve this we continue the same thought process from the previous infographics and we want to continue our burst as usual, even if we go into this window combo neutral, it does not matter since we are only entering with 45 Heat. We have to find a way to obtain the extra 5 from a Heated Combo GCD regardless. The previous infographics had us delaying our Drill and shifting Drill after Excavator and thus pushing Full Metal Field a GCD after. While this does work, it is extremely inconsistent with 2.50 GCD speed, which is normally ideal for us, so for the time being we are moving away from it. It can be considered again if we are using anything faster than 2.5 gcd. To continue with this window, after our default burst, we want to Heated Combo GCD to continue the combo timer and follow up with Drill to maximize buffs. The Heated Combo is definitely a loss for buff feed and a slightly weaker pot window, but an efficient way to continue with our rotations and to set up better windows in the future. 
-
-
 
 <!--EndFragment-->
 
@@ -186,38 +180,35 @@ With the addition of Excavator comboing off of Chain Saw, the extra 20 battery g
 
 The basic AoE priority is as follows:
 
-**Two Targets**
+<!--StartFragment-->
 
-* The Heated Combo is a gain over Scattergun
-* Heat Blast should still be used over Auto-Crossbow
-* Bioblaster is equal to Drill as long as the entire duration of the DoT will tick
-* Reassemble priority is on Chainsaw
+### Filler GCD
 
-**Three Targets**
+* **Heated Combo GCD** on 1-2
+* **Scattergun** on 3+
 
-* Flamethrower > Scattergun 
-* Auto-Crossbow becomes a gain over Heat Blast while in Hypercharge
-* Bioblaster is a gain over Drill, so long as the full duration of DoT ticks is allowed to register
+### Hypercharge GCD
 
-**4-6 Targets**
+* **Blazing Shot** on 1-3
+* **Auto Crossbow** on 4+
+* Note that **Blazing Shot** and **Auto Crossbow** are potency neutral on 4 targets if all targets are tightly stacked for the oGCDs from **Blazing Shot** to cleave.
 
-* Reassemble priority after Chainsaw is Scattergun, overcoming Drill and Air Anchor
+### Flamethrower
 
-**7+ Targets**
+* **Assuming gauge is usable**, beats filler on 4+
+* **If gauge is not usable**, beats filler on 2+
+* Beats **Air Anchor** (incl. battery) on 6+
+* Never beats **Hypercharge**, **Chain Saw/Excavator**, **Drill/Bio**
 
-* Same as above, except you should delay Air Anchor until there’s less enemies.
+### Bioblaster
 
-If making the choice between what to Reassemble between Drill, Chainsaw, and Air Anchor on two target fights, Chainsaw should be the first choice, followed by Air Anchor as a second choice. You’ll never be forced to use Reassemble on Drill when at 90.
+* Beats **Drill** on 3+ (technically tied on 2)
+* Beats **Air Anchor** (incl. battery) on 4+
+* Beats **Chain Saw/Excavator** (incl. battery) on 10+
 
-Auto Crossbow should only be used on three or more enemies since, unlike Heat Blast, Auto Crossbow does not generate Gauss Round or Ricochet charges.
+<!--EndFragment-->
 
-As far as Flamethrower is concerned, it’s equal in potency to a three-target rotation using Auto Crossbow. The graph below shows a side by side comparison of Flamethrower and Auto Crossbow.
-
-![](/img/jobs/mch/mch-heat-vs-ft.png)
-
-&nbsp;
-
-There are some niche cases where Flamethrower is a small gain on two targets but it’s heavily reliant upon phasing and current Heat and Battery gauge levels. Two target Flamethrower is something that needs to be mapped out on a per-fight-basis and should not be the standard. 
+**Auto Crossbow** should only be used on four or more enemies since, unlike **Blazing Shot**, **Auto Crossbow** does not generate **Double Check** or **Checkmate** charges.
 
 # Gearing and Stat Allocation
 
