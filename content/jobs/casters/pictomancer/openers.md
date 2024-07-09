@@ -16,7 +16,7 @@ The following are openers you can follow at the beginning of the fight to set up
 
 ## 9 Spell Single Muse Opener
 
-![Pictomancer 9 Spell Single Muse Opener](/img/jobs/pct/pictomancer9spellsinglemuseopener.png "Pictomancer 9 Spell Single Muse Opener")
+![Pictomancer 9 Spell Single Muse Opener](/img/jobs/pct/1000091140.png "Pictomancer 9 Spell Single Muse Opener")
 
 # Burst Windows
 
