@@ -14,10 +14,7 @@ description: The Balance's openers page for Final Fantasy XIV (FF14) reviews the
 
 The following are openers you can follow at the beginning of the fight to set up the rest of your rotation and burst windows. For more details about the opener, as well as the skills used within, please read the [Basic Guide, by Eydis](https://www.thebalanceffxiv.com/jobs/casters/pictomancer/basic-guide/).
 
-
-
 **Please note:** the Creature Muse used before your Mog/Madeen use can be any of Pom/Wing/Claw/Maw, so long as you don't overwrite the Mog/Madeen by using  Wing/Maw before using the saved Mog/Madeen charge.
-
 
 ## 9 Spell Single Muse Opener
 
@@ -29,7 +26,7 @@ The following are examples of burst setups for your two-minute windows. Please n
 
 ## 9 Spell Single Muse Burst
 
-![Pictomancer 9 Spell Single Muse Burst](/img/jobs/pct/pictomancer9spellsinglemuseburst.png "Pictomancer 9 Spell Single Muse Burst")
+![Pictomancer 9 Spell Single Muse Burst](/img/jobs/pct/1000091140.png "Pictomancer 9 Spell Single Muse Burst")
 
 ## 8 Spell Triple Muse Burst
 
