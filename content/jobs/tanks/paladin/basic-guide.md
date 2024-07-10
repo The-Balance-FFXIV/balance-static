@@ -3,8 +3,8 @@ title: Paladin Basics Guide
 card_header_image: /img/jobs/pld/basic.png
 authors:
   - nikroulah
-patch: "6.5"
-lastmod: 2023-11-06T06:04:35.317Z
+patch: "7.0"
+lastmod: 2024-07-10T02:02:55.686Z
 changelog:
   - date: 2021-10-27T17:21:54.665Z
     message: Added
@@ -20,20 +20,21 @@ changelog:
     message: Text updated for 6.4
   - date: 2023-11-06T06:04:37.880Z
     message: Updated infographic for 6.4 changes
+  - date: 2024-07-10T02:02:58.328Z
+    message: Updated for 7.0
 tags:
   - Rotation
   - PaladinRotation
   - Opener
   - PaladinOpener
 ---
-Welcome to the Basics Guide for Paladin! Whether you are a fresh level 90, a returning player, or just need a refresher, this guide will get you started and allow you to hit the ground running.
+Welcome to the Basics Guide for Paladin! Whether you are a fresh level 100, a returning player, or just need a refresher, this guide will get you started and allow you to hit the ground running.
 
-Since this is a basic introduction to level 90 Paladin, this guide will not go into many nuances and topics that are tied to high-end optimization. If you are looking for such information, you may find it in one of the dedicated guides below:
+Since this is a basic introduction to level 100 Paladin, this guide will not go into many nuances and topics that are tied to high-end optimization. If you are looking for such information, you may find it in one of the dedicated guides below, or in discussion channels on the Balance discord:
 
 * [Leveling Guide](/jobs/tanks/paladin/leveling-guide/)
 * [Openers](/jobs/tanks/paladin/openers)
 * [Advanced Guide](/jobs/tanks/paladin/advanced-guide/)
-* Fight Tips (Coming Soon!)
 * Stats and Materia (see [main page](/jobs/tanks/paladin))
 * [Gearing](/jobs/tanks/paladin/best-in-slot)
 * [Skill Overview](/jobs/tanks/paladin/skills-overview/)
@@ -53,51 +54,53 @@ There are a few key concepts that are fundamental to the game and carry over bet
 * As a primarily melee job, it is important to know how to keep melee uptime on the boss. This includes knowing when mechanics snapshot and where you can greed for extra GCDs before and after disengaging for mechanics.
 * Keep off-Global Cooldowns (oGCDs) on cooldown. Damaging oGCDs should be used roughly as they come off cooldown, as long as using them does not delay your next GCD due to animation lock.
 
-## The Rotation (as of patch 6.4)
+## The Rotation
 
 ### Paladin Opener
 
-![6.3 Paladin Standard Opener](https://xiv.sleepyshiba.com/pld/img/63-v2opener.png)
+![7.0 Paladin Standard Opener](https://xiv.sleepyshiba.com/pld/img/100open.png)
 
-The potion used is whatever the current tier's Strength potion is (as of patch 6.4, it is the Grade 8 Tincture of Strength).
+The potion used is whatever the current tier's Strength potion is (as of patch 7.0, it is the Grade 1 Gemdraught of Strength).
 
 After the opener, we cycle between a filler phase and a burst phase (explained below).
 
 ### Paladin Rotation
 
-![6.3 Paladin Rotation](https://xiv.sleepyshiba.com/pld/img/64-v1.png)
-
 #### **Burst Phase**
 
-The burst phase begins with the use of Fight or Flight, and should contain the following GCDs:
+![7.0 Paladin Example Burst window](https://xiv.sleepyshiba.com/pld/img/100burst.png)
 
-* Goring Blade
+Always use Fight or Flight on cooldown, this begins your burst phase and is a large portion your damage. Your Fight or Flight buff window should contain the following GCDs:
+
 * Confiteor
 * Blade of Faith
 * Blade of Truth
 * Blade of Valor
-* 3 "extra" GCDs (if you have the Divine Might buff, prioritize Holy Spirit)
+* Goring Blade
+* 3 "extra" GCDs
 
-The exact GCD order is flexible. Since Goring Blade and the Confiteor combo actions do not break combo, it is recommended to use them first in the Fight or Flight window to avoid losing uses.
+The exact GCD order is flexible. Since the Confiteor combo actions and Goring Blade do not break combo, it is recommended to use them first in the Fight or Flight window to avoid losing uses.
+
+The three extra GCDs consist of whatever are the strongest "filler" GCDs available, i.e. some combination of Royal Authority, Atonement, Supplication, Sepulchre, or Divine Might-buffed Holy Spirit.
+
+Since Sepulchre is stronger than Holy Spirit (which is in turn stronger than Royal Authority, Atonement, and Supplication), prioritize putting Sepulchre in Fight or Flight when possible (this will not be possible when Royal Authority is used inside Fight or Flight). This will sometimes push Holy Spirit outside of the Fight or Flight buff window but is still a gain.
 
 Each Fight or Flight should also include the following actions:
 
-* Requiescat (this can be weaved immediately after Fight or Flight, and must precede Confiteor)
+* Imperator (this can be weaved immediately after Fight or Flight, and must precede Confiteor)
 * Circle of Scorn
 * Expiacion
 * 2 Intervenes (these should be held for Fight or Flight when possible — use them outside of Fight or Flight if needed to keep melee uptime)
 
 #### Filler Phase
 
-During the filler phase, abide by the following rules:
+Outside of Fight or Flight, repeat the Royal Authority combo (Fast Blade, Riot Blade, Royal Authority) and spend the procs it gives you (Atonement, Supplication, Sepulchre, and Divine Might). Make sure to spend all remaining procs before finishing the next Royal Authority combo.
 
-* Avoid overwriting Divine Might and Sword Oath stacks by spending your empowered Holy Spirit and Atonements before you next press Royal Authority.
-* You can (and should) start a Royal Authority combo before spending your Divine Might and Sword Oath — This enables you to hold strong GCDs to be your three "extra" Fight or Flight GCDs. Ensure that before actually pressing Royal Authority, you spend any remaining procs.
-* Use Circle of Scorn and Expiacion on cooldown — you will naturally get one use for free between Fight or Flight windows
-* Try to hold both Intervenes for Fight or Flight
-* Use Fight or Flight and Requiescat on cooldown, beginning another burst phase
+For stronger Fight or Flight windows, you can bank the resources generated by your Royal Authority combo by not spending them until your next Royal Authority is ready. For example, by following Royal Authority with Atonement, Fast Blade, Riot Blade, Supplication, Holy Spirit, Sepulchre, then Royal Authority outside of Fight or Flight, you will always have the strongest three filler GCDs available for use during burst, no matter where Fight or Flight comes off cooldown.
 
-  * Fight or Flight may come up at any point during your filler — that is okay, and you should use it immediately regardless of what point during your combo you are. Since Goring Blade and the Blade of Valor combo do not break combo, you can easily pick up your filler combo afterwards.
+Additionally, use Circle of Scorn and Expiacion on cooldown, so they are available for your next burst.
+
+Fight or Flight may come up at any point during your filler — that is okay, and you should use it immediately regardless of what point during your combo you are. Since Goring Blade and the Blade of Valor combo do not break combo, you can easily pick up your filler combo afterwards.
 
 ### Multiple Targets
 
@@ -125,7 +128,7 @@ Reprisal reduces the damage dealt by all enemies around you. Most of the time, u
 
 ![Holy Sheltron](https://xiv.sleepyshiba.com/pld/assets/skill-holysheltron.png)
 ![Rampart](https://xiv.sleepyshiba.com/pld/assets/skill-rampart.png)
-![Sentinel](https://xiv.sleepyshiba.com/pld/assets/skill-sentinel.png)
+![Guardian](https://xiv.sleepyshiba.com/pld/assets/skill-guardian.png)
 ![Hallowed Ground](https://xiv.sleepyshiba.com/pld/assets/skill-hallowedground.png)
 
 Use your other defensive cooldowns to reduce incoming damage and make life easier for your healers.
@@ -215,7 +218,7 @@ FFXIV macros do not queue, so hitting a macro while in animation lock from anoth
 
 Before obtaining best-in-slot gear, pick gear and meld according to stat priority on each piece of gear. Best-in-slot sets can be found [in the Balance Discord](https://discord.com/channels/277897135515762698/580300460179718146/847963997952016394) or [the Best in Slot page on this website](/jobs/tanks/paladin/best-in-slot/).
 
-Because of stat tiering, the [Tank Gear Calculator](https://bit.ly/XIV-TANKDPSCALC-EW) gets the last word on any specific gearing question.
+Because of stat tiering, [XIVGear](https://xivgear.app/) gets the last word on any specific gearing question.
 
 **Highest Priority**
 
