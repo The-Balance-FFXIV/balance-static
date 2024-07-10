@@ -154,3 +154,7 @@ This section will start at level 15, since that is the level requirement for the
 ### Level 94
 
 * At this level, Sepulchre becomes stronger than Divine Might-buffed Holy Spirit, so begin prioritizing Sepulchre in Fight or Flight over Holy Spirit
+
+### Level 100
+
+* Use the new Blade of Honor when available (it becomes ready upon using Blade of Valor)
