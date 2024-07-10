@@ -2,8 +2,8 @@
 title: Paladin Skills Overview
 authors:
   - nikroulah
-patch: "6.5"
-lastmod: 2023-11-06T06:05:16.641Z
+patch: "7.0"
+lastmod: 2024-07-10T02:27:20.353Z
 changelog:
   - date: 2021-10-27T17:21:39.738Z
     message: Added
@@ -19,6 +19,8 @@ changelog:
     message: Updated for 6.4
   - date: 2023-11-06T06:03:25.563Z
     message: Updated for 6.5
+  - date: 2024-07-10T02:27:21.005Z
+    message: Updated for 7.0
 ---
 ## Buffs
 
@@ -38,12 +40,12 @@ Keep this on in dungeons or as the main tank (in content with more than one tank
 
 +25% damage dealt for 20 seconds.
 
-**Requiescat**
+**Imperator**
 ![](https://xivapi.com/i/002000/002513_hr1.png)
 
 60s cooldown.
 
-320 potency.
+580 potency.
 
 Provides 4 stacks of Requiescat, granting instant casts and increasing the potency of Holy Spirit, Holy Circle, Confiteor, and the Blade of Valor combo actions. Stacks are consumed by casting any spell. Also grants Confiteor Ready, enabling the use of Confiteor.
 
@@ -63,9 +65,9 @@ Does not interrupt combos.
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/000000/000158_hr1.png) | ![](https://xivapi.com/i/000000/000156_hr1.png) | ![](https://xivapi.com/i/002000/002507_hr1.png) |
 
-200 > 300 > 400 potency
+220 > 330 > 440 potency
 
-+3 Sword Oath, grants Divine Might
+Grants Divine Might and Atonement Ready
 
 +1000 MP from Riot Blade
 
@@ -74,20 +76,36 @@ Does not interrupt combos.
 **Atonement**
 ![](https://xivapi.com/i/002000/002519_hr1.png)
 
-400 potency (physical)
+440 potency
 
-Costs one Sword Oath.
+Grants Supplication ready
+
++400 MP
+
+**Supplication**
+![](https://xivapi.com/i/002000/002522_hr1.png)
+
+460 potency
+
+Grants Sepulchre ready
+
++400 MP
+
+**Sepulchre**
+![](https://xivapi.com/i/002000/002523_hr1.png)
+
+480 potency
 
 +400 MP
 
 **Holy Spirit**
 ![](https://xivapi.com/i/002000/002514_hr1.png)
 
-350 potency | 1.5s cast time | Does not break combo
+370 potency | 1.5s cast time | Does not break combo
 
-450 potency and instant with Divine Might (consumes Divine Might)
+470 potency and instant with Divine Might (consumes Divine Might)
 
-650 potency and instant with Requiescat (consumes 1 stack of Requiescat)
+670 potency and instant with Requiescat (consumes 1 stack of Requiescat)
 
 Heals self for 400 potency.
 
@@ -99,9 +117,11 @@ Costs 1000 MP.
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/002000/002518_hr1.png) | ![](https://xivapi.com/i/002000/002952_hr1.png) | ![](https://xivapi.com/i/002000/002953_hr1.png) | ![](https://xivapi.com/i/002000/002954_hr1.png) |
 
-920 > 720 > 820 > 920 potency
+940 > 740 > 840 > 940 potency
 
 Each combo action consumes a stack of Requiescat, does very little damage unless buffed by Requiescat.
+
+Blade of Valor grants Blade of Honor ready.
 
 400 potency heal per hit.
 
@@ -134,26 +154,33 @@ AoE centered on self.
 
 30s charge time.
 
+**Blade of Honor**
+![](https://xivapi.com/i/002000/002956_hr1.png)
+
+1000 potency
+
+Requires Blade of Honor ready (granted by Blade of Valor)
+
 ## Defensive and Utility Abilities
 
 **Rampart**
 ![](https://xivapi.com/i/000000/000801_hr1.png)
 
-20% damage reduction.
+20% damage reduction. Increases incoming healing by 15%.
 
 20s duration | 90s cooldown
 
-**Sentinel**
-![](https://xivapi.com/i/000000/000151_hr1.png)
+**Guardian**
+![](https://xivapi.com/i/002000/002524_hr1.png)
 
-30% damage reduction.
+40% damage reduction. Gives a 1000 potency shield.
 
 15s duration | 120s cooldown
 
 **Bulwark**
 ![](https://xivapi.com/i/000000/000167_hr1.png)
 
-Guaranteed block (20% damage reduction at level 90, on average about 15% damage reduction if accounting for random blocks).
+Guaranteed block (20% damage reduction at level 100, on average about 15% damage reduction if accounting for random blocks).
 
 10s duration | 90s cooldown
 
@@ -191,7 +218,7 @@ Shield duration: 30s | 90s cooldown
 
 10% damage down to nearby enemies
 
-10s duration | 60s cooldown
+15s duration | 60s cooldown
 
 **Intervention**
 ![](https://xivapi.com/i/002000/002512_hr1.png)
