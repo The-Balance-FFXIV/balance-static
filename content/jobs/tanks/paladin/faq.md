@@ -1,8 +1,8 @@
 ---
 title: Paladin FAQ
 layout: qna
-patch: "6.4"
-lastmod: 2023-05-25T01:14:02.346Z
+patch: "7.0"
+lastmod: 2024-07-10T05:01:41.293Z
 changelog:
   - date: 2021-10-27T17:20:21.199Z
     message: Added
@@ -15,24 +15,67 @@ changelog:
   - date: 2023-05-25T01:14:04.904Z
     message: Updated for 6.4
 qna:
-  - question: Why no Holy Spirit during Requiescat?
-    answer: Holy Spirit consumes Requiescat stacks, as do the Confiteor combo
-      actions. The Confiteor combo actions are barely worth using with no
-      Requiescat buff
-  - question: Why is hardcast Holy Spirit not really 350 potency?
+  - question: Should I delay Fight or Flight or use hardcast Holy Spirit to get
+      Sepulchre and Divine Might Holy Spirit into every Fight or Flight window?
+    answer: No. The "strong" Fight or Flight window of Supplication, Sepulchre, Holy
+      Spirit (1410p) compared to the "weak" Fight or Flight window of Royal
+      Authority, Holy Spirit, Atonement (1350p) is only an extra 15 potency
+      (we're only moving 60p from outside of Fight or Flight to inside, not
+      creating potency overall, so the only gain is the Fight or Flight buff
+      applied to that 60p, i.e. `60*0.25=15`). As a general rule, delaying Fight
+      or Flight and hardcasting Holy Spirit are a much larger loss (average
+      filler potency is `(220+330+440+440+460+480+470)/7 = ~405` while hardcast
+      is ~340p taking into account the autos you lose from the auto-attack timer
+      being paused during casts which translates to ~65p loss from hardcasting
+      once). Encounter-specific considerations may cause one of these options to
+      be correct but they will almost always be a loss.
+  - question: Why should I spend the first Atonement immediately after Royal
+      Authority, rather than holding it like before?
+    answer: As long as you hold Supplication, Sepulchre, and Divine Might Holy
+      Spirit as long as possible, you will still always have three strong
+      fillers for Fight or Flight. Since Atonement isn't present in the "strong"
+      Fight or Flight window of Supplication, Sepulchre, Holy Spirit, defaulting
+      to spending the Atonement ASAP will cause the "strong" Fight or Flight
+      window to occur more often.
+  - question: Should I prioritize Sepulchre or Holy Spirit in Fight or Flight?
+    answer: Sepulchre is 10p more than Holy Spirit, so when prioritize Sepulchre
+      when possible. Sepulchre will only push Holy Spirit out of Fight or Flight
+      if entering Fight or Flight immediately after Royal Authority. If Royal
+      Authority lands inside of Fight or Flight, there will not be enough extra
+      GCD slots in Fight or Flight to fit all three of Atonement / Supplication
+      / Sepulchre, so Holy Spirit will take precedence.
+  - question: Why is hardcast Holy Spirit not really 370 potency?
     answer: PLD auto-attacks are normalized to 90p every 3s, so with a 1 second cast
       time (1.5s tooltip cast time minus 0.5s slidecast window), auto-attacks
-      are delayed by 1 second every hardcast. On average, **hardcast Holy Spirit
-      is equivalent to 320 potency**.
+      are delayed by 1 second every hardcast. On average, hardcast Holy Spirit
+      is equivalent to 340 potency.
   - question: What GCD speed should I use?
-    answer: 2.50 is ideal (see the [Best-in-Slot](/jobs/tanks/paladin/best-in-slot)
-      page)
-  - question: How do the 6.4 changes affect the rotation?
-    answer: You can now also hold Atonements for Fight or Flight like we could do
-      with Holy Spirit before, making Fight or Flight windows that previously
-      have Fast Blade or Riot Blade stronger. Simply begin a new Royal Authority
-      combo before spending any Atonements/Holy Spirit, but make sure to spend
-      them before finishing the combo.
+    answer: 2.50 is usually ideal (see the best-in-slot page).
+  - question: How do I play with a faster GCD speed?
+    answer: Depending on your speed, it may be possible to get 9 GCDs in Fight or
+      Flight with tight execution and low latency, do this by weaving Fight or
+      Flight late in the GCD. Since you are unable to double weave Imperator
+      after a late-weaved Fight or Flight, you will also need to use Goring
+      Blade or another filler GCD immediately after Fight or Flight, then
+      following it with Imperator into Confiteor combo. Also depending on your
+      speed, attempting to late-weave Fight or Flight every minute will result
+      in large delays over time. At many non-2.5 speeds, you will end up
+      alternating early- and late-weave Fight or Flights in some pattern, and
+      thus alternating between 8- and 9-GCD Fight or Flight windows.
+  - question: Why 2.50 GCD?
+    answer: A significant portion of Paladin's rotation is made up of spells, which
+      aren't affected by Skill Speed, making the stat very inefficient compared
+      to other substats. Outside of buffing Circle of Scorn's damage-over-time
+      and auto-attacks, the effect of skill speed is encounter-specific and only
+      results in gains if the filler GCD(s) that it gains outweighs the loss of
+      other substats that buff all of your damage (including your high-damaging
+      burst skills).
+  - question: I have very high latency (100+ ms), what speed should I play?
+    answer: Getting 9 GCDs in Fight or Flight is highly execution and latency
+      dependent, on top of being worse than 2.50 in almost all cases. Use 2.50
+      and avoid double weaving if having trouble with clipping.
+  - question: Spell Speed?
+    answer: Spell Speed affects even less of the rotation than Skill Speed does—avoid.
 authors:
   - nikroulah
 ---
