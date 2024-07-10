@@ -3,8 +3,8 @@ title: Paladin Leveling Guide
 card_header_image: /img/jobs/pld/leveling.png
 authors:
   - nikroulah
-patch: "6.3"
-lastmod: 2023-01-21T03:22:38.731Z
+patch: "7.0"
+lastmod: 2024-07-10T02:16:49.333Z
 changelog:
   - date: 2021-10-27T17:22:16.067Z
     message: Added
@@ -12,6 +12,8 @@ changelog:
     message: Updated for EW (sorry for the delay!)
   - date: 2023-01-21T03:22:40.058Z
     message: Updated for 6.3
+  - date: 2024-07-10T02:16:51.074Z
+    message: Updated for 7.0
 ---
 # Paladin Leveling
 
@@ -101,8 +103,8 @@ This section will start at level 15, since that is the level requirement for the
 
 * Use Requiescat inside Fight or Flight, and spend the 4 stacks on Holy Spirit.
 * Your Fight or Flight window should now contain:
-  * Goring Blade
   * Requiescat + 4x Holy Spirit
+  * Goring Blade
   * 3x "combo" GCDs (Fast Blade, Riot Blade, Royal Authority, or Holy Spirit)
   * \*With so many spells in the Fight or Flight window, it is very difficult to get 9 GCDs in Fight or Flight and not worth worrying about
 * It is usually possible to hold an earlier Holy Spirit into the Fight or Flight window, but be sure to:
@@ -125,17 +127,11 @@ This section will start at level 15, since that is the level requirement for the
 
 **Single Target:**
 
-* At this point, you can use the level 90 [rotation graphic](/jobs/tanks/paladin/openers), replacing Confiteor and Blade of Valor combo with four Holy Spirits and Expiacion with Spirits Within. The rotation priority system is summarized below:
-  * Use your Divine Might with Holy Spirit any time before it gets overwritten by your next Royal Authority
-  * Spend Atonements as you get them
-  * Start a Royal Authority combo when you are out of Atonements / Sword Oath
-  * Use Circle of Scorn and Spirits Within on cooldown
-  * Hold both charges of Intervene for Fight or Flight unless you need it for uptime
-  * Use Fight or Flight on cooldown. Upon using it, begin your burst phase, then pick up your filler combo where you left off
-  * Your burst phase should include:
-    * Goring Blade
+* At this point, you can use the level 100 [rotation](/jobs/tanks/paladin/basic-guide), replacing Confiteor and Blade of Valor combo with four Holy Spirits and Expiacion with Spirits Within. Divine Might-buffed Holy Spirit is stronger than Sepulchre at this level, so continue to prioritize placing Holy Spirit into Fight or Flight.
+  * Your burst phase should now include:
     * Requiescat + 4x Holy Spirit
-    * 3 filler GCDs (Holy Spirit, Atonement, or Royal Authority combo GCDs)
+    * Goring Blade
+    * 3 filler GCDs (Holy Spirit, Royal Authority, or Atonement/Supplication/Sepulchre)
 
 ### Level 80
 
@@ -154,3 +150,7 @@ This section will start at level 15, since that is the level requirement for the
 ### Level 90
 
 * Requiescat stacks should now be spend exclusively on Confiteor and the Blade of Valor combo. Do not spend them on Holy Spirit (if you have both Divine Might and Requiescat, Holy Spirit will consume only the Divine Might).
+
+### Level 94
+
+* At this level, Sepulchre becomes stronger than Divine Might-buffed Holy Spirit, so begin prioritizing Sepulchre in Fight or Flight over Holy Spirit
