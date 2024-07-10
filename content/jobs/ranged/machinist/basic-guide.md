@@ -2,9 +2,6 @@
 title: Machinist Basic Guide
 card_header_image: /img/jobs/mch/basic.png
 authors:
-  - dook
-  - juliacare
-  - lynn-nuvestrahl
   - Balance-MCH-Staff
 patch: "7.0"
 lastmod: 2024-07-02T21:52:02.178Z
@@ -158,11 +155,15 @@ With the addition of Excavator, we are gaining 20 extra battery every one minute
 | 05:06:50           | 8th Queen                    | 70                    | After Chain Saw                                                                                            |
 | 06:00:75           | 9th Queen (6 Minute Burst)   | 100                   | Used instantly after Air Anchor  to fully align itself with buffs                                          |
 | 06:38:25           | 10th Queen                   | 50                    |                                                                                                            |
-| 07:06:50           | 11th Queen                   | 70                    | After Chain Saw                                                                                            |
+| 07:06:50           | 11th Queen                   | 80                    | We delay Excavator Heated Clean Shot, in order to get the 80 gauge                                         |
 | 08:00:75           | 12th Queen (8 Minute Burst)  | 100                   | Used instantly after Air Anchor  to fully align itself with buffs                                          |
 | 08:35:75           | 13th Queen                   | 50                    |                                                                                                            |
 | 09:08:25           | 14th Queen                   | 60                    | We delay Excavator a single GCD (or whenever the next Heated Clean Shot is available to get the 60 gauge)  |
 | 10:00:75           | 15th Queen (10 Minute Burst) | 100                   | Used instantly after Air Anchor to fully align itself with buffs                                           |
+
+
+
+Something to note is that we follow a somewhat static loop for queen timings. After the 1st odd minute, our odd minute timings is sending the first queen at 50 always, our 3rd minute timing is at 60, then 5th minute at 70, and 7th at 80, and then finally looping back to 60 at 9 minutes. Following this pattern, the 11th minute queen would be at 70, and 13th at 80, and so forth. However, with full uptime fights rarely going to the 10th minute mark, this rule should remain efficient for any uptime fight for savage. In order to build muscle memory for always delaying the odd minute Excavator for the proper gauge, you have the choice to also do that for the first 1-minute by holding the Hypercharge until after Queen is summoned, but if using Hypercharge as soon as we have 50 Heat post opener, you will naturally have Queen at 90 post Excavator.
 
 While the Heat gauge may not be as flexible as the Battery gauge, there is still some finesse that can be had around its timings to make sure that you get the most out of your Hypercharge windows. Hypercharge windows can be chained together, but require a single GCD in between each window. Not only is this a good way to avoid overcapping heat during certain parts of the rotation, but it is also an excellent way of making the most out of raid buffs that may be lingering longer than a full Hypercharge window.
 
