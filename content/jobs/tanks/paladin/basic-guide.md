@@ -88,6 +88,7 @@ Since Sepulchre is stronger than Holy Spirit (which is in turn stronger than Roy
 Each Fight or Flight should also include the following actions:
 
 * Imperator (this can be weaved immediately after Fight or Flight, and must precede Confiteor)
+* Blade of Honor (use this immediately after Blade of Valor)
 * Circle of Scorn
 * Expiacion
 * 2 Intervenes (these should be held for Fight or Flight when possible — use them outside of Fight or Flight if needed to keep melee uptime)
