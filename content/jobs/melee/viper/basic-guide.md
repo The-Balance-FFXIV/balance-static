@@ -167,7 +167,7 @@ Viper rotation can be presented in its simplest form as a priority system.
 3. U﻿se Serpent's Ire as soon as it is ready. 
 4. E﻿nter Reawaken and spend all Reawakened actions following Serpent's Ire, using the Ready to Reawaken buff. 
 5. U﻿se Reawaken and spend all Reawakened actions when at or above 50 Offerings.
-6. Use Dreadwinder in single target and Pit of Dread in AoE and their follow up abilities before they reach 2 stacks. These can essentially be used on cooldown outside of the burst window, provided you do not overcap Noxious Gnash. 
+6. Use Dreadwinder in single target and Pit of Dread in AoE, and their follow up abilities, before they reach 2 stacks. These can essentially be used on cooldown outside of the burst window, provided you do not overcap Noxious Gnash. 
 7. Spend Rattling Coils as you get them.
 
    \-﻿ Save one at all times to cover potential disengages, but spend them before using Serpent's Ire as it will grant another. Avoid overcapping Coils and spend them before the end of the fight unless you can Reawaken instead. 
