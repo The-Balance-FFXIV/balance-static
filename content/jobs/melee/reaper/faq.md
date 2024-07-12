@@ -124,6 +124,27 @@ qna:
 
 
       Simply put: Arcane Circle gives a +3% damage buff for 20s. It also gives one stack of Immortal Sacrifice for every party member (including yourself) that lands a weaponskill/spell in the first 5s of Arane Circle's duration. Immortal Sacrifice stacks allow the use of Plentiful Harvest, and increase the potency of Plentiful Harvest by 40 per stack, up to 1000 potency at eight stacks. Plentiful Harvest cannot be used until Bloodsown Circle expires, which happens 6.7s after using Arcane Circle.
+  - question: How do you tell which player did not give you an Immortal Sacrifice Stack?
+    answer: >-
+      Follow this method to be certain. Replays/Streams can be used as well but
+      require more guesswork.
+
+
+      1. You or someone in your group will need to upload the fight in question to FFLogs
+
+      2. Click on the "Buffs" tab
+
+      3. Select Circle of Sacrifice from the "All Abilities" dropdown box
+
+      4. Select the "Events" tab
+
+      5. Look for any time Circle of Sacrifice lasted the full 5.0s duration. If the buff lasted *less* than 5.0s, that person gave you a stack. If it lasted the full duration, they did not give a stack.
+  - question: Why are some bursts being referred to as numbers and letters?
+    answer: The nomenclature system you might be seeing around is called
+      "non-standard notation". When out of the standard rotation bubble, RPR has
+      an enormous variety of possible bursts and the nomenclature help us to
+      track some characteristics for each window. The classification system can
+      be found in the Advanced Guide.
 authors:
   - ToraelValdis
   - Balance-RPR-Staff
