@@ -92,7 +92,7 @@ This is the general go-to opener for Summoner and uses Titan as the first primal
 
 # Primal Phases
 
-After every demi-summon phase is complete (including Solar Bahamut phase in the opener), you will have elemental gems available corresponding to each primal pet. This allows you to summon **Ifrit, Titan** or **Garuda.** Note that the summon itself is an AOE spell that does 800 potency, with 60% drop-off on additional targets.
+After every demi-primal phase is complete (including Solar Bahamut phase in the opener), you will have elemental gems available corresponding to each primal pet. This allows you to summon **Ifrit, Titan** or **Garuda.** Note that the summon itself is an AOE spell that does 800 potency, with 60% drop-off on additional targets.
 
 Our suggested opener prioritizes Titan first for damage, but for subsequent windows, you may swap the order around depending on encounter design requirements. What happens for every primal phase is:
 
@@ -128,11 +128,11 @@ Garuda's Astral Flow equivalent, **Slipstream**, is a hardcasted spell with a ca
 
 While not as restrictive as Ifrit, you should still keep potential movement restrictions in mind for Garuda phase.
 
-After going through three primals, you should be about five seconds away from being able to initiate the next demi-summon phase. This is where our Ruin spells come in:
+After going through three primals, you should be about five seconds away from being able to initiate the next demi-primal phase. This is where our Ruin spells come in:
 
 **Ruin III** usage should be minimized as much as possible. As such, outside of the opener, we aim to only cast one of them between each demi-primal. Tri-disaster is the AoE equivalent.
 
-**Ruin IV** is given as a proc from Energy Drain and lasts for one minute. This does more potency than Ruin III and is also an instant cast. When compared to Ruin III, Ruin IV is a gain in both single target and AoE scenarios. We also aim to only cast one of them between each demi-summon. Do not cast Ruin IV when a demi-primal is active.
+**Ruin IV** is given as a proc from Energy Drain and lasts for one minute. This does more potency than Ruin III and is also an instant cast. When compared to Ruin III, Ruin IV is a gain in both single target and AoE scenarios. We also aim to only cast one of them between each demi-primal. Do not cast Ruin IV when a demi-primal is active.
 
 Essentially, we aim to cast one Ruin III and one Ruin IV between each demi-primal phase. The key thing to note here is that we can use our one cast of Ruin III and Ruin IV **any time between demi-primal phases** (except during the 1-2 melee combo during Ifrit phase). We do not have to do it after all three primal phases are complete.
 
@@ -140,27 +140,27 @@ For example, during Garuda phase, you may find yourself about to cast Slipstream
 
 # Bahamut and Phoenix Phase
 
-After cycling through the primals and the two additional Ruin casts, **Summon Bahamut** or **Summon Phoenix** should become available. This functions similarly to Solar Bahamut with comparable damage potencies, with some minor differences.
+After cycling through the primals and the two additional Ruin casts, **Summon Bahamut** or **Summon Phoenix** should become available depending on where you are in the rotation. Bahamut functions identically to Solar Bahamut and should be treated as such, however Phoenix has unique mechanics that are slightly different from the Bahamut-based demi-primals.
 
 Phoenix will automatically cast **Everlasting Flight**, a passive AoE regen with healing potencies on par with various healer abilities. 
 
-Moreover, instead of Deathflare (a damage oGCD), we gain **Rekindle** instead as the Astral Flow equivalent. Rekindle is a single target healing ability. More information on these abilities will be covered in the utility and support section.
+Moreover, instead of Sunflare or Deathflare (a damage oGCD), we gain **Rekindle** as the Astral Flow equivalent. Rekindle is a single target healing ability. More information on these abilities will be covered in the utility and support section.
 
 Phoenix's other abilities are otherwise comparable to Bahamut. Summon Phoenix will also grant us elemental gems for subsequent primal phases.
 
-**Enkindle Phoenix (Revelation)** is a very hard hitting oGCD, much like Enkindle Bahamut (Akh Morn). We also get new instant cast GCDs over Ruin III and Tri-disaster during the phase: **Fountain of Fire** for single target, and **Brand of Purgatory** for AoE.
+**Enkindle Phoenix (Revelation)** is a very hard hitting oGCD, much like Enkindle Solar Bahamut (Exodus) or Enkindle Bahamut (Akh Morn). We also get new instant cast GCDs over Ruin III and Tri-disaster during the phase: **Fountain of Fire** for single target, and **Brand of Purgatory** for AoE.
 
 While Bahamut has an extra damaging oGCD (Deathflare), the potency from Phoenix's other attacks are slightly stronger than Bahamut's, resulting in them being very close in terms of total damage potency output. 
 
-Phoenix is usually summoned during odd minutes, so if buffs are available, you should also use Enkindle Phoenix within them (e.g. Trick Attack, Astrologian cards, or modified raid buff windows done for optimization or specific kill times). Fester from your odd minute Energy Drain can be used during these buffs, but can also be saved for 2-minute buff windows as long as they are used before the next Energy Drain.
+Phoenix is usually summoned during odd minutes, so if buffs are available, you should also use Enkindle Phoenix within them (e.g. Trick Attack, Astrologian cards, or modified raid buff windows done for optimization or specific kill times). Necrotize from your odd minute Energy Drain can be used during these buffs, but **should be saved for 2-minute buff windows** as long as they are used before the next Energy Drain.
 
-# After Phoenix Phase (Primal Phases)
+# After Bahamut/Phoenix Phase (Primal Phases)
 
-From this point onwards, the loop will repeat. We go through the three primal phases, use two Ruin casts, then Summon Bahamut will become available with Searing Light.
+From this point onwards, the loop will repeat. We go through the three primal phases, use two Ruin casts, then Summon Solar Bahamut will become available with Searing Light.
 
 One important disclaimer here is that **Summoner can either run critical hit or spell speed as its prioritized sub stat, and this will affect your demi-primal alignment with Searing Light**. 
 
-With high spell speed builds, subsequent Summon Bahamuts will become available before Searing Light and raid buff windows, causing them to misalign. This is because "Summon Bahamut" and "Summon Phoenix" abilities also scale with spell speed. For spell speed builds, this is expected, because the entire purpose of the spell speed build is to eventually gain more demi-summon phases over the course of a fight. Do not delay your demi-primals by inserting additional Ruin III casts to fill the gaps; at that point you are running a strictly worse critical hit build.
+With high spell speed builds, subsequent Summon Bahamuts will become available before Searing Light and raid buff windows, causing them to misalign. This is because "Summon Bahamut" and "Summon Phoenix" abilities also scale with spell speed. For spell speed builds, this is expected, because the entire purpose of the spell speed build is to eventually gain more demi-primal phases over the course of a fight. Do not delay your demi-primals by inserting additional Ruin III casts to fill the gaps; at that point you are running a strictly worse critical hit build.
 
 If you are running a critical hit build, Searing Light will become available just before Summon Bahamut. Your demi-primal should naturally align with raid buffs.
 
@@ -186,9 +186,9 @@ Outside of the opener, we try to catch four Necrotizes, one demi-primal, and two
 
 ## Phase Transitions and Downtime
 
-There are situations where boss phase transitions can result in eventually having both primal gems and demi-summons available. In this scenario, we follow this decision making flowchart:
+There are situations where boss phase transitions can result in eventually having both primal gems and demi-primals available. In this scenario, we follow this decision making flowchart:
 
-*Will I lose a use of a demi-summon by delaying?*
+*Will I lose a use of a demi-primal by delaying?*
 
 **Yes:** Do not delay demi-primal.
 **No:** Use primals and demi-primal.
@@ -200,7 +200,7 @@ There are also middle ground situations where you can "rush" through your primal
 
 As mentioned, Summoner can either run low Spell Speed (2.48 or 2.46 GCD) or high Spell Speed (2.20 or 2.25 GCD). The low Spell Speed/high Critical Hit build tends to be better for most situations, as the spell speed build's effectiveness is more subject to encounter timelines. However, you can choose to run the spell speed build blindly and perform adequately regardless. Taking more sps scales down the cooldown for Summon Bahamut and Summon Phoenix. With enough time, you will be able to gain a usage of either.
 
-Note that a 2.48 GCD (474 Spell Speed or higher) is the slowest we can use to ensure we get six Astral Impulse/Fountain of Fire casts during demi-summon phases. Do not attempt to run 2.49 or 2.50 GCD, as that will result in a significant DPS loss.
+Note that a 2.48 GCD (474 Spell Speed or higher) is the slowest we can use to ensure we get six Astral Impulse/Fountain of Fire casts during demi-primal phases. Do not attempt to run 2.49 or 2.50 GCD, as that will result in a significant DPS loss.
 
 When choosing between builds, one key consideration is whether you intend to play other caster jobs. Red Mage is more compatible with little to no spell speed, while Black Mage is more compatible with high spell speed values. This makes Summoner arguably the best choice for being a "second caster" due to this gearing flexibility.
 
