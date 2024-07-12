@@ -18,6 +18,10 @@ The following are openers you can follow at the beginning of the fight to set up
 
 ## 9 Spell Single Muse Opener
 
+﻿\*\*Please note that you can do these skills in whatever order you please, so long as you fit all of them into the nine spell window. If a fight requires more movement, adjust your hammer and spell order accordingly.\*\*<br>
+
+<br>
+
 ![Pictomancer 9 Spell Single Muse Opener](/img/jobs/pct/pictomancer9spellsinglemuseopener.png "Pictomancer 9 Spell Single Muse Opener")
 
 # Burst Windows
