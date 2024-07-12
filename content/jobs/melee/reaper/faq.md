@@ -1,8 +1,8 @@
 ---
 title: Reaper FAQ
 layout: qna
-patch: "6.5"
-lastmod: 2023-01-03T22:49:17.427Z
+patch: "7.0"
+lastmod: 2024-07-12T22:32:53.415Z
 changelog:
   - date: 2021-12-04T04:55:35.452Z
     message: Page created
@@ -14,31 +14,19 @@ changelog:
     message: "Updated to be consistent with our Discord RPR Resources page. "
 qna:
   - question: Which Potion/Food should RPR use?
-    answer: The highest available Strength potion. Currently, that is **Grade 8
-      Tincture of Strength**. Current food is **Baked Eggplant.** Always use
+    answer: The highest available Strength potion. Currently, that is **Grade 1
+      Gemdraught of Strength**. Current food is **Vegetable Soup.** Always use
       High Quality!
-  - question: Why do we use Arcane Circle halfway through the GCD instead of in the
-      second weave space?
+  - question: Why is my Plentiful Harvest clipping in the AC 3rd GCD Opener?
     answer: Plentiful Harvest cannot be used for 6.7s after using Arcane Circle. You
       must early weave it or it will cause a clip if used where it is in the
       openers. The only way to avoid clipping if you do not early weave Arcane
       Cirlce is for Plentiful Harvest, and therefore your burst, to be delayed
       one additional GCD. Both clipping and delaying are worse than early
       weaving Arcane Circle. It will still clip at GCD speeds of 2.47 and
-      faster.
-  - question: Why do we use Arcane Circle so early in the opener when it is
-      misaligned from other buffs?
-    answer: Due to the nature of Plentiful Harvest being tied to Arcane Circle, we
-      are forced to use Arcane Circle early in the opener in order to fit the
-      most potency under buffs. If we do Arcane Circle later, Plentiful Harvest
-      is available later, meaning we end up pushing the end of our opener out of
-      raid buffs, especially 15s raid buffs. We compromise by taking a small hit
-      to buff alignment for the opener for more potency under the party's raid
-      buffs. We correct this at the two minute buff window by entering the
-      Double Enshroud sequence at 6s left on Arcane Circle cooldown instead of
-      the standard 9s left. This pushes Arcane Circle back into alignment for
-      the rest of the fight. See the Two Minute Burst Window section of the
-      Advanced Guide for more details.
+      faster. If you're entirely sure that youre pressing Arcane Cirlce as soon
+      as possible, and do not have a GCD speed of 2.47 or faster, then it could
+      be a ping related issue.
   - question: How do we properly use Harvest Moon/Harpe?
     answer: Harpe should be used prepull in the opener and when you are forced out
       of melee range for at least one GCD, provided it is not possible to keep
@@ -47,104 +35,96 @@ qna:
       AoE, if applicable, or used in place of a weaker GCD for an overall
       potency gain. Harvest Moon uses will very much be a fight-specific
       optimization and there is no "this is always the best way to use it."
+      Perfectio can also be used as a disengage tool in place of Harpe, please
+      see the Intermediate Guide for more details.
   - question: Why do we precast Harpe instead of using Harvest Moon or just running
       in and immediately doing Shadow of Death?
     answer: Using a casted ability before the countdown is finished does two things.
       1. It starts your GCD clock early without early pulling. 2. The damage
       doesn't go out until the cast is finished which means the damage does not
-      land until the countdown reaches 0. By the time you actually reach the
-      boss, you have gained a free GCD. Harvest Moon is an instant cast, so if
-      you try to do the same thing with it, you will early pull by two seconds.
-      Running in and immediately doing Shadow of Death lands the Shadow of Death
-      at roughly the same time as if you precasted Harpe (about 0.5s
-      difference), which means that precasting Harpe is just free damage in most
-      cases. Some fight specific optimizations do exist where skipping the
-      precast Harpe will gain you a stronger GCD in the phase due to fight
-      phasing or kill time. Consult fight-specific resources for more
-      information.
+      land until the countdown reaches 0. Pulling with other actions, such as
+      Harvest Moon, Shadow of Death and Soul Slice is an optimization technique
+      called "Harpe sacrifice" and it's categorized as non-standard since you
+      need to pay attention to finer details when doing those. Some fight
+      specific optimizations do exist where just skipping the precast Harpe
+      without all the extra care that non-standard asks will gain you a stronger
+      GCD in the phase due to fight phasing or killtime. Consult fight-specific
+      resources for more information.
   - question: When should we refresh Death's Design?/How often should we use Shadow
       of Death?
     answer: Use Shadow of Death before Death's Design falls off, or as needed for
-      filler for even-minute burst windows. See the Advanced Guide for more info
-      on even-minute burst windows.
-  - question: What is the difference between Blood Stalk, Unveiled Gibbets, and
+      filler for even-minute burst windows. See the Intermediate Guide for more
+      info on even-minute burst windows.
+  - question: What is the difference between Blood Stalk, Unveiled Gibbet, and
       Unveiled Gallows?
     answer: Nothing functionally. They are effectively the same things with
       different animations. They each consume 50 Soul to give one stack of Soul
-      Reaver. Blood Stalk is 60 potency less than the Unveiled forms, but you
+      Reaver. Blood Stalk is 80 potency less than the Unveiled forms, but you
       will never use the base form unless you drop the Enhanced Gallows/Gibbet
-      buff (aside from once in the opener if you do not have Gluttony yet).
-  - question: How does Soul Reaver work?
-    answer: "Gluttony gives 2 Soul Reaver stacks. Blood Stalk (as well as Unveiled
-      Gibbet/Gallows) gives 1 Soul Reaver stack. Soul Reaver allows for the
-      execution of Gibbet and Gallows. Any ability that grants Soul Reaver MUST
-      be followed by Gibbet or Gallows, or the Soul Reaver stack will be lost. "
-  - question: What's the difference between Double Enshroud and Triple Enshroud
-      windows and when do we use one or the other?
-    answer: >-
-      Double Enshroud windows will happen every two minutes after the opener and
-      allows for two Communios under raid buffs. This is your standard
-      even-minute burst window, and can be found in the Advanced Guide. 
-
-
-      Triple Shroud is an incredibly niche optimization that is almost never used as the conditions for it being a gain are extremely strict. Triple Shroud information can be found in the Graduate Studies section of the Advanced Guide. 
-
-
-      Unless you are 100% sure Triple Shroud will be a gain, use Double Shroud!
-  - question: Why do we do Void/Cross Reaping -> Shadow of Death -> Void/Cross
-      Reaping -> Shadow of Death -> Arcane Circle during Double Enshroud instead
-      of doing Shadow of Death -> Shadow of Death -> Void/Cross Reaping ->
-      Void/Cross Reaping -> Arcane Cricle?
-    answer: Doing the second option causes the GCD to come up in such a way that at
-      the moment you need to use Arcane Circle, it is forced to be delayed
-      another ~1 second, which causes Arcane Circle to drift out of alignment
-      with party buffs. This also means that since Arcane Circle will be later,
-      Plentiful Harvest will be ready later, which is highly likely to cause a
-      clip as well as push the second Communio out of 15s raid buffs.
+      buff (aside from once in the opener if you have not unlocked Gluttony
+      yet).
+  - question: Why don't we fit three Communios in potion instead of only two?
+    answer: Triple Enshroud windows do exist, but they are non-stndard gameplay, due
+      to their inconsistent nature and the fact that they require heavy planning
+      to be performed. You can find a full explanation for Triple Enshrouds and
+      their possible forms in the Advanced Guide.
+  - question: Does it matter if we start Enshroud with Void Reaping or Cross Reaping?
+    answer: No. They don't have positionals and the first hit is always unbuffed by
+      Enhanced Void/Cross Reaping, so you are free to use whichever. The
+      important thing is that you alternate them to keep them buffed by Enhanced
+      Void/Cross Reaping.
+  - question: Why do we weave Arcane Circle after a Shadow of Death and not after a
+      Void/Cross Reaping in the Death Design Retain Double Enshroud?
+    answer: Bloodown Circle forces a 6.7s delay between when we use Arcane Circle
+      and Plentiful Harvest. Because Void/Cross Reaping has a shorter recast
+      than Shadow of Death, there is less time between Arcane Circle and
+      Plentiful Harvest. This ~1 second difference is enough to cause a clip
+      between where the GCD clock is ready and Plentiful Harvest can actually be
+      used.
   - question: When should I use a Potion?
-    answer: If a fight allows for it, Potions should be used at the 2:XX and 8:XX
-      windows. If the fight is shorter than eight minutes, the second pot can be
-      used at 6:30 or 7:XX. You will need to adjust your burst accordingly, but
-      exactly how will be fight specific. If the fight is longer than nine
-      minutes, you can use a Potion in the opener, then use it on cooldown after
-      to get three potions in the fight, assuming full uptime. Whether this is
-      possible without full uptime will be a fight-specific thing.
-  - question: "Why don't we use Potions in the opener? "
-    answer: >-
-      With all raid buffs being 120s now, all raid buffs will be present again
-      at the 2:XX buff window, which means we don't miss out on any raid buffs
-      by moving our Potion to 2:XX. This allows us to pool resources after the
-      opener to get an even stronger Double Enshroud burst phase under Potion,
-      vs. a Single Enshroud burst phase in the opener, resulting in a
-      significantly higher value from the Potion.
-
-
-      If the fight is not long enough to get two potions during Double Enshroud burst windows, an option potion is still used. As potion uses are fight-specific, refer to fight specific resources for optimal timings.
-  - question: How much Skill Speed does RPR want and why?
-    answer: Reaper functions best at either 2.49 or 2.48. These speeds align the
-      rotation close to a clean 120 second loop. Going any slower will cause
-      resource generation issues later in the rotation and any faster you’ll
-      begin to clip Plentiful Harvest in your opener. Skill Speed is also our
-      lowest scaling stat, so the more we meld, the lower our overall damage.
+    answer: This is a fight-specific decision. If a fight allows for it and it
+      doesn't cause a lost usage, the opener potion can be moved to the 2:XX
+      burst window for more potency in the buff. Different party buff timings
+      due to mechanics or party choice can alter this. See ⁠#rpr_encounter in
+      the Discord for potion timings for each specific fight.
+  - question: How much Skill Speed does Reaper want and why?
+    answer: The short answer is that RPR wants a 2.49 GCD speed for standard play.
+      It minimizes our drift from Arcane Circle due to alignment while keeping
+      Skill Speed investment low. There is a much longer, more in depth answer,
+      but it requires non-standard knowledge from the Advanced Guide. Please see
+      that if you want to know more.
+  - question: What is gauge-negativity and how does it affect us?
+    answer: '"Gauge-negativity" refers to the fact that we *usually* have less gauge
+      in an even minute burst than the last. Right now, RPR "loses" 20 Soul
+      every 2mins. Since we generate 60 Soul and 50 Shroud before the first
+      Double Enshroud window, we have a breakpoint at the 10mins in an full
+      uptime encounter. Options for dealing with are either deadzoning the
+      sequence between 8:XX and 10:XX burst windows or doing Single Shroud
+      windows from 10:XX and onwards. This decision will depend on the fight
+      that happens to suffer from this characteristic of our rotation.
+      **Realistically, this is no big deal.** "Usually" here refers to the fact
+      that "gauge-negativity" can be generalized to the "gauge balance" concept
+      from non-standard gameplay and which is explained in the Advanced Guide.'
   - question: How do Arcane Circle, Immortal Sacrifice, and Plentiful Harvest work?
     answer: >-
-      Arcane Circle is a 3% damage up buff for 20s that is applied to all party
-      members within 30y of the caster.
+      Using Arcane Circle gives three buffs: Arcane Circle, Circle of Sacrifice,
+      and Bloodsown Circle. 
 
 
-      Circle of Sacrifice is a 5s buff that checks whether or not the RPR that used Arcane Circle and each party member with the buff successfully uses a weaponskill or spell that **does damage/applies a negative effect** to the target. Because of this criterion, DNC steps and healing spells do not count.
+      **Arcane Circle** is a 3% damage up buff for 20s that is applied to all party members within 30y of the caster. 
 
 
-      Bloodsown Circle lasts 6s and gives you one Immortal Sacrifice stack for each party member (including yourself) that uses a weaponskill/spell that **does damage/applies a negative effect** under Circle of Sacrifice (maximum of one stack per person). 
+      **Circle of Sacrifice** is a 5s buff applied to the entire party. It gives the RPR that cast it one stack of **Immortal Sacrifice** when the affected player (including the RPR, meaning we can have up to 8 stacks) uses a skill that satisfies the following criteria: 1. is a weaponskill or spell and 2. does damage/applied a negative effect. From the first criteria, NIN's Mmudras do not count. From the second, DNC steps, PCT canvases, and healing GCD spells are also excluded. 
 
 
-      Immortal Sacrifice stacks up to eight stacks, and lasts for up to 30s. Immortal Sacrifice stacks allow Plentiful Harvest to be used. 
+      **Bloodsown Circle** lasts 6.7s and blocks Plentiful Harvest from being used for the duration. 
 
 
-      Plentiful Harvest consumes all Immortal Sacrifice stacks and gains 40 potency for every additional stack, starting at 720 and maxing out at 1000 potency at eight stacks. Your own stack is already included in the base potency of 720, as it is required to even use the skill. You cannot use Plentiful Harvest until Bloodsown Circle has expired. 
+      **Plentiful Harvest** consumes all Immortal Sacrifice stacks and gains 40 potency for every additional stack, starting at 720 and maxing out at 1000 potency at eight stacks. Your own stack is already included in the base potency of 720, as it is required to even use the skill. 
 
 
-      Simply put: Arcane Circle gives a +3% damage buff for 20s. It also gives one stack of Immortal Sacrifice for every party member (including yourself) that lands a weaponskill/spell in the first 5s of Arane Circle's duration. Immortal Sacrifice stacks allow the use of Plentiful Harvest, and increase the potency of Plentiful Harvest by 40 per stack, up to 1000 potency at eight stacks. Plentiful Harvest cannot be used until Bloodsown Circle expires, which happens 6s after using Arcane Circle.
+      Simply put: Arcane Circle gives a +3% damage buff for 20s. It also gives one stack of Immortal Sacrifice for every party member (including yourself) that lands a weaponskill/spell in the first 5s of Arane Circle's duration. Immortal Sacrifice stacks allow the use of Plentiful Harvest, and increase the potency of Plentiful Harvest by 40 per stack, up to 1000 potency at eight stacks. Plentiful Harvest cannot be used until Bloodsown Circle expires, which happens 6.7s after using Arcane Circle.
 authors:
   - ToraelValdis
+  - Balance-RPR-Staff
 ---
