@@ -2,13 +2,15 @@
 title: Black Mage Openers
 authors:
   - Balance-BLM-Staff
-patch: "6.4"
-lastmod: 2023-05-28T20:24:12.684Z
+patch: "7.0"
+lastmod: 2024-07-13T23:57:38.501Z
 changelog:
   - date: 2021-11-15T02:42:11.541Z
     message: Article Created.
   - date: 2022-01-29T17:29:21.878Z
     message: 6.08 Initial version
+  - date: 2024-07-13T23:57:40.163Z
+    message: Updated for Dawntrail
 ---
 # Openers
 
