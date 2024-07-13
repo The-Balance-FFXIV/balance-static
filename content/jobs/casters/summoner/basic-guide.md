@@ -3,8 +3,8 @@ title: Summoner Basic Guide
 card_header_image: /img/jobs/smn/basic.png
 authors:
   - Balance-SMN-Staff
-patch: "6.4"
-lastmod: 2023-05-30T23:34:01.504Z
+patch: "7.0"
+lastmod: 2024-07-13T23:35:35.802Z
 changelog:
   - date: 2021-11-15T21:19:02.069Z
     message: Added page
@@ -12,6 +12,8 @@ changelog:
     message: Updated for Endwalker.
   - date: 2023-05-30T23:34:02.348Z
     message: Patch Update 6.4
+  - date: 2024-07-13T23:35:40.291Z
+    message: Updated basics for patch 7.0
 ---
 # Introduction
 
@@ -158,11 +160,7 @@ Phoenix is usually summoned during odd minutes, so if buffs are available, you s
 
 From this point onwards, the loop will repeat. We go through the three primal phases, use two Ruin casts, then Summon Solar Bahamut will become available with Searing Light.
 
-One important disclaimer here is that **Summoner can either run critical hit or spell speed as its prioritized sub stat, and this will affect your demi-primal alignment with Searing Light**. 
-
-With high spell speed builds, subsequent Summon Bahamuts will become available before Searing Light and raid buff windows, causing them to misalign. This is because "Summon Bahamut" and "Summon Phoenix" abilities also scale with spell speed. For spell speed builds, this is expected, because the entire purpose of the spell speed build is to eventually gain more demi-primal phases over the course of a fight. Do not delay your demi-primals by inserting additional Ruin III casts to fill the gaps; at that point you are running a strictly worse critical hit build.
-
-If you are running a critical hit build, Searing Light will become available just before Summon Bahamut. Your demi-primal should naturally align with raid buffs.
+With higher spell speed, subsequent Summon Solar Bahamuts will become available before Searing Light and raid buff windows, causing them to misalign. This is because the summon demi-primal abilities also scale with spell speed. For spell speed builds at lower levels, this is expected, because the entire purpose of the spell speed build is to eventually gain more demi-primal phases over the course of a fight. However, at maximum level, this spell speed should be avoided to avoid this desync. In the scenario of having higher than wanted spell speed, do not delay your demi-primals by inserting additional Ruin III casts to fill the gaps.
 
 ## Potion Windows
 
@@ -194,21 +192,7 @@ There are situations where boss phase transitions can result in eventually havin
 **No:** Use primals and demi-primal.
 **Unsure:** Do not delay demi-primal.
 
-There are also middle ground situations where you can "rush" through your primal summons casting only two spells for each. This allows you to benefit from the primal summoning damage (700 potency) while also compensating for the downtime by cutting out weaker spells. In endgame raiding, there are a lot of variables that surround this, making it a more advanced technique that is better done with precise timeline planning. However, it is common to do this in dungeons due to the frequent downtime between mob pulls.
-
-# Critical Hit vs Spell Speed Summoner Builds
-
-As mentioned, Summoner can either run low Spell Speed (2.48 or 2.46 GCD) or high Spell Speed (2.20 or 2.25 GCD). The low Spell Speed/high Critical Hit build tends to be better for most situations, as the spell speed build's effectiveness is more subject to encounter timelines. However, you can choose to run the spell speed build blindly and perform adequately regardless. Taking more sps scales down the cooldown for Summon Bahamut and Summon Phoenix. With enough time, you will be able to gain a usage of either.
-
-Note that a 2.48 GCD (474 Spell Speed or higher) is the slowest we can use to ensure we get six Astral Impulse/Fountain of Fire casts during demi-primal phases. Do not attempt to run 2.49 or 2.50 GCD, as that will result in a significant DPS loss.
-
-When choosing between builds, one key consideration is whether you intend to play other caster jobs. Red Mage is more compatible with little to no spell speed, while Black Mage is more compatible with high spell speed values. This makes Summoner arguably the best choice for being a "second caster" due to this gearing flexibility.
-
-Spell Speed lowers the cooldown of both Summon Bahamut and Summon Phoenix in order to gain more usages. Use Bahamut and Phoenix when they are available to capitalize on spellspeed. Delaying summoms to align with buffs results in lower damage in most circumstances.
-
-One issue players may experience from the cooldown reduction is a disjointed rotation because spell speed does not affect ability cooldowns like Energy Drain and Searing Light, which remain at 60 and 120 seconds.
-
-Keep these two abilities aligned with your party's buff windows. Use Energy Drain when it is available and delay Necrotize from odd minutes so that you can use four Necrotizes in even minute buff windows. Keep Searing Light with your party's buff windows.
+There are also middle ground situations where you can "rush" through your primal summons casting only two spells for each. This allows you to benefit from the primal summoning damage (800 potency) while also compensating for the downtime by cutting out weaker spells. In endgame raiding, there are a lot of variables that surround this, making it a more advanced technique that is better done with precise timeline planning. However, it is common to do this in dungeons due to the frequent downtime between mob pulls.
 
 # Utility and Party Support
 
@@ -241,6 +225,10 @@ During kill attempts or farm, there are many situations where it would still be 
 There are many situational considerations, such as healer MP and Swiftcast availability, upcoming mechanics, whether we're in a demi-primal phase, severity of DPS check, a Red Mage's melee combo timings (if raiding with one), and more.
 
 If in a static, always coordinate with your healers or Red Mage co-caster. You should be ready to share the load and cover for each other as needed. In a Party Finder environment, default to Swiftcast raising if it can help save the run or the healers are handling heal checks, but consider allowing your healers to Swiftcast raise if they are able to and there is no immediate urgency.
+
+## Lux Solaris
+
+When summoning Solar Bahamut, you'll be able to use the Lux Solaris skill for the next 30 seconds of game time. This is an AoE skill that heals for a total of 500 potency, and can safely be held for raidwide damage that may occur while Solar Bahamut is out. It should be used before the timer is up as it is a free heal similar to Everlasting Flight and Rekindle.
 
 ## Everlasting Flight
 
