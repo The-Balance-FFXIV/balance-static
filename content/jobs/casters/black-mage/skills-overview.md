@@ -2,8 +2,8 @@
 title: Black Mage Skills Overview
 authors:
   - Balance-BLM-Staff
-patch: "6.4"
-lastmod: 2023-05-28T20:23:59.883Z
+patch: "7.0"
+lastmod: 2024-07-13T23:57:06.412Z
 changelog:
   - date: 2021-10-26T01:49:28.929Z
     message: Added page
@@ -11,6 +11,8 @@ changelog:
     message: Updated for Endwalker.
   - date: 2023-05-28T19:58:15.723Z
     message: Updated for 6.4.
+  - date: 2024-07-13T23:57:12.953Z
+    message: Updated for Dawntrail.
 ---
 # Actions
 
