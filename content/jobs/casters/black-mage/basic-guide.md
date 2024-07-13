@@ -4,8 +4,8 @@ card_header_image: /img/jobs/blm/basic.png
 authors:
   - Balance-BLM-Staff
   - rika-vanih
-patch: "6.4"
-lastmod: 2023-05-28T19:38:51.767Z
+patch: "7.0"
+lastmod: 2024-07-13T22:52:59.125Z
 changelog:
   - date: 2021-10-26T01:47:44.292Z
     message: Added page
@@ -13,6 +13,8 @@ changelog:
     message: 6.X Guide initial version
   - date: 2023-05-28T19:39:48.130Z
     message: 6.4 Adjustments
+  - date: 2024-07-13T22:53:02.661Z
+    message: Updated for 7.0
 ---
 # **7.x Black Mage Guide**
 
@@ -119,12 +121,11 @@ A few important notes:
 
 ### Astral Fire III
 
-
 Using your Firestarter proc in Astral Fire III, typically referred to as “AF3 F3P”, allows for extra flexibility in your Astral Fire timer, as well as extra mobility. Pictured below is a baseline version of using the proc for this purpose, allowing for the maximum leeway in your Astral Fire timer:
 
 ![](/img/jobs/blm/black-mage-firestarter_-astral-fire-iii.png "Firestarter: Astral Fire III")
 
-This is just an example though–as needed, you can easily shift around any of the **Fire IV**/**Paradox** casts then use the Firestarter proc when your Astral Fire timer is getting low. Situationally, if you will not be able to complete all of your six **Fire IV** casts before Astral Fire drops, it will generally be the largest priority to use your Firestarter proc to refresh your timer. Guaranteeing the **Flare Star** is often going to be more important than other potential usage for the Firestarter proc.
+<br />This is just an example though–as needed, you can easily shift around any of the **Fire IV**/**Paradox** casts then use the Firestarter proc when your Astral Fire timer is getting low. Situationally, if you will not be able to complete all of your six **Fire IV** casts before Astral Fire drops, it will generally be the largest priority to use your Firestarter proc to refresh your timer. Guaranteeing the **Flare Star** is often going to be more important than other potential usage for the Firestarter proc.
 
 ### Astral Fire I
 
@@ -132,7 +133,7 @@ Whenever possible, it is generally recommended to carry your Firestarter proc th
 
 ![](/img/jobs/blm/black-mage-firestarter_-astral-fire-i.png "Firestarter: Astral Fire I")
 
-While using the Firestarter proc in Astral Fire III is still a reasonably strong spell, using the proc this way replaces a relatively weak **Fire III** casted in Umbral Ice III with one used in Astral Fire I and as a result provides more of a gain.\
+</br >While using the Firestarter proc in Astral Fire III is still a reasonably strong spell, using the proc this way replaces a relatively weak **Fire III** casted in Umbral Ice III with one used in Astral Fire I and as a result provides more of a gain.\
 \
 This is not without drawbacks though—in order to weave the **Transpose**, it is required to use a “filler spell” (High Thunder or **Xenoglossy**), or less ideally have your **Blizzard IV** be instant-cast via **Swiftcast**/**Triplecast**. Furthermore, it is important to note that the Firestarter proc applies Astral Fire III sooner than a regular cast of **Fire III** would apply it, which will result in a slightly stricter Astral Fire timer to work with.
 
@@ -148,143 +149,149 @@ This is not without drawbacks though—in order to weave the **Transpose**, it i
 
 **Manafont** can be used for an additional two **Flare** casts followed by another **Flare Star**. Using any ether that grants at least 800 MP can be used for an additional **Flare** in dungeons and can still be worthwhile even though it will not enable an additional **Flare Star** by itself. Leveraging **Swiftcast**/**Triplecast** to make **Flare** and/or **Flare Star** casts instant is very valuable due to their long base cast time.
 
-![](/img/jobs/blm/aoevariant.png)
+## **Transpose Optimization**
 
-While Paradox will be available with each swap, it will generally be ignored for AoE other than potential for movement, high HP targets, or when there are only two targets remaining.
+With the nerf to **High Blizzard II** and **High Fire II**, it is usually beneficial to use Transpose to skip them entirely.
+
+![](/img/jobs/blm/black-mage-aoe-with-transpose.png "AoE with Transpose")
+
+<br />Even at the cost of having only the Astral Fire I bonus on the first **Flare**, it is more worthwhile to skip the **High Fire II** cast. The **Freeze** cast in Umbral Ice I grants enough MP to use both **Flare** casts in the following Astral Fire. The filler spells (**Foul**/**High Thunder II**) are used to weave **Transpose**, though if the **Flare Star** at the end of an Astral Fire cycle is instant via **Swiftcast**/**Triplecast**, the filler after it is unnecessary. Prioritize using **High Thunder II** for filler only when the DoT timer is lower to get the most value out of the DoT.
+
+In a situation where you are running out of filler spells, prioritize using **Transpose** to skip **High Blizzard II** over **High Fire II**, as the latter still provides a damage bonus to the first **Flare**. Clipping **Transpose** can still be a gain over using **High Blizzard II**/**High Fire II**, though note that due to the cooldown of **Transpose** it is not possible to clip twice without waiting or otherwise using a filler spell anyways in Umbral Ice.
 
 ## **2-Target Situations**
 
-For 2-Target situations, the standard single target rotation is used, with a few adjustments. Use High Blizzard II/High Fire II instead of Blizzard III/Fire III.
-
-Use Thunder III on each target. Flare can be a gain over Despair if you can make it instant cast (via Swiftcast or Triplecast), even without the Enhanced Flare buff.
-
-As of Patch 6.4, Foul is no longer a gain over using Xenoglossy until there are three or more targets.
+For 2-target situations, use **High Thunder II** instead of **High Thunder** if you can hit both with it, otherwise DoT one with **High Thunder** and apply it to the other target when you swap between Astral Fire/Umbral Ice naturally in your rotation.
 
 # **oGCD Abilities**
 
-Whenever possible, oGCD abilities should be weaved to avoid delays in casting. One oGCD ability can be used after Fire III/High Fire II from Umbral Ice III, and after Blizzard III/High Blizzard II from Astral Fire III. Up to two oGCD abilities can be weaved after instant-cast spells (Xenoglossy/Foul, Paradox in Umbral Ice, Thundercloud/Firestarter procs, or spells made instant via Swiftcast/Triplecast).
+Whenever possible, oGCD abilities should be weaved to avoid delays in casting. One oGCD ability can be used after **Fire III**/**High Fire II** from Umbral Ice III, and after **Blizzard III**/**High Blizzard II** from Astral Fire III. Up to two oGCD abilities can be weaved after instant-cast spells (**Xenoglossy**/**Foul**, **Paradox**, **High Thunder**/**High Thunder II**, Firestarter procs, or spells made instant via **Swiftcast**/**Triplecast**).
 
-In case of emergency to prevent deaths (using Addle/Manaward/panic Aetherial Manipulation), or to keep uptime where it otherwise would not be possible, it situationally can still be good to use oGCD abilities even without weaving them. However, it is recommended to later figure out a better way to deal with the situation without relying on clipping oGCD abilities.
+In case of emergency to prevent deaths (using **Addle**, **Manaward**, or panic **Aetherial Manipulation**) or to keep uptime where it otherwise would not be possible, it situationally can still be good to use oGCD abilities even without weaving them. However, it is recommended to later figure out a better way to deal with the situation without relying on clipping oGCD abilities.
 
 ![](/img/jobs/blm/blmweaving.png)
 
-Below are general recommendations for usage of various oGCD abilities for BLM.
+<br />Below are general recommendations for usage of various oGCD abilities for BLM.
 
-## **Ley Lines**
+## **Ley Lines/Between the Lines/Retrace**
 
-Standing within Ley Lines grants the user the buff Circle of Power, reducing the cast time and recast time of all spells. Since Ley Lines affects all GCDs and lasts for 30s, it does not need to be specifically lined up for use in Astral Fire, but instead should generally be used off cooldown at the next available weaving window.
+Standing within **Ley Lines** grants the user the buff Circle of Power, reducing both the cast time and recast time of all spells. Since **Ley Lines** affects all GCDs and lasts for 30s, it does not need to be specifically lined up for use in Astral Fire, but instead should generally be used off cooldown at the next available weaving window. Since the recast time is also reduced for spells used within **Ley Lines**, even instant-cast spells gain value.
 
-Fight-specific mechanics/timings may warrant specific positioning or potentially small delays in order to maximize overall uptime within Ley Lines.
+Fight-specific mechanics/timings may warrant specific positioning or potentially small delays in order to maximize overall uptime within **Ley Lines**. However, there are some options for flexibility for mechanics without having to delay usage:
+
+1. It can be beneficial to stand at one edge of your **Ley Lines** by default. Many AoEs or other targeted mechanics are not large enough to cover them entirely, so by standing on one edge you may be able to dodge to the opposite edge.
+2. If you need to leave your **Ley Lines** for a short time, consider using an instant cast spell within them, moving out to dodge/handle a mechanic, and then use **Between the Lines** to return to them. If you are able to return before your next cast starts, you do not lose any effective uptime.
+
+If you need to move out of your **Ley Lines** for a longer duration, such as a persistent ground AoE lingering where you had initially placed them, you can consider using **Retrace** to reposition them at your new location after moving away, once per **Ley Lines** duration.
 
 ## **Triplecast/Swiftcast**
 
-Using Triplecast and Swiftcast on spells that are longer than base GCD (notably Fire IV, Despair, High Fire II, and Flare) will instead make them instant, saving a small amount of time and eventually resulting in additional casts over the course of a fight. For example, on a Fire IV cast, instead of taking the \~2.8s before starting the following cast, it is instead subject to the base 2.5s GCD, saving \~0.3s. In general, the ideal is to get maximum uses out of Swiftcast, and especially Triplecast, in a fight.
+In general, the ideal is to get maximum uses out of **Swiftcast**, and especially **Triplecast**, in a fight. Note that these abilities are not used up on instant cast spells like **Xenoglossy**, **Paradox**, and **High Thunder**. There are a few options for usage of these abilities:
 
-However, these instant casts are also valuable for weaving other oGCD abilities, as well as continuing casting while moving for mechanics. With the ability to hold up to two charges of Triplecast, it can be very beneficial to hold onto one charge if it may be needed for movement, while still being able to avoid missing uses. Being able to keep casting in situations where it would be impossible otherwise provides much more benefit than the time savings from simply making longer casts instant.
+### Movement/Weaving
 
-## **Sharpcast**
+The instant casts from **Triplecast** and **Swiftcast** are valuable for weaving other oGCD abilities, as well as continuing casting while moving for mechanics. With the ability to hold up to two charges of **Triplecast**, it can be very beneficial to hold onto one charge if it may be needed for movement, while still being able to avoid missing uses. Being able to keep casting in situations where it would be impossible otherwise provides much more benefit than any other option, and should be the primary consideration.
 
-Sharpcast grants a 30s buff. Using Fire (or Paradox in Astral Fire), Thunder, or Scathe will consume this buff and cause the “additional effect” listed on the tooltip to occur, granting a Firestarter proc, Thundercloud proc, or double potency Scathe respectively.
+### Gaining Time
 
-The main recommendation is to use Sharpcast primarily with Thunder. Since the Thunder III DoT lasts 30s, Thundercloud proc lasts 40s, and Sharpcast is on a 30s cooldown, the goal is to refresh the DoT every 30s with a Sharpcasted Thundercloud proc. On average this is the strongest use of Sharpcast.
+Using **Triplecast** and **Swiftcast** on spells that are longer than base GCD (notably **Fire IV**, **Despair**, **Flare Star** and **Flare**) will instead make them instant, saving a small amount of time and eventually resulting in additional casts over the course of a fight. For example, on a **Fire IV** cast, instead of taking the \~2.8s before starting the following cast, it is instead subject to the base 2.5s GCD, saving \~0.3s. Saving time over the course of an encounter will result in additional casts that you would have not gotten otherwise.
 
-Occasionally extra effort will be required in order to use Sharpcast on Thunder III without the Astral Fire Paradox consuming it, notably if the DoT is falling off on the second half of Astral Fire. Pictured below are some examples of utilizing the leeway present in Astral Fire to weave Sharpcast and refresh Thunder III without losing any other casts:
+### Instant Blizzard III
 
-![](/img/jobs/blm/sharpthunder1.png)
+An additional consideration for **Swiftcast** or **Triplecast** is usage along with Transpose to increase the damage of Blizzard III. When casted in Astral Fire III, Blizzard III takes a 30% damage penalty, so using **Transpose** to enter Umbral Ice before using it removes this penalty. The **Triplecast**/**Swiftcast** makes the **Blizzard III** instant so it is not subject to the otherwise slow cast time in Umbral Ice—without this, it is not worthwhile over just casting the spell in Astral Fire. Gaining time from making **Despair** and **Flare Star** instant is often more valuable than instant **Blizzard III**, but it’s a solid option especially if you need movement on that GCD, and can be especially valuable with a late weaved **Triplecast**:
 
-![](/img/jobs/blm/sharpthunder2.png)
+![](/img/jobs/blm/black-mage-triple-despair-fs-b3.png "Triple Despair FS B3")
 
-The second charge of Sharpcast allows for one additional usage over the course of the fight, often spent early on with a Paradox in Astral Fire for a Firestarter proc. Additionally, the average difference between Sharpcast on Paradox vs Thunder III is relatively small so if the Firestarter proc may be situationally beneficial (or if the Thunder III DoT will fall off for multiple GCDs in order to use Sharpcast with it) it may be better to Sharpcast Paradox instead.
+## **Manafont**
+
+In Dawntrail, **Manafont** grants full MP and Umbral Hearts, refreshes your Astral Fire timer, and provides both a Thunderhead buff and a **Paradox** marker. Therefore, outside of the opener it should primarily be weaved at the tail end of an Astral Fire phase when it is available, in order to get full value of a second Astral Fire phase along with a second **Flare Star**.
+
+Due to the specific placement in the rotation, **Manafont** will rarely line up to be used strictly on cooldown, often incurring some (often significant) delay in usage. Since it is not a burst cooldown and does not have notable value in lining it up with raid buffs, this drift by itself is often not a large issue. However, if the collective drift over the course of a fight results in missing out on an entire usage, it may be worthwhile to look into options for shifting alignment to be able to get maximum uses out of **Manafont**. This will be expanded upon in the Additional Optimizations section, later likely moved to a separate advanced guide.
 
 ## **Miscellaneous**
 
-Manafont: for single target, Manafont is weaved after a Despair, for use on an additional Fire IV and Despair. It can be a strong consideration to weave Triplecast near the end of an Astral Fire phase for use alongside Manafont for instant Fire IV + 2x Despair, like so:
+**Amplifier**: used roughly on cooldown, as long as it will not overcap the Polyglot gauge and waste a stack.
 
-![](/img/jobs/blm/manafont.png)
-
-For AoE, Manafont can be used for a third Flare before the High Blizzard II.
-
-**Amplifier**: used roughly on cooldown, as long as it will not overcap the polyglot gauge and waste a stack.
-
-**Aetherial Manipulation**: movement tool used when a party member is in a position to move to, in order to reposition for a mechanic or whatever else may be required. Mostly useful when the distance required to travel is larger than a slidecast or current available movement tools will allow for.
+**Aetherial Manipulation**: movement tool used when a party member is in a position to move to, in order to reposition for a mechanic or whatever else may be required. Mostly useful when the distance required to travel is larger than a slidecast or current available movement tools will allow for. Consider using a macro for focus target as listed in the Appendix.
 
 **Manaward**: solid personal shield which can be used proactively to help with mitigation, or reactively if needed to survive a mechanic.
 
-**Transpose**: used primarily when bosses become untargetable/die while in Astral Fire, in order to swap to Umbral Ice to allow use of Umbral Soul . Can also be used in the case of larger mistakes where Astral Fire will drop otherwise, to swap to Umbral Ice and maintain Enochian. There is also potential for use in small optional optimizations–a simple example is listed in the Basic Optimizations section.
+**Transpose**: used primarily when bosses become untargetable/die while in Astral Fire, in order to swap to Umbral Ice to allow use of Umbral Soul . Can also be used in the case of larger mistakes where Astral Fire will drop otherwise, to swap to Umbral Ice and maintain Enochian. Can also be used for some small optimizations for both single target and for AoE.
 
 **Addle**: used to lower damage dealt by the target, more effective on magic-based damage. Consider planning uses in a static environment, otherwise use when available to help mitigate raidwide damage.
 
-**Surecast**: used to nullify knockback/draw-in effects in order to help keep uptime
+**Surecast**: used to nullify knockback/draw-in effects in order to help keep uptime.
 
-**Lucid Dreaming**: Astral Fire prevents MP refresh effects like Lucid Dreaming, and Umbral Ice III grants enough MP without the aid of Lucid Dreaming to sustain the rotation. Other than some more niche advanced optimizations, Lucid Dreaming will generally not be used.
+**Lucid Dreaming**: Astral Fire prevents MP refresh effects like **Lucid Dreaming**, and using an ice-aspected spell in Umbral Ice III grants full MP. As a result, this ability will generally not be used.
 
-# **Recovery Options**
+# Downtime and Recovery
 
-Inevitably when learning a fight (and the job itself), there will be situations where maintaining the rotation perfectly will not be possible. In these cases, learning how best to maintain Astral Fire, or how to recover in cases where it is dropped completely, is important.
+Inevitably when learning a fight (and the job itself), there will be situations where maintaining the rotation perfectly will not be possible, or otherwise interrupted by downtime. In these cases, learning how best to either maintain Astral Fire or what to do across the downtime is extremely beneficial.
 
-## **Maintaining Astral Fire/Umbral Ice**
+## Maintaining Astral Fire
 
-The most common situation to encounter is running out of time on the Astral Fire timer. In order to try to prevent dropping Astral Fire entirely, there are a few options to consider:
+With the introduction of **Flare Star**, it is even more important than ever to make sure you complete your entire Astral Fire cycle successfully. While some situations can make it much more difficult of a prospect, there are some good habits to keep in mind to set you up for the highest chance of success:
 
-* Pre-emptively using Sharpcast on the Astral Fire Paradox, then using the Firestarter proc to later refresh the Astral Fire timer to make it possible to finish the phase without losing any Fire IV casts or the Despair cast
-* Using Triplecast and/or Swiftcast in order to speed up the Astral Fire phase, making Fire IV casts and potentially the Despair instant. Since instant Despair refreshes Astral Fire sooner than a casted Despair, this will sometimes allow for finishing the phase properly.
-* If other options are not available, using Despair early to prematurely end the phase will generally be stronger than casting Fire to refresh the Astral Fire timer, then finishing off the phase
+1. Frontloading your Astral Fire cycle with four **Fire IV** casts before the **Paradox** by default, five if possible (usually facilitated via **Ley Lines** and/or **Triplecast**/**Swiftcast**) provides you much more leeway to work with particularly in the second half of your Astral Fire cycle.
+2. Particularly in situations where you need to fit in a **Xenoglossy** use or a High Thunder refresh, consider using **Triplecast**/**Swiftcast** wherever best suited to give yourself sufficient leeway on your Astral Fire timer wherever it may be tighter.
+3. As previously mentioned, using your Firestarter procs to re-enter Astral Fire is generally the most optimal usage. However, if you have no other options to complete your Astral Fire cycle without it, using the proc to extend your Astral Fire timer is more valuable if it means finishing your cycle off and getting a **Flare Star** where you would not otherwise.
 
-If all else fails, attempt to salvage things by using Blizzard III prematurely, or as a last ditch effort, use Transpose to switch to Umbral Ice and consider the following sequence to recover before returning back to the standard rotation:
+## Handling Downtime and End of Fight
 
-![](/img/jobs/blm/b1recovery.png)
+Depending on the length and type of downtime, there are a few options to consider for prep before/after downtime.
 
-Using Transpose to swap from Astral Fire III to Umbral Ice will grant the Paradox. Paradox in Umbral Ice will give another Umbral Ice stack, so only Blizzard is required to build up to Umbral Ice III.
+### Before downtime/end of fight:
 
-A small note for Umbral Ice – if there is some potential for dropping Umbral Ice during uptime due to using several filler spells or other delays, keep in mind that the Umbral Ice Paradox can be used to refresh the timer.
+1. Other than some rare situations, DoTs do not tick while enemies are untargetable (and of course will not deal damage after the target is dead). Unless the DoT ticks nearly fully, it is often less worthwhile to apply/refresh **High Thunder** before downtimes/end of fight/during short uptime phases.
+2. Ensure that you will not overcap on polyglot stacks during downtime, and that you use up all of your stacks before the end of a fight. **Xenoglossy** is the strongest BLM spell, so it is important to not miss any uses.
+3. Try to prioritize strong spells before downtime. For example, if you are unable to get both **Despair** and **Flare Star** off right before downtime, the **Flare Star** takes priority.
+4. An instant cast frontloads its damage at the start of the GCD, so it is good practice to plan to end on an instant cast before the downtime/end of fight. This can result in a last tap of damage where a normal cast would not have been able to finish otherwise.
 
-## **Dropped Astral Fire/Umbral Ice**
+### Continuing across/after downtime:
 
-If Astral Fire/Umbral Ice are completely dropped, the best course of action generally depends on the amount of MP available. With 2800 MP or more, consider using Fire III into a shortened Astral Fire phase (Fire IV casts until low MP, then Despair). With less than 2800 MP, the better option will generally be to use Blizzard III and restart with the standard rotation.
+1. For short downtime, try leveraging **Triplecast**/**Swiftcast** to help you finish the rest of your Astral Fire phase when you have uptime again. Otherwise, having a Firestarter proc to use to refresh your timer can have pretty large value in short downtimes.
+2. For moderate length downtimes, you will often be able to use **Umbral Soul** to get back to full MP with three Umbral Hearts. If you are going to end the uptime phase in Astral Fire, consider dumping the rest of your MP with **Despair**, then using **Transpose** to enter Umbral Ice before using **Umbral Soul**.
+3. For especially long downtime, a Thunderhead buff you may initially obtain may not last long enough. In these cases, you can consider using **Transpose** to head back into Astral Fire, then **Transpose** back into Umbral Ice, using **Umbral Soul** to build back up to Umbral Ice III with three Umbral Hearts before you have uptime again. You will generate a fresh Thunderhead buff with each transition, so you can time this to ensure the proc lasts long enough to reapply immediately when possible.
 
-If Swiftcast or Triplecast are available to make the Fire III/Blizzard III instant, they should generally be used here for recovery.
+![](/img/jobs/blm/black-mage-downtime-thunderhead.png "Downtime Thunderhead")
 
-# **Basic Optimizations**
+4. Of note, especially for downtime before AoE in dungeons, you can easily Transpose to Astral Fire after all the mobs are grouped together to apply High Thunder II before continuing on with your Flares/Flare Star.
 
-## **Transpose Usage**
+5. Downtime where you are stunned or are otherwise in a cutscene and unable to use Umbral Soul can be especially problematic, regardless of length. In most cases, try to end up in Umbral Ice for the downtime, via Transpose or otherwise to ensure you do not delay getting at least natural MP refresh from having to wait until your Astral Fire timer expires.
 
-![](/img/jobs/blm/af1f3p.png)
+## Dropped Astral Fire/Umbral Ice
 
-When receiving a Firestarter proc from the Paradox cast in Astral Fire, there is generally a small gain to do the above in order to use the proc in Astral Fire I instead of using Fire III from Umbral Ice III. The empty space designates an additional filler spell (Thundercloud proc or Xenoglossy), which depending on MP tick timing may be necessary to guarantee both MP ticks to get to full since Transpose grants Astral Fire earlier compared to a non-proc Fire III. Weaving Transpose late into the recast timer is recommended as well.
+**Flare Star** creates extra incentive for a full Astral Fire cycle, and the only way to get much MP back is from casting ice-aspected spells in Umbral Ice. Therefore, most of the time if you do end up dropping Astral Fire/Umbral Ice, your best course of action will be to cast **Blizzard III** (ideally using **Swiftcast** to avoid the long cast time), refresh/apply **High Thunder** if needed, then cast **Blizzard IV** and continue on with a normal Astral Fire cycle.
 
-Additionally, since the Firestarter proc applies Astral Fire III at the start of the GCD instead of at the end, the first half of the Astral Fire phase is tighter. Other than having high spell speed and/or using instant casts, this allows for only three Fire IV casts before the Paradox instead of the standard leeway to fit four casts.
+# **Additional Optimizations**
 
-There are further optional optimizations utilizing Transpose which are covered separately in the Advanced guide, for both single target and AoE.
+These sections are more preliminary and will likely be added onto/adjusted with more details/options as time goes on. It is likely some if not all of this will be moved over into an advanced guide.
 
-## **Optimizing for Downtime/End of Fight**
+## Single Target Flare Usage
 
-When approaching downtime or the end of a fight, there are options to consider in order to maximize damage within the time remaining, replacing weaker casts with stronger ones.
+**Flare** has the unique ability to generate three Astral Soul stacks with a single cast, where otherwise only one stack is generated per **Fire IV** cast for the single target rotation. While the spell itself is relatively weak for single target, there is room for some level of viability for it with regards to alignment as well as for end of fight considerations (to generate a **Flare Star** where you wouldn’t be able to otherwise).
 
-Outside of rare exceptions, DoTs do not deal damage during downtime (and of course will not deal damage after the target is dead). Therefore, it can sometimes be a better option to skip refreshing Thunder III before downtime, particularly for a non-Thundercloud refresh, if it will allow for a stronger, more direct damaging spell. For reference, Thundercloud proc needs to result in at least 12 seconds of additional DoT uptime in order to do more damage than a Fire IV.
+## Early/Late High Thunder Refresh
 
-When unable to finish off a full Astral Fire cycle before downtime, prioritizing ending Astral Fire on Despair, even at the cost of a Fire IV, is a gain. Skipping a Blizzard IV in the last Umbral Ice phase for a shorter Astral Fire phase may also be a consideration depending on when the downtime occurs, since the GCD saved from not casting Blizzard IV may result in a stronger GCD in its place (like Fire IV).
+With most of the **High Thunder** damage on the DoT portion and less on the on-hit, it is generally important to try to aim to refresh when the DoT is falling off (less than 3 seconds remaining).
 
-Some other things to consider include:
+Refreshing the DoT after it has fallen off, especially for a longer period of time, more directly loses damage that you would get from the DoT ticks otherwise. Refreshing the DoT slightly prematurely, however, really only starts to lose more damage if it causes you to have to spend an extra GCD refreshing the DoT to have the same uptime, or if you end up missing ticks before downtime/end of fight that you would have gotten with regular refresh timing.
 
-* Use polyglot stacks as needed before downtime to prevent overcapping before the boss is targetable again. For the end of the fight, ideally use all polyglot stacks, as Xenoglossy is the strongest spell.
-* An instant cast frontloads its damage at the start of the GCD, so it is good practice to plan to end on an instant cast before the downtime/end of fight. This can result in a last tap of damage where a normal cast would not have been able to finish otherwise.
-* Since Paradox is a strong spell, sometimes it can be valuable to Transpose after a Despair instead of Blizzard III to get a Paradox off before the downtime.
+On average it will be better to refresh slightly early than let it drop off entirely. However, in either case, it is quite possible to have minimal to no loss from an early/late refresh. In an ideal environment and planned uptime lengths/killtimes/casting timeline, it is viable to quantify loss in alternative refresh timings compared to the gains they may facilitate for things like weaving for AF1 F3P, movement, or whatever else.
 
-## **Preparing Resources during Downtime**
+In a less controlled environment and looking at a more generalized average, it can be worthwhile to refresh even up to around 10 seconds early to facilitate AF1 F3P. This also has the added benefit of not having to refresh in the tighter first half of your Astral Fire phase following the Firestarter proc. To stress again, however, it is important to not overly rely on early **High Thunder** refreshes, and they should instead be more considered as a situational alternative to utilize when needed.
 
-Typically during downtime, the basic plan is to use Umbral Soul during downtime to build back up to Umbral Ice III with three Umbral Hearts (using Transpose beforehand if in Astral Fire). With a longer amount of downtime (~15s or more), Paradox can be obtained by first building up to Umbral Ice III + three Umbral Hearts, Transposing back into Astral Fire, then Transposing into Umbral Ice again, like so:
+## Pre-Manafont Considerations
 
-![](/img/jobs/blm/downtime.png)
+With **Manafont** now granting full resources including a **Paradox**, normally we will end up with a spare Firestarter proc pre-**Manafont** that we need to burn in Astral Fire III before we generate a new one with the second **Paradox**. While the proc used in Astral Fire III is still fairly solid, it’s not as valuable as it would be otherwise since we cannot use it to enable AF1 F3P.
 
-This sequence obtains a Paradox and ends with Umbral Ice II with three Umbral Hearts. Using Paradox when the boss returns will grant Umbral Ice III, otherwise for longer downtime Umbral Soul can be used additional times as needed.
-
-Amplifier can also be used during downtime if it is available, as long as it will not cause the Polyglot gauge to overcap before the boss reappears. Sharpcast can also preemptively be used during downtime if needed–since the buff lasts for 30 seconds, it does not need to be used specifically during uptime as long as it is still active when casting the Thunder III (or Astral Fire Paradox) when the boss is targetable once more.
+This can lead way towards justifying an alternative setup pre-**Manafont** that does not generate this Firestarter proc since it is otherwise “wasted” in Astral Fire III, and can also potentially help adjust alignment for an earlier **Manafont** usage.
 
 # **Appendix**
 
 ## **Macros**
 
-Since Sprint cannot be properly queued like regular oGCD actions, using a macro to spam the action can help with reliability, with no downside:
+Since **Sprint** cannot be properly queued like regular oGCD actions, using a macro to spam the action can help with reliability, with no downside:
 
 ```
 /merror off
@@ -306,7 +313,7 @@ Since Sprint cannot be properly queued like regular oGCD actions, using a macro 
 
 ![](/img/jobs/blm/sprintmacro.png)
 
-Manually targeting to use Aetherial Manipulation can often result in minor delay due to needing to change targets multiple times. Therefore, a common alternative is to use a mouseover macro for the ability:
+Manually targeting to use **Aetherial Manipulation** can often result in minor delay due to needing to change targets multiple times. Therefore, a common alternative is to use a mouseover macro for the ability:
 
 ```
 /merror off
@@ -325,17 +332,21 @@ Manually targeting to use Aetherial Manipulation can often result in minor delay
 /micon "Aetherial Manipulation"
 ```
 
+
+
 ![](/img/jobs/blm/AMmacro.png)
 
-Hovering over the character model of a party member, or even their name in the party list, and then pressing the macro will use Aetherial Manipulation on them without changing target. If the flexibility for regular targeting is desired, the bottom <mo> or two can be replaced with <t>. There is also the option to replace the <mo> with the number of the slot of a specified party member (i.e. <3>) that may be consistently in a good spot to use Aetherial Manipulation to (though in this case it is recommended to have a regular version of Aetherial Manipulation available for more manual targeting in case another target is situationally preferred).
+Hovering over the character model of a party member, or even their name in the party list, and then pressing the macro will use **Aetherial Manipulation** on them without changing target. If the flexibility for regular targeting is desired, the bottom <mo> or two can be replaced with <t>. There is also the option to replace the <mo> with the number of the slot of a specified party member (i.e. <3>) that may be consistently in a good spot to use **Aetherial Manipulation** to (though in this case it is recommended to have a regular version of **Aetherial Manipulation** available for more manual targeting in case another target is situationally preferred).
 
 ## **Common Abbreviations**
 
 For this document, full names of spells, buffs, and abilities were used for clarity. However, these are frequently abbreviated in regular discussion. Below are the most common abbreviations for these:
 
-* F1, F2, F3, F4: Fire spells, the number designates the rank (i.e. F1 = Fire, F2 = Fire II, etc)
-* B1, B2, B3, B4: Blizzard spells, the number designates the rank (i.e. B1 = Blizzard, B2 = Blizzard II, etc)
-* T1, T2, T3, T4: Thunder spells, the number designates the rank (i.e. T1 = Thunder, T2 = Thunder II, etc)
+* F1, F2, F3, F4: Fire spells, the number designates the rank (i.e. F1 = Fire, F2 = Fire II, etc.)
+* B1, B2, B3, B4: Blizzard spells, the number designates the rank (i.e. B1 = Blizzard, B2 = Blizzard II, etc.)
+* T1, T2, T3, T4: Thunder spells, the number designates the rank (i.e. T1 = Thunder, T2 = Thunder II, etc.)
+* HT, HT2: High Thunder and High Thunder II, respectively
+* FS: Flare Star
 * HF2/HB2: High Fire II, High Blizzard II
 * AF1, AF2, AF3: Astral Fire, Astral Fire II, and Astral Fire III respectively
 * UI1, UI2, UI3: Umbral Ice, Umbral Ice II, Umbral Ice III respectively
@@ -345,18 +356,17 @@ For this document, full names of spells, buffs, and abilities were used for clar
 * Amp: Amplifier
 * LL: Ley Lines
 * Triple: Triplecast
-* Sharp: Sharpcast
 * Swift: Swiftcast
 * AM: Aetherial Manipulation
 * BtL: Between the Lines
 * Poly: Polyglot
 * MF: Manafont
 * Lucid: Lucid Dreaming
-* SpS/sps: Spellspeed
-* Pot: Main stat (Intelligence) potion, current strongest option is HQ Grade 8 Tincture of Intelligence
+* SpS/sps: Spell Speed
+* Pot: Main stat (Intelligence) potion, current strongest option is HQ Grade 1 Gemdraught of Intelligence
 
 ## **Acknowledgements**
 
-Big thanks to my fellow mentors Fürst Blumier and Tsutsumi Tsumi for their work and support. Thanks to Reina Kousaka as well for his work on the Advanced guide and various recommendations for this one (and his patience while I finish the main guide).
+Big thanks to my fellow mentors Fürst Blumier and Reina Leigh for their work and support, as well as all of the BLM Helpfuls.
 
 And also to all the various BLM players on the Balance–whether you’re one of the bigger names who help teach others or otherwise just hang out, one of the newer players asking questions to help learn and improve, or anyone in between, know that you’re very much appreciated <3
