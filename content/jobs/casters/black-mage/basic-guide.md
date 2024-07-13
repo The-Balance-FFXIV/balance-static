@@ -30,11 +30,11 @@ Black Mage is a caster specializing in high, steady personal damage in place of 
 
 ![](/img/jobs/blm/af-effects.png "Astral Fire Effects")
 
-**<br />Umbral Ice** decreases the damage of fire-aspected spells, and casting ice-aspected spells replenish MP depending on current number of stacks. While in Umbral Ice, ice-aspected spells have no MP cost, and at three stacks of Umbral Ice fire-aspected spell cast times are reduced by half.
+**<br>Umbral Ice** decreases the damage of fire-aspected spells, and casting ice-aspected spells replenish MP depending on current number of stacks. While in Umbral Ice, ice-aspected spells have no MP cost, and at three stacks of Umbral Ice fire-aspected spell cast times are reduced by half.
 
 ![](/img/jobs/blm/ui-effects.png "Umbral Ice Effects")
 
-**<br />Unaspected Spells** like **Foul**, **Xenoglossy**, **Paradox**, and **Scathe** do not count as fire-aspected or ice-aspected and so do not gain any damage bonus/penalty from either Astral Fire or Umbral Ice.
+**<br>Unaspected Spells** like **Foul**, **Xenoglossy**, **Paradox**, and **Scathe** do not count as fire-aspected or ice-aspected and so do not gain any damage bonus/penalty from either Astral Fire or Umbral Ice.
 
 **Enochian** provides a personal passive bonus to all damage dealt, and is active while in either Astral Fire or Umbral Ice. It also remains active while swapping between Astral Fire and Umbral ice (even via **Transpose**), and is only lost upon completely dropping Astral Fire or Umbral Ice.
 
@@ -58,7 +58,7 @@ Black Mage is a caster specializing in high, steady personal damage in place of 
 
 ![](/img/jobs/blm/standard-gauge-labels.png "Standard Gauge")
 
-<br />
+<br>
 
 ![](/img/jobs/blm/simple-gauge-labels.png "Simple Gauge")
 
@@ -76,7 +76,7 @@ In either stance, keeping the **High Thunder** DoT up is important, as well as u
 
 ![](/img/jobs/blm/black-mage-tentative-blm-opener.png)
 
-<br />The standard opener for BLM. Note that this opener is tentative, and is likely to change at least slightly depending on exact application timing for raid buffs. This opener has a rough bare minimum GCD (recast) of 2.45s, though most people will likely want some more Spell Speed than this for consistency in execution. If running a slower set and/or otherwise having issues with Astral Fire timing out, consider double weaving **Ley Lines** with the INT pot usage in the opener.
+<br>The standard opener for BLM. Note that this opener is tentative, and is likely to change at least slightly depending on exact application timing for raid buffs. This opener has a rough bare minimum GCD (recast) of 2.45s, though most people will likely want some more Spell Speed than this for consistency in execution. If running a slower set and/or otherwise having issues with Astral Fire timing out, consider double weaving **Ley Lines** with the INT pot usage in the opener.
 
 The initial **Fire III** cast should start around 4 seconds prepull (to land at the same time the boss is pulled). The second **Fire IV** is hardcasted with the expectation of raid buffs landing just before the cast goes off.
 
@@ -92,7 +92,7 @@ Using Flare for the extra Astral Soul stacks to enable an additional **Flare Sta
 
 ![](/img/jobs/blm/black-mage-single-target-rotation.png "Single Target Rotation")
 
-<br />The standard format for the single target rotation loop is as above, following directly after the second **Despair** in the opener. Both **Xenoglossy** and **High Thunder** have no set place in the rotation, and instead are used as needed. The guaranteed Firestarter proc from **Paradox** has some flexibility in use as well. All of these will be further explained in later sections.
+<br>The standard format for the single target rotation loop is as above, following directly after the second **Despair** in the opener. Both **Xenoglossy** and **High Thunder** have no set place in the rotation, and instead are used as needed. The guaranteed Firestarter proc from **Paradox** has some flexibility in use as well. All of these will be further explained in later sections.
 
 With **Paradox** now being instant-cast in Dawntrail, it is recommended to default to having four **Fire IV** casts before **Paradox**. This provides similar leeway to Endwalker, allowing one extra cast on either half of the Astral Fire cycle. This can be used to shift **Fire IV** casts around and/or use **Xenoglossy**/**High Thunder** as needed anywhere in the cycle.
 
@@ -125,7 +125,7 @@ Using your Firestarter proc in Astral Fire III, typically referred to as “AF3 
 
 ![](/img/jobs/blm/black-mage-firestarter_-astral-fire-iii.png "Firestarter: Astral Fire III")
 
-<br />This is just an example though–as needed, you can easily shift around any of the **Fire IV**/**Paradox** casts then use the Firestarter proc when your Astral Fire timer is getting low. Situationally, if you will not be able to complete all of your six **Fire IV** casts before Astral Fire drops, it will generally be the largest priority to use your Firestarter proc to refresh your timer. Guaranteeing the **Flare Star** is often going to be more important than other potential usage for the Firestarter proc.
+<br>This is just an example though–as needed, you can easily shift around any of the **Fire IV**/**Paradox** casts then use the Firestarter proc when your Astral Fire timer is getting low. Situationally, if you will not be able to complete all of your six **Fire IV** casts before Astral Fire drops, it will generally be the largest priority to use your Firestarter proc to refresh your timer. Guaranteeing the **Flare Star** is often going to be more important than other potential usage for the Firestarter proc.
 
 ### Astral Fire I
 
@@ -133,7 +133,7 @@ Whenever possible, it is generally recommended to carry your Firestarter proc th
 
 ![](/img/jobs/blm/black-mage-firestarter_-astral-fire-i.png "Firestarter: Astral Fire I")
 
-</br >While using the Firestarter proc in Astral Fire III is still a reasonably strong spell, using the proc this way replaces a relatively weak **Fire III** casted in Umbral Ice III with one used in Astral Fire I and as a result provides more of a gain.\
+<br>While using the Firestarter proc in Astral Fire III is still a reasonably strong spell, using the proc this way replaces a relatively weak **Fire III** casted in Umbral Ice III with one used in Astral Fire I and as a result provides more of a gain.\
 \
 This is not without drawbacks though—in order to weave the **Transpose**, it is required to use a “filler spell” (High Thunder or **Xenoglossy**), or less ideally have your **Blizzard IV** be instant-cast via **Swiftcast**/**Triplecast**. Furthermore, it is important to note that the Firestarter proc applies Astral Fire III sooner than a regular cast of **Fire III** would apply it, which will result in a slightly stricter Astral Fire timer to work with.
 
@@ -143,7 +143,7 @@ This is not without drawbacks though—in order to weave the **Transpose**, it i
 
 ![](/img/jobs/blm/black-mage-aoe-rotation.png "AoE Rotation")
 
-<br />The AoE rotation has a fairly straightforward flow—**High Blizzard II** to enter Umbral Ice III and **Freeze** for 3 Umbral Hearts as well as refilling MP, then **High Fire II** to enter Astral Fire III. Due to the lowered potency compared to Endwalker, it is no longer worthwhile to use **High Fire II** any additional times, and instead use **Flare** twice followed by **Flare Star**.
+<br>The AoE rotation has a fairly straightforward flow—**High Blizzard II** to enter Umbral Ice III and **Freeze** for 3 Umbral Hearts as well as refilling MP, then **High Fire II** to enter Astral Fire III. Due to the lowered potency compared to Endwalker, it is no longer worthwhile to use **High Fire II** any additional times, and instead use **Flare** twice followed by **Flare Star**.
 
 **Foul** can be used for movement, weaving oGCDs, or just generally as a strong AoE spell. **High Thunder II** should generally be refreshed when the DoT timer is low on the targets (less than 3s remaining), unless the mobs are going to die soon.
 
@@ -155,7 +155,7 @@ With the nerf to **High Blizzard II** and **High Fire II**, it is usually benefi
 
 ![](/img/jobs/blm/black-mage-aoe-with-transpose.png "AoE with Transpose")
 
-<br />Even at the cost of having only the Astral Fire I bonus on the first **Flare**, it is more worthwhile to skip the **High Fire II** cast. The **Freeze** cast in Umbral Ice I grants enough MP to use both **Flare** casts in the following Astral Fire. The filler spells (**Foul**/**High Thunder II**) are used to weave **Transpose**, though if the **Flare Star** at the end of an Astral Fire cycle is instant via **Swiftcast**/**Triplecast**, the filler after it is unnecessary. Prioritize using **High Thunder II** for filler only when the DoT timer is lower to get the most value out of the DoT.
+<br>Even at the cost of having only the Astral Fire I bonus on the first **Flare**, it is more worthwhile to skip the **High Fire II** cast. The **Freeze** cast in Umbral Ice I grants enough MP to use both **Flare** casts in the following Astral Fire. The filler spells (**Foul**/**High Thunder II**) are used to weave **Transpose**, though if the **Flare Star** at the end of an Astral Fire cycle is instant via **Swiftcast**/**Triplecast**, the filler after it is unnecessary. Prioritize using **High Thunder II** for filler only when the DoT timer is lower to get the most value out of the DoT.
 
 In a situation where you are running out of filler spells, prioritize using **Transpose** to skip **High Blizzard II** over **High Fire II**, as the latter still provides a damage bonus to the first **Flare**. Clipping **Transpose** can still be a gain over using **High Blizzard II**/**High Fire II**, though note that due to the cooldown of **Transpose** it is not possible to clip twice without waiting or otherwise using a filler spell anyways in Umbral Ice.
 
@@ -171,7 +171,7 @@ In case of emergency to prevent deaths (using **Addle**, **Manaward**, or panic 
 
 ![](/img/jobs/blm/blmweaving.png)
 
-<br />Below are general recommendations for usage of various oGCD abilities for BLM.
+<br>Below are general recommendations for usage of various oGCD abilities for BLM.
 
 ## **Ley Lines/Between the Lines/Retrace**
 
@@ -256,7 +256,6 @@ Depending on the length and type of downtime, there are a few options to conside
 ![](/img/jobs/blm/black-mage-downtime-thunderhead.png "Downtime Thunderhead")
 
 4. Of note, especially for downtime before AoE in dungeons, you can easily Transpose to Astral Fire after all the mobs are grouped together to apply High Thunder II before continuing on with your Flares/Flare Star.
-
 5. Downtime where you are stunned or are otherwise in a cutscene and unable to use Umbral Soul can be especially problematic, regardless of length. In most cases, try to end up in Umbral Ice for the downtime, via Transpose or otherwise to ensure you do not delay getting at least natural MP refresh from having to wait until your Astral Fire timer expires.
 
 ## Dropped Astral Fire/Umbral Ice
@@ -331,8 +330,6 @@ Manually targeting to use **Aetherial Manipulation** can often result in minor d
 /ac "Aetherial Manipulation" <mo>
 /micon "Aetherial Manipulation"
 ```
-
-
 
 ![](/img/jobs/blm/AMmacro.png)
 
