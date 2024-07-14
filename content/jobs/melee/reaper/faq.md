@@ -2,7 +2,7 @@
 title: Reaper FAQ
 layout: qna
 patch: "7.0"
-lastmod: 2024-07-12T22:32:53.415Z
+lastmod: 2024-07-14T01:00:57.759Z
 changelog:
   - date: 2021-12-04T04:55:35.452Z
     message: Page created
@@ -21,7 +21,7 @@ qna:
     answer: Plentiful Harvest cannot be used for 6.7s after using Arcane Circle. You
       must early weave it or it will cause a clip if used where it is in the
       openers. The only way to avoid clipping if you do not early weave Arcane
-      Cirlce is for Plentiful Harvest, and therefore your burst, to be delayed
+      Circle is for Plentiful Harvest, and therefore your burst, to be delayed
       one additional GCD. Both clipping and delaying are worse than early
       weaving Arcane Circle. It will still clip at GCD speeds of 2.47 and
       faster. If you're entirely sure that youre pressing Arcane Cirlce as soon
@@ -75,7 +75,7 @@ qna:
       Void/Cross Reaping.
   - question: Why do we weave Arcane Circle after a Shadow of Death and not after a
       Void/Cross Reaping in the Death Design Retain Double Enshroud?
-    answer: Bloodown Circle forces a 6.7s delay between when we use Arcane Circle
+    answer: Bloodsown Circle forces a 6.7s delay between when we use Arcane Circle
       and Plentiful Harvest. Because Void/Cross Reaping has a shorter recast
       than Shadow of Death, there is less time between Arcane Circle and
       Plentiful Harvest. This ~1 second difference is enough to cause a clip
