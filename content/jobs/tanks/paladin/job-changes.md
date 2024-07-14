@@ -1,7 +1,7 @@
 ---
 title: Paladin Changes
 layout: changes
-lastmod: 2023-11-06T06:07:07.502Z
+lastmod: 2024-07-10T05:19:01.651Z
 changes:
   - patch: "6.0"
     description: "[Click here to view the full list of changes on the Official
@@ -31,6 +31,10 @@ changes:
   - patch: "6.51"
     description: Circle of Scorn, Requescat, and all 4 hits of the Blade of Valor
       combo are buffed by 20 potency. No gameplay changes.
+  - patch: "7.0"
+    description: "Atonement now has two follow-up actions: Supplication and
+      Sepulchre. Sentinel, Rampart, and Reprisal upgraded. Imperator upgraded
+      and Blade of Honor, Blade of Valor follow-up, added."
 authors:
   - Balance-PLD-Staff
   - nikroulah
