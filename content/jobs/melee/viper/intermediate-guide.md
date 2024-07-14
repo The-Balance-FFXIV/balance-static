@@ -4,7 +4,7 @@ authors:
   - ToraelValdis
   - Balance-VPR-Staff
 patch: "7.0"
-lastmod: 2024-06-20T05:44:05.272Z
+lastmod: 2024-07-14T01:24:19.624Z
 changelog:
   - date: 2024-06-20T05:44:33.192Z
     message: Guide added to website
@@ -73,7 +73,7 @@ Melee downtime occurs when mechanics force the player out of melee range for a p
 
 ### 2.2.1 Disconnect Planning
 
-Viper generates four Rattling Coils every two minutes. Three are generated from twinblade combo starts, and one from Serpent’s Ire. Given that Uncoiled Fury and its follow up oGCDs can be used from range, this makes Rattling Coils a powerful disconnect tool. Uncoiled Fury also has a longer GCD recast of 3.5s base (2.97s with 15% haste buff active) which makes it ideal for disconnects as the player has more time to be away from the target without the GCD clock stopping. With some planning, Rattling Coils can also be held and pooled for longer disconnect segments. If there is a mechanic that forces 6 seconds of melee downtime, VPR can hold two Uncoiled Furies and completely cover that mechanic. However, being out of melee range does mean losing auto attacks, so the player should still try to get back into melee range as soon as possible. 
+Viper generates four Rattling Coils every two minutes. Three are generated from twinblade combo starts, and one from Serpent’s Ire. Given that Uncoiled Fury and its follow up oGCDs can be used from range, this makes Rattling Coils a powerful disconnect tool. Uncoiled Fury also has a longer GCD recast of 3.5s base (2.97s with 15% haste buff active) which makes it ideal for disconnects as the player has more time to be away from the target without the GCD clock stopping. With some planning, Rattling Coils can also be held and pooled for longer disconnect segments. If there is a mechanic that forces six seconds of melee downtime, VPR can hold two Uncoiled Furies and completely cover that mechanic. However, being out of melee range does mean losing auto attacks, so the player should still try to get back into melee range as soon as possible. 
 
 Due to the extreme flexibility of when Rattling Coils are used, Vipers should almost never need to use Writhing Snap. Planning to use Rattling Coils instead will result in a direct potency gain. To directly compare Rattling Coil and Writhing Snap, we need to first convert both into potency per second, since they have different GCD times. Uncoiled Fury and its two follow up oGCDs are 900 potency in 2.97s, where Writhing Snap is 200 potency in 2.12 seconds. This translates to a potency per second (PPS) of 303.03PPS for Rattling Coil and 94.34PPS for Writhing Snap. This is a drastic difference, and Writhing Snap should be avoided when possible. However, if no Rattling Coils are available for whatever reason, it is still better to Writhing Snap than to do nothing! 
 
@@ -118,13 +118,13 @@ For simplicity, Medicated will be referred to as “pot” or “pot buff.” Po
 
 Using these rules can plan our pot uses for a full uptime fight based on the following:
 
-* A fight lasting less than 8 minutes, but more than 6:30 will use a pot in the opener and a pot at 6 minutes.
-* A fight lasting less than 9 mins but more than 8:30 will use a pot at 2 minutes and 8 minutes.
+* A fight lasting less than 8:00 minutes, but more than 6:30 will use a pot in the opener and a pot at 6:00 minutes.
+* A fight lasting less than 9:00 mins but more than 8:30 will use a pot at 2:00 minutes and 8:00 minutes.
 * A fight lasting more than 9:30 but less than 10:00 will get 3 uses of pot if used exactly on cooldown at the opener, 4:30, and 9:00.
 * A fight lasting more than 10:30 but less than 12:00 can use a pot in the opener, a pot at 5:00, and a final pot at 10:00.
 * A fight lasting more than 12:00 can use a pot at the opener, 6:00, and 12:00. 
 
-Historically, there has never been a fight without downtime that is longer than about 12 minutes, so planning past that point is not necessary. This is a general overview, and does not take into account fight specific optimizations where the group shifts their party buffs instead of using them on cooldown. Additionally, exactly what should be put into pots that are not part of two minute windows will be something that will depend on the specific fight. *Fight specific optimizations take precedence but need to be properly planned out to avoid losses.*
+Historically, there has never been a fight without downtime that is longer than about 12:00 minutes, so planning past that point is not necessary. This is a general overview, and does not take into account fight specific optimizations where the group shifts their party buffs instead of using them on cooldown. Additionally, exactly what should be put into pots that are not part of two minute windows will be something that will depend on the specific fight. *Fight specific optimizations take precedence but need to be properly planned out to avoid losses.*
 
 **At the moment, we believe that the optimal place to pot when entering two minute windows is the GCD before Serpent’s Ire will be used.**
 
