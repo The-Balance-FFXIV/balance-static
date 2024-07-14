@@ -72,6 +72,7 @@ The overall rotation involves a relatively static loop consisting of several sho
 ![](/img/jobs/smn/5.png)
 
 # Opener and Bahamut Phase
+
 With the release of the Dawntrail expansion and subsequent changes to raid buffs as a whole, the Garuda first opener is no longer a gain. Because of this, Summoner now has a general Titan first opener that can be used in any party composition.
 
 ![](/img/jobs/smn/summoner-dawntrail-general-opener.png)
@@ -216,7 +217,7 @@ Summoners should always be ready to help revive party members in progression. Wh
 
 Even if MP wasn't an issue, there are scenarios where it may be inconvenient for the healer to revive party members even if they had Swiftcast ready, such as during mechanics with a heavy healing requirement. Swiftcast is also not "necessary" in Summoner's base DPS rotation, meaning it can be held for reviving party members even outside of progression, like in reclears or boss kill attempts.
 
-While it may not feel good to do so, do not be afraid to hardcast Resurrection if needed to save a run  especially during progression when DPS doesn't yet matter. Seeing more mechanics so you can practice them is often more important than doing damage.
+While it may not feel good to do so, do not be afraid to hardcast Resurrection if needed to save a run especially during progression when DPS doesn't yet matter. Seeing more mechanics so you can practice them is often more important than doing damage.
 
 ### Reviving Party Members in Farm or Kill Attempts
 
@@ -311,6 +312,7 @@ For some, the visual presence of summons can be distracting due to their size. Y
 `/petsize [summon] [size]`
 
 Replace \[summon] with:
+
 * Solar Bahamut
 * Demi-Bahamut
 * Demi-Phoenix
