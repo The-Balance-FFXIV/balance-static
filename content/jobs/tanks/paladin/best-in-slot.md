@@ -1,8 +1,8 @@
 ---
 title: Paladin Best in Slot (BiS)
 layout: bis
-patch: "6.55"
-lastmod: 2024-01-18T07:27:49.335Z
+patch: "7.0"
+lastmod: 2024-07-10T05:09:32.573Z
 changelog:
   - date: 2021-10-28T03:10:04.413Z
     message: Created page
@@ -18,15 +18,25 @@ changelog:
     message: Updated for 6.4
   - date: 2024-01-18T07:28:41.441Z
     message: Updated for 6.55
+  - date: 2024-07-10T05:09:35.325Z
+    message: Updated for 7.0 (pre-savage)
 bis:
-  - type: gsheets
+  - type: genericlink
     description: Useful to put in your own gear options.
-    name: Gear Sheet
-    link: https://docs.google.com/spreadsheets/d/e/2PACX-1vQx37TZPpgIZ6Ld9S9V-rQ6hcTmuz8tuzzxg6D2w10loW8EXGTQrMKhj0vdany9UA9O7A1cLdQ8YutE/pubhtml
+    name: Gear Planner
+    link: https://xivgear.app/
   - type: etro
-    description: Best-in-Slot gear for Anabaseios (Savage)
-    link: https://etro.gg/gearset/689a306f-c571-4c6d-8a5b-04759ff50cde
-    name: 2.50 Baked Eggplant
+    description: Almost identical in performance to the crit-heavy set, but falls
+      slightly behind when crit raid buffs (Battle Litany, Chain Stratagem) are
+      present.
+    link: a6b5492c-3745-4f08-b940-4f4e6be20918
+    name: 2.47 Vegetable Soup — DH heavy
+  - type: etro
+    description: Almost identical in performance to the dh-heavy set, but pulls
+      slightly ahead when crit raid buffs (Battle Litany, Chain Stratagem) are
+      present.
+    name: 2.47 Fruit and Aloe Jelly — Crit heavy
+    link: 0170346f-a9d6-4154-86ba-596ccfd7cff6
   - type: etro
     description: >-
       Note: 665 relic can be used in place of 645 relic (no stat change due to
@@ -34,7 +44,7 @@ bis:
 
 
       If you do not have the Ultimate sword, use the 645 or 665 relic sword (with Crit + Det > Ten) and replace dungeon ring with 660 tome ring.
-    link: https://etro.gg/gearset/ed6dd991-8e70-472a-a729-3182f4b14554
+    link: ed6dd991-8e70-472a-a729-3182f4b14554
     name: 2.50 Omega Weapon (Oltimate)
   - type: etro
     description: >-
@@ -43,8 +53,19 @@ bis:
 
 
       If you do not have the Ultimate sword, use the 645 or 665 relic sword (with Crit + Det > Ten).
-    link: https://etro.gg/gearset/8672b1bd-18db-4b80-8834-018be0a88952
+    link: 8672b1bd-18db-4b80-8834-018be0a88952
     name: 2.50 Dragonsong's Reprise (Ultimate)
+  - type: etro
+    name: 2.5 The Epic of Alexander (Ultimate)
+    link: aed822b2-1ac0-4105-b68c-d06878121552
+    description: >-
+      This gearset is a whopping ... 10 dps (less than 0.5%) better than just
+      using crit+det gear at i595 or higher — If you do not have the specific
+      gear pieces already, it is highly recommended to not bother with them at
+      all (the relic weapon itself is worth around 25 dps, but still not
+      recommended if you have to grind it from scratch)
+
+      Note: For the above set, you can use Aug. Deepshadow Necklace instead of Edengrace Earring if desired.
 authors:
   - Balance-PLD-Staff
   - nikroulah
