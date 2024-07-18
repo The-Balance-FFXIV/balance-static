@@ -2,7 +2,7 @@
 title: Warrior Best in Slot (BiS)
 layout: bis
 patch: "7.01"
-lastmod: 2024-07-18T11:44:35.914Z
+lastmod: 2024-07-18T11:55:49.540Z
 changelog:
   - date: 2021-10-27T07:22:13.566Z
     message: Lists added
@@ -23,16 +23,16 @@ changelog:
     message: Dawntrail and Normal Raids
 bis:
   - type: xivgearset
-    description: ""
-    name: "Patch 7.0 On-release: pre-raids, 2.45 GCD"
-    link: https://xivgear.app/?page=sl%7C29d2cd49-03f9-47d0-9ae6-2dd0978c33c2
+    name: "Patch 7.01 Normal Raids: Multiple Sets"
+    link: https://xivgear.app/?page=sl%7C113e3c76-4915-4021-9556-6a58b0769c50
+    description: Click the sets to see all the items and melds!
   - type: xivgearset
     name: "Patch 7.0 On-release: pre-raids, 2.46"
     link: https://xivgear.app/?page=sl%7Ccf722b3d-adce-4b66-8e45-a50e9e31e0d3
   - type: xivgearset
-    name: "Patch 7.01 Normal Raids: Multiple Sets"
-    link: https://xivgear.app/?page=sl%7C113e3c76-4915-4021-9556-6a58b0769c50
-    description: Click the sets to see all the items and melds!
+    description: ""
+    name: "Patch 7.0 On-release: pre-raids, 2.45 GCD"
+    link: https://xivgear.app/?page=sl%7C29d2cd49-03f9-47d0-9ae6-2dd0978c33c2
   - type: sleepyshiba
     description: |-
       Archive of old BIS sets.
