@@ -17,6 +17,7 @@ priority: Critical Hit > Comfy Skill Speed > Direct Hit >= Determination > Tenac
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
+description: "Final Fantasy XIV: Dawntrail Warrior stat meld priority"
 ---
 Universal Stat Priorities are:  
 * Weapon Damage >>> Main Stat >>>> Substats.  
