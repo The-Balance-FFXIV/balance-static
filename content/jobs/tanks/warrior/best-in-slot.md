@@ -19,6 +19,8 @@ changelog:
       where such GCD speed is useful.
   - date: 2024-01-17T20:00:00.368Z
     message: Added Relic BIS sets
+  - date: 2024-07-18T11:44:42.774Z
+    message: Dawntrail and Normal Raids
 bis:
   - type: xivgearset
     description: ""
