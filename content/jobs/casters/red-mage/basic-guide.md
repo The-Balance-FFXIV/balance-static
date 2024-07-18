@@ -219,9 +219,9 @@ Whether that makes any difference at all depends on expected killtimes, expected
 
 ![](https://i.imgur.com/LGRfOzV.jpeg)
 
-https://i.imgur.com/LGRfOzV.jpeg
+<https://i.imgur.com/LGRfOzV.jpeg>
 
-Our rotation is as follows:
+[](https://i.imgur.com/LGRfOzV.jpeg)Our rotation is as follows:
 
 * Dualcast spells to build mana. Prioritize Verfire/stone procs over Jolt III if they're up. 
 * Melee combo at 50|50+ mana. Use Verflare if white mana is lower than black mana, or vice versa for Verholy if 0 or 2 procs are up. If only 1 proc is up, use the other finisher provided it doesn’t imbalance your mana.
