@@ -20,34 +20,21 @@ changelog:
   - date: 2024-01-17T20:00:00.368Z
     message: Added Relic BIS sets
 bis:
-  - type: etro
+  - type: xivgearset
     description: ""
-    name: Relic - 2.50 GCD - Baked Eggplant
-    link: https://etro.gg/gearset/6c8f063a-cf04-4e9b-b1dd-fb54c3d6cd66
-  - type: etro
-    description: ""
-    name: Non-Relic - 2.50 GCD - Baked Eggplant
-    link: https://etro.gg/gearset/1103c082-1c80-4bf3-bb56-83734971d5ea
-  - type: etro
-    description: ""
-    name: Relic - 2.45 GCD - Baba Ghanoush
-    link: https://etro.gg/gearset/9b1f8efc-6ecd-4775-b752-53b5bf3e0946
-  - type: etro
-    description: ""
-    link: https://etro.gg/gearset/ccabf244-3ea0-4a33-a817-da4cebe6efc6
-    name: Non-Relic - 2.45 GCD - Baba Ghanoush
-  - type: etro
-    description: ""
-    name: Relic - 2.40 GCD - Baba Ghanoush
-    link: https://etro.gg/gearset/dc1f6937-d095-4e02-89b5-f8617456656e
-  - type: etro
-    description: ""
-    name: Non-Relic - 2.40 GCD - Baba Ghanoush
-    link: https://etro.gg/gearset/9343cf54-e21f-4343-ba9d-c4030eb25dd0
+    name: "Patch 7.0 On-release: pre-raids, 2.45 GCD"
+    link: https://xivgear.app/?page=sl%7C29d2cd49-03f9-47d0-9ae6-2dd0978c33c2
+  - type: xivgearset
+    name: "Patch 7.0 On-release: pre-raids, 2.46"
+    link: https://xivgear.app/?page=sl%7Ccf722b3d-adce-4b66-8e45-a50e9e31e0d3
+  - type: xivgearset
+    name: "Patch 7.01 Normal Raids: Multiple Sets"
+    link: https://xivgear.app/?page=sl%7C113e3c76-4915-4021-9556-6a58b0769c50
+    description: Click the sets to see all the items and melds!
   - type: sleepyshiba
     description: |-
       Archive of old BIS sets.
-      https://pastebin.com/cDMuDYhF
+      https://pastebin.com/EJbcGFXq
     name: Archive of Old BIS
     link: https://pastebin.com/pDWaPnAh
   - type: gsheets
