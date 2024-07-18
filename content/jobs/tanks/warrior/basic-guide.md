@@ -4,8 +4,8 @@ card_header_image: /img/jobs/war/basic.png
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
-patch: "6.55"
-lastmod: 2024-01-17T20:06:50.441Z
+patch: "7.01"
+lastmod: 2024-07-18T12:28:49.258Z
 changelog:
   - date: 2022-02-26T14:53:27.569Z
     message: Uploaded the new GDoc guide for EW WAR
@@ -17,6 +17,8 @@ changelog:
     message: Updated for 6.3
   - date: 2023-05-28T14:24:37.838Z
     message: Updated the AoE vs ST damage table
+  - date: 2024-07-18T12:28:53.078Z
+    message: Initial changes for 7.01 WAR
 ---
 # Final Fantasy 14: Endwalker guide for Warrior
 
@@ -34,7 +36,7 @@ This intro is focused on Lvl90 Endwalker Warrior. Please get to level 90 soon.
 
 The order of skills is pretty straight forward. Here is an image to visualize it all:
 
-[Long image is looooong](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/skills_by_level.png?raw=true) 
+[Long image is looooong](https://github.com/Moxfi/XIV/blob/main/Dawntrail/WAR/Skill_Trait_Order_Tree.png?raw=true) 
 
 Traits on the left, damaging skills in the middle-ish, and cooldowns/buffs on the right.
 
@@ -73,6 +75,9 @@ For ease of reading, the following list entries have their abbreviations first, 
 
 * Rend, Primal Rend (Lvl 90) 
 * Has an animation lock, cannot be double-weaved with 
+* Ruin, Primal Ruination (Lvl 100)
+* Follow-up on Rend, can be used within 20s of using Rend.
+* These are all on a single button
 
 ### oGCDs (Off-Global Cooldowns)
 
@@ -85,6 +90,10 @@ For ease of reading, the following list entries have their abbreviations first, 
 
 * Orogeny (Lvl 86)
 
+**Special mention oGCDs**:
+* Wrath, Primal Wrath (lv 96)
+* Shares a button with Inner Release
+
 **Damage Buffs**   
 
 * Zerk, Berserk (Lvl 6)  
@@ -96,6 +105,7 @@ For ease of reading, the following list entries have their abbreviations first, 
 
 * Thrill, Thrill of Battle (Lvl 30)
 * Veng, Vengeance (Lvl 38)
+* Damn, Damnation (lv 92, upgrades Vengeance)
 * Holm, Holmgang (Lvl 42)
 * RI, Raw Intuition (Lvl 56)
 * SIO, Shake It Off (Lvl 68)
@@ -153,20 +163,21 @@ Catches party buffs, burns all our resources as soon as possible.
 
 There is nothing special about this. This is your usual opener. The IR stacks last right until the 3rd Fell Cleave at 2.50 GCD.
 
-![All-Around Opener](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/Openers/WAR_Standard.png?raw=true "All-Around Opener")
+![All-Around Opener](https://github.com/Moxfi/XIV/blob/main/Dawntrail/Resources/Openers/Warrior_Dawntrail_2.5_GCD_Warrior_Opener.png?raw=true "All-Around Opener")
 
 The order of actions is:
 
 * Tomahawk +Infuriate
 * Heavy Swing
-* Maim +Potion
-* Storm’s Eye +Inner Release
+* Maim
+* Storm’s Eye +Inner Release +Potion
 * Inner Chaos +Upheaval +Onslaught
-* Primal Rend +Infuriate
-* Inner Chaos +Onslaught
-* Fell Cleave +Onslaught
-* Fell Cleave 
+* Primal Rend +Onslaught
+* Primal Ruination +Onslaught
 * Fell Cleave
+* Fell Cleave 
+* Fell Cleave +Primal Wrath +Infuriate
+* Inner Chaos
 * Heavy Swing
 * Maim
 * Storm’s Path
@@ -176,58 +187,9 @@ The order of actions is:
 * Maim +Upheaval
 * Storm’s Eye
 
-#### Early-IR Opener
+#### Other Opener options
 
-Requires a faster set (eg. 2.40 GCD). Expected to do 13 GCD Potion to fit in 3 IC. Does not require a Face Pull, but doing so should fit in 2IC 1Rend to most buffs. If you need to position the boss, start with a Tomahawk. This will push your skills forward by a GCD, possibly causing Rend and IC slip out of the buff window.
-
-This gets Inner Release on cooldown earlier, but any gains are very fight-specific and you need a faster skill speed to pull off the 3IC Potion and to get the 3rd IR Fell Cleave out.
-
-![Early-IR Opener](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/Openers/WAR_EarlyIR.png?raw=true "Early-IR Opener")
-
-The order of actions is:
-
-* Provoke
-* Heavy Swing +Infuriate +Inner Release
-* Maim
-* Storm's Eye +Potion
-* Inner Chaos +Upheaval +Onslaught
-* Fell Cleave +Onslaught
-* Fell Cleave +Onslaught
-* Fell Cleave +Infuriate
-* Primal Rend
-* Inner Chaos
-* Heavy Swing
-* Maim
-* Storm's Eye
-* Heavy Swing
-* Maim
-* Fell Cleave +Infuriate
-* Inner Chaos
-
-#### Cursed Prepull IR
-
-The cursed tech of “Prepull IR” refers to getting Inner Release on cooldown before the pull has even started. This has some very big downsides and some very situational up-sides.
-
-Do not use these unless you know what you are doing.
-
-The main reasoning for the opener is to get IR on cooldown faster, gaining extra uses before specific fight phases. An example of this would be a heavy-padding Zodiark Extreme, where the aim is to get Inner Release for the Orbs phase.
-
-Pull timers are:
-
-* IR at -00:09s
-* Potion at -00:02s
-* Pull at 00:00s
-
-The previews have been removed to force the reader to read the text above, before clicking random links on the internet.
-
-**\-9s IR into Eye**\
-[Prepull IR into Eye](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/Openers/WAR_-9s.png?raw=true)
-
-**\-9s IR into Tempest**\
-[Prepull IR into Tempest](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/Openers/WAR_-9stempest.png?raw=true) 
-
-**\-29s IR into Rend**\
-[Prepull IR into Rend](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/Openers/WAR_-29s.png?raw=true)  
+We have opted to do a bigger write-up in a separate document as to not overwhelm people that are looking for the simple opener. Please see [this google doc](https://bit.ly/dt-war-openers) for various advanced openers.
 
 We expect you to do your own adjustments for any fight-specific needs. There is no support for these openers.
 
@@ -245,6 +207,8 @@ The Endwalker Warrior rotation is mostly a priority system with some flexibility
 * Keep Onslaughts ticking (below three stacks)
 * Keep Infuriate ticking (below two stacks)
 * Burn gauge/stacks inside party buffs
+* Don't drop Primal Wrath (3x IR FC)
+* Don't drop Primal Rend or Primal Ruination
 
 That is a lot of things that you might not know about, so we will break them down into their own sections.
 
@@ -300,7 +264,8 @@ That is a lot of things that you might not know about, so we will break them dow
 
 #### Inner Release
 
-* Our "Free Fell Cleaves" button.
+* Our "Free Fell Cleaves" button. 
+* Each Fell Cleave / Decimate grants a "Burgeoning Fury" buff. Collect three of these to unlock Primal Wrath.
 * Stacks last for 15 seconds. This is is 5-6 GCDs depending on your skill speed.
 * Grants Inner Strength, negating some effects such as knockback for 15 seconds.
 * Inner Release stacks are used only by Fell Cleave or Decimate.
@@ -309,28 +274,36 @@ That is a lot of things that you might not know about, so we will break them dow
 * Using Infuriate during IR lets us use Inner Chaos instead of an IR Fell Cleave. Remember to avoid overcapping gauge.
 * Use IR on cooldown. Unless the fight downtime would waste it.
 
+#### Primal Wrath
+* Unlocked after using three Inner Release Fell Cleave/Decimates.
+* Follow-up on Inner Release.
+
 ### Area of Effect
 
 Area of Effect refers to using skills that hit multiple targets in one go. The AoE skills themselves have a lower potency than single target skills. So what is the big deal?
 
-For Endwalker Warriors, the options are pretty clear cut. At level 90, the AoE rotation for Warriors is more effective than single target rotation if there are three or more targets to hit.
+For Endwalker Warriors, the options are pretty clear cut. At level 100, the AoE rotation for Warriors is more effective than single target rotation if there are three or more targets to hit.
 
 Here is a nice table comparing various skills and combos and their effective potency at different situations.
+Do note that Fell Cleave wins in potency when fighting 3 targets or less.
 
-![AoE effectiveness](/img/jobs/war/image.png "AoE effectiveness")
+![AoE effectiveness](https://github.com/Moxfi/XIV/blob/main/Dawntrail/Resources/AoE/AoE_effectiveness.png?raw=true "AoE effectiveness")
 
 That is a bunch of numbers, and Warriors are known to be bad at reading, so let us summarize:
 
-Three or more targets available?
-
+Target count: 4
 * Overpower + Mythril Tempest
 * Decimate or Chaotic Cyclone
 * Orogeny
 
-Two or less targets available?
+Target count: 3
+* Overpower + Mythril Tempest
+* Fell Cleave or Chaotic Cyclone
+* Orogeny
 
+Target count: 2 or less
 * Storm’s Eye / Storm’s Path
-* Fell Cleave or Inner Beast
+* Inner Beast
 * Upheaval
 
 ![Greg's Warrior imagery](https://github.com/Moxfi/XIV/blob/main/WAR/WAR_glam/greg%20-%20ffxiv_01292022_161109_125.png?raw=true)
@@ -424,30 +397,38 @@ The original tank buster of 100% now hits for 64.8% -- a reduction of 35.2%.
 
 As for practical uses, we assume a good use of the Bloodwhetting, granting us a total of 19% mitigation for four seconds.
 
-##### Sets of Two
+##### The 20s  
+> Reprisal (15%)  
+> Thrill of Battle (20%)  
+> Rampart (20%)  
+> Bloodwhetting (19%)  
+ 
+##### The 40s  
+> Damnation (40%)  
+> Rampart + Bloodwhetting (20% + 19%)  
+> Thrill + Bloodwhetting (20% + 19%)  
+  
+##### The 60s  
+> Damnation + Bloodwhetting (40% + 19%)  
+> Damnation + Rampart (40% + 20%)  
+> Damnation + Thrill (40% + 20%)  
+> Damnation + Reprisal (40% + 15%)  
+> Rampart + Thrill + Bloodwhetting (20% + 20% + 19%)  
+ 
+##### The 80s 
+> Damnation + Bloodwhetting + Reprisal (40% + 19% + 15%)  
+> Damnation + Rampart + Thrill (40% + 20% + 20%)  
+> Rampart + Thrill + Bloodwhetting + Reprisal (20% + 20% + 20% + 15%)  
 
-* Bloodwhetting + Thrill of Battle
-* Bloodwhetting + Rampart
-* Bloodwhetting + Vengeance
-* \*Bloodwhetting + Reprisal
+##### The Kitchen Sink
+> Damnation + Rampart + Thrill + Bloodwhetting + Reprisal  
+> (40% + 20% + 20% + 19% + 15%)
 
-##### Sets of Three
+##### It Still Kills Me
+> Holmgang (invulnerability)  
+> Tank Swap (mechanical requirement)
 
-* Bloodwhetting + Thrill of Battle + Rampart
-* Bloodwhetting + Thrill of Battle + Vengeance
-* \*Bloodwhetting + Reprisal + Rampart
-* \*Bloodwhetting + Reprisal + Vengeance
-* \*Bloodwhetting + Reprisal + Thrill of Battle
-
-##### Sets of Four
-
-\*also known as Kitchen Sink\*\*\*
-
-* Bloodwhetting + Thrill of Battle + Rampart + Vengeance
-* \*Bloodwhetting + Reprisal + Rampart + Vengeance
-* Just Holmgang at this point, honestly.
-
-Anything with a Reprisal *in them is considered* very situational* and should be used with care.\
+Anything with a Reprisal in them is considered *very situational* and should be used with care.\
 If you are using Reprisal to survive a tank buster, remember that it might be down for the next raid-wide damage.\
 Other sources of 10% mitigation exist, such as Exaltation on Astrologians.
 
@@ -463,6 +444,7 @@ In this section, we will go over the very basics of Warrior Heals.
 
 ### Thrill of Battle
 
+* Affects incoming heals
 * Affects Storm's Path's healing.
 * Affects Shake it Off's healing.
 * Affects Equilibrium's main heal and the HoT.
@@ -470,12 +452,19 @@ In this section, we will go over the very basics of Warrior Heals.
 * Does NOT affect Bloodwhetting heals.
 * Weird like that.
 
+### Shake It Off  
+* Grants 15% of Party Member's MaxHP as a Shield.  
+* Also +2% for each buff eaten (Thrill, Vengeance, Bloodwhetting), resulting in a maximum of 21% MaxHP Shield.  
+* Also heals Party Members for 300 Potency.  
+* Gives a regen!  
+* Snapshots Thrill'd WAR's HP, before eating the buff. Big Value™️ for Warriors.  
+
 ### Bloodwhetting
 
 * Get four GCDs in by popping this in the second oGCD slot.
 * Heals per hit, very powerful in dungeons.
 * May Crit a heal randomly. Luck!
-* Primal Rend, Chaotic Cyclone and Inner Chaos always force a Crit heal.
+* Primal Rend, Chaotic Cyclone, Inner Chaos and Primal Ruination always force a Crit heal.
 * Inner Release'd Fell Cleaves do NOT force a Crit heal.
 * Thrill of Battle does NOT increase the healing from these.
 * Initial mitigation is 19% due to diminishing returns (100 x 0.9 x 0.9 = 81).
@@ -487,9 +476,23 @@ In this section, we will go over the very basics of Warrior Heals.
 * Gives them the mitigation, much like Bloodwhetting would give to us.
 * Save a friend with this!
 
+### Damnation
+* Trait upgrades Vengeance into Damnation
+* Taking damage, or having the buff "Primeval impulse" expire, procs a Regen effect that lasts for 15 seconds.
+* In patch 7.0, the regen on a BIS Warrior is about 10k to 11k per tick.
+
+### Rampart
+
+* Affects incoming heals (lv94 trait), much like Thrill of Battle
+* Increases HP recovery via healing actions on self by 15%
+
+### Equilibrium
+* A decent heal button, with a Regen effect tied to it.
+* Great when used with Thrill of Battle, Rampart or both.
+
 ### Forcing Crits
 
-* Inner Chaos and Primal Rend force a Crit heal.
+* Inner Chaos, Chaotic Cyclone, Primal Rend and Primal Ruination force a Crit heal.
 * This may save a life.
 * Be the healer of the party.
 * Inner Release’d skills do not force a Crit heal.
@@ -534,30 +537,8 @@ A rule of thumb is to delay the oGCD in most situations.
 #### Why Tenacity?
 
 Tenacity increases all damage dealt, much like Determination.\
-While it offers some mitigation bonuses, it is often very little and near impossible to observe due to the game already having a 5% variance in incoming damage.
+We're usually melding very little of this due to the game being designed around damage.
 
-#### Stats in general (Det vs Tnc example)
-
-To gain +0.1% damage, we need to reach the next breakpoint.\
-We will refer to these +0.1% gains as "tiers."\
-These tiers are separated from each other approximately as follows:
-
-* 13.57 points of Determination
-* 19 points of Tenacity
-
-To extrapolate from this, it follows that Determination gives us more damage than Tenacity, when limited to an arbitrary amount of stat points.  
-
-If we were to have 2000 points to use on either Determination or Tenacity, we would get:
-
-* 2000 / 13.57 = ~147 tiers of Det
-* 2000 / 19 = ~104 tiers of Tnc
-
-#### Multi-tank melds
-
-Patch 6.2 brought Direct Hit melds back to WAR!
-
-While WARs try to hit GCD numbers around 2.50, 2.45, 2.40, other tanks might have more specific numbers.  \
-While melding for multiple tanks, consider what skill speed you want to use on GNB, PLD or DRK.
 
 ![Sunless's Warrior imagery](https://github.com/Moxfi/XIV/blob/main/WAR/WAR_glam/Sunless%20-%20war%20img.png?raw=true)
 
@@ -599,7 +580,7 @@ Holmgang is weird. If your Holmgang target dies, you lose the effect. Self-cast 
 	/ac "Holmgang" <me>
 	/micon "Holmgang"
 ```
-
+\_
 ### Nascent Flash
 
 Nascent Flash goes on a friend. Most often on the co-tank of your eight-person party.\
@@ -623,7 +604,7 @@ You may make a mouseover macro by using <mo>, or you may make multiple macros fo
 	/ac "Nascent Flash" <2>
 	/micon "Nascent Flash"
 ```
-
+\_
 ### Shirk
 
 Shirk the second Party member. Often your co-tank.
@@ -645,16 +626,8 @@ Shirk the second Party member. Often your co-tank.
 	/ac "Shirk" <2>
 	/micon "Shirk" 
 ```
-
-## Best-in-Slot aka BIS (Patch 6.31)
-
-### Food and Potions
-
-> Carrot Pudding HQ, or  \
-> Sunset Carrot Nibbles HQ.  \
-> Grade 7 Tincture of Strength HQ.
-
-### Gear Sets
+\_
+### Gear Sets and Consumables (Food, Potion)
 
 Please see the Warrior's main page for different gear sets. 
 Some of the gear sets have very specific melds, some of which might go against the usual meld priority.
@@ -665,10 +638,6 @@ The simulations are made with a simulated infinite rotational loop, which also h
 Fights are not infinite, and often come with downtime.\
 Slower GCDs offer some rotational tricks to maximize party buff windows.\
 Simulations are also pure math based on our best understanding and knowledge of the game's mechanics. Practice always differs from theory.
-
-## Further Reading
-
-Here be links to other Tank-related guides!
 
 ## Credits
 
