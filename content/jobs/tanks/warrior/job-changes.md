@@ -61,7 +61,7 @@ changes:
       Warrior gains:
       - Various traits
       - Damnation (Vengeance upgrade, 40% mitigation)
-      - Wrath (Inner Release follow-up, oGCD)
+      - Primal Wrath (Inner Release follow-up, oGCD)
       - Primal Ruination (Primal Rend follow-up)
   - patch: "7.01"
     description: >-
