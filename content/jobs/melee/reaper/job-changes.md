@@ -1,7 +1,7 @@
 ---
 title: Reaper Job Changes
 layout: changes
-lastmod: 2023-05-29T18:05:07.102Z
+lastmod: 2024-07-18T22:45:10.443Z
 changes:
   - patch: "6.0"
     description: Job added to game.
@@ -50,7 +50,47 @@ changes:
       Gluttony went from 500 potency to 520 potency.
 
       Lemure's Slice went from 220 potency to 240 potency.
+  - patch: "7.0"
+    description: >
+      Slice potency increased to 420.
+
+      Waxing Slice combo potency increased to 500.
+
+      Infernal Slice combo potency increased to 600.
+
+      Harpe now grants 10 Soul.
+
+      Hell's Ingress/Egress now gets 5 seconds off their cooldown after using the Enhanced Harpe proc.
+
+      Spinning Scythe potency increased to 160 to all enemies.
+
+      Nightmare Scythe potency increased to 200 to all enemies. 
+
+      Gibbet/Gallows base potency increased to 500. Buffed + positional potency is now 620 for both.
+
+      Unveiled Gibbet/Gallows potency increased to 440.
+
+      Gluttony now grants 2 stacks of Executioner instead of Soul Reaver. Enshroud now grants Oblatio, allowing the use of Sacrificium.
+
+      Void/Cross Reaping base potency increased to 500. Buffed potency is now 560 for both.
+
+      Harvest Moon potency increased to 800. Now grants 10 Soul.
+
+      Lemure's Slice potency increased to 280.
+
+      Plentiful Harvest no longer grants 50 Shroud. Instead grants Ideal Host for 30 seconds allowing the next Enshroud to be free. Also grants Perfectio Oculta for 30 seconds.
+
+      Communio grants Perfectio Parata if used under the effect of Perfectio Oculta.
+
+      Sacrificium added.
+
+      Executioner's Gibbet/Gallows/Guillotine added.
+
+      Perfectio added.
+
+      Feint duration increased to 15 seconds.
+
+      Second Wind potency increased to 800.
 authors:
-  - Laille-Ormesaing
   - Balance-RPR-Staff
 ---
