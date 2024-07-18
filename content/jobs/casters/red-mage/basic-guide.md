@@ -219,7 +219,7 @@ Whether that makes any difference at all depends on expected killtimes, expected
 
 ![](https://i.imgur.com/LGRfOzV.jpeg)
 
-Infographic: <https://imgur.com/a/Tn3bvlq> 
+https://i.imgur.com/LGRfOzV.jpeg
 
 Our rotation is as follows:
 
