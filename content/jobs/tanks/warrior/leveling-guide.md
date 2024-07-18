@@ -15,6 +15,9 @@ changelog:
     message: Updated for Patch 6.11
   - date: 2022-08-25T15:53:46.126Z
     message: Added a lv90 note.
+  - date: 2024-07-18T11:23:34.652Z
+    message: Added lv96 and lv100 notes. Added opener notes for lv90.
+description: "Final Fantasy XIV: Warrior Leveling Guide"
 ---
 Henlo team!
 
@@ -218,4 +221,34 @@ This leads to cycles of 3-1, which repeats every two minutes.
 
 # Level 90: Primal Rend
 
-**You did it.** You reached the end-game. Go read [the full guide](/jobs/tanks/warrior/basic-guide).
+You've unlocked one of the most important skills: Primal Rend.
+This skill unlocks when Inner Release is used, is a single-use, and can be saved for up to 30 seconds. 
+It's our biggest skill at lv90 and always Direct Hit + Crits. The only downsides are the multi-hit fall-off, movement lock, and filling up an oGCD slot so double-weaving after Rend is a no-go.
+
+Opener is:
+* Tomahawk +Infuriate
+* Heavy Swing
+* Maim +Potion
+* Storm's Eye
+* Inner Chaos +Upheaval +Onslaught
+* Primal Rend +Infuriate
+* Inner Chaos +Onslaught
+* Fell Cleave +Onslaught
+* Fell Cleave
+* Fell Cleave
+* Heavy Swing
+* Maim
+* Storm's Path
+* Fell Cleave +Infuriate
+* Inner Chaos
+
+Note that this opener changes a bit at lv100.
+
+# Level 96: Enhanced Inner Release
+
+Using Fell Cleaves or Decimates inside Inner Release now grants stacks of "Burgeoning Fury". Gaining three of these unlocks the skill "Primal Wrath", an oGCD follow-up for Inner Release.  
+Notice how we're meant to use Fell Cleaves inside Inner Release? This is very relevant, as Inner Release allows for 6 GCDs total to be used, before its effect ends. Three of those have to be Fell Cleaves/Decimates.
+
+# Level 100: Primal Ruination
+
+You unlocked a follow-up for Primal Rend. This changes the opener again. Please read the full resources for lv 100 Warrior!
