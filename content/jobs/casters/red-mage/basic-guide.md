@@ -2,12 +2,9 @@
 title: Red Mage Basic Guide
 card_header_image: /img/jobs/rdm/lanaresized.png
 authors:
-  - argen
-  - meru
-  - lana
   - Balance-RDM-Staff
-patch: "6.55"
-lastmod: 2023-06-10T03:34:42.588Z
+patch: "7.01"
+lastmod: 2024-07-18T03:34:42.588Z
 changelog:
   - date: 2021-10-26T01:24:41.469Z
     message: Created page
@@ -15,277 +12,270 @@ changelog:
     message: Updated for Endwalker
   - date: 2023-06-10T03:34:39.485Z
     message: No changes, updated patch number
+  - date: 2024-07-18T22:31:08.446Z
+    message: Updated for Dawntrail with preliminary version
 ---
 # Red Mage Level 100 Guide for 7.x (Preliminary)
 
-Currently, this guide is in a **preliminary state**, which aims to cover a basic overview of the Red Mage changes brought with Dawntrail along with an introduction to new rotation and opener concepts. A more detailed version of the guide will be updated 
+Currently, this guide is in a **preliminary state**, which aims to concisely cover a basic overview of the Red Mage changes brought with Dawntrail along with an introduction to new rotation and opener concepts. A more detailed version of the guide will be updated closer to the release of Savage raids (7.05). If you have questions after reading the guide, feel free to ask in the **\#rdm_questions** channel on [The Balance server.](https://discord.gg/thebalanceffxiv)
 
-## Overview
+## TL;DR changes in playstyle from Endwalker for raiding
 
-This guide will cover proper rotations and ability usage in the Dawntrail expansion. While the core foundation of Red Mage has not changed at all since its introduction in Stormblood, many smaller changes and quality-of-life improvements made in Dawntrail have changed how we approach different aspects of the job.
+This guide will not go over the changes and tooltips which can be read from the official FFXIV website: <https://na.finalfantasyxiv.com/jobguide/redmage/>. In terms of gameplay in raids:
 
-At its simplest, Red Mage has you casting spells to build your Black and White Mana to 50|50 and then spending that mana to use a melee combo with powerful finisher spells. Red Mage is a very intuitive job, making it a great pick for beginners or people looking for something easier to pick up. The simplicity of its base rotation makes it a great choice for learning new fights, and the large amount of utility it comes with also provides great support to your party. Despite these things, high-level Red Mage play still has plenty of optimization available and a high skill ceiling comparable to many other jobs in the game.**\
-If you have more questions after reading the guide, feel free to ask in #rdm_questions on [The Balance server.](https://discord.gg/thebalanceffxiv)**
+* The job mostly plays the same on a basic level (cast spells > maximize melee combos, in buffs if possible > maximize oGCD uses).
+* The new Acceleration effectively grants us two instant-cast GCDs. New Acceleration and Grand Impact have a lot of optimization potential, but the fundamental play is to avoid overcapping, save one charge for movement, and yes you can use it in downtime (ideally around 15 seconds before the boss is targetable).
+* oGCD alignment is trickier to manage due to Acceleration changes. We will primarily rely on the 40-second Swiftcast and stricter combo timings instead, though Acceleration can be used as a “temporary” fix for preventing oGCD drift.
+* Scorch and Resolution take priority over Grand Impact on our hotbar when all of these spells are up, but once they are used, Grand Impact will replace Jolt III again.
+* Grand Impact does not consume Dualcast, Swiftcast, or Acceleration’s instant-cast buff.
+* Manafication rush is even better than before because in addition to an extra combo, it now also means +1 use of Prefulgence (900 potency AOE oGCD). Most Prefulgence uses can be held for buffs, even when rushing Manafication.
+* Downtime Manafication, however, has been severely nerfed since it no longer grants mana by itself. It may still have very niche and situational use cases, but this will depend heavily on encounter design.
+* Our AOE Enchanted Moulinet combo now costs 50|50 mana.
 
-## Basic Introduction to Red Mage
+# Basics
 
-### Helpful Links
+## Mana gauge
 
-[Beginner Infographic Lvl 50](https://imgur.com/jVXjTNf)
+Red Mage casts spells to build black and white mana gauges to 50|50 or higher (capped at 100|100), and then spends that to use a melee combo with powerful finisher spells. Red Mage’s job gauge, the Balance Gauge, displays the current black mana and white mana available. 
 
-[Beginner Infographic Lvl 100](https://i.imgur.com/LGRfOzV.jpeg)
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcp_TWbOUskEgNhXEW-0F3EUuR7CAYDq29lA1Nj2vFEQGVF2RQDNSJvM0Vah6cA-Jpyszt-CfURbUTrIjQeWUHHfMTkq04Z0wYIauy7HvWRyld_xSqMOWNQWN3gctE6Lx3wnRo-z1h2z8og-6x4x7TtYC8z?key=g0mOyOwaD_13c10-GmC5Xg)
 
-[**Endwalker** Lvl 90 Rotation PoV (Manafic Rush)](https://youtube.com/watch?v=Y3HxPrpyh4I)
+* Verthunder III, Verfire, Verflare, and Verthunder II give **black mana**.
+* Veraero III, Verstone, Verholy, and Veraero II give **white mana**.
+* Jolt III, Impact, Grand Impact, Scorch, and Resolution give **both at the same time** (but at slightly lower amounts of each).
 
-[**Endwalker** Lvl 90 Rotation PoV (2-min Aligned)](https://www.youtube.com/watch?v=p2gYTh-_on0)
+**In general, avoid overcapping mana** (outside of some fight-specific scenarios in Ultimates or adds phases where we are saving resources for the next phase). Furthermore, the gap between black and white mana gauge numbers need to be kept smaller than 30. Otherwise, the Balance Gauge crystal will change color and the lower mana will accumulate mana at half the usual rate until it is rebalanced, which will delay a future melee combo and potentially result in a major DPS loss. 
 
-[Hotbar Examples](https://bit.ly/3ms1kwJ)
+## GCD spells and Dualcast
 
-### Black and White Mana
+Red Mage has two types of spells: what we refer to as short casts (2s cast time at base spell speed, slightly lower damage) and long casts (5s cast time at base spell speed, slightly higher damage, but much longer to cast). Both have 2.5 recast timers at base spell speed.
 
-Red Mage’s job gauge, the Balance Gauge, displays the current amount of **Black Mana** and **White Mana** available. Black Mana is accumulated by casting Verthunder III, Verfire, Verflare, and Verthunder II, while White Mana is accumulated by casting Veraero III, Verstone, Verholy, and Veraero II. Casting Jolt III, Impact, G Scorch, and Resolution will give both Black and White mana. 
+* **Short cast**: Jolt III, Verfire, Verstone, Verthunder II, Veraero II, Vercure (utility)
+* **Long cast**: Verthunder III, Veraero III, Impact, Verraise (utility)
 
-*The gauge:*
+A quick review of the Dualcast tooltip and a few minutes of in-game experimentation or doing the Red Mage job quests will likely be more effective than explaining it in text. Hard cast a spell, Dualcast buff is enabled, then the next spell will be instant cast (and consume the buff) assuming no other interferences.
 
-![](https://lh7-us.googleusercontent.com/1-K02tQKnOWdJIX4ykdL3fF6DJz5Q4ikxd5s7UdABCmuml1K4aM01acE7guKBj3zCcsu2ONVfHTNakhUHD_dvMlIPx9bSahuk_EXY7XAkgK-kP1Jd7Q1KrEpycz7FFNlRvHPac-QHNfLmaRSlIzIOR0)
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXehWrxnBNXZ5Le7M_H_hdiCXgtEehR3SILkfwTs4wS0LzqKOlR9WGnuKzQ5txLqwn8CrwdpUlrupwBUWHaS2vemyDAMrZOcp0UnO2Arf-tgEhTT3mR-OvrXxaZTfM7koYE-ndmi5C74JQ_F0lLBwLRvH23E?key=g0mOyOwaD_13c10-GmC5Xg)
 
-An important part of Red Mage is keeping your Black and White mana “balanced,” meaning the gap must be kept smaller than 30 between the two. If one mana value becomes higher than the other, the Balance Gauge crystal will change color and the lower mana will accumulate mana at half the usual rate until it is rebalanced. In that state, Manafication will also only generate 25 of the lower mana.
+The key thing to understand here is that outside of pre-casting in the opener, we always hardcast our short cast damage spells, and use instant-cast buffs (Dualcast, Acceleration, or Swiftcast) on long cast spells to bypass the 5 second (or longer for Verraise) cast time. This is also where we weave up to two oGCDs to avoid clipping our GCD. 
 
-### GCD Spells and Dualcast
+* **1-2 targets**: Verfire or Verstone (Jolt III if neither available) > Verthunder III or Veraero III (whichever does not have a proc, or has lower mana)
+* **3+ targets**: Verthunder II or Veraero III (whichever has lower mana) > Impact
 
-Red Mage has two types of spells – what we refer to as long casts (5s cast time) and short casts (2s cast time). Damaging short casts include Jolt III, Verstone, Verfire, Verthunder II, and Veraero II while long casts include Verthunder III, Veraero III, and Impact.
+Note on 2 targets: Impact does the same potency on two targets (210 potency \* 2 = 420) as Verthunder III or Veraero III does on a single target (420 potency) with the same total mana generation, but the added proc chance from Verthunder/aero III makes them theoretically very slightly better in a vacuum, though Impact can have situational use for HP balancing purposes. However, if Impact is boosted by Acceleration, it becomes 260 potency \* 2.
 
-Spells with longer cast times have higher potencies than our short casts and also generate more mana, but should never be hardcast with their full cast time outside the opener. Instead, we utilize these spells efficiently with our Dualcast trait. We gain the Dualcast buff from hardcasting a spell, which allows us to instantly cast any spell with a cast time. Our casting phase then follows a rhythm of hardcasting spells with short cast times to gain Dualcast, and then using the buff to instantly cast spells with longer cast time to maximize our potency and mana generation over time.
+## Enchanted melee combos
 
-Casting Verthunder III gives us black mana, while casting Veraero III gives us white mana. Every time Verthunder III or Veraero III is used, there is a 50% chance of receiving a proc, which allows us to cast either Verfire or Verstone respectively. 
+Upon accumulating 50|50 mana, we are able to unleash a melee combo, the most powerful tool in our rotation. With sufficient mana, our weaponskills become enchanted weaponskills, which are significantly more powerful than their normal versions, deal magic damage, and generate mana stacks that allow us to access our hardest hitting finisher spell combos (Verflare/holy, Scorch, Resolution). The first part of our enchanted weaponskill combos for burst damage are:
 
-In single target scenarios, you cast Verfire or Verstone (or Jolt III if no procs are available) and then dualcast either Verthunder III or Veraero III. When choosing whether to dualcast Verthunder III or Veraero III, you should prioritize whatever mana type does not currently have a proc available. For example, if you cast Verstone and already have a Verfire proc available, your dualcast should be spent on Veraero (if it will not unbalance your mana) as you have spent your Verstone proc and have a chance of receiving another Verstone proc.
+* **1 to 2 targets**: Enchanted Riposte > Enchanted Zwercchau > Enchanted Redoublement
+* **3+ targets**: Enchanted Moulinet > Enchanted Moulinet Deux > Enchanted Moulinet Trois
 
-In two target scenarios, your rotation mostly stays the same, utilising Jolt III (or procs if available) to generate Dualcast, and spending it on Verthunder III or Veraero III. The only change from the single target rotation is that Acceleration should only be spent on Impact and Grand Impact. 
-
-In scenarios with three or more targets, you should replace your shortcasts with Verthunder II or Veraero II, which give you black mana and white mana respectively. Both of these spells are potency gains over Jolt III, Verfire, and Verstone at three or more targets.
-
-GCD spells, potencies, and mana generation values are shown below. 
-
-| **Spell**      | **Mana Generation**      | **Potency** | **Cast Time** | **Recast**  |
-| -------------- | ------------------------ | ----------- | ------------- | ----------- |
-| Jolt III       | +2 Black & +2 White Mana | 360         | 2 seconds     | 2.5 seconds |
-| Verthunder III | +6 Black Mana            | 420         | 5 seconds     | 2.5 seconds |
-| Veraero III    | +6 White Mana            | 420         | 5 seconds     | 2.5 seconds |
-| Verfire        | +5 Black Mana            | 380         | 2 seconds     | 2.5 seconds |
-| Verstone       | +5 White Mana            | 380         | 2 seconds     | 2.5 seconds |
-| Impact         | +3 Black & +3 White Mana | 210 AoE     | 5 seconds     | 2.5 seconds |
-| Verthunder II  | +7 Black Mana            | 140 AoE     | 2 seconds     | 2.5 seconds |
-| Veraero II     | +7 White Mana            | 140 AoE     | 2 seconds     | 2.5 seconds |
-
-### Melee Combos
-
-Once you have amassed 50|50 mana, you are ready to unleash a melee combo, the most powerful tool in your rotation. If you have enough mana, your weaponskills— Riposte, Zwerchhau, and Redoublement— transform into their Enchanted versions. Enchanted weaponskills are significantly more powerful than un-enchanted skills, deal magic damage and generate Mana Stacks that will allow you to access your finisher spells. Your melee combo will consist of three Enchanted melee weaponskills followed by three finisher spells. A full single target melee combo is as follows:
-
-**Enchanted Riposte -> Enchanted Zwerchhau -> Enchanted Redoublement -> Verholy or Verflare -> Scorch -> Resolution**
-
-Enchanted Riposte, Enchanted Zwerchhau, and Enchanted Redoublement are single target weaponskills that combo off of each other, increasing the potency of each subsequent skill. Using these weaponskills will consume Black and White mana while granting us Mana Stacks, red crystals which show up at the bottom of our Balance Gauge. Once you have used all three weaponskills, you will be able to use Verflare/Verholy into subsequent finishers. As a side note, while this situation should be avoided in general, you are able to recover from out-of-order combos as long as you have enough mana to execute any enchanted weaponskill to generate the Mana Stacks necessary for Verflare/Verholy.
-
-All three finishers are instant casts and deal damage to multiple targets, making them strong spells in AoE scenarios. Each finisher also generates a set amount of mana, allowing us to begin rebuilding our gauge before beginning our casting phase again. The choice between using Verflare or Verholy depends on the state of your procs and mana gauge. Use the finisher corresponding to your lower mana to guarantee a Verfire or Verstone proc. However, if the lower mana already has a proc available and the higher one does not, use the finisher of the higher mana for the 20% proc chance as long as it does not cause you to unbalance your mana.
-
-Scorch, the follow-up finisher to Verflare/Verholy, simply deals damage to its primary target and enemies around it. Our final finisher however, Resolution, is a line aimed toward the targeted enemy. When using Resolution in AoE scenarios, you should try to position your character so that the line will hit as many enemies as possible. Do note that Resolution will always hit the target it is cast on, regardless of the direction the visual goes in. In addition, all our finishers deal full damage to the targeted enemy and falloff damage for the rest.
-
-In scenarios with three or more targets, we can replace our single target melee skills with the Enchanted Moulinet combo, as it offers more potency while still granting a Mana Stack with each part of the combo. Therefore, our melee combo in this scenario would consist of the Enchanted Moulinet -> Enchanted Moulinet Deux -> Enchanted Moulinet Trois sequence, followed by our finishers.
-
-An important distinction in-game to keep in mind is that the melee combo and finishers are considered two separate combos by the game. While casting any spells other than Verholy or Verflare will cause you to drop Mana Stacks and lose access to your finishers, it is possible to hold these finishers indefinitely if there is nothing to hit. This is in contrast to the usual 30 second timer allowed between combo abilities before the combo is broken. This distinction is also why we are able to use Manafication after Enchanted Redoublement without losing our finishers despite Manafication being a combo-breaker otherwise.
-
-| **Spell or Weaponskill** | **Mana Generation or Cost** | **Potency**                   | **Recast**  |
-| ------------------------ | --------------------------- | ----------------------------- | ----------- |
-| Enchanted Riposte        | \-20 Black & -20 White Mana | 300                           | 1.5 seconds |
-| Enchanted Zwerchhau      | \-15 Black & -15 White Mana | 150 (Combo: 360)              | 1.5 seconds |
-| Enchanted Redoublement   | \-15 Black & -White Mana    | 130 (Combo: 540)              | 2.2 seconds |
-| Enchanted Moulinet       | \-20 Black & -20 White Mana | 130 AoE                       | 1.5 seconds |
-| Enchanted Moulinet Deux      | \-15 Black & -15 White Mana | 140 AoE                       | 1.5 seconds |
-| Enchanted Moulinet Trois      | \-15 Black & -15 White Mana | 150 AoE                       | 1.5 seconds |
-| Verflare                 | 11 Black Mana               | 620 AoE with 60% falloff      | 2.5 seconds |
-| Verholy                  | 11 White Mana               | 620 AoE with 60% falloff      | 2.5 seconds |
-| Scorch                   | 4 Black & 4 White Mana      | 700 AoE with 60% falloff      | 2.5 seconds |
-| Resolution               | 4 Black & 4 White Mana      | 800 line AoE with 60% falloff | 2.5 seconds |
-
-### Damaging oGCDs and buffs
-
-One of the strongest parts of Red Mage’s kit is its powerful oGCD abilities, which include Fleche, Contre Sixte, two charges of Corps-a-corps, and two charges of Engagement/Displacement. All of these abilities deal a good amount of damage, so it is important to use them on cooldown and maximize usages throughout an encounter.
-
-| **Ability**             | **Potency** | **Recast Time** |
-| ----------------------- | ----------- | --------------- |
-| Fleche                  | 480         | 25 seconds      |
-| Contre Sixte            | 400 AoE     | 35 seconds      |
-| Corps-a-corps           | 130         | 35 seconds      |
-| Engagement/Displacement | 180         | 35 seconds      |
-
-Damage oGCD priority (based on potency and cooldown timer):
-
-**Fleche > Contre Sixte > Engagement/Displacement > Corps-a-corps**
-
-Fleche is our strongest oGCD ability and also has the shortest cooldown, meaning it should always be prioritized when multiple oGCDs are ready to be used. Optimizing your rotation around maximizing your Fleche usage and minimizing drift is an important part of Red Mage, which will be explained later in the Swiftcast and Acceleration section.
-
-Following Fleche, Contre Sixte is our second strongest oGCD in single target, and our strongest when there is more than one target involved. Contre Sixte casts a circular AoE around the targeted enemy and has no falloff damage for surrounding enemies.
-
-Next, Engagement and Displacement are oGCDs with two charges that also share a cooldown. These abilities are equal in potency, so you will primarily be using Engagement in your rotation due to Displacement’s drawbacks. As Displacement does a 15-yalm backflip, it can be useful in niche situations for movement, but otherwise is more dangerous and has a longer animation lock than Engagement.
-
-Finally, Corps-a-corps is an ability with two charges that also moves you to the boss’s hitbox. While the “gapcloser” function of this ability can be very useful, it is important to think of this ability as a damaging ability first, and a movement ability second, rather than the other way around. This means you should always use at least one charge of Corps-a-corps on cooldown to avoid overcapping.
-
-As both Corps-a-corps and Engagement/Displacement have two charges, you can optionally hold onto one charge of each for movement. Having two charges also means it is possible to get at least one use of each of these abilities under party raid buffs. This should be done whenever possible, but should not be done at the cost of drifting the cooldown on either ability.
-
-Following this, Red Mage also has two other oGCDs that are important parts of its DPS rotation: Embolden and Manafication.
-
-**Embolden** is Red Mage’s party-wide damage buff. Embolden has a recast timer of 120 seconds and buffs all damage done by party members by 5% for 20 seconds, while buffing our personal magic damage by 5% for 20 seconds. It is important to note that as our own Embolden only buffs magic damage dealt, which means that it buffs all of our GCDs (including Enchanted weaponskills) but does not affect any of our oGCDs. Embolden should be used on cooldown to align with all other two minute party buffs, unless a specific buff delay is agreed upon by the entire party. Do not delay using Embolden to align with your own rotation.
-
-**Manafication** is an ability with a 110s cooldown that gives us three stacks of the Magicked Swordplay buff, allowing the use of three Enchanted melee GCDs without cost. This buff lasts for 15 seconds. The skill also gives us a 5% damage buff with six stacks that lasts 30 seconds, which buffs the next six GCDs used by 5%. On top of this, Manafication also grants us the ability to use Prefulgence, a 900 potency oGCD, with a 30 second "Prefulgence Ready" status being awarded after all six stacks have been consumed. The 110s cooldown on Manafication often causes confusion on whether it should be held for Embolden or used on cooldown, but in fights with unknown killtimes it is better to use Manafication on cooldown to avoid losing a usage of it. Note that desyncing Manafication from Embolden does not necessarily mean losing a melee combo under Embolden – a more detailed explanation on Manafication usage can be found in a separate section below.
-
-### Using Vercure during downtime
-
-Vercure is part of Red Mage’s strong utility kit, and its uses in raid recovery is covered later below. While Vercure’s usage as a healing GCD is rather niche, it can be used for a small DPS gain as part of our rotation. Casting Vercure during downtimes in fights will proc Dualcast, which allows us to instantly cast Verthunder III or Veraero III when the boss returns. However, be careful when a pot window aligns with a reopener in this way – as using pot will cancel the dualcast proc from Vercure.
+Our Verflare/holy > Scorch > Resolution combo that follows directly after does more damage than other spells in our kit for both single target and AOE scenarios. As such, maximizing Red Mage’s damage starts with maximizing the number of melee combos we get per encounter, followed by putting as many as possible under buffs and/or potion(s).
 
 ### Enchanted Reprise
 
-**Enchanted Reprise** is a ranged weaponskill that costs 5|5 mana that is primarily used for keeping uptime when casting is not an option and we do not have our common movement tools available (Swiftcast, Acceleration and Melee combo). Due to its large mana cost, we try to avoid using this ability as much as possible. However, in progression scenarios when fight mechanics are unknown, it is often better to use Enchanted Reprise occasionally than to lose uptime on the boss. It can also be used during a melee combo without breaking it if you are forced to disengage from a boss before you finish your melee hits, though be wary of the mana cost potentially costing you a mana stack. Outside of this, however, this ability should not be used, with the sole exception of getting one last GCD on a boss about to die when you do not have your other instant cast options.
+In addition to our burst damage combos, we also have Enchanted Reprise, an instant-casted ranged weaponskill that consumes 5|5 mana. This is only used as a last resort for emergency movement or last hitting a boss at the end of a fight if you have no time to get a full cast off.
 
-## Opener
+In general, we want to avoid it due to the mana loss, which delays a future melee combo by approximately 3 GCDs (~7.5 seconds): anywhere between 4-6 mana is lost from the opportunity cost of not casting a spell over the same 2.5 seconds, and an additional -10 mana is lost immediately from the skill itself. This is not necessarily a DPS loss, but the more we use it, the more likely we are to misalign or completely lose a future melee combo, which is a DPS loss.
 
-### 6.x General Purpose Opener
+# Understanding our oGCD abilities: priorities, alignment, buffs
 
-![RDM Opener](/img/jobs/rdm/rdm_ew_opener.png)
+## Embolden and Vice of Thorns
 
-Link: <https://www.thebalanceffxiv.com/img/jobs/rdm/rdm_ew_opener.png>
+Embolden is Red Mage’s party-wide damage buff. Embolden has a recast timer of 120 seconds and buffs all damage done by party members by 5% for 20 seconds, while buffing our personal magic damage by 5% for 20 seconds. **Embolden should be used on cooldown to align with all other two minute party buffs, unless a specific buff delay is agreed upon by the entire party.** Do not delay using Embolden to align with your own rotation.
 
-Our opener has changed significantly in 6.x largely due to Manafication. As Manafication now gives enough mana for a full melee combo, we can enter our combo significantly earlier and put more hard-hitting skills under party buffs. The goal of this opener is threefold – maximize damage under potion and party buffs, keep oGCDs aligned, and guarantee two procs after our melee combo.
+At level 92, Embolden grants Thorned Flourish upon executing Embolden, which allows us to cast Vice of Thorns once within the next 30 seconds. In most scenarios, it is simply best to use it under buffs, though it can occasionally be saved for more AOE damage.
 
-Using Swiftcast and Acceleration together allows us to Verthunder (or Veraero) twice in a row, giving us plenty of weave space early on in the opener. We use the same GCD twice so we can guarantee a second proc from our melee combo finisher with uneven mana values. Fleche, our highest priority damaging oGCD is used as soon as possible under potion and party raid buffs, followed by our other damaging oGCDs in the order of usage priority. Following our melee combo, we do not use our second charge of Acceleration as our Fleche will already be aligned with our dualcast windows. This allows our second fleche at the tail end of the opener to land under potion. On GCDs faster than 2.5 (or at 2.5 with higher ping) your second Contre Sixte will be forced to drift slightly into your next dualcast window. As Contre Sixte has a lower potency and higher cooldown than Fleche, we simply allow this first drift to happen, afterwards keeping it aligned for the remainder of the encounter.
+## Manafication and Prefulgence
 
-Please note that this is a general purpose opener, and we may use a slightly altered opener depending on fights. For example, while our current opener will not cost us a use of Fleche or Contre Sixte in most scenarios, there may be fights where phasing requires us to place one of them a GCD or two earlier to avoid losing a usage during the first phase. In situations such as this, one potential option is to double weave your potion and Fleche or Contre Sixte—if it does not clip significantly—to put one of these abilities on cooldown earlier.
+Manafication is an ability with a 110s cooldown that allows us to use a melee combo without consuming mana. Specifically, it grants three stacks of Magicked Swordplay, each stack allowing us to use a melee combo at no mana cost while the buff is up. The ability also gives us a 5% magic damage buff with six stacks that lasts 15 seconds, which buffs the next six GCDs by 5%. This damage buff should generally be used on our melee combo, as it is the strongest burst window Red Mage has. 
 
-## Swiftcast and Acceleration
+At level 100, we also gain a new oGCD ability: **Prefulgence**, which is our hardest hitting oGCD at 900 potency for the first enemy, and 60% less for all remaining enemies. It is enabled after the sixth Manafication stack is consumed, which grants us the Prefulgence Ready buff for 30 seconds and replaces Manafication on our hotbar until used. 
 
-These oGCD abilities play a unique and essential role in our rotation. They are functionally similar in that they ensure our GCD next spell with a cast time (with some caveats) can be cast immediately without Dualcast. In practice, these will be paired with Verthunder III and Veraero III for single target scenarios, or Impact for AoE. Swiftcast in particular may occasionally be used for Verraise when reviving multiple people quickly is needed.
+In general, Prefulgence should be used in buffs whenever possible. If you’re unsure about whether you can hold Prefulgence long enough for the next buff window, simply compare the timer with your Embolden cooldown timer, which should be aligned with the party: if Embolden is coming up in 15 seconds and the Prefulgence Ready buff has 25 seconds left on the timer, then it will easily be available for the upcoming buff window.
 
-**Acceleration**
+The 110s cooldown on Manafication often causes confusion on whether it should be held for Embolden or used on cooldown, but **in fights with unknown killtimes, using Manafication on cooldown is often the better choice from a risk vs reward perspective.** That is because the cost of losing a full additional use is higher than misaligning it (due to the power of a full combo plus Prefulgence), and when rushing Manafication, we can still always do 1-2 normal melee combos (and usually Prefulgence) under buffs anyway.
 
-Ensures the next Verthunder III, Veraero III, or Impact can be cast immediately without Dualcast. We have two charges of this ability. If we cast other spells with Acceleration up, we will hardcast them per usual and the Acceleration buff will not be consumed. As a bonus effect, it guarantees a proc from Verthunder III and Veraero III, and gives a 50 potency boost to Impact.
+That said, saving Manafication for raid buffs is easier to execute. If you prefer an easier playstyle and are willing to gamble on losing a use of Manafication, you can do that if you wish as long as you are aware of the potential downside. Ultimately, the "optimal" choice depends on the encounter and killtime, so you should be prepared to learn both.
 
-**Swiftcast *(role action)***
+Here is an image showing the gap between both cooldowns, and why the longer a fight goes, the higher the chance of gaining an additional use:
 
-Ensures the next spell can be cast immediately. While there is no bonus effect on procs or potency, it has the niche use of being usable on other spells, most notably Verraise if you wish to revive someone more quickly without Dualcast.
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfUxuDB9S2726AafGsmUcDyQaI9ndIzSm8NI00s-CnbUpib66re4H_9G4AcZrVDL_3vRdTzAVgSsifUiA2FroMHvoI3jKLLBJsofQx4qoRJ9iuoUUhIWh3qxdDm7MTp2XQo4Xmny8iSu4YjKQyOzKOeiqwL?key=g0mOyOwaD_13c10-GmC5Xg)
 
-When using Acceleration or Swiftcast, our most important usage is to keep GCD uptime during movement when it would otherwise be impossible or very risky to Dualcast or melee combo. This takes priority over everything else.
+In general, do not use Manafication during downtime. There is some theoretically niche optimization potential there to be further tested on certain encounters, but is unnecessary for standard play.
 
-Our second priority is to keep our oGCDs aligned (more on this below) so we can weave them without delay. Assuming we used the general purpose opener, an easy rule of thumb is “one Acceleration or Swiftcast per melee combo, from the second combo onwards”. This is primarily to ensure we don’t lose a use of Fleche and/or Contre Sixte over time due to their high potency and short cooldown timers, but can affect other oGCDs as well.
+## Core damaging oGCDs: Fleche, Contre Sixte, Engagement, and Corps-a-corps
 
-Lastly, we can use Acceleration or Swiftcast to gain procs. In a vacuum, Acceleration or Swiftcast uses are also a damage gain, as they help us replace the weaker hardcast spells on our timeline with Verthunder III/Veraero III/Impact (per two uses). However, we do not simply use these abilities on cooldown, because doing so increases the likelihood of losing a use of Fleche and/or Contre Sixte. Therefore it is best to see procs or the small damage gain as a “bonus effect” to using these abilities efficiently.
+Red Mage has several oGCD abilities that are simply used for extra damage. Maximize uses first, then consider putting them into raid buffs or potions second. Our main damaging oGCD abilities which have carried over from Endwalker are the following, in order of highest importance (most damage) to lowest (least damage):
 
-When Acceleration and Swiftcast are both available, you can use Swiftcast if both procs are up, and use Acceleration if one or no procs are up to maximize damage from procs. In planned optimization settings, you can try to maximize uses instead by prioritizing Acceleration first if both charges are up, followed by Swiftcast if only one Acceleration charge is up, and have your second Acceleration charge be your last priority (for recast timer reasons). As a side note, when all of our instant-cast ability buffs are up, they get consumed in this order regardless of the order they were pressed: Acceleration > Dualcast > Swiftcast.
+* Fleche
+* Contre Sixte
+* Engagement or Displacement (two charges)
+* Corps-a-corps (two charges)
 
-### OGCD Alignment
+These abilities are simply to be used on cooldown according to the above priority. The more uses of them we get, the better. Because none of these abilities follow a 30 second cycle (Fleche’s cooldown is 25 seconds and the other three have 35 second cooldowns), raid buffs are a secondary consideration, and holding these abilities for too long risks lost uses. You can afford to hold a single charge of Engagement/Displacement and Corps-a-corps for buffs for a bit of bonus party damage, but make sure to never overcap on both charges.
 
-We only weave during our Dualcast window, which occurs every two casts (2.5 sec + 2.5 sec if no Spell Speed). Our oGCD cooldowns are in multiples of 5 (25 for Fleche, 35 for Contre Sixte, 120 for Embolden, etc.). This means if we stand there casting spells forever, our oGCDs will continue to come off cooldown during the instant cast part of our Dualcast, and not mid-hardcast.
+Engagement and Displacement share cooldowns. **We primarily use Engagement in our rotation instead of Displacement due to the 15-yalm backflip being risky in a lot of raid scenarios or arenas.** Corps-a-corps also has a gap closer effect, so be careful about using it at the wrong time to ensure you don’t accidentally dash into an AOE.
 
-However, our melee combo swaps this Dualcast rhythm: our melee hits add up to approximately 5 seconds, and we have three 2.5 second finishers. Swiftcast and Acceleration also swap this Dualcast rhythm around by allowing us to do a single instant cast.
+## Swiftcast and oGCD alignment
 
-Therefore, to prevent forced oGCD drift, we can “realign” our Dualcast by using one Swiftcast or Acceleration per melee combo from our second melee combo onwards. Note that there are further complexities to this such as aligning our Dualcast with mechanics, weaving during melee combo, spell speed, double melee combos, and more – this is just the basic concept. Think of the “one Swiftcast or Acceleration per melee combo” concept as a general rule of thumb to prevent excess drift, and not a hard rule that you have to stick to no matter what. In addition, you do not have to immediately weave Swiftcast or Acceleration after a combo to fix your alignment – it simply needs to be done before the next time an important oGCD comes off cooldown.
+Swiftcast ensures that the next spell we cast is instant, which helps with movement. We should generally only use this for Verthunder/aero III, Impact (for AOE), or if we need a slightly quicker Verraise to save a run. That said, its primary purpose in our rotation should be for **keeping our oGCDs aligned and preventing drift: especially of Fleche, Contre Sixte, and Embolden.** Using Manafication on time is also important but there is usually a few more seconds of leeway, even when rushing.
 
-Also keep in mind that if you have both Swiftcast and two charges of Acceleration available and will not need them for any upcoming movement, you can use two of these together to begin their cooldowns while not causing any oGCD drift. A video demonstration of this oGCD alignment concept can be found [here.](https://www.youtube.com/watch?v=_Dx7DYPda5c)
+For those that did not play Red Mage in Endwalker, here’s how it works: We typically weave oGCDs after our Dualcasted instant cast spell, which occurs every two casts (2.5 sec + 2.5 sec = 5 sec if no spell speed). Our oGCD cooldowns are in multiples of 5 (25 for Fleche, 35 for Contre Sixte, 120 for Embolden, and so on). This means if we stand there casting spells forever, our oGCDs will theoretically continue to come off cooldown during the instant cast part of our Dualcast, and not mid-hardcast.
 
-## Manafication
+However, our melee combo swaps this Dualcast rhythm: at base spell speed, our three melee hits amount to 5.2 seconds (1.5 + 1.5 + 2.2), and the three combo finisher spells amount to 7.5 seconds. This adds up to 12.7. For purposes of simplifying oGCD alignment, you can even think of it as 12.5, which is nonetheless not even close to a multiple of 5. This means the next time our oGCDs become available, assuming full uptime, they will come up while we are hardcasting.
 
-Manafication, one of the most important abilities in our kit, has some nuance to its optimal usage. To start off, Manafication should be used on cooldown by default. Because of its 110s cooldown, Manafication drifts ten seconds farther from Embolden with every usage. This means closely aligning Manafication with Embolden runs a higher risk of losing an entire use of Manafication the longer a fight goes on.
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXd0jbxj6nPEzNruCdBpLCQaMwTCvDRAakra9tTxWWjur1ZYdwd-wewu3z0rZ4GffjTR_1rYLo4Sl4Ct2xYx6oPzH45YTHHTDZxmvS_-ZHIS2UrzS4GIIzkqkWjuY0tEqNspgmG9t4CfFTuM7GOYdmyqkXCm?key=g0mOyOwaD_13c10-GmC5Xg)
 
-A common misconception by newer players is that Manafication should always be held for Embolden, but this is not the case. Losing a usage of Manafication means losing not just the 5% damage buff, but also an entire melee combo, a loss far exceeding the minor potency gain of stacking Manafication and Embolden. In addition to this, desyncing Manafication with Embolden does not mean losing a combo under Embolden entirely – thanks to the flexibility of our melee combo, we can easily store enough mana to combo under Embolden without the need for Manafication. Therefore, in fights where the killtime is unknown, Manafication should be used on cooldown, and you should aim to use non-Manafication buffed combos under your Embolden.
+There are further complexities such as weaving during melee combos (try to avoid weaving an important oGCD after Enchanted Zwercchau) and some spell speed considerations when in progression gear, but that’s the general idea. This is where Swiftcast comes in: it allows us to cast a spell like Verthunder/aero III instantly without having to prepare Dualcast. Add a single 2.5 spell to the ~12.5 melee combo, and we’re at 15: a multiple of 5.
 
-However, it is preferable to save Manafication for Embolden windows in scenarios where you are guaranteed to not lose a usage. These situations include consistent kill times as well as specific fight phasings. While this scenario is often the exception rather than the norm, aligning our 5% buff with the party buff window is the correct play under these circumstances.
+**The more general rule of thumb is to use it before or after a single or triple combo (but not double combo). It can also be used for Verraise if urgent recovery is needed.**
 
-Another important characteristic of Manafication is the ability to use it between Enchanted Redoublement and Verholy/Verflare. Manafication explicitly breaks any existing combo, which means you cannot use it between melee weaponskills or finishers. However, as mentioned previously, our melee weaponskills and finishers are considered two separate combo chains by the game, so using Manafication after Enchanted Redoublement will not cause us to lose Verholy/Verflare from combo breakage.
+This may seem complicated at first, but it’s fundamental to playing the job well because **maximizing Fleche and Contre Sixte uses while keeping Embolden aligned with the group is key to optimizing Red Mage.** Practice on a dummy on a 2.48 GCD or slower to get an idea, and eventually you should notice Fleche, Contre Sixte, or at times other oGCDs coming up inconveniently in the middle of a cast. The more this happens across a raid encounter, the more likely you are to throw away a significant amount of damage.
 
-The main benefit of using Manafication in this fashion is to get it on cooldown faster without significantly overcapping on mana in situations where you have high mana with Manafication off cooldown. When doing this, your first three Manafication stacks will be used on your finishers, while the last three can be used on the first three hits of an immediate second combo, effectively buffing the same GCDs as using Manafication before your combo.
+## Acceleration and Grand Impact
 
-## Melee Combo With and Without Buffs
+In Dawntrail, Acceleration is an ability with a lot of features. The tooltip states:
 
-Due to our gauge capacity being twice the cost of a melee combo, we have a lot of flexibility on when to use our melee combo. Outside of buff and potion windows, the timing of our melee combos has no effect on our damage, only affecting our oGCD alignment which can be fixed with Swiftcast or Acceleration. Therefore, our unbuffed melee combo should be used whenever is best for a given encounter. As nothing in the combo has cast times, choosing combo timings based on mobility requirements in fights gives us a significant advantage.
+* Ensures the next Verthunder III, Veraero III, or Impact can be cast immediately. (Duration: 20s)
+* Additional Effect: Increases the potency of Impact by 50
+* Additional Effect: Ensures Verthunder III and Veraero III trigger Verfire Ready or Verstone Ready respectively
+* Additional Effect: Grants Grand Impact Ready (Duration: 30s)
+* Maximum Charges: 2
 
-### Party Buffs
+Grand Impact Ready, a new effect we get from a level 96 trait (Enhanced Acceleration II), allows us to cast **Grand Impact**, another instant-cast GCD AOE spell that hits the first enemy for 600 potency and 60% less for all remaining enemies. It also increases both black mana and white Mana by 3. Grand Impact will also replace Jolt III and Impact on the hotbar until used. In short:
 
-Outside of mobility, the most important way to utilize melee combo is to always have enough mana to use one under buffs. This will generally be every two minutes, but can also occur if an Astrologian gives you a ranged card. As our melee combo is our most significant burst window, our goal is to maximize its usage under buffs. While our own Embolden lasts 20 seconds, there are multiple 15 second party buffs in the game. A full melee combo is around 12.7 seconds long, so it’s vital to begin our combo on time to land our strongest finishers under them.
+* Do not overcap on charges. We now want to maximize uses because of the DPS gain from Grand Impact.
+* Save one charge for movement.
+* To avoid complicating oGCD alignment, we can default to using the instant-cast spell and Grand Impact back-to-back for movement. It can also be used as a temporary fix for oGCD alignment issues (keep the Fleche/Contre Sixte/Embolden cooldowns running) if Swiftcast and a melee combo are not available.
+* It can be worth using under buffs if we are only doing a single combo under buffs, but this is not a priority for fundamental play. Learn to maximize uses and keep full uptime with movement first.
+* Generally, we can use Acceleration during downtime as long as the boss will be targetable in 15 or so seconds (we can re-open with an Acceleration-boosted GCD, a Dualcasted GCD, and then Grand Impact for three instant casts in a row).
 
-Our baseline is to land one singular melee combo under full party buffs every buff window. However, as our own Embolden and certain other party buffs are 20s long, it is possible to fit more than a singular combo under it. While we cannot fit two full combos under 20s buffs, we are able to fit three finishers and a full melee combo. In order to accomplish this, we aim to begin our first melee combo around five seconds before Embolden comes off cooldown. This allows us to hit Embolden after Enchanted Redoublement, buffing our three finishers and our immediate second combo. If you aim to do this, it is important that you **time your own rotation around Embolden’s availability, and not the other way around**. Embolden is a party buff and should not be used selfishly. 
+Grand Impact has further intermediate and advanced potential for optimizing damage, managing oGCD alignment, or min maxing procs that will not be covered in this preliminary version of the guide.
 
-![Embolden Example](/img/jobs/rdm/exembolden.png)
+# Party utility and recovery
 
-*An example Embolden window*
+## Addle and Magick Barrier
 
-### Potion
+These are free abilities used to reduce incoming damage to the party. **Note that in raiding, these should not be considered optional**. They are oGCDs that can significantly help the party’s survivability, being mandatory in Ultimates and at a lower item level in Savage.
 
-Our potion window, being 30 seconds long, does allow us to fit two full melee combos under it. A basic approach to this would be to use your potion before buffs are available at the start of your first combo, so that your finishers and second combo will ideally land under buffs. Doing this, however, leaves us with nearly a full five seconds in our potion window, enough time for two GCDs. This means it’s possible for us to not only fit two full melee combos under our potion, but also a third Scorch and Resolution.
+**Magick Barrier** provides 10% partywide magical mitigation and a 5% boost to healing actions (including oGCDs) for ten seconds. It’s particularly valuable in heal checks and in situations where the party is together but the boss is untargetable.
 
-There are two requirements to pull this off. One, a minimum of 73|73 mana, and two, Manafication being available no later than our second combo. We start our first melee combo before using a potion, choosing instead to pot after our first Verholy or Verflare. Doing this allows us to land our first Scorch and Resolution in the pot window, followed by two subsequent combos, at least one of which should also land under party buffs. Depending on the amount of Black and White mana you begin with, you can either use Manafication before the first set of finishers, or delay it to avoid significant mana overcap. Very slight overcap is generally accepted as it will rarely lead to a melee combo loss, but this may vary based on encounter and party killtime.
+**Addle** (role action) lowers the target’s physical damage dealt by 5% and magic damage dealt by 10% for 15 seconds at level 100. Since it targets the boss, it is particularly useful for when the party is spread out. While physical damage tends to be less common than magic damage, there may be instances that the physical damage reduction can be useful too (e.g. a magical tank buster followed by physical autos).
 
-![Potion Example](/img/jobs/rdm/example-potion-window.png)
+Over the course of an encounter, we ultimately want to work with our party to maximize the value we gain from these abilities. Another important thing to note about mitigation is to always be consistent with application. Inconsistent mitigation can be worse than having no mitigation as it can cause unexpected deaths in early progression where health and damage margins are tight. If you’ve made a mistake and are unable to apply your mitigation at expected times, communicate with your party to see if the missing 10% can be made up with shielding or another form of % mitigation.
 
-*An example potion window*
+## Vercure
 
-Both the Embolden and potion scenarios above assume that the extra combos used under them are not needed elsewhere. As mentioned, your baseline is to get one melee combo under party buffs and two in your potion. If the extra melee combo to gain additional finishers under buffs or potion is needed elsewhere for movement, it is far more important to use them to maintain uptime as losing GCDs on the boss will negate any gain from moving a few GCDs to be under buffs.
+Since Vercure is a GCD and comes at the expense of our DPS spells whenever the boss is targetable (which do damage and generate mana for our melee combos), **we do not use this spell for sustained healing in active combat**. The primary uses are:
 
-Ideal potion timings vary depending on encounter length and design. It can sometimes be optimal to use potions on cooldown, or to use our first potion at two minutes with a double or triple combo. However, in most scenarios, the default approach is to use one in the opener and a second one at around six minutes under raid buffs until killtimes are known.
+* Casting Vercure during downtime to proc Dualcast, which allows us to instantly cast Verthunder III or Veraero III when the boss returns.
+* Healing ourselves or party members when the boss is untargetable if needed (no DPS loss because there’s no tradeoff).
+* Vercure’s heal is potent enough to be useful during clutch moments, such as saving someone who is low HP from dying to a raidwide when the healers are busy healing AoE damage. This tends to take a high degree of raid awareness and reaction speed to pull off, and can be seen as a more advanced maneuver.
 
-## Utility and Party Support
+## Verraise
 
-In raids, DPS jobs are expected to provide some amount of utility to the party from either role skills or unique individual abilities. This is primarily in the form of damage mitigation, but can also take the form of recovery. In line with the job’s identity across Final Fantasy history, Red Mage in particular is known for providing a lot of support while doing respectable damage.
+A resurrection spell that can be instant cast via Dualcast or Swiftcast with a high MP cost (2,400), which is very useful for saving runs from wiping. Red Mage is often chosen in progression for this ability because you can raise multiple people back-to-back with Dualcast and Swiftcast. For priority:
 
-### Party Mitigation
+* **Red Mage should res first in progression**, because healer MP tends to be more valuable for healing while still learning the fight. Use Super-Ethers to support this.
+* **In kill attempts or reclears where the damage starts to matter, it should be case by case**. Healers should have their plans better settled with some reserve MP, and there are considerations like if we are doing melee combo, is it a burst window, does the healer need to Swiftcast a heal somewhere, etc.
+* **In a static**, communicate with and develop some chemistry with your healer. 
+* **In party finder**, default to raising if you need to save the run or the healers are handling heal checks, but consider allowing your healer to Swiftcast raise if they are able to and there is no immediate urgency.
 
-Red Mage has two party mitigation abilities, both of which can be done by pressing an oGCD button at no DPS loss. These abilities can often save the party from a wipe or reduce required healing output, particularly when used in a coordinated manner with others. In a static, it is best to coordinate cooldowns with your party and see where healers need the most help. In an unorganized environment (such as in party finder), you can exercise judgment to see where the party takes more damage.
+# Other Role Actions
 
-**Magick Barrier**
+## Sleep
 
-Provides 10% partywide magical mitigation and a 5% boost to healing actions (including oGCDs) for ten seconds. Since it is a party buff, party members need to be in range to gain the effect. On the plus side, it can be used to mitigate damage coming from untargetable sources. Magick Barrier is especially useful for “heal checks”, where there are repeated instances of damage and the healer has to use multiple heals to keep the party alive.
+This is unlikely to find much use in raids or dungeons. Raid bosses are generally immune to status effects, and hitting a sleeping normal mob will wake them up anyway. However, Sleep can have some niche uses disabling enemies in the overworld or certain types of instanced content, like in Eureka. This spell can proc and consume Dualcast, and can also be Swiftcast.
 
-**Addle *(role action)***
+## Surecast
 
-Lowers the target’s physical damage dealt by 5% and magic damage dealt by 10% for ten seconds. Since it is a boss debuff, it cannot be used on untargetable damage sources. But on the plus side, party members don’t have to be in range for it to work. This makes it particularly useful for heavy instances of damage where the party has to spread out. While physical damage tends to be less common than magic damage, there may be instances that the physical damage reduction can be useful too (e.g. a magical tank buster followed by physical autos).
+Nullifies most knockback and draw-in abilities from enemies. Not only will this be useful for surviving mechanics, but it can also help us ensure our casts don’t get interrupted. Some mechanics explicitly ignore Surecast, but there is no good way of telling ahead of time.
 
-While both Magick Barrier and Addle have subtle differences, they can often be used interchangeably for general damage reduction on standard magical raidwides or stacks.
+## Lucid Dreaming
 
-The key thing to remember is that using our mitigation oGCDs is not a DPS loss. One Magick Barrier/Addle may not always be the difference between life or death, but a party where every player contributes to mitigation will be leaps and bounds more effective at clearing content. Some content such as Ultimate or early week Savage cannot be cleared if DPS players do not assist with damage mitigation. **As such, it is best to view mitigation usage as a mandatory and expected part of our kit. Not optional.**
+RDM’s rotation is MP negative so Lucid Dreaming is necessary to keep our GCD rolling. An advisable time to press it is when you have around 70% MP remaining. Don’t wait until MP runs out, because we may suddenly need to Verraise people to save the party from wiping.
 
-Another important thing to note about mitigation is to always be consistent with its application. Inconsistent mitigation is worse than having no mitigation as it can cause unexpected deaths in early progression where health and damage margins are tight. If you’ve made a mistake and are unable to apply your mitigation at expected times, communicate with your party to see if the missing 10% can be made up with shielding or another form of % mitigation.
+# Mana vs potency?
 
-### Recovery
+**“Potency per mana” is not a realistic or practical metric that can be used to make rotational decisions.**
 
-In addition to mitigation, Red Mage has two party recovery GCD spells that can be Dualcast: Vercure and Verraise. Both of these abilities are capable of saving runs and reducing healer load, but are used very differently.
+It’s common to wonder whether mana can be understood as potency/damage, and many have attempted “potency per mana” calculations through some version of dividing a melee combo’s potency (or potency difference vs casting spells over the same period of time as an opportunity cost) by the mana cost. However, there are problems with this:
 
-**Vercure**
+* We do not have a reliable gauge spender with any kind of flexibility. We can only convert mana into damage at 50|50 mana (leaving aside much worse broken melee combos or Enchanted Reprise). Likewise, a combo at 75|75 mana does not do more damage than a combo at 50|50 mana.
+* Outside of Jolt III vs Verfire/stone in level 90 Ultimates or very situational two-target phases in older Ultimates, there are no situations where we even get to choose between a small potency gain vs a small mana gain in a way that has any value. There are too many other variables that would make even a theoretical infinite loop answer irrelevant.
+* Wrong conclusions can be easily drawn if lacking a more holistic understanding of the game and people take numbers like this at face value (e.g. fussing over optimizing procs for mana gain at the expense of other more important aspects of the rotation).
 
-Since Vercure is a GCD and comes at the expense of our DPS spells (which do damage and generate mana for our melee combos), **we do not use this spell for sustained healing in combat.** No raid content is designed in such a way that DPS need to repeatedly use single target heals, making Vercure far more useful in solo content. Our standard use for Vercure in raids is to proc Dualcast during downtime when the boss is untargetable for damage. 
+While it might be a novel thought exercise, mana vs potency is an “interesting but somewhat impractical reference” at best, and “actively misleading” at worst for actually learning how to play the job, depending on who is reading it. This is in part due to Red Mage being a job that is at its best making dynamic adjustments based on encounter design and killtimes, as opposed to following a strict minute-based cycle and ruleset.
 
-A notable exception to this would be during downtime mechanics where party members are taking damage and the boss is not targetable, such as Wormhole Formation in Alexander Ultimate. Using Vercure to heal yourself or party members during downtime mechanics is not a DPS loss and should be attempted if it does not distract you too much from performing your own mechanics.
+For intermediate-advanced encounter planning on Red Mage, understanding mana gains/losses as a function of time (in the form of “spell casts until a future melee combo”) is probably more useful for assessing potential tradeoffs, i.e. about 5-6 mana will bring us 1 GCD closer to a future melee combo, on average (i.e. reaching the 50|50 threshold 1 cast earlier). 
 
-In combat, however, Vercure’s heal is potent enough to be useful during clutch moments, such as saving someone who is low HP from dying to a raidwide when the healers are busy healing AoE damage. This tends to take a high degree of raid awareness and reaction speed to pull off, and can be seen as a more advanced maneuver. In short, as a form of utility, Vercure can be used in one off situations to fire off a “clutch” heal, but there should never be a situation in standard raids where you are regularly expected to heal with Vercure. 
+Whether that makes any difference at all depends on expected killtimes, expected number of combos throughout an encounter, buff alignment, mechanics timings, phasing, and more. This will be covered in depth in an advanced RDM guide in future.
 
-**Verraise**
+# Rotation
 
-A resurrection spell that can be instant cast via Dualcast or Swiftcast with a high MP cost (2,400), which is very useful for saving runs from wiping. Red Mage is often chosen in progression for this ability because you can raise multiple people back-to-back with Dualcast and Swiftcast.
+## General rotation with infographic
 
-**A common point of contention is “when should the caster or the healer raise”.** In progression, where the focus is learning mechanics and DPS doesn’t matter, the Red Mage should cover as many resurrections as possible to help healers save MP (ideally with Super-Ethers). This applies even when healers have Swiftcast available as healer GCDs for emergency healing and MP pools are more important than your personal DPS in early progression.
+![](https://i.imgur.com/LGRfOzV.jpeg)
 
-However, besides the relatively minor potency loss from not casting Verthunder III or Veraero III, we also generate 0 mana from a Verraise. So you may delay or lose a melee combo from too many uses. **As such, when going for a kill or farming, we should decide when to raise on a case-by-case basis.**
+Infographic: <https://imgur.com/a/Tn3bvlq> 
 
-There are many variables at play. These include MP, healer Swiftcast availability, healer playstyle/gear, level of incoming damage, our own melee combo timings (e.g. not breaking our melee combo to raise), severity of DPS check, and more.
+Our rotation is as follows:
 
-If in a static, try to work together with or communicate with your healer. For maximum party effectiveness, you should be ready to share the load and cover for each other if needed. In a party finder environment, default to raising if you need to save the run or the healers are handling heal checks, but consider allowing your healer to Swiftcast raise if they are able to and there is no immediate urgency.
+* Dualcast spells to build mana. Prioritize Verfire/stone procs over Jolt III if they're up. 
+* Melee combo at 50|50+ mana. Use Verflare if white mana is lower than black mana, or vice versa for Verholy if 0 or 2 procs are up. If only 1 proc is up, use the other finisher provided it doesn’t imbalance your mana.
+* Base damaging oGCDs: Use on cooldown (priority: Fleche > Contre Sixte > Engagement > Corps-a-corps).
+* Vice of Thorns and Prefulgence: Prioritize using them under buffs, although it can be a DPS gain to hold them for AOE damage if the situation allows it. Never let them fall off.
+* Swiftcast: Use for oGCD alignment before or after a single or triple combo (but not double combo). Can be used for Verraise if urgent recovery is needed.
+* Acceleration: Use 1 charge on cooldown, and hold the 2nd for either movement or temporarily fixing oGCD alignment to avoid drifting Fleche, Contre Sixte, or Embolden (using Grand Impact and Verthunder/aero III back to back simplifies this). Grand impact in buffs is optional to accompany a single melee combo in buffs, but not a priority.
+* Manafication: Use on cooldown in unknown killtimes, but only when the boss is targetable. Align with Embolden only if you’re sure you won’t lose a use, or are willing to gamble on the DPS loss of doing so.
+* Burst windows: Always save enough mana for one melee combo under buffs. If possible, two is ideal, but not necessary.
 
-### Other
+## Openers
 
-**Sleep** *(role action)*
+**Red Mage is somewhat flexible with its openers**: often, prioritizing one thing comes at the expense of another (i.e. buff damage potency vs Fleche/Contre Sixte usage vs movement flexibility for mechanics), and **what is actually optimal or most practical will depend on encounter design**. If further discoveries are made or job changes occur, these openers will be adjusted for future versions of the guide, and readers can also expect fight-specific Savage and/or Ultimate openers to be made for encounters with more unique timelines. At time of writing, there are three general purpose openers that are viable for their own reasons:
 
-New role action in Endwalker. This is unlikely to find much use in raids or dungeons. Raid bosses are generally immune to status effects, and hitting a sleeping normal mob will wake them up anyway. However, Sleep can have some niche uses disabling enemies in the overworld or certain types of instanced content, like in Eureka. This spell can proc and consume Dualcast, and can also be Swiftcast.
+### Standard opener (highest damage, strictest rotation)
 
-**Surecast** *(role action)*
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdLg1tf9coceW2A_PokhgXaaGsUxohp4MEtwXM72O8XUupVeqeX90T-9Bv0OP-YPAFCIsW-NW7ElQsKCCLzoi7iqi-Kl5EUY_n2av5E1fws_A6_O_rGNpcrHex6U19Nsg6qJGxdJoPV3YEHW9Xt2UV4r3tX?key=g0mOyOwaD_13c10-GmC5Xg)
 
-Nullifies most knockback and draw-in abilities from enemies. Not only will this be useful for surviving mechanics, but it can also help us ensure our casts don’t get interrupted. Some mechanics explicitly ignore Surecast, but unfortunately there is no good way of telling ahead of time. 
+<https://i.imgur.com/5TW44kN.png> (update: fixed formatting on text in graphic)
 
-**Lucid Dreaming** *(role action)*
+The standard opener puts the most damage under buffs with Contre Sixte and two Grand Impacts back-to-back, as well as optimized Swiftcast and proc usage. The drawback is that oGCD alignment from the opener until two minutes becomes very strict, with an Acceleration use required to double-weave Fleche and Contre Sixte at approximately the 78-second/1 minute 18 second mark, and an additional Swiftcast used to keep the Fleche cooldown rolling just before the triple combo for the 2-minute buff window (it will be back in time after the triple combo for oGCD alignment). This sequence and subsequent oGCD alignment is quite strict and may take some practice.
 
-Gradually recover MP, totalling 3850 MP restored over its full duration. RDM’s rotation is MP negative so Lucid Dreaming is necessary to keep our GCD rolling. An advisable time to press it is when you have around 70% MP remaining. Don’t wait until your MP runs out, because you may suddenly need to Verraise a few people to save your party from wiping.
+### Early C6 opener (more flexibility)
+
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcpC3aY0YmgK7_f66_F4t8DAxYJ65YqwkuopPZxa1uvrcSuJ8hkzKS7reOKk_MohSR2q1hCZ55EIv67HWGqw7pu3EQUNVvJ-YNPgSiMP1v17q92-4q45FSAs6GmApHBlWUDGXOMSOWhgmcenIuYKR6Jr9-V?key=g0mOyOwaD_13c10-GmC5Xg)
+
+<https://i.imgur.com/FllnKZO.png> (update: fixed formatting on text in graphic)
+
+This opener sacrifices a bit of buff damage and optimized Swiftcast usage for increased flexibility on movement, and an earlier use of Contre Sixte if needed for certain phases or killtimes. The last Swiftcast double weaved at the end with the Contre Sixte is technically flexible; that is simply the earliest point it can be used without resulting in drifting the second Contre Sixte (in general, do not use Swiftcast before that Contre Sixte). Also, using Grand Impact before Embolden here will have it buffed by jobs that send buffs earlier (2nd GCD).
+
+### Single weave potion opener
+
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeSQms-QT_-X65Z3bi5Q1vzm4H_toQ4OWDozp3Dmpf8dWuvHv0z_0J86bL6kZ8FVRuKNt-aNZ8vOQJeMmoux12f_xUxDKGihalveINIqamQ_DPDv1KhYr8xk-zouPd4PwsZzOnEwXufhcbvbnla12xW3evZ?key=g0mOyOwaD_13c10-GmC5Xg)
+
+<https://i.imgur.com/cqjimUe.png> (update: fixed formatting on text in graphic)
+
+Patch 7.0 has shortened the animation lock for double weaving potions, though the queuing is still delayed. This opener is a slightly lower potency option for those who still can't comfortably double weave potions with their latency to the server. Note that the last Contre Sixte will drift by one cast, similar to the Endwalker standard opener.
+
+## Buff windows
+
+T**riple comboing at two minutes is recommended with 73|73 or above mana (starting 15 seconds before Embolden comes up if rushing Manafication, or 17 for buff damage potency)** regardless of whether we use potion in the opener or during the 2-minute window. One reason for this is because it makes oGCD alignment easier. Much like Endwalker:
+
+* **Triple combo** -17 or -15 seconds before buffs. If using potion here, use it after the first Verflare/holy to ensure three sets of Scorch/Resolution are caught under the potion buff (assuming 73|73 or higher mana to start).
+* **Double combo** -5 seconds before buffs (Embolden after first Verflare/holy) or -1 second (Embolden after first Enchanted Riposte). If using potion for a double combo, just use it anytime before starting the combos.
+* **Single combos** can be used at the start of buffs or even 1 GCD after they go off, as our combo lasts ~12.7 seconds, and all buffs now last for 20 seconds (technically 2 GCDs after buffs go off are possible too, but some jobs may send their buffs a bit earlier so it’s better to play it safe). 
+* **Grand Impact into buffs** to accompany single combos are worth consideration, but are best assessed on a fight-by-fight basis and not assumed as a default since there are other more important priorities for Acceleration.
+
+Buff windows from four minutes onwards tend to be more variable due to mechanics, downtime, higher chance of mistakes, mana lost from lost uptime or Verraising, or predictable killtime ranges. **Double combo during these buff windows if you can (92|81 mana without Manafication)**, single combo otherwise. It should always be possible to get at least one combo under every buff window.
+
+# Advanced or Niche Considerations
+
+There are several aspects to Dawntrail RDM that warrant further exploration and testing:
+
+* **Encounter-specific openers, including pre-pull Acceleration** for an additional Grand Impact (with or without right clicking the buff off for the instant GCD) to gain an extra use in predictable killtimes.
+* **Downtime Manafication**. If we gain an additional use of Manafication during uptime, it is a clear DPS gain due to +1 melee combo and +1 Prefulgence. But during downtime, more interestingly, we can Vercure ourselves six times (assuming no delay) to proc the Prefulgence Ready buff. If this results in an extra use of Manafication, that is still a gain (i.e. +0 melee combo and +1 Prefulgence is still an overall DPS gain in a vacuum).
+* **Maximizing Swiftcast uses across an encounter with zero oGCD drift** will require strict rotation and timeline planning. With Acceleration being usable as a temporary fix for oGCD weaving if Swiftcast is on cooldown (it does not shift alignment but it allows us to keep the cooldowns cycling if we shift alignment later), there are many possibilities.
+* **Maximizing potency value of Acceleration and Grand Impact**. In theory, Grand Impact is a gain over Verthunder/aero III during buff windows, but a loss if it comes at the expense of melee combo finishers. With strict Acceleration and Grand Impact planning, it is possible to plan encounters in such a way that we save Grand Impact for buffs without losing a use of Acceleration, assuming scenarios where we single combo under buffs (e.g. when rushing Manafication).
