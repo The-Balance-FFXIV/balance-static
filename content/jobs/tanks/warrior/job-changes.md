@@ -55,6 +55,20 @@ changes:
 
 
       Storm's Path, Storm's Eye, Fell Cleave, Inner Chaos and Upheaval buffed by 10~30 potency each.
+  - patch: "7.0"
+    description: |-
+      Dawntrail is upon us!
+      Warrior gains:
+      - Various traits
+      - Damnation (Vengeance upgrade, 40% mitigation)
+      - Wrath (Inner Release follow-up, oGCD)
+      - Primal Ruination (Primal Rend follow-up)
+  - patch: "7.01"
+    description: >-
+      - Primal Ruination timer reduced from 30s to 20s. This kills the Ruination
+      Smuggle technique.
+
+      - Added enmity multiplier to various AoE skills
 authors:
   - Balance-WAR-Staff
 ---
