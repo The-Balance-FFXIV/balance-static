@@ -16,13 +16,15 @@ changelog:
   - date: 2023-06-10T03:34:39.485Z
     message: No changes, updated patch number
 ---
-# Red Mage Level 90 Guide for 6.x
+# Red Mage Level 100 Guide for 7.x (Preliminary)
+
+Currently, this guide is in a **preliminary state**, which aims to cover a basic overview of the Red Mage changes brought with Dawntrail along with an introduction to new rotation and opener concepts. A more detailed version of the guide will be updated 
 
 ## Overview
 
-This guide will cover proper rotations and ability usage in the Endwalker expansion. While the core foundation of Red Mage has not changed at all since its introduction in Stormblood, many smaller changes and quality of life improvements made in Endwalker have changed how we approach different aspects of the job.
+This guide will cover proper rotations and ability usage in the Dawntrail expansion. While the core foundation of Red Mage has not changed at all since its introduction in Stormblood, many smaller changes and quality-of-life improvements made in Dawntrail have changed how we approach different aspects of the job.
 
-At its simplest Red Mage has you casting spells to build your Black and White Mana to 50|50 and then spending that mana to use a melee combo with powerful finisher spells. Red Mage is a very intuitive job, making it a great pick for beginners or people looking for something easier to pick up. The simplicity of its base rotation makes it a great choice for learning new fights, and the large amount of utility it comes with also provides great support to your party. Despite these things, high-level Red Mage play still has plenty of optimization available and a high skill ceiling comparable to many other jobs in the game.**\
+At its simplest, Red Mage has you casting spells to build your Black and White Mana to 50|50 and then spending that mana to use a melee combo with powerful finisher spells. Red Mage is a very intuitive job, making it a great pick for beginners or people looking for something easier to pick up. The simplicity of its base rotation makes it a great choice for learning new fights, and the large amount of utility it comes with also provides great support to your party. Despite these things, high-level Red Mage play still has plenty of optimization available and a high skill ceiling comparable to many other jobs in the game.**\
 If you have more questions after reading the guide, feel free to ask in #rdm_questions on [The Balance server.](https://discord.gg/thebalanceffxiv)**
 
 ## Basic Introduction to Red Mage
@@ -31,17 +33,17 @@ If you have more questions after reading the guide, feel free to ask in #rdm_que
 
 [Beginner Infographic Lvl 50](https://imgur.com/jVXjTNf)
 
-[Beginner Infographic Lvl 90](https://imgur.com/qnOtaNq)
+[Beginner Infographic Lvl 100](https://i.imgur.com/LGRfOzV.jpeg)
 
-[Lvl 90 Rotation PoV (Manafic Rush)](https://youtube.com/watch?v=Y3HxPrpyh4I)
+[**Endwalker** Lvl 90 Rotation PoV (Manafic Rush)](https://youtube.com/watch?v=Y3HxPrpyh4I)
 
-[Lvl 90 Rotation PoV (2-min Aligned)](https://www.youtube.com/watch?v=p2gYTh-_on0)
+[**Endwalker** Lvl 90 Rotation PoV (2-min Aligned)](https://www.youtube.com/watch?v=p2gYTh-_on0)
 
 [Hotbar Examples](https://bit.ly/3ms1kwJ)
 
 ### Black and White Mana
 
-Red Mage’s job gauge, the Balance Gauge, displays the current amount of **Black Mana** and **White Mana** available. Black Mana is accumulated by casting Verthunder III, Verfire, Verflare, and Verthunder II, while White Mana is accumulated by casting Veraero III, Verstone, Verholy, and Veraero II. Casting Jolt II, Impact, Scorch, and Resolution will give both Black and White mana. 
+Red Mage’s job gauge, the Balance Gauge, displays the current amount of **Black Mana** and **White Mana** available. Black Mana is accumulated by casting Verthunder III, Verfire, Verflare, and Verthunder II, while White Mana is accumulated by casting Veraero III, Verstone, Verholy, and Veraero II. Casting Jolt III, Impact, G Scorch, and Resolution will give both Black and White mana. 
 
 *The gauge:*
 
@@ -51,27 +53,27 @@ An important part of Red Mage is keeping your Black and White mana “balanced,�
 
 ### GCD Spells and Dualcast
 
-Red Mage has two types of spells – what we refer to as long casts (5s cast time) and short casts (2s cast time). Damaging short casts include Jolt II, Verstone, Verfire, Verthunder II, and Veraero II while long casts include Verthunder III, Veraero III, and Impact.
+Red Mage has two types of spells – what we refer to as long casts (5s cast time) and short casts (2s cast time). Damaging short casts include Jolt III, Verstone, Verfire, Verthunder II, and Veraero II while long casts include Verthunder III, Veraero III, and Impact.
 
 Spells with longer cast times have higher potencies than our short casts and also generate more mana, but should never be hardcast with their full cast time outside the opener. Instead, we utilize these spells efficiently with our Dualcast trait. We gain the Dualcast buff from hardcasting a spell, which allows us to instantly cast any spell with a cast time. Our casting phase then follows a rhythm of hardcasting spells with short cast times to gain Dualcast, and then using the buff to instantly cast spells with longer cast time to maximize our potency and mana generation over time.
 
 Casting Verthunder III gives us black mana, while casting Veraero III gives us white mana. Every time Verthunder III or Veraero III is used, there is a 50% chance of receiving a proc, which allows us to cast either Verfire or Verstone respectively. 
 
-In single target scenarios, you cast Verfire or Verstone (or Jolt II if no procs are available) and then dualcast either Verthunder III or Veraero III. When choosing whether to dualcast Verthunder III or Veraero III, you should prioritize whatever mana type does not currently have a proc available. For example, if you cast Verstone and already have a Verfire proc available, your dualcast should be spent on Veraero (if it will not unbalance your mana) as you have spent your Verstone proc and have a chance of receiving another Verstone proc.
+In single target scenarios, you cast Verfire or Verstone (or Jolt III if no procs are available) and then dualcast either Verthunder III or Veraero III. When choosing whether to dualcast Verthunder III or Veraero III, you should prioritize whatever mana type does not currently have a proc available. For example, if you cast Verstone and already have a Verfire proc available, your dualcast should be spent on Veraero (if it will not unbalance your mana) as you have spent your Verstone proc and have a chance of receiving another Verstone proc.
 
-In two target scenarios, your primary rotation becomes Jolt II (or procs if available) into Impact, which is a potency gain over Veraero III and Verthunder III in all multi-target scenarios.
+In two target scenarios, your rotation mostly stays the same, utilising Jolt III (or procs if available) to generate Dualcast, and spending it on Verthunder III or Veraero III. The only change from the single target rotation is that Acceleration should only be spent on Impact and Grand Impact. 
 
-In scenarios with three or more targets, you should replace your shortcasts with Verthunder II or Veraero II, which give you black mana and white mana respectively. Both of these spells are potency gains over Jolt II, Verfire, and Verstone at three or more targets.
+In scenarios with three or more targets, you should replace your shortcasts with Verthunder II or Veraero II, which give you black mana and white mana respectively. Both of these spells are potency gains over Jolt III, Verfire, and Verstone at three or more targets.
 
 GCD spells, potencies, and mana generation values are shown below. 
 
 | **Spell**      | **Mana Generation**      | **Potency** | **Cast Time** | **Recast**  |
 | -------------- | ------------------------ | ----------- | ------------- | ----------- |
-| Jolt II        | +2 Black & +2 White Mana | 320         | 2 seconds     | 2.5 seconds |
-| Verthunder III | +6 Black Mana            | 380         | 5 seconds     | 2.5 seconds |
-| Veraero III    | +6 White Mana            | 380         | 5 seconds     | 2.5 seconds |
-| Verfire        | +5 Black Mana            | 340         | 2 seconds     | 2.5 seconds |
-| Verstone       | +5 White Mana            | 340         | 2 seconds     | 2.5 seconds |
+| Jolt III       | +2 Black & +2 White Mana | 360         | 2 seconds     | 2.5 seconds |
+| Verthunder III | +6 Black Mana            | 420         | 5 seconds     | 2.5 seconds |
+| Veraero III    | +6 White Mana            | 420         | 5 seconds     | 2.5 seconds |
+| Verfire        | +5 Black Mana            | 380         | 2 seconds     | 2.5 seconds |
+| Verstone       | +5 White Mana            | 380         | 2 seconds     | 2.5 seconds |
 | Impact         | +3 Black & +3 White Mana | 210 AoE     | 5 seconds     | 2.5 seconds |
 | Verthunder II  | +7 Black Mana            | 140 AoE     | 2 seconds     | 2.5 seconds |
 | Veraero II     | +7 White Mana            | 140 AoE     | 2 seconds     | 2.5 seconds |
@@ -88,22 +90,22 @@ All three finishers are instant casts and deal damage to multiple targets, makin
 
 Scorch, the follow-up finisher to Verflare/Verholy, simply deals damage to its primary target and enemies around it. Our final finisher however, Resolution, is a line aimed toward the targeted enemy. When using Resolution in AoE scenarios, you should try to position your character so that the line will hit as many enemies as possible. Do note that Resolution will always hit the target it is cast on, regardless of the direction the visual goes in. In addition, all our finishers deal full damage to the targeted enemy and falloff damage for the rest.
 
-In scenarios with three or more targets, we can replace our single target melee skills with Enchanted Moulinet, as it offers more potency while still granting a Mana Stack with each use. Therefore, our “melee combo” in this scenario would consist of three uses of Enchanted Moulinet followed by our finishers. Note that means we need to amass 60|60 mana before beginning our AoE “combo”, as casting any spell will cause us to lose all our stacks.
+In scenarios with three or more targets, we can replace our single target melee skills with the Enchanted Moulinet combo, as it offers more potency while still granting a Mana Stack with each part of the combo. Therefore, our melee combo in this scenario would consist of the Enchanted Moulinet -> Enchanted Moulinet Deux -> Enchanted Moulinet Trois sequence, followed by our finishers.
 
 An important distinction in-game to keep in mind is that the melee combo and finishers are considered two separate combos by the game. While casting any spells other than Verholy or Verflare will cause you to drop Mana Stacks and lose access to your finishers, it is possible to hold these finishers indefinitely if there is nothing to hit. This is in contrast to the usual 30 second timer allowed between combo abilities before the combo is broken. This distinction is also why we are able to use Manafication after Enchanted Redoublement without losing our finishers despite Manafication being a combo-breaker otherwise.
 
 | **Spell or Weaponskill** | **Mana Generation or Cost** | **Potency**                   | **Recast**  |
 | ------------------------ | --------------------------- | ----------------------------- | ----------- |
-| Enchanted Riposte        | \-20 Black & -20 White Mana | 280                           | 1.5 seconds |
-| Enchanted Zwerchhau      | \-15 Black & -15 White Mana | 150 (Combo: 340)              | 1.5 seconds |
-| Enchanted Redoublement   | \-15 Black & -White Mana    | 130 (Combo: 500)              | 2.2 seconds |
+| Enchanted Riposte        | \-20 Black & -20 White Mana | 300                           | 1.5 seconds |
+| Enchanted Zwerchhau      | \-15 Black & -15 White Mana | 150 (Combo: 360)              | 1.5 seconds |
+| Enchanted Redoublement   | \-15 Black & -White Mana    | 130 (Combo: 540)              | 2.2 seconds |
 | Enchanted Moulinet       | \-20 Black & -20 White Mana | 130 AoE                       | 1.5 seconds |
-| Verflare                 | 11 Black Mana               | 600 AoE with 60% falloff      | 2.5 seconds |
-| Verholy                  | 11 White Mana               | 600 AoE with 60% falloff      | 2.5 seconds |
-| Scorch                   | 4 Black & 4 White Mana      | 680 AoE with 60% falloff      | 2.5 seconds |
-| Resolution               | 4 Black & 4 White Mana      | 750 line AoE with 60% falloff | 2.5 seconds |
-
-
+| Enchanted Moulinet Deux      | \-15 Black & -15 White Mana | 140 AoE                       | 1.5 seconds |
+| Enchanted Moulinet Trois      | \-15 Black & -15 White Mana | 150 AoE                       | 1.5 seconds |
+| Verflare                 | 11 Black Mana               | 620 AoE with 60% falloff      | 2.5 seconds |
+| Verholy                  | 11 White Mana               | 620 AoE with 60% falloff      | 2.5 seconds |
+| Scorch                   | 4 Black & 4 White Mana      | 700 AoE with 60% falloff      | 2.5 seconds |
+| Resolution               | 4 Black & 4 White Mana      | 800 line AoE with 60% falloff | 2.5 seconds |
 
 ### Damaging oGCDs and buffs
 
@@ -111,12 +113,10 @@ One of the strongest parts of Red Mage’s kit is its powerful oGCD abilities, w
 
 | **Ability**             | **Potency** | **Recast Time** |
 | ----------------------- | ----------- | --------------- |
-| Fleche                  | 460         | 25 seconds      |
-| Contre Sixte            | 380 AoE     | 35 seconds      |
+| Fleche                  | 480         | 25 seconds      |
+| Contre Sixte            | 400 AoE     | 35 seconds      |
 | Corps-a-corps           | 130         | 35 seconds      |
 | Engagement/Displacement | 180         | 35 seconds      |
-
-
 
 Damage oGCD priority (based on potency and cooldown timer):
 
@@ -136,7 +136,7 @@ Following this, Red Mage also has two other oGCDs that are important parts of it
 
 **Embolden** is Red Mage’s party-wide damage buff. Embolden has a recast timer of 120 seconds and buffs all damage done by party members by 5% for 20 seconds, while buffing our personal magic damage by 5% for 20 seconds. It is important to note that as our own Embolden only buffs magic damage dealt, which means that it buffs all of our GCDs (including Enchanted weaponskills) but does not affect any of our oGCDs. Embolden should be used on cooldown to align with all other two minute party buffs, unless a specific buff delay is agreed upon by the entire party. Do not delay using Embolden to align with your own rotation.
 
-**Manafication** is an ability with a 110s cooldown that gives us 50 Black and White mana, which effectively gives us a free melee combo with every use. Make sure to not significantly overcap on mana when using Manafication. The skill also gives us a 5% damage buff with six stacks that lasts 15 seconds, which buffs the next 6 GCDs used by 5%. This damage buff should generally be used on your melee combo outside of specific encounters with lots of downtime, as it is the strongest burst window Red Mage has. The 110s cooldown on Manafication often causes confusion on whether it should be held for Embolden or used on cooldown, but in fights with unknown killtimes it is better to use Manafication on cooldown to avoid losing a usage of it. Note that desyncing Manafication from Embolden does not necessarily mean losing a melee combo under Embolden – a more detailed explanation on Manafication usage can be found in a separate section below.
+**Manafication** is an ability with a 110s cooldown that gives us three stacks of the Magicked Swordplay buff, allowing the use of three Enchanted melee GCDs without cost. This buff lasts for 15 seconds. The skill also gives us a 5% damage buff with six stacks that lasts 30 seconds, which buffs the next six GCDs used by 5%. On top of this, Manafication also grants us the ability to use Prefulgence, a 900 potency oGCD, with a 30 second "Prefulgence Ready" status being awarded after all six stacks have been consumed. The 110s cooldown on Manafication often causes confusion on whether it should be held for Embolden or used on cooldown, but in fights with unknown killtimes it is better to use Manafication on cooldown to avoid losing a usage of it. Note that desyncing Manafication from Embolden does not necessarily mean losing a melee combo under Embolden – a more detailed explanation on Manafication usage can be found in a separate section below.
 
 ### Using Vercure during downtime
 
