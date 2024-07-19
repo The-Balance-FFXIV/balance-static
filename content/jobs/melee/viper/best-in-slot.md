@@ -1,10 +1,16 @@
 ---
 title: Viper Best in Slot
 layout: bis
-patch: "7.0"
+patch: "7.01"
 lastmod: 2024-06-23T13:58:39.836Z
 changelog: []
 bis:
+  - type: xivgearset
+    link: 7C337948d2-734a-41c9-be06-752099ef728e
+    name: "Viper Pre-Savage 2.50 BiS "
+  - type: xivgearset
+    link: 7Cad8597d1-504c-4457-968a-9ff1e9cd2a32
+    name: Viper Pre-Savage 2.48 BiS
   - type: etro
     name: Viper 7.0 BiS
     link: 3f906d18-f633-467b-8744-7d9fc5f087d5
@@ -18,6 +24,9 @@ bis:
     link: 1fee217c-afea-47dc-8bea-a93ed97b19c8
     description: Due to substat tiering the i700 weapon performs better than the
       i710 weapon.
+  - type: etro
+    name: Viper DSR BiS
+    link: dd0f78b9-fbea-4ebe-97d5-be0d1ac4363f
 authors:
   - akashi
   - Balance-VPR-Staff
