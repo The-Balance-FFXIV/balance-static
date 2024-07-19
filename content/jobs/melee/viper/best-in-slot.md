@@ -8,9 +8,25 @@ bis:
   - type: xivgearset
     link: 7C337948d2-734a-41c9-be06-752099ef728e
     name: "Viper Pre-Savage 2.50 BiS "
+    description: >-
+      **Q. Should I use 2.50 or 2.48?**
+
+
+      **A.** Both sets perform relatively similarly, with the primary determining factor being what GCD you end on. Due to this it is perfectly fine to choose between 2.50 or 2.48 depending on your preference.
+
+
+      In fights that are shorter than 7 minutes, 2.48 is better due to being able to get an extra Reawaken before the 6 minute window.
   - type: xivgearset
     link: 7Cad8597d1-504c-4457-968a-9ff1e9cd2a32
     name: Viper Pre-Savage 2.48 BiS
+    description: >-
+      **Q. Should I use 2.50 or 2.48?**
+
+
+      **A.** Both sets perform relatively similarly, with the primary determining factor being what GCD you end on. Due to this it is perfectly fine to choose between 2.50 or 2.48 depending on your preference.
+
+
+      In fights that are shorter than 7 minutes, 2.48 is better due to being able to get an extra Reawaken before the 6 minute window.
   - type: etro
     name: Viper 7.0 BiS
     link: 3f906d18-f633-467b-8744-7d9fc5f087d5
