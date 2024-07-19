@@ -11,9 +11,11 @@ changelog:
 bis:
   - type: xivgearset
     name: Level 100 Pre-Savage Set
-    link: 3f9bb604-8079-4198-b109-a3a733a751ae
-    description: This set is ideal for EX trials and the like, prior to the drop of
-      the normal and savage raid tier. This will be updated then.
+    link: 6c38dd3c-8cf4-41e2-9a86-740c8a58697b
+    description: For parsing in EXs or going into Savage if you don't intend to go
+      pentamelded crafted. If you do, this will be replaced with that when
+      available. Buy order is gloves//feet week one, pants week two and head +
+      ring week three (optional, depending when you go into Savage).
 authors:
   - Laille-Ormesaing
   - Balance-PCT-Staff
