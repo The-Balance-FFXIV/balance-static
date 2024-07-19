@@ -1,7 +1,7 @@
 ---
 title: Warrior Changes
 layout: changes
-lastmod: 2024-01-17T20:05:28.604Z
+lastmod: 2024-07-18T11:55:30.118Z
 changes:
   - patch: "5.58"
     description: "[Placeholder for Endwalker]"
@@ -55,6 +55,20 @@ changes:
 
 
       Storm's Path, Storm's Eye, Fell Cleave, Inner Chaos and Upheaval buffed by 10~30 potency each.
+  - patch: "7.0"
+    description: |-
+      Dawntrail is upon us!
+      Warrior gains:
+      - Various traits
+      - Damnation (Vengeance upgrade, 40% mitigation)
+      - Primal Wrath (Inner Release follow-up, oGCD)
+      - Primal Ruination (Primal Rend follow-up)
+  - patch: "7.01"
+    description: >-
+      - Primal Ruination timer reduced from 30s to 20s. This kills the Ruination
+      Smuggle technique.
+
+      - Added enmity multiplier to various AoE skills
 authors:
   - Balance-WAR-Staff
 ---
