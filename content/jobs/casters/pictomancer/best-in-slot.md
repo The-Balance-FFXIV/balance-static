@@ -11,7 +11,7 @@ changelog:
 bis:
   - type: xivgearset
     name: Level 100 Pre-Savage Set
-    link: https://xivgear.app/?page=embed%7Csl%7C3f9bb604-8079-4198-b109-a3a733a751ae
+    link: 3f9bb604-8079-4198-b109-a3a733a751ae
     description: This set is ideal for EX trials and the like, prior to the drop of
       the normal and savage raid tier. This will be updated then.
 authors:
