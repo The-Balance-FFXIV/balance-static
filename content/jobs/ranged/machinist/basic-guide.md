@@ -51,7 +51,7 @@ Machinist comes with two gauges. The Heat Gauge (top) is used to Hypercharge whi
 
 # The Two-Minute Loop and Rotational Theory
 
-While reading this guide, the following images can be referenced to get a better grasp of what's being talked about.
+While reading this guide, the following images can be referenced to get a better grasp of what's being talked about. It is extremely important to note that these infographics and text are aimed toward 2.50 Machinist. Anything that is faster than 2.5 will need some adjustments, see "How to deal with <2.50 GCD" section below.
 
 ![](/img/jobs/mch/machinist-standard-opener-aa-6-.png)
 
@@ -60,7 +60,7 @@ While reading this guide, the following images can be referenced to get a better
 ## Generalized Battery Usage
 
 * The Opener Queen is used immediately upon 60 Battery (After Excavator, as seen in the opener).
-* The one minute Burst Queen is used at 90, this is to help the two minute Queen to be used after Air Anchor to maximize it fully in raid buffs. Subsequent odd minute summons will have to be broken down between two Queens. Compared to Endwalker where our subsequent summons were at 90/100, we are given extra battery every minute via Excavator, so our summons are at 110/120 gauge. Thus forcing us to split it between two summons to prevent overcap. The first odd minute queen is almost always used at 50 and the second is split between either a 60 or 70 Queen depending on the minute.
+* The one minute Burst Queen is used at 90, this is to help the two minute Queen to be used after Air Anchor to maximize it fully in raid buffs. Subsequent odd minute summons will have to be broken down between two Queens. Compared to Endwalker where our subsequent summons were at 90/100, we are given extra battery every minute via Excavator, so our summons are at 110/120 gauge. Thus forcing us to split it between two summons to prevent overcap. The first odd minute queen is always used at 50 and the second is a loop of 60/70/80, increments of 10 for each odd minute. So the 2nd Queen at the 3 minute is 60 battery, 2nd at the 5th minute is 70, 2nd at the 7th minute is 80, and comes back to a loop at 60 for the 9th minute. In order to gain the specific amount of battery for the 2nd odd minute queen, we add any combo GCD filler needed to obtain it after Chain Saw and before Excavator, since we can safely delay it for up to 30 seconds. If you need the Excavator to gain the battery, then we use it right after Chain Saw.
 * Two minute Queen is summoned at 100 Battery at 2:01 after the Air Anchor. This is to fully maximize buffs, with summoning Queen after the Air Anchor, we synchronize our Queen to start its attack as soon as buffs are out. This is because of Queen lasting roughly 16 seconds but it takes five seconds before starting its autos.
 
 ### Cheatsheet
@@ -72,7 +72,8 @@ While reading this guide, the following images can be referenced to get a better
 
 The most basic description of the level 100 rotation can be broken down by following these rules:
 
-* Not drifting Drill, Air Anchor, Chainsaw, Barrel Stabilizer, and Wildfire.
+* Not drifting Air Anchor, Chainsaw, Barrel Stabilizer, and Wildfire.
+* Not overcapping on Drill stacks.
 * Not overcapping resources. This includes Heat, Battery, and Double Check / Checkmate charges.
 * Using your flexible burst inside of raid buffs as much as possible.
 
@@ -111,6 +112,50 @@ Why can’t we hold 2/2 Drill charges to remove the combo GCD? While it is possi
 <!--StartFragment-->
 
 We run into our first Dawntrail specific issue after the first 2-Minute burst. With the reduction in Heat generation per minute compared to now, we enter the 4-Minute burst with only 45 Heat. To resolve this we continue the same thought process from the previous infographics and we want to continue our burst as usual, even if we go into this window combo neutral, it does not matter since we are only entering with 45 Heat. We have to find a way to obtain the extra 5 from a Heated Combo GCD regardless. The previous infographics had us delaying our Drill and shifting Drill after Excavator and thus pushing Full Metal Field a GCD after. While this does work, it is extremely inconsistent with 2.50 GCD speed, which is normally ideal for us, so for the time being we are moving away from it. It can be considered again if we are using anything faster than 2.5 gcd. To continue with this window, after our default burst, we want to Heated Combo GCD to continue the combo timer and follow up with Drill to maximize buffs. The Heated Combo is definitely a loss for buff feed and a slightly weaker pot window, but an efficient way to continue with our rotations and to set up better windows in the future. 
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
+# How to deal with <2.50 GCD
+
+First of all, **never clip your GCD**. Keeping your GCD rolling has a huge impact on your overall damage. Since your non-scaling cooldowns like  **Wildfire** and **Drill** will no longer align with your GCD cycle, you'll need to rearrange things to keep these actions on CD and aligned with burst as much as possible.
+
+###  Wildfire
+
+WF will come off cooldown slightly later than usual in your GCD cycle. There are a variety of ways of dealing with this, but here's the easiest and most consistent way to do it:
+
+* Add GCDs ( **Drill** and/or any  **Combo GCD**) after **Chain Saw** and before **Excavator**/**Full Metal Field** until WF's cooldown is **≤ 6s**. This ensures that **Drill** and **Chain Saw** do not drift and that you can weave WF in the same place every two minutes.
+* When WF's cooldown is ≤ 6s, proceed as you usually would at 2.50, **Excavator > Full Metal Field >** (**Hypercharge + Wildfire**).
+
+###  Drill
+
+In Dawntrail, Drill's recast no longer scales with SkS. Like WF, it will come off cooldown slightly later than usual relative to your GCD cycle, but since it has stacks it doesn't matter if you "drift" it as long as you're never sitting at 2/2 stacks. Drill's placement in your rotation is no longer rigid, and we can take advantage of this:
+
+* If Drill is not available where you'd normally use it in your burst, just use any **Heated Combo GCD**.
+* If Drill is available and you're about to use a **Heated Combo GCD**, you can use Drill instead. Make sure you're at 0 Drill stacks going into your WF sequence.
+* Try to use Drill as late as possible (i.e. the GCD before **Excavator and Full Metal Field**) to get it to land under buffs.
+
+### Example GCD Sequences at 2:00
+
+**2.50:** **Air Anchor > Drill > Chain Saw > Excavator > Full Metal Field > (Hypercharge + Wildfire)**
+
+![](/img/jobs/mch/machinist-example-2.50-gcd-.png)
+
+<br>
+
+**2.47:** **Air Anchor > Heated Combo GCD > Chain Saw > Drill > Excavator > Hypercharge > Hypercharge + Wildfire**...
+
+![](/img/jobs/mch/machinist-example-2.47-gcd-.png)
+
+<br>
+
+* **Drill** is not up after **Air Anchor**, so we use **a Heated Combo GCD** instead
+* WF CD is > 6s when we would normally use **Excavator**, so we add 1 GCD
+* Since we have a Drill charge, we use **Drill** rather than **a Heated Combo GCD**
+* We continue as usual with **Excavator** and **Full Metal Field**.
 
 <!--EndFragment-->
 
@@ -160,8 +205,6 @@ With the addition of Excavator, we are gaining 20 extra battery every one minute
 | 08:35:75           | 13th Queen                   | 50                    |                                                                                                            |
 | 09:08:25           | 14th Queen                   | 60                    | We delay Excavator a single GCD (or whenever the next Heated Clean Shot is available to get the 60 gauge)  |
 | 10:00:75           | 15th Queen (10 Minute Burst) | 100                   | Used instantly after Air Anchor to fully align itself with buffs                                           |
-
-
 
 Something to note is that we follow a somewhat static loop for queen timings. After the 1st odd minute, our odd minute timings is sending the first queen at 50 always, our 3rd minute timing is at 60, then 5th minute at 70, and 7th at 80, and then finally looping back to 60 at 9 minutes. Following this pattern, the 11th minute queen would be at 70, and 13th at 80, and so forth. However, with full uptime fights rarely going to the 10th minute mark, this rule should remain efficient for any uptime fight for savage. In order to build muscle memory for always delaying the odd minute Excavator for the proper gauge, you have the choice to also do that for the first 1-minute by holding the Hypercharge until after Queen is summoned, but if using Hypercharge as soon as we have 50 Heat post opener, you will naturally have Queen at 90 post Excavator.
 
