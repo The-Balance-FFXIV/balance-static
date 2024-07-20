@@ -33,142 +33,76 @@ changelog:
 
 - - -
 
-Gunbreaker is a higher APM job with a focus on building and spending cartridges to deal very high damage inside of tight burst windows. This guide will introduce the relevant actions, gauge usage, and priority system to manage your rotation.
+Gunbreaker is a high APM tank job with a focus on continuously building and spending cartridges optimally to deal very high damage inside of strict burst windows. The rotation at a basic overview is a builder-spender rotation focused on optimizing damage dealt inside No Mercy, which is a 20% damage buff that is usable every 60 seconds and lasts for 20 seconds after its use.
 
-The rotation is a builder-spender rotation focused on maximizing damage inside the personal 20% damage buff, **No Mercy**, every 60 seconds.
+In this guide we will discuss a number of subjects, beginning with a simple introduction to the priority system for the rotation and then moving into more scenario specific subjects for particular things that alter the rotation in specific ways.
 
-The **powder gauge** is used to hold cartridges that may be used on any weaponskills requiring them, typically used in **No Mercy**. The gauge can hold two cartridges at level 30, and three cartridges at level 88.
-
-### No Mercy
+### CARTRIDGE GAUGE
 
 - - -
 
-**No Mercy** is a 20% damage buff that lasts for 20 seconds.
+The cartridge gauge is the resource gauge that we manage in order to carry enough cartridges to cast all of our cooldowns within **No Mercy**.
 
-* We want as much potency in this buff as possible.
-* We want as many GCDs in this buff as possible.
-* **[How To Fit 9 GCDs In No Mercy](https://youtu.be/rdNHJv7aLAg) (≤ 2.47 GCD)** 
+The cartridge gauge can hold up to two cartridges until reaching level 88, where a trait allows it to begin holding three. This gauge and the actions that spend resources from that gauge are what make the burst windows on Gunbreaker tight, because you can never hold more than exactly what you need to use your cooldowns.
 
-### Generation
+The actions that will fill the cartridge gauge are as follows:
 
-- - -
+* **Solid Barrel** and **Demon Slaughter** both generate one cartridge upon finishing their combo.
+* **Bloodfest** will completely refill the cartridge gauge.
 
-Completing certain combo chains or using certain abilities generate gauge. **Do not overcap the cartridge gauge**.
+The actions that will spend cartridges from the gauge are as follows:
 
-**Solid Barrel Combo**
+* **Gnashing Fang, Burst Strike,** and **Fated Circle** all spend one cartridge.
+* **Double Down** will spend two cartridges.
 
-* Generates 1 cartridge.
+**Gnashing Fang** and **Double Down** are both GCD cooldowns that should ideally be used off cooldown. Because they both align into **No Mercy**, this means you must at some point generate 3 cartridges either within or before the period that **No Mercy** is active *and* cast both cooldowns inside of it.
 
-**Demon Slaughter Combo**
+Next, we will discuss **No Mercy** and how to ideally use it before discussing the priority system surrounding it.
 
-* Replaces Solid Barrel Combo at 3+ targets.
-* Generates 1 cartridge.
-
-**Bloodfest**
-
-* Completely fills the cartridge gauge.
-* Only use this when the gauge is **empty**, or else it will overwrite any existing cartridges.
-
-### Spending Gauge
+### NO MERCY AND BUFF PRINCIPLES
 
 - - -
 
-Prioritize using cartridges on major cooldowns or to stop the gauge from overcapping.
+In order to understand why **No Mercy** (and other buffs) are used the way that they are, we need to establish a couple of concepts first in relation to both how damage is calculated and how cooldowns align from GCD tiers.
 
-**Gnashing Fang Combo**
+#### Damage Snapshotting
 
-* Requires **1 cartridge**.
-* Use **Continuation** with every GCD in this combo.
+Damage in FFXIV is calculated by snapshotting cast points, respecting all buffs and debuffs at the exact frame that the cast point was registered. This means that the damage actually applying to and hitting a target is already calculated before it ever reaches the target, so you do not have to worry about a buff falling off in between the time that you pressed an action and the time it took for the damage to hit the target.
 
-**Double Down**
+DOT effects work in the same way, so all of the DOT damage is calculated from the frame that the action is pressed. If you press **No Mercy** and then use **Sonic Break** as the last GCD within the buff window, the entire 30 seconds of **Sonic Break** is still buffed by **No Mercy** even though most of it is active while **No Mercy** is not.
 
-* Requires **2 cartridges**.
+This greatly affects the flexibility in how the burst rotation can be set up, because it means that as long as damage-over-time effects fully tick and expire without being wasted, they can go anywhere within **No Mercy**. On certain GCD speeds, it also means that we can fit additional GCDs into **No Mercy** without needing enough time have those extra GCDs actually hit while **No Mercy** is still active.
 
-**Burst Strike**
+#### 9 GCD No Mercy
 
-* Spends **1 cartridge**.
-* Use cartridges **Gnashing Fang** and **Double Down** first if possible.   
+On GCDs of 2.47 or faster, we can typically begin to gain an additional 9th GCD into **No Mercy** due to the fact that it takes less time to press the same actions within our 20 second window. Thanks to damage snapshotting, we also don’t have to care about when that 9th GCD hits the target, so we only care that it was pressed while **No Mercy** was still active. This extra GCD is very dependent on when **No Mercy** is used relative to the GCD cooldown roll and requires a specific use timing to actually attain, though.
 
-**Fated Circle**
+In order to use the full 20 seconds of **No Mercy**, we must use No Mercy as a “late weave”, or cast it in between the bottom left and top left corner of our GCD icon. This makes it so that **No Mercy** will activate right as we press the next GCD, granting us the maximum amount of time to use our buff.
 
-* Spends **1 cartridge**.
-* Replaces **Burst Strike** at 2+ targets.
-* Replaces **Gnashing Fang** at 4+ targets.
+There is another very important consideration to make regarding GCD speeds and **No Mercy**, which is how well that GCD aligns to the cooldown of **No Mercy** itself. A poorly aligned 60s/GCD interval will cause **No Mercy** to drift rather excessively when attempting to late weave it which may result in drifting away from party buffs. To avoid this, there are basic usage guidelines for how and when to cast **No Mercy**.
 
-- - -
+#### No Mercy Usage Guidelines
 
-## The Priority System
+The ideal **No Mercy** usage guidelines for specific speeds are as follows:
 
-- - -
+**2.50 GCD**
 
-Splitting the rotation into two main phases helps understand the fundamentals behind gauge usage:
+* Use **No Mercy** as an early weave off cooldown.
 
-* The **filler phase**.
-* The **burst phase**.
+**2.45 - 2.47 GCD**
 
-The burst phase begins when **No Mercy** is activated, and the filler phase begins when  **No Mercy** ends.
+* Use **No Mercy** as an early weave without **Bloodfest**.
+* Use **No Mercy** as a late weave with **Bloodfest**.
 
-![GNB Simple Infographic](/img/jobs/gnb/gnb_rg_40.png "GNB Rotation")
+**2.40 - 2.44 GCD**
 
-### Filler Phase
+* Use **No Mercy** as a late weave off cooldown.
 
-- - -
+#### Section TLDR:
 
-The **Solid Barrel** combo should be used continuously to fill the cartridge gauge for **No Mercy**.
-
-* Use **Gnashing Fang** and **Blasting Zone** off cooldown **once**.
-* Use **Burst Strike** only when the cartridge gauge is about to overcap on cartridges.
-
-When **No Mercy** comes off cooldown, enter the **burst phase**.
-
-* If **Gnashing Fang** comes off cooldown again before **No Mercy**, hold it into **No Mercy**.
-
-### Burst Phase
-
-- - -
-
-Once **No Mercy** is off cooldown, use it off cooldown and begin using your cooldowns inside of the buff.
-
-**No Mercy** should contain:
-
-* A **Gnashing Fang** combo, **Double Down**, **Sonic Break**, and as many usages of **Burst Strike** as possible.
-* Prioritize using **Gnashing Fang** and **Double Down** over **Burst Strike**.
-* Use a **combo action** when nothing else can be spent or used.
-* Use **Lightning Shot** if you cannot remain in melee range.
-
-**Blasting Zone**, **Bow Shock**, **Continuation**, **Bloodfest**, and **Rough Divide** are oGCD actions that should be used within **No Mercy**.
-
-* **Bloodfest** should not be used until all cartridges have been spent.
-* **Rough Divide** should be used outside of **No Mercy** if it allows for melee uptime.
-
-When **No Mercy** ends, return to the **filler phase**. 
-
-### Forced 2-Cartridge Burst Phase 
-
-- - -
-
-It is possible for this scenario to occur within your rotation:
-
-* The cartridge gauge is full.
-* The next combo action is **Solid Barrel**.
-* **No Mercy** will be off cooldown after using the next GCD.
-
-This forces us to enter **No Mercy** with two cartridges if we use **No Mercy** off cooldown. There is more than one solution to this, so refer to the infographic.
-
-![](/img/jobs/gnb/gnb_2c_sh2.1_1080p.png)
-
-### **Gnashing Fang Combo**
-
-- - -
-
-The **Gnashing Fang** combo is the most valuable action Gunbreaker has, so making complete use of it is important.
-
-* This means that this combo should never be broken or cut off and lost by downtime if possible.
-* You can only break the **Gnashing Fang** combo by continuing a different combo.
-* Every combo action in the **Gnashing Fang** combo will refresh the combo timer to 30 seconds.
-* Every usage of **Continuation** must be used on the same GCD that it was granted, or it will be lost forever.
-
-![What can break Gnashing Fang Combo](/img/jobs/gnb/gnb_combobreaker_v2.1.png "What can break Gnashing Fang Combo")
+* All damage is calculated on the frame that an action is cast, not when damage hits a target.
+* Use **No Mercy** off cooldown in accordance with the usage guidelines directly above this.
+* Do not attempt to clip the GCD to cast **No Mercy**.
 
 ## **AOE Priority**
 
@@ -332,35 +266,6 @@ When doing dungeons, it’s important to space your cooldowns out. You have thre
 The above “plan” is of course not set in stone. In an ideal world, your dungeon DPS are fast enough to kill a pack of monsters before your main cooldown wears off. However, this may not happen and you may in turn have to cycle through cooldowns or change things. There’s nothing wrong with using more than expected and taking the next few pulls slow. The reason why we use these cooldowns and do big pulls is that besides them making runs faster, you rarely need Rampart or Nebula for dungeon bosses, as their tank busters don’t hit very hard and can be taken with a well timed Heart of Corundum.
 
 Due to Clarity of Corundum’s duration being so short, I recommend waiting a GCD or two once you have all the enemies rounded up before using Heart of Corundum. If you prepull Heart of Corundum and run in, chances are Clarity of Corundum will fall off.
-
-## Ultimates
-
-Ultimates are timeless content due to their difficulty and rewards but are forced sync and cannot be done above their release level. This affects the gear you enter the encounter with, but is more lenient as all three past Ultimates' entry IL are far below our current standard. Food and Pots do not sync, but still have a soft cap so you don’t need the absolute top current food and pots for something like UCoB as its sync is relatively low. The relic from Shadowbringers is the best choice of weapon for previous Ultimates, But will require you to get it to at least the [Augmented Law’s Order](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/3111076df9e/) stage to assign substats. [Blade’s Resolve](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/b723d663158/) gives you more substat to work with but this realistically is of only benefit in TEA, as you’ll reach cap for the substats with Law’s Order in the other two Ultimates, as such unless you want to really optimize and push as much damage as you want for TEA, you can settle for Augmented Law’s Order. If you don’t want to grind the Blade’s Resistance Relic, you can use any weapon with optimal substats that exceed the encounter’s max IL. \
-\
-The reason why The Manderville Relic (Stage I or Stage II) is an ideal substitute over the Asphodelos Gunblade for Dragonsong's Reprise is the fact both substats are capped. Even with 2xMelds on the Asphodelos Weapon, the substat total is still less. You do not need to meld the Manderville Weapon in this case as the melds will be ingored.
-
-**The Unending Coil of Bahamut (UCoB):**\
-IL Cap: 470\
-BIS: [UCoB/UWU Combination BIS](https://media.discordapp.net/attachments/541353216307232788/1162357818872045569/image.png)\
-Relic Stat cap: 127
-
-**The Weapon’s Refrain (UWU):**\
-IL Cap: 500\
-BIS: [UCoB/UWU Combination BIS](https://cdn.discordapp.com/attachments/541353216307232788/1162380400300130364/image.png)\
-Relic Stat cap: 136
-
-**The Epic of Alexander (TEA):**\
-IL Cap: 595 \
-BIS: [2.40](https://i.imgur.com/nZrxF4X.png)\
-Relic Stat cap: 184
-
-**Dragonsong’s Reprise (DSW/DSR):**\
-IL Cap: N/A\
-BIS Options: [2.40,](https://etro.gg/gearset/5d0cb3c9-6d8b-4364-bbe3-11b92d22d4e9) [2.45](https://etro.gg/gearset/ed47410a-6714-4fcb-a78e-2729c28c5beb)
-
-**The Omega Protocol (TOP):**\
-IL Cap: N/A\
-BIS Options: [2.50](https://etro.gg/gearset/273b03e4-3bf5-4d0e-af52-b13e812633ed)
 
 ## Special Thanks
 
