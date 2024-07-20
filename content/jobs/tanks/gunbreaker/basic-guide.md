@@ -23,8 +23,9 @@ changelog:
 
 #### Authors
 
-**Krom Ulus** | Adamantoise (Aether) | discord: krom.ulus\
-**Azazel Raine** | Balmung (Crystal) | discord: azazelraine
+**Krom Ulus** | discord: krom.ulus\
+**Azazel Raine** | discord: azazelraine\
+**Rin Karigani** | discord: rinkarigani
 
 - - -
 
@@ -32,7 +33,7 @@ changelog:
 
 - - -
 
-**Gunbreaker** is a tank job with a focus on continuously building and spending cartridges to deal very high damage inside of strict burst windows. At a basic overview, the rotation is a builder-spender rotation focused on optimizing damage dealt inside **No Mercy**, which is a 20% damage buff that is usable every 60 seconds and lasts for 20 seconds after its use.
+**Gunbreaker** is a tank job with a focus on continuously building and spending cartridges to deal very high damage inside of strict burst windows. As a basic overview, the rotation is a builder-spender rotation focused on optimizing damage dealt every minute inside **No Mercy**, which is a 20% damage buff that lasts for 20 seconds after its use.
 
 In this guide we will discuss a number of subjects, beginning with a simple introduction to the priority system for the rotation and then moving into more scenario specific subjects for particular things that alter the rotation in specific ways.
 
@@ -54,12 +55,6 @@ The actions that will spend cartridges from the gauge are as follows:
 * **Gnashing Fang, Burst Strike,** and **Fated Circle** all spend one cartridge.
 * **Double Down** will spend two cartridges.
 
-**Gnashing Fang** and **Double Down** are both GCD cooldowns that should ideally be used off cooldown.
-
-* Because they both align into **No Mercy**, this means you must at some point generate 3 cartridges either within or before the period that **No Mercy** is active *and* cast both cooldowns inside of it without pushing out other cooldowns.
-
-Next, we will discuss **No Mercy** and how to ideally use it before discussing the priority system surrounding it.
-
 - - -
 
 ### NO MERCY AND BUFF PRINCIPLES
@@ -80,17 +75,17 @@ We need to establish a couple of concepts first regarding both how damage is cal
 
 Damage is calculated by snapshotting all buffs and debuffs at the exact frame that the cast point was registered. This means that the damage actually applying to and hitting a target is already calculated before it reaches the target, actions are still buffed so long as they are used before the buff falls off, not as the damage lands. Debuff-based damage over time effects work the same way, such as **Sonic Break**.
 
-As a result, when playing fast enough GCD speeds we can begin to buff additional GCDs while **No Mercy** is still active without needing enough active buff time to have those extra GCDs actually hit a target. It also means that as long as damage-over-time effects fully tick and expire without being wasted, they can go anywhere within **No Mercy**.
+As a result, when playing fast enough GCD speeds this allows us to buff additional GCDs while **No Mercy** is still active without needing **No Mercy** to remain active as that damage lands. It also means that as long as damage-over-time effects fully tick and expire without being wasted, they can go anywhere within **No Mercy**.
 
 #### 9 GCD No Mercy
 
-An additional 9th GCD into **No Mercy** is typically possible on GCD speeds faster than or equal to 2.47. Thanks to damage snapshotting, we only have to care that the action is pressed while **No Mercy** is active, so as long as the total time to press 9 GCDs is less than 20 seconds, 9 GCDs are possible. This does mean that buffing the 9th GCD is very dependent on when **No Mercy** is used relative to the GCD roll and it requires a specific usage timing.
+An additional 9th GCD into **No Mercy** is typically possible on GCD speeds faster than or equal to 2.47. Thanks to damage snapshotting, we only have to care that the action is pressed while **No Mercy** is active, meaning so as long as the total time to press 9 GCDs is less than 20 seconds, 9 GCDs are possible. Buffing the 9th GCD is very dependent on when **No Mercy** is used relative to the GCD roll and it requires a specific usage timing.
 
 In order to buff a 9th GCD inside **No Mercy**, we must use **No Mercy** as a “late weave”, or cast it in between the bottom left and top left corner of our GCD icon. This makes it so that **No Mercy** will activate right as we press the next GCD, letting us use as much of the 20 seconds that is possible.
 
 #### No Mercy Usage Guidelines
 
-A poorly aligned GCD speed will cause **No Mercy** to drift rather excessively when attempting to cast **No Mercy**, which can drift **No Mercy** away from party buffs. To minimize this as much as possible, there are basic usage guidelines for how and when to cast **No Mercy**.
+Certain GCD speeds are poorly aligned to **No Mercy** and will cause **No Mercy** to drift rather excessively when attempting to cast it, which can drift **No Mercy** away from party buffs. To minimize this as much as possible, there are basic usage guidelines for how and when to cast **No Mercy**.
 
 **2.50 GCD**
 
@@ -199,7 +194,7 @@ Certain combo chains cannot be used during other combo chains without breaking o
 
 #### Section TLDR:
 
-* SKS causes GCD cooldowns to come off cooldown before **No Mercy**. Hold them back into **No Mercy**.
+* GCD cooldowns come off cooldown before **No Mercy** with faster GCDs. Hold them back into **No Mercy**.
 * 2.40, 2.45, and 2.50 are driftless for party raid buffs and **No Mercy**.
 * 2.45 requires less than or equal to 25ms ping (or plugins) to not clip/drift **No Mercy**.
 * Other GCDs cause some amount of buff drift, potentially drifting **No Mercy** from raid buffs.
@@ -209,9 +204,9 @@ Certain combo chains cannot be used during other combo chains without breaking o
 
 #### Reverse Drift
 
-Skill Speed (SKS) modifies GCD cooldowns by reducing their cooldowns by 0.1% per SKS tier. This is done to help GCD cooldowns remain aligned to your GCD and not clip.
+Skill Speed (SKS) modifies GCD cooldowns by reducing their cooldowns by 0.1% per SKS tier. This is done to help GCD cooldowns remain aligned to your GCD and not clip them.
 
-This benefit is not extended to oGCD cooldowns. This is helpful to keep **No Mercy** aligned to party raid buffs, but it creates misalignment between your GCD cooldowns and **No Mercy**, as all GCD cooldowns begin coming off cooldown sooner than **No Mercy** does. This is referred to as “**reverse drift**”.
+This benefit is not extended to oGCD cooldowns. This is done intentionally to keep **No Mercy** aligned to party raid buffs, but it creates misalignment between your GCD cooldowns and **No Mercy**, as all GCD cooldowns begin coming off cooldown sooner than **No Mercy** does. This is referred to as “**reverse drift**”.
 
 The solution to reverse drift is simple - pretend the cooldown reduction does not exist and hold the GCD cooldowns back into **No Mercy**.
 
@@ -239,15 +234,21 @@ The speeds that do NOT drift **No Mercy** by any significant amount are as follo
 * 2.45 GCD (0.05s drift per every other use) **(PING DEPENDENT - ≤25MS TO NOT CLIP OR DRIFT)**
 * 2.40 GCD (0.00s drift per use)
 
-Those three speeds in particular are the most favorable for staying aligned with party buffs. Going from 2.40 to 2.42 would increase the drift rate, because it would take longer for **No Mercy** to return to the same ideal usage point, and you can only use the cooldown off cooldown once per drift. In particular, it would take **2.42 * (1 - (60 / 2.42 - 24) = 0.5s**, causing 0.5 seconds of drift per **No Mercy**. This drift linearly increases or decreases within the respective speed range of 2.40-2.44 as you go slower or faster respectively, and the same holds true of 2.45-2.47 which can use **No Mercy** twice off cooldown in between drifts.
+Those three speeds in particular are the most favorable for staying aligned with party buffs. Going from 2.40 to 2.42 would increase the drift rate because it would take longer for **No Mercy** to return to the same ideal usage point, and you can only use the cooldown off cooldown once per drift. In specific, it would cause **2.42 * (1 - (60 / 2.42 - 24) = 0.5s** of drift per **No Mercy**. This drift linearly increases or decreases within the respective speed range of 2.40 - 2.44 as you go slower or faster respectively, and the same holds true of 2.45 - 2.47 which can use **No Mercy** twice off cooldown in between drifts.
 
-Keep in mind that this doesn’t necessarily mean 2.40 is always better than 2.42 or something slower, it just means that the *risk* of losing raid buff damage over extended periods of time where raid buffs never realign to you is increased, which can potentially be a damage loss depending on the fight you’re in.
+Keep in mind that this doesn’t necessarily mean 2.40 is always better than 2.42 or something slower, it just means that the *risk* of losing raid buff damage over extended periods of time where raid buffs never realign to you is increased when running other speeds, which can potentially be a damage loss depending on the fight you’re in.
 
 ## **AOE Priority**
 
 - - -
 
-![AOE Prio](/img/jobs/gnb/gnb-ammended.png "AOE Rotation/Priority")
+#### LEVEL 100
+
+Use the Demon Slaughter combo at 3 or more targets.
+
+Use Fated Circle over Burst Strike at 2 or more targets.
+
+Use Gnashing Fang at up to 3 targets.
 
 - - -
 
