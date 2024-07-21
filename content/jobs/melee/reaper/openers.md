@@ -30,10 +30,10 @@ changelog:
 * Cast Harpe after 2 appears on the countdown, or at 1.7s exactly.
 * Shadow of Death
 
-  * Potion -- see note below for Potion Optimization.
+  * Potion (Press this late into your GCD) -- see note below for Potion Optimization.
 * Soul Slice
 
-  * Arcane Circle -- press this **ASAP** after the GCD to avoid clipping.
+  * Arcane Circle -- press this as late as you can without clipping your next GCD. Recommended .5s delay.
   * Gluttony
 * Executioner's Gibbet
 * Executioner's Gallows
