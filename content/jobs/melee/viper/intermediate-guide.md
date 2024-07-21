@@ -168,3 +168,11 @@ Everything in this guide up to now assumes that we are using a GCD speed of 2.5/
 The first adjustment removes a 1-2 second Noxious Gnash overcap that would be present otherwise. To do this, at the 2:00 burst window, a single UF must be held (this means we will be at two stacks of Rattling Coils after pressing Serpent's Ire). This allows us to enter the Standard Double Reawaken window by doing Hindsting Strike (or Hindsbane Fang depending on which of the two was selected first in the opener) -> Serpent's Ire -> Death Rattle -> Dread Fangs -> Reawaken. The UF that was held can be freely spent as normally between the 2:00 and 4:00 windows. 
 
 The second adjustment is optional and may be a significant gain at kill times that are too fast to get the extra Reawaken that would normal occur around the 7 minute mark. This adjustment shifts around Uncoiled Furies in order to get the extra Reawaken before the 6 minute burst window. To perform this, use two Reawakens between the 4 and 6 minute bursts. To get enough gauge to be able to Double Reawaken at 6:00 still, we need to hold two UFs through the burst (i.e. we will have three Rattling Coils after pressing Ire). We must also add an extra GCD between pressing Serpent's Ire and Reawaken. This has a high potential to push the second Ouroboros out of party buffs. If this gains an extra Reawaken before the boss dies, however, this gain significantly outweighs the loss of Ouroboros in buffs. 
+
+# 10. Viper Application Delays
+
+All skills in FFXIV have a delay between when the ability is executed and when the effect is actually applied. This is called application delay. Please note that FFXIV opportates on a snapshot system. Instant cast abilities snapshot when the cooldown clock starts spinning. This makes it possible for a buff to be applied to an ability when the snapshot happens, but expires before teh damage actually lands. In this case, because the buff was present for the snapshot, the ability is still buffed when the damage actually applies. 
+
+Below you can find a table of VPR abilities and their application delays. 
+
+![](/img/jobs/vpr/vpr_application_delay.png)
