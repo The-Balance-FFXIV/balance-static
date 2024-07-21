@@ -10,6 +10,8 @@ changelog:
     message: Created article.
   - date: 2024-07-04T19:28:43.660Z
     message: Updated for 2nd GCD AC.
+  - date: 2024-07-21T02:37:55.531Z
+    message: Updated Burst Window.
 ---
 # Reaper Intermediate Guide
 
@@ -34,6 +36,8 @@ The best ending in terms of damage would be Perfectio → Gluttony, but we will 
 
 * If you clip your GCD anywhere at all during this burst sequence, Combo instead of Perfectio (the window to maintain combo is really tight);
 * If you enter the first Enshroud on a non-combo GCD while still being in combo, then you will need to use Combo before Perfectio.
+
+The delay on Arcane Circle is only recommended for the first 2-minute window. It will most likely align in the same oGCD slot for every window after. Arcane Circle will still be slightly earlier than other buffs, but not early enough to where it will make a large impact.
 
 Gluttony also has some considerations regarding its cooldown timer and the gauge you have available. If cooldown is an issue but gauge and combo aren't, you can also suppliment this space with an Unveilled action for a tiny bit more damage in raid buffs.
 
