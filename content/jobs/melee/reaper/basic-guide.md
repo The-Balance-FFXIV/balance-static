@@ -107,10 +107,10 @@ Do be aware, that Gibbet and Gallows are the only skills that have positional re
 * Cast Harpe after 2 appears on the countdown, or at 1.7s exactly.
 * Shadow of Death
 
-  * Potion -- see Opener section for more info.
+  * Potion (As late as possible without clipping) -- see Opener section for more info.
 * Soul Slice
 
-  * Arcane Circle -- press this **ASAP** after the GCD to avoid clipping.
+  * Arcane Circle -- press this as late as possible without clipping your next GCD. Recommended a .5s Delay.
   * Gluttony
 * Executioner's Gibbet
 * Executioner's Gallows
