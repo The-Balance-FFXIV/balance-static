@@ -18,6 +18,8 @@ changelog:
     message: Updated patch number to 6.5
   - date: 2024-07-02T21:52:31.144Z
     message: Updated for Dawntrail.
+  - date: 2024-07-21T02:35:59.542Z
+    message: Updated Opener for better raid buff alignment.
 tags:
   - Reaper
   - guide
