@@ -17,6 +17,8 @@ changelog:
     message: Updated patch number to 6.5
   - date: 2024-07-04T19:40:07.603Z
     message: Added Dawntrail Opener
+  - date: 2024-07-21T02:33:45.812Z
+    message: Updated opener for better raid buff alignment.
 ---
 ## 2nd GCD AC
 
