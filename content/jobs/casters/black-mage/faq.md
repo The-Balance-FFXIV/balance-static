@@ -1,8 +1,8 @@
 ---
 title: Black Mage FAQ
 layout: qna
-patch: "6.4"
-lastmod: 2023-05-28T20:24:31.889Z
+patch: "7.0"
+lastmod: 2024-07-22T02:49:43.666Z
 changelog:
   - date: 2021-10-26T01:53:18.078Z
     message: Added page
@@ -13,64 +13,47 @@ changelog:
   - date: 2023-05-30T23:49:00.154Z
     message: 6.4 Patch Update
 qna:
-  - question: What is the secondary stat/meld priority?
-    answer: SpS to comfort first and foremost. Probably around 1.3k SpS is where
-      most people will start to find comfort for now, but if you want to run
-      higher or lower SpS you will likely end up with a fairly comparable set.
-      After that, for a high crit set it’s Crit > Det >= DH. For a high sps set,
-      it’s SpS > Det >= DH > Crit
-  - question: Do I need both Fire and Blizzard on my hotbars for Paradox?
-    answer: No, when fulfilling the conditions for Paradox, both Fire and Blizzard
-      are replaced on your hotbars with Paradox, and function the same. So you
-      will only need one available (generally recommended to keep Fire over
-      Blizzard).
-  - question: Why are there three High Fire II casts instead of two in the AoE rotation?
-    answer: >
-      Despite only needing the first cast to enter Astral Fire, and a second
-      cast to get the Enhanced Flare buff, it’s marginally more potency per
-      second to cast a third instead of going for Flares right away.
-  - question: How do I use Sharpcast?
-    answer: The general recommendation at this point is to use Sharpcast on Thunder
-      III. Since the DoT lasts 30s and proc lasts 40s, along with Sharpcast
-      being a 30s cd, you can easily keep up the DoT by sharping every
-      subsequent Thundercloud proc.
-  - question: Is it okay to use a Thundercloud proc early if I need it for movement?
+  - question: Should I use every Thunderhead buff I get?
+    answer: No, prioritize refreshing the DoT when it is falling off (less than
+      three seconds remaining). This means that you will not use every
+      Thunderhead buff, but since most of the damage is on the DoT portion,
+      efficient upkeep on the DoT is more important than maximizing Thunderhead
+      usage.
+  - question: How do I use Umbral Soul?
+    answer: Umbral Soul is a downtime spell, used to build up to and maintain Umbral
+      Ice III with three Umbral Hearts as well as get back to full MP. When you
+      can actively hit a target, you should not be using Umbral Soul. Since it
+      can only be used in Umbral Ice, you may need to Transpose from Astral Fire
+      before you can use it.
+  - question: Why does the opener not start in Umbral Ice to be able to get
+      additional Fire IV casts and a second Flare Star?
+    answer: Blizzard IV and Fire III casted in Umbral Ice III are relatively weak
+      casts, and don’t justify the additional fire casts gained from starting in
+      Umbral Ice. It is also likely to push some strong spells out of the buff
+      window.
+  - question: Why don’t we use a single target Flare in the opener to generate extra
+      Astral Soul stacks for a second Flare Star?
+    answer: Single target Flare is fairly weak, and is cast during a buff window in
+      place of the stronger Despair. While we gain a second Flare Star, this
+      occurs after buffs have already ended. Even before raid buff
+      consideration, single target Flare only really becomes worthwhile in very
+      specific and nuanced situations generally involving downtime.
+  - question: s it okay to refresh High Thunder early if I need it for movement?
     answer: If you have no other movement options in the given situation, using the
       proc early is better than losing out on the GCD entirely. However, try to
       plan better for next time you’re in the situation to have something
-      available for movement, allowing you to use the Thundercloud proc with
-      more proper timing.
-  - question: What is Umbral Soul used for?
-    answer: Purely a downtime tool, a better version of Transpose. Lets you build
-      back up to Umbral Ice III + Three Umbral Hearts during downtime, so you
-      can Thunder III -> Fire III when you can hit something again. If you end a
-      fight in Astral Fire, Transpose into UI so you can use Umbral Soul. Do not
-      use Umbral Soul during uptime.
+      available for movement, allowing you to refresh the DoT with more proper
+      timing.
   - question: Do I do anything to align with raid buffs/maximize damage dealt within
       raid buffs?
     answer: Often it will be advantageous to align pot uses with the rest of the
       party. oGCD abilities if used roughly on cd will often keep some semblance
-      of alignment naturally with other buffs. If you can spare a Xenoglossy (or
-      two) for use in raid buffs that you won’t need elsewhere to help keep
-      uptime, it’s a pretty reasonable consideration to do so. Otherwise, BLM
-      will generally fit good spells within raid buffs regardless of
-      alignment–prioritize uptime and solid rotational choices first and
+      of alignment naturally with other buffs. If you can spare any polyglot
+      stacks for Xenoglossy for use in raid buffs that you won’t need elsewhere
+      to help keep uptime, it’s a pretty reasonable consideration to do so.
+      Otherwise, BLM will generally fit good spells within raid buffs regardless
+      of alignment–prioritize uptime and solid rotational choices first and
       foremost.
-  - question: If I have 2.4k MP left and my Astral Fire phase is about to run out,
-      do I use Fire -> Despair, or only Despair?
-    answer: You use solely Despair, since it’s the better option on average.
-  - question: Is Lucid Dreaming useless on BLM?
-    answer: Outside of niche optimization, it is not used on BLM.
-  - question: Well, what's a comfy SpS?
-    answer: If you wanna go fast, go fast. If you wanna go slow, go slow. The
-      rotation works at both extremes. A popular, yet mostly arbitrary number to
-      aim for is ~1.3k+ SpS, but go with what works for you.
-  - question: Sharpcast (or any oGCD) is available, but I don’t have anything to use
-      to weave it. Do I clip to use it?
-    answer: Generally, you will want to delay use until the next available weaving
-      window. Situationally, if it means potentially losing any uses or you have
-      an otherwise strong reason to keep it more strictly on CD, then you can
-      clip it (and try to figure out a way to avoid that clip next pull).
 authors:
   - rika-vanih
 ---
