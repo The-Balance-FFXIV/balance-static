@@ -1,7 +1,7 @@
 ---
 title: Black Mage Changes
 layout: changes
-lastmod: 2023-05-28T19:51:02.856Z
+lastmod: 2024-07-22T01:03:16.024Z
 changes:
   - patch: "6.0"
     description: "[Click here to view all Endwalker changes on the Official
@@ -30,6 +30,14 @@ changes:
       | Xenoglossy            |   | Potency has been increased from 800 to 880. |
 
       | Enhanced Enochian III |   | Magic damage increase has been changed from 21% to 23%. |
+  - patch: "7.0"
+    description: "[Click here to view all Dawntrail changes on the Official
+      Site!](https://na.finalfantasyxiv.com/jobguide/blackmage)"
+  - patch: "7.01"
+    description: |-
+      | Action      |     | Adjustment                                |
+      | ----------- | --- | ----------------------------------------- |
+      | Umbral Soul |     | Now acquired at level 35 (previously 76). |
 authors:
   - Balance-BLM-Staff
 ---
