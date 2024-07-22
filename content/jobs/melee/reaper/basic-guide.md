@@ -18,6 +18,8 @@ changelog:
     message: Updated patch number to 6.5
   - date: 2024-07-02T21:52:31.144Z
     message: Updated for Dawntrail.
+  - date: 2024-07-21T02:35:59.542Z
+    message: Updated Opener for better raid buff alignment.
 tags:
   - Reaper
   - guide
@@ -107,10 +109,10 @@ Do be aware, that Gibbet and Gallows are the only skills that have positional re
 * Cast Harpe after 2 appears on the countdown, or at 1.7s exactly.
 * Shadow of Death
 
-  * Potion -- see Opener section for more info.
+  * Potion (As late as possible without clipping) -- see Opener section for more info.
 * Soul Slice
 
-  * Arcane Circle -- press this **ASAP** after the GCD to avoid clipping.
+  * Arcane Circle -- press this as late as possible without clipping your next GCD. Recommended a .5s Delay.
   * Gluttony
 * Executioner's Gibbet
 * Executioner's Gallows
