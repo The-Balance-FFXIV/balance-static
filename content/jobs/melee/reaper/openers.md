@@ -17,6 +17,8 @@ changelog:
     message: Updated patch number to 6.5
   - date: 2024-07-04T19:40:07.603Z
     message: Added Dawntrail Opener
+  - date: 2024-07-21T02:33:45.812Z
+    message: Updated opener for better raid buff alignment.
 ---
 ## 2nd GCD AC
 
@@ -28,10 +30,10 @@ changelog:
 * Cast Harpe after 2 appears on the countdown, or at 1.7s exactly.
 * Shadow of Death
 
-  * Potion -- see note below for Potion Optimization.
+  * Potion (Press this late into your GCD) -- see note below for Potion Optimization.
 * Soul Slice
 
-  * Arcane Circle -- press this **ASAP** after the GCD to avoid clipping.
+  * Arcane Circle -- press this as late as you can without clipping your next GCD. Recommended .5s delay.
   * Gluttony
 * Executioner's Gibbet
 * Executioner's Gallows
