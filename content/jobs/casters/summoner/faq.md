@@ -1,8 +1,8 @@
 ---
 title: Summoner FAQ
 layout: qna
-patch: "6.4"
-lastmod: 2022-09-14T05:00:05.633Z
+patch: "7.01"
+lastmod: 2024-07-23T03:48:44.991Z
 changelog:
   - date: 2021-11-28T01:53:18.458Z
     message: Created page
@@ -24,11 +24,6 @@ qna:
 
       If you're really interested in job balance, go to the \\#bot_spam
       channel on the Balance Discord and use the command !faq ewbalance."
-  - question: How do I know which opener to use?
-    answer: You want to reference your raid composition in deciding. If you are
-      heavy in 15s buffs, the fast Garuda opener is better. For a list of jobs
-      by buff duration, visit the \#smn_resources channel on the Balance Discord
-      for more information.
   - question: How/when do I use Ruin IV?
     answer: Prioritize using it whenever you can make use of the cleave or need the
       mobility. Otherwise, use it wherever you wish, as long as it is not inside
@@ -50,43 +45,15 @@ qna:
       If no -> ok to use primals and delay Demi.\\\r
 
       If I don’t know -> do not delay Demi."
-  - question: I'm using the SpS set but now my Demis don't align with burst windows.
-      What do I do?
-    answer: That's normal and intended. If you're running a SpS build, your Demis no
-      longer line up with your party's burst. This is fine, because you will be
-      gaining more Demi phases over the course of a fight. Do NOT delay your
-      Demis by inserting a lot of of Ruin IIIs in these builds. At that point,
-      you are just running a strictly worse Crit build, and it is bad.
   - question: What loot should I get from normal mode raids?
     answer: "For a general use set that minimizes spell speed we recommend you
       follow this priority:\\\r
 
       \r
 
-      Week One - Gloves and Feet\\\r
+      Week One - Gloves, Feet, or Head\\\r
 
-      Week Two - Pants
-
-
-      \r
-
-      \r
-
-      For a set that is heavier on SPS, we recommend you follow this
-      priority:\\\r
-
-      \r
-
-      Week One - Head + Ring\\\r
-
-      Week Two - Chest"
-  - question: What BiS set do I choose?
-    answer: The general Crit focused set (that's the 2.48 set) is likely to be
-      better in most content, so if you are not interested in adapting multiple
-      sets to different niche content, it's better to choose the 2.48 general
-      use Crit set. Speed build sets are only listed for those that really want
-      to go fast, or optimize to particular fight timelines in a similar vein as
-      the Extreme trial sets listed.
+      Week Two - Chest or Pants"
   - question: My team is asking me to delay my burst and searing light for buffs.
       What do I do?
     answer: >-
