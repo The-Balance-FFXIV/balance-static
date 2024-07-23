@@ -19,7 +19,7 @@ changelog:
   - date: 2024-07-23T03:51:24.023Z
     message: Updated for 7.01
 bis:
-  - type: genericlink
+  - type: xivgearset
     description: ""
     name: 2.46/2.47 7.01 BiS
     link: https://xivgear.app/?page=sl%7Ccf87eccc-ca7d-4238-80d9-4a557e1f0daf
