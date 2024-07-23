@@ -87,6 +87,16 @@ The twinblade AoE combo functions exactly like its single target counterpart. St
 
 ![](/img/jobs/vpr/pitofdreadcombo.png)
 
+## 2.3 What Breaks Combos
+
+Combos are broken by one of two things: expiring after not being continued for 30 seconds, or pressing another button that breaks the currently active combo chain. 
+
+The dual wield combo is not broken by any other part of Viper's kit except for the AoE version while the single target combo is active, and vice versa. You can freely use Dreadwinder/Pit of Dread combos, Reawaken, Uncoiled Fury, and Writhing Snap during an active dual wield combo at no penalty as long as the time since hitting the last combo action does not exceed 30 seconds.
+
+The twinblade combo, however, is broken by everything else that is not Uncoiled Fury or Writhing Snap. This means that is not possible to use Reawaken during an active Dreadwinder/Pit of Dread combo without breaking the combo!
+
+Please note that Reawaken and Uncoiled Fury are discussed in a later section.
+ 
 # 3. When to Use Single Target or AoE
 
 The only abilities that Viper needs to make a decision whether to use the Single Target or AoE forms are the dual wield and twinblade combo actions. All other damaging abilities have natural AoE damage, with the exception of Writhing Snap. 
