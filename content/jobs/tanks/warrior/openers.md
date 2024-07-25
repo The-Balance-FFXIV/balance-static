@@ -24,15 +24,15 @@ After the buffs are up, the skills are used more or less in order of importance,
 
 Assumed Timings:
 * Tomahawk starts at -0.70s and the pull starts at 0.00s
-* Party buffs are expected to be up at around 7.80s
+* Party buffs are expected to be up at around 7.80s, right when the first Inner Chaos goes out.
 
 Skill Speed requirements
 * \>=2.47 or slower for skill-for-skill copy.
 * <=2.45 and faster may move oGCDs slightly.
 
 Potion
-* Potion is expected to cover 12 GCDs at these Skill Speeds.
-* Potion can cover 13 GCDs. Plan accordingly.
+* Potion is expected to cover 12 GCDs at these Skill Speeds, from the first Inner Chaos right until the last Inner Chaos.
+* Potion can cover 13 GCDs on a faster GCD speed. It is possible to use a Late Potion after Maim in these cases.
 
 oGCDs
 * Upheaval and Onslaughts are used late to catch Party buffs. 
@@ -41,51 +41,15 @@ oGCDs
 
 #### All-Around Opener
 
-![All-Around Opener](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/Openers/WAR_Standard.png?raw=true "All-Around Opener")
+![All-Around Opener](https://raw.githubusercontent.com/Moxfi/XIV/main/Dawntrail/Resources/Openers/Warrior_Dawntrail_2.5_GCD_Warrior_Opener.png "All-Around Opener")
 
 
 The IR stacks last right until the 3rd Fell Cleave at 2.50 GCD. There's nothing special about this. This is your usual opener, probably.
 
-#### Early-IR Opener
-
-
-
-
-![Early-IR Opener](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/Openers/WAR_EarlyIR.png?raw=true "Early-IR Opener")
-
-Requires a faster set (eg. 2.40 GCD).  
-Expected to do 13 GCD Potion to fit in 3 IC.  
-Does not require a Face Pull, but doing so should fit in 2IC 1Rend to most buffs.
-
-
-#### Cursed Prepull IR Openers
-
-There are fights in which it may be worth it to use Inner Release before the pull starts.
-For some reason, we created the cursed Prepull IR openers, as an option to consider.
-
-**Do not use these**, unless you know the very specific circumstances under which you would want to use them. I expect you to do your own adjustments for any fight-specific needs. There is no support provided for these openers.
-
-The main reasoning for the opener is to get IR on cooldown faster, gaining extra uses before specific fight phases. An example of this would be a heavy-padding Zodiark Extreme, where the aim is to get Inner Release for the Orbs.
-
-Tightest of the tightest timers are:
-* IR at -00:09s
-* Potion at -00:02s
-* Pull at 00:00s
-
-**-9s IR into Eye**  
-[Prepull IR into Eye](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/Openers/WAR_-9s.png?raw=true)
-
-**-9s IR into Tempest**  
-[Prepull IR into Tempest](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/Openers/WAR_-9stempest.png?raw=true) 
-
-
-Triple cursed:  
-**-29s IR into Rend**  
-[Prepull IR into Rend](https://github.com/Moxfi/XIV/blob/main/WAR/Resources/Openers/WAR_-29s.png?raw=true) 
 
 ## More on various openers
 
-There are more "Early IR" openers, and they all have various niche use cases. For a short documentation on these, please see this [Google doc](https://bit.ly/ew-war-openers)
+There are more "Early IR" openers, and they all have various niche use cases. For a short documentation on these, please see this [Google doc](https://bit.ly/dt-war-openers)
 
 ## Rotation Optimization
 
