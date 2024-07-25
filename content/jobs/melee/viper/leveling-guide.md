@@ -3,13 +3,12 @@ title: Viper Leveling Guide
 authors:
   - akashi
   - Balance-VPR-Staff
+patch: "7.01"
 lastmod: 2024-06-17T23:32:14.858Z
 ---
-# Tentative Viper Leveling Guide
+# Viper Leveling Guide
 
 - - -
-
-**THIS WAS WRITTEN PRIOR TO THE FULL RELEASE OF DAWNTRAIL. READ AT YOUR OWN RISK.**
 
 This guide was written to inform players who are seeking to, or are currently leveling Viper. The guide aims to inform players about how to initially play as Viper, what gear they should use while levelling and where to find it, the key basics of the job, as well as some example openers for lower levels. If you are already a level 100 Viper and are looking for information pertaining to the job at level 100, please see the [Viper Basic Guide](https://www.thebalanceffxiv.com/jobs/melee/viper/basic-guide/).
 
@@ -41,7 +40,7 @@ It is recommended to purchase a combination of Ascension and Augmented Credendum
 
 ### Stat Priority And Materia
 
-Viper follows the stat priority of: Critical Hit > Determination > Direct Hit > Skill Speed. However, it is recommended to use the highest item level gear available to you, as it will give you more of your primary stat which will always result in a higher DPS gain than lower item level counterparts.
+Viper follows the stat priority of: Critical Hit > Determination >= Direct Hit > Skill Speed. However, it is recommended to use the highest item level gear available to you, as it will give you more of your primary stat which will always result in a higher DPS gain than lower item level counterparts.
 
 When melding with Materia it is advised to follow the same stat priority. Best in Slot gearsets can be found in #vpr_resources.
 
@@ -133,7 +132,6 @@ Filler is defined by the sections of our rotation between our two minute burst w
 
 ![](/img/jobs/vpr/vpr-standardcombo.png)
 
-
 \
 The doubleblade combo can be started with either Dread Fangs or Steel Fangs, with the difference being that Dread Fangs applies and refreshes Noxious Gnash at the cost of being 100 potency less.
 
@@ -146,7 +144,6 @@ If you simply push whichever button is is highlighted on your hotbar then your b
 #### Combined-Blade Combo
 
 ![](/img/jobs/vpr/dreadwindercombo.png)
-
 
 \
 The twinblade combo starts with Dreadwinder, which applies and refreshes Noxious Gnash, but is restricted to two charges on a 40 second cooldown per charge. 
@@ -165,6 +162,8 @@ Make sure between your burst windows you:
 * Spend Rattling Coils between combos, ensuring no buffs fall off.
 
 # Openers & Rotation
+
+It is important to note that in personal play, such as in dungeons and trials, anything past the opener can be used as the player desires. Burst windows should only be paid attention to if you plan on using them during Ultimates, Extremes, or other high-end content where DPS and feeding raid buffs may be important.
 
 ## Levels 70-74
 
