@@ -1,8 +1,8 @@
 ---
 title: Summoner Best in Slot (BiS)
 layout: bis
-patch: "7.0"
-lastmod: 2024-07-07T19:49:38.582Z
+patch: "7.01"
+lastmod: 2024-07-23T03:51:23.122Z
 changelog:
   - date: 2021-11-09T04:29:30.904Z
     message: Created page
@@ -16,11 +16,13 @@ changelog:
     message: Updated for 6.55.
   - date: 2024-07-07T19:49:48.539Z
     message: Updated for 7.0
+  - date: 2024-07-23T03:51:24.023Z
+    message: Updated for 7.01
 bis:
-  - type: etro
+  - type: xivgearset
     description: ""
-    name: 2.46 7.0 BiS
-    link: 078cc0e0-bf4b-4c41-8d2d-582adaa6f475
+    name: 2.46/2.47 7.01 BiS
+    link: https://xivgear.app/?page=sl%7Ccf87eccc-ca7d-4238-80d9-4a557e1f0daf
   - type: etro
     description: ""
     link: 5a1cd30d-5780-4319-9e07-b87a3c0727a7
