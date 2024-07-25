@@ -171,7 +171,7 @@ The second adjustment is optional and may be a significant gain at kill times th
 
 # 10. Viper Application Delays
 
-All skills in FFXIV have a delay between when the ability is executed and when the effect is actually applied. This is called application delay. Please note that FFXIV opportates on a snapshot system. Instant cast abilities snapshot when the cooldown clock starts spinning. This makes it possible for a buff to be applied to an ability when the snapshot happens, but expires before the damage actually lands. In this case, because the buff was present for the snapshot, the ability is still buffed when the damage actually applies. 
+All skills in FFXIV have a delay between when the ability is executed and when the effect is actually applied. This is called application delay. Please note that FFXIV operates on a snapshot system. Instant cast abilities snapshot when the cooldown clock starts spinning. This makes it possible for a buff to be applied to an ability when the snapshot happens, but expires before the damage actually lands. In this case, because the buff was present for the snapshot, the ability is still buffed when the damage actually applies. 
 
 Below you can find a table of VPR abilities and their application delays. 
 
