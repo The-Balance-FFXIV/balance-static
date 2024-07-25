@@ -5,7 +5,7 @@ authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
 patch: "7.01"
-lastmod: 2024-07-18T12:28:49.258Z
+lastmod: 2024-07-25T12:49:28.273Z
 changelog:
   - date: 2022-02-26T14:53:27.569Z
     message: Uploaded the new GDoc guide for EW WAR
