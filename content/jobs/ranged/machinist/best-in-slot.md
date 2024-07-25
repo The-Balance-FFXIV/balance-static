@@ -20,8 +20,8 @@ changelog:
     message: top bis updated for 6.5
 bis:
   - type: etro
-    name: Pre-raid Extreme+Tomestone BiS
-    link: https://etro.gg/gearset/d0993d6e-4816-4905-9ba6-6a206c073314
+    name: Pre-Savage BiS
+    link: https://etro.gg/gearset/81ae7de6-6aeb-43be-a6cd-b56b76f95eac
   - type: etro
     description: Highest DPS, abuses 6.5 dungeon gear and the 645 relic weapon.
     name: TOP Best-in-Slot 2.5 GCD
