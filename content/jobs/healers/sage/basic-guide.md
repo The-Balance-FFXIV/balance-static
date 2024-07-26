@@ -83,7 +83,7 @@ However, you have three additional GCDs and one oGCD that are useful against sin
 * {{< inline >}}![Phlegma III](https://xivapi.com/i/003000/003681_hr1.png){{< /inline >}}Phlegma
 * {{< inline >}}![Toxikon II](https://xivapi.com/i/003000/003684_hr1.png){{< /inline >}}Toxikon
 * {{< inline >}}![Pneuma](https://xivapi.com/i/003000/003686_hr1.png){{< /inline >}}Pneuma
-*   ![](/img/jobs/sge/psyche-ffxiv.png)
+* ![](/img/jobs/sge/psyche-ffxiv.png)
 
 Phlegma is a damage gain, while Toxikon and Pneuma are damage neutral. Psyche is an oGCD and can be used losslessly. Let's talk about the best times to use each one.
 
