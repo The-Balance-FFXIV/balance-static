@@ -3,8 +3,9 @@ title: Sage Leveling Guide
 card_header_image: /img/jobs/sge/sgeleveling.png
 authors:
   - meru
-patch: "6.2"
-lastmod: 2022-09-18T05:32:57.854Z
+  - Balance-SGE-Staff
+patch: "7.0"
+lastmod: 2024-07-26T05:32:57.854Z
 changelog:
   - date: 2022-01-24T06:59:04.463Z
     message: Added page
@@ -14,6 +15,8 @@ changelog:
     message: Various misc. updates.
   - date: 2022-09-18T05:32:58.535Z
     message: Updated Holos section
+  - date: 2024-07-26T08:10:48.293Z
+    message: Updated Sage leveling guide for Dawntrail
 ---
 ## Introduction
 
@@ -164,6 +167,26 @@ Eukrasian Diagnosis, Eukrasian Prognosis and Kardia heals get a decent potency u
 
 ## Damage
 
-Nothing significant changes about your damage rotation at these levels. In multitarget scenarios, keep applying your DoT to enemies while running between pulls and spam Dyskrasia after the pull is settled. Spend Toxikons (but do not actively generate them while enemies are targetable) and Phlegma charges as they come up. 
+At level 82, SGE gains a new AoE DoT: Eukrasian Dyskrasia. While gathering mobs in multitarget scenarios, you can spam Dyskrasia or Toxikon and apply Eukrasian Dyskrasia to all mobs when they are gathered. Spend Toxikons (but do not actively generate them while enemies are targetable) and Phlegma charges as they come up. 
 
 In single target scenarios, Toxikon finally becomes damage neutral with Dosis at level 82 and can be used as a lossless movement tool when you have Addersting stacks.
+
+# Levels 90-100
+
+Through this level range, SGE should feel similar to how it has felt to this point. However, it will receive a few changes that lend themselves to significantly increased tank and raidwide survivability while also increasing its damage profile and complexity.
+
+## Healing
+
+Sage receives valuable healing traits at level 94. The cooldown on Soteria is reduced to 60s and, new to all healers and casters, Swiftcast will become a 40s cooldown. This allows for 3 Swiftcast uses every 2 minutes as opposed to the previous 2 Swiftcasts per 2 minutes and can be beneficial if there are party deaths. Soteria's 60s CD ensures that it is now up for each double pull in standard dungeons.
+
+At level 96, Sage gains an upgrade, Eukrasian Prognosis II, to its GCD shield. Eukrasian Prognosis II gives a 360p AoE shield and 100p heal. When combined with Sage's other buttons (Zoe, Physis, and its level 100 capstone, Philosophia), E. Prog II's shield output can be used as a significant buffer to raidwide damage. Though this is simply a potency change in effect, Sage's kit relies on synergy between its buttons, and using E. Prognosis II with heal buffs can vastly increase your party's chances of surviving a hard-hitting mechanic or failure points.
+
+Level 98 increases the healing buff on Physis to 15s. Though this is a minimal change, you can take advantage of it to put out a buffed shield or heal at the end of a sequence of repeated damage or in preparation for an upcoming instance of raidwide damage.
+
+Sage's capstone ability is Philosophia, a significant addition to its heal kit. It can be considered, in a sense, a party-wide Kardia with a notable bonus trait. For every spell, or GCD, that Sage casts, every party member under Philosophia's buff, Eudaimonia, will receive a 150p heal. Additionally, it will buff the potency of every GCD heal by 20%. Though this button is on a steep 3-minute cooldown, the effects have a duration of 20s. Combined with Sage's other heal buffs, Sage can easily put out extremely high amounts of healing in a short period.
+
+## Damage
+
+Sage's damage output still comes significantly from Phlegma in both single-target and multi-target scenarios, but the job receives a new addition to its kit in the form of Psyche, a 600p oGCD with 50% falloff. As Psyche is on a 60s CD, you want to send this button first in buffs and then again on cooldown for the remainder of a fight. Psyche is essentially an additional Phlegma that aligns easily with party buffs. 
+
+At level 94, all healers including Sage receive an interesting change to their damage kits. Players will receive a trait that increases the potency of Dosis III to 360p, Toxikon II to 360p, and Pneuma to 360p. While this means that Toxikon and Pneuma are still a gain over Dyskrasia in all multi-target scenarios, Dyskrasia is not a gain on Dosis until 3 targets. If there are 3 or more targets, use Dyskrasia. However, if there are only 2 targets, it is more beneficial after level 94 to use Dosis.
