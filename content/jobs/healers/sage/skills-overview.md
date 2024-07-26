@@ -42,7 +42,7 @@ While Sage does not offer a raid buff, it makes up for it by having the highest 
 
 ![Dosis III](https://xivapi.com/i/003000/003680_hr1.png)
 
-This is your main filler offensive GCD. When you have nothing higher priority to cast, use this. At 330 potency, it is the most powerful of all the healer single target filler GCDs.
+This is your main filler offensive GCD. When you have nothing higher priority to cast, use this. At 360 potency, it is the most powerful of all the healer single target filler GCDs.
 
 ## Eukrasian Dosis
 
@@ -54,7 +54,7 @@ Eukrasian Dosis is your damage over time skill. Like the other healers, it lasts
 
 ![Dyskrasia II](https://xivapi.com/i/003000/003683_hr1.png)
 
-Your spammable area-of-effect (AoE) cooldown. With 170 potency per target, compared to 330 on Dosis, It becomes a gain on just two targets. It is also an instant cast, so it can be used while moving. Ideally, it would never be used on a single target, but it *can* function as a last resort movement skill.
+Your spammable area-of-effect (AoE) cooldown. With 170 potency per target, compared to 360 on Dosis, It becomes a gain on three targets. It is also an instant cast, so it can be used while moving. Ideally, it would never be used on a single target, but it *can* function as a last resort movement skill.
 
 ## Phlegma
 
@@ -76,7 +76,7 @@ For dungeons, the priority would be to use them on packs once the tank has finis
 
 ![Pneuma](https://xivapi.com/i/003000/003686_hr1.png)
 
-Pneuma is a combination damage and healing ability. It is damage-neutral compared to Dosis, with the same 330 potency on the main target. For multiple targets, it is 198p on each target, making it fall behind only Phlegma for AoE. The 600p heal is already decent, but it is best used with Zoe for a 900p damage-neutral AoE heal.
+Pneuma is a combination damage and healing ability. It is damage-neutral compared to Dosis, with the same 360 potency on the main target. For multiple targets, it is 216p on each target, making it fall behind only Phlegma for AoE. The 600p heal is already decent, but it is best used with Zoe for a 900p damage-neutral AoE heal.
 
 Due to it being an AoE, it is also useful for dungeons and situations such as P3S where it might be possible to hit multiple targets.
 
@@ -84,7 +84,7 @@ Due to it being an AoE, it is also useful for dungeons and situations such as P3
 
 ![Toxikon II](https://xivapi.com/i/003000/003684_hr1.png)
 
-Toxikon is an instant cast 330 potency single target GCD. This makes it a damage neutral movement tool for single target encounters. However, it consumes Addersting charges (which are gained from your Eukrasian Diagnosis shield being consumed fully), meaning you will need to plan out your uses. For AoE scenarios, it behaves similarly to Dyskrasia, but has different scaling, giving it more overall damage in all practical scenarios.
+Toxikon is an instant cast 360 potency single target GCD. This makes it a damage neutral movement tool for single target encounters. However, it consumes Addersting charges (which are gained from your Eukrasian Diagnosis shield being consumed fully), meaning you will need to plan out your uses. For AoE scenarios, it behaves similarly to Dyskrasia, but has different scaling, giving it more overall damage in all practical scenarios.
 
 In order to use this, you will need to use Eukrasian Diagnosis, which unfortunately is a GCD heal. However, you start the instance with three charges. Apart from the three freebies, it is best charged during downtime so that it remains DPS-neutral.
 
@@ -183,7 +183,7 @@ Kardia places the Kardion buff on the target. Kardion is an indefinite buff, sim
 AoE regen and healing boost.
 
 * AoE regen - 650p total over 15 seconds (five ticks of 130p each).
-* Places a buff on each target for 10 seconds that increases healing received by 10%.
+* Places a buff on each target for 15 seconds that increases healing received by 10%.
 
   * This affects oGCD heals and includes heals from other players.
   * If you are going to cast other heals in addition to Physis, try to use Physis first so it can amplify those other heals.
@@ -232,6 +232,16 @@ Roughly the AoE equivalent of Taurochole, but a normal cooldown rather than Adde
 
 Like Taurochole, it is ideal if you can make full use out of every aspect (healing, shielding and mitigation). If you only need the mitigation, consider using Kerachole. However, if you do need to use it purely for mitigation, the heal being only 300p means it isn't the end of the world. 
 
+## Philosophia
+
+![](/img/jobs/sge/ffxiv-philo.png)
+
+Philosophia grants a raidwide regenerative buff called Eudaimonia that heals players for 150p for each spell that the Sage casts and buffs GCD heals by 20% for 20s. This is a button that is exceptionally useful in a number of ways, and is on a 3m cooldown as a result.
+
+Combined with Eukrasian Prognosis and Zoe, Philosophia can output a significant shield and heal and function as a Holos that costs a GCD heal. If you choose to not mix it with a GCD shield, this still serves as a free regen that heals the party as you do damage similar to a raidwide Kardia.
+
+
+
 # GCD Heals
 
 Excluding Pnuema as discussed in the Offensive GCD section, GCD heals should be your last resort. They cost damage, and Sage's GCD heals are not particularly effective compared to those of other healers.
@@ -262,9 +272,9 @@ AoE 300 potency heal. Extremely low numbers with no benefit make this a very rar
 
 ## Eukrasian Prognosis
 
-![Eukrasian Prognosis](https://xivapi.com/i/003000/003660_hr1.png)
+![](/img/jobs/sge/e-prog-ii.png)
 
-AoE 100p heal plus 320p shield. As with the base version of this spell, it simply does not have very good numbers.
+AoE 100p heal plus 360p shield. As with the base version of this spell, it simply does not have very good numbers. However, it can be mixed with Sage's heal buffs, including Physis, Zoe, and Philosophia to greatly increase raidwide survivability.
 
 # Utility
 
@@ -286,7 +296,7 @@ You are the only healer who has a gap closer, so make use of it.
 
 * Boosts Kardion healing by 50%
 * Lasts 15 seconds
-* 90 second cooldown
+* 60 second cooldown
 
 Useful for when you need a little extra free single target healing, or general tank upkeep.
 
