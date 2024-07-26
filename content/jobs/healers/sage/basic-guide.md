@@ -78,13 +78,14 @@ While there are other openers available in the [Openers](/jobs/healers/sage/open
 
 The standard rotation is again similar to other healers in that you would want to make sure your DoT is active 100% of the time. Between DoT refreshes, use Dosis.
 
-However, you have three additional GCDs that are useful against single targets (even if some of them have AoE damage too):
+However, you have three additional GCDs and one oGCD that are useful against single targets (even if some of them have AoE damage too):
 
 * {{< inline >}}![Phlegma III](https://xivapi.com/i/003000/003681_hr1.png){{< /inline >}}Phlegma
 * {{< inline >}}![Toxikon II](https://xivapi.com/i/003000/003684_hr1.png){{< /inline >}}Toxikon
 * {{< inline >}}![Pneuma](https://xivapi.com/i/003000/003686_hr1.png){{< /inline >}}Pneuma
+*   ![](/img/jobs/sge/psyche-ffxiv.png)
 
-Phlemga is a damage gain, while Toxikon and Pneuma are damage neutral. Let's talk about the best times to use each one.
+Phlegma is a damage gain, while Toxikon and Pneuma are damage neutral. Psyche is an oGCD and can be used losslessly. Let's talk about the best times to use each one.
 
 #### Phlegma
 
