@@ -1,8 +1,8 @@
 ---
 title: Black Mage Best in Slot (BiS)
 layout: bis
-patch: "6.55"
-lastmod: 2024-01-20T02:19:23.107Z
+patch: "7.0"
+lastmod: 2024-07-22T02:37:54.441Z
 changelog:
   - date: 2024-01-20T02:11:30.616Z
     message: Added BiS sets using Manderville Relic
@@ -16,57 +16,15 @@ changelog:
     message: Added 6.05 sets
   - date: 2021-10-26T01:58:33.491Z
     message: Created page
+  - date: 2024-07-22T02:46:38.040Z
+    message: Updated for 7.0
 bis:
-  - type: etro
-    description: ""
-    name: 2469 SpS High SpS BiS
-    link: https://etro.gg/gearset/974e1ca4-41cf-4432-802e-fa3f4b9cf14f
-  - type: etro
-    description: ""
-    name: 1302 SpS High Crit BiS
-    link: https://etro.gg/gearset/a5f74976-a0d2-43e4-b788-b918348d3787
-  - type: etro
-    description: Not recommended for beginners, primarily for advanced nonstandard gameplay
-    name: 826 SpS High Crit BiS
-    link: https://etro.gg/gearset/38b4d8d1-f3dc-4c4f-8718-669054fa8a3d
-  - type: etro
-    description: Compatible with RDM/SMN BiS by changing the SpS meld on the earring to Det.
-    name: 844 SpS High Crit BiS (RDM/SMN-friendly)
-    link: https://etro.gg/gearset/be89a292-5c43-4c93-86a1-59adbd9cfff9
-  - type: etro
-    description: ""
-    name: TOP 2293 SpS BiS
-    link: https://etro.gg/gearset/69a2d970-4191-4312-906d-1db87a41f23a
-  - type: etro
-    description: ""
-    name: TOP 1296 SpS BiS
-    link: https://etro.gg/gearset/dc517c4c-b2f9-40e4-86f6-24d7cf2298d6
-  - type: etro
-    description: ""
-    name: TOP 844 SpS BiS
-    link: https://etro.gg/gearset/e0cb9c92-cc04-4259-9d22-5404d046af88
-  - type: etro
-    description: ""
-    name: DSR 2126 SpS Speed BiS
-    link: https://etro.gg/gearset/4dad290e-26d4-4bb7-9820-df0ec941a8e5
-  - type: etro
-    description: ""
-    link: https://etro.gg/gearset/10cef1dd-d61f-45dd-b083-b04a4e7467db
-    name: DSR 1354 SpS Crit BiS
-  - type: etro
-    description: ""
-    name: DSR 828 SpS BiS
-    link: https://etro.gg/gearset/db71200b-af75-429a-9d1a-d8c6bc42413f
-  - type: etro
-    description: ""
-    name: DSR 1356 SpS Max VIT
-    link: https://etro.gg/gearset/5a819e8a-b41c-4929-8c9a-df10f7e4afb1
   - type: gsheets
-    description: Contains alternative sets to the ones provided above, including
-      sets at different SpS values as well as non-relic sets. Check it out
-      [here](https://docs.google.com/spreadsheets/d/1t3EYSOPuMceqCFrU4WAbzSd4gbYi-J7YeMB36dNmaWM/edit#gid=654212594)
+    description: Gear Sheet for comparing various gearsets/meld options. On Savage
+      launch in 7.05, both this page and the gear sheet will be updated with
+      sets for both prog and Best-in-Slot.
     name: Gear Sheet
-    link: https://docs.google.com/spreadsheets/d/e/2PACX-1vSCsbn5CJAMRXv-WJEV-W1FCPtrVhZeMU0JD8SleJ_Ga_5ur7wgLisKdca5M-KzTqahrtCjAP9qLtvG/pubhtml
+    link: https://docs.google.com/spreadsheets/d/1E_y3ADj9FcUXrJg3sbK-UiIcOoYawB8Et9P-LfxT_TE/edit?gid=654212594#gid=654212594
 authors:
   - xenitan
   - Fürst-Blumier
