@@ -399,6 +399,7 @@ All Aetherflow heals cost 1 Aetherflow stack and increase Faerie Gauge by 10.
 ### **Chain Stratagem**
 
 * Raid buff: Increases the crit rate of attacks against the target by 10% for 20s.
+* Grants Impact Imminent, allowing the use of Baneful Impaction.
 * Stacks additively with your base critical chance and with other crit rate buffs (e.g. Battle Litany).
 * Use during the opener, then use on cooldown. Only delay its usage if your group is coordinating raid buffs for optimization.
 
