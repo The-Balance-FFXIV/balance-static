@@ -2,7 +2,6 @@
 title: Gunbreaker Basic Guide
 card_header_image: /img/jobs/gnb/basic.png
 authors:
-  - azazael
   - Balance-GNB-Staff
 patch: "6.4"
 lastmod: 2023-05-28T13:28:36.724Z
@@ -24,344 +23,349 @@ changelog:
 
 #### Authors
 
-**Krom Ulus** | Adamantoise (Aether) | discord: krom.ulus\
-**Azazel Raine** | Balmung (Crystal) | discord: azazelraine
+**Krom Ulus** | discord: krom.ulus\
+**Azazel Raine** | discord: azazelraine\
+**Rin Karigani** | discord: rinkarigani
 
 - - -
 
-## Playstyle and Core Concepts
+## Intro
 
 - - -
 
-Gunbreaker is a higher APM job with a focus on building and spending cartridges to deal very high damage inside of tight burst windows. This guide will introduce the relevant actions, gauge usage, and priority system to manage your rotation.
+**Gunbreaker** is a tank job with a focus on continuously building and spending cartridges to deal very high damage inside of strict burst windows. As a basic overview, the rotation is a builder-spender rotation focused on optimizing damage dealt every minute inside **No Mercy**, which is a 20% damage buff that lasts for 20 seconds after its use.
 
-The rotation is a builder-spender rotation focused on maximizing damage inside the personal 20% damage buff, **No Mercy**, every 60 seconds.
-
-The **powder gauge** is used to hold cartridges that may be used on any weaponskills requiring them, typically used in **No Mercy**. The gauge can hold two cartridges at level 30, and three cartridges at level 88.
-
-### No Mercy
+In this guide we will discuss a number of subjects, beginning with a simple introduction to the priority system for the rotation and then moving into more scenario specific subjects for particular things that alter the rotation in specific ways.
 
 - - -
 
-**No Mercy** is a 20% damage buff that lasts for 20 seconds.
-
-* We want as much potency in this buff as possible.
-* We want as many GCDs in this buff as possible.
-* **[How To Fit 9 GCDs In No Mercy](https://youtu.be/rdNHJv7aLAg) (≤ 2.47 GCD)** 
-
-### Generation
+### CARTRIDGE GAUGE
 
 - - -
 
-Completing certain combo chains or using certain abilities generate gauge. **Do not overcap the cartridge gauge**.
+The cartridge gauge carries a maximum of 3 cartridges, and is the resource gauge that we manage in order to carry enough cartridges to cast all of our cooldowns within **No Mercy**.
 
-**Solid Barrel Combo**
+The actions that will fill the cartridge gauge are as follows:
 
-* Generates 1 cartridge.
+* **Solid Barrel** and **Demon Slaughter** both generate one cartridge upon finishing their combo.
+* **Bloodfest** will completely refill the cartridge gauge.
 
-**Demon Slaughter Combo**
+The actions that will spend cartridges from the gauge are as follows:
 
-* Replaces Solid Barrel Combo at 3+ targets.
-* Generates 1 cartridge.
-
-**Bloodfest**
-
-* Completely fills the cartridge gauge.
-* Only use this when the gauge is **empty**, or else it will overwrite any existing cartridges.
-
-### Spending Gauge
+* **Gnashing Fang, Burst Strike,** and **Fated Circle** all spend one cartridge.
+* **Double Down** will spend two cartridges.
 
 - - -
 
-Prioritize using cartridges on major cooldowns or to stop the gauge from overcapping.
-
-**Gnashing Fang Combo**
-
-* Requires **1 cartridge**.
-* Use **Continuation** with every GCD in this combo.
-
-**Double Down**
-
-* Requires **2 cartridges**.
-
-**Burst Strike**
-
-* Spends **1 cartridge**.
-* Use cartridges **Gnashing Fang** and **Double Down** first if possible.   
-
-**Fated Circle**
-
-* Spends **1 cartridge**.
-* Replaces **Burst Strike** at 2+ targets.
-* Replaces **Gnashing Fang** at 4+ targets.
+### NO MERCY AND BUFF PRINCIPLES
 
 - - -
 
-## The Priority System
+#### Section TLDR:
+
+* All damage is calculated on the frame that an action is cast, not when damage hits a target.
+* Use **No Mercy** off cooldown in accordance with the usage guidelines at the end of this section.
+* Do not attempt to clip the GCD to cast **No Mercy** off cooldown.
 
 - - -
 
-Splitting the rotation into two main phases helps understand the fundamentals behind gauge usage:
+We need to establish a couple of concepts first regarding both how damage is calculated and how cooldowns align from GCD speeds to understand how and when to use **No Mercy**.
 
-* The **filler phase**.
-* The **burst phase**.
+#### Damage Snapshotting
 
-The burst phase begins when **No Mercy** is activated, and the filler phase begins when  **No Mercy** ends.
+Damage is calculated by snapshotting all buffs and debuffs at the exact frame that the cast point was registered. This means that the damage actually applying to and hitting a target is already calculated before it reaches the target, actions are still buffed so long as they are used before the buff falls off, not as the damage lands. Debuff-based damage over time effects work the same way, such as **Sonic Break**.
 
-![GNB Simple Infographic](/img/jobs/gnb/gnb_rg_40.png "GNB Rotation")
+As a result, when playing fast enough GCD speeds this allows us to buff additional GCDs while **No Mercy** is still active without needing **No Mercy** to remain active as that damage lands. It also means that as long as damage-over-time effects fully tick and expire without being wasted, they can go anywhere within **No Mercy**.
 
-### Filler Phase
+#### 9 GCD No Mercy
 
-- - -
+An additional 9th GCD into **No Mercy** is typically possible on GCD speeds faster than or equal to 2.47. Thanks to damage snapshotting, we only have to care that the action is pressed while **No Mercy** is active, meaning so as long as the total time to press 9 GCDs is less than 20 seconds, 9 GCDs are possible. Buffing the 9th GCD is very dependent on when **No Mercy** is used relative to the GCD roll and it requires a specific usage timing.
 
-The **Solid Barrel** combo should be used continuously to fill the cartridge gauge for **No Mercy**.
+In order to buff a 9th GCD inside **No Mercy**, we must use **No Mercy** as a “late weave”, or cast it in between the bottom left and top left corner of our GCD icon. This makes it so that **No Mercy** will activate right as we press the next GCD, letting us use as much of the 20 seconds that is possible.
 
-* Use **Gnashing Fang** and **Blasting Zone** off cooldown **once**.
-* Use **Burst Strike** only when the cartridge gauge is about to overcap on cartridges.
+#### No Mercy Usage Guidelines
 
-When **No Mercy** comes off cooldown, enter the **burst phase**.
+Certain GCD speeds are poorly aligned to **No Mercy** and will cause **No Mercy** to drift rather excessively when attempting to cast it, which can drift **No Mercy** away from party buffs. To minimize this as much as possible, there are basic usage guidelines for how and when to cast **No Mercy**.
 
-* If **Gnashing Fang** comes off cooldown again before **No Mercy**, hold it into **No Mercy**.
+**2.50 GCD**
 
-### Burst Phase
+* Use **No Mercy** as an early weave off cooldown.
 
-- - -
+**2.45 - 2.47 GCD**
 
-Once **No Mercy** is off cooldown, use it off cooldown and begin using your cooldowns inside of the buff.
+* Use **No Mercy** as an early weave without **Bloodfest**.
+* Use **No Mercy** as a late weave with **Bloodfest**.
 
-**No Mercy** should contain:
+**2.40 - 2.44 GCD**
 
-* A **Gnashing Fang** combo, **Double Down**, **Sonic Break**, and as many usages of **Burst Strike** as possible.
-* Prioritize using **Gnashing Fang** and **Double Down** over **Burst Strike**.
-* Use a **combo action** when nothing else can be spent or used.
-* Use **Lightning Shot** if you cannot remain in melee range.
-
-**Blasting Zone**, **Bow Shock**, **Continuation**, **Bloodfest**, and **Rough Divide** are oGCD actions that should be used within **No Mercy**.
-
-* **Bloodfest** should not be used until all cartridges have been spent.
-* **Rough Divide** should be used outside of **No Mercy** if it allows for melee uptime.
-
-When **No Mercy** ends, return to the **filler phase**. 
-
-### Forced 2-Cartridge Burst Phase 
+* Use **No Mercy** as a late weave off cooldown.
 
 - - -
 
-It is possible for this scenario to occur within your rotation:
-
-* The cartridge gauge is full.
-* The next combo action is **Solid Barrel**.
-* **No Mercy** will be off cooldown after using the next GCD.
-
-This forces us to enter **No Mercy** with two cartridges if we use **No Mercy** off cooldown. There is more than one solution to this, so refer to the infographic.
-
-![](/img/jobs/gnb/gnb_2c_sh2.1_1080p.png)
-
-### **Gnashing Fang Combo**
+### **PRIORITY SYSTEM**
 
 - - -
 
-The **Gnashing Fang** combo is the most valuable action Gunbreaker has, so making complete use of it is important.
+The simplest explanation of the rotation revolves around a filler and burst phase concept. Review the graphic with the text explanation below it.
 
-* This means that this combo should never be broken or cut off and lost by downtime if possible.
-* You can only break the **Gnashing Fang** combo by continuing a different combo.
-* Every combo action in the **Gnashing Fang** combo will refresh the combo timer to 30 seconds.
-* Every usage of **Continuation** must be used on the same GCD that it was granted, or it will be lost forever.
 
-![What can break Gnashing Fang Combo](/img/jobs/gnb/gnb_combobreaker_v2.1.png "What can break Gnashing Fang Combo")
+
+![Gunbreaker Rotation Graphic](/img/jobs/gbn/updatedgnbrot1.2.png)
+
+
+
+
+
+- - -
+
+#### FILLER PHASE
+
+The goal of this phase is to prepare the appropriate cartridges for **No Mercy**.
+
+* Complete the **Solid Barrel** combo continuously to fill the gauge.
+* Use **Gnashing Fang** and **Blasting Zone** off cooldown ONCE.
+* Use **Burst Strike** only when the cartridge gauge is about to overcap.
+
+  * This occurs anytime the gauge is full and **Solid Barrel** is the next action to use.
+  * You should **Burst Strike** into **No Mercy** wherever it is possible to buff **Hypervelocity** when playing at a 2.50 GCD speed.
+
+Once **No Mercy** comes back off cooldown, weave it in accordance with the usage guideline above this section.
+
+#### BURST PHASE
+
+The goal of this phase is to fit the maximum amount of potency into **No Mercy**.
+
+GCD cooldowns within **No Mercy** should be used in the following priority:
+
+* Use **Gnashing Fang** and **Double Down**.
+* Use **Reign of Beasts** after **Gnashing Fang**.
+* Use **Burst Strike** if there is room to do so without pushing out any cooldowns from **No Mercy**.
+* Use **Combo Actions** when there are no cooldowns available for use.
+* Use **Lightning Shot** if you will be forced out of melee range.
+
+**Sonic Break** should be used in the following priority:
+
+* Use **Sonic Break** as the 9th GCD on 2.4X GCDs to stop **Hypervelocity** from falling out of **No Mercy**.
+* Use **Sonic Break** earlier if any DOT uptime is lost from downtime or fight killtime.
+* Use **Sonic Break** anywhere that weaving room is necessary, but try to avoid needing this.
+
+OGCD cooldowns within **No Mercy** should be used in the following priority:
+
+* Use **Blasting Zone** and **Bow Shock** in any order.
+* Use **Bloodfest** only upon reaching zero cartridges.
+
+- - -
+
+### UNIQUE BURST PHASES
+
+- - -
+
+#### Forced 2-Cartridge No Mercy
+
+A situation can occur where the cartridge gauge is full, and **Solid Barrel** would be next action before **No Mercy**. The filler priority earlier stated to use **Burst Strike** whenever this happens, but since **No Mercy** is on the next GCD and we also want to use that off cooldown, what do we do?
+
+![](/img/jobs/gbn/gnb_2cart_solution_v5.1.png)
+
+- - -
+
+This is known as a “**forced 2-cartridge No Mercy**” due to the burst phase being entered with only two of the three necessary cartridges for your cooldowns. Failing to properly execute this will result in damage loss.
+
+- - -
+
+### COMBO CONSIDERATIONS
+
+- - -
+
+![](/img/jobs/gbn/gnb_combobreaker_v1.png)
+
+- - -
+
+Certain combo chains cannot be used during other combo chains without breaking one or the other. It is important to understand what you can or cannot press during a combo chain to avoid losing out on significant potency by mistake.
+
+* Your standard **Solid Barrel** combo cannot be broken by anything but itself or its AOE counterpart. 
+* **Gnashing Fang** and **Lionheart** are both broken by the Solid Barrel combo, as well as its AOE counterpart. 
+* **Gnashing Fang** and **Lionheart** are also their own independent combo chains that cannot be used or mixed together, or they will break the other. 
+
+- - -
+
+### SKILL SPEED CONSIDERATIONS
+
+- - -
+
+#### Section TLDR:
+
+* GCD cooldowns come off cooldown before **No Mercy** with faster GCDs. Hold them back into **No Mercy**.
+* 2.40, 2.45, and 2.50 are driftless for party raid buffs and **No Mercy**.
+* 2.45 requires less than or equal to 25ms ping (or plugins) to not clip/drift **No Mercy**.
+* Other GCDs cause some amount of buff drift, potentially drifting **No Mercy** from raid buffs.
+* This does not mean that other speeds are unplayable or bad, but it does add the risk of losing bonus raid buff damage.
+
+- - -
+
+#### Reverse Drift
+
+Skill Speed (SKS) modifies GCD cooldowns by reducing their cooldowns by 0.1% per SKS tier. This is done to help GCD cooldowns remain aligned to your GCD and not clip them.
+
+This benefit is not extended to oGCD cooldowns. This is done intentionally to keep **No Mercy** aligned to party raid buffs, but it creates misalignment between your GCD cooldowns and **No Mercy**, as all GCD cooldowns begin coming off cooldown sooner than **No Mercy** does. This is referred to as “**reverse drift**”.
+
+The solution to reverse drift is simple - pretend the cooldown reduction does not exist and hold the GCD cooldowns back into **No Mercy**.
+
+#### Cooldown Drift
+
+Similarly to how GCD cooldowns do not align to **No Mercy** with SKS, certain GCDs themselves do not align to oGCD cooldowns either. This causes oGCD cooldowns to occasionally drift into the next GCD because they would otherwise clip the GCD if were you to attempt to use them.
+
+Determining how much a cooldown will “move” from the last position it came off cooldown per use on any given speed is found by dividing the cooldown length by your GCD. 
+
+* As an example, 60s/2.50 GCD = 24 GCDs per **No Mercy** or **Bow Shock**, meaning they come off cooldown exactly every 24 GCD rolls from wherever you last used them. This means that the oGCD cooldown will never come off cooldown at a different place in relation to the GCD roll. 
+* On 2.46, it becomes 60/2.46 = 24.39 GCDs, meaning that **No Mercy** comes off cooldown +0.39 GCDs after the last time it was used. This appears in practice as if it comes off cooldown “later in the GCD roll” from its previous use. 
+
+This observed usage point shift eventually accumulates to the point that the cooldown will come back off cooldown at a point that it cannot be used without clipping the GCD, forcing the cooldown to drift to the next GCD and then be used at the earliest usable point.
+
+Animation lock plays a significant role in this, because after pressing any GCD action the animation lock must end before any oGCD may be cast. Casting oGCDs right before the next GCD is about to be pressed would also animation lock the GCD, causing a GCD clip. **This limits the room that you can weave oGCDs without clipping the GCD, and that room is both ping dependent and FPS dependent.**
+
+* Higher ping results in longer animation lock, reducing the weaving room before GCD clipping occurs. 
+* In regards to FPS, a new GCD can only begin on a new frame, so a microscopic clip that you cannot visually see occurs while you wait for a new frame to generate showing the GCD as usable to the game client. Technically speaking, this increases the time you can weave because you would have clipped by that amount regardless.
+
+What this means for the rotation is that some GCD speeds are just uniquely worse at aligning to oGCDs, and they will cause more drift than other speeds will over the course of a fight. This can be very important for both raid buffs and usages, and due to how loaded the burst window is at level 100, it becomes very unfavorable to drift out of party buffs due to uncontrollable GCD speed-based drift.
+
+The speeds that do NOT drift **No Mercy** by any significant amount are as follows:
+
+* 2.50 GCD (0.00s drift per use)
+* 2.45 GCD (0.05s drift per every other use) **(PING DEPENDENT - ≤25MS TO NOT CLIP OR DRIFT)**
+* 2.40 GCD (0.00s drift per use)
+
+Those three speeds in particular are the most favorable for staying aligned with party buffs. Going from 2.40 to 2.42 would increase the drift rate because it would take longer for **No Mercy** to return to the same ideal usage point, and you can only use the cooldown off cooldown once per drift. In specific, it would cause **2.42 * (1 - (60 / 2.42 - 24) = 0.5s** of drift per **No Mercy**. This drift linearly increases or decreases within the respective speed range of 2.40 - 2.44 as you go slower or faster respectively, and the same holds true of 2.45 - 2.47 which can use **No Mercy** twice off cooldown in between drifts.
+
+Keep in mind that this doesn’t necessarily mean 2.40 is always better than 2.42 or something slower, it just means that the *risk* of losing raid buff damage over extended periods of time where raid buffs never realign to you is increased when running other speeds, which can potentially be a damage loss depending on the fight you’re in.
 
 ## **AOE Priority**
 
 - - -
 
-![AOE Prio](/img/jobs/gnb/gnb-ammended.png "AOE Rotation/Priority")
+#### LEVEL 100
 
-## Notable Utility
+Use the Demon Slaughter combo at 3 or more targets.
 
-- - -
+Use Fated Circle over Burst Strike at 2 or more targets.
 
-![Heart of Corundum](/img/jobs/gnb/hoc.png "Heart of Corundum")
-
-**Heart of Corundum** provides your target with a buff that reduces their damage taken by 27.75% for the first 4 seconds it was applied, and 15% for the next 4 seconds after that. It also applies a 900 potency heal that will proc onto that target upon their maximum HP reaching less than 50%, or when the buff expires 20 seconds later.
-
-* The heal is extremely powerful, and due to the proc or timer expiration requirement, it can be used as a plannable healing tool that can heal almost half of a DPS's health bar.
-
-![Camouflage](/img/jobs/tanks/gunbreaker/Aurora.png)
-
-**Aurora** is a targeted 18 second heal over time effect that heals yourself or your target for 200 potency every 3 seconds (1200 total). It has two stacks, which makes it an effective regen effect to apply to any player that requires extra healing over a certain duration. However, this effect does not stack so you cannot apply a double Aurora to someone, it'll merely refresh the duration.
-
-![Camouflage](/img/jobs/tanks/gunbreaker/Camouflage.png)
-
-**Camouflage** reduces damage taken by 10% for 20 seconds. Provides an additive +50% **parry rate** (for a total of 60% parry rate) for 20 seconds. **Parrying** applies a 15% damage reduction to **physical attacks only**.
-
-* The 10% damage reduction always applies to every damage instance.
-
-![Rampart](/img/jobs/tanks/gunbreaker/Rampart.png)
-
-**Rampart**\
-**CD: 90s**
-
-Reduces damage taken by 20% for 20 seconds.
-
-![Nebula](/img/jobs/tanks/gunbreaker/Nebula.png)
-
-**Nebula**\
-**CD: 120s**
-
-Reduces damage taken by 30% for 15 seconds.
-
-![Superbolide](/img/jobs/tanks/gunbreaker/Superbolide.png)
-
-**Superbolide**\
-CD: 360s / 6m
-
-Reduces HP to 1 and renders you impervious to most attacks for 10 seconds.
-
-![ArmsLength](/img/jobs/tanks/gunbreaker/Arms_Length.png)
-
-**Arm’s Length**\
-**CD: 120s**
-
-Role action. Makes you immune to most knockback or draw-in effects for six seconds. Applies a 20% slow to enemies that attack you while Arm’s Length is active (This means enemies will attack you 20% slower, very useful for dungeons).
-
-## Utility Off Global Cool Down Abilities
+Use Gnashing Fang at up to 3 targets.
 
 - - -
 
-![HeartOfLight](/img/jobs/tanks/gunbreaker/Heart_of_Light.png)
+## Personal Mitigation
 
-**Heart of Light**\
-**CD: 90s**
+- - -
 
-Reduces magic damage taken by 10% for self and party members in a 30y radius around you for 15 seconds.
+#### **Great Nebula**
 
-![Reprisal](/img/jobs/tanks/gunbreaker/Reprisal.png)
+* Reduces damage taken by 40% for 15 seconds.
+* Increases maximum health by 20% and heals you for that amount.
 
-**Reprisal**\
-**CD: 60s**
+#### **Rampart**
 
-Role action. Reduces damage dealt by all enemies in a 5y radius around you by 10% for 10 seconds. 
+* Reduces damage taken by 20% for 20 seconds.
+* Increases healing received by self-healing actions by 15%.
 
-![LowBlow](/img/jobs/tanks/gunbreaker/Low_Blow.png)
+#### **Camouflage**
 
-**Low Blow**\
-**CD: 25s**
+* Reduces damage taken by 10% for 20 seconds. 
+* Provides an additive +50% **parry rate** (for a total of 60% parry rate) for 20 seconds. **Parrying** applies a 15% damage reduction to **physical attacks only**.
 
-Role action. Stuns a target for five seconds. Enemies that get stunned repeatedly will develop stun immunity.
+#### **Heart of Corundum**
 
-![Interject](/img/jobs/tanks/gunbreaker/Interject.png)
+* Reduces their damage taken by 27.75% for the first 4 seconds it was applied, and 15% for the next 4 seconds after that. 
+* Applies a 900 potency heal that will proc upon a player's maximum HP reaching less than 50%, or when the buff expires 20 seconds later.
 
-**Interject**\
-**CD: 30s**
+#### **Aurora**
 
-Role action. Cancels a target's cast (if it is an interruptible cast). 
+* Targeted 18 second heal over time effect that heals yourself or your target for 200 potency every 3 seconds (1200 total). 
+* It has two stacks, which makes it an effective regen effect to apply to any player that requires extra healing over a certain duration.
 
-![RoyalGuard](/img/jobs/tanks/gunbreaker/Royal_Guard.png)
+#### **Superbolide**
 
-**Royal Guard**
+* Reduces HP to 1 and renders you impervious to most attacks for 10 seconds.
 
-Tank stance. While toggled on, applies a 10x enmity modifier to all abilities.
+#### **Arm’s Length**
 
-![Provoke](/img/jobs/tanks/gunbreaker/Provoke.png)
+* Provides knockback or draw-in effect immunity for six seconds. 
+* Applies a 20% Slow effect to enemies that attack you while Arm’s Length is active (enemies will attack you 20% slower, very useful for dungeons).
 
-**Provoke**
+- - -
 
-Role action. Puts you at the top of the enmity list and gives 2000 potency worth of additional enmity (20,000 if Royal Guard is active).
+## Party Utility
 
-![Shirk](/img/jobs/tanks/gunbreaker/Shirk.png)
+- - -
 
-**Shirk**
+#### **Heart of Light**
 
-Role action. Transfers 25% of your enmity to a target party member. This effect applies to all enemies on your aggro table.
+* Reduces **magic damage** taken by 10% for self and party members in a 30y radius around you for 15 seconds.
 
-## Defensive Breakdown
+#### **Reprisal**
 
-Using your defensive cooldowns properly is an important part of maximizing your effectiveness as a tank, and timing your abilities correctly will ensure you’re getting the most out of your kit while reducing your total incoming damage for the encounter. Stacking mitigation is also optimal to do, especially in high end content where the damage received is likely going to KO you without stacking your mitigation together. However, you can also stack too much which will leave you without options later, so make sure you’re pacing yourself appropriately for the encounter. 
+* Reduces damage dealt by all enemies in a 5y radius around you by 10% for 15 seconds. 
 
-**Weaving mitigation** is a topic a lot of people bring up. Using Mitigations such as Rampart and Camouflage can be done before your No Mercy as they have a substantial duration, and abilities such as Heart of Corundum can be weaved around a GCD such as Double Down and Sonic Break, as neither have forced oGCDs due to lacking Continuation. If you need to weave during the later part of No Mercy you can float Rough Divide, as it is the lowest-potency attack inside a No Mercy Window.
+#### **Low Blow**
 
-We have three self-mits that last a decent duration *but* have a lengthy cooldown.
+* Stuns a target for five seconds. Interrupts any cast.
+* Enemies that get stunned repeatedly will slowly develop stun immunity.
 
-* Rampart: Is an all around solid defensive CD due to its duration. 20% and 20s uptime, meaning it can take a tank buster and persist long enough to cover following autos if needed. Ideally you want to alternate between Rampart and Nebula when dealing with tank busters, and you rarely want to stack them as it’ll leave you with fewer options later. A more appropriate option is to stack Camouflage with Rampart, as they share the same duration and same cooldown.
-* Nebula: One of your best cooldowns as it provides a better percentage reduction than Rampart, but it has a shorter duration and longer cooldown. As such, it requires some planning - you need to be aware that it will be up less, which means that using it pre-emptively will require stricter planning, and planning ahead is also going to be stricter due to the longer cooldown. While a great tool, you need to ensure you have it up when needed and to make sure you have options available when it isn’t.
-* Camouflage: Very ideal for auto management due to the increased parry rate and baseline 10% damage reduction (DR). While not the best cooldown by itself for a tank buster, as the 10% is your only guaranteed mitigation and the parry may either not activate or not be even possible due to a magic tank buster, it’ll help alleviate damage intake while autos are coinciding with mechanics that your healers may be dealing with. As mentioned above, it can be stacked with Rampart to give yourself a strong combo of parry and decent DR, but keep in mind this will leave you a bit scarce after the fact if you’re tanking and taking autos.
+#### **Interject**
 
-**Heart of Corundum:** Our new tool and a great support and self management ability. Heart of Corundum is part of SE’s new sort of “Reward” system for tanks where they provide a short timed buff on top of the base buff, which if timed correctly will let you mitigate more. How Heart of Corundum works is you gain three buffs:
+* Interrupts any cast (if it is an interruptible cast). 
 
-* Heart of Corundum: 15% DR to self or party member for 8s
-* Clarity of Corundum: 15% DR to self or party member for 4s.
-* Catharsis of Corundum: 900 potency heal when effect expires or when health is reduced below 50% on self or target. Buff duration 20s.
-  *The effect of your Brutal Shell shield is also granted to another target, but use on yourself will not affect your own Brutal Shell shield. This is also present for Heart of Stone.
+#### **Provoke**
 
-Heart of Corundum provides a 27.75%~ damage reduction for the first four seconds of its duration as the two damage reductions from Heart of Corundum and Clarity of Corundum stack together to provide a very strong opening effect which decays to 15% after four seconds. While this persists, you have Catharsis of Corundum which provides a great 900 pot heal (which can crit!). Corundum has no cost, no drawback, and a short cooldown, and is therefore an extremely powerful and versatile tool to use for support and self-sustain. However, utilizing it to its maximum potential requires you to make use of **Clarity of Corundum**. Personally, when double weaving any mitigation, I tend to weave Corundum second to ensure Clarity is present for the tank buster. That being said, keep in mind that any late mitigation will miss the damage snapshot and instead of a nice 27.75% you’ll get 0%. You ideally always want your main mitigations with Heart of Corundum for heavy hitting tank busters.
+* Places you at the top of the enmity list and grants 5000 potency worth of additional enmity (50,000 if tank stance is active).
 
-**Aurora**: A simple HoT that provides some support. Aurora is not strong enough to help heal you up from tank busters if you’re pushed into a corner nor can it alone realistically help heal you up from using Superbolide as it only ticks once every 3s, while Heart of Corundum excels at both those points. However, Aurora is a good tool to help counteract autos, DoTs and also save your healers some resources during downtime if you place it on yourself or another member. Using Aurora twice on a target does not extend the buff by 16s, it merely refreshes it to a max duration of 16s. As such, you can refresh early and waste HoT ticks.
+#### **Shirk**
 
-**Superbolide**: While a bit infamous, Superbolide is actually a very very good CD when used properly. Reality is people tend to find dropping to 1HP insane, but that’s ultimately how three out of four invulns work if the damage was going to KO you. If it wasn’t? Then practically all those invulns were wasted. Superbolide can be destructive if used improperly, but when used properly and when it’s coordinated with your healers, it is very very strong. Corundum and Aurora together can help heal you back up during the 10s duration with some support from healers, and unlike Living Dead you do not require your entire pool of health to be restored, just enough to survive the oncoming damage when the buff expires. I recommend telling your healers either in party chat or in voice ahead of time when you’re going to use it so they can prepare.
+* Transfers 25% of your current enmity to any targeted party member.
 
-**Heart of Light:** One of our two defensive raid mitigations. Heart of Light is an AOE effect that radiates from yourself and applies a buff reducing all magic damage taken by 10% for 15s. Heart of Light should be used on heavy hitting raid wides that hit the majority, if not all, of the raid. Due to the fact that it, like your personal cooldowns, is a buff with no diminishing value over the course of its duration, it excels at multiple hits over the duration and as such if used on said abilities will reduce every hit placed under the buff by 10% (Example: Stack markers in the Endwalker MSQ Extremes, J Waves, Tumults)
+- - -
 
-**Reprisal:** Similar to Heart of Light, Reprisal is an AOE centered on yourself, however it affects enemies instead of party members. As a result of this, any damage that occurs when an enemy is untargetable (for example: phase transition AOEs where you can’t attack the boss) are unable to be affected by Reprisal. Reprisal is used for assisting with similar situations to HoL due to it being a debuff over a duration, but due to the short CD, it is an option for Tank Busters as well. Make sure to coordinate Reprisal with your cotank as it is a role based ability, meaning all tanks have access to it and it does not stack so it can be overwritten.
+## Mitigation Planning
 
-## Dungeon Tips/Info
+- - -
 
-When running dungeons, it’s important to go at your own pace. Some tanks will want to dictate the pull speed as fast as possible by pulling wall to wall, but the reality is that you shouldn’t feel obligated to pull big if you’re not confident. If you get KO’d and wipe and reset, you’ve lost the time you would have gained by doing a big pull. Getting to the point where you can feel confident pulling big is something that you have to decide for yourself, and is simply a potential goal to keep in mind
+All mitigation is multiplicative. As an example with both Rampart and Great Nebula together, the total reduced damage amount is **1 - (1 - 0.2) * (1 - 0.4) = 52%** when put together.
 
-When doing dungeons, it’s important to space your cooldowns out. You have three cooldowns that have lengthy enough durations and can be used on separate add packs. Realistically, you should only need to burn one large cooldown per pack while using your smaller cooldowns to help your sustain. Some dungeons hit harder than others, and some dungeons have larger packs to deal with, so it’s important that you are prepared to change things or use things in emergencies.
+Despite the apparent loss in efficiency, it is optimal in many types of content to stack mitigation together to minimize damage taken during periods of heavy damage or high rates of damage, which typically apply to either tankbuster attacks or dungeon pulls. Efficiency loss is irrelevant in relation to fight-specific mitigation needs.
 
-**Main Cooldown** ➞ Try spread these out over as many pulls as you can.
+Understanding the fight timeline is critical to effective mitigation. Every pull should be a live re-assessment of your usage timing on mitigation such as Reprisal and Heart of Light (or any personal mitigation) to evaluate if you can cover additional instances of damage with the same usage.
 
-* Rampart
-* Nebula
-* Camouflage
+Give yourself appropriate time to weave mitigation during your normal rotation. Utilize the long active timer of your heavy mitigation to your advantage and use it before the cast if necessary. It only needs to be active for the hit preparation.
 
-**Small Cooldown** ➞ Use as they become available.
+The majority of tankbusters can be resolved through a basic strategy of employing either Rampart and Camoflauge tied with Heart of Corundum, or Nebula tied with Heart of Corundum. Some strategies may prefer that you use Superbolide as well.
 
-* Heart of Corundum 
-* Aurora
+Heart of Corundum is also techable in the sense that you can use it and abuse the proc timer of Catharsis of Corundum, the 900 potency heal effect. The proc heal does not go off until 20 seconds expire, or a player drops below 50% HP. This allows niche strategies to be employed that allow you to very precisely time a heal to go off at the correct time long in advance.
 
-**Support Cooldown** ➞ Use one per big pull to debuff all targets
+- - -
 
+## Dungeon Tips
+
+- - -
+
+Attempt to pull wall-to-wall if the healer is capable of handling it.\
+Use your cooldowns as follows:
+
+#### General Tips
+
+* Prepull Heart of Corundum early to proc free healing as you are running.
+* Apply Aurora to help buffer into any required healing.
+* Apply Superbolide as needed if healer help is required.
+
+#### First Wall to Wall:
+
+* Rampart and Camoflauge
+* Heart of Corundum (off cooldown)
 * Reprisal
-* Arm’s Length
+* Low Blow (off cooldown)
 
-**Other:**
+#### Second Wall to Wall:
 
-* Superbolide can be used to let your healer take a break from doing healing to do some damage or if you’re low can buy you time for a healer to get you to 100% while you wait on other CDs to come up. However it’s very bad to use without notification. If you plan to use Bolide as a tool to gain a few seconds of immunity then let your healer know. Do not open a pull with Bolide since going from 100% to 1% defeats the purpose of the ability. Use bolide when your HP becomes low. 20% to 1% is far better than 100% to 1% because you’ve at least made some use of the 80% health that was chipped away.
+* Great Nebula and Arm's Length
+* Heart of Corundum (off cooldown)
+* Reprisal
+* Low Blow (off cooldown)
 
-The above “plan” is of course not set in stone. In an ideal world, your dungeon DPS are fast enough to kill a pack of monsters before your main cooldown wears off. However, this may not happen and you may in turn have to cycle through cooldowns or change things. There’s nothing wrong with using more than expected and taking the next few pulls slow. The reason why we use these cooldowns and do big pulls is that besides them making runs faster, you rarely need Rampart or Nebula for dungeon bosses, as their tank busters don’t hit very hard and can be taken with a well timed Heart of Corundum.
-
-Due to Clarity of Corundum’s duration being so short, I recommend waiting a GCD or two once you have all the enemies rounded up before using Heart of Corundum. If you prepull Heart of Corundum and run in, chances are Clarity of Corundum will fall off.
-
-## Ultimates
-
-Ultimates are timeless content due to their difficulty and rewards but are forced sync and cannot be done above their release level. This affects the gear you enter the encounter with, but is more lenient as all three past Ultimates' entry IL are far below our current standard. Food and Pots do not sync, but still have a soft cap so you don’t need the absolute top current food and pots for something like UCoB as its sync is relatively low. The relic from Shadowbringers is the best choice of weapon for previous Ultimates, But will require you to get it to at least the [Augmented Law’s Order](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/3111076df9e/) stage to assign substats. [Blade’s Resolve](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/b723d663158/) gives you more substat to work with but this realistically is of only benefit in TEA, as you’ll reach cap for the substats with Law’s Order in the other two Ultimates, as such unless you want to really optimize and push as much damage as you want for TEA, you can settle for Augmented Law’s Order. If you don’t want to grind the Blade’s Resistance Relic, you can use any weapon with optimal substats that exceed the encounter’s max IL. \
-\
-The reason why The Manderville Relic (Stage I or Stage II) is an ideal substitute over the Asphodelos Gunblade for Dragonsong's Reprise is the fact both substats are capped. Even with 2xMelds on the Asphodelos Weapon, the substat total is still less. You do not need to meld the Manderville Weapon in this case as the melds will be ingored.
-
-**The Unending Coil of Bahamut (UCoB):**\
-IL Cap: 470\
-BIS: [UCoB/UWU Combination BIS](https://media.discordapp.net/attachments/541353216307232788/1162357818872045569/image.png)\
-Relic Stat cap: 127
-
-**The Weapon’s Refrain (UWU):**\
-IL Cap: 500\
-BIS: [UCoB/UWU Combination BIS](https://cdn.discordapp.com/attachments/541353216307232788/1162380400300130364/image.png)\
-Relic Stat cap: 136
-
-**The Epic of Alexander (TEA):**\
-IL Cap: 595 \
-BIS: [2.40](https://i.imgur.com/nZrxF4X.png)\
-Relic Stat cap: 184
-
-**Dragonsong’s Reprise (DSW/DSR):**\
-IL Cap: N/A\
-BIS Options: [2.40,](https://etro.gg/gearset/5d0cb3c9-6d8b-4364-bbe3-11b92d22d4e9) [2.45](https://etro.gg/gearset/ed47410a-6714-4fcb-a78e-2729c28c5beb)
-
-**The Omega Protocol (TOP):**\
-IL Cap: N/A\
-BIS Options: [2.50](https://etro.gg/gearset/273b03e4-3bf5-4d0e-af52-b13e812633ed)
-
-## Special Thanks
-
-This guide was only possible with the help of Krom Ulus for tireless theorycrafting as well as key members of the GNB Community and support of The Balance Staff.
+This plan works for the majority of dungeon encounters. However, this may not work out due to poor party DPS and you may have to alter cooldown usage. There’s nothing wrong with taking the next few pulls slow if more cooldowns had to be used than normal.
