@@ -22,18 +22,18 @@ qna:
       2. You have 0-1 Gauss Round and Ricochet charges stored.
 
       3. You are using Wildfire or will have enough heat for it later when you need it.
-  - question: Do I use Heat Blast during Hypercharge? How many should it fit?
-    answer: You want to use either five Heat Blasts or Auto Crossbows in every
+  - question: Do I use Blazing Shot during Hypercharge? How many should it fit?
+    answer: You want to use either five Blazing Shots or Auto Crossbows in every
       Hypercharge.
-  - question: Should I double weave between Heat Blasts?
+  - question: Should I double weave between Blazing Shots?
     answer: No. 1.5s GCD allows a single weave only.
   - question: How do I use Wildfire? How many GCDs should it fit?
     answer: Pair it with Hypercharge to get six GCDs into it. Wildfire can be used
       one GCD before or after Hypercharge but double weaving (Hypercharge→
-      Wildfire) is the most ping friendly. It should fit five Heat Blast/Auto
+      Wildfire) is the most ping friendly. It should fit five Blazing Shot/Auto
       Crossbow + one GCD when double weaved or used one GCD before Hypercharge,
-      OR four Heat Blast/Auto Crossbow + two GCDs if used after the first GCD in
-      Hypercharge.
+      OR four Blazing Shot/Auto Crossbow + two GCDs if used after the first GCD
+      in Hypercharge.
   - question: When does Wildfire snapshot buffs?
     answer: On application, like DoTs.
   - question: When do I use Barrel Stabilizer?
@@ -56,8 +56,10 @@ qna:
     answer: No. You would only ever do it if the fight or uptime window is ending
       before they would go off naturally.
   - question: Should I use Flamethrower?
-    answer: Yes, for AoE, except if the fight is about to end and you have to choose
-      between Flamethrower and Hypercharge, then Hypercharge wins out.
+    answer: Yes, for AoE, assuming gauge is usable, it wins out at 4+ targets, if
+      gauge is not usable, beats out filler on 2+. Beats out Air Anchor on 6+
+      targets, but is never better than Hypercharge, Chainsaw/Excavator, and
+      Drill/Bioblaster.
   - question: How do Dismantle and Tactician interact?
     answer: Both Dismantle and Tactician work independently of each other, meaning
       they can be stacked. They function slightly differently. Dismantle
@@ -66,21 +68,51 @@ qna:
       these mitigative actions, but if you're unsure of where they're needed,
       ask your healers where they would like them.
   - question: What is the AoE priority?
-    answer: |-
+    answer: >-
       1. Bioblaster 2+ targets
+
       2. Auto Crossbow 3+ targets
+
       3. Flamethrower 3+ targets
+
       4. Scattergun 3+ targets
+
+         please refer to the subsection on the [Basic Guide.](https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/)
   - question: How much ping do I need to play this class?
-    answer: The golden standard is hitting five Heat Blasts in Hypercharge and one
+    answer: The golden standard is hitting five Blazing Shots in Hypercharge and one
       extra GCD for Wildfire for a total of six in Wildfire while weaving a
-      Gauss Round or Ricochet between every attack for raid buff gains. If you
+      Double Check or Checkmate between every attack for raid buff gains. If you
       can hit the 5 + 1 GCDs while weaving only two times, you can avoid
       overcapping which is passable, but not optimal. If you can't weave at all
       or if you miss GCDs in Hypercharge or Wildfire, then your performance will
       be suboptimal.
-authors:
-  - dook
+  - question: How to deal with <2.50 GCD/Skill Speed
+    answer: Since Drill no longer scales with Skill Speed, it is a flat 20 second
+      cooler. This is only for content past level 94, since in synced down
+      content Drill will scale with Skill Speed, it is only when we obtain the
+      second charge that this occurs. To resolve this we need to never use Drill
+      off cooldown outside of the opener or else we clip our GCD since it will
+      always be a flat 20 second cooldown. There is more information on how to
+      tackle down any Skill Speed faster than 2.50 rotationally in the [Basic
+      Guide.](https://www.thebalanceffxiv.com/jobs/ranged/machinist/basic-guide/)
+  - question: Should/Can I use Reassemble with Full Metal Field?
+    answer: No you cannot, the tooltip for Full Metal Field states that the damage
+      increase is only for raid buffs that give you a percentage increase for
+      Crit/DH rates, since FMF is a guaranteed Crit/DH ability, it will gain
+      more damage under these effects. However, Reassemble is also a guaranteed
+      Crit/DH so it does not follow the same rules, and thus using it will cause
+      the Reassemble buff to keep ticking down and will be applied on the next
+      GCD.
+  - question: Do I Hold Double Drill Charges For Burst?
+    answer: For any full uptime fights we go into both the 2 and 8 Minute windows
+      combo neutral. Holding the previous Drill will make both the 2/8 windows
+      have to include a Heated Combo GCD to make up for the filler by delaying
+      the previous Drill. However for the 4 & 6 Minute window, holding the
+      previous drill is extremely viable and it even lets us go into the 6
+      Minute Window combo neutral aswell as fit 3 Drills into our
+      potion/tincture window (Extra Drill for buffs). This goes more in depth on
+      the Advanced Guide.
+authors: []
 ---
 # Frequently Asked Questions
 
