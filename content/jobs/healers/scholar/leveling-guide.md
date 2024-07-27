@@ -4,8 +4,8 @@ card_header_image: /img/jobs/sch/leveling.png
 authors:
   - potato
   - tealjaker
-patch: "6.5"
-lastmod: 2024-01-08T02:54:12.871Z
+patch: "7.0"
+lastmod: 2024-07-27T21:29:38.130Z
 changelog:
   - date: 2021-10-26T03:06:25.151Z
     message: Created page
@@ -13,6 +13,8 @@ changelog:
     message: Updated for Endwalker
   - date: 2023-01-19T16:44:21.288Z
     message: Patch bump 6.3
+  - date: 2024-07-27T21:29:39.861Z
+    message: Updated for Dawntrail
 ---
 This guide is intended for the casual player looking for advice on how to play Scholar in leveling dungeons. Below, we’ll briefly describe all Scholar actions, grouped by level, and some general guidelines for when to use them. For more detailed ability descriptions, please consult the in-game tooltips or job guide, and if you’d like to learn more about playing and optimizing Scholar, check out our other guides.
 
