@@ -3,8 +3,8 @@ title: Scholar Skills Overview
 authors:
   - tealjaker
   - potato
-patch: "6.5"
-lastmod: 2024-01-08T02:53:14.859Z
+patch: "7.0"
+lastmod: 2024-07-27T20:34:19.034Z
 changelog:
   - date: 2021-10-26T21:37:23.610Z
     message: Article Created.
@@ -14,6 +14,8 @@ changelog:
     message: Patch update 6.3
   - date: 2023-05-30T23:50:56.442Z
     message: Patch Update 6.4
+  - date: 2024-07-27T20:34:55.660Z
+    message: Updated for Dawntrail
 ---
 # Notable Dawntrail Changes
 
