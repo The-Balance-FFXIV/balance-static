@@ -75,6 +75,16 @@ changelog:
 * Use this to spend excess Aetherflow stacks on dealing damage. 
 * If you need to heal and cannot use a non-Aetherflow oGCD heal, use Aetherflow stacks on healing instead of Energy Drain.
 
+![BanefulImpaction](/img/jobs/sch/baneful-impaction-icon.png)
+
+### **Baneful Impaction**
+
+* AoE DoT (140 potency, 15s duration)
+* Total potency: 700
+* Can only be used while under Impact Imminent, a 30s buff granted by Chain Stratagem. Impact Imminent is consumed when Baneful Impaction is cast.
+* Try to ensure that Baneful Impaction is always within raid buffs. 
+* It is worth using Chain Stratagem on trash pulls for access to Baneful Impaction. The AoE originates from your target, so try to target a central mob while they're grouped together to ensure all mobs receive the DoT. 
+
 # Healing/Mitigation
 
 ## GCDs
@@ -100,7 +110,7 @@ changelog:
   * Non-crit: 300 (heal) + 540 (Galvanize) = 840
   * Crit: \[300 (heal) + 540 (Galvanize) + 540 (Catalyze)] * 1.55 (est. crit multiplier) ≈ 2139
 * Weaving an oGCD after this will clip slightly; avoid if possible.
-* Use prepull and during downtime with Deployment Tactics to shield the party. This combo can also be used during uptime in place of Succor for a slight healing potency gain, but be sure the shield won’t be damaged before you Deploy.
+* Use prepull and during downtime with Deployment Tactics to shield the party. This combo can also be used during uptime in place of Concitation for a slight healing potency gain, but be sure the shield won’t be damaged before you Deploy.
 
   * Deployment Tactics can be used immediately after casting Adloquium; however this is not recommended during combat because you will clip your GCD.
 * Use if necessary to survive tankbusters or when large party shields are needed, such as for life-threatening raidwides or when cheesing mechanics. Other use is discouraged while other resources are available.
@@ -115,6 +125,32 @@ changelog:
 * Weaving an oGCD after this will clip slightly; avoid if possible.
 * Use for downtime shielding if Adloquium + Deployment Tactics cannot be used.
 * Use if shielding is necessary and oGCD shields like Seraph’s Consolation are unavailable. Other use is discouraged while other resources are available.
+
+![Manifestation](/img/jobs/sch/manifestation-icon.png)
+
+### **Manifestation**
+
+* Replaces Adloquium while under the effect of Seraphism
+* Single target heal (360 potency) + shield (180% of heal strength), instant cast.
+* Just like Adloquium, applies Galvanize normally as well as Catalyze on critical heals. See Adloquium for interactions with Sage’s GCD shields.
+* Total potency:
+
+  * Non-crit: 360 (heal) + 648 (Galvanize) = 1008
+  * Crit: \[360 (heal) + 648 (Galvanize) + 648 (Catalyze)] * 1.55 (est. crit multiplier) ≈ 2567
+* Cannot be used with Recitation, which can make it somewhat awkward to use with Deployment Tactics if you're aiming for a critical shield. 
+* As with Adloquium, use if necessary to survive tankbusters or when large party shields are needed via Deployment Tactics, such as for life-threatening raidwides or when cheesing mechanics. Other use is discouraged while other resources are available.
+
+![Accession](/img/jobs/sch/accession-icon.png)
+
+### **Accession**
+
+* Replaces Concitation while under the effect of Seraphism.
+* AoE heal (240 potency) + shield (180% of heal strength), instant cast.
+* Applies Galvanize just like Concitation. Does not apply Catalyze. See Adloquium for interactions with Sage’s GCD shields.
+* Total potency: 240 (heal) + 432 (shield) = 672
+* Cannot be used with Recitation.
+* Use if shielding is necessary and oGCD shields like Seraph’s Consolation are unavailable. Other use is discouraged while other resources are available.
+* Can be useful for brute forcing full hp checks thanks to Seraphism reducing the Emergency Tactics recast timer, but avoid doing this if more efficient methods are available.
 
 ## oGCDs
 
@@ -157,6 +193,15 @@ changelog:
 * 20s AoE mitigation (10%) and 10s AoE move speed buff (equivalent to Sprint)
 * Move speed buff persists during combat (unlike Peloton)
 * Use for long-duration mitigation and/or use the increased move speed for mechanics
+
+![Seraphism](/img/jobs/sch/seraphism-icon.png)
+
+### **Seraphism**
+
+* For 20s, applies a regen (100 potency) to party members and replaces Adloquium and Concitation with Manifestation and Accession respectively.
+* The regen applied has a hidden duration of 5s, meaning each party member receives 7 or 8 ticks healing. Total potency is 700 or 800. 
+* The range on the regen application is 50y making it impossible to outrange on a standard 8-man boss arena. 
+* Also resets the cooldown of Emergency Tactics and changes its recast timers to 1s, providing a consistent source of GCD pure healing if needed.
 
 ![EmergencyTactics](https://xivapi.com/i/002000/002809_hr1.png)
 
