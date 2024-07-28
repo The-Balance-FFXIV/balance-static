@@ -4,8 +4,8 @@ card_header_image: /img/jobs/sge/sgebasic.png
 authors:
   - Balance-SGE-Staff
   - wynn
-patch: "6.2"
-lastmod: 2022-09-18T05:29:35.044Z
+patch: "7.0"
+lastmod: 2024-07-28T08:50:02.522Z
 changelog:
   - date: 2022-01-24T06:59:41.157Z
     message: Added page
@@ -64,15 +64,11 @@ As mentioned, Sage has the widest range of heals that do not sacrifice any damag
 
 ### Opener
 
-![Standard Sage Opener](https://www.thebalanceffxiv.com/img/sge_standard.png)
+![Standard Sage Opener](https://raw.githubusercontent.com/The-Balance-FFXIV/balance-resource-static/master/data/sge_resources/images/Sage%20Toxikon%20Opener%20with%20Potion.png)
 
-While there are other openers available in the [Openers](/jobs/healers/sage/openers/) page, the basics are as follows:
+Using Toxikon enables us to precast Eukrasia and may gain an additional cast through the fight. As before, Sage can also comfortably precast Dosis and then immediately apply Eukrasian Dosis as an alternate opener.
 
-* Start casting {{< inline >}} ![Dosis III](https://xivapi.com/i/003000/003680_hr1.png) {{< /inline >}} Dosis with 1.5 seconds left.
-* Immediately use {{< inline >}} ![Eukrasian Dosis III](https://xivapi.com/i/003000/003682_hr1.png) {{< /inline >}}
-  Eukrasian Dosis III - Begin casting Dosis until raid buffs are up (typically, this would mean two Dosis).
-* Use both {{< inline >}} ![Phlegma III](https://xivapi.com/i/003000/003681_hr1.png) {{< /inline >}}Phlegma III charges in raid buffs.
-* Continue using Dosis
+Additionally, check out other openers on the [Openers](/jobs/healers/sage/openers/) page.
 
 ### Rotation and Priority
 
@@ -83,7 +79,7 @@ However, you have three additional GCDs and one oGCD that are useful against sin
 * {{< inline >}}![Phlegma III](https://xivapi.com/i/003000/003681_hr1.png){{< /inline >}}Phlegma
 * {{< inline >}}![Toxikon II](https://xivapi.com/i/003000/003684_hr1.png){{< /inline >}}Toxikon
 * {{< inline >}}![Pneuma](https://xivapi.com/i/003000/003686_hr1.png){{< /inline >}}Pneuma
-* ![](/img/jobs/sge/psyche-ffxiv.png)
+* {{< inline >}}![](blob:https://www.thebalanceffxiv.com/87d882c5-5092-4757-b95a-55d44128b0f3){{< /inline >}}Psyche
 
 Phlegma is a damage gain, while Toxikon and Pneuma are damage neutral. Psyche is an oGCD and can be used losslessly. Let's talk about the best times to use each one.
 
@@ -106,6 +102,12 @@ You can repeat this process during any downtime that may exist in the fight, giv
 ![Pneuma](https://xivapi.com/i/003000/003686_hr1.png)
 
 Pneuma is also the same potency as Dosis, but it comes with a fairly powerful AoE heal attached. Its 600 potency heal can be boosted to 900p using Zoe, making it one of the strongest raw heals. However, being exactly the same potency as Dosis, it should not be used on a single target if the healing is not needed.
+
+#### Psyche
+
+![Pneuma](/img/jobs/sge/psyche-ffxiv.png)
+
+Psyche can be considered functionally an oGCD Phlegma as a 600p AoE. Notably, it should be used on cooldown after its first use in the opener, so you will have one Psyche cast per minute. Psyche has an extremely high application time of almost 2.1s, so ensure that it is used well-before an enemy goes untargetable.
 
 ### Healing
 
@@ -139,6 +141,7 @@ Next up, your other oGCD heals. These do not cost anything other than the cooldo
 * {{< inline >}} ![Haima](https://xivapi.com/i/003000/003673_hr1.png) {{< /inline >}}Haima - A shield that repeatedly reapplies itself when absorbed (up to five times, not including the initial shield). Each shield is 300 potency, so the best case scenario is 1800p total absorbed. It also applies a small heal at the end of the duration based on how many stacks are remaining, so it can still be useful even if only two or three stacks are consumed.
 * {{< inline >}} ![Panhaima](https://xivapi.com/i/003000/003679_hr1.png) {{< /inline >}}Panhaima - Like Haima, but AoE, with a lower potency to compensate.
 * {{< inline >}} ![Holos](https://xivapi.com/i/003000/003678_hr1.png) {{< /inline >}}Holos - Applies a 300p heal, a 300p shield, and a 10% incoming damage reduction to nearby party members. While you should *try* to use it when you will benefit from all three (for example, topping the party up before a raid-wide), there may be situations where it is okay to use it when the party is already at full HP.
+* {{< inline >}}![](blob:https://www.thebalanceffxiv.com/257b46c7-e8ac-4642-9383-8bdea2d0a6f9){{< /inline >}}Philosophia - Grants a raidwide regenerative buff called Eudaimonia that heals players for 150p for each spell that the Sage casts and buffs GCD heals by 20% for 20s. This is a button that is exceptionally useful in a number of ways, and is on a 3m cooldown as a result.
 
 Again, these cost nothing - try to use them as much as possible!
 
