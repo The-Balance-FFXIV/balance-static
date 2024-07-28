@@ -72,8 +72,9 @@ changes:
 
       | Dragon Sight | Now nullifies action direction requirements for self. This is the same effect as True North, meaning all your positionals will automatically hit while the buff is up - regardless of your position. |
   - patch: "7.0"
-    description: Overhaul of many skills and basic job function. Please refer to our
-      guides or the official job guide by Square Enix for a complete overview.
+    description: Overhaul of many skills and core concept of the job. Please refer
+      to our guides or the official job guide by Square Enix for a complete
+      overview.
 authors:
   - Balance-DRG-Staff
 tags:
