@@ -15,6 +15,8 @@ changelog:
     message: Potency adjusted for Patch 6.28
   - date: 2023-01-10T20:20:27.431Z
     message: Added Dismantle and adjusted potency / descriptions for Patch 6.3
+  - date: 2024-07-28T03:28:24.341Z
+    message: Updated for Dawntrail.
 tags:
   - MCH
   - Machinist
