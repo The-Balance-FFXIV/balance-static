@@ -15,8 +15,9 @@ changes:
     description: View the latest changes for 6.2 at the Official Site, located
       [here](https://na.finalfantasyxiv.com/jobguide/scholar/)!
   - patch: "7.0"
-    description: View the latest changes for 6.2 at the Official Site, located
-      [here](https://na.finalfantasyxiv.com/jobguide/scholar/)!
+    description: Chain Stratagem duration extended to 20s. 91-100 abilities and
+      traits added. View the full changes and additions for 7.0 at the Official
+      Site, located [here](https://na.finalfantasyxiv.com/jobguide/scholar/)!
 authors:
   - Balance-SCH-Staff
 ---
