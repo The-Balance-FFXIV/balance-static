@@ -4,7 +4,7 @@ card_header_image: /img/jobs/drk/leveling.png
 authors:
   - apileofcats
   - silaqui-amakiir
-patch: "6.3"
+patch: "7.0"
 lastmod: 2023-01-19T04:45:09.131Z
 changelog:
   - date: 2021-10-27T17:23:27.257Z
@@ -19,6 +19,8 @@ changelog:
       targets.
   - date: 2023-01-19T04:45:21.480Z
     message: Updated for 6.3
+  - date: 2024-07-28T10:30:01.921Z
+    message: Updated for 7.0
 ---
 # Introduction
 
@@ -152,7 +154,7 @@ New action: Quietus. The AoE version of Bloodspiller. Like Flood, Quietus takes 
 
 New action: Delirium. This nullifies the blood cost of the next three uses of Bloodspillers and/or Quietus within 15 seconds, and should generally be used on cooldown.
 
-* Souleater combo on one or two targets.
+* Souleater combo on one target.
 * Stalwart Soul combo on two or more targets.
 * Edge of Darkness on one or two targets.
 * Flood of Darkness on three or more targets.
@@ -165,7 +167,7 @@ New action: Delirium. This nullifies the blood cost of the next three uses of Bl
 
 New action: The Blackest Night ("TBN"). While Dark Knight can feel a bit squishy below level 70, TBN will add an absolutely massive amount of mitigation to your kit. If the shield granted by TBN breaks rather than expires, the user gains a Dark Arts proc, which makes the next Flood or Edge free to cast. At this level, you don't have enough mana generation to use it on cooldown indefinitely, so you should be more conservative with your mana and primarily use Flood when you have a Dart Arts proc. However, you should try to use TBN only when you're reasonably confident that the shield will break, or in emergencies.
 
-* Souleater combo on one or two targets.
+* Souleater combo on one target.
 * Stalwart Soul combo on two or more targets.
 * Edge of Darkness on one or two targets.
 * Flood of Darkness on three or more targets.
@@ -180,7 +182,7 @@ New action: The Blackest Night ("TBN"). While Dark Knight can feel a bit squishy
 
 New action: Living Shadow. Living Shadow summons a clone which, after a delay, will autonomously attack nearby targets. Because of its extremely high potency per hit, it is superior to any other form of blood expenditure if it can get a single hit off against two or more targets, or two hits versus a single target. It should be used as often as possible unless you can hold it for a short amount of time for a more efficient usage in the near future.
 
-* Souleater combo on one or two targets.
+* Souleater combo on one target.
 * Stalwart Soul combo on two or more targets.
 * Edge of Darkness on one or two targets.
 * Flood of Darkness on three or more targets.
@@ -193,3 +195,27 @@ New action: Living Shadow. Living Shadow summons a clone which, after a delay, w
 ## Levels 81-90
 
 While there are a few new buttons to press in this level range, none of them affect your skill usage priorities. Oblation provides some additional mitigation, Salt and Darkness is a follow-up to Salted Earth for extra damage, and Shadowbringer is free damage in both AoE and single-target situations. Make sure to use them all when you can for maximum total benefit.
+
+## Levels 91-100
+
+Level 92 upgrades Shadow Wall to Shadowed Vigil, providing more mitigation and a heal, but otherwise changes nothing for priority.
+
+#### Level 94
+At level 94, the trait Melee Mastery II increases the potency of the Souleater combo, Stalwart Soul, Bloodspiller, and Quietus, changing the priority in AoE slightly.
+
+* Souleater combo on one or two targets.
+* Stalwart Soul combo on **three** or more targets.
+* Edge of Darkness on one or two targets.
+* Flood of Darkness on three or more targets.
+* Carve and Spit on one or two targets.
+* Abyssal Drain on three or more targets or when healing is needed.
+* Living Shadow when available.
+* Bloodspiller on one or two targets.
+* Quietus on three or more targets.
+
+#### Level 96
+New actions: Scarlet Delirium, Comeuppance, Torcleaver, Impalement.
+These new actions replace Bloodspiller or Quietus under Delirium --- instead of using three Bloodspiller, you use the combo Scarlet Delirium, Comeuppance, Torcleaver, and instead of Quietus, you use Impalement. This does not change any priorities, but be aware that Impalement breaks the Torcleaver combo, and so mixing two two is not ideal.
+
+#### Level 100
+New action: Disesteem. At this level, Living Shadow is upgraded to grant the Scorn buff, lasting for 30 seconds, which enables you to use Disesteem. Disesteem is a weaponskill dealing high AoE damage, and should be a priority to use when possible. As it is only used once after each Living Shadow, it does not change the general filler rotation.
