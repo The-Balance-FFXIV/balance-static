@@ -1,7 +1,7 @@
 ---
 title: Dark Knight FAQ
 layout: qna
-patch: "6.3"
+patch: "7.0"
 lastmod: 2023-01-19T04:45:38.945Z
 changelog:
   - date: 2021-10-27T17:50:54.106Z
@@ -13,39 +13,60 @@ changelog:
   - date: 2023-01-19T04:45:43.180Z
     message: Updated for 6.3
 qna:
-  - question: How do I spend my MP?
+  - question: How do I optimally spend MP?
+    answer: >
+      Ideally, you should use 5 Edge of Shadow in each 2-minute raid buff window
+      (except for the opener, where the first edge is used early to get the
+      Darkside buff started). To do this, you use 3 MP spenders in odd minutes,
+      with the last one being The Blackest Night (TBN), and hold the Dark Arts
+      from this TBN breaking until the buff window.
+  - question: Can I use all my MP on The Blackest Night (TBN)?
     answer: >-
-      As a general rule, never overcap MP, and consider maintaining at least
-      3000 MP so that you can use The Blackest Night if needed.
+      Up to 3 (4 with careful timing, by using TBN during a buff window) MP
+      spenders per 2 minutes can be TBN without losing any damage --- all three
+      spenders in the odd-numbered minutes, plus one in the even-numbered
+      minute.
 
+      Note that the damage loss from using TBN more than this is smaller than the damage loss from dying!
 
-      When optimizing, you should plan to use all of your Edge of Shadow (EoS) casts under buffs, and in particular, to put more EoS casts where buffs are stronger. This often means using five EoS under even-minute (0, 2, 4, ...) buffs, and three under odd-minute buffs.
-  - question: Can I overlap Blood Weapon and Delirium?
-    answer: Yes, although you need to be careful to not overcap on Blood, as
-      Delirium prevents you from spending Blood with Bloodspiller until all
-      three of its stacks have been used. With typical alignments of Blood
-      Weapon and Delirium, you can accomplish this by making sure that you are
-      at 40 Blood or less before pressing Blood Weapon or Delirium, whichever
-      comes first.
-  - question: Why are The Blackest Night and Blood Weapon used pre-pull in the opener?
-    answer: Living Shadow plays a long animation (around 6.8s) before it begins
-      doing damage, and so in order to get as many hits as possible of this
-      strong ability under buffs, it needs to be used as early as possible in
-      the opener. By using Blood Weapon prepull, we can get Living Shadow out
-      after 3 GCDs. Using The Blackest Night prepull then prevents overcapping
-      MP from Blood Weapon on Hard Slash, and from a possible natural MP tick
-      prior to the first Edge of Shadow.
-  - question: At how many targets do I use my Area of Effect (AoE) skills?
-    answer: |-
-      At any number of targets, use Living Shadow when possible.
+      It is always better to lose damage in buffs in order to stay alive, and sometimes even to reduce the amount of healing needed.
+  - question: Why don't we use Living Shadow prepull/Should I use Living Shadow
+      during phase transitions?
+    answer: Using Living Shadow prepull can result in some of its damage coming out
+      before raid buffs. For some phase transitions, you may nevertheless find
+      it useful to use Living Shadow early (up to 6.8s before the enemy becomes
+      targetable), either because buffs are being used immediately when the
+      enemy returns, or because a tight phase timing means that you would lose a
+      usage of Living Shadow by delaying it.
+  - question: Why don't we use Delirium earlier/prepull?
+    answer: Using Delirium prepull leads to MP being generated too early, forcing an
+      Edge of Shadow outside of buffs (at the 2 minute and subsequent buff
+      windows). Some fight circumstances may lead to this still being
+      worthwhile, but in general, the later placement of Delirium is better.
+  - question: " Why are the oGCDs in the opener ordered the way that they are?"
+    answer: The opener is laid out to avoid overcapping on MP both in the opener and
+      in future burst windows, and secondarily to maximize the damage you do if
+      the fight ends in the middle of a burst.
+  - question: What GCD speed(s) should I use?
+    answer: >-
+      Use whichever speed feels most comfortable.
 
-      At two or more targets:
-      * Replace Souleater combo with Stalwart Soul combo
+      2.50 has perfect alignment between GCDs and oGCDs, but may not always be achievable depending on gear options.
 
-      At three or more targets:
-      * Replace Bloodspiller with Quietus
-      * Replace Edge of Shadow with Flood of Shadow
-      * Replace Carve and Spit with Abyssal Drain
+      2.45 has good alignment with perfect play, but 2.46 gives slightly more leniency than 2.45 at the expense of slightly worse alignment in the optimal case. 
+  - question: What food should I use?
+    answer: >-
+      (Patch 7.0/7.01): Either Vegetable Soup (for DH-focused sets) or Fruit and
+      Aloe Jelly (for crit-focused sets).
+
+      You can compare the two in a gear calculator to see which is better for your current gearset.
+  - question: How much mitigation will I gain/damage will I lose by focusing on Tenacity?
+    answer: >-
+      Every 24-25 points of Tenacity give 0.1% additional damage, and every
+      13-14 points give 0.1% additional mitigation. For comparison, every 19-20
+      points of Determination give 0.1% additional damage (and no mitigation).
+
+      For 7.00 best gear, a full focus on Tenacity gains approximately 6.2% mitigation and loses approximately 0.8% damage compared to the best damage melds.
 authors:
   - silaqui-amakiir
 ---
