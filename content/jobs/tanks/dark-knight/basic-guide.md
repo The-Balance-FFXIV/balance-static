@@ -4,7 +4,7 @@ card_header_image: /img/jobs/drk/basic.png
 authors:
   - nikroulah
   - silaqui-amakiir
-patch: "6.3"
+patch: "7.0"
 lastmod: 2023-01-19T04:46:39.495Z
 changelog:
   - date: 2021-10-27T17:33:50.039Z
@@ -17,6 +17,8 @@ changelog:
     message: Updates for 6.21
   - date: 2023-01-18T23:02:37.977Z
     message: Opener update and patch bump to 6.3.
+  - date: 2024-07-28T10:51:24.137Z
+    message: Updates for 7.0
 ---
 # Introduction to Dark Knight
 
