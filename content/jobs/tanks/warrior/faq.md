@@ -1,8 +1,8 @@
 ---
 title: Warrior FAQ
 layout: qna
-patch: "6.55"
-lastmod: 2024-01-17T20:08:38.031Z
+patch: "7.01"
+lastmod: 2024-07-25T12:40:54.150Z
 changelog:
   - date: 2021-10-27T07:27:07.049Z
     message: Added page.
@@ -13,6 +13,78 @@ changelog:
   - date: 2023-05-28T14:41:32.512Z
     message: Adjusted Consumables
 qna:
+  - question: How do I play WAR?
+    answer: "[The 7.x Guide](/jobs/tanks/warrior/basic-guide/)"
+  - question: When do I refresh the Surging Tempest buff?
+    answer: >-
+      Generally speaking, refresh the buff between 7 and 15 seconds.  
+
+      Depending on the fight and downtime between phases, it may be beneficial to refresh the buff earlier, gathering 31-60 seconds of it.
+  - question: How do I use Infuriate?
+    answer: >-
+      Keep Infuriate under 2 stacks at all times.
+
+      All of Even windows (2min) will naturally contain 2 Infuriates.
+
+      Due to Infuriate cooldown being affected by our rotation, it has a habit of floating around the rotation.
+
+
+      Most of the time the pattern is:
+
+      Opener: 3
+
+      1min: 1
+
+      2min: 2
+  - question: How much Skill Speed do I need?
+    answer: "We don't need it. Maybe only for comfy reasons such as fight phasing or
+      oGCD lineups etc.  \r
+
+      oGCD lineups referring to situations where our GCD and oGCDs come up
+      at the same time, forcing us to delay one or the other."
+  - question: What GCD / Skill Speed should I get?
+    answer: >-
+      Warriors can work with pretty much any GCD / Skill Speed. 
+
+      Most used ones are 2.50, 2.45, and 2.40.
+
+
+      Main differences between the GCD speeds are how our weapon skills line up with our off-global cooldowns. The 2.50 setup rarely delays either our weapon skills or off-global cooldowns, whereas 2.45 and 2.40 come with some delays.  
+
+
+      The best GCD speed is often a question of comfort and fights.
+  - question: Food? Potions?
+    answer: >-
+      Foods can be found in the BIS sets, but here's a quick summary as a
+      Priority list:
+
+
+      Crit>DH
+
+      DH>Crit
+
+      Crit>Det
+
+      Det>Crit
+
+      DH>Det
+
+      Det>DH
+
+
+      Skill Speed foods are okay if using a non-2.50 GCD set.
+
+
+      Potions are the newest Grade X Gemdraught of Strength.
+  - question: What do I meld?
+    answer: Check the [Stat Priority](/jobs/tanks/warrior/stat-priority/) page!
+  - question: What happened to Warriors' weird melds?
+    answer: Patch 6.2 made things better for most of us.
+  - question: Why do we have any Tenacity in our equipment?
+    answer: "Tenacity increases all damage dealt, much like Determination. While it
+      offers some mitigation bonuses, it is often very little and near
+      impossible to observe due to the game already having a 5% variance in
+      incoming damage.  "
   - question: What is wrong with my log? How do I improve?
     answer: >-
       First you check IR windows, just toss the log into XIVA and see what it
@@ -29,45 +101,6 @@ qna:
 
 
       Last thing I like to do, and this is the thing people hate doing, is go to "Casts -> Timelines" to check for errors in the rotation. Is Eye refreshed properly? Are Upheavals and ICs going in Trick? Do you lose Path casts? Too many Onslaughts?
-  - question: How do I play WAR?
-    answer: "[The 6.x Guide](/jobs/tanks/warrior/basic-guide/)"
-  - question: What do I meld?
-    answer: Check the [Stat Priority](/jobs/tanks/warrior/stat-priority/) page!
-  - question: Why do we have any Tenacity in our equipment?
-    answer: "Tenacity increases all damage dealt, much like Determination. While it
-      offers some mitigation bonuses, it is often very little and near
-      impossible to observe due to the game already having a 5% variance in
-      incoming damage.  "
-  - question: How much Skill Speed do I need?
-    answer: "We don't need it. Maybe only for comfy reasons such as fight phasing or
-      oGCD lineups etc.  \r
-
-      oGCD lineups referring to situations where our GCD and oGCDs come up
-      at the same time, forcing us to delay one or the other."
-  - question: What happened to Warriors' weird melds?
-    answer: Patch 6.2 made things better for most of us.
-  - question: Food? Potions?
-    answer: |-
-      These can be found in the BIS sets, but here's a quick summary.
-
-      As of patch 6.4:  
-      Baked Eggplant HQ (Det>Crit), or  
-      Baba Ghanoush HQ (Crit>SKS).  
-      Grade 8 Tincture of Strength HQ.
-  - question: When do I refresh the Surging Tempest buff?
-    answer: >-
-      Generally speaking, refresh the buff between 7 and 15 seconds.  
-
-      Depending on the fight and downtime between phases, it may be beneficial to refresh the buff earlier, gathering 31-60 seconds of it.
-  - question: What GCD / Skill Speed should I get?
-    answer: >-
-      Warriors can work with pretty much any GCD / Skill Speed. Most used ones
-      are 2.50 (400-414 SkS), 2.45 (649-706 SkS) and 2.40 (941-999 SkS).  
-
-      Main differences between the GCD speeds are how our weapon skills line up with our off-global cooldowns. The 2.50 setup rarely delays either our weapon skills or off-global cooldowns, whereas 2.45 and 2.40 come with some delays.  
-
-
-      The best GCD speed is often a question of comfort and fights.
 authors:
   - Balance-WAR-Staff
 ---
