@@ -2,8 +2,8 @@
 title: Dragoon Openers
 authors:
   - Balance-DRG-Staff
-patch: "6.55"
-lastmod: 2024-04-13T20:37:12.406Z
+patch: "7.0"
+lastmod: 2024-07-28T11:14:38.628Z
 changelog:
   - date: 2021-10-29T02:55:52.808Z
     message: Created page
@@ -15,6 +15,8 @@ changelog:
     message: Added a section about 2.46 opener and rotation
   - date: 2024-04-13T20:37:15.315Z
     message: Fixed 2.46 image link
+  - date: 2024-07-28T11:14:47.419Z
+    message: General 7.0 overhaul
 ---
 # Dragoon Opener and Rotation
 
@@ -22,56 +24,42 @@ The primary use of the Opener is to prepare your cooldown alignment for the rest
 
 ## Standard Opener
 
-![EW Opener](/img/jobs/drg/drg_ew_opener.png "EW Opener")
+![DT Opener](https://raw.githubusercontent.com/RhyTamok/XIVdrg/main/DRG/Graphics/Openers/Dragoon_Standard_Opener_1.png)
 
-[Full size image](https://github.com/The-Balance-FFXIV/balance-static/blob/main/static/img/jobs/drg/drg_ew_opener.png?raw=true)
+We use our raidbuff Battle Litany after applying our DoT for party alignment, the rest of our buffs surround it with Geirskogul being used last to ensure its own potency is buffed by all our personal buffs and potential raidbuffs.
 
-The backbone of ten GCDs in sequence will - in general - never be changed, but the two blocks of oGCDs (**Buffs** and **Attacks**) can be shuffled around within their respective slots if necessary to accommodate specific encounter timings.
+Using our buffs before or after Chaotic Spring makes little difference, favoring being used after due to the Wyrmwind Thrust at the end.
 
-The default order of Geirskogul and High Jump remains this way for forever, with every odd Geirskogul landing immediately after Lance Charge or Lance Charge, Dragon Sight and Battle Litany and entering Life of the Dragon. As such, we no longer need to think about early/late life and double life as those windows are a thing of the past, barring potential fight-specific optimizations.
+The timing of your buffs, High Jump & Dragonfire Dive will determine the position in which you will weave them for the rest of the fight, our other weaves will be used as filler when possible keeping mind of Life Surge and Wyrmwind Thrust.
 
-This video shows a full six minute rotation at a 2.50 GCD, using the opener above.
+## Alternative Openers
 
-{{< youtube UOeJywv1ILA >}}
+### 4th GCD Geirskogul
+![4th GCD](https://i.imgur.com/KstklRQ.png)
 
-## 2.46 GCD Opener and Rotation
-![2.46 Opener](https://i.imgur.com/91zUUtA.png)
+This opener delays our oGCD usages in benefit of party alignment, ensuring our Geirskogul is under full party buffs.
 
-#### Why 2.46?
-Due to our preferred GCD of 2.50 having to avoid any gear and food with Skill Speed, there will often be sets that can use these Skill Speed pieces to hit slightly better stat tiers or have more crit than 2.50, this combined with 2.46 giving us the best result for a low amount of Skill Speed with easy to hit 9GCD buffs and minimal oGCD drift causes it to often be on par, or better in performance at perfect play than 2.50.
-There are also fights in which 2.46 will let you hit a GCD before downtime where 2.50 would be near the end of its GCD spin giving even more value to 2.46.
+### 2nd GCD Battle Litany
+![2nd GCD BL](https://raw.githubusercontent.com/RhyTamok/XIVdrg/main/DRG/Graphics/Openers/Dragoon_2nd_GCD_Battle_Litany_1.png)
 
-#### Should you play 2.46?
-If your ping is higher than 50ms, no. \
-If you're not yet comfortable with the basics of Dragoon gameplay on 2.50, no. \
-If you're not looking to squeeze out 0.1% more damage by performing a more difficult rotation, no. \
+This opener has considerably better alignment for ourselves at the cost of having worse party alignment on our raid buff.
 
-2.46 is there as an option for people who want to maximise their damage, or are looking for a less static rotation than 2.50.
+Whether this opener is a better general option for us or not is yet to be determined and will likely depend on which jobs are in your party due to exact burst timings.
 
-#### Rotation
-The most important thing is that you want to avoid clipping your GCD to keep the benefit of the faster Skill Speed, due to this there will be times you delay an oGCD to the next GCD to ensure it doesn't clip.
+### 2nd GCD Geirskogul
+![2nd GCD GSK](https://raw.githubusercontent.com/RhyTamok/XIVdrg/main/DRG/Graphics/Openers/Dragoon_2nd_GCD_Geirskogul_1.png)
 
-![Geirskogul](https://xivapi.com/i/002000/002583.png)
-![High Jump](https://xivapi.com/i/002000/002591.png) \
-For both of these cooldowns you will use them 3 times on cooldown, and then hold it for your next GCD, which then counts as the 1st usage of your next 123 set.
+Similar to moving forward Battle Litany, we can also choose to use sooner and keep our standard raidbuff alignment. This will still offer an incredibly small gain in personal dps (pretty much equal to standard) but keeps the advantage of being able to use Life Surge without overcap.
 
-![Spineshatter Dive](https://xivapi.com/i/002000/002580.png)
-![Dragonfire Dive](https://xivapi.com/i/002000/002578.png) \
-Similar to 2.5 you will always try to hold both charges of Spineshatter Dive for the 2 minute burst window, Dragonfire Dive is used on cooldown during your buffs and the 2 charges of Spineshatter Dive are used to fill space where nothing else can be pressed.
+Recommended if you have no raidbuffs since the Geirskogul timing will make this opener worse as soon as it starts to miss raidbuffs it usually wouldn't.
 
-![Dragon Sight](https://xivapi.com/i/002000/002587.png)
-![Battle Litany](https://xivapi.com/i/002000/002585.png) \
-Since our GCD loop takes around 2 minutes to match back up with our oGCDs it means that your 2 minute cooldowns will come up in almost the exact same spot everytime, you will always be attempting to hit 9 buffed GCDs with your Dragon Sight and keep Battle Litany on cooldown to maintain party buff alignment.
+## Rotation
+Dragoon's Dawntrail rotation consists of a 10 GCD combo loop with alternating Chaotic Spring & Heavens' Thrust finishers, as well as using our 30s interval oGCDs on cooldown.
 
-![Lance Charge](https://xivapi.com/i/000000/000309.png) \
-Lance Charge will always come up at the opposite spot of where you used it before, if you use it at the start of your GCD the next one will become ready before the end of your GCD. Because of this you will always alternate hitting Lance Charge late into your GCD to get 9 buffed GCDs, and weaving it right after a GCD on cooldown to prevent drifting it.
+The GCD and oGCD parts of our kit work independently of each other, your GCD loop takes 25s while our oGCDs work on intervals of 30s meaning that the GCDs which line up with your burst are not consistent. Due to this you will have to plan your burst windows around Life Surge which is optimally used on your highest potency GCDs Heavens' Thrust & Drakesbane. And also plan around Wyrmwind Thrust which must be used before overcapping on your next Raiden Thrust.
 
-**__9GCD Buffs:__** \
-The slightly faster GCD speed allows us to hit a 9th GCD in our 20s buffs ( :lc: & :ds~1: ) when they are weaved late enough into our GCD, about 75% into the GCD spin.
+Our 60s and 120s burst windows follow the logic of using oGCDs with a hard cooldown precisely when they come up, then filling the required slots with Life Surge & Wyrmwind Thrust, finding a single weave for your Stardiver, and filling the leftover space with filler oGCDs.
 
-![Tincture](https://xivapi.com/i/020000/020710.png) \
-Your Tincture of Strength can catch 13 GCDs instead of the standard 12 by using your pot as late as you can, due to the higher animation lock than your oGCD buffs you will have to weave it at around half of your GCD spin depending on ping.
-
-This video shows a full six minute rotation at a 2.46 GCD, using the opener above.
-
-{{< youtube 2owiqdtHLn4 >}}
+Hard cooldowns: Lance Charge, Battle Litany, Geirskogul, High Jump, Drangonfire Dive \
+Non-flexible oGCDs: Life Surge, Wyrmwind Thrust \
+Flexible oGCDs: Nastrond, Rise of the Dragon, Starcross, Mirage Dive, Stardiver
