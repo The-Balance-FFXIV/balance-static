@@ -5,8 +5,8 @@ patch: "7.01"
 lastmod: 2024-06-23T13:58:39.836Z
 changelog: []
 bis:
-  - type: xivgearset
-    link: 7C337948d2-734a-41c9-be06-752099ef728e
+  - type: etro
+    link: f5287edc-6983-4a5c-ad51-a8fddee4c2ca
     name: "Viper Pre-Savage 2.50 BiS "
     description: >-
       **Q. Should I use 2.50 or 2.48?**
@@ -16,8 +16,8 @@ bis:
 
 
       In fights that are shorter than 7 minutes, 2.48 is better due to being able to get an extra Reawaken before the 6 minute window.
-  - type: xivgearset
-    link: 7Cad8597d1-504c-4457-968a-9ff1e9cd2a32
+  - type: etro
+    link: ded11f78-d747-4e57-8f89-058e51131ba1
     name: Viper Pre-Savage 2.48 BiS
     description: >-
       **Q. Should I use 2.50 or 2.48?**
