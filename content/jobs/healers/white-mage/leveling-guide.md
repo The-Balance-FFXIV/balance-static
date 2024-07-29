@@ -66,6 +66,7 @@ During boss fights, keep your Aero on the boss, refreshing it when it has a two 
 * *Presence of Mind (level 30)*: Self haste buff (oGCD).
 * *Regen (level 35)*: Single target HoT heal (GCD, instant cast).
 * *Cure III (level 40*: Targeted AoE heal (GCD).
+* *Aetherial Shift (level 40*): Movement ability (oGCD).
 * *Holy (level 45)*: AoE Damage (GCD).
 * *Aero -> Aero II (level 46)*: Single target DoT (GCD, instant cast).
 * *Medica II (level 50)*: AoE HoT Heal (GCD)
@@ -76,6 +77,8 @@ During boss fights, keep your Aero on the boss, refreshing it when it has a two 
 Cure II is an upgrade over Cure, letting you heal much more for more mana. Cure becomes more niche and is only used if you're low on mana. Regen becomes your best healing tool, restoring 1,200p  over 18s, and should be kept on the tank during dungeon trash pulls as it is worth almost double Cure IIs potency.
 
 Cure III becomes an upgrade over Medica with just a slightly smaller range. It costs more mana while having a smaller range, so Cure III shouldn't be used too much. Your best AoE heal becomes Medica II. Medica II becomes equal to Medica with one tick and stronger than Medica with two ticks. Medica II should be your primary AoE heal if you need to heal your party and they aren't in danger of dying.
+
+Aetherial Shift is a quick dash that pushes you forward, use this to avoid aoes or to reposition quickly. you can weave this between your stone/glare spells
 
 At level 50, you get Benediction, and this should be used proactively, letting tanks get low during trash pulls and instantly healing them to full. Using Benediction as close to on cooldown as possible is the best use, and it will save you a lot of healing effort.
 
@@ -144,9 +147,9 @@ At level 72, Aero changes to Dia, and Stone changes to Glare. Both are purely vi
 
 * *Glare -> Glare III (level 82)*: Single target damage (GCD)
 * *Holy -> Holy III (level 82)*: AoE Damage (GCD).
-* *Enhanced Healing Magic (level 85)*: Healing spell up
+* *Enhanced Healing Magic (level 85)*: Healing spell up (trait)
 * *Aquaveil (level 86)*: Single target mitigation buff (oGCD)
-* *Enhanced Divine Benison (Level 88)*: Gains a second charge of Divine Benison (oGCD)
+* *Enhanced Divine Benison (Level 88)*: Gains a second charge of Divine Benison (trait)
 * *Liturgy of the Bell (level 90)*: Ground target healing (oGCD)
 
 ## Healing
@@ -158,3 +161,31 @@ At level 90, you get Liturgy of the Bell; Litergy is a ground effect that heals 
 ## Damage
 
 At level 82, Misery becomes neutral to Glare III. You will no longer have to use Lillies during a fight; it's still a damage gain to use it during downtime or for trash with more than one enemy. Glare and Holy get upgraded; your damage priority when it comes to Holy and Glare doesn't change from level 72.
+
+# Levels 91-100
+
+## New Abilities
+
+* *Glare IV (level 92)*: Single target damage (GCD)
+* *Enhanced Swiftcast (level 94)*: Reduces recast of swiftcast (trait)
+* *White Mage Mastery (level 94)*: Potency increase for Dia, Afflatus Misery, and Glare III (trait)
+* *Medica II -> Medica III (level 96)*: AoE Heal (GCD)
+* *Enahnced Tetragrammation (level 98)*: gains one charge of Tetragrammaton (trait)
+* *Divine Caress (level 100)*: AoE Shield and heal over time (oGCD)
+
+## Healing
+
+When you reach level 96 your aoe heal Medica II gets upgraded to Medica III upgrading the regency potency from 150p(750p total) to 175p(875p total). This makes Medica III even better over Medica I with just one regen tick.
+
+At 98 you gain another Tetragram allowing you to become even better at keeping a tank alive or giving single target heals out to lower hp dps who may miss a heal or not have enough hp for incoming damage.
+
+At level 100 you gain Enahanced Temperance, when pressing temperance you gain access to Divine Caress an aoe 400p shield and 200p(1000p total) heal over time ogcd. Divine Caress has a 30 second activation time from pressing temperance so feel free to stagger Caress from Temperance to cover more mechanics. This is insanely good in both prog and reclears make great use of this.
+
+Swiftcast also becomes a 40 second CD at level 94, in reality you are just able to Swiftcast raise more often.
+
+## Damage
+
+WHM is able to activate Glare IV after using Presence of Mind, this is a high damaging GCD that is also instant cast and cost no mana. Try to keep this in raid buffs and if you can keep this in raid buffs and use it for movement that is all the better.
+
+at level 94 WHM gains increased potency to Dia, Afflatus Misery, and Glare III. This just keeps everything about the same holy is still only a gain on 3+ targets.
+
