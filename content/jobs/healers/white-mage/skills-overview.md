@@ -3,8 +3,8 @@ title: White Mage Skills Overview
 authors:
   - shy
   - pyre
-patch: "6.3"
-lastmod: 2023-01-10T16:41:53.657Z
+patch: "7.0"
+lastmod: 2024-07-29T19:38:52.942Z
 changelog:
   - date: 2021-10-27T01:09:43.442Z
     message: Article Created.
@@ -12,6 +12,8 @@ changelog:
     message: Updated for Endwalker
   - date: 2023-01-10T16:41:58.611Z
     message: Updated for patch 6.3
+  - date: 2024-07-29T19:38:53.898Z
+    message: upgraded for DT
 ---
 # **Notable Endwalker Changes**
 
@@ -27,10 +29,17 @@ changelog:
 
 ### **Glare III**
 
-* Single target damage (310), 1.5 cast time
+* Single target damage (330), 1.5 cast time
 * At lower levels you'll have Stone, which gets replaced by Glare at level 72
 * Can weave one oGCD after it
 * Cast this when you don't need to do anything else.
+
+![Glare IV ](/img/jobs/whm/002126_hr1.png)
+
+* Single Target Damage (640p), instant cast
+* Gain 3 charges of Glare IV for 30s after using Presence of Mind
+* Can Weave two oGCDs afterit
+* Try to always put this into raid buffs
 
 ![Holy III](https://xivapi.com/i/002000/002647_hr1.png)
 
@@ -46,13 +55,13 @@ changelog:
 
 ### **Dia**
 
-* Single target damage (65p) and DoT (10 ticks of 65p), instant cast. Total Potency: 660
+* Single target damage (70p) and DoT (10 ticks of 7p0), instant cast. Total Potency: 770
 * At lower levels you'll have Aero, this is replaced by Dia at level 72
 * In dungeons, apply Dia while running and spam Holy when the tank stops
 * If Optimizing: 
 
   * Refreshing Dia early can be a gain if you know your kill/phase time and you know you will lose ticks anyway. 
-  * Dia is a gain on Glare III after five ticks.
+  * Dia is a gain on Glare III after four ticks.
 
 ![Afflatus Misery](https://xivapi.com/i/002000/002644_hr1.png)
 
@@ -117,12 +126,12 @@ changelog:
 * Aoe heal in a 15y radius around you (400p), 2s cast time
 * Use in niche scenarios where you need extra AoE healing, can't wait for a tick of Medica II, and have no Lilies.
 
-![Medica II](https://xivapi.com/i/000000/000409_hr1.png)
+![Medica III](/img/jobs/whm/002127_hr1.png)
 
-### **Medica II**
+### **Medica III**
 
-* AoE heals in a 20y radius around you (250p) and applies a regen (5 ticks of 150p), Total healing: 1,000p.
-* Use in scenarios where you need an AoE GCD heals, use this over Medica as it becomes neutral to Medica with one regen tick and a heal gain with at least two ticks.
+* AoE heals in a 20y radius around you (250p) and applies a regen (5 ticks of 175p), Total healing: 1,125p
+* Use in scenarios where you need an AoE GCD heals, use this over Medica as it becomes a heal gain to Medica with one regen tick.
 
 ![Cure III](https://xivapi.com/i/000000/000407_hr1.png)
 
@@ -191,6 +200,16 @@ changelog:
 * Confession heals for 200p when triggered by Medica, Medica II, Cure III and Afflatus Rapture
 * Use if you're about to GCD heal and you need additional healing, its low cooldown makes it more flexible.
 * Especially potent for tougher healing checks where you’ll be casting multiple GCD heals during the buff.
+
+![Divine Caress](/img/jobs/whm/002128_hr1.png)
+
+### **Divine Caress**
+
+* AoE 15y Shield(400p) and Regen (5 ticks of 200p), total heal: 1,000.
+* Gain use of Divine Caress after using Temperance for 30 seconds
+* Divine Caress' shield can not crit but will be buffed by healing buffs such as Nature's Minne(BRD)
+* Divine Caress can be activated 30 seconds after Temperance meaning you can stagger Divine Caress to cover another mechanic after Temperance falls off.
+
 
 ## **Other Actions**
 
