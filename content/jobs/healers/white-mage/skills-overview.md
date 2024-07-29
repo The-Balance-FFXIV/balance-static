@@ -207,7 +207,7 @@ changelog:
 
 * AoE 15y Shield(400p) and Regen (5 ticks of 200p), total heal: 1,000.
 * Gain use of Divine Caress after using Temperance for 30 seconds
-* Divine Caress' shield can not crit but will be buffed by healing buffs such as Nature's Minne(BRD)
+* Divine Caress' shield can crit and benefits from healing up buffs like Asylum or NAture's Minne(BRD)
 * Divine Caress can be activated 30 seconds after Temperance meaning you can stagger Divine Caress to cover another mechanic after Temperance falls off.
 
 
