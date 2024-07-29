@@ -1,7 +1,7 @@
 ---
 title: Dragoon Changes
 layout: changes
-lastmod: 2023-05-29T18:06:51.677Z
+lastmod: 2024-07-28T11:01:04.556Z
 changes:
   - patch: "6.05"
     description: |-
@@ -71,6 +71,10 @@ changes:
       | Battle Litany | Effect radius has been increased from 15 to 30 yalms. |
 
       | Dragon Sight | Now nullifies action direction requirements for self. This is the same effect as True North, meaning all your positionals will automatically hit while the buff is up - regardless of your position. |
+  - patch: "7.0"
+    description: Overhaul of many skills and core concept of the job. Please refer
+      to our guides or the official job guide by Square Enix for a complete
+      overview.
 authors:
   - Balance-DRG-Staff
 tags:
