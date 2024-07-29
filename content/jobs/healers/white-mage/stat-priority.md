@@ -1,12 +1,14 @@
 ---
 title: White Mage Stat Priority
-patch: "6.3"
-lastmod: 2023-01-19T16:37:11.068Z
+patch: "7.0"
+lastmod: 2024-07-29T19:15:31.659Z
 changelog:
   - date: 2021-10-27T00:54:56.938Z
     message: Article Created
   - date: 2023-01-19T16:37:04.397Z
     message: Updated to 6.3
+  - date: 2024-07-29T19:15:33.852Z
+    message: updated for DT
 priority: Magic Damage >> Mind >> Crit > SpS to GCD tier > DHit/Det
 authors:
   - pyre
@@ -19,7 +21,6 @@ In general this will boil down to choosing max item level gear with sufficient P
 
 **Remember that slower GCD tiers use significantly less mana (one less Glare per minute is 400MP saved per minute) and can thus get away with less Piety.** If you find yourself struggling with MP, ensure that you're effectively using your mp tools before adding more Piety. Swapping GCD heals for OGCD heals, using Assize and Lucid Dreaming on CD, using Recitation for a free GCD heals in a pinch: these are all effective ways to make your MP go farther. Also make sure to always carry HQ Super-Ethers when raiding, they are a very effective way to recover from multiple rezzes or a death. 
 
-**Due to the WHM changes in 6.0,** WHM now needs more piety than other healers to avoid running out of MP in optimized settings, so even BiS sets will take one or more piety slots.
 
 **Direct Hit vs Determination**
 DET was buffed slightly in 6.0 which brings it close to DH but not quite to the point where it becomes a better damage stat for healers since we have 0 DH baseline. The healing boost from DET is unlikely to save a GCD heal or someone's life, so BiS sets will mostly meld DH over DET where possible. That said, since the damage difference is so small now you won't lose much melding DET over DH, especially for prog.
