@@ -40,6 +40,11 @@ This opener is used to ensure as much of presence of mind gets under buffs as po
 
 (To view the image full size [click here.](/img/jobs/whm/white-mage-early-dot-refresh-opener-1-.png))
 
+# Example 2 Minute Burst
+
+![](/img/jobs/whm/white-mage-example-2-minute-burst-1-.png)
+
+
 
 # GCD Rotation Planner
 
