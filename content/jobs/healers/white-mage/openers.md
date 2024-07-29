@@ -36,7 +36,7 @@ Glare III\
 Glare IV\
 Dia
 
-This opener is used to ensure as much of presence of mind gets under buffs as possible, as well as refreshing your dot inside of them. If your party is doing 2nd GCD buffs, remove one of the two glare III after dia at the start.
+This opener is used to ensure as much of presence of mind gets under buffs as possible, as well as refreshing your dot inside of them. If your party is doing 2nd GCD buffs, remove one of the two glare III after dia at the start. Chain is present purely to show how you will align with buffs.
 
 (To view the image full size [click here.](/img/jobs/whm/white-mage-early-dot-refresh-opener-1-.png))
 
@@ -45,6 +45,10 @@ This opener is used to ensure as much of presence of mind gets under buffs as po
 ![](/img/jobs/whm/white-mage-example-2-minute-burst-1-.png)
 
 
+
+Not all 2 minutes will look exactly like this, this is just to have an idea of the structure. You want to pot in the 2 minute instead of the opener unless the fight ends before the 8 Minute Burst. Chain is present purely to show how you will align with buffs.
+
+(To view the image full size [click here.](/img/jobs/whm/white-mage-example-2-minute-burst-1-.png))
 
 # GCD Rotation Planner
 
