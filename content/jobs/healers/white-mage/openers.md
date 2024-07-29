@@ -11,6 +11,8 @@ changelog:
     message: Updated for Endwalker
   - date: 2023-01-19T16:35:18.835Z
     message: Confirmed for 6.3
+  - date: 2024-07-29T19:16:50.070Z
+    message: Updated for Dawntrail
 ---
 # Standard Opener
 
