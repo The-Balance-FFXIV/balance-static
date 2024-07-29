@@ -1,8 +1,8 @@
 ---
 title: Bard Best in Slot (BiS)
 layout: bis
-patch: "6.55"
-lastmod: 2024-01-23T02:25:56.516Z
+patch: "7.01"
+lastmod: 2024-07-28T21:47:19.678Z
 changelog:
   - date: 2021-10-26T02:40:27.765Z
     message: Created page
@@ -18,21 +18,18 @@ changelog:
     message: Added initial 6.4 sets
   - date: 2024-01-23T02:25:58.289Z
     message: i660 BiS updated with i665 relic
+  - date: 2024-07-28T21:47:39.151Z
+    message: Added 7.01 set
 bis:
   - type: etro
-    description: We recommend you purchase the tome boots first, then bracelet. The
-      remaining three are flexible, but (ring > chest > earring) is a good
-      default if doing savage.
-    name: i660 Best In Slot
-    link: f2426d1e-2da8-4151-bf52-74ca67b5f4a2
+    description: Note that most if not all of these pieces (aside from the EX2 ring)
+      are likely to be replaced by crafted pentamelds for Savage prog.
+    name: 7.01 pre-Savage recommended set
+    link: 91e660d9-9ab6-400a-bc3b-2a604a2e540f
   - type: etro
     description: ""
-    name: The Omega Protocol (prog) BiS (more hp)
+    name: "The Omega Protocol (prog) BiS "
     link: 5f02a28a-4114-41e7-a9b4-349089a8b387
-  - type: etro
-    description: ""
-    name: The Omega Protocol (prog) BiS (max dmg)
-    link: b80d186b-8c73-4282-adab-5fda3909ec54
   - type: etro
     description: ""
     name: Dragonsong's Reprise (prog) BiS
