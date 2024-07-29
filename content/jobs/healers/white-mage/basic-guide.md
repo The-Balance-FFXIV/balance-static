@@ -61,6 +61,10 @@ Unlocked at level 74, Blood Lily stacks are generated when you use Afflatus Sola
 
 Your standard damage filler spell that you should aim to cast whenever possible, Glare does 310p per cast and has a 1.5s cast time assuming base recast of 2.5s. This allows you to weave one oGCD per hardcasted Glare without clipping your next GCD. At lower levels, “Stone” variants will be your filler spell.
 
+### Glare IV
+
+When you press presence of mind after level 92 you get the ability to use three Glare IVs over the next 30 seconds. It is an instant cast damage GCD that does 640 potency to the first target with 40% damage to the surrounding enemies. It is not a gain or a loss to use them during presence of mind outside of thinking about other people's buffs.
+
 ### **Dia**
 
 An instant cast DoT spell that deals 65p upfront and then ticks for 30s, dealing 65p per tick for a total of 715p if allowed to run its full duration. As this is a gain over your standard Glare filler, this DoT should be maintained on the boss at all times, unless it is about to die in less than 15s. This also applies if the boss is about to disappear, as DoTs do not tick on untargetable bosses for the vast majority of cases. At lower levels, “Aero” variants will be your DoT spell. 
@@ -88,6 +92,10 @@ A 15s buff on a two minute cooldown that grants you a haste buff that speeds up 
 Assize recovers 500MP per use, deals 400p of damage and also heals allies within range for 400p. It is a damaging oGCD that happens to do healing, but unlike your actual healing oGCDs, there is not much leeway to move Assize around for healing purposes as delays can risk losing an entire Assize usage in a fight, which is a significant potency loss. On top of that, Assize is also integral to WHM’s MP sustain, and should be used on cooldown in pretty much all scenarios. Assize can be delayed for multi-target scenarios even if it means losing a use, as it only needs to hit two targets to break even, and quickly becomes a gain at higher target counts. 
 
 However, you can and should take advantage of Assize’s healing portion by structuring your other healing oGCDs around it. For example, if you know that Assize naturally aligns to heal before an upcoming raid-wide, you can delay your Asylum to heal the party at a later point in the fight. Assize’s 40s cooldown means that it will align with useful healing opportunities more often than not, but only if you let it do its work. 
+
+**Aetherial Shift**
+
+A dash on a 60 second cooldown, this can be very useful in the right situations. In bosses you often can use the dash to get out of a dangerous area, or reach a stack marker from far away quickly. In dungeons it can be used to keep up with a tank as you run. Just be careful as it is very easy to dash too far and accidentally put yourself into more danger.  
 
 # Healing & Mitigation Overview
 
@@ -119,9 +127,9 @@ An instant cast, 0 MP spell that heals the target for 800p, putting it equivalen
 
 **Medica**
 
-A basic AoE healing spell that heals all allies within 15y for 400p. It is outclassed by pretty much all of your other GCD AoE healing options and will be rarely used at level cap content. It is only used when your party needs extra healing right now and a) Medica II is already applied, b) you cannot use Afflatus Rapture and c) Cure III is also not an option either due to party positioning or lack of MP.
+A basic AoE healing spell that heals all allies within 15y for 400p. It is outclassed by pretty much all of your other GCD AoE healing options and will be rarely used at level cap content. It is only used when your party needs extra healing right now and a) Medica III is already applied, b) you cannot use Afflatus Rapture and c) Cure III is also not an option either due to party positioning or lack of MP.
 
-**Medica II**
+**Medica III**
 
 Heals all allies within 20y for 250p and applies a 15s regen of 150p per tick, totaling 1000p healing over its full duration. It is your most powerful AoE healing option provided that you can afford to wait out all its ticks. With one tick, it already breaks even with Medica in healing and surpasses Medica with just two ticks. It also offers 5y of additional range compared to most AoE healing spells, making it easier for you to hit party members that may be spread out for mechanics.
 
@@ -175,13 +183,17 @@ Asylum is a placed skill, for tips on making ground placement less janky, see:
 
 **Plenary Indulgence** 
 
-This ability applies a 10s buff called “Confession” to all party members within 20y. By itself, the buff has no effect. However, when someone with this buff is healed by a Medica, Medica II, Afflatus Rapture or Cure III casted by you, they are healed for an additional 200p. The buff is not consumed when this effect activates, and can be procc’d multiple times over its 10s duration. It is also important to note that Confession’s effect is only activated by the upfront heal of Medica II and not once per regen tick. Whenever you plan on GCD healing, consider activating Plenary Indulgence beforehand to take advantage of its bonus healing, even if you only proc it once. The short 60s CD means that it will likely be off cooldown the next time you want to use it, though you should definitely prioritize using it during heavy heal checks where you plan on using multiple heals in quick succession. 
+This ability applies a 10s buff called “Confession” to all party members within 20y. By itself, the buff has no effect. However, when someone with this buff is healed by a Medica, Medica III, Afflatus Rapture or Cure III casted by you, they are healed for an additional 200p. The buff is not consumed when this effect activates, and can be procc’d multiple times over its 10s duration. It is also important to note that Confession’s effect is only activated by the upfront heal of Medica III and not once per regen tick. Whenever you plan on GCD healing, consider activating Plenary Indulgence beforehand to take advantage of its bonus healing, even if you only proc it once. The short 60s CD means that it will likely be off cooldown the next time you want to use it, though you should definitely prioritize using it during heavy heal checks where you plan on using multiple heals in quick succession. 
 
 **Temperance**
 
 This ability has two effects. First, it grants you a 20% outgoing healing buff which only applies to GCD heals. Secondly, it grants any party member within 30y a 10% mitigation buff. Interestingly enough, this mitigation buff is implemented not as a conventionally timed buff, but rather an effect that is regularly refreshed as long as they are within 30y of you. If someone moves too far away from you, they will lose the mitigation buff after a few seconds, though they will regain it if they come in range again later on. This is rarely a detriment as 30y is a huge range and there are very few cases where party members need to be that far from you for an extended period of time. In addition, the mitigation buff of Temperance also applies instantly due to its unique implementation and does not suffer the standard cascading delay that most buffs in this game are plagued with.
 
 Due to the combination of its mitigation and healing buff effects, Temperance is a powerful CD to use in any scenario where the party is taking significant damage that needs to be healed through. However, in optimized scenarios, you may find yourself using Temperance more for its mitigation effect than the healing buff as GCD healing is used very little, if at all. It is on a fairly long cooldown of two minutes, so its usage in a fight should definitely be planned out in advance.
+
+**Divine Caress** 
+
+Only able to be used within 30s after pressing temperance, this ability grants everyone around you 400 potency worth of shield. Anytime the shields given by Divine Caress either break or run out of duration, the shielded player gets a 200 potency regen for 15s. Because the ability to use this is tied to temperance, you often will be using them together with one another to mitigate and regen up after a big hit, but you can also wait for after temperance and use the shields in the 10s following, potentially mitigating a different hit.
 
 **Liturgy of the Bell**
 
