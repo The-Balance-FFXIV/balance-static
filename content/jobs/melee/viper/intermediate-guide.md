@@ -47,7 +47,7 @@ There are two primary sequences that we can use to put two Reawakens into party 
 
 The simplest way to set up your dual wield combo for an upcoming two minute burst window is to use Serpents Ire as a timer. Around 15s left on Ire’s cooldown, you should start to use only dual wield combos. The final combo starter before entering Reawaken needs to be a Dread Fangs.  This will ensure that there is enough time on Noxious Gnash to last through the burst window. If this is not enough, start the previous combo with Dread Fangs as well. If keeping proper upkeep of Noxious Gnash, you should not be overcapping to do this. From there, follow the burst windows below. These combos need to be dual wield combos, and not twinblade combos, in order to maintain the combo finisher buff through the burst window. Twinblade combo between the last finisher before Reawaken and the Reawaken itself will make the timer for continuing combo and refreshing the combo finisher buff extremely tight, so if there is any clipping, GCD downtime, or Uncoiled Fury use during the sequence, the combo will break and the finisher buff will likely drop. 
 
-There are three primary variations of our burst that we will use for most situations:
+There are two primary variations of our burst that we will use for most situations:
 
 * **Standard Double Reawaken**
 
