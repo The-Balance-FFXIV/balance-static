@@ -1,8 +1,8 @@
 ---
 title: Bard Best in Slot (BiS)
 layout: bis
-patch: "7.01"
-lastmod: 2024-07-28T21:47:19.678Z
+patch: "7.05"
+lastmod: 2024-07-30T15:21:45.079Z
 changelog:
   - date: 2021-10-26T02:40:27.765Z
     message: Created page
@@ -20,12 +20,26 @@ changelog:
     message: i660 BiS updated with i665 relic
   - date: 2024-07-28T21:47:39.151Z
     message: Added 7.01 set
+  - date: 2024-07-30T15:21:52.131Z
+    message: Added 7.05 prog sets and i730 best in slot
 bis:
   - type: etro
-    description: Note that most if not all of these pieces (aside from the EX2 ring)
-      are likely to be replaced by crafted pentamelds for Savage prog.
-    name: 7.01 pre-Savage recommended set
-    link: 91e660d9-9ab6-400a-bc3b-2a604a2e540f
+    name: i730 Best-in-Slot (2.50)
+    link: e3a5efdc-adee-4985-b91a-bf28f56933d0
+    description: If you'd like to play at higher speeds, swap one or two DH melds
+      for Skill Speed.
+  - type: etro
+    link: 7b95b25c-7355-4f8f-b561-f77216d9a476
+    name: 7.05 All-crafted prog set (2.48)
+  - type: etro
+    name: 7.05 Prog w/tome earring set (2.50)
+    link: 30cbbea7-d50e-41dc-b98d-c59438299629
+  - type: etro
+    name: 7.05 Prog w/EX2 earring set (2.50)
+    link: 6f6d4f44-a602-4c79-bd87-7ab69d83f147
+    description: The all-crafted set is a little better than this, but if you're
+      more comfortable at 2.50 and can't get the tome earring quickly go ahead
+      and roll with this.
   - type: etro
     description: ""
     name: "The Omega Protocol (prog) BiS "
