@@ -115,22 +115,20 @@ We run into our first Dawntrail specific issue after the first 2-Minute burst. W
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 # How to deal with <2.50 GCD
 
 First of all, **never clip your GCD**. Keeping your GCD rolling has a huge impact on your overall damage. Since your non-scaling cooldowns like  **Wildfire** and **Drill** will no longer align with your GCD cycle, you'll need to rearrange things to keep these actions on CD and aligned with burst as much as possible.
 
-###  Wildfire
+### Wildfire
 
 WF will come off cooldown slightly later than usual in your GCD cycle. There are a variety of ways of dealing with this, but here's the easiest and most consistent way to do it:
 
 * Add GCDs ( **Drill** and/or any  **Combo GCD**) after **Chain Saw** and before **Excavator**/**Full Metal Field** until WF's cooldown is **≤ 6s**. This ensures that **Drill** and **Chain Saw** do not drift and that you can weave WF in the same place every two minutes.
 * When WF's cooldown is ≤ 6s, proceed as you usually would at 2.50, **Excavator > Full Metal Field >** (**Hypercharge + Wildfire**).
 
-###  Drill
+### Drill
 
 In Dawntrail, Drill's recast no longer scales with SkS. Like WF, it will come off cooldown slightly later than usual relative to your GCD cycle, but since it has stacks it doesn't matter if you "drift" it as long as you're never sitting at 2/2 stacks. Drill's placement in your rotation is no longer rigid, and we can take advantage of this:
 
@@ -200,9 +198,9 @@ With the addition of Excavator, we are gaining 20 extra battery every one minute
 | 05:06:50           | 8th Queen                    | 70                    | After Chain Saw                                                                                            |
 | 06:00:75           | 9th Queen (6 Minute Burst)   | 100                   | Used instantly after Air Anchor  to fully align itself with buffs                                          |
 | 06:38:25           | 10th Queen                   | 50                    |                                                                                                            |
-| 07:06:50           | 11th Queen                   | 80                    | We delay Excavator Heated Clean Shot, in order to get the 80 gauge                                         |
+| 07:10:00           | 11th Queen                   | 80                    | We delay Excavator Heated Clean Shot, in order to get the 80 gauge                                         |
 | 08:00:75           | 12th Queen (8 Minute Burst)  | 100                   | Used instantly after Air Anchor  to fully align itself with buffs                                          |
-| 08:35:75           | 13th Queen                   | 50                    |                                                                                                            |
+| 08:38:75           | 13th Queen                   | 50                    |                                                                                                            |
 | 09:08:25           | 14th Queen                   | 60                    | We delay Excavator a single GCD (or whenever the next Heated Clean Shot is available to get the 60 gauge)  |
 | 10:00:75           | 15th Queen (10 Minute Burst) | 100                   | Used instantly after Air Anchor to fully align itself with buffs                                           |
 
