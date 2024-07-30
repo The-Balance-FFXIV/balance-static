@@ -4,7 +4,7 @@ card_header_image: /img/jobs/drk/basic.png
 authors:
   - nikroulah
   - silaqui-amakiir
-patch: "6.3"
+patch: "7.0"
 lastmod: 2023-01-19T04:46:39.495Z
 changelog:
   - date: 2021-10-27T17:33:50.039Z
@@ -17,10 +17,12 @@ changelog:
     message: Updates for 6.21
   - date: 2023-01-18T23:02:37.977Z
     message: Opener update and patch bump to 6.3.
+  - date: 2024-07-28T10:51:24.137Z
+    message: Updates for 7.0
 ---
 # Introduction to Dark Knight
 
-## The useless pre-Endwalker guide by nikroulah#1605 (now updated for 6.x).
+## The useless pre-Endwalker guide by nikroulah#1605 (now updated for 6.x and 7.x).
 
 - - -
 
@@ -42,56 +44,98 @@ Skills and abilities can be found on the [this page.](/jobs/tanks/dark-knight/sk
 
 Goals for DRK openers include:
 
-* Get Living Shadow out ASAP; the long spawn animation means any delays will push some hits out of raid buffs.
-* Get buffs like Blood Weapon and Delirium, and damaging abilities like Carve and Spit and Salted Earth on cooldown early.
-* Use as many big hits and spend as much mana as possible inside potion and raid buff windows (which typically come up around the 4th or 5th GCD).
+* Use as many big hits and spend as much MP as possible inside potion and raid buff windows (which typically come up around the third or fourth GCD). This means that most skills will be delayed until this point.
+* Get Living Shadow out early enough that its attacks fully fit into buffs. Its long spawn animation and the fact that it updates with buffs in real time means that it is best used before buffs come out, unlike skills that apply damage immediately.
+* Use an Edge of Shadow to apply Darkside as early as possible.
+* Avoid overcapping on MP.
 
 ## Standard Opener
 
-Best raid buff alignment and a good default choice
+![7.0 Standard Dark Knight Opener](/img/jobs/drk/drk_7.0_standard_opener.png "Standard")
 
-![6.2 Dark Knight Opener](/img/jobs/drk/drk_standard_6.2_v1.png "Standard")
+> Text version: <br/>
+> Prepull The Blackest Night (-3), Unmend (-1) + Potion, <br/>
+> Hard Slash + Edge of Shadow + Living Shadow, <br/>
+> Syphon Strike, <br/>
+> Souleater + Delirium, <br/>
+> Disesteem + Salted Earth + Edge of Shadow, <br/>
+> Scarlet Delirium + Shadowbringer + Edge of Shadow, <br/>
+> Comeuppance + Carve and Spit + Edge of Shadow, <br/>
+> Torcleaver + Shadowbringer + Edge of Shadow, <br/>
+> Bloodspiller + Salt and Darkness
 
-> Text version: Prepull Blood Weapon (-4) > Prepull The Blackest Night (-3) > Prepull Potion (-2) > Provoke (if pulling) > Hard Slash + Edge of Shadow + Delirium > Syphon Strike > Souleater + Living Shadow + Salted Earth > Hard Slash + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
+The potion used is whatever the current tier’s Strength potion is (as of the time of writing, it is the Grade 1 Gemdraught of Strength HQ).
 
-The potion used is whatever the current tier’s Strength potion is (as of the time of writing, it is the Grade 7 Tincture of Strength HQ).
+#### Opener notes
+* Unmend is used to delay the opener slightly to account for raid buff application time. Use it whether or not you are pulling.
+* Early use of Disesteem (before the Torcleaver combo) avoids some minor MP overcap.
+* At faster speeds (2.47 and faster), weaving the potion late can get an extra Syphon Strike in its window.
+At slower speeds or higher pings, this may cause clipping or be entirely impossible, and the potion can be used at any point after Unmend (or the equiavalent GCD for later burst windows).
 
-Provoke should be used if you want to start with aggro, and left out otherwise.
-
-Opener notes:
-
-* Blood Weapon is used pre-pull to ensure that Living Shadow is used as soon as possible. Any later and a hit will get pushed out of raid buffs.
-* The pre-pull TBN is used to prevent MP overcap from the first Hard Slash under Blood Weapon, since if it breaks it refunds the MP cost in the form of a free Edge of Shadow.
-
-  * If the pre-pull TBN will not break, then simply omit it and overcap 600-800 MP before your first Edge of Shadow.
-* Try to avoid pulling with Unmend, as doing so will delay Living Shadow. If you need to start with aggro, Provoke can be used to pull.
+#### Optional Modifications
+* If the prepull TBN will not break, it can be left out for a small MP loss. This does not change the rest of the opener substantially, although the last Edge of Shadow may get pushed one GCD further back.
+* Provoke or Shadowstride can be used to pull instead of Unmend, and pulling with Hard Slash is also viable, but each of these options requires adding an extra Hard Slash before Disesteem to ensure that the burst fits into late-applied buffs.
+* Using Hard Slash + Potion + Edge of Shadow, Syphon Strike + Living Shadow for the first two GCDs of the opener can be a tiny gain if you can reliably double weave with a potion.
 
 - - -
 
 # Rotation
 
-Dark Knight’s rotation is deceptively simple, and follows these simple principles:
+## Single-Target Rotation
 
-* Avoid overcapping on MP or blood by using Edge of Shadow and Bloodspiller, respectively.
-* Use offensive abilities without charges (such as Carve and Spit, Salted Earth, Blood Weapon, and Delirium) when available.
-* Use offensive abilities with charges (Plunge and Shadowbringer) in raid buffs or to avoid overcapping. In practice, it is often possible to get all uses of Shadowbringer under raid buffs. Plunge, having a shorter cooldown, is best used twice a minute --- inside buffs at even minutes, and more freely during odd minutes.
-* Fill remaining GCDs with Souleater combo.
+Dark Knight’s rotation follows a simple priority system after the opener.
+Burst windows after the opener will look much the same as the opener, except that not all bursts will have Salted Earth.
 
-![Blood Weapon and Delirium](https://lh3.googleusercontent.com/0sINCR_AVAV3PHXz0Wc7lR1ziR1ZHlqxH6d-T7kYV8DPJU1ZKcScHwcqF7iE3Q9Y-qWn7oYgyYNz4jYqJsy0XuJv1GYBommNH5wpzfDU1ILERnTU-cuECpleMujWFiYw9vRgA9cC=s0)
+For GCDs:
+* Use Disesteem and the Torcleaver combo (Scarlet Delirium, Comeuppance, Torcleaver) when under buffs.
+* Use Bloodspiller under raid buffs, or to prevent overcapping on blood.
+* Use the Souleater Combo (Hard Slash, Syphon Strike, Souleater) otherwise.
 
-## Using Blood Weapon and Delirium
+For oGCDs:
+* Use Edge of Shadow under raid buffs, or to prevent overcapping on MP.
+* Hold both charges of Shadowbringer for 2-minute buffs.
+* Use all other damaging/damage-buffing oGCDs (Salted Earth, Delirium, Carve and Spit, etc) on cooldown.
 
-Both Blood Weapon and Delirium should be used as they come up, without being held for extended periods of time (i.e. in the opener, at \~1:00, at \~2:00, etc).
+## AoE (Multi-Target Rotation)
 
-The second Blood Weapon in the fight (around 1:00) can (and should) be delayed until two GCDs after Delirium is used. This means using Delirum -> two combo GCDs -> Blood Weapon -> one combo GCD -> start spending Delirium stacks. This delay allows you to avoid overcapping on MP and Blood Gauge before raid buffs come up.
+At levels 94 and higher, DRK switches to using its AoE rotation for **3 or more targets**. Below level 94, the Stalwart Soul combo is a slight gain over the Souleater combo on 2 or more targets, but other skills are unchanged.
+The AoE rotation is another simple priority system, replacing each single-target ability with its AoE counterpart.
+
+For GCDs:
+* Replace the Torcleaver combo with Impalement.
+* Replace Bloodspiller with Quietus
+* Replace Souleater combo GCDs with Stalwart Soul combo GCDs (Unleash, Stalwart Soul)
+
+For oGCDs:
+* Replace Edge of Shadow with Flood of Shadow
+* Replace Carve and Spit with Abyssal Drain
+
 
 ## Pooling Resources for Raid Buffs
 
-Edge of Shadow and Bloodspiller can be delayed without loss, as long as MP and Blood do not overcap. Dark Knight is thus uniquely able to pool a massive amount of potency for use during party raid buff windows, which typically come in multiples of 60 seconds.
+Edge of Shadow and Bloodspiller can be delayed without loss, as long as MP and Blood Gauge do not overcap. Dark Knight is thus uniquely able to pool a massive amount of potency for use during party raid buff windows, which typically come every 2 minutes.
 
-Dark Knight generates around 12000 MP per minute, from a combination of Blood Weapon, Syphon Strike, Carve and Spit, Delirium, and natural MP regen ticks. Since MP caps at 10000, we delay the first (and only the first) Blood Weapon after the opener in full uptime to prevent overcapping before raid buffs come out, allowing four Edge of Shadow to naturally fall in every 2-minute raid buff window.
+Dark Knight generates around 10800 MP per minute, from a combination of Syphon Strike, Carve and Spit, Delirium, and natural MP regen ticks.
+This translates to 3.6 MP spenders per minute, or 7.2 spenders per 2 minutes.
+Since at least 2 Edge/Flood of Shadow are needed in the odd minutes to maintain Darkside, this leaves at most 5.2 spenders for every even minute, when buffs come out.
+Even going into burst at full MP and using the MP generated from Carve and Spit and Delirium, however, we do not reach 15000 MP.
 
-Similarly, try to use three Blood Gauge spenders (i.e. Living Shadow, Bloodspiller) in addition to your free Delirium Bloodspillers during every 2-minute raid buff window.
+To reach 5 Edge/Flood of Shadow in buffs, we use The Blackest Night (TBN) earlier, outside of buffs, in order to store a Dark Arts, essentially banking 3000 MP for later.
+With a stored Dark Arts from the previous minute, 9000+ MP, and the MP from Delirium and Carve and Spit, 5 Edge/Flood of Shadow within buffs are possible.
+
+This means that damage-optimal MP spending is as follows:
+* 5 Edge of Shadow in each buff window (except the opener, where one Edge of Shadow is used outside of buffs to get Darkside).
+* Three MP spenders in odd minutes, where the last one is The Blackest Night, with the Dark Arts from this being held into the next buff window.
+
+Note that the first two MP spenders in odd minutes can freely be The Blackest Night (TBN) as well, with their Dark Arts then being used before the next TBN.
+Similarly, TBN can be used during buffs without losing damage as long as the Dark Arts it generates can be spent on Edge/Flood of Shadow before the buff window ends.
+
+Similarly, though more simply, entering buffs (when Delirium is pressed) with 70 or less Blood Gauge will ensure that you do not overcap on Blood Gauge.
+This allows for using 1-2 Bloodspillers during every 2-minute raid buff window, and it is best to have the Blood Gauge as high as possible (up to 70) when entering Delirium.
+
+## Rotation Video
+
+{{< youtube -qDvEZQU9dQ >}}
 
 - - -
 
@@ -137,7 +181,7 @@ Similarly, try to use three Blood Gauge spenders (i.e. Living Shadow, Bloodspill
 /micon "Oblation"
 ```
 
-## Shirk (assumes party slot two)
+## Shirk (assumes cotank is in party slot two)
 
 ```
 /merror off
@@ -173,7 +217,11 @@ FFXIV macros do not queue, so hitting a macro while in animation lock from anoth
 
 Before obtaining best-in-slot gear, pick gear and meld according to stat priority on each piece of gear. Best-in-slot sets can be found on the [BiS page](/jobs/tanks/dark-knight/best-in-slot/) or in the Balance discord.
 
-Because of stat tiering, the Tank Gear Calc is the best tool to directly compare specific gear pieces. [Linked here.](https://bit.ly/XIV-TANKDPSCALC-EW).
+Because of stat tiering, it may not always be obvious how two pieces of gear compare.
+Using a gear calculator tool is recommended --- see, for example, [xivgearapp](https://xivgear.app).
+
+Note that in any sort of gear calculator, simulations make some assumptions (e.g., a common assumption is that of full uptime, single-target fights).
+They will still generally give reliable results when used to compare gear with large differences, but, especially when comparing gearsets with different speeds, it is good to be aware of the assumptions being made and whether they apply to your use case.
 
 **Highest priority**
 
@@ -216,7 +264,7 @@ The Dark Knight rotation is functional at almost all skill speeds, although cert
 
 Outside of high-end optimization, choice of skill speed has little impact on the Dark Knight rotation, and can be chosen for comfort. At certain speeds, 90-second cooldowns like Salted Earth must be drifted or clipped while the same is true of 60-second cooldowns at other speeds.
 
-In optimization, each encounter must be considered separately to determine what GCDs are gained or lost by different skill speeds, as well as lining up the GCD with any melee disengages. In general, the slowest speed that doesn’t lose any major GCDs within a phase will be the strongest choice.
+In optimization, each encounter must be considered separately to determine what GCDs are gained or lost by different skill speeds, as well as lining up the GCD with any melee disengages. In general, the slowest speed that doesn’t lose any major GCDs within a phase will be the strongest choice, as much of Dark Knight's damage does not scale with speed.
 
 - - -
 
@@ -241,34 +289,15 @@ Cycle through your mitigation on trash pulls (they hurt more than bosses). Rathe
 
 Living Dead can be extremely strong in dungeons, as a single AoE GCD will often heal you to full after Walking Dead is activated. However, an inexperienced healer may heal too much during Living Dead, preventing Walking Dead from activating. It may help to let your healers know ahead of time where you plan to use Living Dead, to avoid this problem.
 
-## AoE Priority
-
-![AOE Priority](https://lh6.googleusercontent.com/DKjax_f1Kk-IJrU9YdnHGLXxOOL2oCqDD6JkngawU4fwiY__zyUW74xS664K6TosLnaSAExnPi3nwTzGW1BYUo8e6GYTNy_jfJhlvLdPOXSk76ObN_b8-IU64xfLMr__Vrb0bCyT=s0)\
- On any number of targets, prioritize spending Blood on Living Shadow.
-
- ![2 target](https://lh5.googleusercontent.com/je8u42LVxCMC4a2qHgEwjNHOuFNng5tvWD_Vl-r-IspjuXKoUq091qE2kA24aE_g19LmOEtxqKKx6iz9mMHa95Dzru1oK2lJfo6-fjwgYzRCHAi0o8a4deheL5zW8nhGXetcFPWv=s0)\
-On two or more targets, replace Souleater combo with Stalwart Soul Combo.
-
-| **Quietus**                                                                                                                                                                                 | **Flood**                                                                                                                                                                                    | **Abyssal**                                                                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![3 targets](https://lh3.googleusercontent.com/kpxcMMzdmTBcdwK0upDws_tzb4Fp4CCfPRtvfP-KLuFi9abH9GiJ-bLAvmJ2epSO0jM9bEh8BRAdXUrdmvsRYBwvw9QEn_TP0jy9nYPqbKhz0aa_9iEr_wWzzrqVjCChnAay7Hus=s0) | ![3 target 2](https://lh6.googleusercontent.com/QXWUuYy7BBdBNo51JQjI20dfFVoxMThHIGkYEW376YDH6w1HsfVhXzwC27j8OyQlO85t8EtI46ZI2Q27rSELupUfhcQ12LbgKkocZhsB8gRy1Rv-hhoOrLbnu0BfK1-S1iwPSg16=s0) | ![ad](https://lh3.googleusercontent.com/IqgiYLYvy2whmfx7LTqjDR-MHQRFbIhtMqwzTHjGUtOTSvCFO7C9-QpAGGFN_R3aNX0IyWn7JsFl_1zaTgQQB_N1ABKlvQLhP2XwKjnVRaKkFDYu6o9or-bsnnaqPwRODecz0Mkp=s0) |
-
-On 3+ targets, replace:
-
-* Bloodspiller with Quietus
-* Edge of Shadow/Darkness with Flood of Shadow/Darkness
-* Carve and Spit with Abyssal Drain
-
-![aoe 1](https://lh4.googleusercontent.com/RVzpcFuEas91IqZHJRjI-lSj70urqNF7Bg_xl8n1y96zIeXlOrZ81wlaILjc5Gj3X2uOUJdqGaCxR5oe0ioygq0aA9B6TuJWAsR4dX9rroodCwiYlUZiO41VxUoMhxoLaOLe63Js=s0)\
-Try to maximize the number of targets you hit with Salted Earth.
-
 - - -
 
 # Frequently Asked Questions
 
-## Can I overlap Blood Weapon and Delirium?
+#### Can I use all my MP on The Blackest Night (TBN)?
 
-Yes, although you need to be careful to not overcap on Blood, as Delirium prevents you from spending Blood with Bloodspiller until all three of its stacks have been used. With typical alignments of Blood Weapon and Delirium, you can accomplish this by making sure that you are at 40 Blood or less before pressing Blood Weapon or Delirium, whichever comes first.
+Up to 3 (4 with careful timing, by using TBN during a buff window) MP spenders per 2 minutes can be TBN without losing any damage --- all three spenders in the odd-numbered minutes, plus one in the even-numbered minute.
+Note that the damage loss from using TBN more than this is smaller than the damage loss from dying!
+It is always better to lose damage in buffs in order to stay alive, and sometimes even to reduce the amount of healing needed.
 
 - - -
 
@@ -280,31 +309,25 @@ This section assumes that you are comfortable with the entirety of the Dark Knig
 
 Moving Mana with The Blackest Night:
 
-Upon delaying the second Blood Weapon, the standard rotation allows four Edges of Shadow to be used in each raid buff window without any further adjustments. However, since raid buffs windows happen every two minutes, it is beneficial to use The Blackest Night during odd minutes to proc Dark Arts afterwards, which allows five Edges of Shadow to be used in the next even-minute buff window without overcapping MP.
+The standard rotation allows four Edges of Shadow to be used in each raid buff window without any further adjustments. However, since raid buffs windows happen every two minutes, it is beneficial to use The Blackest Night during odd minutes to get Dark Arts afterwards, which allows five Edges of Shadow to be used in the next even-minute buff window without overcapping MP.
 
 #### List of Raid Buffs
 
 | Job | Icon                                                                                                                                                                                   | Name             | Effect                                            | Cooldown |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------- | -------- |
-| NIN | ![icon](https://xivapi.com/i/015000/015020_hr1.png)                                                                                                                                    | Mug              | Target takes 5% more damage <br>20s duration      | 120s     |
-| DRG | ![icon](https://xivapi.com/i/012000/012578_hr1.png)                                                                                                                                    | Battle Litany    | Critical rate increased by 10% <br>15s duration   | 120s     |
-| MNK | ![icon](https://xivapi.com/i/012000/012532_hr1.png)                                                                                                                                    | Brotherhood      | 5% damage increase <br>15s duration               | 120s     |
+| NIN | ![icon](https://beta.xivapi.com/api/1/asset/ui/icon/012000/012920_hr1.tex?format=png)                                                                                                                                    | Dokumori              | Target takes 5% more damage <br>20s duration      | 120s     |
+| DRG | ![icon](https://xivapi.com/i/012000/012578_hr1.png)                                                                                                                                    | Battle Litany    | Critical rate increased by 10% <br>20s duration   | 120s     |
+| MNK | ![icon](https://xivapi.com/i/012000/012532_hr1.png)                                                                                                                                    | Brotherhood      | 5% damage increase <br>20s duration               | 120s     |
 | RPR | ![icon](https://xivapi.com/i/012000/012936_hr1.png)                                                                                                                                    | Arcane Circle    | 3% damage increase <br>20s duration               | 120s     |
 | DNC | ![icon](https://xivapi.com/i/013000/013709_hr1.png)                                                                                                                                    | Technical Finish | 5% damage increase <br>20s duration               | 120s     |
-| BRD | ![icon](https://xivapi.com/i/012000/012601_hr1.png)                                                                                                                                    | Battle Voice     | Direct hit rate increased by 20% <br>15s duration | 120s     |
-| SMN | ![icon](https://xivapi.com/i/012000/012692_hr1.png)                                                                                                                                    | Searing Light    | 3% damage increase <br>30s duration               | 120s     |
-| RDM | ![icon](https://lh4.googleusercontent.com/ebXGOdXOLv7jiAEDE59XNd3mrdjBKlvrGY8x5pfGO2xyGS_G7_6LFTpk_O-ZeFCDVBqJxaWoJElvhtjcUEr93DnU4nCQpxdoOggXfgnC1ImMKGu3CICQSoJAkDr0MEj6pWbDCsJN=s0) | Embolden         | 5% damage increase <br> 20s duration              | 120s     |
-| SCH | ![icon](https://xivapi.com/i/012000/012809_hr1.png)                                                                                                                                    | Chain Stratagem  | +10% critical rate on target <br>15s duration     | 120s     |
-| AST | ![icon](https://xivapi.com/i/013000/013245_hr1.png)                                                                                                                                    | Divination       | 6% damage increase <br>15s duration               | 120s     |
-| AST | Various                                                                                                                                                                                | Cards            | Target gets ~6% damage increase <br>15s duration  | 30s      |
-
-## Alternative Opener - Early Delirium
-
-Useful if a fight benefits from a slightly earlier Delirium due to downtime or phasing
-
-![Early Delirium Opener](https://cdn.discordapp.com/attachments/583964695266983944/925284132886552576/tmp4.PNG "Early Delirium")
-
-> Text version: Pre-pull Delirium > Pre-pull The Blackest Night > Pre-pull Blood Weapon just before pull > Hard Slash + Edge of Shadow > Syphon Strike + Potion > Souleater + Living Shadow + Salted Earth > Bloodspiller + Shadowbringer + Edge of Shadow > Bloodspiller + Carve and Spit + Plunge > Bloodspiller + Shadowbringer + Edge of Shadow > Hard Slash + Salt and Darkness + Edge of Shadow > Syphon Strike + Plunge + Edge of Shadow
+| BRD | ![icon](https://xivapi.com/i/012000/012601_hr1.png)                                                                                                                                    | Battle Voice     | Direct hit rate increased by 20% <br>20s duration | 120s     |
+| BRD | ![icon](https://xivapi.com/i/012000/012601_hr1.png)                                                                                                                                    | Radiant Finale     | 6% damage increase (2% in opener) <br>20s duration | 120s     |
+| SMN | ![icon](https://xivapi.com/i/012000/012692_hr1.png)                                                                                                                                    | Searing Light    | 3% damage increase <br>20s duration               | 120s     |
+| RDM | ![icon](https://beta.xivapi.com/api/1/asset/ui/icon/013000/013410_hr1.tex?format=png) | Embolden         | 5% damage increase <br> 20s duration              | 120s     |
+| PCT | ![icon](https://beta.xivapi.com/api/1/asset/ui/icon/013000/013808_hr1.tex?format=png) | Starry Muse         | 5% damage increase <br> 20s duration              | 120s     |
+| SCH | ![icon](https://xivapi.com/i/012000/012809_hr1.png)                                                                                                                                    | Chain Stratagem  | +10% critical rate on target <br>20s duration     | 120s     |
+| AST | ![icon](https://xivapi.com/i/013000/013245_hr1.png)                                                                                                                                    | Divination       | 6% damage increase <br>20s duration               | 120s     |
+| AST | Various                                                                                                                                                                                | Cards            | Target gets 6% damage increase <br>15s duration  | 30s      |
 
 ## Fight-specific optimization
 
