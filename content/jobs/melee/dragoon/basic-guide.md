@@ -3,8 +3,8 @@ title: Dragoon Basic Guide
 card_header_image: /img/jobs/drg/basic.png
 authors:
   - Balance-DRG-Staff
-patch: "6.4"
-lastmod: 2023-05-29T13:35:33.573Z
+patch: "7.0"
+lastmod: 2024-07-29T17:40:15.904Z
 changelog:
   - date: 2021-10-29T02:49:11.086Z
     message: Created page
@@ -20,29 +20,14 @@ changelog:
     message: Editorial changes and updates.
   - date: 2023-05-29T13:35:37.429Z
     message: Updated patch - no changes
+  - date: 2024-07-29T17:40:16.839Z
+    message: Revisions for DT
 ---
-# Saving The Dragoon
+# [/jobs/melee/dragoon/opener/](/jobs/melee/dragoon/opener/)Saving The Dragoon
 
 ## Overview
 
-Dragoon is a relatively static melee DPS job with a high focus on weaving off-Global Cooldown (oGCD) actions between a rigid 10-hit sequence of Global Cooldown (GCD) actions. Burst windows can get hectic, and prioritizing the various skills you need to execute can become a rather significant hassle in some instances. Endwalker has doubled down on this by introducing the ability to utilize even more oGCD actions at regular intervals, as if we didn’t have enough already.
-
-- - -
-
-# The Brains Behind the Operation
-
-**Eve Malqir** (Balmung) - the primary writer of this guide and Dragoon Mentor from [The Balance](https://discord.gg/thebalanceffxiv "The Balance Discord")\
-Always open to answering questions! Please don't hesitate to contact me! :)\
-Contact: **Evie#1153** on Discord | [Twitch](https://www.twitch.tv/evemalqir)
-
-**Xiu Ye** (Midgardsormr) - combat theorycrafting buddy and Dragoon Mentor from [The Balance](https://discord.gg/thebalanceffxiv "The Balance Discord")\
-Contact: **Xiu Ye#0560** on Discord | [Youtube](https://www.youtube.com/channel/UCNOO4Px0BQjgzqPD_DJv-kA) | [Twitch](https://www.twitch.tv/hopedrg)
-
-**Rhy Tamok** (Phoenix) - Our resident cinnamon roll who loves to help and always goes out of his way to go above and beyond for the community. The most active Mentor in the questions channels.
-Contact: **Rhy Tamok#0001** on Discord 
-
-**Rubix Bob** (Cerberus) - Probably a bigger math nerd than Eve, Rubix created and maintains a wonderful rotation tool on his personal website and is similarly knowledgeable about the class.
-Contact: **Rubixbob#5304** on Discord
+Dragoon is a relatively static melee DPS job with a high focus on weaving off-Global Cooldown (oGCD) actions between a rigid 10-hit sequence of Global Cooldown (GCD) actions. Burst windows can get hectic, and prioritizing the various skills you need to execute can become a rather significant hassle in some instances. Dawntrail has doubled down on this by introducing the ability to utilize even more oGCD actions at regular intervals, as if we didn’t have enough already.
 
 - - -
 
@@ -52,21 +37,21 @@ Also known as your GCD actions, weaponskills form the backbone upon which you we
 
 ## The Chaotic Spring Combo
 
-| **True Thrust >**                               | **Disembowel >**                                | **Chaotic Spring >**                            | **Wheeling Thrust >**                           | **Fang and Claw**                               |
-| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| ![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/002000/002596_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) |
+| **True Thrust >**                               | **Spiral Blow >**                                                                 | **Chaotic Spring >**                            | **Wheeling Thrust >**                           | **Drakesbane**                                                                    |
+| ----------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------------------------- |
+| ![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://beta.xivapi.com/api/1/asset/ui/icon/002000/002077_hr1.tex?format=png) | ![](https://xivapi.com/i/002000/002596_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://beta.xivapi.com/api/1/asset/ui/icon/002000/002599_hr1.tex?format=png) |
 
 &nbsp;\
 This combo allows Disembowel to apply the Power Surge buff, amplifying your damage by 10% and Chaotic Spring to inflict a damage-over-time (DoT) effect that will keep constant damage rolling, even outside of your normal attacking skills.
 
 ## The Heavens' Thrust Combo
 
-| **True Thrust >**                               | **Vorpal Thrust >**                             | **Heavens' Thrust >**                           | **Fang and Claw >**                             | **Wheeling Thrust**                             |
-| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| ![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/000000/000312_hr1.png) | ![](https://xivapi.com/i/002000/002595_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) |
+| **True Thrust >**                               | **Lance Barrage >**                                                               | **Heavens' Thrust >**                           | **Fang and Claw >**                             | **Drakesbane**                                                                    |
+| ----------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------------------------- |
+| ![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://beta.xivapi.com/api/1/asset/ui/icon/002000/002076_hr1.tex?format=png) | ![](https://xivapi.com/i/002000/002595_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://beta.xivapi.com/api/1/asset/ui/icon/002000/002599_hr1.tex?format=png) |
 
 &nbsp;\
-This combo just deals raw damage, with your highest individual weaponskill potency of Heavens’ Thrust’s 480. As it doesn’t apply any buffs, you want to make sure you only use this while Power Surge and Chaotic Spring are active already.
+This combo just deals raw damage. As it doesn’t apply any buffs, you want to make sure you only use this while Power Surge and Chaotic Spring are active already.
 
 #### The Coerthan Torment Combo
 
@@ -81,7 +66,7 @@ This combo affects a line of enemies in front of you. It allows Sonic Thrust to 
 
 Upon properly completing any of the above combos, you will gain the buff Draconian Fire. This buff augments the next True Thrust or Doom Spike you use into Raiden Thrust or Draconian Fury, respectively. These weaponskills combo the exact same as their unbuffed versions. They also give you one charge of Firstminds’ Focus, which is discussed in more detail later.
 
-| **True Thrust >**                               | **Raiden Thrust >**                             |
+| **True Thrust >**                               | **Raiden Thrust**                               |
 | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/000000/000310_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) |
 
@@ -101,24 +86,22 @@ While you always want to maintain your uptime on the above combos as much as pos
 
 ## Basic Rotation
 
-![](https://cdn.discordapp.com/attachments/877670675425394709/1022227736019865731/drg_rotation.png)
-
+![](https://i.imgur.com/V3f8kDq.png)
 
 &nbsp;\
-Putting the above information to work, in a single-target encounter, our rotation will simply be the Chaotic Spring Combo followed by the Heavens’ Thrust Combo. We repeat this infinitely, assuming nothing interrupts our rotation.
+Putting the above information to work, in a single-target encounter, our rotation will simply be the Chaotic Spring Combo followed by the Heavens’ Thrust Combo. We repeat this infinitely, assuming nothing interrupts our rotation. You may notice that Chaotic Spring will fall off slightly before you use the skill again. This is completely normal and nothing to be worried about. The DoT lasts 24 seconds while this rotation cycle takes 25 seconds to complete (assuming no Skillspeed).
 
 #### Mistakes
 
 Everyone makes them. In attempting to follow this rotation to the best of your ability, if you make a mistake and press the wrong second hit, **commit to the mistake**. Restarting the combo is a larger loss than just continuing the incorrect combo string. After the mistaken combo, just return to the alternating rotation. Do not attempt to course-correct back into the old order.
 
-If you accidentally use an uncomboed GCD (and therefore break your combo) you have to start a fresh combo. Look at your remaining time on the Power Surge buff. If it is still high enough you want to start a Heavens' Thrust combo. Move on with a Chaotic Spring combo otherweise.
+If you accidentally use an uncomboed GCD (and therefore break your combo) you have to start a fresh combo. Look at your remaining time on the Power Surge buff. If it is still high enough you want to start a Heavens' Thrust combo. Move on with a Chaotic Spring combo otherwise.
 
 - - -
 
 #### Wyrmwind Thrust
 
-Every time you land Raiden Thrust or Draconian Fury, you gain one charge of your Firstminds’ Focus. Two charges allows you to activate Wyrmwind Thrust. Because we don’t start fights with Draconian Fire, the first charge comes during the Heavens’ Thrust combo and the second during the following Chaotic Spring combo. From there, you will always be using Wyrmwind Thrust during your
- Chaotic Spring combo, barring any rotational errors you encounter along the way. When it's ready to to be used, you **must** press Wyrmwind Thrust **before** your next Raiden Thrust or Draconian Fury, otherwise you will **not** gain the charge of Firstminds’ Focus, leading to a drastic loss in damage.
+Every time you land Raiden Thrust or Draconian Fury, you gain one charge of your Firstminds’ Focus. Two charges allows you to activate Wyrmwind Thrust. Because we don’t start fights with Draconian Fire, the first charge comes during the Heavens’ Thrust combo and the second during the following Chaotic Spring combo. From there, you will always be using Wyrmwind Thrust during your Chaotic Spring combo, barring any rotational errors you encounter along the way. When it's ready to to be used, you **must** press Wyrmwind Thrust **before** your next Raiden Thrust or Draconian Fury, otherwise you will **not** gain the charge of Firstminds’ Focus, leading to a drastic loss in damage.
 
 ![](https://xivapi.com/i/002000/002597_hr1.png)
 
@@ -171,7 +154,7 @@ While it is a loss to miss your positionals, landing them should be your last pr
 **3. Maintain Uptime (ABC - Always Be Casting)**\
    Stick to the boss like glue, assuming you meet one and two. Do not let your GCD stop spinning.\
 **4. Land Positionals**\
-   And then, once you have one through three down, worry about maintaining proper positionals. Missing *every single* positional is only a 5% dps loss - much less than mistakes in the aforementioned points.
+   And then, once you have one through three down, worry about maintaining proper positionals. Missing *every single* positional is less than a 5% dps loss - much less than mistakes in the aforementioned points.
 
 - - -
 
@@ -182,108 +165,28 @@ Also more commonly known as your oGCD skills, these are the most important part 
 ## Buffs
 
 ![](https://xivapi.com/i/000000/000309_hr1.png)\
-Lance Charge is the strongest buff in your arsenal.\
-You should always press this button as soon as it is available.
-
-![](https://xivapi.com/i/002000/002587_hr1.png)\
-Dragon Sight gives the same damage boost as Lance Charge, but less frequently. To maximize its effectiveness, you also need to target a party member (usually the fellow melee DPS: Reaper, Samurai, Ninja or Monk) to give them a damage buff as well. There are a few different ways to handle this and are mentioned further in the guide.
+Lance Charge is a strong and frequent buff in your arsenal. You should always press this button as soon as it is available.
 
 ![](https://xivapi.com/i/002000/002585_hr1.png)\
-Battle Litany is a powerful raid buff that enhances everyone’s critical hit rate. As it shares a timer with Dragon Sight, the two should generally be paired together, with Battle Litany coming second due to its shortened duration.
+Battle Litany is a powerful raid buff that enhances everyone’s critical hit rate. It has the longest cooldown out of your buff arsenal. Your goal should be to align it properly with the 2 minute bursts of your group.
+
+![](https://xivapi.com/i/002000/002583_hr1.png)\
+Geirskogul acts as both, the strongest buff in your kit and a damaging skill. When using it your enter Life of the Dragon for 20s, increasing your damage dealt by 15% and allowing you to use a variety of other skills. It should be used in conjunction with the other buffs because stacking them makes them stronger.
 
 ![](https://xivapi.com/i/000000/000304_hr1.png)\
-Life Surge forces your next weaponskill to automatically land a critical hit. The effect does not apply to DoT effects, which means we tend to use it on either Heavens’ Thrust or the fifth hit of our single-target combos, assuming we hit the positional and every buff is up. It does however affect every hit of AoE GCDs. We therefore use it on Coerthan Torment when facing three or more targets. \
-Try to hold a charge for buff windows as long as you don't overcap both charges.
+Life Surge forces your next weaponskill to automatically land a critical hit. The effect does not apply to DoT effects, which means we tend to use it on either Heavens’ Thrust or Drakesbane. It does however affect every hit of AoE GCDs. We therefore use it on Coerthan Torment when facing three or more targets. \
+Try to hold one charge for odd minute buff windows and two charges for even minute windows.
 
 ![](https://xivapi.com/i/020000/020710_hr1.png)\
-Tinctures of Strength can be used as an additional 30s damage buff in combat. Potency-wise, they are weaker than our other main buff options, but they exist in addition to them. These are in no way necessary to use in order to play this game and are simply an additional option should you enjoy fully min/maxing your damage. They are always optimal to use.
+Gemdraughts of Strength ("Pot" in short) can be used as an additional 30s damage buff in combat. Potency-wise, they are weaker than our other main buff options, but they exist in addition to them. These are in no way necessary to use in order to play this game and are simply an additional option should you enjoy fully min/maxing your damage. They are always optimal to use.
 
 ## Basic Buff Rotation
 
 In general, the buffs will be used together every two minutes, with Lance Charge hitting the odd minutes as well. This creates a very simple pattern.
 
-![Basic buff rotation](https://i.imgur.com/wCfUtSr.png "Basic Buff Rotation")
+![Basic buff rotation](https://i.imgur.com/P23HkKR.png "Basic Buff Rotation")
 
 &nbsp;
-
-- - -
-
-## Dragon Sight
-
-Dragon Sight is a pain in the ass. We all know it. It’s not going anywhere, though, so let us just get that out of the way and move on to how to mitigate this logistical nightmare of a party-targeted ability. You could theoretically use it without a target but this should never be a consideration as the 5% buff will simply be lost. *You do **not** get a 15% buff this way!*
-
-This being said, the best ways to handle using it vary based on playstyle.
-
-If you play on mouse/keyboard, we recommend using a macro.
-If you play on a gamepad/controller, you can simply use soft targeting (up/down on d-pad), dropping all reliance on macros.
-
-Different macro options are listed below, along with pros and cons.
-
-**Mouseover Macro**
-
-```/merror
-/merror off
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/micon "Dragon Sight" 
-```
-
-This will simply place the tether onto your mouseover target. Just hover your mouse over the proper player in the party list and press the button and you cast it on the proper player. An optimal macro to use with mouse and keyboard.
-
-**One Specific Ally**
-
-```/merror
-/merror off
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/micon "Dragon Sight"
-```
-
-Specifically targets whoever is at position 2. The number or party list can be altered as needed. Rather inflexible in use, but very consistent in execution.
-
-**Mixed Macro**
-
-```/merror
-/merror off
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <mo>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/ac "Dragon Sight" <2>
-/micon "Dragon Sight"
-```
-
-This mixes the aforementioned macros to create a macro that would prioritize your mouseover target, but default to your preferred party list position/member. Useful if you don’t trust your ability to mouseover, but you should really just practice that and shift to the mouseover one eventually instead.
 
 - - -
 
@@ -291,63 +194,61 @@ This mixes the aforementioned macros to create a macro that would prioritize you
 
 In addition to buffs, Dragoon is inundated with oGCD offensive abilities that form the core of the rotation outside the GCD backbone.
 
-![High Jump](https://xivapi.com/i/002000/002591_hr1.png)
+![High Jump](https://xivapi.com/i/002000/002591_hr1.png) 
 ![Mirage Dive](https://xivapi.com/i/002000/002588_hr1.png)\
-High Jump is your most frequently used oGCD action. Use it every 30s to activate Dive Ready which allows the use of Mirage Dive. Mirage Dive strengthens the gaze of the First Brood, unlocking your Life of the Dragon window, our strongest burst window.
+High Jump is your most frequently used oGCD action. Use it every 30s to activate Dive Ready which allows the use of Mirage Dive. These skills formerly had major implications for our rotation, however these were removed with Dawntrail. Now, they're only used for damage but it is still important to use them on cooldown as much as possible.
 
 \
-![](https://xivapi.com/i/002000/002580_hr1.png)\
-Spineshatter Dive is a simple oGCD damage skill that simultaneously acts as a quick and effective means for movement. Now with two charges, some encounters may find interesting uses for it where you can hold a single charge for a period of rapid boss movement to chase more accurately and efficiently than Elusive Jump allows.
-
-\
-![](https://xivapi.com/i/002000/002578_hr1.png)\
-Dragonfire Dive is the biggest area-of-effect (AoE) skill we have access to, besides Stardiver. In single-target, you still use it whenever it is available since it does not stop doing damage when there is only one target.
+![](https://xivapi.com/i/002000/002578_hr1.png) 
+![](https://beta.xivapi.com/api/1/asset/ui/icon/002000/002075_hr1.tex?format=png)
+Dragonfire Dive is a strong area-of-effect (AoE) skill with long cooldown. In single-target, you still use it whenever it is available since it does not stop doing damage when there is only one target. Rise of the Dragon is a follow-up that also deals AoE damage. It is however not a jump so it isn't subject to the same long animation lock.
 
 \
 ![](https://xivapi.com/i/002000/002597_hr1.png)\
 Wyrmwind Thrust is just a strong oGCD action you should use whenever possible. It has slight flexibility within its five-GCD window, so it is not as high priority as High Jump or Dragonfire Dive which have strict cooldowns. You ideally have this fall under buffs whenever possible without sacrificing charges.
 
-\
-![](https://xivapi.com/i/002000/002583_hr1.png)\
-Geirskogul and its relationship with High Jump form the basis of the overall oGCD rotation for Dragoon. This dictates when and where you will enter your Life cycles and how well those cycles will sync up with your above-mentioned buff rotations. As you will see, in the opener, we use Geirskogul before High Jump so that we always skip entering Life during the un-buffed actions, and instead save it for our one-minute buff windows.
-
 # Life of the Dragon
 
-After using a pair of Mirage Dives, you will enter Life of the Dragon on your next cast of Geirskogul that deals damage. Entering Life turns Geirskogul into Nastrond and unlocks the ability to use Stardiver. Over the following 30 seconds, you can use three Nastronds and one Stardiver, but beyond that they can be shifted somewhat freely to adjust to mechanics and buffs.
+After using Geirskogul, you will enter Life of the Dragon. Entering Life turns Geirskogul into Nastrond and unlocks the ability to use Stardiver. Over the following 20 seconds, you can use three Nastronds and one Stardiver and Starcross, but beyond that they can be shifted somewhat freely to adjust to mechanics and buffs.
 
 \
 ![](https://xivapi.com/i/002000/002589_hr1.png)\
-Nastrond is a strong line attack that is essentially a direct upgrade to Geirskogul. You should just burn it as soon as it’s available when Life of the Dragon is active and aim to never use fewer than three within one cycle.
+Nastrond is a strong line attack like Geirskogul. You should always use it three times in a burst window. There is a small 2 second cooldown between uses so spread them out across multiple weave windows.
 
 \
-![](https://xivapi.com/i/002000/002593_hr1.png)\
-Stardiver has an **excessively long** animation lock. Even with the lowest possible ping and perfect server ticks, you **will** clip when weaving this alongside any other action, so I strongly recommend you just do not try it. That said, you always have a full 30 second window of leeway to use it, so pick the best possible spot. It is our single strongest hit at 620 potency, so it should still take priority during buffs over *anything* else.
-
-## Buff Windows x Life Cycle
-
-To properly explain how the Life Cycles line up with the buffs, I will present a simplified version of our oGCD rotation as it lines up in general. We receive the second eye between buff windows, but by intentionally using Geirskogul before High Jump, we postpone the Life of the Dragon entry by 30 seconds. This is commonly called a "life delay" and is done to align our life windows with our buffs.
-
-If your target would die before you can fully use this delayed life then you want to wait to use Geirskogul until after High Jump and Mirage Dive to enter life right away. Remember: Additional uses > Buff alignment.
-
-![](/img/jobs/drg/drgbuffscycle.png)
+![](https://xivapi.com/i/002000/002593_hr1.png)
+![](https://beta.xivapi.com/api/1/asset/ui/icon/002000/002078_hr1.tex?format=png) \
+Stardiver has an **excessively long** animation lock. Even with the lowest possible ping and perfect server ticks, you **will** clip when weaving this alongside any other action, so I strongly recommend you just do not try it. You can use it somewhat freely in the 20s life window but don't forget that it also has a follow-up in Starcross now. Unlike Stardiver, Starcross has a short animation lock like other oGCDs. It can easily be double-weaved. These are your strongest hits in burst so make sure they land inside of all the buffs.
 
 ## Extra Mobility
 
 ![](https://xivapi.com/i/002000/002577_hr1.png)\
 Elusive Jump allows you to quickly and efficiently jump backwards out of trouble. The only use for this is re-engaging or disengaging from a boss for mechanics at the last second, or crossing long distances quickly. Don’t be afraid to use it, but do your best to avoid yeeting yourself off the stage.
 
+![](https://beta.xivapi.com/api/1/asset/ui/icon/002000/002598_hr1.tex?format=png)
+Winged Glide is a dash to a targeted enemy with 2 charges. It does not deal damage so you can use it freely whenever you need to gapclose longer distances.
+
+Managing the usage of Elusive Jump, Winged Glide, Dragonfire Dive and Stardiver (the latter two only during burst windows) properly allows you to keep perfect uptime through a multitude of mechanics.  
+
 # The Opener
 
-I know a lot of you have skipped ahead to this section, since you feel like you have a solid grasp on the fundamentals, and I think that is great! The primary use of the opener is to prepare your cooldown alignment for the rest of the encounter. With our new job design, it is possible that we will actually have fight-specific openers down the stretch.
+I know a lot of you have skipped ahead to this section, since you feel like you have a solid grasp on the fundamentals, and I think that is great! The primary use of the opener is to prepare your cooldown alignment for the rest of the encounter.
 
-![](/img/jobs/drg/drg_ew_opener.png)
+![DT Opener](https://raw.githubusercontent.com/RhyTamok/XIVdrg/main/DRG/Graphics/Openers/Dragoon_Standard_Opener_1.png)
 
-In certain encounters, we may shuffle the location of certain buttons in order to enable different things in regards to the particular encounter’s timing. Early Spineshatter Dive may be useful for some encounters for movement, while early High Jump may be useful for others to eke out an additional use prior to phasing.
+We use our raidbuff Battle Litany after applying our DoT for party alignment, the rest of our buffs surround it with Geirskogul being used last to ensure its own potency is buffed by all our personal buffs and potential raidbuffs.
+
+Using our buffs before or after Chaotic Spring makes little difference, favoring being used after due to the Wyrmwind Thrust at the end.
+
+The timing of your buffs, High Jump & Dragonfire Dive will determine the position in which you will weave them for the rest of the fight, our other weaves will be used as filler when possible keeping mind of Life Surge and Wyrmwind Thrust.
+
+Our [opener page](/jobs/melee/dragoon/openers/) has some alternatives listed that can be useful in specific fights or group compositions:\
 
 ## Re-Openers
 
 During fights or dungeons, you may find yourself encountering a situation where you are coming up against a boss with resources already in the tank. This shuffles your opener around and makes things harder to manage. \
-In general you want to use your buffs first, followed by high priority oGCDs (mainly Geirskogul and High Jump). Double weaving with jumps is required in reopeners to get everything under buffs. 
+In general you want to use your buffs first, followed by high priority oGCDs (mainly High Jump & Dragonfire Dive).\
+Dawntrail changes have made reopeners significantly easier so they should look very similar to the regular opener in most cases.
 
 - - -
 
@@ -360,9 +261,7 @@ When you have more than one target to attack, your backbone GCD rotation changes
 When up against two targets, you drop the Heavens’ Thrust combo and just double down on the Chaotic Spring combo, alternating targets to maintain both DoT effects.
 Only Chaotic Spring has to be alternated between targets. Every other combo action can be used on either target.
 
-| &nbsp;                                          | &nbsp;                                          | Target One                                      | &nbsp;                                          | &nbsp;                                          | &nbsp;                                          | &nbsp;                                          | Target Two                                      | &nbsp;                                          | &nbsp;                                          |
-| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/002000/002596_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) | ![](https://xivapi.com/i/002000/002592_hr1.png) | ![](https://xivapi.com/i/000000/000317_hr1.png) | ![](https://xivapi.com/i/002000/002596_hr1.png) | ![](https://xivapi.com/i/002000/002584_hr1.png) | ![](https://xivapi.com/i/002000/002582_hr1.png) |
+![](https://i.imgur.com/VJplkd1.png)
 
 &nbsp;
 
@@ -376,7 +275,7 @@ Once you have three or more targets, you should cycle through your Coerthan Torm
 
 &nbsp;
 
-You ideally want to keep all of your other AoE attacks rolling as often as possible in these situations. Keep in mind that Life Surge does work on Coerthan Torment to force a critical hit on every target all at once. Make sure to prioritize High Jump the same as always to get into Life of the Dragon quickly, as Nastrond and Stardiver are two of your strongest multi-target actions.
+You ideally want to keep all of your other AoE attacks rolling as often as possible in these situations. Keep in mind that Life Surge does work on Coerthan Torment to force a critical hit on every target all at once. Make sure to still use single-target actions like High Jump. It's free damage after all.
 
 - - -
 
@@ -385,10 +284,8 @@ You ideally want to keep all of your other AoE attacks rolling as often as possi
 Due to the slight buff of Determination with Endwalker, it is now preferable to have slightly more Determination than Direct Hit. However, you do not want to neglect Direct Hit completely.
 
 1. Item level - maximize Strength and Weapon Damage first.
-2. Critical Hit Rate > Determination = Direct Hit Rate > Skill Speed
+2. Critical Hit Rate > Determination >= Direct Hit Rate >>>> Skill Speed
 
-We want to go as slow as possible, but reducing Skill Speed does not matter nearly as much as maximizing your main stat.
-
-We recommend you use the [gear comparison tool](http://bit.ly/DRG-Gear-EW) to actually get a better idea of how melds affect your DPS!
+Dawntrail changes have made skill speed even more punishing for us. But you should still try to maximize main stat first.
 
 Check out [the BiS page](/jobs/melee/dragoon/best-in-slot/) for the current BiS Dragoon gear sets.
