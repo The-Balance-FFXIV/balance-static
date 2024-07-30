@@ -3,8 +3,8 @@ title: Dragoon Leveling Guide
 card_header_image: /img/jobs/drg/leveling.png
 authors:
   - Balance-DRG-Staff
-patch: "6.4"
-lastmod: 2023-05-29T13:33:46.278Z
+patch: "7.0"
+lastmod: 2024-07-29T16:30:54.685Z
 changelog:
   - date: 2021-10-29T02:48:36.195Z
     message: Created page
@@ -12,6 +12,8 @@ changelog:
     message: Endwalker update
   - date: 2023-05-29T13:33:57.559Z
     message: Updated patch - no changes
+  - date: 2024-07-29T16:31:00.273Z
+    message: Revisions for DT
 ---
 # Dragoon Leveling Guide
 
@@ -118,9 +120,9 @@ New action: Sonic Thrust. Our second combo action in the AoE combo. Applies the 
 * AoE combo\
   Doom Spike -> Sonic Thrust
 
-### Levels 64-90
+### Levels 64-100
 
-New trait: Lance Mastery. Allows the execution of Fang and Claw after Wheeling Thrust and vice versa. This means that each combo is extended to 5 buttons. From here on out you will always alternate between the two combos. This trait also increases the potency of the fifth combo hit by 100. This means that they are potency equal to Full Thrust and therefore also a viable action for Life Surge.
+New action: Drakesbane. This new GCD is used as the 5th action in both combos. From here on out you will always alternate between the two combos. Drakesbane has the same potency as Full Thrust making it equally as valuable for Life Surge.
 
 New action: Coerthan Torment. The final extension of our AoE combo and the new skill to use Life Surge on in it.
 
@@ -128,7 +130,7 @@ New action: Raiden Thrust. At level 76 your True Thrust button will turn into Ra
 
 New action: Draconian Fury. Similar to Raiden Thrust, at level 82 your Doom Spike button will turn into Draconian Fury. This is a small potency increase and will grant you a stack of Firstminds' Focus at level 90. It does not change the rotation.
 
-New action: Heavens' Thrust. At level 86 Full Thrust turns into Heavens' Thrust making it the sole best action for Life Surge once again. However a Fang and Claw/Wheeling Thrust as fifth combo action under a buff is still better than an unbuffed Heaven's Thrust.
+New action: Heavens' Thrust. At level 86 Full Thrust turns into Heavens' Thrust, a small upgrade to the original skill. Drakesbane potency is increased alongside it so Life Surge usage doesn't change.
 
 New action: Chaotic Spring. At level 86 Chaos Thrust turns into Chaotic Spring. This is a base and DoT potency increase, it does not change the rotation.
 
@@ -138,3 +140,5 @@ New action: Chaotic Spring. At level 86 Chaos Thrust turns into Chaotic Spring. 
   Raiden Thrust -> Vorpal Thrust -> Heavens' Thrust -> Fang and Claw -> Wheeling Thrust
 * AoE combo\
   Draconian Fury -> Sonic Thrust -> Coerthan Torment
+
+New actions: Lance Barrage & Spiral Blow. These act as direct upgrades to Vorpal Thrust and Disembowel. Permanently replacing the original skills from level 96 onwards. This doesn't affect our rotation though.
