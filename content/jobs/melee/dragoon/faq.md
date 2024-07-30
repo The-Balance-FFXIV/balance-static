@@ -1,8 +1,59 @@
 ---
-title: Dragoon FAQ
 layout: qna
-patch: "6.4"
-lastmod: 2023-05-29T14:00:25.836Z
+patch: "7.0"
+lastmod: 2024-07-28T11:18:50.814Z
+qna:
+  - question: How much skill speed is required to play Dragoon?
+    answer: Due to the amount of our damage that is tied to oGCDs with cooldowns
+      unaffected by skill speed and the cooldown drift that occurs to these
+      oGCDs when our GCD doesn't line up cleanly, DRG wants to stay at it's base
+      2.50 GCD speed as much as possible.
+  - question: What abilities can I double weave? And is it bad to use the increased
+      Recast Time on Action Change?
+    answer: >-
+      Besides Stardiver, all of our actions can be double weaved on a good
+      connection (<150ms ping). Certain abilities (High Jump, Dragonfire Dive &
+      Winged Glide) have a slightly longer than normal animation lock which can
+      make double weaving these actions slightly more difficult.
+
+
+      Using the increased recast time setting will cause the follow-up action to not be usable for 1.0s. This adds 0.4s to a Geirskogul > Nastrond weave, for our jumps it adds 0.2s and for Stardiver it doesn't add any since the animation lock already exceeds this time.
+
+
+      It is possible but very rare that this delay will cause any problems, the most likely scenario is a tight High Jump > Mirage Dive weave in a fight with downtime. Skill speed rotations may also encounter problems from this setting since timings are often more strict.
+
+
+      Use whichever settings are most comfortable for you above all.
+  - question: How difficult is it to play Dragoon?
+    answer: Dragoon is fundamentally punishing but very simple once mastered. The
+      job resolves around continuing your alternating 5 GCD combo loops and
+      pressing most of your oGCDs exactly as they come up.
+  - question: When should I use LB3?
+    answer: >-
+      LB3 should be used when needed above all, when you have flexibility
+      however;
+
+      Make sure you are not delaying your High Jump or other oGCD cooldowns by using it.
+
+      Aim to use the LB3 after your Chaotic Spring combo and repeat the same combo after your LB3.
+  - question: How do we use Wyrmwind Thrust?
+    answer: For every executed Raiden Thrust we obtain 1 Firstminds' Focus stack, 2
+      of these stacks can be used to execute Wyrmwind Thrust. Since there is no
+      restriction on when you have to use this ability until your next stack is
+      obtained, you can freely delay it for the 12s~ window to fit into your
+      buff window or use it to cleave.
+  - question: How do we use Life Surge?
+    answer: >-
+      Life Surge should be used on our highest potency weaponskill while
+      avoiding overcap, this will usually result in using 1 charge during our
+      60s burst window and 2 charges during our 120s burst window.
+
+
+      The priority of which weaponskills should be buffed by Life Surge is as follows:
+
+      ![LS Usage](https://i.imgur.com/NvbaW0M.png)
+authors:
+  - Balance-DRG-Staff
 changelog:
   - date: 2021-10-29T02:57:06.403Z
     message: Created page
@@ -14,79 +65,7 @@ changelog:
     message: Updated Dragon Sight Priority graphic
   - date: 2023-05-29T14:00:30.558Z
     message: Updated patch - no changes
-qna:
-  - question: How do Raiden Thrust and Draconian Fury work?
-    answer: Raiden Thrust is an upgraded True Thrust and Draconian Fury is an
-      upgraded Doom Spike. Both start their respective combos just like the base
-      skill and they replace the buttons on your hotbars temporarily when ready.
-      You gain the effect *Draconian Fire* upon completing a full combo with
-      Fang and Claw, Wheeling Thrust or Coerthan Torment, enabling the use of
-      either Raiden Thrust or Draconian Fury. It is *not* required anymore to
-      hit a positional to proc Raiden Thrust. At level 90 using Raiden Thrust or
-      Draconian Fury grants you a stack of *Firstminds' Focus*. You can use
-      Wyrmwind Thrust with two stacks.
-  - question: Should I modify my buff Lance Charge - Dragon Sight - Battle Litany
-      timings to accommodate my needy raid members?
-    answer: >-
-      Short answer is no. You should -- in general -- always be pressing all
-      three of your buff actions (and every other damage-dealing action) as
-      close to on cooldown as possible. The Opener aims for optimal buff
-      placement for the party without messing our own rotation up.
-
-
-      The **only** exception to this rule is a situation where you are running with a **static, consistent team** and have a specific kill time in mind. In this sort of coordinated environment (**and only in this case**) it can be prudent to shift your buff times to line up with allies for net gains to raid DPS. This is a very niche case and most of the time should not be taken into consideration.
-  - question: Who should I tether with Dragon Sight?
-    answer: >-
-      The general priority, assuming equal gear and skill level, for regular two
-      minute buff windows is:
-
-
-      ![](https://cdn.discordapp.com/attachments/610019474673762347/1063464157552332880/DRG_6.3_Dragon_Sight_v1.02_Blue.png)
-
-
-      In a static group, on initial pulls of the fight while learning, prioritize in the same way as above. After you have a few pulls, filter a series of FFLogs parses from your group through <https:///tethercalc.com/> to get specific answers for each tether for your particular group on that particular fight.
-  - question: Is it okay to hold High Jump, Spineshatter Dive, or Dragonfire Dive
-      for raid buffs? Personal buffs?
-    answer: >-
-      In general, **no**. You should be pressing everything as soon as it comes
-      up.
-
-
-      Spineshatter Dive is an exception now with its two charges. You can freely hold the action as long as you don't cap out both charges. 
-
-
-      However, if you know your target kill time and are certain that the delays will **not** cost a use on the fight, then it is perfectly acceptable to do so. Just be aware that delaying is **never** worth it if you end up with one fewer cast on the encounter because of it, *especially* in the case of High Jump and Mirage Dive.
-  - question: What does delaying Life of the Dragon mean?
-    answer: >-
-      You will enter Life of the Dragon (LotD) with your next cast of Geirskogul
-      after accruing two dragon eyes through Mirage Dive. You delay the LotD by
-      using Geirskogul before the second Mirage Dive. \  
-
-      For example: You gain the first eye in your opener and the second one 30 seconds later. You could enter LotD at this point but your buffs are still on cooldown. By using Geirskogul before the second Mirage Dive you will sit on two eyes for another 30 seconds without being in LotD.
-
-
-      With a 60s recast on Lance Charge we will ideally delay every life window. The arrangement of Geirskogul and High Jump in the Opener remains this way forever, with every odd one landing immediately after Lance Charge or Lance Charge, Dragon Sight and Battle Litany and entering Life.  
-
-
-      Specific fights may not allow a delayed life due to unfortunate phase timings. We have to adapt the (Re-)Opener in that case and use Mirage Dive before Geirskogul to enter life right away.
-
-      This also applies to the last life in a fight. Do not lose out on Nastrond or Stardiver casts by delaying a life when the boss is about to die!
-  - question: Should I double up Chaos Thrust on two targets? What about three?
-    answer: >-
-      The short answer is yes - if you have two targets that will both be active
-      for > 30 seconds, you want to alternate targets, maintaining Chaos Thrust
-      on both:
-
-
-      Raiden Thrust - Disembowel - Chaotic Spring - Wheeling Thrust - Fang and Claw - Raiden Thrust - Disembowel - Chaotic Spring - Wheeling Thrust - Fang and Claw
-
-
-      If any Life Surge comes up in these scenarios, just use it on a Fang and Claw that has a positional hit, as it has no effect on the damage-over-time effect of Chaos Thrust. This rotation has approximately a 3% gain over the usual rotation if you have two targets to spread Chaotic Spring on.
-
-
-      When extending to three targets, if they're all within range, you actually want to swap to your AoE rotation (Draconian Fury / Sonic Thrust / Coerthan Torment) and use Life Surge on Coerthan Torment.
-authors:
-  - Balance-DRG-Staff
+title: Dragoon FAQ
 tags:
   - Dragoon
   - faq
