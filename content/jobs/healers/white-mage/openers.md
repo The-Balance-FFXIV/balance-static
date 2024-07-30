@@ -2,8 +2,8 @@
 title: White Mage Opener
 authors:
   - Balance-WHM-Staff
-patch: "6.3"
-lastmod: 2023-01-19T16:35:15.080Z
+patch: "7.0"
+lastmod: 2024-07-30T07:05:12.380Z
 changelog:
   - date: 2021-10-27T01:10:24.558Z
     message: Article Created.
