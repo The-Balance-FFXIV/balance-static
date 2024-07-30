@@ -20,8 +20,14 @@ changelog:
     message: top bis updated for 6.5
 bis:
   - type: etro
-    name: Pre-Savage BiS
-    link: https://etro.gg/gearset/17625d8d-68fd-437b-8e2a-9766df2776d1
+    name: Savage Best-in-Slot 2.5 GCD
+    link: https://etro.gg/gearset/ba775a24-3411-4193-ab47-39fbbabafdca
+  - type: etro
+    name: Full Crafted 2.48 GCD
+    link: https://etro.gg/gearset/1c51980c-9c65-4449-8d80-77721b08e951
+  - type: etro
+    name: Full Crafted + Tome Earring 2.5 GCD
+    link: https://etro.gg/gearset/81854e01-1acf-4bd4-9eee-3e97eefcfa7d
   - type: etro
     description: Highest DPS, abuses 6.5 dungeon gear and the 645 relic weapon.
     name: TOP Best-in-Slot 2.5 GCD
