@@ -1,7 +1,7 @@
 ---
 title: Dark Knight Best in Slot (BiS)
 layout: bis
-patch: "7.01"
+patch: "7.05"
 lastmod: 2024-01-18T09:16:25.249Z
 changelog:
   - date: 2021-10-27T17:45:00.078Z
@@ -23,12 +23,18 @@ changelog:
     message: Added 7.0 sets
 bis:
   - type: gsheets
-    link: https://xivgear.app/?page=sl%7C6bb5df18-919d-4dab-a2e2-c20e3b4c1bdc&
-    name: 7.00 BiS Gearsets
-    description: ""
+    name: 7.05 BiS
+    link: https://xivgear.app/?page=sl%7C630b6555-74b3-4b24-bbe0-dae4985d3b39&
+  - type: gsheets
+    name: 7.05 Prog Gearsets
+    link: https://xivgear.app/?page=sl%7C9235267d-09e4-468e-8e14-bfb4ed09726d&
   - type: gsheets
     name: 7.01 Gearsets (2 weeks of normal raid gear)
     link: https://xivgear.app/?page=sl%7C7ed23846-ab66-43d2-bf6b-02669b86c586&
+  - type: gsheets
+    link: https://xivgear.app/?page=sl%7C6bb5df18-919d-4dab-a2e2-c20e3b4c1bdc&
+    name: 7.00 BiS Gearsets
+    description: ""
   - type: etro
     description: The DSR weapon and the Asphodelus weapon are both viable (but
       slightly worse) replacements for the Manderville weapon, melded with DH
