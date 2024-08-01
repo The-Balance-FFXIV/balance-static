@@ -3,11 +3,13 @@ title: Viper Basic Guide
 authors:
   - ToraelValdis
   - Balance-VPR-Staff
-patch: "7.0"
-lastmod: 2024-06-17T23:50:48.541Z
+patch: "7.05"
+lastmod: 2024-08-01T22:26:10.907Z
 changelog:
   - date: 2024-06-17T23:50:53.310Z
     message: Added guide to website
+  - date: 2024-08-01T22:26:14.910Z
+    message: Updated for 7.05 job changes.
 ---
 # 1﻿. Introduction
 
