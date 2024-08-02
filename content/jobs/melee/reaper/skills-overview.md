@@ -2,8 +2,8 @@
 title: Reaper Skill Overview
 authors:
   - Balance-RPR-Staff
-patch: "7.0"
-lastmod: 2024-07-18T22:44:31.268Z
+patch: "7.05"
+lastmod: 2024-08-02T15:58:53.193Z
 changelog:
   - date: 2022-01-04T20:37:59.400Z
     message: Updated Crest of Time Returned potency from 100 to 50.
@@ -21,6 +21,8 @@ changelog:
     message: Updated the 6.5 potency changes for Gluttony and Lemure's Slice
   - date: 2024-07-18T22:44:34.666Z
     message: Updated for 7.0
+  - date: 2024-08-02T15:58:59.283Z
+    message: Updated for 7.05 job changes.
 ---
 ## Single-Target Actions
 
