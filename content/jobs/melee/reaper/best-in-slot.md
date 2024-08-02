@@ -1,8 +1,8 @@
 ---
 title: Reaper Best-in-Slot
 layout: bis
-patch: "7.0"
-lastmod: 2024-07-12T22:50:37.239Z
+patch: "7.05"
+lastmod: 2024-08-02T15:37:12.930Z
 changelog:
   - date: 2022-01-02T23:10:40.632Z
     message: Created page
@@ -24,18 +24,58 @@ changelog:
     message: updated "2.49 RPR Relic BiS" for compatible melds with SAM/MNK.
   - date: 2024-07-12T22:40:07.960Z
     message: Updated page for 7.0.
+  - date: 2024-08-02T15:37:15.676Z
+    message: Updated with 7.05 gear.
 bis:
   - type: etro
-    name: Dawntrail Pre-Savage Set
-    link: e9c87798-993f-47f3-bb52-f4b54873aec1
+    name: 2.49 Savage BiS
+    link: 885a40b4-6ab2-4bf6-b479-b9f835e094bc
     description: >-
-      This set runs a 2.45 GCD, which requires some special considerations that
-      the normal GCD speed of 2.49 does not! You can see the rotation
-      adjustments in [this
-      spreadsheet.](https://docs.google.com/spreadsheets/d/1f1G2mGqjqfLNcOzci5qDTa2rAF9hbWPaJDTKTz-nLdY/edit?usp=sharing)
+      This is the recommended BiS set for most players. It uses a 2.49 GCD
+      instead of 2.50 to minimize Arcane Circle misalignment and drift, equating
+      to more damage than 2.50.
 
 
-      If you have questions regarding this, please join the Discord, pick up the Reaper role, and come ask us about it in the #rpr_questions channel
+      Use this set unless you play capped on 60 FPS.
+  - type: etro
+    name: 60 FPS Capped 2.48 BiS
+    link: 16ba48d5-6ee4-4d57-8e41-a17ed363c4f0
+    description: >-
+      Because of how framerate and abilities interact in FFXIV, 2.49 GCD while
+      capped at 60 FPS is actually closer to 2.50 GCD. This causes Arcane Circle
+      drift and misalignment. This set uses 2.48 GCD to "correct" this while at
+      60 FPS, which plays at effectively 2.49 GCD. 
+
+
+      **Do not use this set unless you are capped at 60 FPS!** 
+
+
+      Players who are on console should favor this set as console is capped at 60 FPS.
+  - type: etro
+    link: e9f0ea99-37fa-49bc-9f73-709dfbe41ca8
+    name: Savage Prog Pentamelded+Tome Neck
+    description: >-
+      A pentamelded option for those who will be capping their tomes before
+      entering savage.
+
+
+      Replace pieces with higher item level pieces as you get them.
+  - type: etro
+    name: Savage Prog Pentamelded Set
+    link: 957149c7-4170-4516-bea9-6f67f8cac4dd
+    description: >-
+      The best option for week 1 savage prog. There is no need to use pentamelds
+      if you are not going for a week 1 kill. 
+
+
+      Replace pieces with higher item level pieces as you get them.
+  - type: etro
+    name: Savage Prog Economy Set
+    link: d02fd6e7-b9f3-4f07-a3e2-b9443663ee2f
+    description: |-
+      A gear set for progging savage without breaking the bank.
+
+      Replace pieces with higher item level pieces as you get them.
   - type: etro
     description: >-
       If using the scythe from DSR, meld two Direct Hit X's and one
