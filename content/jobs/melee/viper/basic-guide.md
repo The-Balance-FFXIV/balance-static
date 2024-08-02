@@ -168,9 +168,9 @@ I﻿t might be tricky to understand what button replaces what on this job, so pl
 
 ### S﻿tandard Opener
 
-![](/img/jobs/vpr/viper-tentative-standard-opener.png)
+![](/img/jobs/vpr/vpr7-05standardop.png)
 
-[Click here](https://www.thebalanceffxiv.com/img/jobs/vpr/viper-tentative-standard-opener.png) for a full size image. 
+[Click here](https://www.thebalanceffxiv.com/img/jobs/vpr/vpr7-05standardop) for a full size image. 
 
 ## 7﻿.2 Always Be Casting
 
