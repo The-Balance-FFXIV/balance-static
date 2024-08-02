@@ -21,7 +21,7 @@ changelog:
 bis:
   - type: etro
     name: Savage Best-in-Slot 2.5 GCD
-    link: https://etro.gg/gearset/ba775a24-3411-4193-ab47-39fbbabafdca
+    link: https://etro.gg/gearset/c7206baa-68fc-4f52-a8ae-b1a3abfed92f
   - type: etro
     name: Full Crafted 2.48 GCD
     link: https://etro.gg/gearset/1c51980c-9c65-4449-8d80-77721b08e951
