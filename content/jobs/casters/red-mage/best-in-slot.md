@@ -1,8 +1,8 @@
 ---
 title: Red Mage Best in Slot (BiS)
 layout: bis
-patch: "6.55"
-lastmod: 2024-01-23T20:54:29.004Z
+patch: "7.05"
+lastmod: 2024-08-02T04:19:10.957Z
 changelog:
   - date: 2021-10-26T01:30:27.164Z
     message: Created page
@@ -16,30 +16,22 @@ changelog:
     message: Added patch 6.4 savage BiS and BiS set for TOP.
   - date: 2024-01-23T20:54:30.948Z
     message: Added 6.55 relic BiS, added disclaimers for TOP/DSR
+  - date: 2024-08-02T04:19:12.573Z
+    message: Updated with 7.05 BiS sets.
 bis:
   - type: etro
-    description: |-
-      Food: Baked Eggplant HQ 
-
-      Potion: Grade 8 Tincture of Intelligence HQ
-    name: ilvl 660 2.48 Savage BiS
-    link: https://etro.gg/gearset/6d7a091d-52f5-49ec-9b2e-d7b1d4c45733
+    name: 7.05 RDM BiS - 2.5 GCD
+    link: 17bca82c-2a8e-49a3-adea-9b2b4de1e2ff
+    description: Compatible with 2.5 PCT BiS. Highest crit tiering, but might cause
+      drifting issues with Embolden.
   - type: etro
-    description: If using the TOP weapon, meld three DET. Majestic Manderville and
-      Mandervillous weapons are interchangeable for the purposes of this set,
-      due to how stat allocation on the relic works.
-    name: ilvl 630 2.48 The Omega Protocol BiS
-    link: https://etro.gg/gearset/5f972eb8-c3cd-44da-aa73-0fa769957e5b
+    name: 7.05 RDM BiS - 2.49 GCD
+    link: 6b9137aa-b8dd-4f83-b3e3-5cf8631fc69f
+    description: Better oGCD alignment with Fleche and Contre Sixte.
   - type: etro
-    description: Use three DH melds if using Ultimate weapon. Majestic Manderville
-      and Mandervillous weapons are interchangeable for the purposes of this
-      set, due to how stat allocation on the relic works.
-    name: ilvl 600 2.48 Dragonsong's Reprise BiS
-    link: 80fdec19-1109-4ca2-8172-53d4dda44144
-  - type: etro
-    description: ""
-    name: Relic BiS
-    link: https://etro.gg/gearset/b1c1af0b-18d0-4ffa-b575-27ae3c7d13b6
+    name: 7.05 RDM BiS - 2.48 GCD
+    link: 1e2f46ee-327e-4de9-83bf-08b9e3fae5ce
+    description: Compatible with SMN and PCT, easier two-minute burst window.
 authors:
   - Balance-RDM-Staff
 tags:
