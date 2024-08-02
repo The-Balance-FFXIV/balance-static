@@ -3,8 +3,8 @@ title: Summoner Skills Overview
 authors:
   - juliacare
   - Hauffen
-patch: "7.0"
-lastmod: 2024-07-07T20:16:23.999Z
+patch: "7.05"
+lastmod: 2024-08-02T00:08:17.574Z
 changelog:
   - date: 2021-11-29T23:13:41.431Z
     message: Added page
@@ -12,6 +12,8 @@ changelog:
     message: Updated for Endwalker
   - date: 2024-07-07T20:16:34.471Z
     message: Updated for 7.0
+  - date: 2024-08-02T00:08:18.839Z
+    message: Updated for 7.05
 ---
 # Actions
 
