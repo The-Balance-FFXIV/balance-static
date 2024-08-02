@@ -24,6 +24,10 @@ The following are openers you can follow at the beginning of the fight to set up
 
 ![Pictomancer 9 Spell Single Muse Opener](/img/jobs/pct/pictomancer-pictomancer-3rd-gcd-opener.png "Pictomancer 9 Spell Single Muse Opener")
 
+# <br>
+
+![](/img/jobs/pct/pictomancer-pictomancer-2nd-gcd-opener.png)
+
 # Burst Windows
 
 The following are examples of burst setups for your two-minute windows. Please note that oGCDs used may vary depending on which portraits are available for each window. For more details about each, as well as their pros and cons, please view the Intermediate Guide (link to guide and relevant section forthcoming).
