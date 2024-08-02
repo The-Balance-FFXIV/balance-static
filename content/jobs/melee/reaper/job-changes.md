@@ -1,7 +1,7 @@
 ---
 title: Reaper Job Changes
 layout: changes
-lastmod: 2024-07-18T22:45:10.443Z
+lastmod: 2024-08-02T15:54:40.746Z
 changes:
   - patch: "6.0"
     description: Job added to game.
@@ -91,6 +91,13 @@ changes:
       Feint duration increased to 15 seconds.
 
       Second Wind potency increased to 800.
+  - patch: "7.05"
+    description: |-
+      Soul Slice potency increased to 520.
+
+      Perfectio potency increased to 1300.
+
+      These changes did not affect the core rotation.
 authors:
   - Balance-RPR-Staff
 ---
