@@ -6,7 +6,7 @@ authors:
   - lana
   - Balance-RDM-Staff
 patch: "6.55"
-lastmod: 2023-06-10T03:34:10.896Z
+lastmod: 2024-08-03T08:37:00.152Z
 changelog:
   - date: 2021-11-15T18:49:06.143Z
     message: Created page
@@ -14,57 +14,25 @@ changelog:
     message: Guide updated for Endwalker.
   - date: 2023-06-10T03:34:11.559Z
     message: No changes, updated patch number
+  - date: 2024-08-03T08:37:08.091Z
+    message: Updated for Dawntrail
 tags: []
 ---
 # Red Mage Leveling Guide
 
 ## Updated for 7.0
 
-### Table of Contents (Click to jump around)
-
-[Introduction](https://docs.google.com/document/d/1AqIKUPX9xUWpJK4qXtJo6AOuFdyjtuTRo0pcwzwgImI/edit?pli=1#heading=h.n0ncnbz60sgb)
-
-[Unlocking Red Mage](https://docs.google.com/document/d/1AqIKUPX9xUWpJK4qXtJo6AOuFdyjtuTRo0pcwzwgImI/edit?pli=1#heading=h.ffkp7twc09bi)
-
-[Terminology](https://docs.google.com/document/d/1AqIKUPX9xUWpJK4qXtJo6AOuFdyjtuTRo0pcwzwgImI/edit?pli=1#heading=h.ttkv0xy9k285)
-
-[Job Basics](https://docs.google.com/document/d/1AqIKUPX9xUWpJK4qXtJo6AOuFdyjtuTRo0pcwzwgImI/edit?pli=1#heading=h.k8x70rbzdejh)
-
-[General Spell Rotation](https://docs.google.com/document/d/1AqIKUPX9xUWpJK4qXtJo6AOuFdyjtuTRo0pcwzwgImI/edit?pli=1#heading=h.qas0s1pmvlgt)
-
-[Caster Role Actions](https://docs.google.com/document/d/1AqIKUPX9xUWpJK4qXtJo6AOuFdyjtuTRo0pcwzwgImI/edit?pli=1#heading=h.rl9japd8ykjw)
-
-[Levels 1-50](https://docs.google.com/document/d/1AqIKUPX9xUWpJK4qXtJo6AOuFdyjtuTRo0pcwzwgImI/edit?pli=1#heading=h.sselnvdeyttu)
-
-[Levels 51-60](https://docs.google.com/document/d/1AqIKUPX9xUWpJK4qXtJo6AOuFdyjtuTRo0pcwzwgImI/edit?pli=1#heading=h.umx9gmsqrbmn)
-
-[Level 60 Rotations](https://docs.google.com/document/d/1AqIKUPX9xUWpJK4qXtJo6AOuFdyjtuTRo0pcwzwgImI/edit?pli=1#heading=h.azfnw37ipey9)
-
-[Levels 61-70](https://docs.google.com/document/d/1AqIKUPX9xUWpJK4qXtJo6AOuFdyjtuTRo0pcwzwgImI/edit?pli=1#heading=h.zhdbxsazxh7c)
-
-[Level 70 Rotations](https://docs.google.com/document/d/1AqIKUPX9xUWpJK4qXtJo6AOuFdyjtuTRo0pcwzwgImI/edit?pli=1#heading=h.ot8mjjnvbhlp)
-
-[Levels 71-80](https://docs.google.com/document/d/1AqIKUPX9xUWpJK4qXtJo6AOuFdyjtuTRo0pcwzwgImI/edit?pli=1#heading=h.hyv7tjc8z9po)
-
-[Level 80 Rotations](https://docs.google.com/document/d/1AqIKUPX9xUWpJK4qXtJo6AOuFdyjtuTRo0pcwzwgImI/edit?pli=1#heading=h.avln765vsrco)
-
-[Levels 81-90](https://docs.google.com/document/d/1AqIKUPX9xUWpJK4qXtJo6AOuFdyjtuTRo0pcwzwgImI/edit?pli=1#heading=h.ty5iwchg0khv)
-
-[Level 90 Rotations](https://docs.google.com/document/d/1AqIKUPX9xUWpJK4qXtJo6AOuFdyjtuTRo0pcwzwgImI/edit?pli=1#heading=h.qqc2l6d1e89)
-
-[Levels 91-100](https://docs.google.com/document/d/1AqIKUPX9xUWpJK4qXtJo6AOuFdyjtuTRo0pcwzwgImI/edit?pli=1#heading=h.nq3rc0em84fm)
-
-## Introduction
+# Introduction
 
 The purpose of this guide is to help players understand the core mechanics of Red Mage. This guide will cover the basics of the job and its abilities as you progress through each set of levels. Once you hit level 100, it is strongly encouraged to check out the RDM guide to familiarize yourself with more advanced topics as you begin to enter endgame content. This guide was written as of patch 7.0. Unless anything major changes, you can expect this guide to remain relevant throughout Dawntrail.
 
 [Red Mage 7.0 Lvl 100 Guide (prelim Pre-Savage version)](https://docs.google.com/document/d/1Z3dw4SsbXqtTmXSq7q2aWzghFaLJxeNg_E0lp-d63zU/edit#heading=h.53u5mg2ilncv)
 
-## Unlocking Red Mage
+# Unlocking Red Mage
 
 To unlock Red Mage, you must own Stormblood and have at least one combat job at level 50. Complete the quest “Taking the Red” by speaking to the Distraught Lass in Ul’dah, Steps of Thal (X:14.1, Y: 11.7).
 
-## Terminology
+# Terminology
 
 **CD - COOLDOWN**
 
@@ -90,15 +58,15 @@ Weaving refers to the act of using your off-Global Cooldown abilities in between
 
 Clipping refers to the forced delay on a Global Cooldown caused by attempting to weave too many off-Global Cooldowns at once, or by using an off-Global Cooldown too late into the Global Cooldown. This is generally something to avoid. Clipping can also be affected by a player’s ping, where the animation lock tied to certain off-Global Cooldowns may not allow players at higher pings to double weave certain abilities.
 
-## Job Basics
+# Job Basics
 
 For a comprehensive breakdown of Red Mage’s spells and abilities, please see [Red Mage 7.0 Lvl 100 Guide (prelim Pre-Savage version)](https://docs.google.com/document/d/1Z3dw4SsbXqtTmXSq7q2aWzghFaLJxeNg_E0lp-d63zU/edit#heading=h.53u5mg2ilncv). This section is just to familiarize you with the basic flow of the job, as well as guide you through abilities as you unlock them.
 
-Dualcast
+**Dualcast**
 
 Red Mage’s core job mechanic is Dualcast. Whenever you cast any spell that has a cast time, your next spell will have no cast time. Understanding how this concept works is pivotal to understanding Red Mage. 
 
-Mana
+**Mana**
 
 Red Mage’s job gauge consists of two bars (White Mana | Black Mana) that are generated from casting their respective origin spells. Below is the list of spells and how much of each Mana they generate.
 
@@ -109,9 +77,11 @@ Red Mage’s job gauge consists of two bars (White Mana | Black Mana) that are g
 | Verthunder II (+7)      | Scorch (+4)                      | Veraero II (+7)      |
 | Verflare (+11)          | Resolution (+4)                  | Verholy (+11)        |
 
+
+
 The mana gauge enchants our melee weaponskills (Moulinet, Reprise, Riposte, Zwerchhau, and Redoublement). And we spend the gauge when we have enough Mana to complete an enchanted melee combo. Note that you should never use these weaponskills when they are unenchanted.
 
-## General Spell Rotation
+# General Spell Rotation
 
 The goal of Red Mage is to use our spells with a short cast time in order to gain Dualcast to spend on long cast time spells.
 
@@ -137,7 +107,7 @@ Jolt (or Verfire/Verstone) into Verthunder/Veraero
 
 Say it with me again, **we are never using unenchanted weaponskills.**
 
-## Caster Role Actions
+# Caster Role Actions
 
 The following actions are available to all casters, and are extremely useful abilities that should not be considered optional.
 
@@ -171,7 +141,7 @@ Puts target and all enemies nearby to sleep. 
 
 This action is seldom used in the overworld, and never used in any raid scenario as everything has sleep immunity. 
 
-## Levels 1-50
+# Levels 1-50
 
 Though Red Mage starts at level 50, this section is for synced dungeons.
 
@@ -215,7 +185,7 @@ At level 50, we unlock Redoublement (completing our melee combo) and Acceleratio
 
 Acceleration makes our next Verthunder, Veraero or Scatter (Impact) instant. It also guarantees the respective procs from Thunder and Aero, as well as boosting the potency of Scatter (Impact). Simply add in Acceleration to either your single target or AOE rotations when available.
 
-## Levels 51-60
+# Levels 51-60
 
 **Damage GCDs**
 
@@ -264,7 +234,7 @@ Use Acceleration and Swiftcast on Scatter off cooldown
 
 Use Contre Sixte, Fleche, Engagement, and Corps-a-corps off cooldown
 
-## Levels 61-70
+# Levels 61-70
 
 **Upgraded Damage GCDs**
 
@@ -311,7 +281,7 @@ Use Acceleration and Swiftcast on Impact off cooldown
 
 Use Contre Sixte, Fleche, Engagement, and Corps-a-corps off cooldown
 
-## Levels 71-80
+# Levels 71-80
 
 **Damage GCDs**
 
@@ -350,7 +320,7 @@ Use Acceleration and Swiftcast on Impact off cooldown
 
 Use Contre Sixte, Fleche, Engagement, and Corps-a-corps off cooldown
 
-## Levels 81-90
+# Levels 81-90
 
 **Utility oGCDs**
 
@@ -401,7 +371,7 @@ Use Acceleration and Swiftcast on Impact off cooldown
 
 Use Contre Sixte, Fleche, Engagement, and Corps-a-corps off cooldown
 
-## Levels 91-100
+# Levels 91-100
 
 These levels slightly change our gameplay at the higher end. At a basic level, not much changes.
 
@@ -436,5 +406,3 @@ Now that you have a grasp of what Red Mage does, check out our guide to learn ab
 ## Credits
 
 The Balance RDM team
-
-<!--EndFragment-->
