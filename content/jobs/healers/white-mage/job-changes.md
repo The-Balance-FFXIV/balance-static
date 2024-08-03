@@ -10,6 +10,10 @@ changes:
       [here](https://na.finalfantasyxiv.com/jobguide/whitemage/)!
   - patch: "6.3"
     description: "Assize cooldown changed to 40s. "
+  - patch: "7.0"
+    description: 91-100 new actions and traits added. View full changes and
+      additions for 7.0 at the Official Site, located
+      [here](https://na.finalfantasyxiv.com/jobguide/whitemage/)!
 authors:
   - Balance-WHM-Staff
 ---
