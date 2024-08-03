@@ -16,8 +16,6 @@ changelog:
     message: No changes, updated patch number
 tags: []
 ---
-<!--StartFragment-->
-
 # Red Mage Leveling Guide
 
 ## Updated for 7.0
@@ -297,9 +295,7 @@ A common misconception is to use Vercure > Verraise, but we can use any casted G
 * Cast Jolt II into Verthunder/Veraero to build mana
 * Use Verfire/Verstone in place of Jolt II when available
 * Spend mana (50|50) on your melee combo > Verholy/Verflare
-*  
-
-  * Use the spell of your lower mana
+* * Use the spell of your lower mana
 
 Use Acceleration and Swiftcast on Verthunder/Veraero as needed/off cooldown
 
@@ -309,9 +305,7 @@ Use Fleche, Contre Sixte, Engagement, and Corps-a-corps off cooldown
 
 * Cast Verthunder II/Veraero II into Impact
 * Spend mana (50|50) on 3x E. Moulinet combo > Verholy/Verflare
-*  
-
-  * Use the spell of your lower mana
+* * Use the spell of your lower mana
 
 Use Acceleration and Swiftcast on Impact off cooldown
 
@@ -340,9 +334,7 @@ At level 78, Manafication’s cooldown is reduced to 110 seconds, as well as gai
 * Cast Jolt II into Verthunder/Veraero to build mana
 * Use Verfire/Verstone in place of Jolt II when available
 * Spend mana (50|50) on your melee combo > finishers
-*  
-
-  * Use the spell of your lower mana
+* * Use the spell of your lower mana
 
 Use Acceleration and Swiftcast on Verthunder/Veraero as needed/off cooldown
 
@@ -352,9 +344,7 @@ Use Fleche, Contre Sixte, Engagement, and Corps-a-corps off cooldown
 
 * Cast Verthunder II/Veraero II into Impact
 * Spend mana (50|50) on 3x E. Moulinet combo > finishers
-*  
-
-  * Use the spell of your lower mana
+* * Use the spell of your lower mana
 
 Use Acceleration and Swiftcast on Impact off cooldown
 
@@ -393,8 +383,6 @@ At level 88, we gain a second charge of Acceleration, helping us keep uptime dur
 * Cast Jolt III into Verthunder III/Veraero III to build mana
 * Use Verfire/Verstone in place of Jolt III when available
 * Spend mana (50|50) on your melee combo > finishers
-
-
 
   * Use the spell of your lower mana
 
