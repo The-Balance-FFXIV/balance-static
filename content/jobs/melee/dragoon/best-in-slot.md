@@ -1,8 +1,8 @@
 ---
 title: Dragoon Best in Slot (BiS)
 layout: bis
-patch: "6.55"
-lastmod: 2024-04-13T20:34:06.560Z
+patch: "7.05"
+lastmod: 2024-08-03T21:36:22.281Z
 changelog:
   - date: 2021-10-29T03:01:01.840Z
     message: Created page
@@ -21,25 +21,22 @@ changelog:
     message: etro sets changed to 6.55 BiS
   - date: 2024-04-13T20:34:08.221Z
     message: Cleared up RPR compatibility on 2.50
+  - date: 2024-08-03T21:36:25.359Z
+    message: New 7.05 sets
 bis:
   - type: etro
-    description: >-
-      Choosing this 2.50 set is highly recommended. It is much easier to play,
-      more comfortable and will thus likely yield better results in practice. 
-
-
+    description: |-
       Compatibility with Reaper:
-
-      When using the [DRG Compatible BiS](https://www.thebalanceffxiv.com/jobs/melee/reaper/best-in-slot/#1), RPR can eat Baba Ghanoush for a ~20 dps loss without remelding, or can change 1 Direct Hit -> Skill Speed and back for no loss when swapping between DRG and RPR to keep 2.49 GCD.
-    link: 8a907f52-75a4-4085-9deb-6a63ffa2abd8
-    name: 2.50 GCD
+      100% compatible
+    link: 8b1b5c84-df4b-4925-951a-e66aeabe44c7
+    name: Savage BiS - 2.50 GCD
   - type: etro
-    description: "In case you prefer a slightly faster set. Can be preferable in
-      some fights due to better GCD alignment but is much harder to play
-      optimally. Requires you to get nine GCD buff windows for equal performance
-      to the 2.50 set. "
-    name: 2.46 GCD
-    link: ba65b9ee-ec73-4b80-86c1-66a71849a5c8
+    description: Recommended over full pentamelded
+    name: Pentamelded Prog Set - 2.50 GCD
+    link: 08c14ba6-f4a0-488d-80a7-86753453e727
+  - type: etro
+    name: Full Pentamelded Crafted - 2.46 GCD
+    link: a36a2c3b-e165-453e-9947-3abe0cbc2ef5
   - type: etro
     description: Syncing gear is currently not a viable option for this fight due to
       the massive loss of substats from materia. The relic weapon is an
