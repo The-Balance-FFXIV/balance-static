@@ -1,36 +1,30 @@
 ---
 title: Viper Best in Slot
 layout: bis
-patch: "7.01"
-lastmod: 2024-06-23T13:58:39.836Z
+patch: "7.05"
+lastmod: 2024-08-04T22:46:01.762Z
 changelog: []
 bis:
   - type: etro
-    link: f5287edc-6983-4a5c-ad51-a8fddee4c2ca
-    name: "Viper Pre-Savage 2.50 BiS "
-    description: >-
-      **Q. Should I use 2.50 or 2.48?**
-
-
-      **A.** Both sets perform relatively similarly, with the primary determining factor being what GCD you end on. Due to this it is perfectly fine to choose between 2.50 or 2.48 depending on your preference.
-
-
-      In fights that are shorter than 7 minutes, 2.48 is better due to being able to get an extra Reawaken before the 6 minute window.
+    name: Light-Heavyweight Savage BiS
+    link: 0940d164-d9ce-42fc-9926-c07bec5c4802
+    description: This set is 100% compatible with NIN and Physical Ranged jobs. 2.11
+      GCD follows the same rotation rules as 2.12 GCD, which is outlined in the
+      Basic and Intermediate Guides.
   - type: etro
-    link: ded11f78-d747-4e57-8f89-058e51131ba1
-    name: Viper Pre-Savage 2.48 BiS
-    description: >-
-      **Q. Should I use 2.50 or 2.48?**
-
-
-      **A.** Both sets perform relatively similarly, with the primary determining factor being what GCD you end on. Due to this it is perfectly fine to choose between 2.50 or 2.48 depending on your preference.
-
-
-      In fights that are shorter than 7 minutes, 2.48 is better due to being able to get an extra Reawaken before the 6 minute window.
+    name: "Light-Heavyweight Savage Prog Set: Pentamelded"
+    link: 48b6e6b1-296c-4125-85cc-fb03a278e270
+    description: This set uses full pentamelded crafted gear to give you the best
+      option for week 1 savage. Replace these pieces with higher item level
+      pieces as you get them.
   - type: etro
-    name: Viper 7.0 BiS
-    link: 3f906d18-f633-467b-8744-7d9fc5f087d5
-    description: This set will only remain until 7.05.
+    name: "Light-Heavyweight Savage Prog Set: Budget"
+    link: b89100e4-a6d1-4b8e-86ea-2f453a1db9e6
+    description: This set avoids pentamelding and replaces some of the crafted gear
+      with Extreme and Normal Raid i710 pieces to cut down on costs. This set
+      will be just fine if you want to get into savage but aren't going for an
+      early kill. Replace these pieces with higher item level pieces as you get
+      them.
   - type: etro
     link: a890605f-8a5a-4748-9f8b-09e311f502e8
     name: Viper TOP BiS (with weapon)
