@@ -39,9 +39,9 @@ Dual wield combos execute attacks that use two separate swords, one in each hand
 
 ### 2﻿.1.1 Single Target
 
-Viper’s single target dual wield combo is a branching path system made by selecting one of two options for each combo hit. Players will start the combo chain with either Reaving Fangs or Steel Fangs. Steel Fangs grants a buff that increases Reaving Fangs' potency by 100, and Reaving Fangs grants a buff that increases Steel Fangs' potency by 100. These buffs are called Honed Steel and Honed Reavers respectively. This means that Steel Fangs and Reaving Fangs will be alternated each combo to keep each other buffed. It does not matter which is started with the first time, as they have the same potency and grant the same buff. 
+Viper’s single target dual wield combo is a branching path system made by selecting one of two options for each combo hit. Players will start the combo chain with either Reaving Fangs or Steel Fangs. Steel Fangs grants Honed Reavers, increasing the potency of the next Reaving Fangs by 100. Reaving Fangs grants Honed Steel, increasing the potency of the next Steel Fangs by 100. This means that Steel Fangs and Reaving Fangs will be alternated each combo to keep each other buffed. It does not matter which is started with the first time, as their buffed and unbuffed potencies are the same: 200 unbuffed, and 300 buffed.
 
-Selecting either option allows the player to now choose between Hunter’s Sting or Swiftskin’s Sting. Hunter’s Sting applies Hunter's Instinct, increasing the Viper’s damage dealt by 10% for 40 seconds. Swiftskin’s Sting applies Swiftscaled, decreasing the Viper’s weaponskill recast time and auto-attack delay by 15% for 40 seconds. 
+Selecting either option now allows the player to choose between Hunter’s Sting or Swiftskin’s Sting. Hunter’s Sting applies Hunter's Instinct, increasing the Viper’s damage dealt by 10% for 40 seconds. Swiftskin’s Sting applies Swiftscaled, decreasing the Viper’s weaponskill recast time and auto-attack delay by 15% for 40 seconds. 
 
 Selecting Hunter’s Sting gives the player access to two combo finishers, Flanksting Strike and Flanksbane Fang. Selecting Swiftskin’s Sting grants access to the other two combo finishers, Hindsting Strike and Hindsbane Fang. Each combo finisher also grants a buff that makes a different combo finisher do more damage. Flanksting Strike buffs Hindsting Strike, Hindsting Strike buffs Flanksbane Fang, Flanksbane Fang buffs Hindsbane Fang, and Hindsbane Fang completes the cycle by buffing Flanksting Strike. 
 
@@ -49,13 +49,12 @@ At first glance, this may seem like an overwhelming amount of things going on fo
 
 ![](/img/jobs/vpr/dual-wield-st-combo7-05.png "Dual Wield ST Combo Flowchart")
 
-As shown in this flowchart , players will choose either Reaving Fangs or Steel Fangs depending on which Honed buff they have. These will always be alternated.
+Note: the buff icons shown are the buffs \*granted\* by pressing that ability, and not the buff that increases the potency of that ability. I.e. Flanksting Strike gives the buff shown that increases the potency of Hindsting Strike by 100.
 
-Next, players will select Hunter’s Sting or Swiftskin’s Sting. Due to the nature of the combo finisher buff, players will always alternate this hit to have access to the combo finisher that is currently buffed. 
+\
+As shown in this flowchart, players will choose either Reaving Fangs or Steel Fangs depending on which Honed buff they have. These will always be alternated. Next, players will select Hunter’s Sting or Swiftskin’s Sting. Due to the nature of the combo finisher buff, players will always alternate this hit to have access to the combo finisher that is currently buffed. Finally, players will select the combo finisher that is currently buffed. Selecting any combo finisher also allows for a follow up oGCD called Death Rattle, regardless of if you selected the buffed one or not. Always press the buffed one for more damage, but you will not lose a Death Rattle if you mistakenly press the wrong choice.
 
-Finally, players will select the combo finisher that is currently buffed. Selecting the buffed combo also allows for a follow up oGCD called Death Rattle.
-
-The game systems do a very good job of guiding the player to select the correct buttons in order to be able to use the currently buffed combo finisher. While Honed Steel or Honed Reavers is active, which is the buff that makes Steel Fangs or Reaving Fangs 300 potency intead of 200, the correct option will have combo ants around it. After pressing Steel Fangs or Reaving Fangs, the correct choice for Hunter’s or Swiftskin’s Sting will have also combo ants around it. Pressing the action with the combo ants will then trigger one of the two available combo finishers to have combo ants, which will indicate which finisher is the currently buffed one. ***This means players will be able to simply press the glowing button in order to flow through the combo chain correctly.*** 
+The game systems do a very good job of guiding the player to select the correct buttons in order to be able to use the currently buffed combo finisher. While Honed Steel or Honed Reavers is active, which is the buff that makes Steel Fangs or Reaving Fangs 300 potency intead of 200, the correct option will have combo ants around it. After pressing Steel Fangs or Reaving Fangs, the correct choice for Hunter’s or Swiftskin’s Sting will have also combo ants around it. Pressing the second action with the combo ants will then trigger one of the two available combo finishers to have combo ants, which will indicate which finisher is the currently buffed one. If the non-glowing second combo action is selected, it is no longer possible to press the buffed combo finisher, which will result in 100 potency lost. ***This means players will be able to simply press the glowing button in order to flow through the combo chain correctly.*** 
 
 Please note that before completing the first combo and gaining the Honed Steel/Reavers buff and the combo finisher buff, neither Steel Fangs nor Reaving Fangs will glow, indicating that you are free to press either one. Similarly, since there is no active combo finisher buff, both Hunter's Sting and Swiftskin's Sting will glow, indicating that you can freely choose either one. Once Hunter's or Swiftskin's Sting is pressed, both combo finisher options will be glowing to indicate you can freely choose either one. While the Honed Steel/Reavers and combo finisher buffs are active, only the correct button to press will be glowing.
 
@@ -77,7 +76,7 @@ Similarly to how the Vipersight gauge guides you through the single target versi
 
 ## 2﻿.2 Doubleblade Combos
 
-Official localization calls these “doubleblade combos,” but that is confusing terminology when used with dual wield combos. For clarity they will be called twinblade combos instead. Twinblade combos execute actions using both swords attached at the hilts to form a single, double bladed weapon. Twinblade attacks have a longer GCD of 3.0s (2.55s with 15% haste buff), with no skill speed. Twinblade combo starters are on a 40s cooldown with two charges, and share a cooldown and charges with each other (i.e. using the single target combo opener also uses one charge of the AoE combo opener and vice versa). 
+Official localization calls these “doubleblade combos,” but that is confusing terminology when used with dual wield combos. For clarity they will be called twinblade combos instead. Twinblade combos execute actions using both swords attached at the hilts to form a single, double bladed weapon. Twinblade attacks have a longer GCD of 3.0s (2.55s with 15% haste buff), with no skill speed. Twinblade combo starters are on a 40s cooldown with two charges, and share a cooldown and charges with each other (i.e. using Vicewinder also uses one charge Vicepit and vice versa). 
 
 ### 2﻿.2.1 Single Target
 
@@ -91,7 +90,7 @@ After selecting Hunter’s Coil or Swiftskin’s Coil, the opposite skill become
 
 ### 2﻿.2.2 Area of Effect (AoE)
 
-The twinblade AoE combo functions exactly like its single target counterpart. Start the combo with Vicepit. Next, use either Hunter’s Den or Swiftskin’s Den, the former applying Hunter’s Instinct and the latter applying Swiftscaled. Finally finish the combo with whichever of Hunter’s and Swiftskin’s Dens that was not used for the second hit. Hunter’s Den will allow execution of Twinfang Thresh then Twinblood Thresh, and Swiftskin’s Den will allow execution of Twinblood Thresh then Twinfang Thresh. Like the single target versions, be sure to hit the oGCDs in the correct order to avoid a potency loss. Below is a visual representation of this combo.
+The twinblade AoE combo functions exactly like its single target counterpart. Start the combo with Vicepit. Next, use either Hunter’s Den or Swiftskin’s Den, the former applying Hunter’s Instinct and the latter applying Swiftscaled. Finally finish the combo with whichever of Hunter’s and Swiftskin’s Den that was not used for the second hit. Hunter’s Den will allow execution of Twinfang Thresh then Twinblood Thresh, and Swiftskin’s Den will allow execution of Twinblood Thresh then Twinfang Thresh. Like the single target versions, be sure to hit the oGCDs in the correct order to avoid a potency loss. Below is a visual representation of this combo.
 
 ![](/img/jobs/vpr/vicepitcombo7-05.png)
 
@@ -128,7 +127,7 @@ For the dual wield combo, both flank positionals will always follow Hunter’s S
 
 # 5﻿. Viper Gauges
 
-V﻿iper has two gauges, the Anguine Tribute gauge and the Rattling Coil gauge. 
+V﻿iper has two gauges, the Serpent Offerings gauge and the Rattling Coil gauge. 
 
 ## 5.1 Rattling Coils
 
