@@ -6,7 +6,7 @@ authors:
   - lana
   - Balance-RDM-Staff
 patch: "6.55"
-lastmod: 2023-06-10T03:34:10.896Z
+lastmod: 2024-08-03T08:37:00.152Z
 changelog:
   - date: 2021-11-15T18:49:06.143Z
     message: Created page
@@ -14,164 +14,395 @@ changelog:
     message: Guide updated for Endwalker.
   - date: 2023-06-10T03:34:11.559Z
     message: No changes, updated patch number
+  - date: 2024-08-03T08:37:08.091Z
+    message: Updated for Dawntrail
 tags: []
 ---
-# Red Mage Leveling Guide for 6.x
+# Red Mage Leveling Guide
 
-## Introduction
+## Updated for 7.0
 
-The purpose of this guide is to assist players new to either Red Mage, or to the game entirely in learning how to properly play both their job and their role as they level up to 90. It will be split into sections for different level ranges that cover new abilities gained at these levels, as well as covering other basic concepts that will assist players in playing Red Mage. 
+# Introduction
 
-An important thing to keep in mind when leveling is the gear you are using. You should always aim to use the highest item level gear available to you throughout your leveling experience. At every capstone level (i.e 50, 60, 70, 80), maximum item level gear for that level can be purchased using **Allagan Tomestones of Poetics** in a given expansion’s city zones or endgame zones. These zones include Limsa Lominsa, New Gridania, Ul’dah, Mor Dhona, Foundation, Idyllshire, Kugane, Rhalgr’s Reach, The Crystarium, and Eulmore.  
- \
-Throughout this guide, different terminology will be used to refer to specific concepts in game. Here is a reference list for some of the terms you may encounter: 
+The purpose of this guide is to help players understand the core mechanics of Red Mage. This guide will cover the basics of the job and its abilities as you progress through each set of levels. Once you hit level 100, it is strongly encouraged to check out the RDM guide to familiarize yourself with more advanced topics as you begin to enter endgame content. This guide was written as of patch 7.0. Unless anything major changes, you can expect this guide to remain relevant throughout Dawntrail.
 
+[Red Mage 7.0 Lvl 100 Guide (prelim Pre-Savage version)](https://docs.google.com/document/d/1Z3dw4SsbXqtTmXSq7q2aWzghFaLJxeNg_E0lp-d63zU/edit#heading=h.53u5mg2ilncv)
 
-### AoE - Area of Effect
-Area of Effect abilities are abilities that will hit multiple targets in a given range rather than one single target. 
+# Unlocking Red Mage
 
-### CD - Cooldown
+To unlock Red Mage, you must own Stormblood and have at least one combat job at level 50. Complete the quest “Taking the Red” by speaking to the Distraught Lass in Ul’dah, Steps of Thal (X:14.1, Y: 11.7).
+
+# Terminology
+
+**CD - COOLDOWN**
 
 Cooldown refers to how long it takes for an ability to be available again after being used. Using an ability on cooldown means using it as soon as it is available.
 
-### GCD - Global Cooldown
+**GCD - GLOBAL COOLDOWN**
 
-Global cooldown refers to the default 2.5 second cooldown shared by all spells and weaponskills. This is not the same as cast time. After initiating a use of one spell or weaponskill, you will be able to use your next GCD in 2.5s. The global cooldown can be reduced with spellspeed, but certain abilities can also have shorter, unique cooldowns. 
+Global cooldown refers to the default 2.5 second cooldown shared by all spells and weaponskills. This is not the same as cast time. After initiating a use of one spell or weaponskill, you will be able to use your next GCD in 2.5s. The global cooldown can be reduced with spellspeed, but certain abilities can also have shorter, unique cooldowns.
 
-*You can check your Global Cooldown by hovering over Jolt and checking the recast timer
+**oGCD - OFF-GLOBAL COOLDOWN**
 
-### oGCD - Off-Global Cooldown
 Off-Global Cooldowns are abilities that are not a part of the Global Cooldown. These abilities have their own cooldown that is separate from all other cooldowns unless otherwise stated, and can be used when the Global Cooldown is not yet available.
 
-### Weaving
+**AOE - AREA OF EFFECT**
 
-Weaving refers to the act of using your off-Global Cooldown abilities in between your Global Cooldowns. For example, if a Red Mage were to instant cast a spell and then press Fleche and Engagement before their next Global Cooldown was available, this would be called a **double weave, **as they have used two off-Global Cooldowns. It is common to double weave for many spells, but there are also faster Global Cooldowns in the game that only allow you to single weave.
+Area of Effect abilities are abilities that will hit multiple targets in a given range rather than one single target.
 
-### Clipping
+**WEAVING**
 
-Clipping refers to the forced delay on a Global Cooldown caused by attempting to weave too many off-Global Cooldowns at once, or by using an off-Global Cooldown too late into the Global Cooldown. This is generally something to avoid. Clipping can also be affected by a player’s ping, where the animation lock tied to certain off-Global Cooldowns may not allow players at higher pings to double weave certain abilities. 
+Weaving refers to the act of using your off-Global Cooldown abilities in between your Global Cooldowns. For example, if a Red Mage were to instant cast a spell and then press Fleche and Engagement before their next Global Cooldown was available, this would be called a double weave, as they have used two off-Global Cooldowns. It is common to double weave for many spells, but there are also faster Global Cooldowns in the game that only allow you to single weave.
 
-An infographic that further explains weaving and clipping can be found [here. ](https://media.discordapp.net/attachments/598630005999796233/600432765250568262/GCD_v._3.png?1640267415)
+**CLIPPING**
 
-### Drifting
+Clipping refers to the forced delay on a Global Cooldown caused by attempting to weave too many off-Global Cooldowns at once, or by using an off-Global Cooldown too late into the Global Cooldown. This is generally something to avoid. Clipping can also be affected by a player’s ping, where the animation lock tied to certain off-Global Cooldowns may not allow players at higher pings to double weave certain abilities.
 
-Drifting is the act of not using an ability when it comes off cooldown, delaying its usage as well as delaying the timer on it from resetting. Using an ability on cooldown allows you to maximize its usage.
+# Job Basics
 
-### Hardcast
+For a comprehensive breakdown of Red Mage’s spells and abilities, please see [Red Mage 7.0 Lvl 100 Guide (prelim Pre-Savage version)](https://docs.google.com/document/d/1Z3dw4SsbXqtTmXSq7q2aWzghFaLJxeNg_E0lp-d63zU/edit#heading=h.53u5mg2ilncv). This section is just to familiarize you with the basic flow of the job, as well as guide you through abilities as you unlock them.
 
-A hardcast is when a spell has a cast time before it is actually used. During this cast time, the user must stand still while the cast is completed.
+**Dualcast**
 
-### Slidecasting
+Red Mage’s core job mechanic is Dualcast. Whenever you cast any spell that has a cast time, your next spell will have no cast time. Understanding how this concept works is pivotal to understanding Red Mage. 
 
-Slidecasting is the act of being able to move before a cast finishes without canceling the cast itself. How early into a cast a player can move will vary with ping. An example of this being done can be found [here. ](https://www.youtube.com/watch?v=_InbctLFCzg)
+**Mana**
 
-### Uptime
+Red Mage’s job gauge consists of two bars (White Mana | Black Mana) that are generated from casting their respective origin spells. Below is the list of spells and how much of each Mana they generate.
 
-Uptime refers to continually doing damage when an enemy is able to be targeted. Your goal is to always be casting throughout a fight to maximize your uptime, which will require efficient use of your movement tools listed below. 
-
-## Introduction to Red Mage
-
-Red Mage’s rotation revolves around casting spells to build up **Black Mana** and **White Mana**, then spending our accumulated mana on powerful enchanted weaponskills. Your goal is to keep black and white mana levels within 30 of each other to avoid unbalancing, which will cause the lower mana to increase at half of the normal rate. When both Black and White Mana reach 50 or above, you can unleash a powerful melee combo that spends this Mana (at level 50+). Below is a list of what spells will increase what color Mana and by what amount.
-
-
-| Black Mana                               | Both | White Mana |                                                   
-| ----------------------------------------- | -------------------------------------------------------------- | ----------------------------------------- |
-| Verthunder I + III (+6) | Jolt I + II (+2)                   | Veraero I + III |
-| Verfire (+5)            | Scatter/Impact (+3) | Verstone (+5) |
-| Verthunder II (+7) | Scorch (+4) | Veraero II (+7) |
-| Verflare (+11) | Resolution (+4) | Verholy (+11) |
+| Black Mana              |  Both                            | White Mana           |
+| ----------------------- | -------------------------------- | -------------------- |
+| Verthunder I + III (+6) | Jolt I, II, III (+2)             | Veraero I + III (+6) |
+| Verfire (+5)            | Scatter/Impact/Grand Impact (+3) | Verstone (+5)        |
+| Verthunder II (+7)      | Scorch (+4)                      | Veraero II (+7)      |
+| Verflare (+11)          | Resolution (+4)                  | Verholy (+11)        |
 
 
 
-Our casting phase is primarily defined by our “**Dualcast**” trait, which grants us a buff after every hardcasted spell that turns our next spell into an instantly cast spell. This means we will be alternating between hardcasting spells with low cast time, and using the Dualcast buff to instantly cast spells with a longer cast time. As a result, we will never hardcast a spell with a 5s+ cast time outside of pre-pull scenarios.
+The mana gauge enchants our melee weaponskills (Moulinet, Reprise, Riposte, Zwerchhau, and Redoublement). And we spend the gauge when we have enough Mana to complete an enchanted melee combo. Note that you should never use these weaponskills when they are unenchanted.
 
+# General Spell Rotation
 
+The goal of Red Mage is to use our spells with a short cast time in order to gain Dualcast to spend on long cast time spells.
 
-| Hardcast these spells to get dualcast proc...                               | ...so that these can be instantly cast                                                   |
-| ----------------------------------------- | -------------------------------------------------------------- |
-| Jolt I + II                               | Scatter + Impact                                                 |
-| Verstone/Verfire | Verthunder/Veraero I + III                   |
-| Veraero II / Verthunder II             | Verraise |
-| Vercure |  |
+### Single target:
 
+Jolt (or Verfire/Verstone) into Verthunder/Veraero
 
-A large portion of Red Mage’s damage comes from its powerful oGCDs that will be mentioned throughout this guide. It is important to use these abilities as close to cooldown as possible to avoid drifting, aside from Corps-a-corps and Engagement/Displacement, both of which have two charges. These charges allow you to have the ability available, while also continuing the CD for a second use of it. You should still avoid these abilities from overcapping at two stacks.
+### AOE:
 
+2 Targets: Jolt (or Verfire/Verstone) into Impact or Verthunder/Veraero
 
-| Damaging oGCDs                               | Charges                                                   |
-| ----------------------------------------- | -------------------------------------------------------------- |
-| Corps-a-Corps                               | 2                                                 |
-| Engagement/Displacement | 2                   |
-| Fleche             | 1 |
-| Contre Sixte | 1 |
+3+ Targets: Verthunder II/Veraero II into Scatter (Impact)
 
+### Melee Weaponskills:
 
-## Level 18-25
+1-2 Targets: E. Riposte > E. Zwerchhau > E. Redoublement
 
-As Red Mage is a job that starts at 50, you’re guaranteed to have your AoE tools no matter which dungeon you sync to. 3+ target AoE in this level range is simply **Verthunder II** and **Veraero II** into **Scatter**. We do not have an AoE mana spender, so do not bother using any enchanted weaponskills outside of single target.
+3+ Targets: E. Moulinet > E. Moulinet Deux > E. Moulinet Trois
 
-In single target scenarios, we alternate between casting **Jolt -> Verthunder** and **Jolt -> Veraero**, keeping our mana levels relatively balanced. For weaponskills, you will only have **Enchanted Riposte** at this level range, but it is still worth using whenever you amass enough mana.
+1-2 Targets: E. Reprise (an extremely situational GCD)
 
-Use **Corps-a-corps** on cooldown and not for movement. It is a damaging oGCD that simply happens to move you. 
+(“E.” is short for Enchanted. While we specify enchanted, you are never using the unenchanted versions of these weaponskills.)
 
-In addition to this, you will also have access to your role actions at all level ranges. 
+Say it with me again, **we are never using unenchanted weaponskills.**
 
-**Swiftcast** is an ability that allows you to instantly cast your next GCD. This should be used to continue using spells when you are forced to move in a fight, keeping uptime on the boss. Swiftcast should be used on Verthunder or Veraero in single target, and Scatter in AoE. 
+# Caster Role Actions
 
-**Addle** is an ability that lowers a single target’s magical damage dealt by 10% and physical damage dealt by 5%. It should be used where possible to assist the healer in keeping the party alive. While there may not be many uses for it at this level range, a good starting place for Addle is to use it to mitigate any casts from a boss that damage the entire party. 
+The following actions are available to all casters, and are extremely useful abilities that should not be considered optional.
 
-Finally, **Lucid Dreaming** is an ability that will restore your own MP for 21 seconds. While it is rare to run out of MP at this level range, you should remember to use this ability as much as possible.
+**Addle**
 
-To use these abilities properly, you should weave them after your dualcast spell is used, with up to two being weaved at a time. You can also weave one ability at a time after using a weaponskill.
+Reduces target’s magical damage dealt by 10%, and physical damage dealt by 5%.
 
-## Level 26-51
+This action is our bread and butter mitigation tool. Most raidwides are magic damage, making this an extremely valuable tool.
 
-Our AoE rotation only has a minor change in this level range with the addition of **Acceleration** at level 50, a buff that will make our next Scatter instant-cast and boost its potency. Acceleration can be used on CD during our AoE rotation.
+**Lucid Dreaming**
 
-In terms of single target, we get our **Verfire** and **Verstone** procs at level 26 and 30 respectively. Casting Veraero or Verthunder will have a 50% chance of giving us **Verstone Ready** or **Verfire Ready** respectively. These abilities will replace Jolt in our dualcast GCD pairs when they are available. Acceleration removes the cast time on our next Verthunder or Veraero and ensures they will give us a proc. Prioritize using this skill for movement and keeping uptime.
+Restores MP over time.
 
-At 35 and 50, we will get additions to our single target melee combos. At level 35, we learn **Enchanted Zwerchau.** This increases the mana cost of our combo to 35. At level 50, we learn **Enchanted Redoublement**, increasing the mana cost of our full combo to 50. Build up enough mana to fully utilize whatever combo steps are available to you at that level before using them. 
+Use this when below 8000 MP or after reviving a party member.
 
-We get a few damaging oGCDs in this level range, namely **Displacement/Engagement** at level 40 and **Fleche** at level 45. Displacement and Engagement share the same cooldown and do the same potency, so we generally prefer Engagement for the shorter animation lock unless the movement from Displacement is useful. Fleche is one of our most powerful oGCDs and should always be used on CD. 
+**Swiftcast**
 
-## Level 52-57
+Your next spell that has a cast time can be cast instantly.
 
-Our AoE rotation changes with the addition of **Enchanted Moulinet** at level 52, our AoE mana spender. We can now mix in Enchanted Moulinets between our **Verthunder II/Veraero II**  -> **Scatter** GCD pairs. 
+Use this to maintain uptime or gain extra damage
 
-At level 54, we get **Vercure**, which can actually be used offensively during downtime to prepare a dualcast so that we can instantly open on the next mob pack/boss with a strong GCD. Vercuring during downtime is a trick often used in endgame raids whenever the boss disappears, so it’s a good habit to get into early on.
+**Surecast**
 
-Level 56 adds **Contre Sixte**, another powerful damaging oGCD that should be used on cooldown. This ability also hits multiple targets.
+Nullifies most knockback effects, and prevents the interrupting of spells from taking damage
 
-## Level 58-67
+Use this to prevent knockbacks and cast interruption.
 
-Jolt is upgraded to **Jolt II** at level 62, while Scatter becomes **Impact** at level 66. While those upgrades do not affect our rotation in any meaningful manner, we do get two new oGCDs that become very important parts of Red Mage’s kit:
+**Sleep** (this one is actually optional)
 
-**Embolden**: Acquired at level 58, this is RDM’s party buff that increases **all damage dealt by party members by 5%, and our own magical damage dealt by 5%**. This buff lasts for **20 seconds**. **As it only buffs our personal magic damage, it only affects our spells and weaponskills, not any of our oGCDs, as they all deal physical damage**. It should be used both in trash packs and bosses in dungeons instead of being saved exclusively for bosses. In general, Embolden is worth using on trash packs if your party can benefit from the full duration, though you may choose to hold it during smaller pulls that die too quickly. In boss scenarios, this ability should be used **on cooldown** as long as the boss is targetable and will not disappear during its 20 second duration.
+Puts target and all enemies nearby to sleep. 
 
-**Manafication**: Learned at level 60, Manafication instantly gives us **50 black and white Mana**. We should use it in both AoE scenarios (granting us at least two free Enchanted Moulinets) and single target (for a free melee combo). **This ability should be used as close to cooldown as possible without overcapping your black or white Mana. Losing a use of this in a fight means losing a melee combo, which is a large damage loss.**
+This action is seldom used in the overworld, and never used in any raid scenario as everything has sleep immunity. 
 
-At level 64, we get **Verraise**, RDM’s most powerful recovery tool, as we can dualcast a raise every other GCD. In dungeons, Verraise is generally not needed unless the healer is dead. In eight man content, Verraise can easily salvage almost-wipes and should be used liberally for recovery when multiple people are dead. 
+# Levels 1-50
 
-## Level 68-77
+Though Red Mage starts at level 50, this section is for synced dungeons.
 
-At levels 68 and 70, we learn **Verholy** and **Verflare**. These are our first combo finishers, which change how we use Enchanted Moulinet in AoE situations. Verholy/Verflare can be used when we have accumulated three Mana stacks via our enchanted melee combo steps or Enchanted Moulinet, but the stacks disappear if we use any other GCD. Therefore, we want to make sure that we have at least 60|60 mana before using Enchanted Moulinet so we can combo three of them into Verholy or Verflare, both of which do AoE damage. As a side note, **Mana stacks persist indefinitely as long as we do not use another GCD, so it is possible to finish off a pack with 3x Moulinet and hold the Verholy/Verflare finisher until the next pack. This will also apply in single target situations where downtime is included.**
+**Levels 18-25**
 
-Our single target rotation does not change aside from the addition of Verholy/Verflare at the end of our melee combo. 
+Single Target GCDs
 
-At level 76, we also learn **Enchanted Reprise**. This is a single target ranged weaponskill that costs five black and white Mana to use. Because of this, this ability is not used commonly in our rotation. Enchanted Reprise should only be used when you need it to keep uptime on the boss and all other movement options (Swiftcast, Acceleration, melee combo) have been expended. Using Enchanted Reprise is better than not casting at all. 
+Use Jolt to dualcast Verthunder or Veraero. Alternate between Thunder/Aero to keep mana relatively balanced. 
 
-## Level 78+
+Use Enchanted Riposte when at or above 20|20 Mana.
 
-Level 78 introduces the **Enhanced Manafication** trait, which makes Manafication grant five stacks of a 5% magical damage buff. **This essentially means that we always want to go into a combo (whether 3x Enchanted Moulinet or Enchanted Riposte > Enchanted Zwerchau > Enchanted Redoublement) immediately after a use of Manafication so as to not waste our 5% magical damage buff on weaker GCDs.** Be aware that Manafication by itself does not guarantee enough Mana for a full AoE combo, so make sure you have at least 10|10 Mana before using Manafication in AoE situations. 
+AOE (3+ Targets) GCDs
 
-At level 80 we learn **Scorch**, a second combo finisher that is used after either Verholy or Verflare. This does not affect our AoE or single target combos aside from giving us an extra finisher to use. 
+Use Verthunder II or Veraero II to dualcast Scatter. Again alternating between Thunder II and Aero II.
 
-At level 82 we learn **Verthunder III** and **Veraero III**, both of which have their functions unchanged from Verthunder and Veraero and are simply potency upgrades. 
+Damage oGCDs
 
-Level 86 adds **Magick Barrier**. Similar to Addle, this is a mitigation tool to help make the healer’s job easier, and should be used as often as possible. Unlike Addle, however, rather than applying a debuff to the target it is used on, Magick Barrier instead applies a buff to all party members who are in its range. This allows it to mitigate magical damage from all sources. Magick Barrier also increases the healing received from healing actions by 5%, making Magick Barrier an effective tool to assist with healing the tank in large dungeon pulls.  \
+Use Corps-a-corps on enemies when available for free damage. You can also use this tool to keep up with the tank in dungeon pulls. Do not think of this as a gap closer that should be saved. Think of it as a damage ability that just so happens to gapclose.
 
-At level 88, we gain a second charge of **Acceleration**. This allows us to always keep a charge on us for movement without drifting its cooldown.
+**Levels 26-50**
 
-Finally, at level 90, we learn **Resolution,** our third and final combo finisher. Resolution casts a line AoE that damages the targeted enemy and all other targets in its vicinity. Resolution will always hit the targeted enemy no matter where it is aimed, but in order to hit additional enemies, you must position yourself properly for the line to go through each of them.
+Levels 26 and 30
 
-Congratulations on hitting level 90! 
+At level 26 we unlock Verfire, and at 30 we unlock Verstone. These spells have a 50% chance to proc when using Verthunder/Veraero respectively. When you have these procs available, use them in place of Jolt in single target situations.
+
+Level 35
+
+At level 35 we unlock Zwerchhau which is a combo action to Riposte. When at 35|35 Mana, you can use Enchanted Riposte > Enchanted Zwerchhau in single target situations.
+
+**Level 40**
+
+At level 40 we unlock Engagement and Displacement. These are damage oGCDs that should be weaved whenever possible. These two abilities share the same cooldown. Prioritize using Engagement over Displacement in general. It’s worth noting that like Corps-a-corps, we can use Displacement to “backflip ourselves forward” to keep up with the tank in dungeon pulls. 
+
+**Level 45**
+
+At level 45, we unlock Fleche, a standard damage oGCD. Make sure to use it every time it is available. Fleche is a very potent oGCD.
+
+**Level 50**
+
+At level 50, we unlock Redoublement (completing our melee combo) and Acceleration. When at 50|50 Mana or above, use E. Riposte > E. Zwerchhau > E. Redoublement. This sequence is known and referred to as our melee combo. 
+
+Acceleration makes our next Verthunder, Veraero or Scatter (Impact) instant. It also guarantees the respective procs from Thunder and Aero, as well as boosting the potency of Scatter (Impact). Simply add in Acceleration to either your single target or AOE rotations when available.
+
+# Levels 51-60
+
+**Damage GCDs**
+
+At level 52, we unlock Moulinet. This is our AOE melee weaponskill. It becomes E. Moulinet when at or above 20|20 Mana.
+
+In 7.0, using E. Moulinet now upgrades it into E. Moulinet Deux (requires 15|15 Mana). Using E. Moulinet Deux upgrades it to E. Moulinet Trois (requires 15|15 Mana). 
+
+TL;DR: We now have an AOE alternative to our melee combo that can be used at 50|50 Mana or above. Simply use E. Moulinet > E. Moulinet Deux > E. Moulinet Trois. It can also be thought of as just pressing E. Moulinet three times.
+
+**Utility GCDs**
+
+At level 54, we unlock Vercure. This is a great utility tool that we primarily use to generate dualcast when we can’t target anything. Vercure is also an emergency survival tool to keep us (or a party member) alive, but it should generally not be used for sustained healing. As a DPS in dungeons, clearing mobs faster is a better way to help tanks survive and ease the healer’s burden.
+
+**Damage oGCDs**
+
+At level 56, we unlock Contre Sixte. An AOE oGCD that should be pressed off cooldown. 
+
+**Utility oGCDs**
+
+At level 58, we get our party buff, Embolden. It increases our magic damage dealt by 5%, and our party members damage (all types) by 5% for 20 seconds. Press it off cooldown.
+
+At level 60, and by completing the level 60 job quest, we get Manafication.
+
+TL;DR: Manafication grants us a free zero cost melee combo. It is worth noting that this will break all combos. Only use it before or after any melee combo.
+
+Pressing Manafication gives us one buff (for now). Magicked Swordplay gives us three free melee GCDs. This can be used either on our single target combo, or on the E. Moulinet combo.
+
+## Level 60 Rotations
+
+**Single Target**
+
+* Cast Jolt into Verthunder/Veraero to build mana
+* Use Verfire/Verstone in place of Jolt when available
+* Spend mana (50|50) on your melee combo
+
+Use Acceleration and Swiftcast on Verthunder/Veraero as needed/off cooldown
+
+Use Fleche, Contre Sixte, Engagement, and Corps-a-corps off cooldown
+
+**AOE (3+ Targets)** 
+
+* Cast Verthunder II / Veraero II into Scatter
+* Spend mana (50|50) on 3x E. Moulinet combo
+
+Use Acceleration and Swiftcast on Scatter off cooldown
+
+Use Contre Sixte, Fleche, Engagement, and Corps-a-corps off cooldown
+
+# Levels 61-70
+
+**Upgraded Damage GCDs**
+
+At level 62, Jolt upgrades to Jolt II, dealing more damage. Use it just like you always have.
+
+At level 66, Scatter upgrades to Impact, dealing more damage. Use it just like you always have.
+
+**Damage GCDs**
+
+At levels 68 and 70, we get Verflare and Verholy (lv. 70 job quest reward), respectively.
+
+These are powerful finisher GCDs that can only be used when we have three mana gems. As mentioned before, we obtain three mana gems from a full single target melee combo (E. Riposte > E. Zwer. > E. Redoub.) or full AOE combo (3x E. Moulinet) These finishers are also AOE, making them useful for both single target and AOE.
+
+When available, Verflare replaces Verthunder/Verthunder II, while Verholy replaces Veraero/Veraero II on your hotbar.
+
+Note: these finishers will also guarantee us a respective proc if that mana is lower at the time of use (Example: if black mana is less than white mana and we use Verflare, we are guaranteed to get a Verfire proc). As these finishers are the exact same potency, try to use the lower mana version if you don’t have that proc available.
+
+**Utility GCDs**
+
+At level 64, we get our infamous yet powerful Verraise. It is a GCD that will revive dead party members. This comes at a base 10 second cast time. As such, never hardcast Verraise, use Dualcast or Swiftcast. Remember that we get Dualcast from any spell with a cast time. 
+
+A common misconception is to use Vercure > Verraise, but we can use any casted GCD to dualcast Verraise. (preferably Jolt or a proc)
+
+## Level 70 Rotations
+
+**Single Target**
+
+* Cast Jolt II into Verthunder/Veraero to build mana
+* Use Verfire/Verstone in place of Jolt II when available
+* Spend mana (50|50) on your melee combo > Verholy/Verflare
+* * Use the spell of your lower mana
+
+Use Acceleration and Swiftcast on Verthunder/Veraero as needed/off cooldown
+
+Use Fleche, Contre Sixte, Engagement, and Corps-a-corps off cooldown
+
+**AOE (3+ Targets)** 
+
+* Cast Verthunder II/Veraero II into Impact
+* Spend mana (50|50) on 3x E. Moulinet combo > Verholy/Verflare
+* * Use the spell of your lower mana
+
+Use Acceleration and Swiftcast on Impact off cooldown
+
+Use Contre Sixte, Fleche, Engagement, and Corps-a-corps off cooldown
+
+# Levels 71-80
+
+**Damage GCDs**
+
+At level 76, we get Reprise. This becomes E. Reprise at 5|5 Mana. While Reprise is a melee range weaponskill, E. Reprise is a ranged weaponskill that costs 5|5 mana.
+
+While this seems great, this ends up being a last resort uptime tool. If you’re setting hotbars up, this can go to a “rarely pressed” bind. 
+
+At level 80, we get a second finisher, Scorch. This is a combo from either Verflare or Verholy. This simply adds to both of our melee combos. Similarly to holy and flare, Scorch replaces Jolt/Impact when it is available.
+
+**Notable Upgraded oGCDs**
+
+At level 74, Contre Sixte’s cooldown is reduced to 35 seconds.
+
+At level 78, Manafication’s cooldown is reduced to 110 seconds, as well as gaining a new buff: up to six stacks of Manafication, increasing the damage of the next up to six GCDs (any GCD) by 5%.
+
+## Level 80 Rotations
+
+**Single Target**
+
+* Cast Jolt II into Verthunder/Veraero to build mana
+* Use Verfire/Verstone in place of Jolt II when available
+* Spend mana (50|50) on your melee combo > finishers
+* * Use the spell of your lower mana
+
+Use Acceleration and Swiftcast on Verthunder/Veraero as needed/off cooldown
+
+Use Fleche, Contre Sixte, Engagement, and Corps-a-corps off cooldown
+
+**AOE (3+ Targets)** 
+
+* Cast Verthunder II/Veraero II into Impact
+* Spend mana (50|50) on 3x E. Moulinet combo > finishers
+* * Use the spell of your lower mana
+
+Use Acceleration and Swiftcast on Impact off cooldown
+
+Use Contre Sixte, Fleche, Engagement, and Corps-a-corps off cooldown
+
+# Levels 81-90
+
+**Utility oGCDs**
+
+At level 86, we get Magick Barrier. This is a defensive party-wide utility oGCD that reduces magic damage taken by 10%, and increases healing received (by all healing sources) by 5%. 
+
+This tool can also help your tanks during dungeon pulls as well as cover boss raidwides. As you venture into Savage and Ultimate raids, use of this becomes more organized (not covered here).
+
+**Damage GCDs**
+
+At level 90, we get the final finisher combo, Resolution. This GCD is a line AOE that combos from Scorch. 
+
+Just like Scorch, this replaces Jolt III/Impact on your hotbar when available.
+
+**Upgraded Damage GCDs**
+
+At level 82, Verthunder and Veraero are upgraded to Verthunder III and Veraero III, dealing more damage.
+
+At level 84, Jolt II is upgraded to Jolt III, dealing more damage.
+
+An advanced note on Jolt III: Due to trait silliness, Jolt III deals more damage than Verfire/Verstone (until level 94), however, Verfire/Verstone generates more total mana. Continue to prioritize procs over Jolt unless you are in high-end optimization.
+
+**Upgraded Abilities**
+
+At level 88, we gain a second charge of Acceleration, helping us keep uptime during movement as well as some advanced applications.
+
+## Level 90 Rotations
+
+**Single Target**
+
+* Cast Jolt III into Verthunder III/Veraero III to build mana
+* Use Verfire/Verstone in place of Jolt III when available
+* Spend mana (50|50) on your melee combo > finishers
+
+  * Use the spell of your lower mana
+
+Use Acceleration and Swiftcast on Verthunder III/Veraero III as needed/off cooldown
+
+Use Fleche, Contre Sixte, Engagement, and Corps-a-corps off cooldown
+
+**AOE (3+ Targets)** 
+
+* Cast Verthunder II/Veraero II into Impact
+* Spend mana (50|50) on 3x E. Moulinet combo > finishers
+
+  * Use the spell of your lower mana
+
+Use Acceleration and Swiftcast on Impact off cooldown
+
+Use Contre Sixte, Fleche, Engagement, and Corps-a-corps off cooldown
+
+# Levels 91-100
+
+These levels slightly change our gameplay at the higher end. At a basic level, not much changes.
+
+If you would like to read how our changes in Dawntrail affect our rotation (most notably Grand Impact), please visit the [Red Mage 7.0 Lvl 100 Guide (prelim Pre-Savage version)](https://docs.google.com/document/d/1Z3dw4SsbXqtTmXSq7q2aWzghFaLJxeNg_E0lp-d63zU/edit#heading=h.53u5mg2ilncv)
+
+**Upgraded Abilities**
+
+At level 92, we get Vice of Thorns. When you use Embolden, it changes into Vice of Thorns. It is simply an AOE damage oGCD that we press during buff windows.
+
+You are able to bind this ability separately, however, thanks to the new Action Change settings in 7.0, you can have Embolden change into Vice of Thorns, saving you hotbar space. To do this, open your Job Actions, find Vice of Thorns, and click the “Action Change Settings” box underneath the ability.
+
+**Damage GCDs**
+
+At level 96, we get Grand Impact. This is a very strong instant cast AOE GCD that overwrites Jolt/Impact when available. This GCD cannot be bound. Instead, we are able to use it with the upgrade to Acceleration. 
+
+Acceleration now has an additional effect! It now:
+
+* Makes the next Verthunder, Veraero, or Impact instant.
+* Guarantees the proc from Verthunder/Veraero, or increases the potency of your next Impact.
+* NEW: Grants Grand Impact Ready, allowing one use of Grand Impact.
+
+This means we now get two instant casts from Acceleration: The instant Verthunder/Veraero/Impact, PLUS the Grand Impact. Note that you can only have one stack of Grand Impact Ready. If you use Acceleration again while Grand Impact is available, you will not get two Grand Impacts.
+
+At level 100, we learn Prefulgence. Upon consuming all six stacks of Manafication, it changes to Prefulgence, our strongest oGCD that does damage to all targets. Just like Vice of Thorns, we aim to fit this into buff windows. 
+
+As Prefulgence Ready lasts 30 seconds, you should still be using Manafication off cooldown, and holding Prefulgence for your buff window.
+
+Thank you for taking the time to read this guide! If you have any questions, please ask in the #rdm_questions channel in The Balance!
+
+Now that you have a grasp of what Red Mage does, check out our guide to learn about some more advanced topics not covered in this guide. [Red Mage 7.0 Lvl 100 Guide (prelim Pre-Savage version)](https://docs.google.com/document/d/1Z3dw4SsbXqtTmXSq7q2aWzghFaLJxeNg_E0lp-d63zU/edit#heading=h.53u5mg2ilncv)
+
+## Credits
+
+The Balance RDM team
