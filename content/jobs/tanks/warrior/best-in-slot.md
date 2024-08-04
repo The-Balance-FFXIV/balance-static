@@ -4,24 +4,19 @@ layout: bis
 patch: "7.05"
 lastmod: 2024-08-04T18:55:32.871Z
 changelog:
-  - date: 2021-10-27T07:22:13.566Z
-    message: Lists added
-  - date: 2022-02-02T23:35:34.677Z
-    message: Updated for Endwalker.
-  - date: 2022-04-29T23:53:15.937Z
-    message: Updated 6.11
-  - date: 2022-09-04T11:53:58.711Z
-    message: Updated for Patch 6.2
-  - date: 2023-05-28T14:32:34.619Z
-    message: Updated for Patch 6.4
-  - date: 2023-07-11T20:00:14.733Z
-    message: Removed the 2.47 GCD set, as the Savage tier does not offer any fights
-      where such GCD speed is useful.
-  - date: 2024-01-17T20:00:00.368Z
-    message: Added Relic BIS sets
-  - date: 2024-07-18T11:44:42.774Z
-    message: Dawntrail and Normal Raids
+  - date: 2024-08-04T18:55:57.960Z
+    message: Cleaned up the sets. Added master list of sets, added final bis sets.
 bis:
+  - type: gsheets
+    link: https://xivgear.app/?page=sl%7Cb0dd7864-8cf6-4f1e-94b4-1c2819258c87&
+    name: Patch 7.05 All Tanks 2.50 GCD BIS
+    description: |-
+      Differences compared to WAR Specific set:\
+      - DH XII, DH XII in Weapon (replaces Det XII, Det XII)\
+      - DH XII, DH XII in Helm (replaces DH XII, Det XII)\
+      - Uses Roast Chicken as food (replaces Moqueca)
+
+      WAR loses 2 dps (private tank dps calculator)
   - type: gsheets
     name: Patch 7.05 WAR Specific 2.50 GCD BIS
     link: https://xivgear.app/?page=sl%7Cdbabaa47-61fd-41e2-8b8d-0bfb267bd631&
@@ -30,9 +25,6 @@ bis:
       - Det XII, Det XII in Weapon (replaces DH XII, DH XII)\
       - Det XII, DH XII in Helm (replaces DH XII, DH XII)\
       - Uses Moqueca as food (replaces Roast Chicken)
-  - type: gsheets
-    link: https://xivgear.app/?page=sl%7Cb0dd7864-8cf6-4f1e-94b4-1c2819258c87&
-    name: Patch 7.05 All Tanks 2.50 GCD BIS
   - type: gsheets
     name: Patch 7.05 WAR Specific 2.45 GCD BIS
     link: https://xivgear.app/?page=sl%7C360e4d3a-ddc6-4ff9-9f8d-a9efa1f2718e&
