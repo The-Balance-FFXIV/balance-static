@@ -1,7 +1,7 @@
 ---
 title: Warrior Best in Slot (BiS)
 layout: bis
-patch: "7.01"
+patch: "7.05"
 lastmod: 2024-07-18T11:55:49.540Z
 changelog:
   - date: 2021-10-27T07:22:13.566Z
@@ -22,17 +22,27 @@ changelog:
   - date: 2024-07-18T11:44:42.774Z
     message: Dawntrail and Normal Raids
 bis:
-  - type: xivgearset
-    name: "Patch 7.01 Normal Raids: Multiple Sets"
-    link: https://xivgear.app/?page=sl%7C113e3c76-4915-4021-9556-6a58b0769c50
-    description: Click the sets to see all the items and melds!
-  - type: xivgearset
-    name: "Patch 7.0 On-release: pre-raids, 2.46"
-    link: https://xivgear.app/?page=sl%7Ccf722b3d-adce-4b66-8e45-a50e9e31e0d3
-  - type: xivgearset
-    description: ""
-    name: "Patch 7.0 On-release: pre-raids, 2.45 GCD"
-    link: https://xivgear.app/?page=sl%7C29d2cd49-03f9-47d0-9ae6-2dd0978c33c2
+  - type: gsheets
+    name: Patch 7.05 WAR Specific 2.50 GCD BIS
+    link: https://xivgear.app/?page=sl%7Cdbabaa47-61fd-41e2-8b8d-0bfb267bd631&
+    description: |-
+      Differences compared to All Tanks set:\
+      - Det XII, Det XII in Weapon (replaces DH XII, DH XII)\
+      - Det XII, DH XII in Helm (replaces DH XII, DH XII)\
+      - Uses Moqueca as food (replaces Roast Chicken)
+  - type: gsheets
+    link: https://xivgear.app/?page=sl%7Cb0dd7864-8cf6-4f1e-94b4-1c2819258c87&
+    name: Patch 7.05 All Tanks 2.50 GCD BIS
+  - type: gsheets
+    name: Patch 7.05 WAR Specific 2.45 GCD BIS
+    link: https://xivgear.app/?page=sl%7C360e4d3a-ddc6-4ff9-9f8d-a9efa1f2718e&
+  - type: gsheets
+    name: Patch 7.05 WAR Specific 2.40 GCD BIS
+    link: https://xivgear.app/?page=sl%7C92e324de-1bc7-48d7-afc1-fb4e784684dc&
+  - type: gsheets
+    name: Patch 7.05 All Prog and BIS sets
+    link: https://xivgear.app/?page=sl%7C8103b105-d327-4210-926b-4ec1a0fa1f3a&
+    description: A list of all Savage Progression and BIS sets
   - type: sleepyshiba
     description: |-
       Archive of old BIS sets.
