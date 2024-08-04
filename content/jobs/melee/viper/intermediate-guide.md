@@ -3,11 +3,13 @@ title: Viper Intermediate Guide
 authors:
   - ToraelValdis
   - Balance-VPR-Staff
-patch: "7.0"
-lastmod: 2024-07-14T01:24:19.624Z
+patch: "7.05"
+lastmod: 2024-08-02T01:24:19.624Z
 changelog:
   - date: 2024-06-20T05:44:33.192Z
     message: Guide added to website
+  - date: 2024-08-01T22:43:49.297Z
+    message: Updated for patch 7.05
 ---
 # Introduction
 
