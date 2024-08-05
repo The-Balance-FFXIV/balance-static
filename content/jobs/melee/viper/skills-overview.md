@@ -8,6 +8,8 @@ lastmod: 2024-07-30T19:16:55.732Z
 changelog:
   - date: 2024-06-20T21:56:01.856Z
     message: Guide added to website
+  - date: 2024-07-30T16:46:24.870Z
+    message: updated for 7.05 job changes
 ---
 Please note that all of the following actions are based on Viper at level 100, and may not reflect their lower level version effects or potencies.
 
