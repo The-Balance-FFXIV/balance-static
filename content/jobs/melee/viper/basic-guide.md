@@ -3,11 +3,13 @@ title: Viper Basic Guide
 authors:
   - ToraelValdis
   - Balance-VPR-Staff
-patch: "7.0"
-lastmod: 2024-06-17T23:50:48.541Z
+patch: "7.05"
+lastmod: 2024-08-01T22:26:10.907Z
 changelog:
   - date: 2024-06-17T23:50:53.310Z
     message: Added guide to website
+  - date: 2024-08-01T22:26:14.910Z
+    message: Updated for 7.05 job changes.
 ---
 # 1﻿. Introduction
 
@@ -29,7 +31,7 @@ F﻿or a complete list of Viper skills and their tooltips, please see the [Skill
 
 # 2﻿. Viper Combos
 
-Viper’s core gameplay is based around a branching series of combos that apply personal damage and haste buffs, as well as a personal debuff to the enemy. VPR has two primary types of combos, dual wield and twinblade, and each type has both a single target and Area of Effect (AoE) combo. Each combo also generates Serpents Offerings gauge, which will be discussed later in this guide. 
+Viper’s core gameplay is based around a branching series of combos that apply personal damage and haste buffs. VPR has two primary types of combos, dual wield and twinblade, and each type has both a single target and Area of Effect (AoE) combo. Each combo also generates Serpents Offerings gauge, which will be discussed later in this guide. 
 
 ## 2﻿.1 Dual Wield Combos
 
@@ -37,66 +39,71 @@ Dual wield combos execute attacks that use two separate swords, one in each hand
 
 ### 2﻿.1.1 Single Target
 
-Viper’s single target dual wield combo is a branching path system made by selecting one of two options for each combo hit. Players will start the combo chain with either Dread Fangs or Steel Fangs. Dread Fangs applies Noxious Gnash, increasing the damage taken by the target only from the VPR that applied the debuff by 10% for 20 seconds, stacking up to 40 seconds. Steel Fangs does double the damage of Dread Fangs, but does not apply Noxious Gnash. Players will want to keep Noxious Gnash active and therefore should use Dread Fangs when necessary to prevent it from expiring. 
+Viper’s single target dual wield combo is a branching path system made by selecting one of two options for each combo hit. Players will start the combo chain with either Reaving Fangs or Steel Fangs. Steel Fangs grants Honed Reavers, increasing the potency of the next Reaving Fangs by 100. Reaving Fangs grants Honed Steel, increasing the potency of the next Steel Fangs by 100. This means that Steel Fangs and Reaving Fangs will be alternated each combo to keep each other buffed. It does not matter which is started with the first time, as their buffed and unbuffed potencies are the same: 200 unbuffed, and 300 buffed.
 
-Selecting either option allows the player to now choose between Hunter’s Sting or Swiftskin’s Sting. Hunter’s Sting applies Hunter's Instinct, increasing the Viper’s damage dealt by 10% for 40 seconds. Swiftskin’s Sting applies Swiftscaled, decreasing the Viper’s weaponskill recast time and auto-attack delay by 15% for 40 seconds. 
+Selecting either option now allows the player to choose between Hunter’s Sting or Swiftskin’s Sting. Hunter’s Sting applies Hunter's Instinct, increasing the Viper’s damage dealt by 10% for 40 seconds. Swiftskin’s Sting applies Swiftscaled, decreasing the Viper’s weaponskill recast time and auto-attack delay by 15% for 40 seconds. 
 
 Selecting Hunter’s Sting gives the player access to two combo finishers, Flanksting Strike and Flanksbane Fang. Selecting Swiftskin’s Sting grants access to the other two combo finishers, Hindsting Strike and Hindsbane Fang. Each combo finisher also grants a buff that makes a different combo finisher do more damage. Flanksting Strike buffs Hindsting Strike, Hindsting Strike buffs Flanksbane Fang, Flanksbane Fang buffs Hindsbane Fang, and Hindsbane Fang completes the cycle by buffing Flanksting Strike. 
 
 At first glance, this may seem like an overwhelming amount of things going on for one combo chain, but the combo finishers buffing a specific other finisher in the cycle makes this an extremely linear pattern. Players will always go through the cycle in the order of Flanksting Strike -> Hindsting Strike -> Flanksbane Fang -> Hindsbane Fang -> repeat from Flanksting Strike. Please note that the cycle starts from **whichever combo finisher you did for your first dual wield combo** and does not need to start from Flanksting Strike. This was just used as an example. 
 
-![](/img/jobs/vpr/basiccombobutwithgcdsonthecorrectside.png "Dual Wield ST Combo Flowchart")
+![](/img/jobs/vpr/dual-wield-st-combo7-05.png "Dual Wield ST Combo Flowchart")
 
-As shown in this flowchart (credit: Akashi), players will choose either Dread Fangs or Steel Fangs depending on if they need to reapply Noxious Gnash to begin the combo chain. 
+Note: the buff icons shown are the buffs \*granted\* by pressing that ability, and not the buff that increases the potency of that ability. I.e. Flanksting Strike gives the buff shown that increases the potency of Hindsting Strike by 100.
 
-Next, players will select Hunter’s Sting or Swiftskin’s Sting. Due to the nature of the combo finisher buff, players will always alternate this hit to have access to the combo finisher that is currently buffed. 
+\
+As shown in this flowchart, players will choose either Reaving Fangs or Steel Fangs depending on which Honed buff they have. These will always be alternated. Next, players will select Hunter’s Sting or Swiftskin’s Sting. Due to the nature of the combo finisher buff, players will always alternate this hit to have access to the combo finisher that is currently buffed. Finally, players will select the combo finisher that is currently buffed. Selecting any combo finisher also allows for a follow up oGCD called Death Rattle, regardless of if you selected the buffed one or not. Always press the buffed one for more damage, but you will not lose a Death Rattle if you mistakenly press the wrong choice.
 
-Finally, players will select the combo finisher that is currently buffed. Selecting the buffed combo also allows for a follow up oGCD called Death Rattle.
+The game systems do a very good job of guiding the player to select the correct buttons in order to be able to use the currently buffed combo finisher. While Honed Steel or Honed Reavers is active, which is the buff that makes Steel Fangs or Reaving Fangs 300 potency intead of 200, the correct option will have combo ants around it. After pressing Steel Fangs or Reaving Fangs, the correct choice for Hunter’s or Swiftskin’s Sting will have also combo ants around it. Pressing the second action with the combo ants will then trigger one of the two available combo finishers to have combo ants, which will indicate which finisher is the currently buffed one. If the non-glowing second combo action is selected, it is no longer possible to press the buffed combo finisher, which will result in 100 potency lost. ***This means players will be able to simply press the glowing button in order to flow through the combo chain correctly.*** 
 
-The game systems do a very good job of guiding the player to select the correct buttons in order to be able to use the currently buffed combo finisher. Once the combo is started by using either Dread or Steel Fangs, the correct choice for Hunter’s or Swiftskin’s Sting will have combo ants on it. Pressing the action with the combo ants will then trigger one of the two available combo finishers to have combo ants, which will indicate which finisher is the currently buffed one. ***This means that aside from the combo starter, players will be able to simply press the glowing button in order to flow through the combo chain correctly.*** 
+Please note that before completing the first combo and gaining the Honed Steel/Reavers buff and the combo finisher buff, neither Steel Fangs nor Reaving Fangs will glow, indicating that you are free to press either one. Similarly, since there is no active combo finisher buff, both Hunter's Sting and Swiftskin's Sting will glow, indicating that you can freely choose either one. Once Hunter's or Swiftskin's Sting is pressed, both combo finisher options will be glowing to indicate you can freely choose either one. While the Honed Steel/Reavers and combo finisher buffs are active, only the correct button to press will be glowing.
 
-![](/img/jobs/vpr/vswholev3.png)
+![](/img/jobs/vpr/vswhole7-05.png)
 
-Furthermore, the Vipersight Gauge is there to guide you through which combo you should use. As shown above, when there is no combo active, both swords will be gray and will not have a glow. After using the combo starter, each sword will have half of it glow orange to indicate that the Viper is on the second combo in the chain. Either the left or right sword will have a red aura around it, which indicates which of the two middle combo actions is the current one that should be pressed to get to the correct combo finisher. The first time through, both sides will have the red aura, indicating that either of the two actions may be used. After pressing a middle combo action, the gauge will have both swords glow half blue and half orange, indicating that the combo finisher is the next action in sequence. One side will have a blue aura, indicating which specific combo finisher should be pressed. The first time through, both sides will have the blue aura, indicating that either of the two actions may be used. This gauge is purely a visual representation of what the combo ants on the abilities show as the sequence progresses. Simply follow the combo ants or the Vipersight gauge to correctly execute the combo chain.
+Furthermore, the Vipersight Gauge is there to guide you through which combo you should use. As shown above, when there is no combo active, and no Honed Steel or Honed Reavers buffs active, both swords will be gray and will not have a glow. If Honed Steel/Reavers is active, the left sword will have a yellow aura to indicate that Steel Fangs should be pressed, and the right sword will have a yellow aura to indicate that Reaving Fangs should be used. The yellow glow is not pictured above, and will be added later.
+
+After using the combo starter, each sword will have half of it glow orange to indicate that the Viper is on the second combo in the chain. Either the left or right sword will have a red aura around it, which indicates which of the two middle combo actions is the current one that should be pressed to get to the correct combo finisher. The first time through, both sides will have the red aura, indicating that either of the two actions may be used. 
+
+After pressing a middle combo action, the gauge will have both swords glow half blue and half orange, indicating that the combo finisher is the next action in sequence. One side will have a blue aura, indicating which specific combo finisher should be pressed. The first time through, both sides will have the blue aura, indicating that either of the two actions may be used. This gauge is purely a visual representation of what the combo ants on the abilities show as the sequence progresses. Simply follow the combo ants or the Vipersight gauge to correctly execute the combo chain.
 
 ### 2﻿.1.2 Area of Effect (AoE)
 
-Dual wield AoE is much simpler, and has only six total buttons to choose from: two starters, two middle hits, and two finishers. Similar to the single target version, this combo starts with a choice of Steel Maw or Dread Maw. Steel Maw has a higher potency, while Dread Maw applies Noxious Gnash. The next hit is a choice of Hunter’s Bite or Swiftskin’s Bite. The former applies Hunter's Instinct, and the latter applies Swiftscaled. The combo finisher is a choice of Jagged Maw or Bloodied Maw. Similar to the single target combo, using one combo finisher buffs the other, creating an AoE combo cycle of selecting the first combo action based on if you need Noxious Gnash reapplied, then alternating the second and third combo actions. Successfully completing the combo grants an AoE oGCD called Last Lash. Below is a visual representation of this combo, made by Akashi. 
+Dual wield AoE is much simpler, and has only six total buttons to choose from: two starters, two middle hits, and two finishers. Similar to the single target version, this combo starts with a choice of Steel Maw or Reaving Maw. Each starter gives the same buff a their single target counterpart, Honed Steel and Honed Reavers. For the AoE versions, the potency increase is 20 instead of 100. The next hit is a choice of Hunter’s Bite or Swiftskin’s Bite. The former applies Hunter's Instinct, and the latter applies Swiftscaled. The combo finisher is a choice of Jagged Maw or Bloodied Maw. Similar to the single target combo, using one combo finisher buffs the other, creating an AoE combo cycle of alternating the first, second, and third combo actions. Successfully completing the combo grants an AoE oGCD called Last Lash. Below is a visual representation of this combo. 
 
-![](/img/jobs/vpr/aoecombobutcorrectsides.png "Dual Wield AoE Flowchart")
+![](/img/jobs/vpr/dual-wield-aoe-combo7-05.png "Dual Wield AoE Flowchart")
 
 Similarly to how the Vipersight gauge guides you through the single target version, the gauge also guides you through the correct buttons to press for the AoE version in order to hit the correct combo finisher.
 
 ## 2﻿.2 Doubleblade Combos
 
-Official localization calls these “doubleblade combos,” but that is confusing terminology when used with dual wield combos. For clarity they will be called twinblade combos instead. Twinblade combos execute actions using both swords attached at the hilts to form a single, double bladed weapon. Twinblade attacks have a longer GCD of 3.0s (2.55s with 15% haste buff), with no skill speed. Twinblade combo openers are on a 40s cooldown with two charges, and share a cooldown and charges with each other (i.e. using the single target combo opener also uses one charge of the AoE combo opener and vice versa). 
+Official localization calls these “doubleblade combos,” but that is confusing terminology when used with dual wield combos. For clarity they will be called twinblade combos instead. Twinblade combos execute actions using both swords attached at the hilts to form a single, double bladed weapon. Twinblade attacks have a longer GCD of 3.0s (2.55s with 15% haste buff), with no skill speed. Twinblade combo starters are on a 40s cooldown with two charges, and share a cooldown and charges with each other (i.e. using Vicewinder also uses one charge Vicepit and vice versa). 
 
 ### 2﻿.2.1 Single Target
 
-The single target twinblade combo starts with the skill Dreadwinder. Dreadwinder applies Noxious Gnash, increasing the damage taken by the target only from the VPR that applied the debuff by 10% for 20 seconds, stacking up to 40 seconds. Dreadwinder allows for the execution of either Hunter’s Coil or Swiftskin’s Coil. Hunter’s Coil also applies Hunter's Instinct, increasing the Viper’s damage dealt by 10% for 40 seconds. Swiftskin’s Coil applies Swiftscaled, decreasing the Viper’s weaponskill recast time and auto-attack delay by 15% for 40 seconds. 
+The single target twinblade combo starts with the skill Vicewinder. Vicewinder allows for the execution of either Hunter’s Coil or Swiftskin’s Coil. Hunter’s Coil also applies Hunter's Instinct, increasing the Viper’s damage dealt by 10% for 40 seconds. Swiftskin’s Coil applies Swiftscaled, decreasing the Viper’s weaponskill recast time and auto-attack delay by 15% for 40 seconds. 
 
-Hunter’s Coil allows for the immediate execution of two oGCD skills, Twinfang Bite then Twinblood Bite. Swiftskin’s Coil allows for the immediate execution of the same two oGCD skills, but in the opposite order: Twinblood Bite then Twinfang Bite. Pressing the oGCDs in the incorrect order will result in 100 potency lost for each skill. 
+Hunter’s Coil allows for the immediate execution of two oGCD skills, Twinfang Bite then Twinblood Bite. Swiftskin’s Coil allows for the immediate execution of the same two oGCD skills, but in the opposite order: Twinblood Bite then Twinfang Bite. Pressing the oGCDs in the incorrect order will result in 50 potency lost for each skill. 
 
-After selecting Hunter’s Coil or Swiftskin’s Coil, the opposite skill becomes available. The image below (credit: Akashi) shows a visual representation of how the combo works. 
+After selecting Hunter’s Coil or Swiftskin’s Coil, the opposite skill becomes available. The image below shows a visual representation of how the combo works. 
 
-![](/img/jobs/vpr/dreadwindercombo.png)
+![](/img/jobs/vpr/vicewindercombo7-05.png)
 
 ### 2﻿.2.2 Area of Effect (AoE)
 
-The twinblade AoE combo functions exactly like its single target counterpart. Start the combo with Pit of Dread, which applies Noxious Gnash for 20s. Next use either Hunter’s Den or Swiftskin’s Den, the former applying Hunter’s Instinct and the latter applying Swiftscaled. Finally finish the combo with whichever of Hunter’s and Swiftskin’s Dens that was not used for the second hit. Hunter’s Den will allow execution of Twinfang Thresh then Twinblood Thresh, and Swiftskin’s Den will allow execution of Twinblood Thresh then Twinfang Thresh. Like the single target versions, be sure to hit the oGCDs in the correct order to avoid a potency loss. Below is a visual representation of this combo, provided by Akashi. 
+The twinblade AoE combo functions exactly like its single target counterpart. Start the combo with Vicepit. Next, use either Hunter’s Den or Swiftskin’s Den, the former applying Hunter’s Instinct and the latter applying Swiftscaled. Finally finish the combo with whichever of Hunter’s and Swiftskin’s Den that was not used for the second hit. Hunter’s Den will allow execution of Twinfang Thresh then Twinblood Thresh, and Swiftskin’s Den will allow execution of Twinblood Thresh then Twinfang Thresh. Like the single target versions, be sure to hit the oGCDs in the correct order to avoid a potency loss. Below is a visual representation of this combo.
 
-![](/img/jobs/vpr/pitofdreadcombo.png)
+![](/img/jobs/vpr/vicepitcombo7-05.png)
 
 ## 2.3 What Breaks Combos
 
 Combos are broken by one of two things: expiring after not being continued for 30 seconds, or pressing another button that breaks the currently active combo chain. 
 
-The dual wield combo is not broken by any other part of Viper's kit except for the AoE version while the single target combo is active, and vice versa. You can freely use Dreadwinder/Pit of Dread combos, Reawaken, Uncoiled Fury, and Writhing Snap during an active dual wield combo at no penalty as long as the time since hitting the last combo action does not exceed 30 seconds.
+The dual wield combo is not broken by any other part of Viper's kit except for the AoE version while the single target combo is active, and vice versa. You can freely use Vicewinder/Vicepit combos, Reawaken, Uncoiled Fury, and Writhing Snap during an active dual wield combo at no penalty as long as the time since hitting the last combo action does not exceed 30 seconds.
 
-The twinblade combo, however, is broken by everything else that is not Uncoiled Fury or Writhing Snap. This means that is not possible to use Reawaken during an active Dreadwinder/Pit of Dread combo without breaking the combo!
+The twinblade combo, however, is broken by everything else that is not Uncoiled Fury or Writhing Snap. This means that is not possible to use Reawaken during an active Vicewinder/Vicepit combo without breaking the combo!
 
 Please note that Reawaken and Uncoiled Fury are discussed in a later section.
- 
+
 # 3. When to Use Single Target or AoE
 
 The only abilities that Viper needs to make a decision whether to use the Single Target or AoE forms are the dual wield and twinblade combo actions. All other damaging abilities have natural AoE damage, with the exception of Writhing Snap. 
@@ -120,11 +127,11 @@ For the dual wield combo, both flank positionals will always follow Hunter’s S
 
 # 5﻿. Viper Gauges
 
-V﻿iper has two gauges, the Anguine Tribute gauge and the Rattling Coil gauge. 
+V﻿iper has two gauges, the Serpent Offerings gauge and the Rattling Coil gauge. 
 
 ## 5.1 Rattling Coils
 
-One Rattling Coil is generated when using either twinblade combo starter, or from using Serpent’s Ire. Rattling Coils are located on the bottom of the Vipersight Gauge. For each Rattling Coil stored, a red gem will light up, with a maximum of three Rattling Coils able to be stored at once. 
+One Rattling Coil is generated when using either Vicewinder or Vicepit, or from using Serpent’s Ire. Rattling Coils are located on the bottom of the Vipersight Gauge. For each Rattling Coil stored, a red gem will light up, with a maximum of three Rattling Coils able to be stored at once. 
 
 ![](/img/jobs/vpr/rattlingcoil.png)
 
@@ -152,7 +159,7 @@ The whole Reawaken combo takes 13.2s (11.22s with the 15% haste buff) with no sk
 
 I﻿t might be tricky to understand what button replaces what on this job, so please see this visual made by Rhy to help understand what is happening. 
 
-![](/img/jobs/vpr/skill_replacementv2.png)
+![](/img/jobs/vpr/skill_replacement7-05.png)
 
 # 7﻿. Viper Basic Rotation
 
@@ -160,9 +167,9 @@ I﻿t might be tricky to understand what button replaces what on this job, so pl
 
 ### S﻿tandard Opener
 
-![](/img/jobs/vpr/viper-tentative-standard-opener.png)
+![](/img/jobs/vpr/vpr7-05standardop.png)
 
-[Click here](https://www.thebalanceffxiv.com/img/jobs/vpr/viper-tentative-standard-opener.png) for a full size image. 
+[Click here](https://www.thebalanceffxiv.com/img/jobs/vpr/vpr7-05standardop.png) for a full size image. 
 
 ## 7﻿.2 Always Be Casting
 
@@ -172,16 +179,15 @@ In FFXIV there is one thing that is absolutely fundamental to every combat job. 
 
 Viper rotation can be presented in its simplest form as a priority system. 
 
-1. K﻿eep Noxious Gnash active by using Dread Fangs or Dreadwinder in single target situations, and Dread Maw and Pit of Dread for AoE situations. 
-2. K﻿eep Hunter's Instinct and Swiftscaled active at all times.
-3. U﻿se Serpent's Ire as soon as it is ready. 
-4. E﻿nter Reawaken and spend all Reawakened actions following Serpent's Ire, using the Ready to Reawaken buff. 
-5. U﻿se Reawaken and spend all Reawakened actions when at or above 50 Offerings.
-6. Use Dreadwinder in single target and Pit of Dread in AoE, and their follow up abilities, before they reach 2 stacks. These can essentially be used on cooldown outside of the burst window, provided you do not overcap Noxious Gnash. 
-7. Spend Rattling Coils as you get them.
+1. K﻿eep Hunter's Instinct and Swiftscaled active at all times.
+2. U﻿se Serpent's Ire as soon as it is ready. 
+3. E﻿nter Reawaken and spend all Reawakened actions following Serpent's Ire, using the Ready to Reawaken buff. 
+4. U﻿se Reawaken and spend all Reawakened actions when at or above 50 Offerings.
+5. Use Vicewinder in single target and Vicepit in AoE, and their follow up abilities, before they reach 2 stacks. These can essentially be used on cooldown outside of the burst window, provided you do not overcap on gauge, or cause the combo finisher or Honed buffs to fall off as a result.
+6. Spend Rattling Coils as you get them.
 
    \-﻿ Save one at all times to cover potential disengages, but spend them before using Serpent's Ire as it will grant another. Avoid overcapping Coils and spend them before the end of the fight unless you can Reawaken instead. 
-8. Rotate through the dual wield combo cycle, ensuring the correct actions are used to execute the buffed finisher. 
+7. Rotate through the dual wield combo cycle, ensuring the correct actions are used to execute the buffed finisher. 
 
 When fighting **three or more enemies**, continue to follow this priority system, but use the AoE versions of the dual wield and twinblade combos.
 
