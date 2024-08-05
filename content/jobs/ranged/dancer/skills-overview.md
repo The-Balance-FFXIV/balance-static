@@ -16,8 +16,6 @@ changelog:
   - date: 2024-08-05T13:24:17.348Z
     message: Updated for patch 7.05
 ---
-
-
 # Actions
 
 | Icon                                                                                               | Action            | Level | Type        | Casting | Recast | Description                                                                                                                                                                                                                                                                                                                            |
