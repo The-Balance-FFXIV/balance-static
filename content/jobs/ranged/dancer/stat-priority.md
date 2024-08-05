@@ -1,7 +1,7 @@
 ---
 title: Dancer Stat Priority
 patch: "7.05"
-lastmod: 2022-02-02T23:18:03.307Z
+lastmod: 2024-08-05T13:25:31.993Z
 changelog:
   - date: 2021-10-26T02:09:42.136Z
     message: Created page
