@@ -1,9 +1,9 @@
 ---
-title: White Mage Openers
+title: White Mage Opener
 authors:
   - Balance-WHM-Staff
-patch: "6.3"
-lastmod: 2023-01-19T16:35:15.080Z
+patch: "7.0"
+lastmod: 2024-07-30T07:05:12.380Z
 changelog:
   - date: 2021-10-27T01:10:24.558Z
     message: Article Created.
@@ -11,50 +11,44 @@ changelog:
     message: Updated for Endwalker
   - date: 2023-01-19T16:35:18.835Z
     message: Confirmed for 6.3
+  - date: 2024-07-29T19:16:50.070Z
+    message: Updated for Dawntrail
 ---
 # Standard Opener
 
-![\-3s Pre-pull Current Tincture of Mind\ -1.5s Pre-pull Glare III\ PULL\ Dia\ Glare III\ Glare III Weave: Presence of Mind\ Glare III Weave: Assize Glare III (etc.)](/img/jobs/whm/whm_ew_no_swift_opener.png "No Swift White Mage Endwalker Opener General Use")
+![-2.3s prepull/PULL/Current Tincture of Mind/Dia/Glare III/ Glare III: Weave: Presence of mind/ Glare IV Weave: Assize/Glare IV/ Glare III/ Glare III/ Glare III/ Glare III/ Glare III/ Glare III/ Glare IV/ Dia](/img/jobs/whm/white-mage-early-dot-refresh-opener-1-.png "WHM Standard Opener")
 
-In most cases, use this:\
--3s Pre-pull Current Tincture of Mind\
--1.5s Pre-pull Glare III\
+In most cases, use this\
+-2.3s prepull Glare III\
 PULL\
+Current Tincture of Mind\
 Dia\
-Glare III\
-Glare III
-Weave: Presence of Mind\
-Glare III
-Weave: Assize
-Glare III
-(etc.)
-
-This opener uses both PoM and Assize under raid buffs, Assize is weaved under PoM which can cause clipping even at moderate ping, in most cases this will not be an issue.
-
-\
-(To view the image full size [click here.](/img/jobs/whm/whm_ew_no_swift_opener.png))
-
-# Swiftcast Opener
-
-![PRE-PULL\ -3s Current Tincture of Mind\ -1.5s Glare III\ PULL\ Dia\ Glare III\ Glare III\ Weave: Swiftcast\ Glare III\ Weave: Assize and Presence of Mind\ Glare III\ Glare III\ (etc.)](/img/jobs/whm/whm_ew_swift_opener.png "White Mage Endwalker Swiftcast Opener")
-
-PRE-PULL\
--3s Current Tincture of Mind\
--1.5s Glare III\
-PULL\
-Dia\
+Glare III \
+Glare III: Weave: Presence of mind\ 
+Glare IV Weave: Assize\
+Glare IV\
 Glare III\
 Glare III\
-Weave: Swiftcast\
-Glare III\
-Weave: Assize and Presence of Mind\
 Glare III\
 Glare III\
-(etc.)
+Glare III\
+Glare III\
+Glare IV\
+Dia
 
-This opener uses swiftcast to double weave Assize and PoM under raid buffs and has less risk of clipping, but will leave you without swiftcast in the first minute of the fight.
+This opener is used to ensure as much of presence of mind gets under buffs as possible, as well as refreshing your dot inside of them. If your party is doing 2nd GCD buffs, remove one of the two glare III after dia at the start. Chain is present purely to show how you will align with buffs.
 
-(To view the image full size, [click here.](/img/jobs/whm/whm_ew_swift_opener.png) )
+(To view the image full size [click here.](/img/jobs/whm/white-mage-early-dot-refresh-opener-1-.png))
+
+# Example 2 Minute Burst
+
+![](/img/jobs/whm/white-mage-example-2-minute-burst-1-.png)
+
+
+
+Not all 2 minutes will look exactly like this, this is just to have an idea of the structure. You want to pot in the 2 minute instead of the opener unless the fight ends before the 8 Minute Burst. Chain is present purely to show how you will align with buffs.
+
+(To view the image full size [click here.](/img/jobs/whm/white-mage-example-2-minute-burst-1-.png))
 
 # GCD Rotation Planner
 
