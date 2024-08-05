@@ -63,6 +63,6 @@ bis:
     name: Viper DSR BiS
     link: dd0f78b9-fbea-4ebe-97d5-be0d1ac4363f
 authors:
-  - Balance-VPR-Staff
+  - RhyTamok
   - akashi
 ---
