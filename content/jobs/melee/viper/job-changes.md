@@ -3,6 +3,13 @@ title: Viper Job Changes
 layout: changes
 lastmod: 2024-08-01T22:26:52.636Z
 changes:
+  - patch: "7.0"
+    description: Job added to the game with patch 7.0 -- Dawntrail. For a full
+      overview, please visit the [official page by Square
+      Enix](https://na.finalfantasyxiv.com/jobguide/viper/), which will be live
+      shortly after launch.
+  - patch: "7.01"
+    description: All single target damage oGCDs had their range increased from 3y to 5y.
   - patch: "7.05"
     description: >-
       Noxious Gnash removed. 
@@ -16,13 +23,6 @@ changes:
       \
 
       For a full list of changes please see the [Official 7.05 Patch Notes.](https://na.finalfantasyxiv.com/lodestone/topics/detail/3a247a30e096e56b701157cd9fb903299a244c2f)
-  - patch: "7.01"
-    description: All single target damage oGCDs had their range increased from 3y to 5y.
-  - patch: "7.0"
-    description: Job added to the game with patch 7.0 -- Dawntrail. For a full
-      overview, please visit the [official page by Square
-      Enix](https://na.finalfantasyxiv.com/jobguide/viper/), which will be live
-      shortly after launch.
 authors:
   - Balance-VPR-Staff
 ---
