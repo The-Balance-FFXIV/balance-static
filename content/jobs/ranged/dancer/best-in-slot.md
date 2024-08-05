@@ -1,8 +1,8 @@
 ---
 title: Dancer Best in Slot (BiS)
 layout: bis
-patch: "6.55"
-lastmod: 2024-01-17T12:05:35.163Z
+patch: "7.05"
+lastmod: 2024-08-05T13:26:47.140Z
 changelog:
   - date: 2021-10-26T02:11:25.028Z
     message: Created page
@@ -12,26 +12,15 @@ changelog:
     message: Updated for patch 6.4
   - date: 2024-01-17T12:21:12.331Z
     message: Updated for patch 6.55
+  - date: 2024-08-05T13:26:33.033Z
+    message: Updated for patch 7.05
 bis:
   - type: etro
-    description: >-
-      <!--StartFragment-->
-
-
-      The 2.49 set is the one that sims the highest under most circumstances so therefore it is the recommended set. If you desire a different GCD, the tiered gearsets for 2.50, 2.48, and 2.47 are provided in link: <https://bit.ly/DNC-Gearsets>
-
-
-      <!--EndFragment-->
-    name: 6.55 - ilvl 660 2.49 GCD BiS (with Relic weapon)
-    link: 79c323c7-d333-417f-abd2-20cb35ea851d
+    name: 7.05 ilvl 730 BiS 2.5 GCD
+    link: https://etro.gg/gearset/f0504326-4983-4baa-aa9c-06a495129910
   - type: etro
-    description: ""
-    name: 6.55 - ilvl 660 2.49 GCD BiS (with P12S/AAI weapon)
-    link: 50746158-5be1-4972-82f4-84a577f4bcce
-  - type: etro
-    description: ""
-    name: 6.50 - ilvl 650 Baseline Gearset (augmented crafted + normal raid)
-    link: cee3802c-0a54-4935-96a0-a807793d8574
+    name: 7.05 ilvl 710 Baseline Set
+    link: https://etro.gg/gearset/8b455173-4f56-4d3b-b398-63ed00d86c1a
   - type: etro
     description: ""
     name: 6.50 - TOP / ASS / ASS (Savage) BiS 2.47 GCD
