@@ -2,8 +2,8 @@
 title: Dancer Openers
 authors:
   - Balance-DNC-Staff
-patch: "6.3"
-lastmod: 2023-01-20T15:13:37.828Z
+patch: "7.05"
+lastmod: 2024-08-05T14:08:20.752Z
 changelog:
   - date: 2021-10-26T02:07:05.022Z
     message: Created page
@@ -13,26 +13,26 @@ changelog:
     message: Updated for 6.2; Text opener version added.
   - date: 2023-01-20T15:13:38.632Z
     message: Updated for 6.3
+  - date: 2024-08-05T14:08:27.576Z
+    message: Updated for Patch 7.05
 ---
 # OPENER INFOGRAPHIC
 
-![DNC Opener](/img/jobs/dnc/dncopener.png "DNC Opener")
+![DNC Opener](/img/jobs/dnc/dt_dnc_opener_full.png "DNC Opener")
 
-[Full Size](https://i.imgur.com/ZOeec1X.png)
+[Full Size](https://imgur.com/a/sJjW3ve)
 
 Pre-Pull: \
 -15s: Standard Step (Step, Step)\
   Peloton\
--1.5s: Current Tincture of Dexterity
+-1s: Current Tincture of Dexterity
 
 Pull:
 Standard Finish\
 Technical Step (Step, Step, Step, Step)\
 Technical Finish (Devilment) \
-Starfall Dance (Flourish, Fan Dance III) \
-Tillana (Fan Dance IV) \
-Saber Dance/Crit Fountainfall (if Feather, Fan Dance I, if proc Fan Dance III) \
-Standard Step (Step, Step)\ 
-Standard Finish
-
-Thanks to Moth for the image!
+Tillana (Flourish) \
+Dance of the Dawn (Fan Dance IV) \
+Last Dance (Fan Dance III) \
+Finishing Move \
+Saber Dance 
