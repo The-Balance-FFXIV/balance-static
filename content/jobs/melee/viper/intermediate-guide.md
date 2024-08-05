@@ -177,12 +177,6 @@ The second adjustment is optional and may be a significant gain at kill times th
 
 All skills in FFXIV have a delay between when the ability is executed and when the effect is actually applied. This is called application delay. Please note that FFXIV operates on a snapshot system. Instant cast abilities snapshot when the cooldown clock starts spinning. This makes it possible for a buff to be applied to an ability when the snapshot happens, but expires before the damage actually lands. In this case, because the buff was present for the snapshot, the ability is still buffed when the damage actually applies. 
 
-Below you can find a table of VPR abilities and their application delays. \
-\
-Please note that this table still uses the names of abilities before they were changed in 7.05. Until the image is updated, please understand that the following names were changed:\
-Dread Fangs -> Reaving Fangs\
-Dreadwinder -> Vicewinder\
-Dread Maw -> Reaving Maw\
-Pit of Dread -> Vicepit
+Below you can find a table of VPR abilities and their application delays. 
 
-![](/img/jobs/vpr/vpr_application_delay.png)
+![](/img/jobs/vpr/vpr-application-delay-1-.png)
