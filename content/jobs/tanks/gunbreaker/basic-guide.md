@@ -18,6 +18,8 @@ changelog:
   - date: 2023-05-28T13:11:20.082Z
     message: Added 6.4 infographics. Adjusted information relative to 6.4 changes.
       Adjusted Ult BIS for DSR and TOP.
+  - date: 2024-08-06T18:57:17.680Z
+    message: Updated for Dawntrail
 ---
 # Gunbreaker Rotation Guide
 
