@@ -3,8 +3,11 @@ title: Viper Leveling Guide
 authors:
   - akashi
   - Balance-VPR-Staff
-patch: "7.01"
+patch: "7.05"
 lastmod: 2024-06-17T23:32:14.858Z
+changelog:
+  - date: 2024-08-06T18:56:34.334Z
+    message: Updated to reflect 7.05 changes.
 ---
 # Viper Leveling Guide
 
