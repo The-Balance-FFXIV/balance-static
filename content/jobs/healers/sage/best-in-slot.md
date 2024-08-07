@@ -9,9 +9,9 @@ changelog:
   - date: 2024-07-26T08:47:06.024Z
     message: Updated for 7.0
 bis:
-  - type: gsheets
+  - type: xivgearset
     name: AAC-LHW Maximum Vitality
-    link: https://xivgear.app/?page=sl%7Cf204dafc-951c-47b9-8d18-c76260cefbcb&
+    link: 19b6a413-9089-42db-8542-67a1eaf2d57d
     description: These sets provide maximum survivability through higher vitality.
       These will be the recommended sets for the upcoming ultimate, FRU.
   - type: etro
