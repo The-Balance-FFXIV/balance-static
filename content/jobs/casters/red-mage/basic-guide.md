@@ -60,7 +60,7 @@ A quick review of the Dualcast tooltip and a few minutes of in-game experimentat
 The key thing to understand here is that outside of pre-casting in the opener, we always hardcast our short cast damage spells, and use instant-cast buffs (Dualcast, Acceleration, or Swiftcast) on long cast spells to bypass the 5 second (or longer for Verraise) cast time. This is also where we weave up to two oGCDs to avoid clipping our GCD. 
 
 * **1-2 targets**: Verfire or Verstone (Jolt III if neither available) > Verthunder III or Veraero III (whichever does not have a proc, or has lower mana)
-* **3+ targets**: Verthunder II or Veraero III (whichever has lower mana) > Impact
+* **3+ targets**: Verthunder II or Veraero II (whichever has lower mana) > Impact
 
 Note on 2 targets: Impact does the same potency on two targets (210 potency \* 2 = 420) as Verthunder III or Veraero III does on a single target (420 potency) with the same total mana generation, but the added proc chance from Verthunder/aero III makes them theoretically very slightly better in a vacuum, though Impact can have situational use for HP balancing purposes. However, if Impact is boosted by Acceleration, it becomes 260 potency \* 2.
 
@@ -75,9 +75,23 @@ Our Verflare/holy > Scorch > Resolution combo that follows directly after does m
 
 ### Enchanted Reprise
 
-In addition to our burst damage combos, we also have Enchanted Reprise, an instant-casted ranged weaponskill that consumes 5|5 mana. This is only used as a last resort for emergency movement or last hitting a boss at the end of a fight if you have no time to get a full cast off.
+In addition to our burst damage combos, we also have Enchanted Reprise, an instant-casted ranged weaponskill that consumes 5|5 mana. As of patch 7.05, it has three main uses:
 
-In general, we want to avoid it due to the mana loss, which delays a future melee combo by approximately 3 GCDs (~7.5 seconds): anywhere between 4-6 mana is lost from the opportunity cost of not casting a spell over the same 2.5 seconds, and an additional -10 mana is lost immediately from the skill itself. This is not necessarily a DPS loss, but the more we use it, the more likely we are to misalign or completely lose a future melee combo, which is a DPS loss.
+1. **Emergency movement**
+2. **Last hitting a boss at the end of a fight**
+3. **Niche, advanced optimization for small potency gains**
+
+That said, using Enchanted Reprise results in a mana loss, and delays a future melee combo by approximately 3 GCDs (~7.5 seconds): anywhere between 4-6 mana is lost from the opportunity cost of not casting a spell over the same 2.5 seconds, and an additional -10 mana is lost immediately from the skill itself. The more we use it, the more likely we are to misalign or lose a future melee combo, which is a major DPS loss. However, two uses of Enchanted Reprise results in a 20-40 potency gain over a standard Dualcast pair.
+
+* **Jolt III Dualcast: 360 + 440 = 800p**
+* **Verfire/stone Dualcast: 380 + 440 = 820p**
+* **Two Enchanted Reprises: 420 + 420 = 840p**
+
+This means that when you know you will no longer be able to gain an additional melee combo and have your mana levels planned out, a few additional uses of Enchanted Reprise is technically a gain over Dualcasting. This has interesting implications for advanced Red Mage optimization. Technically, it can also be used as a substitute to Swiftcast for oGCD alignment, but that is not recommended in standard play due to the terrible habits that could build, and it should not be used as a crutch (focus instead on mastering Swiftcast, melee combo timings, and temporary fixes via Acceleration). 
+
+For standard play, it is best to stick to the three main uses mentioned.
+
+
 
 # Understanding our oGCD abilities: priorities, alignment, buffs
 
