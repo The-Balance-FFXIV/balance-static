@@ -1,8 +1,8 @@
 ---
 title: White Mage Best in Slot (BiS)
 layout: bis
-patch: "6.55"
-lastmod: 2024-01-29T23:57:35.368Z
+patch: "7.05"
+lastmod: 2024-08-07T06:18:50.396Z
 changelog:
   - date: 2023-06-13T07:42:00.016Z
     message: updated for 6.4
