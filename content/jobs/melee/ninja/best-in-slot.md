@@ -23,10 +23,9 @@ changelog:
   - date: 2024-01-17T10:07:51.628Z
     message: Updated for 6.55
 bis:
-  - type: etro
-    description: ""
-    link: 8b59d095-30b9-4315-96d6-daea6f578c4c
-    name: 6.55 Standard BiS
+  - type: xivgearset
+    name: 7.05 NIN BIS (2.12)
+    link: https://xivgear.app/?page=sl%7C1589cdf4-7037-421f-8503-790d270d51ff
   - type: etro
     description: The i665 relic weapon can be substituted for the i645 relic.
     name: 6.55 TOP BIS
