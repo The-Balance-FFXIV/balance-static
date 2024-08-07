@@ -29,7 +29,7 @@ bis:
 
 
       Please read the Information in the link to get a better idea on what to pick.
-    link: "https://xivgear.app/?page=sl%7C0f2f5c11-b8fb-4b1f-82b7-7c036477ca0f "
+    link: https://xivgear.app/?page=sl%7C968b2fda-6d65-4141-b275-40ee764e58f3
 authors:
   - Balance-SCH-Staff
 tags:
