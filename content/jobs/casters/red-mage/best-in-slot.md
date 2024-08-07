@@ -21,7 +21,7 @@ changelog:
 bis:
   - type: etro
     name: 7.05 RDM BiS - 2.5 GCD
-    link: 17bca82c-2a8e-49a3-adea-9b2b4de1e2ff
+    link: "1e2f46ee-327e-4de9-83bf-08b9e3fae5ce "
     description: Compatible with 2.5 PCT BiS. Highest crit tiering, but might cause
       drifting issues with Embolden.
   - type: etro
@@ -30,7 +30,7 @@ bis:
     description: Better oGCD alignment with Fleche and Contre Sixte.
   - type: etro
     name: 7.05 RDM BiS - 2.48 GCD
-    link: 1e2f46ee-327e-4de9-83bf-08b9e3fae5ce
+    link: "17bca82c-2a8e-49a3-adea-9b2b4de1e2ff "
     description: Compatible with SMN and PCT, easier two-minute burst window.
 authors:
   - Balance-RDM-Staff
