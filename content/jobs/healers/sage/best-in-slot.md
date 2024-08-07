@@ -14,9 +14,9 @@ bis:
     link: 19b6a413-9089-42db-8542-67a1eaf2d57d
     description: These sets provide maximum survivability through higher vitality.
       These will be the recommended sets for the upcoming ultimate, FRU.
-  - type: etro
+  - type: xivgearset
     name: AAC-LHW Maximum Damage
-    link: https://xivgear.app/?page=sl%7Ced96aab6-9f90-491d-9113-2b629714870b&
+    link: a4285cfa-f56a-48bf-8c3b-77cd3dfe12c3
     description: These sets are recommended if you are parsing the Savage tier. They
       should be used with the understanding that they have lower piety and
       reduced survivability compared to the Maximum Vitality sets linked above.
