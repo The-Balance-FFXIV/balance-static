@@ -2,11 +2,9 @@
 title: Red Mage Leveling Guide
 card_header_image: /img/jobs/rdm/leveling.png
 authors:
-  - meru
-  - lana
   - Balance-RDM-Staff
-patch: "6.55"
-lastmod: 2024-08-03T08:37:00.152Z
+patch: "7.0"
+lastmod: 2024-08-07T08:37:00.152Z
 changelog:
   - date: 2021-11-15T18:49:06.143Z
     message: Created page
