@@ -3,7 +3,7 @@ title: Red Mage Basic Guide
 card_header_image: /img/jobs/rdm/lanaresized.png
 authors:
   - Balance-RDM-Staff
-patch: "7.01"
+patch: "7.05"
 lastmod: 2024-07-18T03:34:42.588Z
 changelog:
   - date: 2021-10-26T01:24:41.469Z
