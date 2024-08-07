@@ -10,11 +10,16 @@ changelog:
     message: Updated for 7.0
 bis:
   - type: gsheets
-    name: 7.0 Pre-Savage
-    link: https://xivgear.app/?page=sl%7C74f0ef7d-431b-40ad-9388-74a23c24e067
-    description: This set uses gear from Dawntrail EX1 and EX2 as well as the
-      artifact chest and a combination of available normal raid pieces. It will
-      be updated when crafted sets release.
+    name: AAC-LHW Maximum Vitality
+    link: https://xivgear.app/?page=sl%7Cf204dafc-951c-47b9-8d18-c76260cefbcb&
+    description: These sets provide maximum survivability through higher vitality.
+      These will be the recommended sets for the upcoming ultimate, FRU.
+  - type: etro
+    name: AAC-LHW Maximum Damage
+    link: https://xivgear.app/?page=sl%7Ced96aab6-9f90-491d-9113-2b629714870b&
+    description: These sets are recommended if you are parsing the Savage tier. They
+      should be used with the understanding that they have lower piety and
+      reduced survivability compared to the Maximum Vitality sets linked above.
 authors:
   - Balance-SGE-Staff
 ---
