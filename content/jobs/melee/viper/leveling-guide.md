@@ -3,8 +3,11 @@ title: Viper Leveling Guide
 authors:
   - akashi
   - Balance-VPR-Staff
-patch: "7.01"
+patch: "7.05"
 lastmod: 2024-06-17T23:32:14.858Z
+changelog:
+  - date: 2024-08-06T18:56:34.334Z
+    message: Updated to reflect 7.05 changes.
 ---
 # Viper Leveling Guide
 
@@ -58,10 +61,6 @@ Listed below are the methods believed to be the most optimal for leveling a job 
 
 ## Buffs
 
-### Noxious Gnash
-
-Is a targeted debuff that increases the damage taken by the applying Viper by 10%. This debuff is maintained with the use of either Dread Fangs or Dreadwinder in single-target, or Dread Maw and Pit of Dread in multi-target, and is applied or extended by 20 seconds to a maximum of 40 seconds. This should be maintained at all times.
-
 ### Hunter’s Instinct
 
 A self-applied buff that increases Viper’s damage by 10%. This buff is maintained with the use of either Hunter’s Sting or Hunter’s Coil in single-target, and Hunter’s Bite or Hunter’s Den in multi-target. Using either of these skills will apply or extend Hunter’s Instinct by 40 seconds to a maximum of 40 seconds. This should be maintained at all times.
@@ -74,20 +73,14 @@ Viper’s second self-applied buff that decreases weaponskill recast time and au
 
 The Vipersight Gauge is a HUD element in the shape of two swords connected by an ornate crest in the centre. The gauge indicates what your next action is in a split-blade combo, and will guide you to the combo finisher corresponding to the buff you received from the previous finisher. If you have no buff then you can do any combo freely. Keep in mind that this buff has a duration of 40 seconds.
 
-When the gauge has no glowing elements, as seen in the image below, it means you have no combo started so you can start with either Steel Fangs or Dread Fangs, neither of which will affect how the rest of the combo will play out.  It is important to note that both of these skills will turn into the next skill in the combo of the same
+When the gauge has no glowing elements, as seen in the image below, it means you have no combo started so you can start with either Steel Fangs or Reaving Fangs, neither of which will affect how the rest of the combo will play out.  It is important to note that both of these skills will turn into the next skill in the combo of the same
 
-![](https://i.imgur.com/Ohg5RpF.png)
-
-\
-If one of the swords is glowing red, as seen in the image below, it means you are in the middle of a combo. Use the skill of the glowing side, or if both swords are glowing then you can push either skill. What skill you use will determine what combo finishers are available.
-
-![](https://i.imgur.com/eKDIgl5.png)
+![](/img/jobs/vpr/vswhole7-05.png)
 
 \
-If one of the swords is glowing blue, as seen in the image to the right, it means you are at the end of a combo. Use the skill of the glowing side to use a buffed combo finisher. If both sides are glowing then no buff is active so you can use either combo finisher.
-
-![](https://i.imgur.com/4bxwKWa.png)
-
+If one of the swords is glowing red, as seen in the image below, it means you are in the middle of a combo. Use the skill of the glowing side, or if both swords are glowing then you can push either skill. What skill you use will determine what combo finishers are available.\
+\
+If one of the swords is glowing blue, as seen in the image to the right, it means you are at the end of a combo. Use the skill of the glowing side to use a buffed combo finisher. If both sides are glowing then no buff is active so you can use either combo finisher.\
 \
 After you finish a combo you gain a buff for another combo of the opposite side. So if you ended a combo with a ‘Flank’ combo finisher the buff you receive will be for a ‘Hind’ finisher, and vice versa.
 
@@ -102,13 +95,13 @@ Unlocked at level 82, the Rattling Coil gauge is attached to the Vipersight gaug
 ![](https://i.imgur.com/l7dMMze.png)
 
 \
-These Rattling Coils can be spent on Uncoiled Fury, a 600 potency ranged GCD, which is useful for maintaining uptime during melee disconnects.
+These Rattling Coils can be spent on Uncoiled Fury, a 680 potency ranged GCD, which is useful for maintaining uptime during melee disconnects.
 
 ## Serpent’s Offering Gauge
 
 Unlocked at level 90, the Serpent’s Offering gauge is a HUD element with the appearance of a spherical flask being bitten by two snakes. This gauge indicates how much Serpent’s Offerings you currently have. This gauge can have a maximum of 100 Serpent’s Offerings, and 50 can be spent on Reawaken.
 
-Serpent’s Offerings are gained by executing either a split-blade combo finisher, or any combined-blade combo GCD that isn’t the first one.
+Serpent’s Offerings are gained by executing either a standard combo finisher, or any Vicewinder combo GCD that isn’t the first one.
 
 While the gauge is at zero the ‘flask’ will appear empty, however as Serpent’s Offerings are gained the ‘flask’ will fill up with a red liquid. Once the gauge reaches 50, enough for Reawaken, the liquid will turn blue and the gauge itself will periodically pulse blue to signify that Reawaken is able to be used.
 
@@ -128,37 +121,37 @@ The timer signifies the duration of the ‘Reawakened State’, however consumin
 
 Filler is defined by the sections of our rotation between our two minute burst windows. Since these burst windows are approximately 20 seconds long every two minutes, most of our time will be spent doing filler.
 
-#### Split-Blade Combo
+#### Standard Combo
 
-![](/img/jobs/vpr/vpr-standardcombo.png)
+![](/img/jobs/vpr/dual-wield-st-combo7-05.png)
 
 \
-The doubleblade combo can be started with either Dread Fangs or Steel Fangs, with the difference being that Dread Fangs applies and refreshes Noxious Gnash at the cost of being 100 potency less.
+The standard combo can be started with either Reaving Fangs or Steel Fangs, with the difference being what buff is gained. Steel Fangs will buff the next Reaving Fangs by 100 potency, and Reaving Fangs will buff the next Steel Fangs by 100 potency.
 
 The second GCD in the combo can be either Swiftskin's Sting or Hunter's Sting. Swiftskin's Sting applies and refreshes Swiftscaled, the haste buff, while Hunter's Sting applies and refreshes Hunter's Instinct, the damage buff. 
 
 Finally, after either Swiftskin's Sting or Hunter's Sting there will be a choice of two combo finishers. Both finishers have the same positional requirements and potency.
 
-If you simply push whichever button is is highlighted on your hotbar then your buffs will naturally be maintained, with the only buff you need to pay attention to being Noxious Gnash.
+If you simply push whichever button is is highlighted on your hotbar then your buffs will naturally be maintained.
 
-#### Combined-Blade Combo
+#### Vicewinder Combo
 
-![](/img/jobs/vpr/dreadwindercombo.png)
+![](/img/jobs/vpr/vicewindercombo7-05.png)
 
 \
-The twinblade combo starts with Dreadwinder, which applies and refreshes Noxious Gnash, but is restricted to two charges on a 40 second cooldown per charge. 
+The Vicewinder combo starts with Vicewinder, which is restricted to two charges on a 40 second cooldown per charge. 
 
-Following Dreadwinder you can choose to either use Hunter's Coil or Swiftskin's Coil which apply and refresh Hunter's Instinct and Swiftscaled respectively, just like their split-blade combo counterparts.
+Following Vicewinder you can choose to either use Hunter's Coil or Swiftskin's Coil which apply and refresh Hunter's Instinct and Swiftscaled respectively, just like their standard combo counterparts.
 
 #### Filler Continued
 
 Make sure between your burst windows you:
 
-* Use Dread Fangs to refresh Noxious Gnash when it has less than 20 seconds of duration remaining, and Dreadwinder will not be used during that time.
+* Alternate between Steel Fangs and Reaving Fangs to make use of the buffs they provide.
 * Maintain both the Hunter’s Instinct and Swiftscaled buffs at all times.
 * Use one Reawaken and spend all Anguine Tribute stacks once between every two minutes.
-* Perform the split-blade combo respective of the finisher buff currently active.
-* Use Dreadwinder stacks on cooldown (unless you’re about to enter a two minute window).
+* Perform the standard combo respective of the finisher buff currently active.
+* Use Vicewinder stacks on cooldown (unless you’re about to enter a two minute window).
 * Spend Rattling Coils between combos, ensuring no buffs fall off.
 
 # Openers & Rotation
@@ -175,13 +168,9 @@ It is important to note that in personal play, such as in dungeons and trials, a
 
 ![](https://i.imgur.com/tHuQead.png)
 
-Prior to level 90 your even minute window will look something like this. Using one Dreadwinder stack between even minute windows, which allows you to enter the even minute window with Dreadwinder right before your charges cap.
+Prior to level 90 your even minute window will look something like this. Using one Vicewinder stack between even minute windows, which allows you to enter the even minute window with Vicewinder right before your charges cap.
 
-After level 82, when you unlock Uncoiled Fury you will hold the Rattling Coil stack from the Dreadwinder between even minute windows to use as a filler GCD during Double Dreadwinder.
-
-The filler GCDs are to minimize Noxious Gnash overcap. It is advised this is limited to two GCDs, however it is possible to fit three split-blade GCDs as filler without pushing anything out of buffs.
-
-<br>
+After level 82, when you unlock Uncoiled Fury you will hold the Rattling Coil stack from the Vicewinder between even minute windows to use as a filler GCD during Double Vicewinder.
 
 ## Levels 75-82
 
@@ -202,11 +191,11 @@ The filler GCDs are to minimize Noxious Gnash overcap. It is advised this is lim
 
 ![](https://i.imgur.com/pINanba.png)
 
-After obtaining Reawaken at level 90 the even minute burst window changes to replace Dreadwinders for Reawaken. After the opener, use Serpent's Ire off cooldown then use a filler GCD before using two Reawakens back to back.
+After obtaining Reawaken at level 90 the even minute burst window changes to replace Vicewinders for Reawaken. After the opener, use Serpent's Ire off cooldown then use a filler GCD before using two Reawakens back to back.
 
 Between each even minute window, one Reawaken will be used.
 
-Due to Reawaken being stronger, Dreadwinder charges will now be used as filler rather than for burst.
+Due to Reawaken being stronger, Vicewinder charges will now be used as filler rather than for burst.
 
 Prior to level 96 you will not have access to Ouroboros, however the window will remain identical otherwise.
 
@@ -224,14 +213,14 @@ Prior to level 100 you will not have access to the Reawaken Legacy oGCDs, howeve
 
 ## Multi-Target (3+) Rotation
 
-Viper’s multi-target rotation is fairly identical to its single-target rotation. Both the split-blade combo and the combined-blade combo have an AOE variant that follows similar logic as their single-target counterparts. So outside of swapping to the AOE variants in multi-target scenarios Viper has no other multi-target optimization.
+Viper’s multi-target rotation is fairly identical to its single-target rotation. Both the standard combo and the Vicewinder combo have an AOE variant that follows similar logic as their single-target counterparts. So outside of swapping to the AOE variants in multi-target scenarios Viper has no other multi-target optimization.
 
 #### Split-blade AOE Combo
 
-![](/img/jobs/vpr/wedoalittlerotation.png)
+![](/img/jobs/vpr/dual-wield-aoe-combo7-05.png)
 
 #### <br>
 
 #### Combined-blade AOE Combo
 
-![](/img/jobs/vpr/pitofdreadcombo.png)
+![](/img/jobs/vpr/vicepitcombo7-05.png)
