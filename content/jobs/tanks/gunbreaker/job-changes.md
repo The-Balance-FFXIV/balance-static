@@ -1,7 +1,7 @@
 ---
 title: Gunbreaker Changes
 layout: changes
-lastmod: 2023-05-25T04:22:30.812Z
+lastmod: 2024-08-06T19:28:05.738Z
 changes:
   - patch: "6.0"
     description: "[Click here to view all changes and new abilities for Gunbreaker
@@ -13,6 +13,8 @@ changes:
   - patch: "6.4"
     description: Updated BIS for Anabaseios, updated basic guide to include newer
       infographics.
+  - patch: "7.05"
+    description: Updated information for Dawntrail.
 authors:
   - Balance-GNB-Staff
 ---
