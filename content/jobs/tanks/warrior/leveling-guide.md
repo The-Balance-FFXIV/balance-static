@@ -213,9 +213,7 @@ The AoE version of Upheaval is unlocked. At the time of writing this (patch 6.11
 
 Square Enix decided to give us a third stack of Onslaught.
 
-
 We can now spend three stacks inside even-minute party buffs, and one stack inside odd-minute party buffs, if available.
-
 
 This leads to cycles of 3-1, which repeats every two minutes.
 
@@ -226,10 +224,11 @@ This skill unlocks when Inner Release is used, is a single-use, and can be saved
 It's our biggest skill at lv90 and always Direct Hit + Crits. The only downsides are the multi-hit fall-off, movement lock, and filling up an oGCD slot so double-weaving after Rend is a no-go.
 
 Opener is:
+
 * Tomahawk +Infuriate
 * Heavy Swing
 * Maim +Potion
-* Storm's Eye
+* Storm's Eye +Inner Release
 * Inner Chaos +Upheaval +Onslaught
 * Primal Rend +Infuriate
 * Inner Chaos +Onslaught
@@ -246,7 +245,7 @@ Note that this opener changes a bit at lv100.
 
 # Level 96: Enhanced Inner Release
 
-Using Fell Cleaves or Decimates inside Inner Release now grants stacks of "Burgeoning Fury". Gaining three of these unlocks the skill "Primal Wrath", an oGCD follow-up for Inner Release.  
+Using Fell Cleaves or Decimates inside Inner Release now grants stacks of "Burgeoning Fury". Gaining three of these unlocks the skill "Primal Wrath", an oGCD follow-up for Inner Release.\
 Notice how we're meant to use Fell Cleaves inside Inner Release? This is very relevant, as Inner Release allows for 6 GCDs total to be used, before its effect ends. Three of those have to be Fell Cleaves/Decimates.
 
 # Level 100: Primal Ruination
