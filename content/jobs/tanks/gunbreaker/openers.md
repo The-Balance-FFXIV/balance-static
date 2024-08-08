@@ -3,8 +3,8 @@ title: Gunbreaker Openers
 authors:
   - Balance-GNB-Staff
   - azazael
-patch: "6.5"
-lastmod: 2024-04-12T20:04:19.222Z
+patch: "7.05"
+lastmod: 2024-08-06T19:23:25.992Z
 changelog:
   - date: 2021-10-25T21:38:35.164Z
     message: Created article
@@ -23,10 +23,8 @@ The **Lightning Shot** is not required in these, but is **heavily suggested** fo
 
 ### Standard Opener (**≤** 2.47 GCD)
 
-![Standard Opener](/img/jobs/gnb/9gcdopener.png "Standard Opener")
+![Standard Opener](/img/jobs/gbn/gnb_standard_v2.1.png "Standard Opener")<br>
 
 ### 2.50 Opener
 
-This opener may also be used by other speeds, but is specifically suggested for 2.50 for the sake of long-term buff alignment.
-
-![2.50 Opener](/img/jobs/gnb/250opener.png "2.50 Opener")
+![2.50 Opener](/img/jobs/gbn/gnb-2.50-option-2.1.png "2.50 Opener")
