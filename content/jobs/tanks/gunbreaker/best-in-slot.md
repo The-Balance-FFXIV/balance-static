@@ -1,8 +1,8 @@
 ---
 title: Gunbreaker Best in Slot (BiS)
 layout: bis
-patch: "6.55"
-lastmod: 2024-01-23T02:14:02.146Z
+patch: "7.05"
+lastmod: 2024-08-06T19:27:25.468Z
 changelog:
   - date: 2022-02-03T00:16:26.730Z
     message: Updated for Endwalker patch 6.08.
@@ -14,33 +14,26 @@ changelog:
     message: Updated for 6.4.
 bis:
   - type: etro
-    description: >-
-      \
-
-      Suggested set to use in most content.
-
-
-      * Best choice for users with bad ping.
-
-      * Handles 2-cartridge **No Mercy** differently. Refer to the infographic in the guide.
-    name: 2.50 w/ Relic
-    link: https://etro.gg/gearset/b123d3ab-cd0f-404a-9c60-bbdc9b4ff7be
+    description: Handles the rotation slightly differently. Refer to the infographic
+      in the openers section.
+    name: "2.50"
+    link: https://etro.gg/gearset/7d3e76b0-c2e2-42e1-8c85-5466a521633f
   - type: etro
     description: >-
-      Can outperform 2.50 on various encounters.
+      Use No Mercy off cooldown and do not clip your GCD when using it.
 
 
-      Handles No Mercy uniquely.
+      * Requires ping of 25ms or less to not clip the GCD.
 
 
       [Click Here](https://youtu.be/3DYfkc0alzI) to watch to watch a video demonstrating using  **No Mercy** off-cooldown on 2.45.
-    name: 2.45 w/ Relic
-    link: https://etro.gg/gearset/8c477a5f-d7aa-4b75-a906-ebbfb9b572cd
+    name: "2.45"
+    link: https://etro.gg/gearset/87da4ce3-cf03-473c-b1a4-b6ce58c86f36
   - type: etro
-    description: Average DPS is lower, but negligibly different and within 1% on all
-      encounters.
-    name: 2.40 w/ Relic
-    link: https://etro.gg/gearset/b24c81eb-440d-4218-9a5d-e0bd13e5d41d
+    description: Most flexible/forgiving set of the 3 in exchange for very, very
+      marginally lower average DPS in pure uptime encounters.
+    name: "2.40"
+    link: https://etro.gg/gearset/12120f47-b2dd-457d-972e-79180b5f4be2
 authors:
   - Balance-GNB-Staff
 tags: []
