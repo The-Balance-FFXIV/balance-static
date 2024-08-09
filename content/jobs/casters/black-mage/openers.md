@@ -2,8 +2,8 @@
 title: Black Mage Openers
 authors:
   - Balance-BLM-Staff
-patch: "7.0"
-lastmod: 2024-07-13T23:57:38.501Z
+patch: "7.05"
+lastmod: 2024-08-09T00:37:42.215Z
 changelog:
   - date: 2021-11-15T02:42:11.541Z
     message: Article Created.
@@ -11,18 +11,18 @@ changelog:
     message: 6.08 Initial version
   - date: 2024-07-13T23:57:40.163Z
     message: Updated for Dawntrail
+  - date: 2024-08-09T00:37:51.209Z
+    message: Less temporary, changed pot to generic Gemdraught
 ---
 # Openers
 
 Openers should put abilities on cooldown, fit strong spells within buff windows, and minimize clipping. All openers assume there is a pull countdown and the boss is pulled at zero. If your group pulls earlier, adjust them as necessary. Use the highest tier Potion of Intelligence available.
 
-With all openers being very close in estimated output over the course of the entire encounter, it is instead recommended to choose your opener based on your current spell speed, with consideration towards potential fight-specific requirements.
-
 ## **Fire III Opener**
 
-![](/img/jobs/blm/black-mage-tentative-blm-opener.png)
+![](/img/jobs/blm/black-mage-opener.png)
 
-<br>The standard opener for BLM. Note that this opener is tentative, and is likely to change at least slightly depending on exact application timing for raid buffs. This opener has a rough bare minimum GCD (recast) of 2.45s, though most people will likely want some more Spell Speed than this for consistency in execution. If running a slower set and/or otherwise having issues with Astral Fire timing out, consider double weaving Ley Lines with the INT pot usage in the opener.
+<br>The standard opener for BLM. This opener has a rough bare minimum GCD (recast) of 2.45s, though most people will likely want some more Spell Speed than this for consistency in execution. If running a slower set and/or otherwise having issues with Astral Fire timing out, consider double weaving Ley Lines with the INT pot usage in the opener.
 
 The initial Fire III cast should start around 4 seconds prepull (to land at the same time the boss is pulled). The second Fire IV is hardcasted with the expectation of raid buffs landing just before the cast goes off.
 
