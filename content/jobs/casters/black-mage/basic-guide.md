@@ -76,9 +76,9 @@ In either stance, keeping the **High Thunder** DoT up is important, as well as u
 
 ## **Fire III Opener**
 
-![](/img/jobs/blm/black-mage-opener.png)
+![](/img/jobs/blm/black-mage-fire-iii-opener.png)
 
-<br>The standard opener for BLM. Note that this opener is tentative, and is likely to change at least slightly depending on exact application timing for raid buffs. This opener has a rough bare minimum GCD (recast) of 2.45s, though most people will likely want some more Spell Speed than this for consistency in execution. If running a slower set and/or otherwise having issues with Astral Fire timing out, consider double weaving **Ley Lines** with the INT pot usage in the opener.
+<br>The standard opener for BLM. This opener has a rough bare minimum GCD (recast) of 2.45s, though most people will likely want some more Spell Speed than this for consistency in execution. If running a slower set and/or otherwise having issues with Astral Fire timing out, consider double weaving **Ley Lines** with the INT pot usage in the opener.
 
 The initial **Fire III** cast should start around 4 seconds prepull (to land at the same time the boss is pulled). The second **Fire IV** is hardcasted with the expectation of raid buffs landing just before the cast goes off.
 
