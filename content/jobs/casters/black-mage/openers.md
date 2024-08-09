@@ -20,7 +20,7 @@ Openers should put abilities on cooldown, fit strong spells within buff windows,
 
 ## **Fire III Opener**
 
-![](/img/jobs/blm/black-mage-opener.png)
+![](/img/jobs/blm/black-mage-fire-iii-opener.png)
 
 <br>The standard opener for BLM. This opener has a rough bare minimum GCD (recast) of 2.45s, though most people will likely want some more Spell Speed than this for consistency in execution. If running a slower set and/or otherwise having issues with Astral Fire timing out, consider double weaving Ley Lines with the INT pot usage in the opener.
 
