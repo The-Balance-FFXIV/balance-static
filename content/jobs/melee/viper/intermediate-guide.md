@@ -148,9 +148,26 @@ The easier option requires combo neutrality going into it, meaning there is no a
 
 Note: Triple weaving after Swiftskin's Coil is possible without clipping on low ping. If triple weaving is not possible for you, you can delay the Serpent's Ire to after the first Reawaken. Do note that your Reawaken is now 1 GCD later if you do this, and it may be necessary to switch from Standard Double Reawaken to Immediate Double Reawaken to keep raid buff alignment for the rest of the fight. 
 
-The most optimal pot usage requires an extremely tight setup, and a single mistake will lose far more than the gain from the pot. This option should only be used if it lines up perfectly to do so. This option can only be performed if the GCD pressed at 11-12 seconds before Serpent's Ire is off cooldown is a combo starter. Furthermore, this sequence requires holding a Vicewinder charge so that two Vicewinders may be used during the sequence. Finally, you must have exactly one Rattling Coil stored going into this sequence. As there is a specific amount of Rattling Coils needed, this makes it unlikely for a fight that requires Uncoiled Fury to be used for uptime to be able include this pot window without loss. Any deviations from these conditions will automatically result in the sequence failing, and become a potency loss! 
+The most optimal pot usage requires an extremely tight setup, and a single mistake will lose far more than the gain from the pot. This option should only be used if it lines up perfectly to do so. This option can only be performed if the GCD pressed at 11-12 seconds before Serpent's Ire is off cooldown is a combo starter. Furthermore, this sequence requires holding a Vicewinder charge so that two Vicewinders may be used during the sequence. Finally, you must have exactly one Rattling Coil stored going into this sequence. As there is a specific amount of Rattling Coils needed, this makes it unlikely for a fight that requires Uncoiled Fury to be used for uptime to be able to include this pot window without loss. Any deviations from these conditions will automatically result in the sequence failing, and become a potency loss! 
 
-To perform this sequence: at 11-12 seconds before Serpent's Ire is off cooldown, start a dual wield combo. Take note of which Sting GCD will be used next. Start a Vicewinder combo after the dual wield combo starter. If Hunter's Sting is the next Sting GCD, use Hunter's Coil first. If Swiftskin's Sting is the next Sting GCD, use Swiftskin's Coil first. *Failing to do this will cause the sequence to fail!* Finish the Vicewinder combo, then use the appropriate Sting GCD. Serpent's Ire should now be ready, and should be used here. Finish the dual  wield combo and pot in the first weave slot, then use Death Rattle. Perform two Reawaken sequences back to back, then spend three Uncoiled Furies and their follow up oGCDs. Finish this sequence by starting another Vicewinder combo. If the first Vicewinder combo started with Hunter's Coil, start this combo with Swiftskin's Coil. If the first started with Swiftskin's Coil, start with Hunter's Coil instead. *Failure to do so will result in personal buffs dropping, making the sequence a potency loss overall.* To visualize, the sequence looks like this:
+To perform this sequence: 
+
+1. At 11-12 seconds before Serpent's Ire is off cooldown, start a dual wield combo.  
+2. Take note of which Sting GCD will be used next.
+3. Start a Vicewinder combo after the dual wield combo starter. 
+4. If Hunter's Sting is the next Sting GCD, use Hunter's Coil first. If Swiftskin's Sting is the next Sting GCD, use Swiftskin's Coil first. *Failing to do this will cause the sequence to fail!* 
+5. Finish the Vicewinder combo.  
+6. Use the appropriate Sting GCD.
+7. Serpent's Ire should now be ready, and should be used here. 
+8. Finish the dual wield combo and pot in the first weave slot, then use Death Rattle. 
+9. Perform two Reawaken sequences back to back.
+10. Spend three Uncoiled Furies and their follow up oGCDs. 
+11. Start another Vicewinder combo.
+12. If the first Vicewinder combo started with Hunter's Coil, start this combo with Swiftskin's Coil. If the first started with Swiftskin's Coil, start with Hunter's Coil instead. *Failure to do so will result in personal buffs dropping, making the sequence a potency loss overall.*
+
+
+
+To visualize, the sequence looks like this:
 
 ![](/img/jobs/vpr/vpr3ufpot.png)
 
