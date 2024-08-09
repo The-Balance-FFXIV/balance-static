@@ -4,12 +4,14 @@ authors:
   - ToraelValdis
   - Balance-VPR-Staff
 patch: "7.05"
-lastmod: 2024-08-02T01:24:19.624Z
+lastmod: 2024-08-09T21:04:20.826Z
 changelog:
   - date: 2024-06-20T05:44:33.192Z
     message: Guide added to website
   - date: 2024-08-01T22:43:49.297Z
     message: Updated for patch 7.05
+  - date: 2024-08-09T21:04:22.341Z
+    message: "Added optimal pot windows to Medicated section. "
 ---
 # Introduction
 
@@ -62,6 +64,8 @@ There are two primary variations of our burst that we will use for most situatio
   * **Party buffs shown are an estimate.**
 
 ![](/img/jobs/vpr/viperstandarddoublereawakenv3.png)
+
+<br>
 
 * **Immediate Double Reawaken**
 
