@@ -42,7 +42,7 @@ Black Mage is a caster specializing in high, steady personal damage in place of 
 
 **Polyglot** is a resource gained every 30 seconds that Enochian is active. At level 80+, a maximum of two polyglot stacks can be held at a time. At level 98+, a maximum of three polyglot stacks can be held at a time. If the polyglot timer completes while at maximum stacks, no additional polyglot stack is gained, and the timer restarts at zero again. If Enochian is dropped the polyglot stacks remain, but the timer is reset to 0.
 
-**Paradox** is a resource and spell available at level 90. When you have the resource, Paradox replaces **Fire** on your hotbars. As of Dawntrail, **Paradox** can only be used in Astral Fire. It replaces the **Fire** cast to refresh your Astral Fire timer, is instant-cast, and generates a guaranteed Firestarter proc. You gain a **Paradox** marker on your job gauge by transitioning from Umbral Ice III with three Umbral Hearts to Astral Fire.
+**Paradox** is a resource and spell available at level 90. When you have the resource, Paradox replaces both **Fire** and **Blizzard** on your hotbars. In Astral Fire, it replaces the **Fire** cast to refresh your Astral Fire timer, is instant-cast, and generates a guaranteed Firestarter proc. In Umbral ice, it is a strong instant-cast spell that refreshes your Umbral Ice timer and can be leveraged for weaving/movement. You gain a **Paradox** marker on your job gauge by transitioning from Umbral Ice III with three Umbral Hearts to Astral Fire, as well as from Astral Fire III to Umbral Ice.
 
 **Astral Soul** is a resource available at level 100. Successful casting of **Fire IV** generates one Astral Soul stack, casting **Flare** grants three Astral Soul stacks. Generating the maximum of 6 stacks of Astral Soul allows for the user to cast **Flare Star**. Stacks are consumed upon casting **Flare Star**, and expire upon leaving Astral Fire.
 
@@ -66,7 +66,7 @@ Black Mage is a caster specializing in high, steady personal damage in place of 
 
 In Astral Fire, the goal is to use all of your MP on **Fire IV** casts, and end in **Despair** followed by **Flare Star**. However, **Fire IV** does not refresh the Astral Fire timer, so **Paradox** is used once in between the **Fire IV** spam to maintain Astral Fire.
 
-In Umbral Ice, **Blizzard IV** is used to obtain three Umbral Hearts (as well as produce a **Paradox** marker when entering Astral Fire again), as well as refresh MP for the next Astral Fire cycle.
+In Umbral Ice, **Blizzard IV** is used to obtain three Umbral Hearts (as well as produce a **Paradox** marker when entering Astral Fire again), as well as refresh MP for the next Astral Fire cycle. The **Paradox** generated upon entering Umbral Ice from Astral Fire III is also used in this phase.
 
 In either stance, keeping the **High Thunder** DoT up is important, as well as utilizing polyglot stacks for **Xenoglossy** for movement/weaving/damage as needed.
 
@@ -74,7 +74,7 @@ In either stance, keeping the **High Thunder** DoT up is important, as well as u
 
 ## **Fire III Opener**
 
-![](/img/jobs/blm/black-mage-tentative-blm-opener.png)
+![](/img/jobs/blm/black-mage-opener.png)
 
 <br>The standard opener for BLM. Note that this opener is tentative, and is likely to change at least slightly depending on exact application timing for raid buffs. This opener has a rough bare minimum GCD (recast) of 2.45s, though most people will likely want some more Spell Speed than this for consistency in execution. If running a slower set and/or otherwise having issues with Astral Fire timing out, consider double weaving **Ley Lines** with the INT pot usage in the opener.
 
@@ -94,7 +94,9 @@ Using Flare for the extra Astral Soul stacks to enable an additional **Flare Sta
 
 <br>The standard format for the single target rotation loop is as above, following directly after the second **Despair** in the opener. Both **Xenoglossy** and **High Thunder** have no set place in the rotation, and instead are used as needed. The guaranteed Firestarter proc from **Paradox** has some flexibility in use as well. All of these will be further explained in later sections.
 
-With **Paradox** now being instant-cast in Dawntrail, it is recommended to default to having four **Fire IV** casts before **Paradox**. This provides similar leeway to Endwalker, allowing one extra cast on either half of the Astral Fire cycle. This can be used to shift **Fire IV** casts around and/or use **Xenoglossy**/**High Thunder** as needed anywhere in the cycle.
+With **Paradox** now being instant-cast during Astral Fire as well in Dawntrail, it is recommended to default to having four **Fire IV** casts before **Paradox**. This provides similar leeway to Endwalker, allowing one extra cast on either half of the Astral Fire cycle. This can be used to shift **Fire IV** casts around and/or use **Xenoglossy**/**High Thunder** as needed anywhere in the cycle.
+
+As of Patch 7.05, Paradox is now available for use in Umbral Ice again. Since this is a strong spell, it should generally be used every Umbral Ice phase. Prioritize using it for movement/weaving as needed, or for refreshing your Umbral Ice timer if needed.
 
 When possible, it can be advantageous to frontload five **Fire IV** casts before the **Paradox**, giving you even more room in the second half. You will need a bit higher Spell Speed and/or leverage **Triplecast**/**Swiftcast**/**Ley Lines** in order to execute this without dropping Astral Fire. Here is a more extreme example of using two **Xenoglossy** and one **High Thunder** while still being able to complete the full Astral Fire cycle:
 
@@ -123,7 +125,7 @@ A few important notes:
 
 Using your Firestarter proc in Astral Fire III, typically referred to as “AF3 F3P”, allows for extra flexibility in your Astral Fire timer, as well as extra mobility. Pictured below is a baseline version of using the proc for this purpose, allowing for the maximum leeway in your Astral Fire timer:
 
-![](/img/jobs/blm/black-mage-firestarter_-astral-fire-iii.png "Firestarter: Astral Fire III")
+![](/img/jobs/blm/black-mage-firestarter_-astral-fire-i.png "Firestarter: Astral Fire III")
 
 <br>This is just an example though–as needed, you can easily shift around any of the **Fire IV**/**Paradox** casts then use the Firestarter proc when your Astral Fire timer is getting low. Situationally, if you will not be able to complete all of your six **Fire IV** casts before Astral Fire drops, it will generally be the largest priority to use your Firestarter proc to refresh your timer. Guaranteeing the **Flare Star** is often going to be more important than other potential usage for the Firestarter proc.
 
@@ -133,9 +135,11 @@ Whenever possible, it is generally recommended to carry your Firestarter proc th
 
 ![](/img/jobs/blm/black-mage-firestarter_-astral-fire-i.png "Firestarter: Astral Fire I")
 
-<br>While using the Firestarter proc in Astral Fire III is still a reasonably strong spell, using the proc this way replaces a relatively weak **Fire III** casted in Umbral Ice III with one used in Astral Fire I and as a result provides more of a gain.\
-\
-This is not without drawbacks though—in order to weave the **Transpose**, it is required to use a “filler spell” (High Thunder or **Xenoglossy**), or less ideally have your **Blizzard IV** be instant-cast via **Swiftcast**/**Triplecast**. Furthermore, it is important to note that the Firestarter proc applies Astral Fire III sooner than a regular cast of **Fire III** would apply it, which will result in a slightly stricter Astral Fire timer to work with.
+<br>While using the Firestarter proc in Astral Fire III is still a reasonably strong spell, using the proc this way replaces a relatively weak **Fire III** casted in Umbral Ice III with one used in Astral Fire I and as a result provides more of a gain.
+
+Generally we can utilize **Paradox** in Umbral Ice to weave the Transpose for this use case as above. As needed, High Thunder or **Xenoglossy** can also be utilized for weaving here, or even (less ideally) have your **Blizzard IV** be instant-cast via **Swiftcast**/**Triplecast**.
+
+It is important to note that the Firestarter proc applies Astral Fire III sooner than a regular cast of **Fire III** would apply it, which will result in a slightly stricter Astral Fire timer to work with.
 
 # **AoE Rotation (3+ targets)**
 
@@ -236,6 +240,16 @@ With the introduction of **Flare Star**, it is even more important than ever to 
 2. Particularly in situations where you need to fit in a **Xenoglossy** use or a High Thunder refresh, consider using **Triplecast**/**Swiftcast** wherever best suited to give yourself sufficient leeway on your Astral Fire timer wherever it may be tighter.
 3. As previously mentioned, using your Firestarter procs to re-enter Astral Fire is generally the most optimal usage. However, if you have no other options to complete your Astral Fire cycle without it, using the proc to extend your Astral Fire timer is more valuable if it means finishing your cycle off and getting a **Flare Star** where you would not otherwise.
 
+## Recovery After Panic Transpose
+
+If you are unable to complete your Astral Fire phase properly, including leveraging your tools as above, it is generally preferable to **Transpose** out of Astral Fire instead of letting it drop entirely. In this situation we have a recommended recovery option, named after a nickname of one of the BLM Helpfuls “Geiji”: “Geiji Ice Recovery Line” (commonly referred to as GIRL):
+
+![](/img/jobs/blm/black-mage-geiji-ice-recovery-line.png "Geiji Ice Recovery Line (GIRL)")
+
+Using **Transpose** from Astral Fire grants Umbral Ice I, **Paradox** grants Umbral Ice II. The **Blizzard** cast provides the final stack of Umbral Ice to get back to Umbral Ice III, so we can cast **Blizzard IV** to get to full MP and three Umbral Hearts and resume the rotation as normal from there.
+
+There are additional potential use cases for this line, discussed later in the “Additional Optimizations” section.
+
 ## Handling Downtime and End of Fight
 
 Depending on the length and type of downtime, there are a few options to consider for prep before/after downtime.
@@ -251,7 +265,7 @@ Depending on the length and type of downtime, there are a few options to conside
 
 1. For short downtime, try leveraging **Triplecast**/**Swiftcast** to help you finish the rest of your Astral Fire phase when you have uptime again. Otherwise, having a Firestarter proc to use to refresh your timer can have pretty large value in short downtimes.
 2. For moderate length downtimes, you will often be able to use **Umbral Soul** to get back to full MP with three Umbral Hearts. If you are going to end the uptime phase in Astral Fire, consider dumping the rest of your MP with **Despair**, then using **Transpose** to enter Umbral Ice before using **Umbral Soul**.
-3. For especially long downtime, a Thunderhead buff you may initially obtain may not last long enough. In these cases, you can consider using **Transpose** to head back into Astral Fire, then **Transpose** back into Umbral Ice, using **Umbral Soul** to build back up to Umbral Ice III with three Umbral Hearts before you have uptime again. You will generate a fresh Thunderhead buff with each transition, so you can time this to ensure the proc lasts long enough to reapply immediately when possible.
+3. For especially long downtime, a Thunderhead buff you may initially obtain may not last long enough. In these cases, you can consider using **Transpose** to head back into Astral Fire, then **Transpose** back into Umbral Ice, using **Umbral Soul** to build back up to Umbral Ice III with three Umbral Hearts before you have uptime again. You will generate a fresh Thunderhead buff with each transition, so you can time this to ensure the proc lasts long enough to reapply immediately when possible. You can also similarly generate a **Paradox** for Umbral Ice by building up to Umbral Ice III with three Umbral Hearts before the first **Transpose**.
 
 ![](/img/jobs/blm/black-mage-downtime-thunderhead.png "Downtime Thunderhead")
 
@@ -278,13 +292,21 @@ Refreshing the DoT after it has fallen off, especially for a longer period of ti
 
 On average it will be better to refresh slightly early than let it drop off entirely. However, in either case, it is quite possible to have minimal to no loss from an early/late refresh. In an ideal environment and planned uptime lengths/killtimes/casting timeline, it is viable to quantify loss in alternative refresh timings compared to the gains they may facilitate for things like weaving for AF1 F3P, movement, or whatever else.
 
-In a less controlled environment and looking at a more generalized average, it can be worthwhile to refresh even up to around 10 seconds early to facilitate AF1 F3P. This also has the added benefit of not having to refresh in the tighter first half of your Astral Fire phase following the Firestarter proc. To stress again, however, it is important to not overly rely on early **High Thunder** refreshes, and they should instead be more considered as a situational alternative to utilize when needed.
+In a less controlled environment and looking at a more generalized average, it can be worthwhile to refresh slightly early/late to facilitate AF1 F3P. This also has the added benefit of not having to refresh in the tighter first half of your Astral Fire phase following the Firestarter proc. To stress again, however, it is important to not overly rely on early/late **High Thunder** refreshes, and they should instead be more considered as a situational alternative to utilize when needed.
 
 ## Pre-Manafont Considerations
 
 With **Manafont** now granting full resources including a **Paradox**, normally we will end up with a spare Firestarter proc pre-**Manafont** that we need to burn in Astral Fire III before we generate a new one with the second **Paradox**. While the proc used in Astral Fire III is still fairly solid, it’s not as valuable as it would be otherwise since we cannot use it to enable AF1 F3P.
 
 This can lead way towards justifying an alternative setup pre-**Manafont** that does not generate this Firestarter proc since it is otherwise “wasted” in Astral Fire III, and can also potentially help adjust alignment for an earlier **Manafont** usage.
+
+## Additional GIRL Applications
+
+Beyond simply a recovery option after a panic **Transpose** to prevent dropping Astral Fire, GIRL can be used in place of a regular **Blizzard III** cast. By itself, this is a small potency loss, but there are a few use cases for it which can result in a net gain (typically with a weaved **Transpose** usage):
+
+* Using Transpose at the tail end of an Astral Fire cycle grants Thunderhead a GCD earlier than after casting **Blizzard III**. If this results in gaining a DoT tick due to being able to reapply **High Thunder** a GCD earlier, it can end up being a gain. This situation most likely will come up if you refresh your **High Thunder** DoT at the start of an Astral Fire phase, since the DoT may fall off before you reenter Umbral Ice normally.
+* A **Paradox** in raid buffs is significantly stronger than a **Blizzard III** in buffs, particularly if casted in Astral Fire III. If you’re in a situation with one GCD left before raid buffs fall off, with the ability to weave **Transpose** at the tail end of an Astral Fire phase to use **Paradox**, it can be a good consideration.
+* **Paradox** provides an additional GCD of movement that **Blizzard III** would not grant by itself. While not a direct gain, this can be used to extend movement by an extra GCD for a small loss. If this results in uptime that you would not get otherwise, it can turn into a gain.
 
 # **Appendix**
 
@@ -360,7 +382,8 @@ For this document, full names of spells, buffs, and abilities were used for clar
 * MF: Manafont
 * Lucid: Lucid Dreaming
 * SpS/sps: Spell Speed
-* Pot: Main stat (Intelligence) potion, current strongest option is HQ Grade 1 Gemdraught of Intelligence
+* Pot: Main stat (Intelligence) potion, current strongest option is HQ Grade 2 Gemdraught of Intelligence
+* GIRL: Geiji Ice Recovery Line, a recovery option to get back into the regular rotation
 
 ## **Acknowledgements**
 
