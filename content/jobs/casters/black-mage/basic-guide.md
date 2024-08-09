@@ -125,7 +125,7 @@ A few important notes:
 
 Using your Firestarter proc in Astral Fire III, typically referred to as “AF3 F3P”, allows for extra flexibility in your Astral Fire timer, as well as extra mobility. Pictured below is a baseline version of using the proc for this purpose, allowing for the maximum leeway in your Astral Fire timer:
 
-![](/img/jobs/blm/black-mage-firestarter_-astral-fire-i.png "Firestarter: Astral Fire III")
+![](/img/jobs/blm/black-mage-firestarter_-astral-fire-iii.png "Firestarter: Astral Fire III")
 
 <br>This is just an example though–as needed, you can easily shift around any of the **Fire IV**/**Paradox** casts then use the Firestarter proc when your Astral Fire timer is getting low. Situationally, if you will not be able to complete all of your six **Fire IV** casts before Astral Fire drops, it will generally be the largest priority to use your Firestarter proc to refresh your timer. Guaranteeing the **Flare Star** is often going to be more important than other potential usage for the Firestarter proc.
 
