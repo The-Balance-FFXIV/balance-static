@@ -134,8 +134,7 @@ Exactly what should be put into the pot buff will also depend on when it is used
 
 ![](/img/jobs/vpr/vprevenpotexample.png)
 
-**Please note the exact combo GCDs shown are an example, and it will not always line up with these exact GCDs!**\
-<br>
+**Please note the exact combo GCDs shown are an example, and it will not always line up with these exact GCDs!**
 
 It is possible to optimize even more potency into the pot, but it requires significantly more setup than the above usage. There are two options to achieve this, the first is significantly more flexible and easier than the second, and has only 230 less potency under the pot buff than the second option. This translates to a difference of about 18 potency less gained from the easier option. 
 
@@ -143,7 +142,7 @@ The easier option requires combo neutrality going into it, meaning there is no a
 
 ![](/img/jobs/vpr/vprmoreoptimalpot.png)
 
-Triple weaving after Swiftskin's Coil is possible without clipping on low ping. If triple weaving is not possible for you, you can delay the Serpent's Ire to after the first Reawaken. Do note that your Reawaken is now 1 GCD later if you do this, and it may be necessary to switch from Standard Double Reawaken to Immediate Double Reawaken to keep raid buff alignment for the rest of the fight. 
+Note: Triple weaving after Swiftskin's Coil is possible without clipping on low ping. If triple weaving is not possible for you, you can delay the Serpent's Ire to after the first Reawaken. Do note that your Reawaken is now 1 GCD later if you do this, and it may be necessary to switch from Standard Double Reawaken to Immediate Double Reawaken to keep raid buff alignment for the rest of the fight. 
 
 The most optimal pot usage requires an extremely tight setup, and a single mistake will lose far more than the gain from the pot. This option should only be used if it lines up perfectly to do so. This option can only be performed if the GCD pressed at 11-12 seconds before Serpent's Ire is off cooldown is a combo starter. Furthermore, this sequence requires holding a Vicewinder charge so that two Vicewinders may be used during the sequence. Finally, you must have exactly one Rattling Coil stored going into this sequence. Any deviations from these conditions will automatically result in the sequence failing, and become a potency loss! 
 
