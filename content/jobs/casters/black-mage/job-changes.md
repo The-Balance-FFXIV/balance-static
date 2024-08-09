@@ -1,7 +1,7 @@
 ---
 title: Black Mage Changes
 layout: changes
-lastmod: 2024-07-22T01:03:16.024Z
+lastmod: 2024-08-09T00:58:57.341Z
 changes:
   - patch: "6.0"
     description: "[Click here to view all Endwalker changes on the Official
@@ -38,6 +38,9 @@ changes:
       | Action      |     | Adjustment                                |
       | ----------- | --- | ----------------------------------------- |
       | Umbral Soul |     | Now acquired at level 35 (previously 76). |
+  - description: View the latest changes for 7.05 at the Official Site, located
+      [here](https://na.finalfantasyxiv.com/jobguide/blackmage/)!
+    patch: "7.05"
 authors:
   - Balance-BLM-Staff
 ---
