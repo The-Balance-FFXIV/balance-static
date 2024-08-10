@@ -1,8 +1,8 @@
 ---
 title: Black Mage FAQ
 layout: qna
-patch: "7.0"
-lastmod: 2024-07-22T02:49:43.666Z
+patch: "7.05"
+lastmod: 2024-08-09T00:52:50.765Z
 changelog:
   - date: 2021-10-26T01:53:18.078Z
     message: Added page
@@ -38,7 +38,7 @@ qna:
       occurs after buffs have already ended. Even before raid buff
       consideration, single target Flare only really becomes worthwhile in very
       specific and nuanced situations generally involving downtime.
-  - question: s it okay to refresh High Thunder early if I need it for movement?
+  - question: Is it okay to refresh High Thunder early if I need it for movement?
     answer: If you have no other movement options in the given situation, using the
       proc early is better than losing out on the GCD entirely. However, try to
       plan better for next time you’re in the situation to have something
@@ -54,6 +54,10 @@ qna:
       Otherwise, BLM will generally fit good spells within raid buffs regardless
       of alignment–prioritize uptime and solid rotational choices first and
       foremost.
+  - question: Should I use Paradox in Umbral Ice even if I don't need it for
+      weaving/movement?
+    answer: Yes, Paradox is a strong spell and should generally be used every Umbral
+      Ice cycle.
 authors:
   - rika-vanih
 ---
