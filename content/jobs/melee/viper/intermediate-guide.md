@@ -4,12 +4,14 @@ authors:
   - ToraelValdis
   - Balance-VPR-Staff
 patch: "7.05"
-lastmod: 2024-08-02T01:24:19.624Z
+lastmod: 2024-08-09T21:04:20.826Z
 changelog:
   - date: 2024-06-20T05:44:33.192Z
     message: Guide added to website
   - date: 2024-08-01T22:43:49.297Z
     message: Updated for patch 7.05
+  - date: 2024-08-09T21:04:22.341Z
+    message: "Added optimal pot windows to Medicated section. "
 ---
 # Introduction
 
@@ -63,6 +65,8 @@ There are two primary variations of our burst that we will use for most situatio
 
 ![](/img/jobs/vpr/viperstandarddoublereawakenv3.png)
 
+<br>
+
 * **Immediate Double Reawaken**
 
   * This Double Reawaken variant starts the first Reawaken immediately after Ire, and uses no fillers between Reawakens. Serpent’s Ire is used off cooldown, directly followed by the first Reawaken of this window. After completing the first Reawaken, immediately enter and complete the second Reawaken. 
@@ -112,9 +116,9 @@ We can manipulate the exact timing that we would execute our positionals by spen
 
 Dead Zoning is a term that means pooling gauge outside of two minute party buffs for a specific purpose, instead of spending it. In Viper’s case, deadzoning means to avoid spending Serpent Offerings outside of the two that get put into party buffs. There are several reasons why a Viper might do this. For one, there could be a downtime section that, if the extra Reawaken was used, would prevent generation of 50 Offerings leading into a party buff window. Pooling the gauge could allow for the Viper to Double Reawaken where they otherwise wouldn’t be able to. When to Dead Zone will be a specific optimization that needs to be planned for each fight to determine the best course of action. *Special attention must be taken when attempting Dead Zoning. VPR is resource positive, which means that Dead Zoning in full uptime will result in overcapping Offering gauge.*
 
-# 5. Medicated (Potion/Tincture) Usage
+# 5. Medicated (Potion/Gemdraught) Usage
 
-For simplicity, Medicated will be referred to as “pot” or “pot buff.” Pot timings are another fight-by-fight specific optimization, but there are some fundamental rules for when to use a pot. 
+In Dawntrail, the new potions are called Gemdraught of Dexterity. Like all pots before them, Gemdraughts come with a grade number, with the higher the number equating to a stronger damage buff. I.e. Grade 2 Gemdraughts are stronger than Grade 1 Gemdraughts. For simplicity, Medicated will be referred to as “pot” or “pot buff.” Pot timings are another fight-by-fight specific optimization, but there are some fundamental rules for when to use a pot. 
 
 1. Kill time determines how many pots you will get, and therefore when you use the pot. 
 2. More uses of a pot is almost always better than losing a use to align pots with party buffs. *There are exceptions to this.* 
@@ -128,11 +132,52 @@ Using these rules can plan our pot uses for a full uptime fight based on the fol
 * A fight lasting more than 10:30 but less than 12:00 can use a pot in the opener, a pot at 5:00, and a final pot at 10:00.
 * A fight lasting more than 12:00 can use a pot at the opener, 6:00, and 12:00. 
 
-Historically, there has never been a fight without downtime that is longer than about 12:00 minutes, so planning past that point is not necessary. This is a general overview, and does not take into account fight specific optimizations where the group shifts their party buffs instead of using them on cooldown. Additionally, exactly what should be put into pots that are not part of two minute windows will be something that will depend on the specific fight. *Fight specific optimizations take precedence but need to be properly planned out to avoid losses.*
+Historically, there has never been a fight without downtime that is longer than about 12:00 minutes, so planning past that point is not necessary. This is a general overview, and does not take into account fight specific optimizations where the group shifts their party buffs instead of using them on cooldown. *Fight specific optimizations take precedence but need to be properly planned out to avoid losses.*
 
-**At the moment, we believe that the optimal place to pot when entering two minute windows is the GCD before Serpent’s Ire will be used.**
+Exactly what should be put into the pot buff will also depend on when it is used. An even minute pot should at minimum contain two full Reawaken sequences, and should also contain one Uncoiled Fury and its follow up oGCDs if possible without dropping personal buffs. If potting at an even minute burst window, most often the pot will be used after the GCD before Reawaken is used. If this GCD is not a combo finisher, late weave the pot to potentially buff more potency at the end of the buff's duration. If this GCD is a combo finisher, pot in the first weave slot to get Death Rattle in the pot. An example of this would be: 
 
-# 6. Viper 10 Minute Rotation Overview
+![](/img/jobs/vpr/vprevenpotexample.png)
+
+**Please note the exact combo GCDs shown are an example, and it will not always line up with these exact GCDs!**
+
+It is possible to optimize even more potency into the pot, but it requires significantly more setup than the above usage. There are two options to achieve this, the first is significantly more flexible and easier than the second, and has only 230 less raw potency under the pot buff than the second option. This translates to a difference of about 18 raw potency less gained from the easier option. 
+
+The easier option requires combo neutrality going into it, meaning there is no active combo. This sequence cannot be done if there is an active combo, as the combo will break if the sequence is performed, or it will require continuing the combo in the middle of the sequence. Both options are lower potency than simply fitting in the bare minimum shown above! To perform this sequence, at about 5-6 seconds left on Serpent's Ire cooldown, start a Vicewinder combo. This may require holding a Vicewinder charge that had come off cooldown within the last 40 seconds if a charge would not naturally be available here. From there, follow this sequence:
+
+![](/img/jobs/vpr/vprmoreoptimalpot.png)
+
+Note: Triple weaving after Swiftskin's Coil is possible without clipping on low ping. If triple weaving is not possible for you, you can delay the Serpent's Ire to after the first Reawaken. Do note that your Reawaken is now 1 GCD later if you do this, and it may be necessary to switch from Standard Double Reawaken to Immediate Double Reawaken to keep raid buff alignment for the rest of the fight. 
+
+The most optimal pot usage requires an extremely tight setup, and a single mistake will lose far more than the gain from the pot. This option should only be used if it lines up perfectly to do so. This option can only be performed if the GCD pressed at 11-12 seconds before Serpent's Ire is off cooldown is a combo starter. Furthermore, this sequence requires holding a Vicewinder charge so that two Vicewinders may be used during the sequence. Finally, you must have exactly one Rattling Coil stored going into this sequence. If a fight requires the usage of Uncoiled Fury for uptime, then this window becomes much less likely to be viable as the potency gain from using UF for uptime significantly outweighs the potency gain of putting it into pot buff. Any deviations from these conditions will automatically result in the sequence failing, and become a potency loss! 
+
+To perform this sequence: 
+
+1. At 11-12 seconds before Serpent's Ire is off cooldown, start a dual wield combo.  
+2. Take note of which Sting GCD will be used next.
+3. Start a Vicewinder combo after the dual wield combo starter. 
+4. If Hunter's Sting is the next Sting GCD, use Hunter's Coil first. If Swiftskin's Sting is the next Sting GCD, use Swiftskin's Coil first. *Failing to do this will cause the sequence to fail!* 
+5. Finish the Vicewinder combo.  
+6. Use the appropriate Sting GCD.
+7. Serpent's Ire should now be ready, and should be used here. 
+8. Finish the dual wield combo and pot in the first weave slot, then use Death Rattle. 
+9. Perform two Reawaken sequences back to back.
+10. Spend three Uncoiled Furies and their follow up oGCDs. 
+11. Start another Vicewinder combo.
+12. If the first Vicewinder combo started with Hunter's Coil, start this combo with Swiftskin's Coil. If the first started with Swiftskin's Coil, start with Hunter's Coil instead. *Failure to do so will result in personal buffs dropping, making the sequence a potency loss overall.*
+
+
+
+To visualize, the sequence looks like this:
+
+![](/img/jobs/vpr/vpr3ufpot.png)
+
+Remember that the dual wield combo GCDs could be their opposite options as well, depending on where this window is and how it lines up (i.e. Steel Fangs could be Reaving Fangs instead, Hunter's Sting could be Swiftskin's Sting, and the Flank finisher could be a Rear finisher instead).
+
+# 6. Triple Ouroboros in Pot Buff
+
+7.05 Changes make it more likely that there could be a possibility for a lossless triple under pot, but more testing needs to be done to confirm. For now, this section will remain here with a disclaimer that it may still be a loss, and we will update when we have more information. 
+
+# 7. Viper 10 Minute Rotation Overview
 
 Assuming full uptime, we can use the information above to have a general idea of the flow of the rotation over 10 mins while putting as much potency into party buffs as possible. We can reliably force a Standard Burst window with no issues following the standard rules discussed above until 6 minutes. Because VPR is a gauge positive job, we are able to use two Reawakens between the 6 and 8 minute burst window without compromising our ability to Double Reawaken at those windows. However, to compensate for this, we cannot use 4 Rattling Coils between 6 and 8 minutes, as they do not generate gauge. In order to have gauge for the 8 mins buffs, we spend only two of our four Rattling Coils between 6 and 8 minutes. This means we will cap at three Rattling Coils at the 8 min burst when we use Serpent’s Ire. 
 
@@ -154,10 +199,6 @@ The 10 minute burst can be a Standard Burst depending on party buffs' natural dr
 but Immediate is safer for getting the second Ouroboros into buffs.
 
 We care very little for the specific placement of Reawakens, twinblade combos, Rattling Coils, and dual wield combos outside of Double Reawaken as long as we keep our debuffs and buffs active, avoid dropping the combo finisher buff, and avoid overcapping Rattling Coils, twinblade stacks, and Offering gauge. Feel free to move things around as needed as long as these conditions are met. 
-
-# 7. Triple Ouroboros in Pot Buff
-
-7.05 Changes make it more likely that there could be a possibility for a lossless triple under pot, but more testing needs to be done to confirm. For now, this section will remain here with a disclaimer that it may still be a loss, and we will update when we have more information. 
 
 # 8. Buffless Party Compositions
 
