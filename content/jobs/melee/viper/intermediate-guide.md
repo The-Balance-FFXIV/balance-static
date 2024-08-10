@@ -126,9 +126,10 @@ In Dawntrail, the new potions are called Gemdraught of Dexterity. Like all pots 
 
 Using these rules can plan our pot uses for a full uptime fight based on the following:
 
-* A fight lasting between 6:30-8:00 will use a pot in the opener and a pot at 6:00 minutes.
+* A fight lasting between 6:30-7:00 will use a pot in the opener and a pot at 6:00 minutes.
+* A fight lasting between 7:00 and 8:00 will use a pot at 2:00 and 7:00. 
 
-  * Also do note that with Viper getting an extra Reawaken at 7 mins, this allows us to do pots at 2:00 and 7:00 if the fight allows for it, since we will get two Reawakens under the pot each time. This is stronger than an opener and 6:00 pot since the opener has less potency in the pot buff. 
+  * With Viper getting an extra Reawaken at 7 mins, this allows us to do pots at 2:00 and 7:00 if the fight allows for it, since we will get two Reawakens under the pot each time. This is stronger than an opener and 6:00 pot since the opener has less potency in the pot buff. 
 * A fight lasting between 8:30-9:00 will use a pot at 2:00 minutes and 8:00 minutes.
 * A fight lasting between 9:30-10:00 will get 3 uses of pot if used exactly on cooldown at the opener, 4:30, and 9:00.
 * A fight lasting between 10:30-12:00 can use a pot in the opener, a pot at 5:00, and a final pot at 10:00.
