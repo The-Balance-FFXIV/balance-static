@@ -52,17 +52,19 @@ Foul should be used similarly as before, replaced by Xenoglossy in single-target
 
 ## Level 90-99
 
-**Blizzard III > Blizzard IV -> Fire III > Fire IV x4 > Paradox > Fire IV x2 > Despair > repeat**
+**Blizzard III > Blizzard IV -> Paradox -> Fire III > Fire IV x4 > Paradox > Fire IV x2 > Despair > repeat**
 
-Paradox automatically replaces Fire on your hotbars when entering Astral Fire from Umbral Ice III with three Umbral hearts, which will happen naturally with the rotation.
+Paradox automatically replaces Fire and Blizzard on your hotbars when entering Astral Fire from Umbral Ice III with three Umbral hearts, as well as entering Umbral Ice from Astral Fire III which will happen naturally with the rotation. Note that if opening a fight with Blizzard III, the initial listed Paradox in Umbral Ice will not be available.
 
-Since Paradox is instant-cast, it is recommended to use four Fire IV casts before the Paradox to allow for maximum leeway on the Astral Fire timer.
+Since Paradox is instant-cast, it is recommended to use four Fire IV casts before the Paradox in Astral Fire to allow for maximum leeway on the Astral Fire timer.
 
 ## Level 100
 
-**Blizzard III > Blizzard IV -> Fire III > Fire IV x4 > Paradox > Fire IV x2 > Despair > Flare Star > repeat**
+**Blizzard III > Blizzard IV -> Paradox -> Fire III > Fire IV x4 > Paradox > Fire IV x2 > Despair > Flare Star > repeat**
 
-Upon execution of all six Fire IV casts in a single Astral Fire phase, the Astral Gauge fills up and allows for the use of Flare Star. Since Flare Star does not cost any MP, does not refresh the Astral Fire timer, and Astral Soul stacks are lost upon exiting Astral Fire, it is recommended to cast Flare Star after the Despair.
+Upon execution of all six Fire IV casts in a single Astral Fire phase, the Astral Gauge fills up and allows for the use of Flare Star. Since Flare Star does not cost any MP, does not refresh the Astral Fire timer, and Astral Soul stacks are lost upon exiting Astral Fire, it is recommended to cast Flare Star after the Despair.\
+\
+Note that if opening a fight with Blizzard III, the initial listed Paradox in Umbral Ice will not be available.
 
 See [the main guide](/jobs/casters/black-mage/basic-guide/#single-target-rotation) for further details and recommendations on playing the job at level 100.
 
