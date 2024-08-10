@@ -13,7 +13,7 @@ changelog:
 bis:
   - type: xivgearset
     name: max ilvl / ultimate sets
-    link: https://xivgear.app/?page=sl%7C675ec813-e5e7-43ab-8045-e694cb5ca5d6
+    link: https://xivgear.app/?page=sl%7Cab76bfa1-7da2-471f-9717-b36a4e1023b6
     description: >-
       These sets are for people who value ehp or want to start working towards
       Futures Rewritten (Ultimate).
@@ -29,7 +29,7 @@ bis:
 
 
       Please read the Information in the link to get a better idea on what to pick.
-    link: https://xivgear.app/?page=sl%7C968b2fda-6d65-4141-b275-40ee764e58f3
+    link: https://xivgear.app/?page=sl%7C777c18ea-7ba8-4302-ade5-dd391a4d0206
 authors:
   - Balance-SCH-Staff
 tags:
