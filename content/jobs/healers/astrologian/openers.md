@@ -2,6 +2,7 @@
 title: Astrologian Openers
 authors:
   - Balance-AST-Staff
+  - Ahriqi
 patch: "7.05"
 lastmod: 2022-09-21T23:34:41.839Z
 changelog:
