@@ -1,8 +1,8 @@
 ---
 title: Ninja Best in Slot (BiS)
 layout: bis
-patch: "6.55"
-lastmod: 2023-05-29T18:02:14.335Z
+patch: "7.05"
+lastmod: 2024-08-11T04:26:56.645Z
 changelog:
   - date: 2021-10-29T03:14:26.634Z
     message: Created page
@@ -22,6 +22,8 @@ changelog:
     message: Added updated TEA and DSR BiS sets
   - date: 2024-01-17T10:07:51.628Z
     message: Updated for 6.55
+  - date: 2024-08-11T04:27:03.186Z
+    message: Updated for Dawntrail
 bis:
   - type: xivgearset
     name: 7.05 NIN BIS (2.12)
