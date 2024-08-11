@@ -4,8 +4,8 @@ card_header_image: /img/jobs/nin/basic.png
 authors:
   - jackal
   - Balance-NIN-Staff
-patch: "6.4"
-lastmod: 2023-05-30T23:33:06.380Z
+patch: "7.05"
+lastmod: 2024-08-11T04:26:07.459Z
 changelog:
   - date: 2021-10-29T03:08:27.069Z
     message: Created page
@@ -21,6 +21,8 @@ changelog:
     message: Updated opener graphics for 6.3
   - date: 2023-05-25T20:42:23.204Z
     message: Updated to 6.4 (no changes)
+  - date: 2024-08-11T04:25:56.095Z
+    message: Updated for Dawntrail.
 ---
 
 
