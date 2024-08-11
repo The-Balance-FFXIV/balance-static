@@ -4,11 +4,13 @@ card_header_image: /img/jobs/nin/advanced.png
 authors:
   - jackal
   - Balance-NIN-Staff
-patch: "6.21"
-lastmod: 2022-09-26T03:12:18.245Z
+patch: "7.05"
+lastmod: 2024-08-11T04:26:35.867Z
 changelog:
   - date: 2021-11-15T21:10:36.223Z
     message: Added page
+  - date: 2024-08-11T04:26:36.557Z
+    message: Updated for Dawntrail
 ---
 
 
