@@ -126,11 +126,16 @@ In Dawntrail, the new potions are called Gemdraught of Dexterity. Like all pots 
 
 Using these rules can plan our pot uses for a full uptime fight based on the following:
 
-* A fight lasting less than 8:00 minutes, but more than 6:30 will use a pot in the opener and a pot at 6:00 minutes.
-* A fight lasting less than 9:00 mins but more than 8:30 will use a pot at 2:00 minutes and 8:00 minutes.
-* A fight lasting more than 9:30 but less than 10:00 will get 3 uses of pot if used exactly on cooldown at the opener, 4:30, and 9:00.
-* A fight lasting more than 10:30 but less than 12:00 can use a pot in the opener, a pot at 5:00, and a final pot at 10:00.
+* A fight lasting between 6:30-7:00 will use a pot in the opener and a pot at 6:00 minutes.
+* A fight lasting between 7:00 and 8:00 will use a pot at 2:00 and 7:00. 
+
+  * With Viper getting an extra Reawaken at 7 mins, this allows us to do pots at 2:00 and 7:00 if the fight allows for it, since we will get two Reawakens under the pot each time. This is stronger than an opener and 6:00 pot since the opener has less potency in the pot buff. 
+* A fight lasting between 8:30-9:00 will use a pot at 2:00 minutes and 8:00 minutes.
+* A fight lasting between 9:30-10:00 will get 3 uses of pot if used exactly on cooldown at the opener, 4:30, and 9:00.
+* A fight lasting between 10:30-12:00 can use a pot in the opener, a pot at 5:00, and a final pot at 10:00.
 * A fight lasting more than 12:00 can use a pot at the opener, 6:00, and 12:00. 
+
+There is some gray area where a partial pot use might still outweigh doing an earlier pot. For example, it may still be worth it to do 0, 4:30, 9:00 pots with a 9:20 kill time. However, if you have a fight dying consistently at 8:15 for example, then 2:00 and 7:00 pots would be better than 2:00 and 8:00. Use your best judgement based on expected kill times. As a general rule, what gets more pots/more total pot duration in the fight is often the better option. If your expected kill time is within a gray area where one option or another could be better, use the spreadsheet linked at the beginning of this guide to build the rotation and compare each option. 
 
 Historically, there has never been a fight without downtime that is longer than about 12:00 minutes, so planning past that point is not necessary. This is a general overview, and does not take into account fight specific optimizations where the group shifts their party buffs instead of using them on cooldown. *Fight specific optimizations take precedence but need to be properly planned out to avoid losses.*
 
@@ -164,8 +169,6 @@ To perform this sequence:
 10. Spend three Uncoiled Furies and their follow up oGCDs. 
 11. Start another Vicewinder combo.
 12. If the first Vicewinder combo started with Hunter's Coil, start this combo with Swiftskin's Coil. If the first started with Swiftskin's Coil, start with Hunter's Coil instead. *Failure to do so will result in personal buffs dropping, making the sequence a potency loss overall.*
-
-
 
 To visualize, the sequence looks like this:
 
