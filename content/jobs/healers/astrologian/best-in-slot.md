@@ -9,27 +9,26 @@ changelog:
   - date: 2024-01-29T22:59:32.336Z
     message: Updated TOP/DSR sets for 6.55
 bis:
-  - type: etro
-    description: "This set is for if you aren't raiding with a bard or you don't
-      know what you'll be raiding with. "
-    link: 83845599-bb32-4539-b829-971501856d7e
-    name: '":yuricry:" (2.34) - if you do not raid with a BRD '
-  - type: etro
-    description: The DH buff from BRD makes this set better than the other, it's
-      suggested to use the non-BRD set if you're doing pugs.
-    name: March 7th (2.33) - if you do raid with a BRD
-    link: 4da0c670-21b4-4f5e-8594-bb9cc311074e
-  - type: etro
-    description: This set is for people who are more comfortable with slower sets.
-    name: Rampardos Theorem
-    link: 60d1fcc9-8a2e-4e68-8205-f8b25a9de39a
-  - type: gsheets
-    description: You can find these and other sets listed with their DPS in the AST
-      gear calc. Please don't leave the master sheet open as it causes slowdown
-      when many people have the same sheet open. You can Make a Copy of the
-      sheet from the File menu.
-    link: https://docs.google.com/spreadsheets/d/1w-lpfQ2DeI-vveYwZlZEuBLXuaY3hVJFajBSZWM5JWo/edit#gid=743002648
-    name: AST dmg calc
+  - type: xivgearset
+    name: Max ilvl Sets
+    link: https://xivgear.app/?page=sl%7Ca5c31c4d-274b-4aa7-af4d-4bd0352aa412
+    description: >-
+      Use these sets for GENERAL PURPOSE, such as PF and reclears. The super
+      small damage loss is negligible in these situations, and the much higher
+      survivability matters a lot more. Get your clears. 
+
+
+      These will also be our sets for ultimate. Prep a set for yourself for the upcoming 7.1 FRU.
+  - type: xivgearset
+    name: Lower ilvl, Max Damage sets
+    link: https://xivgear.app/?page=sl%7C2d3f5173-bac8-43e4-be8a-a1d6b1fa66af
+    description: >-
+      Use these sets for SPEEDRUNNING, and OPTIMIZED ENVIRONMENTS. There is
+      objectively a damage gain to using these, and will be the better choice
+      generally for parse parties and speedrun environments. 
+
+
+      Do NOT use these for ultimate. If I catch any one of you running i710 left side for FRU, I'm cursing you with 0% Oracle crit rate for the rest of eternity.
   - type: etro
     description: ""
     name: SpS Relic - 2.31 TOP
