@@ -2,23 +2,30 @@
 title: Bard Openers
 authors:
   - Balance-BRD-Staff
-patch: "6.2"
-lastmod: 2021-12-18T15:20:03.894Z
+patch: "7.05"
+lastmod: 2024-08-12T02:09:40.474Z
 changelog:
   - date: 2021-10-26T02:31:00.147Z
     message: Created page
   - date: 2021-12-18T15:20:15.430Z
     message: Updated to 6.00 Opener
+  - date: 2024-08-12T02:09:45.016Z
+    message: Changed to 7.05 openers
 ---
 # Bard Openers
 
+There are a few other openers you will see around, but the two below are the main general-purpose intermediate options.
+
 For all openers:
 
-* Use Pitch Perfect at three stacks as able, Bloodletter as able, and Refulgent procs as you get them.
-* Hold Barrage until the next GCD if you already have an Refulgent proc.
-* The best potion as of 6.00 is high-quality Grade 5 Tincture of Dexterity. 
+* Any given Burst Shot in the image could be Refulgent Arrow, or vice versa save for the one using Barrage.
+* Use Pitch Perfect at three stacks as able, Heartbreak Shot as able, and Refulgent procs as you get them.
+* Try to use your first skill as the countdown hits zero (not before). This is aimed at aligning buffs long-term.
+* The best potion as of 7.05 is high-quality Grade 2 Gemdraught of Dexterity. 
 
-![Bard Level 90 6.00 Opener](/img/jobs/brd/brd_opener.png "Bard Level 90 6.00 Opener")
+![Bard Level 100 Standard Opener](/img/jobs/brd/adjusted-standard-opener.png "Bard Level 100 Standard Opener")
+
+![Bard Level 100 3-6-9 Opener](/img/jobs/brd/369-opener-b.png "Bard Level 100 3-6-9 Opener")
 
 - - -
 
@@ -33,6 +40,12 @@ Yes, by the next two-minute burst you will have gotten three more coda.
 > *Should I use Refulgent Arrow between Stormbite and Caustic Bite if I get a proc?*
 
 No, getting both DoTs up as soon as possible is slightly better.
+
+\--
+
+> *Should I burn Pitch Perfect at less than three stacks after the 24 (WM timer) proc?*
+
+No, go ahead and wait for the 21 proc. Even though it will lose one buff, this is an overall gain.
 
 \--
 
