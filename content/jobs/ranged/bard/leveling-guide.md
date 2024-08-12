@@ -57,7 +57,7 @@ Bard has a priority-based skill kit. In other words, your skill use boils down t
 
 As you level, you gain more weaponskill (GCDs) options, and abilities (oGCDs) you can use between them.
 
-## Levels 1-29
+# Levels 1-29
 
 ### GCDs
 
@@ -67,7 +67,7 @@ Your single-target priorities in these early levels look like:
 2. Use **Straight Shot** if it's available.
 3. Use **Heavy Shot** otherwise.
 
-In other words, press Heavy Shot most of the time, but hit Straight Shot when it triggers. A random effect like this is often called a "proc". Then at the start of each fight and every 45 seconds after, use Venomous Bite and get that damage over time rolling.
+In other words, press Heavy Shot most of the time, but hit Straight Shot when the **Hawk's Eye** effect triggers. A random effect like this is often called a "proc". Then at the start of each fight and every 45 seconds after, use Venomous Bite and get that damage over time rolling.
 
 Damage over time in this game deals its potency in damage every three seconds. So Venomous Bite does 100p initially, then 15p another 15 times for a total of 325p. That's more than double your Heavy Shot! So long a boss is not about to die, you want this on it.
 
@@ -89,9 +89,9 @@ The role skills **Leg Graze** and **Foot Graze** are neat when solo questing but
 
 Against two or more enemies, you can switch to spamming **Quick Nock** instead of your usual GCDs. Don't forget to use **Raging Strikes** and **Bloodletter**, even if the latter is single target. Free damage is free damage.
 
-At level 25, you will unlock **Wide Volley**. It is like Straight Shot, but for AoE. Each Quick Nock will have a chance to proc it. Note that it has a smaller hit area than Quick Nock - instead of a cone, it's a small circle around the middle of your targeted enemy. Try to avoid targeting oversized enemies on the outside of the pack.
+At level 25, you will unlock **Wide Volley**. It is like Straight Shot, but for AoE, and uses the same Hawk's Eye proc. Quick Nock has a chance to proc Hawk's Eye as well. Note that Wide Volley has a smaller hit area than Quick Nock - instead of a cone, it's a small circle around the middle of your targeted enemy. Try to avoid targeting oversized enemies and/or ones on the outside of the pack.
 
-## Levels 30-51
+# Levels 30-51
 
 ### GCDs
 
@@ -115,7 +115,7 @@ For most of your leveling, Mage's Ballad is the stronger of these two songs, so 
 
 You get a couple of potent abilities in these levels.
 
-**Barrage** gives you a **Straight Shot** proc, and triples your next single-target weaponskill. Naturally, you should use this on the Straight Shot that it gives you.
+**Barrage** gives you a bonus **Hawk's Eye** proc, and triples / buffs your next Straight Shot / Wide Volley respectively. It does not compete with your normal Hawk's Eye, so don't worry about needing to spend it before Barrage.
 
 **Battle Voice** is a powerful party buff on a two-minute cooldown. Use it with your other two-minute skills (Raging Strikes and Barrage) to get the most impact.
 
@@ -125,9 +125,9 @@ You also get **The Warden's Paean**. This utility skill cleanses or (usually) pr
 
 ### AoE
 
-Your multi-target damage gets a big boost from **Rain of Death**, an AoE version of Bloodletter. It's a shared cooldown, so Mage's Ballad gives you more uses of either. Otherwise, you're still spamming **Quick Nock** for your GCDs.
+Your multi-target damage gets a big boost from **Rain of Death**, an AoE version of Bloodletter. It's a shared cooldown, so Mage's Ballad gives you more uses of either. Otherwise, you're still spamming **Quick Nock** and **Wide Volley** for your GCDs.
 
-## Levels 52-55
+# Levels 52-55
 
 ### The Wanderer's Minuet
 
@@ -144,7 +144,7 @@ This is your strongest song, and enables you to keep a song running at all times
 
 Level 54 brings **Empyreal Arrow**, a simple 15-second cooldown ability that deals damage. Because it's so short, forgetting about it for a few seconds is a more meaningful loss. So try to get used to staying on top of it, as it will get more important later.
 
-## Levels 56-79
+# Levels 56-79
 
 ### Iron Jaws and an Opener
 
@@ -157,7 +157,7 @@ Your GCD priority now looks like:
 3. Use **Straight Shot** if it's available.
 4. Use **Heavy Shot** otherwise.
 
-As for Iron Jaws itself, note that it acts like a brand new appplication of your DoTs. This means that we want to use it under a lot of buffs to make those next 45 seconds of ticks extra strong.
+As for Iron Jaws itself, note that it acts like a brand new application of your DoTs. This means that we want to use it under a lot of buffs to make those next 45 seconds of ticks extra strong.
 
 This leads into the standard "opener". An "opener" is a skill sequence you want to start a fight with. The goals are to maximize initial burst, and set up your timings for the long term.
 
@@ -177,7 +177,7 @@ Each line here is a GCD plus up to two oGCDs you'd use before the next one:
 
 Note that you'll have other Pitch Perfect uses scattered around through this. The last one is to spend stacks before your buffs (Raging and Battle Voice) run out. This is worth doing, even though you get less potency per stack.
 
-This opener will be the standard all the way through level 90. You'll add a couple more oGCDs and go through some skill upgrades, but the structure does not change.
+This opener shell will be the standard all the way through to level 100. You'll add a couple more oGCDs and go through some skill upgrades, but the structure does not change.
 
 ### Later GCDs
 
@@ -199,7 +199,9 @@ At level 76, your Heavy Shot upgrades to **Burst Shot**. Your proc rate for Hawk
 
 At level 68, you get the trait **Enhanced Empyreal Arrow**. This causes Empyreal to trigger a Repertoire, making it even more valuable. In Wanderer's Minuet, if an upcoming Empyreal might overfill your Pitch Perfect stacks, use a two-stack Pitch Perfect to clear the way.
 
-## Levels 80-89
+The **Enhanced Army's Paeon** tooltip is a lot to parse out. In short, it gives you a weaker version of the Army's buff for the first 10s of your next song (even if Army's expired). This next song will normally be Wanderer's Minuet.
+
+# Levels 80-99
 
 ### Apex and Blast Arrow
 
@@ -219,12 +221,18 @@ Adding them into our GCD priority:
 
 In AoE situations, Apex Arrow especially is very strong, so try to line it up to hit as many targets as you can. 
 
-### Other Skills and Traits
+### Radiant Finale
 
-The **Enhanced Army's Paeon** tooltip is a lot to parse out. In short, it gives you a weaker version of the Army's buff for the first 10s of your next song (even if Army's expired). This next song will normally be Wanderer's Minuet.
+At level 90, you learn **Radiant Finale**, a party buff that scales with a new "coda" mechanic. You get coda when you use one of your main songs, one for each - so up to three. 
+
+Despite its 110 second cooldown, treat it like a 2-minute cooldown to be used along with Battle Voice. Specific ideal timing can vary, but for now just fit it into the GCD before Battle Voice + Raging Strikes.
+
+This includes using it with only one coda in the opener, as you will be back up to three coda for your second cycle's burst anyway.
+
+### Other Skills and Traits
 
 From 82-88, you'll get the Quick Nock upgrade **Ladonsbite**, a third Bloodletter charge, and a shorter Troubadour cooldown. While nice, these have little gameplay impact outside of more initial Bloodletters.
 
-- - -
+Level 92 upgrades Bloodletter into **Heartbreak Shot**, 94 adds a mix of potency buffs, and 98 buffs our Troubadour some more.
 
-Next is level 90 - congratulations! Check out the endgame [basics guide](/jobs/ranged/bard/basic-guide/) for a complete overview of Bard at level 90, much of which you've already read here. When you're more comfortable, you can check out the [advanced guide](/jobs/ranged/bard/advanced-guide/) for some finer details and small optimizations. Thanks for reading!
+More notably, level 96 adds **Resonant Arrow** as a follow-up skill to Barrage. It does not consume your Barrage buff, just adds a second skill to use after it. This will replace one of the filler GCDs in your opener / burst, as will **Radiant Encore** learned at level 100.
