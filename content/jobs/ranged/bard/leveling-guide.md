@@ -3,8 +3,8 @@ title: Bard Leveling Guide
 card_header_image: /img/jobs/brd/leveling.png
 authors:
   - TKCetonis
-patch: "6.3"
-lastmod: 2023-01-10T16:42:51.758Z
+patch: "7.05"
+lastmod: 2024-08-12T02:39:05.898Z
 changelog:
   - date: 2021-10-26T02:15:03.972Z
     message: Created page
@@ -12,6 +12,8 @@ changelog:
     message: (finally) Updated for Endwalker
   - date: 2023-01-10T16:42:54.569Z
     message: Updated for 6.3 changes
+  - date: 2024-08-12T02:39:07.899Z
+    message: Dawntrail update
 ---
 # Bard Leveling Guide
 
@@ -233,6 +235,6 @@ This includes using it with only one coda in the opener, as you will be back up 
 
 From 82-88, you'll get the Quick Nock upgrade **Ladonsbite**, a third Bloodletter charge, and a shorter Troubadour cooldown. While nice, these have little gameplay impact outside of more initial Bloodletters.
 
-Level 92 upgrades Bloodletter into **Heartbreak Shot**, 94 adds a mix of potency buffs, and 98 buffs our Troubadour some more.
+Level 92 upgrades Bloodletter into **Heartbreak Shot**, 94 adds a mix of potency buffs, and 98 buffs our Troubadour some more. Again, no gameplay impact, but nice things to get.
 
 More notably, level 96 adds **Resonant Arrow** as a follow-up skill to Barrage. It does not consume your Barrage buff, just adds a second skill to use after it. This will replace one of the filler GCDs in your opener / burst, as will **Radiant Encore** learned at level 100.
