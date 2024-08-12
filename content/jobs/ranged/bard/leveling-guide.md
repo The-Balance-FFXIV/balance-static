@@ -89,6 +89,8 @@ The role skills **Leg Graze** and **Foot Graze** are neat when solo questing but
 
 Against two or more enemies, you can switch to spamming **Quick Nock** instead of your usual GCDs. Don't forget to use **Raging Strikes** and **Bloodletter**, even if the latter is single target. Free damage is free damage.
 
+At level 25, you will unlock **Wide Volley**. It is like Straight Shot, but for AoE. Each Quick Nock will have a chance to proc it. Note that it has a smaller hit area than Quick Nock - instead of a cone, it's a small circle around the middle of your targeted enemy. Try to avoid targeting oversized enemies on the outside of the pack.
+
 ## Levels 30-51
 
 ### GCDs
@@ -136,13 +138,13 @@ This is your strongest song, and enables you to keep a song running at all times
 1. The Wanderer's Minuet for 42+ seconds
 2. Mage's Ballad for 42+ seconds
 3. Army's Paeon until Wanderer's is available again
-(repeat)
+   (repeat)
 
 ### Empyreal Arrow
 
 Level 54 brings **Empyreal Arrow**, a simple 15-second cooldown ability that deals damage. Because it's so short, forgetting about it for a few seconds is a more meaningful loss. So try to get used to staying on top of it, as it will get more important later.
 
-## Levels 56-75
+## Levels 56-79
 
 ### Iron Jaws and an Opener
 
@@ -161,15 +163,17 @@ This leads into the standard "opener". An "opener" is a skill sequence you want 
 
 Each line here is a GCD plus up to two oGCDs you'd use before the next one:
 
-1. Windbite (The Wanderer's Minuet + Raging Strikes)
-2. Venomous Bite (Empyreal Arrow + Bloodletter)
-3. Heavy Shot (Battle Voice) 
-4. Heavy Shot / Straight Shot (Barrage if Straight Shot is not proc'd)
-5. Heavy Shot / Straight Shot (Barrage if Straight Shot is not proc'd)
+1. Windbite (Bloodletter + The Wanderer's Minuet)
+2. Venomous Bite (Empyreal Arrow)
+3. Heavy Shot (Battle Voice + Raging Strikes) 
+4. Heavy Shot / Straight Shot (Barrage)
+5. Straight Shot 
 6. Heavy Shot / Straight Shot (Bloodletter)
-7. Heavy Shot / Straight Shot 
-8. Heavy Shot / Straight Shot (Empyreal Arrow + Bloodletter)
-9. Iron Jaws (Pitch Perfect)
+7. Heavy Shot / Straight Shot (Bloodletter)
+8. Heavy Shot / Straight Shot (Empyreal Arrow)
+9. Heavy Shot / Straight Shot
+10. Iron Jaws
+11. Heavy Shot / Straight Shot (Pitch Perfect)
 
 Note that you'll have other Pitch Perfect uses scattered around through this. The last one is to spend stacks before your buffs (Raging and Battle Voice) run out. This is worth doing, even though you get less potency per stack.
 
@@ -181,7 +185,9 @@ This opener will be the standard all the way through level 90. You'll add a coup
 
 **Refulgent Arrow** is likewise an upgrade to Straight Shot. The buff for the proc is still named "Straight Shot Ready", but it enables Refulgent Arrow now instead. Once again, use it the same way you did Straight Shot and enjoy the animation. (Note: This is the last skill that comes from job quests.)
 
-**Shadowbite** is like Refulgent Arrow, but for AoE. Each Quick Nock will have a chance to proc it. Note that it has a much smaller hit area than Quick Nock - a small circle around the middle of your targeted enemy. So you may want to skip using it if the enemies aren't tightly gathered.
+**Shadowbite** is a simple upgrade to **Wide Volley**.
+
+At level 76, your Heavy Shot upgrades to **Burst Shot**. Your proc rate for Hawk's Eye will also increase, and can now trigger on the initial hit of your DoT skills. It's not worth it to use Refulgent between Stormbite and Caustic Bite should it proc; get the other DoT up first.
 
 ### oGCDs and traits
 
@@ -193,20 +199,7 @@ This opener will be the standard all the way through level 90. You'll add a coup
 
 At level 68, you get the trait **Enhanced Empyreal Arrow**. This causes Empyreal to trigger a Repertoire, making it even more valuable. In Wanderer's Minuet, if an upcoming Empyreal might overfill your Pitch Perfect stacks, use a two-stack Pitch Perfect to clear the way.
 
-## Levels 76-89
-
-### Updated song cycle
-
-At level 76, your Heavy Shot upgrades to **Burst Shot**. This potency increase makes Army's Paeon slightly better than Mage's Ballad. As such, your new song cycle should be:
-
-1. The Wanderer's Minuet for 42+ seconds
-2. Mage's Ballad for 33+ seconds (change once the timer is at 12 or less)
-3. Army's Paeon until Wanderer's is available again
-(repeat)
-
-This is not a big deal, so don't worry if you mess it up from time to time at first. It's only a little bit more optimal.
-
-At the same time, your proc rate for Refulgent Arrow will increase, and can also trigger off of your DoT skills. It's not worth it to use Refulgent between Stormbite and Caustic Bite should it proc; get the other DoT up first.
+## Levels 80-89
 
 ### Apex and Blast Arrow
 
