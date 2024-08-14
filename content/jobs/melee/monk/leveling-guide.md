@@ -10,7 +10,7 @@ changelog:
     message: Added page
 ---
 ## Know Your Role
-
+test
 Melee DPS jobs have a unique mechanic in positionals. Certain actions will deal more damage when executed from the rear or flank of a target. Targets with continuous Target Rings will always take the increased damage from positional actions. \
 The Role Action True North allows you to disregard positional requirements for ten seconds per use.
 
