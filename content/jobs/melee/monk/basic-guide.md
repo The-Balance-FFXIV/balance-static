@@ -18,9 +18,9 @@ changelog:
 ---
 # **Basic Monk Guide**
 
-Welcome to the basic guide for Monk, which will cover all of the information necessary to get you off your feet and onto your hands while you kick some voidsent in the face. Included is a look into the various systems that come together to define the Monk playstyle, suggested openers, and explanations on how to correctly form burst windows. If your thirst for knowledge remains unsated once you reach the conclusion of this guide, head on over to the [Advanced guide](/jobs/melee/monk/advanced-guide/) where we will dive further into the depths of forbidden Monk information.
+Welcome to the basic guide for Monk, which will cover all of the information necessary to get you off your feet and onto your hands. Included is a look into the various systems that come together to define the Monk playstyle, suggested openers, and explanations on how to correctly form burst windows.
 
-Throughout this guide I will be referring to all skills as if you were level 90. This is significant if you're still leveling, as some skills start out with a different name and upgrade upon reaching a certain level. The skills affected by this are as follows:
+Throughout this guide we will be referring to all skills as if you were level 100. This is significant if you are still leveling, as some skills start out with a different name and upgrade upon reaching a certain level. The skills affected by this are as follows:
 
 | Initial  Name        | Upgraded Name           |
 | -------------------- | ----------------------- |
@@ -29,6 +29,10 @@ Throughout this guide I will be referring to all skills as if you were level 90.
 | Howling Fist         | Enlightenment           |
 | Flint Strike         | Rising Phoenix          |
 | Tornado Kick         | Phantom Rush            |
+| Elixir Field | Elixir Burst |
+| Bootshine | Leaping Opo |
+| True Strike | Rising Raptor |
+| Snap Punch | Pouncing Coeurl |
 
 - - -
 
@@ -47,7 +51,7 @@ Of course uptime isn't exclusively important to Monk, but it *is* a key aspect t
 It's unlikely that you've made the decision to play Monk while remaining unaware of the P-word, but in case you've not come across it before, a "positional" is a skill that only gains maximum effect when used at a specific part of an enemy's hitbox: in Monk's case, either flank or rear. Alas, where we once had six positionals, in Endwalker we've been reduced to having simply two:
 
 * **Demolish** deals maximum damage when executed from behind an enemy.
-* **Snap Punch**, on the other hand, is best used from an enemy's flank (side).
+* **Pouncing Coeurl**, on the other hand, is best used from an enemy's flank (side).
 
 Missing either positional is a 60 potency loss, which will add up over a fight. Try to ensure you're never missing any positionals.
 
@@ -63,9 +67,9 @@ Forms are a concept unique to Monk, and are what separates it from standard comb
 
 You have three forms: Opo-Opo, Raptor, and Coeurl:
 
-* In Opo-Opo form, Bootshine, Dragon Kick, and Shadow of the Destroyer gain additional effects. Using an Opo-opo GCD grants you Raptor form.
-* In Raptor form, True Strike, Twin Snakes, and Four-point Fury gain additional effects. Using a Raptor GCD grants you Coeurl form.
-* In Coeurl form, Demolish, Snap Punch, and Rockbreaker gain additional effects. Using a Coeurl GCD grants you Opo-opo form.
+* In Opo-Opo form, Leaping Opo, Dragon Kick, and Shadow of the Destroyer gain additional effects. Using an Opo-opo GCD grants you Raptor form.
+* In Raptor form, Rising Raptor, Twin Snakes, and Four-point Fury gain additional effects. Using a Raptor GCD grants you Coeurl form.
+* In Coeurl form, Pouncing Coeurl, Snap Punch, and Rockbreaker gain additional effects. Using a Coeurl GCD grants you Opo-opo form.
 
 - - -
 
