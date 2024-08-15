@@ -37,7 +37,6 @@ As a Bard, you won’t have a set rotation. Instead, Bard skill usage is based o
 
 Between songs, procs, and its pair of damage over time (DoT) debuffs, Bard can feel like it has a lot to keep an eye on. But with practice, you’ll get the hang of it.
 
-
 # Core Concepts
 
 ## ALWAYS BE CASTING!!
@@ -56,7 +55,6 @@ As a Ranged DPS, you have full freedom of movement. You can make use of this to 
 
 However - Try to stay at a medium to close distance by default. Party heals (and buffs!) have a range, and you want those to reach you. If you die because you were too far away and missed a heal, that’s your fault, not the healers'.
 
-
 # Rotation - General
 
 As is the norm in FFXIV, Bard operates on a two-minute "rotation". That means every two minutes we repeat the same pattern of skill uses, give or take the various random elements of Bard.
@@ -65,17 +63,14 @@ Each two minute cycle starts with a "burst", aiming to use your highest-damage s
 
 After the burst, Bard settles into its core gameplay pattern, which we'll cover first. The opener / burst sequence involves more skills and specifics, so that will come after.
 
-
 ## Normal GCD usage
 
 Outside of burst, which GCD skill to use on Bard is simple: Press Burst Shot, or Refulgent Arrow if it's available. This makes up 90% of your GCDs. The two exceptions are:
 
-- Use Iron Jaws if your damage over time (DoT) debuffs - Stormbite and Caustic Bite - are about to run out. Or, re-apply them if they do fall off. You have breathing room here, so don't be afraid to use it with 4-7 seconds left until you're more comfortable.
-
-- Aim to fire Apex Arrow and Blast Arrow around halfway through Mage's Ballad (more on that shortly), by about 21-19s on the timer. Or sooner, if your Soul Gauge hits 100 early.
+* Use Iron Jaws if your damage over time (DoT) debuffs - Stormbite and Caustic Bite - are about to run out. Or, re-apply them if they do fall off. You have breathing room here, so don't be afraid to use it with 4-7 seconds left until you're more comfortable.
+* Aim to fire Apex Arrow and Blast Arrow around halfway through Mage's Ballad (more on that shortly), by about 21-19s on the timer. Or sooner, if your Soul Gauge hits 100 early.
 
 Between keeping an eye on your songs (below) and your DoTs, it can feel like a lot to track at first, but you'll get it down with practice. 
-
 
 ## The song cycle
 
@@ -87,7 +82,7 @@ You should always have one of your three songs running while in combat. Because 
 
 #### Song order
 
-The best way to cover two minutes with the three songs is to spend ~43 seconds in Wanderer's Minuet, ~43 seconds in Mage's Ballad (leaving as the timer hits 3-2 in both cases), then ~34 seconds in Army's Paeon (leaving at 12-10 on the timer).
+The best way to cover two minutes with the three songs is to spend \~43 seconds in Wanderer's Minuet, \~43 seconds in Mage's Ballad (leaving as the timer hits 3-2 in both cases), then ~34 seconds in Army's Paeon (leaving at 12-10 on the timer).
 
 Wanderer's is Bard's strongest song, followed not too far behind by Mage's Ballad. Army's Paeon is a decent bit weaker, so it's the one to cut short.
 
@@ -119,33 +114,32 @@ Your opener and burst are a more specific sequence of skills. The goals are to b
 
 You may see other models around, but for starting out the standard opener is a solid go-to.
 
-[[IMAGE]]
+![](/img/jobs/brd/standard-opener.png "Bard Standard Opener (basic)")
 
+\
 A few details:
 
-- Use Heartbreak Shots, Refulgent Arrows, and three-stack Pitch Perfects as able. They aren’t all displayed here. (and any given Burst or Refulgent in the image could be vice versa).
-
-- It’s worth dumping any Pitch Perfect stacks you have (even just one) before buffs run out. Hence the usage shown at the end.
-
-- If you have some combat detection lag making it hard to use Minuet quickly, send a Heartbreak Shot before the Stormbite.
+* Use Heartbreak Shots, Refulgent Arrows, and three-stack Pitch Perfects as able. They aren’t all displayed here. (and any given Burst or Refulgent in the image could be vice versa).
+* It’s worth dumping any Pitch Perfect stacks you have (even just one) before buffs run out. Hence the usage shown at the end.
+* If you have some combat detection lag making it hard to use Minuet quickly, send a Heartbreak Shot before the Stormbite.
 
 ## Two-minute burst
 
 Every two minutes after your opener, you want to do a similar sequence. Thanks to the Enhanced Army's Paeon trait it will be a little different, but the idea is the same. 
 
-[[IMAGE]]
+![](/img/jobs/brd/standard-burst-basic-.png "Bard Standard Burst (basic)")
 
+\
 The same notes from the opener apply. Once you're into the fight, you should have Apex Arrow and Blast Arrow here, making a total of six key GCDs you want to use while all buffs are up:
 
-- Apex Arrow
-- Blast Arrow
-- A Barrage-buffed Refulgent Arrow
-- Resonant Arrow
-- Radiant Encore
-- Iron Jaws
+* Apex Arrow
+* Blast Arrow
+* A Barrage-buffed Refulgent Arrow
+* Resonant Arrow
+* Radiant Encore
+* Iron Jaws
 
 The exact order you use these six is not a big deal, though if your soul gauge is full you do want to get that Apex off. 
-
 
 # Dungeons and AoE
 
@@ -165,24 +159,23 @@ In your other songs, you don't have a lot of focus damage aside from auto-attack
 
 On top of some shared basics, Bard has a few unique utility skills that can come in quite handy. Don't forget to use them!
 
-Troubadour - Simply enough, try to use this when the party is going to take a lot of damage. In harder content, your healers should be able to tell you when they want it. If they haven’t, make the best guesses you can.
+**Troubadour** - Simply enough, try to use this when the party is going to take a lot of damage. In harder content, your healers should be able to tell you when they want it. If they haven’t, make the best guesses you can.
 
-Nature’s Minne - This increases all healing received by party members in range. It’s similar in purpose to Troubadour, but affecting heals changes some of the use cases and timing.
+**Nature’s Minne** - This increases all healing received by party members in range. It’s similar in purpose to Troubadour, but affecting heals changes some of the use cases and timing.
 
-The Warden’s Paean - Cleanses any debuff with a little white bar over the icon. While rare in challenge content, you'll see these in dungeons and alliance raids on occasion. So keep an eye out, especially for Doom and Paralyze. Warden’s can even prevent a debuff in advance too (usually).
+**The Warden’s Paean** - Cleanses any debuff with a little white bar over the icon. While rare in challenge content, you'll see these in dungeons and alliance raids on occasion. So keep an eye out, especially for Doom and Paralyze. Warden’s can even prevent a debuff in advance too (usually).
 
-Second Wind - A simple self-heal. It’s useful for solo play, and also if you need more healing than the rest of your party for any reason.
+**Second Wind** - A simple self-heal. It’s useful for solo play, and also if you need more healing than the rest of your party for any reason.
 
-Arm’s Length - Canceling a knockback can be useful sometimes, so have this ready on your hotbar. Note that there are a few knockback mechanics that ignore it.
+**Arm’s Length** - Canceling a knockback can be useful sometimes, so have this ready on your hotbar. Note that there are a few knockback mechanics that ignore it.
 
-Head Graze - Cancels enemy casts that have a shaking red bar. Most things you’re expected to cancel will have long cast times. Don’t worry about hitting quick casts like spell attacks from sprites.
+**Head Graze** - Cancels enemy casts that have a shaking red bar. Most things you’re expected to cancel will have long cast times. Don’t worry about hitting quick casts like spell attacks from sprites.
 
-Repelling Shot - This is never necessary, but sometimes it can make a dodge or spread out mechanic a little more comfortable.
+**Repelling Shot** - This is never necessary, but sometimes it can make a dodge or spread out mechanic a little more comfortable.
 
-Peloton
-Peloton - Only usable out of combat, but speeds the party up a bit from one pull to the next. Good for getting commendations sometimes.
+**Peloton** - Only usable out of combat, but speeds the party up a bit from one pull to the next. Good for getting commendations sometimes.
 
-Leg Graze & Foot Graze - It has been several years since these have been useful in endgame group content. They’re handy sometimes in solo-friendly content if you need to kite or run away. That’s about it though.
+**Leg Graze & Foot Graze** - It has been several years since these have been useful in endgame group content. They’re handy sometimes in solo-friendly content if you need to kite or run away. That’s about it though.
 
 - - -
 
