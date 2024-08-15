@@ -42,7 +42,7 @@ Defensive actions like Feint and Arm's Length as well as healing actions like Bl
 
 At its core, Monk's rotation is about progressing through your three forms; Opo-Opo, Raptor, and Coeurl. At each step you have three different GCDs to choose from; a Spender GCD, a Gainer or generator GCD, or an AoE GCD. At the center of the decision process between the Spender GCDs and Gainer GCDs is the new fancy gauge that Monk has received in Dawntrail. 
 
-(image of Beast Fury gauge here)
+![](https://lds-img.finalfantasyxiv.com/promo/h/K/qmlyJdSzJGbzjAthwERvxkLMNU.png)
 
 Your Gainer Gcds, namely Dragon Kick, Twin Snakes and Demolish, will grant full Beast Fury stacks (affectionately called "Balls"). Your Spender GCDs can spend up to 1 Ball on each use, granting increased potency if they succesfully spend a Ball. The Spender GCDs are Bootshine, True Strike and Snap Punch, which at Level 92 will receive their upgrades, Leaping Opo, Rising Raptor and Pouncing Coeurl, aptly named after the respective form they can be used in.
 
