@@ -65,16 +65,16 @@ After the burst, Bard settles into its core gameplay pattern, which we'll cover 
 
 ## Normal GCD usage
 
-Outside of burst, which GCD skill to use on Bard is simple: Press Burst Shot, or Refulgent Arrow if it's available. This makes up 90% of your GCDs. The two exceptions are:
+Outside of burst, which GCD skill to use on Bard is simple: Press **Burst Shot**, or **Refulgent Arrow** if it's available. This makes up 90% of your GCDs. The two exceptions are:
 
-* Use Iron Jaws if your damage over time (DoT) debuffs - Stormbite and Caustic Bite - are about to run out. Or, re-apply them if they do fall off. You have breathing room here, so don't be afraid to use it with 4-7 seconds left until you're more comfortable.
-* Aim to fire Apex Arrow and Blast Arrow around halfway through Mage's Ballad (more on that shortly), by about 21-19s on the timer. Or sooner, if your Soul Gauge hits 100 early.
+* Use **Iron Jaws** if your damage over time (DoT) debuffs - Stormbite and Caustic Bite - are about to run out. Or, re-apply them if they do fall off. You have breathing room here, so don't be afraid to use it with 4-7 seconds left until you're more comfortable.
+* Aim to fire **Apex Arrow** and **Blast Arrow** around halfway through Mage's Ballad (more on that shortly), by about 21-19s on the timer. Or sooner, if your Soul Gauge hits 100 early.
 
 Between keeping an eye on your songs (below) and your DoTs, it can feel like a lot to track at first, but you'll get it down with practice. 
 
 ## The song cycle
 
-Bard has three main songs you can use for up to 45 seconds at a time: The Wanderer’s Minuet (WM), Mage’s Ballad (MB), and Army’s Paeon (AP). They have two-minute cooldowns, so cycling through these songs forms the backbone of your rotation. Song swaps serve as touchpoints, and alter your gameplay slightly as you go.
+Bard has three main songs you can use for up to 45 seconds at a time: **The Wanderer’s Minuet** (WM), **Mage’s Ballad** (MB), and **Army’s Paeon** (AP). They have two-minute cooldowns, so cycling through these songs forms the backbone of your rotation. Song swaps serve as touchpoints, and alter your gameplay slightly as you go.
 
 Each song gives a small (but always-on) buff to the party, and has an 80% chance to trigger an effect (a repertoire "proc") every three seconds. The timing aligns with the song timer - procs can occur at 42 seconds on the timer, 39 seconds and so on. In addition to the song-specific effect, each proc gives 5 Soul Gauge.
 
@@ -90,7 +90,7 @@ Wanderer's is Bard's strongest song, followed not too far behind by Mage's Balla
 
 Depending on what song you're in, there will be some minor skill use differences. 
 
-In Wanderer's Minuet, procs give stacks to spend on Pitch Perfect, up to three. Try to always use it at three, unless you are worried about Empyreal Arrow (which triggers a proc) overflowing you. Also, spend whatever you have before you leave for Mage's Ballad.
+In Wanderer's Minuet, procs give stacks to spend on **Pitch Perfect**, up to three. Try to always use it at three, unless you are worried about Empyreal Arrow (which triggers a proc) overflowing you. Also, spend whatever you have before you leave for Mage's Ballad.
 
 In Mage's Ballad, procs give you half a charge of Heartbreak Shot. They can fill up fast, but if you use Heartbreak as able you should be fine.
 
@@ -100,11 +100,11 @@ In Army's Paeon, your GCD and auto-attacks up to 16% faster as you get procs. Ma
 
 Outside of songs and the Minuet-only Pitch Perfect, you have a few other off-global damage skills to mind.
 
-Empyreal Arrow is the most important - not only does it deal damage, but it also gives a repertoire proc, and on a short 15-second cooldown. In optimized rotation plans, effort goes into trying to keep EA on a clean every 15.0 second schedule. But for starting out, just try not to let it sit off cooldown for more than a second or two.
+**Empyreal Arrow** is the most important - not only does it deal damage, but it also gives a repertoire proc, and on a short 15-second cooldown. In optimized rotation plans, effort goes into trying to keep EA on a clean every 15.0 second schedule. But for starting out, just try not to let it sit off cooldown for more than a second or two.
 
-Heartbreak Shot is available beyond just Mage's Ballad. As a charged action it's very flexible, just keep it from hitting a full three stacks and you're good. (At three stacks, it is no longer on cooldown, so avoiding that means it's always charging a new stack)
+**Heartbreak Shot** is available beyond just Mage's Ballad. As a charged action it's very flexible, just keep it from hitting a full three stacks and you're good. (At three stacks, it is no longer on cooldown, so avoiding that means it's always charging a new stack)
 
-Lastly, Sidewinder will come off cooldown once between bursts, around the middle of Mage's Ballad. Try to use it quickly so that it comes back on time for the next burst.
+Lastly, **Sidewinder** will come off cooldown once between bursts, around the middle of Mage's Ballad. Try to use it quickly so that it comes back on time for the next burst.
 
 # Opener and Burst
 
@@ -143,7 +143,7 @@ The exact order you use these six is not a big deal, though if your soul gauge i
 
 # Dungeons and AoE
 
-In dungeons, your AoE (area of effect) rotation is much the same as on a single-target. Ladonsbite, Shadowbite and Rain of Death replace Burst Shot, Refulgent Arrow and Heartbreak Shot respectively.
+In dungeons, your AoE (area of effect) rotation is much the same as on a single-target. **Ladonsbite**, **Shadowbite** and **Rain of Death** replace Burst Shot, Refulgent Arrow and Heartbreak Shot respectively.
 
 You can use your songs in the same order, and do not be afraid to use your buffs and big two-minute skills on trash. Remember that Barrage does buff Shadowbite, even if it does not triple it.
 
