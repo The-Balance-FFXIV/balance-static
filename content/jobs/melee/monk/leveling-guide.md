@@ -44,7 +44,7 @@ At its core, Monk's rotation is about progressing through your three forms; Opo-
 
 ![](https://lds-img.finalfantasyxiv.com/promo/h/K/qmlyJdSzJGbzjAthwERvxkLMNU.png)
 
-Your Gainer Gcds, namely Dragon Kick, Twin Snakes and Demolish, will grant full Beast Fury stacks (affectionately called "Balls"). Your Spender GCDs can spend up to 1 Ball on each use, granting increased potency if they succesfully spend a Ball. The Spender GCDs are Bootshine, True Strike and Snap Punch, which at Level 92 will receive their upgrades, Leaping Opo, Rising Raptor and Pouncing Coeurl, aptly named after the respective form they can be used in.
+Your Gainer Gcds, namely Dragon Kick, Twin Snakes and Demolish, will grant full Beast Fury stacks (affectionately called "Balls"). Your Spender GCDs can spend up to 1 Ball on each use, granting increased potency if they succesfully spend a Ball. The Spender GCDs are Bootshine, True Strike and Snap Punch, which at Level 92 will receive their upgrades, Leaping Opo, Rising Raptor and Pouncing Coeurl, aptly named after the respective form they can be used in. The Goal is to use Spenders while Balls are available in the respective form, and use Gainers while no Balls are available to fill the gauge back up.
 
 Your AoE GCDs are worth using on 3 or more targets.
 
