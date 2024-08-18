@@ -4,7 +4,7 @@ authors:
   - ToraelValdis
   - Balance-VPR-Staff
 patch: "7.05"
-lastmod: 2024-08-09T21:04:20.826Z
+lastmod: 2024-08-18T18:50:11.549Z
 changelog:
   - date: 2024-06-20T05:44:33.192Z
     message: Guide added to website
@@ -12,6 +12,8 @@ changelog:
     message: Updated for patch 7.05
   - date: 2024-08-09T21:04:22.341Z
     message: "Added optimal pot windows to Medicated section. "
+  - date: 2024-08-18T18:50:12.444Z
+    message: Added Triple Reawaken information
 ---
 # Introduction
 
