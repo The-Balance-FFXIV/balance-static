@@ -197,6 +197,10 @@ With these out of the way, the rules for how to perform a Triple Reawaken under 
 
    * It is possible to use an Uncoiled Fury immediately after the first Vicewinder in the sequence, but it **must** be done before using either of the two Coil GCDs, or buffs are guaranteed to drop. 
 
+![](/img/jobs/vpr/vpr3rapot.png)
+
+If performed correctly, this sequence should result in a net gain of about 134 potency at 2.10 and faster, and 72 potency at 2.11 and 2.12 (due to Hunter's Instinct dropping just before the second Hunter's Coil cast, losing 62 potency) over the strongest non-Triple option, the Three Uncoiled Fury pot. 
+
 # 7. Viper 10 Minute Rotation Overview
 
 Assuming full uptime, we can use the information above to have a general idea of the flow of the rotation over 10 mins while putting as much potency into party buffs as possible. We can reliably force a Standard Burst window with no issues following the standard rules discussed above until 6 minutes. Because VPR is a gauge positive job, we are able to use two Reawakens between the 6 and 8 minute burst window without compromising our ability to Double Reawaken at those windows. However, to compensate for this, we cannot use 4 Rattling Coils between 6 and 8 minutes, as they do not generate gauge. In order to have gauge for the 8 mins buffs, we spend only two of our four Rattling Coils between 6 and 8 minutes. This means we will cap at three Rattling Coils at the 8 min burst when we use Serpent’s Ire. 
