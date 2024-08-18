@@ -178,7 +178,19 @@ Remember that the dual wield combo GCDs could be their opposite options as well,
 
 # 6. Triple Ouroboros in Pot Buff
 
-7.05 Changes make it more likely that there could be a possibility for a lossless triple under pot, but more testing needs to be done to confirm. For now, this section will remain here with a disclaimer that it may still be a loss, and we will update when we have more information. 
+The changes to Viper in patch 7.05 allowed for more flexibility in rotational optimization with the removal of one restrictive timer and the extension of another. This left us with only two 40 second timers: Swiftscaled and Hunter's Instinct. Our remaining timers are 60 seconds long, and therefore aren't going to be a concern. This change is very important for the possibility of the fabled Triple Reawaken, because before 7.05 you would at minimum drop two buffs, making it instantly a significant potency loss to attempt. Now however, Triple is not only possible, but a potency gain. Remember that because party buffs are only 20 seconds, Triple is only a personal pot optimization, and does not put extra potency into party buffs. 
+
+There is a very important reason why this is possible even though mathematically the sequence takes slightly longer than 40 seconds, so you'd expect your 40 second buffs to expire. However, when you apply Hunter's Instinct or Swiftscaled, the timer is applied as soon as you press the button, but pauses until the damage application. This effectively makes the timer actually 40s + application delay. There is a chart at the end of this guide with application delays for all Viper abilities for reference. This makes Hunter's Instinct applied by Hunter's Coil last about 40.98 seconds, and Swiftscaled from Swiftskin's Coil last about 41.47 second. This is important because we will be using Hunter's and Swiftskin's Coils to refresh our buffs at the start of the sequence. 
+
+Before we get into how Triple Reawaken is performed, some disclaimers need to be made. First, this is virtually always going to require spreadsheeting to determine if it is actually worth it to use in a real fight. Depending on how the sequence lines up based on the fight, this sequence could be misaligned from raid buffs and put slightly less potency into them than a Standard Double Reawaken. Second, depending on when this window is attempted in the fight, its very likely that Serpent's Ire will need to be delayed to make the sequence work. This has the potential for issues later depending on fight specifics, especially quicker kill times that would potentially cause a lost reawaken from the delayed use. Third, this window is extremely tight to pull off correctly, and a single mistake will lose more potency than you would have gained. Finally, this sequence is a gain on any GCD speed, but is less of a gain on 2.11 and 2.12. 2.10 and faster will be able to retain the Hunter's Instinct buff through the entire sequence, but 2.11 and 2.12 will drop the buff right before refreshing it, losing a bit of potency. However, it is still a net gain on all speeds.
+
+With these out of the way, the rules for how to perform a Triple Reawaken under pot are as follows: 
+
+1. Spreadsheet based on fight specifics to ensure it is worth it!
+2. Dual wield combo finisher must have been the last dual wield GCD used before starting this sequence.
+3. Two Vicewinder charges will be used during the sequence. Ensure one will be available each time it is needed. Holding a charge from earlier in the fight may be required for this.
+4. Must have a minimum of 90 Serpent Offerings before starting the sequence. Overcapping gauge to have the appropriate amount is only acceptable if it will not cause a lost use of Reawaken (see point 1!).
+5.
 
 # 7. Viper 10 Minute Rotation Overview
 
