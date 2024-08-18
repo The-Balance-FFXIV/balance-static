@@ -1,8 +1,8 @@
 ---
 title: Samurai FAQ
 layout: qna
-patch: "6.55"
-lastmod: 2024-01-17T04:35:22.359Z
+patch: "7.05"
+lastmod: 2024-08-18T06:27:15.418Z
 changelog:
   - date: 2021-10-28T03:27:15.029Z
     message: Created page
@@ -55,21 +55,11 @@ qna:
       Midare which is the point for Higanbana to be 100% worth doing. Depending
       on your killtime or if it grants you an extra usage of Shoha it may be
       worthwhile to use Higanbana even if it would not tick for 45s or more.
-  - question: "Is Kaeshi: Higanbana Worth Using?"
-    answer: >-
-      **Short Answer: No. Never.**
-
-
-      It is important to note that the DoT from Kaeshi: Higanbana does not stack with the DoT from regular Higanbana. This makes it obvious from even a cursory glance at the tooltip that it has no use case in single-target situations. What might not be obvious though is that, in fact, Kaeshi: Higanbana has no use case in any situation - ever.
-
-
-      The Sen efficiency of using our Tsubame cooldown on Midare is quite literally impossible to beat. In short, it is always better to use Tsubame on Kaeshi: Setsugekka and then apply a manual Higanbana to our second target than it is to ever use Kaeshi: Higanbana because it costs just three GCDs to do so compared to the nine to fire off another Midare. I have created a simple potency table to illustrate how this works.
-
-
-      Each line is a GCD. Yellow numbers indicate where total damage at that GCD is equal between rotations. Red numbers mean that rotation is underperforming compared to the other. And green numbers mean that rotation is outperforming the other.
-
-
-      ![Is Kaehi: Higibana Worth Using?](https://cdn.discordapp.com/attachments/752334526449057853/884903581537427466/unknown.png)
+  - question: "Why is there a Hissatsu: Gyoten in the opener?"
+    answer: "Hissatsu: Gyoten is the same potency per kenki as Hissatsu: Shiten. If
+      we didn't use it in the opener, we would leave the sequence with 10
+      remaining kenki, which could've been used inside of our pot window to
+      squeeze out as much damage as we can."
 authors:
   - Balance-SAM-Staff
 ---
