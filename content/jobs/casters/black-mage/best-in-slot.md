@@ -18,6 +18,8 @@ changelog:
     message: Created page
   - date: 2024-07-22T02:46:38.040Z
     message: Updated for 7.0
+  - date: 2024-08-18T02:26:30.602Z
+    message: Updated for 7.05
 bis:
   - type: xivgearset
     name: Early Savage Prog Sets
