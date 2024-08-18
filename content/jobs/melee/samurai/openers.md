@@ -15,6 +15,8 @@ changelog:
     message: Updated for 6.5
   - date: 2024-01-17T05:41:31.459Z
     message: Updated for 6.55
+  - date: 2024-08-18T06:24:39.596Z
+    message: Updated for 7.05
 tags: []
 ---
 Your standard opener which will be used in the majority of encounters. Due to phasing, in some instances it may be best to begin with Kasha into Gekko instead.
