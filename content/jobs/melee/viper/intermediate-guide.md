@@ -189,13 +189,14 @@ With these out of the way, the rules for how to perform a Triple Reawaken under 
 1. Spreadsheet based on fight specifics to ensure it is worth it!
 2. Dual wield combo finisher must have been the last dual wield GCD used before starting this sequence.
 3. Two Vicewinder charges will be used during the sequence. Ensure one will be available each time it is needed. Holding a charge from earlier in the fight may be required for this.
-4. Must have a minimum of 90 Serpent Offerings before starting the sequence. Overcapping gauge to have the appropriate amount is only acceptable if it will not cause a lost use of Reawaken (see point 1!).
-5. Hunter's Coil and Swiftskin's Coil must be used in the same order for both Vicewinder combos. Swapping the order for the second set will guarantee dropped buffs.
-6. Pot must be weaved as late as possible without clipping to guarantee the final Ouroboros is buffed.
-7. Ire can be triple weaved after the second Coil GCD of the first Vicewinder combo at low ping if it will not result in a clip. If it would clip, Ire must be delayed until after the first Ouroboros.
-8. Must have zero stacks of Rattling Coils before starting the sequence. Failure to do so will result in overcapping. Overcapping may be acceptable if there would not be enough time to get the final Uncoiled Fury casts anyway (see point 1!). 
+4. Must have zero stacks of Rattling Coils before starting the sequence. Failure to do so will result in overcapping. Overcapping may be acceptable if there would not be enough time to get the final Uncoiled Fury casts anyway (see point 1!). 
 
    * It is possible to use an Uncoiled Fury immediately after the first Vicewinder in the sequence, but it **must** be done before using either of the two Coil GCDs, or buffs are guaranteed to drop. 
+5. Must have a minimum of 90 Serpent Offerings before starting the sequence. Overcapping gauge to have the appropriate amount is only acceptable if it will not cause a lost use of Reawaken (see point 1!).
+6. Ire can be triple weaved after the second Coil GCD of the first Vicewinder combo at low ping if it will not result in a clip. If it would clip, Ire must be delayed until after the first Ouroboros.
+7. Pot may be weaved as late as possible without clipping to guarantee the final Ouroboros is buffed, however there should be enough time to catch the Ouroboros even without doing this. 
+8. Hunter's Coil and Swiftskin's Coil must be used in the same order for both Vicewinder combos. Swapping the order for the second set will guarantee dropped buffs.
+9. Dual wield combo buffs will be close to falling off at the end of this sequence. Ensure they do not fall off by doing another dual wield combo before spending all banked Uncoiled Fury stacks. 
 
 ![](/img/jobs/vpr/vpr3rapot.png)
 
