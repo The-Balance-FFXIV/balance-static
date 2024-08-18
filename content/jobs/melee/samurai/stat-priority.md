@@ -1,6 +1,6 @@
 ---
 title: Samurai Stat Priority
-patch: "6.55"
+patch: "7.05"
 lastmod: 2024-08-18T07:44:19.718Z
 changelog:
   - date: 2021-10-28T03:34:12.784Z
