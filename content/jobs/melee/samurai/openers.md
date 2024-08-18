@@ -2,8 +2,8 @@
 title: Samurai Openers
 authors:
   - Balance-SAM-Staff
-patch: "6.55"
-lastmod: 2024-01-17T04:34:24.266Z
+patch: "7.05"
+lastmod: 2024-08-18T06:17:12.272Z
 changelog:
   - date: 2021-10-28T03:26:44.525Z
     message: Created page
@@ -21,4 +21,4 @@ Your standard opener which will be used in the majority of encounters. Due to ph
 
 If Iai weaves are easier than double weaves for you, feel free to move Senei forward before Kaeshi: Setsugekka.
 
-![](/img/jobs/sam/sam_ew_6_1_opener.png "Samurai Standard Opener")
+![](/img/jobs/sam/sam_dt_opener.png "Samurai Standard Opener")
