@@ -3,8 +3,8 @@ title: Samurai Leveling Guide
 card_header_image: /img/jobs/sam/leveling.png
 authors:
   - Balance-SAM-Staff
-patch: "6.55"
-lastmod: 2024-01-17T04:33:47.475Z
+patch: "7.05"
+lastmod: 2024-08-18T06:49:42.477Z
 changelog:
   - date: 2021-10-28T03:18:27.850Z
     message: Created page
@@ -14,8 +14,10 @@ changelog:
     message: Updated for 6.5
   - date: 2024-01-17T05:39:41.435Z
     message: Updated for 6.55
+  - date: 2024-08-18T06:49:44.270Z
+    message: Updated for 7.05
 ---
-# Level 50
+# LeLevel 50
 
 [Level 50 Opener](https://ffxivrotations.com/3et8)
 
@@ -45,12 +47,22 @@ When first introduced Hagakure is only really used in dungeons to try and clean 
 
 By level 70 your opener should be utilizing your new skills you've picked up along the way and look similar to this, still getting buffs up early and following up with a quick Higanbana.
 
+# Level 74
+
+At this level you get Tsubame-Gaeshi, which is a follow-up to your used Iaijutsu. It shows up after you press either Midare Setsugekka or Tenka Goken, and you can use it at any time as long as it's before your next one. Higanbana does not have a follow-up with Tsubame, and so using it does not make you lose the one you have.
+
 # Level 76
 
-Use exclusively after Midare Setsugekka or Tenka Goken, never after Higanbana. Begin learning about filler in order to keep your rotation lined up. An infographic with a quick primer on filler can be found in the [basic guide.](https://www.thebalanceffxiv.com/jobs/melee/samurai/basic-guide/)
+Enhanced Meikyo Shisui is one of the most drastic changes to your rotation at this point. Having two charges greatly improves our flexibility with handling fights, as well as having all of the necessary Sen we need for burst windows. From this point onwards, the job's gameplay will mostly feel the same, and up until Dawntrail, we'll only get a few new buttons, so this is a good starting point to get your good habits in practice, like using Meikyo Shisui charges for Gekko & Kasha over Yukikaze.
 
 # Level 80
 
-[Level 80 Opener](https://ffxivrotations.com/3lvq)
+[Level 80 Opener](https://midknight.dev/xiv_rotations/?rotation=U0FNfDEyfDZ8MTl8OXwxMXwzMnwyMXwzNHwxMnw2fDMwfDZ8OXwwfDExfDMyfDIzfDM0)
 
-The opener should feel familiar by this point! At level 80 we are simply adding skills we have learned or replacing skills with their more powerful versions. You should be set to use this single-target opener and the basics of play (keep Higanbana up, don't drop buffs, push your cooldowns) until you reach level 90 and can utilize the [basic guide.](https://www.thebalanceffxiv.com/jobs/melee/samurai/basic-guide/)
+The opener should feel familiar by this point! At level 80 you finally get your meditation gauge, which lets you use the very powerful oGCD Shoha whenever you get 3 meditation stacks. Each iaijutsu you use is going to give you one, and at level 90 a new skill that is separate from iaijutsu will also give you one. Regardless of that, you should probably get used to the foundations of the job from this point onwards, it doesn't change much from here!
+
+# Level 90
+
+[Level 90 Opener](https://midknight.dev/xiv_rotations/?rotation=U0FNfDEyfDZ8MTl8OXwxMXwzMnwyMXwzNHwxMnw2fDMwfDI2fDIzfDI3fDl8NnwwfDExfDMyfDM0)
+
+At this level, the core of Samurai gameplay is pretty much set in stone. Every 2 minutes, you get two very powerful GCDs, Ogi Namikiri and Kaeshi: Namikiri, which give you 1 meditation, letting you use more Shoha than you were using back in Level 80. Most of the concepts you can find in the [Samurai Guide](https://docs.google.com/document/d/1rwJpp7iVnar2HeetfvOoZgiYlfAGAEyq7SRNBQ_F4S0/edit) will also apply to this level, since from this point onwards we'll only get upgrades to our existing skills and only one new oGCD ability.[](https://docs.google.com/document/d/1rwJpp7iVnar2HeetfvOoZgiYlfAGAEyq7SRNBQ_F4S0/edit)
