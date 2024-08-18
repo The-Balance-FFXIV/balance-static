@@ -50,6 +50,8 @@ If the Fire cast results in a Firestarter proc, it should be used in Astral Fire
 
 Foul should be used similarly as before, replaced by Xenoglossy in single-target at level 80+. Xenoglossy provides additional utility since it is instant-cast and can also be used for movement/weaving as needed, as well as improved single-target damage over Foul.
 
+If the Fire cast results in a Firestarter proc, it should be used in Astral Fire primarily for movement/weaving/refreshing the Astral Firer timer, but should be used even if not necessary for any of these. At 80+, consider saving the Firestarter proc through Umbral Ice, using Xenoglossy to weave a Transpose back to Astral Fire, then using the proc for a stronger reentry into your Astral Fire phase.
+
 ## Level 90-99
 
 **Blizzard III > Blizzard IV -> Paradox -> Fire III > Fire IV x4 > Paradox > Fire IV x2 > Despair > repeat**
@@ -58,6 +60,8 @@ Paradox automatically replaces Fire and Blizzard on your hotbars when entering A
 
 Since Paradox is instant-cast, it is recommended to use four Fire IV casts before the Paradox in Astral Fire to allow for maximum leeway on the Astral Fire timer.
 
+Your Firestarter proc should be used in Astral Fire primarily for movement/weaving/refreshing the Astral Firer timer, but should be used even if not necessary for any of these. Consider saving the Firestarter proc through Umbral Ice, using Paradox to weave a Transpose back to Astral Fire, then using the proc for a stronger reentry into your Astral Fire phase.
+
 ## Level 100
 
 **Blizzard III > Blizzard IV -> Paradox -> Fire III > Fire IV x4 > Paradox > Fire IV x2 > Despair > Flare Star > repeat**
@@ -65,6 +69,8 @@ Since Paradox is instant-cast, it is recommended to use four Fire IV casts befor
 Upon execution of all six Fire IV casts in a single Astral Fire phase, the Astral Gauge fills up and allows for the use of Flare Star. Since Flare Star does not cost any MP, does not refresh the Astral Fire timer, and Astral Soul stacks are lost upon exiting Astral Fire, it is recommended to cast Flare Star after the Despair.\
 \
 Note that if opening a fight with Blizzard III, the initial listed Paradox in Umbral Ice will not be available.
+
+Your Firestarter proc should be used in Astral Fire primarily for movement/weaving/refreshing the Astral Firer timer, but should be used even if not necessary for any of these. Consider saving the Firestarter proc through Umbral Ice, using Paradox to weave a Transpose back to Astral Fire, then using the proc for a stronger reentry into your Astral Fire phase.
 
 See [the main guide](/jobs/casters/black-mage/basic-guide/#single-target-rotation) for further details and recommendations on playing the job at level 100.
 
