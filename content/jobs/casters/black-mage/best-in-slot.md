@@ -1,8 +1,8 @@
 ---
 title: Black Mage Best in Slot (BiS)
 layout: bis
-patch: "7.0"
-lastmod: 2024-07-22T02:37:54.441Z
+patch: "7.05"
+lastmod: 2024-08-18T02:19:03.464Z
 changelog:
   - date: 2024-01-20T02:11:30.616Z
     message: Added BiS sets using Manderville Relic
@@ -19,10 +19,24 @@ changelog:
   - date: 2024-07-22T02:46:38.040Z
     message: Updated for 7.0
 bis:
+  - type: xivgearset
+    name: Early Savage Prog Sets
+    link: https://xivgear.app/?page=sl%7Cb90e64a1-6c4a-4e9e-950a-0c0c9fe95158
+    description: Pentamelded prog sets for early savage prog. Higher ilvl gear will
+      be an upgrade to the gear listed here.
+  - type: xivgearset
+    name: 7.05 Savage BiS Sets
+    link: https://xivgear.app/?page=sl%7C3261ad21-538e-41b8-a320-e2706c52fb5b
+    description: >-
+      The strongest simmed set is the 2.42s set, followed closely by the high
+      sps sets and other slower crit sets.The lowest of the bunch is the 2.36s
+      crit set, but only trails by ~0.2% from the top set, so remains plenty
+      viable.
+
+
+      Choose your set based on your preferred speed, compatibility with other casters, or whatever else. Note: currently a known issue where the tome wrist is "Healing" instead of "Casting". Stats are still correct, issue is only visual for now.
   - type: gsheets
-    description: Gear Sheet for comparing various gearsets/meld options. On Savage
-      launch in 7.05, both this page and the gear sheet will be updated with
-      sets for both prog and Best-in-Slot.
+    description: Gear Sheet for comparing various gearsets/meld options.
     name: Gear Sheet
     link: https://docs.google.com/spreadsheets/d/1E_y3ADj9FcUXrJg3sbK-UiIcOoYawB8Et9P-LfxT_TE/edit?gid=654212594#gid=654212594
 authors:
