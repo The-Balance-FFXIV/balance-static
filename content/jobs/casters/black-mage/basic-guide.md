@@ -294,7 +294,7 @@ Refreshing the DoT after it has fallen off, especially for a longer period of ti
 
 On average it will be better to refresh slightly early than let it drop off entirely. However, in either case, it is quite possible to have minimal to no loss from an early/late refresh. In an ideal environment and planned uptime lengths/killtimes/casting timeline, it is viable to quantify loss in alternative refresh timings compared to the gains they may facilitate for things like weaving for AF1 F3P, movement, or whatever else.
 
-In a less controlled environment and looking at a more generalized average, it can be worthwhile to refresh slightly early/late to facilitate AF1 F3P. This also has the added benefit of not having to refresh in the tighter first half of your Astral Fire phase following the Firestarter proc. To stress again, however, it is important to not overly rely on early/late **High Thunder** refreshes, and they should instead be more considered as a situational alternative to utilize when needed.
+In a less controlled environment, it can still situationally be worthwhile to refresh slightly early/late, particularly if it helps keep better uptime on the DoT overall or otherwise helps you from having to sacrifice your rotation later in order to refresh the DoT. To stress again, however, it is important to not overly rely on early/late **High Thunder** refreshes, and they should instead be more considered as a situational alternative to utilize when needed.
 
 ## Pre-Manafont Considerations
 
