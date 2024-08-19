@@ -1,8 +1,8 @@
 ---
 title: Samurai Best in Slot (BiS)
 layout: bis
-patch: "6.55"
-lastmod: 2024-01-17T00:41:31.245Z
+patch: "7.05"
+lastmod: 2024-08-18T06:23:18.144Z
 changelog:
   - date: 2021-10-28T03:30:20.029Z
     message: Created page
@@ -18,34 +18,20 @@ changelog:
     message: Updated for 6.5
   - date: 2024-01-17T05:42:27.651Z
     message: Updated for 6.55
+  - date: 2024-08-18T06:24:11.109Z
+    message: Updated for 7.05
 bis:
-  - type: etro
-    description: >-
-      28 GCD loop, 2 filler GCDs.
-
-
-      Classic "Slow SAM". Highest DPS, easiest weaving.
-
-
-      Some fights may allow for an extra GCD if on a slightly faster GCD speed. For 2.14 -3 Det melds, +2 SKS/1 DH melds
-    link: https://etro.gg/gearset/d4b6bfc6-a82f-4732-8e55-7c13e094fc1d
-    name: 2.15 Savage BiS
-  - type: etro
-    description: >-
-      29 GCD loop, 3 filler GCDs.
-
-
-      Small hit in DPS in exchange for a slightly extended rotation, offering more flexibility with mechanic downtime.
-    name: 2.07 Savage BiS
-    link: https://etro.gg/gearset/b25e8d82-3dcc-4656-aa62-07dce32f2976
-  - type: etro
-    description: >-
-      30 GCD loop, 4 filler GCDs.
-
-
-      Classic "Fast SAM". Trades a ~1% DPS loss for a faster playstyle with even more filler to maneuver mechanic downtime. May have difficulty Iai/double weaving even on the best of connections.
-    name: 2.00 Savage BiS
-    link: https://etro.gg/gearset/b0db96d2-564d-4850-971e-54a4436d63bd
+  - type: xivgearset
+    description: Classic "Slow SAM". Highest DPS, easiest weaving. Accessories have
+      parity across Slaying jobs.
+    link: https://xivgear.app/?page=sl%7C78944845-857b-4a2f-bc04-576f4c6d9dec
+    name: 2.14 Savage BiS
+  - type: xivgearset
+    description: As per community request, the 2.07 set has a small hit in DPS in
+      exchange for an easier looping rotation, as well as slightly better
+      flexibility with mechanic downtime.
+    name: 2.08 Savage BiS
+    link: https://xivgear.app/?page=sl%7C18e91d14-fbe3-4780-be2e-226044ebbd6e
   - type: gsheets
     description: >-
       Sets for these fights are community-sourced through use of Jahaudant's
