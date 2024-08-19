@@ -17,7 +17,7 @@ changelog:
   - date: 2024-08-18T06:49:44.270Z
     message: Updated for 7.05
 ---
-# LeLevel 50
+# Level 50
 
 [Level 50 Opener](https://ffxivrotations.com/3et8)
 
