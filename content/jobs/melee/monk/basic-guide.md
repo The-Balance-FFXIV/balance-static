@@ -16,6 +16,8 @@ changelog:
   - date: 2023-05-30T23:31:50.135Z
     message: Patch bump to 6.4
 ---
+![]()
+
 # **Basic Monk Guide**
 
 Welcome to the basic guide for Monk, which will cover all of the information necessary to get you off your feet and onto your hands. Included is a look into the various systems that come together to define the Monk playstyle, suggested openers, and explanations on how to correctly form burst windows.
@@ -29,10 +31,10 @@ Throughout this guide we will be referring to all skills as if you were level 10
 | Howling Fist         | Enlightenment           |
 | Flint Strike         | Rising Phoenix          |
 | Tornado Kick         | Phantom Rush            |
-| Elixir Field | Elixir Burst |
-| Bootshine | Leaping Opo |
-| True Strike | Rising Raptor |
-| Snap Punch | Pouncing Coeurl |
+| Elixir Field         | Elixir Burst            |
+| Bootshine            | Leaping Opo             |
+| True Strike          | Rising Raptor           |
+| Snap Punch           | Pouncing Coeurl         |
 
 - - -
 
@@ -77,15 +79,15 @@ You have three forms: Opo-Opo, Raptor, and Coeurl:
 
 As previously mentioned, Monk has six core single-target GCDs.
 
-| Gainers                                                           |                                                                                                                                                                                                                                                                                                                              |
-| ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Dragon Kick](https://xivapi.com/i/002000/002528_hr1.png) | **Dragon Kick** has a potency of 320. When in Opo-Opo form, it will grant *Opo-opo's Fury*.                                                                                                                                                                                                                              | 
-| ![Twin Snakes](https://xivapi.com/i/000000/000213_hr1.png) | **Twin Snakes** has a potency of 420. Twin Snakes can only be executed from Raptor form and will grant *Raptor's Fury*.                                                                                                                                           | 
-| ![Demolish](https://xivapi.com/i/000000/000204_hr1.png)    | **Demolish** has a potency of 360, or 420 when executed from the rear. It can only be executed from Coeurl form and will grant two *Coeurl's Fury*.                                                                                                                                                                                                       | 
-| ![Leaping Opo](https://xivapi.com/i/002000/002982_hr1.png)   | **Leaping Opo** has a potency of 260, or 460 when you have *Opo-opo's Fury*. When in Opo-Opo form, Bootshine will always crit.                                                                                                                                                                                                      | 
-| ![Rising Raptor](https://xivapi.com/i/002000/002983_hr1.png) | **Rising Raptor** has a potency of 340, or 540 when you have *Raptor's Fury*. It can only be executed from Raptor form.                                                                                                                                                                                                                                              | 
-| ![Pouncing Coeurl](https://xivapi.com/i/002000/002984_hr1.png)  | **Pouncing Coeurl** has a potency of 310, or 520 when executed from the flank and when you have *Coeurl's Fury*. It can only be executed from Coeurl form.                                                                                                         | 
-| ![Form Shift](https://xivapi.com/i/002000/002536_hr1.png)  | **Form Shift** is a unique GCD, as it's not directly a part of our rotation, but it does enable our rotation. Form Shift grants the Formless Fist buff, which allows you to use any GCD and gain its additional form effects. Since this GCD does no damage, we only ever use it before pulling an enemy or during downtime. |
+| Gainers                                                        |                                                                                                                                                                                                                                                                                                                              |
+| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Dragon Kick](https://xivapi.com/i/002000/002528_hr1.png)     | **Dragon Kick** has a potency of 320. When in Opo-Opo form, it will grant *Opo-opo's Fury*.                                                                                                                                                                                                                                  |
+| ![Twin Snakes](https://xivapi.com/i/000000/000213_hr1.png)     | **Twin Snakes** has a potency of 420. Twin Snakes can only be executed from Raptor form and will grant *Raptor's Fury*.                                                                                                                                                                                                      |
+| ![Demolish](https://xivapi.com/i/000000/000204_hr1.png)        | **Demolish** has a potency of 360, or 420 when executed from the rear. It can only be executed from Coeurl form and will grant two *Coeurl's Fury*.                                                                                                                                                                          |
+| ![Leaping Opo](https://xivapi.com/i/002000/002982_hr1.png)     | **Leaping Opo** has a potency of 260, or 460 when you have *Opo-opo's Fury*. When in Opo-Opo form, Bootshine will always crit.                                                                                                                                                                                               |
+| ![Rising Raptor](https://xivapi.com/i/002000/002983_hr1.png)   | **Rising Raptor** has a potency of 340, or 540 when you have *Raptor's Fury*. It can only be executed from Raptor form.                                                                                                                                                                                                      |
+| ![Pouncing Coeurl](https://xivapi.com/i/002000/002984_hr1.png) | **Pouncing Coeurl** has a potency of 310, or 520 when executed from the flank and when you have *Coeurl's Fury*. It can only be executed from Coeurl form.                                                                                                                                                                   |
+| ![Form Shift](https://xivapi.com/i/002000/002536_hr1.png)      | **Form Shift** is a unique GCD, as it's not directly a part of our rotation, but it does enable our rotation. Form Shift grants the Formless Fist buff, which allows you to use any GCD and gain its additional form effects. Since this GCD does no damage, we only ever use it before pulling an enemy or during downtime. |
 
 &nbsp;
 
@@ -97,46 +99,59 @@ Effectively, each step of our rotation has a Filler and a Spender option. **Drag
 
 At each step, consult your job gauge, is there a Fury ball for your current form? Press the Spender GCD. Is it empty? Press the Filler GCD. This means we end up alternating **Dragon Kick** with **Leaping Opo**, **Twin Snakes** with **Rising Raptor** and for every **Demolish** we follow with two **Pouncing Coeurl**. The GCDs on the hotbar will also light up correctly following this logic, as such the glowing buttons can be followed as well.
 
-
+![Monk Basic Rotation](/img/jobs/mnk/monk_filler.png "Monk Basic Rotation")
 
 ## AoE Rotation
 
 Our AoE rotation is quite simple. As opposed to other jobs that will have an entirely different combo for AoE, we simply have an AoE option for each of our forms.
 
-|                                                                        |                                                                                                                                                                             |
-| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Shadow of the Destroyer](https://xivapi.com/i/002000/002979_hr1.png) | Opo-Opo form has **Shadow of the Destroyer**, a circle AoE around you with 110 potency which becomes a guaranteed critical hit when executed with its form bonus.           |
-| ![Four-Point Fury](https://xivapi.com/i/002000/002544_hr1.png)         | Raptor form has **Four-Point Fury**, another circle AoE around you with 120 potency. It also grants a 15% damage increase buff, Discipled Fist, which lasts for 15 seconds. |
-| ![Rockbreaker](https://xivapi.com/i/002000/002529_hr1.png)             | Coeurl form has **Rockbreaker**, *another* circle AoE around you with 130 potency.                                                                                          |
+|                                                                        |                                                                                                                                                                   |
+| ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Shadow of the Destroyer](https://xivapi.com/i/002000/002979_hr1.png) | Opo-opo form has **Shadow of the Destroyer**, a circle AoE around you with 110 potency which becomes a guaranteed critical hit when executed with its form bonus. |
+| ![Four-Point Fury](https://xivapi.com/i/002000/002544_hr1.png)         | Raptor form has **Four-Point Fury**, another circle AoE around you with 120 potency.                                                                              |
+| ![Rockbreaker](https://xivapi.com/i/002000/002529_hr1.png)             | Coeurl form has **Rockbreaker**, *another* circle AoE around you with 130 potency.                                                                                |
 
 &nbsp;
 
-| **Icon:**       | ![](https://xivapi.com/i/000000/000208_hr1.png) | ![](https://xivapi.com/i/002000/002528_hr1.png) | ![](https://xivapi.com/i/002000/002979_hr1.png) | ![](https://xivapi.com/i/000000/000209_hr1.png) | ![](https://xivapi.com/i/000000/000213_hr1.png) | ![](https://xivapi.com/i/002000/002544_hr1.png) | ![](https://xivapi.com/i/000000/000210_hr1.png) | ![](https://xivapi.com/i/000000/000204_hr1.png) | ![](https://xivapi.com/i/002000/002529_hr1.png) |
+| **Icon:**       | ![](https://xivapi.com/i/002000/002982_hr1.png) | ![](https://xivapi.com/i/002000/002528_hr1.png) | ![](https://xivapi.com/i/002000/002979_hr1.png) | ![](https://xivapi.com/i/002000/002983_hr1.png) | ![](https://xivapi.com/i/000000/000213_hr1.png) | ![](https://xivapi.com/i/002000/002544_hr1.png) | ![](https://xivapi.com/i/002000/002984_hr1.png) | ![](https://xivapi.com/i/000000/000204_hr1.png) | ![](https://xivapi.com/i/002000/002529_hr1.png) |
 | --------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| **GCD Potency** | **Bootshine**                                   | **Dragon Kick**                                 | **Shadow of the Destroyer**                     | **True Strike**                                 | **Twin Snakes**                                 | **Four-Point Fury**                             | **Snap Punch**                                  | **Demolish***                                   | **Rockbreaker**                                 |
-| One target      | 310                                             | 320                                             | 110                                             | 300                                             | 280                                             | 120                                             | 300                                             | 550                                             | 130                                             |
-| Two targets     | 310                                             | 320                                             | 220                                             | 300                                             | 280                                             | 240                                             | 300                                             | 550                                             | 260                                             |
-| Three targets   | 310                                             | 320                                             | 330                                             | 300                                             | 280                                             | 360                                             | 300                                             | 550                                             | 390                                             |
+| **GCD Potency** | **Leaping Opo**                                 | **Dragon Kick**                                 | **Shadow of the Destroyer**                     | **Rising Raptor**                               | **Twin Snakes**                                 | **Four-Point Fury**                             | **Pouncing Coeurl**                             | **Demolish***                                   | **Rockbreaker**                                 |
+| One target      | 460*                                            | 320                                             | 120*                                            | 540                                             | 420                                             | 140                                             | 520                                             | 420                                             | 150                                             |
+| Two targets     | 460*                                            | 320                                             | 240*                                            | 540                                             | 420                                             | 280                                             | 520                                             | 420                                             | 300                                             |
+| Three targets   | 460*                                            | 320                                             | 360*                                            | 540                                             | 420                                             | 420                                             | 520                                             | 420                                             | 450                                             |
 
-\**Assuming each Demolish is able to fully tick.*
+\**Always crits.*
 
-Endwalker has greatly simplified our AoE options. As you can see, all of our AoE GCDs only become worthwhile on 3+ targets. The only thing that remains to think about when using AOEs is Demolish.
+While the AOE GCDs are very simple in Dawntrail, when to use them at Level 100 is not as obvious. Shadow of the Destroyer is always a gain on 3 targets, Four-Point Fury is only a gain on 4 targets. For Rockbreaker it depends on the amount of Critical Hit one has. We need at minimum 2797 Critical Hit for Rockbreaker to be worth it on 3 targets, otherwise it is only worth it on 4. If a AOE of some form is not worth using on a certain number of targets, we use the regular single target versions of that form.
 
-Demolish is our strongest Coeurl form GCD, and given that it's a DoT, we're able to simply rotate it between targets for maximum DPS in multi-target scenarios. However, because it's a DoT, it relies on ticking fully for max value, and so you should estimate whether or not the DoT will tick for long enough to be worthwhile before applying it.
+| **Icon:**          | ![](https://xivapi.com/i/002000/002979_hr1.png) | ![](https://xivapi.com/i/002000/002544_hr1.png) | ![](https://xivapi.com/i/002000/002529_hr1.png) |
+| ------------------ | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| **Critical Hit**   | **Shadow of the Destroyer**                     | **Four-Point Fury**                             | **Rockbreaker**                                 |
+| Below 2797         | 3 targets                                       | 4 targets                                       | 4 targets                                       |
+| Above 2797 (incl.) | 3 targets                                       | 4 targets                                       | 3 targets                                       |
 
 - - -
 
 ## Chakra
 
-Chakra is the simpler of our two job gauges. Chakra can be stacked up to five times, and once five stacks have been built, we can spend them on either a single target oGCD or an AoE oGCD, depending on the scenario.
+|  Filled Chakra Gauge | Chakra Gauge in Brotherhood |
+| ------------------------------ | --- |
+| ![](/img/jobs/mnk/chakra5.png) | ![](/img/jobs/mnk/chakra10.png) |
+| ![](/img/jobs/mnk/chakra5simple.png)  | ![](/img/jobs/mnk/chakra10simple.png) |
 
-"How do we build Chakra, PB?" I hear you ask. We have a number of different ways:
 
-|                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002534_hr1.png) | First is Meditation, a GCD with a one second cooldown that opens a single Chakra upon being pressed. When outside of combat it generates five stacks of Chakra instantly.                                                                                                                                                                                                                                                                                                                                                                 |
-| ![](https://xivapi.com/i/005000/005238_hr1.png) | We then have two traits: Deep Meditation I & II. Deep Meditation I grants an 80% chance of generating a Chakra upon landing a critical weaponskill. Deep Meditation II turns that 80% chance into a 100% chance.                                                                                                                                                                                                                                                                                                                          |
-| ![](https://xivapi.com/i/002000/002542_hr1.png) | Finally, we have Brotherhood. Brotherhood has multiple effects, but in this section we'll just talk about the effect pertaining to Chakra generation. Upon execution, party members within 15 yalms will gain the effect of Meditative Brotherhood for 15 seconds. While this buff is active on an ally, every time they execute a weaponskill or a spell, there is a 20% chance that you will gain a stack of Chakra. While the buff is active on yourself, you have a 100% chance to gain a Chakra each time you execute a weaponskill. |
+
+
+
+
+
+Chakra is the simpler of our two job gauges. Chakra can be stacked up to five times, and once five stacks have been built, we can spend them on either a single target oGCD or an AoE Line oGCD, depending on the scenario. In Brotherhood, our Chakra can be stacked up to ten times.
+
+|                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://xivapi.com/i/002000/002534_hr1.png) | First is Meditation, a GCD with a one second cooldown that opens a single Chakra upon being pressed. When outside of combat it generates five stacks of Chakra instantly.                                                                                                                                                                                                                                                                                                                                                                                              |
+| ![](https://xivapi.com/i/005000/005238_hr1.png) | We then have two traits: Deep Meditation I & II. Deep Meditation I grants an 80% chance of generating a Chakra upon landing a critical weaponskill. Deep Meditation II turns that 80% chance into a 100% chance.                                                                                                                                                                                                                                                                                                                                                       |
+| ![](https://xivapi.com/i/002000/002542_hr1.png) | Finally, we have Brotherhood. Brotherhood has multiple effects, but in this section we'll just talk about the effect pertaining to Chakra. Upon execution, party members within 15 yalms will gain the effect of Meditative Brotherhood for 15 seconds. While this buff is active on an ally, every time they execute a weaponskill or a spell, there is a 20% chance that you will gain a stack of Chakra. While the buff is active on yourself, you have a 100% chance to gain a Chakra each time you execute a weaponskill and the Chakra Limit is increased to 10. |
 
 &nbsp;
 
@@ -146,23 +161,23 @@ We can spend our Chakra on either of the following two oGCDs:
 
 |                                                 |                                                                           |
 | ----------------------------------------------- | ------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002535_hr1.png) | **The Forbidden Chakra** is a single target attack with a potency of 340. |
-| ![](https://xivapi.com/i/002000/002545_hr1.png) | **Enlightenment** is a line AoE with a potency of 170.                    |
+| ![](https://xivapi.com/i/002000/002535_hr1.png) | **The Forbidden Chakra** is a single target attack with a potency of 400. |
+| ![](https://xivapi.com/i/002000/002545_hr1.png) | **Enlightenment** is a line AoE with a potency of 200.                    |
 
 &nbsp;
 
 ## Beast Chakra - How They Work
 
-Beast Chakra is new in Endwalker, and hinges around the changes to Perfect Balance (the skill, not me).
+Beast Chakra was introduced in Endwalker, and hinges around the changes to Perfect Balance.
 
-Perfect Balance has a similar effect as it did previously -- nullifying form requirements -- however now it has two charges and a 40s cooldown. Upon executing a weaponskill, it grants a Chakra of the corresponding Form. We can then spend these Beast Chakra on one of four new Blitz weaponskills depending on the Chakra we had accumulated. Upon using any of these Blitzes, we're granted Formless Fist, allowing us to proceed with our rotation without having to do any GCDs without their form bonus.
+Perfect Balance has has two charges and a 40s cooldown. Upon executing a weaponskill, it grants a Beast Chakra of the corresponding Form. We can then spend these Beast Chakra on one of four Blitz weaponskills depending on the Chakra we had accumulated. Upon using any of these Blitzes, we're granted Formless Fist, allowing us to proceed with our rotation without having to do any GCDs without their form bonus.
 
 |                                                 |                                                                                                                                                                                                                                                                                         |
 | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002533_hr1.png) | If we have three of the same type of Beast Chakra, our Masterful Blitz will become **Elixir Field**, an AoE with a potency of 600 that deals 70% less damage to all subsequent targets hit. Using Elixir Field will grant us a Lunar Nadi.                                              |
-| ![](https://xivapi.com/i/002000/002980_hr1.png) | If we have three different Beast Chakra, our Masterful Blitz becomes **Rising Phoenix**, an AoE with a potency of 700 that deals 70% less damage to all subsequent targets hit. Using Rising Phoenix will grant us a Solar Nadi.                                                        |
-| ![](https://xivapi.com/i/002000/002977_hr1.png) | If we have two different Beast Chakra, Masterful Blitz becomes **Celestial Revolution**, a single-target attack with a potency of 450. Using Celestial Revolution will grant us a Lunar Nadi by default, but if we already possess the Lunar Nadi it will instead give us a Solar Nadi. |
-| ![](https://xivapi.com/i/002000/002981_hr1.png) | If we have both the Solar and Lunar Nadi active, any combination of three Beast Chakra will turn Masterful Blitz into **Phantom Rush**, an AoE with a potency of 1150 potency that deals 50% less damage to all subsequent targets hit. It consumes both Nadi upon use.                 |
+| ![](https://xivapi.com/i/002000/002985_hr1.png) | If we have three of the same type of Beast Chakra, our Masterful Blitz will become **Elixir Burst**, an AoE with a potency of 900 that deals 70% less damage to all subsequent targets hit. Using Elixir Field will grant us a Lunar Nadi.                                              |
+| ![](https://xivapi.com/i/002000/002980_hr1.png) | If we have three different Beast Chakra, our Masterful Blitz becomes **Rising Phoenix**, an AoE with a potency of 900 that deals 70% less damage to all subsequent targets hit. Using Rising Phoenix will grant us a Solar Nadi.                                                        |
+| ![](https://xivapi.com/i/002000/002977_hr1.png) | If we have two different Beast Chakra, Masterful Blitz becomes **Celestial Revolution**, a single-target attack with a potency of 600. Using Celestial Revolution will grant us a Lunar Nadi by default, but if we already possess the Lunar Nadi it will instead give us a Solar Nadi. |
+| ![](https://xivapi.com/i/002000/002981_hr1.png) | If we have both the Solar and Lunar Nadi active, any combination of three Beast Chakra will turn Masterful Blitz into **Phantom Rush**, an AoE with a potency of 1500 potency that deals 50% less damage to all subsequent targets hit. It consumes both Nadi upon use.                 |
 
 &nbsp;
 
