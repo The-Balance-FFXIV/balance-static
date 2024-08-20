@@ -300,14 +300,7 @@ The choice of optimal Nadi Alignment can change from fight to fight, but will mo
 ### Even Windows
 
 ## Openers
-
 With Nadi Alignment and Overcapping in mind, there are two primary openers available to us, though additional options and variations exist. Our best options are a **Double Lunar** and **Solar Lunar** openers and their variations. **Solar Lunar** aims to maximize the amounts of **Phantom Rushes**, as it does not overcap the Nadi like the **Double Lunar** opener does. The choice of the opener will decide what our subsequent odd and even windows will look like. 
-
-The **Lunar Solar** opener can be treated as a default opener, as it ensures maximum Phantom Rush usages over an unknown killtime. This opener also affords us the opportunity to be flexible with where we place Rising Phoenix in our two minute burst window. This is beneficial, as it allows for greater flexibility of our burst window to account for our current Disciplined Fist/Demolish state. 
-
-The **Double Solar** opener is something that only becomes worthwhile to switch to when you have a greater understanding of an encounter and its nuances -- primarily, having an estimated killtime that you are reasonably confident you'll achieve, and the knowledge that that killtime will not lose you a usage of Phantom Rush if you follow a Double Solar opener. 
-
-Chakra usage in the opener depends on if you are able to double weave without clipping. If you can do so, simply use TFC as soon as it becomes available every time following the first usage. If you cannot do so, then there will be times when you are forced to sit on Chakra stacks for a GCD or two, as although you still want to use it as soon as possible, your priority is using your buffs in the correct places.
 
 ### Lunar Solar
 
@@ -334,99 +327,6 @@ Monk now has three different primary choices as to how you'd like to play. Avail
 ![Opener Analysis](/img/jobs/mnk/mnkguide_0006_rotations.png "Opener Analysis")
 
 The image above demonstrates the DPS difference between each of the three rotations given an uninterrupted 8:30 sim. As you can see it’s incredibly tight between all three options. I would recommend starting out with the loop to get a feel for the job, progressing on to Optimal Drift if you decide you enjoy it and wish to push the job further. Double Solar is relegated to specific scenarios; it must be a kill time that will not lose you a use of Phantom Rush (6:30, 8:30, etc) and your party composition should contain a reasonable amount of two minute raid buffs to really leverage the enhanced two minute burst. In 99% of situations you are better using Optimal Drift, however when the stars align Double Solar does get to have its’ time in the sun (all puns intended). Double Solar becomes comparatively stronger than the other options the longer a fight goes (assuming you do not lose a Phantom Rush), and can sometimes gain an edge by allowing you to better use either the targeted AoE or the AoE centered around yourself in order to cleave more targets.
-
-### Braindead Looping Rotation
-
-This rotation is recommended mostly for either casual play or for getting your first taste of Monk before advancing to Optimal Drift. The reasoning for this is that while Optimal Drift contains various different ways of entering and forming your burst windows, the Loop essentially takes one of those possibilities and freezes it, making it loop forever. As such, once you become comfortable with the Loop progressing on to Optimal Drift should come quite naturally. 
-
-This rotation always begins with the Lunar Solar opener. As mentioned previously, we make certain concessions in order to facilitate the loop, with the first of these being immediately following the opener. While best practice is typically using an Opo GCD as our free post-Blitz Formless GCD, in order to loop we will instead press Twin Snakes after the Rising Phoenix in our opener. This sets the rotation back two GCDs, allowing for the loop to exist.
-
-Following this you simply press buttons according to the Monk Flowchart until the first odd Riddle of Fire window. At this point, you will do the following:
-
-![Braindead Looping Rotation - Odd Minutes](/img/jobs/mnk/mnkguide_0007_braindeadodd.png "Braindead Looping Rotation - Odd Minutes")
-
-Every single odd window following this will be exactly the same, the only difference being that your Opo GCDs will flip each two minutes (Bootshines become Dragon Kick and vice-versa). The only time you might have to slightly adjust anything in your rotation is if for whatever reason your Twin Snakes has not naturally aligned before the Demolish seen at 1:13. If this happens and the flowchart would have you place a True Strike here, simply ignore that and force a Twin Snakes refresh.
-
-From the odd window we again go back to following the flowchart until the even window occurs. Again, the even window will now always look exactly like this, with the one change being that Opo GCDs will switch every two minutes.
-
-![Braindead Looping Rotation - Even Minutes](/img/jobs/mnk/mnkguide_0008_braindeadeven.png "Braindead Looping Rotation - Even Minutes")
-
-Very important here is the Twin Snakes following the Elixir Field, which serves the exact same purpose as the post-Blitz Twin Snakes in our opener -- facilitating the loop. You might notice that sometimes the Demolish from your RP PB sequence clips, but this doesn't matter.
-
-If you want to practice this and cross-reference with a log, here is a [raw action sequence list](https://docs.google.com/spreadsheets/d/14zk-VaiP-Lqt-fF0cTPBsQhrPD2TskixXB8r-JUX3T8/edit#gid=0) you can compare against to make sure you're doing it right.
-
-### **Fixing the Loop**
-
-As this is a looping rotation, in a dummy scenario, this will repeat ad infinitum. However, not every encounter is a dummy, and so sometimes through no fault of your own the loop will be broken. There are three ways in which this can happen:
-
-*Twin timer*
-
-This is irrelevant. You simply remember to always use Twin Snakes before the odd window Demolish and this will fix itself.
-
-*Demolish timer*
-
-This is primarily of concern to us in our odd windows, as the even window is effectively a 100% copy-paste of itself every time and simply eats any Demolish clip the game pushes you into in order to stay in the loop. In practice this almost means that the Demolish timer offset is inconsequential given that by looping you fix it yourself every two minutes. 
-
-Odd windows, however, could become slightly problematic if you end up playing an odd window expecting the 6th RoF GCD to be a natural Demolish only to find out too late that it isn't. The solution to this is to learn all the potential Demolish placements and understand how to play around them. If you consider the fact that Demolish is naturally refreshed every nine GCDs, this means that you can take any nine sequential GCDs and one of them is going to be a Demolish. 
-
-But how do we know which nine GCDs to look at? Well, if we work backwards, we know that from pressing PB, we'll need four GCDs to get to our Blitz, meaning that the nine GCDs we're looking at are the three prior to and six following the usage of Riddle of Fire. We're going to look at this nine GCD window, and fix our alignment by building around the Demolish we find. We force the Raptor GCD before the Demolish to be a Twin Snakes, even if it "should" be a True Strike, and place our PB after the Opo GCD that follows this Demolish.
-
-*Form-to-RoF CD Alignment*
-
-This is when we simply end up in the wrong form as Riddle of Fire comes off of CD. Thankfully, learning how to fix Demolish timers helps to resolve this issue. Odd window alignment can be solved by learning the rules mentioned in the Demolish timer section. If you were, for example, to enter the RoF window from a Raptor GCD, the usual Demolish you'd be waiting for is now the 7th GCD in RoF, meaning that your Blitz will fall out of your RoF window. However, if you were going into this situation aware of the nine GCD Demolish rule you'd be able to identify that you should be building your PB based on the Demolish that is three GCDs before the RoF in order to avoid the Blitz falling out. If there's no further downtime, this sequence is now what will loop on every subsequent odd window. Again even windows effectively fix themselves by merit of being attached to a PB use.
-
-While you can put the effort into learning these various tricks to realigning the loop, I would instead advise you to use the same amount of brainpower to instead look at learning Optimal Drift, as the rules used to fix the loop are a part of the rules that build the optimal drift rotation.
-
-### Optimal Drift Rotation
-
-Like the basic loop, this always begins with the Lunar Solar opener in order to take advantage of the greater amount of options afforded in the two-minute windows. This rotation splits more dramatically between the odd and even Riddle of Fire windows.
-
-#### **Odd Windows**
-
-Our odd RoF windows are all built around a natural Demolish. This is because we want to have just refreshed Demolish prior to beginning our PB window so that it won't fall off during our burst. Similarly, we want the GCD before that Demolish to have been a Twin Snakes for the same reason. 
-
-How do we know where to start looking for this Demolish, though? Well, it's the same logic that we use to fix our Demo timer in the basic looping rotation. We work backwards and realise that we need four GCDs from PB to get our Blitz out, meaning the Demolish we need can be no later than six GCDs into our RoF window. This means that we're once again looking at the string of nine GCDs on either side of Riddle of Fire, up to three prior to or six following. Once we locate that Demolish, we put a Twin Snakes before it, and PB after the Opo GCD that follows this Demolish.
-
-#### **Even Windows**
-
-Similarly to how we build our odd windows from a Demolish, we also build our even windows from a Coeurl GCD. As opposed to looking across nine GCDs for a Demolish to build from, here we are simply looking across three GCDs for a Coeurl GCD. There is slightly more distinction here than simply Demolish/Snap Punch however. Over nine GCDs, our Coeurl sequence has two Snap Punches between each Demolish, with each Snap Punch being unique and providing a different even window depending on which one we hit. To distinguish between Coeurl GCDs, we're going to break them down into Demo, Snap 1, and Snap 2. 
-
-Similarly again to how you'd build odd windows, working backwards from the end of the RoF window we can see that we are looking at the two GCDs prior to, and one GCD following RoF in order to be able to fit our entire burst into RoF. Now depending on which of your three potential Coeurl GCDs falls into this window, you have three distinct potential burst windows. This is effectively due to needing to find a natural Demolish refresh mid-Riddle of Fire that doesn't waste any of our free Formless GCDs on anything other than an Opo GCD.
-
-![Optimal Drift Rotation - Even Windows Explained](/img/jobs/mnk/mnkguide_0011_optimaldrifteven.png "Optimal Drift Rotation - Even Windows Explained")
-
-The most confusing of these is arguably RoF+BH 2, as Snap 1 *would* fall into that window, but in order to play it correctly you need to have already used PB.  
-
-The most practical way to actually learn how to do this is check what Coeurl GCD you're hitting between when Riddle of Fire is on cooldown between 21.34 - 15.52, as in nine GCDs you'll be pressing the same Coeurl GCD in the -2/+1 GCD window around RoF that we're looking for. If the Coeurl GCD in this window is Demolish, you'll be doing ROF+BH 3. If it's Snap 1, you're doing ROF+BH2, if it's Snap 2 then you're doing ROF+BH 1.
-
-To ensure that you're practicing effectively and not just muscle memory-ing the same patterns over and over, randomly insert SSS casts into your dummy rotation to ensure you know the rules well enough to pick the correct windows.
-
-If you want to practice this and cross-reference with a log, here is a [raw action sequence list](https://docs.google.com/spreadsheets/d/1dIbpQfFuMO4HpYAinPbM7SgHSzkcLGUI4v_VCyszUCs/edit#gid=0) you can compare against to make sure you're doing it right.
-
-### Double Solar Rotation
-
-Again, the Double Solar rotation splits itself by odd and even RoF windows. The odd windows follow the exact same rules as the Optimal Drift odd windows, and so I will not rewrite them here. The even windows are slightly different however.
-
-#### **Even windows**
-
-Similar to the odd windows of other rotations, we build our even window around a Demolish. However, due to the way this rotation works we don't always have the luxury of waiting for a natural Demolish, and may sometimes need to force clip one. So how do we do this?
-
-If we keep doing what we've been doing so far and work backwards, we see that we have a very long sequence to account for seeing as though we're unloading two PB windows here.
-Specifically, what we want to be doing looks like this:
-
-Twin > Demo > Opo + PB > Opo > Opo > Opo > PR > Opo + PB > Twin > Opo > Demo > RP
-
-This may seem long and intimidating, but keep in mind that it's basically just Twin > Demo > Opo > Unleash both PBs + their respective Blitzes.
-
-Much as before, we now have to consider that eight of our GCDs will be used up by PB/Blitzes -- nine, if we consider the free Opo we get after using our first Blitz. This means that to ensure our 2nd Blitz still fits into RoF, the first PB can start no later than after the second RoF GCD.
-
-As was previously mentioned, we don't have the luxury of waiting for a natural Demolish refresh to come about. That's okay though, since we can force a Demolish in a convenient location. Either the first GCD in Riddle of Fire or one of the two GCDs before Riddle of Fire will be a Coeurl GCD. Regardless of your Demolish timer, always refresh Demolish here. At full uptime, this leads to only 6s of clipping every six minutes, so don't feel too bad about it if you do clip. Also, always press Twin Snakes before this Demolish.
-
-Once you've succeeded in doing this, the rest of the even window basically plays itself. Because of where you use the Demolish, the proceeding Opo GCD is always placed such that the first PB will always be early enough to fit your entire burst within the RoF window.
-
-Again, in simple terms what this means is: Always press RoF on cooldown, whether we're at 2:03, 4:03, etc. What we're looking out for here is our Coeurl GCD that is either two GCDs before, or one GCD after RoF. Once we've identified this, we make sure to use a Demolish as that Coeurl GCD, and we always precede it with a Twin Snakes. As I mentioned before, the burst window effectively plays itself from this point as we do our natural Opo GCD before jumping into our back to back PBs.
-
-![](/img/jobs/mnk/mnkguide_0012_doublesolarrof.png)
 
 - - -
 
