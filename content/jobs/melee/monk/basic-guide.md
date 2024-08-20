@@ -200,8 +200,6 @@ On the face of it, Riddle of Fire and Brotherhood are pretty simple skills. We p
 
 In Dawntrail, Riddle of Fire as the additional effect of granting Fire's Rumination, which allows us the use of **Fire's Reply** during RoF, introduced in a later section.
 
-Some terminology I would like to introduce before we get deeper into the guide is the idea of odd and even Riddle of Fire windows. The "odd" window occurs on odd minutes (one, three, five, etc.), and consists solely of Riddle of Fire. The "even" window occurs on even minutes (two, four, six, etc), and contains both Riddle of Fire and Brotherhood.
-
 ## Riddle of Wind
 
 | Icon                                            | Name               | Effect                                                      | Duration | Cooldown |
@@ -252,20 +250,58 @@ This is the part where I cover everything that's been missed until now. We've co
 - - -
 
 # Rotational Choices
+## Burst in Theory
+### Riddle of Fire and Brotherhood
+Firstly, we want to get the **maximum number of uses** of **Riddle of Fire**. **RoF** has a duration of 20 seconds, this means Monk can fit 11 GCDs into a **late-weave** **RoF**. It is absolutely crucial to use **RoF** late into the GCD roll such that it can catch the 11th GCD. **Broterhood** also has a duration of 20 seconds and we are aiming to align it as well as we can with our **RoF** and other party buffs.
 
-## Nadi Alignment and Overcapping
+Using **Riddle of Fire** also grants us one use of **Fire's Reply** during its duration and it should never be skipped. As **Fire's Reply** grants us **Formless Fist**, we are aiming to use it after an Opo-opo GCD (**Leaping Opo** or **Dragon Kick**) and follow it with another Opo-opo GCD. 
 
-With the introduced knowledge about **Opo-opo** GCDs being our strongest form and **Phantom Rush** being our strongest GCD, we aim to optimise the amount of both, and also moving as many into Riddle of Fire and other buffs. If we follow the guideline of using two **Perfect Balance** in even windows and one **Perfect Balance** in odd windows, then we will collect a Solar Nadi and a Lunar Nadi in our opener, which will naturally give us our first **Phantom Rush** in the first odd minute window. 
+### Odd and Even Windows
+**Riddle of Fire** has a cooldown of 60 seconds, where **Brotherhood** sits at 120 seconds. This results with us pressing **Riddle of Fire** every minute, where ever other minute it will be paired with **Broterhood**. Given that half of our burst windows consist solely of **RoF** and the other half have both **RoF** and **BH**, we have names to distinguish between them: **even** and **odd** windows.
 
-If we strategically overcap the same Nadi by generating the same one twice, we can move **Phantom Rush** into our 2 minutes and subsequent even windows instead. This is usually preferred as the even windows contain both your buffs, as well as buffs of your party members. While ensuring that our strongest GCD is fully buffed sounds enticing, it might cause us to lose a **Phantom Rush** overall, as we are effectively pushing back the PR by one **Perfect Balance** usage. However with the buffs to PR and Lunar sequences in Dawntrail, the loss of a PR is usually not very significant the longer the fights become.
 
-| opener       | 0m                                                                                              | 1m                                              | 2m                                                                                             | 3m  | 4m  |
-| ------------ | ----------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------------------------------------- | --- | --- |
-| Double Lunar | ![](https://xivapi.com/i/002000/002985_hr1.png) ![](https://xivapi.com/i/002000/002985_hr1.png) | ![](https://xivapi.com/i/002000/002985_hr1.png) | ![](https://xivapi.com/i/002000/002985_hr1.png)![](https://xivapi.com/i/002000/002985_hr1.png) |     |     |
+The windows are named after the minute they occur in an encounter. **RoF** and **BH** are used together at the start of the fight and the align every 2 minutes (0, 2, 4, 6...), hence even window. **RoF** is used on its own every minute after even windows (1, 3, 5, 7, ...), hence odd window. 
+
+As the even window contains all the raid buffs including your own raid buff **BH**, we prioritise this window over the odd window. With the cooldown of **Perfect Balance** being 40 seconds, this allows to fit the following GCDs into each window>
+
+- Even: 2x **Masterful Blitz**, 1x **Fire's Reply**
+- Odd: 1x **Masterful Blitz**, 1x **Fire's Reply**
+- **Wind's Reply** should also be used in both windows, whenever **Riddle of Wind** aligns.
+
+### Riddle of Wind and Wind's Reply
+**Riddle of Wind** being on a cooldown of 90 seconds means that it will only align with a **Riddle of Fire** every other use if used on cooldown (every 3 minutes). Using **RoW** will allow us to use **Wind's Reply** once during its duration. This naturally means that just as **RoW**, **Wind's Reply** also does not always align with every **RoF** window.
+
+While using **Riddle of Wind** on cooldown guarantees the maximum usages, sometimes we can strategically delay **RoW** to make it align with **RoF**, we do this only if it does not lose us an overall usage. This again requires knowledge or a good guess of the kill time, if it is unknown, **Riddle of Wind** is best used on cooldown.
+
+Compared to its counter-part, **Wind's Reply** can be used very freely, as it **does not** come with the benefit of **Formless Fist** or any other benefits than its mediocre medium range. We are free to use it in any part of the rotation.
+
+### Perfect Balance and Opo-opo Optimisation
+**Perfect Balance** allows us to use GCDs of any of the 3 forms and using the resulting **Masterful Blitz** grants us **Formless Fist**. As mentioned previously, Opo-opo GCDs are our strongest regular GCDs, as such we are looking to optimize the use of **Perfect Balance** to maximize our Opo-opo GCDs.
+
+First and foremost we do this by placement of **Perfect Balance**. Ideally it should always be placed after and follow an Opo-opo GCD.
+
+Secondly is sequencing. When using **Perfect Balance** to execute an **Elixir Burst** or a **Phantom Rush**, we are exclusively using Opo-opo GCDs. When building a **Rising Phoenix**, we are forced to use one GCD of each form. It might not be immediately obvious, but the order of those GCDs do matter. 
+
+A very common optimisation we can make for the Solar **PB** sequence for **Rising Phoenix** is pressing **PB** slightly before **RoF** following an Opo-opo GCD, such that **RoF** will come up before one of the three GCDs of the sequence. We can then order the three GCDs from weakest to strongest and this will often result in a weaker GCD being moved before **RoF** and stronger GCDs into **RoF**. Examples will be shown in the **Burst in Practice** section.
+
+Third is the placement relative to buffs. **Perfect Balance** has a 40 second cooldown and allows us to hold 2 charges. Our burst windows occur along 120 second intervals. We can fit 3 uses of Perfect Balance across this 2 minute span of time. We have established that the even window is the stronger of the 2 burst windows, and so we will put 2 uses of Perfect Balance into our even windows, and 1 use into our odd windows.
+
+### Nadi Alignment and Overcapping
+
+Keeping in mind that **Opo-opo** GCDs are our strongest form and **Phantom Rush** being our strongest GCD, we aim to optimise the amount of both, and also moving as many into Riddle of Fire and other buffs. If we follow the guideline of using two **Perfect Balance** in even windows and one **Perfect Balance** in odd windows, then we will collect a Solar Nadi and a Lunar Nadi in our opener, which will naturally give us our first **Phantom Rush** in the first odd minute window.
+
+If we strategically overcap the same Nadi by generating the same one twice, we can move **Phantom Rush** into our 2 minutes and subsequent even windows instead. This is usually preferred as the even windows contain both your buffs, as well as buffs of your party members. While ensuring that our strongest GCD is fully buffed sounds enticing, it might cause us to lose a **Phantom Rush** overall, as we are effectively pushing back the PR by one **Perfect Balance** usage. However with the buffs to **Phantom Rush** and Lunar sequences in Dawntrail, the loss of a **Phantom Rush** is usually not very significant the longer the fights become. Our preferred Nadi to overcap is the Lunar one, as it produces more Opo-opo GCDs. 
+
+The choice of optimal Nadi Alignment can change from fight to fight, but will mostly depend on the kill time.
+
+## Burst in Practice
+### Solar Odd Windows
+### Lunar Odd Windows
+### Even Windows
 
 ## Openers
 
-There are two primary openers available to us, though additional options and variations can be found in the advanced guide. Our best options are a **Double Lunar** and **Solar Lunar** openers and their variations. **Solar Lunar** aims to maximize the amounts of **Phantom Rushes**, as it does not overcap the Nadi like the **Double Lunar** opener does. The choice of the opener will decide what our odd and even windows will look like. 
+With Nadi Alignment and Overcapping in mind, there are two primary openers available to us, though additional options and variations exist. Our best options are a **Double Lunar** and **Solar Lunar** openers and their variations. **Solar Lunar** aims to maximize the amounts of **Phantom Rushes**, as it does not overcap the Nadi like the **Double Lunar** opener does. The choice of the opener will decide what our subsequent odd and even windows will look like. 
 
 The **Lunar Solar** opener can be treated as a default opener, as it ensures maximum Phantom Rush usages over an unknown killtime. This opener also affords us the opportunity to be flexible with where we place Rising Phoenix in our two minute burst window. This is beneficial, as it allows for greater flexibility of our burst window to account for our current Disciplined Fist/Demolish state. 
 
