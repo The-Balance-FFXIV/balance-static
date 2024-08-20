@@ -18,6 +18,10 @@ changelog:
 ---
 ![]()
 
+![]()
+
+![]()
+
 # **Basic Monk Guide**
 
 Welcome to the basic guide for Monk, which will cover all of the information necessary to get you off your feet and onto your hands. Included is a look into the various systems that come together to define the Monk playstyle, suggested openers, and explanations on how to correctly form burst windows.
@@ -134,18 +138,12 @@ While the AOE GCDs are very simple in Dawntrail, when to use them at Level 100 i
 
 ## Chakra
 
-|  Filled Chakra Gauge | Chakra Gauge in Brotherhood |
-| ------------------------------ | --- |
-| ![](/img/jobs/mnk/chakra5.png) | ![](/img/jobs/mnk/chakra10.png) |
-| ![](/img/jobs/mnk/chakra5simple.png)  | ![](/img/jobs/mnk/chakra10simple.png) |
+| Filled Chakra Gauge                  | Chakra Gauge in Brotherhood           |
+| ------------------------------------ | ------------------------------------- |
+| ![](/img/jobs/mnk/chakra5.png)       | ![](/img/jobs/mnk/chakra10.png)       |
+| ![](/img/jobs/mnk/chakra5simple.png) | ![](/img/jobs/mnk/chakra10simple.png) |
 
-
-
-
-
-
-
-Chakra is the simpler of our two job gauges. Chakra can be stacked up to five times, and once five stacks have been built, we can spend them on either a single target oGCD or an AoE Line oGCD, depending on the scenario. In Brotherhood, our Chakra can be stacked up to ten times.
+Chakra is the simplest of our three job gauges. Chakra can be stacked up to five times, and once five stacks have been built, we can spend them on either a single target oGCD or an AoE Line oGCD, depending on the scenario. In Brotherhood, our Chakra can be stacked up to ten times.
 
 |                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -172,41 +170,43 @@ Beast Chakra was introduced in Endwalker, and hinges around the changes to Perfe
 
 Perfect Balance has has two charges and a 40s cooldown. Upon executing a weaponskill, it grants a Beast Chakra of the corresponding Form. We can then spend these Beast Chakra on one of four Blitz weaponskills depending on the Chakra we had accumulated. Upon using any of these Blitzes, we're granted Formless Fist, allowing us to proceed with our rotation without having to do any GCDs without their form bonus.
 
-|                                                 |                                                                                                                                                                                                                                                                                         |
-| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002985_hr1.png) | If we have three of the same type of Beast Chakra, our Masterful Blitz will become **Elixir Burst**, an AoE with a potency of 900 that deals 70% less damage to all subsequent targets hit. Using Elixir Field will grant us a Lunar Nadi.                                              |
-| ![](https://xivapi.com/i/002000/002980_hr1.png) | If we have three different Beast Chakra, our Masterful Blitz becomes **Rising Phoenix**, an AoE with a potency of 900 that deals 70% less damage to all subsequent targets hit. Using Rising Phoenix will grant us a Solar Nadi.                                                        |
-| ![](https://xivapi.com/i/002000/002977_hr1.png) | If we have two different Beast Chakra, Masterful Blitz becomes **Celestial Revolution**, a single-target attack with a potency of 600. Using Celestial Revolution will grant us a Lunar Nadi by default, but if we already possess the Lunar Nadi it will instead give us a Solar Nadi. |
-| ![](https://xivapi.com/i/002000/002981_hr1.png) | If we have both the Solar and Lunar Nadi active, any combination of three Beast Chakra will turn Masterful Blitz into **Phantom Rush**, an AoE with a potency of 1500 potency that deals 50% less damage to all subsequent targets hit. It consumes both Nadi upon use.                 |
+| -                                                | Description                                                                                                                                                                                                                                                                                        | Example |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| ![](https://xivapi.com/i/002000/002985_hr1.png) | If we have three of the same type of Beast Chakra, our Masterful Blitz will become **Elixir Burst**, an AoE with a potency of 900 that deals 70% less damage to all subsequent targets hit. Using Elixir Field will grant us a Lunar Nadi.                                              | Lunar here |
+| ![](https://xivapi.com/i/002000/002980_hr1.png) | If we have three different Beast Chakra, our Masterful Blitz becomes **Rising Phoenix**, an AoE with a potency of 900 that deals 70% less damage to all subsequent targets hit. Using Rising Phoenix will grant us a Solar Nadi.                                                        | ![](/img/jobs/mnk/solar.png) |
+| ![](https://xivapi.com/i/002000/002977_hr1.png) | If we have two different Beast Chakra, Masterful Blitz becomes **Celestial Revolution**, a single-target attack with a potency of 600. Using Celestial Revolution will grant us a Lunar Nadi by default, but if we already possess the Lunar Nadi it will instead give us a Solar Nadi. | CR here |
+| ![](https://xivapi.com/i/002000/002981_hr1.png) | If we have both the Solar and Lunar Nadi active, any combination of three Beast Chakra will turn Masterful Blitz into **Phantom Rush**, an AoE with a potency of 1500 potency that deals 50% less damage to all subsequent targets hit. It consumes both Nadi upon use.                 | PR here |
 
 &nbsp;
 
-Now as for specifically which GCDs you want to press to activate each Blitz and when, we can intuit:
+Our Goal will be to get as many **Phantom Rushes** as we can in a fight. For this we will need a **Lunar** Nadi and a **Solar** Nadi. Using **Rising Phoenix** grants us a Solar Nadi. For Solar Nadis 3 Beast Chakras of different forms are required, one Opo-opo, one Raptor and one Coeurl Beast Chakra. We use one GCD of each form as per our Fury Gauge. For the Lunar Nadi we will need to use an **Elixir Burst**, which is granted by generating 3 Beast Chakra of the same form. The best form to use here is alternating our Opo-opo GCDs. This is because Leaping Opo is our strongest GCD.
 
-If we take Elixir Field, it requires three of the same Beast Chakra. This means we could technically do three Snap Punches, or a Twin Snakes and two True Strikes, but the highest DPS option are our Opo-Opo GCDs. Hence, whenever you need to use Elixir Field, your PB window will either be DK > Boot > DK, or Boot > DK > Boot, depending on if you had Leaden Fist active or not.
+Having collected both Nadis, our next use of Perfect Balance will grant us the **Phantom Rush** Masterful Blitz, regardless of which Beast Chakra we have used. Even though it does not matter which Beast Chakra we use to get the Masterful Blitz, Opo-opo will again be the strongest. 
 
-Rising Phoenix on the other hand requires even less comparative thought. It requires three different Beast Chakra, so you essentially continue through your rotation normally, following the flowchart of "If X, then Y" to attain three unique Beast Chakra. Sometimes you may wish to do Rising Phoenix PB windows slightly out of order, i.e., Twin > Opo > Coeurl, in order to ensure Disciplined Fist doesn't fall off.
-
-Celestial Revolution is just bad; we never want to use this skill. This is essentially the Mudra Bunny for the Beast Chakra system. It's much weaker than our other two options, and for some reason is a single target skill. However, just because we never use Celestial Revolution doesn't mean we'll never do two Beast Chakra PB windows. This is due to...
-
-Phantom Rush. Phantom Rush is our strongest Masterful Blitz, and as such is the skill we're always building toward. As mentioned, Phantom Rush will be executed regardless of your Beast Chakra combination provided you have both Nadi available. In theory then, you'd want to use the 3x Opo-Opo PB window to execute Phantom Rush every time, as that's the highest raw potency.
-
+We want to avoid using **Celestial Revolution** at all costs, however it is somewhat benevolent and will still progress us towards building a Phantom Rush.
 - - -
 
 ## Riddle of Fire + Brotherhood
 
 | Icon                                            | Name               | Effect                                                                                                                   | Duration | Cooldown |
 | ----------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------ | -------- | -------- |
-| ![](https://xivapi.com/i/002000/002541_hr1.png) | **Riddle of Fire** | Increases damage dealt by 15%.                                                                                           | 20s      | 60s      |
-| ![](https://xivapi.com/i/002000/002542_hr1.png) | **Brotherhood**    | Grants Brotherhood and Meditative Brotherhood to all party members within 30y. Brotherhood increases damage dealt by 5%. | 15s      | 120s     |
+| ![](https://xivapi.com/i/002000/002541_hr1.png) | **Riddle of Fire** | Increases damage dealt by 15%. Grants Fire's Rumination.                                                                                         | 20s      | 60s      |
+| ![](https://xivapi.com/i/002000/002542_hr1.png) | **Brotherhood**    | Grants Brotherhood and Meditative Brotherhood to all party members within 30y. Brotherhood increases damage dealt by 5%. | 20s      | 120s     |
 
 &nbsp;
 
-On the face of it, Riddle of Fire and Brotherhood are pretty simple skills. We press Riddle of Fire and do more damage for the next 20 seconds. We press Brotherhood and both we and our party do more damage for the next 15 seconds. Now while the burst windows that we build around these skills using the rest of our kit can be complex, the actual usage of these skills themselves are very simple. In a full uptime vacuum we simply press them on cooldown every single time they come back up. Make sure you're always weaving RoF in the latter half of your GCD roll to ensure you get a full 11 GCDs under the buff. 
+On the face of it, Riddle of Fire and Brotherhood are pretty simple skills. We press Riddle of Fire and do more damage for the next 20 seconds. We press Brotherhood and both we and our party do more damage for the next 20 seconds. While the burst windows that we build around these skills using the rest of our kit can be complex, the actual usage of these skills themselves are very simple. In a full uptime vacuum we simply press them on cooldown every single time they come back up. Make sure you're always weaving RoF in the latter half of your GCD roll to ensure you get a full 11 GCDs under the buff. 
 
-Some terminology I would like to introduce before we get deeper into the guide is the idea of odd and even Riddle of Fire windows. The "odd" window occurs on odd minutes (one, three, five, etc.), and consists solely of Riddle of Fire. The "even" window occurs on even minutes (two, four, six, etc), and contains both Riddle of Fire and Brotherhood. 
+In Dawntrail, Riddle of Fire as the additional effect of granting Fire's Rumination, which allows us the use of **Fire's Reply** during RoF, introduced in a later section.
+
+Some terminology I would like to introduce before we get deeper into the guide is the idea of odd and even Riddle of Fire windows. The "odd" window occurs on odd minutes (one, three, five, etc.), and consists solely of Riddle of Fire. The "even" window occurs on even minutes (two, four, six, etc), and contains both Riddle of Fire and Brotherhood.
 
 ## Riddle of Wind
+
+| Icon                                            | Name               | Effect                                                                                                                   | Duration | Cooldown |
+| ----------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------ | -------- | -------- |
+| ![](https://xivapi.com/i/002000/002978_hr1.png) | **Riddle of Wind** | Reduces auto-attack delay by 50%. Grants Wind's Rumination.                                                                                         | 15s      | 90s      |
+&nbsp;
 
 Functionally, you can think of Riddle of Wind as a DoT, or as a damaging oGCD. Given that it has a 90s CD, it's sometimes going to fall out of buffs; this is okay. In a vacuum, you just press Riddle of Wind on CD forever, getting the maximum amount of uses while every other usage misaligns itself from your buffs. In a real scenario, such as an encounter where you have a specific killtime/phase time in mind, you can afford to hold it into buffs when you know you aren't going to lose a usage by doing so.
 
@@ -214,17 +214,32 @@ I'll give an example of a six minute encounter. Over the course of six minutes, 
 
 What you could instead do is pop it at 0:00, 2:00, 3:30, 5:00. Here you get one use in your even RoF, as well as another usage at 5:00 in an odd RoF.
 
+In Dawntrail, Riddle of Wind also grants Wind's Rumination, allowing the use of **Wind's Reply** during its effect.
+
+## Fire's Reply and Wind's Reply
+
+| Icon                                            | Name               | Effect                                                                                                                   |
+| ----------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| ![](https://xivapi.com/i/002000/002987_hr1.png) | **Fire's Reply** | Can be used while under the effect of Fire's Rumination granted by Riddle of Fire. This ranged attack explodes around an enemy with 1200 potency and for 50% reduced potency for enemies around the primary target. Also grants Formless Fist after use.                                                                                      |
+| ![](https://xivapi.com/i/002000/002986_hr1.png) | **Wind's Reply** | Can be Used while under the effect of Wind's Rumination granted by Riddle of Wind. This medium range attack hits everything in a line for 900 potency for the first target, and the remaining targets at 50% reduced potency.                                                                              |
+&nbsp;
+
+**Fire's Reply** features a 20 yalm range and is our second highest hitting skill in our kit with 1200 potency. Ideally it is always used after an Opo-opo form GCD, as it grants Formless Fist, allowing us to continue with another Opo-opo form GCD right after. Its great range makes this also a very good downtime tool if it happens to align.
+
+**Wind's Reply** features an awkward 10 yalm range and is also a fairly high hitting skill with 700 potency. As opposed to Fire's Reply, Wind's Reply can be flexibly used during the duration of Riddle of Wind and Wind's Rumination. It does not break combo, and can also be used as a downtime tool.
+
+
 ## Utility and Misc. Skills
 
 This is the part where I cover everything that's been missed until now. We've covered everything you'd need to know in a dummy scenario, so now let's take a quick tour of the toolkit that we find ourselves using as soon as we leave the dummy and get into a real encounter.
 
 |                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://xivapi.com/i/002000/002547_hr1.png) | **Six-Sided Star** is a GCD with a potency of 550, but double the recast of every other GCD. While doing two GCDs is always more potency than doing one SSS, this is useful in scenarios where you don't have the time to do two GCDs, or before you disengage from a target. A situational skill, you'll either use it before running out of a big aoe, before a boss dies, or before a boss goes untargetable for whatever reason. It also applies a small movement speed buff for five seconds. Overall a very useful utility GCD.                                                                      |
-| ![](https://xivapi.com/i/002000/002537_hr1.png) | **Riddle of Earth** is an oGCD with a 120s CD. It reduces damage taken by 20% for 10 seconds, and if damage is taken during this period you are granted the effect of Earth's Reply, a 100 potency 15 second duration heal over time.                                                                                                                                                                                                                                                                                                                                                                      |
-| ![](https://xivapi.com/i/002000/002975_hr1.png) | **Thunderclap** is our new mobility tool, an oGCD with a 30s CD and three charges. It can target both your enemy or a party member, and so provides us a decent amount of flexibility, being able to zip around up to three times in a row. Whether or not we'll ever need that kind of mobility, we'll have to wait and see, but it's nice to know that it's there if we need it.                                                                                                                                                                                                                         |
+| ![](https://xivapi.com/i/002000/002547_hr1.png) | **Six-Sided Star** is a GCD with a potency of 780, but double the recast of every other GCD. In Dawntrail SSS also consumes all your Chakra with the same 80 potency per Chakra as The Forbidden Chakra. While doing two GCDs is always more potency than doing one SSS, this is useful in scenarios where you don't have the time to do two GCDs, or before you disengage from a target. A situational skill, you'll either use it before running out of a big aoe, before a boss dies, or before a boss goes untargetable for whatever reason. It also applies a small movement speed buff for five seconds. Overall a very useful utility GCD.                                                                      |
+| ![](https://xivapi.com/i/002000/002537_hr1.png) | **Riddle of Earth** is an oGCD with a 120s CD. It reduces damage taken by 20% for 10 seconds, and if damage is taken during this period you are granted the effect of Earth's Resolve, a 100 potency 15 second duration heal over time. Also grants Earth's Rumination for 30 seconds, allowing the use of **Earth's Reply**                                                                                                                                                                                                                                                                                                                                                      |
+| ![](https://xivapi.com/i/002000/002549_hr1.png) | **Earth's Reply** can be used while under the effect of Earth's Rumination. It creates a small AoE around you that heals for a considerable amount. It has increased healing potency while also under the effect of Earth's Resolve.                                                                                                                                                                                                                                                                                                                                                     |
+| ![](https://xivapi.com/i/002000/002975_hr1.png) | **Thunderclap** is our mobility tool, an oGCD with a 30s CD and three charges. It can target both your enemy or a party member, and provides us a decent amount of flexibility, being able to zip around up to three times in a row.                                                                                                                                                                                                                       |
 | ![](https://xivapi.com/i/000000/000216_hr1.png) | **Mantra** is an oGCD with a 15s duration and a 90s CD. It increases healing received by you and all party members within 30y by 10%, which is quite a strong mitigation tool. Given that a lot of the shields in this game (Succor, Aspected Helios, etc.) are based on the amount of healing done, it means that Mantra can be used to provide both increased healing and greater shielding. You should discuss with your healers when to use it for maximum benefit.                                                                                                                                    |
-| ![](https://xivapi.com/i/002000/002546_hr1.png) | **Anatman** is completely worthless in 99% of situations. It's a channeled GCD with a 60s CD that can be held for up to 30s. It extends your Disciplined Fist and present form timer to their maximum while preventing their expiration. As far as the current form goes, in the time you use Anatman you could've just used Form Shift instead. As for Disciplined Fist extension, it's incredibly hard to actually get value out of this, and when you do get value, all it does is save you from doing maybe one auto-attack and a Twin Snakes without the buff active. Maximum effort, minimum reward. |
 | ![](https://xivapi.com/i/000000/000828_hr1.png) | **Feint** is an oGCD with a 10s duration and a 90s CD, which lowers the target's physical damage dealt by 10% and magic damage dealt by 5%. This is a very nice tool now, as we're finally able to use it in fights that have no physical damage sources. As a tool for both progression and optimization it's invaluable, and you should discuss with your healers and tanks where it's best used for maximum effect.                                                                                                                                                                                     |
 | ![](https://xivapi.com/i/000000/000822_hr1.png) | **Arm's Length** is an oGCD with a 6s duration and a 120s CD. It nullifies almost every knockback/draw-in effect in the game, which is useful for keeping uptime when a boss tries to push you away. It can also be used to allow new solutions for mechanics.                                                                                                                                                                                                                                                                                                                                             |
 | ![](https://xivapi.com/i/000000/000830_hr1.png) | **True North** is an oGCD with two charges and a 45s CD. For its 10-second duration, it nullifies all positional requirements of your weaponskills. Even though we only have two positionals left, this is still useful for situations where for whatever reason you literally cannot get into the right position.                                                                                                                                                                                                                                                                                         |
