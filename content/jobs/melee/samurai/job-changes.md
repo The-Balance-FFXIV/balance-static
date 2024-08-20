@@ -1,7 +1,7 @@
 ---
 title: Samurai Changes
 layout: changes
-lastmod: 2024-01-17T04:34:56.569Z
+lastmod: 2024-08-18T07:02:42.216Z
 changes:
   - patch: "5.58"
     description: "[Placeholder for Endwalker]"
@@ -29,6 +29,20 @@ changes:
 
 
       Final relic weapon step brings with it updated endgame Best in Slot sets, Ultimate Best in Slot sets are unchanged due to item level sync.
+  - patch: "7.05"
+    description: >-
+      Pressing Meikyo Shisui grants us the Tendo buff, which transforms Midare
+      Setsugekka into a very high potency skill called Tendo Setsugekka, as well
+      as its follow-up Tendo Kaeshi Setsugekka. Tendo also applies to Tenka
+      Goken if you're doing the AoE rotation. Due to this high potency, we try
+      as much as possible to use Meikyo prior to our burst windows so that we
+      can fit them inside of buffs for some great contribution.
+
+
+      Using Midare Setsugekka or Tenka Goken gives us the "Tsubame-Gaeshi Ready" buff, which lets us use Kaeshi: Setsugekka or Kaeshi: Goken at any point after the Iaijutsu, giving us a great deal of flexibility handling mechanic downtime or holding onto them for buff windows for some extra contribution.
+
+
+      Skill revamps, Traits, and a new Ability called Zanshin, which we can use after pressing Ikishoten.
 authors:
   - Balance-SAM-Staff
   - boxer
