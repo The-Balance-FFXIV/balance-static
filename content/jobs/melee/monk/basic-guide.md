@@ -69,7 +69,7 @@ You have three forms: Opo-Opo, Raptor, and Coeurl:
 
 * In Opo-Opo form, Leaping Opo, Dragon Kick, and Shadow of the Destroyer gain additional effects. Using an Opo-opo GCD grants you Raptor form.
 * In Raptor form, Rising Raptor, Twin Snakes, and Four-point Fury gain additional effects. Using a Raptor GCD grants you Coeurl form.
-* In Coeurl form, Pouncing Coeurl, Snap Punch, and Rockbreaker gain additional effects. Using a Coeurl GCD grants you Opo-opo form.
+* In Coeurl form, Pouncing Coeurl, Demolish, and Rockbreaker gain additional effects. Using a Coeurl GCD grants you Opo-opo form.
 
 - - -
 
@@ -77,14 +77,14 @@ You have three forms: Opo-Opo, Raptor, and Coeurl:
 
 As previously mentioned, Monk has six core single-target GCDs.
 
-|                                                            |                                                                                                                                                                                                                                                                                                                              |
+| Gainers                                                           |                                                                                                                                                                                                                                                                                                                              |
 | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Bootshine](https://xivapi.com/i/000000/000208_hr1.png)   | **Bootshine** has a potency of 210, or 310 when you have Leaden Fist. When in Opo-Opo form, Bootshine will always crit.                                                                                                                                                                                                      |
-| ![Dragon Kick](https://xivapi.com/i/002000/002528_hr1.png) | **Dragon Kick** has a potency of 320. When in Opo-Opo form, it will grant the Leaden Fist buff.                                                                                                                                                                                                                              |
-| ![True Strike](https://xivapi.com/i/000000/000209_hr1.png) | **True Strike** has a potency of 300. It can only be executed from Raptor form.                                                                                                                                                                                                                                              |
-| ![Twin Snakes](https://xivapi.com/i/000000/000213_hr1.png) | **Twin Snakes** has a potency of 280. It also grants a 15% damage increase buff, Disciplined Fist, that lasts for 15 seconds. Twin Snakes can only be executed from Raptor form.                                                                                                                                             |
-| ![Demolish](https://xivapi.com/i/000000/000204_hr1.png)    | **Demolish** has a potency of 70, or 130 when executed from the rear. It also applies an 18-second duration dot with 70 potency, for a combined total of 130 + 420 potency. It can only be executed from Coeurl form.                                                                                                        |
-| ![Snap Punch](https://xivapi.com/i/000000/000210_hr1.png)  | **Snap Punch** has a potency of 250, or 310 when executed from the flank. It can only be executed from Coeurl form.                                                                                                                                                                                                          |
+| ![Dragon Kick](https://xivapi.com/i/002000/002528_hr1.png) | **Dragon Kick** has a potency of 320. When in Opo-Opo form, it will grant *Opo-opo's Fury*.                                                                                                                                                                                                                              | 
+| ![Twin Snakes](https://xivapi.com/i/000000/000213_hr1.png) | **Twin Snakes** has a potency of 420. Twin Snakes can only be executed from Raptor form and will grant *Raptor's Fury*.                                                                                                                                           | 
+| ![Demolish](https://xivapi.com/i/000000/000204_hr1.png)    | **Demolish** has a potency of 360, or 420 when executed from the rear. It can only be executed from Coeurl form and will grant two *Coeurl's Fury*.                                                                                                                                                                                                       | 
+| ![Leaping Opo](https://xivapi.com/i/002000/002982_hr1.png)   | **Leaping Opo** has a potency of 260, or 460 when you have *Opo-opo's Fury*. When in Opo-Opo form, Bootshine will always crit.                                                                                                                                                                                                      | 
+| ![Rising Raptor](https://xivapi.com/i/002000/002983_hr1.png) | **Rising Raptor** has a potency of 340, or 540 when you have *Raptor's Fury*. It can only be executed from Raptor form.                                                                                                                                                                                                                                              | 
+| ![Pouncing Coeurl](https://xivapi.com/i/002000/002984_hr1.png)  | **Pouncing Coeurl** has a potency of 310, or 520 when executed from the flank and when you have *Coeurl's Fury*. It can only be executed from Coeurl form.                                                                                                         | 
 | ![Form Shift](https://xivapi.com/i/002000/002536_hr1.png)  | **Form Shift** is a unique GCD, as it's not directly a part of our rotation, but it does enable our rotation. Form Shift grants the Formless Fist buff, which allows you to use any GCD and gain its additional form effects. Since this GCD does no damage, we only ever use it before pulling an enemy or during downtime. |
 
 &nbsp;
@@ -93,17 +93,11 @@ As previously mentioned, Monk has six core single-target GCDs.
 
 With the knowledge of these GCDs, we can actually already begin to build what will be the foundation of our rotation. Now, we know that we're going to be doing a three-step combo, but that we have two options for GCDs at each step; how do we decide which one to press?
 
-Effectively, each step of our rotation has a pure potency choice and a utility choice. Pure potency GCDs being Bootshine, True Strike, Snap Punch, utility being Dragon Kick, Twin Snakes, and Demolish. The utility choices are things you want to upkeep, but not overcap. Hence you'll apply each of them, and then use the pure potency option until they need reapplying.
+Effectively, each step of our rotation has a Filler and a Spender option. **Dragon Kick**, **Twin Snakes** and **Demolish** gain you Fury, these fill the respective job gauge to full, thus Filler. **Leaping Opo**, **Rising Raptor** and **Pouncing Coeurl** will spend the Fury from the respective job gauge, thus Spender.
 
-You can think of it as a flowchart:
+At each step, consult your job gauge, is there a Fury ball for your current form? Press the Spender GCD. Is it empty? Press the Filler GCD. This means we end up alternating **Dragon Kick** with **Leaping Opo**, **Twin Snakes** with **Rising Raptor** and for every **Demolish** we follow with two **Pouncing Coeurl**. The GCDs on the hotbar will also light up correctly following this logic, as such the glowing buttons can be followed as well.
 
-* When in Opo-Opo form, you check if you have Leaden Fist active. If you do, use Bootshine, if you don't, use Dragon Kick.
-* When in Raptor form you check the duration of your Disciplined Fist. If it's at roughly seven seconds remaining or more, press True Strike. If less, reapply Disciplined Fist.
-* When in Coeurl form, check the duration of your Demolish. If it's at roughly four seconds remaining or less, reapply Demolish, else press Snap Punch.
 
-At first glance this might seem confusing, and you may feel like you're constantly having to check timers and buffs. In reality however, it's actually very simple. You'll notice that when following this flowchart, the rotation actually falls into a very repetitive pattern. Your Opo-Opo GCDs will always alternate between Bootshine and Dragon Kick. Your Raptor GCDs will always alternate between True Strike and Twin Snakes. Your Coeurl GCDs will always have two Snap Punches between every Demolish.
-
-After doing this enough times, it will become pure muscle memory.
 
 ## AoE Rotation
 
