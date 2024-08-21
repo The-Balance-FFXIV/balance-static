@@ -2,7 +2,7 @@
 title: Bard Best in Slot (BiS)
 layout: bis
 patch: "7.05"
-lastmod: 2024-07-30T15:21:45.079Z
+lastmod: 2024-08-21T04:55:40.017Z
 changelog:
   - date: 2021-10-26T02:40:27.765Z
     message: Created page
@@ -24,7 +24,7 @@ changelog:
     message: Added 7.05 prog sets and i730 best in slot
 bis:
   - type: etro
-    name: i730 Best-in-Slot (2.50)
+    name: i730 Best-in-Slot (2.49)
     link: e3a5efdc-adee-4985-b91a-bf28f56933d0
     description: If you'd like to play at higher speeds, swap one or two DH melds
       for Skill Speed.
