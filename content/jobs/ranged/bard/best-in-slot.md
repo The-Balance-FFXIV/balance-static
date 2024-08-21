@@ -32,15 +32,6 @@ bis:
     link: 7b95b25c-7355-4f8f-b561-f77216d9a476
     name: 7.05 All-crafted prog set (2.48)
   - type: etro
-    name: 7.05 Prog w/tome earring set (2.50)
-    link: 30cbbea7-d50e-41dc-b98d-c59438299629
-  - type: etro
-    name: 7.05 Prog w/EX2 earring set (2.50)
-    link: 6f6d4f44-a602-4c79-bd87-7ab69d83f147
-    description: The all-crafted set is a little better than this, but if you're
-      more comfortable at 2.50 and can't get the tome earring quickly go ahead
-      and roll with this.
-  - type: etro
     description: ""
     name: "The Omega Protocol (prog) BiS "
     link: 5f02a28a-4114-41e7-a9b4-349089a8b387
