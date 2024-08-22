@@ -56,4 +56,5 @@ bis:
     link: 535a7ddf-f554-414f-b1c3-49c0485ea11c
 authors:
   - Balance-PCT-Staff
+  - Laille-Ormesaing
 ---
