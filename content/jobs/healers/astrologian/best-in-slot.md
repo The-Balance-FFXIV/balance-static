@@ -11,7 +11,7 @@ changelog:
 bis:
   - type: xivgearset
     name: Max ilvl Sets
-    link: https://xivgear.app/?page=sl%7Ca5c31c4d-274b-4aa7-af4d-4bd0352aa412
+    link: a5c31c4d-274b-4aa7-af4d-4bd0352aa412
     description: >-
       Use these sets for GENERAL PURPOSE, such as PF and reclears. The super
       small damage loss is negligible in these situations, and the much higher
@@ -21,7 +21,7 @@ bis:
       These will also be our sets for ultimate. Prep a set for yourself for the upcoming 7.1 FRU.
   - type: xivgearset
     name: Lower ilvl, Max Damage sets
-    link: https://xivgear.app/?page=sl%7C2d3f5173-bac8-43e4-be8a-a1d6b1fa66af
+    link: 2d3f5173-bac8-43e4-be8a-a1d6b1fa66af
     description: >-
       Use these sets for SPEEDRUNNING, and OPTIMIZED ENVIRONMENTS. There is
       objectively a damage gain to using these, and will be the better choice
