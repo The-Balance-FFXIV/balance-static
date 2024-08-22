@@ -3,7 +3,7 @@ title: Samurai Opener and Rotation
 authors:
   - Balance-SAM-Staff
 patch: "7.05"
-lastmod: 2024-08-18T06:17:12.272Z
+lastmod: 2024-08-22T21:02:32.607Z
 changelog:
   - date: 2021-10-28T03:26:44.525Z
     message: Created page
