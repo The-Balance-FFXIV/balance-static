@@ -8,6 +8,8 @@ changelog:
     message: updated for 6.4
   - date: 2024-01-29T23:57:36.750Z
     message: Updated for 6.55. See set description for link to newest BiS.
+  - date: 2024-08-22T06:37:37.121Z
+    message: updated gear sets
 bis:
   - type: gsheets
     name: Lower Item Level Gear Sets
