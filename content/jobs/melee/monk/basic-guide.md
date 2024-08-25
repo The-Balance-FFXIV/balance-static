@@ -3,8 +3,9 @@ title: Monk Basic Guide
 card_header_image: /img/jobs/mnk/basic.png
 authors:
   - Perfect-Balance
-patch: "6.4"
-lastmod: 2023-05-30T23:31:43.700Z
+  - nyanpyon
+patch: "7.05"
+lastmod: 2024-08-25T23:31:43.700Z
 changelog:
   - date: 2021-10-28T03:44:08.486Z
     message: Created page
@@ -368,39 +369,58 @@ Thankfully, this makes it so that regardless of which Nadi state we arrive at th
 
 This timing ensures that the **Masterful Blitz** built from our first **PB** will always be under **RoF** and **BH**. This is the same principle used as in Solar Odd windows.
 
-We follow the rules similarly as for the Odd windows. The first **Masterful Blitz** will either be a Solar or a Lunar sequence. If it is a Lunar sequence we will spend the **PB** GCDs on Opo-opo Form, and if it is a Solar sequence we will order the GCDs from weakest to strongest. We use the **Formless Fist** granted by **Masterful Blitz** on an Opo-opo GCD. And follow it by a Lunar sequence **PB**. The **Fire's Reply**, as usual, is placed appropriately after the Opo-opo GCD following either of the Blitzes, or after the 3 **PB** GCDs and its **Formless Fist** is also followed by an Opo-opo GCD. **Wind's Reply** can be placed anywhere in this sequence.
+We follow the rules similarly as for the Odd windows. The first **Masterful Blitz** will either be a Solar or a Lunar sequence. If it is a Lunar sequence we will spend the **PB** GCDs on Opo-opo Form, and if it is a Solar sequence we will order the GCDs from weakest to strongest. We use the **Formless Fist** granted by **Masterful Blitz** on an Opo-opo GCD. And follow it by a Lunar sequence **PB**. The **Fire's Reply** is placed appropriately after the Opo-opo GCD following either of the Blitzes as usual, or after the 3 **PB** GCDs. Its **Formless Fist** is also followed by an Opo-opo GCD. **Wind's Reply** can be placed anywhere in this sequence.
 
 ![](/img/jobs/mnk/even.png)
 
+&nbsp;
+
+#### Fixing the -3 PB
+
+In the instance that the -3 **PB** (3 GCDs before **RoF**) window is misidentified, we will arrive at what is known as the dreaded Even 0 window. **PB**, **RoF** and **BH** will come up in the same GCD, requiring us to do a triple-weave or otherwise sub-optimal option. The best way to handle this situation is by not using **PB** yet, and instead using **BH** and **RoF**, following it immediately by **Fire's Reply** and its Opo-opo GCD. After that we execute our usual even window **PB.**
+
+![even0](/img/jobs/mnk/even.png "Even 0 Fix")
+
 ## Openers
 
-With Nadi Alignment and Overcapping in mind, there are two primary openers available to us, though additional options and variations exist. Our best options are a **Double Lunar** and **Solar Lunar** openers and their variations. **Solar Lunar** aims to maximize the amounts of **Phantom Rushes**, as it does not overcap the Nadi like the **Double Lunar** opener does. The choice of the opener will decide what our subsequent odd and even windows will look like. 
+With Nadi Alignment and Overcapping in mind, there are two primary openers available to us, though additional options and variations exist. Our best options are a **Double Lunar** and **Solar Lunar** openers and their variations. The popular variations that every player should know for each opener is the 5s Buff variant and the 7s Buff variant.
 
-### Lunar Solar
+**Solar Lunar** aims to maximize the amounts of **Phantom Rushes**, as it does not overcap the Nadi like the **Double Lunar** opener does. **Double Lunar** sets us up with a Nadi overcap, ideal for shifting the **Phantom Rush** into Even windows instead. The choice of the opener will decide what our subsequent odd and even windows will look like. 
 
-![Lunar Solar Opener](/img/jobs/mnk/mnkguide_0000_lunarsolar.png "Lunar Solar Opener")
+### Solar Lunar
 
-This opener is effectively the "Guaranteed Max Phantom Rush uses" opener; it starts out by generating both a Lunar and a Solar Nadi and banishing our PR to the land of the one-minute buffs. The opener requires a double weave if you wish to preserve the same Brotherhood timing as the double Solar opener. If you and your group are fine to delay BH by one GCD, simply move it + Riddle of Wind one oGCD slot down.
+![Solar Lunar 5s Opener ](/img/jobs/mnk/monk-solar-lunar-dk-opener-5s-buffs-.png "Solar Lunar 5s Opener")
 
-### Double Solar
+&nbsp;
 
-![Double Solar Opener](/img/jobs/mnk/mnkguide_0002_doublesolar.png "Double Solar Opener")
+![Solar Lunar 7s Opener](/img/jobs/mnk/monk-solar-lunar-dk-opener-7s-buffs-.png "Solar Lunar 7s Opener")
 
-Doing two Rising Phoenix overcaps us on Solar Nadi; that is intentional. This is done for Phantom Rush alignment, as pushing PR into the two minute window can be beneficial provided we have an ideal killtime and a party composition with a lot of two minute buffs.
+Above are the most popular Solar Lunar openers. The choice will largely depend on your party's preferred buff timing. Most party compositions will prefer 5s Buffs.
 
-Brotherhood's placement is flexible should it ever need to be moved to account for your party composition.
+The Solar Lunar opener sets up for Lunar Odd windows and subsequent Solar Lunar Even windows.
+
+### Double Lunar
+
+![Double Lunar 5s Opener](/img/jobs/mnk/monk-double-lunar-dk-opener-5s-buffs-.png "Double Lunar 5s Opener")
+
+&nbsp;
+
+![Double Lunar 7s Opener](/img/jobs/mnk/monk-double-lunar-dk-opener-7s-buffs-.png "Double Lunar 7s Opener")
+
+Above are the most popular **Double Lunar** openers. The choice will largely depend on your party's preferred buff timing. Most party compositions will prefer 5s Buffs.
+
+The **Double Lunar** Opener sets up for both the **Double Lunar** and the **Triple Lunar** path, which is the amount of times we overcap the Lunar Nadi before continuing building Nadis as usual.
+- For **Double Lunar** we want to continue with **Solar** Odd windows and **Double Lunar** Even windows. This path will have **Phantom Rush** as our first **Masterful Blitz** in the Even windows.
+- For **Triple Lunar** we do **Lunar** Odd windows and **Solar Lunar** Even windows. This path will have **Phantom Rush** as our second **Masterful Blitz** in the Even windows.
 
 ## Picking Your Path
+You can play any of the openers and subsequent paths without a very large loss, however there is still an optimal choice. This optimal choice is always **strongly** related to kill time, as the wrong kill times for **Double Lunar** and **Triple Lunar** can result in the loss of a **Phantom Rush**. As such, in a vacuum, **Solar Lunar** tends to be safest option for personal damage, as it maximizes the amount of **Phantom Rushes** for any kill time. While losing a **Phantom Rush** used to be a bigger loss in Endwalker, even if it is put into Even windows. In Dawntrail it is no longer that big of a loss, and a couple of buffs might already be enough to make it better in terms of party dps. 
 
-Monk now has three different primary choices as to how you'd like to play. Available to us are the **braindead looping** rotation, the **optimal drift** rotation, and the **double solar** rotation:
+For the kill times the **PR** is not lost, **Double Lunar** and **Triple Lunar** will perform a lot better than **Solar Lunar**, while the latter will only perform slightly better when it gains a **PR** over the other paths.
 
-* The looping rotation forces a couple of minor "misplays" in order to form a rotation that naturally loops itself every two minutes, providing an easier gameplay experience for first timers. 
-* The optimal drift rotation consists of more nuanced burst windows, with multiple potential even windows depending on which Coeurl GCD happens around a Riddle of Fire.
-* The double solar rotation follows a set of rules based on Perfect Balance entries around Riddle of Fire windows for potentially higher DPS that relies on stricter conditions to excel.
+With this in mind, if the kill time is unknown, we recommend either the use of **Solar Lunar** or **Double Lunar**. While the choice of the former is the safest option, the **Double Lunar** path can be chosen, as it is a larger gain for most kill times compared to **Solar Lunar**, and is only a small loss otherwise for the remaining kill times, especially when factoring in party buffs.
 
-![Opener Analysis](/img/jobs/mnk/mnkguide_0006_rotations.png "Opener Analysis")
-
-The image above demonstrates the DPS difference between each of the three rotations given an uninterrupted 8:30 sim. As you can see it’s incredibly tight between all three options. I would recommend starting out with the loop to get a feel for the job, progressing on to Optimal Drift if you decide you enjoy it and wish to push the job further. Double Solar is relegated to specific scenarios; it must be a kill time that will not lose you a use of Phantom Rush (6:30, 8:30, etc) and your party composition should contain a reasonable amount of two minute raid buffs to really leverage the enhanced two minute burst. In 99% of situations you are better using Optimal Drift, however when the stars align Double Solar does get to have its’ time in the sun (all puns intended). Double Solar becomes comparatively stronger than the other options the longer a fight goes (assuming you do not lose a Phantom Rush), and can sometimes gain an edge by allowing you to better use either the targeted AoE or the AoE centered around yourself in order to cleave more targets.
+For optimized settings, the kill time is usually known and the path can be picked accordingly. In terms of buff contribution and keeping your friends with party buffs happy, both **Double Lunar** and **Triple Lunar** will be the preferred paths, even if it comes at a slight loss of personal dps, and sometimes even party dps with a small amount of party buffs.
 
 - - -
 
