@@ -250,25 +250,29 @@ This is the part where I cover everything that's been missed until now. We've co
 - - -
 
 # Rotational Choices
+
 ## Burst in Theory
+
 ### Riddle of Fire and Brotherhood
+
 Firstly, we want to get the **maximum number of uses** of **Riddle of Fire**. **RoF** has a duration of 20 seconds, this means Monk can fit 11 GCDs into a **late-weave** **RoF**. It is absolutely crucial to use **RoF** late into the GCD roll such that it can catch the 11th GCD. **Broterhood** also has a duration of 20 seconds and we are aiming to align it as well as we can with our **RoF** and other party buffs.
 
 Using **Riddle of Fire** also grants us one use of **Fire's Reply** during its duration and it should never be skipped. As **Fire's Reply** grants us **Formless Fist**, we are aiming to use it after an Opo-opo GCD (**Leaping Opo** or **Dragon Kick**) and follow it with another Opo-opo GCD. 
 
 ### Odd and Even Windows
-**Riddle of Fire** has a cooldown of 60 seconds, where **Brotherhood** sits at 120 seconds. This results with us pressing **Riddle of Fire** every minute, where ever other minute it will be paired with **Broterhood**. Given that half of our burst windows consist solely of **RoF** and the other half have both **RoF** and **BH**, we have names to distinguish between them: **even** and **odd** windows.
 
+**Riddle of Fire** has a cooldown of 60 seconds, where **Brotherhood** sits at 120 seconds. This results with us pressing **Riddle of Fire** every minute, where ever other minute it will be paired with **Broterhood**. Given that half of our burst windows consist solely of **RoF** and the other half have both **RoF** and **BH**, we have names to distinguish between them: **even** and **odd** windows.
 
 The windows are named after the minute they occur in an encounter. **RoF** and **BH** are used together at the start of the fight and the align every 2 minutes (0, 2, 4, 6...), hence even window. **RoF** is used on its own every minute after even windows (1, 3, 5, 7, ...), hence odd window. 
 
 As the even window contains all the raid buffs including your own raid buff **BH**, we prioritise this window over the odd window. With the cooldown of **Perfect Balance** being 40 seconds, this allows to fit the following GCDs into each window>
 
-- Even: 2x **Masterful Blitz**, 1x **Fire's Reply**
-- Odd: 1x **Masterful Blitz**, 1x **Fire's Reply**
-- **Wind's Reply** should also be used in both windows, whenever **Riddle of Wind** aligns.
+* Even: 2x **Masterful Blitz**, 1x **Fire's Reply**
+* Odd: 1x **Masterful Blitz**, 1x **Fire's Reply**
+* **Wind's Reply** should also be used in both windows, whenever **Riddle of Wind** aligns.
 
 ### Riddle of Wind and Wind's Reply
+
 **Riddle of Wind** being on a cooldown of 90 seconds means that it will only align with a **Riddle of Fire** every other use if used on cooldown (every 3 minutes). Using **RoW** will allow us to use **Wind's Reply** once during its duration. This naturally means that just as **RoW**, **Wind's Reply** also does not always align with every **RoF** window.
 
 While using **Riddle of Wind** on cooldown guarantees the maximum usages, sometimes we can strategically delay **RoW** to make it align with **RoF**, we do this only if it does not lose us an overall usage. This again requires knowledge or a good guess of the kill time, if it is unknown, **Riddle of Wind** is best used on cooldown.
@@ -276,6 +280,7 @@ While using **Riddle of Wind** on cooldown guarantees the maximum usages, someti
 Compared to its counter-part, **Wind's Reply** can be used very freely, as it **does not** come with the benefit of **Formless Fist** or any other benefits than its mediocre medium range. We are free to use it in any part of the rotation.
 
 ### Perfect Balance and Opo-opo Optimisation
+
 **Perfect Balance** allows us to use GCDs of any of the 3 forms and using the resulting **Masterful Blitz** grants us **Formless Fist**. As mentioned previously, Opo-opo GCDs are our strongest regular GCDs, as such we are looking to optimize the use of **Perfect Balance** to maximize our Opo-opo GCDs.
 
 First and foremost we do this by placement of **Perfect Balance**. Ideally it should always be placed after and follow an Opo-opo GCD.
@@ -295,11 +300,53 @@ If we strategically overcap the same Nadi by generating the same one twice, we c
 The choice of optimal Nadi Alignment can change from fight to fight, but will mostly depend on the kill time.
 
 ## Burst in Practice
+
+Let's touch on the **Riddle of Fire**, **Brotherhood** and **Perfect Balance** rules again.
+
+* Always press **RoF** and **BH** on cooldown, keeping them aligned
+* Always late weave **RoF**
+* Always **PB** after an Opo GCD
+* Always Opo GCD with **Formless Fist** (after **Masterful Blitz** and **Fire's Reply**)
+* 1 **PB** in Odd windows, 2 **PB** in Even windows
+
+### Fire's Reply in Practice
+
+In practice, **Fire's Reply** can be used a little more flexibly. The most optimal use is to directly maximize Opo-opo GCDs, this happens whenever we use it after a Opo-opo GCD. However, less obvious but resulting in the same amount of Opo-opo GCDs is when we use it after our 3 **Perfect Balance** GCDs and before **Masterful Blitz** when we are in **no form**. 
+
+This additional option allows us to place the **Fire's Reply** at a different time where it could be more useful, for example when we need to leave melee range. As such **FR** is also a very important uptime tool, as it allows us to roll our GCD even when out of range. This said, very often you might find yourself in a situation where you need to leave melee range, but there is no suitable **FR** use that maximizes the Opo-opo GCDs. In such cases it can and should be used more flexibly after any GCD, as a lost GCD is always worse than using **FR** sub-optimally.
+
 ### Solar Odd Windows
+
+To perform a Solar Odd window, we are looking to use **PB** before **RoF**. We want to place the **PB** after an Opo-opo GCD about 2-7 seconds on the **RoF** cooldown. This will ensure that the resulting **Rising Phoenix** becomes ready after the usual 3 GCDs and will be placed into **RoF**. We then follow the **Rising Phoenix** with another Opo-opo GCD that is granted to us by the **Formless Fist**. 
+
+The following infographic describes our desired Solar Odd windows:
+
+![](/img/jobs/mnk/solar-odd.png)
+
+&nbsp;
+
+An important optimization and the reason why we are using **PB** before **RoF** is because it allows us to reorder the 3 GCDs while in **Perfect Balance**. This allows us to reorder them from weakest (Dragon Kick) to the strongest (Leaping Opo) GCD. Very often this allows us to remove a weaker GCD from **RoF** to replace it with a stronger GCD.
+
+**Fire's Reply** can also be used after the 3rd **PB** GCD when we have **no form**, followed by an Opo-opo GCD and **Rising Phoenix**. GCD-wise this will result in the exact same burst window otherwise, however in practice it can often be helpful to reorder the usage if **FR** can be used as a ranged option.
+
 ### Lunar Odd Windows
+
+To perform a Lunar Odd window, we are looking to use **PB** after **RoF**. The Lunar sequence then consists only out of Opo-opo GCDs. Using **PB** after **RoF** will ensure that all these Opo-opo GCDs are in the window, including the **Masterful Blitz**. **Fire's Reply** can again be used after the Opo-opo GCD following the **Masterful Blitz**, or following the 3rd **PB** GCD.
+
+![](/img/jobs/mnk/lunar-odd.png)
+
+&nbsp;
+
+#### "Umm Actually" Lunar Odd Windows
+While using **PB** after **RoF** is almost always correct, there is one specific case where this is unfortunately not the case. This case is mostly included for brevity and completeness, as in practice it is quite hard to recognize and rarely occurs.
+
+This window is happens if a **Leaping Opo** is encountered 2 GCDs (around ~3s) before **RoF** comes off cooldown, in which case pressing **PB** before **RoF** is better. This will move a **Dragon Kick** out of the window, and instead trades it with a Raptor GCD.
+
+
 ### Even Windows
 
 ## Openers
+
 With Nadi Alignment and Overcapping in mind, there are two primary openers available to us, though additional options and variations exist. Our best options are a **Double Lunar** and **Solar Lunar** openers and their variations. **Solar Lunar** aims to maximize the amounts of **Phantom Rushes**, as it does not overcap the Nadi like the **Double Lunar** opener does. The choice of the opener will decide what our subsequent odd and even windows will look like. 
 
 ### Lunar Solar
