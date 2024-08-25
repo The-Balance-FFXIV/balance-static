@@ -338,12 +338,39 @@ To perform a Lunar Odd window, we are looking to use **PB** after **RoF**. The L
 &nbsp;
 
 #### "Umm Actually" Lunar Odd Windows
+
 While using **PB** after **RoF** is almost always correct, there is one specific case where this is unfortunately not the case. This case is mostly included for brevity and completeness, as in practice it is quite hard to recognize and rarely occurs.
 
 This window is happens if a **Leaping Opo** is encountered 2 GCDs (around ~3s) before **RoF** comes off cooldown, in which case pressing **PB** before **RoF** is better. This will move a **Dragon Kick** out of the window, and instead trades it with a Raptor GCD.
 
+![](/img/jobs/mnk/lunar-actually.png)
+
+&nbsp;
 
 ### Even Windows
+
+Our even windows will include the following mandatory GCDs:
+
+* 2 **Masterful Blitz**
+* **Fire's Reply**
+* 2 **Formless Fist** used on Opo-opo GCDs 
+* 3 **Perfect Balance** GCDs (ideally a Lunar sequence)
+* **Wind's Reply** - if available
+
+That's 8 (9 with **WR**) GCDs that we need to squeeze into our 11 GCD **RoF** window.
+This requires us to use **Perfect Balance** prior to **Riddle of Fire**.
+
+Thankfully, this makes it so that regardless of which Nadi state we arrive at the even window at, it will always start with a Solar or Lunar sequence, followed always by a Lunar sequence. As such we can summarise the even window in the following way:
+
+* When you press an Opo-opo GCD 2-4 GCDs before **RoF** and **BH** come off cooldown, follow it with a **Perfect Balance**
+
+  * Alternative identifier: when you press an Opo GCD while **RoF** and **BH** have between 2-7 seconds left on cooldown
+
+This timing ensures that the **Masterful Blitz** built from our first **PB** will always be under **RoF** and **BH**. This is the same principle used as in Solar Odd windows.
+
+We follow the rules similarly as for the Odd windows. The first **Masterful Blitz** will either be a Solar or a Lunar sequence. If it is a Lunar sequence we will spend the **PB** GCDs on Opo-opo Form, and if it is a Solar sequence we will order the GCDs from weakest to strongest. We use the **Formless Fist** granted by **Masterful Blitz** on an Opo-opo GCD. And follow it by a Lunar sequence **PB**. The **Fire's Reply**, as usual, is placed appropriately after the Opo-opo GCD following either of the Blitzes, or after the 3 **PB** GCDs and its **Formless Fist** is also followed by an Opo-opo GCD. **Wind's Reply** can be placed anywhere in this sequence.
+
+![](/img/jobs/mnk/even.png)
 
 ## Openers
 
