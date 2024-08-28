@@ -23,9 +23,9 @@ changelog:
 ---
 # Foreword
 
-With the release of Endwalker, Samurai is now celebrating four years in the game. With Boxer’s permission I am updating this guide for Endwalker. ~~6.0 doesn’t change a whole lot about the fundamentals of playing Samurai or melee~~ 6.1 has fundamentally changed the way Samurai plays in Endwalker, and the changes will be covered in this document. Despite this, this guide is still intended for newer players. 
+As of Dawntrail, Samurai has been part of the game for seven years. As part of the team, I am updating this guide for Dawntrail as we have gotten a substantial amount of changes upon release, until 7.05 which marked a big shift in gameplay since Shadowbringers, and will be covered in this document. This guide is intended for newer and older players alike.
 
-\-Zombii
+\-Zheng
 
 - - -
 
@@ -37,7 +37,7 @@ The following section summarizes Samurai’s abilities. You may also refer to [S
 
 A summary of all of Samurai's actions can be found [here.](/jobs/melee/samurai/skills-overview/)
 
-In an eight-person instance such as an Extreme Primal or Savage Raid, all actions except (usually) Leg Sweep will see at least some use. Leg Sweep has seen situational use in the past. Depending on your party's strategy, Bloodbath, Second Wind, and Feint may all be used situationally to assist healers, while Arm’s Length is useful in any fight with a knockback/pull mechanic such as floors two and four of Pandaemonium Savage. True North will be useful in a majority of fights, as getting a full omni-directional fight is very uncommon these days.
+In an eight-person instance such as an Extreme Primal or Savage Raid, all actions except (usually) Leg Sweep will see at least some use. Leg Sweep has seen situational use in the past. Depending on your party's strategy, Bloodbath, Second Wind, and Feint may all be used situationally to assist healers, while Arm’s Length is useful in any fight with a knockback/pull mechanic such as floor three of Arcadion Savage. True North will be useful in a majority of fights, as getting a full omni-directional fight is very uncommon these days.
 
 # Shape of the Blade: Introduction to Samurai
 
@@ -62,7 +62,7 @@ Kenki is SAM’s second but extremely vital resource. All of SAM’s GCD skills 
 * Minimizing resource waste by not overwriting Sen/Meditation or generating excess Kenki
 * Maximizing bursts within raid buffs
 * Awareness of fight transitions to know how much Sen/Kenki to start or end a phase with
-* Tsubame-gaeshi, Meikyo, and Ikishoten/Ogi CD timing
+* Tendo Setsugekka, Tsubame-gaeshi, Meikyo, and Ikishoten/Ogi CD timing
 
 **Advantages:**
 
@@ -90,7 +90,7 @@ If you do not, go:
 
 Kasha combo > Gekko combo > Yukikaze combo.
 
-Meikyo Shisui allows us to put our buffs up immediately, removing the long ramp-up period that Samurai had in Shadowbringers. We want to do this in nearly all situations, even before you unlock the second charge of Meikyo at level 88.
+Meikyo Shisui allows us to put our buffs up immediately, and we want to do this in nearly all situations, even before you unlock the second charge of Meikyo at level 76.
 
 Due to the aforementioned Meikyo changes that allow us to apply buffs more quickly, we have shifted from applying Fuka (formerly Shifu) first to applying Fugetsu (formerly Jinpu) first. Since we can apply Fuka on the second GCD, we lose less from applying it second. However, we gain a large amount of potency from its application GCD (Kasha when under Meikyo) under Fugetsu.
 
@@ -104,7 +104,7 @@ Lastly, Yukikaze would be the least significant combo out of the three in the op
 
 ## Honing the Blade: Kenki and Potency
 
-If the Sen system and Ogi Namikiri and its 800 potency is what catches people’s attention with its flash, then SAM’s Kenki system is what makes the engine run and deal out damage over the fight. Kenki generation is 100% predictable and tied to your GCDs, and in an ideal world you want to finish a fight with 0 Kenki. As such, you will generate and expend similar amounts of Kenki over the same duration. To understand how much Kenki is worth to your damage, it may be preferable to use potency/Kenki and use your most common Kenki skill (Shinten) as a baseline.
+With the Sen system, Ogi Namikiri and, the new Tendo Setsugekka with its 1020 potency and auto-crit is what catches people’s attention with its flash, then SAM’s Kenki system is what makes the engine run and deal out damage over the fight. Kenki generation is 100% predictable and tied to your GCDs, and in an ideal world you want to finish a fight with 0 Kenki. As such, you will generate and expend similar amounts of Kenki over the same duration. To understand how much Kenki is worth to your damage, it may be preferable to use potency/Kenki and use your most common Kenki skill (Shinten) as a baseline.
 
 |                    |                  |                                              |
 | ------------------ | ---------------- | -------------------------------------------- |
@@ -144,15 +144,17 @@ Of course, exceptions always happen. You will recognize the exceptions in the fi
 
 As of 5.0, usage of Enpi has extended into the potential for keeping rotational alignment. Please refer to the section on looping or to the 6.0 SAM optimization guide for more information.
 
-## Meikyo Shisui: A Mirror in Still Water
+## Meikyo Shisui: Rise to the Heavens
 
 With the changes to Meikyo Shisui and combo enders (Gekko/Kasha) in 6.0, its role as a tool in our rotation has changed in a big way going into Endwalker. Instead of existing solely as an optimization tool and a way to fix our rotational alignment to maximize our Iaijustu and Tsubame usage, it now offers a way to avoid the ramp-up/buff application period that defined Samurai in Shadowbringers.
 
-The goal of Meikyo is to manipulate your Sen so you can apply your buffs as quickly as possible and maximize Iaijutsu usage. For example, in the opener we use Meikyo to quickly apply both of our buffs, get all three Sen, and open with a fully buffed Midare in raid buffs. We also use Meikyo in every 60s burst window to manipulate our Sen and quickly perform a buffed Higanbana right on time. While leveling or in dungeon content, it can also be used to quickly perform Tenka Goken for AoE purposes.
+As of Dawntrail as well, Meikyo allows us to use our newest tool, Tendo Setsugekka, a 1020 potency GCD with a guaranteed critical hit per use. When our Meikyo Shisui is used, our next Midare turns into a Tendo and will do more damage than a standard Midare, and give a Kaeshi version named Kaeshi Tendo Setsugekka. If you're building a Tenkka Goken, Meikyo turns our Tenkka Goken into a Tendo Goken.
+
+The goal of Meikyo is to manipulate your Sen so you can apply your buffs as quickly as possible, maximize Iaijutsu usage, and use Tendo Setsugekka. For example, in the opener we use Meikyo to quickly apply both of our buffs, get all three Sen, and open with a fully buffed Tendo in raid buffs. We also use Meikyo in every 60s burst window to manipulate our Sen and quickly perform a buffed Higanbana right on time. While leveling or in dungeon content, it can also be used to quickly perform Tendo Goken for AoE purposes.
 
 **Tip:** Iaijutsu does not count as one of the three Weaponskills on Meikyo, so you can use it between the three to put up Higanbana with ease. For example: Meikyo starts > Kasha > Higanbana > Kasha > Gekko (Meikyo ends).
 
-In relation to the order of the Sen, it is important to note *which* finishers to use if you are planning to come out of the Meikyo with one or two Sen. You need to look at the remaining duration of the buffs you have and keep track of the order of the buffs that need to be refreshed. The reason being that the first combo you do after a Meikyo will likely be the buff that needs to be refreshed or has the shortest duration; therefore, you will reapply the buff and its Sen immediately after and then followed by the next. As such, if you are ending a Meikyo with one or two Sen, use the Sen with the longest buff duration last in Meikyo.
+It is important to note *which* finishers to use if you are planning to come out of the Meikyo with one or two Sen. You need to look at the remaining duration of the buffs you have and keep track of the order of the buffs that need to be refreshed. The reason being that the first combo you do after a Meikyo will likely be the buff that needs to be refreshed or has the shortest duration; therefore, you will reapply the buff and its Sen immediately after and then followed by the next. As such, if you are ending a Meikyo with one or two Sen, use the Sen with the longest buff duration last in Meikyo.
 
 **For example:** If you just performed a Gekko combo and have a Getsu Sen and Higanbana need to be refreshed in four GCDs, but you cannot wait. 
 
@@ -160,7 +162,7 @@ With Meikyo, it is possible for you to go the following sequence:
 
 ![](/img/jobs/sam/meikyoExample.png)
 
-Now, how to use Meikyo to increase your damage? Consider Meikyo as a GCD saver after you have refreshed both your Fugetsu and Fuka buffs, as it lets you skip an entire two GCDs in your Kasha and Gekko combos. The most ideal situation is one where you use all three of Meikyo’s GCDs on Kasha and Gekko only, as using Yukikaze in Meikyo saves you only one GCD and Yukikaze is a weaker finisher.
+Meikyo is not just a key to use Tendo Setsugekka, but it can be used to increase damage outside of Tendo. Consider Meikyo as a GCD saver after you have refreshed both your Fugetsu and Fuka buffs, as it lets you skip an entire two GCDs in your Kasha and Gekko combos. The most ideal situation is one where you use all three of Meikyo’s GCDs on Kasha and Gekko only, as using Yukikaze in Meikyo saves you only one GCD and Yukikaze is a weaker finisher.
 
 <span style="text-decoration:underline;">An example of Meikyo with ideal usage as long as the buffs do not fall off:</span>
 
@@ -170,7 +172,7 @@ Now, how to use Meikyo to increase your damage? Consider Meikyo as a GCD saver a
 
 Hagakure is an oGCD ability re-added to the game in patch 5.05 as a shadow of its former self. Originally a cornerstone of a Samurai’s rotation and toolkit in Stormblood, this ability now allows you to trade all of your Sen in for 10 Kenki each on a five second cooldown. 
 
-The intended purpose for the reintroduction of Hagakure from Square Enix seemed to be from the outcry of players who were upset that in dungeons they would sometimes have leftover Sen, and Hagakure would allow them to “wipe clean” this gauge in order to enter a dungeon boss without having to overcap existing Sen while re-applying buffs. In a raid setting, however, Hagakure serves a similar purpose: it wipes away the Sen we build while filling time to keep rotational alignment. Please refer to the section on looping to learn more.
+The intended purpose for the reintroduction of Hagakure from Square Enix seemed to be from the outcry of players who were upset that in dungeons they would sometimes have leftover Sen, and Hagakure would allow them to “wipe clean” this gauge in order to enter a dungeon boss without having to overcap existing Sen while re-applying buffs. In a raid setting, however, Hagakure serves a similar purpose: it wipes away the Sen we build while filling time to keep rotational alignment. For the newer players, have this button in case your rotations runs into a funny spot and there's no way out. For the older players, this button is no longer used as a strict requirement for filler. Please see below in the Rotation & Looping Section
 
 ## Higanbana Timing
 
@@ -196,13 +198,9 @@ In the burst phase, we will use whichever big cooldowns are available to do our 
 
 ## Filler
 
-Filler is often the part of the Samurai rotation that new players struggle the most with, but once understood, is the key to successfully landing your big skills where you want them and not having to wait for skills to come off cooldown in the middle of your rotation. 
-
-Every minute of your Samurai rotation has either 28, 29, or 30 GCDs depending on which GCD tier you are using (2.14 / 2.07 / 2.00 respectively). Our normal cooldown and burst phase (not including Ogi+Kaeshi Namikiri) is 26 GCDs. This means that each time we execute our cooldown and burst, we need to fill another 2 / 3 / 4 GCDs. To do so, we use Ogi Namikiri and Kaeshi: Namikiri when we can (two GCDs) and combos and Hagakure when we cannot. This allows us to fill the empty space in our rotation with as much potency as we can, while still keeping all of our abilities lined up to execute on time.
-
-A list of filler for a given amount of GCDs is as follows:
-
-![](/img/jobs/sam/simpleFillerChart.png)
+This section is for the older player base from Shadowbringers and Endwalker. Please scroll down to the Rotation & Looping section if you were not playing Samurai during these times.\
+\
+As of Dawntrail 7.05, the Hagakure fillers are obsolete and no longer practiced. In 7.05, Tsubame Gaeshi was reworked to now proc after every Midare/Tenka Goken, including Tendo Setsugekka. This means that in our rotation, we have 2 more GCDs than we did in our old Endwalker loop
 
 # Opener
 
