@@ -148,7 +148,7 @@ Of course, exceptions always happen. You will recognize the exceptions in the fi
 
 With the changes to Meikyo Shisui and combo enders (Gekko/Kasha) in 6.0, its role as a tool in our rotation has changed in a big way going into Endwalker. Instead of existing solely as an optimization tool and a way to fix our rotational alignment to maximize our Iaijustu and Tsubame usage, it now offers a way to avoid the ramp-up/buff application period that defined Samurai in Shadowbringers.
 
-As of Dawntrail as well, Meikyo allows us to use our newest tool, Tendo Setsugekka, a 1020 potency GCD with a guaranteed critical hit per use. When our Meikyo Shisui is used, our next Midare turns into a Tendo and will do more damage than a standard Midare, and give a Kaeshi version named Kaeshi Tendo Setsugekka. If you're building a Tenkka Goken, Meikyo turns our Tenkka Goken into a Tendo Goken.
+As of Dawntrail as well, Meikyo allows us to use our newest tool, Tendo Setsugekka, a 1020 potency GCD with a guaranteed critical hit per use. When our Meikyo Shisui is used, our next Midare turns into a Tendo and will do more damage than a standard Midare, and give a Kaeshi version named Kaeshi Tendo Setsugekka. If you're building a Tenka Goken, Meikyo turns our Tenka Goken into a Tendo Goken.
 
 The goal of Meikyo is to manipulate your Sen so you can apply your buffs as quickly as possible, maximize Iaijutsu usage, and use Tendo Setsugekka. For example, in the opener we use Meikyo to quickly apply both of our buffs, get all three Sen, and open with a fully buffed Tendo in raid buffs. We also use Meikyo in every 60s burst window to manipulate our Sen and quickly perform a buffed Higanbana right on time. While leveling or in dungeon content, it can also be used to quickly perform Tendo Goken for AoE purposes.
 
@@ -208,11 +208,11 @@ As of Dawntrail 7.05, the Hagakure fillers are obsolete and no longer practiced.
 
 # Rotation Guide
 
-![](/img/jobs/sam/sam_ew_6_1_Rotation_Loop.png)
+![](/img/jobs/sam/samurai-rotation-loop-8.png)
 
 # Higanbana Realignment Guide
 
-![](/img/jobs/sam/sam-higanbana-realignment.png)
+![](/img/jobs/sam/samurai-realigning-higanbana-options.jpg)
 
 # AoE Rotations
 
