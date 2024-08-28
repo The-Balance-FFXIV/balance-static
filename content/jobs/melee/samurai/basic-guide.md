@@ -3,8 +3,8 @@ title: Samurai Basic Guide
 card_header_image: /img/jobs/sam/basic.png
 authors:
   - Balance-SAM-Staff
-patch: "6.55"
-lastmod: 2024-01-17T04:35:43.004Z
+patch: "7.05"
+lastmod: 2024-08-29T03:35:43.004Z
 changelog:
   - date: 2021-10-28T03:23:16.783Z
     message: Created page
@@ -20,6 +20,8 @@ changelog:
     message: Updated for 6.5
   - date: 2024-01-17T05:40:28.783Z
     message: Updated for 6.55
+  - date: 2024-08-28T06:49:05.029Z
+    message: Updated for Dawntrail 7.05
 ---
 # Foreword
 
@@ -162,7 +164,7 @@ With Meikyo, it is possible for you to go the following sequence:
 
 ![](/img/jobs/sam/meikyoExample.png)
 
-Meikyo is not just a key to use Tendo Setsugekka, but it can be used to increase damage outside of Tendo. Consider Meikyo as a GCD saver after you have refreshed both your Fugetsu and Fuka buffs, as it lets you skip an entire two GCDs in your Kasha and Gekko combos. The most ideal situation is one where you use all three of Meikyo’s GCDs on Kasha and Gekko only, as using Yukikaze in Meikyo saves you only one GCD and Yukikaze is a weaker finisher.
+<span style="text-decoartion:underline;">Meikyo is not just a key to use Tendo Setsugekka, but it can be used to increase damage outside of Tendo</span>. Consider Meikyo as a GCD saver too. After you have refreshed both your Fugetsu and Fuka buffs, as it lets you skip an entire two GCDs in your Kasha and Gekko combos. The most ideal situation is one where you use all three of Meikyo’s GCDs on Kasha and Gekko only, as using Yukikaze in Meikyo saves you only one GCD and Yukikaze is a weaker finisher.
 
 <span style="text-decoration:underline;">An example of Meikyo with ideal usage as long as the buffs do not fall off:</span>
 
@@ -172,7 +174,7 @@ Meikyo is not just a key to use Tendo Setsugekka, but it can be used to increase
 
 Hagakure is an oGCD ability re-added to the game in patch 5.05 as a shadow of its former self. Originally a cornerstone of a Samurai’s rotation and toolkit in Stormblood, this ability now allows you to trade all of your Sen in for 10 Kenki each on a five second cooldown. 
 
-The intended purpose for the reintroduction of Hagakure from Square Enix seemed to be from the outcry of players who were upset that in dungeons they would sometimes have leftover Sen, and Hagakure would allow them to “wipe clean” this gauge in order to enter a dungeon boss without having to overcap existing Sen while re-applying buffs. In a raid setting, however, Hagakure serves a similar purpose: it wipes away the Sen we build while filling time to keep rotational alignment. For the newer players, have this button in case your rotations runs into a funny spot and there's no way out. For the older players, this button is no longer used as a strict requirement for filler. Please see below in the Rotation & Looping Section
+The intended purpose for the reintroduction of Hagakure from Square Enix seemed to be from the outcry of players who were upset that in dungeons they would sometimes have leftover Sen, and Hagakure would allow them to “wipe clean” this gauge in order to enter a dungeon boss without having to overcap existing Sen while re-applying buffs. In a raid setting, however, Hagakure serves a similar purpose: it wipes away the Sen we build while filling time to keep rotational alignment. For the newer players, have this button in case your rotations runs into a awkward spot and there's no way out. For the older players, this button is no longer used as a strict requirement for filler. Please see below in the Rotation & Looping Section
 
 ## Higanbana Timing
 
@@ -200,19 +202,19 @@ In the burst phase, we will use whichever big cooldowns are available to do our 
 
 This section is for the older player base from Shadowbringers and Endwalker. Please scroll down to the Rotation & Looping section if you were not playing Samurai during these times.\
 \
-As of Dawntrail 7.05, the Hagakure fillers are obsolete and no longer practiced. In 7.05, Tsubame Gaeshi was reworked to now proc after every Midare/Tenka Goken, including Tendo Setsugekka. This means that in our rotation, we have 2 more GCDs than we did in our old Endwalker loop
+As of Dawntrail 7.05, the Hagakure fillers are obsolete and no longer practiced. In 7.05, Tsubame Gaeshi was reworked to now proc after every Midare/Tenka Goken, including Tendo Setsugekka. This means that in our rotation, we have more GCDs than we did in our old iterations that required Hagakure fillers to loop, because there are at least 2 additional GCD slots in our cooldown phases before odd minute burst and after odd minute burst due to them both having a Midare.
 
 # Opener
 
-![](/img/jobs/sam/sam_ew_6_1_opener.png)
+![](/img/jobs/sam/sam_100_opener.png)
 
 # Rotation Guide
 
 ![](/img/jobs/sam/sam_ew_6_1_Rotation_Loop.png)
 
-# Filler Guide
+# Higanbana Realignment Guide
 
-![](/img/jobs/sam/sam_filler.png)
+![](/img/jobs/sam/sam-higanbana-realignment.png)
 
 # AoE Rotations
 
@@ -310,3 +312,7 @@ March 2022, Pre-Patch 6.1
 August 2022, Pre-Patch 6.2
 
 * Adjusted math and guidance (re:Kaiten Removal) for Patch 6.1 changes.
+
+August 2024, Patch 7.05
+
+* First draft of an updated guide for Dawntrail
