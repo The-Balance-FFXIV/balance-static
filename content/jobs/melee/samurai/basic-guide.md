@@ -144,8 +144,6 @@ Enpi is the same. It gains value only if there are time periods where you could 
 
 Of course, exceptions always happen. You will recognize the exceptions in the fight situation as you gain experience.
 
-As of 5.0, usage of Enpi has extended into the potential for keeping rotational alignment. Please refer to the section on looping or to the 6.0 SAM optimization guide for more information.
-
 ## Meikyo Shisui: Rise to the Heavens
 
 With the changes to Meikyo Shisui and combo enders (Gekko/Kasha) in 6.0, its role as a tool in our rotation has changed in a big way going into Endwalker. Instead of existing solely as an optimization tool and a way to fix our rotational alignment to maximize our Iaijustu and Tsubame usage, it now offers a way to avoid the ramp-up/buff application period that defined Samurai in Shadowbringers.
