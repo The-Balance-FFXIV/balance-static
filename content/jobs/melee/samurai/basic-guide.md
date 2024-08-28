@@ -106,7 +106,7 @@ Lastly, Yukikaze would be the least significant combo out of the three in the op
 
 ## Honing the Blade: Kenki and Potency
 
-With the Sen system, Ogi Namikiri and, the new Tendo Setsugekka with its 1020 potency and auto-crit is what catches people’s attention with its flash, then SAM’s Kenki system is what makes the engine run and deal out damage over the fight. Kenki generation is 100% predictable and tied to your GCDs, and in an ideal world you want to finish a fight with 0 Kenki. As such, you will generate and expend similar amounts of Kenki over the same duration. To understand how much Kenki is worth to your damage, it may be preferable to use potency/Kenki and use your most common Kenki skill (Shinten) as a baseline.
+With the Sen system, Ogi Namikiri, and the new Tendo Setsugekka with its 1020 potency and auto-crit is what catches people’s attention with its flash, then SAM’s Kenki system is what makes the engine run and deal out damage over the fight. Kenki generation is 100% predictable and tied to your GCDs, and in an ideal world you want to finish a fight with 0 Kenki. As such, you will generate and expend similar amounts of Kenki over the same duration. To understand how much Kenki is worth to your damage, it may be preferable to use potency/Kenki and use your most common Kenki skill (Shinten) as a baseline.
 
 |                    |                  |                                              |
 | ------------------ | ---------------- | -------------------------------------------- |
