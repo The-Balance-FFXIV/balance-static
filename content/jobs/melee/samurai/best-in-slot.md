@@ -2,7 +2,7 @@
 title: Samurai Best in Slot (BiS)
 layout: bis
 patch: "7.05"
-lastmod: 2024-08-18T06:23:18.144Z
+lastmod: 2024-08-29T20:28:28.211Z
 changelog:
   - date: 2021-10-28T03:30:20.029Z
     message: Created page
