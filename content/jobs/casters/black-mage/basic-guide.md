@@ -121,7 +121,7 @@ A few important notes:
 
 ## **Firestarter**
 
-**Paradox** now grants a guaranteed Firestarter proc upon execution, which allows for a free instant-cast **Fire III**. There are two primary considerations for using Firestarter procs–extending your Astral Fire timer by using the proc in Astral Fire III, or using it to re-enter Astral Fire after the Umbral Ice phase.
+**Paradox** now grants a guaranteed Firestarter proc upon execution in Astral Fire, which allows for a free instant-cast **Fire III**. There are two primary considerations for using Firestarter procs–extending your Astral Fire timer by using the proc in Astral Fire III, or using it to re-enter Astral Fire after the Umbral Ice phase.
 
 ### Astral Fire III
 
