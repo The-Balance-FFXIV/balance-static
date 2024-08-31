@@ -199,7 +199,7 @@ We want to avoid using **Celestial Revolution** at all costs, however it is some
 
 On the face of it, Riddle of Fire and Brotherhood are pretty simple skills. We press Riddle of Fire and do more damage for the next 20 seconds. We press Brotherhood and both we and our party do more damage for the next 20 seconds. While the burst windows that we build around these skills using the rest of our kit can be complex, the actual usage of these skills themselves are very simple. In a full uptime vacuum we simply press them on cooldown every single time they come back up. Make sure you're always weaving RoF in the latter half of your GCD roll to ensure you get a full 11 GCDs under the buff. 
 
-In Dawntrail, Riddle of Fire as the additional effect of granting Fire's Rumination, which allows us the use of **Fire's Reply** during RoF, introduced in a later section.
+In Dawntrail, Riddle of Fire has the additional effect of granting Fire's Rumination, which allows us the use of **Fire's Reply** during RoF.
 
 ## Riddle of Wind
 
@@ -209,11 +209,9 @@ In Dawntrail, Riddle of Fire as the additional effect of granting Fire's Ruminat
 
 &nbsp;
 
-Functionally, you can think of Riddle of Wind as a DoT, or as a damaging oGCD. Given that it has a 90s CD, it's sometimes going to fall out of buffs; this is okay. In a vacuum, you just press Riddle of Wind on CD forever, getting the maximum amount of uses while every other usage misaligns itself from your buffs. In a real scenario, such as an encounter where you have a specific killtime/phase time in mind, you can afford to hold it into buffs when you know you aren't going to lose a usage by doing so.
+Functionally, you can think of Riddle of Wind as a DoT, or as a damaging oGCD. Given that it has a 90s CD, it's sometimes going to fall out of buffs; this is okay. In a vacuum, you just press Riddle of Wind on CD forever, getting the maximum amount of uses while every other usage misaligns itself from your buffs.
 
-I'll give an example of a six minute encounter. Over the course of six minutes, you'd get four uses of RoW: 0:00, 1:30, 3:00, and 4:30. You'll notice that if you were to use RoW at these times, you'll get one usage at 3:00 under an odd RoF, but every other use will be misaligned from buffs.
-
-What you could instead do is pop it at 0:00, 2:00, 3:30, 5:00. Here you get one use in your even RoF, as well as another usage at 5:00 in an odd RoF.
+We will look at how - and more importantly, when - to optimise the use of Riddle of Wind later.
 
 In Dawntrail, Riddle of Wind also grants Wind's Rumination, allowing the use of **Wind's Reply** during its effect.
 
@@ -228,7 +226,7 @@ In Dawntrail, Riddle of Wind also grants Wind's Rumination, allowing the use of 
 
 **Fire's Reply** features a 20 yalm range and is our second highest hitting skill in our kit with 1200 potency. Ideally it is always used after an Opo-opo form GCD, as it grants Formless Fist, allowing us to continue with another Opo-opo form GCD right after. Its great range makes this also a very good downtime tool if it happens to align.
 
-**Wind's Reply** features an awkward 10 yalm range and is also a fairly high hitting skill with 700 potency. As opposed to Fire's Reply, Wind's Reply can be flexibly used during the duration of Riddle of Wind and Wind's Rumination. It does not break combo, and can also be used as a downtime tool.
+**Wind's Reply** features an awkward 10 yalm range and is also a fairly high hitting skill with 900 potency. As opposed to Fire's Reply, Wind's Reply can be flexibly used during the duration of Riddle of Wind and Wind's Rumination. It does not break combo, and can also be used as a downtime tool.
 
 ## Utility and Misc. Skills
 
@@ -254,19 +252,27 @@ This is the part where I cover everything that's been missed until now. We've co
 
 ## Burst in Theory
 
-### Riddle of Fire and Brotherhood
+### Riddle of Fire, Brotherhood, and Fire's Reply
 
-Firstly, we want to get the **maximum number of uses** of **Riddle of Fire**. **RoF** has a duration of 20 seconds, this means Monk can fit 11 GCDs into a **late-weave** **RoF**. It is absolutely crucial to use **RoF** late into the GCD roll such that it can catch the 11th GCD. **Broterhood** also has a duration of 20 seconds and we are aiming to align it as well as we can with our **RoF** and other party buffs.
+Firstly, we want to get the **maximum number of uses** of each of these buffs available to us in a given encounter. This means that generally speaking, following on from their first use in the opener, both Riddle of Fire and Brotherhood will be used on cooldown.
 
-Using **Riddle of Fire** also grants us one use of **Fire's Reply** during its duration and it should never be skipped. As **Fire's Reply** grants us **Formless Fist**, we are aiming to use it after an Opo-opo GCD (**Leaping Opo** or **Dragon Kick**) and follow it with another Opo-opo GCD. 
+This has the added bonus of keeping these 2 buffs in sync not only with each other, but also with the 2 minute party buffs of the rest of our team.
+
+**RoF** has a duration of 20 seconds, which means Monk can fit 11 GCDs into a **late-weave** **RoF**. To "late weave" refers to pressing an oGCD in the latter half of the GCD roll, rather than simply pressing it immediately following the GCD. 
+
+Brotherhood also has a duration of 20 seconds, and while it is still possible to catch 11 GCDs under both Brotherhood and Riddle of Fire simultaneously, it requires some precise weaving. This idea will be discussed in the advanced guide, but for now good general use of Brotherhood involves simply early weaving it on each use. Early weaving, the inverse of late weaving, is pressing an oGCD as soon as possible following the previous GCD.
+
+Of course, as a raid buff we are also aiming to keep Brotherhood in sync with our groups buffs as closely as possible, which is done by keeping it on cooldown and minimising any potential drift.
+
+Using **Riddle of Fire** also grants us one use of **Fire's Reply** during its duration which should never be left unused. As **Fire's Reply** grants us **Formless Fist**, we are aiming to sandwhich it between Opo-opo GCD's - that is, to always use it after an Opo-opo GCD (**Leaping Opo** or **Dragon Kick**), and to always follow it up with another Opo-opo GCD. 
 
 ### Odd and Even Windows
 
-**Riddle of Fire** has a cooldown of 60 seconds, where **Brotherhood** sits at 120 seconds. This results with us pressing **Riddle of Fire** every minute, where ever other minute it will be paired with **Broterhood**. Given that half of our burst windows consist solely of **RoF** and the other half have both **RoF** and **BH**, we have names to distinguish between them: **even** and **odd** windows.
+**Riddle of Fire** has a cooldown of 60 seconds, where **Brotherhood** sits at 120 seconds. This results with us pressing **Riddle of Fire** every minute, where ever other minute it will be paired with **Brotherhood**. Given that half of our burst windows consist solely of **RoF** and the other half have both **RoF** and **BH**, we have names to distinguish between them: **even** and **odd** windows.
 
-The windows are named after the minute they occur in an encounter. **RoF** and **BH** are used together at the start of the fight and the align every 2 minutes (0, 2, 4, 6...), hence even window. **RoF** is used on its own every minute after even windows (1, 3, 5, 7, ...), hence odd window. 
+The windows are named after the minute they occur in an encounter. **RoF** and **BH** are used together at the start of the fight and then align every 2 minutes (0, 2, 4, 6...), hence even window. **RoF** is used on its own every minute after even windows (1, 3, 5, 7, ...), hence odd window. 
 
-As the even window contains all the raid buffs including your own raid buff **BH**, we prioritise this window over the odd window. With the cooldown of **Perfect Balance** being 40 seconds, this allows to fit the following GCDs into each window>
+As all raid buffs in the game - including our very own **BH** - have a cooldown of 2 minutes, we prioritise this window over the odd window. With the cooldown of **Perfect Balance** being 40 seconds, this allows to fit the following GCDs into each window:
 
 * Even: 2x **Masterful Blitz**, 1x **Fire's Reply**
 * Odd: 1x **Masterful Blitz**, 1x **Fire's Reply**
@@ -274,11 +280,17 @@ As the even window contains all the raid buffs including your own raid buff **BH
 
 ### Riddle of Wind and Wind's Reply
 
-**Riddle of Wind** being on a cooldown of 90 seconds means that it will only align with a **Riddle of Fire** every other use if used on cooldown (every 3 minutes). Using **RoW** will allow us to use **Wind's Reply** once during its duration. This naturally means that just as **RoW**, **Wind's Reply** also does not always align with every **RoF** window.
+As mentioned, **Riddle of Wind** being on a cooldown of 90 seconds means that it will only align with a **Riddle of Fire** every other use if used on cooldown (every 3 minutes). Using **RoW** will allow us to use **Wind's Reply** once during its duration. This naturally means that just as **RoW**, **Wind's Reply** also does not always align with every **RoF** window.
 
 While using **Riddle of Wind** on cooldown guarantees the maximum usages, sometimes we can strategically delay **RoW** to make it align with **RoF**, we do this only if it does not lose us an overall usage. This again requires knowledge or a good guess of the kill time, if it is unknown, **Riddle of Wind** is best used on cooldown.
 
-Compared to its counter-part, **Wind's Reply** can be used very freely, as it **does not** come with the benefit of **Formless Fist** or any other benefits than its mediocre medium range. We are free to use it in any part of the rotation.
+As an example, take a hypothetical encounter with a duration of 4 minutes and 30 seconds.
+
+Pressing Riddle of Wind on cooldown would result in a total of 3 uses; 00:00, 01:30, 03:00. This sees one RoW in the opener, and one in an odd window.
+
+However, we could instead use it at 00:00, 02:00, and 03:30. This is still 3 total uses, but we've shifted a use out of the odd window and into the even window. 
+
+Where **Fire's Reply** is restricted in where it can be placed due to granting **Formless Fist**, **Wind's Reply** can be used freely within the duration of Wind's Rumination instead, being able to be placed absolutely anywhere within the 15 second window.
 
 ### Perfect Balance and Opo-opo Optimisation
 
@@ -288,7 +300,7 @@ First and foremost we do this by placement of **Perfect Balance**. Ideally it sh
 
 Secondly is sequencing. When using **Perfect Balance** to execute an **Elixir Burst** or a **Phantom Rush**, we are exclusively using Opo-opo GCDs. When building a **Rising Phoenix**, we are forced to use one GCD of each form. It might not be immediately obvious, but the order of those GCDs do matter. 
 
-A very common optimisation we can make for the Solar **PB** sequence for **Rising Phoenix** is pressing **PB** slightly before **RoF** following an Opo-opo GCD, such that **RoF** will come up before one of the three GCDs of the sequence. We can then order the three GCDs from weakest to strongest and this will often result in a weaker GCD being moved before **RoF** and stronger GCDs into **RoF**. Examples will be shown in the **Burst in Practice** section.
+A very common optimisation we can make for the Solar **PB** sequence for **Rising Phoenix** is pressing **PB** slightly before **RoF** following an Opo-opo GCD, such that **RoF** will come up before one of the three GCDs of the sequence. We can then order the three GCDs from weakest to strongest, which will often result in a weaker GCD being moved before **RoF** and stronger GCDs into **RoF**. Examples will be shown in the **Burst in Practice** section.
 
 Third is the placement relative to buffs. **Perfect Balance** has a 40 second cooldown and allows us to hold 2 charges. Our burst windows occur along 120 second intervals. We can fit 3 uses of Perfect Balance across this 2 minute span of time. We have established that the even window is the stronger of the 2 burst windows, and so we will put 2 uses of Perfect Balance into our even windows, and 1 use into our odd windows.
 
@@ -410,10 +422,12 @@ The Solar Lunar opener sets up for Lunar Odd windows and subsequent Solar Lunar 
 Above are the most popular **Double Lunar** openers. The choice will largely depend on your party's preferred buff timing. Most party compositions will prefer 5s Buffs.
 
 The **Double Lunar** Opener sets up for both the **Double Lunar** and the **Triple Lunar** path, which is the amount of times we overcap the Lunar Nadi before continuing building Nadis as usual.
-- For **Double Lunar** we want to continue with **Solar** Odd windows and **Double Lunar** Even windows. This path will have **Phantom Rush** as our first **Masterful Blitz** in the Even windows.
-- For **Triple Lunar** we do **Lunar** Odd windows and **Solar Lunar** Even windows. This path will have **Phantom Rush** as our second **Masterful Blitz** in the Even windows.
+
+* For **Double Lunar** we want to continue with **Solar** Odd windows and **Double Lunar** Even windows. This path will have **Phantom Rush** as our first **Masterful Blitz** in the Even windows.
+* For **Triple Lunar** we do **Lunar** Odd windows and **Solar Lunar** Even windows. This path will have **Phantom Rush** as our second **Masterful Blitz** in the Even windows.
 
 ## Picking Your Path
+
 You can play any of the openers and subsequent paths without a very large loss, however there is still an optimal choice. This optimal choice is always **strongly** related to kill time, as the wrong kill times for **Double Lunar** and **Triple Lunar** can result in the loss of a **Phantom Rush**. As such, in a vacuum, **Solar Lunar** tends to be safest option for personal damage, as it maximizes the amount of **Phantom Rushes** for any kill time. While losing a **Phantom Rush** used to be a bigger loss in Endwalker, even if it is put into Even windows. In Dawntrail it is no longer that big of a loss, and a couple of buffs might already be enough to make it better in terms of party dps. 
 
 For the kill times the **PR** is not lost, **Double Lunar** and **Triple Lunar** will perform a lot better than **Solar Lunar**, while the latter will only perform slightly better when it gains a **PR** over the other paths.
