@@ -19,7 +19,7 @@ changelog:
 
 Special thanks to Akashi, Jackal, Azazel, Azrael, Stella, and Rhy whose work religiously theorycrafting this job made this guide possible. 
 
-***This guide assumes that the player has a firm grasp of the concepts presented in the VPR Basic Guide. If this doesn’t apply to you, give that guide a read before returning here.*** This guide will be focused on more Intermediate level concepts of VPR, such as burst window optimization with party buffs, planning for downtime, and other rotation optimization.  
+***This guide assumes that the player has a firm grasp of the concepts presented in the [VPR Basic Guide](https://www.thebalanceffxiv.com/jobs/melee/viper/basic-guide/). If this doesn’t apply to you, give that guide a read before returning here.*** This guide will be focused on more Intermediate level concepts of VPR, such as burst window optimization with party buffs, planning for downtime, and other rotation optimization.  
 
 Everything discussed in this guide was tested using [Jackal’s VPR Rotation Planner](https://bit.ly/3VtZvkL), which can be found here with a sample rotation.
 
