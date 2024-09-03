@@ -177,7 +177,7 @@ The intended purpose for the reintroduction of Hagakure from Square Enix seemed 
 
 ## Higanbana Timing
 
-Of all the moves a Samurai can use, the single most powerful move is Higanbana. As you recall, Higanbana is 1100 potency of damage over the course of 60 seconds. Because of its sheer damage compacted into a single GCD, this is strongly amplified under raid buffs. The nice thing about raid buffs is that a good chunk of them will line up with Higanbana timing: Trick Attack, Battle Voice, Dragon Sight, Battle Litany, Chain Stratagem, Technical Step, etc. tend to fall under a cooldown time that is a multiple of 60s. As such, you should be able to land your Higanbana within those raid buffs at the time of refresh.
+Of all the moves a Samurai can use, the single most powerful move is Higanbana. As you recall, Higanbana is 1200 potency of damage over the course of 60 seconds. Because of its sheer damage compacted into a single GCD, this is strongly amplified under raid buffs. The nice thing about raid buffs is that a good chunk of them will line up with Higanbana timing: Trick Attack, Battle Voice, Dragon Sight, Battle Litany, Chain Stratagem, Technical Step, etc. tend to fall under a cooldown time that is a multiple of 60s. As such, you should be able to land your Higanbana within those raid buffs at the time of refresh.
 
 With that said, how do you know when to *not* use Higanbana? Some bosses go invincible for a period of time during which your Higanbana is ineffective. When that happens, if your Higanbana did not get to make use of its duration, then it is lost DPS.
 
@@ -226,7 +226,7 @@ The strength of SAM’s AoE rotation lies in the fact that both two-GCD AoE comb
 
 **What happens if there are two targets?**
 
-If both targets will last long enough, using Higanbana on each and reapply as necessary. Do not use Kaeshi: Higanbana, because even in this scenario it is more worthwhile to build 1 Sen with Yukikaze and apply the DoT that way than it is to burn Kaeshi on Higanbana. Two targets also introduces its own unique rotation where you are using Fuko > Mangetsu/Oka to generate your Getsu/Ka Sen and using Hakaze > Yukikaze to generate your Setsu Sen, then spending them on Midare Setsugekka. However, despite being more potency per GCD, this rotation requires more GCDs to go through (as it needs all 3 Sen). In the case that you would gain a usage of Tenka Goken over Midare in the time provided, it would be a gain to do that instead. Hissatsu: Guren is also a gain on two or more targets and should be used over Hissatsu: Senei in these scenarios.
+If both targets will last long enough, using Higanbana on each and reapply as necessary. Two targets follows the same rotation as single target in building Midare Setsugekka, while making sure you use Hissatsu: Guren and Zanshin to cleave the two targets. However, despite being more potency per GCD, this rotation requires more GCDs to go through (as it needs all 3 Sen). In the case that you would gain a usage of Tenka Goken over Midare in the time provided, it would be a gain to do that instead. Hissatsu: Guren is also a gain on two or more targets and should be used over Hissatsu: Senei in these scenarios.
 
 # Conclusion
 
