@@ -56,7 +56,7 @@ bis:
     description: Replace with the TOP weapon with 3x DET melds if you're using it.
   - type: xivgearset
     name: Viper DSR BiS
-    link: cf279ce5-b746-440c-8c0e-bdad41067df1
+    link: fdf5dad6-fea9-4864-8755-b1b32d78a4cd
 authors:
   - RhyTamok
   - akashi
