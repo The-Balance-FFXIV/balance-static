@@ -50,18 +50,13 @@ bis:
       will be just fine if you want to get into savage but aren't going for an
       early kill. Replace these pieces with higher item level pieces as you get
       them.
-  - type: etro
-    link: a890605f-8a5a-4748-9f8b-09e311f502e8
-    name: Viper TOP BiS (with weapon)
-    description: ""
-  - type: etro
-    name: Viper TOP BiS (no weapon)
-    link: 1fee217c-afea-47dc-8bea-a93ed97b19c8
-    description: Due to substat tiering the i700 weapon performs better than the
-      i710 weapon.
-  - type: etro
+  - type: xivgearset
+    link: f82fa0f6-abb6-4d4b-94e2-23cdad1aa7e3
+    name: Viper TOP BiS
+    description: Replace with the TOP weapon with 3x DET melds if you're using it.
+  - type: xivgearset
     name: Viper DSR BiS
-    link: dd0f78b9-fbea-4ebe-97d5-be0d1ac4363f
+    link: cf279ce5-b746-440c-8c0e-bdad41067df1
 authors:
   - RhyTamok
   - akashi
