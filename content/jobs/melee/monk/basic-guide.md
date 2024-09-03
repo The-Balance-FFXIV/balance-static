@@ -5,7 +5,7 @@ authors:
   - Perfect-Balance
   - nyanpyon
 patch: "7.05"
-lastmod: 2024-08-25T23:31:43.700Z
+lastmod: 2024-09-03T22:39:59.256Z
 changelog:
   - date: 2021-10-28T03:44:08.486Z
     message: Created page
@@ -16,6 +16,8 @@ changelog:
       Triple Blitz, Brotherhood Damage vs Chakra, and Dragon Kick Spam.
   - date: 2023-05-30T23:31:50.135Z
     message: Patch bump to 6.4
+  - date: 2024-09-03T22:39:43.491Z
+    message: Updated Guide to 7.05
 ---
 ![]()
 
@@ -402,6 +404,8 @@ Thankfully there is an elegant solution to this problem.
 Instead of triple weaving **PB**, **BH**, and **RoF**, the solution is to double weave **BH** and **RoF** as standard, then immediately follow up with **Fire's Reply**. From here you can continue as normal; with your Opo GCD -> PB windows. 
 
 ![even0](/img/jobs/mnk/even0-save.png "Even 0 Fix")
+
+&nbsp;
 
 ### Fire's Reply Flexibility
 
