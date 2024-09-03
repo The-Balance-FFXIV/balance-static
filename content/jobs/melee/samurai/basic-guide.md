@@ -108,7 +108,7 @@ Lastly, Yukikaze would be the least significant combo out of the three in the op
 
 With the Sen system, Ogi Namikiri, and the new Tendo Setsugekka with its 1020 potency and auto-crit is what catches people’s attention with its flash, then SAM’s Kenki system is what makes the engine run and deal out damage over the fight. Kenki generation is 100% predictable and tied to your GCDs, and in an ideal world you want to finish a fight with 0 Kenki. As such, you will generate and expend similar amounts of Kenki over the same duration. To understand how much Kenki is worth to your damage, it may be preferable to use potency/Kenki and use your most common Kenki skill (Shinten) as a baseline.
 
-|                    |                  |                                              |
+| Zanshin            | \= 820p/50k      | \=16.4p/k for the first mob, 9.8 per mob     |
 | ------------------ | ---------------- | -------------------------------------------- |
 | Senei              | \= 800p/25k      | \= 32p/k                                     |
 | Guren              | \= 500p/25k      | \= 20p/k for the first mob, 15 per mob after |
@@ -123,8 +123,9 @@ From the numbers above, a few conclusions can be drawn:
 * Senei gives you the biggest bang for your buck.
 * Gyoten and Yaten are worth the same as Shinten, allowing you to use them to manipulate Kenki before buff windows or dump more during buff windows.
 * Kyuten outperforms Shinten at three mobs and above.
+* Zanshin is worth using as its still more Kenki per potency over Shinten, and any mobs cleaved is still kenki/potency positive and a gain.
 
-In addition, it means that **<span style="text-decoration:underline;">each time you successfully use Third Eye you have effectively gained 100 potency.</span>** This potency can add up very quickly by the end of an encounter, so always try to press Third Eye when you know there is incoming damage.
+In addition, it means that **<span style="text-decoration:underline;">each time you successfully use Tengetsu you have effectively gained 100 potency.</span>** This potency can add up very quickly by the end of an encounter, so always try to press Tengetsu when you know there is incoming damage.
 
 *Note regarding Yaten-Enpi-Gyoten:* If you factor only the Yaten-Enpi combo, it is 10 Kenki cost for an additional 260 potency and regenerates 10 Kenki, and that gives you 26 potency per Kenki. <span style="text-decoration:underline;">However, this combo does not give you any benefits to reapply your buffs or for adding a Sen.</span> While it is a potent one GCD combo, it cannot be used reliably outside of very specific situations, such as dodging out of an AOE while being unable to go back to the boss soon or off-setting your GCDs by one. Gyoten can be used as a gap closer if Sprint won’t do the job, or to manipulate your Kenki bar for more damage under buffs.
 
@@ -142,13 +143,13 @@ Gyoten/Yaten gain value if using them allows you to get an extra GCD compared to
 
 Enpi is the same. It gains value only if there are time periods where you could have used a ranged attack but not melee attack, which is often a rare situation.
 
-Of course, exceptions always happen. You will recognize the exceptions in the fight situation as you gain experience.
+Of course, exceptions always happen. You will recognize the exceptions in the fight situation as you gain experience. However, using Yaten as a safety net initially is still better than straight up dying.
 
 ## Meikyo Shisui: Rise to the Heavens
 
 With the changes to Meikyo Shisui and combo enders (Gekko/Kasha) in 6.0, its role as a tool in our rotation has changed in a big way going into Endwalker. Instead of existing solely as an optimization tool and a way to fix our rotational alignment to maximize our Iaijustu and Tsubame usage, it now offers a way to avoid the ramp-up/buff application period that defined Samurai in Shadowbringers.
 
-As of Dawntrail as well, Meikyo allows us to use our newest tool, Tendo Setsugekka, a 1020 potency GCD with a guaranteed critical hit per use. When our Meikyo Shisui is used, our next Midare turns into a Tendo and will do more damage than a standard Midare, and give a Kaeshi version named Kaeshi Tendo Setsugekka. If you're building a Tenka Goken, Meikyo turns our Tenka Goken into a Tendo Goken.
+As of Dawntrail as well, Meikyo allows us to use our newest tool, **Tendo Setsugekka, a 1020 potency GCD with a guaranteed critical hit per use.** When our Meikyo Shisui is used, our next Midare turns into a Tendo and will do more damage than a standard Midare, and give a Kaeshi version named Kaeshi Tendo Setsugekka. **If you're building a Tenka Goken, Meikyo turns our Tenka Goken into a Tendo Goken.**
 
 The goal of Meikyo is to manipulate your Sen so you can apply your buffs as quickly as possible, maximize Iaijutsu usage, and use Tendo Setsugekka. For example, in the opener we use Meikyo to quickly apply both of our buffs, get all three Sen, and open with a fully buffed Tendo in raid buffs. We also use Meikyo in every 60s burst window to manipulate our Sen and quickly perform a buffed Higanbana right on time. While leveling or in dungeon content, it can also be used to quickly perform Tendo Goken for AoE purposes.
 
