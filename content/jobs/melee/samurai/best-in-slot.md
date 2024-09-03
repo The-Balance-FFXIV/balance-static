@@ -18,7 +18,7 @@ changelog:
     message: Updated for 6.5
   - date: 2024-01-17T05:42:27.651Z
     message: Updated for 6.55
-  - date: 2024-08-18T06:24:11.109Z
+  - date: 2024-09-03T23:12:05.009Z
     message: Updated for 7.05
 bis:
   - type: xivgearset
