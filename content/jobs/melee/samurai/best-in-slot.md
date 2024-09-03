@@ -2,7 +2,7 @@
 title: Samurai Best in Slot (BiS)
 layout: bis
 patch: "7.05"
-lastmod: 2024-08-29T20:28:28.211Z
+lastmod: 2024-09-03T23:12:14.914Z
 changelog:
   - date: 2021-10-28T03:30:20.029Z
     message: Created page
@@ -18,20 +18,20 @@ changelog:
     message: Updated for 6.5
   - date: 2024-01-17T05:42:27.651Z
     message: Updated for 6.55
-  - date: 2024-08-18T06:24:11.109Z
+  - date: 2024-09-03T23:12:05.009Z
     message: Updated for 7.05
 bis:
   - type: xivgearset
     description: Classic "Slow SAM". Highest DPS, easiest weaving. Accessories have
       parity across Slaying jobs.
-    link: https://xivgear.app/?page=embed%7Csl%7Ccdbb7d82-a9d1-4b6a-9687-087159474b75
+    link: 78944845-857b-4a2f-bc04-576f4c6d9dec
     name: 2.14 Savage BiS
   - type: xivgearset
     description: As per community request, the 2.07 set has a small hit in DPS in
       exchange for an easier looping rotation, as well as slightly better
       flexibility with mechanic downtime.
     name: 2.08 Savage BiS
-    link: https://xivgear.app/?page=embed%7Csl%7C2f3e5bc0-7ece-4421-87f2-b9620573c212
+    link: 18e91d14-fbe3-4780-be2e-226044ebbd6e
   - type: gsheets
     description: >-
       Sets for these fights are community-sourced through use of Jahaudant's
