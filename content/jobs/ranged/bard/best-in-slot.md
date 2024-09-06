@@ -24,10 +24,15 @@ changelog:
     message: Added 7.05 prog sets and i730 best in slot
 bis:
   - type: etro
-    name: i730 Best-in-Slot (2.50)
+    name: i730 Best-in-Slot (2.49)
     link: e3a5efdc-adee-4985-b91a-bf28f56933d0
-    description: If you'd like to play at higher speeds, swap one or two DH melds
-      for Skill Speed.
+    description: >-
+      This is the default recommendation. You can swap the Skill Speed materia
+      for a Direct Hit if you want to play at 2.50, or put it in the bow instead
+      if you want easier cross-ranged compatibility.
+
+
+      Similarly, swap a second Direct Hit for a Skill Speed if you'd like to run 2.48.
   - type: etro
     link: 7b95b25c-7355-4f8f-b561-f77216d9a476
     name: 7.05 All-crafted prog set (2.48)
