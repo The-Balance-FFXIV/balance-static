@@ -2,7 +2,7 @@
 title: Bard Best in Slot (BiS)
 layout: bis
 patch: "7.05"
-lastmod: 2024-07-30T15:21:45.079Z
+lastmod: 2024-08-21T15:21:45.079Z
 changelog:
   - date: 2021-10-26T02:40:27.765Z
     message: Created page
@@ -22,6 +22,9 @@ changelog:
     message: Added 7.01 set
   - date: 2024-07-30T15:21:52.131Z
     message: Added 7.05 prog sets and i730 best in slot
+  - date: 2024-09-06T05:17:50.403Z
+    message: Changed BiS title to reflect the 2.49 default recommendation for GCD
+      recast (etro link had already been changed)
 bis:
   - type: etro
     name: i730 Best-in-Slot (2.49)
