@@ -31,18 +31,6 @@ bis:
     link: https://xiv.sleepyshiba.com/pld/sets/730chicken.png
     name: 2.50 Roast Chicken (7.05 BiS)
   - type: etro
-    description: Almost identical in performance to the crit-heavy set, but falls
-      slightly behind when crit raid buffs (Battle Litany, Chain Stratagem) are
-      present.
-    link: a6b5492c-3745-4f08-b940-4f4e6be20918
-    name: 2.47 Vegetable Soup — DH heavy
-  - type: etro
-    description: Almost identical in performance to the dh-heavy set, but pulls
-      slightly ahead when crit raid buffs (Battle Litany, Chain Stratagem) are
-      present.
-    name: 2.47 Fruit and Aloe Jelly — Crit heavy
-    link: 0170346f-a9d6-4154-86ba-596ccfd7cff6
-  - type: etro
     description: >-
       Note: 665 relic can be used in place of 645 relic (no stat change due to
       sync)
