@@ -20,6 +20,8 @@ changelog:
     message: Updated for 6.55
   - date: 2024-07-10T05:09:35.325Z
     message: Updated for 7.0 (pre-savage)
+  - date: 2024-09-08T15:56:14.384Z
+    message: 7.05 BiS added
 bis:
   - type: genericlink
     description: Useful to put in your own gear options.
