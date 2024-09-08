@@ -1,7 +1,7 @@
 ---
 title: Paladin FAQ
 layout: qna
-patch: "7.0"
+patch: "7.05"
 lastmod: 2024-07-10T05:01:41.293Z
 changelog:
   - date: 2021-10-27T17:20:21.199Z
