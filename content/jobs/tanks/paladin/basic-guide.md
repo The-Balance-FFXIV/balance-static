@@ -3,7 +3,7 @@ title: Paladin Basics Guide
 card_header_image: /img/jobs/pld/basic.png
 authors:
   - nikroulah
-patch: "7.0"
+patch: "7.05"
 lastmod: 2024-07-10T02:02:55.686Z
 changelog:
   - date: 2021-10-27T17:21:54.665Z
@@ -22,6 +22,8 @@ changelog:
     message: Updated infographic for 6.4 changes
   - date: 2024-07-10T02:02:58.328Z
     message: Updated for 7.0
+  - date: 2024-09-08T15:53:53.843Z
+    message: Slight change for 7.05, affecting FoF filler GCD priority.
 tags:
   - Rotation
   - PaladinRotation
