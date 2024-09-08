@@ -83,7 +83,7 @@ The exact GCD order is flexible. Since the Confiteor combo actions and Goring Bl
 
 The three extra GCDs consist of whatever are the strongest "filler" GCDs available, i.e. some combination of Royal Authority, Atonement, Supplication, Sepulchre, or Divine Might-buffed Holy Spirit.
 
-Since Sepulchre is stronger than Holy Spirit (which is in turn stronger than Royal Authority, Atonement, and Supplication), prioritize putting Sepulchre in Fight or Flight when possible (this will not be possible when Royal Authority is used inside Fight or Flight). This will sometimes push Holy Spirit outside of the Fight or Flight buff window but is still a gain.
+Since Sepulchre is stronger than Holy Spirit and Supplication (which are in turn stronger than Royal Authority and Atonement), prioritize putting Sepulchre in Fight or Flight when possible (this will not be possible when Royal Authority is used inside Fight or Flight). This will sometimes push Holy Spirit outside of the Fight or Flight buff window but is still an overall gain.
 
 Each Fight or Flight should also include the following actions:
 
