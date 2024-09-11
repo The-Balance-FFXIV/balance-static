@@ -108,8 +108,9 @@ Lastly, Yukikaze would be the least significant combo out of the three in the op
 
 With the Sen system, Ogi Namikiri, and the new Tendo Setsugekka with its 1020 potency and auto-crit is what catches people’s attention with its flash, then SAM’s Kenki system is what makes the engine run and deal out damage over the fight. Kenki generation is 100% predictable and tied to your GCDs, and in an ideal world you want to finish a fight with 0 Kenki. As such, you will generate and expend similar amounts of Kenki over the same duration. To understand how much Kenki is worth to your damage, it may be preferable to use potency/Kenki and use your most common Kenki skill (Shinten) as a baseline.
 
-| Zanshin            | \= 820p/50k      | \=16.4p/k for the first mob, 9.8 per mob     |
+| Ability            |  Potency         | Potency Per Kenki                     |
 | ------------------ | ---------------- | -------------------------------------------- |
+| Zanshin            | \= 820p/50k      | \= 16.4p/k for the first mob, 9.8 per mob    |                                
 | Senei              | \= 800p/25k      | \= 32p/k                                     |
 | Guren              | \= 500p/25k      | \= 20p/k for the first mob, 15 per mob after |
 | <mark> **Shinten** | <mark>= 250p/25k | \= <mark> **10p/k**                          |
@@ -123,7 +124,7 @@ From the numbers above, a few conclusions can be drawn:
 * Senei gives you the biggest bang for your buck.
 * Gyoten and Yaten are worth the same as Shinten, allowing you to use them to manipulate Kenki before buff windows or dump more during buff windows.
 * Kyuten outperforms Shinten at three mobs and above.
-* Zanshin is worth using as its still more Kenki per potency over Shinten, and any mobs cleaved is still kenki/potency positive and a gain.
+* Zanshin is worth using as its still more potency per Kenki over Shinten, and any mobs cleaved are still kenki/potency positive and a gain.
 
 In addition, it means that **<span style="text-decoration:underline;">each time you successfully use Tengetsu you have effectively gained 100 potency.</span>** This potency can add up very quickly by the end of an encounter, so always try to press Tengetsu when you know there is incoming damage.
 
