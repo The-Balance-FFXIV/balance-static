@@ -1,7 +1,7 @@
 ---
 title: Paladin Best in Slot (BiS)
 layout: bis
-patch: "7.0"
+patch: "7.05"
 lastmod: 2024-07-10T05:09:32.573Z
 changelog:
   - date: 2021-10-28T03:10:04.413Z
@@ -20,23 +20,16 @@ changelog:
     message: Updated for 6.55
   - date: 2024-07-10T05:09:35.325Z
     message: Updated for 7.0 (pre-savage)
+  - date: 2024-09-08T15:56:14.384Z
+    message: 7.05 BiS added
 bis:
   - type: genericlink
     description: Useful to put in your own gear options.
     name: Gear Planner
     link: https://xivgear.app/
-  - type: etro
-    description: Almost identical in performance to the crit-heavy set, but falls
-      slightly behind when crit raid buffs (Battle Litany, Chain Stratagem) are
-      present.
-    link: a6b5492c-3745-4f08-b940-4f4e6be20918
-    name: 2.47 Vegetable Soup — DH heavy
-  - type: etro
-    description: Almost identical in performance to the dh-heavy set, but pulls
-      slightly ahead when crit raid buffs (Battle Litany, Chain Stratagem) are
-      present.
-    name: 2.47 Fruit and Aloe Jelly — Crit heavy
-    link: 0170346f-a9d6-4154-86ba-596ccfd7cff6
+  - type: sleepyshiba
+    link: https://xiv.sleepyshiba.com/pld/sets/730chicken.png
+    name: 2.50 Roast Chicken (7.05 BiS)
   - type: etro
     description: >-
       Note: 665 relic can be used in place of 645 relic (no stat change due to
