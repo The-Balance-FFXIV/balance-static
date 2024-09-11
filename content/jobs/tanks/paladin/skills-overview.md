@@ -2,7 +2,7 @@
 title: Paladin Skills Overview
 authors:
   - nikroulah
-patch: "7.0"
+patch: "7.05"
 lastmod: 2024-07-10T02:27:20.353Z
 changelog:
   - date: 2021-10-27T17:21:39.738Z
@@ -21,6 +21,8 @@ changelog:
     message: Updated for 6.5
   - date: 2024-07-10T02:27:21.005Z
     message: Updated for 7.0
+  - date: 2024-09-08T15:44:15.022Z
+    message: Updated for 7.05 potency changes
 ---
 ## Buffs
 
@@ -41,7 +43,7 @@ Keep this on in dungeons or as the main tank (in content with more than one tank
 +25% damage dealt for 20 seconds.
 
 **Imperator**
-![](https://xivapi.com/i/002000/002513_hr1.png)
+![](https://beta.xivapi.com/api/1/asset/ui/icon/002000/002955_hr1.tex?format=png)
 
 60s cooldown.
 
@@ -65,7 +67,7 @@ Does not interrupt combos.
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/000000/000158_hr1.png) | ![](https://xivapi.com/i/000000/000156_hr1.png) | ![](https://xivapi.com/i/002000/002507_hr1.png) |
 
-220 > 330 > 440 potency
+220 > 330 > 460 potency
 
 Grants Divine Might and Atonement Ready
 
@@ -76,7 +78,7 @@ Grants Divine Might and Atonement Ready
 **Atonement**
 ![](https://xivapi.com/i/002000/002519_hr1.png)
 
-440 potency
+460 potency
 
 Grants Supplication ready
 
@@ -85,7 +87,7 @@ Grants Supplication ready
 **Supplication**
 ![](https://xivapi.com/i/002000/002522_hr1.png)
 
-460 potency
+500 potency
 
 Grants Sepulchre ready
 
@@ -94,18 +96,18 @@ Grants Sepulchre ready
 **Sepulchre**
 ![](https://xivapi.com/i/002000/002523_hr1.png)
 
-480 potency
+540 potency
 
 +400 MP
 
 **Holy Spirit**
 ![](https://xivapi.com/i/002000/002514_hr1.png)
 
-370 potency | 1.5s cast time | Does not break combo
+400 potency | 1.5s cast time | Does not break combo
 
-470 potency and instant with Divine Might (consumes Divine Might)
+500 potency and instant with Divine Might (consumes Divine Might)
 
-670 potency and instant with Requiescat (consumes 1 stack of Requiescat)
+700 potency and instant with Requiescat (consumes 1 stack of Requiescat)
 
 Heals self for 400 potency.
 
@@ -117,7 +119,7 @@ Costs 1000 MP.
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | ![](https://xivapi.com/i/002000/002518_hr1.png) | ![](https://xivapi.com/i/002000/002952_hr1.png) | ![](https://xivapi.com/i/002000/002953_hr1.png) | ![](https://xivapi.com/i/002000/002954_hr1.png) |
 
-940 > 740 > 840 > 940 potency
+1000 > 760 > 880 > 1000 potency
 
 Each combo action consumes a stack of Requiescat, does very little damage unless buffed by Requiescat.
 
@@ -143,7 +145,7 @@ AoE around target, 50% less damage on secondary targets.
 **Circle of Scorn**
 ![](https://xivapi.com/i/000000/000161_hr1.png)
 
-140 potency + 150 potency DoT over 15 seconds. | 30s cooldown.
+140 potency + 30 potency DoT over 15 seconds (150 potency total from DoT). | 30s cooldown.
 
 AoE centered on self.
 
