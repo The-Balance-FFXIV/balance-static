@@ -21,9 +21,19 @@ changelog:
       ultimate sets.
   - date: 2024-07-28T10:20:21.825Z
     message: Added 7.0 sets
+  - date: 2024-09-08T15:59:40.220Z
+    message: Added individual set links for 7.05 BiS sets.
 bis:
+  - type: xivgearset
+    name: 7.05 Bis (2.50)
+    link: embed%7Csl%7C8d8bf2fd-f4a4-425e-92af-3e692d7f1132
+    description: Speed should be chosen according to comfort, but this set is
+      generally recommended.
+  - type: xivgearset
+    name: 7.05 BiS (2.46)
+    link: embed%7Csl%7C490ad35f-3773-47c9-ad5f-7af90c8e16bc
   - type: gsheets
-    name: 7.05 BiS
+    name: 7.05 BiS Gearsets
     link: https://xivgear.app/?page=sl%7C630b6555-74b3-4b24-bbe0-dae4985d3b39&
   - type: gsheets
     name: 7.05 Prog Gearsets
