@@ -238,7 +238,7 @@ Whether that makes any difference at all depends on expected killtimes, expected
 [](https://i.imgur.com/LGRfOzV.jpeg)Our rotation is as follows:
 
 * Dualcast spells to build mana. Prioritize Verfire/stone procs over Jolt III if they're up. 
-* Melee combo at 50|50+ mana. Use Verflare if white mana is lower than black mana, or vice versa for Verholy if 0 or 2 procs are up. If only 1 proc is up, use the other finisher provided it doesn’t imbalance your mana.
+* Melee combo at 50|50+ mana. Use Verholy if white mana is lower than black mana, or vice versa for Verflare if 0 or 2 procs are up. If only 1 proc is up, use the other finisher provided it doesn’t imbalance your mana.
 * Base damaging oGCDs: Use on cooldown (priority: Fleche > Contre Sixte > Engagement > Corps-a-corps).
 * Vice of Thorns and Prefulgence: Prioritize using them under buffs, although it can be a DPS gain to hold them for AOE damage if the situation allows it. Never let them fall off.
 * Swiftcast: Use for oGCD alignment before or after a single or triple combo (but not double combo). Can be used for Verraise if urgent recovery is needed.
