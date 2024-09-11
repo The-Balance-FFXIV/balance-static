@@ -1,7 +1,7 @@
 ---
 title: Paladin FAQ
 layout: qna
-patch: "7.0"
+patch: "7.05"
 lastmod: 2024-07-10T05:01:41.293Z
 changelog:
   - date: 2021-10-27T17:20:21.199Z
@@ -18,37 +18,42 @@ qna:
   - question: Should I delay Fight or Flight or use hardcast Holy Spirit to get
       Sepulchre and Divine Might Holy Spirit into every Fight or Flight window?
     answer: No. The "strong" Fight or Flight window of Supplication, Sepulchre, Holy
-      Spirit (1410p) compared to the "weak" Fight or Flight window of Royal
-      Authority, Holy Spirit, Atonement (1350p) is only an extra 15 potency
-      (we're only moving 60p from outside of Fight or Flight to inside, not
+      Spirit (1540p) compared to the "weak" Fight or Flight window of Royal
+      Authority, Holy Spirit, Atonement (1420p) is only an extra 30 potency
+      (we're only moving 120p from outside of Fight or Flight to inside, not
       creating potency overall, so the only gain is the Fight or Flight buff
-      applied to that 60p, i.e. `60*0.25=15`). As a general rule, delaying Fight
-      or Flight and hardcasting Holy Spirit are a much larger loss (average
-      filler potency is `(220+330+440+440+460+480+470)/7 = ~405` while hardcast
-      is ~340p taking into account the autos you lose from the auto-attack timer
-      being paused during casts which translates to ~65p loss from hardcasting
-      once). Encounter-specific considerations may cause one of these options to
-      be correct but they will almost always be a loss.
+      applied to that 120p, i.e. `120*0.25=30`). As a general rule, delaying
+      Fight or Flight or hardcasting Holy Spirit to improve a Fight or Flight
+      window will lose more than it gains. For instance, as the average filler
+      GCD potency is `(220+330+460+460+500+540+500)/7 = 430`, while hardcast
+      Holy Spirit is ~370p (taking into account the autos you lose from the
+      auto-attack timer being paused during casts), each hardcast of Holy Spirit
+      is a ~60p loss, compared to the 30p gained by going from the worst to best
+      possible Fight or Flight window. Encounter-specific considerations may
+      cause one of these options to be correct but they will almost always be a
+      loss.
   - question: Why should I spend the first Atonement immediately after Royal
       Authority, rather than holding it like before?
     answer: As long as you hold Supplication, Sepulchre, and Divine Might Holy
       Spirit as long as possible, you will still always have three strong
-      fillers for Fight or Flight. Since Atonement isn't present in the "strong"
-      Fight or Flight window of Supplication, Sepulchre, Holy Spirit, defaulting
-      to spending the Atonement ASAP will cause the "strong" Fight or Flight
-      window to occur more often.
+      fillers for Fight or Flight. Since Atonement isn't present in the
+      "strongest" Fight or Flight window of Supplication, Sepulchre, Holy
+      Spirit, defaulting to spending the Atonement ASAP will cause this
+      "strongest" Fight or Flight window to occur more often.
   - question: Should I prioritize Sepulchre or Holy Spirit in Fight or Flight?
-    answer: Sepulchre is 10p more than Holy Spirit, so when prioritize Sepulchre
+    answer: Sepulchre is 40p more than Holy Spirit, so when prioritize Sepulchre
       when possible. Sepulchre will only push Holy Spirit out of Fight or Flight
       if entering Fight or Flight immediately after Royal Authority. If Royal
       Authority lands inside of Fight or Flight, there will not be enough extra
       GCD slots in Fight or Flight to fit all three of Atonement / Supplication
-      / Sepulchre, so Holy Spirit will take precedence.
-  - question: Why is hardcast Holy Spirit not really 370 potency?
+      / Sepulchre, and as Holy Spirit and Supplication have the same potency,
+      either Atonement + Supplication or Atonement + Holy Spirit are valid uses
+      of the remaining two GCDs of Fight or Flight in this case.
+  - question: Why is hardcast Holy Spirit not really 400 potency?
     answer: PLD auto-attacks are normalized to 90p every 3s, so with a 1 second cast
       time (1.5s tooltip cast time minus 0.5s slidecast window), auto-attacks
       are delayed by 1 second every hardcast. On average, hardcast Holy Spirit
-      is equivalent to 340 potency.
+      is equivalent to 370 potency.
   - question: What GCD speed should I use?
     answer: 2.50 is usually ideal (see the best-in-slot page).
   - question: How do I play with a faster GCD speed?
