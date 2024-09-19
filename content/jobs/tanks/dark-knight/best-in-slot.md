@@ -23,18 +23,20 @@ changelog:
     message: Added 7.0 sets
   - date: 2024-09-08T15:59:40.220Z
     message: Added individual set links for 7.05 BiS sets.
+  - date: 2024-09-19T19:11:24.487Z
+    message: Update to improve compatibility of melds between 2.46 and 2.50
 bis:
   - type: xivgearset
     name: 7.05 Bis (2.50)
-    link: embed%7Csl%7C8d8bf2fd-f4a4-425e-92af-3e692d7f1132
+    link: embed%7Csl%7Cab1c56a2-06b3-4a7f-9b40-ccbed8b06fc6
     description: Speed should be chosen according to comfort, but this set is
       generally recommended.
   - type: xivgearset
     name: 7.05 BiS (2.46)
-    link: embed%7Csl%7C490ad35f-3773-47c9-ad5f-7af90c8e16bc
+    link: embed%7Csl%7C06489247-06ab-4cd2-b8b2-6b24aed6b33d
   - type: gsheets
     name: 7.05 BiS Gearsets
-    link: https://xivgear.app/?page=sl%7C630b6555-74b3-4b24-bbe0-dae4985d3b39&
+    link: https://xivgear.app/?page=sl%7Cc545b16f-193b-4d83-9341-4701e237dc10&
   - type: gsheets
     name: 7.05 Prog Gearsets
     link: https://xivgear.app/?page=sl%7C9235267d-09e4-468e-8e14-bfb4ed09726d&
