@@ -329,9 +329,13 @@ The standard rotation allows four Edges of Shadow to be used in each raid buff w
 | AST | ![icon](https://xivapi.com/i/013000/013245_hr1.png)                                                                                                                                    | Divination       | 6% damage increase <br>20s duration               | 120s     |
 | AST | Various                                                                                                                                                                                | Cards            | Target gets 6% damage increase <br>15s duration  | 60s      |
 
-## Breaking a pre-pull TBN on any boss
+## Breaking a pre-pull The Blackest Night on any boss
 
-For some fights, the -3s TBN in the opener won't pop and grant you a Dark Arts proc, due to the boss's auto attacks being too weak. Normally, this is completely fine, and in most cases doesn't affect your damage at all. However, if you want to ensure you get the Dark Arts proc for even bosses with weak auto attacks, you can make a separate gear set with lower Vitality to apply your TBN, and switch back to your normal gear set after application. This will make the TBN's shield be relative to the gear you had on when you applied it, not the gear you switch to afterwards. This is an extremely minor DPS gain on average, so this is only recommended for optimization, not progression.
+In some fights, the boss' auto-attacks are too weak to break The Blackest Night (TBN) used at -3s in the opener. In many cases, you can leave TBN out of the opener with no loss, and just delay the last Edge of Shadow in the opener until you have enough MP.
+
+However, if you want to ensure that you get Dark Arts at the beginning of the fight even for bosses with weak auto-attacks, you can make a separate gear set with lower Vitality to apply your TBN, and switch back to your normal gear set after application. Since TBN's shield scales with your max HP at the time of cast, this will make the shield smaller, allowing it to break more easily.
+
+This is a very minor DPS gain on average, and so is only recommended for optimization, not for progression.
 
 To do this, do the following:
 1. Switch into a gear set with lower Vitality (e.g. your current gear with some of the pieces taken off)
@@ -339,7 +343,7 @@ To do this, do the following:
 1. Switch your gear back to the gear you intend to do the fight on
 1. Execute your opener like normal 
 
-If you're not the main tank, you can still do this, but the main tank will need to switch their gear, and you will of course need to apply the TBN to them, instead of you.
+You can still use this technique if you are not the pulling tank, but will need to coordinate the timing of their gearset swap with your use of TBN on them.
 
 #### Macro
 
