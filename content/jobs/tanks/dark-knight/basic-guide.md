@@ -19,6 +19,8 @@ changelog:
     message: Opener update and patch bump to 6.3.
   - date: 2024-07-28T10:51:24.137Z
     message: Updates for 7.0
+  - date: 2024-09-25T22:19:23.129Z
+    message: Add section on breaking pre-pull TBN on any boss.
 ---
 # Introduction to Dark Knight
 
@@ -28,7 +30,7 @@ changelog:
 
 # Introduction
 
-Dark Knight (DRK) is one of the four tanks available in Final Fantasy XIV: Endwalker. Its rotation features large bursts of damage, accompanied by spikes in actions per minute (APM) and requires managing both MP and a Blood Gauge, putting many hard-hitting attacks into party raid buff windows. It also has access to one of the most powerful single-target mitigation abilities available in The Blackest Night (TBN).
+Dark Knight (DRK) is one of the four tanks available in Final Fantasy XIV: Dawntrail. Its rotation features large bursts of damage, accompanied by spikes in actions per minute (APM) and requires managing both MP and a Blood Gauge, putting many hard-hitting attacks into party raid buff windows. It also has access to one of the most powerful single-target mitigation abilities available in The Blackest Night (TBN).
 
 The purpose of this guide is to give an overview of Dark Knight’s abilities and to allow you to hit the ground running when picking up Dark Knight, as well as giving a peek into optimization in high-end content.
 
