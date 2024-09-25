@@ -303,7 +303,7 @@ It is always better to lose damage in buffs in order to stay alive, and sometime
 
 # Advanced Gameplay
 
-This section assumes that you are comfortable with the entirety of the Dark Knight kit as well as the basic rotation outlined above. If you blindly try to do these optimizations without grasping the fundamentals, it is likely to be detrimental to your play, rather than improve it. Also see the Advanced DRK guide [here](/jobs/tanks/dark-knight/advanced-guide/).
+This section assumes that you are comfortable with the entirety of the Dark Knight kit as well as the basic rotation outlined above. If you blindly try to do these optimizations without grasping the fundamentals, it is likely to be detrimental to your play, rather than improve it.
 
 ## Optimizing Raid Buffs Further
 
@@ -327,7 +327,41 @@ The standard rotation allows four Edges of Shadow to be used in each raid buff w
 | PCT | ![icon](https://beta.xivapi.com/api/1/asset/ui/icon/013000/013808_hr1.tex?format=png) | Starry Muse         | 5% damage increase <br> 20s duration              | 120s     |
 | SCH | ![icon](https://xivapi.com/i/012000/012809_hr1.png)                                                                                                                                    | Chain Stratagem  | +10% critical rate on target <br>20s duration     | 120s     |
 | AST | ![icon](https://xivapi.com/i/013000/013245_hr1.png)                                                                                                                                    | Divination       | 6% damage increase <br>20s duration               | 120s     |
-| AST | Various                                                                                                                                                                                | Cards            | Target gets 6% damage increase <br>15s duration  | 30s      |
+| AST | Various                                                                                                                                                                                | Cards            | Target gets 6% damage increase <br>15s duration  | 60s      |
+
+## Breaking a pre-pull TBN on any boss
+
+For some fights, the -3s TBN in the opener won't pop and grant you a Dark Arts proc, due to the boss's auto attacks being too weak. Normally, this is completely fine, and in most cases doesn't affect your damage at all. However, if you want to ensure you get the Dark Arts proc for even bosses with weak auto attacks, you can make a separate gear set with lower Vitality to apply your TBN, and switch back to your normal gear set after application. This will make the TBN's shield be relative to the gear you had on when you applied it, not the gear you switch to afterwards. This is an extremely minor DPS gain on average, so this is only recommended for optimization, not progression.
+
+To do this, do the following:
+1. Switch into a gear set with lower Vitality (e.g. your current gear with some of the pieces taken off)
+1. Apply TBN to yourself (at -3s)
+1. Switch your gear back to the gear you intend to do the fight on
+1. Execute your opener like normal 
+
+If you're not the main tank, you can still do this, but the main tank will need to switch their gear, and you will of course need to apply the TBN to them, instead of you.
+
+#### Macro
+
+You can use macros to make this gear swap easier. For example, this macro will apply TBN to yourself, and then change gear into gearset 1. This can be used at -3s and presumes you're already in your lower Vitality gearset.
+
+```
+/merror off
+/ac "The Blackest Night"
+/gearset change 1
+/gearset change 1
+/gearset change 1
+/gearset change 1
+/gearset change 1
+/gearset change 1
+/gearset change 1
+/gearset change 1
+/gearset change 1
+/gearset change 1
+/gearset change 1
+/gearset change 1
+/micon "The Blackest Night"
+```
 
 ## Fight-specific optimization
 
