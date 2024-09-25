@@ -4,6 +4,7 @@ card_header_image: /img/jobs/drk/basic.png
 authors:
   - nikroulah
   - silaqui-amakiir
+  - violet-stardust
 patch: "7.0"
 lastmod: 2023-01-19T04:46:39.495Z
 changelog:
