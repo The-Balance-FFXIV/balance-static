@@ -27,7 +27,7 @@ bis:
     description: Useful to put in your own gear options.
     name: Gear Planner
     link: https://xivgear.app/
-  - type: sleepyshiba
+  - type: genericlink
     link: https://xiv.sleepyshiba.com/pld/sets/730chicken.png
     name: 2.50 Roast Chicken (7.05 BiS)
   - type: etro
