@@ -25,6 +25,9 @@ changelog:
     message: Added individual set links for 7.05 BiS sets.
   - date: 2024-09-19T19:11:24.487Z
     message: Update to improve compatibility of melds between 2.46 and 2.50
+  - date: 2024-09-26T18:48:59.953Z
+    message: Added updated links to 7.05 ultimate gearset sheets, cleared out some
+      old gearsets
 bis:
   - type: xivgearset
     name: 7.05 Bis (2.50)
@@ -40,6 +43,21 @@ bis:
   - type: gsheets
     name: 7.05 Prog Gearsets
     link: https://xivgear.app/?page=sl%7C9235267d-09e4-468e-8e14-bfb4ed09726d&
+  - type: xivgearset
+    name: 7.05 TOP Gearsets
+    link: sl%7C63b927c1-370c-4ebf-ac37-61cb1dd4bc43
+  - type: xivgearset
+    name: 7.05 DSR Gearsets
+    link: sl%7Cb36070d6-9699-42b6-b8eb-47abad0a49ef
+  - type: xivgearset
+    name: 7.05 TEA Gearsets
+    link: sl%7C7c773e56-4502-441e-94a2-44694b0247f3
+  - type: xivgearset
+    link: sl%7C564af225-501e-4c84-af90-b977582ede13
+    name: 7.05 UWU Gearsets
+  - type: xivgearset
+    link: sl%7Cba33c886-e9d5-4ad1-be0c-12c3436ddcb9
+    name: 7.05 UCoB Gearsets
   - type: gsheets
     name: 7.01 Gearsets (2 weeks of normal raid gear)
     link: https://xivgear.app/?page=sl%7C7ed23846-ab66-43d2-bf6b-02669b86c586&
@@ -47,42 +65,6 @@ bis:
     link: https://xivgear.app/?page=sl%7C6bb5df18-919d-4dab-a2e2-c20e3b4c1bdc&
     name: 7.00 BiS Gearsets
     description: ""
-  - type: etro
-    description: The DSR weapon and the Asphodelus weapon are both viable (but
-      slightly worse) replacements for the Manderville weapon, melded with DH
-      for the 2.50 set, and SkS for the 2.45 set. The 6.55 relic can replace the
-      older relic with no changes to the set.
-    link: 9123964d-1353-4d59-baad-b27419c9ad50
-    name: Dragonsong's Reprise (Ultimate) 2.50 GCD set
-  - type: etro
-    description: The DSR weapon and the Asphodelus weapon are both viable (but
-      slightly worse) replacements for the Manderville weapon, melded with DH
-      for the 2.50 set, and SkS for the 2.45 set. The 6.55 relic can replace the
-      older relic with no changes to the set.
-    link: b5b20e4d-3dac-4258-a4df-ead7b6f6f5ed
-    name: Dragonsong's Reprise (Ultimate) 2.45 GCD set
-  - type: etro
-    description: The TOP weapon and the Abyssos weapons are both viable (but
-      slightly worse) replacements for the Manderville weapon, melded with DH
-      for the 2.50 set, and SkS for the 2.45 set. The 6.55 relic can replace the
-      older relic with no changes to the set.
-    name: 6.55 The Omega Protocol (Ultimate) 2.50 GCD set
-    link: 836cb50e-aac5-4543-b2c7-a2bed5fc1760
-  - type: etro
-    description: The TOP weapon and the Abyssos weapons are both viable (but
-      slightly worse) replacements for the Manderville weapon, melded with DH
-      for the 2.50 set, and SkS for the 2.45 set. The 6.55 relic can replace the
-      older relic with no changes to the set.
-    name: 6.55 The Omega Protocol (Ultimate) 2.45 GCD set
-    link: "55a352a2-f4c1-40a3-b2bd-ed3a7eba5033 "
-  - type: etro
-    description: ""
-    name: 6.55 2.50 GCD with Relic
-    link: fa98d10d-40a9-455c-8ee4-2c9a3c1ed6b5
-  - type: etro
-    description: ""
-    name: 6.55 2.45 GCD with Relic
-    link: https://etro.gg/gearset/e0ecb2d6-117f-4169-9845-d345b04642be
 authors:
   - Balance-DRK-Staff
   - apileofcats
