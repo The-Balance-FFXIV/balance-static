@@ -2,7 +2,7 @@
 title: Reaper Best-in-Slot
 layout: bis
 patch: "7.05"
-lastmod: 2024-08-02T15:37:12.930Z
+lastmod: 2024-09-19T19:09:05.939Z
 changelog:
   - date: 2022-01-02T23:10:40.632Z
     message: Created page
@@ -26,6 +26,8 @@ changelog:
     message: Updated page for 7.0.
   - date: 2024-08-02T15:37:15.676Z
     message: Updated with 7.05 gear.
+  - date: 2024-09-19T19:09:09.663Z
+    message: Added 7.05 sets for DSR and TOP
 bis:
   - type: etro
     name: 2.49 Savage BiS
@@ -77,6 +79,13 @@ bis:
 
       Replace pieces with higher item level pieces as you get them.
   - type: etro
+    name: 7.05 Dragonsong's Reprise (Ultimate) BiS (Mixed 730 + 600/605 Gear)
+    link: 2f655c79-6db1-4e5b-90f7-41e130bed30a
+    description: This set is currently the best set available and is slightly
+      stronger than the previous BiS set using only 605/600 gear. The 645 and
+      665 versions of the endwalker relic sync down to be the exact same weapon,
+      so use whichever you have available to you.
+  - type: etro
     description: >-
       If using the scythe from DSR, meld two Direct Hit X's and one
       Determination X. If you want full compatibility with DRG after acquiring
@@ -92,6 +101,13 @@ bis:
       the dungeon gear.
     name: Dragonsong's Reprise (Ultimate) BiS (No 6.3 Dungeon Gear Option)
     link: b301e789-96da-42f2-9628-95f68345e35b
+  - type: etro
+    name: 7.05 The Omega Protocol (Ultimate) BiS (Mixed 730 + 630/635 Gear)
+    description: This set is currently the best set available and is slightly
+      stronger than the previous BiS set using only 635/630 gear. The 645 and
+      665 versions of the Endwalker relic sync down to be the exact same weapon,
+      so use whichever you have available to you.
+    link: 585d7c37-9d59-4a85-910e-e0a925b3cead
   - type: etro
     description: >-
       Recommended gearset to prog TOP as of patch 6.5. This set includes the
@@ -111,7 +127,7 @@ bis:
     link: c293f73b-5c58-4855-b43d-aae55b212611
   - type: etro
     name: Another Sil'dihn Subterrane BiS
-    link: d40f9b9d-c459-4ca4-a9e6-570c4034ecb2
+    link: 585d7c37-9d59-4a85-910e-e0a925b3cead
     description: This is the same set as The Omega Protocol. This set is used for
       both the normal and savage versions of the criterion dungeon.
   - type: etro
