@@ -6,7 +6,7 @@ authors:
   - silaqui-amakiir
   - violet-stardust
 patch: "7.0"
-lastmod: 2023-01-19T04:46:39.495Z
+lastmod: 2024-09-25T22:19:23.129Z
 changelog:
   - date: 2021-10-27T17:33:50.039Z
     message: Added
