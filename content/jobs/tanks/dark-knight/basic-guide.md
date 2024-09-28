@@ -4,6 +4,7 @@ card_header_image: /img/jobs/drk/basic.png
 authors:
   - nikroulah
   - silaqui-amakiir
+  - violet-stardust
 patch: "7.0"
 lastmod: 2023-01-19T04:46:39.495Z
 changelog:
@@ -19,6 +20,8 @@ changelog:
     message: Opener update and patch bump to 6.3.
   - date: 2024-07-28T10:51:24.137Z
     message: Updates for 7.0
+  - date: 2024-09-25T22:19:23.129Z
+    message: Add section on breaking pre-pull TBN on any boss.
 ---
 # Introduction to Dark Knight
 
@@ -28,7 +31,7 @@ changelog:
 
 # Introduction
 
-Dark Knight (DRK) is one of the four tanks available in Final Fantasy XIV: Endwalker. Its rotation features large bursts of damage, accompanied by spikes in actions per minute (APM) and requires managing both MP and a Blood Gauge, putting many hard-hitting attacks into party raid buff windows. It also has access to one of the most powerful single-target mitigation abilities available in The Blackest Night (TBN).
+Dark Knight (DRK) is one of the four tanks available in Final Fantasy XIV: Dawntrail. Its rotation features large bursts of damage, accompanied by spikes in actions per minute (APM) and requires managing both MP and a Blood Gauge, putting many hard-hitting attacks into party raid buff windows. It also has access to one of the most powerful single-target mitigation abilities available in The Blackest Night (TBN).
 
 The purpose of this guide is to give an overview of Dark Knight’s abilities and to allow you to hit the ground running when picking up Dark Knight, as well as giving a peek into optimization in high-end content.
 
@@ -303,7 +306,7 @@ It is always better to lose damage in buffs in order to stay alive, and sometime
 
 # Advanced Gameplay
 
-This section assumes that you are comfortable with the entirety of the Dark Knight kit as well as the basic rotation outlined above. If you blindly try to do these optimizations without grasping the fundamentals, it is likely to be detrimental to your play, rather than improve it. Also see the Advanced DRK guide [here](/jobs/tanks/dark-knight/advanced-guide/).
+This section assumes that you are comfortable with the entirety of the Dark Knight kit as well as the basic rotation outlined above. If you blindly try to do these optimizations without grasping the fundamentals, it is likely to be detrimental to your play, rather than improve it.
 
 ## Optimizing Raid Buffs Further
 
@@ -327,7 +330,45 @@ The standard rotation allows four Edges of Shadow to be used in each raid buff w
 | PCT | ![icon](https://beta.xivapi.com/api/1/asset/ui/icon/013000/013808_hr1.tex?format=png) | Starry Muse         | 5% damage increase <br> 20s duration              | 120s     |
 | SCH | ![icon](https://xivapi.com/i/012000/012809_hr1.png)                                                                                                                                    | Chain Stratagem  | +10% critical rate on target <br>20s duration     | 120s     |
 | AST | ![icon](https://xivapi.com/i/013000/013245_hr1.png)                                                                                                                                    | Divination       | 6% damage increase <br>20s duration               | 120s     |
-| AST | Various                                                                                                                                                                                | Cards            | Target gets 6% damage increase <br>15s duration  | 30s      |
+| AST | Various                                                                                                                                                                                | Cards            | Target gets 6% damage increase <br>15s duration  | 60s      |
+
+## Breaking a pre-pull The Blackest Night on any boss
+
+In some fights, the boss' auto-attacks are too weak to break The Blackest Night (TBN) used at -3s in the opener. In many cases, you can leave TBN out of the opener with no loss, and just delay the last Edge of Shadow in the opener until you have enough MP.
+
+However, if you want to ensure that you get Dark Arts at the beginning of the fight even for bosses with weak auto-attacks, you can make a separate gear set with lower Vitality to apply your TBN, and switch back to your normal gear set after application. Since TBN's shield scales with your max HP at the time of cast, this will make the shield smaller, allowing it to break more easily.
+
+This is a very minor DPS gain on average, and so is only recommended for optimization, not for progression.
+
+To do this, do the following:
+1. Switch into a gear set with lower Vitality (e.g. your current gear with some of the pieces taken off)
+1. Apply TBN to yourself (at -3s)
+1. Switch your gear back to the gear you intend to do the fight on
+1. Execute your opener like normal 
+
+You can still use this technique if you are not the pulling tank, but will need to coordinate the timing of their gearset swap with your use of TBN on them.
+
+#### Macro
+
+You can use macros to make this gear swap easier. For example, this macro will apply TBN to yourself, and then change gear into gearset 1. This can be used at -3s and presumes you're already in your lower Vitality gearset.
+
+```
+/merror off
+/ac "The Blackest Night"
+/gearset change 1
+/gearset change 1
+/gearset change 1
+/gearset change 1
+/gearset change 1
+/gearset change 1
+/gearset change 1
+/gearset change 1
+/gearset change 1
+/gearset change 1
+/gearset change 1
+/gearset change 1
+/micon "The Blackest Night"
+```
 
 ## Fight-specific optimization
 
