@@ -55,8 +55,24 @@ bis:
     name: Viper TOP BiS
     description: Replace with the TOP weapon with 3x DET melds if you're using it.
   - type: xivgearset
-    name: Viper DSR BiS
+    name: DSR High SkS Set - 1.96 GCD
+    link: 42d11b47-8937-40bd-9b65-e27b6e0e4a06
+    description: Sims higher than 2.10.
+  - type: xivgearset
+    name: DSR Low SkS BiS - 2.10 GCD
     link: fdf5dad6-fea9-4864-8755-b1b32d78a4cd
+  - type: xivgearset
+    name: TEA SkS BiS - 1.91 GCD
+    link: c942a55f-d10a-4b97-936c-a440693bb073
+    description: From level 90 (sub i630) and below skillspeed sets outperform
+      crit-centric sets due to the lack of powerful oGCDs that benefit from
+      crit.
+  - type: xivgearset
+    link: 1e3e2816-cb5e-4d7f-b5e2-bb1d24f29921
+    name: UWU SkS BiS - 1.78 GCD
+  - type: xivgearset
+    link: 07ed5469-7b71-44c9-9e0b-f8b3f98d061c
+    name: UCOB SkS BiS - 1.80 GCD
 authors:
   - RhyTamok
   - akashi
