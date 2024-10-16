@@ -31,37 +31,37 @@ changelog:
 bis:
   - type: xivgearset
     name: 7.05 Bis (2.50)
-    link: embed%7Csl%7Cab1c56a2-06b3-4a7f-9b40-ccbed8b06fc6
+    link: ab1c56a2-06b3-4a7f-9b40-ccbed8b06fc6
     description: Speed should be chosen according to comfort, but this set is
       generally recommended.
   - type: xivgearset
     name: 7.05 BiS (2.46)
-    link: embed%7Csl%7C06489247-06ab-4cd2-b8b2-6b24aed6b33d
-  - type: gsheets
+    link: 06489247-06ab-4cd2-b8b2-6b24aed6b33d
+  - type: genericlink
     name: 7.05 BiS Gearsets
     link: https://xivgear.app/?page=sl%7Cc545b16f-193b-4d83-9341-4701e237dc10&
-  - type: gsheets
+  - type: genericlink
     name: 7.05 Prog Gearsets
     link: https://xivgear.app/?page=sl%7C9235267d-09e4-468e-8e14-bfb4ed09726d&
-  - type: xivgearset
+  - type: genericlink
     name: 7.05 TOP Gearsets
-    link: sl%7C63b927c1-370c-4ebf-ac37-61cb1dd4bc43
-  - type: xivgearset
+    link: https://xivgear.app/?page=sl%7C63b927c1-370c-4ebf-ac37-61cb1dd4bc43
+  - type: genericlink
     name: 7.05 DSR Gearsets
-    link: sl%7Cb36070d6-9699-42b6-b8eb-47abad0a49ef
-  - type: xivgearset
+    link: https://xivgear.app/?page=sl%7Cb36070d6-9699-42b6-b8eb-47abad0a49ef
+  - type: genericlink
     name: 7.05 TEA Gearsets
-    link: sl%7C7c773e56-4502-441e-94a2-44694b0247f3
+    link: https://xivgear.app/?page=sl%7C7c773e56-4502-441e-94a2-44694b0247f3
   - type: xivgearset
-    link: sl%7C564af225-501e-4c84-af90-b977582ede13
+    link: https://xivgear.app/?page=sl%7C564af225-501e-4c84-af90-b977582ede13
     name: 7.05 UWU Gearsets
   - type: xivgearset
-    link: sl%7Cba33c886-e9d5-4ad1-be0c-12c3436ddcb9
+    link: https://xivgear.app/?page=sl%7Cba33c886-e9d5-4ad1-be0c-12c3436ddcb9
     name: 7.05 UCoB Gearsets
-  - type: gsheets
+  - type: genericlink
     name: 7.01 Gearsets (2 weeks of normal raid gear)
     link: https://xivgear.app/?page=sl%7C7ed23846-ab66-43d2-bf6b-02669b86c586&
-  - type: gsheets
+  - type: genericlink
     link: https://xivgear.app/?page=sl%7C6bb5df18-919d-4dab-a2e2-c20e3b4c1bdc&
     name: 7.00 BiS Gearsets
     description: ""
