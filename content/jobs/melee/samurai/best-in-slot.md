@@ -2,7 +2,7 @@
 title: Samurai Best in Slot (BiS)
 layout: bis
 patch: "7.05"
-lastmod: 2024-09-03T23:12:14.914Z
+lastmod: 2024-10-19T03:49:50.066Z
 changelog:
   - date: 2021-10-28T03:30:20.029Z
     message: Created page
@@ -20,6 +20,8 @@ changelog:
     message: Updated for 6.55
   - date: 2024-09-03T23:12:05.009Z
     message: Updated for 7.05
+  - date: 2024-10-19T03:50:05.266Z
+    message: 7.05 sets for TEA, DSR and TOP added
 bis:
   - type: xivgearset
     description: Classic "Slow SAM". Highest DPS, easiest weaving. Accessories have
@@ -32,15 +34,17 @@ bis:
       flexibility with mechanic downtime.
     name: 2.08 Savage BiS
     link: 18e91d14-fbe3-4780-be2e-226044ebbd6e
-  - type: gsheets
+  - type: null
     description: >-
       Sets for these fights are community-sourced through use of Jahaudant's
-      Gear Planner. The below sets have been sourced from Niche and boxer.
+      Gear Planner and XIVGear. Special thanks to Niche and Lars for helping
+      with making the sets.
 
 
-      [UCoB](https://i.imgur.com/aniy6ht.png) | [UWU](https://i.imgur.com/QEmLdA9.png) | [TEA](https://i.imgur.com/2awgvoO.png) | [DSR](https://i.imgur.com/wHvW0JZ.png) | [TOP](https://i.imgur.com/AhgK3CY.png)
+      [UCoB](https://i.imgur.com/aniy6ht.png) | [UWU](https://i.imgur.com/QEmLdA9.png) | [TEA](https://xivgear.app/?page=sl%7C9c1a2528-c316-4601-9913-d5cad57f7656) | [DSR](https://xivgear.app/?page=sl%7Cfef708a3-5679-4790-938d-f2cb3d5bbda8) | [TOP](https://xivgear.app/?page=sl%7C87b0e17b-692e-4f5d-a732-8fdc1b577f9a)
     name: 'Ultimate/Unreal Sync "BiS" Sets:'
-    link: https://bit.ly/Gear-Planner
+    link: ""
 authors:
   - Balance-SAM-Staff
+  - Flare
 ---
