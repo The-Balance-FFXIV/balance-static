@@ -22,6 +22,8 @@ changelog:
     message: Updated for 7.05
   - date: 2024-10-19T03:50:05.266Z
     message: 7.05 sets for TEA, DSR and TOP added
+  - date: 2024-10-20T04:27:39.128Z
+    message: 7.05 sets for UCOB and UWU added, relaced TEA and DSR sets
 bis:
   - type: xivgearset
     description: Classic "Slow SAM". Highest DPS, easiest weaving. Accessories have
@@ -36,12 +38,13 @@ bis:
     link: 18e91d14-fbe3-4780-be2e-226044ebbd6e
   - type: null
     description: >-
-      Sets for these fights are community-sourced through use of Jahaudant's
-      Gear Planner and XIVGear. Special thanks to Niche and Lars for helping
-      with making the sets.
+      Sets for these fights are community-sourced through use of XIVGear. In the
+      case of UCOB, UWU and TEA, you do NOT need those sets to clear - they're
+      just to squeeze out the most damage possible. Special thanks to Niche,
+      Lars and Boxer for helping with making these.
 
 
-      [UCoB](https://i.imgur.com/aniy6ht.png) | [UWU](https://i.imgur.com/QEmLdA9.png) | [TEA](https://xivgear.app/?page=sl%7C9c1a2528-c316-4601-9913-d5cad57f7656) | [DSR](https://xivgear.app/?page=sl%7Cfef708a3-5679-4790-938d-f2cb3d5bbda8) | [TOP](https://xivgear.app/?page=sl%7C87b0e17b-692e-4f5d-a732-8fdc1b577f9a)
+      [UCoB](https://xivgear.app/?page=sl%7C63158492-857f-4656-a067-c9294c341606) | [UWU](https://xivgear.app/?page=sl%7C41ebbdad-484c-4a6e-a146-4e187a322ea9) | [TEA](https://xivgear.app/?page=sl%7Cd28b5387-785e-4b7f-a85c-ebe3bcd8a0c3) | [DSR](https://xivgear.app/?page=sl%7Ccb381b61-8e61-4744-a646-5f9499bbbe1a) | [TOP](https://xivgear.app/?page=sl%7C87b0e17b-692e-4f5d-a732-8fdc1b577f9a)
     name: 'Ultimate/Unreal Sync "BiS" Sets:'
     link: ""
 authors:
