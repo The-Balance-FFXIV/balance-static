@@ -13,8 +13,6 @@ changelog:
   - date: 2022-09-13T04:58:10.621Z
     message: Updated Redraw section
 ---
-![]()
-
 # ***Notable Endwalker Changes***
 
 * New Skills: Astrodyne, Macrocosmos, Exaltation, Minor Arcana.
@@ -201,11 +199,11 @@ changelog:
 
 ![](/img/jobs/ast/lightspeed.png)
 
-**Lightspeed 90s CD**
+**Lightspeed 60s CD(2 charges)**
 
 * Reduces cast times by 2.5 seconds.
 * While Light speed makes your cast time instant, it isn't a DPS gain you don't cast more spells outside of the last Malefic before a fight ends.
-* Used primarily for movement. 
+* Always try to keep one charge for your 2 minute burst.
 
 ![](/img/jobs/ast/neutral.png)
 
@@ -277,57 +275,9 @@ changelog:
 
 # Cards and Buffs
 
-![](/img/jobs/ast/undraw.png)
+![](/img/jobs/ast/003564_hr1.png)
 
-**Undraw**
 
-* Unbind this, it's useless.
-
-![](/img/jobs/ast/draw.png)
-
-**Draw 30s CD**
-
-* Draws a card from your deck.
-* Using Draw ability recovers 500mp.
-* Cards can be played with the Play ability after drawing a card.
-* Draws one of six cards split by Melee cards and Ranged cards.
-* Melee cards can be identified by the Teal border. They increase damage for Melee and Tank jobs by six percent and Ranged, Caster and Healer classes by three percent.
-* Ranged cards can be identified by the Purple border. They increase damage for Ranged, Caster and Healer classes by six percent and Melee and Tank jobs by three percent.
-* If you are colorblind, melee cards have a + to the side of the card while ranged cards have a little o+ to the side of the card.
-* Playing cards while you and your target are both in combat will give you a Seal in your arcana gauge.
-* Try not to over-cap on Draw charges (keep the cooldown ticking constantly).
-* Playing one card every one minute and three cards every two minutes is optimal in raid boss fights.
-* In dungeons use cards as you get them on trash.
-* Redraw, draw, and play each use a weave window.
-
-![](/img/jobs/ast/003105_hr1.png)
-
-**Redraw**
-
-* The Draw ability gives you Clarifying Draw giving you the ability to use Redraw.
-* Redraws a card from your deck replacing your current drawn card.
-* You can only use Redraw once and you can not draw the same Astrosign when using Redraw.
-* Redraw, draw, and play each use a weave window.
-
-![](/img/jobs/ast/minor-arcana.png)
-
-**Minor Arcana 60s CD**
-
-* Minor Arcana Draws a Crown card from your deck.
-* Minor Arcana can be played with the Crown Play ability after drawing a Minor Arcana card. 
-* Minor Arcana and Play Minor Arcana both use a weave window.
-
-  * *Lord of Crowns*
-
-       *Aoe damage in a 20y radius around you (250p)*
-              Is drawn with Minor Arcana and needs Crown Play ability to play it.
-              *Uses a weave window.* 
-              Use this for damage under buffs if you can or in multi-target situations.
-* *Lady of Crowns*
-              *Aoe healing in a 20y radius around you (400p)*
-              Is drawn with Minor Arcana and needs Crown play ability to play it.
-              *Use a weave window* 
-              Use this as an additional heal if you have it. It should not be put in heal plans as you may not always draw it.
 
 ![](/img/jobs/ast/divination.png)
 
@@ -338,20 +288,3 @@ changelog:
 * Stacks multiplicatively with other damage buffs.
 * In raid boss fights this is used during the third GCD in your opener and on cooldown throughout the fight. Only delay its usage if your group is coordinating raid buffs.
 * In dungeons use on trash and bosses do not save it unless trash will die very soon.
-
-![](/img/jobs/ast/astrodyne.png)
-
-**Astrodyne**
-
-* Astrodyne grants a buff depending on unique seals in your Arcana Gauge.
-* You need three seals in your Arcana Gauge to activate Astrodyne no matter the combination of unique seals.
-* Uses a weave window.
-* This buff grants effects based on the number of unique seals you have.
-
-  * One unique seal gives you 500mp over 15s.
-  * Two unique seals give you 10% haste plus 500mp over 15s.
-  * Three unique seals increase your outgoing damage and healing by 5% plus 10% haste and 500mp over 15s.
-  * Aim to get at least two unique seals to get the haste buff, while it's ideal to get three unique seals, it's not always optimal to redraw for it and the damage buff is a small gain compared to the haste buff.
-* Haste isn't the same as spellspeed so it will not increase DoT damage
-* You can hold Astrodyne for the two minute window, and if you do, your six minute window will have two Astrodynes. I suggest looking at the Astrodyne and Cards timeline for an idea on how two minute Astrodyne works.
-* Overwriting cards in the Arcana gauge is never worth it unless you know you won't gain another Astrodyne before the fight ends.
