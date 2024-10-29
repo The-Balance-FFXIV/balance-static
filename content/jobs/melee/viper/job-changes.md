@@ -15,7 +15,7 @@ changes:
       Noxious Gnash removed. 
 
 
-      Dread Fangs, Dread Maw, Dreadwinder, and Pit of Dread remamed to Reaving Fangs, Reaving Maw, Vicewinder, and Vicepit respectively. 
+      Dread Fangs, Dread Maw, Dreadwinder, and Pit of Dread renamed to Reaving Fangs, Reaving Maw, Vicewinder, and Vicepit respectively. 
 
 
       Several abilities had their potency increased to account for the removal of Noxious Gnash, and some were buffed even further than to make up for the difference. This resulted in a ~2.3% DPS buff for VPR compared to 7.01.\
