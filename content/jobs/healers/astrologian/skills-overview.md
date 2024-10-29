@@ -13,6 +13,8 @@ changelog:
   - date: 2022-09-13T04:58:10.621Z
     message: Updated Redraw section
 ---
+![]()
+
 # ***Notable Endwalker Changes***
 
 * New Skills: Astrodyne, Macrocosmos, Exaltation, Minor Arcana.
@@ -297,8 +299,6 @@ changelog:
 * Playing one card every one minute and three cards every two minutes is optimal in raid boss fights.
 * In dungeons use cards as you get them on trash.
 * Redraw, draw, and play each use a weave window.
-
-
 
 ![](/img/jobs/ast/003105_hr1.png)
 
