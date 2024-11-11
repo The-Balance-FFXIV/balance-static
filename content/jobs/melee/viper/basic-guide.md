@@ -1,6 +1,6 @@
 ---
 title: Viper Basic Guide
-card_header_image: /img/jobs/vpr/image_2024-11-10_193544975.png
+card_header_image: /img/jobs/vpr/image_2024-11-10_193623139.png
 authors:
   - ToraelValdis
   - Balance-VPR-Staff
