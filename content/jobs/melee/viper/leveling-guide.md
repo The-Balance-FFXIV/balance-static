@@ -1,5 +1,6 @@
 ---
 title: Viper Leveling Guide
+card_header_image: /img/jobs/vpr/image_2024-11-10_193647496.png
 authors:
   - akashi
   - Balance-VPR-Staff
