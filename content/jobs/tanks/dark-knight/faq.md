@@ -1,7 +1,7 @@
 ---
 title: Dark Knight FAQ
 layout: qna
-patch: "7.0"
+patch: "7.1"
 lastmod: 2023-01-19T04:45:38.945Z
 changelog:
   - date: 2021-10-27T17:50:54.106Z
@@ -12,6 +12,8 @@ changelog:
     message: FAQ updated for 6.21
   - date: 2023-01-19T04:45:43.180Z
     message: Updated for 6.3
+  - date: 2024-11-13T21:44:02.311Z
+    message: Updates for 7.1
 qna:
   - question: How do I optimally spend MP?
     answer: >
@@ -56,8 +58,7 @@ qna:
       2.45 has good alignment with perfect play, but 2.46 gives slightly more leniency than 2.45 at the expense of slightly worse alignment in the optimal case. 
   - question: What food should I use?
     answer: >-
-      (Patch 7.0/7.01): Either Vegetable Soup (for DH-focused sets) or Fruit and
-      Aloe Jelly (for crit-focused sets).
+      (Patch 7.1): Either Roast Chicken (for 2.50) or Moqueca (for 2.46).
 
       You can compare the two in a gear calculator to see which is better for your current gearset.
   - question: How much mitigation will I gain/damage will I lose by focusing on Tenacity?
