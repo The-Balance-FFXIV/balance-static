@@ -135,7 +135,7 @@ Certain GCD speeds are poorly aligned to **No Mercy** and will cause **No Mercy*
 
 The simplest explanation of the rotation revolves around a filler and burst phase concept. Review the graphic with the text explanation below it.
 
-![Gunbreaker Rotation Graphic](/img/jobs/gbn/rotation_gnb_7.1_1.2.png)
+![Gunbreaker Rotation Graphic](/img/jobs/gbn/rotation_gnb_7.1_1.3.png)
 
 </br>
 
