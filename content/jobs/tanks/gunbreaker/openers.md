@@ -17,14 +17,22 @@ changelog:
 ---
 # Openers
 
-Your opener is flexible and **No Mercy** can be used earlier than what is listed in either of these openers if necessary to allow for additional uses to be used before phases or mechanics.
+Your opener is flexible and **No Mercy** can be used earlier or later than what is listed in either of these openers if necessary to allow for additional uses to be used before phases or mechanics, or alignment to your party's buffs.
 
-The **Lightning Shot** is not required in these, but is **heavily suggested** for engagement timing. Facepulling is not consistent unless you can pull from within melee range without beginning the encounter.
+#### PULLING TECHNIQUES
 
-### Standard Opener (**≤** 2.47 GCD)
+* **Lightning Shot** is heavily suggested for raid buff alignment and pull consistency.
+* You may opt to use **Trajectory** at -0.22s on the pull timer for an accurate pull at 0.00s.
+* Do not facepull unless the boss is already within melee range. It is a waste of GCD uptime in comparison to the other two options.
 
-![Standard Opener](/img/jobs/gbn/gnb_standard_v2.1.png "Standard Opener")<br>
+#### OPENERS
 
-### 2.50 Opener
+![2.50 Opener](/img/jobs/gbn/2.4opener_7.1_1.1.png "2.50 Opener")
 
-![2.50 Opener](/img/jobs/gbn/gnb-2.50-option-2.1.png "2.50 Opener")
+</br>
+
+![2.50 Opener](/img/jobs/gbn/2.5opener_7.1_1.2.png "2.50 Opener")
+
+</br>
+
+![2.50 Opener](/img/jobs/gbn/rotation_gnb_7.1_1.2.png "2.50 Opener")
