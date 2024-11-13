@@ -35,4 +35,4 @@ Your opener is flexible and **No Mercy** can be used earlier or later than what 
 
 </br>
 
-![2.50 Opener](/img/jobs/gbn/rotation_gnb_7.1_1.2.png "2.50 Opener")
+![2.50 Opener](/img/jobs/gbn/rotation_gnb_7.1_1.3.png "2.50 Opener")
