@@ -54,8 +54,7 @@ The actions that will fill the cartridge gauge are as follows:
 
 The actions that will spend cartridges from the gauge are as follows:
 
-* **Gnashing Fang, Burst Strike,** and **Fated Circle** all spend one cartridge.
-* **Double Down** will spend two cartridges.
+* **Gnashing Fang, Double Down, Burst Strike,** and **Fated Circle** all spend one cartridge.
 
 - - -
 
@@ -75,7 +74,7 @@ We need to establish a couple of concepts first regarding both how damage is cal
 
 #### Damage Snapshotting
 
-Damage is calculated by snapshotting all buffs and debuffs at the exact frame that the cast point was registered. This means that the damage actually applying to and hitting a target is already calculated before it reaches the target, actions are still buffed so long as they are used before the buff falls off, not as the damage lands. Debuff-based damage over time effects work the same way, such as **Sonic Break**.
+Damage is calculated by snapshotting all buffs and debuffs at the exact moment the server receives the request to use any action. This means that the damage actually applying to and hitting a target is already calculated before it applies to the target, and that actions are still buffed so long as they are used before the buff falls off, not as the damage lands. Debuff-based damage over time effects work the same way, such as **Sonic Break**.
 
 As a result, when playing fast enough GCD speeds this allows us to buff additional GCDs while **No Mercy** is still active without needing **No Mercy** to remain active as that damage lands. It also means that as long as damage-over-time effects fully tick and expire without being wasted, they can go anywhere within **No Mercy**.
 
@@ -83,7 +82,7 @@ As a result, when playing fast enough GCD speeds this allows us to buff addition
 
 An additional 9th GCD into **No Mercy** is typically possible on GCD speeds faster than or equal to 2.47. Thanks to damage snapshotting, we only have to care that the action is pressed while **No Mercy** is active, meaning so as long as the total time to press 9 GCDs is less than 20 seconds, 9 GCDs are possible. Buffing the 9th GCD is very dependent on when **No Mercy** is used relative to the GCD roll and it requires a specific usage timing.
 
-In order to buff a 9th GCD inside **No Mercy**, we must use **No Mercy** as a “late weave”, or cast it in between the bottom left and top left corner of our GCD icon. This makes it so that **No Mercy** will activate right as we press the next GCD, letting us use as much of the 20 seconds that is possible.
+In order to buff a 9th GCD inside **No Mercy**, we must use **No Mercy** as a “late weave”, or cast it in between the bottom left and top left corner of our GCD icon. This makes it so that **No Mercy** will activate right as we press the next GCD, letting us maximize our active usage time of the possible 20 seconds.
 
 #### No Mercy Usage Guidelines
 
@@ -104,21 +103,39 @@ Certain GCD speeds are poorly aligned to **No Mercy** and will cause **No Mercy*
 
 - - -
 
-### **PRIORITY SYSTEM**
+### **OPENERS**
+
+- - -
+
+![Gunbreaker Rotation Graphic](/img/jobs/gbn/2.4opener_7.1_1.1.png)
+
+</br>
+
+![Gunbreaker Rotation Graphic](/img/jobs/gbn/2.5opener_7.1_1.2.png)
+
+</br>
+
+#### OPENER NOTES
+
+- The **Lightning Shot** cast is suggested for pull consistency and raid buff alignment.
+  - It does not matter if you are MT or ST, this is always fundamentally true.
+- **Sonic Break** being moved to the 9th GCD in the 2.4n Opener is not a new technique, but for those unfamiliar:
+  - It is the least risky choice to keep **Hypervelocity** inside of **No Mercy**. (40p gain)
+  - If **Sonic Break** falls out of **No Mercy**, move **Burst Strike** back to the 9th GCD.
+  - If **Sonic Break** falls out of raid buffs worth more than 12.1% overall, move﻿﻿ **Burst Strike** back to the 9th GCD.
+  - If **Sonic Break** is cut off by downtime, move﻿﻿ **Burst Strike** back to the 9th GCD.
+
+- - -
+
+### **Rotation Fundamentals**
 
 - - -
 
 The simplest explanation of the rotation revolves around a filler and burst phase concept. Review the graphic with the text explanation below it.
 
+![Gunbreaker Rotation Graphic](/img/jobs/gbn/rotation_gnb_7.1_1.2.png)
 
-
-![Gunbreaker Rotation Graphic](/img/jobs/gbn/updatedgnbrot1.2.png)
-
-
-
-
-
-- - -
+</br>
 
 #### FILLER PHASE
 
@@ -147,9 +164,9 @@ GCD cooldowns within **No Mercy** should be used in the following priority:
 
 **Sonic Break** should be used in the following priority:
 
+* Use **Sonic Break** anywhere necessary to allow better cooldown usage.
 * Use **Sonic Break** as the 9th GCD on 2.4X GCDs to stop **Hypervelocity** from falling out of **No Mercy**.
 * Use **Sonic Break** earlier if any DOT uptime is lost from downtime or fight killtime.
-* Use **Sonic Break** anywhere that weaving room is necessary, but try to avoid needing this.
 
 OGCD cooldowns within **No Mercy** should be used in the following priority:
 
@@ -162,15 +179,11 @@ OGCD cooldowns within **No Mercy** should be used in the following priority:
 
 - - -
 
-#### Forced 2-Cartridge No Mercy
+#### Forced 1-Cartridge No Mercy
 
-A situation can occur where the cartridge gauge is full, and **Solid Barrel** would be next action before **No Mercy**. The filler priority earlier stated to use **Burst Strike** whenever this happens, but since **No Mercy** is on the next GCD and we also want to use that off cooldown, what do we do?
-
-![](/img/jobs/gbn/gnb_2cart_solution_v5.1.png)
-
-- - -
-
-This is known as a “**forced 2-cartridge No Mercy**” due to the burst phase being entered with only two of the three necessary cartridges for your cooldowns. Failing to properly execute this will result in damage loss.
+A situation can occur where a **Solid Barrel** would be next action before **No Mercy when Bloodfest is also coming off cooldown, pushing you to 3 cartridges.** Since we'd prefer not to drift **Bloodfest**, what do we do?\
+\
+\*\*This graphic is being updated, but the solution is to cast a **Burst Strike** in place of that **Solid Barrel**. This will drive you down to 1 cartridge, where then you can cast **Sonic Break** earlier in your burst window to fill the gap that forms. **Gnashing Fang** or **Double Down** (or both) will drift by 1 GCD in the process, but Bloodfest will not.\*\*
 
 - - -
 
@@ -180,7 +193,7 @@ This is known as a “**forced 2-cartridge No Mercy**” due to the burst phase 
 
 ![](/img/jobs/gbn/gnb_combobreaker_v1.png)
 
-- - -
+</br>
 
 Certain combo chains cannot be used during other combo chains without breaking one or the other. It is important to understand what you can or cannot press during a combo chain to avoid losing out on significant potency by mistake.
 
