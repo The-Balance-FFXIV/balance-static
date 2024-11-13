@@ -117,13 +117,15 @@ Certain GCD speeds are poorly aligned to **No Mercy** and will cause **No Mercy*
 
 #### OPENER NOTES
 
-- The **Lightning Shot** cast is suggested for pull consistency and raid buff alignment.
-  - It does not matter if you are MT or ST, this is always fundamentally true.
-- **Sonic Break** being moved to the 9th GCD in the 2.4n Opener is not a new technique, but for those unfamiliar:
-  - It is the least risky choice to keep **Hypervelocity** inside of **No Mercy**. (40p gain)
-  - If **Sonic Break** falls out of **No Mercy**, move **Burst Strike** back to the 9th GCD.
-  - If **Sonic Break** falls out of raid buffs worth more than 12.1% overall, move﻿﻿ **Burst Strike** back to the 9th GCD.
-  - If **Sonic Break** is cut off by downtime, move﻿﻿ **Burst Strike** back to the 9th GCD.
+* The **Lightning Shot** cast is suggested for pull consistency and raid buff alignment.
+
+  * It does not matter if you are MT or ST, this is always fundamentally true.
+* **Sonic Break** being moved to the 9th GCD in the 2.4n Opener is not a new technique, but for those unfamiliar:
+
+  * It is the least risky choice to keep **Hypervelocity** inside of **No Mercy**. (40p gain)
+  * If **Sonic Break** falls out of **No Mercy**, move **Burst Strike** back to the 9th GCD.
+  * If **Sonic Break** falls out of raid buffs worth more than 12.1% overall, move﻿﻿ **Burst Strike** back to the 9th GCD.
+  * If **Sonic Break** is cut off by downtime, move﻿﻿ **Burst Strike** back to the 9th GCD.
 
 - - -
 
@@ -146,7 +148,7 @@ The goal of this phase is to prepare the appropriate cartridges for **No Mercy**
 * Use **Burst Strike** only when the cartridge gauge is about to overcap.
 
   * This occurs anytime the gauge is full and **Solid Barrel** is the next action to use.
-  * You should **Burst Strike** into **No Mercy** wherever it is possible to buff **Hypervelocity** when playing at a 2.50 GCD speed.
+  * You should **Burst Strike** into **No Mercy** when you will also have **Bloodfest** to avoid drifting the usage for any speed, and to also optimize damage on 2.50.
 
 Once **No Mercy** comes back off cooldown, weave it in accordance with the usage guideline above this section.
 
