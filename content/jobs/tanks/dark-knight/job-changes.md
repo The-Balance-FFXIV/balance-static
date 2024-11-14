@@ -14,7 +14,7 @@ changes:
       A 500 potency cure effect was added to Carve and Spit, and Abyssal Drain's cure effect
       was increased to 500 potency. Dark Mind now additionally provides 10% physical mitigation. 
       Dark Missionary is now available at level 66 and additionally provides 5% physical mitigation.
-      Living Shadow's buff now applies immediately.
+      Living Dead's buff now applies immediately.
 authors:
   - Balance-DRK-Staff
 ---
