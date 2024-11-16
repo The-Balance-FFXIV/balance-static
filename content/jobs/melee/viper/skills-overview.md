@@ -3,8 +3,8 @@ title: Viper Skills Overview
 authors:
   - ToraelValdis
   - Balance-VPR-Staff
-patch: "7.05"
-lastmod: 2024-07-30T19:16:55.732Z
+patch: "7.1"
+lastmod: 2024-11-16T21:47:23.720Z
 changelog:
   - date: 2024-06-20T21:56:01.856Z
     message: Guide added to website
