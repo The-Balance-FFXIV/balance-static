@@ -3,8 +3,8 @@ title: Reaper Leveling Guide
 card_header_image: /img/jobs/rpr/rpr-leveling.png
 authors:
   - Balance-RPR-Staff
-patch: "7.0"
-lastmod: 2024-07-04T02:45:39.994Z
+patch: "7.1"
+lastmod: 2024-11-16T21:51:23.449Z
 changelog:
   - date: 2022-09-13T13:43:48.819Z
     message: Updated patch number
