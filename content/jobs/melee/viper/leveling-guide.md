@@ -4,8 +4,8 @@ card_header_image: /img/jobs/vpr/image_2024-11-10_193647496.png
 authors:
   - akashi
   - Balance-VPR-Staff
-patch: "7.05"
-lastmod: 2024-06-17T23:32:14.858Z
+patch: "7.1"
+lastmod: 2024-11-16T21:46:22.813Z
 changelog:
   - date: 2024-08-06T18:56:34.334Z
     message: Updated to reflect 7.05 changes.
