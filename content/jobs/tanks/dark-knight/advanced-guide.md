@@ -39,4 +39,6 @@ Another ability where the application delay is worth knowing is Carve and Spit, 
 
 This can come up in practical situations if you're going into burst with an especially high amount of MP. In these situations, you want to save Disesteem for the GCD where you'd normally overcap. If you have, for example, 9000 MP and a Dark Arts proc, then with Blood Weapon and Delirium up, using Disesteem -> Edge of Shadow -> Scarlet Delirium -> Edge of Shadow would overcap MP, whereas Scarlet Delirium -> Edge of Shadow -> Disesteem -> Edge of Shadow would not.
 
+# Salted Earth, Buff Windows, and 90s Cooldowns
 
+Salted Earth is a weird in that it has a 90s cooldown, unlike most other damaging cooldowns in the game. Regardless, it's best to use Salted Earth off cooldown rather than save it for buffs, since more uses of the ability will always trump less uses in buff windows. This only changes when you know the killtime and you know you wouldn't lose a use to hold the ability for buffs. For example, if you're killing the boss after 8:30, then you wouldn't lose a use of Salted Earth if you held the one you'd use around 1:30 to the 2m burst window. This also shifts the 7:30 Salted Earth to the 8m window, allowing us to pot in the 2m and 8m burst window (instead of the 0m and 6m burst window) without losing abilities under pot.
