@@ -1,7 +1,7 @@
 ---
 title: Samurai Changes
 layout: changes
-lastmod: 2024-08-18T07:02:42.216Z
+lastmod: 2024-11-16T06:19:33.646Z
 changes:
   - patch: "5.58"
     description: "[Placeholder for Endwalker]"
@@ -43,6 +43,11 @@ changes:
 
 
       Skill revamps, Traits, and a new Ability called Zanshin, which we can use after pressing Ikishoten.
+  - patch: "7.1"
+    description: |-
+      Gyofu's potency has been increased from 230 to 240.
+
+      Zanshin's potency has been increased from 820 to 900.
 authors:
   - Balance-SAM-Staff
   - boxer
