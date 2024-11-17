@@ -1,8 +1,8 @@
 ---
 title: Reaper FAQ
 layout: qna
-patch: "7.0"
-lastmod: 2024-07-14T01:00:57.759Z
+patch: "7.1"
+lastmod: 2024-11-16T21:53:08.759Z
 changelog:
   - date: 2021-12-04T04:55:35.452Z
     message: Page created
@@ -14,9 +14,9 @@ changelog:
     message: "Updated to be consistent with our Discord RPR Resources page. "
 qna:
   - question: Which Potion/Food should RPR use?
-    answer: The highest available Strength potion. Currently, that is **Grade 1
-      Gemdraught of Strength**. Current food is **Vegetable Soup.** Always use
-      High Quality!
+    answer: The highest available Strength potion. Currently, that is **Grade 2
+      Gemdraught of Strength**. Current food is **Moqueca.** Always use High
+      Quality!
   - question: Why is my Plentiful Harvest clipping in the AC 3rd GCD Opener?
     answer: Plentiful Harvest cannot be used for 6.7s after using Arcane Circle. You
       must early weave it or it will cause a clip if used where it is in the
