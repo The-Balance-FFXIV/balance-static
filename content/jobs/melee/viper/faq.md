@@ -1,8 +1,8 @@
 ---
 title: Viper Frequently Asked Questions
 layout: qna
-patch: "7.05"
-lastmod: 2024-07-31T02:03:31.251Z
+patch: "7.1"
+lastmod: 2024-11-16T21:48:21.037Z
 qna:
   - question: Are Reawaken skills affected by Haste/Skill Speed? What speeds are
       VPRs GCDs?
