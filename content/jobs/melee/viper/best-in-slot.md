@@ -1,8 +1,8 @@
 ---
 title: Viper Best in Slot
 layout: bis
-patch: "7.05"
-lastmod: 2024-08-04T22:46:01.762Z
+patch: "7.1"
+lastmod: 2024-11-16T21:49:01.466Z
 changelog: []
 bis:
   - type: etro
