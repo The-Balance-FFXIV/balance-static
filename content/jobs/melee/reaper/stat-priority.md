@@ -1,7 +1,7 @@
 ---
 title: Reaper Stat Priority
-patch: "7.05"
-lastmod: 2024-08-02T15:56:20.676Z
+patch: "7.1"
+lastmod: 2024-11-16T21:55:04.514Z
 changelog:
   - date: 2022-01-02T19:55:17.973Z
     message: Page Created
