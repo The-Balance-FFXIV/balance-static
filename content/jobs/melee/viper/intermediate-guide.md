@@ -4,8 +4,8 @@ card_header_image: /img/jobs/vpr/large-file-viper-1.png
 authors:
   - ToraelValdis
   - Balance-VPR-Staff
-patch: "7.05"
-lastmod: 2024-08-18T18:50:11.549Z
+patch: "7.1"
+lastmod: 2024-11-16T21:48:43.284Z
 changelog:
   - date: 2024-06-20T05:44:33.192Z
     message: Guide added to website
