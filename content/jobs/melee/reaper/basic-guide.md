@@ -3,8 +3,8 @@ title: "Reaper Basic Guide "
 card_header_image: /img/jobs/rpr/rpr-basic.png
 authors:
   - ellunavi
-patch: "7.0"
-lastmod: 2024-07-02T21:52:30.358Z
+patch: "7.1"
+lastmod: 2024-11-16T21:51:49.786Z
 changelog:
   - date: 2022-01-02T21:17:24.172Z
     message: Created page
