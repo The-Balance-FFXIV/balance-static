@@ -2,8 +2,8 @@
 title: Reaper Openers
 authors:
   - Balance-RPR-Staff
-patch: "7.0"
-lastmod: 2024-07-04T23:32:26.914Z
+patch: "7.1"
+lastmod: 2024-11-16T21:52:39.390Z
 changelog:
   - date: 2022-01-29T01:54:23.902Z
     message: Updated Fast Shroud opener (Adjusted potion for better timing)
