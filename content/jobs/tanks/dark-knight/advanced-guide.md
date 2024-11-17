@@ -42,3 +42,71 @@ This can come up in practical situations if you're going into burst with an espe
 # Salted Earth, Buff Windows, and 90s Cooldowns
 
 Salted Earth is a weird in that it has a 90s cooldown, unlike most other damaging cooldowns in the game. Regardless, it's best to use Salted Earth off cooldown rather than save it for buffs, since more uses of the ability will always trump less uses in buff windows. This only changes when you know the killtime and you know you wouldn't lose a use to hold the ability for buffs. For example, if you're killing the boss after 8:30, then you wouldn't lose a use of Salted Earth if you held the one you'd use around 1:30 to the 2m burst window. This also shifts the 7:30 Salted Earth to the 8m window, allowing us to pot in the 2m and 8m burst window (instead of the 0m and 6m burst window) without losing abilities under pot.
+
+# How Does Living Shadow Work Exactly?
+
+Living Shadow is a very unique ability. Its abilities work uniquely, and each of them has unique strength scaling and an alternate weapon damage scaling. This section goes into detail to provide exactly how it works, and the formulae that differ between Living Shadow's abilities and Dark Knight's normal abilities.
+
+## Living Shadow's Abilities and 'Rotation'
+
+Living Shadow spawns Esteem, which, after a ~6.8 second spawn delay, will perform six abilities, with a ~2.18 second delay between each.
+
+The abilities Esteem uses do share animations with the player's abilities, but are not those abilities. Esteem's abilities do not share potencies with the equivalent ability for the player, and have their own own potencies. For example, if Bloodspiller gets a potency buff, then Living Shadow's Bloodspiller does not gain the same potency buff.
+
+At level 100, Living Shadow performs the following abilities, in sequence, totaling 2450 potency. It may start over if the target moves out of range, but six attacks is always the limit:
+
+- Abyssal Drain (AoE, 420 Potency)
+
+- Shadowstride (Single Target, No Damage)
+
+- Shadowbringer (AoE, 470 Potency)
+
+- Edge of Shadow (Single Target, 420 Potency)
+
+- Bloodspiller (Single Target, 420 Potency)
+
+- Disesteem (AoE, 620 Potency)
+
+## Living Shadow's Scaling
+
+You may notice that Living Shadow's abilities have higher damage than an ability with equivalent potency from the player. This is due to Living Shadow's having a variety of alternate scalings to the player. Living Shadow updates buffs and debuffs in real-time, meaning you can use Living Shadow before buffs and have them applied to its abilities if they're applied before it uses that ability. It isn't affected by Darkside, but is affected by every other buff (including potions).
+
+Living Shadow's base strength is calculated differently to the player. In particular:
+
+- Living Shadow's strength does not include the party strength bonus for having different roles in your party (with all roles, this is a usually a 5% boost for the player)
+
+- Living Shadow does not use your base stats (e.g. 23 base strength that races like The Lost have), and instead uses a base strength of 2. Effectively, this means strength is lowered by around 20, depending on your race (21 for max strength races like Xaela and The Lost)
+
+- Living Shadow's strength includes all strength bonuses from gear, as normal
+
+To be more specific, Living Shadow's base strength (before strength buffs like potions) is calculated by the following formula (where `baseStrength` is `440` at level 100):
+
+`baseStrength + strengthProvidedByGear + 2`
+
+Living Shadow's weapon damage multplier is calculated differently to the player. In particular:
+
+- While players would use a weapon damage multplier of `115`, Living Shadow uses a weapon damage multiplier of `100`
+
+- This is typical for all 'pet actions', and generally true for any damage that does not come 'from' the player
+
+This changes the formula from the following:
+
+`floor(baseStrength * 100 / 1000 + weaponDamage) / 100`
+
+To the following (where `baseStrength` is 440 at level 100):
+
+`floor(baseStrength * 115 / 1000 + weaponDamage) / 100`
+
+Living Shadow's main stat multiplier is calculated differently to the player. In particular:
+
+- The Tank Mastery trait means that tanks have a lower main stat power modifier than other jobs. The modifier varies by level, but at level 100, it is `190` for tanks, and `237` for all other roles (making tanks have ~80% lower main stat scaling than other roles). Living Shadow uses the 'other' scaling
+
+- This means Living Shadow gains more damage scaling (about 25% higher) from strength than normal abilities on Dark Knight
+
+At level 100 (where the main stat multiplier for tanks is `190`, and other jobs is `237`), this changes the main stat multiplier formula from the following (where `baseStrength` is `440` at level 100):
+
+`trunc(190 * (totalStrength - baseStrength) / baseStrength) + 100 / 100`
+
+To the following:
+
+`trunc(237 * (livingShadowStrength - baseStrength) / baseStrength) + 100 / 100`
