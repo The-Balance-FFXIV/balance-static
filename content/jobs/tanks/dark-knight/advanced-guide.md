@@ -69,7 +69,7 @@ At level 100, Living Shadow performs the following abilities, in sequence, total
 
 ## Living Shadow's Scaling
 
-You may notice that Living Shadow's abilities have higher damage than an ability with equivalent potency from the player. This is due to Living Shadow's having a variety of alternate scalings to the player. Living Shadow updates buffs and debuffs in real-time, meaning you can use Living Shadow before buffs and have them applied to its abilities if they're applied before it uses that ability. It isn't affected by Darkside, but is affected by every other buff (including potions).
+You may notice that Living Shadow's abilities have higher damage than an ability with equivalent potency from the player. This is due to Living Shadow having a variety of alternate scalings to the player, that, combined, result in higher damage overall. Living Shadow updates buffs and debuffs in real-time, meaning you can use Living Shadow before buffs and have them applied to its abilities if they're applied before it uses that ability. It isn't affected by Darkside, but is affected by every other buff (including potions).
 
 Living Shadow's base strength is calculated differently to the player. In particular:
 
