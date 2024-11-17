@@ -1,7 +1,7 @@
 ---
 title: Viper Stat Priority
-patch: "7.05"
-lastmod: 2024-07-30T13:12:43.775Z
+patch: "7.1"
+lastmod: 2024-11-16T21:49:38.576Z
 changelog:
   - date: 2024-06-25T23:52:23.313Z
     message: Added article.
