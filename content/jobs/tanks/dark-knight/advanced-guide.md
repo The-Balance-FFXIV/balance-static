@@ -39,15 +39,15 @@ It is also worth noting that Disesteem has a range of 10 yalms, meaning that if 
 
 # Application Delay, Resources, and How to Be a Time Criminal
 
-In FFXIV, abilities first consume their resources, and then apply their effects. The time between the cooldown starting and the ability's effects happening (both *applying* its damage and *applying* its other effects) is called the application delay of the ability. This primarily matters for us because of Blood Weapon's 600 MP gain on GCDs. The 600 MP is gained upon ability application, which means you can do something that would overcap MP, but spend it by using Edge of Shadow before the ability application. 
+In FFXIV, abilities first consume any resources that they cost, and then apply their effects. The time between the cooldown starting and the ability's effects happening (both *applying* its damage and *applying* its other effects) is called the *application delay* of the ability. This primarily matters for Dark Knight because of Blood Weapon's 600 MP gain on GCDs. This 600 MP is gained upon ability application, which means you can do something that would overcap MP, but spend it by using Edge of Shadow before the ability application. 
 
-For most abilities, the application delay is low enough that we cannot realistically weave an Edge of Shadow before the ability (and MP gain, which could be granted by Blood Weapon) applies. You cannot use Syphon Strike (which has the 'standard' application delay of 0.62s) and use an Edge of Shadow before you gain the 600 MP from the Syphon Strike. However, Disesteem is an exception. Disesteem, has a 1.65s application time, meaning it's both possible and very comfortable to perform 'time crimes' with it.
+For most abilities, the application delay is low enough that we cannot realistically weave an Edge of Shadow before the ability (and MP gain, which could be granted by Blood Weapon) applies. You cannot use Syphon Strike (which has the 'standard' application delay of 0.62s) and use an Edge of Shadow before you gain the 600 MP from the Syphon Strike. However, Disesteem is an exception. Disesteem has a 1.65s application time, meaning it is not only possible but very comfortable to perform these 'time crimes' with it.
 
 For example, if you have 9600 MP and Blood Weapon active, you can use Disesteem, immediately weave Edge of Shadow, and not overcap MP, as the Edge of Shadow will spend MP before Disesteem (and the Blood Weapon buff that modified it to give you +600 MP) applies. If you were to use Hard Slash in the same situation, you would overcap MP.
 
 Another ability where the application delay is worth knowing is Carve and Spit, which has an application delay of 1.47s, similarly allowing an Edge of Shadow weave before the MP gain applies.
 
-This can come up in practical situations if you're going into burst with an especially high amount of MP. In these situations, you want to save Disesteem for the GCD where you'd normally overcap. If you have, for example, 9000 MP and a Dark Arts proc, then with Blood Weapon and Delirium up, using Disesteem -> Edge of Shadow -> Scarlet Delirium -> Edge of Shadow would overcap MP, whereas Scarlet Delirium -> Edge of Shadow -> Disesteem -> Edge of Shadow would not.
+This can come up in practical situations if you are about to enter burst window with an especially high amount of MP. In these situations, you want to save Disesteem for the GCD where you would normally overcap. If you have, for example, 9000 MP and a Dark Arts proc, then with Blood Weapon and Delirium up, using Disesteem -> Edge of Shadow -> Scarlet Delirium -> Edge of Shadow would overcap MP, whereas Scarlet Delirium -> Edge of Shadow -> Disesteem -> Edge of Shadow would not.
 
 # Salted Earth and Buff Windows
 
