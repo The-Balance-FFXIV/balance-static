@@ -2,7 +2,7 @@
 title: Dark Knight Best in Slot (BiS)
 layout: bis
 patch: "7.05"
-lastmod: 2024-01-18T09:16:25.249Z
+lastmod: 2024-11-13T21:44:02.311Z
 changelog:
   - date: 2021-10-27T17:45:00.078Z
     message: Added
@@ -28,6 +28,8 @@ changelog:
   - date: 2024-09-26T18:48:59.953Z
     message: Added updated links to 7.05 ultimate gearset sheets, cleared out some
       old gearsets
+  - date: 2024-11-13T21:44:02.311Z
+    message: Fixed an issue with the UCOB/UWU set embeds.
 bis:
   - type: xivgearset
     name: 7.05 Bis (2.50)
@@ -52,10 +54,10 @@ bis:
   - type: genericlink
     name: 7.05 TEA Gearsets
     link: https://xivgear.app/?page=sl%7C7c773e56-4502-441e-94a2-44694b0247f3
-  - type: xivgearset
+  - type: genericlink
     link: https://xivgear.app/?page=sl%7C564af225-501e-4c84-af90-b977582ede13
     name: 7.05 UWU Gearsets
-  - type: xivgearset
+  - type: genericlink
     link: https://xivgear.app/?page=sl%7Cba33c886-e9d5-4ad1-be0c-12c3436ddcb9
     name: 7.05 UCoB Gearsets
   - type: genericlink

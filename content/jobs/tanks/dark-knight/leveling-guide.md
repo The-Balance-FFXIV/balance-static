@@ -4,8 +4,9 @@ card_header_image: /img/jobs/drk/leveling.png
 authors:
   - apileofcats
   - silaqui-amakiir
-patch: "7.0"
-lastmod: 2024-07-28T10:30:01.921Z
+  - violet-stardust
+patch: "7.1"
+lastmod: 2024-11-13T21:44:02.311Z
 changelog:
   - date: 2021-10-27T17:23:27.257Z
     message: Added
@@ -21,6 +22,8 @@ changelog:
     message: Updated for 6.3
   - date: 2024-07-28T10:30:01.921Z
     message: Updated for 7.0
+  - date: 2024-11-13T21:44:02.311Z
+    message: Updates for 7.1
 ---
 # Introduction
 
@@ -114,14 +117,14 @@ New action: Abyssal Drain. This is an AoE action that does a moderate amount of 
 
 ### Level 60
 
-New action: Carve and Spit. This shares a cooldown with Abyssal Drain and deals high potency to a single target while also generating a small amount of mana. Abyssal Drain needs to hit three targets to beat the potency of Carve and Spit, but your primary concern when deciding between the two is whether you need the healing from Abyssal Drain or not.
+New action: Carve and Spit. This shares a cooldown with Abyssal Drain and deals high potency to a single target while also generating a small amount of mana and providing a small heal. Abyssal Drain needs to hit three targets to beat the potency of Carve and Spit.
 
 * Souleater combo on one target.
 * Stalwart Soul combo on two or more targets.
 * Edge of Darkness on one or two targets.
 * Flood of Darkness on three or more targets.
 * Carve and Spit on one or two targets.
-* Abyssal Drain on three or more targets or when healing is needed.
+* Abyssal Drain on three or more targets.
 
 ## Levels 61-70
 
@@ -134,7 +137,7 @@ New action: Bloodspiller. While you unlocked your AoE mana spender before the si
 * Edge of Darkness on one or two targets.
 * Flood of Darkness on three or more targets.
 * Carve and Spit on one or two targets.
-* Abyssal Drain on three or more targets or when healing is needed.
+* Abyssal Drain on three or more targets.
 * Bloodspiller on one or two targets.
 
 #### Level 64
@@ -146,7 +149,7 @@ New action: Quietus. The AoE version of Bloodspiller. Like Flood, Quietus takes 
 * Edge of Darkness on one or two targets.
 * Flood of Darkness on three or more targets.
 * Carve and Spit on one or two targets.
-* Abyssal Drain on three or more targets or when healing is needed.
+* Abyssal Drain on three or more targets.
 * Bloodspiller on one or two targets.
 * Quietus on three or more targets.
 
@@ -159,7 +162,7 @@ New action: Delirium. This nullifies the blood cost of the next three uses of Bl
 * Edge of Darkness on one or two targets.
 * Flood of Darkness on three or more targets.
 * Carve and Spit on one or two targets.
-* Abyssal Drain on three or more targets or when healing is needed.
+* Abyssal Drain on three or more targets.
 * Bloodspiller on one or two targets.
 * Quietus on three or more targets.
 
@@ -172,7 +175,7 @@ New action: The Blackest Night ("TBN"). While Dark Knight can feel a bit squishy
 * Edge of Darkness on one or two targets.
 * Flood of Darkness on three or more targets.
 * Carve and Spit on one or two targets.
-* Abyssal Drain on three or more targets or when healing is needed.
+* Abyssal Drain on three or more targets.
 * Bloodspiller on one or two targets.
 * Quietus on three or more targets.
 
@@ -187,7 +190,7 @@ New action: Living Shadow. Living Shadow summons a clone which, after a delay, w
 * Edge of Darkness on one or two targets.
 * Flood of Darkness on three or more targets.
 * Carve and Spit on one or two targets.
-* Abyssal Drain on three or more targets or when healing is needed.
+* Abyssal Drain on three or more targets.
 * Living Shadow when available.
 * Bloodspiller on one or two targets.
 * Quietus on three or more targets.
@@ -208,7 +211,7 @@ At level 94, the trait Melee Mastery II increases the potency of the Souleater c
 * Edge of Darkness on one or two targets.
 * Flood of Darkness on three or more targets.
 * Carve and Spit on one or two targets.
-* Abyssal Drain on three or more targets or when healing is needed.
+* Abyssal Drain on three or more targets.
 * Living Shadow when available.
 * Bloodspiller on one or two targets.
 * Quietus on three or more targets.
