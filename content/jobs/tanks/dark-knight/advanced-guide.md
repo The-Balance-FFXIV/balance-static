@@ -13,21 +13,29 @@ changelog:
 
 # Introduction
 
-This guide focuses on advanced level 100 Dark Knight gameplay, and assumes that you are comfortable with the entirety of the Dark Knight kit as well as its opener and rotation. If you're still leveling, you should start with [the leveling guide](/jobs/tanks/dark-knight/leveling-guide), and if you're still learning, you should start with the [the basic guide](/jobs/tanks/dark-knight/basic-guide), and build familiarity with the kit first.
+This guide focuses on advanced level 100 Dark Knight gameplay, and assumes that you are comfortable with the entirety of the Dark Knight kit as well as its opener and rotation. If you are still leveling, you should start with the [leveling guide](/jobs/tanks/dark-knight/leveling-guide), and if you're still learning, you should start with the the [basic guide](/jobs/tanks/dark-knight/basic-guide), and build familiarity with Dark Knight's kit first.
 
-Trying to apply these techniques before you're fully comfortable with the rotation and job could make your gameplay worse, not better.
+Trying to apply these techniques before you are fully comfortable with the rotation and job could make your gameplay worse rather than better.
 
 # Unmend and GCD Downtime
 
-Unmend is a pretty bad ability. It has a mere 150 potency, and to rub salt in the wound, it's a Spell, so if we have Skill Speed, it doesn't even apply to Unmend. Though, it's still better to use a bad GCD than to spend time you could be using a GCD doing nothing during forced melee downtime.
+Some of the best advice you can receive while learning is to Always Be Casting, i.e. making sure your GCD is rolling at all times. However, if you are forced out of melee range of the enemy (we may also say that you _have melee downtime_ or _have GCD downtime_), your options for this are limited.
+Unmend is a pretty bad ability. It has only 150 potency, and, since it is a Spell, it does not benefit from any Skill Speed you may have.
+However, it is often your only option for a GCD that can be used outside of melee range, and especially when getting used to a fight, it is better to use Unmend than to do nothing at all.
 
-Some of the best advice you can receive as you're learning is to Always Be Casting, i.e. making sure your GCD is rolling at all times. This remains great advice and especially if you're still getting used to a fight, is still worth doing with Unmend rather than doing nothing. 
+In more advanced settings, we can be more nuanced --- for small amounts of GCD downtime, it may not always be correct to keep the GCD rolling with Unmend.
+DRK's Souleater combo has an average potency per GCD of 387, even before counting the resource gain from Syphon Strike and Souleater.
+If we have a downtime of `x` seconds (where `x` is smaller than 2.50 --- at 2.50 seconds or longer of downtime, Unmend can be freely used without delaying your next melee GCD), using Unmend gives 150 potency, but delays the next GCD by `(2.50 - x)` seconds, relative to if it had not been used.
+On average, this means that using Unmend costs `(2.50 - x)/([GCD speed])` of an average filler GCD, or `378 * (2.50 - x)/([GCD speed])`.
+The average potency gain/loss from using Unmend when there are `x` seconds remaining of downtime can then be written as `150 - (378 * (2.50 - x)/([GCD speed]))`.
+When this quantity is positive, you gain damage from using Unmend, and when it is negative, you lose damage from using Unmend.
 
-But this is the advanced guide, so we can be a lot more nuanced than Always Be Casting. For us, it's not always correct to keep the GCD rolling with Unmend for small amounts of GCD downtime. Our 123 combo has an average potency of 387, and that's not even counting the resource gain from Syphon Strike and Souleater. In comparison, Unmend's 150 potency is 38% of our average 123 GCD potency of 387. As a result, if you're only going to lose about second of your GCD rolling, it's usually better to not press Unmend and wait until you can use your 123 at the soonest opportunity instead.
+Setting this equal to zero and solving for `x` in terms of GCD speed, we see that the break-even point for using Unmend is when downtime is `2.50 - (150/378 * ([GCD speed]))` seconds long.
+At a 2.50 GCD, this value is just over 1.5, and so using Unmend is a gain (on average) for downtime longer than 1.5 seconds, and a loss for downtime shorter than 1.5 seconds.
 
-We can make this into a rule of thumb based on the 38% number. 38% of 2.5 seconds is 0.95 seconds, so if you're kept away from the boss for only ~1.5 seconds or less, it may be better to not use Unmend, and wait until you get back to the boss to continue your 123 combo instead. If we know how long we'll be away from the boss, then there's no need to guess, and we can know which the correct option is. Of course, if we're away from the boss for more than 1.5 seconds, and especially if we're away from the boss for 2.5 seconds or more, it's still correct to press Unmend rather than do no damage.
+Of course, if you know exactly what GCD (if any) will be lost by using Unmend during a short downtime, there is no need to work with averages, and you can calculate for each individual case whether Unmend is a gain or not, but in general, using Unmend only when forced into downtime for more than 1.5 seconds at a time is a safe rule of thumb.
 
-It's worth noting that Disesteem has a range of 10 yalms, meaning that if you have Disesteem available, then you should strive to use it over both Unmend and using nothing in a situation where you need to disengage from the boss.
+It is also worth noting that Disesteem has a range of 10 yalms, meaning that if Disesteem is available, then you should use it over Unmend to deal with melee downtime.
 
 # Application Delay, Resources, and How to Be a Time Criminal
 
