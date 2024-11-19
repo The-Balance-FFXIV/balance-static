@@ -75,7 +75,9 @@ Salt and Darkness, Salted Earth's follow-up ability, snapshots buffs independent
 
 # How Does Living Shadow Work Exactly?
 
-Living Shadow is a very unique ability. Its abilities work uniquely, and each of them has unique strength scaling and an alternate weapon damage scaling. This section goes into detail to provide exactly how it works, and the formulae that differ between Living Shadow's abilities and Dark Knight's normal abilities.
+Living Shadow is a very unique ability.
+Esteem abilities work uniquely, and each of them has unique strength scaling and an alternate weapon damage scaling.
+This section provides details on exactly how it works, and the formulae that differ between Living Shadow's abilities and Dark Knight's normal abilities.
 
 ## Living Shadow's Abilities and 'Rotation'
 
