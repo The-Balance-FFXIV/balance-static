@@ -51,7 +51,20 @@ This can come up in practical situations if you are about to enter burst window 
 
 # Salted Earth and Buff Windows
 
-Salted Earth is a weird in that it has a 90s cooldown, unlike most other damaging cooldowns in the game. Regardless, it's best to use Salted Earth off cooldown rather than save it for buffs, since more uses of the ability will always trump less uses in buff windows. This only changes when you know the killtime and you know you wouldn't lose a use to hold the ability for buffs. For example, if you're killing the boss after 8:30, then you wouldn't lose a use of Salted Earth if you held the one you'd use around 1:30 to the 2m burst window. This also shifts the 7:30 Salted Earth to the 8m window, allowing us to pot in the 2m and 8m burst window (instead of the 0m and 6m burst window) without losing abilities under pot.
+Salted Earth is unusual in that it has a 90 second cooldown, unlike most other damaging cooldowns in the game, and so it does not always line up with buff windows, which generally happen every 120 seconds.
+Regardless, it is usually best to use Salted Earth off cooldown rather than to save it for buffs, since more uses of the ability will almost always be better than fewer uses in buff windows.
+
+For a simple example, in a fight that lasts 6:30, using Salted Earth on cooldown gives 5 full usages at (approximately) 0:00, 1:30, 3:00, 4:30, and 6:00.
+Delaying Salted Earth to fit in buffs gives 4 usages, at 0:00, 2:00, 4:00, and 6:00.
+The usages at 0:00 and 6:00 are the same in both cases, and so can be ignored for a comparison.
+With the delay, you trade three unbuffed usages (1:30, 3:00, 4:30) of Salted Earth for two buffed usages (2:00, 4:00).
+As such, for this delay to be a gain, a buffed usage needs to be at least 1.5 times as strong as an unbuffed usage, which essentially never happens with a normal group composition.
+If your group has particularly many buffs, you may find it worthwhile to double check if the buffs reach a 1.5 multiplier.
+
+If you know your killtime (when the boss will die) or a phase timing (when the boss will disappear for a long time, essentially resetting your cooldowns), you may be able to delay Salted Earth to gain more buffed usages without losing overall usages, for an overall damage gain.
+For example, with an 8:30 killtime, delaying your 7:30 Salted Earth to 8:00 exchanges the unbuffed 7:30 usage for a buffed 8:00 usage.
+Alternately, delaying the 1:30 Salted Earth (and all subsequent ones) by 30 seconds moves the 1:30 and 7:30 usages into buffs at 2:00 and 8:00, respectively, in exchange for moving the 6:00 usage (in buffs) to 6:30 (out of buffs).
+Both of these shifts have the same effect on the number of Salted Earth in buff windows, but the second option lets you have Salted Earth in 2:00 and 8:00 potions, rather than the standard 0:00 and 6:00 potion timing.
 
 ## Salted Earth Buff Snapshotting
 
