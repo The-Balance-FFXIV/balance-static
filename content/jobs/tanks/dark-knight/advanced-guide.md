@@ -121,7 +121,7 @@ Living Shadow's weapon damage multplier is calculated differently to the player.
 
 - This is typical for all 'pet actions', and generally true for any damage that does not come 'from' the player
 
-This changes the formula from the following:
+This changes the weapon damage multiplier formula from the following:
 
 `floor(baseStrength * 100 / 1000 + weaponDamage) / 100`
 
