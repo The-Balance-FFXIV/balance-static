@@ -83,9 +83,9 @@ This section provides details on exactly how it works, and the formulae that dif
 
 Living Shadow spawns Esteem, which, after a ~6.8 second spawn delay, will perform six abilities, with a ~2.18 second delay between each.
 
-The abilities Esteem uses do share animations with the player's abilities, but are not those abilities. Esteem's abilities do not share potencies with the equivalent ability for the player, and have their own own potencies. For example, if Bloodspiller gets a potency buff, then Living Shadow's Bloodspiller does not gain the same potency buff.
+The abilities Esteem uses share animations and areas of effect with the player's abilities, but are not the same as those abilities. Esteem's abilities do not share potencies with the equivalent ability for the player, and have their own own potencies. For example, if Bloodspiller gets a potency buff, then Living Shadow's Bloodspiller does not gain the same potency buff.
 
-At level 100, Living Shadow performs the following abilities, in sequence, totaling 2450 potency. It may start over if the target moves out of range, but six attacks is always the limit:
+At level 100, Living Shadow performs the following abilities, in sequence, totaling 2450 potency. It may start over if the target moves out of range, but always stops after executing six abilities:
 
 - Abyssal Drain (AoE, 420 Potency)
 
