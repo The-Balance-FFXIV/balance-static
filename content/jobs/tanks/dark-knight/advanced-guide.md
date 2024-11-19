@@ -68,9 +68,10 @@ Both of these shifts have the same effect on the number of Salted Earth in buff 
 
 ## Salted Earth Buff Snapshotting
 
-Salted Earth snapshots all buffs on the player when cast, but checks damage modifying debuffs (Chain Stratagem, etc) on targets every tick. Because it is a ground effect ability, Salted Earth also gains a free tick on all targets in range immediately when cast, giving it 300 total potential potency (which is slightly increased by the skill speed DoT scalar).
+Salted Earth snapshots all buffs on the player when cast, but checks damage modifying debuffs (e.g., Chain Stratagem, Dokumori, etc.) on targets every time it ticks for damage.
+Because it is a ground effect ability, Salted Earth also gains a free tick on all targets in range immediately when cast, giving it 300 total potential potency (which is slightly increased by the skill speed DoT scalar).
 
-Salt and Darkness, Salted Earth's follow-up ability, snapshots buffs independently of Salted Earth, and snapshots both buffs on the player and damage modifying debuffs when used, separately to Salted Earth.
+Salt and Darkness, Salted Earth's follow-up ability, snapshots buffs independently of Salted Earth, and snapshots both buffs on the player and damage modifying debuffs when it is used, separately from Salted Earth.
 
 # How Does Living Shadow Work Exactly?
 
