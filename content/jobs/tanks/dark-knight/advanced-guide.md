@@ -52,14 +52,13 @@ This can come up in practical situations if you are about to enter burst window 
 # Salted Earth and Buff Windows
 
 Salted Earth is unusual in that it has a 90 second cooldown, unlike most other damaging cooldowns in the game, and so it does not always line up with buff windows, which generally happen every 120 seconds.
-Regardless, it is usually best to use Salted Earth off cooldown rather than to save it for buffs, since more uses of the ability will almost always be better than fewer uses in buff windows.
+Regardless, it is usually best to use Salted Earth off cooldown rather than to save it for buffs, since more uses of any ability will almost always be better than fewer uses in buff windows.
 
 For a simple example, in a fight that lasts 6:30, using Salted Earth on cooldown gives 5 full usages at (approximately) 0:00, 1:30, 3:00, 4:30, and 6:00.
 Delaying Salted Earth to fit in buffs gives 4 usages, at 0:00, 2:00, 4:00, and 6:00.
 The usages at 0:00 and 6:00 are the same in both cases, and so can be ignored for a comparison.
 With the delay, you trade three unbuffed usages (1:30, 3:00, 4:30) of Salted Earth for two buffed usages (2:00, 4:00).
-As such, for this delay to be a gain, a buffed usage needs to be at least 1.5 times as strong as an unbuffed usage, which essentially never happens with a normal group composition.
-If your group has particularly many buffs, you may find it worthwhile to double check if the buffs reach a 1.5 multiplier.
+As such, for this delay to be a gain, a buffed usage needs to be at least 1.5 times as strong as an unbuffed usage, which is not possible with a normal group composition, though could occur due to a special boss debuff or similar.
 
 If you know your killtime (when the boss will die) or a phase timing (when the boss will disappear for a long time, essentially resetting your cooldowns), you may be able to delay Salted Earth to gain more buffed usages without losing overall usages, for an overall damage gain.
 For example, with an 8:30 killtime, delaying your 7:30 Salted Earth to 8:00 exchanges the unbuffed 7:30 usage for a buffed 8:00 usage.
@@ -83,7 +82,7 @@ This section provides details on exactly how it works, and the formulae that dif
 
 Living Shadow spawns Esteem, which, after a ~6.8 second spawn delay, will perform six abilities, with a ~2.18 second delay between each.
 
-The abilities Esteem uses share animations and areas of effect with the player's abilities, but are not the same as those abilities. Esteem's abilities do not share potencies with the equivalent ability for the player, and have their own own potencies. For example, if Bloodspiller gets a potency buff, then Living Shadow's Bloodspiller does not gain the same potency buff.
+The abilities Esteem uses share animations, damage types, and areas of effect with the player's abilities, but have their own potencies independent of the skills they mimic. For example, if Bloodspiller gets a potency buff, then Living Shadow's Bloodspiller does not gain the same potency buff.
 
 At level 100, Living Shadow performs the following abilities, in sequence, totaling 2450 potency. It may start over if the target moves out of range, but always stops after executing six abilities:
 
@@ -101,7 +100,7 @@ At level 100, Living Shadow performs the following abilities, in sequence, total
 
 ## Living Shadow's Scaling
 
-You may notice that Living Shadow's abilities have higher damage than an ability with equivalent potency from the player. This is due to Living Shadow having a variety of alternate scalings to the player, that, combined, result in higher damage overall. Living Shadow updates buffs and debuffs in real-time, meaning you can use Living Shadow before buffs and have them applied to its abilities if they are applied before it uses that ability. It is not affected by Darkside, but is affected by every other buff (including potions).
+You may notice that Living Shadow's abilities have higher damage than an ability with equivalent potency from the player. This is due to Living Shadow having a variety of alternate scalings to the player, that, combined, result in higher damage overall. Living Shadow updates buffs and debuffs in real-time, meaning you can use Living Shadow before buffs and have them applied to its abilities if they are applied before it uses that ability. It is not affected by Darkside, but is affected by every other buff (including potions). Unlike some abilities with alternate scalings, its listed potencies are accurate, and using the formulae listed below with the listed potencies, you get accurate damage numbers.
 
 Living Shadow's base strength is calculated differently to the player. In particular:
 
@@ -131,7 +130,7 @@ To the following (where `baseStrength` is 440 at level 100):
 
 Living Shadow's main stat multiplier is calculated differently to the player. In particular:
 
-- The Tank Mastery trait means that tanks have a lower main stat power modifier than other jobs. The modifier varies by level, but at level 100, it is `190` for tanks, and `237` for all other roles (making tanks have ~80% lower main stat scaling than other roles). Living Shadow uses the 'other' scaling
+- The Tank Mastery trait means that tanks have a lower main stat power modifier than other jobs. The modifier varies by level, but at level 100, it is `190` for tanks, and `237` for all other roles (meaning tanks have ~20% lower main stat scaling than other roles). Living Shadow uses the 'other' scaling
 
 - This means Living Shadow gains more damage scaling (about 25% higher) from strength than normal abilities on Dark Knight
 
