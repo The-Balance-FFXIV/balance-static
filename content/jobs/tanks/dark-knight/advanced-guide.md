@@ -102,6 +102,10 @@ At level 100, Living Shadow performs the following abilities, in sequence, total
 
 You may notice that Living Shadow's abilities have higher damage than an ability with equivalent potency from the player. This is due to Living Shadow having a variety of alternate scalings to the player, that, combined, result in higher damage overall. Living Shadow updates buffs and debuffs in real-time, meaning you can use Living Shadow before buffs and have them applied to its abilities if they are applied before it uses that ability. It is not affected by Darkside, but is affected by every other buff (including potions). Unlike some abilities with alternate scalings, its listed potencies are accurate, and using the formulae listed below with the listed potencies, you get accurate damage numbers.
 
+To use an example, in 7.0 2.50 BiS, a 620 potency attack (e.g. Scarlet Delirium) from the player with Darkside active would do on average ~37069 damage before crit, whereas a 620 potency attack from Living Shadow (e.g. Living Shadow's Disesteem) would do on average ~38958 damage before crit (about 5% more). Due to the multitude of formulae involved, there is no simple rule for how different they will be at a given gear level, but in general, the higher your strength, the more damage Living Shadow's abilities will do compared to an equivalent potency ability on the player.
+
+### Living Shadow's Scaling: The Specifics
+
 Living Shadow's base strength is calculated differently to the player. In particular:
 
 - Living Shadow's strength does not include the party strength bonus for having different roles in your party (with all roles, this is a usually a 5% boost for the player)
