@@ -67,13 +67,13 @@ Goals for DRK openers include:
 > Torcleaver + Shadowbringer + Edge of Shadow, <br/>
 > Bloodspiller + Salt and Darkness
 
-The potion used is whatever the current tier’s Strength potion is (as of the time of writing, it is the Grade 1 Gemdraught of Strength HQ).
+The potion used is whatever the current tier’s Strength potion is (as of the time of writing, it is the Grade 2 Gemdraught of Strength HQ).
 
 #### Opener notes
 * Unmend is used to delay the opener slightly to account for raid buff application time. Use it whether or not you are pulling.
 * Early use of Disesteem (before the Torcleaver combo) avoids some minor MP overcap.
 * At faster speeds (2.47 and faster), weaving the potion late can get an extra Syphon Strike in its window.
-At slower speeds or higher pings, this may cause clipping or be entirely impossible, and the potion can be used at any point after Unmend (or the equiavalent GCD for later burst windows).
+At slower speeds or higher pings, this may cause clipping or be entirely impossible, and the potion can be used at any point after Unmend (or the equivalent GCD for later burst windows).
 
 #### Optional Modifications
 * If the prepull TBN will not break, it can be left out for a small MP loss. This does not change the rest of the opener substantially, although the last Edge of Shadow may get pushed one GCD further back.
@@ -318,7 +318,7 @@ The standard rotation allows four Edges of Shadow to be used in each raid buff w
 
 | Job | Icon                                                                                                                                                                                   | Name             | Effect                                            | Cooldown |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------- | -------- |
-| NIN | ![icon](https://beta.xivapi.com/api/1/asset/ui/icon/012000/012920_hr1.tex?format=png)                                                                                                                                    | Dokumori              | Target takes 5% more damage <br>20s duration      | 120s     |
+| NIN | ![icon](https://xivapi.com/i/012000/012920_hr1.png)                                                                                                                                    | Dokumori              | Target takes 5% more damage <br>20s duration      | 120s     |
 | DRG | ![icon](https://xivapi.com/i/012000/012578_hr1.png)                                                                                                                                    | Battle Litany    | Critical rate increased by 10% <br>20s duration   | 120s     |
 | MNK | ![icon](https://xivapi.com/i/012000/012532_hr1.png)                                                                                                                                    | Brotherhood      | 5% damage increase <br>20s duration               | 120s     |
 | RPR | ![icon](https://xivapi.com/i/012000/012936_hr1.png)                                                                                                                                    | Arcane Circle    | 3% damage increase <br>20s duration               | 120s     |
@@ -326,8 +326,8 @@ The standard rotation allows four Edges of Shadow to be used in each raid buff w
 | BRD | ![icon](https://xivapi.com/i/012000/012601_hr1.png)                                                                                                                                    | Battle Voice     | Direct hit rate increased by 20% <br>20s duration | 120s     |
 | BRD | ![icon](https://xivapi.com/i/012000/012601_hr1.png)                                                                                                                                    | Radiant Finale     | 6% damage increase (2% in opener) <br>20s duration | 120s     |
 | SMN | ![icon](https://xivapi.com/i/012000/012692_hr1.png)                                                                                                                                    | Searing Light    | 3% damage increase <br>20s duration               | 120s     |
-| RDM | ![icon](https://beta.xivapi.com/api/1/asset/ui/icon/013000/013410_hr1.tex?format=png) | Embolden         | 5% damage increase <br> 20s duration              | 120s     |
-| PCT | ![icon](https://beta.xivapi.com/api/1/asset/ui/icon/013000/013808_hr1.tex?format=png) | Starry Muse         | 5% damage increase <br> 20s duration              | 120s     |
+| RDM | ![icon](https://xivapi.com/i/013000/013410_hr1.png) | Embolden         | 5% damage increase <br> 20s duration              | 120s     |
+| PCT | ![icon](https://xivapi.com/i/013000/013808_hr1.png) | Starry Muse         | 5% damage increase <br> 20s duration              | 120s     |
 | SCH | ![icon](https://xivapi.com/i/012000/012809_hr1.png)                                                                                                                                    | Chain Stratagem  | +10% critical rate on target <br>20s duration     | 120s     |
 | AST | ![icon](https://xivapi.com/i/013000/013245_hr1.png)                                                                                                                                    | Divination       | 6% damage increase <br>20s duration               | 120s     |
 | AST | Various                                                                                                                                                                                | Cards            | Target gets 6% damage increase <br>15s duration  | 60s      |
