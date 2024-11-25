@@ -4,7 +4,7 @@ authors:
   - Balance-MCH-Staff
   - dook
   - hint
-patch: "7.01"
+patch: "7.1"
 lastmod: 2024-07-28T03:28:14.639Z
 changelog:
   - date: 2021-10-25T22:02:55.843Z
