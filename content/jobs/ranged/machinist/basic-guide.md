@@ -232,12 +232,12 @@ The basic AoE priority is as follows:
 ### Hypercharge GCD
 
 * **Blazing Shot** on 1-3
-* **Auto Crossbow** on 4+
+* **Auto Crossbow** on 5+
 * Note that **Blazing Shot** and **Auto Crossbow** are potency neutral on 4 targets if all targets are tightly stacked for the oGCDs from **Blazing Shot** to cleave.
 
 ### Flamethrower
 
-* **Assuming gauge is usable**, beats filler on 4+
+* **Assuming gauge is usable**, beats filler on 3+
 * **If gauge is not usable**, beats filler on 2+
 * Beats **Air Anchor** (incl. battery) on 6+
 * Never beats **Hypercharge**, **Chain Saw/Excavator**, **Drill/Bio**
