@@ -3,7 +3,7 @@ title: Machinist Basic Guide
 card_header_image: /img/jobs/mch/basic.png
 authors:
   - Balance-MCH-Staff
-patch: "7.0"
+patch: "7.1"
 lastmod: 2024-07-02T21:52:02.178Z
 changelog:
   - date: 2021-10-25T21:57:19.219Z
