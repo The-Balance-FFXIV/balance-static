@@ -187,4 +187,4 @@ When a Triple Even Blitz is possible, very often a Double Odd Blitz is possible 
 
 
 ### Further Topics
-Further Topics are still being discussed and added over time to this page, please check the Monk channels in the Balance Discord Server for (earlier) updates.
+Many more Topics are still being discussed and added over time to this page as they are being tested and verified, please check the Monk channels in the Balance Discord Server for (earlier) updates.
