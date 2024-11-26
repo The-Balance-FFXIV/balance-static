@@ -153,18 +153,19 @@ Perfect Balance has a duration of 20 seconds, and the Masterful Blitz we are gra
 &nbsp;
 
 ### Non-Standard RoF
+
 The standard Riddle of Fire is always used on cooldown as much as possible, this helps keep buffs aligned, and leads to the usual alternating of 2 Blitz and 1 Blitz in RoF. In a full uptime fight, this also maximizes the amount of uses and uptime of Riddle of Fire. The following section attempts to explain some of the non-standard Riddle of Fire uses.
 
-
 #### RoF Holds
+
 Encounters come in various flavors and kill times. There are two very common reasons to hold Riddle of Fire: delaying the use because of downtime, and delaying the use in uptime to enable a more optimal Riddle of Fire. 
 
 Often a fight might force downtime of various lengths, usually with the boss not being targetable. If Riddle of Fire becomes available during this downtime, delaying RoF until the boss is targetable again should be considered. This often comes at the price of needing our party to realign party buffs with us and other jobs that have a similar 1 minute cooldown. The caveat is that this delay is not always lossless, it can lose us Riddle of Fire uptime, or worse, buff uptime somewhere else, usually at the end of the fight. Discuss and consider the fight length carefully. If the delay is lossless in terms of RoF uptime, then this can enable incredibly strong windows, see following sections.
 
 Similarly, if the fight length grants it, we can hold Riddle of Fire and even buffs to capture more potency without losing uptime of either. The most common case of this type of RoF hold is delaying the very last Odd minute Riddle of Fire to not only capture more potency, but even allow us to Double Odd Blitz.
 
-
 ### Double Odd Blitzing
+
 Let us consider a fairly common kill time between 7:30 and 8:00, a very common Nadi path would look like the following.
 
 > LL S (L)L S (L)L S (L)L S (L)
@@ -181,14 +182,12 @@ Double Odd Blitzing can additionally also occur if there is appropriately placed
 
 Situations enabling very beneficial Double Odd Blitz windows are very common in Ultimates.
 
-
 #### Triple Even Blitzing
+
 While Double Odd Blitz is possible, with appropriately placed downtime, it is also possible to Triple Even Blitz. Triple Even Blitz is enabled by the use of a Downtime Blitz, the Perfect Balance for this needs to be used around 26-30 seconds before downtime ends. If we run in this situation, we prefer to set up our Nadi path to prepare a Rising Phoenix in downtime to lose less Opo-opo GCDs in uptime. Compared to Endwalker, due to the loss of our DoT and Disciplined Fist, our triple blitzing has become very easy and flexible, with the only loss being the absence of almost any Formless Fist use in the window, depending on the availability of Wind’s Reply.
 
+![](/img/jobs/mnk/triple-blitz-example.png)
 
-
-
-
-
+&nbsp;
 
 When a Triple Even Blitz is possible, very often a Double Odd Blitz is possible right before instead. If given the choice, generally the Double Odd Blitz option will win against the Triple Even Blitz, as it is the option that loses less Formless Fists.
