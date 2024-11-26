@@ -1,7 +1,7 @@
 ---
 title: Paladin FAQ
 layout: qna
-patch: "7.05"
+patch: "7.11"
 lastmod: 2024-07-10T05:01:41.293Z
 changelog:
   - date: 2021-10-27T17:20:21.199Z
@@ -15,8 +15,8 @@ changelog:
   - date: 2023-05-25T01:14:04.904Z
     message: Updated for 6.4
 qna:
-  - question: Should I delay Fight or Flight or use hardcast Holy Spirit to get
-      Sepulchre and Divine Might Holy Spirit into every Fight or Flight window?
+  - question: Should I delay Fight or Flight or use hardcast Holy Spirit to force
+      the same Fight or Flight window each time?
     answer: No. The "strong" Fight or Flight window of Supplication, Sepulchre, Holy
       Spirit (1540p) compared to the "weak" Fight or Flight window of Royal
       Authority, Holy Spirit, Atonement (1420p) is only an extra 30 potency
@@ -83,6 +83,7 @@ qna:
     answer: Spell Speed affects even less of the rotation than Skill Speed does—avoid.
 authors:
   - nikroulah
+  - silaqui-amakiir
 ---
 > *Why is Circle of Scorn used immediately in the opener?*   
 
