@@ -3,18 +3,11 @@ title: Monk Advanced Guide
 card_header_image: /img/jobs/mnk/advanced.png
 authors:
   - nyanpyon
-patch: "6.3"
-lastmod: 2023-03-06T14:29:47.038Z
+patch: "7.1"
+lastmod: 2024-11-26T03:36:54.692Z
 changelog:
-  - date: 2021-11-15T21:07:56.881Z
-    message: Added page
-  - date: 2022-04-23T16:13:41.661Z
-    message: Moved everything from the Basic guide that needs to be here.
-  - date: 2023-03-06T14:29:48.655Z
-    message: Added Macromania.
-  - date: 2023-06-11T15:12:35.402Z
-    message: Updated Macromania section. Added The Nuclear Option and adjusted
-      Mouseover Macroed GCDs section.
+  - date: 2024-11-26T03:37:01.717Z
+    message: Added first part of advanced guide
 ---
 # Advanced Monk - Out of the Ballpit
 
@@ -191,3 +184,7 @@ While Double Odd Blitz is possible, with appropriately placed downtime, it is al
 &nbsp;
 
 When a Triple Even Blitz is possible, very often a Double Odd Blitz is possible right before instead. If given the choice, generally the Double Odd Blitz option will win against the Triple Even Blitz, as it is the option that loses less Formless Fists.
+
+
+### Further Topics
+Further Topics are still being discussed and added over time to this page, please check the Monk channels in the Balance Discord Server for (earlier) updates.
