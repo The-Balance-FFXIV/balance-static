@@ -12,6 +12,8 @@ changelog:
     message: updated once again for DT
   - date: 2024-08-22T06:34:47.580Z
     message: Updated formatting
+  - date: 2024-11-18T18:23:55.634Z
+    message: aug crafted general recommendation updated
 bis:
   - type: null
     name: Information
@@ -43,7 +45,7 @@ bis:
 
 
       We recommend the 2.5/2.49 set for general use
-    link: https://xivgear.app/?page=sl%7C41dc2ef5-7a9a-4190-83b7-7eb884f3958a&
+    link: https://xivgear.app/?page=sl%7Cebab5aec-e715-41ab-91c0-a497a4ce3b7c
   - type: gsheets
     name: FRU / Max ilvl Sets
     link: https://xivgear.app/?page=sl%7Ccba60553-7850-4587-9db1-d402aec8187e&
