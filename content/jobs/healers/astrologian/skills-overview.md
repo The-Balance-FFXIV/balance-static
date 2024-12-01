@@ -37,7 +37,7 @@ changelog:
 
 * AoE damage in a 5y radius around your target  (130 potency), 1.5s cast time. 
 * In dungeons, apply Combust while running and spam gravity when the tank stops. 
-* Gravity is a gain on two targets over Fall Malefic. 
+* Gravity II is a gain on three targets over Fall Malefic. 
 * Can weave one oGCD after this. 
 
 ![](/img/jobs/ast/003554_hr1.png)
@@ -184,6 +184,14 @@ changelog:
 * Use to help keep up the party or if you need heals after a GCD heal.
 * Both buffed and unbuffed Horoscope can be reasonable to use, depending on how much healing is needed.
 
+![](/img/jobs/ast/003566_hr1.png)
+Oracle
+
+* Can be used under the effect of divining, granted when activating divination
+* AoE Damage in a 5y Radius around your target (860p), oGCD
+* Divining duration 30s
+* Always use this under divination buff
+
 # Other Abilities
 
 ![](/img/jobs/ast/synastry.png)
@@ -214,6 +222,15 @@ changelog:
 * Aspected Benefic gains shield (250% of heal strength), and single target heal (300p) + regen (five ticks of 300p)
 * If you will be using Aspected Helios or Aspected Benefic and you don't need Neutral Sect in two minutes this should be activated before.
 * Neutral Sect is extremely strong, use this if you're planning on GCD healing.
+
+![](/img/jobs/ast/003109_hr1.png)
+
+**Sun Sign**
+
+* Gain Suntouched when using Neutral Sect
+* Suntouched duration 30s
+* Aoe Mitigation(10%) in a 15y Radius around you
+* Can be used with neutral sect to power through a mechanic or used within 30s to help cover more damage
 
 ![](/img/jobs/ast/ascend.png)
 
@@ -277,7 +294,45 @@ changelog:
 
 ![](/img/jobs/ast/003564_hr1.png)
 
+Astral/Umbral Draw 55s CD
 
+* Recovers 2000 MP
+* Astral Draw will draw Balance, Arrow, The Spire, and Lord of Crowns
+* Umbral Draws will draw The Spear, The Bole, The Ewer, and Lady of Crowns
+* In standard fights you hold your astral draws and use them during your div windows
+
+![](/img/jobs/ast/003116_hr1.png)
+
+Play 1
+
+* The Balance increase melee DPS or tank damage by 6%
+* The Spear increase ranged DPS or healer damage by 6%
+* Use in divination windows in standard fights
+
+![](/img/jobs/ast/003117_hr1.png)
+
+Play 2
+
+* The Arrow increases HP recovery via healing actions for a party member or self by 10%
+* The Bole reduces damage taken by a party member by 10%
+* Arrow works on oGCD and GCD healing actions
+* Bole is helpful for additional support in tank busters or to give to a party member that isn't quite full but doesn't need targeted healing yet
+* Arrow is helpful for topping someone up
+
+![](/img/jobs/ast/003118_hr1.png)
+Play 3
+
+* The Spire creates  a 400p barrier around self or targeted party member
+* The Ewer grants regen (five ticks of 200p, a total of 1,000p)
+* Spire is great to intercept incoming damage while Ewer is great for healing that damage up.
+
+![](/img/jobs/ast/003119_hr1.png)
+Minor Arcana
+
+* Lord of Crown 400p to all nearby enemies
+* Lady of Crowns heals 400p to self and nearby allies
+* Lord of Crowns should be placed into every divination window in standard fights
+* Lady of Crowns is a great aoe heal use it in place of gcd healing when needed
 
 ![](/img/jobs/ast/divination.png)
 
