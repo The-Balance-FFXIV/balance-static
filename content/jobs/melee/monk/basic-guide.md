@@ -74,11 +74,11 @@ In some instances you will encounter a hitbox that is a completely closed circle
 
 Forms are a concept unique to Monk, and are what separates it from standard combo-based melee jobs. Unlike other jobs that simply have combos that trigger each other in a static manner, you can combo any GCD into any other GCD - providing that you're progressing your form forward. Each GCD also gains a bonus effect when used in the correct form, meaning you want to keep your forms advancing forward and not break your combo, else you'll drop your form and your damage will suffer.
 
-You have three forms: Opo-Opo, Raptor, and Coeurl:
+You progress through the three forms Opo-opo, Raptor and Coeurl one at a time, looping back around to Opo-opo after Coeurl:
 
-* In Opo-Opo form, Leaping Opo, Dragon Kick, and Shadow of the Destroyer gain additional effects. Using an Opo-opo GCD grants you Raptor form.
-* In Raptor form, Rising Raptor, Twin Snakes, and Four-point Fury gain additional effects. Using a Raptor GCD grants you Coeurl form.
-* In Coeurl form, Pouncing Coeurl, Demolish, and Rockbreaker gain additional effects. Using a Coeurl GCD grants you Opo-opo form.
+* In Opo-Opo form, Leaping Opo, Dragon Kick, and Shadow of the Destroyer are enhanced. Using an Opo-opo GCD grants you Raptor form.
+* In Raptor form, Rising Raptor, Twin Snakes, and Four-point Fury are enhanced and usable. Using a Raptor GCD grants you Coeurl form.
+* In Coeurl form, Pouncing Coeurl, Demolish, and Rockbreaker are enhanced and usable. Using a Coeurl GCD grants you Opo-opo form.
 
 - - -
 
