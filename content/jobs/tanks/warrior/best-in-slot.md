@@ -1,8 +1,8 @@
 ---
 title: Warrior Best in Slot (BiS)
 layout: bis
-patch: "7.05"
-lastmod: 2024-08-04T18:55:32.871Z
+patch: "7.1"
+lastmod: 2024-12-02T21:35:15.939Z
 changelog:
   - date: 2024-08-04T18:55:57.960Z
     message: Cleaned up the sets. Added master list of sets, added final bis sets.
