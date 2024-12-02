@@ -72,7 +72,7 @@ In some instances you will encounter a hitbox that is a completely closed circle
 
 ## The Form System
 
-Forms are a concept unique to Monk, and are what separates it from standard combo-based melee jobs. Unlike other jobs that simply have combos that trigger each other in a static manner, you can combo any GCD into any other GCD - providing that you're progressing your form forward. Each GCD also gains a bonus effect when used in the correct form, meaning you want to keep your forms advancing forward and not break your combo, else you'll drop your form and your damage will suffer.
+Forms are a concept unique to Monk, and are what separates it from standard combo-based melee jobs. Unlike other jobs that simply have combos that trigger each other in a static manner, you can combo any GCD into any other GCD - providing that you're progressing your form forward. Each GCD also enhanced when used in the correct form, meaning you want to keep your forms advancing forward and not break your combo, else you'll drop your form and your damage will suffer.
 
 You progress through the three forms Opo-opo, Raptor and Coeurl one at a time, looping back around to Opo-opo after Coeurl:
 
