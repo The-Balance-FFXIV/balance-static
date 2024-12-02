@@ -4,8 +4,8 @@ card_header_image: /img/jobs/war/basic.png
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
-patch: "7.01"
-lastmod: 2024-07-25T12:49:28.273Z
+patch: "7.1"
+lastmod: 2024-12-02T21:30:29.304Z
 changelog:
   - date: 2022-02-26T14:53:27.569Z
     message: Uploaded the new GDoc guide for EW WAR
