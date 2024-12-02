@@ -69,6 +69,8 @@ changes:
       Smuggle technique.
 
       - Added enmity multiplier to various AoE skills
+  - patch: "7.1"
+    description: Thrill of Battle now affects healing from Bloodwhetting.
 authors:
   - Balance-WAR-Staff
 ---
