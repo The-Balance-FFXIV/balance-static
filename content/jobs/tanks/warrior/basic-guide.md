@@ -30,7 +30,7 @@ By Mox Xinmagar & The Happy Team of Warriors\
 Hello team!
 There should be an intro here, but I am bad at writing those.\
 Therefore I shall skip the funny talks about the Angriest Healer of FFXIV and let the rest of the guide do the talking.\
-This intro is focused on Lvl90 Endwalker Warrior. Please get to level 100 soon.
+This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
 
 ## Skills
 
