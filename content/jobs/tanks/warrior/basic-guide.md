@@ -20,7 +20,7 @@ changelog:
   - date: 2024-07-18T12:28:53.078Z
     message: Initial changes for 7.01 WAR
 ---
-# Final Fantasy 14: Endwalker guide for Warrior
+# Final Fantasy 14: Dawntrail guide for Warrior
 
 By Mox Xinmagar & The Happy Team of Warriors\
 @Balance Discord
@@ -30,7 +30,7 @@ By Mox Xinmagar & The Happy Team of Warriors\
 Hello team!
 There should be an intro here, but I am bad at writing those.\
 Therefore I shall skip the funny talks about the Angriest Healer of FFXIV and let the rest of the guide do the talking.\
-This intro is focused on Lvl90 Endwalker Warrior. Please get to level 90 soon.
+This intro is focused on Lvl90 Endwalker Warrior. Please get to level 100 soon.
 
 ## Skills
 
@@ -91,6 +91,7 @@ For ease of reading, the following list entries have their abbreviations first, 
 * Orogeny (Lvl 86)
 
 **Special mention oGCDs**:
+
 * Wrath, Primal Wrath (lv 96)
 * Shares a button with Inner Release
 
@@ -148,7 +149,7 @@ Assumptions:
 
 * Tomahawk starts the pull at 0.00s. This means that the actual use of Tomahawk is at around -0.7s, right before the pull timer hits 0.
 * Skill Speed is at around 532, which translates to 2.47 GCD. Faster skill speed is fine, but the openers listed will be slightly different in practice due to some skills having flat timers (Upheaval at 30s) and our GCD speed being flexible (2.50 to 2.30).
-* Potion covers 12 GCDs. It is definitely possible for Potion to cover 13 GCDs, but due to Endwalker Warrior being such a slow-paced job in general, and players having wildly different internet connections, we will show openers with 12 GCD Potions.
+* Potion covers 12 GCDs. It is definitely possible for Potion to cover 13 GCDs, but due to Dawntrail Warrior being such a slow-paced job in general, and players having wildly different internet connections, we will show openers with 12 GCD Potions.
 * All of the important Party buffs are up after 7.8s into the pull. 
 
 Syntax
@@ -195,7 +196,7 @@ We expect you to do your own adjustments for any fight-specific needs. There is 
 
 ### Rotation
 
-The Endwalker Warrior rotation is mostly a priority system with some flexibility baked in. The short version can be summarized as follows:
+The Dawntrail Warrior rotation is mostly a priority system with some flexibility baked in. The short version can be summarized as follows:
 
 * Keep hitting things
 * Keep the buff up
@@ -275,6 +276,7 @@ That is a lot of things that you might not know about, so we will break them dow
 * Use IR on cooldown. Unless the fight downtime would waste it.
 
 #### Primal Wrath
+
 * Unlocked after using three Inner Release Fell Cleave/Decimates.
 * Follow-up on Inner Release.
 
@@ -282,7 +284,7 @@ That is a lot of things that you might not know about, so we will break them dow
 
 Area of Effect refers to using skills that hit multiple targets in one go. The AoE skills themselves have a lower potency than single target skills. So what is the big deal?
 
-For Endwalker Warriors, the options are pretty clear cut. At level 100, the AoE rotation for Warriors is more effective than single target rotation if there are three or more targets to hit.
+For Dawntrail Warriors, the options are pretty clear cut. At level 100, the AoE rotation for Warriors is more effective than single target rotation if there are three or more targets to hit.
 
 Here is a nice table comparing various skills and combos and their effective potency at different situations.
 Do note that Fell Cleave wins in potency when fighting 3 targets or less.
@@ -292,16 +294,19 @@ Do note that Fell Cleave wins in potency when fighting 3 targets or less.
 That is a bunch of numbers, and Warriors are known to be bad at reading, so let us summarize:
 
 Target count: 4
+
 * Overpower + Mythril Tempest
 * Decimate or Chaotic Cyclone
 * Orogeny
 
 Target count: 3
+
 * Overpower + Mythril Tempest
 * Fell Cleave or Chaotic Cyclone
 * Orogeny
 
 Target count: 2 or less
+
 * Storm’s Eye / Storm’s Path
 * Inner Beast
 * Upheaval
@@ -397,35 +402,41 @@ The original tank buster of 100% now hits for 64.8% -- a reduction of 35.2%.
 
 As for practical uses, we assume a good use of the Bloodwhetting, granting us a total of 19% mitigation for four seconds.
 
-##### The 20s  
-> Reprisal (15%)  
-> Thrill of Battle (20%)  
-> Rampart (20%)  
+##### The 20s
+
+> Reprisal (15%)\
+> Thrill of Battle (20%)\
+> Rampart (20%)\
 > Bloodwhetting (19%)  
- 
-##### The 40s  
-> Damnation (40%)  
-> Rampart + Bloodwhetting (20% + 19%)  
+
+##### The 40s
+
+> Damnation (40%)\
+> Rampart + Bloodwhetting (20% + 19%)\
 > Thrill + Bloodwhetting (20% + 19%)  
-  
-##### The 60s  
-> Damnation + Bloodwhetting (40% + 19%)  
-> Damnation + Rampart (40% + 20%)  
-> Damnation + Thrill (40% + 20%)  
-> Damnation + Reprisal (40% + 15%)  
+
+##### The 60s
+
+> Damnation + Bloodwhetting (40% + 19%)\
+> Damnation + Rampart (40% + 20%)\
+> Damnation + Thrill (40% + 20%)\
+> Damnation + Reprisal (40% + 15%)\
 > Rampart + Thrill + Bloodwhetting (20% + 20% + 19%)  
- 
-##### The 80s 
-> Damnation + Bloodwhetting + Reprisal (40% + 19% + 15%)  
-> Damnation + Rampart + Thrill (40% + 20% + 20%)  
+
+##### The 80s
+
+> Damnation + Bloodwhetting + Reprisal (40% + 19% + 15%)\
+> Damnation + Rampart + Thrill (40% + 20% + 20%)\
 > Rampart + Thrill + Bloodwhetting + Reprisal (20% + 20% + 20% + 15%)  
 
 ##### The Kitchen Sink
-> Damnation + Rampart + Thrill + Bloodwhetting + Reprisal  
+
+> Damnation + Rampart + Thrill + Bloodwhetting + Reprisal\
 > (40% + 20% + 20% + 19% + 15%)
 
 ##### It Still Kills Me
-> Holmgang (invulnerability)  
+
+> Holmgang (invulnerability)\
 > Tank Swap (mechanical requirement)
 
 Anything with a Reprisal in them is considered *very situational* and should be used with care.\
@@ -452,7 +463,8 @@ In this section, we will go over the very basics of Warrior Heals.
 * Does NOT affect Bloodwhetting heals.
 * Weird like that.
 
-### Shake It Off  
+### Shake It Off
+
 * Grants 15% of Party Member's MaxHP as a Shield.  
 * Also +2% for each buff eaten (Thrill, Vengeance, Bloodwhetting), resulting in a maximum of 21% MaxHP Shield.  
 * Also heals Party Members for 300 Potency.  
@@ -477,6 +489,7 @@ In this section, we will go over the very basics of Warrior Heals.
 * Save a friend with this!
 
 ### Damnation
+
 * Trait upgrades Vengeance into Damnation
 * Taking damage, or having the buff "Primeval impulse" expire, procs a Regen effect that lasts for 15 seconds.
 * In patch 7.0, the regen on a BIS Warrior is about 10k to 11k per tick.
@@ -487,6 +500,7 @@ In this section, we will go over the very basics of Warrior Heals.
 * Increases HP recovery via healing actions on self by 15%
 
 ### Equilibrium
+
 * A decent heal button, with a Regen effect tied to it.
 * Great when used with Thrill of Battle, Rampart or both.
 
@@ -501,7 +515,7 @@ In this section, we will go over the very basics of Warrior Heals.
 
 ## Stats and Gear
 
-Welcome to Endwalker Warrior stats and gearing! 
+Welcome to Dawntrail Warrior stats and gearing! 
 Soon you will have all sorts of confusion and question various things you have heard in various parts of the Internet!
 
 First things first:
@@ -514,7 +528,7 @@ First things first:
 
 Weapon Damage >>> Main Stat >>>> Substats. 
 
-*Very few exceptions have existed before Endwalker.*
+*Very few exceptions have existed before Dawntrail.*
 
 ### Warrior Substat Priority
 
@@ -538,7 +552,6 @@ A rule of thumb is to delay the oGCD in most situations.
 
 Tenacity increases all damage dealt, much like Determination.\
 We're usually melding very little of this due to the game being designed around damage.
-
 
 ![Sunless's Warrior imagery](https://github.com/Moxfi/XIV/blob/main/WAR/WAR_glam/Sunless%20-%20war%20img.png?raw=true)
 
@@ -580,7 +593,9 @@ Holmgang is weird. If your Holmgang target dies, you lose the effect. Self-cast 
 	/ac "Holmgang" <me>
 	/micon "Holmgang"
 ```
-\_
+
+_
+
 ### Nascent Flash
 
 Nascent Flash goes on a friend. Most often on the co-tank of your eight-person party.\
@@ -604,7 +619,9 @@ You may make a mouseover macro by using <mo>, or you may make multiple macros fo
 	/ac "Nascent Flash" <2>
 	/micon "Nascent Flash"
 ```
-\_
+
+_
+
 ### Shirk
 
 Shirk the second Party member. Often your co-tank.
@@ -626,7 +643,9 @@ Shirk the second Party member. Often your co-tank.
 	/ac "Shirk" <2>
 	/micon "Shirk" 
 ```
-\_
+
+_
+
 ### Gear Sets and Consumables (Food, Potion)
 
 Please see the Warrior's main page for different gear sets. 
