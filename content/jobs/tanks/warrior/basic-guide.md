@@ -460,7 +460,7 @@ In this section, we will go over the very basics of Warrior Heals.
 * Affects Shake it Off's healing.
 * Affects Equilibrium's main heal and the HoT.
 * Does affect the Bloodwhetting's shield.
-* Does NOT affect Bloodwhetting heals.
+* Does affect Bloodwhetting heals (since 7.1).
 * Weird like that.
 
 ### Shake It Off
