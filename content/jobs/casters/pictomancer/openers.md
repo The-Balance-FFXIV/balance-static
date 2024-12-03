@@ -2,7 +2,7 @@
 title: Pictomancer Openers
 authors:
   - Balance-PCT-Staff
-patch: "7.0"
+patch: "7.1"
 lastmod: 2024-06-23T05:35:11.446Z
 changelog:
   - date: 2024-06-23T05:35:29.142Z
