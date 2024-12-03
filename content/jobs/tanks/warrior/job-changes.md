@@ -1,7 +1,7 @@
 ---
 title: Warrior Changes
 layout: changes
-lastmod: 2024-07-25T12:48:03.038Z
+lastmod: 2024-12-02T21:36:08.585Z
 changes:
   - patch: "5.58"
     description: "[Placeholder for Endwalker]"
@@ -69,6 +69,8 @@ changes:
       Smuggle technique.
 
       - Added enmity multiplier to various AoE skills
+  - patch: "7.1"
+    description: Thrill of Battle now affects healing from Bloodwhetting.
 authors:
   - Balance-WAR-Staff
 ---
