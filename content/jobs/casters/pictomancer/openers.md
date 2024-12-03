@@ -24,13 +24,10 @@ The following are openers you can follow at the beginning of the fight to set up
 
 ![Pictomancer 9 Spell Single Muse Opener](/img/jobs/pct/pictomancer_2nd_gcd_starry_opener.png "Pictomancer 9 Spell Single Muse Opener")
 
-
-
 * The standard opener for the majority of encounters and party compositions.
 * Offers flexibility to adjust your Starry Muse timings to adjust to a 3rd GCD party buff timeline if necessary.
 * Also offers flexibility with the use of Holy in White compared to the 3rd GCD Starry opener if it is needed in a fight timeline.
 * This opener may have a slight GCD clip depending on ping due to the triple weave after the prepull Rainbow Drip. This clip in the vast majority of cases will not add up to a loss anywhere.
-*
 
 ## Third GCD Opener
 
