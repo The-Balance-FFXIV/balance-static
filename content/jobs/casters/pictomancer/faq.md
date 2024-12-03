@@ -1,8 +1,8 @@
 ---
 title: Pictomancer Frequently-Asked Questions
 layout: qna
-patch: "7.0"
-lastmod: 2024-06-23T02:26:28.541Z
+patch: "7.1"
+lastmod: 2024-12-03T23:25:44.832Z
 qna:
   - question: "What is my rotation? "
     answer: "Do your opener, then repeat that in each 2 minute window. Between them,
