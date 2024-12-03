@@ -4,8 +4,8 @@ card_header_image: /img/jobs/war/leveling.png
 authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
-patch: "7.01"
-lastmod: 2024-07-25T12:49:13.446Z
+patch: "7.1"
+lastmod: 2024-12-02T21:33:05.133Z
 changelog:
   - date: 2021-10-27T07:46:10.431Z
     message: Created
