@@ -20,7 +20,10 @@ changelog:
     message: top bis updated for 6.5
 bis:
   - type: etro
-    name: Savage Best-in-Slot 2.5 GCD
+    name: Ultimate Weapon Best-in-Slot 2.5 GCD
+    link: https://etro.gg/gearset/9e444cba-9bb9-4590-ae16-a750067835eb
+  - type: etro
+    name: Savage Weapon Best-in-Slot 2.5 GCD
     link: https://etro.gg/gearset/c7206baa-68fc-4f52-a8ae-b1a3abfed92f
   - type: etro
     name: Full Crafted 2.48 GCD
