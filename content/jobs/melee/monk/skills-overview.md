@@ -11,6 +11,8 @@ changelog:
     message: Updated for Endwalker
   - date: 2023-05-30T00:32:11.375Z
     message: Updated to 6.4
+  - date: 2024-12-03T01:51:49.166Z
+    message: "7.05 dawntrail very cerebral "
 ---
 # Single Target GCDs
 
