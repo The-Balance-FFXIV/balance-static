@@ -1,7 +1,7 @@
 ---
 title: Pictomancer Best in Slot
 layout: bis
-patch: "7.05"
+patch: "7.1"
 lastmod: 2024-08-02T04:18:28.881Z
 changelog:
   - date: 2024-07-01T01:13:03.564Z
