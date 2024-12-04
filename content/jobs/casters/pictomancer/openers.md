@@ -20,9 +20,7 @@ The following are openers you can follow at the beginning of the fight to set up
 
 ﻿\*\*Please note that you can do these skills in whatever order you please, so long as you fit all of them into the nine spell window. If a fight requires more movement, adjust your hammer and spell order accordingly.\*\*<br>
 
-<br>
-
-![Pictomancer 9 Spell Single Muse Opener](/img/jobs/pct/pictomancer_2nd_gcd_starry_opener.png "Pictomancer 9 Spell Single Muse Opener")
+![Pictomancer 2nd GCD Opener](/img/jobs/pct/pictomancer_2nd_gcd_starry_opener.png "Pictomancer 9 Spell Single Muse Opener")
 
 * The standard opener for the majority of encounters and party compositions.
 * Offers flexibility to adjust your Starry Muse timings to adjust to a 3rd GCD party buff timeline if necessary.
@@ -30,8 +28,6 @@ The following are openers you can follow at the beginning of the fight to set up
 * This opener may have a slight GCD clip depending on ping due to the triple weave after the prepull Rainbow Drip. This clip in the vast majority of cases will not add up to a loss anywhere.
 
 ## Third GCD Opener
-
-<br>
 
 ![3rd GCD Opener](/img/jobs/pct/pictomancer_3rd_gcd_starry_opener.png "3rd GCD Opener")
 
@@ -45,10 +41,6 @@ The following are openers you can follow at the beginning of the fight to set up
 The following are examples of burst setups for your two-minute windows. Please note that oGCDs used may vary depending on which portraits are available for each window. For more details about each, as well as their pros and cons, please view the Intermediate Guide (link to guide and relevant section forthcoming).
 
 ## 9 Spell Single Muse Burst
-
-![Pictomancer 9 Spell Single Muse Burst](/img/jobs/pct/1000091140.png "Pictomancer 9 Spell Single Muse Burst")
-
-## 8 Spell Triple Muse Burst
 
 ![9 GCD Single Muse Burst](/img/jobs/pct/pictomancer_9_gcd_single_muse_burst.png "9 GCD Single Muse Burst")
 
