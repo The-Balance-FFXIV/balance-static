@@ -3,7 +3,7 @@ title: Pictomancer Skills Overview
 authors:
   - Laille-Ormesaing
   - Balance-PCT-Staff
-patch: "7.0"
+patch: "7.1"
 lastmod: 2024-06-21T06:31:26.139Z
 changelog:
   - date: 2024-06-21T06:39:58.289Z
