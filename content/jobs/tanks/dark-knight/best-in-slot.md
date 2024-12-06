@@ -2,7 +2,7 @@
 title: Dark Knight Best in Slot (BiS)
 layout: bis
 patch: "7.1"
-lastmod: 2024-01-18T09:16:25.249Z
+lastmod: 2024-12-06T22:45:52.615Z
 changelog:
   - date: 2021-10-27T17:45:00.078Z
     message: Added
@@ -34,12 +34,12 @@ changelog:
 bis:
   - type: xivgearset
     name: 7.05 Bis (2.50)
-    link: 7Cebf889ff-8fca-4d60-9483-bbaebb76f525
+    link: ebf889ff-8fca-4d60-9483-bbaebb76f525
     description: Speed should be chosen according to comfort, but this set is
       generally recommended.
   - type: xivgearset
     name: 7.05 BiS (2.46)
-    link: 7C289cfdf2-849f-407c-9612-96ec43d7ea2e
+    link: 289cfdf2-849f-407c-9612-96ec43d7ea2e
   - type: genericlink
     name: 7.05 BiS Gearsets
     link: https://xivgear.app/?page=sl%7C79977db6-1605-40bd-a13f-14e139684064
