@@ -1,11 +1,9 @@
 ---
 title: Scholar Best in Slot (BiS)
 layout: bis
-patch: "7.05"
-lastmod: 2024-08-22T06:34:56.173Z
+patch: "7.1"
+lastmod: 2024-12-06T23:18:33.755Z
 changelog:
-  - date: 2023-06-13T07:27:24.164Z
-    message: updated for 6.4
   - date: 2024-08-03T19:41:07.389Z
     message: Updated for DT
   - date: 2024-08-06T21:59:04.647Z
@@ -14,6 +12,8 @@ changelog:
     message: Updated formatting
   - date: 2024-11-18T18:23:55.634Z
     message: aug crafted general recommendation updated
+  - date: 2024-12-06T23:18:16.307Z
+    message: updated sets
 bis:
   - type: null
     name: Information
@@ -45,10 +45,16 @@ bis:
 
 
       We recommend the 2.5/2.49 set for general use
-    link: https://xivgear.app/?page=sl%7Cebab5aec-e715-41ab-91c0-a497a4ce3b7c
+    link: ""
+  - type: xivgearset
+    link: https://xivgear.app/?page=sl%7C7bc551de-ceb6-446b-9391-6eba86b2c78e
+    name: "2.5"
+  - type: xivgearset
+    name: "2.49"
+    link: https://xivgear.app/?page=sl%7C33be7428-e34c-4f47-81fd-b38f98070baa
   - type: gsheets
     name: FRU / Max ilvl Sets
-    link: https://xivgear.app/?page=sl%7Ccba60553-7850-4587-9db1-d402aec8187e&
+    link: ""
     description: >-
       These sets are for people who value eHP or want to start working towards
       Futures Rewritten (Ultimate). FRU sets are between 2.50/2.49 low piety
@@ -57,9 +63,15 @@ bis:
 
 
       We recommend the 2.5/2.49 set or the  2.5 higher piety set.
+  - type: xivgearset
+    name: "2.5"
+    link: https://xivgear.app/?page=sl%7Cdf6a55e3-30a0-4dc6-b163-1a6278150075
+  - type: xivgearset
+    name: "2.49"
+    link: https://xivgear.app/?page=sl%7C91a8fdc7-586c-4321-ba6f-763612e07cda
   - type: gsheets
     name: Max Damage Sets
-    link: https://xivgear.app/?page=sl%7C8220b2fd-abac-4aae-a9a9-15b264bb3a1b&
+    link: ""
     description: >-
       These sets are for people who are interested in speeds/parsing and want
       the most damage they can get. These sets use 710 items so your eHP will be
@@ -70,6 +82,16 @@ bis:
 
 
       We recommend the 2.5 or 2.31 sets.
+  - type: xivgearset
+    link: https://xivgear.app/?page=sl%7C1fa4c759-bd26-402e-90e3-109e6379e081
+    name: "2.5"
+  - type: xivgearset
+    name: "2.31"
+    link: https://xivgear.app/?page=sl%7Ce2ddde5b-2846-4c2d-87f1-a6a990612a00
+  - type: etro
+    name: You can find full sheet with more sets in the scholar resources on The
+      Balance discord
+    description: ""
 authors:
   - Balance-SCH-Staff
 tags:
