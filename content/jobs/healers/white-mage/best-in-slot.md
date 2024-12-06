@@ -13,12 +13,12 @@ changelog:
 bis:
   - type: gsheets
     name: Lower Item Level Gear Sets
-    link: https://xivgear.app/?page=sl%7C41809983-da44-4cf2-9013-3ccd290ee2d2&
+    link: https://xivgear.app/?page=sl%7Cde55fddd-4515-402c-95aa-ff7913941734
     description: Descriptions for all sets individually can be found in the sheet.
       As a general rule these sets sacrifice the higher vitality from 730 gear
       in return for damage gains gotten from 710 pieces of gear.
   - type: gsheets
-    link: https://xivgear.app/?page=sl%7C2310a86a-a6ac-4f89-ac15-f3903c48ea16&
+    link: https://xivgear.app/?page=sl%7C36810e75-44ce-455e-b290-c03fb5c56392
     name: Max Item Level Gear Sets
     description: Descriptions for both sets can be found in the sheet. These are
       sets that are utilizing all 730 gear. While sacrificing a very small
@@ -30,7 +30,7 @@ bis:
     description: These sets have no descriptions, and most people should never worry
       about them. They only exist if someone wants to know every absolute
       gearing option.
-    link: https://xivgear.app/?page=sl%7C0146baa3-5ec4-477b-b3ad-6baa83aea5eb&
+    link: https://xivgear.app/?page=sl%7C9b5476e1-f2b9-42a8-b146-11edb312cbc3
 authors:
   - Balance-WHM-Staff
 ---
