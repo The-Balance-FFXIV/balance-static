@@ -36,7 +36,7 @@ bis:
 
 
       If using the Early Refresh(DoT clip) opener: The 2.50 GCD and 2.49 GCD sets will NOT land Biolysis under Chain Stratagem if you use Biolysis AFTER your 6th Energy Drain in the opener (the breakpoint is 2.47 GCD and requires low ping). To fix this, use Biolysis on the same GCD as your 6th Energy Drain.
-  - type: gsheets
+  - type: etro
     name: General Recommendations
     description: >-
       The i729 versions of the 2.5 and 2.49 sets are practical all-rounder sets.
@@ -47,11 +47,11 @@ bis:
       We recommend the 2.5/2.49 set for general use
     link: ""
   - type: xivgearset
-    link: https://xivgear.app/?page=sl%7C7bc551de-ceb6-446b-9391-6eba86b2c78e
+    link: 7C7bc551de-ceb6-446b-9391-6eba86b2c78e
     name: "2.5"
   - type: xivgearset
     name: "2.49"
-    link: https://xivgear.app/?page=sl%7C33be7428-e34c-4f47-81fd-b38f98070baa
+    link: 7C33be7428-e34c-4f47-81fd-b38f98070baa
   - type: gsheets
     name: FRU / Max ilvl Sets
     link: ""
@@ -65,10 +65,10 @@ bis:
       We recommend the 2.5/2.49 set or the  2.5 higher piety set.
   - type: xivgearset
     name: "2.5"
-    link: https://xivgear.app/?page=sl%7Cdf6a55e3-30a0-4dc6-b163-1a6278150075
+    link: 7Cdf6a55e3-30a0-4dc6-b163-1a6278150075
   - type: xivgearset
     name: "2.49"
-    link: https://xivgear.app/?page=sl%7C91a8fdc7-586c-4321-ba6f-763612e07cda
+    link: 7C91a8fdc7-586c-4321-ba6f-763612e07cda
   - type: gsheets
     name: Max Damage Sets
     link: ""
@@ -83,11 +83,11 @@ bis:
 
       We recommend the 2.5 or 2.31 sets.
   - type: xivgearset
-    link: https://xivgear.app/?page=sl%7C1fa4c759-bd26-402e-90e3-109e6379e081
+    link: 7C1fa4c759-bd26-402e-90e3-109e6379e081
     name: "2.5"
   - type: xivgearset
     name: "2.31"
-    link: https://xivgear.app/?page=sl%7Ce2ddde5b-2846-4c2d-87f1-a6a990612a00
+    link: 7Ce2ddde5b-2846-4c2d-87f1-a6a990612a00
   - type: etro
     name: You can find full sheet with more sets in the scholar resources on The
       Balance discord
