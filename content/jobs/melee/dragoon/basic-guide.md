@@ -80,7 +80,7 @@ Upon properly completing any of the above combos, you will gain the buff Draconi
 
 #### Piercing Talon
 
-While you always want to maintain your uptime on the above combos as much as possible, occasionally an encounter may push you off for an extended period of time. Rather than doing nothing, you can utilize Piercing Talon. It doesn’t break *any* of the above combos or negates your Draconian Fire. This is only worth doing if you would be unable to re-engage before your GCD spin completes.
+While you always want to maintain your uptime on the above combos as much as possible, occasionally an encounter may push you off for an extended period of time. Rather than doing nothing, you can utilize Piercing Talon. It doesn’t break *any* of the above combos or negates your Draconian Fire. Elusive Jump now provides the buff Enhanced Piercing Talon.
 
 ![](https://xivapi.com/i/000000/000315_hr1.png)
 
