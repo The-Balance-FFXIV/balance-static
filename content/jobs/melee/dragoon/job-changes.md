@@ -1,7 +1,7 @@
 ---
 title: Dragoon Changes
 layout: changes
-lastmod: 2024-07-28T11:01:04.556Z
+lastmod: 2024-12-09T10:36:41.707Z
 changes:
   - patch: "6.05"
     description: |-
@@ -75,6 +75,12 @@ changes:
     description: Overhaul of many skills and core concept of the job. Please refer
       to our guides or the official job guide by Square Enix for a complete
       overview.
+  - patch: "7.1"
+    description: |-
+      * Multiple potency adjustments.
+      * Nastrond is only useable once per Life window now.
+      * Elusive Jump now grants Enhanced Piercing Talon, increasing its potency.
+      * Starcross range massively increased.
 authors:
   - Balance-DRG-Staff
 tags:
