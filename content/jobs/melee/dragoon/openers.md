@@ -2,8 +2,8 @@
 title: Dragoon Openers
 authors:
   - Balance-DRG-Staff
-patch: "7.0"
-lastmod: 2024-07-28T11:14:38.628Z
+patch: "7.1"
+lastmod: 2024-12-09T10:34:44.827Z
 changelog:
   - date: 2021-10-29T02:55:52.808Z
     message: Created page
@@ -17,41 +17,42 @@ changelog:
     message: Fixed 2.46 image link
   - date: 2024-07-28T11:14:47.419Z
     message: General 7.0 overhaul
+  - date: 2024-12-09T10:34:47.634Z
+    message: Revision with 7.1 changes
 ---
 # Dragoon Opener and Rotation
 
 The primary use of the Opener is to prepare your cooldown alignment for the rest of the encounter. With our new job design, it’s possible that we’ll actually have fight-specific openers down the stretch.
 
-## Standard Opener
+## Standard Opener - No PT
 
-![DT Opener](https://raw.githubusercontent.com/RhyTamok/XIVdrg/main/DRG/Graphics/Openers/Dragoon_Standard_Opener_1.png)
-
+![Standard Opener - No PT](https://github.com/RhyTamok/XIVdrg/blob/main/DRG/Graphics/Openers/Dragoon_Standard_Opener_-_No_PT.png?raw=true)
+\
 We use our raidbuff Battle Litany after applying our DoT for party alignment, the rest of our buffs surround it with Geirskogul being used last to ensure its own potency is buffed by all our personal buffs and potential raidbuffs.
 
 Using our buffs before or after Chaotic Spring makes little difference, favoring being used after due to the Wyrmwind Thrust at the end.
 
 The timing of your buffs, High Jump & Dragonfire Dive will determine the position in which you will weave them for the rest of the fight, our other weaves will be used as filler when possible keeping mind of Life Surge and Wyrmwind Thrust.
 
-## Alternative Openers
+The order of your oGCDs aside those mentioned above can often be freely swapped around for no loss. The opener aims to use higher potency oGCDs before those with lower potency and to use all of our oGCDs in the smallest possible time-frame which can increase damage dealt during party member raidbuffs.
 
-### 4th GCD Geirskogul
-![4th GCD](https://i.imgur.com/KstklRQ.png)
+## Alternative Opener: PT on Pull
+![Standard Opener](https://github.com/RhyTamok/XIVdrg/blob/main/DRG/Graphics/Openers/Dragoon_Standard_Opener.png?raw=true)
 
-This opener delays our oGCD usages in benefit of party alignment, ensuring our Geirskogul is under full party buffs.
+\
+**__Why should you use this opener?__**
 
-### 2nd GCD Battle Litany
-![2nd GCD BL](https://raw.githubusercontent.com/RhyTamok/XIVdrg/main/DRG/Graphics/Openers/Dragoon_2nd_GCD_Battle_Litany_1.png)
+Most fights will not allow us to start from within melee range, this means that we cannot start our GCD combo until the countdown finishes to prevent pulling the boss early. 
 
-This opener has considerably better alignment for ourselves at the cost of having worse party alignment on our raid buff.
+Using Piercing Talon will allow us to start rolling our GCD from outside of melee range, only causing the boss to be pulled after its 0.85s delay of dealing damage. 
 
-Whether this opener is a better general option for us or not is yet to be determined and will likely depend on which jobs are in your party due to exact burst timings.
+Additionally, slightly delaying our normal opener due to adding the filler Piercing Talon will allow us to move back our Battle Litany which will result in favorable alignment for us in full uptime encounters. The delay will also significantly increase the chances of Geirskogul being used after party member raidbuffs have been applied.
 
-### 2nd GCD Geirskogul
-![2nd GCD GSK](https://raw.githubusercontent.com/RhyTamok/XIVdrg/main/DRG/Graphics/Openers/Dragoon_2nd_GCD_Geirskogul_1.png)
+The damage output from both openers are comparable, it is recommended to use Piercing Talon only when the boss does not allow you to enter melee range before combat, however it is very acceptable to stick with only one opener regardless.
 
-Similar to moving forward Battle Litany, we can also choose to use sooner and keep our standard raidbuff alignment. This will still offer an incredibly small gain in personal dps (pretty much equal to standard) but keeps the advantage of being able to use Life Surge without overcap.
+❗Note: \
+➜ It is recommended to add a very slight delay before pressing Geirskogul, we want to leave space for a double weave following the ability while making sure the Wyrmwind Thrust at the end of our opener is buffed by Life of the Dragon.
 
-Recommended if you have no raidbuffs since the Geirskogul timing will make this opener worse as soon as it starts to miss raidbuffs it usually wouldn't.
 
 ## Rotation
 Dragoon's Dawntrail rotation consists of a 10 GCD combo loop with alternating Chaotic Spring & Heavens' Thrust finishers, as well as using our 30s interval oGCDs on cooldown.
@@ -60,6 +61,6 @@ The GCD and oGCD parts of our kit work independently of each other, your GCD loo
 
 Our 60s and 120s burst windows follow the logic of using oGCDs with a hard cooldown precisely when they come up, then filling the required slots with Life Surge & Wyrmwind Thrust, finding a single weave for your Stardiver, and filling the leftover space with filler oGCDs.
 
-Hard cooldowns: Lance Charge, Battle Litany, Geirskogul, High Jump, Drangonfire Dive \
+Hard cooldowns: Lance Charge, Battle Litany, Geirskogul, High Jump, Dragonfire Dive \
 Non-flexible oGCDs: Life Surge, Wyrmwind Thrust \
 Flexible oGCDs: Nastrond, Rise of the Dragon, Starcross, Mirage Dive, Stardiver
