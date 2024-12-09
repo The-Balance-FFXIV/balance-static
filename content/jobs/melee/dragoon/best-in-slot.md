@@ -1,8 +1,8 @@
 ---
 title: Dragoon Best in Slot (BiS)
 layout: bis
-patch: "7.05"
-lastmod: 2024-08-03T21:36:22.281Z
+patch: "7.1"
+lastmod: 2024-12-09T11:23:35.466Z
 changelog:
   - date: 2021-10-29T03:01:01.840Z
     message: Created page
@@ -23,6 +23,8 @@ changelog:
     message: Cleared up RPR compatibility on 2.50
   - date: 2024-08-03T21:36:25.359Z
     message: New 7.05 sets
+  - date: 2024-12-09T11:23:51.905Z
+    message: FRU Weapon BiS added, pentamelded sets removed
 bis:
   - type: etro
     description: |-
@@ -30,13 +32,6 @@ bis:
       100% compatible
     link: 8b1b5c84-df4b-4925-951a-e66aeabe44c7
     name: Savage BiS - 2.50 GCD
-  - type: etro
-    description: Recommended over full pentamelded
-    name: Pentamelded Prog Set - 2.50 GCD
-    link: 08c14ba6-f4a0-488d-80a7-86753453e727
-  - type: etro
-    name: Full Pentamelded Crafted - 2.46 GCD
-    link: a36a2c3b-e165-453e-9947-3abe0cbc2ef5
   - type: etro
     description: Syncing gear is currently not a viable option for this fight due to
       the massive loss of substats from materia. The relic weapon is an
@@ -74,6 +69,10 @@ bis:
       Materia does not matter in synced gear.
     name: UCoB BiS
     link: 9d1e65ae-5adc-423b-9367-91ffccf5a37a
+  - type: etro
+    name: FRU Weapon BiS
+    link: https://etro.gg/gearset/72272317-821d-42ec-a1ea-70e7ecf4408f
+    description: "Changes from Savage BiS: Swap one DET for DHIT on Legs"
 authors:
   - Balance-DRG-Staff
 tags:
