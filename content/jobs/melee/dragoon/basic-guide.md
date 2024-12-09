@@ -262,6 +262,8 @@ Additionally, slightly delaying our normal opener due to adding the filler Pierc
 
 The damage output from both openers are comparable, it is recommended to use Piercing Talon only when the boss does not allow you to enter melee range before combat, however it is very acceptable to stick with only one opener regardless.
 
+❗Note: \
+➜ It is recommended to add a very slight delay before pressing Geirskogul, we want to leave space for a double weave following the ability while making sure the Wyrmwind Thrust at the end of our opener is buffed by Life of the Dragon.
 
 ## Re-Openers
 
