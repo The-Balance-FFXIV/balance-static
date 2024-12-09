@@ -3,8 +3,8 @@ title: Dragoon Basic Guide
 card_header_image: /img/jobs/drg/basic.png
 authors:
   - Balance-DRG-Staff
-patch: "7.0"
-lastmod: 2024-07-29T17:40:15.904Z
+patch: "7.1"
+lastmod: 2024-12-09T10:28:56.599Z
 changelog:
   - date: 2021-10-29T02:49:11.086Z
     message: Created page
@@ -22,6 +22,8 @@ changelog:
     message: Updated patch - no changes
   - date: 2024-07-29T17:40:16.839Z
     message: Revisions for DT
+  - date: 2024-12-09T10:28:58.173Z
+    message: Revision with 7.1 changes
 ---
 # [/jobs/melee/dragoon/opener/](/jobs/melee/dragoon/opener/)Saving The Dragoon
 
@@ -80,7 +82,7 @@ Upon properly completing any of the above combos, you will gain the buff Draconi
 
 #### Piercing Talon
 
-While you always want to maintain your uptime on the above combos as much as possible, occasionally an encounter may push you off for an extended period of time. Rather than doing nothing, you can utilize Piercing Talon. It doesn’t break *any* of the above combos or negates your Draconian Fire. Elusive Jump now provides the buff Enhanced Piercing Talon.
+While you always want to maintain your uptime on the above combos as much as possible, occasionally an encounter may push you off for an extended period of time. Rather than doing nothing, you can utilize Piercing Talon. It doesn’t break *any* of the above combos or negates your Draconian Fire. Elusive Jump now provides the buff Enhanced Piercing Talon, considerably increasing the potency for the next use. This makes Piercing Talon stronger than some of our regular combo GCDs. While not necessarily the standard, you may find usage for Piercing Talon even in full uptime as it allows us to pull from range and manipulate our GCD alignment around phase timings and downtime.
 
 ![](https://xivapi.com/i/000000/000315_hr1.png)
 
@@ -209,11 +211,11 @@ Wyrmwind Thrust is just a strong oGCD action you should use whenever possible. I
 
 # Life of the Dragon
 
-After using Geirskogul, you will enter Life of the Dragon. Entering Life turns Geirskogul into Nastrond and unlocks the ability to use Stardiver. Over the following 20 seconds, you can use three Nastronds and one Stardiver and Starcross, but beyond that they can be shifted somewhat freely to adjust to mechanics and buffs.
+After using Geirskogul, you will enter Life of the Dragon. Entering Life turns Geirskogul into Nastrond and unlocks the ability to use Stardiver. Over the following 20 seconds, you can use Nastrond and Stardiver once as well as Starcross as a follow-up to Stardiver. The exact placement of Nastrond and Stardiver in this 20 second window is flexible, just make sure to use both in time. 
 
 \
 ![](https://xivapi.com/i/002000/002589_hr1.png)\
-Nastrond is a strong line attack like Geirskogul. You should always use it three times in a burst window. There is a small 2 second cooldown between uses so spread them out across multiple weave windows.
+Nastrond is a strong line attack like Geirskogul. Make sure you position yourself accordingly to hit as many targets as possible in AoE situations.
 
 \
 ![](https://xivapi.com/i/002000/002593_hr1.png)
@@ -223,7 +225,8 @@ Stardiver has an **excessively long** animation lock. Even with the lowest possi
 ## Extra Mobility
 
 ![](https://xivapi.com/i/002000/002577_hr1.png)\
-Elusive Jump allows you to quickly and efficiently jump backwards out of trouble. The only use for this is re-engaging or disengaging from a boss for mechanics at the last second, or crossing long distances quickly. Don’t be afraid to use it, but do your best to avoid yeeting yourself off the stage.
+Elusive Jump allows you to quickly and efficiently jump backwards out of trouble. The main use for this is re-engaging or disengaging from a boss for mechanics at the last second, or crossing long distances quickly. Don’t be afraid to use it, but do your best to avoid yeeting yourself off the stage. Elusive Jump now also provides the buff Enhanced Piercing Talon, increasing its potency in the next 15 seconds.
+This expands the use-cases and can make it worth it to use it even in full uptime.
 
 ![](https://beta.xivapi.com/api/1/asset/ui/icon/002000/002598_hr1.tex?format=png)
 Winged Glide is a dash to a targeted enemy with 2 charges. It does not deal damage so you can use it freely whenever you need to gapclose longer distances.
@@ -234,7 +237,8 @@ Managing the usage of Elusive Jump, Winged Glide, Dragonfire Dive and Stardiver 
 
 I know a lot of you have skipped ahead to this section, since you feel like you have a solid grasp on the fundamentals, and I think that is great! The primary use of the opener is to prepare your cooldown alignment for the rest of the encounter.
 
-![DT Opener](https://raw.githubusercontent.com/RhyTamok/XIVdrg/main/DRG/Graphics/Openers/Dragoon_Standard_Opener_1.png)
+## Standard Opener - No PT
+![Standard Opener - No PT](https://github.com/RhyTamok/XIVdrg/blob/main/DRG/Graphics/Openers/Dragoon_Standard_Opener_-_No_PT.png?raw=true)
 
 We use our raidbuff Battle Litany after applying our DoT for party alignment, the rest of our buffs surround it with Geirskogul being used last to ensure its own potency is buffed by all our personal buffs and potential raidbuffs.
 
@@ -242,7 +246,22 @@ Using our buffs before or after Chaotic Spring makes little difference, favoring
 
 The timing of your buffs, High Jump & Dragonfire Dive will determine the position in which you will weave them for the rest of the fight, our other weaves will be used as filler when possible keeping mind of Life Surge and Wyrmwind Thrust.
 
-Our [opener page](/jobs/melee/dragoon/openers/) has some alternatives listed that can be useful in specific fights or group compositions:\
+The order of your oGCDs aside those mentioned above can often be freely swapped around for no loss. The opener aims to use higher potency oGCDs before those with lower potency and to use all of our oGCDs in the smallest possible time-frame which can increase damage dealt during party member raidbuffs.
+
+## Alternative Opener: PT on Pull
+![Standard Opener](https://github.com/RhyTamok/XIVdrg/blob/main/DRG/Graphics/Openers/Dragoon_Standard_Opener.png?raw=true)
+
+\
+**__Why should you use this opener?__**
+
+Most fights will not allow us to start from within melee range, this means that we cannot start our GCD combo until the countdown finishes to prevent pulling the boss early. 
+
+Using Piercing Talon will allow us to start rolling our GCD from outside of melee range, only causing the boss to be pulled after its 0.85s delay of dealing damage. 
+
+Additionally, slightly delaying our normal opener due to adding the filler Piercing Talon will allow us to move back our Battle Litany which will result in favorable alignment for us in full uptime encounters. The delay will also significantly increase the chances of Geirskogul being used after party member raidbuffs have been applied.
+
+The damage output from both openers are comparable, it is recommended to use Piercing Talon only when the boss does not allow you to enter melee range before combat, however it is very acceptable to stick with only one opener regardless.
+
 
 ## Re-Openers
 
