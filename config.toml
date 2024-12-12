@@ -10,6 +10,7 @@ enableRobotsTXT = true
   priority = 0.5
 
 [params]
+  math = true
   maxTierGearsets = 8
   maxUltimateGearsets = 4
   maxGearsets = 12
