@@ -10,6 +10,7 @@ enableRobotsTXT = true
   priority = 0.5
 
 [params]
+  math = true
   maxTierGearsets = 8
   maxUltimateGearsets = 4
   maxGearsets = 12
@@ -18,6 +19,17 @@ enableRobotsTXT = true
   copyrightMessage = '© SQUARE ENIX CO., LTD. All Rights Reserved | FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd. | All content © their respective authors | The Balance is a non-profit community-owned website.'
 
 [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.extras]
+        enable = true
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
   [markup.tableOfContents]
     endLevel = 2
     startLevel = 1
@@ -58,6 +70,3 @@ enableRobotsTXT = true
     name = 'Info'
     url = '#'
     weight = 60
-
-[markup.goldmark.renderer]
-  unsafe = true
