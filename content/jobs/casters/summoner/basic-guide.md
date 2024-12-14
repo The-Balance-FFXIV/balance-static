@@ -121,7 +121,7 @@ Titan's Astral Flow equivalent, **Mountain Buster**, is an oGCD ability that is 
 
 Its main spells, **Ruby Rite** and **Ruby Catastrophe**, are both hard casts.
 
-Ifrit's Astral Flow equivalent is a 1-2 melee combo. The first ability, **Crimson Cyclone**, also functions as a gap closer. The second ability, **Crimson Strike**, needs to be used in melee range. Note that this combo can be broken, so do not cast any other GCD spell between both hits.
+Ifrit's Astral Flow equivalent is a 1-2 melee combo. The first ability, **Crimson Cyclone**, also functions as a gap closer. The second ability, **Crimson Strike**, needs to be used in melee range.
 
 **Garuda phase** does the least damage, and has only one hardcast (Slipstream).
 
