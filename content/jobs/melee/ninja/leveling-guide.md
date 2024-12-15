@@ -19,7 +19,7 @@ changelog:
   - date: 2023-05-25T20:41:38.046Z
     message: Updated to 6.4 (no changes)
 ---
-This guide was written by Akashi for players who are seeking to, or are currently leveling Ninja. The guide aims to inform players about how to initially play as Ninja, what gear they should use while they level and where to find it, the key basics of the job, as well as some example openers for lower levels. If you are already a level 90 Ninja and are looking for information pertaining to the job at level 90, please see the [Basic Ninja Guide](/jobs/melee/ninja/basic-guide/).
+This guide was written by Akashi for players who are seeking to, or are currently leveling Ninja. The guide aims to inform players about how to initially play as Ninja, what gear they should use while they level and where to find it, the key basics of the job, as well as some example openers for lower levels. If you are already a level 100 Ninja and are looking for information pertaining to the job at level 100, please see the [Basic Ninja Guide](/jobs/melee/ninja/basic-guide/).
 
 ## **INTRODUCTION**
 
@@ -47,10 +47,13 @@ From level 70 you can purchase iLevel 400 Augmented Scaevan gear from Eschina in
 **Level 80:**\
 From level 80 you can purchase iLevel 530 Augmented Cryptlurker gear from Fathard in Eulmore (x:10.3, y:11.8). This will also cost the same amount of Allagan Tomestones of Poetics and last the same amount of levels, though the Endwalker MSQ will also give gear coffers similar to Shadowbringers.
 
-**Level 89**\
-Once you reach level 89, and have progressed through the MSQ far enough, you can obtain iLevel 560 Artifact Armor from Varsarudh in Old Sharlayan (x:11.8, y:9.9).
+**Level 90**\
+From level 90 you can purchase iLevel 630 Augmented Credendum gear from Cihanti in Radz-at-han (x:10.8, y:10.4). This will also cost the same amount of Allagan Tomestones of Poetics and last the same amount of levels, equating to roughly 4,000 poetics.
 
-### Stat Priority and Gear iLevel
+**Level 99**
+Once you reach level 99, and have progressed through the MSQ far enough, you can obtain iLevel 690 Artifact Armor from Mewazunte in Tuliyollal (x:12.4, y:12.9).
+
+Stat Priority and Gear iLevel
 
 Ninja currently follows the stat priority of: Weapon Damage >>> Dexterity >>> Critical Hit > Determination > Direct Hit, while avoiding Skill Speed as much as possible. However, always use the highest iLevel gear you have available to you, as it will always be a DPS gain over lower iLevel alternatives with more desirable stats.
 
@@ -62,7 +65,7 @@ Materia can be melded following the stat priority list above. Due to the nature 
 
 **Firstly, do not use Doton on single-target at any level. It is a significant damage loss.** 
 
-## **Huton Gauge**
+## **Kazematoi Gauge**
 
 **⦿** Unlocked at level 45, the Huton Gauge is an icon on your HUD in the shape of a fan that indicates the duration remaining on your Huton buff.\
 **⦿** The Huton buff is granted by casting the Ninjutsu Huton. It decreases your GCD recast speed by 15%, changing your 2.50 seconds GCD into 2.12 seconds, and has a duration of 60 seconds.
