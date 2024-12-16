@@ -18,6 +18,8 @@ changelog:
     message: Updated to 6.3; minor grammar/style edits
   - date: 2023-05-25T20:41:38.046Z
     message: Updated to 6.4 (no changes)
+  - date: 2024-12-16T11:00:55.789Z
+    message: Updated to 7.1
 ---
 This guide was written by Akashi for players who are seeking to, or are currently leveling Ninja. The guide aims to inform players about how to initially play as Ninja, what gear they should use while they level and where to find it, the key basics of the job, as well as some example openers for lower levels. If you are already a level 100 Ninja and are looking for information pertaining to the job at level 100, please see the [Basic Ninja Guide](/jobs/melee/ninja/basic-guide/).
 
