@@ -18,8 +18,10 @@ changelog:
     message: Updated to 6.3; minor grammar/style edits
   - date: 2023-05-25T20:41:38.046Z
     message: Updated to 6.4 (no changes)
+  - date: 2024-12-16T11:00:55.789Z
+    message: Updated to 7.1
 ---
-This guide was written by Akashi for players who are seeking to, or are currently leveling Ninja. The guide aims to inform players about how to initially play as Ninja, what gear they should use while they level and where to find it, the key basics of the job, as well as some example openers for lower levels. If you are already a level 90 Ninja and are looking for information pertaining to the job at level 90, please see the [Basic Ninja Guide](/jobs/melee/ninja/basic-guide/).
+This guide was written by Akashi for players who are seeking to, or are currently leveling Ninja. The guide aims to inform players about how to initially play as Ninja, what gear they should use while they level and where to find it, the key basics of the job, as well as some example openers for lower levels. If you are already a level 100 Ninja and are looking for information pertaining to the job at level 100, please see the [Basic Ninja Guide](/jobs/melee/ninja/basic-guide/).
 
 ## **INTRODUCTION**
 
@@ -47,10 +49,13 @@ From level 70 you can purchase iLevel 400 Augmented Scaevan gear from Eschina in
 **Level 80:**\
 From level 80 you can purchase iLevel 530 Augmented Cryptlurker gear from Fathard in Eulmore (x:10.3, y:11.8). This will also cost the same amount of Allagan Tomestones of Poetics and last the same amount of levels, though the Endwalker MSQ will also give gear coffers similar to Shadowbringers.
 
-**Level 89**\
-Once you reach level 89, and have progressed through the MSQ far enough, you can obtain iLevel 560 Artifact Armor from Varsarudh in Old Sharlayan (x:11.8, y:9.9).
+**Level 90**\
+From level 90 you can purchase iLevel 630 Augmented Credendum gear from Cihanti in Radz-at-han (x:10.8, y:10.4). This will also cost the same amount of Allagan Tomestones of Poetics and last the same amount of levels, equating to roughly 4,000 poetics.
 
-### Stat Priority and Gear iLevel
+**Level 99**
+Once you reach level 99, and have progressed through the MSQ far enough, you can obtain iLevel 690 Artifact Armor from Mewazunte in Tuliyollal (x:12.4, y:12.9).
+
+**Stat Priority and Gear iLevel**
 
 Ninja currently follows the stat priority of: Weapon Damage >>> Dexterity >>> Critical Hit > Determination > Direct Hit, while avoiding Skill Speed as much as possible. However, always use the highest iLevel gear you have available to you, as it will always be a DPS gain over lower iLevel alternatives with more desirable stats.
 
@@ -62,28 +67,28 @@ Materia can be melded following the stat priority list above. Due to the nature 
 
 **Firstly, do not use Doton on single-target at any level. It is a significant damage loss.** 
 
-## **Huton Gauge**
+## **Kazematoi Gauge**
 
-**⦿** Unlocked at level 45, the Huton Gauge is an icon on your HUD in the shape of a fan that indicates the duration remaining on your Huton buff.\
-**⦿** The Huton buff is granted by casting the Ninjutsu Huton. It decreases your GCD recast speed by 15%, changing your 2.50 seconds GCD into 2.12 seconds, and has a duration of 60 seconds.
+**⦿** Unlocked at level 54, the Kazematoi gauge is an element on your HUD with the appearance of multiple kunai, that indicates the number of buffed Aeolian Edges that can be used.\
+**⦿** Using Armor Crush gains 2 Kazematoi stacks, up to a maximum of 5. Using Aeolian Edge consumes 1 Kazematoi stack, increasing its potency by 100.
 
-![](/img/jobs/nin/image24.png)
+![](/img/jobs/nin/kazematoi_gauge.png)
 
-#### Huton Management
+#### Kazematoi Management
 
-* From when you unlock Huton, you should aim to have Huton active 100% of the time.
-* Always cast Huton as your first action when you enter a dungeon, or right before a boss (you can use Hide outside of combat to reset your mudra stacks back to maximum).
-* You can continue to keep Huton active during combat by recasting Huton once a minute as it is about to run out.
-* Once you reach level 54 you can start refreshing Huton with Armor Crush instead, once the duration is less than 30 seconds.
+* Always use Armor Crush as your first combo finisher to ensure you have stacks to buff Aeolian Edge.
+* You can always have Kazematoi stacks by using Armor Crush once every 2 Aeolian Edges.
+* If you have 4 or more Kazematoi stacks do not use Armor Crush as you will overcap.
+* It is better to miss a positional and use a buffed Aeolian Edge than to overcap Kazematoi stacks by using Armor Crush and hitting a positional.
 
 ## Ninki Gauge
 
 * Unlocked at level 62, the Ninki Gauge is an icon on your HUD in the shape of a scroll that indicates the amount of Ninki you currently have.
 * You can have a maximum of 100 Ninki, and actions that spend it cost 50 Ninki to use.
 * Ninki is gained by executing any weaponskill, and can be used to perform oGCD attacks such as Bhavacakra.
-* Ninki is also gained from Mug (40 Ninki per use), and Meisui (50 Ninki per use).
+* Ninki is also gained from Mug/Dokumori (40 Ninki per use), and Meisui (50 Ninki per use).
 
-![](/img/jobs/nin/image25.png)
+![](/img/jobs/nin/ninki_gauge.png)
 
 #### Ninki Management
 
@@ -91,58 +96,68 @@ Materia can be melded following the stat priority list above. Due to the nature 
 * Hellfrog Medium is better to use if there are three or more targets.
 * Bhavacakra is better for less than three targets.
 * From level 80 onward Bunshin should always be used on cooldown, so ensure you have enough Ninki aside to execute Bunshin as soon as it is able to be used.
+* AVOID OVERCAP.
 
 ### Filler
 
-Filler is defined by our rotation between our primary burst window (Trick Attack once per minute, with Mug alongside it once every two minutes). Given Trick Attack is only 15s long, most of our time is spent within our filler. 
+Filler is defined by our rotation between our primary burst window (Trick Attack/Kunai's Bane once per minute, with Mug/Dokumori alongside it once every two minutes). Given Trick Attack is only 15s long, most of our time is spent within our filler. 
 
 Make sure between your burst windows you:
 
-* Refresh Huton when it has less than 30 seconds of duration left.\
-  (Or less than 10 seconds, if you are refreshing with Huton and you’re below level 54).
+* Maintain Kazematoi stacks.
 * Cast Suiton once Trick Attack’s cooldown is below 20 seconds, but before you hit two charges on your mudras.
-* Don’t use any Ninjutsu other than the Suiton outside of your Trick window.\
-  (Unless you’re below level 54, and you’re using Huton to refresh Huton).
-* Use Kassatsu off cooldown before your next Trick window. The buff from it lasts 15 seconds, so there is no need to delay it.
+* Don’t use any Ninjutsu other than the Suiton outside of your Trick window.
+* Use Kassatsu off cooldown before your next 1min window. The buff from it lasts 15 seconds, so there is no need to delay it.
 
 # Rotations
 
 ## Single-Target
 
-Ensure before each opener you always cast ‘Huton’ roughly 10 seconds before the pull, and use ‘Hide’ to reset your mudra stacks back to full.
+Ensure before each opener you always cast ‘Suiton’ roughly 6 seconds before the pull.
 
-### Levels 50-59
+### Levels 50-69
 
-![](/img/jobs/nin/image4.png)
+![](/img/jobs/nin/ninja-level-50-69-ninja-opener.png)
 
-Once you hit level 54 you start refreshing Huton with Armor Crush instead of manually with the Huton Ninjutsu, once the duration is less than 30 seconds.
+Replace Dream Within A Dream with Assassinate.\
+Once you hit level 62 you can begin pooling Ninki and aiming to spend it within your burst windows with Hellfrog Medium, and later Bhavacakra at level 68.
 
-### Levels 60-69
 
-The level 60 opener and rotation is mostly identical to the level 50 one, however Assassinate is now upgraded to Dream within a Dream.
-
-![](/img/jobs/nin/image3.png)
-
-If you drop Huton during a fight, either due to > 60s cutscene/stunned downtime or death, you can now use Huraijin to recover the full duration. However, you should still use Huton > Hide to apply Huton before combat, and not use Hurajin in any other situation.
 
 ### Levels 70-72
 
 **NOTE:** Due to this opener only being useful for a couple of levels, it is recommended to skip this opener and do the Levels 73 - 79 opener instead, unless you plan on doing Level 70 Ultimate content such as the Unending Coil of Bahamut (Ultimate), or the Ultima Weapon’s Refrain (Ultimate).\
 For more information on the level 70 rotation, see the pin in the #nin_questions channel.
 
-![](/img/jobs/nin/image1.png)
+![](/img/jobs/nin/ninja-level-70-72-ninja-opener.png)
+
+Dokumori can be double-weaved with Trick Attack after Gust Slash to allow for a potion to be used after Spinning Edge.
 
 ### Levels 73-79
 
-![](/img/jobs/nin/image8.png)
+![](/img/jobs/nin/ninja-level-73-79-ninja-opener.png)
 
 It is important to note that once you reach Level 76, you swap the first Raiton after Trick Attack with Hyosho Ranryu, which has the same input as Hyoton.
 
 ### Levels 80-89
 
-![](/img/jobs/nin/image6.png)
+![](/img/jobs/nin/ninja-level-80-89-ninja-opener.png)
 
-From level 82, replace the first Aeolian Edge with Phantom Kamaitachi, pushing your first Aeolian Edge to the Spinning Edge after Meisui. The trick attack in the opener should be weaved as late as possible after Aeolian Edge while still avoiding clipping or delaying your GCD.
+From level 82, replace the last Spinning Edge in Dokumori with Phantom Kamaitachi, pushing your first Aeolian Edge to the Spinning Edge after Meisui.
+
+### Levels 90+
+
+![](/img/jobs/nin/ninja-level-90-ninja-opener.png)
+
+From levels 90 and onwards your opener will look something along the lines of this.
+
+At level 92 Trick Attack will upgrade to Kunai's Bane.
+
+At level 96 Dokumori will grant "Higi" which will upgrade the next Bhavacakra to Zesho Meppo, or Hellfrog Medium to Deathfrog Medium.
+
+And at level 100 the oGCD Tenri Jindo will be unlocked, which is weaved with the first Bhavacakra in the opener.
+
+
 
 ## **Multi-Target Guidelines**
 
@@ -152,7 +167,7 @@ From level 82, replace the first Aeolian Edge with Phantom Kamaitachi, pushing y
 * Doton, if the enemies will live longer than 12 seconds (Unless level 90, then use Raiton).
 * Katon (Unless level 90, then use Raiton).
 * Single-Target TCJ (Fuma > Raiton > Suiton). 
-* Bhavacakra.
+* Bhavacakra/Zesho Meppo
 * Hyosho Ranryu.
 
 ### More Than Three Targets
@@ -161,6 +176,6 @@ From level 82, replace the first Aeolian Edge with Phantom Kamaitachi, pushing y
 * Doton if the enemies will live longer than 12 seconds (Otherwise use Katon).
 * Katon.
 * Multi-Target TCJ (Fuma > Katon > Doton).
-* Hellfrog Medium.
+* Hellfrog Medium/Deathfrog Medium
 * Goka Mekkyaku.
 * Meisui-enhanced Bhavacakra
