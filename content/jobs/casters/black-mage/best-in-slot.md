@@ -23,12 +23,12 @@ changelog:
 bis:
   - type: xivgearset
     name: Early Savage Prog Sets
-    link: https://xivgear.app/?page=sl%7Cb90e64a1-6c4a-4e9e-950a-0c0c9fe95158
+    link: b90e64a1-6c4a-4e9e-950a-0c0c9fe95158
     description: Pentamelded prog sets for early savage prog. Higher ilvl gear will
       be an upgrade to the gear listed here.
   - type: xivgearset
     name: 7.05 Savage BiS Sets
-    link: https://xivgear.app/?page=sl%7C3261ad21-538e-41b8-a320-e2706c52fb5b
+    link: 3261ad21-538e-41b8-a320-e2706c52fb5b
     description: >-
       The strongest simmed set is the 2.42s set, followed closely by the high
       sps sets and other slower crit sets.The lowest of the bunch is the 2.36s
