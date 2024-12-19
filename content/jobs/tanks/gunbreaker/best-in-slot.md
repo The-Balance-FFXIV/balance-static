@@ -9,15 +9,15 @@ changelog:
 bis:
   - type: xivgearset
     name: 2.50 (Chaotic)
-    link: https://xivgear.app/?page=embed%7Csl%7Cac4ea201-35a5-40a1-85db-541f6ebfd125
+    link: ac4ea201-35a5-40a1-85db-541f6ebfd125
     description: </br> The FRU weapon is "true BIS" for all sets. Replace the
       Chaotic gloves with Dark Horse gloves when using the FRU weapon.
   - type: xivgearset
     name: 2.45 (Chaotic)
-    link: https://xivgear.app/?page=embed%7Csl%7Cc1ce8ff8-2278-4290-8726-d742c2f692ae
+    link: c1ce8ff8-2278-4290-8726-d742c2f692ae
   - type: xivgearset
     name: 2.40 (Chaotic)
-    link: https://xivgear.app/?page=embed%7Csl%7C33be1c0e-1f66-4360-af1b-bee086b8ead0
+    link: 33be1c0e-1f66-4360-af1b-bee086b8ead0
   - type: etro
     description: </br>Default suggestion.
     name: 2.50 (Non-Chaotic)
