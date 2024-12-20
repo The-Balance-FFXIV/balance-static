@@ -26,17 +26,21 @@ bis:
     link: b90e64a1-6c4a-4e9e-950a-0c0c9fe95158
     description: Pentamelded prog sets for early savage prog. Higher ilvl gear will
       be an upgrade to the gear listed here.
-  - type: xivgearset
-    name: 7.05 Savage BiS Sets
-    link: 3261ad21-538e-41b8-a320-e2706c52fb5b
+  - type: etro
+    name: 7.05 Savage Omni Caster BiS
+    link: https://etro.gg/gearset/903fafde-f0bf-4e99-9d80-4aceab2d36f2
+    description: ""
+  - type: etro
     description: >-
-      The strongest simmed set is the 2.42s set, followed closely by the high
-      sps sets and other slower crit sets.The lowest of the bunch is the 2.36s
-      crit set, but only trails by ~0.2% from the top set, so remains plenty
-      viable.
+      The strongest simmed set is the 2.42s  omni caster set, followed closely
+      by the high sps sets and other slower crit sets.The lowest of the bunch is
+      the 2.36s crit set, but only trails by ~0.2% from the top set, so remains
+      plenty viable.
 
 
-      Choose your set based on your preferred speed, compatibility with other casters, or whatever else. Note: currently a known issue where the tome wrist is "Healing" instead of "Casting". Stats are still correct, issue is only visual for now.
+      Choose your set based on your preferred speed, compatibility with other casters, or whatever else.
+    link: https://etro.gg/gearset/28dfabb8-911c-4e91-9725-85abbe4cada6
+    name: 7.05 Savage High Speed BiS
   - type: gsheets
     description: Gear Sheet for comparing various gearsets/meld options.
     name: Gear Sheet
