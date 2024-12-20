@@ -21,11 +21,6 @@ changelog:
   - date: 2024-08-18T02:26:30.602Z
     message: Updated for 7.05
 bis:
-  - type: xivgearset
-    name: Early Savage Prog Sets
-    link: b90e64a1-6c4a-4e9e-950a-0c0c9fe95158
-    description: Pentamelded prog sets for early savage prog. Higher ilvl gear will
-      be an upgrade to the gear listed here.
   - type: etro
     name: 7.05 Savage Omni Caster BiS
     link: https://etro.gg/gearset/903fafde-f0bf-4e99-9d80-4aceab2d36f2
