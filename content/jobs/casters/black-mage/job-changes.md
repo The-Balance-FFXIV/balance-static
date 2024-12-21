@@ -1,7 +1,7 @@
 ---
 title: Black Mage Changes
 layout: changes
-lastmod: 2024-08-09T00:58:57.341Z
+lastmod: 2024-12-21T04:12:25.702Z
 changes:
   - patch: "6.0"
     description: "[Click here to view all Endwalker changes on the Official
@@ -41,6 +41,14 @@ changes:
   - description: View the latest changes for 7.05 at the Official Site, located
       [here](https://na.finalfantasyxiv.com/jobguide/blackmage/)!
     patch: "7.05"
+  - patch: "7.1"
+    description: |-
+      | Action    |     | Adjustment                           |
+      | --------- | --- | ------------------------------------ |
+      | Despair   |     | Instant-cast via trait at level 100  |
+      | Flare     |     | Cast time reduced from 4s to 3s.     |
+      | Enochian  |     | Damage bonus lowered from 33% to 32% |
+      | Ley Lines |     | Now has two charges by default       |
 authors:
   - Balance-BLM-Staff
 ---
