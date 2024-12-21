@@ -1,8 +1,8 @@
 ---
 title: Black Mage Best in Slot (BiS)
 layout: bis
-patch: "7.05"
-lastmod: 2024-08-18T02:19:03.464Z
+patch: "7.15"
+lastmod: 2024-12-21T04:13:25.657Z
 changelog:
   - date: 2024-01-20T02:11:30.616Z
     message: Added BiS sets using Manderville Relic
@@ -21,21 +21,56 @@ changelog:
   - date: 2024-08-18T02:26:30.602Z
     message: Updated for 7.05
 bis:
-  - type: etro
-    name: 7.05 Savage Omni Caster BiS
-    link: https://etro.gg/gearset/903fafde-f0bf-4e99-9d80-4aceab2d36f2
+  - type: xivgearset
+    name: 2.42 Omnicaster Compatible BiS with Chaotic Gear & FRU Weapon
+    link: https://xivgear.app/?page=embed%7Csl%7C6e75e0f4-9b38-425a-b320-23c6ab0e74cb
+    description: Includes a single meld swap (Crit -> Det on savage ring).
+  - type: xivgearset
     description: ""
-  - type: etro
+    link: https://xivgear.app/?page=embed%7Csl%7Cec10f5d7-bb3b-4c65-bad3-db2d83e19ec7
+    name: 2.24 High SpS BiS with Chaotic Gear & FRU Weapon
+  - type: genericlink
+    name: Alternative Sets with Chaotic Gear & FRU Weapon
+    link: https://xivgear.app/?page=sl%7C205b3c0e-25c4-4097-becf-dcb8fb5daaa6
+    description: Hosts alternative sets at various other GCDs, including some sets
+      avoiding tomestone gear on the left side.
+  - type: xivgearset
+    link: https://xivgear.app/?page=embed%7Csl%7Cfeae7ccc-f15b-492e-9f51-0690785306fa
+    name: 2.42 Omnicaster Compatible BiS with Chaotic Gear
+    description: Includes a single meld swap (Crit -> Det on savage ring)
+  - type: xivgearset
+    name: 2.24 High SpS BiS with Chaotic Gear
+    link: https://xivgear.app/?page=embed%7Csl%7Cdf22331c-4352-42ba-a031-5d72ca1b1067
+  - type: genericlink
+    name: Alternative Sets with Chaotic Gear
+    description: Hosts alternative sets at various other GCDs, including some sets
+      avoiding tomestone gear on the left side.
+    link: https://xivgear.app/?page=sl%7Ca48e68d7-5ae5-47cb-909f-b38858023aaa
+  - type: xivgearset
+    name: 2.42 Omnicaster Compatible BiS
+    link: https://xivgear.app/?page=embed%7Csl%7C8d66e19e-3f29-4a20-861d-43d174c592bd
     description: >-
-      The strongest simmed set is the 2.42s  omni caster set, followed closely
-      by the high sps sets and other slower crit sets.The lowest of the bunch is
-      the 2.36s crit set, but only trails by ~0.2% from the top set, so remains
-      plenty viable.
+      By swapping the gloves for appropriately melded tome gloves, this set can
+      share gear with the PCT/RDM BiS sets as well as SMN omni-caster BiS sets.
 
 
-      Choose your set based on your preferred speed, compatibility with other casters, or whatever else.
-    link: https://etro.gg/gearset/28dfabb8-911c-4e91-9725-85abbe4cada6
-    name: 7.05 Savage High Speed BiS
+      Has speed melds on weapon to facilitate this compatibility with other caster sets.
+  - type: xivgearset
+    name: 2.36 High Crit BiS
+    link: https://xivgear.app/?page=embed%7Csl%7C35557376-6262-4333-834f-cda53101d4b3
+  - type: xivgearset
+    name: 2.24 High SpS BiS
+    link: https://xivgear.app/?page=embed%7Csl%7Cfd91bafd-bed1-4353-9bae-4ef0dff91491
+  - type: xivgearset
+    name: Alternative Sets without Chaotic Gear or FRU Weapon
+    link: https://xivgear.app/?page=sl%7Cca314375-63f1-48c2-a579-f6c617c54637
+    description: >-
+      Hosts alternative sets at various other GCDs.
+
+
+
+
+      Overall, choose your set based on your preferred speed, compatibility with other casters, or whatever else. The damage difference between sets is fairly minimal, particularly between sets using the Chaotic gear vs tome/raid gear.
   - type: gsheets
     description: Gear Sheet for comparing various gearsets/meld options.
     name: Gear Sheet
