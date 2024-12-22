@@ -34,14 +34,14 @@ changelog:
   - date: 2024-12-22T18:33:46.998Z
     message: Updated current BiS sheet link with chaotic gear.
 bis:
-  - type: xivgearset
+  - type: genericiframe
     name: 7.05 Bis (2.50)
-    link: ebf889ff-8fca-4d60-9483-bbaebb76f525
+    link: https://xivgear.app/?page=embed%7Csl%7C9ee61d69-7daa-41bd-9c28-8a0f0055f90f&onlySetIndex=0
     description: Speed should be chosen according to comfort, but this set is
       generally recommended.
-  - type: xivgearset
+  - type: genericiframe
     name: 7.05 BiS (2.46)
-    link: 289cfdf2-849f-407c-9612-96ec43d7ea2e
+    link: https://xivgear.app/?page=embed%7Csl%7C9ee61d69-7daa-41bd-9c28-8a0f0055f90f&onlySetIndex=0
   - type: genericlink
     name: 7.15 BiS Gearsets
     link: https://xivgear.app/?page=sl%7C9ee61d69-7daa-41bd-9c28-8a0f0055f90f
