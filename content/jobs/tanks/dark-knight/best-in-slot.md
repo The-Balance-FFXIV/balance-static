@@ -1,7 +1,7 @@
 ---
 title: Dark Knight Best in Slot (BiS)
 layout: bis
-patch: "7.1"
+patch: "7.15"
 lastmod: 2024-12-06T22:45:52.615Z
 changelog:
   - date: 2021-10-27T17:45:00.078Z
@@ -31,6 +31,8 @@ changelog:
   - date: 2024-11-19T18:24:23.533Z
     message: Updated gearset links to improve display and add sim information to
       sheets. Also added a 7.1 savage starter gear sheet.
+  - date: 2024-12-22T18:33:46.998Z
+    message: Updated current BiS sheet link with chaotic gear.
 bis:
   - type: xivgearset
     name: 7.05 Bis (2.50)
@@ -41,8 +43,8 @@ bis:
     name: 7.05 BiS (2.46)
     link: 289cfdf2-849f-407c-9612-96ec43d7ea2e
   - type: genericlink
-    name: 7.05 BiS Gearsets
-    link: https://xivgear.app/?page=sl%7C79977db6-1605-40bd-a13f-14e139684064
+    name: 7.15 BiS Gearsets
+    link: https://xivgear.app/?page=sl%7C9ee61d69-7daa-41bd-9c28-8a0f0055f90f
   - type: genericlink
     name: 7.1 Savage Starter Gearsets
     link: https://xivgear.app/?page=sl%7Ca5dcd340-dce2-499f-88c9-cfa3f478ae21
